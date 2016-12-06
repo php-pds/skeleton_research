@@ -106,7 +106,7 @@ downloaded packages, and how often they are used:
 
 - Ignore those that occur only once.
 
-Results: `results/01.txt`
+Results: [results/01.txt](./results/01.txt)
 
 It turns out there are 2762 unique top-level directories, and 30120 unique top-
 level file names.
@@ -127,7 +127,7 @@ their name:
 
 - Ignore files that are obviously code (e.g., `*.php` and `*.js`).
 
-Results: `results/02.txt`
+Results: [results/02.txt](./results/02.txt)
 
 For this, the collations into categories were necessarily "by hand," as there
 was no automated way to do so. The categories were for the initial expectations:
@@ -162,7 +162,7 @@ This brings the unexpected directories and files into the groupings:
 - Ignore listings with less than 5% usage across all packages, as a lower bound
   to indicate a minimum level of occurrence.
 
-Results: `results/03.txt`
+Results: [results/03.txt](./results/03.txt)
 
 The final set of categories was:
 
