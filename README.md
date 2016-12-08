@@ -51,6 +51,9 @@ LICENSE(.*)       # licensing information
 README(.*)        # read-me-first file
 ```
 
+Of the collected packages, 73% of them appear to already comply with these
+naming standards.
+
 ## Methodology
 
 ### Collection
@@ -235,3 +238,14 @@ CONTRIBUTING(.*)  # contribution guidelines
 Since not all packages may need all these categories, they need not be required
 to be present in a package. However, if a package *does* provide directories or
 files of these categories, they should use the names listed.
+
+Of the 63746 in the sample, 47106 (73%) of them tentatively appear compliant
+with the conclusion of this report.
+
+Results: [compliance.txt](./results/compliance.txt)
+
+To be clear, this does not mean that all the tentatively-compliant packages use
+all the directores and all the files named in the conclusion. Rather, it means
+that *when directories and files of the related purpose are present*, they use
+the names indicated in the conclusion. For example, when a source code directory
+is provided, it is named `src/` and not `lib/` (or something else).
