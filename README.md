@@ -219,33 +219,42 @@ As such:
 
 ## Conclusion
 
+### Recommendation
+
 Given the above collection and analysis, these names should be used for these
 purposes:
 
 ```
+bin/              # command-line files
+config/           # configuration files
+docs/             # documentation files
+public/           # web files
 src/              # source files
 tests/            # test files
-public/           # web files
-docs/             # documentation files
-config/           # configuration files
-bin/              # command-line files
-README(.*)        # read-me-first file
-LICENSE(.*)       # licensing information
 CHANGELOG(.*)     # change notes
 CONTRIBUTING(.*)  # contribution guidelines
+LICENSE(.*)       # licensing information
+README(.*)        # read-me-first file
 ```
 
 Since not all packages may need all these categories, they need not be required
 to be present in a package. However, if a package *does* provide directories or
 files of these categories, they should use the names listed.
 
-Of the 63746 in the sample, 47106 (73%) of them tentatively appear compliant
-with the conclusion of this report.
+### Current Compliance
+
+Of the 63746 packages in the sample, 47106 (73%) of them appear
+compliant with the above recommendation.
 
 Results: [compliance.txt](./results/compliance.txt)
 
-To be clear, this does not mean that all the tentatively-compliant packages use
-all the directores and all the files named in the conclusion. Rather, it means
-that *when directories and files of the related purpose are present*, they use
-the names indicated in the conclusion. For example, when a source code directory
-is provided, it is named `src/` and not `lib/` (or something else).
+This does not mean that all the apparently compliant packages use all the
+directores and all the files named in the conclusion. Rather, it means that
+*when directories and files for the related purpose are present in the package*,
+they use the names indicated above.
+
+For example, a package is apparently compliant when a directory for executable
+files is provided with the name `bin/`, and not `cli/` (or something else). If
+no such directory is provided under any recognizable name, the package is still
+apparently compliant, since not all packages may provide all the kinds of
+directories and files named above.
