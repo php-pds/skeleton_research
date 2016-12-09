@@ -78,7 +78,7 @@ naming standards.
    Github page for the default branch, to retain the top-level files and
    directories in the repository.
 
-Whereas the Packagist `list.json` file indicates 71392 packages total from 7642
+Whereas the Packagist `list.json` file indicates 71746 packages total from 7682
 vendors (each with at least 4 packages), there were some cases where downloading
 didn't work:
 
@@ -87,13 +87,13 @@ didn't work:
 - In step 5, sometimes the indicated "source" was not present on Github.
 
 Taking into account unavailable package JSON files, non-Github hosts, and
-missing source repositories, the sample ended up being 63746 packages. That is,
-7646 packages were not retrievable during the collection process, for an
-attrition rate of 10.7%.
+missing source repositories, the sample ended up being 65617 packages. That is,
+6129 packages were not retrievable during the collection process, for an
+attrition rate of 8.5%.
 
-For comparison, the `list.json` file indicates a nominal total of 119718
+For comparison, the `list.json` file indicates a nominal total of 120247
 packages on Packagist (this includes abandoned and missing packages). Thus, the
-collection process brought in 53% of the nominal total number of packages on
+collection process brought in 54.6% of the nominal total number of packages on
 Packagist.
 
 ### Analysis
@@ -107,11 +107,12 @@ downloaded packages, and how often they are used:
   directory and file names, with a count of how many times they appear, in
   descending order.
 
-- Ignore those that occur only once.
+Results:
 
-Results: [results/01.txt](./results/01.txt)
+- [results/01-dirs.txt](./results/01-dirs.txt)
+- [results/01-files.txt](./results/01-files.txt)
 
-It turns out there are 2762 unique top-level directories, and 30120 unique top-
+It turns out there are 6082 unique top-level directories, and 30826 unique top-
 level file names.
 
 #### Second Pass
@@ -119,40 +120,46 @@ level file names.
 This groups the directories and files by their presumed intent, rather than by
 their name:
 
-- Review the listings, and collate directories and files that appear to have
+- Review the listings, and group directories and files that appear to have
   similar purposes under a single category name, sorting them in descending order
   by category count.
 
 - Ignore directories and files that occur only once.
 
-- Ignore files that are obviously for tooling (e.g., dotfiles, `composer.*` and
-  `phpunit.*`).
+- Ignore directories starting with a capital letter, on the presumption that
+  they are PHP namespace directories.
 
-- Ignore files that are obviously code (e.g., `*.php` and `*.js`).
+Results:
 
-Results: [results/02.txt](./results/02.txt)
+- [results/02-dirs.txt](./results/02-dirs.txt)
+- [results/02-files.txt](./results/02-files.txt)
 
 For this, the collations into categories were necessarily "by hand," as there
 was no automated way to do so. The categories were for the initial expectations:
 
 - Directories:
-    - PHP source code files (69% of packages)
-    - Test files for that source code (39% of packages)
-    - Files intended to be publicly available via a web server (14% of packages)
-    - Documentation files (11% of packages)
+    - PHP source code files (67% of packages)
+    - Test files for that source code (38% of packages)
+    - Files intended to be publicly available via a web server (13% of packages)
+    - Documentation files (10% of packages)
     - Files intended for execution at the command line (5% of packages)
 - Files:
-    - a "read me first" file (92% of packages)
-    - a licensing or copyright file (60% of packages)
+    - a "read me first" file (90% of packages)
+    - a licensing or copyright file (58% of packages)
 
-This pass netted some highly-used directories and files not in the original
-expectation, all of which appeared more frequently than executable files:
+On inspection of the results, this pass netted one highly-used directory not in
+the original expectation:
 
-- `config/` directory (9% of packages)
+- `config/` directory (8% of packages)
+
+Looking past the files that are apparently tool-specific (`composer.json`,
+`phpunit.xml`, etc.), this pass also netted some highly-used files not in the
+original expectation:
+
 - `CHANGELOG.md` file (9% of packages)
-- `CONTRIBUTING.md` file (7% of packages)
+- `CONTRIBUTING.md` file (6% of packages)
 
-The frequency of the occurrence of these elements seems to mean they warrant
+The frequency of the occurrence of these elements would seem to warrant
 inclusion in the analysis.
 
 #### Third Pass
@@ -162,23 +169,23 @@ This brings the unexpected directories and files into the groupings:
 - Collate the new categories of directories and files into the previous
   groupings, and sort again by descending order.
 
-- Ignore listings with less than 5% usage across all packages, as a lower bound
-  to indicate a minimum level of occurrence.
+Results:
 
-Results: [results/03.txt](./results/03.txt)
+- [results/03-dirs.txt](./results/03-dirs.txt)
+- [results/03-files.txt](./results/03-files.txt)
 
 The final set of categories was:
 
 - Directories:
-    - PHP source code files (69% of packages)
-    - Test files for that source code (39% of packages)
-    - Files intended to be publicly available via a web server (14% of packages)
-    - Documentation files (11% of packages)
-    - Configuration files (10% of packages)
+    - PHP source code files (67% of packages)
+    - Test files for that source code (38% of packages)
+    - Files intended to be publicly available via a web server (13% of packages)
+    - Documentation files (10% of packages)
+    - Configuration files (9% of packages)
     - Files intended for execution at the command line (5% of packages)
 - Files:
-    - a "read me first" file (92% of packages)
-    - a licensing or copyright file (60% of packages)
+    - a "read me first" file (90% of packages)
+    - a licensing or copyright file (58% of packages)
     - a file of change notes (13% of packages)
     - a "contribution guidelines" file (7% of packages)
 
@@ -243,8 +250,8 @@ files of these categories, they should use the names listed.
 
 ### Current Compliance
 
-Of the 63746 packages in the sample, 47106 (73%) of them appear
-compliant with the above recommendation.
+Of the 65617 packages in the sample, 47395 (72%) of them appear compliant with
+the above recommendation.
 
 Results: [compliance.txt](./results/compliance.txt)
 
