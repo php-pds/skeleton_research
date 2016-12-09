@@ -1,0 +1,13 @@
+classes/
+config/
+guide/unittest/
+.gitignore
+.gitmodules
+.travis.yml
+README.markdown
+bootstrap.php
+bootstrap_all_modules.php
+composer.json
+example.phpunit.xml
+koharness.php
+tests.php

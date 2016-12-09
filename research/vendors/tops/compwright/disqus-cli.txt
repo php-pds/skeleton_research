@@ -1,0 +1,7 @@
+bin/
+src/
+.env-sample
+.gitignore
+LICENSE
+README.md
+composer.json

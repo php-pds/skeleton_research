@@ -1,0 +1,9 @@
+assets/
+css/
+js/
+php/
+.gitignore
+ChangeLog
+README.md
+composer.json
+index.html

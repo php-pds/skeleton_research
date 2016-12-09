@@ -1,0 +1,7 @@
+client-side/
+src/
+.gitignore
+CONTRIBUTING.md
+bower.json
+composer.json
+readme.md

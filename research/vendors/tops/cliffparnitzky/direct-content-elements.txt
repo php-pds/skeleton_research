@@ -1,0 +1,6 @@
+system/modules/DirectContentElements/
+.gitattributes
+.gitignore
+README.md
+composer.json
+screenshot.png

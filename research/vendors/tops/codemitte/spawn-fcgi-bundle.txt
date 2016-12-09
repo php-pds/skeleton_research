@@ -1,0 +1,5 @@
+.idea/
+src/Codemitte/Bundle/SpawnFcgiBundle/
+.gitignore
+composer.json
+composer.lock

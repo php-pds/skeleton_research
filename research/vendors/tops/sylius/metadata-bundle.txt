@@ -1,0 +1,11 @@
+Controller/
+DependencyInjection/
+DynamicForm/
+Form/Type/
+Model/
+Resources/
+.gitignore
+README.md
+SyliusMetadataBundle.php
+composer.json
+phpspec.yml.dist

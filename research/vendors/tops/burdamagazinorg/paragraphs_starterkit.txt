@@ -1,0 +1,8 @@
+config/install/
+css/
+modules/
+src/Tests/
+composer.json
+paragraphs_starterkit.info.yml
+paragraphs_starterkit.libraries.yml
+paragraphs_starterkit.module

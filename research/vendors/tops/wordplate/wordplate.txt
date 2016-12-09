@@ -1,0 +1,11 @@
+public/
+resources/assets/
+.editorconfig
+.env.example
+.gitignore
+LICENSE
+README.md
+composer.json
+gulpfile.js
+package.json
+wp-cli.yml

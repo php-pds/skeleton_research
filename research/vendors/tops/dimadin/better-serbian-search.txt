@@ -1,0 +1,4 @@
+inc/
+README.md
+better-serbian-search.php
+composer.json

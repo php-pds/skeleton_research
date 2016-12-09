@@ -1,0 +1,6 @@
+config/
+helpers/
+libraries/
+README.md
+composer.json
+spark.info

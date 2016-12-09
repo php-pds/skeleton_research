@@ -1,0 +1,8 @@
+examples/
+src/
+test/
+.gitignore
+LICENSE
+NOTICE
+README
+composer.json

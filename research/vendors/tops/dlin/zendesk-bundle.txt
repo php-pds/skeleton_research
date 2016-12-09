@@ -1,0 +1,10 @@
+.idea/
+DependencyInjection/
+Resources/config/
+Service/
+Tests/
+.gitignore
+DlinZendeskBundle.php
+README.md
+composer.json
+phpunit.xml.dist

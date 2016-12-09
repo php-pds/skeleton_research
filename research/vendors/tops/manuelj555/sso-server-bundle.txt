@@ -1,0 +1,11 @@
+Controller/
+DependencyInjection/
+Entity/
+Manager/
+Resources/config/
+Security/
+SsoServerBundle
+KuSsoServerBundle.php
+README.md
+SsoEvents.php
+composer.json

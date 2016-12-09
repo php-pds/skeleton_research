@@ -1,0 +1,12 @@
+spec/Yo/
+src/Yo/
+tests/Yo/
+.gitattributes
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CONTRIBUTING.md
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,8 @@
+DependencyInjection/
+Entity/
+Form/
+Resources/
+Translation/
+README.md
+VictoireWidgetCKEditorBundle.php
+composer.json

@@ -1,0 +1,9 @@
+examples/
+src/Stubborn/
+tests/StubbornTest/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+README.md
+composer.json
+phpunit.xml

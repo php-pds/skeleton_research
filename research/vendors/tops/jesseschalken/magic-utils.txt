@@ -1,0 +1,9 @@
+.idea/
+.gitattributes
+.gitignore
+MagicUtils.php
+MagicUtilsTraits.php
+MaigcUtilsTest.php
+README.md
+composer.json
+composer.lock

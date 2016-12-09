@@ -1,0 +1,9 @@
+DependencyInjection/
+Form/Extensions/
+Resources/
+Twig/
+.rmt.yml
+CHANGELOG
+NSColorAdminSonataBundle.php
+README.md
+composer.json

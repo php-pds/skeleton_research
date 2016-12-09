@@ -1,0 +1,8 @@
+Tests/
+.gitignore
+README.md
+SQL.php
+SQLAbstract.php
+SQLInterface.php
+composer.json
+phpunit.xml

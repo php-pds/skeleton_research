@@ -1,0 +1,15 @@
+_ide/
+assets/
+config/
+console/controllers/
+controllers/
+messages/ru/
+migrations/
+models/
+views/admin-cms-agent/
+CHANGELOG.md
+CmsAgentComponent.php
+CmsAgentModule.php
+LICENSE
+README.md
+composer.json

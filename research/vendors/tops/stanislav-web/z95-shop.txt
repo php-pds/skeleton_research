@@ -1,0 +1,10 @@
+app/
+public/
+.gitignore
+.htaccess
+.scrutinizer.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+composer.phar

@@ -1,0 +1,17 @@
+Assets/
+Config/
+Console/
+Database/
+Entities/
+Http/
+Providers/
+Repositories/
+Resources/
+Tests/
+.gitignore
+LICENSE
+README.md
+composer.json
+menus.php
+module.json
+start.php

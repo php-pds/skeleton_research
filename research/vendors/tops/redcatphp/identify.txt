@@ -1,0 +1,14 @@
+.gitignore
+Auth.php
+AuthServer.messages.en.php
+AuthServer.php
+PHPMailer.php
+README.md
+Random.php
+SecurityException.php
+Session.php
+SessionHandler.php
+SessionHandlerInterface.php
+autoload.inc.php
+composer.json
+password-compat.inc.php

@@ -1,0 +1,6 @@
+app/
+public/
+views/
+.gitignore
+composer.json
+readme.md

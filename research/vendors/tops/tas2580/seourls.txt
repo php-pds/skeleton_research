@@ -1,0 +1,11 @@
+config/
+event/
+tests/
+travis/
+.gitattributes
+.gitignore
+.travis.yml
+README.md
+composer.json
+license.txt
+version-check.json

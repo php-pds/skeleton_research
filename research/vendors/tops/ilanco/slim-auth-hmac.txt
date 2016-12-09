@@ -1,0 +1,9 @@
+app/database/
+src/IC/SlimAuthHmac/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,10 @@
+features/
+spec/
+src/
+tests/Adapter/Http/
+.gitignore
+.travis.yml
+README.md
+behat.yml.dist
+composer.json
+phpspec.yml

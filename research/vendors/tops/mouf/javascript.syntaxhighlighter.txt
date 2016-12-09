@@ -1,0 +1,12 @@
+compass/
+php/Mouf/Javascript/
+scripts/
+src/
+styles/
+tests/
+.gitignore
+LGPL-LICENSE
+MIT-LICENSE
+composer.json
+index.html
+install.php

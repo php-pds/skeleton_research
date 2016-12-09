@@ -1,0 +1,5 @@
+config/
+src/
+.DS_Store
+composer.json
+readme.md

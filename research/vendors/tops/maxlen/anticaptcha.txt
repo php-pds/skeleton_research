@@ -1,0 +1,6 @@
+examples/
+helpers/
+lib/v2/
+CaptchaService.php
+README.md
+composer.json

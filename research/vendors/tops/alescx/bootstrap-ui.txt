@@ -1,0 +1,11 @@
+src/
+tests/
+webroot/css/
+.gitignore
+.semver
+.travis.yml
+LICENSE
+README.md
+VERSION
+composer.json
+phpunit.xml.dist

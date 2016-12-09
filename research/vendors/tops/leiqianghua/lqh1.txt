@@ -1,0 +1,6 @@
+sdf/
+vendor/
+asdfagasd.txt
+composer.json
+composer.lock
+index.php

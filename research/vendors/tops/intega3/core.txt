@@ -1,0 +1,5 @@
+Classes/Intega3/Core/
+Configuration/
+Tests/Functional/Controller/
+README.md
+composer.json

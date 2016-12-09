@@ -1,0 +1,13 @@
+DependencyInjection/
+Doctrine/
+Event/
+EventListener/
+Filtration/
+Form/
+Pager/Event/Subscriber/Sortable/
+Resources/
+Twig/
+Util/
+ITEFiltrationBundle.php
+README.md
+composer.json

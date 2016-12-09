@@ -1,0 +1,11 @@
+assets/js/
+src/
+views/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+HACKING
+LICENSE
+README.md
+composer.json
+composer.lock

@@ -1,0 +1,12 @@
+admin/
+bin/
+docs/ru/
+install/
+src/
+tests/
+tmpl/
+.gitignore
+.travis.yml
+LICENSE.md
+README.md
+composer.json

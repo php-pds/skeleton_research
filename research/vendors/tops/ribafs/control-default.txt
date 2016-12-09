@@ -1,0 +1,6 @@
+config/
+docs/
+src/Template/Bake/
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,5 @@
+Resources/views/Components/
+.gitignore
+AvBootstrapAlmanachBundle.php
+LICENSE
+composer.json

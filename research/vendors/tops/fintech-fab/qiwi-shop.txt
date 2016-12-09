@@ -1,0 +1,8 @@
+public/
+src/
+tests/FintechFab/QiwiShop/
+.gitignore
+LICENSE
+README.md
+composer.json
+phpunit.xml

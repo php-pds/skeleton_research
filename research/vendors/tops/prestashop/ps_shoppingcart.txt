@@ -1,0 +1,15 @@
+controllers/front/
+img/
+translations/
+.gitignore
+Readme.md
+composer.json
+config.xml
+crossselling.tpl
+index.php
+logo.png
+modal.tpl
+ps_shoppingcart-product-line.tpl
+ps_shoppingcart.js
+ps_shoppingcart.php
+ps_shoppingcart.tpl

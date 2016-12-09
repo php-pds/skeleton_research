@@ -1,0 +1,7 @@
+WWW/
+app/
+doc/
+.gitignore
+composer.json
+phpunit.xml
+run.sh

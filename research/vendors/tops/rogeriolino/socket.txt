@@ -1,0 +1,5 @@
+demo/
+src/RogerioLino/Socket/
+.gitignore
+README.md
+composer.json

@@ -1,0 +1,15 @@
+Controller/
+DependencyInjection/
+Entity/
+Form/Type/
+Resources/
+.gitignore
+.scrutinizer.yml
+LICENSE
+MayecoNotificationsBundle.php
+NotificationErrorEvent.php
+NotificationEvent.php
+NotificationEvents.php
+README.md
+ResponseEvent.php
+composer.json

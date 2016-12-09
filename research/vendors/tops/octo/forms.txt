@@ -1,0 +1,10 @@
+Admin/
+Block/
+Event/
+Migration/
+Model/
+Public/
+Store/
+Template/
+Module.php
+composer.json

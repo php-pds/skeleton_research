@@ -1,0 +1,11 @@
+AsyncEventEmitter.php
+AsyncEventEmitterTrait.php
+BaseEventEmitter.php
+BaseEventEmitterTrait.php
+EventEmitter.php
+EventEmitterAwareInterface.php
+EventEmitterInterface.php
+EventEmitterTrait.php
+EventListener.php
+README.md
+composer.json

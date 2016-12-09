@@ -1,0 +1,8 @@
+Config/
+Coupon/Type/
+EventListeners/
+I18n/
+templates/backOffice/default/coupon/type-fragments/
+CouponOfferedProduct.php
+Readme.md
+composer.json

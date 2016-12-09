@@ -1,0 +1,15 @@
+bloc/
+templates/
+tests/
+.travis.yml
+BreadcrumbList.php
+LC_Page_FrontParts_Bloc_BreadcrumbList.php
+LC_Page_Plugin_BreadcrumbList_Config.php
+README.md
+codeception.yml
+composer.json
+config.php
+config.tpl
+logo.png
+plugin_info.php
+plugin_update.php

@@ -1,0 +1,6 @@
+DependencyInjection/
+Resources/config/services/
+LICENSE
+README.md
+UAMAwsBundle.php
+composer.json

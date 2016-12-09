@@ -1,0 +1,16 @@
+DataCollector/
+DependencyInjection/
+Exception/
+Manager/
+Permission/
+Resources/
+Tests/
+Token/
+Twig/
+.gitignore
+.php_cs
+.travis.yml
+NuxiaAclBundle.php
+README.md
+composer.json
+phpunit.xml

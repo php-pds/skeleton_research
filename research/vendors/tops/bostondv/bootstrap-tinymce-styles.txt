@@ -1,0 +1,6 @@
+.gitignore
+LICENSE.md
+README.md
+bootstrap-tinymce-styles.php
+composer.json
+readme.txt

@@ -1,0 +1,12 @@
+src/Magento/Client/
+test/
+.coveralls.yml
+.editorconfig
+.gitignore
+.travis.yml
+LICENSE
+README.md
+build.xml
+composer.json
+phpmd.xml
+phpunit.xml

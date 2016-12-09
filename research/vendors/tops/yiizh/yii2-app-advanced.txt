@@ -1,0 +1,9 @@
+src/
+vagrant/
+.bowerrc
+.gitignore
+README.md
+Vagrantfile
+composer.json
+composer.lock
+env.ini

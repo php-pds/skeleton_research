@@ -1,0 +1,8 @@
+src/
+tests/
+tmp/
+.gitignore
+LICENSE
+README.md
+composer.json
+phpunit.xml

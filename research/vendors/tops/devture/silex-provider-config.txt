@@ -1,0 +1,4 @@
+src/Devture/SilexProvider/Config/
+LICENSE.txt
+README.rst
+composer.json

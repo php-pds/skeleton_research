@@ -1,0 +1,3 @@
+etc/
+README.md
+composer.json

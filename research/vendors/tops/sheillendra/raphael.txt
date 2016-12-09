@@ -1,0 +1,14 @@
+dev/
+eve @ 42374a7
+.gitattributes
+.gitignore
+.gitmodules
+README.markdown
+bower.json
+composer.json
+history.md
+license.txt
+raphael-min.js
+raphael.js
+reference.html
+reference.js

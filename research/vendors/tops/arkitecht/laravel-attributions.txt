@@ -1,0 +1,3 @@
+src/Arkitecht/Attributions/
+README.md
+composer.json

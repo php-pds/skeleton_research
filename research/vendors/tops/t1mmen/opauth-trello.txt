@@ -1,0 +1,4 @@
+Vendor/
+README.md
+TrelloStrategy.php
+composer.json

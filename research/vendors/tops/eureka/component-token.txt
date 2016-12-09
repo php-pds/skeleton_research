@@ -1,0 +1,4 @@
+src/Token/
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,8 @@
+lib/
+.jscsrc
+.php_cs
+LICENSE
+README.md
+composer.json
+schema_ideas.txt
+schema_notes.txt

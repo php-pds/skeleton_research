@@ -1,0 +1,9 @@
+app/Mougrim/Deployer/
+bin/
+config/
+logs/
+.gitignore
+LICENSE.md
+README.md
+composer.json
+composer.lock

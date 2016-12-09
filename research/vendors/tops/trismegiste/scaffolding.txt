@@ -1,0 +1,7 @@
+src/Trismegiste/RADBundle/
+tests/
+.gitignore
+.travis.yml
+README.rst
+composer.json
+phpunit.xml

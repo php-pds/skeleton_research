@@ -1,0 +1,16 @@
+OnBoarding/
+images/
+js/
+public/
+scss/
+vendor/
+views/
+.gitignore
+README.md
+composer.json
+config.xml
+logo.png
+package.json
+webpack.config.js
+welcome-api.php
+welcome.php

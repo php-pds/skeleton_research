@@ -1,0 +1,10 @@
+Controller/
+DependencyInjection/
+Entity/
+Form/
+Resources/
+Tests/Controller/
+BBITBlogBundle.php
+LICENSE
+README.md
+composer.json

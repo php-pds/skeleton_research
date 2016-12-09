@@ -1,0 +1,12 @@
+Controller/
+DependencyInjection/
+Menu/
+Resources/
+Tests/
+.gitignore
+MaciAdminBundle.php
+MaciPager.php
+README.md
+composer.json
+composer.lock
+phpunit.xml

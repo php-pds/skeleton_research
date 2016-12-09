@@ -1,0 +1,11 @@
+includes/
+js/
+templates/admin/
+README.md
+bootstrap.php
+composer.json
+deploy.sh
+readme.txt
+screenshot-1.png
+screenshot-2.png
+screenshot-3.png

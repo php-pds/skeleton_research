@@ -1,0 +1,7 @@
+Monolog/
+Tests/
+.gitignore
+.travis.yml
+composer.json
+readme.md
+ruleset.xml

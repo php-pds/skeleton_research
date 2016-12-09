@@ -1,0 +1,4 @@
+assets/
+Editable.php
+EditableAsset.php
+composer.json

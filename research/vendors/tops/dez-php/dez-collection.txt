@@ -1,0 +1,7 @@
+example/
+src/Collection/
+.gitignore
+LICENCE
+README.md
+composer.json
+composer.lock

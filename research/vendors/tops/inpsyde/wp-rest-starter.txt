@@ -1,0 +1,13 @@
+.github/
+resources/images/
+src/
+tests/php/
+.editorconfig
+.gitattributes
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,8 @@
+Src/Pherserk/PageDownloader/
+Tests/Pherserk/PageDownloader/Component/
+.gitignore
+.scrutinizer.yml
+README.MD
+composer.json
+phpunit.php
+phpunit.xml

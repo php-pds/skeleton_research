@@ -1,0 +1,4 @@
+coverpicture/
+.gitignore
+README.md
+composer.json

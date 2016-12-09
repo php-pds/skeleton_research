@@ -1,0 +1,10 @@
+assets/
+src/
+.gitignore
+LICENSE.txt
+README.md
+bower.json
+composer.json
+gulpfile.js
+gulptask.js
+package.json

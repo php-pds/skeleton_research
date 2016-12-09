@@ -1,0 +1,8 @@
+src/
+.gitignore
+CHANGELOG.MD
+LICENSE.txt
+LICENSE_AFL.txt
+README.md
+composer.json
+modman

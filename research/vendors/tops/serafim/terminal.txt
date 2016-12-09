@@ -1,0 +1,5 @@
+example/
+src/Terminal/
+.gitignore
+README.md
+composer.json

@@ -1,0 +1,11 @@
+ci/
+src/Protec/ZF2Trait/
+tests/
+.gitignore
+.travis.yml
+COPYING.txt
+Module.php
+README.md
+composer.json
+composer.lock
+phpunit.xml

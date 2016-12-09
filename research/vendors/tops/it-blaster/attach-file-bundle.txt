@@ -1,0 +1,11 @@
+Behavior/
+Controller/
+DependencyInjection/
+Form/Type/
+Model/
+Resources/
+.gitignore
+ItBlasterAttachFileBundle.php
+LICENSE
+README.md
+composer.json

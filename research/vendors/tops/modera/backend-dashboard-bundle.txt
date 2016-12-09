@@ -1,0 +1,16 @@
+Contributions/
+Controller/
+Dashboard/
+DependencyInjection/
+Entity/
+EventListener/
+Resources/
+Service/
+Tests/
+Traits/
+.gitignore
+ModeraBackendDashboardBundle.php
+README.md
+composer.json
+jenkins.yaml
+phpunit.xml.dist

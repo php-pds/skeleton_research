@@ -1,0 +1,5 @@
+changelogs/
+mysite/code/
+.cow.json
+.gitignore
+composer.json

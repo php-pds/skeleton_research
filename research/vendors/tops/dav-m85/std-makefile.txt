@@ -1,0 +1,5 @@
+dist-example/
+README.md
+composer.json
+trusty-deploy-defaults.mk
+trusty-deploy.mk

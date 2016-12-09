@@ -1,0 +1,11 @@
+bin/
+config/
+src/
+web/
+.gitignore
+LICENSE
+README.md
+VERSION
+composer.json
+docker-compose.yml.sample
+service

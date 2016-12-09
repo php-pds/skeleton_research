@@ -1,0 +1,13 @@
+build/
+config/
+src/HumusSupervisorModule/
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE.txt
+Module.php
+README.md
+autoload_classmap.php
+composer.json
+phpunit.xml.dist

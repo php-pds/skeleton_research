@@ -1,0 +1,10 @@
+assets/
+classes/
+config/
+dca/
+languages/
+templates/cookiebar/
+.gitignore
+CHANGELOG.md
+README.md
+composer.json

@@ -1,0 +1,11 @@
+bin/
+lib/FSelectMenu/
+test/
+.gitignore
+.gitmodules
+.travis.yml
+README.md
+UPGRADE
+composer.json
+composer.lock
+phpunit.xml.dist

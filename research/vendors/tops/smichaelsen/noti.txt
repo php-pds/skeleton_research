@@ -1,0 +1,9 @@
+Classes/
+Configuration/TCA/
+Documentation/Screenshots/
+Resources/
+README.md
+composer.json
+ext_emconf.php
+ext_localconf.php
+ext_tables.sql

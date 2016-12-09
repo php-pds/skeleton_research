@@ -1,0 +1,7 @@
+src/Snappy/Apps/Mixpanel/
+tests/
+.gitignore
+composer.json
+mixpanel.png
+phpunit.xml
+readme.md

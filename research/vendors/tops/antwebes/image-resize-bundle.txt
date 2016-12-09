@@ -1,0 +1,4 @@
+Ant/ImageResizeBundle/
+.gitignore
+README.md
+composer.json

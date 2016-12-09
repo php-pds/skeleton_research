@@ -1,0 +1,13 @@
+Contributions/
+DependencyInjection/
+MJR/
+Resources/
+Tests/
+.gitignore
+.styleci.yml
+.travis.yml
+ModeraDynamicallyConfigurableMJRBundle.php
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

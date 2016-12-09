@@ -1,0 +1,12 @@
+config/
+sql/
+src/EvaFileSystem/
+tests/
+uploads/
+views/admin/media/
+.travis.yml
+LICENSE.md
+LICENSE.txt
+Module.php
+composer.json
+phpunit.xml.dist

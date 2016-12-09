@@ -1,0 +1,17 @@
+doc/
+src/Sensorario/Resources/
+test/
+.gitignore
+.travis.yml
+CHANGELOG.md
+CONTRIBUTING.md
+LICENCE
+bootstrap.php
+composer.json
+composer.lock
+composer.phar
+coverage
+install
+phpunit.xml
+readme.md
+runtests

@@ -1,0 +1,13 @@
+Algorithm/
+Exception/
+Tests/Algorithm/
+.gitignore
+CHANGELOG.md
+LICENSE
+README.md
+VoteAlgorithmInterface.php
+VoteInterface.php
+VoteableInterface.php
+VoterInterface.php
+composer.json
+phpunit.xml.dist

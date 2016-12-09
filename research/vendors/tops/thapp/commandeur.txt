@@ -1,0 +1,11 @@
+Domain/
+Tests/
+.gitignore
+.travis.yml
+AbstractCommand.php
+CommandBusInterface.php
+CommandHandlerInterface.php
+CommandInterface.php
+README.md
+composer.json
+phpunit.xml.dist

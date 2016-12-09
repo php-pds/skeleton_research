@@ -1,0 +1,5 @@
+src/Kollarovic/Admin/
+.gitignore
+LICENSE
+README.md
+composer.json

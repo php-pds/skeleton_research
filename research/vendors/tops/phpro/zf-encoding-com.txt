@@ -1,0 +1,9 @@
+config/
+src/Phpro/EncodingCom/
+tests/
+.gitignore
+.php_cs
+Module.php
+README.md
+composer.json
+phpunit.xml

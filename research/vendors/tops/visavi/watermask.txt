@@ -1,0 +1,8 @@
+src/
+.htaccess
+composer.json
+examples.php
+image.jpg
+readme.md
+result.jpg
+watermark.png

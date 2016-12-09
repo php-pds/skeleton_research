@@ -1,0 +1,6 @@
+.gitignore
+LICENSE.md
+common.inc.php
+composer.json
+hidden-calendars.js.php
+manifest.xml

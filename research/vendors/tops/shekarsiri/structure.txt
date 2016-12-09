@@ -1,0 +1,5 @@
+src/Structure/
+.gitignore
+LICENSE
+README.MD
+composer.json

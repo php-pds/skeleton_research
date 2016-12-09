@@ -1,0 +1,12 @@
+bin/
+conf/
+public/
+src/Qubes/Support/
+tests/
+.arcconfig
+.gitignore
+README.md
+composer.json
+phpcs.xml
+phpmd.xml
+phpunit.xml.dist

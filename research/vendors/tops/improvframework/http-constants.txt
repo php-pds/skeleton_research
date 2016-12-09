@@ -1,0 +1,13 @@
+src/
+tests/unit/
+.codeclimate.yml
+.coveralls.yml
+.gitignore
+.travis.yml
+LICENSE
+README.md
+build.xml
+composer.json
+phpcs.xml
+phpmetrics.yml.dist
+phpunit.xml.dist

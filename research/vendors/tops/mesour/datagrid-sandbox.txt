@@ -1,0 +1,8 @@
+log/
+temp/
+www/
+.gitignore
+README.md
+composer.json
+copyScripts.sh
+readme.md

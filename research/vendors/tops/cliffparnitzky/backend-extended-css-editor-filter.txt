@@ -1,0 +1,7 @@
+system/modules/BackendExtendedCssEditorFilter/
+.gitattributes
+.gitignore
+README.md
+composer.json
+screenshot_style_filter.jpg
+screenshot_stylesheet_filter.jpg

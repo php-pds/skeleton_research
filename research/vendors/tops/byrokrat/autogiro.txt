@@ -1,0 +1,15 @@
+features/
+rel/
+spec/
+src/
+tests/old/
+.gitattributes
+.gitignore
+.travis.yml
+LICENSE.md
+README.md
+TODO.md
+build_parser.php
+composer.json
+nitpick.json
+phpspec.yml

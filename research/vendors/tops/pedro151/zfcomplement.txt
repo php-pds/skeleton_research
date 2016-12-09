@@ -1,0 +1,7 @@
+.idea/scopes/
+js/validate/
+library/
+tests/
+.gitignore
+README.md
+composer.json

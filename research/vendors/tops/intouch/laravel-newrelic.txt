@@ -1,0 +1,6 @@
+src/
+.env.dev
+.gitignore
+README.md
+composer.json
+dashboard.png

@@ -1,0 +1,12 @@
+js/
+less/
+locale/
+migrations/
+scripts/
+src/
+.editorconfig
+.gitignore
+LICENSE
+README.md
+bootstrap.php
+composer.json

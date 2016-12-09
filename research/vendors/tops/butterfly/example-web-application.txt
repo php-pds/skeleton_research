@@ -1,0 +1,14 @@
+bin/
+config/
+data/
+src/
+tests/Project/Service/
+var/
+view/
+web/
+.gitignore
+LICENSE
+README.md
+composer.json
+di.yml
+phpunit.xml.dist

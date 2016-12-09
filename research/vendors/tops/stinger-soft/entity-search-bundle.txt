@@ -1,0 +1,17 @@
+Command/
+Controller/
+DependencyInjection/
+Form/
+Model/
+Resources/
+Services/
+Tests/
+.coveralls.yml
+.gitignore
+.project
+.travis.yml
+LICENSE
+README.md
+StingerSoftEntitySearchBundle.php
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,5 @@
+console/
+lib/Skeleton/I18n/
+LICENSE
+README.md
+composer.json

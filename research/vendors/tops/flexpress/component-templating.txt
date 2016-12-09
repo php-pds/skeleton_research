@@ -1,0 +1,5 @@
+src/FlexPress/Components/Templating/
+.gitignore
+LICENSE
+README.md
+composer.json

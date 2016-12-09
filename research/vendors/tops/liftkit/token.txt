@@ -1,0 +1,7 @@
+src/Token/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock

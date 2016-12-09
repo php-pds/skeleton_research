@@ -1,0 +1,4 @@
+src/Mangati/Exporter/
+LICENSE
+README.md
+composer.json

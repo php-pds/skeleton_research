@@ -1,0 +1,10 @@
+src/
+tests/
+.gitattributes
+.gitignore
+.scrutinizer.yml
+.travis.yml
+README.md
+UPGRADING.md
+codeception.dist.yml
+composer.json

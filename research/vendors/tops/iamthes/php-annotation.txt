@@ -1,0 +1,16 @@
+tests/
+Annotation.php
+AnnotationParser.php
+Annotation_build.php
+Lexer.php
+ParseException.php
+Parser.php
+Reflection.php
+ReflectionAnnotatedClass.php
+ReflectionAnnotatedFunction.php
+ReflectionAnnotatedMethod.php
+ReflectionAnnotatedParameter.php
+ReflectionAnnotatedProperty.php
+Token.php
+TokenBuffer.php
+composer.json

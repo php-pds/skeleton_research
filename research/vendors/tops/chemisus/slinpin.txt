@@ -1,0 +1,6 @@
+examples/
+src/Slinpin/
+test/
+.gitignore
+composer.json
+composer.lock

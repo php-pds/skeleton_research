@@ -1,0 +1,9 @@
+examples/
+src/PagarMe/
+.gitignore
+.styleci.yml
+.travis.yml
+LICENCE
+README.md
+composer.json
+phpunit.xml.dist

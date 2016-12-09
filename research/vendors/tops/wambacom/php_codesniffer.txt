@@ -1,0 +1,15 @@
+CodeSniffer/
+scripts/
+tests/
+.gitattributes
+.gitignore
+.travis.yml
+CONTRIBUTING.md
+CodeSniffer.conf.dist
+CodeSniffer.php
+README.md
+composer.json
+licence.txt
+package.xml
+phpcs.xml.dist
+phpunit.xml.dist

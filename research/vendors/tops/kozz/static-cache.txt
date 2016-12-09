@@ -1,0 +1,10 @@
+src/Components/Cache/
+tests/
+.gitignore
+.travis.php.ini
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

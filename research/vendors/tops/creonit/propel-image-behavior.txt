@@ -1,0 +1,4 @@
+templates/
+ImageBehavior.php
+LICENSE
+composer.json

@@ -1,0 +1,16 @@
+actions/plugins/settings/
+classes/ColdTrick/SearchAdvanced/
+languages/
+lib/
+pages/search/
+procedures/
+vendors/browserstate-history.js/
+views/default/
+.gitignore
+.travis.yml
+CHANGES.txt
+README.md
+composer.json
+composer.lock
+manifest.xml
+start.php

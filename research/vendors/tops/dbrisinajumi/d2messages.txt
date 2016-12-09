@@ -1,0 +1,10 @@
+controllers/
+messages/lv/
+migrations/
+models/
+views/
+widgets/
+D2messagesModule.php
+README.md
+composer.json
+translation.php

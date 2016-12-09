@@ -1,0 +1,8 @@
+src/Mochaka/NzbGet/
+tests/
+Gruntfile.js
+README.md
+composer.json
+package.json
+phpunit.xml
+travis-ci.xml

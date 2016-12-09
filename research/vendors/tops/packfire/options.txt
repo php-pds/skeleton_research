@@ -1,0 +1,8 @@
+src/Packfire/Options/
+test/
+.gitignore
+.travis.yml
+composer.json
+license
+phpunit.xml.dist
+readme.md

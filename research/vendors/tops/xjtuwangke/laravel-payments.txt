@@ -1,0 +1,8 @@
+cert/alipay/
+public/
+src/
+tests/
+.gitignore
+.travis.yml
+composer.json
+phpunit.xml

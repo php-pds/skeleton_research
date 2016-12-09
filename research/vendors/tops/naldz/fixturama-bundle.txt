@@ -1,0 +1,12 @@
+Command/
+DependencyInjection/
+Fixturama/
+Resources/config/
+TestHelper/App/
+Tests/
+.gitignore
+FixturamaBundle.php
+LICENSE
+composer.json
+composer.lock
+phpunit.xml.dist

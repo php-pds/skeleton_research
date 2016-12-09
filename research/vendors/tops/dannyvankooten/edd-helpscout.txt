@@ -1,0 +1,13 @@
+includes/
+tests/
+vendor/
+views/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+bootstrap.php
+composer.json
+edd-helpscout.php
+index.php
+readme.txt

@@ -1,0 +1,14 @@
+config/
+data/
+src/SspContact/
+tests/
+view/ssp-contact/contact/
+.gitignore
+LICENSE.txt
+Module.php
+README.md
+autoload_classmap.php
+autoload_function.php
+autoload_register.php
+composer.json
+composer.lock

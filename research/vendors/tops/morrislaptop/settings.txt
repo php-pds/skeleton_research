@@ -1,0 +1,8 @@
+Config/
+Controller/
+Model/
+Vendor/
+View/
+webroot/js/
+README.textile
+composer.json

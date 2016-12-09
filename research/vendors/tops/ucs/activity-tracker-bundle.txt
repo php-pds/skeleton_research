@@ -1,0 +1,9 @@
+DependencyInjection/
+Doctrine/
+Resources/config/
+Tests/
+.gitignore
+UCSActivityTrackerBundle.php
+composer.json
+composer.lock
+phpunit.xml.dist

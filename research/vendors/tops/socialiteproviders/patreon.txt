@@ -1,0 +1,3 @@
+PatreonExtendSocialite.php
+Provider.php
+composer.json

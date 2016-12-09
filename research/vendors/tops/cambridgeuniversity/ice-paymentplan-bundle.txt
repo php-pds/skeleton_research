@@ -1,0 +1,10 @@
+DependencyInjection/
+Resources/config/
+Tests/Functional/
+.gitignore
+IcePaymentPlanBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist
+shippable.yml

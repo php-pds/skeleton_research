@@ -1,0 +1,14 @@
+src/
+test/
+.gitattributes
+.gitignore
+CONTRIBUTING.md
+LICENSE
+Makefile
+README.md
+TODO
+composer.json
+composer.lock
+coretyson
+index.php
+phpdoc.dist.xml

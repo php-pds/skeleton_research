@@ -1,0 +1,11 @@
+build/
+controllers/
+lang/
+lib/Bootstrap/
+models/Pimcore/Model/Document/Tag/
+static/
+views/
+.gitignore
+README.md
+composer.json
+plugin.xml

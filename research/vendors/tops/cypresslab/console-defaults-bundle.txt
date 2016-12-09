@@ -1,0 +1,15 @@
+Console/
+DependencyInjection/
+Listener/
+Resources/config/
+Tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CypressConsoleDefaultsBundle.php
+INSTALL.md
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

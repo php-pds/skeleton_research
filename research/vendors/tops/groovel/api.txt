@@ -1,0 +1,9 @@
+.settings/
+apidoc/
+src/
+.buildpath
+.project
+README.MD
+apidoc.json
+composer.json
+tips.txt

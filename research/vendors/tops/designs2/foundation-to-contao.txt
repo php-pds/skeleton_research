@@ -1,0 +1,4 @@
+core/system/modules/foundation-to-contao/
+files-package/
+README.md
+composer.json

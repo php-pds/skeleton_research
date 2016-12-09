@@ -1,0 +1,8 @@
+language/en_us/
+views/default/images/
+.gitignore
+LICENSE
+README.md
+composer.json
+config.json
+thesslstore_plugin.php

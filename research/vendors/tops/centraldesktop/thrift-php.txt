@@ -1,0 +1,9 @@
+lib/Thrift/
+src/
+test/
+Makefile.am
+Makefile.in
+README
+README.apache
+composer.json
+thrift_protocol.ini

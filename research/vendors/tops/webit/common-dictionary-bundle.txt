@@ -1,0 +1,10 @@
+Annotation/
+Command/
+DependencyInjection/
+Model/
+ORM/
+PHPCR/
+Resources/config/
+.gitignore
+WebitCommonDictionaryBundle.php
+composer.json

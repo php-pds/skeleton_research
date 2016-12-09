@@ -1,0 +1,11 @@
+src/CarbonExt/NBD/
+tests/
+.gitattributes
+.gitignore
+.travis.yml
+LICENSE
+README.md
+apigen.conf
+composer.json
+composer.lock
+phpunit.xml.dist

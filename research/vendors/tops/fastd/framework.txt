@@ -1,0 +1,8 @@
+src/Framework/
+.gitignore
+ChangeLog.md
+LICENSE
+README.md
+composer.json
+console
+phpunit.xml.dist

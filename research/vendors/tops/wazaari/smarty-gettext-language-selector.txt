@@ -1,0 +1,4 @@
+src/SmartyLanguageSelector/
+.gitignore
+README.MD
+composer.json

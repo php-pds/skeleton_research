@@ -1,0 +1,8 @@
+_config/
+code/
+vendor/Mailchimp/
+.scrutinizer.yml
+CHANGELOG.md
+LICENSE.md
+README.md
+composer.json

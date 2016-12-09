@@ -1,0 +1,10 @@
+src/
+tests/Actions/
+.gitignore
+.travis.yml
+CHANGELOG.md
+README.md
+composer.json
+phpcs.xml
+phpmd.xml
+phpunit.xml

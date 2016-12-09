@@ -1,0 +1,5 @@
+lib/Qi/Db/
+tests/
+.gitignore
+README.md
+composer.json

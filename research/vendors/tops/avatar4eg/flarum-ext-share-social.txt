@@ -1,0 +1,9 @@
+js/
+less/forum/
+locale/
+migrations/
+src/Listener/
+bootstrap.php
+composer.json
+license
+readme.md

@@ -1,0 +1,7 @@
+src/Frahil/FooTools/
+tests/Frahil/FooToolsTest/
+.gitignore
+.travis.yml
+LICENSE.txt
+composer.json
+phpunit.xml

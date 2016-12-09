@@ -1,0 +1,5 @@
+src/plaintext-replacer/
+.gitignore
+LICENSE
+README.md
+composer.json

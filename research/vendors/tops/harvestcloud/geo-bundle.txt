@@ -1,0 +1,11 @@
+Tests/
+.gitignore
+.travis.yml
+GeocodableInterface.php
+GeolocatableInterface.php
+HarvestCloudGeoBundle.php
+LICENSE
+LatLng.php
+README.md
+composer.json
+phpunit.xml.dist

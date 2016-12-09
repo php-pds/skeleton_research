@@ -1,0 +1,10 @@
+config/
+src/
+tests/
+.DS_Store
+.gitignore
+.travis.yml
+LICENCE
+README.md
+composer.json
+phpunit.xml

@@ -1,0 +1,4 @@
+Vivait/ResolveEntityBundle/
+spec/Vivait/ResolveEntityBundle/
+README.md
+composer.json

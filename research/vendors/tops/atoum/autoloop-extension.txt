@@ -1,0 +1,10 @@
+classes/
+doc/
+tests/units/classes/
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+composer.json
+configuration.php

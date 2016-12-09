@@ -1,0 +1,7 @@
+Client/
+Exception/
+Resources/Docs/
+.gitignore
+LICENSE
+README.md
+composer.json

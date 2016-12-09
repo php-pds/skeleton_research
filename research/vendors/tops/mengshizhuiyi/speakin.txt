@@ -1,0 +1,4 @@
+src/speakin/
+.gitignore
+composer.json
+composer.lock

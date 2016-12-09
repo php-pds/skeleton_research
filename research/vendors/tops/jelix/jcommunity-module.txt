@@ -1,0 +1,9 @@
+modules/
+test/
+.gitattributes
+.gitignore
+INSTALL.md
+LICENCE
+README.md
+VERSION
+composer.json

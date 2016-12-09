@@ -1,0 +1,9 @@
+i18n/
+resources/main/
+src/
+.gitreview
+LICENSE
+SemanticSifter.i18n.magic.php
+SemanticSifter.i18n.php
+SemanticSifter.php
+composer.json

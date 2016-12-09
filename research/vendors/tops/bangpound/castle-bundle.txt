@@ -1,0 +1,10 @@
+Command/
+Controller/
+CouchDocument/
+DependencyInjection/
+MetadataResolver/
+Resources/
+Tests/Controller/
+.gitignore
+BangpoundCastleBundle.php
+composer.json

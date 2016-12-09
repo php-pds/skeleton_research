@@ -1,0 +1,8 @@
+src/Sonrisa/Component/FileReader/
+tests/Sonrisa/Component/FileReader/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,9 @@
+app/
+plugins/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock
+slacky
+slacky.example.json

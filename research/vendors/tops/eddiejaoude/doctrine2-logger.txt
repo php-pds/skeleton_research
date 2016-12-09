@@ -1,0 +1,9 @@
+config/
+src/Doctrine2Logger/
+.gitignore
+LICENSE
+Module.php
+README.md
+composer.json
+composer.lock
+composer.phar

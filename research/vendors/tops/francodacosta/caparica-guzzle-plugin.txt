@@ -1,0 +1,7 @@
+src/Francodacosta/Caparica/Plugins/Guzzle/
+.gitignore
+.travis.yml
+LICENSE
+Readme.md
+composer.json
+composer.lock

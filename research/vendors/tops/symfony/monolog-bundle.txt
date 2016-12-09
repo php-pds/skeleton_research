@@ -1,0 +1,12 @@
+DependencyInjection/
+Resources/
+SwiftMailer/
+Tests/DependencyInjection/
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENSE
+MonologBundle.php
+README.md
+composer.json
+phpunit.xml.dist

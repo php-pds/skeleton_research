@@ -1,0 +1,11 @@
+bin/
+src/Bolido/
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpdoc.xml
+phpunit.xml

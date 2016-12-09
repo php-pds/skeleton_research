@@ -1,0 +1,7 @@
+Controller/
+DependencyInjection/
+Resources/
+Tests/Controller/
+JseImageCropBundle.php
+README.md
+composer.json

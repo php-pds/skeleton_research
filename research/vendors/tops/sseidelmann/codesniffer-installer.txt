@@ -1,0 +1,9 @@
+build/
+src/Seidelmann/CodesnifferInstaller/
+tests/
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENCE
+README.md
+composer.json

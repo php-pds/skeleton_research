@@ -1,0 +1,9 @@
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+advanced-nav-cache.php
+composer.json
+phpcs.ruleset.xml
+phpunit.xml

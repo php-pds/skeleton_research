@@ -1,0 +1,8 @@
+console/
+docs/
+shell-scripts/
+skeleton/db/
+.gitignore
+README.md
+composer.json
+composer.lock

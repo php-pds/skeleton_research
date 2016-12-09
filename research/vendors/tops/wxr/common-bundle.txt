@@ -1,0 +1,6 @@
+Entity/
+Model/
+Resources/
+README.md
+WXRCommonBundle.php
+composer.json

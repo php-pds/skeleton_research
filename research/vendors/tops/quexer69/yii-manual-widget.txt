@@ -1,0 +1,5 @@
+CHANGELOG.md
+ManualImageAction.php
+ManualWidget.php
+README.md
+composer.json

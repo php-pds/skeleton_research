@@ -1,0 +1,6 @@
+config/
+src/ValuMail/
+tests/
+.gitignore
+Module.php
+composer.json

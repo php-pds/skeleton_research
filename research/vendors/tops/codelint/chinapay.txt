@@ -1,0 +1,8 @@
+demo/
+src/Omnipay/
+.gitignore
+HOWTO
+HOWTO.html
+README.md
+composer.json
+composer.lock

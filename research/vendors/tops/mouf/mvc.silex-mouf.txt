@@ -1,0 +1,5 @@
+doc/images/
+src/Mouf/Silex/
+LICENSE.txt
+README.md
+composer.json

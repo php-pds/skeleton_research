@@ -1,0 +1,12 @@
+log/
+src/
+tests/
+.editorconfig
+.gitattributes
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENCE
+README.md
+composer.json
+phpunit.xml

@@ -1,0 +1,11 @@
+bin/
+src/Zymfony/Component/Validator/
+tests/Zymfony/Component/Validator/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+README.tpl
+composer.json
+composer.lock
+phpunit.xml.dist

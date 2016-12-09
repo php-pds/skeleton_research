@@ -1,0 +1,6 @@
+responses/
+LICENSE
+README.md
+SchedulerClient.php
+Task.php
+composer.json

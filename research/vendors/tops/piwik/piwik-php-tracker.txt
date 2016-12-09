@@ -1,0 +1,5 @@
+.gitignore
+LICENSE
+PiwikTracker.php
+README.md
+composer.json

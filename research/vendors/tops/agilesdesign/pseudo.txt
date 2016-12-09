@@ -1,0 +1,4 @@
+src/Pseudo/
+LICENSE
+README.md
+composer.json

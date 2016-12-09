@@ -1,0 +1,8 @@
+Block/Adminhtml/System/Config/Form/Field/
+Helper/
+Plugin/Magento/Cms/Model/Wysiwyg/Images/
+etc/
+LICENSE.txt
+README.md
+composer.json
+registration.php

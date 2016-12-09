@@ -1,0 +1,8 @@
+shell/
+tests/
+.travis.yml
+README.md
+build.xml
+composer.json
+licence
+modman

@@ -1,0 +1,4 @@
+.gitignore
+JwtMiddleware.php
+composer.json
+composer.lock

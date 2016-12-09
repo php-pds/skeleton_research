@@ -1,0 +1,15 @@
+build/
+src/
+tests/
+.editorconfig
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CONTRIBUTING.md
+CREDITS
+LICENSE.md
+README.md
+composer.json
+composer.lock
+phpcs.xml
+phpunit.xml.dist

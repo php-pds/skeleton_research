@@ -1,0 +1,7 @@
+database/migrations/
+screenshots/
+src/
+.gitattributes
+LICENSE.txt
+README.md
+composer.json

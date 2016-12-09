@@ -1,0 +1,7 @@
+.gitignore
+LICENSE
+MultiCurl.php
+MultiCurlQueue.php
+MultiCurlRequest.php
+README.md
+composer.json

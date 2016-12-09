@@ -1,0 +1,7 @@
+behaviors/
+.gitignore
+ActiveQuery.php
+ActiveRecord.php
+LICENSE.md
+README.md
+composer.json

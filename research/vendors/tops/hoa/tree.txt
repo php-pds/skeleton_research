@@ -1,0 +1,10 @@
+ITree/
+Visitor/
+.gitignore
+Binary.php
+CHANGELOG.md
+Exception.php
+Generic.php
+SimpleNode.php
+Tree.php
+composer.json

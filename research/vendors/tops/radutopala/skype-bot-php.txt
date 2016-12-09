@@ -1,0 +1,8 @@
+bin/
+src/Skype/
+.gitignore
+LICENSE
+README.md
+box-build.md
+box.json.dist
+composer.json

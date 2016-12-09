@@ -1,0 +1,7 @@
+controllers/
+messages/ru-RU/
+migrations/
+views/main/
+README.md
+SitemapModule.php
+composer.json

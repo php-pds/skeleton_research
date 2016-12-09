@@ -1,0 +1,8 @@
+.gitignore
+Judge.php
+JudgeTest.php
+LICENSE
+README.md
+composer.json
+composer.lock
+data.json

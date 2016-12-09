@@ -1,0 +1,10 @@
+src/Cubex/Nrpe/
+.arcconfig
+.gitattributes
+.gitignore
+AUTHORS
+README.md
+composer.json
+phpcs.xml
+phpmd.xml
+phpunit.xml.dist

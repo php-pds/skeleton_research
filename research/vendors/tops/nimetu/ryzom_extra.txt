@@ -1,0 +1,10 @@
+bin/
+lib/RyzomExtra/
+resources/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json
+phpunit.xml
+ryzom_extra.php

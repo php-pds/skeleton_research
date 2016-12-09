@@ -1,0 +1,6 @@
+docs/
+src/tkj/Economics/
+.gitignore
+LICENSE
+README.md
+composer.json

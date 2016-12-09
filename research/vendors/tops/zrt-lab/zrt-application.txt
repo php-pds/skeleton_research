@@ -1,0 +1,11 @@
+library/
+provision/
+.gitignore
+Gemfile
+LICENSE.md
+Puppetfile
+README.md
+Vagrantfile
+composer.json
+main.sh
+phpunit.xml

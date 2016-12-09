@@ -1,0 +1,6 @@
+app/
+src/esperanto/ProjectBundle/
+web/
+.gitignore
+LICENSE
+composer.json

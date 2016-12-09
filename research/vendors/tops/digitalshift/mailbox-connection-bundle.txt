@@ -1,0 +1,10 @@
+Connection/
+DependencyInjection/
+Entity/
+Exception/
+Factory/
+Resources/
+Tests/
+DigitalshiftMailboxConnectionBundle.php
+README.md
+composer.json

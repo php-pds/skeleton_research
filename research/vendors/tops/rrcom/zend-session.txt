@@ -1,0 +1,7 @@
+config/
+schema/
+src/ZendSession/
+LICENSE
+Module.php
+README.md
+composer.json

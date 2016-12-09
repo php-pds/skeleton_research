@@ -1,0 +1,9 @@
+bin/
+tests/
+.travis.yml
+LICENSE
+README.md
+built-in-taxos-cpt.php
+composer.json
+index.php
+phpunit.xml

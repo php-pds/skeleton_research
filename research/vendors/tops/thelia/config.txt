@@ -1,0 +1,7 @@
+.gitkeep
+.htaccess
+Readme.md
+build.properties.sample
+composer.json
+database.yml.sample
+schema.xml

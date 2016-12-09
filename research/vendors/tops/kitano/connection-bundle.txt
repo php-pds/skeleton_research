@@ -1,0 +1,17 @@
+DependencyInjection/
+Document/
+Entity/
+Event/
+Exception/
+Listener/
+Manager/
+Model/
+Repository/
+Resources/
+Tests/
+.gitignore
+.travis.yml
+KitanoConnectionBundle.php
+README.md
+composer.json
+phpunit.xml.dist

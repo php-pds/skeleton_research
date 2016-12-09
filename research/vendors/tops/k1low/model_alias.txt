@@ -1,0 +1,4 @@
+Lib/Trait/
+.gitignore
+README.md
+composer.json

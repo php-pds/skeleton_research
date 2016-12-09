@@ -1,0 +1,8 @@
+src/Jenner/RedisRetry/
+tests/
+.travis.yml
+README.md
+README.zh.md
+composer.json
+php.redis.ini
+phpunit.xml.dist

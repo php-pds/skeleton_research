@@ -1,0 +1,9 @@
+.gitignore
+AmazonConfig.php
+AmazonProductLink.php
+AmazonStatic.php
+IPToAmazon.data
+LICENSE
+README.md
+composer.json
+composer.lock

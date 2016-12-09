@@ -1,0 +1,14 @@
+src/DreamCommerce/SingleSignOn/
+tests/DreamCommerce/SingleSignOn/
+.gitignore
+.travis.php.ini
+.travis.yml
+README.md
+build-pre-commit.xml
+build.xml
+composer.json
+phpcs.xml
+phpmd-pre-commit.xml
+phpmd.xml
+phpunit.xml
+qa-tools.json

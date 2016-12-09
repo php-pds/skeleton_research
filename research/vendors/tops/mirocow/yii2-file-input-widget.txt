@@ -1,0 +1,12 @@
+assets/
+behaviors/
+examples/
+models/
+providers/
+views/
+.gitignore
+FileInput.php
+FileInputAsset.php
+LICENSE.txt
+README.md
+composer.json

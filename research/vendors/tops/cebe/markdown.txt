@@ -1,0 +1,17 @@
+bin/
+block/
+inline/
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CHANGELOG.md
+CONTRIBUTING.md
+GithubMarkdown.php
+LICENSE
+Markdown.php
+MarkdownExtra.php
+Parser.php
+README.md
+composer.json
+phpunit.xml.dist

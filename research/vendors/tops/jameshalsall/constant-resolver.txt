@@ -1,0 +1,5 @@
+src/JamesHalsall/ConstantResolver/
+.gitignore
+README.md
+composer.json
+phpunit.xml

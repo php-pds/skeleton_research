@@ -1,0 +1,12 @@
+bin/
+build/
+config/
+src/OrgHeiglHybridAuth/
+tests/
+.gitignore
+.travis.yml
+Module.php
+README.md
+composer.json
+composer.phar
+phpunit.xml.dist

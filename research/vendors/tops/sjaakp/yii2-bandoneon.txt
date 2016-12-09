@@ -1,0 +1,7 @@
+assets/
+.gitignore
+Bandoneon.php
+BandoneonAsset.php
+LICENSE
+README.md
+composer.json

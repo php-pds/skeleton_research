@@ -1,0 +1,4 @@
+src/AlanPich/Modx/Extras/
+.gitignore
+README.md
+composer.json

@@ -1,0 +1,7 @@
+languages/
+.travis.yml
+LICENSE
+composer.json
+readme.md
+readme.txt
+simple-header-footer-html.php

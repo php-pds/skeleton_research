@@ -1,0 +1,12 @@
+doc/
+font/
+makefont/
+tutorial/
+FAQ.htm
+README.md
+changelog.htm
+composer.json
+fpdf.css
+fpdf.php
+install.txt
+license.txt

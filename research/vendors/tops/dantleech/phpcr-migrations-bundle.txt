@@ -1,0 +1,12 @@
+Command/
+DependencyInjection/
+Resources/
+Tests/
+.gitignore
+.php_cs
+.travis.yml
+LICENSE
+PhpcrMigrationsBundle.php
+README.md
+composer.json
+phpunit.xml.dist

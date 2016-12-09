@@ -1,0 +1,10 @@
+bin/
+doc/
+src/
+tests/
+.gitignore
+commands.sh
+composer.json
+license
+readme.md
+todo.txt

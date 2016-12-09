@@ -1,0 +1,4 @@
+.gitignore
+composer.json
+polylang-copy-content.php
+readme.md

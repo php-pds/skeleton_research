@@ -1,0 +1,11 @@
+Admin/
+DependencyInjection/
+Entity/
+Repository/
+Resources/config/
+Tests/
+.gitignore
+KixStaticPagesBundle.php
+README.md
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,4 @@
+src/Narno/PHPoole/Composer/
+.gitattributes
+README.md
+composer.json

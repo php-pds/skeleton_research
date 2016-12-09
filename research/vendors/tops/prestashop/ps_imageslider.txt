@@ -1,0 +1,16 @@
+css/
+images/
+js/
+translations/
+upgrade/
+views/
+.gitignore
+Ps_HomeSlide.php
+Readme.md
+ajax_homeslider.php
+composer.json
+config.xml
+homeslider.gif
+index.php
+logo.png
+ps_imageslider.php

@@ -1,0 +1,14 @@
+_config/
+code/
+css/
+docs/en/
+javascript/
+tests/
+.editorconfig
+.gitattributes
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

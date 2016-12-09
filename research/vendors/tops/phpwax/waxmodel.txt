@@ -1,0 +1,4 @@
+Wax/Model/
+tests/
+.gitignore
+composer.json

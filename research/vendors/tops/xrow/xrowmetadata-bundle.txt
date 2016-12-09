@@ -1,0 +1,5 @@
+DependencyInjection/
+FieldType/XrowMetadata/
+Resources/config/
+composer.json
+xrowMetadataBundle.php

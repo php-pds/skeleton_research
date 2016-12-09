@@ -1,0 +1,8 @@
+bin/
+fixtures/
+src/Smrtr/SpawnPoint/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock

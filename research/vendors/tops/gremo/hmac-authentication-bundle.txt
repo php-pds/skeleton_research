@@ -1,0 +1,7 @@
+DependencyInjection/
+Resources/
+Security/
+.gitignore
+GremoHmacAuthenticationBundle.php
+README.md
+composer.json

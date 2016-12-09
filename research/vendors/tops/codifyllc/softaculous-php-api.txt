@@ -1,0 +1,6 @@
+src/CodifyLLC/softaculous/
+tests/
+.gitignore
+README.md
+composer.json
+loader.php

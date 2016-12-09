@@ -1,0 +1,11 @@
+DependencyInjection/
+Resources/config/
+Tests/app/
+.gitignore
+.travis.yml
+JeroenDesloovereVCardBundle.php
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

@@ -1,0 +1,4 @@
+source/
+LICENSE
+MailModule.php
+composer.json

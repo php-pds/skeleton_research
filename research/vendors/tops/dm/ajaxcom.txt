@@ -1,0 +1,6 @@
+example/
+src/DM/AjaxCom/
+.gitignore
+LICENSE
+README.md
+composer.json

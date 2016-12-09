@@ -1,0 +1,8 @@
+examples/
+lib/ResqueService/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock
+index.php

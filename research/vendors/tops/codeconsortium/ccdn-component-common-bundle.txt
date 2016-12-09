@@ -1,0 +1,8 @@
+Component/
+DependencyInjection/
+Resources/
+.gitignore
+.php_cs
+CCDNComponentCommonBundle.php
+README.md
+composer.json

@@ -1,0 +1,8 @@
+src/Stefanius/Slugifier/Manipulators/
+tests/Stefanius/Slugifier/Manipulators/
+.gitignore
+README.md
+composer.json
+composer.lock
+phpunit.xml
+scrutinizer.yml

@@ -1,0 +1,14 @@
+DependencyInjection/
+Registry/
+Resources/
+Tests/
+Twig/
+.gitignore
+.styleci.yml
+.travis.yml
+CHANGELOG.md
+CONTRIBUTING.md
+CmfResourceBundle.php
+README.md
+composer.json
+phpunit.xml.dist

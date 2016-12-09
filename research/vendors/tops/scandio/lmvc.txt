@@ -1,0 +1,3 @@
+lib/Scandio/lmvc/
+README.md
+composer.json

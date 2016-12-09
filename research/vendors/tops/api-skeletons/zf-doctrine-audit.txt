@@ -1,0 +1,13 @@
+config/
+media/
+src/
+test/
+view/zf-doctrine-audit/epoch/
+.gitignore
+.travis-config.ini
+.travis.yml
+LICENSE.txt
+Module.php
+README.md
+composer.json
+phpunit.xml

@@ -1,0 +1,12 @@
+tests/
+.gitattributes
+.gitignore
+.travis.yml
+AuthLogIdentityBehavior.php
+AuthLogLoginFormBehavior.php
+AuthLogWebUserBehavior.php
+CHANGELOG.md
+LICENSE.md
+README.md
+composer.json
+phpunit.xml.dist

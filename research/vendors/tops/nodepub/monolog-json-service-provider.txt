@@ -1,0 +1,4 @@
+src/NodePub/
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,7 @@
+assets/timer/
+.gitattributes
+.gitignore
+README.md
+Timer.php
+TimerAsset.php
+composer.json

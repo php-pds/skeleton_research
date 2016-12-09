@@ -1,0 +1,14 @@
+config/
+public/
+src/
+view/
+.gitignore
+.phpmetrics.yml
+LICENSE
+README.md
+app.php
+composer.json
+humbug.json
+init.php
+phpmetrics.js
+phpunit.xml

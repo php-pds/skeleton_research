@@ -1,0 +1,4 @@
+src/Rock/Core/
+.gitignore
+LICENSE
+composer.json

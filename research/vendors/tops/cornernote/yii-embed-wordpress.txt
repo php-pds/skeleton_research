@@ -1,0 +1,13 @@
+app/
+assets/
+image/
+includes/
+yii/
+.gitattributes
+.gitignore
+.htaccess
+LICENSE
+README.md
+composer.json
+readme.txt
+yii_embed.php

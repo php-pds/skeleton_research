@@ -1,0 +1,14 @@
+build/
+env/
+src/
+tests/Unit/
+.coveralls.yml
+.gitignore
+.travis.yml
+CHANGELOG.md
+CONTRIBUTING.md
+LICENSE
+README.md
+Vagrantfile
+composer.json
+composer.lock

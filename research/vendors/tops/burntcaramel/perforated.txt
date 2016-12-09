@@ -1,0 +1,6 @@
+example/
+src/
+.gitmodules
+LICENSE-MIT.txt
+README.md
+composer.json

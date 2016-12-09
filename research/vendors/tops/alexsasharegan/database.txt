@@ -1,0 +1,9 @@
+docs/
+src/
+.gitignore
+Database_Autoloader.php
+composer.json
+database.example.json
+package.json
+readme.md
+sami.php

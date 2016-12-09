@@ -1,0 +1,8 @@
+src/
+tests/
+views/app/
+.gitignore
+README.md
+composer.json
+exemplo.php
+phpunit.xml

@@ -1,0 +1,8 @@
+config/
+src/RESTEssentials/
+.gitignore
+.travis.yml
+LICENSE
+Module.php
+README.md
+composer.json

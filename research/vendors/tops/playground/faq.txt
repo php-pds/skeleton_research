@@ -1,0 +1,12 @@
+config/
+language/
+src/PlaygroundFaq/
+tests/
+view/
+.gitignore
+.travis.yml
+LICENSE
+Module.php
+README.md
+composer.json
+phpunit.xml.dist

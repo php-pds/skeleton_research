@@ -1,0 +1,8 @@
+Mail/
+tests/
+.gitignore
+.travis.yml
+Mail.php
+README.rst
+composer.json
+package.xml

@@ -1,0 +1,8 @@
+code/forms/
+css/
+images/
+javascript/
+CHANGELOG.md
+README.md
+_config.php
+composer.json

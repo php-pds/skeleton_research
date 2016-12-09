@@ -1,0 +1,4 @@
+Classes/Nezaniel/GeographicLibrary/
+Configuration/
+.gitignore
+composer.json

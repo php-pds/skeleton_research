@@ -1,0 +1,6 @@
+libs/
+pages/
+setup/
+LICENSE
+README.md
+composer.json

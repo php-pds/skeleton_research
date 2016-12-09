@@ -1,0 +1,13 @@
+SwaggerGen/
+example/
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+TODO.md
+composer.json
+index.html
+phpunit.xml

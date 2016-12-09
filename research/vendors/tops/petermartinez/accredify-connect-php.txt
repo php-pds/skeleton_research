@@ -1,0 +1,7 @@
+src/Accredify/
+.DS_Store
+.env_example
+.gitignore
+composer.json
+composer.lock
+readme.md

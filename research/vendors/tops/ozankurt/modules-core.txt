@@ -1,0 +1,4 @@
+src/Traits/
+README.md
+composer.json
+contributors.txt

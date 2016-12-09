@@ -1,0 +1,15 @@
+bin/
+data/
+src/MySQL/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+autoload_classmap.php
+autoload_function.php
+autoload_register.php
+composer.json
+phpcs.xml
+phpunit.travis.xml
+phpunit.xml.dist

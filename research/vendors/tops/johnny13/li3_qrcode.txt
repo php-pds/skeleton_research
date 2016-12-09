@@ -1,0 +1,5 @@
+config/
+extensions/action/
+.gitignore
+README.md
+composer.json

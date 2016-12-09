@@ -1,0 +1,6 @@
+Tests/
+.gitignore
+Annotation.php
+LICENSE
+composer.json
+phpunit.xml.dist

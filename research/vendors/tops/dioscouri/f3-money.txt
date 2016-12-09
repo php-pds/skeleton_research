@@ -1,0 +1,3 @@
+src/Money/
+README.md
+composer.json

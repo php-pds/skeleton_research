@@ -1,0 +1,5 @@
+tests/
+.gitignore
+Configuration.php
+ConfigurationServiceProvider.php
+composer.json

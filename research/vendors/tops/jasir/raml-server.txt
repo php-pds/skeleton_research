@@ -1,0 +1,10 @@
+src/RamlServer/
+tests/
+www/
+.gitignore
+.travis.yml
+README.md
+aws-ec2-howto.md
+composer.json
+composer.lock
+phpunit.xml

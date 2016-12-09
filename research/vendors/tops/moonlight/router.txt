@@ -1,0 +1,7 @@
+examples/basic/
+README
+composer.json
+router.php
+routerExt.php
+routerIntern.class.php
+routerIntern.interface.php

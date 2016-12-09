@@ -1,0 +1,13 @@
+Controller/
+DependencyInjection/
+Http/Cookie/
+Resources/
+Security/
+Tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+README.md
+UniversiboShibbolethBundle.php
+composer.json
+phpunit.xml.dist

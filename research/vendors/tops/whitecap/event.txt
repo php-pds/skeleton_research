@@ -1,0 +1,5 @@
+src/Whitecap/Event/
+test/
+.travis.yml
+LICENSE
+composer.json

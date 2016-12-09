@@ -1,0 +1,8 @@
+assets/js/
+controllers/
+views/
+LICENSE
+Module.php
+ModuleAsset.php
+README.md
+composer.json

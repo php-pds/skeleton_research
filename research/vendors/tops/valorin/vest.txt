@@ -1,0 +1,10 @@
+src/
+.gitignore
+.travis.yml
+LICENSE.txt
+README.md
+composer.json
+gulpfile.js
+phpcs.xml
+phpspec.yml
+phpunit.xml

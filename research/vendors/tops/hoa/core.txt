@@ -1,0 +1,13 @@
+Bin/
+.State
+.gitignore
+CHANGELOG.md
+Consistency.php
+Core.php
+Data.php
+Event.php
+Exception.php
+Parameter.php
+Protocol.php
+README.md
+composer.json

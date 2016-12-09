@@ -1,0 +1,5 @@
+src/FlexPress/Components/Theme/
+.gitignore
+LICENSE
+README.md
+composer.json

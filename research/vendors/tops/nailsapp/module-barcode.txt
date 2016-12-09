@@ -1,0 +1,12 @@
+assets/fonts/
+barcode/controllers/
+services/
+src/Library/
+tests/
+.gitignore
+CHANGELOG.md
+CONTRIBUTING.md
+LICENSE
+README.md
+composer.json
+phpunit.xml

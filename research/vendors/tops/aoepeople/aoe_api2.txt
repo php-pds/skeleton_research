@@ -1,0 +1,9 @@
+app/
+.travis.yml
+LICENSE.txt
+README.md
+aoe-logo.png
+api2.php
+composer.json
+modman
+phpcs.xml

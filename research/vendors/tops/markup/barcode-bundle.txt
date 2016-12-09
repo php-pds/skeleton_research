@@ -1,0 +1,14 @@
+Definition/
+DependencyInjection/
+Factory/
+Generator/
+Resources/config/
+Tests/
+Twig/
+.gitignore
+.travis.yml
+LICENSE
+MarkupBarcodeBundle.php
+README.md
+composer.json
+phpunit.xml.dist

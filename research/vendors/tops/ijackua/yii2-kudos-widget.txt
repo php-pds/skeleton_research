@@ -1,0 +1,7 @@
+assets/
+.gitignore
+Kudos.php
+KudosAssets.php
+LICENSE
+README.md
+composer.json

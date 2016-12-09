@@ -1,0 +1,5 @@
+Classes/
+Configuration/
+Resources/Private/
+README.rst
+composer.json

@@ -1,0 +1,9 @@
+bin/
+build/
+lib/
+scripts/
+.gitignore
+LICENSE.txt
+README.md
+composer.json
+demo.php

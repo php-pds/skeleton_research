@@ -1,0 +1,6 @@
+examples/
+src/BW/
+.gitignore
+LICENSE
+README.md
+composer.json

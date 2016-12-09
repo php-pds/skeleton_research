@@ -1,0 +1,12 @@
+.github/
+bin/
+src/Transfer/
+tests/
+.gitignore
+.travis.yml
+CHANGELOG.md
+CONTRIBUTORS.md
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

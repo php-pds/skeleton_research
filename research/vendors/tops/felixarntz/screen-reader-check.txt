@@ -1,0 +1,17 @@
+assets/
+includes/ScreenReaderCheck/
+tests/phpunit/
+.codeclimate.yml
+.editorconfig
+.gitattributes
+.gitignore
+.travis.yml
+README.md
+composer.json
+gulpfile.js
+license.txt
+package.json
+phpcs.xml
+phpmd.xml
+phpunit.xml
+screen-reader-check.php

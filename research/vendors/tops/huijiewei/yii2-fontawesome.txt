@@ -1,0 +1,5 @@
+assets/
+.gitattributes
+.gitignore
+FontAwesomeAsset.php
+composer.json

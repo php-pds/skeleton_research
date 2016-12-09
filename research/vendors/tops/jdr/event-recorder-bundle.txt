@@ -1,0 +1,12 @@
+spec/EventDispatcher/
+src/
+.editorconfig
+.gitattributes
+.gitignore
+CHANGELOG.md
+CONDUCT.md
+CONTRIBUTING.md
+LICENSE.md
+README.md
+composer.json
+phpspec.yml.dist

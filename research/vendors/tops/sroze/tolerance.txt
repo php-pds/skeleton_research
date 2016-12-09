@@ -1,0 +1,14 @@
+.phpspec/
+docs/
+features/symfony/
+spec/Tolerance/
+src/Tolerance/
+tests/Tolerance/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+behat.yml
+composer.json
+phpunit.xml.dist

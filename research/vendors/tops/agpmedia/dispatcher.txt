@@ -1,0 +1,6 @@
+lib/Dispatcher/
+tests/
+README.md
+cli.php
+composer.json
+service.php

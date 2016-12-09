@@ -1,0 +1,13 @@
+Controller/Phpcr/
+DependencyInjection/
+Resources/
+Tests/
+.gitignore
+.styleci.yml
+.travis.yml
+CHANGELOG.md
+CONTRIBUTING.md
+CmfSearchBundle.php
+README.md
+composer.json
+phpunit.xml.dist

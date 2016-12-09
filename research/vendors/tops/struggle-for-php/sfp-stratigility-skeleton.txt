@@ -1,0 +1,8 @@
+config/
+public/
+src/Application/
+views/error/
+.gitignore
+README.md
+app.php
+composer.json

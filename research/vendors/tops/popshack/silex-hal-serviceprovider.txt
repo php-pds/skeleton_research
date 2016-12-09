@@ -1,0 +1,6 @@
+src/Popshack/Silex/Provider/Hal/
+tests/PopshackTests/Silex/Provider/Hal/
+.gitattributes
+.gitignore
+README.md
+composer.json

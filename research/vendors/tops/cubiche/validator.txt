@@ -1,0 +1,13 @@
+Exception/
+Mapping/
+Tests/
+.atoum.php
+.atoum.travis.php
+.bootstrap.atoum.php
+.travis.yml
+Assert.php
+README.md
+ValidatableInterface.php
+Validator.php
+ValidatorInterface.php
+composer.json

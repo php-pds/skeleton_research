@@ -1,0 +1,14 @@
+Client/
+Consumption/
+DependencyInjection/
+Job/
+Router/
+Test/
+Tests/
+Transport/
+Util/
+.gitignore
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

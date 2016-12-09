@@ -1,0 +1,6 @@
+bin/
+conf/
+src/
+.gitignore
+LICENSE
+composer.json

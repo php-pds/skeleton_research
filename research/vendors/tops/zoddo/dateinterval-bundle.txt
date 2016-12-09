@@ -1,0 +1,8 @@
+Tests/
+.gitignore
+.travis.yml
+DateIntervalBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

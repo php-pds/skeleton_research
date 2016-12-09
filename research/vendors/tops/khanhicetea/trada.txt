@@ -1,0 +1,14 @@
+app/
+db/
+storage/
+test/
+web/
+.env.example
+.gitignore
+.travis.yml
+LICENSE
+README.md
+bootstrap.php
+composer.json
+helpers.php
+phpunit.xml.dist

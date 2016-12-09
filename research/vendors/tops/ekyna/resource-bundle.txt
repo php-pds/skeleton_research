@@ -1,0 +1,12 @@
+Configuration/
+Controller/
+DependencyInjection/
+Dispatcher/
+Doctrine/Handler/
+Elastica/
+Form/Type/
+Helper/
+Model/
+Resources/
+EkynaResourceBundle.php
+composer.json

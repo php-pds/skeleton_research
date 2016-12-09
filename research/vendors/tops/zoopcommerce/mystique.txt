@@ -1,0 +1,8 @@
+docs/
+testdata/
+translations/
+CHANGELOG.md
+README.md
+composer.json
+mystique-common.profile.js
+package.json

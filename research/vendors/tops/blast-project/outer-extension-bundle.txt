@@ -1,0 +1,10 @@
+Command/
+DependencyInjection/
+Entity/Traits/
+EventListener/
+Resources/config/
+.gitignore
+BlastOuterExtensionBundle.php
+LICENCE.md
+README.md
+composer.json

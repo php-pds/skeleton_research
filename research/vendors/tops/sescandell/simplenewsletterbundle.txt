@@ -1,0 +1,13 @@
+DependencyInjection/
+Doctrine/
+Entity/
+Model/
+Resources/
+Sender/
+Tests/
+.gitignore
+.travis.yml
+README.md
+SescandellSimpleNewsletterBundle.php
+composer.json
+phpunit.xml.dist

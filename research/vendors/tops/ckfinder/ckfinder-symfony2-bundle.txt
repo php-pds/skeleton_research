@@ -1,0 +1,15 @@
+Authentication/
+Command/
+Config/Definition/
+Controller/
+DependencyInjection/
+Form/Type/
+Resources/
+Tests/
+_connector/
+.gitignore
+CKSourceCKFinderBundle.php
+LICENSE.txt
+README.md
+composer.json
+phpunit.xml.dist

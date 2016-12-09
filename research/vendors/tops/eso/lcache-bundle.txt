@@ -1,0 +1,12 @@
+Cache/
+DependencyInjection/
+Exception/
+Resources/
+Tests/
+.coveralls.yml
+.gitignore
+.travis.yml
+ESOLCacheBundle.php
+README.md
+composer.json
+phpunit.xml.dist

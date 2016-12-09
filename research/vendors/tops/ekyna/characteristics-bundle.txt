@@ -1,0 +1,10 @@
+Controller/
+DependencyInjection/
+Form/Type/
+Resources/
+.gitattributes
+.gitignore
+EkynaCharacteristicsBundle.php
+LICENSE
+README.md
+composer.json

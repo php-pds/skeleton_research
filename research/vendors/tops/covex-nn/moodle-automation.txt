@@ -1,0 +1,12 @@
+ant-scripts/mysql/
+tests/
+vagrant/
+.gitattributes
+.gitignore
+.travis.yml
+LICENSE
+README.md
+Vagrantfile
+build.vagrant.properties
+build.xml
+composer.json

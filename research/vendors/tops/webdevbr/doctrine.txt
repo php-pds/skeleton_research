@@ -1,0 +1,6 @@
+src/WebDevBr/Doctrine/
+.gitignore
+README.md
+bootstrap.php
+cli-config.php
+composer.json

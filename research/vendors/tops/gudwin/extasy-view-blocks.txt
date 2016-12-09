@@ -1,0 +1,8 @@
+src/
+tests/
+tmp/
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml

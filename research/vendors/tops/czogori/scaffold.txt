@@ -1,0 +1,4 @@
+bin/
+src/Scaffold/
+.gitignore
+composer.json

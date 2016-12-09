@@ -1,0 +1,7 @@
+DependencyInjection/
+ORM/
+Resources/config/
+LICENSE
+README.md
+WMCDoctrineNamingStrategyBundle.php
+composer.json

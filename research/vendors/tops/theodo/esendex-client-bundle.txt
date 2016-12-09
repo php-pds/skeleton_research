@@ -1,0 +1,7 @@
+DependencyInjection/
+Resources/
+.gitignore
+README.md
+TheodoEsendexClientBundle.php
+composer.json
+composer.lock

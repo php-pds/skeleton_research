@@ -1,0 +1,9 @@
+resources/
+src/JR/CMS/
+.bowerrc
+.gitignore
+LICENSE
+README.md
+bower.json
+composer.json
+netterobots.txt

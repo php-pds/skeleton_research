@@ -1,0 +1,11 @@
+Controller/
+DependencyInjection/
+Generator/
+Resources/
+Tests/Generator/
+Twig/
+.gitignore
+README.md
+TicketparkBarcodeBundle.php
+composer.json
+phpunit.xml

@@ -1,0 +1,8 @@
+src/Bundl/Debugger/
+.gitattributes
+.gitignore
+README.md
+composer.json
+phpcs.xml
+phpmd.xml
+phpunit.xml.dist

@@ -1,0 +1,4 @@
+src/SemVerConverter/
+LICENSE
+README.md
+composer.json

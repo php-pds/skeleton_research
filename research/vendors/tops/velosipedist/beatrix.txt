@@ -1,0 +1,15 @@
+bin/
+build/
+snippets/
+src/
+templates/
+tests/
+.gitignore
+.htaccess
+LICENSE
+README.md
+after_pack.phpunit.xml
+build.xml
+composer.json
+composer.lock
+unit.phpunit.xml

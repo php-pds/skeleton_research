@@ -1,0 +1,13 @@
+DependencyInjection/
+Entity/
+Exception/
+Manager/
+Resources/
+Service/
+Tests/
+.gitignore
+.travis.yml
+README.md
+TimelineJSBundle.php
+composer.json
+phpunit.xml

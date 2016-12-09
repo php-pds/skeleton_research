@@ -1,0 +1,13 @@
+cache/
+config/
+files/
+logs/
+plugins/
+public/
+services/
+.gitignore
+CHANGELOG.md
+CONTRIBUTING.md
+LICENSE
+README.md
+composer.json

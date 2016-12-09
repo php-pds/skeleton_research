@@ -1,0 +1,11 @@
+Bin/
+Node/
+Test/Unit/
+.State
+.gitignore
+CHANGELOG.md
+Exception.php
+Protocol.php
+README.md
+Wrapper.php
+composer.json

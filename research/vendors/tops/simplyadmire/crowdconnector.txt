@@ -1,0 +1,10 @@
+Classes/SimplyAdmire/CrowdConnector/
+Configuration/
+Tests/Unit/
+.codeclimate.yml
+.gitignore
+.travis.yml
+LICENSE
+PhpUnit.xml
+README.md
+composer.json

@@ -1,0 +1,17 @@
+available/
+bundles/Sample/
+config/
+docs/html/
+public/
+src/
+tests/
+var/cache/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+README.md
+composer.json
+config.js
+package.json
+phpdox.xml
+phpunit.xml

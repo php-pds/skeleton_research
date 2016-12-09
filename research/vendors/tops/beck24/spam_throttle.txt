@@ -1,0 +1,10 @@
+actions/
+languages/
+lib/
+views/default/plugins/spam_throttle/
+CHANGELOG.txt
+README.md
+activate.php
+composer.json
+manifest.xml
+start.php

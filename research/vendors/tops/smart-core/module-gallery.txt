@@ -1,0 +1,7 @@
+Controller/
+Entity/
+Form/Type/
+Resources/
+GalleryModule.php
+README.md
+composer.json

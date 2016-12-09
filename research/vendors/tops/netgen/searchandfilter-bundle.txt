@@ -1,0 +1,8 @@
+Components/
+Controller/
+DependencyInjection/
+Form/Type/
+Resources/
+NetgenSearchAndFilterBundle.php
+README.md
+composer.json

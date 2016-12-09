@@ -1,0 +1,5 @@
+Bazo/Extensions/UserPanel/
+nbproject/
+.gitignore
+README.textile
+composer.json

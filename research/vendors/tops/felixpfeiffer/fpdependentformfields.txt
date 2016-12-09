@@ -1,0 +1,9 @@
+assets/
+classes/
+config/
+dca/
+languages/de/
+templates/
+.gitignore
+composer.json
+readme.md

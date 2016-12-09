@@ -1,0 +1,11 @@
+assets/js/
+components/
+controllers/
+docs/
+models/
+views/
+.DS_Store
+.gitignore
+Module.php
+README.md
+composer.json

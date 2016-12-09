@@ -1,0 +1,6 @@
+src/Component/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json

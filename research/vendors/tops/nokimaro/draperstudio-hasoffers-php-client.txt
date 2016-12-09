@@ -1,0 +1,7 @@
+.github/
+src/
+.editorconfig
+.styleci.yml
+CONDUCT.md
+LICENSE.md
+composer.json

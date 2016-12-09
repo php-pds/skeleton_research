@@ -1,0 +1,9 @@
+src/VcCleanUp/
+.gitignore
+.htaccess
+LICENSE
+README.md
+VcCleanUp.php
+composer.json
+composer.lock
+configBoilerplate.php

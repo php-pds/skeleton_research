@@ -1,0 +1,9 @@
+doc/
+src/
+test/
+.buildpath
+.gitignore
+.project
+README.md
+composer.json
+database.png

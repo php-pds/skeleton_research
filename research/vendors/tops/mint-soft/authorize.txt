@@ -1,0 +1,7 @@
+config/
+src/MintSoft/Authorize/
+test/
+.travis.yml
+Module.php
+README.md
+composer.json

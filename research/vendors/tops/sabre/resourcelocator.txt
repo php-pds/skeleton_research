@@ -1,0 +1,10 @@
+lib/
+tests/
+.gitignore
+.travis.yml
+ChangeLog.md
+LICENSE
+README.md
+apitest.php
+composer.json
+examples.php

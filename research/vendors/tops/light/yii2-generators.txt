@@ -1,0 +1,10 @@
+crud/
+extension/
+form/
+model/default/
+module/common/
+.editorconfig
+.gitignore
+README.md
+composer.json
+composer.lock

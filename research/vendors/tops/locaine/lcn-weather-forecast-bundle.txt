@@ -1,0 +1,10 @@
+Controller/
+DependencyInjection/
+Model/
+Provider/
+Resources/
+Service/
+Tests/
+LcnWeatherForecastBundle.php
+README.md
+composer.json

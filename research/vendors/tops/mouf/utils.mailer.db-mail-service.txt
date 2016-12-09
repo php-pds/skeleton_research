@@ -1,0 +1,7 @@
+database/
+doc/images/
+src/
+.gitignore
+README.md
+composer.json
+logo.png

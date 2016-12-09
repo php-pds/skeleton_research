@@ -1,0 +1,11 @@
+Config/
+aplicativo/classes/
+atividade/classes/
+integrante/classes/
+publicacao/classes/
+referencia/classes/
+tests/
+.gitattributes
+.gitignore
+autoload.php
+composer.json

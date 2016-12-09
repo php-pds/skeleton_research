@@ -1,0 +1,15 @@
+DependencyInjection/
+Entity/
+Exceptions/
+Interfaces/
+Profiler/
+Resources/
+Service/
+Tests/Service/
+.scrutinizer.yml
+.travis.yml
+LICENSE
+OpenrootClientContextBundle.php
+README.md
+composer.json
+phpunit.xml

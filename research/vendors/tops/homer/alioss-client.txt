@@ -1,0 +1,6 @@
+doc/
+samples/
+src/Aliyun/
+.gitignore
+composer.json
+composer.lock

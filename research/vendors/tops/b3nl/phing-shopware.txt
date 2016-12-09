@@ -1,0 +1,8 @@
+build/
+etc/
+src/PhingShopware/
+.gitignore
+LICENSE
+README.md
+build-example.xml
+composer.json

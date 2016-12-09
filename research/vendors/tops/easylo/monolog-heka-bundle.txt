@@ -1,0 +1,8 @@
+DependencyInjection/
+Handler/
+Processor/
+Resources/config/
+heka_share/
+EasyloMonologHekaBundle.php
+README.md
+composer.json

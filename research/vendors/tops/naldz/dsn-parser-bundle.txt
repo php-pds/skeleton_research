@@ -1,0 +1,9 @@
+DependencyInjection/
+DsnParser/
+Resources/config/
+Tests/
+.gitignore
+DsnParserBundle.php
+composer.json
+composer.lock
+phpunit.xml.dist

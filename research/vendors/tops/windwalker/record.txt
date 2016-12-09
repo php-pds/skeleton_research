@@ -1,0 +1,11 @@
+bin/
+build/travis/
+docs/
+src/
+.gitignore
+.travis.yml
+LICENSE.md
+README.md
+composer.json
+phpunit.travis.xml
+phpunit.xml.dist

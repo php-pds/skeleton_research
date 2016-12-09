@@ -1,0 +1,12 @@
+docs/
+src/AspectMock/
+tests/
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+RoboFile.php
+VERSION
+codeception.yml
+composer.json

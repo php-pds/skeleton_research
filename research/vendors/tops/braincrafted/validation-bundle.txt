@@ -1,0 +1,11 @@
+DependencyInjection/
+Tests/Validator/Constraints/
+Validator/Constraints/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+BraincraftedValidationBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,5 @@
+lang/
+lib/
+composer.json
+readme.txt
+widget.php

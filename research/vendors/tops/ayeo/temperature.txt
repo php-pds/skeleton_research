@@ -1,0 +1,9 @@
+src/Temperature/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+composer.json
+composer.lock
+license.md
+phpunit.xml
+readme.md

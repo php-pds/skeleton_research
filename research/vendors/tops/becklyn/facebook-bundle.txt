@@ -1,0 +1,13 @@
+Data/
+DependencyInjection/
+Listener/
+Model/
+Resources/
+Service/
+Tests/Data/
+.gitignore
+BecklynFacebookBundle.php
+LICENSE
+README.md
+composer.json
+composer.lock

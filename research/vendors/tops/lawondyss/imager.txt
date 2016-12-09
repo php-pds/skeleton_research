@@ -1,0 +1,4 @@
+src/Imager/
+tests/
+composer.json
+readme.md

@@ -1,0 +1,4 @@
+DynamoDBWrapper.php
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,9 @@
+spec/
+src/InFw/File/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+README.md
+composer.json
+coverage.clover
+phpspec.yml.dist

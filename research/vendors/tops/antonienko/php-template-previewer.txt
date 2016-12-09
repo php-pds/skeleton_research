@@ -1,0 +1,8 @@
+lib/antonienko/PhpTempPrev/
+tests/antonienko/tests/
+.gitignore
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist
+shippable.yml

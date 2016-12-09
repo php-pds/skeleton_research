@@ -1,0 +1,11 @@
+Controller/
+DependencyInjection/
+Entity/
+Form/Type/
+Provider/
+Resources/
+.gitignore
+LICENSE
+README.md
+SchebStockPanelBundle.php
+composer.json

@@ -1,0 +1,8 @@
+src/Weew/ConsoleArguments/
+tests/
+.gitignore
+.travis.yml
+composer.json
+licence.md
+phpspec.yml
+readme.md

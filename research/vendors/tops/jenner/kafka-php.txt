@@ -1,0 +1,10 @@
+bin/
+example/
+src/Kafka/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+build.xml
+composer.json

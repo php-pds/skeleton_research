@@ -1,0 +1,13 @@
+docs/
+src/Clickalicious/
+tests/
+.editorconfig
+.gitattributes
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+composer.json
+demo.php
+update-gh-pages.sh

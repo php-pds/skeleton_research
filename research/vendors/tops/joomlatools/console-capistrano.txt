@@ -1,0 +1,6 @@
+Joomlatools/Console/Command/
+CHANGELOG.md
+CONTRIBUTING.md
+LICENCE
+README.md
+composer.json

@@ -1,0 +1,9 @@
+DependencyInjection/
+EventListener/
+Model/
+Resources/config/
+Service/
+.gitignore
+IgdrSlugifyBundle.php
+README.md
+composer.json

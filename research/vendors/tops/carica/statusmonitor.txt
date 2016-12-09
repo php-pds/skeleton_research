@@ -1,0 +1,8 @@
+scribbles/
+src/
+tests/
+.gitattributes
+.gitignore
+composer.json
+phpunit.xml
+readme.txt

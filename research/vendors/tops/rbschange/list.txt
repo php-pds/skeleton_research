@@ -1,0 +1,14 @@
+actions/
+changedev-commands/
+config/
+doc/
+forms/editor/
+i18n/
+lib/
+persistentdocument/
+setup/
+style/
+templates/
+views/
+LICENSE.txt
+change.xml

@@ -1,0 +1,6 @@
+disqusapi/
+.gitignore
+LICENSE
+README.md
+README.rst
+composer.json

@@ -1,0 +1,6 @@
+.gitignore
+CHANGELOG.md
+LICENSE
+README.md
+class-gamajo-template-loader.php
+composer.json

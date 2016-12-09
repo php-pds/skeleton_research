@@ -1,0 +1,6 @@
+Uploader/
+Validator/
+File.php
+FileInterface.php
+README.md
+composer.json

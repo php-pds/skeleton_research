@@ -1,0 +1,14 @@
+Client/
+Command/
+Controller/
+DependencyInjection/
+Model/
+Resources/
+Tests/Client/
+Trackback/
+Tracking/
+Twig/
+.gitignore
+AstinaTradedoublerBundle.php
+README.md
+composer.json

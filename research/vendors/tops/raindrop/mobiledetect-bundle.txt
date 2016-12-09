@@ -1,0 +1,14 @@
+DependencyInjection/
+DeviceDetection/
+EventListener/
+Resources/config/
+Tests/
+Twig/Extension/
+.gitignore
+.travis.yml
+ActiveDevice.php
+LICENSE
+README.md
+RaindropMobileDetectBundle.php
+composer.json
+phpunit.xml.dist

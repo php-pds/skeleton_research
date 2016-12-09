@@ -1,0 +1,8 @@
+logs/
+public/
+templates/
+.gitignore
+CONTRIBUTING.md
+LICENSE
+README.md
+composer.json

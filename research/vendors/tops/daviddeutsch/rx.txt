@@ -1,0 +1,5 @@
+docs/
+src/Rx/
+.gitignore
+README.md
+composer.json

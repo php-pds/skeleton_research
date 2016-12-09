@@ -1,0 +1,10 @@
+Converter/
+Model/
+Provider/
+spec/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpspec.yml

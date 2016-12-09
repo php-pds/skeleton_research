@@ -1,0 +1,8 @@
+example/
+src/PHPExcel/
+test/
+.gitignore
+.travis.yml
+LICENSE
+composer.json
+phpunit.xml.dist

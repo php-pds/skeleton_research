@@ -1,0 +1,8 @@
+src/
+templates/
+.env.example
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock

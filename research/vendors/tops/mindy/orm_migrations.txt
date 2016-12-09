@@ -1,0 +1,6 @@
+src/Commands/
+test/Migration/
+.gitignore
+composer.json
+phpunit.xml
+readme.md

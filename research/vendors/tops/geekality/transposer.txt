@@ -1,0 +1,7 @@
+sample/
+src/Geekality/
+.gitattributes
+README.md
+chords.txt
+composer.json
+scales.tsv

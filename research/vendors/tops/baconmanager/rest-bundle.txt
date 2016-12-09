@@ -1,0 +1,10 @@
+Command/
+Controller/
+Generator/
+Manipulator/
+Resources/skeleton/crud/
+.gitignore
+BaconRestBundle.php
+LICENSE
+README.md
+composer.json

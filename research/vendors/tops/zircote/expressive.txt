@@ -1,0 +1,8 @@
+bin/
+build/
+library/Expressive/
+tests/
+.travis.yml
+build.xml
+composer.json
+readme.md

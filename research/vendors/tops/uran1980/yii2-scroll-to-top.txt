@@ -1,0 +1,8 @@
+assets/
+.gitignore
+AppScrollToTopAsset.php
+LICENSE
+README.md
+ScrollToTop.php
+ScrollToTopAsset.php
+composer.json

@@ -1,0 +1,7 @@
+bin/php/
+datatypes/ocrecaptcha/
+design/standard/templates/
+lib/recaptcha/
+settings/
+composer.json
+readme.md

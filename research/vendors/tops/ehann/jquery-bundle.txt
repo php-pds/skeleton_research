@@ -1,0 +1,5 @@
+Resources/
+EhannJQueryBundle.php
+LICENSE
+README.markdown
+composer.json

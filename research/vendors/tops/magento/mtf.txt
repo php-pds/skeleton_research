@@ -1,0 +1,15 @@
+Magento/Mtf/
+etc/
+tests/app/Magento/
+testsuites/Magento/Mtf/TestSuite/
+utils/
+.gitignore
+CHANGELOG.md
+COPYING.txt
+LICENSE.txt
+README.md
+bootstrap.php
+composer.json
+index.php
+isolation.php
+phpunit.xml.dist

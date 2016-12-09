@@ -1,0 +1,11 @@
+_assets/
+_config/
+css/
+images/
+src/
+templates/Includes/
+.editorconfig
+.gitignore
+README.md
+assets.json
+composer.json

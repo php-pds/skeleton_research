@@ -1,0 +1,4 @@
+foglcz/Adminer/
+.gitignore
+README.md
+composer.json

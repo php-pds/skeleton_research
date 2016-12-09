@@ -1,0 +1,6 @@
+Tests/
+src/JoshuaEstes/Hal/
+.gitignore
+README.md
+composer.json
+phpunit.xml.dist

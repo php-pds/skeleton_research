@@ -1,0 +1,4 @@
+algorithms/
+fonts/
+CaptchaAction.php
+composer.json

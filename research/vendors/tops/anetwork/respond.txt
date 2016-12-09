@@ -1,0 +1,9 @@
+errors/lang/
+src/
+vendor/
+.editorconfig
+.styleci.yml
+.travis.yml
+LICENSE.md
+README.md
+composer.json

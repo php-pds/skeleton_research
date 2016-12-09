@@ -1,0 +1,9 @@
+Currency/
+DependencyInjection/
+Resources/config/
+.gitignore
+.travis.yml
+LICENSE
+SfynxCurrencyBundle.php
+composer.json
+phpunit.xml.dist

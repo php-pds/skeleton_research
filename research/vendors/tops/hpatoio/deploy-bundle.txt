@@ -1,0 +1,6 @@
+Command/
+DependencyInjection/
+.rsync_exclude.txt.dist
+DeployBundle.php
+README.md
+composer.json

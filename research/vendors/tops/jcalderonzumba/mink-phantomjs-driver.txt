@@ -1,0 +1,10 @@
+bin/
+src/
+tests/integration/
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+composer.json
+integration_tests.xml

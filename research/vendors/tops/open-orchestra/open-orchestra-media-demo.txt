@@ -1,0 +1,13 @@
+app/
+deployment/
+provisioning/hosts/
+web/
+.gitignore
+.travis.yml
+Capfile
+ISSUE_TEMPLATE
+LICENSE
+README.md
+composer.json
+composer.lock
+gitManager.sh

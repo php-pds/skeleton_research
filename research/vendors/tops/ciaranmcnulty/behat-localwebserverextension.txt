@@ -1,0 +1,12 @@
+features/
+spec/
+src/
+.gitignore
+.travis.yml
+LICENCE.md
+README.md
+Vagrantfile
+behat.yml
+composer.json
+composer.lock
+phpspec.yml

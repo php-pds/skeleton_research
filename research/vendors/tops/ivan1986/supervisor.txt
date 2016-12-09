@@ -1,0 +1,9 @@
+Command/
+DependencyInjection/
+Resources/
+Service/
+.scrutinizer.yml
+LICENSE
+README.md
+SupervisorBundle.php
+composer.json

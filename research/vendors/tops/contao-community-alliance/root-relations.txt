@@ -1,0 +1,5 @@
+contao-module/
+runonce/
+src/ContaoCommunityAlliance/Contao/RootRelations/
+.gitignore
+composer.json

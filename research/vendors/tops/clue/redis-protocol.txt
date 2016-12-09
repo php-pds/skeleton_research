@@ -1,0 +1,9 @@
+example/
+src/Clue/Redis/Protocol/
+tests/
+.gitignore
+.travis.yml
+CHANGELOG.md
+README.md
+composer.json
+phpunit.xml.dist

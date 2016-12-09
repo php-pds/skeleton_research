@@ -1,0 +1,11 @@
+docs/images/
+examples/
+src/Drawille/
+tests/Drawille/
+.gitignore
+.travis.yml
+ChangeLog.md
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,10 @@
+bin/
+config/containers/
+docker/
+src/
+.gitignore
+LICENSE
+README.md
+composer.json
+phpunit.xml
+version.txt

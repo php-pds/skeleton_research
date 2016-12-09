@@ -1,0 +1,17 @@
+Controller/
+DependencyInjection/
+Event/
+Form/
+Model/
+Repository/
+Resources/
+Tests/
+Utils/Manager/
+.gitignore
+.htaccess
+.travis.yml
+ASFDocumentBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

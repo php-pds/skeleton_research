@@ -1,0 +1,5 @@
+lib/agpmedia/
+tests/
+.gitignore
+README.md
+composer.json

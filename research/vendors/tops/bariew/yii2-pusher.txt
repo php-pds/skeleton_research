@@ -1,0 +1,6 @@
+src/
+Component.php
+LICENSE
+README.md
+Widget.php
+composer.json

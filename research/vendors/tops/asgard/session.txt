@@ -1,0 +1,12 @@
+Tests/
+migrations/
+.travis.yml
+Bundle.php
+DBDriver.php
+Driver.php
+DriverInterface.php
+LICENSE
+README.md
+composer.json
+phpunit.php
+phpunit.xml

@@ -1,0 +1,9 @@
+.gitignore
+.scrutinizer.yml
+.tocgen
+README.md
+Tocgen.php
+api.php
+cli.php
+composer.json
+tocgen.sh

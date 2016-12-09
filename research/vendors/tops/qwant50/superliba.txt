@@ -1,0 +1,6 @@
+.idea/
+src/
+app.log
+composer.json
+composer.lock
+index.php

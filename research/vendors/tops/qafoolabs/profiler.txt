@@ -1,0 +1,8 @@
+src/
+tests/QafooLabs/
+.gitignore
+README.md
+build.xml
+composer.json
+composer.lock
+phpunit.xml

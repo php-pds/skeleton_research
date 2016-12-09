@@ -1,0 +1,5 @@
+.gitignore
+LICENCE
+LifestreamServiceProvider.php
+README.md
+composer.json

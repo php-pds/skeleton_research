@@ -1,0 +1,15 @@
+Action/Reports/
+DataObjects/
+DataTransformer/
+DependencyInjection/
+Event/
+Model/
+Resources/
+Storage/
+docs/
+.gitignore
+.styleci.yml
+FLReportsBundle.php
+LICENSE
+README.md
+composer.json

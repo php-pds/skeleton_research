@@ -1,0 +1,5 @@
+.gitignore
+HeaderWidget.php
+README.md
+composer.json
+composer.lock

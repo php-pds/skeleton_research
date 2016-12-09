@@ -1,0 +1,12 @@
+source/
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE.md
+README.md
+autocomplete
+composer.json
+example.png
+mark-as-plain-text.png
+phpunit.xml

@@ -1,0 +1,7 @@
+app/
+js/iwd/all/
+skin/adminhtml/default/default/iwd/all/
+README.md
+composer.json
+modman
+package.xml

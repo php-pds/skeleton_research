@@ -1,0 +1,4 @@
+lib/Rails/Bootstrap3/
+vendor/assets/
+README.md
+composer.json

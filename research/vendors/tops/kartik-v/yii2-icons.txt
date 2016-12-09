@@ -1,0 +1,16 @@
+lib/
+CHANGE.md
+ElusiveAsset.php
+FlagIconAsset.php
+FontAwesomeAsset.php
+Icon.php
+JuiAsset.php
+LICENSE.md
+OcticonsAsset.php
+OpenIconicAsset.php
+README.md
+SociconAsset.php
+TypiconsAsset.php
+UniAsset.php
+WhhgAsset.php
+composer.json

@@ -1,0 +1,8 @@
+bin/
+src/
+tests/
+.gitignore
+MIT-LICENSE
+README.md
+composer.json
+package.json

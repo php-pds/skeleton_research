@@ -1,0 +1,6 @@
+doc/
+CHANGELOG.md
+Guid.php
+LICENSE.md
+README.md
+composer.json

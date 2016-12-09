@@ -1,0 +1,6 @@
+spec/PHPCR/Shell/Serializer/
+src/PHPCR/Shell/Serializer/
+.gitignore
+.travis.yml
+README.md
+composer.json

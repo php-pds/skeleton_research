@@ -1,0 +1,4 @@
+yii1_model/
+Bootstrap.php
+README.md
+composer.json

@@ -1,0 +1,10 @@
+autoloads/
+bin/php/
+classes/comuneintasca/
+content/
+design/
+eventtypes/event/ezcomuneintasca/
+modules/comuneintasca/
+packages/
+settings/
+composer.json

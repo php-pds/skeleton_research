@@ -1,0 +1,8 @@
+bin/
+src/
+.gitignore
+LICENSE
+Makefile
+bugfree.json
+composer.json
+phpunit.xml

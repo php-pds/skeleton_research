@@ -1,0 +1,7 @@
+vendor/
+Can_Update.php
+Plugin_Update_Checker.php
+Theme_Update_Checker.php
+composer.future.json
+composer.json
+composer.lock

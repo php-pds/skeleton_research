@@ -1,0 +1,9 @@
+demo/
+src/
+test/Model/
+.gitignore
+Makefile
+README.md
+composer.json
+doc.xml
+phpunit.xml

@@ -1,0 +1,3 @@
+lib/VIC/GOOGLE/PLUS/AUTH/
+README.md
+composer.json

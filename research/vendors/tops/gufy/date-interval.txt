@@ -1,0 +1,7 @@
+src/Gufy/
+tests/unit/
+.gitignore
+.travis.yml
+Readme.md
+composer.json
+phpunit.xml.dist

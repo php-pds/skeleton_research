@@ -1,0 +1,6 @@
+docs/samples/
+src/
+.gitignore
+LICENSE
+README.md
+composer.json

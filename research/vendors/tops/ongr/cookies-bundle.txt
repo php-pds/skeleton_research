@@ -1,0 +1,16 @@
+Cookie/
+DependencyInjection/
+EventListener/
+Exception/
+Resources/config/
+Tests/
+.coveralls.yml
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+ONGRCookiesBundle.php
+README.md
+build.xml
+composer.json
+phpunit.xml.dist

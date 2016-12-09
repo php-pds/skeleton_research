@@ -1,0 +1,6 @@
+DependencyInjection/
+Resources/
+.gitignore
+HautelookFrontendBundle.php
+README.md
+composer.json

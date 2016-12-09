@@ -1,0 +1,13 @@
+bin/
+src/GitWrapper/
+test/
+.editorconfig
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+build.xml
+composer.json
+phpmd.xml
+phpunit.xml

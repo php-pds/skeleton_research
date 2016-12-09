@@ -1,0 +1,17 @@
+consolecommands/
+controllers/
+elementtypes/
+migrations/
+models/
+records/
+services/
+templates/
+translations/
+variables/
+vendor/
+.scrutinizer.yml
+LICENSE
+PushNotificationsPlugin.php
+README.md
+composer.json
+composer.lock

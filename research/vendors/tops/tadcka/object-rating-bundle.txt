@@ -1,0 +1,13 @@
+Controller/
+DependencyInjection/
+Entity/
+Event/
+Form/
+Manager/
+Resources/
+Services/
+LICENSE
+ObjectRatingInfo.php
+README.md
+TadckaObjectRatingBundle.php
+composer.json

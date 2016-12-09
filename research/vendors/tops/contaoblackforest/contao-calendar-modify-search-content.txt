@@ -1,0 +1,5 @@
+contao/
+src/Subscribers/
+LICENSE
+README.md
+composer.json

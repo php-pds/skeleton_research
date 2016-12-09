@@ -1,0 +1,12 @@
+app/
+bin/
+src/
+tests/
+var/
+web/
+.gitignore
+behat.yml
+composer.json
+phpspec.yml
+phpunit.xml
+readme.md

@@ -1,0 +1,8 @@
+src/
+.dreamfactory.php
+.gitignore
+LICENSE.txt
+README.md
+composer.json
+phpdoc.xml-dist
+phpunit.xml-dist

@@ -1,0 +1,6 @@
+bin/
+src/Command/
+.gitignore
+composer.json
+composer.lock
+fig.yml

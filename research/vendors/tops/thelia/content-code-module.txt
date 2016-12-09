@@ -1,0 +1,14 @@
+Action/
+Config/
+Controller/
+Event/
+Form/
+Hook/
+I18n/
+Loop/
+Model/
+templates/backOffice/default/content-code/
+ContentCode.php
+LICENSE.txt
+Readme.md
+composer.json

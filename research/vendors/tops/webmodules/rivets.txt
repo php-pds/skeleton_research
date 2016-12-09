@@ -1,0 +1,17 @@
+dist/
+docs/
+js/
+spec/
+src/
+.gitignore
+CHANGELOG.md
+LICENSE
+README.md
+bower.json
+component.json
+composer.json
+doc.sh
+gulpfile.js
+module.json
+module.properties
+package.json

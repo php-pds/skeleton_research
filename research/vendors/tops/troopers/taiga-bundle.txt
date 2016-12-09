@@ -1,0 +1,6 @@
+DependencyInjection/
+Resources/config/
+LICENSE.txt
+README.md
+TaigaBundle.php
+composer.json

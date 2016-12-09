@@ -1,0 +1,13 @@
+_config/
+code/
+docs/en/
+templates/Layout/
+tests/
+.editorconfig
+.scrutinizer.yml
+.travis.yml
+CHANGELOG.md
+LICENSE.md
+README.md
+composer.json
+phpunit.xml

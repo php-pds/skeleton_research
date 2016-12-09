@@ -1,0 +1,17 @@
+config/
+doc/
+includes/
+lib/
+public/
+.gitignore
+README.md
+composer.json
+composer.lock
+index.php
+login.php
+logout.php
+post_article.php
+read_article.php
+regist.php
+send_verifycode.php
+user.php

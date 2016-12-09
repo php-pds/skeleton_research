@@ -1,0 +1,12 @@
+Config/
+Console/Command/
+Controller/
+Lib/
+Locale/pt_br/LC_MESSAGES/
+Model/
+Test/
+View/
+.travis.yml
+LICENSE
+README.textile
+composer.json

@@ -1,0 +1,7 @@
+Public/
+.gitignore
+COPYRIGHT.txt
+Install.tpl
+LICENSE.txt
+README.md
+composer.json

@@ -1,0 +1,16 @@
+build/
+cache/
+db/config/
+examples/
+src/
+tests/
+.gitignore
+.travis.yml
+CHANGELOG.md
+Doxyfile
+README.md
+build.xml
+composer.json
+phprelease.ini
+phpunit.xml
+phpunit.xml.dist

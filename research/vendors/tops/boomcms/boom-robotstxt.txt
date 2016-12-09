@@ -1,0 +1,6 @@
+public/js/
+src/
+.gitignore
+LICENSE.md
+composer.json
+composer.lock

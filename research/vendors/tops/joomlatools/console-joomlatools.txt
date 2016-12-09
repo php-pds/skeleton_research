@@ -1,0 +1,7 @@
+JoomlatoolsExtended/Console/Command/
+CHANGELOG.md
+CONTRIBUTING.md
+LICENSE
+README.md
+composer.json
+symlinker.php

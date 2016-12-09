@@ -1,0 +1,5 @@
+src/TweedeGolf/GeneratorBundle/
+.gitignore
+LICENSE
+README.md
+composer.json

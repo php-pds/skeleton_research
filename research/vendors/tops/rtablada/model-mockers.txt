@@ -1,0 +1,6 @@
+src/Rtablada/ModelMockers/
+tests/
+.gitignore
+.travis.yml
+composer.json
+phpunit.xml

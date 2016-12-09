@@ -1,0 +1,8 @@
+.idea/
+src/Smalldogs/Html5inputs/
+tests/
+.gitignore
+.travis.yml
+README.md
+composer.json
+phpunit.xml

@@ -1,0 +1,5 @@
+lib/
+.gitignore
+.gitmodules
+SystemDaemon.php
+composer.json

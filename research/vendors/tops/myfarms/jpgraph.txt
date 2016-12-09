@@ -1,0 +1,3 @@
+lib/JpGraph/
+README.md
+composer.json

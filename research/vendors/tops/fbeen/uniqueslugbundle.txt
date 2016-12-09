@@ -1,0 +1,11 @@
+Annotation/
+Command/
+Custom/
+DependencyInjection/
+Listener/
+Resources/
+Tests/Controller/
+FbeenUniqueSlugBundle.php
+composer.json
+composer.json~
+readme.md

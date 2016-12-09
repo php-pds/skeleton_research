@@ -1,0 +1,7 @@
+assets/
+CHANGE.md
+LICENSE.md
+README.md
+SwitchInput.php
+SwitchInputAsset.php
+composer.json

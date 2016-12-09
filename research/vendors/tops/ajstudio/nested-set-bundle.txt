@@ -1,0 +1,8 @@
+Command/
+DependencyInjection/
+Model/
+Resources/config/
+Service/
+AJStudioNestedSetBundle.php
+README.md
+composer.json

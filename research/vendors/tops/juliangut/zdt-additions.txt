@@ -1,0 +1,16 @@
+config/
+src/
+view/zend-developer-tools/toolbar/
+.gitignore
+.travis.yml
+CONTRIBUTING.md
+Gruntfile.js
+LICENSE
+Module.php
+README.md
+autoload_classmap.php
+composer.json
+composer.lock
+package.json
+phpcs.xml
+phpmd.xml

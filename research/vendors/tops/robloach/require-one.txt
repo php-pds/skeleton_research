@@ -1,0 +1,13 @@
+example/
+test/
+.editorconfig
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENSE.md
+README.md
+bower.json
+component.json
+composer.json
+package.json
+require-one.js

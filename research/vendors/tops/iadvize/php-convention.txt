@@ -1,0 +1,9 @@
+editors/phpstorm/
+phpcs/Iadvize/
+phpmd/
+.gitignore
+MAINTAINERS
+README.md
+circle.yml
+composer.json
+composer.lock

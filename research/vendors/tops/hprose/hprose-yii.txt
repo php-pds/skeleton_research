@@ -1,0 +1,7 @@
+src/Hprose/Yii/
+tests/
+.gitignore
+.travis.yml
+LICENSE.md
+README.md
+composer.json

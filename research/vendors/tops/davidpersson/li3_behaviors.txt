@@ -1,0 +1,7 @@
+config/
+data/model/
+tests/
+.travis.yml
+LICENSE.txt
+README.md
+composer.json

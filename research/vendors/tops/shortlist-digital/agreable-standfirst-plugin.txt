@@ -1,0 +1,6 @@
+.editorconfig
+.gitignore
+LICENSE
+agreable-standfirst-plugin.php
+composer.json
+readme.md

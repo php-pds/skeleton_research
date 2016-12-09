@@ -1,0 +1,10 @@
+src/GDAO/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+TODO.md
+composer.json
+phpunit.xml
+phpunit.xml.dist

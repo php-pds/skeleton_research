@@ -1,0 +1,6 @@
+src/thewulf7/travelPayouts/
+tests/thewulf7/travelPayouts/
+.gitignore
+README.md
+composer.json
+phpunit.xml

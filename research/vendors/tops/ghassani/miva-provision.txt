@@ -1,0 +1,11 @@
+.settings/
+doc/
+scripts/
+src/Miva/
+tests/Miva/
+.gitignore
+README.md
+autoload.php.dist
+composer.json
+composer.lock
+phpunit.xml.dist

@@ -1,0 +1,15 @@
+demo-mobile/
+demo/
+locale/
+plugins/
+src/
+themes/
+.DS_Store
+changelog.txt
+composer.json
+easyloader.js
+jquery.easyui.min.js
+jquery.easyui.mobile.js
+jquery.min.js
+license_freeware.txt
+readme.txt

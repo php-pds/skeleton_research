@@ -1,0 +1,6 @@
+src/GitWrapper/
+tests/GitWrapper/
+.gitignore
+.travis.yml
+README.md
+composer.json

@@ -1,0 +1,17 @@
+Cache/
+Command/
+Converter/
+DependencyInjection/
+Generator/
+Model/
+Parser/
+Populator/
+Queue/
+Resources/
+Test/
+Type/
+Xml/
+LICENSE
+README.md
+RhapsodySetupBundle.php
+composer.json

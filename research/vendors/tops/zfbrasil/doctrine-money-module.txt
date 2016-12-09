@@ -1,0 +1,12 @@
+config/
+mapping/PHPDriver/
+src/
+test/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+bootstrap.php
+composer.json
+phpunit.xml.dist

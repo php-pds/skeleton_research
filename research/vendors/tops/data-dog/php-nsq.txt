@@ -1,0 +1,6 @@
+spec/Nsq/
+src/Nsq/
+.gitignore
+LICENSE
+README.md
+composer.json

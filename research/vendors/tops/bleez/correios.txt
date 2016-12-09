@@ -1,0 +1,14 @@
+Api/
+Block/
+Controller/Adminhtml/Etiqueta/
+Helper/
+Model/
+Observer/
+Plugin/Shipping/Block/Adminhtml/
+Setup/
+etc/
+view/
+.gitignore
+composer.json
+readme.md
+registration.php

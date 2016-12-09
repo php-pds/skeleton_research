@@ -1,0 +1,15 @@
+Report/
+Team/
+Test/
+Tests/
+Worker/
+.coveralls.yml
+.gitignore
+.travis.yml
+LICENSE
+Report.php
+Worker.php
+WorkerDependantTrait.php
+composer.json
+composer.lock
+phpunit.xml.dist

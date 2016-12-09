@@ -1,0 +1,6 @@
+data/
+.gitignore
+LICENSE.md
+Pinyin.php
+README.md
+composer.json

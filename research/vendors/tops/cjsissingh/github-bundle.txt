@@ -1,0 +1,5 @@
+src/CJSissingh/GithubBundle/
+.gitignore
+LICENSE
+README.md
+composer.json

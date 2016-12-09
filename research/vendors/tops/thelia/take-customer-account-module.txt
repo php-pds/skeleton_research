@@ -1,0 +1,15 @@
+Config/
+Controller/
+Event/
+EventListener/
+Form/
+Hook/
+I18n/
+screenshot/
+templates/backOffice/default/take-customer-account/hook/
+CHANGELOG.md
+LICENSE.txt
+Readme.md
+TakeCustomerAccount.php
+composer.json
+logo.jpg

@@ -1,0 +1,14 @@
+documentation/
+schema/
+spec/PolyAuth/
+src/
+tests/
+.gitattributes
+.gitignore
+.travis.yml
+DEVELOPMENT.md
+README.md
+codeception.yml
+composer.json
+composer.lock
+polyauth

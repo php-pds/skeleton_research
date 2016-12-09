@@ -1,0 +1,11 @@
+base/
+display/
+libraries/
+.gitignore
+LICENSE-MIT.txt
+README.md
+cache.php
+composer.json
+composer.lock
+info.php
+init.php

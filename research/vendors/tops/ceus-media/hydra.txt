@@ -1,0 +1,12 @@
+classes/
+config/
+locales/
+templates/
+themes/
+.gitignore
+.htaccess
+.htpasswd
+Makefile
+boot.php5
+composer.json
+index.php

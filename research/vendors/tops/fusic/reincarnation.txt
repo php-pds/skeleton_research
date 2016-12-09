@@ -1,0 +1,10 @@
+src/Model/Behavior/
+tests/
+.editorconfig
+.gitattributes
+.gitignore
+.scrutinizer.yml
+.travis.yml
+README.md
+composer.json
+phpunit.xml.dist

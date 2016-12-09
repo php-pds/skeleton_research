@@ -1,0 +1,12 @@
+Frontend/
+src/
+tests/
+.coveralls.yml
+.gitignore
+.travis.yml
+LICENSE
+README.md
+build.xml
+composer.json
+phpunit-bootstrap.php
+phpunit.xml

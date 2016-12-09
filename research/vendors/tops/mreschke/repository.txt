@@ -1,0 +1,16 @@
+Fake/
+Fake2/
+Providers/
+Tests/
+.editorconfig
+.gitignore
+DbStore.php
+Entity.php
+Manager.php
+MongoStore.php
+MssqlStore.php
+README.md
+Store.php
+StoreInterface.php
+composer.json
+test

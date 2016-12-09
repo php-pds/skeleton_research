@@ -1,0 +1,12 @@
+doc/
+src/Ivory/GoogleMap/
+tests/
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+UPGRADE.md
+autoload.php.dist
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,15 @@
+Cache/
+DependencyInjection/
+EventListener/
+Resources/config/
+Security/
+Tests/
+User/
+.atoum.php
+.bootstrap.atoum.php
+.gitignore
+.travis.yml
+LICENSE
+M6WebDomainUserBundle.php
+README.md
+composer.json

@@ -1,0 +1,15 @@
+Command/
+DataTransformer/
+DependencyInjection/
+Entity/
+Manager/
+Resources/config/
+Tests/
+Validator/Constraints/
+.gitignore
+.travis.yml
+CiriciBeaconControlClientBundle.php
+LICENSE.md
+Readme.md
+composer.json
+phpunit.xml.dist

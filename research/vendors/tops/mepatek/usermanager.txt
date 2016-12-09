@@ -1,0 +1,6 @@
+model/
+src/UserManager/
+tests/
+.gitignore
+README.md
+composer.json

@@ -1,0 +1,11 @@
+build/
+examples/
+src/Lwi/Client/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist
+travis.phpunit.xml

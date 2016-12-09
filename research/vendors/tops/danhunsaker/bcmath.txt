@@ -1,0 +1,17 @@
+features/
+spec/
+src/
+tests/
+.gitignore
+.travis-behat.yml
+.travis-phpspec-hhvm.yml
+.travis-phpspec.yml
+.travis-phpunit-hhvm.xml
+.travis-phpunit.xml
+.travis.yml
+LICENSE.md
+README.md
+behat.yml
+composer.json
+phpspec.yml
+phpunit.xml

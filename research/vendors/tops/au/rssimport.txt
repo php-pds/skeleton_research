@@ -1,0 +1,15 @@
+actions/
+classes/AU/RSSImport/
+languages/
+lib/
+pages/
+screenshots/
+vendor/
+views/default/
+CHANGES.txt
+README.md
+activate.php
+composer.json
+composer.lock
+manifest.xml
+start.php

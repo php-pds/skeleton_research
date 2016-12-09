@@ -1,0 +1,7 @@
+bin/
+.dockerignore
+.gitignore
+Dockerfile
+composer.json
+readme.md
+recipe.php

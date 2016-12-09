@@ -1,0 +1,4 @@
+Configuration/
+.gitignore
+README.md
+composer.json

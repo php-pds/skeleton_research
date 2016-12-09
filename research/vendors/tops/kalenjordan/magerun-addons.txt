@@ -1,0 +1,8 @@
+docs/img/
+src/KJ/Magento/
+.gitignore
+README.md
+composer.json
+composer.lock
+modman
+n98-magerun.yaml

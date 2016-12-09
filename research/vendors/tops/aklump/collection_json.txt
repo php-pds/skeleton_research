@@ -1,0 +1,11 @@
+.web_package/
+lib/loft_php_lib/dist/
+src/AKlump/Http/
+tests/AKlump/Http/
+vendor/
+.gitignore
+CHANGELOG.txt
+README.md
+composer.json
+composer.lock
+web_package.info

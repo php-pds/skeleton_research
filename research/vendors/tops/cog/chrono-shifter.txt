@@ -1,0 +1,12 @@
+build/
+docs/html/
+examples/
+src/
+tests/src/
+.gitignore
+.scrutinizer.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml

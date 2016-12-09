@@ -1,0 +1,9 @@
+App/
+bin/
+log/
+temp/
+tests/
+www/
+.gitignore
+codeception.yml
+composer.json

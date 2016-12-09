@@ -1,0 +1,10 @@
+src/
+translations/
+README.md
+composer.json
+minidialog.css
+minidialog.deliver.inc
+minidialog.info
+minidialog.js
+minidialog.module
+minidialog.services.yml

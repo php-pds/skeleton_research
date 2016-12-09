@@ -1,0 +1,14 @@
+bin/
+dicts/
+examples/
+src/
+tests/
+.gitignore
+AUTHORS
+CHANGES
+COPYING
+INSTALL
+INSTALL.md
+README
+README.md
+composer.json

@@ -1,0 +1,9 @@
+lib/Doctrine/Common/DataFixtures/
+tests/Doctrine/Tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+UPGRADE
+composer.json
+phpunit.xml.dist

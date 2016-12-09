@@ -1,0 +1,5 @@
+lib/NoSqlibr/
+.gitignore
+LICENSE
+README.md
+composer.json

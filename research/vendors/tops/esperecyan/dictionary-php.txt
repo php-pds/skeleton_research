@@ -1,0 +1,11 @@
+naist-jdic/
+src/
+tests/
+.gitignore
+.gitmodules
+LICENSE
+README.md
+composer.json
+composer.lock
+error-schema.json
+phpunit.xml

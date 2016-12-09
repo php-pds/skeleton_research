@@ -1,0 +1,6 @@
+src/Gxela/Sanitize/
+tests/
+.gitignore
+.travis.yml
+composer.json
+phpunit.xml

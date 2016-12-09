@@ -1,0 +1,10 @@
+src/Dflydev/Hawk/
+tests/unit/Dflydev/Hawk/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

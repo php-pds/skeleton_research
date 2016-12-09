@@ -1,0 +1,9 @@
+examples/
+src/
+.gitignore
+LICENSE
+README.md
+bower.json
+composer.json
+happyr-dialog.min.css
+happyr-dialog.min.js

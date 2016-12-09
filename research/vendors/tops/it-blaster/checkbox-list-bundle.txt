@@ -1,0 +1,8 @@
+DependencyInjection/
+Form/Type/
+Resources/
+.gitignore
+ItBlasterCheckboxListBundle.php
+LICENSE
+README.md
+composer.json

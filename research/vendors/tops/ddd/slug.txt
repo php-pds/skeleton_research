@@ -1,0 +1,6 @@
+Infra/
+Model/
+Service/
+Tests/
+README.md
+composer.json

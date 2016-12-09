@@ -1,0 +1,4 @@
+CssMin/
+JSMinPlus/
+README.md
+composer.json

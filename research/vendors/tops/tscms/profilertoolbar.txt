@@ -1,0 +1,9 @@
+classes/
+config/
+vendor/
+views/
+.gitattributes
+HISTORY.md
+README.md
+composer.json
+init.php

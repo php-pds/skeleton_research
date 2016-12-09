@@ -1,0 +1,14 @@
+DataFixtures/ORM/
+DependencyInjection/
+EventListener/
+Form/
+Model/
+Resources/
+Twig/
+spec/NIM/CoreBundle/
+.scrutinizer.yml
+.travis.yml
+CHANGELOG.md
+NIMCoreBundle.php
+README.md
+composer.json

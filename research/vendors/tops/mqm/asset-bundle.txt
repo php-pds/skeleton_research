@@ -1,0 +1,15 @@
+Command/
+Controller/
+DependencyInjection/
+Doctrine/
+Entity/
+Helper/
+Model/
+Resources/
+Tests/
+Twig/Extension/
+.travis.yml
+MQMAssetBundle.php
+Readme.txt
+composer.json
+phpunit.xml.dist

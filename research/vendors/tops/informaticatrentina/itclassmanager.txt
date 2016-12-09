@@ -1,0 +1,8 @@
+autoloads/
+classes/
+design/standard/templates/
+modules/itclassmanager/
+settings/
+README.md
+composer.json
+extension.xml

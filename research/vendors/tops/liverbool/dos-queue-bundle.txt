@@ -1,0 +1,15 @@
+Controller/
+DependencyInjection/
+Model/
+Provider/
+Resources/
+.gitignore
+.php_cs
+.phpspec_cs
+.travis.yml
+DoSQueueBundle.php
+LICENSE
+README.md
+composer.json
+cs-fixer
+phpspec.yml

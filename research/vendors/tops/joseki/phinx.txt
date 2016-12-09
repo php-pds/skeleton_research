@@ -1,0 +1,17 @@
+app/
+bin/
+docs/
+src/
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CONTRIBUTING.md
+LICENSE
+README.md
+appveyor.yml
+box.json
+composer.json
+composer.lock
+phinx.yml
+phpunit.xml.dist

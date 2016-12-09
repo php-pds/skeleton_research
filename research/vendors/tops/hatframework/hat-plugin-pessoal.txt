@@ -1,0 +1,12 @@
+Config/
+email/classes/
+endereco/classes/
+index/classes/
+perfilrede/classes/
+redesocial/classes/
+telefone/classes/
+tipotelefone/classes/
+.gitattributes
+.gitignore
+autoload.php
+composer.json

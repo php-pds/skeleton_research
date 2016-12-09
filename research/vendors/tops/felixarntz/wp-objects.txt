@@ -1,0 +1,10 @@
+inc/WPOO/
+languages/
+.editorconfig
+.gitignore
+Gruntfile.js
+README.md
+composer.json
+license.txt
+package.json
+wp-objects.php

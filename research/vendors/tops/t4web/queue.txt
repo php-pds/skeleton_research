@@ -1,0 +1,7 @@
+config/
+src/
+view/queue/block/
+.gitignore
+Module.php
+README.md
+composer.json

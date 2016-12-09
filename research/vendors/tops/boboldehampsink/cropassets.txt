@@ -1,0 +1,10 @@
+controllers/
+fieldtypes/
+models/
+resources/js/
+templates/
+translations/
+CropAssetsPlugin.php
+LICENSE
+README.md
+composer.json

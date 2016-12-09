@@ -1,0 +1,8 @@
+lib/
+modules/dcSamlAuth/
+.gitignore
+LICENSE
+LICENSE.php-saml
+README.md
+README.php-saml
+composer.json

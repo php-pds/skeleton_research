@@ -1,0 +1,9 @@
+src/jakulov/Container/
+tests/
+.gitignore
+README.md
+Vagrantfile
+composer.json
+composer.lock
+phpunit.xml
+run_tests.sh

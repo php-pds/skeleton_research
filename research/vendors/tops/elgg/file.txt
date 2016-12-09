@@ -1,0 +1,11 @@
+actions/file/
+classes/
+graphics/icons/
+languages/
+lib/
+views/
+composer.json
+download.php
+manifest.xml
+start.php
+thumbnail.php

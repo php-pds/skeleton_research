@@ -1,0 +1,9 @@
+src/Xinix/Theme/
+templates/
+.bowerrc
+.gitignore
+LICENSE
+README.md
+bower.json
+composer.json
+pas.json

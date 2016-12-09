@@ -1,0 +1,10 @@
+docs/
+examples/sharding/
+lib/Doctrine/Shards/DBAL/
+tests/
+.gitignore
+AZURE_FEDERATIONS.md
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

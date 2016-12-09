@@ -1,0 +1,5 @@
+LICENSE
+README.md
+composer.json
+simplemde.min.css
+simplemde.min.js

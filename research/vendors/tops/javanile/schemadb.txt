@@ -1,0 +1,5 @@
+src/Javanile/SchemaDB/
+tests/
+LICENSE.txt
+README.md
+composer.json

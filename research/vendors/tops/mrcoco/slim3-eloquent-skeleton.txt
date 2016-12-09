@@ -1,0 +1,12 @@
+app/
+migrations/
+public/
+resources/
+.gitignore
+LICENSE
+README.md
+cli.php
+composer.json
+composer.lock
+phpmig
+phpmig.php

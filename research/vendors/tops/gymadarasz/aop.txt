@@ -1,0 +1,16 @@
+test/project/
+.gitignore
+AOP.php
+AOPTests.php
+Pattern.php
+PatternClass.php
+PatternFilename.php
+PatternFunction.php
+PatternNamespace.php
+PatternValueset.php
+PointCut.php
+PointCutInjector.php
+cleanup.php
+composer.json
+hook.php
+test.php

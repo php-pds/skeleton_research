@@ -1,0 +1,15 @@
+assets/
+classes/
+config/
+fields/
+functions/
+languages/
+.editorconfig
+.gitignore
+CHANGELOG.md
+README.md
+bootstrap.php
+composer.json
+cs-framework-path.php
+cs-framework.php
+index.php

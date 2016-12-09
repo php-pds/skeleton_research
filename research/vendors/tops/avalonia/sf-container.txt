@@ -1,0 +1,8 @@
+src/Avalonia/Bridge/Symfony/DependencyInjection/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+Readme.md
+composer.json
+phpunit.xml

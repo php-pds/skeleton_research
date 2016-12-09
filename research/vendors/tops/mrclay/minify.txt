@@ -1,0 +1,13 @@
+docs/
+min/
+min_extras/
+min_unit_tests/
+.editorconfig
+.gitattributes
+.gitignore
+HISTORY.txt
+LICENSE.txt
+MIN.txt
+README.md
+UPGRADING.txt
+composer.json

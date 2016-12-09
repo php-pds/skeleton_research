@@ -1,0 +1,15 @@
+Controller/
+DependencyInjection/
+Doctrine/EntityManager/
+Exception/
+Form/
+Handler/
+Resources/
+Traits/
+Util/
+Validator/Constraints/
+.gitignore
+AurejaJobQueueBundle.php
+LICENSE
+README.md
+composer.json

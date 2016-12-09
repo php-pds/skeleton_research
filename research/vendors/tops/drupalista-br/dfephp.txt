@@ -1,0 +1,13 @@
+DFe_outputs/
+dev/
+resources/
+src/DFePhp/
+tests/
+.gitignore
+LICENSE
+README.md
+alias.sh
+autoloader.php
+composer.json
+composer.phar
+phpunit.xml

@@ -1,0 +1,12 @@
+assets/config/
+bundles/app/
+src/Project/
+tests/
+web/
+.gitignore
+LICENSE
+README.md
+addAdmin.php
+composer.json
+database.sqlite
+phpunit.xml

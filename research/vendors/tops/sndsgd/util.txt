@@ -1,0 +1,12 @@
+bin/
+data/mime/
+src/
+tests/
+.coveralls.yml
+.gitattributes
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml

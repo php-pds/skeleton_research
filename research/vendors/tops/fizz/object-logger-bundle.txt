@@ -1,0 +1,6 @@
+Fizz/ObjectLoggerBundle/
+.gitignore
+COPYING
+LICENSE
+README.md
+composer.json

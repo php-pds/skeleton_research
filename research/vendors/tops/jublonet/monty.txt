@@ -1,0 +1,7 @@
+classes/
+.gitignore
+CHANGELOG
+LICENSE
+README.md
+composer.json
+loader.php

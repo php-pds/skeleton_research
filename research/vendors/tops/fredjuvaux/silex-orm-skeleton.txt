@@ -1,0 +1,9 @@
+bin/
+config/
+src/
+var/
+web/
+.htaccess
+README.md
+composer.json
+phpunit.xml.dist

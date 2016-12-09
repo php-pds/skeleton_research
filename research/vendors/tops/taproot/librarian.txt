@@ -1,0 +1,10 @@
+nbproject/
+src/Taproot/Librarian/
+tests/
+.gitignore
+README.md
+composer.json
+composer.lock
+librarianApiNoodling.php
+phpunit.xml
+sqlBrainstorming.sql

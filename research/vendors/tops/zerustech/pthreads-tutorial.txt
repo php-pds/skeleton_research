@@ -1,0 +1,10 @@
+Tests/Pthreads/
+src/Pthreads/
+.gitignore
+.travis.yml
+CHANGELOG-2.0.md
+CHANGELOG-3.0.md
+LICENSE
+README.md
+composer.json
+phpunit.xml

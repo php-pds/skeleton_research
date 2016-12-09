@@ -1,0 +1,12 @@
+docs/
+src/DDG/API/
+tests/
+.gitattributes
+.mailmap
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

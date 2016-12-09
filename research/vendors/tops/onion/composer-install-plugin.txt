@@ -1,0 +1,6 @@
+src/Composer/
+.gitignore
+LICENSE
+README
+composer.json
+composer.lock

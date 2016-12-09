@@ -1,0 +1,8 @@
+src/Keboola/Code/
+tests/Keboola/Code/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml

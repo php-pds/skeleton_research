@@ -1,0 +1,5 @@
+behaviors/
+widgets/
+.gitignore
+.htaccess
+composer.json

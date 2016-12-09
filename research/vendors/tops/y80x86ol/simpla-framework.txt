@@ -1,0 +1,5 @@
+src/Illuminate/
+.gitignore
+LICENSE
+README.md
+composer.json

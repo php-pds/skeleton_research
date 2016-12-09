@@ -1,0 +1,15 @@
+cache/
+config/
+doc/concept/
+i18n/
+message/
+src/
+tests/
+.gitignore
+CONTRIBUTING.md
+LICENSE.md
+README.md
+bootstrap-dev.php
+bootstrap.php
+composer.json
+functions.php

@@ -1,0 +1,11 @@
+administrator/components/com_media/
+media/com_media/
+plugins/editors-xtd/image/
+site/components/com_media/
+CHANGELOG.md
+CONTRIBUTING.md
+LICENSE
+README.md
+autoload.php
+composer.json
+pkg_media.xml

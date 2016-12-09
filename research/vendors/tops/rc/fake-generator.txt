@@ -1,0 +1,10 @@
+bin/
+src/
+tests/FakeGenerator/
+.gitignore
+.php_cs
+.travis.yml
+Makefile
+README.md
+composer.json
+phpunit.xml.dist

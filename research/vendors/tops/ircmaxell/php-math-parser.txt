@@ -1,0 +1,8 @@
+lib/PHPMathParser/
+.gitignore
+.php_cs
+LICENSE.md
+Makefile
+composer.json
+composer.lock
+test.php

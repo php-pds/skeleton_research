@@ -1,0 +1,4 @@
+src/
+.gitignore
+.htaccess
+composer.json

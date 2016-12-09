@@ -1,0 +1,6 @@
+code/
+.gitignore
+_config.php
+composer.json
+phpunit.xml.example
+readme.md

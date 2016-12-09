@@ -1,0 +1,12 @@
+docs/
+src/V1/Exceptions/
+tests/V1/Exceptions/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CHANGELOG.md
+README.md
+composer.json
+couscous.yml
+license.md
+phpunit.xml.dist

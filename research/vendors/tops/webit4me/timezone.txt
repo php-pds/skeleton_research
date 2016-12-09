@@ -1,0 +1,13 @@
+bin/
+build/logs/
+data/
+src/
+tests/
+.coveralls.yml
+.gitignore
+.travis.yml
+README.md
+composer.json
+phpunit.bootstrap.php
+phpunit.xml
+ruleset.xml

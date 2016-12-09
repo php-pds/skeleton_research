@@ -1,0 +1,8 @@
+.travis/
+example/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+composer.json
+template.class.php

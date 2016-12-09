@@ -1,0 +1,16 @@
+Adapter/
+DependencyInjection/
+Entity/
+Event/
+Manager/
+Model/
+Resources/
+Templating/
+Video/
+.gitignore
+CoshiMediaBundle.php
+Filesystem.php
+FilesystemMap.php
+MediaEvents.php
+README.md
+composer.json

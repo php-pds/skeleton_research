@@ -1,0 +1,10 @@
+dist/
+examples/
+vendor/
+.gitignore
+LICENSE
+LeafletSearch.php
+LeafletSearchAsset.php
+README.md
+composer.json
+composer.lock

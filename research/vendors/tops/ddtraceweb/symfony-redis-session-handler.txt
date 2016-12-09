@@ -1,0 +1,4 @@
+src/Symfony/Component/HttpFoundation/Session/Storage/Handler/
+.gitignore
+README.md
+composer.json

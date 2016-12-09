@@ -1,0 +1,5 @@
+.gitignore
+LICENSE
+PHPAnnotationLexer.php
+README.md
+composer.json

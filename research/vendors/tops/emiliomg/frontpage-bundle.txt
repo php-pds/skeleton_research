@@ -1,0 +1,8 @@
+Controller/
+DependencyInjection/
+Resources/
+.gitignore
+EmilioMgFrontpageBundle.php
+LICENSE
+README.md
+composer.json

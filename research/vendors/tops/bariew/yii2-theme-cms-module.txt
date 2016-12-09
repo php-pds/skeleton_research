@@ -1,0 +1,8 @@
+controllers/
+models/
+views/theme/
+.gitignore
+LICENSE
+Module.php
+README.md
+composer.json

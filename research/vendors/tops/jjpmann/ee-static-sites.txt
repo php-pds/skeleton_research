@@ -1,0 +1,7 @@
+language/english/
+src/
+.gitignore
+README.md
+addon.setup.php
+composer.json
+ext.static_sites.php

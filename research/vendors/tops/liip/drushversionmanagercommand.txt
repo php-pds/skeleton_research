@@ -1,0 +1,9 @@
+scripts/
+tests/
+.gitignore
+.travis.yml
+README.md
+bootstrap.php
+composer.json
+phpunit.xml.dist
+vm.drush.inc

@@ -1,0 +1,11 @@
+docs/
+src/RabbitMQ/Management/
+tests/
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist
+sami_configuration.php

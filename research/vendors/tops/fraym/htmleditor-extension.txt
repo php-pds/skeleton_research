@@ -1,0 +1,6 @@
+Extension/HtmlEditor/
+Public/js/htmleditor/
+Template/Default/Extension/HtmlEditor/
+Test/Extension/HtmlEditor/
+.gitignore
+composer.json

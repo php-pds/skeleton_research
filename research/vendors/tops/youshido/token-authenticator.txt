@@ -1,0 +1,9 @@
+DependencyInjection/
+Entity/
+Resources/config/
+Service/
+.gitignore
+LICENSE
+README.md
+TokenAuthenticationBundle.php
+composer.json

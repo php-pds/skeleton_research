@@ -1,0 +1,4 @@
+IAuth.php
+LICENSE
+NotAuthenticatedException.php
+composer.json

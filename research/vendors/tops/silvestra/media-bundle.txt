@@ -1,0 +1,11 @@
+Controller/
+DependencyInjection/
+Doctrine/EntityManager/
+Resources/
+Twig/Extension/
+.gitignore
+.travis.yml
+README.md
+SilvestraMediaBundle.php
+composer.json
+phpunit.xml.dist

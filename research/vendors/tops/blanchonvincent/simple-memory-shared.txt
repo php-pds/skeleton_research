@@ -1,0 +1,9 @@
+config/
+data/
+spec/SimpleMemoryShared/Storage/
+src/SimpleMemoryShared/
+tests/
+.gitignore
+Module.php
+README.md
+composer.json

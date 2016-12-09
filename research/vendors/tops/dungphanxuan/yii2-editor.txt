@@ -1,0 +1,5 @@
+assets/
+MarkdownEditorAsset.php
+MarkdownEditorWidget.php
+README.md
+composer.json

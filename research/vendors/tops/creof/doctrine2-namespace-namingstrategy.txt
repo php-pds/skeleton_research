@@ -1,0 +1,6 @@
+lib/CrEOF/Doctrine/ORM/Mapping/
+tests/CrEOF/Doctrine/ORM/Mapping/Tests/
+.gitignore
+README.md
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,7 @@
+actions/
+forms/
+widgets/
+.gitignore
+LiqPay.php
+README.md
+composer.json

@@ -1,0 +1,7 @@
+.gitignore
+.travis.yml
+CHANGELOG.md
+ClassLoader.php
+LICENSE
+README.md
+composer.json

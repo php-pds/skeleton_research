@@ -1,0 +1,7 @@
+CentralApps/ApplicationContext/
+build/
+README.md
+bootstrap.php
+build.xml
+composer.json
+phpunit.xml

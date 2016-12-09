@@ -1,0 +1,3 @@
+Flame/Packages/RSSFeed/
+README.md
+composer.json

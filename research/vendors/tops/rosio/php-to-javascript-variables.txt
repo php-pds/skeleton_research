@@ -1,0 +1,7 @@
+src/Rosio/PhpToJavaScriptVariables/
+tests/
+.gitignore
+.travis.yml
+composer.json
+phpunit.xml
+readme.md

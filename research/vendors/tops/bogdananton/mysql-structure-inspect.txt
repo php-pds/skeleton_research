@@ -1,0 +1,11 @@
+example/
+src/
+tests/
+.coveralls.yml
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+console.php
+phpunit.xml

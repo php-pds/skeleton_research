@@ -1,0 +1,5 @@
+src/Mindy/Logger/
+.gitignore
+composer.json
+phpunit.xml
+readme.md

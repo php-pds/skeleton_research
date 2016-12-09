@@ -1,0 +1,14 @@
+assets/
+config/
+include/
+page-templates/
+twig-templates/
+.gitignore
+.htaccess
+404.php
+README.md
+composer.json
+functions.php
+index.php
+screenshot.png
+style.css

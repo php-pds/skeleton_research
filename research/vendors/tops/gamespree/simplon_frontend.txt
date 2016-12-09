@@ -1,0 +1,5 @@
+src/Simplon/Frontend/
+test/templates/
+.gitignore
+README.md
+composer.json

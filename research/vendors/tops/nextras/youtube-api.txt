@@ -1,0 +1,6 @@
+Nextras/YoutubeApi/
+tests/
+.gitignore
+composer.json
+license.md
+readme.md

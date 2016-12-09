@@ -1,0 +1,13 @@
+assets/
+client/
+components/
+controllers/
+filters/
+mail/
+migrations/
+models/
+views/
+.DS_Store
+Module.php
+README.md
+composer.json

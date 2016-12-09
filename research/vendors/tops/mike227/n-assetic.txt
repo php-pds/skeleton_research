@@ -1,0 +1,8 @@
+docs/en/
+src/Mike227/NAssetic/
+tests/
+.gitignore
+.travis.yml
+LICENSE.md
+README.md
+composer.json

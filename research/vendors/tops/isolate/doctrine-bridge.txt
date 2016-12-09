@@ -1,0 +1,7 @@
+spec/Isolate/PersistenceContext/Transaction/
+src/Isolate/
+.gitignore
+.travis.yml
+README.md
+appveyor.yml
+composer.json

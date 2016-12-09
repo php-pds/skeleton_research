@@ -1,0 +1,7 @@
+config/
+src/CsnFileManager/
+view/csn-file-manager/index/
+LICENSE
+Module.php
+README.md
+composer.json

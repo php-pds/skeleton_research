@@ -1,0 +1,9 @@
+views/
+.gitignore
+CONTRIBUTING.md
+LICENSE.txt
+README.md
+Thorfile
+bugsnag.php
+composer.json
+readme.txt

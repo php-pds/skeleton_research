@@ -1,0 +1,16 @@
+DependencyInjection/
+HttpKernel/
+TestCase/
+Tests/Functional/
+var/data/
+.gitignore
+.travis.yml
+AppKernel.php
+LICENSE
+README.md
+VanioTestingBundle.php
+autoload.php
+composer.json
+composer.lock
+console
+phpunit.xml

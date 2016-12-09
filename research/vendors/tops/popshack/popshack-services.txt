@@ -1,0 +1,6 @@
+lib/Popshack/Service/
+tests/
+.gitattributes
+.gitignore
+README.md
+composer.json

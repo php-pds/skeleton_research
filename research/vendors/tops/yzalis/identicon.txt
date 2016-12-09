@@ -1,0 +1,13 @@
+doc/
+src/Identicon/
+tests/Identicon/Tests/
+.codecov.yml
+.editorconfig
+.gitattributes
+.gitignore
+.styleci.yml
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

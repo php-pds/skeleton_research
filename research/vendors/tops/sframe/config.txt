@@ -1,0 +1,4 @@
+FileArray.php
+LICENSE
+README.md
+composer.json

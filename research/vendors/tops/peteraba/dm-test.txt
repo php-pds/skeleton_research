@@ -1,0 +1,11 @@
+src/DmTest/
+test/unit/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE.txt
+README.md
+composer.json
+dev.phpunit.xml
+phpunit.xml
+travis.phpunit.xml

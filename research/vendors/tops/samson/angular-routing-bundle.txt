@@ -1,0 +1,7 @@
+DependencyInjection/
+Firewall/
+Listener/
+Resources/
+Tests/Controller/
+SamsonAngularRoutingBundle.php
+composer.json

@@ -1,0 +1,13 @@
+Bridge/Yaml/
+Drivers/
+Tests/
+CHANGELOG.md
+Config.php
+ConfigCache.php
+ConfigException.php
+ConfigObject.php
+ConfigTrait.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

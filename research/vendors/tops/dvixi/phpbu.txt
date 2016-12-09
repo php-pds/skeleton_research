@@ -1,0 +1,15 @@
+build/
+doc/config/
+src/
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+build.xml
+composer.json
+phpbu
+phpbu.xml.sample
+phpbu.xsd
+phpunit.xml

@@ -1,0 +1,8 @@
+src/Dominikzogg/
+tests/Dominikzogg/Doctrine/Registry/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,7 @@
+externals/pyodconverter/
+src/Barberry/Plugin/Openoffice/
+test/
+.gitignore
+README.md
+composer.json
+phpunit.xml

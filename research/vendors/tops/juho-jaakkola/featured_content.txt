@@ -1,0 +1,8 @@
+actions/featured_content/
+classes/FeaturedContent/
+languages/
+views/default/featured_content/
+.gitignore
+composer.json
+manifest.xml
+start.php

@@ -1,0 +1,14 @@
+Constraints/
+Parser/
+Tests/
+.ArrayFormType.php.swp
+.composer.json.swp
+.gitignore
+ArrayFormDataParserInterface.php
+ArrayFormType.php
+ConstraintFactory.php
+ConstraintFactoryInterface.php
+LICENSE
+README.rst
+composer.json
+phpunit.xml.dist

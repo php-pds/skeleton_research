@@ -1,0 +1,11 @@
+Assetic/
+DependencyInjection/
+Resources/config/filters/
+Tests/Assetic/
+.gitignore
+.travis.yml
+AlexAsseticExtraBundle.php
+LICENSE
+README.rst
+composer.json
+phpunit.xml.dist

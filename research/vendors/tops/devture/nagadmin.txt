@@ -1,0 +1,10 @@
+cache/
+config/
+resources/
+src/
+web/
+.gitignore
+README.md
+composer.json
+composer.lock
+console.php

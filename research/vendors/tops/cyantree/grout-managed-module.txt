@@ -1,0 +1,6 @@
+public/
+source/
+templates/
+LICENSE
+ManagedModule.php
+composer.json

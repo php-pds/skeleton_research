@@ -1,0 +1,9 @@
+vendors/webshim-1.15.5/
+views/default/webshim/
+.gitignore
+CHANGES.txt
+README.md
+composer.json
+composer.lock
+manifest.xml
+start.php

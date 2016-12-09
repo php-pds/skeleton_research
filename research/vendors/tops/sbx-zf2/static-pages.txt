@@ -1,0 +1,5 @@
+StaticPage/
+.gitignore
+LICENSE
+README.md
+composer.json

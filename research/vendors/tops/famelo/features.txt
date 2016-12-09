@@ -1,0 +1,5 @@
+Classes/Famelo/Features/
+Configuration/
+Tests/Functional/
+Readme.md
+composer.json

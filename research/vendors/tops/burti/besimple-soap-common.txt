@@ -1,0 +1,5 @@
+src/BeSimple/SoapCommon/
+tests/
+.gitignore
+composer.json
+phpunit.xml.dist

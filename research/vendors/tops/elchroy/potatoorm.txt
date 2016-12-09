@@ -1,0 +1,14 @@
+exceptions/
+src/
+tests/
+.DS_Store
+.coveralls.yml
+.gitignore
+.travis.yml
+README.md
+circle.yml
+composer.json
+config.ini
+coverage.xml
+phpunit.xml
+sample.db

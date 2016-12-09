@@ -1,0 +1,5 @@
+Docs/
+LICENSE
+README.md
+StandardTorFeedHandler.php
+composer.json

@@ -1,0 +1,12 @@
+bin/
+features/
+src/Behat/Behat/
+.gitignore
+.travis.yml
+CHANGES.md
+LICENSE
+README.md
+behat.yml.dist
+composer.json
+i18n.php
+phpdoc.ini.dist

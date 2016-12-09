@@ -1,0 +1,4 @@
+assets/
+JScrollPaneWidget.php
+README.md
+composer.json

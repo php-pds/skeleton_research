@@ -1,0 +1,16 @@
+.tx/
+_config/
+code/
+css/
+docs/
+images/
+javascript/
+lang/
+template_examples/
+templates/
+tests/
+.travis.yml
+License.md
+README.md
+_config.php
+composer.json

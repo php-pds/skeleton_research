@@ -1,0 +1,6 @@
+meta/
+.gitignore
+README.md
+app.php
+composer.json
+phpspec.yml

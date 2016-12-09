@@ -1,0 +1,5 @@
+Controller/
+DependencyInjection/
+Resources/config/
+BaikalWellknownBundle.php
+composer.json

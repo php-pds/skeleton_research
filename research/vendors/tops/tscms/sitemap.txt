@@ -1,0 +1,10 @@
+classes/
+config/
+guide/
+tests/sitemap/
+.gitattributes
+CHANGELOG.md
+LICENSE
+README.md
+composer.json
+init.php

@@ -1,0 +1,7 @@
+app/
+shell/
+.travis.yml
+LICENSE.txt
+composer.json
+modman
+phpcs.xml

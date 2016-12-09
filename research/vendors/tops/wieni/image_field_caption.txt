@@ -1,0 +1,9 @@
+src/
+templates/
+LICENSE.txt
+README.txt
+composer.json
+image_field_caption.info.yml
+image_field_caption.install
+image_field_caption.module
+image_field_caption.services.yml

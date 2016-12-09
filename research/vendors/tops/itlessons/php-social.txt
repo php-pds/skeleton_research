@@ -1,0 +1,6 @@
+examples/base/
+lib/Social/
+.gitattributes
+.gitignore
+README.md
+composer.json

@@ -1,0 +1,7 @@
+js/
+locale/
+migrations/
+src/
+LICENSE
+bootstrap.php
+composer.json

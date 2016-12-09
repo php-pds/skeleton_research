@@ -1,0 +1,6 @@
+assets/
+FullCalendar.php
+FullCalendarAssets.php
+FullCalendarEvent.php
+LICENSE
+composer.json

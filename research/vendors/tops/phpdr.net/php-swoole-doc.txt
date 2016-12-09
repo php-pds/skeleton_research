@@ -1,0 +1,8 @@
+demo_img/
+docs/
+src/
+.gitignore
+LICENSE
+README.md
+composer.json
+phpdoc.xml

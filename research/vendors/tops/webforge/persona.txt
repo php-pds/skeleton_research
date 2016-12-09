@@ -1,0 +1,12 @@
+lib/Webforge/Persona/
+tests/
+.gitignore
+.travis.yml
+README.md
+bootstrap.php
+composer.json
+package.boot.php
+persona.sublime-project
+phpunit.coverage.xml
+phpunit.travis.xml
+phpunit.xml.dist

@@ -1,0 +1,13 @@
+app/config/
+bin/
+build/
+src/
+.gitignore
+.travis.yml
+README.md
+Staticfile
+box.json
+composer.json
+composer.lock
+manifest.yml
+phpunit.xml.dist

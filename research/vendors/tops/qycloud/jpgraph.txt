@@ -1,0 +1,8 @@
+docs/
+src/
+JpGraph.php
+ModuleNotFoundException.php
+README
+README.md
+VERSION
+composer.json

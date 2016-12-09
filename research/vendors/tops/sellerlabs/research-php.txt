@@ -1,0 +1,13 @@
+docs/
+src/SellerLabs/Research/
+tests/SellerLabs/
+.editorconfig
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml
+sami.php

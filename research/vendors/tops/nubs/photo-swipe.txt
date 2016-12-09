@@ -1,0 +1,16 @@
+examples/
+lib/
+noutil/
+MIT-license.txt
+README.md
+change.log
+code.photoswipe-3.0.5.js
+code.photoswipe-3.0.5.min.js
+code.photoswipe.jquery-3.0.5.js
+code.photoswipe.jquery-3.0.5.min.js
+composer.json
+error.gif
+icons.png
+icons@2x.png
+loader.gif
+photoswipe.css

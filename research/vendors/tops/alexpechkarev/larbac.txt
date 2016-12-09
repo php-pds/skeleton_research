@@ -1,0 +1,5 @@
+src/
+LICENSE
+composer.json
+readme.md
+readme.md~

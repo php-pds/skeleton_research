@@ -1,0 +1,7 @@
+DependencyInjection/
+Entity/
+Resources/
+LICENSE
+README.md
+TadckaAttributesBundle.php
+composer.json

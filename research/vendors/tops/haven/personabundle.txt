@@ -1,0 +1,11 @@
+Controller/
+DependencyInjection/
+Entity/
+Form/
+Lib/
+Resources/
+.gitignore
+HavenPersonaBundle.php
+LICENSE
+README.md
+composer.json

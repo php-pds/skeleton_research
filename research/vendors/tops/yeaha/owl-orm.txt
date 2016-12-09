@@ -1,0 +1,6 @@
+src/DataMapper/
+tests/
+LICENSE
+README.md
+composer.json
+phpunit.xml

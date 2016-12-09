@@ -1,0 +1,17 @@
+images/
+lang/
+menu/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+admin.php
+blok.php
+composer.json
+index.php
+main.php
+post.php
+search.php
+template.php
+viewforum.php
+viewtopic.php

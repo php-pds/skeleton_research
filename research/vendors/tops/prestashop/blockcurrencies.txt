@@ -1,0 +1,13 @@
+img/
+translations/
+upgrade/
+CHANGELOG.txt
+Readme.md
+blockcurrencies.css
+blockcurrencies.php
+blockcurrencies.tpl
+composer.json
+config.xml
+index.php
+logo.gif
+logo.png

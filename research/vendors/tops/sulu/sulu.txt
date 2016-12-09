@@ -1,0 +1,17 @@
+.github/
+bin/
+src/Sulu/
+tests/
+.gitattributes
+.gitignore
+.php_cs
+.scrutinizer.yml
+.styleci.yml
+.travis.yml
+CHANGELOG.md
+CONTRIBUTING.md
+README.md
+UPGRADE.md
+appveyor.yml
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,8 @@
+src/ThibaudDauce/MoloquentInheritance/
+tests/
+.gitignore
+.travis.yml
+LICENSE.md
+composer.json
+composer.lock
+phpunit.xml

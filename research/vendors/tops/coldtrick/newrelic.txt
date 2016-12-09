@@ -1,0 +1,9 @@
+classes/ColdTrick/NewRelic/
+.gitignore
+.travis.yml
+CHANGES.txt
+README.md
+composer.json
+composer.lock
+manifest.xml
+start.php

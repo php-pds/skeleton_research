@@ -1,0 +1,5 @@
+system/modules/magnific_popup/
+.gitignore
+LICENSE
+README.md
+composer.json

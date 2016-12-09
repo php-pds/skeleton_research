@@ -1,0 +1,8 @@
+src/Label305/DocxExtractor/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml

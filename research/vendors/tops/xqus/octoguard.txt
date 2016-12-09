@@ -1,0 +1,5 @@
+lib/Octoguard/
+README.md
+composer.json
+gpg-mailgate.php
+octoguard.config.dist

@@ -1,0 +1,16 @@
+addons/pager/
+build/
+docs/
+themes/
+.gitignore
+LICENSE
+README.md
+bower.json
+build.xml
+changelog
+composer.json
+jquery-latest.js
+jquery.metadata.js
+jquery.tablesorter.js
+jquery.tablesorter.min.js
+package.json

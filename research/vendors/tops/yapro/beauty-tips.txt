@@ -1,0 +1,10 @@
+demofiles/
+other_libs/
+.gitignore
+CHANGELOG.txt
+README.asciidoc
+composer.json
+index.html
+jquery.bt.css
+jquery.bt.js
+jquery.bt.min.js

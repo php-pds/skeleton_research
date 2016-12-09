@@ -1,0 +1,9 @@
+assets/
+controllers/
+migrations/
+models/search/
+views/
+LICENSE.md
+MenuModule.php
+README.md
+composer.json

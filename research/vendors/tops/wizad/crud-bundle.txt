@@ -1,0 +1,14 @@
+Annotation/
+Crud/
+DependencyInjection/
+Form/
+Manager/
+Model/
+Resources/
+Twig/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+WizadCrudBundle.php
+composer.json

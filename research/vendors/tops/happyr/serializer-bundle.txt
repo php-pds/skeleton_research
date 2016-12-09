@@ -1,0 +1,17 @@
+Annotation/
+DependencyInjection/
+Exception/
+Metadata/
+Normalizer/
+PropertyManager/
+Resources/config/
+Tests/
+Twig/
+.gitignore
+.scrutinizer.yml
+.styleci.yml
+.travis.yml
+HappyrSerializerBundle.php
+Readme.md
+composer.json
+phpunit.xml.dist

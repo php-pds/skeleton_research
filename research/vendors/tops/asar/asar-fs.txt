@@ -1,0 +1,11 @@
+src/Asar/FileSystem/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+autounit.rb
+build.phpunit.xml
+build.xml
+composer.json
+phpunit.xml.dist

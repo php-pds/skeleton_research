@@ -1,0 +1,9 @@
+DependencyInjection/
+Http/QueryAggregator/
+Resources/config/
+.coveralls.yml
+.travis.yml
+PhilGuzzleBundle.php
+README.md
+composer.json
+phpunit.xml.dist

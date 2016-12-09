@@ -1,0 +1,9 @@
+bin/
+source/Apishka/SocialLogin/
+storage/
+.apishka.php
+.gitignore
+.php_cs
+LICENSE
+README.md
+composer.json

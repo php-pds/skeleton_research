@@ -1,0 +1,13 @@
+Ajax/
+Db/
+Module/
+Util/
+Widget/Pending/
+js/
+sql/
+.gitignore
+Plugin.php
+changelog.md
+composer.json
+icon.png
+readme.md

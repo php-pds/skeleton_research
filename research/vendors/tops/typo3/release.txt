@@ -1,0 +1,5 @@
+Classes/TYPO3/Release/
+Configuration/
+Migrations/Mysql/
+Resources/Private/
+composer.json

@@ -1,0 +1,13 @@
+Stream/
+Test/Stream/
+.gitattributes
+.gitignore
+.travis.yml
+LICENSE.md
+README.md
+Stream.php
+composer.json
+phpcs.xml
+phpdoc.dist.xml
+phpunit.xml
+tasks

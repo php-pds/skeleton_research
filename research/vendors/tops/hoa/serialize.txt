@@ -1,0 +1,6 @@
+.gitignore
+CHANGELOG.md
+Cryonicable.php
+Exception.php
+Serializable.php
+composer.json

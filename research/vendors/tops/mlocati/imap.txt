@@ -1,0 +1,7 @@
+src/
+.gitattributes
+.php_cs
+LICENSE
+README.md
+autoload.php
+composer.json

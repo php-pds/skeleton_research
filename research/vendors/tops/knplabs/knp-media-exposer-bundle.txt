@@ -1,0 +1,12 @@
+DependencyInjection/
+Helper/
+Listener/
+Resources/
+Tests/
+Twig/
+vendor/
+.gitmodules
+KnpMediaExposerBundle.php
+README.md
+composer.json
+phpunit.xml.dist

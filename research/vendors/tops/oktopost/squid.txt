@@ -1,0 +1,9 @@
+skeleton/Squid/
+src/
+tests/
+.gitignore
+License
+README.md
+composer.json
+composer.lock
+deploy.ignore.map

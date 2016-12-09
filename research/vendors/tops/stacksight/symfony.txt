@@ -1,0 +1,5 @@
+Linnovate/Stacksight/
+src/
+.gitmodules
+README.md
+composer.json

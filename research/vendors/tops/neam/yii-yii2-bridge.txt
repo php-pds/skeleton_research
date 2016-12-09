@@ -1,0 +1,6 @@
+components/
+dummy-config/
+yii-class-bridges/
+README.md
+composer.json
+include.php

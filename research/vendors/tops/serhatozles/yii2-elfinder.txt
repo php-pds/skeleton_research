@@ -1,0 +1,10 @@
+assets/
+php/
+views/
+.gitattributes
+.gitignore
+Controller.php
+README.md
+composer.json
+elFinder.php
+elFinderAsset.php

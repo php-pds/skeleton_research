@@ -1,0 +1,7 @@
+library/ZendCloud/
+tests/
+.gitignore
+CONDUCT.md
+LICENSE.txt
+README.md
+composer.json

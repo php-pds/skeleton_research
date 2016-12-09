@@ -1,0 +1,8 @@
+application/
+public/
+.gitignore
+LICENSE
+README.md
+composer.json
+console
+phinx.yml

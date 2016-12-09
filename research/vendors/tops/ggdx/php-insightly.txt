@@ -1,0 +1,6 @@
+src/GGDX/PhpInsightly/
+.gitignore
+README.md
+composer.json
+insightly.php
+test.php

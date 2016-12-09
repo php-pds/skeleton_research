@@ -1,0 +1,11 @@
+config/
+core/
+helpers/
+libraries/
+models/
+views/errors/
+.config
+.htaccess
+LICENSE
+bootstrap.php
+composer.json

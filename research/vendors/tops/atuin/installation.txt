@@ -1,0 +1,11 @@
+app_installation/
+assets/
+config/
+controllers/
+helpers/
+libraries/
+models/
+views/
+.gitignore
+Module.php
+composer.json

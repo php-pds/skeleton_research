@@ -1,0 +1,5 @@
+bin/
+config/
+src/CI/
+composer.json
+composer.lock

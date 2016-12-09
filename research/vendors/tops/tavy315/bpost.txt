@@ -1,0 +1,17 @@
+Bpack247/
+Bpost/
+Geo6/
+tests/
+.gitattributes
+.travis.yml
+Bpack247.php
+Bpost.php
+CHANGELOG.md
+Exception.php
+FormHandler.php
+Geo6.php
+LICENSE.md
+Logger.php
+README.md
+composer.json
+shm-deep-integration-v3.xsd

@@ -1,0 +1,15 @@
+docs/
+src/
+tests/
+.editorconfig
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CHANGELOG.md
+CONTRIBUTING.md
+DockerFile
+LICENSE.md
+Makefile
+README.md
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,10 @@
+src/Wambo/Core/
+tests/Wambo/Core/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+composer.json
+phpunit.xml

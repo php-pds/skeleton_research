@@ -1,0 +1,6 @@
+MailLibrary/
+tests/
+.gitignore
+LICENCE
+README.md
+composer.json

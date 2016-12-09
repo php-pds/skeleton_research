@@ -1,0 +1,9 @@
+arches/
+bin/
+config/
+public/
+tmp/
+.gitignore
+Vagrantfile
+composer.json
+phalanx.init.php

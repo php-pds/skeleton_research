@@ -1,0 +1,11 @@
+Command/
+Controller/
+DataSet/Front/
+DependencyInjection/
+Manager/
+Request/ParamConverter/
+Resources/
+LICENSE
+README.md
+WellCommerceSearchBundle.php
+composer.json

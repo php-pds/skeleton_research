@@ -1,0 +1,11 @@
+fixtures/
+src/
+tests/
+.gitignore
+.travis.yml
+README.md
+bootstrap.php
+composer.json
+fixtures.yaml
+phpunit.xml.dist
+translator

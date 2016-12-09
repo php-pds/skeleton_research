@@ -1,0 +1,5 @@
+src/Fetcher/
+tests/
+README.md
+composer.json
+phpunit.xml

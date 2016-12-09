@@ -1,0 +1,15 @@
+_config/
+code/
+css/
+images/menuicons/
+javascript/
+lang/
+templates/
+thirdparty/google/code-prettify/
+.editorconfig
+.gitattributes
+.gitignore
+LICENSE
+README.md
+_config.php
+composer.json

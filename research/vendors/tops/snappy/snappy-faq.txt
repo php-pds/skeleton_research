@@ -1,0 +1,7 @@
+public/
+.gitignore
+Gruntfile.coffee
+bower.json
+composer.json
+package.json
+readme.md

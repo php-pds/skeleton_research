@@ -1,0 +1,15 @@
+docs/
+src/
+test/
+.gitattributes
+.gitignore
+.scrutinizer.yml
+.styleci.yml
+.travis.yml
+CHANGELOG.md
+CONTRIBUTING.md
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist
+users-logo.svg

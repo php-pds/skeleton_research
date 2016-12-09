@@ -1,0 +1,14 @@
+.tx/
+src/
+tests/
+.editorconfig
+.gitignore
+.php_cs
+.scrutinizer.yml
+.travis.yml
+CHANGELOG.md
+README.md
+UPGRADE.md
+appveyor.yml
+composer.json
+phpunit.xml.dist

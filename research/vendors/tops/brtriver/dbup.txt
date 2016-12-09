@@ -1,0 +1,13 @@
+src/Dbup/
+tests/
+.gitignore
+.travis.yml
+CHANGELOG.md
+Guardfile
+LICENCE
+Makefile
+README.md
+composer.json
+dbup
+dbup.phar
+phpunit.xml.dist

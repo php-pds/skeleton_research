@@ -1,0 +1,14 @@
+dist/
+examples/
+src/
+.editorconfig
+.eslintrc
+.gitignore
+.npmignore
+.travis.yml
+README.md
+composer.json
+gulpfile.js
+index.js
+jquery.js
+package.json

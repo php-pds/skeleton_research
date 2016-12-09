@@ -1,0 +1,8 @@
+DependencyInjection/
+EventListener/
+Resources/config/
+.gitignore
+ClasticHttpCacheBundle.php
+LICENSE
+README.md
+composer.json

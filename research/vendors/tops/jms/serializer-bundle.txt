@@ -1,0 +1,12 @@
+DependencyInjection/
+Resources/
+Serializer/
+Templating/
+Tests/
+.gitignore
+.travis.yml
+JMSSerializerBundle.php
+README.md
+UPGRADING.md
+composer.json
+phpunit.xml.dist

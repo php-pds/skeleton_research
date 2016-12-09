@@ -1,0 +1,12 @@
+lib/
+src/
+tests/
+.gitignore
+.php_cs
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+codeclimate.yml
+composer.json
+phpunit.xml.dist

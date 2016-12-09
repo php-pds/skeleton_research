@@ -1,0 +1,10 @@
+interfaces/
+Constants.php
+Contract.php
+Exception.php
+Interfaces.php
+Keeper.php
+README.md
+WMUsedRootCAs.cer
+WMXml.php
+composer.json

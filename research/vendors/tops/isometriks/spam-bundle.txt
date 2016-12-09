@@ -1,0 +1,6 @@
+DependencyInjection/
+Form/Extension/Spam/
+Resources/config/
+IsometriksSpamBundle.php
+README.md
+composer.json

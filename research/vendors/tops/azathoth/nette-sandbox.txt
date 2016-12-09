@@ -1,0 +1,10 @@
+app/
+log/
+temp/
+tests/
+vendor/
+www/
+.gitignore
+.htaccess
+composer.json
+readme.md

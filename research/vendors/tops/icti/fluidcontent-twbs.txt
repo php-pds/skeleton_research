@@ -1,0 +1,9 @@
+Configuration/TypoScript/
+Resources/
+LICENSE
+Readme.rst
+composer.json
+ext_emconf.php
+ext_icon.gif
+ext_localconf.php
+ext_tables.php

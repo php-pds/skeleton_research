@@ -1,0 +1,12 @@
+Classes/
+locales/
+public/vendor/
+templates/pages/
+.gitignore
+LICENSE
+README.md
+bower.json
+composer.json
+config.php
+screenshot.png
+screenshot2.png

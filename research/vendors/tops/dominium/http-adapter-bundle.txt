@@ -1,0 +1,12 @@
+DependencyInjection/
+Resources/
+Tests/
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+UPGRADE.md
+WidopHttpAdapterBundle.php
+composer.json
+phpunit.xml.dist

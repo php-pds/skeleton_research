@@ -1,0 +1,12 @@
+Classes/
+Configuration/TypoScript/
+Migrations/Code/
+Resources/
+.gitignore
+README.md
+composer.json
+ext_emconf.php
+ext_icon.png
+ext_localconf.php
+ext_tables.php
+ext_typoscript_setup.txt

@@ -1,0 +1,5 @@
+src/Kharanenka/Scope/
+.gitignore
+LICENSE
+README.md
+composer.json

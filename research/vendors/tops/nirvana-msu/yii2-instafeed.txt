@@ -1,0 +1,7 @@
+.gitignore
+Instafeed.php
+InstafeedAsset.php
+InstafeedConfig.php
+LICENSE
+README.md
+composer.json

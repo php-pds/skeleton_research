@@ -1,0 +1,15 @@
+Examples/
+Tests/
+Utils/
+.gitignore
+.travis.yml
+AbstractClient.php
+AbstractServer.php
+AbstractServerClient.php
+NetworkException.php
+SocketClient.php
+SocketServer.php
+SocketServerClient.php
+composer.json
+composer.lock
+phpunit.xml

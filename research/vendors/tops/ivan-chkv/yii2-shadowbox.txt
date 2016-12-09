@@ -1,0 +1,9 @@
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+ShadowboxAsset.php
+ShadowboxLanguageAsset.php
+composer.json
+phpunit.xml.dist

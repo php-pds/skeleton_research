@@ -1,0 +1,12 @@
+Annotation/
+Command/
+DependencyInjection/
+Driver/
+Generator/
+Metadata/
+Resources/config/
+.gitignore
+FixturesGeneratorBundle.php
+LICENSE.md
+README.md
+composer.json

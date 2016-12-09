@@ -1,0 +1,15 @@
+Build/
+Command/
+Controller/
+DependencyInjection/
+Event/
+Resources/
+Tree/
+Twig/
+.editorconfig
+.gitignore
+CHANGELOG.md
+LICENSE
+README.md
+WebfactoryNavigationBundle.php
+composer.json

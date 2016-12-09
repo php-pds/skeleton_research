@@ -1,0 +1,8 @@
+Config/
+Hook/
+I18n/
+templates/frontOffice/default/
+LICENSE.txt
+ProductSearch.php
+Readme.md
+composer.json

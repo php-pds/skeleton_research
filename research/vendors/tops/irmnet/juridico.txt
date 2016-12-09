@@ -1,0 +1,7 @@
+config/
+src/Juridico/Controller/
+view/Juridico/index/
+.gitignore
+Module.php
+autoload_classmap.php
+composer.json

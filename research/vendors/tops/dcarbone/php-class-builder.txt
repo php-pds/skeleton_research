@@ -1,0 +1,9 @@
+docs/Templates/
+src/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.sh
+phpunit.xml.dist

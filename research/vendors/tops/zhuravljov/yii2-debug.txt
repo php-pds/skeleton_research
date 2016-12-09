@@ -1,0 +1,13 @@
+assets/
+controllers/
+panels/
+views/
+.gitignore
+README.md
+README_ru.md
+Yii2Debug.php
+Yii2DebugLogRoute.php
+Yii2DebugModule.php
+Yii2DebugPanel.php
+Yii2DebugViewRenderer.php
+composer.json

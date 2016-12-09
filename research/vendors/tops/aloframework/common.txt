@@ -1,0 +1,14 @@
+docs/
+src/
+tests/
+.gitattributes
+.gitignore
+.sensiolabs.yml
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+apigen.neon
+composer.json
+phpunit.cnf.ini
+phpunit.xml

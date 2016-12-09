@@ -1,0 +1,12 @@
+bootstrap/
+build/
+custom/css/
+dist/
+documentation/
+pages/
+plugins/
+.gitignore
+composer.json
+index.html
+index2.html
+starter.html

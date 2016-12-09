@@ -1,0 +1,5 @@
+src/ConsoleApplication/
+.gitignore
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,11 @@
+Command/
+Controller/
+DependencyInjection/
+Error/
+EventListener/
+Resources/
+Tests/Controller/
+.gitignore
+README.md
+TwoDudesErrorLoggerBundle.php
+composer.json

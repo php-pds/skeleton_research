@@ -1,0 +1,6 @@
+DependencyInjection/
+Resources/config/
+LICENSE
+OrbtResourceMirrorBundle.php
+README.md
+composer.json

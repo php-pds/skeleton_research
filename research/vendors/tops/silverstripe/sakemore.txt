@@ -1,0 +1,6 @@
+code/
+scripts/
+thirdparty/
+README.md
+_config.php
+composer.json

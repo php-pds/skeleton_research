@@ -1,0 +1,7 @@
+lib/TOGoS/XMLRDFParser/
+test/TOGoS/XMLRDFParser/
+.gitignore
+.travis.yml
+Makefile
+README.md
+composer.json

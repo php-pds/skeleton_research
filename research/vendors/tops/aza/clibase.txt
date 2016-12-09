@@ -1,0 +1,9 @@
+Exceptions/
+.gitignore
+.travis.yml
+Base.php
+CHANGELOG.md
+LICENSE.md
+README.md
+composer.json
+phpunit.xml.dist

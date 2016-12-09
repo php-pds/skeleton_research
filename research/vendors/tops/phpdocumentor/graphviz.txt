@@ -1,0 +1,9 @@
+src/phpDocumentor/GraphViz/
+tests/phpDocumentor/GraphViz/Test/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

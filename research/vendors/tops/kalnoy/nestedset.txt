@@ -1,0 +1,11 @@
+src/
+tests/
+.gitignore
+.travis.yml
+CHANGELOG.markdown
+README.markdown
+TODO.markdown
+UPGRADE.markdown
+composer.json
+phpunit.php
+phpunit.xml

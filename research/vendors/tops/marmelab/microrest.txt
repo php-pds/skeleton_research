@@ -1,0 +1,14 @@
+examples/ng-admin/
+src/
+tests/
+views/
+web/
+.gitattributes
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+makefile
+phpunit.xml.dist

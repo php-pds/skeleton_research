@@ -1,0 +1,11 @@
+actions/
+config/
+forms/editor/markergas/
+i18n/
+lib/
+persistentdocument/
+setup/
+style/
+templates/
+LICENSE.txt
+change.xml

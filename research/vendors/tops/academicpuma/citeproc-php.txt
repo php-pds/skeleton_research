@@ -1,0 +1,13 @@
+doc/api/
+locales @ 0207125
+src/Seboettg/CiteProc/
+styles @ f00ec3c
+tests/
+.gitignore
+.gitmodules
+.scrutinizer.yml
+.travis.yml
+LICENSE.txt
+README.md
+composer.json
+phpunit.xml

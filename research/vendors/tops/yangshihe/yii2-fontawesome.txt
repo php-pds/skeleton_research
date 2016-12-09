@@ -1,0 +1,8 @@
+dist/
+views/
+.gitignore
+FontAwesomeAsset.php
+FontIcon.php
+IconModalAction.php
+README.md
+composer.json

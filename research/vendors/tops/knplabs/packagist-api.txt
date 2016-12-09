@@ -1,0 +1,9 @@
+examples/
+spec/Packagist/Api/
+src/Packagist/Api/
+.gitattributes
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json

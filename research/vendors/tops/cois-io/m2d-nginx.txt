@@ -1,0 +1,6 @@
+html/
+ssl/
+Dockerfile
+composer.json
+default.conf
+magento.conf

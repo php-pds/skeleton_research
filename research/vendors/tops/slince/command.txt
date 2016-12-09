@@ -1,0 +1,6 @@
+assets/
+locale/zh_CN/
+src/
+.gitignore
+composer.json
+slince

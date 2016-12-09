@@ -1,0 +1,10 @@
+tests/
+utf8_to_ascii_db/
+.gitignore
+.travis.yml
+README.markdown
+composer.json
+interface.php
+manifest.yml
+phpunit.xml.dist
+utf8_to_ascii.php

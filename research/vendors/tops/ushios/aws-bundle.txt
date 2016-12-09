@@ -1,0 +1,9 @@
+Controller/
+DependencyInjection/
+Resources/
+Tests/DependencyInjection/
+.gitignore
+LICENSE
+README.md
+UshiosAwsBundle.php
+composer.json

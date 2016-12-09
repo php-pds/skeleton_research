@@ -1,0 +1,4 @@
+lib/Acquia/CloudApi/
+LICENSE
+README.md
+composer.json

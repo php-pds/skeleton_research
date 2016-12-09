@@ -1,0 +1,11 @@
+bin/
+src/
+tests/
+.env.example
+.gitignore
+LICENSE
+README.md
+box.json
+build.sh
+composer.json
+phpunit.xml

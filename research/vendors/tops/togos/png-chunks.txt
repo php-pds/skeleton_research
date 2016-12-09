@@ -1,0 +1,7 @@
+lib/TOGoS/PNGChunks/
+test/
+.gitignore
+.travis.yml
+Makefile
+README.md
+composer.json

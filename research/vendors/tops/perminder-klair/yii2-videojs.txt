@@ -1,0 +1,9 @@
+bower_components/video-js/
+plugins/videojs-resolution-selector/
+.bowerrc
+.gitignore
+README.md
+VideojsAsset.php
+VideojsWidget.php
+bower.json
+composer.json

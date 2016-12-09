@@ -1,0 +1,9 @@
+settings/
+src/
+static/css/
+vagrant/
+.gitignore
+LICENSE
+README.md
+Vagrantfile
+composer.json

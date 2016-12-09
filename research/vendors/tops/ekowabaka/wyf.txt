@@ -1,0 +1,11 @@
+setup/
+src/
+.gitignore
+.scrutinizer.yml
+Doxyfile
+LICENSE.txt
+README.md
+composer.json
+doxygen_input_filter.php
+entry.php
+guide.md

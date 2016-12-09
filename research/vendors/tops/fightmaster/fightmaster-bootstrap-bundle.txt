@@ -1,0 +1,6 @@
+Resources/public/
+.gitignore
+FightmasterBootstrapBundle.php
+LICENSE
+README.md
+composer.json

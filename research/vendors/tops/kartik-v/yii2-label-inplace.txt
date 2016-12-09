@@ -1,0 +1,7 @@
+assets/
+CHANGE.md
+LICENSE.md
+LabelInPlace.php
+LabelInPlaceAsset.php
+README.md
+composer.json

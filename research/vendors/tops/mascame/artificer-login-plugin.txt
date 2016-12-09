@@ -1,0 +1,8 @@
+config/
+database/migrations/
+resources/
+src/
+tests/
+.gitignore
+composer.json
+readme.md

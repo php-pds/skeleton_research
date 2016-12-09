@@ -1,0 +1,10 @@
+data/
+src/Geolocation/
+tests/
+.gitignore
+composer.json
+install.sh
+license.md
+performance.md
+readme.md
+test.sh

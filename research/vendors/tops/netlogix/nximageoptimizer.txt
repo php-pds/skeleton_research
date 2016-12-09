@@ -1,0 +1,9 @@
+Classes/Resource/
+Resources/Private/Language/
+.gitignore
+README.md
+composer.json
+ext_conf_template.txt
+ext_emconf.php
+ext_icon.gif
+ext_localconf.php

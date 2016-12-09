@@ -1,0 +1,8 @@
+examples/
+samples/
+scripts/
+sources/
+.gitignore
+LICENSE.txt
+README.md
+composer.json

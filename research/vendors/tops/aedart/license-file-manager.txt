@@ -1,0 +1,8 @@
+src/
+tests/
+.gitignore
+LICENSE
+README.md
+codeception.yml
+composer.json
+license-manager

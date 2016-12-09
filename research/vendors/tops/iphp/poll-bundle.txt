@@ -1,0 +1,10 @@
+Admin/
+Controller/
+DependencyInjection/
+Entity/
+Manager/
+Model/
+Resources/
+IphpPollBundle.php
+README.md
+composer.json

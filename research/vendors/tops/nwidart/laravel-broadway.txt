@@ -1,0 +1,13 @@
+config/
+migrations/
+src/
+.gitignore
+.gush.yml
+.php_cs
+.sensiolabs.yml
+.travis.yml
+CHANGELOG.md
+LICENSE.md
+composer.json
+phpunit.xml
+readme.md

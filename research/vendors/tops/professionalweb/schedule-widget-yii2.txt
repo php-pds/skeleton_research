@@ -1,0 +1,10 @@
+assetbundles/
+assets/
+plugins/
+views/
+wrappers/
+.gitignore
+LICENSE.md
+README.md
+ScheduleWidget.php
+composer.json

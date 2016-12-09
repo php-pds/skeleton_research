@@ -1,0 +1,7 @@
+src/FintechFab/QiwiSdk/
+tests/FintechFab/QiwiSdk/Test/
+.gitignore
+LICENSE
+README.md
+composer.json
+phpunit.xml

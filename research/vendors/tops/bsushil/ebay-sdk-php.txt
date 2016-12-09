@@ -1,0 +1,13 @@
+build/
+src/eBaySDK/
+test/eBaySDK/
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENSE.md
+Makefile
+NOTICE.md
+README.md
+composer.json
+phpunit.xml
+requirements_check.php

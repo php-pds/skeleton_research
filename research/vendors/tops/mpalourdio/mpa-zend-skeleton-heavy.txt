@@ -1,0 +1,10 @@
+config/
+data/cache/
+module/Application/
+public/
+.bowerrc
+.gitignore
+README.md
+bower.json
+composer.json
+composer.phar

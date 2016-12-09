@@ -1,0 +1,10 @@
+config/
+controllers/
+extensions/
+resources/tmp/
+tests/cases/extensions/
+views/files/
+webroot/js/
+.travis.yml
+README.md
+composer.json

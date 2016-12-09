@@ -1,0 +1,12 @@
+Magento_Catalog/templates/product/widget/new/content/
+Magento_CatalogWidget/templates/product/widget/content/
+Magento_Newsletter/
+Magento_Theme/
+media/
+web/
+README.md
+composer.json
+registration.php
+requirejs-config.js
+setup.sql
+theme.xml

@@ -1,0 +1,6 @@
+classes/
+db/
+lang/
+composer.json
+settings.php
+version.php

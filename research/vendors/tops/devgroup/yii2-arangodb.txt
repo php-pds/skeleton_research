@@ -1,0 +1,15 @@
+console/controllers/
+panels/arangodb/
+views/
+.gitignore
+ActiveQuery.php
+ActiveRecord.php
+AqlExpression.php
+Connection.php
+Exception.php
+LICENSE
+Migration.php
+Query.php
+README.md
+Serializer.php
+composer.json

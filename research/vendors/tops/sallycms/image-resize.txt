@@ -1,0 +1,11 @@
+assets/
+lang/
+lib/sly/
+vendor/JPEG/
+views/
+boot.php
+composer.json
+defaults.yml
+globals.yml
+help.php
+install.php

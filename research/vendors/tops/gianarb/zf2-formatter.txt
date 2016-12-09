@@ -1,0 +1,10 @@
+config/
+src/Formatter/
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+Module.php
+README.md
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,9 @@
+include/
+old/
+.gitignore
+.travis.yml
+README.md
+composer.json
+generate-api.sh
+license.md
+mathPHP.php

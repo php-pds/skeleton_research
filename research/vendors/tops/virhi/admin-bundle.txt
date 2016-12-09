@@ -1,0 +1,8 @@
+Tests/Controller/
+src/Virhi/AdminBundle/
+.gitignore
+Gruntfile.js
+LICENSE
+composer.json
+composer.lock
+package.json

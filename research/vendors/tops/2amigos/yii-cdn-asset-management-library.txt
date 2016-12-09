@@ -1,0 +1,8 @@
+.gitignore
+AssetManagerTrait.php
+CdnAssetManager.php
+Manager.php
+README.md
+S3AssetManager.php
+S3Command.php
+composer.json

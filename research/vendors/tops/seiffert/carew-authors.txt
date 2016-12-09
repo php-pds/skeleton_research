@@ -1,0 +1,13 @@
+Entity/
+EventSubscriber/
+Generator/
+Tests/
+layouts/
+.gitignore
+.travis.yml
+AuthorRegistry.php
+AuthorsExtension.php
+Events.php
+README.md
+composer.json
+phpunit.xml.dist

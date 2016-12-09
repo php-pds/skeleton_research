@@ -1,0 +1,11 @@
+app/
+themes/merlot/
+.gitignore
+README.md
+composer.json
+deploy
+generate
+index.php
+info
+install
+themes.txt

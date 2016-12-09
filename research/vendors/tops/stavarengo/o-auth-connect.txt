@@ -1,0 +1,8 @@
+config/
+src/OAuthConnect/
+view/sta/o-auth-connect/
+.gitignore
+Module.php
+README.md
+composer.json
+composer.lock

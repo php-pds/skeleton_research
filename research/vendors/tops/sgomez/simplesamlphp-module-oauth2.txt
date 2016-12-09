@@ -1,0 +1,9 @@
+config-template/
+hooks/
+lib/SimpleSAML/Modules/OAuth2/
+templates/
+www/
+.gitignore
+README.md
+composer.json
+default-enable

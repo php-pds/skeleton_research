@@ -1,0 +1,11 @@
+examples/
+lib/Orkestra/Transactor/
+tests/Orkestra/Transactor/Tests/
+.gitignore
+.travis.yml
+CONTRIBUTING.md
+LICENSE
+README.md
+UPGRADE.md
+composer.json
+phpunit.xml.dist

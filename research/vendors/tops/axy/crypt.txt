@@ -1,0 +1,15 @@
+tests/
+.gitattributes
+.gitignore
+.travis.yml
+APR1.php
+BCrypt.php
+CHANGELOG.md
+LICENSE
+README.md
+composer.json
+cs.sh
+index.php
+phpmd.sh
+phpmd.xml.dist
+phpunit.xml.dist

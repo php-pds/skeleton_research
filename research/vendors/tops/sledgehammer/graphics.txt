@@ -1,0 +1,9 @@
+fonts/
+src/
+tests/
+.gitignore
+.travis.yml
+Readme.md
+composer.json
+icon.png
+phpunit.xml.dist

@@ -1,0 +1,8 @@
+docs/
+src/
+tests/
+.tags
+LICENSE
+README.md
+composer.json
+phpunit.xml

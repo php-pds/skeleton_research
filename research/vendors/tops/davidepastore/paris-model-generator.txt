@@ -1,0 +1,6 @@
+src/DavidePastore/ParisModelGenerator/
+.gitignore
+LICENSE
+README.md
+composer.json
+paris-generator

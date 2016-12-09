@@ -1,0 +1,4 @@
+src/Rixxi/Mail/
+README.md
+composer.json
+license.md

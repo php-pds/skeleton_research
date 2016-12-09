@@ -1,0 +1,5 @@
+.gitignore
+LICENSE.md
+LogentriesTarget.php
+README.md
+composer.json

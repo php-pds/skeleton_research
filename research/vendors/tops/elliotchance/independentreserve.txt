@@ -1,0 +1,12 @@
+.idea/
+src/IndependentReserve/
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+config.sample.ini
+phpunit.xml

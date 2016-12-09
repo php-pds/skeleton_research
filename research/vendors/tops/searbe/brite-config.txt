@@ -1,0 +1,8 @@
+tests/
+.travis.yml
+Config.php
+IniConfig.php
+PhpConfig.php
+README.md
+composer.json
+license.txt

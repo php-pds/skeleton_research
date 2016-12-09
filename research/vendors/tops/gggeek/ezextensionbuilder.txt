@@ -1,0 +1,14 @@
+classes/
+doc/
+pake/
+.gitignore
+INSTALL
+LICENSE
+README
+composer.json
+doxyfile_master
+ezextbuilder
+options-sample.yaml
+package_master.xml
+pakefile.php
+pakefile_bootstrap.php

@@ -1,0 +1,10 @@
+controllers/
+mail/
+migrations/
+models/
+views/default/
+.gitignore
+LICENSE
+Module.php
+README.md
+composer.json

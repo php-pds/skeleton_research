@@ -1,0 +1,10 @@
+src/League/ColorExtractor/
+tests/
+.gitignore
+.php_cs
+.travis.yml
+CONTRIBUTING.md
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

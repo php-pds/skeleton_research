@@ -1,0 +1,4 @@
+.gitignore
+README.md
+composer.json
+drupal_composer_drush_policy.drush.inc

@@ -1,0 +1,6 @@
+app/config/arhitect/validator/
+src/Arhitect/Validator/
+.gitignore
+LICENSE
+composer.json
+post-install.md

@@ -1,0 +1,13 @@
+.github/
+.travis/
+Tests/
+src/
+vendor/psr/cache/Psr/Cache/
+.gitattributes
+.gitignore
+.gitmodules
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

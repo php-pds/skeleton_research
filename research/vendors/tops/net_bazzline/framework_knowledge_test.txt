@@ -1,0 +1,12 @@
+bin/
+example/
+source/Net/Bazzline/KnowledgeTest/
+test/
+.gitignore
+BarSuite.xml
+FooTestCase.php
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

@@ -1,0 +1,4 @@
+src/AccessRestrictable/
+LICENSE
+README.md
+composer.json

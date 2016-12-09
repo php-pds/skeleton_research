@@ -1,0 +1,10 @@
+DependencyInjection/
+Resources/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CLDocDataOrderApiBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

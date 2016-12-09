@@ -1,0 +1,9 @@
+Composer/
+DependencyInjection/
+Resources/
+.gitignore
+LICENSE
+README.rst
+SensioDistributionBundle.php
+UPGRADE.md
+composer.json

@@ -1,0 +1,12 @@
+Context/
+DependencyInjection/
+Resources/config/
+Tests/
+Twig/
+.gitignore
+.travis.yml
+LICENSE
+QandidateToggleBundle.php
+README.md
+composer.json
+phpunit.xml.dist

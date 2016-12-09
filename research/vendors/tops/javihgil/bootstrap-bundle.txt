@@ -1,0 +1,6 @@
+Resources/
+.gitignore
+JhgBootstrapBundle.php
+LICENSE
+README.md
+composer.json

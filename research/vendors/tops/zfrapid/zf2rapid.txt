@@ -1,0 +1,12 @@
+bin/
+config/
+docs/
+language/
+src/
+tests/ZF2rapidTest/Task/
+.gitignore
+CONTRIBUTING.md
+LICENSE
+README.md
+composer.json
+phpunit.xml

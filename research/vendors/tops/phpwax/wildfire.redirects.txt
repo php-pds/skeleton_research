@@ -1,0 +1,7 @@
+lib/controller/
+resources/app/controller/admin/
+.gitignore
+README.md
+composer.json
+ini.php
+setup.php

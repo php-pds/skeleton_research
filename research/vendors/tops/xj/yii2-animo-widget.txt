@@ -1,0 +1,6 @@
+assets/
+.gitignore
+AnimoAsset.php
+LICENSE
+README.md
+composer.json

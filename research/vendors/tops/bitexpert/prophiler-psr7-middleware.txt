@@ -1,0 +1,12 @@
+src/bitExpert/Http/Middleware/Psr7/Prophiler/
+tests/
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+build.xml
+composer.json
+composer.lock
+phpdoc.dist.xml
+phpunit.xml.dist

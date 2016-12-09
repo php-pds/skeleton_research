@@ -1,0 +1,12 @@
+.settings/
+res/
+scripts/
+src/
+.gitignore
+.project
+README.md
+api.json
+composer.json
+generator.json
+propel.yaml
+puli.json

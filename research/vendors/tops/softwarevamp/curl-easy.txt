@@ -1,0 +1,5 @@
+src/cURL/
+tests/
+.gitignore
+README.md
+composer.json

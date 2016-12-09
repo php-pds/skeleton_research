@@ -1,0 +1,5 @@
+assets/
+Asserts.php
+Persisthide.php
+README.md
+composer.json

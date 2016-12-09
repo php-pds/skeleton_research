@@ -1,0 +1,14 @@
+app/
+environments/
+provision/
+web/
+.gitignore
+.travis.yml
+Gruntfile.js
+LICENSE.txt
+README.md
+Vagrantfile
+codeception.yml
+composer.json
+composer.lock
+package.json

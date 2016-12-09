@@ -1,0 +1,13 @@
+src/
+tests/
+.codeclimate.yml
+.env.example
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+composer.json
+example_cache.php
+examples.php
+phpunit.xml

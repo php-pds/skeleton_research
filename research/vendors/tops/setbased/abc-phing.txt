@@ -1,0 +1,11 @@
+lib/
+src/Task/
+test/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+.version
+LICENSE
+README.md
+build.xml
+composer.json

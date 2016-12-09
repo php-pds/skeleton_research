@@ -1,0 +1,13 @@
+bin/
+build/logs/
+data/template/
+src/Scaffold/
+test/
+vendor/
+.coveralls.yml
+.gitignore
+.php_cs
+.travis.yml
+README.md
+composer.json
+phpunit.xml

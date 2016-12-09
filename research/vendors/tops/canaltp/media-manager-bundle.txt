@@ -1,0 +1,11 @@
+DataCollector/
+DependencyInjection/
+Entity/
+Resources/
+Tests/
+.gitignore
+COPYING
+CanalTPMediaManagerBundle.php
+README.md
+composer.json
+phpunit.xml

@@ -1,0 +1,11 @@
+Description/
+Repository/
+Tests/Unit/
+.gitignore
+.styleci.yml
+.travis.yml
+LICENSE
+README.md
+RepositoryRegistryInterface.php
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,5 @@
+assets/
+classes/
+composer.json
+license.txt
+zlider.php

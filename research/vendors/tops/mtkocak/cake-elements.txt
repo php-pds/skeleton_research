@@ -1,0 +1,8 @@
+config/
+src/
+tests/TestCase/Shell/
+webroot/
+README.md
+composer.json
+element.json
+phpunit.xml.dist

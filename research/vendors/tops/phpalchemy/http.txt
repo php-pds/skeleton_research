@@ -1,0 +1,6 @@
+File/
+Collection.php
+JsonResponse.php
+Request.php
+Response.php
+composer.json

@@ -1,0 +1,12 @@
+DependencyInjection/
+Jwt/
+Resources/
+Security/
+Tests/
+.gitignore
+.php_cs
+.travis.yml
+README.md
+Z38RapidConnectBundle.php
+composer.json
+phpunit.xml.dist

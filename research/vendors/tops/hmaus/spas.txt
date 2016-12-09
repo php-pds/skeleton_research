@@ -1,0 +1,12 @@
+bin/
+example/
+src/
+tests/
+.codeclimate.yml
+.gitignore
+.travis.yml
+LICENSE
+README.md
+RoboFile.php
+composer.json
+phpunit.xml.dist

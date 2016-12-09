@@ -1,0 +1,6 @@
+Sniffs/
+LICENSE
+README.md
+composer.json
+ruleset.xml
+rulesetmd.xml

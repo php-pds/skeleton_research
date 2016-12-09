@@ -1,0 +1,10 @@
+src/
+.gitattributes
+.gitignore
+.travis.yml
+LICENSE
+README.md
+TODO.md
+composer.json
+phpcodesniffer
+phpcodesniffer.xml

@@ -1,0 +1,8 @@
+Controller/
+DataCollector/
+DependencyInjection/
+Resources/
+Tests/Controller/
+Juanber84ProfilercommandBundle.php
+README.md
+composer.json

@@ -1,0 +1,9 @@
+src/Gzero/EloquentTree/Model/
+tests/
+.gitignore
+.release.json
+.travis.yml
+LICENSE.md
+README.md
+composer.json
+phpunit.xml

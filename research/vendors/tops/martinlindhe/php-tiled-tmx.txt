@@ -1,0 +1,11 @@
+example/
+src/
+test/
+.gitignore
+.travis.yml
+Makefile
+README.md
+TODO.md
+composer.json
+phpcs-ruleset.xml
+phpunit.xml

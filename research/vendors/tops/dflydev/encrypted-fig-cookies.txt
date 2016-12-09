@@ -1,0 +1,11 @@
+src/Dflydev/EncryptedFigCookies/
+tests/Dflydev/EncryptedFigCookies/
+.codeclimate.yml
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

@@ -1,0 +1,8 @@
+database/
+lang/en/
+src/Controllers/Admin/
+themes/
+.gitignore
+README.md
+composer.json
+extension.php

@@ -1,0 +1,12 @@
+DependencyInjection/
+Resources/config/
+Services/
+Tests/
+.gitignore
+.travis.yml
+HappyRGoogleApiBundle.php
+README.md
+UPGRADING.md
+build.xml
+composer.json
+phpunit.xml.dist

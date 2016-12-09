@@ -1,0 +1,5 @@
+model/
+src/TaskManager/
+tests/
+.gitignore
+composer.json

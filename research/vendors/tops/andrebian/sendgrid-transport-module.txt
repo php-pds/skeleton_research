@@ -1,0 +1,9 @@
+build/coverage-xml/
+src/SendGridTransportModule/
+tests/
+.gitignore
+LICENSE
+Module.php
+README.md
+composer.json
+mail.global.php.dist

@@ -1,0 +1,9 @@
+.settings/
+_config/
+code/
+templates/
+.project
+_config.php
+composer.json
+devtools
+test

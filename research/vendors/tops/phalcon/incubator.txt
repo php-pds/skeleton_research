@@ -1,0 +1,12 @@
+.github/
+Library/Phalcon/
+tests/
+.gitignore
+.travis.yml
+CONTRIBUTING.md
+LICENSE.txt
+README.md
+TESTING.md
+codeception.yml
+composer.json
+docker-compose.yml

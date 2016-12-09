@@ -1,0 +1,8 @@
+spec/Snapper/Compiler/
+src/
+tests/
+.gitignore
+composer.json
+composer.lock
+phpspec.yml
+phpunit.xml.dist

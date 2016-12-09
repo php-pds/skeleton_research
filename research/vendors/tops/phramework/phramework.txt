@@ -1,0 +1,16 @@
+src/
+tests/src/
+tools/
+.codeclimate.yml
+.gitignore
+.gitlab-ci.yml
+.htaccess
+.travis.yml
+CHANGELOG
+CONTRIBUTING
+LICENSE
+NOTICE
+README.md
+code-standard.xml
+composer.json
+phpunit.xml

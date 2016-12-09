@@ -1,0 +1,10 @@
+Builder/
+DependencyInjection/
+Entity/
+Event/
+Resources/config/
+Trigger/
+.gitignore
+GorgReplicationTriggerBundle.php
+README.md
+composer.json

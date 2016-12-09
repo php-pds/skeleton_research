@@ -1,0 +1,6 @@
+bin/php/
+classes/
+design/standard/templates/workflow/eventtype/
+eventtypes/event/occhangeobjectdate/
+settings/
+composer.json

@@ -1,0 +1,14 @@
+app/
+build/
+nbproject/
+src/
+web/
+.gitignore
+.gitmodules
+.travis.yml
+LICENSE
+README.md
+build.sh
+composer.json
+composer.lock
+update.sh

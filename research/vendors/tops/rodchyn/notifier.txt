@@ -1,0 +1,7 @@
+.gitignore
+DBusNotifier.php
+GrowlNotifier.php
+LICENSE
+NotifierInterface.php
+README.md
+composer.json

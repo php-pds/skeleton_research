@@ -1,0 +1,9 @@
+actions/
+autoloads/
+classes/
+content/
+datatypes/amicus/
+design/standard/
+modules/amicus/
+settings/
+composer.json

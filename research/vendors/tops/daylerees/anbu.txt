@@ -1,0 +1,12 @@
+public/
+resources/
+src/
+tests/
+.gitignore
+build.xml
+composer.json
+gulpfile.js
+package.json
+phpunit.xml
+readme.md
+screenshot.png

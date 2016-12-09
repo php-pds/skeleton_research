@@ -1,0 +1,10 @@
+bin/
+config/containers/
+local/
+src/
+vagrant/
+.gitignore
+LICENSE
+README.md
+composer.json
+phpunit.xml

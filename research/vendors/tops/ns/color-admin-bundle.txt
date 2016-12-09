@@ -1,0 +1,13 @@
+DependencyInjection/
+Form/
+Menu/
+Resources/
+Service/
+Tests/Controller/
+Twig/
+.rmt.yml
+CHANGELOG
+NSColorAdminBundle.php
+README.md
+RMT
+composer.json

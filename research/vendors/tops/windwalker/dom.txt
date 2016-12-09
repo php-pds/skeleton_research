@@ -1,0 +1,14 @@
+Builder/
+Format/
+Helper/
+SimpleXml/
+Test/
+.gitignore
+.travis.yml
+DomElement.php
+DomElements.php
+HtmlElement.php
+HtmlElements.php
+README.md
+composer.json
+phpunit.travis.xml

@@ -1,0 +1,13 @@
+config/
+lib/
+locale/
+public/
+.coveralls.yml
+.gitattributes
+.gitignore
+.travis.yml
+LICENSE
+Makefile
+README.md
+composer.json
+descriptor.php

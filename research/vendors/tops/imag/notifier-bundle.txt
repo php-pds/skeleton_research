@@ -1,0 +1,11 @@
+Context/
+DependencyInjection/
+Manager/
+Model/
+Provider/
+Resources/config/
+Tests/Controller/
+.gitignore
+IMAGNotifierBundle.php
+README.md
+composer.json

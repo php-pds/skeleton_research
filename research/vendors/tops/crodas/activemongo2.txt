@@ -1,0 +1,12 @@
+cli/
+example/
+lib/ActiveMongo2/
+tests/
+travis/
+.travis.yml
+README.md
+cli.php
+composer.json
+package.yml
+phpunit.xml
+service.php

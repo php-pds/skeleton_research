@@ -1,0 +1,11 @@
+public/
+src/
+tests/
+.gitignore
+.travis.yml
+Gruntfile.coffee
+compass.rb
+composer.json
+package.json
+phpunit.xml
+provides.json

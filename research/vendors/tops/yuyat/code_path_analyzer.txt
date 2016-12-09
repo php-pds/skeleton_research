@@ -1,0 +1,11 @@
+examples/
+src/Yuyat/CodePathAnalyzer/
+.gitignore
+ChangeLog.md
+Gemfile
+Gemfile.lock
+Guardfile
+LICENSE
+README.md
+composer.json
+phpunit.xml

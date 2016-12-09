@@ -1,0 +1,6 @@
+spec/Kwattro/Hypermedia/CollectionJson/
+src/Kwattro/Hypermedia/CollectionJson/
+.gitignore
+README.md
+composer.json
+composer.lock

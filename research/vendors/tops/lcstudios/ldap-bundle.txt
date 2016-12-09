@@ -1,0 +1,8 @@
+DependencyInjection/
+Resources/config/
+Security/
+Tests/Security/
+.gitignore
+LCStudiosLdapBundle.php
+README.md
+composer.json

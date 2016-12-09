@@ -1,0 +1,8 @@
+Components/
+Controller/
+DependencyInjection/
+Form/Type/
+Resources/
+NetgenHybridApproachBundle.php
+Slides.pdf
+composer.json

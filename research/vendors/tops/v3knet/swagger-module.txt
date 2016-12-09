@@ -1,0 +1,7 @@
+annotations/
+controllers/
+resources/views/pages/
+Cors.php
+README.md
+SwaggerModule.php
+composer.json

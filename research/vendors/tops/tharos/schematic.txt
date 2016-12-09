@@ -1,0 +1,8 @@
+docs/
+src/Schematic/
+tests/SchematicTests/
+.gitattributes
+.gitignore
+composer.json
+license-mit.txt
+readme.md

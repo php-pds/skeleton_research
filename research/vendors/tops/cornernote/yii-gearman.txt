@@ -1,0 +1,5 @@
+gearman/
+LICENSE
+README.md
+README.old
+composer.json

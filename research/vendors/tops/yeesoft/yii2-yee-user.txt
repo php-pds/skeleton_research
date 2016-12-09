@@ -1,0 +1,9 @@
+controllers/
+migrations/
+models/search/
+views/
+widgets/dashboard/
+LICENSE.md
+README.md
+UserModule.php
+composer.json

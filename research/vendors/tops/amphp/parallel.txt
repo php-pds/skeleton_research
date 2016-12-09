@@ -1,0 +1,16 @@
+bin/
+example/
+lib/
+test/
+.gitattributes
+.gitignore
+.travis.yml
+.valgrindrc
+CHANGELOG.md
+CONTRIBUTING.md
+LICENSE
+README.md
+Vagrantfile
+composer.json
+phpdoc.dist.xml
+phpunit.xml.dist

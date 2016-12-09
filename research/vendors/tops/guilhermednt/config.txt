@@ -1,0 +1,7 @@
+.gitignore
+ArrayConfig.php
+ConfigurationInterface.php
+README.md
+YamlConfig.php
+composer.json
+composer.lock

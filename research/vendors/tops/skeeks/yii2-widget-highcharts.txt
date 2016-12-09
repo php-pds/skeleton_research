@@ -1,0 +1,11 @@
+assets/
+build/
+doc/examples/
+.gitattributes
+.gitignore
+Highcharts.php
+HighchartsAsset.php
+Highmaps.php
+Highstock.php
+README.md
+composer.json

@@ -1,0 +1,12 @@
+.travis/
+bin/
+src/
+tests/
+.gitignore
+.travis.yml
+README.md
+box.json
+build.sh
+composer.json
+deploy.sh
+phpunit.xml.dist

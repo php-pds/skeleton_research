@@ -1,0 +1,14 @@
+_config/
+code/
+css/
+images/
+templates/
+tests/
+.editorconfig
+.gitattributes
+.scrutinizer.yml
+.travis.yml
+CONTRIBUTING.md
+LICENSE.md
+README.md
+composer.json

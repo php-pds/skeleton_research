@@ -1,0 +1,12 @@
+Constraints/
+Exception/
+Provider/
+Resources/
+Tests/
+.scrutinizer.yml
+.travis.yml
+ConstraintValidatorFactory.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

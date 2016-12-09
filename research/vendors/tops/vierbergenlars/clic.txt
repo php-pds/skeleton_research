@@ -1,0 +1,10 @@
+bin/
+documentation/
+res/
+src/
+.gitignore
+box.json.dist
+composer.json
+composer.lock
+license.md
+readme.md

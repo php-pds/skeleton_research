@@ -1,0 +1,12 @@
+example/PhpUnit/
+src/PhpUnit/
+test/PhpUnit/Constraint/
+.coveralls.yml
+.gitattributes
+.gitignore
+.php_cs
+.travis.yml
+LICENSE.txt
+README.md
+composer.json
+phpunit.xml.dist

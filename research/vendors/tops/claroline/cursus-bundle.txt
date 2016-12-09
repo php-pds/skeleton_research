@@ -1,0 +1,17 @@
+Controller/
+DataFixtures/
+Entity/
+Event/
+Form/
+Library/
+Listener/
+Manager/
+Migrations/pdo_mysql/
+Repository/
+Resources/
+Tests/API/
+ClarolineCursusBundle.php
+LICENSE
+README.md
+assets.json
+composer.json

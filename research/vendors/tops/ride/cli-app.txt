@@ -1,0 +1,5 @@
+config/
+src/ride/cli/command/
+README.md
+composer.json
+ride.json

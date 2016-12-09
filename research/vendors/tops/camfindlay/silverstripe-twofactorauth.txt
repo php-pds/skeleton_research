@@ -1,0 +1,11 @@
+_config/
+code/
+docs/en/
+.editorconfig
+.gitattributes
+.scrutinizer.yml
+CONTRIBUTING.md
+LICENSE.md
+README.md
+code-of-conduct.md
+composer.json

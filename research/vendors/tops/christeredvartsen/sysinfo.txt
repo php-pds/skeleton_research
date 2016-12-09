@@ -1,0 +1,9 @@
+src/SysInfo/
+tests/
+.gitignore
+.travis.yml
+ChangeLog.markdown
+LICENSE
+README.markdown
+Rakefile
+composer.json

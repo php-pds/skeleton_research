@@ -1,0 +1,12 @@
+Config/
+EventListener/
+Handler/
+I18n/
+Loop/
+Model/
+Tests/
+CONTRIBUTORS.txt
+CustomerScope.php
+LICENSE.txt
+README.md
+composer.json

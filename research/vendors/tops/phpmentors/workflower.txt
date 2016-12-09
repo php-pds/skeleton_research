@@ -1,0 +1,16 @@
+.github/
+.settings/
+docs/
+src/
+tests/
+.buildpath
+.gitignore
+.php_cs
+.project
+.travis.yml
+CONTRIBUTORS.md
+LICENSE
+README.md
+composer.json
+docker-compose.yml.dist
+phpunit.xml

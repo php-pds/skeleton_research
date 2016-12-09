@@ -1,0 +1,12 @@
+docs/
+exemple/
+freebox/
+tests/
+.gitignore
+.travis.yml
+LICENCE.md
+README.md
+TODO.md
+composer.json
+phpunit.dist.xml
+phpunit.xml

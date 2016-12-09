@@ -1,0 +1,11 @@
+Resources/doc/
+Tests/
+.editorconfig
+.gitignore
+.scrutinizer.yml
+.travis.yml
+ClamAvAdapter.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,8 @@
+example/
+src/Moriony/
+tests/Moriony/
+.gitignore
+.travis.yml
+README.md
+composer.json
+phpunit.xml

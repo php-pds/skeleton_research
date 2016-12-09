@@ -1,0 +1,8 @@
+application/
+user_guide/
+.editorconfig
+.gitattributes
+.gitignore
+.htaccess
+composer.json
+index.php

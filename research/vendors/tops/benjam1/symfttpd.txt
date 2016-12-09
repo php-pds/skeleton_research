@@ -1,0 +1,14 @@
+bin/
+doc/
+src/Symfttpd/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+box.json
+box.phar
+composer.json
+composer.lock
+php-cs-fixer.phar
+phpunit.xml.dist

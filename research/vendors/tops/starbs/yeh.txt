@@ -1,0 +1,12 @@
+config/
+public/
+src/
+.gitattributes
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock
+schema.sql
+start.php
+yeh

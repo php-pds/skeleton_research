@@ -1,0 +1,4 @@
+src/Ingewikkeld/Rest/ResourceBundle/
+LICENSE
+README
+composer.json

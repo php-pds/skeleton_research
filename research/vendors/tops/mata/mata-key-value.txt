@@ -1,0 +1,5 @@
+migrations/
+models/
+tests/
+README.md
+composer.json

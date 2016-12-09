@@ -1,0 +1,10 @@
+code/forms/
+css/
+javascript/
+thirdparty/trumbowyg/
+.editorconfig
+.scrutinizer.yml
+LICENSE
+README.md
+_config.php
+composer.json

@@ -1,0 +1,13 @@
+config/
+data/cache/
+module/Application/
+public/
+.gitignore
+Dockerfile
+LICENSE
+README.md
+Vagrantfile
+composer.json
+docker-compose.yml
+phpcs.xml
+phpunit.xml.dist

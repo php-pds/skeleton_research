@@ -1,0 +1,15 @@
+Classes/
+Configuration/TCA/
+Documentation/
+Resources/
+Tests/Unit/
+.travis.yml
+LICENSE.md
+README.rst
+composer.json
+ext_conf_template.txt
+ext_emconf.php
+ext_icon.gif
+ext_tables.php
+ext_tables.sql
+ext_typoscript_setup.txt

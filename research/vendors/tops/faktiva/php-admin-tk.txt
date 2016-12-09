@@ -1,0 +1,10 @@
+app/config/
+web/
+.editorconfig
+.gitignore
+.php_cs
+LICENSE
+README.md
+composer.json
+composer.phar
+config.inc.php

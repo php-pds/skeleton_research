@@ -1,0 +1,13 @@
+DependencyInjection/
+Menu/
+Resources/
+Tests/
+Twig/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+AlpixelAdminMenuBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

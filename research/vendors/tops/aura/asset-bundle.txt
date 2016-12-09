@@ -1,0 +1,9 @@
+config/
+src/
+tests/unit/
+.gitignore
+.travis.yml
+README.md
+autoload.php
+composer.json
+composer.lock

@@ -1,0 +1,8 @@
+Src/SSL/
+Tests/
+.gitignore
+.travis.yml
+README.md
+autoload.php
+composer.json
+phpunit.xml

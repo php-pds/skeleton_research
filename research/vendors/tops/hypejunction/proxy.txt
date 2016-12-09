@@ -1,0 +1,13 @@
+classes/Elgg/
+.gitattributes
+.gitignore
+.htaccess
+Gruntfile.js
+README.md
+autoloader.php
+composer.json
+index.php
+manifest.xml
+package.json
+release.md
+start.php

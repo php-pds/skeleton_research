@@ -1,0 +1,5 @@
+example/
+src/Phrototype/
+LICENSE.txt
+README.md
+composer.json

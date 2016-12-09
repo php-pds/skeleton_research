@@ -1,0 +1,8 @@
+bin/
+config/
+src/MwWorker/
+.travis.yml
+Module.php
+README.md
+autoload_classmap.php
+composer.json

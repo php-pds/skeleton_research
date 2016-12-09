@@ -1,0 +1,15 @@
+resources/
+test/
+tests/
+.gitattributes
+.gitignore
+.travis.yml
+Component.php
+EventHandler.php
+ExceptionFactory.php
+Message.php
+README.md
+Translator.php
+autoload.php.dist
+composer.json
+phpunit.xml.dist

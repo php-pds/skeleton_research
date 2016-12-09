@@ -1,0 +1,9 @@
+examples/
+src/SoftLayer/
+tests/
+.env.example
+.gitignore
+COPYING
+README.md
+composer.json
+phpunit.xml

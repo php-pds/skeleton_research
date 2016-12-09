@@ -1,0 +1,8 @@
+deploy/
+src/LightweightStandard/
+web/
+.gitignore
+.lin3s_cs.yml.dist
+LICENSE
+README.md
+composer.json

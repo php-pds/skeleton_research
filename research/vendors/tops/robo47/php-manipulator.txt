@@ -1,0 +1,17 @@
+bin/
+build/
+helper/
+src/PHP/
+tests/
+.gitignore
+.travis.yml
+LICENSE.MIT
+README.md
+TODO
+build.xml
+composer.json
+composer.lock
+helper.php
+phpmanipulator.xml
+phpunit.xml.dist
+phpunitTests.xml.dist

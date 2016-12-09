@@ -1,0 +1,5 @@
+doc/en/
+src/NasExt/GoogleCharts/
+README.md
+composer.json
+license.md

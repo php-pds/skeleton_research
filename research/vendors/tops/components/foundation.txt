@@ -1,0 +1,8 @@
+css/
+js/
+scss/
+.gitignore
+README.md
+bower.json
+component.json
+composer.json

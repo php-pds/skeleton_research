@@ -1,0 +1,8 @@
+src/
+.gitignore
+README.md
+TODO.md
+composer.json
+composer.lock
+composer.phar
+test.php

@@ -1,0 +1,10 @@
+config/
+data/Application/DataType/SqlConnector/
+src/
+tests/
+view/sqlconnector/
+CHANGELOG.md
+LICENSE
+Module.php
+README.md
+composer.json

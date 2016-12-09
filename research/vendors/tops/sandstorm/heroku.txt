@@ -1,0 +1,6 @@
+Classes/Sandstorm/Heroku/
+Configuration/Production/Heroku/
+Resources/Private/
+.gitignore
+README.md
+composer.json

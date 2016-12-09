@@ -1,0 +1,7 @@
+bin/
+src/Yak/
+.DS_Store
+.gitignore
+Readme.md
+composer.json
+composer.lock

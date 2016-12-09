@@ -1,0 +1,6 @@
+examples/
+.gitignore
+README.md
+composer.json
+composer.lock
+rubbish_thor_clone.class.php

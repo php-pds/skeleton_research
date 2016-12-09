@@ -1,0 +1,12 @@
+config/
+icons/
+languages/tagCloud/
+public/images/common/admin/paragraph-type/
+src/Grid/TagCloud/Model/Paragraph/Structure/
+vendor/
+view/grid/paragraph/render/
+.gitignore
+LICENSE.txt
+Module.php
+README.md
+composer.json

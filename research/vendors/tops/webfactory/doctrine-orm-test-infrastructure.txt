@@ -1,0 +1,12 @@
+benchmarks/Webfactory/Doctrine/ORMTestInfrastructure/
+src/Webfactory/Doctrine/ORMTestInfrastructure/
+tests/Webfactory/Doctrine/ORMTestInfrastructure/
+.coveralls.yml
+.gitignore
+.travis.yml
+LICENSE
+README.md
+build.xml
+composer.json
+composer.lock
+phpunit.xml.dist

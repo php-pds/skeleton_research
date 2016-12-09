@@ -1,0 +1,9 @@
+_config/
+code/
+css/
+templates/Layout/
+vendor/
+.htaccess
+LICENSE
+README.md
+composer.json

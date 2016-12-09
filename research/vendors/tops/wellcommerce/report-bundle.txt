@@ -1,0 +1,12 @@
+Calculator/
+Configuration/
+Context/
+Controller/Admin/
+Data/
+DependencyInjection/
+Provider/
+Resources/
+LICENSE
+README.md
+WellCommerceReportBundle.php
+composer.json

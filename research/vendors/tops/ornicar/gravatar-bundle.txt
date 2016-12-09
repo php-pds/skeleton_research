@@ -1,0 +1,15 @@
+DependencyInjection/
+Resources/config/
+Templating/Helper/
+Tests/
+Twig/
+.gitignore
+.php_cs
+.travis.yml
+GravatarApi.php
+LICENSE
+Makefile
+OrnicarGravatarBundle.php
+README.markdown
+composer.json
+phpunit.xml.dist

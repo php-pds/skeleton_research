@@ -1,0 +1,16 @@
+.settings/
+src/
+.buildpath
+.coveralls.yml
+.gitattributes
+.gitignore
+.project
+.travis.yml
+Gruntfile.js
+LICENSE.md
+README.md
+code-climate-test-reporter
+composer.json
+composer.lock
+package.json
+phpunit.xml.dist

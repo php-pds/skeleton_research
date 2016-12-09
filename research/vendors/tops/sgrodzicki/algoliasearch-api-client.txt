@@ -1,0 +1,8 @@
+lib/Algolia/SearchApiClient/
+tests/Algolia/SearchApiClient/Client/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

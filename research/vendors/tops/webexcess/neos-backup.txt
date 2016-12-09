@@ -1,0 +1,7 @@
+Classes/WebExcess/Neos/Backup/Controller/
+Configuration/
+Documentation/Images/
+Resources/
+LICENSE
+README.md
+composer.json

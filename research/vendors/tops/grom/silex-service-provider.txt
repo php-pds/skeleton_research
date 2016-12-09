@@ -1,0 +1,5 @@
+doc/
+src/Grom/Silex/
+LICENCE
+README.md
+composer.json

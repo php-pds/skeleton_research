@@ -1,0 +1,7 @@
+assets/
+.gitattributes
+.gitignore
+Cropper.php
+CropperAsset.php
+README.md
+composer.json

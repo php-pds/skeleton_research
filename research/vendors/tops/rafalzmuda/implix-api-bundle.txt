@@ -1,0 +1,5 @@
+DependencyInjection/
+Resources/config/
+LICENSE
+VirtalImplixApiBundle.php
+composer.json

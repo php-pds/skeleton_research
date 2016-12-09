@@ -1,0 +1,9 @@
+src/AJT/FlashBundle/
+.gitignore
+.travis.yml
+LICENSE
+bootstrap.test.php
+composer.json
+composer.lock
+phpunit.xml.dist
+readme.md

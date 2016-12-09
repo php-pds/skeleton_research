@@ -1,0 +1,7 @@
+Assets/
+FileManager/
+Providers/
+Resources/views/
+Traits/
+.gitignore
+composer.json

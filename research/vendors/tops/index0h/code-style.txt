@@ -1,0 +1,6 @@
+CodeStyle/
+.gitignore
+CHANGELOG
+LICENSE
+README.md
+composer.json

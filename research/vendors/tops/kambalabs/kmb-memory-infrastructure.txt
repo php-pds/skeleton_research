@@ -1,0 +1,8 @@
+config/
+src/KmbMemoryInfrastructure/
+.gitignore
+COPYING
+Module.php
+README.md
+composer.json
+composer.phar

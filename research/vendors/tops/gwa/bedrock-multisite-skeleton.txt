@@ -1,0 +1,14 @@
+config/
+public/
+.editorconfig
+.env.example
+.gitignore
+.php_cs
+.travis.yml
+CONTRIBUTING.md
+LICENSE
+README.md
+composer.json
+composer.lock
+ruleset.xml
+wp-cli.yml

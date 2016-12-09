@@ -1,0 +1,10 @@
+Core/
+DataCollector/
+DependencyInjection/
+Resources/
+Tests/Controller/
+Twig/
+.gitignore
+EPWTXhprofBundle.php
+README.md
+composer.json

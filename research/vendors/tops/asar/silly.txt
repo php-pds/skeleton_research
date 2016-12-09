@@ -1,0 +1,11 @@
+src/Silly/
+tests/
+vendor/
+.gitmodules
+LICENSE
+README.md
+build.phpunit.xml
+build.xml
+composer.json
+package.php
+package.xml.tpl

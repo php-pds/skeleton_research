@@ -1,0 +1,5 @@
+src/Voodoo/Doll/Auth/
+tests/Voodoo/Doll/Auth/
+.gitignore
+composer.json
+readme.md

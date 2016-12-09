@@ -1,0 +1,16 @@
+WURFL/
+bin/
+classes/
+doc/
+modules/odata/
+resources/
+services/
+settings/
+src/
+.gitmodules
+LICENSE
+ProducerChangesV1.patch
+README
+composer.json
+extension.xml
+odata.ini

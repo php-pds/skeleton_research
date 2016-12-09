@@ -1,0 +1,7 @@
+Authentication/
+DependencyInjection/
+Resources/
+WordpressAPI/
+BDEzWordpressAPIBundle.php
+README.md
+composer.json

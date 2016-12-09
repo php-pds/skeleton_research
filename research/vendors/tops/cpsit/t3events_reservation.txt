@@ -1,0 +1,16 @@
+Classes/
+Configuration/
+Resources/
+Tests/
+.coveralls.yml
+.gitignore
+.travis.yml
+ChangeLog
+composer.json
+ext_emconf.php
+ext_icon.gif
+ext_localconf.php
+ext_tables.php
+ext_tables.sql
+ext_typoscript_constants.txt
+ext_typoscript_setup.txt

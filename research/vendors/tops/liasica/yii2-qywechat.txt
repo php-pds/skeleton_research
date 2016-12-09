@@ -1,0 +1,5 @@
+base/
+crypt/
+.gitignore
+Qywechat.php
+composer.json

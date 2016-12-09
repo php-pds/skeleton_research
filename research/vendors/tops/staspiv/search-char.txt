@@ -1,0 +1,7 @@
+Tests/Handler/
+src/
+.gitignore
+README.md
+composer.json
+composer.lock
+search.php

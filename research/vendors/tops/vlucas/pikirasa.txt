@@ -1,0 +1,7 @@
+lib/Pikirasa/
+tests/
+.gitignore
+LICENSE.txt
+README.md
+composer.json
+phpunit.xml

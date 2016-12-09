@@ -1,0 +1,7 @@
+src/Knlv/Zf2/InputFilter/
+test/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json

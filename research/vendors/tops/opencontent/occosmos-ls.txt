@@ -1,0 +1,5 @@
+design/standard/
+doc/
+modules/cosmos/
+settings/
+composer.json

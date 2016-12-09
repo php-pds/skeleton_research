@@ -1,0 +1,12 @@
+Controller/
+DependencyInjection/
+Model/
+Resources/
+Sonata/
+Tests/Model/
+.gitignore
+.travis.yml
+FDevsBlockBundle.php
+README.md
+composer.json
+phpunit.xml.dist

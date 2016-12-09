@@ -1,0 +1,9 @@
+assets/
+components/
+lang/
+updates/
+LICENCE.md
+Plugin.php
+composer.json
+icon.png
+readme.md

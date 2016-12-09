@@ -1,0 +1,5 @@
+classes/
+i18n/pt/
+views/
+composer.json
+init.php

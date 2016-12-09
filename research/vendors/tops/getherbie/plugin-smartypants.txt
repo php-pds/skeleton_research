@@ -1,0 +1,5 @@
+vendor/Michelf/
+LICENCE.md
+README.md
+composer.json
+smartypants.php

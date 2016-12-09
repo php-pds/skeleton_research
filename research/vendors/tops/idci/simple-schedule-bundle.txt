@@ -1,0 +1,12 @@
+Command/
+Controller/
+DependencyInjection/
+Entity/
+Form/
+Repository/
+Resources/
+Util/
+.gitignore
+IDCISimpleScheduleBundle.php
+README.md
+composer.json

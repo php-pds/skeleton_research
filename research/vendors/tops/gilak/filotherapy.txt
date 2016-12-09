@@ -1,0 +1,7 @@
+examples/
+src/gilak/
+tests/gilak/
+.gitignore
+README.md
+composer.json
+phpunit.xml

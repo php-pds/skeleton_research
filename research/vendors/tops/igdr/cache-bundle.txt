@@ -1,0 +1,8 @@
+DependencyInjection/
+Manager/
+Resources/config/
+Tests/DependencyInjection/
+.gitignore
+IgdrCacheBundle.php
+README.md
+composer.json

@@ -1,0 +1,10 @@
+Admin/
+Controller/
+DependencyInjection/
+Resources/
+.gitignore
+.travis.yml
+LICENSE
+SfynxAdminBundle.php
+composer.json
+phpunit.xml.dist

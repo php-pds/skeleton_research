@@ -1,0 +1,16 @@
+assets/
+cmsWidgets/form2/
+config/
+controllers/
+mail/
+messages/ru/
+migrations/
+models/
+views/
+widgets/
+.gitignore
+CHANGELOG.md
+LICENSE
+Module.php
+README.md
+composer.json

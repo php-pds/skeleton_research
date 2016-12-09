@@ -1,0 +1,6 @@
+docs/
+src/
+tests/
+.gitignore
+README.MD
+composer.json

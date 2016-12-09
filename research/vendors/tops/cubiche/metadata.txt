@@ -1,0 +1,13 @@
+Driver/
+Exception/
+.atoum.php
+.atoum.travis.php
+.bootstrap.atoum.php
+.travis.yml
+ClassMetadata.php
+ClassMetadataFactory.php
+MergeableClassMetadata.php
+MethodMetadata.php
+PropertyMetadata.php
+README.md
+composer.json

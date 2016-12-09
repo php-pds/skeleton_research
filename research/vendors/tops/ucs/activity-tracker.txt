@@ -1,0 +1,14 @@
+Annotation/
+Exception/
+Metadata/
+Subscriber/
+Tests/
+.gitignore
+ActivityRecord.php
+ActivityRecordInterface.php
+ActivityRecordManager.php
+ActivityRecordManagerInterface.php
+DoctrineExtensions.php
+composer.json
+composer.lock
+phpunit.xml.dist

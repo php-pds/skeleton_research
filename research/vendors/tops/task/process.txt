@@ -1,0 +1,9 @@
+spec/Task/Plugin/
+src/
+tests/src/Process/
+.coveralls.yml
+.gitignore
+.travis.yml
+README.md
+Taskfile
+composer.json

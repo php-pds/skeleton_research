@@ -1,0 +1,6 @@
+src/Ionutmilica/Themes/
+tests/
+.gitignore
+.travis.yml
+composer.json
+phpunit.xml

@@ -1,0 +1,10 @@
+Command/
+DependencyInjection/
+EventListener/
+Resources/
+Security/
+.gitignore
+LICENSE
+README.md
+TicketparkDynamicRoleBundle.php
+composer.json

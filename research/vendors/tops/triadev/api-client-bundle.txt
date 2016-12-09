@@ -1,0 +1,8 @@
+Client/
+DependencyInjection/
+Services/
+.gitignore
+ApiClientBundle.php
+LICENSE
+README.md
+composer.json

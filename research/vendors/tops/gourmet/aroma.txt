@@ -1,0 +1,12 @@
+config/Migrations/
+src/
+tests/
+.gitattributes
+.gitignore
+.semver
+.travis.yml
+LICENSE
+README.md
+VERSION
+composer.json
+phpunit.xml.dist

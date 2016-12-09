@@ -1,0 +1,6 @@
+db/
+LICENSE
+README.MD
+VisitorFilter.php
+VisitorInfo.php
+composer.json

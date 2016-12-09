@@ -1,0 +1,16 @@
+Controller/
+DependencyInjection/
+Doctrine/
+Entity/
+EntityManager/
+Event/
+Form/
+Model/
+Resources/
+Tests/Controller/
+.gitignore
+.project
+.project~
+AntFotoBundle.php
+README.md
+composer.json

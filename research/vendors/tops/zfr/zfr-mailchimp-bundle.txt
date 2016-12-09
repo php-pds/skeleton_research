@@ -1,0 +1,8 @@
+DependencyInjection/
+Resources/config/
+Services/
+.gitignore
+LICENCE
+README.md
+ZfrMailChimpBundle.php
+composer.json

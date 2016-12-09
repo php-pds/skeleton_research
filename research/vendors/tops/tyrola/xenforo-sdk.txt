@@ -1,0 +1,6 @@
+src/BirknerAlex/Xenforo/
+.gitignore
+LICENSE
+README.md
+composer.json
+sample.php

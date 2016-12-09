@@ -1,0 +1,8 @@
+src/AllNations/
+tests/AllNations/
+.gitignore
+.travis.yml
+LICENSE.md
+README.md
+composer.json
+phpunit.xml

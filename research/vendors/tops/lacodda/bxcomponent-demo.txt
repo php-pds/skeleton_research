@@ -1,0 +1,7 @@
+stafftools.detail/
+stafftools.list/
+stafftools/
+.gitignore
+LICENSE.md
+README.md
+composer.json

@@ -1,0 +1,8 @@
+misc/
+public/
+src/Empathy/ELib/
+tpl/
+README.md
+composer.json
+dd.sql
+dm.sql

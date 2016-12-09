@@ -1,0 +1,11 @@
+MasterCard/Api/Match/
+Test/
+.gitignore
+README.md
+composer.json
+mastercard-match-1.0.3.zip
+mcapi_sandbox_key.p12
+phpunit.xml
+send_sdk_ci_1_sandbox.p12
+send_sdk_ci_2_sandbox.p12
+send_sdk_ci_3_sandbox.p12

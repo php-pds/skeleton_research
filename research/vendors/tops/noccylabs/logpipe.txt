@@ -1,0 +1,13 @@
+bin/
+docs/
+examples/
+lib/
+plugins/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+VERSIONS.md
+composer.json
+phpunit.xml

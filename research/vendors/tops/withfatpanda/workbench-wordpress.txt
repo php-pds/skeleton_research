@@ -1,0 +1,13 @@
+config/
+lib/
+tests/
+web/
+workbench/
+.env.example
+.gitignore
+CHANGELOG.md
+LICENSE.md
+README.md
+composer.json
+phpunit.xml
+wp-cli.yml

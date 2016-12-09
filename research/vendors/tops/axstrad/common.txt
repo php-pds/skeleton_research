@@ -1,0 +1,12 @@
+build/config/
+src/
+tests/
+.coveralls.yml
+.formatter.yml
+.gitignore
+.travis.yml
+LICENSE
+Readme.md
+build.xml
+composer.json
+phpunit.xml.dist

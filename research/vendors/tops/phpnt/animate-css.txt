@@ -1,0 +1,5 @@
+.gitignore
+AnimateCssAsset.php
+LICENSE
+README.md
+composer.json

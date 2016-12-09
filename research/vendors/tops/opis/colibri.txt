@@ -1,0 +1,9 @@
+lib/
+licenses/
+res/
+.gitignore
+CHANGELOG.md
+LICENSE
+NOTICE
+README.md
+composer.json

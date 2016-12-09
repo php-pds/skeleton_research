@@ -1,0 +1,4 @@
+library/Zend/Http/
+LICENSE.txt
+README.md
+composer.json

@@ -1,0 +1,7 @@
+databases/
+.gitignore
+README.md
+civicrm-upgrade-test
+civicrm-upgrade-test-jenkins
+civicrm-upgrade-test.settings.txt
+composer.json

@@ -1,0 +1,11 @@
+clause-and-effect/
+.gitignore
+LICENSE
+README.md
+composer.json
+interpreter.php
+oleg-numbers.php
+peano.php
+reasoned.php
+test.php
+type-inferencer.php

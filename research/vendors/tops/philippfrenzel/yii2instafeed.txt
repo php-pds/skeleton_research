@@ -1,0 +1,6 @@
+assets/js/
+LICENSE
+README.md
+composer.json
+yii2instafeed.php
+yii2instafeedAsset.php

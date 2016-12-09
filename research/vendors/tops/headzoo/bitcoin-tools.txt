@@ -1,0 +1,6 @@
+src/Headzoo/Bitcoin/Tools/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json

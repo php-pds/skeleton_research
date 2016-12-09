@@ -1,0 +1,17 @@
+docs/
+lib/Webforge/Common/
+tests/
+.coveralls.yml
+.gitattributes
+.gitignore
+.travis.yml
+LICENSE
+README.md
+bootstrap.php
+composer.json
+migrate-1.4.md
+migrate-1.7.md
+migrate-1.8.md
+phpunit.xml.dist
+rmt.json
+ubiquitous-language.md

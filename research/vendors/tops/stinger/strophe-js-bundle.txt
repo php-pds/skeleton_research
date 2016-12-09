@@ -1,0 +1,5 @@
+Resources/public/scripts/
+.project
+LICENSE
+StingerStropheJsBundle.php
+composer.json

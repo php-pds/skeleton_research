@@ -1,0 +1,13 @@
+example/
+spec/
+src/
+.editorconfig
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+hh_autoload.json
+peridot.hh
+screen-shot.png
+typecheck

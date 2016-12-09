@@ -1,0 +1,8 @@
+src/Simple/Validation/
+test/Simple/Validation/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml

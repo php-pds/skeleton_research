@@ -1,0 +1,7 @@
+DependencyInjection/
+Resources/config/
+Spool/
+EmailInterface.php
+README.md
+WhiteOctoberSwiftMailerDBBundle.php
+composer.json

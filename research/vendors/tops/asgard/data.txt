@@ -1,0 +1,10 @@
+Tests/
+migrations/
+.travis.yml
+Bundle.php
+Data.php
+LICENSE
+README.md
+composer.json
+phpunit.php
+phpunit.xml

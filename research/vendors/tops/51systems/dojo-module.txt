@@ -1,0 +1,5 @@
+config/
+src/Dojo/
+Module.php
+README.md
+composer.json

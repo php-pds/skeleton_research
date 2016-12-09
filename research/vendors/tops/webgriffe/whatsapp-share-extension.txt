@@ -1,0 +1,9 @@
+layout/webgriffe/
+skin/
+src/
+template/webgriffe/
+LICENSE
+README.md
+Webgriffe_WhatsAppShare.xml
+composer.json
+modman

@@ -1,0 +1,4 @@
+bin/
+src/Kemer/Swagger/Jane/
+.gitignore
+composer.json

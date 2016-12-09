@@ -1,0 +1,7 @@
+Command/
+Composer/
+Resources/
+.gitignore
+MonstrumSymfonyDropZoneBundle.php
+README.md
+composer.json

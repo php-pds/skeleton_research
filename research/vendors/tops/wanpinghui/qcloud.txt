@@ -1,0 +1,8 @@
+signature/
+CHANGELOG
+README
+TimRestApi.php
+TimRestApiConfig.json
+TimRestApiGear.php
+TimRestInterface.php
+composer.json

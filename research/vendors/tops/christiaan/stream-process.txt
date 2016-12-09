@@ -1,0 +1,8 @@
+src/Christiaan/StreamProcess/
+test/Christiaan/StreamProcess/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

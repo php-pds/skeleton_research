@@ -1,0 +1,5 @@
+Core/Http/
+LICENSE
+README.md
+composer.json
+composer.lock

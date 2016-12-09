@@ -1,0 +1,11 @@
+DependencyInjection/
+Entity/
+Formatter/
+Listener/
+Resources/
+Tests/Formatter/
+Twig/Extension/
+GOCLocaleBundle.php
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,13 @@
+bin/
+src/PHPUnit/
+tests/
+.editorconfig
+.gitattributes
+.gitignore
+.php_cs
+.travis.yml
+LICENSE
+README.md
+UPGRADE.md
+composer.json
+phpunit.xml.dist

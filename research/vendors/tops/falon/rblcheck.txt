@@ -1,0 +1,12 @@
+.gitignore
+LICENSE
+README.md
+ajaxsbmt.js
+composer.json
+composer.lock
+dnsbl.conf-default
+function.php
+index.php
+linkify.php
+result.php
+style.css

@@ -1,0 +1,6 @@
+example/
+lib/Pagon/
+.gitignore
+README.md
+README_en.md
+composer.json

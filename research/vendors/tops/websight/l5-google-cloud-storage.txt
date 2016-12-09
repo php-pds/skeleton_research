@@ -1,0 +1,5 @@
+src/Websight/GcsProvider/
+.gitignore
+LICENSE
+README.md
+composer.json

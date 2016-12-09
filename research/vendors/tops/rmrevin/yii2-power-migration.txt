@@ -1,0 +1,6 @@
+.gitignore
+PowerMigration.php
+README.md
+composer.json
+composer.lock
+template.php

@@ -1,0 +1,4 @@
+src/Wow/Security/
+LICENSE.MIT
+README.markdown
+composer.json

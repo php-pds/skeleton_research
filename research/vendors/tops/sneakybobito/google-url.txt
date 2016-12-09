@@ -1,0 +1,10 @@
+doc/
+lib/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+README.old.md
+autoload.php
+composer.json

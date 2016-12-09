@@ -1,0 +1,4 @@
+src/modules/ManiaPlanet/Manialink/
+LICENSE
+README.md
+composer.json

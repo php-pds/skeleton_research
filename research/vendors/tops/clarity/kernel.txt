@@ -1,0 +1,3 @@
+Kernel.php
+KernelTrait.php
+composer.json

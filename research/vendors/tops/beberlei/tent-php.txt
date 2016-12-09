@@ -1,0 +1,8 @@
+example/
+src/TentPHP/
+tests/
+.gitignore
+README.md
+composer.json
+composer.lock
+phpunit.xml

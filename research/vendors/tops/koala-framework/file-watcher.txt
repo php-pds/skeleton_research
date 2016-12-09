@@ -1,0 +1,9 @@
+src/Kwf/FileWatcher/
+tests/
+.gitignore
+.travis.yml
+COPYING
+README.md
+composer.json
+composer.lock
+phpunit.xml

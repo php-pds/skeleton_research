@@ -1,0 +1,11 @@
+app/
+test/Qandidate/Application/Toggle/
+web/
+.env.dist
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

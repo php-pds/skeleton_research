@@ -1,0 +1,8 @@
+docs/
+src/Controls/
+tests/
+.gitattributes
+.gitignore
+.travis.yml
+composer.json
+readme.md

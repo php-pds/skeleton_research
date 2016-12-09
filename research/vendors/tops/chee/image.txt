@@ -1,0 +1,5 @@
+src/Chee/Image/
+.gitignore
+.travis.yml
+composer.json
+phpunit.xml

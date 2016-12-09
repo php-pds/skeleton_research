@@ -1,0 +1,9 @@
+css/
+img/
+js/
+test/
+LICENSE.txt
+README.markdown
+bower.json
+composer.json
+multi-select.jquery.json

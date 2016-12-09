@@ -1,0 +1,10 @@
+Controller/
+DependencyInjection/
+Entity/
+Form/
+Repository/
+Resources/
+Service/
+Tests/
+FoggylineSalesBundle.php
+composer.json

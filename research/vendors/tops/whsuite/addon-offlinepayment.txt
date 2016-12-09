@@ -1,0 +1,12 @@
+assets/img/
+configs/
+controllers/client/
+languages/
+libraries/
+migrations/
+views/clients/offline_payments/
+.gitignore
+LICENSE
+README.md
+composer.json
+offlinepayment_details.php

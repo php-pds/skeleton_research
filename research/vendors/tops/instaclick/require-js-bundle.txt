@@ -1,0 +1,14 @@
+Assetic/
+Configuration/
+DependencyInjection/
+Exception/
+Resources/
+Templating/Helper/
+Tests/
+Twig/Extension/
+.gitignore
+.travis.yml
+HearsayRequireJSBundle.php
+README.md
+composer.json
+phpunit.xml.dist

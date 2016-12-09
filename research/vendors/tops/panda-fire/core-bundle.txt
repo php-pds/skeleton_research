@@ -1,0 +1,17 @@
+Controller/
+DependencyInjection/
+Form/
+Manager/
+Model/
+Repository/
+Resources/
+Tests/
+Twig/Extension/
+Validator/Constraints/
+.gitignore
+.travis.yml
+LICENSE
+PandaFireCoreBundle.php
+README.md
+composer.json
+phpunit.xml.dist

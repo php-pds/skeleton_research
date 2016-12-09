@@ -1,0 +1,7 @@
+attachment/
+frontend/com_rapidsitemap/
+LICENSE
+README.md
+composer.json
+install.php
+rapidsitemap.xml

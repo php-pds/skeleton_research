@@ -1,0 +1,8 @@
+bin/
+src/
+.bump-version.php
+.gitignore
+LICENSE
+README.md
+VERSION
+composer.json

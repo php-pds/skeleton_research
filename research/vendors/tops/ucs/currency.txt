@@ -1,0 +1,4 @@
+Guesser/
+.gitignore
+CurrencyCodeGuesserInterface.php
+composer.json

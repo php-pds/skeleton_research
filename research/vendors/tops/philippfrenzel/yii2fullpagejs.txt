@@ -1,0 +1,6 @@
+assets/
+LICENSE
+README.md
+composer.json
+yii2fullpagejs.php
+yii2fullpagejsAsset.php

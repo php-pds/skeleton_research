@@ -1,0 +1,12 @@
+Block/
+Controller/
+Helper/
+Model/
+etc/
+i18n/
+view/
+.gitignore
+LICENSE
+README.md
+composer.json
+registration.php

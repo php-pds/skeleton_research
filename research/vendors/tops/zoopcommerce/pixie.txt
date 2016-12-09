@@ -1,0 +1,5 @@
+src/Zoop/Pixie/
+.gitignore
+.travis.yml
+README.md
+composer.json

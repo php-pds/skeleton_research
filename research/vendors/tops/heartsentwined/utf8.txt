@@ -1,0 +1,6 @@
+src/Yalesov/Utf8/
+test/
+.gitignore
+.travis.yml
+README.md
+composer.json

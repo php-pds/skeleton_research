@@ -1,0 +1,15 @@
+admin/
+assets/
+common/config/
+media/filemanager/
+runtime/
+themes/parallax/
+.gitignore
+.htaccess
+CHANGELOG.md
+LICENSE.md
+README.md
+composer.json
+index.php
+yii
+yii.bat

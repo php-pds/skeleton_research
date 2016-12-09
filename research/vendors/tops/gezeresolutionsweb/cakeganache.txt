@@ -1,0 +1,9 @@
+Config/
+Locale/
+Test/
+View/Helper/
+webroot/
+LICENSE.txt
+README.md
+VERSION.md
+composer.json

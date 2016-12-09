@@ -1,0 +1,13 @@
+Controller/
+DependencyInjection/
+Entity/
+EventListener/
+Form/Type/
+Meta/
+Resources/
+Services/
+TemplateList/
+LICENSE
+NewscoopCommentListsBundle.php
+README.md
+composer.json

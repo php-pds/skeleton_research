@@ -1,0 +1,8 @@
+config/
+schema/
+src/Zf2FileUploader/
+.gitignore
+LICENSE
+Module.php
+README.md
+composer.json

@@ -1,0 +1,9 @@
+src/Stillat/Common/
+tests/
+.gitignore
+.travis.yml
+LICENSE.md
+README.md
+composer.json
+phpunit.xml
+stillat_common.png

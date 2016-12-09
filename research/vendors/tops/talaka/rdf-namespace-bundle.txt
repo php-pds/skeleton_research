@@ -1,0 +1,9 @@
+DependencyInjection/
+Resources/config/
+Service/
+tests/Service/
+.gitignore
+TalakaRdfNamespaceBundle.php
+composer.json
+composer.lock
+phpunit.xml

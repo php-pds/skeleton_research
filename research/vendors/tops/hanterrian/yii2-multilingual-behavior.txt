@@ -1,0 +1,6 @@
+.gitignore
+MultilingualBehavior.php
+MultilingualQuery.php
+MultilingualTrait.php
+README.md
+composer.json

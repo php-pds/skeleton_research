@@ -1,0 +1,11 @@
+Aoe/
+default/
+ide/
+lenient/
+messdetector/
+namespace/
+namespaceLibraries/
+namespace_libraries/
+strict/
+README.md
+composer.json

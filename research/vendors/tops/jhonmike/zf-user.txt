@@ -1,0 +1,5 @@
+config/
+src/Zf2User/
+view/
+README.md
+composer.json

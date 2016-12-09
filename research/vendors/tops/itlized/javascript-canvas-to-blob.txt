@@ -1,0 +1,8 @@
+js/
+test/
+.gitignore
+Makefile
+README.md
+bower.json
+composer.json
+package.json

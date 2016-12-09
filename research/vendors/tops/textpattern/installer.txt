@@ -1,0 +1,6 @@
+src/Textpattern/Composer/Installer/
+.gitignore
+CONTRIBUTING.textile
+LICENSE
+README.textile
+composer.json

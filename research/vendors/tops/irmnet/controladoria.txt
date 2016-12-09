@@ -1,0 +1,7 @@
+config/
+src/Controladoria/Controller/
+view/Controladoria/index/
+.gitignore
+Module.php
+autoload_classmap.php
+composer.json

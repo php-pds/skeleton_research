@@ -1,0 +1,13 @@
+Collector/
+DependencyInjection/
+Manager/
+Resources/
+Tests/
+Twig/Extension/
+.gitignore
+.travis.yml
+CONTRIBUTING.md
+LexikDataLayerBundle.php
+README.md
+composer.json
+phpunit.xml.dist

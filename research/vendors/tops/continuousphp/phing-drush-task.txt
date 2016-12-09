@@ -1,0 +1,5 @@
+src/Drush/
+.gitignore
+LICENSE
+README.md
+composer.json

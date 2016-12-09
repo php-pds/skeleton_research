@@ -1,0 +1,4 @@
+Autoloads/
+src/
+README.md
+composer.json

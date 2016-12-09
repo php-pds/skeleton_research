@@ -1,0 +1,6 @@
+plugins/
+static/
+adminer.css
+adminer.php
+composer.json
+index.php

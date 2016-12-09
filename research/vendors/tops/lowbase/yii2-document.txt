@@ -1,0 +1,12 @@
+assets/
+components/
+controllers/
+messages/
+migrations/
+models/
+views/
+DocumentAsset.php
+Module.php
+README.md
+TreeAsset.php
+composer.json

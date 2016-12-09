@@ -1,0 +1,7 @@
+Controller/
+DependencyInjection/
+EventListener/Exception/
+Exception/
+Resources/config/
+VesaxRestThingsBundle.php
+composer.json

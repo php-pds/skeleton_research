@@ -1,0 +1,10 @@
+clients/
+core/
+etc/
+interfaces/
+vendor/
+.gitignore
+LICENSE
+README.md
+autoload.php
+composer.json

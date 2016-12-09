@@ -1,0 +1,11 @@
+actions/
+assets/
+components/
+filters/
+gii/bootstrap/
+helpers/
+userdoc/
+views/
+widgets/
+.gitignore
+composer.json

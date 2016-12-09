@@ -1,0 +1,11 @@
+doc/
+src/
+tests/
+.atoum.php
+.bootstrap.atoum.php
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+composer.json

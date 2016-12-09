@@ -1,0 +1,14 @@
+docs/
+samples/
+src/
+.gitignore
+.travis.yml
+CONTRIBUTING.md
+Chart.js
+Chart.min.js
+LICENSE.md
+README.md
+bower.json
+composer.json
+gulpfile.js
+package.json

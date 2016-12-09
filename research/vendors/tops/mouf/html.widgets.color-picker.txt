@@ -1,0 +1,4 @@
+src/Mouf/Html/Widgets/ColorPicker/
+.gitignore
+composer.json
+package.xml

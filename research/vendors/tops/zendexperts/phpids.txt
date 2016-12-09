@@ -1,0 +1,6 @@
+docs/
+lib/IDS/
+tests/
+LICENSE
+build.xml
+composer.json

@@ -1,0 +1,14 @@
+.github/
+Tests/
+.gitignore
+.travis.yml
+Changelog.md
+LICENSE
+README.md
+TaggableItemInterface.php
+TaggablePSR6ItemAdapter.php
+TaggablePSR6PoolAdapter.php
+TaggablePoolInterface.php
+TaggablePoolTrait.php
+composer.json
+phpunit.xml.dist

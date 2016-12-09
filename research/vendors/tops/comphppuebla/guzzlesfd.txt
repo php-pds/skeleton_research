@@ -1,0 +1,15 @@
+api/
+client/
+config/
+logs/
+views/contacts/
+.gitignore
+.htaccess
+LICENSE
+README.md
+authentication.php
+composer.json
+composer.lock
+first-example.php
+http-verbs.php
+negotiation.php

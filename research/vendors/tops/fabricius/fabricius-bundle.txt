@@ -1,0 +1,12 @@
+DependencyInjection/
+Resources/config/
+spec/Fabricius/Bundle/FabriciusBundle/
+.coveralls.yml
+.gitignore
+.travis.yml
+FabriciusBundle.php
+Library.php
+README.md
+composer.json
+composer.lock
+phpspec.yml.dist

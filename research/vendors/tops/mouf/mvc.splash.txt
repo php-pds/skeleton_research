@@ -1,0 +1,9 @@
+doc/
+icons/
+src/
+.gitignore
+LICENSE.txt
+README.md
+composer.json
+index.md
+logo.png

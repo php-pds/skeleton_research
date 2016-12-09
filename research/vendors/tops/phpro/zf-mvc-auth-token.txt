@@ -1,0 +1,8 @@
+config/
+spec/Phpro/MvcAuthToken/
+src/Phpro/MvcAuthToken/
+.gitignore
+.php_cs
+Module.php
+README.md
+composer.json

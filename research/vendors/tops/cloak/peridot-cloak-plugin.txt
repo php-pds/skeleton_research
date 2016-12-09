@@ -1,0 +1,14 @@
+spec/
+src/
+.cloak.toml
+.coveralls.toml
+.editorconfig
+.gitignore
+.php_cs
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+RoboFile.php
+composer.json
+peridot.php

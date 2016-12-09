@@ -1,0 +1,9 @@
+lang/
+.gitignore
+LICENSE
+boilerplate-plugin.php
+composer.json
+package.json
+readme-sample.md
+readme.md
+readme.txt

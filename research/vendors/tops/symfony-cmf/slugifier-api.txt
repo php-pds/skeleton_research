@@ -1,0 +1,9 @@
+CoreBundle/
+Tests/
+.gitignore
+.travis.yml
+CallbackSlugifier.php
+README.md
+SlugifierInterface.php
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,14 @@
+Controller/
+DependencyInjection/
+Entity/
+EventListener/
+Form/
+Model/
+Repository/
+Resources/
+Utils/
+.gitignore
+BaconMediaLibraryBundle.php
+LICENSE
+README.md
+composer.json

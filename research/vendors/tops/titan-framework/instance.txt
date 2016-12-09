@@ -1,0 +1,15 @@
+box/
+configure/
+db/
+doc/
+section/
+update/
+.gitignore
+.htaccess
+LICENSE
+README.md
+Vagrantfile
+composer.json
+composer.lock
+index.php
+titan.php

@@ -1,0 +1,5 @@
+src/Simplon/Db/
+test/
+.gitignore
+README.md
+composer.json

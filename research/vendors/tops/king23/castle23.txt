@@ -1,0 +1,11 @@
+bin/
+config/
+src/
+.gitignore
+.rmt.yml
+CHANGELOG
+LICENSE.md
+README.md
+composer.json
+composer.lock
+phpunit.xml

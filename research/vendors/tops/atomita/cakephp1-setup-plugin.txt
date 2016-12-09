@@ -1,0 +1,4 @@
+src/Atomita/Composer/Plugin/
+LICENSE
+README.md
+composer.json

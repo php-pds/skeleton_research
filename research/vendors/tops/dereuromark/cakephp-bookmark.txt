@@ -1,0 +1,7 @@
+Test/Case/
+View/Helper/
+webroot/img/
+.travis.yml
+README.md
+TODOS.md
+composer.json

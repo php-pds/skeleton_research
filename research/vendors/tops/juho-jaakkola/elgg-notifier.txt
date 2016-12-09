@@ -1,0 +1,13 @@
+actions/notifier/
+classes/
+languages/
+views/default/
+.gitignore
+.scrutinizer.yml
+CHANGES.txt
+README.md
+activate.php
+composer.json
+deactivate.php
+manifest.xml
+start.php

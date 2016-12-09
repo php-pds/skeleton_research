@@ -1,0 +1,14 @@
+Configuration/
+Console/Command/
+Exception/
+Migration/
+Provider/
+Resources/
+.gitignore
+AbstractMigration.php
+Migration.php
+MigrationInterface.php
+README.md
+Response.php
+Version.php
+composer.json

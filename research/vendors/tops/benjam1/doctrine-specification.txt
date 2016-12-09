@@ -1,0 +1,7 @@
+spec/Specification/
+src/Specification/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock

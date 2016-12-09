@@ -1,0 +1,13 @@
+Controller/
+DependencyInjection/
+Exception/
+Form/
+Media/
+Resources/
+Tests/
+.gitignore
+.travis.yml
+README.md
+ZenstruckMediaBundle.php
+composer.json
+phpunit.xml.dist

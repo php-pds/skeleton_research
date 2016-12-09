@@ -1,0 +1,5 @@
+src/Addvilz/Pharaoh/
+.gitignore
+LICENSE.txt
+README.md
+composer.json

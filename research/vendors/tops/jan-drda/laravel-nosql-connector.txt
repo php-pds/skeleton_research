@@ -1,0 +1,5 @@
+src/JanDrda/LaravelNosqlConnector/
+.gitgnore
+composer.json
+license.txt
+readme.md

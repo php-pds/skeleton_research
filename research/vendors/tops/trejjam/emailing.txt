@@ -1,0 +1,6 @@
+sql/
+src/Emailing/
+tests/
+LICENSE
+README.md
+composer.json

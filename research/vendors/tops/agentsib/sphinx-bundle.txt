@@ -1,0 +1,8 @@
+DataCollector/
+DependencyInjection/
+Model/
+Resources/
+.gitignore
+AgentSIBSphinxBundle.php
+README.md
+composer.json

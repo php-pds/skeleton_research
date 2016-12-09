@@ -1,0 +1,14 @@
+Admin/
+Block/
+Controller/
+DependencyInjection/
+Entity/
+Exception/
+Repository/
+Resources/
+Service/
+Test/
+Twig/
+.gitignore
+LpiKernelBundle.php
+composer.json

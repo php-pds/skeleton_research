@@ -1,0 +1,6 @@
+src/
+tests/NewRelic/Status/
+.gitignore
+README.md
+composer.json
+phpunit.xml

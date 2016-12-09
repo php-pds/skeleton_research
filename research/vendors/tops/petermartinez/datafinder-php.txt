@@ -1,0 +1,6 @@
+src/Datafinder/
+.gitignore
+composer.json
+composer.lock
+example.php
+readme.md

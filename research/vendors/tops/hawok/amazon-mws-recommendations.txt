@@ -1,0 +1,6 @@
+src/MWSRecommendationsSectionService/
+.gitignore
+LICENSE
+NOTICE.txt
+README.md
+composer.json

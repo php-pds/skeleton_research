@@ -1,0 +1,13 @@
+.phalcon/
+apps/frontend/
+common/
+docs/
+public/
+schemas/
+var/
+.gitignore
+.htaccess
+.htrouter.php
+README.md
+composer.json
+index.html

@@ -1,0 +1,14 @@
+library/
+tests/
+CONTRIBUTORS
+LICENCE
+MILESTONES
+README.md
+TODO
+VERSION
+composer.json
+index.php
+msn.php
+send-message-example.php
+send-xmpp-message-example.php
+xmpp.php

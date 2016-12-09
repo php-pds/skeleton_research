@@ -1,0 +1,7 @@
+i18n/
+.gitignore
+Highcharts.php
+HighchartsAsset.php
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,13 @@
+Controller/
+DependencyInjection/
+Doctrine/EntityManager/
+Form/
+Message/
+Model/
+ModelManager/
+Provider/
+Resources/
+README.md
+TadckaTextBundle.php
+TextInformation.php
+composer.json

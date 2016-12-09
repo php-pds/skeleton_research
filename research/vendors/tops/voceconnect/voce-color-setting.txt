@@ -1,0 +1,6 @@
+js/
+README.md
+bootstrap.php
+composer.json
+functions.php
+voce-color-setting.php

@@ -1,0 +1,6 @@
+DependencyInjection/
+Resources/config/
+EmarrefPubnubBundle.php
+LICENSE
+README.md
+composer.json

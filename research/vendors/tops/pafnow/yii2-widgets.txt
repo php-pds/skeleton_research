@@ -1,0 +1,3 @@
+GpGallery.php
+GpGalleryAsset.php
+composer.json

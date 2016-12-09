@@ -1,0 +1,11 @@
+Block/Adminhtml/System/Config/
+Helper/
+Model/
+etc/
+view/adminhtml/
+.gitignore
+CONTRIBUTING.md
+README.md
+composer.json
+phpunit_config.xml
+registration.php

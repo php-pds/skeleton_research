@@ -1,0 +1,11 @@
+DependencyInjection/
+Resources/
+spec/CoopTilleuls/OvhBundle/
+.coveralls.yml
+.editorconfig
+.gitignore
+.travis.yml
+CoopTilleulsOvhBundle.php
+README.md
+composer.json
+phpspec.yml

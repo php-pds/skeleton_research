@@ -1,0 +1,11 @@
+Ec2/
+S3/
+enums/
+objects/
+requests/
+tests/
+.gitignore
+AwsWrapper.php
+LICENSE
+README.md
+composer.json

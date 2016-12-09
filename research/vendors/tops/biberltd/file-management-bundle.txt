@@ -1,0 +1,13 @@
+.idea/
+DependencyInjection/
+Entity/
+Exception/
+ORM/
+Resources/config/
+SQL/MySQL/
+Services/
+.gitignore
+BiberLtdFileManagementBundle.php
+LICENSE
+README.md
+composer.json

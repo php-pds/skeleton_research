@@ -1,0 +1,8 @@
+app/
+shell/
+.travis.yml
+LICENSE.txt
+README.md
+aoe-logo.png
+composer.json
+modman

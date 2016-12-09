@@ -1,0 +1,4 @@
+src/Pipa/Console/
+.gitattributes
+.gitignore
+composer.json

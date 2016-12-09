@@ -1,0 +1,14 @@
+classes/
+config/
+guide/
+media/guide/
+messages/
+tests/
+vendor/markdown/
+views/userguide/
+.gitignore
+.travis.yml
+README.md
+composer.json
+init.php
+koharness.php

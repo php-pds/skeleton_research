@@ -1,0 +1,5 @@
+Chencha/Processes/
+examples/
+.gitignore
+composer.json
+readme.md

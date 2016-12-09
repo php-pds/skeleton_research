@@ -1,0 +1,13 @@
+data/
+src/Ionut/Frod/
+tests/
+.gitignore
+.travis.yml
+LICENSE.txt
+changes.json
+cli
+composer.json
+phpunit.xml
+readme.md
+testing-prepare.sh
+travis-composer.json

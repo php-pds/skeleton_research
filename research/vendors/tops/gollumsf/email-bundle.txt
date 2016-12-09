@@ -1,0 +1,13 @@
+Builder/
+DependencyInjection/
+Exception/
+Model/
+Resources/config/
+Sender/
+.gitignore
+.travis.yml
+GollumSFEmailBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml

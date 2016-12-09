@@ -1,0 +1,10 @@
+src/
+tests/
+.floo
+.gitignore
+.travis.yml
+_.TODO
+composer.json
+phpunit.xml
+provides.json
+readme.md

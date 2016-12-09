@@ -1,0 +1,8 @@
+Block/Service/
+DependencyInjection/
+Form/Type/
+Resources/
+Templating/Helper/
+README.md
+RzBlockBundle.php
+composer.json

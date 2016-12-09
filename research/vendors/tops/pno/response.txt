@@ -1,0 +1,10 @@
+.gitignore
+BinaryFileResponse.php
+Cookie.php
+JsonResponse.php
+README.md
+RedirectResponse.php
+Response.php
+ResponseHeaderBag.php
+StreamedResponse.php
+composer.json

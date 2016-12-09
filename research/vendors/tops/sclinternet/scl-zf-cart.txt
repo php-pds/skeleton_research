@@ -1,0 +1,14 @@
+config/
+data/
+public/less/
+src/SclZfCart/
+tests/
+view/scl-zf-cart/
+.gitignore
+.php_cs
+.travis.yml
+LICENSE.txt
+Module.php
+README.md
+composer.json
+phpunit.xml.dist

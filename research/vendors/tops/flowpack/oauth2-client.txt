@@ -1,0 +1,6 @@
+Classes/Flowpack/OAuth2/Client/
+Configuration/
+Documentation/
+Resources/Private/
+README.rst
+composer.json

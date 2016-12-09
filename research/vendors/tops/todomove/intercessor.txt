@@ -1,0 +1,9 @@
+spec/
+src/TodoMove/Intercessor/
+.editorconfig
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock
+phpspec.yml

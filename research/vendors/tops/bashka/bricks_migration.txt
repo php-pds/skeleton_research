@@ -1,0 +1,6 @@
+docs/
+LICENSE
+Manager.php
+Migration.php
+README.md
+composer.json

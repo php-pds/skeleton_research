@@ -1,0 +1,11 @@
+.github/
+src/
+.editorconfig
+.gitignore
+.travis.yml
+PluginSetup.php
+README.md
+codesniffer.ruleset.xml
+composer.json
+composer.lock
+leeanp.php

@@ -1,0 +1,6 @@
+config/
+src/ride/web/rest/
+CHANGELOG.md
+README.md
+composer.json
+ride.json

@@ -1,0 +1,11 @@
+lib/
+resources/
+tests/
+view/
+.gitignore
+Makefile
+composer.json
+composer.lock
+ini.php
+mail-input.sh
+setup.php

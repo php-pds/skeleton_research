@@ -1,0 +1,13 @@
+crowdin-sync/
+tests/
+textpacks/
+.editorconfig
+.gitattributes
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+crowdin.yaml
+phpunit.xml
+textpack

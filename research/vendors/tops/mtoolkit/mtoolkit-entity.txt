@@ -1,0 +1,8 @@
+resources/
+src/model/
+test/model/
+.gitattributes
+.gitignore
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,17 @@
+assets/
+controllers/
+interfaces/
+messages/ru-RU/
+migrations/
+models/
+views/
+web/
+widgets/
+.gitignore
+.htaccess
+Bootstrap.php
+Cashbox.php
+LICENSE.md
+Module.php
+README.md
+composer.json

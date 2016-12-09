@@ -1,0 +1,9 @@
+assets/
+.gitignore
+LICENSE
+README.md
+TinyMceAsset.php
+TinyMcePluginAsset.php
+Widget.php
+composer.json
+screenshot.jpg

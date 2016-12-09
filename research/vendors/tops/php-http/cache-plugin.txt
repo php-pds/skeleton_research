@@ -1,0 +1,16 @@
+.github/
+spec/
+src/
+.editorconfig
+.gitattributes
+.gitignore
+.php_cs
+.scrutinizer.yml
+.styleci.yml
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+composer.json
+phpspec.ci.yml
+phpspec.yml.dist

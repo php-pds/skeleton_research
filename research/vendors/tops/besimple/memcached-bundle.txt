@@ -1,0 +1,5 @@
+DataCollector/
+DependencyInjection/
+Resources/
+BeSimpleMemcachedBundle.php
+composer.json

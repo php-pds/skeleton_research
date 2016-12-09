@@ -1,0 +1,10 @@
+app/
+web/
+.gitignore
+.gitmodules
+CONTRIBUTING.md
+INSTALL_ARCHIVE.md
+LICENSE
+README.md
+UPGRADE.md
+composer.json

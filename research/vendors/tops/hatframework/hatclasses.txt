@@ -1,0 +1,9 @@
+src/
+tests/src/
+.gitattributes
+.gitignore
+README.md
+autoload.php
+composer.json
+composer.phar
+tags.sh

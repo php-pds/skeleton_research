@@ -1,0 +1,10 @@
+Annotation/
+Command/
+Resources/config/
+Service/
+Tests/Kix/SearchBundle/Service/
+.gitignore
+COPYING
+README.md
+atlassian-ide-plugin.xml
+composer.json

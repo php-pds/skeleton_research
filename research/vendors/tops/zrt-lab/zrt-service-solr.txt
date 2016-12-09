@@ -1,0 +1,6 @@
+library/
+provision/puppet/
+.gitignore
+README.md
+Vagrantfile
+composer.json

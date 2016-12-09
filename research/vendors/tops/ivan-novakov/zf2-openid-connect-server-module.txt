@@ -1,0 +1,12 @@
+config/
+data/
+doc/
+src/InoOicServer/
+tests/
+tmp/
+view/
+.gitignore
+Module.php
+README.md
+TODO
+composer.json

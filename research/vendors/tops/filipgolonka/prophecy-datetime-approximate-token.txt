@@ -1,0 +1,6 @@
+spec/FilipGolonka/Argument/Token/
+src/FilipGolonka/Argument/Token/
+.gitignore
+README.md
+composer.json
+composer.lock

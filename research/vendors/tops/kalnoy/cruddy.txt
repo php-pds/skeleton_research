@@ -1,0 +1,16 @@
+config/
+public/
+resources/
+src/
+tests/
+.bowerrc
+.gitignore
+.travis.yml
+CHANGELOG.md
+Gruntfile.js
+README.md
+UPGRADE.md
+bower.json
+composer.json
+package.json
+phpunit.xml

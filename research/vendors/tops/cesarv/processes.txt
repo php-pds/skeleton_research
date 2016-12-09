@@ -1,0 +1,7 @@
+pkg/
+spec/
+.gitignore
+README.md
+composer.json
+composer.lock
+phpspec.yml

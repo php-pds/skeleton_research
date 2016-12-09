@@ -1,0 +1,16 @@
+.tx/
+assets/
+config/
+dca/
+docs/
+languages/
+library/Terminal42/ChangeLanguage/
+templates/
+.editorconfig
+.gitignore
+.scrutinizer.yml
+.travis.yml
+README.md
+composer.json
+phpunit.travis.xml
+phpunit.xml.dist

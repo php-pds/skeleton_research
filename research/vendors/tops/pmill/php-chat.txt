@@ -1,0 +1,11 @@
+example/
+src/pmill/Chat/
+tests/
+.codeclimate.yml
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

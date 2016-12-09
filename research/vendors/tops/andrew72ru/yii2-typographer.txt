@@ -1,0 +1,3 @@
+README.md
+Typographer.php
+composer.json

@@ -1,0 +1,13 @@
+class/
+doc/
+test/
+.gitignore
+.gitlab-ci.yml
+LICENSE
+Makefile
+README.md
+api-v1-diagram.php.example
+api-v1-selfcheck.php.example
+api-v1.php.example
+composer.json
+config.json.php

@@ -1,0 +1,14 @@
+Client/
+DependencyInjection/
+Loader/
+Mailer/
+Message/
+Model/
+Resources/
+TemplateProcessor/
+TemplateStorage/
+Tests/
+.gitignore
+PubleroTemplateMailerBundle.php
+composer.json
+phpunit.xml.dist

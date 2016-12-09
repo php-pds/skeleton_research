@@ -1,0 +1,10 @@
+src/Cart/
+tests/Cart/
+.gitignore
+.travis.yml
+README.md
+bootstrap.php
+composer.json
+composer.lock
+phpunit.xml
+to_php_54.php

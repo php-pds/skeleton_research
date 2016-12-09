@@ -1,0 +1,16 @@
+classes/
+cronjobs/
+datatypes/ezcomcomments/
+design/
+doc/
+modules/comment/
+settings/
+share/
+sql/
+tests/
+translations/
+update/database/
+LICENSE
+README
+composer.json
+extension.xml

@@ -1,0 +1,8 @@
+.gitignore
+Employee.php
+EmployeeGroup.php
+LICENSE.md
+README.md
+RGObjectTrait.php
+Skud.php
+composer.json

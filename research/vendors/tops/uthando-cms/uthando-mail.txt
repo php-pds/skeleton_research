@@ -1,0 +1,14 @@
+config/
+data/
+src/UthandoMail/
+test/
+view/uthando-mail/mail-queue/
+.codeclimate.yml
+.gitignore
+.travis.yml
+LICENSE
+Module.php
+README.md
+autoload_classmap.php
+composer.json
+template_map.php

@@ -1,0 +1,7 @@
+DependencyInjection/
+Resources/
+.gitignore
+README.md
+XideaJqueryBundle.php
+composer.json
+phpunit.xml.dist

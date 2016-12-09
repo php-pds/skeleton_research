@@ -1,0 +1,11 @@
+config/
+public/
+resources/
+src/
+.bowerrc
+.gitignore
+README.md
+bower.json
+composer.json
+gulpfile.js
+pace.css

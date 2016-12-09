@@ -1,0 +1,15 @@
+build/
+docs/
+platform/
+resources/
+src/
+tests/
+.gitignore
+CHANGELOG.md
+LICENSE
+README.md
+build.xml
+codeception.yml
+composer.json
+composer.lock
+phpunit.xml

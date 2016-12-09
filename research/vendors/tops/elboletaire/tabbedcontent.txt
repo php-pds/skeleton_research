@@ -1,0 +1,12 @@
+demos/
+.codeclimate.yml
+.editorconfig
+.gitignore
+LICENSE
+bower.json
+composer.json
+gulpfile.js
+package.json
+readme.md
+tabbedcontent.js
+tabbedcontent.min.js

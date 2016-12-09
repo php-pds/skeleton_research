@@ -1,0 +1,8 @@
+spec/
+.gitignore
+.travis.yml
+FakeProcess.php
+FakeProcessBuilder.php
+LICENSE
+composer.json
+phpspec.yml

@@ -1,0 +1,10 @@
+classes/
+design/ezdemo/
+doc/
+settings/
+translations/
+LICENSE
+README.md
+composer.json
+extension.xml
+ezinfo.php

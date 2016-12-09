@@ -1,0 +1,10 @@
+HTML/
+data/
+docs/examples/
+js/
+tests/
+.gitignore
+.travis.yml
+README.md
+composer.json
+package.xml

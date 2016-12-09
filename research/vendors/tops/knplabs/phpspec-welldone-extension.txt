@@ -1,0 +1,8 @@
+spec/Knp/PhpSpec/WellDone/
+src/Knp/PhpSpec/WellDone/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpspec.yml

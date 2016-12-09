@@ -1,0 +1,14 @@
+Config/
+Console/Command/
+Controller/
+Event/
+Lib/
+Locale/
+Model/
+Vendor/
+View/
+webroot/
+.gitignore
+LICENSE.txt
+composer.json
+readme.md

@@ -1,0 +1,17 @@
+errors/
+helpers/
+tests/
+.gitattributes
+.gitignore
+.travis.yml
+CHANGELOG.md
+FS.php
+LICENSE
+README.md
+RealFile.php
+composer.json
+cs.sh
+index.php
+phpmd.sh
+phpmd.xml.dist
+phpunit.xml.dist

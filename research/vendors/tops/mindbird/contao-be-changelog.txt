@@ -1,0 +1,5 @@
+.idea/
+contao/
+src/
+README.md
+composer.json

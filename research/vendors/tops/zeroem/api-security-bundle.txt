@@ -1,0 +1,9 @@
+DependencyInjection/Security/Factory/
+Notary/
+Resources/config/
+Security/
+Tests/
+.gitignore
+ZeroemApiSecurityBundle.php
+composer.json
+phpunit.xml.dist

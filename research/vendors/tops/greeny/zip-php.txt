@@ -1,0 +1,5 @@
+Zip-PHP/
+.gitignore
+LICENSE
+README.md
+composer.json

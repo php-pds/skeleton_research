@@ -1,0 +1,5 @@
+views/
+.gitignore
+README.md
+RssReader.php
+composer.json

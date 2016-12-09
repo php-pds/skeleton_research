@@ -1,0 +1,8 @@
+admin/
+common/
+frontend/
+migrations/
+widgets/
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,7 @@
+resources/
+scripts/
+.gitignore
+D3-20140531_Final.pdf
+LICENSE
+README.md
+mb-secure-config.inc.example

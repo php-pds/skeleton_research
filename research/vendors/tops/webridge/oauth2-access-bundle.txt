@@ -1,0 +1,11 @@
+DependencyInjection/
+Resources/config/
+Services/
+Tests/
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+WebridgeOauth2AccessBundle.php
+composer.json
+phpunit.xml.dist

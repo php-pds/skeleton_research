@@ -1,0 +1,8 @@
+assets/
+lib/
+resources/app/controller/
+view/shared/
+README
+composer.json
+ini.php
+setup.php

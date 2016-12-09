@@ -1,0 +1,10 @@
+src/
+tests/PHPUnit/
+.gitignore
+CHANGELOG.md
+LICENSE
+README.md
+composer.json
+phive.xml
+phpunit.xml.dist
+woocommerce-multisite-persistent-cart.php

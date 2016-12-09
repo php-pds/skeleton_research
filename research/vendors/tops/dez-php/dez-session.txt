@@ -1,0 +1,6 @@
+sandbox/
+src/Session/
+.gitignore
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,16 @@
+BuildingBlock/
+Command/
+DependencyInjection/
+Exception/
+Manipulator/
+Resources/config/
+Tests/
+.gitignore
+.php_cs
+.travis.yml
+C33sSymfonyConfigManipulatorBundle.php
+LICENSE
+README.md
+composer.json
+composer.yml
+phpunit.xml.dist

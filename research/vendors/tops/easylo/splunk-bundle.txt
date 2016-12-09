@@ -1,0 +1,8 @@
+DependencyInjection/
+Monolog/Handler/
+Resources/config/
+.gitignore
+EasyloSplunkBundle.php
+README.md
+composer.json
+composer.lock

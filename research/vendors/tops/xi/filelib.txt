@@ -1,0 +1,11 @@
+docs/
+library/Xi/Filelib/
+tests/
+tools/
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+composer.json
+travis.php.ini

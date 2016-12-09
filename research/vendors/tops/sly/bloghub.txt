@@ -1,0 +1,5 @@
+example/
+src/Sly/BlogHub/
+.gitignore
+README.md
+composer.json

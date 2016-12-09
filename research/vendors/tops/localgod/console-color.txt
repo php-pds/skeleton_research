@@ -1,0 +1,14 @@
+features/
+src/Console/
+tests/
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENSE.md
+README.md
+composer.json
+demo.php
+phpcs.xml
+phpdoc.dist.xml
+phpunit.xml.dist
+pmd.xml

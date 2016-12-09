@@ -1,0 +1,8 @@
+docs/
+src/Rede/Gateway/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json

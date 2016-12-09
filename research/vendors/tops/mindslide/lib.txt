@@ -1,0 +1,9 @@
+lib.esproj/
+Auth.php
+BlogWidget.php
+Paginator.php
+Widget.php
+WidgetManager.php
+composer.json
+firephp.php
+image.php

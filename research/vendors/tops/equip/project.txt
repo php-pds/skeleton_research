@@ -1,0 +1,10 @@
+bin/
+public/
+src/Domain/
+.env
+.gitattributes
+.gitignore
+.pullapprove.yml
+README.md
+composer.json
+docker-compose.yml

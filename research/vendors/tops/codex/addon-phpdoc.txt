@@ -1,0 +1,12 @@
+config/
+docs/
+resources/
+src/
+.editorconfig
+.scrutinizer.yml
+.travis.yml
+LICENSE.md
+PhpdocProcesssor.php
+README.md
+composer.json
+phpunit.xml

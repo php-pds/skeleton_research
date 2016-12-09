@@ -1,0 +1,7 @@
+Classes/
+Configuration/TCA/Overrides/
+Resources/Private/
+composer.json
+ext_emconf.php
+ext_localconf.php
+ext_tables.sql

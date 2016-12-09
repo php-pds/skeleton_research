@@ -1,0 +1,13 @@
+docs/
+src/Vectorface/SnappyRouter/
+tests/
+.dunitconfig
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+composer.json
+doxygen.conf
+mkdocs.yml
+phpunit.xml

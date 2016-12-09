@@ -1,0 +1,8 @@
+Http/
+Models/
+Policies/
+database/migrations/
+resources/views/qna/
+.gitignore
+QnaServiceProvider.php
+composer.json

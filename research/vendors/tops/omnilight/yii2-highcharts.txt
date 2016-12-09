@@ -1,0 +1,3 @@
+Highcharts.php
+HighchartsAsset.php
+composer.json

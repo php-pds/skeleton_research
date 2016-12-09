@@ -1,0 +1,7 @@
+Command/
+Generator/
+Tests/Controller/
+.gitignore
+EdlcdmcGeneratorBundle.php
+README.md
+composer.json

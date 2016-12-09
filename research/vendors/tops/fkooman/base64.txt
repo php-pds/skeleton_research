@@ -1,0 +1,9 @@
+src/fkooman/Base64/
+tests/fkooman/Base64/
+.gitignore
+.travis.yml
+CHANGES.md
+COPYING
+README.md
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,12 @@
+assets/
+404.html
+README.md
+UNLICENSE
+base.html
+composer.json
+footer.html
+head.html
+header.html
+layout.html
+single_post_header.html
+single_post_layout.html

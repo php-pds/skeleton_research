@@ -1,0 +1,5 @@
+migrations/
+src/
+composer.json
+migrate.sh
+phinx.php

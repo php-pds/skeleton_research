@@ -1,0 +1,6 @@
+src/Appcia/Bind/
+tests/
+LICENSE
+README.md
+composer.json
+phpunit.xml

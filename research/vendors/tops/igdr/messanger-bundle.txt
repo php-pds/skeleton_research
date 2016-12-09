@@ -1,0 +1,9 @@
+DependencyInjection/
+Model/
+Resources/config/
+Service/
+Tests/
+.gitignore
+IgdrMessangerBundle.php
+README.md
+composer.json

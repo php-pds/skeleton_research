@@ -1,0 +1,9 @@
+components/
+controllers/
+migrations/
+views/
+Bootstrap.php
+Module.php
+README.md
+Theme.php
+composer.json

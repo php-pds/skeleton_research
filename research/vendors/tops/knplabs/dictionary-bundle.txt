@@ -1,0 +1,6 @@
+spec/Knp/DictionaryBundle/
+src/Knp/DictionaryBundle/
+.gitignore
+.travis.yml
+README.md
+composer.json

@@ -1,0 +1,17 @@
+Annotation/
+DependencyInjection/
+Exception/
+Metadata/
+Resources/
+Serializer/
+Tests/
+Twig/
+Util/
+.gitignore
+.jms.yml
+.travis.yml
+JMSSerializerBundle.php
+README.md
+UPGRADING.md
+composer.json
+phpunit.xml.dist

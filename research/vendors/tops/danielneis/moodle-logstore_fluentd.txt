@@ -1,0 +1,11 @@
+classes/
+db/
+lang/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+settings.php
+version.php

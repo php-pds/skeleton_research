@@ -1,0 +1,11 @@
+DependencyInjection/
+Tests/Validator/Constraints/
+Validator/Constraints/
+.gitignore
+.php_cs
+.travis.yml
+LICENSE
+MeroBrValidatorBundle.php
+README.md
+composer.json
+phpunit.xml.dist

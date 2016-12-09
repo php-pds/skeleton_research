@@ -1,0 +1,8 @@
+bin/
+config/
+lib/sly/Console/
+.htaccess
+LICENSE
+README.md
+boot.php
+composer.json

@@ -1,0 +1,8 @@
+config/
+src/yimaAdminor/
+themes/adminstrap/
+view/
+LICENSE
+Module.php
+README.md
+composer.json

@@ -1,0 +1,7 @@
+Classes/Controller/Module/Administration/
+Configuration/
+Documentation/
+Resources/Private/
+LICENSE
+README.md
+composer.json

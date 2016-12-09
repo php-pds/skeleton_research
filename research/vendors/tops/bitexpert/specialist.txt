@@ -1,0 +1,10 @@
+src/bitExpert/Specialist/Container/
+tests/bitExpert/Specialist/Container/
+.travis.yml
+LICENSE
+README.md
+build.xml
+composer.json
+composer.lock
+phpdoc.dist.xml
+phpunit.xml.dist

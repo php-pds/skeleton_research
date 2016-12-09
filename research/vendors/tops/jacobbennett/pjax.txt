@@ -1,0 +1,5 @@
+src/JacobBennett/Pjax/
+.gitignore
+composer.json
+licence
+readme.md

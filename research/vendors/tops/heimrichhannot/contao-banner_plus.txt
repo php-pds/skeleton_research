@@ -1,0 +1,7 @@
+classes/
+config/
+dca/
+languages/
+templates/banner/
+README.md
+composer.json

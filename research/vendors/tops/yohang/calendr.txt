@@ -1,0 +1,11 @@
+docs @ 177ecbf
+src/CalendR/
+tests/
+.gitignore
+.gitmodules
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

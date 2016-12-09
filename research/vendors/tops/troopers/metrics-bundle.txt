@@ -1,0 +1,15 @@
+Controller/
+DataTransformer/
+DependencyInjection/
+Entity/
+Form/Type/
+Model/
+Monolog/
+Resources/
+Tests/
+.gitignore
+.travis.yml
+MetricsBundle.php
+README.md
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,7 @@
+Controller/
+Core/
+DependencyInjection/
+Resources/
+MarkdownGeshiBundle.php
+autoload.json
+composer.json

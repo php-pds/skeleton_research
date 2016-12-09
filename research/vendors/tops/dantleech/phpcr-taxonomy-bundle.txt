@@ -1,0 +1,14 @@
+Command/
+DependencyInjection/
+Document/
+Manager/
+Metadata/
+Resources/config/
+Subscriber/
+Tests/
+.gitignore
+.travis.yml
+DTLPhpcrTaxonomyBundle.php
+README.md
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,5 @@
+src/OutlineLaravel/
+.gitignore
+LICENCE.txt
+README.md
+composer.json

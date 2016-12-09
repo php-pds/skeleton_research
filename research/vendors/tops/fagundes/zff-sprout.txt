@@ -1,0 +1,12 @@
+config/
+data/cache/
+module/Application/
+public/
+.gitignore
+LICENSE.txt
+README.md
+RoboFile.php
+Vagrantfile
+composer.json
+composer.lock
+init_autoloader.php

@@ -1,0 +1,13 @@
+assets/
+data/
+demo/
+example-views/
+images/
+modules/site/views/default/
+views/
+widgets/
+PreviewTheme.php
+README.md
+Theme.php
+ThemeAsset.php
+composer.json

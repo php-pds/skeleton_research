@@ -1,0 +1,10 @@
+app/
+resources/views/
+temp/
+web/
+.gitignore
+LICENSE
+boot.php
+composer.json
+config.php
+readme.md

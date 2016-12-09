@@ -1,0 +1,10 @@
+controllers/
+migrations/
+models/
+views/config/
+.gitignore
+LICENSE
+README
+TemplateBootstrap.php
+TemplateModule.php
+composer.json

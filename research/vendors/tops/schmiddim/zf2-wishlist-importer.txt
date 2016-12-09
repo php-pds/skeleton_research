@@ -1,0 +1,5 @@
+config/
+src/Schmiddim/Amazon/
+.gitignore
+Module.php
+composer.json

@@ -1,0 +1,5 @@
+migrations/
+Bootstrap.php
+File.php
+FileTrait.php
+composer.json

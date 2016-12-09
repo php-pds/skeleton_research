@@ -1,0 +1,5 @@
+src/deit/event/
+tests/
+.gitignore
+composer.json
+phpunit.xml

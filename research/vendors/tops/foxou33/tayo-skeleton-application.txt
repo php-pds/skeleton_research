@@ -1,0 +1,13 @@
+config/
+data/cache/
+module/TayoApplication/
+public/
+.gitignore
+CONDUCT.md
+Dockerfile
+LICENSE.md
+README.md
+Vagrantfile
+composer.json
+composer.lock
+docker-compose.yml

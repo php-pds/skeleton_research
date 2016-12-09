@@ -1,0 +1,9 @@
+bootstrap/
+src/Database/
+tests/
+vendor/
+.gitignore
+README.md
+composer.json
+composer.lock
+nohup.out

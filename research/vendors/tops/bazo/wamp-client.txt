@@ -1,0 +1,5 @@
+src/WAMP/
+.gitignore
+LICENSE
+README.md
+composer.json

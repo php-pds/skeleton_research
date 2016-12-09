@@ -1,0 +1,7 @@
+assets/js/
+CHANGE.md
+LICENSE.md
+MaskMoney.php
+MaskMoneyAsset.php
+README.md
+composer.json

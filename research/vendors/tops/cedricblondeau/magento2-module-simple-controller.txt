@@ -1,0 +1,7 @@
+Controller/Index/
+etc/
+view/frontend/
+.gitignore
+README.md
+composer.json
+registration.php

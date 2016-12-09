@@ -1,0 +1,8 @@
+Cache/
+DependencyInjection/
+Resources/config/
+.gitignore
+LICENSE
+RodchynElephantBundle.php
+composer.json
+phpunit.xml.dist

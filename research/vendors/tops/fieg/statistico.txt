@@ -1,0 +1,9 @@
+src/Fieg/Statistico/
+tests/Fieg/Statistico/Driver/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CHANGELOG.md
+README.md
+composer.json
+phpunit.xml.dist

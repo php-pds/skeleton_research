@@ -1,0 +1,7 @@
+demo/
+src/
+.gitignore
+README-zh_cn.md
+README.md
+composer.json
+composer.lock

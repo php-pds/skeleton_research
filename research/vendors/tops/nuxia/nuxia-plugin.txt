@@ -1,0 +1,9 @@
+doc/
+draft/
+src/Nuxia/
+.gitignore
+.php_cs
+CHANGELOG.md
+README.md
+UPGRADE.md
+composer.json

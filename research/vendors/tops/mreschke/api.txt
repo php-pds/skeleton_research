@@ -1,0 +1,12 @@
+Config/
+Http/
+Providers/
+Views/
+.editorconfig
+.gitignore
+Api.php
+ApiInterface.php
+Client.php
+README.md
+Server.php
+composer.json

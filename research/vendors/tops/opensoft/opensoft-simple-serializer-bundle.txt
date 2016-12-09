@@ -1,0 +1,10 @@
+DependencyInjection/
+Exception/
+Resources/
+Tests/
+.gitignore
+.travis.yml
+OpensoftSimpleSerializerBundle.php
+README.md
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,5 @@
+src/
+COPYING-GPL.txt
+COPYING-MIT.txt
+README.md
+composer.json

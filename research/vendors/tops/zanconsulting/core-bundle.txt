@@ -1,0 +1,7 @@
+DependencyInjection/
+Listener/
+Logging/
+Resources/
+Util/
+ZanCoreBundle.php
+composer.json

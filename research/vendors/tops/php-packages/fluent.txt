@@ -1,0 +1,12 @@
+specs/PhpPackages/Fluent/
+src/PhpPackages/Fluent/
+stubs/PhpPackages/Fluent/
+.gitignore
+.travis.yml
+LICENSE
+Makefile
+README.md
+composer.json
+composer.lock
+phpspec.yml.ci
+phpspec.yml.dist

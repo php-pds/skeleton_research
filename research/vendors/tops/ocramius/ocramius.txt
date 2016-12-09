@@ -1,0 +1,13 @@
+bin/
+build/
+src/Ocramius/
+test/OcramiusTest/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CONTRIBUTING.md
+LICENSE
+README.md
+composer.json
+phpmd.xml.dist
+phpunit.xml.dist

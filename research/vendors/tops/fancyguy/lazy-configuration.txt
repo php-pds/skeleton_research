@@ -1,0 +1,3 @@
+src/FancyGuy/Component/LazyConfiguration/
+.gitignore
+composer.json

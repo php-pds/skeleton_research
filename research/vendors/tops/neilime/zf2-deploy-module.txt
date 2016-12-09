@@ -1,0 +1,10 @@
+bin/
+tests/
+.gitattributes
+.gitignore
+.travis.composer.json
+.travis.yml
+CONTRIBUTING.md
+LICENSE
+README.md
+composer.json

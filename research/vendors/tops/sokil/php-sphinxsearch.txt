@@ -1,0 +1,8 @@
+index/
+src/Sokil/SphinxSearch/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock

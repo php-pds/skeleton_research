@@ -1,0 +1,10 @@
+.vagrant_bootstrap/
+config/
+doc/
+src/EloGank/
+.gitignore
+LICENSE
+README.md
+Vagrantfile
+composer.json
+console

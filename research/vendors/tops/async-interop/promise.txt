@@ -1,0 +1,5 @@
+src/
+LICENSE
+META.md
+README.md
+composer.json

@@ -1,0 +1,12 @@
+src/Beacon/
+tests/
+.coveralls.yml
+.editorconfig
+.gitignore
+.htaccess
+.travis.yml
+LICENSE
+README.md
+beacon.xml
+composer.json
+phpunit.xml.dist

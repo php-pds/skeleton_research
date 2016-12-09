@@ -1,0 +1,15 @@
+samples/
+src/
+tests/units/Progi1984/
+.atoum.php
+.gitattributes
+.gitignore
+.scrutinizer.yml
+.travis.yml
+.travis_shell_after_success.sh
+LICENSE
+README.md
+build.xml
+composer.json
+composer.lock
+phar_stub.php

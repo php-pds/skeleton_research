@@ -1,0 +1,15 @@
+Client/Image/
+Controller/
+DependencyInjection/
+Form/Type/
+Helper/
+Resources/
+Tests/
+Twig/
+.gitignore
+.php_cs
+.travis.yml
+DevmachineOntheioBundle.php
+README.md
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,6 @@
+assets/
+public/js/
+LICENSE
+README.md
+ShareLinks.php
+composer.json

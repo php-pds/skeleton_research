@@ -1,0 +1,7 @@
+lib/SimpleView/
+tests/
+Makefile
+README.md
+cli.php
+composer.json
+service.php

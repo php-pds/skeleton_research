@@ -1,0 +1,7 @@
+src/Intahwebz/MBExtra/
+.gitignore
+.travis.yml
+bootstrap.php
+composer.json
+phpunit.xml
+readme.md

@@ -1,0 +1,7 @@
+examples/
+src/Switchman/
+.gitignore
+COPYING
+README.md
+composer.json
+phpunit.xml

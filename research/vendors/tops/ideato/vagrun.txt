@@ -1,0 +1,12 @@
+bin/
+src/Ideato/Vagrun/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+box.json
+composer.json
+composer.lock
+phpunit.xml.dist
+vagrun

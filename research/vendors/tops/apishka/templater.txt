@@ -1,0 +1,11 @@
+source/Apishka/Templater/
+tests/Apishka/Tests/Templater/
+.apishka.php
+.editorconfig
+.gitignore
+.php_cs
+.travis.yml
+LICENSE
+composer.json
+composer.lock
+phpunit.sample.xml

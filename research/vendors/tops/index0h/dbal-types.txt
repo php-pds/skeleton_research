@@ -1,0 +1,9 @@
+ansible/
+src/Doctrine/
+tests/Doctrine/
+.gitattributes
+.gitignore
+Vagrantfile
+composer.json
+composer.lock
+phpunit.xml.dist

@@ -1,0 +1,6 @@
+Classes/Famelo/Demo/Admin/
+Configuration/
+Migrations/Mysql/
+Resources/
+.gitignore
+composer.json

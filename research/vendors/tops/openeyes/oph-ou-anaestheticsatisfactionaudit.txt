@@ -1,0 +1,14 @@
+assets/
+controllers/
+grunt/
+migrations/
+models/
+tests/js/
+views/default/
+.gitignore
+Gruntfile.js
+OphOuAnaestheticsatisfactionauditModule.php
+README.md
+RELEASE
+composer.json
+package.json

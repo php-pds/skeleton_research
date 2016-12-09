@@ -1,0 +1,7 @@
+lib/
+.gitignore
+LICENSE
+README.md
+composer.json
+index.html
+lang.md

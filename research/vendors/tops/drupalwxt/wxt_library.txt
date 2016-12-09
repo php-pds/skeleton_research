@@ -1,0 +1,15 @@
+config/
+css/plugins/wxtlibraries/
+js/plugins/wxtlibraries/
+src/
+tests/src/Kernel/
+README.md
+composer.json
+wxt_library.info.yml
+wxt_library.install
+wxt_library.libraries.yml
+wxt_library.links.menu.yml
+wxt_library.make
+wxt_library.module
+wxt_library.routing.yml
+wxt_library.services.yml

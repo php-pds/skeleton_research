@@ -1,0 +1,5 @@
+wp-content/languages/themes/
+.gitignore
+LICENSE
+README.md
+composer.json

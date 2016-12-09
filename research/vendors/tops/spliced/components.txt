@@ -1,0 +1,4 @@
+src/Spliced/Component/
+LICENSE
+README.md
+composer.json

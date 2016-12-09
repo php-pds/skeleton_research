@@ -1,0 +1,8 @@
+autoloads/
+classes/
+design/standard/
+doc/
+modules/ocmaps/
+settings/
+composer.json
+extension.xml

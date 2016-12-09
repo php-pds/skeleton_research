@@ -1,0 +1,11 @@
+bin/
+http/
+migrations/
+resources/
+sources/
+views/
+.gitignore
+bootstrap.php
+composer.json
+php.5.5
+platform.ini

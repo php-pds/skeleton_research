@@ -1,0 +1,9 @@
+src/Hahns/
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+codeception.yml
+composer.json

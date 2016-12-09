@@ -1,0 +1,9 @@
+doc/
+example/
+libKML/
+tests/
+.gitignore
+.travis.yml
+README
+composer.json
+libkml.php

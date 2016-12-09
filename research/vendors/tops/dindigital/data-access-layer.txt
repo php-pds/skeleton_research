@@ -1,0 +1,6 @@
+library/Din/DataAccessLayer/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json

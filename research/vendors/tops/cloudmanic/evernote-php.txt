@@ -1,0 +1,5 @@
+sample/
+src/Cloudmanic/Evernote/
+.gitignore
+README.md
+composer.json

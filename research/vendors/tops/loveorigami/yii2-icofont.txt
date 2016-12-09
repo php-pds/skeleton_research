@@ -1,0 +1,8 @@
+assets/
+component/
+FI.php
+IcoFont.php
+IcoFontAsset.php
+LICENSE.md
+README.md
+composer.json

@@ -1,0 +1,10 @@
+AdminIncludes/
+Config/
+DataCollector/
+I18n/backOffice/default/
+Listeners/
+Smarty/Plugin/
+templates/backOffice/default/
+LICENSE.txt
+TheliaDebugBar.php
+composer.json

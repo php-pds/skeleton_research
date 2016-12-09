@@ -1,0 +1,8 @@
+src/Skeleton/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock
+deploy.ignore.map

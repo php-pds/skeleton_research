@@ -1,0 +1,9 @@
+Interfaces/
+Qualifiers/
+Tests/
+.gitignore
+.travis.yml
+Gatherer.php
+GathererHelper.php
+composer.json
+phpunit.xml.dist

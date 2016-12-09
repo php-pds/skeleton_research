@@ -1,0 +1,5 @@
+docs/
+src/LineStorm/ArticleComponentBundle/
+.bower.json
+README.md
+composer.json

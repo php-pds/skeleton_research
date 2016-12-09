@@ -1,0 +1,9 @@
+Classes/Controller/
+Configuration/
+Resources/
+Scripts/
+.editorconfig
+.gitignore
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,6 @@
+Crypt/OpenSsl/
+Interfaces/Server/
+Model/
+Server/
+_functions.php
+composer.json

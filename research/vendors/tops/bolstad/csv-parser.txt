@@ -1,0 +1,5 @@
+src/CsvParser/
+tests/
+.gitignore
+README.md
+composer.json

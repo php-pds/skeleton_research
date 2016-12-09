@@ -1,0 +1,13 @@
+DependencyInjection/
+Entity/
+Mapper/
+Resources/config/
+Services/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+SpotifyApiBundle.php
+composer.json
+humans.txt
+phpunit.xml.dist

@@ -1,0 +1,9 @@
+src/Phapi/Contract/
+.gitattributes
+.gitignore
+changelog.md
+composer.json
+composer.lock
+contributing.md
+license.md
+readme.md

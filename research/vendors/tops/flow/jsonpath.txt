@@ -1,0 +1,6 @@
+src/Flow/JSONPath/
+tests/
+.gitignore
+README.md
+composer.json
+phpunit.xml

@@ -1,0 +1,4 @@
+src/Mangati/Serializer/
+LICENSE
+README.md
+composer.json

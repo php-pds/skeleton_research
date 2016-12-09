@@ -1,0 +1,10 @@
+doc/
+src/
+tests/
+.gitattributes
+.gitignore
+README.md
+composer.json
+license.md
+test.bat
+test.sh

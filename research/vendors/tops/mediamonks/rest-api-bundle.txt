@@ -1,0 +1,17 @@
+DependencyInjection/
+EventSubscriber/
+Exception/
+Model/
+Request/
+Resources/
+Response/
+Tests/
+Util/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+MediaMonksRestApiBundle.php
+README.md
+composer.json
+phpunit.xml

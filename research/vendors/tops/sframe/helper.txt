@@ -1,0 +1,5 @@
+Arr.php
+LICENSE
+README.md
+Str.php
+composer.json

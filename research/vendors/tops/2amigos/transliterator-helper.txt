@@ -1,0 +1,6 @@
+src/dosamigos/yii/helpers/
+tests/
+.gitignore
+LICENSE.txt
+README.md
+composer.json

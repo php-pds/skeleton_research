@@ -1,0 +1,7 @@
+config/
+public/jc-navigation/
+src/JcNavigation/
+view/jc-navigation/
+Module.php
+README.md
+composer.json

@@ -1,0 +1,8 @@
+src/LTDBeget/dns/
+tests/
+zone/
+.gitignore
+LICENSE
+README.md
+composer.json
+phpunit.xml

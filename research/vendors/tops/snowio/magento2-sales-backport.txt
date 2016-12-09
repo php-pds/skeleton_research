@@ -1,0 +1,9 @@
+Api/
+Exception/
+Model/
+etc/
+.gitignore
+LICENSE
+README.md
+composer.json
+registration.php

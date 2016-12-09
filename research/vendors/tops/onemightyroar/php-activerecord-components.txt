@@ -1,0 +1,5 @@
+src/OneMightyRoar/PHP_ActiveRecord_Components/
+.gitignore
+LICENSE
+README.md
+composer.json

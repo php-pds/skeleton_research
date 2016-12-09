@@ -1,0 +1,8 @@
+configuration/
+initialize/
+resources/
+specification/
+src/Phidias/Oauth/
+.gitignore
+README.md
+composer.json

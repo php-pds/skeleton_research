@@ -1,0 +1,15 @@
+DependencyInjection/
+KeyGenerator/
+Resources/
+Strategy/
+Tests/
+Twig/
+.coveralls.yml
+.editorconfig
+.gitignore
+.travis.yml
+README.md
+TwigCacheBundle.php
+composer.json
+generate-api.sh
+phpunit.xml.dist

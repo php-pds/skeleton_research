@@ -1,0 +1,5 @@
+DependencyInjection/
+Resources/
+DimeReportBundle.php
+README.mkd
+composer.json

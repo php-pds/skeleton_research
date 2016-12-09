@@ -1,0 +1,7 @@
+Extractor/
+Manager/
+CHANGELOG.md
+CONTRIBUTING.md
+README.md
+composer.json
+test.php

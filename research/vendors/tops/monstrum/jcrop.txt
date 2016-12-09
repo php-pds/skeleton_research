@@ -1,0 +1,11 @@
+dist/
+src/
+.gitattributes
+.gitignore
+.gitmodules
+MIT-LICENSE.txt
+README.md
+bower.json
+component.json
+composer.json
+index.html

@@ -1,0 +1,9 @@
+res/PHP/
+src/
+tests/Unit/
+.gitignore
+.php_cs
+.travis.yml
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,6 @@
+DependencyInjection/
+Fetch/
+Resources/
+AwEzpFetchBundle.php
+README.md
+composer.json

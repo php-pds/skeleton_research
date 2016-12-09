@@ -1,0 +1,4 @@
+resources/
+src/
+Module.php
+composer.json

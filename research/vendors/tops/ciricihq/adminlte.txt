@@ -1,0 +1,15 @@
+config/
+src/
+tests/
+webroot/
+.bowerrc
+.editorconfig
+.gitignore
+.travis.yml
+LICENSE.md
+README.md
+bower.json
+composer.json
+gulpfile.js
+package.json
+phpunit.xml.dist

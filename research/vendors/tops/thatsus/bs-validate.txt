@@ -1,0 +1,12 @@
+dist/
+docs/
+js/
+.gitignore
+CHANGELOG.md
+Gruntfile.js
+LICENSE
+README.md
+_config.yml
+bower.json
+composer.json
+package.json

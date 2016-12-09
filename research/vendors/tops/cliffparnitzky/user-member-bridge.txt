@@ -1,0 +1,5 @@
+system/modules/UserMemberBridge/
+.gitattributes
+.gitignore
+README.md
+composer.json

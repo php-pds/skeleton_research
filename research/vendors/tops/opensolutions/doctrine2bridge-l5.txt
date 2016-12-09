@@ -1,0 +1,11 @@
+bin/
+examples/auth/
+src/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml
+provides.json

@@ -1,0 +1,14 @@
+app/
+src/Apnet/Tests/
+vagrant/
+web/
+.gitignore
+.travis.yml
+Gemfile
+Gemfile.lock
+LICENSE
+README.md
+Vagrantfile
+composer.json
+composer.lock
+phpunit.xml.dist

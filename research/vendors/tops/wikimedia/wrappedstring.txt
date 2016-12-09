@@ -1,0 +1,14 @@
+src/
+tests/
+.editorconfig
+.gitattributes
+.gitignore
+.gitreview
+.jshintrc
+.travis.yml
+Doxyfile
+LICENSE
+README.md
+composer.json
+phpcs.xml
+phpunit.xml.dist

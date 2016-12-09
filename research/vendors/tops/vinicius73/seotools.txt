@@ -1,0 +1,11 @@
+src/
+tests/Calotype/SEO/Generators/
+.gitattributes
+.gitignore
+.travis.yml
+composer.json
+license.md
+phpunit.xml
+provides.json
+readme-pt-br.md
+readme.md

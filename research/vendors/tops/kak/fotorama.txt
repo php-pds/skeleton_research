@@ -1,0 +1,4 @@
+Fotorama.php
+FotoramaAsset.php
+README.md
+composer.json

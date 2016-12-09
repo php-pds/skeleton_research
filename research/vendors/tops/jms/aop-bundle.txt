@@ -1,0 +1,11 @@
+Aop/
+DependencyInjection/
+Exception/
+Resources/
+Tests/
+.gitignore
+.travis.yml
+JMSAopBundle.php
+README
+composer.json
+phpunit.xml.dist

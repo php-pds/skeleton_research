@@ -1,0 +1,10 @@
+examples/
+src/Malenki/Argile/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml

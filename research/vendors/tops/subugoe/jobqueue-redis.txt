@@ -1,0 +1,5 @@
+Classes/Subugoe/Jobqueue/Redis/Queue/
+Configuration/
+Tests/Functional/Queue/
+README.md
+composer.json

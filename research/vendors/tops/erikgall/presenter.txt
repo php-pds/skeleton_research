@@ -1,0 +1,8 @@
+spec/EGALL/Presenter/
+src/EGALL/Presenter/
+.gitignore
+.travis.yml
+README.md
+composer.json
+composer.lock
+phpspec.yml

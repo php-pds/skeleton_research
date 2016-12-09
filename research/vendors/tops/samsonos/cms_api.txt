@@ -1,0 +1,11 @@
+docs/collection/
+src/
+tests/
+.DS_Store
+.gitignore
+.scrutinizer.yml
+.travis.yml
+composer.json
+phpunit.php
+phpunit.xml
+readme.md

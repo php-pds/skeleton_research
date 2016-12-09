@@ -1,0 +1,4 @@
+DC/FlotLib/
+examples/
+.gitignore
+composer.json

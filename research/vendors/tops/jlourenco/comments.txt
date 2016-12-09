@@ -1,0 +1,9 @@
+src/
+.DS_Store
+CHANGELOG.md
+CONDUCT.md
+CONTRIBUTING.md
+LICENSE.md
+README.md
+commit.bat
+composer.json

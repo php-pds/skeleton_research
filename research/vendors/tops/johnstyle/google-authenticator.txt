@@ -1,0 +1,6 @@
+example/
+src/Johnstyle/GoogleAuthenticator/
+.gitignore
+LICENSE
+README.md
+composer.json

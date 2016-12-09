@@ -1,0 +1,6 @@
+config/
+nbproject/
+src/PhowerMailModule/
+.gitignore
+README.md
+composer.json

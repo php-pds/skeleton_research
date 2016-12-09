@@ -1,0 +1,6 @@
+contao/config/
+src/J2B/
+.gitignore
+LICENSE
+README.md
+composer.json

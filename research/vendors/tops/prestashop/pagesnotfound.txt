@@ -1,0 +1,10 @@
+translations/
+CHANGELOG.txt
+Readme.md
+comment.gif
+composer.json
+config.xml
+index.php
+logo.gif
+logo.png
+pagesnotfound.php

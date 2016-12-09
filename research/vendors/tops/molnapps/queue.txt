@@ -1,0 +1,10 @@
+public/
+src/MolnApps/Queue/
+supervisord/
+tests/MolnApps/Queue/
+vagrant/
+.gitignore
+Todo.txt
+composer.json
+composer.lock
+phpunit.xml

@@ -1,0 +1,12 @@
+demo/
+src/Mparaiso/
+tests/
+.gitignore
+.project
+.travis.yml
+README.md
+composer.json
+composer.lock
+console.php
+php.travis.ini
+phpunit.xml

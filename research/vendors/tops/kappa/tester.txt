@@ -1,0 +1,8 @@
+files/
+src/Kappa/Tester/
+tests/
+.gitignore
+.travis.yml
+README.md
+composer.json
+license.md

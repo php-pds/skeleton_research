@@ -1,0 +1,6 @@
+Admin/
+Entity/
+Frontend/
+Carousel.php
+README.md
+composer.json

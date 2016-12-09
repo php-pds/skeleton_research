@@ -1,0 +1,10 @@
+DependencyInjection/
+From/
+Resources/
+.gitignore
+.travis.yml
+HappyrBirthdayBundle.php
+README.md
+build.xml
+composer.json
+phpunit.xml.dist

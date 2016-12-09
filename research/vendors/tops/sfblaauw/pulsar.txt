@@ -1,0 +1,7 @@
+src/
+.formatter.yml
+.gitignore
+.php_cs
+LICENSE
+README.md
+composer.json

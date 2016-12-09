@@ -1,0 +1,5 @@
+assets/
+views/
+composer.json
+license.txt
+readme.md

@@ -1,0 +1,6 @@
+LICENSE
+README.md
+angular-resource.js
+angular-resource.min.js
+component.json
+composer.json

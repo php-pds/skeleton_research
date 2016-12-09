@@ -1,0 +1,8 @@
+config/
+nbproject/
+src/CdiCalendar/
+view/
+.gitignore
+Module.php
+README.md
+composer.json

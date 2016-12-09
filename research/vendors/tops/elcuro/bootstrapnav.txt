@@ -1,0 +1,4 @@
+Config/
+View/
+README.mdown
+composer.json

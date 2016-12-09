@@ -1,0 +1,6 @@
+README.md
+Select2.php
+Select2Action.php
+Select2Asset.php
+Select2BootstrapAsset.php
+composer.json

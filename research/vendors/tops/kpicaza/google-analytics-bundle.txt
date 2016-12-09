@@ -1,0 +1,6 @@
+DependencyInjection/
+Resources/
+Twig/
+KpicazaGoogleanalyticsBundle.php
+README.md
+composer.json

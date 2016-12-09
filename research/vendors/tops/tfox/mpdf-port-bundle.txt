@@ -1,0 +1,10 @@
+DependencyInjection/
+Resources/config/
+Service/
+.gitignore
+CREDITS.txt
+ChangeLog
+LICENSE.txt
+README.md
+TFoxMpdfPortBundle.php
+composer.json

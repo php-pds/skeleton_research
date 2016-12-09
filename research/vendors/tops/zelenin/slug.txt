@@ -1,0 +1,6 @@
+Domain/Service/
+Infrastructure/
+Test/
+LICENSE
+composer.json
+readme.md

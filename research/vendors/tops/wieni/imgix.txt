@@ -1,0 +1,13 @@
+config/
+src/
+templates/
+README.md
+composer.json
+composer.lock
+imgix.info.yml
+imgix.links.action.yml
+imgix.links.menu.yml
+imgix.module
+imgix.permissions.yml
+imgix.routing.yml
+imgix.services.yml

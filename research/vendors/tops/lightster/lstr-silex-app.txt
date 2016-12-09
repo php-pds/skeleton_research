@@ -1,0 +1,7 @@
+src/Lstr/Silex/App/
+.gitattributes
+.gitignore
+LICENSE.txt
+README.md
+composer.json
+composer.lock

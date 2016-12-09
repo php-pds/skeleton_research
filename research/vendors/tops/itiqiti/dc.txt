@@ -1,0 +1,10 @@
+bin/
+src/Bundle/DcBundle/
+tests/Bundle/DcBundle/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+config.yml.dist

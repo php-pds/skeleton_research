@@ -1,0 +1,5 @@
+Classes/Onedrop/ProgressiveImage/Domain/Model/
+Configuration/
+LICENSE
+README.md
+composer.json

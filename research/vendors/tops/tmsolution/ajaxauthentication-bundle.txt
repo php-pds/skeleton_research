@@ -1,0 +1,6 @@
+DependencyInjection/
+Handler/
+Listener/
+Resources/config/
+CoreAjaxAuthenticationBundle.php
+composer.json

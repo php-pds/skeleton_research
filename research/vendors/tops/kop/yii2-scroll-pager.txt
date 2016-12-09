@@ -1,0 +1,8 @@
+assets/
+messages/
+.gitignore
+LICENSE.md
+README.md
+ScrollPager.php
+composer.json
+composer.lock

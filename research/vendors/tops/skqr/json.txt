@@ -1,0 +1,9 @@
+Tests/
+.gitignore
+.travis.yml
+JsonCoder.php
+LICENSE
+README.md
+Vagrantfile
+composer.json
+phpunit.xml

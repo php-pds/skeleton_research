@@ -1,0 +1,7 @@
+.idea/
+examples/
+src/Beluga/Drawing/Image/Exif/
+.gitignore
+LICENSE
+README.md
+composer.json

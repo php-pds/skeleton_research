@@ -1,0 +1,6 @@
+Config/
+Public/
+src/Lellol/Frontend/
+.gitignore
+README.markdown
+composer.json

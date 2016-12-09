@@ -1,0 +1,6 @@
+library/RockDotter/
+CHANGELOG.md
+CONTRIBUTING.md
+LICENSE.txt
+README.md
+composer.json

@@ -1,0 +1,17 @@
+_ide/
+config/
+controllers/
+messages/ru/
+migrations/
+models/
+views/admin-saved-filters/
+CHANGELOG.md
+LICENSE
+README.md
+RelatedHandlerSavedFilter.php
+SavedFiltersComponent.php
+SavedFiltersHandler.php
+SavedFiltersHandlerInterface.php
+SavedFiltersModule.php
+SavedFiltersUrlRule.php
+composer.json

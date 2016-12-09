@@ -1,0 +1,15 @@
+scripts/
+src/
+tests/
+.coveralls.yml
+.docheader
+.gitattributes
+.gitignore
+.php_cs
+.travis.install-mysql-5.7.sh
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml.pdo_mysql
+phpunit.xml.pdo_pgsql

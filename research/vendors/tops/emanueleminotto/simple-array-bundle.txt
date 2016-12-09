@@ -1,0 +1,13 @@
+DependencyInjection/
+Form/
+Resources/config/
+Tests/
+.coveralls.yml
+.editorconfig
+.gitignore
+.travis.yml
+LICENSE
+README.md
+SimpleArrayBundle.php
+composer.json
+phpunit.xml.dist

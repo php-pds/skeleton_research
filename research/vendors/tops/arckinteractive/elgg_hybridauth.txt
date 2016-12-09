@@ -1,0 +1,14 @@
+actions/
+classes/
+deps/Hybrid/
+graphics/
+languages/
+vendor/
+views/default/
+README.md
+activate.php
+changelog
+composer.json
+composer.lock
+manifest.xml
+start.php

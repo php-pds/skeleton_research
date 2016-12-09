@@ -1,0 +1,8 @@
+src/Snappy/Apps/MailChimp/
+tests/
+.gitignore
+.travis.yml
+composer.json
+mailchimp.png
+phpunit.xml
+readme.md

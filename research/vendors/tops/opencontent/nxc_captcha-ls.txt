@@ -1,0 +1,9 @@
+autoload/
+classes/
+datatypes/nxccaptcha/
+design/standard/
+modules/nxc_captcha/
+settings/
+composer.json
+ezinfo.php
+readme.md

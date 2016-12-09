@@ -1,0 +1,6 @@
+system/modules/TinyMceImageEnhancement/
+.gitattributes
+.gitignore
+README.md
+composer.json
+screenshot.jpg

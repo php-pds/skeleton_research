@@ -1,0 +1,5 @@
+Resources/config/
+Tests/
+Utility/
+BrightmarchUtilityBundle.php
+composer.json

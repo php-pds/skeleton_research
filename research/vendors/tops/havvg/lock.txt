@@ -1,0 +1,13 @@
+Acquirer/
+Exception/
+Lock/
+Repository/
+Resource/
+Tests/
+.gitignore
+.travis.yml
+LICENSE
+LockManager.php
+README.md
+composer.json
+phpunit.xml.dist

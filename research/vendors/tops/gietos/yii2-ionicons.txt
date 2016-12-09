@@ -1,0 +1,6 @@
+component/
+.gitignore
+AssetBundle.php
+Ion.php
+README.md
+composer.json

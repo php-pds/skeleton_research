@@ -1,0 +1,4 @@
+BitbucketStrategy.php
+LICENSE
+README.md
+composer.json

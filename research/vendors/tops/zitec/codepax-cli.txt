@@ -1,0 +1,5 @@
+app/
+src/AppBundle/
+.gitignore
+README.md
+composer.json

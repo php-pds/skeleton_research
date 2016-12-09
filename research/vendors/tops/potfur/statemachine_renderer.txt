@@ -1,0 +1,10 @@
+src/StateMachineRenderer/
+tests/unit/StateMachineRenderer/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CONTRIBUTE.md
+LICENSE
+README.md
+composer.json
+phpunit.dist.xml

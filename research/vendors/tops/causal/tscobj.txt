@@ -1,0 +1,10 @@
+Classes/Controller/Pi1/
+Configuration/FlexForms/
+Documentation/
+Modules/Wizards/TypoScriptBrowserWizard/
+Resources/
+composer.json
+ext_emconf.php
+ext_icon.gif
+ext_localconf.php
+ext_tables.php

@@ -1,0 +1,9 @@
+helper_classes/Session/
+templates/3.3/dev/
+test/
+.gitattributes
+.travis.yml
+LICENSE.md
+README.md
+composer.json
+koharness

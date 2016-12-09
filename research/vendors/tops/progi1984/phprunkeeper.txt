@@ -1,0 +1,9 @@
+src/Progi1984/
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+README
+composer.json
+phpmd.xml.dist
+phpunit.xml.dist

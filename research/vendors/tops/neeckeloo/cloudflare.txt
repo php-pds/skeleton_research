@@ -1,0 +1,10 @@
+config/
+src/CloudFlare/
+tests/CloudFlareTest/
+.gitignore
+.travis.yml
+LICENSE
+Module.php
+README.md
+composer.json
+phpunit.xml.dist

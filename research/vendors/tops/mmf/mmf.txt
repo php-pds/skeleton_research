@@ -1,0 +1,10 @@
+app/
+bootstrap/
+config/
+public/
+.gitattributes
+.gitignore
+DumpTestDB.sql
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,6 @@
+Aplicacao/
+Dominio/
+Infra/
+Servico/Regra/
+composer.json
+dependencias.json

@@ -1,0 +1,5 @@
+lib/Bulletin/Api/
+.gitignore
+LICENSE
+README.md
+composer.json

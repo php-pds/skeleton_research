@@ -1,0 +1,6 @@
+src/fkooman/Tpl/
+.gitignore
+CHANGES.md
+COPYING
+README.md
+composer.json

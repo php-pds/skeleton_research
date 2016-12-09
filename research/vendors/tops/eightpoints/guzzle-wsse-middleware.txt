@@ -1,0 +1,4 @@
+src/EightPoints/Guzzle/
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,8 @@
+src/tklovett/barcodes/
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+composer.json
+phpunit.xml.dist
+readme.md

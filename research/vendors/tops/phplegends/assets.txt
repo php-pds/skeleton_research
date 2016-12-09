@@ -1,0 +1,9 @@
+phpunit/
+src/Assets/
+.gitignore
+API.md
+LICENSE
+README.md
+assets-legendary.sublime-project
+assets-legendary.sublime-workspace
+composer.json

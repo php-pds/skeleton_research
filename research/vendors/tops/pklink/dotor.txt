@@ -1,0 +1,8 @@
+src/Dotor/
+tests/Dotor/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock

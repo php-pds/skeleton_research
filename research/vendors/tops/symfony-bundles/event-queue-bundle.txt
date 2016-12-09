@@ -1,0 +1,15 @@
+Command/
+DependencyInjection/
+Service/
+Tests/
+.gitignore
+.scrutinizer.yml
+.sensiolabs.yml
+.travis.yml
+Event.php
+EventInterface.php
+LICENSE
+README.md
+SymfonyBundlesEventQueueBundle.php
+composer.json
+phpunit.xml.dist

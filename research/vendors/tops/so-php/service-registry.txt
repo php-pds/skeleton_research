@@ -1,0 +1,6 @@
+demo/
+src/SoPhp/ServiceRegistry/
+tests/
+.gitignore
+README.md
+composer.json

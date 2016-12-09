@@ -1,0 +1,11 @@
+samples/
+src/Zendesk/API/
+tests/
+.gitignore
+.travis.yml
+README.md
+VERSION
+composer.json
+composer.lock
+index.php
+phpunit.xml.dist

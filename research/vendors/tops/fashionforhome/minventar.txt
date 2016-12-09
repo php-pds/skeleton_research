@@ -1,0 +1,11 @@
+app/
+src/
+vagrant/
+web/
+wiki/
+.gitignore
+LICENSE
+README.MD
+Vagrantfile
+composer.json
+composer.lock

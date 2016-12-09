@@ -1,0 +1,11 @@
+bin/
+config/
+src/
+tests/
+.gitignore
+.lgtm
+.travis.yml
+LICENCE.md
+MAINTAINERS
+README.md
+composer.json

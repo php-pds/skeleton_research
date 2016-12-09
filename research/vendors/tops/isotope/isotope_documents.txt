@@ -1,0 +1,5 @@
+doku/images/
+system/modules/isotope_documents/
+.gitignore
+README.md
+composer.json

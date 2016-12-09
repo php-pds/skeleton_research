@@ -1,0 +1,5 @@
+class-jp-tax-query.php
+composer.json
+functions.php
+license.txt
+readme.md

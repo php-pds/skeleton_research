@@ -1,0 +1,8 @@
+config/
+etc/SiteSample/
+language/
+src/
+view/
+LICENSE
+README.md
+composer.json

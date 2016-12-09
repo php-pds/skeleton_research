@@ -1,0 +1,9 @@
+samples/
+src/
+tests/unit/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+README.md
+composer.json
+phpunit.xml

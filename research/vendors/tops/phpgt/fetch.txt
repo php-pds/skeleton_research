@@ -1,0 +1,10 @@
+src/
+test/unit/
+.gitignore
+.scrutinizer.yml
+LICENCE
+README.md
+circle.yml
+composer.json
+composer.lock
+phpunit.xml

@@ -1,0 +1,7 @@
+docs/
+examples/chat/
+src/
+tests/
+.gitignore
+README.md
+composer.json

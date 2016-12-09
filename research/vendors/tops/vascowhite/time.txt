@@ -1,0 +1,8 @@
+src/Vascowhite/
+.gitignore
+.travis.yml
+LICENSE.md
+License.txt
+composer.json
+phpunit.xml
+readme.md

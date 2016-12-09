@@ -1,0 +1,8 @@
+css/
+images/
+js/
+src/
+.gitignore
+composer.json
+index.html
+package.xml

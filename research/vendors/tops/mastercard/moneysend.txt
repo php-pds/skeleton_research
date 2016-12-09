@@ -1,0 +1,6 @@
+MasterCard/Api/Moneysend/
+.gitignore
+README.md
+composer.json
+mastercard-moneysend-1.0.1.zip
+phpunit.xml

@@ -1,0 +1,6 @@
+examples/
+src/Processus/Client/JsonRpc/
+tests/
+.gitignore
+README.md
+composer.json

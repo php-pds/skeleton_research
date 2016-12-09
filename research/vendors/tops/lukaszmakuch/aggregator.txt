@@ -1,0 +1,9 @@
+src/
+test/
+.gitignore
+.travis.yml
+LICENSE.txt
+README.MD
+composer.json
+composer.lock
+phpmd_rules.xml

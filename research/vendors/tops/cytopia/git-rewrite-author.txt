@@ -1,0 +1,7 @@
+.lib/
+bin/
+.travis.yml
+LICENSE
+README.md
+composer.json
+install.sh

@@ -1,0 +1,6 @@
+Spore/
+examples/
+.htaccess
+README.md
+composer.json
+index.php

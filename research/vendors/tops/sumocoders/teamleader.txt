@@ -1,0 +1,16 @@
+Crm/
+Deals/
+Departments/
+Invoices/
+Notes/
+Products/
+Subscriptions/
+Users/
+tests/
+.gitattributes
+CHANGELOG.md
+Exception.php
+LICENSE.md
+README.md
+Teamleader.php
+composer.json

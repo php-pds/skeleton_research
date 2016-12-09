@@ -1,0 +1,10 @@
+config/
+docs/
+src/ModulusCEO/
+view/modulus-ceo/metatags/
+.gitignore
+LICENSE
+Module.php
+README.md
+autoload_classmap.php
+composer.json

@@ -1,0 +1,5 @@
+DependencyInjection/
+Model/
+Resources/
+NSTemplatesBundle.php
+composer.json

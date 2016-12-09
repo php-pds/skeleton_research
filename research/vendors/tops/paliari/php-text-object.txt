@@ -1,0 +1,10 @@
+src/Paliari/TextObject/
+tests/
+.gitignore
+LICENSE
+README.md
+apigen
+composer.json
+phpunit.xml
+teste.php
+teste.txt

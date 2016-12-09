@@ -1,0 +1,11 @@
+bin/
+src/
+tests/
+.coveralls.yml
+.gitignore
+.travis.yml
+README.md
+Taskfile
+box.json
+composer.json
+phpunit.xml

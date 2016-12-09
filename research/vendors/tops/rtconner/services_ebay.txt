@@ -1,0 +1,9 @@
+docs/
+examples/
+src/Services/
+tests/
+.gitignore
+README.md
+composer.json
+package.xml
+progress

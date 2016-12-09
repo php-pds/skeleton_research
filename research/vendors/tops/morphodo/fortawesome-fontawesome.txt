@@ -1,0 +1,4 @@
+Classes/Morphodo/FortAwesome/FontAwesome/ViewHelpers/
+Resources/Public/3.0.1/
+README.rst
+composer.json

@@ -1,0 +1,6 @@
+_config/
+code/
+lang/
+.scrutinizer.yml
+LICENSE
+composer.json

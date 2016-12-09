@@ -1,0 +1,9 @@
+demos/ZendService/Amazon/
+library/ZendService/Amazon/
+tests/
+.gitignore
+.php_cs
+.travis.yml
+LICENSE.txt
+README.md
+composer.json

@@ -1,0 +1,5 @@
+src/Andheiberg/Vimeo/
+.gitignore
+.travis.yml
+README.md
+composer.json

@@ -1,0 +1,16 @@
+AssertionChecker/
+Bin/
+Exception/
+Iterator/
+Model/
+Preambler/
+Visitor/
+.Mime
+.State
+.gitignore
+CHANGELOG.md
+Grammar.pp
+Praspel.php
+README.md
+Trace.php
+composer.json

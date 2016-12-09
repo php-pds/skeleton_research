@@ -1,0 +1,7 @@
+config/
+src/Template/
+webroot/
+.gitignore
+LICENSE
+composer.json
+readme.md

@@ -1,0 +1,13 @@
+lib/
+test/
+.coveralls.yml
+.gitattributes
+.gitignore
+.php_cs
+.travis.yml
+CHANGELOG
+CONTRIBUTING.md
+LICENSE
+README.md
+composer.json
+phpunit.xml

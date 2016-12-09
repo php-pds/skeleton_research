@@ -1,0 +1,10 @@
+DependencyInjection/
+Doctrine/ORM/
+EventListener/
+Form/Type/
+Model/
+Provider/
+Resources/config/
+.gitignore
+ToroTaggingBundle.php
+composer.json

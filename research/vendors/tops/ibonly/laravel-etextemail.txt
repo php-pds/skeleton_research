@@ -1,0 +1,11 @@
+resources/config/
+src/
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CONTRIBUTING.md
+Readme.md
+composer.json
+composer.lock
+phpunit.xml.dist

@@ -1,0 +1,13 @@
+resources/
+src/
+tests/
+.gitignore
+.travis.yml
+LICENSE.md
+Makefile
+README.md
+composer.json
+docker-compose.yml
+phpcs.xml
+phpmd.xml
+phpunit.xml.dist

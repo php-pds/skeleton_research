@@ -1,0 +1,4 @@
+HybridAuthManager.php
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,12 @@
+DependencyInjection/
+Resources/config/
+Security/
+Service/
+Tests/
+.gitignore
+.travis.yml
+LICENSE
+MelkExtendedLoginBundle.php
+README.md
+composer.json
+phpunit.xml.dist

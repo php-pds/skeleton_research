@@ -1,0 +1,6 @@
+src/
+.gitignore
+LICENSE.md
+README.md
+authentication-web.global.php.dist
+composer.json

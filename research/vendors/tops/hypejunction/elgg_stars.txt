@@ -1,0 +1,10 @@
+actions/
+languages/
+lib/
+vendors/rateit/
+views/default/
+activate.php
+composer.json
+manifest.xml
+readme.md
+start.php

@@ -1,0 +1,6 @@
+src/Novanova/PHPMorphy/
+vendor/phpmorphy/
+.gitignore
+LICENSE
+composer.json
+readme.md

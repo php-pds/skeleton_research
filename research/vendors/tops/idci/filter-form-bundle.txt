@@ -1,0 +1,7 @@
+DependencyInjection/
+Form/
+Resources/
+.gitignore
+IDCIFilterFormBundle.php
+README.md
+composer.json

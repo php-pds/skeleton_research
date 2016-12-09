@@ -1,0 +1,6 @@
+src/Yalesov/ArgValidator/
+test/
+.gitignore
+.travis.yml
+README.md
+composer.json

@@ -1,0 +1,7 @@
+Tests/
+src/Pentagonal/Hookable/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json

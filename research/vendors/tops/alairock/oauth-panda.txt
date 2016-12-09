@@ -1,0 +1,9 @@
+examples/
+public/
+src/alairock/OAuthPanda/
+vendor/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock

@@ -1,0 +1,7 @@
+docs/
+sourcecode/
+sqldump/
+.gitignore
+LICENSE
+README.md
+composer.json

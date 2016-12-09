@@ -1,0 +1,13 @@
+src/tomzx/Job/
+tests/tomzx/Job/
+.gitattributes
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+composer.json
+composer.lock
+php-semver-checker-git.yml.dist
+phpunit.xml.dist

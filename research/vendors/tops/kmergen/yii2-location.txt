@@ -1,0 +1,12 @@
+controllers/
+filters/
+helpers/
+messages/
+migrations/
+models/
+views/admin/
+widgets/
+Bootstrap.php
+Module.php
+README.md
+composer.json

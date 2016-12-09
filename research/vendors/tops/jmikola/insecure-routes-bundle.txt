@@ -1,0 +1,11 @@
+DependencyInjection/
+Resources/config/
+Routing/
+Tests/
+.gitignore
+.travis.yml
+JmikolaInsecureRoutesBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

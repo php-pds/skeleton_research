@@ -1,0 +1,15 @@
+Controller/
+DependencyInjection/
+PagerAdapter/
+Pagination/
+Resources/
+Tests/
+View/Renderer/
+.gitignore
+.travis.yml
+DaPaginatorBundle.php
+LICENSE
+README.md
+VERSION
+composer.json
+phpunit.xml.dist

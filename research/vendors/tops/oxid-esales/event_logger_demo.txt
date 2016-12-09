@@ -1,0 +1,7 @@
+src/EventLoggerDemo/
+tests/EventLoggerDemo/
+.gitignore
+CONTRIBUTING.md
+README.rst
+composer.json
+composer.lock

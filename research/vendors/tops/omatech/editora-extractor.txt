@@ -1,0 +1,8 @@
+conf/
+samples/
+src/Omatech/Editora/Extractor/
+.gitignore
+composer.bat
+composer.json
+composer.lock
+composer.phar

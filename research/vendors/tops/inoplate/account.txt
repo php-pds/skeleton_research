@@ -1,0 +1,13 @@
+config/
+database/
+public/
+resources/
+src/
+tests/
+.gitignore
+.travis.yml
+README.MD
+codeception.yml
+composer.json
+dbsetup.sh
+gulpfile.js

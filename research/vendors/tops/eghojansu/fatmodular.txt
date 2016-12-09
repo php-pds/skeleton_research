@@ -1,0 +1,17 @@
+app/
+asset/
+dev/less/
+.editorconfig
+.gitignore
+.htaccess
+LICENSE
+README.md
+bower.json
+composer.json
+console
+fatmodular.sublime-project
+favicon.ico
+gulpfile.js
+index.php
+package.json
+robots.txt

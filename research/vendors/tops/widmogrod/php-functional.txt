@@ -1,0 +1,13 @@
+example/
+src/
+test/
+.gitignore
+.php_cs
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+Vagrantfile
+composer.json
+composer.lock
+phpunit.xml.dist

@@ -1,0 +1,9 @@
+LICENSE
+README.md
+composer.json
+moment-timezone-with-data-2010-2020.js
+moment-timezone-with-data-2010-2020.min.js
+moment-timezone-with-data.js
+moment-timezone-with-data.min.js
+moment-timezone.js
+moment-timezone.min.js

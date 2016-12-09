@@ -1,0 +1,17 @@
+Admin/
+Command/
+Controller/
+DependencyInjection/
+Doctrine/ORM/
+Entity/
+EventListener/
+Form/
+Loggable/
+Resources/
+SearchAnalyser/
+Tests/Controller/
+.gitignore
+BlastBaseEntitiesBundle.php
+LICENCE.md
+README.md
+composer.json

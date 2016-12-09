@@ -1,0 +1,8 @@
+Codeigniter/
+Default/
+MX/
+PHPMailer/
+Smarty/
+.gitignore
+LICENSE
+composer.json

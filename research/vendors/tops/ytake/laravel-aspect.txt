@@ -1,0 +1,13 @@
+src/
+tests/
+.coveralls.yml
+.gitignore
+.scrutinizer.yml
+.sensiolabs.yml
+.styleci.yml
+.travis.yml
+LICENSE
+README.md
+composer.json
+nitpick.json
+phpunit.xml

@@ -1,0 +1,13 @@
+bin/php/
+build/config/
+src/Satooshi/Component/
+tests/
+travis/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+build.xml
+composer.json
+phpunit.xml.dist
+travis.phpunit.xml

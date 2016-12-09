@@ -1,0 +1,16 @@
+.idea/
+resources/
+src/
+tests/
+.editorconfig
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CHANGELOG.md
+LICENSE.md
+README.md
+build.xml
+composer.json
+composer.lock
+phpunit.xml.dist
+sami-config.php

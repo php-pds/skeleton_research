@@ -1,0 +1,6 @@
+.gitignore
+README.md
+composer.json
+geo-data-store.php
+readme.txt
+uninstall.php

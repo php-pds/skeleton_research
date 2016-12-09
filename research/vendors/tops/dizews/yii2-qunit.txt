@@ -1,0 +1,13 @@
+assets/
+controllers/
+helpers/
+installer/skeleton/
+views/
+widgets/
+.gitignore
+Asset.php
+Installer.php
+Module.php
+README.md
+UnitAsset.php
+composer.json

@@ -1,0 +1,5 @@
+Adapter/
+Message/
+LICENSE
+Mailer.php
+composer.json

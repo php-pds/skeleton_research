@@ -1,0 +1,12 @@
+Controller/
+DependencyInjection/
+Entities/
+Resources/
+Services/
+Tests/Controller/
+.DS_Store
+.gitignore
+LICENSE
+README.md
+SopinetLogBundle.php
+composer.json

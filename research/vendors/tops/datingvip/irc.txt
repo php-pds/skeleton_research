@@ -1,0 +1,4 @@
+src/DatingVIP/IRC/
+LICENSE
+README.md
+composer.json

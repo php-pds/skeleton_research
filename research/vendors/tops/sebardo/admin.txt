@@ -1,0 +1,4 @@
+AdminBundle/
+LICENSE
+README.md
+composer.json

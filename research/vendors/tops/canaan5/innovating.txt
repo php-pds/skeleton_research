@@ -1,0 +1,14 @@
+.idea/
+Tests/
+app/
+assets/
+config/
+src/
+storage/view/
+.gitignore
+.htaccess
+.travis.yml
+LICENSE.md
+README.md
+composer.json
+index.php

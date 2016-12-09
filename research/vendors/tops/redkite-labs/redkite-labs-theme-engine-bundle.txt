@@ -1,0 +1,15 @@
+Core/
+DependencyInjection/
+Resources/
+Tests/
+Twig/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CHANGELOG
+LICENSE
+README.md
+RedKiteLabsThemeEngineBundle.php
+autoload.json
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,4 @@
+src/Plugin/Field/FieldFormatter/
+README.md
+composer.json
+er_view_formatter.info.yml

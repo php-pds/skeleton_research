@@ -1,0 +1,10 @@
+test/
+.coveralls.yml
+.travis.yml
+ActiveRecord.php
+README.md
+README.zh-CN.md
+composer.json
+doc.sh
+phpunit.xml
+test.php

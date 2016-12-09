@@ -1,0 +1,7 @@
+contao/
+src/Module/
+.gitignore
+LICENSE
+README.md
+composer.json
+contao-sass-watch-settings.png

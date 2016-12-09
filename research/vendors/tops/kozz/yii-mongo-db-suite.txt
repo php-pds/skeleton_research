@@ -1,0 +1,12 @@
+doc/input/en/
+lib-extra/
+lib/
+tests/
+validators/
+.gitignore
+.travis.php.ini
+.travis.yml
+LICENSE
+README.mkd
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,5 @@
+assets/
+views/
+README.md
+composer.json
+vkWidget.php

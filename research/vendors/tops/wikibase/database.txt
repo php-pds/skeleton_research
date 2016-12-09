@@ -1,0 +1,14 @@
+build/travis/
+src/
+tests/
+.coveralls.yml
+.gitattributes
+.gitignore
+.scrutinizer.yml
+.travis.yml
+COPYING
+README.md
+RELEASE-NOTES.md
+composer.json
+phpunit.watcher.json
+phpunit.xml.dist

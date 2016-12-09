@@ -1,0 +1,10 @@
+generated/
+src/
+tests/
+.gitignore
+.travis.yml
+LICENCE
+README.md
+combined-swagger.json
+composer.json
+phpunit.xml.dist

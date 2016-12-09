@@ -1,0 +1,16 @@
+build/
+docs/
+src/Joomla/
+tests/
+vendor/psr/cache/Psr/Cache/
+.gitattributes
+.gitignore
+.gitmodules
+.travis.yml
+CONTRIBUTING.markdown
+LICENSE
+README.markdown
+build.xml
+composer.json
+phpunit.travis.xml
+phpunit.xml.dist

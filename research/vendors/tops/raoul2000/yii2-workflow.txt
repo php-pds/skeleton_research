@@ -1,0 +1,10 @@
+guide/
+src/
+tests/
+.gitignore
+.travis.yml
+CHANGE.md
+LICENSE.md
+README.md
+composer.json
+composer.lock

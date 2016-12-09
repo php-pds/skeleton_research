@@ -1,0 +1,8 @@
+bin/
+classes/
+.gitattributes
+.gitignore
+LICENSE
+README.md
+composer.json
+demo.gif

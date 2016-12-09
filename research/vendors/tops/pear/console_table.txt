@@ -1,0 +1,5 @@
+tests/
+.travis.yml
+Table.php
+composer.json
+package.xml

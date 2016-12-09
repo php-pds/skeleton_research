@@ -1,0 +1,7 @@
+src/
+tests/Provider/
+.travis.yml
+README.md
+composer.json
+phpunit.xml
+shippable.yml

@@ -1,0 +1,8 @@
+src/
+.gitignore
+README.md
+composer.json
+composer.lock
+filters.php
+globals.php
+mandriller.php

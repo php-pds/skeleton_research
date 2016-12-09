@@ -1,0 +1,13 @@
+controllers/
+mails/
+translations/
+upgrade/
+views/
+.gitignore
+Readme.md
+composer.json
+config.xml
+index.php
+logo.png
+ps_emailsubscription.php
+verification.php

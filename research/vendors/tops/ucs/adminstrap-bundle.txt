@@ -1,0 +1,11 @@
+Command/
+Composer/
+DependencyInjection/
+Resources/
+.gitignore
+BRANCHES.md
+CHANGELOG.md
+README.md
+UCSAdminstrapBundle.php
+composer.json
+phpunit.xml.dist

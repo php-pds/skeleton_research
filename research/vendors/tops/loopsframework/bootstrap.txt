@@ -1,0 +1,9 @@
+app/
+docker/
+public/
+.gitignore
+README.md
+bootstrap
+cleanup
+cli-config.php
+composer.json

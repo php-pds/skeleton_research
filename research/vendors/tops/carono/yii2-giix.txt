@@ -1,0 +1,7 @@
+templates/model/
+.gitignore
+Bootstrap.php
+GiixController.php
+README.md
+composer.json
+composer.lock

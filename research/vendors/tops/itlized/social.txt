@@ -1,0 +1,7 @@
+Component/
+Controller/
+DependencyInjection/
+Resources/
+ItlizedSocialBundle.php
+README.md
+composer.json

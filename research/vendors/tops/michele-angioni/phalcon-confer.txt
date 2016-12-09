@@ -1,0 +1,9 @@
+migrations/1.0.0/
+src/PhalconConfer/
+tests/
+.gitignore
+.travis.yml
+composer.json
+license.md
+phpunit.xml
+readme.md

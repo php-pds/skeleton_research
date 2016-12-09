@@ -1,0 +1,10 @@
+controllers/
+lib/Bankwire/
+static/
+views/scripts/payment/
+.gitignore
+.php_cs
+LICENSE
+README.md
+composer.json
+plugin.xml

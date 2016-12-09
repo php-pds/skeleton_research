@@ -1,0 +1,4 @@
+config/
+view/
+Module.php
+composer.json

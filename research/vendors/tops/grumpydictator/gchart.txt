@@ -1,0 +1,5 @@
+src/Grumpydictator/Gchart/
+tests/
+.gitignore
+README.md
+composer.json

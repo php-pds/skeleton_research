@@ -1,0 +1,8 @@
+src/Sprocketeer/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml.default

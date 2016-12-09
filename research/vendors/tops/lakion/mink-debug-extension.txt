@@ -1,0 +1,10 @@
+features/
+src/
+test-application/
+travis/
+.gitignore
+.travis.yml
+CHANGELOG.md
+README.md
+composer.json
+phpspec.yml.dist

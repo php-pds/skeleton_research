@@ -1,0 +1,6 @@
+assets/
+views/
+README.md
+SliderWidget.php
+composer.json
+composer.lock

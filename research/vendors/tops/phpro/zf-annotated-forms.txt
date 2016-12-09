@@ -1,0 +1,8 @@
+config/
+spec/Phpro/AnnotatedForms/
+src/Phpro/AnnotatedForms/
+.gitignore
+.php_cs
+Module.php
+README.md
+composer.json

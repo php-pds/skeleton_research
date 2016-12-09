@@ -1,0 +1,12 @@
+src/Native5/Services/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+Makefile
+README.md
+RELEASE NOTES.md
+TODO
+VERSION
+composer.json
+phpunit.xml

@@ -1,0 +1,5 @@
+imgs/
+samples/
+src/
+README.md
+composer.json

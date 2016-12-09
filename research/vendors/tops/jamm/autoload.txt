@@ -1,0 +1,3 @@
+lib/Jamm/Autoload/
+README.md
+composer.json

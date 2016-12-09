@@ -1,0 +1,14 @@
+_config/
+code/
+.editorconfig
+.gitattributes
+.scrutinizer.yml
+.travis.yml
+.upgrade.yml
+LICENSE
+README.md
+_config.php
+_configure_database.php
+_register_database.php
+code-of-conduct.md
+composer.json

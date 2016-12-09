@@ -1,0 +1,12 @@
+src/
+test/
+.gitignore
+.travis.yml
+LICENSE.md
+README.md
+app
+box.json
+build.sh
+composer.json
+depipe.yml.dist
+phpunit.xml

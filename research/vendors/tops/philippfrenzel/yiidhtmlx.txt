@@ -1,0 +1,5 @@
+yiidhtmlx/
+.DS_Store
+.gitignore
+README.md
+composer.json

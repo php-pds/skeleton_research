@@ -1,0 +1,11 @@
+assets/
+components/
+gii/generators/crud/
+layouts/
+mobile/layouts/
+.travis.yml
+Easy.php
+README.md
+Widget.php
+changelog.txt
+composer.json

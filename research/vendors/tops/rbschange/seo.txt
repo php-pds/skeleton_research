@@ -1,0 +1,14 @@
+actions/
+apache/
+change-commands/
+config/
+forms/editor/
+i18n/
+lib/
+patch/
+persistentdocument/
+setup/
+style/
+templates/perspectives/
+LICENSE.txt
+change.xml

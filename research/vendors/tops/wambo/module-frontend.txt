@@ -1,0 +1,8 @@
+src/
+view/
+.gitignore
+.scrutinizer.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml

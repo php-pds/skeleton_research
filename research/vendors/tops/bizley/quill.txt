@@ -1,0 +1,8 @@
+.gitignore
+HighlightAsset.php
+KatexAsset.php
+LICENSE
+Quill.php
+QuillAsset.php
+README.md
+composer.json

@@ -1,0 +1,4 @@
+LICENSE
+README.md
+class-tp-editor-capabilities.php
+composer.json

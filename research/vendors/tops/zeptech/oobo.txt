@@ -1,0 +1,9 @@
+bin/
+test/
+zpt/oobo/
+.gitattributes
+.gitignore
+LICENSE
+README.md
+TODO
+composer.json

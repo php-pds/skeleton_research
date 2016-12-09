@@ -1,0 +1,11 @@
+Controller/
+DependencyInjection/
+Resources/config/
+Tests/Controller/
+.coveralls.yml
+.gitignore
+.travis.yml
+README.md
+VaddyBundle.php
+composer.json
+phpunit.xml.dist

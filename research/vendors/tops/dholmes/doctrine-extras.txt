@@ -1,0 +1,5 @@
+src/DHolmes/DoctrineExtras/
+test/
+.gitignore
+composer.json
+composer.lock

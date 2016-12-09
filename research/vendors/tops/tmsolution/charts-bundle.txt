@@ -1,0 +1,11 @@
+Controller/
+DependencyInjection/
+Resources/
+Service/
+Tests/Controller/
+bower_components/
+README.md
+README_1.md
+TMSolutionChartsBundle.php
+bower.json
+composer.json

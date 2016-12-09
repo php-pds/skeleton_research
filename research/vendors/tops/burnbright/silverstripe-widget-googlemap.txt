@@ -1,0 +1,8 @@
+.editorconfig
+LICENSE
+MapWidget.js
+MapWidget.php
+MapWidget.ss
+README.md
+_config.php
+composer.json

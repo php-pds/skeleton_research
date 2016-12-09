@@ -1,0 +1,11 @@
+src/
+.gitignore
+README.md
+TODO.md
+autoload.php
+composer.json
+env.php.orig
+test.11nk5.php
+test.br-autohelpdesk.php
+test.br-bounces.php
+test.class.php

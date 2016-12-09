@@ -1,0 +1,17 @@
+bin/
+config/
+data/
+src/
+test/
+view/zf/auth/
+.gitignore
+.travis.yml
+CHANGELOG.md
+CONDUCT.md
+CONTRIBUTING.md
+LICENSE.md
+README.md
+composer.json
+composer.lock
+phpcs.xml
+phpunit.xml.dist

@@ -1,0 +1,12 @@
+Loader/
+Merger/
+Resolver/
+Resources/doc/
+Tests/Unit/
+.gitignore
+CumulativeResource.php
+CumulativeResourceInfo.php
+CumulativeResourceManager.php
+LICENSE
+README.md
+composer.json

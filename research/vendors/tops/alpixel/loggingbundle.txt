@@ -1,0 +1,13 @@
+DependencyInjection/
+Formatter/
+Handler/
+Processor/
+Resources/config/
+Tests/
+.gitignore
+.travis.yml
+AlpixelLoggingBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

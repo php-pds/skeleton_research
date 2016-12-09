@@ -1,0 +1,11 @@
+DependencyInjection/
+EventDispatcher/
+Resources/config/
+Tests/
+.gitignore
+.travis.yml
+JmikolaWildcardEventDispatcherBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

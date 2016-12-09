@@ -1,0 +1,16 @@
+autoloads/
+bin/php/
+design/standard/
+doc/
+lib/geshi/
+modules/geshi/
+pake/
+settings/
+tests/
+.gitignore
+INSTALL
+LICENSE
+README
+composer.json
+extension.xml
+ezinfo.php

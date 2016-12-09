@@ -1,0 +1,8 @@
+src/
+.gitignore
+.travis.yml
+changelog.md
+codeclimate-config.patch
+composer.json
+license.md
+readme.md

@@ -1,0 +1,13 @@
+config/
+database/
+public/
+resources/
+src/
+.bowerrc
+.gitignore
+.travis.yml
+README.MD
+bower.json
+composer.json
+gulpfile.js
+phpspec.yml

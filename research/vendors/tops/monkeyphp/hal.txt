@@ -1,0 +1,7 @@
+examples/
+spec/Hal/
+src/Hal/
+.gitignore
+README.md
+composer.json
+composer.lock

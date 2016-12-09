@@ -1,0 +1,6 @@
+.gitignore
+CHANGELOG.md
+License.md
+README.md
+class.schema_breadcrumbs.php
+composer.json

@@ -1,0 +1,5 @@
+src/Shift31/
+.gitignore
+LICENSE
+README.md
+composer.json

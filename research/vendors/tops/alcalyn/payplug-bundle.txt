@@ -1,0 +1,15 @@
+Command/
+Controller/
+DependencyInjection/
+Event/
+Exceptions/
+Model/
+Resources/
+Services/
+Tests/
+.gitignore
+.travis.yml
+AlcalynPayplugBundle.php
+README.md
+composer.json
+phpunit.xml.dist

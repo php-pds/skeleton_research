@@ -1,0 +1,12 @@
+classes/
+translations/
+CHANGELOG.txt
+Readme.md
+blockcmsinfo.php
+blockcmsinfo.tpl
+composer.json
+config.xml
+index.php
+logo.gif
+logo.png
+style.css

@@ -1,0 +1,7 @@
+lib/TheTwelve/Mailgun/
+tests/
+.gitignore
+LICENSE
+README.md
+VERSION
+composer.json

@@ -1,0 +1,8 @@
+src/LoaderIo/
+tests/LoaderIo/
+.gitignore
+.travis.yml
+README.md
+composer.json
+loaderio-runner
+phpunit.xml

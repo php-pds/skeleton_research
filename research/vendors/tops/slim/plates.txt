@@ -1,0 +1,5 @@
+Slim/Views/
+.gitignore
+LICENSE
+README.md
+composer.json

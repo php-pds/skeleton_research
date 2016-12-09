@@ -1,0 +1,11 @@
+AutoDiscover/
+Client/
+Exception/
+Wsdl/
+.gitignore
+AutoDiscover.php
+Client.php
+Exception.php
+Server.php
+Wsdl.php
+composer.json

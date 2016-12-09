@@ -1,0 +1,6 @@
+Classes/
+Migrations/
+Tests/Unit/
+.styleci.yml
+LICENSE.txt
+composer.json

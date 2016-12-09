@@ -1,0 +1,10 @@
+config/
+src/Listener/
+tests/
+.gitignore
+.travis.yml
+Makefile
+Module.php
+README.md
+composer.json
+phpunit.xml.dist

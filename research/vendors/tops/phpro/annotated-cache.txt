@@ -1,0 +1,10 @@
+src/Phpro/AnnotatedCache/
+tests/
+.gitignore
+.travis.yml
+CONTRIBUTING.md
+LICENSE.md
+README.md
+composer.json
+grumphp.yml
+phpunit.xml.dist

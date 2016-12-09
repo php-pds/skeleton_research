@@ -1,0 +1,17 @@
+dev/
+docs/
+src/
+tests/
+.editorconfig
+.gitignore
+.travis.yml
+CODE_OF_CONDUCT.md
+CONTRIBUTING.md
+LICENSE
+README.md
+appveyor.yml
+appveyor_install_php.ps1
+codecov.yml
+composer.json
+phpunit.system.xml
+phpunit.xml.dist

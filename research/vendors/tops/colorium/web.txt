@@ -1,0 +1,4 @@
+src/Colorium/Web/
+LICENCE
+README.md
+composer.json

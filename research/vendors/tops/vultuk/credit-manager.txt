@@ -1,0 +1,8 @@
+.idea/
+spec/Vultuk/CreditManager/
+src/Vultuk/CreditManager/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock

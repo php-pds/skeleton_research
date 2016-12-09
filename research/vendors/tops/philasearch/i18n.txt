@@ -1,0 +1,10 @@
+lib/Philasearch/I18n/
+tests/
+.gitignore
+.travis.yml
+Gemfile
+Gemfile.lock
+Guardfile
+README.md
+composer.json
+phpunit.xml

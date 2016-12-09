@@ -1,0 +1,9 @@
+blocks/zoom_image/
+languages/
+CHANGELOG
+LICENSE.TXT
+README.md
+composer.json
+controller.php
+icon.png
+thumbnail.png

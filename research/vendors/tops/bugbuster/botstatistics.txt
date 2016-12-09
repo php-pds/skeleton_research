@@ -1,0 +1,15 @@
+assets/
+classes/
+config/
+dca/
+languages/
+modules/
+public/
+runonce/
+templates/
+themes/
+.gitignore
+CHANGELOG.md
+ModuleBotStatisticsVersion.php
+README.md
+composer.json

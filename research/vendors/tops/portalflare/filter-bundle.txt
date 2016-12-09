@@ -1,0 +1,9 @@
+Controller/
+DependencyInjection/
+Resources/
+Tests/Controller/
+.gitignore
+Filter.php
+PortalFlareFilterBundle.php
+README.md
+composer.json

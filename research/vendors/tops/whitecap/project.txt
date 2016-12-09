@@ -1,0 +1,9 @@
+assets/stylesheets/
+config/
+src/
+views/
+web/
+.gitignore
+.htaccess
+composer.json
+index.php

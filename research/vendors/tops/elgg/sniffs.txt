@@ -1,0 +1,6 @@
+src/Elgg/Sniffs/
+.gitignore
+README.md
+composer.json
+composer.lock
+elgg.xml

@@ -1,0 +1,4 @@
+src/ride/library/http/jsonapi/
+test/src/ride/library/http/jsonapi/
+README.md
+composer.json

@@ -1,0 +1,12 @@
+autoloads/
+classes/
+design/standard/
+doc/
+modules/xrowmostviewed/
+settings/
+sql/mysql/
+CHANGELOG
+LICENSE.txt
+README
+composer.json
+ezinfo.php

@@ -1,0 +1,9 @@
+lib/TheTwelve/Foursquare/
+tests/
+.gitignore
+CONTRIBUTING.md
+LICENSE
+README.md
+VERSION
+composer.json
+package.xml

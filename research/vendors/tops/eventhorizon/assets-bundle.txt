@@ -1,0 +1,3 @@
+Resources/public/
+EventHorizonAssetsBundle.php
+composer.json

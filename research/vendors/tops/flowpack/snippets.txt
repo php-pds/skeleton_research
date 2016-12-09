@@ -1,0 +1,7 @@
+Classes/Flowpack/Snippets/
+Configuration/
+Migrations/Mysql/
+Resources/
+Tests/Unit/Domain/Model/
+README.md
+composer.json

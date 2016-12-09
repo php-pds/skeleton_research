@@ -1,0 +1,14 @@
+Command/
+Configurator/
+DependencyInjection/
+Resources/config/
+Util/
+.gitignore
+.php_cs
+.travis.yml
+Bundle.php
+EXSystQuickInstallBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

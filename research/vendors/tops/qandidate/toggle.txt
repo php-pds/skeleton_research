@@ -1,0 +1,9 @@
+examples/
+lib/Qandidate/Toggle/
+test/Qandidate/Toggle/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

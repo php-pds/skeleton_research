@@ -1,0 +1,11 @@
+bin/
+src/
+stub/
+tests/
+.gitignore
+.travis.yml
+box.json
+composer.json
+composer.lock
+phpunit.xml
+readme.md

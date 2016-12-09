@@ -1,0 +1,14 @@
+build_config/
+src/Oro/
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+UPGRADE-1.0.0-beta.2.md
+UPGRADE-1.0.0-beta.3.md
+UPGRADE-1.0.0-beta.4.md
+UPGRADE.md
+composer.json
+phpunit.xml.dist
+travis.php.ini

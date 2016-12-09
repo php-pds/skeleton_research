@@ -1,0 +1,7 @@
+public/
+src/FintechFab/Payments/RuRuPayment/
+tests/FintechFab/Payments/Test/
+.gitignore
+README.md
+composer.json
+phpunit.xml

@@ -1,0 +1,6 @@
+assets/
+Jsk.php
+JskAsset.php
+LICENSE
+SweetAlertAsset.php
+composer.json

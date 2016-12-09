@@ -1,0 +1,7 @@
+Controller/
+Model/
+Templates/
+MemberRegisterable.php
+OAuthBundle.php
+UserInfoFetcher.php
+composer.json

@@ -1,0 +1,8 @@
+bin/
+config/
+features/bootstrap/
+src/
+web/
+.gitignore
+Makefile
+composer.json

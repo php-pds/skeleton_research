@@ -1,0 +1,9 @@
+example/
+src/Nckg/ImageMe/
+tests/
+.gitignore
+.travis.yml
+LICENSE.txt
+composer.json
+phpunit.xml
+readme.md

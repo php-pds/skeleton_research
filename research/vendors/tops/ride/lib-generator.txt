@@ -1,0 +1,5 @@
+src/ride/library/generator/
+test/src/ride/library/generator/
+.gitignore
+README.md
+composer.json

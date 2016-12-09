@@ -1,0 +1,9 @@
+Controller/
+DependencyInjection/
+Entity/
+Factory/
+Resources/
+LICENSE
+README.md
+WellCommerceAppBundle.php
+composer.json

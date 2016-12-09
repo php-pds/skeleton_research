@@ -1,0 +1,11 @@
+assets/
+configs/
+controllers/admin/
+languages/
+libraries/
+views/elements/
+.gitignore
+LICENSE
+README.md
+composer.json
+uploader_details.php

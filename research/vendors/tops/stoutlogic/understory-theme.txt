@@ -1,0 +1,13 @@
+app/
+assets/
+gulp/
+.csscomb.json
+.eslintrc
+.gitignore
+README.md
+composer.json
+functions.php
+gulpfile.babel.js
+index.php
+package.json
+style.css

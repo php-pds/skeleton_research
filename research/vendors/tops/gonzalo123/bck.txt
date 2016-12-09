@@ -1,0 +1,6 @@
+app/
+src/
+www/
+.gitignore
+composer.json
+composer.lock

@@ -1,0 +1,11 @@
+src/DockerRegistryApi/
+tests/
+usage/
+.coveralls.yml
+.gitignore
+.travis.yml
+LICENSE
+Readme.md
+composer.json
+composer.lock
+phpspec.yml

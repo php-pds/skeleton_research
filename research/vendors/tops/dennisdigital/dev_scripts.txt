@@ -1,0 +1,6 @@
+scripts/
+.gitignore
+README.md
+autoload.php
+composer.json
+composer.lock

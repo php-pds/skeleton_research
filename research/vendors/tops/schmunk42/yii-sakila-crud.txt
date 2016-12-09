@@ -1,0 +1,8 @@
+controllers/
+migrations/
+models/
+views/
+README.md
+SakilaModule.php
+composer.json
+giic-config.php

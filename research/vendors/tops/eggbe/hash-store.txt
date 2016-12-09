@@ -1,0 +1,6 @@
+src/Eggbe/HashStore/
+.gitignore
+CHANGELOG
+LICENSE
+README.md
+composer.json

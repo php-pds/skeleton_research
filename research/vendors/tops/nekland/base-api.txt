@@ -1,0 +1,9 @@
+doc/
+lib/Nekland/BaseApi/
+spec/
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENSE
+Readme.md
+composer.json

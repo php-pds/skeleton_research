@@ -1,0 +1,7 @@
+Command/
+DependencyInjection/
+Resources/
+Service/
+KMJSyncBundle.php
+README.md
+composer.json

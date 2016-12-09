@@ -1,0 +1,11 @@
+_graphics/
+actions/
+languages/
+views/default/
+.gitignore
+CHANGES.txt
+README.md
+TODO.txt
+composer.json
+manifest.xml
+start.php

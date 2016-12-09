@@ -1,0 +1,5 @@
+config/
+src/ZfcUserListDoctrine/Mapper/
+Module.php
+README.md
+composer.json

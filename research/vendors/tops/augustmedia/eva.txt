@@ -1,0 +1,7 @@
+sender/
+src/Eva/
+.gitignore
+LICENSE.md
+README.md
+autoload.php
+composer.json

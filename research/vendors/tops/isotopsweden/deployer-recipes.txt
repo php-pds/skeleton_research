@@ -1,0 +1,6 @@
+recipes/
+.editorconfig
+README.md
+composer.json
+deployer.php
+functions.php

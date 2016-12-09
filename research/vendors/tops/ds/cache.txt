@@ -1,0 +1,10 @@
+Src/Cache/
+Tests/Cache/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+README.md
+autoload.php
+composer.json
+phpunit.xml
+travisphpconfig.ini

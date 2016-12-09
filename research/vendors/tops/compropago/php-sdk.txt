@@ -1,0 +1,6 @@
+CompropagoSdk/
+.gitignore
+CHANGELOG.md
+LICENSE
+README.md
+composer.json

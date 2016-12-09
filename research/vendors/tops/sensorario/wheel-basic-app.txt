@@ -1,0 +1,8 @@
+app/config/
+src/MyApi/
+web/
+.gitignore
+composer.json
+composer.lock
+fix-vendors
+readme.md

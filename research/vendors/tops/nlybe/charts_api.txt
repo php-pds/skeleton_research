@@ -1,0 +1,11 @@
+languages/
+lib/
+vendors/
+views/default/charts_api/
+CHANGELOG.md
+README.md
+activate.php
+composer.json
+manifest.xml
+start.php
+views.php

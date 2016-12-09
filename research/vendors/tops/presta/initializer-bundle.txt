@@ -1,0 +1,12 @@
+Command/
+DependencyInjection/
+Resources/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CHANGELOG.md
+CONTRIBUTING.md
+PrestaInitializerBundle.php
+README.md
+composer.json
+phpunit.xml.dist

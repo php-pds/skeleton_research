@@ -1,0 +1,5 @@
+conf/
+data/
+src/Search/Collection/Git/
+.gitignore
+composer.json

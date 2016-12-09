@@ -1,0 +1,5 @@
+wow/
+.gitattributes
+.gitignore
+README.md
+composer.json

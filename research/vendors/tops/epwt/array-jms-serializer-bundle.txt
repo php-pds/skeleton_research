@@ -1,0 +1,7 @@
+DependencyInjection/
+Resources/config/
+Visitor/
+.gitignore
+EPWTArrayJMSSerializerBundle.php
+README.md
+composer.json

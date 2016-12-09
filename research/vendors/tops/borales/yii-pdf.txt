@@ -1,0 +1,7 @@
+.gitignore
+CHANGELOG.md
+EYiiPdf.php
+LICENSE
+README.md
+README_RU.md
+composer.json

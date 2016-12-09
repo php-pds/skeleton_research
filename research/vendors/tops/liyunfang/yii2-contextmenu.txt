@@ -1,0 +1,7 @@
+assets/js/
+ContextmenuAsset.php
+KartikSerialColumn.php
+README.md
+SerialColumn.php
+SerialColumnTrait.php
+composer.json

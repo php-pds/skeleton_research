@@ -1,0 +1,7 @@
+Command/
+DependencyInjection/
+Deployer/
+Resources/config/
+README.md
+SeferovDeployerBundle.php
+composer.json

@@ -1,0 +1,14 @@
+bin/
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+GithubMarkdown.php
+LICENSE
+Makefile
+Markdown.php
+README.md
+README.pdf
+composer.json
+main.tex
+phpunit.xml.dist

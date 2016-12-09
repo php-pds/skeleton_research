@@ -1,0 +1,5 @@
+CacheTagsBundle/
+.gitignore
+LICENSE
+README.md
+composer.json

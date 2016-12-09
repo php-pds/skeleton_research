@@ -1,0 +1,8 @@
+config/
+database/migrations/
+src/
+.gitignore
+.styleci.yml
+LICENSE.txt
+README.md
+composer.json

@@ -1,0 +1,6 @@
+.gitignore
+README.md
+backbone.marionette.js
+backbone.marionette.map
+backbone.marionette.min.js
+composer.json

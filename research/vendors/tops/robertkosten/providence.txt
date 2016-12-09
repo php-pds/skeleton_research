@@ -1,0 +1,11 @@
+bin/
+defaults/
+src/
+test/
+.gitignore
+.providence
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock

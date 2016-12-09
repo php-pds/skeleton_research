@@ -1,0 +1,3 @@
+.gitignore
+KMap.php
+composer.json

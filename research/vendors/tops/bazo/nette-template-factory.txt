@@ -1,0 +1,5 @@
+src/Bazo/TemplateFactory/
+test/
+.gitignore
+composer.json
+composer.lock

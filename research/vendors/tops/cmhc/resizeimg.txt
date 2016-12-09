@@ -1,0 +1,6 @@
+images/
+.gitignore
+README.md
+ResizeImage.php
+composer.json
+use.php

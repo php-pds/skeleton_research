@@ -1,0 +1,11 @@
+Bus/
+Command/
+CommandHandler/
+Exception/
+Tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

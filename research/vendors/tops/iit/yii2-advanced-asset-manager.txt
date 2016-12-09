@@ -1,0 +1,4 @@
+.gitignore
+AdvancedAssetManager.php
+LICENSE.md
+composer.json

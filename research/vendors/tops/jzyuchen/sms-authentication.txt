@@ -1,0 +1,4 @@
+config/
+migrations/
+src/
+composer.json

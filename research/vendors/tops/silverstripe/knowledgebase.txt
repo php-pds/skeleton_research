@@ -1,0 +1,9 @@
+code/
+css/
+images/Rating/
+javascript/
+lang/
+templates/
+README.md
+_config.php
+composer.json

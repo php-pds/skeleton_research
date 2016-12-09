@@ -1,0 +1,8 @@
+lib/
+tests/
+.gitignore
+LICENSE.txt
+README.md
+bob_config.php
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,14 @@
+lib/
+setup @ fb7299f
+src/
+.gitignore
+.gitmodules
+AUTHORS.rst
+CHANGELOG
+LICENSE
+README.rst
+build.properties
+build.xml
+composer.json
+composer.lock
+phpunit.xml.dist

@@ -1,0 +1,17 @@
+Client/
+Connection/
+DataCollector/
+DependencyInjection/
+Event/
+EventListener/
+Exception/
+Point/
+Profile/
+Resources/
+.gitignore
+.scrutinizer.yml
+Events.php
+LICENSE
+README.md
+YproximiteInfluxDbPresetBundle.php
+composer.json

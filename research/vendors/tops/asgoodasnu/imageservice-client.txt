@@ -1,0 +1,10 @@
+DependencyInjection/
+Resources/config/
+Services/
+Tests/Services/
+.gitignore
+README.md
+WkImageServiceClient.php
+composer.json
+composer.lock
+phpunit.xml.dist

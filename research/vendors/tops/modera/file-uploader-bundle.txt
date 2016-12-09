@@ -1,0 +1,14 @@
+Contributions/
+Controller/
+DependencyInjection/
+Resources/
+Tests/
+Uploading/
+.gitignore
+.styleci.yml
+.travis.yml
+ModeraFileUploaderBundle.php
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

@@ -1,0 +1,8 @@
+config/
+src/CKEditorModule/
+vendor/CKEditor/src/
+.gitignore
+LICENSE
+Module.php
+README.md
+composer.json

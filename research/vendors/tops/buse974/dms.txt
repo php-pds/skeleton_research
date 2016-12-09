@@ -1,0 +1,12 @@
+bin/
+config/
+docs/api/
+src/Dms/
+tests/
+.gitignore
+.php_cs
+.travis.yml
+Module.php
+README.md
+composer.json
+phpunit.xml

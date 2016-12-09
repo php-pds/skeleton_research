@@ -1,0 +1,14 @@
+htdocs/
+nginx/
+scripts/
+tests/rspec/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+Vagrantfile
+composer.json
+composer.lock
+config-sample.yml
+gulpfile.js
+package.json

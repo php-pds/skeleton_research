@@ -1,0 +1,14 @@
+_config/
+admin/
+control/
+css/
+extension/
+model/
+scss/
+templates/Layout/
+thirdparty/facebook-php-sdk/
+.gitignore
+README.md
+changelog.md
+composer.json
+config.rb

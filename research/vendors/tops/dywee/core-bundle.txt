@@ -1,0 +1,17 @@
+.idea/
+Controller/
+DependencyInjection/
+Doctrine/DQL/
+Entity/
+Event/
+Form/Type/
+Model/
+Resources/
+Service/
+Tests/Controller/
+Traits/
+.gitignore
+DyweeCoreBundle.php
+DyweeCoreEvent.php
+README.md
+composer.json

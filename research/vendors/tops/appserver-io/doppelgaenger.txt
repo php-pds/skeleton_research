@@ -1,0 +1,12 @@
+src/
+tests/
+.gitignore
+.travis.yml
+CHANGELOG.md
+README.md
+bootstrap.php
+build.default.properties
+build.xml
+composer.json
+phpcs.xml
+phpunit.xml

@@ -1,0 +1,7 @@
+src/TakaakiMizuno/Smaregi/
+tests/TakaakiMizuno/Smaregi/
+.gitignore
+LICENSE
+README.md
+composer.json
+phpunit.xml

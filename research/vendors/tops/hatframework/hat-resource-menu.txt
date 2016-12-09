@@ -1,0 +1,6 @@
+src/
+tests/jsplugins/mobile/
+.gitattributes
+.gitignore
+autoload.php
+composer.json

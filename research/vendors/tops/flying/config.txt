@@ -1,0 +1,7 @@
+lib/Flying/Config/
+tests/Flying/Tests/
+.gitignore
+.travis.yml
+README.md
+composer.json
+phpunit.xml.dist

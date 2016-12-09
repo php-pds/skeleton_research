@@ -1,0 +1,8 @@
+src/Duality/
+tests/
+.gitignore
+.travis.yml
+README.md
+composer.json
+index.php
+phpunit.xml

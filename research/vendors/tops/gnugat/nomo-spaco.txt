@@ -1,0 +1,10 @@
+spec/Gnugat/NomoSpaco/File/
+src/Gnugat/NomoSpaco/
+test/
+.gitignore
+CHANGELOG.md
+CONTRIBUTING.md
+LICENSE
+README.md
+VERSIONING.md
+composer.json

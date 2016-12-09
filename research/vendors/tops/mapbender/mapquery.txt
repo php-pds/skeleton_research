@@ -1,0 +1,11 @@
+demo/
+lib/
+src/
+tests/
+.gitignore
+AUTHORS
+LICENSE
+README
+README.mdown
+THANKS
+composer.json

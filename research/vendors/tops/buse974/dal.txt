@@ -1,0 +1,12 @@
+bin/
+config/
+src/Dal/
+tests/
+.gitignore
+.php_cs
+.travis.yml
+LICENSE
+Module.php
+README.md
+composer.json
+phpunit.xml

@@ -1,0 +1,6 @@
+Config/
+Event/
+View/Helper/
+webroot/js/
+README.md
+composer.json

@@ -1,0 +1,11 @@
+DependencyInjection/
+Interfaces/
+Model/
+Resources/
+Service/
+.gitignore
+.rmt.yml
+CHANGELOG
+NSFlashBundle.php
+composer.json
+composer.lock

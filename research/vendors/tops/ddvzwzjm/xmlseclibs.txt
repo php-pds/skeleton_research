@@ -1,0 +1,11 @@
+src/XmlSecLibs/
+tests/
+.gitignore
+.travis.yml
+CHANGELOG.txt
+LICENSE
+LICENSE-RobRichards
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

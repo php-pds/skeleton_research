@@ -1,0 +1,8 @@
+app/
+bootstrap/
+config/
+public/
+vendor/
+.htaccess
+README.md
+composer.json

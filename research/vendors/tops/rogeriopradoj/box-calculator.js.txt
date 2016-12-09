@@ -1,0 +1,6 @@
+.gitignore
+README.md
+box-calculator-test.js
+box-calculator.js
+composer.json
+test.html

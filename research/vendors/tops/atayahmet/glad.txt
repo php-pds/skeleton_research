@@ -1,0 +1,9 @@
+docs/
+resource/
+src/Glad/
+tests/
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml

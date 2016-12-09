@@ -1,0 +1,10 @@
+bin/
+data/
+src/Kdyby/DoctrineMoney/
+tests/
+.gitattributes
+.gitignore
+.travis.yml
+README.md
+composer.json
+license.md

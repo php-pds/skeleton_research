@@ -1,0 +1,14 @@
+data/
+rules/
+src/
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+composer.phar
+php-cs-fixer
+phpunit.xml

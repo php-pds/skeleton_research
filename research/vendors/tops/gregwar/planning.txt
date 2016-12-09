@@ -1,0 +1,10 @@
+demo/
+.gitignore
+EmptyTimeSpan.php
+LICENSE
+Planning.php
+README.md
+Task.php
+TimeSpan.php
+autoload.php
+composer.json

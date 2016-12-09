@@ -1,0 +1,11 @@
+autoloads/
+classes/
+design/
+doc/changelogs/1.2/
+modules/websitetoolbar/
+settings/
+translations/
+LICENSE
+README
+composer.json
+extension.xml

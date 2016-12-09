@@ -1,0 +1,15 @@
+css/
+images/
+js/
+translations/
+upgrade/
+views/
+HomeSlide.php
+Readme.md
+ajax_homeslider.php
+composer.json
+config.xml
+homeslider.php
+index.php
+logo.gif
+logo.png

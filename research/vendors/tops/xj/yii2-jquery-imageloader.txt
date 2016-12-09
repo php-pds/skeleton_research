@@ -1,0 +1,4 @@
+assets/
+ImageLoaderAsset.php
+README.md
+composer.json

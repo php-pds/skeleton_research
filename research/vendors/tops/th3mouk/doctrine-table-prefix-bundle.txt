@@ -1,0 +1,12 @@
+DependencyInjection/
+Resources/config/
+Subscriber/
+Tests/DependencyInjection/
+.gitignore
+.php_cs
+.travis.yml
+LICENSE
+Makefile
+README.md
+Th3moukDoctrineTablePrefixBundle.php
+composer.json

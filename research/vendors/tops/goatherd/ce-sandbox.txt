@@ -1,0 +1,8 @@
+script/
+.gitignore
+LICENSE
+README.md
+TODO
+composer.json
+phing.xml
+phpunit.xml

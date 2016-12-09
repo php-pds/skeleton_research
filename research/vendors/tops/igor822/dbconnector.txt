@@ -1,0 +1,7 @@
+lib/DbConnector/
+src/ActiveOracle/
+.gitignore
+LICENSE
+README.md
+composer.json
+phpunit.xml

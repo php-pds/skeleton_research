@@ -1,0 +1,14 @@
+bin/
+features/
+spec/PHPCR/Shell/
+src/PHPCR/Shell/
+tests/
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+behat.yml
+box.json
+composer.json
+phpunit.xml.dist

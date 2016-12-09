@@ -1,0 +1,6 @@
+config/
+src/Log/Service/
+LICENSE
+Module.php
+README.md
+composer.json

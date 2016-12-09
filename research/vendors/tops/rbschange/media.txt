@@ -1,0 +1,15 @@
+actions/
+apache/
+arch/
+config/
+forms/editor/
+i18n/
+lib/
+patch/
+persistentdocument/
+setup/
+style/
+templates/
+webapp/www/media/frontoffice/
+LICENSE.txt
+change.xml

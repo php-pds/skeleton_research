@@ -1,0 +1,7 @@
+src/
+.gitignore
+README.md
+_bootstrap.php
+boxfile
+composer.json
+composer.lock

@@ -1,0 +1,10 @@
+src/
+.gitignore
+Makefile
+README.md
+composer.json
+doxygen.conf
+phpmd.xml
+phpunit.xml
+test.php
+watch.list

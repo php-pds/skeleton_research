@@ -1,0 +1,17 @@
+Controller/
+DependencyInjection/
+Entity/
+Form/Type/
+Manager/
+Model/
+Redirection/
+Resources/
+Schema/
+Table/Type/
+Transformer/
+Twig/
+Validator/Constraints/
+EkynaSettingBundle.php
+LICENSE
+README.md
+composer.json

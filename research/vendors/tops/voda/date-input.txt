@@ -1,0 +1,12 @@
+src/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+bower.json
+changeNetteVersion.sh
+composer.json
+dateInput.css
+dateInput.js
+makefile
+readme.md

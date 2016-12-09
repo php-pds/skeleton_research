@@ -1,0 +1,4 @@
+src/Gponster/Hashing/
+LICENSE
+README.md
+composer.json

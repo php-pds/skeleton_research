@@ -1,0 +1,6 @@
+lib/src/PorkChopSandwiches/Silex/Utilities/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,6 @@
+.gitignore
+CHANGELOG.md
+README.md
+composer.json
+object-cache.php
+readme.txt

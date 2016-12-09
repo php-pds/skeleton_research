@@ -1,0 +1,8 @@
+bin/
+default-templates/
+lib/Holograph/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json

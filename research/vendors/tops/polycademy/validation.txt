@@ -1,0 +1,4 @@
+examples/
+src/Polycademy/Validation/
+composer.json
+readme.md

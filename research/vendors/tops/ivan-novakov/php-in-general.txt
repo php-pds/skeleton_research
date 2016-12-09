@@ -1,0 +1,5 @@
+src/InGeneral/
+tests/
+.gitignore
+README.md
+composer.json

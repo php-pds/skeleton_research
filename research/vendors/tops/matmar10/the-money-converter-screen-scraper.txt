@@ -1,0 +1,8 @@
+src/Matmar10/TheMoneyConverter/ScreenScraper/
+tests/Matmar10/TheMoneyConverter/Tests/ExchangeRate/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

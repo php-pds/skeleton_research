@@ -1,0 +1,14 @@
+CompilerPass/
+DataFixtures/ORM/
+DependencyInjection/
+Resources/config/
+.coveralls.yml
+.editorconfig
+.gitignore
+.travis.yml
+CONTRIBUTING.md
+ElcodiCurrencyBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

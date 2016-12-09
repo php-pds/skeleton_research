@@ -1,0 +1,4 @@
+EAmoCRM.php
+LICENSE
+README.md
+composer.json

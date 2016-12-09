@@ -1,0 +1,5 @@
+DependencyInjection/
+Resources/config/
+Storage/
+BordeuxFileS3ProviderBundle.php
+composer.json

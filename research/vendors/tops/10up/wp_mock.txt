@@ -1,0 +1,13 @@
+features/
+php/
+tests/
+.gitignore
+.gitmodules
+.travis.yml
+CONTRIBUTING.md
+README.md
+behat.yml
+bootstrap.php.dist
+composer.json
+phpdoc.xml
+phpunit.xml.dist

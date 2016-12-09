@@ -1,0 +1,8 @@
+DependencyInjection/
+Factory/
+Library/
+.gitignore
+GWKMailjetBundle.php
+LICENSE
+README.md
+composer.json

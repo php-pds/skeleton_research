@@ -1,0 +1,14 @@
+app/
+features/
+src/
+vagrant/
+web/
+.gitignore
+.travis.yml
+LICENSE
+Makefile
+README.md
+README_REMOVE_CMS.md
+behat.yml
+build.xml
+composer.json

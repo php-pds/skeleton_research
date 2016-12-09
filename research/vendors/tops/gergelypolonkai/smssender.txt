@@ -1,0 +1,4 @@
+lib/GergelyPolonkai/SmsSender/
+.gitignore
+README.md
+composer.json

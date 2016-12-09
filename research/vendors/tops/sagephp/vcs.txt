@@ -1,0 +1,7 @@
+src/SagePHP/VCS/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock

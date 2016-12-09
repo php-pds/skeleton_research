@@ -1,0 +1,17 @@
+Console/
+Events/
+Matching/
+Controller.php
+ControllerDispatcher.php
+ControllerInspector.php
+ControllerServiceProvider.php
+Redirector.php
+ResourceRegistrar.php
+ResponseFactory.php
+Route.php
+RouteCollection.php
+RouteDependencyResolverTrait.php
+Router.php
+RoutingServiceProvider.php
+UrlGenerator.php
+composer.json

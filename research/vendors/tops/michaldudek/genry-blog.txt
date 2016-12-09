@@ -1,0 +1,8 @@
+src/
+.gitignore
+LICENSE.md
+Makefile
+README.md
+composer.json
+phpcs.xml
+phpmd.xml

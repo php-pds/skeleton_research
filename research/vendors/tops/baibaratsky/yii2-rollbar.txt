@@ -1,0 +1,10 @@
+console/
+log/
+web/
+.gitignore
+ErrorHandlerTrait.php
+LICENSE.md
+README.md
+Rollbar.php
+WithPayload.php
+composer.json

@@ -1,0 +1,6 @@
+system/modules/zzzFormCustomErrorText/
+.gitattributes
+.gitignore
+README.md
+composer.json
+screenshot.jpg

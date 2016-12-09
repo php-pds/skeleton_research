@@ -1,0 +1,10 @@
+src/BeyondIT/OCOK/
+tests/BeyondIT/OCOK/Tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+RoboFile.php
+composer.json
+ocok
+phpunit.xml.dist

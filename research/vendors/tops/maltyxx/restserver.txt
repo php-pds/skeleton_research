@@ -1,0 +1,8 @@
+config/
+core/
+libraries/
+nbproject/
+.gitignore
+README.md
+composer.json
+rest.sql

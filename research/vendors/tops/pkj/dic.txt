@@ -1,0 +1,6 @@
+examples/
+src/Pkj/DependencyInjector/
+.gitignore
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,5 @@
+assets/
+layouts/
+README.md
+changelog.txt
+composer.json

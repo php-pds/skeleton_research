@@ -1,0 +1,8 @@
+plugins/
+sysplugins/
+.htaccess
+Autoloader.php
+Smarty.class.php
+SmartyBC.class.php
+composer.json
+index.php

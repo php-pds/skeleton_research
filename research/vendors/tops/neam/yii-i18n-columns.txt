@@ -1,0 +1,7 @@
+behaviors/
+commands/
+tests/
+.gitignore
+README.md
+composer.json
+composer.lock

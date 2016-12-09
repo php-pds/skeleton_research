@@ -1,0 +1,7 @@
+config/
+resources/
+src/
+tests/
+README.md
+composer.json
+phpunit.xml

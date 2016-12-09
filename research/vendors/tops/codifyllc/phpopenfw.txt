@@ -1,0 +1,11 @@
+doc/
+examples/
+framework/
+samples/
+.gitignore
+Change_Log.txt
+LICENSE.txt
+README.md
+VERSION
+composer.json
+pharer.php

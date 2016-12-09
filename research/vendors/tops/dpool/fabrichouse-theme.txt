@@ -1,0 +1,7 @@
+etc/
+web/
+.gitignore
+README.md
+composer.json
+registration.php
+theme.xml

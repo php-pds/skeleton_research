@@ -1,0 +1,11 @@
+assets/
+controllers/
+views/
+.gitignore
+LICENSE.md
+README.md
+WebShellModule.php
+changelog.md
+composer.json
+readme_en.md
+readme_ru.md

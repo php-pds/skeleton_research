@@ -1,0 +1,17 @@
+Aggregator/
+Controller/
+Criterion/
+Data/
+DependencyInjection/
+Exception/
+Filter/
+Mediator/
+Renderer/
+Resources/
+Tests/Controller/
+Twig/
+DaStatBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

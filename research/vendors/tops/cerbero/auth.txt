@@ -1,0 +1,11 @@
+config/
+database/migrations/
+resources/lang/
+src/
+.gitattributes
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE.md
+README.md
+composer.json

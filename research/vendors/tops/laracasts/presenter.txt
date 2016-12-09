@@ -1,0 +1,8 @@
+spec/Laracasts/Presenter/
+src/Laracasts/Presenter/
+.gitignore
+.travis.yml
+LICENSE
+composer.json
+phpspec.yml
+readme.md

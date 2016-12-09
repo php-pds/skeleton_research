@@ -1,0 +1,17 @@
+admin/
+grunt/
+inc/
+js/
+languages/
+svn-assets/
+.gitignore
+.jscsrc
+.jshintrc
+Gruntfile.js
+composer.json
+composer.lock
+package.json
+phpcs.xml
+readme.md
+readme.txt
+yoast-comment-hacks.php

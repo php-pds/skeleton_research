@@ -1,0 +1,12 @@
+src/
+test/
+.coveralls.yml
+.gitignore
+.travis.yml
+LICENSE
+README.md
+clover.xml
+composer.json
+composer.lock
+phpunit-xdebug
+phpunit.xml.dist

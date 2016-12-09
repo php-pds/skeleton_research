@@ -1,0 +1,7 @@
+lib/Jamm/Memory/
+test/
+vendors/Jamm/
+.gitignore
+README.md
+composer.json
+demo.php

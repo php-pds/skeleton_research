@@ -1,0 +1,15 @@
+DependencyInjection/
+Document/
+Entity/
+Modifier/
+Resources/
+Service/
+Tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+ONGROXIDConnectorBundle.php
+README.rst
+composer.json
+phpunit.xml.dist

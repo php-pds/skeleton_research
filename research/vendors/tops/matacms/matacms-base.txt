@@ -1,0 +1,17 @@
+actions/
+base/
+clients/
+console/
+controllers/
+db/
+filters/
+helpers/
+interfaces/
+tests/
+validators/
+views/module/
+web/
+widgets/
+README.md
+codeception.yml
+composer.json

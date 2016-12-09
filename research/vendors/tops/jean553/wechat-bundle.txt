@@ -1,0 +1,14 @@
+DependencyInjection/
+Logic/
+Resources/
+Services/
+Tests/
+Traits/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+WechatBundle.php
+composer.json
+phpunit.xml.dist

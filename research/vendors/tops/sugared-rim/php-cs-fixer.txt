@@ -1,0 +1,10 @@
+src/
+tests/
+.codeclimate.yml
+.gitattributes
+.gitignore
+.travis.yml
+composer.json
+license
+readme.md
+sugared-rim-php-cs-fixer

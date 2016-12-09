@@ -1,0 +1,14 @@
+.idea/
+build/
+mockolate-unit-test/
+mockolate/
+.actionScriptProperties
+.flexLibProperties
+.gitignore
+.project
+ISSUES.md
+LICENSE
+README.md
+build.xml
+composer.json
+pom.xml

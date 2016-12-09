@@ -1,0 +1,15 @@
+Classes/
+Configuration/
+Documentation/
+Resources/
+Tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+README.md
+composer.json
+ext_emconf.php
+ext_icon.gif
+ext_localconf.php
+ext_tables.php
+ext_tables.sql

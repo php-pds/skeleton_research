@@ -1,0 +1,6 @@
+icons/
+src/
+test/
+.gitignore
+composer.json
+package.xml

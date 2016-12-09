@@ -1,0 +1,6 @@
+src/Lifeentity/Eloquent/
+tests/
+.gitignore
+.travis.yml
+composer.json
+phpunit.xml

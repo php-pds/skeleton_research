@@ -1,0 +1,7 @@
+DependencyInjection/
+Event/
+Resources/
+.gitignore
+CodemitteForceToolkitBundle.php
+README.md
+composer.json

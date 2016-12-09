@@ -1,0 +1,7 @@
+Classes/Shel/NeosBase/
+Configuration/
+Documentation/
+Resources/Private/
+LICENSE.txt
+README.md
+composer.json

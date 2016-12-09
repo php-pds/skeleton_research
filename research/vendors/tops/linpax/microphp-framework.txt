@@ -1,0 +1,11 @@
+src/
+tests/
+vendor/
+.codeclimate.yml
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+composer.json
+run_tests.sh

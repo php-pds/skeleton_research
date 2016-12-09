@@ -1,0 +1,6 @@
+jqvmap/
+samples/
+.gitignore
+LICENSE
+README.md
+composer.json

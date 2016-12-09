@@ -1,0 +1,17 @@
+.github/
+bootstrap/
+ide/
+resources/
+scripts/Phalcon/
+templates/
+.gitignore
+CONTRIBUTING.md
+LICENSE.txt
+README.md
+box.json
+composer.json
+phalcon-completion.bash
+phalcon.bat
+phalcon.php
+phalcon.sh
+webtools.php

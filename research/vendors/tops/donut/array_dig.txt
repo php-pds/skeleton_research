@@ -1,0 +1,7 @@
+test/
+.gitignore
+array_dig.php
+composer.json
+composer.lock
+phpunit.xml
+readme.md

@@ -1,0 +1,9 @@
+tests/
+.gitignore
+.travis.yml
+Edge.php
+EdgeEvent.php
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

@@ -1,0 +1,10 @@
+example/
+src/DiscordBotBuilder/
+tests/DiscordBotBuilder/
+utils/
+.gitignore
+README.md
+composer.json
+composer.lock
+composer.phar
+phpunit.xml

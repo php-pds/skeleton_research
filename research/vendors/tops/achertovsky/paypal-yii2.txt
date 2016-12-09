@@ -1,0 +1,11 @@
+components/
+controllers/
+js/
+migrations/
+models/
+views/backend/payment/
+Module.php
+PaypalAsset.php
+README.md
+README.md~
+composer.json

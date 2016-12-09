@@ -1,0 +1,8 @@
+config/
+database/
+public/LFE/
+resources/
+src/
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,14 @@
+build/
+src/phlop/
+tests/
+.gitignore
+.semver
+build.xml
+composer.json
+composer.lock
+phlop
+phlop.json
+phpcs.xml
+phpdox.xml
+phploc.xml
+phpmd.xml

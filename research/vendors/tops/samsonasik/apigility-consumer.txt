@@ -1,0 +1,12 @@
+bin/
+build/logs/
+config/
+spec/
+src/
+.coveralls.yml
+.gitignore
+.travis.yml
+CONTRIBUTING.md
+LICENSE
+README.md
+composer.json

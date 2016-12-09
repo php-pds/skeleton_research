@@ -1,0 +1,3 @@
+GalleryBehavior.php
+LICENSE
+composer.json

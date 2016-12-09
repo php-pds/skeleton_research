@@ -1,0 +1,6 @@
+assets/
+traits/
+CHANGELOG.md
+README.md
+Widget.php
+composer.json

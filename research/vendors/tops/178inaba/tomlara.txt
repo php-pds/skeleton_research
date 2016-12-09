@@ -1,0 +1,7 @@
+src/Inaba/
+tests/
+.gitattributes
+.gitignore
+LICENSE
+README.md
+composer.json

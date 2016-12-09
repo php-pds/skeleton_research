@@ -1,0 +1,16 @@
+Abstracts/
+CompilerPass/Abstracts/
+Container/Traits/
+DataFixtures/ORM/Abstracts/
+DependencyInjection/
+Resources/config/
+.coveralls.yml
+.editorconfig
+.gitignore
+.travis.yml
+CONTRIBUTING.md
+ElcodiCoreBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

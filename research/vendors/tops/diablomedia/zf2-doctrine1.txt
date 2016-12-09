@@ -1,0 +1,10 @@
+config/
+src/Doctrine1/
+tests/
+.gitignore
+.travis.yml
+Module.php
+README.md
+autoload_classmap.php
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,5 @@
+migrations/
+LICENSE
+README.md
+Settings.php
+composer.json

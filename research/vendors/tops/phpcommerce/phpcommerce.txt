@@ -1,0 +1,12 @@
+app/
+src/PHPCommerce/
+web/
+.coveralls.yml
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+composer.phar
+phpunit.xml

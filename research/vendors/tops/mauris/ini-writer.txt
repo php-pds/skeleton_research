@@ -1,0 +1,5 @@
+src/Mauris/Ini/
+test/
+.gitignore
+.travis.yml
+composer.json

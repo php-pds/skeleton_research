@@ -1,0 +1,4 @@
+yii/redactor/
+LICENSE
+README.md
+composer.json

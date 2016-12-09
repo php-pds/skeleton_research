@@ -1,0 +1,7 @@
+Command/
+themes/lyrixx/
+.gitignore
+README.md
+SamiConfiguration.php
+SamiExtension.php
+composer.json

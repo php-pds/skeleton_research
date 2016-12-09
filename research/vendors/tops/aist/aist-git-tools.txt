@@ -1,0 +1,13 @@
+config/
+data/docs/
+src/
+test/
+view/zend-developer-tools/toolbar/
+.formatter.yml
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENSE.txt
+README.md
+composer.json
+phpunit.xml.dist

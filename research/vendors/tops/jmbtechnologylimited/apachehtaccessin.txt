@@ -1,0 +1,7 @@
+bin/
+src/JMBTechnologyLimited/ApacheHtaccessIn/
+tests/
+.travis.yml
+LICENSE.txt
+README.md
+composer.json

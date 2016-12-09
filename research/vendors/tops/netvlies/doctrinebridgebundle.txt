@@ -1,0 +1,8 @@
+DependencyInjection/
+Listener/
+Mapping/
+Resources/config/
+LICENSE
+NetvliesDoctrineBridgeBundle.php
+README.md
+composer.json

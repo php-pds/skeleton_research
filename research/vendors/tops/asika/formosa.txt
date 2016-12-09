@@ -1,0 +1,9 @@
+bin/
+etc/
+resources/
+src/
+templates/
+www/
+.gitignore
+README.md
+composer.json

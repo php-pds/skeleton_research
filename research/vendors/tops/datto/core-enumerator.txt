@@ -1,0 +1,5 @@
+src/Core/
+.gitignore
+COPYING
+README.md
+composer.json

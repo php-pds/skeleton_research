@@ -1,0 +1,14 @@
+bin/
+docs/
+example/
+info/sql/
+src/
+tests/
+.gitignore
+Envy.json
+Gentry.json
+LICENSE
+README.md
+composer.json
+mkdocs.yml
+phpunit.xml

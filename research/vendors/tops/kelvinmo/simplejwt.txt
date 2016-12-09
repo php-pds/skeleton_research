@@ -1,0 +1,12 @@
+bin/
+build/
+src/SimpleJWT/
+tests/
+.gitignore
+.travis.yml
+CHANGELOG.md
+COPYING.txt
+README.md
+build.xml
+composer.json
+phpunit.xml.dist

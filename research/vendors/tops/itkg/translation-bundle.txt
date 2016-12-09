@@ -1,0 +1,13 @@
+Command/
+DependencyInjection/
+Extractor/
+Resources/config/
+Tests/
+Writer/
+.scrutinizer.yml
+.travis.yml
+ItkgTranslationBundle.php
+Licence.md
+README.md
+composer.json
+phpunit.xml.dist

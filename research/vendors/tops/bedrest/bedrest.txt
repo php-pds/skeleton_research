@@ -1,0 +1,10 @@
+library/BedRest/
+tests/
+vendor/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+build.properties
+build.xml
+composer.json

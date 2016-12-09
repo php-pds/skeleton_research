@@ -1,0 +1,14 @@
+Exceptions/
+Tests/
+examples/
+.gitignore
+.travis.yml
+CHANGELOG.md
+Event.php
+EventBase.php
+EventBasic.php
+EventBuffer.php
+LICENSE.md
+README.md
+composer.json
+phpunit.xml.dist

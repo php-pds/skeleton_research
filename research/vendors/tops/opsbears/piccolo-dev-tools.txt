@@ -1,0 +1,12 @@
+.idea/
+bin/
+src/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CONTRIBUTING.md
+LICENCE.md
+build.xml
+composer.json
+phpmd.xml
+phpunit.xml

@@ -1,0 +1,6 @@
+lib/Skeleton/Package/Login/Web/Module/
+media/
+po/
+template/
+README.md
+composer.json

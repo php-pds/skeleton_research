@@ -1,0 +1,13 @@
+Examples/
+SourceQuery/
+Tests/
+.codeclimate.sh
+.codeclimate.yml
+.editorconfig
+.gitattributes
+.gitignore
+.travis.yml
+CONTRIBUTING.md
+LICENSE
+README.md
+composer.json

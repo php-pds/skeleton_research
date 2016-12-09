@@ -1,0 +1,7 @@
+Core/Validator/
+test/
+.drone.yml
+.gitignore
+Makefile
+README.md
+composer.json

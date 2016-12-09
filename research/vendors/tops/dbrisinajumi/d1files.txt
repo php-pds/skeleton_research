@@ -1,0 +1,11 @@
+compnents/
+controllers/
+messages/lv/
+migrations/
+models/
+views/
+widgets/
+D1filesModule.php
+README.md
+composer.json
+translation.php

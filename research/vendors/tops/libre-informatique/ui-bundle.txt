@@ -1,0 +1,8 @@
+DataFixtures/ORM/
+DependencyInjection/
+Resources/
+Tests/
+Twig/Extension/
+LibrinfoUIBundle.php
+README.md
+composer.json

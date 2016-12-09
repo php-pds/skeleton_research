@@ -1,0 +1,6 @@
+public/vendor/jquery.forms/
+src/
+.gitignore
+README.md
+composer.json
+sami_docs.php

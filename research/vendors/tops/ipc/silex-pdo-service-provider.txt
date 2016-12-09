@@ -1,0 +1,4 @@
+src/Provider/
+.gitignore
+README.rst
+composer.json

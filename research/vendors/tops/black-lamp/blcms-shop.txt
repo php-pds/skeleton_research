@@ -1,0 +1,10 @@
+backend/
+common/
+frontend/
+migrations/
+widgets/
+.gitignore
+LICENSE
+README.md
+UrlRule.php
+composer.json

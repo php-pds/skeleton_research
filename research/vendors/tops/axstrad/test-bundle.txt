@@ -1,0 +1,9 @@
+Functional/
+.coveralls.yml
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+Readme.md
+composer.json
+phpunit.xml.dist

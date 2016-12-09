@@ -1,0 +1,10 @@
+tests/
+.gitignore
+AbstractPacker.php
+CssPacker.php
+DummyPacker.php
+JShrinkFilter.php
+JsPacker.php
+README.md
+composer.json
+phpunit.xml

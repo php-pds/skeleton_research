@@ -1,0 +1,8 @@
+src/Vluzrmos/SlackApi/
+tests/
+.gitignore
+.php_cs
+.travis.yml
+composer.json
+phpunit.xml
+readme.md

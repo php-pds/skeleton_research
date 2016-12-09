@@ -1,0 +1,8 @@
+resources/docs/
+src/
+tests/
+.gitattributes
+.travis.yml
+README.md
+composer.json
+phpunit.xml.dist

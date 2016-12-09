@@ -1,0 +1,5 @@
+src/Filipac/Searchable/
+LICENSE.txt
+README.md
+composer.json
+searchable.jpg

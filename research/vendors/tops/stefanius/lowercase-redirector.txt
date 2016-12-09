@@ -1,0 +1,8 @@
+src/Stefanius/LowerCaseRedirectorBundle/
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+README.MD
+composer.json
+phpunit.xml.dist

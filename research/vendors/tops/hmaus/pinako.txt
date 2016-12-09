@@ -1,0 +1,17 @@
+src--api-description/
+src--parse-result/
+src--refract-spec/
+src/
+tests--parse-result/
+tests--refract-spec/
+tests/
+.codeclimate.yml
+.gitignore
+.travis.yml
+CHANGELOG.md
+CONTRIBUTING.md
+LICENSE
+README.md
+RoboFile.php
+composer.json
+phpunit.xml.dist

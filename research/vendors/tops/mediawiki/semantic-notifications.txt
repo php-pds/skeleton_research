@@ -1,0 +1,17 @@
+docs/
+i18n/
+res/
+src/
+tests/
+.gitignore
+.gitreview
+.scrutinizer.yml
+.travis.yml
+COPYING
+ISSUE_TEMPLATE.md
+README.md
+SemanticNotifications.php
+composer.json
+phpcs.xml
+phpmd.xml
+phpunit.xml.dist

@@ -1,0 +1,11 @@
+Controller/
+DependencyInjection/
+Resources/config/
+doc/
+.gitignore
+CHANGELOG.md
+GikoImageBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

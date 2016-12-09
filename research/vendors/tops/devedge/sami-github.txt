@@ -1,0 +1,10 @@
+layout/
+pages/
+test/
+.gitignore
+CONTRIBUTING.md
+LICENSE
+README.md
+composer.json
+macros.twig
+manifest.yml

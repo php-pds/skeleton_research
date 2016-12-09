@@ -1,0 +1,7 @@
+src/Anthill/Phalcon/MonologModule/
+tests/Anthill/Phalcon/MonologModule/
+.gitignore
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

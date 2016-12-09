@@ -1,0 +1,17 @@
+_config/
+cache/
+src/
+tests/
+.gitignore
+.htaccess
+.php_cs
+.sami
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+_config.php
+composer.json
+composer.lock
+main.php
+phpunit.xml.dist

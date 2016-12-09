@@ -1,0 +1,10 @@
+Classes/
+Configuration/
+Documentation/
+Migrations/Code/
+Resources/Private/
+Scripts/
+Tests/
+.gitignore
+Readme.rst
+composer.json

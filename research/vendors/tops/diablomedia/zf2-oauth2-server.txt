@@ -1,0 +1,10 @@
+config/
+src/OAuth2Server/
+view/
+.gitignore
+.php_cs
+.styleci.yml
+LICENSE.md
+Module.php
+README.md
+composer.json

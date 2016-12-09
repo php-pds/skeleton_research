@@ -1,0 +1,5 @@
+src/Whsuite/Money/
+.gitignore
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,6 @@
+examples/
+src/SetaPDF/Signer/CoSign/
+.gitattributes
+.gitignore
+README.md
+composer.json

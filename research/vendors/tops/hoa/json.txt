@@ -1,0 +1,8 @@
+Test/Integration/
+.Mime
+.State
+.gitignore
+CHANGELOG.md
+Grammar.pp
+README.md
+composer.json

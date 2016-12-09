@@ -1,0 +1,10 @@
+Admin/
+Controller/
+DependencyInjection/
+Entity/
+Form/
+Resources/
+Tests/Controller/
+.gitignore
+YitPollBundle.php
+composer.json

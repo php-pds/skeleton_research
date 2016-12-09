@@ -1,0 +1,7 @@
+resources/i18n/
+sql/
+src/
+LICENSE
+README.md
+composer.json
+extension.json

@@ -1,0 +1,6 @@
+DependencyInjection/
+Form/
+Resources/config/
+GliferyEntityHiddenTypeBundle.php
+README.md
+composer.json

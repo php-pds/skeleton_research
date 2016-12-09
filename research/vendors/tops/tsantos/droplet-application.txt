@@ -1,0 +1,7 @@
+app/
+src/App/Controller/
+web/
+.gitignore
+.travis.yml
+README.md
+composer.json

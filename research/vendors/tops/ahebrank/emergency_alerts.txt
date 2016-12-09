@@ -1,0 +1,12 @@
+config/
+js/
+src/
+templates/
+README.md
+composer.json
+emergency_alerts.info.yml
+emergency_alerts.libraries.yml
+emergency_alerts.links.menu.yml
+emergency_alerts.module
+emergency_alerts.permissions.yml
+emergency_alerts.routing.yml

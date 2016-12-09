@@ -1,0 +1,6 @@
+contao/
+src/Module/
+.gitignore
+LICENSE
+README.md
+composer.json

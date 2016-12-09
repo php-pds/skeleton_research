@@ -1,0 +1,10 @@
+cache/
+code/
+css/
+js/
+resources/
+.gitignore
+LICENSE
+README.md
+_config.php
+composer.json

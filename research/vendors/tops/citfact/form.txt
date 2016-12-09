@@ -1,0 +1,13 @@
+docs/
+install/
+lang/ru/install/
+lib/Citfact/Form/
+tests/
+.gitignore
+.php_cs
+LICENSE
+README.md
+composer.json
+default_option.php
+include.php
+phpunit.xml.dist

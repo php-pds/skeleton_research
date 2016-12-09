@@ -1,0 +1,4 @@
+src/Omnipay/Tests/
+.gitignore
+LICENSE
+composer.json

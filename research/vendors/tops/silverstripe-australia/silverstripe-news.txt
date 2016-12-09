@@ -1,0 +1,9 @@
+code/pages/
+images/
+templates/
+.scrutinizer.yml
+CHANGELOG
+LICENSE
+README.md
+_config.php
+composer.json

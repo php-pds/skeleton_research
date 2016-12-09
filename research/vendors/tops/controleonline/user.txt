@@ -1,0 +1,8 @@
+config/
+src/User/
+view/user/default/
+.gitignore
+.travis.yml
+Module.php
+README.md
+composer.json

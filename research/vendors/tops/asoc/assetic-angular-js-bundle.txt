@@ -1,0 +1,9 @@
+Angular/
+Assetic/Filter/
+DependencyInjection/
+Resources/config/
+.gitignore
+AsocAsseticAngularJsBundle.php
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,10 @@
+_config/
+code/
+templates/
+.editorconfig
+.gitattributes
+.gitignore
+.scrutinizer.yml
+LICENSE.md
+README.md
+composer.json

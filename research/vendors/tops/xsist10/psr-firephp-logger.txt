@@ -1,0 +1,5 @@
+src/Xsist10/PsrFirePhpLogger/
+.gitignore
+LICENSE
+README.md
+composer.json

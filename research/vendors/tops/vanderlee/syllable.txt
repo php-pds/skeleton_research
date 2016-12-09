@@ -1,0 +1,12 @@
+classes/
+doc/
+languages/
+tests/
+.gitignore
+.travis.yml
+README.md
+TODO.md
+composer.json
+demo.php
+index.html
+phpunit.xml

@@ -1,0 +1,10 @@
+res/config/
+src/
+tests/
+.gitattributes
+.gitignore
+CONTRIBUTING.md
+LICENSE
+README.md
+composer.json
+puli.json

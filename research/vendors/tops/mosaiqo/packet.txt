@@ -1,0 +1,11 @@
+app/
+config/
+resources/templates/
+.gitignore
+CHANGELOG.md
+CONTRIBUTING.md
+LICENSE.md
+README.md
+composer.json
+composer.lock
+phpunit.xml

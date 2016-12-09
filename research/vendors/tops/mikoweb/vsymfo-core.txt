@@ -1,0 +1,17 @@
+Caller/
+Collection/
+Controller/Interfaces/
+Crud/
+DataFixtures/
+Entity/
+File/
+Manager/
+Menu/
+Security/Authorization/Voter/
+Traits/
+ApplicationPaths.php
+Controller.php
+FileLoaderAbstract.php
+LICENSE
+README.md
+composer.json

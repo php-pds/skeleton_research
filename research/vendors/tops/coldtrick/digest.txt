@@ -1,0 +1,13 @@
+_graphics/
+actions/
+languages/
+lib/
+pages/
+procedures/
+views/default/
+views_alt/default/
+CHANGES.txt
+README.md
+composer.json
+manifest.xml
+start.php

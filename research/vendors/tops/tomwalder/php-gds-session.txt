@@ -1,0 +1,7 @@
+examples/
+src/GDS/Session/
+.gitignore
+LICENSE
+README.md
+app.yaml
+composer.json

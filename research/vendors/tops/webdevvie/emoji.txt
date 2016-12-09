@@ -1,0 +1,7 @@
+.gitattributes
+.gitignore
+CHEATSHEET.md
+Emoji.php
+LICENSE
+README.md
+composer.json

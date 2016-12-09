@@ -1,0 +1,14 @@
+Config/
+Console/Command/
+Event/
+Lib/
+Test/Case/
+docs/
+.editorconfig
+.scrutinizer.yml
+.semver
+.travis.yml
+CONTRIBUTING.markdown
+LICENSE.txt
+README.md
+composer.json

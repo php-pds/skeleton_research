@@ -1,0 +1,10 @@
+bin/
+example/
+migrations/
+public/js/lib/notifications/
+src/Notifications/
+tests/
+.gitignore
+composer.json
+phpunit.xml
+readme.md

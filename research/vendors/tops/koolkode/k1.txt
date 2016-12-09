@@ -1,0 +1,13 @@
+bind/
+config/
+example/
+src/
+test/
+.gitattributes
+.gitignore
+.travis.yml
+LICENSE
+README.md
+Vagrantfile
+composer.json
+provision.sh

@@ -1,0 +1,15 @@
+.travis/
+Annotation/
+DependencyInjection/
+Exception/
+Listener/
+Resources/config/
+Tests/
+.gitignore
+.travis.yml
+CONTRIBUTING.md
+GitHubWebHookBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

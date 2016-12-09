@@ -1,0 +1,9 @@
+classes/Facade/
+tests/
+.gitignore
+LICENSE
+composer.json
+composer.lock
+readme.md
+test-http.php
+test-s3.php

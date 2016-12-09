@@ -1,0 +1,10 @@
+DependencyInjection/
+Resources/config/
+Service/
+.coveralls.yml
+.gitignore
+.travis.yml
+LICENSE
+MhorMediaInfoBundle.php
+README.md
+composer.json

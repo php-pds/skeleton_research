@@ -1,0 +1,5 @@
+.gitignore
+AMQP.php
+LICENSE
+composer.json
+ruleset.xml

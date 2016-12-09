@@ -1,0 +1,4 @@
+.editorconfig
+InlineCSS.php
+README.md
+composer.json

@@ -1,0 +1,11 @@
+src/
+.editorconfig
+.gitattributes
+.gitignore
+.styleci.yml
+.travis.yml
+composer.json
+composer.lock
+phpcs.xml
+readme.md
+tagmeo

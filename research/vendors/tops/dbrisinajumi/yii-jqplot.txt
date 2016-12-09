@@ -1,0 +1,6 @@
+assets/
+.gitignore
+JqplotGraphWidget.php
+JqplotWidget.php
+README.md
+composer.json

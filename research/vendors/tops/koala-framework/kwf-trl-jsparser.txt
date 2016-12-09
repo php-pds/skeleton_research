@@ -1,0 +1,8 @@
+Kwf/TrlJsParser/
+tests/Kwf/Parser/
+.gitignore
+.travis.yml
+composer.json
+composer.lock
+phpunit.xml
+tests.bootstrap.php

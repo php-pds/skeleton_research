@@ -1,0 +1,12 @@
+css/
+images/
+src/
+test/
+.gitignore
+README.md
+algorithms.json
+assets.json
+composer.json
+composer.lock
+currencies.json
+phpunit.xml

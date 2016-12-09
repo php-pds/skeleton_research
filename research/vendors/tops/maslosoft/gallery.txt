@@ -1,0 +1,8 @@
+css/
+dist/
+js/
+src/
+.gitignore
+Gruntfile.coffee
+composer.json
+package.json

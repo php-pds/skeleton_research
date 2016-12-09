@@ -1,0 +1,10 @@
+config/
+public/
+src/
+view/stickem-container/
+.gitignore
+.travis.yml
+LICENSE.txt
+Module.php
+README.md
+composer.json

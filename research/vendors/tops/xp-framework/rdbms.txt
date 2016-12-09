@@ -1,0 +1,7 @@
+src/
+.travis.yml
+ChangeLog.md
+README.md
+appveyor.yml
+class.pth
+composer.json

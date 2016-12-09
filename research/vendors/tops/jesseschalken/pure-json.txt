@@ -1,0 +1,9 @@
+.idea/
+.gitignore
+JSON.php
+JSONTest.php
+README.md
+composer.json
+composer.lock
+php_compat.php
+phpunit.xml

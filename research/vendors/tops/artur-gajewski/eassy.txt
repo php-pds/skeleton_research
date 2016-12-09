@@ -1,0 +1,9 @@
+output/
+src/Eassy/
+templates/
+.gitignore
+LICENSE
+README.md
+composer.json
+eassy.php
+settings.json-dist

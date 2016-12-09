@@ -1,0 +1,12 @@
+docs/
+library/Respect/Relational/
+tests/library/Respect/Relational/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CONTRIBUTING.md
+LICENSE.md
+README.md
+composer.json
+couscous.yml
+phpunit.xml.dist

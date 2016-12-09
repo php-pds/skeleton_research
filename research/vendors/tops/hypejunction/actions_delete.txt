@@ -1,0 +1,12 @@
+actions/entity/
+languages/
+.gitattributes
+.gitignore
+CHANGELOG.md
+Gruntfile.js
+README.md
+composer.json
+manifest.xml
+package.json
+release.md
+start.php

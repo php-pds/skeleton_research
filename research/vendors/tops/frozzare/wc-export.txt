@@ -1,0 +1,15 @@
+assets/
+languages/
+src/
+tests/
+.editorconfig
+.gitignore
+.travis.yml
+LICENSE
+Makefile
+README.md
+composer.json
+package.json
+phpcs.xml
+phpunit.xml.dist
+plugin.php

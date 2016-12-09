@@ -1,0 +1,11 @@
+code/
+docs/
+tests/
+.gitignore
+_config.php
+code-of-conduct.md
+composer.json
+composer.lock
+contributing.md
+license.md
+readme.md

@@ -1,0 +1,7 @@
+src/
+test/
+.gitignore
+COPYING
+COPYING.LESSER
+README.md
+composer.json

@@ -1,0 +1,8 @@
+bin/
+etc/
+factory/
+var/
+.gitignore
+README.md
+composer.json
+func.php

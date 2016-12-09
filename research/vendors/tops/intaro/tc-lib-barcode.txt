@@ -1,0 +1,14 @@
+example/
+resources/
+src/
+test/
+.gitignore
+LICENSE.TXT
+README.md
+RELEASE
+VERSION
+composer.json
+composer.lock
+makefile
+phpcompatinfo.json
+phpunit.xml.dist

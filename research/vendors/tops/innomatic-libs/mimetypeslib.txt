@@ -1,0 +1,5 @@
+build/
+core/classes/mimetypes/
+extras/
+setup/
+composer.json

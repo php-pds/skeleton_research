@@ -1,0 +1,15 @@
+bin/
+src/Payum/Server/
+tests/
+web/
+.gitignore
+.travis.yml
+Dockerfile
+LICENSE
+Makefile
+README.md
+composer.json
+composer.lock
+docker-compose.yml
+docker-entrypoint.sh
+phpunit.xml.dist

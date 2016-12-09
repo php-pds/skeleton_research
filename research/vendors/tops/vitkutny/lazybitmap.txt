@@ -1,0 +1,11 @@
+Effect/
+Operation/
+Bitmap.php
+ColorBitmap.php
+Exception.php
+ILazyBitmap.php
+ImageBitmap.php
+Pixel.php
+README.md
+SquareBitmap.php
+composer.json

@@ -1,0 +1,11 @@
+bin/
+src/RainbowPHP/
+tests/RainbowPHP/Tests/
+.gitignore
+CHANGELOG.md
+LICENSE.txt
+Readme.md
+TODO
+bootstrap.php
+composer.json
+composer.lock

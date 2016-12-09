@@ -1,0 +1,12 @@
+src/
+tests/PHPUnit/
+.gitignore
+CHANGELOG.md
+LICENSE
+README.md
+composer.json
+composer.lock
+elastic-facets.php
+humbug.json.dist
+phive.xml
+phpunit.xml.dist

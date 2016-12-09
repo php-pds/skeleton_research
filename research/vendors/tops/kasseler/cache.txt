@@ -1,0 +1,7 @@
+Adapter/
+Exception/
+.gitignore
+Cache.php
+CacheElement.php
+composer.json
+readme.md

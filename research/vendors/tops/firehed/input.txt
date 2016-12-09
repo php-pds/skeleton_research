@@ -1,0 +1,8 @@
+src/
+tests/
+.arcconfig
+.editorconfig
+.gitignore
+README.md
+composer.json
+composer.lock

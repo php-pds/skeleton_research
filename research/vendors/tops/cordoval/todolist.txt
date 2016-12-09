@@ -1,0 +1,9 @@
+lib/Fazer/
+tests/
+.gitattributes
+.gitignore
+.travis.yml
+LICENSE
+Readme.md
+composer.json
+phpunit.xml.dist

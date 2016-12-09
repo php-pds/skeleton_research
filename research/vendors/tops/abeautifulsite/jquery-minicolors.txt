@@ -1,0 +1,13 @@
+.gitignore
+bower.json
+component.json
+composer.json
+config.codekit
+index.html
+jquery.minicolors.css
+jquery.minicolors.js
+jquery.minicolors.min.js
+jquery.minicolors.png
+package.json
+readme.md
+without-bootstrap.html

@@ -1,0 +1,8 @@
+src/
+test/
+.gitignore
+.scrutinizer.yml
+bin
+composer.json
+composer.lock
+phpunit.xml.dist

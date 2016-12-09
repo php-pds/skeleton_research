@@ -1,0 +1,9 @@
+application/
+components/
+config/
+.gitignore
+README.md
+composer.json
+dev.php
+favicon.ico
+index.php

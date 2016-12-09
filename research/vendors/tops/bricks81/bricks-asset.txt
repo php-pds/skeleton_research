@@ -1,0 +1,11 @@
+config/
+language/
+public/sass/
+src/Bricks/Asset/
+test/
+.gitignore
+LICENSE
+Module.php
+README.md
+autoload_classmap.php
+composer.json

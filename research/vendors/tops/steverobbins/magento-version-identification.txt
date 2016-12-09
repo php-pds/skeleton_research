@@ -1,0 +1,10 @@
+bin/
+md5/
+src/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+README.md
+composer.json
+phpcs.xml
+version.json

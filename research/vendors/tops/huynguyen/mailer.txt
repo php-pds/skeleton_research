@@ -1,0 +1,9 @@
+examples/
+extras/
+language/
+.gitignore
+PHPMailerAutoload.php
+class.phpmailer.php
+class.pop3.php
+class.smtp.php
+composer.json

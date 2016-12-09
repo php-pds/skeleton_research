@@ -1,0 +1,9 @@
+i18n/
+libs/
+Colorbox.classes.php
+Colorbox.i18n.magic.php
+Colorbox.i18n.php
+Colorbox.php
+LICENSE
+README.md
+composer.json

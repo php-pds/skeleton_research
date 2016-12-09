@@ -1,0 +1,8 @@
+library/ZendService/Twitter/
+tests/
+.gitignore
+.travis.yml
+LICENSE.txt
+README.md
+TODO.md
+composer.json

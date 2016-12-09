@@ -1,0 +1,10 @@
+src/CrazyCodr/Data/Join/
+tests/CrazyCodr/Data/Join/
+.gitattributes
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.php
+phpunit.xml

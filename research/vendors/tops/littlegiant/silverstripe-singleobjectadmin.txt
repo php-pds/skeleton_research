@@ -1,0 +1,9 @@
+_config/
+code/
+images/
+templates/
+.editorconfig
+.gitattributes
+.gitignore
+README.md
+composer.json

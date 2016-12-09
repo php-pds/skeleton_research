@@ -1,0 +1,12 @@
+__tests__/
+resources/
+src/SnapperSchema/
+tests/
+.gitignore
+composer.json
+composer.lock
+master-schema.json
+package.json
+phpunit.xml.dist
+readme.md
+snapshot-schema.json

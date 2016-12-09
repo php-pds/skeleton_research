@@ -1,0 +1,5 @@
+.gitignore
+LICENSE.md
+composer.json
+full-size-assignments.css
+manifest.xml

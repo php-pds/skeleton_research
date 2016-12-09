@@ -1,0 +1,11 @@
+_config/
+code/
+.editorconfig
+.gitattributes
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+_config.php
+composer.json

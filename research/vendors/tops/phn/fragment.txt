@@ -1,0 +1,13 @@
+doc/
+features/
+spec/Phn/Fragment/
+src/Phn/Fragment/
+.gitignore
+.styleci.yml
+.travis.yml
+LICENCE
+README.md
+behat.yml
+composer.json
+composer.lock
+phpspec.yml

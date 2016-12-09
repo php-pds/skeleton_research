@@ -1,0 +1,6 @@
+DependencyInjection/
+PaymentSystem/
+Resources/
+KitanoPaymentSipsBundle.php
+README
+composer.json

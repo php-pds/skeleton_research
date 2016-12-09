@@ -1,0 +1,6 @@
+src/Comprehensions/
+test/
+.gitignore
+README.md
+composer.json
+phpunit.dist.xml

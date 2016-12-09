@@ -1,0 +1,6 @@
+src/Galek/Utils/
+tests/Utils/YoutubeAPI/
+.gitignore
+.travis.yml
+README.md
+composer.json

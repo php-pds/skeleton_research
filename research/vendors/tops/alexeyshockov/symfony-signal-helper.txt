@@ -1,0 +1,5 @@
+src/AlexS/
+.gitignore
+.scrutinizer.yml
+README.md
+composer.json

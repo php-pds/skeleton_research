@@ -1,0 +1,12 @@
+Api/
+Config/
+Controller/
+EventListeners/
+Form/
+I18n/
+Model/
+templates/backOffice/default/
+LICENSE.txt
+Mailjet.php
+README.md
+composer.json

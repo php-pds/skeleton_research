@@ -1,0 +1,6 @@
+app/
+tests/Aoe_Queue/
+LICENSE.txt
+README.md
+composer.json
+modman

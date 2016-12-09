@@ -1,0 +1,8 @@
+src/Dflydev/Stack/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

@@ -1,0 +1,6 @@
+src/
+test/
+.gentest.php
+.gitignore
+README.md
+composer.json

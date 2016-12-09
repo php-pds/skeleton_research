@@ -1,0 +1,12 @@
+assets/
+classes/
+config/
+dca/
+elements/
+languages/
+models/
+modules/
+templates/
+.bowerrc
+README.md
+composer.json

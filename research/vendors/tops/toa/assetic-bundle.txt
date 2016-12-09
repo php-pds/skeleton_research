@@ -1,0 +1,7 @@
+DependencyInjection/
+Resources/config/
+Twig/
+LICENSE
+README.md
+ToaAsseticBundle.php
+composer.json

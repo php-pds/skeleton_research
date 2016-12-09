@@ -1,0 +1,11 @@
+bin/
+src/Malenki/Bah/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+example.php
+phpdoc.dist.xml
+phpunit.xml

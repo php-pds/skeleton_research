@@ -1,0 +1,15 @@
+_layout/
+_site/
+_tools/
+assets/
+posts/
+.gitignore
+README.md
+atom.xml.twig
+composer.json
+conf.json
+index.html.twig
+page_db.json.twig
+search_db.json.twig
+sitemap.xml.twig
+sitemap.xsl

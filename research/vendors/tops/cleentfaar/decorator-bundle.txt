@@ -1,0 +1,11 @@
+DependencyInjection/
+Resources/
+Twig/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CLDecoratorBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

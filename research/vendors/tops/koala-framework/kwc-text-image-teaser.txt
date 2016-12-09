@@ -1,0 +1,4 @@
+Kwc/TextImageTeaser/
+TextImageTeaser/Kwc/Teaser/
+composer.json
+dependencies.ini

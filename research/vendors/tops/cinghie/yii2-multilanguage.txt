@@ -1,0 +1,4 @@
+img/flags/
+widgets/
+README.md
+composer.json

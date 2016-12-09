@@ -1,0 +1,14 @@
+config/
+data/migrations/
+src/KmbZendDbInfrastructure/
+test/
+.coveralls.yml
+.gitignore
+.travis.yml
+COPYING
+Module.php
+README.md
+composer.json
+composer.lock
+composer.phar
+coverage-checker.php

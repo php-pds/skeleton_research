@@ -1,0 +1,7 @@
+cli/
+lib/agpmedia/Validator/
+tests/
+README.md
+cli.php
+compile.sh
+composer.json

@@ -1,0 +1,5 @@
+src/Aaronbullard/Validator/
+tests/
+.gitignore
+composer.json
+phpunit.xml

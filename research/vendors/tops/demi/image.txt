@@ -1,0 +1,7 @@
+CropImageAction.php
+DeleteImageAction.php
+FormImageWidget.php
+ImageUploaderBehavior.php
+LICENSE
+README.md
+composer.json

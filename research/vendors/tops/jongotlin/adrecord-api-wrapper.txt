@@ -1,0 +1,6 @@
+src/AdrecordApiWrapper/
+tests/AdrecordApiWrapper/
+.gitignore
+README.md
+composer.json
+phpunit.xml

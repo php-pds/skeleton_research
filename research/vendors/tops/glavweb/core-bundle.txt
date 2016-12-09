@@ -1,0 +1,8 @@
+DependencyInjection/
+Form/Type/
+Mapping/Annotation/
+Resources/
+.gitignore
+GlavwebCoreBundle.php
+LICENSE
+composer.json

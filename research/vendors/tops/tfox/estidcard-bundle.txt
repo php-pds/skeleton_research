@@ -1,0 +1,10 @@
+DependencyInjection/
+Entity/
+Exception/
+Resources/config/
+Security/
+Service/
+LICENSE
+README.md
+TFoxEstIdcardBundle.php
+composer.json

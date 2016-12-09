@@ -1,0 +1,7 @@
+src/TakaakiMizuno/ColorManager/
+tests/TakaakiMizuno/ColorManager/
+.gitignore
+LICENSE
+README.md
+composer.json
+phpunit.xml

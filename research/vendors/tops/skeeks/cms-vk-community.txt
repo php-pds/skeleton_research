@@ -1,0 +1,8 @@
+assets/
+views/
+CHANGELOG.md
+README.md
+VkCommunityAsset.php
+VkCommunityAssetInnerFile.php
+VkCommunityWidget.php
+composer.json

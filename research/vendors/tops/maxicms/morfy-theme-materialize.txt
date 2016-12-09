@@ -1,0 +1,13 @@
+assets/
+.gitignore
+CHANGELOG.md
+LICENSE
+README.md
+blog.tpl
+blog_post.tpl
+composer.json
+index.tpl
+layout.tpl
+materialize.yml
+navbar.tpl
+screenshot.png

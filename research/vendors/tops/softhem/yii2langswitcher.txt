@@ -1,0 +1,7 @@
+css/
+images/
+views/
+LangAssets.php
+LanguageSwitcher.php
+README.md
+composer.json

@@ -1,0 +1,13 @@
+Command/
+DependencyInjection/
+Resources/
+Tests/
+eZ/Publish/
+.coveralls.yml
+.gitignore
+.travis.yml
+EzSystemsQueryBuilderBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

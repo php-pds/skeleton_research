@@ -1,0 +1,10 @@
+doc/
+migrations/
+models/
+.gitignore
+CHANGELOG.md
+CONTRIBUTING.md
+LICENSE
+Module.php
+README.md
+composer.json

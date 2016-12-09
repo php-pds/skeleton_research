@@ -1,0 +1,7 @@
+Command/
+DependencyInjection/
+Resources/
+Service/
+AndresMontanezRecommendationsBundle.php
+README.md
+composer.json

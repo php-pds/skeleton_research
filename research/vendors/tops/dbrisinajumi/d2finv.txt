@@ -1,0 +1,9 @@
+assets/js/
+controllers/
+messages/
+migrations/
+models/
+views/
+D2finvModule.php
+composer.json
+translation.php

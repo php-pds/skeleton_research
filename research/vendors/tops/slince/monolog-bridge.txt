@@ -1,0 +1,3 @@
+.gitignore
+MonologBridge.php
+composer.json

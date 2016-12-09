@@ -1,0 +1,4 @@
+vendor/
+WBF_Breadcrumb_Trail.php
+composer.json
+functions.php

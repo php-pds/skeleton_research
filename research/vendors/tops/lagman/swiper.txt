@@ -1,0 +1,13 @@
+demo-apps/
+demos/
+dist/
+src/
+.gitignore
+.jshintrc
+CHANGELOG.md
+Gruntfile.js
+README.md
+bower.json
+component.json
+composer.json
+package.json

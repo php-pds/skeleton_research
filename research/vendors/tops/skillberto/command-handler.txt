@@ -1,0 +1,9 @@
+Tests/
+.gitignore
+.travis.yml
+Command.php
+CommandHandler.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

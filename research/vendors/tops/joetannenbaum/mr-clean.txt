@@ -1,0 +1,12 @@
+src/
+tests/
+.gitattributes
+.gitignore
+.scrutinizer.yml
+.travis.yml
+Gulpfile.js
+LICENSE.md
+README.md
+composer.json
+package.json
+phpunit.xml

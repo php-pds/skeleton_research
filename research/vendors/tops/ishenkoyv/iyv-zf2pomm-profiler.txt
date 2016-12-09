@@ -1,0 +1,7 @@
+config/
+src/IyvZF2PommProfiler/ServiceManager/
+view/zend-developer-tools/toolbar/
+LICENSE
+Module.php
+README.md
+composer.json

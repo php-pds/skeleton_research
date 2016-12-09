@@ -1,0 +1,4 @@
+Composer/
+Composer.php
+Plugins.php
+composer.json

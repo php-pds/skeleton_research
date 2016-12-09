@@ -1,0 +1,12 @@
+build/logs/
+config/
+src/Eye4web/Zf2Board/
+test/
+view/eye4web-zf2-board/board/
+.gitignore
+.travis.yml
+LICENSE.md
+Module.php
+README.md
+composer.json
+phpunit.xml

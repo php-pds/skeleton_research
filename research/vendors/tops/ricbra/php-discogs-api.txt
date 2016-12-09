@@ -1,0 +1,10 @@
+lib/Discogs/
+resources/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+UPGRADE.md
+composer.json
+phpunit.xml.dist

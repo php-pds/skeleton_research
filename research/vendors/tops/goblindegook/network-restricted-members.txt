@@ -1,0 +1,14 @@
+assets/
+languages/
+.editorconfig
+.gitignore
+.scrutinizer.yml
+.travis.yml
+Gruntfile.js
+LICENSE.txt
+README.txt
+composer.json
+composer.lock
+index.php
+network-restricted-members.php
+package.json

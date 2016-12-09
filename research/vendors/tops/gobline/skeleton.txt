@@ -1,0 +1,7 @@
+app/
+config/
+languages/
+public/
+.gitignore
+.htaccess
+composer.json

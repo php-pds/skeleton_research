@@ -1,0 +1,9 @@
+src/
+tests/
+.buildpath
+.gitignore
+README.md
+composer.json
+composer.lock
+jenkins.yml
+phpunit.xml

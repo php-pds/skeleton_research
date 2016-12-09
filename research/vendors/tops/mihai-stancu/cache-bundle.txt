@@ -1,0 +1,14 @@
+Accessible/
+Client/
+DependencyInjection/
+Doctrine/
+.gitignore
+.php_cs
+Cache.php
+LICENSE.md
+MSCacheBundle.php
+Namespacing.php
+README.md
+Serializer.php
+composer.json
+phpunit.xml.dist

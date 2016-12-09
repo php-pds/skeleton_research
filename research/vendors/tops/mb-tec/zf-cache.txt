@@ -1,0 +1,6 @@
+config/
+src/Service/
+.gitignore
+LICENSE
+Module.php
+composer.json

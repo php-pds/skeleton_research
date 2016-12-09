@@ -1,0 +1,3 @@
+lib/VIC/AWS/
+README.md
+composer.json

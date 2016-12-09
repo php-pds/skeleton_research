@@ -1,0 +1,10 @@
+config/
+src/Strategy/
+test/
+.gitignore
+.travis.yml
+LICENSE.txt
+Module.php
+README.md
+composer.json
+phpunit.xml

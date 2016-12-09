@@ -1,0 +1,11 @@
+DependencyInjection/
+Resources/config/
+Serializer/
+Tests/Serializer/
+.gitignore
+.php_cs
+LICENSE.md
+MSSerializerBundle.php
+README.md
+composer.json
+phpunit.xml.dist

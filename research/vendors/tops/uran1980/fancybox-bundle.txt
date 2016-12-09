@@ -1,0 +1,5 @@
+Resources/public/js/
+.gitignore
+README.md
+Uran1980FancyBoxBundle.php
+composer.json

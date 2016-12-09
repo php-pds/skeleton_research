@@ -1,0 +1,7 @@
+config/
+src/PServerRanking/
+view/
+.gitignore
+LICENSE
+README.md
+composer.json

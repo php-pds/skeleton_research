@@ -1,0 +1,4 @@
+src/Bravo3/SpaBundle/
+.gitignore
+README.md
+composer.json

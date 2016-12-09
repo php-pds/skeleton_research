@@ -1,0 +1,15 @@
+backend/
+common/
+console/
+environments/
+frontend/
+.gitignore
+LICENSE.md
+README.md
+composer.json
+composer.lock
+composer.phar
+init
+init.bat
+requirements.php
+yii.bat

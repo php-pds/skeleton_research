@@ -1,0 +1,13 @@
+MediaWiki/
+utils/
+.gitignore
+.gitreview
+COPYRIGHT
+HISTORY.md
+LICENSE
+README.md
+TestHelper.php
+composer.json
+phpcs.xml
+phpunit.bootstrap.php
+phpunit.xml.dist

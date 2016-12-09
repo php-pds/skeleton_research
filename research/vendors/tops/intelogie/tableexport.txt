@@ -1,0 +1,10 @@
+dist/
+src/
+.gitignore
+.travis.yml
+LICENSE.txt
+README.md
+bower.json
+composer.json
+gulpfile.js
+package.json

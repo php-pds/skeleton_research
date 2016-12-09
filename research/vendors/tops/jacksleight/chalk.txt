@@ -1,0 +1,17 @@
+app/
+cli/
+modules/core/
+public/assets/
+.gitattributes
+.gitignore
+.htaccess
+CHANGELOG.md
+LICENCE.md
+README.md
+app.php
+bower.json
+cli-config.php
+compass.rb
+composer.json
+gulpfile.js
+package.json

@@ -1,0 +1,6 @@
+Bing/Includes/
+src/Bing/
+v8ProductionPhpClasses/
+.gitignore
+README.md
+composer.json

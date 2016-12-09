@@ -1,0 +1,5 @@
+img/
+js/
+README.mdown
+composer.json
+voce-featured-posts.php

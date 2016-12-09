@@ -1,0 +1,4 @@
+.gitignore
+ShopServiceProvider.php
+composer.json
+readme.md

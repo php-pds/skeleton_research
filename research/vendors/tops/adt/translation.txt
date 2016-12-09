@@ -1,0 +1,10 @@
+docs/en/
+example-scripts/
+src/Kdyby/Translation/
+tests/
+.gitattributes
+.gitignore
+.travis.yml
+README.md
+composer.json
+license.md

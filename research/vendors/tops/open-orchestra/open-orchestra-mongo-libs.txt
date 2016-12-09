@@ -1,0 +1,12 @@
+MongoBundle/
+MongoTrait/
+Pagination/
+Repository/
+.codeclimate.yml
+.travis.php.ini
+.travis.yml
+ISSUE_TEMPLATE
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

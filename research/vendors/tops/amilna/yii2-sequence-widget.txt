@@ -1,0 +1,6 @@
+assets/
+LICENSE
+README.md
+SequenceJs.php
+SequenceJsAsset.php
+composer.json

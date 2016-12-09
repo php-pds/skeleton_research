@@ -1,0 +1,8 @@
+imgs/
+src/
+.gitignore
+README.md
+composer.json
+config.ini.sample
+run.sh
+sample.php

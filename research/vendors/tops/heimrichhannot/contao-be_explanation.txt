@@ -1,0 +1,5 @@
+config/
+templates/backend/
+widgets/
+README.md
+composer.json

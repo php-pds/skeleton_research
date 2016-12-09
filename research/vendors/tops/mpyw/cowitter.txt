@@ -1,0 +1,10 @@
+src/
+tests/
+tutorial/
+.gitignore
+.scrutinizer.yml
+CHANGELOG
+LICENSE
+README.md
+codeception.yml
+composer.json

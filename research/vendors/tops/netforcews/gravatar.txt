@@ -1,0 +1,6 @@
+Facades/
+Gravatar.php
+GravatarServiceProvider.php
+LICENSE
+README.md
+composer.json

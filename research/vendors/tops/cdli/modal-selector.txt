@@ -1,0 +1,7 @@
+config/
+public/js/CdliModalSelector/
+src/CdliModalSelector/
+Module.php
+README.md
+autoload_classmap.php
+composer.json

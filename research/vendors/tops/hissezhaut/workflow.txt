@@ -1,0 +1,16 @@
+Dumper/
+Event/
+EventListener/
+Exception/
+MarkingStore/
+Tests/
+CHANGELOG.md
+Definition.php
+LICENSE
+Marking.php
+README.md
+Registry.php
+Transition.php
+Workflow.php
+composer.json
+phpunit.xml.dist

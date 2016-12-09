@@ -1,0 +1,9 @@
+DependencyInjection/
+Resources/config/
+Tests/
+.gitignore
+.travis.yml
+README.md
+SmoyaOmniataBundle.php
+composer.json
+phpunit.xml.dist

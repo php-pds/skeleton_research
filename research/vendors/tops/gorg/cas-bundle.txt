@@ -1,0 +1,8 @@
+DependencyInjection/
+Resources/config/
+Security/
+Tests/
+.gitmodules
+GorgCasBundle.php
+README.md
+composer.json

@@ -1,0 +1,5 @@
+languages/
+views/default/plugins/logrotate/
+composer.json
+manifest.xml
+start.php

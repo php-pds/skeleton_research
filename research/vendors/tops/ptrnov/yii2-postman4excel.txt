@@ -1,0 +1,6 @@
+tmp/
+.gitignore
+CHANGE.md
+Postman4ExcelBehavior.php
+README.md
+composer.json

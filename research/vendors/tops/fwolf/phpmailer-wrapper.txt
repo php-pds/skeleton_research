@@ -1,0 +1,9 @@
+src/PHPMailer/
+tests/PHPMailer/
+.gitignore
+.travis.yml
+CHANGELOG.md
+README.md
+bootstrap.php
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,11 @@
+DependencyInjection/
+Resources/config/
+Tests/
+VariableRegistry/
+.gitignore
+.travis.yml
+LICENSE
+NucleusBinderBundle.php
+README.md
+composer.json
+phpunit.xml.dist

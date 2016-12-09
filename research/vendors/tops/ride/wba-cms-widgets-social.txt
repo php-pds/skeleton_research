@@ -1,0 +1,8 @@
+config/
+l10n/
+public/img/cms/widget/
+src/ride/web/cms/
+view/smarty/asphalt/cms/widget/social-media/
+README.md
+composer.json
+ride.json

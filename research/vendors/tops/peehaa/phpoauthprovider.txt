@@ -1,0 +1,10 @@
+src/PHPoAuthProvider/
+test/
+vendor/
+.scrutinizer.yml
+.travis.yml
+README.md
+bootstrap.php
+composer.json
+composer.lock
+phpunit.xml.dist

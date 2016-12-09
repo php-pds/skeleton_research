@@ -1,0 +1,14 @@
+DependencyInjection/
+Document/
+Publishers/
+Resources/
+Service/
+Tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+ONGRTaskMessengerBundle.php
+README.rst
+composer.json
+phpunit.xml.dist

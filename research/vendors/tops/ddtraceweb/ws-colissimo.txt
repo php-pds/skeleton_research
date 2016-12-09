@@ -1,0 +1,9 @@
+sample/
+src/WSColissimo/WSColiPosteLetterService/
+tests/
+.gitignore
+LICENSE
+README.md
+build.xml
+composer.json
+phpunit.xml.dist

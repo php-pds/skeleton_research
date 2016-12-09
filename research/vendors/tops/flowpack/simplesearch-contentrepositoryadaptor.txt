@@ -1,0 +1,6 @@
+Classes/Flowpack/SimpleSearch/ContentRepositoryAdaptor/
+Configuration/
+Resources/Private/
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,8 @@
+assets/
+controllers/
+messages/ru/
+models/
+views/default/
+README.md
+RbacModule.php
+composer.json

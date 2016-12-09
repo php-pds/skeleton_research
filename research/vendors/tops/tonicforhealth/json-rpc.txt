@@ -1,0 +1,10 @@
+doc/
+spec/ApiLayer/
+src/
+.gitignore
+.scrutinizer.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+phpspec.yml

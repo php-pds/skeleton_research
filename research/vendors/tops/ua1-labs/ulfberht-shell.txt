@@ -1,0 +1,8 @@
+bin/
+scripts/
+src/
+.gitignore
+.log
+README.md
+cli-config.php
+composer.json

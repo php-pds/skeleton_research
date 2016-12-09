@@ -1,0 +1,6 @@
+src/Box/Content/
+.gitattributes
+.gitignore
+LICENSE.md
+README.md
+composer.json

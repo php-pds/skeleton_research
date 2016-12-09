@@ -1,0 +1,5 @@
+Tests/
+.gitignore
+README.md
+array2xml.php
+composer.json

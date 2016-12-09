@@ -1,0 +1,7 @@
+wp-media-categories/
+.gitignore
+LICENSE
+README.md
+composer.json
+readme.txt
+wp-media-categories.php

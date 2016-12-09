@@ -1,0 +1,9 @@
+spec/watoki/stepper/
+src/watoki/stepper/
+.gitignore
+.travis.yml
+LICENCE
+README.md
+bootstrap.php
+composer.json
+phpunit.xml.dist

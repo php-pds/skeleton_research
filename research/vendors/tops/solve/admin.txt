@@ -1,0 +1,6 @@
+AdminPackage/
+app/Admin/
+.gitignore
+LICENSE
+README.md
+composer.json

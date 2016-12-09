@@ -1,0 +1,17 @@
+closure/
+scripts/
+third_party/closure/goog/
+.gitignore
+.travis.yml
+AUTHORS
+CONTRIBUTING
+LICENSE
+README.md
+all_tests.html
+alltests.js
+browser_capabilities.js
+composer.json
+package.json
+protractor.conf.js
+protractor_spec.js
+sauce_browsers.json

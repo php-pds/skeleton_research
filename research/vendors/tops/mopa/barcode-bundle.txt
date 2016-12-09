@@ -1,0 +1,13 @@
+Controller/
+DependencyInjection/
+Model/
+Resources/
+Tests/Controller/
+Twig/Extension/
+.gitignore
+.travis.yml
+LICENSE
+MopaBarcodeBundle.php
+README.md
+composer.json
+phpunit.xml.dist

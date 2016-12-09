@@ -1,0 +1,8 @@
+Admin/
+DependencyInjection/
+Entity/
+Resources/
+.gitignore
+GrossumNewsBundle.php
+README.md
+composer.json

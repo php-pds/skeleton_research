@@ -1,0 +1,10 @@
+Controller/
+DependencyInjection/
+Entity/
+Exception/Provider/
+Repository/
+Resources/config/
+Service/
+Storage/
+BordeuxFileBundle.php
+composer.json

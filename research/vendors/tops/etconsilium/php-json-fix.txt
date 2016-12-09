@@ -1,0 +1,6 @@
+LICENSE
+README.md
+composer.json
+example.php
+json-clearfix.php
+pre-install.sh

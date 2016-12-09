@@ -1,0 +1,6 @@
+src/Litipk/PhpCurr3ncy/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json

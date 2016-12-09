@@ -1,0 +1,6 @@
+classes/
+config/
+migrations/
+tasks/
+bootstrap.php
+composer.json

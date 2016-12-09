@@ -1,0 +1,13 @@
+build/
+src/Axstrad/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+Readme.md
+build.xml
+composer.json
+composer.lock
+phpdoc.dist.xml
+phpunit.xml.dist
+tests-bootstrap.php

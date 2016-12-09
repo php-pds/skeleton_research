@@ -1,0 +1,7 @@
+src/AGI/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json
+phpunit.xml

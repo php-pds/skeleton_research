@@ -1,0 +1,5 @@
+.settings/
+lib/Webit/PriceComparator/Ceneo/
+.gitignore
+README.md
+composer.json

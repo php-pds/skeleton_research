@@ -1,0 +1,8 @@
+demos/
+library/ZendService/LiveDocx/
+tests/
+.gitignore
+.travis.yml
+LICENSE.txt
+README.md
+composer.json

@@ -1,0 +1,10 @@
+src/
+storage/logs/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock
+config.php
+daemon.php
+wemo-plex.conf

@@ -1,0 +1,8 @@
+tests/
+.gitignore
+.gitlab-ci.yml
+.travis.yml
+README.md
+autoload.php
+composer.json
+phpunit.xml

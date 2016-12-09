@@ -1,0 +1,9 @@
+lib/Twig/Extension/
+test/
+.gitignore
+CONTRIBUTING.md
+LICENSE.md
+Makefile
+README.md
+composer.json
+example.php

@@ -1,0 +1,8 @@
+examples/
+src/FastD/Finder/
+.gitignore
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist
+structure.mdj

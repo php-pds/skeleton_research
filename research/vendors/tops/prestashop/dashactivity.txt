@@ -1,0 +1,11 @@
+translations/
+views/
+CHANGELOG.txt
+Readme.md
+composer.json
+config.xml
+dashactivity.php
+gapi-logo.gif
+index.php
+logo.gif
+logo.png

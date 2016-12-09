@@ -1,0 +1,15 @@
+app/
+lib/
+scripts/
+tests/
+.gitignore
+.gitmodules
+.travis.yml
+LICENSE
+build.xml
+changelog.mdown
+composer.json
+modman
+readme.mdown
+release.sh
+upgrading.mdown

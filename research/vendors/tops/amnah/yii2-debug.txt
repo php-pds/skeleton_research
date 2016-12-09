@@ -1,0 +1,10 @@
+assets/
+controllers/
+panels/
+views/
+LICENSE
+LogTarget.php
+Module.php
+README.md
+composer.json
+demo.png

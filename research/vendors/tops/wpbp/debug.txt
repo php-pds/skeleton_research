@@ -1,0 +1,5 @@
+LICENSE
+README.md
+WPBP_Debug_Panel.php
+composer.json
+debug.php

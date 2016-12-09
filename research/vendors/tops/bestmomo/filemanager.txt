@@ -1,0 +1,5 @@
+config/
+public/filemanager/
+src/
+README.md
+composer.json

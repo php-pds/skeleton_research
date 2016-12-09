@@ -1,0 +1,12 @@
+perf/
+puphpet/
+src/
+.gitattributes
+.gitignore
+LICENSE.md
+README.md
+Vagrantfile
+composer.json
+composer.lock
+logo.png
+phpunit.xml

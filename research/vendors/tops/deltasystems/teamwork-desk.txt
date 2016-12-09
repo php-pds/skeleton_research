@@ -1,0 +1,3 @@
+src/Teamwork/Desk/
+README.md
+composer.json

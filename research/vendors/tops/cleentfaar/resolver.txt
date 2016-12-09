@@ -1,0 +1,10 @@
+Resources/doc/
+Tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+Resolvable.php
+composer.json
+phpunit.xml.dist

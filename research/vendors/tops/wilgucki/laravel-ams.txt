@@ -1,0 +1,10 @@
+bin/
+database/
+resources/
+routes/
+src/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json

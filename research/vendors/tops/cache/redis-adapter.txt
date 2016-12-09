@@ -1,0 +1,10 @@
+.github/
+Tests/
+.gitignore
+.travis.yml
+Changelog.md
+LICENSE
+README.md
+RedisCachePool.php
+composer.json
+phpunit.xml.dist

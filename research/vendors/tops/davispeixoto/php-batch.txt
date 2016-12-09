@@ -1,0 +1,12 @@
+bin/
+src/Davispeixoto/PhpBatch/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+TODO.md
+box.json
+build.xml
+composer.json
+phpunit.xml

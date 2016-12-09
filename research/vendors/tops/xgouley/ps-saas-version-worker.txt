@@ -1,0 +1,12 @@
+app/
+bin/
+var/
+web/
+.gitignore
+README.md
+composer.json
+phpunit.xml.dist
+start-8025.sh
+start-8035.sh
+stop-8025.sh
+stop-8035.sh

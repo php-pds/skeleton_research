@@ -1,0 +1,12 @@
+Controller/
+DependencyInjection/
+Entity/
+EventListener/
+Repository/
+Resources/
+.gitignore
+.travis.yml
+OpenifyCustomerBundle.php
+README.md
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,16 @@
+config/
+src/
+test/
+.gitattributes
+.gitignore
+.travis.yml
+CHANGELOG.md
+CONDUCT.md
+CONTRIBUTING.md
+LICENSE.md
+README.md
+TODO.md
+composer.json
+composer.lock
+phpcs.xml
+phpunit.xml.dist

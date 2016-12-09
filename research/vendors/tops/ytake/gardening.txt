@@ -1,0 +1,10 @@
+scripts/
+src/
+.gitattributes
+.gitignore
+README.md
+Vagrantfile
+composer.json
+gardening
+setup.bat
+setup.sh

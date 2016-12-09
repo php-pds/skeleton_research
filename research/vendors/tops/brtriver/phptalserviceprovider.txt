@@ -1,0 +1,3 @@
+PHPTALServiceProvider.php
+README.md
+composer.json

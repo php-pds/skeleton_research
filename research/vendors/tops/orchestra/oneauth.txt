@@ -1,0 +1,14 @@
+docs/
+resources/database/migrations/
+spec/Orchestra/OneAuth/
+src/
+.coveralls.yml
+.gitattributes
+.gitignore
+.php_cs
+.scrutinizer.yml
+.travis.yml
+LICENSE.md
+README.md
+composer.json
+orchestra.json

@@ -1,0 +1,10 @@
+Tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+drupaltranslationmodule.info
+drupaltranslationmodule.module
+phpunit.xml.dist

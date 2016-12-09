@@ -1,0 +1,4 @@
+src/Cravler/Composer/FayeAppIntegrationPlugin/
+LICENSE
+README.md
+composer.json

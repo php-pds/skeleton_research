@@ -1,0 +1,6 @@
+DependencyInjection/
+Resources/config/
+.gitignore
+BCCMyrrixBundle.php
+README.markdown
+composer.json

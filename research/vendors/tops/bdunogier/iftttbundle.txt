@@ -1,0 +1,9 @@
+Controller/
+DependencyInjection/
+IFTTT/
+Resources/config/
+Tests/IFTTT/
+BDIFTTTBundle.php
+LICENSE
+README.md
+composer.json

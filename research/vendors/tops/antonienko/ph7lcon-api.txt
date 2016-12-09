@@ -1,0 +1,7 @@
+.idea/
+src/
+tests/unit/
+.gitignore
+README.md
+composer.json
+composer.lock

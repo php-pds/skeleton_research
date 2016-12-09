@@ -1,0 +1,16 @@
+.idea/
+Command/
+Controller/
+DependencyInjection/
+Entity/
+EventListener/
+Form/
+Manager/
+Model/
+Resources/
+Twig/
+Validator/Constraints/
+.gitignore
+README.md
+SvdMediaBundle.php
+composer.json

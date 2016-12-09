@@ -1,0 +1,8 @@
+DependencyInjection/
+Monolog/Handler/
+Resources/config/
+meta/
+.gitignore
+ElcwebMonologFluentdBundle.php
+README.md
+composer.json

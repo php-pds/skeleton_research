@@ -1,0 +1,13 @@
+gii/model/
+.gitignore
+ActiveQuery.php
+ActiveRecord.php
+ColumnSchema.php
+ColumnSchemaBuilder.php
+Command.php
+Connection.php
+QueryBuilder.php
+Schema.php
+TableSchema.php
+composer.json
+readme.md

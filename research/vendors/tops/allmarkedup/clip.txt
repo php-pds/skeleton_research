@@ -1,0 +1,8 @@
+src/
+tests/
+.gitignore
+Gruntfile.js
+README.md
+composer.json
+package.json
+phpunit.xml

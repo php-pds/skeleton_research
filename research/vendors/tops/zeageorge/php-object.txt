@@ -1,0 +1,6 @@
+src/Object/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock

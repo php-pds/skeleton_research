@@ -1,0 +1,9 @@
+src/BitWeb/Stdlib/
+test/
+.coveralls.yml
+.gitignore
+.travis.yml
+LICENSE.md
+README.md
+composer.json
+composer.lock

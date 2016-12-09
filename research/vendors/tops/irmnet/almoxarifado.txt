@@ -1,0 +1,8 @@
+config/
+language/
+src/Almoxarifado/Controller/
+view/Almoxarifado/index/
+.gitignore
+Module.php
+autoload_classmap.php
+composer.json

@@ -1,0 +1,9 @@
+Config/
+Controller/Component/
+Lib/
+Test/Case/
+Vendor/ambiente de teste/
+webroot/
+DOC.md
+README.md
+composer.json

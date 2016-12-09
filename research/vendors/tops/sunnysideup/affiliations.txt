@@ -1,0 +1,15 @@
+_module_data/
+code/model/
+docs/
+.editorconfig
+.gitattributes
+.gitignore
+.htaccess
+.scrutinizer.yml
+.travis.yml
+CHANGELOG.md
+CONTRIBUTING.md
+LICENSE
+README.md
+_config.php
+composer.json

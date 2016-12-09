@@ -1,0 +1,16 @@
+tests/
+.gitignore
+Makefile
+README
+composer.json
+phpickle.php
+phpickle_gen_read_ops.php
+phpickle_gen_write_ops.php
+phpickle_memo.php
+phpickle_op_handlers.pck
+phpickle_op_mapper.php
+phpickle_ops_generator.php
+phpickle_pickle.php
+phpickle_stack.php
+phpickle_stream.php
+phpickle_unpickle.php

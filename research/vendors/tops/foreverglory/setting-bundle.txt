@@ -1,0 +1,11 @@
+DependencyInjection/
+Document/
+Entity/
+Form/Type/
+Manager/
+Model/
+Resources/config/
+Twig/Extension/
+GlorySettingBundle.php
+README.md
+composer.json

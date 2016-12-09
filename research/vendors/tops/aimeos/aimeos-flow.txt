@@ -1,0 +1,11 @@
+Classes/Aimeos/
+Configuration/
+Resources/
+Tests/
+.gitignore
+.travis.sh
+.travis.yml
+LICENSE
+README.md
+build.xml
+composer.json

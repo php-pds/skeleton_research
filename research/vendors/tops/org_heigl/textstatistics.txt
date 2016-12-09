@@ -1,0 +1,15 @@
+src/
+tests/
+.coveralls.yml
+.gitattributes
+.gitignore
+.php_cs
+.scrutinizer.yml
+.travis.yml
+CODE_OF_CONDUCT.md
+CONTRIBUTING.md
+LICENSE.md
+README.md
+composer.json
+phpunit.travis.xml
+phpunit.xml.dist

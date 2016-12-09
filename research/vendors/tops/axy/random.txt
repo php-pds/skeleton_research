@@ -1,0 +1,16 @@
+build/logs/
+helpers/
+tests/
+.gitattributes
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+Random.php
+composer.json
+cs.sh
+index.php
+phpmd.sh
+phpmd.xml.dist
+phpunit.xml.dist

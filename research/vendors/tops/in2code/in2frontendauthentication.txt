@@ -1,0 +1,9 @@
+Classes/Domain/
+Configuration/TCA/Overrides/
+Resources/Private/Language/
+.gitignore
+README.md
+composer.json
+ext_emconf.php
+ext_localconf.php
+ext_tables.sql

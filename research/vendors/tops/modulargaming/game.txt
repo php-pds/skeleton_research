@@ -1,0 +1,7 @@
+classes/
+migrations/game/
+templates/game/
+LICENSE.md
+README.md
+composer.json
+init.php

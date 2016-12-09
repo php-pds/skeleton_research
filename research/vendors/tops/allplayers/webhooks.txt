@@ -1,0 +1,6 @@
+lib/AllPlayers/
+resque/
+tests/
+.gitignore
+README.mkdn
+composer.json

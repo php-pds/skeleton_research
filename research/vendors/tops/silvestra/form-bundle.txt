@@ -1,0 +1,7 @@
+DependencyInjection/
+Resources/
+.travis.yml
+README.md
+SilvestraFormBundle.php
+composer.json
+phpunit.xml.dist

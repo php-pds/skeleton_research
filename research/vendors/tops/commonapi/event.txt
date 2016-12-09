@@ -1,0 +1,16 @@
+.gitignore
+CreateEventInterface.php
+DeleteEventInterface.php
+DispatcherInterface.php
+DisplayEventInterface.php
+EventDispatcherInterface.php
+EventInterface.php
+InitialiseEventInterface.php
+LICENSE
+README.md
+ReadEventInterface.php
+SystemEventInterface.php
+TriggerInterface.php
+UpdateEventInterface.php
+UserEventInterface.php
+composer.json

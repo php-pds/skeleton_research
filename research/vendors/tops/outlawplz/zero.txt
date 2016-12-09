@@ -1,0 +1,12 @@
+src/Theme/
+starterkit/
+templates/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock
+theme-settings.php
+zero.info.yml
+zero.libraries.yml
+zero.theme

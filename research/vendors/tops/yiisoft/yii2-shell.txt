@@ -1,0 +1,12 @@
+.github/
+.editorconfig
+.gitattributes
+.gitignore
+Bootstrap.php
+CHANGELOG.md
+LICENSE.md
+README.md
+ShellController.php
+YiiCaster.php
+composer.json
+screenshot.png

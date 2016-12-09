@@ -1,0 +1,13 @@
+bin/
+docs/classes/Dotink/Sage/
+src/
+templates/
+test/
+.gitignore
+.gitmodules
+.travis.yml
+LICENSE.md
+README.md
+composer.json
+lab.config
+sage.config

@@ -1,0 +1,16 @@
+build/travis/
+i18n/
+js/
+src/
+tests/
+.gitignore
+.jshintrc
+.scrutinizer.yml
+.travis.yml
+COPYING
+DataTypes.mw.php
+DataTypes.php
+README.md
+composer.json
+phpcs.xml
+phpunit.xml.dist

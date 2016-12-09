@@ -1,0 +1,14 @@
+demo/
+lib/
+localization/
+test/
+README.md
+additional-methods.js
+additional-methods.min.js
+changelog.txt
+composer.json
+install.php
+jquery.validate.js
+jquery.validate.min.js
+package.json
+package.xml

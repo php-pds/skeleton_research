@@ -1,0 +1,14 @@
+css/
+img/
+js/
+translations/
+upgrade/
+views/
+CHANGELOG.txt
+Readme.md
+composer.json
+config.xml
+crossselling.php
+index.php
+logo.gif
+logo.png

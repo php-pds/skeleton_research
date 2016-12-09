@@ -1,0 +1,5 @@
+vendor/
+README.md
+README.md-aceccde6-e297-482d-8e3a-30ccb305eea3
+TikaApp.php
+composer.json

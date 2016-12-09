@@ -1,0 +1,7 @@
+.gitignore
+Color.php
+LICENSE.md
+README.md
+composer.json
+example.php
+screenshot.png

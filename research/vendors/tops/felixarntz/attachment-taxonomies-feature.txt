@@ -1,0 +1,17 @@
+src/
+tests/phpunit/
+.codeclimate.yml
+.editorconfig
+.gitattributes
+.gitignore
+.travis.yml
+README.md
+attachment-taxonomies-feature.php
+composer.json
+gulpfile.js
+license.txt
+package.json
+phpcs.xml
+phpmd.xml
+phpunit.xml
+readme.txt

@@ -1,0 +1,6 @@
+Docs/
+Item.php
+LICENSE
+README.md
+TorFeed.php
+composer.json

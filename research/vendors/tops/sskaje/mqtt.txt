@@ -1,0 +1,6 @@
+mqtt/
+test/
+LICENSE
+README.md
+autoload.example.php
+composer.json

@@ -1,0 +1,12 @@
+spec/Netzmacht/JavascriptBuilder/
+src/Netzmacht/JavascriptBuilder/
+.check-author.yml
+.gitignore
+.scrutinizer.yml
+.travis.yml
+README.md
+build.properties
+build.xml
+composer.json
+phpspec.build.yml
+phpspec.yml

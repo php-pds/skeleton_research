@@ -1,0 +1,12 @@
+config/install/
+css/
+js/
+src/
+README.md
+composer.json
+composer.json.drupal
+markaspot_map.info.yml
+markaspot_map.libraries.yml
+markaspot_map.links.menu.yml
+markaspot_map.module
+markaspot_map.routing.yml

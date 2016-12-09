@@ -1,0 +1,16 @@
+DBAL/Types/
+DependencyInjection/
+ORM/Id/
+Resources/config/
+Tests/
+.gitignore
+.php_cs
+Enum.php
+Graph.php
+LICENSE.md
+MSDoctrineTypesBundle.php
+README.md
+ROADMAP.md
+Set.php
+composer.json
+phpunit.xml.dist

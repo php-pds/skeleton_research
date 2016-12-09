@@ -1,0 +1,12 @@
+InMemory/
+Tests/
+.atoum.php
+.atoum.travis.php
+.bootstrap.atoum.php
+.travis.yml
+QueryRepository.php
+QueryRepositoryInterface.php
+README.md
+Repository.php
+RepositoryInterface.php
+composer.json

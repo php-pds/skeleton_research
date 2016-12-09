@@ -1,0 +1,4 @@
+SSPSSP/OpenItCockpitApi/
+.gitignore
+Readme.md
+composer.json

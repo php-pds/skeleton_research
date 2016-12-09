@@ -1,0 +1,9 @@
+examples/
+src/linkcache/
+tests/
+.gitignore
+LICENSE
+README.md
+autoload.php
+autoload_dev.php
+composer.json

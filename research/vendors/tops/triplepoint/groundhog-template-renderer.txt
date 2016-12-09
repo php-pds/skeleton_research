@@ -1,0 +1,8 @@
+source/Groundhog/TemplateRenderer/
+tests/
+.gitattributes
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json

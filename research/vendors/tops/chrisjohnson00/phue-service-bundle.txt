@@ -1,0 +1,10 @@
+app/
+src/
+web/
+.gitignore
+README.md
+Vagrantfile
+apache24.conf
+bootstrap.sh
+composer.json
+composer.lock

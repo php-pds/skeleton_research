@@ -1,0 +1,2 @@
+src/Sirian/SphinxBundle/
+composer.json

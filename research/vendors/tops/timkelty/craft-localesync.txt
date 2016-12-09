@@ -1,0 +1,11 @@
+resources/screenshots/
+services/
+templates/_cp/
+variables/
+.editorconfig
+.gitignore
+LICENSE
+LocaleSyncPlugin.php
+README.md
+composer.json
+releases.json

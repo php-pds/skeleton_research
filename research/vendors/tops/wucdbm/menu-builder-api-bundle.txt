@@ -1,0 +1,7 @@
+Controller/
+Resources/config/
+.gitignore
+LICENSE
+README.md
+WucdbmMenuBuilderApiBundle.php
+composer.json

@@ -1,0 +1,11 @@
+nbproject/
+src/
+.gitignore
+.travis.composer.config.json
+.travis.yml
+CHANGELOG.md
+LICENSE
+composer.json
+phpdoc.dist.xml
+phpunit.xml.dist
+readme.md

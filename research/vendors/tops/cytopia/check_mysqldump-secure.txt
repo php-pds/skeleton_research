@@ -1,0 +1,9 @@
+doc/
+.gitignore
+.travis.yml
+CHANGELOG.md
+README.md
+check_mysqldump-secure
+composer.json
+icingaexchange.yml
+mysqldump-secure.nagios.log

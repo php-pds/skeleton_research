@@ -1,0 +1,5 @@
+Platformsh.php
+README.md
+composer.json
+magento-build.php
+magento-deploy.php

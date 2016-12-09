@@ -1,0 +1,11 @@
+.github/
+src/
+.editorconfig
+.gitattributes
+.gitignore
+.php_cs
+CHANGELOG.md
+CONDUCT.md
+LICENSE
+README.md
+composer.json

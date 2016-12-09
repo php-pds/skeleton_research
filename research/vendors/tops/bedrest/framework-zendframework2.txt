@@ -1,0 +1,12 @@
+config/
+src/BedRest/Framework/Zend2/
+tests/
+vendor/
+.gitignore
+.travis.yml
+LICENSE
+Module.php
+README.md
+build.properties
+build.xml
+composer.json

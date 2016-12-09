@@ -1,0 +1,8 @@
+config/
+spec/Phpro/Apigility/Doctrine/Bulk/
+src/Phpro/Apigility/Doctrine/Bulk/
+.gitignore
+.php_cs
+Module.php
+README.md
+composer.json

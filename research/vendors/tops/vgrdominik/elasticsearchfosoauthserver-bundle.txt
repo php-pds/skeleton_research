@@ -1,0 +1,8 @@
+DependencyInjection/
+Entity/
+Form/Handler/
+Resources/config/
+LICENCE
+README.md
+VGRElasticsearchFOSOAuthServerBundle.php
+composer.json

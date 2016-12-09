@@ -1,0 +1,8 @@
+docs/
+COPYING
+README.md
+composer.json
+mkdocs.php
+phpagi-asmanager.php
+phpagi-fastagi.php
+phpagi.php

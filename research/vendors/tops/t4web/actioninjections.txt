@@ -1,0 +1,9 @@
+src/T4webActionInjections/Mvc/Controller/
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+Module.php
+README.md
+composer.json
+phpunit.xml

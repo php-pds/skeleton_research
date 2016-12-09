@@ -1,0 +1,7 @@
+Classes/Lelesys/Module/Theme/
+Configuration/
+Migrations/Mysql/
+Resources/
+Tests/Unit/Domain/Model/
+README.md
+composer.json

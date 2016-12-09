@@ -1,0 +1,16 @@
+autoloads/
+bin/
+classes/
+cronjobs/
+design/
+doc/screenshots/
+modules/
+scripts/
+settings/
+src/
+translations/ger-DE/
+INSTALL
+LICENSE.txt
+README.txt
+composer.json
+ezinfo.php

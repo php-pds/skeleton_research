@@ -1,0 +1,15 @@
+Controller/
+DependencyInjection/
+Encryption/
+Identification/
+Resources/
+Service/
+Store/
+Tests/
+Transport/
+Twig/
+User/
+.gitignore
+CompilerPass.php
+composer.json
+mikemeierPHPNodeBridgeBundle.php

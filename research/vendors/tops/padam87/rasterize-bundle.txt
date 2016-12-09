@@ -1,0 +1,13 @@
+DependencyInjection/
+Resources/
+Tests/
+.coveralls.yml
+.gitattributes
+.gitignore
+.travis.yml
+ConfigHelper.php
+Padam87RasterizeBundle.php
+README.md
+Rasterizer.php
+composer.json
+phpunit.xml.dist

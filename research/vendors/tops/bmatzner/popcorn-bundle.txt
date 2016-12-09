@@ -1,0 +1,5 @@
+Resources/public/js/
+.gitignore
+BmatznerPopcornBundle.php
+README.md
+composer.json

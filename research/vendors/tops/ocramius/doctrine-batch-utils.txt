@@ -1,0 +1,8 @@
+src/DoctrineBatchUtils/BatchProcessing/
+test/DoctrineBatchUtilsTest/BatchProcessing/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

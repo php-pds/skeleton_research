@@ -1,0 +1,12 @@
+Ddl/Column/
+Exception/
+Object/
+Query/
+RowGateway/
+Schemas/Sources/
+TableGateway/
+Connection.php
+README.md
+SchemaManager.php
+TableSchema.php
+composer.json

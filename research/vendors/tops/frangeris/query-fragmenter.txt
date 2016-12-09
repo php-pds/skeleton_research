@@ -1,0 +1,4 @@
+src/Query/Fragmentator/
+LICENSE
+README.md
+composer.json

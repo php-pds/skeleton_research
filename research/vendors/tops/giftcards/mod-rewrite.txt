@@ -1,0 +1,15 @@
+Compiler/
+Condition/
+Formatter/
+Rule/
+Tests/
+.gitignore
+.travis.yml
+LICENSE
+MatchState.php
+README.md
+Result.php
+Rewriter.php
+RewriterBuilder.php
+composer.json
+phpunit.xml.dist

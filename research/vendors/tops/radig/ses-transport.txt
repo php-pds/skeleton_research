@@ -1,0 +1,4 @@
+Lib/Network/Email/
+LICENSE
+README.md
+composer.json

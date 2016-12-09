@@ -1,0 +1,8 @@
+features/
+screenshots/
+src/
+.gitignore
+.travis.yml
+README.md
+behat.yml.dist
+composer.json

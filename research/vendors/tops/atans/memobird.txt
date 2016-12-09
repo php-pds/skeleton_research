@@ -1,0 +1,7 @@
+cache/
+src/Memobird/
+tests/
+.gitignore
+README.md
+composer.json
+demo.jpg

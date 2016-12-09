@@ -1,0 +1,12 @@
+classes/
+config/
+guide/phalcana/
+public/
+tests/
+utf8/
+views/
+.gitignore
+.travis.yml
+LICENSE.md
+README.md
+composer.json

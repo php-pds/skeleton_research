@@ -1,0 +1,5 @@
+src/StpBoard/Travis/
+.gitignore
+README.md
+composer.json
+composer.lock

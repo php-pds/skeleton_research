@@ -1,0 +1,9 @@
+DependencyInjection/
+Pagination/
+Resources/config/
+Subscriber/
+.gitignore
+LICENSE
+README.md
+SamsonSimplerKNPPaginatorBundle.php
+composer.json

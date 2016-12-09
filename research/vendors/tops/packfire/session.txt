@@ -1,0 +1,7 @@
+src/Packfire/Session/
+test/
+.gitignore
+.travis.yml
+composer.json
+composer.lock
+readme.md

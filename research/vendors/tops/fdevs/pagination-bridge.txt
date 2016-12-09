@@ -1,0 +1,6 @@
+DependencyInjection/
+Resources/config/
+FDevsPaginationBundle.php
+LICENSE
+README.md
+composer.json

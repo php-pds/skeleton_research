@@ -1,0 +1,13 @@
+.github/
+Exception/
+Tests/
+.gitignore
+.travis.yml
+AbstractCachePool.php
+CacheItem.php
+Changelog.md
+HasExpirationDateInterface.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

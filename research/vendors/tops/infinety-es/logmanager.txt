@@ -1,0 +1,6 @@
+src/
+.editorconfig
+CHANGELOG.md
+CONTRIBUTING.md
+README.md
+composer.json

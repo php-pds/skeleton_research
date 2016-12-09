@@ -1,0 +1,5 @@
+Cookie.php
+CookieTrait.php
+LICENSE
+README.md
+composer.json

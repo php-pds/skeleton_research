@@ -1,0 +1,16 @@
+Exception/
+State/
+Col.hh
+Config.hh
+Format.hh
+Inflect.hh
+Number.hh
+Path.hh
+Registry.hh
+Sanitize.hh
+Str.hh
+Time.hh
+Validate.hh
+bootstrap.hh
+composer.json
+readme.md

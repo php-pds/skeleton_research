@@ -1,0 +1,9 @@
+example/app/
+public/
+src/Ink/InkTranslatable/
+tests/
+.gitignore
+.travis.yml
+README.md
+composer.json
+phpunit.xml

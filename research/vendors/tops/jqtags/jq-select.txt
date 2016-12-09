@@ -1,0 +1,7 @@
+test/
+README.md
+bower.json
+composer.json
+jqtags.select.js
+jqtags.select.scss
+module.json

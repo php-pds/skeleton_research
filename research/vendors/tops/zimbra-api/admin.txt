@@ -1,0 +1,11 @@
+Request/
+Struct/
+Tests/
+.gitignore
+AdminFactory.php
+AdminInterface.php
+Base.php
+Http.php
+README.md
+composer.json
+phpunit.xml.dist

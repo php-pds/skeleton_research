@@ -1,0 +1,6 @@
+Asset.php
+LICENSE
+README.md
+Resolver.php
+StaticResolver.php
+composer.json

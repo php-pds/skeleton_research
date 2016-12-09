@@ -1,0 +1,5 @@
+extensions/synergy/accounts/
+views/layouts/partials/
+.gitignore
+composer.json
+theme.json

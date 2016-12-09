@@ -1,0 +1,4 @@
+lib/webignition/ContainerAwareMigration/
+.gitignore
+README.md
+composer.json

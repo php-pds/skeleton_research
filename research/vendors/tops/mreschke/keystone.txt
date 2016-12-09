@@ -1,0 +1,16 @@
+Config/
+Console/Commands/
+Http/
+Providers/
+Tests/
+Views/
+.editorconfig
+.gitignore
+ConnectionInterface.php
+HttpConnection.php
+Keystone.php
+KeystoneInterface.php
+Metadata.php
+NativeConnection.php
+README.md
+composer.json

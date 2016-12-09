@@ -1,0 +1,16 @@
+Controller/Admin/
+DataSet/Transformer/
+DependencyInjection/
+Doctrine/Validator/Constraints/
+Entity/
+EventListener/
+Factory/
+Generator/
+Manager/
+Provider/
+Repository/
+Resources/config/
+LICENSE
+README.md
+WellCommerceRoutingBundle.php
+composer.json

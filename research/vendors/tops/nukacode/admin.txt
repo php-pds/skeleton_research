@@ -1,0 +1,10 @@
+docs/
+src/
+tests/features/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+behat.yml
+composer.json
+phpspec.yml

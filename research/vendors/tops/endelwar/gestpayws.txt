@@ -1,0 +1,13 @@
+src/
+tests/
+.gitignore
+.php_cs
+.styleci.yml
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+cacert-20151028.pem
+composer.json
+composer.lock
+phpunit.xml.dist

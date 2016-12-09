@@ -1,0 +1,11 @@
+bin/
+tests/
+.travis.yml
+LICENSE.txt
+README.md
+README.txt
+composer.json
+disable-xml-rpc-fully.php
+index.php
+phpunit.xml
+uninstall.php

@@ -1,0 +1,9 @@
+src/Devedge/XmlRpc/Common/
+tests/Devedge/XmlRpc/Common/
+.gitignore
+.rmt.yml
+CHANGELOG
+LICENSE.txt
+README.md
+composer.json
+phpunit.xml

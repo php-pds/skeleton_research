@@ -1,0 +1,7 @@
+public/
+resources/
+src/
+.gitignore
+bower.json
+composer.json
+readme.md

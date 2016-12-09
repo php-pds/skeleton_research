@@ -1,0 +1,12 @@
+assets/
+behaviors/
+components/
+controllers/
+helpers/
+messages/
+models/
+widgets/
+Bootstrap.php
+Module.php
+Yii.php
+composer.json

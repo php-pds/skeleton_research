@@ -1,0 +1,13 @@
+bin/
+report/
+src/
+tests/
+.apigen.neon
+.gitignore
+.travis.yml
+LICENSE.txt
+README.ja.md
+README.md
+Rakefile
+composer.json
+phpunit.xml.dist

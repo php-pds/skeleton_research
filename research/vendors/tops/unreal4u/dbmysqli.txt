@@ -1,0 +1,5 @@
+documentation/
+src/unreal4u/
+.gitignore
+README.md
+composer.json

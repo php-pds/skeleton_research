@@ -1,0 +1,10 @@
+actions/
+configs/
+licenses/
+public/
+templates/
+CHANGELOG.md
+LICENSE.md
+README.md
+TODO.md
+composer.json

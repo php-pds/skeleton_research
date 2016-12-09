@@ -1,0 +1,12 @@
+Adapter/SQS/
+DependencyInjection/
+Resources/config/
+Tests/
+.gitignore
+.travis.yml
+KaliopQueueingPluginsSQSBundle.php
+LICENSE
+composer.json
+news.md
+phpunit.xml.dist
+readme.md

@@ -1,0 +1,10 @@
+app/
+private/
+public/
+tests/
+.gitignore
+.htaccess
+.travis.yml
+README.md
+auth.sql
+composer.json

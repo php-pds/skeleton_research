@@ -1,0 +1,4 @@
+lib/ICanBoogie/Composer/
+LICENSE
+README.md
+composer.json

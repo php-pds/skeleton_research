@@ -1,0 +1,12 @@
+config/
+lib/
+locale/
+public/
+templates/
+.gitignore
+LICENSE
+Makefile
+README.md
+composer.json
+descriptor.php
+updates.php

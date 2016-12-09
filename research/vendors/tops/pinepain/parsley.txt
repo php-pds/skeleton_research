@@ -1,0 +1,8 @@
+example/
+src/Parsley/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json

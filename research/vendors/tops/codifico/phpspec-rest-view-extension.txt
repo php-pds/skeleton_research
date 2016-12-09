@@ -1,0 +1,10 @@
+bin/
+features/
+spec/Codifico/PhpSpec/RestViewExtension/
+src/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+composer.json

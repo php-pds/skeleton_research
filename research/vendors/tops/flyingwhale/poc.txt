@@ -1,0 +1,11 @@
+.idea/scopes/
+bin/
+src/Poc/
+tests/
+.coveralls.yml
+.gitignore
+.travis.yml
+README.markdown
+autoload.php
+composer.json
+phpunit.xml.dist

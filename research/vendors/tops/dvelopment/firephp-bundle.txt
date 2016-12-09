@@ -1,0 +1,8 @@
+DependencyInjection/
+FirePHPCore/
+Resources/config/
+Wrapper/
+.gitignore
+FirePHPBundle.php
+README.markdown
+composer.json

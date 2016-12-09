@@ -1,0 +1,7 @@
+src/
+tests/
+.drone.yml
+.gitignore
+.travis.yml
+README.md
+composer.json

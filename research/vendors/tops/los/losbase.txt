@@ -1,0 +1,12 @@
+config/
+data/crud/
+src/LosBase/
+tests/
+.gitignore
+.php_cs
+.travis.yml
+LICENSE
+Module.php
+README.md
+autoload_classmap.php
+composer.json

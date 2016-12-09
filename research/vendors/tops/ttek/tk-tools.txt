@@ -1,0 +1,9 @@
+Tbx/
+bin/
+docs/static/
+.gitignore
+GitNotes.md
+changelog.md
+composer.json
+readme.md
+todo.md

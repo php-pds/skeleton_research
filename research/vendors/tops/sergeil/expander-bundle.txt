@@ -1,0 +1,15 @@
+Command/
+Contributing/
+DependencyInjection/
+Ext/
+Generation/
+Misc/
+Resources/
+Tests/
+.gitignore
+.travis.yml
+README.markdown
+SliExpanderBundle.php
+composer.json
+composer.lock
+phpunit.xml.dist

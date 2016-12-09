@@ -1,0 +1,6 @@
+Adapter/
+Model/
+Tests/Mock/
+.gitignore
+README.md
+composer.json

@@ -1,0 +1,4 @@
+src/main/vektah/react_web/
+.gitignore
+Makefile
+composer.json

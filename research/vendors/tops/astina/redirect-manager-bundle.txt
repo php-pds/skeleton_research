@@ -1,0 +1,17 @@
+Command/
+Controller/
+DependencyInjection/
+Entity/
+EventListener/
+Form/Type/
+Redirect/
+Resources/
+Service/
+Tests/
+Validator/
+.gitignore
+.travis.yml
+AstinaRedirectManagerBundle.php
+README.md
+composer.json
+phpunit.xml.dist

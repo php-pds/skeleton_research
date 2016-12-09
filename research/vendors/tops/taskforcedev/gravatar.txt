@@ -1,0 +1,6 @@
+src/
+.gitattributes
+.travis.yml
+LICENSE
+README.md
+composer.json

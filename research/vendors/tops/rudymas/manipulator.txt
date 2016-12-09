@@ -1,0 +1,5 @@
+src/Manipulator/
+.gitignore
+LICENSE
+README.md
+composer.json

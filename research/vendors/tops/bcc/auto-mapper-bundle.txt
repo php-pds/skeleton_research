@@ -1,0 +1,11 @@
+DependencyInjection/
+Mapper/
+Resources/config/
+Tests/
+vendor/
+.gitignore
+.travis.yml
+BCCAutoMapperBundle.php
+README.markdown
+composer.json
+phpunit.xml.dist

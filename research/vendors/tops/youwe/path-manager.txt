@@ -1,0 +1,4 @@
+lib/PathManager/
+README.md
+composer.json
+plugin.xml

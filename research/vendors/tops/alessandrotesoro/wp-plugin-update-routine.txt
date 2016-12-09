@@ -1,0 +1,4 @@
+views/
+composer.json
+readme.md
+wp-plugin-update-routine.php

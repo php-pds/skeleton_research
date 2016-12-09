@@ -1,0 +1,4 @@
+src/Slack/Model/
+.gitignore
+README.md
+composer.json

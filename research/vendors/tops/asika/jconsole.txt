@@ -1,0 +1,7 @@
+bin/
+resource/
+src/
+.gitignore
+README.md
+composer.json
+index.html

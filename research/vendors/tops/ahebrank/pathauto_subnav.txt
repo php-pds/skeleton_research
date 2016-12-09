@@ -1,0 +1,5 @@
+src/Plugin/Block/
+README.md
+composer.json
+pathauto_subnav.info.yml
+pathauto_subnav.module

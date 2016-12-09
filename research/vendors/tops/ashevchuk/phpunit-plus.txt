@@ -1,0 +1,8 @@
+bin/
+src/PhpUnitPlus/Lib/
+tests/
+.gitignore
+.travis.yml
+README.md
+composer.json
+composer.lock

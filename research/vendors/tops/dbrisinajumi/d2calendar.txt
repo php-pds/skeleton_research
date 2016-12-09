@@ -1,0 +1,8 @@
+controllers/
+messages/
+migrations/
+models/
+views/
+D2calendarModule.php
+composer.json
+translation.php

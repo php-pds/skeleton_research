@@ -1,0 +1,5 @@
+config/
+src/Szykra/Guard/
+.gitignore
+README.md
+composer.json

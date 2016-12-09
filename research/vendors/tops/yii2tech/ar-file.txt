@@ -1,0 +1,12 @@
+tests/
+.gitattributes
+.gitignore
+.travis.yml
+CHANGELOG.md
+FileBehavior.php
+ImageFileBehavior.php
+LICENSE.md
+README.md
+TransformFileBehavior.php
+composer.json
+phpunit.xml.dist

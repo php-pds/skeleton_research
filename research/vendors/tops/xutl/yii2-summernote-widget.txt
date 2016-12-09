@@ -1,0 +1,9 @@
+assets/
+.gitattributes
+.gitignore
+README.md
+SummerNote.php
+SummerNoteAction.php
+SummerNoteAsset.php
+SummerNoteLanguageAsset.php
+composer.json

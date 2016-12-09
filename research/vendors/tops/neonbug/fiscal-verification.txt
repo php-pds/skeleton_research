@@ -1,0 +1,7 @@
+src/
+tests/
+.travis.yml
+CONTRIBUTING.md
+LICENSE.md
+README.md
+composer.json

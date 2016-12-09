@@ -1,0 +1,8 @@
+spec/Nikapps/NikPay/
+src/
+.gitignore
+CONTRIBUTING
+LICENSE
+README.md
+composer.json
+phpspec.yml

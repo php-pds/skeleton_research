@@ -1,0 +1,7 @@
+src/Neutron/Silex/Provider/
+tests/src/Neutron/Tests/Silex/Provider/
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,11 @@
+docs/
+lib/
+src/
+.gitattributes
+.gitignore
+LICENSE-AGPL.md
+LICENSE-COMMERCIAL-SAAS.md
+LICENSE-COMMERCIAL-WEBSITE.md
+LICENSE-COMMERCIAL-WEBSITES.md
+README.md
+composer.json

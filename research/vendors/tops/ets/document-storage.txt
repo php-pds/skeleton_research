@@ -1,0 +1,13 @@
+spec/Adapter/Storage/
+src/
+tests/Adapter/Storage/
+.editorconfig
+.gitattributes
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpspec.yml
+phpunit.xml

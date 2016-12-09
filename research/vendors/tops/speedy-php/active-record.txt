@@ -1,0 +1,9 @@
+examples/
+lib/
+test/
+.gitignore
+ActiveRecord.php
+CHANGELOG
+LICENSE
+README.md
+composer.json

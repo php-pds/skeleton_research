@@ -1,0 +1,16 @@
+classes/
+design/standard/
+doc/
+examples/
+modules/ezodf/
+ooPackage/
+scripts/
+settings/
+templates/
+translations/
+uploadhandlers/
+LICENSE
+README
+composer.json
+dist.sh
+extension.xml

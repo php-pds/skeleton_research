@@ -1,0 +1,6 @@
+Sniffs/
+Tests/Formatting/
+.gitignore
+README.md
+composer.json
+ruleset.xml

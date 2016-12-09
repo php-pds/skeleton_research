@@ -1,0 +1,7 @@
+_config/
+code/extensions/
+js/
+tests/
+README.md
+composer.json
+license

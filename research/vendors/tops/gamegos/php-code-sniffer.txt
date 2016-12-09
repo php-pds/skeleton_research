@@ -1,0 +1,8 @@
+bin/
+scripts/
+src/Gamegos/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock

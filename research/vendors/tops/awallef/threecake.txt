@@ -1,0 +1,5 @@
+src/Threecake/
+.gitignore
+.htaccess
+README.md
+composer.json

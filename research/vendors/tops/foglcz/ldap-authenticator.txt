@@ -1,0 +1,8 @@
+lib/
+.gitignore
+.travis.yml
+CONTRIBUTORS.md
+LICENSE.md
+README.md
+ROADMAP.md
+composer.json

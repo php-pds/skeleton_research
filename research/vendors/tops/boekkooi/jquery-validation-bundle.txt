@@ -1,0 +1,16 @@
+docs/
+src/
+tests/
+.gitattributes
+.gitignore
+.jshintrc
+.php_cs
+.scrutinizer.yml
+.travis.yml
+Gruntfile.js
+LICENSE
+README.md
+behat.yml.dist
+composer.json
+package.json
+phpunit.xml.dist

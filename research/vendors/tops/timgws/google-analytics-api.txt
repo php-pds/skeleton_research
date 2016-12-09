@@ -1,0 +1,6 @@
+examples/
+gapi_wrapper/
+src/
+.gitignore
+README.md
+composer.json

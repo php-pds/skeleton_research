@@ -1,0 +1,6 @@
+src/
+vendor/
+views/
+.gitattributes
+composer.json
+composer.lock

@@ -1,0 +1,9 @@
+doc/
+src/Indatus/ActiveResource/
+tests/
+.gitignore
+.travis.yml
+README.md
+composer.json
+phpdoc.xml
+phpunit.xml

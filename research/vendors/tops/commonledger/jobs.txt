@@ -1,0 +1,5 @@
+assets/img/
+desktop-engineer/
+software-engineer/
+.gitignore
+README.md

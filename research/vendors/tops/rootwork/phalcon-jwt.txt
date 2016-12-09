@@ -1,0 +1,6 @@
+src/Phalcon/Session/Adapter/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json

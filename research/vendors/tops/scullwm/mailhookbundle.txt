@@ -1,0 +1,16 @@
+ApiService/
+Controller/
+DependencyInjection/
+Event/
+Hook/
+Hydrator/
+Provider/
+Resources/config/
+Service/
+tests/
+.travis.yml
+LICENSE
+README.md
+SwmMailHookBundle.php
+SwmMailHookEvent.php
+composer.json

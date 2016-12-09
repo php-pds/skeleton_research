@@ -1,0 +1,7 @@
+docs/
+src/CodebaseHq/
+tests/
+.gitignore
+README.md
+composer.json
+composer.phar

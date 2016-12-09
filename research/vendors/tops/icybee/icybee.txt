@@ -1,0 +1,13 @@
+assets/
+config/
+lib/
+locale/
+src/
+templates/
+.gitattributes
+.gitignore
+LICENSE
+Makefile
+README.md
+bootstrap.php
+composer.json

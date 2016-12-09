@@ -1,0 +1,8 @@
+doc/
+ext/modules/payment/payneteasyform/
+includes/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock

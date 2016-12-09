@@ -1,0 +1,10 @@
+classes/
+cronjobs/
+filters/
+operations/
+settings/
+INSTALL
+README.md
+composer.json
+extension.xml
+ezinfo.php

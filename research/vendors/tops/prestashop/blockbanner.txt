@@ -1,0 +1,14 @@
+img/
+translations/
+upgrade/
+views/templates/admin/_configure/helpers/form/
+CHANGELOG.txt
+Readme.md
+blockbanner.css
+blockbanner.php
+blockbanner.tpl
+composer.json
+config.xml
+index.php
+logo.gif
+logo.png

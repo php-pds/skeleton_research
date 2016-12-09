@@ -1,0 +1,10 @@
+dist/
+src/
+.gitattributes
+.gitignore
+.jshintrc
+Gruntfile.js
+README.md
+bower.json
+composer.json
+package.json

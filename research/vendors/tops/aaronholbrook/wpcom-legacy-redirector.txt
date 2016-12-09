@@ -1,0 +1,3 @@
+includes/
+composer.json
+wpcom-legacy-redirector.php

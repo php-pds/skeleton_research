@@ -1,0 +1,9 @@
+DependencyInjection/
+Resources/
+.gitignore
+CampaignChainDistributionCeBundle.php
+LICENSE
+NOTICE
+README.md
+campaignchain.yml
+composer.json

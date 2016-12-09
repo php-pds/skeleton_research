@@ -1,0 +1,10 @@
+bin/
+db/
+library/Opus/
+tests/
+.gitignore
+LICENCE.md
+README.md
+build.xml
+composer.json
+gpl-3.0.txt

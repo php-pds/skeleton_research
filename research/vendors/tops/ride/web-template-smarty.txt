@@ -1,0 +1,6 @@
+config/
+src/ride/web/template/smarty/plugin/
+.gitignore
+README.md
+composer.json
+ride.json

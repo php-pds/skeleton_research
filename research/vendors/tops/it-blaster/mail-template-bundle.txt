@@ -1,0 +1,11 @@
+Admin/
+Command/
+DependencyInjection/
+Model/
+Resources/
+Service/
+.gitignore
+ItBlasterMailTemplateBundle.php
+LICENSE
+README.md
+composer.json

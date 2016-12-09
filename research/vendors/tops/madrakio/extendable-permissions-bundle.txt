@@ -1,0 +1,9 @@
+Chain/
+DependencyInjection/
+Form/
+Resources/
+Security/Authorization/
+LICENSE
+MadrakIOExtendablePermissionsBundle.php
+README.md
+composer.json

@@ -1,0 +1,8 @@
+src/agallou/ArrayFilterPath/
+tests/
+.atoum.php
+.coke
+.gitignore
+README.md
+composer.json
+composer.lock

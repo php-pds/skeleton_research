@@ -1,0 +1,10 @@
+Controller/
+DependencyInjection/
+Entity/
+Form/
+Resources/
+.gitignore
+BaconUserBundle.php
+LICENSE
+README.md
+composer.json

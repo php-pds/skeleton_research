@@ -1,0 +1,9 @@
+components/
+gii/
+migrations/
+models/
+unit_tests/
+Module.php
+README.md
+composer.json
+messages_config.php

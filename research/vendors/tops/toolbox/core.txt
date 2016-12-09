@@ -1,0 +1,15 @@
+command/
+resources/
+test/
+tests/
+.gitattributes
+.gitignore
+.travis.yml
+Application.php
+Config.php
+Passthru.php
+README.md
+Shell.php
+autoload.php.dist
+composer.json
+phpunit.xml.dist

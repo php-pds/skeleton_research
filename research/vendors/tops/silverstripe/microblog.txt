@@ -1,0 +1,14 @@
+_config/
+code/
+css/
+docs/en/
+javascript/
+templates/
+tests/
+thirdparty/
+.gitattributes
+LICENSE
+README.md
+_config.php
+code-of-conduct.md
+composer.json

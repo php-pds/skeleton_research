@@ -1,0 +1,5 @@
+docs/en/
+src/Vivait/ReportingBundle/
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,14 @@
+src/
+test/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+Makefile
+README.md
+appveyor.bat
+appveyor.yml
+composer.json
+composer.lock
+phpunit.xml.dist
+travis-init.sh

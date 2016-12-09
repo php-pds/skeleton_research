@@ -1,0 +1,10 @@
+Command/
+Controller/
+DependencyInjection/
+Entity/
+Form/
+Lib/
+Resources/
+README.md
+UnifikDatabaseConfigBundle.php
+composer.json

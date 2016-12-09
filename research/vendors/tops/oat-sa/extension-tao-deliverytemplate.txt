@@ -1,0 +1,13 @@
+controller/
+install/install/
+locales/
+model/
+rdf/
+test/model/
+views/
+.htaccess
+LICENSE
+README.md
+composer.json
+index.php
+manifest.php

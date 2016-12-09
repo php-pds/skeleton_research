@@ -1,0 +1,9 @@
+actions/
+views/default/
+LICENSE
+README.md
+README.txt
+activate.php
+composer.json
+manifest.xml
+start.php

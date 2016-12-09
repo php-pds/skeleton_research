@@ -1,0 +1,9 @@
+Controller/
+DependencyInjection/
+Model/
+Resources/
+.gitignore
+LICENSE
+MesdPhantasosClientBundle.php
+README.md
+composer.json

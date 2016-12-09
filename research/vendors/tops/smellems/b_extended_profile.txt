@@ -1,0 +1,12 @@
+actions/b_extended_profile/
+css/
+img/
+js/endorsements/
+languages/
+vendors/
+views/
+LICENSE
+README.md
+composer.json
+manifest.xml
+start.php

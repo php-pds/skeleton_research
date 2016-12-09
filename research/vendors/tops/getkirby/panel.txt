@@ -1,0 +1,12 @@
+.tx/
+app/
+assets/
+tests/
+.gitignore
+composer.json
+gulpfile.js
+index.php
+license.md
+package.json
+phpunit.xml
+readme.md

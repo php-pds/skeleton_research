@@ -1,0 +1,5 @@
+src/CJSissingh/InstagramBundle/
+.gitignore
+LICENSE
+README.md
+composer.json

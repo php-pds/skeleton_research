@@ -1,0 +1,4 @@
+src/ride/library/cli/command/
+LICENSE
+composer.json
+ride.json

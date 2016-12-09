@@ -1,0 +1,15 @@
+Config/
+DependencyInjection/
+Entity/
+Manager/
+Model/
+Resources/
+Tests/
+Twig/Extension/
+.gitignore
+.travis.yml
+README.md
+SlyRelationBundle.php
+composer.json
+composer.lock
+phpunit.xml.dist

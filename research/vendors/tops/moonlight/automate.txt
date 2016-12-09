@@ -1,0 +1,7 @@
+bin/
+src/
+README.txt
+automate.config
+automate.json
+automate.php
+composer.json

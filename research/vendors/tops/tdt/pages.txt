@@ -1,0 +1,8 @@
+dev/
+examples/
+includes/template/
+public/
+src/tdt/pages/
+.gitignore
+README.md
+composer.json

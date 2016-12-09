@@ -1,0 +1,4 @@
+src/StrongType/
+.gitignore
+composer.json
+examples.php

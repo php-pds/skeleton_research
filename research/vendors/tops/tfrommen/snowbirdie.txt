@@ -1,0 +1,11 @@
+images/
+template-parts/
+.editorconfig
+.gitattributes
+.gitignore
+CHANGELOG.md
+LICENSE
+README.md
+composer.json
+functions.php
+style.css

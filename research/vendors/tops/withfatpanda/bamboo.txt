@@ -1,0 +1,11 @@
+config/
+resources/
+src/
+tests/
+.gitignore
+CHANGELOG.md
+README.md
+bootstrap.php
+composer.json
+phpunit.xml
+readme.txt

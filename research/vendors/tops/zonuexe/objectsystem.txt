@@ -1,0 +1,14 @@
+.phan/
+build/
+src/Object/
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+Rakefile
+composer.json
+phpdox.xml.dist
+phpunit.xml.dist
+poem.ja.md

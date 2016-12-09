@@ -1,0 +1,4 @@
+yii/image/
+.gitignore
+README.md
+composer.json

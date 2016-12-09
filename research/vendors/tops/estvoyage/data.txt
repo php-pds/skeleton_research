@@ -1,0 +1,9 @@
+classes/
+tests/units/
+.atoum.php
+.gitignore
+.travis.yml
+COPYING
+README.md
+composer.json
+composer.lock

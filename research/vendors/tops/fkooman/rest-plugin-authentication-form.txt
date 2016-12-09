@@ -1,0 +1,9 @@
+src/fkooman/Rest/Plugin/Authentication/Form/
+tests/fkooman/Rest/Plugin/Authentication/Form/
+.gitignore
+.travis.yml
+CHANGES.md
+COPYING
+README.md
+composer.json
+phpunit.xml.dist

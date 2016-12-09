@@ -1,0 +1,16 @@
+_config/
+code/
+css/
+docs/
+images/
+javascript/
+lang/
+scss/
+templates/
+.editorconfig
+.gitattributes
+.htaccess
+LICENSE
+README.md
+_config.php
+composer.json

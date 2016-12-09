@@ -1,0 +1,5 @@
+src/Echo511/Gaufrette/
+tests/
+.gitignore
+README.md
+composer.json

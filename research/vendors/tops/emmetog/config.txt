@@ -1,0 +1,7 @@
+src/Emmetog/Config/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock

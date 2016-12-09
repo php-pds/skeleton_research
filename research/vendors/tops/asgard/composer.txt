@@ -1,0 +1,5 @@
+BundleInstaller.php
+BundleInstallerPlugin.php
+LICENSE
+README.md
+composer.json

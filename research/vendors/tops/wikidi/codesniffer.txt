@@ -1,0 +1,7 @@
+reports/wikidi/
+standard/
+tests/Wikidi/
+.gitignore
+Makefile
+README.md
+composer.json

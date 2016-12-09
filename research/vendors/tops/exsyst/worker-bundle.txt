@@ -1,0 +1,13 @@
+Command/
+DependencyInjection/
+Exception/
+.gitignore
+.php_cs
+.travis.yml
+EXSystWorkerBundle.php
+LICENSE
+README.md
+ServiceAwareWorkerFactory.php
+WorkerRegistry.php
+composer.json
+phpunit.xml.dist

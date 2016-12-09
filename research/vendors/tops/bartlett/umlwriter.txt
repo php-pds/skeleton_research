@@ -1,0 +1,16 @@
+bin/
+build/
+docs/
+examples/
+src/Bartlett/UmlWriter/
+tests/
+.gitignore
+LICENSE
+README.asciidoc
+box.json
+composer.json
+composer.lock
+manifest.txt
+phar-manifest.php
+phar-stub.php
+phpunit.xml.dist

@@ -1,0 +1,10 @@
+doc/
+.gitignore
+ChangeLog
+README.md
+class.tx_clearcacheextend.php
+composer.json
+ext_emconf.php
+ext_icon.gif
+ext_localconf.php
+locallang.php

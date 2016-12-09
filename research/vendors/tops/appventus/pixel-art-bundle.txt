@@ -1,0 +1,7 @@
+DependencyInjection/
+Resources/
+Twig/Extension/
+bin/
+AvPixelArtBundle.php
+README.md
+composer.json

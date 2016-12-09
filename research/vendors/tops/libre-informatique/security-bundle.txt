@@ -1,0 +1,11 @@
+Configurator/
+Controller/
+DataFixtures/ORM/
+DependencyInjection/
+Interceptor/
+Resources/
+Tests/Controller/
+Voters/
+LibrinfoSecurityBundle.php
+README.md
+composer.json

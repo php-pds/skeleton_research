@@ -1,0 +1,7 @@
+src/Joseki/Application/Responses/
+tests/
+.gitattributes
+.gitignore
+.travis.yml
+composer.json
+readme.md

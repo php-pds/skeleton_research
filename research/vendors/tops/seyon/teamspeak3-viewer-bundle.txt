@@ -1,0 +1,9 @@
+Controller/
+DependencyInjection/
+Resources/
+nbproject/
+.gitignore
+LICENSE
+README.md
+SeyonTeamspeak3ViewerBundle.php
+composer.json

@@ -1,0 +1,10 @@
+config/
+nbproject/
+src/
+.gitignore
+LICENSE
+README.md
+autoload_classmap.php
+autoload_function.php
+autoload_register.php
+composer.json

@@ -1,0 +1,6 @@
+assets/
+LICENSE
+NivoSlider.php
+NivoSliderAsset.php
+README.md
+composer.json

@@ -1,0 +1,8 @@
+i18n/
+includes/
+README.md
+SMWParent.i18n.magic.php
+SMWParent.i18n.php
+SMWParent.php
+composer.json
+extension.json

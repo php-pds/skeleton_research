@@ -1,0 +1,5 @@
+superfish/
+README.md
+Superfish.php
+SuperfishAssets.php
+composer.json

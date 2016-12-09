@@ -1,0 +1,5 @@
+doc/screenshots/
+src/app/
+composer.json
+modman
+readme.rst

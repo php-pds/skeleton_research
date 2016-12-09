@@ -1,0 +1,4 @@
+src/bc/Slack/
+.gitignore
+README.md
+composer.json

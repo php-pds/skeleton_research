@@ -1,0 +1,11 @@
+app/
+media/catalog/product/LCI/
+.gitignore
+.travis.yml
+LICENSE.txt
+README.md
+aoe-logo.png
+composer.json
+lci.php
+modman
+phpcs.xml

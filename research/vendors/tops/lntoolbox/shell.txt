@@ -1,0 +1,11 @@
+Exception/
+Tests/
+.gitignore
+.travis.yml
+LICENSE
+Readme.md
+ShellCommand.php
+ShellResult.php
+Terminal.php
+composer.json
+phpunit.xml

@@ -1,0 +1,11 @@
+Config/
+Console/
+Controller/
+Test/
+Vendor/
+View/
+webroot/
+.gitignore
+.gitmodules
+README.md
+composer.json

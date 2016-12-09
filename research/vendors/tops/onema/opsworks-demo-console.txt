@@ -1,0 +1,6 @@
+app/
+src/Onema/OpsWorksConsole/
+.gitignore
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,13 @@
+build/
+src/Brainy/
+test/
+.gitignore
+.travis.yml
+CONTRIBUTING.md
+LICENSE.md
+Makefile
+README.md
+composer.json
+logo.png
+phpunit-hhvm
+phpunit.xml

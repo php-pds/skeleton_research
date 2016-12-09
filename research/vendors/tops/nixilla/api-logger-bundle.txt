@@ -1,0 +1,12 @@
+DataCollector/
+DependencyInjection/
+Logger/
+Proxy/Buzz/
+Resources/
+Traits/
+Twig/
+spec/Nixilla/Api/LoggerBundle/
+.travis.yml
+NixillaApiLoggerBundle.php
+README.rst
+composer.json

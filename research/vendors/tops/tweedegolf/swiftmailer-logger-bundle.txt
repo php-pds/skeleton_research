@@ -1,0 +1,8 @@
+src/TweedeGolf/SwiftmailerLoggerBundle/
+test/spec/TweedeGolf/SwiftmailerLoggerBundle/Entity/
+.gitignore
+LICENSE
+README.md
+behat.yml.dist
+composer.json
+phpspec.yml.dist

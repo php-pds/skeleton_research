@@ -1,0 +1,6 @@
+src/Aozora0000/HeaderGenerator/
+tests/
+.gitignore
+.travis.yml
+README.md
+composer.json

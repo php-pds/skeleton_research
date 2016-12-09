@@ -1,0 +1,9 @@
+Test/Functional/
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+StatementRepositoryInterface.php
+UPGRADE.md
+composer.json

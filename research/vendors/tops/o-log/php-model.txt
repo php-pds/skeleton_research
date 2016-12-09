@@ -1,0 +1,11 @@
+OLOG/
+PHPModelDemo/
+Tests/
+public/
+.gitignore
+README.md
+cli.php
+composer.json
+phpmodel.sql
+run.sh
+test.sh

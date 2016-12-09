@@ -1,0 +1,12 @@
+config/
+docs/
+resources/views/
+src/LaravelFacebookAds/
+tests/
+.codeclimate.yml
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

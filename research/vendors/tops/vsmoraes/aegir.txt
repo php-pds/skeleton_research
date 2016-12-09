@@ -1,0 +1,6 @@
+src/Vsmoraes/Aegir/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json

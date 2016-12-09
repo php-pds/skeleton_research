@@ -1,0 +1,6 @@
+src/main/php/
+ChangeLog.md
+LICENCE.md
+README.md
+class.pth
+composer.json

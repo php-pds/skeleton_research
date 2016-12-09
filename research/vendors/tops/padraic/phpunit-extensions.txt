@@ -1,0 +1,8 @@
+src/Humbug/Phpunit/
+tests/Humbug/Test/Phpunit/Logger/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

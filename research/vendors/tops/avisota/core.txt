@@ -1,0 +1,11 @@
+src/Avisota/
+test/Avisota/Test/
+.check-author.yml
+.gitignore
+.travis.yml
+README.md
+apigen.yml
+build.properties.default
+build.xml
+composer.json
+phpunit.xml.dist

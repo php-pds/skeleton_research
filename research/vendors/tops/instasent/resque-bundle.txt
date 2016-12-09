@@ -1,0 +1,16 @@
+Command/
+Controller/
+DependencyInjection/
+Resources/
+bin/
+.gitignore
+ContainerAwareJob.php
+FailedJob.php
+InstasentResqueBundle.php
+Job.php
+Queue.php
+README.md
+Resque.php
+Worker.php
+WorkerSingle.php
+composer.json

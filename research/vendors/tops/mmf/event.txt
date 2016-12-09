@@ -1,0 +1,7 @@
+src/event/
+tests/src/
+.gitattributes
+.gitignore
+LICENSE
+README.md
+composer.json

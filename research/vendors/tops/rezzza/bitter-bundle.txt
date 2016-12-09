@@ -1,0 +1,10 @@
+Bitter/
+DependencyInjection/
+Resources/config/
+Tests/Units/DependencyInjection/
+.gitignore
+.travis.yml
+LICENSE
+README.rst
+RezzzaBitterBundle.php
+composer.json

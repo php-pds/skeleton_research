@@ -1,0 +1,8 @@
+database/
+lang/
+src/
+themes/
+.gitignore
+README.md
+composer.json
+extension.php

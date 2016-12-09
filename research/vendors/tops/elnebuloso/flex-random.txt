@@ -1,0 +1,14 @@
+resources/
+src/elnebuloso/Flex/Random/
+tests/src/elnebuloso/FlexTest/Random/Text/
+.coveralls.yml
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+VERSION
+build.properties
+build.xml
+composer.json
+phpunit.xml

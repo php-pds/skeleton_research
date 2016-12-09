@@ -1,0 +1,5 @@
+src/ThinFrame/Composer/
+.gitignore
+README.md
+composer.json
+composer.lock

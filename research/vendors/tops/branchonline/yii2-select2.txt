@@ -1,0 +1,6 @@
+assets/select2/
+components/
+widget/
+.gitignore
+composer.json
+composer.lock

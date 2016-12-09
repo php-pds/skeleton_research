@@ -1,0 +1,10 @@
+config/
+src/SmallUser/
+tests/
+view/small-user/auth/
+.gitignore
+.travis.yml
+LICENSE
+Module.php
+README.md
+composer.json

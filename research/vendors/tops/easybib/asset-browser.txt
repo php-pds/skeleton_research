@@ -1,0 +1,15 @@
+bin/
+config/
+deploy/
+src/
+templates/
+var/
+www/
+.gitignore
+.travis.yml
+LICENSE.txt
+Makefile
+README.md
+composer.json
+composer.phar
+phpunit.xml.dist

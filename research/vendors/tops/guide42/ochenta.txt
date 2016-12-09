@@ -1,0 +1,10 @@
+library/
+spec/Suite/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CHANGES.md
+COPYING
+README.md
+composer.json
+kahlan-config.php

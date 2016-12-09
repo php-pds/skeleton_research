@@ -1,0 +1,17 @@
+Command/
+DependencyInjection/
+Resources/config/services/
+Service/
+Tests/
+bin/
+doc/
+.gitignore
+CHANGELOG.md
+CONTRIBUTING.md
+GnugatMicroFrameworkBundle.php
+LICENSE
+README.md
+VERSIONING.md
+composer.json
+couscous.yml
+phpunit.xml.dist

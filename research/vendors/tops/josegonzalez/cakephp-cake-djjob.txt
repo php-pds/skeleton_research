@@ -1,0 +1,12 @@
+Config/
+Console/Command/
+Controller/
+Lib/Job/
+Model/Behavior/
+Test/
+.editorconfig
+.travis.yml
+CONTRIBUTING.md
+LICENSE.txt
+README.md
+composer.json

@@ -1,0 +1,5 @@
+src/Gnkw/Console/
+.gitignore
+COPYING.txt
+README.md
+composer.json

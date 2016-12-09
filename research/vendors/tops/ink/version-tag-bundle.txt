@@ -1,0 +1,3 @@
+src/Ink/VersionTagBundle/
+README.md
+composer.json

@@ -1,0 +1,9 @@
+config/
+lib/
+static/midcom.extras.datamanager2/
+test/
+.gitignore
+.travis.yml
+README.md
+composer.json
+phpunit.xml.dist

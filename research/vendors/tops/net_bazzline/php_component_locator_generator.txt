@@ -1,0 +1,13 @@
+bin/
+example/
+source/
+test/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+composer.json
+execute_example
+generate_api
+phpunit.xml.dist

@@ -1,0 +1,11 @@
+assets/
+.gitattributes
+.gitignore
+ChunkUploader.php
+Plupload.php
+PluploadAction.php
+PluploadAsset.php
+PluploadJuiAsset.php
+PluploadLanguageAsset.php
+README.md
+composer.json

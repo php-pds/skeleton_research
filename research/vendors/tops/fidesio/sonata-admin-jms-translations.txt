@@ -1,0 +1,8 @@
+Controller/
+DependencyInjection/
+Resources/
+Translation/
+.gitignore
+FidesioSonataAdminJMSTranslationBundle.php
+README.md
+composer.json

@@ -1,0 +1,7 @@
+.sass-cache/
+assets/css/
+src/Simpletree/Foundation/
+LICENSE
+README.md
+composer.json
+index.html

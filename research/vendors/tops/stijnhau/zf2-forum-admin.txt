@@ -1,0 +1,10 @@
+config/
+src/Zf2ForumAdmin/
+tests/
+view/zf2-forum-admin/zf2-forum-admin/
+.gitignore
+.travis.yml
+LICENSE
+Module.php
+README.md
+composer.json

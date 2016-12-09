@@ -1,0 +1,9 @@
+controllers/
+install/
+lib/News/
+static/
+views/
+README.md
+UPGRADE.md
+composer.json
+plugin.xml

@@ -1,0 +1,6 @@
+src/SimpleLogger/
+.gitattributes
+.gitignore
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,14 @@
+images/
+tests/
+.infra.json
+.mark.png
+Iadmin.php
+Imager.php
+README.md
+admin.php
+composer.json
+empty.png
+index.php
+noimage.png
+test.jpg
+update.php

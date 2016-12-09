@@ -1,0 +1,8 @@
+src/
+.editorconfig
+.gitignore
+.php_cs
+.scrutinizer.yml
+LICENSE.md
+README.md
+composer.json

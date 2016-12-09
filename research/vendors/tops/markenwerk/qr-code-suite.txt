@@ -1,0 +1,13 @@
+src/
+test/
+.codeclimate.yml
+.gitignore
+.sensiolabs.yml
+.travis.yml
+CONTRIBUTING.md
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist
+vagrant-bootstrap.sh
+vagrantfile.example

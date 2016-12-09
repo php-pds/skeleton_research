@@ -1,0 +1,17 @@
+config/
+docs/
+src/ORM/Behavior/
+tests/
+.dunitconfig
+.editorconfig
+.gitattributes
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CONTRIBUTING.markdown
+LICENSE.txt
+Makefile
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

@@ -1,0 +1,15 @@
+src/
+test/
+.gitignore
+.travis.yml
+CHANGELOG.md
+CONTRIBUTING.md
+LICENSE.md
+README.md
+WRITEME.md
+benchmark.php
+box.json
+composer.json
+composer.lock
+phormat
+phpunit.xml.dist

@@ -1,0 +1,12 @@
+fixtures/
+spec/Prophecy/
+src/Prophecy/
+tests/Doubler/Generator/
+.gitignore
+.travis.yml
+CHANGES.md
+CONTRIBUTING.md
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

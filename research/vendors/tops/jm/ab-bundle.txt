@@ -1,0 +1,10 @@
+DependencyInjection/
+Entity/
+Resources/
+Tests/
+Twig/
+.travis.yml
+JmABBundle.php
+README.markdown
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,4 @@
+public/
+README.md
+composer.json
+init_autoloader.php

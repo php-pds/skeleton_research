@@ -1,0 +1,5 @@
+src/Xethron/
+tests/
+README.md
+composer.json
+phpunit.xml

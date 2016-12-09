@@ -1,0 +1,8 @@
+src/
+tests/Neoxygen/ConsoleClient/Tests/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml

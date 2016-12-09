@@ -1,0 +1,14 @@
+Action/
+Exception/
+Model/
+Resources/doc/
+Tests/
+.gitignore
+.travis.yml
+OpenPayUWrapper.php
+PayUGatewayFactory.php
+PayUPaymentFactory.php
+README.md
+SetPayU.php
+composer.json
+phpunit.xml.dist

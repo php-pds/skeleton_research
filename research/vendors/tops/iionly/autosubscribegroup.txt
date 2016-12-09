@@ -1,0 +1,8 @@
+languages/
+views/default/plugins/autosubscribegroup/
+CHANGES.txt
+LICENCE.txt
+README.md
+composer.json
+manifest.xml
+start.php

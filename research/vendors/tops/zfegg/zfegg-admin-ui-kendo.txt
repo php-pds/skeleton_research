@@ -1,0 +1,12 @@
+config/
+dist/
+libs/kendo/
+src/
+view/
+.gitignore
+Gruntfile.js
+Module.php
+README.md
+bower.json
+composer.json
+package.json

@@ -1,0 +1,9 @@
+controller/
+install/
+locales/en-US/
+scripts/update/
+views/
+LICENSE
+README.md
+composer.json
+manifest.php

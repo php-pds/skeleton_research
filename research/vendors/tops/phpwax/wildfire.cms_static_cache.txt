@@ -1,0 +1,11 @@
+assets/stylesheets/wildfire.cms_static_cache/
+lib/
+resources/app/controller/admin/
+view/CMSAdminStaticsController/
+.gitignore
+README.md
+apache.example.htaccess
+composer.json
+ini.php
+nginx.example.conf
+setup.php

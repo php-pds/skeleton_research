@@ -1,0 +1,7 @@
+DependencyInjection/
+ExtJs/
+Resources/config/
+Robot/
+Readme.md
+ZanBrowserAutomationBundle.php
+composer.json

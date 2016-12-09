@@ -1,0 +1,9 @@
+_config/
+code/
+dashboard/
+docs/en/
+.editorconfig
+LICENSE
+README.md
+_config.php
+composer.json

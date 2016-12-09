@@ -1,0 +1,11 @@
+src/Tagmeo/
+.editorconfig
+.gitattributes
+.gitignore
+.nitpick.json
+.styleci.yml
+.travis.yml
+composer.json
+composer.lock
+phpcs.xml
+readme.md

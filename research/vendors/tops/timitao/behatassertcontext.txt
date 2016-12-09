@@ -1,0 +1,6 @@
+src/Behat/Context/Assert/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock

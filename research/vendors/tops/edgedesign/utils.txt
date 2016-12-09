@@ -1,0 +1,8 @@
+Converter/
+Generator/
+Type/
+tests/
+.gitignore
+README.md
+composer.json
+phpunit.xml

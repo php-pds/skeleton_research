@@ -1,0 +1,5 @@
+app/
+src/Ahlin/Bundle/CoreBundle/
+.gitignore
+composer.json
+phpunit.xml.dist

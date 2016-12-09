@@ -1,0 +1,9 @@
+bootstrap-style/
+doc/
+js/
+src/
+.gitattributes
+.gitignore
+composer.json
+license.md
+readme.md

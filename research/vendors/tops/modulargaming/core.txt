@@ -1,0 +1,10 @@
+classes/
+config/
+guide/modulargaming/
+messages/
+migrations/core/
+templates/
+LICENSE.md
+README.md
+composer.json
+init.php

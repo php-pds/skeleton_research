@@ -1,0 +1,7 @@
+Example/
+nbproject/
+src/Enum/
+.gitignore
+LISCENSE.txt
+README.md
+composer.json

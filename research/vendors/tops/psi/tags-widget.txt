@@ -1,0 +1,8 @@
+config/
+html/
+languages/
+public/
+templates/
+README.md
+TagsWidget.php
+composer.json

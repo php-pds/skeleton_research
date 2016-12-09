@@ -1,0 +1,4 @@
+Command/
+etc/
+composer.json
+registration.php

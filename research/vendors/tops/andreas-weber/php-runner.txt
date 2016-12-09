@@ -1,0 +1,12 @@
+examples/
+resources/vagrant/
+src/
+.editorconfig
+.gitattributes
+.gitignore
+.travis.yml
+LICENSE
+README.md
+Vagrantfile
+build.xml
+composer.json

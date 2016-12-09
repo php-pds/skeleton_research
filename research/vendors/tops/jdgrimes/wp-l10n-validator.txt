@@ -1,0 +1,12 @@
+bin/
+config/
+tests/
+.travis.yml
+CONTRIBUTING.md
+LICENSE
+README.md
+composer.json
+example-config.json
+ignores-cache-generator.php
+phpunit.xml.dist
+wp-l10n-validator.php

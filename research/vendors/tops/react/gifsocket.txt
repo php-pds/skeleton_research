@@ -1,0 +1,8 @@
+doc/
+examples/
+src/React/Gifsocket/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock

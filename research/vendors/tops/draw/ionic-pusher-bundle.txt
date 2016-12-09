@@ -1,0 +1,8 @@
+Debug/
+DependencyInjection/
+Pusher/
+Resources/
+.gitignore
+DrawIonicPusherBundle.php
+README.md
+composer.json

@@ -1,0 +1,9 @@
+src/TheFox/HTML/
+tests/
+.editorconfig
+.gitignore
+Makefile
+README.md
+composer.json
+html2markdown.sublime-project
+phpunit.xml

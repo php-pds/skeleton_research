@@ -1,0 +1,3 @@
+lib/VIC/TCPDF/
+README.md
+composer.json

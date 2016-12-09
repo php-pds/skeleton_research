@@ -1,0 +1,14 @@
+_config/
+code/
+css/
+images/
+javascript/
+lang/
+tests/
+.gitignore
+LICENSE
+README.md
+_config.php
+capture.js
+composer.json
+composer.lock

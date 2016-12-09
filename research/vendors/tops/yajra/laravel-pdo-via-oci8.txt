@@ -1,0 +1,9 @@
+src/Pdo/
+tests/
+.gitignore
+.php_cs
+.travis.yml
+LICENSE
+composer.json
+phpunit.xml
+readme.md

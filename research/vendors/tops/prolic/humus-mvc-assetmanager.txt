@@ -1,0 +1,7 @@
+config/
+src/HumusMvcAssetManager/
+LICENSE.txt
+Module.php
+README.md
+autoload_classmap.php
+composer.json

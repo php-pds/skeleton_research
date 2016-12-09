@@ -1,0 +1,7 @@
+Command/
+Configuration/
+Generator/
+.gitignore
+LICENSE
+README.md
+composer.json

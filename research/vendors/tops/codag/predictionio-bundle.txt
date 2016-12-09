@@ -1,0 +1,9 @@
+Api/
+DependencyInjection/
+Resources/config/
+Tests/
+.travis.yml
+CodagPredictionIOBundle.php
+README.md
+composer.json
+phpunit.xml.dist

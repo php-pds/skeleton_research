@@ -1,0 +1,17 @@
+src/
+tests/
+.codeclimate.yml
+.coveralls.yml
+.editorconfig
+.gitattributes
+.gitignore
+.phpstorm.meta.php
+.travis.yml
+LICENSE
+Makefile
+README.md
+README_RUS.md
+composer.json
+phpunit-joomla.xml.dist
+phpunit-wordpress.xml.dist
+pimple.json

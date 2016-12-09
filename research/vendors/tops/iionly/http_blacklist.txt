@@ -1,0 +1,9 @@
+actions/http_blacklist/
+languages/
+views/default/plugins/http_blacklist/
+CHANGES.txt
+LICENCE.txt
+README.md
+composer.json
+manifest.xml
+start.php

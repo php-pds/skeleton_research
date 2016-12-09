@@ -1,0 +1,5 @@
+Model/
+etc/
+composer.json
+readme.md
+registration.php

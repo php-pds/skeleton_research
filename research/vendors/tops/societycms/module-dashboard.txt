@@ -1,0 +1,16 @@
+Assets/
+Config/
+Console/
+Database/
+Entities/
+Http/
+MenuExtenders/
+Providers/
+Repositories/
+Resources/
+Tests/
+CHANGELOG.md
+LICENSE.txt
+composer.json
+module.json
+start.php

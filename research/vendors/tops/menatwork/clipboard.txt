@@ -1,0 +1,4 @@
+system/modules/clipboard/
+README.md
+clipboard.psd
+composer.json

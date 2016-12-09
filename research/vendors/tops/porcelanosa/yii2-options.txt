@@ -1,0 +1,17 @@
+assets/
+components/helpers/
+controllers/
+fixtures/
+migrations/
+models/
+views/
+.gitignore
+ChildOptionsBehavior.php
+ChildOptionsWidget.php
+LICENSE
+Module.php
+OptionsBehavior.php
+OptionsFrontWidget.php
+OptionsWidget.php
+README.md
+composer.json

@@ -1,0 +1,13 @@
+build/
+demo/
+src/GreenCape/Manifest/
+tests/
+.codeclimate.yml
+.gitattributes
+.gitignore
+.travis.yml
+LICENSE.txt
+README.md
+build.xml
+composer.json
+composer.lock

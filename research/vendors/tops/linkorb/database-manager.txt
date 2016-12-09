@@ -1,0 +1,10 @@
+bin/
+examples/
+src/DatabaseManager/
+tests/
+.editorconfig
+.gitignore
+LICENSE.md
+README.md
+composer.json
+phpunit.xml.dist

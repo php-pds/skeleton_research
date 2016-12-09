@@ -1,0 +1,8 @@
+Controller/
+Entity/
+Event/
+Resources/
+Tests/Controller/
+Twig/
+AppBundle.php
+composer.json

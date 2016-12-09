@@ -1,0 +1,10 @@
+DependencyInjection/
+Dispatcher/
+Manager/
+Resources/config/
+.gitignore
+DispatcherBundle.php
+LICENSE
+README.md
+composer.json
+composer.lock

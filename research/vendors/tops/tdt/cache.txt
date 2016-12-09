@@ -1,0 +1,6 @@
+src/tdt/cache/
+tests/
+.gitignore
+.travis.yml
+README.md
+composer.json

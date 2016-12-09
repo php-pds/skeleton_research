@@ -1,0 +1,9 @@
+code/
+templates/Includes/
+tests/
+.editorconfig
+.scrutinizer.yml
+.travis.yml
+README.md
+_config.php
+composer.json

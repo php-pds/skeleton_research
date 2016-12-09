@@ -1,0 +1,4 @@
+examples/
+PEHeaderExtract.class.php
+README.md
+composer.json

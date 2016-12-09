@@ -1,0 +1,8 @@
+src/hypeJunction/Lists/
+.gitattributes
+.gitignore
+CHANGELOG.md
+Gruntfile.js
+README.md
+composer.json
+package.json

@@ -1,0 +1,11 @@
+Controller/
+DependencyInjection/
+Entity/
+Listener/
+Resources/
+Tests/Controller/
+.gitignore
+.project
+README.md
+SopinetTimelineBundle.php
+composer.json

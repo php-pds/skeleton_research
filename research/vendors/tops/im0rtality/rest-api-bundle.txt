@@ -1,0 +1,9 @@
+Im0rtality/ApiBundle/
+spec/Im0rtality/ApiBundle/
+test/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+README.md
+composer.json
+phpspec.yml

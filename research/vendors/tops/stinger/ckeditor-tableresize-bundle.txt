@@ -1,0 +1,6 @@
+Resources/public/
+.gitignore
+LICENSE
+README.md
+StingerCKEditorTableResizeBundle.php
+composer.json

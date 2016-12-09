@@ -1,0 +1,6 @@
+bin/
+src/
+.gitignore
+README.md
+build.sh
+composer.json

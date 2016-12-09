@@ -1,0 +1,14 @@
+controllers/
+migrations/
+models/
+views/
+.gitignore
+FileNotFoundException.php
+LICENSE
+Module.php
+README.md
+SeoBehavior.php
+SeoWidget.php
+composer.json
+main.php
+template-types.md

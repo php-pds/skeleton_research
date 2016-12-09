@@ -1,0 +1,13 @@
+Classes/
+Configuration/
+Documentation/
+Migrations/Code/
+Resources/
+Tests/Unit/MediaWizard/
+LICENSE.txt
+README.md
+composer.json
+ext_emconf.php
+ext_icon.gif
+ext_localconf.php
+ext_tables.sql

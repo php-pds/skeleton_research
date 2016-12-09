@@ -1,0 +1,5 @@
+src/Seidelmann/Typo3ExtensionUtilities/
+.gitignore
+LICENCE
+README.md
+composer.json

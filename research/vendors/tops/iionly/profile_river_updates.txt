@@ -1,0 +1,8 @@
+languages/
+views/default/river/user/default/
+CHANGES.txt
+LICENCE.txt
+README.md
+composer.json
+manifest.xml
+start.php

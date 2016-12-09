@@ -1,0 +1,8 @@
+app/
+cache/
+logs/
+vagrantscripts/
+web/
+.gitignore
+Vagrantfile
+composer.json

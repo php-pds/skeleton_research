@@ -1,0 +1,15 @@
+Controller/
+DependencyInjection/
+Entity/
+Event/
+EventSubscriber/
+ParamConverter/
+Resources/
+Tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+README.md
+composer.json
+phpunit.xml.dist
+rsGaufretteBrowserBundle.php

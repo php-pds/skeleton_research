@@ -1,0 +1,11 @@
+app/
+bin/
+config/
+public/
+vagrant-php @ 7cb555e
+var/
+.gitignore
+.gitmodules
+README.md
+composer.json
+vagrant.yml

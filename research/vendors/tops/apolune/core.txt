@@ -1,0 +1,15 @@
+Console/Commands/
+Database/
+Exceptions/
+Facades/Database/
+Handlers/
+Http/Controllers/
+Providers/
+Resources/Config/
+Traits/
+.gitignore
+AggregateServiceProvider.php
+ServiceProvider.php
+ThemeServiceProvider.php
+composer.json
+helpers.php

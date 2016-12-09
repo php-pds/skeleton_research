@@ -1,0 +1,5 @@
+README.md
+composer.json
+license.txt
+tiny_mce.md5
+tiny_mce.tar

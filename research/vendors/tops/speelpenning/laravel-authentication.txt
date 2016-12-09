@@ -1,0 +1,11 @@
+config/
+database/migrations/
+resources/
+src/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml

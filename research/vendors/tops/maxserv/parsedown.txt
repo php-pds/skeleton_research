@@ -1,0 +1,13 @@
+Classes/
+Configuration/TCA/Overrides/
+Documentation/
+Resources/
+LICENSE
+Readme.md
+composer.json
+ext_emconf.php
+ext_icon.gif
+ext_localconf.php
+ext_tables.php
+ext_tables.sql
+ext_typoscript_setup.txt

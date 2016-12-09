@@ -1,0 +1,12 @@
+bin/
+src/PHPDependencyExtractor/
+tests/PHPDependencyExtractor/
+.gitattributes
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+box.json
+composer.json
+phpunit.xml.dist

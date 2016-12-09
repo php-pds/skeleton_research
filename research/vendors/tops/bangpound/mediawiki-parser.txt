@@ -1,0 +1,5 @@
+src/Rshief/Wikimedia/
+.gitignore
+composer.json
+composer.lock
+mediawiki-parser.php

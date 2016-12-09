@@ -1,0 +1,5 @@
+Classes/WebExcess/FlowKeyCDN/
+Configuration/
+LICENSE
+README.md
+composer.json

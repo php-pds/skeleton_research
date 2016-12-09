@@ -1,0 +1,16 @@
+src/JShrink/
+tests/
+.coveralls.yml
+.gitignore
+.travis.yml
+CONTRIBUTING.md
+LICENSE
+MagicMinifier.php
+README-JSHRINK.md
+README.md
+class.magic-min.php
+composer.json
+example.php
+jShrink.php
+old.composer.json
+phpunit.xml.dist

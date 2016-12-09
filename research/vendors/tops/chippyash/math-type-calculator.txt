@@ -1,0 +1,12 @@
+docs/
+examples/
+src/Chippyash/Math/Type/
+test/
+.codeclimate.yml
+.gitignore
+.travis.yml
+LICENSE.md
+README.md
+build.sh
+composer.json
+phpunit.travis.xml

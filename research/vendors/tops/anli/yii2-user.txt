@@ -1,0 +1,15 @@
+actions/
+assets/
+behaviors/
+components/
+controllers/
+db/
+migrations/
+models/
+views/
+widgets/
+CHANGELOG.md
+LICENSE
+Module.php
+README.md
+composer.json

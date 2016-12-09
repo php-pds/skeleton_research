@@ -1,0 +1,11 @@
+engine/
+static.www/
+static/
+var/
+.editorconfig
+.gitattributes
+.gitignore
+.jshintrc
+README.md
+composer.json
+phpunit.xml

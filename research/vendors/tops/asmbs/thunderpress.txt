@@ -1,0 +1,13 @@
+config/
+scripts/ASMBS/Thunderpress/
+vendor/
+web/
+.editorconfig
+.env.dist
+.gitignore
+CHANGELOG.md
+LICENSE.md
+README.md
+composer.json
+composer.lock
+wp-cli.yml

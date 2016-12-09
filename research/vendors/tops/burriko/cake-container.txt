@@ -1,0 +1,5 @@
+Config/
+Shell/
+Test/
+README.md
+composer.json

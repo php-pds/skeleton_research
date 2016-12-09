@@ -1,0 +1,11 @@
+translations/
+CHANGELOG.txt
+Readme.md
+composer.json
+config.xml
+funnel.png
+index.php
+logo.gif
+logo.png
+next.png
+statsforecast.php

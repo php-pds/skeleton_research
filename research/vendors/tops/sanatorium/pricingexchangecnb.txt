@@ -1,0 +1,6 @@
+database/
+src/
+themes/
+.gitignore
+composer.json
+extension.php

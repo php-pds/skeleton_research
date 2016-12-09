@@ -1,0 +1,8 @@
+app/
+public_html/
+.bowerrc
+.gitignore
+LICENSE
+bower.json
+cli-config.php
+composer.json

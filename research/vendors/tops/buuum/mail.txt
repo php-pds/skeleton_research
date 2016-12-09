@@ -1,0 +1,4 @@
+src/Mail/
+.gitignore
+Readme.md
+composer.json

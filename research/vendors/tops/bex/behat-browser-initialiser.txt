@@ -1,0 +1,11 @@
+features/
+src/Bex/Behat/BrowserInitialiserExtension/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+behat.yml
+behat.yml.dist
+composer.json
+phpspec.yml

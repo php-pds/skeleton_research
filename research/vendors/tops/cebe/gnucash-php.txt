@@ -1,0 +1,8 @@
+entities/
+report/
+.gitignore
+GnuCash.php
+LICENSE
+README.md
+composer.json
+test.php

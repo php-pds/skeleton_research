@@ -1,0 +1,4 @@
+.gitignore
+SmoothScroll.js
+composer.json
+samson.php

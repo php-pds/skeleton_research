@@ -1,0 +1,7 @@
+controllers/
+lib/CheckHealth/
+LICENSE
+README.md
+checkhealth.xml
+composer.json
+plugin.xml

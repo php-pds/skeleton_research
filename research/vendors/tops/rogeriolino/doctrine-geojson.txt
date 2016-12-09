@@ -1,0 +1,5 @@
+src/RogerioLino/Doctrine/GeoJson/
+.gitignore
+LICENSE
+README.md
+composer.json

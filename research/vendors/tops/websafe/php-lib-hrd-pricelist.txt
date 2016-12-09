@@ -1,0 +1,9 @@
+examples/
+src/library/Websafe/Hrd/Pricelist/
+temp/
+.gitignore
+LICENSE-bsd-2-clause.txt
+LICENSE-gpl-3.0.txt
+README.md
+composer.json
+install.sh

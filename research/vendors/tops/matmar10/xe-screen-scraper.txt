@@ -1,0 +1,8 @@
+src/Matmar10/Xe/ScreenScraper/
+tests/Matmar10/Xe/Tests/ScreenScraper/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

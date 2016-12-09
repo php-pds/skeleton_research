@@ -1,0 +1,12 @@
+Assetic/
+Configuration/
+DependencyInjection/
+EventListener/
+Resources/
+Templating/
+Tests/Controller/
+View/
+Zend/Stdlib/
+README.md
+ZfViewBundle.php
+composer.json

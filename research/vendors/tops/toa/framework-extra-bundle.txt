@@ -1,0 +1,9 @@
+DependencyInjection/
+EventListener/
+Resources/config/
+Tests/
+.scrutinizer.yml
+.travis.yml
+ToaFrameworkExtraBundle.php
+composer.json
+phpunit.xml.dist

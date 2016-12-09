@@ -1,0 +1,6 @@
+assets/
+widgets/
+.travis.yml
+LICENSE
+README.md
+composer.json

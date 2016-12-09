@@ -1,0 +1,14 @@
+Config/
+DependencyInjection/
+Resources/config/
+Tests/
+.gitignore
+.php_cs
+.travis.yml
+CONTRIBUTING.md
+LICENSE
+Makefile
+RCHConfigAccessBundle.php
+README.md
+composer.json
+phpunit.xml.dist

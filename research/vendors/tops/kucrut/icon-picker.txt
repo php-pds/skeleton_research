@@ -1,0 +1,22 @@
+assets/
+css/
+dev-lib @ fb7c84b
+includes/
+js/
+languages/
+tests/
+.gitattributes
+.gitignore
+.gitmodules
+.jscsrc
+.jshintignore
+.jshintrc
+.travis.yml
+Gruntfile.js
+LICENSE
+composer.json
+icon-picker.php
+package.json
+phpunit.xml
+readme.md
+readme.txt

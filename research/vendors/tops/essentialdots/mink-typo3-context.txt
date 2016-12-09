@@ -1,0 +1,3 @@
+src/EssentialDots/MinkTYPO3Context/
+README.md
+composer.json

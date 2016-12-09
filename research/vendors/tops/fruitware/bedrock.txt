@@ -1,0 +1,16 @@
+config/
+scripts/
+vendor/
+web/
+.env.example
+.gitignore
+CHANGELOG.md
+CONTRIBUTING.md
+Capfile
+Gemfile
+Gemfile.lock
+LICENSE.md
+README.md
+composer.json
+composer.lock
+wp-cli.yml

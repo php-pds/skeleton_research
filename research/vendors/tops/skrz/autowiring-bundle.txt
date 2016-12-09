@@ -1,0 +1,12 @@
+Annotation/
+DependencyInjection/
+Exception/
+Tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+SkrzAutowiringBundle.php
+composer.json
+phpunit.xml

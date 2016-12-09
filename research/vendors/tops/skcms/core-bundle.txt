@@ -1,0 +1,16 @@
+Command/
+Controller/
+DependencyInjection/
+DoctrineFunctions/
+Entity/
+Form/
+Listener/
+Manager/
+Repository/
+Resources/
+Service/
+Slug/
+Tests/Controller/
+README.md
+SKCMSCoreBundle.php
+composer.json

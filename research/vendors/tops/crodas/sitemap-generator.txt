@@ -1,0 +1,10 @@
+lib/crodas/SitemapGenerator/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+compile.sh
+composer.json
+composer.lock
+phpunit.xml

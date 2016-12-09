@@ -1,0 +1,7 @@
+img/
+js/
+.gitattributes
+.gitignore
+README.md
+bower.json
+composer.json

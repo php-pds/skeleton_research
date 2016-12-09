@@ -1,0 +1,9 @@
+Controller/Adminhtml/Index/
+Observer/
+Setup/
+etc/
+i18n/
+view/adminhtml/ui_component/
+README.md
+composer.json
+registration.php

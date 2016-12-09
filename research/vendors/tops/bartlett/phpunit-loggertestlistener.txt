@@ -1,0 +1,7 @@
+examples/
+src/Bartlett/
+.gitignore
+LICENSE
+README.asciidoc
+composer.json
+composer.lock

@@ -1,0 +1,9 @@
+src/Gridonic/Guzzle/SmsBox/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

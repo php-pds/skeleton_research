@@ -1,0 +1,8 @@
+DependencyInjection/
+Entity/
+Model/
+Resources/config/
+.gitignore
+MillwrightSemaphoreBundle.php
+README.md
+composer.json

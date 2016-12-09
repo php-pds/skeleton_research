@@ -1,0 +1,5 @@
+src/Hlacos/ModelValidation/
+tests/
+Readme.md
+composer.json
+phpunit.xml

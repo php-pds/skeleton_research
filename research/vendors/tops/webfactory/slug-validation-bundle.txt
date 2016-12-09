@@ -1,0 +1,15 @@
+Bridge/
+DependencyInjection/
+EventListener/
+Resources/config/
+Tests/EventListener/
+.coveralls.yml
+.editorconfig
+.gitignore
+.travis.yml
+LICENSE
+README.md
+WebfactorySlugValidationBundle.php
+composer.json
+composer.lock
+phpunit.xml.dist

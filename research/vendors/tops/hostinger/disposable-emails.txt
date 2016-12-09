@@ -1,0 +1,8 @@
+tests/
+.gitignore
+EmailChecker.php
+README.md
+blacklist.json
+composer.json
+composer.lock
+phpunit.xml

@@ -1,0 +1,12 @@
+app/
+public/
+.gitattributes
+.gitignore
+.htaccess
+LICENSE
+README.md
+bootstrap.php
+composer.json
+favicon.ico
+index.php
+settings.php

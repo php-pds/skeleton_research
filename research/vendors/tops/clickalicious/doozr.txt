@@ -1,0 +1,14 @@
+app/
+docs/
+src/
+tests/src/Doozr/
+web/
+.editorconfig
+.gitattributes
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+composer.json
+update-gh-pages.sh

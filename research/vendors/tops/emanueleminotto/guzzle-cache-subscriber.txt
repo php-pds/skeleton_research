@@ -1,0 +1,11 @@
+Tests/
+.coveralls.yml
+.editorconfig
+.gitignore
+.travis.yml
+CacheSubscriber.php
+LICENSE
+README.md
+composer.json
+generate-api.sh
+phpunit.xml.dist

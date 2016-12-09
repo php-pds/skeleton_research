@@ -1,0 +1,8 @@
+config/
+src/LibraMarkdown/View/Helper/
+.gitmodules
+.hgsub
+.hgsubstate
+Module.php
+README.md
+composer.json

@@ -1,0 +1,7 @@
+actions/
+assets/
+dist/
+views/
+LICENSE
+README.md
+composer.json

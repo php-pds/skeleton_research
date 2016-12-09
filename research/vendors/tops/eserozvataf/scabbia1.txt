@@ -1,0 +1,11 @@
+resources/
+src/Scabbia/
+views/
+.gitattributes
+.gitignore
+.gitmodules
+LICENSE
+README.md
+composer.json
+config.json
+contributors.md

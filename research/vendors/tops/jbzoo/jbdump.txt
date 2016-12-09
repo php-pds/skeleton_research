@@ -1,0 +1,16 @@
+joomla/
+logs/
+test/
+tools/
+.editorconfig
+LICENSE
+README.md
+_template.php
+autoload.php
+class.jbdump.php
+composer.json
+favicon.ico
+htaccess.example
+index.php
+init.php.example
+styles.less

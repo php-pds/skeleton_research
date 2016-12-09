@@ -1,0 +1,12 @@
+Config/
+Controller/
+Form/
+Hook/
+HybridAuth/
+I18n/
+Loop/
+Model/
+templates/
+Readme.md
+TheliaHybridAuth.php
+composer.json

@@ -1,0 +1,7 @@
+src/RM/Thorin/
+tests/
+.gitattributes
+.gitignore
+.scrutinizer.yml
+.travis.yml
+composer.json

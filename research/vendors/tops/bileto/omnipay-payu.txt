@@ -1,0 +1,7 @@
+examples/
+src/
+.env-default
+.gitignore
+README.md
+composer.json
+phpunit.xml

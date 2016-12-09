@@ -1,0 +1,7 @@
+Config/
+Controller/
+Utils/
+.gitignore
+Crop.php
+README.md
+composer.json

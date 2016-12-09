@@ -1,0 +1,4 @@
+src/PatternLab/Composer/
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,13 @@
+src/Doctrine/Instantiator/
+tests/DoctrineTest/
+.gitattributes
+.gitignore
+.scrutinizer.yml
+.travis.install.sh
+.travis.yml
+CONTRIBUTING.md
+LICENSE
+README.md
+composer.json
+phpmd.xml.dist
+phpunit.xml.dist

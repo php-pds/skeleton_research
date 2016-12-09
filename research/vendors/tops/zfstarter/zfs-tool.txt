@@ -1,0 +1,11 @@
+config/
+src/ZFCTool/
+tests/
+.coveralls.yml
+.gitignore
+.travis.yml
+CONTRIBUTING.md
+Module.php
+README.md
+composer.json
+zfc.php

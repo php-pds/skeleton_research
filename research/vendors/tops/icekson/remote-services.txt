@@ -1,0 +1,7 @@
+.idea/
+src/Api/
+tests/
+.gitignore
+README.md
+README.text
+composer.json

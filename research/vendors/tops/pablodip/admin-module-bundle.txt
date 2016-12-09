@@ -1,0 +1,17 @@
+Action/
+BatchAction/
+DependencyInjection/
+Extension/
+Field/Guesser/
+Filter/
+Module/
+Resources/
+TestsProject/
+.gitignore
+.travis.yml
+AdminSession.php
+PablodipAdminModuleBundle.php
+README.md
+composer.json
+tests.php
+vendors.php

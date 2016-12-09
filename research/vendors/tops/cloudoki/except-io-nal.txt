@@ -1,0 +1,3 @@
+src/Cloudoki/
+README.md
+composer.json

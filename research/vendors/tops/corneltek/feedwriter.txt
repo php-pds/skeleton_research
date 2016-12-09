@@ -1,0 +1,6 @@
+examples/
+src/FeedWriter/
+COPYING
+README
+composer.json
+phprelease.ini

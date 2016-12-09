@@ -1,0 +1,6 @@
+.gitignore
+README.md
+UrlGenerator.class.php
+composer.json
+config.yml
+licence.md

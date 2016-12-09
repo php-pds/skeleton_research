@@ -1,0 +1,6 @@
+src/KyleNoland/EloquentBaseObserver/
+tests/
+.gitignore
+.travis.yml
+composer.json
+phpunit.xml

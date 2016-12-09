@@ -1,0 +1,4 @@
+composer.json
+index.php
+readme.md
+rp4wp-polylang-compatibility.php

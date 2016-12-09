@@ -1,0 +1,8 @@
+docs/
+src/AwsWrappers/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock
+test.php

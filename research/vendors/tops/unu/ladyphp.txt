@@ -1,0 +1,8 @@
+bin/
+js/
+src/
+test/
+.gitignore
+composer.json
+makefile
+readme.md

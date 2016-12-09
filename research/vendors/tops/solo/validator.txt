@@ -1,0 +1,4 @@
+src/Solo/Lib/Validation/
+LICENSE
+README.md
+composer.json

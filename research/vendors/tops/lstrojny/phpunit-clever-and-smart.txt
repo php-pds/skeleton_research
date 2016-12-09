@@ -1,0 +1,9 @@
+src/PHPUnit/Runner/CleverAndSmart/
+tests/PHPUnit/Tests/Runner/CleverAndSmart/
+.gitignore
+.travis.install.sh
+.travis.yml
+README.md
+composer.json
+phpunit-integration.xml.dist
+phpunit-unit.xml.dist

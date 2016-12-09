@@ -1,0 +1,10 @@
+admin/
+code/
+css/
+images/
+javascript/
+templates/Layout/
+LICENSE
+README.md
+_config.php
+composer.json

@@ -1,0 +1,12 @@
+Tests/
+src/Liip/Drupal/Modules/Registry/
+translations/
+.gitignore
+.travis.yml
+LICENSE
+ReadMe.md
+composer.json
+composer.lock
+drupalregistrymodule.info
+drupalregistrymodule.module
+phpunit.xml.dist

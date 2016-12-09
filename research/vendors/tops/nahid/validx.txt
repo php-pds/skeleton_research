@@ -1,0 +1,8 @@
+help/
+src/
+tests/
+.DS_Store
+LICENSE
+README.md
+composer.json
+index.php

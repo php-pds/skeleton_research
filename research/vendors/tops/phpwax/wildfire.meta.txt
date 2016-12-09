@@ -1,0 +1,6 @@
+view/shared/
+.gitignore
+README
+composer.json
+ini.php
+setup.php

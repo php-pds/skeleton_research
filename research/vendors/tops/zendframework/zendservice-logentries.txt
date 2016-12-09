@@ -1,0 +1,10 @@
+library/ZendService/LogEntries/
+tests/
+.coveralls.yml
+.gitattributes
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE.txt
+README.md
+composer.json

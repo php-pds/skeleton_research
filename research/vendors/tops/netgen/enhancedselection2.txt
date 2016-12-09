@@ -1,0 +1,12 @@
+bin/php/
+classes/
+datatypes/sckenhancedselection/
+design/standard/
+settings/
+share/
+sql/mysql/
+COPYRIGHT
+INSTALL.md
+README.md
+composer.json
+phpcs.sh

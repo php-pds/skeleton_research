@@ -1,0 +1,16 @@
+assets/
+install/
+site/
+templates/
+.gitignore
+.htaccess
+README.md
+admin.php
+ajaxGridControl.php
+bootstrap.php
+bower.json
+composer.json
+composer.lock
+index.php
+install.php
+web.config

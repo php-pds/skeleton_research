@@ -1,0 +1,8 @@
+.editorconfig
+_license.txt
+composer.json
+init.php
+readme.md
+screenshot-1.jpg
+setup.php
+strip-naked-logo.png

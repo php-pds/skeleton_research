@@ -1,0 +1,17 @@
+Api/
+Command/
+Controller/
+DependencyInjection/
+Form/Type/
+Infrastructure/
+Model/
+Resources/
+Tests/
+.scrutinizer.yml
+.travis.yml
+DiamanteEmailProcessingBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist
+travis.php.ini

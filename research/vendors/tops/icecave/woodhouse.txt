@@ -1,0 +1,16 @@
+.archer/
+bin/
+res/
+src/
+test/suite/
+.gitattributes
+.gitignore
+.php_cs
+.travis.before-install
+.travis.yml
+CHANGELOG.md
+CONTRIBUTING.md
+LICENSE.md
+README.md
+composer.json
+composer.lock

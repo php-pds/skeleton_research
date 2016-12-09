@@ -1,0 +1,7 @@
+Interfaces/XmlParser/
+Misc/
+Wrappers/
+CHANGES.md
+LICENSE.md
+classloader.php
+composer.json

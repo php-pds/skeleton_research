@@ -1,0 +1,17 @@
+assets/
+framework/
+protected/
+requirements/
+themes/
+uploads/
+vendor/
+.gitignore
+.htaccess
+README.md
+api.php
+backend.php
+composer.json
+environment.php
+gruntfile.js
+index.php
+package.json

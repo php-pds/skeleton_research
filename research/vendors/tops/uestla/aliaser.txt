@@ -1,0 +1,6 @@
+src/Aliaser/
+tests/
+.gitattributes
+.gitignore
+README.md
+composer.json

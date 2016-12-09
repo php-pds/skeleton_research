@@ -1,0 +1,7 @@
+.gitignore
+LICENSE
+README.md
+WhoopsErrorHandler.php
+YiiWhoopsInspector.php
+YiiWhoopsRunner.php
+composer.json

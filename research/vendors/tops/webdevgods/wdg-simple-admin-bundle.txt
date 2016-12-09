@@ -1,0 +1,8 @@
+config/
+src/WdgSimpleAdminBundle/Controller/
+view/
+.gitignore
+LICENSE
+Module.php
+README.md
+composer.json

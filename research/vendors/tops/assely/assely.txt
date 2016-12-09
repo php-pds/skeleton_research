@@ -1,0 +1,16 @@
+app/
+bootstrap/
+config/
+public/
+resources/
+storage/framework/views/
+.gitattributes
+.gitignore
+README.md
+composer.json
+functions.php
+gulpfile.js
+index.php
+package.json
+screenshot.png
+style.css

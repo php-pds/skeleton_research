@@ -1,0 +1,16 @@
+controllers/
+img/
+mails/
+translations/
+views/
+CHANGELOG.txt
+Readme.md
+blocknewsletter.css
+blocknewsletter.js
+blocknewsletter.php
+composer.json
+config.xml
+index.php
+logo.gif
+logo.png
+verification.php

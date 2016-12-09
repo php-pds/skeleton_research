@@ -1,0 +1,12 @@
+Command/
+DependencyInjection/
+Event/
+Queue/
+Resources/config/
+Serialize/
+Tests/Queue/
+Worker/
+LICENSE
+README.md
+SoclozEventQueueBundle.php
+composer.json

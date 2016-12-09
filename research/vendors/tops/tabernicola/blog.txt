@@ -1,0 +1,9 @@
+Controller/Web/
+DependencyInjection/
+Entity/
+Resources/
+Tests/Controller/
+.gitignore
+README.md
+TabernicolaBlogBundle.php
+composer.json

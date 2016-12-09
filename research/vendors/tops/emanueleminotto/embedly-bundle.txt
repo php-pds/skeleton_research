@@ -1,0 +1,11 @@
+DependencyInjection/
+Resources/
+Tests/DependencyInjection/
+.coveralls.yml
+.gitignore
+.travis.yml
+EmbedlyBundle.php
+README.md
+composer.json
+generate-api.sh
+phpunit.xml.dist

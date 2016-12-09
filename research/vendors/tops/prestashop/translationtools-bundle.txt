@@ -1,0 +1,14 @@
+DependencyInjection/
+Resources/config/
+Tests/
+Translation/
+Twig/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+Configuration.php
+README.md
+Smarty.php
+TranslationToolsBundle.php
+composer.json
+phpunit.xml.dist

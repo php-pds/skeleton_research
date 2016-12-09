@@ -1,0 +1,12 @@
+images/
+.gitignore
+README.md
+api.php
+composer.json
+composer.lock
+includes
+index.php
+languages
+load.php
+mw-config
+resources

@@ -1,0 +1,7 @@
+actions/
+assets/
+views/
+FileUploaderWidget.php
+Plupload.php
+README.MD
+composer.json

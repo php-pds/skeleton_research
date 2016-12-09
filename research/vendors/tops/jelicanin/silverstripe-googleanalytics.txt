@@ -1,0 +1,11 @@
+_config/
+code/
+templates/Includes/
+.editorconfig
+.gitattributes
+.gitignore
+.scrutinizer.yml
+.travis.yml
+_config.php
+changelog.md
+composer.json

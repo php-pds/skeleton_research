@@ -1,0 +1,11 @@
+doc/
+src/
+tests/unit/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+Makefile
+README.md
+composer.json
+phpcs.xml
+phpunit.xml

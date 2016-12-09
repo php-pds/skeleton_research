@@ -1,0 +1,8 @@
+components/com_jshopping/payments/
+doc/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock
+update.sql

@@ -1,0 +1,8 @@
+db/
+lang/en/
+README.txt
+block_newblock.php
+composer.json
+edit_form.php
+settings.php
+version.php

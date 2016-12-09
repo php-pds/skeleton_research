@@ -1,0 +1,11 @@
+assets/
+behaviors/
+migrations/
+models/
+web/
+widgets/
+.gitignore
+.htaccess
+LICENSE.md
+README.md
+composer.json

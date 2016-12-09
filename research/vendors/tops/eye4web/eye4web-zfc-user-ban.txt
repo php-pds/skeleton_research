@@ -1,0 +1,12 @@
+build/logs/
+config/
+src/Eye4web/ZfcUser/Ban/
+tests/
+view/eye4web/zfc-user/ban/
+.gitignore
+.travis.yml
+LICENSE.md
+README.md
+composer.json
+composer.lock
+phpunit.xml

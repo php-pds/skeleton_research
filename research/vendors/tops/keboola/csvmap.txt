@@ -1,0 +1,8 @@
+src/Keboola/CsvMap/
+tests/
+.gitignore
+.travis.yml
+LICENSE.md
+README.md
+composer.json
+phpunit.xml

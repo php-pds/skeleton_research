@@ -1,0 +1,15 @@
+Command/
+Controller/
+DependencyInjection/
+Entity/
+Event/
+Model/
+OAuth/
+Resources/
+.gitignore
+Doxyfile
+LICENSE
+README.md
+SpiritDevOAuth2ServerBundle.php
+build.xml
+composer.json

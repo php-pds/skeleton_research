@@ -1,0 +1,6 @@
+src/Codelint/QRCode/
+.gitignore
+INSTALL
+LICENSE
+README.md
+composer.json

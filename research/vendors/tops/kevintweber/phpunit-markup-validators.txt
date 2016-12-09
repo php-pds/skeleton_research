@@ -1,0 +1,8 @@
+src/Kevintweber/PhpunitMarkupValidators/
+test/
+.gitignore
+Changelog.md
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

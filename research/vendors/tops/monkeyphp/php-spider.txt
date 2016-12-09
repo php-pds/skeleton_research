@@ -1,0 +1,8 @@
+config/
+examples/
+src/PhpSpider/
+tests/
+.gitignore
+Module.php
+README.md
+composer.json

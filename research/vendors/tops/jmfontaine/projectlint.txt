@@ -1,0 +1,16 @@
+bin/
+build/ci/
+doc/
+src/
+tests/
+.gitignore
+.travis.yml
+CONTRIBUTING.md
+LICENSE
+Makefile
+README.md
+box.json
+composer.json
+composer.lock
+phpunit.xml.dist
+projectlint.yml

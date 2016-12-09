@@ -1,0 +1,10 @@
+code/gridfield/
+lang/
+.editorconfig
+.gitattributes
+.gitignore
+.scrutinizer.yml
+LICENSE
+README.md
+_config.php
+composer.json

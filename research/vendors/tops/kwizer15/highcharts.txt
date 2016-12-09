@@ -1,0 +1,16 @@
+adapters/
+modules/
+themes/
+README.md
+composer.json
+highcharts-3d.js
+highcharts-3d.src.js
+highcharts-more.js
+highcharts-more.src.js
+highcharts.js
+highcharts.src.js
+highmaps.js
+highmaps.src.js
+highstock-all.js
+highstock.js
+highstock.src.js

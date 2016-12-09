@@ -1,0 +1,5 @@
+src/LynxGroup/Component/Localization/
+.gitignore
+LICENSE
+README.md
+composer.json

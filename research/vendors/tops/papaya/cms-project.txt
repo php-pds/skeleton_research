@@ -1,0 +1,10 @@
+htdocs/
+src/
+templates/
+.gitattributes
+.gitignore
+README.md
+build.xml
+composer.json
+dist.build.properties
+dist.papaya.php

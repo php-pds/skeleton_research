@@ -1,0 +1,5 @@
+.gitignore
+bootstrap.php
+composer.json
+dist.configuration.php
+server.php

@@ -1,0 +1,6 @@
+behaviors/
+components/
+widgets/
+LICENSE.txt
+README.md
+composer.json

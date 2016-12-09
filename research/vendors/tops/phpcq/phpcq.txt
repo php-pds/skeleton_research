@@ -1,0 +1,9 @@
+docs/
+example/
+tasks/
+.gitignore
+LICENSE
+README.md
+build.default.properties
+composer.json
+phpcq.main.xml

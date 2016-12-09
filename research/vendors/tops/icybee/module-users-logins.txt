@@ -1,0 +1,7 @@
+config/
+lib/
+locale/
+LICENSE
+README.md
+composer.json
+descriptor.php

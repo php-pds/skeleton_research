@@ -1,0 +1,8 @@
+src/CatDocXls/
+test/
+.gitignore
+.travis.yml
+README.md
+composer.json
+phpunit.xml.dist
+xls2csv.0.4.py

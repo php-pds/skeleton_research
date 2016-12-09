@@ -1,0 +1,10 @@
+DependencyInjection/
+ParamConverter/
+Resources/config/
+.gitignore
+.travis.yml
+AlphaLabsFilterEngineBundle.php
+CHANGELOG.md
+LICENSE
+README.md
+composer.json

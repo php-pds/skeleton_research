@@ -1,0 +1,13 @@
+Annotation/
+Command/
+DependencyInjection/
+.gitignore
+AbstractProducer.php
+AbstractTransactionalProducer.php
+BunnyException.php
+BunnyManager.php
+LICENSE
+README.md
+TrinityBunnyBundle.php
+composer.json
+phpunit.xml

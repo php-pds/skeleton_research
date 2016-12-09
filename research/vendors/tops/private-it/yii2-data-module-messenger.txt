@@ -1,0 +1,5 @@
+src/
+.gitignore
+VERSION
+composer.json
+generator.json

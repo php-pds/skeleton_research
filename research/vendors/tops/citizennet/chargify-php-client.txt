@@ -1,0 +1,4 @@
+lib/
+LICENSE
+README
+composer.json

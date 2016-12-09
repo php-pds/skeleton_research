@@ -1,0 +1,5 @@
+assets/js/synctranslit/
+Assets.php
+README.md
+composer.json
+translitInput.php

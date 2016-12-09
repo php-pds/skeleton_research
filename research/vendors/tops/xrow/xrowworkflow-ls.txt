@@ -1,0 +1,10 @@
+classes/
+content/
+cronjobs/
+design/standard/
+modules/xrowworkflow/
+settings/
+sql/mysql/
+translations/ger-DE/
+README.txt
+composer.json

@@ -1,0 +1,9 @@
+examples/
+spec/Command/
+src/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpspec.yml

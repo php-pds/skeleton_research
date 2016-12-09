@@ -1,0 +1,5 @@
+Classes/Flowpack/SingleSignOn/Client/
+Configuration/
+Tests/
+LICENSE
+composer.json

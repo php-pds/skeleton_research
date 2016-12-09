@@ -1,0 +1,4 @@
+src/Simplon/Instagram/
+.gitignore
+README.md
+composer.json

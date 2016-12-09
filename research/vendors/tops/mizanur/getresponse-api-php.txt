@@ -1,0 +1,3 @@
+src/GetResponse/
+README.md
+composer.json

@@ -1,0 +1,6 @@
+bin/
+src/Astina/Feed2HipChat/
+.gitignore
+README.md
+composer.json
+config.yml.dist

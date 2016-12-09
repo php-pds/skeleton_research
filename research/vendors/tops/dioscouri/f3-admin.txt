@@ -1,0 +1,5 @@
+AdminTheme/
+src/Admin/
+README.md
+bootstrap.php
+composer.json

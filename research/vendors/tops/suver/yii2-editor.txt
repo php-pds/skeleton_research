@@ -1,0 +1,9 @@
+assets/
+Editor.php
+EditorAsset.php
+HtmlEditor.php
+Markdown.php
+README.md
+TransformationMarkdown.php
+TransformationWidget.php
+composer.json

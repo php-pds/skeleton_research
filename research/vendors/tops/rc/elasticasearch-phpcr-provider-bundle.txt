@@ -1,0 +1,13 @@
+Controller/
+DependencyInjection/
+Doctrine/PHPCR/
+Helper/
+Resources/
+Tests/
+Transformer/
+.gitignore
+.travis.yml
+RCElasticSearchPHPCRProviderBundle.php
+composer.json
+composer.phar
+phpunit.xml.dist

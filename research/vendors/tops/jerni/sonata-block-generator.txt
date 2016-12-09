@@ -1,0 +1,6 @@
+Command/
+DependencyInjection/
+Resources/config/
+JseBlockGeneratorBundle.php
+README.md
+composer.json

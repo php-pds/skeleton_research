@@ -1,0 +1,6 @@
+public/
+resources/
+src/Providers/
+.gitignore
+README.md
+composer.json

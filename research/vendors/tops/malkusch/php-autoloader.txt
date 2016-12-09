@@ -1,0 +1,10 @@
+Autoloader/
+bin/
+docs/
+misc/benchmark/
+tests/
+.gitignore
+README.md
+autoloader.ini
+autoloader.php
+composer.json

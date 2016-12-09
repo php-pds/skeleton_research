@@ -1,0 +1,6 @@
+src/Natxet/SEPA/
+test/
+.gitignore
+LICENSE
+README.md
+composer.json

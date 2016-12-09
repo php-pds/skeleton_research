@@ -1,0 +1,7 @@
+DependencyInjection/
+Profiler/
+Resources/
+.gitignore
+README.md
+VesaxGuzzleBundle.php
+composer.json

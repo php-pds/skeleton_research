@@ -1,0 +1,5 @@
+DependencyInjection/
+Resources/
+EzSystemsPlatformUISearchPrototypeBundle.php
+README.md
+composer.json

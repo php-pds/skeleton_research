@@ -1,0 +1,11 @@
+Controller/
+DependencyInjection/
+Entity/
+Resources/
+Services/Manager/
+Tests/
+.gitignore
+HeadooMediaSocialApiBundle.php
+LICENSE
+README.md
+composer.json

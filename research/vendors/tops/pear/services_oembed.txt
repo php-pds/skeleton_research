@@ -1,0 +1,10 @@
+Services/
+tests/
+.gitignore
+.travis.yml
+README.md
+composer.json
+generatePackage.php
+package.xml
+phpunit-bootstrap.php
+phpunit.xml

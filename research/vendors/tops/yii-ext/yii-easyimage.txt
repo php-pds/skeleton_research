@@ -1,0 +1,6 @@
+assets/
+drivers/
+EasyImage.php
+ImageAction.php
+README.md
+composer.json

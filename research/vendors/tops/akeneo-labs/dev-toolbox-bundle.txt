@@ -1,0 +1,11 @@
+Command/
+DependencyInjection/
+Doctrine/ORM/
+Remover/
+Resources/
+Updater/
+.gitignore
+LICENCE.TXT
+PimDevToolboxBundle.php
+README.md
+composer.json

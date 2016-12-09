@@ -1,0 +1,10 @@
+src/MetaSyntactical/Io/
+.gitattributes
+.gitignore
+.travis.yml
+LICENSE
+README.md
+autoload.php.dist
+composer.json
+composer.lock
+phpunit.xml.dist

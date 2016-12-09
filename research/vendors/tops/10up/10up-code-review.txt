@@ -1,0 +1,10 @@
+10up-Base/
+10up-Code-Review/
+10up-Third-Party/
+bin/
+.gitignore
+CHANGELOG.md
+CONTRIBUTING.md
+README.md
+composer.json
+composer.lock

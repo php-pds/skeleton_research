@@ -1,0 +1,10 @@
+doc/
+src/fkooman/Type/
+tests/fkooman/Type/
+.gitignore
+.travis.yml
+COPYING
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

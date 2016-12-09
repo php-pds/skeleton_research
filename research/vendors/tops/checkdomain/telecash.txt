@@ -1,0 +1,9 @@
+lib/Checkdomain/TeleCash/
+schemas/
+tests/Checkdomain/TeleCash/IPG/API/
+wsdl/
+.gitignore
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

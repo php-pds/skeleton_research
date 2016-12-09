@@ -1,0 +1,7 @@
+GoCardless/Enterprise/
+.gitignore
+README.md
+composer.json
+composer.lock
+config.dist.php
+phpunit.xml

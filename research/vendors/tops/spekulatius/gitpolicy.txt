@@ -1,0 +1,12 @@
+src/GitPolicy/
+templates/
+tests/
+.gitignore
+.gitpolicy.yml
+.travis.yml
+CONTRIBUTING.md
+README.md
+analyser
+composer.json
+gitpolicy
+license.md

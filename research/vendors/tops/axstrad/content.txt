@@ -1,0 +1,15 @@
+.idea/
+build/
+src/
+tests/
+.coveralls.yml
+.formatter.yml
+.gitignore
+.travis.yml
+LICENSE
+Readme.md
+build.xml
+composer.json
+phpdox.xml
+phpmd.xml
+phpunit.xml.dist

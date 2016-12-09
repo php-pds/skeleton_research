@@ -1,0 +1,3 @@
+src/DMKClub/Bundle/
+README.md
+composer.json

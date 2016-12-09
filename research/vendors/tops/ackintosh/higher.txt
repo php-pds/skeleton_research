@@ -1,0 +1,11 @@
+src/Ackintosh/Higher/
+table/
+tests/
+.coveralls.yml
+.gitignore
+.travis.yml
+README.md
+composer.json
+config.yml.sample
+phpunit.xml
+sample.php

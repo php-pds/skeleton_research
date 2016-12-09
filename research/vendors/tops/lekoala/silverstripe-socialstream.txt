@@ -1,0 +1,9 @@
+_config/
+code/
+javascript/lifestream/
+lang/
+.scrutinizer.yml
+LICENSE
+README.md
+_config.php
+composer.json

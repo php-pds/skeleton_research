@@ -1,0 +1,7 @@
+spec/LW/Magrathea/
+src/LW/Magrathea/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,8 @@
+Collection/
+.gitignore
+DocBlock.php
+ReflectionClass.php
+ReflectionInterface.php
+ReflectionMethod.php
+composer.json
+readme.md

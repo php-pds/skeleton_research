@@ -1,0 +1,8 @@
+DependencyInjection/
+Logic/
+Resources/config/
+Services/
+LICENSE
+OpenfireBundle.php
+README.md
+composer.json

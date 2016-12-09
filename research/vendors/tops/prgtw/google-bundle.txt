@@ -1,0 +1,16 @@
+Adwords/
+Analytics/
+DependencyInjection/
+Extension/
+Helper/
+Maps/
+Resources/
+Tests/
+.gitignore
+Adwords.php
+Analytics.php
+GoogleBundle.php
+MapsManager.php
+README.md
+composer.json
+phpunit.xml.dist

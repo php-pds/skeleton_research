@@ -1,0 +1,13 @@
+Controller/
+DependencyInjection/
+Entity/
+Form/
+Ldap/
+Lib/
+Resources/
+Security/
+Tests/Controller/
+.gitignore
+LICENSE
+SpiritDevDBoxUserBundle.php
+composer.json

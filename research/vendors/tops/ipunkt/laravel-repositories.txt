@@ -1,0 +1,5 @@
+src/Ipunkt/LaravelRepositories/
+tests/
+LICENSE
+README.md
+composer.json

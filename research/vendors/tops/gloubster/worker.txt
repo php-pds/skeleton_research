@@ -1,0 +1,13 @@
+bin/
+config/
+logs/
+resources/
+src/Gloubster/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

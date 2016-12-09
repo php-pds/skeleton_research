@@ -1,0 +1,10 @@
+.settings/
+DependencyInjection/
+Tests/
+.buildpath
+.gitignore
+.project
+LICENSE
+PieceValidationDirectoryLoaderBundle.php
+composer.json
+phpunit.xml

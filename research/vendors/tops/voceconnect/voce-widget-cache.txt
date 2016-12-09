@@ -1,0 +1,6 @@
+config/deploy/
+Capfile
+README.mdown
+composer.json
+readme.txt
+voce-widget-cache.php

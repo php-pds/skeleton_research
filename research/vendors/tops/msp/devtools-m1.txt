@@ -1,0 +1,7 @@
+app/
+screenshoots/
+skin/adminhtml/default/default/msp_devtools/
+.gitignore
+README.md
+composer.json
+modman

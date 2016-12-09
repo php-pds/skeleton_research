@@ -1,0 +1,4 @@
+library/Zend/Service/Rackspace/
+LICENSE.txt
+README.md
+composer.json

@@ -1,0 +1,12 @@
+Config/
+alertas/classes/
+assunto/
+campo/classes/
+index/
+mensagem/classes/
+setor/classes/
+tests/
+.gitattributes
+.gitignore
+autoload.php
+composer.json

@@ -1,0 +1,9 @@
+Config/
+docs/
+tests/
+.gitignore
+.travis.yml
+README.md
+build.php
+composer.json
+package.xml

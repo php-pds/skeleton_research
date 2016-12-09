@@ -1,0 +1,7 @@
+Exceptions/
+.gitattributes
+Arr.php
+EnvironmentDetector.php
+README.md
+TemplateHelper.php
+composer.json

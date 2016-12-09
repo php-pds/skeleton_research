@@ -1,0 +1,7 @@
+Module/
+config/
+dca/
+languages/
+templates/
+TagsHelper.php
+composer.json

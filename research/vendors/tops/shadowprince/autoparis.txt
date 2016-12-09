@@ -1,0 +1,4 @@
+Autoparis/
+bin/
+README.md
+composer.json

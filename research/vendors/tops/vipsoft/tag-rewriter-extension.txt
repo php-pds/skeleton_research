@@ -1,0 +1,11 @@
+doc/
+src/VIPSoft/TagRewriterExtension/
+tests/VIPSoft/TagRewriterExtension/Tests/Service/
+LICENSE
+README.md
+autoload.php
+behat.yml.dist
+build.php
+composer.json
+init.php
+phpunit.xml.dist

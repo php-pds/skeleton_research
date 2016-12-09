@@ -1,0 +1,10 @@
+.idea/
+examples/
+src/
+vendor/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock
+test_data_sample.json

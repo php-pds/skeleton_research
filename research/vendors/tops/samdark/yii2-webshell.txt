@@ -1,0 +1,9 @@
+assets/
+controllers/
+views/
+JqueryTerminalAsset.php
+Module.php
+README.md
+WebshellAsset.php
+composer.json
+screenshot.png

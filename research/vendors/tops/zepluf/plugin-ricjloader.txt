@@ -1,0 +1,15 @@
+Browser/
+DependencyInjection/Compiler/
+EventListener/
+Filter/
+Handler/
+Resources/
+install/zencart/includes/templates/your_template/common/
+vendor/
+CssJsFinder.php
+LoaderHelper.php
+README.markdown
+RiCjLoader.php
+composer.json
+init_includes.php
+plugin.xml

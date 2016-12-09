@@ -1,0 +1,5 @@
+Classes/ViewHelpers/
+Resources/Private/Partials/Utility/
+README.md
+composer.json
+ext_emconf.php

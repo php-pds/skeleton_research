@@ -1,0 +1,7 @@
+.gitignore
+CaptureUntranslatedStringInterface.php
+LICENSE
+LanguageInterface.php
+README.md
+TranslateInterface.php
+composer.json

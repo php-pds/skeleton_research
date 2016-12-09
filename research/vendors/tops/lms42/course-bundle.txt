@@ -1,0 +1,14 @@
+Command/
+Controller/
+DependencyInjection/
+Form/Type/
+Import/
+Listener/
+Manager/
+Model/
+Resources/
+Tests/Controller/
+Twig/Extension/
+.gitignore
+SmirikCourseBundle.php
+composer.json

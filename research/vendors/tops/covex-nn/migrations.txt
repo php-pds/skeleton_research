@@ -1,0 +1,12 @@
+lib/Doctrine/DBAL/Migrations/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.markdown
+build.properties.dev
+build.xml
+composer.json
+package.php
+phar-cli-stub.php
+phpunit.xml.dist

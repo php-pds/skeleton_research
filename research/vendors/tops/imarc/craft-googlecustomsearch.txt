@@ -1,0 +1,11 @@
+controllers/
+resources/js/
+services/
+templates/
+variables/
+.gitignore
+CHANGELOG.md
+GoogleCustomSearchPlugin.php
+LICENSE
+README.md
+composer.json

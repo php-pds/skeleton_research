@@ -1,0 +1,7 @@
+assets/
+LICENSE
+README.md
+assets.php
+composer.json
+yii2imageslider.php
+yii2imagesliderAsset.php

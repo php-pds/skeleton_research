@@ -1,0 +1,7 @@
+Constraint/
+Qiye/
+Src/
+Config.php
+README.md
+WeChat.php
+composer.json

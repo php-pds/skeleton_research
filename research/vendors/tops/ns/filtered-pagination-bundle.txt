@@ -1,0 +1,16 @@
+DependencyInjection/
+Events/
+Form/Type/
+Resources/
+Tests/
+.gitignore
+.rmt.yml
+.travis.yml
+CHANGELOG
+FilteredPagination.php
+NSFilteredPaginationBundle.php
+README.md
+RMT
+composer.json
+phpci.yml
+phpunit.xml.dist

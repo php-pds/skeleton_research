@@ -1,0 +1,4 @@
+src/Pimcore/Composer/
+.gitattributes
+.gitignore
+composer.json

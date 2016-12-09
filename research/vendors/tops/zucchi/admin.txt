@@ -1,0 +1,14 @@
+config/
+docs/
+language/
+public/
+src/ZucchiAdmin/
+view/zucchi-admin/
+.gitignore
+LICENSE.txt
+Module.php
+README.md
+autoload_classmap.php
+autoload_function.php
+autoload_register.php
+composer.json

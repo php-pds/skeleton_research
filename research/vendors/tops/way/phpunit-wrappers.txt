@@ -1,0 +1,4 @@
+src/Way/Tests/
+.gitignore
+composer.json
+readme.md

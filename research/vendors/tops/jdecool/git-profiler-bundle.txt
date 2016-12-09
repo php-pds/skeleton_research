@@ -1,0 +1,8 @@
+DataCollector/
+DependencyInjection/
+Resources/
+.gitignore
+JDecoolGitProfilerBundle.php
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,12 @@
+docs/
+migrations/
+resources/
+src/
+tests/
+.gitignore
+.travis.yml
+README.md
+composer.json
+icon.png
+oxygen.md
+phpunit.xml

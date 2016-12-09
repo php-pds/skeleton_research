@@ -1,0 +1,7 @@
+docs/
+src/Klarna/XMLRPC/
+.gitignore
+CHANGELOG.md
+README.md
+composer.json
+composer.lock

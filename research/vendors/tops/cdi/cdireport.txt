@@ -1,0 +1,7 @@
+config/
+nbproject/
+src/CdiReport/
+Module.php
+README.md
+composer.json
+index.php

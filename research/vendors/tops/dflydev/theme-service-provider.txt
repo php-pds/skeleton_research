@@ -1,0 +1,8 @@
+src/Dflydev/Silex/Provider/Theme/
+tests/Dflydev/Silex/Provider/Theme/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

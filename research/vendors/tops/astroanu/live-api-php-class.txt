@@ -1,0 +1,7 @@
+examples/
+lib/
+.gitignore
+LICENSE
+README.md
+composer.json
+config.inc.sample.php

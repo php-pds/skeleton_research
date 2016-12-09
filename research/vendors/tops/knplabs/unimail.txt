@@ -1,0 +1,7 @@
+spec/Knp/UniMail/
+src/Knp/UniMail/
+.gitignore
+.php_cs
+README.md
+composer.json
+phpspec.yml

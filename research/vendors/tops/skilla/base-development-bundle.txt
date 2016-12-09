@@ -1,0 +1,9 @@
+app/
+src/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+changeBundleName.php
+composer.json
+composer.json.bak

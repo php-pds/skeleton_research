@@ -1,0 +1,4 @@
+src/Composer/CustomDirectoryInstaller/
+LICENSE
+README.md
+composer.json

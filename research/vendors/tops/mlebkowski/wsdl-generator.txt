@@ -1,0 +1,3 @@
+src/Nassau/WsdlGenerator/
+README.md
+composer.json

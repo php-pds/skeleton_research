@@ -1,0 +1,10 @@
+.idea/
+example/
+lib/ElephantIO/
+test/
+.travis.yml
+CHANGELOG.md
+LICENCE
+README.md
+composer.json
+phpunit.xml

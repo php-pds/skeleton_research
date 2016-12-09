@@ -1,0 +1,10 @@
+app/
+src/
+.gitignore
+.travis.yml
+LICENSE.txt
+README.md
+behat.yml
+composer.json
+composer.lock
+docker-compose.yml

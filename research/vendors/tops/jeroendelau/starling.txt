@@ -1,0 +1,12 @@
+samples/
+starling/
+tests/
+util/
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENSE.md
+README.md
+build.gradle
+composer.json
+settings.gradle

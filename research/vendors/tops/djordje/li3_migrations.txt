@@ -1,0 +1,8 @@
+extensions/command/
+models/
+resources/test_migration/
+tests/
+.gitignore
+.travis.yml
+README.md
+composer.json

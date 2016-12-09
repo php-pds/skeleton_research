@@ -1,0 +1,12 @@
+docs/
+spec/Foundation/
+src/Foundation/
+.gitattributes
+.gitignore
+.php_cs
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpspec.yml
+phpunit.xml

@@ -1,0 +1,7 @@
+Command/
+Composer/
+Generator/
+Resources/skeleton/
+CMSGeneratorBundle.php
+README.md
+composer.json

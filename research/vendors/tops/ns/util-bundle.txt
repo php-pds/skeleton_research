@@ -1,0 +1,15 @@
+Command/
+DependencyInjection/
+Entity/Types/
+Form/
+Resources/
+Service/
+Tests/
+Validator/Constraints/
+.gitignore
+.rmt.yml
+CHANGELOG
+NSUtilBundle.php
+RMT
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,8 @@
+examples/
+src/GAubry/Mutex/
+.gitignore
+CHANGELOG.md
+LICENSE
+README.md
+composer.json
+composer.lock

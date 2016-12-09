@@ -1,0 +1,7 @@
+examples/
+lib/Testify/
+test/
+.gitignore
+README.md
+composer.json
+test.php

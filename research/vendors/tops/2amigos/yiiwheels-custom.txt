@@ -1,0 +1,10 @@
+actions/
+assets/
+bootstrap/
+components/
+helpers/
+views/fileupload/
+widgets/
+.gitignore
+README.md
+composer.json

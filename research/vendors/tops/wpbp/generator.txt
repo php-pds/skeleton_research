@@ -1,0 +1,7 @@
+Generator/
+bin/
+.gitignore
+LICENSE
+composer.json
+readme.md
+wpbp-generator

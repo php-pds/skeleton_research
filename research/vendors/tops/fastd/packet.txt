@@ -1,0 +1,8 @@
+src/Packet/
+.gitignore
+ChangeLog.md
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

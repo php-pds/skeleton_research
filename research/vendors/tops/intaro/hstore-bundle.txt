@@ -1,0 +1,11 @@
+DBAL/Types/
+DQL/
+DependencyInjection/
+HStore/
+Resources/
+Tests/
+.gitignore
+IntaroHStoreBundle.php
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,10 @@
+Command/
+Composer/
+DependencyInjection/
+Filesystem/
+Resources/
+.gitignore
+AvooInstallerBundle.php
+LICENSE
+README.md
+composer.json

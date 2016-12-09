@@ -1,0 +1,6 @@
+src/Devture/ZenginGenerator/
+tests/
+.gitignore
+LICENSE.txt
+README.md
+composer.json

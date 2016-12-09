@@ -1,0 +1,17 @@
+Adapter/
+Command/
+Controller/
+DependencyInjection/
+Doctrine/Phpcr/
+Model/
+Resources/
+Tests/
+.gitignore
+.styleci.yml
+.travis.yml
+CHANGELOG.md
+CONTRIBUTING.md
+CmfRoutingAutoBundle.php
+README.md
+composer.json
+phpunit.xml.dist

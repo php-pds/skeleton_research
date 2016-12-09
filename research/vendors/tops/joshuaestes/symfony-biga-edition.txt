@@ -1,0 +1,12 @@
+app/
+bin/
+build/
+src/
+web/
+.gitignore
+Capfile
+LICENSE
+README.md
+build.xml
+composer.json
+composer.lock

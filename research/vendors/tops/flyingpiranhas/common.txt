@@ -1,0 +1,17 @@
+cache/
+config/
+database/
+dependencyInjection/
+errorHandling/
+exceptions/
+http/
+parser/
+session/
+tests/
+traits/
+utils/
+.gitignore
+LICENSE.md
+README.md
+Version.php
+composer.json

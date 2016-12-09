@@ -1,0 +1,6 @@
+Classes/KayStrobach/Custom/
+Configuration/
+Resources/
+LICENSE
+README.md
+composer.json

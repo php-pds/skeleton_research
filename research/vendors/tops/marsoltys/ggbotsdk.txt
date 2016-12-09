@@ -1,0 +1,5 @@
+przyklady/
+MessageBuilder.php
+PushConnection.php
+composer.json
+dokumentacja.html

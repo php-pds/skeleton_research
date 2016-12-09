@@ -1,0 +1,7 @@
+.idea/
+Resources/public/
+.gitignore
+D3JSBundle.php
+LICENSE
+README.md
+composer.json

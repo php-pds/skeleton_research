@@ -1,0 +1,8 @@
+components/
+models/
+updates/
+vendor/
+LICENCE.md
+Plugin.php
+README.md
+composer.json

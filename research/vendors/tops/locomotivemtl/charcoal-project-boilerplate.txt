@@ -1,0 +1,17 @@
+build/travis/
+config/
+docs/images/
+metadata/boilerplate/
+src/Boilerplate/
+tests/
+translations/boilerplate/
+views/boilerplate/template/
+www/
+.editorconfig
+.gitignore
+.travis.yml
+README.md
+apigen.neon
+composer.json
+composer.lock
+phpcs.xml

@@ -1,0 +1,15 @@
+Action/
+Config/
+Controller/
+Event/
+EventListeners/
+Form/
+Hook/
+I18n/backOffice/default/
+Loop/
+Model/
+templates/
+LICENSE.txt
+LegacyProductAttributes.php
+README.md
+composer.json

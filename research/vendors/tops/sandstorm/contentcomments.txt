@@ -1,0 +1,6 @@
+Classes/Sandstorm/ContentComments/
+Configuration/
+Resources/
+Tests/Behavior/
+README.md
+composer.json

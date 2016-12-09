@@ -1,0 +1,8 @@
+bin/
+src/
+tests/
+.gitignore
+README.md
+cfddns.sample.yml
+composer.json
+phpunit.xml

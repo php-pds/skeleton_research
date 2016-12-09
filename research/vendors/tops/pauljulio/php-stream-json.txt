@@ -1,0 +1,8 @@
+src/
+test/unit/
+.gitignore
+.htaccess
+LICENSE
+README.md
+composer.json
+composer.lock

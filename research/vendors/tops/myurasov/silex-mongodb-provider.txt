@@ -1,0 +1,5 @@
+src/MYurasov/Silex/MongoDB/Provider/
+.editorconfig
+.gitignore
+README.md
+composer.json

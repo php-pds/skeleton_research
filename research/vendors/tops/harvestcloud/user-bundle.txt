@@ -1,0 +1,9 @@
+DependencyInjection/
+Entity/
+Form/Type/
+Resources/
+.gitignore
+HarvestCloudUserBundle.php
+LICENSE
+README.md
+composer.json

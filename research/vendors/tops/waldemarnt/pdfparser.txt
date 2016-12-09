@@ -1,0 +1,11 @@
+docs/
+samples/
+src/Smalot/PdfParser/
+.atoum.php
+.bootstrap.atoum.php
+.gitattributes
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json

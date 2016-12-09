@@ -1,0 +1,16 @@
+_config/
+client/
+examples/
+src/
+templates/
+tests/
+.editorconfig
+.gitignore
+.travis.yml
+LICENSE
+README.md
+_config.php
+composer.json
+package.json
+phpunit.xml
+webpack.config.js

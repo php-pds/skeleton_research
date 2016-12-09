@@ -1,0 +1,15 @@
+.gitignore
+ApplicationInterface.php
+DateInterface.php
+ErrorHandlingInterface.php
+FrontControllerInterface.php
+ImageInterface.php
+LICENSE
+NumberToTextInterface.php
+README.md
+RandomStringInterface.php
+ResourceInterface.php
+SiteInterface.php
+TextInterface.php
+UrlInterface.php
+composer.json

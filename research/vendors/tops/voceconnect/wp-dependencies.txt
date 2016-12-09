@@ -1,0 +1,5 @@
+README.md
+bootstrap.php
+class-wp-dependency-loader.php
+composer.json
+wp-composition.php

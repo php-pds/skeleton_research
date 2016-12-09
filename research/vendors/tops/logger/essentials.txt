@@ -1,0 +1,12 @@
+docs/
+src/
+tests/
+.editorconfig
+.gitattributes
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+mkdocs.yml
+tests.xml

@@ -1,0 +1,10 @@
+.gitignore
+CompanyData.php
+CompanyInfo.php
+Kontur.php
+KonturException.php
+README.md
+absKontur.php
+companyInfoException.php
+composer.json
+test.php

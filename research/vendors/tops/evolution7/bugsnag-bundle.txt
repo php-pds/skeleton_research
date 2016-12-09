@@ -1,0 +1,17 @@
+Bugsnag/
+Controller/
+DependencyInjection/
+EventListener/
+ReleaseStage/
+Resources/config/
+Tests/
+.gitignore
+BugsnagBundle.php
+CHANGELOG.md
+LICENSE
+README.md
+UserInterface.php
+build.xml
+composer.json
+git_hooks
+phpunit.xml.dist

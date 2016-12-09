@@ -1,0 +1,15 @@
+reports/
+src/
+template/
+test/
+.codeclimate.yml
+.gitignore
+.php_cs
+CHANGELOG.md
+LICENSE
+README.md
+RoboFile.php
+composer.json
+phpunit.xml.dist
+ruleset.xml
+sami.php

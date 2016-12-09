@@ -1,0 +1,10 @@
+bin/
+client/
+config/
+layout/
+vendor/
+.gitignore
+.htaccess
+LICENSE
+README.md
+composer.json

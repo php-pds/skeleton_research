@@ -1,0 +1,6 @@
+src/CubicMushroom/
+.gitignore
+CONTRIBUTORS.md
+README.md
+composer.json
+composer.lock

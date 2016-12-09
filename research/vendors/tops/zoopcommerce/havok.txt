@@ -1,0 +1,14 @@
+.travis/
+build/
+dev/
+dist/havok/
+docs/
+lib/
+test/
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+composer.json
+package.json

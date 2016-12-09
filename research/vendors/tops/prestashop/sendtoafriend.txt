@@ -1,0 +1,17 @@
+mails/
+translations/
+CHANGELOG.txt
+Readme.md
+composer.json
+config.xml
+index.php
+logo.gif
+logo.png
+product_page.tpl
+sendtoafriend-extra.tpl
+sendtoafriend.css
+sendtoafriend.js
+sendtoafriend.php
+sendtoafriend.png
+sendtoafriend.tpl
+sendtoafriend_ajax.php

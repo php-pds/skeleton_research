@@ -1,0 +1,13 @@
+addon/qtranslate-x/
+admin/
+bak/
+caches/
+extra/
+includes/
+languages/
+uploads/
+authkey.sample.php
+composer.json
+index.php
+init.php
+readme.md

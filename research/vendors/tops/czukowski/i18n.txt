@@ -1,0 +1,7 @@
+classes/I18n/
+tests/I18n/
+.gitignore
+LICENSE.md
+README.md
+composer.json
+plurals.xml

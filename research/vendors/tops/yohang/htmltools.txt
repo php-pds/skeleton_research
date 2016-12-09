@@ -1,0 +1,6 @@
+src/HtmlTools/
+tests/HtmlTools/Tests/
+.gitignore
+README.md
+composer.json
+phpunit.xml.dist

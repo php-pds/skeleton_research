@@ -1,0 +1,16 @@
+css/
+doc/
+images/
+src/
+templates/
+tests/
+.editorconfig
+.gitattributes
+.gitignore
+.scrutinizer.yml
+LICENSE.md
+README.md
+composer.json
+composer.lock
+phpcs.xml
+phpdoc.dist.xml

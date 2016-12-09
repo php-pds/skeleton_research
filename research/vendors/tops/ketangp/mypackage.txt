@@ -1,0 +1,4 @@
+core/
+composer.json
+composer.json~
+composer.phar

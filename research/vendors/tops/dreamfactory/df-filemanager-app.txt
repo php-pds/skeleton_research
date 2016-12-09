@@ -1,0 +1,14 @@
+css/
+gfx/
+img/
+js/
+static/
+themes/
+README.md
+composer.json
+editor.cdn.html
+editor.html
+editor.no-cdn.html
+index.cdn.html
+index.html
+index.no-cdn.html

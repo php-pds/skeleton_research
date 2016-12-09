@@ -1,0 +1,13 @@
+assets/
+components/
+controllers/
+migrations/
+models/
+views/default/
+.gitignore
+WikiModule.php
+changelog.md
+composer.json
+license.md
+readme.md
+todo.md

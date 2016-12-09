@@ -1,0 +1,13 @@
+Controller/
+DependencyInjection/
+Exception/
+Resources/
+Security/
+Tests/
+.coveralls.yml
+.gitignore
+.travis.yml
+CowlbyDuoSecurityBundle.php
+README.md
+composer.json
+phpunit.xml.dist

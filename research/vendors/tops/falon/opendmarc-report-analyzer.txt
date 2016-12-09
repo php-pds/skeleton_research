@@ -1,0 +1,12 @@
+.gitignore
+LICENSE
+README.md
+ajaxsbmt.js
+composer.json
+dmarc.conf-default
+function.php
+index.php
+list.php
+message.php
+result.php
+style.css

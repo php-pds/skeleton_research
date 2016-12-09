@@ -1,0 +1,10 @@
+application/
+cache/
+db/
+overrides/languages/
+public/
+.gitignore
+.htaccess
+README.md
+_version.txt
+composer.json

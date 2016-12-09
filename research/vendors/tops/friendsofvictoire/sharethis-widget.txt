@@ -1,0 +1,8 @@
+DependencyInjection/
+Entity/
+Form/
+Resolver/
+Resources/
+README.md
+VictoireWidgetShareThisBundle.php
+composer.json

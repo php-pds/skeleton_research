@@ -1,0 +1,12 @@
+_config/
+code/
+css/
+fancybox/
+images/
+javascript/
+templates/
+.editorconfig
+.scrutinizer.yml
+CHANGELOG.md
+LICENSE.md
+composer.json

@@ -1,0 +1,7 @@
+Lib/Cache/Engine/
+Test/
+.editorconfig
+.travis.yml
+MIT-LICENCE
+composer.json
+readme.md

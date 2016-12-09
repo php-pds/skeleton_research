@@ -1,0 +1,8 @@
+src/
+tests/
+.gitignore
+.travis.yml
+README.md
+codesniffer.xml
+composer.json
+generate-api.sh

@@ -1,0 +1,9 @@
+assets/
+implementations/
+widgets/
+.gitignore
+Flag.php
+LICENSE
+README.md
+composer.json
+composer.lock

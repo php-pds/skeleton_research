@@ -1,0 +1,9 @@
+Command/
+DependencyInjection/
+EventListener/
+Model/
+Resources/config/
+Tools/
+README.md
+RzEntityAuditBundle.php
+composer.json

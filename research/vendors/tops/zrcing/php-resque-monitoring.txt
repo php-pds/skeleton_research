@@ -1,0 +1,6 @@
+demo/
+src/Deer/QueueMonitoring/
+.gitignore
+README.md
+composer.json
+composer.lock

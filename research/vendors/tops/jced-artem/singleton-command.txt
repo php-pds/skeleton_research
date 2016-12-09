@@ -1,0 +1,5 @@
+LICENSE
+README.md
+SingletonCommand.php
+SingletonCommandInterface.php
+composer.json

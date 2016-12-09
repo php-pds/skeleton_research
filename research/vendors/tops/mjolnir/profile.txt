@@ -1,0 +1,15 @@
++App/
++Docs/
+Stash/
+Task/Log/
+Trait/Stash/
+.gitattributes
+.gitignore
+Access.php
+Application.php
+SQLDatabase.php
+SQLStatement.php
+Stash.php
+composer.json
+license.md
+readme.md

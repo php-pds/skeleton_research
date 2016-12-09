@@ -1,0 +1,9 @@
+_docs/
+vault/
+.gitattributes
+Changelog.txt
+LICENSE.txt
+README.md
+composer.json
+loader.php
+web.config

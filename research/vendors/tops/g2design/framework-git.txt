@@ -1,0 +1,12 @@
+includes/
+library/
+skeleton_app/
+.gitignore
+.htaccess
+MVC_Router.php
+README.md
+commit.php
+composer.json
+composer.lock
+composer.phar
+deploy.php

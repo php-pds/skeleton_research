@@ -1,0 +1,6 @@
+src/entitiez/
+test/
+.gitignore
+README.md
+composer.json
+phpunit.xml

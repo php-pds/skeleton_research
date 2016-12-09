@@ -1,0 +1,11 @@
+bin/
+config/
+src/Shell/
+tests/
+.gitattributes
+.gitignore
+.travis.yml
+LICENSE.md
+README.md
+composer.json
+phpunit.xml.dist

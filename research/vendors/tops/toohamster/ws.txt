@@ -1,0 +1,7 @@
+build/
+src/Ws/
+tests/
+web/
+.gitignore
+README.md
+composer.json

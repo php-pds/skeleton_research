@@ -1,0 +1,5 @@
+spec/Vivait/InspectorBundle/
+src/Vivait/InspectorBundle/
+LICENSE
+README.md
+composer.json

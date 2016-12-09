@@ -1,0 +1,6 @@
+assets/
+classes/
+LICENCE.md
+README.md
+composer.json
+test.php

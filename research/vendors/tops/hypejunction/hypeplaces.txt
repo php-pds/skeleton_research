@@ -1,0 +1,17 @@
+actions/places/
+classes/hypeJunction/Places/
+graphics/icon/
+languages/
+lib/
+sass/
+screenshots/
+views/default/
+.gitattributes
+.gitignore
+README.md
+activate.php
+composer.json
+config.rb
+deactivate.php
+manifest.xml
+start.php

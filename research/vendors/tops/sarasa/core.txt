@@ -1,0 +1,4 @@
+console/templates/
+models/Sarasa/Core/
+views/
+composer.json

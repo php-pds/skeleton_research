@@ -1,0 +1,7 @@
+assets/
+models/
+views/
+ChatJs.php
+ChatRoom.php
+README.md
+composer.json

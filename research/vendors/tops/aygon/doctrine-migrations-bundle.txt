@@ -1,0 +1,8 @@
+Command/
+DependencyInjection/
+Migrations/
+Resources/
+.gitignore
+AygonDoctrineMigrationsBundle.php
+README.md
+composer.json

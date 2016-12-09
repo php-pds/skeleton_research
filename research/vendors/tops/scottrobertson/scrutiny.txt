@@ -1,0 +1,10 @@
+src/ScottRobertson/Scrutiny/
+tests/ScottRobertson/Scrutiny/
+.drone.yml
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

@@ -1,0 +1,14 @@
+config/
+data/
+public/css/
+src/UthandoEvents/
+view/uthando-events/
+.codeclimate.yml
+.gitignore
+.travis.yml
+LICENSE
+Module.php
+README.md
+autoload_classmap.php
+composer.json
+template_map.php

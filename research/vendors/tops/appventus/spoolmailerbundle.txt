@@ -1,0 +1,8 @@
+DependencyInjection/
+Entity/
+Mailer/
+Manager/
+Resources/config/
+AvAwesomeSpoolMailerBundle.php
+README.md
+composer.json

@@ -1,0 +1,7 @@
+DependencyInjection/
+Resources/config/
+.gitignore
+EndymDataTableBundle.php
+LICENSE.md
+README.md
+composer.json

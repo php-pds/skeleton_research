@@ -1,0 +1,5 @@
+Classes/Lelesys/Plugin/SEOHelper/TypoScript/
+Configuration/
+Resources/Private/
+README.md
+composer.json

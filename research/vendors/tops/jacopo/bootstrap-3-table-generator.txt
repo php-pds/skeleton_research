@@ -1,0 +1,9 @@
+src/Jacopo/Bootstrap3Table/
+tests/
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml
+travis.yml

@@ -1,0 +1,16 @@
+Controller/
+DependencyInjection/
+Entity/
+Exception/
+Form/
+Installation/
+Listener/
+Manager/
+Migrations/pdo_mysql/
+Repository/
+Resources/
+CPASimUSanteItemSelectorBundle.php
+VERSION.txt
+composer.json
+info.txt
+readme.md

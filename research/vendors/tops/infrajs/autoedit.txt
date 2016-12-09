@@ -1,0 +1,22 @@
+icons/
+images/
+tests/
+.infra.json
+.test.js
+README.md
+admin.inc.php
+autoedit.css
+autoedit.ext.js
+autoedit.js
+autoedit.layer.json
+autoedit.php
+autoedit.tpl
+composer.json
+download.php
+json.js
+jsonedit.html
+jsonedit.js
+jsonschemas sample.json
+jsonwidget.css
+menu.schema.json
+update.php

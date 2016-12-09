@@ -1,0 +1,12 @@
+Command/
+DependencyInjection/
+Filter/
+Tests/
+.coveralls.yml
+.gitignore
+.travis.yml
+EguliasTagDebugCommandBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml

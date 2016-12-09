@@ -1,0 +1,12 @@
+DependencyInjection/
+Entity/
+Form/
+Model/
+Querier/ORM/
+Resources/
+Tests/
+.gitignore
+OpenppMapBundle.php
+README.md
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,7 @@
+Controller/
+DependencyInjection/
+Installation/
+Resources/
+CPASimUSanteClarolineLayoutOverrideBundle.php
+VERSION.txt
+composer.json

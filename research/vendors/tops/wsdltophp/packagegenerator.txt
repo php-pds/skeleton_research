@@ -1,0 +1,15 @@
+src/
+tests/
+.editorconfig
+.gitignore
+.php_cs
+.travis.yml
+CASES.md
+CHANGELOG.md
+LICENSE
+README.md
+box.json
+composer.json
+console
+phpunit.xml.dist
+wsdltophp.yml.dist

@@ -1,0 +1,8 @@
+actions/
+languages/
+pages/
+views/default/welcome/
+README.md
+composer.json
+manifest.xml
+start.php

@@ -1,0 +1,5 @@
+src/Sokil/
+tests/
+.gitignore
+README.md
+composer.json

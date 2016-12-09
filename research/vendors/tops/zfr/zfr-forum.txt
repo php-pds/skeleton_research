@@ -1,0 +1,15 @@
+.travis/
+config/
+src/ZfrForum/
+tests/
+view/zfr-forum/
+.gitignore
+.travis.yml
+LICENSE
+Module.php
+README.md
+Version.php
+autoload_classmap.php
+autoload_function.php
+autoload_register.php
+composer.json

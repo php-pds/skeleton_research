@@ -1,0 +1,13 @@
+DependencyInjection/
+Resources/config/
+Tests/
+.gitignore
+.travis.yml
+JsonLogObject.php
+LICENSE
+LassoMultilogBundle.php
+MultilogFactory.php
+OnlyMessageFormatter.php
+README.md
+composer.json
+phpunit.xml

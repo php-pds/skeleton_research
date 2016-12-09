@@ -1,0 +1,11 @@
+examples/
+src/
+tests/
+.gitignore
+.travis.yml
+LICENSE.md
+README.md
+benchmark.php
+composer.json
+known-broken-words
+simple.php

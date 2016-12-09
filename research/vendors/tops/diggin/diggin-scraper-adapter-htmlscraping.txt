@@ -1,0 +1,7 @@
+src/Diggin/Scraper/Adapter/Htmlscraping/
+tests/
+.gitmodules
+.travis.yml
+README.md
+composer.json
+phpunit.xml.dist

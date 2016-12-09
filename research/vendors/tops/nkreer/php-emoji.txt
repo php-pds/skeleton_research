@@ -1,0 +1,5 @@
+src/nkreer/Emoji/
+LICENSE
+README.md
+composer.json
+emoji.txt

@@ -1,0 +1,6 @@
+src/
+.gitignore
+.travis.yml
+README.MD
+composer.json
+phpspec.yml

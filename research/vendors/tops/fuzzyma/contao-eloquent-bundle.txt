@@ -1,0 +1,9 @@
+Command/
+Hooks/
+Models/
+Resources/contao/config/
+Traits/
+ContaoEloquentBundle.php
+LICENSE
+Readme.md
+composer.json

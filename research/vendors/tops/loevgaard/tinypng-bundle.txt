@@ -1,0 +1,8 @@
+DependencyInjection/
+EventListener/
+Resources/config/
+.gitignore
+LICENSE
+README.md
+TinypngBundle.php
+composer.json

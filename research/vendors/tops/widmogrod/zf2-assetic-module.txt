@@ -1,0 +1,17 @@
+assets/
+bin/
+configs/
+docs/
+src/AsseticBundle/
+tests/
+views/asseticexample/
+.gitignore
+.php_cs
+.travis.yml
+CHANGELOG.md
+Module.php
+README.md
+Vagrantfile
+composer.json
+composer.lock
+phpunit.xml.dist

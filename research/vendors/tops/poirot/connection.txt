@@ -1,0 +1,4 @@
+Http/
+Interfaces/
+AbstractConnection.php
+composer.json

@@ -1,0 +1,16 @@
+bin/
+ci/
+features/
+php/
+templates/
+tests/
+utils/
+.gitattributes
+.gitignore
+.mailmap
+.travis.yml
+CONTRIBUTING.md
+LICENSE.txt
+README.md
+composer.json
+phpunit.xml.dist

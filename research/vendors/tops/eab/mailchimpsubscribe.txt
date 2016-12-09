@@ -1,0 +1,7 @@
+classes/mailchimp-mailchimp-api-php/
+design/standard/templates/mailchimp/
+modules/mailchimp/
+settings/
+README.md
+composer.json
+extension.xml

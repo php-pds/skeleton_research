@@ -1,0 +1,6 @@
+src/Yubikey/
+tests/
+.travis.yml
+README.md
+composer.json
+test.php

@@ -1,0 +1,10 @@
+.idea/
+migrations/
+modules/
+Controller.php
+Extension.php
+MenuInterface.php
+ModuleInterface.php
+README.MD
+Yii2Adv.php
+composer.json

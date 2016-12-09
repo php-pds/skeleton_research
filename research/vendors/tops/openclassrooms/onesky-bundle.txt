@@ -1,0 +1,17 @@
+Command/
+DependencyInjection/
+EventListener/
+Gateways/
+Model/
+Resources/config/
+Services/
+Tests/
+.coveralls.yml
+.gitignore
+.travis.yml
+LICENSE.txt
+OpenClassroomsOneSkyBundle.php
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

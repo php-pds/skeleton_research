@@ -1,0 +1,5 @@
+lib/EarthIT/
+test/EarthIT/Schema/
+.gitignore
+Makefile
+composer.json

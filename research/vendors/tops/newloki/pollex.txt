@@ -1,0 +1,14 @@
+app/
+build/
+data/
+public/css/
+src/Pollex/Entity/
+tests/
+var/Proxy/
+.gitignore
+.travis.yml
+README.markdown
+composer.json
+index.php
+phpunit.travis.xml.dist
+phpunit.xml.dist

@@ -1,0 +1,6 @@
+src/Dklab/SoapClient/
+t/Dklab_SoapClient/
+test/Dklab_SoapClient/
+.gitignore
+LICENSE
+composer.json

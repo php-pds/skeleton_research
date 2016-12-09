@@ -1,0 +1,10 @@
+src/Csfd/
+tests/
+.gitignore
+.rmt.yml
+.travis.yml
+README.md
+RMT
+composer.json
+test.sh
+todo

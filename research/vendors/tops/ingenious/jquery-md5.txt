@@ -1,0 +1,6 @@
+.gitignore
+README
+composer.json
+jquery.md5.js
+jquery.md5.min.js
+test.html

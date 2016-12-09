@@ -1,0 +1,5 @@
+Assets/
+licenses/
+.gitignore
+README.md
+composer.json

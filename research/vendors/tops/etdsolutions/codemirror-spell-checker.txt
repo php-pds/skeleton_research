@@ -1,0 +1,7 @@
+LICENSE
+README.md
+composer.json
+en_US.aff
+en_US.dic
+spell-checker.min.css
+spell-checker.min.js

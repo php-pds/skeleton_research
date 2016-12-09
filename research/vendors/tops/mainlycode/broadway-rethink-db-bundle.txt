@@ -1,0 +1,10 @@
+DependencyInjection/
+Resources/config/
+Tests/DependencyInjection/
+.gitignore
+.travis.yml
+BroadwayRethinkDbBundle.php
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

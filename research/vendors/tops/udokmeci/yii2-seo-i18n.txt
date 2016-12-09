@@ -1,0 +1,16 @@
+widgets/
+.gitignore
+BaseSeoGenerator.php
+DynamicSeoItem.php
+FaviconGenerator.php
+LICENSE
+LinksGenerator.php
+README.md
+SeoItemInterface.php
+SeoMetaTagsGenerator.php
+SeoSiteInterface.php
+SeoViewBehavior.php
+SocialMetaTagsGenerator.php
+StaticSeoItemAdapter.php
+TitleGenerator.php
+composer.json

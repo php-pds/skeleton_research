@@ -1,0 +1,7 @@
+Resources/
+web/
+.gitignore
+LICENSE
+README.md
+composer.json
+phpunit.xml

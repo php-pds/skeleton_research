@@ -1,0 +1,8 @@
+Errors/
+Exception/
+Interfaces/
+.gitignore
+Validator.php
+ValidatorHeader.php
+composer.json
+readme.md

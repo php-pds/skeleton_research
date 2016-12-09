@@ -1,0 +1,12 @@
+api/
+data/
+message/
+wxBizMsgCrypt/
+AccessTokenProvider.php
+Client.php
+FileAccessTokenProvider.php
+MessageReceiver.php
+NormalMessageReceiver.php
+README.md
+WxSDK.php
+composer.json

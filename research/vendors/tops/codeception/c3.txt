@@ -1,0 +1,6 @@
+.gitignore
+.mailmap
+Installer.php
+README.md
+c3.php
+composer.json

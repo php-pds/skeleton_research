@@ -1,0 +1,13 @@
+resources/data/
+src/
+tests/
+.editorconfig
+.gitattributes
+.gitignore
+.styleci.yml
+.travis.yml
+LICENSE
+README.md
+USAGE.md
+composer.json
+phpunit.xml.dist

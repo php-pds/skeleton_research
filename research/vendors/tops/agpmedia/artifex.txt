@@ -1,0 +1,5 @@
+lib/
+tests/
+Makefile
+README.md
+composer.json

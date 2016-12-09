@@ -1,0 +1,5 @@
+images/
+javascript/
+LICENSE.md
+composer.json
+readme.md

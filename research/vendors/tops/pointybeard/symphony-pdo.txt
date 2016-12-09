@@ -1,0 +1,7 @@
+src/
+.gitignore
+CHANGELOG.md
+LICENCE
+README.md
+composer.json
+phpunit.xml.dist

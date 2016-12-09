@@ -1,0 +1,8 @@
+src/
+tests/
+.gitignore
+LICENSE.txt
+README.md
+apigen.neon
+composer.json
+phpunit.xml

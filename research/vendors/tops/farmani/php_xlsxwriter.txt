@@ -1,0 +1,13 @@
+benchmark/
+testbench/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock
+example-cli-formats.php
+example-cli-load.php
+example-cli-merge-cells.php
+example-cli.php
+example.php
+xlsxwriter.class.php

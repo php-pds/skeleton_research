@@ -1,0 +1,12 @@
+build/
+code/
+tests/
+.gitignore
+.php_cs
+LICENSE
+README.md
+_config.php
+build.xml
+composer.json
+composer.lock
+phpunit.xml.dist

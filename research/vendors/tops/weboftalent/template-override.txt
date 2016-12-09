@@ -1,0 +1,15 @@
+_config/
+code/
+docs/en/
+lang/
+tests/
+.editorconfig
+.gitattributes
+.scrutinizer.yml
+.travis.yml
+CHANGELOG.md
+ChangeLog.md
+LICENSE.md
+README.md
+composer.json
+phpunit.xml

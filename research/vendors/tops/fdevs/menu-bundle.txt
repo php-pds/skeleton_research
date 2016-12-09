@@ -1,0 +1,14 @@
+DependencyInjection/
+Doctrine/
+Event/
+EventListener/
+Form/Type/
+Model/
+Provider/
+Resources/
+Sonata/Extension/
+Validator/Constraints/
+FDevsMenuBundle.php
+FDevsMenuEvents.php
+README.md
+composer.json

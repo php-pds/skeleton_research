@@ -1,0 +1,6 @@
+config/
+src/MajorTable/
+view/table/
+.gitignore
+README.md
+composer.json

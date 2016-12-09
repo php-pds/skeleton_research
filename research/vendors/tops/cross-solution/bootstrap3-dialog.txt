@@ -1,0 +1,13 @@
+dist/
+examples/
+play/
+src/
+.eslintignore
+.eslintrc
+.gitignore
+README.md
+bower.json
+changelog.txt
+composer.json
+gulpfile.js
+package.json

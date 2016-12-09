@@ -1,0 +1,15 @@
+assets/
+classes/
+storage/
+www/
+.gitignore
+LICENSE.md
+README.md
+bower.json
+composer.json
+config.php.sample
+console
+gulpfile.js
+package.json
+schema.sql
+vhost.conf.sample

@@ -1,0 +1,13 @@
+code/
+css/
+js/
+screenshots/
+templates/
+.bowerrc
+.editorconfig
+.gitignore
+.scrutinizer.yml
+README.md
+_config.php
+bower.json
+composer.json

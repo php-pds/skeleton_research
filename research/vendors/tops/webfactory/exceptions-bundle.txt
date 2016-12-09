@@ -1,0 +1,12 @@
+Controller/
+Resources/
+Tests/
+.gitignore
+.hgtags
+.travis.yml
+LICENSE
+README.md
+UPGRADING.md
+WebfactoryExceptionsBundle.php
+composer.json
+phpunit.xml.dist

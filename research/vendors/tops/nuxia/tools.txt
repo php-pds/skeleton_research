@@ -1,0 +1,7 @@
+Model/
+Tests/Model/
+.gitignore
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

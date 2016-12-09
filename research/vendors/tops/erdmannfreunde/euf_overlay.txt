@@ -1,0 +1,8 @@
+assets/
+config/
+dca/
+languages/
+modules/
+templates/
+README.md
+composer.json

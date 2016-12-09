@@ -1,0 +1,11 @@
+.ci/
+src/Storage/
+tests/Storage/
+.gitignore
+.travis.yml
+LICENSE
+Makefile
+README.md
+composer.json
+phpcs.xml
+phpunit.xml.dist

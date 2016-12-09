@@ -1,0 +1,7 @@
+Classes/Neos/Demo/
+Configuration/
+Migrations/
+Resources/
+.gitignore
+Readme.rst
+composer.json

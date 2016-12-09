@@ -1,0 +1,5 @@
+tests/
+.gitignore
+Cron.php
+composer.json
+phpunit.xml

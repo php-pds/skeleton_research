@@ -1,0 +1,9 @@
+spec/Nominatim/
+src/Nominatim/
+.gitignore
+.travis.yml
+README.md
+Vagrantfile
+bootstrap.sh
+composer.json
+example.php

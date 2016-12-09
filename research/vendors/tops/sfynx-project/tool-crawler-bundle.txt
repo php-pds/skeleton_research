@@ -1,0 +1,10 @@
+Crawler/
+DependencyInjection/
+Resources/
+Tests/Crawler/
+.gitignore
+.travis.yml
+LICENSE
+SfynxCrawlerBundle.php
+composer.json
+phpunit.xml.dist

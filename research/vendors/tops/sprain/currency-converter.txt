@@ -1,0 +1,9 @@
+Resources/meta/
+lib/CurrencyConverter/
+tests/CurrencyConverter/
+.gitignore
+.travis.yml
+README.md
+composer.json
+example.php
+phpunit.xml.dist

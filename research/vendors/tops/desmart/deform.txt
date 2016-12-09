@@ -1,0 +1,9 @@
+spec/
+src/
+.codeclimate.yml
+.editorconfig
+.gitignore
+.scrutinizer.yml
+.travis.yml
+composer.json
+phpspec.yml

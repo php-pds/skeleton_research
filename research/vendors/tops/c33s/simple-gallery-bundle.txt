@@ -1,0 +1,12 @@
+Controller/
+DependencyInjection/
+Form/Type/
+Model/
+Resources/
+Twig/Extension/
+.gitignore
+C33sSimpleGalleryBundle.php
+LICENSE
+README.md
+composer.json
+composer.yml

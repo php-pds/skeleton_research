@@ -1,0 +1,6 @@
+config/
+extensions/
+tests/
+webroot/img/
+README.md
+composer.json

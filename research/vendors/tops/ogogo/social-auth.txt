@@ -1,0 +1,12 @@
+config/
+data/
+src/SocialAuth/
+test/
+view/social-auth/user/
+LICENSE
+Module.php
+README.md
+autoload_classmap.php
+autoload_function.php
+autoload_register.php
+composer.json

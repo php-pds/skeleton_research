@@ -1,0 +1,17 @@
+.tx/
+_config/
+code/
+lang/
+templates/SilverStripe/SiteConfig/Includes/
+tests/
+.editorconfig
+.gitattributes
+.gitignore
+.scrutinizer.yml
+.travis.yml
+.upgrade.yml
+CONTRIBUTING.md
+README.md
+code-of-conduct.md
+composer.json
+license.md

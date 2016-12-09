@@ -1,0 +1,7 @@
+lib/custom/
+.gitignore
+.travis.yml
+README.md
+composer.json
+manifest.php
+phing.xml

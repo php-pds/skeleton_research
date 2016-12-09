@@ -1,0 +1,4 @@
+Wassa/MPSBundle/
+.gitignore
+README.md
+composer.json

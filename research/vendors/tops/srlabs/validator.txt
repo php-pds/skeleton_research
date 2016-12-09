@@ -1,0 +1,10 @@
+public/
+spec/Validator/
+src/
+.gitignore
+.travis.yml
+composer.json
+license.md
+phpspec.yml
+phpunit.xml
+readme.md

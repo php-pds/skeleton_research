@@ -1,0 +1,10 @@
+Controller/
+DataCollector/
+DependencyInjection/
+Extension/
+Resources/
+.gitignore
+LICENSE
+LswAutomaticUpdateBundle.php
+README.md
+composer.json

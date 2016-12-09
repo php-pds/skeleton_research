@@ -1,0 +1,8 @@
+DependencyInjection/
+Form/
+Resources/config/
+.gitignore
+IbrowsFriendlyFormBundle.php
+LICENSE
+README.md
+composer.json

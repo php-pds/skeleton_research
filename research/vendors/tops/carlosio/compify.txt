@@ -1,0 +1,6 @@
+src/Compify/
+.gitignore
+LICENSE
+README.md
+compify.phar
+composer.json

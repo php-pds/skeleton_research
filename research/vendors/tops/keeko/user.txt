@@ -1,0 +1,9 @@
+.settings/
+res/
+src/
+.gitignore
+.project
+api.json
+codegen.json
+composer.json
+puli.json

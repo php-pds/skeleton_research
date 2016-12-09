@@ -1,0 +1,6 @@
+example/
+lib/Aw/DataPort/
+.gitignore
+README.md
+composer.json
+composer.lock

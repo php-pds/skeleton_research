@@ -1,0 +1,14 @@
+controllers/
+fieldtypes/
+migrations/
+models/
+records/
+resources/
+services/
+templates/
+translations/
+variables/
+AmNavPlugin.php
+README.md
+composer.json
+releases.json

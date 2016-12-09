@@ -1,0 +1,9 @@
+config/
+src/Tests/
+README.md
+composer.json
+wxt_search.features.yml
+wxt_search.info.yml
+wxt_search.install
+wxt_search.make
+wxt_search.module

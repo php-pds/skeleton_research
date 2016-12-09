@@ -1,0 +1,12 @@
+bin/
+src/
+tests/
+.gitattributes
+.gitignore
+.magnum.yml
+.travis.yml
+LICENSE
+README.md
+composer.json
+coveralls.yml
+phpunit.xml.dist

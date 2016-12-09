@@ -1,0 +1,7 @@
+config/
+src/T4webNavigation/
+view/partial/
+.gitignore
+Module.php
+README.md
+composer.json

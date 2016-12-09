@@ -1,0 +1,5 @@
+src/Rakit/Curl/
+.gitignore
+LICENSE
+README.md
+composer.json

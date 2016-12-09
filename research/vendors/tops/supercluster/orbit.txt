@@ -1,0 +1,11 @@
+bin/
+etc/
+public/
+templates/
+.editorconfig
+.gitattributes
+.gitignore
+LICENSE
+README.md
+composer.json
+supercluster.ini

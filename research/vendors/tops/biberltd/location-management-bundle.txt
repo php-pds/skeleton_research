@@ -1,0 +1,12 @@
+Controller/
+DependencyInjection/
+Entity/
+ORM/
+Resources/
+SQL/MySQL/
+Services/
+Tests/Controller/
+BiberLtdLocationManagementBundle.php
+LICENSE
+README.md
+composer.json

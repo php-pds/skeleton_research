@@ -1,0 +1,9 @@
+config/
+public/assets/datatable/
+src/ModulusDataTables/
+.gitignore
+LICENSE
+Module.php
+README.md
+autoload_classmap.php
+composer.json

@@ -1,0 +1,17 @@
+_ide/
+assets/
+components/
+config/
+console/controllers/
+controllers/
+messages/ru/
+migrations/
+models/
+views/admin-log-db-target/
+CHANGELOG.md
+ConsoleModule.php
+LICENSE
+LogDbTarget.php
+Module.php
+README.md
+composer.json

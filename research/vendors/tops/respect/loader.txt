@@ -1,0 +1,12 @@
+bin/
+library/Respect/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+Makefile
+README.md
+composer.json
+composer.lock
+package.xml
+phpunit.xml

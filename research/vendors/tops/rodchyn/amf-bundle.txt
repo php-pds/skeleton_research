@@ -1,0 +1,15 @@
+Amf/
+Annotation/
+Controller/
+DependencyInjection/
+Event/
+HttpFoundation/
+Logger/Handler/
+Metadata/
+Resources/
+Serializer/
+Test/
+Client.php
+README.md
+TecbotAMFBundle.php
+composer.json

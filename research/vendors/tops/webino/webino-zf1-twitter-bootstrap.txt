@@ -1,0 +1,5 @@
+config/
+public/assets/bootstrap/
+.gitignore
+README.md
+composer.json

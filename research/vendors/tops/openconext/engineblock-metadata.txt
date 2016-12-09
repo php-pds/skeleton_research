@@ -1,0 +1,13 @@
+src/
+tests/
+tools/
+.coveralls.yml
+.gitignore
+.travis.yml
+LICENSE
+README.md
+build-pre-commit.xml
+build.xml
+composer.json
+composer.lock
+qa-tools.json

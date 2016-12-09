@@ -1,0 +1,12 @@
+build/release/
+i18n/
+res/
+src/
+.gitignore
+COPYING.txt
+Gruntfile.js
+README.md
+composer.json
+extension.json
+package.json
+release-notes.md

@@ -1,0 +1,8 @@
+Net/Gearman/
+examples/
+tests/
+.gitignore
+README
+build.xml
+composer.json
+package.xml

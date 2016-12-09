@@ -1,0 +1,6 @@
+resources/
+src/ScaffolderTheme/
+.gitignore
+LICENSE
+composer.json
+readme.md

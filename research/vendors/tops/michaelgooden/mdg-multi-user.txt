@@ -1,0 +1,8 @@
+config/
+src/MdgMultiUser/
+view/mdg-multi-user/user/
+.gitignore
+LICENSE
+Module.php
+README.md
+composer.json

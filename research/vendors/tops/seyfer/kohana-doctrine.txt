@@ -1,0 +1,7 @@
+bin/
+classes/Doctrine/
+config/
+.gitmodules
+README.md
+composer.json
+init.php

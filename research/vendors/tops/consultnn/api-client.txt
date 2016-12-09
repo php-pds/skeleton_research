@@ -1,0 +1,12 @@
+exceptions/
+mappers/
+tests/
+.gitignore
+AbstractDomain.php
+ApiConnection.php
+Company.php
+Geo.php
+README.md
+Rubric.php
+composer.json
+ruleset.xml

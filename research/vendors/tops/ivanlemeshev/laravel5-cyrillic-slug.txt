@@ -1,0 +1,6 @@
+src/IvanLemeshev/Laravel5CyrillicSlug/
+.gitignore
+CHANGELOG.md
+LICENSE
+README.md
+composer.json

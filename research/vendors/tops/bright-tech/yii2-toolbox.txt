@@ -1,0 +1,9 @@
+assets/
+behaviors/
+sass/
+test/
+.gitignore
+AlertAsset.php
+BaseModel.php
+EnabledInterface.php
+composer.json

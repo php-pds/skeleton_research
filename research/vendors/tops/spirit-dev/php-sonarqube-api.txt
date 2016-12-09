@@ -1,0 +1,5 @@
+lib/SonarQube/
+.gitignore
+LICENSE
+README.md
+composer.json

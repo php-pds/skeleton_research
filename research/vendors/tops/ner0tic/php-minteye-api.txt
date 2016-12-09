@@ -1,0 +1,5 @@
+Resources/config/
+lib/Minteye/
+.gitignore
+README.md
+composer.json

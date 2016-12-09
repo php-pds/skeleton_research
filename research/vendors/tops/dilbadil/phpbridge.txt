@@ -1,0 +1,6 @@
+app/Suggestotron/
+config/
+public/
+views/
+.gitignore
+composer.json

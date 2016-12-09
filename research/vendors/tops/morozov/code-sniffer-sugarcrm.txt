@@ -1,0 +1,4 @@
+PHP/CodeSniffer/Standards/SugarCRM/
+.gitignore
+README.md
+composer.json

@@ -1,0 +1,10 @@
+src/Vube/FileSystem/
+test/
+.coveralls.yml
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpdoc.xml
+phpunit.xml.dist

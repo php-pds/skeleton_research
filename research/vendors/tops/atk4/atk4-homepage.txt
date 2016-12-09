@@ -1,0 +1,5 @@
+doc/
+lib/atk4/atk4homepage/
+public/
+README.md
+composer.json

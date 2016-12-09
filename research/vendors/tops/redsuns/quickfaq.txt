@@ -1,0 +1,7 @@
+includes/
+languages/
+snapshots/
+.gitignore
+README.md
+composer.json
+quickfaq.php

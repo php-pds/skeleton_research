@@ -1,0 +1,13 @@
+config/
+examples/
+src/Jvandemo/Ogone/
+tests/
+.gitattributes
+.gitignore
+Gruntfile.js
+LICENSE.txt
+README.md
+composer.json
+composer.lock
+composer.phar
+package.json

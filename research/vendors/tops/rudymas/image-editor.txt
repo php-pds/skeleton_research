@@ -1,0 +1,5 @@
+src/ImageEditor/
+.gitignore
+LICENSE
+README.md
+composer.json

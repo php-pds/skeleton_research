@@ -1,0 +1,9 @@
+src/
+test/
+.gitignore
+LICENSE
+README.md
+composer.json
+phpunit-test-checker.json
+phpunit-test-checker.php
+phpunit.xml.dist

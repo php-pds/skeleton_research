@@ -1,0 +1,6 @@
+source/Yandex/Fotki/
+.gitignore
+LICENSE
+README.md
+autoload.php
+composer.json

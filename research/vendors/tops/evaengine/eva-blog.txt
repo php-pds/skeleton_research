@@ -1,0 +1,12 @@
+config/
+sql/
+src/EvaBlog/
+tests/
+views/admin/
+.gitignore
+.travis.yml
+LICENSE.md
+LICENSE.txt
+Module.php
+composer.json
+phpunit.xml.dist

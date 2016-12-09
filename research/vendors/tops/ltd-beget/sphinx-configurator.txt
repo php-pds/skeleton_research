@@ -1,0 +1,10 @@
+docker/
+sphinx/
+src/LTDBeget/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json
+phpdox.xml
+phpunit.xml

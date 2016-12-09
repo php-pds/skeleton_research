@@ -1,0 +1,4 @@
+src/Ugosansh/Component/EntityManager/
+.gitignore
+README.md
+composer.json

@@ -1,0 +1,10 @@
+data/
+library/
+tests/
+.gitignore
+LICENSE
+README.md
+bb.jpg
+composer.json
+integration.xml
+unit.xml

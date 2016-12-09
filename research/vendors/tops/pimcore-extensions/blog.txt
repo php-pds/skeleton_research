@@ -1,0 +1,10 @@
+controllers/
+docs/screenshots/
+install/
+lib/Modern/View/Helper/
+models/
+static/texts/
+views/
+README.md
+composer.json
+plugin.xml

@@ -1,0 +1,5 @@
+examples/
+src/Snowcap/Vat/
+.gitignore
+README.md
+composer.json

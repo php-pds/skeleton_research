@@ -1,0 +1,10 @@
+app/
+configs/
+public/
+tests/
+.coveralls.yml
+.gitignore
+.scrutinizer.yml
+.travis.yml
+README.md
+composer.json

@@ -1,0 +1,15 @@
+assets/
+behaviors/
+components/
+controllers/
+helpers/
+mail/
+messages/nl/
+migrations/
+models/
+views/
+CMSAsset.php
+Module.php
+README.md
+composer.json
+config.php

@@ -1,0 +1,11 @@
+Request/
+Struct/
+Tests/
+.gitignore
+Base.php
+Http.php
+README.md
+VoiceFactory.php
+VoiceInterface.php
+composer.json
+phpunit.xml.dist

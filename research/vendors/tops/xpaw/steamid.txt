@@ -1,0 +1,11 @@
+.codeclimate.yml
+.gitattributes
+.gitignore
+.phpunit.xml
+.test.php
+.travis.yml
+LICENSE
+README.md
+SteamID.php
+VanityURLs.php
+composer.json

@@ -1,0 +1,6 @@
+src/app/
+.gitignore
+README.md
+composer.json
+modman
+phpcs.xml

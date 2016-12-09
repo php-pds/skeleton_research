@@ -1,0 +1,7 @@
+config/
+database/migrations/
+resources/views/
+src/
+.gitignore
+README.md
+composer.json

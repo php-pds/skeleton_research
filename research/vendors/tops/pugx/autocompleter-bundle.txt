@@ -1,0 +1,12 @@
+DependencyInjection/
+Form/
+Listener/
+Resources/
+Tests/
+.gitattributes
+.gitignore
+.travis.yml
+PUGXAutocompleterBundle.php
+README.md
+composer.json
+phpunit.xml.dist

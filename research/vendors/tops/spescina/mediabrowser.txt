@@ -1,0 +1,14 @@
+config/
+resources/
+src/
+tests/
+.bowerrc
+.gitignore
+.scrutinizer.yml
+.travis.yml
+README.md
+bower.json
+composer.json
+gulpfile.js
+package.json
+phpunit.xml

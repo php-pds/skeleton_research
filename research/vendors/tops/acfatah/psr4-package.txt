@@ -1,0 +1,13 @@
+_nbproject/
+install/
+src/
+tests/
+.gitignore
+README.md
+_CHANGELOG.md
+_LICENSE
+_README.md
+_composer.json
+_phpunit.xml.dist
+_travis.yml
+composer.json

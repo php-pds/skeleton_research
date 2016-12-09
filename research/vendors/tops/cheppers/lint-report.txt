@@ -1,0 +1,11 @@
+src/
+tests/
+.editorconfig
+.git-hooks
+.gitignore
+.travis.yml
+README.md
+codeception.yml
+codecov.yml
+composer.json
+composer.lock

@@ -1,0 +1,13 @@
+config/
+src/ZfJoacubUploaderTwb/
+vendor/jQuery-File-Upload/
+view/ZfJoacubUploaderTwb/
+.gitignore
+.gitmodules
+LICENSE
+Module.php
+README.md
+autoload_classmap.php
+autoload_function.php
+autoload_register.php
+composer.json

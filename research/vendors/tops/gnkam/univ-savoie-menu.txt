@@ -1,0 +1,6 @@
+examples/
+src/Gnkam/Crous/Grenoble/Menu/
+.gitignore
+COPYING.txt
+README.md
+composer.json

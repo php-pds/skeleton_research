@@ -1,0 +1,8 @@
+Controller/
+DependencyInjection/
+Event/
+Model/
+Resources/
+.gitignore
+WebitCommonPlUploadBundle.php
+composer.json

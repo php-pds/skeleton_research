@@ -1,0 +1,6 @@
+nbproject/
+src/
+tests/
+.travis.yml
+composer.json
+readme.md

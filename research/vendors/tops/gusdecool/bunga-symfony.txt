@@ -1,0 +1,11 @@
+app/
+src/
+web/
+.bowerrc
+.gitignore
+.travis.yml
+LICENSE.md
+README.md
+bower.json
+composer.json
+composer.lock

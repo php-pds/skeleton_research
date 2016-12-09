@@ -1,0 +1,8 @@
+lib/Wukka/
+tests/
+.gitignore
+LICENSE
+README.md
+autoload.php
+composer.json
+test.sh

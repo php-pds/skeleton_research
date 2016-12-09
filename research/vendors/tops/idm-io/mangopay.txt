@@ -1,0 +1,5 @@
+src/MangoPay/
+.gitignore
+LICENSE
+README.md
+composer.json

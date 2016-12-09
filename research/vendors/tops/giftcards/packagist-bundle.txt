@@ -1,0 +1,8 @@
+Controller/
+DependencyInjection/
+Resources/config/
+.gitignore
+GiftCardsPackagistBundle.php
+LICENSE
+README.md
+composer.json

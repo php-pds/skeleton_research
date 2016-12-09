@@ -1,0 +1,4 @@
+.gitignore
+README.md
+S3Extension.php
+composer.json

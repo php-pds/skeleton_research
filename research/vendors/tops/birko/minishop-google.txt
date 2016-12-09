@@ -1,0 +1,5 @@
+Core/GoogleBundle/
+.gitignore
+LICENSE
+README.md
+composer.json

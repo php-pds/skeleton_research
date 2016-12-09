@@ -1,0 +1,13 @@
+controller/
+includes/
+install/
+locales/
+model/
+scripts/update/
+test/
+views/
+.gitignore
+LICENSE
+README.md
+composer.json
+manifest.php

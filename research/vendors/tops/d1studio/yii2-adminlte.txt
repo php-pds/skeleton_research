@@ -1,0 +1,7 @@
+assets/
+demo/views/
+widgets/
+.gitignore
+AdminLteAsset.php
+README.md
+composer.json

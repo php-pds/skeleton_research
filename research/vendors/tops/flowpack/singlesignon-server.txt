@@ -1,0 +1,9 @@
+Classes/Flowpack/SingleSignOn/Server/
+Configuration/
+Documentation/
+Migrations/Mysql/
+Tests/
+.gitignore
+LICENSE
+README.md
+composer.json

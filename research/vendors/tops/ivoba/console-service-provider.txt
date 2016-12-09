@@ -1,0 +1,8 @@
+src/
+tests/integration/
+.gitignore
+.travis.yml
+Changelog.md
+README.md
+composer.json
+phpunit.xml.dist

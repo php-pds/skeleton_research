@@ -1,0 +1,16 @@
+examples/
+src/
+tests/
+.editorconfig
+.gitattributes
+.gitignore
+.scrutinizer.yml
+.stickler.yml
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit-html-coverage.xml
+phpunit.xml.dist

@@ -1,0 +1,7 @@
+backend/
+common/entities/
+migrations/
+LICENSE
+README.md
+StaticPageBehavior.php
+composer.json

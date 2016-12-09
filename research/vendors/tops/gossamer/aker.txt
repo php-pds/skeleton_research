@@ -1,0 +1,5 @@
+src/Gossamer/Aker/
+tests/
+.gitignore
+LICENSE
+composer.json

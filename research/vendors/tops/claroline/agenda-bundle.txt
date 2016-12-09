@@ -1,0 +1,14 @@
+Controller/
+Entity/
+Form/
+Installation/
+Listener/
+Manager/
+Migrations/pdo_mysql/
+Repository/
+Resources/
+Validator/Constraints/
+.gitignore
+ClarolineAgendaBundle.php
+README.md
+composer.json

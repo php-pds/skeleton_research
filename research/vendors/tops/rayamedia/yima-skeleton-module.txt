@@ -1,0 +1,7 @@
+config/
+language/
+src/yimaSkeletonModule/
+view/yima-skeleton-module/index/
+Module.php
+autoload_classmap.php
+composer.json

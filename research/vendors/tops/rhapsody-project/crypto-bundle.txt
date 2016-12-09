@@ -1,0 +1,16 @@
+Context/
+DependencyInjection/
+Hash/
+Mapping/
+Provider/
+Resources/config/
+Setup/Type/
+Test/Hash/
+.travis.yml
+LICENSE
+README.md
+RhapsodyCryptoBundle.php
+build.properties.dev
+build.xml
+composer.json
+phpunit.xml.dist

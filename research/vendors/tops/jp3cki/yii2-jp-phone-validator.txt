@@ -1,0 +1,14 @@
+data/phone/
+messages/ja/
+src/
+test/
+util/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+Makefile
+README.md
+composer.json
+composer.lock
+phpunit.xml

@@ -1,0 +1,6 @@
+DependencyInjection/
+Resources/
+Security/
+KnpOAuthBundle.php
+README.md
+composer.json

@@ -1,0 +1,9 @@
+assets/css/
+views/
+.gitignore
+ActiveAssets.php
+BreadcrumbsPanel.php
+FontAwesomeAsset.php
+LICENSE.md
+README.md
+composer.json

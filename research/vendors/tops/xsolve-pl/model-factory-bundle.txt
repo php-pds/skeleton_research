@@ -1,0 +1,14 @@
+DependencyInjection/
+ModelFactory/
+ModelFactoryCollection/
+Tests/
+standards/
+.gitignore
+.php_cs
+.travis.yml
+LICENSE
+README.md
+XsolveModelFactoryBundle.php
+composer.json
+phpunit.xml.dist
+run-tests.sh

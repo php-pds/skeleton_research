@@ -1,0 +1,4 @@
+CodeSniffer/DameJidloStandard/
+.gitignore
+README.md
+composer.json

@@ -1,0 +1,6 @@
+src/Gigablah/Silex/QrCode/
+.gitattributes
+.gitignore
+LICENSE
+README.md
+composer.json

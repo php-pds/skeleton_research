@@ -1,0 +1,5 @@
+src/Nicokaag/SocialScrapeBundle/
+.gitignore
+LICENSE
+README.md
+composer.json

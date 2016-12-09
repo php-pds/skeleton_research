@@ -1,0 +1,8 @@
+src/Weew/App/SwiftMailer/
+tests/
+.gitignore
+.travis.yml
+composer.json
+licence.md
+phpspec.yml
+readme.md

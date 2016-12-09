@@ -1,0 +1,8 @@
+controllers/
+elementtypes/
+models/
+templates/
+LICENSE
+README.md
+TagManagerPlugin.php
+composer.json

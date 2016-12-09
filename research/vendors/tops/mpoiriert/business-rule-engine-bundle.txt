@@ -1,0 +1,11 @@
+DependencyInjection/
+Resources/config/
+Tests/
+.gitignore
+.travis.yml
+ContainerAwareRuleProvider.php
+LICENSE
+NucleusBusinessRuleEngineBundle.php
+README.md
+composer.json
+phpunit.xml.dist

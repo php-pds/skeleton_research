@@ -1,0 +1,13 @@
+assets/
+inc/
+languages/
+tests/PHPUnit/Informer/
+.gitignore
+CHANGELOG.md
+README.md
+composer.json
+composer.lock
+inform-about-content.php
+license.txt
+phpunit.xml.dist
+readme.txt

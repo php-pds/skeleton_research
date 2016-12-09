@@ -1,0 +1,13 @@
+assets/js/
+config/
+src/View/Helper/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+gulpfile.js
+package.json
+phpunit.xml.dist
+plugin.php

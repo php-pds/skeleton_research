@@ -1,0 +1,12 @@
+Criteria/
+Exception/
+Model/
+Response/
+Tests/
+.gitignore
+.travis.yml
+Client.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

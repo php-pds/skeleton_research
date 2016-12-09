@@ -1,0 +1,11 @@
+translations/
+CHANGELOG.txt
+Readme.md
+blockviewed.css
+blockviewed.php
+blockviewed.tpl
+composer.json
+config.xml
+index.php
+logo.gif
+logo.png

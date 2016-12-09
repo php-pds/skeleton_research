@@ -1,0 +1,6 @@
+Classes/Flowpack/SearchPlugin/
+Configuration/
+Resources/Private/
+LICENSE
+README.md
+composer.json

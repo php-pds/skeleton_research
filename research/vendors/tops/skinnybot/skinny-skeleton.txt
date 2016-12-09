@@ -1,0 +1,12 @@
+.github/
+config/
+plugins/
+src/
+tmp/Modules/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+composer.json
+run.php

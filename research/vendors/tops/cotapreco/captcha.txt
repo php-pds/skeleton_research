@@ -1,0 +1,12 @@
+src/CotaPreco/Captcha/
+tests/CotaPreco/Captcha/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+AUTHORS
+LICENSE
+Makefile
+README.md
+composer.json
+phpmd.xml.dist
+phpunit.xml.dist

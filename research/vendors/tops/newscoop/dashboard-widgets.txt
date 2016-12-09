@@ -1,0 +1,11 @@
+Container/
+Controller/
+Entity/
+Resources/config/
+Routing/
+Widget/
+.gitignore
+LICENSE
+README.md
+Widgets.php
+composer.json

@@ -1,0 +1,3 @@
+README.md
+StreamTarget.php
+composer.json

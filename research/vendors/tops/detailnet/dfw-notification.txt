@@ -1,0 +1,12 @@
+build/
+src/Detail/Notification/
+tests/
+.coveralls.yml
+.gitattributes
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist
+travis.phpunit.xml

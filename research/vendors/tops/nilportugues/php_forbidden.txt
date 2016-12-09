@@ -1,0 +1,12 @@
+bin/
+src/
+tests/
+.gitignore
+.travis.yml
+CONTRIBUTING.md
+LICENSE
+README.md
+composer.json
+php_forbidden_function.yml
+php_forbidden_function.yml.sample
+phpunit.xml.dist

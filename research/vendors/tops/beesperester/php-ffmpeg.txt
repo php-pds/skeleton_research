@@ -1,0 +1,4 @@
+src/Beesperester/FFMpeg/
+.gitignore
+README.md
+composer.json

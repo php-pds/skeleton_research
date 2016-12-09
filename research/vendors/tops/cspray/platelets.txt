@@ -1,0 +1,9 @@
+examples/
+src/Cspray/Platelets/
+test/Cspray/Platelets/Test/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

@@ -1,0 +1,12 @@
+DependencyInjection/
+Entity/
+Form/
+Provider/
+Repository/
+Resources/
+Service/
+Twig/
+.gitignore
+IDCISimpleMediaBundle.php
+README.md
+composer.json

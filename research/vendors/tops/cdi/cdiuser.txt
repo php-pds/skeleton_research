@@ -1,0 +1,9 @@
+config/
+data/
+nbproject/
+src/CdiUser/
+view/cdi-user/user-admin/
+.gitignore
+Module.php
+README.md
+composer.json

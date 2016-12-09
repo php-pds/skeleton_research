@@ -1,0 +1,10 @@
+src/Framework/
+tests/Framework/
+.gitignore
+LICENSE
+README.md
+composer.json
+phpunit.php
+phpunit.xml
+runtest.sh
+watchr.rb

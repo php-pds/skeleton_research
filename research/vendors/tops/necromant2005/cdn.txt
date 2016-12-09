@@ -1,0 +1,12 @@
+bin/
+src/TweeCdn/
+tests/
+tmp/
+.gitignore
+.travis.yml
+README.md
+autoload_classmap.php
+autoload_function.php
+autoload_register.php
+composer.json
+phpunit.xml

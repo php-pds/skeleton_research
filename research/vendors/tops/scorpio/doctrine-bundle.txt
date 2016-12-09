@@ -1,0 +1,16 @@
+Command/
+Controller/
+DataCollector/
+DependencyInjection/
+Mapping/
+Resources/
+Tests/
+.gitignore
+ConnectionFactory.php
+DoctrineBundle.php
+LICENSE
+ManagerConfigurator.php
+README.md
+Registry.php
+composer.json
+phpunit.xml.dist

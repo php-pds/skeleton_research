@@ -1,0 +1,9 @@
+src/
+test/resources/
+.gitignore
+.travis.yml
+README.md
+composer.json
+curl.php
+phpunit.xml
+test.php

@@ -1,0 +1,9 @@
+assets/
+README.md
+Toastr.php
+ToastrAjaxFeed.php
+ToastrAjaxFeedAsset.php
+ToastrAsset.php
+ToastrCustomAsset.php
+ToastrFlash.php
+composer.json

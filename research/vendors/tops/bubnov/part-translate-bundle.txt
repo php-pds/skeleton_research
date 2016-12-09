@@ -1,0 +1,3 @@
+src/PartTranslateBundle/
+README.md
+composer.json

@@ -1,0 +1,5 @@
+src/Splitice/DomainName/
+.gitignore
+LICENSE
+README.md
+composer.json

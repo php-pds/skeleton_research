@@ -1,0 +1,5 @@
+config/
+src/SpeckCatalogCart/
+Module.php
+README.md
+composer.json

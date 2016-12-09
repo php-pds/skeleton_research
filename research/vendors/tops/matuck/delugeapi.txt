@@ -1,0 +1,6 @@
+Client/
+Exception/
+Resources/Docs/
+LICENSE
+README.md
+composer.json

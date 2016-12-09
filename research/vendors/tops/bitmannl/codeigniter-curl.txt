@@ -1,0 +1,6 @@
+config/
+libraries/
+LICENSE
+README.md
+composer.json
+spark.info

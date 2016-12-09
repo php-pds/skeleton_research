@@ -1,0 +1,5 @@
+class/Ethna/SOAP/
+AUTHORS
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,6 @@
+equations/
+fonts/
+CaptchaAction.php
+README.md
+composer.json
+mathpublisher.php

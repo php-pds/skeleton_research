@@ -1,0 +1,10 @@
+config/
+docs/
+resources/views/
+src/
+.editorconfig
+.gitattributes
+.styleci.yml
+LICENSE
+README.md
+composer.json

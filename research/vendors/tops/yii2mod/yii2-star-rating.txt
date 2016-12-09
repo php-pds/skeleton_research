@@ -1,0 +1,5 @@
+LICENSE.md
+README.md
+StarRating.php
+StarRatingAsset.php
+composer.json

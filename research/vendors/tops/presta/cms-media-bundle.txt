@@ -1,0 +1,13 @@
+Admin/
+Block/
+DependencyInjection/
+Doctrine/Orm/
+Model/
+Resources/
+.gitignore
+.travis.yml
+CONTRIBUTING.md
+LICENSE
+PrestaCMSMediaBundle.php
+README.md
+composer.json

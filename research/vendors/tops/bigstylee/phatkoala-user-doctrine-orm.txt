@@ -1,0 +1,5 @@
+config/
+src/PhatKoalaUserDoctrineORM/
+.travis.yml
+README.md
+composer.json

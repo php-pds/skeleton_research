@@ -1,0 +1,8 @@
+bin/
+example/
+src/DbMigrations/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock

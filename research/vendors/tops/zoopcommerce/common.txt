@@ -1,0 +1,6 @@
+lib/Zoop/Common/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json

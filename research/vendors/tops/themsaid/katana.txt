@@ -1,0 +1,10 @@
+content/
+.gitignore
+CHANGELOG.md
+LICENSE.txt
+composer.json
+config.php
+gulpfile.js
+katana
+package.json
+readme.md

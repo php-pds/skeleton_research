@@ -1,0 +1,7 @@
+css/
+js/
+README.md
+bootstrap.php
+composer.json
+functions.php
+voce-media-setting.php

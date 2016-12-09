@@ -1,0 +1,11 @@
+build/
+langs/
+src/Bugotech/
+tests/
+.gitignore
+.styleci.yml
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml

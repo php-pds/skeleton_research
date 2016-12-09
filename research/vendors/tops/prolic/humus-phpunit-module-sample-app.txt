@@ -1,0 +1,11 @@
+config/
+data/cache/
+module/Application/
+public/
+vendor/
+LICENSE.txt
+README.md
+ZF2-LICENSE.txt
+composer.json
+composer.phar
+init_autoloader.php

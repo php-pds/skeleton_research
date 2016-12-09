@@ -1,0 +1,7 @@
+config/
+src/
+webroot/
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

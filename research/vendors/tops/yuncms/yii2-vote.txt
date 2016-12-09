@@ -1,0 +1,16 @@
+actions/
+behaviors/
+components/
+controllers/
+docs/
+messages/
+migrations/
+models/
+widgets/
+.gitignore
+.travis.yml
+LICENSE.md
+Module.php
+README.md
+codeception.yml
+composer.json

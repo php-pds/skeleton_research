@@ -1,0 +1,15 @@
+Activatable/
+Exception/
+Mapping/Annotation/
+Persistence/
+Sluggable/
+Tests/Activatable/ActivatableListener/
+build/
+.coveralls.yml
+.gitignore
+.travis.yml
+LICENSE
+Readme.md
+build.xml
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,8 @@
+src/Joseki/Migration/
+tests/
+.gitattributes
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json

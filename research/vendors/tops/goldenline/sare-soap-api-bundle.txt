@@ -1,0 +1,5 @@
+DependencyInjection/
+Resources/
+GoldenlineSareSoapApiBundle.php
+README.md
+composer.json

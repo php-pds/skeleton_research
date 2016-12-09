@@ -1,0 +1,6 @@
+Examples/
+src/UFOException/
+.gitignore
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,11 @@
+src/LIN3S/CMSKernel/
+tests/Spec/LIN3S/CMSKernel/Domain/Model/Page/
+.editorconfig
+.gitignore
+.php_cs
+.phpspec_cs
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpspec.yml

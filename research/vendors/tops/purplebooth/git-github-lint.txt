@@ -1,0 +1,13 @@
+bin/
+spec/PurpleBooth/GitGitHubLint/
+src/PurpleBooth/GitGitHubLint/
+.editorconfig
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CHANGELOG.md
+CONTRIBUTING.md
+LICENSE.md
+README.md
+code_of_conduct.md
+composer.json

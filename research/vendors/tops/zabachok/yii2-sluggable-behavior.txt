@@ -1,0 +1,3 @@
+README.md
+SluggableBehavior.php
+composer.json

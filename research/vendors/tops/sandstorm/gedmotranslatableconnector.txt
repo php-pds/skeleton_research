@@ -1,0 +1,4 @@
+Classes/Sandstorm/GedmoTranslatableConnector/
+Configuration/
+README.md
+composer.json

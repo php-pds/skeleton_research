@@ -1,0 +1,12 @@
+.idea/
+Controller/
+DependencyInjection/
+Document/
+Entity/
+EventListener/
+Form/Type/
+Resources/
+.gitignore
+IntegratedCommentBundle.php
+LICENSE
+composer.json

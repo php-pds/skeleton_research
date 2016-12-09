@@ -1,0 +1,9 @@
+App/Providers/
+Config/
+Database/
+Domain/Settings/Settings/Repositories/
+Http/
+Resources/
+composer.json
+module.json
+start.php

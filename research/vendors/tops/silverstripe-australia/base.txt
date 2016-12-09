@@ -1,0 +1,10 @@
+assets/
+mysite/
+.gitignore
+LICENSE
+README.md
+build.xml
+composer.json
+favicon.ico
+phpunit.php
+phpunit.xml

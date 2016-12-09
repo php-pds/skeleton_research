@@ -1,0 +1,12 @@
+Controller/
+DependencyInjection/
+Form/Type/
+Plugin/
+Resources/config/
+Tests/Plugin/
+.gitignore
+.travis.yml
+QuartetPaymentWebPayBundle.php
+README.md
+composer.json
+phpunit.xml.dist

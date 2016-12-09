@@ -1,0 +1,7 @@
+extensions/adapter/storage/filesystem/
+storage/
+tests/
+.gitignore
+.travis.yml
+README.md
+composer.json

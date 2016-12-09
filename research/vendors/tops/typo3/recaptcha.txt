@@ -1,0 +1,9 @@
+Classes/TYPO3/Recaptcha/
+Configuration/
+Documentation/
+Meta/
+Resources/
+Tests/
+.gitignore
+README.md
+composer.json

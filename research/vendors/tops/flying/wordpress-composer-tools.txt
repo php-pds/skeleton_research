@@ -1,0 +1,6 @@
+IO/
+templates/
+.gitignore
+README.md
+WordpressComposerToolsPlugin.php
+composer.json

@@ -1,0 +1,6 @@
+Command/
+Controller/
+Module/
+IphpSearchBundle.php
+README.md
+composer.json

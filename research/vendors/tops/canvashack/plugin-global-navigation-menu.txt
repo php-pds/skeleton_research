@@ -1,0 +1,15 @@
+src/
+templates/
+.editorconfig
+.gitignore
+LICENSE.md
+README.md
+canvas-custom-prefs.sql
+click.php
+common.inc.php
+composer.json
+composer.lock
+manifest.xml
+navigation-menu.js
+navigation-menu.php
+phpcs.xml

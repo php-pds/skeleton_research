@@ -1,0 +1,9 @@
+classes/
+config/
+guide/
+tests/
+.gitignore
+.travis.yml
+README.md
+composer.json
+koharness.php

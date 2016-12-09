@@ -1,0 +1,5 @@
+src/Pdo/
+tests/
+.gitignore
+composer.json
+readme.md

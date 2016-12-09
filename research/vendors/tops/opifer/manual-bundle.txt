@@ -1,0 +1,17 @@
+Command/
+Controller/
+DependencyInjection/
+Entity/
+Features/
+Manager/
+Repository/
+Resources/
+Tests/Controller/
+.bowerrc
+.gitignore
+LICENSE
+OpiferManualBundle.php
+README.md
+behat.yml
+bower.json
+composer.json

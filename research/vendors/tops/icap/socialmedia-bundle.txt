@@ -1,0 +1,17 @@
+Controller/
+DependencyInjection/
+Entity/
+Event/Log/
+Installation/
+Library/SocialShare/
+Listener/
+Manager/
+Migrations/
+Repository/
+Resources/
+Twig/
+.gitignore
+IcapSocialmediaBundle.php
+README.md
+VERSION.txt
+composer.json

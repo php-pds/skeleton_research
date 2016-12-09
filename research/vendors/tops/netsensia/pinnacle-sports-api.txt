@@ -1,0 +1,8 @@
+spec/
+src/Netsensia/Pinnacle/Api/Client/
+.gitignore
+README.md
+composer.json
+composer.lock
+composer.phar
+test.php

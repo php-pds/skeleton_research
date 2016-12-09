@@ -1,0 +1,8 @@
+features/
+src/Akamon/Behat/ApiContext/
+.gitignore
+.travis.yml
+composer.json
+composer.lock
+phpunit.xml.dist
+tests.php

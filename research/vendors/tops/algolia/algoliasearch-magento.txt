@@ -1,0 +1,16 @@
+app/
+dev/
+doc/
+js/algoliasearch/
+lib/AlgoliaSearch/
+releases/
+skin/frontend/base/default/algoliasearch/
+.gitignore
+.php_cs
+.styleci.yml
+CHANGELOG.md
+CONTRIBUTING.md
+LICENSE.txt
+README.md
+composer.json
+modman

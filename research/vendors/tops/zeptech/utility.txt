@@ -1,0 +1,9 @@
+src/
+test/
+.gitattributes
+.gitignore
+LICENSE.txt
+README.md
+TODO
+composer.json
+phpdoc.ini

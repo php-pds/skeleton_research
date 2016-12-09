@@ -1,0 +1,7 @@
+library/Service/
+tests/
+.gitignore
+.travis.yml
+README.md
+composer.json
+composer.phar

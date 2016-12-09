@@ -1,0 +1,11 @@
+DependencyInjection/
+Resources/config/
+Service/
+Tests/
+.gitignore
+.travis.yml
+ErivelloGithubApiBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

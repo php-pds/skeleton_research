@@ -1,0 +1,6 @@
+lib/Magento/
+tests/
+LICENSE
+composer.json
+readme.MD
+register.php

@@ -1,0 +1,6 @@
+config/
+src/ProxyManagerModule/
+.gitignore
+Module.php
+README.md
+composer.json

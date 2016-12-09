@@ -1,0 +1,7 @@
+config/
+src/AtWeather/
+.gitignore
+Module.php
+README.md
+autoload_classmap.php
+composer.json

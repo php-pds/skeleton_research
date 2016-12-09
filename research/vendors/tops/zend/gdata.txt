@@ -1,0 +1,10 @@
+demos/Zend/Gdata/
+documentation/
+library/Zend/
+tests/
+.gitignore
+INSTALL.txt
+LICENSE.txt
+README.txt
+composer.json
+composer.lock

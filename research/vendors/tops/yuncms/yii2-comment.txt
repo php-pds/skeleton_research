@@ -1,0 +1,12 @@
+assets/js/
+controllers/
+messages/
+migrations/
+models/
+views/default/
+widgets/
+.gitignore
+CHANGELOG.md
+Module.php
+README.md
+composer.json

@@ -1,0 +1,8 @@
+config/
+src/Schmiddim/MvcAuth/
+.gitignore
+Module.php
+README.md
+api-key.local.php.dist
+composer.json
+composer.lock

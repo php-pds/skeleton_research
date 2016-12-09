@@ -1,0 +1,6 @@
+Http/
+Session/
+LICENSE
+README.md
+Session.php
+composer.json

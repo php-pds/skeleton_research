@@ -1,0 +1,7 @@
+config/
+src/
+tests/
+view/error/
+Module.php
+TODO.md
+composer.json

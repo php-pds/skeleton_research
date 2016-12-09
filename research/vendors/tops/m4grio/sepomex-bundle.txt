@@ -1,0 +1,10 @@
+Controller/
+DependencyInjection/
+DoctrineMigrations/
+Entity/
+Resources/config/
+.gitignore
+LICENSE
+README.md
+composer.json
+m4grioSepomexBundle.php

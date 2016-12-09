@@ -1,0 +1,3 @@
+src/Solarium/QueryType/StatsJsp/
+README.md
+composer.json

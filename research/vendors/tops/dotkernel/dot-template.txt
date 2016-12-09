@@ -1,0 +1,7 @@
+example/
+src/
+templates/
+tests/
+README.md
+composer.json
+license.md

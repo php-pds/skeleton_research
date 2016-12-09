@@ -1,0 +1,11 @@
+.gitignore
+.scrutinizer.yml
+.travis.yml
+BreadcrumbItem.php
+BreadcrumbItemCollection.php
+BreadcrumbItemCollectionInterface.php
+BreadcrumbItemInterface.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

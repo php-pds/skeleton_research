@@ -1,0 +1,6 @@
+lib/ResqueLog/
+tests/
+.gitignore
+Makefile
+README.md
+composer.json

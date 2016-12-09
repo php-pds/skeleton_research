@@ -1,0 +1,5 @@
+publishes/
+src/
+LICENSE
+README.md
+composer.json

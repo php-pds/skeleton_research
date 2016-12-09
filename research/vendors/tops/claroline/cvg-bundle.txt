@@ -1,0 +1,3 @@
+Resources/
+ClarolineCvgBundle.php
+composer.json

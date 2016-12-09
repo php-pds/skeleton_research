@@ -1,0 +1,7 @@
+examples/
+src/ConsistentHash/
+tests/
+.gitignore
+README.md
+composer.json
+phpunit.xml.dist

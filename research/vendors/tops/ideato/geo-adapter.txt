@@ -1,0 +1,8 @@
+example/
+lib/Geo/
+test/
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

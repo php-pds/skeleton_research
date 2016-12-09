@@ -1,0 +1,16 @@
+Command/
+DependencyInjection/
+Entity/
+EventListener/
+Exception/
+Form/Type/
+Model/
+Resources/config/
+Services/
+Storage/
+.gitignore
+.styleci.yml
+FLGmailDoctrineBundle.php
+LICENSE
+README.md
+composer.json

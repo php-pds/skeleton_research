@@ -1,0 +1,5 @@
+contracts/
+Listener.php
+PatternEventsProvider.php
+PrefixMethodFinder.php
+composer.json

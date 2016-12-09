@@ -1,0 +1,11 @@
+components/
+controllers/
+data/
+entities/
+migrations/
+providers/
+views/default/
+EmailTemplates.php
+LICENSE
+README.md
+composer.json

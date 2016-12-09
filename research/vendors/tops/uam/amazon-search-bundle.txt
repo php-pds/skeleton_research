@@ -1,0 +1,9 @@
+Command/
+Controller/
+Form/Type/
+Resources/
+.gitignore
+LICENSE
+README.md
+UAMAmazonSearchBundle.php
+composer.json

@@ -1,0 +1,10 @@
+provider/
+CHANGELOG.md
+LICENSE
+README.md
+USAGE.md
+composer.json
+example-google.php
+example-google_apps.php
+example.php
+openid.php

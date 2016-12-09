@@ -1,0 +1,14 @@
+config/
+src/Console/
+tests/
+.editorconfig
+.gitattributes
+.gitignore
+.semver
+.travis.yml
+LICENSE
+README.md
+VERSION
+composer.json
+phpcs.xml
+phpunit.xml.dist

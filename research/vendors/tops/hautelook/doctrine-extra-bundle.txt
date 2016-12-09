@@ -1,0 +1,11 @@
+DependencyInjection/
+ORM/
+Resources/fixtures/Entity/
+Tests/
+.gitignore
+.travis.yml
+HautelookDoctrineExtraBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

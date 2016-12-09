@@ -1,0 +1,11 @@
+ext/
+ouchbase/
+test/
+.gitignore
+LICENSE
+README.md
+build.sh
+composer.json
+config.json
+install.sh
+stub.php

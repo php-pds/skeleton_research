@@ -1,0 +1,8 @@
+app/
+config/
+database/migrations/
+resources/
+LICENCSE
+README.md
+composer.json
+phpunit.xml

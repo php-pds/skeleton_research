@@ -1,0 +1,7 @@
+LibTest/
+.gitignore
+Bootstrap.php
+DBTestcase.php
+composer.json
+phpunit.xml.dist
+run-tests.php

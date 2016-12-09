@@ -1,0 +1,10 @@
+src/
+test/
+.gitignore
+.hhconfig
+.travis.yml
+FastRoute.hhi
+LICENSE
+README.md
+composer.json
+phpunit.xml

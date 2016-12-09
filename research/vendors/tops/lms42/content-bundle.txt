@@ -1,0 +1,12 @@
+Controller/
+DependencyInjection/
+Form/Type/
+Listener/
+Manager/
+Model/
+Resources/
+Tests/Controller/
+.gitignore
+README.md
+SmirikContentBundle.php
+composer.json

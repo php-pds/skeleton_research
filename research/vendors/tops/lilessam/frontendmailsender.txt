@@ -1,0 +1,8 @@
+controllers/
+lang/
+updates/
+LICENCE.md
+LICENSE
+Plugin.php
+README.md
+composer.json

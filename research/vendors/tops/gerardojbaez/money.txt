@@ -1,0 +1,11 @@
+src/
+tests/
+.editorconfig
+.gitattributes
+.gitignore
+CHANGELOG.md
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml

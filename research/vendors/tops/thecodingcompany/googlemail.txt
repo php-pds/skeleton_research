@@ -1,0 +1,3 @@
+TheCodingCompany/
+README.md
+composer.json

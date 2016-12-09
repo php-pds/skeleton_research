@@ -1,0 +1,11 @@
+tests/
+.gitignore
+.travis.yml
+README.md
+Utils.php
+Version.php
+VersionCollection.php
+VersionProvider.php
+composer.json
+phpunit.xml
+phpunit.xml.dist

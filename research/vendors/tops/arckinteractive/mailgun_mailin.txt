@@ -1,0 +1,14 @@
+classes/Mailgun/
+languages/
+views/default/
+.gitattributes
+.gitignore
+CHANGELOG.md
+Gruntfile.js
+README.md
+autoloader.php
+composer.json
+composer.lock
+manifest.xml
+package.json
+start.php

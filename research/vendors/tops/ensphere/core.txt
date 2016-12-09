@@ -1,0 +1,7 @@
+Ensphere/
+LICENSE
+README.md
+composer.json
+ensphere.assets.json
+ensphere.external.assets.json
+ensphere.registration.json

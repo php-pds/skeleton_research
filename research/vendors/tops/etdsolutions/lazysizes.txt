@@ -1,0 +1,8 @@
+plugins/
+LICENSE
+README.md
+composer.json
+lazysizes-umd.js
+lazysizes-umd.min.js
+lazysizes.js
+lazysizes.min.js

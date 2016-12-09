@@ -1,0 +1,6 @@
+assets/js/dojoGrid/widget/
+config/
+src/DojoGrid/View/
+Module.php
+README.md
+composer.json

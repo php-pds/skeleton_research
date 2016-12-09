@@ -1,0 +1,17 @@
+Controller/
+DataFixtures/ORM/
+DependencyInjection/
+Doctrine/ORM/
+Event/
+EventListener/
+Form/
+Model/
+Resources/
+Tests/
+Twig/Extension/
+.gitignore
+README.md
+UserEvents.php
+XideaUserBundle.php
+composer.json
+phpunit.xml.dist

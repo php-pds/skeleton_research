@@ -1,0 +1,6 @@
+data/
+.gitignore
+.travis.yml
+CONTRIBUTING.md
+LICENSE
+composer.json

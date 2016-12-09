@@ -1,0 +1,15 @@
+bin/
+library/Zend/
+puppet/
+resources/languages/
+.gitattributes
+.gitignore
+.travis.yml
+CONTRIBUTING.md
+DEVELOPMENT_README.md
+INSTALL.md
+LICENSE.txt
+README-GIT.md
+README.md
+Vagrantfile
+composer.json

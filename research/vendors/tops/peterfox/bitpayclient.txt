@@ -1,0 +1,9 @@
+src/BitPay/Client/
+tests/
+.gitignore
+LICENSE
+NOTICE
+README.md
+composer.json
+phpdoc.dist.xml
+phpunit.xml

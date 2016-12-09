@@ -1,0 +1,5 @@
+src/
+templates/
+composer.json
+inline_entity.info.yml
+inline_entity.module

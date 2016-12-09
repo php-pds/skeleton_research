@@ -1,0 +1,6 @@
+config/
+manual/
+src/
+README.md
+composer.json
+ride.json

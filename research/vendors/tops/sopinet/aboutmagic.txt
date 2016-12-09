@@ -1,0 +1,3 @@
+lib/Sopinet/Aboutmagic/
+README.md
+composer.json

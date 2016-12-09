@@ -1,0 +1,10 @@
+build/phpcs/
+library/g11n/
+tests/
+.gitignore
+.gitmodules
+.travis.yml
+composer.json
+composer.lock
+phpunit.xml
+readme.md

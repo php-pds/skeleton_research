@@ -1,0 +1,5 @@
+contao/
+src/ContaoFavoriten/
+.gitignore
+README.md
+composer.json

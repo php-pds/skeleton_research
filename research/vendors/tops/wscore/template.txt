@@ -1,0 +1,6 @@
+scripts/
+src/WScore/Template/
+tests/Template/
+.gitignore
+README.md
+composer.json

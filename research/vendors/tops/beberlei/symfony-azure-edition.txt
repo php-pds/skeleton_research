@@ -1,0 +1,13 @@
+app/
+src/
+web/
+.deployment
+.gitignore
+.user.ini
+LICENSE
+README.md
+build_azure.sh
+composer.json
+composer.lock
+composer.phar
+web.config

@@ -1,0 +1,16 @@
+cache/
+classes/
+components/
+config/
+lang/
+logs/
+tests/
+views/welcome/
+.gitignore
+.travis.yml
+README.md
+bootstrap.php
+changelog.md
+composer.json
+phpunit.php
+phpunit.xml

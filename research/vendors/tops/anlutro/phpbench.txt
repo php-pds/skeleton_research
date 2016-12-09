@@ -1,0 +1,10 @@
+bench/
+bin/
+src/
+tests/
+.gitignore
+.travis.yml
+CONTRIBUTING.md
+README.md
+composer.json
+phpunit.xml

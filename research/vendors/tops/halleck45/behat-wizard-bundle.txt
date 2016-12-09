@@ -1,0 +1,10 @@
+Controller/
+DependencyInjection/
+Form/Type/
+Resources/
+Specifications/product/
+.gitignore
+.travis.yml
+HalBehatWizardBundle.php
+README.md
+composer.json

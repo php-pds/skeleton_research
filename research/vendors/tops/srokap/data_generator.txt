@@ -1,0 +1,11 @@
+actions/data_generator/
+classes/
+languages/
+vendors/fzaninotto/faker/
+views/default/
+LICENSE.txt
+README.md
+cli_run.php
+composer.json
+manifest.xml
+start.php

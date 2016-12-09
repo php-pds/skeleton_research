@@ -1,0 +1,10 @@
+DependencyInjection/
+Form/Type/
+Model/
+Twig/
+spec/NIM/Component/Twig/
+.gitignore
+Bundle.php
+CHANGELOG.md
+README.md
+composer.json

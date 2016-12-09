@@ -1,0 +1,15 @@
+Converter/
+DependencyInjection/
+Form/
+Resources/
+Tests/
+Twig/
+.coveralls.yml
+.gitignore
+.php_cs
+.travis.yml
+DevmachineFormBundle.php
+FormatConfiguration.php
+README.md
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,6 @@
+src/Document/
+tests/
+.gitignore
+LICENSE
+composer.json
+composer.lock

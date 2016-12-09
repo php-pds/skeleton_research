@@ -1,0 +1,11 @@
+components/
+controllers/
+messages/ru/
+migrations/
+models/
+views/
+PmModule.php
+changelog.txt
+composer.json
+install.sql
+readme_ru.md

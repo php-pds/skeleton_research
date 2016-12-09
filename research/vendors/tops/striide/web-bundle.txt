@@ -1,0 +1,8 @@
+Controller/
+DependencyInjection/
+Extension/
+Resources/
+Tests/Controller/
+README.md
+StriideWebBundle.php
+composer.json

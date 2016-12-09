@@ -1,0 +1,5 @@
+assets/
+widgets/
+LICENSE
+composer.json
+readme.md

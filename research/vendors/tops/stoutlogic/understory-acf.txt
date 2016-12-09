@@ -1,0 +1,10 @@
+lib/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json
+gulpfile.js
+ideas.php
+package.json
+phpunit.xml

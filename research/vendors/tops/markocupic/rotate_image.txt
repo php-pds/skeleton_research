@@ -1,0 +1,8 @@
+assets/
+classes/
+config/
+dca/
+languages/
+.gitattributes
+.gitignore
+composer.json

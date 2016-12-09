@@ -1,0 +1,13 @@
+Annotation/
+Api/
+Contributions/
+Controller/
+DependencyInjection/
+Resources/
+Router/
+Tests/
+.gitignore
+.styleci.yml
+ModeraDirectBundle.php
+README.md
+composer.json

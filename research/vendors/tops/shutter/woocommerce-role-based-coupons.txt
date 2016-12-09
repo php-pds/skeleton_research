@@ -1,0 +1,6 @@
+woo-includes/
+.gitignore
+changelog.txt
+composer.json
+readme.txt
+woocommerce-role-based-coupons.php

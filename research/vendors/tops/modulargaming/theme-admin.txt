@@ -1,0 +1,6 @@
+assets/
+config/
+templates/admin/
+LICENSE.md
+README.md
+composer.json

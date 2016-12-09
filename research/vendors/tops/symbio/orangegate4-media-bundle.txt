@@ -1,0 +1,15 @@
+Admin/
+Controller/
+DependencyInjection/
+Entity/
+Form/Type/
+Listener/
+Provider/
+Resizer/
+Resources/
+Thumbnail/
+Twig/
+Uploader/ErrorHandler/
+.gitignore
+SymbioOrangeGateMediaBundle.php
+composer.json

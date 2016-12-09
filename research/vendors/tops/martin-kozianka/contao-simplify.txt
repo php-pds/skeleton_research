@@ -1,0 +1,5 @@
+contao/
+src/ContaoSimplify/
+.gitignore
+README.md
+composer.json

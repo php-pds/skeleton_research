@@ -1,0 +1,8 @@
+Model/
+Test/Case/
+docs/
+samples/
+.gitignore
+.travis.yml
+README.markdown
+composer.json

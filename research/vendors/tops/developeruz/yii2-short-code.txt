@@ -1,0 +1,5 @@
+Highlightjs.php
+HighlightjsAsset.php
+LICENSE
+README.md
+composer.json

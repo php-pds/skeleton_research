@@ -1,0 +1,17 @@
+Admin/
+DependencyInjection/
+Doctrine/Phpcr/
+Initializer/
+Migrator/Phpcr/
+Resources/
+Tests/
+.gitignore
+.styleci.yml
+.travis.yml
+CHANGELOG.md
+CONTRIBUTING.md
+CmfSimpleCmsBundle.php
+README.md
+UPGRADE-1.1.md
+composer.json
+phpunit.xml.dist

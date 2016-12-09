@@ -1,0 +1,6 @@
+src/
+.DS_Store
+.gitignore
+License
+composer.json
+readme.md

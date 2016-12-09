@@ -1,0 +1,10 @@
+docs/classes/Dotink/Jin/
+examples/
+src/
+test/
+.editorconfig
+.gitignore
+README.md
+composer.json
+lab.config
+sage.config

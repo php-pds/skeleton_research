@@ -1,0 +1,13 @@
+models/
+tests/
+.gitignore
+.travis.yml
+CoreAsset.php
+LICENSE
+MomentAsset.php
+PrintAsset.php
+README.md
+ThemeAsset.php
+codeception.yml
+composer.json
+yii2fullcalendar.php

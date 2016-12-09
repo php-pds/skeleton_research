@@ -1,0 +1,16 @@
+Behat/
+Mime/
+Tests/
+i18n/
+.gitignore
+.travis.yml
+Attachment.php
+CHANGELOG.md
+CONTRIBUTORS.md
+Client.php
+LICENSE
+Message.php
+Person.php
+README.md
+composer.json
+phpunit.xml.dist

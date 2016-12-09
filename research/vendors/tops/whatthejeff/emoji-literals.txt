@@ -1,0 +1,7 @@
+.gitignore
+LICENSE
+README.md
+composer.json
+emojis.php
+emojis.png
+example.php

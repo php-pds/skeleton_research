@@ -1,0 +1,10 @@
+DataFixtures/ORM/
+Registry/
+Resources/
+.gitignore
+.travis.yml
+AbstractFixture.php
+SWPFixturesBundle.php
+WebTestCase.php
+composer.json
+phpunit.xml.dist

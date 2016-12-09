@@ -1,0 +1,12 @@
+build/
+config/
+helpers/Gwp/
+nbproject/
+vendor/
+web/
+.env.local
+.gitignore
+README.md
+build.xml
+composer.json
+composer.lock

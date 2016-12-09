@@ -1,0 +1,6 @@
+b8/
+tests/
+.gitignore
+README.md
+composer.json
+phpci.yml

@@ -1,0 +1,8 @@
+src/Mufuphlex/Textonic/Tokenizer/
+tests/Tokenizer/
+.gitignore
+.travis.yml
+LICENSE
+composer.json
+composer.lock
+phpunit.xml.dist

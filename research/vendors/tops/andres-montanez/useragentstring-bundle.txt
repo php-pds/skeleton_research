@@ -1,0 +1,9 @@
+CacheWarmer/
+DependencyInjection/
+Entity/
+Resources/
+Service/
+.gitignore
+AndresMontanezUserAgentStringBundle.php
+README.md
+composer.json

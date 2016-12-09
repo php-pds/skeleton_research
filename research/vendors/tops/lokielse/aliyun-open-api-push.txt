@@ -1,0 +1,9 @@
+src/Request/
+tests/
+.editorconfig
+CHANGELOG.md
+CONDUCT.md
+CONTRIBUTING.md
+LICENSE.md
+README.md
+composer.json

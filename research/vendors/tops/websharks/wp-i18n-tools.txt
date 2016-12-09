@@ -1,0 +1,17 @@
+extract/
+pomo/
+t/
+.gitattributes
+.gitignore
+CHANGELOG.md
+README.md
+add-textdomain.php
+build.xml
+composer.json
+cron-svn-pots.php
+importers-i18n.php
+makepot.php
+not-gettexted.php
+phar-stub.php
+pot-ext-meta.php
+setup_locale

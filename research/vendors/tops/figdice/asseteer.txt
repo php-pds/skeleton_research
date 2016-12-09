@@ -1,0 +1,4 @@
+AssetInstaller.php
+LICENSE
+README.md
+composer.json

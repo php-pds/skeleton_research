@@ -1,0 +1,9 @@
+examples/
+src/Level3/Resource/
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+README.md
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,13 @@
+Bridge/
+Storage/
+Tests/
+CHANGELOG.md
+Cache.php
+CacheException.php
+CacheStorage.php
+CacheTrait.php
+ExampleConfig.yaml
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,9 @@
+SoapClient/
+samples/
+src/
+.gitignore
+CHANGELOG.md
+README.md
+composer.json
+generate.sh
+tutorial.php

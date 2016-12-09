@@ -1,0 +1,11 @@
+conf/
+public/
+src/Qubes/Defero/
+.gitignore
+LICENSE
+README.md
+composer.json
+cubex
+phpcs.xml
+phpmd.xml
+phpunit.xml.dist

@@ -1,0 +1,13 @@
+data/
+examples/
+features/
+src/Sastrawi/SentenceDetector/
+tests/
+.gitignore
+.travis.yml
+CONTRIBUTING.md
+LICENSE
+README.md
+build.xml
+composer.json
+phpunit.xml.dist

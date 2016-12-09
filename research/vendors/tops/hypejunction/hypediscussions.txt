@@ -1,0 +1,17 @@
+actions/discussion/
+classes/hypeJunction/
+languages/
+views/default/
+.gitattributes
+.gitignore
+CHANGELOG.md
+Gruntfile.js
+README.md
+activate.php
+autoloader.php
+composer.json
+deactivate.php
+manifest.xml
+package.json
+release.md
+start.php

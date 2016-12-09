@@ -1,0 +1,6 @@
+lib/
+test/Unit/
+.gitignore
+README.md
+composer.json
+phpunit.xml.dist

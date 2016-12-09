@@ -1,0 +1,10 @@
+classes/
+doc/
+scripts/
+tests/
+.gitignore
+.gitmodules
+LICENCE
+README.md
+composer.json
+pheanstalk_init.php

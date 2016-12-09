@@ -1,0 +1,10 @@
+Model/
+.gitignore
+CodeGenerator.php
+Connection.php
+Exception.php
+Mapper.php
+Model.php
+Query.php
+Store.php
+composer.json

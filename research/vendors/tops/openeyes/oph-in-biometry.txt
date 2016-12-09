@@ -1,0 +1,16 @@
+Service/
+assets/
+components/fhir_schema/
+config/
+controllers/
+grunt/
+migrations/
+models/
+tests/js/
+views/
+.gitignore
+Gruntfile.js
+OphInBiometryModule.php
+README.md
+composer.json
+package.json

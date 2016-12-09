@@ -1,0 +1,4 @@
+src/Mannysoft/Smart/
+test/
+README.md
+composer.json

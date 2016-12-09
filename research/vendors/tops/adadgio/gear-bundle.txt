@@ -1,0 +1,12 @@
+Command/
+Component/
+Controller/
+DependencyInjection/
+Exception/
+NodeRed/
+Resources/
+Tests/
+.gitignore
+AdadgioGearBundle.php
+README.md
+composer.json

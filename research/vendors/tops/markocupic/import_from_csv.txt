@@ -1,0 +1,11 @@
+assets/
+classes/
+config/
+csv/
+dca/
+languages/
+models/
+.gitattributes
+.gitignore
+README.md
+composer.json

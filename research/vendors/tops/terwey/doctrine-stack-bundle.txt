@@ -1,0 +1,5 @@
+DBAL/Logging/
+Resources/views/Collector/
+DoctrineStackBundle.php
+README.md
+composer.json

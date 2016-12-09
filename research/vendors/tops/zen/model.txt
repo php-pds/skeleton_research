@@ -1,0 +1,5 @@
+bin/
+lib/
+share/
+.gitignore
+composer.json

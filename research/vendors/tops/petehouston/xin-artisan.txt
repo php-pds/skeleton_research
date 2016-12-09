@@ -1,0 +1,12 @@
+config/
+src/
+.editorconfig
+.gitignore
+.styleci.yml
+CONDUCT.md
+LICENSE.md
+README.md
+composer.json
+composer.lock
+xin-logo.png
+xin-logo.svg

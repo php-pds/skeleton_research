@@ -1,0 +1,12 @@
+ckeditor/
+components/admin/
+css/
+ico/
+img/
+js/
+sass/
+stylesheets/
+templates/
+admin.ext.php
+composer.json
+config.rb

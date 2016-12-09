@@ -1,0 +1,7 @@
+config/
+scripts/
+src/Icekson/
+tests/
+.gitignore
+README.md
+composer.json

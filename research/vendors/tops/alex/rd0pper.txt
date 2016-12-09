@@ -1,0 +1,14 @@
+demo/
+src/
+.gitignore
+Gruntfile.js
+README.md
+bower.json
+composer.json
+dropper.jquery.json
+jquery.fs.dropper.css
+jquery.fs.dropper.js
+jquery.fs.dropper.min.css
+jquery.fs.dropper.min.js
+package.json
+rdropper.jquery.json

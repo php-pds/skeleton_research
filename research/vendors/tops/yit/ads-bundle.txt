@@ -1,0 +1,10 @@
+Admin/
+Controller/
+DependencyInjection/
+Entity/
+Resources/
+Tests/Controller/
+Twig/Extension/
+.gitignore
+YitAdsBundle.php
+composer.json

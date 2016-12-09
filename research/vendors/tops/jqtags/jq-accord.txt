@@ -1,0 +1,11 @@
+demo/
+API.md
+INSTALL.md
+README.md
+bower.json
+composer.json
+jqtags.accord.css
+jqtags.accord.js
+jqtags.accord.scss
+module.json
+module.properties

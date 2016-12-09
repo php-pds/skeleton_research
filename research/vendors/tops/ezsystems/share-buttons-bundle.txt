@@ -1,0 +1,10 @@
+DependencyInjection/
+Resources/
+SocialShare/
+Twig/Extension/
+.gitignore
+.php_cs
+EzSystemsShareButtonsBundle.php
+LICENSE
+README.md
+composer.json

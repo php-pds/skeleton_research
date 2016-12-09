@@ -1,0 +1,8 @@
+Classes/TYPO3/ExtJS/
+Configuration/
+Documentation/Manual/DocBook/en/
+Meta/
+Resources/
+Tests/Unit/ExtDirect/
+README.md
+composer.json

@@ -1,0 +1,8 @@
+DependencyInjection/
+Resources/config/
+Service/
+.gitignore
+LICENSE
+README.md
+ScorpioSphinxSearchBundle.php
+composer.json

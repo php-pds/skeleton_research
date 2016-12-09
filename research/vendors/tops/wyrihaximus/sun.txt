@@ -1,0 +1,16 @@
+src/
+tests/
+.editorconfig
+.gitattributes
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CONTRIBUTING.md
+LICENSE
+Makefile
+README.md
+appveyor.yml
+composer.json
+composer.lock
+phpbench.json
+phpunit.xml.dist

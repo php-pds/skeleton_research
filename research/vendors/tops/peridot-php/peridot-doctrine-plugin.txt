@@ -1,0 +1,9 @@
+specs/
+src/
+.gitignore
+.travis.yml
+LICENSE.md
+README.md
+composer.json
+composer.lock
+peridot.php

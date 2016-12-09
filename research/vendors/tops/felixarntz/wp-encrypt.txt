@@ -1,0 +1,14 @@
+assets-wp-repo/
+inc/WPENC/
+.codeclimate.yml
+.editorconfig
+.gitignore
+README.md
+changelog.txt
+composer.json
+deploy.sh
+gulpfile.js
+license.txt
+package.json
+readme.txt
+wp-encrypt.php

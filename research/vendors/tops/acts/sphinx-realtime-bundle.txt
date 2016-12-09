@@ -1,0 +1,17 @@
+Command/
+DependencyInjection/
+Doctrine/
+Finder/
+Manager/
+Paginator/
+Persister/
+Provider/
+Resources/config/
+Service/
+Tests/
+Transformer/
+.gitignore
+ActsSphinxRealTimeBundle.php
+README.md
+Resetter.php
+composer.json

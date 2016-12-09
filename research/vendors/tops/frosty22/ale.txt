@@ -1,0 +1,4 @@
+src/Ale/
+tests/
+README.md
+composer.json

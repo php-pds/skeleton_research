@@ -1,0 +1,8 @@
+src/Hasantayyar/Synonyms/
+.gitattributes
+.gitignore
+LICENSE
+LICENSE_tr
+README.md
+composer.json
+example.php

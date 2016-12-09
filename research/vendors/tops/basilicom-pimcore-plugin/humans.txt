@@ -1,0 +1,6 @@
+lib/Humans/
+static/img/
+LICENSE.txt
+README.md
+composer.json
+plugin.xml

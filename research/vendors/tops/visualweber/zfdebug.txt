@@ -1,0 +1,4 @@
+src/ZFDebug/Controller/Plugin/
+.gitignore
+README.md
+composer.json

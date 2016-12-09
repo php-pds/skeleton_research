@@ -1,0 +1,7 @@
+Command/
+DependencyInjection/
+Menu/
+Resources/
+README.md
+XsolveBootstrapCrudBundle.php
+composer.json

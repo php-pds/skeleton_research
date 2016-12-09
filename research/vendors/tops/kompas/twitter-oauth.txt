@@ -1,0 +1,7 @@
+examples/
+src/TwitterOAuth/
+.DS_Store
+DOCUMENTATION
+LICENSE
+README
+composer.json

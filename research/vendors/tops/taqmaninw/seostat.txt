@@ -1,0 +1,7 @@
+src/Taqmaninw/Seostat/
+tests/
+.gitignore
+.travis.yml
+README.md
+composer.json
+phpunit.xml

@@ -1,0 +1,6 @@
+src/TestsAlwaysIncluded/LoggingSoapClient/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock

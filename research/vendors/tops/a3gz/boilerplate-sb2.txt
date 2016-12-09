@@ -1,0 +1,9 @@
+Dependencies/
+Modules/
+Templates/Default/
+public_html/boilerplate-sb2/
+.gitattributes
+.gitignore
+README.md
+composer.json
+container.config.php

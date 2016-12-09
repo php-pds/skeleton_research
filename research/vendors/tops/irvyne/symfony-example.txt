@@ -1,0 +1,17 @@
+app/
+bin/
+src/AppBundle/
+tests/AppBundle/Controller/
+var/
+web/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+bower.json
+brunch-config.coffee
+composer.json
+composer.lock
+package.json
+phpunit.xml.dist

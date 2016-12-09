@@ -1,0 +1,8 @@
+resources/
+src/
+.gitignore
+.travis.yml
+composer.json
+composer.lock
+license.txt
+readme.md

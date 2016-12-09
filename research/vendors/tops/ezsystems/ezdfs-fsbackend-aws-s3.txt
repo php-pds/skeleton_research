@@ -1,0 +1,7 @@
+classes/dfs/
+settings/
+tests/
+LICENSE
+README.md
+composer.json
+extension.xml

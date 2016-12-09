@@ -1,0 +1,6 @@
+DependencyInjection/
+OAuth/
+Resources/config/
+README.md
+RicbraDiscogsBundle.php
+composer.json

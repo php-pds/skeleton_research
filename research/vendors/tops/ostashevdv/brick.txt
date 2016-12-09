@@ -1,0 +1,10 @@
+app/
+docs/
+extensions/
+runtime/
+web/
+.gitignore
+composer.json
+composer.lock
+yii
+yii.bat

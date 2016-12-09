@@ -1,0 +1,10 @@
+Command/
+DependencyInjection/
+Formatter/
+Resources/
+.gitignore
+LICENSE
+README.md
+WizadDoctrineDocBundle.php
+composer.json
+phpunit.xml.dist

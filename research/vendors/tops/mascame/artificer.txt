@@ -1,0 +1,13 @@
+config/
+migrations/
+resources/
+routes/
+src/
+tests/
+.directory
+.gitignore
+.travis.yml
+composer.json
+contributing.md
+phpunit.xml
+readme.md

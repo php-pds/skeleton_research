@@ -1,0 +1,7 @@
+DataFixtures/ORM/
+DependencyInjection/
+Resources/config/
+Tests/Controller/
+README.md
+TecnocreacionesVzlaFixturesBundle.php
+composer.json

@@ -1,0 +1,9 @@
+build/scripts/
+src/Modulework/Modules/Http/
+tests/Modulework/Modules/Http/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml

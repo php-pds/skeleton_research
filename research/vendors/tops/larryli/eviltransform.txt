@@ -1,0 +1,6 @@
+tests/
+.gitignore
+EvilTransform.php
+README.md
+composer.json
+package.json

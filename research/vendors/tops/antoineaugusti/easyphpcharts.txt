@@ -1,0 +1,6 @@
+examples/
+src/Antoineaugusti/EasyPHPCharts/
+.gitignore
+LICENSE.md
+README.md
+composer.json

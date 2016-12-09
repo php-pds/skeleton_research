@@ -1,0 +1,6 @@
+DependencyInjection/
+Listener/
+Resources/config/
+EmarrefXdebugBundle.php
+README.md
+composer.json

@@ -1,0 +1,10 @@
+app/views/
+src/Bolt/Core/
+tests/
+.gitignore
+README.md
+composer.json
+composer.lock
+index.php
+phpci.yml
+phpunit.xml.dist

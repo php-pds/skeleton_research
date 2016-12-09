@@ -1,0 +1,8 @@
+src/Yandex/Allure/Adapter/
+test/Yandex/Allure/Adapter/
+.gitignore
+LICENSE
+README.md
+composer.json
+phpunit.php
+phpunit.xml

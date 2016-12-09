@@ -1,0 +1,8 @@
+Controllers/
+Resources/config/
+Views/
+.gitignore
+FrontBundle.php
+LICENSE.md
+README.md
+composer.json

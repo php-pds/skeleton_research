@@ -1,0 +1,6 @@
+config/
+src/ContactConfirmation/
+.gitignore
+Module.php
+README.md
+composer.json

@@ -1,0 +1,16 @@
+build/
+config/
+docs/images/
+metadata/
+src/
+templates/
+tests/
+translations/city/
+www/
+.editorconfig
+.gitignore
+.travis.yml
+README.md
+apigen.neon
+composer.json
+phpcs.xml

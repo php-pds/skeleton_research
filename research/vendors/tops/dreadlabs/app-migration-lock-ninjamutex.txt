@@ -1,0 +1,12 @@
+src/
+tests/Unit/
+.codeclimate.yml
+.coveralls.yml
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE.txt
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

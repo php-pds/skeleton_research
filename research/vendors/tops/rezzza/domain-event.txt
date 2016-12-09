@@ -1,0 +1,10 @@
+examples/
+spec/Domain/
+src/
+tests/Fixtures/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpspec.yml

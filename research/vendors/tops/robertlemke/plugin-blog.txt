@@ -1,0 +1,6 @@
+Classes/RobertLemke/Plugin/Blog/
+Configuration/
+Resources/
+LICENSE
+README.md
+composer.json

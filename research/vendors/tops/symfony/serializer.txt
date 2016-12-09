@@ -1,0 +1,17 @@
+Annotation/
+Encoder/
+Exception/
+Mapping/
+NameConverter/
+Normalizer/
+Tests/
+.gitignore
+CHANGELOG.md
+LICENSE
+README.md
+Serializer.php
+SerializerAwareInterface.php
+SerializerAwareTrait.php
+SerializerInterface.php
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,14 @@
+css/
+fonts/
+images/
+javascript/
+less/
+public/
+scss/
+templates/
+.gitignore
+CHANGELOG.md
+LICENSE
+README.md
+composer.json
+config.rb

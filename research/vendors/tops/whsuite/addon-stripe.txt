@@ -1,0 +1,12 @@
+assets/img/
+configs/
+controllers/ajax/
+languages/
+libraries/
+migrations/
+views/elements/
+.gitignore
+LICENSE
+README.md
+composer.json
+stripe_details.php

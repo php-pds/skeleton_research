@@ -1,0 +1,7 @@
+_config/
+code/
+code_generated/
+templates/
+LICENSE
+README.md
+composer.json

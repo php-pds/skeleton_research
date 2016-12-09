@@ -1,0 +1,13 @@
+.gitignore
+.htaccess
+LICENSE
+README.md
+apple-touch-icon.png
+composer.json
+composer.lock
+favicon.ico
+humans.txt
+robots.txt
+tile-wide.png
+tile.png
+typo3cms

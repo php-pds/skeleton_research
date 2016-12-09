@@ -1,0 +1,5 @@
+src/Simplon/Facebook/
+.gitignore
+LICENSE
+README.md
+composer.json

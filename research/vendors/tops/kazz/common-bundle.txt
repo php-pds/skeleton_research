@@ -1,0 +1,6 @@
+DependencyInjection/
+Propel/
+Resources/config/
+.gitignore
+KazzCommonBundle.php
+composer.json

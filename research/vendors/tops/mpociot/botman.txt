@@ -1,0 +1,11 @@
+src/Mpociot/BotMan/
+tests/
+.gitignore
+.php_cs
+.styleci.yml
+.travis.yml
+README.md
+composer.json
+phpunit.xml
+readme-facebook.md
+readme-telegram.md

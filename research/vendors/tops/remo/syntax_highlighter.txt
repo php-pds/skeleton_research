@@ -1,0 +1,9 @@
+blocks/syntax_highlighter/
+libraries/
+INSTALL.TXT
+LICENSE
+LICENSE.TXT
+README
+composer.json
+controller.php
+icon.png

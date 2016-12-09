@@ -1,0 +1,6 @@
+src/Che/Doctrine/Decimal/
+tests/
+.gitignore
+README.md
+composer.json
+phpunit.xml.dist

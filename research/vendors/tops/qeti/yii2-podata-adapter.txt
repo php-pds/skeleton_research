@@ -1,0 +1,9 @@
+implementation/
+.gitignore
+CHANGELOG.md
+LICENSE
+ODataUrlRule.php
+OperationContextAdapter.php
+README.md
+RequestAdapter.php
+composer.json

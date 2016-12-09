@@ -1,0 +1,8 @@
+examples/
+php4/
+tests/
+COPYING
+README.md
+Spyc.php
+composer.json
+spyc.yaml

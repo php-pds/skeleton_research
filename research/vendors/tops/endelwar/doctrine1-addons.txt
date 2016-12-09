@@ -1,0 +1,6 @@
+lib/Doctrine/Cache/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json

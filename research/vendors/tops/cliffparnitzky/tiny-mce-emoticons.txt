@@ -1,0 +1,7 @@
+assets/tinymce4/plugins/emoticons/
+system/modules/TinyMceEmoticons/
+.gitattributes
+.gitignore
+README.md
+composer.json
+screenshot.jpg

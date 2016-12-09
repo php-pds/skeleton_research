@@ -1,0 +1,9 @@
+assets/
+component/
+controllers/
+migrations/
+models/
+views/seomanager/
+Module.php
+README.md
+composer.json

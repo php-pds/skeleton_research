@@ -1,0 +1,6 @@
+DependencyInjection/
+Monolog/Processor/
+Resources/config/
+AlsarMonologExtensionsBundle.php
+README.md
+composer.json

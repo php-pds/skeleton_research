@@ -1,0 +1,8 @@
+src/Junty/TaskRunner/
+tests/Junty/TaskRunner/
+.gitignore
+.travis.yml
+LICENSE.md
+README.md
+composer.json
+phpunit.xml.dist

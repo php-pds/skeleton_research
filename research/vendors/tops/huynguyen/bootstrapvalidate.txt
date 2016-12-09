@@ -1,0 +1,7 @@
+.idea/dictionaries/
+language/
+.gitignore
+README.md
+bootstrapValidator.min.css
+bootstrapValidator.min.js
+composer.json

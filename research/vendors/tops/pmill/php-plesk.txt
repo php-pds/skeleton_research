@@ -1,0 +1,8 @@
+examples/
+src/pmill/Plesk/
+tests/
+.gitignore
+CONTRIBUTORS.md
+README.md
+composer.json
+composer.lock

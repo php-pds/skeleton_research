@@ -1,0 +1,14 @@
+DependencyInjection/
+Resources/config/
+Tests/Twig/
+Twig/
+.coveralls.yml
+.gitignore
+.travis.yml
+LICENSE
+README.md
+UPGRADING.md
+WebfactoryPiwikBundle.php
+build.xml
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,10 @@
+docs/
+examples/
+src/Slimdic/Dic/
+test/
+.codeclimate.yml
+.gitignore
+.travis.yml
+LICENSE.md
+README.md
+composer.json

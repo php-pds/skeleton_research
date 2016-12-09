@@ -1,0 +1,15 @@
+docker/
+sample/
+src/
+tests/
+.editorconfig
+.gitattributes
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+NOTICE
+composer.json
+docker-compose.yml
+phpunit.xml
+readme.md

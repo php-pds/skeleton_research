@@ -1,0 +1,11 @@
+autoloads/
+classes/
+doc/
+modules/rssfeeds/
+packages/
+settings/
+COPYRIGHT.md
+LICENSE
+README.md
+composer.json
+ezinfo.php

@@ -1,0 +1,9 @@
+dist/
+.gitignore
+LICENSE
+README.md
+bower.json
+component.json
+composer.json
+cropbox.jquery.json
+package.json

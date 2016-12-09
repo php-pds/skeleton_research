@@ -1,0 +1,12 @@
+DependencyInjection/Compiler/
+Tests/
+.gitignore
+.scrutinizer.yml
+.sensiolabs.yml
+.travis.yml
+BundleDependency.php
+BundleDependencyInterface.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

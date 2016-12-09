@@ -1,0 +1,4 @@
+src/Johnstyle/Timthumb/
+LICENSE
+README.md
+composer.json

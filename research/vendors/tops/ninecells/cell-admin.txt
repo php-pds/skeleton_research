@@ -1,0 +1,7 @@
+Http/
+resources/
+AdminManager.php
+AdminServiceProvider.php
+DotenvStore.php
+PackageList.php
+composer.json

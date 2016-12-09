@@ -1,0 +1,15 @@
+bin/
+build/
+examples/
+src/Resume/
+templates/
+tests/
+.gitignore
+.travis.yml
+README.md
+composer.json
+composer.lock
+md2resume_dev.php
+pakefile
+phpunit.xml
+version

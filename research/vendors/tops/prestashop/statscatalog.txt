@@ -1,0 +1,12 @@
+translations/
+CHANGELOG.txt
+Readme.md
+application_home.png
+basket_delete.png
+composer.json
+config.xml
+index.php
+logo.gif
+logo.png
+page_edit.png
+statscatalog.php

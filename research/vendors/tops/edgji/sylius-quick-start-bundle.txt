@@ -1,0 +1,5 @@
+Command/
+DataFixtures/ORM/
+Resources/meta/
+SyliusQuickStartBundle.php
+composer.json

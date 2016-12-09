@@ -1,0 +1,7 @@
+assets/js/
+src/StpBoard/NewRelic/
+.gitignore
+README.md
+bower.json
+composer.json
+composer.lock

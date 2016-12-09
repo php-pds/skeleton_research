@@ -1,0 +1,7 @@
+src/Lappuse/Composer/Addon/
+.gitignore
+.travis.yml
+LICENSE
+composer.json
+phpunit.php
+phpunit.xml

@@ -1,0 +1,6 @@
+src/Overnil/EventLoop/
+tests/
+.gitignore
+composer.json
+phpcs.xml.dist
+phpunit.xml.dist

@@ -1,0 +1,13 @@
+src/elnebuloso/Flex/
+tests/src/elnebuloso/FlexTest/
+.coveralls.yml
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+VERSION
+build.properties
+build.xml
+composer.json
+phpunit.xml

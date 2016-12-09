@@ -1,0 +1,12 @@
+classes/
+db/
+lang/en/
+tests/behat/
+yui/
+.travis.yml
+LICENSE
+README.md
+composer.json
+ipn.php
+version.php
+view.php

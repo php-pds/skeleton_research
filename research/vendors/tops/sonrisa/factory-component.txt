@@ -1,0 +1,7 @@
+src/NilPortugues/Component/Factory/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

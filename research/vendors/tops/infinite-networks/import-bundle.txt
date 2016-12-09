@@ -1,0 +1,15 @@
+Command/
+Constraint/
+Controller/
+Converter/
+DependencyInjection/
+Entity/
+EventListener/
+Form/Type/
+Import/
+Processor/
+Resources/
+Upload/
+View/
+InfiniteImportBundle.php
+composer.json

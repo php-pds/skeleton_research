@@ -1,0 +1,8 @@
+Config/
+Hook/
+I18n/
+templates/backOffice/default/
+BrandProductDisplay.php
+LICENSE.txt
+README.md
+composer.json

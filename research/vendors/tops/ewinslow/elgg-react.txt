@@ -1,0 +1,16 @@
+elgg-config/
+node_modules/
+views/default/resources/react/
+.gitignore
+.htaccess
+.travis.yml
+README.md
+composer.json
+index.php
+install.php
+manifest.xml
+package.json
+phpunit.xml
+start.php
+upgrade.php
+views.php

@@ -1,0 +1,12 @@
+config/
+grunt/
+src/
+.gitignore
+Gruntfile.js
+LICENSE
+README.md
+bower.json
+composer.json
+index.php
+package.json
+wp-mailchimp-signup-form-popup.php

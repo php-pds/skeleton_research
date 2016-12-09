@@ -1,0 +1,14 @@
+.settings/
+languages/
+src/
+test/
+.codeclimate.yml
+.coveralls.yml
+.gitignore
+.project
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpcs.xml
+phpunit.xml

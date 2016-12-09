@@ -1,0 +1,4 @@
+SSP/PHPMailman/
+LICENSE
+README.md
+composer.json

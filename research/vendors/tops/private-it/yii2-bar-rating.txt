@@ -1,0 +1,9 @@
+assets/
+.gitignore
+BarRating.php
+BarRatingAsset.php
+BarRatingPluginAsset.php
+LICENSE
+README.md
+VERSION
+composer.json

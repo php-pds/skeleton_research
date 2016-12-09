@@ -1,0 +1,10 @@
+Bootstrap/
+Sites/
+Source/
+.gitattributes
+.gitignore
+MIT-LICENSE.txt
+README.md
+code_of_conduct.md
+composer.json
+phpdoc.dist.xml

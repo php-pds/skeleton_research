@@ -1,0 +1,3 @@
+src/Laiz/Core/
+.gitignore
+composer.json

@@ -1,0 +1,13 @@
+app/rdev/
+build/
+configs/
+tests/app/rdev/
+.gitattributes
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENSE.md
+README.md
+composer.json
+phpunit.xml
+todo

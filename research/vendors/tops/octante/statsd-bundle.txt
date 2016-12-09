@@ -1,0 +1,13 @@
+DependencyInjection/
+Event/
+EventDispatcher/
+EventListener/
+Factory/
+Resources/
+.coveralls.yml
+.travis.yml
+LICENSE
+OctanteStatsDBundle.php
+README.md
+StatsDBundle.php
+composer.json

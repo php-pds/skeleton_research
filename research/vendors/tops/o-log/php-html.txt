@@ -1,0 +1,5 @@
+OLOG/
+public/
+.gitignore
+composer.json
+run.sh

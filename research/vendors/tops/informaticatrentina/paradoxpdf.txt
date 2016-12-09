@@ -1,0 +1,10 @@
+autoloads/
+bin/
+classes/
+design/standard/
+doc/
+settings/
+README.md
+composer.json
+extension.xml
+ezinfo.php

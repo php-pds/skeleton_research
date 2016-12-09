@@ -1,0 +1,10 @@
+examples/
+spec/Namshi/Notificator/
+src/Namshi/Notificator/
+.gitignore
+.travis.yml
+Gruntfile.js
+README.md
+composer.json
+composer.lock
+package.json

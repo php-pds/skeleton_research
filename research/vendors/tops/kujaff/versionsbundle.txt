@@ -1,0 +1,11 @@
+Command/
+DependencyInjection/
+Entity/
+Exception/
+Model/
+Resources/
+Service/
+Type/
+README.md
+VersionsBundle.php
+composer.json

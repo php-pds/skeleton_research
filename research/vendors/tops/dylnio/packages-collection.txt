@@ -1,0 +1,7 @@
+src/Dyln/Collection/
+tests/
+.gitignore
+.travis.yml
+README.md
+composer.json
+composer.lock

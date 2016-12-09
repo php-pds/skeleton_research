@@ -1,0 +1,16 @@
+api/
+bootstrap/
+common/
+console/
+tests/
+.bowerrc
+.env.example
+.gitattributes
+.gitignore
+LICENSE.md
+README.md
+bootstrap.php
+composer.json
+requirements.php
+yii
+yii.bat

@@ -1,0 +1,7 @@
+classes/
+js/
+smarty/
+.gitignore
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,16 @@
+assets/
+bower/
+controllers/
+models/
+views/
+.bowerrc
+BidpurAsset.php
+BootstrapAsset.php
+FontawesomeAsset.php
+JqueryAsset.php
+Module.php
+NotoSansFontAsset.php
+README.md
+YiiAsset.php
+bower.json
+composer.json

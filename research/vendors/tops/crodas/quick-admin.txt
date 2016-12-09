@@ -1,0 +1,10 @@
+lib/crodas/QuickAdmin/
+tests/
+travis/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+compile.sh
+composer.json
+phpunit.xml

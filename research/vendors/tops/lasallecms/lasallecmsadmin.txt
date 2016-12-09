@@ -1,0 +1,15 @@
+config/
+public/bob1/
+src/
+tests/
+views/bob1/
+.gitattributes
+.gitignore
+.travis.yml
+CHANGELOG.md
+CONTRIBUTING.md
+INSTALL.md
+LICENSE.md
+README.md
+composer.json
+phpunit.xml

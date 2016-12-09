@@ -1,0 +1,12 @@
+Controller/
+DependencyInjection/
+Resources/
+Security/
+Tests/
+.gitignore
+.travis.yml
+RCDualLoginWPFOSBundle.php
+README.md
+composer.json
+composer.phar
+phpunit.xml.dist

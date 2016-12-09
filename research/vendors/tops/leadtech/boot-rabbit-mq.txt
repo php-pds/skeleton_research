@@ -1,0 +1,5 @@
+resources/
+src/Leadtech/Boot/RabbitMQ/
+tests/
+README.md
+composer.json

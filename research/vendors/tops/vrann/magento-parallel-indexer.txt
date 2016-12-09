@@ -1,0 +1,6 @@
+Console/Command/
+bin/
+etc/
+.gitignore
+README.md
+composer.json

@@ -1,0 +1,13 @@
+app/
+features/
+src/SymEdit/Bundle/
+themes/
+web/
+.gitignore
+.travis.yml
+README.md
+behat.yml.dist
+changelog.md
+composer.json
+composer.lock
+phpunit.xml.dist

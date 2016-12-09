@@ -1,0 +1,17 @@
+Command/
+DataCollector/
+DependencyInjection/
+Indexer/
+Listener/
+Logger/
+Paginator/
+Resources/
+Tests/
+.gitignore
+Client.php
+README.md
+Service.php
+ServiceInterface.php
+SnowcapElasticaBundle.php
+composer.json
+phpunit.xml.dist

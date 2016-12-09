@@ -1,0 +1,8 @@
+Example/
+Service/
+Tests/
+.gitignore
+LICENSE.txt
+README.md
+VERSION
+composer.json

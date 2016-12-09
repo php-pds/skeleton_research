@@ -1,0 +1,15 @@
+bin/
+deploy/
+features/
+plugin/
+src/
+template/
+utils/
+.editorconfig
+.gitignore
+.travis.yml
+LICENSE
+README.md
+command.php
+composer.json
+wp-cli.yml

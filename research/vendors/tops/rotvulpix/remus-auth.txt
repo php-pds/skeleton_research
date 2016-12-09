@@ -1,0 +1,16 @@
+app/
+bin/
+config/
+db/
+lib/tasks/
+log/
+public/
+test/
+tmp/
+.env.example
+.gitignore
+Gemfile
+Gemfile.lock
+README.md
+Rakefile
+config.ru

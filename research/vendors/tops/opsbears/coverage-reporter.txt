@@ -1,0 +1,8 @@
+.idea/
+bin/
+src/
+testdata/
+.gitignore
+LICENSE.md
+README.md
+composer.json

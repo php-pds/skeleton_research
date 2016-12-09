@@ -1,0 +1,5 @@
+lib/midcom/helper/activitystream/
+schemas/
+static/midcom.helper.activitystream/
+README.md
+composer.json

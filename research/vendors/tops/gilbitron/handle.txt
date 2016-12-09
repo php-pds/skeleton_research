@@ -1,0 +1,13 @@
+.travis/
+bin/
+init-structure/
+src/Commands/
+tests/
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+box.json
+composer.json
+phpunit.xml

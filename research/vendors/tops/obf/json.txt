@@ -1,0 +1,11 @@
+.idea/
+src/
+tests/
+.gitignore
+.travis.yml
+LICENSE.md
+README.md
+autoload.php
+composer.json
+phpmd.xml
+phpunit.xml

@@ -1,0 +1,13 @@
+DependencyInjection/
+Model/
+Provider/
+Resources/
+Routing/
+Tests/
+Twig/
+.gitignore
+.travis.yml
+README.md
+ThormeierBreadcrumbBundle.php
+composer.json
+phpunit.xml.dist

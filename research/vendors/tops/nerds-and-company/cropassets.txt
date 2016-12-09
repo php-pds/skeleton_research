@@ -1,0 +1,15 @@
+controllers/
+fieldtypes/
+models/
+records/
+resources/
+services/
+templates/
+translations/
+variables/
+.gitignore
+CropAssetsPlugin.php
+LICENSE
+README.md
+composer.json
+package.json

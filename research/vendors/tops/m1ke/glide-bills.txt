@@ -1,0 +1,8 @@
+docs/
+.gitignore
+Glide.php
+LICENSE
+README.md
+composer.json
+composer.lock
+test.php

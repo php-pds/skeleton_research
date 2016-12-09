@@ -1,0 +1,17 @@
+bin/
+build/
+config/
+docs/
+src/
+test/
+.coveralls.yml
+.gitattributes
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CODE_OF_CONDUCT.md
+LICENSE
+README.md
+build.xml
+composer.json
+phpunit.xml.dist

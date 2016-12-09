@@ -1,0 +1,13 @@
+translations/
+LICENSE
+README.md
+composer.json
+latlonfield.admin.inc
+latlonfield.field.inc
+latlonfield.field_formatter.inc
+latlonfield.field_widget.inc
+latlonfield.gmap.js
+latlonfield.info
+latlonfield.install
+latlonfield.leaflet.js
+latlonfield.module

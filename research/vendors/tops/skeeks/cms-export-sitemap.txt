@@ -1,0 +1,8 @@
+config/
+messages/ru/
+views/
+CHANGELOG.md
+ExportSitemapHandler.php
+LICENSE
+README.md
+composer.json

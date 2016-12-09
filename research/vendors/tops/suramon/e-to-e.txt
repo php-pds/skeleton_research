@@ -1,0 +1,8 @@
+src/EToE/
+tests/
+.gitignore
+.travis.yml
+Makefile
+composer.json
+composer.lock
+phpunit.xml.dist

@@ -1,0 +1,5 @@
+Classes/Ag/Shop/
+Configuration/
+Resources/
+README.md
+composer.json

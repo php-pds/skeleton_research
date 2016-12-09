@@ -1,0 +1,7 @@
+assets/
+fancytree/
+.gitattributes
+.gitignore
+LICENSE
+README.md
+composer.json

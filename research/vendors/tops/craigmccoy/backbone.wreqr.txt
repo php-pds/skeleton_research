@@ -1,0 +1,6 @@
+LICENSE.md
+README.md
+backbone.wreqr.js
+backbone.wreqr.map
+backbone.wreqr.min.js
+composer.json

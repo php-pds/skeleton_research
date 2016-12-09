@@ -1,0 +1,9 @@
+phire-cms/
+phire-content/
+.gitignore
+.htaccess
+LICENSE.TXT
+README.md
+composer.json
+config.php
+index.php

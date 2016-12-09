@@ -1,0 +1,14 @@
+assets/
+bower_components/
+README.md
+UNLICENSE
+admin.html
+admin.plugin.php
+admin_base.html
+admin_head.html
+admin_header.html
+composer.json
+edit.html
+login.html
+posts.html
+write.html

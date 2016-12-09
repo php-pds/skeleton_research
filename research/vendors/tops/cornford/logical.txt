@@ -1,0 +1,12 @@
+spec/Cornford/Logical/
+src/Cornford/Logical/
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE.txt
+README.md
+composer.json
+example.php
+phpspec.yml
+phpunit.xml

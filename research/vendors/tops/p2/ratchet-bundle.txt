@@ -1,0 +1,11 @@
+Command/
+DependencyInjection/
+Resources/
+Security/
+WebSocket/
+.gitignore
+LICENSE
+P2RatchetBundle.php
+README.md
+composer.json
+composer.lock

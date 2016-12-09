@@ -1,0 +1,10 @@
+examples/
+src/HAB/NTriples/
+tests/unit-tests/src/HAB/NTriples/
+.eproject
+.gitignore
+LICENSE
+Makefile
+README.md
+composer.json
+phpunit.xml

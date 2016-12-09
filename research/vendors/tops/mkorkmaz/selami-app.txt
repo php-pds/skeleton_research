@@ -1,0 +1,4 @@
+app/
+.gitignore
+.scrutinizer.yml
+composer.json

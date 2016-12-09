@@ -1,0 +1,14 @@
+.travis/config/
+assets/
+classes/
+config/
+tasks/
+tests/
+views/dbdocs/
+.gitignore
+.travis.yml
+README.md
+bootstrap.php
+composer.json
+composer.phar
+phpunit.xml

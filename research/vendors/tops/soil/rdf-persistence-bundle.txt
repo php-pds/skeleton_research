@@ -1,0 +1,8 @@
+Controller/
+DependencyInjection/
+Resources/
+Service/
+LICENSE
+README.md
+SoilRdfPersistenceBundle.php
+composer.json

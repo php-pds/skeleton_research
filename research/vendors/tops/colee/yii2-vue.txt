@@ -1,0 +1,7 @@
+assets/vue/
+.gitattributes
+.gitignore
+LICENSE
+README.md
+VueAsset.php
+composer.json

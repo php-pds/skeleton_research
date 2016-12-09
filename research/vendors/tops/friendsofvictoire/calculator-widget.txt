@@ -1,0 +1,10 @@
+DependencyInjection/
+Entity/
+Form/
+Resolver/
+Resources/
+.gitignore
+LICENSE
+README.md
+VictoireWidgetCalculatorBundle.php
+composer.json

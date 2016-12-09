@@ -1,0 +1,10 @@
+_config/
+code/
+css/pages/
+templates/
+.editorconfig
+.scrutinizer.yml
+CHANGELOG.md
+LICENSE.md
+README.md
+composer.json

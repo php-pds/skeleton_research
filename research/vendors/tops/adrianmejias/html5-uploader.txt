@@ -1,0 +1,10 @@
+dist/
+src/
+tests/
+.gitignore
+LICENSE
+README.md
+bower.json
+composer.json
+gulpfile.js
+package.json

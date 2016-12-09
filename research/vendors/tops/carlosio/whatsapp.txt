@@ -1,0 +1,10 @@
+app/
+src/CarlosIO/WhatsApp/
+tests/
+.gitattributes
+.gitignore
+CHANGELOG.md
+CONTRIBUTING.md
+README.md
+composer.json
+composer.lock

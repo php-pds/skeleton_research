@@ -1,0 +1,10 @@
+Controller/
+DependencyInjection/
+Entity/EntityTrait/
+Resources/
+Twig/Extension/
+.gitignore
+.travis.yml
+GrossumCoreBundle.php
+README.md
+composer.json

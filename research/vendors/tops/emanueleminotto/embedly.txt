@@ -1,0 +1,12 @@
+Tests/
+Twig/
+.coveralls.yml
+.gitignore
+.travis.yml
+Client.php
+LICENSE
+README.md
+composer.json
+description.json
+generate-api.sh
+phpunit.xml.dist

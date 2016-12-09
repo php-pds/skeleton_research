@@ -1,0 +1,15 @@
+config/
+language/
+public/
+src/KmbDashboard/
+test/
+view/kmb-dashboard/index/
+.coveralls.yml
+.gitignore
+.travis.yml
+COPYING
+Module.php
+README.md
+composer.json
+composer.phar
+coverage-checker.php

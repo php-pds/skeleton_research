@@ -1,0 +1,7 @@
+acf-json/
+inc/
+LICENSE
+Plugin.php
+README.md
+acf.php
+composer.json

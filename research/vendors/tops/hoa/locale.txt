@@ -1,0 +1,9 @@
+Localizer/
+Test/Unit/
+.State
+.gitignore
+CHANGELOG.md
+Exception.php
+Locale.php
+README.md
+composer.json

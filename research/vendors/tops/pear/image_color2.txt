@@ -1,0 +1,6 @@
+Image/
+tests/
+.gitignore
+README
+composer.json
+package.xml

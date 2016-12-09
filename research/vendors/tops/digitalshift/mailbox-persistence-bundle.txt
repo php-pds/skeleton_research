@@ -1,0 +1,8 @@
+DependencyInjection/
+Exception/
+Persistence/
+Resources/
+DigitalshiftMailboxPersistenceBundle.php
+LICENSE
+README.md
+composer.json

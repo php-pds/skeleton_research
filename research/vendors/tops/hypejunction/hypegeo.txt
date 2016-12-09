@@ -1,0 +1,14 @@
+classes/hypeJunction/Geo/
+graphics/
+languages/
+lib/
+screenshots/
+sql/
+vendors/
+views/default/
+.gitignore
+activate.php
+composer.json
+manifest.xml
+readme.md
+start.php

@@ -1,0 +1,13 @@
+assets/langs/
+fm/
+plugins/codemirror/
+.gitignore
+README.md
+TinyMce.php
+TinyMceAsset.php
+TinyMceCodeMirrorAsset.php
+TinyMceCompressorAction.php
+TinyMceController.php
+TinyMceLangAsset.php
+TinyMcePluginsAsset.php
+composer.json

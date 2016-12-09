@@ -1,0 +1,7 @@
+Examples/
+Tests/
+.gitignore
+GradientCloner.php
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,14 @@
+Config/
+Controller/
+Docs/
+Event/
+Locale/
+Model/
+Test/
+View/
+webroot/js/
+.gitignore
+README.md
+changelog.md
+composer.json
+license.txt

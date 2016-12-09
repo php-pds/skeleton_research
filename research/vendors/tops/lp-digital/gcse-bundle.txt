@@ -1,0 +1,17 @@
+ClassContent/Gcse/
+Config/
+Controller/
+Listener/
+Resources/img/contents/
+Templates/scripts/Gcse/
+Tests/
+build/logs/
+.codeclimate.yml
+.formatter.yml
+.gitignore
+.travis.yml
+GoogleCustomSearch.php
+LICENCE
+README.md
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,17 @@
+Command/
+Controller/
+Datafixtures/
+DependencyInjection/
+Document/
+EventListener/
+Resources/
+Services/
+Tests/
+Twig/
+.gitignore
+.travis.yml
+RCPHPCRSeoBundle.php
+composer.json
+composer.lock
+composer.phar
+phpunit.xml.dist

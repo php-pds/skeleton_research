@@ -1,0 +1,13 @@
+Standards/FuelPHP/
+bin/
+src/evidev/fuelphpcs/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+VERSION
+composer.json
+install.sh
+phpunit.xml
+uninstall.sh

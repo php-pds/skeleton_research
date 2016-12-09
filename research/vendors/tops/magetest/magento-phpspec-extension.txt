@@ -1,0 +1,11 @@
+features/
+spec/MageTest/PhpSpec/MagentoExtension/
+src/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+composer.json
+contributing.md
+phpspec.yml.dist

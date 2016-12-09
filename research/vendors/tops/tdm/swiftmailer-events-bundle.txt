@@ -1,0 +1,9 @@
+DependencyInjection/
+Events/
+Model/
+Resources/config/
+Tests/Controller/
+.gitignore
+README.md
+TDMSwiftMailerEventBundle.php
+composer.json

@@ -1,0 +1,16 @@
+.tx/
+languages/
+xliff/
+.gitignore
+README
+branch_beta
+commi
+composer.json
+default.php
+default.xlf
+file2add.txt
+hook.txt
+ingolf.txt
+readme_ainschy.md
+samson.txt
+vortrag-add.txt

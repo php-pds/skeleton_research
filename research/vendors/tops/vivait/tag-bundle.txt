@@ -1,0 +1,7 @@
+DependencyInjection/
+Entity/
+.gitignore
+LICENSE
+README.md
+VivaitTagBundle.php
+composer.json

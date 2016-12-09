@@ -1,0 +1,9 @@
+bin/
+source/Exo/
+tests/
+.gitignore
+composer.json
+composer.lock
+license
+phpspec.yml
+readme.md

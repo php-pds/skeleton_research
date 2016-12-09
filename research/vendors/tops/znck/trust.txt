@@ -1,0 +1,17 @@
+config/
+migrations/
+src/
+tests/
+trust/
+.gitignore
+.php_cs
+CHANGELOG.md
+CONDUCT.md
+CONTRIBUTING.md
+LICENSE
+README.md
+circle.yml
+composer.json
+composer.lock
+cover.png
+phpunit.xml

@@ -1,0 +1,10 @@
+DependencyInjection/
+Resources/config/
+doc/
+.gitignore
+.travis.yml
+DemoConnectorBundle.php
+LICENCE.txt
+README.md
+composer.json
+composer.lock

@@ -1,0 +1,7 @@
+config/
+src/KmbFakeAuthentication/
+.gitignore
+Module.php
+README.md
+composer.json
+composer.phar

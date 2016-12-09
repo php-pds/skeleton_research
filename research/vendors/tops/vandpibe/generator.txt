@@ -1,0 +1,8 @@
+lib/Vandpibe/Generator/
+tests/
+.gitignore
+LICENSE
+README.md
+Rakefile
+composer.json
+phpunit.xml.dist

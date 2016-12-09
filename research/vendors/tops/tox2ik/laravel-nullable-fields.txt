@@ -1,0 +1,7 @@
+src/Illuminate/Support/Traits/
+test/
+.gitignore
+composer.json
+composer.lock
+phpunit.sh
+phpunit.xml

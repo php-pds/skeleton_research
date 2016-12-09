@@ -1,0 +1,6 @@
+twigextensions/
+.gitignore
+TruncatePlugin.php
+composer.json
+readme.md
+releases.json

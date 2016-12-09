@@ -1,0 +1,11 @@
+bin/
+examples/application1/
+src/DrestClient/
+tests/DrestClientTests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE.txt
+README.md
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,11 @@
+bin/
+config/
+doc/
+faker/
+migrations/
+src/
+.gitignore
+.travis.yml
+composer.json
+create.sql
+readme.md

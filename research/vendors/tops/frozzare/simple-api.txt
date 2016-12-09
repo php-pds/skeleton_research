@@ -1,0 +1,9 @@
+.editorconfig
+.gitignore
+LICENSE-MIT
+README.md
+composer.json
+composer.lock
+phpcs.ruleset.xml
+simple-api.php
+xml.php

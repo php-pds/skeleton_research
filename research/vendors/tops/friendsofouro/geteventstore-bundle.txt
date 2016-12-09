@@ -1,0 +1,13 @@
+DependencyInjection/
+Resources/config/
+Tests/
+hooks/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CONTRIBUTING.md
+EventStoreClientBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

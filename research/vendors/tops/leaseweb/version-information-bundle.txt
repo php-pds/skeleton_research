@@ -1,0 +1,8 @@
+DataCollector/
+DependencyInjection/
+Resources/
+RevisionInformation/
+.gitignore
+LswVersionInformationBundle.php
+README.md
+composer.json

@@ -1,0 +1,7 @@
+doc/
+lib/
+templates/
+README
+README.md
+VERSION
+composer.json

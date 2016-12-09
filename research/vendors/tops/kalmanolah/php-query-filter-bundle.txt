@@ -1,0 +1,5 @@
+src/KalmanOlah/QueryFilterBundle/
+.gitignore
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,8 @@
+Controller/
+DependencyInjection/Compiler/
+Entity/
+Form/
+Menu/
+Resources/
+MenuModule.php
+composer.json

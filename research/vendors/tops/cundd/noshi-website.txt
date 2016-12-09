@@ -1,0 +1,12 @@
+Classes/Plugins/
+Configurations/
+Resources/
+data/
+.gitignore
+.htaccess
+LICENSE
+README.md
+composer.json
+composer.lock
+index.php
+robots.txt

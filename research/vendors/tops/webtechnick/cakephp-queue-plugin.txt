@@ -1,0 +1,13 @@
+Config/
+Console/Command/
+Controller/
+Lib/
+Model/
+Test/
+Vendor/
+View/
+scripts/
+webroot/
+.gitignore
+composer.json
+readme.markdown

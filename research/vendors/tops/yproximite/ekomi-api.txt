@@ -1,0 +1,5 @@
+src/Api/
+.gitignore
+LICENSE
+README.md
+composer.json

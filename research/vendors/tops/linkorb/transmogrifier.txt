@@ -1,0 +1,8 @@
+bin/
+example/
+src/LinkORB/Transmogrifier/
+.gitignore
+README.md
+composer.json
+composer.lock
+transmogrifier.sublime-project

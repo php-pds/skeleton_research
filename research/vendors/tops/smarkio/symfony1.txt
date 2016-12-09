@@ -1,0 +1,11 @@
+data/
+lib/
+licenses/
+test/
+.gitignore
+CHANGELOG
+COPYRIGHT
+LICENSE
+README
+composer.json
+package.xml.tmpl

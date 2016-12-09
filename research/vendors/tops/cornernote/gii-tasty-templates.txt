@@ -1,0 +1,4 @@
+tasty/
+LICENSE
+README.md
+composer.json

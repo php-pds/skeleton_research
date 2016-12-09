@@ -1,0 +1,10 @@
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+Select2.php
+Select2Asset.php
+Select2LanguageAsset.php
+composer.json
+phpunit.xml.dist

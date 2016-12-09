@@ -1,0 +1,9 @@
+.phpspec/
+src/
+tests/
+.gitignore
+.travis.yml
+composer.json
+phpspec.hhvm.yml
+phpspec.yml
+readme.md

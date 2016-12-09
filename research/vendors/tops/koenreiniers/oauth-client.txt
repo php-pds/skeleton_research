@@ -1,0 +1,8 @@
+example/
+src/
+.gitignore
+LICENSE.txt
+README.md
+composer.json
+composer.lock
+services.yml

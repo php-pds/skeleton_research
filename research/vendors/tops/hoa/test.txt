@@ -1,0 +1,14 @@
+Bin/
+Documentation/
+Integration/
+Protocol/
+Report/Cli/
+Unit/
+.State
+.atoum.php
+.autoloader.atoum.php
+.gitignore
+CHANGELOG.md
+Decorrelated.php
+README.md
+composer.json

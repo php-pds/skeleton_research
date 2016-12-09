@@ -1,0 +1,10 @@
+src/rootLogin/JSRoutingProvider/
+tests/
+.gitignore
+.travis.yml
+LICENSE.md
+README.md
+composer.json
+gulpfile.js
+package.json
+phpunit.xml.dist

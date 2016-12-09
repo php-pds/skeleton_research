@@ -1,0 +1,8 @@
+XML/
+doc/
+examples/
+tests/
+.gitignore
+.travis.yml
+composer.json
+package.xml

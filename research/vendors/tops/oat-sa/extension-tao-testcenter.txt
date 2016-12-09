@@ -1,0 +1,9 @@
+controller/
+locales/en-US/
+model/
+scripts/
+test/
+views/
+LICENSE
+composer.json
+manifest.php

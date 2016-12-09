@@ -1,0 +1,16 @@
+Context/Front/
+Controller/Admin/
+DataGrid/
+DataSet/
+DependencyInjection/
+Entity/
+Factory/
+Form/Admin/
+Manager/
+Repository/
+Resources/
+Tests/
+LICENSE
+README.md
+WellCommerceNewsBundle.php
+composer.json

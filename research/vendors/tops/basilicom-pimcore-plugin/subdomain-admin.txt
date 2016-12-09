@@ -1,0 +1,8 @@
+controllers/
+lib/SubdomainAdmin/
+tests/
+views/scripts/index/
+LICENSE
+README.md
+composer.json
+plugin.xml

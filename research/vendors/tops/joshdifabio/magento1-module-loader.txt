@@ -1,0 +1,8 @@
+.gitignore
+ClassRewriter.php
+Config.php
+PathResolver.php
+README.md
+bootstrap.php
+composer.json
+mage-includes.php

@@ -1,0 +1,11 @@
+Controller/
+DependencyInjection/
+Resources/
+Service/
+.gitignore
+CampaignChainCampaignRepeatingBundle.php
+LICENSE
+NOTICE
+README.md
+campaignchain.yml
+composer.json

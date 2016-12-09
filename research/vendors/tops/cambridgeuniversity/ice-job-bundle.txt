@@ -1,0 +1,5 @@
+spec/Ice/JobBundle/
+src/Ice/JobBundle/
+.gitignore
+LICENSE
+composer.json

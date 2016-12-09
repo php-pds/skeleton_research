@@ -1,0 +1,7 @@
+examples/
+src/Dux/
+tests/Dux/
+.gitignore
+README.md
+composer.json
+phpunit.xml.dist

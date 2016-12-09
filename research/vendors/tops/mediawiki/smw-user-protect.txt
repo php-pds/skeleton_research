@@ -1,0 +1,5 @@
+README.md
+SMWUserProtect.classes.php
+SMWUserProtect.i18n.php
+SMWUserProtect.php
+composer.json

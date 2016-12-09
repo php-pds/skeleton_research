@@ -1,0 +1,10 @@
+aliases/
+app/
+bootstrap/
+core/
+plugins/
+public/
+vendor/
+.htaccess
+composer.json
+composer.lock

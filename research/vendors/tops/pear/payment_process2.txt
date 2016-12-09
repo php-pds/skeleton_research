@@ -1,0 +1,11 @@
+Payment/
+examples/
+tests/
+.gitignore
+Changelog
+LICENSE-BSD
+README
+build.xml
+composer.json
+package.xml
+phpunit.xml

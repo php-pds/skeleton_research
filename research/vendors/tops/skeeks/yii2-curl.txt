@@ -1,0 +1,5 @@
+CHANGELOG.md
+Curl.php
+README.md
+VERSION
+composer.json

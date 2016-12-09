@@ -1,0 +1,9 @@
+.idea/
+config/
+src/
+.gitignore
+LICENSE
+composer.json
+phpcs.php
+phpmd.xml
+phpunit.xml

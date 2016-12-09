@@ -1,0 +1,6 @@
+Resources/public/
+.gitignore
+LICENSE
+README.md
+StingerCKEditorOffice2013SkinBundle.php
+composer.json

@@ -1,0 +1,8 @@
+DependencyInjection/
+Resources/
+Services/
+.gitignore
+JRKFooBundle.php
+README.md
+bundle-skel.txt
+composer.json

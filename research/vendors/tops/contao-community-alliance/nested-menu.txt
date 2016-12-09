@@ -1,0 +1,8 @@
+contao/
+src/
+.gitignore
+.travis.yml
+README.md
+build.default.properties
+build.xml
+composer.json

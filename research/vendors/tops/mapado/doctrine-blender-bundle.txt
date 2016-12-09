@@ -1,0 +1,6 @@
+src/
+.bumpversion.cfg
+.gitignore
+LICENSE
+README.md
+composer.json

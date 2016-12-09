@@ -1,0 +1,10 @@
+Tests/
+examples/
+src/Mindy/Query/
+.gitignore
+.travis.yml
+composer.json
+phpunit.xml
+readme.md
+src.php
+todo.md

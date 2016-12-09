@@ -1,0 +1,4 @@
+src/Mouf/Installer/
+.gitignore
+README.md
+composer.json

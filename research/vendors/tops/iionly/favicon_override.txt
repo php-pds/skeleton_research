@@ -1,0 +1,8 @@
+graphics/
+CHANGES.txt
+LICENCE.txt
+README.md
+composer.json
+manifest.xml
+start.php
+views.php

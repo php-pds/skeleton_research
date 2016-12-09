@@ -1,0 +1,15 @@
+Admin/
+Controller/
+DataFixtures/
+DependencyInjection/
+Document/
+Entity/
+Form/
+Manager/
+Model/
+Resources/
+.gitignore
+LICENSE
+NazkaLocationBundle.php
+README.md
+composer.json

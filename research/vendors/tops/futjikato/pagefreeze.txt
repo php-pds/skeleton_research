@@ -1,0 +1,5 @@
+Classes/Futjikato/PageFreeze/
+Configuration/
+Resources/Private/
+README.md
+composer.json

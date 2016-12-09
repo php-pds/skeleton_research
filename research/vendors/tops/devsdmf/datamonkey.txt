@@ -1,0 +1,14 @@
+docs/
+src/DataMonkey/
+tests/
+.coveralls.yml
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+apigen.neon
+composer.json
+composer.lock
+mkdocs.yml
+phpunit.xml.dist

@@ -1,0 +1,3 @@
+src/Mage2/Core/
+LICENSE
+composer.json

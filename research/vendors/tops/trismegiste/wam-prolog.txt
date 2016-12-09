@@ -1,0 +1,12 @@
+doc/
+src/Trismegiste/Prolog/
+tests/
+.gitignore
+.travis.yml
+Features.md
+HowToUse.md
+README.md
+composer.json
+phpunit.xml
+prolog.php
+samiconfig.php

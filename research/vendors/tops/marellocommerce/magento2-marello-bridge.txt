@@ -1,0 +1,16 @@
+Api/
+Block/Adminhtml/System/Config/
+Console/Command/
+Cron/
+Helper/
+Model/
+Observer/
+Setup/
+Test/
+etc/
+view/adminhtml/ui_component/
+.gitignore
+LICENSE
+README.md
+composer.json
+registration.php

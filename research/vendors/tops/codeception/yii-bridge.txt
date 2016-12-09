@@ -1,0 +1,6 @@
+test/
+web/
+LICENSE
+README.md
+composer.json
+yiit.php

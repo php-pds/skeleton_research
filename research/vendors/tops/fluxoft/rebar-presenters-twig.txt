@@ -1,0 +1,9 @@
+src/Presenters/
+tests/Presenters/
+.gitignore
+.travis.yml
+LICENSE.md
+README.md
+composer.json
+phpunit.xml.dist
+ruleset.xml

@@ -1,0 +1,5 @@
+bin/
+src/Clover/Dump/
+.gitignore
+README.md
+composer.json

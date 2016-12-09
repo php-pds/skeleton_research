@@ -1,0 +1,12 @@
+.editorconfig
+Administrator.php
+Author.php
+Base.php
+Contributor.php
+Editor.php
+Native.php
+Query.php
+README.md
+Subscriber.php
+SuperAdmin.php
+composer.json

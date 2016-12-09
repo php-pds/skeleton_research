@@ -1,0 +1,5 @@
+src/Whsuite/Migrations/
+.gitignore
+LICENSE
+README.md
+composer.json

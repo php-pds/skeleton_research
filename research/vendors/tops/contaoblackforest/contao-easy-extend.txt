@@ -1,0 +1,4 @@
+contao/config/
+src/Contao/Controller/
+README.md
+composer.json

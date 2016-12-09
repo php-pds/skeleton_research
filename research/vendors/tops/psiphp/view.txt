@@ -1,0 +1,11 @@
+ci/travis/
+docs/
+lib/
+tests/Unit/
+.gitignore
+.styleci.yml
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

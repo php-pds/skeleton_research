@@ -1,0 +1,10 @@
+src/wdm/debian/
+tests/wdm/debian/
+.gitignore
+.travis.yml
+CHANGELOG.md
+README.md
+VERSION
+composer.json
+composer.lock
+example.php

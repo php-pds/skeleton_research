@@ -1,0 +1,14 @@
+app/
+source/
+static/
+vendor/
+.gitignore
+.htaccess
+.phpstorm.meta.php
+README.md
+_ide_helper.php
+artisan
+changlog.md
+composer.json
+index.php
+robots.txt

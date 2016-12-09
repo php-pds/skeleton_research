@@ -1,0 +1,9 @@
+media/
+skin/frontend/rwd/default/images/
+.gitignore
+Vagrantfile
+composer.json
+composer.lock
+magento_sample_data.sql
+modman
+modman.php

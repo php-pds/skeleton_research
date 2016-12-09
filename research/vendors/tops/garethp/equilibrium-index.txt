@@ -1,0 +1,3 @@
+src/Garethp/EquilibriumIndex/
+.gitignore
+composer.json

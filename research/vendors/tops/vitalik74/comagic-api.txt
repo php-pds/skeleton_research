@@ -1,0 +1,8 @@
+tests/
+vendor/
+.gitignore
+Comagic.php
+Exception.php
+codeception.yml
+composer.json
+readme.md

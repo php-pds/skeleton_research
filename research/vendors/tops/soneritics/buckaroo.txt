@@ -1,0 +1,6 @@
+Soneritics/Buckaroo/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json

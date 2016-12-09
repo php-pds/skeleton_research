@@ -1,0 +1,10 @@
+src/Walisph/Assets/
+tests/
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+composer.json
+phpspec.yml
+phpunit.xml

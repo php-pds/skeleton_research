@@ -1,0 +1,9 @@
+build_scripts/
+src/Conpago/Migrations/
+tests/Conpago/Migrations/
+.gitignore
+.hgignore
+build.xml
+composer.json
+humbug.json.dist
+phpunit.xml

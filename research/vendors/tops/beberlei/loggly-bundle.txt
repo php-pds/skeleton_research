@@ -1,0 +1,7 @@
+DependencyInjection/
+Monolog/Handler/
+Resources/config/
+LICENSE
+README.md
+WhitewashingLogglyBundle.php
+composer.json

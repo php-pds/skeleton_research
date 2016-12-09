@@ -1,0 +1,3 @@
+README.md
+SitelinksSearchBox.php
+composer.json

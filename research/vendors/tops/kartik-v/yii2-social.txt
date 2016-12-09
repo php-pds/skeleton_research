@@ -1,0 +1,17 @@
+.github/
+messages/
+views/
+CHANGE.md
+Disqus.php
+FacebookPlugin.php
+GithubPlugin.php
+GithubXPlugin.php
+GoogleAnalytics.php
+GooglePlugin.php
+LICENSE.md
+Module.php
+README.md
+TwitterPlugin.php
+VKPlugin.php
+Widget.php
+composer.json

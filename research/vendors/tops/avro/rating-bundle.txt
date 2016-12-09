@@ -1,0 +1,11 @@
+Controller/
+DependencyInjection/
+Doctrine/
+Document/
+Model/
+Resources/
+Twig/Extension/
+.gitignore
+AvroRatingBundle.php
+README.md
+composer.json

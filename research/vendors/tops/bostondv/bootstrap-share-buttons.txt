@@ -1,0 +1,8 @@
+.editorconfig
+.gitignore
+CHANGELOG.md
+LICENSE.md
+README.md
+bootstrap-share-buttons.php
+composer.json
+readme.txt

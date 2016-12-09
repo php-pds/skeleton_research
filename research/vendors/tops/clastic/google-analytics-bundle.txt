@@ -1,0 +1,10 @@
+DependencyInjection/
+EventListener/
+Resources/
+.editorconfig
+.gitattributes
+.gitignore
+ClasticGoogleAnalyticsBundle.php
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,14 @@
+docs/ru/
+src/
+testapp/
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+Vagrantfile
+Yii.php
+composer.json
+composer.lock
+phpunit.xml.dist

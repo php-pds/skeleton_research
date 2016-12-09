@@ -1,0 +1,3 @@
+Classes/
+.gitignore
+composer.json

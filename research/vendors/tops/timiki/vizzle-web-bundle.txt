@@ -1,0 +1,8 @@
+Controller/
+DependencyInjection/
+Listener/
+Resources/
+.gitignore
+README.md
+VizzleWebBundle.php
+composer.json

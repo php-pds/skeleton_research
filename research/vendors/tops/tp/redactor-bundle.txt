@@ -1,0 +1,12 @@
+Controller/
+DependencyInjection/
+Form/
+Model/
+Resources/
+Tests/
+.gitignore
+.travis.yml
+README.markdown
+TPRedactorBundle.php
+composer.json
+phpunit.xml.dist

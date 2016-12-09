@@ -1,0 +1,9 @@
+src/
+test/
+.borisrc
+.gitignore
+.travis.yml
+README.rst
+composer.json
+composer.lock
+phpunit.xml

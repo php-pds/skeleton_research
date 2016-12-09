@@ -1,0 +1,10 @@
+config/
+language/
+src/AdfabPartnership/
+tests/
+view/admin/adfab-partnership/
+.gitignore
+Module.php
+README.md
+composer.json
+phpunit.xml.dist

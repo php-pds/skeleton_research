@@ -1,0 +1,7 @@
+build/
+src/Mapado/VersionControlBundle/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock

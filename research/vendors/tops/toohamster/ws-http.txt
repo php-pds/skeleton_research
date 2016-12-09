@@ -1,0 +1,7 @@
+src/Ws/Http/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json
+logo.png

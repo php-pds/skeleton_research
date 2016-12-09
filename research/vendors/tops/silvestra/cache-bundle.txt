@@ -1,0 +1,9 @@
+Controller/
+DependencyInjection/
+Resources/
+.gitignore
+.travis.yml
+README.md
+SilvestraCacheBundle.php
+composer.json
+phpunit.xml.dist

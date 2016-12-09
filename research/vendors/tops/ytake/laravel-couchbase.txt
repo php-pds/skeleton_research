@@ -1,0 +1,12 @@
+src/
+tests/
+.coveralls.yml
+.gitignore
+.php_cs
+.scrutinizer.yml
+.styleci.yml
+LICENSE
+README.md
+composer.json
+phing.xml
+phpunit.xml

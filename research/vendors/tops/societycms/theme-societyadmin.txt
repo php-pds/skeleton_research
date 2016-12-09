@@ -1,0 +1,13 @@
+assets/
+resources/
+semantic/
+views/
+.gitignore
+composer.json
+elixir.json
+gulpfile.js
+package.json
+semantic.json
+theme.json
+variables.scss
+webpack.config.js

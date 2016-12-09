@@ -1,0 +1,8 @@
+spec/Phpro/SoapClient/BridgeBundle/
+src/Phpro/SoapClient/BridgeBundle/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+grumphp.yml

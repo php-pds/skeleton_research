@@ -1,0 +1,7 @@
+Magento_Catalog/templates/product/
+media/
+web/css/source/
+LICENSE.txt
+composer.json
+registration.php
+theme.xml

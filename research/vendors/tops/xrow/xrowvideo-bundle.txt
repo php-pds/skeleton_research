@@ -1,0 +1,6 @@
+DependencyInjection/
+FieldType/XrowVideo/
+Resources/config/
+README.md
+composer.json
+xrowVideoBundle.php

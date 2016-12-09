@@ -1,0 +1,8 @@
+_ide/
+controllers/
+CHANGELOG.md
+ExternalLinksComponent.php
+ExternalLinksModule.php
+LICENSE
+README.md
+composer.json

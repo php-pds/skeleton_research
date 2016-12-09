@@ -1,0 +1,11 @@
+src/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+build-phar.php
+composer.json
+money.phar
+phpunit.php
+phpunit.xml

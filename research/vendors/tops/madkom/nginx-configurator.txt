@@ -1,0 +1,15 @@
+bin/
+examples/
+src/
+tests/
+.coveralls.yml
+.gitignore
+.travis.yml
+LICENSE
+README.md
+build.xml
+composer.json
+phpcs.xml
+phpspec.yml
+phpunit.xml
+test.conf

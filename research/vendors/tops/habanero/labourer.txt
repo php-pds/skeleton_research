@@ -1,0 +1,4 @@
+lib/Labourer/
+.gitignore
+README.md
+composer.json

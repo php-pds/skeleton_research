@@ -1,0 +1,11 @@
+DependencyInjection/
+Entity/
+Listener/
+Log/
+Processor/
+Resources/config/
+.gitignore
+LICENSE
+MvErrorLogBundle.php
+README.md
+composer.json

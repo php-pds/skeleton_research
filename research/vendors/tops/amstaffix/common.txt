@@ -1,0 +1,11 @@
+Exception/
+Helpers/
+Interfaces/
+Tests/
+Traits/
+.gitignore
+.travis.yml
+ErrCode.php
+README.md
+composer.json
+phpunit.xml.dist

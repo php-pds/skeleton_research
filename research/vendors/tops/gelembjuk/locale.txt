@@ -1,0 +1,6 @@
+example/
+src/Gelembjuk/Locale/
+.gitignore
+LICENSE
+README.md
+composer.json

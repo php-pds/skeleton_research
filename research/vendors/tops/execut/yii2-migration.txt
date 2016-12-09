@@ -1,0 +1,7 @@
+Inverter.php
+LICENSE.md
+Migration.php
+MigrationTrait.php
+README.md
+Table.php
+composer.json

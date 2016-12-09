@@ -1,0 +1,13 @@
+config/
+data/
+module/Application/
+public/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+init_autoloader.php
+phpunit.xml

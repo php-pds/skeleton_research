@@ -1,0 +1,14 @@
+doc/html/
+examples/
+other/
+src/
+tests/
+vendor/
+.gitignore
+CHANGELOG
+COPYING
+Doxyfile
+README
+README.md
+composer.json
+composer.phar

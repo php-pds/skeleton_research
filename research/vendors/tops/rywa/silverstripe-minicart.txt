@@ -1,0 +1,16 @@
+_config/
+bower_components/minicart/
+code/
+docs/en/
+lang/
+templates/
+.gitattributes
+.gitignore
+.scrutinizer.yml
+README.md
+_config.php
+bower.json
+changelog.md
+composer.json
+contributing.md
+license.md

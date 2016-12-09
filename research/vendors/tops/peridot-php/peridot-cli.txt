@@ -1,0 +1,9 @@
+bin/
+fixtures/
+specs/
+src/
+.gitignore
+.travis.yml
+README.md
+appveyor.yml
+composer.json

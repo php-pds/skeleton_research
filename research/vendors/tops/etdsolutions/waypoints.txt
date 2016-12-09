@@ -1,0 +1,9 @@
+LICENSE
+README.md
+composer.json
+jquery.waypoints.js
+jquery.waypoints.min.js
+noframework.waypoints.js
+noframework.waypoints.min.js
+zepto.waypoints.js
+zepto.waypoints.min.js

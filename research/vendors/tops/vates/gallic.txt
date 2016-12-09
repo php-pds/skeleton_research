@@ -1,0 +1,6 @@
+src/
+tests/
+.gitignore
+Makefile
+composer.json
+phpunit.xml

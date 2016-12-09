@@ -1,0 +1,7 @@
+src/MatthiasNoback/Silex/Provider/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

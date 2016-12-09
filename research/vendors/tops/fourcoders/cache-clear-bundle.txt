@@ -1,0 +1,7 @@
+Command/
+DependencyInjection/
+Resources/config/
+Tests/Controller/
+FourcodersCacheclearBundle.php
+README.md
+composer.json

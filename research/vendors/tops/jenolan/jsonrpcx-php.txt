@@ -1,0 +1,8 @@
+examples/
+JsonRpcClient.php
+JsonRpcException.php
+JsonRpcServer.php
+LICENSE
+README.md
+composer.json
+documentation.html

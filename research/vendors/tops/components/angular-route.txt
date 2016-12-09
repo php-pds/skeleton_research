@@ -1,0 +1,6 @@
+LICENSE
+README.md
+angular-route.js
+angular-route.min.js
+component.json
+composer.json

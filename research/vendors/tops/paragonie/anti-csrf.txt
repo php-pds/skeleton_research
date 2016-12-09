@@ -1,0 +1,10 @@
+src/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+autoload.php
+composer.json
+run-tests.bat
+run-tests.sh

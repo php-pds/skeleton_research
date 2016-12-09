@@ -1,0 +1,11 @@
+src/Shared/
+tests/Shared/
+.gitignore
+.travis.yml
+CHANGELOG.md
+CONTRIBUTING.md
+CREDITS.md
+LICENSE.txt
+README.md
+composer.json
+phpunit.xml.dist

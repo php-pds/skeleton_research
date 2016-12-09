@@ -1,0 +1,8 @@
+Tests/
+.gitignore
+.travis.yml
+DiacriticsRemover.php
+LICENSE.md
+README.md
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,9 @@
+http/traits/
+streams/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

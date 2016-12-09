@@ -1,0 +1,7 @@
+DependencyInjection/
+Model/
+Resources/
+Service/
+AJStudioInflectBundle.php
+README.md
+composer.json

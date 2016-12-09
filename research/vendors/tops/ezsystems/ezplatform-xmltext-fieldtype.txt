@@ -1,0 +1,13 @@
+bin/.travis/
+bundle/
+lib/
+tests/
+.gitignore
+.php_cs
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit-integration-legacy-solr.xml
+phpunit-integration-legacy.xml
+phpunit.xml

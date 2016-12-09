@@ -1,0 +1,6 @@
+src/JedenWeb/Mail/
+tests/
+.gitignore
+composer.json
+license.md
+readme.md

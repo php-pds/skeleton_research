@@ -1,0 +1,10 @@
+bin/
+lib/Pipe/
+tests/
+.gitignore
+.travis.yml
+LICENSE.txt
+README.md
+bob_config.php
+composer.json
+phpunit.dist.xml

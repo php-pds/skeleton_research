@@ -1,0 +1,12 @@
+src/Urlify/
+tests/
+.gitignore
+.travis.yml
+CHANGELOG
+LICENSE
+Makefile
+README.md
+autoload.php.dist
+composer.json
+phpunit.xml-dist
+test.php

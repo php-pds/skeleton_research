@@ -1,0 +1,5 @@
+config/
+src/Content/Entity/Content/
+Module.php
+README.md
+composer.json

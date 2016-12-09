@@ -1,0 +1,9 @@
+resources/
+src/
+test/bin/
+.editorconfig
+.gitignore
+LICENSE
+README.md
+composer.json
+phpcs.xml

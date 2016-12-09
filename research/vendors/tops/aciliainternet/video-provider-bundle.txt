@@ -1,0 +1,8 @@
+DependencyInjection/
+Library/
+Resources/config/
+Service/
+.gitignore
+AciliaVideoProviderBundle.php
+composer.json
+readme.md

@@ -1,0 +1,8 @@
+Exception/
+.gitignore
+Decode.php
+Exception.php
+Message.php
+Mime.php
+Part.php
+composer.json

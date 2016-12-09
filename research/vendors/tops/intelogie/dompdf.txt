@@ -1,0 +1,13 @@
+lib/
+src/
+tests/
+.gitattributes
+.gitignore
+.travis.yml
+CONTRIBUTING.md
+LICENSE.LGPL
+README.md
+VERSION
+autoload.inc.php
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,7 @@
+lib/
+test/
+.gitignore
+LICENSE
+composer.json
+index.html
+readme.md

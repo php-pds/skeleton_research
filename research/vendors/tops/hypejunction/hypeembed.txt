@@ -1,0 +1,13 @@
+actions/embed/
+languages/
+lib/
+sass/
+screenshots/
+vendors/
+views/default/
+.gitignore
+composer.json
+config.rb
+manifest.xml
+readme.md
+start.php

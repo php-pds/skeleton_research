@@ -1,0 +1,11 @@
+config/
+resources/
+src/
+.gitignore
+LICENSE
+README.md
+composer.json
+envelope-email.png
+envelope-slack.jpg
+envelope-telegram.jpg
+envelope.png

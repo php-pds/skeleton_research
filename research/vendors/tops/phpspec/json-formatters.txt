@@ -1,0 +1,4 @@
+src/PhpSpec/JsonFormattersExtension/
+README.md
+composer.json
+phpspec.yml.dist

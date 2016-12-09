@@ -1,0 +1,14 @@
+controllers/
+entities/
+install/
+tests/
+translations/
+upgrade/
+views/
+.gitignore
+Readme.md
+composer.json
+config.xml
+index.php
+logo.png
+ps_legalcompliance.php

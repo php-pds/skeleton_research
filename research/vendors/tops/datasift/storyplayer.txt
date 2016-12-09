@@ -1,0 +1,13 @@
+dsbuild/
+src/
+storyplayer/
+.gitignore
+.scrutinizer.yml
+CHANGELOG.md
+Dockerfile
+LICENSE.txt
+README.md
+composer.json
+package.xml
+phpunit.xml.dist
+storyplayer.json.dist

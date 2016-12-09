@@ -1,0 +1,10 @@
+spec/
+src/
+.coveralls.yml
+.gitignore
+.php_cs
+.scrutinizer.yml
+.travis.yml
+README.md
+composer.json
+peridot.php

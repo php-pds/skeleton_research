@@ -1,0 +1,7 @@
+Admin/
+Frontend/
+entities/
+.gitignore
+Eshop.php
+README.md
+composer.json

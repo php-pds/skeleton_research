@@ -1,0 +1,12 @@
+docs/
+src/
+tests/
+.DS_Store
+.env
+.gitignore
+.travis.yml
+LICENSE
+Readme.md
+composer.json
+composer.lock
+phpunit.xml

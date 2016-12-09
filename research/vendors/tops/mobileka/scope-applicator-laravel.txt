@@ -1,0 +1,9 @@
+src/Mobileka/ScopeApplicator/Laravel/
+tests/
+.gitignore
+.travis.yml
+bootstrap.php
+composer.json
+license
+phpunit.xml
+readme.md

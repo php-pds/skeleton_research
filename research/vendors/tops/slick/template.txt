@@ -1,0 +1,15 @@
+bin/
+doc-templates/bootstrap/
+docs/manual/
+src/Slick/
+tests/
+.coveralls.yml
+.gitignore
+.travis.yml
+LICENSE
+README.md
+apigen-config.neon
+codeception.yml
+composer.json
+composer.lock
+custom.ini

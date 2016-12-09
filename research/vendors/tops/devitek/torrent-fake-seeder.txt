@@ -1,0 +1,4 @@
+src/Devitek/Net/Torrent/
+.gitignore
+README.md
+composer.json

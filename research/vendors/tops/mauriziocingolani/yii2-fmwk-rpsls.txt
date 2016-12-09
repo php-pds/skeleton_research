@@ -1,0 +1,6 @@
+assets/
+views/
+.gitignore
+RpslsAsset.php
+RpslsWidget.php
+composer.json

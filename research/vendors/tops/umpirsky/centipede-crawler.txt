@@ -1,0 +1,9 @@
+examples/
+spec/Centipede/
+src/Centipede/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock

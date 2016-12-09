@@ -1,0 +1,12 @@
+Block/Adminhtml/System/Config/
+Controller/Abandoned/
+Helper/
+Model/
+Setup/
+etc/
+view/adminhtml/
+CONTRIBUTING.md
+README.md
+composer.json
+phpunit_config.xml
+registration.php

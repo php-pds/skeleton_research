@@ -1,0 +1,6 @@
+app/config/
+src/Arhitect/ControllerDispatcher/
+.gitignore
+LICENSE
+composer.json
+post-install.md

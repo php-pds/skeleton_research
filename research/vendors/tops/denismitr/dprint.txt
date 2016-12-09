@@ -1,0 +1,6 @@
+vendor/
+.gitignore
+LICENSE
+README.md
+composer.json
+dprint.php

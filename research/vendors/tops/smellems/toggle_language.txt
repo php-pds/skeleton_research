@@ -1,0 +1,5 @@
+actions/
+views/default/toggle_language/
+composer.json
+manifest.xml
+start.php

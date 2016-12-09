@@ -1,0 +1,10 @@
+Compiler/
+Config/
+I18n/
+Template/
+Tests/Template/
+CREDITS.md
+LICENSE.txt
+Readme.md
+TheliaSmarty.php
+composer.json

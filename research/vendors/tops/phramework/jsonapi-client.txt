@@ -1,0 +1,9 @@
+src/
+tests/
+.gitignore
+.gitlab-ci.yml
+LICENSE
+NOTICE
+README.md
+composer.json
+phpunit.xml

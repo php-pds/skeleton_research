@@ -1,0 +1,14 @@
+node_modules/
+src/
+.gitignore
+.hhconfig
+.npmignore
+CONTRIBUTING.md
+LICENSE
+PATENTS
+README.md
+composer.json
+composer.lock
+package.json
+xhpjs.js
+xhpjs.min.js

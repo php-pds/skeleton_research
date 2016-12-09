@@ -1,0 +1,5 @@
+examples/config/
+lib/
+README.md
+build.php
+composer.json

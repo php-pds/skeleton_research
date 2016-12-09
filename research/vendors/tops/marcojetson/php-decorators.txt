@@ -1,0 +1,10 @@
+src/Decorator/
+tests/Decorator/
+.codeclimate.yml
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

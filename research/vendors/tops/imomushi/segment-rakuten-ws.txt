@@ -1,0 +1,11 @@
+src/Segment/
+tests/Segment/
+.gitattributes
+.gitignore
+.travis.yml
+LICENSE
+Makefile
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

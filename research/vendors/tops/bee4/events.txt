@@ -1,0 +1,12 @@
+src/
+test/units/
+.atoum.php
+.bootstrap.atoum.php
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpcs.xml
+phpdoc.dist.xml

@@ -1,0 +1,6 @@
+.gitignore
+README.md
+composer.json
+push-tags
+subtree-split
+subtree-split.config

@@ -1,0 +1,6 @@
+.gitattributes
+.gitignore
+ImageX.php
+LICENSE.md
+README.md
+composer.json

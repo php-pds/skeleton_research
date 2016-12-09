@@ -1,0 +1,7 @@
+controllers/
+views/
+composer.json
+index.php
+logo.png
+payment.jpg
+paymentexample.php

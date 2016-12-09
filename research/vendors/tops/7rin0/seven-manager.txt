@@ -1,0 +1,17 @@
+app/
+src/
+web/
+.bowerrc
+.gitattributes
+.gitignore
+.travis.yml
+Dockerfile
+Gruntfile.js
+LICENSE
+Makefile
+README.md
+bower.json
+composer.json
+composer.lock
+package.json
+phpunit.xml.dist

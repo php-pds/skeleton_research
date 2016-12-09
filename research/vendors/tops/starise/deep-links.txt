@@ -1,0 +1,6 @@
+Widgets/
+DeepLinks.php
+LICENSE
+README.md
+composer.json
+wp-deep-links.php

@@ -1,0 +1,9 @@
+src/Elgg/
+.gitattributes
+.gitignore
+CHANGELOG.md
+Gruntfile.js
+README.md
+composer.json
+elgg-cli
+package.json

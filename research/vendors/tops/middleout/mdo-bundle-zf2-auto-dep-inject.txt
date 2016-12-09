@@ -1,0 +1,6 @@
+config/
+src/MdoBundleZf2AutoDepInject/Factory/
+LICENSE
+Module.php
+README.md
+composer.json

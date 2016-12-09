@@ -1,0 +1,12 @@
+languages/
+lib/
+vendors/parsley/
+views/default/
+.gitattributes
+.gitignore
+Gruntfile.js
+README.md
+composer.json
+manifest.xml
+package.json
+start.php

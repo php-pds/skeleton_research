@@ -1,0 +1,13 @@
+documentation/
+src/Stefanius/LaravelFixtures/
+testdata/
+tests/
+.gitignore
+.php_cs
+.travis.yml
+composer.json
+composer.lock
+phpci.yml
+phpmd-ruleset.xml
+phpunit.xml
+readme.md

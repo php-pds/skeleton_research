@@ -1,0 +1,4 @@
+src/Bazo/Mandrill/
+.gitignore
+README.md
+composer.json

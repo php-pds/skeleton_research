@@ -1,0 +1,10 @@
+Controller/
+DependencyInjection/
+Resources/
+Services/
+.gitignore
+.travis.yml
+CHANGELOG.md
+PumukitPaellaPlayerBundle.php
+README.md
+composer.json

@@ -1,0 +1,7 @@
+DependencyInjection/
+Resources/config/
+.gitignore
+LICENSE
+README.md
+YproximiteEkomiApiBundle.php
+composer.json

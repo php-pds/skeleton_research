@@ -1,0 +1,6 @@
+src/Appsco/PanCropBundle/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock

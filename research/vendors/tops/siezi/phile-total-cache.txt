@@ -1,0 +1,6 @@
+Classes/
+LICENSE
+README.md
+chart.png
+composer.json
+config.php

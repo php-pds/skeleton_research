@@ -1,0 +1,6 @@
+src/Pkj/Minibase/Plugin/DoctrinePlugin/
+tests/
+.gitignore
+README.md
+composer.json
+phpunit.xml.dist

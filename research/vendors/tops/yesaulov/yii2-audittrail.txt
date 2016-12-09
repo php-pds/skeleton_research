@@ -1,0 +1,5 @@
+migrations/
+.gitignore
+LoggableBehavior.php
+README.md
+composer.json

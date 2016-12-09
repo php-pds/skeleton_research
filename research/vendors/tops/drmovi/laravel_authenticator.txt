@@ -1,0 +1,3 @@
+src/MostafaDarwish/Laravel/Auth/
+tests/
+composer.json

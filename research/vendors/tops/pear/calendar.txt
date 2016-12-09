@@ -1,0 +1,8 @@
+Calendar/
+docs/
+tests/
+.gitignore
+.travis.yml
+composer.json
+package.xml
+phpunit.xml.dist

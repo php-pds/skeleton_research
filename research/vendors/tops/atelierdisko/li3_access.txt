@@ -1,0 +1,6 @@
+config/
+security/
+tests/
+LICENSE.txt
+README.md
+composer.json

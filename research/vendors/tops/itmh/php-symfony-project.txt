@@ -1,0 +1,16 @@
+app/
+bin/
+build/
+etc/
+src/AppBundle/
+test/
+var/
+web/
+.editorconfig
+.gitignore
+LICENSE
+README.md
+build.xml
+composer.json
+composer.lock
+phpunit.xml

@@ -1,0 +1,6 @@
+src/Dupp/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock

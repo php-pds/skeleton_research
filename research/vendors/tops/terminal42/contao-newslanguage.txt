@@ -1,0 +1,7 @@
+config/
+dca/
+languages/
+.gitignore
+CHANGELOG.md
+NewsLanguage.php
+composer.json

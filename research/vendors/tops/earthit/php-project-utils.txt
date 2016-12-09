@@ -1,0 +1,6 @@
+bin/
+lib/EarthIT/ProjectUtil/DB/
+.travis.yml
+LICENSE.txt
+Makefile
+composer.json

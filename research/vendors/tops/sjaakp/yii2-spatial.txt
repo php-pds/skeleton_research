@@ -1,0 +1,7 @@
+.gitignore
+ActiveQuery.php
+ActiveRecord.php
+LICENSE
+README.md
+SpatialHelper.php
+composer.json

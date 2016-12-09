@@ -1,0 +1,6 @@
+DependencyInjection/
+Resources/config/
+.gitignore
+LICENSE
+SoilAckServiceBundle.php
+composer.json

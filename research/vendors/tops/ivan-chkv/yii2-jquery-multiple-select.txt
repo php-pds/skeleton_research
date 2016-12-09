@@ -1,0 +1,10 @@
+tests/
+.gitignore
+.travis.yml
+LICENSE
+MultipleSelect.php
+MultipleSelectAsset.php
+README.md
+SingleSelect.php
+composer.json
+phpunit.xml.dist

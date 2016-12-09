@@ -1,0 +1,12 @@
+Command/
+DependencyInjection/
+Generator/
+Resources/
+Tests/
+Unit/
+.gitignore
+.travis.yml
+DreamlexSystemdBundle.php
+README.md
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,2 @@
+class-wp-virtual-posts.php
+composer.json

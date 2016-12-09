@@ -1,0 +1,11 @@
+config/
+src/
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+README.md
+composer.json
+container.yml
+package-container.yml
+phpunit.xml

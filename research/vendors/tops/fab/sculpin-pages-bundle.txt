@@ -1,0 +1,6 @@
+DependencyInjection/
+Resources/config/
+PagesGenerator.php
+README.md
+SculpinPagesBundle.php
+composer.json

@@ -1,0 +1,10 @@
+lib/
+tests/
+.gitignore
+.travis.yml
+README.md
+composer.json
+migrate-2.2.md
+migrate-2.3.md
+phpunit.xml
+psc-cms-boot.sublime-project

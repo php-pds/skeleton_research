@@ -1,0 +1,12 @@
+Controller/
+DependencyInjection/
+Models/
+Resources/config/
+Services/
+Tests/
+.gitignore
+.travis.yml
+README.md
+WkAmazonMwsApi.php
+composer.json
+phpunit.xml.dist

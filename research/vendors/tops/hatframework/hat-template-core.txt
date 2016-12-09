@@ -1,0 +1,8 @@
+exceptions/
+.gitattributes
+.gitignore
+composer.json
+fonts.php
+head.php
+messages.php
+rodape.php

@@ -1,0 +1,7 @@
+pages/
+.gitignore
+LICENSE
+Makefile
+README.md
+build.php
+composer.json

@@ -1,0 +1,6 @@
+samples/
+src/Progi1984/
+tests/units/Progi1984/
+.travis.yml
+README.md
+composer.json

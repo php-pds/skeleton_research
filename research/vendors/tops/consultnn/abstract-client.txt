@@ -1,0 +1,9 @@
+exceptions/
+mappers/
+.gitignore
+AbstractDomain.php
+ApiConnection.php
+CHANGELOG.md
+README.md
+composer.json
+ruleset.xml

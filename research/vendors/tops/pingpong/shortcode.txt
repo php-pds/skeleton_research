@@ -1,0 +1,9 @@
+tests/
+.gitignore
+LICENSE
+README.md
+Shortcode.php
+ShortcodeFacade.php
+ShortcodeServiceProvider.php
+composer.json
+phpunit.xml.dist

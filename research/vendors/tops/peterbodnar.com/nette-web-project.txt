@@ -1,0 +1,10 @@
+config/
+docroot/
+logs/
+src/
+temp/
+.editorconfig
+.gitignore
+.htaccess
+README.md
+composer.json

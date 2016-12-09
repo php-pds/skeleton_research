@@ -1,0 +1,6 @@
+Classes/
+Icon.png
+LICENSE
+README.md
+composer.json
+config.php

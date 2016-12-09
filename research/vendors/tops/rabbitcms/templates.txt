@@ -1,0 +1,16 @@
+Assets/backend/
+Config/
+Contracts/
+DataProviders/
+Database/Migrations/
+Entities/
+Http/
+Jobs/
+Providers/
+Resources/
+Twig/
+.gitignore
+LICENSE
+README.md
+Templates.php
+composer.json

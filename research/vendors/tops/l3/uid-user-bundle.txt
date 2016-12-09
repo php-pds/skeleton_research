@@ -1,0 +1,8 @@
+Controller/
+DependencyInjection/
+Entity/
+Resources/
+Services/
+L3UidUserBundle.php
+README.md
+composer.json

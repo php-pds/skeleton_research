@@ -1,0 +1,6 @@
+SkullyLang/
+Tests/
+public/views/skullyLang/siteLanguages/
+.gitignore
+README.md
+composer.json

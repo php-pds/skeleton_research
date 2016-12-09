@@ -1,0 +1,8 @@
+_config/
+assets/javascript/
+code/Extension/
+.php_cs
+LICENSE
+README.md
+_config.php
+composer.json

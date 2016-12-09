@@ -1,0 +1,10 @@
+bin/
+src/RawPHP/RawConsole/
+tests/
+.coveralls.yml
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpdoc.dist.xml

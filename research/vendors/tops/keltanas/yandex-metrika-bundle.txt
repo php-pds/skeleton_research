@@ -1,0 +1,8 @@
+app/
+src/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+behat.yml
+composer.json

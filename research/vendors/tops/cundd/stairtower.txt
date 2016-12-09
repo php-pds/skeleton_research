@@ -1,0 +1,11 @@
+.idea/
+Classes/
+Resources/Public/
+Tests/
+bin/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock

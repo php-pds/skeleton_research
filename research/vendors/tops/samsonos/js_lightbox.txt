@@ -1,0 +1,6 @@
+css/
+img/
+README.md
+SJSLighBox.js
+composer.json
+samson.php

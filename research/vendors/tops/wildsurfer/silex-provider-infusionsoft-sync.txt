@@ -1,0 +1,8 @@
+src/Wildsurfer/Infusionsoft/Silex/Provider/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

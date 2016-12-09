@@ -1,0 +1,6 @@
+src/Grid/Installer/
+vendor/
+.gitignore
+LICENSE.txt
+README.md
+composer.json

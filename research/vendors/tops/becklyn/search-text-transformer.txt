@@ -1,0 +1,9 @@
+Text/
+Transformer/
+tests/
+.travis.yml
+LICENSE
+README.md
+SearchTextTransformer.php
+composer.json
+phpunit.xml

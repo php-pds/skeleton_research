@@ -1,0 +1,11 @@
+Configuration/
+Scripts/EntryPoint/
+bin/
+docs/
+.dockerignore
+.gitignore
+CHANGELOG
+Dockerfile
+README.md
+composer.json
+docker-compose.yml

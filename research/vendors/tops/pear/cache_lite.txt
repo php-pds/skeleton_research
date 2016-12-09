@@ -1,0 +1,11 @@
+Cache/
+docs/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+TODO
+composer.json
+package.xml
+phpunit.xml.dist

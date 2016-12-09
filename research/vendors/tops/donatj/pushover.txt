@@ -1,0 +1,5 @@
+example/
+lib/donatj/
+LICENSE.md
+README.md
+composer.json

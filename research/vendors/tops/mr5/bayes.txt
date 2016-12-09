@@ -1,0 +1,9 @@
+src/Mr5/Bayes/
+tests/Mr5/Bayes/Tests/
+.coveralls.yml
+.gitignore
+.travis.yml
+LICENSE.md
+README.md
+composer.json
+phpunit.xml.dist

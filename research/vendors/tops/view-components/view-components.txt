@@ -1,0 +1,15 @@
+doc/
+resources/
+src/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+Procfile
+README.md
+apigen.neon
+circle.yml
+code_of_conduct.md
+composer.json
+contributing.md
+phpunit.xml.dist

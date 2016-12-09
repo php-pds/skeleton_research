@@ -1,0 +1,5 @@
+demo/
+GnuPlot.php
+LICENSE
+README.md
+composer.json

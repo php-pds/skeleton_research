@@ -1,0 +1,7 @@
+src/Boyhagemann/Scrape/
+tests/
+.gitignore
+.travis.yml
+composer.json
+phpunit.xml
+readme.md

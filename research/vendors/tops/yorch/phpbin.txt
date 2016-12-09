@@ -1,0 +1,11 @@
+.gitignore
+BIN.class.php
+LICENSE
+PhpBIN.class.php
+PhpBINTest.php
+PhpBINTestMon.php
+PhpBINTestMy.php
+README.md
+binbase.sql
+composer.json
+mongo.script

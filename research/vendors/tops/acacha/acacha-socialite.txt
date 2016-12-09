@@ -1,0 +1,14 @@
+src/
+tests/
+.gitignore
+.php_cs
+.travis.yml
+LICENSE.txt
+README.md
+composer.json
+phpunit.xml
+sandbox_destroy.sh
+sandbox_setup.sh
+sandbox_setup_withadminlte.sh
+test-with-adminlte.sh
+test.sh

@@ -1,0 +1,9 @@
+lib/There4/Slim/Middleware/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml

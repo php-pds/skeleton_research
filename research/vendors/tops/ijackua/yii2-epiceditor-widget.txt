@@ -1,0 +1,7 @@
+assets/
+.gitignore
+Epiceditor.php
+EpiceditorAssets.php
+LICENSE
+README.md
+composer.json

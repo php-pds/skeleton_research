@@ -1,0 +1,10 @@
+demo/
+src/
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.coverage.sh
+.travis.yml
+README.md
+composer.json
+phpunit.xml.dist

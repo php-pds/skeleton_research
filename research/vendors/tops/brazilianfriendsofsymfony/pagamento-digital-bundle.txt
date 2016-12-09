@@ -1,0 +1,10 @@
+DependencyInjection/
+Entity/
+Event/
+PagamentoDigital/
+Resources/
+Tests/Controller/
+Twig/
+BFOSPagamentoDigitalBundle.php
+README.markdown
+composer.json

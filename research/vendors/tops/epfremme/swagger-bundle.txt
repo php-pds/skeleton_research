@@ -1,0 +1,7 @@
+mock-api/
+src/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock

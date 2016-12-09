@@ -1,0 +1,10 @@
+config/
+tests/functional/
+.gitignore
+CHANGELOG.md
+LICENSE
+README.md
+VERSION
+composer.json
+di.yml
+phpunit.xml.dist

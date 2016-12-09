@@ -1,0 +1,11 @@
+Controller/
+DependencyInjection/
+Entity/
+Jira/
+Resources/
+Security/
+Tests/Controller/
+User/
+DGJiraAuthBundle.php
+README.md
+composer.json

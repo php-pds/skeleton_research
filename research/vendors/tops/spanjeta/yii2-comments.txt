@@ -1,0 +1,6 @@
+migrations/
+models/
+views/
+CommentsWidget.php
+README.md
+composer.json

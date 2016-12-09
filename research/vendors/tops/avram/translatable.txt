@@ -1,0 +1,6 @@
+config/
+migrations/
+seeds/
+src/
+README.md
+composer.json

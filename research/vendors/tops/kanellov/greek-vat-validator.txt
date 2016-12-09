@@ -1,0 +1,6 @@
+.gitignore
+.php_cs
+LICENSE
+README.md
+composer.json
+greek_vat_validator.php

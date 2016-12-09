@@ -1,0 +1,8 @@
+client-side/
+src/IPub/WeatherWidget/
+.gitignore
+bower.json
+composer.json
+license.md
+readme.md
+widget.neon

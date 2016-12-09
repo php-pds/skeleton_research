@@ -1,0 +1,11 @@
+tests/
+.gitattributes
+.gitignore
+.travis.yml
+CHANGELOG.md
+EagerJoinQueryTrait.php
+EagerJoinTrait.php
+LICENSE.md
+README.md
+composer.json
+phpunit.xml.dist

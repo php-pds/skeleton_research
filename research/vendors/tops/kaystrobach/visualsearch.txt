@@ -1,0 +1,6 @@
+Classes/KayStrobach/VisualSearch/
+Configuration/
+Documentation/
+Resources/
+README.md
+composer.json

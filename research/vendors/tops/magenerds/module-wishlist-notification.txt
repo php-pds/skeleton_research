@@ -1,0 +1,13 @@
+Block/Adminhtml/Notification/
+Controller/Adminhtml/Notification/
+Helper/
+Model/
+Observer/
+Setup/
+Ui/
+etc/
+view/adminhtml/
+.gitignore
+README.md
+composer.json
+registration.php

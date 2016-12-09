@@ -1,0 +1,12 @@
+bin/
+lib/
+spec/Rackem/
+test/
+vendor/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+rackem.php

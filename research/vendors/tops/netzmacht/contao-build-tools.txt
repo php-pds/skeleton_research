@@ -1,0 +1,10 @@
+src/Netzmacht/Contao/BuildTools/
+.check-author.yml
+.gitignore
+.travis.yml
+README.md
+autoload.php
+build.default.properties
+build.xml
+composer.json
+netzmacht.main.xml

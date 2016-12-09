@@ -1,0 +1,13 @@
+phpunit/tests/
+src/
+.coveralls.yml
+.gitattributes
+.gitignore
+.semver
+.travis.yml
+LICENSE
+RoboFile.php
+composer.json
+composer.lock
+phpunit.xml
+robo

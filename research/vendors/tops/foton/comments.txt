@@ -1,0 +1,4 @@
+admin/
+components/comments/
+comments.ext.php
+composer.json

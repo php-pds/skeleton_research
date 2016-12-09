@@ -1,0 +1,13 @@
+assets/
+controllers/
+interfaces/
+migrations/
+models/
+views/schedule/
+web/
+.gitignore
+Bootstrap.php
+Module.php
+README.md
+Schedule.php
+composer.json

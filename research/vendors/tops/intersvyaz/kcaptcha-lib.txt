@@ -1,0 +1,6 @@
+fonts/
+.gitignore
+KCaptcha.php
+README.md
+composer.json
+index.php

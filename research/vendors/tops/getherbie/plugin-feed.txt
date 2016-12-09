@@ -1,0 +1,6 @@
+pages/
+LICENCE.md
+README.md
+blueprint.yml
+composer.json
+feed.php

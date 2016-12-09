@@ -1,0 +1,10 @@
+js/
+src/Form/
+bugherd.drush.inc
+bugherd.info.yml
+bugherd.libraries.yml
+bugherd.links.menu.yml
+bugherd.module
+bugherd.permissions.yml
+bugherd.routing.yml
+composer.json

@@ -1,0 +1,3 @@
+src/Druidvav/EssentialsBundle/
+.gitignore
+composer.json

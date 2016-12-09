@@ -1,0 +1,15 @@
+Controller/
+DependencyInjection/
+Entity/
+EventListener/
+Form/
+Module/
+Resources/
+Routing/
+Tests/
+.gitignore
+ClasticAliasBundle.php
+LICENSE
+bower.json
+clastic.js
+composer.json

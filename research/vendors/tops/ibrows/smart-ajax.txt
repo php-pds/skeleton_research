@@ -1,0 +1,8 @@
+DependencyInjection/
+Listener/
+Resources/
+.gitignore
+IbrowsSmartAjaxBundle.php
+LICENSE.txt
+README.md
+composer.json

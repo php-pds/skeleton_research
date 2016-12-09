@@ -1,0 +1,8 @@
+README.md
+bower.json
+component.json
+composer.json
+jquery.js
+jquery.min.js
+jquery.min.map
+package.json

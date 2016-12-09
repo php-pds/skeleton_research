@@ -1,0 +1,10 @@
+docs/
+src/
+test/
+.codeclimate.yml
+.gitignore
+.htaccess
+.travis.yml
+LICENSE
+README.md
+composer.json

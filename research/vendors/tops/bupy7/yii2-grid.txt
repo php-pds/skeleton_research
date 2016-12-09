@@ -1,0 +1,16 @@
+actions/
+assets/
+base/
+components/
+docs/
+interfaces/
+resources/
+widgets/
+.gitignore
+CHANGELOG.md
+DataColumn.php
+GridView.php
+LinkPageSizer.php
+README.md
+TotalColumn.php
+composer.json

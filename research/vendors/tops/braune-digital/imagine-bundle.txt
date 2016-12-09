@@ -1,0 +1,10 @@
+Controller/
+DependencyInjection/
+Imagine/
+Model/
+Resizer/
+Resources/config/
+Templating/
+Twig/
+BrauneDigitalImagineBundle.php
+composer.json

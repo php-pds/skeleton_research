@@ -1,0 +1,12 @@
+bin/
+hooks/
+src/
+tests/
+.dockerignore
+.gitignore
+.travis.yml
+Dockerfile
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

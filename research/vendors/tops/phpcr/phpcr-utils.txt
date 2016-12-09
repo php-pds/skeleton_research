@@ -1,0 +1,11 @@
+bin/
+src/PHPCR/Util/
+tests/
+.gitignore
+.styleci.yml
+.travis.yml
+CHANGELOG.md
+LICENSE.txt
+README.md
+cli-config.php.dist
+composer.json

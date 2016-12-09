@@ -1,0 +1,11 @@
+protected/
+public/
+.gitignore
+.htaccess
+bootstrap.php
+composer.json
+constants.php
+index.php
+license.md
+readme.md
+wheel

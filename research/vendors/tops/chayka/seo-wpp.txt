@@ -1,0 +1,15 @@
+app/
+.bowerrc
+.csslintrc
+.editorconfig
+.gitignore
+.jshintrc
+.yo-rc.json
+Chayka.SEO.wpp.php
+Gruntfile.js
+Plugin.php
+README.md
+bower.json
+chayka.json
+composer.json
+package.json

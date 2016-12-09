@@ -1,0 +1,12 @@
+src/
+.editorconfig
+.gitattributes
+.gitignore
+.styleci.yml
+CHANGELOG.md
+CONDUCT.md
+CONTRIBUTING.md
+LICENSE.md
+README.md
+circle.yml
+composer.json

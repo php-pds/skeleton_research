@@ -1,0 +1,16 @@
+Docker/
+app/
+bootstrap/
+dump/CrowdTruth_DEV/
+provider/assets/
+public/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+Dockerfile
+README.md
+artisan
+composer.json
+composer.lock
+phpunit.xml
+server.php

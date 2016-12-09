@@ -1,0 +1,8 @@
+src/MigrationTool/
+tests/MigrationTool/
+.gitignore
+LICENSE
+README.md
+VERSIONING.md
+composer.json
+phpunit.xml

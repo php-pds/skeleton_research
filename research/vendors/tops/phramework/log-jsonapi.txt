@@ -1,0 +1,11 @@
+src/
+tests/
+.codeclimate.yml
+.gitignore
+.travis.yml
+CONTRIBUTING
+LICENSE
+NOTICE
+README.md
+composer.json
+phpunit.xml

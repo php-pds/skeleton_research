@@ -1,0 +1,5 @@
+.idea/
+Auth/
+.gitignore
+LICENSE
+composer.json

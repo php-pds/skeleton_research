@@ -1,0 +1,11 @@
+configuration/
+controllers/
+graph/
+models/
+templates/
+.gitignore
+activities.php
+composer.json
+interface.php
+logs.php
+manifest.yml

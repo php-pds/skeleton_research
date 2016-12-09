@@ -1,0 +1,11 @@
+Core/
+Model/
+docs/
+out/pictures/
+tests/
+translations/
+views/admin/
+CONTRIBUTING.md
+README.rst
+composer.json
+metadata.php

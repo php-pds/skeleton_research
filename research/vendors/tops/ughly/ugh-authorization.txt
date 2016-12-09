@@ -1,0 +1,11 @@
+build/config/
+config/
+src/UghAuthorization/
+test/
+view/error/
+.gitignore
+.travis.yml
+LICENSE
+Module.php
+README.md
+composer.json

@@ -1,0 +1,7 @@
+Classes/Controller/
+Configuration/
+Resources/
+.styleci.yml
+LICENSE
+Readme.rst
+composer.json

@@ -1,0 +1,14 @@
+hhi/
+nbproject/
+src/
+tests/
+.gitignore
+.hhconfig
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+build-mongodb.sh
+composer.json
+phpunit.xml.dist
+travis-php.ini

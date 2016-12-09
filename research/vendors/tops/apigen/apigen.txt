@@ -1,0 +1,17 @@
+bin/
+src/
+tests/
+.editorconfig
+.gitattributes
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CONTRIBUTING.md
+LICENSE
+README.md
+UPGRADE-4.0.md
+box.json
+composer.json
+generate-api.sh
+phpunit.xml.dist
+update-gh-pages.sh

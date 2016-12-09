@@ -1,0 +1,5 @@
+spec/Lms42/Propel/Ownerable/
+src/Lms42/Propel/Ownerable/
+.gitignore
+README
+composer.json

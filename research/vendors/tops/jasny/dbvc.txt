@@ -1,0 +1,5 @@
+bin/
+src/Jasny/
+.gitignore
+README.md
+composer.json

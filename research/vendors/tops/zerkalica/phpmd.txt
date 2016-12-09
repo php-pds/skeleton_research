@@ -1,0 +1,13 @@
+lib/
+setup @ 595191c
+src/
+.gitignore
+.gitmodules
+AUTHORS.rst
+CHANGELOG
+LICENSE
+README.rst
+build.properties
+build.xml
+composer.json
+phpunit.xml.dist

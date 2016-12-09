@@ -1,0 +1,15 @@
+Attachment/
+DependencyInjection/
+Form/
+Resources/
+Tests/
+Twig/
+build/
+.gitignore
+.travis.yml
+CHANGELOG.md
+InfiniteFormBundle.php
+README.md
+build.xml
+composer.json
+phpunit.xml.dist

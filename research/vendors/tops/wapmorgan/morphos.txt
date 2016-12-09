@@ -1,0 +1,17 @@
+tests/
+web/
+.travis.yml
+BasicDeclension.php
+BasicNamesDeclension.php
+BasicPlurality.php
+Cases.php
+EnglishPlurality.php
+README.md
+Russian.php
+RussianCases.php
+RussianGeneralDeclension.php
+RussianNamesDeclension.php
+RussianPlurality.php
+composer.json
+functions.php
+test.php

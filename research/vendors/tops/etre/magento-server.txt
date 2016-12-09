@@ -1,0 +1,6 @@
+Console/Command/
+etc/
+.gitignore
+README.md
+composer.json
+registration.php

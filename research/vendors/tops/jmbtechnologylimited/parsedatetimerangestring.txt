@@ -1,0 +1,7 @@
+src/JMBTechnologyLimited/ParseDateTimeRangeString/
+tests/
+.travis.yml
+LICENSE.txt
+README.txt
+composer.json
+testAString.php

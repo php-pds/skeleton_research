@@ -1,0 +1,8 @@
+Block/
+DependencyInjection/
+Resources/
+.gitignore
+LICENSE
+README.md
+SonataDashboardBundle.php
+composer.json

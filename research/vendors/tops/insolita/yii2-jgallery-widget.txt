@@ -1,0 +1,5 @@
+assets/jgallery/
+JGalleryAsset.php
+JGalleryWidget.php
+README.md
+composer.json

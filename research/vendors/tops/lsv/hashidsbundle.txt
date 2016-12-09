@@ -1,0 +1,8 @@
+DependencyInjection/
+Resources/config/
+Twig/
+.gitignore
+LICENSE
+LsvHashidsBundle.php
+README.md
+composer.json

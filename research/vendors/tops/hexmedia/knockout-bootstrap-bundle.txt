@@ -1,0 +1,16 @@
+Command/
+Composer/
+DependencyInjection/
+Resources/
+nbproject/
+.gitignore
+HexmediaKnockoutBootstrapBundle.php
+LICENSE
+README.md
+Readme.md
+build.xml
+composer.json
+composer.phar
+phpmd.xml
+phpunit.xml
+phpunit.xml.dist

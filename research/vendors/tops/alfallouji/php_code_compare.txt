@@ -1,0 +1,5 @@
+lib/
+sample/
+README.md
+compare.php
+composer.json

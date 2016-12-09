@@ -1,0 +1,6 @@
+LICENSE
+README.md
+composer.json
+da_DK.csv
+language.xml
+registration.php

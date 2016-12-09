@@ -1,0 +1,6 @@
+Model/Datasource/
+Test/Case/
+.editorconfig
+.travis.yml
+README.markdown
+composer.json

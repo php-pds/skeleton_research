@@ -1,0 +1,7 @@
+lib/
+nbproject/
+starter-code/
+.gitignore
+README.md
+composer.json
+init.bash

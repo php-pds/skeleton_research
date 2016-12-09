@@ -1,0 +1,9 @@
+src/Dontdrinkandroot/
+test/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE.txt
+README.md
+composer.json
+phpunit.xml.dist

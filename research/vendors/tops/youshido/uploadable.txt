@@ -1,0 +1,12 @@
+Annotations/
+DependencyInjection/
+Holder/
+Listener/
+Manager/
+Resources/config/
+Tools/
+Type/
+.gitignore
+README.md
+UploadableBundle.php
+composer.json

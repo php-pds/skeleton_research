@@ -1,0 +1,13 @@
+Kwf/Extensible/Assets/
+cache/
+tests/Kwf/Extensible/
+.gitignore
+.travis.yml
+COPYING
+README.md
+composer.json
+composer.lock
+dependencies.ini
+extensible-lang-en.js
+phpunit.xml
+tests.bootstrap.php

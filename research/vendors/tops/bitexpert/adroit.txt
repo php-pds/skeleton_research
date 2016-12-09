@@ -1,0 +1,11 @@
+src/bitExpert/Adroit/
+tests/
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+build.xml
+composer.json
+composer.lock
+phpdoc.dist.xml
+phpunit.xml.dist

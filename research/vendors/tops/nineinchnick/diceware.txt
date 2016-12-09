@@ -1,0 +1,5 @@
+Diceware.php
+README.md
+composer.json
+diceware.pl.wordlist
+diceware.wordlist

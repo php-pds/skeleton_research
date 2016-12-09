@@ -1,0 +1,11 @@
+code/
+css/
+images/
+javascript/
+templates/
+.editorconfig
+.scrutinizer.yml
+LICENSE.md
+_config.php
+composer.json
+readme.md

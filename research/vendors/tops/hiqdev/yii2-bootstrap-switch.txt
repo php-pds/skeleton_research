@@ -1,0 +1,6 @@
+BootstrapSwitch.php
+BootstrapSwitchAsset.php
+BootstrapSwitchColumn.php
+BootstrapSwitchTrait.php
+README.md
+composer.json

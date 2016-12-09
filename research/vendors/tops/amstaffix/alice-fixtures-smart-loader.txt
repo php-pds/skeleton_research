@@ -1,0 +1,8 @@
+Benchmarks/
+Tests/
+.gitignore
+.travis.yml
+FixturesLoader.php
+README.md
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,7 @@
+scripts/
+src/KalmanOlah/QueryFilter/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json

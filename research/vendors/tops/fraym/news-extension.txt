@@ -1,0 +1,4 @@
+Extension/News/
+Template/Default/Extension/News/
+.gitignore
+composer.json

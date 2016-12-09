@@ -1,0 +1,10 @@
+Controller/
+Resources/
+Tests/Controller/
+Util/
+.gitignore
+.travis.yml
+CSCoreBundle.php
+README.md
+composer.json
+phpunit.xml.dist

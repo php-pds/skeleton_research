@@ -1,0 +1,9 @@
+.idea/
+logs/
+public/
+settings/
+source/
+.gitignore
+.htaccess
+README.md
+composer.json

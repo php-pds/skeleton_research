@@ -1,0 +1,14 @@
+build/
+env/
+examples/
+src/Server/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+Vagrantfile
+build.xml
+composer.json
+phpunit.xml.dist
+travis.phpunit.xml

@@ -1,0 +1,11 @@
+config/
+src/Modules/
+tests/
+view/
+.gitignore
+Module.php
+README.md
+autoload_classmap.php
+codeception.yml
+composer.json
+init_autoloader.php

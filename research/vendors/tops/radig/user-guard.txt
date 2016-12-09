@@ -1,0 +1,6 @@
+Model/Behavior/
+Test/
+.travis.yml
+LICENSE
+README.textile
+composer.json

@@ -1,0 +1,8 @@
+i18n/
+LICENSE
+Linkrel.i18n.magic.php
+Linkrel.i18n.php
+Linkrel.php
+Linkrel_body.php
+README.md
+composer.json

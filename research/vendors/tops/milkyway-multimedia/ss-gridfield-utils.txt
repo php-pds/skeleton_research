@@ -1,0 +1,15 @@
+_assets/
+code/
+css/
+docs/en/
+js/
+templates/
+.editorconfig
+.gitattributes
+.gitignore
+.scrutinizer.yml
+README.md
+_config.php
+assets.json
+composer.json
+package.json

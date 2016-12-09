@@ -1,0 +1,13 @@
+Tests/
+src/Liip/Drupal/Modules/EventManager/
+translations/
+.gitignore
+.travis.yml
+LICENSE
+ReadMe.md
+composer.json
+composer.lock
+drupaleventmanagermodule.info
+drupaleventmanagermodule.module
+phpunit.xml.dist
+travis.phpunit.xml

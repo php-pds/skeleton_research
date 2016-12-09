@@ -1,0 +1,16 @@
+Database/
+app/
+configs/
+logs/
+public/
+resources/
+system/
+.env
+.env.example
+.gitignore
+.hhconfig
+LICENSE
+README.md
+anonym
+composer.json
+phinx.yml

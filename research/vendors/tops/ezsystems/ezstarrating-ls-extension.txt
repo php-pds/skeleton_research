@@ -1,0 +1,16 @@
+autoloads/
+classes/
+datatypes/ezsrrating/
+design/standard/
+patch/
+settings/
+share/
+sql/
+translations/
+update/database/postgresql/1.5/
+CHANGELOG
+LICENSE
+README
+TODO
+composer.json
+extension.xml

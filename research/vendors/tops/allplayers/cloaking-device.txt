@@ -1,0 +1,3 @@
+src/CloakingDevice/
+README.md
+composer.json

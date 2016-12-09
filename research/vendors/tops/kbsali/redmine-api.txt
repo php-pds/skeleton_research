@@ -1,0 +1,13 @@
+lib/
+test/Redmine/
+.editorconfig
+.gitattributes
+.gitignore
+.php_cs
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.markdown
+composer.json
+example.php
+phpunit.xml.dist

@@ -1,0 +1,9 @@
+dns/zones/
+src/LTDBeget/dns/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json
+phpdox.xml
+phpunit.xml

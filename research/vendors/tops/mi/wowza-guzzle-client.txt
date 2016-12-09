@@ -1,0 +1,9 @@
+src/
+tests/Helper/
+.gitignore
+.travis.yml
+README.md
+composer.json
+composer.lock
+contributors.txt
+phpunit.xml.dist

@@ -1,0 +1,3 @@
+Squire/Configurable/
+.gitignore
+composer.json

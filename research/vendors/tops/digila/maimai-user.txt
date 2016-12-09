@@ -1,0 +1,6 @@
+MaiMaiUser/
+template/config/autoload/
+.gitignore
+LICENSE.txt
+README.md
+composer.json

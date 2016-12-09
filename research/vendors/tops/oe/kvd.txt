@@ -1,0 +1,16 @@
+classes/
+phing/
+scripts/
+sql/
+test/
+vendor/easyrdf/
+.coveralls.yml
+.gitignore
+.travis.yml
+LICENSE
+README.md
+build.xml
+composer.json
+composer.lock
+phpunit.xml.dist
+phpunit.xml.travis

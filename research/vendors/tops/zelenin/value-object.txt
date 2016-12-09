@@ -1,0 +1,5 @@
+Domain/Model/
+Infrastructure/Persistence/Doctrine/
+LICENSE
+composer.json
+readme.md

@@ -1,0 +1,5 @@
+Classes/Command/
+Resources/Private/
+Tests/
+Readme.md
+composer.json

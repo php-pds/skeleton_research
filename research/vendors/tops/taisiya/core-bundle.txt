@@ -1,0 +1,14 @@
+app/config/
+bin/
+src/
+var/
+.gitignore
+.php_cs
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+bootstrap.php
+composer.json
+composer.lock
+phpunit.xml.dist

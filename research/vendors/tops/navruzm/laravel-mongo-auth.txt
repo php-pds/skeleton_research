@@ -1,0 +1,6 @@
+src/MongoAuth/
+tests/
+.gitignore
+README.md
+composer.json
+phpunit.xml

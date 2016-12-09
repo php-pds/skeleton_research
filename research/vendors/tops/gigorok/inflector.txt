@@ -1,0 +1,4 @@
+src/Inflector/
+LICENSE
+README.md
+composer.json

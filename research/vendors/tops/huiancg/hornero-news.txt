@@ -1,0 +1,3 @@
+classes/
+views/page/block/news/
+composer.json

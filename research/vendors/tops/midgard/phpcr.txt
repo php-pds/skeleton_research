@@ -1,0 +1,9 @@
+data/share/
+examples/
+src/Midgard/PHPCR/
+tests/
+.gitignore
+.travis.yml
+README.md
+composer.json
+travis_trigger

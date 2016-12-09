@@ -1,0 +1,11 @@
+spec/PhpSpec/Laravel/
+src/PhpSpec/Laravel/
+.editorconfig
+.gitignore
+.travis.yml
+CONTRIBUTING.md
+LICENSE
+README.md
+composer.json
+example.phpspec.yml
+phpspec.yml

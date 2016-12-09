@@ -1,0 +1,7 @@
+src/dindigital/
+tests/src/dindigital/
+.gitignore
+LICENSE
+README.md
+composer.json
+phpunit.xml

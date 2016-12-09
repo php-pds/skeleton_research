@@ -1,0 +1,13 @@
+Command/
+DependencyInjection/
+Resources/config/
+Tests/
+.coveralls.yml
+.gitignore
+.travis.yml
+IntrepionHelloBundle.php
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

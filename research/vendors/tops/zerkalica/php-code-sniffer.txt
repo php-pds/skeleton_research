@@ -1,0 +1,10 @@
+CodeSniffer/
+scripts/
+tests/
+.travis.yml
+CodeSniffer.php
+CodeSniffer.sample.conf
+README.markdown
+composer.json
+licence.txt
+package.xml

@@ -1,0 +1,10 @@
+src/Mobileka/Liner/
+tests/
+.gitignore
+.travis.yml
+benchmark.php
+bootstrap.php
+composer.json
+license
+phpunit.xml
+readme.md

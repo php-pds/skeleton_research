@@ -1,0 +1,4 @@
+src/Exceptionist/
+templates/
+README.md
+composer.json

@@ -1,0 +1,15 @@
+Consumption/Extension/
+Controller/
+Datagrid/
+DependencyInjection/
+Entity/
+Migrations/Schema/
+Profiler/
+Resources/
+Test/
+Tests/
+.gitignore
+LICENSE
+OroMessageQueueBundle.php
+README.md
+composer.json

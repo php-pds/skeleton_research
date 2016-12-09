@@ -1,0 +1,11 @@
+.gitignore
+README.md
+SchemaSyncWrapper.sh
+composer.json
+db_config.base
+email_config.base
+env_config.base
+install.sh
+install_config.sh
+management_utils.sh
+update_production.sh

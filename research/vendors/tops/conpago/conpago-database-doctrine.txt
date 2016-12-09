@@ -1,0 +1,9 @@
+build_scripts/
+src/Conpago/Database/Doctrine/
+tests/Conpago/Database/Doctrine/
+.gitignore
+.hgignore
+build.xml
+composer.json
+humbug.json.dist
+phpunit.xml

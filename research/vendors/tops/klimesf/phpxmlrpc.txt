@@ -1,0 +1,13 @@
+debugger/
+demo/
+doc/
+extras/
+lib/
+test/
+.gitignore
+ChangeLog
+INSTALL
+Makefile
+NEWS
+README
+composer.json

@@ -1,0 +1,7 @@
+spec/Kibao/MailCatcher/
+src/MailCatcher/
+.gitignore
+.travis.yml
+LICENSE
+README
+composer.json

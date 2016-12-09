@@ -1,0 +1,11 @@
+spec/Console/
+src/
+stylesheets/
+.gitignore
+.travis.yml
+README.md
+composer.json
+composer.lock
+index.html
+params.json
+phpspec.yml

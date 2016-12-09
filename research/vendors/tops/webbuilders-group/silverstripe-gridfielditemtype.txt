@@ -1,0 +1,12 @@
+code/gridfield/
+css/
+javascript/
+templates/Includes/
+.editorconfig
+.gitattributes
+.gitignore
+.scrutinizer.yml
+LICENSE
+README.md
+_config.php
+composer.json

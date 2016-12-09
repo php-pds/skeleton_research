@@ -1,0 +1,7 @@
+src/WT/PharCompiler/
+tests/
+.gitignore
+.travis.yml
+README.md
+composer.json
+composer.phar

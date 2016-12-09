@@ -1,0 +1,6 @@
+LICENSE
+README.md
+composer.json
+hartija.html
+print.css
+print.jpg

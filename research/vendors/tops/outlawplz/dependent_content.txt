@@ -1,0 +1,15 @@
+config/
+src/
+templates/
+.gitignore
+LICENSE
+composer.json
+dependent_content.info.yml
+dependent_content.links.action.yml
+dependent_content.links.menu.yml
+dependent_content.links.task.yml
+dependent_content.module
+dependent_content.page.inc
+dependent_content.permissions.yml
+dependent_content.routing.yml
+dependent_content.views_execution.inc

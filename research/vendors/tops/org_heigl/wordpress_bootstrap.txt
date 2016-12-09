@@ -1,0 +1,10 @@
+config/
+content/
+src/
+.gitignore
+README.md
+Vagrantfile.dist
+composer.json
+composer.lock
+index.php
+wp-config.php.dist

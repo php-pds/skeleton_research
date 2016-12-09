@@ -1,0 +1,9 @@
+DependencyInjection/Compiler/
+Extension/
+Resolver/
+Resources/config/
+.gitignore
+LICENSE
+README.md
+ViewBundle.php
+composer.json

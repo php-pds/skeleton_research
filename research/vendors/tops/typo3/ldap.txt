@@ -1,0 +1,5 @@
+Classes/TYPO3/LDAP/
+Configuration/
+Documentation/
+Meta/
+composer.json

@@ -1,0 +1,9 @@
+Command/
+DependencyInjection/
+Lib/
+Resources/config/
+.gitignore
+LICENSE
+README.md
+UAParserBundle.php
+composer.json

@@ -1,0 +1,15 @@
+Command/
+Controller/
+DependencyInjection/
+ExposedRoutesExtractor/
+ExtractedRoute/
+Resources/
+RoutesExporter/
+Tests/
+.gitignore
+.travis.yml
+FunddyJsRoutingBundle.php
+README.md
+composer.json
+composer.phar
+phpunit.xml.dist

@@ -1,0 +1,4 @@
+.gitignore
+README.md
+class.JavaScriptPacker.php
+composer.json

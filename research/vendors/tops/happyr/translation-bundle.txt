@@ -1,0 +1,14 @@
+src/
+tests/Functional/
+.editorconfig
+.gitattributes
+.gitignore
+.php_cs
+.scrutinizer.yml
+.styleci.yml
+.travis.yml
+Changelog.md
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

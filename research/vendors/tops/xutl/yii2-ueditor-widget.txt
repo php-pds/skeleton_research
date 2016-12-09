@@ -1,0 +1,8 @@
+assets/
+.gitattributes
+.gitignore
+README.md
+UEditor.php
+UEditorAction.php
+UEditorAsset.php
+composer.json

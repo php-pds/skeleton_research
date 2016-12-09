@@ -1,0 +1,12 @@
+Controller/
+DependencyInjection/
+EntityService/
+Menu/
+Resources/
+Validator/
+.gitignore
+CampaignChainCampaignTemplateBundle.php
+LICENSE
+README.md
+campaignchain.yml
+composer.json

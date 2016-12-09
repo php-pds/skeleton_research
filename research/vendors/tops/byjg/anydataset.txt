@@ -1,0 +1,13 @@
+.idea/
+config/
+docs/
+nbproject/
+src/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+example.php
+phpunit.xml.dist

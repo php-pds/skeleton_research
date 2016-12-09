@@ -1,0 +1,8 @@
+assets/
+components/
+models/
+modules/
+vendor/dmeditor/
+Module.php
+README.md
+composer.json

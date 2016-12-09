@@ -1,0 +1,7 @@
+includes/
+badgeos-award-role.php
+composer.json
+deploy-config.sh
+license.txt
+readme.md
+readme.txt

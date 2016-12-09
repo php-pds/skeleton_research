@@ -1,0 +1,7 @@
+src/JoeFallon/PhpFlash/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock

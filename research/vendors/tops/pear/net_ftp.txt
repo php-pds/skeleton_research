@@ -1,0 +1,10 @@
+Net/
+example/
+tests/
+.gitignore
+.travis.yml
+CHANGELOG
+README
+composer.json
+generate_package_xml.php
+package.xml

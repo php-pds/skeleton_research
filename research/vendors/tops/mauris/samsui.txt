@@ -1,0 +1,9 @@
+data/
+src/Samsui/
+test/
+.gitignore
+.travis.yml
+composer.json
+composer.lock
+license.md
+readme.md

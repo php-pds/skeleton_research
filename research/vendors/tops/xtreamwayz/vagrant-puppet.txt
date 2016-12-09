@@ -1,0 +1,6 @@
+hieradata/
+manifests/
+modules/
+composer.json
+readme.md
+update-modules.sh

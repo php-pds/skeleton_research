@@ -1,0 +1,12 @@
+config/
+data/
+public/
+src/
+test/Action/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpcs.xml
+phpunit.xml

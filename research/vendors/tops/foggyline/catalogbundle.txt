@@ -1,0 +1,11 @@
+Controller/
+DependencyInjection/
+Entity/
+Form/
+Repository/
+Resources/
+Service/
+Tests/
+.DS_Store
+FoggylineCatalogBundle.php
+composer.json

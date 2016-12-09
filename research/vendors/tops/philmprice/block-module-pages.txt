@@ -1,0 +1,8 @@
+controllers/
+docs/
+models/
+php/objects/
+views/
+README.md
+bootstrap.php
+composer.json

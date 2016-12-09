@@ -1,0 +1,12 @@
+examples/
+src/BounceMailHandler/
+tests/
+.editorconfig
+.gitattributes
+.gitignore
+.scrutinizer.yml
+.styleci.yml
+.travis.yml
+README.md
+composer.json
+phpunit.xml

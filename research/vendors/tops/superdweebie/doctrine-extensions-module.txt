@@ -1,0 +1,8 @@
+config/
+src/Sds/DoctrineExtensionsModule/
+tests/
+view/sds/
+.gitignore
+.travis.yml
+README.md
+composer.json

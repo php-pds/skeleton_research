@@ -1,0 +1,8 @@
+src/SagePHP/Filesystem/File/
+tests/unit/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock
+composer.phar

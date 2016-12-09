@@ -1,0 +1,6 @@
+src/Philo/Laravel5Facebook/
+tests/
+.gitignore
+README.md
+composer.json
+phpunit.xml

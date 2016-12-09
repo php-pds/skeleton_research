@@ -1,0 +1,12 @@
+bin/
+src/
+tests/
+tools/
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENSE.txt
+README.md
+codecov.yml
+composer.json
+phpunit.xml

@@ -1,0 +1,12 @@
+Command/
+Features/
+Plugin/
+Resources/
+Tests/
+.gitattributes
+.scrutinizer.yml
+.travis.yml
+CommonPluginMethod.php
+README.md
+SpomkyLabsOAuth2ServerBundle.php
+composer.json

@@ -1,0 +1,6 @@
+src/Clevis/Skeleton/
+tests/
+.gitignore
+composer.json
+license.md
+readme.md

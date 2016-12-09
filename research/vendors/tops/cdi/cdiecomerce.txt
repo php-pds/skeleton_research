@@ -1,0 +1,7 @@
+config/
+nbproject/
+src/CdiEcomerce/
+.gitignore
+Module.php
+README.md
+composer.json

@@ -1,0 +1,15 @@
+Bridge/
+Command/
+DependencyInjection/
+Exception/
+Model/
+Resources/config/
+Search/
+Sphinx/
+Twig/
+app/config/
+.gitignore
+ItBlasterSphinxSearchPropelBundle.php
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,6 @@
+config/
+src/
+view/default/interactive-solutions/email-template/
+Module.php
+composer.json
+readme.md

@@ -1,0 +1,9 @@
+Helper/
+Plugin/
+Test/Unit/
+etc/
+.gitignore
+README.md
+composer.json
+mage2_rappenrunden.zip
+registration.php

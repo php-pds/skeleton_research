@@ -1,0 +1,4 @@
+assets/
+InfiniteScrollAsset.php
+README.md
+composer.json

@@ -1,0 +1,10 @@
+action/
+languages/
+lib/
+pages/
+vendors/
+views/default/
+README.md
+composer.json
+manifest.xml
+start.php

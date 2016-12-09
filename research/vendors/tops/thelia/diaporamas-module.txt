@@ -1,0 +1,16 @@
+Action/
+Config/
+Controller/
+Event/
+Filter/
+Form/
+Hook/
+I18n/backOffice/default/
+Loop/
+Model/
+templates/
+.gitignore
+Diaporamas.php
+LICENSE.txt
+README.md
+composer.json

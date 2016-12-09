@@ -1,0 +1,7 @@
+src/Kumatch/Discipline/
+tests/
+.gitignore
+License.txt
+README.md
+composer.json
+phpunit.xml.dist

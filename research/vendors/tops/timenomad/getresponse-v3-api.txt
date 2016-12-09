@@ -1,0 +1,6 @@
+demo/
+src/Timenomad/
+.gitignore
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,11 @@
+DependencyInjection/
+Resources/
+Tests/
+Twig/Extension/
+.gitignore
+.travis.yml
+CHANGELOG.md
+README.md
+WidopTwigExtensionsBundle.php
+composer.json
+phpunit.xml.dist

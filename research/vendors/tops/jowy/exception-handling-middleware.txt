@@ -1,0 +1,12 @@
+spec/
+src/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+coverage.xml
+phpspec.yml
+phpspec.yml.hhvm.7

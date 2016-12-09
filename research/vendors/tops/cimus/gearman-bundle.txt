@@ -1,0 +1,10 @@
+Annotation/
+Command/
+DependencyInjection/
+Exception/
+Resources/config/
+Services/
+CimusGearmanBundle.php
+README.md
+Worker.php
+composer.json

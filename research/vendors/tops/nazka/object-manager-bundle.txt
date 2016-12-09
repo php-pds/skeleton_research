@@ -1,0 +1,10 @@
+DependencyInjection/
+Exception/
+Manager/
+Resources/config/
+nbproject/
+.gitignore
+LICENSE
+NazkaObjectManagerBundle.php
+README.md
+composer.json

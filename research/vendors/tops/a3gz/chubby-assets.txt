@@ -1,0 +1,5 @@
+src/Assets/
+.gitattributes
+.gitignore
+README.md
+composer.json

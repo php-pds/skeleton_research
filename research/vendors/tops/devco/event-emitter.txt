@@ -1,0 +1,5 @@
+src/Nekoo/
+tests/
+.gitignore
+README.md
+composer.json

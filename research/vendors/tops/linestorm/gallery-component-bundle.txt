@@ -1,0 +1,5 @@
+docs/
+src/LineStorm/GalleryComponentBundle/
+.bower.json
+README.md
+composer.json

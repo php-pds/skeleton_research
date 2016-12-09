@@ -1,0 +1,6 @@
+_ide/
+CHANGELOG.md
+HttpBasicAuthComponent.php
+LICENSE.md
+README.md
+composer.json

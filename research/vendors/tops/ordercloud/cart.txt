@@ -1,0 +1,10 @@
+spec/Entities/Policies/
+src/
+.gitignore
+.travis.yml
+LICENSE.txt
+composer.json
+composer.lock
+docker-compose.yml
+phpspec.yml
+readme.md

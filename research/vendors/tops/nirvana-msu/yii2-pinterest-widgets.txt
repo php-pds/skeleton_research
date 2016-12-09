@@ -1,0 +1,10 @@
+.gitignore
+LICENSE
+PinItButton.php
+PinterestBoard.php
+PinterestFollowButton.php
+PinterestPin.php
+PinterestProfile.php
+PinterestWidgetTrait.php
+README.md
+composer.json

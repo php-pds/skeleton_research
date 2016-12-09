@@ -1,0 +1,9 @@
+config/
+data/
+src/Translation42/
+tests/
+view/translation42/translation/
+.gitignore
+CHANGELOG.md
+Module.php
+composer.json

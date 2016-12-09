@@ -1,0 +1,11 @@
+Interfaces/
+Psr/
+Query/
+AbstractPathUri.php
+FilePathUri.php
+HttpUri.php
+LICENSE
+README.md
+SeqPathJoinUri.php
+Util.php
+composer.json

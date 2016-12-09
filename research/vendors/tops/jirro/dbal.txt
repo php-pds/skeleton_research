@@ -1,0 +1,7 @@
+Container/ServiceProvider/
+.gitignore
+DbAwareInterface.php
+DbAwareTrait.php
+LICENSE.md
+README.md
+composer.json

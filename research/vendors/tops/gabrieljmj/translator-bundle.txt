@@ -1,0 +1,6 @@
+DependencyInjection/
+Resources/config/
+LICENSE.md
+README.md
+TranslatorBundle.php
+composer.json

@@ -1,0 +1,9 @@
+example/rss/
+src/League/OAuth2/Client/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml

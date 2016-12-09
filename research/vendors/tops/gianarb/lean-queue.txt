@@ -1,0 +1,11 @@
+docs/
+resources/
+spec/
+src/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+mkdocs.yml
+phpspec.yml

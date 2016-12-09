@@ -1,0 +1,5 @@
+doc/en/
+src/NasExt/Thumbnail/
+README.md
+composer.json
+license.md

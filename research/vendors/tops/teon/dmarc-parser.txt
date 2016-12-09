@@ -1,0 +1,5 @@
+src/
+xsd/
+LICENSE
+README.md
+composer.json

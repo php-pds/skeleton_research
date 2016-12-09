@@ -1,0 +1,9 @@
+test/
+API.md
+INSTALL.md
+README.md
+bower.json
+composer.json
+jqtags.date.css
+jqtags.date.js
+module.json

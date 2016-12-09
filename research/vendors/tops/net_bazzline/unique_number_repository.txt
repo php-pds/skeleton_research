@@ -1,0 +1,10 @@
+bootstrap/
+client/
+configuration/
+example/
+public/
+source/
+.gitignore
+LICENSE
+README.md
+composer.json

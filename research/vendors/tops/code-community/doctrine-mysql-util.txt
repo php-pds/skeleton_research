@@ -1,0 +1,11 @@
+bin/
+src/DoctrineMysqlUtil/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+build.xml
+composer.json
+composer.lock
+phpcs.xml
+phpunit.xml.dist

@@ -1,0 +1,11 @@
+app/
+config/
+db/
+src/
+views/
+web/
+.gitignore
+README.md
+bower.json
+composer.json
+composer.lock

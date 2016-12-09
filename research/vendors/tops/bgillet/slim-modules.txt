@@ -1,0 +1,5 @@
+src/BenGee/Slim/Modules/
+tst/
+.gitattributes
+.gitignore
+composer.json

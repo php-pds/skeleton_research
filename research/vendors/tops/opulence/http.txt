@@ -1,0 +1,7 @@
+Requests/
+Responses/
+Collection.php
+Headers.php
+HttpException.php
+InvalidCsrfTokenException.php
+composer.json

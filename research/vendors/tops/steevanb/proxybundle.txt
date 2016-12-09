@@ -1,0 +1,10 @@
+Controller/
+DependencyInjection/
+Entity/
+EntityRepository/
+Resources/
+Service/Install/
+.gitignore
+ProxyBundle.php
+README.md
+composer.json

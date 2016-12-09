@@ -1,0 +1,8 @@
+Tests/
+.atoum.php
+.atoum.travis.php
+.bootstrap.atoum.php
+.travis.yml
+Enum.php
+README.md
+composer.json

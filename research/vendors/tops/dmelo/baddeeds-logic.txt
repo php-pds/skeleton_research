@@ -1,0 +1,9 @@
+setup/db/
+src/BadDeeds/
+tests/BadDeeds/Test/
+.codeclimate.yml
+.gitignore
+.travis.yml
+README.md
+composer.json
+phpunit.xml.dist

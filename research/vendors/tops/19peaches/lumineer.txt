@@ -1,0 +1,11 @@
+docs/
+src/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+book.json
+composer.json
+composer.lock
+phpunit.xml

@@ -1,0 +1,5 @@
+views/simple/
+BlogPost.php
+LICENSE
+README.md
+composer.json

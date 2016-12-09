@@ -1,0 +1,15 @@
+config/
+database/migrations/
+resources/
+src/
+tests/
+views/
+.editorconfig
+.gitattributes
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENSE.md
+README.md
+composer.json
+phpunit.xml

@@ -1,0 +1,6 @@
+src/CodeceptionZf2CodeCoverage/Listener/
+.gitignore
+Module.php
+README.md
+composer.json
+composer.lock

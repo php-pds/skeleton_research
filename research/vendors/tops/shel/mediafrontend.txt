@@ -1,0 +1,6 @@
+Classes/Shel/MediaFrontend/
+Configuration/
+Resources/Private/
+LICENSE
+README.md
+composer.json

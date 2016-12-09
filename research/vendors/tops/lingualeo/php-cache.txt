@@ -1,0 +1,9 @@
+puppet/
+src/LinguaLeo/Cache/
+tests/
+.gitignore
+LICENSE
+README.md
+Vagrantfile
+composer.json
+phpunit.xml.dist

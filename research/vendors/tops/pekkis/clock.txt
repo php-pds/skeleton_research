@@ -1,0 +1,6 @@
+examples/
+library/Pekkis/Clock/
+tests/
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,11 @@
+Item/
+Serializer/
+Storage/
+Test/
+.gitignore
+.travis.yml
+Cache.php
+CacheInterface.php
+README.md
+composer.json
+phpunit.travis.xml

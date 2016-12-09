@@ -1,0 +1,9 @@
+Action/
+Event/
+Library/
+Resource/config/
+.gitignore
+LICENSE
+MigrationsBundle.php
+README.md
+composer.json

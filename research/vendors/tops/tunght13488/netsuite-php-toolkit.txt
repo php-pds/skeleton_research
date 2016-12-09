@@ -1,0 +1,9 @@
+logs/
+samples/
+src/
+.editorconfig
+.env.example
+.gitignore
+NetSuite Application Developer License Agreement.txt
+README.md
+composer.json

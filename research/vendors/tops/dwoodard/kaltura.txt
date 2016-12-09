@@ -1,0 +1,10 @@
+KalturaPlugins/
+TestCode/
+.gitignore
+KalturaClient.php
+KalturaClientBase.php
+KalturaEnums.php
+KalturaTypes.php
+README.md
+agpl.txt
+composer.json

@@ -1,0 +1,8 @@
+DependencyInjection/
+Resources/
+Twig/
+BsBootstrapifyBundle.php
+LICENCE
+README.md
+composer.json
+update.sh

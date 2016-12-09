@@ -1,0 +1,17 @@
+demo/
+lib/
+src/
+test/
+.editorconfig
+.gitignore
+.jscsrc
+.npmignore
+Gruntfile.js
+LICENSE-MIT
+bower.json
+composer.json
+index.html
+jquery.smooth-scroll.js
+jquery.smooth-scroll.min.js
+package.json
+readme.md

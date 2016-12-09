@@ -1,0 +1,4 @@
+lib/Skeleton/Template/Smarty/
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,3 @@
+contao/
+.gitignore
+composer.json

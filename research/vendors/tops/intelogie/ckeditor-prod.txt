@@ -1,0 +1,14 @@
+adapters/
+lang/
+plugins/
+samples/
+skins/moono/
+CHANGES.md
+LICENSE.md
+README.md
+build-config.js
+ckeditor.js
+composer.json
+config.js
+contents.css
+styles.js

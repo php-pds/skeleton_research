@@ -1,0 +1,12 @@
+docs/
+src/
+tests/
+.gitattributes
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+autoload.php
+composer.json
+composer.lock

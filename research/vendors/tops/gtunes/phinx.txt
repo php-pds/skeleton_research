@@ -1,0 +1,15 @@
+bin/
+docs/
+src/Phinx/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.mdown
+box.json
+build.properties
+build.xml
+composer.json
+composer.lock
+phinx.yml
+phpunit.xml.dist

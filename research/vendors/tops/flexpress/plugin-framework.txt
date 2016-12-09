@@ -1,0 +1,7 @@
+src/FlexPress/Plugins/NewPlugin/
+.gitignore
+LICENSE
+README.md
+composer.json
+install.sh
+newplugin.php

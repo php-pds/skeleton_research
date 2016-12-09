@@ -1,0 +1,5 @@
+Plugin/Magento/Framework/
+etc/
+README.md
+composer.json
+registration.php

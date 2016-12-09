@@ -1,0 +1,7 @@
+.idea/
+src/Anonym/
+.gitignore
+LICENSE
+README.md
+composer.json
+index.php

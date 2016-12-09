@@ -1,0 +1,14 @@
+CRUDTemplate/crud/
+assets/
+console/
+controllers/
+views/
+.babelrc
+.gitignore
+Bootstrap.php
+Module.php
+README.md
+System.php
+composer.json
+gulpfile.babel.js
+package.json

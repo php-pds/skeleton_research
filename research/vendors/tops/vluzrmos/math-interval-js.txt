@@ -1,0 +1,10 @@
+spec/
+src/
+.gitignore
+.travis.yml
+JSLitmus.js
+bower.json
+composer.json
+index.html
+package.json
+readme.md

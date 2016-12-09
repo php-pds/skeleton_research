@@ -1,0 +1,4 @@
+src/AdrienBrault/Analyzer/
+.gitignore
+abanalyzer
+composer.json

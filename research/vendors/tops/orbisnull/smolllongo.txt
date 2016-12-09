@@ -1,0 +1,3 @@
+src/Smolllongo/
+.gitignore
+composer.json

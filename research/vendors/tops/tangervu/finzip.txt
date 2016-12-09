@@ -1,0 +1,7 @@
+FinZip/
+cronjobs/
+sql/
+FinZip.php
+README.md
+composer.json
+settings.ini

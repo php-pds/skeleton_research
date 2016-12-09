@@ -1,0 +1,2 @@
+compare_schemas.drush.inc
+composer.json

@@ -1,0 +1,12 @@
+Collection/
+DQL/
+DependencyInjection/
+Entity/
+Extension/
+Http/
+Resources/
+Tests/
+.gitignore
+AdadgioDoctrineDQLBundle.php
+README.md
+composer.json

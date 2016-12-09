@@ -1,0 +1,7 @@
+assets/
+.gitignore
+JVectorMapAsset.php
+JVectorMapWidget.php
+LICENSE
+README.md
+composer.json

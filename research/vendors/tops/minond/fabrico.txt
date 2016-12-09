@@ -1,0 +1,14 @@
+bin/
+docs/
+scripts/
+src/Fabrico/
+tests/Fabrico/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+README.md
+TODO.txt
+build.xml
+composer.json
+composer.lock
+phpunit.xml.dist

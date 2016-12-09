@@ -1,0 +1,8 @@
+config/
+css/
+js/
+README.md
+composer.json
+functions.php
+screenshot.png
+style.css

@@ -1,0 +1,10 @@
+bin/
+src/
+tests/
+.envrc
+.gitignore
+README.md
+cli-config.php
+composer.json
+composer.lock
+phpunit.xml

@@ -1,0 +1,6 @@
+src/Soy/PhpMessDetector/
+.gitignore
+LICENSE
+README.md
+composer.json
+recipe.php

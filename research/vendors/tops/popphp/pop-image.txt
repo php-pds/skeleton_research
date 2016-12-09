@@ -1,0 +1,11 @@
+src/
+tests/
+.gitattributes
+.gitignore
+.travis.yml
+LICENSE.TXT
+README.md
+composer.json
+phpunit-gmagick.xml
+phpunit-imagick.xml
+phpunit.xml

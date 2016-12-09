@@ -1,0 +1,16 @@
+Checker/
+DependencyInjection/
+Document/
+Entity/
+EventListener/
+Model/
+Operator/
+Resources/
+Twig/
+bin/
+spec/Sylius/Bundle/InventoryBundle/
+.gitignore
+.travis.yml
+README.md
+SyliusInventoryBundle.php
+composer.json

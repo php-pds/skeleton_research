@@ -1,0 +1,10 @@
+sphring/
+src/
+tests/
+.gitattributes.layout
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+composer.json
+phpunit.xml.dist

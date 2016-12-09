@@ -1,0 +1,14 @@
+bitpay/
+build/
+includes/
+scripts/
+.gitattributes
+.gitignore
+.travis.yml
+CHANGELOG
+GUIDE.md
+LICENSE
+README.md
+bitpay_callback.php
+build.xml
+composer.json

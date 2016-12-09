@@ -1,0 +1,11 @@
+public/
+puppet/
+vendor/
+.gitignore
+LICENSE.txt
+README.md
+VagrantConfig.example.json
+Vagrantfile
+aws_bootstrap.sh
+composer.json
+puppet_bootstrap.sh

@@ -1,0 +1,6 @@
+src/
+test/plugin-example/
+.gitignore
+composer.json
+composer.lock
+readme.md

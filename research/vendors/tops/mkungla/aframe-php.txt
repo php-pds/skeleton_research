@@ -1,0 +1,14 @@
+doc/
+public/
+src/
+tests/
+tmp/
+vendor/
+.gitattributes
+.gitignore
+.howiattributes
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+composer.json

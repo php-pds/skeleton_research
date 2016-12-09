@@ -1,0 +1,7 @@
+src/Namshi/SMSCountry/
+tests/Namshi/SMSCountry/Tests/
+.gitignore
+.travis.yml
+README.md
+composer.json
+phpunit.xml.dist

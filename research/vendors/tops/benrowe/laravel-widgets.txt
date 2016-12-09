@@ -1,0 +1,12 @@
+build/
+src/
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+build.xml
+composer.json
+gulpfile.js
+package.json

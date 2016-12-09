@@ -1,0 +1,6 @@
+app/themes/clean-blog/
+public/
+src/
+LICENSE
+README.md
+composer.json

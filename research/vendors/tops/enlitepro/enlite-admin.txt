@@ -1,0 +1,11 @@
+assets/
+config/
+src/EnliteAdmin/
+test/
+view/enlite-admin/
+.gitignore
+.travis.yml
+Module.php
+README.md
+composer.json
+phpunit.xml

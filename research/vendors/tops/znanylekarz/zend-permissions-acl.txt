@@ -1,0 +1,8 @@
+Assertion/
+Exception/
+Resource/
+Role/
+Acl.php
+LICENSE.txt
+README.txt
+composer.json

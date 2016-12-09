@@ -1,0 +1,16 @@
+_config/
+code/
+css/
+fonts/
+images/
+javascript/
+lang/
+templates/
+.gitignore
+LICENSE
+README.md
+_config.php
+composer.json
+npm-shrinkwrap.json
+package.json
+webpack.config.js

@@ -1,0 +1,11 @@
+DependencyInjection/
+Events/
+Manager/Transport/
+Resources/config/
+.gitignore
+.travis.yml
+GosMailerBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

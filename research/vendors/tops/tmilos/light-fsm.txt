@@ -1,0 +1,10 @@
+src/LightFsm/
+tests/LightFsm/
+.gitignore
+.php_cs
+.travis.yml
+LICENSE
+README.md
+autoload.php
+composer.json
+phpunit.xml.dist

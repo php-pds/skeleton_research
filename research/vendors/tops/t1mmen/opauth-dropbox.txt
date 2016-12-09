@@ -1,0 +1,3 @@
+DropboxStrategy.php
+README.md
+composer.json

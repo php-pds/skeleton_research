@@ -1,0 +1,3 @@
+DeezerExtendSocialite.php
+Provider.php
+composer.json

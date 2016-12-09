@@ -1,0 +1,13 @@
+bin/
+library/S3Export/
+puppet/
+resources/config/
+tests/
+.gitignore
+LICENSE
+README.md
+Vagrantfile
+composer.json
+composer.lock
+manifest
+phpunit.xml

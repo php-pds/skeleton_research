@@ -1,0 +1,15 @@
+DependencyInjection/
+EventListener/
+Resources/config/
+tests/
+.editorconfig
+.gitignore
+.php_cs
+.scrutinizer.yml
+.styleci.yml
+.travis.yml
+LICENSE
+README.md
+WebstronautsReactBundle.php
+composer.json
+phpunit.xml.dist

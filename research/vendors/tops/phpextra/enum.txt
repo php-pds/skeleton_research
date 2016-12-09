@@ -1,0 +1,10 @@
+build/logs/
+src/PHPExtra/Type/Enum/
+tests/
+.gitignore
+.travis.yml
+LICENSE.md
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

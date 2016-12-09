@@ -1,0 +1,5 @@
+htdocs/
+.bowerrc
+README.md
+bower.json
+composer.json

@@ -1,0 +1,15 @@
+docs/
+library/Phalex/
+tests/
+tools/scrutinizer/
+website/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+Bootstrap.php
+LICENSE
+README.md
+composer.json
+couscous.phar
+couscous.yml
+phpunit.xml

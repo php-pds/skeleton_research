@@ -1,0 +1,7 @@
+src/Curl/
+tests/
+.gitignore
+MIT-LICENSE
+README.markdown
+composer.json
+composer.lock

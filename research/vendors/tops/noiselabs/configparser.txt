@@ -1,0 +1,15 @@
+Exception/
+Tests/
+.gitignore
+.travis.yml
+BaseConfigParser.php
+ConfigParser.php
+ConfigParserInterface.php
+File.php
+LICENSE
+NoSectionsConfigParser.php
+NoSectionsConfigParserInterface.php
+ParameterBag.php
+README.md
+composer.json
+phpunit.xml.dist

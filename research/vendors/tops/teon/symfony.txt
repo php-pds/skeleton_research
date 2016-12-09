@@ -1,0 +1,15 @@
+Resources/config/
+app/
+sbin/
+src/
+web/
+.git-push-everywhere
+.gitmodules
+LICENSE
+Module.php
+README.md
+autoload_classmap.php
+autoload_register.php
+autoloader-dev.php
+composer.json
+dev-auth.php-SAMPLE

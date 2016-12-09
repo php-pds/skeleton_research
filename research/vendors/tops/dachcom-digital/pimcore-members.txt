@@ -1,0 +1,9 @@
+controllers/
+install/
+lib/
+static/
+views/
+LICENSE.md
+README.md
+composer.json
+plugin.xml

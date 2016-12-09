@@ -1,0 +1,7 @@
+crud/
+res/
+.editorconfig
+LICENSE
+README.md
+composer.json
+logo.png

@@ -1,0 +1,8 @@
+NGS/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json
+dsl_config.dist
+phpunit.xml.dist

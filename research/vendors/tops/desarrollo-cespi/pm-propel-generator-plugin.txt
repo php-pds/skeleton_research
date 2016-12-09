@@ -1,0 +1,9 @@
+data/generator/sfPropelModule/basic/
+i18n/
+lib/
+web/
+.gitignore
+EXPORTATION_DOCUMENTATION
+LICENSE
+README.md
+composer.json

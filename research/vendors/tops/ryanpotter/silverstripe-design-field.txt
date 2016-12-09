@@ -1,0 +1,13 @@
+build_tasks/
+code/
+css/
+scss/
+.editorconfig
+.gitattributes
+.gitignore
+.scrutinizer.yml
+Gruntfile.js
+README.md
+_config.php
+composer.json
+package.json

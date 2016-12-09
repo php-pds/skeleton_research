@@ -1,0 +1,10 @@
+src/Zeropingheroes/SteamBrowserProtocol/
+tests/
+.gitattributes
+.gitignore
+.travis.yml
+AUTHORS.txt
+LICENSE.txt
+NOTICE.txt
+composer.json
+phpunit.xml

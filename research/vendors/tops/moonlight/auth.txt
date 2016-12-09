@@ -1,0 +1,6 @@
+controllers/
+models/
+views/
+README
+composer.json
+routing.php

@@ -1,0 +1,9 @@
+DependencyInjection/
+Resources/
+Tests/
+Validator/
+.gitignore
+FSCEmailFilterBundle.php
+README.md
+composer.json
+phpunit.xml

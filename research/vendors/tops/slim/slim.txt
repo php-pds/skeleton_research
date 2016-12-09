@@ -1,0 +1,15 @@
+Slim/
+example/
+tests/
+.codeclimate.yml
+.coveralls.yml
+.editorconfig
+.gitattributes
+.gitignore
+.travis.yml
+CONTRIBUTING.md
+LICENSE.md
+README.md
+composer.json
+phpcs.xml
+phpunit.xml.dist

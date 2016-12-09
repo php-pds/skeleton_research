@@ -1,0 +1,6 @@
+src/HostBox/Api/SmsSluzba/
+tests/
+.gitignore
+.travis.yml
+README.md
+composer.json

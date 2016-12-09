@@ -1,0 +1,9 @@
+Tests/Command/DownloadCommand/
+bin/
+src/
+.gitignore
+LICENSE
+box.json
+composer.json
+manifest.json
+phpunit.xml.dist

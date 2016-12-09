@@ -1,0 +1,16 @@
+src/
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+COPYING
+README.md
+RELEASE-NOTES.md
+WikibaseQueryEngine.mw.php
+WikibaseQueryEngine.php
+composer.json
+phpcs.xml
+phpmd.xml
+phpunit.watcher.json
+phpunit.xml.dist
+queryengine

@@ -1,0 +1,14 @@
+Annotation/
+Assets/
+Config/
+Console/Commands/
+Contracts/
+Database/
+Entities/
+Facades/
+Http/
+Providers/
+Resources/
+Support/
+ModuleProvider.php
+composer.json

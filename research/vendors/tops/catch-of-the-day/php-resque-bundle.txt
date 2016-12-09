@@ -1,0 +1,9 @@
+Command/
+DependencyInjection/
+Resources/config/
+Resque/
+.gitignore
+PHPResque.php
+PHPResqueBundle.php
+README.markdown
+composer.json

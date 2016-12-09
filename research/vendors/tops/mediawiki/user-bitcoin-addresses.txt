@@ -1,0 +1,16 @@
+build/travis/
+docs/
+i18n/
+resources/
+schema/
+src/
+tests/Unit/
+.gitignore
+.travis.yml
+COPYING
+README.md
+UserBitcoinAddresses.i18n.aliases.php
+UserBitcoinAddresses.php
+UserBitcoinAddresses.settings.php
+composer.json
+phpunit.xml.dist

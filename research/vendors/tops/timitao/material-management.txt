@@ -1,0 +1,11 @@
+app/
+features/bootstrap/Behat/AppBundle/Unit/
+src/AppBundle/
+web/
+.gitignore
+.scrutinizer.yml
+LICENSE
+README.md
+behat.yml.dist
+composer.json
+composer.lock

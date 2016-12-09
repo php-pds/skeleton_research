@@ -1,0 +1,12 @@
+behaviors/
+components/
+config/
+controllers/
+messages/
+migrations/
+models/
+.gitignore
+FileModule.php
+FileModuleTrait.php
+README.md
+composer.json

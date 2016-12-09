@@ -1,0 +1,8 @@
+DependencyInjection/
+Resources/config/
+.gitignore
+.travis.yml
+CxSearchBundle.php
+Index.php
+composer.json
+phpunit.xml.dist

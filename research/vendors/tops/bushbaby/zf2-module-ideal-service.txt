@@ -1,0 +1,7 @@
+config/
+src/IDealService/
+tests/
+.travis.yml
+Module.php
+README.md
+composer.json

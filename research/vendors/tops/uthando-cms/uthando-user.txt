@@ -1,0 +1,14 @@
+config/
+data/
+src/UthandoUser/
+test/
+view/uthando-user/
+.codeclimate.yml
+.gitignore
+.travis.yml
+LICENSE
+Module.php
+README.md
+autoload_classmap.php
+composer.json
+template_map.php

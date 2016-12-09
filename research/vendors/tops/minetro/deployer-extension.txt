@@ -1,0 +1,9 @@
+examples/
+src/
+tests/
+.gitattributes
+.gitignore
+.travis.yml
+PLUGINS.md
+README.md
+composer.json

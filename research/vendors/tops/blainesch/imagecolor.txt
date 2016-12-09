@@ -1,0 +1,11 @@
+examples/
+src/imageColor/
+tests/
+vendor/
+.gitignore
+.travis.yml
+LICENSE
+composer.json
+composer.phar
+phpunit.xml
+readme.md

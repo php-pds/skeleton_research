@@ -1,0 +1,7 @@
+assets/css/
+lib/
+templates/
+LICENSE.md
+README.md
+acf-cover-image.php
+composer.json

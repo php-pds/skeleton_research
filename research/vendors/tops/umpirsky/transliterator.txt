@@ -1,0 +1,7 @@
+src/
+tests/Transliterator/
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml

@@ -1,0 +1,11 @@
+base/
+data/
+tests/
+validators/
+widgets/
+.gitignore
+.travis.yml
+LICENSE.md
+README.md
+composer.json
+phpunit.xml.dist

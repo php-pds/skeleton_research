@@ -1,0 +1,5 @@
+.gitignore
+LICENSE.txt
+PjaxFilter.php
+README.md
+composer.json

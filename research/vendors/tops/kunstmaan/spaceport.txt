@@ -1,0 +1,8 @@
+src/Spaceport/
+templates/symfony/
+.gitignore
+.travis.yml
+README.md
+box.json
+composer.json
+spaceport

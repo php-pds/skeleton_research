@@ -1,0 +1,5 @@
+resources/stubs/
+src/
+.gitattributes
+.gitignore
+composer.json

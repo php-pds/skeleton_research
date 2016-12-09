@@ -1,0 +1,6 @@
+.gitignore
+Feed.php
+LICENSE
+composer.json
+example.php
+readme.md

@@ -1,0 +1,5 @@
+src/FileManager/
+.gitignore
+LICENSE
+README.md
+composer.json

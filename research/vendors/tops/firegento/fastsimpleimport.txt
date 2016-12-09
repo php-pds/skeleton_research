@@ -1,0 +1,11 @@
+Files/Sample/
+Helper/
+Model/
+ResourceModel/Import/Category/
+doc/
+etc/
+.gitignore
+LICENSE.md
+README.md
+composer.json
+registration.php

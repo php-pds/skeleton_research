@@ -1,0 +1,7 @@
+src/JoeFallon/PhpCache/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock

@@ -1,0 +1,7 @@
+examples/
+lib/Phlexy/
+test/Phlexy/
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,12 @@
+Resources/doc/
+Traits/
+ConsoleCommandTestCase.php
+ContainerAwareTestCase.php
+DatabaseTestCase.php
+DatabaseWebTestCase.php
+ExtensionTestCase.php
+LICENSE
+README.md
+WebTestCase.php
+WebTestCaseInterface.php
+composer.json

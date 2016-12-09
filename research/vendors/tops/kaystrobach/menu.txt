@@ -1,0 +1,5 @@
+Classes/KayStrobach/Menu/
+Resources/Private/
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,10 @@
+README.md
+bloodhound.js
+bloodhound.min.js
+bower.json
+component.json
+composer.json
+typeahead.bundle.js
+typeahead.bundle.min.js
+typeahead.jquery.js
+typeahead.jquery.min.js

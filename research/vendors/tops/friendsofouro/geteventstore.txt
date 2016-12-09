@@ -1,0 +1,9 @@
+hooks/
+src/EventStore/
+tests/
+.gitignore
+.php_cs
+CONTRIBUTING.md
+README.md
+composer.json
+composer.lock

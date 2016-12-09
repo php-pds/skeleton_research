@@ -1,0 +1,8 @@
+Controller/
+DataFixtures/
+DependencyInjection/
+Installation/
+Listener/
+Resources/
+FormaLibreWorkspaceSubscriptionBundle.php
+composer.json

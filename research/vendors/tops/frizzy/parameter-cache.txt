@@ -1,0 +1,4 @@
+Frizzy/ParameterCache/
+.gitignore
+README.markdown
+composer.json

@@ -1,0 +1,6 @@
+src/Jaschweder/
+test/
+.gitignore
+LICENSE
+README.md
+composer.json

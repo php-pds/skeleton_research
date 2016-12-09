@@ -1,0 +1,5 @@
+lib/
+tests/
+LICENSE
+composer.json
+readme.MD

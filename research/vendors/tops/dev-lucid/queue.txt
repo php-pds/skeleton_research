@@ -1,0 +1,6 @@
+src/php/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json

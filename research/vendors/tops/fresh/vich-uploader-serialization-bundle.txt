@@ -1,0 +1,17 @@
+.github/
+Annotation/
+DependencyInjection/
+EventListener/
+Exception/
+Resources/config/
+Tests/
+.gitattributes
+.gitignore
+.scrutinizer.yml
+.styleci.yml
+.travis.yml
+FreshVichUploaderSerializationBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

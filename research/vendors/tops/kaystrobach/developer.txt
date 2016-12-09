@@ -1,0 +1,11 @@
+Classes/
+Documentation/
+Resources/
+.gitignore
+.travis.yml
+README.rst
+composer.json
+ext_emconf.php
+ext_icon.gif
+ext_localconf.php
+ext_tables.php

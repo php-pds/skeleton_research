@@ -1,0 +1,13 @@
+build/
+config/
+src/Zoop/GatewayModule/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist
+ruleset.xml
+shippable.yml

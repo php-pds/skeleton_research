@@ -1,0 +1,4 @@
+src/Jenssegers/Mongodb/Session/
+.gitignore
+README.md
+composer.json

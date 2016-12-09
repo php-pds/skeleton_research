@@ -1,0 +1,15 @@
+app/
+config/
+public/
+scripts/tasks/options/
+tests/
+.bowerrc
+.gitignore
+.scrutinizer.yml
+.travis.yml
+Gruntfile.js
+README.md
+bower.json
+composer.json
+composer.lock
+package.json

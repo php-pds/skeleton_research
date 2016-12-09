@@ -1,0 +1,9 @@
+Command/
+DependencyInjection/
+Entity/
+Resources/config/
+Service/
+.gitignore
+AciliaDBLoggerBundle.php
+README.md
+composer.json

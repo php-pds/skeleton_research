@@ -1,0 +1,15 @@
+Command/
+DependencyInjection/
+Locator/
+Metadata/
+Resources/
+Runner/
+Tests/
+Utils/
+.coveralls.yml
+.gitignore
+.travis.yml
+README.md
+XsolveUnitSkelgenBundle.php
+composer.json
+composer.lock

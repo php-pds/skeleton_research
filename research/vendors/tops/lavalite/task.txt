@@ -1,0 +1,12 @@
+config/
+database/
+public/
+resources/
+src/Lavalite/Task/
+tests/
+.gitignore
+.travis.yml
+composer.json
+license.md
+phpunit.xml
+readme.md

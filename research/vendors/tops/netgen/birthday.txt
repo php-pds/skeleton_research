@@ -1,0 +1,7 @@
+classes/parsers/
+datatypes/ezbirthday/
+design/standard/templates/
+settings/
+translations/
+composer.json
+extension.xml

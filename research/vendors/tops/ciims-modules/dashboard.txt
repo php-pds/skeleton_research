@@ -1,0 +1,15 @@
+assets/
+components/
+controllers/
+messages/en_us/
+tests/
+views/
+.gitignore
+DashboardModule.php
+Gruntfile.js
+LICENSE.md
+README.md
+bower.json
+codeception.yml
+composer.json
+package.json

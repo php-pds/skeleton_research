@@ -1,0 +1,12 @@
+src/Keboola/DbExtractor/
+tests/
+.gitignore
+.travis.yml
+Dockerfile
+README.md
+bootstrap.php
+composer.json
+composer.lock
+docker-compose.yml
+phpunit.sh
+phpunit.xml.dist

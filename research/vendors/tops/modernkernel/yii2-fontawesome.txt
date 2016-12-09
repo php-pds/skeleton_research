@@ -1,0 +1,4 @@
+FontawesomeAsset.php
+Icon.php
+README.md
+composer.json

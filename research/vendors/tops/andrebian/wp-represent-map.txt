@@ -1,0 +1,11 @@
+assets/
+classes/
+includes/
+languages/
+.gitignore
+CONTRIBUTING.md
+LICENSE
+README
+README.md
+composer.json
+wp-represent-map.php

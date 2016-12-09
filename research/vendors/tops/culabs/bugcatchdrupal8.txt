@@ -1,0 +1,6 @@
+config/
+src/
+README.md
+bugcatch.info.yml
+bugcatch.services.yml
+composer.json

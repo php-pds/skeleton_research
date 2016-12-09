@@ -1,0 +1,6 @@
+MogileFS/
+tests/
+.gitignore
+README.asciidoc
+composer.json
+phpunit.xml.dist

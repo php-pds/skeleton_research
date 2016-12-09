@@ -1,0 +1,12 @@
+config/Migrations/
+docs/
+src/
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE.txt
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

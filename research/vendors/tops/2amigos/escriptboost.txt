@@ -1,0 +1,7 @@
+assets/
+.gitignore
+EAssetManagerBoost.php
+EClientScriptBoost.php
+EScriptBoost.php
+README.md
+composer.json

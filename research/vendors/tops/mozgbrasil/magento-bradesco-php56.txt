@@ -1,0 +1,9 @@
+app/
+js/mozg_bradesco/
+shell/
+skin/
+LICENSE
+README.md
+README_Dev.md
+composer.json
+modman

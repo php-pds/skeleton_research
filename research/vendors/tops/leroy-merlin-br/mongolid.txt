@@ -1,0 +1,16 @@
+bootstrap/
+docs/
+src/Mongolid/
+tests/
+.coveralls.yml
+.gitignore
+.styleci.yml
+.travis.yml
+Makefile
+README.md
+coding_standard.xml
+composer.json
+mkdocs.yml
+phpunit.xml
+phpunit.xml.dist
+sami.php

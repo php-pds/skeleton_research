@@ -1,0 +1,8 @@
+includes/
+libraries/simple-admin-pages/
+LICENSE
+README.md
+composer.json
+image-hashtag-feed.php
+index.php
+uninstall.php

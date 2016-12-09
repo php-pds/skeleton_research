@@ -1,0 +1,5 @@
+assets/
+.gitignore
+JqueryWeUIAsset.php
+README.md
+composer.json

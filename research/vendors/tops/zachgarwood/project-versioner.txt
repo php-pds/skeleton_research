@@ -1,0 +1,10 @@
+binary/
+library/
+tests/
+.coveralls.yml
+.gitignore
+.travis.yml
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

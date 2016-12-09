@@ -1,0 +1,12 @@
+build/config/
+src/Contrib/Component/File/
+tests/Contrib/Component/File/
+travis/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+build.xml
+composer.json
+phpunit.xml.dist
+travis.phpunit.xml

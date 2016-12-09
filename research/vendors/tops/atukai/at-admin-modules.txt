@@ -1,0 +1,6 @@
+config/
+src/AtAdminModules/
+view/at-admin-modules/modules/
+Module.php
+README.md
+composer.json

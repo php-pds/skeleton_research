@@ -1,0 +1,7 @@
+src/DanielCosta/Dreamhost/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json

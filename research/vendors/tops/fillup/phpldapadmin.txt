@@ -1,0 +1,16 @@
+config/
+doc/
+hooks/
+htdocs/
+lib/
+locale/
+queries/
+templates/
+tools/
+.gitignore
+INSTALL.md
+LICENSE
+README.md
+VERSION
+composer.json
+index.php

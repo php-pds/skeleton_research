@@ -1,0 +1,11 @@
+assets/
+controllers/
+migrations/
+models/
+providers/
+views/
+widgets/
+Module.php
+README.md
+composer.json
+crud.sh

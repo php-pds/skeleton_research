@@ -1,0 +1,12 @@
+DependencyInjection/
+Doctrine/
+EventListener/MongoDBODM/
+EventSubscriber/
+MongoDB/
+Resources/config/
+spec/
+.travis.yml
+AkeneoStorageUtilsBundle.php
+README.md
+ROADMAP.md
+composer.json

@@ -1,0 +1,11 @@
+.externalToolBuilders/
+.settings/
+css/
+js/
+test/
+.buildpath
+.gitignore
+.project
+LICENSE
+README.md
+composer.json

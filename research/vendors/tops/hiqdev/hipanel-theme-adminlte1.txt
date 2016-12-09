@@ -1,0 +1,9 @@
+.hidev/
+views/layouts/
+.gitignore
+AdminLteTheme.php
+CHANGELOG.md
+LICENSE
+Plugin.php
+README.md
+composer.json

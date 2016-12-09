@@ -1,0 +1,8 @@
+Tests/
+.travis.yml
+LICENSE
+README.md
+Request.php
+Response.php
+composer.json
+phpunit.xml

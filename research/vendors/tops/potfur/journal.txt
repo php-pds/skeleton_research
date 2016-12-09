@@ -1,0 +1,11 @@
+example/
+spec/ExampleBank/
+src/Journal/
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.MD
+composer.json
+phpunit.xml.dist

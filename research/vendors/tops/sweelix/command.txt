@@ -1,0 +1,6 @@
+doc/
+CommandException.php
+Help.php
+README.md
+Runner.php
+composer.json

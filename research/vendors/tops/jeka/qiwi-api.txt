@@ -1,0 +1,5 @@
+src/Jeka/QiwiAPI/
+tests/
+.gitignore
+README.md
+composer.json

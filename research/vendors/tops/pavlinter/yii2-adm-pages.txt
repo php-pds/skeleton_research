@@ -1,0 +1,6 @@
+admpages/
+.gitattributes
+.gitignore
+CHANGE.md
+README.md
+composer.json

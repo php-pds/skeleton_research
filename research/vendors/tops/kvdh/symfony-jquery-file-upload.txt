@@ -1,0 +1,4 @@
+Resources/public/
+KvdhjQueryFileUploadBundle.php
+README.md
+composer.json

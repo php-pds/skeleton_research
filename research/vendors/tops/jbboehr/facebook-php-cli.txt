@@ -1,0 +1,8 @@
+tests/
+.gitattributes
+.gitignore
+.travis.yml
+Makefile
+README.md
+cli_facebook.php
+composer.json

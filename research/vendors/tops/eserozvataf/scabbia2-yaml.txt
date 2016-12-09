@@ -1,0 +1,11 @@
+src/Yaml/
+tests/Yaml/
+.gitignore
+.travis.yml
+LICENSE-Apache
+LICENSE-MIT
+Notes.txt
+README.md
+composer.json
+contributors.md
+sonar-project.properties

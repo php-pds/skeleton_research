@@ -1,0 +1,12 @@
+id/
+interfaces/
+signers/
+.gitignore
+.travis.yml
+Credentials.php
+LICENSE
+README.md
+Signer.php
+Token.php
+composer.json
+phpunit.xml.dist

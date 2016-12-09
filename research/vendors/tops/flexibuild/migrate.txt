@@ -1,0 +1,6 @@
+controllers/
+db/
+views/
+LICENSE
+README.md
+composer.json

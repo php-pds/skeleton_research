@@ -1,0 +1,9 @@
+docs/
+src/Galek/Socials/
+tests/GalekTests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock

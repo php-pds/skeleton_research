@@ -1,0 +1,6 @@
+bin/
+src/Sulu/Bundle/Sales/
+.gitignore
+LICENSE
+README.md
+composer.json

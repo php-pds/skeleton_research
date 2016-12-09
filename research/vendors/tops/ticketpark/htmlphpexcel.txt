@@ -1,0 +1,8 @@
+Resources/meta/
+example/
+lib/HtmlPhpExcel/
+tests/
+.gitignore
+README.md
+composer.json
+phpunit.xml

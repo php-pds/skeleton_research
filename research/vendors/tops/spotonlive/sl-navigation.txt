@@ -1,0 +1,12 @@
+build/logs/
+docs/
+src/
+tests/
+.codeclimate.yml
+.gitattributes
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml

@@ -1,0 +1,5 @@
+LICENSE.txt
+README.md
+composer.json
+jquery-ajax-localstorage-cache.js
+jquery-ajax-localstorage-cache.min.js

@@ -1,0 +1,11 @@
+Exceptions/
+Optimizers/
+Providers/
+Tests/
+Ui/
+.travis.yml
+Graphics.php
+Imgurl.php
+Makefile
+README.md
+composer.json

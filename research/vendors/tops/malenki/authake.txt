@@ -1,0 +1,12 @@
+Config/
+Controller/
+Model/
+Test/
+View/
+db/
+webroot/
+CHANGELOG.md
+LICENSE.md
+README.md
+VERSION.md
+composer.json

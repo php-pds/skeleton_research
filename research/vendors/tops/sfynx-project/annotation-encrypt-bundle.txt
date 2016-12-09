@@ -1,0 +1,12 @@
+Annotation/Encryptors/
+Builder/
+DependencyInjection/
+EventSubscriber/
+Resources/
+Tests/DependencyInjection/
+.gitignore
+.travis.yml
+LICENSE
+SfynxEncryptBundle.php
+composer.json
+phpunit.xml.dist

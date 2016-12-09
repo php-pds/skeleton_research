@@ -1,0 +1,7 @@
+documents/
+source/
+.gitignore
+composer.json
+composer.lock
+helpers.php
+phpunit.xml.dist

@@ -1,0 +1,6 @@
+resources/assets/
+src/
+.gitignore
+LICENSE
+composer.json
+composer.lock

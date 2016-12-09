@@ -1,0 +1,6 @@
+.gitignore
+LICENSE
+NestedSetsBehavior.php
+NestedSetsQueryBehavior.php
+README.md
+composer.json

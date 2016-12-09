@@ -1,0 +1,8 @@
+Buzz/Client/
+DependencyInjection/
+Resources/config/
+.gitignore
+DonatoHttpProxiedBuzzBundle.php
+LICENSE
+README.md
+composer.json

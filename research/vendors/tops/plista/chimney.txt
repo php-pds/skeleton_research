@@ -1,0 +1,13 @@
+bin/
+src/
+templates/changelog/
+tests/
+.gitattributes
+.gitignore
+CHANGELOG.md
+LICENSE.txt
+README.md
+USAGE
+composer.json
+composer.lock
+phpunit.xml.dist

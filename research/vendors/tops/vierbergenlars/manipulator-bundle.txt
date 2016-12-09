@@ -1,0 +1,9 @@
+Manipulator/
+Tests/
+Xml/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+composer.json
+phpunit.xml.dist
+readme.markdown

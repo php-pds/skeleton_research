@@ -1,0 +1,6 @@
+config/
+public/
+resources/views/
+src/
+.gitignore
+composer.json

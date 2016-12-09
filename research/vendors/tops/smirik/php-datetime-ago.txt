@@ -1,0 +1,9 @@
+doc/
+spec/Smirik/PHPDateTimeAgo/
+src/Smirik/PHPDateTimeAgo/
+test/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json

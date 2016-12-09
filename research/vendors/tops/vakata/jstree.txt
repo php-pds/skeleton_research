@@ -1,0 +1,13 @@
+demo/
+dist/
+src/
+test/
+.gitignore
+LICENSE-MIT
+README.md
+bower.json
+component.json
+composer.json
+gruntfile.js
+jstree.jquery.json
+package.json

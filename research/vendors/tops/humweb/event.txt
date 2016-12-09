@@ -1,0 +1,11 @@
+src/Humweb/Event/
+tests/
+.coveralls.yml
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml
+travis.php.ini

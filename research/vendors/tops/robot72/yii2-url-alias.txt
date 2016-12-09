@@ -1,0 +1,10 @@
+components/
+controllers/
+migrations/
+models/
+nbproject/
+views/
+.gitignore
+Module.php
+README.md
+composer.json

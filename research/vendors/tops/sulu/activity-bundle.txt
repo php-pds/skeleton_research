@@ -1,0 +1,15 @@
+Admin/
+Api/
+Controller/
+DataFixtures/
+DependencyInjection/
+Entity/
+Resources/
+Tests/Functional/Controller/
+.gitignore
+CHANGELOG.md
+Gruntfile.js
+README.md
+SuluActivityBundle.php
+composer.json
+package.json

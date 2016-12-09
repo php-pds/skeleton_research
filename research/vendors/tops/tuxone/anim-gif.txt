@@ -1,0 +1,5 @@
+src/GifCreator/
+test/
+CHANGES.txt
+README.md
+composer.json

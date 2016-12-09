@@ -1,0 +1,11 @@
+src/Mongator/
+tests/
+.gitignore
+.travis.ini
+.travis.sh
+.travis.yml
+CHANGELOG
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

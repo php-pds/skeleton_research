@@ -1,0 +1,5 @@
+config/
+src/AliasHelper/
+Module.php
+README.md
+composer.json

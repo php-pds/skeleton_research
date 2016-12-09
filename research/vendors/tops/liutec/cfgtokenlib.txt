@@ -1,0 +1,10 @@
+lib/ConfigToken/
+tests/ConfigToken/Tests/
+travis/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml

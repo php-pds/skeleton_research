@@ -1,0 +1,6 @@
+bin/
+src/ModmanGenerator/
+.gitignore
+LICENSE
+README.md
+composer.json

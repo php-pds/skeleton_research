@@ -1,0 +1,11 @@
+Api/
+Model/
+Plugin/
+Setup/
+Test/Model/Ldap/
+etc/
+i18n/
+.gitignore
+README.md
+composer.json
+registration.php

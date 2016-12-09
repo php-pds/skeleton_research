@@ -1,0 +1,10 @@
+assets/
+config/
+data/
+module/Application/
+public/
+script/
+.gitignore
+LICENSE
+README.md
+composer.json

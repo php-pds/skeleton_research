@@ -1,0 +1,8 @@
+config/
+src/ZfFoundation/View/Helper/
+view/helper/
+LICENSE
+Module.php
+README.md
+autoload_classmap.php
+composer.json

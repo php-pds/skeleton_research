@@ -1,0 +1,7 @@
+locales/en-US/
+model/update/
+scripts/
+views/js/pciCreator/dev/textReaderInteraction/
+README.md
+composer.json
+manifest.php

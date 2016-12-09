@@ -1,0 +1,10 @@
+public/default/
+src/
+tests/
+.gitignore
+.travis.yml
+LICENSE_SENTINEL
+LICENSE_SOA
+README.md
+composer.json
+phpunit.xml

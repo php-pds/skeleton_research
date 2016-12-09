@@ -1,0 +1,9 @@
+.gitattributes
+.gitignore
+CHANGELOG.md
+Cache.php
+README.md
+Zermelo.php
+composer.json
+custom_autoload.php
+example.php

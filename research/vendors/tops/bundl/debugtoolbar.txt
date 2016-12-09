@@ -1,0 +1,5 @@
+src/Bundl/DebugToolbar/
+.gitattributes
+.gitignore
+README.md
+composer.json

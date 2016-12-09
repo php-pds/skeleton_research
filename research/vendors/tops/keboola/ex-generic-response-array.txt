@@ -1,0 +1,7 @@
+src/Keboola/ExGenericModule/
+tests/Keboola/ExGenericModule/
+.gitignore
+LICENSE
+README.md
+composer.json
+phpunit.xml

@@ -1,0 +1,9 @@
+module/
+src/Netzmacht/Bootstrap/Modal/
+.check-author.yml
+.gitignore
+.travis.yml
+LICENSE
+README.md
+build.xml
+composer.json

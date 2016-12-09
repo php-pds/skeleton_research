@@ -1,0 +1,10 @@
+bin/
+configuration/
+controllers/
+models/
+templates/
+.gitignore
+README.markdown
+composer.json
+injector.php
+manifest.yml

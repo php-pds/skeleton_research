@@ -1,0 +1,6 @@
+languages/
+views/default/plugins/validation_reminder/
+README.md
+composer.json
+manifest.xml
+start.php

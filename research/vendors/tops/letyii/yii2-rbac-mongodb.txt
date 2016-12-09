@@ -1,0 +1,5 @@
+.gitignore
+LICENSE
+MongodbManager.php
+README.md
+composer.json

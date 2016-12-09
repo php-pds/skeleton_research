@@ -1,0 +1,11 @@
+app/
+assets/less/
+log/
+temp/
+web/
+.editorconfig
+.gitignore
+composer.json
+gulpfile.js
+package.json
+readme.md

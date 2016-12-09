@@ -1,0 +1,9 @@
+docs/
+src/Jasny/MySQL/
+tests/
+.travis.yml
+LICENSE
+README.md
+apigen.neon
+composer.json
+phpunit.xml.dist

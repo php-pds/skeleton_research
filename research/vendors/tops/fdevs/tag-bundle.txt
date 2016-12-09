@@ -1,0 +1,11 @@
+Controller/
+DependencyInjection/
+Form/Type/
+Resources/
+Sonata/Admin/
+.gitignore
+.travis.yml
+FDevsTagBundle.php
+README.md
+composer.json
+phpunit.xml.dist

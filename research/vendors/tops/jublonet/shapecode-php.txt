@@ -1,0 +1,11 @@
+demo-data/
+examples/
+src/
+.gitattributes
+.gitignore
+CHANGELOG
+CONTRIBUTING.md
+LICENSE
+README.md
+bower.json
+composer.json

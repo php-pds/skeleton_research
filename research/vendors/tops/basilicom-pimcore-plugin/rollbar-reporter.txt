@@ -1,0 +1,7 @@
+lib/RollbarReporter/
+.gitignore
+LICENSE.txt
+README.md
+composer.json
+plugin.xml
+rollbar.xml

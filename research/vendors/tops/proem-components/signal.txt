@@ -1,0 +1,10 @@
+Tests/
+.travis.yml
+Event.php
+EventInterface.php
+EventManager.php
+EventManagerInterface.php
+LICENSE
+README.md
+composer.json
+phpunit.xml

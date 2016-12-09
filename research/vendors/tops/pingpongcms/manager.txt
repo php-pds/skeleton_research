@@ -1,0 +1,15 @@
+Assets/
+Config/
+Console/
+Database/
+Entities/
+Http/
+Providers/
+Repositories/
+Resources/
+Tests/
+LICENSE
+composer.json
+menus.php
+module.json
+start.php

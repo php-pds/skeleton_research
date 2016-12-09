@@ -1,0 +1,10 @@
+bin/
+tests/phpunit/
+.editorconfig
+.gitattributes
+.gitignore
+.travis.yml
+README.md
+composer.json
+phpunit.xml
+woocommerce-coupon-links.php

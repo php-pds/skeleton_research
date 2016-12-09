@@ -1,0 +1,9 @@
+spec/Moccalotto/Math/
+src/
+.gitignore
+.php_cs
+.travis.yml
+LICENSE
+README.md
+composer.json
+demo.php

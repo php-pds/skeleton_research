@@ -1,0 +1,6 @@
+src/Control/
+.gitignore
+README.md
+composer.json
+demo.jpg
+license.md

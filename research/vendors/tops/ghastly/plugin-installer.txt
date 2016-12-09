@@ -1,0 +1,4 @@
+src/Ghastly/Composer/
+README.md
+UNLICENSE
+composer.json

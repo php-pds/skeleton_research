@@ -1,0 +1,6 @@
+src/DataIntegration/Workflow/
+tests/DataIntegration/Workflow/Tests/
+LICENSE.md
+README.md
+composer.json
+phpunit.xml

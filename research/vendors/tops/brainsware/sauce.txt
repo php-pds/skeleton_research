@@ -1,0 +1,6 @@
+Tests/
+lib/Sauce/
+.gitignore
+LICENSE
+README.md
+composer.json

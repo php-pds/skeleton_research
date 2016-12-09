@@ -1,0 +1,7 @@
+DependencyInjection/
+SessionHandler/
+.gitignore
+LICENSE
+README.md
+RedisSessionHandlerBundle.php
+composer.json

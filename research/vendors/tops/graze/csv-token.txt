@@ -1,0 +1,15 @@
+build/
+src/
+tests/
+.gitignore
+.travis.yml
+CHANGELOG.md
+CONTRIBUTING.md
+Dockerfile
+Dockerfile.blackfire
+LICENSE.md
+Makefile
+README.md
+composer.json
+phpcs.xml
+phpunit.xml.dist

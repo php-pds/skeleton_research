@@ -1,0 +1,16 @@
+dist/
+docs/
+src/
+.editorconfig
+.gitignore
+.jshintrc
+.travis.yml
+CONTRIBUTING.md
+Gruntfile.js
+LICENSE
+README.md
+bower.json
+composer.json
+index.html
+package.json
+serve.js

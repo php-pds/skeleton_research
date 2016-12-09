@@ -1,0 +1,3 @@
+lib/
+composer.json
+readme.md

@@ -1,0 +1,6 @@
+src/Igormatkovic/Memcache/
+tests/
+LICENCE
+README.md
+composer.json
+phpunit.xml

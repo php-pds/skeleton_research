@@ -1,0 +1,9 @@
+Controller/
+Test/Case/
+TestSuite/
+.gitattributes
+.gitignore
+.travis.yml
+README.md
+composer.json
+phpunit.xml.dist

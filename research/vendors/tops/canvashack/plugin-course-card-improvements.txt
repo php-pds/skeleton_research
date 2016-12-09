@@ -1,0 +1,6 @@
+.gitignore
+LICENSE.md
+composer.json
+course-cards.css
+course-cards.js
+manifest.xml

@@ -1,0 +1,7 @@
+Classes/KayStrobach/Cldr/
+Configuration/
+Documentation/
+Migrations/Mysql/
+Resources/Private/
+Readme.md
+composer.json

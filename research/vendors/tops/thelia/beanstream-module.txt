@@ -1,0 +1,15 @@
+Action/
+Config/
+Controller/
+Event/
+Form/
+Hook/
+I18n/
+Loop/
+Model/
+images/
+templates/
+BeanstreamModule.php
+LICENSE.txt
+Readme.md
+composer.json

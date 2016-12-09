@@ -1,0 +1,16 @@
+tests/
+webapp/
+.gitignore
+.htaccess
+.travis.yml
+Admin.php
+AdminDAO.php
+LICENSE
+MainController.php
+README.md
+Raffle.php
+RaffleDAO.php
+User.php
+composer.json
+config.php.dist
+main.php

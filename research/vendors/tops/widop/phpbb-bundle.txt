@@ -1,0 +1,7 @@
+DependencyInjection/
+Entity/
+Model/
+Resources/
+README.md
+WidopPhpBBBundle.php
+composer.json

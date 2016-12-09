@@ -1,0 +1,11 @@
+DependencyInjection/
+Resources/config/
+Tests/
+Twig/
+TwigGlobal/
+.gitignore
+LICENSE
+README.md
+TcTwigGlobalBundle.php
+composer.json
+phpunit.xml.dist

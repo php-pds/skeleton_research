@@ -1,0 +1,6 @@
+src/Pecee/Http/Dropbox/
+tests/
+.gitignore
+README.md
+composer.json
+composer.lock

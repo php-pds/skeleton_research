@@ -1,0 +1,14 @@
+bin/
+public_html/
+scripts/
+sql/
+src/
+tests/
+.gitignore
+.scrutinizer.yml
+Design.md
+README.md
+client.php
+composer.json
+server.php
+tor.php

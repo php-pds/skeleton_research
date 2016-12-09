@@ -1,0 +1,7 @@
+Source/Hynage/
+Tests/
+Tools/
+.gitignore
+LICENSE
+README.md
+composer.json

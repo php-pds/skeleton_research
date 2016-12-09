@@ -1,0 +1,10 @@
+ansible/
+src/
+.gitignore
+LICENSE
+README.md
+Vagrantfile
+commands.ini.dist
+composer.json
+demo.php
+servers.ini.dist

@@ -1,0 +1,6 @@
+src/KyleNoland/EloquentBaseCollection/
+tests/
+.gitignore
+.travis.yml
+composer.json
+phpunit.xml

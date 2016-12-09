@@ -1,0 +1,11 @@
+Exception/
+Model/
+Request/
+Response/
+Tests/
+.gitignore
+Client.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

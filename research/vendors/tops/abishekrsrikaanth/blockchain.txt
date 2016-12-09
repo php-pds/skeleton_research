@@ -1,0 +1,5 @@
+src/BlockChain/
+.gitignore
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,17 @@
+bin/
+src/
+test/
+.env.dist
+.gitattributes
+.gitignore
+.scrutinizer.yml
+.sensiolabs.yml
+.travis.yml
+CHANGELOG.md
+CONTRIBUTING.md
+LICENSE
+README.md
+composer.json
+php-sage50-logo.svg
+phpunit.xml.dist
+ruleset.xml

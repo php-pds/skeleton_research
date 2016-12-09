@@ -1,0 +1,7 @@
+spec/Knp/Rad/FixturesLoad/
+src/Knp/Rad/FixturesLoad/
+.gitignore
+.php_cs
+.travis.yml
+README.md
+composer.json

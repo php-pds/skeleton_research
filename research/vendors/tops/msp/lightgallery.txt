@@ -1,0 +1,6 @@
+etc/
+view/frontend/
+LIGHTGALLERY_LICENSE.md
+README.md
+composer.json
+registration.php

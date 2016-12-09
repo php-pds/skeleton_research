@@ -1,0 +1,7 @@
+Locale/jpn/LC_MESSAGES/
+Model/Behavior/
+Test/
+.gitignore
+.travis.yml
+README.md
+composer.json

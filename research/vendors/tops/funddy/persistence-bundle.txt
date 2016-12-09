@@ -1,0 +1,6 @@
+DependencyInjection/
+Resources/config/
+.gitignore
+FunddyPersistenceBundle.php
+README.md
+composer.json

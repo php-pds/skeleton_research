@@ -1,0 +1,11 @@
+demo/
+src/
+test/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+README.ru.md
+composer.json
+composer.lock
+phpunit.xml.dist

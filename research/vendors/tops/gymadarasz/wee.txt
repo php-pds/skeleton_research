@@ -1,0 +1,10 @@
+configs/
+plugins/
+test/
+.gitignore
+README.md
+Wee.php
+WeePluginAbstract.php
+WeePluginInterface.php
+composer.json
+license.txt

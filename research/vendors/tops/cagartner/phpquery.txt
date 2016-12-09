@@ -1,0 +1,9 @@
+bin/
+docs/
+src/
+.gitignore
+.travis.yml
+README.md
+autoload.php.dist
+composer.json
+phpunit.xml.dist

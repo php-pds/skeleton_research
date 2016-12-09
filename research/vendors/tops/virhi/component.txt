@@ -1,0 +1,7 @@
+Tests/Repository/
+src/Virhi/Component/
+.gitignore
+composer.json
+composer.lock
+phpci.yml
+phpunit.xml

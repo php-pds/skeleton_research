@@ -1,0 +1,13 @@
+config/
+src/
+tests/
+.gitattributes
+.gitignore
+.travis.yml
+CHANGELOG.md
+COPYNG
+README.md
+apigen.neon
+composer.json
+phpunit.xml.dist
+version

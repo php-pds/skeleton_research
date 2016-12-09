@@ -1,0 +1,8 @@
+lang/en/logs/
+screenshots/
+src/Controllers/Admin/
+themes/
+.gitignore
+README.md
+composer.json
+extension.php

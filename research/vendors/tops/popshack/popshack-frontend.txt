@@ -1,0 +1,15 @@
+app/
+bin/
+build/gradle/scripts/
+dist/
+src/Popshack/DefaultBundle/
+tests/
+views/
+web/
+.gitattributes
+.gitignore
+.travis.yml
+README.md
+build.xml
+cache.properties
+composer.json

@@ -1,0 +1,12 @@
+.idea/
+.web_package/
+doxygene/
+src/AKlump/LoftDataGrids/
+tests/
+tests_simpletest/
+.gitignore
+.htaccess
+LICENSE.txt
+README.md
+composer.json
+loft_data_grids.info

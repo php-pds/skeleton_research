@@ -1,0 +1,8 @@
+css/
+images/
+js/
+README.md
+composer.json
+index.html
+wizard-list-boat.html
+wizard-list-place.html

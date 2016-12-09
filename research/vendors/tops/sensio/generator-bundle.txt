@@ -1,0 +1,13 @@
+Command/
+Generator/
+Manipulator/
+Model/
+Resources/
+Tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+SensioGeneratorBundle.php
+composer.json
+phpunit.xml.dist

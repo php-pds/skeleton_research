@@ -1,0 +1,7 @@
+media/
+site/
+src/tryg/
+.gitignore
+README.md
+composer.json
+package.json

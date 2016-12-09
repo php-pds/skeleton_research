@@ -1,0 +1,6 @@
+lib/src/PorkChopSandwiches/PreserialiserServiceProvider/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json

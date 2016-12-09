@@ -1,0 +1,5 @@
+.gitignore
+README.md
+TestDoubleBundle.php
+composer.json
+composer.lock

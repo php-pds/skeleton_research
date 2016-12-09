@@ -1,0 +1,13 @@
+libraries/
+tests/
+.editorconfig
+.gitignore
+ChangeLog.md
+LICENSE.md
+README.md
+ci_instance.php
+composer.json
+composer.lock
+install.php
+phpunit.php
+phpunit.xml.dist

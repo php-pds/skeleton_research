@@ -1,0 +1,5 @@
+bin/
+src/Bstools/
+.gitignore
+README.markdown
+composer.json

@@ -1,0 +1,12 @@
+Model/Behavior/
+Test/
+.editorconfig
+.gitattributes
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CONTRIBUTING.md
+LICENSE.txt
+README.md
+appveyor.yml
+composer.json

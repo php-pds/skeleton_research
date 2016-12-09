@@ -1,0 +1,9 @@
+bin/
+library/Pants/
+tests/
+.gitignore
+README
+activate
+composer.json
+composer.lock
+phpunit.xml

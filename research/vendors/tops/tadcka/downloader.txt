@@ -1,0 +1,11 @@
+Exception/
+Image/
+Tests/
+.gitignore
+.travis.yml
+File.php
+FileDownloader.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

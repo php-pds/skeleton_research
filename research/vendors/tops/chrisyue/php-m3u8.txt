@@ -1,0 +1,13 @@
+Loader/
+M3u8/
+Tests/
+.gitignore
+.php_cs
+.styleci.yml
+.travis.yml
+Dumper.php
+LICENSE
+Parser.php
+README.md
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,8 @@
+Controller/
+DependencyInjection/
+Resources/
+CampaignChainActivitySocialMediaBundle.php
+LICENSE
+README.md
+campaignchain.yml
+composer.json

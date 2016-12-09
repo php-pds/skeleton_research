@@ -1,0 +1,16 @@
+config/
+data/
+public/
+src/
+tests/
+view/noodle/
+.project
+.travis.yml
+Module.php
+README.md
+autoload_classmap.php
+cli-config.php
+composer.json
+composer.lock
+composer.phar
+phpunit.xml.dist

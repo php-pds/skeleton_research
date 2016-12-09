@@ -1,0 +1,4 @@
+Debug/
+.gitignore
+composer.json
+helpers.php

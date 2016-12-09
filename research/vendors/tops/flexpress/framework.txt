@@ -1,0 +1,7 @@
+config/
+public_html/
+.gitignore
+LICENSE
+README.md
+composer.json
+wp-cli.yml

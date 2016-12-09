@@ -1,0 +1,9 @@
+config/
+docs/
+src/RtExtends/
+test/
+.travis.yml
+Module.php
+README.md
+autoload_classmap.php
+composer.json

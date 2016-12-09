@@ -1,0 +1,7 @@
+src/KrisanAlfa/Theme/
+templates/
+www/vendor/blade-naked/
+.gitignore
+LICENSE
+README.md
+composer.json

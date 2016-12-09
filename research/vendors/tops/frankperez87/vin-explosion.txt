@@ -1,0 +1,8 @@
+spec/VinExplosion/
+src/VinExplosion/
+.gitignore
+.travis.yml
+README.md
+composer.json
+composer.lock
+phpspec.yml

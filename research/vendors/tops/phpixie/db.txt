@@ -1,0 +1,4 @@
+classes/PHPixie/
+tests/
+README.md
+composer.json

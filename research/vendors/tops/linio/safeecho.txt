@@ -1,0 +1,11 @@
+src/
+tests/
+.gitignore
+.php_cs
+CONFIG.md
+Jenkinsfile
+LICENSE.md
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

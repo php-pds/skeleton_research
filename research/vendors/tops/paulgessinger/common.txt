@@ -1,0 +1,7 @@
+src/PG/Common/
+tests/
+.gitignore
+.travis.yml
+MIT-LICENSE.txt
+composer.json
+phpunit.xml

@@ -1,0 +1,16 @@
+CacheWarmer/
+Command/
+Controller/
+DependencyInjection/
+EventListener/
+Exception/
+Handler/
+Metadata/
+Resources/config/
+Security/
+Serializer/
+Tests/
+LICENSE
+README.md
+WellCommerceApiBundle.php
+composer.json

@@ -1,0 +1,8 @@
+examples/
+src/Pkj/Raspberry/PiFace/
+tests/
+.gitignore
+.travis.yml
+README.md
+composer.json
+phpunit.xml.dist

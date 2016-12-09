@@ -1,0 +1,11 @@
+config/
+data/
+design/
+public/
+.gitignore
+LICENSE
+README.md
+composer.json
+init_autoloader.php
+install.bat
+install.sh

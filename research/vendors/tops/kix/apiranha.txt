@@ -1,0 +1,11 @@
+examples/
+src/
+tests/
+.gitignore
+.scruntizer.yml
+.travis.yml
+README.md
+bootstrap.php
+composer.json
+phpunit.xml.dist
+sami.php

@@ -1,0 +1,8 @@
+src/
+LICENSE
+README.md
+autoload.php
+changelog.txt
+composer.json
+install.txt
+license.txt

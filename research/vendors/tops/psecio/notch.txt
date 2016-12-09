@@ -1,0 +1,13 @@
+assets/
+bin/
+controller/
+lib/Notch/
+migrations/
+templates/
+vagrant/
+.env
+.htaccess
+README.md
+composer.json
+index.php
+phinx.yml

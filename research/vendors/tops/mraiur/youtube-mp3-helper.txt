@@ -1,0 +1,8 @@
+src/
+vendor/
+.example.env
+.gitignore
+README.md
+cli.php
+composer.json
+search.php

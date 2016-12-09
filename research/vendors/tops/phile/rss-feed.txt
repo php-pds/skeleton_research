@@ -1,0 +1,8 @@
+Classes/
+.gitignore
+Icon.png
+LICENSE
+README.md
+composer.json
+config.php
+template.php

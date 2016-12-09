@@ -1,0 +1,16 @@
+build/
+cache/
+log/
+src/
+tests/
+web/
+.gitattributes
+.gitignore
+.scrutinizer.yml
+.travis.yml
+Changelog.md
+LICENSE
+README.md
+TODO
+composer.json
+phpunit.xml

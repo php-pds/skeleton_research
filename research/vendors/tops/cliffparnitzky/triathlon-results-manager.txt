@@ -1,0 +1,5 @@
+system/modules/TriathlonResultsManager/
+.gitattributes
+.gitignore
+README.md
+composer.json

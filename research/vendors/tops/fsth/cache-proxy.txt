@@ -1,0 +1,9 @@
+app/
+bootstrap/
+src/
+tests/
+.gitignore
+README.md
+composer.json
+phinx.php.dist
+phpunit.xml.dist

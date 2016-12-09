@@ -1,0 +1,7 @@
+src/Ideil/Storage/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+composer.json
+phpunit.xml

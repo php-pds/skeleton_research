@@ -1,0 +1,4 @@
+config/
+src/MdoBundleZf2Locale/
+Module.php
+composer.json

@@ -1,0 +1,9 @@
+config/
+lib/
+locale/
+.gitattributes
+.gitignore
+.travis.yml
+LICENSE
+Makefile
+composer.json

@@ -1,0 +1,7 @@
+app/
+src/Beaast/
+testing/
+.gitignore
+LICENSE
+composer.json
+composer.lock

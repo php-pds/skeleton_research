@@ -1,0 +1,12 @@
+DependencyInjection/
+Resources/config/
+Services/
+Tests/Services/
+Twig/
+.gitignore
+.travis.yml
+HappyRSlugifyBundle.php
+README.md
+build.xml
+composer.json
+phpunit.xml.dist

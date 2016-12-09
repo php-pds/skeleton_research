@@ -1,0 +1,9 @@
+docs/
+src/codenamegary/urlparser/
+tests/
+.gitignore
+.travis.yml
+composer.json
+phpunit.xml
+readme.md
+urlparser-php-icon.png

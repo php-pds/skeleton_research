@@ -1,0 +1,5 @@
+Tests/
+bin/
+src/Dongww/Db/
+README.md
+composer.json

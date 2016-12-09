@@ -1,0 +1,13 @@
+conf/
+scripts/
+wp-content/
+.brackets.json
+.env.example
+.gitignore
+CONTRIBUTORS
+LICENSE.md
+README.md
+composer.json
+composer.lock
+wp-cli.yml
+wp-config.php

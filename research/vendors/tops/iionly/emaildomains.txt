@@ -1,0 +1,9 @@
+actions/
+languages/
+views/default/admin/users/
+CHANGES.txt
+LICENCE.txt
+README.md
+composer.json
+manifest.xml
+start.php

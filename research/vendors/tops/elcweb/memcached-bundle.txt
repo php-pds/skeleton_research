@@ -1,0 +1,16 @@
+Cache/
+Command/
+DataCollector/
+DependencyInjection/
+Doctrine/Cache/
+Resources/
+Session/Storage/
+Tests/
+.gitignore
+.travis-php.ini
+.travis.yml
+LICENSE
+LswMemcacheBundle.php
+README.md
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,5 @@
+config/
+src/
+stubs/
+.gitignore
+composer.json

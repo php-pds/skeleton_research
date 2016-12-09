@@ -1,0 +1,11 @@
+components/
+controllers/
+messages/
+models/
+validators/
+views/
+widgets/
+Bootstrap.php
+LICENSE
+Module.php
+composer.json

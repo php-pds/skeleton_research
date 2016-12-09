@@ -1,0 +1,10 @@
+src/AlgoliaSpecificationBundle/
+tests/AlgoliaSpecificationBundle/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+Makefile
+README.md
+composer.json
+phpunit.xml.dist

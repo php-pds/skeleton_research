@@ -1,0 +1,11 @@
+.github/
+DependencyInjection/
+Resources/config/
+Tests/DependencyInjection/
+.gitignore
+.travis.yml
+FreshdeskBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

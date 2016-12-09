@@ -1,0 +1,8 @@
+tests/
+.dockerignore
+.gitignore
+Dockerfile
+LICENSE
+README.md
+composer.json
+s3-expand

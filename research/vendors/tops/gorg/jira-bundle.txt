@@ -1,0 +1,5 @@
+DependencyInjection/
+Resources/
+Services/
+GorgJiraBundle.php
+composer.json

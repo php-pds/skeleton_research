@@ -1,0 +1,11 @@
+spec/Email/
+src/Email/
+.gitattributes
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CONTRIBUTING.md
+LICENSE
+README.md
+composer.json
+phpspec.yml

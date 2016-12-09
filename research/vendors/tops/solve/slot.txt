@@ -1,0 +1,9 @@
+Blocks/
+Modifiers/
+Tests/
+.gitignore
+Compiler.php
+LICENSE
+README.md
+Slot.php
+composer.json

@@ -1,0 +1,7 @@
+resources/
+src/
+.gitignore
+README.md
+TODO.md
+composer.json
+lucid

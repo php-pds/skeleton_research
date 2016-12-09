@@ -1,0 +1,16 @@
+_docs/
+config/
+examples/
+src/
+tests/
+.editorconfig
+.gitattributes
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CONTRIBUTING.md
+LICENSE.md
+README.md
+composer.json
+helpers.php
+phpunit.xml

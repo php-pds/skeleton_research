@@ -1,0 +1,5 @@
+example/
+src/Mindy/SocialAuth/
+.gitignore
+composer.json
+readme.md

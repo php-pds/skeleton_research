@@ -1,0 +1,7 @@
+Classes/Networkteam/Tika/
+Configuration/
+Resources/Private/Jar/
+Tests/Functional/
+.travis.yml
+README.md
+composer.json

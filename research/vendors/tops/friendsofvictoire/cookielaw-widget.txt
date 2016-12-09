@@ -1,0 +1,7 @@
+DependencyInjection/
+Entity/
+Form/
+Resources/
+README.md
+VictoireWidgetCookieLawBundle.php
+composer.json

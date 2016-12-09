@@ -1,0 +1,8 @@
+Loaders/
+Tests/
+CHANGELOG.md
+ClassLoader.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

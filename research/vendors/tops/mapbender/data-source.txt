@@ -1,0 +1,15 @@
+Component/
+Controller/
+DependencyInjection/
+Documents/
+Element/
+Entity/
+Extension/
+Resources/
+Tests/
+Util/
+.gitignore
+LICENSE
+MapbenderDataSourceBundle.php
+README.md
+composer.json

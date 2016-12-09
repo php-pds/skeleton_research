@@ -1,0 +1,9 @@
+tests/unit/
+vendor/
+.gitignore
+Component.php
+CryptXXTEA.php
+README.md
+composer.json
+example.php
+phpunit.xml.dist

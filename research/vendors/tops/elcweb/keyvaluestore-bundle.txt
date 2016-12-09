@@ -1,0 +1,15 @@
+Controller/
+DependencyInjection/
+DoctrineMigrations/
+Entity/
+EventListener/
+Form/
+Resources/
+Tests/
+.gitignore
+.travis.yml
+ElcwebKeyValueStoreBundle.php
+KeyValueStore.php
+README.md
+composer.json
+phpunit.xml.dist

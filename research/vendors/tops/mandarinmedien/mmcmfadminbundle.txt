@@ -1,0 +1,11 @@
+Admin/
+Controller/
+DependencyInjection/
+Form/
+Resources/
+.bowerrc
+.gitignore
+MMCmfAdminBundle.php
+README.md
+bower.json
+composer.json

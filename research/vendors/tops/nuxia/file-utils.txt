@@ -1,0 +1,10 @@
+Exception/
+Exporter/
+File/
+Iterator/
+.gitignore
+LICENSE
+README.md
+TODO.md
+composer.json
+phpunit.xml.dist

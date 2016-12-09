@@ -1,0 +1,5 @@
+config/
+src/ArpOrmSpecification/
+test/
+README.md
+composer.json

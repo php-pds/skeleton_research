@@ -1,0 +1,4 @@
+Session/
+.gitignore
+README.md
+composer.json

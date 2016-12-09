@@ -1,0 +1,17 @@
+doc/
+example/
+.gitignore
+Base.php
+ConversionMimetype.php
+Curl.php
+Endpoint.php
+Namespace.php
+Net.php
+ParserCSV.php
+ParserSparqlResult.php
+ParserTurtle.php
+README.md
+ToolsBlankNode.php
+ToolsConvert.php
+composer.json
+query

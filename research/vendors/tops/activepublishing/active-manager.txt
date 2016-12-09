@@ -1,0 +1,6 @@
+controllers/
+lib/ActiveManager/
+static/
+views/scripts/index/
+composer.json
+plugin.xml

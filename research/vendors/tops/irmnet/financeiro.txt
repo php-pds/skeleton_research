@@ -1,0 +1,7 @@
+config/
+src/Financeiro/Controller/
+view/Financeiro/index/
+.gitignore
+Module.php
+autoload_classmap.php
+composer.json

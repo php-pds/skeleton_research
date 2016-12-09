@@ -1,0 +1,14 @@
+docs/
+lib/Doctrine/ODM/MongoDB/
+tests/
+tools/sandbox/
+.gitignore
+.gitmodules
+.travis.yml
+CHANGELOG-1.0.md
+LICENSE
+README.markdown
+composer.json
+composer.lock
+doctrine-mongo-mapping.xsd
+phpunit.xml.dist

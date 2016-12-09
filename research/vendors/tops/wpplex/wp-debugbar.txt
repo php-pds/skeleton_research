@@ -1,0 +1,5 @@
+DebugBar/
+LICENSE
+README.md
+WP_DebugBar.php
+composer.json

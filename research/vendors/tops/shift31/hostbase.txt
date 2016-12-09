@@ -1,0 +1,14 @@
+app/
+bootstrap/
+couchbase-stub/
+provisioning/
+public/
+.gitattributes
+.gitignore
+LICENSE
+README.md
+Vagrantfile
+artisan
+composer.json
+composer.lock
+server.php

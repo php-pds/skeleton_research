@@ -1,0 +1,10 @@
+assets/img/
+languages/
+libraries/
+migrations/
+views/admin/products/tabs/
+.gitignore
+LICENSE
+README.md
+composer.json
+custom_products_details.php

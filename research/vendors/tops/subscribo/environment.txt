@@ -1,0 +1,5 @@
+src/Subscribo/Environment/
+.gitignore
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,11 @@
+Tests/
+.gitignore
+GithubArticle.php
+GithubArticleProvider.php
+GithubArticleService.php
+GithubArticleServiceProvider.php
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

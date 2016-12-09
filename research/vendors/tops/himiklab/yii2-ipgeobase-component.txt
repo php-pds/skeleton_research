@@ -1,0 +1,6 @@
+migrations/
+IpData.php
+IpGeoBase.php
+LICENSE
+README.md
+composer.json

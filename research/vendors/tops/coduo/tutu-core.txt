@@ -1,0 +1,14 @@
+config/
+features/
+resources/
+src/Coduo/TuTu/
+var/
+web/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+behat.yml.dist
+composer.json
+composer.lock
+phpspec.yml.dist

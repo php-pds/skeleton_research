@@ -1,0 +1,6 @@
+src/
+CHANGELOG.md
+README.md
+composer.json
+ddGetDocuments_snippet.php
+require.php

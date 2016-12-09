@@ -1,0 +1,17 @@
+Controller/
+DataFixtures/ORM/
+DependencyInjection/
+Entity/
+Event/
+Form/
+Listener/
+Mailer/
+Manager/
+Model/
+Resources/
+Subscriber/
+Tests/Controller/
+.gitignore
+BigfootUserBundle.php
+README.md
+composer.json

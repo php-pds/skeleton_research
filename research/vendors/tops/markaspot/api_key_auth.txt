@@ -1,0 +1,10 @@
+config/schema/
+src/
+README.md
+api_key_auth.info.yml
+api_key_auth.links.action.yml
+api_key_auth.links.menu.yml
+api_key_auth.module
+api_key_auth.routing.yml
+api_key_auth.services.yml
+composer.json

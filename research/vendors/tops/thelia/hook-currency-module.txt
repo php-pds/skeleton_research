@@ -1,0 +1,5 @@
+Config/
+templates/frontOffice/default/
+HookCurrency.php
+LICENSE.txt
+composer.json

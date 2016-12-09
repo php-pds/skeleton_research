@@ -1,0 +1,13 @@
+_config/
+code/
+javascript/
+thirdparty/mousetrap/
+.editorconfig
+.gitattributes
+.gitignore
+.scrutinizer.yml
+CHANGELOG.md
+LICENSE
+README.md
+_config.php
+composer.json

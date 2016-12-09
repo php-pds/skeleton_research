@@ -1,0 +1,17 @@
+controllers/
+migrations/
+models/
+records/
+resources/
+services/
+templates/
+tests/
+translations/
+variables/
+.scrutinizer.yml
+.travis.yml
+ExportPlugin.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

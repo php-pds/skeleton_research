@@ -1,0 +1,8 @@
+.editorconfig
+.travis.yml
+LICENSE.md
+README.md
+composer.json
+h5bp-htaccess.conf
+ruleset.xml
+wp-h5bp-htaccess.php

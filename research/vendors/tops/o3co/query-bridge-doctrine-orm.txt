@@ -1,0 +1,14 @@
+adapters/DoctrineExtension/
+bridges/
+extensions/
+lib/
+sample/client/
+tests/
+.gitignore
+.package.split
+.package.tag
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

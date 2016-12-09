@@ -1,0 +1,17 @@
+bootstrap/cache/
+config/
+docs/
+resources/views/alerts/
+src/SellerLabs/Illuminated/
+tests/
+.editorconfig
+.formatter.yml
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+apigen.sh
+composer.json
+composer.lock
+phpunit.xml

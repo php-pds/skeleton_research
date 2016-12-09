@@ -1,0 +1,13 @@
+lib/Framework/
+test/
+web/
+.gitignore
+.htaccess
+.travis.yml
+CONTRIBUTORS.md
+EXAMPLE.md
+LICENSE.md
+README.md
+cli-config.php
+composer.json
+phpunit.xml

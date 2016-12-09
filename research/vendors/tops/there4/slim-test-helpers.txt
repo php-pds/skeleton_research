@@ -1,0 +1,9 @@
+src/There4/Slim/Test/
+tests/
+.codeclimate.yml
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml

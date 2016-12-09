@@ -1,0 +1,8 @@
+src/GetLocalization/
+tests/GetLocalization/
+.gitignore
+.travis.yml
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

@@ -1,0 +1,10 @@
+_config/
+code/
+images/
+templates/
+tests/
+.scrutinizer.yml
+LICENSE.md
+Readme.md
+_config.php
+composer.json

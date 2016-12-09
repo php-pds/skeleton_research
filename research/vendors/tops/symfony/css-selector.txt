@@ -1,0 +1,12 @@
+Exception/
+Node/
+Parser/
+Tests/
+XPath/
+.gitignore
+CHANGELOG.md
+CssSelectorConverter.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,11 @@
+resources/views/
+src/
+.editorconfig
+.gitattributes
+.gitignore
+.php_cs
+CHANGELOG.md
+LICENSE
+README.md
+composer.json
+orchestra.json

@@ -1,0 +1,5 @@
+app/
+skin/frontend/base/default/
+README.md
+composer.json
+modman

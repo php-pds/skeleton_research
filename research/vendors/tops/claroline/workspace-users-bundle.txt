@@ -1,0 +1,13 @@
+Controller/
+Entity/
+Form/
+Listener/
+Manager/
+Migrations/pdo_mysql/
+Repository/
+Resources/
+Validator/Constraints/
+ClarolineWorkspaceUsersBundle.php
+LICENSE
+README.md
+composer.json

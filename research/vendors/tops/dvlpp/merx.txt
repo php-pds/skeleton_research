@@ -1,0 +1,11 @@
+config/
+database/
+src/
+tests/
+.gitattributes
+.gitignore
+.travis.yaml
+artisan
+composer.json
+phpunit.xml
+readme.md

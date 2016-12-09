@@ -1,0 +1,6 @@
+API/
+assets/
+src/RM/
+.scrutinizer.yml
+README.md
+composer.json

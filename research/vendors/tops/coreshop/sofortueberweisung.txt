@@ -1,0 +1,10 @@
+controllers/
+install/
+lib/Sofortueberweisung/
+static/
+views/scripts/payment/
+.gitignore
+README.md
+composer.json
+composer.lock
+plugin.xml

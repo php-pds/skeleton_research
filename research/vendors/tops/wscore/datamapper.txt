@@ -1,0 +1,7 @@
+src/WScore/
+tests/
+.gitignore
+ModelCSV.md
+README.md
+composer.json
+composer.lock

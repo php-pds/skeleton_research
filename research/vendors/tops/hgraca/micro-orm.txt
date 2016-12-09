@@ -1,0 +1,12 @@
+src/
+tests/
+.gitattributes
+.gitignore
+.php_cs.dist
+.scrutinizer.yml
+LICENSE
+Makefile
+README.md
+composer.json
+humbug.json.dist
+phpunit.xml

@@ -1,0 +1,5 @@
+CONTRIBUTING.md
+ColorsOfImage.php
+README.md
+composer.json
+test.php

@@ -1,0 +1,7 @@
+assets/css/
+.gitignore
+LICENSE
+NavSidebar.php
+NavSidebarAsset.php
+README.md
+composer.json

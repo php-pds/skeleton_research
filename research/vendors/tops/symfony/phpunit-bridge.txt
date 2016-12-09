@@ -1,0 +1,13 @@
+Tests/
+TextUI/
+bin/
+.gitignore
+ClockMock.php
+DeprecationErrorHandler.php
+DnsMock.php
+LICENSE
+README.md
+SymfonyTestsListener.php
+bootstrap.php
+composer.json
+phpunit.xml.dist

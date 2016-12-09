@@ -1,0 +1,7 @@
+public/
+src/Papajoker/Bootstrap3/
+.gitignore
+.travis.yml
+README.md
+composer.json
+phpunit.xml

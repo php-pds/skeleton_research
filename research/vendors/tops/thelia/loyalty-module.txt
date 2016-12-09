@@ -1,0 +1,12 @@
+AdminIncludes/
+Config/
+Controller/
+EventListeners/
+Form/
+I18n/
+Loop/
+Model/
+LICENCE.txt
+Loyalty.php
+Readme.md
+composer.json

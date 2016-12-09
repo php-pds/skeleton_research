@@ -1,0 +1,6 @@
+src/Ipunkt/Permissions/
+tests/
+LICENSE
+README.md
+composer.json
+phpunit.xml

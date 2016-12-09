@@ -1,0 +1,13 @@
+Builder/
+Command/
+DependencyInjection/
+Exception/
+Manager/
+Resources/config/
+Tests/DependencyInjection/
+.gitignore
+.travis.yml
+LICENSE
+SfynxDatabaseBundle.php
+composer.json
+phpunit.xml.dist

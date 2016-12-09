@@ -1,0 +1,10 @@
+views/moufla/
+.gitignore
+LICENSE.txt
+README.md
+composer.json
+controller.php
+index.html
+logo.jpg
+moufla.php
+moufla.xml

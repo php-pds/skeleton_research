@@ -1,0 +1,14 @@
+database/
+resources/views/
+src/
+tests/
+.editorconfig
+.gitattributes
+.gitignore
+.scrutinizer.yml
+.styleci.yml
+.travis.yml
+LICENSE
+composer.json
+gulpfile.js
+phpunit.xml

@@ -1,0 +1,13 @@
+Action/
+Api/
+Request/Api/
+Resources/docs/
+Tests/
+.travis.yml
+CHANGELOG.md
+LICENSE
+PayexGatewayFactory.php
+README.md
+UPGRADE.md
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,6 @@
+data/
+php/
+tools/
+.gitignore
+README.md
+composer.json

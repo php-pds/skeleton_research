@@ -1,0 +1,7 @@
+sampledb/
+src/Jinraynor1/DbWrapper/
+tests/
+.gitattributes
+.gitignore
+README.markdown
+composer.json

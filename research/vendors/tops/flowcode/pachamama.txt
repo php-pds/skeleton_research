@@ -1,0 +1,7 @@
+nbproject/
+src/flowcode/pachamama/
+test/
+.gitignore
+LICENSE.txt
+README.md
+composer.json

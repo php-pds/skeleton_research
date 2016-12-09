@@ -1,0 +1,10 @@
+Action/
+Domain/
+Library/
+Resource/
+Responder/
+.gitignore
+CategoriesBundle.php
+LICENSE
+README.md
+composer.json

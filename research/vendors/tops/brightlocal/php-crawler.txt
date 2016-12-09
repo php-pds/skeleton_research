@@ -1,0 +1,11 @@
+classes/
+documentation/
+libs/
+test_interface/
+.gitignore
+CHANGELOG.txt
+LICENSE.txt
+composer.json
+example.php
+multiprocessing_example.php
+resumable_example.php

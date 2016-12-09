@@ -1,0 +1,5 @@
+Classes/Netlogix/JsonApiOrg/
+Configuration/
+LICENSE.txt
+composer.json
+package.json

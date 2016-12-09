@@ -1,0 +1,7 @@
+Config/
+Events/
+AliasLoader.php
+AppKernel.php
+Registry.php
+ServiceProvider.php
+composer.json

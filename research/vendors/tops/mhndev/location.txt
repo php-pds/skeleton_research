@@ -1,0 +1,15 @@
+data/
+src/
+tests/
+.gitignore
+README.md
+composer.json
+composer.lock
+echo.php
+elindex.php
+estimate.php
+geocode.php
+index.php
+reverse.php
+suggest-google.php
+suggest.php

@@ -1,0 +1,12 @@
+app/
+bin/
+src/AppBundle/
+tests/AppBundle/Command/
+var/
+.gitignore
+.sensiolabs.yml
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

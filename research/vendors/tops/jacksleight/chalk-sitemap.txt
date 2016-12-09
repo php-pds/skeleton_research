@@ -1,0 +1,6 @@
+frontend/conts/
+lib/
+CHANGELOG.md
+LICENCE.md
+README.md
+composer.json

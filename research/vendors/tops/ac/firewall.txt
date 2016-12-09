@@ -1,0 +1,12 @@
+Config/
+Event/
+Exception/
+Listener/
+Silex/
+Tests/
+.gitignore
+Firewall.php
+README.md
+TODO.md
+composer.json
+phpunit.xml.dist

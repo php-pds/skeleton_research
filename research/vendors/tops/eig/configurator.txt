@@ -1,0 +1,14 @@
+ExampleConfigurationFiles/
+TestConfigurationFiles/
+docs/
+src/Configurator/
+tests/
+.gitattributes
+.gitignore
+.styleci.yml
+.travis.yml
+LICENSE
+README.md
+changelog.txt
+composer.json
+phpunit.xml

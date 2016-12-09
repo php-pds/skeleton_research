@@ -1,0 +1,12 @@
+bin/
+phwoolcon-package/
+src/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README-zh.md
+README.md
+composer.json
+phpcs.xml
+phpunit.xml

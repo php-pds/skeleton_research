@@ -1,0 +1,5 @@
+Classes/KayStrobach/Toastr/ViewHelpers/
+Resources/Public/
+.gitignore
+README.md
+composer.json

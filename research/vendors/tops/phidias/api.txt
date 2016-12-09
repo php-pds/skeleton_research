@@ -1,0 +1,7 @@
+modules/debug.api/
+scripts/
+src/
+.gitignore
+README.md
+composer.json
+notes.txt

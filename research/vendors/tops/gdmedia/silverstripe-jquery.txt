@@ -1,0 +1,14 @@
+_config/
+code/
+thirdparty/
+.editorconfig
+.gitattributes
+.gitignore
+.scrutinizer.yml
+Gruntfile.js
+MIT-License
+README.md
+_config.php
+bower.json
+composer.json
+package.json

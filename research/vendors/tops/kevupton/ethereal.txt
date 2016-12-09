@@ -1,0 +1,4 @@
+src/Kevupton/Ethereal/
+.gitignore
+README.md
+composer.json

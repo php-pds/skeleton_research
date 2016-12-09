@@ -1,0 +1,3 @@
+Aplicacao/
+Dominio/
+composer.json

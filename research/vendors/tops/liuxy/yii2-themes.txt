@@ -1,0 +1,5 @@
+admin/
+frontend/default/
+LICENSE.md
+README.md
+composer.json

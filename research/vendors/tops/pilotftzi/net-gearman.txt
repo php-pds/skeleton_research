@@ -1,0 +1,7 @@
+examples/
+lib/Net/Gearman/
+tests/
+README.md
+composer.json
+composer.json~
+package.xml

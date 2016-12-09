@@ -1,0 +1,6 @@
+Entity/
+Resources/config/doctrine/
+.gitignore
+DevhelpMixedMappingDriverDemoBundle.php
+README.md
+composer.json

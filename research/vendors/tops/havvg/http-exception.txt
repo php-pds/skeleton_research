@@ -1,0 +1,9 @@
+src/Http/Exception/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist
+sismo.config.php.dist

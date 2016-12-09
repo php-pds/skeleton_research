@@ -1,0 +1,8 @@
+src/Cspray/Telluris/
+test/Telluris/Test/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

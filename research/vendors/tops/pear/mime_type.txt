@@ -1,0 +1,9 @@
+MIME/
+docs/examples/
+scripts/
+tests/
+.gitignore
+.travis.yml
+README.rst
+composer.json
+package.xml

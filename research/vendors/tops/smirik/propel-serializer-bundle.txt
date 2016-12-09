@@ -1,0 +1,9 @@
+Config/
+DependencyInjection/
+Resources/
+Serializer/
+.gitignore
+LICENSE
+README.md
+SmirikPropelSerializerBundle.php
+composer.json

@@ -1,0 +1,14 @@
+config/
+data_collector/
+di/pass/
+event/
+phpbb/
+styles/all/template/
+travis/
+.gitignore
+.travis.yml
+LICENSE.txt
+README.md
+composer.json
+ext.php
+phpunit.xml.dist

@@ -1,0 +1,6 @@
+src/
+.gitignore
+LICENSE
+build.xml
+composer.json
+phpcs.xml

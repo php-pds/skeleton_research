@@ -1,0 +1,10 @@
+docs/
+integration_tests/Provider/
+src/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

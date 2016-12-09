@@ -1,0 +1,12 @@
+sphinx/
+src/
+tests/
+.bowerrc
+.gitignore
+LICENSE
+README.md
+bower.json
+composer.json
+groovey
+groovey.png
+phpunit.xml

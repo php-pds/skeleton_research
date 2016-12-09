@@ -1,0 +1,14 @@
+Controller/
+DependencyInjection/
+Exception/
+Manager/
+Renderer/
+Resources/
+Storage/
+Tests/Controller/
+Twig/Extension/
+Widget/
+.gitignore
+EoWidgetBundle.php
+README.md
+composer.json

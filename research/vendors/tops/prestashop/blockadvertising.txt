@@ -1,0 +1,12 @@
+img/fixtures/
+translations/
+upgrade/
+CHANGELOG.txt
+Readme.md
+blockadvertising.php
+blockadvertising.tpl
+composer.json
+config.xml
+index.php
+logo.gif
+logo.png

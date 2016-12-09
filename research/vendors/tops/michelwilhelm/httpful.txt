@@ -1,0 +1,10 @@
+examples/
+src/Httpful/
+tests/
+.gitignore
+.travis.yml
+LICENSE.txt
+README.md
+bootstrap.php
+build
+composer.json

@@ -1,0 +1,5 @@
+Resources/public/js/
+LICENSE
+LadelaSlickGridBundle.php
+README.md
+composer.json

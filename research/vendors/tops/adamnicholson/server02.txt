@@ -1,0 +1,8 @@
+etc/
+opt/000-default.com/
+provision/
+.gitignore
+README.md
+Vagrantfile
+composer.json
+install.sh

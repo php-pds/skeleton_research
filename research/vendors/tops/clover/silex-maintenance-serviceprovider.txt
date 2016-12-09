@@ -1,0 +1,4 @@
+lib/Clover/Silex/Provider/
+LICENSE.md
+README.md
+composer.json

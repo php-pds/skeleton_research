@@ -1,0 +1,6 @@
+config/
+inspiration/
+src/
+LICENSE
+README.md
+composer.json

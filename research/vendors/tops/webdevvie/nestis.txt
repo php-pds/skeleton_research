@@ -1,0 +1,9 @@
+Tests/
+.gitignore
+.travis.yml
+LICENSE
+Nestis.php
+README.md
+composer.json
+composer.lock
+phpunit.xml

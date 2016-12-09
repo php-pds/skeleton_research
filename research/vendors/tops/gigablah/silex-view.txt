@@ -1,0 +1,10 @@
+demo/
+src/Gigablah/Silex/View/
+.coveralls.yml
+.gitattributes
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

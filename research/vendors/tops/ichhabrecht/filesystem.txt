@@ -1,0 +1,6 @@
+src/Filesystem/
+tests/Filesystem/
+.gitignore
+.travis.yml
+README.md
+composer.json

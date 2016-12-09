@@ -1,0 +1,5 @@
+classes/
+config/
+views/pagination/
+.gitignore
+composer.json

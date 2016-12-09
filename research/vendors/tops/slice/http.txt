@@ -1,0 +1,6 @@
+examples/
+src/Slice/Http/
+.gitignore
+LICENSE.md
+README.md
+composer.json

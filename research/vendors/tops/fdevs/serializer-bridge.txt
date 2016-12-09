@@ -1,0 +1,5 @@
+DependencyInjection/
+Resources/
+FDevsSerializerBundle.php
+README.md
+composer.json

@@ -1,0 +1,16 @@
+components/
+controllers/
+messages/
+migrations/
+models/
+tests/
+views/default/
+.gitattributes
+.gitignore
+.php_cs
+.travis.yml
+LICENSE.md
+Module.php
+README.md
+composer.json
+phpunit.xml.dist

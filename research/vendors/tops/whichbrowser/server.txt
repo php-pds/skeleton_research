@@ -1,0 +1,11 @@
+hooks/
+templates/
+.gitignore
+.htaccess
+.travis.yml
+LICENSE
+README.md
+bootstrap.php
+composer.json
+detect.php
+index.php

@@ -1,0 +1,9 @@
+classic/
+default/
+panther/
+stylish/
+tiny/
+composer.json
+readme.txt
+screenshot-1.gif
+wp-page-numbers.php

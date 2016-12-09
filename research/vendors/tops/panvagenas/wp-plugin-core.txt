@@ -1,0 +1,12 @@
+docs/
+lang/
+resources/includes/redux/
+src/
+templates/
+tests/
+.gitignore
+.travis.yml
+README.md
+composer.json
+composer.lock
+wp-plugin-core.php

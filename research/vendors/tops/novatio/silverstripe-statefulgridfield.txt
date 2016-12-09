@@ -1,0 +1,9 @@
+_config/
+admin/templates/
+javascript/
+.editorconfig
+.gitattributes
+.gitignore
+LICENSE
+README.md
+composer.json

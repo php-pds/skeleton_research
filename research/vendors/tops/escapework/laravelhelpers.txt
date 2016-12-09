@@ -1,0 +1,9 @@
+spec/EscapeWork/LaravelHelpers/
+src/
+.editorconfig
+.gitattributes
+.gitignore
+.travis.yml
+changelog.md
+composer.json
+readme.md

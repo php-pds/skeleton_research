@@ -1,0 +1,6 @@
+config/
+extensions/
+template/view/adapter/
+.gitignore
+README.md
+composer.json

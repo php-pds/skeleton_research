@@ -1,0 +1,5 @@
+Colorbox.php
+ColorboxAsset.php
+LICENSE
+README.md
+composer.json

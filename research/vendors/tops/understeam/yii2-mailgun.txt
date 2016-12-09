@@ -1,0 +1,6 @@
+.gitignore
+Mailer.php
+MailerException.php
+Message.php
+README.md
+composer.json

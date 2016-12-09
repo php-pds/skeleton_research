@@ -1,0 +1,14 @@
+actions/sharemaps/
+classes/
+graphics/
+languages/
+lib/
+vendors/drawonmaps/
+views/
+CHANGES.txt
+README.md
+activate.php
+composer.json
+manifest.xml
+start.php
+views.php

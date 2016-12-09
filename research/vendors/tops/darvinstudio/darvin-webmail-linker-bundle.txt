@@ -1,0 +1,6 @@
+DependencyInjection/
+Resources/config/
+DarvinWebmailLinkerBundle.php
+LICENSE
+README.md
+composer.json

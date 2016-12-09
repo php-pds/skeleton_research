@@ -1,0 +1,10 @@
+Soneritics/Beslist/
+tests/
+.coveralls.yml
+.gitignore
+.travis.yml
+ClassDiagram.dia
+ClassDiagram.png
+LICENSE
+README.md
+composer.json

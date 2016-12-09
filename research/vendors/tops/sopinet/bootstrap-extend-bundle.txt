@@ -1,0 +1,8 @@
+Composer/
+DependencyInjection/
+Resources/
+README.md
+SopinetBootstrapExtendBundle.php
+SopinetBootstrapExtendBundle.php~
+composer.json
+composer.json~

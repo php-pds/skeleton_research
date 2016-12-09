@@ -1,0 +1,5 @@
+view/
+README.md
+composer.json
+config.php
+git.php

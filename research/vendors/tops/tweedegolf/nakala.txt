@@ -1,0 +1,7 @@
+src/Tweedegolf/Nakala/
+test/
+.gitignore
+README.md
+behat.yml.dist
+composer.json
+phpspec.yml.dist

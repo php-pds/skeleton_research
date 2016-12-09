@@ -1,0 +1,6 @@
+README.md
+class-command.php
+class-job.php
+composer.json
+connector.php
+plugin.php

@@ -1,0 +1,4 @@
+example/
+src/Kollarovic/TrustPay/
+tests/
+composer.json

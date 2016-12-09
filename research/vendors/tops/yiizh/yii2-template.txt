@@ -1,0 +1,12 @@
+.idea/
+bin/
+src/
+vagrant/
+.gitignore
+Dockerfile
+LICENSE
+README.md
+Vagrantfile
+composer.json
+composer.lock
+env.ini

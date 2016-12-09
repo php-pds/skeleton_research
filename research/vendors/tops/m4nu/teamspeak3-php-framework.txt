@@ -1,0 +1,7 @@
+docs/html/
+examples/
+images/
+libraries/TeamSpeak3/
+changelog.txt
+composer.json
+license.txt

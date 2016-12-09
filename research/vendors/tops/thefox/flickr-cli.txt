@@ -1,0 +1,8 @@
+src/TheFox/
+.editorconfig
+.gitignore
+Makefile
+README.md
+application.php
+composer.json
+flickr-cli.sublime-project

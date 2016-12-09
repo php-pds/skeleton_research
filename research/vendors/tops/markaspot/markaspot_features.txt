@@ -1,0 +1,10 @@
+markaspot_article/
+markaspot_comment/
+markaspot_core/
+markaspot_page/
+markaspot_statement/
+markaspot_stats/
+markaspot_user/
+README.md
+composer.json
+markaspot.features.yml

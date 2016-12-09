@@ -1,0 +1,12 @@
+config/
+meta/
+scripts/
+src/Aura/Signal/
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+composer.json
+src.php

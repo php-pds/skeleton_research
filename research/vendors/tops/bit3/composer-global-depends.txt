@@ -1,0 +1,10 @@
+bin/
+src/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+build.default.properties
+build.xml
+composer.json
+composer.lock

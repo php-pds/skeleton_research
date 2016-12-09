@@ -1,0 +1,10 @@
+_config/
+code/
+tests/
+thirdparty/ForecastIO/
+.gitignore
+.travis.yml
+ChangeLog
+Readme.md
+_config.php
+composer.json

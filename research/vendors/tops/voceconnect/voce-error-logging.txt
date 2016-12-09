@@ -1,0 +1,4 @@
+bootstrap.php
+composer.json
+functions.php
+voce-error-logging.php

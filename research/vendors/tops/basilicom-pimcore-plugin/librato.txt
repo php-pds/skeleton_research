@@ -1,0 +1,7 @@
+lib/Librato/
+.gitignore
+LICENSE.txt
+README.md
+composer.json
+librato.xml
+plugin.xml

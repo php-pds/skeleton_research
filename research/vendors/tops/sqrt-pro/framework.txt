@@ -1,0 +1,13 @@
+app/
+bin/
+ctrl/
+inc/
+migrations/
+public_html/
+temp/
+tmpl/
+.gitignore
+LICENSE
+README.md
+composer.json
+phinx.php

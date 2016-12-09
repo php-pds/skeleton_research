@@ -1,0 +1,11 @@
+Tests/
+examples/
+src/Mindy/Orm/
+.gitignore
+.travis.yml
+LICENSE
+composer.json
+phpunit.xml
+readme.md
+src.php
+up.sh

@@ -1,0 +1,6 @@
+migrations/
+LICENSE
+README.md
+TargetModel.php
+TargetModelTrait.php
+composer.json

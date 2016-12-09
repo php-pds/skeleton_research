@@ -1,0 +1,5 @@
+src/Diggin/HTMLParser/
+tests/DigginTest/HTMLParser/
+.gitignore
+.travis.yml
+composer.json

@@ -1,0 +1,9 @@
+application/
+docs/
+library/Pheanstalk/
+public/
+vendor/
+.gitignore
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,7 @@
+examples/
+src/
+templates/
+HOWTO.txt
+README.md
+composer.json
+config.ini

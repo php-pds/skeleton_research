@@ -1,0 +1,14 @@
+i18n/
+libs/OpenLayers/
+.gitignore
+.gitreview
+.jscsrc
+.jshintignore
+.jshintrc
+COPYING
+Gruntfile.js
+OpenLayers.php
+composer.json
+extension.json
+package.json
+phpcs.xml

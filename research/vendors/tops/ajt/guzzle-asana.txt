@@ -1,0 +1,9 @@
+examples/
+src/AJT/Asana/
+.gitignore
+LICENSE
+README.md
+apikey-dist.php
+composer.json
+composer.lock
+oauthparams-dist.php

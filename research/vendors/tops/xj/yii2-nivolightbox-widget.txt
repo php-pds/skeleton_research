@@ -1,0 +1,4 @@
+DefaultThemeAsset.php
+LightboxAsset.php
+README.md
+composer.json

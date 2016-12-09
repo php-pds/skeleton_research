@@ -1,0 +1,15 @@
+DependencyInjection/
+Entity/
+Manager/
+Mapper/
+Merger/
+Processor/
+Resources/
+spec/Pim/Bundle/ConnectorMappingBundle/
+.gitignore
+PimConnectorMappingBundle.php
+README.md
+build.xml
+composer.json
+composer.lock
+phpspec.yml

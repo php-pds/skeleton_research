@@ -1,0 +1,10 @@
+DependencyInjection/
+Entity/
+Form/Module/
+Module/
+Resources/
+Tests/Functional/
+.gitignore
+ClasticBlogBundle.php
+LICENSE
+composer.json

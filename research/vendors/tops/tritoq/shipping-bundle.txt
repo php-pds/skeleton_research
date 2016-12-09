@@ -1,0 +1,9 @@
+.idea/
+DependencyInjection/
+Manager/
+Resources/
+Services/
+LICENSE
+README.md
+TritoqShippingBundle.php
+composer.json

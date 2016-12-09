@@ -1,0 +1,7 @@
+asset/
+config/
+src/FlashNotyMessenger/
+LICENSE
+Module.php
+README.md
+composer.json

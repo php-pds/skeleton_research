@@ -1,0 +1,12 @@
+docs/
+src/
+tests/app/
+.gitignore
+ChangeLog.md
+LICENSE
+README.md
+composer.json
+console
+phpunit.xml.dist
+server
+web.php

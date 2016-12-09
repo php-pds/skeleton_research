@@ -1,0 +1,7 @@
+classes/WPCC/
+.gitignore
+README.md
+composer.json
+composer.lock
+package.json
+wp-codeception.php

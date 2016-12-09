@@ -1,0 +1,7 @@
+src/
+.gitignore
+.php_cs
+LICENSE.md
+README.md
+composer.json
+phpcs.xml

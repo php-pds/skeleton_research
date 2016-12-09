@@ -1,0 +1,13 @@
+app/
+bin/
+src/AppBundle/
+tests/Controller/
+var/
+web/
+.gitignore
+.php_cs
+Capfile
+README.md
+build.xml
+composer.json
+phpunit.xml.dist

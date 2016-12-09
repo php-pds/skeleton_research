@@ -1,0 +1,8 @@
+Sniffs/
+.gitattributes
+.gitignore
+.travis.yml
+README.rst
+build.xml
+composer.json
+ruleset.xml

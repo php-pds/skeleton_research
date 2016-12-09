@@ -1,0 +1,8 @@
+.settings/
+doc/
+src/Mouf/Utils/Network/Http/CurlHtmlBrowser/
+.buildpath
+.project
+cacert.pem
+composer.json
+package.xml

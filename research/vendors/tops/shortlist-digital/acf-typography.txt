@@ -1,0 +1,6 @@
+vendor/
+.gitignore
+acf-typography.php
+composer.json
+composer.lock
+readme.md

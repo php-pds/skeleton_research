@@ -1,0 +1,7 @@
+assets/
+layouts/
+.gitignore
+LICENSE
+README.md
+composer.json
+master.twig

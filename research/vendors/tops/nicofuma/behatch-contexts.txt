@@ -1,0 +1,16 @@
+bin/
+doc/
+i18n/
+src/
+tests/
+.atoum.php
+.bootstrap.atoum.php
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CONTRIBUTING.md
+LICENSE
+README.rst
+behat.yml.dist
+box.json
+composer.json

@@ -1,0 +1,3 @@
+README.md
+VueRouterAsset.php
+composer.json

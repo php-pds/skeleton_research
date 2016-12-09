@@ -1,0 +1,9 @@
+Classes/WebExcess/Notifications/
+Configuration/
+Migrations/Mysql/
+Resources/
+Tests/Unit/Domain/Model/
+.gitignore
+LICENSE
+README.md
+composer.json

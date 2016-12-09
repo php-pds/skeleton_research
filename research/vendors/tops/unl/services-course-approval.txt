@@ -1,0 +1,10 @@
+docs/examples/
+src/
+test/
+.coveralls.yml
+.gitignore
+.travis.yml
+CHANGELOG.md
+README.md
+composer.json
+phpunit.xml.dist

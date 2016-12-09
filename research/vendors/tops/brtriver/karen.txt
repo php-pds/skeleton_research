@@ -1,0 +1,10 @@
+src/
+templates/
+tests/
+web/
+.gitignore
+LICENSE
+Makefile
+README.md
+composer.json
+phpunit.xml.dist

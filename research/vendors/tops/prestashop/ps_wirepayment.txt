@@ -1,0 +1,13 @@
+controllers/
+translations/
+views/
+.gitignore
+Readme.md
+composer.json
+config.xml
+en.php
+index.php
+logo.png
+payment.php
+ps_wirepayment.php
+validation.php

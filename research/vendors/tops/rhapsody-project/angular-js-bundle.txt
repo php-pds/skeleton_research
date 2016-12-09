@@ -1,0 +1,9 @@
+Resources/
+.gitignore
+LICENSE
+README.md
+RhapsodyAngularJsBundle.php
+composer.json
+errors.json
+version.json
+version.txt

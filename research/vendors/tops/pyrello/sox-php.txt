@@ -1,0 +1,7 @@
+SoundExchangePhp/
+audio/
+demo/
+tests/
+.gitignore
+README.md
+composer.json

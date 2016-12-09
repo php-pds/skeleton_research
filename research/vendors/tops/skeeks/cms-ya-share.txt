@@ -1,0 +1,6 @@
+views/
+CHANGELOG.md
+README.md
+YaShAsset.php
+YaShareWidget.php
+composer.json

@@ -1,0 +1,4 @@
+src/
+.php_cs
+README.md
+composer.json

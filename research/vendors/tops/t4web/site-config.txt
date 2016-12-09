@@ -1,0 +1,11 @@
+config/
+public/js/admin/t4web-site-config/
+src/T4webSiteConfig/
+tests/
+view/t4web-site-config/
+.gitignore
+LICENSE
+Module.php
+README.md
+codeception.yml
+composer.json

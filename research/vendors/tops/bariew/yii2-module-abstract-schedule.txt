@@ -1,0 +1,10 @@
+controllers/
+migrations/
+models/
+views/schedule/
+widgets/
+.gitignore
+LICENSE
+README
+ScheduleModule.php
+composer.json

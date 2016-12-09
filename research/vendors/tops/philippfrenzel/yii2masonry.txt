@@ -1,0 +1,10 @@
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+codeception.yml
+composer.json
+yii2imagesloadedAsset.php
+yii2masonry.php
+yii2masonryAsset.php

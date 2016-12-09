@@ -1,0 +1,10 @@
+config/administrator/
+database/migrations/
+src/
+.gitignore
+.styleci.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+makedoc.sh

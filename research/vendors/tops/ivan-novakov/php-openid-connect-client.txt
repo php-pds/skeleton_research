@@ -1,0 +1,8 @@
+docs/
+public/
+src/InoOicClient/
+tests/
+.gitignore
+README.md
+TODO
+composer.json

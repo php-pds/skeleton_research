@@ -1,0 +1,6 @@
+config/
+src/Mesour/Bridges/Laravel/
+.gitignore
+README.md
+composer.json
+license.md

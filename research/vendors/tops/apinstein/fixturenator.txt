@@ -1,0 +1,7 @@
+test/
+.gitignore
+Fixturenator.php
+README.markdown
+composer.json
+pearfarm.spec
+phpunit.xml

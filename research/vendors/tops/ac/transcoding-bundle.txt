@@ -1,0 +1,9 @@
+Command/
+Console/
+DependencyInjection/
+Resources/config/
+.gitignore
+ACTranscodingBundle.php
+LICENSE
+README.md
+composer.json

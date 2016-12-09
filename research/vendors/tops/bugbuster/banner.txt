@@ -1,0 +1,16 @@
+assets/
+classes/
+config/
+dca/
+languages/
+model/
+modules/
+public/
+runonce/
+templates/
+themes/
+.gitignore
+LICENSE
+README.md
+composer.json
+phpcompatinfo.json

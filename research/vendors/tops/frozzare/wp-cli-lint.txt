@@ -1,0 +1,6 @@
+src/
+.editorconfig
+.travis.yml
+README.md
+composer.json
+phpcs.xml

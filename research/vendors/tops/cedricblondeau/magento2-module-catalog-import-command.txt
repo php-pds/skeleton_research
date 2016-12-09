@@ -1,0 +1,6 @@
+Console/Command/
+Model/
+etc/
+README.md
+composer.json
+registration.php

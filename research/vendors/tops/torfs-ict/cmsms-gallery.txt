@@ -1,0 +1,7 @@
+lang/
+lib/Gallery/
+templates/
+Gallery.module.php
+README.md
+action.ajax_templates.php
+composer.json

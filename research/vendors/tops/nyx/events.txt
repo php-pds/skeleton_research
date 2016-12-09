@@ -1,0 +1,13 @@
+emitters/
+interfaces/
+tests/
+traits/
+.gitignore
+.travis.yml
+Emitter.php
+Event.php
+LICENSE
+README.md
+Subscriber.php
+composer.json
+phpunit.xml.dist

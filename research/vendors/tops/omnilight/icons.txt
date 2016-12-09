@@ -1,0 +1,6 @@
+.gitignore
+FontAwesomeAsset.php
+Icon.php
+Icons.php
+README.md
+composer.json

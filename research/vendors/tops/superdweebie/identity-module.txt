@@ -1,0 +1,8 @@
+config/
+public/captcha/
+src/Sds/IdentityModule/
+tests/
+view/
+.travis.yml
+README.md
+composer.json

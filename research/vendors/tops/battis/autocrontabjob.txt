@@ -1,0 +1,7 @@
+doc/
+.gitignore
+AutoCrontabJob.php
+LICENSE.md
+README.md
+composer.json
+phpdoc.dist.xml

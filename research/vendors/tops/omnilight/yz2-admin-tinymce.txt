@@ -1,0 +1,5 @@
+assets/
+pendalf89/
+AdminTinyMceAsset.php
+TinyMCE.php
+composer.json

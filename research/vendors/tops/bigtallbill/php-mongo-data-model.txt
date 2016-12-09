@@ -1,0 +1,10 @@
+src/Bigtallbill/Model/Mongo/
+tests/Bigtallbill/MongoModel/
+.gitignore
+.travis.yml
+composer.json
+composer.lock
+hooker.json
+runtests.sh
+testLoader.php
+travis-php-ini.ini

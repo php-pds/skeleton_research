@@ -1,0 +1,8 @@
+DependencyInjection/
+Entity/
+Resources/
+CampaignChainLocationGoogleAnalyticsBundle.php
+LICENSE
+README.md
+campaignchain.yml
+composer.json

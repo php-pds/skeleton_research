@@ -1,0 +1,11 @@
+config/
+docs/
+src/ZF2rapidLib/
+view/zf2rapid-library/widget/
+.gitignore
+LICENSE
+Module.php
+README.md
+autoload_classmap.php
+composer.json
+template_map.php

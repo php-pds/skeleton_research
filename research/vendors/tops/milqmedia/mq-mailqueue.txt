@@ -1,0 +1,11 @@
+config/
+data/
+src/MQMailQueue/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+Module.php
+README.md
+autoload_classmap.php
+composer.json

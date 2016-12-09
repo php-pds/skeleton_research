@@ -1,0 +1,4 @@
+public/js/
+views/
+composer.json
+readme.md

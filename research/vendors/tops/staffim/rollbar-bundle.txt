@@ -1,0 +1,14 @@
+DependencyInjection/
+EventListener/
+Resources/config/
+Tests/
+Voter/
+spec/Staffim/RollbarBundle/
+.gitignore
+.travis.yml
+README.md
+ReportDecisionManager.php
+RollbarReporter.php
+StaffimRollbarBundle.php
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,6 @@
+example/
+kernel/
+readme/
+.gitignore
+README.md
+composer.json

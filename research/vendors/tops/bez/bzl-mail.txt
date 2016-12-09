@@ -1,0 +1,10 @@
+config/
+docs/
+src/BzlMail/
+test/
+views/bzl-mail/index/
+.gitignore
+LICENSE
+Module.php
+README.md
+composer.json

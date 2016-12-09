@@ -1,0 +1,9 @@
+bin/
+spec/Akeneo/CouplingDetector/
+src/Akeneo/CouplingDetector/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock

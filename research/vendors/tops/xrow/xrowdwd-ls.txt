@@ -1,0 +1,6 @@
+autoloads/
+design/standard/override/templates/block/
+settings/
+sql/
+composer.json
+ezinfo.php

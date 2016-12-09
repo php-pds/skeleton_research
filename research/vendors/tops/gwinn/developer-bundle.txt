@@ -1,0 +1,5 @@
+src/RetailCrm/DeveloperBundle/
+.gitignore
+LICENSE
+composer.json
+composer.lock

@@ -1,0 +1,4 @@
+Zikula/Bundle/FontAwesomeBundle/
+LICENSE
+README.md
+composer.json

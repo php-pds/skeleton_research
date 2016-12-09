@@ -1,0 +1,9 @@
+FSTestHelper/
+doc/
+tests/
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpdoc.dist.xml
+phpunit.xml

@@ -1,0 +1,10 @@
+hooks/
+spec/
+src/Kata/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock
+install
+phpunit.xml.dist

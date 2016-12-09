@@ -1,0 +1,16 @@
+_jekyll/
+compass/stylesheets/
+docs/
+lib/
+test/
+.gitignore
+Gemfile
+Gruntfile.js
+LICENSE
+README.md
+bower.json
+composer.json
+package.json
+select2-bootstrap-css.gemspec
+select2-bootstrap.css
+select2-bootstrap.min.css

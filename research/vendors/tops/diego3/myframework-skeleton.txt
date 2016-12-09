@@ -1,0 +1,11 @@
+app/
+app_default/
+conf/
+test/
+.gitignore
+.htaccess
+README.md
+bootstrap.php
+composer.json
+index.php
+static.php

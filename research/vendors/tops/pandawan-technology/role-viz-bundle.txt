@@ -1,0 +1,11 @@
+DataCollector/
+DependencyInjection/
+Resources/views/Profiler/
+Tests/
+.gitignore
+.travis.yml
+LICENSE
+PandawanTechnologyRoleVizBundle.php
+README.md
+composer.json
+phpunit.xml.dist

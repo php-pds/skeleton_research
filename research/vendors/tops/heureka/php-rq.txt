@@ -1,0 +1,8 @@
+src/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+composer.json
+php-rq-run-tests
+readme.md

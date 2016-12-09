@@ -1,0 +1,8 @@
+src/Slashas/
+test/
+tests/
+.gitignore
+README.md
+composer.json
+phpunit.xml
+travis.yaml

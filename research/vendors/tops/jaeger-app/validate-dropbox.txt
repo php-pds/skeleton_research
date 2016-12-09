@@ -1,0 +1,8 @@
+src/Validate/Rules/Dropbox/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml

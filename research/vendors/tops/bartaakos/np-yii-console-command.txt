@@ -1,0 +1,5 @@
+.gitignore
+LICENSE
+NpConsoleCommand.php
+README.md
+composer.json

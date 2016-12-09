@@ -1,0 +1,7 @@
+DataCollector/
+DependencyInjection/
+Plugin/
+Resources/
+LswGuzzleBundle.php
+README.md
+composer.json

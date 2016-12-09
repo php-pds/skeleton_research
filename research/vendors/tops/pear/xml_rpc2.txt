@@ -1,0 +1,10 @@
+XML/RPC2/
+docs/
+tests/
+.gitignore
+.travis.yml
+Makefile
+README.md
+composer.json
+package.php
+package.xml

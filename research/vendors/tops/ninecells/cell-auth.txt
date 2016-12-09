@@ -1,0 +1,7 @@
+Http/
+Models/
+database/migrations/
+resources/views/member/
+MemberServiceProvider.php
+MemberTab.php
+composer.json

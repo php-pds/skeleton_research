@@ -1,0 +1,16 @@
+Bag/
+Exception/
+Arrayable.hh
+Bag.hh
+Cacheable.hh
+Jsonable.hh
+Macroable.hh
+Mapable.hh
+Mutable.hh
+StaticCacheable.hh
+Stringable.hh
+Vectorable.hh
+Xmlable.hh
+bootstrap.hh
+composer.json
+readme.md

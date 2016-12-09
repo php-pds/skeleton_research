@@ -1,0 +1,12 @@
+Command/
+Controller/
+DBAL/
+DependencyInjection/
+Entity/
+Form/
+Repository/
+Resources/
+Haverkamp87MessageBundle.php
+LICENSE
+README.md
+composer.json

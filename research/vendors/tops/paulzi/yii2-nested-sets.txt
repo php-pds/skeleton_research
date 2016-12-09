@@ -1,0 +1,11 @@
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+NestedSetsBehavior.php
+NestedSetsQueryTrait.php
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

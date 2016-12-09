@@ -1,0 +1,8 @@
+app/
+docs/
+shell/
+skin/adminhtml/default/default/adyen_subscription/
+LICENSE.txt
+README.md
+composer.json
+modman

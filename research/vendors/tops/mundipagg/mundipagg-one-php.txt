@@ -1,0 +1,15 @@
+.vscode/
+data/
+examples/
+lib/
+tests/One/
+.coveralls.yml
+.gitattributes
+.gitignore
+.travis.yml
+AutoLoader.php
+README.md
+clover.xml
+composer.json
+init.php
+phpunit.xml

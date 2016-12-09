@@ -1,0 +1,8 @@
+OAuth/
+Ressources/
+.DS_Store
+.gitignore
+AbstractOAuthClient.php
+LICENCE
+README.md
+composer.json

@@ -1,0 +1,9 @@
+samples/
+tests/
+Assets.php
+README.md
+Script.php
+StaticAsset.php
+Style.php
+composer.json
+phpunit.xml

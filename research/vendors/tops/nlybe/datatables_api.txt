@@ -1,0 +1,12 @@
+languages/
+lib/
+vendor/
+views/default/datatables_api/
+CHANGELOG.md
+README.md
+activate.php
+composer.json
+composer.lock
+manifest.xml
+start.php
+views.php

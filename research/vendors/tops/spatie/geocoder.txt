@@ -1,0 +1,15 @@
+config/
+spec/Spatie/Geocoder/Google/
+src/Spatie/Geocoder/
+.editorconfig
+.gitattributes
+.gitignore
+.scrutinizer.yml
+.styleci.yml
+.travis.yml
+CHANGELOG.md
+CONTRIBUTING.md
+LICENSE
+README.md
+composer.json
+phpspec.yml

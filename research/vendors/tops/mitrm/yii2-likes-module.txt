@@ -1,0 +1,16 @@
+assets/js/
+controllers/
+migrations/
+models/
+widgets/
+.gitignore
+Asset.php
+Bootstrap.php
+LICENSE
+Likes.php
+LikesObject.php
+LikesObjectItem.php
+Module.php
+README.md
+composer.json
+m160608_153547_create_likes_module.php

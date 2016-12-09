@@ -1,0 +1,4 @@
+src/Pecee/Http/Service/
+.gitignore
+README.md
+composer.json

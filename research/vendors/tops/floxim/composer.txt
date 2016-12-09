@@ -1,0 +1,4 @@
+Installer.php
+InstallerPlugin.php
+README.md
+composer.json

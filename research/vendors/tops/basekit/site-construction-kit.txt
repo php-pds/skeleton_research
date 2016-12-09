@@ -1,0 +1,11 @@
+examples/
+src/BaseKit/
+tests/BaseKit/Component/
+.gitignore
+CHANGELOG.md
+LICENSE
+Makefile
+README.md
+composer.json
+composer.phar
+phpunit.xml

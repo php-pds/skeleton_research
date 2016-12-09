@@ -1,0 +1,15 @@
+Command/
+DependencyInjection/
+Doctrine/Listener/
+Entity/
+Enum/
+Event/
+Form/Type/
+Model/
+Resources/
+Tests/
+.travis.yml
+JmBalancedPaymentBundle.php
+README.markdown
+composer.json
+phpunit.xml.dist

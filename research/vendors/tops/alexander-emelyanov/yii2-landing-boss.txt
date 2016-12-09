@@ -1,0 +1,7 @@
+assets/
+widgets/
+.gitignore
+AssetBundle.php
+LICENSE
+README.md
+composer.json

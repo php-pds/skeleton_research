@@ -1,0 +1,11 @@
+DependencyInjection/
+Document/
+Entity/
+Model/
+Resources/config/
+Tests/
+.travis.yml
+README
+VespolinaTaxationBundle.php
+composer.json
+phpunit.xml.dist

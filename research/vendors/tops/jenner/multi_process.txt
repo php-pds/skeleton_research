@@ -1,0 +1,4 @@
+src/Jenner/Zebra/MultiProcess/
+tests/
+README.md
+composer.json

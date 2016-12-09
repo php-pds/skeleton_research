@@ -1,0 +1,6 @@
+lib/MutexLock/
+tests/
+.gitignore
+Makefile
+README.md
+composer.json

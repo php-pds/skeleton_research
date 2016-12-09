@@ -1,0 +1,5 @@
+assets/
+views/
+EditableWidget.php
+composer.json
+composer.lock

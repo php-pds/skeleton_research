@@ -1,0 +1,4 @@
+lib/Midnight/Color/
+test/
+.gitignore
+composer.json

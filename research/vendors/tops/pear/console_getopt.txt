@@ -1,0 +1,8 @@
+Console/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.rst
+composer.json
+package.xml

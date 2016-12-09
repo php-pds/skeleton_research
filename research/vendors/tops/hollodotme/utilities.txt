@@ -1,0 +1,11 @@
+dist/
+doc/
+env/
+test/Unit/
+.coveralls.yml
+.gitignore
+.travis.yml
+README.md
+Vagrantfile
+composer.json
+composer.lock

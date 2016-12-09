@@ -1,0 +1,9 @@
+app/
+pages/
+src/Kyoushu/Genny/
+templates/
+.gitignore
+README.md
+composer.json
+composer.lock
+phpunit.xml

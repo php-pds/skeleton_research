@@ -1,0 +1,5 @@
+migrations/
+src/Simpletree/Restaurantmenu/
+README.md
+composer.json
+migrate.bat

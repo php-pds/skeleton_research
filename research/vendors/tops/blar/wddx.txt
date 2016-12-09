@@ -1,0 +1,12 @@
+.travis/
+lib/Blar/Wddx/
+tests/
+.coveralls.yml
+.gitignore
+.travis.yml
+LICENSE.md
+README.md
+apigen.neon
+composer.json
+composer.lock
+phpunit.xml.dist

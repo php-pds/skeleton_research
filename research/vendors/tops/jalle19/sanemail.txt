@@ -1,0 +1,4 @@
+lib/SaneMail/
+LICENSE
+README.md
+composer.json

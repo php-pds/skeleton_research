@@ -1,0 +1,9 @@
+controllers/
+migrations/
+model/
+models/
+views/admin/
+LICENSE
+README.md
+Yii2User.php
+composer.json

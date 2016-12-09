@@ -1,0 +1,4 @@
+src/Ftp/
+.gitignore
+README.md
+composer.json

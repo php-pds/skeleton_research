@@ -1,0 +1,6 @@
+public_html/
+system/
+LICENSE
+README.md
+composer.json
+ys

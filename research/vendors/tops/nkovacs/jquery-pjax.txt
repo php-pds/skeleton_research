@@ -1,0 +1,15 @@
+script/
+test/
+vendor/
+.gitignore
+.travis.yml
+CHANGELOG.md
+CONTRIBUTING.md
+Gemfile
+Gemfile.lock
+LICENSE
+README.md
+bower.json
+composer.json
+jquery.pjax.js
+package.json

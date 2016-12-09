@@ -1,0 +1,11 @@
+src/
+test/units/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpcs.xml
+phpdoc.dist.xml
+phpunit.xml.dist

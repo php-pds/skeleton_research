@@ -1,0 +1,8 @@
+controllers/
+mails/
+models/
+views/
+.gitignore
+LICENSE
+Module.php
+composer.json

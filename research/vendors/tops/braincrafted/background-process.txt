@@ -1,0 +1,11 @@
+src/
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+Makefile
+README.md
+appveyor.yml
+composer.json
+phpunit.xml.dist

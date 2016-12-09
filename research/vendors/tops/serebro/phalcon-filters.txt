@@ -1,0 +1,4 @@
+src/Phalcon/Filter/
+.gitignore
+LICENSE
+composer.json

@@ -1,0 +1,7 @@
+config/
+public/js/san-album-pagination-with-ajax/
+src/SanAlbumPaginationWithAjax/
+view/san-album-pagination-with-ajax/album/
+Module.php
+README.md
+composer.json

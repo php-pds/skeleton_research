@@ -1,0 +1,6 @@
+config/
+src/
+LICENSE
+README.md
+bfwModulesInfos.json
+composer.json

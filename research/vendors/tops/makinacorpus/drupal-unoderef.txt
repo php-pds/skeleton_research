@@ -1,0 +1,10 @@
+translations/
+composer.json
+unoderef.css
+unoderef.element.inc
+unoderef.formatter.inc
+unoderef.info
+unoderef.install
+unoderef.js
+unoderef.module
+unoderef.widget.inc

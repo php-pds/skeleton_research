@@ -1,0 +1,12 @@
+src/
+tests/phpOpenNOS/Model/
+.gitignore
+.travis.yml
+LICENSE
+README
+build.properties
+build.xml
+composer.json
+example.php
+phpunit.xml
+pom.xml

@@ -1,0 +1,13 @@
+DependencyInjection/
+Listener/
+Locale/
+Mapping/Event/Adapter/
+Model/
+Resources/
+Tests/
+.gitignore
+.travis.yml
+PUGXI18nBundle.php
+README.markdown
+composer.json
+phpunit.xml.dist

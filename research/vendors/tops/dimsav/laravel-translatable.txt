@@ -1,0 +1,14 @@
+img/
+src/
+tests/
+.gitignore
+.php_cs
+.scrutinizer.yml
+.styleci.yml
+LICENSE
+changelog.md
+circle.yml
+composer.json
+contributing.md
+phpunit.xml
+readme.md

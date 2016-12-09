@@ -1,0 +1,6 @@
+config/
+install-stubs/
+src/
+.gitignore
+README.md
+composer.json

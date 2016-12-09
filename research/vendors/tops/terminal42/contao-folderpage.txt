@@ -1,0 +1,8 @@
+config/
+dca/
+languages/
+themes/
+.gitignore
+FolderPageMessages.php
+PageFolder.php
+composer.json

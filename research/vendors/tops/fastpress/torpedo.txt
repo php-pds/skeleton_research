@@ -1,0 +1,10 @@
+src/
+test/src/
+.scrutinizer.yml
+.travis.yml
+CHANGELOG.md
+LICENSE.md
+README.md
+composer.json
+composer.lock
+phpunit.xml

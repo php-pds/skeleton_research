@@ -1,0 +1,6 @@
+docs/examples/
+tests/
+.gitignore
+Combinatorics.php
+composer.json
+package.xml

@@ -1,0 +1,5 @@
+src/LinusShops/Contexts/
+.gitignore
+LICENSE.txt
+README.md
+composer.json

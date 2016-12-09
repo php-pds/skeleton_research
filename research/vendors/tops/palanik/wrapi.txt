@@ -1,0 +1,11 @@
+examples/github/
+src/
+tests/
+.gitattributes
+.gitignore
+.travis.yml
+History.md
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

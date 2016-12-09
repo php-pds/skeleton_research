@@ -1,0 +1,6 @@
+config/
+dca/
+languages/de/
+library/Isotope/Model/Payment/
+templates/
+composer.json

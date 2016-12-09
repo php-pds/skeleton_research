@@ -1,0 +1,4 @@
+src/ride/
+test/
+README.md
+composer.json

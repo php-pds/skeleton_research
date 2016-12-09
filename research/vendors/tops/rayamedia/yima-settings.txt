@@ -1,0 +1,10 @@
+config/
+data/
+src/yimaSettings/
+view/admin/yima-settings/index/
+.gitignore
+LICENSE.txt
+Module.php
+README.md
+composer.json
+screenshot.jpg

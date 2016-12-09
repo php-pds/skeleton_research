@@ -1,0 +1,9 @@
+.idea/
+.gitattributes
+.gitignore
+Enum.php
+EnumTest.php
+README.md
+composer.json
+composer.lock
+phpunit.xml

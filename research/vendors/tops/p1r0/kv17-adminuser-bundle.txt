@@ -1,0 +1,6 @@
+DependencyInjection/
+Entity/
+Resources/
+Tests/Controller/
+composer.json
+p1r0AdminUserBundle.php

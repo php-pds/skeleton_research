@@ -1,0 +1,7 @@
+Controller/
+Resources/
+ClarolineNetThemeBundle.php
+VERSION.txt
+composer.json
+connect.css
+readme.md

@@ -1,0 +1,2 @@
+SlickCarouselAsset.php
+composer.json

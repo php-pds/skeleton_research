@@ -1,0 +1,13 @@
+src/
+tests/
+.apigen.ci
+.gitattributes
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+humbug.json.dist
+load.php
+phpunit.php
+phpunit.xml

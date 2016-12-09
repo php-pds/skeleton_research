@@ -1,0 +1,8 @@
+doc/
+report-demo/
+src/JasperClient/
+.gitignore
+LICENSE
+LICENSE-FLOWL-JASPER
+README.md
+composer.json

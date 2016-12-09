@@ -1,0 +1,5 @@
+Command/
+DoctrineMongoDBTailableCursorBundle.php
+ProcessorInterface.php
+README.markdown
+composer.json

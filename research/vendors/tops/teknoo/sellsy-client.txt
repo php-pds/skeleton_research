@@ -1,0 +1,13 @@
+docs/
+licenses/
+migration/
+src/Client/
+tests/
+.gitattributes
+.gitignore
+.travis.yml
+CHANGELOG.md
+CONTRIBUTING.md
+README.md
+composer.json
+phpunit.xml

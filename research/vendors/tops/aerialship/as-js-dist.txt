@@ -1,0 +1,11 @@
+.gitignore
+.npmignore
+LICENSE
+README.md
+as.js
+as.min.js
+bower.json
+component.json
+composer.json
+npm-debug.log
+package.json

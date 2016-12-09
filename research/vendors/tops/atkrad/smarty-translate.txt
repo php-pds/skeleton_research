@@ -1,0 +1,6 @@
+src/SmartyTranslate/
+.gitignore
+LICENSE
+README.md
+composer.json
+scanner.php

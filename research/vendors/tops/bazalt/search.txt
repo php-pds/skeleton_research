@@ -1,0 +1,8 @@
+src/Bazalt/Search/
+tests/
+.coveralls.yml
+.gitignore
+.travis.yml
+README.md
+composer.json
+phpunit.xml.dist

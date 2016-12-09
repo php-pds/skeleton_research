@@ -1,0 +1,7 @@
+_config/
+code/
+css/
+images/
+thirdparty/
+README.md
+composer.json

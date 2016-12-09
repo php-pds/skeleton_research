@@ -1,0 +1,6 @@
+Supervisor/
+.gitignore
+LICENSE
+README.md
+composer.json
+index.md

@@ -1,0 +1,6 @@
+manual/Library/
+src/ride/web/base/controller/
+.gitignore
+README.md
+composer.json
+ride.json

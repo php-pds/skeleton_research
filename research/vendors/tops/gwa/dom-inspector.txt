@@ -1,0 +1,7 @@
+src/Gwa/DOMInspector/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json

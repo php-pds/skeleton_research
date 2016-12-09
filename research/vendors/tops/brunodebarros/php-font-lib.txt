@@ -1,0 +1,14 @@
+maps/
+sample-fonts/
+src/FontLib/
+tests/FontLib/
+.gitattributes
+.gitignore
+.htaccess
+.travis.yml
+LICENSE
+README.md
+bower.json
+composer.json
+index.php
+phpunit.xml.dist

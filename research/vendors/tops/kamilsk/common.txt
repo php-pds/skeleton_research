@@ -1,0 +1,17 @@
+.github/
+src/
+tests/
+.codeclimate.yml
+.editorconfig
+.gitattributes
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CHANGELOG.md
+CONDUCT.md
+CONTRIBUTING.md
+LICENSE.md
+README.md
+composer.json
+package.meta
+phpunit.xml.dist

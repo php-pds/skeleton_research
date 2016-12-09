@@ -1,0 +1,10 @@
+lang/
+scb/
+admin.php
+composer.json
+core.php
+pagenavi-css.css
+readme.txt
+test.php
+uninstall.php
+wp-pagenavi.php

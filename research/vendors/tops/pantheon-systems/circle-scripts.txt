@@ -1,0 +1,4 @@
+examples/
+scripts/
+README.md
+composer.json

@@ -1,0 +1,9 @@
+Command/
+DependencyInjection/
+Provider/
+Resources/
+.gitignore
+FermioSpritesBundle.php
+LICENSE
+README.md
+composer.json

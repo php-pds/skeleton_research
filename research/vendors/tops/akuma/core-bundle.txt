@@ -1,0 +1,13 @@
+Controller/
+DependencyInjection/
+Doctrine/
+Form/
+Knp/
+Resources/
+Tests/Controller/
+Twig/
+.gitignore
+AkumaCoreBundle.php
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,6 @@
+src/StpBoard/Weather/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock

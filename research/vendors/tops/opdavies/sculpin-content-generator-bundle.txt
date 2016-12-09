@@ -1,0 +1,5 @@
+Command/
+LICENCE
+README.md
+SculpinContentGeneratorBundle.php
+composer.json

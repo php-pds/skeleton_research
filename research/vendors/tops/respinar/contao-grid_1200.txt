@@ -1,0 +1,6 @@
+assets/contao/css/
+system/modules/grid_1200/
+.gitignore
+LICENSE
+README.md
+composer.json

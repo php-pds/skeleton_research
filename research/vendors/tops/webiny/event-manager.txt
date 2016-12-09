@@ -1,0 +1,13 @@
+Tests/
+CHANGELOG.md
+Event.php
+EventListener.php
+EventManager.php
+EventManagerException.php
+EventManagerTrait.php
+EventProcessor.php
+EventSubscriberInterface.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

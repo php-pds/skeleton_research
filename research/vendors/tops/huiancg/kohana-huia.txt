@@ -1,0 +1,10 @@
+classes/
+config/
+guide/kohana-huia/
+media/guide/
+messages/
+views/
+.gitignore
+README.md
+composer.json
+init.php

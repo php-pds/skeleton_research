@@ -1,0 +1,6 @@
+src/KyleNoland/PHPHelper/
+tests/
+.gitignore
+.travis.yml
+composer.json
+phpunit.xml

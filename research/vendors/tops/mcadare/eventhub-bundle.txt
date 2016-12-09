@@ -1,0 +1,9 @@
+DependencyInjection/
+Resources/
+Service/
+Tests/Controller/
+.gitignore
+EventHubBundle.php
+LICENSE
+README.md
+composer.json

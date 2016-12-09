@@ -1,0 +1,14 @@
+DependencyInjection/
+Model/
+Resources/config/
+Tests/
+Twig/Extension/
+.gitignore
+.gitlab-ci.yml
+.travis.yml
+Client.php
+LICENSE
+README.md
+WebburzaSyliusGoogleEcommerceBundle.php
+composer.json
+phpunit.xml.dist

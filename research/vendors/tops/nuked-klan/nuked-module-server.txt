@@ -1,0 +1,12 @@
+images/
+includes/
+lang/
+menu/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+admin.php
+blok.php
+composer.json
+index.php

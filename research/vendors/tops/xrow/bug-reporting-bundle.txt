@@ -1,0 +1,10 @@
+Collector/
+Command/
+Controller/
+DependencyInjection/
+Resources/
+Tests/Controller/
+Utils/
+README.md
+XrowBugReportingBundle.php
+composer.json

@@ -1,0 +1,7 @@
+controllers/
+models/
+Client.php
+LICENSE
+README.md
+apiInterface.php
+composer.json

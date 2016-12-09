@@ -1,0 +1,9 @@
+Annotations/
+DependencyInjection/
+EventListener/
+Factory/
+Resources/config/
+.gitignore
+PolidogReduxReactSsrBundle.php
+README.md
+composer.json

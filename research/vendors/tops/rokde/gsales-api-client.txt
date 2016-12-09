@@ -1,0 +1,7 @@
+bin/
+src/rokde/Gsales/Api/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock

@@ -1,0 +1,12 @@
+contrib/
+src/LightSaml/SpBundle/
+tests/LightSaml/SpBundle/Tests/
+.gitignore
+.php_cs
+.travis.yml
+CONTRIBUTORS.md
+LICENSE
+README.md
+autoload.php
+composer.json
+phpunit.xml.dist

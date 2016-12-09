@@ -1,0 +1,8 @@
+src/
+.gitattributes
+.gitignore
+README.md
+changelog.txt
+composer.json
+include.inc.php
+php-util.phar

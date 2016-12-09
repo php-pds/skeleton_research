@@ -1,0 +1,10 @@
+.gitignore
+ActionControl.php
+BlamingDetail.php
+DetailView.php
+KartikActionColumn.php
+KartikViewColumn.php
+LinkedDetail.php
+README.md
+YiiActionColumn.php
+composer.json

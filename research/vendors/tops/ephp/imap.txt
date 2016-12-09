@@ -1,0 +1,8 @@
+Controller/
+DependencyInjection/
+Entity/
+Resources/
+Tests/Controller/
+Utility/
+EphpImapBundle.php
+composer.json

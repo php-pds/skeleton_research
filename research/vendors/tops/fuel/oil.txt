@@ -1,0 +1,8 @@
+classes/
+config/
+tasks/
+views/
+.gitignore
+bootstrap.php
+composer.json
+phpserver.php

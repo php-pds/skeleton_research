@@ -1,0 +1,12 @@
+code/
+images/
+tests/
+.editorconfig
+.gitattributes
+.htaccess
+.travis.yml
+AUTHORS
+COPYING
+README.md
+_config.php
+composer.json

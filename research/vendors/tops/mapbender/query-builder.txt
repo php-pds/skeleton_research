@@ -1,0 +1,12 @@
+DependencyInjection/
+Documents/
+Element/
+Entity/
+Resources/
+Tests/
+Util/
+.gitignore
+LICENSE
+MapbenderQueryBuilderBundle.php
+README.md
+composer.json

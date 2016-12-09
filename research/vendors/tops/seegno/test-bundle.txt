@@ -1,0 +1,13 @@
+DependencyInjection/
+Exception/
+Fixtures/
+TestCase/
+Tests/
+.gitignore
+.travis.yml
+CHANGELOG.md
+README.md
+SeegnoTestBundle.php
+composer.json
+phpunit.xml
+travis.php.ini

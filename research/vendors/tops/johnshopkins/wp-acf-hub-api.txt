@@ -1,0 +1,10 @@
+config/gulp/
+dist/
+src/
+.gitignore
+README.md
+composer.json
+composer.lock
+gulpfile.js
+main.php
+package.json

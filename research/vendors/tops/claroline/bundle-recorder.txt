@@ -1,0 +1,9 @@
+Detector/
+Handler/
+Log/
+Logger/
+LICENSE
+README.md
+Recorder.php
+ScriptHandler.php
+composer.json

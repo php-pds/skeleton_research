@@ -1,0 +1,5 @@
+examples/
+src/Kit/DB/Memcached/
+.gitignore
+README.md
+composer.json

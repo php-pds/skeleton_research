@@ -1,0 +1,14 @@
+lib/
+test/
+.coveralls.yml
+.editorconfig
+.gitattributes
+.gitignore
+.php_cs
+.travis.yml
+CONTRIBUTING.md
+LICENSE
+Makefile
+README.md
+composer.json
+phpunit.xml

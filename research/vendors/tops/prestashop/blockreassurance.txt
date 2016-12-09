@@ -1,0 +1,11 @@
+img/
+translations/
+views/templates/hook/
+Readme.md
+blockreassurance.php
+composer.json
+config.xml
+index.php
+logo.png
+reassuranceClass.php
+style.css

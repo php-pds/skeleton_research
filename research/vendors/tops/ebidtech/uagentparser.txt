@@ -1,0 +1,14 @@
+Configuration/
+Core/
+Entities/
+Exception/
+Mapper/
+Parser/
+Resources/config/
+Tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

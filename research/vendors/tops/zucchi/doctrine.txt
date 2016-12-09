@@ -1,0 +1,9 @@
+config/
+src/ZucchiDoctrine/
+tests/
+.gitignore
+LICENSE.txt
+Module.php
+README.md
+codeception.yml
+composer.json

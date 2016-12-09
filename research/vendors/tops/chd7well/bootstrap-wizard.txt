@@ -1,0 +1,11 @@
+bootstrap/
+examples/
+MIT-LICENSE.txt
+README.md
+bower.json
+composer.json
+index.html
+jquery.bootstrap.wizard.js
+jquery.bootstrap.wizard.min.js
+prettify.css
+prettify.js

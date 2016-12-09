@@ -1,0 +1,13 @@
+src/Modera/
+.gitignore
+.mtr
+.php_cs
+.styleci.yml
+.travis.yml
+MF-UPGRADE-3.0.md
+README.md
+bootstrap.php
+composer.json
+phpunit.sh
+phpunit.xml.dist
+split.json

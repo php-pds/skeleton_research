@@ -1,0 +1,10 @@
+sphinx/
+src/LTDBeget/sphinx/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json
+coverage.xml
+phpdox.xml
+phpunit.xml

@@ -1,0 +1,5 @@
+autoloads/
+design/admin2/
+settings/
+composer.json
+extension.xml

@@ -1,0 +1,4 @@
+src/WW/TwitterTypeaheadBundle/
+.gitignore
+README.md
+composer.json

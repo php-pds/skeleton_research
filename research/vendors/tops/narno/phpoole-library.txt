@@ -1,0 +1,16 @@
+docs/
+src/
+tests/
+.codeclimate.yml
+.gitattributes
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+circle.yml
+composer.json
+composer.lock
+deploy.sh
+phpunit.xml.dist
+sami.php

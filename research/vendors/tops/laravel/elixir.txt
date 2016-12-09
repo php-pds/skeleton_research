@@ -1,0 +1,10 @@
+elixir-test-app/
+icons/
+src/
+.babelrc
+.editorconfig
+.gitignore
+.npmignore
+CHANGELOG.md
+package.json
+readme.md

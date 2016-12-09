@@ -1,0 +1,8 @@
+bin/
+src/
+tests/Bundle/SdkBundle/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json

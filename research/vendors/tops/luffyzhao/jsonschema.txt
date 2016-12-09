@@ -1,0 +1,4 @@
+src/JsonSchema/
+.gitignore
+README.md
+composer.json

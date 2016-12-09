@@ -1,0 +1,6 @@
+Flickity/Kwc/Slider/
+.gitignore
+COPYING
+README.md
+composer.json
+dependencies.ini

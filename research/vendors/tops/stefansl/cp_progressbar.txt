@@ -1,0 +1,10 @@
+assets/
+config/
+dca/
+languages/
+modules/
+templates/
+.gitignore
+LICENSE
+README.md
+composer.json

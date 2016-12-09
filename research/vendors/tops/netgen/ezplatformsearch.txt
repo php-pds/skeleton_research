@@ -1,0 +1,8 @@
+cronjobs/
+search/plugins/ezplatformsearch/
+settings/
+CHANGELOG.md
+LICENSE
+README.md
+composer.json
+extension.xml

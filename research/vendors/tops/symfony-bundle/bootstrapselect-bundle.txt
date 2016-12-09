@@ -1,0 +1,9 @@
+app/
+src/Anezi/Bundle/BootstrapSelectBundle/
+var/
+web/
+.gitignore
+LICENSE.md
+README.md
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,10 @@
+Model/Currency/Import/
+etc/
+.travis.yml
+CHANGELOG.md
+COPYING.txt
+LICENSE.txt
+LICENSE_AFL.txt
+README.md
+composer.json
+registration.php

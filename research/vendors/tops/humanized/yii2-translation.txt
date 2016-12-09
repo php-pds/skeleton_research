@@ -1,0 +1,12 @@
+assets/js/
+commands/
+components/
+controllers/
+helpers/
+migrations/
+models/
+widgets/
+Module.php
+README.md
+TROUBLESHOOTING.md
+composer.json

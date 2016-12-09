@@ -1,0 +1,12 @@
+examples/
+lib/
+test/
+.editorconfig
+.gitignore
+ActiveRecord.php
+CHANGELOG
+CONTRIBUTING.md
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

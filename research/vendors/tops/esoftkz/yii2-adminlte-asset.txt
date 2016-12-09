@@ -1,0 +1,7 @@
+views/yii2-app/
+web/
+widgets/
+.gitattributes
+.gitignore
+README.md
+composer.json

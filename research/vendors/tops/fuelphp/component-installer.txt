@@ -1,0 +1,7 @@
+resources/tests/
+src/
+.gitignore
+.travis.yml
+README.md
+changelog.md
+composer.json

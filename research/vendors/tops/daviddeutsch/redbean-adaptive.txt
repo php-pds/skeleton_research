@@ -1,0 +1,14 @@
+RedBean/
+testing/
+.gitignore
+.travis-cub.yml
+.travis.yml
+README.markdown
+composer.json
+example.php
+nocomment.php
+replica.php
+replica.xml
+scrutinizer.yml
+space.php
+test-dist.ini

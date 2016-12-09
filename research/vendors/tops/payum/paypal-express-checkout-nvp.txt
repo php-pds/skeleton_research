@@ -1,0 +1,13 @@
+Action/
+Request/Api/
+Resources/
+Tests/
+.travis.yml
+Api.php
+CHANGELOG.md
+LICENSE
+PaypalExpressCheckoutGatewayFactory.php
+README.md
+UPGRADE.md
+composer.json
+phpunit.xml.dist

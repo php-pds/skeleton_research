@@ -1,0 +1,5 @@
+Osd/
+.gitignore
+README.md
+composer.json
+phpunit.xml

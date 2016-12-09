@@ -1,0 +1,6 @@
+Classes/Flowpack/Neos/FrontendLogin/
+Configuration/
+Resources/Private/
+LICENSE
+README.md
+composer.json

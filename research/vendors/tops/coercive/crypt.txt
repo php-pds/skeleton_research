@@ -1,0 +1,6 @@
+.gitignore
+AbstractCrypt.php
+Crypt.php
+LICENSE.txt
+README.md
+composer.json

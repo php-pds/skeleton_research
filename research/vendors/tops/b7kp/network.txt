@@ -1,0 +1,8 @@
+src/Http/
+testes/
+vendor/
+.gitattributes
+.gitignore
+LICENSE
+composer.json
+composer.lock

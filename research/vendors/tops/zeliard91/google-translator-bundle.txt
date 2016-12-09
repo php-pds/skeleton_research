@@ -1,0 +1,11 @@
+DependencyInjection/
+Form/Type/
+Resources/
+Service/
+Tests/
+.gitignore
+.travis.yml
+PryonGoogleTranslatorBundle.php
+README.md
+composer.json
+phpunit.xml.dist

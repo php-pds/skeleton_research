@@ -1,0 +1,8 @@
+src/Irs/BehatUimapExtension/
+tests/Irs/BehatUimapExtension/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

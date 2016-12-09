@@ -1,0 +1,17 @@
+Controller/
+Hook/
+Libs/
+Tests/
+locales/fr/
+.travis.yml
+Bundle.php
+LICENSE
+MetasBehavior.php
+PublishBehavior.php
+README.md
+SlugifyBehavior.php
+SortableBehavior.php
+TimestampsBehavior.php
+composer.json
+phpunit.php
+phpunit.xml

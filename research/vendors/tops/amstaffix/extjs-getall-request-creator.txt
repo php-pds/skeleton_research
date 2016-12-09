@@ -1,0 +1,6 @@
+Tests/
+.gitignore
+.travis.yml
+ExtJSGetAllRequestCreator.php
+composer.json
+phpunit.xml.dist

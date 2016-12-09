@@ -1,0 +1,10 @@
+application/
+assets/
+.gitignore
+README.md
+change_log.txt
+composer.json
+examples_database.sql.zip
+license-gpl3.txt
+license-grocery-crud.txt
+license-mit.txt

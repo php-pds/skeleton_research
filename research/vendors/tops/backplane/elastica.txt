@@ -1,0 +1,16 @@
+ansible/
+lib/Elastica/
+test/
+.coveralls.yml
+.editorconfig
+.gitattributes
+.gitignore
+.php_cs
+.travis.yml
+LICENSE.txt
+README.markdown
+Vagrantfile
+build.xml
+changes.txt
+composer.json
+phpdoc.dist.xml

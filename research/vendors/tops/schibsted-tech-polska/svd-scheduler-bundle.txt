@@ -1,0 +1,13 @@
+.idea/
+Command/
+DependencyInjection/
+Model/
+Mongo/
+Provider/Job/
+Redis/
+Resources/config/
+.gitignore
+README.md
+SvdSchedulerBundle.php
+composer.json
+composer.lock

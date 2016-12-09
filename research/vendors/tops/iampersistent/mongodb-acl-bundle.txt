@@ -1,0 +1,12 @@
+Command/
+DependencyInjection/
+Resources/
+Security/Acl/
+Tests/
+.gitignore
+.travis.yml
+CHANGELOG-2.0.md
+IamPersistentMongoDBAclBundle.php
+README.markdown
+composer.json
+phpunit.xml.dist

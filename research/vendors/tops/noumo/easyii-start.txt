@@ -1,0 +1,15 @@
+app/
+assets/
+runtime/
+uploads/
+vendor/
+.bowerrc
+.gitignore
+.htaccess
+README.md
+composer.json
+composer.lock
+index.php
+requirements.php
+yii
+yii.bat

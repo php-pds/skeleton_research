@@ -1,0 +1,6 @@
+src/Ice/MercuryClientBundle/
+.gitignore
+README.md
+composer.json
+composer.lock
+shippable.yml

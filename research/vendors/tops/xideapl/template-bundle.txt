@@ -1,0 +1,10 @@
+DependencyInjection/
+Model/
+Resources/config/
+Tests/
+Twig/Extension/
+.gitattributes
+.gitignore
+XideaTemplateBundle.php
+composer.json
+phpunit.xml.dist

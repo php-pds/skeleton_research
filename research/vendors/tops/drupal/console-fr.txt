@@ -1,0 +1,4 @@
+translations/
+.gitignore
+README.md
+composer.json

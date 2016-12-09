@@ -1,0 +1,11 @@
+Admin/
+Controller/
+DependencyInjection/
+Menu/
+Resources/
+Security/
+Twig/Extension/
+.gitignore
+GlavwebAdminBundle.php
+README.md
+composer.json

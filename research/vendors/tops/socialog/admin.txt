@@ -1,0 +1,7 @@
+config/
+public/
+src/SocialogAdmin/
+view/socialog-admin/
+Module.php
+README.md
+composer.json

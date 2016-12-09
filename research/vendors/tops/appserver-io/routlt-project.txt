@@ -1,0 +1,6 @@
+templates/
+.gitignore
+common.default.properties
+common.xml
+composer.json
+virtual-host.xml

@@ -1,0 +1,13 @@
+Client/
+Controller/
+DependencyInjection/
+Event/
+Request/
+Resources/
+Service/
+.gitignore
+BitdepotClientEvents.php
+DizdaBitdepotClientBundle.php
+LICENSE
+README.md
+composer.json

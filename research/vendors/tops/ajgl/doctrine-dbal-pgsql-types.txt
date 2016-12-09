@@ -1,0 +1,9 @@
+src/Ajgl/Doctrine/DBAL/Types/
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

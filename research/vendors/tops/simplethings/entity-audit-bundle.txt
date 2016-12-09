@@ -1,0 +1,11 @@
+src/SimpleThings/EntityAudit/
+tests/
+.gitignore
+.php_cs
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+UPGRADE.md
+composer.json
+phpunit.xml.dist

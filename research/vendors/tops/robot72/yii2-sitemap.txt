@@ -1,0 +1,8 @@
+behaviors/
+controllers/
+views/default/
+.gitignore
+LICENSE
+README.md
+Sitemap.php
+composer.json

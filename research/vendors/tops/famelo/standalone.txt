@@ -1,0 +1,12 @@
+Build/
+Configuration/
+Tests/Features/
+Web/
+bin/
+.gitignore
+.travis.yml
+Readme.md
+behat.yml
+build.xml
+composer.json
+gerrit.json

@@ -1,0 +1,5 @@
+doc/dbupdates/
+lib/
+page/
+composer.json
+readme.md

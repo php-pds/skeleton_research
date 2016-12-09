@@ -1,0 +1,7 @@
+Controller/
+DependencyInjection/
+Resources/
+Tests/Controller/
+IamPersistentFacebookGraphBundle.php
+README.markdown
+composer.json

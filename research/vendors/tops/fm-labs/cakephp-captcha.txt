@@ -1,0 +1,10 @@
+Controller/
+Lib/
+Model/Behavior/
+Vendor/
+View/Helper/
+.gitignore
+README.md
+VERSION.txt
+composer.json
+composer.lock

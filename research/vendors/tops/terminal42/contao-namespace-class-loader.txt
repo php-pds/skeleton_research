@@ -1,0 +1,7 @@
+config/
+languages/en/
+library/Composer/Autoload/
+.gitignore
+NamespaceClassLoader.php
+README.md
+composer.json

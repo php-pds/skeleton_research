@@ -1,0 +1,2 @@
+Squire/Symfony/
+composer.json

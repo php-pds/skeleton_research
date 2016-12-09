@@ -1,0 +1,16 @@
+assets/
+behaviors/
+controllers/
+migrations/
+models/
+views/default/
+web/
+widgets/
+.gitignore
+.htaccess
+LICENSE.md
+Module.php
+ModuleTrait.php
+README.md
+composer.json
+composer.lock

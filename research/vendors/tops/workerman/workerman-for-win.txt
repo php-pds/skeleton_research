@@ -1,0 +1,11 @@
+Connection/
+Events/
+Lib/
+Protocols/
+.gitignore
+Autoloader.php
+MIT-LICENSE.txt
+README.md
+WebServer.php
+Worker.php
+composer.json

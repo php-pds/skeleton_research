@@ -1,0 +1,5 @@
+files/
+src/Colorium/Text/
+LICENCE
+README.md
+composer.json

@@ -1,0 +1,13 @@
+ClientFactory/
+Controller/
+DependencyInjection/
+Entity/
+Repository/
+Resources/
+Tests/
+.gitignore
+.travis.yml
+BoxUKQasBundle.php
+README.md
+composer.json
+phpunit.xml.dist

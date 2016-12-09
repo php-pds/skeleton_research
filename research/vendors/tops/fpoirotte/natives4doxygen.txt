@@ -1,0 +1,6 @@
+docs/interfaces/
+.gitignore
+LICENSE
+README.rst
+composer.json
+composer.lock

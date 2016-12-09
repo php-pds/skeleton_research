@@ -1,0 +1,5 @@
+.gitignore
+LICENSE
+README.md
+Subset.php
+composer.json

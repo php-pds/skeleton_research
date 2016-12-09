@@ -1,0 +1,14 @@
+Cache/
+Command/
+Controller/
+DependencyInjection/
+Entity/
+Form/Type/
+Manager/
+Model/
+Resources/
+Subscriber/
+Twig/
+README.md
+SmartSettingsBundle.php
+composer.json

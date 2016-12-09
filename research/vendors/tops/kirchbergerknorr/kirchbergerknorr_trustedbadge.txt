@@ -1,0 +1,6 @@
+app/
+skin/adminhtml/default/default/images/trustedrating/
+README.md
+composer.json
+modman
+package.xml

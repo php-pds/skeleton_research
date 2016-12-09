@@ -1,0 +1,6 @@
+lib/HireVoice/Neo4j/
+.gitignore
+README.markdown
+bootstrap.php
+composer.json
+phpunit.xml

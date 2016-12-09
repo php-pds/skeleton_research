@@ -1,0 +1,12 @@
+Command/
+DependencyInjection/
+Exception/
+Resources/
+.gitignore
+CHANGELOG.md
+FDevsCssFixerBundle.php
+README.md
+composer.json
+composer.lock
+npm-shrinkwrap.json
+package.json

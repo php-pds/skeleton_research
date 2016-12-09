@@ -1,0 +1,9 @@
+design/
+doc/
+modules/owner/
+pake/
+settings/
+LICENSE
+README
+composer.json
+extension.xml

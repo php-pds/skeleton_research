@@ -1,0 +1,14 @@
+examples/
+src/TheFox/
+tests/
+.editorconfig
+.gitignore
+.travis.yml
+Makefile
+README.md
+application.php
+composer.json
+config.check.sh
+dbg.sh
+macho.sublime-project
+phpunit.xml

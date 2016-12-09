@@ -1,0 +1,7 @@
+classes/
+config/
+tests/
+.gitignore
+LICENSE.txt
+README.textile
+composer.json

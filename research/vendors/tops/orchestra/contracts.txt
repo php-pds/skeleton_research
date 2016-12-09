@@ -1,0 +1,9 @@
+docs/
+src/
+.gitattributes
+.gitignore
+.php_cs
+.scrutinizer.yml
+LICENSE
+README.md
+composer.json

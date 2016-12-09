@@ -1,0 +1,5 @@
+services/
+tests/
+README.md
+Schematic_AmNavPlugin.php
+composer.json

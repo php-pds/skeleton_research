@@ -1,0 +1,10 @@
+bin/
+src/Tasks/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+contributors.md
+sonar-project.properties

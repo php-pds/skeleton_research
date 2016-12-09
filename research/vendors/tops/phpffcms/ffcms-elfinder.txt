@@ -1,0 +1,8 @@
+css/
+img/
+js/
+php/
+Changelog
+LICENSE
+README.md
+composer.json

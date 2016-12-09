@@ -1,0 +1,9 @@
+src/webignition/HtmlValidationErrorNormaliser/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+index.html
+phpunit.xml.dist

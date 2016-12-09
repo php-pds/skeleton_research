@@ -1,0 +1,16 @@
+assets/
+components/
+controllers/
+docs/guide/
+messages/
+migrations/
+models/
+vendor/
+views/
+web/images/
+AdminAsset.php
+CHANGELOG.md
+Module.php
+README.md
+composer.json
+module-config.json

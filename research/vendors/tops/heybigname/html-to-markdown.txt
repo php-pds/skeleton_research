@@ -1,0 +1,8 @@
+ansible/
+src/
+tests/
+.gitignore
+README.md
+Vagrantfile
+composer.json
+phpunit.xml

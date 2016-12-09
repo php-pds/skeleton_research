@@ -1,0 +1,6 @@
+code/community/Occitech/Installer/
+etc/modules/
+.gitignore
+README.markdown
+composer.json
+modman

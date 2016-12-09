@@ -1,0 +1,11 @@
+lang/
+menu/
+modules/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+admin.php
+composer.json
+config.php
+index.php

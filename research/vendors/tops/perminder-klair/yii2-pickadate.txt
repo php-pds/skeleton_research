@@ -1,0 +1,7 @@
+assets/
+vendors/
+.bowerrc
+Pickadate.php
+README.md
+bower.json
+composer.json

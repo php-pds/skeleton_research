@@ -1,0 +1,8 @@
+src/FakeData/
+test/FakeData/Locale/nl_NL/
+.gitignore
+README.md
+build.xml
+composer.json
+composer.lock
+phpunit.xml

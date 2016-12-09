@@ -1,0 +1,10 @@
+config/
+lib/FirePHP/
+src/FdlDebug/
+tests/
+.gitignore
+.travis.yml
+Bootstrapper.php
+Functions.php
+README.md
+composer.json

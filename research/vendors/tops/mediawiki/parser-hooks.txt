@@ -1,0 +1,14 @@
+build/travis/
+i18n/
+src/
+tests/
+.gitignore
+.gitreview
+.scrutinizer.yml
+.travis.yml
+COPYING
+ParserHooks.i18n.php
+ParserHooks.php
+README.md
+composer.json
+phpunit.xml.dist

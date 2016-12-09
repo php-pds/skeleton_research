@@ -1,0 +1,6 @@
+spec/BitbucketWebhook/
+src/
+.gitignore
+LICENSE
+README.md
+composer.json

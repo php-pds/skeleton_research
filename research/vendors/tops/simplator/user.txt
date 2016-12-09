@@ -1,0 +1,8 @@
+clients/
+controllers/
+models/
+views/
+Bootstrap.php
+LICENSE
+Module.php
+composer.json

@@ -1,0 +1,11 @@
+Controller/
+DependencyInjection/
+Entity/
+EventListener/
+Features/
+Manager/
+Resources/
+Tests/Manager/
+AlphaVisitorTrackingBundle.php
+README.md
+composer.json

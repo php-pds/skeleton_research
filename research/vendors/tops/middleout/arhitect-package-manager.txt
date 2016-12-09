@@ -1,0 +1,5 @@
+app/config/
+src/Arhitect/PackageManager/Console/Command/Package/
+.gitignore
+LICENSE
+composer.json

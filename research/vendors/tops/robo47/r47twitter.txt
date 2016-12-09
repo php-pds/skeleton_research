@@ -1,0 +1,13 @@
+build/
+src/Robo47/
+tests/
+.gitignore
+.travis.yml
+LICENSE.GPL2
+README.md
+autoload.php
+build.xml
+composer.json
+composer.lock
+phpunit.xml.dist
+r47Twitter.php

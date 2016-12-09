@@ -1,0 +1,9 @@
+config/
+log/
+web/
+.gitignore
+LICENSE
+README.md
+VERSION
+composer.json
+wp-config.php

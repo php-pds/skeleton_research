@@ -1,0 +1,10 @@
+provisioning/
+src/
+.gitignore
+CONTRIBUTING
+LICENSE
+README.md
+Vagrantfile
+armadillo_standin.sh
+armadillofile.yml
+composer.json

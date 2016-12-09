@@ -1,0 +1,11 @@
+Config/
+Controller/Component/
+Lib/
+Model/
+View/Helper/
+.editorconfig
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock

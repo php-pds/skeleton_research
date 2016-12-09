@@ -1,0 +1,7 @@
+tests/
+.gitignore
+LICENSE
+README.md
+Validator.php
+codeception.yml
+composer.json

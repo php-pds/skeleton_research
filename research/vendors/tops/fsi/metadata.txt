@@ -1,0 +1,8 @@
+lib/FSi/Component/Metadata/
+tests/FSi/Component/Metadata/Tests/
+.gitignore
+.travis.yml
+LICENSE.md
+README.md
+composer.json
+phpunit.xml.dist

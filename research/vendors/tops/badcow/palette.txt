@@ -1,0 +1,6 @@
+lib/Badcow/Palette/
+tests/Badcow/Palette/Tests/
+.gitignore
+LICENSE
+README.md
+composer.json

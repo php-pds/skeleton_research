@@ -1,0 +1,14 @@
+Command/
+Controller/
+DependencyInjection/
+Document/
+Resources/
+Tests/Controller/
+.gitattributes
+.scrutinizer.yml
+.travis.yml
+HgtanHelloDoctrineMongoDBBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

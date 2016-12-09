@@ -1,0 +1,10 @@
+assets/
+behaviors/
+migrations/
+models/
+web/images/
+Bootstrap.php
+Module.php
+README.md
+composer.json
+module-config.json

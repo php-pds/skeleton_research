@@ -1,0 +1,15 @@
+bin/
+dist/
+lib/WpTwigHelper/
+templates/
+test/WpTwigHelper/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CHANGELOG.md
+LICENSE.txt
+README.md
+composer.json
+composer.lock
+phpunit.xml
+portkey.json

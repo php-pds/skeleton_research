@@ -1,0 +1,8 @@
+bin/
+features/
+src/Eher/PHPWatch/
+.gitignore
+.travis.yml
+README.md
+composer.json
+composer.lock

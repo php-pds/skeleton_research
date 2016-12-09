@@ -1,0 +1,6 @@
+.gitignore
+GuzzleClientFactory.php
+GuzzleRequestAdapter.php
+README.md
+composer.json
+example.php

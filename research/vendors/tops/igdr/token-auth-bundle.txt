@@ -1,0 +1,14 @@
+Command/
+DependencyInjection/
+Entity/
+Event/
+Resources/config/
+Security/
+Service/
+Tests/
+.gitignore
+IgdrTokenAuth.php
+IgdrTokenAuthBundle.php
+README.md
+composer.json
+phpunit.xml.dist

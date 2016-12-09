@@ -1,0 +1,17 @@
+config/
+debian/
+lib/
+schemas/
+src/
+static/
+test/
+themes/OpenPsa2/
+tools/
+.gitattributes
+.gitignore
+.travis.yml
+README.markdown
+composer.json
+config-default.inc.php
+phpunit.xml.dist
+rootfile.php

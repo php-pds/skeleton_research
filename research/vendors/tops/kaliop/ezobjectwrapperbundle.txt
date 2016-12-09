@@ -1,0 +1,9 @@
+WrapperBundle/
+doc/images/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+news.md
+phpunit.xml

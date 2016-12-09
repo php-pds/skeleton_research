@@ -1,0 +1,10 @@
+src/webignition/CssValidatorWrapper/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist
+test.html

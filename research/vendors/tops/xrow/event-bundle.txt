@@ -1,0 +1,6 @@
+DependencyInjection/
+FieldType/EzpublishEvent/
+Resources/config/
+README.md
+XrowEventBundle.php
+composer.json

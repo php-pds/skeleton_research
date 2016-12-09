@@ -1,0 +1,16 @@
+loader/
+.editorconfig
+.gitattributes
+.gitignore
+.mailmap
+.remarkignore
+.remarkrc
+.travis.yml
+GPL-LICENSE.txt
+MIT-LICENSE.txt
+README.md
+composer.json
+gulpfile.js
+importer-runner.php
+package.json
+phpcs.xml.dist

@@ -1,0 +1,9 @@
+Annotation/
+DependencyInjection/
+Resources/
+Security/Authorization/Voter/
+.gitignore
+LICENSE
+README.md
+VardiusSecurityBundle.php
+composer.json

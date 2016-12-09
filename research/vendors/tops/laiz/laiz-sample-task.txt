@@ -1,0 +1,8 @@
+config/
+db/
+migrate/
+public/
+src/Laiz/Sample/Task/
+.gitignore
+README.md
+composer.json

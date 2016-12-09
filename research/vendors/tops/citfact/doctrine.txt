@@ -1,0 +1,6 @@
+install/
+lang/ru/
+.gitignore
+LICENSE
+README.md
+composer.json

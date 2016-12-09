@@ -1,0 +1,7 @@
+docs/
+tests/
+LICENSE
+Loader.php
+README.md
+composer.json
+phpunit.xml

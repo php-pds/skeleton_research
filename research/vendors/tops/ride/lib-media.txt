@@ -1,0 +1,4 @@
+src/ride/library/media/
+.gitignore
+README.md
+composer.json

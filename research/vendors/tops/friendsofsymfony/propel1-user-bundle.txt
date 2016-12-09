@@ -1,0 +1,12 @@
+DependencyInjection/
+Model/
+Resources/config/
+Tests/
+.gitignore
+.php_cs
+.travis.yml
+FOSPropel1UserBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

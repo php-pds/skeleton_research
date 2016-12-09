@@ -1,0 +1,6 @@
+controllers/
+widgets/
+LICENSE
+Module.php
+composer.json
+readme.md

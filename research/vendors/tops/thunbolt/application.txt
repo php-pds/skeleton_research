@@ -1,0 +1,6 @@
+application/
+shortcuts/src/
+tests/
+.gitignore
+codeception.yml
+composer.json

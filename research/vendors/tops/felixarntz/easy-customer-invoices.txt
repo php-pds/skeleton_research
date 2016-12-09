@@ -1,0 +1,14 @@
+assets/
+inc/WPECI/
+languages/
+.bowerrc
+.editorconfig
+.gitignore
+Gruntfile.js
+README.md
+bower.json
+composer.json
+easy-customer-invoices.php
+license.txt
+package.json
+readme.txt

@@ -1,0 +1,12 @@
+.idea/
+config/
+controllers/
+models/
+runtime/
+src/
+tests/
+views/
+web/
+.gitignore
+README.md
+composer.json

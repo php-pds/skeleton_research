@@ -1,0 +1,8 @@
+floxim_files/content/18/
+install/
+.gitignore
+.htaccess
+README.md
+boot.php
+composer.json
+index.php

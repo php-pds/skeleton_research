@@ -1,0 +1,3 @@
+ckeditor/
+README.md
+composer.json

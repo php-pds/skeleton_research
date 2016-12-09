@@ -1,0 +1,6 @@
+Command/
+Tests/
+.gitignore
+BaseJob.php
+README.md
+composer.json

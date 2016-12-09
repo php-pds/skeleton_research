@@ -1,0 +1,6 @@
+src/PHPUnit/Extensions/
+tests/PHPUnit/Extensions/
+.gitignore
+README.md
+composer.json
+phpunit.xml

@@ -1,0 +1,8 @@
+config/
+src/JVMimeTypes/Service/
+.gitattributes
+.gitignore
+LICENSE
+Module.php
+README.md
+composer.json

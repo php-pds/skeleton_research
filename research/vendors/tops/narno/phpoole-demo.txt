@@ -1,0 +1,11 @@
+content/
+layouts/
+static/
+.gitignore
+.travis.yml
+README.md
+build.php
+composer.json
+composer.lock
+deploy.sh
+phpoole.yml

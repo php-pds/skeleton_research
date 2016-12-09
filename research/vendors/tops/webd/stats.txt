@@ -1,0 +1,5 @@
+src/webd/stats/
+tests/
+.gitignore
+README.md
+composer.json

@@ -1,0 +1,12 @@
+Core/
+DependencyInjection/
+FPDF/
+Resources/config/
+Tests/
+.gitignore
+.travis.yml
+KwizerPdfBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

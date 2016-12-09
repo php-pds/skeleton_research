@@ -1,0 +1,8 @@
+src/Vhrb/Git/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock

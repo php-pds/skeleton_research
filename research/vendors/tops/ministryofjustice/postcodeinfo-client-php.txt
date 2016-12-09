@@ -1,0 +1,11 @@
+bin/
+docs/
+spec/
+src/
+.gitignore
+LICENSE.txt
+README.md
+composer.json
+composer.lock
+composer.phar
+phpspec.yml

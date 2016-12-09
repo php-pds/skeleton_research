@@ -1,0 +1,12 @@
+.settings/
+src/handler/
+tests/
+.buildpath
+.gitattributes
+.gitignore
+.project
+.travis.yml
+composer.json
+gulpfile.js
+package.json
+phpunit.xml

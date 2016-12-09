@@ -1,0 +1,14 @@
+css/
+img/
+js/
+lib/
+sass/
+views/
+.gitignore
+Gruntfile.js
+composer.json
+custom-widget.php
+package.json
+readme.txt
+screenshot-1.png
+screenshot-2.png

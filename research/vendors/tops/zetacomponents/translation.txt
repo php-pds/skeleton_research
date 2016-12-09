@@ -1,0 +1,14 @@
+design/
+docs/
+src/
+tests/
+.gitignore
+.travis.yml
+CREDITS
+ChangeLog
+DESCRIPTION
+LICENSE.txt
+composer.json
+phpunit.xml.dist
+review-1.2.txt
+review.txt

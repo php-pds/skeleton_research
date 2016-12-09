@@ -1,0 +1,8 @@
+config/
+dca/
+html/
+languages/
+HtaccessRedirect4ward.php
+PageError404_Redirect4ward.php
+README.md
+composer.json

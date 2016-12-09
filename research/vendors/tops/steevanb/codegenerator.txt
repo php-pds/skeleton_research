@@ -1,0 +1,7 @@
+Behavior/
+Documentation/
+Exception/
+Php/
+AbstractGenerator.php
+README.md
+composer.json

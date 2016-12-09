@@ -1,0 +1,4 @@
+views/
+README.md
+VideoWidget.php
+composer.json

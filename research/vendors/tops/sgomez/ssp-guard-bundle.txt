@@ -1,0 +1,11 @@
+Controller/
+DependencyInjection/
+Resources/config/
+Security/
+SimpleSAMLphp/
+Twig/Extension/
+.gitignore
+LICENSE.md
+README.md
+SSPGuardBundle.php
+composer.json

@@ -1,0 +1,7 @@
+CouchDocument/
+DependencyInjection/
+EventDispatcher/Subscriber/
+Model/
+Resources/
+BangpoundAtomDataBundle.php
+composer.json

@@ -1,0 +1,16 @@
+Client/
+Exception/
+Http/
+Report/
+Tests/
+Trace/
+.gitignore
+.travis.yml
+Configuration.php
+ErrorHandler.php
+LICENSE
+Monitor.php
+README.md
+ShutdownHandler.php
+composer.json
+phpunit.xml.dist

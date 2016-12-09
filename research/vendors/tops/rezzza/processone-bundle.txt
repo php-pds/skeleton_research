@@ -1,0 +1,15 @@
+Api/
+DependencyInjection/
+Exception/
+Message/
+Recipient/
+Resources/config/services/
+Transport/
+tests/units/
+.atoum.bootstrap.php
+.atoum.php
+.gitignore
+.travis.yml
+README.md
+RezzzaProcessOneBundle.php
+composer.json

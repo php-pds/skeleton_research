@@ -1,0 +1,7 @@
+app/Demo/
+configuration/
+public/
+.gitignore
+LICENSE
+README.md
+composer.json

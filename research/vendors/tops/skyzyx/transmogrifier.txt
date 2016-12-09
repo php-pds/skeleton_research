@@ -1,0 +1,4 @@
+src/Transmogrifier/
+tests/
+README.md
+composer.json

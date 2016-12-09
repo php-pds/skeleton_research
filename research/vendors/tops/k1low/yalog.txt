@@ -1,0 +1,7 @@
+Lib/Log/Engine/
+Test/Case/Lib/Log/Engine/
+Vendor/log4php/
+.gitignore
+.travis.yml
+README.md
+composer.json

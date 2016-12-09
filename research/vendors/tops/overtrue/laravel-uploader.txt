@@ -1,0 +1,9 @@
+src/
+tests/
+.gitattributes
+.gitignore
+README.md
+composer.json
+gulpfile.js
+package.json
+phpunit.xml.dist

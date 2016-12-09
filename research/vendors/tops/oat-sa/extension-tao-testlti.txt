@@ -1,0 +1,10 @@
+actions/
+includes/
+models/
+scripts/update/
+views/
+.gitignore
+LICENSE
+README.md
+composer.json
+manifest.php

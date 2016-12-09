@@ -1,0 +1,7 @@
+scripts/
+src/Hive/Console/
+.gitignore
+LICENSE
+README.md
+composer.json
+hive

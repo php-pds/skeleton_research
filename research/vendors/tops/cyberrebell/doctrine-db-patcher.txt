@@ -1,0 +1,6 @@
+library/DoctrineDbPatcher/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,12 @@
+Classes/
+Configuration/
+ChangeLog
+README.txt
+composer.json
+ext_conf_template.txt
+ext_emconf.php
+ext_icon.gif
+ext_localconf.php
+ext_tables.php
+ext_tables.sql
+locallang_db.xml

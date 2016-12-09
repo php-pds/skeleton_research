@@ -1,0 +1,6 @@
+Collector/
+DependencyInjection/
+.gitignore
+LexikFrameworkAcceleratorBundle.php
+README.md
+composer.json

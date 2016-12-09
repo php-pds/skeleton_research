@@ -1,0 +1,3 @@
+ManiaLive/
+README.md
+composer.json

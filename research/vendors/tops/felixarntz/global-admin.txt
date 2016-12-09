@@ -1,0 +1,17 @@
+global-admin/
+tests/phpunit/
+.codeclimate.yml
+.editorconfig
+.gitattributes
+.gitignore
+.travis.yml
+README.md
+codesniffer.ruleset.xml
+composer.json
+deploy.sh
+global-admin.php
+gulpfile.js
+license.txt
+package.json
+phpunit.xml
+readme.txt

@@ -1,0 +1,6 @@
+Config/
+Detector.php
+char_spec_iso8859.php
+char_spec_koi8.php
+char_spec_w1251.php
+composer.json

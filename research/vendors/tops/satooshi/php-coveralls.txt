@@ -1,0 +1,16 @@
+bin/
+build/
+devtools/
+src/Satooshi/
+tests/
+.gitignore
+.php_cs
+.travis.yml
+AUTHORS
+CHANGELOG.md
+LICENSE
+README.md
+box.json
+circle.yml
+composer.json
+phpunit.xml.dist

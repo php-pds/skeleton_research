@@ -1,0 +1,9 @@
+Tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+ExtGridView.php
+LICENSE
+README.md
+composer.json
+phpunit.xml

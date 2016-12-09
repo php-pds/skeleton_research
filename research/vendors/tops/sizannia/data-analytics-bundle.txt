@@ -1,0 +1,11 @@
+Block/
+DependencyInjection/
+Loader/
+Reader/
+Resources/
+Tests/Controller/
+LICENSE
+README.md
+SizanniaDataAnalyticsBundle.php
+composer.json
+tmp.txt

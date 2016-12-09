@@ -1,0 +1,4 @@
+Classes/Famelo/PhpError/
+Configuration/Development/
+Resources/
+composer.json

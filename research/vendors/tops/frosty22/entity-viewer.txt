@@ -1,0 +1,3 @@
+src/EntityViewer/
+README.md
+composer.json

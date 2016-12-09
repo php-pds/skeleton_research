@@ -1,0 +1,3 @@
+Log/
+README.markdown
+composer.json

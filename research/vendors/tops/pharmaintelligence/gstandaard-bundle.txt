@@ -1,0 +1,10 @@
+Command/
+DependencyInjection/
+Model/
+Resources/
+Service/Barcode/
+.gitignore
+LICENSE
+PharmaIntelligenceGstandaardBundle.php
+README.md
+composer.json

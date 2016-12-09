@@ -1,0 +1,6 @@
+.gitignore
+BootstrapConfirmationAsset.php
+LICENSE
+README.md
+composer.json
+sshot-1.png

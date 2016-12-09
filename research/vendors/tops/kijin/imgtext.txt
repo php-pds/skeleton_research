@@ -1,0 +1,5 @@
+example/
+README.KO.md
+README.md
+composer.json
+imgtext.php

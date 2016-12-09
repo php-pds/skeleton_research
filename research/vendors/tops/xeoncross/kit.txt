@@ -1,0 +1,6 @@
+Kit/
+PHPUnit/
+.gitignore
+composer.json
+phpunit.xml.dist
+readme.md

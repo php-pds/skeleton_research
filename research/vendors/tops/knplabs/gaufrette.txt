@@ -1,0 +1,11 @@
+doc/
+spec/Gaufrette/
+src/Gaufrette/
+tests/
+.editorconfig
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,6 @@
+src/
+LICENSE
+README.md
+build.xml
+changelog.rst
+composer.json

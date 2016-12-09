@@ -1,0 +1,6 @@
+lib/Omlex/
+test/
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

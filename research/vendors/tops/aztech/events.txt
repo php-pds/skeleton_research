@@ -1,0 +1,7 @@
+doc/
+examples/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+README.md
+composer.json

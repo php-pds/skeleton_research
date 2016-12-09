@@ -1,0 +1,7 @@
+controllers/
+handlers/
+migrations/
+models/
+Parsedomain.php
+README.md
+composer.json

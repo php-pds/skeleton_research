@@ -1,0 +1,7 @@
+DependencyInjection/
+EventListener/
+Resources/
+Tests/Controller/
+ManuelAjaxFlashBundle.php
+README.md
+composer.json

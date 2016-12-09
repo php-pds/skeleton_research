@@ -1,0 +1,3 @@
+latest/
+README.md
+composer.json

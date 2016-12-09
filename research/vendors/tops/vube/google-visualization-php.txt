@@ -1,0 +1,11 @@
+example/
+src/Vube/GoogleVisualization/DataSource/
+test/
+.coveralls.yml
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpdoc.xml
+phpunit.xml.dist

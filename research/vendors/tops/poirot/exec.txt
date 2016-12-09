@@ -1,0 +1,7 @@
+Interfaces/
+ExeDescriptor.php
+ExeProc.php
+ExeProcuted.php
+ExeProcutedPipes.php
+README.md
+composer.json

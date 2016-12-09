@@ -1,0 +1,8 @@
+ZendGdata/library/Zend/
+lib/model/
+resources/public/javascripts/wildfire-wildfire.media.youtube/
+README
+auth.tmp
+composer.json
+ini.php
+setup.php

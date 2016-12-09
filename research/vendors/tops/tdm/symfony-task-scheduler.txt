@@ -1,0 +1,11 @@
+Command/
+DependencyInjection/
+Document/
+Exceptions/
+Interfaces/
+Model/
+Repository/
+Resources/config/
+README.md
+TDMSchedulerBundle.php
+composer.json

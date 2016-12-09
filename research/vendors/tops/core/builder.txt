@@ -1,0 +1,4 @@
+bin/
+README.md
+composer.json
+core-builder.xml

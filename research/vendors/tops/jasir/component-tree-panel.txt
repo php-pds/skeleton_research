@@ -1,0 +1,6 @@
+ComponentTreePanel.php
+DebugTemplate.php
+bar.latte
+blocks.latte
+component.latte
+composer.json

@@ -1,0 +1,11 @@
+assets/
+config/
+dca/
+html/
+languages/
+runonce/
+templates/
+ContentLightbox4ward.php
+ModuleLightbox4wardAutoopen.php
+README.md
+composer.json

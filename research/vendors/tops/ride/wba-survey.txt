@@ -1,0 +1,6 @@
+config/
+l10n/
+src/ride/web/orm/
+README.md
+composer.json
+ride.json

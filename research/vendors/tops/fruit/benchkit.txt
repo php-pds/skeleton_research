@@ -1,0 +1,10 @@
+bin/
+example/
+src/
+.gitignore
+.travis.yml
+Makefile
+README.md
+composer.json
+doxygen.conf
+phpmd.xml

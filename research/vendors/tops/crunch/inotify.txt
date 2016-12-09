@@ -1,0 +1,13 @@
+docs/
+examples/
+src/Crunch/Inotify/
+tests/Crunch/Inotify/
+.gitattributes
+.gitignore
+.travis.yml
+CONTRIBUTING.md
+LICENSE
+README.md
+composer.json
+phpdoc.xml
+phpunit.xml

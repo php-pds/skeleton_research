@@ -1,0 +1,15 @@
+src/
+tests/
+.gitattributes
+.gitignore
+.travis.yml
+Berksfile
+Berksfile.lock
+CHANGELOG.md
+CONTRIBUTING.md
+LICENSE
+README.md
+Vagrantfile
+composer.json
+phpdoc.dist.xml
+phpunit.xml.dist

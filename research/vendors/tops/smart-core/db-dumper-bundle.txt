@@ -1,0 +1,9 @@
+Command/
+Controller/
+Database/
+DependencyInjection/
+Manager/
+Resources/
+README.md
+SmartDbDumperBundle.php
+composer.json

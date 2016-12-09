@@ -1,0 +1,9 @@
+config/
+src/ModulusMail/
+view/modulus-mail/email/
+.gitignore
+LICENSE
+Module.php
+README.md
+autoload_classmap.php
+composer.json

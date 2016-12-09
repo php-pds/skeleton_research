@@ -1,0 +1,13 @@
+Command/
+Tests/
+.gitignore
+.gush.yml
+.travis.yml
+CONTRIBUTING.md
+LICENSE
+README.md
+box.json
+certificationy.php
+composer.json
+config.yml
+phpunit.xml.dist

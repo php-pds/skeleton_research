@@ -1,0 +1,11 @@
+bin/
+example_certs/
+src/Punkstar/Ssl/
+tests/Punkstar/SslTest/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+composer.json
+phpunit.xml
+readme.md

@@ -1,0 +1,8 @@
+DependencyInjection/
+Options/
+Resources/
+Services/
+BigfootEcircleBundle.php
+README.md
+composer.json
+composer.lock

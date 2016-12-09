@@ -1,0 +1,4 @@
+models/
+MembershipComponent.php
+MembershipInterface.php
+composer.json

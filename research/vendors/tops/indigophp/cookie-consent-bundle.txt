@@ -1,0 +1,17 @@
+DependencyInjection/
+Resources/
+Tests/DependencyInjection/
+Twig/Extension/
+.editorconfig
+.gitattributes
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CHANGELOG.md
+CONDUCT.md
+CONTRIBUTING.md
+IndigoCookieConsentBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

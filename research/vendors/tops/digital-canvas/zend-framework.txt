@@ -1,0 +1,6 @@
+bin/
+library/
+INSTALL.md
+LICENSE.txt
+README.md
+composer.json

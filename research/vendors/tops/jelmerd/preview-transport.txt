@@ -1,0 +1,4 @@
+Lib/Network/Email/
+.gitignore
+README.md
+composer.json

@@ -1,0 +1,12 @@
+classes/
+config/doctrine/
+migrations/
+.gitignore
+CHANGELOG.md
+CONTRIBUTING.md
+LICENSE
+README.md
+TODO.md
+autoload.php
+bootstrap.php
+composer.json

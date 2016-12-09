@@ -1,0 +1,7 @@
+src/PimpleAwareEventDispatcher/
+tests/PimpleAwareEventDispatcher/Test/
+.gitignore
+LICENCE
+README.md
+composer.json
+phpunit.xml.dist

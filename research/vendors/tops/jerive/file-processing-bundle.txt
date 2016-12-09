@@ -1,0 +1,11 @@
+DependencyInjection/
+Processing/
+Resources/
+Tests/
+.gitignore
+.travis.yml
+JeriveFileProcessingBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

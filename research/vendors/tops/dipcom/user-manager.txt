@@ -1,0 +1,4 @@
+src/DIPcom/UserManager/
+.gitignore
+README.md
+composer.json

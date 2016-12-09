@@ -1,0 +1,6 @@
+Config/
+Hook/
+I18n/
+templates/frontOffice/
+HookTest.php
+composer.json

@@ -1,0 +1,11 @@
+js/
+php/
+tests/test-tools/
+.gitignore
+LICENSE.md
+README.md
+SwiftStream.php
+bootstrap.php.dist
+composer.json
+composer.lock
+phpunit.xml.dist

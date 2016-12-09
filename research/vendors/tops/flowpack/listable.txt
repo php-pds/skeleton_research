@@ -1,0 +1,7 @@
+Classes/Flowpack/Listable/TypoScript/Eel/FlowQueryOperations/
+Configuration/
+Resources/Private/
+Tests/Functional/TypoScriptObjects/
+LICENSE.md
+README.md
+composer.json

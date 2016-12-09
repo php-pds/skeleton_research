@@ -1,0 +1,5 @@
+src/Canducci/Thumbnail/
+test/
+.travis.yml
+README.md
+composer.json

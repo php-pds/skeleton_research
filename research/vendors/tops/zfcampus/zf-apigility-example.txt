@@ -1,0 +1,7 @@
+config/
+data/
+src/ZF/Apigility/Example/
+LICENSE.txt
+Module.php
+README.md
+composer.json

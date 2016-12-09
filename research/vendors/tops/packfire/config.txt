@@ -1,0 +1,7 @@
+src/Packfire/Config/
+test/
+.gitignore
+.travis.yml
+LICENSE
+composer.json
+composer.lock

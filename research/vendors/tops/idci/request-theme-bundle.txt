@@ -1,0 +1,13 @@
+Command/
+DependencyInjection/
+EventSubscriber/
+Exception/
+Resources/
+RuleAssessor/
+Theme/
+Twig/
+.gitignore
+IDCIRequestThemeBundle.php
+LICENSE
+README.md
+composer.json

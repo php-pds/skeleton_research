@@ -1,0 +1,15 @@
+.docker/
+.github/
+bin/
+resources/
+src/
+tests/
+.gitignore
+.travis.yml
+CONTRIBUTING.md
+LICENSE
+README.md
+composer.json
+composer.lock
+phpmd.xml
+phpunit.xml

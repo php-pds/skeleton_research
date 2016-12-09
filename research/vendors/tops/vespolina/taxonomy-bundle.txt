@@ -1,0 +1,9 @@
+Controller/
+DependencyInjection/
+Resources/
+Tests/
+.travis.yml
+README.markdown
+VespolinaTaxonomyBundle.php
+composer.json
+phpunit.xml.dist

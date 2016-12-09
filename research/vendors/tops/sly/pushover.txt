@@ -1,0 +1,6 @@
+src/Sly/PushOver/
+.gitignore
+.travis.yml
+README.md
+composer.json
+phpunit.xml.dist

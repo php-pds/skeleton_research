@@ -1,0 +1,6 @@
+views/
+EnterCode.php
+LICENSE
+README.md
+VerifyController.php
+composer.json

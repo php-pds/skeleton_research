@@ -1,0 +1,10 @@
+controller/
+db/
+js/
+skeleton/Tattler/Base/
+src/Tattler/
+tests/
+.gitignore
+LICENSE
+composer.json
+phpunit.xml

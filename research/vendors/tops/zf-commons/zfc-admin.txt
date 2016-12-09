@@ -1,0 +1,8 @@
+config/
+docs/
+src/ZfcAdmin/
+view/
+LICENSE
+Module.php
+README.md
+composer.json

@@ -1,0 +1,8 @@
+docs/
+lib/ActiveRecord/
+unit-tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json

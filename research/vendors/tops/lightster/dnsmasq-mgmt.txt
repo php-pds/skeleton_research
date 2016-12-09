@@ -1,0 +1,9 @@
+bin/
+config/autoload/
+src/Lstr/DnsmasqMgmt/
+.gitignore
+LICENSE
+README.md
+bootstrap.php
+composer.json
+composer.lock

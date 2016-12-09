@@ -1,0 +1,9 @@
+ODM/MongoDB/
+Tests/Units/ODM/MongoDB/
+.atoum.config.dist
+.atoum.php
+.atoum.travis.php
+.bootstrap.atoum.php
+.travis.yml
+README.md
+composer.json

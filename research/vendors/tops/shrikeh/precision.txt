@@ -1,0 +1,6 @@
+spec/Shrikeh/Precision/
+src/
+.gitignore
+composer.json
+composer.lock
+phpspec.yml

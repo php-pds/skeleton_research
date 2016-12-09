@@ -1,0 +1,6 @@
+assets/
+README.md
+Uploadify.php
+UploadifyAction.php
+UploadifyAsset.php
+composer.json

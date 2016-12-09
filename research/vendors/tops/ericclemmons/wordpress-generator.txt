@@ -1,0 +1,6 @@
+bin/
+src/Skeleton/
+.gitignore
+README.md
+composer.json
+composer.lock

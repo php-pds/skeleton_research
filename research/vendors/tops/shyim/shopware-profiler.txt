@@ -1,0 +1,12 @@
+Components/
+Controllers/Frontend/
+Resources/
+Subscriber/
+.gitignore
+LICENSE
+README.md
+ShyimProfiler.php
+build.sh
+composer.json
+composer.lock
+plugin.xml

@@ -1,0 +1,9 @@
+Admin/
+DependencyInjection/
+Form/Type/
+Resources/
+RoleProvider/
+.gitignore
+README.md
+VesaxAdminExtraBundle.php
+composer.json

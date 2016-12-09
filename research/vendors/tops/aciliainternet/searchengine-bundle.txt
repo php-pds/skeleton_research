@@ -1,0 +1,8 @@
+DependencyInjection/
+Library/
+Resources/config/
+Service/
+.gitignore
+AciliaSearchEngineBundle.php
+README.md
+composer.json

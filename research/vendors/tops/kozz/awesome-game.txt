@@ -1,0 +1,8 @@
+src/Misc/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock
+game
+game.php

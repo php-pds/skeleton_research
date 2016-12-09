@@ -1,0 +1,13 @@
+spec/Defender/
+src/
+tests/
+.gitignore
+.php_cs
+.styleci.yml
+.travis.yml
+LICENSE
+README-pt_BR.md
+README.md
+composer.json
+phpspec.yml
+phpunit.xml

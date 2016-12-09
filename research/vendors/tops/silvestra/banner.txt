@@ -1,0 +1,12 @@
+Event/
+Form/
+Model/
+Registry/
+Tests/
+.gitignore
+.travis.yml
+BannerZoneSynchronizer.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

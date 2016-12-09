@@ -1,0 +1,6 @@
+config/
+lib/Axis/S1/ServiceContainer/
+.gitignore
+LICENSE
+README.md
+composer.json

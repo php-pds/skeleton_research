@@ -1,0 +1,6 @@
+Cookie/
+Request/
+README.md
+Request.php
+Response.php
+composer.json

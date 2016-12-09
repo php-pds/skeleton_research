@@ -1,0 +1,8 @@
+app/
+vendor/
+www/
+.gitignore
+composer.json
+license.txt
+prepare
+readme.md

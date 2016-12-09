@@ -1,0 +1,10 @@
+components/
+controllers/
+messages/
+migrations/
+models/
+views/
+.gitignore
+README.md
+UserManagementModule.php
+composer.json

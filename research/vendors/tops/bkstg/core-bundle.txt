@@ -1,0 +1,14 @@
+Command/
+Controller/
+DependencyInjection/
+Entity/
+Event/
+EventSubscriber/
+Form/
+Manager/
+Menu/
+Resources/
+Tests/Controller/
+BkstgCoreBundle.php
+LICENSE
+composer.json

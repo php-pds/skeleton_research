@@ -1,0 +1,7 @@
+DependencyInjection/
+Lib/
+Resources/
+.gitignore
+GoogleAnalyticsBundle.php
+README.md
+composer.json

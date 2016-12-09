@@ -1,0 +1,8 @@
+src/Anthill/Phalcon/AnnotationsFilter/
+tests/Anthill/Phalcon/AnnotationsFilter/Filters/
+var/Annotations/
+.gitignore
+LICENSE
+composer.json
+composer.lock
+phpunit.xml.dist

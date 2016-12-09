@@ -1,0 +1,11 @@
+examples/
+lib/JWX/
+test/
+.gitattributes
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,6 @@
+src/
+.gitignore
+CHANGELOG.md
+CONTRIBUTING.md
+README.md
+composer.json

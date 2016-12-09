@@ -1,0 +1,11 @@
+contao/
+src/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+build.default.properties
+build.xml
+composer.json
+composer.lock
+phpunit.xml.dist

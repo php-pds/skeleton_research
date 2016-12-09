@@ -1,0 +1,6 @@
+Command/
+DependencyInjection/
+Resources/config/
+KwnRecognizeImBundle.php
+README.md
+composer.json

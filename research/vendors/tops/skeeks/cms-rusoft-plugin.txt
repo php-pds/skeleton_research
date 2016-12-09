@@ -1,0 +1,6 @@
+assets/
+config/
+AdminAsset.php
+LICENSE
+README.md
+composer.json

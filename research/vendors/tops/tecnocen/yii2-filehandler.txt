@@ -1,0 +1,10 @@
+actions/
+behaviors/
+tests/
+validators/
+.gitignore
+.travis.yml
+LICENSE.md
+README.md
+composer.json
+phpunit.xml.dist

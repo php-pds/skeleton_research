@@ -1,0 +1,17 @@
+bin/
+build/
+data/
+docs/
+examples/
+src/Bartlett/CompatInfo/
+tests/
+.gitignore
+LICENSE
+README.asciidoc
+box.json
+composer.json
+composer.lock
+manifest.txt
+phar-manifest.php
+phar-stub.php
+phpunit.xml.dist

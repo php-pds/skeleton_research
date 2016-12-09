@@ -1,0 +1,14 @@
+Command/
+DependencyInjection/
+Exception/
+Notification/
+Resources/
+Service/
+Tests/
+Util/
+.gitignore
+IDCINotificationApiClientBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,4 @@
+composer.json
+jscolor-example.html
+jscolor.js
+jscolor.min.js

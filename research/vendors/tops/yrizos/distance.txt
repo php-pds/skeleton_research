@@ -1,0 +1,7 @@
+library/DistanceMatrix/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json
+phpunit.xml

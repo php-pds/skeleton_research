@@ -1,0 +1,9 @@
+Tests/Service/
+src/
+.gitignore
+.travis.yml
+AutoloadTest.php
+Vagrantfile
+composer.json
+composer.lock
+phpunit.xml.dist

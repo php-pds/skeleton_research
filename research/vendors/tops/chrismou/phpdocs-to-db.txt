@@ -1,0 +1,9 @@
+build/
+data/
+src/
+.gitignore
+LICENSE.md
+README.md
+composer.json
+composer.lock
+run.php

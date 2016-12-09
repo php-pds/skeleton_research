@@ -1,0 +1,9 @@
+Controller/
+DependencyInjection/
+Entity/
+Form/
+Resolver/
+Resources/
+README.md
+VictoireWidgetSimpleContactFormBundle.php
+composer.json

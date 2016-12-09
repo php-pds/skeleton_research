@@ -1,0 +1,8 @@
+backend/
+frontend/
+migrations/
+resources/Page/
+.gitignore
+README.md
+composer.json
+composer.lock

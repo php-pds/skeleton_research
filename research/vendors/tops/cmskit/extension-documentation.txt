@@ -1,0 +1,6 @@
+crud/
+doc/
+examples/
+_chmod.html
+composer.json
+readme.md

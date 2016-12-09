@@ -1,0 +1,8 @@
+confs/freia/
+src/
+tests/
+.editorconfig
+.gitattributes
+.gitignore
+composer.json
+license.txt

@@ -1,0 +1,10 @@
+dist/
+htdocs/
+php/
+tests/
+.gitignore
+.travis.yml
+README.md
+appveyor.yml
+composer.json
+phpunit.xml

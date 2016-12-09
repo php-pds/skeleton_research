@@ -1,0 +1,7 @@
+src/CompanyIdValidator/
+tests/
+.gitignore
+.travis.yml
+composer.json
+licence.md
+readme.md

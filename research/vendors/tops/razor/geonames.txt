@@ -1,0 +1,6 @@
+config/
+src/Geonames/Controller/
+.travis.yml
+Module.php
+README.md
+composer.json

@@ -1,0 +1,13 @@
+DependencyInjection/
+Event/
+Model/
+MongoDB/Type/
+Resources/config/
+Serializer/
+Tests/
+.gitignore
+.travis.yml
+README.md
+StaffimDateTimeBundle.php
+composer.json
+phpunit.xml.dist

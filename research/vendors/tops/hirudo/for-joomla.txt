@@ -1,0 +1,5 @@
+nbproject/
+src/Hirudo/Impl/Joomla/
+.gitignore
+README.md
+composer.json

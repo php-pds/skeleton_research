@@ -1,0 +1,6 @@
+src/ActionscriptComposer/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock

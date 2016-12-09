@@ -1,0 +1,12 @@
+_config/
+bower_components/
+code/
+css/
+javascript/
+screenshots/
+templates/
+.editorconfig
+.gitignore
+README.md
+_config.php
+composer.json

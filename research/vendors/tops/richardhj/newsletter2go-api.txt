@@ -1,0 +1,3 @@
+src/Newsletter2Go/Api/
+README.md
+composer.json

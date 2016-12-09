@@ -1,0 +1,15 @@
+docs/
+features/
+setup @ 37629af
+src/
+.gitignore
+.gitmodules
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+build.properties
+build.xml
+composer.json
+composer.lock
+phpunit.xml

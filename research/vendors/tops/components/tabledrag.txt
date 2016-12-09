@@ -1,0 +1,6 @@
+css/
+img/
+js/
+LICENSE
+README.md
+composer.json

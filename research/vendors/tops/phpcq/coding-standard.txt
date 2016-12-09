@@ -1,0 +1,14 @@
+phpcs/
+phpmd/
+tests/
+.check-author.yml
+.gitignore
+.travis.yml
+LICENSE.BSD-3-CLAUSE
+LICENSE.MIT
+README.md
+build.default.properties
+build.xml
+composer.json
+composer.lock
+phpunit.xml.dist

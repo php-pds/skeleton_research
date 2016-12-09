@@ -1,0 +1,7 @@
+config/
+public/assets/
+src/Zf2Upload/
+view/partial/
+Module.php
+README.md
+composer.json

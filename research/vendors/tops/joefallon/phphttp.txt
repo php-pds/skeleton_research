@@ -1,0 +1,7 @@
+src/JoeFallon/PhpHttp/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock

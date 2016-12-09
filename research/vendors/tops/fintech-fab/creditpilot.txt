@@ -1,0 +1,7 @@
+src/FintechFab/Payments/
+tests/FintechFab/Payments/Test/
+.gitignore
+README.md
+composer.json
+composer.lock
+phpunit.xml

@@ -1,0 +1,7 @@
+src/Matthias/PhpCodingStandard/
+tests/Matthias/PhpCodingStandard/Tests/Sniffs/
+.gitignore
+.travis.yml
+LICENSE
+composer.json
+phpunit.xml.dist

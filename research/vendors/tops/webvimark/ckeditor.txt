@@ -1,0 +1,5 @@
+assets/
+CKEditor.php
+CKEditorAsset.php
+README.md
+composer.json

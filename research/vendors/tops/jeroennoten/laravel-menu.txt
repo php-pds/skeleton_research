@@ -1,0 +1,12 @@
+config/
+database/migrations/
+resources/views/
+src/
+tests/
+.gitattributes
+.gitignore
+.travis.yml
+LICENSE
+_ide_helper.php
+composer.json
+phpunit.xml

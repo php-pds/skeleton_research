@@ -1,0 +1,9 @@
+tests/
+.gitignore
+.travis.yml
+Exception.php
+Queue.php
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

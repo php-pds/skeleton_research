@@ -1,0 +1,11 @@
+spec/
+src/SelvinOrtiz/Dot/
+.gitignore
+.travis.yml
+Dot.png
+LICENSE.txt
+README.md
+composer.json
+composer.lock
+phpunit.xml
+spec.sh

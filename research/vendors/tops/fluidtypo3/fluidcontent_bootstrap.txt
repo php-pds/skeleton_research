@@ -1,0 +1,11 @@
+Build/
+Classes/Controller/
+Configuration/TypoScript/
+Resources/
+.travis.yml
+README.md
+class.ext_update.php
+composer.json
+ext_emconf.php
+ext_icon.gif
+ext_tables.php

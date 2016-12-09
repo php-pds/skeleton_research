@@ -1,0 +1,11 @@
+DependencyInjection/
+Resources/config/
+Tests/
+Twig/
+.gitignore
+.travis.yml
+HeltheSegmentioBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

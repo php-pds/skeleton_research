@@ -1,0 +1,5 @@
+components/
+extensions/
+.gitignore
+README.md
+composer.json

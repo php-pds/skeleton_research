@@ -1,0 +1,5 @@
+tests/
+.travis.yml
+README.md
+StringHelper.php
+composer.json

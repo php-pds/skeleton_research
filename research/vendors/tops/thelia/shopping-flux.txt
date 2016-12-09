@@ -1,0 +1,16 @@
+API/
+AdminIncludes/
+Command/
+Config/
+Controller/
+Event/
+EventListeners/
+Export/
+Form/
+I18n/
+Model/
+Tests/
+LICENSE.txt
+README.md
+ShoppingFlux.php
+composer.json

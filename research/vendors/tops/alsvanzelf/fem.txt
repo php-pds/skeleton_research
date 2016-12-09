@@ -1,0 +1,8 @@
+datamodel/
+example-project/
+src/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock

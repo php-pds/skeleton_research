@@ -1,0 +1,5 @@
+bin/
+plugins/
+composer.json
+options.js
+package.json

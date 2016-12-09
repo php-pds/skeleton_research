@@ -1,0 +1,15 @@
+ant-scripts/composer/
+src/JooS/Stream/
+tests/
+.gitattributes
+.gitignore
+.travis.yml
+LICENSE.txt
+README.md
+build-dev.xml
+build.properties
+build.xml
+composer.json
+composer.lock
+phpmd.xml
+phpunit.xml.dist

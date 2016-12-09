@@ -1,0 +1,8 @@
+src/
+tests/
+.gitignore
+composer.json
+install.sh
+license.md
+readme.md
+test.sh

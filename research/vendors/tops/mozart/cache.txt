@@ -1,0 +1,14 @@
+Compressed/
+Docs/
+Driver/
+Event/
+Exception/
+.gitignore
+.travis.yml
+CHANGELOG.md
+Cache.php
+CacheInterface.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

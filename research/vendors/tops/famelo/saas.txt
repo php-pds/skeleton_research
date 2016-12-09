@@ -1,0 +1,6 @@
+Classes/Famelo/Saas/
+Configuration/
+Migrations/Mysql/
+Resources/Private/
+Tests/Functional/
+composer.json

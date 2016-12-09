@@ -1,0 +1,6 @@
+src/Witooh/BasicMessage/
+tests/
+.gitignore
+.travis.yml
+composer.json
+phpunit.xml

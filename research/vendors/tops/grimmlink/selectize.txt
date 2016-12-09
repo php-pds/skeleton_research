@@ -1,0 +1,16 @@
+dist/
+docs/
+examples/
+src/
+test/
+CHANGELOG.md
+Gruntfile.js
+LICENSE
+Makefile
+README.md
+bower.json
+composer.json
+karma.conf.js
+package.json
+selectize.jquery.json
+yarn.lock

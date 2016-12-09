@@ -1,0 +1,8 @@
+DependencyInjection/
+Loader/
+Resolver/
+Resources/config/
+LICENSE
+README.md
+SimettricGaufrette2LiipImagineBundle.php
+composer.json

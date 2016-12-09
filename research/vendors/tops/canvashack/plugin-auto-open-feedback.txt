@@ -1,0 +1,5 @@
+.gitignore
+LICENSE.md
+auto-open-feedback.js
+composer.json
+manifest.xml

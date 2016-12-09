@@ -1,0 +1,8 @@
+resources/
+src/SwiffyParser/
+tests/SwiffyParser/Extractor/
+.gitignore
+.travis.yml
+README.md
+composer.json
+phpunit.xml

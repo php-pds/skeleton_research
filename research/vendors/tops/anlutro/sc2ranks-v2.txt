@@ -1,0 +1,8 @@
+src/anlutro/SC2Ranks/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+composer.json
+phpunit.xml
+readme.md

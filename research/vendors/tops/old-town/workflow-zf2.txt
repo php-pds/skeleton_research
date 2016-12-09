@@ -1,0 +1,17 @@
+build/logs/
+config/
+doc/book/ru/
+src/
+test/phpunit/
+.coveralls.yml
+.gitattributes
+.gitignore
+.php_cs
+.travis.yml
+LICENSE
+Module.php
+README.md
+composer.json
+mkdocs.yml
+phpunit.xml.dist
+phpunit.xml.travis

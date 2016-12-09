@@ -1,0 +1,7 @@
+HttpKernel/
+Monolog/Handler/
+Pimple/Provider/
+Security/
+Swiftmailer/
+README.md
+composer.json

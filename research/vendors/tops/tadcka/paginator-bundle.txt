@@ -1,0 +1,9 @@
+DependencyInjection/
+Helper/
+Manager/
+Resources/
+Twig/
+LICENSE
+README.md
+TadckaPaginatorBundle.php
+composer.json

@@ -1,0 +1,11 @@
+src/
+tests/
+.gitignore
+.travis.yml
+README.md
+TODO
+composer.json
+listAccounts.php
+parserHeader.php
+phpunit.xml
+test.php

@@ -1,0 +1,4 @@
+src/zf2tidyfilter/Filter/
+LICENSE
+README.md
+composer.json

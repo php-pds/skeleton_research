@@ -1,0 +1,13 @@
+Controller/
+DependencyInjection/
+Resources/
+Services/
+Tests/
+Twig/
+.gitignore
+.htaccess
+.travis.yml
+RCPHPCRReorderNodesBundle.php
+composer.json
+composer.phar
+phpunit.xml.dist

@@ -1,0 +1,4 @@
+src/
+.gitignore
+atlassian-ide-plugin.xml
+composer.json

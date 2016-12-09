@@ -1,0 +1,16 @@
+bin/
+etc/
+resources/
+src/AppserverIo/WebServer/
+tests/AppserverIo/WebServer/
+var/
+.gitignore
+.travis.yml
+CHANGELOG.md
+Dockerfile
+README.md
+bootstrap.php
+build.default.properties
+build.xml
+composer.json
+phpunit.xml

@@ -1,0 +1,6 @@
+.gitignore
+LICENSE
+README.md
+VK.php
+VKBase.php
+composer.json

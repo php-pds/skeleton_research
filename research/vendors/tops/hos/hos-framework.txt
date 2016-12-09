@@ -1,0 +1,10 @@
+bin/
+compass/
+conf/
+doc/
+javascript/
+src/
+web/
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,10 @@
+config/
+data/
+lib/Weasty/Similar/
+shpinx/
+tests/
+.gitignore
+.htaccess
+composer.json
+index.php
+search.php

@@ -1,0 +1,6 @@
+Controller/
+Data/
+Model/
+bin/
+BankDataBundle.php
+composer.json

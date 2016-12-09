@@ -1,0 +1,12 @@
+Controller/
+DependencyInjection/
+Entity/
+Filter/
+Form/
+Listener/
+Repository/
+Resources/
+Service/
+Tests/Controller/
+DyweeProductBundle.php
+composer.json

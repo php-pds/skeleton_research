@@ -1,0 +1,11 @@
+Bridge/Solarium/
+Connection/
+DependencyInjection/
+Exception/
+ODM/
+Resources/config/
+Tests/
+README.md
+RealestateSolrBundle.php
+Registry.php
+composer.json

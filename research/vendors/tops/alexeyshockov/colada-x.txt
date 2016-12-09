@@ -1,0 +1,9 @@
+spec/Colada/X/
+src/
+.gitignore
+.php_cs
+.scrutinizer.yml
+.travis.yml
+README.md
+composer.json
+phpspec.yml.dist

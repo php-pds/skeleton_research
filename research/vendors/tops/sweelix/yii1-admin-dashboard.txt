@@ -1,0 +1,10 @@
+assets/
+controllers/
+messages/
+views/default/
+.gitignore
+CHANGELOG.md
+LICENSE.md
+Module.php
+README.md
+composer.json

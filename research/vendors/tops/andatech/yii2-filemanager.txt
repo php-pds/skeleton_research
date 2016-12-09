@@ -1,0 +1,5 @@
+KCFinder.php
+KCFinderAsset.php
+README.md
+composer.json
+upload.htaccess

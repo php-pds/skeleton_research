@@ -1,0 +1,14 @@
+languages/
+lib/
+screenshots/
+vendors/jqplot/
+views/default/
+.gitignore
+.travis.yml
+CHANGES.txt
+README.md
+composer.json
+composer.lock
+manifest.xml
+start.php
+views.php

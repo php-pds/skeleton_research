@@ -1,0 +1,16 @@
+Command/Package/
+Controller/Admin/
+DataGrid/
+DataSet/
+DependencyInjection/
+Entity/
+Factory/
+Form/Admin/
+Helper/Package/
+Manager/Admin/
+Repository/
+Resources/
+LICENSE
+README.md
+WellCommerceSmugglerBundle.php
+composer.json

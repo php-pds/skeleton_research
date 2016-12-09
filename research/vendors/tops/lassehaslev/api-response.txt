@@ -1,0 +1,11 @@
+src/
+tests/
+.gitignore
+.travis.yml
+LICENCE.md
+README.md
+composer.json
+gulpfile.js
+package.json
+phpunit.xml
+todo.txt

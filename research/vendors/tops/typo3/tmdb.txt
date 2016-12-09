@@ -1,0 +1,5 @@
+Classes/TYPO3/Tmdb/
+Configuration/
+.gitignore
+README.rst
+composer.json

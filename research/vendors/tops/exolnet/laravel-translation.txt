@@ -1,0 +1,4 @@
+Traits/
+.gitattributes
+README.md
+composer.json

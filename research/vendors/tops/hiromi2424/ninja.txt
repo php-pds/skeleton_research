@@ -1,0 +1,12 @@
+Config/Schema/
+Console/
+Controller/Component/
+Lib/
+Locale/
+Model/
+Test/
+View/
+config/schema/
+.travis.yml
+README.md
+composer.json

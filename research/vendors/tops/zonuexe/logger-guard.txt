@@ -1,0 +1,7 @@
+src/
+tests/public/
+.gitignore
+LICENSE
+README.md
+Rakefile
+composer.json

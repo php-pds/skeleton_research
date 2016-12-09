@@ -1,0 +1,4 @@
+assets/
+src/
+.gitignore
+composer.json

@@ -1,0 +1,9 @@
+src/Howlowck/SVGGen/
+tests/
+.gitignore
+.travis.yml
+Gruntfile.js
+composer.json
+package.json
+phpunit.xml
+readme.md

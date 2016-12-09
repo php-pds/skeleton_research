@@ -1,0 +1,13 @@
+spec/
+src/
+.coveralls.yml
+.gitignore
+.travis.yml
+LICENSE
+README.md
+RELEASE_NOTES.md
+composer.json
+composer.lock
+phpcs.xml.dist
+phpspec.travis.yml
+phpspec.yml

@@ -1,0 +1,6 @@
+extension/
+tests/
+.gitignore
+README.md
+composer.json
+说明.md

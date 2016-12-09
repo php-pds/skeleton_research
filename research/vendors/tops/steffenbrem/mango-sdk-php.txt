@@ -1,0 +1,7 @@
+etc/docker/php/
+src/Mango/SDK/
+.gitignore
+composer.json
+composer.lock
+docker-compose.yml
+test.php

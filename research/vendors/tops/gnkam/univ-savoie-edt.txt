@@ -1,0 +1,6 @@
+examples/
+src/Gnkam/Univ/Savoie/Edt/
+.gitignore
+COPYING.txt
+README.md
+composer.json

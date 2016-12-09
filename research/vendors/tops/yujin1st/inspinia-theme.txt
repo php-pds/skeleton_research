@@ -1,0 +1,9 @@
+assets/
+components/
+layouts/
+widgets/
+.gitignore
+AppAsset.php
+README.md
+composer.json
+composer.lock

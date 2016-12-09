@@ -1,0 +1,15 @@
+bin/
+docker-images/whippet-wordpress/
+generators/
+src/
+tests/
+.gitignore
+.gitmodules
+.php_cs
+.travis.yml
+COPYING.txt
+composer.json
+composer.lock
+phpunit.xml
+readme.md
+vendor.phar

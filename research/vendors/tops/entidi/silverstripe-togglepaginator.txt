@@ -1,0 +1,10 @@
+_config/
+code/
+lang/
+templates/
+.editorconfig
+.scrutinizer.yml
+AUTHORS
+COPYING
+README.md
+composer.json

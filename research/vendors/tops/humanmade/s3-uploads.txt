@@ -1,0 +1,10 @@
+bin/
+inc/
+lib/aws-sdk/
+tests/
+.gitignore
+.travis.yml
+README.md
+composer.json
+phpunit.xml.dist
+s3-uploads.php

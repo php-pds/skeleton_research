@@ -1,0 +1,7 @@
+config/
+l10n/
+src/ride/app/orm/openingschedule/entry/
+view/smarty/cms/helper/
+README.md
+composer.json
+ride.json

@@ -1,0 +1,10 @@
+app/
+bootstrap/
+config/
+public/
+views/
+.gitignore
+README.md
+Vagrantfile
+composer.json
+composer.lock

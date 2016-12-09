@@ -1,0 +1,4 @@
+resources/languages/ja/
+Module.php
+README.md
+composer.json

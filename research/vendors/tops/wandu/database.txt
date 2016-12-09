@@ -1,0 +1,14 @@
+Annotations/
+Connection/
+Connector/
+Contracts/
+Dumper/
+Exception/
+Migrator/
+Query/
+Repository/
+Support/
+Manager.php
+QueryBuilder.php
+README.md
+composer.json

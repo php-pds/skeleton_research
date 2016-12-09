@@ -1,0 +1,6 @@
+assets/
+.DS_Store
+CoreAsset.php
+README.md
+composer.json
+yiijquerytoc.php

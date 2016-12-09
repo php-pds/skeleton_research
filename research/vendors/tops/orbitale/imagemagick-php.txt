@@ -1,0 +1,14 @@
+ReferenceClasses/
+Resources/
+Tests/
+.coveralls.yml
+.gitattributes
+.gitignore
+.travis.yml
+Command.php
+CommandOptions.php
+CommandResponse.php
+README.md
+References.php
+composer.json
+phpunit.xml.dist

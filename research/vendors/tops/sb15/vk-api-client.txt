@@ -1,0 +1,3 @@
+src/ApiClient/
+README.md
+composer.json

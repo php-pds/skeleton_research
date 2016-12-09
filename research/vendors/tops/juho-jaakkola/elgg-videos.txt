@@ -1,0 +1,14 @@
+actions/video/
+classes/
+languages/
+lib/
+views/default/
+.gitignore
+README.md
+activate.php
+composer.json
+deactivate.php
+manifest.xml
+start.php
+video.php
+videothumb.php

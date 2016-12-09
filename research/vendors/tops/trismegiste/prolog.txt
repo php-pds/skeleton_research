@@ -1,0 +1,12 @@
+Command/
+Controller/
+Form/
+Resources/
+Tests/
+.gitignore
+.travis.yml
+README.md
+TrismegisteWamBundle.php
+composer.json
+phpdoc.xml
+phpunit.xml

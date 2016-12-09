@@ -1,0 +1,5 @@
+code/
+thirdparty/valums/
+Readme.md
+_config.php
+composer.json

@@ -1,0 +1,7 @@
+apache/
+configuration/
+public/
+.gitignore
+README.md
+composer.json
+install.sh

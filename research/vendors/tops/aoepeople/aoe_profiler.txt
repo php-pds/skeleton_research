@@ -1,0 +1,8 @@
+app/
+skin/adminhtml/default/default/aoe_profiler/
+var/
+.travis.yml
+LICENSE
+Readme.md
+composer.json
+modman

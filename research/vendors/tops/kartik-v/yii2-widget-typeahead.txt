@@ -1,0 +1,10 @@
+assets/
+CHANGE.md
+LICENSE.md
+README.md
+Typeahead.php
+TypeaheadAsset.php
+TypeaheadBasic.php
+TypeaheadBasicAsset.php
+TypeaheadHBAsset.php
+composer.json

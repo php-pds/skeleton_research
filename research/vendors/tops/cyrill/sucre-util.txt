@@ -1,0 +1,7 @@
+doc/example/
+lib/Sucre/
+sample/
+tests/
+.gitignore
+README.md
+composer.json

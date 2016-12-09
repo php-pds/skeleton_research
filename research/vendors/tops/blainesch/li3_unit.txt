@@ -1,0 +1,8 @@
+config/
+resources/db/
+test/
+tests/
+.travis.yml
+assertions.md
+composer.json
+readme.md

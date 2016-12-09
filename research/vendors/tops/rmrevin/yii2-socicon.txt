@@ -1,0 +1,16 @@
+assets/
+component/
+lib/socicon/
+tests/unit/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+AssetBundle.php
+LICENSE
+README.md
+SI.php
+Socicon.php
+composer.json
+composer.lock
+convert.php
+phpunit.xml.dist

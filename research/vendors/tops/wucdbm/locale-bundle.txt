@@ -1,0 +1,10 @@
+DependencyInjection/
+Form/Type/
+Listener/
+Locale/
+Manager/
+Resources/config/services/
+.gitignore
+LICENSE
+WucdbmLocaleBundle.php
+composer.json

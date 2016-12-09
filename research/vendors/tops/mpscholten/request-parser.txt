@@ -1,0 +1,10 @@
+examples/
+images/
+src/
+tests/
+.gitignore
+LICENSE
+README.md
+circle.yml
+composer.json
+phpunit.xml.dist

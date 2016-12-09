@@ -1,0 +1,10 @@
+Command/
+DependencyInjection/
+Resources/Template/
+Tests/
+.gitignore
+.travis.yml
+EETestsGeneratorBundle.php
+README.md
+composer.json
+phpunit.xml.dist

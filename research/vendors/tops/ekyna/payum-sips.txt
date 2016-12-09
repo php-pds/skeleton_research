@@ -1,0 +1,14 @@
+Action/
+Api/
+Client/
+Exception/
+Request/
+Resources/views/Action/
+Tests/
+.gitattributes
+.gitignore
+LICENSE
+README.md
+SipsGatewayFactory.php
+composer.json
+phpunit.xml.dist

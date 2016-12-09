@@ -1,0 +1,12 @@
+bin/
+config/
+scripts/
+web/
+.gitignore
+LICENSE
+README.md
+VERSION
+composer.json
+docker-compose.yml.letsencrypt.sample
+docker-compose.yml.sample
+service

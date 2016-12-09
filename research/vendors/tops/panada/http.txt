@@ -1,0 +1,8 @@
+Tests/
+.gitignore
+HTTPException.php
+README.md
+Response.php
+Uri.php
+composer.json
+phpunit.xml

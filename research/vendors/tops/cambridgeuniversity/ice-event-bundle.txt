@@ -1,0 +1,6 @@
+spec/Ice/EventBundle/
+src/Ice/EventBundle/
+.gitignore
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,6 @@
+src/CleverAge/Orchestrator/
+tests/units/CleverAge/Orchestrator/
+.atoum.bootstrap.php
+.gitignore
+README.md
+composer.json

@@ -1,0 +1,15 @@
+Adapter/
+Command/
+Component/
+DependencyInjection/
+EventListener/
+Exception/
+Mapping/
+Resources/
+Tests/
+Tools/
+.gitignore
+LICENSE
+PorterStemmerBundle.php
+README.md
+composer.json

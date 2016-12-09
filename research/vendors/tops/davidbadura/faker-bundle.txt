@@ -1,0 +1,10 @@
+DependencyInjection/
+Resources/config/
+Tests/
+.gitignore
+.travis.yml
+DavidBaduraFakerBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

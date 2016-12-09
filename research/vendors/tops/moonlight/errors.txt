@@ -1,0 +1,4 @@
+views/
+README
+composer.json
+errors.class.php

@@ -1,0 +1,8 @@
+doc/
+src/AuthorizeNet/
+.gitignore
+License.pdf
+README
+README.html
+composer.json
+phpunit.xml.dist

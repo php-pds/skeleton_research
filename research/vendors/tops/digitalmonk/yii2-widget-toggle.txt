@@ -1,0 +1,4 @@
+assets/
+views/
+ToggleWidget.php
+composer.json

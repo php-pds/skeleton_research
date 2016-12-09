@@ -1,0 +1,6 @@
+Controller/
+DependencyInjection/
+Installation/
+Resources/
+CPASimUSanteProCompetencyBundle.php
+composer.json

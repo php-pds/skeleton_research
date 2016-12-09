@@ -1,0 +1,11 @@
+gulp/
+spec/
+src/
+tests/
+.gitignore
+README.md
+codeception.yml
+composer.json
+gulpfile.js
+package.json
+phpspec.yml.dist

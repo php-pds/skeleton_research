@@ -1,0 +1,13 @@
+.travis/
+DependencyInjection/
+Doctrine/Id/
+Request/
+Serializer/
+Tests/
+.gitignore
+.travis.yml
+KHerGeUuidBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,5 @@
+Resources/public/
+.gitignore
+BmatznerFontAwesomeBundle.php
+README.md
+composer.json

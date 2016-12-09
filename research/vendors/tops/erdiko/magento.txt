@@ -1,0 +1,4 @@
+src/erdiko/magento/
+LICENSE
+README.md
+composer.json

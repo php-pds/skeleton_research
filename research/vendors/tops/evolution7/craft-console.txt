@@ -1,0 +1,6 @@
+bin/
+consolecommands/
+ConsolePlugin.php
+LICENSE
+README.md
+composer.json

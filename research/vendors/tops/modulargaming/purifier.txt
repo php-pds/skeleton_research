@@ -1,0 +1,6 @@
+classes/
+config/
+views/demo/purifier/
+LICENSE.md
+README.md
+composer.json

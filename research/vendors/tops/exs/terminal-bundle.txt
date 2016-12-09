@@ -1,0 +1,12 @@
+Command/
+DependencyInjection/
+Entity/
+Exception/
+Resources/
+Services/
+bin/
+.gitignore
+EXSTerminalBundle.php
+LICENSE
+README.md
+composer.json

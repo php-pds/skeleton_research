@@ -1,0 +1,7 @@
+Controller/
+DependencyInjection/
+Resources/
+OSSitemapBundle.php
+README.md
+SitemapGenerator.php
+composer.json

@@ -1,0 +1,8 @@
+src/TheFox/Mbdb/
+.editorconfig
+.gitignore
+.travis.yml
+Makefile
+README.md
+composer.json
+mbdbphp.sublime-project

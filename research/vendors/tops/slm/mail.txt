@@ -1,0 +1,12 @@
+config/
+docs/
+src/SlmMail/
+tests/
+.gitignore
+.travis.yml
+CHANGELOG.md
+CONTRIBUTING.md
+LICENSE
+Module.php
+README.md
+composer.json

@@ -1,0 +1,6 @@
+assets/js/
+CHANGE.md
+Chart.php
+ChartAsset.php
+README.md
+composer.json

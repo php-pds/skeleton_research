@@ -1,0 +1,10 @@
+lib/BehatApp/
+storage/
+tests/
+.gitignore
+.travis.yml
+CHANGELOG.txt
+README.md
+composer.json
+composer.lock
+phpunit.xml

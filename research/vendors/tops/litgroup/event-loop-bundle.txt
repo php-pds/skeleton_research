@@ -1,0 +1,12 @@
+DependencyInjection/
+Resources/
+Tests/
+Util/
+.gitignore
+.travis.yml
+CHANGELOG.md
+LitGroupEventLoopBundle.php
+README.md
+apigen.conf
+composer.json
+phpunit.xml.dist

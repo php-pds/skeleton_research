@@ -1,0 +1,15 @@
+i18n/
+tests/
+.gitignore
+.gitreview
+.travis.yml
+COPYING
+README.md
+RELEASE-NOTES.md
+SCQ_CompoundQueryApi.php
+SCQ_QueryProcessor.php
+SCQ_QueryResult.php
+SemanticCompoundQueries.i18n.magic.php
+SemanticCompoundQueries.php
+composer.json
+phpunit.xml.dist

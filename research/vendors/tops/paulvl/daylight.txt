@@ -1,0 +1,8 @@
+config/
+database/migrations/
+files/
+lang/
+src/
+views/emails/
+composer.json
+readme.md

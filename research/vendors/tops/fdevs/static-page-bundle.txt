@@ -1,0 +1,13 @@
+DependencyInjection/
+Form/Type/
+Model/
+Resources/
+Service/
+Sonata/Admin/
+Tests/
+.gitignore
+.travis.yml
+FDevsStaticPageBundle.php
+README.md
+composer.json
+phpunit.xml.dist

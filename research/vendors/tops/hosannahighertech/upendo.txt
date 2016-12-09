@@ -1,0 +1,10 @@
+.studio/
+core/
+exceptions/
+interfaces/
+oauth2/
+serializers/
+utils/
+LICENSE
+Upendo.php
+composer.json

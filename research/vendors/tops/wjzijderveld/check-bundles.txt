@@ -1,0 +1,9 @@
+lib/WillemJan/CheckBundles/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

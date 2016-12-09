@@ -1,0 +1,16 @@
+src/
+tests/
+.gitattributes
+.gitignore
+.scrutinizer.yml
+.styleci.yml
+.travis.yml
+CHANGELOG.md
+CONDUCT.md
+CONTRIBUTING.md
+Gulpfile.js
+LICENSE.md
+README.md
+composer.json
+package.json
+phpunit.xml

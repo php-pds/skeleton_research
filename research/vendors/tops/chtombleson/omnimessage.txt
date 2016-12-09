@@ -1,0 +1,12 @@
+docs/
+examples/
+src/
+tests/
+.gitignore
+.sami-config.php
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+composer.json
+phpunit.xml

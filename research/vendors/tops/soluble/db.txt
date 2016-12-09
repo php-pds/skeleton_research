@@ -1,0 +1,6 @@
+Compat/
+Metadata/
+Sql/
+.scrutinizer.yml
+README.md
+composer.json

@@ -1,0 +1,15 @@
+Behat/Context/
+Controller/
+DependencyInjection/
+Doctrine/
+Model/
+Resources/
+features/
+spec/FSi/Bundle/GalleryBundle/
+.gitignore
+.travis.yml
+FSiGalleryBundle.php
+LICENSE.md
+README.md
+behat.yml
+composer.json

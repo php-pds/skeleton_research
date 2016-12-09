@@ -1,0 +1,5 @@
+Classes/Famelo/Scheduler/
+Configuration/
+Migrations/Mysql/
+Readme.md
+composer.json

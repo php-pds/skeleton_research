@@ -1,0 +1,9 @@
+DependencyInjection/
+Resources/
+eZ/Publish/FieldType/Option/
+.gitignore
+KaliopEzOptionFieldTypeBundle.php
+LICENSE
+README.md
+USAGE.md
+composer.json

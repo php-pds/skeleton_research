@@ -1,0 +1,8 @@
+messages/
+CHANGE.md
+CanvasBlobAsset.php
+FileInput.php
+FileInputAsset.php
+LICENSE.md
+README.md
+composer.json

@@ -1,0 +1,7 @@
+DependencyInjection/
+Doctrine/ORM/Tools/
+Resources/
+.gitignore
+EFoundationBundle.php
+README.md
+composer.json

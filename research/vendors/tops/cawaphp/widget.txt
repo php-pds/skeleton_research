@@ -1,0 +1,7 @@
+assets/
+src/
+.gitignore
+LICENSE.txt
+README.md
+bower.json
+composer.json

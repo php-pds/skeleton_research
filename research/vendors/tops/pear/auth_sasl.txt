@@ -1,0 +1,4 @@
+Auth/
+.gitignore
+composer.json
+package.xml

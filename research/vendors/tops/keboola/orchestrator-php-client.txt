@@ -1,0 +1,12 @@
+src/Keboola/Orchestrator/
+tests/
+vendor/
+.gitignore
+CHANGELOG.md
+LICENSE
+README.md
+bootstrap.php
+build.xml
+composer.json
+composer.lock
+phpunit.xml.dist

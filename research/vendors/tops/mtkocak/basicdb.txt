@@ -1,0 +1,12 @@
+bin/
+build/
+examples/
+src/
+tests/
+.gitignore
+CHANGELOG.md
+INSTALL.md
+LICENSE
+README.md
+build.xml
+composer.json

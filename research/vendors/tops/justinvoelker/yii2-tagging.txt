@@ -1,0 +1,6 @@
+css/
+README.md
+TaggingAsset.php
+TaggingQuery.php
+TaggingWidget.php
+composer.json

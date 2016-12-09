@@ -1,0 +1,10 @@
+cli/
+lib/crodas/Validator/
+tests/
+.gitignore
+.travis.yml
+README.md
+cli.php
+compile.sh
+composer.json
+phpunit.xml

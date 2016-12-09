@@ -1,0 +1,8 @@
+src/
+templates/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock
+october

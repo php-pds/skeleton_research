@@ -1,0 +1,9 @@
+.settings/
+src/
+test/
+.codeclimate.yml
+.gtignore
+.travis.yml
+README.md
+composer.json
+phpunit.xml

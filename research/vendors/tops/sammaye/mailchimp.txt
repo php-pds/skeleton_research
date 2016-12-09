@@ -1,0 +1,5 @@
+exceptions/
+.gitignore
+Chimp.php
+README.md
+composer.json

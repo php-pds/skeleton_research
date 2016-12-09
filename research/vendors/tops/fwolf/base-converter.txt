@@ -1,0 +1,11 @@
+benchmark/
+demo/
+src/BaseConverter/
+tests/BaseConverter/
+.gitignore
+.travis.yml
+CHANGELOG.md
+README.md
+bootstrap.php
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,11 @@
+Test/
+features/
+spec/ServiceLocatorAdapter/
+src/
+.travis.yml
+LICENSE
+README.md
+behat.yml
+build.sh
+composer.json
+phpspec.yml

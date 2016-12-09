@@ -1,0 +1,13 @@
+bin/
+compat/
+src/GeoIp2/
+tests/
+.gitignore
+.gitmodules
+CHANGELOG.md
+LICENSE
+README.md
+box.json
+composer.json
+phar-stub.php
+phpunit.xml.dist

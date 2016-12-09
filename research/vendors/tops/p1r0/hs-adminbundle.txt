@@ -1,0 +1,9 @@
+Controller/
+DependencyInjection/
+Event/
+Menu/
+Resources/
+Tests/Controller/
+.gitignore
+AdminBundle.php
+composer.json

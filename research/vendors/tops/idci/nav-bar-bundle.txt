@@ -1,0 +1,9 @@
+Controller/
+DependencyInjection/
+Generator/
+Resources/
+.gitignore
+IDCINavBarBundle.php
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,10 @@
+apache/
+internal/
+public/
+ssl/
+.gitattributes
+.gitignore
+LICENSE
+README.md
+composer.json
+wp-cli.yml

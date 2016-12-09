@@ -1,0 +1,7 @@
+.gitignore
+LICENSE.md
+MultiSelect.php
+MultiSelectAsset.php
+MultiSelectCollapsibleOptGroupsAsset.php
+README.md
+composer.json

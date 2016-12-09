@@ -1,0 +1,7 @@
+assets/
+LICENSE
+README.md
+assets.php
+composer.json
+yii2toolbarbutton.php
+yii2toolbarbuttonAsset.php

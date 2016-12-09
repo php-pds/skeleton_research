@@ -1,0 +1,7 @@
+Command/
+DependencyInjection/
+Format/Video/
+Provider/
+Resources/
+SergeymVidequeBundle.php
+composer.json

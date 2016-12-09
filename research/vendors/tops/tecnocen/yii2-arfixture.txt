@@ -1,0 +1,9 @@
+loggers/
+tests/
+.gitignore
+.travis.yml
+ARFixture.php
+LICENSE.md
+README.md
+composer.json
+phpunit.xml.dist

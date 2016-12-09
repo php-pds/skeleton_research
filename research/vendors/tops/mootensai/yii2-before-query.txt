@@ -1,0 +1,5 @@
+base/
+traits/
+.gitignore
+README.md
+composer.json

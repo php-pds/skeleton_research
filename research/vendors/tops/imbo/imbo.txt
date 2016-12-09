@@ -1,0 +1,17 @@
+bin/
+config/
+docs/
+public/
+setup/
+src/
+tests/
+.editorconfig
+.gitignore
+.travis.yml
+CONTRIBUTING.md
+ChangeLog.markdown
+LICENSE
+README.markdown
+composer.json
+composer.lock
+phpmd.xml

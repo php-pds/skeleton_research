@@ -1,0 +1,11 @@
+backgrounds/
+fonts/
+languages/
+views/default/
+CHANGES.txt
+LICENCE.txt
+README.md
+captcha.php
+composer.json
+manifest.xml
+start.php

@@ -1,0 +1,4 @@
+Classes/MapSeven/Gallery/
+Configuration/
+Resources/
+composer.json

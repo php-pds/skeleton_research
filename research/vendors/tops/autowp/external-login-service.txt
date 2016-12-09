@@ -1,0 +1,11 @@
+.settings/
+src/
+test/
+.gtignore
+.project
+.travis.yml
+LICENSE.md
+README.md
+composer.json
+config.dist.ini
+phpunit.xml

@@ -1,0 +1,11 @@
+Classes/RFY/JsonApi/Users/
+Configuration/
+Documentation/
+Tests/
+.codeclimate.yml
+.travis.yml
+FunctionalTests.xml
+LICENSE.md
+README.md
+UnitTests.xml
+composer.json

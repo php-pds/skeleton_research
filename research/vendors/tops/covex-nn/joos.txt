@@ -1,0 +1,17 @@
+ant-scripts/composer/
+src/JooS/
+tests/
+.gitattributes
+.gitignore
+.travis.yml
+LICENSE.txt
+README.md
+build-dev.xml
+build.properties
+build.xml
+composer.json
+phpackage.xml
+phpcs.xml
+phpdox.xml
+phpmd.xml
+phpunit.xml

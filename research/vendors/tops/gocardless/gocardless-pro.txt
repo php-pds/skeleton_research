@@ -1,0 +1,11 @@
+lib/
+tests/
+LICENSE.txt
+Makefile
+README.md
+cacert.pem
+circle.yml
+composer.json
+composer.lock
+phpcs-ruleset.xml
+phpunit.xml

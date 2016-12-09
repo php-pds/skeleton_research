@@ -1,0 +1,14 @@
+funcs/
+lib/
+tests/
+.coveralls.yml
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENCE
+README.md
+apigen.neon
+composer.json
+gulpfile.js
+package.json
+phpunit.xml.dist

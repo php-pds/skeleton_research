@@ -1,0 +1,5 @@
+lang/
+lib/sly/
+.htaccess
+boot.php
+composer.json

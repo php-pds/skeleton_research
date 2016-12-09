@@ -1,0 +1,8 @@
+install/ontology/
+locales/en-US/
+scripts/update/
+test/
+LICENSE
+README.md
+composer.json
+manifest.php

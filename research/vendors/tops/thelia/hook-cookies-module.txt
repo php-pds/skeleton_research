@@ -1,0 +1,8 @@
+Config/
+Hook/
+I18n/frontOffice/default/
+templates/frontOffice/default/
+HookCookies.php
+LICENSE.txt
+README.md
+composer.json

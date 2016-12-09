@@ -1,0 +1,17 @@
+.tx/
+code/
+docs/
+images/
+lang/
+tests/
+.editorconfig
+.gitattributes
+.gitignore
+.scrutinizer.yml
+.travis.yml
+README.md
+_config.php
+changelog.md
+code-of-conduct.md
+composer.json
+license.md

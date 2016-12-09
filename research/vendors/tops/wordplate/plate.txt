@@ -1,0 +1,11 @@
+src/
+.editorconfig
+.gitattributes
+.gitignore
+.styleci.yml
+CHANGELOG.md
+CONTRIBUTING.md
+LICENSE
+README.md
+composer.json
+plate.php

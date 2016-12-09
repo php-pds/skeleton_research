@@ -1,0 +1,9 @@
+Exceptions/
+Manager/
+Tests/Unit/
+.gitignore
+LICENSE
+LightifyApi.php
+README.md
+composer.json
+composer.lock

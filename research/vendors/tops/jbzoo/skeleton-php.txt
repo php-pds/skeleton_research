@@ -1,0 +1,15 @@
+src/
+tests/
+.codeclimate.yml
+.coveralls.yml
+.editorconfig
+.gitattributes
+.gitignore
+.travis.yml
+LICENSE
+Makefile
+README.dist.md
+README.md
+composer.json
+new-project.php
+phpunit.xml.dist

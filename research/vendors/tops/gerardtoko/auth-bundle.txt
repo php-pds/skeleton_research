@@ -1,0 +1,10 @@
+Controller/
+DependencyInjection/
+Resources/
+Tests/Controller/
+.gitignore
+.travis.yml
+GTAuthBundle.php
+README.md
+composer.json
+phpunit.xml.dist

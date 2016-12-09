@@ -1,0 +1,17 @@
+src/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+_ss_environment.php
+behat-sauceconnect.tmpl.yml
+behat.tmpl.yml
+composer.json
+lib.php
+travis_setup.php
+travis_setup_apache.php
+travis_setup_php54_webserver.php
+travis_setup_sauceconnect.php
+travis_setup_selenium.php
+travis_upload_artifacts.php

@@ -1,0 +1,7 @@
+Commands/
+Tests/
+.gitignore
+ComposerRegisterBundlePlugin.php
+Readme.md
+composer.json
+phpunit.xml

@@ -1,0 +1,17 @@
+Api/Data/
+Block/
+Controller/
+Helper/
+Model/
+Observer/
+Setup/
+etc/
+view/
+.gitignore
+LICENSE.txt
+LICENSE_AFL.txt
+README.md
+composer.json
+composer.lock
+registration.php
+ruleset.xml

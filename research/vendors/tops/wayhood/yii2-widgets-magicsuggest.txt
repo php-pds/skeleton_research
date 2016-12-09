@@ -1,0 +1,5 @@
+assets/
+MagicSuggest.php
+MagicSuggestAsset.php
+README.md
+composer.json

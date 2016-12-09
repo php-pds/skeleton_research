@@ -1,0 +1,9 @@
+DependencyInjection/
+Report/
+Resources/
+Tests/Controller/
+.gitignore
+README.md
+composer.json
+composer.lock
+l3JasperBundle.php

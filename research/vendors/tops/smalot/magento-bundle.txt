@@ -1,0 +1,13 @@
+Adapter/
+DataCollector/
+DependencyInjection/
+Event/
+Logger/
+Resources/
+.gitignore
+LICENSE
+MagentoBundle.php
+MagentoEvents.php
+MagentoException.php
+README.md
+composer.json

@@ -1,0 +1,10 @@
+Classes/Flowpack/Expose/
+Configuration/
+Documentation/
+Resources/
+Tests/Functional/
+.gitignore
+.gitmodules
+.scrutinizer.yml
+README.md
+composer.json

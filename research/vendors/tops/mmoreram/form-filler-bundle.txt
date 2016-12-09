@@ -1,0 +1,11 @@
+Collector/
+DependencyInjection/
+Resources/
+.gitignore
+.travis.yml
+FormFillerBundle.php
+LICENSE
+README.md
+composer.json
+humans.txt
+phpunit.xml.dist

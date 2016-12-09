@@ -1,0 +1,16 @@
+config/
+event/
+language/
+styles/all/
+tests/event/
+travis/
+.gitattributes
+.gitignore
+.travis.yml
+README.md
+build.xml
+composer.json
+composer.lock
+ext.php
+license.txt
+phpunit.xml.dist

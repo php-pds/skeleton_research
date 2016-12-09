@@ -1,0 +1,10 @@
+DependencyInjection/
+Resources/config/
+Storage/
+.gitattributes
+.gitignore
+FlyingStructBundle.php
+LICENSE
+README.md
+composer.json
+composer.lock

@@ -1,0 +1,6 @@
+src/Soy/DoctrineMigrations/
+.gitignore
+LICENSE
+README.md
+composer.json
+recipe.php

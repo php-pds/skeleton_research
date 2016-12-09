@@ -1,0 +1,15 @@
+bin/
+scripts/
+src/
+test/Tests/
+.gitignore
+API
+COPYING-MIT.txt
+CREDITS
+README.md
+README.pear
+RELEASE
+build.xml
+composer.json
+config.doxy
+project.properties

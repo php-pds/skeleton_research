@@ -1,0 +1,4 @@
+Classes/PerfectIn/Api/
+Configuration/
+README.md
+composer.json

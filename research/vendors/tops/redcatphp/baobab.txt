@@ -1,0 +1,7 @@
+artist/
+controller/
+model/
+route/
+templix/
+.gitignore
+composer.json

@@ -1,0 +1,5 @@
+src/Phpforce/RestClient/
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

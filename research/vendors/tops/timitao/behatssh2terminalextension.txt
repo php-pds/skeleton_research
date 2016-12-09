@@ -1,0 +1,9 @@
+features/
+src/Behat/SSH2TerminalExtension/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+behat.yml.dist
+composer.json
+composer.lock

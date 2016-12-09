@@ -1,0 +1,16 @@
+db/migrations/
+development/
+lib/Auth/Source/
+www/
+.gitignore
+LICENSE
+Makefile
+README.md
+Vagrantfile
+common.env
+composer.json
+composer.lock
+default-enable
+docker-compose.yml
+local.env.dist
+phinx.yml

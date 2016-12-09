@@ -1,0 +1,8 @@
+models/
+views/
+CHANGE.MD
+CoreAsset.php
+LICENSE.md
+README.md
+SliderPro.php
+composer.json

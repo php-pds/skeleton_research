@@ -1,0 +1,17 @@
+assets/
+demo/
+locales/
+src/
+templates/
+.gitattributes
+.gitignore
+README.md
+RoboFile.php
+bower.json
+composer.json
+composer.lock
+edit-screenshoot.png
+gulpfile.js
+list-screenshoot.png
+package.json
+stylecow.json

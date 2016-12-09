@@ -1,0 +1,9 @@
+Controller/
+DependencyInjection/
+Resources/
+Tests/
+.gitignore
+.php_cs
+GlossaryBundle.php
+LICENSE.md
+composer.json

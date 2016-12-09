@@ -1,0 +1,8 @@
+config/
+src/Zf2SimpleAcl/
+view/error/
+.gitignore
+LICENSE
+Module.php
+README.md
+composer.json

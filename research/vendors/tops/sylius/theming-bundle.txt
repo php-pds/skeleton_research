@@ -1,0 +1,17 @@
+Cache/
+Controller/
+DependencyInjection/
+Entity/
+EventDispatcher/
+Manipulator/
+Model/
+Packager/
+Resolver/
+Resources/
+Tests/
+.gitignore
+.travis.yml
+README.md
+SyliusThemingBundle.php
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,16 @@
+Controller/
+DependencyInjection/
+Event/
+Form/
+Listener/
+Resources/
+Service/
+Twig/
+.coveralls.yml
+.travis.yml
+Events.php
+LICENSE
+README.md
+YuccaInSituUpdaterBundle.php
+composer.json
+phpunit.xml.dist

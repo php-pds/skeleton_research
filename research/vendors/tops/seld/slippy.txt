@@ -1,0 +1,5 @@
+bin/
+src/
+.gitignore
+README.mdown
+composer.json

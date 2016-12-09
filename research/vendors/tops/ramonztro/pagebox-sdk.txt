@@ -1,0 +1,11 @@
+css/
+fonts/
+img/
+js/
+php/
+.htaccess
+CHANGELOG.md
+composer.json
+config.php
+functions.php
+index.php

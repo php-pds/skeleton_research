@@ -1,0 +1,6 @@
+lib/
+.php_cs
+.php_cs_header
+LICENSE.md
+README.md
+composer.json

@@ -1,0 +1,15 @@
+admin/
+includes/
+languages/
+public/
+tests/
+.gitignore
+.travis.yml
+LICENSE.txt
+README.md
+README.txt
+composer.json
+index.php
+phpunit.xml
+simple-google-news-sitemap.php
+uninstall.php

@@ -1,0 +1,4 @@
+lib/Dehare/Doctrine/
+.gitignore
+README.md
+composer.json

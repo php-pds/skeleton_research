@@ -1,0 +1,13 @@
+build/
+src/
+tests/
+.coveralls.yml
+.gitignore
+.travis.yml
+CONTRIBUTING.md
+LICENSE
+README.md
+Vagrantfile
+codeception.yml
+composer.json
+composer.lock

@@ -1,0 +1,4 @@
+src/Atomita/Composer/Plugin/Wordpress/
+LICENSE
+README.md
+composer.json

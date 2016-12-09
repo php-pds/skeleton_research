@@ -1,0 +1,8 @@
+src/Laiz/Func/
+test/src/Laiz/Test/Func/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml

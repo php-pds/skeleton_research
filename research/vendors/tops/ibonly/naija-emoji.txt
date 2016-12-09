@@ -1,0 +1,14 @@
+api/
+test/
+.env
+.gitignore
+.htaccess
+.travis.yml
+CONTRIBUTING.md
+LICENCE
+README.md
+app.json
+composer.json
+composer.lock
+index.php
+phpunit.xml.dist

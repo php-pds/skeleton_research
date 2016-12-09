@@ -1,0 +1,6 @@
+config/
+src/V1/Hydrator/
+.gitignore
+Module.php
+README.md
+composer.json

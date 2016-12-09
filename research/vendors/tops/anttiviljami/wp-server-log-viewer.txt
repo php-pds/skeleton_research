@@ -1,0 +1,11 @@
+assets/
+dist/
+lib/
+.gitignore
+LICENSE
+composer.json
+gulpfile.js
+package.json
+readme.md
+readme.txt
+wp-server-log-viewer.php

@@ -1,0 +1,8 @@
+config/
+database/migrations/
+resources/
+src/MultiAuth/
+.gitignore
+LICENSE
+README.md
+composer.json

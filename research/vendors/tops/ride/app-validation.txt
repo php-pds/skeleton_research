@@ -1,0 +1,7 @@
+config/
+manual/Library/
+src/ride/application/validation/
+.gitignore
+README.md
+composer.json
+ride.json

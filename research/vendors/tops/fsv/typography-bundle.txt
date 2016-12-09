@@ -1,0 +1,13 @@
+DependencyInjection/
+Form/
+Resources/config/
+Tests/
+Typographer/
+vendor/emuravjev/mdash/
+.gitignore
+.travis.yml
+FsvTypographyBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

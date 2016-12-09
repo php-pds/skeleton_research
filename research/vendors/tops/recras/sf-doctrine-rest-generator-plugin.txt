@@ -1,0 +1,7 @@
+data/generator/sfDoctrineRestGenerator/default/
+lib/
+LICENSE
+README
+README.markdown
+composer.json
+package.xml

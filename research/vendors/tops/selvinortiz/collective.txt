@@ -1,0 +1,11 @@
+spec/
+src/SelvinOrtiz/Collective/
+.gitignore
+.travis.yml
+Collective.png
+LICENSE.txt
+README.md
+composer.json
+composer.lock
+phpunit.xml
+spec.sh

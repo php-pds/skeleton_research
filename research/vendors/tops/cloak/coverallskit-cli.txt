@@ -1,0 +1,15 @@
+bin/
+config/
+spec/
+src/
+template/
+.cli-coveralls.toml
+.cloak.toml
+.editorconfig
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+composer.json
+peridot.php

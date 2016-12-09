@@ -1,0 +1,14 @@
+build/phpcs/
+src/
+tests/
+.gitignore
+.gitmodules
+.scrutinizer.yml
+.travis.yml
+build.xml
+composer.json
+composer.lock
+license.txt
+phpunit.travis.xml
+phpunit.xml.dist
+readme.md

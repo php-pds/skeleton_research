@@ -1,0 +1,11 @@
+actions/
+changedev-commands/
+config/
+i18n/
+lib/
+persistentdocument/
+setup/
+style/
+templates/
+LICENSE.txt
+change.xml

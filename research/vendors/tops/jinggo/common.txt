@@ -1,0 +1,6 @@
+src/Jinggo/Common/
+tests/
+.gitignore
+.travis.yml
+composer.json
+phpunit.xml

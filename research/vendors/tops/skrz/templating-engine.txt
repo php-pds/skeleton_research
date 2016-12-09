@@ -1,0 +1,7 @@
+src/Skrz/Templating/Engine/
+test/Skrz/Templating/Engine/
+.gitignore
+LICENSE
+README.md
+composer.json
+phpunit.xml

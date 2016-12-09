@@ -1,0 +1,13 @@
+Resources/rules/
+bin/
+src/
+tests/
+.appveyor.yml
+.editorconfig
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

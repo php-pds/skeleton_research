@@ -1,0 +1,7 @@
+includes/
+templates/admin/
+LICENSE
+README.md
+composer.json
+readme.txt
+staticwp.php

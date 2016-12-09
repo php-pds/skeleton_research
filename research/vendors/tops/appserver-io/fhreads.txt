@@ -1,0 +1,8 @@
+examples/
+src/AppserverIo/Fhreads/
+tests/AppserverIo/Psr/Concurrency/
+.gitignore
+CHANGELOG.md
+README.md
+composer.json
+phpunit.xml

@@ -1,0 +1,8 @@
+assets/
+views/
+.gitignore
+LICENSE
+ModalLoader.php
+ModalLoaderAsset.php
+README.md
+composer.json

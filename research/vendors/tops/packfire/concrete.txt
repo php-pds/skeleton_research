@@ -1,0 +1,12 @@
+bin/
+res/
+src/Concrete/
+test/
+.gitignore
+.travis.yml
+CONTRIBUTORS
+composer.json
+composer.lock
+concrete.json
+license
+readme.md

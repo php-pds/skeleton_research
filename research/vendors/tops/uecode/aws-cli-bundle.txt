@@ -1,0 +1,8 @@
+Aws/
+Command/Aws/
+DependencyInjection/
+.gitignore
+LICENSE
+README.md
+UecodeAwsCliBundle.php
+composer.json

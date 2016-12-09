@@ -1,0 +1,13 @@
+assets/
+resources/
+src/
+.editorconfig
+.gitignore
+CHANGELOG.md
+README.md
+bower.json
+composer.json
+composer.lock
+gulpfile.js
+package.json
+schedule-builder.php

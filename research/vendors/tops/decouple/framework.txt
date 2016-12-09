@@ -1,0 +1,11 @@
+app/
+public/
+src/Debug/
+test/
+.gitignore
+.hhconfig
+LICENSE
+README.md
+composer.json
+composer.lock
+decouple.hh

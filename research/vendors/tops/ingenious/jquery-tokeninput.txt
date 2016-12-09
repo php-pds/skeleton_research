@@ -1,0 +1,13 @@
+build/
+examples/
+src/
+styles/
+.gitignore
+ChangeLog.md
+Gruntfile.js
+README.md
+bower.json
+component.json
+composer.json
+demo.html
+package.json

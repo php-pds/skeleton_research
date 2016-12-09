@@ -1,0 +1,5 @@
+.idea/
+.gitignore
+.travis.yml
+composer.json
+travis-ci.enc

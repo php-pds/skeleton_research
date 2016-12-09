@@ -1,0 +1,8 @@
+doc/
+examples/
+manual/
+src/Cloud/
+COPYING
+README.md
+VERSION.md
+composer.json

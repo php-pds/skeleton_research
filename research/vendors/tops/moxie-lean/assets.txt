@@ -1,0 +1,8 @@
+src/
+.editorconfig
+.gitignore
+README.md
+codesniffer.ruleset.xml
+composer.json
+composer.lock
+licence.txt

@@ -1,0 +1,13 @@
+Command/
+Controller/Backend/
+DataFixtures/ORM/
+DependencyInjection/
+Entity/
+Extensions/
+Form/
+Lib/
+Listener/
+Resources/
+README.md
+UnifikMediaBundle.php
+composer.json

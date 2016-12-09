@@ -1,0 +1,10 @@
+src/Dont/
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+composer.json
+humbug.json.dist
+phpunit.xml.dist

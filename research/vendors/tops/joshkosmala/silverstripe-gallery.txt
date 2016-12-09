@@ -1,0 +1,10 @@
+code/
+css/
+javascript/
+shadowbox/
+templates/Layout/
+.gitignore
+LICENSE
+README.md
+_config.php
+composer.json

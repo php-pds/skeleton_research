@@ -1,0 +1,9 @@
+_templates/
+bin/
+.bowerrc
+.genry.yml
+.gitignore
+README.md
+bower.json
+composer.json
+composer.lock

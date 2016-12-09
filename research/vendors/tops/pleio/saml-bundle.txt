@@ -1,0 +1,15 @@
+Bridge/
+Config/
+Controller/
+DependencyInjection/
+Entity/
+Error/
+RelyingParty/
+Resources/
+Security/
+State/
+Tests/
+PleioSamlBundle.php
+README.md
+composer.json
+phpunit.xml.dist

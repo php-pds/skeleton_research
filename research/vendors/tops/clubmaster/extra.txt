@@ -1,0 +1,9 @@
+DependencyInjection/
+Helper/
+Resources/
+Twig/
+.gitignore
+CHANGELOG
+ClubExtraBundle.php
+README.md
+composer.json

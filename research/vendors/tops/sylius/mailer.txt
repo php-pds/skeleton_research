@@ -1,0 +1,14 @@
+Event/
+Factory/
+Model/
+Provider/
+Renderer/
+Sender/
+spec/
+.gitignore
+CHANGELOG.md
+LICENSE
+README.md
+SyliusMailerEvents.php
+composer.json
+phpspec.yml.dist

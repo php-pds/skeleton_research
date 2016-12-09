@@ -1,0 +1,12 @@
+DependencyInjection/
+Plugins/
+Resources/config/
+Task/
+Tests/
+.gitignore
+.travis.yml
+As3PostProcessBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml

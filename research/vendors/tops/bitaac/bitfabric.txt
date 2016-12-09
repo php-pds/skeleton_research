@@ -1,0 +1,16 @@
+Account/
+Admin/
+Community/
+Contracts/
+Core/
+Death/Models/
+Forum/
+Guild/
+Highscore/
+Libraries/
+Player/
+Store/
+Traits/
+.gitignore
+README.md
+composer.json

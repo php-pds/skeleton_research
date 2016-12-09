@@ -1,0 +1,7 @@
+Model/
+Templates/
+bin/
+BaseEmail.php
+EmailBundle.php
+EmailTemplateCRUDHandler.php
+composer.json

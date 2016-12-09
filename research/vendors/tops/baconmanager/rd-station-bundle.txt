@@ -1,0 +1,8 @@
+DependencyInjection/
+Resources/config/
+Service/
+.gitignore
+BaconRDStationBundle.php
+LICENSE
+README.md
+composer.json

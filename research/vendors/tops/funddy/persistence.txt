@@ -1,0 +1,5 @@
+Doctrine/
+Tests/Doctrine/
+.gitignore
+README.md
+composer.json

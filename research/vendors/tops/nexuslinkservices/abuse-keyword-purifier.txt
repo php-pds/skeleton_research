@@ -1,0 +1,9 @@
+Resources/config/
+Tests/
+src/
+.gitignore
+LICENSE
+README.md
+composer.json
+phpunit.phar
+phpunit.xml

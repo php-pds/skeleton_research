@@ -1,0 +1,4 @@
+views/
+Feedreader.php
+README.md
+composer.json

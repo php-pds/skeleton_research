@@ -1,0 +1,6 @@
+Crypt/
+Database/
+Form/
+Navigation/
+Session/
+composer.json

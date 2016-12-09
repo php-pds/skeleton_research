@@ -1,0 +1,8 @@
+module/
+src/Netzmacht/Contao/WorkflowNotification/
+.gitignore
+.travis.yml
+README.md
+build.properties
+build.xml
+composer.json

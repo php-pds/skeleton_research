@@ -1,0 +1,11 @@
+Constraints/
+DependencyInjection/
+Resources/config/
+Tests/
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+ToaValidatorBundle.php
+composer.json
+phpunit.xml.dist

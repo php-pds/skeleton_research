@@ -1,0 +1,13 @@
+docs/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+Makefile
+README.md
+composer.json
+lessc.inc.php
+lessify
+lessify.inc.php
+package.sh
+plessc

@@ -1,0 +1,10 @@
+.bin/
+src/
+.gitattributes
+.gitignore
+.version
+README.md
+composer.json
+composer.lock
+index.php
+routes.php

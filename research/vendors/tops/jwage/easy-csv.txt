@@ -1,0 +1,8 @@
+lib/EasyCSV/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.markdown
+composer.json
+phpunit.xml.dist

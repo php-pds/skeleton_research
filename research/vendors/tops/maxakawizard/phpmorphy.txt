@@ -1,0 +1,13 @@
+bin/
+dicts/utf-8/
+examples/
+src/
+tests/
+.coveralls.yml
+.gitignore
+.travis.yml
+CHANGES
+COPYING
+README.md
+composer.json
+phpunit.xml.dist

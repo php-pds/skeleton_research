@@ -1,0 +1,5 @@
+spec/
+src/Infotech/Excel2007DocumentGenerator/
+.gitignore
+LICENSE
+composer.json

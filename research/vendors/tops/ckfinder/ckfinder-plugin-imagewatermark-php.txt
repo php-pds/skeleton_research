@@ -1,0 +1,4 @@
+src/ImageWatermark/
+LICENSE.md
+README.md
+composer.json

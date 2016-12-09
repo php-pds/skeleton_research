@@ -1,0 +1,9 @@
+config/
+src/JVPagSeguro/
+view/
+.gitattributes
+.gitignore
+LICENSE
+Module.php
+README.md
+composer.json

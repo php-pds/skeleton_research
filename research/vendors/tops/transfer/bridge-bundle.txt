@@ -1,0 +1,12 @@
+DataCollector/
+DependencyInjection/
+EventListener/
+Resources/
+.gitignore
+.travis.yml
+BridgeBundle.php
+CONTRIBUTORS.md
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,7 @@
+Exception/
+doc/
+.gitignore
+LICENSE
+OnPath.php
+README.md
+composer.json

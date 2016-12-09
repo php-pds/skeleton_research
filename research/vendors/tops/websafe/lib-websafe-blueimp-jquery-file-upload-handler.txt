@@ -1,0 +1,7 @@
+library/Websafe/Blueimp/
+scripts/build/
+.gitignore
+LICENSE.txt
+README.md
+autoload_classmap.php
+composer.json

@@ -1,0 +1,14 @@
+Config/
+Database/
+Entities/
+Http/
+Mailer/
+Polices/Learning/
+Providers/
+Repositories/
+Resources/lang/
+LICENSE
+README.md
+composer.json
+module.json
+start.php

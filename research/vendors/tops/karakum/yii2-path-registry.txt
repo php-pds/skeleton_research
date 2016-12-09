@@ -1,0 +1,8 @@
+migrations/
+.gitignore
+CHANGE.md
+LICENSE
+PathManager.php
+PathOrganizer.php
+README.md
+composer.json

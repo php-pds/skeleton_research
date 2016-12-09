@@ -1,0 +1,9 @@
+.gitignore
+Diff.php
+HTMLDiff.php
+Nodes.php
+README
+Sanitizer.php
+Xml.php
+composer.json
+html_diff.php

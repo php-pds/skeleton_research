@@ -1,0 +1,9 @@
+Annotation/
+Command/
+DependencyInjection/
+Doctrine/
+Resources/config/
+Tests/Doctrine/
+QimnetSolrClientBundle.php
+README.md
+composer.json

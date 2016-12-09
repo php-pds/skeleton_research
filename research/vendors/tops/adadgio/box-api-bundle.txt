@@ -1,0 +1,10 @@
+Command/
+Component/
+Controller/
+DependencyInjection/
+Event/
+Resources/config/
+.gitignore
+AdadgioBoxApiBundle.php
+README.md
+composer.json

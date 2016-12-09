@@ -1,0 +1,6 @@
+src/
+.travis.yml
+README.md
+TODO.md
+composer.json
+phpunit.xml

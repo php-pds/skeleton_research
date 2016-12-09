@@ -1,0 +1,5 @@
+src/Fork/
+tests/
+LICENSE
+README.md
+composer.json

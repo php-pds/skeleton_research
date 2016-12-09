@@ -1,0 +1,13 @@
+demo/
+lib/
+locale/
+res/
+tests/Translator/
+.gitignore
+.travis.yml
+CHANGELOG.md
+README.md
+bootstrap.php
+composer.json
+composer.lock
+phpunit.xml.dist

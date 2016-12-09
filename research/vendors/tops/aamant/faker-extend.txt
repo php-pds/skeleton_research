@@ -1,0 +1,6 @@
+src/Aamant/FakerExtend/Provider/
+tests/
+.gitignore
+.travis.yml
+composer.json
+phpunit.xml

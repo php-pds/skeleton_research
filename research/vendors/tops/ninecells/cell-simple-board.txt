@@ -1,0 +1,9 @@
+Console/
+Http/
+Models/
+Policies/
+database/migrations/
+resources/views/sboard/pages/
+.gitignore
+SimpleBoardServiceProvider.php
+composer.json

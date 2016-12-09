@@ -1,0 +1,13 @@
+.idea/
+app/
+src/
+web/
+.DS_Store
+.gitignore
+.travis.yml
+LICENSE
+README.md
+UPGRADE-2.2.md
+UPGRADE.md
+composer.json
+composer.lock

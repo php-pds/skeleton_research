@@ -1,0 +1,15 @@
+example/
+images/
+src/
+tests/
+vendor/
+.gitignore
+CHANGELOG.txt
+GPL-LICENSE.txt
+MIT-LICENSE.txt
+README.md
+build.xml
+composer.json
+index.html
+test.html
+treetable.jquery.json

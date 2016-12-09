@@ -1,0 +1,5 @@
+.gitignore
+Mailchimp.php
+README.md
+ca-bundle.crt
+composer.json

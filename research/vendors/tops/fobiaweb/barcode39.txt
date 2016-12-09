@@ -1,0 +1,4 @@
+doc/
+Barcode39.php
+README.md
+composer.json

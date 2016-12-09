@@ -1,0 +1,9 @@
+controllers/
+models/
+services/
+templates/
+.gitignore
+CustomlogviewerPlugin.php
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,11 @@
+DependencyInjection/
+Mailjet/
+Model/
+Resources/
+Tests/Controller/
+.gitignore
+LICENSE
+MailjetBundle.php
+README.md
+composer.json
+composer.json~

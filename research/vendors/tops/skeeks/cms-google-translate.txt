@@ -1,0 +1,14 @@
+_ide/
+assets/
+config/
+controllers/
+messages/ru/
+migrations/
+models/
+views/admin-item/
+CHANGELOG.md
+GoogleTranslateComponent.php
+GoogleTranslateModule.php
+LICENSE
+README.md
+composer.json

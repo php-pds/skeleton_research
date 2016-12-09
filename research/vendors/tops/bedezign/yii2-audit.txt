@@ -1,0 +1,17 @@
+src/
+tests/
+.gitattributes
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CHANGELOG.md
+CONTRIBUTING.md
+CREDITS.md
+LICENSE.md
+Procfile
+README.md
+composer-ci.json
+composer-ci.lock
+composer.json
+composer.lock
+heroku.md

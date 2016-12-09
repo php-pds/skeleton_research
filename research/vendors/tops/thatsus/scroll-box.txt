@@ -1,0 +1,11 @@
+demos/
+.gitignore
+.travis.yml
+Gruntfile.js
+LICENSE
+README.md
+composer.json
+jquery-scrollbox.jquery.json
+jquery.scrollbox.js
+jquery.scrollbox.min.js
+package.json

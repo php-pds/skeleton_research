@@ -1,0 +1,3 @@
+src/DIPcom/Localization/
+README.md
+composer.json

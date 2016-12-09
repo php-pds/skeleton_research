@@ -1,0 +1,8 @@
+tests/
+.infra.json
+.test.js
+README.md
+bower.json
+composer.json
+flexslider.js
+infra.js

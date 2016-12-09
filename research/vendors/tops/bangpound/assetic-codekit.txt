@@ -1,0 +1,3 @@
+CodekitCoffeeScriptFilter.php
+README.md
+composer.json

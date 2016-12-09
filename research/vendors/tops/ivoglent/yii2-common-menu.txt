@@ -1,0 +1,8 @@
+controllers/
+views/manage/
+AutoloadExample.php
+BootstrapCommonMenu.php
+BootstrapCommonMenuModuleInterface.php
+CMenuWidget.php
+README.md
+composer.json

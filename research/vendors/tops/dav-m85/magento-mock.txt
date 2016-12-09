@@ -1,0 +1,4 @@
+Mage.php
+MageMockInterface.php
+README.md
+composer.json

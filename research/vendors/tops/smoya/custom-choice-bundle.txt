@@ -1,0 +1,11 @@
+DependencyInjection/
+Entity/
+Form/
+Resources/config/
+Tests/
+vendor/
+.travis.yml
+README.md
+SmoyaCustomChoiceBundle.php
+composer.json
+phpunit.xml.dist

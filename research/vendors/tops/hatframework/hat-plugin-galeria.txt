@@ -1,0 +1,9 @@
+Config/
+album/classes/
+foto/
+index/
+tests/
+.gitattributes
+.gitignore
+autoload.php
+composer.json

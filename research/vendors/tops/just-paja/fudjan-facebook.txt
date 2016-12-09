@@ -1,0 +1,4 @@
+etc/
+lib/
+.gitignore
+composer.json

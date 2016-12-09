@@ -1,0 +1,11 @@
+data/
+docs/
+src/
+tests/
+.travis.yml
+AUTHORS
+LICENSE
+README
+bootstrap.php
+composer.json
+phpunit.xml

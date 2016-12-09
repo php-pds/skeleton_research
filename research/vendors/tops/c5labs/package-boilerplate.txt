@@ -1,0 +1,15 @@
+assets/
+blocks/
+controllers/
+languages/
+single_pages/
+src/
+themes/
+.gitignore
+.php_cs
+CHANGELOG
+LICENSE
+README.md
+composer.json
+controller.php
+icon.png

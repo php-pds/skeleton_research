@@ -1,0 +1,14 @@
+sample/
+src/
+tests/
+.editorconfig
+.gitattributes
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+NOTICE
+README.md
+composer.json
+docker-compose.yml
+phpunit.xml

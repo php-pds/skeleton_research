@@ -1,0 +1,5 @@
+contao-module/
+src/bbit/contao/mm/vjs/
+.gitignore
+README.md
+composer.json

@@ -1,0 +1,17 @@
+tests/
+views/
+.gitattributes
+.gitignore
+.travis.yml
+CHANGELOG.md
+Git.php
+LICENSE.md
+Mercurial.php
+README.md
+SelfUpdateController.php
+Shell.php
+ShellResult.php
+VersionControlSystem.php
+VersionControlSystemInterface.php
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,6 @@
+.gitignore
+LICENSE
+README.md
+Redmine.php
+composer.json
+messages.yml

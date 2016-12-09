@@ -1,0 +1,9 @@
+DependencyInjection/
+Tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+XabbuhDIConfigurationBundle.php
+composer.json
+phpunit.xml.dist

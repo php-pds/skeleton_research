@@ -1,0 +1,4 @@
+Support/
+ModuleProvider.php
+Themes.php
+composer.json

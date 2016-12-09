@@ -1,0 +1,10 @@
+docs/
+src/
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+README.md
+composer.json
+inventory-banner.jpg
+phpunit.xml

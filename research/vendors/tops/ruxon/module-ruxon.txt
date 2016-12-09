@@ -1,0 +1,8 @@
+assets/
+classes/
+commands/
+components/
+LICENSE
+README.md
+composer.json
+module.json

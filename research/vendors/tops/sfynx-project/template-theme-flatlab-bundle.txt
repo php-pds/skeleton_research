@@ -1,0 +1,7 @@
+Resources/
+.gitignore
+.travis.yml
+LICENSE
+SfynxFlatlabBundle.php
+composer.json
+phpunit.xml.dist

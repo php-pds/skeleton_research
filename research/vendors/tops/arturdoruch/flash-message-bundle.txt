@@ -1,0 +1,9 @@
+DependencyInjection/
+Message/
+Resources/
+Templating/Helper/
+Twig/Extension/
+ArturDoruchFlashMessageBundle.php
+LICENSE
+README.md
+composer.json

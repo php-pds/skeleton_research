@@ -1,0 +1,10 @@
+.idea/
+spec/
+.gitignore
+JwtCoder.php
+JwtCoderTest.php
+LICENSE
+README.md
+composer.json
+phpspec.yml
+phpunit.xml.dist

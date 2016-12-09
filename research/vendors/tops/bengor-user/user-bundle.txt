@@ -1,0 +1,13 @@
+docs/
+spec/BenGorUser/UserBundle/
+src/BenGorUser/UserBundle/
+.editorconfig
+.gitignore
+.php_cs
+.phpspec_cs
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+UPGRADE.md
+composer.json

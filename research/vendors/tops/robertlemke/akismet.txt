@@ -1,0 +1,6 @@
+Classes/RobertLemke/Akismet/
+Configuration/
+Tests/Functional/
+LICENSE
+README.md
+composer.json

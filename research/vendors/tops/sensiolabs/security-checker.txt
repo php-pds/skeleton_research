@@ -1,0 +1,7 @@
+SensioLabs/Security/
+.gitignore
+LICENSE
+README.md
+box.json
+composer.json
+security-checker

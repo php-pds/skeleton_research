@@ -1,0 +1,5 @@
+Client/
+Config/
+Exception/
+Rest.php
+composer.json

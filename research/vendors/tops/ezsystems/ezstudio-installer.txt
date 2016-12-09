@@ -1,0 +1,6 @@
+DependencyInjection/
+Installer/
+Resources/
+EzSystemsStudioInstallerBundle.php
+README.md
+composer.json

@@ -1,0 +1,8 @@
+src/Remote/
+tests/
+.-travis.yml
+.gitignore
+LICENSE
+README.md
+composer.json
+phpunit.xml

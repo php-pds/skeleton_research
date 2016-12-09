@@ -1,0 +1,13 @@
+js/
+less/admin/
+locale/
+migrations/
+scripts/
+src/
+.editorconfig
+.eslintrc
+.gitignore
+LICENSE
+README.md
+bootstrap.php
+composer.json

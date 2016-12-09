@@ -1,0 +1,8 @@
+demo/
+tests/
+.gitignore
+CryptoProvider.php
+ICryptoProvider.php
+SignatureGenerator.php
+composer.json
+readme.md

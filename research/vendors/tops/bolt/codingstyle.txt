@@ -1,0 +1,5 @@
+PhpCodeSniffer/
+.gitignore
+LICENSE
+README.md
+composer.json

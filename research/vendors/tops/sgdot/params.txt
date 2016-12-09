@@ -1,0 +1,3 @@
+sgdot/
+README.md
+composer.json

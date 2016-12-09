@@ -1,0 +1,11 @@
+cSharp/
+specs/Spec/
+src/
+.gitattributes
+.gitignore
+LICENSE
+README.md
+composer.json
+example.php
+phpspec.yml.dist
+phpspec_coverage.yml

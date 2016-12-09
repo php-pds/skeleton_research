@@ -1,0 +1,5 @@
+behaviors/
+.gitignore
+LICENSE.txt
+README.md
+composer.json

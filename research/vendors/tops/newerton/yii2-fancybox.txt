@@ -1,0 +1,7 @@
+FancyBox.php
+FancyBoxAsset.php
+FancyBoxHelpersAsset.php
+LICENSE
+MousewheelAsset.php
+README.md
+composer.json

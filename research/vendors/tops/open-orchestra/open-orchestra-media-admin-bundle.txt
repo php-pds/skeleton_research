@@ -1,0 +1,13 @@
+GruntTasks/Targets/
+MediaAdmin/
+MediaAdminBundle/
+MediaAdminModelBundle/
+.codeclimate.yml
+.gitignore
+.travis.php.ini
+.travis.yml
+ISSUE_TEMPLATE
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

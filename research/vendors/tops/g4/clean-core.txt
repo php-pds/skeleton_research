@@ -1,0 +1,9 @@
+.idea/
+src/
+test/
+.gitignore
+LICENSE
+Makefile
+README.md
+composer.json
+composer.lock

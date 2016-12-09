@@ -1,0 +1,6 @@
+DependencyInjection/
+Resources/config/
+Services/
+AmazonS3Bundle.php
+README.md
+composer.json

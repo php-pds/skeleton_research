@@ -1,0 +1,7 @@
+language/japanese/
+tests/
+.gitattributes
+.gitignore
+.gitmodules
+README.md
+composer.json

@@ -1,0 +1,15 @@
+docs/
+src/Skyzyx/Shared/
+tests/
+.coveralls.yml
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+Makefile
+README.md
+composer.json
+composer.lock
+phpcs.xml.dist
+phpmd.xml.dist
+phpunit.xml.dist

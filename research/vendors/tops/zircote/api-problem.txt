@@ -1,0 +1,7 @@
+library/ApiProblem/
+tests/
+.travis.yml
+LICENSE-2.0
+composer.json
+phpunit.xml.dist
+readme.md

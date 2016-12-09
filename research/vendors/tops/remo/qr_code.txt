@@ -1,0 +1,8 @@
+blocks/qr_code/
+languages/
+vendor/
+composer.json
+composer.lock
+controller.php
+icon.png
+install.xml

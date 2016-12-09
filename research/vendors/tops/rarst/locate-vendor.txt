@@ -1,0 +1,3 @@
+class-locate-vendor.php
+composer.json
+readme.md

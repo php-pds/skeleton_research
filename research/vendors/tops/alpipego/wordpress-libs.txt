@@ -1,0 +1,5 @@
+WpLib/
+LICENSE
+README.md
+VERSION
+composer.json

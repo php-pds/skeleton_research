@@ -1,0 +1,9 @@
+src/Plista/Core/Redis/
+test/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock
+phpiredis_functions.php
+phpunit.xml.dist

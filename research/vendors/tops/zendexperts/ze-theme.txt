@@ -1,0 +1,7 @@
+config/
+examples/themes/default/
+src/ZeTheme/
+LICENSE
+Module.php
+README.md
+composer.json

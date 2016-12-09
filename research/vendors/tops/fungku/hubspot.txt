@@ -1,0 +1,5 @@
+src/Fungku/
+.gitignore
+.hsdoc
+README.md
+composer.json

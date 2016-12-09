@@ -1,0 +1,10 @@
+build/
+src/lf4php/
+tests/
+.gitignore
+.travis.yml
+README.md
+build.xml
+composer.json
+phpdox.xml.dist
+phpunit.xml.dist

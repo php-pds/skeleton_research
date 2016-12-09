@@ -1,0 +1,10 @@
+docs/
+src/
+tpl/
+.gitignore
+LICENSE.txt
+README.md
+composer.json
+composer.lock
+docmd
+docmd.json

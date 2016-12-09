@@ -1,0 +1,8 @@
+controllers/
+migrations/
+models/
+views/admin/
+.gitignore
+Module.php
+README.md
+composer.json

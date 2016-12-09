@@ -1,0 +1,4 @@
+LICENSE
+README.md
+auto-update.php
+composer.json

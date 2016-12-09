@@ -1,0 +1,5 @@
+LineStorm/SearchBundle/
+docs/
+.bower.json
+README.md
+composer.json

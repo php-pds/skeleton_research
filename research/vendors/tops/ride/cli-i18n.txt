@@ -1,0 +1,5 @@
+config/
+src/ride/cli/command/i18n/
+README.md
+composer.json
+ride.json

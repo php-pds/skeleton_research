@@ -1,0 +1,3 @@
+src/Staempfli/ComposerInstaller/
+README.md
+composer.json

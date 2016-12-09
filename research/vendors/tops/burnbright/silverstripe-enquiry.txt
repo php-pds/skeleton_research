@@ -1,0 +1,5 @@
+_config/
+code/
+templates/email/
+README.md
+composer.json

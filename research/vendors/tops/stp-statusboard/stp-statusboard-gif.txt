@@ -1,0 +1,5 @@
+src/StpBoard/Gif/
+.gitignore
+README.md
+composer.json
+composer.lock

@@ -1,0 +1,5 @@
+src/BeeTree/
+.gitignore
+LICENSE
+README.md
+composer.json

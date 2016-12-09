@@ -1,0 +1,5 @@
+LICENSE
+README.md
+composer.json
+watchngo
+watchngo.config

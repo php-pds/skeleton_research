@@ -1,0 +1,7 @@
+config/
+src/ZfSnapUrl/
+tests/
+.travis.yml
+Module.php
+README.md
+composer.json

@@ -1,0 +1,15 @@
+bin/
+lib/
+res/
+tests/
+vendor/
+.editorconfig
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENSE.txt
+README.md
+bootstrap.php
+build.xml
+composer.json
+phpunit.xml

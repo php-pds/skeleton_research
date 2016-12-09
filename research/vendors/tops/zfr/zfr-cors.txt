@@ -1,0 +1,13 @@
+config/
+src/ZfrCors/
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+composer.json
+composer.lock
+phpcs.xml
+phpunit.xml.dist

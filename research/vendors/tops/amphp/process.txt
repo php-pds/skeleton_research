@@ -1,0 +1,10 @@
+examples/
+tests/
+.gitignore
+.php_cs
+.travis.yml
+LICENCE
+Process.php
+README.md
+composer.json
+phpunit.xml

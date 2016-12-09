@@ -1,0 +1,8 @@
+src/Just/
+.gitignore
+.php_cs.example
+LICENCE
+README.md
+composer.json
+composer.lock
+pre-commit

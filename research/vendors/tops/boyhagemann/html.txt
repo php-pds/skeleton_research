@@ -1,0 +1,6 @@
+.idea/dictionaries/
+examples/
+src/Boyhagemann/Html/
+.gitignore
+composer.json
+readme.md

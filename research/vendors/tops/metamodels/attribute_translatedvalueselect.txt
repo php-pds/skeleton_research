@@ -1,0 +1,4 @@
+contao-module/
+src/MetaModels/Attribute/TranslatedValueSelect/
+.gitignore
+composer.json

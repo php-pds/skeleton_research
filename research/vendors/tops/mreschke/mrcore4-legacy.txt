@@ -1,0 +1,7 @@
+Console/Commands/
+Legacy/
+Providers/
+.editorconfig
+.gitignore
+README.md
+composer.json

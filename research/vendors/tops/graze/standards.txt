@@ -1,0 +1,7 @@
+PHP/CodeSniffer/Graze/
+examples/PHP/
+.gitignore
+CONTRIBUTING.md
+LICENSE
+README.md
+composer.json

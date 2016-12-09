@@ -1,0 +1,10 @@
+src/
+README.md
+composer.json
+fa_icon_class.css
+fa_icon_class.info.yml
+fa_icon_class.js
+fa_icon_class.libraries.yml
+fa_icon_class.links.menu.yml
+fa_icon_class.module
+fa_icon_class.routing.yml

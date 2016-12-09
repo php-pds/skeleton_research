@@ -1,0 +1,13 @@
+resources/views/admin/
+src/
+tests/
+.gitattributes
+.gitignore
+.php_cs
+.styleci.yml
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+composer.json
+phpunit.xml

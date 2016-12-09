@@ -1,0 +1,15 @@
+bin/
+includes/modules/api_v1/
+tests/
+.editorconfig
+.gitignore
+.scss-lint.yml
+.travis.yml
+CONTRIBUTORS.md
+README.md
+codecov.yml
+composer.json
+composer.lock
+pb-api.php
+phpcs.xml
+phpunit.xml

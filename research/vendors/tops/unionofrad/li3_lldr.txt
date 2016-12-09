@@ -1,0 +1,6 @@
+config/
+resources/g11n/php/
+tests/integration/g11n/
+LICENSE.txt
+README.md
+composer.json

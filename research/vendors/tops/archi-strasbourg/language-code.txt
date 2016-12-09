@@ -1,0 +1,13 @@
+tests/
+.gitignore
+.travis.yml
+Gruntfile.js
+LICENSE
+LanguageCode.i18n.magic.php
+LanguageCode.php
+README.md
+composer.json
+composer.lock
+extension.json
+package.json
+phpunit.xml

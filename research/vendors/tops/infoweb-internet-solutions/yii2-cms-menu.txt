@@ -1,0 +1,11 @@
+assets/
+controllers/
+messages/nl/infoweb/
+migrations/
+models/
+views/
+widgets/
+MenuAsset.php
+Module.php
+README.md
+composer.json

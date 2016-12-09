@@ -1,0 +1,9 @@
+Annotation/
+Command/
+DependencyInjection/
+Resources/config/
+Service/
+.gitignore
+README.md
+YoushidoEncryptionBundle.php
+composer.json

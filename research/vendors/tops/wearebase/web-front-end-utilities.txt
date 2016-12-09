@@ -1,0 +1,5 @@
+scss/
+.gitignore
+LICENSE
+README.md
+composer.json

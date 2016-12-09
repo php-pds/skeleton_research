@@ -1,0 +1,5 @@
+.gitignore
+LICENSE
+README.md
+TextareaAutosizeAsset.php
+composer.json

@@ -1,0 +1,7 @@
+config/
+l10n/
+src/ride/web/mail/
+view/smarty/
+CHANGELOG.md
+composer.json
+ride.json

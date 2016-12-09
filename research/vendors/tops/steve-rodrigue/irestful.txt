@@ -1,0 +1,11 @@
+bin/
+build/
+src/iRESTful/
+templates/rodson/code/php/
+.gitignore
+README.md
+TODO.md
+Vagrantfile
+composer.json
+composer.lock
+phpunit.xml.dist

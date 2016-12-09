@@ -1,0 +1,16 @@
+apps/
+console/
+example_image/
+src/Tacnoman/
+tests/
+.gitignore
+.travis.yml
+Dockerfile
+README.md
+changelog.md
+codeception.yml
+composer.json
+composer.lock
+index.php
+thumcno
+version.php

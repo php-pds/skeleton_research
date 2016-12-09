@@ -1,0 +1,6 @@
+src/LinusShops/MagicDoc/
+.gitignore
+LICENSE
+README.md
+composer.json
+magicdoc

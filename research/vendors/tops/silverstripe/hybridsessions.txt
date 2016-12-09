@@ -1,0 +1,12 @@
+_config/
+code/
+lang/
+tests/
+.editorconfig
+.gitattributes
+.travis.yml
+README.md
+changelog.md
+code-of-conduct.md
+composer.json
+license.md

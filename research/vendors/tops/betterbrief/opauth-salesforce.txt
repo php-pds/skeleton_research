@@ -1,0 +1,4 @@
+.gitignore
+README.md
+SalesforceStrategy.php
+composer.json

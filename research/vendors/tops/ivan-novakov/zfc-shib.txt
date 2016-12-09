@@ -1,0 +1,6 @@
+src/ZfcShib/Authentication/
+tests/
+.gitignore
+Module.php
+README.md
+composer.json

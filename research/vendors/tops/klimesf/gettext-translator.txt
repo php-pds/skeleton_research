@@ -1,0 +1,3 @@
+GettextTranslator/
+README.md
+composer.json

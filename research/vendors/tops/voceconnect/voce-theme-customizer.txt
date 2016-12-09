@@ -1,0 +1,5 @@
+controls/
+README.md
+composer.json
+composer.lock
+voce-theme-customizer.php

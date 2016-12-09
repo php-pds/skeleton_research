@@ -1,0 +1,10 @@
+DependencyInjection/
+Entity/
+EntityService/
+Form/Type/
+Job/
+Resources/
+CampaignChainOperationSocialMediaBundle.php
+LICENSE
+campaignchain.yml
+composer.json

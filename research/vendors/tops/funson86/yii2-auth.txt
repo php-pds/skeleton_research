@@ -1,0 +1,12 @@
+controllers/
+messages/
+migrations/
+models/
+views/default/
+AutoloadExample.php
+Bootstrap.php
+Module.php
+README.md
+User.php
+composer.json
+yii2-auth-preview.png

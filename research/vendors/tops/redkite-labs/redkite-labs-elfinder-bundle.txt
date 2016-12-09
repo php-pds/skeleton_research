@@ -1,0 +1,9 @@
+Controller/
+Core/Connector/
+DependencyInjection/
+Resources/
+LICENSE
+README.md
+RedKiteLabsElFinderBundle.php
+autoload.json
+composer.json

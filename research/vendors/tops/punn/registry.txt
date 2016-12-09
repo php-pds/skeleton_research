@@ -1,0 +1,8 @@
+src/Punn/Registry/
+tests/
+.gitignore
+.travis.yml
+README
+README.md
+composer.json
+phpunit.xml

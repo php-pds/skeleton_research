@@ -1,0 +1,9 @@
+config/
+public/js/
+src/GingerWfConfigFrontend/
+view/ginger-wf-config-frontend/index/
+.gitignore
+LICENSE.txt
+Module.php
+README.md
+composer.json

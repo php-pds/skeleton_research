@@ -1,0 +1,12 @@
+app/
+bin/
+src/AppBundle/
+var/
+web/
+.bowerrc
+.gitignore
+.travis.yml
+LICENSE
+README.md
+bower.json
+composer.json

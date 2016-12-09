@@ -1,0 +1,12 @@
+bin/
+docs/
+scripts/
+src/Goodby/EventSourcing/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit-bootstrap.php
+phpunit.xml.dist
+sample.php

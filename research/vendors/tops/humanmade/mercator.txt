@@ -1,0 +1,11 @@
+inc/
+LICENSE.txt
+README.md
+admin.php
+class-mapping.php
+class-network-mapping.php
+composer.json
+mercator.php
+multinetwork.php
+sso-multinetwork.php
+sso.php

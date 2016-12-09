@@ -1,0 +1,13 @@
+DependencyInjection/
+Resources/
+Tests/
+Translation/
+Twig/
+.gitignore
+.travis.yml
+IbrowsTranslationHelperBundle.php
+LICENSE
+README.md
+UPDATE.md
+composer.json
+phpunit.xml.dist

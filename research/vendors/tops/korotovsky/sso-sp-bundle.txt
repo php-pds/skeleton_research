@@ -1,0 +1,11 @@
+src/Krtv/Bundle/SingleSignOnServiceProviderBundle/
+tests/Krtv/Bundle/SingleSignOnServiceProviderBundle/Tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+bootstrap.php
+composer.json
+phpunit.xml.dist

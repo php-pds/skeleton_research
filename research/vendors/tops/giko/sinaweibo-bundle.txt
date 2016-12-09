@@ -1,0 +1,17 @@
+DependencyInjection/
+Resources/
+Security/
+Services/
+Templating/Helper/
+Tests/
+Twig/Extension/
+doc/
+lib/
+vendor/
+.gitignore
+.travis.yml
+CHANGELOG.md
+GikoSinaweiboBundle.php
+README.md
+composer.json
+phpunit.xml.dist

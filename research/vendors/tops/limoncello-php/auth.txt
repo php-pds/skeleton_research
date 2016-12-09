@@ -1,0 +1,12 @@
+src/
+tests/Authentication/
+.editorconfig
+.gitattributes
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+NOTICE
+composer.json
+phpunit.xml
+readme.md

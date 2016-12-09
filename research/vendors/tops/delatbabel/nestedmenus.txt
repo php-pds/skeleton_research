@@ -1,0 +1,8 @@
+.idea/
+database/
+src/
+.gitignore
+LICENSE
+README.md
+composer.json
+makedoc.sh

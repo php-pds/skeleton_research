@@ -1,0 +1,4 @@
+src/PhpSpec/Kohana/
+README.md
+composer.json
+phpspec.yml.dist

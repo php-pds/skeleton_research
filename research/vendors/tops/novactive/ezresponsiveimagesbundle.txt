@@ -1,0 +1,6 @@
+DependencyInjection/
+Resources/
+LICENSE
+NovaeZResponsiveImagesBundle.php
+README.md
+composer.json

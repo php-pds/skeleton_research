@@ -1,0 +1,12 @@
+.idea/
+bin/
+config/
+htdocs/
+src/App/
+.gitignore
+README.md
+build.xml
+composer.json
+package.json.dist
+phpmd.xml
+phpunit.xml

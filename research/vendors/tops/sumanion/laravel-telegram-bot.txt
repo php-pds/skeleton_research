@@ -1,0 +1,8 @@
+assets/views/
+migrations/
+routes/
+src/
+.gitignore
+LICENSE.txt
+composer.json
+readme.md

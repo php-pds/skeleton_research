@@ -1,0 +1,15 @@
+test/
+.gitignore
+.jshintrc
+.tm_properties
+.travis.yml
+CHANGELOG.md
+CONTRIBUTING.md
+Gruntfile.js
+MIT-LICENSE.txt
+README.md
+bower.json
+composer.json
+cookie.jquery.json
+jquery.cookie.js
+package.json

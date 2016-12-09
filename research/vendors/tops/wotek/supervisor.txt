@@ -1,0 +1,6 @@
+src/Wtk/Supervisor/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock

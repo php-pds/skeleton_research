@@ -1,0 +1,5 @@
+src/Rixxi/Calculator/
+tests/
+.travis.yml
+composer.json
+license.md

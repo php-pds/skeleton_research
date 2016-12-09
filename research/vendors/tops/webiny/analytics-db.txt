@@ -1,0 +1,7 @@
+src/Webiny/AnalyticsDb/
+test/
+.gitignore
+LICENSE
+README.md
+composer.json
+phpunit.xml

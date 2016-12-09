@@ -1,0 +1,7 @@
+dist/
+test/
+.gitignore
+LICENSE
+README.md
+bower.json
+composer.json

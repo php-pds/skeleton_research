@@ -1,0 +1,14 @@
+bin/
+docs/
+src/
+.coveralls.yml
+.gitignore
+.travis.composer.config.json.enc
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+composer.json
+composer.lock
+phpdoc.dist.xml
+phpunit.xml.dist

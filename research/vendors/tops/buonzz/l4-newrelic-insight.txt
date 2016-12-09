@@ -1,0 +1,8 @@
+src/
+tests/Unit/Buonzz/NewRelic/Insight/Aggregates/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml

@@ -1,0 +1,6 @@
+Config/Seeds/
+Console/Command/
+Lib/
+.gitignore
+README.md
+composer.json

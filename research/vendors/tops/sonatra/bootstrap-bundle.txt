@@ -1,0 +1,10 @@
+DependencyInjection/
+Resources/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+README.md
+SonatraBootstrapBundle.php
+composer.json
+composer.lock
+phpunit.xml.dist

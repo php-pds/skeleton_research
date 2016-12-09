@@ -1,0 +1,11 @@
+Package/
+samples/
+tests/
+.gitmodules
+LICENSE
+TropoClasses.php
+compatibility.php
+composer.json
+readme.markdown
+tropo-rest.class.php
+tropo.class.php

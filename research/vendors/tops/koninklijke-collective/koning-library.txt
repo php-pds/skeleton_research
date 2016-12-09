@@ -1,0 +1,9 @@
+Classes/
+Documentation/
+.gitattributes
+.gitignore
+README.md
+composer.json
+ext_emconf.php
+ext_icon.png
+icon.png

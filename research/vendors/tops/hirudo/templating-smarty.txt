@@ -1,0 +1,5 @@
+nbproject/
+src/Hirudo/Impl/Templating/Smarty/
+.gitignore
+README.md
+composer.json

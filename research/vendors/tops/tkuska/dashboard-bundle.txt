@@ -1,0 +1,14 @@
+Controller/
+DependencyInjection/
+Entity/
+Resources/
+Tests/Controller/
+Twig/
+Widget/
+Widgets/
+.gitattributes
+.gitignore
+README.markdown
+TkuskaDashboardBundle.php
+WidgetProvider.php
+composer.json

@@ -1,0 +1,11 @@
+components/
+controllers/
+migrations/
+models/
+views/
+widgets/
+.gitignore
+LICENSE
+LogModule.php
+README
+composer.json

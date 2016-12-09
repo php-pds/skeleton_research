@@ -1,0 +1,4 @@
+examples/
+src/ArduinoTalker/
+.gitignore
+composer.json

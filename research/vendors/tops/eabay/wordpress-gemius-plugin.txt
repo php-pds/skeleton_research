@@ -1,0 +1,9 @@
+assets/js/
+src/Gemius/
+.gitignore
+LICENSE
+app.php
+composer.json
+composer.lock
+readme.txt
+screenshot-1.jpg

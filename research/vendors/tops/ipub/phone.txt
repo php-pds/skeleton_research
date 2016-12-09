@@ -1,0 +1,12 @@
+client-side/
+docs/en/
+src/IPub/Phone/
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.composer.php
+.travis.yml
+bower.json
+composer.json
+license.md
+readme.md

@@ -1,0 +1,5 @@
+config/
+src/
+tests/
+README.rst
+composer.json

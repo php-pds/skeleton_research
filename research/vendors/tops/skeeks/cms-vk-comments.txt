@@ -1,0 +1,6 @@
+views/
+CHANGELOG.md
+README.md
+VkAsset.php
+VkCommentsWidget.php
+composer.json

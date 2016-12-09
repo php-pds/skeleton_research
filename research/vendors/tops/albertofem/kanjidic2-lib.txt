@@ -1,0 +1,10 @@
+bin/
+src/AFM/Kanjidic/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

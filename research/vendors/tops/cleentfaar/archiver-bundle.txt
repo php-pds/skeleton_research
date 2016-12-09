@@ -1,0 +1,12 @@
+Archiver/
+DependencyInjection/
+Resources/
+Tests/Archiver/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CLArchiverBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

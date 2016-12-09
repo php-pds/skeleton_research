@@ -1,0 +1,17 @@
+src/
+tests/
+.gitattributes
+.gitignore
+.travis.yml
+LICENSE
+README.md
+app.txt
+cmd.txt
+composer.json
+composer.lock
+gulpfile.js
+hosts
+package.json
+phpunit.php
+phpunit.xml
+test

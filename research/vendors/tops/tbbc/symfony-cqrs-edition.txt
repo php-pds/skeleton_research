@@ -1,0 +1,11 @@
+app/
+src/Acme/Task/
+var/
+web/
+.bowerrc
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock

@@ -1,0 +1,13 @@
+bin/
+css/
+fonts/
+images/
+lib/
+.gitattributes
+.gitignore
+LICENSE
+README.md
+box.json
+composer.json
+index.html
+structure.php

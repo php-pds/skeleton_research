@@ -1,0 +1,8 @@
+config/
+src/WebsafeZfModLanguage/
+.gitignore
+.php_cs
+LICENSE.txt
+Module.php
+README.md
+composer.json

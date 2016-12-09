@@ -1,0 +1,12 @@
+src/
+.coveralls.yml
+.gitattributes
+.gitignore
+.mailmap
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+bootstrap.php
+composer.json
+example.php

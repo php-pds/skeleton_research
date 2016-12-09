@@ -1,0 +1,5 @@
+src/Gossamer/Aset/
+tests/
+.gitignore
+LICENSE
+composer.json

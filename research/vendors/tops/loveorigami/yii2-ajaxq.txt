@@ -1,0 +1,6 @@
+views/
+Ajaxq.php
+AjaxqAsset.php
+LICENSE
+README.md
+composer.json

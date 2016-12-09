@@ -1,0 +1,8 @@
+_config/
+code/
+tests/
+.scrutinizer.yml
+.travis.yml
+CHANGELOG.md
+README.md
+composer.json

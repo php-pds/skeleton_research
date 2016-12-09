@@ -1,0 +1,6 @@
+system/modules/CheckedEmail/
+.gitattributes
+.gitignore
+CHANGELOG.md
+README.md
+composer.json

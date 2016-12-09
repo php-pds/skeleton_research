@@ -1,0 +1,8 @@
+examples/
+src/FastD/Template/
+.gitignore
+CHANGELOG
+LICENSE
+README.md
+composer.json
+structure.v0.1.0.mdj

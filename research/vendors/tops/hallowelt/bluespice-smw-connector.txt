@@ -1,0 +1,8 @@
+build/release/
+i18n/
+includes/
+resources/
+.gitreview
+BlueSpiceSMWConnector.php
+composer.json
+extension.json

@@ -1,0 +1,8 @@
+config/
+libraries/Smarty/3.1.10/
+plugins/
+template/view/adapter/
+.gitignore
+LICENSE.txt
+README.md
+composer.json

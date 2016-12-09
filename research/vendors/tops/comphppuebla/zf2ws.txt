@@ -1,0 +1,10 @@
+config/
+data/
+src/BookStore/
+view/book-store/author/
+.gitignore
+Module.php
+README.md
+autoload_classmap.php
+composer.json
+composer.lock

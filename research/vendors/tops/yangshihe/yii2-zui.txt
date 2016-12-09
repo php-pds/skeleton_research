@@ -1,0 +1,10 @@
+assets/
+bootstrap/
+demo/
+widgets/
+.gitattributes
+.gitignore
+LICENSE
+README.md
+ZuiAsset.php
+composer.json

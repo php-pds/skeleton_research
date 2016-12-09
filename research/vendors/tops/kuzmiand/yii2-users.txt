@@ -1,0 +1,16 @@
+assets/
+components/
+controllers/
+grid_bulk_actions/
+grid_page_size/
+helpers/
+mail/
+messages/
+migrations/
+models/
+views/
+.gitignore
+Module.php
+README.md
+UsersAsset.php
+composer.json

@@ -1,0 +1,7 @@
+resources/config/
+src/JR/Phinx/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock

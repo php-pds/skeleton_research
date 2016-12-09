@@ -1,0 +1,9 @@
+controllers/
+helpers/
+messages/
+migrations/
+models/
+views/
+README.md
+SeoPanelModule.php
+composer.json

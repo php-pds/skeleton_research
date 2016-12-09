@@ -1,0 +1,10 @@
+.travisci/
+demo/
+src/
+tests/
+view/
+.gitignore
+.travis.yml
+README.md
+composer.json
+phpunit.xml

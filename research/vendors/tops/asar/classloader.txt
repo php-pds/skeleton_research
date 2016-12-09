@@ -1,0 +1,5 @@
+src/Asar/
+README.md
+composer.json
+package.php
+package.xml.tpl

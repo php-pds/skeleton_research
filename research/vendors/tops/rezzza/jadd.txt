@@ -1,0 +1,11 @@
+app/
+bin/
+features/
+src/
+tests/Units/
+.atoum.php
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json

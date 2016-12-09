@@ -1,0 +1,10 @@
+blocks/remo_expand/
+js/
+languages/
+.gitignore
+INSTALL.TXT
+LICENSE.TXT
+README.txt
+composer.json
+controller.php
+icon.png

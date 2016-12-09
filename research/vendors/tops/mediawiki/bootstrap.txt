@@ -1,0 +1,13 @@
+docs/
+i18n/
+src/
+tests/
+.gitreview
+Bootstrap.i18n.php
+Bootstrap.php
+COPYING
+Gruntfile.js
+README.md
+composer.json
+package.json
+phpunit.xml.dist

@@ -1,0 +1,11 @@
+controller/
+helper/
+locales/en-US/
+model/
+scripts/
+test/
+views/
+LICENSE
+README.md
+composer.json
+manifest.php

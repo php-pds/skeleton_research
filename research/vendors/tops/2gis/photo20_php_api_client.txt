@@ -1,0 +1,7 @@
+Client.php
+Exception.php
+PhotoCollection.php
+PhotoItem.php
+README.md
+composer.json
+demo.php

@@ -1,0 +1,15 @@
+ext-lib/
+lib/TOGoS/PHPN2R/
+test/
+.gitignore
+.htaccess.example
+.travis.yml
+Makefile
+N2R
+README.md
+browse
+composer.json
+config.php.example
+dispatch.php
+raw
+setup.php

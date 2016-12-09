@@ -1,0 +1,15 @@
+config/
+public/js/
+src/DmTinymce/
+test/unit/
+view/dm-mailer-admin/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE.txt
+Module.php
+README.md
+composer.json
+dev.phpunit.xml
+phpunit.xml
+travis.phpunit.xml

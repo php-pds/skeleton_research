@@ -1,0 +1,9 @@
+features/
+spec/
+src/
+.gitignore
+.travis.yml
+LICENSE
+behat.yml
+composer.json
+phpspec.yml.dist

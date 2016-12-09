@@ -1,0 +1,15 @@
+Command/
+DependencyInjection/
+Listener/
+Resources/
+Service/
+StatsCollector/
+Tests/
+.gitignore
+.travis.yml
+Exception.php
+LICENSE
+LiuggioStatsDClientBundle.php
+Readme.md
+composer.json
+phpunit.xml.dist

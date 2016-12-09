@@ -1,0 +1,6 @@
+src/HumanSms/
+tests/HumanSmsTests/
+.gitignore
+README.md
+composer.json
+phpunit.xml.dist

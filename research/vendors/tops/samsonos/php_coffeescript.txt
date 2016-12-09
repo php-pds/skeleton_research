@@ -1,0 +1,10 @@
+src/CoffeeScript/
+tests/
+vendor/ParserGenerator/
+.gitignore
+CoffeeScript.php
+LICENSE
+README.md
+composer.json
+grammar.y
+make.php

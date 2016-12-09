@@ -1,0 +1,13 @@
+config/
+data/
+meta/
+scripts/
+src/Aura/Uri/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+TODO.md
+composer.json
+src.php

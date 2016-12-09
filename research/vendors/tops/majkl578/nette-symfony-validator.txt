@@ -1,0 +1,4 @@
+lib/Majkl578/NetteSymfonyValidator/
+LICENSE
+README.md
+composer.json

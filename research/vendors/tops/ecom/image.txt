@@ -1,0 +1,5 @@
+model/
+ImageManagedInterface.php
+ImageManager.php
+ImageThumbAction.php
+composer.json

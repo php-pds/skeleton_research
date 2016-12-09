@@ -1,0 +1,5 @@
+src/Emmetog/Stream/
+.gitignore
+LICENSE
+README.md
+composer.json

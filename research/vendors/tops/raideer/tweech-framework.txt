@@ -1,0 +1,10 @@
+src/Tweech/
+tests/
+.gitattributes
+.gitignore
+.travis.yml
+LICENSE.txt
+README.md
+composer.json
+phpunit.php
+phpunit.xml

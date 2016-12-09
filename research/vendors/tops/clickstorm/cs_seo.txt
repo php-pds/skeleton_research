@@ -1,0 +1,15 @@
+Classes/
+Configuration/
+Documentation/
+Resources/
+Tests/
+README.md
+_robots.txt
+class.ext_update.php
+composer.json
+ext_conf_template.txt
+ext_emconf.php
+ext_icon.png
+ext_localconf.php
+ext_tables.php
+ext_tables.sql

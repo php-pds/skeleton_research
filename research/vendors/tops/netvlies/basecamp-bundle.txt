@@ -1,0 +1,6 @@
+DependencyInjection/
+OAuth/
+Resources/config/
+NetvliesBasecampBundle.php
+README.md
+composer.json

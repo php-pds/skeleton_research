@@ -1,0 +1,7 @@
+mindplay/funit/
+.gitignore
+LICENSE
+README.md
+autoload.php
+composer.json
+example.php

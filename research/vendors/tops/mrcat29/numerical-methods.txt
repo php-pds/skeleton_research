@@ -1,0 +1,5 @@
+src/mrcat/NumericalMethods/
+.gitignore
+LICENSE
+README.md
+composer.json

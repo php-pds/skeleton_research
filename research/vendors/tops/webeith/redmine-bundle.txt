@@ -1,0 +1,3 @@
+src/Redmine/
+README.md
+composer.json

@@ -1,0 +1,7 @@
+src/collector/
+.gitignore
+LICENSE.md
+README.md
+bjycompat.classmap.php
+composer.json
+module.xml

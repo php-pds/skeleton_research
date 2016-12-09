@@ -1,0 +1,12 @@
+Controller/
+DependencyInjection/
+Entity/
+Form/
+Generator/
+Menu/
+Model/
+Resources/
+Service/
+README.md
+UnicatModule.php
+composer.json

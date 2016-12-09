@@ -1,0 +1,17 @@
+config/
+data/cache/
+module/
+public/
+.gitignore
+Bootstrap.php
+BootstrapClass.php
+README.md
+cli-config.php
+composer.json
+composer.lock
+composer.phar
+init_autoloader.php
+packages.json
+phpci.yml
+phpmd.xml
+phpunit.xml

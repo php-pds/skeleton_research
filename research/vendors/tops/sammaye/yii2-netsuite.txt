@@ -1,0 +1,6 @@
+NSPHPClient.php
+NSconfig.php
+NetSuite.php
+NetSuiteService.php
+README.md
+composer.json

@@ -1,0 +1,6 @@
+src/Tf/Email/
+AUTHORS
+COPYRIGHT
+LICENSE
+README.md
+composer.json

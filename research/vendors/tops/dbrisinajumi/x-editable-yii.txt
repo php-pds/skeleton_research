@@ -1,0 +1,15 @@
+assets/
+messages/
+.gitattributes
+.gitignore
+CHANGELOG.txt
+Editable.php
+EditableColumn.php
+EditableConfig.php
+EditableDetailView.php
+EditableField.php
+EditableSaver.php
+LICENSE-MIT
+README.md
+bump-ver
+composer.json

@@ -1,0 +1,7 @@
+code/
+css/
+lang/
+.editorconfig
+README.md
+_config.php
+composer.json

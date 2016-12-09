@@ -1,0 +1,5 @@
+Resources/
+.gitignore
+OryzoneBoilerplateBundle.php
+README.markdown
+composer.json

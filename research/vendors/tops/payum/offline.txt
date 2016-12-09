@@ -1,0 +1,12 @@
+Action/
+Resources/docs/
+Tests/
+.travis.yml
+CHANGELOG.md
+Constants.php
+LICENSE
+OfflineGatewayFactory.php
+README.md
+UPGRADE.md
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,10 @@
+Installation/
+Traits/
+ArrayUtils.php
+DateUtils.php
+Formatting.php
+Git.php
+README.md
+SchemaUtils.php
+StringUtils.php
+composer.json

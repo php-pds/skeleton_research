@@ -1,0 +1,11 @@
+classes/
+datatypes/jvamazonid/
+design/standard/
+doc/
+modules/amazonadvertising/
+settings/
+tests/
+translations/
+README.md
+composer.json
+extension.xml

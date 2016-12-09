@@ -1,0 +1,18 @@
+design/
+docs/
+setup @ b93ce6c
+src/
+tests/
+.gitignore
+.gitmodules
+.travis.yml
+CREDITS
+ChangeLog
+DESCRIPTION
+LICENSE.txt
+README.rst
+build.properties
+build.xml
+composer.json
+phpunit.xml.dist
+review.txt

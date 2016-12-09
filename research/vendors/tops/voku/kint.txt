@@ -1,0 +1,15 @@
+frontend/
+src/kint/
+tests/
+.editorconfig
+.gitattributes
+.gitignore
+.scrutinizer.yml
+.styleci.yml
+.travis.yml
+LICENCE
+README.md
+bootstrap.php
+circle.yml
+composer.json
+phpunit.xml.dist

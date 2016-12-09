@@ -1,0 +1,3 @@
+src/KC/TestingBundle/
+.gitignore
+composer.json

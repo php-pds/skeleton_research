@@ -1,0 +1,8 @@
+Controller/
+DependencyInjection/
+EventListener/
+Resources/
+Routing/
+README.md
+WSExceptionsBundle.php
+composer.json

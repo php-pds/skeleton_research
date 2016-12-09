@@ -1,0 +1,7 @@
+docs/
+src/Komerci/
+tests/KomerciTest/
+.gitignore
+README.md
+composer.json
+phpunit.xml.dist

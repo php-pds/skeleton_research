@@ -1,0 +1,10 @@
+docs/
+src/NukaCode/Menu/
+tests/spec/NukaCode/Menu/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+README.md
+composer.json
+phpspec.yml
+phpunit.xml

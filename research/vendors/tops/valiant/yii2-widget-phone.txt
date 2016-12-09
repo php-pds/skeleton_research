@@ -1,0 +1,6 @@
+assets/
+LICENSE
+PhoneWidget.php
+README.md
+ValiantAsset.php
+composer.json

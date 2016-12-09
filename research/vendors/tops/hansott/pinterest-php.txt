@@ -1,0 +1,13 @@
+src/Pinterest/
+tests/Pinterest/
+.env-example
+.gitignore
+.php_cs
+.travis.yml
+CONTRIBUTING.md
+LICENSE.md
+README.md
+banner.png
+composer.json
+composer.lock
+phpunit.xml.dist

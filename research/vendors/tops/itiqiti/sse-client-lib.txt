@@ -1,0 +1,10 @@
+bin/
+src/
+tests/
+.dockerignore
+.gitignore
+.travis.yml
+Dockerfile
+LICENSE
+README.md
+composer.json

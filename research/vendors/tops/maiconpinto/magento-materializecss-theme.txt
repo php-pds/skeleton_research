@@ -1,0 +1,4 @@
+web/images/
+README.md
+composer.json
+registration.php

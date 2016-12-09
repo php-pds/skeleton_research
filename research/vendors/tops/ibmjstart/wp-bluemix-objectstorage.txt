@@ -1,0 +1,10 @@
+assets/
+classes/
+include/
+view/
+.gitignore
+README.md
+composer.json
+hide-deactivation.js
+license.txt
+objectstorage.php

@@ -1,0 +1,8 @@
+bin/php/
+doc/
+COPYRIGHT.md
+LICENSE
+README.md
+composer.json
+extension.xml
+ezinfo.php

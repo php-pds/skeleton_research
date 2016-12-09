@@ -1,0 +1,6 @@
+src/Alc/Csv/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json

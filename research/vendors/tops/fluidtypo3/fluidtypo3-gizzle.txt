@@ -1,0 +1,9 @@
+settings/
+src/GizzlePlugins/
+tests/
+web/
+.editorconfig
+.gitignore
+README.md
+composer.json
+phpunit.xml.dist

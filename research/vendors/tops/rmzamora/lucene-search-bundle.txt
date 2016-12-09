@@ -1,0 +1,13 @@
+DependencyInjection/
+Model/
+Resources/
+Tests/
+.coveralls.yml
+.gitignore
+.travis.yml
+CHANGELOG.md
+IvoryLuceneSearchBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

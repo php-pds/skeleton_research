@@ -1,0 +1,5 @@
+src/PHPUtility/Common/
+.gitignore
+LICENSE
+README.md
+composer.json

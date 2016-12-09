@@ -1,0 +1,17 @@
+checkout/
+examples/
+pclasses/
+transport/xmlrpc-3.0.0.beta/lib/
+CHANGELOG
+Country.php
+Currency.php
+Encoding.php
+Exceptions.php
+Flags.php
+Klarna.php
+Language.php
+composer.json
+klarnaaddr.php
+klarnacalc.php
+klarnaconfig.php
+klarnapclass.php

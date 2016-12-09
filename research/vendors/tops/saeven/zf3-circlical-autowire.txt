@@ -1,0 +1,11 @@
+bundle/Spec/CirclicalAutoWire/
+config/
+src/CirclicalAutoWire/
+.gitignore
+.travis.yml
+LICENSE.md
+Module.php
+README.md
+composer.json
+composer.lock
+phpspec.yml

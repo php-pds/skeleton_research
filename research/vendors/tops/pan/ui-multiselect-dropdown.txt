@@ -1,0 +1,12 @@
+example/
+i18n/
+src/
+tests/
+.gitignore
+CHANGELOG
+GPL-LICENSE
+MIT-LICENSE
+README
+build.xml
+composer.json
+screenshot.gif

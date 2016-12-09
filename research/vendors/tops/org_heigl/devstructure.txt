@@ -1,0 +1,4 @@
+template/
+README.md
+composer.json
+example.composer.json

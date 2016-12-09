@@ -1,0 +1,6 @@
+data/
+interfaces/
+LICENSE
+README.md
+SiteSearch.php
+composer.json

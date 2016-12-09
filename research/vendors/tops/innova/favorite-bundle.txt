@@ -1,0 +1,7 @@
+Controller/
+DependencyInjection/
+Manager/
+Resources/
+InnovaFavoriteBundle.php
+README.md
+composer.json

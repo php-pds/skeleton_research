@@ -1,0 +1,9 @@
+classes/
+design/standard/templates/errors/
+doc/
+modules/exportas/
+settings/
+LICENSE
+README.md
+composer.json
+extension.xml

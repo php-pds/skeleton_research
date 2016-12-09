@@ -1,0 +1,12 @@
+sample/
+src/YuzuruS/Image/
+tests/
+.coveralls.yml
+.gitignore
+.travis.yml
+LICENSE.txt
+README.md
+composer.json
+composer.lock
+coverage-checker.php
+phpunit.xml.dist

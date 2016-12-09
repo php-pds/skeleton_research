@@ -1,0 +1,7 @@
+languages/
+.gitignore
+README.md
+composer.json
+parsers.php
+readme.txt
+wordpress-importer.php

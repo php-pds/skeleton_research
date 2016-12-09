@@ -1,0 +1,7 @@
+src/Framework/Annotations/
+tests/Annotations/
+.gitignore
+.travis.yml
+LICENSE
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,17 @@
+doc/
+src/Soluble/Schema/
+test/
+.apigen.yml
+.editorconfig
+.gitignore
+.php_cs
+.scrutinizer.yml
+.travis.yml
+CHANGELOG.md
+CONTRIBUTING.md
+LICENSE
+README.md
+composer.json
+mkdocs.yml
+phpcs.xml
+phpunit.xml.dist

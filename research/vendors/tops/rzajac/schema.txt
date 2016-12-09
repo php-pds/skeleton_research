@@ -1,0 +1,12 @@
+docs/
+src/
+test/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock
+db_config_example.json
+docmd.json
+phpunit.xml
+schema

@@ -1,0 +1,4 @@
+lib/Thoom/Generator/
+tests/
+README.md
+composer.json

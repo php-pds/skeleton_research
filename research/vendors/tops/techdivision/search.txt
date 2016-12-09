@@ -1,0 +1,7 @@
+Classes/TechDivision/Search/
+Configuration/
+Documentation/
+Tests/
+.gitignore
+README.md
+composer.json

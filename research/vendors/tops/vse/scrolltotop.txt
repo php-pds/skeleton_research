@@ -1,0 +1,8 @@
+styles/all/
+.gitattributes
+.gitignore
+README.md
+build.xml
+composer.json
+ext.php
+license.txt

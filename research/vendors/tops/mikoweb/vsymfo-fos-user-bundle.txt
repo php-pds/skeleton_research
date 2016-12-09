@@ -1,0 +1,6 @@
+Controller/
+DependencyInjection/
+Resources/config/routing/
+LICENSE
+composer.json
+vSymfoFOSUserBundle.php

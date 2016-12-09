@@ -1,0 +1,15 @@
+app/
+ci/
+features/
+src/main/
+tests/
+www/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+behat.yml
+composer.json
+license.md
+phpunit.php
+phpunit.xml
+readme.md

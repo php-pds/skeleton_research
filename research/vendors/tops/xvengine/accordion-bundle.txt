@@ -1,0 +1,4 @@
+Component/Accordion/
+Resources/
+composer.json
+xvengine.json

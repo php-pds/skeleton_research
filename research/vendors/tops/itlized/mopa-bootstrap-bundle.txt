@@ -1,0 +1,17 @@
+Command/
+Composer/
+DependencyInjection/
+Form/
+Menu/
+Resources/
+Twig/
+.gitignore
+.travis.yml
+BRANCHES.md
+CHANGELOG.md
+LICENSE
+MopaBootstrapBundle.php
+README.md
+UPGRADE-2.1.md
+composer.json
+phpunit.xml.dist

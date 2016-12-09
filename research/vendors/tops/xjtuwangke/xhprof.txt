@@ -1,0 +1,13 @@
+examples/
+extension/
+xhprof_html/
+xhprof_lib/
+.arcconfig
+.gitignore
+.travis.yml
+CHANGELOG
+CREDITS
+LICENSE
+README
+composer.json
+package.xml

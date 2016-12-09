@@ -1,0 +1,8 @@
+components/
+config/
+migrations/
+utilities/
+widgets/
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,9 @@
+src/GibberishAES/
+tests/GibberishAES/
+.gitignore
+.travis.yml
+LICENSE.txt
+README.markdown
+bootstrap.php
+composer.json
+phpunit.xml

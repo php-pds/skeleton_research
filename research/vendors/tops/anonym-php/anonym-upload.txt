@@ -1,0 +1,8 @@
+src/Anonym/Components/
+test/
+.gitignore
+.travis.yml
+LICANSE
+README.md
+composer.json
+index.php

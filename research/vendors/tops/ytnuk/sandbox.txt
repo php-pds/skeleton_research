@@ -1,0 +1,11 @@
+.idea/
+application/
+server/
+.bowerrc
+.gitignore
+Gruntfile.js
+README.md
+Vagrantfile
+bower.json
+composer.json
+package.json

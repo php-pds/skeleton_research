@@ -1,0 +1,8 @@
+dist/
+src/HostBox/Components/PayPal/PaymentButtons/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json

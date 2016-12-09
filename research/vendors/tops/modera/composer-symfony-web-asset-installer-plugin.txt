@@ -1,0 +1,5 @@
+src/Modera/Composer/SymfonyWebAssetInstallerPlugin/
+.gitignore
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,14 @@
+Classes/
+Configuration/TypoScript/
+Documentation/
+Resources/Private/Templates/
+Tests/Unit/Domain/Model/Dto/
+.gitignore
+.travis.yml
+Changelog
+README.md
+composer.json
+ext_emconf.php
+ext_icon.gif
+ext_tables.php
+ext_typoscript_setup.txt

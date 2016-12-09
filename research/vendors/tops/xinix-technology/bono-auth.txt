@@ -1,0 +1,6 @@
+src/Xinix/BonoAuth/
+templates/
+.gitignore
+LICENSE
+README.md
+composer.json

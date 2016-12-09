@@ -1,0 +1,3 @@
+Classes/Futjikato/PluginTsView/
+README.md
+composer.json

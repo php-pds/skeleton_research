@@ -1,0 +1,10 @@
+src/
+tests/units/
+.atoum.php
+.bootstrap.atoum.php
+.gitignore
+.travis.yml
+LICENSE
+README.md
+appveyor.yml
+composer.json

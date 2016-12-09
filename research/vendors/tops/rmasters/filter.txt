@@ -1,0 +1,10 @@
+src/Filter/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+apigen.neon
+composer.json
+composer.lock
+phpunit.xml

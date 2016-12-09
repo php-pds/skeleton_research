@@ -1,0 +1,6 @@
+js/angular/
+.gitignore
+AngularAsset.php
+LICENSE
+README.md
+composer.json

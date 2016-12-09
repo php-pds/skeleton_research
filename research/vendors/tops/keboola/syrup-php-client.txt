@@ -1,0 +1,8 @@
+src/Keboola/Syrup/
+tests/Keboola/Syrup/
+.gitignore
+.travis.yml
+README.md
+bootstrap.php
+composer.json
+phpunit.xml.dist

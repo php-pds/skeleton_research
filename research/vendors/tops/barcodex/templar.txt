@@ -1,0 +1,6 @@
+lib/Kasha/Templar/
+.travis.yml
+README.md
+composer.json
+example.php
+phpunit.xml

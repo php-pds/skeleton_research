@@ -1,0 +1,10 @@
+classes/
+features/
+resources/
+templates/
+.gitignore
+.travis.composer.json
+.travis.yml
+README.md
+behat.yml
+composer.json

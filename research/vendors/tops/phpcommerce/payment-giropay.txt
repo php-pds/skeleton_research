@@ -1,0 +1,9 @@
+src/PHPCommerce/
+.coveralls.yml
+.gitignore
+.travis.yml
+README.md
+autoload.php.dist.php
+composer.json
+composer.lock
+phpunit.xml.dist

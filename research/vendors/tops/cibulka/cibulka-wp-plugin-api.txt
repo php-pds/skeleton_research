@@ -1,0 +1,13 @@
+assets-dev/
+assets-dist/
+plugin/
+src/
+.gitignore
+Plugin.php
+README.md
+__old__bower.json
+__old__gulpfile.js
+buildconfig.json
+cibulka-wp-plugin-api.php
+composer.json
+package.json

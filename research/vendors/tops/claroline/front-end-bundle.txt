@@ -1,0 +1,7 @@
+Resources/public/
+.bowerrc
+FrontEndBundle.php
+LICENSE
+README.md
+bower.json
+composer.json

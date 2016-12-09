@@ -1,0 +1,7 @@
+css/
+inc/
+js/
+composer.json
+post-to-queue.php
+readme.txt
+uninstall.php

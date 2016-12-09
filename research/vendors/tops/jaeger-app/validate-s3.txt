@@ -1,0 +1,8 @@
+src/Validate/Rules/S3/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml

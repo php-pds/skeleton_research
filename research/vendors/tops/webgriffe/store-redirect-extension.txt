@@ -1,0 +1,10 @@
+magento-bash-ci @ d9726cd
+src/app/
+.gitignore
+.gitmodules
+.travis.yml
+LICENSE
+README.md
+composer.json
+modman
+travis.ci.sh

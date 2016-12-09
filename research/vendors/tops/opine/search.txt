@@ -1,0 +1,12 @@
+config/
+docker/
+public/
+src/
+subscribers/
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+README.md
+composer.json
+phpunit.xml

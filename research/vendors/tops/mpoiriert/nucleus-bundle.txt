@@ -1,0 +1,14 @@
+Annotation/
+Application/
+DependencyInjection/
+EventDispatcher/
+Resources/config/
+Tests/
+.gitignore
+.travis.yml
+LICENSE
+NucleusCoreBundle.php
+README.md
+composer.json
+functions.php
+phpunit.xml.dist

@@ -1,0 +1,7 @@
+Classes/Helhum/T3Satis/
+Tests/Helhum/T3satis/Test/TYPO3/Extension/
+bin/
+.gitignore
+README.md
+composer.json
+composer.lock

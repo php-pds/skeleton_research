@@ -1,0 +1,11 @@
+bin/
+config/
+sounds/
+src/
+.codeclimate.yml
+.gitignore
+.scrutinizer.yml
+LICENSE
+README.md
+composer.json
+composer.lock

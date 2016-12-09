@@ -1,0 +1,9 @@
+nbproject/
+src/PGuardiario/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json
+example.php
+example2.php

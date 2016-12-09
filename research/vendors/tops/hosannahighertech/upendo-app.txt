@@ -1,0 +1,10 @@
+.studio/
+shared/
+version 1/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock
+index.php
+system.php

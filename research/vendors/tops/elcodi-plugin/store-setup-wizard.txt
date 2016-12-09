@@ -1,0 +1,15 @@
+Controller/
+DependencyInjection/
+EventListener/
+Resources/
+Services/
+Templating/
+.editorconfig
+.formatter.yml
+CONTRIBUTING.md
+ElcodiStoreSetupWizardBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist
+plugin.yml

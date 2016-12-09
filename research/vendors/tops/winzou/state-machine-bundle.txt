@@ -1,0 +1,11 @@
+Callback/
+Command/
+DependencyInjection/
+Resources/config/
+spec/winzou/Bundle/StateMachineBundle/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+winzouStateMachineBundle.php

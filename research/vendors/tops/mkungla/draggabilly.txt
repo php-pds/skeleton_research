@@ -1,0 +1,12 @@
+dist/
+sandbox/
+test/
+.gitattributes
+.gitignore
+README.md
+bower.json
+composer.json
+contributing.md
+draggabilly.js
+gulpfile.js
+package.json

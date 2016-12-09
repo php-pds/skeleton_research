@@ -1,0 +1,7 @@
+Classes/
+Configuration/
+Resources/Private/
+.styleci.yml
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,11 @@
+src/Mosaiqo/OptimusPrime/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+gulpfile.js
+package.json
+phpspec.yml
+phpunit.xml

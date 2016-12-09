@@ -1,0 +1,8 @@
+DependencyInjection/
+Model/
+Renderer/
+Resources/
+Shortcode/
+Twig/Extension/
+SymEditShortcodeBundle.php
+composer.json

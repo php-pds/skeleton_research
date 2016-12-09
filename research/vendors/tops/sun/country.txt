@@ -1,0 +1,11 @@
+data/
+spec/Sun/
+src/
+vendor/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+autoload.php
+composer.json
+composer.lock

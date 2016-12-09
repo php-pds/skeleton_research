@@ -1,0 +1,5 @@
+etc/
+view/frontend/layout/
+README.md
+composer.json
+registration.php

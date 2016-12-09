@@ -1,0 +1,14 @@
+assets/img/
+components/
+config/
+controllers/
+messages/ru/
+migrations/
+models/
+views/
+CHANGELOG.md
+EauthModule.php
+LICENSE
+README.md
+composer.json
+composer.lock

@@ -1,0 +1,9 @@
+models/
+tests/
+CoreAsset.php
+LICENSE
+README.md
+codecept.phar
+codeception.yml
+composer.json
+yii2visjs.php

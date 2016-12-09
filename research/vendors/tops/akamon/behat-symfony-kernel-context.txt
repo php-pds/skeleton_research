@@ -1,0 +1,8 @@
+features/
+src/
+.gitignore
+.travis.yml
+build.xml
+composer.json
+composer.lock
+phpunit.xml.dist

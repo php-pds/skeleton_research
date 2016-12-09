@@ -1,0 +1,5 @@
+doc/
+lib/
+page/
+README.md
+composer.json

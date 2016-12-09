@@ -1,0 +1,6 @@
+config/
+library/ImboHipsta/
+.gitignore
+LICENSE
+README.md
+composer.json

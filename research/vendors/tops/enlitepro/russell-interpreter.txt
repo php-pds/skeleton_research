@@ -1,0 +1,7 @@
+RussellInterpreter/
+doc/
+tests/
+.gitignore
+LICENSE
+composer.json
+example.php

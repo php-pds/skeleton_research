@@ -1,0 +1,9 @@
+Command/
+Fixtures/
+SampleData/
+Testing/
+.gitignore
+KutnyFixturesBundle.php
+LICENSE
+README.md
+composer.json

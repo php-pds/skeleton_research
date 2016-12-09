@@ -1,0 +1,9 @@
+tests/
+.gitignore
+.travis.yml
+CoreAsset.php
+LICENSE
+README.md
+codeception.yml
+composer.json
+yii2textareaautosize.php

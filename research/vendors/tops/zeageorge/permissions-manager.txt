@@ -1,0 +1,7 @@
+examples/
+src/PermissionsManager/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock

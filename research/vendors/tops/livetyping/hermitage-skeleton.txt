@@ -1,0 +1,10 @@
+config/
+manipulators/
+public/
+storage/
+.env.example
+.gitattributes
+.gitignore
+LICENSE
+README.md
+composer.json

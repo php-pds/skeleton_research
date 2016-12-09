@@ -1,0 +1,9 @@
+src/SleepingOwl/WithJoin/
+tests/
+.gitignore
+.travis.yml
+CHANGELOG
+LICENSE
+README.md
+composer.json
+phpunit.xml

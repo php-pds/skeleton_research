@@ -1,0 +1,7 @@
+apps/
+public/
+shared/
+.gitattributes
+.gitignore
+composer.json
+readme.md

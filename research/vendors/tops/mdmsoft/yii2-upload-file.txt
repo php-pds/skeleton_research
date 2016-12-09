@@ -1,0 +1,9 @@
+migrations/
+Bootstrap.php
+CHANGELOG.md
+FileController.php
+FileModel.php
+LICENSE
+README.md
+UploadBehavior.php
+composer.json

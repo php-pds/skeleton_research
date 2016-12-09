@@ -1,0 +1,4 @@
+template/
+ArtificialAsset.php
+README.md
+composer.json

@@ -1,0 +1,7 @@
+src/
+tests/
+._.DS_Store
+.gitignore
+.travis.yml
+composer.json
+phpunit.xml

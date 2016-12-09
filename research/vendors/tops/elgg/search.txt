@@ -1,0 +1,7 @@
+languages/
+views/
+README.md
+composer.json
+manifest.xml
+search_hooks.php
+start.php

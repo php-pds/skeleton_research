@@ -1,0 +1,12 @@
+_config/
+code/
+css/
+docs/
+images/
+javascript/
+scss/
+templates/
+.gitignore
+.php
+_config.php
+composer.json

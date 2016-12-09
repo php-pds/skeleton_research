@@ -1,0 +1,11 @@
+databases/
+locales/
+src/Sokil/
+tests/
+.coveralls.yml
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock

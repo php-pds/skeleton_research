@@ -1,0 +1,4 @@
+src/Combinatorics/
+.gitignore
+composer.json
+phpunit.xml

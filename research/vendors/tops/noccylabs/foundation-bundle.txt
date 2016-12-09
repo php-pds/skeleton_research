@@ -1,0 +1,6 @@
+bin/
+src/NoccyLabs/FoundationBundle/
+.gitignore
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,8 @@
+docker/
+src/ParaunitTestCase/
+.gitignore
+.scrutinizer.yml
+CHANGELOG-0.x.md
+LICENSE
+README.md
+composer.json

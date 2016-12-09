@@ -1,0 +1,12 @@
+Component/
+.gitignore
+.travis.yml
+CONTRIBUTING.md
+INSTALLATION.md
+LICENSE
+README.md
+circle.yml
+composer.json
+composer.lock
+phpunit.xml
+travis.phpunit.xml

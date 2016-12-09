@@ -1,0 +1,9 @@
+nbproject/
+src/philwc/
+.gitignore
+LICENSE.md
+README.md
+composer.json
+console
+index.php
+settings.dist.yml

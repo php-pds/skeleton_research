@@ -1,0 +1,10 @@
+js/
+translations/
+LICENSE
+README.md
+composer.json
+iresponsive-img.tpl.php
+iresponsive-picture.tpl.php
+iresponsive.field.inc
+iresponsive.info
+iresponsive.module

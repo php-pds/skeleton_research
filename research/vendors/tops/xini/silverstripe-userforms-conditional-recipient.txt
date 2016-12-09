@@ -1,0 +1,6 @@
+_config/
+code/
+.editorconfig
+.htaccess
+README.md
+composer.json

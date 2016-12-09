@@ -1,0 +1,10 @@
+Controller/
+DependencyInjection/
+Form/
+Manager/
+Model/
+Resources/
+.gitignore
+README.md
+UCSSearchBundle.php
+composer.json

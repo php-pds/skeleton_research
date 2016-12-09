@@ -1,0 +1,10 @@
+Admin/
+Command/
+DependencyInjection/
+Model/
+Resources/
+Service/
+.gitignore
+CreonitMailingBundle.php
+LICENSE
+composer.json

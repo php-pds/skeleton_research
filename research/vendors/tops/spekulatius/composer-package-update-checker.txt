@@ -1,0 +1,5 @@
+ComposerUpdateChecker.php
+README.md
+composer-package-update-checker
+composer-package-update-checker.php
+composer.json

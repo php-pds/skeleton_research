@@ -1,0 +1,6 @@
+iconfont/
+.gitignore
+Icon.php
+IconsAsset.php
+README.md
+composer.json

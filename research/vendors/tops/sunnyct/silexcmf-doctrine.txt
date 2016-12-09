@@ -1,0 +1,11 @@
+Query/
+.gitignore
+DBALServiceProvider.php
+LICENSE
+ManagerRegistry.php
+ManagerRegistryServiceProvider.php
+ORMServiceProvider.php
+README.md
+composer.json
+phpdoc.xml
+phpunit.xml

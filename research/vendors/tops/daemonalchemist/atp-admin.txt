@@ -1,0 +1,6 @@
+config/
+public/atp-admin/
+src/ATPAdmin/
+view/atp-admin/
+License.txt
+composer.json

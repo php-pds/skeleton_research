@@ -1,0 +1,10 @@
+app/
+src/
+web/
+.gitignore
+.travis.yml
+Gofile
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

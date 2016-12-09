@@ -1,0 +1,12 @@
+bin/
+src/
+templates/
+.gitignore
+LICENSE.txt
+README.md
+box.json
+composer.json
+composer.lock
+config.yml
+phpqa.yml
+services.yml

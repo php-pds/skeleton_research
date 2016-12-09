@@ -1,0 +1,7 @@
+doc/Horde/Mime/
+lib/Horde/
+locale/
+test/Horde/Mime/
+.gitignore
+composer.json
+package.xml

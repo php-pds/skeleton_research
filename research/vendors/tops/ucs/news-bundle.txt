@@ -1,0 +1,14 @@
+Controller/
+DependencyInjection/
+Doctrine/
+Event/
+Form/
+Propel/
+Resources/
+Tests/
+.gitignore
+NewsEvents.php
+README.md
+UCSNewsBundle.php
+composer.json
+phpunit.xml.dist

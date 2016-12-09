@@ -1,0 +1,4 @@
+src/PHPixie/
+.gitignore
+composer.json
+phpunit.xml

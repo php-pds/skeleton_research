@@ -1,0 +1,5 @@
+src/FBAInboundServiceMWS/
+LICENSE.txt
+NOTICE.txt
+README.md
+composer.json

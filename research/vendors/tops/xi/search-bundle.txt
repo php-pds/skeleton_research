@@ -1,0 +1,15 @@
+Controller/
+DependencyInjection/
+Entity/
+Event/Subscriber/
+Form/
+Resources/
+Service/
+Tests/
+Twig/Extensions/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+XiSearchBundle.php
+composer.json

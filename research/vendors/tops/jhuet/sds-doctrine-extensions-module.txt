@@ -1,0 +1,9 @@
+.travis/
+config/
+src/Sds/DoctrineExtensionsModule/
+tests/
+.gitignore
+.travis.yml
+README.md
+composer.json
+phpunit.xml.dist

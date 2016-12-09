@@ -1,0 +1,12 @@
+DependencyInjection/
+EventDispatcher/
+Injector/
+Resources/
+Tests/
+.gitignore
+.travis.yml
+BazingaPropelEventDispatcherBundle.php
+CONTRIBUTING.md
+README.md
+composer.json
+phpunit.xml.dist

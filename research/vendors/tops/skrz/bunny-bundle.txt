@@ -1,0 +1,16 @@
+Annotation/
+Command/
+DependencyInjection/
+Tests/
+.gitignore
+.travis.yml
+AbstractProducer.php
+AbstractTransactionalProducer.php
+BunnyException.php
+BunnyManager.php
+ContentTypes.php
+LICENSE
+README.md
+SkrzBunnyBundle.php
+composer.json
+phpunit.xml

@@ -1,0 +1,8 @@
+project/
+provision/
+.gitignore
+LICENSE.txt
+README.md
+Vagrantconf
+Vagrantfile
+composer.json

@@ -1,0 +1,14 @@
+bin/
+demo/
+extras/
+lib/
+test/
+.gitignore
+.travis.yml
+CHANGELOG.md
+HOWITWORKS.md
+LICENSE
+README.md
+build.xml
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,17 @@
+build/
+config/
+public/
+src/OrgHeiglGeolocation/
+test/
+vendor/
+view/org-heigl-geolocation/form-element/
+.gitignore
+.travis.install.sh
+.travis.yml
+.vimrc
+Module.php
+README.md
+build.xml
+composer.json
+phpunit.travis.xml
+phpunit.xml.dist

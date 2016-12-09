@@ -1,0 +1,6 @@
+views/
+.gitignore
+CountDownWidget.php
+composer.json
+composer.lock
+readme.md

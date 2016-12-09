@@ -1,0 +1,10 @@
+nbproject/
+src/GeisPointService/
+test/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+cache-dbschema.png
+composer.json
+phpunit.xml

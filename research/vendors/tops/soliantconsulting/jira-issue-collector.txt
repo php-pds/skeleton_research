@@ -1,0 +1,14 @@
+config/
+src/Soliant/JiraIssueCollector/
+tests/
+view/soliant-jira-issue-collector/snippet/
+.codeclimate.yml
+.gitignore
+.travis.yml
+CONTRIBUTING.md
+Gruntfile.js
+LICENSE.txt
+README.md
+composer.json
+package.json
+phpunit.xml.dist

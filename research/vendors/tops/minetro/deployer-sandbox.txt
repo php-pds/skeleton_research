@@ -1,0 +1,6 @@
+src/
+.gitattributes
+.gitignore
+README.md
+box.json
+composer.json

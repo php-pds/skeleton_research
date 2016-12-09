@@ -1,0 +1,9 @@
+config/
+src/PlaygroundEmailCampaign/
+tests/
+views/
+.gitignore
+Module.php
+README.md
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,15 @@
+Command/
+DataCollector/
+DependencyInjection/
+Resources/
+Tests/
+.gitignore
+.travis.yml
+DispatcherConfigurator.php
+EventBandBundle.php
+LICENSE
+ListenerServiceSubscription.php
+README.md
+ServiceSubscription.php
+composer.json
+phpunit.xml.dist

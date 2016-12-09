@@ -1,0 +1,3 @@
+src/Cobaia/Spork/Provider/
+README.md
+composer.json

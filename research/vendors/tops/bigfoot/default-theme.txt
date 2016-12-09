@@ -1,0 +1,10 @@
+DependencyInjection/
+Resources/
+.bowerrc
+.gitignore
+BigfootDefaultThemeBundle.php
+GruntFile.coffee
+README.md
+bower.json
+composer.json
+package.json

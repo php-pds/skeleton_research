@@ -1,0 +1,3 @@
+MariusMandal/UserBundle/
+.gitignore
+composer.json

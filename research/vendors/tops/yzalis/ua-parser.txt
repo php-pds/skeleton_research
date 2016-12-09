@@ -1,0 +1,9 @@
+src/UAParser/
+tests/UAParser/Tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist
+regexes.yml

@@ -1,0 +1,7 @@
+ClassBasedNameTrait.php
+MinimalConfigTrait.php
+README.md
+StandardConfigTrait.php
+VariableFilesystemTrait.php
+YamlEnvironmentTrait.php
+composer.json

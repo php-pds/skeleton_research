@@ -1,0 +1,8 @@
+src/RunOpenCode/Bundle/DoctrineNamingStrategy/
+test/
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.markdown
+composer.json
+phpunit.xml

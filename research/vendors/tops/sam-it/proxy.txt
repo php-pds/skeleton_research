@@ -1,0 +1,8 @@
+src/
+tests/
+.scrutinizer.yml
+LICENSE
+README.md
+composer.json
+phive.xml
+phpunit.xml

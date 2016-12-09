@@ -1,0 +1,5 @@
+.gitignore
+LICENSE
+README.md
+bedrock-autoloader.php
+composer.json

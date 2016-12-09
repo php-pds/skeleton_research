@@ -1,0 +1,6 @@
+css/
+images/
+js/
+src/
+README.md
+composer.json

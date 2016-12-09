@@ -1,0 +1,6 @@
+example/
+lib/Pipe/Silex/
+.gitignore
+LICENSE.txt
+README.md
+composer.json

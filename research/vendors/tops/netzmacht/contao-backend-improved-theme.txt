@@ -1,0 +1,4 @@
+module/
+src/Netzmacht/Contao/BackendImprovedTheme/
+composer.json
+license.txt

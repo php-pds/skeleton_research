@@ -1,0 +1,10 @@
+doc/
+external/
+library/Xi/Test/Selenium/
+tests/
+.gitignore
+Doxyfile
+LICENSE
+README.md
+composer.json
+composer.lock

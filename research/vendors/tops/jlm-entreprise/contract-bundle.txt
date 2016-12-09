@@ -1,0 +1,16 @@
+Controller/
+DependencyInjection/
+Entity/
+Event/
+Form/
+Manager/
+Model/
+Repository/
+Resources/
+Tests/Entity/
+.gitignore
+JLMContractBundle.php
+JLMContractEvents.php
+LICENSE
+README.md
+composer.json

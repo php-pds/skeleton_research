@@ -1,0 +1,16 @@
+CompilerPass/
+DependencyInjection/
+Mapping/
+Provider/
+Resources/
+Tests/
+.editorconfig
+.formatter.yml
+.gitignore
+.php_cs
+.travis.yml
+BaseBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

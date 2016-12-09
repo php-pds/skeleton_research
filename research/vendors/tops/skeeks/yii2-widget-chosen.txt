@@ -1,0 +1,8 @@
+src/
+CHANGELOG.md
+Chosen.php
+ChosenAsset.php
+ChosenBootstrapAsset.php
+LICENSE
+README.md
+composer.json

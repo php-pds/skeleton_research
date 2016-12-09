@@ -1,0 +1,10 @@
+app/config/
+doc/
+include/
+saves/
+src/Draggy/
+tests/Draggy/Autocode/
+.gitignore
+LICENSE
+README.md
+composer.json

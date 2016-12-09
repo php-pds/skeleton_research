@@ -1,0 +1,12 @@
+Controller/
+DependencyInjection/
+Exception/
+Listener/
+Resources/config/
+Serializer/Encoder/
+Service/
+Util/
+.gitignore
+AvtonomWebGateBundle.php
+README.md
+composer.json

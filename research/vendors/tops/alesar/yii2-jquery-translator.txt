@@ -1,0 +1,6 @@
+assets/
+.gitignore
+JqueryTranslatorAsset.php
+LICENSE
+README.md
+composer.json

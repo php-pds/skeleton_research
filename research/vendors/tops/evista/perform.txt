@@ -1,0 +1,15 @@
+client/
+src/
+tests/
+var/uploads/
+.editorconfig
+.gitattributes
+.gitignore
+.travis.yml
+CHANGELOG.md
+CONDUCT.md
+CONTRIBUTING.md
+LICENSE.md
+README.md
+composer.json
+phpunit.xml.dist

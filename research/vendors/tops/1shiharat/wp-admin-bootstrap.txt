@@ -1,0 +1,11 @@
+assets/
+templates/
+.bowerrc
+.gitignore
+README.md
+bower.json
+composer.json
+functions.php
+gulpfile.js
+package.json
+wp-admin-bootstrap.php

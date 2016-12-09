@@ -1,0 +1,11 @@
+components/
+controllers/
+messages/
+migrations/
+models/
+views/
+widgets/
+D3Files.php
+README.md
+composer.json
+translation.php

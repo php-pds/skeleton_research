@@ -1,0 +1,9 @@
+examples/
+ATOM.php
+COPYING
+Feed.php
+Item.php
+README
+RSS1.php
+RSS2.php
+composer.json

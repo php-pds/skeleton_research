@@ -1,0 +1,15 @@
+controllers/
+translations/
+upgrade/
+views/
+CHANGELOG.txt
+Readme.md
+cheque.jpg
+cheque.php
+composer.json
+config.xml
+index.php
+logo.gif
+logo.png
+payment.php
+validation.php

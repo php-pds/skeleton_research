@@ -1,0 +1,13 @@
+src/TreeHouse/Model/Config/
+tests/TreeHouse/Model/Config/Tests/
+.editorconfig
+.gitignore
+.php_cs
+.scrutinizer.yml
+.travis.yml
+CHANGELOG.md
+LICENSE.md
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

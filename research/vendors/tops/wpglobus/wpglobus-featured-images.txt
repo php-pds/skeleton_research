@@ -1,0 +1,11 @@
+assets/
+.gitignore
+Gruntfile.js
+LICENSE
+README.md
+composer.json
+package.json
+readme.txt
+wpglobus-featured-images.js
+wpglobus-featured-images.min.js
+wpglobus-featured-images.php

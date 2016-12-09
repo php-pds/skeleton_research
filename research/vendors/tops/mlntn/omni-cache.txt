@@ -1,0 +1,4 @@
+Cache/
+LICENSE
+README.md
+composer.json

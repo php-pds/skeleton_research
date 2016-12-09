@@ -1,0 +1,14 @@
+Controller/
+DataFixtures/ORM/
+DependencyInjection/
+Entity/
+Event/
+Form/
+Provider/
+Resources/
+Subscriber/
+Tests/Controller/
+Twig/
+BigfootMediaBundle.php
+README.md
+composer.json

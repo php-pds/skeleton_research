@@ -1,0 +1,11 @@
+assets/
+components/
+controllers/
+docs/
+messages/
+migrations/
+models/
+views/
+ContentModule.php
+README.md
+composer.json

@@ -1,0 +1,16 @@
+Command/
+Controller/
+DependencyInjection/
+Entity/
+EventListener/
+Example/
+Exception/
+Form/
+Resources/
+Search/
+Services/
+TemplateList/
+LICENSE
+NewscoopSolrSearchPluginBundle.php
+README.md
+composer.json

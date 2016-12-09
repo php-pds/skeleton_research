@@ -1,0 +1,17 @@
+Tests/
+.gitignore
+ApcClassLoader.php
+ApcUniversalClassLoader.php
+CHANGELOG.md
+ClassCollectionLoader.php
+ClassLoader.php
+ClassMapGenerator.php
+DebugClassLoader.php
+DebugUniversalClassLoader.php
+LICENSE
+MapClassLoader.php
+Psr4ClassLoader.php
+README.md
+UniversalClassLoader.php
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,4 @@
+Entity/
+Service/
+.gitignore
+composer.json

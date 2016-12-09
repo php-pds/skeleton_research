@@ -1,0 +1,16 @@
+Command/
+DependencyInjection/
+Event/
+Parser/
+Resources/config/
+Tests/
+.gitignore
+.travis.yml
+Attachment.php
+AttachmentBuilder.php
+Mail.php
+MailBuilder.php
+PostmanBundle.php
+README.md
+composer.json
+phpunit.xml.dist

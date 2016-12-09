@@ -1,0 +1,11 @@
+Controller/
+Model/
+Resources/doc/
+Service/
+Tests/
+Validation/Constraints/
+.gitignore
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,15 @@
+Controller/
+DependencyInjection/
+Entity/
+Form/Type/
+Provider/
+Resources/
+Service/
+tests/
+.gitignore
+IPCSecurityBundle.php
+build.xml
+composer.json
+phpdox.xml.dist
+phpunit.xml.dist
+sonar-project.properties

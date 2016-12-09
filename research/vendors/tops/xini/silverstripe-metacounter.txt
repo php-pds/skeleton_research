@@ -1,0 +1,7 @@
+_config/
+code/
+css/
+javascript/
+.editorconfig
+.htaccess
+composer.json

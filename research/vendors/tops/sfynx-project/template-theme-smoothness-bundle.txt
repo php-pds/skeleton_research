@@ -1,0 +1,7 @@
+Resources/
+.gitignore
+.travis.yml
+LICENSE
+SfynxSmoothnessBundle.php
+composer.json
+phpunit.xml.dist

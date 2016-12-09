@@ -1,0 +1,8 @@
+docs/
+src/Bravo3/Workflow/
+tests/
+.gitignore
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

@@ -1,0 +1,9 @@
+data/
+doc/images/
+examples/
+src/
+tests/
+.gitignore
+README.md
+composer.json
+phpunit.xml

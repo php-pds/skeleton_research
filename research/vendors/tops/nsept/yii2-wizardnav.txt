@@ -1,0 +1,8 @@
+assets/
+.gitignore
+README.md
+WizardNavAsset.php
+WizardNavWidget.php
+composer.json
+gulpfile.js
+package.json

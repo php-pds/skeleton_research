@@ -1,0 +1,8 @@
+src/LaravelCommode/ValidationLocator/
+tests/LaravelCommode/ValidationLocator/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml

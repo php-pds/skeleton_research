@@ -1,0 +1,7 @@
+src/loganhenson/Core/
+views/
+.gitignore
+composer.json
+composer.lock
+index.php
+readme.md

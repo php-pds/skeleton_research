@@ -1,0 +1,13 @@
+docs/
+src/Clickalicious/Memcached/
+tests/
+.editorconfig
+.gitattributes
+.gitignore
+.scrutinizer.yml
+.travis.yml
+Demo.php
+LICENSE
+README.md
+composer.json
+update-gh-pages.sh

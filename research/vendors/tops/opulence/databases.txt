@@ -1,0 +1,8 @@
+Adapters/Pdo/
+ConnectionPools/
+Providers/
+IConnection.php
+IDriver.php
+IStatement.php
+Server.php
+composer.json

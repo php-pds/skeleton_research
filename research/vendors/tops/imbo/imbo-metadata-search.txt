@@ -1,0 +1,10 @@
+config/
+library/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+Rakefile
+composer.json
+composer.lock

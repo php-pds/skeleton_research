@@ -1,0 +1,7 @@
+assets/
+config/
+dca/
+elements/
+languages/
+templates/
+composer.json

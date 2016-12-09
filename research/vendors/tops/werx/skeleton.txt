@@ -1,0 +1,12 @@
+src/
+web/
+.gitignore
+LICENSE.txt
+PSR2Tabs.xml
+README.md
+codesniffer
+composer.json
+index.html
+install.php
+phpunit.php
+phpunit.xml

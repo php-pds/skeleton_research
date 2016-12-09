@@ -1,0 +1,16 @@
+deploy/
+dev/test/
+src/
+test/
+work/
+.coveralls.yml
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+deploy.sh
+deploy_cfg.sh.init
+deploy_cfg.sh.travis
+templates.vars.json.init
+templates.vars.json.travis

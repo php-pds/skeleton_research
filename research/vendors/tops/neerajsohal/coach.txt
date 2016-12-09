@@ -1,0 +1,12 @@
+bin/
+res/
+src/Coach/
+.coach.dist.json
+.coach.log.txt
+.gitignore
+LICENSE
+README.md
+VERSION
+box.json
+composer.json
+composer.lock

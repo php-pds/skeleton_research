@@ -1,0 +1,8 @@
+admin_actions/
+includes/
+.codeclimate.yml
+CHANGELOG.md
+LICENSE.md
+README.md
+TODO.md
+composer.json

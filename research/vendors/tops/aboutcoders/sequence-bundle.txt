@@ -1,0 +1,13 @@
+DependencyInjection/
+Doctrine/
+Entity/
+Model/
+Resources/config/
+Tests/
+.gitignore
+.travis.yml
+AbcSequenceBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

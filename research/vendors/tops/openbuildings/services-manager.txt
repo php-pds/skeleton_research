@@ -1,0 +1,14 @@
+classes/
+config/
+guide/services-manager/
+tests/
+web/js/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CONTRIBUTING.md
+LICENCE
+README.md
+composer.json
+composer.lock
+phpunit.xml

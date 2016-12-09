@@ -1,0 +1,9 @@
+contrib/
+migrations/
+src/Session/
+tests/unit/
+.gitignore
+composer.json
+composer.lock
+phpunit.xml
+readme.md

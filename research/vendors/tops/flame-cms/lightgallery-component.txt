@@ -1,0 +1,4 @@
+Flame/CMS/Components/LightGallery/
+client-side/
+README.md
+composer.json

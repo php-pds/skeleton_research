@@ -1,0 +1,8 @@
+src/Weew/App/ErrorHandler/BlackHole/
+tests/
+.gitignore
+.travis.yml
+composer.json
+licence.md
+phpspec.yml
+readme.md

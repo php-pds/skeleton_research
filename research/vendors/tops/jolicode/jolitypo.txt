@@ -1,0 +1,11 @@
+src/JoliTypo/
+tests/JoliTypo/Tests/
+.gitignore
+.php_cs
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+TODO.md
+composer.json
+phpunit.xml.dist

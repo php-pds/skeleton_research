@@ -1,0 +1,11 @@
+config/
+icons/
+languages/facebookLogin/
+sql/grid-facebooklogin/site/
+src/Grid/FacebookLogin/
+vendor/
+.gitignore
+LICENSE.txt
+Module.php
+README.md
+composer.json

@@ -1,0 +1,8 @@
+Controller/
+DependencyInjection/
+Resources/
+Services/
+Tests/Controller/
+src/PHPImageWorkshop/
+BiberLtdImageWorkshopBundle.php
+composer.json

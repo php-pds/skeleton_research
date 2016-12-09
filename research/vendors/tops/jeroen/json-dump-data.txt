@@ -1,0 +1,9 @@
+data/
+tests/
+.gitignore
+.travis.yml
+COPYING
+JsonDumpData.php
+README.md
+composer.json
+phpunit.xml.dist

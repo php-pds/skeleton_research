@@ -1,0 +1,6 @@
+DependencyInjection/
+Session/Storage/Handler/
+.gitignore
+README.md
+RedisSessionHandlerBundle.php
+composer.json

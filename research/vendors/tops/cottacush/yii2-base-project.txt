@@ -1,0 +1,14 @@
+app/
+build/
+deploy/
+tests/
+.bowerrc
+.gitignore
+CHANGELOG.md
+LICENSE.md
+README.md
+build.xml
+composer.json
+deploy.php
+yii
+yii.bat

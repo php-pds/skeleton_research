@@ -1,0 +1,5 @@
+assets/
+README.md
+composer.json
+yii2extblocksit.php
+yii2extblocksitAsset.php

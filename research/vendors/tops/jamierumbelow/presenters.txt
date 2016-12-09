@@ -1,0 +1,6 @@
+libraries/
+tests/
+.gitignore
+README.md
+composer.json
+phpunit.xml

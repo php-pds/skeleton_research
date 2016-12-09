@@ -1,0 +1,5 @@
+Vendor/tmhOAuth/
+.gitignore
+BitbucketStrategy.php
+README.md
+composer.json

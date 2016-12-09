@@ -1,0 +1,10 @@
+Controller/
+DependencyInjection/
+REST/
+Resources/
+.gitignore
+CampaignChainChannelCitrixBundle.php
+LICENSE
+README.md
+campaignchain.yml
+composer.json

@@ -1,0 +1,24 @@
+.github/
+hooks/
+resources/img/
+src/
+tests/
+.editorconfig
+.gitattributes
+.gitignore
+.php_cs
+.scrutinizer.yml
+.travis.yml
+CHANGELOG - Copia.md
+CHANGELOG.md
+CONDUCT.md
+CONTRIBUTING.md
+LICENSE.md
+README.md
+composer.json
+composer.lock
+df
+phpunit.xml
+phpunit.xml.dist
+sami_config.php
+workbenchSettings

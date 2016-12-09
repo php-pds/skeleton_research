@@ -1,0 +1,13 @@
+assets/
+classes/
+config/
+dca/
+docs/
+languages/
+models/
+modules/
+templates/
+README.md
+TERMS_OF_USE.txt
+authors.txt
+composer.json

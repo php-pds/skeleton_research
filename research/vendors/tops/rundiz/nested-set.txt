@@ -1,0 +1,7 @@
+Rundiz/NestedSet/
+tests/
+.gitattributes
+LICENSE
+README.md
+composer.json
+phpunit.xml

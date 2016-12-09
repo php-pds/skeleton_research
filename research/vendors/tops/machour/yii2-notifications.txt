@@ -1,0 +1,10 @@
+assets/
+controllers/
+docs/
+migrations/
+models/
+widgets/
+.gitignore
+NotificationsModule.php
+README.md
+composer.json

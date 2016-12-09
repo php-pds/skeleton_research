@@ -1,0 +1,10 @@
+app/
+bin/
+src/
+web/
+.gitignore
+Dockerfile
+LICENSE.txt
+README.md
+composer.json
+index.php

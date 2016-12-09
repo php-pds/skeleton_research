@@ -1,0 +1,12 @@
+docs/
+sample_scripts/
+src/
+tests/
+upgrades/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+VERSION
+composer.json
+phpunit.xml

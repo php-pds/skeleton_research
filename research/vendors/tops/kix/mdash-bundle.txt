@@ -1,0 +1,8 @@
+src/Kix/MdashBundle/
+.gitattributes
+.gitignore
+.travis.yml
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

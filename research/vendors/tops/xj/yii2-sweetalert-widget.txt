@@ -1,0 +1,4 @@
+themes/
+README.md
+SweetalertAsset.php
+composer.json

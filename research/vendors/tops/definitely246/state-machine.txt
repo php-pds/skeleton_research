@@ -1,0 +1,8 @@
+src/StateMachine/
+tests/
+.gitignore
+composer.json
+composer.lock
+phpunit.xml
+readme.md
+vending-machine-fsm.jpg

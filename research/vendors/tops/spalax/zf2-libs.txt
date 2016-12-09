@@ -1,0 +1,6 @@
+config/
+src/Zf2Libs/
+.gitignore
+LICENSE
+README.md
+composer.json

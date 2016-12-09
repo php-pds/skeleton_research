@@ -1,0 +1,14 @@
+Behat/Context/
+Controller/
+DependencyInjection/
+Menu/
+Resources/
+Tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+LugAdminBundle.php
+README.md
+composer.json
+phpunit.xml.dist

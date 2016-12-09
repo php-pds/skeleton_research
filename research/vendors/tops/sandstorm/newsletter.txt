@@ -1,0 +1,9 @@
+Classes/Sandstorm/Newsletter/
+Configuration/
+Documentation/
+Migrations/Mysql/
+Resources/
+Tests/Behavior/
+LICENSE.md
+README.md
+composer.json

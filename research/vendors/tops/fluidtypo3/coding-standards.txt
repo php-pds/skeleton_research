@@ -1,0 +1,5 @@
+TYPO3SniffPool/
+.editorconfig
+commit_message_inspector.php
+composer.json
+ruleset.xml

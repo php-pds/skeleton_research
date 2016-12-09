@@ -1,0 +1,12 @@
+examples/
+src/
+tests/
+.coveralls.yml
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CHANGELOG
+LICENSE
+README.md
+codeception.yml
+composer.json

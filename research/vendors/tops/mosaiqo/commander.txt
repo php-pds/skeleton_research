@@ -1,0 +1,8 @@
+src/Mosaiqo/Commander/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml

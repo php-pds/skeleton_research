@@ -1,0 +1,16 @@
+assets/
+languages/
+src/
+views/
+.gitattributes
+.gitignore
+Gruntfile.js
+LICENSE
+README.md
+VERSION
+composer.json
+package.json
+readme.txt
+resizefly.php
+rzf-test.jpg
+version-check.php

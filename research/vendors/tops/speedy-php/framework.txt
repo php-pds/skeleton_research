@@ -1,0 +1,8 @@
+bin/
+js/
+lib/
+tasks/
+tpls/
+.gitignore
+README.md
+composer.json

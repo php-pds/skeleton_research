@@ -1,0 +1,10 @@
+i18n/
+src/
+www/
+.gitignore
+.travis.yml
+composer.json
+license.md
+phpunit.php
+phpunit.xml
+readme.md

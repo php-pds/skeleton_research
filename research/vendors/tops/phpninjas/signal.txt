@@ -1,0 +1,5 @@
+src/Signal/
+test/Signal/Test/
+.gitignore
+README.md
+composer.json

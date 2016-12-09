@@ -1,0 +1,9 @@
+src/Schickling/QueueChecker/
+tests/
+.editorconfig
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml

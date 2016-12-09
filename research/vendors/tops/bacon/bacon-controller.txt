@@ -1,0 +1,12 @@
+config/
+src/BaconController/
+tests/
+.coveralls.yml
+.gitignore
+.travis.yml
+LICENSE
+Module.php
+README.md
+composer.json
+phpunit.xml.dist
+phpunit.xml.travis

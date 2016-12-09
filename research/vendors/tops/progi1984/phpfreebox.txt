@@ -1,0 +1,6 @@
+samples/
+src/PHPFreebox/
+.gitignore
+.travis.yml
+README.md
+composer.json

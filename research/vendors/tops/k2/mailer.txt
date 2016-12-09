@@ -1,0 +1,7 @@
+Exception/
+phpmailer/
+tests/
+Mailer.php
+README.md
+composer.json
+config.php

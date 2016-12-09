@@ -1,0 +1,13 @@
+src/
+tests/
+.editorconfig
+.gitattributes
+.gitignore
+.travis.yml
+VERSION
+composer.json
+gulpfile.js
+nitpick.json
+package.json
+phpunit.xml.dist
+readme.md

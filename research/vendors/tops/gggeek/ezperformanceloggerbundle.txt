@@ -1,0 +1,10 @@
+DependencyInjection/
+EventListener/
+Resources/config/
+doc/changelogs/
+.gitignore
+GGGeekEZPerformanceLoggerBundle.php
+INSTALL.md
+LICENSE
+README.md
+composer.json

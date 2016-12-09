@@ -1,0 +1,6 @@
+i18n/
+pot/generic/
+.gitignore
+Installation.rst
+composer.json
+composer.lock

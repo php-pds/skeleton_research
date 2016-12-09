@@ -1,0 +1,7 @@
+languages/
+.gitignore
+Gruntfile.js
+README.md
+Taxonomy_Core.php
+composer.json
+package.json

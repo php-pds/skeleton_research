@@ -1,0 +1,5 @@
+src/Middleware/
+.gitignore
+HttpMessagesValidationMiddlewarePlugin.php
+composer.json
+config.php

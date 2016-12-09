@@ -1,0 +1,11 @@
+Command/
+DependencyInjection/
+Resources/
+.gitignore
+.travis.yml
+CypressAngularNgRoutingBundle.php
+Gruntfile.coffee
+README.md
+composer.json
+composer.lock
+package.json

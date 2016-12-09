@@ -1,0 +1,9 @@
+config/
+nbproject/
+src/CdiHelpers/
+view/cdi-entity/
+.gitignore
+Module.php
+README.md
+composer.json
+composer.phar

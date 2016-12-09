@@ -1,0 +1,9 @@
+Src/ConfigReader/
+Tests/
+.gitignore
+.travis.yml
+LICENSE
+Makefile
+README.md
+bootstrap.php
+composer.json

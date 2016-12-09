@@ -1,0 +1,4 @@
+class-jp-wp-rest-api-client.php
+composer.json
+license.txt
+readme.md

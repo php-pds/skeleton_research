@@ -1,0 +1,12 @@
+Command/
+DependencyInjection/
+Model/
+Resources/
+Security/
+Transformer/
+Vanilla/
+.gitignore
+LICENSE
+README.md
+TgaForumBundle.php
+composer.json

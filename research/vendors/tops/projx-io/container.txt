@@ -1,0 +1,11 @@
+spec/ProjxIO/Container/
+src/
+test/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+build.xml
+composer.json
+phpspec.yml
+phpunit.xml

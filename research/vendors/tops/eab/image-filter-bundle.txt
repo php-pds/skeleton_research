@@ -1,0 +1,6 @@
+DependencyInjection/
+Imagine/Filter/
+Resources/config/
+EabImageFilterBundle.php
+README.md
+composer.json

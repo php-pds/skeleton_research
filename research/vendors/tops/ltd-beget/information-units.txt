@@ -1,0 +1,7 @@
+src/LTDBeget/structures/informationUnits/
+.gitignore
+LICENSE
+README.md
+composer.json
+phpdox.xml
+phpunit.xml

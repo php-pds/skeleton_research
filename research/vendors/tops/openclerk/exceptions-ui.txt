@@ -1,0 +1,6 @@
+src/
+templates/
+.gitignore
+composer.json
+composer.lock
+pages.json

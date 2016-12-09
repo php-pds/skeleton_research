@@ -1,0 +1,15 @@
+Action/View/
+Assets/
+Controller/
+Templates/
+Translation/
+web/css/
+.gitignore
+AdminUI.php
+CRUDHandler.php
+CRUDMenuItemFactory.php
+Menu.php
+MenuFolder.php
+MenuItem.php
+View.php
+composer.json

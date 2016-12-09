@@ -1,0 +1,5 @@
+CHANGES 1.0.0.txt
+composer.json
+composer.json~
+mobileDetect.php
+mobileDetect.php~

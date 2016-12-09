@@ -1,0 +1,17 @@
+.github/
+examples/
+src/
+test/
+.editorconfig
+.gitattributes
+.gitignore
+.php_cs
+.scrutinizer.yml
+.travis.yml
+CHANGELOG.md
+CONDUCT.md
+LICENSE
+README.md
+autoload.php
+composer.json
+phpunit.xml

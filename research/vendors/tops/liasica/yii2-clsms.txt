@@ -1,0 +1,6 @@
+.gitignore
+.travis.yml
+Clsms.php
+README.md
+Sdk.php
+composer.json

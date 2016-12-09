@@ -1,0 +1,7 @@
+src/Hydrator/
+tests/
+.gitignore
+.travis.yml
+composer.json
+license.md
+readme.md

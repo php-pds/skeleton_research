@@ -1,0 +1,5 @@
+src/Aspose/Slides/
+tests/
+LICENSE
+README.md
+composer.json

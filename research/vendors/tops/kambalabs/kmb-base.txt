@@ -1,0 +1,16 @@
+config/
+language/
+media/
+public/
+src/KmbBase/
+test/
+view/
+.coveralls.yml
+.gitignore
+.travis.yml
+COPYING
+Module.php
+README.md
+composer.json
+composer.phar
+coverage-checker.php

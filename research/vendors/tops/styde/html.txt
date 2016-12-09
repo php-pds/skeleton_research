@@ -1,0 +1,11 @@
+docs/
+spec/
+src/
+themes/bootstrap/
+.gitignore
+.travis.yml
+LEEME.md
+README.md
+composer.json
+config.php
+phpspec.yml

@@ -1,0 +1,12 @@
+Controller/
+DependencyInjection/
+Manager/
+Persistence/
+Resources/
+Security/
+Util/
+.gitignore
+LICENSE
+NazkaAccessTokenSecurityBundle.php
+README.md
+composer.json

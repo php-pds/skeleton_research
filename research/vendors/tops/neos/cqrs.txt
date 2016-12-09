@@ -1,0 +1,6 @@
+Classes/
+Configuration/
+Migrations/Mysql/
+.styleci.yml
+Readme.md
+composer.json

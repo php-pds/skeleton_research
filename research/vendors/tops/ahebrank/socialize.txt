@@ -1,0 +1,12 @@
+config/
+js/
+src/
+templates/
+README.md
+composer.json
+socialize.info.yml
+socialize.libraries.yml
+socialize.links.menu.yml
+socialize.module
+socialize.permissions.yml
+socialize.routing.yml

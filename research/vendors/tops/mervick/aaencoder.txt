@@ -1,0 +1,6 @@
+.gitignore
+AADecoder.php
+AAEncoder.php
+LICENSE
+README.md
+composer.json

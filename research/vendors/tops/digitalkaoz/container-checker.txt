@@ -1,0 +1,5 @@
+bin/
+src/rs/ContainerServiceChecker/
+.gitignore
+README.md
+composer.json

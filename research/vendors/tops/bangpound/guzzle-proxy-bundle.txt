@@ -1,0 +1,9 @@
+Controller/
+DependencyInjection/
+Resources/config/
+Routing/
+Tests/Controller/
+.gitignore
+BangpoundGuzzleProxyBundle.php
+composer.json
+phpunit.xml.dist

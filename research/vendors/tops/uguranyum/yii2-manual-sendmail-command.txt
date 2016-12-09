@@ -1,0 +1,7 @@
+.idea/
+migration/
+stemplate/
+README.md
+Sendmail.php
+SendmailModel.php
+composer.json

@@ -1,0 +1,4 @@
+Classes/
+example/
+README.md
+composer.json

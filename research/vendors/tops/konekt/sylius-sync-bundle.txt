@@ -1,0 +1,10 @@
+DependencyInjection/
+Model/
+Resources/
+Tests/
+.gitignore
+KonektSyliusSyncBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

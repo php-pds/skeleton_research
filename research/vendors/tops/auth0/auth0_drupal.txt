@@ -1,0 +1,15 @@
+src/
+templates/
+.codeclimate.yml
+.gitignore
+.phpmd.xml
+LICENSE
+README.md
+README.txt
+auth0.info.yml
+auth0.install
+auth0.links.menu.yml
+auth0.links.task.yml
+auth0.module
+auth0.routing.yml
+composer.json

@@ -1,0 +1,3 @@
+src/MediaInspectionLTD/
+composer.json
+composer.phar

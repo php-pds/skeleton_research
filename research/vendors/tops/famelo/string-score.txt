@@ -1,0 +1,4 @@
+Classes/Famelo/StringScore/
+Tests/
+Readme.md
+composer.json

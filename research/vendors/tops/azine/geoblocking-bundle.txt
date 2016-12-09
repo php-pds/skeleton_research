@@ -1,0 +1,13 @@
+Adapter/
+DependencyInjection/
+EventListener/
+Resources/
+Tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+AzineGeoBlockingBundle.php
+README.md
+composer.json
+phpunit.xml.dist
+runPHPUnitTests.sh

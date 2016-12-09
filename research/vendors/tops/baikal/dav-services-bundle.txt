@@ -1,0 +1,7 @@
+Controller/
+DependencyInjection/
+Resources/
+Security/Authorization/Voter/
+Service/
+BaikalDavServicesBundle.php
+composer.json

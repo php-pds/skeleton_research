@@ -1,0 +1,9 @@
+images/
+lang/ru/
+templates/.default/
+.description.php
+.gitignore
+.parameters.php
+README.md
+class.php
+composer.json

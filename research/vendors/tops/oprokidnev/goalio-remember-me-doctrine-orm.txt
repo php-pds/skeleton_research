@@ -1,0 +1,8 @@
+config/
+src/GoalioRememberMeDoctrineORM/
+.gitignore
+.php_cs
+Module.php
+README.md
+composer.json
+phpcs.xml

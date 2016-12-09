@@ -1,0 +1,12 @@
+app/
+src/
+web/
+.gitignore
+.travis.yml
+Gruntfile.js
+LICENSE
+README.rst
+check_vendors.sh
+composer.json
+dev
+package.json

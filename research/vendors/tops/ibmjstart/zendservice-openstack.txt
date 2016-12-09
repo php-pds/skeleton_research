@@ -1,0 +1,6 @@
+library/ZendService/OpenStack/
+tests/
+.gitignore
+LICENSE.txt
+README.md
+composer.json

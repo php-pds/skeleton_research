@@ -1,0 +1,7 @@
+.gitignore
+LICENSE
+TypeChecker.php
+TypeCheckerTest.php
+TypeParser.php
+composer.json
+functions.php

@@ -1,0 +1,12 @@
+config/
+sql/
+src/EvaPermission/
+tests/
+views/admin/
+.travis.yml
+LICENSE.md
+LICENSE.txt
+Module.php
+README.md
+composer.json
+phpunit.xml.dist

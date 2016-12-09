@@ -1,0 +1,12 @@
+DataFixtures/ORM/
+DependencyInjection/
+Entity/
+Form/Type/
+Repository/
+Resources/
+Service/
+.gitignore
+LICENSE
+README.md
+TeapotioBaseUserBundle.php
+composer.json

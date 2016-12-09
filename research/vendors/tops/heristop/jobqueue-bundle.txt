@@ -1,0 +1,16 @@
+Adapter/
+Admin/
+Command/
+DependencyInjection/
+Entity/
+Exception/
+Resources/
+Service/
+Tests/
+.gitignore
+.travis.yml
+HeriJobQueueBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,11 @@
+lib/Dispatcher/
+tests/
+.travis.yml
+README.md
+build.sh
+cli.php
+composer.json
+dispatcher.phar
+package.yml
+phpunit.xml
+service.php

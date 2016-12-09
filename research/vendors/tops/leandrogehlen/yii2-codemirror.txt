@@ -1,0 +1,6 @@
+CHANGELOG.md
+CodeMirror.php
+CodeMirrorAsset.php
+LICENSE.md
+README.md
+composer.json

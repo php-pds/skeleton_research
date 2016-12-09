@@ -1,0 +1,8 @@
+src/agallou/Departements/
+tests/
+.atoum.php
+.coke
+.gitignore
+README.md
+composer.json
+composer.lock

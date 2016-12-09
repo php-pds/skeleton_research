@@ -1,0 +1,5 @@
+Collection/
+Exception/
+README.md
+UrlParser.php
+composer.json

@@ -1,0 +1,14 @@
+src/
+test/
+.gitattributes
+.gitignore
+.travis.yml
+CHANGELOG
+CONTRIBUTING.md
+LICENSE
+README.md
+bower.json
+build.xml
+composer.json
+phpunit.xml
+phpunit.xml.hhvm

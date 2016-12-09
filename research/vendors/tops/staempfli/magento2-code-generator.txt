@@ -1,0 +1,12 @@
+bin/
+config/
+docs/
+privateTemplates/
+samples/templateSample/
+src/Staempfli/Mg2CodeGenerator/
+templates/
+.gitignore
+README.md
+box.json
+composer.json
+composer.lock

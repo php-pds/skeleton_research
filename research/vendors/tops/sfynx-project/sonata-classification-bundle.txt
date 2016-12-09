@@ -1,0 +1,10 @@
+Command/
+Document/
+Entity/
+Resources/config/
+.gitignore
+.travis.yml
+LICENSE
+SfynxClassificationBundle.php
+composer.json
+phpunit.xml.dist

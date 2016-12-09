@@ -1,0 +1,10 @@
+src/
+tests/
+.gitattributes
+.gitignore
+.scruntinizer.yml
+.travis.yml
+README.md
+composer.json
+helpers.php
+phpunit.xml

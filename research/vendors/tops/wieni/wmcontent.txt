@@ -1,0 +1,15 @@
+config/
+src/
+templates/
+LICENSE
+composer.json
+wmcontent.info.yml
+wmcontent.install
+wmcontent.links.action.yml
+wmcontent.links.contextual.yml
+wmcontent.links.menu.yml
+wmcontent.links.task.yml
+wmcontent.module
+wmcontent.permissions.yml
+wmcontent.routing.yml
+wmcontent.services.yml

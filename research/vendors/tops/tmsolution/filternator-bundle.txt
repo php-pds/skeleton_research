@@ -1,0 +1,6 @@
+Controller/
+DependencyInjection/
+Resources/config/
+README.md
+SavvyFilterNatorBundle.php
+composer.json

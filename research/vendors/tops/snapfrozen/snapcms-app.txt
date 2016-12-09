@@ -1,0 +1,9 @@
+environments/
+frontend/
+public_html/
+.gitignore
+composer.json
+init
+init.bat
+requirements.php
+yii.bat

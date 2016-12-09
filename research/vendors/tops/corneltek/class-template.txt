@@ -1,0 +1,9 @@
+src/ClassTemplate/
+tests/
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+composer.json
+phprelease.ini
+phpunit.xml.dist

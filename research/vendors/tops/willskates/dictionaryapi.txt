@@ -1,0 +1,8 @@
+src/WillSkates/Dictionary/
+tests/
+.gitignore
+.travis.yml
+LISCENSE
+README.md
+composer.json
+phpunit.xml.dist

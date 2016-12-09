@@ -1,0 +1,8 @@
+Command/
+DependencyInjection/
+PrepareRelease/
+Resources/config/
+Version/
+.gitignore
+SamsonReleaseBundle.php
+composer.json

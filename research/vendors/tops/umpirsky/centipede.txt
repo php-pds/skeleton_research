@@ -1,0 +1,9 @@
+bin/
+resources/images/
+spec/Centipede/Console/
+src/Centipede/Console/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock

@@ -1,0 +1,13 @@
+config/
+controllers/Controller/
+framework/RedKiteCms/
+plugins/RedKiteCms/
+tests/
+.gitignore
+.travis.yml
+CHANGELOG
+LICENSE
+README.md
+composer.json
+phpdoc.dist.xml
+phpunit.xml.dist

@@ -1,0 +1,7 @@
+actions/reportedcontent/
+graphics/
+languages/
+views/default/
+composer.json
+manifest.xml
+start.php

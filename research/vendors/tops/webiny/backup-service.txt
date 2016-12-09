@@ -1,0 +1,6 @@
+src/Webiny/BackupService/
+.gitignore
+LICENSE
+README.md
+SampleConfig.yaml
+composer.json

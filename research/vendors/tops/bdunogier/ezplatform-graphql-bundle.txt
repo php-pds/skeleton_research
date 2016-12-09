@@ -1,0 +1,10 @@
+Controller/
+DependencyInjection/
+GraphQL/
+Resources/
+Tests/Controller/
+doc/examples/
+BDEzPlatformGraphQLBundle.php
+README.md
+TODO.md
+composer.json

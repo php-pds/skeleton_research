@@ -1,0 +1,6 @@
+classes/
+config/
+CHANGELOG.md
+LICENSE.txt
+README.md
+composer.json

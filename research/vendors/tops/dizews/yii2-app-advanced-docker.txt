@@ -1,0 +1,15 @@
+backend/
+common/
+config/
+console/
+frontend/
+tests/
+.bowerrc
+.gitignore
+Installer.php
+README.md
+composer.json
+composer.lock
+docker-compose-example.yml
+requirements.php
+yii

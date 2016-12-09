@@ -1,0 +1,5 @@
+assets/
+.gitattributes
+.gitignore
+RedactorAsset.php
+composer.json

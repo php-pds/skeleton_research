@@ -1,0 +1,6 @@
+.gitignore
+LICENSE
+README.md
+Slack.hooks.php
+Slack.php
+composer.json

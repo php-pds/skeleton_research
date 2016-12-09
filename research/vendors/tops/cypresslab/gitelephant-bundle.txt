@@ -1,0 +1,13 @@
+Collection/
+Collector/
+Command/
+DependencyInjection/
+Resources/
+Util/
+.gitignore
+CypressGitElephantBundle.php
+LICENSE
+README.md
+composer.json
+composer.lock
+preview.png

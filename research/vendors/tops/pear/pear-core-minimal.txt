@@ -1,0 +1,6 @@
+src/
+.gitattributes
+.gitignore
+README.rst
+composer.json
+copy-from-pear-core.sh

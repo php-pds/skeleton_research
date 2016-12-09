@@ -1,0 +1,8 @@
+DependencyInjection/
+Lucene/
+Resources/config/
+Tests/
+EWZSearchBundle.php
+LICENSE
+README.md
+composer.json

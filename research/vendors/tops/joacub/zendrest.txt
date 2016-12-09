@@ -1,0 +1,6 @@
+library/ZendRest/
+tests/
+.gitignore
+LICENSE.txt
+README.md
+composer.json

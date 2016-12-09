@@ -1,0 +1,11 @@
+configs/
+resources/
+src/
+.editorconfig
+.gitattributes
+.gitignore
+.htaccess
+LICENSE
+README.md
+composer.json
+index.html

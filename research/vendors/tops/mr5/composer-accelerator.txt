@@ -1,0 +1,4 @@
+src/Mr5/ComposerAccelerator/
+.gitignore
+README.md
+composer.json

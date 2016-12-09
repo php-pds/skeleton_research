@@ -1,0 +1,9 @@
+build/
+src/InterNations/Component/Testing/
+tests/InterNations/Component/Testing/Tests/
+.gitignore
+.travis.yml
+README.md
+build.xml
+composer.json
+phpunit.xml.dist

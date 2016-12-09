@@ -1,0 +1,10 @@
+config/
+event/
+tests/
+travis/
+.travis.yml
+README.md
+build.xml
+composer.json
+license.txt
+phpunit.xml.dist

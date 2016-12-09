@@ -1,0 +1,12 @@
+doc/
+src/Clinner/
+tests/
+.gitignore
+.jms.yml
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist
+pinocchio.json

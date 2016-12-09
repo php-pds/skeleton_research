@@ -1,0 +1,8 @@
+LICENSE
+README.md
+composer.json
+jquery.metadata.js
+jquery.tablesorter.js
+jquery.tablesorter.min.js
+jquery.tablesorter.pager.css
+jquery.tablesorter.pager.js

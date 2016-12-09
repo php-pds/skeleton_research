@@ -1,0 +1,12 @@
+Cleaner/
+Test/
+Unicode/
+.gitignore
+.travis.yml
+HtmlCleaner.php
+InputFilter.php
+OutputFilter.php
+README.md
+composer.json
+phpunit.travis.xml
+phpunit.xml.dist

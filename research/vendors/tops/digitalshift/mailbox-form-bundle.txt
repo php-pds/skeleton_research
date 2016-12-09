@@ -1,0 +1,7 @@
+DependencyInjection/
+Form/
+Resources/
+DigitalshiftMailboxFormBundle.php
+LICENSE
+README.md
+composer.json

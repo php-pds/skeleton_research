@@ -1,0 +1,5 @@
+src/Emmetog/Database/
+.gitignore
+README.md
+composer.json
+composer.lock

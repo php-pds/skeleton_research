@@ -1,0 +1,4 @@
+src/Webgriffe/DoctrineFixturesLoader/
+.gitignore
+README.md
+composer.json

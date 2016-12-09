@@ -1,0 +1,11 @@
+src/identity/
+test/
+.gitignore
+.travis.coverage.sh
+.travis.yml
+LICENSE
+README.md
+autoload.php
+composer.json
+composer.lock
+phpunit.xml.dist

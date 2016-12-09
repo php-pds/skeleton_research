@@ -1,0 +1,7 @@
+Client/
+EventListener/
+Parsers/IngestAdapters/
+LICENSE
+NewscoopIngestParserSuperdeskContentAPIBundle.php
+README.md
+composer.json

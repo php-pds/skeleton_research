@@ -1,0 +1,6 @@
+DataCollector/
+DependencyInjection/
+Resources/
+HpatoioBitlyBundle.php
+README.md
+composer.json

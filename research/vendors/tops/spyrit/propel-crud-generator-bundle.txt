@@ -1,0 +1,7 @@
+Command/
+Generator/
+Resources/templates/
+.gitignore
+README.md
+SpyritPropelCrudGeneratorBundle.php
+composer.json

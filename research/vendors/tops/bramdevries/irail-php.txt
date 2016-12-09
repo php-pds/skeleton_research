@@ -1,0 +1,6 @@
+examples/
+src/iRail/
+.gitignore
+README.md
+composer.json
+composer.lock

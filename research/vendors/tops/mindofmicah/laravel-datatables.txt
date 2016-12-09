@@ -1,0 +1,14 @@
+bin/
+public/
+spec/MindOfMicah/LaravelDatatables/
+src/
+storage/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+integrated.json
+phpunit.xml

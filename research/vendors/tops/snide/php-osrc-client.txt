@@ -1,0 +1,10 @@
+sample/
+src/Snide/Osrc/
+tests/
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

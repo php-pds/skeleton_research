@@ -1,0 +1,9 @@
+assets/
+includes/
+.gitignore
+badgeos-timelimit.php
+composer.json
+deploy-config.sh
+license.txt
+readme.md
+readme.txt

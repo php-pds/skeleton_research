@@ -1,0 +1,8 @@
+src/Stiphle/
+tests/src/Stiphle/
+.gitignore
+LICENCE
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

@@ -1,0 +1,7 @@
+assets/
+views/
+Markdown.php
+Markdown2HtmlAsset.php
+MarkdownAsset.php
+README.MD
+composer.json

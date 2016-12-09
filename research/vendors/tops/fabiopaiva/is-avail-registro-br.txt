@@ -1,0 +1,7 @@
+config/
+src/IsAvailRegistroBR/
+view/is-avail-registro-br/is-avail/
+LICENSE
+Module.php
+README.md
+composer.json

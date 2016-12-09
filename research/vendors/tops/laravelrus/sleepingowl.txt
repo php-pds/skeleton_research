@@ -1,0 +1,14 @@
+.github/
+config/
+public/default/
+resources/
+src/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+gulpfile.js
+package.json
+phpunit.xml
+yarn.lock

@@ -1,0 +1,6 @@
+.gitignore
+LICENSE
+README.textile
+checkserver.php
+composer.json
+composer.lock

@@ -1,0 +1,14 @@
+Command/
+Controller/
+DependencyInjection/
+Model/
+Propel/
+Resources/
+.gitignore
+.gitlab-ci.yml
+LICENSE
+README.md
+UAMDatatablesBundle.php
+composer.json
+composer.lock
+phpdoc.dist.xml

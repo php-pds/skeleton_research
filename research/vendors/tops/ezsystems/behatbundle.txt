@@ -1,0 +1,14 @@
+Context/
+Features/
+Helper/
+ObjectManager/
+Resources/config/
+ServiceContainer/
+doc/
+.gitignore
+.travis.yml
+EzSystemsBehatBundle.php
+LICENSE
+README.md
+behat_suites.yml
+composer.json

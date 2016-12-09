@@ -1,0 +1,10 @@
+Config/
+OLOG/Auth/
+PhpAuthDemo/
+public/
+.gitignore
+README.md
+cli.php
+composer.json
+db_phpauth.sql
+run.sh

@@ -1,0 +1,7 @@
+bin/
+extra/
+src/Qis/
+tests/
+.gitignore
+README.md
+composer.json

@@ -1,0 +1,3 @@
+src-min/
+composer.json
+readme.md

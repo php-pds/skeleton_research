@@ -1,0 +1,12 @@
+src/
+testdata/
+tests/
+.gitignore
+.travis.yml
+CHANGELOG.md
+InitTestSuite.php
+LICENSE
+README.md
+TestClass.tt
+composer.json
+phpunit.xml

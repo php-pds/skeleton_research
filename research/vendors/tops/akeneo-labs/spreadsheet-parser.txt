@@ -1,0 +1,10 @@
+spec/Akeneo/Component/SpreadsheetParser/
+src/
+tests/
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENSE.txt
+README.md
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,7 @@
+private/
+.bowerrc
+.gitignore
+.htaccess
+Readme.md
+composer.json
+index.php

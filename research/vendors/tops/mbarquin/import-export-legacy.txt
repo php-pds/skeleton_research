@@ -1,0 +1,7 @@
+build/
+logs/
+src/
+tmp/
+.gitignore
+composer.json
+readme.md

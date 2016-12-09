@@ -1,0 +1,9 @@
+snippets/
+src/Spammers/Laravel/Http/Middleware/
+templates/
+.gitignore
+README.md
+composer.json
+generate.js
+package.json
+spammers.json

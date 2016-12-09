@@ -1,0 +1,7 @@
+config/autoload/
+src/MrfEmailStripper/
+tests/
+.travis.yml
+README.md
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,15 @@
+actions/settings/
+classes/ArckInteractive/Mailgun/
+languages/
+lib/
+views/default/
+.gitattributes
+.gitignore
+CHANGELOG.md
+Gruntfile.js
+README.md
+autoloader.php
+composer.json
+manifest.xml
+package.json
+start.php

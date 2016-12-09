@@ -1,0 +1,9 @@
+spec/RulerZ/Spec/
+src/Spec/
+.gitignore
+.travis.yml
+LICENSE
+Makefile
+README.md
+composer.json
+phpspec.yml

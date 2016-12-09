@@ -1,0 +1,10 @@
+data/
+libraries/
+src/
+templates/
+.htaccess
+README.md
+bootstrap.php
+composer.json
+detect.php
+index.php

@@ -1,0 +1,4 @@
+src/Shop/
+README.md
+bootstrap.php
+composer.json

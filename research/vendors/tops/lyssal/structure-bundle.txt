@@ -1,0 +1,4 @@
+doc/
+src/Lyssal/StructureBundle/
+README.md
+composer.json

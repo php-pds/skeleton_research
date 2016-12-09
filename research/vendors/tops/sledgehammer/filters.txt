@@ -1,0 +1,6 @@
+classes/
+tests/
+.htaccess
+Readme.md
+composer.json
+icon.png

@@ -1,0 +1,15 @@
+actions/
+classes/
+languages/
+lib/
+views/default/
+.gitignore
+.travis.yml
+CHANGES.txt
+README.md
+composer.json
+composer.lock
+deactivate.php
+manifest.xml
+start.php
+views.php

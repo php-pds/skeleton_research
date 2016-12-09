@@ -1,0 +1,10 @@
+spec/watoki/tempan/
+src/watoki/tempan/
+.gitignore
+.travis.yml
+LICENCE
+README.md
+bootstrap.php
+composer.json
+install.php
+phpunit.xml.dist

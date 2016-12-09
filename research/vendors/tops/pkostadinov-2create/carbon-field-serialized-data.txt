@@ -1,0 +1,7 @@
+images/
+languages/
+Carbon_Field_Serialized_Data.php
+LICENSE
+README.md
+carbon-field-serialized-data.php
+composer.json

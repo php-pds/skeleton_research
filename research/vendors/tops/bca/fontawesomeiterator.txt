@@ -1,0 +1,10 @@
+src/BCA/FontAwesomeIterator/
+tests/
+.gitattributes
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpcs.xml
+phpunit.xml.dist

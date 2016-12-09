@@ -1,0 +1,6 @@
+example/
+LICENSE
+README.md
+RestNormalizer.php
+composer.json
+example.php

@@ -1,0 +1,6 @@
+bin/php/
+classes/
+cronjobs/
+cronjobs_disattivati/
+settings/
+composer.json

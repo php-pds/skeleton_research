@@ -1,0 +1,6 @@
+src/Artemsk/Queuedb/
+tests/
+.gitignore
+.travis.yml
+composer.json
+phpunit.xml

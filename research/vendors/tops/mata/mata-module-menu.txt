@@ -1,0 +1,14 @@
+assets/
+components/
+controllers/
+migrations/
+models/
+tests/
+views/
+web/
+.scrutinizer.yml
+Bootstrap.php
+Module.php
+README.md
+composer.json
+module-config.json

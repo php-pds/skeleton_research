@@ -1,0 +1,4 @@
+datas/
+AHistorizer.php
+composer.json
+readme.md

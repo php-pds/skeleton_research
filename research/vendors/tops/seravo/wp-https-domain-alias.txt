@@ -1,0 +1,11 @@
+tests/
+.gitignore
+.travis.yml
+LICENSE
+admin-readme.html
+composer.json
+https-domain-alias.php
+link-relative.js
+phpunit.xml
+readme.md
+readme.txt

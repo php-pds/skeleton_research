@@ -1,0 +1,13 @@
+Datagrid/
+DependencyInjection/
+Resources/
+Tests/
+Util/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+SpyritPropelDatagridBundle.php
+composer.json
+composer.lock
+phpunit.xml.dist

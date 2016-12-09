@@ -1,0 +1,9 @@
+Tests/
+src/
+.gitignore
+CHANGELOG.md
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist
+sample-variable-iterator.php

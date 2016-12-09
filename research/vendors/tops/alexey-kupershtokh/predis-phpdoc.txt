@@ -1,0 +1,5 @@
+bin/
+src/PredisPhpdoc/
+.gitignore
+README.md
+composer.json

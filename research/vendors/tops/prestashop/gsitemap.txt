@@ -1,0 +1,12 @@
+img/
+translations/
+upgrade/
+views/
+Readme.md
+composer.json
+config.xml
+gsitemap-cron.php
+gsitemap.php
+index.php
+logo.gif
+logo.png

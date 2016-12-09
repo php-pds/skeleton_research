@@ -1,0 +1,5 @@
+Event.php
+GlobalTriggerTrait.php
+LICENSE
+README.md
+composer.json

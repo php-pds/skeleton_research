@@ -1,0 +1,14 @@
+faker/
+lib/Zend/
+migrations/
+resources/
+src/QuickTag/
+.gitignore
+.travis.yml
+Vagrantfile
+app.php
+composer.json
+create.sql
+phpunit.xml
+readme.md
+travis.xml

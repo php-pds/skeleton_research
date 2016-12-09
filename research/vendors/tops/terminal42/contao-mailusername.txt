@@ -1,0 +1,6 @@
+config/
+dca/
+languages/
+.gitignore
+MailUsername.php
+composer.json

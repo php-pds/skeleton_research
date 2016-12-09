@@ -1,0 +1,14 @@
+errors/
+storages/
+tests/
+.gitignore
+CHANGELOG.md
+Factory.php
+IFactory.php
+IStorage.php
+LICENSE
+README.md
+composer.json
+cs.sh
+index.php
+phpunit.xml.dist

@@ -1,0 +1,9 @@
+Admin/
+DependencyInjection/
+Resources/
+.gitignore
+CONTRIBUTING.md
+CrunchUserAdminBundle.php
+LICENSE
+README.md
+composer.json

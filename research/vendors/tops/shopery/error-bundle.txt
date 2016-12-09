@@ -1,0 +1,8 @@
+DependencyInjection/
+Exception/
+Listener/
+Resources/config/
+.gitignore
+ErrorBundle.php
+LICENSE
+composer.json

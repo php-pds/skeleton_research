@@ -1,0 +1,4 @@
+locale/
+src/Menu/
+README.md
+composer.json

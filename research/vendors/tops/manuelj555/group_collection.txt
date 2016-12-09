@@ -1,0 +1,3 @@
+src/K2/GroupCollection/
+README.md
+composer.json

@@ -1,0 +1,6 @@
+Command/
+DependencyInjection/
+.gitignore
+AsseticStaticGzipBundle.php
+README.md
+composer.json

@@ -1,0 +1,13 @@
+Command/
+Controller/
+DependencyInjection/
+Entity/
+Model/
+Resources/
+Security/Authentication/Provider/
+Tests/
+.gitignore
+LICENSE
+ManticoraOAuthBundle.php
+README.md
+composer.json

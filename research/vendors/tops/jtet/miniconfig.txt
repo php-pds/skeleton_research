@@ -1,0 +1,4 @@
+src/JTet/MiniConfig/
+.gitignore
+README.md
+composer.json

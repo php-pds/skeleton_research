@@ -1,0 +1,5 @@
+Example/
+src/Activity/
+README.md
+bootstrap.php
+composer.json

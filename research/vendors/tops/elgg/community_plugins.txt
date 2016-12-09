@@ -1,0 +1,17 @@
+.tx/
+actions/plugins/
+classes/
+graphics/
+languages/
+lib/
+tests/Elgg/CommunityPlugins/
+vendors/
+views/
+.gitignore
+README.md
+activate.php
+composer.json
+composer.lock
+deactivate.php
+manifest.xml
+start.php

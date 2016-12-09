@@ -1,0 +1,13 @@
+build/
+spec/
+src/
+test/
+.gitignore
+.php_cs
+Jenkinsfile
+README.md
+composer.json
+phpspec.yml.dist
+phpunit.xml.dist
+project_tests.sh
+puli.json

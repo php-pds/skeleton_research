@@ -1,0 +1,11 @@
+build/config/
+src/Evasive/
+tests/
+travis/
+.coveralls.yml
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

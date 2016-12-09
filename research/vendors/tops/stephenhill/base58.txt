@@ -1,0 +1,10 @@
+benchmarks/
+src/
+tests/
+.gitignore
+.travis.yml
+composer.json
+contributing.md
+license
+phpunit.xml
+readme.md

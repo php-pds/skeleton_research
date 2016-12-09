@@ -1,0 +1,8 @@
+Action/
+Assets/i18nbundle/
+Controller/
+Model/
+Templates/
+bin/
+I18N.php
+composer.json

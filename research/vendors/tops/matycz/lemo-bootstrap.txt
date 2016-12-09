@@ -1,0 +1,6 @@
+config/
+src/LemoBootstrap/
+.gitignore
+Module.php
+README.md
+composer.json

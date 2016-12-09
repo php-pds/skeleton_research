@@ -1,0 +1,13 @@
+Action/
+Command/
+Config/
+Events/
+Generator/
+Output/
+Parser/
+Resources/
+Tests/
+CHANGELOG.md
+Readme.md
+TheliaStudio.php
+composer.json

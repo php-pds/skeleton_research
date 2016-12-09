@@ -1,0 +1,10 @@
+Asserter/
+Bin/
+Praspel/
+Autoloader.php
+CHANGELOG.md
+Exception.php
+Manifest.php
+README.md
+Test.php
+composer.json

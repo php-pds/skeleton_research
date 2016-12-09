@@ -1,0 +1,6 @@
+src/Random/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json

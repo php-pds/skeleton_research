@@ -1,0 +1,9 @@
+.gitignore
+LICENSE
+README.md
+Select2Action.php
+Select2Asset.php
+Select2BootstrapAsset.php
+Select2RegionalAsset.php
+Select2Widget.php
+composer.json

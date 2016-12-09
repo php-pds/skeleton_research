@@ -1,0 +1,6 @@
+src/Addvilz/PhpSpecCover/
+.gitignore
+LICENSE.txt
+README.md
+composer.json
+phpspec.yml

@@ -1,0 +1,14 @@
+Admin/
+Behat/Context/
+DependencyInjection/
+Form/Type/
+Resources/
+features/
+spec/FSi/Bundle/AdminGalleryBundle/
+.gitignore
+.travis.yml
+FSiAdminGalleryBundle.php
+LICENSE.md
+README.md
+behat.yml
+composer.json

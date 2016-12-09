@@ -1,0 +1,12 @@
+Cdn/
+DependencyInjection/
+Filemanager/
+Resources/
+Tests/
+Twig/Extension/
+.gitignore
+.travis.yml
+ClarityCdnBundle.php
+README.md
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,10 @@
+src/Optimus/
+tests/
+.gitignore
+.travis.yml
+README.md
+behat.yml
+composer.json
+composer.lock
+phantomserver.js
+phpunit.xml.dist

@@ -1,0 +1,11 @@
+Command/
+DependencyInjection/
+Manager/
+Resources/
+Tests/
+.gitignore
+.travis.yml
+KitpagesSemaphoreBundle.php
+README.md
+composer.json
+phpunit.xml.dist

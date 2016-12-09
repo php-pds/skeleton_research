@@ -1,0 +1,7 @@
+locales/en-US/
+scripts/
+views/
+LICENSE
+README.md
+composer.json
+manifest.php

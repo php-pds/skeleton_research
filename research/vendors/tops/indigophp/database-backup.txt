@@ -1,0 +1,10 @@
+config/
+examples/config/
+.gitignore
+CHANGELOG.md
+CONTRIBUTING.md
+Phakefile
+README.md
+TODO.md
+bootstrap.php
+composer.json

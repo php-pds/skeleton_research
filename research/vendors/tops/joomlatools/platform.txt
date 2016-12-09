@@ -1,0 +1,15 @@
+app/
+config/
+install/
+lib/
+web/
+.env.example
+.gitignore
+CHANGELOG.md
+CONTRIBUTING.md
+COPYRIGHT.md
+LICENSE.txt
+README.md
+composer.json
+composer.lock
+htaccess.txt

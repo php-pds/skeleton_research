@@ -1,0 +1,12 @@
+Classes/
+Configuration/
+Documentation/
+Meta/
+Migrations/
+Resources/
+Scripts/
+Tests/
+.phpstorm.meta.php
+LICENSE
+Readme.rst
+composer.json

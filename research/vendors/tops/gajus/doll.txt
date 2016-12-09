@@ -1,0 +1,11 @@
+.sandbox/
+src/
+tests/
+.gitignore
+.travis.yml
+CHANGELOG
+CONTRIBUTING.md
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

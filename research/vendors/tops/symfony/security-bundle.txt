@@ -1,0 +1,16 @@
+Command/
+DataCollector/
+DependencyInjection/
+EventListener/
+Resources/
+Security/
+Templating/Helper/
+Tests/
+.gitignore
+CHANGELOG.md
+LICENSE
+README.md
+SecurityBundle.php
+SecurityUserValueResolver.php
+composer.json
+phpunit.xml.dist

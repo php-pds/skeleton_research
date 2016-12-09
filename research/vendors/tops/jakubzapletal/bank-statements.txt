@@ -1,0 +1,12 @@
+Parser/
+Statement/
+Tests/
+doc/
+.coveralls.yml
+.gitignore
+.travis.yml
+LICENSE.md
+README.md
+composer.json
+contributing.md
+phpunit.xml.dist

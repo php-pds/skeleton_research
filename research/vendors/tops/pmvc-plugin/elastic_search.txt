@@ -1,0 +1,8 @@
+src/
+.gitignore
+.travis.yml
+README.md
+composer.json
+elastic_search.php
+phpunit.xml
+test.php

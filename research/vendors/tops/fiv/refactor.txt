@@ -1,0 +1,10 @@
+dev/
+examples/
+src/Fiv/Refactor/
+.gitattributes
+.gitignore
+.travis.yml
+LICENSE.md
+README.md
+composer.json
+composer.lock

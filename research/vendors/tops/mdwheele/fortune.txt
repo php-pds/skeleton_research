@@ -1,0 +1,8 @@
+src/Wheeler/Fortune/
+tests/Wheeler/Fortune/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml

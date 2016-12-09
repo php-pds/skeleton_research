@@ -1,0 +1,12 @@
+Classes/
+Configuration/
+Documentation/
+Resources/
+Tests/Unit/Response/
+composer.json
+ext_emconf.php
+ext_icon.gif
+ext_localconf.php
+ext_tables.php
+ext_tables.sql
+ext_tables_static+adt.sql

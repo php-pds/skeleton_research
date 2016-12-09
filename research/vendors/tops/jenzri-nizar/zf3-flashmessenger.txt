@@ -1,0 +1,7 @@
+asset/
+config/
+src/
+view/zf3/flashmessenger/flashmessenger/
+LICENSE
+README.md
+composer.json

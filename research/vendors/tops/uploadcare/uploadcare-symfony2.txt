@@ -1,0 +1,5 @@
+uploadcare-php @ 6e9638e
+uploadcare/src/
+.gitmodules
+README.md
+composer.json

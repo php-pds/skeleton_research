@@ -1,0 +1,4 @@
+src/Aparser/
+.gitignore
+README.md
+composer.json

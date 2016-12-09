@@ -1,0 +1,15 @@
+docs/
+specs/Spec/
+src/
+.coveralls.yml
+.gitattributes
+.gitignore
+.mailmap
+.php_cs
+.travis.yml
+LICENSE
+README.md
+bootstrap.php
+composer.json
+phpspec.yml.dist
+phpspec_coverage.yml

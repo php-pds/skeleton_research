@@ -1,0 +1,6 @@
+src/
+tests/
+README.mkdn
+composer.json
+demo.php
+phpunit.xml.dist

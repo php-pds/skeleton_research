@@ -1,0 +1,12 @@
+code/
+thirdparty/imgix.js/
+.editorconfig
+.gitattributes
+_config.php
+bower.json
+changelog.md
+code-of-conduct.md
+composer.json
+contributing.md
+license.md
+readme.md

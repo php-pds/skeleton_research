@@ -1,0 +1,7 @@
+Exception/
+.gitignore
+ApiClient.php
+HttpClient.php
+LICENSE
+README.md
+composer.json

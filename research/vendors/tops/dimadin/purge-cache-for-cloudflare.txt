@@ -1,0 +1,5 @@
+inc/
+README.md
+composer.json
+purge-cache-for-cloudflare.php
+uninstall.php

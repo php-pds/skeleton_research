@@ -1,0 +1,17 @@
+migrations/
+models/
+tests/unit/
+.gitignore
+CHANGELOG.md
+Component.php
+Exception.php
+Letter.php
+LetterException.php
+README.md
+RawLetter.php
+UPGRADE.md
+ViewLetter.php
+composer.json
+composer.lock
+example.php
+phpunit.xml.dist

@@ -1,0 +1,12 @@
+Config/
+contato/classes/
+index/classes/
+nbproject/
+parceria/
+produto/
+sobre/
+tests/
+.gitattributes
+.gitignore
+autoload.php
+composer.json

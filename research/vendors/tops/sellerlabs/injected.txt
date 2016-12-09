@@ -1,0 +1,7 @@
+src/SellerLabs/Injected/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json
+phpunit.xml

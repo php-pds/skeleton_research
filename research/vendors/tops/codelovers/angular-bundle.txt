@@ -1,0 +1,10 @@
+DependencyInjection/
+Events/
+Handler/
+Helper/
+Resources/
+.gitignore
+CodeLoversAngularBundle.php
+LICENSE
+README.md
+composer.json

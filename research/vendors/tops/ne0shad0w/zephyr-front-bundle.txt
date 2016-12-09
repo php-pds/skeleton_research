@@ -1,0 +1,8 @@
+Controller/
+DependencyInjection/
+Menu/
+Resources/
+Twig/
+.gitattributes
+FrontBundle.php
+composer.json

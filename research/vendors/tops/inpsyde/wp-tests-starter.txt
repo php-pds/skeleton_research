@@ -1,0 +1,8 @@
+src/WpTestsStarter/
+test/
+.gitignore
+CONTRIBUTING.md
+LICENSE
+README.md
+composer.json
+composer.lock

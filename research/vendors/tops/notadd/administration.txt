@@ -1,0 +1,10 @@
+docs/
+resources/
+src/
+.gitattributes
+.gitignore
+.styleci.yml
+LICENSE
+bootstrap.php
+composer.json
+readme.md

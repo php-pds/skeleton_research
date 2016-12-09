@@ -1,0 +1,11 @@
+Config/Migration/
+Console/Command/
+Lib/
+Model/
+Test/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+VERSION
+composer.json

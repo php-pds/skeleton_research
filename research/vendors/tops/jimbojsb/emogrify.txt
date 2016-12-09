@@ -1,0 +1,4 @@
+src/Emogrify/
+.gitignore
+Readme.md
+composer.json

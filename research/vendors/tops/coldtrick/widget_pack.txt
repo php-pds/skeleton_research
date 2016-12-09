@@ -1,0 +1,12 @@
+classes/ColdTrick/WidgetPack/
+languages/
+views/default/
+.gitignore
+.travis.yml
+CHANGES.txt
+README.md
+composer.json
+composer.lock
+manifest.xml
+start.php
+views.php

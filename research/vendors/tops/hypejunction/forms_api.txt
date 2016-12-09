@@ -1,0 +1,17 @@
+languages/
+sass/
+views/default/elements/forms/
+.gitattributes
+.gitignore
+CHANGELOG.md
+Gemfile
+Gruntfile.js
+README.md
+activate.php
+autoloader.php
+composer.json
+config.rb
+manifest.xml
+package.json
+release.md
+start.php

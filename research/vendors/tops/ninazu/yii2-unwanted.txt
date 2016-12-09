@@ -1,0 +1,4 @@
+provider/
+Checker.php
+README.md
+composer.json

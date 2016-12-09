@@ -1,0 +1,9 @@
+Services/
+example/
+tests/
+.gitignore
+CONTRIBUTORS
+LICENSE
+README.md
+composer.json
+creds-dist.php

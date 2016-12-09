@@ -1,0 +1,10 @@
+spec/Laracasts/TestDummy/
+src/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+composer.json
+phpspec.yml
+phpunit.xml
+readme.md

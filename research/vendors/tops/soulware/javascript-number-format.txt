@@ -1,0 +1,6 @@
+custom/
+scripts/
+.gitignore
+README.md
+composer.json
+manifest.php

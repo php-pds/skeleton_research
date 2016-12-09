@@ -1,0 +1,4 @@
+ObjQuery/
+Estruturar.php
+Query.php
+composer.json

@@ -1,0 +1,10 @@
+Classes/RFY/JWT/
+Configuration/
+Resources/Private/Translations/
+Tests/Unit/Controller/
+.codeclimate.yml
+.travis.yml
+LICENSE.md
+README.md
+UnitTests.xml
+composer.json

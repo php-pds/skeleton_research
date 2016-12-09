@@ -1,0 +1,12 @@
+features/
+src/
+tests/Units/
+www/
+.atoum.bootstrap.php
+.atoum.php
+.gitignore
+.travis.yml
+LICENSE
+README.md
+behat.yml
+composer.json

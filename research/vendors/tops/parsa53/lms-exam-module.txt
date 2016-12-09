@@ -1,0 +1,8 @@
+controllers/
+models/
+views/default/
+.gitattributes
+.gitignore
+Exam.php
+README.md
+composer.json

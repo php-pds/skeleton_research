@@ -1,0 +1,14 @@
+config/
+data/
+module/
+public/
+.bowerrc
+.gitignore
+README.md
+bower.json
+build.xml
+composer.json
+composer.lock
+gulpfile.js
+init_autoloader.php
+package.json

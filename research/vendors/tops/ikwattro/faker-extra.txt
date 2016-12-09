@@ -1,0 +1,8 @@
+src/FakerExtra/Provider/
+tests/Ikwattro/FakerExtra/Tests/Provider/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml

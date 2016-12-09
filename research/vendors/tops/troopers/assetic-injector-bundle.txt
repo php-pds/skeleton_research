@@ -1,0 +1,8 @@
+AssetsCollector/
+DependencyInjection/
+Resources/config/
+Twig/
+LICENSE.md
+README.md
+TroopersAsseticInjectorBundle.php
+composer.json

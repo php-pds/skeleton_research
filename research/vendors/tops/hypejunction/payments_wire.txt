@@ -1,0 +1,16 @@
+actions/payments/checkout/
+classes/hypeJunction/Payments/Wire/
+languages/
+views/default/
+.gitattributes
+.gitignore
+CHANGELOG.md
+Gruntfile.js
+README.md
+autoloader.php
+composer.json
+config.rb
+manifest.xml
+package.json
+release.md
+start.php

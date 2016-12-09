@@ -1,0 +1,5 @@
+spec/D4m/AutoSpecExtension/
+src/D4m/AutoSpecExtension/
+.gitignore
+README.md
+composer.json

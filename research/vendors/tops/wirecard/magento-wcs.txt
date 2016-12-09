@@ -1,0 +1,7 @@
+app/
+js/wirecard/checkoutseamless/
+skin/
+LICENSE
+README.md
+composer.json
+modman

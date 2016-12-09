@@ -1,0 +1,8 @@
+docs/
+src/Logger/Adapter/
+tests/
+.gitignore
+.travis.yml
+README.md
+codeception.yml
+composer.json

@@ -1,0 +1,13 @@
+Exception/
+Test/
+.gitignore
+.travis.yml
+ClassMeta.php
+Container.php
+ContainerAwareInterface.php
+ContainerAwareTrait.php
+DataStore.php
+README.md
+ServiceProviderInterface.php
+composer.json
+phpunit.travis.xml

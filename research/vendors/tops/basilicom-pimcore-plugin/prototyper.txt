@@ -1,0 +1,8 @@
+classes/
+controllers/
+lib/Prototyper/
+views/scripts/admin/
+LICENSE.txt
+README.md
+composer.json
+plugin.xml

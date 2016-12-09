@@ -1,0 +1,9 @@
+docs/
+src/EBT/Validator/
+tests/
+tools/
+.gitignore
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

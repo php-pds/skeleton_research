@@ -1,0 +1,9 @@
+assets/
+config/
+migrations/
+src/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json

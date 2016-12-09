@@ -1,0 +1,9 @@
+src/LeagueWrap/
+tests/
+.travis.yml
+CONTRIBUTING.md
+LICENSE.md
+README.md
+composer.json
+phpunit.php
+phpunit.xml

@@ -1,0 +1,12 @@
+src/
+tests/
+vendor/samsonos/php_core/i18n/
+www/list/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+composer.json
+license.md
+phpunit.php
+phpunit.xml
+readme.md

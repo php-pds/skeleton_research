@@ -1,0 +1,6 @@
+app/
+web/
+.gitignore
+README.md
+bootstrap.php
+composer.json

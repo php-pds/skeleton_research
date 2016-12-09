@@ -1,0 +1,6 @@
+.gitignore
+CHANGELOG.md
+CONTRIBUTING.md
+LICENSE
+README.md
+composer.json

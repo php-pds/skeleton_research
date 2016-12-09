@@ -1,0 +1,17 @@
+app/
+db/
+deploy/
+env/
+public/
+tests/
+.gitignore
+CHANGELOG.md
+CONDUCT.md
+CONTRIBUTING.md
+LICENSE.md
+README.md
+codeception.yml
+composer.json
+deploy.php
+phinx.php
+runtest.sh

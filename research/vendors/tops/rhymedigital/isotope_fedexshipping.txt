@@ -1,0 +1,10 @@
+config/
+dca/
+languages/en/
+library/Rhyme/
+templates/
+vendorapi/
+.gitignore
+LICENSE
+README.md
+composer.json

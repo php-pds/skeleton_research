@@ -1,0 +1,16 @@
+config/
+src/
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CHANGES.md
+CONTRIBUTING.md
+LICENSE
+README-FORMS.md
+README-HELPERS.md
+README.md
+autoload.php
+composer.json
+phpunit.php
+phpunit.xml.dist

@@ -1,0 +1,5 @@
+Resources/public/js/
+.gitignore
+BmatznerMarionetteBundle.php
+README.md
+composer.json

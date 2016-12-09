@@ -1,0 +1,4 @@
+src/Wsp/
+.gitignore
+README.md
+composer.json

@@ -1,0 +1,7 @@
+writer/
+.gitignore
+LICENSE
+README.txt
+composer.json
+index.php
+writer.sql

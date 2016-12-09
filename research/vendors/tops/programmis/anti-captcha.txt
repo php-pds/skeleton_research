@@ -1,0 +1,4 @@
+lib/AntiCaptcha/
+.gitignore
+README.md
+composer.json

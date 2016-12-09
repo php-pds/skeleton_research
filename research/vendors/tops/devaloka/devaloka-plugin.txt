@@ -1,0 +1,17 @@
+loader/
+src/
+.editorconfig
+.gitattributes
+.gitignore
+.mailmap
+.remarkrc
+.travis.yml
+CHANGELOG.md
+GPL-LICENSE.txt
+MIT-LICENSE.txt
+README.md
+composer.json
+devaloka-plugin.php
+gulpfile.js
+package.json
+phpcs.xml.dist

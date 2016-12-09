@@ -1,0 +1,7 @@
+doc/Horde/Mail/
+lib/Horde/Mail/
+locale/
+test/Horde/Mail/
+.gitignore
+composer.json
+package.xml

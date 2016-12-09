@@ -1,0 +1,4 @@
+bin/
+src/Pokey/
+README.md
+composer.json

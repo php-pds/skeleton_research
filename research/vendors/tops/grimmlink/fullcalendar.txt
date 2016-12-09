@@ -1,0 +1,15 @@
+demos/
+lib/
+locale/
+CHANGELOG.txt
+CONTRIBUTING.txt
+LICENSE.txt
+README.md
+composer.json
+fullcalendar.css
+fullcalendar.js
+fullcalendar.min.css
+fullcalendar.min.js
+fullcalendar.print.css
+gcal.js
+locale-all.js

@@ -1,0 +1,15 @@
+.tx/
+assets/
+contao/
+runonce/
+src/
+.check-author.yml
+.gitignore
+.travis.yml
+README.md
+build.default.properties
+build.xml
+composer.json
+composer.lock
+gulpfile.js
+package.json

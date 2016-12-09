@@ -1,0 +1,9 @@
+bin/
+doc/
+ANNOUNCE
+CHANGES
+COPYING
+COPYING3
+INSTALL
+README
+composer.json

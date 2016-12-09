@@ -1,0 +1,5 @@
+contao/config/
+src/ContaoCommunityAlliance/Contao/Events/Cron/
+.gitignore
+README.md
+composer.json

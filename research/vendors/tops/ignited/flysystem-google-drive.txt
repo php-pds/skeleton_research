@@ -1,0 +1,7 @@
+src/Ignited/Flysystem/GoogleDrive/
+tests/
+.gitignore
+.travis.yml
+README.md
+composer.json
+phpunit.xml

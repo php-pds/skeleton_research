@@ -1,0 +1,3 @@
+inc/
+composer.json
+wordpress-nav-menus-improved.php

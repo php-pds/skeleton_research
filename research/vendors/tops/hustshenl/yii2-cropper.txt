@@ -1,0 +1,10 @@
+assets/
+CHANGE.md
+Cropper.php
+CropperAsset.php
+LICENSE.md
+README.md
+ThemeBootstrapAsset.php
+ThemeClassicAsset.php
+ThemeDefaultAsset.php
+composer.json

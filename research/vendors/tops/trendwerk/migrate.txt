@@ -1,0 +1,6 @@
+assets/
+.gitignore
+LICENSE
+README.md
+class-tp-migrate.php
+composer.json

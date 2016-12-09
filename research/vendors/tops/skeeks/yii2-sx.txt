@@ -1,0 +1,15 @@
+assets/
+filters/string/
+traits/
+validate/
+validators/
+CHANGELOG.md
+Dir.php
+Entity.php
+Exception.php
+File.php
+FileSize.php
+Filter.php
+LICENSE
+README.md
+composer.json

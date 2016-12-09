@@ -1,0 +1,6 @@
+Controller/
+Entity/
+Model/
+Resources/
+WidopFacebookJsBundle.php
+composer.json

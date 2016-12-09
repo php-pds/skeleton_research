@@ -1,0 +1,7 @@
+Documentation/
+Examples/
+Package/Captcha/
+.gitignore
+COPYING
+README.md
+composer.json

@@ -1,0 +1,7 @@
+Command/
+DependencyInjection/
+Entity/
+Resources/
+Service/
+SmartSitemapBundle.php
+composer.json

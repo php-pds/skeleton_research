@@ -1,0 +1,8 @@
+.gitattributes
+.gitignore
+LICENSE.txt
+README.md
+Session.php
+composer.json
+gulpfile.js
+package.json

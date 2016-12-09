@@ -1,0 +1,13 @@
+_ide/
+assets/
+components/
+config/
+controllers/
+libs/
+migrations/
+models/
+views/admin-kladr-location/
+CHANGELOG.md
+Module.php
+README.md
+composer.json

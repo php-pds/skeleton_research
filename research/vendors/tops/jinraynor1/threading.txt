@@ -1,0 +1,5 @@
+src/Jinraynor1/Threading/Pcntl/
+tests/
+.gitignore
+README.md
+composer.json

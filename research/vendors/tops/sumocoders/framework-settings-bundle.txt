@@ -1,0 +1,13 @@
+DependencyInjection/
+Entity/
+Exception/
+Resources/
+Tests/
+Twig/
+.gitignore
+.travis.yml
+README.md
+SettingsManager.php
+SumoCodersFrameworkSettingsBundle.php
+composer.json
+phpunit.xml.dist

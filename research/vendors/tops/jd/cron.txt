@@ -1,0 +1,4 @@
+bin/
+src/Cron/CronBundle/
+README.md
+composer.json

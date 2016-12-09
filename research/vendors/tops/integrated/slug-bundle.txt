@@ -1,0 +1,11 @@
+DependencyInjection/
+EventListener/
+Mapping/
+Resources/config/
+Slugger/
+Tests/
+.gitignore
+IntegratedSlugBundle.php
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,14 @@
+bin/
+build/
+library/Robo47/
+resources/languages/
+tests/
+.gitignore
+.travis.yml
+Doxyfile
+LICENSE.NEWBSD
+README.md
+build.xml
+composer.json
+composer.lock
+phpunit.xml.dist

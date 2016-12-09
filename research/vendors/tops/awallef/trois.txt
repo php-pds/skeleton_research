@@ -1,0 +1,16 @@
+.settings/
+Config/
+Console/Command/Task/
+Controller/
+Lib/
+Model/
+View/
+build/
+composer/
+nbproject/
+src/
+webroot/
+.buildpath
+.gitignore
+.project
+readme.md

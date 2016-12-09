@@ -1,0 +1,6 @@
+Classes/
+tests/
+.gitignore
+composer.json
+help.sh
+phpunit.xml

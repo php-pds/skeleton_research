@@ -1,0 +1,8 @@
+DependencyInjection/
+Resources/config/
+CreonitPropelSchemaConverterBundle.php
+LICENSE
+README.md
+SchemaConverter.php
+SchemaLocator.php
+composer.json

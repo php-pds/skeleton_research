@@ -1,0 +1,6 @@
+Models/
+Resources/contao/
+ContaoEloquentExampleProjectBundle.php
+LICENSE
+Readme.md
+composer.json

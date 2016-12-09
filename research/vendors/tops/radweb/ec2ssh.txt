@@ -1,0 +1,6 @@
+src/
+README.md
+composer.json
+composer.lock
+ec2ssh
+ec2ssh-worker

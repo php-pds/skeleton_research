@@ -1,0 +1,10 @@
+src/
+tests/
+.gitignore
+.travis.yml
+LICENSE.txt
+README.md
+build-phar.php
+composer.json
+phpunit.php
+phpunit.xml

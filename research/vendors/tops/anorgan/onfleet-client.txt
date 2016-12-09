@@ -1,0 +1,10 @@
+src/
+tests/
+.editorconfig
+.gitignore
+.php_cs
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

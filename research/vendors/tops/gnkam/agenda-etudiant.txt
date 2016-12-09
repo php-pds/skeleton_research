@@ -1,0 +1,10 @@
+app/
+doc/
+src/
+web/
+.gitignore
+.travis.yml
+COPYING.txt
+LICENSE_SYMFONY
+README.md
+composer.json

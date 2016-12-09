@@ -1,0 +1,10 @@
+data/
+migration/
+model/
+FileAttachable.php
+FileManagedInterface.php
+FileManager.php
+FileUploadAction.php
+FileValidator.php
+README.md
+composer.json

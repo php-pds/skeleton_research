@@ -1,0 +1,11 @@
+public/
+shots/
+src/Pingpong/Whoops/
+tests/
+.bowerrc
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml

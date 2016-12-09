@@ -1,0 +1,9 @@
+DependencyInjection/
+Model/
+Resources/views/CRUD/
+.gitignore
+.rmt.yml
+CHANGELOG
+LICENSE
+NSSonataDoctrineORMAdminBundle.php
+composer.json

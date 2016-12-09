@@ -1,0 +1,6 @@
+app/config/
+src/Arhitect/Cache/
+.gitignore
+LICENSE
+composer.json
+post-install.md

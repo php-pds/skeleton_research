@@ -1,0 +1,5 @@
+Configuration/
+Web/
+.gitignore
+composer.json
+composer.lock

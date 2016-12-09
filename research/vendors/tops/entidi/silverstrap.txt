@@ -1,0 +1,9 @@
+css/
+fonts/
+js/
+lang/
+templates/
+AUTHORS
+COPYING
+README.md
+composer.json

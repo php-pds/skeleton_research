@@ -1,0 +1,12 @@
+bin/
+conf/
+setup/
+src/
+tests/
+.gitignore
+CHANGELOG.txt
+behat.yml
+composer.json
+env.example
+phpunit.xml
+readme.md

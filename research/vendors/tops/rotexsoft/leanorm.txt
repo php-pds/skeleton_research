@@ -1,0 +1,11 @@
+demo/
+docs/
+src/LeanOrm/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+TODO.md
+composer.json
+phpunit.xml.dist

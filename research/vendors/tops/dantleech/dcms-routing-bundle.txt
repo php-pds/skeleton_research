@@ -1,0 +1,11 @@
+src/DCMS/Bundle/RoutingBundle/
+tests/
+.gitignore
+.travis.yml
+README.md
+README.rst
+cli-config.php
+composer.json
+composer.lock
+phpunit.travis.xml
+travis.sh

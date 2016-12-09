@@ -1,0 +1,8 @@
+Auth/
+Exception/
+Wamp/
+.gitignore
+.php_cs
+LICENSE
+README.md
+composer.json

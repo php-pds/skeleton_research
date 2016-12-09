@@ -1,0 +1,11 @@
+SoapClient/
+samples/
+src/
+wsdl/
+.gitignore
+CHANGELOG.md
+LICENSE
+README.md
+composer.json
+generate.sh
+tutorial.php

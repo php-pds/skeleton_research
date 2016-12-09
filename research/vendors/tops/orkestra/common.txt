@@ -1,0 +1,9 @@
+lib/Orkestra/Common/
+tests/Orkestra/Common/Tests/
+.gitignore
+.travis.yml
+CONTRIBUTING.md
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

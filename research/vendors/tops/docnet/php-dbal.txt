@@ -1,0 +1,6 @@
+examples/
+src/Docnet/
+.gitignore
+LICENSE
+README.md
+composer.json

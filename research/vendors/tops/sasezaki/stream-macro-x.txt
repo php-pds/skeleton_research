@@ -1,0 +1,11 @@
+src/StreamMacroX/
+.gitignore
+composer.json
+example-element1.php
+example-template.php
+example-template2.macro
+example-template3.macro
+layout.macro
+test.php
+test2.php
+test3.php

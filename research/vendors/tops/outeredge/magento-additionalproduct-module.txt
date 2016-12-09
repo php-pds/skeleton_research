@@ -1,0 +1,12 @@
+Block/
+Controller/Adminhtml/Product/
+Model/
+Setup/
+Ui/DataProvider/Product/
+etc/
+view/adminhtml/
+.gitignore
+LICENSE
+README.md
+composer.json
+registration.php

@@ -1,0 +1,8 @@
+src/IconScraper/
+tests/IconScraper/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock

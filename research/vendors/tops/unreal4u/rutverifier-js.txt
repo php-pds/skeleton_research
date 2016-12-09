@@ -1,0 +1,9 @@
+dist/
+src/
+tests/
+.gitignore
+.travis.yml
+Gruntfile.js
+README.md
+composer.json
+package.json

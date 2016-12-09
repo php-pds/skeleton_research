@@ -1,0 +1,10 @@
+lib/RubyRainbows/Curl/
+tests/
+.gitignore
+.travis.yml
+Gemfile
+Gemfile.lock
+Guardfile
+composer.json
+composer.lock
+phpunit.xml

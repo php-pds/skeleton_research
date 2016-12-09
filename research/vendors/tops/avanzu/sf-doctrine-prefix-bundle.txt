@@ -1,0 +1,8 @@
+DependencyInjection/
+Resources/config/
+Subscriber/
+Tests/Controller/
+.gitignore
+AvanzuDoctrinePrefixBundle.php
+README.md
+composer.json

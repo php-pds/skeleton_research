@@ -1,0 +1,6 @@
+src/
+.bowerrc
+LICENSE
+README.md
+bower.json
+composer.json

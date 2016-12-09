@@ -1,0 +1,5 @@
+bin/
+.gitignore
+README.md
+build.php
+composer.json

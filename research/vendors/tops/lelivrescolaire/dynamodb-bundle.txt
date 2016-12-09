@@ -1,0 +1,16 @@
+Command/
+DependencyInjection/
+Interfaces/
+Model/
+Resources/config/
+Session/Storage/Handler/
+build-tools/travis-ci/
+.atoum.php
+.bootstrap.atoum.php
+.coke
+.gitignore
+.travis.yml
+LICENSE
+LLSDynamoDBBundle.php
+README.md
+composer.json

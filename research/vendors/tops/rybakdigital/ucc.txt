@@ -1,0 +1,10 @@
+Tests/
+Ucc/
+docs/
+.gitignore
+.travis.yml
+CONTRIBUTING.md
+LICENSE
+README.md
+circle.yml
+composer.json

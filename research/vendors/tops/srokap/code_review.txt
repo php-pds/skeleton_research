@@ -1,0 +1,14 @@
+classes/
+languages/
+screenshots/
+tests/phpunit/
+views/default/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE.txt
+README.md
+composer.json
+manifest.xml
+phpunit.xml
+start.php

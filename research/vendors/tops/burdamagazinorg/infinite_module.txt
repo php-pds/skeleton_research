@@ -1,0 +1,13 @@
+config/
+modules/
+src/
+templates/
+tests/src/Functional/
+.gitignore
+composer.json
+infinite_base.info.yml
+infinite_base.install
+infinite_base.links.menu.yml
+infinite_base.module
+infinite_base.routing.yml
+infinite_base.services.yml

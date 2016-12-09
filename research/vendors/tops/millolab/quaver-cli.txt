@@ -1,0 +1,6 @@
+Quaver/
+bin/
+CHANGELOG.md
+LICENSE
+README.md
+composer.json

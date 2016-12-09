@@ -1,0 +1,8 @@
+etc/
+view/frontend/templates/
+I.php
+LICENSE
+README.md
+Settings.php
+composer.json
+registration.php

@@ -1,0 +1,15 @@
+Controller/Admin/
+DataFixtures/ORM/
+DataGrid/
+DataSet/Admin/
+Entity/
+Factory/
+Form/Admin/
+Manager/
+Repository/
+Resources/
+Tests/
+LICENSE
+README.md
+WellCommerceAvailabilityBundle.php
+composer.json

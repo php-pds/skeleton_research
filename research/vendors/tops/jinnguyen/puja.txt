@@ -1,0 +1,10 @@
+docs/
+examples/
+src/
+.buildpath
+.gitignore
+.project
+ChangeLog
+LICENSE
+README.md
+composer.json

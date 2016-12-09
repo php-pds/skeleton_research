@@ -1,0 +1,9 @@
+example/
+lib/crodas/Worker/
+tests/
+.travis.yml
+README.md
+composer.json
+composer.lock
+phpunit.xml
+service.php

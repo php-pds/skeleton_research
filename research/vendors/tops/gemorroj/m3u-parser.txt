@@ -1,0 +1,7 @@
+Tests/
+src/M3uParser/
+.gitignore
+.travis.yml
+README.md
+composer.json
+phpunit.xml

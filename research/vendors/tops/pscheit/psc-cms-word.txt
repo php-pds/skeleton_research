@@ -1,0 +1,9 @@
+lib/
+tests/Psc/PHPWord/
+.gitignore
+bootstrap.php
+composer.json
+composer.lock
+phpunit.xml.dist
+psc-cms-word.sublime-project
+rmt.json

@@ -1,0 +1,9 @@
+codebase/
+css/
+includes/
+js/
+badgeos-activity-index.php
+composer.json
+license.txt
+readme.md
+readme.txt

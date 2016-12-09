@@ -1,0 +1,10 @@
+bin/
+example/
+generator/plugin/
+src/
+test/
+.gitignore
+LICENSE.md
+README.md
+composer.json
+phpunit.xml.dist

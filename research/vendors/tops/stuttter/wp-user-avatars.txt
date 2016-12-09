@@ -1,0 +1,7 @@
+wp-user-avatars/
+.gitignore
+LICENSE
+README.md
+composer.json
+readme.txt
+wp-user-avatars.php

@@ -1,0 +1,7 @@
+classes/Controller/
+config/
+vendor/
+.gitmodules
+README.md
+composer.json
+init.php

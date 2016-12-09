@@ -1,0 +1,12 @@
+bin/
+src/Compliments/
+tests/Compliments/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+build.xml
+compliments.txt
+composer.json
+phpunit.xml.dist

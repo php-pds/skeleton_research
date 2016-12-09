@@ -1,0 +1,6 @@
+DependencyInjection/
+Entity/
+Resources/config/
+README.md
+Tom32iFileBundle.php
+composer.json

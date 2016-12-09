@@ -1,0 +1,13 @@
+Command/
+DependencyInjection/
+Exception/
+Resources/
+Tests/
+Twig/
+.coveralls.yml
+.gitignore
+.travis.yml
+HTML5CacheBundle.php
+README.md
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,13 @@
+Admin/
+Controller/
+DependencyInjection/
+Entity/
+Listener/
+Manager/
+Model/
+Resources/
+Twig/
+.gitignore
+QualityPressSocialMediaBundle.php
+README.md
+composer.json

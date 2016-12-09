@@ -1,0 +1,7 @@
+IWebServiceProvider.php
+LICENSE.md
+README.md
+WebService.php
+WebServiceAction.php
+WsdlGenerator.php
+composer.json

@@ -1,0 +1,12 @@
+tests/
+.gitignore
+.scrutinizer.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+crudActionBase.php
+crudActionCreate.php
+crudActionDelete.php
+crudActionUpdate.php
+phpunit.xml

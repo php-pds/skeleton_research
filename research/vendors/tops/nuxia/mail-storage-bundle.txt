@@ -1,0 +1,15 @@
+DependencyInjection/
+Doctrine/
+Entity/
+Model/
+Resources/
+Storage/
+Tests/
+.gitignore
+LICENSE
+NuxiaMailStorageBundle.php
+README.md
+SwiftMessageUtils.php
+TODO.md
+composer.json
+phpunit.xml.dist

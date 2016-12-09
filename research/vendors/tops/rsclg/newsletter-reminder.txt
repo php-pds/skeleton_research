@@ -1,0 +1,5 @@
+system/modules/RscNewsletterReminder/
+.gitattributes
+.gitignore
+README.md
+composer.json

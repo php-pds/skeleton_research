@@ -1,0 +1,9 @@
+assets/
+examples/
+src/
+.gitignore
+LICENSE
+README.md
+composer.json
+gulpfile.js
+package.json

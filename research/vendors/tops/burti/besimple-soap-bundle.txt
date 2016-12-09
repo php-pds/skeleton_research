@@ -1,0 +1,17 @@
+Controller/
+Converter/
+DependencyInjection/
+Resources/
+ServiceBinding/
+ServiceDefinition/
+Soap/
+Tests/
+Util/
+.gitignore
+BeSimpleSoapBundle.php
+CONTRIBUTORS.markdown
+Cache.php
+README.markdown
+WebServiceContext.php
+composer.json
+phpunit.xml.dist

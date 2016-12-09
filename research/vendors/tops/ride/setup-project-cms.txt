@@ -1,0 +1,4 @@
+install/ride/
+.gitignore
+composer.json
+readme.md

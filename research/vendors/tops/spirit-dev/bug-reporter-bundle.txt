@@ -1,0 +1,11 @@
+Controller/
+DependencyInjection/
+Entity/
+Form/
+Resources/
+Tests/Controller/
+.gitignore
+LICENSE
+README.md
+SpiritDevBugReporterBundle.php
+composer.json

@@ -1,0 +1,7 @@
+config/
+src/DeitAuthorisationModule/
+view/error/
+.gitignore
+Module.php
+README.md
+composer.json

@@ -1,0 +1,8 @@
+components/
+migrations/
+models/
+tests/
+.gitignore
+README.md
+codeception.template.yml
+composer.json

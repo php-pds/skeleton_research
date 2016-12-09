@@ -1,0 +1,10 @@
+bin/
+config/
+src/
+test/
+vendor/
+.gitignore
+.scrutinizer.yml
+README.md
+composer.json
+phpunit.xml.dist

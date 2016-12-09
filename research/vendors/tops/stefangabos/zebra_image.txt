@@ -1,0 +1,9 @@
+examples/
+README.md
+Zebra_Image.php
+changelog.txt
+composer.json
+documentation.txt
+index.html
+license.txt
+readme.txt

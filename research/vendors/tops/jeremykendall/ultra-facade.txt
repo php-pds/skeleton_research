@@ -1,0 +1,8 @@
+src/JeremyKendall/UltraFacade/
+tests/
+.gitignore
+CONTRIBUTING.md
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

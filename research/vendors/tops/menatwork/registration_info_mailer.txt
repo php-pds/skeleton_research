@@ -1,0 +1,4 @@
+system/modules/registration_info_mailer/
+.gitignore
+README.md
+composer.json

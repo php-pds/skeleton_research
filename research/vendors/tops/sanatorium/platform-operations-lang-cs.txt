@@ -1,0 +1,4 @@
+extensions/
+workshop/
+.DS_Store
+composer.json

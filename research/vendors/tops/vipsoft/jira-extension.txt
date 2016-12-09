@@ -1,0 +1,13 @@
+doc/
+src/VIPSoft/JiraExtension/
+tests/VIPSoft/JiraExtension/Tests/Service/
+.gitignore
+LICENSE
+README.md
+autoload.php
+behat.yml.dist
+build.php
+composer.json
+composer.lock
+init.php
+phpunit.xml.dist

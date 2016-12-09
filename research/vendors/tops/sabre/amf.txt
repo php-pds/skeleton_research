@@ -1,0 +1,9 @@
+examples/
+integrations/drupal/module/sabreamf/
+lib/SabreAMF/
+.gitignore
+ChangeLog
+LICENCE
+README.md
+build.xml
+composer.json

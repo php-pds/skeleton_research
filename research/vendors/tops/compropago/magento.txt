@@ -1,0 +1,9 @@
+app/
+js/compropago/
+lib/Compropago/
+media/cppayment/
+skin/frontend/base/default/compropago/
+.gitignore
+CHANGELOG.md
+LICENSE
+README.md

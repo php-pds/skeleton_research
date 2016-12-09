@@ -1,0 +1,6 @@
+Resources/public/js/
+.gitignore
+LICENSE
+README.md
+StingerBootstrapMaxLengthJsBundle.php
+composer.json

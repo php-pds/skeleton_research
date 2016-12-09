@@ -1,0 +1,13 @@
+bin/
+conf/
+resource/
+task/tao/extension/
+.gitignore
+.gitmodules
+LICENSE
+README.md
+build.xml
+compileJsCss.xml
+composer.json
+tools.md
+tools.xml

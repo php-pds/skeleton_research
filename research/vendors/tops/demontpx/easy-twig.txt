@@ -1,0 +1,11 @@
+src/
+templates/
+web/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+config.php
+phpunit.xml

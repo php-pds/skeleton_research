@@ -1,0 +1,6 @@
+src/DoctrineTest/
+tests/DoctrineTest/Test/
+.gitignore
+LICENSE
+README.md
+composer.json

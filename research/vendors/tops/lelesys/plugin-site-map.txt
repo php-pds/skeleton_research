@@ -1,0 +1,5 @@
+Classes/Lelesys/Plugin/SiteMap/TypoScript/
+Configuration/
+Resources/
+README.md
+composer.json

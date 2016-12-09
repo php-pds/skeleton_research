@@ -1,0 +1,11 @@
+config/
+src/NeobazaarSitemap/
+tests/
+view/
+.gitignore
+LICENSE
+Module.php
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

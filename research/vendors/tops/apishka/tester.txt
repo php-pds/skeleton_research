@@ -1,0 +1,9 @@
+bin/
+source/Apishka/Tester/
+.apishka.php
+.editorconfig
+.gitignore
+.php_cs
+.travis.yml
+composer.json
+composer.lock

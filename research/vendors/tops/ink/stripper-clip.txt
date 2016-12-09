@@ -1,0 +1,7 @@
+.phar/
+bin/
+src/Ink/StripperClip/
+.gitignore
+README.md
+build.clip.php
+composer.json

@@ -1,0 +1,11 @@
+demo/
+src/Alchemy/TaskManager/
+tests/
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+composer.json
+phpunit-functional.xml.dist
+phpunit.xml.dist

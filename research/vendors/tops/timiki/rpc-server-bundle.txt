@@ -1,0 +1,12 @@
+Command/
+Controller/
+DependencyInjection/
+Mapping/
+Resources/skeleton/
+Server/
+Tests/
+.gitignore
+README.md
+RpcServerBundle.php
+composer.json
+phpunit.xml

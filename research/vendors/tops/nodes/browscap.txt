@@ -1,0 +1,13 @@
+.travis-scripts/
+bin/
+resources/
+src/
+tests/
+.gitattributes
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,6 @@
+etc/
+view/frontend/layout/
+LICENSE.txt
+README.md
+composer.json
+registration.php

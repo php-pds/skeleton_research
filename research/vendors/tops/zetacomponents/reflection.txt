@@ -1,0 +1,10 @@
+design/
+src/
+tests/
+.gitignore
+CREDITS
+DESCRIPTION
+LICENSE.txt
+TODO
+composer.json
+phpunit.xml.dist

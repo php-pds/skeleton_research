@@ -1,0 +1,8 @@
+Classes/
+Configuration/
+Resources/
+Tests/Unit/
+LICENSE
+README.md
+composer.json
+graphiql.png

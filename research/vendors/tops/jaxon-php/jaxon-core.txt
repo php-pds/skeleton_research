@@ -1,0 +1,7 @@
+src/
+templates/
+translations/
+.gitignore
+LICENSE
+README.md
+composer.json

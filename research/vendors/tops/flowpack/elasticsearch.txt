@@ -1,0 +1,8 @@
+Classes/Flowpack/ElasticSearch/
+Configuration/
+Documentation/
+Tests/Functional/
+.styleci.yml
+LICENSE
+README.md
+composer.json

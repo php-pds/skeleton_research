@@ -1,0 +1,13 @@
+docs/
+lib/
+tests/
+.codeclimate.yml
+.coveralls.yml
+.gitignore
+.travis.yml
+LICENCE
+README.md
+composer.json
+phpcs.xml
+phpunit.xml
+ruleset.xml

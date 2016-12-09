@@ -1,0 +1,8 @@
+Config/
+EventListeners/
+Loop/
+Service/
+Smarty/Plugins/
+README.md
+RecentlyViewed.php
+composer.json

@@ -1,0 +1,12 @@
+deploy/
+dev/fw/
+src/
+test/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+deploy.sh
+deploy_cfg.sh.init
+deploy_cfg.sh.travis

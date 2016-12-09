@@ -1,0 +1,7 @@
+src/Lavoiesl/Validation/Email/SMTP/
+test/Lavoiesl/Validation/Email/SMTP/Test/
+.gitignore
+README.md
+TODO.md
+composer.json
+phpunit.xml

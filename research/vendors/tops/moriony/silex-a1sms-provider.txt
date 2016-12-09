@@ -1,0 +1,7 @@
+src/Moriony/Silex/Provider/
+tests/Moriony/Silex/Provider/
+.gitignore
+.travis.yml
+README.md
+composer.json
+phpunit.xml

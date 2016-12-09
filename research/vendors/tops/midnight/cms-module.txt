@@ -1,0 +1,8 @@
+config/
+mapping/
+public/
+src/
+view/midnight/cms-module/
+.gitignore
+README.md
+composer.json

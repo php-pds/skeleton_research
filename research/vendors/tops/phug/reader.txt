@@ -1,0 +1,15 @@
+.idea/
+bin/
+src/Phug/
+tests/Phug/
+.gitattributes
+.gitignore
+.travis.yml
+CONTRIBUTING.md
+LICENSE.md
+README.md
+composer.json
+composer.lock
+phpcs.xml
+phpdoc.xml
+phpunit.xml

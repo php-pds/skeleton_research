@@ -1,0 +1,8 @@
+bin/
+src/Silex/
+.gitignore
+LICENSE
+README.md
+SILEX.rst
+composer.json
+phpunit.xml.dist

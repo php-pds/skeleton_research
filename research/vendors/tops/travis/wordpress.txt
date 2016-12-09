@@ -1,0 +1,5 @@
+src/Travis/
+.gitignore
+composer.json
+license.txt
+readme.md

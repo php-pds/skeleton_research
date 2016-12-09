@@ -1,0 +1,6 @@
+DependencyInjection/
+Resources/
+.gitignore
+ArtackMxApiBundle.php
+README.md
+composer.json

@@ -1,0 +1,10 @@
+config/
+src/InfluxDBModule/Service/Factory/
+tests/
+.gitignore
+LICENCE
+Module.php
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

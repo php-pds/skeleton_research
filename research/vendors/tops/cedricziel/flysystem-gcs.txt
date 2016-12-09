@@ -1,0 +1,12 @@
+res/
+src/
+tests/
+.gitignore
+.gitlab-ci.yml
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist
+test-key.json.enc

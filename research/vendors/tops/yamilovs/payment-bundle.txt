@@ -1,0 +1,15 @@
+Admin/
+Component/HttpFoundation/
+Controller/
+DependencyInjection/
+Entity/
+Event/
+Manager/
+Repository/
+Resources/
+Tests/
+.gitignore
+README.md
+YamilovsPaymentBundle.php
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,17 @@
+src/
+tests/
+.dockerignore
+.dunitconfig
+.gitattributes
+.gitignore
+.travis.yml
+Dockerfile
+Dockerfile-56
+LICENSE
+README.md
+composer.json
+composer.lock
+docker-compose.base.yml
+docker-compose.yml
+phpunit.xml.dist
+test.sh

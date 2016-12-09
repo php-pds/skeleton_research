@@ -1,0 +1,9 @@
+SCREENSHOTS/
+actions/b_extended_profile/
+js/endorsements/
+languages/
+views/default/
+RELEASE_NOTES.txt
+composer.json
+manifest.xml
+start.php

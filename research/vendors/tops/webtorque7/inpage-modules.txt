@@ -1,0 +1,15 @@
+code/
+css/
+docs/images/
+images/
+javascript/
+templates/
+tests/
+.editorconfig
+.gitattributes
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+_config.php
+composer.json

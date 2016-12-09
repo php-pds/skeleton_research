@@ -1,0 +1,13 @@
+config/
+icons/
+languages/share/
+public/
+sql/grid-share/site/
+src/Grid/Share/
+vendor/
+view/grid/
+.gitignore
+LICENSE.txt
+Module.php
+README.md
+composer.json

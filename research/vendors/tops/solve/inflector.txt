@@ -1,0 +1,6 @@
+Tests/
+.gitignore
+Inflector.php
+LICENSE
+README.md
+composer.json

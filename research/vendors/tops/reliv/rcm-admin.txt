@@ -1,0 +1,13 @@
+config/
+public/
+src/
+test/
+view/rcm-admin/
+.gitignore
+.travis.yml
+LICENSE.txt
+Module.php
+README.md
+composer.json
+phpmd.xml
+phpunit.xml

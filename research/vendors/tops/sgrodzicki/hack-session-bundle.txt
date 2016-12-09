@@ -1,0 +1,6 @@
+DependencyInjection/
+Listener/
+Resources/config/
+GillesHackSessionBundle.php
+README.markdown
+composer.json

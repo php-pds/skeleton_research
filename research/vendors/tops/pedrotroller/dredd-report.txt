@@ -1,0 +1,7 @@
+doc/
+spec/PedroTroller/DreddReport/
+src/PedroTroller/DreddReport/
+.gitignore
+README.md
+composer.json
+phpspec.yml

@@ -1,0 +1,9 @@
+src/DebugTools/
+tests/
+.gitattributes
+.gitignore
+GNU Lesser General Public License v2.1 - GNU Project - Free Software Foundation.html
+README.html
+README.md
+REVISION.TXT
+composer.json

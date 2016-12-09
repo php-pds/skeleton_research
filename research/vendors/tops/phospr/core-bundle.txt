@@ -1,0 +1,11 @@
+Controller/
+DependencyInjection/
+Entity/
+Request/ParamConverter/
+Resources/
+Tests/Entity/
+.gitignore
+LICENSE
+PhosprCoreBundle.php
+README.md
+composer.json

@@ -1,0 +1,8 @@
+actions/
+controllers/
+models/
+.gitignore
+AbstractModule.php
+LICENSE
+README
+composer.json

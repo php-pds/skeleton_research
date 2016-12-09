@@ -1,0 +1,8 @@
+actions/developers/
+classes/
+languages/
+vendors/jsTree/
+views/default/
+composer.json
+manifest.xml
+start.php

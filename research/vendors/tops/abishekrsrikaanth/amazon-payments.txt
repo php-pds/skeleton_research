@@ -1,0 +1,5 @@
+src/AmazonPayments/
+.gitattributes
+.gitignore
+README.md
+composer.json

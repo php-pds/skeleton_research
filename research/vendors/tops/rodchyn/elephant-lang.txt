@@ -1,0 +1,13 @@
+lib/ParserGenerator/
+src/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+autoload.php
+composer.json
+composer.lock
+console
+parser.y
+phpunit.xml.dist

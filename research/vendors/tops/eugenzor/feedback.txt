@@ -1,0 +1,8 @@
+config/
+docs/images/
+src/Feedback/Controller/
+view/feedback/feedback/
+LICENSE
+Module.php
+README.md
+composer.json

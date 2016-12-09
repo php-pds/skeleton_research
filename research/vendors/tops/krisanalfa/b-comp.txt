@@ -1,0 +1,4 @@
+src/BComp/
+.gitignore
+README.md
+composer.json

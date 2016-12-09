@@ -1,0 +1,9 @@
+Command/
+DependencyInjection/
+Extension/
+Resources/config/
+Routing/
+LICENSE
+LswGettextTranslationBundle.php
+README.md
+composer.json

@@ -1,0 +1,13 @@
+assets/
+controllers/
+migrations/
+models/
+views/review/
+web/
+widgets/
+.gitignore
+.htaccess
+LICENSE.md
+Module.php
+README.md
+composer.json

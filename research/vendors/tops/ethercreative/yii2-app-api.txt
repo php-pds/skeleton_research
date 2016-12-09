@@ -1,0 +1,16 @@
+components/
+config/
+controllers/
+mail/layouts/
+migrations/
+models/
+runtime/
+web/
+.bowerrc
+.gitignore
+LICENSE
+README.md
+composer.json
+requirements.php
+yii
+yii.bat

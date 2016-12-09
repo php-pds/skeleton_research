@@ -1,0 +1,3 @@
+Resources/config/
+GeneratorBundle.php
+composer.json

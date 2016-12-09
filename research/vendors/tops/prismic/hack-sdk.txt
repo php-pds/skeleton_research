@@ -1,0 +1,10 @@
+hhi/
+samples/
+src/
+tests/
+.gitignore
+.hhconfig
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

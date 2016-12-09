@@ -1,0 +1,12 @@
+app/
+src/
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE.md
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist
+puli.json

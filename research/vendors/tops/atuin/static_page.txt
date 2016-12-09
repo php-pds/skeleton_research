@@ -1,0 +1,9 @@
+config/
+controllers/admin/
+migrations/
+models/
+routes/backend/
+views/admin/static-page/
+.gitignore
+Module.php
+composer.json

@@ -1,0 +1,15 @@
+DataCollector/
+DependencyInjection/
+Exception/
+Http/
+Logger/
+Resources/
+Tests/
+.gitignore
+.travis.yml
+DaApiClientBundle.php
+LICENSE
+README.md
+VERSION
+composer.json
+phpunit.xml.dist

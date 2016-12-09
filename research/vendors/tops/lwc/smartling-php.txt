@@ -1,0 +1,5 @@
+lib/Smartling/
+.gitignore
+README.md
+composer.json
+example.php

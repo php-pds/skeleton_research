@@ -1,0 +1,14 @@
+bin/
+dicts/
+examples/
+src/
+utils/
+AUTHORS
+CHANGES
+COPYING
+INSTALL
+Morphy.php
+README
+README.md
+composer.json
+options.ru_ru.ini

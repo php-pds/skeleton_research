@@ -1,0 +1,14 @@
+examples/
+src/
+tests/
+.gitignore
+.travis.yml
+AUTHORS.md
+HOW-TO-INSTALL.md
+HOW-TO-USE.md
+LICENSE
+README.md
+autoload.php
+composer.json
+phpunit.xml
+travisphp.ini

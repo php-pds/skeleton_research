@@ -1,0 +1,8 @@
+Admin/
+Block/
+Controller/Admin/
+DependencyInjection/
+Resources/
+LICENSE.txt
+PurethinkAdminBundle.php
+composer.json

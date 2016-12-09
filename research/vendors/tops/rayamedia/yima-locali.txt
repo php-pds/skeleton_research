@@ -1,0 +1,6 @@
+config/
+src/yimaLocali/
+LICENSE
+Module.php
+README.md
+composer.json

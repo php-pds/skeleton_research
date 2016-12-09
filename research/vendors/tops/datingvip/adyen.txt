@@ -1,0 +1,6 @@
+src/DatingVIP/Payment/Adyen/
+.gitignore
+README.md
+composer.json
+composer.lock
+example.php

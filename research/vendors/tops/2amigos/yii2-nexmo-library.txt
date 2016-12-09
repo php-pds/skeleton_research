@@ -1,0 +1,16 @@
+docs/
+messages/en/dosamigos/
+.gitignore
+Account.php
+Client.php
+DeliveryCallbackAction.php
+DeliveryCallbackEvent.php
+DeliveryReceipt.php
+InboundCallbackAction.php
+InboundCallbackEvent.php
+InboundMessage.php
+LICENSE.txt
+Object.php
+README.md
+Sms.php
+composer.json

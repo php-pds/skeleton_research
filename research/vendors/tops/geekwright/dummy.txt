@@ -1,0 +1,9 @@
+admin/
+docs/
+icons/
+include/
+language/
+README.md
+composer.json
+index.html
+xoops_version.php

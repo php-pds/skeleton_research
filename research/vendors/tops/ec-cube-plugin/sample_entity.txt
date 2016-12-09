@@ -1,0 +1,10 @@
+Entity/
+Repository/
+Resource/doctrine/
+migration/
+LICENSE.txt
+PluginManager.php
+README.md
+SampleEntity.php
+composer.json
+config.yml

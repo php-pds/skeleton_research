@@ -1,0 +1,4 @@
+src/Curl/
+.gitignore
+LICENSE
+composer.json

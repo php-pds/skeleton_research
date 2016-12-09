@@ -1,0 +1,5 @@
+.gitignore
+class-varnish-purge.php
+composer.json
+varnish.php
+wordpress.vcl.example

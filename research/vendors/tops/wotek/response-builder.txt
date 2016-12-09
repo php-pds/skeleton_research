@@ -1,0 +1,14 @@
+doc/
+docs/
+example/
+src/Wtk/
+tests/
+.coveralls.yml
+.gitignore
+.travis.yml
+LICENSE
+README.md
+classlist.md
+composer.json
+composer.lock
+phpunit.xml.dist

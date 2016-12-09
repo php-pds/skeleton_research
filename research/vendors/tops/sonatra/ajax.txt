@@ -1,0 +1,13 @@
+Event/
+EventSubscriber/
+Exception/
+Resources/
+Tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+AjaxEvents.php
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

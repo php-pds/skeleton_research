@@ -1,0 +1,10 @@
+controllers/
+migrations/
+models/
+views/
+widgets/
+.gitignore
+CommentModule.php
+LICENSE
+README
+composer.json

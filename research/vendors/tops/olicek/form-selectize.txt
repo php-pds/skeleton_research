@@ -1,0 +1,7 @@
+client-side/
+docs/en/
+src/
+LICENSE
+README.md
+bower.json
+composer.json

@@ -1,0 +1,6 @@
+src/magicphp/
+.gitattributes
+.gitignore
+LICENSE
+README.md
+composer.json

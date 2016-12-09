@@ -1,0 +1,14 @@
+DataCollector/
+DependencyInjection/
+DeviceDetector/
+EventListener/
+Helper/
+Resources/
+Tests/
+Twig/Extension/
+.gitignore
+.travis.yml
+MobileDetectBundle.php
+README.md
+composer.json
+phpunit.xml.dist

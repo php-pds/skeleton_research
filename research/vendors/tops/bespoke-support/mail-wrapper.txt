@@ -1,0 +1,11 @@
+TesterEntity/
+TesterMessage/
+TesterTransport/
+Tests/
+lib/
+.gitignore
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist
+tests.bootstrap.php

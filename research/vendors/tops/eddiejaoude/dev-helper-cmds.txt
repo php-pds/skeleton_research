@@ -1,0 +1,10 @@
+composer/
+git/
+scrutinizer/
+symfony/
+travisci/
+LICENSE
+Makefile
+README.md
+composer.json
+include.all

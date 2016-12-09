@@ -1,0 +1,11 @@
+Action/
+Bridge/Symfony/
+Examples/
+Tests/
+.travis.yml
+AdyenGatewayFactory.php
+Api.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

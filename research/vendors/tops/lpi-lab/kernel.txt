@@ -1,0 +1,7 @@
+src/Utils/
+test/
+.DS_Store
+.gitignore
+composer.json
+composer.lock
+phpunit.xml

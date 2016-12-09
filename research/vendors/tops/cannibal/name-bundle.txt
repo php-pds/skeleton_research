@@ -1,0 +1,8 @@
+DependencyInjection/
+Entity/
+Form/Type/
+Resources/config/
+Tests/Entity/
+CannibalNameBundle.php
+README.md
+composer.json

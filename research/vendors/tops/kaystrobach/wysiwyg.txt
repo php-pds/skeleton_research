@@ -1,0 +1,4 @@
+Classes/KayStrobach/Wysiwyg/ViewHelpers/Widget/
+Resources/
+README.md
+composer.json

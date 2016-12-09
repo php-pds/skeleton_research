@@ -1,0 +1,6 @@
+src/Serializer/
+.gitattributes
+.gitignore
+LICENSE
+README.md
+composer.json

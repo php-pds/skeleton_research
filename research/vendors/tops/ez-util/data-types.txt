@@ -1,0 +1,5 @@
+lib/EZUtil/Data/Type/
+COPYING
+COPYING.LESSER
+README.md
+composer.json

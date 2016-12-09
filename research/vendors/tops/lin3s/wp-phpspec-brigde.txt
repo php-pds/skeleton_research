@@ -1,0 +1,6 @@
+src/LIN3S/WordPressPhpSpecBridge/
+.editorconfig
+.gitignore
+LICENSE
+README.md
+composer.json

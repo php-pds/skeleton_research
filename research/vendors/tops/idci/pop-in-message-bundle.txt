@@ -1,0 +1,10 @@
+DependencyInjection/
+DisplayRule/
+Exception/
+PopIn/
+Resources/
+Twig/
+.gitignore
+IDCIPopInMessageBundle.php
+README.md
+composer.json

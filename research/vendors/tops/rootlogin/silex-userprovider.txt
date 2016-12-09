@@ -1,0 +1,12 @@
+docs/
+sql/
+src/rootLogin/UserProvider/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+LICENSE.bsd
+README.md
+composer.json
+mkdocs.yml
+phpunit.xml.dist

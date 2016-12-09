@@ -1,0 +1,9 @@
+config/
+dataobject/
+i18n/bo/general/
+lib/
+persistentdocument/import/
+setup/
+templates/perspectives/
+LICENSE.txt
+change.xml

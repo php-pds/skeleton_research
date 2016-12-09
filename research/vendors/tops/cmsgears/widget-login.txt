@@ -1,0 +1,7 @@
+resources/scripts/
+views/
+AjaxLogin.php
+LICENSE.md
+README.md
+SimpleAssetBundle.php
+composer.json

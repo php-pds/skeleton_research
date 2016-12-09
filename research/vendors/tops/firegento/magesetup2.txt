@@ -1,0 +1,16 @@
+.github/
+Block/
+Command/
+Model/
+Observer/
+Plugin/
+Service/
+Setup/
+Test/Unit/
+etc/
+i18n/
+view/frontend/
+LICENSE.md
+README.md
+composer.json
+registration.php

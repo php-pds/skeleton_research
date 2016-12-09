@@ -1,0 +1,10 @@
+Config/
+Controller/
+Model/
+Strategy/
+Vendor/
+.gitignore
+.gitmodules
+LICENSE
+README.md
+composer.json

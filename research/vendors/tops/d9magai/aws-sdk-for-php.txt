@@ -1,0 +1,14 @@
+_compatibility_test/
+_docs/
+_samples/
+authentication/
+extensions/
+lib/
+services/
+utilities/
+.gitignore
+README.md
+README_OLD.md
+composer.json
+config-sample.inc.php
+sdk.class.php

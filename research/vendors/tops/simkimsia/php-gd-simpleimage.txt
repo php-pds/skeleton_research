@@ -1,0 +1,6 @@
+.gitignore
+README.md
+SimpleImage.php
+composer.json
+index.php
+superthumb.jpg

@@ -1,0 +1,14 @@
+config/
+web/
+.csscomb.json
+.editorconfig
+.env.example
+.gitignore
+CHANGELOG.md
+CONTRIBUTING.md
+LICENSE.md
+README.md
+composer.json
+composer.lock
+gitlab-ci.yml
+wp-cli.yml

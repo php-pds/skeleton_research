@@ -1,0 +1,13 @@
+Admin/
+Configuration/
+Controller/
+DependencyInjection/
+Entity/
+Event/
+Resources/config/
+Routing/
+Twig/
+LICENCE.txt
+README.md
+SidusAdminBundle.php
+composer.json

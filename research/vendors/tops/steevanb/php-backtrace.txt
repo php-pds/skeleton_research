@@ -1,0 +1,5 @@
+DumpBacktrace.php
+README.md
+backtrace.png
+changelog.md
+composer.json

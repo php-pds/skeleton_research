@@ -1,0 +1,6 @@
+Classes/Axovis/Neos/LanguageDetection/
+Configuration/
+.gitignore
+LICENSE
+README.rst
+composer.json

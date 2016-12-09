@@ -1,0 +1,14 @@
+docs/
+src/phpDocumentor/Reflection/
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+example.php
+phpcs.xml
+phpmd.xml.dist
+phpunit.xml.dist

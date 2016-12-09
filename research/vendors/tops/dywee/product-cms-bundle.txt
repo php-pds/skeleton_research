@@ -1,0 +1,13 @@
+Controller/
+DependencyInjection/
+Entity/
+Event/
+Form/
+Listener/
+Repository/
+Resources/
+Service/
+Tests/Controller/
+DyweeProductCMSBundle.php
+DyweeProductCMSEvent.php
+composer.json

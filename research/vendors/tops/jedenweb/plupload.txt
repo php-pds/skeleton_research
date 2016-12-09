@@ -1,0 +1,5 @@
+src/JedenWeb/Plupload/
+.gitignore
+composer.json
+license.md
+readme.md

@@ -1,0 +1,11 @@
+app/
+dev/puppet/
+docs/
+src/
+web/
+.gitignore
+LICENSE
+README.md
+Vagrantfile
+composer.json
+composer.lock

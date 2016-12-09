@@ -1,0 +1,8 @@
+assets/pandao-editor/
+config/
+src/
+tests/
+views/bootstrap/
+.gitignore
+README.md
+composer.json

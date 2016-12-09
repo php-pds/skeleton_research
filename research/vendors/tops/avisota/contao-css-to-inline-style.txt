@@ -1,0 +1,11 @@
+contao/
+src/
+tests/
+.check-author.yml
+.travis.yml
+README.md
+build.properties.default
+build.xml
+composer.json
+phpunit.xml.dist
+travis.php.ini

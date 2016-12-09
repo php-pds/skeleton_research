@@ -1,0 +1,7 @@
+config/translations/
+src/Command/
+.gitattributes
+.gitignore
+README.md
+composer.json
+wsdl_generator.info.yml

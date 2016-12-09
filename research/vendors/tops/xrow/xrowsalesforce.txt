@@ -1,0 +1,10 @@
+bin/
+classes/
+design/standard/
+doc/
+patch/4.6/
+settings/
+share/
+translations/ger-DE/
+.gitmodules
+composer.json

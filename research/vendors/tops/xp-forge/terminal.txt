@@ -1,0 +1,8 @@
+src/
+.travis.yml
+ChangeLog.md
+README.md
+class.pth
+composer.json
+terminal-clock.png
+terminal-styles.png

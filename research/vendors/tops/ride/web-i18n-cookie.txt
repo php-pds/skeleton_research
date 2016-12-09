@@ -1,0 +1,6 @@
+config/
+manual/
+src/ride/web/i18n/
+README.md
+composer.json
+ride.json

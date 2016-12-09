@@ -1,0 +1,7 @@
+assets/
+config/
+data/
+src/Frontend42/
+view/
+Module.php
+composer.json

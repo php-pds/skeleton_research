@@ -1,0 +1,13 @@
+examples/
+src/
+tests/
+.codeclimate.yml
+.editorconfig
+.gitignore
+.travis.yml
+LICENSE.md
+README.md
+composer.json
+generate-api.sh
+phpmd.xml
+phpunit.xml

@@ -1,0 +1,7 @@
+classes/
+config/
+guide/qrcode/
+media/guide/qrcode/
+vendor/phpqrbarcode/
+Readme.md
+composer.json

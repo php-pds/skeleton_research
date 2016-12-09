@@ -1,0 +1,15 @@
+config/
+public/
+src/
+test/
+vendor/
+view/rcm-dynamic-navigation/
+.gitignore
+.travis.yml
+LICENSE.txt
+Module.php
+README.md
+composer.json
+phpmd.xml
+phpunit.xml
+test_build

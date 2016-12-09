@@ -1,0 +1,15 @@
+Tests/
+.gitignore
+.travis.yml
+BadTypeException.php
+Expression.php
+InvalidExpressionException.php
+LICENSE
+NodeNotFoundException.php
+Queryable.php
+QueryableException.php
+QuickAccessTrait.php
+README.md
+autoload.php.dist
+composer.json
+phpunit.xml.dist

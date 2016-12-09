@@ -1,0 +1,10 @@
+DependencyInjection/
+Resources/config/
+Tests/
+.gitignore
+AkeneoSpreadsheetParserBundle.php
+CHANGELOG.md
+LICENSE.txt
+README.md
+composer.json
+phpunit.xml

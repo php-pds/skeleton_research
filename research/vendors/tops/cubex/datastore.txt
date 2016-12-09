@@ -1,0 +1,7 @@
+protobuf-gen/
+src/CloudDatastore/
+README.md
+composer.json
+phpcs.xml
+phpmd.xml
+phpunit.xml.dist

@@ -1,0 +1,6 @@
+views/default/input/
+CHANGES.txt
+README.md
+composer.json
+manifest.xml
+start.php

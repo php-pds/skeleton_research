@@ -1,0 +1,15 @@
+bin/
+build/
+config/
+docs/
+src/DoctrineModule/
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+Module.php
+README.md
+UPGRADE.md
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,13 @@
+assets-wp-repo/
+bin/
+features/
+tests/
+.travis.yml
+LICENSE
+behat.yml
+changelog.md
+composer.json
+phpunit-ms.xml.dist
+phpunit.xml.dist
+readme.md
+user-switching.php

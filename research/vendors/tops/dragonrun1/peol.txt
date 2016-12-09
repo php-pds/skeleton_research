@@ -1,0 +1,8 @@
+bin/
+lib/
+.gitattributes
+.gitignore
+.mailmap
+README.md
+composer.json
+composer.lock

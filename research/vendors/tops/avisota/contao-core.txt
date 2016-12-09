@@ -1,0 +1,14 @@
+assets/
+contao/
+src/
+system_remove/modules/avisota/
+tests/
+.check-author.yml
+.gitignore
+.travis.yml
+README.md
+build.properties.default
+build.xml
+composer.json
+phpunit.xml.dist
+travis.php.ini

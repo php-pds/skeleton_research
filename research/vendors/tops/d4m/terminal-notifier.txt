@@ -1,0 +1,7 @@
+bin/
+spec/D4m/TerminalNotifier/Console/
+src/D4m/TerminalNotifier/
+.gitignore
+README.md
+composer.json
+composer.lock

@@ -1,0 +1,7 @@
+dev/
+publish/
+src/bbit/image/
+test/TL_ROOT/system/modules/backboneit_image_test/
+.gitignore
+build.xml
+composer.json

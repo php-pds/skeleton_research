@@ -1,0 +1,5 @@
+examples/
+src/BW/
+LICENSE
+README.md
+composer.json

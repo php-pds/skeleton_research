@@ -1,0 +1,10 @@
+Application/
+web/
+.bowerrc
+.gitattributes
+.gitignore
+LICENSE
+README.md
+bower.json
+composer.json
+todo.md

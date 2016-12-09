@@ -1,0 +1,6 @@
+samples/
+CHANGELOG.md
+Daemon.php
+LICENSE.md
+README.md
+composer.json

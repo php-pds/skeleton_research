@@ -1,0 +1,6 @@
+config/
+migrations/
+resources/views/
+src/
+.gitignore
+composer.json

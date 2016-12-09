@@ -1,0 +1,8 @@
+Miaoxing/
+docs/
+tests/Fixture/Sniffs/
+.editorconfig
+.gitignore
+LICENSE
+README.md
+composer.json

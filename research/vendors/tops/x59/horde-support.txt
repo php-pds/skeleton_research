@@ -1,0 +1,6 @@
+doc/Horde/Support/
+lib/Horde/Support/
+test/Horde/Support/
+.gitignore
+composer.json
+package.xml

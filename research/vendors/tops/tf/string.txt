@@ -1,0 +1,6 @@
+src/Tf/String/
+.gitignore
+COPYRIGHT
+LICENSE
+README.md
+composer.json

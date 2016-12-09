@@ -1,0 +1,13 @@
+Tests/
+doc/
+.gitignore
+.php_cs
+.travis.yml
+GosEntityRepository.php
+LICENSE
+QueryBuildableInterface.php
+QueryBuilder.php
+QueryBuilderInterface.php
+README.md
+composer.json
+phpunit.xml.dist

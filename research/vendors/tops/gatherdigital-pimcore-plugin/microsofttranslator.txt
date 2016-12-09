@@ -1,0 +1,9 @@
+controllers/
+lib/MicrosoftTranslator/
+static/js/
+.editorconfig
+.gitignore
+LICENSE
+README.md
+composer.json
+plugin.xml

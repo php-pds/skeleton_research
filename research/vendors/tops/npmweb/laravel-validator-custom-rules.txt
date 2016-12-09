@@ -1,0 +1,10 @@
+src/NpmWeb/LaravelValidatorCustomRules/
+tests/
+.gitignore
+Gruntfile.js
+LICENSE
+README.md
+composer.json
+composer.lock
+package.json
+phpunit.xml

@@ -1,0 +1,8 @@
+src/
+LICENSE
+a.txt
+b.txt
+composer.json
+composer.lock
+readme.md
+test.php

@@ -1,0 +1,8 @@
+src/
+.editorconfig
+.gitignore
+.lgtm
+CONTRIBUTING.md
+LICENSE.md
+README.md
+composer.json

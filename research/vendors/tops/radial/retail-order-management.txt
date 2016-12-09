@@ -1,0 +1,15 @@
+docs/static/
+src/eBayEnterprise/RetailOrderManagement/
+tests/eBayEnterprise/RetailOrderManagement/
+.gitignore
+CHANGELOG.md
+CONTRIBUTING.md
+LICENSE.md
+README.md
+STYLE.md
+amqp-api.graffle
+circle.yml
+composer.json
+docker-compose.yml
+phpmd.xml
+phpunit.xml.dist

@@ -1,0 +1,11 @@
+__MACOSX/
+connectors/
+images/
+.gitignore
+README.md
+composer.json
+index.html
+jquery.easing.js
+jquery.js
+jqueryFileTree.css
+jqueryFileTree.js

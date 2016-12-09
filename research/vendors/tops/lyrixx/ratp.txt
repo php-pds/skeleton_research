@@ -1,0 +1,11 @@
+Tests/
+.gitignore
+.travis.yml
+Api.php
+Direction.php
+LICENSE
+README.md
+Schedule.php
+Stop.php
+composer.json
+phpunit.xml.dist

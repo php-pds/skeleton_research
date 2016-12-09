@@ -1,0 +1,5 @@
+app/
+skin/adminhtml/default/default/edge/
+LICENSE
+README.md
+composer.json

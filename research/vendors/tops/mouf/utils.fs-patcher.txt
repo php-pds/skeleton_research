@@ -1,0 +1,4 @@
+src/Mouf/Utils/FSPatcher/
+LICENSE
+README.md
+composer.json

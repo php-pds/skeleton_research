@@ -1,0 +1,6 @@
+src/Hive/
+templates/
+.gitignore
+LICENSE
+README.md
+composer.json

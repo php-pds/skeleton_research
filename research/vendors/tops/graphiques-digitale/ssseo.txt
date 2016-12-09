@@ -1,0 +1,9 @@
+_config/
+code/
+css/
+lang/
+.gitignore
+LICENSE
+README.md
+composer-screenshot.png
+composer.json

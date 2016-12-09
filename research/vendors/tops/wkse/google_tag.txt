@@ -1,0 +1,13 @@
+config/
+js/
+src/
+README.md
+composer.json
+google_tag.info.yml
+google_tag.install
+google_tag.libraries.yml
+google_tag.links.menu.yml
+google_tag.module
+google_tag.permissions.yml
+google_tag.routing.yml
+google_tag.services.yml

@@ -1,0 +1,13 @@
+Command/
+DependencyInjection/
+Job/
+Model/
+Resources/config/
+Resque/
+Service/
+bin/
+Constant.php
+LICENSE
+README.md
+WizResqueBundle.php
+composer.json

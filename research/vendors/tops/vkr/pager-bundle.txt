@@ -1,0 +1,12 @@
+DependencyInjection/
+Entity/Perishable/
+Interfaces/
+Resources/
+Services/
+TestHelpers/
+Tests/Services/
+Twig/
+.gitignore
+README.md
+VKRPagerBundle.php
+composer.json

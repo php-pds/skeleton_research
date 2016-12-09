@@ -1,0 +1,8 @@
+src/
+test/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+README.md
+UPGRADING.md
+composer.json

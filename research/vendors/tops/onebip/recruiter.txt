@@ -1,0 +1,13 @@
+bin/
+etc/
+examples/
+spec/
+src/
+.gitignore
+.travis.yml
+.vimrc
+LICENSE
+README.md
+composer.json
+phpconfig.ini
+phpunit.xml

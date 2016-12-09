@@ -1,0 +1,6 @@
+resources/lang/
+src/
+.gitignore
+composer.json
+composer.lock
+readme.md

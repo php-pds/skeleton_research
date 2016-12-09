@@ -1,0 +1,12 @@
+build/
+docs/
+src/
+tests/
+.gitignore
+CHANGELOG.md
+LICENSE
+README.md
+RELEASE
+build.xml
+codeception.yml
+composer.json

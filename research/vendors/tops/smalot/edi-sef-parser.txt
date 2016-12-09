@@ -1,0 +1,8 @@
+src/Smalot/
+.atoum.php
+.bootstrap.atoum.php
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json

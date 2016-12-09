@@ -1,0 +1,4 @@
+LICENSE
+NetteMessengerPlatform.php
+composer.json
+readme.md

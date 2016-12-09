@@ -1,0 +1,6 @@
+LICENSE
+README.md
+composer.json
+core.php
+helper.php
+legacy.php

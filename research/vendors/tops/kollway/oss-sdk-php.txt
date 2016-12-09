@@ -1,0 +1,14 @@
+samples/
+src/OSS/
+tests/OSS/Tests/
+.coveralls.yml
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENSE.md
+README.md
+autoload.php
+build-phar.sh
+composer.json
+index.php
+phpunit.xml

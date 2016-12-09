@@ -1,0 +1,9 @@
+config/
+src/
+tests/TestCase/Controller/
+webroot/
+.gitignore
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

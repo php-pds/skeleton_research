@@ -1,0 +1,13 @@
+DependencyInjection/
+Notifier/
+Resources/config/
+Tests/DependencyInjection/
+Type/
+.gitattributes
+.gitignore
+.travis.yml
+LICENSE
+NotifierBundle.php
+README.md
+composer.json
+phpunit.xml.dist

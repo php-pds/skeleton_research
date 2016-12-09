@@ -1,0 +1,4 @@
+notifications/
+.gitattributes
+README.md
+composer.json

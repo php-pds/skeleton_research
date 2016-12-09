@@ -1,0 +1,8 @@
+Assets/
+Commands/
+Http/Rest/
+Setup/
+Std/
+LICENSE.txt
+composer.json
+plugin.json

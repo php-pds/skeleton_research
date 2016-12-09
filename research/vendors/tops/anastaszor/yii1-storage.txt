@@ -1,0 +1,7 @@
+assets/images/
+.gitignore
+LICENSE
+README.md
+StorageModule.php
+composer.json
+dailyupdate

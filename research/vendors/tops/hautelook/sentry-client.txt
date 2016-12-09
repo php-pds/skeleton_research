@@ -1,0 +1,8 @@
+src/Hautelook/SentryClient/
+tests/Hautelook/SentryClient/Tests/
+.gitignore
+.travis.yml
+LICENSE
+README.rst
+composer.json
+phpunit.xml.dist

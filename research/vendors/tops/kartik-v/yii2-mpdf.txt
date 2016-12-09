@@ -1,0 +1,6 @@
+assets/
+CHANGE.md
+LICENSE.md
+Pdf.php
+README.md
+composer.json

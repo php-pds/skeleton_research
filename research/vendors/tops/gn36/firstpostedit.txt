@@ -1,0 +1,12 @@
+config/
+event/
+language/
+migrations/
+tests/
+travis/
+.travis.yml
+README.md
+composer.json
+composer.phar
+license.txt
+phpunit.xml.dist

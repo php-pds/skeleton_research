@@ -1,0 +1,10 @@
+data/
+src/
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+UPGRADE.md
+composer.json
+validate.php

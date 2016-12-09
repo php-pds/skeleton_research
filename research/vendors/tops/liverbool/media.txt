@@ -1,0 +1,7 @@
+Model/
+spec/Model/
+CHANGELOG.md
+LICENSE
+README.md
+composer.json
+phpspec.yml

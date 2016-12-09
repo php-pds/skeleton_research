@@ -1,0 +1,10 @@
+spec/
+src/
+.travis.yml
+Gulpfile.js
+LICENSE
+README.md
+composer.json
+composer.lock
+package.json
+phpspec.yml

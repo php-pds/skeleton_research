@@ -1,0 +1,6 @@
+.gitignore
+LICENSE.txt
+README.md
+RemainingCharacters.php
+RemainingCharactersAsset.php
+composer.json

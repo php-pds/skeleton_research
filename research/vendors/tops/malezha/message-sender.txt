@@ -1,0 +1,8 @@
+config/
+migrations/
+resources/views/providers/
+src/
+storage/message-sender-views/
+.gitignore
+composer.json
+readme.md

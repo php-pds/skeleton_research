@@ -1,0 +1,6 @@
+demo/
+src/SoPhp/Rpc/
+tests/
+.gitignore
+README.md
+composer.json

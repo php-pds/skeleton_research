@@ -1,0 +1,5 @@
+bin/
+LICENSE
+README.md
+composer.json
+coverage-checker.php

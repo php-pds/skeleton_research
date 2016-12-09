@@ -1,0 +1,16 @@
+config/
+src/Event/
+tests/
+.dunitconfig
+.editorconfig
+.gitattributes
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CONTRIBUTING.markdown
+LICENSE
+Makefile
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

@@ -1,0 +1,10 @@
+doc/
+setup @ 773fb85
+src/
+test/
+.gitignore
+.gitmodules
+README.rst
+build.properties
+build.xml
+composer.json

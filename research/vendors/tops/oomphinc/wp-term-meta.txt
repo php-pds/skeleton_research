@@ -1,0 +1,6 @@
+images/
+.gitignore
+LICENSE
+README.md
+composer.json
+wp-term-meta.php

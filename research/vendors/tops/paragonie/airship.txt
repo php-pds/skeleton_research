@@ -1,0 +1,15 @@
+.github/
+docker/
+src/
+test/
+tools/
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENSE.txt
+README.md
+THANKS.md
+composer.json
+composer.lock
+docker-compose.yml
+phpunit.xml.dist

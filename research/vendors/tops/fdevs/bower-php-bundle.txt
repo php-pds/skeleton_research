@@ -1,0 +1,7 @@
+Command/
+Config/
+DependencyInjection/
+Resources/
+FDevsBowerPhpBundle.php
+README.md
+composer.json

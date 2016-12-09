@@ -1,0 +1,13 @@
+actions/
+helpers/
+locales/en-US/
+models/
+scripts/
+test/
+views/
+.htaccess
+LICENSE
+README.md
+composer.json
+index.php
+manifest.php

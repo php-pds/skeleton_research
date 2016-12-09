@@ -1,0 +1,10 @@
+src/CompassElephant/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+package.ini
+phpunit.xml.dist

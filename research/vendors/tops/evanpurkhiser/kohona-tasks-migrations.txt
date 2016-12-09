@@ -1,0 +1,7 @@
+classes/
+config/
+guide/minion-migrations/
+tests/
+views/minion/task/migrations/
+.gitignore
+composer.json

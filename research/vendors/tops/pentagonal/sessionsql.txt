@@ -1,0 +1,5 @@
+src/Pentagonal/SessionSQL/
+.gitignore
+LICENSE
+README.md
+composer.json

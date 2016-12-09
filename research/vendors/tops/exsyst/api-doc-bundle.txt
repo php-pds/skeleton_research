@@ -1,0 +1,16 @@
+DependencyInjection/
+Describer/
+Resources/config/
+RouteDescriber/
+Routing/
+Tests/
+.gitignore
+.php_cs.dist
+.styleci.yml
+.travis.yml
+ApiDocGenerator.php
+EXSystApiDocBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

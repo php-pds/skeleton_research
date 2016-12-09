@@ -1,0 +1,5 @@
+DataFixtures/
+Test/
+ICBaseTestBundle.php
+README.md
+composer.json

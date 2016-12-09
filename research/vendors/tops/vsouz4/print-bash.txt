@@ -1,0 +1,7 @@
+src/PrintBash/
+tests/
+.gitignore
+.scrutinizer.yml
+README.md
+bootstrap.php
+composer.json

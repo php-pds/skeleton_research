@@ -1,0 +1,15 @@
+_ide/
+assets/
+config/
+console/controllers/
+controllers/
+messages/ru/
+migrations/
+models/
+views/
+CHANGELOG.md
+CmsSearchComponent.php
+CmsSearchModule.php
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,4 @@
+src/
+.travis.yml
+composer.json
+phpunit.xml

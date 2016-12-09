@@ -1,0 +1,5 @@
+CORE/
+management/
+README.md
+composer.json
+composer.json.bak

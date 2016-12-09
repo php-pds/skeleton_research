@@ -1,0 +1,13 @@
+docs/
+src/
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+Vagrantfile
+Yii.php
+codeception.yml
+composer.json
+composer.lock

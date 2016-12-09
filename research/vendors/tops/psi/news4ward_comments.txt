@@ -1,0 +1,7 @@
+Module/
+config/
+dca/
+languages/
+templates/
+CommentsHelper.php
+composer.json

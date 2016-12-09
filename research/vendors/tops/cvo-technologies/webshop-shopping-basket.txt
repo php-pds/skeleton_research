@@ -1,0 +1,6 @@
+config/
+src/
+.gitignore
+composer.json
+sonar-project.properties
+webshop-shopping-basket.iml

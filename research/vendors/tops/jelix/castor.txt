@@ -1,0 +1,10 @@
+docs/en/
+lib/
+tests/
+.gitattributes
+.gitignore
+CREDITS
+LICENCE
+README.md
+VERSION
+composer.json

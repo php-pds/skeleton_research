@@ -1,0 +1,11 @@
+dist/
+docs/
+tests/
+.gitignore
+LICENSE.md
+README.md
+bower.json
+composer.json
+example.png
+index.html
+post.php

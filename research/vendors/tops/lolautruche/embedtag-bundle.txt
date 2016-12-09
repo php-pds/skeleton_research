@@ -1,0 +1,8 @@
+Converter/XmlText/
+DependencyInjection/
+Resources/
+.gitignore
+LICENSE
+LolartEmbedTagBundle.php
+README.md
+composer.json

@@ -1,0 +1,14 @@
+spec/
+src/analyzer/
+.coveralls.toml
+.editorconfig
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+RoboFile.php
+composer.json
+coverage.yml
+peridot.coverage.php
+peridot.php

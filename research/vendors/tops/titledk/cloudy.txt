@@ -1,0 +1,14 @@
+_preview/
+css/
+docs/en/
+icons/
+images/inline/
+javascript/
+scss/
+templates/
+thirdparty/
+.gitignore
+README.md
+_deletepreviewfiles.php
+composer.json
+config.rb

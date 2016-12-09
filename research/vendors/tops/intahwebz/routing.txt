@@ -1,0 +1,10 @@
+example/
+src/Intahwebz/
+.gitignore
+LICENSE
+README.md
+bootstrap.php
+composer.json
+composer.lock
+dynamicReturnTypeMeta.json
+phpunit.xml

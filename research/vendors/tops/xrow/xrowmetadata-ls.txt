@@ -1,0 +1,14 @@
+autoloads/
+bin/
+classes/
+cronjobs/
+datatypes/xrowmetadata/
+design/standard/templates/
+doc/
+modules/sitemaps/
+settings/
+translations/
+README.txt
+composer.json
+extension.xml
+ezinfo.php

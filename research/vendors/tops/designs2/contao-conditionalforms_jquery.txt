@@ -1,0 +1,3 @@
+contao/
+CHANGELOG.md
+composer.json

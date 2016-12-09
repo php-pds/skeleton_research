@@ -1,0 +1,15 @@
+src/
+tests/
+.editorconfig
+.gitattributes
+.gitignore
+.php_cs
+.travis.yml
+LICENSE
+README.md
+appveyor.yml
+composer.json
+composer.lock
+grumphp.yml
+phpcs.xml
+phpunit.xml

@@ -1,0 +1,7 @@
+DependencyInjection/
+Resources/
+.gitignore
+README.md
+XideaTwitterBootstrapBundle.php
+composer.json
+phpunit.xml.dist

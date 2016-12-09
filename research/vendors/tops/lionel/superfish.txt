@@ -1,0 +1,5 @@
+files/superfish/css/
+system/modules/superfish/
+.gitignore
+README.md
+composer.json

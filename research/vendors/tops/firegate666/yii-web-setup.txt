@@ -1,0 +1,9 @@
+bin/
+htdocs/
+protected/
+vagrant/
+.gitignore
+INSTALL.md
+README.md
+composer.json
+composer.lock

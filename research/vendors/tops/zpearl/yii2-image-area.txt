@@ -1,0 +1,8 @@
+assets/
+views/
+.gitignore
+AutoloadExample.php
+README.md
+UploadArea.php
+UploadAreaAsset.php
+composer.json

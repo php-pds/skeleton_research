@@ -1,0 +1,8 @@
+Api/
+DependencyInjection/
+Resources/config/
+.gitignore
+README.md
+UPGRADE.md
+WannaSpeakBundle.php
+composer.json

@@ -1,0 +1,17 @@
+Tests/Tracker/
+dump/
+src/SportTrackerConnector/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+config.example.yml
+connector
+connector.bat
+connector.php
+phpmd.xml
+phpunit.xml.dist
+ruleset.xml

@@ -1,0 +1,6 @@
+OLOG/
+Tests/
+.gitignore
+README.md
+composer.json
+test.sh

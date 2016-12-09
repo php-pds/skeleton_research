@@ -1,0 +1,11 @@
+Controller/Adminhtml/
+Mail/
+Model/
+Setup/
+Ui/Component/Listing/Column/
+etc/
+view/adminhtml/
+LICENSE.txt
+README.md
+composer.json
+registration.php

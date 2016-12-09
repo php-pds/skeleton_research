@@ -1,0 +1,6 @@
+public/
+source/
+.gitignore
+.travis.yml
+README.md
+composer.json

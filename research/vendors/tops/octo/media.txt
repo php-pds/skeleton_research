@@ -1,0 +1,11 @@
+Admin/
+Block/
+Controller/
+Event/
+Model/
+Store/
+Template/Block/
+.DS_Store
+Image.php
+Module.php
+composer.json

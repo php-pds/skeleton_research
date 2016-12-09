@@ -1,0 +1,5 @@
+BxSlider.php
+BxSliderAsset.php
+LICENSE.md
+README.md
+composer.json

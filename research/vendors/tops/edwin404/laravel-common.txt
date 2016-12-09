@@ -1,0 +1,5 @@
+config/
+resources/
+src/
+LICENSE.txt
+composer.json

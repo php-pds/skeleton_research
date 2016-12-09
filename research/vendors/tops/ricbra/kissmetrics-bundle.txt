@@ -1,0 +1,6 @@
+DependencyInjection/
+Resources/config/
+.gitignore
+README.md
+RicbraKissMetricsBundle.php
+composer.json

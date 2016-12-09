@@ -1,0 +1,8 @@
+src/Umpirsky/Silex/Provider/
+tests/Umpirsky/Silex/Provider/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

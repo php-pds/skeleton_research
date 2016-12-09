@@ -1,0 +1,16 @@
+app/
+src/
+web/
+.gitignore
+CHANGELOG.md
+LICENSE
+README.md
+UPGRADE-1.10.md
+UPGRADE-1.8.md
+UPGRADE-1.9.md
+UPGRADE.md
+behat.yml.dist
+composer.json
+dev.json
+dev.lock
+phpunit.xml.dist

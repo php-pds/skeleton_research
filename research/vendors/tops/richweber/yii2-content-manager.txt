@@ -1,0 +1,8 @@
+migrations/
+models/
+modules/content/
+widgets/
+Installer.php
+LICENSE
+README.md
+composer.json

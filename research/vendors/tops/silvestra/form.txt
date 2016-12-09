@@ -1,0 +1,10 @@
+DataTransformer/
+Tests/
+Type/
+.gitignore
+.travis.yml
+KeyValueArray.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

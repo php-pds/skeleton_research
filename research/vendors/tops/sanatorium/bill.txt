@@ -1,0 +1,10 @@
+database/
+lang/
+src/
+themes/
+vendor/
+.gitignore
+README.md
+composer.json
+composer.lock
+extension.php

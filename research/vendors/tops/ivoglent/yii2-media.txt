@@ -1,0 +1,5 @@
+media/
+.gitignore
+README.md
+composer.json
+screenshot.png

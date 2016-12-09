@@ -1,0 +1,17 @@
+dist/
+examples/
+src/
+tests/
+.editorconfig
+.gitignore
+.gitmodules
+.jshintrc
+.npmignore
+.travis.yml
+CHANGELOG.md
+Gruntfile.js
+LICENSE
+bower.json
+composer.json
+package.json
+readme.md

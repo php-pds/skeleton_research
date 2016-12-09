@@ -1,0 +1,17 @@
+Context/Front/
+Controller/
+DataFixtures/ORM/
+DataGrid/
+DataSet/
+DependencyInjection/
+Entity/
+Factory/
+Form/
+Manager/
+Repository/
+Resources/
+Tests/
+LICENSE
+README.md
+WellCommerceContactBundle.php
+composer.json

@@ -1,0 +1,7 @@
+assets/
+JqueryCookieAsset.php
+LICENSE
+Notify.php
+NotifyAsset.php
+README.md
+composer.json

@@ -1,0 +1,15 @@
+bin/
+config/
+src/
+tests/
+.codeclimate.yml
+.gitignore
+.travis.yml
+AUTHORS.md
+CHANGELOG.md
+MIT-LICENSE.txt
+README.md
+TODO.md
+composer.json
+composer.lock
+phpunit.xml.dist

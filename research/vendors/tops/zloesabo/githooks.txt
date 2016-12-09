@@ -1,0 +1,9 @@
+Application/
+Composer/
+Exception/
+Hook/
+ScriptTemplate/
+.gitignore
+Installer.php
+Readme.md
+composer.json

@@ -1,0 +1,10 @@
+spec/BenGorUser/MandrillBridge/Infrastructure/Mailing/
+src/BenGorUser/MandrillBridge/Infrastructure/Mailing/
+.editorconfig
+.gitignore
+.php_cs
+.phpspec_cs
+.travis.yml
+LICENSE
+README.md
+composer.json

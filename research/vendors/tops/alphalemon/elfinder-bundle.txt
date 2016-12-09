@@ -1,0 +1,10 @@
+Controller/
+Core/Connector/
+DependencyInjection/
+Resources/
+Tests/Controller/
+AlphaLemonElFinderBundle.php
+LICENSE
+README.md
+autoload.json
+composer.json

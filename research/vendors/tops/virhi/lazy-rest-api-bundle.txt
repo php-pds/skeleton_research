@@ -1,0 +1,12 @@
+Documentation/
+Tests/
+src/Virhi/LazyRestApiBundle/
+.gitignore
+LICENSE
+README.md
+behat.yml
+composer.json
+composer.lock
+init.sh
+phpci.yml
+phpunit.xml

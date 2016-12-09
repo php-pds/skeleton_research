@@ -1,0 +1,7 @@
+usr/share/thumbnailers/
+Waveform.php
+composer.json
+example.png
+license.md
+readme.md
+thumbnailer.php

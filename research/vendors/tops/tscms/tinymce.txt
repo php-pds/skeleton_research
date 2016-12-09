@@ -1,0 +1,9 @@
+langs/
+plugins/
+skins/lightgray/
+themes/modern/
+LICENSE.TXT
+changelog.txt
+composer.json
+jquery.tinymce.min.js
+tinymce.min.js

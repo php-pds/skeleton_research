@@ -1,0 +1,9 @@
+fieldtypes/
+redactor_plugins/
+resources/
+templates/
+BetterRedactorPlugin.php
+LICENSE
+README.md
+composer.json
+config.json

@@ -1,0 +1,8 @@
+DependencyInjection/
+Exception/
+Resources/
+Services/
+LICENSE
+NetgustoDynamicSubdomainBundle.php
+README.md
+composer.json

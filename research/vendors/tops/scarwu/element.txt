@@ -1,0 +1,7 @@
+example/
+src/Element/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json

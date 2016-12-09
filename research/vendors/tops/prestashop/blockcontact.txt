@@ -1,0 +1,15 @@
+images/
+img/
+translations/
+upgrade/
+CHANGELOG.txt
+Readme.md
+blockcontact.css
+blockcontact.php
+blockcontact.tpl
+composer.json
+config.xml
+index.php
+logo.gif
+logo.png
+nav.tpl

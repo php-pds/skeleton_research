@@ -1,0 +1,7 @@
+assets/
+bundles/app/
+src/Project/
+.gitignore
+LICENSE
+README.md
+composer.json

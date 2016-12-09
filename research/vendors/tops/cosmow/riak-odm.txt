@@ -1,0 +1,8 @@
+lib/CosmoW/ODM/Riak/
+tools/sandbox/
+.gitignore
+.gitmodules
+LICENSE
+README.markdown
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,10 @@
+bin/
+src/
+test/
+.gitattributes
+.gitignore
+.hhconfig
+LICENSE
+README.md
+composer.json
+hh_autoload.json

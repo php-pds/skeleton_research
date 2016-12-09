@@ -1,0 +1,7 @@
+nbproject/
+src/MongoDB/ODM/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json

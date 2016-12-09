@@ -1,0 +1,8 @@
+src/CentralDesktop/Graph/
+test/
+.gitignore
+CHANGES.md
+README.md
+composer.json
+phpunit.xml
+pom.xml

@@ -1,0 +1,3 @@
+lib/Goetas/Symfony/GoetasXsdToPhpBundle/
+README.md
+composer.json

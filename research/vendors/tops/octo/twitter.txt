@@ -1,0 +1,8 @@
+Block/
+Command/
+Migration/
+Model/
+Store/
+Template/Block/
+Module.php
+composer.json

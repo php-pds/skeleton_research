@@ -1,0 +1,11 @@
+js/
+locale/
+nbproject/
+source/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json
+phpunit.xml
+run-me.bat

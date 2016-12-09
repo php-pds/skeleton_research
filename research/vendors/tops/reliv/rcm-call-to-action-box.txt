@@ -1,0 +1,12 @@
+config/
+public/
+src/
+view/rcm-call-to-action-box/
+.gitignore
+.travis.yml
+LICENSE.txt
+Module.php
+README.md
+composer.json
+phpmd.xml
+phpunit.xml

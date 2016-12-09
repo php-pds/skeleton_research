@@ -1,0 +1,8 @@
+src/Kassner/LogParser/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml

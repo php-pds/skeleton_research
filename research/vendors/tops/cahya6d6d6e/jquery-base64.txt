@@ -1,0 +1,4 @@
+README.markdown
+composer.json
+jquery.base64.js
+jquery.base64.min.js

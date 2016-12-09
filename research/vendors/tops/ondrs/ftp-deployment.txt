@@ -1,0 +1,6 @@
+Deployment/
+.gitignore
+composer.json
+deployment.sample.ini
+license.md
+readme.md

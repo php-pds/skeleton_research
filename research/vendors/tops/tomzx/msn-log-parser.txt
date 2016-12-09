@@ -1,0 +1,12 @@
+src/tomzx/MSNLogParser/Parser/
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+html.php
+phpunit.xml.dist
+text.php

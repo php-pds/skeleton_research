@@ -1,0 +1,17 @@
+Container/
+DataCollector/
+DependencyInjection/
+Factory/
+Form/Type/
+Model/
+Repository/
+Resources/
+Service/
+Tests/
+Widget/
+spec/Widget/
+.gitignore
+SWPTemplatesSystemBundle.php
+composer.json
+phpspec.yml.dist
+phpunit.xml.dist

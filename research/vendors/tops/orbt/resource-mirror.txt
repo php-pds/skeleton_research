@@ -1,0 +1,12 @@
+Event/
+Exception/
+Resource/
+Tests/
+.gitattributes
+.gitignore
+LICENSE
+README.md
+ResourceMirror.php
+ResourceMirrorFactory.php
+composer.json
+phpunit.xml.dist

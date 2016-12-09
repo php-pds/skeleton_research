@@ -1,0 +1,14 @@
+examples/
+src/
+tests/
+.editorconfig
+.gitattributes
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CONTRIBUTING.md
+LICENSE.md
+README.md
+apigen.neon
+composer.json
+phpunit.xml.dist

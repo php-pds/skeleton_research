@@ -1,0 +1,6 @@
+commands/
+components/console/
+composer.json
+console.ext.php
+console_command.php
+stdout.php

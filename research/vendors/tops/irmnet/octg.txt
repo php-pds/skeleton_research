@@ -1,0 +1,7 @@
+config/
+src/OCTG/Controller/
+view/OCTG/index/
+.gitignore
+Module.php
+autoload_classmap.php
+composer.json

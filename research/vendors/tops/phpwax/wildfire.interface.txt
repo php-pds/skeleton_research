@@ -1,0 +1,7 @@
+resources/public/
+view/
+.gitignore
+README.md
+composer.json
+ini.php
+setup.php

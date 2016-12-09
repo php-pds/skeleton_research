@@ -1,0 +1,12 @@
+design/
+docs/
+src/
+tests/
+.gitignore
+.travis.yml
+CREDITS
+ChangeLog
+DESCRIPTION
+LICENSE.txt
+composer.json
+phpunit.xml.dist

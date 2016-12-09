@@ -1,0 +1,14 @@
+Component/Spl/
+Controller/
+DependencyInjection/
+Form/
+Resources/
+Service/
+Tests/
+nbproject/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+XiFilebrowserBundle.php
+composer.json

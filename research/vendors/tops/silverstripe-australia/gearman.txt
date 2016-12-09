@@ -1,0 +1,8 @@
+_config/
+code/
+.editorconfig
+README.md
+composer.json
+gearman_runner.php
+gearman_test_client.php
+reflected_runner.php

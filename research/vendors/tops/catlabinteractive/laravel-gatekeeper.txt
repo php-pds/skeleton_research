@@ -1,0 +1,5 @@
+src/CatLab/Gatekeeper/
+.gitignore
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,10 @@
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+XNode.php
+XNodeList.php
+XParserException.php
+composer.json
+test.php

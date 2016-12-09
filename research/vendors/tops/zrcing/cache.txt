@@ -1,0 +1,3 @@
+src/Deer/Cache/
+README.md
+composer.json

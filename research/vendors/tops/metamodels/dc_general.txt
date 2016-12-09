@@ -1,0 +1,14 @@
+contao-compat/
+contao/
+src/ContaoCommunityAlliance/DcGeneral/
+tests/
+.check-author.yml
+.gitignore
+.travis.yml
+LICENSE
+README.md
+build.default.properties
+build.xml
+composer.json
+phpdoc.yml
+phpunit.xml.dist

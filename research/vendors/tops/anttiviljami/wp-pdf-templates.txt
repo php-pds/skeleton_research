@@ -1,0 +1,12 @@
+assets/
+vendor/
+.gitignore
+LICENSE
+composer.json
+composer.lock
+index-pdf.php
+load_font.php
+readme.md
+readme.txt
+uninstall.php
+wp-pdf-templates.php

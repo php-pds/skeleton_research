@@ -1,0 +1,8 @@
+Commands/
+.gitignore
+LICENSE
+README.md
+cli.php
+composer.json
+composer.lock
+exec-command.sh

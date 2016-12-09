@@ -1,0 +1,8 @@
+Controller/
+DependencyInjection/
+Resources/
+Tests/Controller/
+LICENSE
+PageonAccountingBundle.php
+composer.json
+phpunit.xml.dist

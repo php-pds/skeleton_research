@@ -1,0 +1,13 @@
+img/
+translations/
+upgrade/
+CHANGELOG.txt
+Readme.md
+blocksocial.jpg
+blocksocial.php
+blocksocial.tpl
+composer.json
+config.xml
+index.php
+logo.gif
+logo.png

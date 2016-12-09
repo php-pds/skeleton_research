@@ -1,0 +1,6 @@
+src/SamBurns/RequestAndResponseHelper/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock

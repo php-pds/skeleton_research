@@ -1,0 +1,7 @@
+config/install/
+js/
+README.md
+composer.json
+markaspot_static_json.info.yml
+markaspot_static_json.libraries.yml
+markaspot_static_json.module

@@ -1,0 +1,4 @@
+barnabywalters/VCard/
+.gitignore
+README.md
+composer.json

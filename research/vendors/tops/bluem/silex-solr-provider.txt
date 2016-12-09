@@ -1,0 +1,6 @@
+src/BlueM/Silex/Provider/
+tests/BlueM/Silex/Provider/
+.travis.yml
+README.md
+composer.json
+phpunit.xml.dist

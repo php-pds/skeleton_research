@@ -1,0 +1,7 @@
+Classes/TYPO3/Neos/GoogleAnalytics/
+Configuration/
+Documentation/
+Migrations/
+Resources/Private/
+Tests/Unit/Domain/Dto/
+composer.json

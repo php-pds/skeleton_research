@@ -1,0 +1,10 @@
+docs/
+src/Functional/
+tests/Functional/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+README.md
+build.xml
+composer.json
+phpunit.xml.dist

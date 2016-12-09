@@ -1,0 +1,8 @@
+config/
+data/
+src/CsnCms/
+view/csn-cms/
+LICENSE
+Module.php
+README.md
+composer.json

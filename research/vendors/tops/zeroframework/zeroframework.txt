@@ -1,0 +1,9 @@
+applications/test/
+controller/
+lib/
+src/
+.gitattributes
+.gitignore
+README.md
+composer.json
+core.php

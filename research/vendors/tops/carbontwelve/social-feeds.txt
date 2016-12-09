@@ -1,0 +1,10 @@
+assets/js/
+feeds/
+libs/
+views/
+.gitattributes
+.gitignore
+LICENSE
+README.md
+c12_social_feeds.php
+composer.json

@@ -1,0 +1,14 @@
+Action/
+Config/
+Controller/
+Event/
+Form/
+Hook/
+I18n/backOffice/default/
+Loop/
+Model/
+templates/
+LICENSE.txt
+PopIn.php
+README.md
+composer.json

@@ -1,0 +1,16 @@
+bin/
+build/
+features/
+spec/PhpGuard/Plugins/Behat/
+src/
+.gitignore
+.php_cs
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+behat.yml.dist
+composer.json
+phpguard.yml.dist
+phpspec.yml.dist
+phpunit.xml.dist

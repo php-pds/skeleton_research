@@ -1,0 +1,13 @@
+phpcs/php-timeago/
+src/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+build.xml
+composer.json
+composer.lock
+humbug.json.dist
+phpcs.xml.dist
+phpunit.xml.dist

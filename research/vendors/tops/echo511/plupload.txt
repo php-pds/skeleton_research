@@ -1,0 +1,6 @@
+assets/
+src/Echo511/Plupload/
+.gitattributes
+.gitignore
+README.md
+composer.json

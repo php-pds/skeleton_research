@@ -1,0 +1,10 @@
+assets/
+controllers/
+messages/
+migrations/
+models/
+views/
+Module.php
+README.md
+composer.json
+config.php

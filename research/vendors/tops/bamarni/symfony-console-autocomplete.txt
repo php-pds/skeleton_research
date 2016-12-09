@@ -1,0 +1,8 @@
+templates/
+tests/
+.gitignore
+.travis.yml
+LICENSE.md
+README.md
+composer.json
+symfony-autocomplete

@@ -1,0 +1,10 @@
+bin/
+lib/
+resources/schema/
+tests/
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+composer.json

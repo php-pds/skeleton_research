@@ -1,0 +1,5 @@
+CronManager/
+sql/
+.gitignore
+README.md
+composer.json

@@ -1,0 +1,12 @@
+DependencyInjection/
+Entity/
+Resources/
+Services/
+Tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+SeferovAwsBundle.php
+composer.json
+phpunit.xml.dist

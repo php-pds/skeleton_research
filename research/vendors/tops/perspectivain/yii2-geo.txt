@@ -1,0 +1,4 @@
+lib/
+DEMO.md
+README.md
+composer.json

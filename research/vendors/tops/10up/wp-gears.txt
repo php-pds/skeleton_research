@@ -1,0 +1,16 @@
+bin/
+includes/
+tests/
+.gitignore
+.travis.yml
+CHANGELOG.md
+autoload.php
+composer.json
+composer.lock
+phpunit.xml
+portkey.json
+readme.md
+test-client.php
+test-worker.php
+wp-gears-runner.php
+wp-gears.php

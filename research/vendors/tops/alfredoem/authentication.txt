@@ -1,0 +1,6 @@
+app/
+public/css/
+resources/
+LICENSE
+README.md
+composer.json

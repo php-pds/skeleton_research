@@ -1,0 +1,5 @@
+Config/
+Model/
+Test/Case/Model/
+README.md
+composer.json

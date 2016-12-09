@@ -1,0 +1,9 @@
+mougrim/yii2ContainerConfigurator/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml

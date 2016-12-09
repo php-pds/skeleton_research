@@ -1,0 +1,6 @@
+autoloads/
+classes/
+design/
+settings/
+composer.json
+extension.xml

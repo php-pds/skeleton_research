@@ -1,0 +1,9 @@
+controllers/
+lang/
+updates/
+.gitattributes
+.gitignore
+LICENCE.md
+Plugin.php
+README.md
+composer.json

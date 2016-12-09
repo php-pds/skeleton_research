@@ -1,0 +1,11 @@
+src/Genj/FaqBundle/
+tests/
+.gitignore
+CHANGELOG.md
+LICENSE
+README.md
+UPGRADE.md
+build.xml
+composer.json
+composer.lock
+phpunit.xml.dist

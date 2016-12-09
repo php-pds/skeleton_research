@@ -1,0 +1,8 @@
+spec/BenjaM1/Wordpress/
+src/BenjaM1/Wordpress/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock

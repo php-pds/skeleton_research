@@ -1,0 +1,10 @@
+Controller/
+Data/
+DependencyInjection/
+Resources/
+Service/
+.gitignore
+LICENSE
+README.md
+composer.json
+oliverde8MPDedicatedServerBundle.php

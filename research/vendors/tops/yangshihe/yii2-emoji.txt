@@ -1,0 +1,9 @@
+lib/
+Emoji-test.php
+Emoji.php
+EmojiAsset.php
+README.md
+b.md
+composer.json
+emoji_code-1.json
+emoji_code.json

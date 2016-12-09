@@ -1,0 +1,8 @@
+_examples/
+resources/
+.gitignore
+RedactorIconButtonsPlugin.php
+composer.json
+config.php
+readme.md
+releases.json

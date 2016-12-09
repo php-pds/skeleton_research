@@ -1,0 +1,17 @@
+Admin/
+Composer/
+Controller/
+DataFixtures/PHPCR/
+DependencyInjection/
+Document/
+Form/Type/
+Initializer/
+Manager/
+Resources/
+Tests/Controller/
+Twig/
+.gitignore
+README.md
+SevenManagerBundle.php
+composer.json
+composer.lock

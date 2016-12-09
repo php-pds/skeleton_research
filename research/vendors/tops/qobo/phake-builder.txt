@@ -1,0 +1,13 @@
+build/
+etc/
+src/
+tests/
+.editorconfig
+.env.example
+.gitignore
+.travis.yml
+COPYING
+Phakefile.php
+README.md
+composer.json
+phpunit.xml.dist

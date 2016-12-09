@@ -1,0 +1,9 @@
+actions/
+controllers/
+migrations/
+models/
+views/
+widgets/
+Module.php
+README.md
+composer.json

@@ -1,0 +1,4 @@
+config/
+src/ArpOdmSpecification/
+Module.php
+composer.json

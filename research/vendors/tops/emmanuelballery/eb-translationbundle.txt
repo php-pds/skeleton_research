@@ -1,0 +1,9 @@
+DependencyInjection/
+Resources/config/
+Translation/
+Twig/Extension/
+.gitignore
+EBTranslationBundle.php
+LICENSE
+README.md
+composer.json

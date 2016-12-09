@@ -1,0 +1,11 @@
+_config/
+code/
+javascript/
+tests/
+.gitattributes
+CHANGELOG
+LICENSE
+README.md
+VERSION
+_config.php
+composer.json

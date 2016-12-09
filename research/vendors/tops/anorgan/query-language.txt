@@ -1,0 +1,9 @@
+src/Anorgan/
+tests/
+.editorconfig
+.gitignore
+.travis.yml
+LICENCE
+README.md
+composer.json
+phpunit.xml

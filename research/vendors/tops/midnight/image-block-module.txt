@@ -1,0 +1,6 @@
+config/
+mapping/
+public/css/image/
+src/
+view/image/image/
+composer.json

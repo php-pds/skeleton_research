@@ -1,0 +1,14 @@
+app/
+available/
+bin/
+config/
+public/
+src/
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+README.md
+bower.json
+composer.json
+phpunit.xml

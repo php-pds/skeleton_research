@@ -1,0 +1,12 @@
+src/TreeHouse/Queue/
+tests/TreeHouse/Queue/Tests/
+.editorconfig
+.gitignore
+.php_cs
+.scrutinizer.yml
+.travis.yml
+CHANGELOG.md
+LICENSE.md
+README.md
+composer.json
+phpunit.xml.dist

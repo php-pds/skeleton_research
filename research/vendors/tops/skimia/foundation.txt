@@ -1,0 +1,13 @@
+docs/
+src/
+tests/
+.gitignore
+.styleci.yml
+.travis.yml
+LICENSE
+README.md
+apigen.neon
+composer.json
+couscous.yml
+generate-api.sh
+phpunit.xml

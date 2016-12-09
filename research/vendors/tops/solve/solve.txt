@@ -1,0 +1,17 @@
+Application/
+Controller/
+Debug/
+DocComment/
+Environment/
+Kernel/
+Router/
+Security/
+Session/
+SolveConsole/
+Tests/
+View/
+.gitignore
+LICENSE
+README.md
+composer.json
+functions.php

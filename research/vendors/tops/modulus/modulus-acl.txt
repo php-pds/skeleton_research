@@ -1,0 +1,10 @@
+config/
+docs/
+src/ModulusAcl/
+view/
+.gitignore
+LICENSE
+Module.php
+README.md
+autoload_classmap.php
+composer.json

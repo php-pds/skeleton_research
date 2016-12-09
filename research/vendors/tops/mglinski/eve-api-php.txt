@@ -1,0 +1,5 @@
+src/Eve/
+.gitignore
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,7 @@
+.gitignore
+FontAwesomeAsset.php
+JsTree.php
+JsTreeAsset.php
+JsTreeInput.php
+LICENSE
+composer.json

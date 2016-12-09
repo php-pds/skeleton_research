@@ -1,0 +1,9 @@
+config/
+db/
+public/
+src/QuChat/
+view/qu-chat/qu-chat/
+.gitignore
+Module.php
+README.md
+composer.json

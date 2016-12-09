@@ -1,0 +1,4 @@
+lib/Skeleton/Event/
+LICENSE
+README.md
+composer.json

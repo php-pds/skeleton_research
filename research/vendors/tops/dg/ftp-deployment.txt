@@ -1,0 +1,10 @@
+src/
+tests/
+.gitignore
+.travis.yml
+composer.json
+deployment
+deployment.sample.ini
+deployment.sample.php
+license.md
+readme.md

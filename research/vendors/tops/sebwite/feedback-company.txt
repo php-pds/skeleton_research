@@ -1,0 +1,8 @@
+Block/
+Model/
+etc/
+.gitignore
+README.md
+cache.json
+composer.json
+registration.php

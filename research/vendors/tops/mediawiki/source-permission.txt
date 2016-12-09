@@ -1,0 +1,6 @@
+i18n/
+LICENSE
+README.md
+SourcePermission.i18n.php
+SourcePermission.php
+composer.json

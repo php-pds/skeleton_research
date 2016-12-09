@@ -1,0 +1,12 @@
+src/
+tests/
+.gitignore
+.gitlab-ci.yml
+.scrutinizer.yml
+.travis.yml
+CHANGELOG.md
+LICENSE.md
+README.md
+codeception.yml
+composer.json
+composer.lock

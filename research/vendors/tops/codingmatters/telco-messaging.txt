@@ -1,0 +1,15 @@
+config/
+src/TelcoMsg/
+tests/TelcoMsgTest/
+view/telco-msg/
+.gitignore
+.travis.yml
+Bootstrap.php
+LICENSE
+Module.php
+README.md
+autoload_classmap.php
+autoload_function.php
+autoload_register.php
+composer.json
+phpunit.xml

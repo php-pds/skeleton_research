@@ -1,0 +1,8 @@
+src/Mandango/Behavior/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.phar
+phpunit.xml

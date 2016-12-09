@@ -1,0 +1,11 @@
+resources/
+src/
+tests/
+.coveralls.yml
+.gitattributes
+.gitignore
+.php_cs
+.travis.yml
+LICENSE
+composer.json
+phpunit.xml

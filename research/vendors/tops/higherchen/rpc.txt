@@ -1,0 +1,6 @@
+Swoole/
+Test/
+Thrift/
+.gitignore
+README.md
+composer.json

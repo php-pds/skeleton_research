@@ -1,0 +1,8 @@
+DependencyInjection/
+Resources/
+Services/
+Tests/Controller/
+AxeleroAwsTranscoderBundle.php
+LICENSE
+README.md
+composer.json

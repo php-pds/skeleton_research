@@ -1,0 +1,12 @@
+Command/
+Database/
+DependencyInjection/
+Entity/
+Model/
+Resources/config/
+Traits/
+.gitignore
+KuborghQueueBundle.php
+LICENSE
+README.md
+composer.json

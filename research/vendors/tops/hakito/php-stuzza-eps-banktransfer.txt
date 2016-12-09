@@ -1,0 +1,13 @@
+XSD/
+samples/
+src/
+tests/unit/at/externet/eps_bank_transfer/
+.coveralls.yml
+.gitignore
+.travis.yml
+LICENSE
+README.md
+build.xml
+composer.json
+phpunit-bootstrap.php
+phpunit.xml

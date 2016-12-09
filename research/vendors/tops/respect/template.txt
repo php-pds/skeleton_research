@@ -1,0 +1,11 @@
+examples/
+library/Respect/Template/
+tests/library/Respect/Template/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CONTRIBUTING.md
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

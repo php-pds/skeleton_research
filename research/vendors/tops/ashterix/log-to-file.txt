@@ -1,0 +1,6 @@
+Exemples/
+src/LogToFile/
+.gitignore
+LICENSE
+README.md
+composer.json

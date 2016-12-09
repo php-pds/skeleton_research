@@ -1,0 +1,11 @@
+config/
+src/T4webPages/
+tests/
+view/t4web-pages/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+Module.php
+README.md
+codeception.yml
+composer.json

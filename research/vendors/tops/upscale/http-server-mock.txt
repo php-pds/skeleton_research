@@ -1,0 +1,11 @@
+src/
+tests/
+.gitignore
+.htaccess
+.travis.yml
+README.md
+autoload.php
+composer.json
+config.json.dist
+mime-types.php
+server.php

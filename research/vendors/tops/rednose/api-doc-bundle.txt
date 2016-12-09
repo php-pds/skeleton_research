@@ -1,0 +1,5 @@
+Resources/
+.gitignore
+LICENSE
+RednoseApiDocBundle.php
+composer.json

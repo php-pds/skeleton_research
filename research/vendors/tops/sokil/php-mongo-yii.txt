@@ -1,0 +1,6 @@
+src/Sokil/Mongo/Yii/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock

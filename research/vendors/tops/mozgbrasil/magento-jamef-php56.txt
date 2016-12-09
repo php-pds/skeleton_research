@@ -1,0 +1,8 @@
+app/
+js/mozg_jamef/
+skin/
+CHANGELOG.md
+LICENSE.txt
+README.md
+composer.json
+modman

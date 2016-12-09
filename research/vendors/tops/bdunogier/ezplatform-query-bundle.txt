@@ -1,0 +1,10 @@
+Command/
+DependencyInjection/
+Exception/
+Formatter/
+Resources/config/
+.gitignore
+BDEzPlatformQueryBundle.php
+LICENSE
+README.md
+composer.json

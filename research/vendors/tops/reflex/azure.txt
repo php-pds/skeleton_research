@@ -1,0 +1,6 @@
+src/Reflex/Azure/
+.gitignore
+README.md
+composer.json
+phpunit.php
+phpunit.xml

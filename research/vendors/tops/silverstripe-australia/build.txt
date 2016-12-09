@@ -1,0 +1,17 @@
+configs/silverstripe/
+scripts/
+.gitignore
+.htaccess
+ApplyPatchesTask.php
+CopyFoldersTask.php
+LICENSE
+LoadModulesTask.php
+README.md
+SilverStripeBuildTask.php
+SilverStripeDeployTask.php
+SilverStripeTestTask.php
+SymlinkTask.php
+build.properties.sample
+buildfile.xml
+composer.json
+dependent-modules

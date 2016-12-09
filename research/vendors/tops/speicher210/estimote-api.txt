@@ -1,0 +1,13 @@
+src/
+tests/Resource/
+.gitignore
+.scrutinizer.yml
+.styleci.yml
+.travis.yml
+CHANGELOG.md
+CONDUCT.md
+CONTRIBUTING.md
+LICENSE.md
+README.md
+composer.json
+phpunit.xml.dist

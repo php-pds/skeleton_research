@@ -1,0 +1,5 @@
+app/config/
+src/Arhitect/Translator/
+.gitignore
+LICENSE
+composer.json

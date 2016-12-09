@@ -1,0 +1,12 @@
+css/
+images/
+languages/
+menu/
+LICENSE.md
+README.md
+composer.json
+footer.php
+functions.php
+header.php
+screenshot.png
+style.css

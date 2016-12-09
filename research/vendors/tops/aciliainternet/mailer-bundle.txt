@@ -1,0 +1,7 @@
+DependencyInjection/
+Library/
+Resources/config/
+Service/
+.gitignore
+AciliaMailerBundle.php
+composer.json

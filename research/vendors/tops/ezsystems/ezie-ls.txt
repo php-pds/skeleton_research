@@ -1,0 +1,11 @@
+classes/
+design/standard/
+doc/
+modules/ezie/
+settings/
+translations/
+.gitignore
+LICENSE
+README
+composer.json
+extension.xml

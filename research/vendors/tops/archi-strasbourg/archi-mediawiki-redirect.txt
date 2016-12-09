@@ -1,0 +1,5 @@
+.gitignore
+composer.json
+composer.lock
+constants.php
+redirect.php

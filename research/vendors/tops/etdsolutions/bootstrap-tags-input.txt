@@ -1,0 +1,8 @@
+LICENSE
+README.md
+bootstrap-tagsinput.css
+bootstrap-tagsinput.js
+bootstrap-tagsinput.less
+bootstrap-tagsinput.min.js
+bootstrap-tagsinput.min.js.map
+composer.json

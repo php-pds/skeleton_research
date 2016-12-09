@@ -1,0 +1,14 @@
+api/v1/
+build/
+css/
+fonts/
+images/
+resources/assets/js/
+vendor/
+.gitignore
+component.json
+composer.json
+composer.lock
+gulpfile.js
+package.json
+test.html

@@ -1,0 +1,6 @@
+src/Keboola/GenericExtractor/Modules/
+.gitignore
+LICENSE
+README.md
+composer.json
+phpunit.xml

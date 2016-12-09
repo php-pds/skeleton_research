@@ -1,0 +1,11 @@
+i18n/
+refreshed/
+.gitignore
+.gitmodules
+COPYING
+LICENSE
+README.md
+Refreshed.skin.php
+composer.json
+script.sh
+skin.json

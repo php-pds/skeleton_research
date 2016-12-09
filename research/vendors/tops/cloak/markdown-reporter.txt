@@ -1,0 +1,11 @@
+example/
+script/
+spec/
+src/reporter/
+.coveralls.yml
+.scrutinizer.yml
+.travis.yml
+LICENSE
+Phakefile
+README.md
+composer.json

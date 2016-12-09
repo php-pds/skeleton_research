@@ -1,0 +1,3 @@
+src/PackagistTest/
+README.md
+composer.json

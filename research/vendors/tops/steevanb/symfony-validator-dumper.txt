@@ -1,0 +1,7 @@
+Bridge/SymfonyValidatorDumperBundle/
+Constraints/
+Documentation/
+Event/
+ConstraintValidatorFactoryDecorator.php
+README.md
+composer.json

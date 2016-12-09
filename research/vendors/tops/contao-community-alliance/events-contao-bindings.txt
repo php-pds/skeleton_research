@@ -1,0 +1,11 @@
+contao/config/
+src/ContaoCommunityAlliance/Contao/Bindings/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+build.default.properties
+build.xml
+composer.json
+phpunit.xml.dist

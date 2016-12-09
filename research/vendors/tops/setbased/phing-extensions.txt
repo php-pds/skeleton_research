@@ -1,0 +1,7 @@
+src/Task/
+.gitignore
+.version
+LICENSE
+README.md
+build.xml
+composer.json

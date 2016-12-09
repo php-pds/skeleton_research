@@ -1,0 +1,9 @@
+build/
+lib/Puzzle/Images/
+tests/Puzzle/Images/
+.gitignore
+.travis.yml
+README.md
+build.xml
+composer.json
+phpunit.xml

@@ -1,0 +1,7 @@
+features/
+src/Silex/ckan/
+test/
+.gitignore
+README
+composer.json
+phpunit.xml

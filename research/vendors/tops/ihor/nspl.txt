@@ -1,0 +1,10 @@
+examples/
+nspl/
+tests/
+.gitignore
+CHANGELOG.md
+LICENSE
+README.md
+autoload.php
+composer.json
+index.md

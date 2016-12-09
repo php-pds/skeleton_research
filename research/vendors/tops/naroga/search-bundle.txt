@@ -1,0 +1,16 @@
+Command/
+DependencyInjection/
+Docs/
+Engine/
+Entity/
+Exception/
+Resources/config/
+Search/
+Tests/
+.gitignore
+.travis.yml
+NarogaSearchBundle.php
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

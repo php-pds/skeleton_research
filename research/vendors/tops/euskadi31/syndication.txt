@@ -1,0 +1,7 @@
+example/
+src/Syndication/
+.gitignore
+LICENSE
+Makefile
+README.md
+composer.json

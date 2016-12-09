@@ -1,0 +1,8 @@
+DependencyInjection/
+Library/Twig/
+Resources/
+Service/
+.gitignore
+AciliaMetaTagsBundle.php
+README.md
+composer.json

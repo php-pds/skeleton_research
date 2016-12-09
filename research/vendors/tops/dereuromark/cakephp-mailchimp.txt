@@ -1,0 +1,13 @@
+Controller/
+Lib/
+Model/
+Network/Email/
+Test/
+Vendor/Mandrill/
+View/
+docs/
+.editorconfig
+.gitattributes
+.travis.yml
+README.md
+composer.json

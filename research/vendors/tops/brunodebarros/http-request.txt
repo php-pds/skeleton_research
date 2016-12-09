@@ -1,0 +1,4 @@
+src/HTTP/
+.gitignore
+README.md
+composer.json

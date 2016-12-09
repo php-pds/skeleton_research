@@ -1,0 +1,12 @@
+img/
+js/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+composer.json
+echo-js-lazy-load.php
+phpcs.ruleset.xml
+phpunit.xml
+readme.md
+wpcom-helper.php

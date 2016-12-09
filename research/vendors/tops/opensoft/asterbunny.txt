@@ -1,0 +1,8 @@
+bin/
+src/Opensoft/AsterBunny/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock
+log4php.dist.xml

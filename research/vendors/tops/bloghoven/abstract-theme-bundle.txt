@@ -1,0 +1,6 @@
+DependencyInjection/
+Resources/
+Tests/Controller/
+.gitignore
+BloghovenAbstractThemeBundle.php
+composer.json

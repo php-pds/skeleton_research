@@ -1,0 +1,6 @@
+examples/
+src/Social/
+tests/
+.gitignore
+composer.json
+phpunit.xml.dist

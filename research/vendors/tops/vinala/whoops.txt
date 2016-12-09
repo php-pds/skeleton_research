@@ -1,0 +1,14 @@
+docs/
+examples/
+src/Whoops/
+tests/
+.gitattributes
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CONTRIBUTING.md
+LICENSE.md
+README.md
+VERSION.md
+composer.json
+phpunit.xml.dist

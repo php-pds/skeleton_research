@@ -1,0 +1,5 @@
+better-font-awesome-library/
+js/
+LICENSE
+composer.json
+plugin.php

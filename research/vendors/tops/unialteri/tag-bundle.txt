@@ -1,0 +1,11 @@
+Assistant/
+DependencyInjection/
+Entity/Interfaces/
+Resources/
+.gitignore
+.gitmodules
+CMediaTagBundle.php
+LICENSE
+README.md
+UniAlteriTagBundle.php
+composer.json

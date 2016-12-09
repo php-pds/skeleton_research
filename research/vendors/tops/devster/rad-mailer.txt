@@ -1,0 +1,9 @@
+src/
+tests/
+.atoum.php
+.atoum.travis.php
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json

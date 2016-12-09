@@ -1,0 +1,12 @@
+bin/
+dist/Framework/
+src/
+test/
+.gitattributes
+.gitignore
+.php_cs
+.travis.yml
+LICENSE.txt
+README.md
+composer.json
+phpunit.xml.dist

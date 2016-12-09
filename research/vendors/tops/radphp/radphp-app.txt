@@ -1,0 +1,10 @@
+bin/
+src/
+var/
+web/
+.env
+.gitignore
+LICENSE
+README.md
+Vagrantfile
+composer.json

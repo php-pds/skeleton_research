@@ -1,0 +1,4 @@
+assets/
+BootstrapSwitch.php
+BootstrapSwitchAsset.php
+composer.json

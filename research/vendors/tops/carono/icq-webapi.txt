@@ -1,0 +1,6 @@
+.gitignore
+Icq.php
+IcqCore.php
+README.md
+composer.json
+composer.lock

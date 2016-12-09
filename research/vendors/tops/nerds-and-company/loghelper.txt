@@ -1,0 +1,6 @@
+logging/
+LICENSE
+LogHelperPlugin.php
+README.md
+composer.json
+config.php

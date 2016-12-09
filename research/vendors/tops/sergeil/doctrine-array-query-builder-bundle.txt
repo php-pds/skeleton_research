@@ -1,0 +1,13 @@
+DependencyInjection/
+Parsing/
+Querying/
+Resources/
+SortingFieldResolving/
+Tests/
+.gitignore
+.travis.yml
+README.md
+SliDoctrineArrayQueryBuilderBundle.php
+composer.json
+composer.lock
+phpunit.xml.dist

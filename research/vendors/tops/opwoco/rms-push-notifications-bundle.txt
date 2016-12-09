@@ -1,0 +1,16 @@
+Command/
+DependencyInjection/
+Device/
+Exception/
+Message/
+Resources/config/
+Service/
+Tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+RMSPushNotificationsBundle.php
+composer.json
+phpunit.travis.xml
+phpunit.xml.dist

@@ -1,0 +1,8 @@
+Api.php
+FileBehavior.php
+FilesBehavior.php
+Image.php
+LICENSE
+README.md
+UploadCare.php
+composer.json

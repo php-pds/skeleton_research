@@ -1,0 +1,12 @@
+i18n/
+.gitignore
+.gitreview
+.jscsrc
+ActionDeletePagePermanently.php
+COPYING
+DeletePagesForGood.php
+Gruntfile.js
+composer.json
+extension.json
+package.json
+phpcs.xml

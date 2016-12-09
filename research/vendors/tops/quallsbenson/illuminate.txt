@@ -1,0 +1,6 @@
+Database/
+Tests/
+vendor/
+.gitignore
+composer.json
+composer.lock

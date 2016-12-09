@@ -1,0 +1,10 @@
+src/Kisphp/
+tests/
+.codecov.yml
+.gitignore
+.php_cs
+.travis.yml
+LICENSE
+composer.json
+phpunit.xml.dist
+readme.md

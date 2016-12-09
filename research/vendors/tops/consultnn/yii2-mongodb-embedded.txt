@@ -1,0 +1,11 @@
+tests/
+.gitignore
+AbstractEmbeddedBehavior.php
+EmbeddedDocument.php
+EmbedsManyBehavior.php
+EmbedsOneBehavior.php
+README.md
+Storage.php
+StorageInterface.php
+codeception.yml
+composer.json

@@ -1,0 +1,8 @@
+images/
+.gitignore
+.infra.json
+README.md
+bower.json
+carousel.js
+composer.json
+index.html

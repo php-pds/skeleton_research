@@ -1,0 +1,13 @@
+public/
+src/Pushy/
+test/
+vendor/
+.scrutinizer.yml
+.travis.yml
+README.md
+bootstrap.php
+composer.json
+composer.lock
+init.deployment.php
+init.environment.php
+phpunit.xml.dist

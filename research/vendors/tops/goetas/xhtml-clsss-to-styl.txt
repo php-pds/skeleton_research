@@ -1,0 +1,3 @@
+lib/Goetas/XhtmlClassToStyle/
+README.md
+composer.json

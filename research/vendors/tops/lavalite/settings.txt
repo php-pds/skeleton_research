@@ -1,0 +1,10 @@
+config/
+database/
+public/
+resources/
+src/Lavalite/Settings/
+tests/
+.gitignore
+.travis.yml
+composer.json
+phpunit.xml

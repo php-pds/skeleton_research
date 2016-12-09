@@ -1,0 +1,9 @@
+app/
+config/
+.gitignore
+Capfile
+Gemfile
+README.md
+composer.json
+index.php
+wp-config.php

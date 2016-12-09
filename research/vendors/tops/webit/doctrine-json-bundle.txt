@@ -1,0 +1,8 @@
+DependencyInjection/
+Resources/config/
+Tests/
+.gitignore
+README.md
+WebitDoctrineJsonBundle.php
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,12 @@
+.gitignore
+BaseDataService.php
+BaseEntity.php
+BaseQueryProvider.php
+CHANGELOG.md
+DataService.php
+EntityTrait.php
+LICENSE
+QueryProvider.php
+README.md
+composer.json
+composer.lock

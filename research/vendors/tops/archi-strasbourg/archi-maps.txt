@@ -1,0 +1,7 @@
+bower_components/
+css/
+js/
+ArchiMaps.php
+bower.json
+composer.json
+extension.json

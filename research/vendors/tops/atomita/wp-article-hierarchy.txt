@@ -1,0 +1,4 @@
+src/atomita/wordpress/
+LICENSE
+README.md
+composer.json

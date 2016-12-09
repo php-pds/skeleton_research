@@ -1,0 +1,11 @@
+Command/
+DependencyInjection/
+Resources/meta/
+Tests/
+.coveralls.yml
+.gitignore
+.travis.yml
+README.md
+RobotsTxtBundle.php
+composer.json
+phpunit.xml.dist

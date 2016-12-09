@@ -1,0 +1,10 @@
+DependencyInjection/
+Doctrine/Mongodb/
+Form/Type/
+Model/
+Resources/
+Service/
+Sonata/Extension/
+FDevsRoutingBundle.php
+README.md
+composer.json

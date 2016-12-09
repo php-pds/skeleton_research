@@ -1,0 +1,8 @@
+Classes/Networkteam/Neos/Shariff/
+Configuration/
+Resources/
+.bowerrc
+.gitignore
+README.md
+bower.json
+composer.json

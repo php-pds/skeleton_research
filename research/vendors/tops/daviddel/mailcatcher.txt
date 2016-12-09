@@ -1,0 +1,14 @@
+Behat/MailCatcherExtension/
+Mime/
+Test/
+Tests/
+.gitignore
+.travis.yml
+Attachment.php
+Client.php
+LICENSE
+Message.php
+Person.php
+README.rst
+composer.json
+phpunit.xml.dist

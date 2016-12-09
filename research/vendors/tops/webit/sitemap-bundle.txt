@@ -1,0 +1,7 @@
+Controller/
+DependencyInjection/
+Resources/config/
+.gitignore
+README.md
+WebitSitemapBundle.php
+composer.json

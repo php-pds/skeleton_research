@@ -1,0 +1,13 @@
+DependencyInjection/
+Doctrine/
+Extension/
+Factory/
+Form/
+Manager/
+Model/
+Provider/
+Resources/config/
+spec/
+SWPMenuBundle.php
+composer.json
+phpspec.yml.dist

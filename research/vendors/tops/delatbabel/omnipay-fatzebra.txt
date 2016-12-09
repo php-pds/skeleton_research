@@ -1,0 +1,12 @@
+src/
+tests/
+.gitignore
+.styleci.yml
+.travis.yml
+CONTRIBUTING.md
+LICENSE
+README.md
+composer.json
+makedoc.sh
+phpunit.xml.dist
+runtests.sh

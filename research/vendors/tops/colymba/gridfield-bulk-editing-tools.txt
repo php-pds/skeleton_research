@@ -1,0 +1,14 @@
+bulkManager/
+bulkUpload/
+images/
+lang/
+screenshots/
+tasks/
+.editorconfig
+.gitattributes
+.gitignore
+.scrutinizer.yml
+README.md
+_config.php
+build.xml
+composer.json

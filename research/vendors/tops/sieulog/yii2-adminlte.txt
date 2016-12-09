@@ -1,0 +1,5 @@
+Assets.php
+FontAwesomeAssets.php
+IoniconAssets.php
+README.md
+composer.json

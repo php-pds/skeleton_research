@@ -1,0 +1,6 @@
+.gitignore
+Plugin.php
+README.md
+autoload-dev.php
+composer.json
+locaload

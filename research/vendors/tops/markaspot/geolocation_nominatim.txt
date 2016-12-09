@@ -1,0 +1,6 @@
+src/Plugin/Field/FieldWidget/
+README.md
+composer.json
+geolocation_nominatim.info.yml
+geolocation_nominatim.libraries.yml
+geolocation_nominatim.widget.js

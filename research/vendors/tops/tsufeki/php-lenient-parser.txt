@@ -1,0 +1,13 @@
+bin/
+grammar/
+lib/PhpLenientParser/
+test/
+test_old/
+.gitignore
+CHANGELOG.md
+LICENSE
+LenientPhp5,
+LenientPhp7,
+README.md
+composer.json
+phpunit.xml.dist

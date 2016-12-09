@@ -1,0 +1,16 @@
+dist/
+html/
+less/
+nightwatch/
+specs/
+src/
+.gitignore
+.jshintrc
+.travis.yml
+Gruntfile.js
+LICENSE
+README.md
+bower.json
+composer.json
+nightwatch.json
+package.json

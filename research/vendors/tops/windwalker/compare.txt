@@ -1,0 +1,17 @@
+Test/
+.gitignore
+.travis.yml
+Compare.php
+CompareHelper.php
+EqCompare.php
+GtCompare.php
+GteCompare.php
+InCompare.php
+LtCompare.php
+LteCompare.php
+NeqCompare.php
+NinCompare.php
+README.md
+composer.json
+phpunit.travis.xml
+phpunit.xml.dist

@@ -1,0 +1,6 @@
+src/YouTrack/
+.gitignore
+README.md
+composer.json
+composer.lock
+demo.php

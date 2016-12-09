@@ -1,0 +1,7 @@
+vagrant/
+.gitignore
+LICENSE
+README.md
+Vagrantfile
+composer.json
+config.rb.dst

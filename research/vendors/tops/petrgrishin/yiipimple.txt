@@ -1,0 +1,3 @@
+YiiPimple/
+README.md
+composer.json

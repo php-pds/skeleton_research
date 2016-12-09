@@ -1,0 +1,7 @@
+Controller/
+DependencyInjection/
+Resources/
+.gitignore
+EEExceptionJSBundle.php
+README.md
+composer.json

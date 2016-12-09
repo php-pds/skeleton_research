@@ -1,0 +1,13 @@
+config/
+docs/
+example/
+src/Imaginator/
+tests/
+.gitattributes
+.gitignore
+.travis.yml
+LICENSE
+README.md
+changelog.txt
+composer.json
+phpunit.xml

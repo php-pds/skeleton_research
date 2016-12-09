@@ -1,0 +1,3 @@
+src/PHPixie/
+.gitignore
+composer.json

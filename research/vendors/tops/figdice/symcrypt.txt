@@ -1,0 +1,7 @@
+test/
+CHANGELOG
+Crypt.php
+LICENSE
+README.md
+composer.json
+composer.lock

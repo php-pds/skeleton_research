@@ -1,0 +1,11 @@
+Tests/
+cache/
+src/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+config-simple-logger.yml.dist
+demo.php
+phpunit.xml.dist

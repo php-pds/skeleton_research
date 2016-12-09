@@ -1,0 +1,16 @@
+DependencyInjection/
+Document/
+Entity/
+Model/
+Resources/config/
+Services/
+Tests/
+.coveralls.yml
+.gitignore
+.project
+.travis.yml
+LICENSE
+README.md
+StingerSoftDoctrineEntitySearchBundle.php
+composer.json
+phpunit.xml.dist

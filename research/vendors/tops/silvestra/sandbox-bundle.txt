@@ -1,0 +1,7 @@
+DependencyInjection/
+Entity/
+Resources/
+LICENSE
+README.md
+SilvestraSandboxBundle.php
+composer.json

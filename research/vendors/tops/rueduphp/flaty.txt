@@ -1,0 +1,7 @@
+bin/
+public/
+site/
+vendor/
+.htaccess
+composer.json
+composer.lock

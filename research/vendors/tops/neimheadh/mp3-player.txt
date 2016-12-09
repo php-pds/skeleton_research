@@ -1,0 +1,11 @@
+classes/
+mtasc/
+template_default/
+template_js/
+template_maxi/
+template_mini/
+template_multi/
+.gitignore
+build.xml
+composer.json
+license.txt

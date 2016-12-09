@@ -1,0 +1,7 @@
+src/
+tests/Bundle/RedisBundle/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json

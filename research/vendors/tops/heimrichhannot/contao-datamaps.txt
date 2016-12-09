@@ -1,0 +1,12 @@
+assets/
+classes/
+config/
+dca/
+elements/
+languages/en/
+models/
+templates/
+.bowerrc
+.gitignore
+README.md
+composer.json

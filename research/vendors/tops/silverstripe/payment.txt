@@ -1,0 +1,15 @@
+code/
+images/
+javascript/
+lang/
+templates/Includes/
+tests/DPSPayment/
+.editorconfig
+.gitattributes
+.scrutinizer.yml
+CHANGELOG.md
+LICENSE
+README.md
+_config.php
+code-of-conduct.md
+composer.json

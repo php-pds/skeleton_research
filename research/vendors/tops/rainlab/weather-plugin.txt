@@ -1,0 +1,7 @@
+assets/
+components/
+data/
+.gitignore
+Plugin.php
+composer.json
+readme.md

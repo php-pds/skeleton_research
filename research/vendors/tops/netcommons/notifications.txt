@@ -1,0 +1,9 @@
+Config/
+Locale/
+Model/
+Test/
+.gitattributes
+.travis.yml
+README.md
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,13 @@
+classes/
+config/
+guide/jam/
+messages/
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml

@@ -1,0 +1,6 @@
+doc/Horde/Translation/
+lib/Horde/
+test/Horde/Translation/
+.gitignore
+composer.json
+package.xml

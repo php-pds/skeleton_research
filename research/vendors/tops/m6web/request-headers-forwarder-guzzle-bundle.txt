@@ -1,0 +1,11 @@
+src/
+.atoum.php
+.bootstrap.atoum.php
+.coke
+.editorconfig
+.gitignore
+.travis.yml
+CONTRIBUTING.md
+LICENSE
+README.md
+composer.json

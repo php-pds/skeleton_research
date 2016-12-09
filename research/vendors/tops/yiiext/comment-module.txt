@@ -1,0 +1,12 @@
+behaviors/
+controllers/
+extensions/
+migrations/
+models/
+tests/
+views/comment/
+.gitmodules
+CHANGELOG.md
+CommentModule.php
+README.md
+composer.json

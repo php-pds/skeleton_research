@@ -1,0 +1,17 @@
+tests/
+.gitattributes
+.gitignore
+.travis.yml
+ActiveQuery.php
+ActiveRecord.php
+CHANGELOG.md
+Connection.php
+FileManager.php
+FileManagerJson.php
+FileManagerPhp.php
+LICENSE.md
+Query.php
+QueryProcessor.php
+README.md
+composer.json
+phpunit.xml.dist

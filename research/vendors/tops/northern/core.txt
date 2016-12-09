@@ -1,0 +1,8 @@
+mapping/
+src/Northern/Core/
+tests/Northern/Core/Component/User/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock

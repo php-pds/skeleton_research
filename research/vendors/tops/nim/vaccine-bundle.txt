@@ -1,0 +1,11 @@
+DependencyInjection/
+Form/Type/
+Model/
+Resources/
+spec/NIM/VaccineBundle/
+.scrutinizer.yml
+.travis.yml
+CHANGELOG.md
+NIMVaccineBundle.php
+README.md
+composer.json

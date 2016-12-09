@@ -1,0 +1,6 @@
+test/
+.gitignore
+ExpiringHash.php
+composer.json
+pearfarm.spec
+readme.md

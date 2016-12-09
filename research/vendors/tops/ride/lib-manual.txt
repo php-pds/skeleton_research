@@ -1,0 +1,4 @@
+src/ride/library/manual/
+.gitignore
+README.md
+composer.json

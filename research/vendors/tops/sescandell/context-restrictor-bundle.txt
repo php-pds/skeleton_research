@@ -1,0 +1,12 @@
+DependencyInjection/
+Event/
+Exception/
+Filter/
+Listener/
+Manager/
+Resources/config/
+Storage/
+.gitignore
+README.md
+SescandellContextRestrictorBundle.php
+composer.json

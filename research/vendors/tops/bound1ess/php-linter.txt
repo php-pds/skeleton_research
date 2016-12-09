@@ -1,0 +1,10 @@
+bin/
+errors/
+spec/Bound1ess/PhpLinter/
+src/Bound1ess/PhpLinter/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock
+phpspec.yml

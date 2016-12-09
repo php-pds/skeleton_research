@@ -1,0 +1,7 @@
+DependencyInjection/
+Resources/
+Twig/Extension/
+AdmingeneratorFormBundle.php
+LICENSE
+README.md
+composer.json

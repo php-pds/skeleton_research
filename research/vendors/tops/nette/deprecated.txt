@@ -1,0 +1,10 @@
+src/
+tests/
+tools/Class-Updater/
+.gitattributes
+.gitignore
+.travis.yml
+composer.json
+contributing.md
+license.md
+readme.md

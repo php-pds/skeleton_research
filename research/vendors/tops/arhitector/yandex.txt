@@ -1,0 +1,8 @@
+example/
+src/
+.editorconfig
+.gitattributes
+.gitignore
+LICENSE.md
+README.md
+composer.json

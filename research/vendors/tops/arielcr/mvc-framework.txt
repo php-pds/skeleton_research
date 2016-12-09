@@ -1,0 +1,10 @@
+app/
+config/
+css/
+js/
+lib/
+.gitignore
+.htaccess
+README.md
+composer.json
+index.php

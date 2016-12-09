@@ -1,0 +1,7 @@
+src/ActiveLAMP/TaxonomyBundle/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json

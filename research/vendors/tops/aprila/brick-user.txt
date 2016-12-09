@@ -1,0 +1,4 @@
+sql/
+src/Brick/User/
+composer.json
+license.md

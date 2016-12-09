@@ -1,0 +1,3 @@
+phpthumb/
+README.md
+composer.json

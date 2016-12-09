@@ -1,0 +1,12 @@
+.phpspec/
+spec/
+src/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+phpspec.yml
+phpunit.xml

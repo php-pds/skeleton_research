@@ -1,0 +1,6 @@
+behaviors/
+migrations/
+models/
+.project
+README.md
+composer.json

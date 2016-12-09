@@ -1,0 +1,7 @@
+lib/EarthIT/DBC/
+test/
+.gitignore
+.travis.yml
+Makefile
+TODO
+composer.json

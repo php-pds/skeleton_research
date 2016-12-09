@@ -1,0 +1,14 @@
+autoloads/
+classes/
+design/standard/
+doc/
+eventtypes/event/ngpushredirect/
+modules/push/
+settings/
+share/connect_server/
+translations/
+LICENSE
+README
+composer.json
+extension.xml
+ezinfo.php

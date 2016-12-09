@@ -1,0 +1,10 @@
+src/
+.gitattributes
+.gitignore
+.travis.yml
+CHANGELOG.md
+CONDUCT.md
+CONTRIBUTING.md
+README.md
+composer.json
+phpcs.xml

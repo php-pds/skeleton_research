@@ -1,0 +1,6 @@
+DependencyInjection/
+EventListener/
+Resources/config/
+.gitignore
+WiakoweDoctrineTablePrefixBundle.php
+composer.json

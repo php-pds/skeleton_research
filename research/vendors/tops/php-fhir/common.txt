@@ -1,0 +1,11 @@
+files/
+output/
+src/ClassGenerator/
+templates/
+tests/integration/
+.gitignore
+LICENSE
+NOTICE
+README.md
+composer.json
+phpunit.xml

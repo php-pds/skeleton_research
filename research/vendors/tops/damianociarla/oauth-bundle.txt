@@ -1,0 +1,12 @@
+DependencyInjection/
+Entity/
+Event/
+Model/
+Resources/config/
+Security/Core/User/
+.gitignore
+DCSOAuthBundle.php
+Events.php
+LICENSE
+README.md
+composer.json

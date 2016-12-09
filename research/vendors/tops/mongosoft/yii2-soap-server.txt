@@ -1,0 +1,9 @@
+tests/
+.gitignore
+.travis.yml
+Action.php
+Exception.php
+README.md
+Service.php
+codeception.yml
+composer.json

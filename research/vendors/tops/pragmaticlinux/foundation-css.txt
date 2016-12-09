@@ -1,0 +1,8 @@
+css/
+img/
+js/
+README.md
+composer.json
+humans.txt
+index.html
+robots.txt

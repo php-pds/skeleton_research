@@ -1,0 +1,9 @@
+.idea/
+controllers/
+lib/IptcImport/
+static/
+views/scripts/index/
+.gitignore
+README.md
+composer.json
+plugin.xml

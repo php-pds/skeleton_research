@@ -1,0 +1,10 @@
+bin/
+lib/
+resources/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json
+example.php
+phpunit.xml

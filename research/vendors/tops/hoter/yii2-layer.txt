@@ -1,0 +1,5 @@
+assets/
+AutoloadExample.php
+LayerAsset.php
+README.md
+composer.json

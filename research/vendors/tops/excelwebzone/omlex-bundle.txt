@@ -1,0 +1,6 @@
+DependencyInjection/
+Resources/config/
+EWZOmlexBundle.php
+LICENSE
+README.md
+composer.json

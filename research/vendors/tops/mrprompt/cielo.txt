@@ -1,0 +1,11 @@
+doc/
+sample/
+src/MrPrompt/Cielo/
+tests/MrPrompt/Cielo/
+.gitignore
+.travis.yml
+README.markdown
+build.xml
+composer.json
+phpdox.xml
+phpunit.xml

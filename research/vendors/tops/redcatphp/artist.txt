@@ -1,0 +1,12 @@
+bin/
+src/
+.gitignore
+.htaccess
+artist.phar
+artist.phar.pubkey
+artist.version
+box.json
+build.sh
+composer.json
+install-project.php
+readme.md

@@ -1,0 +1,8 @@
+classes/
+design/standard/templates/itsiterelations/
+modules/relations/
+settings/
+translations/ita-IT/
+README.md
+composer.json
+extension.xml

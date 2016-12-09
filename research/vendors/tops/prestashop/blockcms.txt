@@ -1,0 +1,14 @@
+img/
+translations/
+upgrade/
+views/
+BlockCMSModel.php
+CHANGELOG.txt
+Readme.md
+blockcms.php
+blockcms.tpl
+composer.json
+config.xml
+index.php
+logo.gif
+logo.png

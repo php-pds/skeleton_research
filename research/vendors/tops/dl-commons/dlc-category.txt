@@ -1,0 +1,7 @@
+config/
+src/DlcCategory/
+view/dlc-category/
+LICENSE
+Module.php
+README.md
+composer.json

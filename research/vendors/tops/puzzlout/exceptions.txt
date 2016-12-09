@@ -1,0 +1,12 @@
+nbproject/
+src/
+tests/Classes/
+.gitignore
+.travis.yml
+CHANGELOG.md
+InitTestSuite.php
+LICENCE
+README.md
+TestClass.tt
+composer.json
+phpunit.xml

@@ -1,0 +1,12 @@
+example/
+funk/
+spec/Knp/Event/
+src/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+README.md
+TODO.md
+composer.json
+funk.yml.dist
+phpspec.yml

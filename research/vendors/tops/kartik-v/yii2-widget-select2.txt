@@ -1,0 +1,13 @@
+.github/
+assets/
+messages/
+CHANGE.md
+LICENSE.md
+README.md
+Select2.php
+Select2Asset.php
+ThemeBootstrapAsset.php
+ThemeClassicAsset.php
+ThemeDefaultAsset.php
+ThemeKrajeeAsset.php
+composer.json

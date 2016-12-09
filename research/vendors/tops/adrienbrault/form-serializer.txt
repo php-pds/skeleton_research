@@ -1,0 +1,7 @@
+src/AdrienBrault/FormSerializer/
+tests/AdrienBrault/FormSerializer/Tests/
+.gitignore
+.travis.yml
+README.md
+composer.json
+phpunit.xml.dist

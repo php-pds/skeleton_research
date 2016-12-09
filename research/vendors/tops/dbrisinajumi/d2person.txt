@@ -1,0 +1,11 @@
+controllers/
+messages/
+migrations/
+models/
+mysql_scripts/
+views/
+D2personModule.php
+LICENSE
+README.md
+composer.json
+translation.php

@@ -1,0 +1,7 @@
+foo/
+lib/RLW/
+sdk/php/
+.gitignore
+LICENSE
+README.md
+composer.json

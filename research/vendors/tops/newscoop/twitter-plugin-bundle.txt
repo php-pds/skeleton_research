@@ -1,0 +1,8 @@
+Controller/
+DependencyInjection/
+EventListener/
+Resources/
+LICENSE.txt
+NewscoopTwitterPluginBundle.php
+README.md
+composer.json

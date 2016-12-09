@@ -1,0 +1,14 @@
+config/
+frontend/
+src/Mindgruve/
+tests/
+views/
+www/
+.editorconfig
+.gitignore
+CHANGELOG.md
+README.md
+composer.json
+composer.lock
+phpunit.xml
+style-guide

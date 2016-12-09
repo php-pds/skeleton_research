@@ -1,0 +1,9 @@
+DependencyInjection/
+Model/
+Resources/config/
+Tests/DependencyInjection/
+.gitignore
+JLMInstallationBundle.php
+LICENSE
+README.md
+composer.json

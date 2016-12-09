@@ -1,0 +1,12 @@
+docs/
+example/
+src/
+tests/PHPUnit/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE.md
+README.md
+backmatter.md
+composer.json
+phpunit.xml.dist

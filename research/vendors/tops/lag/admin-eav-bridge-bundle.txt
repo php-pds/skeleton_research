@@ -1,0 +1,13 @@
+DataProvider/
+DependencyInjection/
+Event/Subscriber/
+Mapping/
+Repository/
+Resources/config/
+Tests/
+.gitignore
+.travis.yml
+LAGAdminEAVBridgeBundle.php
+README.md
+composer.json
+phpunit.xml.dist

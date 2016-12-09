@@ -1,0 +1,8 @@
+demo/
+puphpet/
+src/SoPhp/
+tests/
+.gitignore
+README.md
+Vagrantfile
+composer.json

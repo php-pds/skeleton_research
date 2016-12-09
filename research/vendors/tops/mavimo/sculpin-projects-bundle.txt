@@ -1,0 +1,8 @@
+DependencyInjection/
+Resources/config/
+LICENSE
+Project.php
+Projects.php
+README.md
+SculpinProjectsBundle.php
+composer.json

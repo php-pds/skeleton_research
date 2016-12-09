@@ -1,0 +1,7 @@
+demos/
+src/jjok/Config/
+tests/
+.travis.yml
+README.md
+composer.json
+phpunit.xml.dist

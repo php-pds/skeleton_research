@@ -1,0 +1,4 @@
+classes/
+tests/
+LICENSE
+composer.json

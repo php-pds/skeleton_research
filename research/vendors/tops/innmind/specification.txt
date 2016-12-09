@@ -1,0 +1,9 @@
+.gitignore
+ComparatorInterface.php
+CompositeInterface.php
+LICENSE
+NotInterface.php
+Operator.php
+README.md
+SpecificationInterface.php
+composer.json

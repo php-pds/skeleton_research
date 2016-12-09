@@ -1,0 +1,7 @@
+api/
+src/MailChimp/Api/
+vendor/
+.gitignore
+README.md
+composer.json
+composer.lock

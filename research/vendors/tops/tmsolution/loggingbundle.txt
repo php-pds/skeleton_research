@@ -1,0 +1,15 @@
+Controller/
+DependencyInjection/
+Entity/
+EventListener/
+Handler/
+Logger/
+Model/
+Presenter/
+Processor/
+Repository/
+Resources/
+Tests/
+LogManager.php
+TMSolutionLoggingBundle.php
+composer.json

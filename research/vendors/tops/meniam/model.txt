@@ -1,0 +1,9 @@
+bin/
+example/
+library/Model/
+tests/
+.gitignore
+CONTRIBUTING.md
+MIT-LICENSE.txt
+README.md
+composer.json

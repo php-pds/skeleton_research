@@ -1,0 +1,12 @@
+data/
+src/Phim/
+tests/
+.gitattributes
+.gitignore
+.travis.yml
+LICENSE.md
+README.md
+composer.json
+composer.lock
+phpdoc.dist.xml
+phpunit.xml

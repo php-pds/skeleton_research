@@ -1,0 +1,11 @@
+assets/
+src/
+.gitignore
+CHANGELOG.md
+Gruntfile.js
+LICENSE
+README.md
+composer.json
+composer.lock
+package.json
+wp-parsedown.php

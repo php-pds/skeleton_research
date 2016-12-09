@@ -1,0 +1,9 @@
+dist/
+src/scss/
+.editorconfig
+.gitignore
+.stylelintrc
+README.md
+composer.json
+gulpfile.js
+package.json

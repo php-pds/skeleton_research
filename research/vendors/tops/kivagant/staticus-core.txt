@@ -1,0 +1,7 @@
+src/
+.gitignore
+CONTRIBUTING.md
+Readme.md
+composer.json
+composer.lock
+phpunit.xml.dist

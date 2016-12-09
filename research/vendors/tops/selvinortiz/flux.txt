@@ -1,0 +1,9 @@
+etc/
+src/SelvinOrtiz/Utils/Flux/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml

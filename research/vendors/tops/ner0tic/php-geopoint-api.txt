@@ -1,0 +1,4 @@
+lib/GeoPoint/
+.gitignore
+README.md
+composer.json

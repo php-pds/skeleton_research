@@ -1,0 +1,14 @@
+docs/
+examples/
+resources/
+src/
+tests/
+.gitignore
+.travis.yml
+LICENSE.md
+README.md
+composer.json
+coverage-checker.php
+phpcs.xml
+phpunit-recovery.xml
+phpunit.xml

@@ -1,0 +1,13 @@
+resources/examples/
+src/Client/
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CONDUCT.md
+CONTRIBUTING.md
+LICENSE
+README.md
+composer.json
+phpunit.xml
+rfc5849.txt

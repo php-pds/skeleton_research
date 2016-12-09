@@ -1,0 +1,6 @@
+logs/
+public/
+src/
+.gitignore
+composer.json
+composer.lock

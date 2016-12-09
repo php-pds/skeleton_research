@@ -1,0 +1,4 @@
+Resources/public/js/
+InnovaAngularUITranslationBundle.php
+README.md
+composer.json

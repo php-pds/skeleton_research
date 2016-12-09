@@ -1,0 +1,5 @@
+src/TapShell/WechatPay/
+tests/
+.gitignore
+composer.json
+phpunit.xml

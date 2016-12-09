@@ -1,0 +1,8 @@
+doc/
+img/
+js/
+theme/default/
+composer.json
+include.php
+index.php
+readme.md

@@ -1,0 +1,8 @@
+DependencyInjection/
+Document/
+JMSSerializer/
+Resources/config/
+.gitignore
+README.md
+WebitPHPCRToolsBundle.php
+composer.json

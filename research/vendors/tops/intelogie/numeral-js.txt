@@ -1,0 +1,14 @@
+languages/
+min/
+tests/
+.gitignore
+.travis.yml
+Gruntfile.js
+LICENSE
+README.md
+bower.json
+component.json
+composer.json
+languages.js
+numeral.js
+package.json

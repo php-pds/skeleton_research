@@ -1,0 +1,12 @@
+_config/
+code/
+css/
+docs/en/
+images/
+javascript/
+templates/
+.DS_Store
+.gitignore
+README.md
+_config.php
+composer.json

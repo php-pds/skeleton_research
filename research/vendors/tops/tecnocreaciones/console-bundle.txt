@@ -1,0 +1,16 @@
+Controller/
+DataCollector/
+DependencyInjection/
+Executer/
+Formatter/
+Output/
+Resources/
+Tests/
+.gitignore
+.travis.yml
+AUTHORS
+CoreSphereConsoleBundle.php
+LICENSE
+composer.json
+phpunit.xml.dist
+readme.md

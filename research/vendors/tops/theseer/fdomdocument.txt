@@ -1,0 +1,13 @@
+src/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+build.xml
+composer.json
+fDOMDocument.spec
+package.xml
+pear.sh
+phpcs.xml
+phpunit.xml.dist

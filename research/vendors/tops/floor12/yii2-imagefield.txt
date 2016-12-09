@@ -1,0 +1,6 @@
+assets/
+src/
+views/
+.gitignore
+composer.json
+m151212_072004_create_images.php

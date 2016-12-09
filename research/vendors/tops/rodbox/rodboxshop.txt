@@ -1,0 +1,7 @@
+Controller/
+DependencyInjection/
+Resources/
+Tests/Controller/
+RBShopBundle.php
+README.md
+composer.json

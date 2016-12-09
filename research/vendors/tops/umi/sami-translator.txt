@@ -1,0 +1,6 @@
+demo/
+src/velosipedist/sami/translator/
+tests/
+.gitignore
+README.md
+composer.json

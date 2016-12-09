@@ -1,0 +1,7 @@
+src/autoloader/
+test/src/
+.gitattributes
+.gitignore
+LICENSE
+README.md
+composer.json

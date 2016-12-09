@@ -1,0 +1,4 @@
+Admin/
+.DS_Store
+Module.php
+composer.json

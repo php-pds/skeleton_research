@@ -1,0 +1,4 @@
+.gitignore
+I18N.php
+README.md
+composer.json

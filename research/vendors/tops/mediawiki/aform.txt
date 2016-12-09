@@ -1,0 +1,8 @@
+i18n/
+Aform.i18n.magic.php
+Aform.i18n.php
+Aform.php
+Aform_body.php
+LICENSE
+README.md
+composer.json

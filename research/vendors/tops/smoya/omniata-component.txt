@@ -1,0 +1,10 @@
+Exception/
+spec/Smoya/Component/Omniata/
+.gitignore
+.travis.yml
+Client.php
+Deliverer.php
+Event.php
+README.md
+Tracker.php
+composer.json

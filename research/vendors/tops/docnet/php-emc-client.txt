@@ -1,0 +1,6 @@
+examples/
+src/Docnet/EMC/
+.gitignore
+LICENSE
+README.md
+composer.json

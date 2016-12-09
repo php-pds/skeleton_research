@@ -1,0 +1,14 @@
+Config/bootstrap/
+src/
+tests/
+.coveralls.yml
+.editorconfig
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CONTRIBUTING.md
+Dockerfile
+LICENSE.txt
+README.md
+composer.json
+phpunit.xml.dist

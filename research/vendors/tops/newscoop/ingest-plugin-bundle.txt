@@ -1,0 +1,15 @@
+Command/
+Controller/
+DependencyInjection/
+Entity/
+Event/
+EventListener/
+Form/
+Parsers/
+Resources/
+Services/
+LICENSE
+LICENSE.txt
+NewscoopIngestPluginBundle.php
+README.md
+composer.json

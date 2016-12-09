@@ -1,0 +1,6 @@
+Errbit/
+CHANGELOG.md
+LICENSE.md
+README.md
+SumoForkClass.php
+composer.json

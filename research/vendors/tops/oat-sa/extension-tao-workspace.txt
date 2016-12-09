@@ -1,0 +1,6 @@
+locales/en-US/
+model/
+scripts/
+views/js/controller/
+composer.json
+manifest.php

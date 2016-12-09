@@ -1,0 +1,8 @@
+DependencyInjection/
+Resources/
+.gitignore
+.travis.yml
+FDevsMigrationBundle.php
+README.md
+composer.json
+phpunit.xml.dist

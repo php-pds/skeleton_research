@@ -1,0 +1,7 @@
+src/DatingVIP/API/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock
+example.php

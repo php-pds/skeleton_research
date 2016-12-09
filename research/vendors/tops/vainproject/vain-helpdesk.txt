@@ -1,0 +1,9 @@
+src/Helpdesk/
+tests/
+.gitattributes
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml

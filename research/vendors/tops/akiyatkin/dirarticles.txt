@@ -1,0 +1,7 @@
+magnific-popup/
+.infra.json
+README.md
+composer.json
+index.php
+layer.json
+layout.tpl

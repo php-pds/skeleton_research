@@ -1,0 +1,3 @@
+src/SpeckSeo/
+Module.php
+composer.json

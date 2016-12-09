@@ -1,0 +1,8 @@
+docs/
+spec/Petrinet/
+src/Petrinet/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,16 @@
+config/
+docs/
+src/
+webroot/
+.coveralls.yml
+.editorconfig
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CONTRIBUTING.md
+Dockerfile
+LICENSE.txt
+Makefile
+README.md
+composer.json
+requirements.txt

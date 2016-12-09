@@ -1,0 +1,9 @@
+doc/en/
+adminer.css
+adminer.inc
+composer.json
+dbm.php
+importXml.php
+index.php
+plugins.php
+readme.md

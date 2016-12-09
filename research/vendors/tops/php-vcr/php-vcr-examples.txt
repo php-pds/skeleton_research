@@ -1,0 +1,7 @@
+guzzle/
+soap/
+.gitignore
+.travis.yml
+Readme.md
+composer.json
+composer.lock

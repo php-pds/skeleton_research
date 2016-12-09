@@ -1,0 +1,10 @@
+actions/
+config/
+forms/editor/rootfolder/
+i18n/
+lib/services/
+persistentdocument/import/
+setup/
+templates/perspectives/
+LICENSE.txt
+change.xml

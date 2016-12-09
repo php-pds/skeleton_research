@@ -1,0 +1,9 @@
+Library/Phalcon/
+docs/
+tests/
+.gitignore
+.travis.yml
+README.md
+codeception.yml
+composer.json
+docker-compose.yml

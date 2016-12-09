@@ -1,0 +1,11 @@
+src/
+storage/logs/
+tests/
+.gitignore
+.travis.yml
+README.md
+composer.json
+composer.lock
+coverage-checker.php
+phpunit.xml
+wappr-logo.png

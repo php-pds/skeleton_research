@@ -1,0 +1,11 @@
+salt/
+src/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+Vagrantfile.dist
+composer.json
+composer.lock
+phpunit.xml.dist

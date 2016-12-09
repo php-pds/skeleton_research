@@ -1,0 +1,8 @@
+fieldtypes/
+resources/
+templates/fieldtypes/checkbox/
+.gitignore
+CheckboxFieldPlugin.php
+composer.json
+readme.md
+releases.json

@@ -1,0 +1,7 @@
+src/Sgpatil/Orientphp/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpconfig.ini

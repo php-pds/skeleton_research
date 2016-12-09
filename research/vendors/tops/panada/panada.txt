@@ -1,0 +1,10 @@
+app/
+panada/
+public/
+tests/
+.gitignore
+CHANGELOG
+LICENSE
+README.md
+composer.json
+phpunit.xml

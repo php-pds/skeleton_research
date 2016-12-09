@@ -1,0 +1,10 @@
+.idea/
+configuration/
+src/
+test/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml

@@ -1,0 +1,6 @@
+src/Divinityfound/ChurchMetricsApiPhp/
+tests/
+.gitignore
+.travis.yml
+composer.json
+readme.md

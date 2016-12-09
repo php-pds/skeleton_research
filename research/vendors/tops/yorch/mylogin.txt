@@ -1,0 +1,6 @@
+.gitignore
+LICENSE
+MyLogin.class.php
+MySocial.class.php
+README.md
+composer.json

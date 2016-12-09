@@ -1,0 +1,8 @@
+controllers/
+extensions/SliderWidget/
+migrations/
+models/
+views/
+README.md
+SliderModule.php
+composer.json

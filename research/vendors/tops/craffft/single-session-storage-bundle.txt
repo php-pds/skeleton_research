@@ -1,0 +1,12 @@
+DependencyInjection/
+Resources/config/
+Storage/
+Tests/
+.editorconfig
+.gitignore
+.travis.yml
+CraffftSingleSessionStorageBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

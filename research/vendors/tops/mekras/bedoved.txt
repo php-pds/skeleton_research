@@ -1,0 +1,11 @@
+examples/
+src/
+tests/
+.gitattributes
+.travis.yml
+LICENSE
+NOTICE
+README.md
+VERSION
+composer.json
+phpunit.xml.dist

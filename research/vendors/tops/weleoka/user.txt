@@ -1,0 +1,10 @@
+app/
+src/
+test/
+webroot/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+README.md
+autoloader.php
+composer.json

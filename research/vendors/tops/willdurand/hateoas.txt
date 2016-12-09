@@ -1,0 +1,10 @@
+src/Hateoas/
+tests/
+.gitignore
+.travis.yml
+CONTRIBUTING.md
+LICENSE
+README.md
+composer.json
+hateoas.xsd
+phpunit.xml.dist

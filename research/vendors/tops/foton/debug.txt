@@ -1,0 +1,4 @@
+components/debug/
+templates/
+composer.json
+debug.ext.php

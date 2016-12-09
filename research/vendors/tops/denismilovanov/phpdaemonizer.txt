@@ -1,0 +1,4 @@
+examples/
+src/PHPDaemonizer/
+README.md
+composer.json

@@ -1,0 +1,16 @@
+config/
+examples/config/
+src/WebinoCanonicalRedirect/
+tests/
+vendor/
+.coveralls.yml
+.gitignore
+.travis.yml
+Gruntfile.js
+LICENSE
+Module.php
+README.md
+composer.json
+package.json
+phpdoc.xml
+pre-commit

@@ -1,0 +1,11 @@
+config/
+screenshots/
+src/
+templates/
+tests/
+web/
+.gitignore
+README.md
+bolt-icon.png
+composer.json
+phpunit.xml.dist

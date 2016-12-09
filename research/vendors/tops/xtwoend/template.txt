@@ -1,0 +1,5 @@
+config/
+resources/
+README.md
+TemplateServiceProvider.php
+composer.json

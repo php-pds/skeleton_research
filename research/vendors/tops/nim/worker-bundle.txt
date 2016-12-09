@@ -1,0 +1,14 @@
+DependencyInjection/
+EventListener/
+Form/
+Model/
+Repository/
+Resources/
+spec/NIM/WorkerBundle/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CHANGELOG.md
+NIMWorkerBundle.php
+README.md
+composer.json

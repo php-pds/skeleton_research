@@ -1,0 +1,5 @@
+src/http/upload/
+.gitignore
+LICENSE
+README.md
+composer.json

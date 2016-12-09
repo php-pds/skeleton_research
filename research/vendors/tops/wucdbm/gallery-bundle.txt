@@ -1,0 +1,17 @@
+Controller/
+DependencyInjection/
+Entity/
+Exception/
+Filter/Image/
+Form/
+Image/
+Manager/
+Repository/
+Resources/
+Twig/
+.gitattributes
+.gitignore
+LICENSE
+README.md
+WucdbmGalleryBundle.php
+composer.json

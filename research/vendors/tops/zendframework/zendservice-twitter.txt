@@ -1,0 +1,12 @@
+library/ZendService/Twitter/
+tests/
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENSE.txt
+README.md
+TODO.md
+composer.json
+composer.lock
+phpcs.xml
+phpunit.xml.dist

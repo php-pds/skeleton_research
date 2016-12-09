@@ -1,0 +1,13 @@
+config/
+src/AssetsBundle/
+tests/
+.gitattributes
+.gitignore
+.travis.composer.json
+.travis.yml
+CONTRIBUTING.md
+LICENSE
+Module.php
+README.md
+autoload_classmap.php
+composer.json

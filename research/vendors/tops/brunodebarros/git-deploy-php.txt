@@ -1,0 +1,8 @@
+tools/
+.gitattributes
+.gitignore
+README.mkd
+composer.json
+composer.lock
+deploy.ini
+git-deploy

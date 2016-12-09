@@ -1,0 +1,5 @@
+src/SteamAuth/
+.editorconfig
+.gitignore
+README.md
+composer.json

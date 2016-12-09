@@ -1,0 +1,9 @@
+contrib/jms-serializer/Bgy/PaginatedResource/Resource/
+src/Bgy/PaginatedResource/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

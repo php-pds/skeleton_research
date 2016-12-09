@@ -1,0 +1,13 @@
+migrations/
+models/
+File.php
+FileInterface.php
+ImageFile.php
+ImageModifedInterface.php
+IncorrectFile.php
+LICENSE
+Module.php
+README.md
+UploadBehavior.php
+composer.json
+config.php

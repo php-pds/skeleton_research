@@ -1,0 +1,6 @@
+assets/
+example/
+README.md
+UploadCrop.php
+UploadCropAsset.php
+composer.json

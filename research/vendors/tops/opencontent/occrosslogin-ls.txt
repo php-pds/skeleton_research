@@ -1,0 +1,13 @@
+autoloads/
+classes/
+cronjobs/
+design/
+login_handler/
+modules/ezpassword/
+script/
+settings/
+sql/
+sso_handler/
+LEGGIMI
+composer.json
+extension.xml

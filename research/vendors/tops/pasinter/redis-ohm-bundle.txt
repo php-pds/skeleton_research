@@ -1,0 +1,12 @@
+DependencyInjection/
+Resources/config/
+Tests/DependencyInjection/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+ManagerRegistry.php
+PasinterRedisOHMBundle.php
+README.md
+composer.json
+phpunit.xml.dist

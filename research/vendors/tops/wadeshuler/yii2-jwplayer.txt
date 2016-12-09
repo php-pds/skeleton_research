@@ -1,0 +1,7 @@
+assets/
+JWConfig.php
+JWPlayer.php
+JWPlayerAsset.php
+LICENSE
+README.md
+composer.json

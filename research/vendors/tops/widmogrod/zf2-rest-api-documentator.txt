@@ -1,0 +1,12 @@
+assets/
+config/
+src/WidRestApiDocumentator/
+tests/
+view/
+.gitignore
+.travis.yml
+Module.php
+README.md
+TODO.md
+composer.json
+phpunit.xml.dist

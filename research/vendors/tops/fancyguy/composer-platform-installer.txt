@@ -1,0 +1,6 @@
+src/
+.dir-locals.el
+.gitignore
+LICENSE
+README.md
+composer.json

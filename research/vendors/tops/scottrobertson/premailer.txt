@@ -1,0 +1,8 @@
+src/ScottRobertson/Premailer/
+tests/ScottRobertson/Premailer/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

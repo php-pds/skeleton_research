@@ -1,0 +1,5 @@
+Classes/Ttree/Aggregator/
+Configuration/
+Resources/Private/
+README.md
+composer.json

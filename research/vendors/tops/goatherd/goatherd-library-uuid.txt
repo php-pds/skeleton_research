@@ -1,0 +1,7 @@
+library/Goatherd/Uuid/
+tests/
+.gitignore
+COPYING
+README.md
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,7 @@
+Configs/
+Providers/
+UI/WEB/Views/vendor/dotenv-editor/
+.gitignore
+LICENSE
+README.md
+composer.json

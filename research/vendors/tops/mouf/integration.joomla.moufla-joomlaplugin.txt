@@ -1,0 +1,9 @@
+doc/
+.gitignore
+LICENSE.txt
+README.md
+composer.json
+index.html
+logo.jpg
+moufla.php
+moufla.xml

@@ -1,0 +1,16 @@
+doc/
+modfunc1/
+tasks/
+tests/
+class.tx_staticpub.php
+class.tx_staticpub_export.php
+class.tx_staticpub_fe.php
+composer.json
+ext_autoload.php
+ext_conf_template.txt
+ext_emconf.php
+ext_icon.gif
+ext_localconf.php
+ext_tables.php
+ext_tables.sql
+locallang_db.php

@@ -1,0 +1,11 @@
+backward_compatibility @ 35e345c
+img/
+views/templates/back/
+.gitmodules
+CHANGELOG.txt
+Readme.md
+backwardcompatibility.php
+composer.json
+config.xml
+index.php
+logo.gif

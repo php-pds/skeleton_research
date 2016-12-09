@@ -1,0 +1,11 @@
+Examples/
+Protocols/
+Registries/
+Tests/
+.gitignore
+LICENSE.md
+README
+autoloader.php
+composer.json
+composer.lock
+params.json

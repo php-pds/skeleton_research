@@ -1,0 +1,5 @@
+src/system/modules/content-memory/
+.gitignore
+LICENSE.txt
+README.md
+composer.json

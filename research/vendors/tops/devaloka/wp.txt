@@ -1,0 +1,16 @@
+Provider/
+.editorconfig
+.gitattributes
+.gitignore
+.gitkeep
+.mailmap
+.remarkrc
+.travis.yml
+CHANGELOG.md
+GPL-LICENSE.txt
+MIT-LICENSE.txt
+README.md
+WpWidgetFactory.php
+composer.json
+package.json
+phpcs.xml.dist

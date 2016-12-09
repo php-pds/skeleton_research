@@ -1,0 +1,12 @@
+conf/
+doc/screenshots/
+src/
+tests/
+.gitignore
+.travis.php.ini
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+composer.json
+composer.lock

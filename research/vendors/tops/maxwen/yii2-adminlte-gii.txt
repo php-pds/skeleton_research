@@ -1,0 +1,4 @@
+controllers/
+generators/
+README.md
+composer.json

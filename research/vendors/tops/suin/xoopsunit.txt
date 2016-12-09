@@ -1,0 +1,6 @@
+Source/XoopsUnit/
+Tests/
+bin/
+.travis.yml
+README.md
+composer.json

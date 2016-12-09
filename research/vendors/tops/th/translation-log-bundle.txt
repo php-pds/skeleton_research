@@ -1,0 +1,9 @@
+Command/
+DependencyInjection/
+Resources/config/
+.gitignore
+LoggingMessageCatalogue.php
+README.rst
+THTranslationLogBundle.php
+Translator.php
+composer.json

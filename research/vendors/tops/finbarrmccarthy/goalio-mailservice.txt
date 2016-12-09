@@ -1,0 +1,7 @@
+config/
+src/
+tests/
+.gitignore
+Module.php
+README.md
+composer.json

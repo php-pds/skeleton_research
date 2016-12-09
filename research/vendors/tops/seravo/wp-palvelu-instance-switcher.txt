@@ -1,0 +1,7 @@
+assets/
+lang/
+.gitignore
+LICENSE
+README.md
+composer.json
+wp-palvelu-instance-switcher.php

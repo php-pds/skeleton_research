@@ -1,0 +1,5 @@
+example/
+src/Paya/
+.gitignore
+composer.json
+composer.lock

@@ -1,0 +1,11 @@
+src/NwSilex/Provider/
+tests/NwSilexTest/Provider/
+.coveralls.yml
+.gitattributes
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml
+phpunit.xml.dist

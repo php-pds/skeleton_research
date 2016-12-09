@@ -1,0 +1,9 @@
+src/Swagger/
+tests/Swagger/
+.gitignore
+.travis.yml
+LICENSE.md
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

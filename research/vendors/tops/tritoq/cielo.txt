@@ -1,0 +1,5 @@
+Tests/
+src/Tritoq/Payment/
+.gitignore
+README.md
+composer.json

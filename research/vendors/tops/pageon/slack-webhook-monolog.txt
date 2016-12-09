@@ -1,0 +1,11 @@
+src/
+tests/Unit/
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+composer.json
+composer.lock
+example.png
+phpunit.xml.dist

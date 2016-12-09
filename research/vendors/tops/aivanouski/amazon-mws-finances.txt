@@ -1,0 +1,4 @@
+src/MWSFinancesService/
+LICENSE
+README.md
+composer.json

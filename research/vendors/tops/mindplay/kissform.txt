@@ -1,0 +1,10 @@
+examples/
+lang/
+src/
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+README.md
+codeception.dist.yml
+composer.json

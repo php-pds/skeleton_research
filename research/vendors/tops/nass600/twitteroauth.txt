@@ -1,0 +1,15 @@
+images/
+twitteroauth/
+.gitignore
+DOCUMENTATION
+LICENSE
+README
+callback.php
+clearsessions.php
+composer.json
+config.php
+connect.php
+html.inc
+index.php
+redirect.php
+test.php

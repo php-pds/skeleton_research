@@ -1,0 +1,7 @@
+src/WebUI/
+tests/WebUI/
+.travis.yml
+README.md
+composer.json
+phprelease.ini
+phpunit.xml

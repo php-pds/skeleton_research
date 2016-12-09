@@ -1,0 +1,11 @@
+config/
+libraries/
+ressources/
+www/
+.gitignore
+README.md
+composer.json
+composer.lock
+manager.sql
+package.php
+setup.php

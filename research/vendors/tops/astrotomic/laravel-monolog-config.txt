@@ -1,0 +1,8 @@
+src/
+.codeclimate.yml
+.editorconfig
+.gitignore
+.styleci.yml
+LICENSE
+README.md
+composer.json

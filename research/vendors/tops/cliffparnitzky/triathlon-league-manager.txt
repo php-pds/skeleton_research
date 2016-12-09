@@ -1,0 +1,8 @@
+system/modules/TriathlonLeagueManager/
+.gitattributes
+.gitignore
+README.md
+composer.json
+screenshot_backend_tables.jpg
+screenshot_backend_teams.jpg
+screenshot_frontend_table.jpg

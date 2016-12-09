@@ -1,0 +1,7 @@
+res/tests/
+src/axelitus/Security/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json

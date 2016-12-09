@@ -1,0 +1,7 @@
+DatabaseCopy/
+.editorconfig
+.gitignore
+README.md
+composer.json
+dbcopy.json
+dbcopy.php

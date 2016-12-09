@@ -1,0 +1,6 @@
+config/
+src/Base/
+view/base/plugin/sendmail/
+Module.php
+README.md
+composer.json

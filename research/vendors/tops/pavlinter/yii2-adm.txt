@@ -1,0 +1,6 @@
+adm/
+.gitattributes
+.gitignore
+README.md
+composer.json
+preview.png

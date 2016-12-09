@@ -1,0 +1,15 @@
+Exception/
+Serializable/
+Stub/Serializable/
+Tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+SerializedType.php
+Serializer.php
+SerializerInterface.php
+Unserializer.php
+UnserializerInterface.php
+composer.json
+phpunit.xml.dist

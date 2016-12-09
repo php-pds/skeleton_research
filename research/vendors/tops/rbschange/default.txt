@@ -1,0 +1,8 @@
+i18n/
+image/
+js/
+modules/website/templates/
+skin/
+style/
+templates/
+install.xml

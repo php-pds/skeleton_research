@@ -1,0 +1,10 @@
+Controller/
+DependencyInjection/
+Entity/
+Resources/
+nbproject/
+.gitignore
+LICENSE
+README.md
+SeyonNodejsChatBundle.php
+composer.json

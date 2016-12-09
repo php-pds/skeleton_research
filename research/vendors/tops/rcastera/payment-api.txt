@@ -1,0 +1,6 @@
+src/rcastera/PaymentAPI/
+tests/
+.gitignore
+.travis.yml
+README.md
+composer.json

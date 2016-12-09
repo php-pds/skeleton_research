@@ -1,0 +1,10 @@
+src/
+tests/
+.gitignore
+LICENSE
+README.md
+Vagrantfile
+bootstrap-root.sh
+bootstrap-vagrant.sh
+composer.json
+composer.lock

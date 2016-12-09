@@ -1,0 +1,8 @@
+Applications/Statistics/
+.gitattributes
+.gitignore
+MIT-LICENSE.txt
+README.md
+composer.json
+start.php
+start_for_win.bat

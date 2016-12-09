@@ -1,0 +1,9 @@
+examples/
+.gitignore
+GiicApplication.php
+GiicCommand.php
+README.md
+ShellColors.php
+composer.json
+giic.php
+giic.xsl

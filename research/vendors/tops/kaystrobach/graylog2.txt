@@ -1,0 +1,3 @@
+Classes/KayStrobach/Graylog2/Log/Backend/
+Configuration/
+composer.json

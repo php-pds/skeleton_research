@@ -1,0 +1,11 @@
+assets/
+classes/
+languages/
+screens/
+.gitignore
+Gruntfile.js
+README.md
+changelog.txt
+composer.json
+package.json
+woothemes-updater.php

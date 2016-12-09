@@ -1,0 +1,11 @@
+includes/
+resources/
+src/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+documentarian
+phpunit.xml

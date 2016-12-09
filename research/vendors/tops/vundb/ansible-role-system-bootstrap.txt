@@ -1,0 +1,7 @@
+defaults/
+tasks/
+vars/
+.gitignore
+LICENSE
+README.md
+composer.json

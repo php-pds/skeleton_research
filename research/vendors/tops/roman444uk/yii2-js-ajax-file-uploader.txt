@@ -1,0 +1,8 @@
+assets/
+JsAjaxFileUploader.php
+JsAjaxFileUploaderAsset.php
+README.md
+composer.json
+demo.html
+document.html
+index.html

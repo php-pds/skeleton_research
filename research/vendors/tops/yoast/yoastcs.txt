@@ -1,0 +1,7 @@
+Yoast/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock
+phpmd.xml

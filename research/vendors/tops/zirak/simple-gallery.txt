@@ -1,0 +1,9 @@
+_config/
+code/
+template/
+.editorconfig
+.scrutinizer.yml
+LICENSE
+README.md
+_config.php
+composer.json

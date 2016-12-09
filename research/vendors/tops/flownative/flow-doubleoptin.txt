@@ -1,0 +1,7 @@
+Classes/
+Configuration/
+Documentation/
+Resources/Private/Templates/
+LICENSE
+README.rst
+composer.json

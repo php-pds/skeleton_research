@@ -1,0 +1,6 @@
+.gitignore
+LICENSE
+README.md
+RarArchiver.php
+composer.json
+example.php

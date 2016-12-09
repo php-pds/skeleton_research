@@ -1,0 +1,7 @@
+config/
+src/QuPlupload/
+view/qu-plupload/plupload/
+.gitignore
+Module.php
+README.md
+composer.json

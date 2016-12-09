@@ -1,0 +1,7 @@
+src/
+tests/ActivityStreams/Tests/
+.gitignore
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

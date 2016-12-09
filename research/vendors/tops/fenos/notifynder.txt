@@ -1,0 +1,15 @@
+spec/Fenos/Notifynder/
+src/
+tests/
+.codeclimate.yml
+.coveralls.yml
+.gitignore
+.styleci.yml
+.travis.yml
+CoverageChecker.php
+LICENSE
+README.md
+change.log
+composer.json
+phpspec.yml
+phpunit.xml

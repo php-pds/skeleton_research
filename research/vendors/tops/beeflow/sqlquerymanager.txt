@@ -1,0 +1,10 @@
+Exception/
+Tests/
+Vartypes/
+.gitignore
+LICENSE
+README.md
+SQLQuery.php
+autoload.php
+composer.json
+phpunit.xml.dist

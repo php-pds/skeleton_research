@@ -1,0 +1,4 @@
+resources/
+CompatibilityPlugin.php
+README.md
+composer.json

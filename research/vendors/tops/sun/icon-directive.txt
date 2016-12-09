@@ -1,0 +1,8 @@
+spec/Sun/IconDirective/
+src/
+template/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json

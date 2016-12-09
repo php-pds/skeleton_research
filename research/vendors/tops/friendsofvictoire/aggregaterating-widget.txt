@@ -1,0 +1,11 @@
+Controller/
+DependencyInjection/
+Entity/
+Form/
+Repository/
+Resolver/
+Resources/
+Twig/
+README.md
+VictoireWidgetAggregateRatingBundle.php
+composer.json

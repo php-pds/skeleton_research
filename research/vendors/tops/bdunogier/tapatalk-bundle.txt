@@ -1,0 +1,7 @@
+DependencyInjection/
+Resources/config/
+.gitignore
+BDTapatalkBundle.php
+LICENSE
+README.md
+composer.json

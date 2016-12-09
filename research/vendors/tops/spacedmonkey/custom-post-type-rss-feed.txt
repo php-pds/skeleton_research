@@ -1,0 +1,15 @@
+admin/
+assets/
+includes/
+languages/
+public/
+LICENSE
+LICENSE.txt
+README.md
+README.txt
+composer.json
+custom-post-type-rss-feed.php
+history.txt
+index.php
+screenshot-1.png
+uninstall.php

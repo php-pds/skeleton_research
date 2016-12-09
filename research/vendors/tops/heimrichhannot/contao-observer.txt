@@ -1,0 +1,10 @@
+assets/
+bin/
+classes/
+config/
+dca/
+languages/
+models/
+observer/
+README.md
+composer.json

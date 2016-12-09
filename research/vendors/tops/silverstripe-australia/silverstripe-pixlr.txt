@@ -1,0 +1,17 @@
+_config/
+code/
+css/
+docs/
+images/
+javascript/
+lang/
+templates/
+tests/
+thirdparty/
+.editorconfig
+LICENSE
+README.md
+TODO
+_config.php
+composer.json
+crossdomain.xml

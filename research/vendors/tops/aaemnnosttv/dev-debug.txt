@@ -1,0 +1,8 @@
+assets/
+classes/
+.gitignore
+README.md
+composer.json
+dev-debug.php
+gulpfile.js
+package.json

@@ -1,0 +1,8 @@
+exceptions/
+.gitignore
+Collection.php
+ConfigRegistry.php
+Criteria.php
+DAL.php
+Notifiable.php
+composer.json

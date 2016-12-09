@@ -1,0 +1,12 @@
+Controller/
+DependencyInjection/
+Doctrine/
+Document/
+Form/Type/
+Resources/
+Twig/Extension/
+Util/
+.gitignore
+AvroImageBundle.php
+README.md
+composer.json

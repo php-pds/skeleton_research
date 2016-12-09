@@ -1,0 +1,7 @@
+Docs/
+config/
+src/
+.gitignore
+composer.json
+phpunit.xml.dist
+readme.md

@@ -1,0 +1,10 @@
+app/
+public/
+theme/
+.editorconfig
+.gitattributes
+.gitignore
+LICENSE
+README.md
+Vagrantfile
+composer.json

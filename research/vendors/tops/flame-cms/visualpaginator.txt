@@ -1,0 +1,5 @@
+Flame/CMS/Components/VisualPaginator/
+client-side/
+LICENSE
+README.md
+composer.json

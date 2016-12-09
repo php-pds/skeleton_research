@@ -1,0 +1,9 @@
+build_scripts/
+src/Conpago/Utils/
+tests/Conpago/Utils/
+.gitignore
+.hgignore
+build.xml
+composer.json
+humbug.json.dist
+phpunit.xml

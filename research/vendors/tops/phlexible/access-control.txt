@@ -1,0 +1,11 @@
+Doctrine/
+Domain/
+Exception/
+Model/
+Permission/
+RoleProvider/
+SecurityProvider/
+Tests/Permission/
+AccessControlEvents.php
+LICENSE
+composer.json

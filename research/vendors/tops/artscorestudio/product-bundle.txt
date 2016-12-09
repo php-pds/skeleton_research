@@ -1,0 +1,17 @@
+Controller/
+DependencyInjection/
+Event/
+Form/
+Model/
+Repository/
+Resources/
+Tests/
+Utils/Manager/
+Validator/Constraints/
+.travis.yml
+ASFProductBundle.php
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

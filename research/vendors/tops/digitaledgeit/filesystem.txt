@@ -1,0 +1,8 @@
+src/deit/filesystem/
+tests/
+.gitattributes
+.gitignore
+README.md
+composer.json
+composer.lock
+phpunit.xml

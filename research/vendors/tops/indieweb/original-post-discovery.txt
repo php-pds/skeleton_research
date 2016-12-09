@@ -1,0 +1,8 @@
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock
+original-post-discovery.php
+phpunit.xml

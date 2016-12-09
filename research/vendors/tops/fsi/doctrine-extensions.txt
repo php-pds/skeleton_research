@@ -1,0 +1,10 @@
+doc/
+lib/FSi/DoctrineExtensions/
+tests/
+.gitignore
+.travis.yml
+LICENSE.md
+README.md
+composer.json
+doctrine-extensions-mapping.xsd
+phpunit.xml.dist

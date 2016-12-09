@@ -1,0 +1,10 @@
+.idea/
+library/RBM/Datagrid/
+modules/RBM/SqlDataGrid/Processor/
+tests/
+.gitignore
+LICENCE
+README.md
+composer.json
+index.php
+phpunit.xml

@@ -1,0 +1,10 @@
+config/
+public/
+src/
+.editorconfig
+.env.dist
+.gitignore
+LICENSE.md
+README.md
+composer.json
+wp-cli.yml

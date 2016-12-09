@@ -1,0 +1,7 @@
+Command/
+Resources/config/
+Traits/
+DataTransferBundle.php
+LICENSE.txt
+README.md
+composer.json

@@ -1,0 +1,15 @@
+Controller/
+DataFixtures/
+Entity/
+Event/Log/
+Form/
+Installation/
+Listener/
+Manager/
+Migrations/pdo_mysql/
+Repository/
+Resources/
+Twig/
+FormaLibreJobBundle.php
+README.md
+composer.json

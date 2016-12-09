@@ -1,0 +1,12 @@
+.idea/
+Assets/
+lang/en/
+resources/assets/
+src/
+.gitignore
+.travis.yml
+README.md
+composer.json
+gulpfile.js
+phpcs.xml
+phpunit.xml

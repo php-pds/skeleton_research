@@ -1,0 +1,8 @@
+DependencyInjection/
+Event/
+Model/
+Resources/config/
+.gitignore
+AcmeBadgesBundle.php
+README.md
+composer.json

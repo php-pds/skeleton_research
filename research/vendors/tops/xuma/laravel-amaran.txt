@@ -1,0 +1,7 @@
+src/Xuma/
+.gitignore
+LICENSE
+README.md
+composer.json
+phpunit.xml
+travis.yml

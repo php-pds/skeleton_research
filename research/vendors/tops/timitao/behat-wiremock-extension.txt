@@ -1,0 +1,7 @@
+features/
+src/Behat/WiremockExtension/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock

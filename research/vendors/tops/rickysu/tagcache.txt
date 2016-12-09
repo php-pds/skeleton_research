@@ -1,0 +1,11 @@
+Adapter/
+tests/
+.travis.yml
+LICENSE
+README.md
+TagcacheFactory.php
+TagcacheObj.php
+TagcacheTime.php
+autoload.php.dist
+composer.json
+phpunit.xml.dist

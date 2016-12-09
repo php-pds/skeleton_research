@@ -1,0 +1,7 @@
+app/
+docs/
+js/sitewards/
+packages/
+README.md
+composer.json
+modman

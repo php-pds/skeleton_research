@@ -1,0 +1,16 @@
+Debug/
+DependencyInjection/
+Tests/
+.gitignore
+CHANGELOG.md
+ContainerAwareEventDispatcher.php
+Event.php
+EventDispatcher.php
+EventDispatcherInterface.php
+EventSubscriberInterface.php
+GenericEvent.php
+ImmutableEventDispatcher.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

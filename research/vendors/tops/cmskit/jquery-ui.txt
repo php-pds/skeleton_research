@@ -1,0 +1,9 @@
+plugins/
+themes/
+composer.json
+composer.json~
+index.php
+jquery-ui.min.js
+jquery.min.js
+mit-licence.txt
+readme.md

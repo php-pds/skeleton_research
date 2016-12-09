@@ -1,0 +1,16 @@
+css/
+js/
+logs/
+php/
+public/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+README.md
+build.xml
+composer.json
+composer.lock
+gulpfile.js
+package.json
+phpunit.xml
+rest-api.postman_collection.json

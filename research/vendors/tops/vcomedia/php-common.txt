@@ -1,0 +1,4 @@
+src/VCOMedia/PhpCommon/Util/
+LICENSE
+README.md
+composer.json

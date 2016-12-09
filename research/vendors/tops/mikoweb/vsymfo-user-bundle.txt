@@ -1,0 +1,13 @@
+Controller/
+DataFixtures/Install/
+DependencyInjection/
+Entity/
+Form/Type/
+Manager/
+Repository/
+Resources/
+Security/Authorization/Voter/
+LICENSE
+README.md
+composer.json
+vSymfoUserBundle.php

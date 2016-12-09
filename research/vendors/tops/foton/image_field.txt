@@ -1,0 +1,6 @@
+admin/
+components/image_field/
+templates/
+browser_emulator.lib.php
+composer.json
+image_field.ext.php

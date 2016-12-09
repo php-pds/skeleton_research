@@ -1,0 +1,9 @@
+classes/Entity/
+config/doctrine/
+.gitignore
+CHANGELOG.md
+CONTRIBUTING.md
+LICENSE
+README.md
+TODO.md
+composer.json

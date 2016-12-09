@@ -1,0 +1,7 @@
+Console/Output/
+Extension/
+.gitignore
+AssistBundle.php
+LICENSE
+README.md
+composer.json

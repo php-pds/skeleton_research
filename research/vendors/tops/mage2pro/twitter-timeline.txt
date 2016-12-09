@@ -1,0 +1,8 @@
+etc/
+view/frontend/layout/
+Block.php
+LICENSE
+README.md
+Settings.php
+composer.json
+registration.php

@@ -1,0 +1,6 @@
+src/JMBTechnologyLimited/ICalDissect/
+tests/
+.travis.yml
+LICENSE.txt
+README.txt
+composer.json

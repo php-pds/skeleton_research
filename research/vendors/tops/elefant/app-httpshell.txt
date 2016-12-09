@@ -1,0 +1,10 @@
+conf/
+css/
+handlers/
+js/
+lib/
+views/
+README.md
+composer.json
+elefant.json
+screenshot.png

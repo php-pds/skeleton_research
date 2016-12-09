@@ -1,0 +1,15 @@
+Exception/
+FatalErrorHandler/
+Resources/ext/
+Tests/
+.gitignore
+BufferingLogger.php
+CHANGELOG.md
+Debug.php
+DebugClassLoader.php
+ErrorHandler.php
+ExceptionHandler.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

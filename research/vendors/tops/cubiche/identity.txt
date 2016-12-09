@@ -1,0 +1,15 @@
+Tests/Units/
+.atoum.php
+.atoum.travis.php
+.bootstrap.atoum.php
+.travis.yml
+AutoIncrementId.php
+EnumId.php
+HashId.php
+Id.php
+IntegerId.php
+README.md
+SequenceId.php
+StringId.php
+UUID.php
+composer.json

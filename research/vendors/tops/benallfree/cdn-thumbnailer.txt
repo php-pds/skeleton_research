@@ -1,0 +1,6 @@
+src/Image/
+.gitignore
+LICENCE
+README.md
+composer.json
+index.php

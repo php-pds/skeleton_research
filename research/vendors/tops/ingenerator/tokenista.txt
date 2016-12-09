@@ -1,0 +1,10 @@
+.phpspec/
+spec/
+src/Ingenerator/
+.gitattributes
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpspec.yml

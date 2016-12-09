@@ -1,0 +1,13 @@
+spec/
+src/
+.editorconfig
+.gitattributes
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CONTRIBUTING.md
+LICENSE
+README.md
+composer.json
+phpspec.yml.ci
+phpspec.yml.dist

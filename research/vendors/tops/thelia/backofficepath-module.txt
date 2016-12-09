@@ -1,0 +1,12 @@
+AdminIncludes/
+Config/
+Controller/
+EventListeners/
+Form/
+I18n/
+Stack/
+BackOfficePath.php
+CHANGELOG.md
+LICENCE.txt
+README.md
+composer.json

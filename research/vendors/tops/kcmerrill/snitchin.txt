@@ -1,0 +1,6 @@
+screenshots/
+src/kcmerrill/utility/
+t/
+.gitignore
+README.md
+composer.json

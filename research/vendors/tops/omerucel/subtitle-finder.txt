@@ -1,0 +1,6 @@
+bin/
+src/SubtitleFinder/
+tmp/
+.gitignore
+README.md
+composer.json

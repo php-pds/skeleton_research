@@ -1,0 +1,14 @@
+config/
+data/
+tests/bootstrap/
+.gitignore
+.htaccess
+LICENSE
+README.md
+composer.json
+composer.lock
+favicon.ico
+fdl-1.3.txt
+gpl-2.0.txt
+index.php
+phpunit.xml

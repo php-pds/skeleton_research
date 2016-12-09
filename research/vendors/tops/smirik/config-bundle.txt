@@ -1,0 +1,11 @@
+Config/
+Controller/
+DependencyInjection/
+Form/Type/
+Model/
+Resources/
+Twig/Extension/
+spec/Smirik/ConfigBundle/Config/
+.gitignore
+SmirikConfigBundle.php
+composer.json

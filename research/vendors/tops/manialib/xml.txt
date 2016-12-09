@@ -1,0 +1,8 @@
+examples/
+src/Manialib/XML/
+tests/
+.gitignore
+CHANGELOG-4.0.md
+LICENSE
+README.md
+composer.json

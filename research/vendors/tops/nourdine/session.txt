@@ -1,0 +1,7 @@
+demo/
+src/session/
+test/
+.gitignore
+README.md
+composer.json
+phpunit.xml

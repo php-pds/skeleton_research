@@ -1,0 +1,13 @@
+nbproject/
+src/
+.gitattributes
+.gitignore
+.scrutinizer.yml
+.travis.yml
+COPYING
+COPYING.LESSER
+README.md
+apigen.neon
+composer.json
+composer.lock
+phpunit.xml.dist

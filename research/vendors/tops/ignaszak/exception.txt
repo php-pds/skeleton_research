@@ -1,0 +1,11 @@
+src/
+tests/
+.gitignore
+.travis.yml
+README.md
+autoload.php
+composer.json
+demo.php
+phpdoc.dist.xml
+phpunit.xml
+screenshot1.jpg

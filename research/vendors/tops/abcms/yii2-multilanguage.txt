@@ -1,0 +1,11 @@
+behaviors/
+migrations/
+models/
+widgets/
+ActiveDataProvider.php
+Bootstrap.php
+Multilanguage.php
+MultilanguageInterface.php
+README.md
+UrlManager.php
+composer.json

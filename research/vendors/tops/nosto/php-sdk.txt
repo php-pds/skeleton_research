@@ -1,0 +1,12 @@
+src/
+tests/
+.gitignore
+CHANGELOG.md
+Gruntfile.js
+LICENSE.txt
+README.md
+codeception.yml
+composer.json
+composer.lock
+package.json
+ruleset.xml

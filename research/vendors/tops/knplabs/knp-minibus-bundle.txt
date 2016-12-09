@@ -1,0 +1,11 @@
+.doc/
+.images/
+example/Resources/
+spec/Knp/MinibusBundle/
+src/Knp/MinibusBundle/
+.gitignore
+.scutinizer.yml
+.travis.yml
+README.md
+composer.json
+phpspec.yml.dist

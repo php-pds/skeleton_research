@@ -1,0 +1,16 @@
+Builder/
+Controller/
+DependencyInjection/
+Doctrine/ORM/
+Form/
+Generator/
+Model/
+Resources/
+Validator/
+spec/Sylius/Bundle/VariableProductBundle/
+.gitignore
+.travis.yml
+CHANGELOG.md
+README.md
+SyliusVariableProductBundle.php
+composer.json

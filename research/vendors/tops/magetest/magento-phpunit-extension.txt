@@ -1,0 +1,13 @@
+bin/
+src/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+bootstrap.php
+composer.json
+contributing.md
+modman
+n98-magerun.yaml
+phpunit.xml.dist

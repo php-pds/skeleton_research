@@ -1,0 +1,6 @@
+src/tdt/negotiators/
+tests/
+.gitignore
+.travis.yml
+README.md
+composer.json

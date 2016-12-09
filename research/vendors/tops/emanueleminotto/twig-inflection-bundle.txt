@@ -1,0 +1,12 @@
+DependencyInjection/
+Resources/config/
+Tests/DependencyInjection/
+.coveralls.yml
+.editorconfig
+.gitignore
+.travis.yml
+LICENSE
+README.md
+TwigInflectionBundle.php
+composer.json
+phpunit.xml.dist

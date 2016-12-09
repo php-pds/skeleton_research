@@ -1,0 +1,7 @@
+CodeSniffer/Standards/EasyBib/
+src/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock

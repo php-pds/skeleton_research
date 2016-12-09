@@ -1,0 +1,7 @@
+scripts/
+src/
+test/script/
+.gitignore
+README.md
+composer.json
+composer.lock

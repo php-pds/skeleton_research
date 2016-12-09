@@ -1,0 +1,14 @@
+Annotation/
+DependencyInjection/
+EventListener/
+Model/
+Resources/
+Test/
+Tests/
+.gitignore
+.travis.yml
+BazingaRestExtraBundle.php
+CONTRIBUTING.md
+README.md
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,11 @@
+Compare/
+DependencyInjection/
+Entity/
+Parser/
+Resources/
+Tests/
+Validator/
+.gitignore
+README.md
+WnetoUserAgentBundle.php
+composer.json

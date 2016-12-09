@@ -1,0 +1,13 @@
+DependencyInjection/
+EventListener/
+Resources/config/
+Tests/
+.gitignore
+.travis.yml
+LICENSE
+Manager.php
+README.md
+WjzijderveldSculpinRelatedContentBundle.php
+composer.json
+composer.lock
+phpunit.xml.dist

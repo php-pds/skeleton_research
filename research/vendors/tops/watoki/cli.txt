@@ -1,0 +1,9 @@
+spec/watoki/cli/
+src/watoki/cli/
+.gitignore
+.travis.yml
+LICENCE
+README.md
+bootstrap.php
+composer.json
+phpunit.xml.dist

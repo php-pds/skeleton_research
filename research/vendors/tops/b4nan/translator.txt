@@ -1,0 +1,6 @@
+src/Localization/
+tests/
+.gitignore
+.gitlab-ci.yml
+composer.json
+readme.md

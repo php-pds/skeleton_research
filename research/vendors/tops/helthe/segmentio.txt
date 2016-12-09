@@ -1,0 +1,13 @@
+Method/
+Templating/
+Tests/
+.gitignore
+.travis.yml
+Client.php
+ClientInterface.php
+HttpClient.php
+LICENSE
+Queue.php
+README.md
+composer.json
+phpunit.xml.dist

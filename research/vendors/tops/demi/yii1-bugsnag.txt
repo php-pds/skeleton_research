@@ -1,0 +1,5 @@
+BugsnagComponent.php
+BugsnagErrorHandler.php
+BugsnagLogRoute.php
+README.md
+composer.json

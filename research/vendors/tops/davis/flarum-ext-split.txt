@@ -1,0 +1,9 @@
+js/
+locale/
+src/
+.gitignore
+bootstrap.php
+changelog.md
+composer.json
+license.md
+readme.md

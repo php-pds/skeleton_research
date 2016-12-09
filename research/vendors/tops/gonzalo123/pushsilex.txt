@@ -1,0 +1,9 @@
+conf/
+src/Silex/Provider/
+www/
+.bowerrc
+.gitignore
+Gruntfile.js
+README.md
+composer.json
+package.json

@@ -1,0 +1,13 @@
+css/
+fonts/
+javascript/
+less/
+templates/
+.gitignore
+Gruntfile.js
+README.md
+bower.json
+composer.json
+gulpfile.js
+package.json
+thumbnail.png

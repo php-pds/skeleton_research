@@ -1,0 +1,12 @@
+config/
+database/
+src/
+.gitattributes
+.gitignore
+CHANGELOG.md
+CONTRIBUTING.md
+INSTALL.md
+LICENSE.md
+README.md
+composer.json
+phpunit.xml

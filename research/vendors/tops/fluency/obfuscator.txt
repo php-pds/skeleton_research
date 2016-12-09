@@ -1,0 +1,7 @@
+src/
+.gitignore
+LICENSE
+README
+composer.json
+index.php
+obfuscator.php

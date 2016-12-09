@@ -1,0 +1,11 @@
+Application/
+admin/
+.gitattributes
+.gitignore
+.htaccess
+README.MD
+composer.json
+composer.phar
+favicon.ico
+index.php
+init.php

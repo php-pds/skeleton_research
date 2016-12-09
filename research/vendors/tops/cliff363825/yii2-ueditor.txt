@@ -1,0 +1,8 @@
+assets/
+LICENSE
+README.md
+UEditorAction.php
+UEditorAsset.php
+UEditorWidget.php
+Uploader.php
+composer.json

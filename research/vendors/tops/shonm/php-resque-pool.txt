@@ -1,0 +1,11 @@
+bin/
+config/
+lib/Resque/Pool/
+test/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml

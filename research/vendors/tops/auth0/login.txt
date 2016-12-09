@@ -1,0 +1,8 @@
+examples/
+src/
+.DS_Store
+.gitignore
+CHANGELOG.md
+LICENSE.txt
+README.md
+composer.json

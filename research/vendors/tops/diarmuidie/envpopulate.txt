@@ -1,0 +1,12 @@
+examples/
+src/
+tests/
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+composer.json
+gitattributes
+phpcs.xml.dist
+phpunit.xml.dist

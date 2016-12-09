@@ -1,0 +1,10 @@
+Controller/
+DependencyInjection/
+Exception/
+Manager/
+Resources/
+.gitignore
+C2isCookieBundle.php
+LICENCE
+README.md
+composer.json

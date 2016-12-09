@@ -1,0 +1,6 @@
+DependencyInjection/
+Model/Category/
+Resources/
+README.MD
+RussellKCategoryBundle.php
+composer.json

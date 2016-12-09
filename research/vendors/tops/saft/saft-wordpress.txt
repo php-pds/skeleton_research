@@ -1,0 +1,8 @@
+Saft/vendor/
+.gitignore
+LICENSE
+Makefile
+README.md
+Saft.wordpress.php
+composer.json
+readme.txt

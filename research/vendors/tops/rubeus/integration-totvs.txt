@@ -1,0 +1,11 @@
+Entrada/
+Envio/
+Exception/
+IniciarBase/
+Leitura/
+ProcessoIntegracao/
+Registrar/
+WebService/
+lib/
+composer.json
+dependencias.json

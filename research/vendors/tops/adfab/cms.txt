@@ -1,0 +1,11 @@
+config/
+language/
+src/AdfabCms/
+tests/
+view/
+.gitignore
+LICENSE
+Module.php
+README.md
+composer.json
+phpunit.xml.dist

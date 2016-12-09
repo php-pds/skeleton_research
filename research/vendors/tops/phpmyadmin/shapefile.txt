@@ -1,0 +1,13 @@
+ci/
+data/
+examples/
+src/
+tests/
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+codecov.yml
+composer.json
+phpunit.xml

@@ -1,0 +1,6 @@
+model/
+views/
+.htaccess
+composer.json
+index.php
+manifest.php

@@ -1,0 +1,7 @@
+private/
+public/
+Changelog.txt
+LICENSE.txt
+README.md
+SFS-Mass-IP-Checker.php
+composer.json

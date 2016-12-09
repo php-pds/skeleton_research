@@ -1,0 +1,5 @@
+assets/
+JQueryUpoadFilePlugin.php
+JQueryUpoadFilePluginAsset.php
+README.md
+composer.json

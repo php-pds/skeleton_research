@@ -1,0 +1,5 @@
+assets/
+LICENSE
+README.md
+WP_Notify.php
+composer.json

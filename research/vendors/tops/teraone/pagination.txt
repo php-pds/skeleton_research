@@ -1,0 +1,6 @@
+.idea/
+.gitignore
+Paginator.php
+README
+composer.json
+paginator.html.twig

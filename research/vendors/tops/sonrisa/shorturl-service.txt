@@ -1,0 +1,8 @@
+src/Sonrisa/Service/ShortLink/
+tests/Sonrisa/Service/ShortLink/
+.gitignore
+.travis.yml
+LICENSE.txt
+README.md
+composer.json
+phpunit.xml.dist

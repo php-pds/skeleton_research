@@ -1,0 +1,7 @@
+FidavistaAccount.php
+FidavistaCurrency.php
+FidavistaStatement.php
+FidavistaTransaction.php
+LICENSE
+README.md
+composer.json

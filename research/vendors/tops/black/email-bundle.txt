@@ -1,0 +1,10 @@
+Application/DependencyInjection/
+Resources/
+.gitattributes
+.gitignore
+.scrutinizer.yml
+.travis.yml
+BlackEmailBundle.php
+CONTRIBUTING.md
+README.md
+composer.json

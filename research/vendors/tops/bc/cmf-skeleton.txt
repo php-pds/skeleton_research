@@ -1,0 +1,8 @@
+app/
+config/
+def/
+gen/
+htdocs/
+.gitignore
+composer.json
+startup.php

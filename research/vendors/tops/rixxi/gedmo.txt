@@ -1,0 +1,4 @@
+src/Rixxi/Gedmo/DI/
+composer.json
+license.md
+readme.md

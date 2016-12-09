@@ -1,0 +1,12 @@
+DependencyInjection/
+Resources/config/
+Response/
+Tests/
+.gitignore
+.travis.yml
+CHANGELOG.md
+IgorwFileServeBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

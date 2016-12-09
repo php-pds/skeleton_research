@@ -1,0 +1,13 @@
+.idea/
+src/CubicMushroom/Slim/
+tests/
+.gitignore
+.travis.yml
+CHANGELOG
+LICENSE
+README.md
+codeception.yml
+composer.json
+composer.lock
+gulpfile.js
+package.json

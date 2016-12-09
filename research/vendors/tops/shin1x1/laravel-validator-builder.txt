@@ -1,0 +1,7 @@
+src/Shin1x1/ValidatorBuilder/
+tests/
+.gitignore
+.travis.yml
+README.md
+composer.json
+phpunit.xml

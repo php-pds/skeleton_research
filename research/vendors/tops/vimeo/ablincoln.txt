@@ -1,0 +1,9 @@
+src/Vimeo/ABLincoln/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml

@@ -1,0 +1,7 @@
+dist/
+FoundationAssets.php
+IconBar.php
+LICENSE.md
+Pagination.php
+README.md
+composer.json

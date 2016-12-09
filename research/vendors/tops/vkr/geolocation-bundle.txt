@@ -1,0 +1,12 @@
+DependencyInjection/
+Entity/Perishable/
+Exception/
+Interfaces/
+Resources/config/
+Services/
+TestHelpers/
+Tests/Services/
+.gitignore
+README.md
+VKRGeolocationBundle.php
+composer.json

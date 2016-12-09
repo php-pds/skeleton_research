@@ -1,0 +1,8 @@
+Controller/
+DependencyInjection/
+FileSystem/
+Resources/
+ElendevRoxyFilemanBundle.php
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,10 @@
+bin/
+src/
+test/
+.gitignore
+.hhconfig
+LICENSE
+README.md
+circle.yml
+composer.json
+docker-test.sh

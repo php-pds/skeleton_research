@@ -1,0 +1,12 @@
+presets/
+AutoloadExample.php
+CKEditor.php
+CKEditorAsset.php
+CKEditorTrait.php
+KCFinderAsset.php
+KCFinderTextInput.php
+README.md
+TinyMce.php
+TinyMceAsset.php
+composer.json
+upload.htaccess

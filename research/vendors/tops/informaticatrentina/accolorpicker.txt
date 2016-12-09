@@ -1,0 +1,6 @@
+datatypes/accolorpicker/
+design/standard/
+settings/
+README.md
+composer.json
+extension.xml

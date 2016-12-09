@@ -1,0 +1,7 @@
+assets/
+data/
+modules/AppModule/
+.htaccess
+LICENSE
+composer.json
+index.php

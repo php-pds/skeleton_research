@@ -1,0 +1,5 @@
+src/Ingewikkeld/Rest/UserBundle/
+.gitignore
+LICENSE
+README.md
+composer.json

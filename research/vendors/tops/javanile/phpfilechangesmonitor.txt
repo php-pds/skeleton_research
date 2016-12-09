@@ -1,0 +1,3 @@
+src/Javanile/PhpFileChangesMonitor/
+composer.json
+remote.php

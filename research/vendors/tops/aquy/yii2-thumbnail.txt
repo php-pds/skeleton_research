@@ -1,0 +1,5 @@
+fonts/
+FileNotFoundException.php
+Thumbnail.php
+ThumbnailConfig.php
+composer.json

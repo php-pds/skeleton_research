@@ -1,0 +1,4 @@
+phpclient/
+server/
+README.md
+composer.json

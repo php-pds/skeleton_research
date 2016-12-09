@@ -1,0 +1,6 @@
+assets/
+.gitattributes
+.gitignore
+SelectizeWidget.php
+SelectizejsAsset.php
+composer.json

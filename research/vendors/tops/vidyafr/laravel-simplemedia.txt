@@ -1,0 +1,3 @@
+src/SimpleMedia/
+README.md
+composer.json

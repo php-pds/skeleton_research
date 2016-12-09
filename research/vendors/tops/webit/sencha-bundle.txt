@@ -1,0 +1,12 @@
+Command/
+Component/
+Controller/
+DependencyInjection/
+Listener/
+Resources/
+StaticData/
+Tests/Controller/
+.gitignore
+README.md
+WebitSenchaBundle.php
+composer.json

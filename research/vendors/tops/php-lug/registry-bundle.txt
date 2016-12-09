@@ -1,0 +1,12 @@
+DependencyInjection/Compiler/
+Exception/
+Model/
+Tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+LugRegistryBundle.php
+README.md
+composer.json
+phpunit.xml.dist

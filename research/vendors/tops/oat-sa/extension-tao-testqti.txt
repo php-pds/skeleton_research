@@ -1,0 +1,16 @@
+actions/
+config/default/
+doc/
+helpers/
+includes/
+install/local/
+locales/
+models/
+scripts/
+test/
+views/
+.gitignore
+LICENSE
+README.md
+composer.json
+manifest.php

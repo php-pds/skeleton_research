@@ -1,0 +1,6 @@
+config/
+extensions/
+views/elements/
+.gitignore
+composer.json
+readme.md

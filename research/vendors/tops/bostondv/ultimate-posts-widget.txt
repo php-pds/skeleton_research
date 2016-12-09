@@ -1,0 +1,15 @@
+assets/
+css/
+js/
+languages/
+scss/
+templates/
+.editorconfig
+.gitignore
+LICENSE.md
+composer.json
+gulpfile.js
+package.json
+readme.md
+readme.txt
+ultimate-posts-widget.php

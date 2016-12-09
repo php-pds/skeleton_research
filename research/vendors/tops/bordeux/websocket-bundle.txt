@@ -1,0 +1,9 @@
+Console/
+DependencyInjection/
+Resources/
+Service/
+Tests/Controller/
+Websocket/
+BordeuxWebsocketBundle.php
+README.md
+composer.json

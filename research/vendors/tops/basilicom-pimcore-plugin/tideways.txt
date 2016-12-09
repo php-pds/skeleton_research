@@ -1,0 +1,8 @@
+lib/Tideways/
+.gitignore
+LICENSE.txt
+README.md
+composer.json
+plugin.xml
+tideways-pimcore.xml
+tideways.xml

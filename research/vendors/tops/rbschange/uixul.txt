@@ -1,0 +1,14 @@
+actions/
+change-commands/default/
+changedev-commands/default/
+config/
+forms/
+i18n/
+lib/
+setup/
+style/
+templates/
+views/
+webapp/media/backoffice/
+LICENSE.txt
+change.xml

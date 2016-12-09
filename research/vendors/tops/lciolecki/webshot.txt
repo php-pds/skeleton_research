@@ -1,0 +1,10 @@
+application/
+bin/
+docs/
+library/
+public/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json

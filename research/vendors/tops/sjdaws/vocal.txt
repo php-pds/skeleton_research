@@ -1,0 +1,10 @@
+examples/
+src/Sjdaws/Vocal/
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+composer.json
+licence
+phpunit.xml
+readme.md

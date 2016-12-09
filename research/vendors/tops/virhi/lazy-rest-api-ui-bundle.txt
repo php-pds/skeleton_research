@@ -1,0 +1,8 @@
+Tests/Controller/
+src/Virhi/LazyRestApiUiBundle/
+.gitignore
+README.md
+composer.json
+composer.lock
+phpci.yml
+phpunit.xml

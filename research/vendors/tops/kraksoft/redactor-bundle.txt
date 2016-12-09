@@ -1,0 +1,8 @@
+Controller/
+DependencyInjection/
+Form/Type/
+Model/
+Resources/
+README.md
+StpRedactorBundle.php
+composer.json

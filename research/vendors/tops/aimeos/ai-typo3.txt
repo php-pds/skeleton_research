@@ -1,0 +1,10 @@
+admin/jqadm/
+lib/custom/
+.coveralls.yml
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+manifest.php
+phing.xml

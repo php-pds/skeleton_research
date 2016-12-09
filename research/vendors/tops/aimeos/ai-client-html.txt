@@ -1,0 +1,11 @@
+.tx/
+client/
+controller/jobs/
+.coveralls.yml
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+manifest.php
+phing.xml

@@ -1,0 +1,7 @@
+.idea/
+examples/
+src/Beluga/Translation/
+.gitignore
+LICENSE
+README.md
+composer.json

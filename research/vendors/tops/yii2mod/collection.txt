@@ -1,0 +1,11 @@
+interfaces/
+tests/
+.gitattributes
+.gitignore
+.php_cs
+.travis.yml
+Collection.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

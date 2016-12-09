@@ -1,0 +1,12 @@
+config/
+languages/facebook/
+public/scripts/zork/
+sql/grid-facebook/site/
+src/Grid/Facebook/
+vendor/
+view/grid/facebook/admin/
+.gitignore
+LICENSE.txt
+Module.php
+README.md
+composer.json

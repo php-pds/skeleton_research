@@ -1,0 +1,10 @@
+behaviors/
+controllers/
+migrations/
+models/
+views/default/
+Bootstrap.php
+LICENSE
+Module.php
+composer.json
+readme.md

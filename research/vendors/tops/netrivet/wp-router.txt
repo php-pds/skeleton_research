@@ -1,0 +1,8 @@
+examples/
+specs/
+src/
+.gitignore
+.travis.yml
+README.md
+composer.json
+peridot.php

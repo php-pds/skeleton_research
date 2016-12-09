@@ -1,0 +1,10 @@
+lib/EarthIT/CMIPREST/
+test/
+util/
+.gitignore
+.travis.yml
+COMPOUND-ACTIONS.md
+LICENSE.txt
+Makefile
+README.md
+composer.json

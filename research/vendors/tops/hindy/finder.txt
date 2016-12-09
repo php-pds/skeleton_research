@@ -1,0 +1,3 @@
+src/Mindy/Finder/
+README.md
+composer.json

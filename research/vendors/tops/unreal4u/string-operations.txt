@@ -1,0 +1,9 @@
+examples/
+src/unreal4u/
+tests/
+.gitattributes
+.gitignore
+.travis.yml
+README.md
+composer.json
+phpunit.xml

@@ -1,0 +1,14 @@
+src/Wikimedia/
+tests/Wikimedia/
+.editorconfig
+.gitattributes
+.gitignore
+.gitreview
+.travis.yml
+COPYING
+Doxyfile
+README.md
+composer.json
+formats.md
+phpcs.xml
+phpunit.xml.dist

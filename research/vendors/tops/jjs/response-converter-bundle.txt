@@ -1,0 +1,8 @@
+Converter/
+DependencyInjection/
+Resources/config/Bundle/
+Response/
+.gitignore
+JJsResponseConverterBundle.php
+README.md
+composer.json

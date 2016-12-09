@@ -1,0 +1,7 @@
+DependencyInjection/
+Message/
+Resources/
+.gitignore
+EmailFactory.php
+RageNotificationBundle.php
+composer.json

@@ -1,0 +1,10 @@
+inc/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist
+post-link-shortcodes.php
+readme.txt

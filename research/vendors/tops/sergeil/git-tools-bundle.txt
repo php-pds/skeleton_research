@@ -1,0 +1,12 @@
+Command/
+DependencyInjection/
+Git/Status/
+Resources/
+Tests/
+.gitignore
+.travis.yml
+README.md
+SliGitToolsBundle.php
+composer.json
+composer.lock
+phpunit.xml.dist

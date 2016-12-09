@@ -1,0 +1,8 @@
+CHANGELOG.txt
+Readme.md
+composer.json
+config.xml
+graphnvd3.php
+index.php
+logo.gif
+logo.png

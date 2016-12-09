@@ -1,0 +1,13 @@
+Block/
+Controller/
+DependencyInjection/
+Entity/
+Form/Type/
+Module/
+Resources/
+Tests/Functional/
+Twig/
+.gitignore
+ClasticBlockBundle.php
+LICENSE
+composer.json

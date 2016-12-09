@@ -1,0 +1,9 @@
+.github/
+assets/
+messages/
+CHANGE.md
+DetailView.php
+DetailViewAsset.php
+LICENSE.md
+README.md
+composer.json

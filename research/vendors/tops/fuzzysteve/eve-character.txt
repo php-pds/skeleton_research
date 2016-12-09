@@ -1,0 +1,4 @@
+lib/EveCharacter/
+LICENSE
+README.md
+composer.json

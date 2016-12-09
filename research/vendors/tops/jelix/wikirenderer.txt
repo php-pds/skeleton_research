@@ -1,0 +1,13 @@
+example/
+lib/WikiRenderer/
+tests/
+website/
+.gitattributes
+.gitignore
+CHANGELOG
+CONTRIBUTING.md
+CREDITS
+LICENCE
+README.md
+VERSION
+composer.json

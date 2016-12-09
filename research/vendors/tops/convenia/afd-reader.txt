@@ -1,0 +1,12 @@
+Tests/AfdReader/
+build/
+src/
+.gitignore
+.travis.yml
+README.md
+afd_test.txt
+afdt_test.txt
+afdt_test_small.txt
+composer.json
+composer.lock
+phpunit.xml

@@ -1,0 +1,9 @@
+controller/extjs/
+lib/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+manifest.php
+phing.xml

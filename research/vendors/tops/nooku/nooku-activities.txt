@@ -1,0 +1,12 @@
+activity/
+controller/
+database/
+model/
+resources/
+template/helper/
+version/
+view/activities/
+CONTRIBUTING.md
+LICENSE.txt
+README.md
+composer.json

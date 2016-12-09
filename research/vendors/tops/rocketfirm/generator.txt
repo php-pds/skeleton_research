@@ -1,0 +1,10 @@
+behaviors/
+gii/
+traits/
+.gitignore
+JsBlock.php
+LICENSE
+OptimisticLockValidator.php
+RelationTrait.php
+composer.json
+composer.lock

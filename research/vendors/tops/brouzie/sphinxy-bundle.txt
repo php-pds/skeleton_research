@@ -1,0 +1,16 @@
+Command/
+DataCollector/
+DependencyInjection/
+Logger/
+Resources/
+Sphinxy/
+Tests/DependencyInjection/
+.gitignore
+.scrutinizer.yml
+.styleci.yml
+.travis.yml
+BrouzieSphinxyBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

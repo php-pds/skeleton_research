@@ -1,0 +1,11 @@
+Testing/
+docs/Documentation/
+examples/
+tests/
+.gitignore
+ChangeLog
+README
+TODO
+composer.json
+package.xml
+selenium-server.jar

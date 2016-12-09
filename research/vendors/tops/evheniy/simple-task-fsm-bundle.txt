@@ -1,0 +1,11 @@
+Exception/
+Resources/meta/
+Tests/
+.gitignore
+.travis.yml
+FSM.php
+README.md
+SimpleTaskFSMBundle.php
+StateAbstract.php
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,11 @@
+admin_actions/
+configs/
+includes/
+tables/
+tests/
+.codeclimate.yml
+.travis.yml
+CHANGELOG.md
+README.md
+composer.json
+phpunit.xml

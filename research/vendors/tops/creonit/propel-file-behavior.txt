@@ -1,0 +1,3 @@
+FileBehavior.php
+LICENSE
+composer.json

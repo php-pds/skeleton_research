@@ -1,0 +1,7 @@
+config/install/
+.gitignore
+LICENSE
+README.md
+composer.json
+dennis_profile.info.yml
+dennis_profile.install

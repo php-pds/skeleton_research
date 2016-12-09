@@ -1,0 +1,5 @@
+Configuration/
+SimplyAdmire/ComposerPlugins/
+LICENSE
+README.md
+composer.json

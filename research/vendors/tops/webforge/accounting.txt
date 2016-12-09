@@ -1,0 +1,12 @@
+lib/
+tests/Webforge/Accounting/
+.coveralls.yml
+.gitignore
+.travis.yml
+LICENSE
+README.md
+bootstrap.php
+composer.json
+phpunit.xml.dist
+rmt.json
+webforge-accounting.sublime-project

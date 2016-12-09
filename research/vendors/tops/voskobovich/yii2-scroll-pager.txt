@@ -1,0 +1,7 @@
+assets/
+.gitignore
+README.md
+ScrollPager.php
+ScrollPagerAsset.php
+ScrollPagerWrapper.php
+composer.json

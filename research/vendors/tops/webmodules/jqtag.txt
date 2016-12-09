@@ -1,0 +1,10 @@
+.gitmodules
+README.MD
+bower.json
+composer.json
+index.html
+jqtag.css
+jqtag.js
+jqtag.scss
+module.json
+module.properties

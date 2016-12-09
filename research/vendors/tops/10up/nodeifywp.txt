@@ -1,0 +1,10 @@
+tests/
+.editorconfig
+.gitignore
+API.php
+App.php
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist
+standard-tags.php

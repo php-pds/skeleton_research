@@ -1,0 +1,8 @@
+DependencyInjection/
+Resources/
+Security/Encoder/
+Tests/Security/Encoder/
+.gitignore
+GayaPhpbbEncoderBundle.php
+README.md
+composer.json

@@ -1,0 +1,8 @@
+lib/Klout/Api/
+test/Klout/Test/Api/
+.gitignore
+.travis.yml
+README.rst
+composer.json
+example.php
+phpunit.xml.dist

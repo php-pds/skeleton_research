@@ -1,0 +1,12 @@
+bin/
+public/
+spec/Jdecano/Api/
+src/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpspec.yml
+phpunit.xml

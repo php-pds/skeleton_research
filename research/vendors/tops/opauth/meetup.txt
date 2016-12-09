@@ -1,0 +1,4 @@
+.gitignore
+MeetupStrategy.php
+README.md
+composer.json

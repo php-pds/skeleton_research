@@ -1,0 +1,8 @@
+src/Codeaken/SshKey/
+tests/
+.editorconfig
+.gitignore
+LICENSE
+README.md
+composer.json
+phpunit.xml

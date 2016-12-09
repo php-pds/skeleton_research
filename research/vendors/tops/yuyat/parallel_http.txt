@@ -1,0 +1,15 @@
+examples/
+src/Yuyat/ParallelHttp/
+tests/
+.gitignore
+.travis.yml
+ChangeLog.md
+Gemfile
+Gemfile.lock
+Guardfile
+LICENSE
+README.md
+Venomfile
+composer.json
+install.sh
+phpunit.xml

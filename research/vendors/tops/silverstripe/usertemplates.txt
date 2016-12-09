@@ -1,0 +1,9 @@
+code/
+.gitattributes
+.gitignore
+.travis.yml
+CHANGELOG
+README.md
+VERSION
+_config.php
+composer.json

@@ -1,0 +1,7 @@
+lib/
+templates/
+www/
+Makefile
+README.md
+composer.json
+config.php

@@ -1,0 +1,5 @@
+src/psr4/
+.gitignore
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,4 @@
+src/Voodoo/
+test/src/Voodoo/
+ReadMe.md
+composer.json

@@ -1,0 +1,14 @@
+Tests/
+ApcClassLoader.php
+CHANGELOG.md
+ClassCollectionLoader.php
+ClassLoader.php
+ClassMapGenerator.php
+LICENSE
+MapClassLoader.php
+Psr4ClassLoader.php
+README.md
+WinCacheClassLoader.php
+XcacheClassLoader.php
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,5 @@
+src/Sasedev/Commons/SharedBundle/
+.gitignore
+LICENSE
+README.md
+composer.json

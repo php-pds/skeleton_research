@@ -1,0 +1,14 @@
+cache/
+cron/
+crypt/
+db/
+documents/
+flow/
+i18n/
+mail/
+misc/
+session/
+system/
+LICENSE
+composer.json
+module.ini

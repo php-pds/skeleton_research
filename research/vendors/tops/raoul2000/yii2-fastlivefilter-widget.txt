@@ -1,0 +1,7 @@
+assets/
+CHANGE.md
+FastLiveFilter.php
+FastLiveFilterAsset.php
+LICENSE.md
+README.md
+composer.json

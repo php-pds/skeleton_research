@@ -1,0 +1,13 @@
+bin/
+features/
+src/
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+Dockerfile
+README.md
+behat.yml.dist
+composer.json
+docker-compose.yml
+phpunit.xml.dist

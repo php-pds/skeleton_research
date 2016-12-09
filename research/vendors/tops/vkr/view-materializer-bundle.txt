@@ -1,0 +1,9 @@
+Command/
+DependencyInjection/
+Resources/config/
+Services/
+Tests/Services/
+.gitignore
+README.md
+VKRViewMaterializerBundle.php
+composer.json

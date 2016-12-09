@@ -1,0 +1,8 @@
+DB/
+doc/
+tests/
+.gitignore
+.travis.yml
+DB.php
+composer.json
+package.xml

@@ -1,0 +1,7 @@
+test/
+.gitignore
+array_kmap.php
+composer.json
+composer.lock
+phpunit.xml
+readme.md

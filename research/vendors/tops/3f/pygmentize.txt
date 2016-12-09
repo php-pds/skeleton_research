@@ -1,0 +1,6 @@
+src/Pygmentize/
+.gitignore
+Doxyfile
+LICENSE
+README.md
+composer.json

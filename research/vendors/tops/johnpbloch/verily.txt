@@ -1,0 +1,9 @@
+Config/
+Lib/
+Views/
+.gitignore
+README.md
+Verily.php
+View.php
+composer.json
+install.php

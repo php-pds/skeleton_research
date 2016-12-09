@@ -1,0 +1,11 @@
+controllers/
+migrations/
+models/
+views/admin/
+widgets/
+.gitignore
+Catalog.php
+CatalogAdmin.php
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,11 @@
+admin/
+includes/
+languages/
+public/
+.gitignore
+LICENSE.txt
+README.txt
+composer.json
+index.php
+uninstall.php
+white-album-external-header.php

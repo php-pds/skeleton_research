@@ -1,0 +1,11 @@
+Block/System/Config/Form/Field/
+Controller/Adminhtml/Help/
+Model/
+etc/
+view/
+.gitignore
+COPYING.txt
+LICENSE.txt
+README.md
+composer.json
+registration.php

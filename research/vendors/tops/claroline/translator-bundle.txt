@@ -1,0 +1,16 @@
+Command/
+Controller/
+DataFixtures/
+DependencyInjection/
+Entity/
+Form/
+Installation/
+Listener/
+Manager/
+Migrations/pdo_mysql/
+Repository/
+Resources/
+ClarolineTranslatorBundle.php
+README.md
+assets.json
+composer.json

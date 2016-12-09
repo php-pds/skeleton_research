@@ -1,0 +1,6 @@
+src/Lint/
+.gitignore
+Doxyfile
+LICENSE
+README.md
+composer.json

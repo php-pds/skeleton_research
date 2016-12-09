@@ -1,0 +1,11 @@
+Command/
+DependencyInjection/
+Entity/
+Exposer/
+Provider/
+Resources/
+Synchronizer/
+.gitignore
+README.md
+WebitPriceComparatorCeneoBundle.php
+composer.json

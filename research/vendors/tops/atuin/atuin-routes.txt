@@ -1,0 +1,4 @@
+config/
+.gitignore
+Module.php
+composer.json

@@ -1,0 +1,17 @@
+build/
+host-vm/
+install-docker-host-vm/
+scripts/
+vendor/
+.gitignore
+.gitmodules
+.local-dev-vm-env.dist
+README.md
+Vagrantfile.erb
+composer.json
+docker-container-ssh.sh.erb
+provision.sh.erb
+proxy-config.sh.erb
+proxy-start.sh.erb
+web-config.sh.erb
+web-start.sh.erb

@@ -1,0 +1,16 @@
+actions/
+classes/ColdTrick/SimpleSAML/
+languages/
+lib/
+pages/
+vendors/simplesamlphp/modules/authelgg/
+views/default/
+.gitignore
+.travis.yml
+CHANGES.txt
+INSTALL.txt
+README.md
+composer.json
+composer.lock
+manifest.xml
+start.php

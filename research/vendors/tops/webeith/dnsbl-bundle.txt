@@ -1,0 +1,6 @@
+DependencyInjection/
+Resources/config/
+LICENSE
+README.md
+WebeithDnsblBundle.php
+composer.json

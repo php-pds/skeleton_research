@@ -1,0 +1,12 @@
+assets-right/
+assets/
+screenshot/
+views/
+.gitignore
+ActiveAssets.php
+ActiveRightAssets.php
+FontAwesomeAsset.php
+LICENSE.md
+README.md
+VerticalMenu.php
+composer.json

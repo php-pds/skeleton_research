@@ -1,0 +1,9 @@
+Command/
+DependencyInjection/
+Resources/config/
+Tests/Controller/
+.travis.yml
+LICENSE
+README.md
+VivaitWorkerCommandBundle.php
+composer.json

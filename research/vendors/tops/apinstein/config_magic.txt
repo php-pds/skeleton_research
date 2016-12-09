@@ -1,0 +1,6 @@
+.gitignore
+ConfigMagic.php
+README
+cfg
+composer.json
+pearfarm.spec

@@ -1,0 +1,15 @@
+Admin/Extension/
+DependencyInjection/
+Model/
+Resources/
+Tests/tests/
+.gitignore
+.php_cs
+.styleci.yml
+.travis.yml
+Core23ClassificationMediaBundle.php
+LICENSE
+Makefile
+README.md
+composer.json
+phpunit.xml.dist

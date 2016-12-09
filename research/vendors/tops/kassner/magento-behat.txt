@@ -1,0 +1,7 @@
+features/
+spec/MageTest/
+src/MageTest/
+.gitignore
+README.md
+behat.yml.dist
+composer.json

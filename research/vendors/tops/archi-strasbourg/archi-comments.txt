@@ -1,0 +1,7 @@
+i18n/
+.gitignore
+LICENSE
+README.md
+SpecialArchiComments.php
+composer.json
+extension.json

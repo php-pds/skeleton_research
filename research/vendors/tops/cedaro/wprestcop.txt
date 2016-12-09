@@ -1,0 +1,12 @@
+languages/
+php/
+tests/phpunit/
+.editorconfig
+.gitignore
+README.md
+composer.json
+gruntfile.js
+package.json
+phpcs.xml
+phpunit.xml
+wprestcop.php

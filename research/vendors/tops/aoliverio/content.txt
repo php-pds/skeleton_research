@@ -1,0 +1,12 @@
+api/
+config/
+docs/
+src/
+tests/
+webroot/
+LICENSE.txt
+README.md
+VERSION.txt
+composer.json
+mkdocs.yml
+phpunit.xml.dist

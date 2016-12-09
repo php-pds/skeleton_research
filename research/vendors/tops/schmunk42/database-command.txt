@@ -1,0 +1,5 @@
+views/
+CHANGELOG.md
+EDatabaseCommand.php
+README.md
+composer.json

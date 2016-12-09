@@ -1,0 +1,8 @@
+Admin/Entity/
+DependencyInjection/
+Entity/
+Resources/
+.gitignore
+README.md
+RzCommentBundle.php
+composer.json

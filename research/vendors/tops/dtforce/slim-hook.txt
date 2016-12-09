@@ -1,0 +1,11 @@
+app/
+config/
+public/
+src/
+tests/Functional/
+.gitignore
+.scrutinizer.yml
+README.md
+composer.json
+composer.lock
+phpunit.xml

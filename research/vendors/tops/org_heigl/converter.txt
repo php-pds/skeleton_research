@@ -1,0 +1,14 @@
+build/
+dist/
+doc/
+src/
+tests/
+tools/
+.gitignore
+CHANGELOG
+LICENSE
+README
+build.xml
+build_ant.xml
+composer.json
+docblox.dist.xml

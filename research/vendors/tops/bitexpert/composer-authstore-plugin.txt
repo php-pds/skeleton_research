@@ -1,0 +1,8 @@
+src/bitExpert/Composer/Auth/
+tests/
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

@@ -1,0 +1,6 @@
+Joli/PHPTour/Burger/
+bin/
+.gitignore
+README.md
+composer.json
+demo.gif

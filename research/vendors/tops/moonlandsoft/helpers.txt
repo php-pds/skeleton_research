@@ -1,0 +1,6 @@
+JSON.php
+LICENSE
+README.md
+SlugHelper.php
+XMLHelper.php
+composer.json

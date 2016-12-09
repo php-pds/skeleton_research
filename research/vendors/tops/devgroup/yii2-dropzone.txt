@@ -1,0 +1,8 @@
+.gitignore
+DropZone.php
+DropZoneAsset.php
+LICENSE
+README.md
+RemoveAction.php
+UploadAction.php
+composer.json

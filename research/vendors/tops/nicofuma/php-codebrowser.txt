@@ -1,0 +1,13 @@
+bin/
+src/PHPCodeBrowser/
+templates/
+.gitignore
+.travis.yml
+CHANGELOG.markdown
+LICENSE
+README.markdown
+box.json
+build.xml
+composer.json
+package.xml
+phpunit.xml.dist

@@ -1,0 +1,9 @@
+src/Zf2Doctrine2ManagerRegistryService/Registry/
+tests/
+.coveralls.yml
+.gitignore
+.travis.yml
+LICENSE
+Module.php
+README.md
+composer.json

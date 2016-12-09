@@ -1,0 +1,8 @@
+assets/
+config/
+controllers/
+messages/ru-RU/
+views/
+widgets/
+Module.php
+composer.json

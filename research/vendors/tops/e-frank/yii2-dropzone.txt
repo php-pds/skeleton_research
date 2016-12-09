@@ -1,0 +1,8 @@
+assets/
+views/
+.gitattributes
+.gitignore
+Dropzone.php
+DropzoneAsset.php
+README.md
+composer.json

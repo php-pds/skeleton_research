@@ -1,0 +1,14 @@
+bin/
+config/
+data/
+src/tomzx/HackBot/
+tests/tomzx/HackBot/
+.gitignore
+.hhconfig
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

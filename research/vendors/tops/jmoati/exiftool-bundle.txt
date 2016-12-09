@@ -1,0 +1,7 @@
+DependencyInjection/
+Resources/config/
+Service/
+.gitignore
+JmoatiExifToolBundle.php
+composer.json
+composer.lock

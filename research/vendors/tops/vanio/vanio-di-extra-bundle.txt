@@ -1,0 +1,12 @@
+DependencyInjection/
+Resources/
+Tests/
+.gitignore
+.travis.yml
+Controller.php
+LICENSE
+README.md
+VanioDiExtraBundle.php
+composer.json
+composer.lock
+phpunit.xml

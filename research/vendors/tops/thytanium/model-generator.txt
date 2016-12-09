@@ -1,0 +1,8 @@
+src/Thytanium/ModelGenerator/
+templates/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json
+phpunit.xml

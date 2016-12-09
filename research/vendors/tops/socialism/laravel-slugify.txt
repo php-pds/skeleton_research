@@ -1,0 +1,6 @@
+src/Socialism/LaravelSlugify/
+tests/
+.gitignore
+.travis.yml
+composer.json
+phpunit.xml

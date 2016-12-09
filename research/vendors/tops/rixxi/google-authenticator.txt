@@ -1,0 +1,5 @@
+src/Rixxi/GoogleAuthenticator/
+tests/
+.travis.yml
+composer.json
+license.md

@@ -1,0 +1,15 @@
+_config/
+code/
+css/
+docs/
+fonts/
+javascript/lang/
+lang/
+script/
+templates/forms/
+.gitattributes
+.hgignore
+LICENSE.md
+README.md
+_config.php
+composer.json

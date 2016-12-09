@@ -1,0 +1,6 @@
+src/Xjtuwangke/LaravelApi/
+tests/
+.gitignore
+.travis.yml
+composer.json
+phpunit.xml

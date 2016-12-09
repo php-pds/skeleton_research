@@ -1,0 +1,6 @@
+.gitignore
+EventBootstrap.php
+EventManager.php
+LICENSE
+README.md
+composer.json

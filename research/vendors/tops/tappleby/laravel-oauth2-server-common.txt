@@ -1,0 +1,8 @@
+src/Tappleby/OAuth2/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml

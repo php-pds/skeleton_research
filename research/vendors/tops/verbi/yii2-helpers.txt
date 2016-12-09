@@ -1,0 +1,7 @@
+nbproject/
+src/
+CHANGES
+GNU.md
+LICENSE.md
+VERSION
+composer.json

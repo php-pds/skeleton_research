@@ -1,0 +1,8 @@
+LSS/
+example/init/
+src/
+.gitignore
+COPYING
+COPYING.LESSER
+README.md
+composer.json

@@ -1,0 +1,8 @@
+src/
+tests/
+.gitignore
+README.md
+autoload.php
+composer.json
+phpmd.xml
+phpunit.xml

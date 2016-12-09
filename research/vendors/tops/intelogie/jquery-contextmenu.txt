@@ -1,0 +1,15 @@
+dist/
+documentation/
+src/
+test/
+.editorconfig
+.gitignore
+.jscsrc
+.travis.yml
+README.md
+bower.json
+composer.json
+contextMenu.jquery.json
+gulpfile.js
+karma.conf.js
+package.json

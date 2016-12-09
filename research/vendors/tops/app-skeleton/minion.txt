@@ -1,0 +1,11 @@
+classes/
+config/
+guide/minion/
+messages/
+tests/minion/
+views/minion/
+.gitignore
+README.md
+composer.json
+minion
+miniond

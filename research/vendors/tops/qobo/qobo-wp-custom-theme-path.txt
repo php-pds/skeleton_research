@@ -1,0 +1,13 @@
+bin/
+src/
+tests/
+.editorconfig
+.gitignore
+.travis.yml
+LICENSE
+README.md
+bitbucket-pipelines.yml
+composer.json
+phpcs.xml.dist
+phpunit.xml.dist
+qobo-custom-theme-path.php

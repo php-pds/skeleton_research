@@ -1,0 +1,8 @@
+controllers/
+migrations/
+models/
+views/
+MeritBehavior.php
+Module.php
+README.md
+composer.json

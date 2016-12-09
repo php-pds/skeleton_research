@@ -1,0 +1,9 @@
+demos/Zend/
+externals/dojo/
+laboratory/Zend_Tool/
+library/Zend/
+tests/
+INSTALL.txt
+LICENSE.txt
+README.txt
+composer.json

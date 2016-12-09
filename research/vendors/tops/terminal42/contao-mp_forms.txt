@@ -1,0 +1,12 @@
+config/
+dca/
+docs/
+languages/
+templates/
+.gitignore
+FormMPFormPageSwitch.php
+MPForms.php
+MPFormsFormManager.php
+MPFormsStepsModule.php
+README.md
+composer.json

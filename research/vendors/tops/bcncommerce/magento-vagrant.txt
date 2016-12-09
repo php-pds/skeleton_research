@@ -1,0 +1,7 @@
+files/development/
+manifests/
+modules/
+.gitignore
+Vagrantfile
+composer.json
+composer.lock

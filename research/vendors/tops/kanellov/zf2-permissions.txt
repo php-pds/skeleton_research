@@ -1,0 +1,7 @@
+src/Knlv/Zf2/Permissions/
+test/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json

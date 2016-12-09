@@ -1,0 +1,7 @@
+DependencyInjection/
+Resources/config/
+.gitignore
+CodeLoversJsHintBundle.php
+LICENSE
+README.md
+composer.json

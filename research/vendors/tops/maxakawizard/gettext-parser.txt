@@ -1,0 +1,14 @@
+bin/
+src/
+tests/
+.coveralls.yml
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+composer.json
+config.dist.php
+index.php
+phpunit.xml.dist

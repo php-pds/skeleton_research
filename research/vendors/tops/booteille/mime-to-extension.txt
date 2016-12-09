@@ -1,0 +1,6 @@
+Resources/json/
+.gitignore
+CHANGELOG.md
+MimeToExtension.php
+README.md
+composer.json

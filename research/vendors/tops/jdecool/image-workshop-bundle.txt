@@ -1,0 +1,15 @@
+Command/
+DependencyInjection/
+Factory/
+Resources/config/
+Services/
+Tests/
+Twig/
+.atoum.php
+.bootstrap.atoum.php
+.gitignore
+.travis.yml
+ImageWorkshopBundle.php
+LICENSE
+README.md
+composer.json

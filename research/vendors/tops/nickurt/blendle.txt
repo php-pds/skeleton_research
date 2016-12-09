@@ -1,0 +1,5 @@
+docs/
+src/Blendle/
+tests/
+README.md
+composer.json

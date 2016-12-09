@@ -1,0 +1,5 @@
+src/slc/beanstalkmc/
+.gitignore
+LICENSE
+README.md
+composer.json

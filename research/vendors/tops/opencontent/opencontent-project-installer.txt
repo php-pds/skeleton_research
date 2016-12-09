@@ -1,0 +1,4 @@
+src/Opencontent/ProjectInstaller/Composer/
+LICENSE
+README.md
+composer.json

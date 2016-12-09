@@ -1,0 +1,14 @@
+DependencyInjection/
+Resources/config/
+Security/
+Tests/
+.coveralls.yml
+.editorconfig
+.gitignore
+.travis.yml
+LICENSE
+MatthimatikerFeatureFlagBundle.php
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

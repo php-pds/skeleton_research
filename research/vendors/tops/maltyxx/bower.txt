@@ -1,0 +1,6 @@
+config/
+libraries/
+nbproject/
+.gitignore
+README.md
+composer.json

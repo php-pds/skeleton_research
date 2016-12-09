@@ -1,0 +1,9 @@
+BarnabyWalters/
+Tests/
+nbproject/
+.gitignore
+README.md
+composer.json
+composer.lock
+phpdoc.xml
+phpunit.xml

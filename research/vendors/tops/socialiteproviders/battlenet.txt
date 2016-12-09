@@ -1,0 +1,3 @@
+BattlenetExtendSocialite.php
+Provider.php
+composer.json

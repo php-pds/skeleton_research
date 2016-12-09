@@ -1,0 +1,15 @@
+assets/
+controllers/
+grunt/
+migrations/
+models/
+tests/js/
+views/default/
+.gitignore
+Gruntfile.js
+OphCiPhasingModule.php
+README.md
+RELEASE
+UPGRADE
+composer.json
+package.json

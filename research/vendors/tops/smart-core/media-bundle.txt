@@ -1,0 +1,12 @@
+Command/
+DependencyInjection/
+Entity/
+Form/Type/
+Provider/
+Resources/
+Service/
+Twig/
+README.md
+SmartMediaBundle.php
+SmartMediaBundleUseCases.php
+composer.json

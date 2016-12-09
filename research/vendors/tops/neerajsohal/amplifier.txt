@@ -1,0 +1,6 @@
+src/Amplifier/
+tests/
+.gitignore
+.travis.yml
+README.md
+composer.json

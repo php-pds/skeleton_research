@@ -1,0 +1,9 @@
+config/
+i18n/
+lib/
+modules/
+web/
+.gitignore
+LICENSE
+README
+composer.json

@@ -1,0 +1,6 @@
+assets/bundleTemplate/
+src/PHPixie/
+.gitignore
+LICENSE
+README.md
+composer.json

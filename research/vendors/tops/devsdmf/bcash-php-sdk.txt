@@ -1,0 +1,8 @@
+doc/
+src/
+.gitignore
+LICENSE
+README.md
+autoloader.php
+composer.json
+phpdoc.dist.xml

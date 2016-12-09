@@ -1,0 +1,8 @@
+examples/
+src/Gradwell/SMSAPI/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml

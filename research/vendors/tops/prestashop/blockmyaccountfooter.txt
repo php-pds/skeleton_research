@@ -1,0 +1,11 @@
+translations/
+CHANGELOG.txt
+Readme.md
+blockmyaccount.css
+blockmyaccountfooter.php
+blockmyaccountfooter.tpl
+composer.json
+config.xml
+index.php
+logo.gif
+logo.png

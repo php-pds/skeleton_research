@@ -1,0 +1,5 @@
+src/Mparaiso/
+.gitignore
+README.md
+SYMFONY LICENSE
+composer.json

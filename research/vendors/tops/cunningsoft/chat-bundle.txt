@@ -1,0 +1,10 @@
+Controller/
+DependencyInjection/
+Entity/
+Resources/views/Chat/
+.travis.yml
+CunningsoftChatBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

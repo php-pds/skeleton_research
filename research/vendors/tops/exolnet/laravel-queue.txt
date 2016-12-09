@@ -1,0 +1,6 @@
+Connectors/
+Jobs/
+.gitattributes
+ProxyQueue.php
+README.md
+composer.json

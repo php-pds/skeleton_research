@@ -1,0 +1,7 @@
+.gitignore
+composer.json
+fileuploader.css
+fileuploader.js
+install.php
+loading.gif
+package.xml

@@ -1,0 +1,5 @@
+.gitignore
+README.md
+StripeOAuth.class.php
+StripeOAuth2Client.class.php
+composer.json

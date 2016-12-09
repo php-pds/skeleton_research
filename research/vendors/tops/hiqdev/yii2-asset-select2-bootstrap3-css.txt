@@ -1,0 +1,7 @@
+.hidev/
+.gitignore
+CHANGELOG.md
+LICENSE
+README.md
+Select2Bootstrap3CssAsset.php
+composer.json

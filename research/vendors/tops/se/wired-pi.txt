@@ -1,0 +1,11 @@
+example/
+scripts/
+src/SE/Component/WiredPi/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

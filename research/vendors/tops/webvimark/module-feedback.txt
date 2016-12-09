@@ -1,0 +1,8 @@
+controllers/
+messages/
+migrations/
+models/
+views/
+FeedbackModule.php
+README.md
+composer.json

@@ -1,0 +1,12 @@
+Command/
+DependencyInjection/
+Factory/
+Resources/
+Tests/
+.gitignore
+.travis.yml
+BazingaFakerBundle.php
+CONTRIBUTING.md
+README.md
+composer.json
+phpunit.xml.dist

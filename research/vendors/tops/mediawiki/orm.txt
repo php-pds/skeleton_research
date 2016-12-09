@@ -1,0 +1,6 @@
+lib/
+ActiveRecord.php
+ActiveRecordMediawiki.php
+ActiveRecordOrmSpecial.php
+ActiveRecordSetup.php
+composer.json

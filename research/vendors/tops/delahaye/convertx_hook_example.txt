@@ -1,0 +1,8 @@
+classes/Delahaye/ConvertX/Hook/
+config/
+docs/
+languages/
+.gitignore
+LIESMICH.md
+README.md
+composer.json

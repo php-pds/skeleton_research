@@ -1,0 +1,12 @@
+doc/
+src/VIPSoft/DoctrineDataFixturesExtension/
+tests/VIPSoft/DoctrineDataFixturesExtension/Tests/Service/
+.gitignore
+LICENSE
+README.md
+autoload.php
+behat.yml.dist
+build.php
+composer.json
+init.php
+phpunit.xml.dist

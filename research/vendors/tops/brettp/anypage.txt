@@ -1,0 +1,12 @@
+actions/anypage/
+classes/
+languages/
+upgrades/
+views/default/
+CHANGES.txt
+README.md
+activate.php
+composer.json
+manifest.xml
+start.php
+version.php

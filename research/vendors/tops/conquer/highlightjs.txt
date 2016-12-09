@@ -1,0 +1,6 @@
+.gitignore
+HighlightjsAsset.php
+HighlightjsWidget.php
+LICENSE
+README.md
+composer.json

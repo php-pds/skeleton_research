@@ -1,0 +1,5 @@
+assets/js/
+LICENSE
+README.md
+ScrollUpPager.php
+composer.json

@@ -1,0 +1,9 @@
+assets/
+base/
+classes/
+widgets/
+.gitignore
+LICENSE
+README.md
+SocialShare.php
+composer.json

@@ -1,0 +1,6 @@
+src/Pomm/Silex/
+tests/
+.gitignore
+README.rst
+composer.json
+phpunit.xml

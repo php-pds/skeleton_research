@@ -1,0 +1,3 @@
+src/Icepay/
+README.md
+composer.json

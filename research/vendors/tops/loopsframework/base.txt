@@ -1,0 +1,8 @@
+bin/
+docker/
+src/
+tests/
+views/
+LICENSE
+README.md
+composer.json

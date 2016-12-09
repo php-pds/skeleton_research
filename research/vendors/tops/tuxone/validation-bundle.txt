@@ -1,0 +1,12 @@
+DependencyInjection/
+Dictionaries/
+Resources/config/
+Tests/
+Validator/Constraints/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+TuxOneValidationBundle.php
+composer.json
+phpunit.xml.dist

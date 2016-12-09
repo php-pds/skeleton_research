@@ -1,0 +1,4 @@
+Channel/
+Resources/
+README.md
+composer.json

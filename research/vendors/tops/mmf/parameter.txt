@@ -1,0 +1,6 @@
+src/parameter/
+tests/src/
+.gitattributes
+.gitignore
+LICENSE
+composer.json

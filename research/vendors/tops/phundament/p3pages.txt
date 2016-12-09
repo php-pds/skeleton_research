@@ -1,0 +1,10 @@
+components/
+config/
+controllers/
+messages/
+migrations/
+models/
+views/
+.gitignore
+P3PagesModule.php
+composer.json

@@ -1,0 +1,4 @@
+config/
+l10n/
+composer.json
+ride.json

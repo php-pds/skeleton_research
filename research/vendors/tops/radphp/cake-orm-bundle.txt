@@ -1,0 +1,8 @@
+Action/
+Event/
+Library/
+Resource/config/
+CakeOrmBundle.php
+LICENSE
+README.md
+composer.json

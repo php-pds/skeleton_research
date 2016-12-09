@@ -1,0 +1,13 @@
+Api/
+Application/
+Controller/
+DependencyInjection/
+Resources/config/
+Tests/
+.gitignore
+.travis.yml
+EkoInstagramBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

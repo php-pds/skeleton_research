@@ -1,0 +1,6 @@
+views/
+LICENSE
+README.md
+SubmitComment.php
+ViewComments.php
+composer.json

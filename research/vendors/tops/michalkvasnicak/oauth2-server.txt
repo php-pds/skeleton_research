@@ -1,0 +1,10 @@
+spec/OAuth2/
+src/OAuth2/
+tests/
+.editorconfig
+.gitignore
+.travis.yml
+LICENSE.md
+README.md
+composer.json
+phpunit.xml

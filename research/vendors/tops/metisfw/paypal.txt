@@ -1,0 +1,8 @@
+docs/en/
+src/MetisFW/PayPal/
+tests/
+.gitignore
+.travis.yml
+LICENSE.md
+README.md
+composer.json

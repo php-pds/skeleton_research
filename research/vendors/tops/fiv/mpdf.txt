@@ -1,0 +1,33 @@
+classes/
+collations/
+examples/
+font/
+graph_cache/
+iccprofiles/
+includes/
+mpdfi/
+patterns/
+qrcode/
+tmp/
+ttfontdata/
+ttfonts/
+utils/
+.gitignore
+ADDED INFO FONTS.txt
+CHANGELOG.txt
+CREDITS.txt
+FONT INFO.txt
+LICENSE.txt
+README.txt
+composer.json
+compress.php
+config.php
+config_cp.php
+config_fonts.php
+config_lang2fonts.php
+config_script2lang.php
+graph.php
+lang2fonts.css
+mpdf.css
+mpdf.php
+progbar.css

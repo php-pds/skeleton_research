@@ -1,0 +1,8 @@
+assets/
+.gitignore
+README.md
+composer.json
+multiple-content-blocks.php
+readme.txt
+screenshot-1.png
+screenshot-2.png

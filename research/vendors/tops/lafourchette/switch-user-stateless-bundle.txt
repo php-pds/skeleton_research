@@ -1,0 +1,16 @@
+DependencyInjection/
+Resources/config/
+Security/
+Tests/
+doc/
+features/
+.gitignore
+.scrutinizer.yml
+.styleci.yml
+.travis.yml
+LICENSE
+README.md
+SwitchUserStatelessBundle.php
+behat.yml
+composer.json
+phpunit.xml.dist

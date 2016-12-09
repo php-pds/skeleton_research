@@ -1,0 +1,15 @@
+examples/
+lib/
+tests/
+.editorconfig
+.gitignore
+.travis.yml
+AUTHORS
+BUGS
+CONTRIBUTING.md
+LICENSE
+README.md
+THANKS
+TODO
+composer.json
+peridot.php

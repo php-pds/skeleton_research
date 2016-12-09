@@ -1,0 +1,14 @@
+docs/
+src/EvaEngine/
+tests/
+tmp/
+.coveralls.yml
+.gitignore
+.travis.yml
+LICENSE.md
+LICENSE.txt
+README.md
+composer.json
+makefile
+phpdoc.xml
+phpunit.xml.dist

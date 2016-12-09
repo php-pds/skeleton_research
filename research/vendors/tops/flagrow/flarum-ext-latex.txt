@@ -1,0 +1,9 @@
+js/forum/
+src/Listeners/
+.gitignore
+bootstrap.php
+changelog.md
+composer.json
+icon.png
+license.md
+readme.md

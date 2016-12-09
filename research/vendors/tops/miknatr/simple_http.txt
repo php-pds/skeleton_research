@@ -1,0 +1,3 @@
+lib/SimpleHttp/
+.gitignore
+composer.json

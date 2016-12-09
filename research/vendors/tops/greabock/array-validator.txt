@@ -1,0 +1,5 @@
+.gitattributes
+.gitignore
+ArrayValidator.php
+README.md
+composer.json

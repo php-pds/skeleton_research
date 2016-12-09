@@ -1,0 +1,9 @@
+doc/examples/
+src/Phossa/Di/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

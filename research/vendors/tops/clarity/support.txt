@@ -1,0 +1,10 @@
+Auth/
+Curl/
+DB/
+Helpers/
+Phalcon/
+Phinx/
+Queue/
+Redirect/
+WithMagicMethodTrait.php
+composer.json

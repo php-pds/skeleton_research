@@ -1,0 +1,10 @@
+drush/
+src/
+tests/
+.travis-before-install-script.sh
+.travis.yml
+README.md
+composer.json
+default_content.info.yml
+default_content.module
+default_content.services.yml

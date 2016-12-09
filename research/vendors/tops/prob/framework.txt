@@ -1,0 +1,15 @@
+app/
+config/
+core/
+plugins/
+public/
+tests/
+view/
+.gitignore
+.htaccess.example
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml
+runTest.bat

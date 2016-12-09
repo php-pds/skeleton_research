@@ -1,0 +1,5 @@
+src/Koalamon/
+.editorconfig
+.gitignore
+LICENSE
+composer.json

@@ -1,0 +1,11 @@
+src/Tmilos/Value/
+tests/Tmilos/Value/Tests/
+.gitignore
+.php_cs
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+autoload.php
+composer.json
+phpunit.xml.dist

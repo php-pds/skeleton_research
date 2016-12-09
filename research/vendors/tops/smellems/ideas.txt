@@ -1,0 +1,10 @@
+actions/ideas/
+graphics/
+languages/
+lib/
+pages/ideas/
+views/
+composer.json
+manifest.xml
+readme.md
+start.php

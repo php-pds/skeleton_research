@@ -1,0 +1,8 @@
+actions/
+assets/js/
+JqGridAsset.php
+JqGridWidget.php
+LICENSE
+README.md
+WidgetAsset.php
+composer.json

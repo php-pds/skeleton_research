@@ -1,0 +1,8 @@
+assets/
+examples/
+Container.php
+DropdownContent.php
+DropdownContentAsset.php
+LICENSE.md
+README.md
+composer.json

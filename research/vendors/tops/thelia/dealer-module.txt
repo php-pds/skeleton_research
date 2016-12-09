@@ -1,0 +1,17 @@
+Config/
+Controller/
+Event/
+EventListener/
+Form/
+Hook/
+I18n/
+Loop/
+Model/
+Service/
+Setup/sql/
+Test/phpunit/
+templates/backOffice/default/
+Dealer.php
+LICENSE.txt
+Readme.md
+composer.json

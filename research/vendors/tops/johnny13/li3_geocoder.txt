@@ -1,0 +1,10 @@
+config/
+extensions/adapter/data/source/http/
+models/
+tests/cases/
+.gitignore
+.travis.yml
+CONTRIBUTING.md
+LICENSE.md
+README.md
+composer.json

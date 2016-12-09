@@ -1,0 +1,8 @@
+Controller/
+DependencyInjection/
+Resources/config/
+.gitignore
+PSPrivateWriterProductBundle.php
+README.md
+RabbitMQWorker.php
+composer.json

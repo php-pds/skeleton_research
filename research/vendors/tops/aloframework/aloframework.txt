@@ -1,0 +1,6 @@
+src/
+.gitignore
+.sensiolabs.yml
+LICENSE
+README.md
+composer.json

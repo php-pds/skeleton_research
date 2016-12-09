@@ -1,0 +1,11 @@
+_app/
+theme/
+vendor/
+.gitignore
+.htaccess
+.todo
+README.md
+composer.json
+favicon.ico
+index.consist.php
+index.php

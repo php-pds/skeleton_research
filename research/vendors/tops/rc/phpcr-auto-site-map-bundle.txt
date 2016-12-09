@@ -1,0 +1,15 @@
+Controller/
+DependencyInjection/
+Events/
+Helper/
+Listener/
+Resources/
+Service/
+Tests/
+.gitignore
+.travis.yml
+RCPHPCRAutoSiteMapBundle.php
+README.md
+composer.json
+composer.phar
+phpunit.xml.dist

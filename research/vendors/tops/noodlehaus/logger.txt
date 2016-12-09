@@ -1,0 +1,5 @@
+.gitignore
+README.md
+composer.json
+logger-example.php
+logger.php

@@ -1,0 +1,12 @@
+Adapter/Kinesis/
+DependencyInjection/
+Resources/config/
+Service/
+Tests/
+.gitignore
+.travis.yml
+KaliopQueueingPluginsKinesisBundle.php
+LICENSE
+composer.json
+phpunit.xml.dist
+readme.md

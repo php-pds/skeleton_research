@@ -1,0 +1,7 @@
+Classes/Queue/
+Configuration/Testing/
+Tests/
+CodeOfConduct.rst
+LICENSE
+README.md
+composer.json

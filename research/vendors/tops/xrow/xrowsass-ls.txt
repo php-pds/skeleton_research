@@ -1,0 +1,9 @@
+autoloads/
+classes/
+doc/
+lib/
+settings/
+LICENSE.txt
+README
+composer.json
+ezinfo.php

@@ -1,0 +1,12 @@
+Annotation/
+DependencyInjection/
+Exception/
+Reader/
+Resolver/
+Resources/config/
+Result/
+.gitignore
+CompilerPass.php
+IbrowsAssociationResolverBundle.php
+README.md
+composer.json

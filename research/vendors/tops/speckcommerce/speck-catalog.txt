@@ -1,0 +1,17 @@
+config/
+data/
+public/
+src/SpeckCatalog/
+test/
+view/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE.txt
+Module.php
+README.md
+autoload_classmap.php
+autoload_function.php
+autoload_register.php
+composer.json
+phpcs.xml

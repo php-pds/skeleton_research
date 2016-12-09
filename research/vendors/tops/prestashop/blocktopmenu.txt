@@ -1,0 +1,16 @@
+css/
+img/
+js/
+translations/
+upgrade/
+views/
+CHANGELOG.txt
+Readme.md
+blocktopmenu.php
+blocktopmenu.tpl
+composer.json
+config.xml
+index.php
+logo.gif
+logo.png
+menutoplinks.class.php

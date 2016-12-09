@@ -1,0 +1,11 @@
+components/
+controllers/
+models/
+views/item/
+widgets/
+.gitignore
+ConfigBootstrap.php
+LICENSE
+Module.php
+README.md
+composer.json

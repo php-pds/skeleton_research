@@ -1,0 +1,10 @@
+generated/
+src/
+test/
+.gitignore
+.travis.yml
+README.md
+build.xml
+composer.json
+phpspec.yml
+phpunit.xml

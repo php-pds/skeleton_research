@@ -1,0 +1,7 @@
+MasterCard/Api/Remittance/
+result/
+.gitignore
+README.md
+composer.json
+mastercard-remittance-1.0.1.zip
+phpunit.xml

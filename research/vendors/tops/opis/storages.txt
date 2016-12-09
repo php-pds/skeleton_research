@@ -1,0 +1,7 @@
+cache/
+config/
+session/
+CHANGELOG.md
+LICENSE
+README.md
+composer.json

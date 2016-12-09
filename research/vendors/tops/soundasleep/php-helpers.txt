@@ -1,0 +1,3 @@
+LICENSE.md
+composer.json
+functions.php

@@ -1,0 +1,4 @@
+.gitignore
+canvabadges.js
+composer.json
+manifest.xml

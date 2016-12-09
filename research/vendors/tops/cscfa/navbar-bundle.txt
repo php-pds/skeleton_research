@@ -1,0 +1,9 @@
+DependencyInjection/
+Objects/
+Resources/
+Twig/Extension/
+CHANGELOG-1.0.md
+CscfaNavBarBundle.php
+LICENSE.md
+README.md
+composer.json

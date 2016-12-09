@@ -1,0 +1,14 @@
+DependencyInjection/
+Exception/
+Filter/
+Resources/config/
+Tests/
+.gitignore
+.gitmodules
+.travis.yml
+LICENSE
+PlatinumPixsGoogleClosureLibraryBundle.php
+README.md
+compiler.jar
+composer.json
+phpunit.xml.dist

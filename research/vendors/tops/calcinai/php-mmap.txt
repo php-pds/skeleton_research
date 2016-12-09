@@ -1,0 +1,7 @@
+examples/
+lib/
+subprocess/
+.gitignore
+LICENSE
+README.md
+composer.json

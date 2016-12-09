@@ -1,0 +1,7 @@
+build/
+langs/
+.gitignore
+LICENSE
+README.md
+bower.json
+composer.json

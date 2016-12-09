@@ -1,0 +1,7 @@
+config/
+l10n/
+.gitignore
+CHANGELOG.md
+README.md
+composer.json
+ride.json

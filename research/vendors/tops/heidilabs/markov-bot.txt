@@ -1,0 +1,10 @@
+cache/
+config/
+data/
+src/MarkovBot/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock
+console.php

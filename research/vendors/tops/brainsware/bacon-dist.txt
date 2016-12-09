@@ -1,0 +1,8 @@
+Config/
+Controllers/
+Views/
+bin/
+htdocs/
+logs/
+README.md
+composer.json

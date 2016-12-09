@@ -1,0 +1,13 @@
+Api/
+Controller/
+DependencyInjection/
+Exception/
+Model/
+Resources/config/
+Security/
+Twig/
+.gitignore
+AkumaSocialBundle.php
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,15 @@
+bin/
+res/
+src/
+tests/
+views/
+.gitattributes
+.gitignore
+.php_cs
+.travis.yml
+Dockerfile
+LICENSE
+README.md
+box.json
+composer.json
+phpunit.xml.dist

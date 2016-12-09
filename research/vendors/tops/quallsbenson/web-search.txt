@@ -1,0 +1,10 @@
+Interfaces/
+Tests/
+Traits/
+.DS_Store
+.gitignore
+SearchProvider.php
+SearchResultFilter.php
+SearchResultProvider.php
+SearchResultProviderFactory.php
+composer.json

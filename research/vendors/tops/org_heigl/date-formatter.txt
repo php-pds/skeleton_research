@@ -1,0 +1,14 @@
+src/
+tests/
+.codeclimate.yml
+.gitignore
+.php_cs
+.scrutinizer.yml
+.travis.install.sh
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.travis.xml
+phpunit.xml.dist

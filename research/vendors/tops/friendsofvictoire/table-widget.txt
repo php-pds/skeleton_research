@@ -1,0 +1,9 @@
+DependencyInjection/
+Entity/
+Form/
+Resolver/
+Resources/
+README.md
+VictoireWidgetTableBundle.php
+bower.json
+composer.json

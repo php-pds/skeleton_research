@@ -1,0 +1,5 @@
+DependencyInjection/
+HttpFoundation/File/MimeType/
+AnoSystemBundle.php
+Inflector.php
+composer.json

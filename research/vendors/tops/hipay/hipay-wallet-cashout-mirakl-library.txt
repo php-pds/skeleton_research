@@ -1,0 +1,12 @@
+data/
+src/
+tests/
+.gitignore
+CHANGELOG.md
+Dockerfile
+LICENSE.md
+README.md
+circle.yml
+composer.json
+composer.lock
+docker-compose.yml

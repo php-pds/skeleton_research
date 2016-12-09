@@ -1,0 +1,7 @@
+src/Bangpound/
+views/
+.gitignore
+LICENSE
+README.md
+composer.json
+logo.png

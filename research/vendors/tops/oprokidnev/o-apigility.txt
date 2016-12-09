@@ -1,0 +1,7 @@
+config/
+src/OApigility/
+view/zf/auth/
+.Version
+CHANGELOG.md
+Module.php
+composer.json

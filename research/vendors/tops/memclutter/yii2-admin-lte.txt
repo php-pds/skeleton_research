@@ -1,0 +1,10 @@
+.gitignore
+AdminLTEAsset.php
+AdminLTELoginAsset.php
+GravatarSidebarUserPanel.php
+InfoBox.php
+README.md
+SidebarMenu.php
+SidebarUserPanel.php
+composer.json
+composer.lock

@@ -1,0 +1,6 @@
+phwoolcon-package/
+src/
+.gitignore
+LICENSE
+README.md
+composer.json

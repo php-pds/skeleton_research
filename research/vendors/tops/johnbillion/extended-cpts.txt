@@ -1,0 +1,12 @@
+bin/
+tests/
+.coveralls.yml
+.travis.yml
+CONTRIBUTING.md
+LICENSE
+README.md
+changelog.md
+composer.json
+extended-cpts.php
+phpunit-ms.xml.dist
+phpunit.xml.dist

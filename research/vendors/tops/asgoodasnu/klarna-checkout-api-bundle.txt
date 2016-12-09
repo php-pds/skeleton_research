@@ -1,0 +1,11 @@
+DependencyInjection/
+Lib/
+Resources/config/
+Tests/
+.gitignore
+.travis.yml
+README.md
+WkKlarnaCheckoutApiBundle.php
+composer.json
+phpmd.xml
+phpunit.xml.dist

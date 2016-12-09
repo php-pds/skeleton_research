@@ -1,0 +1,14 @@
+Classes/
+Configuration/
+Resources/
+Tests/Unit/
+docs/img/
+.gitignore
+ExtensionBuilder.json
+composer.json
+ext_emconf.php
+ext_icon.gif
+ext_localconf.php
+ext_tables.php
+ext_tables.sql
+readme.md

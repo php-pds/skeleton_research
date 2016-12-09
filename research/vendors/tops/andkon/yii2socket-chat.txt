@@ -1,0 +1,15 @@
+assets/js/
+migrations/
+AbstractWidget.php
+ChatMessageBase.php
+ChatRoomBase.php
+ClientAssets.php
+ClientWidget.php
+Event.php
+EventCatcher.php
+README.md
+Room.php
+SellerAssets.php
+SellerWidget.php
+Server.php
+composer.json

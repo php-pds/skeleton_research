@@ -1,0 +1,7 @@
+app/
+log/
+temp/
+www/
+.gitignore
+composer.json
+composer.lock

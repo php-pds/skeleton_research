@@ -1,0 +1,7 @@
+Yaf/
+.gitignore
+LICENSE
+README.md
+composer.json
+generate_namespaces.php
+yaf.php

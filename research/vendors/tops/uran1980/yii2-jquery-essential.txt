@@ -1,0 +1,10 @@
+.gitignore
+JqueryCookieAsset.php
+JqueryEasingAsset.php
+JqueryEssentialAsset.php
+JqueryFormAsset.php
+JqueryMouseWheelAsset.php
+JqueryScrollToAsset.php
+LICENSE
+README.md
+composer.json

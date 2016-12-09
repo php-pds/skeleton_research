@@ -1,0 +1,11 @@
+Matcher/
+Tests/
+.gitignore
+.travis.yml
+ClassMatcher.php
+ClassMatcherBuilder.php
+LICENSE
+MatcherInterface.php
+README.md
+composer.json
+phpunit.xml.dist

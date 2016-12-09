@@ -1,0 +1,8 @@
+.gitignore
+CHANGELOG.md
+LICENSE
+README.md
+composer.json
+html5-quick-template.html.php
+screen-copy.jpg
+test.php

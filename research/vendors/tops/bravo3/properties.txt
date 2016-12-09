@@ -1,0 +1,7 @@
+src/Bravo3/Properties/
+tests/Bravo3/Properties/Tests/
+.gitignore
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

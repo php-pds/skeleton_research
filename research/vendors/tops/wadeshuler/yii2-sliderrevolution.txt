@@ -1,0 +1,6 @@
+LICENSE
+README.md
+SliderAsset.php
+SliderModule.php
+SliderRevolution.php
+composer.json

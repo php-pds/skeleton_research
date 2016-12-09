@@ -1,0 +1,14 @@
+Command/
+Database/
+DependencyInjection/
+Model/
+Repository/
+RepositoryInitializer/
+Resources/
+Symfony/
+Tests/Controller/
+.DS_Store
+.gitignore
+LICENSE
+QBRepoBundle.php
+composer.json

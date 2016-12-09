@@ -1,0 +1,9 @@
+.idea/dictionaries/
+src/
+test/
+.gitignore
+CHANGELOG.md
+LICENSE
+Makefile
+README.md
+composer.json

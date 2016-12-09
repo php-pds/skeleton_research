@@ -1,0 +1,8 @@
+Classes/MapSeven/Calendar/
+Configuration/
+Resources/
+LICENSE
+Module_Calendar.png
+NodeType_Calendar_List.png
+README.md
+composer.json

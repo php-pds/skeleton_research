@@ -1,0 +1,8 @@
+autoloads/
+design/standard/
+doc/
+settings/
+.gitignore
+README.md
+composer.json
+extension.xml

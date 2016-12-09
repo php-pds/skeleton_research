@@ -1,0 +1,7 @@
+src/Symfony/Component/HttpFoundation/Session/Storage/Handler/
+tests/Symfony/Component/HttpFoundation/Session/Storage/Handler/
+.gitignore
+.travis.yml
+README.md
+composer.json
+phpunit.xml.dist

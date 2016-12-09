@@ -1,0 +1,12 @@
+Controller/
+DependencyInjection/
+Entity/
+Form/Type/
+Repository/
+Resources/
+Tests/Controller/
+Twig/
+.gitignore
+MaciTranslatorBundle.php
+README.md
+composer.json

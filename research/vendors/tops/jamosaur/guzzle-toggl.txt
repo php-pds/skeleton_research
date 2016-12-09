@@ -1,0 +1,8 @@
+examples/
+src/Jamosaur/Toggl/
+.gitignore
+LICENSE
+README.md
+apikey-dist.php
+composer.json
+composer.lock

@@ -1,0 +1,10 @@
+src/CrazyCodr/Data/Transform/
+tests/CrazyCodr/Data/Transform/
+.gitattributes
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.php
+phpunit.xml

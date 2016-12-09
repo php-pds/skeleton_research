@@ -1,0 +1,4 @@
+src/D9magai/Zip/
+.gitignore
+README.md
+composer.json

@@ -1,0 +1,5 @@
+lib/
+LICENSE
+README.md
+assets_config.ini
+composer.json

@@ -1,0 +1,8 @@
+lib/Wukka/
+tests/
+.gitignore
+Makefile
+autoload.php
+composer.json
+create-phar.php
+test.sh

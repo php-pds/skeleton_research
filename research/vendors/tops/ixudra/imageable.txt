@@ -1,0 +1,8 @@
+src/
+tests/Ixudra/Imageable/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml

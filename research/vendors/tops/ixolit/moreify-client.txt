@@ -1,0 +1,12 @@
+bin/
+example/
+src/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+README.md
+build.xml
+composer.json
+composer.lock
+phpmd.xml
+phpunit.xml

@@ -1,0 +1,7 @@
+css/teddy/map/
+game/
+js/teddy/map/
+src/
+.gitignore
+composer.json
+composer.lock

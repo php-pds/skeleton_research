@@ -1,0 +1,7 @@
+src/Nether/Console/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json

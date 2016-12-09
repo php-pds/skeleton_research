@@ -1,0 +1,8 @@
+Api/
+Model/
+Setup/
+etc/
+.gitignore
+LICENSE
+composer.json
+registration.php

@@ -1,0 +1,6 @@
+bins/
+src/
+.gitignore
+README.md
+composer.json
+downloader.sh

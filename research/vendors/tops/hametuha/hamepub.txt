@@ -1,0 +1,10 @@
+src/Hametuha/HamePub/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+hamepub
+phpunit.xml

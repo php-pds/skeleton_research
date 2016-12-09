@@ -1,0 +1,13 @@
+actions/
+languages/
+lib/
+pages/
+vendors/jstree/
+views/default/
+.gitignore
+CHANGES.txt
+README.md
+composer.json
+composer.lock
+manifest.xml
+start.php

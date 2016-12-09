@@ -1,0 +1,5 @@
+css/
+js/
+LICENSE
+announcements.php
+composer.json

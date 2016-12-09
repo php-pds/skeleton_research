@@ -1,0 +1,11 @@
+Config/
+Console/Command/
+Controller/
+Database/
+Lib/
+Model/
+Test/Fixture/
+View/
+.gitignore
+README.md
+composer.json

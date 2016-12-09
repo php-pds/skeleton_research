@@ -1,0 +1,11 @@
+setup @ 9e05103
+src/php/Arbit/Xml/
+test/
+.gitignore
+.gitmodules
+COPYRIGHT
+LICENSE
+README.rst
+build.properties
+build.xml
+composer.json

@@ -1,0 +1,9 @@
+config/
+language/
+scripts/build/
+.gitignore
+.travis.yml
+LICENSE.txt
+Module.php
+README.md
+composer.json

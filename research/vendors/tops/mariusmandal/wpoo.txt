@@ -1,0 +1,3 @@
+WPOO/
+README.md
+composer.json

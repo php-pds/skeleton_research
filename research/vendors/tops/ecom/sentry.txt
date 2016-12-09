@@ -1,0 +1,7 @@
+.gitignore
+ErrorHandler.php
+LICENSE
+LogTarget.php
+README.md
+Sentry.php
+composer.json

@@ -1,0 +1,10 @@
+Debug/Formatter/
+Monolog/Processor/
+Tests/
+.gitignore
+LICENSE
+MekrasOberegBundle.php
+README.md
+composer.json
+phpdoc.dist.xml
+phpunit.xml.dist

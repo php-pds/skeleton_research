@@ -1,0 +1,6 @@
+src/Coderockr/Mongodb/
+tests/Coderockr/Mongodb/
+.gitignore
+README.md
+composer.json
+phpunit.xml.dist

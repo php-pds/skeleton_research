@@ -1,0 +1,6 @@
+dist/
+source/
+.gitignore
+Gruntfile.js
+composer.json
+package.json

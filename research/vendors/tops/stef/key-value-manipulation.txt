@@ -1,0 +1,9 @@
+app/
+bin/
+src/Stef/KeyValueManipulation/
+.gitignore
+Makefile
+README.md
+composer.json
+composer.lock
+scrutinizer.yml

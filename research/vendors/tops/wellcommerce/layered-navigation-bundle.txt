@@ -1,0 +1,8 @@
+Controller/
+DependencyInjection/
+Helper/
+Resources/config/
+LICENSE
+README.md
+WellCommerceLayeredNavigationBundle.php
+composer.json

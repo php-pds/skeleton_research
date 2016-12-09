@@ -1,0 +1,4 @@
+src/Erliz/JiraApiClient/
+.gitattributes
+.gitignore
+composer.json

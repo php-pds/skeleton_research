@@ -1,0 +1,7 @@
+MasterCard/Api/Repower/
+result/
+.gitignore
+README.md
+composer.json
+mastercard-repower-1.0.1.zip
+phpunit.xml

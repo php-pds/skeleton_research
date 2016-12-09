@@ -1,0 +1,8 @@
+test/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+composer.json
+config_merge.php

@@ -1,0 +1,8 @@
+src/
+.bowerrc
+.gitattributes
+.gitignore
+CHANGELOG.md
+LICENSE.md
+README.md
+composer.json

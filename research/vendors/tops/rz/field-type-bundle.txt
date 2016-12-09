@@ -1,0 +1,8 @@
+DependencyInjection/
+Form/
+Resources/
+Twig/
+Validator/
+README.md
+RzFieldTypeBundle.php
+composer.json

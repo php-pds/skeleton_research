@@ -1,0 +1,14 @@
+src/
+tests/
+.codeclimate.yml
+.dunitconfig
+.gitattributes
+.gitignore
+.scrutinizer.yml
+.travis.yml
+Gruntfile.js
+LICENSE.md
+README.md
+composer.json
+package.json
+phpunit.xml

@@ -1,0 +1,12 @@
+lib/
+spec/
+.editorconfig
+.gitattributes
+.gitignore
+CHANGES.md
+CONDUCT.md
+CONTRIBUTING.md
+LICENSE.md
+README.md
+composer.json
+phpspec.yml

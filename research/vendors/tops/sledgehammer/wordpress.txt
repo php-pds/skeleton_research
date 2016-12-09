@@ -1,0 +1,10 @@
+plugin/
+src/
+templates/
+tests/
+utils/
+Readme.md
+composer.json
+devutils.php
+icon.png
+phpunit.xml.dist

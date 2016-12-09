@@ -1,0 +1,6 @@
+DependencyInjection/
+Resources/config/
+CaponicaAmazonMwsBundle.php
+LICENSE.md
+README.md
+composer.json

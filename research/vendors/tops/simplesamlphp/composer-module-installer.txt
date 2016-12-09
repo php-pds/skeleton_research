@@ -1,0 +1,5 @@
+src/SimpleSamlPhp/Composer/
+COPYING
+LICENSE
+README.md
+composer.json

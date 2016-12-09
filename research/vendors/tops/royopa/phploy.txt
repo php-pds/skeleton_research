@@ -1,0 +1,12 @@
+bin/
+src/
+.gitignore
+.travis.yml
+build
+composer.json
+delete-branches.sh
+deploy.ini
+phploy.bat
+phploy.php
+phpunit.xml.dist
+readme.md

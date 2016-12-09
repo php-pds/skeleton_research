@@ -1,0 +1,5 @@
+src/Datatables/Doctrine/
+tests/
+LICENSE
+README.md
+composer.json

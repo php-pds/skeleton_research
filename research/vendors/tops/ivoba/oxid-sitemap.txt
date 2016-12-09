@@ -1,0 +1,7 @@
+copy_this/
+src/
+tests/unit/
+.gitignore
+composer.json
+phpunit.xml.dist
+readme.md

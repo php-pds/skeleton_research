@@ -1,0 +1,10 @@
+src/
+tests/GrapheneDBClient/Tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+graphenedb_info.yml
+phpunit.xml

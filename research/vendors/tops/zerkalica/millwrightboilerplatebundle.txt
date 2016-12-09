@@ -1,0 +1,4 @@
+Resources/views/
+MillwrightBoilerplateBundle.php
+README.md
+composer.json

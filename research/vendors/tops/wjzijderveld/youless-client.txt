@@ -1,0 +1,7 @@
+spec/Wjzijderveld/Youless/Api/
+src/
+.gitignore
+.travis.yml
+README.md
+composer.json
+phpspec.yml.dist

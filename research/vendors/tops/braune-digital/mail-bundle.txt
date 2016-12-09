@@ -1,0 +1,12 @@
+Admin/
+Command/
+Controller/
+DependencyInjection/
+Entity/
+EventListener/
+Model/
+Resources/
+Service/
+BrauneDigitalMailBundle.php
+README.md
+composer.json

@@ -1,0 +1,9 @@
+examples/
+src/Braincrafted/Mq/
+tests/
+.gitignore
+.travis.yml
+Makefile
+README.md
+composer.json
+phpunit.xml.dist

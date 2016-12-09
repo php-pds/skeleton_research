@@ -1,0 +1,12 @@
+build/
+config/
+src/FeatureToggle/
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+Module.php
+README.md
+composer.json
+phpmd.xml.dist

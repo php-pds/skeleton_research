@@ -1,0 +1,16 @@
+PHP/BitTorrent/Tracker/
+config/
+public/
+scripts/
+tests/
+.gitignore
+.travis.yml
+ChangeLog.markdown
+LICENSE
+README.markdown
+Rakefile
+composer.json
+composer.lock
+phpmd.xml
+phpunit.xml.dist
+phpunit.xml.travis

@@ -1,0 +1,11 @@
+Block/Adminhtml/RetailerOffer/
+Controller/Adminhtml/
+Helper/
+Observer/
+Plugin/
+Ui/Component/Offer/
+etc/
+i18n/
+view/adminhtml/
+composer.json
+registration.php

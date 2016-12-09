@@ -1,0 +1,11 @@
+admin/
+languages/
+pomo/
+src/
+.gitignore
+composer.json
+extract.php
+makepot.php
+not-gettexted.php
+pot-ext-meta.php
+pot-generator.php

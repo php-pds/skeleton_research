@@ -1,0 +1,13 @@
+Command/
+Consumer/
+Delayed/
+DependencyInjection/
+Logger/
+Resources/config/
+Tests/
+Topic/
+.gitignore
+README.markdown
+SoclozNsqBundle.php
+composer.json
+phpunit.xml.dist

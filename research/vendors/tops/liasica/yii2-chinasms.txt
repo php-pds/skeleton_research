@@ -1,0 +1,6 @@
+base/
+.gitignore
+Huaxin.php
+README.md
+chinaSms.php
+composer.json

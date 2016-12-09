@@ -1,0 +1,3 @@
+src/GitSync/
+README.md
+composer.json

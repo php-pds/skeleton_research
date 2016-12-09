@@ -1,0 +1,6 @@
+DependencyInjection/
+Resources/config/
+AwsSesBundle.php
+LICENSE
+README.md
+composer.json

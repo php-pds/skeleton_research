@@ -1,0 +1,8 @@
+src/
+tests/
+.gitignore
+README.md
+VERSION
+codeception.yml
+composer.json
+generator.json

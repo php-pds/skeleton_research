@@ -1,0 +1,17 @@
+Callback/
+Client/
+DependencyInjection/
+Doctrine/
+Exception/
+Plugin/
+Repository/
+Resources/
+Tests/Units/
+.atoum.bootstrap.php
+.atoum.php
+.gitignore
+.travis.yml
+LICENCE
+README.rst
+RezzzaPaymentBe2billBundle.php
+composer.json

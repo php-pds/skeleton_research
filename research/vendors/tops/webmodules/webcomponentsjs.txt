@@ -1,0 +1,16 @@
+src/
+tests/
+unified/
+workbench/
+.gitignore
+CONTRIBUTING.md
+README.md
+banner.txt
+bower.json
+composer.json
+gulpfile.js
+module.json
+module.properties
+package.json
+webcomponents-lite.js
+webcomponents.js

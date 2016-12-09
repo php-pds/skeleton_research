@@ -1,0 +1,13 @@
+Controller/Component/
+Docs/
+Locale/
+Model/Behavior/
+Test/
+View/Helper/
+.semver
+.travis.yml
+CHANGELOG.md
+CONTRIBUTING.md
+LICENSE.txt
+README.md
+composer.json

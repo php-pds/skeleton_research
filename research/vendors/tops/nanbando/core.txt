@@ -1,0 +1,15 @@
+.travis/
+bin/
+docs/
+src/
+tests/
+.gitignore
+.scrutinizer.yml
+.styleci.yml
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+box.json.dist
+composer.json
+phpunit.xml.dist

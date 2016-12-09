@@ -1,0 +1,17 @@
+BuildingBlock/
+Command/
+DependencyInjection/
+Exception/
+Manipulator/
+Mapping/
+Resources/config/
+Tests/
+.gitignore
+.php_cs
+.travis.yml
+C33sConstructionKitBundle.php
+LICENSE
+README.md
+composer.json
+composer.yml
+phpunit.xml.dist

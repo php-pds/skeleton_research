@@ -1,0 +1,12 @@
+Bin/
+Element/
+Exception/
+.gitignore
+Attribute.php
+CHANGELOG.md
+CssToXPath.php
+Read.php
+ReadWrite.php
+Write.php
+Xml.php
+composer.json

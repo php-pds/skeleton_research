@@ -1,0 +1,6 @@
+assets/js/
+.gitattributes
+.gitignore
+BootboxjsAsset.php
+README.md
+composer.json

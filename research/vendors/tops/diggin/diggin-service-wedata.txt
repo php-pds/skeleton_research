@@ -1,0 +1,7 @@
+bin/
+data/tests/
+src/Diggin/Service/Wedata/
+tests/
+.gitignore
+README.markdown
+composer.json

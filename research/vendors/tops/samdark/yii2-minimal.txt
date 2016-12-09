@@ -1,0 +1,14 @@
+config/
+controllers/
+models/
+runtime/
+vendor/
+views/
+web/
+.gitignore
+LICENSE.md
+README.md
+composer.json
+requirements.php
+yii
+yii.bat

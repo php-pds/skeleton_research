@@ -1,0 +1,11 @@
+features/
+spec/ServiceContainer/
+src/ServiceContainer/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+behat.yml.dist
+composer.json
+phpspec.yml.dist

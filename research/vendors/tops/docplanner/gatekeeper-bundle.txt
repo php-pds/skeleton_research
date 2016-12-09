@@ -1,0 +1,7 @@
+Access/
+DependencyInjection/
+Resources/config/
+Voter/
+.gitignore
+GateKeeperBundle.php
+composer.json

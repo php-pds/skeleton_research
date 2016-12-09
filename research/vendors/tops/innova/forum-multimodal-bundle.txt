@@ -1,0 +1,6 @@
+Controller/
+DependencyInjection/
+Resources/
+InnovaForumMultimodalBundle.php
+README.md
+composer.json

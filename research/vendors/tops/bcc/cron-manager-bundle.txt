@@ -1,0 +1,14 @@
+Controller/
+DependencyInjection/
+Form/Type/
+Manager/
+Resources/
+Tests/Manager/
+Twig/
+.gitignore
+.travis.yml
+BCCCronManagerBundle.php
+README.markdown
+autoload.php.dist
+composer.json
+phpunit.xml.dist

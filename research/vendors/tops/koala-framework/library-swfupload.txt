@@ -1,0 +1,10 @@
+.kdev4/
+Documentation/
+Flash/
+plugins/
+2.2.0.1.kdev4
+Core Changelog.txt
+composer.json
+dependencies.ini
+swfupload license.txt
+swfupload.js

@@ -1,0 +1,12 @@
+mails/
+translations/
+views/
+CHANGELOG.txt
+Readme.md
+composer.json
+config.xml
+cron.php
+followup.php
+index.php
+logo.gif
+logo.png

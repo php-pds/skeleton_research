@@ -1,0 +1,5 @@
+src/
+README.md
+composer.json
+stratigility_bridge.info.yml
+stratigility_bridge.services.yml

@@ -1,0 +1,10 @@
+lib/Blar/OpenSSL/
+tests/
+.coveralls.yml
+.gitignore
+.travis.yml
+LICENSE.md
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

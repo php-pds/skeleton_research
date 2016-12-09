@@ -1,0 +1,9 @@
+DependencyInjection/
+Entity/
+Resources/config/
+Security/Http/Firewall/
+Session/Storage/
+LICENCE
+README.md
+VGRElasticsearchHttpFoundationBundle.php
+composer.json

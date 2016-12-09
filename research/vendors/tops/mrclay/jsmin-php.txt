@@ -1,0 +1,10 @@
+src/JSMin/
+tests/
+web/
+.editorconfig
+.gitignore
+HISTORY.txt
+LICENSE.txt
+README.devel.txt
+composer.json
+phpunit.xml.dist

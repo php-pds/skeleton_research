@@ -1,0 +1,11 @@
+docs/
+src/
+.gitignore
+.travis.yml
+Doxyfile
+LICENSE
+README
+build.xml
+composer.json
+composer.lock
+phpcs.xml

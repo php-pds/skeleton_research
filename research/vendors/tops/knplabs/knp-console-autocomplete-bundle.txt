@@ -1,0 +1,6 @@
+Command/
+Resources/Shells/
+KnpConsoleAutocompleteBundle.php
+LICENSE
+README.markdown
+composer.json

@@ -1,0 +1,3 @@
+src/Codeaken/FtpClient/
+.gitignore
+composer.json

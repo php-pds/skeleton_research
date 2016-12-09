@@ -1,0 +1,15 @@
+app/
+etc/
+plugins/
+src/
+themes/base/
+web/
+.editorconfig
+.gitignore
+.travis.yml
+License.txt
+Readme.md
+build.xml
+composer.json
+composer.lock
+phpunit.xml.dist

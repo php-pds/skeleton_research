@@ -1,0 +1,9 @@
+config/
+src/
+tests/
+webroot/
+LICENSE.txt
+README.md
+cake-frontend-bridge.png
+composer.json
+phpunit.xml

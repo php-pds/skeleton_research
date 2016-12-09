@@ -1,0 +1,13 @@
+Controller/
+DependencyInjection/
+Form/
+Model/
+Resources/
+Tests/
+build/
+.gitignore
+MediaContentBundle.php
+README.md
+composer.json
+composer.lock
+phpunit.xml

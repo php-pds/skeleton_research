@@ -1,0 +1,6 @@
+src/Codeaken/PassGen/
+tests/
+.gitignore
+LICENSE
+composer.json
+phpunit.xml

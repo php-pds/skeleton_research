@@ -1,0 +1,14 @@
+Config/
+Controller/
+Locale/
+Resource/visual_captcha/
+Test/
+Vendor/
+View/
+.bowerrc
+.gitignore
+.travis.yml
+README.md
+bower.json
+composer.json
+phpunit.xml.dist

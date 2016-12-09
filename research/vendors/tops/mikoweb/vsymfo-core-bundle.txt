@@ -1,0 +1,16 @@
+Command/
+Configuration/
+Controller/
+Crud/
+DependencyInjection/
+Entity/
+EventListener/
+FileLoader/
+Resources/
+Routing/
+Service/
+TwigExtension/
+LICENSE
+README.md
+composer.json
+vSymfoBundleCoreBundle.php

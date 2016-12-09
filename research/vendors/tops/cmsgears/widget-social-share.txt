@@ -1,0 +1,5 @@
+views/
+LICENSE
+README.md
+SocialShare.php
+composer.json

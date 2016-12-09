@@ -1,0 +1,5 @@
+Controller/
+DependencyInjection/
+Resources/config/
+BigfootCronBundle.php
+composer.json

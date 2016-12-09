@@ -1,0 +1,10 @@
+build/
+tests/
+.gitignore
+.gitreview
+.travis.yml
+COPYING
+README.md
+SemanticBundle.php
+composer.json
+phpunit.xml.dist

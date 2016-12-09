@@ -1,0 +1,11 @@
+public/
+src/
+templates/
+tests/src/
+.dunitconfig
+.gitignore
+.travis.yml
+README.md
+composer.json
+phpunit.xml.dist
+scrutinizer.yml

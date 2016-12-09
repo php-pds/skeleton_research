@@ -1,0 +1,17 @@
+.github/
+app/
+src/
+tests/
+web/
+.gitignore
+.jshintrc
+.styleci.yml
+.travis.yml
+CHANGELOG.md
+CONTRIBUTING.md
+LICENSE
+README.md
+UPGRADE.md
+behat.yml.dist
+composer.json
+phpunit.xml.dist

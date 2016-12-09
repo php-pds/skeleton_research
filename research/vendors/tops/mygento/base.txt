@@ -1,0 +1,7 @@
+app/
+skin/adminhtml/default/default/images/mygento/base/
+.gitignore
+.travis.yml
+README.md
+composer.json
+modman

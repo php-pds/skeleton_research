@@ -1,0 +1,10 @@
+config/
+src/NwBase/
+tests/
+.gitattributes
+.gitignore
+Makefile
+Module.php
+README.md
+autoload_classmap.php
+composer.json

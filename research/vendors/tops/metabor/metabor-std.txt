@@ -1,0 +1,8 @@
+src/MetaborStd/
+tests/MetaborStd/
+.gitattributes
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock

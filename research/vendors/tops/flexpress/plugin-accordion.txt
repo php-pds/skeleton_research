@@ -1,0 +1,7 @@
+src/FlexPress/Plugins/Accordion/
+views/
+.gitignore
+LICENSE
+README.md
+accordion.php
+composer.json

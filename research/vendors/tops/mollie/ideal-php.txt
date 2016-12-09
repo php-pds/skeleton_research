@@ -1,0 +1,10 @@
+Mollie/iDEAL/
+examples/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+build.xml
+changelog.mdown
+composer.json
+readme.mdown

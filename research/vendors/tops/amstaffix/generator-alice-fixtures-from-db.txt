@@ -1,0 +1,6 @@
+Tests/
+.gitignore
+.travis.yml
+FixturesFromDBGenerator.php
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,8 @@
+config/
+language/
+view/soflomo-staging-bar/partial/
+LICENSE
+Module.php
+Preview.png
+README.md
+composer.json

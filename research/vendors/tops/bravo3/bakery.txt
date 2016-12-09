@@ -1,0 +1,7 @@
+src/Bravo3/Bakery/
+tests/Bravo3/Bakery/Tests/
+.gitignore
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

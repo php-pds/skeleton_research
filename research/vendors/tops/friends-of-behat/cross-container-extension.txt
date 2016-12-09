@@ -1,0 +1,14 @@
+features/
+spec/
+src/
+tests/
+.gitattributes
+.gitignore
+.travis.yml
+LICENSE
+README.md
+behat.yml.dist
+composer.json
+humbug.json.dist
+phpspec.yml.dist
+phpunit.xml.dist

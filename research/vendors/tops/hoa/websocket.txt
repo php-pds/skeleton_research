@@ -1,0 +1,15 @@
+Bin/
+Documentation/
+Exception/
+Protocol/
+Test/
+.State
+.gitignore
+CHANGELOG.md
+Client.php
+Connection.php
+Node.php
+README.md
+Server.php
+Socket.php
+composer.json

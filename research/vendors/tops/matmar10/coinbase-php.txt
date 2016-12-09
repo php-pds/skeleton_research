@@ -1,0 +1,7 @@
+example/
+lib/Matmar10/Coinbase/
+test/
+.gitignore
+.gitmodules
+README.md
+composer.json

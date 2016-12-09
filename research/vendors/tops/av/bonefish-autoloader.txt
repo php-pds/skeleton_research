@@ -1,0 +1,9 @@
+src/Autoloader/
+tests/Autoloader/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+composer.json
+coverage.clover

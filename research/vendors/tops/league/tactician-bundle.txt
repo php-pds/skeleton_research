@@ -1,0 +1,14 @@
+DependencyInjection/
+Handler/
+Middleware/
+Resources/config/services/
+Security/Voter/
+Tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+TacticianBundle.php
+composer.json
+phpunit.xml.dist

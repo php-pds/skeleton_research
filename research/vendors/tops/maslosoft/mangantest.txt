@@ -1,0 +1,15 @@
+extensions/
+models/
+tests/
+.gitignore
+CHANGELOG.md
+CONTRIBUTORS.md
+INSTALL.md
+LICENSE
+LICENSE.md
+README.md
+UPGRADE.md
+composer.json
+config.php
+index.php
+make-toc

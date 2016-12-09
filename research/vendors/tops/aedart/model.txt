@@ -1,0 +1,11 @@
+helpers/
+resources/snippets/
+src/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+codeception.yml
+composer.json
+modelawareofcomponent.scaffold.php

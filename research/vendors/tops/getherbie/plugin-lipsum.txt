@@ -1,0 +1,5 @@
+classes/
+LICENCE.md
+README.md
+composer.json
+lipsum.php

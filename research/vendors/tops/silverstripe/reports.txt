@@ -1,0 +1,16 @@
+code/
+javascript/
+templates/SilverStripe/Reports/Includes/
+tests/
+.editorconfig
+.gitattributes
+.gitignore
+.scrutinizer.yml
+.travis.yml
+.upgrade.yml
+CONTRIBUTING.md
+README.md
+_config.php
+code-of-conduct.md
+composer.json
+license.md

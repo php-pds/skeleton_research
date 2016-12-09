@@ -1,0 +1,9 @@
+Configuration/
+DependencyInjection/
+EventListener/
+Resources/
+.gitignore
+EasyAnnotationBundle.php
+LICENSE
+README.md
+composer.json

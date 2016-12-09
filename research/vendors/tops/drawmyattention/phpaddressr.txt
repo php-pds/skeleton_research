@@ -1,0 +1,11 @@
+src/
+tests/
+.DS_Store
+.gitignore
+.travis.yml
+composer.json
+composer.lock
+config.php
+examples.php
+phpunit.xml
+readme.md

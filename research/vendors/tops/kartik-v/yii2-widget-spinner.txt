@@ -1,0 +1,7 @@
+assets/
+CHANGE.md
+LICENSE.md
+README.md
+Spinner.php
+SpinnerAsset.php
+composer.json

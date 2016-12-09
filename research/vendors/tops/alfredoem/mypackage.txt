@@ -1,0 +1,5 @@
+Http/
+config/
+MypackageServiceProvider.php
+SkeletonClass.php
+composer.json

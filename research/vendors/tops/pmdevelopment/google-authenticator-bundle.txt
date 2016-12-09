@@ -1,0 +1,10 @@
+DependencyInjection/
+PHPGangsta/
+Resources/config/
+Services/
+.gitignore
+.travis.yml
+LICENSE.md
+PMGoogleAuthenticatorBundle.php
+README.md
+composer.json

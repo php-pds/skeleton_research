@@ -1,0 +1,12 @@
+DependencyInjection/
+Manager/
+Resources/config/
+Tests/
+Twig/Extension/
+Util/
+.travis.yml
+README.md
+TempoResourceExtraBundle.php
+composer.json
+composer.lock
+phpunit.xml.dist

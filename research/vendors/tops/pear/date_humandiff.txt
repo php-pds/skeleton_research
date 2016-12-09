@@ -1,0 +1,9 @@
+examples/
+src/Date/
+tests/
+.gitignore
+.travis.yml
+README.rst
+composer.json
+package.xml
+phpcs-ruleset.xml

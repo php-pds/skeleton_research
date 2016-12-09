@@ -1,0 +1,11 @@
+bin/
+features/
+src/
+utils/
+.editorconfig
+.gitignore
+.travis.yml
+PREREQUISITES.md
+README.md
+command.php
+composer.json

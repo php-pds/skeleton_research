@@ -1,0 +1,12 @@
+DependencyInjection/
+Document/
+Entity/
+Model/
+Resources/
+Service/
+Tests/Service/
+.gitignore
+OryzoneMediaStorageBundle.php
+README.rst
+composer.json
+phpunit.xml.dist

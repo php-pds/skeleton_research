@@ -1,0 +1,10 @@
+Block/Adminhtml/Customer/Edit/
+Controller/Adminhtml/Index/
+Ui/Component/Listing/Column/
+etc/
+i18n/
+view/
+.gitignore
+README.md
+composer.json
+registration.php

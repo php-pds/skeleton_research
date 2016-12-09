@@ -1,0 +1,9 @@
+CRUDDemo/
+OLOG/CRUD/
+public/
+.gitignore
+README.md
+cli.php
+composer.json
+phpcrud.sql
+run.sh

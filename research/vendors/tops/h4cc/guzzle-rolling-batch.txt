@@ -1,0 +1,9 @@
+src/h4cc/GuzzleRollingBatch/
+tests/
+.scrunitizer.yml
+.travis.yml
+LICENSE
+README.md
+build.xml
+composer.json
+phpunit.xml.dist

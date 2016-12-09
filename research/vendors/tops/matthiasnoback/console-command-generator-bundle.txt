@@ -1,0 +1,8 @@
+Command/
+Generator/
+Resources/
+.gitignore
+LICENSE
+MatthiasConsoleCommandGeneratorBundle.php
+README.md
+composer.json

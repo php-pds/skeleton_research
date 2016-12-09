@@ -1,0 +1,9 @@
+generated/
+nbproject/
+src/
+.gitattributes
+.gitignore
+README.md
+composer.json
+composer.lock
+i18n-extractor

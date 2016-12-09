@@ -1,0 +1,13 @@
+Controller/
+DependencyInjection/
+Entity/
+Form/
+Model/
+Resources/
+Tests/Controller/
+ForoBundle.php
+LICENSE
+MWSimpleForoBundle.php
+README.md
+composer.json
+composer.lock

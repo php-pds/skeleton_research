@@ -1,0 +1,5 @@
+src/Artatol/ImageManager/
+.gitattributes
+.gitignore
+README.md
+composer.json

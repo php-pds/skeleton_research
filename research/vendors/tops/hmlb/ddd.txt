@@ -1,0 +1,11 @@
+spec/HMLB/DDD/
+src/
+tests/Message/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpspec.yml
+phpunit.xml

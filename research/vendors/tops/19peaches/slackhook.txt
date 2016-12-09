@@ -1,0 +1,9 @@
+Config/
+Contracts/
+Examples/
+.gitignore
+LICENSE
+README.md
+Slack.php
+SlackhookServiceProvider.php
+composer.json

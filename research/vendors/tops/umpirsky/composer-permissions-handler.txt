@@ -1,0 +1,7 @@
+spec/Umpirsky/PermissionsHandler/
+src/Umpirsky/PermissionsHandler/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json

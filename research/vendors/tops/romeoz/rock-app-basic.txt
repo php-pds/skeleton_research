@@ -1,0 +1,16 @@
+apps/
+provisioning/
+tests/
+.bowerrc
+.coveralls.yml
+.gitattributes
+.gitignore
+.travis.yml
+Dockerfile
+README.md
+Vagrantfile
+bower.json
+composer.json
+config.rb
+gulpfile.js
+phpunit.xml.dist

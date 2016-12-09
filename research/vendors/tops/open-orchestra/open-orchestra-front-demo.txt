@@ -1,0 +1,14 @@
+app/
+deployment/
+src/OpenOrchestra/
+web/
+.gitignore
+.travis.php.ini
+.travis.yml
+Capfile
+ISSUE_TEMPLATE
+LICENSE
+README.md
+composer.json
+composer.lock
+gitManager.sh

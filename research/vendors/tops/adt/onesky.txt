@@ -1,0 +1,5 @@
+example-scripts/
+src/
+.gitignore
+README.md
+composer.json

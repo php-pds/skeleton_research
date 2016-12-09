@@ -1,0 +1,10 @@
+DomainValidation/
+node_modules/
+test/
+.gitignore
+.travis.yml
+README.md
+composer.json
+gulpfile.js
+package.json
+phpunit.xml

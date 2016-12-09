@@ -1,0 +1,15 @@
+Xml/
+config/
+language/
+src/NetsensiaCompanies/
+tests/
+view/netsensia/
+.gitignore
+LICENSE.txt
+Module.php
+README.md
+autoload_classmap.php
+autoload_function.php
+autoload_register.php
+composer.json
+gendoc.sh

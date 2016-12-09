@@ -1,0 +1,8 @@
+tests/
+ConnectionHandler.php
+DatabaseConnection.php
+LICENSE
+README.md
+TableConnection.php
+composer.json
+composer.lock

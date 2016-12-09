@@ -1,0 +1,8 @@
+DependencyInjection/
+Doctrine/
+Entity/
+.gitignore
+AkumaUserBundle.php
+LICENSE
+README.md
+composer.json

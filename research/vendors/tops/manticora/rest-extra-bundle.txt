@@ -1,0 +1,12 @@
+DependencyInjection/
+ExpressionLanguage/
+Resources/config/
+Routing/
+Tests/
+.gitignore
+.travis.yml
+LICENSE
+ManticoraRestExtraBundle.php
+README.markdown
+composer.json
+phpunit.xml.dist

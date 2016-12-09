@@ -1,0 +1,4 @@
+src/Whoops/
+LICENSE.md
+VERSION.md
+composer.json

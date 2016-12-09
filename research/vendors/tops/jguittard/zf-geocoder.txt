@@ -1,0 +1,14 @@
+build/
+config/
+src/Factory/
+test/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE.md
+Module.php
+README.md
+composer.json
+composer.lock
+phpcs.xml
+phpunit.xml

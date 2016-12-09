@@ -1,0 +1,8 @@
+assets/
+lang/
+.gitignore
+LICENSE
+composer.json
+readme.md
+readme.txt
+woocommerce-clean-orphaned-variations.php

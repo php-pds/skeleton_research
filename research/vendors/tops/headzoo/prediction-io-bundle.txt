@@ -1,0 +1,11 @@
+DependencyInjection/
+Resources/config/
+Tests/DependencyInjection/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+EndroidPredictionIOBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

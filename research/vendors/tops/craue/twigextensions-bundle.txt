@@ -1,0 +1,15 @@
+DependencyInjection/
+Resources/
+Tests/
+Twig/Extension/
+Util/
+.gitignore
+.travis.yml
+.travis_install_dependencies.sh
+CHANGELOG.md
+CraueTwigExtensionsBundle.php
+LICENSE
+README.md
+UPGRADE-2.0.md
+composer.json
+phpunit.xml.dist

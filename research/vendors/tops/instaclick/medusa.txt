@@ -1,0 +1,8 @@
+bin/
+src/Khepin/Medusa/
+.gitignore
+LICENSE.md
+composer.json
+composer.lock
+medusa.json
+readme.md

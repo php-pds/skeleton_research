@@ -1,0 +1,6 @@
+Providers/
+tpl/
+Indexer.php
+Results.php
+Search.php
+composer.json

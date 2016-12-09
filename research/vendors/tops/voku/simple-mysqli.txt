@@ -1,0 +1,14 @@
+src/voku/db/
+tests/
+.editorconfig
+.gitattributes
+.gitignore
+.scrutinizer.yml
+.styleci.yml
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+circle.yml
+composer.json
+phpunit.xml

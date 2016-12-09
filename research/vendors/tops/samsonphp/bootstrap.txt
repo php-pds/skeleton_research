@@ -1,0 +1,14 @@
+app/
+ci/
+src/
+www/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+behat.yml
+composer.json
+composer.lock
+license.md
+phpunit.php
+phpunit.xml
+readme.md

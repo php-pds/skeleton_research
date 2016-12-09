@@ -1,0 +1,17 @@
+Application/
+Others/
+Views/
+ViewsAlternate/
+ViewsMixed/
+docs/
+tests/
+.coveralls.yml
+.gitignore
+.gitlab-ci.yml
+.travis.yml
+CONTRIBUTING.md
+README.md
+composer.json
+composer.lock
+phpcs.xml.dist
+phpunit.xml.dist

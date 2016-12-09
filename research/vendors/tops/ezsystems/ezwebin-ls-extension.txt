@@ -1,0 +1,10 @@
+autoloads/
+design/ezwebin/
+doc/
+packages/
+settings/
+translations/
+LICENSE
+README
+composer.json
+extension.xml

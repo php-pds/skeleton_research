@@ -1,0 +1,12 @@
+db/
+lang/en/
+.travis.yml
+README.md
+block_featuredcourses.php
+composer.json
+delete_featuredcourse.php
+delete_featuredcourse_form.php
+edit_form.php
+featuredcourses.php
+featuredcourses_form.php
+version.php

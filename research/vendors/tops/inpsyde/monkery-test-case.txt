@@ -1,0 +1,9 @@
+src/
+tests/phpunit/Unit/
+.gitignore
+CHANGELOG.md
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

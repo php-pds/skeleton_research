@@ -1,0 +1,6 @@
+code/service/
+javascript/
+LICENSE
+README.md
+_config.php
+composer.json

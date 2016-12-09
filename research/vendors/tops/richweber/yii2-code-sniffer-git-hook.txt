@@ -1,0 +1,7 @@
+.hooks_ignore
+README.md
+composer.json
+console.png
+install_hook.sh
+pre-commit
+pre-commit_yii2cs

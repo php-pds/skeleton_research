@@ -1,0 +1,7 @@
+src/UAM/Aws/Ecs/
+tests/
+.gitignore
+README.md
+composer.json
+phpunit.xml.dist
+test_services.json.dist

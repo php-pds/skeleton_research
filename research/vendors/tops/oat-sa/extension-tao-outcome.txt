@@ -1,0 +1,13 @@
+actions/
+config/default/
+doc/
+includes/
+locales/
+models/
+scripts/update/
+test/
+views/
+LICENSE
+README.md
+composer.json
+manifest.php

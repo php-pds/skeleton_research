@@ -1,0 +1,13 @@
+src/EvaSms/
+tests/
+tmp/
+.coveralls.yml
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE.md
+LICENSE.txt
+README.md
+composer.json
+makefile
+phpunit.xml.dist

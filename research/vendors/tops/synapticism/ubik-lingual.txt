@@ -1,0 +1,7 @@
+ubik-lingual/
+.gitattributes
+.gitignore
+bower.json
+composer.json
+package.json
+readme.md

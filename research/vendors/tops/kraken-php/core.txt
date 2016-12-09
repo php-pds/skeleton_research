@@ -1,0 +1,8 @@
+Core.php
+CoreAwareInterface.php
+CoreAwareTrait.php
+CoreGetterAwareInterface.php
+CoreInterface.php
+CoreSetterAwareInterface.php
+README.md
+composer.json

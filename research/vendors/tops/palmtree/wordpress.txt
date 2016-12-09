@@ -1,0 +1,12 @@
+CustomPostType/
+Form/
+NavMenu/
+Shortcode/
+.gitignore
+AbstractCollection.php
+CategorySlugRemover.php
+EmojiDisabler.php
+HeadCleaner.php
+Pagination.php
+README.md
+composer.json

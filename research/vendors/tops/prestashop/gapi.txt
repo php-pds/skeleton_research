@@ -1,0 +1,11 @@
+screenshots/3.0/
+translations/
+CHANGELOG.txt
+Readme.md
+composer.json
+config.xml
+gapi.php
+index.php
+logo.gif
+logo.png
+oauth2callback.php

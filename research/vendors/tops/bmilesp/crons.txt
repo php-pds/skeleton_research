@@ -1,0 +1,3 @@
+Model/
+README.md
+composer.json

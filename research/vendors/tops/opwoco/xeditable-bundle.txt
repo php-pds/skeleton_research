@@ -1,0 +1,9 @@
+DependencyInjection/
+Mapper/
+Model/
+Resources/
+Twig/
+LICENSE
+README.md
+composer.json
+opwocoXeditableBundle.php

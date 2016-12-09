@@ -1,0 +1,10 @@
+Nette/
+client-side/
+tests/
+.gitattributes
+.gitignore
+.travis.yml
+composer.json
+license.md
+readme.md
+version.txt

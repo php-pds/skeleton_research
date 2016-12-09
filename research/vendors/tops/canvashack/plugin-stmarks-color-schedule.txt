@@ -1,0 +1,7 @@
+.gitignore
+LICENSE.md
+color-schedule.css.php
+color-schedule.js.php
+common.inc.php
+composer.json
+manifest.xml

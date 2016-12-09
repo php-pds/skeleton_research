@@ -1,0 +1,13 @@
+resources/
+src/
+test/
+.gitignore
+.travis.yml
+LICENSE
+Makefile
+README.md
+RELEASE
+VERSION
+composer.json
+phpcompatinfo.json
+phpunit.xml.dist

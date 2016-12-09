@@ -1,0 +1,9 @@
+doc/
+LICENSE
+composer.json
+include.php
+index.php
+jqCron.js
+readme.md
+styles.css
+styles.php

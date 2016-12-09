@@ -1,0 +1,9 @@
+config/
+data/cache/
+module/Application/
+public/
+.gitignore
+.php_cs
+LICENSE.txt
+README.md
+composer.json

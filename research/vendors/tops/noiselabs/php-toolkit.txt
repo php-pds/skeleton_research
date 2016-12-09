@@ -1,0 +1,11 @@
+bin/
+doc/
+src/NoiseLabs/ToolKit/
+tests/
+.gitignore
+LICENSE
+README.md
+VERSION
+autoload.php.dist
+composer.json
+phpunit.xml.dist

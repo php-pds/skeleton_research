@@ -1,0 +1,11 @@
+config/
+src/DwApcInfo/Controller/
+tests/
+view/dw-apc-info/info/
+.gitignore
+.travis.yml
+LICENSE
+Module.php
+README.md
+autoload_classmap.php
+composer.json

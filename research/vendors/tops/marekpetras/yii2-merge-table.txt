@@ -1,0 +1,5 @@
+LICENSE
+MergeTableInterface.php
+MergeTableTrait.php
+README.md
+composer.json

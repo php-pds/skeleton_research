@@ -1,0 +1,15 @@
+Command/
+Element/
+Model/
+Tests/
+Validator/
+.gitignore
+ArrayConverter.php
+ArrayConverterInterface.php
+ElementTypeNotSupportedException.php
+EmptyChildrenException.php
+Enricher.php
+Validator.php
+ValidatorInterface.php
+composer.json
+phpunit.xml.dist

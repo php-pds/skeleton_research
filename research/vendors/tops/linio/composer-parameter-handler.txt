@@ -1,0 +1,14 @@
+FileHandler/
+Tests/
+.gitignore
+.php_cs
+.travis.yml
+CHANGELOG.md
+FileHandlerFactory.php
+FileHandlerInterface.php
+LICENSE
+Processor.php
+README.md
+ScriptHandler.php
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,16 @@
+Command/
+Composer/
+DependencyInjection/
+Exception/
+Manager/
+Resources/
+Tests/DependencyInjection/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CHANGELOG.md
+CONTRIBUTING.md
+PrestaDeploymentBundle.php
+README.md
+composer.json
+phpunit.xml.dist

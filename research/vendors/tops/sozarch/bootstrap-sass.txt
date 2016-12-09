@@ -1,0 +1,4 @@
+fonts/
+js/
+scss/
+composer.json

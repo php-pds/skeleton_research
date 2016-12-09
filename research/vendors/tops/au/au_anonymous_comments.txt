@@ -1,0 +1,12 @@
+actions/comments/
+languages/
+lib/
+views/default/
+CHANGES.txt
+LICENSE
+README.md
+activate.php
+composer.json
+composer.lock
+manifest.xml
+start.php

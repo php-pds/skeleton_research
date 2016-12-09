@@ -1,0 +1,9 @@
+bin/
+tests/
+.gitignore
+composer.json
+oomph-plugin-notes.js
+oomph-plugin-notes.php
+phpunit.xml.dist
+readme.txt
+wp-svn.pl

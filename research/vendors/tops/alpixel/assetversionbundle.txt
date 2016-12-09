@@ -1,0 +1,7 @@
+DependencyInjection/
+Resources/config/
+Twig/Extension/
+AlpixelAssetVersionBundle.php
+LICENSE.md
+README.md
+composer.json

@@ -1,0 +1,10 @@
+config/
+data/
+language/
+src/XelaxAdmin/
+view/partial/
+.gitignore
+LICENSE
+Module.php
+README.md
+composer.json

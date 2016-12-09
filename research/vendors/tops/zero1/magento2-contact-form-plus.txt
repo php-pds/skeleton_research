@@ -1,0 +1,8 @@
+Controller/
+Model/
+Setup/
+etc/
+view/adminhtml/layout/
+.gitignore
+README.md
+composer.json

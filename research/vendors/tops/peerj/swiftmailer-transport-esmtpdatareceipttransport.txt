@@ -1,0 +1,3 @@
+classes/Swift/Transport/
+README.md
+composer.json

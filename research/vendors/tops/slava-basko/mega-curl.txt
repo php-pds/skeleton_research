@@ -1,0 +1,5 @@
+MegaCurl/
+.gitignore
+LICENSE
+README.md
+composer.json

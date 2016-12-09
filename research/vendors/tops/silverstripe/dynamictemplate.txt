@@ -1,0 +1,12 @@
+code/
+css/
+docs/
+javascript/
+samples/test-simple/
+templates/Includes/
+tests/
+thirdparty/
+.gitignore
+README.md
+_config.php
+composer.json

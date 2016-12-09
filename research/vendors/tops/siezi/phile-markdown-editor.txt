@@ -1,0 +1,10 @@
+Classes/
+lib/
+pages/
+public/
+LICENSE
+README.md
+bower.json
+composer.json
+config.php
+screenshot.png

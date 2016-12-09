@@ -1,0 +1,10 @@
+Breadcrumbs/
+DependencyInjection/
+Resources/
+Tests/
+Twig/Extension/
+.travis.yml
+LaFourchetteBreadcrumbsBundle.php
+README.md
+composer.json
+phpunit.xml

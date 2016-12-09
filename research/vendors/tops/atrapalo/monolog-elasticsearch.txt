@@ -1,0 +1,12 @@
+src/Atrapalo/Monolog/
+tests/Atrapalo/Test/Monolog/
+.editorconfig
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CODE_OF_CONDUCT.md
+CONTRIBUTING.md
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,7 @@
+config/
+src/Relatorio/Controller/
+view/Relatorio/index/
+.gitignore
+Module.php
+autoload_classmap.php
+composer.json

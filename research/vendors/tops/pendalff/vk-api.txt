@@ -1,0 +1,5 @@
+examples/
+src/VkApi/
+.gitignore
+README.md
+composer.json

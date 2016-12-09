@@ -1,0 +1,8 @@
+src/Bez/Fabric/
+tests/
+.gitignore
+LICENSE
+README.md
+cli-config.php
+composer.json
+index.php

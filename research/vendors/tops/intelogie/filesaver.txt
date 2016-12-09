@@ -1,0 +1,8 @@
+demo/
+FileSaver.js
+FileSaver.min.js
+LICENSE.md
+README.md
+bower.json
+composer.json
+package.json

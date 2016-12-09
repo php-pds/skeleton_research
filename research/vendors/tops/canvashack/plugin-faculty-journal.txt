@@ -1,0 +1,10 @@
+css/
+js/
+templates/
+.gitignore
+LICENSE.md
+common.inc.php
+composer.json
+composer.lock
+manifest.xml
+menu.php

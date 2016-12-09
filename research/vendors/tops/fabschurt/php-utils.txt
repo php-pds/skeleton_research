@@ -1,0 +1,12 @@
+src/
+tests/
+.editorconfig
+.gitattributes
+.gitignore
+.php_cs
+.travis.yml
+LICENSE
+README.md
+RoboFile.php
+composer.json
+peridot.php

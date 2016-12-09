@@ -1,0 +1,14 @@
+hhi/
+nbproject/
+src/
+tests/
+.gitignore
+.hhconfig
+.scrutinizer.yml
+.travis.yml
+LICENSE
+NEWS.md
+README.md
+composer.json
+phpunit.xml.dist
+travis-php.ini

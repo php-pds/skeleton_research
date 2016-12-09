@@ -1,0 +1,14 @@
+application/
+assets/
+.gitignore
+.htaccess
+.nginx
+LICENSE
+README.md
+composer.json
+favicon.ico
+index.php
+robots.txt
+scabbia
+sitemap.xml
+web.config

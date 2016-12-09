@@ -1,0 +1,4 @@
+src/MolecularRoute/
+.gitattributes
+.gitignore
+composer.json

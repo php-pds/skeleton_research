@@ -1,0 +1,5 @@
+bin/
+src/closureTable/
+LICENSE
+README.md
+composer.json

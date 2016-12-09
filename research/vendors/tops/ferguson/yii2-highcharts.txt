@@ -1,0 +1,6 @@
+assets/
+HighChart.php
+HighChartAsset.php
+LICENSE
+README.md
+composer.json

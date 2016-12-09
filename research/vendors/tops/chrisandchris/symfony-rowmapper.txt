@@ -1,0 +1,15 @@
+changelog/
+doc/
+roadmap/
+src/ChrisAndChris/Common/RowMapperBundle/
+.gitattributes
+.gitignore
+.travis.yml
+LICENSE
+README.md
+Vagrantfile
+bootstrap.sh
+composer.json
+composer.lock
+phpunit.xml
+phpunit_with_coverage.xml

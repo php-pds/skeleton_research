@@ -1,0 +1,7 @@
+src/Asm89/Stack/
+test/
+.gitignore
+.travis.yml
+README.md
+composer.json
+phpunit.xml.dist

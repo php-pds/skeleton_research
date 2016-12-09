@@ -1,0 +1,10 @@
+config/
+module/Site/
+public/
+.gitignore
+LICENSE
+README-GIT.md
+README.md
+bower.json
+composer.json
+init_autoloader.php

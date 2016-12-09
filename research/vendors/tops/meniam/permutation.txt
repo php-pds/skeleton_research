@@ -1,0 +1,6 @@
+src/Permutation/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json

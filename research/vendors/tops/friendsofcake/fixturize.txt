@@ -1,0 +1,6 @@
+src/TestSuite/Fixture/
+.editorconfig
+.gitignore
+LICENSE.txt
+README.md
+composer.json

@@ -1,0 +1,13 @@
+doc/
+features/bootstrap/
+res/dal/
+src/Phn/
+.gitignore
+.styleci.yml
+.travis.yml
+LICENCE
+README.md
+behat.yml
+composer.json
+composer.lock
+puli.json

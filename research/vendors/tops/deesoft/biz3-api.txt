@@ -1,0 +1,12 @@
+base/
+config/
+controllers/
+hooks/
+migrations/
+models/
+LICENSE
+Module.php
+README.md
+composer.json
+definitions.php
+hooks.php

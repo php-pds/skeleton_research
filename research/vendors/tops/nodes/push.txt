@@ -1,0 +1,10 @@
+config/
+src/
+tests/
+.travis.yml
+README.md
+clover.xml
+composer.json
+coverage-checker.php
+phpunit.xml
+phpunit_local.xml

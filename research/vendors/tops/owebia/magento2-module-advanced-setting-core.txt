@@ -1,0 +1,13 @@
+Block/System/Config/Form/Field/
+Controller/Adminhtml/Debug/
+Helper/
+Logger/
+Model/
+etc/
+i18n/
+.gitignore
+COPYING.txt
+LICENSE.txt
+README.md
+composer.json
+registration.php

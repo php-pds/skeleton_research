@@ -1,0 +1,10 @@
+DependencyInjection/
+ORM/
+Resources/config/
+.gitignore
+CONTRIBUTING.md
+FMLessqlBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

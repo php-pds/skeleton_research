@@ -1,0 +1,12 @@
+.github/
+src/
+tests/
+.coveralls.yml
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+composer.json
+gitattributes
+phpunit.xml

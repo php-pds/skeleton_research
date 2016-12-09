@@ -1,0 +1,8 @@
+controllers/
+messages/de_DE/
+migrations/
+models/
+views/
+Module.php
+README.md
+composer.json

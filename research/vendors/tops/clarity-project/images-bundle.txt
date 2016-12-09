@@ -1,0 +1,10 @@
+Controller/
+DependencyInjection/
+Form/
+Image/
+Resources/
+Validator/Constraints/
+.gitignore
+ClarityImagesBundle.php
+README.md
+composer.json

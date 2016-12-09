@@ -1,0 +1,4 @@
+bundles/panels/
+README.md
+composer.json
+version.md

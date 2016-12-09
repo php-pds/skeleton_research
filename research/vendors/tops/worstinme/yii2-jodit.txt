@@ -1,0 +1,9 @@
+.gitattributes
+.gitignore
+Asset.php
+BrowserAction.php
+Editor.php
+README.md
+ReplaceImagesBehavior.php
+UploadAction.php
+composer.json

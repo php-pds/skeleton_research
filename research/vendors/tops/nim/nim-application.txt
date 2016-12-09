@@ -1,0 +1,11 @@
+app/
+features/
+src/NIM/
+web/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+behat.yml.dist
+composer.json
+composer.lock

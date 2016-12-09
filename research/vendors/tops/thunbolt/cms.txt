@@ -1,0 +1,13 @@
+app/
+bin/
+plugins/
+var/
+vendor/
+www/
+.bowerrc
+.gitignore
+Gruntfile.js
+README.md
+bower.json
+composer.json
+package.json

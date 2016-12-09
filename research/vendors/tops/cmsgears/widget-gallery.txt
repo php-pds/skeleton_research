@@ -1,0 +1,5 @@
+views/
+Gallery.php
+LICENSE
+README.md
+composer.json

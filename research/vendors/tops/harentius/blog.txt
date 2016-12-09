@@ -1,0 +1,7 @@
+app/
+bin/
+web/
+.gitignore
+README.md
+composer.json
+composer.lock

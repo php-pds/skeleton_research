@@ -1,0 +1,11 @@
+bin/
+src/CyberSpectrum/
+tests/
+.check-author.yml
+.gitignore
+.travis.yml
+README.md
+build.default.properties
+build.xml
+composer.json
+phpunit.xml.dist

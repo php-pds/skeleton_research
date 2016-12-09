@@ -1,0 +1,8 @@
+Controller/
+DependencyInjection/
+Form/
+Resources/
+Security/Authorization/Voter/
+Tests/
+CanalTPSamEcoreSecurityBundle.php
+composer.json

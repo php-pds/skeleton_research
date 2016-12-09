@@ -1,0 +1,14 @@
+assets/
+controllers/
+helpers/
+migrations/
+models/
+views/default/
+widgets/
+.gitattributes
+.gitignore
+Component.php
+LICENSE
+Module.php
+README.md
+composer.json

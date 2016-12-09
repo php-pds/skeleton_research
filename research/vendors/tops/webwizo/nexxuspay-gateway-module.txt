@@ -1,0 +1,6 @@
+modules/gateways/
+.DS_Store
+.gitignore
+LICENSE
+README.md
+composer.json

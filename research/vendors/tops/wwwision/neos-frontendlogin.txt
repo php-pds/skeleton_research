@@ -1,0 +1,6 @@
+Classes/Wwwision/Neos/FrontendLogin/
+Configuration/
+Migrations/Mysql/
+Resources/Private/
+README.md
+composer.json

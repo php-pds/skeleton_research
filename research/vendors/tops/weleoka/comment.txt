@@ -1,0 +1,9 @@
+src/Comment/
+test/
+view/comment/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+README.md
+autoloader.php
+composer.json

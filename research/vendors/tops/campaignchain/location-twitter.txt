@@ -1,0 +1,11 @@
+DependencyInjection/
+Entity/
+EntityService/
+Job/
+Resources/
+.gitignore
+CampaignChainLocationTwitterBundle.php
+LICENSE
+README.md
+campaignchain.yml
+composer.json

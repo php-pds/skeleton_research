@@ -1,0 +1,4 @@
+Classes/Famelo/Sync/
+Migrations/Mysql/
+Resources/Private/
+composer.json

@@ -1,0 +1,9 @@
+src/Mcfedr/Monolog/Handler/
+tests/Mcfedr/Monolog/Handler/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

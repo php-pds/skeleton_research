@@ -1,0 +1,12 @@
+config/
+src/Roave/NonceUtility/
+test/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE.txt
+Module.php
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

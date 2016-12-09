@@ -1,0 +1,9 @@
+EventListener/
+Exception/
+.gitignore
+Config.php
+Event.php
+IrcConnection.php
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,13 @@
+Command/
+Controller/
+DependencyInjection/
+Event/
+Menu/
+Resources/
+Tests/Controller/
+Theme/
+Twig/Extension/
+LICENSE
+README.md
+VinceTAdminBundle.php
+composer.json

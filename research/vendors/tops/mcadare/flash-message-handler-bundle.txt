@@ -1,0 +1,11 @@
+DependencyInjection/
+Event/
+Factory/
+Resources/
+Service/
+Tests/Controller/
+.gitignore
+FlashMessageHandlerBundle.php
+LICENSE
+README.md
+composer.json

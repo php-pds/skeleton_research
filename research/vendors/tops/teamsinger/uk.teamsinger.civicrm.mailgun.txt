@@ -1,0 +1,10 @@
+CRM/
+documentation/
+templates/CRM/Mailgun/Page/
+xml/Menu/
+LICENSE.txt
+README.md
+composer.json
+info.xml
+mailgun.civix.php
+mailgun.php

@@ -1,0 +1,8 @@
+Services/
+data/
+tests/
+.gitignore
+.travis.yml
+composer.json
+generatePackage.php
+package.xml

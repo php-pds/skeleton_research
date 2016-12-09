@@ -1,0 +1,5 @@
+Classes/
+composer.json
+ext_conf_template.txt
+ext_emconf.php
+ext_localconf.php

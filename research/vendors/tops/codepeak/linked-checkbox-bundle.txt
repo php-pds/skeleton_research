@@ -1,0 +1,12 @@
+Controller/
+DependencyInjection/
+Form/Type/
+Resources/
+Tests/
+.gitignore
+.travis.yml
+CodepeakLinkedCheckboxBundle.php
+LICENSE
+README.markdown
+composer.json
+phpunit.xml.dist

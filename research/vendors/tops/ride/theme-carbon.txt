@@ -1,0 +1,12 @@
+config/
+l10n/
+manual/
+public/
+src/ride/
+view/smarty/carbon/
+.gitignore
+CHANGELOG.md
+README.md
+WIDGETS.md
+composer.json
+ride.json

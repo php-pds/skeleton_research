@@ -1,0 +1,8 @@
+.idea/
+Configuration/
+Packages/Application/
+.gitignore
+LICENSE.txt
+README.de.md
+README.md
+composer.json

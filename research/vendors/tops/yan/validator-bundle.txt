@@ -1,0 +1,8 @@
+DependencyInjection/
+Tests/Validator/Constraint/
+Validator/Constraint/
+.gitignore
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

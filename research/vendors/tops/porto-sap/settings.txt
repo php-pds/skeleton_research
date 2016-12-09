@@ -1,0 +1,8 @@
+Data/
+Models/
+Providers/
+Tasks/
+.gitignore
+LICENSE
+README.md
+composer.json

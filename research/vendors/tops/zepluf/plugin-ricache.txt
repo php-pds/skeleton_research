@@ -1,0 +1,7 @@
+Resources/config/
+Cache.php
+CacheCore.php
+DataCache.php
+OutputCache.php
+composer.json
+plugin.xml

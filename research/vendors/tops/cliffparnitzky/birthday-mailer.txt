@@ -1,0 +1,5 @@
+system/modules/BirthdayMailer/
+.gitattributes
+.gitignore
+README.md
+composer.json

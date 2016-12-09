@@ -1,0 +1,4 @@
+views/
+CnzzWidget.php
+README.md
+composer.json

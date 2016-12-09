@@ -1,0 +1,12 @@
+Controller/
+Tests/
+.travis.yml
+Bundle.php
+Image.php
+ImageProperty.php
+ImageWidget.php
+ImagesWidget.php
+MultipleImagesField.php
+composer.json
+phpunit.php
+phpunit.xml

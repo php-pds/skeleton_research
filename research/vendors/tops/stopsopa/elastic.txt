@@ -1,0 +1,12 @@
+Command/Es2/
+Lib/
+Resources/
+Services/
+Tests/
+.gitignore
+ElasticBundle.php
+LICENSE
+README.md
+Vagrantfile
+composer.json
+composer.lock

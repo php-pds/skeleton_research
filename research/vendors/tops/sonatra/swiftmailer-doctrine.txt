@@ -1,0 +1,14 @@
+Entity/
+Exception/
+Model/
+Resources/
+Spool/
+Tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+README.md
+SpoolEmailStatus.php
+composer.json
+composer.lock
+phpunit.xml.dist

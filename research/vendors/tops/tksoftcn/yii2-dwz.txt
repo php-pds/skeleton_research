@@ -1,0 +1,15 @@
+assets/
+layouts/
+src/
+widgets/
+CrudController.php
+DwzAsset.php
+DwzCoreAsset.php
+DwzPrintAsset.php
+DwzUploadifyAsset.php
+DwzXheditorAsset.php
+JqueryAsset.php
+LICENSE
+README.md
+RefreshtabAction.php
+composer.json

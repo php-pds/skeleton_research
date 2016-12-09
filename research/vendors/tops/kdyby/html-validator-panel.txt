@@ -1,0 +1,10 @@
+DI/
+docs/
+.gitattributes
+.gitignore
+README.md
+ValidatorPanel.php
+composer.json
+html_icon.svg
+license.md
+panel.phtml

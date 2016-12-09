@@ -1,0 +1,10 @@
+Templating/
+Tests/
+.gitignore
+.travis.yml
+Alert.php
+AlertManager.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

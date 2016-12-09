@@ -1,0 +1,7 @@
+Controller/
+DependencyInjection/
+Resources/
+Twig/
+.gitignore
+ToroWidgetBundle.php
+composer.json

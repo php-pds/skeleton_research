@@ -1,0 +1,3 @@
+src/Appotter/
+README.md
+composer.json

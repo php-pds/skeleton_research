@@ -1,0 +1,8 @@
+classes/
+config/
+export/
+languages/
+.gitignore
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,6 @@
+AwesomeCheckbox.php
+AwesomeCheckboxAsset.php
+FontAwesomeAsset.php
+LICENSE.md
+README.md
+composer.json

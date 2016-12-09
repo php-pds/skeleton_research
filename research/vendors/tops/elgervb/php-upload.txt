@@ -1,0 +1,11 @@
+.settings/
+src/upload/
+tests/
+.buildpath
+.gitattributes
+.gitignore
+.project
+composer.json
+gulpfile.js
+package.json
+phpunit.xml

@@ -1,0 +1,8 @@
+lib/Peerindex/Api/
+test/Peerindex/Test/Api/
+.gitignore
+.travis.yml
+README.rst
+composer.json
+example.php
+phpunit.xml.dist

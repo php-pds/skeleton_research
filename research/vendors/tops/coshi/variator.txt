@@ -1,0 +1,12 @@
+Exception/
+Tests/
+Variation/
+.gitignore
+ConfigResolver.php
+ContainerVariation.php
+LICENSE
+README.md
+VariationFactory.php
+VariationsTreeBuilder.php
+composer.json
+phpunit.xml.dist

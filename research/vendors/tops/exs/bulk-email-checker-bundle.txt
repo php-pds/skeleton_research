@@ -1,0 +1,13 @@
+DependencyInjection/
+Resources/config/
+Services/
+Tests/
+Validator/Constraints/
+.gitignore
+.rmt.yml
+.travis.yml
+EXSBulkEmailCheckerBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

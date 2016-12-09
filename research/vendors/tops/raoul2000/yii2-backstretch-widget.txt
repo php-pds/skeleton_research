@@ -1,0 +1,7 @@
+assets/
+Backstretch.php
+BackstretchAsset.php
+CHANGE.md
+LICENSE.md
+README.md
+composer.json

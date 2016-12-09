@@ -1,0 +1,10 @@
+library/
+tests/
+.editorconfig
+.gitattributes
+.gitignore
+.travis.yml
+INSTALL.md
+LICENSE
+README.md
+composer.json

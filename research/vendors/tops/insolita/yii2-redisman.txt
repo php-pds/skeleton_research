@@ -1,0 +1,12 @@
+assets/
+components/
+controllers/
+events/
+messages/ru/
+models/
+views/
+widgets/
+CHANGELOG.md
+README.md
+Redisman.php
+composer.json

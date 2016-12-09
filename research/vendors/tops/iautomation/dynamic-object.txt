@@ -1,0 +1,3 @@
+src/DynamicObject/
+README.md
+composer.json

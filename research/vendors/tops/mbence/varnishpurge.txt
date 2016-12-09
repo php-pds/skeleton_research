@@ -1,0 +1,5 @@
+.gitignore
+README.md
+VarnishPurgeProvider.php
+VarnishPurger.php
+composer.json

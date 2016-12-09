@@ -1,0 +1,4 @@
+src/
+.codeclimate.yml
+README.md
+composer.json

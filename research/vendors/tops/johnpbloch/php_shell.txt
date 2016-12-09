@@ -1,0 +1,4 @@
+src/PHP_Shell/
+.gitignore
+README.md
+composer.json

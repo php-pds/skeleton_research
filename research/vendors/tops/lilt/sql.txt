@@ -1,0 +1,11 @@
+lib/Sql/
+test/Sql/
+.coveralls.yml
+.gitattributes
+.gitignore
+.php_cs
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

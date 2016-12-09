@@ -1,0 +1,11 @@
+Bridge/
+DependencyInjection/
+Resources/config/
+Tests/
+.gitignore
+.travis.yml
+LICENSE
+PHPFastCGISpeedfonyBundle.php
+README.md
+composer.json
+phpunit.xml.dist

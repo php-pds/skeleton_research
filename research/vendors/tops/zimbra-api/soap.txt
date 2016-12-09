@@ -1,0 +1,12 @@
+Client/
+Request/
+Tests/
+.gitignore
+API.php
+HeaderContext.php
+Message.php
+README.md
+Request.php
+Response.php
+composer.json
+phpunit.xml.dist

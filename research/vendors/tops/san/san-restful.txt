@@ -1,0 +1,7 @@
+config/
+src/SanRestful/Controller/
+Module.php
+README.md
+autoload_classmap.php
+composer.json
+notes.txt

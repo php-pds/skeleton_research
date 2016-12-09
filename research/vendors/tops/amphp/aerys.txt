@@ -1,0 +1,14 @@
+bin/
+etc/
+lib/
+test/
+.gitattributes
+.gitignore
+.php_cs
+.travis.yml
+LICENSE
+README.md
+autoload.php
+composer.json
+demo.php
+phpunit.xml

@@ -1,0 +1,13 @@
+Cakper/
+Controller/
+DependencyInjection/
+Resources/
+Tests/Controller/
+.gitattributes
+.scrutinizer.yml
+.travis.yml
+HgtanHelloRabbitMqBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

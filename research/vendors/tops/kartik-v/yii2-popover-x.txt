@@ -1,0 +1,6 @@
+CHANGE.md
+LICENSE.md
+PopoverX.php
+PopoverXAsset.php
+README.md
+composer.json

@@ -1,0 +1,16 @@
+_config/
+code/
+css/
+images/
+lang/
+templates/Includes/
+tests/
+.editorconfig
+.gitattributes
+.gitignore
+.scrutinizer.yml
+.travis.yml
+README.md
+_config.php
+composer.json
+phpunit.xml.dist

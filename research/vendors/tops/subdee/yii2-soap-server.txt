@@ -1,0 +1,8 @@
+tests/
+.travis.yml
+README.md
+SoapAction.php
+SoapService.php
+WsdlGenerator.php
+codeception.yml
+composer.json

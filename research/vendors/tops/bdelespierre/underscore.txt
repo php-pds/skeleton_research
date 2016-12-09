@@ -1,0 +1,10 @@
+build/
+src/
+tests/
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENSE
+Makefile
+README.md
+composer.json

@@ -1,0 +1,6 @@
+assets/
+LICENSE
+README.md
+Summernote.php
+SummernoteAsset.php
+composer.json

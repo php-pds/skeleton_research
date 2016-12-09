@@ -1,0 +1,13 @@
+languages/
+public/
+CHANGELOG.md
+LICENSE
+README.md
+__init__.php
+composer.json
+readme.txt
+screenshot-1.png
+screenshot-2.png
+sidebar-highlight-control.php
+sidebar-highlight-events.php
+sidebar-highlight.php

@@ -1,0 +1,9 @@
+app/
+data/
+logs/
+public/
+.gitattributes
+.gitignore
+LICENSE
+README.md
+composer.json

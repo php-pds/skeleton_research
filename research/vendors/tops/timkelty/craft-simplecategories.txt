@@ -1,0 +1,8 @@
+fieldtypes/
+resources/css/
+templates/
+LICENSE.txt
+README.md
+SimpleCategoriesPlugin.php
+composer.json
+releases.json

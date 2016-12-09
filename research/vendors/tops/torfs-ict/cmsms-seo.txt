@@ -1,0 +1,7 @@
+assets/
+templates/
+README.md
+SEO.module.php
+action.keywords.php
+composer.json
+index.html

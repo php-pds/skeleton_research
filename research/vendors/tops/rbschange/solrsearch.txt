@@ -1,0 +1,12 @@
+actions/
+config/
+i18n/
+lib/
+persistentdocument/import/
+setup/
+style/
+templates/
+views/
+webapp/media/frontoffice/solrsearch/
+LICENSE.txt
+change.xml

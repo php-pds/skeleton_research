@@ -1,0 +1,6 @@
+bin/
+src/Schema/
+.gitignore
+LICENSE
+README.md
+composer.json

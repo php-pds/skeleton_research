@@ -1,0 +1,4 @@
+Resources/public/
+KvdhjQueryColorboxBundle.php
+README.md
+composer.json

@@ -1,0 +1,7 @@
+docs/
+src/Chayka/MVC/
+tests/Chayka/MVC/
+.gitignore
+composer.json
+composer.lock
+generate-docs.sh

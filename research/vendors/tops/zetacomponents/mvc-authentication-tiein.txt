@@ -1,0 +1,7 @@
+design/
+src/
+CREDITS
+ChangeLog
+DESCRIPTION
+LICENSE.txt
+composer.json

@@ -1,0 +1,6 @@
+test/
+.gitignore
+LICENSE
+composer.json
+short-tag-converter
+stc.php

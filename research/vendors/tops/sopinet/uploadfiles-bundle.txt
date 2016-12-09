@@ -1,0 +1,12 @@
+Controller/
+DependencyInjection/
+Entity/
+Form/
+Resources/
+Service/
+Tests/Controller/
+Twig/Extension/
+.gitignore
+README.md
+SopinetUploadFilesBundle.php
+composer.json

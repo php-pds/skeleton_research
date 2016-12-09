@@ -1,0 +1,11 @@
+assets/
+views/
+ElFinderController.php
+LICENSE
+TinyMce.php
+TinyMceAsset.php
+TinyMceContentStylesAsset.php
+TinyMceFileManagerAsset.php
+TinyMceLangAsset.php
+TinyMcePluginsAsset.php
+composer.json

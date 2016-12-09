@@ -1,0 +1,4 @@
+LICENSE.md
+README.md
+SyslogTarget.php
+composer.json

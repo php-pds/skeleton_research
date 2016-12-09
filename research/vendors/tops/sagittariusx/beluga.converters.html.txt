@@ -1,0 +1,6 @@
+.idea/
+src/Beluga/Converters/HTML/
+.gitignore
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,7 @@
+src/Bangpound/Tika/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

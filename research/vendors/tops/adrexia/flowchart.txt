@@ -1,0 +1,13 @@
+code/
+css/
+images/
+js/
+scss/
+templates/
+.gitignore
+.htaccess
+LICENSE
+README.md
+_config.php
+composer.json
+config.rb

@@ -1,0 +1,6 @@
+src/Szykra/GitLabReceiver/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock

@@ -1,0 +1,10 @@
+App/Area/
+Block/Page/
+Helper/
+Model/
+etc/
+view/adminhtml/
+LICENSE
+README.md
+composer.json
+registration.php

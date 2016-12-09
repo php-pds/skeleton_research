@@ -1,0 +1,4 @@
+PageContributors.i18n.magic.php
+PageContributors.php
+README.md
+composer.json

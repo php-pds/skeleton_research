@@ -1,0 +1,13 @@
+app/
+bin/
+src/AppBundle/
+tests/AppBundle/Controller/
+var/
+web/
+.gitignore
+LICENSE
+README.md
+composer.json
+kabafile.js
+package.json
+phpunit.xml.dist

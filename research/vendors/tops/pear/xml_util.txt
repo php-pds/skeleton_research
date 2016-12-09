@@ -1,0 +1,9 @@
+XML/
+examples/
+tests/
+.gitignore
+.travis.yml
+README.rst
+composer.json
+package.php
+package.xml

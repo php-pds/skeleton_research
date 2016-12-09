@@ -1,0 +1,9 @@
+LICENSE
+README.md
+composer.json
+database-browser.php
+database-prefix.php
+database-str-replace.php
+database.php
+mysql2sqlite.php
+mysql2sqlite.sh

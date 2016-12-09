@@ -1,0 +1,5 @@
+src/GeoBox/
+.gitignore
+LICENSE
+README.md
+composer.json

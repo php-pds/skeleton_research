@@ -1,0 +1,7 @@
+system/modules/zBackendMemberGroupsDisplayer/
+.gitattributes
+.gitignore
+README.md
+composer.json
+screenshot_members.jpg
+screenshot_pages.jpg

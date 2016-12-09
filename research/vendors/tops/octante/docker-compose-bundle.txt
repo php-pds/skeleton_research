@@ -1,0 +1,15 @@
+DependencyInjection/
+Exceptions/
+Model/
+Resources/
+Services/
+Tests/
+Traits/
+.gitignore
+.php_cs
+.travis.yml
+DockerComposeBundle.php
+LICENCE
+README.md
+composer.json
+phpunit.xml.dist

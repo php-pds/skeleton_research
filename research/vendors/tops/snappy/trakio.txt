@@ -1,0 +1,7 @@
+src/Snappy/Apps/Trakio/
+tests/
+.gitignore
+composer.json
+phpunit.xml
+readme.md
+trakio.png

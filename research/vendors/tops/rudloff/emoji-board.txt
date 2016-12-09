@@ -1,0 +1,10 @@
+.gitignore
+.htaccess
+LICENSE
+README.md
+bower.json
+composer.json
+composer.lock
+favicon.png
+index.php
+manifest.json

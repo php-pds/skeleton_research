@@ -1,0 +1,14 @@
+migrations/
+models/
+storage/
+tests/
+widgets/
+.gitattributes
+.gitignore
+.php_cs
+.travis.yml
+Cart.php
+LICENSE.md
+README.md
+composer.json
+phpunit.xml.dist

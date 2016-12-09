@@ -1,0 +1,7 @@
+library/ZendService/WindowsAzure/
+tests/
+.gitignore
+.travis.yml
+LICENSE.txt
+README.md
+composer.json

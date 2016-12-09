@@ -1,0 +1,5 @@
+src/FlexPress/Plugins/CMS/
+views/
+.gitignore
+composer.json
+plugin-cms.php

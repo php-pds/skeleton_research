@@ -1,0 +1,15 @@
+sources/XLSXExporter/
+tests/
+.coveralls.yml
+.gitattributes
+.gitignore
+.php_cs
+.scrutinizer.yml
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+autoloader.php
+composer.json
+phpcs.xml
+phpunit.xml.dist

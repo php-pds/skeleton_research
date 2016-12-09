@@ -1,0 +1,17 @@
+blog/
+content/
+docs/
+resources/
+.gitignore
+LICENSE.md
+README.md
+circle.yml
+composer.json
+composer.lock
+config.dev.php
+config.php
+gulpfile.js
+package.json
+sereno
+sereno.png
+yarn.lock

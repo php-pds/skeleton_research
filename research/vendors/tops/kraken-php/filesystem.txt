@@ -1,0 +1,14 @@
+Adapter/
+Factory/
+Filesystem.php
+FilesystemAdapterFactory.php
+FilesystemAdapterFactoryInterface.php
+FilesystemAdapterInterface.php
+FilesystemAdapterSimpleFactory.php
+FilesystemFactory.php
+FilesystemFactoryInterface.php
+FilesystemInterface.php
+FilesystemManager.php
+FilesystemManagerInterface.php
+README.md
+composer.json

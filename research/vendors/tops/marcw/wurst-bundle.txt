@@ -1,0 +1,6 @@
+Command/
+Resources/
+Tests/Command/
+MarcWWurstBundle.php
+README.md
+composer.json

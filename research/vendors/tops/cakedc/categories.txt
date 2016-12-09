@@ -1,0 +1,15 @@
+Config/
+Controller/
+Docs/
+Lib/
+Locale/
+Model/
+Test/
+View/
+webroot/
+.semver
+CHANGELOG.md
+CONTRIBUTING.md
+LICENSE.txt
+composer.json
+readme.md

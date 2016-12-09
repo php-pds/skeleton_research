@@ -1,0 +1,14 @@
+Classes/
+Configuration/
+Documentation/
+Resources/
+Tests/
+CHANGELOG.md
+README.md
+composer.json
+ext_conf_template.txt
+ext_emconf.php
+ext_icon.png
+ext_icon.svg
+ext_localconf.php
+ext_tables.php

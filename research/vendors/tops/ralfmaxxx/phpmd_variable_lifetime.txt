@@ -1,0 +1,6 @@
+rulesets/
+src/Phpmd/Extension/Rule/
+.gitignore
+README.md
+composer.json
+composer.lock

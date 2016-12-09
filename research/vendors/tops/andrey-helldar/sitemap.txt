@@ -1,0 +1,13 @@
+config/
+src/
+views/
+.codecov.yml
+.gitattributes
+.gitignore
+.styleci.yml
+.travis.yml
+LICENSE
+README.md
+bitbucket-pipelines.yml
+composer.json
+phpunit.xml.dist

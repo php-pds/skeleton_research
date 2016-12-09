@@ -1,0 +1,13 @@
+Authentication/
+DependencyInjection/
+Entity/
+EventSubscriber/
+Exception/
+HttpFoundation/
+Resources/config/
+Security/
+.gitignore
+LICENSE
+README.md
+SidusEncryptionBundle.php
+composer.json

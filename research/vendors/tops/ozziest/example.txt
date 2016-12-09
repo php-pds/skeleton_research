@@ -1,0 +1,7 @@
+src/Ozziest/Example/
+tests/
+.gitignore
+README.md
+composer.json
+composer.lock
+phpunit.xml

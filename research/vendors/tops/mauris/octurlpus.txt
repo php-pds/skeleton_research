@@ -1,0 +1,6 @@
+src/Packfire/Octurlpus/
+test/
+vendor/
+.travis.yml
+composer.json
+readme.md

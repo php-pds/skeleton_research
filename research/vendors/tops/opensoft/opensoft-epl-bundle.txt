@@ -1,0 +1,9 @@
+DependencyInjection/
+Resources/
+Tests/
+.gitignore
+.travis.yml
+OpensoftEplBundle.php
+README.markdown
+composer.json
+phpunit.xml.dist

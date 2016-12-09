@@ -1,0 +1,12 @@
+app/
+src/Covex/TwigCallableBridgeBundle/
+vagrant/
+web/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+Vagrantfile
+composer.json
+composer.lock
+phpunit.xml.dist

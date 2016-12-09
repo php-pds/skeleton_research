@@ -1,0 +1,16 @@
+assets/
+controllers/
+css/
+helpers/
+js/
+migrations/
+models/
+tests/functional/
+views/
+widgets/
+.gitignore
+.travis.yml
+Module.php
+README.md
+composer.json
+composer.lock

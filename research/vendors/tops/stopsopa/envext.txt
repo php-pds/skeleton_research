@@ -1,0 +1,7 @@
+public_html/
+src/
+.gitignore
+README.md
+composer.json
+inspiration.bmp
+web.bmp

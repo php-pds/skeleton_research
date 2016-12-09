@@ -1,0 +1,4 @@
+src/rcrowe/Swift/Transport/
+.gitignore
+README.md
+composer.json

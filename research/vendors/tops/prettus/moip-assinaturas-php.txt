@@ -1,0 +1,4 @@
+src/Prettus/Moip/Subscription/
+.gitignore
+composer.json
+readme.md

@@ -1,0 +1,12 @@
+Exception/
+Tests/Units/
+.atoum.php
+.atoum.travis.php
+.bootstrap.atoum.php
+.travis.yml
+AbstractStorage.php
+ExpirableStorageInterface.php
+InMemoryStorage.php
+README.md
+StorageInterface.php
+composer.json

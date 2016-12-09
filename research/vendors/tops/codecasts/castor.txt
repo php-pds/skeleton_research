@@ -1,0 +1,9 @@
+files/
+src/
+.gitignore
+box.json
+builder.php
+castor
+castor.phar
+composer.json
+progress.php

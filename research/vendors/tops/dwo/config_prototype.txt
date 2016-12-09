@@ -1,0 +1,7 @@
+src/Dwo/ConfigPrototype/
+.coveralls.yml
+.gitignore
+.travis.yml
+LICENSE
+composer.json
+phpunit.xml.dist

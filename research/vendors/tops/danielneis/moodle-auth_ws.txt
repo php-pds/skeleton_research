@@ -1,0 +1,10 @@
+cli/
+lang/
+.travis.yml
+LICENSE
+README.md
+auth.php
+composer.json
+config.html
+moodle-auth_ws_settings.png
+version.php

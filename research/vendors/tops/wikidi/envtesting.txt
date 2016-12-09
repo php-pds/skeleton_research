@@ -1,0 +1,13 @@
+doc/
+envtesting/
+envtests/
+example/
+tools/
+.gitignore
+Envtesting.php
+Gruntfile.coffee
+LICENSE.TXT
+README.md
+check
+composer.json
+package.json

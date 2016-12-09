@@ -1,0 +1,12 @@
+app/
+libs/
+log/
+temp/
+tests/
+uploadedFilesDemo/
+www/
+.gitignore
+.gitmodules
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,15 @@
+Controller/
+DependencyInjection/
+Event/
+EventListener/
+Exception/
+Factory/
+Manager/
+Provider/
+Resources/
+User/
+.gitignore
+CHANGELOG.md
+IMAGLdapBundle.php
+README.md
+composer.json

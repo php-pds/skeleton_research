@@ -1,0 +1,17 @@
+resources/
+src/
+tests/phpunit/
+.gitignore
+.jshintignore
+.jshintrc
+.travis.yml
+CHANGELOG.md
+CONTRIBUTING.md
+Gruntfile.js
+LICENSE
+README.md
+composer.json
+composer.lock
+linked-taxonomies.php
+package.json
+phpunit.xml.dist

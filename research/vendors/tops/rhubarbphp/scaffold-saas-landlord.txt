@@ -1,0 +1,8 @@
+src/
+tests/
+.gitignore
+LICENSE
+README.md
+SaasApiResourceMap.txt
+codeception.yml
+composer.json

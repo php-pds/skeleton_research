@@ -1,0 +1,4 @@
+src/Uecode/Bundle/DaemonBundle/
+.gitignore
+README.md
+composer.json

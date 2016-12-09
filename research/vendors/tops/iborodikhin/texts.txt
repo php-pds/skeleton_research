@@ -1,0 +1,5 @@
+data/
+src/Texts/
+LICENSE
+README.md
+composer.json

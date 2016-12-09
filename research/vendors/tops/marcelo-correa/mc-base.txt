@@ -1,0 +1,5 @@
+config/
+src/MCBase/
+Module.php
+README.md
+composer.json

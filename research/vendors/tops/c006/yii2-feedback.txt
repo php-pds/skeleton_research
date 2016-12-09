@@ -1,0 +1,8 @@
+controllers/
+migrations/
+models/
+views/
+Module.php
+README.md
+WidgetFeedback.php
+composer.json

@@ -1,0 +1,10 @@
+Command/
+DependencyInjection/
+Generator/
+Resources/config/
+Tests/
+.gitignore
+StringGeneratorBundle.php
+composer.json
+composer.lock
+phpunit.xml.dist

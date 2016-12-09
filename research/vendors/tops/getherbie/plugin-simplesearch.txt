@@ -1,0 +1,7 @@
+messages/
+pages/
+templates/
+LICENCE.md
+README.md
+composer.json
+simplesearch.php

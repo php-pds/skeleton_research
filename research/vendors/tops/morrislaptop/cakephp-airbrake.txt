@@ -1,0 +1,7 @@
+Config/
+Lib/
+.editorconfig
+.gitignore
+README.md
+composer.json
+composer.lock

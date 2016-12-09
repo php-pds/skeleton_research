@@ -1,0 +1,3 @@
+conditions/
+Notice_Manager.php
+composer.json

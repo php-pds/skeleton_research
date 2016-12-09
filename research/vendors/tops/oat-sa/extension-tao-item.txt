@@ -1,0 +1,12 @@
+actions/
+helpers/
+includes/
+locales/
+models/
+scripts/
+test/
+views/
+LICENSE
+README.md
+composer.json
+manifest.php

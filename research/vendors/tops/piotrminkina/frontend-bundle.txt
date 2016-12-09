@@ -1,0 +1,14 @@
+DependencyInjection/
+EventListener/
+Resources/
+Templating/
+Tests/
+Twig/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+PMDFrontendBundle.php
+README.md
+composer.json
+phpunit.xml.dist

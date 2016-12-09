@@ -1,0 +1,15 @@
+.externalToolBuilders/
+.settings/
+config/
+public/
+sql/
+src/
+starter-templates/layouts/blog/
+views/
+.buildpath
+.htaccess
+.project
+COPYRIGHT.txt
+LICENCE.txt
+README.MD
+composer.json

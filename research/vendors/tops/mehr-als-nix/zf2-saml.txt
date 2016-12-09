@@ -1,0 +1,14 @@
+config/
+src/
+test/
+view/zf/auth/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+Module.php
+README.md
+composer.json
+phpcs.xml
+phpmd.xml
+phpunit.xml

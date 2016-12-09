@@ -1,0 +1,9 @@
+Bridge/
+Exception/
+Storage/
+Tests/
+.gitignore
+Repository.php
+SessionManager.php
+composer.json
+phpunit.xml

@@ -1,0 +1,16 @@
+_config/
+code/
+css/
+images/screens/
+js/
+.editorconfig
+.gitattributes
+.gitignore
+.gitmodules
+.php_cs
+.scrutinizer.yml
+LICENSE
+_config.php
+composer.json
+grunt-menu.sh
+readme.md

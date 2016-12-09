@@ -1,0 +1,5 @@
+classes/
+config/
+lang/english/
+README.md
+composer.json

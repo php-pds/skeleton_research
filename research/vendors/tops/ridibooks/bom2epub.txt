@@ -1,0 +1,5 @@
+src/EPub/
+template/
+.gitignore
+LICENSE
+composer.json

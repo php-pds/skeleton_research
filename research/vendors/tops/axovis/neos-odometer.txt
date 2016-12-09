@@ -1,0 +1,5 @@
+Configuration/
+Resources/
+.gitignore
+bower.json
+composer.json

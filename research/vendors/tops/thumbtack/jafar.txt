@@ -1,0 +1,7 @@
+bin/
+lib/
+.travis.yml
+COPYING
+Readme.markdown
+composer.json
+test.sh

@@ -1,0 +1,6 @@
+assets/
+data/
+views/
+LICENSE-MIT.md
+README.md
+composer.json

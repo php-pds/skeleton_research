@@ -1,0 +1,9 @@
+examples/
+extras/
+includes/
+install/
+tools/
+README.md
+composer.json
+control_registry.inc.php
+qcubed.inc.php

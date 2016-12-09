@@ -1,0 +1,7 @@
+Views/NotFound/
+bin/
+docs/
+lib/
+LICENSE
+README.md
+composer.json

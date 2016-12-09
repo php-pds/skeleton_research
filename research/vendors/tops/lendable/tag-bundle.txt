@@ -1,0 +1,9 @@
+DependencyInjection/
+Entity/
+EventListener/
+Repository/
+Resources/config/
+Traits/
+AlphaTagBundle.php
+README.md
+composer.json

@@ -1,0 +1,12 @@
+src/
+tests/Unit/
+.editorconfig
+.gitattributes
+.gitignore
+.php_cs
+.scrutinizer.yml
+.styleci.yml
+.travis.yml
+Readme.md
+composer.json
+phpunit.xml.dist

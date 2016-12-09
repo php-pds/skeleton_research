@@ -1,0 +1,10 @@
+dist/
+src/
+tests/
+.gitignore
+CHANGELOG.md
+LICENSE
+README.md
+composer.json
+package.json
+webpack.config.js

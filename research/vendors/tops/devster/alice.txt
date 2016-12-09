@@ -1,0 +1,11 @@
+src/Nelmio/Alice/
+tests/
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+UPGRADE.md
+composer.json
+composer.lock
+phpunit.xml.dist

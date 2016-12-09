@@ -1,0 +1,7 @@
+bin/
+config/
+lib/Mougrim/GitAutocommitter/
+logs/
+.gitignore
+composer.json
+composer.lock

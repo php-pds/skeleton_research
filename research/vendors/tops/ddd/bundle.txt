@@ -1,0 +1,4 @@
+DependencyInjection/
+Resources/config/
+DddBundle.php
+composer.json

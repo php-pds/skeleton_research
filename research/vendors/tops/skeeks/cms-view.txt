@@ -1,0 +1,10 @@
+_ide/
+config/
+messages/ru/
+CHANGELOG.md
+LICENSE.md
+README.md
+ThemeComponent.php
+ViewComponent.php
+ViewComponentSettings.php
+composer.json

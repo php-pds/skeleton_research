@@ -1,0 +1,10 @@
+bin/
+src/
+.gitignore
+.hhconfig
+.travis.yml
+Hackunit.php
+LICENSE
+README.md
+composer.json
+test.php

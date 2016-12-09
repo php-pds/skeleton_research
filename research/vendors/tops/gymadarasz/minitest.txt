@@ -1,0 +1,5 @@
+LICENSE
+MiniTestAbstract.php
+MiniTestInterface.php
+README.md
+composer.json

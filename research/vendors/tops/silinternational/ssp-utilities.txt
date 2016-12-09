@@ -1,0 +1,12 @@
+src/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+Makefile
+README.md
+Vagrantfile
+composer.json
+composer.lock
+docker-compose.yml
+run_tests.sh

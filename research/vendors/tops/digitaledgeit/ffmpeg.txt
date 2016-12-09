@@ -1,0 +1,5 @@
+src/deit/ffmpeg/
+tests/
+composer.json
+composer.lock
+phpunit.xml

@@ -1,0 +1,12 @@
+Component/
+Controller/
+DependencyInjection/
+Entity/
+Form/
+Interfaces/
+Resources/
+Tests/Controller/
+DaemonSimplifyBundle.php
+LICENSE
+README.md
+composer.json

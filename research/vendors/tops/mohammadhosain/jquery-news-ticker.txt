@@ -1,0 +1,5 @@
+LICENSE
+README.md
+composer.json
+example.html
+jqueryTicker.js

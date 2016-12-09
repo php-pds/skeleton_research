@@ -1,0 +1,10 @@
+migrations/
+src/SQRT/DB/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phinx.yml
+phpunit.xml.dist

@@ -1,0 +1,15 @@
+DependencyInjection/
+Resources/config/
+Security/
+Tests/Units/Security/
+Twig/Extension/
+.atoum.php
+.bootstrap.atoum.php
+.gitignore
+.scrutinizer.yml
+.travis.yml
+JDecoolSecurityRoleCheckerBundle.php
+LICENSE
+README.md
+appveyor.yml
+composer.json

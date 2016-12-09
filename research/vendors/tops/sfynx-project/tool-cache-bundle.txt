@@ -1,0 +1,13 @@
+Builder/
+Command/
+DependencyInjection/
+Manager/
+Resources/config/
+Session/Storage/Handler/
+Tests/DependencyInjection/
+.gitignore
+.travis.yml
+LICENSE
+SfynxCacheBundle.php
+composer.json
+phpunit.xml.dist

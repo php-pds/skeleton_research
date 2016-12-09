@@ -1,0 +1,8 @@
+behaviors/
+components/
+widgets/
+Bootstrap.php
+Module.php
+README.md
+composer.json
+config.php

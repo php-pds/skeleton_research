@@ -1,0 +1,5 @@
+system/modules/DomainRestrictedContent/
+.gitattributes
+.gitignore
+README.md
+composer.json

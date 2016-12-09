@@ -1,0 +1,13 @@
+bin/
+build/
+src/TranslationServer/
+tests/
+.editorconfig
+.formatter.yml
+.gitignore
+.php_cs
+LICENSE
+README.md
+box.json
+composer.json
+phpunit.xml.dist

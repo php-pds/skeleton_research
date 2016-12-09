@@ -1,0 +1,9 @@
+assets/
+config/
+languages/
+public/
+src/
+templates/backend/
+LICENSE
+README.md
+composer.json

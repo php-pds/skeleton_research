@@ -1,0 +1,6 @@
+.idea/
+assets/
+README.md
+TinyMceAssets.php
+TinyMceField.php
+composer.json

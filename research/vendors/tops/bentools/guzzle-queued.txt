@@ -1,0 +1,4 @@
+bin/
+src/BenTools/GuzzleQueued/
+README.md
+composer.json

@@ -1,0 +1,15 @@
+app/
+bin/
+src/
+tests/
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+appveyor.yml
+box.json
+build.xml
+composer.json
+composer.lock
+phpunit.xml.dist

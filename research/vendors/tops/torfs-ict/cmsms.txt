@@ -1,0 +1,11 @@
+.idea/
+ansible/
+cms/install/
+logs/
+src/
+.bowerrc
+.gitignore
+README.md
+Vagrantfile
+bower.json
+composer.json

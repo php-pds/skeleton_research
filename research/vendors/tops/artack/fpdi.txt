@@ -1,0 +1,6 @@
+src/fpdi/
+tests/
+.gitignore
+README.md
+composer.json
+update_package.sh

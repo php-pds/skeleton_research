@@ -1,0 +1,9 @@
+AngularAnimateAsset.php
+AngularAsset.php
+AngularI18nAsset.php
+AngularMainAsset.php
+AngularResourceAsset.php
+AngularRouteAsset.php
+AngularSanitizeAsset.php
+README.md
+composer.json

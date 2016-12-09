@@ -1,0 +1,4 @@
+src/
+COPYING
+README
+composer.json

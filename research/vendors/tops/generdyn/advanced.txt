@@ -1,0 +1,12 @@
+core.apps.axcelerate/
+core.apps.container/
+core.apps.css_editor/
+core.apps.dialog_prompt/
+core.apps.embed/
+core.apps.file_download/
+core.apps.iframe/
+core.apps.rssfeed/
+core.apps.shooting_scores/
+core.apps.text_popup/
+images/
+composer.json

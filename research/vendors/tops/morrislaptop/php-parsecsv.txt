@@ -1,0 +1,7 @@
+examples/
+.gitignore
+ChangeLog.txt
+License.txt
+README.md
+composer.json
+parsecsv.lib.php

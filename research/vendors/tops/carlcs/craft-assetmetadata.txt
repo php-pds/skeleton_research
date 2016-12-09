@@ -1,0 +1,17 @@
+_examples/
+controllers/
+fieldtypes/
+migrations/
+resources/
+services/
+templates/fieldtypes/assetmetadata/
+translations/
+twigextensions/
+variables/
+vendor/
+.gitignore
+AssetMetadataPlugin.php
+composer.json
+config.php
+readme.md
+releases.json

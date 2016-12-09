@@ -1,0 +1,5 @@
+Tests/Sirian/YMLParser/Parser/
+src/Sirian/YMLParser/
+.gitignore
+composer.json
+phpunit.xml.dist

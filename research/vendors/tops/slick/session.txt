@@ -1,0 +1,15 @@
+build/
+features/bootstrap/
+src/
+tests/
+.gitattributes
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CAHNGELOG.md
+LICENSE
+README.md
+behat.yml
+composer.json
+composer.lock
+phpunit.xml.dist

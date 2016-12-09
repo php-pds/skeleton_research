@@ -1,0 +1,16 @@
+.github/
+config/
+vendor/
+web/
+.editorconfig
+.env.example
+.gitattributes
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENSE.md
+README.md
+composer.json
+composer.lock
+phpcs.xml
+wp-cli.yml

@@ -1,0 +1,8 @@
+src/Keboola/Filter/
+tests/Keboola/Filter/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml

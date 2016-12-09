@@ -1,0 +1,15 @@
+Comparator/
+Exception/
+Manipulator/
+Model/
+Sorter/
+Tests/
+Validator/Constraints/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+TimeGenerator.php
+TimeGeneratorInterface.php
+composer.json
+phpunit.xml.dist

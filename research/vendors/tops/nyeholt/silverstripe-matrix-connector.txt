@@ -1,0 +1,10 @@
+code/
+images/matrix/
+remoteclients/
+templates/Layout/
+tests/
+CHANGELOG
+LICENSE
+VERSION
+_config.php
+composer.json

@@ -1,0 +1,7 @@
+src/Nicl/
+tests/Nicl/
+.gitignore
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

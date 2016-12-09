@@ -1,0 +1,8 @@
+Api/
+Model/
+Observer/
+Setup/
+etc/
+i18n/
+composer.json
+registration.php

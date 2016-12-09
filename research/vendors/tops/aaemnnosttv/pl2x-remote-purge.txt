@@ -1,0 +1,3 @@
+CHANGELOG.md
+composer.json
+pl2x-remote-purge.php

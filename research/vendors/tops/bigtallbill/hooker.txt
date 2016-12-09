@@ -1,0 +1,17 @@
+bin/
+build/
+main/
+src/Bigtallbill/
+tests/
+.coveralls.yml
+.gitignore
+.travis.yml
+README.md
+box.json
+build.sh
+composer.json
+composer.lock
+hooker-draft.json
+hooker.json
+phpunit.xml
+runtests.sh

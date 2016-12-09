@@ -1,0 +1,8 @@
+RestService/
+Test/
+.gitattributes
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml

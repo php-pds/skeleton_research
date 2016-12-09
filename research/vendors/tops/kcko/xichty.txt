@@ -1,0 +1,6 @@
+.gitattributes
+.gitignore
+a.txt
+b.txt
+composer.json
+readme.md

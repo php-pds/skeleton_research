@@ -1,0 +1,17 @@
+Cache/
+Exception/
+ExtractionStrategy/
+InjectionStrategy/
+Instanciator/
+Tests/
+.gitattributes
+.gitignore
+.scrutinizer.yml
+.travis.yml
+InstanciatorInterface.php
+LICENSE
+README.md
+ReflectionClass.php
+ReflectionObject.php
+composer.json
+phpunit.xml.dist

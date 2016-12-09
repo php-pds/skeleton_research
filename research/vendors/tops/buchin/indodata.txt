@@ -1,0 +1,7 @@
+spec/
+src/
+.gitignore
+.project
+.pydevproject
+README.md
+composer.json

@@ -1,0 +1,6 @@
+config/
+src/Module/Modules/
+.gitignore
+LICENSE
+README.md
+composer.json

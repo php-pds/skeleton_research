@@ -1,0 +1,8 @@
+Exceptions/
+Tests/
+.travis.yml
+Pdo.php
+README.md
+Schema.php
+SqlParser.php
+composer.json

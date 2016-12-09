@@ -1,0 +1,11 @@
+config/
+src/TranslatorTools/
+tests/
+vendor/
+.gitignore
+Module.php
+README.md
+autoload_classmap.php
+autoload_function.php
+autoload_register.php
+composer.json

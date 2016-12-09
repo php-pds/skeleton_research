@@ -1,0 +1,8 @@
+example/
+src/CatLab/Mailer/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock
+dump.sql

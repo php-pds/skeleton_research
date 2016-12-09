@@ -1,0 +1,4 @@
+src/Voodoo/
+.gitignore
+ReadMe.md
+composer.json

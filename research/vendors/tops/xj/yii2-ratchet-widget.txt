@@ -1,0 +1,7 @@
+widgets/
+.gitignore
+README.md
+RatchetAndroidAsset.php
+RatchetAsset.php
+RatchetIosAsset.php
+composer.json

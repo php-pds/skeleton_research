@@ -1,0 +1,7 @@
+assets/tinymce4/plugins/colorpicker/
+system/modules/TinyMceColorpicker/
+.gitattributes
+.gitignore
+README.md
+composer.json
+screenshot.jpg

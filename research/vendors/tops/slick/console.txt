@@ -1,0 +1,17 @@
+.idea/
+bin/
+build/
+features/bootstrap/
+src/
+tests/Console/Command/
+.gitattributes
+.gitignore
+.scruninizer.yml
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+behat.yml
+composer.json
+composer.lock
+phpunit.xml.dist

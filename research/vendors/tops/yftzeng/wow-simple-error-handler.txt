@@ -1,0 +1,4 @@
+src/Wow/Exception/
+LICENSE.MIT
+README.markdown
+composer.json

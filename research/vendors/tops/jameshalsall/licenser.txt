@@ -1,0 +1,10 @@
+bin/
+licenses/
+src/
+tests/Licenser/Factory/
+.editorconfig
+.gitignore
+LICENSE
+README.md
+composer.json
+phpunit.xml

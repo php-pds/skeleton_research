@@ -1,0 +1,4 @@
+Configuration/
+Resources/
+Scripts/
+composer.json

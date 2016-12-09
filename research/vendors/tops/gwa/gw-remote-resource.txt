@@ -1,0 +1,5 @@
+src/Gwa/Remote/
+tests/
+LICENSE
+README.md
+composer.json

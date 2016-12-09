@@ -1,0 +1,6 @@
+config/
+src/
+LICENSE.txt
+README.rst
+VERSION.txt
+composer.json

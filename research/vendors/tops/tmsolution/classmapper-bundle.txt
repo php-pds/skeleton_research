@@ -1,0 +1,10 @@
+Command/
+Controller/
+DependencyInjection/
+EventListener/
+Resources/
+Service/
+Tests/Controller/
+CoreClassMapperBundle.php
+README.md
+composer.json

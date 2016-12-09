@@ -1,0 +1,9 @@
+config/
+src/G403Translator/Translator/
+tests/
+.gitignore
+LICENSE.txt
+Module.php
+README.md
+autoload_classmap.php
+composer.json

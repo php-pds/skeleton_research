@@ -1,0 +1,5 @@
+.gitattributes
+README.md
+UNLICENSE
+composer.json
+exit-codes.php

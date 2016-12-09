@@ -1,0 +1,12 @@
+cs @ 835b45f
+src/BEAR/PhptalModule/Provide/TemplateEngine/
+tests/
+tmp/
+.gitignore
+.gitmodules
+.travis.yml
+README.md
+build.xml
+composer.json
+composer.lock
+phpunit.xml

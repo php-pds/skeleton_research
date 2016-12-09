@@ -1,0 +1,10 @@
+src/
+ut/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock
+mlogging.md
+phpunit.xml
+test.php

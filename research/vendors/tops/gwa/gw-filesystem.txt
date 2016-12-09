@@ -1,0 +1,9 @@
+src/Gwa/Filesystem/
+tests/
+.gitignore
+.php_cs
+.scrutinizer.yml
+.travis.yml
+README.md
+composer.json
+phpunit.xml

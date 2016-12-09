@@ -1,0 +1,7 @@
+source/Net/Bazzline/Component/PsrAndLog4PhpAdapter/
+tests/Net/Bazzline/Component/PsrAndLog4PhpAdapter/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json

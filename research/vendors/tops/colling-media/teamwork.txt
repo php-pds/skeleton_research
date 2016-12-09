@@ -1,0 +1,11 @@
+src/Rossedman/Teamwork/
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+README.md
+changes.md
+composer.json
+composer.lock
+license.txt
+phpunit.xml

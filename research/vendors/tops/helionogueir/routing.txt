@@ -1,0 +1,5 @@
+core/
+tests/
+LICENSE
+README.md
+composer.json

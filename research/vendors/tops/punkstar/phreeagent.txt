@@ -1,0 +1,6 @@
+src/Phreeagent/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock

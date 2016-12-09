@@ -1,0 +1,7 @@
+Client/
+Model/
+Serializer/
+Storage/
+Manager.php
+README.md
+composer.json

@@ -1,0 +1,11 @@
+config/
+public/
+src/
+view/rcm-slide-share/
+.gitignore
+.travis.yml
+LICENSE.txt
+README.md
+composer.json
+phpmd.xml
+phpunit.xml

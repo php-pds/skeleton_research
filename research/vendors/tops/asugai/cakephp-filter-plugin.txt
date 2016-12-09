@@ -1,0 +1,8 @@
+Controller/
+Model/
+Test/
+View/
+COPYING.GPL
+COPYING.LGPL
+README.markdown
+composer.json

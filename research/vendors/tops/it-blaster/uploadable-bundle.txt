@@ -1,0 +1,8 @@
+DependencyInjection/
+File/
+Form/
+Resources/
+FenrizbesUploadableBundle.php
+LICENSE
+README.md
+composer.json

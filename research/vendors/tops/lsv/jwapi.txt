@@ -1,0 +1,12 @@
+src/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+apigen.neon
+composer.json
+composer.lock
+config.dist.yml
+localtest.sh
+phpdoc.xml
+phpunit.dist.xml

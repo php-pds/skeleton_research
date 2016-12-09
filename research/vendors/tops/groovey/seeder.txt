@@ -1,0 +1,12 @@
+database/
+src/
+tests/
+.editorconfig
+.gitattributes
+.gitignore
+LICENSE
+README.md
+composer.json
+groovey
+groovey.jpg
+phpunit.xml

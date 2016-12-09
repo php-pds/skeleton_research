@@ -1,0 +1,12 @@
+Behat/
+DependencyInjection/
+Doctrine/
+Model/
+Resources/
+Service/
+Symfony/
+Utils/
+Functions.php
+KfKitBundle.php
+README.md
+composer.json

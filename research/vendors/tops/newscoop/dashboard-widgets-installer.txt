@@ -1,0 +1,4 @@
+src/Newscoop/Composer/
+LICENSE
+README.md
+composer.json

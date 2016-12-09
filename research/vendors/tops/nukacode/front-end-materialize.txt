@@ -1,0 +1,13 @@
+docs/
+src/
+tests/spec/NukaCode/Bootstrap/Html/
+.bowerrc
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+admin.json
+bower.json
+composer.json
+composer.lock
+phpspec.yml

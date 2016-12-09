@@ -1,0 +1,9 @@
+i18n/
+includes/
+libs/
+LICENSE
+README.md
+SemanticDataImport.i18n.php
+SemanticDataImport.php
+TODO.md
+composer.json

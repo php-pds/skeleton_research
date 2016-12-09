@@ -1,0 +1,14 @@
+Client/
+DependencyInjection/
+Event/
+Resources/config/
+Service/
+Tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+WerkspotStatsdBundle.php
+composer.json
+phpunit.xml.dist

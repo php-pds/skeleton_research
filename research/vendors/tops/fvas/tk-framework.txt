@@ -1,0 +1,6 @@
+Tk/
+config/
+tests/Tk/
+changelog.md
+composer.json
+readme.md

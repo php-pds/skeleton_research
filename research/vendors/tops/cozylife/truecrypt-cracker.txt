@@ -1,0 +1,6 @@
+.gitignore
+LICENSE
+README.md
+composer.json
+example.php
+truecryptcracker.php

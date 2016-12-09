@@ -1,0 +1,5 @@
+src/Template/Bake/
+.gitignore
+LICENSE
+README.md
+composer.json

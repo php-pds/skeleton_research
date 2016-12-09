@@ -1,0 +1,9 @@
+SendGrid/
+Test/
+lib/swift/
+.gitignore
+MIT.LICENSE
+README.md
+SendGrid.php
+SendGrid_loader.php
+composer.json

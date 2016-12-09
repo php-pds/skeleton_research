@@ -1,0 +1,12 @@
+.idea/
+provider/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+PushNotification.php
+README.md
+composer.json
+composer.lock
+mongodb-setup.sh
+phpunit.xml.dist

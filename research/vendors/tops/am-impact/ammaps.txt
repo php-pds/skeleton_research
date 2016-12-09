@@ -1,0 +1,11 @@
+fieldtypes/
+migrations/
+models/
+records/
+resources/
+services/
+templates/
+translations/
+AmMapsPlugin.php
+README.md
+composer.json

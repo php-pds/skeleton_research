@@ -1,0 +1,5 @@
+assets/2.1.1/
+LICENSE
+README.md
+composer.json
+qTip2.php

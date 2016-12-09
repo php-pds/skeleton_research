@@ -1,0 +1,10 @@
+config/
+src/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+Module.php
+README.md
+autoload_classmap.php
+composer.json

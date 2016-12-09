@@ -1,0 +1,11 @@
+Bridge/
+Controller/
+DependencyInjection/
+Factory/
+Model/
+Resources/
+Service/
+Tests/Controller/
+README.md
+StriideCalendarBundle.php
+composer.json

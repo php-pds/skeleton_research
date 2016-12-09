@@ -1,0 +1,6 @@
+DependencyInjection/
+Menu/
+Resources/
+EnhavoDashboardBundle.php
+LICENSE
+composer.json

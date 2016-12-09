@@ -1,0 +1,10 @@
+translations/
+README.md
+composer.json
+filechunk.ajax.inc
+filechunk.css
+filechunk.element.inc
+filechunk.field.inc
+filechunk.info
+filechunk.js
+filechunk.module

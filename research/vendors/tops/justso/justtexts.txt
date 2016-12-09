@@ -1,0 +1,15 @@
+frontend/
+test/
+LICENCE
+LanguageService.php
+Page.php
+PageInterface.php
+PageList.php
+PageService.php
+PluginLoader.php
+README.md
+Text.php
+TextInterface.php
+TextService.php
+composer.json
+services.json

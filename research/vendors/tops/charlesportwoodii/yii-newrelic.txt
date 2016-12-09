@@ -1,0 +1,6 @@
+behaviors/
+CHANGELOG
+README.md
+YiiNewRelic.php
+YiiNewRelicClientScript.php
+composer.json

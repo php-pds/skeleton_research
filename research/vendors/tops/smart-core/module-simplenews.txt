@@ -1,0 +1,8 @@
+Controller/
+DependencyInjection/Compiler/
+Entity/
+Form/Type/
+Resources/
+README.md
+SimpleNewsModule.php
+composer.json

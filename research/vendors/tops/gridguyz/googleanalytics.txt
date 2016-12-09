@@ -1,0 +1,13 @@
+config/
+icons/
+languages/googleAnalytics/
+public/
+sql/
+src/Grid/GoogleAnalytics/
+vendor/
+view/grid/google-analytics/
+.gitignore
+LICENSE.txt
+Module.php
+README.md
+composer.json

@@ -1,0 +1,9 @@
+example/
+helpers/
+migrations/
+models/
+.gitignore
+Module.php
+README_spanish.md
+Readme.md
+composer.json

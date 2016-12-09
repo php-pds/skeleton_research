@@ -1,0 +1,11 @@
+js/
+less/forum/
+locale/
+migrations/
+scripts/
+src/
+LICENSE
+README.md
+bootstrap.php
+composer.json
+header.png

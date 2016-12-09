@@ -1,0 +1,7 @@
+ActiveCollab/
+.gitignore
+LICENSE
+README.md
+VERSION
+composer.json
+example.php

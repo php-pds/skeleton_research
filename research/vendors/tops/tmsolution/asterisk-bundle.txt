@@ -1,0 +1,10 @@
+Controller/
+DependencyInjection/
+Entity/
+Event/
+EventListener/
+Resources/
+Service/
+Tests/Controller/
+CoreAsteriskBundle.php
+composer.json

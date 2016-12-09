@@ -1,0 +1,7 @@
+DependencyInjection/
+Resources/config/
+.gitignore
+DandomainApiBundle.php
+LICENSE
+README.md
+composer.json

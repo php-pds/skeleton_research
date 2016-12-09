@@ -1,0 +1,14 @@
+assets/
+behaviors/
+components/
+controllers/
+migrations/
+models/
+views/
+widgets/
+.gitignore
+CHANGELOG.md
+LICENSE
+Module.php
+README.md
+composer.json

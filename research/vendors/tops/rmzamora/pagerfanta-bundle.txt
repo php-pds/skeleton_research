@@ -1,0 +1,8 @@
+DependencyInjection/
+Resources/
+Twig/
+View/
+LICENSE
+README.md
+WhiteOctoberPagerfantaBundle.php
+composer.json

@@ -1,0 +1,15 @@
+build/release/
+i18n/
+maintenance/
+src/
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+COPYING
+README.md
+RELEASE-NOTES.md
+SemanticGlossary.php
+composer.json
+extension.json
+phpunit.xml.dist

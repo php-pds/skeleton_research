@@ -1,0 +1,10 @@
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CacheTagBehavior.php
+LICENSE
+README.md
+TagsDependency.php
+composer.json
+phpunit.xml

@@ -1,0 +1,8 @@
+src/Comments/
+tests/src/
+.gitattributes
+.gitignore
+.travis.yml
+composer.json
+license.md
+readme.md

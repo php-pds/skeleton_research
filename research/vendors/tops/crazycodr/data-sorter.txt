@@ -1,0 +1,10 @@
+src/CrazyCodr/Data/Sorter/
+tests/CrazyCodr/Data/Sorter/
+.gitattributes
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.php
+phpunit.xml

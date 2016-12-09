@@ -1,0 +1,12 @@
+DependencyInjection/
+EventListener/
+Form/Type/
+Locale/
+Model/
+Resources/
+Twig/Extension/
+.gitignore
+BaconTranslationFormBundle.php
+LICENSE
+README.md
+composer.json

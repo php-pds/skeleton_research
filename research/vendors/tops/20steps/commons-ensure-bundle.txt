@@ -1,0 +1,12 @@
+DependencyInjection/
+Tests/
+.gitignore
+.travis.yml
+COPYING
+COPYING.LESSER
+Ensure.php
+EnsureException.php
+README.md
+composer.json
+phpunit.xml.dist
+twentystepsCommonsEnsureBundle.php

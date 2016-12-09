@@ -1,0 +1,10 @@
+Net/
+docs/
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+README.md
+composer.json
+package.xml
+phpunit.xml.dist

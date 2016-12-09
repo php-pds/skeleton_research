@@ -1,0 +1,7 @@
+_config/
+code/
+.editorconfig
+.gitattributes
+.gitignore
+README.md
+composer.json

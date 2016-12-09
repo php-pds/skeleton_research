@@ -1,0 +1,16 @@
+Resources/config/
+Tests/
+src/CourseHero/SymfonyCronBundle/
+.coveralls.yml
+.gitignore
+.travis.yml
+CHANGELOG.md
+CONTRIBUTING.md
+LICENSE
+NOTICE
+README.md
+UPGRADE.md
+composer.json
+install.sh
+phpunit.sh
+phpunit.xml.dist

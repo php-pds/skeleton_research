@@ -1,0 +1,15 @@
+Command/
+DependencyInjection/
+Event/
+Model/
+Resources/
+Security/
+Tests/
+.gitignore
+.travis.yml
+LICENSE
+PubleroTokenAuthenticationBundle.php
+PubleroTokenAuthenticationEvents.php
+README.md
+composer.json
+phpunit.xml.dist

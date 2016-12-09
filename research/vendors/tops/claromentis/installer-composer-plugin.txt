@@ -1,0 +1,4 @@
+src/Claromentis/Composer/
+.gitignore
+README.md
+composer.json

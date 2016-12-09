@@ -1,0 +1,4 @@
+Configuration/
+Documentation/
+Resources/Private/
+composer.json

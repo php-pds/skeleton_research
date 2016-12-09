@@ -1,0 +1,5 @@
+core/
+third_party/MX/
+.gitignore
+README.md
+composer.json

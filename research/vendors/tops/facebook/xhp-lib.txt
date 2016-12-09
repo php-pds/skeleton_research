@@ -1,0 +1,16 @@
+bin/
+src/
+tests/
+.gitattributes
+.gitignore
+.hhconfig
+.travis.yml
+INTERNALS.md
+LICENSE
+MIGRATING.md
+PATENTS
+README.textile
+autoload-map.php
+composer.json
+composer.lock
+init.php

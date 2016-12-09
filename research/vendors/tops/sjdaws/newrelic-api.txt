@@ -1,0 +1,7 @@
+docs/
+src/Sjdaws/NewRelicApi/
+.gitignore
+composer.json
+composer.lock
+licence
+readme.md

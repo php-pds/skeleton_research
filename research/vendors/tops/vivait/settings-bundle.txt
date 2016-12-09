@@ -1,0 +1,7 @@
+spec/Vivait/SettingsBundle/
+src/Vivait/SettingsBundle/
+.gitignore
+.travis.yml
+README.md
+composer.json
+composer.lock

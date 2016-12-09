@@ -1,0 +1,13 @@
+actions/videolist/
+classes/Videolist/
+graphics/
+languages/
+lib/
+pages/videolist/
+upgrades/
+views/
+.gitignore
+composer.json
+manifest.xml
+start.php
+thumbnail.php

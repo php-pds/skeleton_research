@@ -1,0 +1,12 @@
+example/
+lib/xhp-bootstrap/
+tests/
+.gitignore
+.hhconfig
+.travis.yml
+CONTRIBUTING.md
+LICENSE
+PATENTS
+README.md
+composer.json
+composer.lock

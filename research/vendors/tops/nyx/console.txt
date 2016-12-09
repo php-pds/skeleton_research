@@ -1,0 +1,12 @@
+input/
+interfaces/
+terminals/
+tests/
+traits/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+Terminal.php
+composer.json
+phpunit.xml.dist

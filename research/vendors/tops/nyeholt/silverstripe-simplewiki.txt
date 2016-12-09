@@ -1,0 +1,14 @@
+code/
+css/
+images/
+javascript/
+templates/
+tests/
+thirdparty/
+.gitattributes
+.gitignore
+LICENSE
+README
+TODO
+_config.php
+composer.json

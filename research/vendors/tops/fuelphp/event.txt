@@ -1,0 +1,11 @@
+src/
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+changelog.md
+codeception.yml
+composer.json
+facades.md
+queue.md
+readme.md

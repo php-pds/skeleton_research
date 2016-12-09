@@ -1,0 +1,11 @@
+app/
+tests/
+.gitignore
+.travis.yml
+README.md
+build.xml
+cli-config.php
+composer.json
+index.html
+phpdoc.dist.xml
+phpunit.xml

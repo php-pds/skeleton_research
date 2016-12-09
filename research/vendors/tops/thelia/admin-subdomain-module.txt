@@ -1,0 +1,8 @@
+Config/
+EventListener/
+Helper/
+Tests/phpunit/
+AdminSubdomain.php
+CHANGELOG.txt
+Readme.md
+composer.json

@@ -1,0 +1,8 @@
+config/
+database/
+src/
+tests/
+views/
+.gitignore
+composer.json
+readme.md

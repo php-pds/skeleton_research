@@ -1,0 +1,4 @@
+src/Beesperester/Fileresource/
+.gitignore
+README.md
+composer.json

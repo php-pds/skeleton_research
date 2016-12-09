@@ -1,0 +1,9 @@
+spec/Laracasts/Validation/
+src/Laracasts/Validation/
+.gitignore
+.travis.yml
+LICENSE
+composer.json
+phpspec.yml
+phpunit.xml
+readme.md

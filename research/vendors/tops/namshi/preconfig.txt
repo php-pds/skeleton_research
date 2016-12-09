@@ -1,0 +1,6 @@
+spec/Namshi/PreConfig/
+src/Namshi/PreConfig/
+.gitignore
+.travis.yml
+README.md
+composer.json

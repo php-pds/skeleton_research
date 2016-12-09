@@ -1,0 +1,14 @@
+aspect/Aspect/
+config/
+data/cache/
+module/Application/
+public/
+vendor/
+.gitignore
+.gitmodules
+LICENSE.txt
+README.md
+composer.json
+composer.phar
+init_aspect.php
+init_autoloader.php

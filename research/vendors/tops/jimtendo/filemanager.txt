@@ -1,0 +1,9 @@
+config/
+lang/
+public/js/
+src/
+views/
+.gitignore
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,9 @@
+lib/classloadhelpers/
+src/
+.gitignore
+CHANGELOG.md
+CONTRIBUTING.md
+CREDITS.md
+LICENSE.txt
+README.md
+composer.json

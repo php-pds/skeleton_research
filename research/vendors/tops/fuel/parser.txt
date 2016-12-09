@@ -1,0 +1,6 @@
+classes/
+config/
+.gitignore
+README.md
+bootstrap.php
+composer.json

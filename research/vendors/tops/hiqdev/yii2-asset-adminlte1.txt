@@ -1,0 +1,7 @@
+.hidev/
+.gitignore
+AdminLteAsset.php
+CHANGELOG.md
+LICENSE
+README.md
+composer.json

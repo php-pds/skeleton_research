@@ -1,0 +1,13 @@
+.gitignore
+README.md
+composer.json
+stringoverrides.admin.css
+stringoverrides.admin.inc
+stringoverrides.drush.inc
+stringoverrides.info
+stringoverrides.install
+stringoverrides.module
+stringoverrides.test
+stringoverrides_migrate.admin.inc
+stringoverrides_migrate.info
+stringoverrides_migrate.module

@@ -1,0 +1,6 @@
+assets/
+compatibility/
+src/
+acf-qtranslate.php
+composer.json
+readme.txt

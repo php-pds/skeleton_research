@@ -1,0 +1,4 @@
+src/Vivait/ScrutinizerFormatterExtension/
+LICENSE
+README.md
+composer.json

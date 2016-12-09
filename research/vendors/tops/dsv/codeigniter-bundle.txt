@@ -1,0 +1,9 @@
+bin/
+config/
+core/
+src/Commands/
+.gitignore
+Bundle.php
+LICENCE
+README.md
+composer.json

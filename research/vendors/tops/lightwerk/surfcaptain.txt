@@ -1,0 +1,17 @@
+Classes/Lightwerk/SurfCaptain/
+Configuration/
+Documentation/
+Migrations/Mysql/
+Resources/
+Tests/Unit/
+grunt/
+.bowerrc
+.gitignore
+.jshintrc
+Gruntfile.js
+LICENSE
+Readme.md
+bower.json
+composer.json
+karma.conf.js
+package.json

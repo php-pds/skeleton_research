@@ -1,0 +1,8 @@
+src/Siciarek/AdRotatorBundle/
+.gitattributes
+.gitignore
+LICENSE
+README.md
+build.xml
+composer.json
+properties.cnf.dist

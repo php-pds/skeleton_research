@@ -1,0 +1,17 @@
+app/
+src/WellCommerce/
+web/
+.gitattributes
+.gitignore
+.scrutinizer.yml
+.travis.yml
+Gulpfile.js
+LICENSE
+README.md
+app.json
+composer.json
+composer.lock
+gitsync.sh
+metrics.html
+package.json
+phpunit.xml.dist

@@ -1,0 +1,6 @@
+controllers/
+lib/
+static/
+.gitignore
+composer.json
+plugin.xml

@@ -1,0 +1,13 @@
+controllers/
+migrations/
+models/
+records/
+services/
+templates/settings/
+translations/
+variables/
+.gitignore
+AutoExpirePlugin.php
+composer.json
+readme.md
+releases.json

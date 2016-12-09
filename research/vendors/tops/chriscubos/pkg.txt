@@ -1,0 +1,13 @@
+src/
+.editorconfig
+.scrutinizer.yml
+.styleci.yml
+.travis.yml
+CHANGELOG.md
+CONDUCT.md
+CONTRIBUTING.md
+ISSUE.md
+LICENSE.md
+PULL_REQUEST.md
+README.md
+composer.json

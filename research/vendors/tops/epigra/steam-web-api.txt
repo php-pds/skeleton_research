@@ -1,0 +1,10 @@
+docs/
+public/
+src/Epigra/SteamWebApi/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml

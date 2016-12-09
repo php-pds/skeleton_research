@@ -1,0 +1,14 @@
+build/
+resources/
+src/
+tests/
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+build.xml
+composer.json
+phpdox.xml
+phpunit-coverage.xml.dist
+phpunit.xml.dist

@@ -1,0 +1,9 @@
+bin/
+class/
+doc/
+.gitignore
+.gitlab-ci.yml
+LICENSE
+Makefile
+README.md
+composer.json

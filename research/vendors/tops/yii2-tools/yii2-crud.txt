@@ -1,0 +1,10 @@
+traits/
+.gitignore
+Action.php
+CreateAction.php
+DeleteAction.php
+LICENSE.md
+README.md
+ReadAction.php
+UpdateAction.php
+composer.json

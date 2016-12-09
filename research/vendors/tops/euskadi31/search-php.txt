@@ -1,0 +1,10 @@
+bin/
+src/Search/
+tests/
+.gitignore
+.travis.yml
+LICENSE.md
+Makefile
+README.md
+composer.json
+composer.lock

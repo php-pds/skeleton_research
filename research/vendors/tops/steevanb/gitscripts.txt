@@ -1,0 +1,12 @@
+doc/
+.gitignore
+README.md
+addtag.sh
+composer.json
+deltag.sh
+deluntrackedbranch.sh
+functions.sh
+push.sh
+rebase.sh
+renamebranch.sh
+status.sh

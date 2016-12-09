@@ -1,0 +1,8 @@
+app/
+tests/
+vendor/
+www/
+.gitignore
+composer.json
+composer.lock
+readme.md

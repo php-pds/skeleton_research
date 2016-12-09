@@ -1,0 +1,7 @@
+src/ScubaClick/Geo/
+tests/
+.gitignore
+.travis.yml
+composer.json
+phpunit.xml
+readme.md

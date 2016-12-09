@@ -1,0 +1,9 @@
+doc/en/
+dummy/
+inc/
+.gitignore
+.superadmin
+composer.json
+dummy.zip
+index.php
+readme.md

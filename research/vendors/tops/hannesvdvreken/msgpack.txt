@@ -1,0 +1,10 @@
+src/
+tests/acceptance/
+.gitattributes
+.gitignore
+.scrutinizer.yml
+.travis.yml
+composer.json
+license
+phpunit.xml
+readme.md

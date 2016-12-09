@@ -1,0 +1,17 @@
+api/
+bin/
+config/deploy/
+lib/jsonp/
+tests/
+.gitignore
+.travis.yml
+Capfile
+Gruntfile.js
+README.md
+composer.json
+composer.lock
+dispatcher.php
+package.json
+phpunit.xml
+readme.txt
+thermal-api.php

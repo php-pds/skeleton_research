@@ -1,0 +1,7 @@
+DependencyInjection/
+Resources/
+.gitignore
+AmenophisPrinceBundle.php
+LICENSE
+README.md
+composer.json

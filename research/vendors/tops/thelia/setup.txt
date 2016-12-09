@@ -1,0 +1,17 @@
+I18n/
+faker-assets/
+import/
+update/
+.gitkeep
+.htaccess
+Readme.md
+composer.json
+faker.php
+faker_100categories_1000products_4locales.php
+faker_add_ecotax.php
+import.php
+insert.sql
+insert.sql.tpl
+tax_faker.php
+thelia.sql
+update.php

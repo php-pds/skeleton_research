@@ -1,0 +1,17 @@
+configuration/
+controllers/
+geocoder/
+static/
+tests/
+.gitignore
+.travis.yml
+README.markdown
+composer.json
+geocoder.php
+interface.php
+manifest.yml
+object.php
+phpunit.xml.dist
+spot.php
+user.php
+utils.php

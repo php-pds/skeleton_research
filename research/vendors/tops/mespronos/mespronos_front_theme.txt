@@ -1,0 +1,11 @@
+css/
+sass/
+.gitignore
+README.md
+composer.json
+config.rb
+favicon.ico
+logo.svg
+mespronos_front.info.yml
+mespronos_front.libraries.yml
+mespronos_front.theme

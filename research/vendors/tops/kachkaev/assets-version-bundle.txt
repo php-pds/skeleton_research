@@ -1,0 +1,14 @@
+Command/
+DependencyInjection/
+Resources/config/
+Tests/
+.coveralls.yml
+.gitignore
+.travis.yml
+AssetsVersionManager.php
+KachkaevAssetsVersionBundle.php
+LICENSE
+README.md
+UPGRADE.md
+composer.json
+phpunit.xml.dist

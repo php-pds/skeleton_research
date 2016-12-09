@@ -1,0 +1,13 @@
+components/
+console/controllers/
+controllers/
+messages/ru-RU/zelenin/modules/
+migrations/
+models/
+views/default/
+.gitignore
+Bootstrap.php
+LICENSE
+Module.php
+composer.json
+readme.md

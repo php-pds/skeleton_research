@@ -1,0 +1,11 @@
+Config/
+Controller/
+Locale/deu/LC_MESSAGES/
+Model/
+.gitattributes
+.gitignore
+CHANGELOG.txt
+LICENSE.txt
+README.md
+VERSION.txt
+composer.json

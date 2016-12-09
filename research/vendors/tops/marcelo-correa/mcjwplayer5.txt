@@ -1,0 +1,6 @@
+config/
+public/assets/
+src/MCJWPlayer5/
+Module.php
+README.md
+composer.json

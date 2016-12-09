@@ -1,0 +1,13 @@
+inc/
+.codeclimate.yml
+.editorconfig
+.gitignore
+README.md
+changelog.txt
+composer.json
+deploy.sh
+gulpfile.js
+license.txt
+package.json
+post-types-definitely.php
+readme.txt

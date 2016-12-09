@@ -1,0 +1,4 @@
+phpcs/Conpago/
+.gitignore
+LICENSE
+composer.json

@@ -1,0 +1,5 @@
+doc/
+src/ChromePHP/
+README.md
+VERSION.md
+composer.json

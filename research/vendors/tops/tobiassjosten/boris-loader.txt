@@ -1,0 +1,12 @@
+src/Boris/Loader/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+boris-loader.php
+composer.json
+composer.lock
+phpunit.bootstrapless.xml.dist
+phpunit.xml.dist
+symfony2_env_vars.md

@@ -1,0 +1,5 @@
+src/Cache/
+.gitignore
+README.md
+composer.json
+logo.png

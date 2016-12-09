@@ -1,0 +1,7 @@
+example/
+src/Redsuns/EmailComponent/
+.gitignore
+README.md
+composer.json
+composer.phar
+email-config-sample.php

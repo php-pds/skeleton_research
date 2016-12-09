@@ -1,0 +1,9 @@
+Command/
+DependencyInjection/
+Reactor/
+.gitignore
+ItscaroReactBundle.php
+LICENSE.md
+README.md
+composer.json
+composer.lock

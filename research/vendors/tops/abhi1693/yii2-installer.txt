@@ -1,0 +1,13 @@
+assets/
+controllers/
+helpers/
+migrations/
+models/
+views/
+.gitignore
+CHANGE.md
+CONTRIBUTING.md
+InstallerModule.php
+LICENSE.md
+README.md
+composer.json

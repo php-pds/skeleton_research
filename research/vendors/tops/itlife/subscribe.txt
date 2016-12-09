@@ -1,0 +1,7 @@
+.infra.json
+README.md
+composer.json
+subscribe.layer.json
+subscribe.mail.tpl
+subscribe.php
+subscribe.tpl

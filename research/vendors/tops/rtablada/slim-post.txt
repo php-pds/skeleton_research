@@ -1,0 +1,6 @@
+src/Rtablada/SlimPost/
+tests/Rtablada/SlimPost/
+vendor/
+composer.json
+phpunit.xml
+readme.md

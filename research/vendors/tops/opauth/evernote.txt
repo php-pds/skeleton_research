@@ -1,0 +1,5 @@
+Vendor/tmhOAuth/
+.gitignore
+EvernoteStrategy.php
+README.md
+composer.json

@@ -1,0 +1,10 @@
+build/
+src/dayax/
+.gitattributes
+.gitignore
+.travis.yml
+README.md
+autoload.php.dist
+build.xml
+composer.json
+phpunit.xml.dist

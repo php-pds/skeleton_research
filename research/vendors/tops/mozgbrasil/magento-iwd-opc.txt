@@ -1,0 +1,7 @@
+app/
+js/iwd/opc/
+skin/
+README.md
+composer.json
+modman
+package.xml

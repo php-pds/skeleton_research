@@ -1,0 +1,12 @@
+bin/
+phpunit/
+rulesets/
+src/
+tests/Service/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+dev.json
+phpunit.xml.dist

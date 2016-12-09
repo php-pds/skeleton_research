@@ -1,0 +1,5 @@
+lib/Doctrine/ODM/DynamoDB/
+.gitignore
+.php_cs
+.travis.yml
+composer.json

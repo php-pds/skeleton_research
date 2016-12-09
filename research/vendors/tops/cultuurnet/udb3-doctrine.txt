@@ -1,0 +1,4 @@
+spec/CultuurNet/UDB3/Doctrine/
+src/
+.gitignore
+composer.json

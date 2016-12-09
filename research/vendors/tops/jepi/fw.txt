@@ -1,0 +1,13 @@
+JepiFw/
+docu/diagrams/
+public/
+test/
+vendor/
+.htaccess
+.phpstorm.meta.php
+LICENSE
+README
+bootstrap.php
+composer.json
+index.php
+phpunit.xml

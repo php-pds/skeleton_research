@@ -1,0 +1,4 @@
+Resources/public/js/
+InnovaAngularUIResourcePickerBundle.php
+README.md
+composer.json

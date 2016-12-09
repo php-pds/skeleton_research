@@ -1,0 +1,15 @@
+.doc/
+.images/
+example/
+features/
+spec/Knp/Minibus/
+src/Knp/Minibus/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+behat.yml.dist
+composer.json
+funk.yml.dist
+phpspec.yml

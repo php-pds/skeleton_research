@@ -1,0 +1,10 @@
+config/
+src/
+tests/
+.gitignore
+CHANGELOG.md
+README.md
+composer.json
+composer.lock
+overseer.php
+phpunit.xml

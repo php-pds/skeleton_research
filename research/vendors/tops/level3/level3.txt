@@ -1,0 +1,10 @@
+doc/
+src/Level3/
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.sh
+.travis.yml
+README.md
+composer.json
+phpunit.xml.dist

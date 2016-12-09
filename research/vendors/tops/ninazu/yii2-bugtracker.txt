@@ -1,0 +1,3 @@
+BugTracker.php
+README.md
+composer.json

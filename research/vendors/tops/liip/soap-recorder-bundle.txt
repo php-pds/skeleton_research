@@ -1,0 +1,15 @@
+Client/
+DataCollector/
+DependencyInjection/
+Resources/
+Tests/
+.gitignore
+.travis.yml
+CHANGELOG
+LICENSE
+LiipSoapRecorderBundle.php
+README.md
+RMT
+composer.json
+phpunit.xml.dist
+rmt.json

@@ -1,0 +1,8 @@
+logs/
+.gitignore
+LICENSE
+README.md
+composer.json
+config.sample.php
+functions.php
+index.php

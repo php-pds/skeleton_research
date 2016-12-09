@@ -1,0 +1,9 @@
+Exception/
+Tests/
+.gitignore
+.travis.yml
+CacheBustingWorker.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

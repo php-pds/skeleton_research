@@ -1,0 +1,14 @@
+Controller/
+DependencyInjection/
+Event/
+Model/
+Resources/
+Service/
+Tests/
+.gitignore
+GordalinaIfmbBundle.php
+IfmbEvents.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

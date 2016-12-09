@@ -1,0 +1,13 @@
+bin/
+res/
+src/Scrutinizer/PhpAnalyzer/
+tests/
+.gitignore
+.phppm.yml
+.travis.yml
+LICENSE
+NOTICE
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

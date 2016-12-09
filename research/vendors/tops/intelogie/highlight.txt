@@ -1,0 +1,16 @@
+demo/
+docs/
+src/
+test/
+tools/
+.editorconfig
+.gitignore
+.travis.yml
+AUTHORS.en.txt
+AUTHORS.ru.txt
+CHANGES.md
+LICENSE
+README.md
+README.ru.md
+composer.json
+package.json

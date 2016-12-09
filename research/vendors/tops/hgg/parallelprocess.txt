@@ -1,0 +1,6 @@
+src/HGG/ParallelProcess/
+tests/
+LICENSE
+README.md
+composer.json
+phpunit.xml

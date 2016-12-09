@@ -1,0 +1,7 @@
+images/
+publishes/
+src/
+.gitignore
+LICENSE
+README.md
+composer.json

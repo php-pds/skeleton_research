@@ -1,0 +1,10 @@
+DependencyInjection/
+Document/
+Entity/
+Exception/
+Resources/config/
+Services/
+BITBinnacleBundle.php
+LICENSE
+README.md
+composer.json

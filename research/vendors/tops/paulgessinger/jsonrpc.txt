@@ -1,0 +1,8 @@
+src/PG/JsonRpc/
+.gitignore
+.travis.yml
+MIT-LICENSE.txt
+README.md
+composer.json
+index.dist.php
+phpunit.xml

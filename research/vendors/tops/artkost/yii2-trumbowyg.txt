@@ -1,0 +1,6 @@
+.gitignore
+Asset.php
+LICENSE
+README.md
+Widget.php
+composer.json

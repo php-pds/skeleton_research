@@ -1,0 +1,3 @@
+Classes/Netlogix/CrowdClient/
+Configuration/
+composer.json

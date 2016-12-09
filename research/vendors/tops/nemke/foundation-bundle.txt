@@ -1,0 +1,7 @@
+.idea/
+Resources/public/
+.gitignore
+FoundationBundle.php
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,11 @@
+assets/
+.gitignore
+EditableColumn.php
+EditableColumnAsset.php
+GroupGridView.php
+LICENSE.txt
+README.md
+ToggleAction.php
+ToggleColumn.php
+ToggleColumnAsset.php
+composer.json

@@ -1,0 +1,5 @@
+src/JedenWeb/Webpay/
+tests/
+.gitignore
+README.md
+composer.json

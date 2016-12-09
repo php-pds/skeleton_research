@@ -1,0 +1,14 @@
+Iso/
+.gitignore
+AcceptLanguage.php
+FileReader.php
+GettextEmulator.php
+README.md
+Route.php
+Strings.php
+Translator.php
+__.php
+autoload.inc.php
+composer.json
+domain.php
+gettext_reader.php

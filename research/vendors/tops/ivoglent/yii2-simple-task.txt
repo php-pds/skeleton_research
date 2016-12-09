@@ -1,0 +1,14 @@
+assets/
+configs/
+controllers/
+migrations/
+models/
+views/
+.gitignore
+LICENSE
+README.md
+SimpletaskModule.php
+TaskBootstrap.php
+composer.json
+config.php
+simple_task.sql

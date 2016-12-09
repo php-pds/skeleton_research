@@ -1,0 +1,14 @@
+Config/
+Event/
+EventListener/
+Handler/
+Loop/
+Model/
+Schema/
+Tests/
+CONTRIBUTORS.txt
+CustomerGroup.php
+LICENSE.txt
+README.md
+composer.json
+phpcbf.sh

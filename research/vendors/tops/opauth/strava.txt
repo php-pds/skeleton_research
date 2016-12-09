@@ -1,0 +1,3 @@
+README.md
+StravaStrategy.php
+composer.json

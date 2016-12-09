@@ -1,0 +1,8 @@
+Admin/
+DependencyInjection/
+Entity/
+Model/
+Resources/
+README.md
+WXRDirectoryBundle.php
+composer.json

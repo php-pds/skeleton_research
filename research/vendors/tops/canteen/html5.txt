@@ -1,0 +1,10 @@
+examples/
+src/
+.gitattributes
+.gitignore
+LICENSE
+README.md
+build.properties
+build.xml
+composer.json
+docs.json

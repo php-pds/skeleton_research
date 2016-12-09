@@ -1,0 +1,16 @@
+DependencyInjection/
+Doctrine/
+Entity/
+Exception/
+Form/Type/
+Model/
+Repository/
+Resources/
+Twig/Extension/
+spec/
+.gitignore
+.travis.yml
+FSiResourceRepositoryBundle.php
+LICENSE.md
+README.md
+composer.json

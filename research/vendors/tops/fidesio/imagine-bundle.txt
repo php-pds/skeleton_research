@@ -1,0 +1,14 @@
+Command/
+Controller/
+DependencyInjection/
+Exception/
+Imagine/
+Resources/config/
+Routing/
+Templating/
+Tests/Imagine/Filter/
+.gitignore
+AvalancheImagineBundle.php
+LICENSE
+README.md
+composer.json

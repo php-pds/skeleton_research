@@ -1,0 +1,7 @@
+setup @ 64bc464
+src/main/QafooLabs/ErrorHandler/
+.gitignore
+.gitmodules
+build.properties
+build.xml
+composer.json

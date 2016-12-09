@@ -1,0 +1,16 @@
+.idea/
+Admin/
+Controller/
+DependencyInjection/
+Entity/
+Exception/
+Resources/
+Tests/
+.coveralls.yml
+.gitignore
+.travis.yml
+AxstradPageBundle.php
+LICENSE
+Readme.md
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,5 @@
+app/
+config/
+store/
+www/
+composer.json

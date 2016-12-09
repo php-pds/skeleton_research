@@ -1,0 +1,13 @@
+translations/
+upgrade/
+CHANGELOG.txt
+Readme.md
+blockcustomerprivacy-simple.tpl
+blockcustomerprivacy.php
+blockcustomerprivacy.tpl
+composer.json
+config.xml
+fixtures.php
+index.php
+logo.gif
+logo.png

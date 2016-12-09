@@ -1,0 +1,6 @@
+.gitignore
+Gridster.php
+GridsterAsset.php
+LICENSE
+README.md
+composer.json

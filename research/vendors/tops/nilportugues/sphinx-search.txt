@@ -1,0 +1,9 @@
+src/NilPortugues/Sphinx/
+.gitignore
+.travis.yml
+LICENSE.txt
+README.md
+composer.json
+movies.sql
+phpunit.xml.dist
+sphinx.conf

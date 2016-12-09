@@ -1,0 +1,11 @@
+config/
+lib/
+samples/
+tests/
+.DS_Store
+.gitignore
+ChangeLog.txt
+LICENSE.txt
+README.md
+build.xml
+composer.json

@@ -1,0 +1,6 @@
+iMSCP/
+src/
+.gitattributes
+.gitignore
+README.md
+composer.json

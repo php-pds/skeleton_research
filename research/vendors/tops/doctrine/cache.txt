@@ -1,0 +1,14 @@
+lib/Doctrine/Common/Cache/
+tests/
+.coveralls.yml
+.gitattributes
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+UPGRADE.md
+build.properties
+build.xml
+composer.json
+phpunit.xml.dist

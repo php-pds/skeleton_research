@@ -1,0 +1,9 @@
+Admin/
+Annotation/
+DependencyInjection/
+Reader/
+Resources/config/
+AutoServiceCompilerPass.php
+IbrowsSonataAdminAnnotationBundle.php
+README.md
+composer.json

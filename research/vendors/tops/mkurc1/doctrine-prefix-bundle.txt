@@ -1,0 +1,7 @@
+DependencyInjection/
+Resources/config/
+Subscriber/
+DoctrinePrefixBundle.php
+LICENSE
+README.md
+composer.json

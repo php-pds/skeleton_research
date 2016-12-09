@@ -1,0 +1,10 @@
++App/
++Docs/
+Stash/
+.gitattributes
+.gitignore
+Stash.php
+ViewStash.php
+composer.json
+license.md
+readme.md

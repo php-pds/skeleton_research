@@ -1,0 +1,8 @@
+demo/
+docs/
+intouch/ical/
+tests/
+.gitignore
+README
+composer.json
+doc.sh

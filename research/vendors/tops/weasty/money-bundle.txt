@@ -1,0 +1,3 @@
+src/Weasty/Bundle/MoneyBundle/
+.gitignore
+composer.json

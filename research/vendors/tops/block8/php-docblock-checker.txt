@@ -1,0 +1,7 @@
+PhpDocblockChecker/
+.gitignore
+LICENSE.md
+box.json
+composer.json
+composer.lock
+phpdoccheck

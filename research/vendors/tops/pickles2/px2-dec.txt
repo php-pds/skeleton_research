@@ -1,0 +1,9 @@
+htdocs/
+modules/
+php/
+public_html/
+tests/
+.gitignore
+README.md
+composer.json
+phpunit.xml

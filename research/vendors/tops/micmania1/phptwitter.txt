@@ -1,0 +1,10 @@
+vendor/
+.gitignore
+CurlResponse.php
+OAuthToken.php
+README.md
+Twitter.php
+ca-bundle.crt
+cacert.pem
+composer.json
+index.php

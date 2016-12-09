@@ -1,0 +1,6 @@
+assets/
+Panel.php
+PanelAsset.php
+README.md
+SlimScrollAsset.php
+composer.json

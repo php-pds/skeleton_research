@@ -1,0 +1,8 @@
+src/CHH/Stack/
+tests/
+.gitignore
+LICENSE.txt
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

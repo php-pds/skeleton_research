@@ -1,0 +1,13 @@
+DependencyInjection/
+Logger/
+Monolog/Handler/
+Resources/config/
+Test/
+Transport/
+.gitignore
+.travis.yml
+KuborghLogentriesBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml

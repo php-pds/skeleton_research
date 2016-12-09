@@ -1,0 +1,8 @@
+code/
+examples/
+images/
+template/Layout/
+LICENSE
+_config.php
+composer.json
+readme.md

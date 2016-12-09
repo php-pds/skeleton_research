@@ -1,0 +1,11 @@
+assets/js/
+config/
+data/cache/
+etc/
+logs/nginx/
+public/
+.gitignore
+LICENSE
+README.md
+composer.json
+init_autoloader.php

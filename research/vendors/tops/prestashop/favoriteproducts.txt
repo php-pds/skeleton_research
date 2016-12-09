@@ -1,0 +1,17 @@
+controllers/
+img/
+translations/
+views/
+CHANGELOG.txt
+FavoriteProduct.php
+Readme.md
+composer.json
+config.xml
+favoriteproducts-account.php
+favoriteproducts-ajax.php
+favoriteproducts.css
+favoriteproducts.js
+favoriteproducts.php
+index.php
+logo.gif
+logo.png

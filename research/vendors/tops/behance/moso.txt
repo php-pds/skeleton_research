@@ -1,0 +1,10 @@
+bin/
+src/Moso/
+tests/Moso/Test/Collectors/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

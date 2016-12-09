@@ -1,0 +1,17 @@
+assets/
+components/
+config/
+controllers/
+grunt/
+migrations/
+models/
+tests/
+views/
+.gitignore
+Gruntfile.js
+OphTrOperationnoteModule.php
+README.md
+RELEASE
+UPGRADE
+composer.json
+package.json

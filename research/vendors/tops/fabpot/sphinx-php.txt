@@ -1,0 +1,6 @@
+sensio/
+.gitignore
+LICENSE
+README.md
+composer.json
+setup.py

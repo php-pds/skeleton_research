@@ -1,0 +1,10 @@
+DependencyInjection/
+Model/
+Resources/
+Tests/Model/
+.gitignore
+.travis.yml
+README.md
+SearchBundle.php
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,9 @@
+Model/
+Tests/Model/
+.gitignore
+Cron.php
+CrontabUpdater.php
+LICENSE
+README.md
+composer.json
+phpunit.xml

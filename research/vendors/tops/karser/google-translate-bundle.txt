@@ -1,0 +1,8 @@
+DependencyInjection/
+Entity/
+Exception/
+Manager/
+Resources/
+KarserGoogleTranslateBundle.php
+README.md
+composer.json

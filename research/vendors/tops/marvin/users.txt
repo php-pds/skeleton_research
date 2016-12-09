@@ -1,0 +1,12 @@
+Controller/
+Provider/
+Test/functional/
+View/admin/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+bootstrap.php
+composer.json
+composer.lock
+phpunit.xml.dist

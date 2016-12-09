@@ -1,0 +1,10 @@
+src/React/Chatroulette/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist
+server.php

@@ -1,0 +1,11 @@
+DependencyInjection/
+Resources/config/
+Security/
+Tests/
+User/
+.gitignore
+BRAuthBundle.php
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

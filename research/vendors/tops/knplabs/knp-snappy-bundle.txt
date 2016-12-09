@@ -1,0 +1,11 @@
+DependencyInjection/
+Resources/config/
+Snappy/
+Tests/
+.gitignore
+.travis.yml
+KnpSnappyBundle.php
+LICENSE
+README.markdown
+composer.json
+phpunit.xml.dist

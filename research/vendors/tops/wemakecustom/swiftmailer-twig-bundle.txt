@@ -1,0 +1,7 @@
+DependencyInjection/
+Mailer/
+Resources/config/
+LICENSE
+README.md
+WMCSwiftmailerTwigBundle.php
+composer.json

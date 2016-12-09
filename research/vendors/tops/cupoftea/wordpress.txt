@@ -1,0 +1,11 @@
+bootstrap/
+config/
+public/
+storage/
+.env.template
+.gitignore
+.gitignore.template
+LICENSE
+README.md
+app.php
+composer.json

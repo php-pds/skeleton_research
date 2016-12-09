@@ -1,0 +1,8 @@
+src/Simple/SHM/
+tests/Simple/SHM/Test/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,14 @@
+Adapter/
+Exception/
+Factory/
+Model/
+Tests/
+Util/
+.gitignore
+.travis.yml
+ElementInterface.php
+LICENSE
+README.md
+SitemapManager.php
+composer.json
+phpunit.xml.dist

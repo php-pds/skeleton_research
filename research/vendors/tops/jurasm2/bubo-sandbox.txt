@@ -1,0 +1,8 @@
+app/
+db/
+log/
+temp/
+www/
+.gitignore
+README.md
+composer.json

@@ -1,0 +1,11 @@
+features/
+spec/MageTest/MagentoExtension/
+src/MageTest/MagentoExtension/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+behat.yml.dist
+composer.json
+contributing.md

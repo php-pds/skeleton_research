@@ -1,0 +1,7 @@
+demos/
+src/MarkovPHP/
+.gitignore
+LICENSE
+README.md
+chainer.php
+composer.json

@@ -1,0 +1,10 @@
+Clock/
+Converter/
+Manipulator/
+Tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

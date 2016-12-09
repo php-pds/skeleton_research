@@ -1,0 +1,9 @@
+assets/
+controllers/
+models/
+templates/sample/
+views/index/
+LICENSE
+Module.php
+README.md
+composer.json

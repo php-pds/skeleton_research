@@ -1,0 +1,14 @@
+backend/
+common/
+console/
+deployer/
+frontend/
+tests/
+.bowerrc
+.gitignore
+LICENSE.md
+README.md
+composer.json
+deploy.php
+requirements.php
+yii.bat

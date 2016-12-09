@@ -1,0 +1,12 @@
+lib/propel/
+migrations/
+propel-build/
+src/JQJobs/
+test/
+.gitignore
+DEV
+README.md
+composer.json
+composer.lock
+pearfarm.spec
+phpunit.xml

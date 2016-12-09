@@ -1,0 +1,16 @@
+Annotation/
+Controller/
+DependencyInjection/
+Factory/
+Metadata/
+Model/
+Resources/
+Routing/
+Serializer/
+Tests/
+.gitignore
+.travis.yml
+FSCHateoasBundle.php
+README.md
+composer.json
+phpunit.xml.dist

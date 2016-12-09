@@ -1,0 +1,8 @@
+.gitignore
+Chrono.php
+CliColors.php
+ErrorHandler.php
+README.md
+Vars.php
+composer.json
+functions.inc.php

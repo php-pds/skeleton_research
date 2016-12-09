@@ -1,0 +1,10 @@
+_graphics/
+actions/
+languages/
+lib/
+procedures/
+vendors/
+views/default/
+composer.json
+manifest.xml
+start.php

@@ -1,0 +1,3 @@
+Model/Behavior/
+Vendor/CampaignMonitor/
+composer.json

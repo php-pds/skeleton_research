@@ -1,0 +1,12 @@
+src/Gordalina/Easypay/
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+coverage.clover
+ocular.phar
+phpunit.xml.dist

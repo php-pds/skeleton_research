@@ -1,0 +1,7 @@
+settings/
+src/Wubs/Settings/
+tests/Wubs/Settings/
+.gitignore
+composer.json
+phpunit.xml
+readme.md

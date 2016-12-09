@@ -1,0 +1,9 @@
+src/WpCleanUp/
+.gitignore
+.htaccess
+LICENSE
+README.md
+WpCleanUp.php
+composer.json
+composer.lock
+configBoilerplate.php

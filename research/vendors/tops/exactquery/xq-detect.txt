@@ -1,0 +1,5 @@
+dist/js/
+src/
+.gitignore
+LICENSE
+composer.json

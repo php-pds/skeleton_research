@@ -1,0 +1,8 @@
+commands/
+config/
+.gitignore
+LICENSE
+README.md
+composer.json
+yii
+yii.bat

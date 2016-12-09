@@ -1,0 +1,8 @@
+src/TreeHouse/AddressParser/
+tests/TreeHouse/AddressParser/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+README.md
+composer.json
+phpunit.xml.dist

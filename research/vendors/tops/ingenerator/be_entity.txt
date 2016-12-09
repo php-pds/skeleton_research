@@ -1,0 +1,8 @@
+spec/
+src/Ingenerator/BeEntity/
+.gitattributes
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,9 @@
+Bootstrap.php
+ExtendedBehavior.php
+LICENSE
+QueryScopeBehavior.php
+README.md
+RelationBehavior.php
+RelationTrait.php
+RelationUniqueValidator.php
+composer.json

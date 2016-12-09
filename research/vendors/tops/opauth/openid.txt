@@ -1,0 +1,5 @@
+Vendor/lightopenid/
+OpenIDStrategy.php
+README.md
+composer.json
+identifier_request.html

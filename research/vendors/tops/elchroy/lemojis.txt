@@ -1,0 +1,14 @@
+public/
+src/app/
+tests/
+.DS_Store
+.coveralls.yml
+.gitignore
+.travis.yml
+README.md
+circle.yml
+composer.json
+composer.lock
+phpunit.xml
+sample.db
+test.sqlite

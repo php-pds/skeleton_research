@@ -1,0 +1,7 @@
+app/config/
+src/Arhitect/Core/
+tests/
+.gitignore
+LICENSE
+composer.json
+post-install.md

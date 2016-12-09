@@ -1,0 +1,12 @@
+src/Noa/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+bootstrap.php
+build.xml
+composer.json
+phpcs.xml
+phpmd.xml
+phpunit.xml

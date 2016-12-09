@@ -1,0 +1,17 @@
+behaviors/
+tests/
+util/
+validators/
+.gitignore
+EMongoClient.php
+EMongoCriteria.php
+EMongoDBRef.php
+EMongoDataProvider.php
+EMongoDocument.php
+EMongoException.php
+EMongoLogRoute.php
+EMongoModel.php
+EMongoQueryBuilder.php
+EMongoSort.php
+README.md
+composer.json

@@ -1,0 +1,11 @@
+.idea/
+build/
+src/
+tests/
+.gitignore
+CHANGELOG.md
+LICENSE.md
+build.xml
+codeception.yml
+composer.json
+composer.lock

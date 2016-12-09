@@ -1,0 +1,10 @@
+src/
+tests/
+.gitignore
+.travis.yml
+Dockerfile
+README.md
+composer.json
+deploy.sh
+docker-compose.yml
+phpunit.xml.dist

@@ -1,0 +1,15 @@
+build/
+specs/
+src/
+tests/
+.gitmodules
+.scrutinizer.yml
+.travis.yml
+CONTRIBUTING.md
+HISTORY.md
+LICENSE.txt
+README.md
+UPGRADE.md
+composer.json
+example_debug.png
+phpunit.xml

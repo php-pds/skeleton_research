@@ -1,0 +1,4 @@
+src/Cordoval/PhpSpec/
+.gitignore
+README.md
+composer.json

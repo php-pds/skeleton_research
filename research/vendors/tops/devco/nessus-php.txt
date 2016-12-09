@@ -1,0 +1,8 @@
+src/Nessus/
+tests/
+.gitignore
+LICENSE
+composer.json
+liveTestConfig.example.json
+phpunit.xml
+runTests.sh

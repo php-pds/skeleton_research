@@ -1,0 +1,10 @@
+css/
+js/
+src/
+templates/
+.editorconfig
+.gitignore
+LICENSE
+README.txt
+composer.json
+wp-admin-links.php

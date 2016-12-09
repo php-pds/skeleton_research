@@ -1,0 +1,6 @@
+tests/
+.gitignore
+DynamoDbSession.php
+Readme.md
+composer.json
+phpunit.xml.dist

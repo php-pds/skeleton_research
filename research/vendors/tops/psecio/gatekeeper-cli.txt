@@ -1,0 +1,5 @@
+bin/
+src/Command/
+.env.dist
+README.md
+composer.json

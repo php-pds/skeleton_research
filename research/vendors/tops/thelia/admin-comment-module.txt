@@ -1,0 +1,13 @@
+Action/
+Config/
+Controller/
+Events/
+Form/
+Hook/
+I18n/
+Model/
+templates/backOffice/default/
+AdminComment.php
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,8 @@
+src/
+test/
+.gitattributes
+.gitignore
+LICENSE.txt
+README.md
+UPGRADING.md
+composer.json

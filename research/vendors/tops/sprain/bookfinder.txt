@@ -1,0 +1,6 @@
+Resources/meta/
+lib/
+.gitignore
+README.md
+composer.json
+example.php

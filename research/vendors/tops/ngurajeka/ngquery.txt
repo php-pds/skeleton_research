@@ -1,0 +1,3 @@
+src/Ng/Query/
+.gitignore
+composer.json

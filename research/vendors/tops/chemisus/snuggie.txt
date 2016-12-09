@@ -1,0 +1,5 @@
+src/Snuggie/
+test/Snuggie/
+.gitignore
+composer.json
+phpunit.xml

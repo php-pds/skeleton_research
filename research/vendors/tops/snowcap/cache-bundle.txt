@@ -1,0 +1,11 @@
+Cache/
+DependencyInjection/
+Exception/
+Manager/
+Resources/config/
+Tests/
+.gitignore
+README.md
+SnowcapCacheBundle.php
+composer.json
+phpunit.xml.dist

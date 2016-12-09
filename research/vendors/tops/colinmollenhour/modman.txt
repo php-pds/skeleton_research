@@ -1,0 +1,5 @@
+README.md
+bash_completion
+composer.json
+modman
+modman-installer

@@ -1,0 +1,7 @@
+Core/
+DependencyInjection/
+Resources/
+ezpublish_legacy/
+EabUniqueDatatypesBundle.php
+README.md
+composer.json

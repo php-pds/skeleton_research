@@ -1,0 +1,13 @@
+resources/vagrant/
+src/
+.editorconfig
+.gitattributes
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+Vagrantfile
+build.xml
+composer.json
+phpjunitmerge

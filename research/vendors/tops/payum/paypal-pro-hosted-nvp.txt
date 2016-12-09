@@ -1,0 +1,10 @@
+Action/
+Request/Api/
+Resources/docs/
+Tests/
+Api.php
+LICENSE
+PaypalProHostedGatewayFactory.php
+README.md
+composer.json
+phpunit.xml.dist

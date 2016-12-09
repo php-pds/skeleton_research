@@ -1,0 +1,4 @@
+gii-templates/resource/
+src/Restyii/
+README.md
+composer.json

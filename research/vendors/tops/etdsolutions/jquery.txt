@@ -1,0 +1,6 @@
+LICENSE
+README.md
+composer.json
+jquery.js
+jquery.min.js
+jquery.min.map

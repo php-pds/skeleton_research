@@ -1,0 +1,8 @@
+DependencyInjection/
+Model/
+Repository/
+Resources/config/
+.gitignore
+GateKeeperPropelBundle.php
+README.md
+composer.json

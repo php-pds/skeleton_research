@@ -1,0 +1,12 @@
+features/
+spec/Bex/Behat/ScreenshotExtension/
+src/Bex/Behat/ScreenshotExtension/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENCE.md
+README.md
+behat.yml
+behat.yml.dist
+composer.json
+phpspec.yml

@@ -1,0 +1,13 @@
+config/
+public/tinymce/plugins/elfinder/
+src/
+view/el-finder/index/
+.gitignore
+.travis.yml
+LICENSE.txt
+Module.php
+README.md
+autoload_classmap.php
+composer.json
+phpmd.xml
+phpunit.xml

@@ -1,0 +1,15 @@
+Controller/
+DependencyInjection/
+Entity/
+Event/
+Form/
+Manager/
+Resources/
+Security/User/
+Twig/
+Validator/Constraints/
+.gitignore
+LICENSE
+README.md
+VardiusUserBundle.php
+composer.json

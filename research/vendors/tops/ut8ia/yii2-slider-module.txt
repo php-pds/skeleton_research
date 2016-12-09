@@ -1,0 +1,10 @@
+assets/
+controllers/
+migrations/
+models/
+views/
+widgets/
+.gitignore
+README.md
+SliderModule.php
+composer.json

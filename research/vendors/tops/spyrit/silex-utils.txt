@@ -1,0 +1,9 @@
+Command/
+Provider/Database/
+.gitignore
+.php_cs
+CREDITS
+LICENSE
+LICENSE.LESSER
+README.md
+composer.json

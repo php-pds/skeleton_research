@@ -1,0 +1,7 @@
+Config/
+Hook/
+I18n/
+templates/backOffice/default/
+LICENSE.txt
+VirtualProductControl.php
+composer.json

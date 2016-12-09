@@ -1,0 +1,8 @@
+tests/
+.gitignore
+.travis.yml
+DropdownsEnhancementAsset.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

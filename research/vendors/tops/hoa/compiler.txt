@@ -1,0 +1,13 @@
+Bin/
+Documentation/
+Exception/
+Llk/
+Test/
+Visitor/
+.Mime
+.State
+.gitignore
+CHANGELOG.md
+Ll1.php
+README.md
+composer.json

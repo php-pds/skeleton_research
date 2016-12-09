@@ -1,0 +1,16 @@
+Config/
+Controller/
+Locale/
+Model/
+Test/
+TestSuite/
+View/
+webroot/
+.bowerrc
+.gitattributes
+.gitignore
+.travis.yml
+README.md
+bower.json
+composer.json
+phpunit.xml.dist

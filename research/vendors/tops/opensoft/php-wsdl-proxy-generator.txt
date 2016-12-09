@@ -1,0 +1,9 @@
+src/Opensoft/WsdlProxyGenerator/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+console
+phpunit.xml.dist

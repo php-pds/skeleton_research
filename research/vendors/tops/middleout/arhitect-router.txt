@@ -1,0 +1,6 @@
+app/config/
+src/Arhitect/Router/
+.gitignore
+LICENSE
+composer.json
+post-install.md

@@ -1,0 +1,11 @@
+.github/
+Tests/
+.gitignore
+.travis.yml
+Changelog.md
+HierarchicalCachePoolTrait.php
+HierarchicalPoolInterface.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

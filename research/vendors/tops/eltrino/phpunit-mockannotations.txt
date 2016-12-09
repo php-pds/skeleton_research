@@ -1,0 +1,10 @@
+src/Eltrino/PHPUnit/MockAnnotations/
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+Contributing.md
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,15 @@
+config/
+scripts/
+src/
+test/
+www/
+.gitignore
+README.md
+composer.json
+composer.lock
+data.txt
+exec.txt
+http_post.txt
+index.txt
+phpunit.xml
+promiseJS

@@ -1,0 +1,7 @@
+docs/
+.gitignore
+LICENSE
+README.md
+composer.json
+update
+update.bat

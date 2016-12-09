@@ -1,0 +1,6 @@
+assets/
+docs/
+views/layouts/
+widgets/
+README.md
+composer.json

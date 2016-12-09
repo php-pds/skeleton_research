@@ -1,0 +1,9 @@
+DataCollector/
+DependencyInjection/
+Lucene/
+Resources/
+.gitignore
+LICENSE
+README.md
+WebsightSearchDebugBundle.php
+composer.json

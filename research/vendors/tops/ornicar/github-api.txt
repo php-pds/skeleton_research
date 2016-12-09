@@ -1,0 +1,7 @@
+lib/Github/
+test/
+CHANGELOG
+LICENSE
+README.markdown
+composer.json
+phpunit.xml

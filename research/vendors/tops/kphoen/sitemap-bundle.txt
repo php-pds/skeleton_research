@@ -1,0 +1,11 @@
+Command/
+Controller/
+DependencyInjection/
+Resources/
+Tests/
+.gitignore
+.travis.yml
+KPhoenSitemapBundle.php
+README.md
+composer.json
+phpunit.xml.dist

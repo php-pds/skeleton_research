@@ -1,0 +1,11 @@
+content/
+dist/
+scripts/
+spec/
+src/
+.gitignore
+composer.json
+devbridge-autocomplete.jquery.json
+index.htm
+license.txt
+readme.md

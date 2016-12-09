@@ -1,0 +1,17 @@
+docs/project/
+fonts/
+lib/
+styles/
+tasks/
+test/
+.eslintrc
+.gitignore
+.travis.yml
+.wiredeps
+CONTRIBUTING.md
+Gruntfile.js
+LICENSE
+README.md
+composer.json
+index.js
+package.json

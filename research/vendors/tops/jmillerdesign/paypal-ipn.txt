@@ -1,0 +1,10 @@
+Config/
+Controller/
+Lib/Error/
+Locale/
+Model/
+Test/Case/
+View/
+webroot/img/
+composer.json
+readme.markdown

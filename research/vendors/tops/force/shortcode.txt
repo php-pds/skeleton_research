@@ -1,0 +1,6 @@
+.gitignore
+CHANGELOG.md
+LICENSE
+README.md
+Shortcode.php
+composer.json

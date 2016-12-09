@@ -1,0 +1,9 @@
+doc/
+lib/Deft/Twig/
+test/Deft/Twig/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

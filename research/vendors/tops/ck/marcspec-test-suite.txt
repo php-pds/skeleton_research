@@ -1,0 +1,6 @@
+invalid/
+valid/
+LICENSE
+README.md
+composer.json
+wild_combination.php

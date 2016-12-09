@@ -1,0 +1,11 @@
+src/PMG/Webstalk/
+test/
+web/
+.bowerrc
+.gitignore
+.travis.yml
+CHANGELOG.md
+README.md
+bower.json
+composer.json
+phpunit.xml.dist

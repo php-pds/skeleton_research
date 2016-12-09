@@ -1,0 +1,9 @@
+tests/
+.gitignore
+LICENSE.md
+README.md
+bower.json
+classList.js
+classList.min.js
+component.json
+composer.json

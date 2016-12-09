@@ -1,0 +1,13 @@
+DependencyInjection/
+Resources/
+Tests/
+Validator/Constraints/
+.editorconfig
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CLTissueBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

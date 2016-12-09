@@ -1,0 +1,6 @@
+src/
+CHANGELOG.md
+LICENSE
+README.md
+__init__.php
+composer.json

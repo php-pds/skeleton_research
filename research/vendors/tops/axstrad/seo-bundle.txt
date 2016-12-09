@@ -1,0 +1,13 @@
+Configuration/
+DependencyInjection/
+EventListener/
+Resources/
+Tests/
+.coveralls.yml
+.gitignore
+.travis.yml
+AxstradSeoBundle.php
+LICENSE
+Readme.md
+composer.json
+phpunit.xml.dist

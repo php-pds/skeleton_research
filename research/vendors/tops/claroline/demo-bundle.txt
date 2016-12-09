@@ -1,0 +1,9 @@
+Command/
+DataFixtures/
+Listener/
+Resources/
+.gitignore
+ClarolineDemoBundle.php
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,7 @@
+.idea/
+doc/
+src/Ten24/SymfonyTwigBridge/
+tests/
+.gitignore
+LICENSE
+composer.json

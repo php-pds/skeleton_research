@@ -1,0 +1,7 @@
+config/
+l10n/
+src/ride/application/orm/model/
+.gitignore
+README.md
+composer.json
+ride.json

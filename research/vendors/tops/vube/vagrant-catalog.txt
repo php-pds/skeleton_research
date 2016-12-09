@@ -1,0 +1,14 @@
+src/Vube/VagrantCatalog/
+templates/
+test/
+.coveralls.yml
+.gitignore
+.htaccess
+.travis.yml
+LICENSE
+README.md
+composer.json
+config.php.dist
+index.php
+phpdoc.xml
+phpunit.xml.dist

@@ -1,0 +1,17 @@
+build/
+features/
+src/
+templates/
+tests/
+.gitattributes
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+behat.yml
+composer.json
+composer.lock
+docker-compose.yml
+phpunit.xml.dist

@@ -1,0 +1,11 @@
+.phpspec/
+spec/
+src/Ingenerator/Mailhook/
+.gitattributes
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENCE.md
+README.md
+composer.json
+phpspec.yml

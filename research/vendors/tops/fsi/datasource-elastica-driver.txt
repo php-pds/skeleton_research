@@ -1,0 +1,10 @@
+Tests/
+provisioning/
+src/
+.gitignore
+.travis.yml
+README.md
+Vagrantfile
+bootstrap.php
+composer.json
+phpunit.xml

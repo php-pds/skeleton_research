@@ -1,0 +1,7 @@
+Resources/
+app/
+.gitignore
+README.md
+composer.json
+index.php
+widgets.php

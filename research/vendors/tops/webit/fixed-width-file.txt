@@ -1,0 +1,4 @@
+lib/Webit/Parser/FixedWidth/
+.gitignore
+README.md
+composer.json

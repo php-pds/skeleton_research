@@ -1,0 +1,5 @@
+DependencyInjection/
+Resources/
+FkrImagineBundle.php
+README.md
+composer.json

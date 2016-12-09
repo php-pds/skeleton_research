@@ -1,0 +1,6 @@
+Validator/
+LICENSE
+README.md
+Text.php
+Util.php
+composer.json

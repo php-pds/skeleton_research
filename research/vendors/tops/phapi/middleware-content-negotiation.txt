@@ -1,0 +1,13 @@
+src/Phapi/Middleware/ContentNegotiation/
+tests/Phapi/Middleware/ContentNegotiation/
+.codeclimate.yml
+.gitattributes
+.gitignore
+.travis.yml
+changelog.md
+composer.json
+composer.lock
+contributing.md
+license.md
+phpunit.xml
+readme.md

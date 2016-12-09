@@ -1,0 +1,9 @@
+controllers/
+migrations/
+models/
+views/
+.gitignore
+LICENSE
+README
+UserModule.php
+composer.json

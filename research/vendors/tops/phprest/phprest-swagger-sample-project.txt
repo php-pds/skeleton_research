@@ -1,0 +1,10 @@
+api/
+app/
+public/
+specs/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock
+paths.php

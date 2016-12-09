@@ -1,0 +1,14 @@
+config/
+database/
+resources/views/
+routes/
+src/
+tests/
+.gitignore
+README.md
+composer.json
+gulpfile.js
+package.json
+phpunit.xml
+testimage.sh
+yarn.lock

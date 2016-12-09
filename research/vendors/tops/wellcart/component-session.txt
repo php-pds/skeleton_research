@@ -1,0 +1,9 @@
+docs/
+src/SaveHandler/
+tests/
+.gitattributes
+.gitignore
+CONDUCT.md
+LICENSE.md
+README.md
+composer.json

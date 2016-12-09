@@ -1,0 +1,12 @@
+DependencyInjection/
+Entity/
+Event/
+Listener/
+Model/
+Resources/config/
+.gitignore
+DCSOpauthFOSUBBundle.php
+DCSOpauthFOSUBEvents.php
+LICENSE
+README.md
+composer.json

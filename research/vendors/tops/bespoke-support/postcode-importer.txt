@@ -1,0 +1,7 @@
+src/Command/
+.gitignore
+LICENSE
+README.md
+composer.json
+config.php
+console.php

@@ -1,0 +1,13 @@
+i18n/
+src/
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CONFIGURATION.md
+COPYING
+README.md
+RELEASE-NOTES.md
+SemanticSignup.php
+composer.json
+phpunit.xml.dist

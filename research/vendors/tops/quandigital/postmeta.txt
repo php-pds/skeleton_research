@@ -1,0 +1,10 @@
+inc/
+.gitignore
+Convert.php
+Description.php
+LICENSE
+Plugin.php
+README.md
+Title.php
+composer.json
+postmeta.php

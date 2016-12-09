@@ -1,0 +1,10 @@
+bin/
+src/Net/Bazzline/ClassmapGenerator/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml
+todo

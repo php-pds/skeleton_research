@@ -1,0 +1,10 @@
+.idea/
+library/ZendQueue/
+tests/
+.gitattributes
+.gitignore
+.travis.yml
+LICENSE.txt
+README.md
+composer.json
+php-cs-fixer.phar

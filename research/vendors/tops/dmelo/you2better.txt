@@ -1,0 +1,13 @@
+cache/
+setup/
+src/YouBetter/
+.gitignore
+.gitmodules
+.htaccess
+.travis.yml
+Dockerfile
+README.md
+composer.json
+docker-setup.sh
+index.php
+you2better-conf.php.template

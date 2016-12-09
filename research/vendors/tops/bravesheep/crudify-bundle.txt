@@ -1,0 +1,10 @@
+features/
+spec/Bravesheep/CrudifyBundle/
+src/Bravesheep/CrudifyBundle/
+test/Bravesheep/CrudifyBundle/Fixtures/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+behat.yml.dist
+composer.json

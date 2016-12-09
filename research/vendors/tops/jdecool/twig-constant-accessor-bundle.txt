@@ -1,0 +1,15 @@
+Accessor/
+DataCollector/
+DependencyInjection/
+Resources/
+Tests/
+Twig/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+JDecoolTwigConstantAccessorBundle.php
+LICENSE
+README.md
+appveyor.yml
+composer.json
+phpunit.xml.dist

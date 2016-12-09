@@ -1,0 +1,15 @@
+application/
+cache/
+db/
+library/
+otutils/
+overrides/languages/
+public/
+tests/
+.gitignore
+.htaccess
+README.md
+_LICENSE.txt
+_version.txt
+composer.json
+composer.lock

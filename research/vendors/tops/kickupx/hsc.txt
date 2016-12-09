@@ -1,0 +1,6 @@
+src/HSC/
+tests/HSC/
+.gitignore
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,11 @@
+uncompressed/
+.gitignore
+README.md
+bower.json
+component.json
+composer.json
+package.json
+rangy-core.js
+rangy-cssclassapplier.js
+rangy-selectionsaverestore.js
+rangy-serializer.js

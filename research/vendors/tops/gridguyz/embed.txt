@@ -1,0 +1,13 @@
+config/
+icons/
+languages/embed/
+public/
+sql/grid-embed/site/
+src/Grid/Embed/
+vendor/
+view/grid/paragraph/render/
+.gitignore
+LICENSE.txt
+Module.php
+README.md
+composer.json

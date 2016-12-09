@@ -1,0 +1,16 @@
+tests/
+.gitattributes
+.gitignore
+.travis.yml
+CHANGELOG.md
+Item.php
+LICENSE.md
+Manager.php
+README.md
+Storage.php
+StorageActiveRecord.php
+StorageDb.php
+StorageMongoDb.php
+StoragePhp.php
+composer.json
+phpunit.xml.dist

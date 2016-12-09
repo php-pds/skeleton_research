@@ -1,0 +1,10 @@
+build/
+src/InterNations/Sniffs/
+tests/InterNations/Tests/Sniffs/
+.gitignore
+.travis.yml
+README.md
+build.xml
+composer.json
+phpunit.xml.dist
+ruleset.xml

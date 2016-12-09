@@ -1,0 +1,9 @@
+Classes/
+Resources/Public/
+Tests/
+.gitignore
+.travis.yml
+LICENSE
+README.rst
+composer.json
+composer.lock

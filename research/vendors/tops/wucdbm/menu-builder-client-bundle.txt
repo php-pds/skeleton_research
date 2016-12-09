@@ -1,0 +1,11 @@
+Controller/
+DependencyInjection/
+Form/Menu/
+Manager/
+Resources/
+.gitattributes
+.gitignore
+LICENSE
+README.md
+WucdbmMenuBuilderClientBundle.php
+composer.json

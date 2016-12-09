@@ -1,0 +1,15 @@
+config/
+logs/
+src/
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+TODO.txt
+bootstrap.php
+bootstrap.test.php
+composer.json
+composer.lock
+phpunit.xml.dist

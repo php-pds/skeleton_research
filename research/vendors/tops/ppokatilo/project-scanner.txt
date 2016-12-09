@@ -1,0 +1,8 @@
+ScanResult/
+Scanner/
+Util/
+LICENSE
+ProjectScanner.php
+README.md
+ScannerFactory.php
+composer.json

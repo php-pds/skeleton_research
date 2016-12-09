@@ -1,0 +1,7 @@
+bin/
+src/Sqwack/
+.gitignore
+LICENSE
+README.md
+box.json.dist
+composer.json

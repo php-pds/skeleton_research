@@ -1,0 +1,10 @@
+build/
+lib/Arnm/Cache/
+test/
+.gitignore
+LICENSE
+README.md
+cache.properties
+composer.json
+composer.lock
+phpunit.xml

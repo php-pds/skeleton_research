@@ -1,0 +1,6 @@
+spec/Guiwoda/DomainRequirements/
+src/
+.gitignore
+README.md
+composer.json
+phpspec.yml

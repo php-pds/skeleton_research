@@ -1,0 +1,6 @@
+config/
+src/MCAuth/
+view/
+Module.php
+README.md
+composer.json

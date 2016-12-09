@@ -1,0 +1,8 @@
+.idea/
+src/Ten24/Component/Ical/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

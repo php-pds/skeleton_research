@@ -1,0 +1,4 @@
+lib/Scandio/lmvc/modules/
+.gitignore
+README.md
+composer.json

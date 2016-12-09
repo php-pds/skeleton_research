@@ -1,0 +1,11 @@
+docs/api/
+src/CRUDlex/
+tests/
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+apigen.neon
+composer.json
+phpunit.xml.dist

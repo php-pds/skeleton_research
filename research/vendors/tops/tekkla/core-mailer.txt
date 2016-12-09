@@ -1,0 +1,4 @@
+Core/Mailer/
+LICENSE
+README.md
+composer.json

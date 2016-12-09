@@ -1,0 +1,10 @@
+actions/
+assets/
+views/
+BrowserAsset.php
+CKEditor.php
+CKEditorAsset.php
+CKEditorPackagePluginAsset.php
+FontawesomeAsset.php
+composer.json
+readme.md

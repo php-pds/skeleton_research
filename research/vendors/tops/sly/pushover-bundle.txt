@@ -1,0 +1,14 @@
+Config/
+DataCollector/
+DependencyInjection/
+Logger/
+Manager/
+Model/
+Resources/
+Tests/
+.gitignore
+.travis.yml
+README.md
+SlyPushOverBundle.php
+composer.json
+phpunit.xml.dist

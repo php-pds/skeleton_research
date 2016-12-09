@@ -1,0 +1,9 @@
+DependencyInjection/
+Interfaces/
+Resources/
+Service/
+Tests/Controller/
+Traits/
+Wrapper/
+KMJChannelAdvisorBundle.php
+composer.json

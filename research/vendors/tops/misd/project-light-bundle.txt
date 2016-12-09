@@ -1,0 +1,8 @@
+DependencyInjection/
+Menu/
+Pagerfanta/
+Resources/
+.gitignore
+ProjectLightBundle.php
+README.md
+composer.json

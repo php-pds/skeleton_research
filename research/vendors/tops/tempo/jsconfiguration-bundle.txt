@@ -1,0 +1,11 @@
+Command/
+DependencyInjection/
+Dumper/
+Resources/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+TempoJsConfigurationBundle.php
+composer.json
+phpunit.xml.dist

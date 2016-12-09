@@ -1,0 +1,9 @@
+Resources/doc/
+lib/NajiDev/Common/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

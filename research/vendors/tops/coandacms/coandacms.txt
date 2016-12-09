@@ -1,0 +1,13 @@
+MySite/
+app/
+bootstrap/
+public/
+uploads/
+.gitattributes
+.gitignore
+LICENSE.txt
+artisan
+composer.json
+phpunit.xml
+readme.md
+server.php

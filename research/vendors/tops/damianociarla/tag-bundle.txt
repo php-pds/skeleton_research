@@ -1,0 +1,12 @@
+DependencyInjection/
+Doctrine/
+Entity/
+Form/
+Model/
+Resources/config/
+Urlizer/
+.gitignore
+DCSTagBundle.php
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,13 @@
+src/
+tests/
+.gitattributes
+.gitignore
+CHANGELOG.md
+Gruntfile.js
+README.md
+composer.json
+composer.lock
+package.json
+phpcs.ruleset.xml
+phpmd.ruleset.xml
+phpunit.xml.dist

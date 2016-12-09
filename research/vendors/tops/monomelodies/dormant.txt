@@ -1,0 +1,12 @@
+demo/
+docs/
+src/
+tests/
+.gitignore
+Gentry.json
+LICENSE
+README.md
+composer.json
+composer.lock
+mkdocs.yml
+phpunit.xml

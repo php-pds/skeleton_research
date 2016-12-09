@@ -1,0 +1,15 @@
+config/
+src/
+tests/
+.gitignore
+.travis.yml
+CHANGELOG.md
+CONTRIBUTING.md
+LICENSE.md
+Makefile
+Module.php
+NOTICE.md
+README.md
+composer.json
+phpcs.xml
+phpunit.xml.dist

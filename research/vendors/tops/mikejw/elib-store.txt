@@ -1,0 +1,5 @@
+misc/
+public/
+src/Empathy/ELib/
+tpl/
+composer.json

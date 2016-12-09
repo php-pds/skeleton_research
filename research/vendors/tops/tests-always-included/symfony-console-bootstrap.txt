@@ -1,0 +1,7 @@
+TestsAlwaysIncluded/SymfonyConsoleBootstrap/
+app/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock

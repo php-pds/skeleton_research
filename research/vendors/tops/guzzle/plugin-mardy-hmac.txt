@@ -1,0 +1,6 @@
+src/Mardy/HmacPlugins/
+tests/
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

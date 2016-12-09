@@ -1,0 +1,11 @@
+src/
+tests/spec/
+.gitignore
+.php_cs
+.scrutinizer.yml
+.sensiolabs.yml
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpspec.yml

@@ -1,0 +1,7 @@
+bin/
+examples/
+src/Manialib/Manialink/
+.gitignore
+LICENSE
+README.md
+composer.json

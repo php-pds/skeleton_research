@@ -1,0 +1,11 @@
+config/
+routes/
+src/Scaffolder/
+stubs/
+tests/
+views/
+.gitignore
+LICENSE
+composer.json
+phpunit.xml
+readme.md

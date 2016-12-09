@@ -1,0 +1,10 @@
+src/
+tests/
+.gitignore
+.sensiolabs.yml
+.travis.yml
+LICENSE.md
+README.md
+composer.json
+composer.lock
+phpunit.xml

@@ -1,0 +1,16 @@
+Admin/
+Command/
+Controller/
+DependencyInjection/
+Entity/
+Form/Type/
+Listener/
+Model/
+Resources/
+Services/
+Tests/Controller/
+Twig/Extension/
+.gitignore
+README.md
+YitNotificationBundle.php
+composer.json

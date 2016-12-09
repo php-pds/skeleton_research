@@ -1,0 +1,7 @@
+spec/UserHasTenant/
+src/
+.gitignore
+LICENSE
+README.md
+composer.json
+phpspec.yml

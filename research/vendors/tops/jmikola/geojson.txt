@@ -1,0 +1,14 @@
+docs/
+src/GeoJson/
+stubs/
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+Makefile
+README.md
+apigen.neon
+composer.json
+mkdocs.yml
+phpunit.xml.dist

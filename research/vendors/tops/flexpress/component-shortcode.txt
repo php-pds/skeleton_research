@@ -1,0 +1,5 @@
+src/FlexPress/Components/Shortcode/
+.gitignore
+LICENSE
+README.md
+composer.json

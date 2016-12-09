@@ -1,0 +1,10 @@
+src/IRC/
+tests/
+.travis.yml
+CONFIGURATION.md
+LICENSE
+README.md
+Start.php
+composer.json
+install.sh
+phpunit.xml

@@ -1,0 +1,8 @@
+DependencyInjection/
+Resources/config/
+Services/
+.gitignore
+.travis.yml
+LICENSE
+VirtalGoogleApiBundle.php
+composer.json

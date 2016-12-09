@@ -1,0 +1,9 @@
+src/Kwattro/Gh4j/
+tests/Kwattro/Gh4j/Tests/
+.gitignore
+.travis.yml
+2014-08-01-15.json
+README.md
+composer.json
+composer.lock
+phpunit.xml

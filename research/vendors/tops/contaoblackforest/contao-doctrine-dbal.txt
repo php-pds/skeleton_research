@@ -1,0 +1,5 @@
+contao/config/
+src/Contao/Doctrine/DBAL/
+.gitignore
+README.md
+composer.json

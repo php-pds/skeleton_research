@@ -1,0 +1,17 @@
+Calendar/
+Command/
+Controller/
+DataFixtures/MongoDB/
+DependencyInjection/
+Document/
+Form/
+Repository/
+Resources/
+Tests/Calendar/
+Twig/Extension/
+User/
+Util/
+Validator/Constraints/
+DTLTrainerBundle.php
+README.rst
+composer.json

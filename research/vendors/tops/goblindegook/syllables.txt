@@ -1,0 +1,17 @@
+src/
+tests/
+.editorconfig
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+apigen.neon
+composer.json
+gulpfile.js
+package.json
+phpdoc.dist.xml
+phpunit.xml
+syllables-mu.php
+syllables.php

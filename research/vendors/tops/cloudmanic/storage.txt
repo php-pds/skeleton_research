@@ -1,0 +1,4 @@
+src/Cloudmanic/Storage/
+.gitignore
+README.md
+composer.json

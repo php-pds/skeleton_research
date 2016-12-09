@@ -1,0 +1,3 @@
+src/Codeception/Module/
+.gitignore
+composer.json

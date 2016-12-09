@@ -1,0 +1,6 @@
+Resources/public/
+.gitignore
+AzineVideoJsBundle.php
+LICENSE
+README.md
+composer.json

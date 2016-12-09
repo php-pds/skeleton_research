@@ -1,0 +1,12 @@
+contao/
+src/ContaoTwig/
+tests/
+.check-author.yml
+.gitignore
+.gitmodules
+.travis.yml
+README.md
+build.default.properties
+build.xml
+composer.json
+phpunit.xml.dist

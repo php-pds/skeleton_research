@@ -1,0 +1,13 @@
+Tests/
+lib/
+.gitignore
+.travis.yml
+LICENSE
+README.aux
+README.log
+README.md
+README.pdf
+README.synctex.gz
+README.tex
+composer.json
+log.xml

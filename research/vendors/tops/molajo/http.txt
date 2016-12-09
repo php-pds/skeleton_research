@@ -1,0 +1,11 @@
+.dev/
+Factories/
+Source/
+.gitattributes
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+UploadREADME.md
+composer.json

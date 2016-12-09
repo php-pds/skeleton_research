@@ -1,0 +1,11 @@
+Classes/
+locales/
+templates/
+.editorconfig
+.gitattributes
+.gitignore
+LICENSE
+README.md
+composer.json
+config.php
+release.command

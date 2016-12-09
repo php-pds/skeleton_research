@@ -1,0 +1,4 @@
+Tasker/Copy/
+LICENSE
+README.md
+composer.json

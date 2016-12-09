@@ -1,0 +1,7 @@
+lib/Skeleton/Package/Delivery/
+migration/
+po/
+template/
+LICENSE
+README.md
+composer.json

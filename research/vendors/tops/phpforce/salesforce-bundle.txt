@@ -1,0 +1,5 @@
+Command/
+DependencyInjection/
+Resources/config/
+PhpforceSalesforceBundle.php
+composer.json

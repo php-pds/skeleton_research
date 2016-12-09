@@ -1,0 +1,14 @@
+docs/
+sandbox/
+src/
+tests/
+.coveralls.yml
+.gitignore
+.travis.yml
+CHANGELOG.md
+README.md
+authors.md
+composer.json
+composer.lock
+license.md
+phpunit.xml.dist

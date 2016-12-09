@@ -1,0 +1,12 @@
+Command/
+Controller/Frontend/
+DependencyInjection/
+Doctrine/ORM/
+Entity/
+EventListener/
+Form/Type/
+Resources/
+.gitignore
+README.md
+WebburzaSyliusLocationBundle.php
+composer.json

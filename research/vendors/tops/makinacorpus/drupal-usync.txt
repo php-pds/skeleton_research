@@ -1,0 +1,12 @@
+includes/
+modules/usync_test/
+sample/
+src/USync/
+.gitignore
+README.md
+composer.json
+usync.compat.inc
+usync.drush.inc
+usync.info
+usync.module
+usync.usync.inc

@@ -1,0 +1,8 @@
+src/Omnipay/Payway/
+tests/
+.gitignore
+LICENSE
+README.md
+build.xml
+composer.json
+composer.lock

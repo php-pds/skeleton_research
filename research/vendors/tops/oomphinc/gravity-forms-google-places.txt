@@ -1,0 +1,5 @@
+assets/
+inc/
+.gitignore
+composer.json
+google-places.php

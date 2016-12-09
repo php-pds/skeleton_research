@@ -1,0 +1,15 @@
+Controller/
+DependencyInjection/
+Entity/
+Form/
+Helper/
+Model/
+Repository/
+Resources/
+Service/
+Twig/Extension/
+.gitignore
+BaconAclBundle.php
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,12 @@
+Command/
+Middlewares/Handler/
+Query/
+Tests/
+.atoum.php
+.atoum.travis.php
+.bootstrap.atoum.php
+.travis.yml
+README.md
+ReadModelInterface.php
+WriteModelInterface.php
+composer.json

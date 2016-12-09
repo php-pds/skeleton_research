@@ -1,0 +1,10 @@
+sql/
+src/StefanoTree/
+tests/
+.coveralls.yml
+.gitignore
+.php_cs
+.travis.yml
+LICENSE.txt
+README.md
+composer.json

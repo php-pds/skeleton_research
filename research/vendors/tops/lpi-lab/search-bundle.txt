@@ -1,0 +1,14 @@
+Command/
+DependencyInjection/
+Listener/
+Model/
+Resources/config/
+Service/
+Tests/
+docs/
+.gitignore
+LICENSE
+LpiSearchBundle.php
+README.md
+composer.json
+composer.lock

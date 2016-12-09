@@ -1,0 +1,5 @@
+Resources/public/
+.gitignore
+BmatznerMediaElementBundle.php
+README.md
+composer.json

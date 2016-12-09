@@ -1,0 +1,5 @@
+Classes/Famelo/PackageCatalog/
+Configuration/
+Resources/
+Readme.md
+composer.json

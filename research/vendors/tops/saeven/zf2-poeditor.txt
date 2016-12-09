@@ -1,0 +1,7 @@
+config/
+src/CirclicalTranslationEditor/
+view/circlical-translation-editor/
+LICENSE
+Module.php
+README.md
+composer.json

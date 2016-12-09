@@ -1,0 +1,6 @@
+views/
+.gitattributes
+.gitignore
+README.md
+ShareButton.php
+composer.json

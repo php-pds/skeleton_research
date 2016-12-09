@@ -1,0 +1,6 @@
+DependencyInjection/
+Form/Type/
+Resources/
+README.md
+YokaiManyToManyMatrixBundle.php
+composer.json

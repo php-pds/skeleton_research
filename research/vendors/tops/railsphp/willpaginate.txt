@@ -1,0 +1,4 @@
+lib/Rails/WillPaginate/
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,16 @@
+config/
+docs/
+src/ZucchiModel/
+tests/
+.gitignore
+.travis.yml
+LICENSE.txt
+Module.php
+README.md
+autoload_classmap.php
+autoload_function.php
+autoload_register.php
+build.xml
+codeception.travis.yml
+codeception.yml
+composer.json

@@ -1,0 +1,11 @@
+.atoum.php
+.atoum.travis.php
+.bootstrap.atoum.php
+.travis.yml
+HashCoder.php
+HashCoderInterface.php
+Hashable.php
+HashableInterface.php
+HashableTrait.php
+README.md
+composer.json

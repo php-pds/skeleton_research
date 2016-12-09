@@ -1,0 +1,13 @@
+src/
+tests/
+.editorconfig
+.gitignore
+.npmignore
+HISTORY.md
+Makefile
+README.md
+TESTING.md
+codeception.yml
+composer.json
+composer.lock
+publish.sh

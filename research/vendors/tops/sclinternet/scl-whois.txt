@@ -1,0 +1,10 @@
+.travis/
+config/
+src/SclWhois/
+tests/WhoisLookupTests/
+.gitignore
+.travis.yml
+LICENSE.txt
+README.md
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,10 @@
+Controller/
+DependencyInjection/
+Form/
+Model/
+Resources/
+Tests/Controller/
+Twig/Extension/
+KitpagesShopCmsBundle.php
+README.md
+composer.json

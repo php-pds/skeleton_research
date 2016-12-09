@@ -1,0 +1,10 @@
+Resources/config/
+src/php/Webforge/Symfony/
+tests/php/
+.gitignore
+LICENSE
+README.md
+bootstrap.php
+composer.json
+phpunit.xml.dist
+rmt.json

@@ -1,0 +1,8 @@
+src/RunOpenCode/Bundle/Traitor/
+test/
+.scrutinizer.yml
+.travis.yml
+LICENSE.txt
+README.md
+composer.json
+phpunit.xml

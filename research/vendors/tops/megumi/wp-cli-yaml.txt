@@ -1,0 +1,9 @@
+bin/
+features/
+utils/
+.gitignore
+.travis.yml
+README.md
+cli.php
+composer.json
+composer.lock

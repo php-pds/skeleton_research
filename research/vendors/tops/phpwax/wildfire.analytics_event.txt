@@ -1,0 +1,6 @@
+lib/
+view/shared/
+README.md
+composer.json
+ini.php
+setup.php

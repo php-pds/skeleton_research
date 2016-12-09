@@ -1,0 +1,5 @@
+src/
+tests/Docker/Composer/Tests/
+.gitignore
+composer.json
+composer.lock

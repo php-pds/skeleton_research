@@ -1,0 +1,5 @@
+src/Whsuite/Translation/
+.gitignore
+LICENSE
+README.md
+composer.json

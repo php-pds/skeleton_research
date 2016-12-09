@@ -1,0 +1,13 @@
+DataCollector/
+DependencyInjection/
+Resources/
+Tests/
+docs/screenshots/
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+SnideTravisBundle.php
+composer.json
+composer.lock
+phpunit.xml.dist

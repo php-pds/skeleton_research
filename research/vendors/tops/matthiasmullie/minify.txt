@@ -1,0 +1,14 @@
+bin/
+data/js/
+src/
+tests/
+.gitattributes
+.gitignore
+.travis.yml
+CONTRIBUTING.md
+LICENSE
+README.md
+appveyor.yml
+composer.json
+makefile
+phpunit.xml.dist

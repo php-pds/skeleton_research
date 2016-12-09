@@ -1,0 +1,8 @@
+Datatable/
+DependencyInjection/
+Resources/
+.gitignore
+LICENSE
+OlixDatatablesBootstrapBundle.php
+README.md
+composer.json

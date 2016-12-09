@@ -1,0 +1,6 @@
+lib/mikemeier/CodebaseApi/
+tests/
+.gitignore
+composer.json
+console
+phpunit.xml.dist

@@ -1,0 +1,5 @@
+src/hexpang/moviebot/
+.gitignore
+LICENSE
+README.md
+composer.json

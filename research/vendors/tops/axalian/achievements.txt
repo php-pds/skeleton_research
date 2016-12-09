@@ -1,0 +1,12 @@
+assets/
+config/
+src/AxalianAchievements/
+tests/
+view/partials/axalian_achievements/
+.travis.yml
+LICENSE
+Module.php
+README.md
+autoload.php
+composer.json
+phpunit.xml.dist

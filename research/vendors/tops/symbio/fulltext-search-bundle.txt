@@ -1,0 +1,15 @@
+Command/
+Controller/
+DependencyInjection/
+Entity/
+Event/
+Profiler/DataCollector/
+Provider/
+Resources/
+Service/
+Twig/
+.gitignore
+LICENSE.md
+README.md
+SymbioFulltextSearchBundle.php
+composer.json

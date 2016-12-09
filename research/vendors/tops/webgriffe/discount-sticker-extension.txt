@@ -1,0 +1,8 @@
+ci @ 4ce0775
+src/
+.gitignore
+.gitmodules
+README.md
+composer.json
+jenkins.ci.sh
+modman

@@ -1,0 +1,11 @@
+build/
+docs/
+src/
+tests/
+.gitattributes
+.gitignore
+.travis.yml
+build.xml
+composer.json
+license.md
+readme.md

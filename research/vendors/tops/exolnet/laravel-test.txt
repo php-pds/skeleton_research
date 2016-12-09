@@ -1,0 +1,14 @@
+DatabaseMigrators/
+TestCase/Integration/
+Traits/
+.gitattributes
+BaseTestCase.php
+CodeCoverageCollector.php
+DatabaseMigratorFactory.php
+README.md
+TestCase.php
+TestCaseFunctional.php
+TestCaseFunctionalResource.php
+TestCaseIntegration.php
+TestCaseUnit.php
+composer.json

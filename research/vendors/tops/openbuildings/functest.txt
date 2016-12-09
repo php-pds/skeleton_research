@@ -1,0 +1,16 @@
+assets/
+classes/
+config/
+guide/functest/
+tests/
+views/functest/
+.coveralls.yml
+.gitignore
+.travis.yml
+LICENSE
+README.md
+bootstrap.php
+composer.json
+composer.lock
+phpunit.xml
+tests.php

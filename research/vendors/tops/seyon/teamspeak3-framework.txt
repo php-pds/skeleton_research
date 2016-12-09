@@ -1,0 +1,10 @@
+docs/html/
+examples/
+images/
+libraries/TeamSpeak3/
+nbproject/
+.gitignore
+README.md
+changelog.txt
+composer.json
+license.txt

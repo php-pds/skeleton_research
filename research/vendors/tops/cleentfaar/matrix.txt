@@ -1,0 +1,16 @@
+src/CL/Matrix/
+tests/src/CL/Matrix/
+.editorconfig
+.gitattributes
+.gitignore
+.php_cs
+.scrutinizer.yml
+.travis.yml
+CHANGELOG.md
+CONDUCT.md
+CONTRIBUTING.md
+LICENSE.md
+README.md
+USAGE.md
+composer.json
+phpunit.xml.dist

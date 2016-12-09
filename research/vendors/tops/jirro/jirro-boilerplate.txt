@@ -1,0 +1,10 @@
+bin/
+config/
+var/
+web/
+.gitignore
+LICENSE
+README.md
+bootstrap.php
+cli-config.php
+composer.json

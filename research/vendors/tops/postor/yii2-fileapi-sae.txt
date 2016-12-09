@@ -1,0 +1,13 @@
+actions/
+assets/css/
+behaviors/
+messages/
+views/
+.gitignore
+Asset.php
+CropAsset.php
+MultipleAsset.php
+README.md
+SingleAsset.php
+Widget.php
+composer.json

@@ -1,0 +1,9 @@
+Connector/
+Definition/
+Exception/
+Query/
+Database.php
+Exception.php
+README.md
+RecordList.php
+composer.json

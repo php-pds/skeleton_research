@@ -1,0 +1,6 @@
+library/ZendOpenId/
+tests/
+.gitignore
+LICENSE.txt
+README.md
+composer.json

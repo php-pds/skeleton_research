@@ -1,0 +1,4 @@
+Classes/Econic/Testing/
+Configuration/Testing/
+Tests/Functional/
+composer.json

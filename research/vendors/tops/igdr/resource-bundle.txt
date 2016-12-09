@@ -1,0 +1,10 @@
+Controller/
+DependencyInjection/
+Resources/config/
+Routing/
+.gitignore
+IgdrResource.php
+IgdrResourceBundle.php
+README.md
+composer.json
+phpunit.xml.dist

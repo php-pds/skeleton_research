@@ -1,0 +1,11 @@
+src/
+tests/
+.codeception.coverage.yml
+.codeception.yml
+.gitignore
+.scrutinizer.yml
+.styleci.yml
+.travis.yml
+README.md
+composer.json
+composer.lock

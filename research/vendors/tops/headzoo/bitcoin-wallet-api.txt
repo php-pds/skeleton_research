@@ -1,0 +1,7 @@
+docs/
+src/Headzoo/Bitcoin/Wallet/Api/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json

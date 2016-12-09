@@ -1,0 +1,5 @@
+src/Aspose/Storage/
+tests/
+LICENSE
+README.md
+composer.json

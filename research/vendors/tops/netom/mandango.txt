@@ -1,0 +1,12 @@
+src/Mandango/
+tests/
+.gitignore
+.travis.yml
+CHANGELOG
+LICENSE
+README.md
+TODO.md
+composer.json
+composer.lock
+composer.phar
+phpunit.xml

@@ -1,0 +1,8 @@
+actions/
+design/admin2/templates/merge/
+modules/merge/
+settings/
+README.md
+composer.json
+extension.xml
+ezinfo.php

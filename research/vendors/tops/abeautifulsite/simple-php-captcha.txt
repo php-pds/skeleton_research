@@ -1,0 +1,7 @@
+backgrounds/
+fonts/
+.gitignore
+composer.json
+index.php
+readme.md
+simple-php-captcha.php

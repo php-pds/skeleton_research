@@ -1,0 +1,10 @@
+sandbox/templates/
+src/
+tests/
+.gitignore
+.travis.yml
+README.md
+composer.json
+l.php
+phpci.yml
+phpunit.xml

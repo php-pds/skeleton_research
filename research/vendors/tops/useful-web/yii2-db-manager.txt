@@ -1,0 +1,3 @@
+DbManager.php
+README.md
+composer.json

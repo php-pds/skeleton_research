@@ -1,0 +1,12 @@
+assets/
+controllers/backend/
+helpers/
+messages/
+migrations/
+models/
+traits/
+views/backend/
+LICENSE
+README.md
+StoreCube.php
+composer.json

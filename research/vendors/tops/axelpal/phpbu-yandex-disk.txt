@@ -1,0 +1,7 @@
+src/Backup/Sync/
+.gitignore
+LICENSE
+README.md
+composer.json
+extend.php
+phpbu.xml_example

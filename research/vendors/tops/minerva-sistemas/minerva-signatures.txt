@@ -1,0 +1,6 @@
+src/Minerva/Signatures/
+test/
+.gitignore
+LICENSE
+README.md
+composer.json

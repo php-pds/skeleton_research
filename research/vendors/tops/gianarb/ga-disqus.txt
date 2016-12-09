@@ -1,0 +1,9 @@
+config/
+src/GaDisqus/View/Helper/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+Module.php
+README.md
+composer.json

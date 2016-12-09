@@ -1,0 +1,12 @@
+app/
+bin/
+config/
+lib/G/
+tests/
+views/x/
+.gitignore
+README.md
+composer.json
+composer.lock
+index.php
+phpunit.xml

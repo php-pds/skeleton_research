@@ -1,0 +1,5 @@
+examples/
+src/AdamQuaile/SlimStack/
+.gitignore
+README.md
+composer.json

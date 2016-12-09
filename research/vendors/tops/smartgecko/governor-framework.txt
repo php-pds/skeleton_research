@@ -1,0 +1,10 @@
+src/Governor/Framework/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+myconfig.ini
+phpunit.xml.dist

@@ -1,0 +1,15 @@
+actions/event_calendar/
+graphics/
+languages/
+models/
+upgrades/
+vendors/
+views/
+CHANGES.txt
+LICENCE.txt
+README.md
+composer.json
+manifest.xml
+start.php
+version.php
+views.php

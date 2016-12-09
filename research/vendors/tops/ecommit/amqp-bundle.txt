@@ -1,0 +1,10 @@
+Amqp/
+Command/
+DependencyInjection/
+Exception/
+Manager/
+Resources/config/
+EcommitAmqpBundle.php
+LICENSE
+README.md
+composer.json

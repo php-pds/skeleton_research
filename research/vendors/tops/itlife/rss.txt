@@ -1,0 +1,5 @@
+.config.json
+composer.json
+data.php
+rss.php
+rss.tpl

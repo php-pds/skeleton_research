@@ -1,0 +1,9 @@
+Tests/
+demo/
+.gitignore
+.travis.yml
+ArticleExtractor.php
+README.md
+RssCollector.php
+composer.json
+phpunit.xml

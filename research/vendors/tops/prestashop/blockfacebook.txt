@@ -1,0 +1,12 @@
+css/
+translations/
+views/admin/_configure/
+CHANGELOG.txt
+Readme.md
+blockfacebook.js
+blockfacebook.php
+blockfacebook.tpl
+composer.json
+config.xml
+logo.gif
+logo.png

@@ -1,0 +1,5 @@
+src/Ajp/
+tests/Integration/
+.gitignore
+composer.json
+phpunit.xml.dist

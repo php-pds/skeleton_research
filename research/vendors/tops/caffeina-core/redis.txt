@@ -1,0 +1,4 @@
+classes/Cache/
+.gitignore
+README.md
+composer.json

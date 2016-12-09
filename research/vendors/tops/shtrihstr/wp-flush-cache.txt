@@ -1,0 +1,4 @@
+default/
+.gitignore
+composer.json
+flush-cache.php

@@ -1,0 +1,8 @@
+Demo/
+src/Clio/
+tests/Clio/
+.gitignore
+LICENSE
+README.md
+composer.json
+phpunit.xml

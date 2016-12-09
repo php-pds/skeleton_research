@@ -1,0 +1,4 @@
+classes/
+tests/jsend/
+README.md
+composer.json

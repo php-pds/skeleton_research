@@ -1,0 +1,9 @@
+assets/
+config/
+src/KapAngularTheme/
+view/
+LICENSE.txt
+Module.php
+README.md
+autoload_classmap.php
+composer.json

@@ -1,0 +1,6 @@
+migrations/
+seeds/
+src/Language/
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,13 @@
+.settings/
+API/
+Core/
+DependencyInjection/
+Resources/config/
+Tests/
+.buildpath
+.gitignore
+.project
+LICENSE
+PieceQuestetraBundle.php
+composer.json
+phpunit.xml

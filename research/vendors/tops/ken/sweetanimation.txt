@@ -1,0 +1,3 @@
+src/Ken/Sweetanimation/
+README.md
+composer.json

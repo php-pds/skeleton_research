@@ -1,0 +1,16 @@
+docs/
+examples/
+src/EvaOAuth/
+tests/
+tmp/
+.coveralls.yml
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+README_CN.md
+composer.json
+makefile
+phpdoc.xml
+phpunit.xml.dist

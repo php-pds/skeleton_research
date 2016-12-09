@@ -1,0 +1,2 @@
+composer.json
+wp-cli-stat-command.php

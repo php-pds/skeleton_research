@@ -1,0 +1,6 @@
+assets/
+resources/
+ClEditor.php
+LICENSE
+README.md
+composer.json

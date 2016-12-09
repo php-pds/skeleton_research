@@ -1,0 +1,8 @@
+src/Kohkimakimoto/Adminer/
+tests/
+.gitignore
+.travis.yml
+README.md
+adminer.png
+composer.json
+phpunit.xml

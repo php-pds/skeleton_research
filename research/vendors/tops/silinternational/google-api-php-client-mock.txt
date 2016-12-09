@@ -1,0 +1,10 @@
+SilMock/
+.coveralls.yml
+.gitignore
+.travis.yml
+LICENSE
+README.md
+Vagrantfile
+composer.json
+composer.lock
+vagrant-provision.sh

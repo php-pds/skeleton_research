@@ -1,0 +1,7 @@
+src/
+tests/jsplugins/
+.gitattributes
+.gitignore
+autoload.php
+bower.json
+composer.json

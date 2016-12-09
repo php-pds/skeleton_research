@@ -1,0 +1,14 @@
+resources/metadata/xml/
+spec/
+src/
+.editorconfig
+.gitattributes
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+composer.json
+phpspec.yml.ci
+phpspec.yml.dist

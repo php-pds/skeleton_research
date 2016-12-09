@@ -1,0 +1,14 @@
+assets/
+behaviors/
+classes/
+components/
+controllers/
+formwidgets/
+lang/
+models/
+tests/
+updates/
+widgets/
+LICENCE.md
+Plugin.php
+composer.json

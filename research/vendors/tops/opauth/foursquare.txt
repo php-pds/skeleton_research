@@ -1,0 +1,3 @@
+FoursquareStrategy.php
+README.md
+composer.json

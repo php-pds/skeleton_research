@@ -1,0 +1,15 @@
+Asset/
+DependencyInjection/
+EventListener/
+Exception/
+Resources/
+Security/Voter/
+Templating/
+Tests/
+.gitignore
+.travis.yml
+EzCoreExtraBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml

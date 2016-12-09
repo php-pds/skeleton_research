@@ -1,0 +1,6 @@
+config/
+src/Template/Layout/
+webroot/
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,14 @@
+docs/
+src/
+tests/
+.editorconfig
+.gitattributes
+.gitignore
+.php_cs
+.travis.yml
+CHANGELOG.md
+LICENSE
+Makefile
+README.md
+composer.json
+phpunit.xml.dist

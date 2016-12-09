@@ -1,0 +1,17 @@
+src/Phlexible/
+.codeclimate.yml
+.gitignore
+.scrutinizer.yml
+.styleci.yml
+.travis.yml
+CHANGELOG
+LICENSE
+README.md
+UPGRADE-1.1.md
+build.xml
+composer.json
+composer.lock
+phpmetrics.yml
+phpunit.xml.dist
+puli.json
+sami.php

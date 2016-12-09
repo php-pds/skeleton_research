@@ -1,0 +1,7 @@
+src/Anonym/Components/
+.gitignore
+LICENSE
+README.md
+composer.json
+index.php
+test

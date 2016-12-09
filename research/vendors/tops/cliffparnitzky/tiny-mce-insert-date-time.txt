@@ -1,0 +1,7 @@
+assets/tinymce4/plugins/insertdatetime/
+system/modules/TinyMceInsertDateTime/
+.gitattributes
+.gitignore
+README.md
+composer.json
+screenshot.jpg

@@ -1,0 +1,6 @@
+src/V1/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+composer.json
+phpunit.xml.dist

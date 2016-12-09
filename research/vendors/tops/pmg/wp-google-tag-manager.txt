@@ -1,0 +1,4 @@
+inc/
+composer.json
+google-tag-manager.php
+readme.md

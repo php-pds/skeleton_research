@@ -1,0 +1,7 @@
+.gitignore
+LICENSE.md
+common.inc.php
+composer.json
+lock-notifications.css
+lock-notifications.js.php
+manifest.xml

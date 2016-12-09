@@ -1,0 +1,6 @@
+src/chobie/
+tests/chobie/VersionSorter/
+.travis.yml
+README.md
+composer.json
+phpunit.xml.dist

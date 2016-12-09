@@ -1,0 +1,7 @@
+doc/
+examples/
+src/EloGank/Replay/Downloader/
+.gitignore
+LICENSE
+README.md
+composer.json

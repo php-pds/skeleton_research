@@ -1,0 +1,14 @@
+Command/
+Graphviz/
+Resources/
+Tests/
+.gitignore
+.travis.yml
+AlexDoctrineExtraBundle.php
+CHANGELOG.md
+CONTRIBUTORS.md
+LICENSE
+README.md
+composer.json
+out.pdf
+phpunit.xml.dist

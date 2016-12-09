@@ -1,0 +1,8 @@
+Api/
+DependencyInjection/
+Resources/config/
+.gitignore
+BaconPackagistBundle.php
+LICENSE
+README.md
+composer.json

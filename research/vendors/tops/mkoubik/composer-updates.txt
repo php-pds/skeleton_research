@@ -1,0 +1,7 @@
+src/ComposerUpdates/
+tests/ComposerUpdates/
+.gitignore
+.travis.yml
+LICENSE.md
+README.md
+composer.json

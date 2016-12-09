@@ -1,0 +1,10 @@
+docker-images/
+src/
+var/
+.gitignore
+README.md
+composer.json
+container.sh
+docker-compose.local.yml.dist
+docker-compose.yml
+package.json

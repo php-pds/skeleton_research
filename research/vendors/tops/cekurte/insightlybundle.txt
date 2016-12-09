@@ -1,0 +1,6 @@
+DependencyInjection/
+Resources/config/
+.gitignore
+CekurteInsightlyBundle.php
+README.md
+composer.json

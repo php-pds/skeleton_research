@@ -1,0 +1,8 @@
+src/
+tests/units/State/
+.atoum.bootstrap.php
+.atoum.php
+.gitignore
+.travis.yml
+README.md
+composer.json

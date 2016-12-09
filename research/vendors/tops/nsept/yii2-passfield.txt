@@ -1,0 +1,9 @@
+assets/
+messages/
+.gitignore
+PassfieldAsset.php
+PassfieldWidget.php
+README.md
+composer.json
+gulpfile.js
+package.json

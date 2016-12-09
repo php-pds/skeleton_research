@@ -1,0 +1,12 @@
+Tests/
+assets/
+lib/
+resources/app/controller/
+view/
+.gitignore
+README.md
+composer.json
+composer.lock
+ini.php
+phpunit.xml.dist
+setup.php

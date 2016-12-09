@@ -1,0 +1,5 @@
+src/Mabasic/Mailer/
+.gitignore
+LICENSE.md
+composer.json
+readme.md

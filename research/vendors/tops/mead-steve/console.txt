@@ -1,0 +1,6 @@
+src/MeadSteve/Console/
+test/MeadSteve/Console/
+LICENSE
+README.md
+composer.json
+example.php

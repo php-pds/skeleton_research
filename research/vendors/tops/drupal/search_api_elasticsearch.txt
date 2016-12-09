@@ -1,0 +1,7 @@
+includes/
+.gitignore
+README.md
+composer.json
+search_api_elasticsearch.info
+search_api_elasticsearch.install
+search_api_elasticsearch.module

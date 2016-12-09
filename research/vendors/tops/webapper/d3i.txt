@@ -1,0 +1,5 @@
+src/D3I/
+tests/
+.gitignore
+README.md
+composer.json

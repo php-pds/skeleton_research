@@ -1,0 +1,8 @@
+config/
+src/
+.editorconfig
+.gitignore
+.travis.yml
+LICENSE.txt
+README.md
+composer.json

@@ -1,0 +1,9 @@
+src/Raskoh/
+vendor/
+.gitattributes
+.gitignore
+README.md
+code-capture.PNG
+composer.json
+raskoh.php
+readme.txt

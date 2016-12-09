@@ -1,0 +1,4 @@
+bin/
+src/
+autoload.php
+composer.json

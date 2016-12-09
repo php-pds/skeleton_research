@@ -1,0 +1,7 @@
+Rundiz/SerialNumberGenerator/
+tests/
+.gitattributes
+LICENSE
+README.md
+composer.json
+phpunit.xml

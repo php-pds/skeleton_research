@@ -1,0 +1,5 @@
+src/ride/library/dependency/
+test/src/ride/library/dependency/
+.gitignore
+README.md
+composer.json

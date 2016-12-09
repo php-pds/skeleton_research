@@ -1,0 +1,6 @@
+lib/HideStatusBar/
+static/js/
+LICENSE.txt
+README.md
+composer.json
+plugin.xml

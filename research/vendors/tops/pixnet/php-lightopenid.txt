@@ -1,0 +1,6 @@
+provider/
+LICENSE
+composer.json
+example-google.php
+example.php
+openid.php

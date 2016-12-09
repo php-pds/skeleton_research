@@ -1,0 +1,12 @@
+public/
+src/
+tests/
+.gitignore
+.travis.yml
+README.md
+composer.json
+gulpfile.js
+package.json
+phpunit.xml
+preview-404.png
+preview-any.png

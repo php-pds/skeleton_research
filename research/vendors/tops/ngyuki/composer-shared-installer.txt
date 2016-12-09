@@ -1,0 +1,6 @@
+example/
+resource/
+src/ngyuki/ComposerSharedInstaller/
+.gitignore
+README.md
+composer.json

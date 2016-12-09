@@ -1,0 +1,12 @@
+Command/
+DependencyInjection/
+Domain/
+Resources/
+Service/
+Tests/
+.gitignore
+.travis.yml
+MorphodoCrawlerBundle.php
+README.rst
+composer.json
+phpunit.xml.dist

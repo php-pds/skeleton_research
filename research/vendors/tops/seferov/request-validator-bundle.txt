@@ -1,0 +1,13 @@
+Annotation/
+DependencyInjection/
+EventListener/
+Resources/config/
+Tests/Functional/
+Validator/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+SeferovRequestValidatorBundle.php
+composer.json
+phpunit.xml.dist

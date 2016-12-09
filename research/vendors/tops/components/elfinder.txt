@@ -1,0 +1,7 @@
+dist/
+CONTRIBUTING.md
+LICENSE
+README.md
+bower.json
+composer.json
+package.json

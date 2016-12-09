@@ -1,0 +1,11 @@
+demos/
+flash/
+LICENSE
+README.md
+bower.json
+build.sh
+composer.json
+package.json
+webcam.js
+webcam.min.js
+webcam.swf

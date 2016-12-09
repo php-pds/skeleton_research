@@ -1,0 +1,15 @@
+docs/
+i18n/
+res/
+src/
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+COPYING
+DefaultSettings.php
+ISSUE_TEMPLATE.md
+README.md
+WhatsNearby.php
+composer.json
+phpunit.xml.dist

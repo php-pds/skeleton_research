@@ -1,0 +1,8 @@
+addon/
+keymap/
+lib/
+mode/
+theme/
+LICENSE
+README.md
+composer.json

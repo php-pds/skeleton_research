@@ -1,0 +1,17 @@
+app/
+docs/guide/
+environments/
+tests/
+themes/
+.bowerrc
+.gitattributes
+.gitignore
+.travis.yml
+LICENSE.md
+README.md
+composer.json
+composer.lock
+init
+init.bat
+requirements.php
+yii.bat

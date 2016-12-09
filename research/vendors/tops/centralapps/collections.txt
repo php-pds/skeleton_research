@@ -1,0 +1,7 @@
+src/CentralApps/Collections/
+tests/unit/
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml

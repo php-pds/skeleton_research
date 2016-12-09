@@ -1,0 +1,9 @@
+src/ZfAuth/
+tests/
+.gitignore
+CHANGELOG.md
+README.md
+composer.json
+composer.lock
+composer.phar
+phpunit.phar

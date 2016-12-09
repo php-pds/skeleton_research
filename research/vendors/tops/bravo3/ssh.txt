@@ -1,0 +1,8 @@
+docs/
+src/Bravo3/SSH/
+tests/
+.gitignore
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

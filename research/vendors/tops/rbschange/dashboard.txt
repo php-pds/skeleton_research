@@ -1,0 +1,12 @@
+actions/
+changedev-commands/
+config/
+i18n/
+lib/
+patch/
+setup/
+style/
+templates/
+views/
+LICENSE.txt
+change.xml

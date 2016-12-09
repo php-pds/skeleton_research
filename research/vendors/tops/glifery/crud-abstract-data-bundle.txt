@@ -1,0 +1,12 @@
+Controller/
+Crud/
+DataObject/
+DependencyInjection/
+EventListener/
+Exception/
+ObjectManager/
+Resources/
+Service/
+Tools/
+GliferyCrudAbstractDataBundle.php
+composer.json

@@ -1,0 +1,13 @@
+actions/
+classes/ColdTrick/AdminTools/
+languages/
+lib/
+views/default/admin_tools/
+.gitignore
+.travis.yml
+CHANGES.txt
+README.md
+composer.json
+composer.lock
+manifest.xml
+start.php

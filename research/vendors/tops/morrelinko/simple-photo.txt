@@ -1,0 +1,13 @@
+samples/
+schema/
+src/
+tests/
+.gitattributes
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+autoload.php
+composer.json
+phpunit.xml

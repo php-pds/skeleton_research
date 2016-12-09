@@ -1,0 +1,9 @@
+.idea/
+public/
+src/
+tests/FintechFab/
+.gitignore
+.travis.yml
+README.md
+composer.json
+phpunit.xml

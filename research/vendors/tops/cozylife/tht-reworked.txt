@@ -1,0 +1,14 @@
+admin/
+client/
+includes/
+install/
+order/
+support/
+themes/
+.htaccess
+Installation.txt
+LICENSE
+README.md
+composer.json
+index.php
+tht-readme.txt

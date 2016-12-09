@@ -1,0 +1,5 @@
+demos/
+src/ZFDebug/Controller/Plugin/
+README.md
+composer.json
+license.txt

@@ -1,0 +1,7 @@
+Command/
+DependencyInjection/
+Generator/
+DoctrineTraitBundle.php
+LICENSE
+README.md
+composer.json

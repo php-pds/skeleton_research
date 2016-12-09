@@ -1,0 +1,4 @@
+src/Gophry/DTO/
+.gitignore
+README.md
+composer.json

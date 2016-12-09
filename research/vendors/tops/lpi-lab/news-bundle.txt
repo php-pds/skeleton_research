@@ -1,0 +1,11 @@
+Admin/
+Block/
+Controller/
+DependencyInjection/
+Entity/
+Model/
+Repository/
+Resources/
+.gitignore
+LpiNewsBundle.php
+composer.json

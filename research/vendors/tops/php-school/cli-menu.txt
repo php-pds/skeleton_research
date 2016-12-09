@@ -1,0 +1,13 @@
+docs/pt_BR/
+examples/
+src/
+test/
+.gitattributes
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+appveyor.yml
+composer.json
+phpunit.xml

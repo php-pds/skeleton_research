@@ -1,0 +1,13 @@
+htdocs/
+lib/
+scripts/
+.bowerrc
+.gitignore
+.gitmodules
+.htaccess
+README.textile
+application_configuration.php
+bower.json
+composer.json
+composer.lock
+front.php

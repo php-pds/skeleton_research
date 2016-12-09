@@ -1,0 +1,11 @@
+.gitignore
+Qtip.php
+QtipAsset.php
+README.md
+composer.json
+imagesloaded.pkg.min.js
+jquery.qtip.css
+jquery.qtip.js
+jquery.qtip.min.css
+jquery.qtip.min.js
+jquery.qtip.min.map

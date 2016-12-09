@@ -1,0 +1,8 @@
+assets/
+lib/Auth/
+src/
+views/login/
+.gitignore
+README.md
+composer.json
+plugin.php

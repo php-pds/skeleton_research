@@ -1,0 +1,6 @@
+console/
+lib/Skeleton/Database/
+template/
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,7 @@
+src/
+.editorconfig
+.gitignore
+Vagrantfile
+composer.json
+license
+readme.md

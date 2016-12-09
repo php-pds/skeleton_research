@@ -1,0 +1,14 @@
+bin/
+data/
+src/
+tests/
+.coveralls.yml
+.gitignore
+.npmignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+index.js
+package.json
+phpunit.xml.dist

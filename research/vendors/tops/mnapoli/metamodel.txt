@@ -1,0 +1,9 @@
+doc/
+src/MetaModel/
+tests/
+.gitattributes
+.gitignore
+.travis.yml
+README.md
+composer.json
+phpunit.xml

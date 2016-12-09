@@ -1,0 +1,13 @@
+Command/
+DataCollector/
+DependencyInjection/
+EventListener/
+Resources/
+Tests/
+.gitignore
+.travis.yml
+HBStampieBundle.php
+LICENSE.txt
+README.md
+composer.json
+phpunit.xml.dist

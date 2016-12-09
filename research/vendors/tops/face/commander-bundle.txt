@@ -1,0 +1,8 @@
+Command/
+DependencyInjection/
+Event/
+Resources/config/
+.gitignore
+FaceCommanderBundle.php
+composer.json
+phpspec.yml

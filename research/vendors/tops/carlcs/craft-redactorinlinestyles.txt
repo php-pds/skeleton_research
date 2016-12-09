@@ -1,0 +1,9 @@
+_examples/
+resources/
+translations/
+.gitignore
+RedactorInlineStylesPlugin.php
+composer.json
+config.php
+readme.md
+releases.json

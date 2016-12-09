@@ -1,0 +1,7 @@
+src/
+.gitignore
+.remote-sync.json
+LICENSE
+README.md
+composer.json
+sh.exe.stackdump

@@ -1,0 +1,17 @@
+.sencha/
+build/
+cmd/
+licenses/
+overrides/
+packages/
+src/
+.gitignore
+LICENSE
+Readme.md
+build.xml
+composer.json
+ext-bootstrap.js
+index.html
+package.json
+release-notes.html
+version.properties

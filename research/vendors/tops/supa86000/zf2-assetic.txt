@@ -1,0 +1,8 @@
+src/
+CHANGELOG-1.0.md
+CHANGELOG-1.1.md
+Gemfile
+LICENSE
+README.md
+composer.json
+package.json

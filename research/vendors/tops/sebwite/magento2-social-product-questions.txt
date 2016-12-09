@@ -1,0 +1,9 @@
+Block/
+Model/Config/Source/
+etc/
+i18n/
+view/frontend/
+README.md
+composer.json
+registration.php
+screenshot.png

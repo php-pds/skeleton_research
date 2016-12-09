@@ -1,0 +1,5 @@
+Core/Security/
+LICENSE
+README.md
+composer.json
+composer.lock

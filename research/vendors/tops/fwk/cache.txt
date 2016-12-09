@@ -1,0 +1,17 @@
+Adapters/
+Exceptions/
+Serializers/
+Tests/
+doc/
+.gitignore
+Adapter.php
+CREDITS
+CacheEntry.php
+Exception.php
+LICENSE
+Manager.php
+README.md
+Serializer.php
+build.xml
+composer.json
+phpunit.xml.dist

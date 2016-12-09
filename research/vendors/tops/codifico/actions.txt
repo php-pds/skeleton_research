@@ -1,0 +1,10 @@
+Action/
+Repository/
+Request/
+spec/Codifico/Component/Actions/
+.gitignore
+.php_cs
+.scrutinizer.yml
+LICENSE
+README.md
+composer.json

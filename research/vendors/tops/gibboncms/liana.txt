@@ -1,0 +1,14 @@
+assets/
+bootstrap/
+content/
+public/
+storage/
+views/
+.env.example
+.gitignore
+LICENSE.md
+README.md
+artisan
+composer.json
+gulpfile.js
+package.json

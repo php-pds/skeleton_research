@@ -1,0 +1,9 @@
+Controller/
+Model/
+Service/
+View/
+config/
+public/
+README.rst
+composer.json
+config.php

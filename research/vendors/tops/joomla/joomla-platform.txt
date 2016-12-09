@@ -1,0 +1,16 @@
+bin/
+build/
+docs/manual/en-US/
+libraries/
+media/system/
+tests/
+.gitmodules
+CONTRIBUTING.markdown
+LICENSE
+README.markdown
+build.xml
+composer.json
+legacy.xml.dist
+packager.test.xml
+packager.xml
+phpunit.xml.dist

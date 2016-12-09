@@ -1,0 +1,4 @@
+.gitignore
+README.md
+UserAgent.php
+composer.json

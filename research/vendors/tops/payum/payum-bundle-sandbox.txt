@@ -1,0 +1,12 @@
+app/
+docker/
+src/
+web/
+.dockerignore
+.gitignore
+Dockerfile
+LICENSE
+README.md
+composer.json
+composer.lock
+docker-compose.yml

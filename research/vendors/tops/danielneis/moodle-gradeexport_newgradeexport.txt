@@ -1,0 +1,10 @@
+db/
+lang/en/
+tests/behat/
+.gitignore
+composer.json
+dump.php
+export.php
+grade_export_newgradeexport.php
+index.php
+version.php

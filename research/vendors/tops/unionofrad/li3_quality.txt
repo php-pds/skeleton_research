@@ -1,0 +1,11 @@
+analysis/
+config/
+extensions/
+qa/
+test/
+tests/
+.gitignore
+.travis.yml
+LICENSE.txt
+README.md
+composer.json

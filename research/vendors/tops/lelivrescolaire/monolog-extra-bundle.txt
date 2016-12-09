@@ -1,0 +1,15 @@
+DependencyInjection/
+Handler/
+Processor/
+Resources/
+Tests/
+build-tools/travis-ci/
+.atoum.php
+.bootstrap.atoum.php
+.coke
+.gitignore
+.travis.yml
+LICENSE
+LLSMonologExtraBundle.php
+README.md
+composer.json

@@ -1,0 +1,10 @@
+css/
+i18n/
+libs/
+AddToCalendar.i18n.magic.php
+AddToCalendar.i18n.php
+AddToCalendar.php
+AddToCalendar_body.php
+LICENSE
+README.md
+composer.json

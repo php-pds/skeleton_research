@@ -1,0 +1,8 @@
+src/Hostnet/
+test/Hostnet/Tests/
+.gitignore
+.travis.yml
+LICENSE
+composer.json
+phpcs.xml.dist
+phpunit.xml.dist

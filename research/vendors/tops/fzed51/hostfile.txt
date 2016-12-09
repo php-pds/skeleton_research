@@ -1,0 +1,7 @@
+nbproject/
+src/
+.gitignore
+README.md
+composer.json
+projet.txt
+test.php

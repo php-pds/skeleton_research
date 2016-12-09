@@ -1,0 +1,5 @@
+Resources/public/
+.gitignore
+Ner0ticJQueryPlusBundle.php
+README.md
+composer.json

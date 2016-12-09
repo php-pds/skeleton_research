@@ -1,0 +1,9 @@
+doc/
+eventtypes/event/bcuserregisteruserplacement/
+settings/
+COPYRIGHT.md
+LICENSE
+README.md
+composer.json
+extension.xml
+ezinfo.php

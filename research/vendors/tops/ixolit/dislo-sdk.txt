@@ -1,0 +1,13 @@
+.idea/
+docs @ 0dbae5a
+src/
+tests/
+.gitignore
+.gitmodules
+.scrutinizer.yml
+.travis.yml
+apiCall.php
+build.xml
+composer.json
+phpmd.xml
+phpunit.xml

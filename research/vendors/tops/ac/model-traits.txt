@@ -1,0 +1,13 @@
+Annotation/
+Tests/
+.editorconfig
+.gitignore
+.travis.yml
+AbstractGetterSetterTrait.php
+AnnotatedGetterSetterTrait.php
+AnnotationReaderFetcher.php
+ArrayFactoryTrait.php
+AutoGetterSetterTrait.php
+README.md
+composer.json
+phpunit.xml

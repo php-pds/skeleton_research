@@ -1,0 +1,4 @@
+src/Elasticsearch/
+.gitignore
+build.sh
+composer.json

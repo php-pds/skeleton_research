@@ -1,0 +1,4 @@
+lib/Pagon/
+.gitignore
+README.md
+composer.json

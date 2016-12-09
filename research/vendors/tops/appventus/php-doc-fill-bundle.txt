@@ -1,0 +1,7 @@
+DependencyInjection/
+Documentor/
+Resources/
+Tests/Controller/
+AvPhpDocFillBundle.php
+README.md
+composer.json

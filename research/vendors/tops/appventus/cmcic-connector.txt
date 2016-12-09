@@ -1,0 +1,4 @@
+Entity/
+BankConnector.php
+autoload.php
+composer.json

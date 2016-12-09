@@ -1,0 +1,10 @@
+Docs/
+UIoT/
+.gitattributes
+.gitignore
+.htaccess
+LICENSE.md
+README.md
+composer.json
+favicon.ico
+index.php

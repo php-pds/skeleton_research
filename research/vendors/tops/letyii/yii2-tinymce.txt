@@ -1,0 +1,5 @@
+LICENSE
+README.md
+Tinymce.php
+TinymceAssets.php
+composer.json

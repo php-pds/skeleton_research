@@ -1,0 +1,6 @@
+composer.json
+grid-shortcodes.php
+info.txt
+screenshot.png
+splash.png
+thumb.png

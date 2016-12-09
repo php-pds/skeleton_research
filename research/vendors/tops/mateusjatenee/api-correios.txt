@@ -1,0 +1,9 @@
+.phpintel/
+src/
+tests/
+.gitignore
+LICENSE
+composer.json
+composer.lock
+phpunit.xml
+readme.md

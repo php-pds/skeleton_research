@@ -1,0 +1,10 @@
+Classes/
+Tests/
+unitTests/
+.gitignore
+.travis.yml
+COPYING
+COPYING.LESSER
+LICENSE
+README.md
+composer.json

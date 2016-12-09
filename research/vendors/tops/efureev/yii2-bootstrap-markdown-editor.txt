@@ -1,0 +1,6 @@
+assets/
+.gitignore
+LICENSE
+MarkdownEditor.php
+README.md
+composer.json

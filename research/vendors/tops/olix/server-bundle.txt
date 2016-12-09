@@ -1,0 +1,8 @@
+Controller/
+DependencyInjection/
+Resources/
+Sidebar/
+LICENSE
+OlixServerBundle.php
+README.md
+composer.json

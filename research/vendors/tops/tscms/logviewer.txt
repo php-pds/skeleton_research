@@ -1,0 +1,8 @@
+assets/
+classes/
+config/
+views/logs/
+.gitattributes
+README.md
+composer.json
+init.php

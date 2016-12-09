@@ -1,0 +1,8 @@
+Command/
+Controller/
+DependencyInjection/
+Resources/
+Tests/Controller/
+FourcodersCrudgenerateBundle.php
+README.md
+composer.json

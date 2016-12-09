@@ -1,0 +1,7 @@
+src/Command/Task/
+.editorconfig
+.gitattributes
+.gitignore
+LICENSE.txt
+README.md
+composer.json

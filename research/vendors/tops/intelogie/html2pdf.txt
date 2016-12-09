@@ -1,0 +1,11 @@
+_class/
+_tcpdf_5.0.002/
+examples/
+locale/
+.gitignore
+LISEZMOI
+README.md
+_LGPL.txt
+_changelog.txt
+composer.json
+html2pdf.class.php

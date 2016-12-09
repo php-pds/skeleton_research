@@ -1,0 +1,14 @@
+docs/
+src/
+tests/
+website/
+.coveralls.yml
+.gitattributes
+.gitignore
+.travis.yml
+CONTRIBUTING.md
+LICENSE
+README.md
+composer.json
+couscous.yml
+phpunit.xml.dist

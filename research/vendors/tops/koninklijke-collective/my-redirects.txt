@@ -1,0 +1,15 @@
+Classes/
+Configuration/
+Documentation/
+Resources/
+.gitattributes
+LICENSE
+README.md
+class.ext_update.php
+composer.json
+ext_emconf.php
+ext_icon.png
+ext_localconf.php
+ext_tables.php
+ext_tables.sql
+ext_typoscript_setup.txt

@@ -1,0 +1,3 @@
+FlickrStrategy.php
+README.md
+composer.json

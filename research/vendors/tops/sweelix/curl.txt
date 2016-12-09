@@ -1,0 +1,9 @@
+doc/
+src/
+tests/
+.gitignore
+CHANGELOG.md
+LICENSE.md
+README.md
+codeception.yml
+composer.json

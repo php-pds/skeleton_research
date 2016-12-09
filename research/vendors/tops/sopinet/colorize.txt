@@ -1,0 +1,4 @@
+lib/Sopinet/Colorize/
+test/
+README.md
+composer.json

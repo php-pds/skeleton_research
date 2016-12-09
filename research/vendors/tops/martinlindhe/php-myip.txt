@@ -1,0 +1,7 @@
+examples/
+inc/IpProvider/
+test/
+.gitignore
+README.md
+composer.json
+phpunit.xml

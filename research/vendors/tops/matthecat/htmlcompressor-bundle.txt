@@ -1,0 +1,8 @@
+DependencyInjection/
+EventListener/
+Resources/config/
+.gitignore
+LICENSE
+MatTheCatHtmlCompressorBundle.php
+README.md
+composer.json

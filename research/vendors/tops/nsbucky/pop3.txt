@@ -1,0 +1,6 @@
+src/pop3/
+tests/
+.gitignore
+README.md
+composer.json
+phpunit.xml

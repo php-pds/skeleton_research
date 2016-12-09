@@ -1,0 +1,3 @@
+src/Alias/
+README.md
+composer.json

@@ -1,0 +1,10 @@
+src/VIPSoft/CodeCoverageCommon/
+tests/VIPSoft/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+autoload.php
+composer.json
+composer.lock
+phpunit.xml.dist

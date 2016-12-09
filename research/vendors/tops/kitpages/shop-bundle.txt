@@ -1,0 +1,17 @@
+Controller/
+DependencyInjection/
+Entity/
+Event/
+Model/
+Plugin/
+Repository/
+Resources/
+Tests/
+Twig/Extension/
+.gitignore
+KitpagesShopBundle.php
+KitpagesShopEvents.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

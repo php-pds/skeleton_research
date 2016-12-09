@@ -1,0 +1,10 @@
+src/
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.composer.config.json
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,9 @@
+classes/
+config/
+guide/
+tests/sitemap/
+CHANGELOG.md
+LICENSE
+README.md
+composer.json
+init.php

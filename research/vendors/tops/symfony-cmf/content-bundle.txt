@@ -1,0 +1,17 @@
+Admin/
+Controller/
+DependencyInjection/
+Doctrine/Phpcr/
+Form/
+Model/
+Resources/
+Tests/
+.gitignore
+.styleci.yml
+.travis.yml
+CHANGELOG.md
+CONTRIBUTING.md
+CmfContentBundle.php
+README.md
+composer.json
+phpunit.xml.dist

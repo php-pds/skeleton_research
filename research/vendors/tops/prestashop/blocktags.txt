@@ -1,0 +1,12 @@
+translations/
+upgrade/
+CHANGELOG.txt
+Readme.md
+blocktags.css
+blocktags.php
+blocktags.tpl
+composer.json
+config.xml
+index.php
+logo.gif
+logo.png

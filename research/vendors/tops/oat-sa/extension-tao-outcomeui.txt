@@ -1,0 +1,13 @@
+controller/
+helper/
+includes/
+locales/
+model/
+scripts/
+test/model/
+views/
+.gitignore
+LICENSE
+README.md
+composer.json
+manifest.php

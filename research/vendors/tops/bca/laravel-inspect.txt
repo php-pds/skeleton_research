@@ -1,0 +1,12 @@
+rulesets/
+src/BCA/LaravelInspect/
+tests/
+.gitattributes
+.gitignore
+.travis.yml
+LICENSE
+README.md
+build.xml
+composer.json
+composer.lock
+phing.phar

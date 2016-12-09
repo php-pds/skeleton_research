@@ -1,0 +1,13 @@
+assets/
+inc/
+.codeclimate.yml
+.editorconfig
+.gitignore
+README.md
+changelog.txt
+composer.json
+customizer-definitely.php
+gulpfile.js
+license.txt
+package.json
+readme.txt

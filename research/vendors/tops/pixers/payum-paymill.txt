@@ -1,0 +1,12 @@
+Action/
+Bridge/Symfony/
+Examples/
+Request/
+Tests/
+.travis.yml
+Api.php
+LICENSE
+PaymillGatewayFactory.php
+README.md
+composer.json
+phpunit.xml.dist

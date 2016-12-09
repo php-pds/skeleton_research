@@ -1,0 +1,12 @@
+Tests/
+bin/
+dist/
+src/
+web/js/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+box.json
+composer.json
+phpunit.xml.dist

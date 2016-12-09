@@ -1,0 +1,5 @@
+src/Aspose/Email/
+tests/
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,7 @@
+config/
+dca/
+languages/
+CHANGELOG.md
+README.md
+TemplateOverride.php
+composer.json

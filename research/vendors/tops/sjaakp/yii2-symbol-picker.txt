@@ -1,0 +1,8 @@
+assets/
+.gitattributes
+.gitignore
+LICENSE
+README.md
+SymbolColorsAsset.php
+SymbolPicker.php
+composer.json

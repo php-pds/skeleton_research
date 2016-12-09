@@ -1,0 +1,6 @@
+src/Auth/
+tests/Unit/Auth/
+.atoum.php
+.bootstrap.atoum.php
+.gitignore
+composer.json

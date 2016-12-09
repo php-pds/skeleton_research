@@ -1,0 +1,7 @@
+src/Kir/Streams/Common/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json
+tests.xml

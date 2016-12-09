@@ -1,0 +1,10 @@
+classes/
+config/
+guide/image/
+media/guide/image/
+tests/
+.gitignore
+.travis.yml
+README.markdown
+composer.json
+koharness.php

@@ -1,0 +1,8 @@
+config/
+src/DeitMailModule/
+test/
+.gitignore
+Module.php
+README.md
+composer.json
+composer.lock

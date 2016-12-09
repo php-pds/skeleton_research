@@ -1,0 +1,11 @@
+src/GitRestApi/
+tests/GitRestApi/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+example.php
+phpunit.xml.dist
+ssh_keys.tar.enc

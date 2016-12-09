@@ -1,0 +1,9 @@
+docs @ 6722d55
+src/Lazy/
+tests/Lazy/
+.gitignore
+.gitmodules
+.travis.yml
+LICENSE
+README.md
+composer.json

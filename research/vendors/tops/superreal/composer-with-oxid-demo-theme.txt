@@ -1,0 +1,9 @@
+de/
+en/
+skin/composer-with-oxid-demo-theme/src/
+tpl/layout/
+.gitignore
+LICENSE
+README.md
+composer.json
+theme.php

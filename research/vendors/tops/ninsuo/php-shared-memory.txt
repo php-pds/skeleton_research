@@ -1,0 +1,7 @@
+demo/
+src/Fuz/Component/SharedMemory/
+test/
+CHANGELOG.md
+LICENSE
+README.md
+composer.json

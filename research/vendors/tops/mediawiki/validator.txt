@@ -1,0 +1,12 @@
+build/travis/
+i18n/
+src/
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+COPYING
+README.md
+Validator.php
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,10 @@
+src/SelvinOrtiz/Gossip/
+.gitignore
+.travis.yml
+Gossip.png
+LICENSE.txt
+README.md
+composer.json
+composer.lock
+phpunit.xml
+spec.sh

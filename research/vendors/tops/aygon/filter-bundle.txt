@@ -1,0 +1,6 @@
+DependencyInjection/
+Filter/
+Form/
+Resources/config/
+AygonFilterBundle.php
+composer.json

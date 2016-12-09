@@ -1,0 +1,12 @@
+.phan/
+benchmarks/
+src/
+tests/
+.coveralls.yml
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+php.ini
+phpunit.xml.dist

@@ -1,0 +1,10 @@
+src/Emoji/PHPUnit/
+tests/Emoji/PHPUnit/
+.gitignore
+.travis.yml
+ChangeLog.md
+LICENSE
+README.md
+composer.json
+emoji.png
+phpunit.xml.dist

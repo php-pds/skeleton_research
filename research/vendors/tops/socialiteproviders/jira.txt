@@ -1,0 +1,5 @@
+JiraExtendSocialite.php
+Provider.php
+RsaSha1Signature.php
+Server.php
+composer.json

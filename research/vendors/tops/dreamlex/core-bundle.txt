@@ -1,0 +1,11 @@
+Admin/
+DependencyInjection/
+Resources/config/
+Test/
+Tests/
+.gitignore
+.travis.yml
+DreamlexCoreBundle.php
+README.md
+composer.json
+phpunit.xml.dist

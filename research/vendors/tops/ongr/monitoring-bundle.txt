@@ -1,0 +1,17 @@
+Command/
+DependencyInjection/
+Document/
+EventListener/
+Helper/
+Metric/
+Resources/
+Service/
+Tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+ONGRMonitoringBundle.php
+README.rst
+composer.json
+phpunit.xml.dist

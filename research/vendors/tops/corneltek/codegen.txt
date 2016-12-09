@@ -1,0 +1,11 @@
+src/CodeGen/
+tests/
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+composer.json
+phprelease.ini
+phpunit.xml
+phpunit.xml.dist

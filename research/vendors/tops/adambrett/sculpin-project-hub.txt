@@ -1,0 +1,8 @@
+app/config/
+source/
+.gitignore
+LICENSE
+README.md
+composer.json
+sculpin.json
+sculpin.lock

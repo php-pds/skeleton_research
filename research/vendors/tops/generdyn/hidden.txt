@@ -1,0 +1,17 @@
+core.apps.layout_app_styler/
+core.apps.layout_document/
+core.apps.layout_ecommerce_checkout/
+core.apps.layout_forum/
+core.apps.layout_newsletter/
+core.apps.layout_no_page/
+core.apps.layout_page_access/
+core.apps.layout_row_settings/
+core.apps.layout_sitemap/
+core.apps.layout_store/
+core.apps.layout_styler/
+core.apps.layout_user/
+core.apps.multi_texts/
+core.apps.send_emails_to_friends/
+core.apps.site_settings/
+core.apps.upgrade_browser/
+composer.json

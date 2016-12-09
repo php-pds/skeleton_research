@@ -1,0 +1,6 @@
+.gitignore
+LICENSE
+README.md
+composer.json
+subscriptions_suite.info.yml
+subscriptions_suite.module

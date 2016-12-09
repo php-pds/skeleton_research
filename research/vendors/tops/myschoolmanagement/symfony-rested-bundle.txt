@@ -1,0 +1,10 @@
+Cache/
+DependencyInjection/
+EventListener/
+Resources/config/
+Routing/
+AbstractResource.php
+Factory.php
+RestedBundle.php
+RestedService.php
+composer.json

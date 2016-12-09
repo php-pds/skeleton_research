@@ -1,0 +1,7 @@
+Classes/
+Resources/Private/
+Tests/
+LICENSE.txt
+Readme.rst
+composer.json
+phpunit.xml.dist

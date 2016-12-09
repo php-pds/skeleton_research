@@ -1,0 +1,6 @@
+Command/
+DependencyInjection/
+Resources/
+README.md
+WHSmartAdminBundle.php
+composer.json

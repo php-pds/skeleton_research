@@ -1,0 +1,4 @@
+src/VindiciaPHP/
+.gitignore
+README.md
+composer.json

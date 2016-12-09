@@ -1,0 +1,6 @@
+src/Marello/Bundle/
+.gitignore
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,11 @@
+spec/Black/Component/Page/
+src/Black/Component/Page/
+.gitattributes
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CONTRIBUTING.md
+LICENSE
+README.md
+composer.json
+phpspec.yml

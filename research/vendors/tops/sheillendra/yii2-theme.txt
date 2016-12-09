@@ -1,0 +1,5 @@
+assets/
+components/
+Module.php
+README.md
+composer.json

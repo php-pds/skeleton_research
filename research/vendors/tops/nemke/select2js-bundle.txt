@@ -1,0 +1,7 @@
+.idea/
+Resources/public/
+.gitignore
+LICENSE
+README.md
+Select2JSBundle.php
+composer.json

@@ -1,0 +1,10 @@
+css/
+examples/
+img/
+js/
+CHANGE.md
+LICENSE.md
+README.md
+bower.json
+composer.json
+package.json

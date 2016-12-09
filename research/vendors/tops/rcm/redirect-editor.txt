@@ -1,0 +1,9 @@
+config/
+public/
+src/
+view/rcm-redirect-editor/redirect/
+.gitignore
+LICENSE.txt
+Module.php
+README.md
+composer.json

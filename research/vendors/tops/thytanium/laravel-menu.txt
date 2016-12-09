@@ -1,0 +1,6 @@
+resources/views/
+src/Thytanium/Menu/
+.gitignore
+LICENSE
+README.md
+composer.json

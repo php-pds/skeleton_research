@@ -1,0 +1,9 @@
+actions/
+apps/
+devices/
+filesystems/
+mimetypes/
+.gitignore
+composer.json
+package.xml
+readme.txt

@@ -1,0 +1,5 @@
+doc/
+example/
+src/Hybridauth/
+README.md
+composer.json

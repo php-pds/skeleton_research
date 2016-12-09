@@ -1,0 +1,11 @@
+Controller/
+DependencyInjection/
+Entity/
+Form/Type/
+Resources/
+Services/
+Tests/Controller/
+Twig/Extension/
+.gitignore
+LibrinfoMediaBundle.php
+composer.json

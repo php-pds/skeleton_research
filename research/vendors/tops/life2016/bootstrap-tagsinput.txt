@@ -1,0 +1,14 @@
+dist/
+examples/
+src/
+test/
+.gitignore
+.travis.yml
+Gruntfile.js
+LICENSE
+README.md
+bootstrap-tagsinput.jquery.json
+bower.json
+composer.json
+karma.conf.js
+package.json

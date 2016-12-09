@@ -1,0 +1,10 @@
+Decorators/
+DependencyInjection/
+Resources/config/
+Services/
+TestHelpers/static/
+Tests/
+.gitignore
+README.md
+VKRFFMPEGConverterBundle.php
+composer.json

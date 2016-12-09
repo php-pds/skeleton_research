@@ -1,0 +1,10 @@
+Classes/
+Tests/
+README.txt
+composer.json
+ext_autoload.php
+ext_emconf.php
+ext_icon.gif
+ext_localconf.php
+ext_tables.php
+locallang_db.xml

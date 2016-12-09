@@ -1,0 +1,10 @@
+Coverage/
+Project/
+Scripts/
+.gitignore
+Bootstrap.php
+README.dist.md
+README.md
+composer.json
+install.sh
+phpunit.xml.dist

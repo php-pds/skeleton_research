@@ -1,0 +1,3 @@
+src/Nyholm/ZebraImage/
+README.md
+composer.json

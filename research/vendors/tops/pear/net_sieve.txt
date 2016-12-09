@@ -1,0 +1,6 @@
+tests/
+.gitignore
+.travis.yml
+Sieve.php
+composer.json
+package.xml

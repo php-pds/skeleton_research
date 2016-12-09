@@ -1,0 +1,8 @@
+assets/css/
+views/
+.gitignore
+ActiveAssets.php
+FontAwesomeAsset.php
+JsonForm.php
+README.md
+composer.json

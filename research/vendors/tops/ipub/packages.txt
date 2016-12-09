@@ -1,0 +1,12 @@
+bin/
+config/
+docs/en/
+src/IPub/Packages/
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.composer.php
+.travis.yml
+composer.json
+license.md
+readme.md

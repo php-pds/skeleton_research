@@ -1,0 +1,3 @@
+guzzle-client/src/
+README.md
+composer.json

@@ -1,0 +1,8 @@
+bin/
+src/DockerToken/
+README.md
+composer.json
+composer.lock
+example.php
+phpunit.xml.dist
+users.example.yml

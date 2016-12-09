@@ -1,0 +1,9 @@
+example/
+squeezr/
+.htaccess
+CHANGELOG.md
+LICENSE.txt
+README.md
+VERSION.txt
+bower.json
+composer.json

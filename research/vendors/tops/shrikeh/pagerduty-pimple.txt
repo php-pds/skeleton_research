@@ -1,0 +1,10 @@
+examples/
+spec/
+src/
+.editorconfig
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock
+phpspec.yml

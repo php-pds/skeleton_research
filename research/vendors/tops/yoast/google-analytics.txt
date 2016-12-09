@@ -1,0 +1,12 @@
+admin/
+assets/
+frontend/
+includes/
+languages/
+vendor/
+.gitignore
+README.md
+googleanalytics.php
+index.php
+license.txt
+readme.txt

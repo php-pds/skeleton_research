@@ -1,0 +1,14 @@
+src/
+test/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+build.xml
+cli-config.php
+composer.json
+composer.lock
+phpunit.xml
+resque

@@ -1,0 +1,4 @@
+Tasker/Minify/
+LICENSE
+README.md
+composer.json

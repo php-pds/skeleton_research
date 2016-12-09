@@ -1,0 +1,5 @@
+.gitignore
+LICENSE
+README.md
+block-mails-quick-n-dirty.php
+composer.json

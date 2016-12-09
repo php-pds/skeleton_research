@@ -1,0 +1,6 @@
+.gitignore
+Auto.php
+LoaderException.php
+README.md
+composer.json
+phpunit.xml

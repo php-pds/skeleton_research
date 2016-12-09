@@ -1,0 +1,3 @@
+Provider.php
+QqExtendSocialite.php
+composer.json

@@ -1,0 +1,10 @@
+Controller/
+DependencyInjection/
+Feed/
+Parser/
+Resources/
+Tests/Controller/
+AppVentusFacebookGraphBundle.php
+LICENSE
+README.md
+composer.json

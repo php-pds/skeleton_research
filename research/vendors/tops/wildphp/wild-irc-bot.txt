@@ -1,0 +1,12 @@
+lib/WildPHP/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+config.example.neon
+database.db
+main.modules
+wildphp.php

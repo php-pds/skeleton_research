@@ -1,0 +1,5 @@
+src/Stefanius/RedirectTrailingSlashBundle/
+.gitignore
+README.md
+composer.json
+scrutinizer.yml

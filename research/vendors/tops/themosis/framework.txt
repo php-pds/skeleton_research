@@ -1,0 +1,13 @@
+bin/
+src/Themosis/
+tests/
+.gitattributes
+.gitignore
+.travis.yml
+README.md
+composer.json
+license.txt
+package.json
+phpunit.xml
+themosis.php
+webpack.config.js

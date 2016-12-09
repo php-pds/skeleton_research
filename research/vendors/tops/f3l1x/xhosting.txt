@@ -1,0 +1,9 @@
+db/
+nette/checker/
+php/
+.gitattributes
+LICENCE.md
+README.md
+composer.json
+index.php
+screenshot.png

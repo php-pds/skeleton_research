@@ -1,0 +1,4 @@
+Classes/JohannesSteu/Neos/SocialMedia/Helper/
+Configuration/
+Resources/Private/
+composer.json

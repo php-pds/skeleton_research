@@ -1,0 +1,13 @@
+Controller/
+DependencyInjection/
+Doctrine/
+Form/
+Model/
+Namer/
+Resources/
+Tests/
+Upload/
+Widget/Strategy/
+README.md
+SymEditMediaBundle.php
+composer.json

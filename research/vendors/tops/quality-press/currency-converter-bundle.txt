@@ -1,0 +1,16 @@
+DependencyInjection/
+Entity/
+Exception/
+Extra/Providers/
+Helper/
+Http/
+Manager/
+Model/
+Operator/
+Provider/
+Resources/
+Storage/
+Twig/Extension/
+QualityCurrencyConverterBundle.php
+README.md
+composer.json

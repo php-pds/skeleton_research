@@ -1,0 +1,5 @@
+themes/
+Galleria.php
+GalleriaAssets.php
+README.md
+composer.json

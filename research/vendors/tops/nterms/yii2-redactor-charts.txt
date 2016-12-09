@@ -1,0 +1,6 @@
+.gitignore
+ChartjsAsset.php
+ChartsRedactorPluginAsset.php
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,7 @@
+structure_files/
+test/
+.gitignore
+CHANGELOG.md
+LICENSE
+README.md
+composer.json

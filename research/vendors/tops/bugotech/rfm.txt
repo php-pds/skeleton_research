@@ -1,0 +1,10 @@
+Query/
+Relations/
+Client.php
+ConnectionInterface.php
+GenericConnection.php
+LICENSE
+Model.php
+README.md
+Response.php
+composer.json

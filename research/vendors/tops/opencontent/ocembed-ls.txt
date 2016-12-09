@@ -1,0 +1,8 @@
+autoloads/
+bin/php/
+classes/
+design/standard/templates/content/datatype/view/
+settings/
+LICENSE
+README.md
+composer.json

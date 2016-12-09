@@ -1,0 +1,7 @@
+bin/
+src/Malenki/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock

@@ -1,0 +1,13 @@
+bin/
+doc/
+src/
+tests/
+.gitignore
+.jms.yml
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist
+pinocchio.json
+publish-gh-pages.rb

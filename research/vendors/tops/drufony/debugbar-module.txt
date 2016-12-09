@@ -1,0 +1,10 @@
+handlers/
+lib/
+README.md
+composer.json
+debugbar.info
+debugbar.install
+debugbar.module
+debugbar.monolog.inc
+debugbar.pages.inc
+debugbar.pimple.inc

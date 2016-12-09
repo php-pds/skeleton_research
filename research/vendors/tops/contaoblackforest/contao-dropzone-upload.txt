@@ -1,0 +1,3 @@
+contao/config/
+README.md
+composer.json

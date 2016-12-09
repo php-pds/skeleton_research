@@ -1,0 +1,7 @@
+config/
+src/MfccTitleManager/Service/
+.gitignore
+LICENSE
+Module.php
+README.md
+composer.json

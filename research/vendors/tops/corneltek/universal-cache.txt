@@ -1,0 +1,12 @@
+src/
+tests/
+.travis.yml
+CHANGELOG
+README.md
+build.xml
+composer.json
+package.ini
+phpdox.xml
+phprelease.ini
+phpunit.xml
+phpunit.xml.dist

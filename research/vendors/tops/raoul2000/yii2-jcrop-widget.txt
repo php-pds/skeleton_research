@@ -1,0 +1,7 @@
+assets/
+CHANGE.md
+JCropAsset.php
+JCropWidget.php
+LICENSE
+README.md
+composer.json

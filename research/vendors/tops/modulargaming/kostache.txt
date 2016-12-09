@@ -1,0 +1,6 @@
+classes/
+templates/
+.gitignore
+LICENSE.md
+README.markdown
+composer.json

@@ -1,0 +1,6 @@
+Classes/
+Configuration/
+Migrations/Mysql/
+LICENSE
+README.md
+composer.json

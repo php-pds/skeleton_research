@@ -1,0 +1,4 @@
+Flame/Doctrine/
+.gitignore
+README.md
+composer.json

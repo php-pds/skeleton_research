@@ -1,0 +1,16 @@
+Command/
+DependencyInjection/
+Extensions/
+Managers/
+Resources/
+ElendevImageBundle.php
+Image.php
+ImageManager.php
+ImageProxy.php
+ImageProxyFactory.php
+NoFileImageProxy.php
+README.md
+SimpleImageProxy.php
+SimpleImageProxyFactory.php
+build.xml
+composer.json

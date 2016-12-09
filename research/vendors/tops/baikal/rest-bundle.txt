@@ -1,0 +1,8 @@
+Command/
+Controller/
+DependencyInjection/
+Resources/config/
+Serializer/
+Validator/Constraints/
+BaikalRestBundle.php
+composer.json

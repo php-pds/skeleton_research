@@ -1,0 +1,16 @@
+controllers/
+js/
+mails/
+translations/
+upgrade/
+views/
+CHANGELOG.txt
+Readme.md
+ReferralProgramModule.php
+composer.json
+config.xml
+index.php
+logo.gif
+logo.png
+referralprogram.gif
+referralprogram.php

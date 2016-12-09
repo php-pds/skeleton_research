@@ -1,0 +1,10 @@
+etc/
+.gitchangelog.rc
+.gitignore
+CHANGELOG.md
+LICENSE
+browser-sync.json
+composer.json
+docker-compose.yml
+mage
+registration.php

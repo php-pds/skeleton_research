@@ -1,0 +1,13 @@
+assets/
+components/
+views/
+Application.php
+Desktop.php
+DesktopEventHandler.php
+GlyphIcon.php
+Icon.php
+Menu.php
+MenuShortcut.php
+README.md
+Shortcut.php
+composer.json

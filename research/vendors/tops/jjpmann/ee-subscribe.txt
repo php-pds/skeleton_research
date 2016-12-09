@@ -1,0 +1,15 @@
+Drivers/
+language/english/
+models/
+views/
+.gitignore
+.php_cs
+.styleci.yml
+LICENSE
+composer.json
+config.php
+freeform_ft.subscribe.php
+mcp.subscribe.php
+mod.subscribe.php
+travis.yml
+upd.subscribe.php

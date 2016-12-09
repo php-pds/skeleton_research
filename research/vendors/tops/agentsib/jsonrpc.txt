@@ -1,0 +1,9 @@
+build/
+docs/
+src/AgentSIB/JsonRpc/
+tests/AgentSIB/JsonRpc/Tests/
+.coveralls.yml
+.gitignore
+.travis.yml
+README.md
+composer.json

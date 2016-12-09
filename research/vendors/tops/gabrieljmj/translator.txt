@@ -1,0 +1,8 @@
+src/Translator/
+tests/Translator/
+.gitignore
+LICENSE.md
+README.md
+bootstrap.php
+composer.json
+phpunit.xml

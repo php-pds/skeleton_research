@@ -1,0 +1,7 @@
+app/
+screenshots/
+.travis.yml
+README.MD
+composer.json
+modman
+phpunit.xml.dist

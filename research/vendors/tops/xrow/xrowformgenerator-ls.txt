@@ -1,0 +1,12 @@
+autoloads/
+classes/
+cronjobs/
+datatypes/xrowformgenerator/
+design/standard/
+doc/
+modules/xrowform/
+settings/
+translations/
+.gitignore
+composer.json
+ezinfo.php

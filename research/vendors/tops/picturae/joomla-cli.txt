@@ -1,0 +1,10 @@
+bin/
+config/
+src/JoomlaCli/Console/
+tests/
+.gitignore
+.travis.yml
+README.md
+VERSION
+composer.json
+phpunit.xml.dist

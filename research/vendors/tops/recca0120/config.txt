@@ -1,0 +1,17 @@
+database/migrations/
+src/
+tests/
+.editorconfig
+.gitattributes
+.gitignore
+.nitpick.json
+.php_cs
+.travis.yml
+LICENSE
+README.md
+composer.json
+gulpfile.js
+package.json
+phpcs.xml
+phpunit.xml.dist
+ruleset.xml

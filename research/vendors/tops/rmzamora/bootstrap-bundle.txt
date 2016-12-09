@@ -1,0 +1,5 @@
+Resources/public/
+.gitignore
+README.md
+RmzamoraBootstrapBundle.php
+composer.json

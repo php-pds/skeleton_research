@@ -1,0 +1,17 @@
+Command/
+Controller/
+DependencyInjection/
+Entity/
+Exceptions/
+Repositories/
+Resources/config/
+Services/
+Tests/
+.gitignore
+.rmt.yml
+CHANGELOG
+NSDistanceBundle.php
+RMT
+composer.json
+phpci.yml
+phpunit.xml.dist

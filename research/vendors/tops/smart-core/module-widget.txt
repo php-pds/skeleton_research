@@ -1,0 +1,6 @@
+Controller/
+Form/Type/
+Resources/views/
+README.md
+WidgetModule.php
+composer.json

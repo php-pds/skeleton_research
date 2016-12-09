@@ -1,0 +1,16 @@
+tests/
+.gitignore
+.travis.yml
+ApcStore.php
+ApcuStore.php
+ArrayStore.php
+Cache.php
+FileStore.php
+IncrementorInterface.php
+MemcacheStore.php
+MemcachedStore.php
+NullStore.php
+README.md
+StoreInterface.php
+composer.json
+phpunit.xml

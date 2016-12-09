@@ -1,0 +1,9 @@
+Build/
+Classes/SimplyAdmire/Facets/
+Configuration/
+Documentation/
+Meta/
+Resources/Private/
+.gitignore
+Readme.md
+composer.json

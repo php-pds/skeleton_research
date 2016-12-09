@@ -1,0 +1,8 @@
+src/Gabrieljmj/SilexServer/
+tests/Gabrieljmj/SilexServer/
+.gitignore
+.travis.yml
+LICENSE.md
+README.md
+composer.json
+phpunit.xml

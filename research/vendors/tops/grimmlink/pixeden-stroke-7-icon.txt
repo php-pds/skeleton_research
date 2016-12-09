@@ -1,0 +1,6 @@
+pe-icon-7-stroke/
+README.md
+bower.json
+composer.json
+gulpfile.js
+package.json

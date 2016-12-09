@@ -1,0 +1,6 @@
+Classes/ObisConcept/FlowJwtAuth/
+Configuration/
+Migrations/Mysql/
+.gitignore
+README.md
+composer.json

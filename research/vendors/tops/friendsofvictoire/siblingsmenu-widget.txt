@@ -1,0 +1,9 @@
+Controller/
+DependencyInjection/
+Entity/
+Form/
+Resources/
+SiblingsMenu/Builder/
+README.md
+VictoireWidgetSiblingsMenuBundle.php
+composer.json

@@ -1,0 +1,4 @@
+DependencyInjection/
+Iterator/
+ShoperyDoctrineTypeBundle.php
+composer.json

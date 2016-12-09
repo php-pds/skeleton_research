@@ -1,0 +1,7 @@
+test/
+.gitignore
+.travis.yml
+Appendr.php
+README.md
+composer.json
+license.md

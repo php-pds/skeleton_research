@@ -1,0 +1,4 @@
+README.md
+TagInput.php
+TagInputAsset.php
+composer.json

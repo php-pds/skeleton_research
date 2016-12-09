@@ -1,0 +1,4 @@
+components/captcha/
+fonts/
+captcha.ext.php
+composer.json

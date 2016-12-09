@@ -1,0 +1,10 @@
+docs/
+src/EBT/DataReplicator/
+tests/
+.gitignore
+CONTRIBUTING.md
+LICENSE
+README.md
+composer.json
+phpunit.xml
+phpunit.xml.dist

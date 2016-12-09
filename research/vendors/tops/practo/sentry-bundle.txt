@@ -1,0 +1,13 @@
+DependencyInjection/
+EventListener/
+Raven/
+Resources/config/
+Tests/
+.gitignore
+.travis.yml
+KunstmaanSentryBundle.php
+LICENSE
+README.md
+build.xml
+composer.json
+phpunit.xml.dist

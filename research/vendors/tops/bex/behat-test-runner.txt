@@ -1,0 +1,7 @@
+spec/Bex/Behat/Context/
+src/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+README.md
+composer.json

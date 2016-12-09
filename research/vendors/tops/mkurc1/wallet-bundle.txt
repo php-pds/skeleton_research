@@ -1,0 +1,10 @@
+DependencyInjection/
+Entity/
+Exception/
+Resources/config/
+Service/
+Tests/Service/
+LICENSE
+README.md
+WalletBundle.php
+composer.json

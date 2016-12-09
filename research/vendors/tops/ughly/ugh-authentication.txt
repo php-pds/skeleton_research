@@ -1,0 +1,11 @@
+config/
+src/UghAuthentication/
+test/
+view/ugh-authentication/login/
+.gitignore
+.travis.yml
+LICENSE
+Module.php
+README.md
+composer.json
+init_autoloader.php

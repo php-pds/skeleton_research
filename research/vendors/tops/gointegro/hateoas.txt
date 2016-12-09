@@ -1,0 +1,16 @@
+Collections/
+Config/
+Entity/
+Http/
+JsonApi/
+Metadata/
+Search/
+Security/
+Tests/
+Util/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml

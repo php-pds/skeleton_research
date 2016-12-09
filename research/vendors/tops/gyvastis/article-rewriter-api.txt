@@ -1,0 +1,8 @@
+client-side/
+.gitignore
+.htaccess
+README.md
+composer.json
+composer.lock
+functions.php
+index.php

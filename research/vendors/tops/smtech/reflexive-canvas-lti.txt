@@ -1,0 +1,13 @@
+doc/
+examples/
+src/
+.editorconfig
+.gitattributes
+.gitignore
+.scrutinizer.yml
+LICENSE.md
+README.md
+composer.json
+composer.lock
+phpcs.xml
+phpdoc.dist.xml

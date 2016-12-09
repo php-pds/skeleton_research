@@ -1,0 +1,9 @@
+assets/img/
+languages/
+libraries/
+migrations/
+.gitignore
+LICENSE
+README.md
+composer.json
+enom_details.php

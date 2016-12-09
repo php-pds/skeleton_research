@@ -1,0 +1,7 @@
+Services/
+tests/
+.gitignore
+README.md
+composer.json
+package.php
+package.xml

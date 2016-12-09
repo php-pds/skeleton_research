@@ -1,0 +1,10 @@
+doc/
+img/
+js/
+src/
+.gitignore
+CHANGELOG.md
+README.md
+composer.json
+install.php
+logo.png

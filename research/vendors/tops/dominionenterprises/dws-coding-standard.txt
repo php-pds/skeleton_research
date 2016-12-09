@@ -1,0 +1,12 @@
+DWS/
+tests/
+.coveralls.yml
+.gitignore
+.travis.yml
+LICENSE
+README.md
+build.php
+composer.json
+composer.lock
+phpunit.xml
+standard.md

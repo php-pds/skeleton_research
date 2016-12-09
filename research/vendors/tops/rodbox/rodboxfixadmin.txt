@@ -1,0 +1,7 @@
+Controller/
+DependencyInjection/
+Resources/
+Tests/Controller/
+RBFixAdminBundle.php
+README.md
+composer.json

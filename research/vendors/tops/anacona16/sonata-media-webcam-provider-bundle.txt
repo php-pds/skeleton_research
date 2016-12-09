@@ -1,0 +1,8 @@
+DependencyInjection/
+Resources/
+SonataMedia/Provider/
+.gitignore
+LICENSE
+README.md
+SonataMediaWebcamProviderBundle.php
+composer.json

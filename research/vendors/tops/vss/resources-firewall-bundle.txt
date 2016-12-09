@@ -1,0 +1,11 @@
+DependencyInjection/
+Model/
+Resources/config/
+Tests/
+.gitignore
+.travis.yml
+README.md
+VssResourcesFirewallBundle.php
+composer.json
+composer.lock
+phpunit.xml

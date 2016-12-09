@@ -1,0 +1,15 @@
+Annotation/
+Command/
+Controller/
+DependencyInjection/
+Entity/
+Metadata/Driver/
+Resources/
+Services/
+Tests/
+.gitignore
+.travis.yml
+RCOpenSSLCryptoBundle.php
+composer.json
+composer.phar
+phpunit.xml.dist

@@ -1,0 +1,5 @@
+Thumbnail/
+Upload/
+FileExtensionFilter.php
+README.md
+composer.json

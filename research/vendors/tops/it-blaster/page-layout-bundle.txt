@@ -1,0 +1,12 @@
+Composer/
+DependencyInjection/
+Form/Type/
+Resources/
+Services/
+.bowerrc
+.gitignore
+EtfostraPageLayoutBundle.php
+LICENSE
+README.md
+bower.json
+composer.json

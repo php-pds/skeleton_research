@@ -1,0 +1,12 @@
+app-views/layout-elements/
+assets/
+config/
+less/
+traits/
+views/
+widgets/
+.gitignore
+Gruntfile.js
+README.md
+composer.json
+package.json

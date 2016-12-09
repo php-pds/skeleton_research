@@ -1,0 +1,7 @@
+src/Gxela/LebackGuid/
+tests/
+.gitignore
+.travis.yml
+README.md
+composer.json
+phpunit.xml

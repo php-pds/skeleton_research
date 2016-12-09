@@ -1,0 +1,12 @@
+Loader/
+Process/
+Tests/
+build-tools/jenkins/
+.coke
+.gitignore
+Conf.php
+ConfigInterface.php
+Exception.php
+Loader.php
+ProcessTrait.php
+composer.json

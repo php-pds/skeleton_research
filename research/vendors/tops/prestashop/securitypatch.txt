@@ -1,0 +1,13 @@
+classes/
+resources/
+settings/
+translations/
+views/
+.gitignore
+composer.json
+config.xml
+index.php
+logo.gif
+logo.png
+readme.md
+securitypatch.php

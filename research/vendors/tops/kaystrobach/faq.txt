@@ -1,0 +1,8 @@
+Classes/KayStrobach/Faq/
+Configuration/
+Documentation/
+Migrations/Mysql/
+Resources/Private/
+Tests/Unit/Domain/Model/
+README.md
+composer.json

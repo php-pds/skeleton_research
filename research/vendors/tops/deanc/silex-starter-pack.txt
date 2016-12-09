@@ -1,0 +1,9 @@
+app/
+src/DC/SilexStarterPack/
+translations/
+views/
+web/
+.gitignore
+README.md
+README_TEMPLATE.md
+composer.json

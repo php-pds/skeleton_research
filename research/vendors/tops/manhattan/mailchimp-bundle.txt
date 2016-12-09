@@ -1,0 +1,12 @@
+Client/
+DependencyInjection/
+Event/
+Resources/
+Tests/
+Validator/Constraints/
+.gitignore
+LICENSE
+ManhattanMailchimpBundle.php
+README.md
+composer.json
+phpunit.xml.dist

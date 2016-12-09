@@ -1,0 +1,15 @@
+Controller/
+DependencyInjection/
+Entity/
+Event/
+Manager/
+Resources/
+Service/
+Tests/
+.gitattributes
+.gitignore
+.travis.yml
+InterkassaBundle.php
+README.md
+composer.json
+phpunit.xml

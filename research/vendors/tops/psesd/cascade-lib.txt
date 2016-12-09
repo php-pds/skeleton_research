@@ -1,0 +1,8 @@
+lib/
+.gitignore
+.jscsrc
+.php_cs
+.phptidy-config.php
+LICENSE
+README.md
+composer.json

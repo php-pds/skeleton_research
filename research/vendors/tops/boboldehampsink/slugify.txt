@@ -1,0 +1,5 @@
+twigextensions/
+LICENSE
+README.md
+SlugifyPlugin.php
+composer.json

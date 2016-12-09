@@ -1,0 +1,9 @@
+src/
+tests/
+.gitignore
+.travis.yml
+Licence.txt
+README.md
+composer.json
+doctrine_annotations.php
+phpunit.xml.dist

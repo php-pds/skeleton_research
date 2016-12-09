@@ -1,0 +1,14 @@
+code/
+src/Heyday/GoogleContentExperiments/
+templates/
+tests/
+.gitattributes
+.gitignore
+README.md
+_config.php
+build.xml
+composer.json
+composer.lock
+config.yml
+phpci.yml
+phpunit.xml.dist

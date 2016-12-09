@@ -1,0 +1,6 @@
+src/STS/Testing/
+tests/
+.gitignore
+README.md
+composer.json
+phpunit.xml

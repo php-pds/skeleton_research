@@ -1,0 +1,8 @@
+.gitignore
+Makefile
+README.md
+bower.json
+component.json
+composer.json
+zepto.js
+zepto.min.js

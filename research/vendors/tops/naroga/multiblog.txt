@@ -1,0 +1,14 @@
+app/
+bin/
+src/
+vagrant/
+var/
+web/
+.gitignore
+CONTRIBUTING.md
+LICENSE.md
+README.md
+Vagrantfile
+composer.json
+composer.lock
+phpunit.xml.dist

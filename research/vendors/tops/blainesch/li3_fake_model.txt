@@ -1,0 +1,8 @@
+config/bootstrap/
+extensions/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json

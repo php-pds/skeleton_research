@@ -1,0 +1,7 @@
+KodCube/
+tests/
+LICENCE
+LICENSE
+README.md
+composer.json
+phpunit.xml

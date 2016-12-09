@@ -1,0 +1,5 @@
+DependencyInjection/
+Resources/config/
+Storage/
+BordeuxFileDropboxProviderBundle.php
+composer.json

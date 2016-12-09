@@ -1,0 +1,15 @@
+elasticsearch/
+mongodb/
+tests/
+.gitattributes
+.gitignore
+.travis.yml
+CHANGELOG.md
+ContainerInterface.php
+ContainerTrait.php
+LICENSE.md
+Mapping.php
+README.md
+Validator.php
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,17 @@
+build/travis/
+docs/
+layouts/
+maintenance/
+resources/
+src/
+tests/
+.gitignore
+.travis.yml
+COPYING
+Chameleon.i18n.php
+Chameleon.php
+Gruntfile.js
+README.md
+composer.json
+package.json
+phpunit.xml.dist

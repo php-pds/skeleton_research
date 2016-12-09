@@ -1,0 +1,4 @@
+core/
+README.md
+_function.php
+composer.json

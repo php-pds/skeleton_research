@@ -1,0 +1,6 @@
+config/
+src/RtHeadtitle/Controller/Plugin/
+Module.php
+README.md
+autoload_classmap.php
+composer.json

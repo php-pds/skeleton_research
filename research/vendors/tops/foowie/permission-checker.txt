@@ -1,0 +1,4 @@
+src/Foowie/PermissionChecker/
+README.md
+composer.json
+license.txt

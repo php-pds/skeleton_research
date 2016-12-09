@@ -1,0 +1,12 @@
+Console/Output/
+Example/
+.coveralls.yml
+.gitignore
+.travis.yml
+LICENSE
+MockedIteratorTest.php
+Readme.md
+TestCase.php
+TraitTestCase.php
+composer.json
+phpunit.xml.dist

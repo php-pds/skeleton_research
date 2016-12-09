@@ -1,0 +1,10 @@
+actions/
+images/
+languages/
+lib/
+upgrades/
+vendors/jquery-treeview/
+views/
+composer.json
+manifest.xml
+start.php

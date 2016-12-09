@@ -1,0 +1,14 @@
+build/
+examples/
+js/
+src/
+tests/
+.gitattributes
+.gitignore
+.gitmodules
+.jshintrc
+Jakefile.js
+composer.json
+license.txt
+package.json
+readme.md

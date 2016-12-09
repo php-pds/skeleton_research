@@ -1,0 +1,14 @@
+.github/
+build/logs/
+src/
+tests/
+.editorconfig
+.gitignore
+.travis.yml
+CHANGELOG.md
+CONTRIBUTING.md
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

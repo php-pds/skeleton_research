@@ -1,0 +1,5 @@
+src/Skovachev/Builder/
+tests/
+README.md
+composer.json
+phpunit.xml

@@ -1,0 +1,14 @@
+Behat/
+DependencyInjection/
+Form/
+Model/
+Resources/
+Twig/
+spec/NIM/FormBundle/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CHANGELOG.md
+NIMFormBundle.php
+README.md
+composer.json

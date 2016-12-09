@@ -1,0 +1,11 @@
+DependencyInjection/
+Doc/
+Lib/
+Resources/
+Tests/DependencyInjection/
+.gitignore
+.travis.yml
+LICENSE
+SfynxBrowserBundle.php
+composer.json
+phpunit.xml.dist

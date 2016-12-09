@@ -1,0 +1,13 @@
+assets/
+classes/
+config/
+dca/
+elements/
+forms/
+languages/
+modules/newsletter/
+templates/
+.bowerrc
+CHANGELOG.md
+README.md
+composer.json

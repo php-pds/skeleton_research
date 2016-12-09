@@ -1,0 +1,9 @@
+Config/
+Controller/
+Form/
+Hook/
+I18n/
+templates/backOffice/default/
+HookAnalytics.php
+LICENSE.txt
+composer.json

@@ -1,0 +1,12 @@
+DataFixtures/
+DependencyInjection/
+Entity/
+Form/
+Hierarchy/
+Listener/
+Resources/config/
+Service/
+TwigExtension/
+KMJToolkitBundle.php
+README.md
+composer.json

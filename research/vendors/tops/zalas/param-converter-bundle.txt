@@ -1,0 +1,14 @@
+DependencyInjection/
+Request/ParamConverter/
+Resources/config/
+Spec/
+Tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+ZalasParamConverterBundle.php
+composer.json
+phpspec.yml.dist
+phpunit.xml.dist

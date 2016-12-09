@@ -1,0 +1,14 @@
+config/
+data/
+docs/
+src/
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+Module.php
+README.md
+autoload_classmap.php
+composer.json
+phpunit.xml

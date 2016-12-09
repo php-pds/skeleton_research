@@ -1,0 +1,13 @@
+assets/
+behaviors/
+components/
+controllers/
+extensions/
+messages/
+models/
+vendors/google/
+views/
+.gitignore
+README.md
+YcmModule.php
+composer.json

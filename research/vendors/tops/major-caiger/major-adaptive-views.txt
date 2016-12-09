@@ -1,0 +1,5 @@
+config/
+src/MajorAdaptiveViews/
+.gitignore
+README.md
+composer.json

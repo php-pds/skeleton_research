@@ -1,0 +1,14 @@
+Exceptions/
+Tests/
+docs/
+examples/
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENSE.md
+README.md
+SimpleThread.php
+Thread.php
+ThreadPool.php
+composer.json
+phpunit.xml.dist

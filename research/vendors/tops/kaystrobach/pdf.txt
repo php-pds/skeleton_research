@@ -1,0 +1,4 @@
+Classes/KayStrobach/Pdf/
+Configuration/
+README.md
+composer.json

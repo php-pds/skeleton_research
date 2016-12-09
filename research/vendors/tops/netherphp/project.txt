@@ -1,0 +1,6 @@
+bin/
+data/
+src/Nether/Project/
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,6 @@
+assets/
+bower_components/
+README.md
+XEditable.php
+bower.json
+composer.json

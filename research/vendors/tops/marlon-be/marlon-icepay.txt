@@ -1,0 +1,6 @@
+Documentation/
+lib/Icepay/
+.gitignore
+README.md
+composer.json
+composer.lock

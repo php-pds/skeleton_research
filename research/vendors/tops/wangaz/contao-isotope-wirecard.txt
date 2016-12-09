@@ -1,0 +1,5 @@
+src/system/modules/isotope-wirecard/
+.gitignore
+LICENSE.txt
+README.md
+composer.json

@@ -1,0 +1,10 @@
+languages/
+lib/
+views/default/
+CHANGES.txt
+LICENSE
+README.md
+activate.php
+composer.json
+manifest.xml
+start.php

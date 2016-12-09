@@ -1,0 +1,10 @@
+spec/
+src/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock
+phpspec.yml.dist
+phpunit.xml.dist

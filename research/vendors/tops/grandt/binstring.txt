@@ -1,0 +1,8 @@
+.gitattributes
+.gitignore
+BinString.Example1.php
+BinString.Example2.php
+BinString.php
+BinStringStatic.php
+composer.json
+readme.markdown

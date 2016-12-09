@@ -1,0 +1,9 @@
+assets/css/
+.gitignore
+Asset.php
+CropAsset.php
+LICENSE.md
+README.md
+Widget.php
+composer.json
+phpcs.xml

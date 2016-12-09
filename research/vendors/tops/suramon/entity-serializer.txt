@@ -1,0 +1,8 @@
+src/
+tests/EntitySerializer/
+.gitignore
+.travis.yml
+Makefile
+composer.json
+composer.lock
+phpunit.xml.dist

@@ -1,0 +1,7 @@
+src/
+.gitattributes
+.styleci.yml
+LICENSE
+README.md
+composer.json
+generator.php

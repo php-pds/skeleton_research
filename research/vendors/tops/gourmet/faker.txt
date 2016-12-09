@@ -1,0 +1,11 @@
+src/TestSuite/Fixture/
+tests/
+.editorconfig
+.gitignore
+.semver
+CONTRIBUTING.md
+LICENSE
+README.md
+VERSION
+composer.json
+phpunit.xml.dist

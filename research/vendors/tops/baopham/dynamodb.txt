@@ -1,0 +1,10 @@
+dynamodb_local/
+src/
+tests/
+.gitignore
+CONTRIBUTING.md
+README.md
+composer.json
+dynamodb_local_init.db
+dynamodb_local_schema.js
+phpunit.xml

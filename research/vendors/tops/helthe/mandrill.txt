@@ -1,0 +1,11 @@
+Mailer/
+Message/
+Tests/
+.gitignore
+.travis.yml
+Client.php
+ClientInterface.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

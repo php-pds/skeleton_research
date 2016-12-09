@@ -1,0 +1,8 @@
+database/
+src/
+tests/
+.env.testing
+.gitignore
+README.MD
+composer.json
+phpunit.xml

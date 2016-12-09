@@ -1,0 +1,15 @@
+Exception/
+Link/
+Temporary/
+.gitignore
+CHANGELOG.md
+Directory.php
+File.php
+Finder.php
+Generic.php
+Read.php
+ReadWrite.php
+SplFileInfo.php
+Watcher.php
+Write.php
+composer.json

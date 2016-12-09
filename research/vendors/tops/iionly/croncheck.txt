@@ -1,0 +1,9 @@
+classes/
+languages/
+views/default/admin/statistics/
+CHANGES.txt
+LICENCE.txt
+README.md
+composer.json
+manifest.xml
+start.php

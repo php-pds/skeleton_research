@@ -1,0 +1,7 @@
+casper_scripts/
+src/Primer/Backstop/Commands/
+.gitignore
+README.md
+backstop.config.js
+composer.json
+package.json

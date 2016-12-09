@@ -1,0 +1,8 @@
+Tests/
+.gitignore
+Attactment.php
+Client.php
+README.md
+Request.php
+composer.json
+phpunit.xml.dist

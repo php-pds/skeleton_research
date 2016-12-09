@@ -1,0 +1,10 @@
+docs/
+tests-masses/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+builder.sh
+composer.json
+phpunit.xml

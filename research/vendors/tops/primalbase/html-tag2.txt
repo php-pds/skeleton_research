@@ -1,0 +1,9 @@
+examples/
+generator/
+src/Primalbase/Tag/
+tests/
+.gitattributes
+.gitignore
+LICENSE
+README.md
+composer.json

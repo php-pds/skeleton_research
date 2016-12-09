@@ -1,0 +1,8 @@
+config/
+lang/
+src/QuAdminDemo/
+view/qu-admin-demo/qu-other-demo/
+.DS_Store
+Module.php
+README.md
+composer.json

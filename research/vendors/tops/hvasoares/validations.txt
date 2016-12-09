@@ -1,0 +1,4 @@
+src/hvasoares/validations/
+.gitignore
+README.md
+composer.json

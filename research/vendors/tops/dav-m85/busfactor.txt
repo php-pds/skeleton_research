@@ -1,0 +1,11 @@
+doc/
+src/
+tests/Entity/
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENSE.txt
+README.md
+busfactor
+composer.json
+phpunit.xml

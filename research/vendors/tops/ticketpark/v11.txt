@@ -1,0 +1,9 @@
+Resources/
+Tests/v11/Tests/
+example/
+lib/v11/
+.gitignore
+.travis.yml
+README.md
+composer.json
+phpunit.xml

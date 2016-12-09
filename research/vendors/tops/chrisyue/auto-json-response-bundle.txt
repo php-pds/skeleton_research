@@ -1,0 +1,13 @@
+DependencyInjection/
+EventListener/
+Resources/config/
+Tests/EventListener/
+.gitignore
+.php_cs
+.styleci.yml
+.travis.yml
+ChrisyueAutoJsonResponseBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

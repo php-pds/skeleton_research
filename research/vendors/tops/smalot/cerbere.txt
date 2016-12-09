@@ -1,0 +1,13 @@
+commands/
+docs/
+lib/Cerbere/
+.atoum.php
+.bootstrap.atoum.php
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+cerbere.info
+composer.json
+drushrc.php.sample

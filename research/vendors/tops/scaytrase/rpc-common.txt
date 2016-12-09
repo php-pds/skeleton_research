@@ -1,0 +1,16 @@
+Decorators/
+Exception/
+Test/
+Tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+ResponseCollectionInterface.php
+RpcClientInterface.php
+RpcErrorInterface.php
+RpcRequestInterface.php
+RpcResponseInterface.php
+composer.json
+phpunit.xml

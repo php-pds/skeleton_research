@@ -1,0 +1,10 @@
+src/DoctrineSpecificationBundle/
+tests/DoctrineSpecificationBundle/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

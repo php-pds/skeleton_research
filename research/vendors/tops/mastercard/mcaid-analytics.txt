@@ -1,0 +1,7 @@
+MasterCard/Api/McaidAnalytics/
+result/
+.gitignore
+README.md
+composer.json
+mastercard-mcaid-analytics-1.0.0.zip
+phpunit.xml

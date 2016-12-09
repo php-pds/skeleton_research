@@ -1,0 +1,7 @@
+ckeditor/
+controllers/
+db/
+models/
+views/node/
+composer.json
+index.php

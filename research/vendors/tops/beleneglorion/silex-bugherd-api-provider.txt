@@ -1,0 +1,5 @@
+src/Hinatachii/Silex/Provider/
+.gitignore
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,5 @@
+src/VKApi/
+.gitignore
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,9 @@
+src/CentralDesktop/Parallel/
+test/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml
+pom.xml

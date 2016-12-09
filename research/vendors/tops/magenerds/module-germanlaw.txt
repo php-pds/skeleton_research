@@ -1,0 +1,11 @@
+Block/
+Model/Plugin/
+Setup/
+Test/Unit/
+etc/
+fixtures/
+view/frontend/
+.gitignore
+README.md
+composer.json
+registration.php

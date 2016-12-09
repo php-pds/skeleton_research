@@ -1,0 +1,5 @@
+Classes/Econic/CsvReader/
+Tests/Unit/
+LICENSE
+README.md
+composer.json

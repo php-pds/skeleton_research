@@ -1,0 +1,12 @@
+.idea/
+app/
+log/
+storage/
+temp/
+tests/
+vendor/
+www/
+.gitignore
+apigen.neon
+composer.json
+readme.md

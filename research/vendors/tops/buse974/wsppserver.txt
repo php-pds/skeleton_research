@@ -1,0 +1,9 @@
+bin/
+config/
+src/WsPPServer/
+.gitignore
+LICENSE
+README.md
+composer.json
+demo.html
+wsppclient.js

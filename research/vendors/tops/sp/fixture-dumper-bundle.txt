@@ -1,0 +1,9 @@
+Command/
+DependencyInjection/
+Resources/
+.gitattributes
+.gitignore
+README.md
+SpFixtureDumperBundle.php
+composer.json
+composer.lock

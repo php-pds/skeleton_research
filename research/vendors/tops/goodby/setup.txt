@@ -1,0 +1,11 @@
+_server/
+scripts/
+src/VendorName/
+.gitignore
+.travis.yml
+LICENSE
+README.dist.md
+README.md
+composer.json
+phpunit-bootstrap.php
+phpunit.xml.dist

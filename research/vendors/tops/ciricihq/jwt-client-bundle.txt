@@ -1,0 +1,13 @@
+Controller/
+DependencyInjection/
+Repository/Api/
+Resources/
+Security/
+Tests/
+.gitignore
+.travis.yml
+CiriciJWTClientBundle.php
+LICENSE.md
+Readme.md
+composer.json
+phpunit.xml.dist

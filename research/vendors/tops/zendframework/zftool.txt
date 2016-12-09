@@ -1,0 +1,13 @@
+bin/
+config/
+docs/
+src/ZFTool/
+tests/
+view/diagnostics/
+.gitignore
+.php_cs
+Module.php
+README.md
+composer.json
+zf.php
+zf2.bat

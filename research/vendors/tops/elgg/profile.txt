@@ -1,0 +1,6 @@
+languages/
+views/
+composer.json
+icondirect.php
+manifest.xml
+start.php

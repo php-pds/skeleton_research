@@ -1,0 +1,14 @@
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+ActiveRecord.php
+BeforeQueryTrait.php
+DynamicQuery.php
+LICENSE
+LockedBehavior.php
+README.md
+UserDataBehavior.php
+codeception.yml
+composer.json
+composer.lock

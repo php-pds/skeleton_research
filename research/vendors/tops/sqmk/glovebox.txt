@@ -1,0 +1,8 @@
+library/Glovebox/
+tests/
+vendor/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json

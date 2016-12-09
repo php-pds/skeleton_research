@@ -1,0 +1,9 @@
+_conf/
+bash/
+info/
+.gitignore
+LICENSE
+README.md
+Vagrantfile
+composer.json
+config.rb

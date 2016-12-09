@@ -1,0 +1,6 @@
+demo/
+queries/
+src/Tracy/QueryPanel/
+.gitignore
+README.md
+composer.json

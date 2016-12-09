@@ -1,0 +1,12 @@
+lib/
+tests/
+.gitignore
+.travis.yml
+README.md
+c3.php
+composer.json
+develop_init.php
+phpunit.xml
+pre-commit.sh
+pre-push.sh
+run-tests.php

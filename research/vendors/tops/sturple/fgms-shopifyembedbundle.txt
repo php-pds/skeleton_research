@@ -1,0 +1,8 @@
+Controller/
+Entity/
+Repository/
+Resources/
+.gitignore
+FgmsShopifyEmbedBundle.php
+README.md
+composer.json

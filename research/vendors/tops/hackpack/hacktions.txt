@@ -1,0 +1,9 @@
+Tests/
+.gitignore
+.hhconfig
+EventEmitter.php
+LICENSE
+Observer.php
+README.md
+Subject.php
+composer.json

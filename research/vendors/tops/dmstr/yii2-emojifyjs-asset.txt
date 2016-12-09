@@ -1,0 +1,3 @@
+EmojifyJsAsset.php
+README.md
+composer.json

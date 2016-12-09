@@ -1,0 +1,4 @@
+src/LearningContextClient/
+LICENSE
+README.md
+composer.json

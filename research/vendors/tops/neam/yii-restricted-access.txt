@@ -1,0 +1,7 @@
+behaviors/
+components/
+config/
+helpers/
+modules/restrictedAccess/
+traits/
+composer.json

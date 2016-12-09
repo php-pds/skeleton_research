@@ -1,0 +1,4 @@
+nbproject/
+src/samjoyce/slugger/
+composer.json
+index.php

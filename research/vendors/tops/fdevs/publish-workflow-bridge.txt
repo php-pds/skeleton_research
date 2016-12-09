@@ -1,0 +1,10 @@
+DependencyInjection/
+Doctrine/Mongodb/
+Resources/
+Voter/
+.gitignore
+.travis.yml
+FDevsPublishWorkflowBundle.php
+README.md
+composer.json
+phpunit.xml.dist

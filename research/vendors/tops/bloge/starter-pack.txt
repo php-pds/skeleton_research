@@ -1,0 +1,9 @@
+content/
+theme/
+.gitignore
+.htaccess
+Makefile
+README.md
+app.php
+composer.json
+index.php

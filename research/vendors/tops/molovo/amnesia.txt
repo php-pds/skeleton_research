@@ -1,0 +1,7 @@
+src/
+tests/
+.coveralls.yml
+.gitignore
+.travis.yml
+codeception.yml
+composer.json

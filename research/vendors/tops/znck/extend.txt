@@ -1,0 +1,17 @@
+src/
+tests/
+.editorconfig
+.gitattributes.dist
+.gitignore
+.php_cs
+.styleci.yml
+CHANGELOG.md
+CONDUCT.md
+CONTRIBUTING.md
+LICENSE.md
+README.md
+circle.yml
+composer.json
+composer.lock
+cover.png
+phpunit.xml

@@ -1,0 +1,7 @@
+DependencyInjection/
+Exception/
+Model/
+Resources/config/
+BlackBoxCodePandoProductSaleBundle.php
+LICENSE
+composer.json

@@ -1,0 +1,4 @@
+src/VideoPublisher/
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,13 @@
+Test/
+TestResource/
+apptest/
+src/
+theme/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+aliases.php
+composer.json
+phpunit.xml
+version

@@ -1,0 +1,8 @@
+config/
+src/VcoZfMediaPath/
+.gitignore
+LICENSE
+Module.php
+README.md
+autoload_classmap.php
+composer.json

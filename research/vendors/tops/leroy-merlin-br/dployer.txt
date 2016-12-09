@@ -1,0 +1,8 @@
+app/
+.gitignore
+README.md
+build
+composer.json
+dployer
+main.php
+phpunit.xml

@@ -1,0 +1,7 @@
+themes/SIR2skin/
+www/
+.gitignore
+LICENSE
+README.md
+composer.json
+default-enable

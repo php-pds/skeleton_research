@@ -1,0 +1,12 @@
+Action/
+Bridge/AuthorizeNet/
+Resources/docs/
+Tests/
+.travis.yml
+AuthorizeNetAimGatewayFactory.php
+CHANGELOG.md
+LICENSE
+README.md
+UPGRADE.md
+composer.json
+phpunit.xml.dist

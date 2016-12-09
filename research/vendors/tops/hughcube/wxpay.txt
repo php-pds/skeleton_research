@@ -1,0 +1,9 @@
+cert/
+requests/
+WxPayApi.php
+WxPayBizPayUrl.php
+WxPayDataBase.php
+WxPayException.php
+WxPayNotifyReply.php
+WxPayResults.php
+composer.json

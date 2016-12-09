@@ -1,0 +1,8 @@
+css/
+js/
+swf/
+README.md
+bower.json
+component.json
+composer.json
+package.json

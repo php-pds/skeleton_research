@@ -1,0 +1,9 @@
+controllers/
+lib/Semantics/
+static/
+views/scripts/index/
+.gitignore
+LICENSE
+README.md
+composer.json
+plugin.xml

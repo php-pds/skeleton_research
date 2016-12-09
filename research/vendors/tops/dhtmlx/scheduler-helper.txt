@@ -1,0 +1,8 @@
+tests/
+.gitignore
+RecurringType.php
+SchedulerHelper.php
+SchedulerHelperConnector.php
+SchedulerHelperDate.php
+composer.json
+readme.md

@@ -1,0 +1,9 @@
+languages/
+views/default/
+.gitignore
+CHANGES.txt
+README.md
+composer.json
+composer.lock
+manifest.xml
+start.php

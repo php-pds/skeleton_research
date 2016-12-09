@@ -1,0 +1,6 @@
+lib/Omissis/Toolbox/
+tests/Omissis/Tests/Toolbox/
+.gitignore
+README.md
+composer.json
+phpunit.xml

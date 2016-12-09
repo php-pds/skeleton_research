@@ -1,0 +1,4 @@
+src/PhpSocket/
+tests/
+README.md
+composer.json

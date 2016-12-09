@@ -1,0 +1,11 @@
+config/
+src/
+tests/
+.gitignore
+.travis.yml
+CHANGELOG.md
+README.md
+composer.json
+helpers.php
+phpunit.xml
+standardize

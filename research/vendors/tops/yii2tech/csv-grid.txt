@@ -1,0 +1,15 @@
+tests/
+.gitattributes
+.gitignore
+.travis.yml
+CHANGELOG.md
+Column.php
+CsvFile.php
+CsvGrid.php
+DataColumn.php
+ExportResult.php
+LICENSE.md
+README.md
+SerialColumn.php
+composer.json
+phpunit.xml.dist

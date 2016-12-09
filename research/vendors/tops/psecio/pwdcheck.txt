@@ -1,0 +1,6 @@
+src/Psecio/Pwdcheck/
+tests/Psecio/Pwdcheck/
+.travis.yml
+README.md
+composer.json
+phpunit.xml

@@ -1,0 +1,10 @@
+assets/
+classes/
+inc/
+lang/
+.gitignore
+LICENSE
+composer.json
+readme.md
+readme.txt
+wp-libre-form.php

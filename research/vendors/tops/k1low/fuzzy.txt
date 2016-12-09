@@ -1,0 +1,10 @@
+Controller/Component/
+Lib/
+Model/Behavior/
+Test/
+View/Helper/
+.gitignore
+.travis.yml
+README.md
+composer.json
+mb_str_replace_LICENSE

@@ -1,0 +1,11 @@
+config/
+icons/
+sql/grid-openid/site/
+src/Grid/OpenId/
+vendor/
+view/grid/open-id/authentication/
+.gitignore
+LICENSE.txt
+Module.php
+README.md
+composer.json

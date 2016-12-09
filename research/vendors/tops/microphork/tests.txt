@@ -1,0 +1,6 @@
+logs/
+php/
+.gitignore
+README.md
+composer.json
+phpunit.xml

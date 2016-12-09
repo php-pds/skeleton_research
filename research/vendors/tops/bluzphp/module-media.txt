@@ -1,0 +1,6 @@
+src/
+tests/modules/media/controllers/
+.gitignore
+.travis.yml
+README.md
+composer.json

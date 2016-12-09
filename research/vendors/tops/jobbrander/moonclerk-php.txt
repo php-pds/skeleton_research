@@ -1,0 +1,10 @@
+src/
+test/src/
+.gitignore
+CONTRIBUTING.md
+LICENSE.md
+README.md
+composer.json
+config.default.php
+example.php
+phpunit.xml.dist

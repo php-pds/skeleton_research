@@ -1,0 +1,16 @@
+Controller/
+DataFixtures/ORM/
+DependencyInjection/
+Doctrine/ORM/
+Event/
+Form/
+Model/
+Resources/
+Tests/
+.gitignore
+LICENSE
+ProductEvents.php
+README.md
+XideaProductBundle.php
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,12 @@
+Admin/
+Command/
+DependencyInjection/
+Entity/
+Model/
+Request/ParamConverter/
+Resources/config/
+Services/
+Validator/Constraints/
+BrauneDigitalGeoBundle.php
+README.md
+composer.json

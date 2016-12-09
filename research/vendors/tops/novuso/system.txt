@@ -1,0 +1,15 @@
+app/
+bin/
+src/
+test/
+var/build/
+.coveralls.yml
+.editorconfig
+.gitattributes
+.gitignore
+.travis.yml
+LICENSE
+README.md
+RoboFile.php
+Vagrantfile
+composer.json

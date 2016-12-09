@@ -1,0 +1,10 @@
+config/
+src/
+tests/
+.editorconfig
+.styleci.yml
+CONDUCT.md
+CONTRIBUTING.md
+LICENSE.md
+README.md
+composer.json

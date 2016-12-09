@@ -1,0 +1,10 @@
+action/
+config/
+net/mail/
+template/
+tests/
+.travis.yml
+LICENSE.txt
+README.md
+composer.json
+readme.wiki

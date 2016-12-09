@@ -1,0 +1,5 @@
+lib/db/
+test/
+changelog.txt
+composer.json
+readme.md

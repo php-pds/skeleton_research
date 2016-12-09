@@ -1,0 +1,12 @@
+Core/
+DependencyInjection/
+Resources/
+Tests/
+vendors/Zip/
+.gitignore
+AlphaLemonPageTreeBundle.php
+LICENSE
+README.md
+autoload.json
+composer.json
+phpunit.xml.dist

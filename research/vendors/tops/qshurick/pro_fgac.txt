@@ -1,0 +1,5 @@
+config/
+db/
+library/Fgac/Application/
+.gitignore
+composer.json

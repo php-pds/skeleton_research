@@ -1,0 +1,5 @@
+.gitignore
+LICENSE
+LoggingHelper.php
+README.md
+composer.json

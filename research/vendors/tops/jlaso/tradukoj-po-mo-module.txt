@@ -1,0 +1,13 @@
+Classes/
+examples/php/
+.gitignore
+Changelog
+LICENSE
+README.md
+Shortlog
+VERSION
+composer.json
+config.ini.dis
+csv2po.php
+sample.csv
+sync.php

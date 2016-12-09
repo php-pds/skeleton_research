@@ -1,0 +1,14 @@
+app/
+bootstrap/
+public/
+src/AnkiServer/
+.gitattributes
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+artisan
+composer.json
+phpunit.xml
+server.php

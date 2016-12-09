@@ -1,0 +1,9 @@
+bin/
+lib/Megumi/WP/
+tests/
+.gitignore
+.travis.yml
+README.md
+composer.json
+composer.lock
+phpunit.xml

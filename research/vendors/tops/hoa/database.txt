@@ -1,0 +1,10 @@
+IDal/
+Layer/
+Query/
+Test/Unit/Query/
+.gitignore
+CHANGELOG.md
+Dal.php
+DalStatement.php
+Exception.php
+composer.json

@@ -1,0 +1,5 @@
+src/Common/
+test/
+.gitignore
+composer.json
+phpunit.xml.dist

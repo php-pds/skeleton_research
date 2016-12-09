@@ -1,0 +1,13 @@
+.git_template/hooks/
+bin/
+src/
+tests/
+.coveralls.yml
+.gitignore
+.php_cs
+.scrutinizer.yml
+.travis.yml
+README.md
+composer.json
+generate-api.sh
+phpunit.xml.dist

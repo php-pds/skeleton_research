@@ -1,0 +1,5 @@
+Completer.php
+Plugin.php
+README.md
+TypeResolver.php
+composer.json

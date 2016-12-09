@@ -1,0 +1,7 @@
+db/
+lang/en/
+LICENSE
+composer.json
+message_output_newprocessor.php
+settings.php
+version.php

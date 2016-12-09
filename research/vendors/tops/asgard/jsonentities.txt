@@ -1,0 +1,8 @@
+Tests/
+.travis.yml
+Bundle.php
+Filter.php
+LICENSE
+composer.json
+phpunit.php
+phpunit.xml

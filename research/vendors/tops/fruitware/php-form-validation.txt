@@ -1,0 +1,6 @@
+.gitignore
+composer.json
+index.php
+licence.txt
+readme.md
+validFluent.php

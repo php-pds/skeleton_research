@@ -1,0 +1,13 @@
+Config/
+Controller/
+Event/
+Exception/
+Form/
+I18n/
+Model/Config/
+logo/
+templates/backOffice/default/
+CBFranFinance3x.php
+LICENSE.txt
+Readme.md
+composer.json

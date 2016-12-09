@@ -1,0 +1,14 @@
+app/admin/
+config/
+lib/
+migrations/
+po/
+store/
+tmp/
+util/
+webroot/
+.gitignore
+CHANGELOG
+LICENSE
+README.md
+composer.json

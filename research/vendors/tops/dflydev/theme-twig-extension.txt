@@ -1,0 +1,8 @@
+src/Dflydev/Twig/Extension/Theme/
+tests/Dflydev/Twig/Extension/Theme/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

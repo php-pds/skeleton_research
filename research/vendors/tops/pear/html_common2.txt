@@ -1,0 +1,7 @@
+HTML/
+tests/
+.gitignore
+.travis.yml
+README.md
+composer.json
+package2.xml

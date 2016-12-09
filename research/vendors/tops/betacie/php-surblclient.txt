@@ -1,0 +1,4 @@
+Blacklist/
+.gitignore
+README.md
+composer.json

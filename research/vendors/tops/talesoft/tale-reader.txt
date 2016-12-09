@@ -1,0 +1,14 @@
+Reader/
+Test/
+.gitattributes
+.gitignore
+.travis.yml
+LICENSE.md
+README.md
+Reader.php
+ReaderException.php
+composer.json
+phpcs.xml
+phpdoc.dist.xml
+phpunit.xml
+tasks

@@ -1,0 +1,12 @@
+admin/
+behaviors/
+messages/
+migrations/
+models/
+widgets/
+.gitignore
+Bootstrap.php
+LICENSE
+README.md
+Taxonomy.php
+composer.json

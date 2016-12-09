@@ -1,0 +1,11 @@
+Config/
+Constraints/
+Controller/
+EventListeners/
+Form/
+Hook/
+I18n/
+templates/backOffice/default/force-phone/
+ForcePhone.php
+Readme.md
+composer.json

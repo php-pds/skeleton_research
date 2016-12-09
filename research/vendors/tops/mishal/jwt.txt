@@ -1,0 +1,14 @@
+example/
+lib/
+test/unit/
+.gitignore
+.gitlab-ci.yml
+.php_cs
+.phpmd-ruleset.xml
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+composer.json
+header.txt
+phpunit.xml.dist

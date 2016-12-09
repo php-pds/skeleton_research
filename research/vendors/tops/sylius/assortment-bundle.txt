@@ -1,0 +1,16 @@
+Builder/
+Controller/
+DependencyInjection/
+Entity/
+Form/
+Generator/
+Model/
+Resources/
+Validator/
+spec/Sylius/Bundle/AssortmentBundle/
+.gitignore
+.travis.yml
+CHANGELOG.md
+README.md
+SyliusAssortmentBundle.php
+composer.json

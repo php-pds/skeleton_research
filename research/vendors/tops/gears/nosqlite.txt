@@ -1,0 +1,9 @@
+Backends/
+Example/
+.gitattributes
+Collection.php
+Db.php
+LICENSE
+README.md
+Result.php
+composer.json

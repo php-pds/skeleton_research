@@ -1,0 +1,9 @@
+.idea/
+app/
+src/Ten24/GenericClient/WebsiteBundle/
+web/
+.gitignore
+Capfile
+README.md
+composer.json
+composer.lock

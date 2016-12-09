@@ -1,0 +1,8 @@
+activity/
+language/en-GB/
+LICENSE
+README.md
+composer.json
+install.php
+k2.php
+k2.xml

@@ -1,0 +1,12 @@
+_docs/
+_testfiles/
+vault/
+.gitattributes
+CONTRIBUTING.md
+Changelog-v1.txt
+LICENSE.txt
+PEOPLE.md
+README.md
+composer.json
+loader.php
+web.config

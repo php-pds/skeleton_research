@@ -1,0 +1,6 @@
+example/
+src/CodeGun/Ini/
+tests/
+.gitignore
+README.md
+composer.json

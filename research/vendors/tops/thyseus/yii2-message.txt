@@ -1,0 +1,10 @@
+controllers/
+messages/
+migrations/
+models/
+views/message/
+.gitignore
+CHANGELOG
+Module.php
+README.md
+composer.json

@@ -1,0 +1,11 @@
+DependencyInjection/
+Resources/config/
+Service/
+Tests/Service/
+.gitignore
+.travis.yml
+HappyrCloudFlareBundle.php
+README.md
+build.xml
+composer.json
+phpunit.xml.dist

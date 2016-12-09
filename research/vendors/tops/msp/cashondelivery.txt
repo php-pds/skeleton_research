@@ -1,0 +1,14 @@
+Api/
+Block/
+Controller/Adminhtml/Table/
+Model/
+Observer/
+Plugin/Model/Quote/
+Setup/
+etc/
+screenshots/
+view/
+.gitignore
+README.md
+composer.json
+registration.php

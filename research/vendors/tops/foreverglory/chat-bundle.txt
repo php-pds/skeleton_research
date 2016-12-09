@@ -1,0 +1,7 @@
+Controller/
+DependencyInjection/
+Resources/
+Tests/Controller/
+.gitattributes
+GloryChatBundle.php
+composer.json

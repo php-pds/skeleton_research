@@ -1,0 +1,9 @@
+Command/
+DependencyInjection/
+Generator/
+Resources/
+UI/
+LICENSE
+README.md
+YepsuaGeneratorBundle.php
+composer.json

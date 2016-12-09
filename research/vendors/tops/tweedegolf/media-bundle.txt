@@ -1,0 +1,6 @@
+doc/
+src/TweedeGolf/MediaBundle/
+.gitignore
+LICENSE
+README.md
+composer.json

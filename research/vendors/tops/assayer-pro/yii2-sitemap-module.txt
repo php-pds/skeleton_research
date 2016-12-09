@@ -1,0 +1,15 @@
+behaviors/
+console/
+controllers/
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+Module.php
+README.md
+RobotsTxt.php
+Sitemap.php
+codeception.yml
+composer.json
+composer.lock

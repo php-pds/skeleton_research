@@ -1,0 +1,12 @@
+bin/
+config/
+doc/
+schema/
+src/
+testdata/
+.gitignore
+Makefile
+README.md
+composer.json
+database.php
+phpunit.xml.dist

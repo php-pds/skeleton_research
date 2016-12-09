@@ -1,0 +1,9 @@
+Model/
+Plugin/
+Test/Integration/
+etc/
+.gitignore
+LICENSE
+README.md
+composer.json
+registration.php

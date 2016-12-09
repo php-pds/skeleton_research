@@ -1,0 +1,8 @@
+src/SA/CpeSdk/
+.gitignore
+.travis.yml
+.travis_publish_doc.sh
+LICENSE
+README.md
+composer.json
+phpdoc.xml

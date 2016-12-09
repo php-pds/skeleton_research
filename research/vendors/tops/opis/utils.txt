@@ -1,0 +1,12 @@
+lib/
+license/
+tests/
+.gitattributes
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENSE
+NOTICE
+README.md
+autoload.php
+composer.json

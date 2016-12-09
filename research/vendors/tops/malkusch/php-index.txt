@@ -1,0 +1,9 @@
+autoloader/
+classes/
+docs/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json

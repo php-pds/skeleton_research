@@ -1,0 +1,6 @@
+assets/
+generators/crud/
+web/js/
+GridView.php
+README.md
+composer.json

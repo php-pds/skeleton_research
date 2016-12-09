@@ -1,0 +1,6 @@
+config/
+src/Analytics/
+view/admin/analytics/index/
+.gitignore
+Module.php
+composer.json

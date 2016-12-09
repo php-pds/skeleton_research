@@ -1,0 +1,11 @@
+spec/Kreta/SimpleApiDocBundle/
+src/Kreta/SimpleApiDocBundle/
+.editorconfig
+.formatter.yml
+.gitignore
+.php_cs
+.phpspec_cs
+.travis.yml
+LICENSE
+README.md
+composer.json

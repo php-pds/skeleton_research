@@ -1,0 +1,6 @@
+config/
+src/
+view/tayo-module-admin/admin/
+LICENSE
+README.md
+composer.json

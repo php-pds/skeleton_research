@@ -1,0 +1,5 @@
+system/modules/VisJsTimeline/
+.gitattributes
+.gitignore
+README.md
+composer.json

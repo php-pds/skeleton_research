@@ -1,0 +1,9 @@
+doc/img/
+src/Trismegiste/
+tests/
+.gitignore
+.travis.yml
+README.md
+composer.json
+phpunit.xml
+samiconfig.php

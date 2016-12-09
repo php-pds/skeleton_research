@@ -1,0 +1,6 @@
+models/
+README.md
+ThumbAction.php
+ThumbHelper.php
+ThumbRule.php
+composer.json

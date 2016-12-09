@@ -1,0 +1,7 @@
+.gitignore
+README.md
+UrlToQuery.php
+UrlToQueryItem.php
+composer.json
+license
+url_to_query.php

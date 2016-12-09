@@ -1,0 +1,11 @@
+images/
+javascripts/
+src/Galek/Helper/
+stylesheets/
+tests/Helper/DeviceDetect/
+.gitignore
+.travis.yml
+README.md
+composer.json
+index.html
+params.json

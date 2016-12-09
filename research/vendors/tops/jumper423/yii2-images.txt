@@ -1,0 +1,11 @@
+behaviors/
+controllers/
+migrations/
+models/
+tests/
+.gitignore
+Module.php
+ModuleTrait.php
+README.md
+composer.json
+composer.lock

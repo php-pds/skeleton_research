@@ -1,0 +1,6 @@
+src/Wambo/PerformanceTester/
+.gitignore
+CHANGELOG.md
+LICENSE.txt
+README.md
+composer.json

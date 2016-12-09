@@ -1,0 +1,17 @@
+.github/
+DataCollector/
+DependencyInjection/
+Events/
+Log/
+Middleware/
+Resources/
+Tests/
+.gitignore
+.sensiolabs.yml
+.travis.yml
+.varci.yml
+CONTRIBUTING.md
+GuzzleBundle.php
+README.md
+composer.json
+phpunit.xml.dist

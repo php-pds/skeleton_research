@@ -1,0 +1,5 @@
+.gitignore
+README.md
+composer.json
+console.config.php.example
+console.php

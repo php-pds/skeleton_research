@@ -1,0 +1,9 @@
+src/PhantomInstaller/
+tests/
+.gitattributes
+.gitignore
+.travis.yml
+Changelog.md
+LICENSE
+README.md
+composer.json

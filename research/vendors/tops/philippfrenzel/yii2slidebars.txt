@@ -1,0 +1,10 @@
+examples/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+codeception.yml
+composer.json
+slidebarsAsset.php
+yii2slidebars.php

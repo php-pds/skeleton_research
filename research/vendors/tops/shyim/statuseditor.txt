@@ -1,0 +1,7 @@
+Controllers/Backend/
+Snippets/backend/statuseditor/
+Views/backend/statuseditor/
+Bootstrap.php
+LICENSE.md
+README.md
+composer.json

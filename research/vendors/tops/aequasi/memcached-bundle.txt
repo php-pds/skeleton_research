@@ -1,0 +1,13 @@
+Cache/
+Command/
+DataCollector/
+DependencyInjection/
+Doctrine/
+Resources/
+Session/
+Tests/
+.travis.yml
+AequasiMemcachedBundle.php
+README.md
+composer.json
+phpunit.xml.dist

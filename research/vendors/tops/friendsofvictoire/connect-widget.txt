@@ -1,0 +1,13 @@
+Controller/
+DependencyInjection/
+Entity/
+Event/
+Form/
+Handler/
+Provider/
+Resolver/
+Resources/
+Twig/
+README.md
+VictoireWidgetConnectBundle.php
+composer.json

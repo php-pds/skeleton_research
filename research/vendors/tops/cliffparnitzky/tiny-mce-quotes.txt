@@ -1,0 +1,7 @@
+assets/tinymce/plugins/quotes/
+system/modules/TinyMceQuotes/
+.gitattributes
+.gitignore
+README.md
+composer.json
+screenshot.jpg

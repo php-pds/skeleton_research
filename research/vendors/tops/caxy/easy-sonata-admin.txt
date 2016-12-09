@@ -1,0 +1,6 @@
+Admin/
+DependencyInjection/
+EasySonataAdminBundle.php
+LICENSE
+README.md
+composer.json

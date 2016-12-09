@@ -1,0 +1,9 @@
+Model/Autocomplete/
+etc/
+view/frontend/
+README.md
+composer.json
+header.jpg
+registration.php
+screenshot.png
+test

@@ -1,0 +1,7 @@
+extensions/adapter/test/fixtures/
+test/
+tests/
+.travis.yml
+LICENSE.txt
+README.md
+composer.json

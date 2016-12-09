@@ -1,0 +1,16 @@
+Admin/
+Controller/
+DependencyInjection/
+Entity/
+Form/Type/
+Model/
+Repository/
+Resources/
+Tests/
+Tree/
+.travis.composer.config.json
+.travis.yml
+IphpTreeBundle.php
+README.md
+composer.json
+phpunit.xml.dist

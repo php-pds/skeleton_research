@@ -1,0 +1,11 @@
+src/perf/FileSystem/
+test/unit/
+.gitignore
+LICENSE.txt
+README.md
+build.jenkins.xml
+build.xml
+composer.json
+phpcs.xml
+phpmd.xml
+phpunit.xml

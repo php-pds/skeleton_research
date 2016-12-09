@@ -1,0 +1,6 @@
+classes/
+controllers/
+i18n/
+views/
+_ide_helper.php
+composer.json

@@ -1,0 +1,9 @@
+components/
+config/
+helpers/
+themes/simplicity/
+traits/
+widgets/
+README.md
+composer.json
+global.php

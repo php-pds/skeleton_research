@@ -1,0 +1,8 @@
+actions/bookmarks/
+graphics/
+languages/
+lib/
+views/
+composer.json
+manifest.xml
+start.php

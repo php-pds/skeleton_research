@@ -1,0 +1,9 @@
+.gitattributes
+.gitignore
+Adapter.php
+CHANGELOG.md
+LICENSE.md
+Mailer.php
+Message.php
+README.md
+composer.json

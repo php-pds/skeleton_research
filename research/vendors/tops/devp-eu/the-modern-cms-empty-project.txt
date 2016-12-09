@@ -1,0 +1,14 @@
+cms/
+configs/
+project/
+public/assets/
+tests/
+.gitignore
+.htaccess
+.nginx
+.travis.yml
+README.md
+boot.php
+composer.json
+index.php
+phpci.yml

@@ -1,0 +1,7 @@
+.settings/
+src/app/n2n/persistence/
+.buildpath
+.project
+LICENSE.txt
+README.md
+composer.json

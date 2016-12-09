@@ -1,0 +1,6 @@
+src/
+tool-config/
+.editorconfig
+.gitignore
+composer.json
+jenkins.xml

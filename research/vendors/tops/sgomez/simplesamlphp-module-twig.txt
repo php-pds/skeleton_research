@@ -1,0 +1,6 @@
+lib/SimpleSAML/Modules/Twig/Facade/
+.gitignore
+LICENSE.md
+README.md
+composer.json
+default-enable

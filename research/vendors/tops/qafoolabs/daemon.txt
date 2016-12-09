@@ -1,0 +1,3 @@
+src/main/QafooLabs/Daemon/
+.gitignore
+composer.json

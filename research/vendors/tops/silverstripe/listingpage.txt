@@ -1,0 +1,7 @@
+code/
+images/
+CHANGELOG
+README.md
+VERSION
+_config.php
+composer.json

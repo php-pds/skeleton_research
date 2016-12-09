@@ -1,0 +1,9 @@
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+pdo-debug.php
+pdo-debug.sql
+phpunit.xml.dist

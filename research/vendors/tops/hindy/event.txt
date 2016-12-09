@@ -1,0 +1,4 @@
+src/Mindy/Event/
+.gitignore
+composer.json
+readme.md

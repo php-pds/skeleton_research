@@ -1,0 +1,9 @@
+bin/
+doc/
+etc/
+lib/
+share/
+.gitignore
+README.md
+composer.json
+index.php

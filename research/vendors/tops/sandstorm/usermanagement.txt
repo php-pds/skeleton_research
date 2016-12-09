@@ -1,0 +1,9 @@
+Classes/Sandstorm/UserManagement/
+Configuration/
+Migrations/Mysql/
+Resources/Private/
+.editorconfig
+.gitignore
+LICENSE
+README.md
+composer.json

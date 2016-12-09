@@ -1,0 +1,16 @@
+bin/
+src/
+test/
+.cfignore
+.dockerignore
+.gitignore
+.travis.yml
+Dockerfile
+README.md
+Staticfile
+box.json
+composer.json
+composer.lock
+index.html
+manifest.yml
+phpunit.xml.dist

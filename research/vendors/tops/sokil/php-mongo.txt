@@ -1,0 +1,14 @@
+src/
+stubs/
+tests/
+.coveralls.yml
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CHANGELOG.md
+CONTRIBUTING.md
+LICENSE
+README.md
+composer.json
+docker-compose.yml
+docker.sh

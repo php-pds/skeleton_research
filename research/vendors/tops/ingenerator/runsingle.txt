@@ -1,0 +1,11 @@
+.phpspec/
+bin/
+spec/
+src/Ingenerator/RunSingle/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENCE.md
+README.md
+composer.json
+phpspec.yml

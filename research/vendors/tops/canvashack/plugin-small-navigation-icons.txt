@@ -1,0 +1,5 @@
+.gitignore
+LICENSE.md
+composer.json
+manifest.xml
+small-navigation-icons.css

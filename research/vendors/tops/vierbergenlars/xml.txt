@@ -1,0 +1,14 @@
+tests/
+.gitignore
+.travis.yml
+LICENSE.md
+XmlArrayCollection.php
+XmlAttributes.php
+XmlAttributesInterface.php
+XmlCollection.php
+XmlCollectionInterface.php
+XmlElement.php
+XmlElementInterface.php
+composer.json
+example.php
+readme.md

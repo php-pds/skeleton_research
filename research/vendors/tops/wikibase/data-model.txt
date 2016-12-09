@@ -1,0 +1,16 @@
+docs/
+src/
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+Aliases.php
+COPYING
+README.md
+RELEASE-NOTES.md
+WikibaseDataModel.php
+composer.json
+mediawiki-extension.json
+phpcs.xml
+phpmd.xml
+phpunit.xml.dist

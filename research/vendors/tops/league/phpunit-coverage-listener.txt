@@ -1,0 +1,11 @@
+configuration/
+src/League/PHPUnitCoverageListener/
+.gitignore
+.travis.yml
+CHANGELOG.md
+CONTRIBUTING.md
+LICENSE
+README.md
+circle.yml
+composer.json
+phpunit.xml.dist

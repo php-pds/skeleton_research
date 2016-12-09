@@ -1,0 +1,14 @@
+_assets/js/
+_config/
+code/
+js/
+templates/Includes/
+tests/
+.editorconfig
+.gitignore
+.travis.yml
+LICENSE.md
+README.md
+_config.php
+assets.json
+composer.json

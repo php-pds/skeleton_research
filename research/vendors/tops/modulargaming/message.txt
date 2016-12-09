@@ -1,0 +1,9 @@
+assets/
+classes/
+config/
+migrations/message/
+templates/message/
+LICENSE.md
+README.md
+composer.json
+init.php

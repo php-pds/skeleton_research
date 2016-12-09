@@ -1,0 +1,7 @@
+src/cbednarski/Cascade/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+composer.json
+readme.md

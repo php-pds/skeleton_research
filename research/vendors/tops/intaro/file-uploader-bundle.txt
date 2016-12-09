@@ -1,0 +1,7 @@
+DependencyInjection/
+Resources/config/
+Services/
+IntaroFileUploaderBundle.php
+LICENSE
+README.md
+composer.json

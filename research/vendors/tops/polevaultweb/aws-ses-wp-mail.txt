@@ -1,0 +1,5 @@
+inc/
+.gitignore
+README.md
+aws-ses-wp-mail.php
+composer.json

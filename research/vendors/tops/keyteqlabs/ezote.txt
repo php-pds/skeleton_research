@@ -1,0 +1,10 @@
+autoloads/
+lib/
+modules/
+operators/
+settings/
+.gitignore
+Autoloader.php
+README.md
+composer.json
+extension.xml

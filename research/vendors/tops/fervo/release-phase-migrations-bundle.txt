@@ -1,0 +1,4 @@
+Command/
+FervoReleasePhaseMigrationsBundle.php
+README.md
+composer.json

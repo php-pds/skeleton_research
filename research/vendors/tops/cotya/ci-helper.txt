@@ -1,0 +1,6 @@
+bin/
+src/CI_Helper/Magento/Console/
+.gitignore
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,6 @@
+Resources/
+.gitignore
+LICENSE
+README.rst
+ZendLdapBundle.php
+composer.json

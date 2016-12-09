@@ -1,0 +1,8 @@
+bin/
+src/IComeFromTheNet/Schedule/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml

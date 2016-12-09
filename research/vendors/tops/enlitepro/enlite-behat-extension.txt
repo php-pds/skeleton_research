@@ -1,0 +1,8 @@
+src/EnliteBehatExtension/
+testapp/
+vagrant/
+.gitignore
+.gitmodules
+.travis.yml
+README.md
+composer.json

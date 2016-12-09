@@ -1,0 +1,7 @@
+Soneritics/Cache/
+test/
+.coveralls.yml
+.travis.yml
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,13 @@
+translations/
+upgrade/
+views/
+CHANGELOG.txt
+Readme.md
+VATNumberTaxManager.php
+ajax.php
+composer.json
+config.xml
+index.php
+logo.gif
+logo.png
+vatnumber.php

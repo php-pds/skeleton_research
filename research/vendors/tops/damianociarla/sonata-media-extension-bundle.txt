@@ -1,0 +1,9 @@
+DependencyInjection/
+Provider/
+Resources/config/
+Thumbnail/
+.gitignore
+DCSSonataMediaExtensionBundle.php
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,15 @@
+Component/
+Configuration/
+DependencyInjection/
+EventListener/
+Resources/
+Tests/
+LICENSE
+README.md
+TagcacheBundle.php
+TagcacheCacheClearer.php
+TagcacheFactory.php
+composer.json
+img-cached.jpg
+img-nocache.jpg
+phpunit.xml.dist

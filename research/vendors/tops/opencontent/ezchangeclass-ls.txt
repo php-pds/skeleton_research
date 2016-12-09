@@ -1,0 +1,10 @@
+classes/
+design/admin/
+doc/
+modules/changeclass/
+scripts/
+settings/
+LICENSE
+README
+composer.json
+ezinfo.php

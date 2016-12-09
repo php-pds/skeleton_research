@@ -1,0 +1,11 @@
+config/
+src/MQUtil/
+tests/
+view/zend-developer-tools/toolbar/
+.gitignore
+.travis.yml
+LICENSE
+Module.php
+README.md
+autoload_classmap.php
+composer.json

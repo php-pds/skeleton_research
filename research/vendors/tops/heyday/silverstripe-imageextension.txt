@@ -1,0 +1,7 @@
+_config/
+src/Heyday/SilverStripe/
+.gitignore
+.php_cs
+LICENSE
+README.md
+composer.json

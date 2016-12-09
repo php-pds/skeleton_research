@@ -1,0 +1,16 @@
+.github/
+.phalcon/
+app/
+cache/volt/
+public/
+schemas/
+tests/
+.editorconfig
+.gitignore
+.travis.yml
+CONTRIBUTING.md
+LICENSE.txt
+README.md
+codeception.yml
+composer.json
+phpcs.xml

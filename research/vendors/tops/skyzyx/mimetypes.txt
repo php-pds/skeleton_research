@@ -1,0 +1,9 @@
+src/Skyzyx/Components/Mimetypes/
+.gitignore
+README.md
+composer.json
+customize.json
+generate
+mime.types
+mimetypes.json
+template.twig

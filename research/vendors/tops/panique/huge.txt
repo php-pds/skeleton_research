@@ -1,0 +1,13 @@
+_one-click-installation/
+_pictures/
+application/
+public/
+tests/
+.gitignore
+.htaccess
+.scrutinizer.yml
+.travis.yml
+CHANGELOG.md
+README.md
+composer.json
+travis-ci-apache

@@ -1,0 +1,7 @@
+database/migrations/
+resources/views/domain/
+src/
+tests/
+.gitignore
+README.md
+composer.json

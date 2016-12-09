@@ -1,0 +1,6 @@
+assets/
+.gitignore
+composer.json
+index.php
+localhostBrowser.php
+readme.md

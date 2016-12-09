@@ -1,0 +1,16 @@
+bin/
+data/
+src/
+tests/
+.gitignore
+.php_cs
+.travis.yml
+ASF-LICENSE-2.0
+CONTRIBUTING.md
+LICENSE
+README.md
+build.properties
+build.xml
+composer.json
+example.php
+phpunit.xml.dist

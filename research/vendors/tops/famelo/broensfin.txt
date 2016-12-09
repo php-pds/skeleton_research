@@ -1,0 +1,7 @@
+Classes/Famelo/Broensfin/
+Configuration/
+Migrations/Mysql/
+Resources/
+Tests/Behavior/
+.gitignore
+composer.json

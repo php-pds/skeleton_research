@@ -1,0 +1,9 @@
+Migrate/
+bin/
+templates/
+tests/Command/
+.gitignore
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

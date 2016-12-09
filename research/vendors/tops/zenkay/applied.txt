@@ -1,0 +1,6 @@
+src/Applied/
+tests/
+vendor/
+README.md
+composer.json
+phppackage.png

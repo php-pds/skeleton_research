@@ -1,0 +1,12 @@
+Entity/
+EventType/
+Exception/
+Parser/
+Tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENCE
+README.md
+composer.json
+phpunit.xml.dist

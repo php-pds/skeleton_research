@@ -1,0 +1,12 @@
+Builder/
+Controller/
+DependencyInjection/
+Exception/
+Resources/
+Security/
+Service/
+ValueObject/
+.gitignore
+README.md
+XsolveGoogleAuthBundle.php
+composer.json

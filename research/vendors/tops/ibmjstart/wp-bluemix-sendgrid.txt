@@ -1,0 +1,6 @@
+.gitignore
+README.md
+bluemix-sendgrid.php
+composer.json
+license.txt
+sendgrid-opts-disable.js

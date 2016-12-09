@@ -1,0 +1,9 @@
+src/Dwo/Ispec/
+.coveralls.yml
+.gitignore
+.travis.yml
+LICENSE
+README.md
+autoload.php
+composer.json
+phpunit.xml.dist

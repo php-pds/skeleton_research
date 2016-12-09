@@ -1,0 +1,10 @@
+config/
+install/sql/
+language/
+public/
+src/
+view/melis-cms-prospects/
+.gitignore
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,6 @@
+bin/
+src/Nether/Senpai/
+themes/default/
+LICENSE
+README.md
+composer.json

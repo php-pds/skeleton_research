@@ -1,0 +1,7 @@
+src/Pkj/Minibase/Plugin/Csrf/
+tests/
+.gitignore
+.travis.yml
+README.md
+composer.json
+phpunit.xml.dist

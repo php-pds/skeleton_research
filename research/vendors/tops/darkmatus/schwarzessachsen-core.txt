@@ -1,0 +1,10 @@
+config/
+de/
+language/
+src/SchwarzesSachsenCore/
+view/
+LICENSE
+Module.php
+README.md
+autoload_classmap.php
+composer.json

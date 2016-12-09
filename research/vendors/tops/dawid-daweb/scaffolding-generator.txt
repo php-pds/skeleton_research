@@ -1,0 +1,6 @@
+crud/
+example/
+LICENSE
+README.md
+composer.json
+crud.php

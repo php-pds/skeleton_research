@@ -1,0 +1,8 @@
+src/TailoredTunes/HttpResponses/
+.gitignore
+.travis.yml
+CONTRIBUTING.md
+LICENSE
+README.md
+composer.json
+composer.lock

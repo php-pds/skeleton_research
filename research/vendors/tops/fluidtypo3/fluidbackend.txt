@@ -1,0 +1,17 @@
+Classes/
+Configuration/TCA/
+Resources/Private/
+Tests/
+.editorconfig
+.gitignore
+.travis.yml
+LICENSE.md
+README.md
+composer.json
+composer.lock
+ext_emconf.php
+ext_icon.gif
+ext_localconf.php
+ext_tables.php
+ext_tables.sql
+phpunit.xml.dist

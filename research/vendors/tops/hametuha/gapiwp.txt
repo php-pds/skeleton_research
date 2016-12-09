@@ -1,0 +1,10 @@
+assets/
+src/Hametuha/GapiWP/
+templates/
+.gitignore
+LICENSE.md
+README.md
+composer.json
+composer.lock
+gulpfile.js
+package.json

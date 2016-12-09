@@ -1,0 +1,9 @@
+spec/Devhelp/Token/
+src/Devhelp/Token/
+.gitignore
+.travis.yml
+README.md
+composer.json
+composer.lock
+phpcs.spec.xml
+phpcs.xml

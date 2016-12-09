@@ -1,0 +1,5 @@
+res/config/
+src/
+tests/Controller/
+.gitignore
+composer.json

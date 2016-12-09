@@ -1,0 +1,12 @@
+bin/
+config/
+src/HumusPHPUnitModule/
+tests/
+.gitignore
+.travis.yml
+LICENSE.txt
+Module.php
+README.md
+autoload_classmap.php
+composer.json
+phpunit.xml.dist

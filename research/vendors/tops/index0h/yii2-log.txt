@@ -1,0 +1,15 @@
+provision/
+src/
+tests/
+.gitattributes
+.gitignore
+.scrutinizer.yml
+.test.php
+.travis.yml
+CHANGELOG.md
+LICENSE
+Makefile
+README.md
+Vagrantfile
+codeception.yml
+composer.json

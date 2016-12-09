@@ -1,0 +1,12 @@
+Compat/
+Test/
+.gitignore
+.travis.yml
+Data.php
+DataInterface.php
+DataSet.php
+DataSetInterface.php
+README.md
+composer.json
+phpunit.travis.xml
+phpunit.xml.dist

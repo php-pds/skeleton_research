@@ -1,0 +1,6 @@
+src/
+README.md
+cmssearch.js
+cmssearch.less
+composer.json
+license.md

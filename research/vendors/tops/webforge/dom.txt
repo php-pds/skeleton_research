@@ -1,0 +1,11 @@
+lib/
+tests/Webforge/DOM/
+.gitattributes
+.gitignore
+.travis.yml
+LICENSE
+README.md
+bootstrap.php
+composer.json
+phpunit.xml.dist
+webforge-dom.sublime-project

@@ -1,0 +1,5 @@
+spec/Vivait/TaskstackCommunicatorBundle/Client/
+src/Vivait/TaskstackCommunicatorBundle/
+.travis.yml
+README.md
+composer.json

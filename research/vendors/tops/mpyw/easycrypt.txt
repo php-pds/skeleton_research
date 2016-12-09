@@ -1,0 +1,10 @@
+src/
+tests/
+.coveralls.yml
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+codeception.yml
+composer.json

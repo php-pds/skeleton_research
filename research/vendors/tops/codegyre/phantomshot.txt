@@ -1,0 +1,6 @@
+examples/
+src/Codegyre/PhantomShot/
+.gitignore
+LICENSE
+README.md
+composer.json

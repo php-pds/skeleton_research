@@ -1,0 +1,3 @@
+src/Sirian/SphinxBundle/
+.gitignore
+composer.json

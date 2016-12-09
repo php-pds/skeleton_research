@@ -1,0 +1,8 @@
+Command/
+Composer/
+DependencyInjection/
+Provider/
+Resources/config/
+Service/
+JmoatiSwarrotBootstrapBundle.php
+composer.json

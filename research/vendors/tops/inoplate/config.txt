@@ -1,0 +1,10 @@
+database/
+spec/
+src/
+tests/laravel/
+.env.testing
+.gitignore
+README.MD
+composer.json
+composer.lock
+phpspec.yml

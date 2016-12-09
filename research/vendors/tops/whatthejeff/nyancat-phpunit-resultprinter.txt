@@ -1,0 +1,10 @@
+src/NyanCat/PHPUnit/
+tests/NyanCat/PHPUnit/Tests/
+.gitignore
+.travis.yml
+ChangeLog.md
+LICENSE
+README.md
+composer.json
+nyan.gif
+phpunit.xml.dist

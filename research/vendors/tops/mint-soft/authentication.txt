@@ -1,0 +1,6 @@
+config/
+src/MintSoft/Authentication/
+test/
+Module.php
+README.md
+composer.json

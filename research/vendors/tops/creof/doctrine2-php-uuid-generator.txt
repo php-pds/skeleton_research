@@ -1,0 +1,9 @@
+lib/CrEOF/PhpUuidGenerator/
+tests/
+.gitignore
+CHANGELOG.md
+CONTRIBUTING.md
+README.md
+TODO.md
+composer.json
+phpunit.xml.dist

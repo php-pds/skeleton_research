@@ -1,0 +1,5 @@
+.gitignore
+LICENSE
+LdapStrategy.php
+README.md
+composer.json

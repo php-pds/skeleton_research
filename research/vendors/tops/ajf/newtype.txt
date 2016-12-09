@@ -1,0 +1,10 @@
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock
+gpl-3.0.txt
+lgpl-3.0.txt
+newType.php
+phpunit.xml.dist

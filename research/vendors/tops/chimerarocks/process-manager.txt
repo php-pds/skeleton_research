@@ -1,0 +1,6 @@
+scaffold/
+src/ProcessManager/
+.gitignore
+README.md
+composer.json
+composer.lock

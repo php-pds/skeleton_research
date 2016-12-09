@@ -1,0 +1,6 @@
+.gitignore
+Arsenic.php
+README.md
+composer.json
+example.php
+license.md

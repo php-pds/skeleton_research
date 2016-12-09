@@ -1,0 +1,16 @@
+Command/
+Controller/
+Date/
+DependencyInjection/
+Entity/
+Form/
+Listener/
+Repository/
+Resources/
+Service/
+Tests/Controller/
+Twig/
+Utils/
+AvAwesomeShortcutsBundle.php
+README.md
+composer.json

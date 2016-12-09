@@ -1,0 +1,17 @@
+assets/
+dist/
+languages/
+resources/
+.babelrc
+.bowerrc
+.gitignore
+README.md
+bower.json
+composer.json
+functions.php
+gulpfile.js
+index.php
+license.txt
+package.json
+screenshot.png
+style.css

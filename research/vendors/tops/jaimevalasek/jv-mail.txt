@@ -1,0 +1,6 @@
+config/
+src/JVMail/
+LICENSE
+Module.php
+README.md
+composer.json

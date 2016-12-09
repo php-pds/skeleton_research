@@ -1,0 +1,9 @@
+controllers/
+setup/
+templates/
+.gitignore
+README.md
+application.yml
+composer.json
+injector.php
+manifest.yml

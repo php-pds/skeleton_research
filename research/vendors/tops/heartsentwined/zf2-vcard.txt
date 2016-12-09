@@ -1,0 +1,10 @@
+config/
+src/Yalesov/Vcard/
+test/
+.gitignore
+.travis.yml
+Module.php
+README.md
+bootstrap.php
+composer.json
+vcard-spec

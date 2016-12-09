@@ -1,0 +1,11 @@
+build/
+docs/
+examples/
+src/Bartlett/Monolog/Handler/
+tests/
+.gitignore
+LICENSE
+README.asciidoc
+composer.json
+composer.lock
+phpunit.xml.dist

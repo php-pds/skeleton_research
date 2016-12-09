@@ -1,0 +1,5 @@
+src/Bazo/Events/
+.gitignore
+LICENSE
+README.md
+composer.json

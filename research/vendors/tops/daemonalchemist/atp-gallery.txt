@@ -1,0 +1,7 @@
+config/
+media/
+public/atp-gallery/
+src/ATPGallery/
+view/atp-gallery/index/
+License.txt
+composer.json

@@ -1,0 +1,15 @@
+example/
+src/
+tests/
+.gitattributes
+.gitignore
+.scrutinizer.yml
+.travis.yml
+API-GUIDE.md
+CHANGELOG.md
+CONTRIBUTING.md
+LICENSE.md
+PROGRESS.md
+README.md
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,6 @@
+demo/
+themes/
+Readme.md
+UNLICENSE
+composer.json
+pagination.php

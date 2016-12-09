@@ -1,0 +1,6 @@
+textpacks/
+LICENSE
+README.textile
+abc_plugin.php
+composer.json
+manifest.json

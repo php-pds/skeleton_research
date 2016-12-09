@@ -1,0 +1,12 @@
+.~build/
+phings @ 8973351
+src/
+.build.props
+.gitmodules
+.htaccess
+CHANGELOG.md
+LICENSE.txt
+README.md
+build.xml
+composer.json
+composer.lock

@@ -1,0 +1,7 @@
+src/Phppro/Framework/
+test/php/Phppro/Framework/
+.gitignore
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

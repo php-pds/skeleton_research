@@ -1,0 +1,14 @@
+Controller/
+DependencyInjection/
+Endpoint/
+Resources/
+Response/
+Tests/Controller/
+.gitattributes
+.scrutinizer.yml
+.travis.yml
+HgtanHelloJiraRestApiBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

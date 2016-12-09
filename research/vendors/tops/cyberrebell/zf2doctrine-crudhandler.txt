@@ -1,0 +1,6 @@
+library/ZF2DoctrineCrudHandler/
+resources/
+.gitignore
+LICENSE
+README.md
+composer.json

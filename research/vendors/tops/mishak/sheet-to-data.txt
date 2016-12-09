@@ -1,0 +1,11 @@
+Definition/
+Extractors/
+Filters/
+Expander.php
+Grouper.php
+IExtractor.php
+IFilter.php
+Sheet.php
+composer.json
+license.md
+readme.md

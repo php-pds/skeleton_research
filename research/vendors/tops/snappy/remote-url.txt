@@ -1,0 +1,8 @@
+src/Snappy/Apps/RemoteUrl/
+tests/
+.gitignore
+.travis.yml
+composer.json
+phpunit.xml
+readme.md
+remote_url.png

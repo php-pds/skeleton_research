@@ -1,0 +1,7 @@
+src/Kumatch/Fs/Temp/
+tests/
+.gitignore
+License.txt
+composer.json
+phpunit.xml.dist
+readme.md

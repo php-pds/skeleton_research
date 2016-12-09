@@ -1,0 +1,10 @@
+assets/
+controllers/
+js/
+views/
+widgets/
+CHANGELOG.md
+LICENSE
+Module.php
+README.md
+composer.json

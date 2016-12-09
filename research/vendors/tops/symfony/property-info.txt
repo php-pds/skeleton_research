@@ -1,0 +1,13 @@
+Extractor/
+Tests/
+LICENSE
+PropertyAccessExtractorInterface.php
+PropertyDescriptionExtractorInterface.php
+PropertyInfoExtractor.php
+PropertyInfoExtractorInterface.php
+PropertyListExtractorInterface.php
+PropertyTypeExtractorInterface.php
+README.md
+Type.php
+composer.json
+phpunit.xml.dist

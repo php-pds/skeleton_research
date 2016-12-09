@@ -1,0 +1,7 @@
+docs/
+src/
+tests/
+.DS_Store
+composer.json
+phpunit.xml
+readme.md

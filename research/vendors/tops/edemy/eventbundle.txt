@@ -1,0 +1,8 @@
+Controller/
+DependencyInjection/
+Entity/
+Resources/
+LICENSE
+README.md
+composer.json
+eDemyEventBundle.php

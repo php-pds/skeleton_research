@@ -1,0 +1,16 @@
+Archive/
+Command/
+Configuration/
+DependencyInjection/
+Entity/
+Exception/
+Factory/
+Generator/
+InformationGuesser/
+Manager/
+Repository/
+Resources/config/
+LICENSE
+README.md
+YokaiSecurityTokenBundle.php
+composer.json

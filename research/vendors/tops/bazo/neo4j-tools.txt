@@ -1,0 +1,4 @@
+src/Bazo/Neo4jTools/
+.gitignore
+README.md
+composer.json

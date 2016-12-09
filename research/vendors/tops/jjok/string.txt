@@ -1,0 +1,6 @@
+src/jjok/String/
+tests/jjok/String/
+.travis.yml
+README.md
+composer.json
+phpunit.xml.dist

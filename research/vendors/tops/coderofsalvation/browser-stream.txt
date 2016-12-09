@@ -1,0 +1,5 @@
+src/
+tests/
+README.md
+anim.gif
+composer.json

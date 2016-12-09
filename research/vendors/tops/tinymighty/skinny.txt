@@ -1,0 +1,9 @@
+i18n/
+includes/
+LICENSE
+README.md
+Skinny.class.php
+Skinny.i18n.magic.php
+Skinny.php
+composer.json
+extension.json

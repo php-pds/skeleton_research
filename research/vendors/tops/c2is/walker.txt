@@ -1,0 +1,6 @@
+Walker/
+tests/units/
+.gitignore
+README.md
+composer.json
+phpci.yml

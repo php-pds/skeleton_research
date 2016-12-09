@@ -1,0 +1,12 @@
+features/
+src/Sensorario/
+.gitignore
+CHANGELOG.md
+CONTRIBUTING.md
+README.md
+behat.yml
+composer.json
+composer.phar
+coverage
+phpunit.xml
+runtests

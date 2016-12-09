@@ -1,0 +1,6 @@
+EXTRA/
+MEDIA/install_template/
+.travis.yml
+LICENSE
+README.md
+composer.json

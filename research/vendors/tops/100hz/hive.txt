@@ -1,0 +1,8 @@
+src/Hive/
+tests/
+.gitignore
+LICENSE
+README.md
+circle.yml
+composer.json
+phpunit.xml

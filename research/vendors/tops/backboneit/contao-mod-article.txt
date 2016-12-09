@@ -1,0 +1,6 @@
+TL_ROOT/system/
+ext/yui-compressor/
+publish/
+.gitignore
+build.xml
+composer.json

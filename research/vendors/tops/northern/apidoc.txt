@@ -1,0 +1,6 @@
+src/Northern/ApiDoc/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock

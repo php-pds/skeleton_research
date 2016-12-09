@@ -1,0 +1,3 @@
+src/RedBean-Psr3/
+README.md
+composer.json

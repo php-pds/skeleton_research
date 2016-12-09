@@ -1,0 +1,9 @@
+Admin/
+DependencyInjection/
+Model/
+Resources/config/
+.gitignore
+CreonitMediaBundle.php
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,12 @@
+Event/
+Item/
+Job/
+Model/
+Normalizer/Structured/
+Step/
+Updater/
+spec/
+.travis.yml
+README.md
+composer.json
+phpspec.yml

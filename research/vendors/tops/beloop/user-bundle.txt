@@ -1,0 +1,11 @@
+CompilerPass/
+DataFixtures/ORM/
+DependencyInjection/
+Resources/
+.editorconfig
+.gitignore
+.travis.yml
+BeloopUserBundle.php
+README.md
+composer.json
+phpunit.xml.dist

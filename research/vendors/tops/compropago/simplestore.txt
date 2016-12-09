@@ -1,0 +1,6 @@
+assets/
+src/Simplestore/
+views/
+.gitignore
+README.md
+composer.json

@@ -1,0 +1,8 @@
+code/ContentElements/
+lang/
+templates/Includes/
+.gitignore
+LICENSE
+README.md
+_config.php
+composer.json

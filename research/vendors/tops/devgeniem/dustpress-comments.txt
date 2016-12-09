@@ -1,0 +1,11 @@
+assets/
+classes/
+dist/
+languages/
+partials/
+.gitignore
+README.md
+composer.json
+package.json
+plugin.php
+webpack.config.js

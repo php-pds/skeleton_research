@@ -1,0 +1,4 @@
+FroalaEditorAsset.php
+FroalaEditorWidget.php
+README.md
+composer.json

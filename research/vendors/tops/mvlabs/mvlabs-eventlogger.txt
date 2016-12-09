@@ -1,0 +1,6 @@
+config/
+src/MvlabsEventLogger/
+.gitignore
+Module.php
+README.md
+composer.json

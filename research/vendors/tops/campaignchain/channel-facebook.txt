@@ -1,0 +1,11 @@
+Controller/
+DependencyInjection/
+REST/
+Resources/
+.gitignore
+CampaignChainChannelFacebookBundle.php
+LICENSE
+NOTICE
+README.md
+campaignchain.yml
+composer.json

@@ -1,0 +1,12 @@
+Application/
+Public/
+ThinkPHP/
+.gitignore
+.htaccess
+LICENSE
+README.md
+README_zh-cn.md
+_aerospike_ide_helper.php
+composer.json
+config.php
+index.php

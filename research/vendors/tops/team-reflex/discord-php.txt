@@ -1,0 +1,8 @@
+bin/
+src/Discord/
+.editorconfig
+.gitignore
+.php_cs
+LICENSE.md
+README.md
+composer.json

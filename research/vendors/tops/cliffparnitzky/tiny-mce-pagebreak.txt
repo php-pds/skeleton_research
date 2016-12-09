@@ -1,0 +1,7 @@
+assets/tinymce4/plugins/pagebreak/
+system/modules/TinyMcePagebreak/
+.gitattributes
+.gitignore
+README.md
+composer.json
+screenshot.jpg

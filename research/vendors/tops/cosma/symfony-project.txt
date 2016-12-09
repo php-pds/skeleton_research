@@ -1,0 +1,12 @@
+app/
+docker/
+src/
+web/
+.gitignore
+Makefile
+README.md
+circle.yml
+composer.json
+composer.lock
+docker-compose.yml
+security-checker

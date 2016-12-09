@@ -1,0 +1,7 @@
+.gitattributes
+.gitignore
+REVISION.TXT
+RelativePath.Example1.php
+RelativePath.php
+composer.json
+readme.markdown

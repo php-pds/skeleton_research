@@ -1,0 +1,7 @@
+assets/tinymce4/plugins/autolink/
+system/modules/TinyMceLinkAutoDetect/
+.gitattributes
+.gitignore
+README.md
+composer.json
+screenshot.jpg

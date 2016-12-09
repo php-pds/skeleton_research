@@ -1,0 +1,4 @@
+src/Kaishiyoku/Validation/
+LICENSE
+README.md
+composer.json

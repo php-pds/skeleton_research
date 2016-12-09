@@ -1,0 +1,13 @@
+config/
+src/StpBoard/
+web/
+.bowerrc
+.gitignore
+.jshintrc
+Gruntfile.js
+LICENSE.md
+README.md
+bower.json
+composer.json
+composer.lock
+package.json

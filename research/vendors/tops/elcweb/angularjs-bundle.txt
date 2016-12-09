@@ -1,0 +1,7 @@
+DependencyInjection/
+Resources/
+.bowerrc
+ElcwebAngularJSBundle.php
+README.md
+bower.json
+composer.json

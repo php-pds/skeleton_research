@@ -1,0 +1,8 @@
+puphpet/
+sample/
+src/Swagger/
+.gitattributes
+.gitignore
+Vagrantfile
+composer.json
+composer.lock

@@ -1,0 +1,8 @@
+config/
+resources/views/
+src/
+.gitignore
+LICENSE.md
+README.md
+composer.json
+sneaker.png

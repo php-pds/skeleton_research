@@ -1,0 +1,7 @@
+DependencyInjection/
+Model/
+Resources/config/
+LICENCE.txt
+README.md
+SidusEAVDataGridBundle.php
+composer.json

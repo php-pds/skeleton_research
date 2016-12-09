@@ -1,0 +1,6 @@
+Classes/Futjikato/ReadCounter/
+Configuration/
+Documentation/
+Resources/Private/
+README.md
+composer.json

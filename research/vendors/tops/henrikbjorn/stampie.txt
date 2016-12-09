@@ -1,0 +1,11 @@
+lib/Stampie/
+tests/
+.gitattributes
+.gitignore
+.semver
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist
+sami.php

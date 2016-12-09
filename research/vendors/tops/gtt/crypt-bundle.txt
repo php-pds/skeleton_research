@@ -1,0 +1,15 @@
+Bridge/
+Command/
+DependencyInjection/
+Encryption/
+Exception/
+Resources/config/
+Tests/
+.gitignore
+.travis.yml
+CryptorRegistry.php
+GttCryptBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

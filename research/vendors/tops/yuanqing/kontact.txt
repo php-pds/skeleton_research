@@ -1,0 +1,15 @@
+example/
+js/
+php/
+.coveralls.yml
+.editorconfig
+.gitignore
+.jshintrc
+.travis.yml
+LICENSE
+README.md
+composer.json
+gulpfile.js
+karma.conf.js
+package.json
+phpunit.xml.dist

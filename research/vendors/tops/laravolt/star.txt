@@ -1,0 +1,11 @@
+config/
+database/
+resources/
+src/
+.gitattributes
+.gitignore
+CHANGELOG.md
+CONTRIBUTING.md
+LICENSE.md
+README.md
+composer.json

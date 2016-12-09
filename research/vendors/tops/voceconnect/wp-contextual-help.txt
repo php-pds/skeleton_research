@@ -1,0 +1,7 @@
+assets/
+config/deploy/
+Capfile
+README.md
+composer.json
+readme.txt
+wp-contextual-help.php

@@ -1,0 +1,12 @@
+Command/
+DependencyInjection/
+Loader/
+Resources/
+Server/
+Synchronization/
+Tests/
+.gitignore
+BFOSSyncContentBundle.php
+README.md
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,10 @@
+libraries/PHPImageOptim/
+services/
+tasks/
+templates/
+translations/
+twigextensions/
+variables/
+AmToolsPlugin.php
+README.md
+composer.json

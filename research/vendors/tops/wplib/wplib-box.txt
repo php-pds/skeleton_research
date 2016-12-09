@@ -1,0 +1,12 @@
+.vscode/
+logs/
+www/
+.gitignore
+CHANGELOG.md
+FAQ.md
+LICENSE.txt
+README.md
+Vagrantfile
+composer.json
+composer.lock
+packages.json

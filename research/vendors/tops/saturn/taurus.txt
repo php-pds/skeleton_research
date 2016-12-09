@@ -1,0 +1,4 @@
+core/
+Configurations.php
+README.md
+composer.json

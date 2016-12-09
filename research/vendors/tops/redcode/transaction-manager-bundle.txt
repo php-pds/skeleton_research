@@ -1,0 +1,6 @@
+DependencyInjection/
+Model/
+Resources/config/
+README.md
+RedCodeTransactionManagerBundle.php
+composer.json

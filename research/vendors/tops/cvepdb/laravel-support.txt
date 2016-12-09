@@ -1,0 +1,5 @@
+Traits/
+Json.php
+Stub.php
+composer.json
+helpers.php

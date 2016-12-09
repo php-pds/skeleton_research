@@ -1,0 +1,17 @@
+assets/
+classes/
+general/
+installation/
+packages/
+templates/
+vendor/
+.gitignore
+composer.json
+contribute.html
+credits.html
+favicon.ico
+favicon.png
+index.html
+license.html
+requirements.html
+toc.html

@@ -1,0 +1,8 @@
+lib/Blar/Events/
+tests/
+.coveralls.yml
+.gitignore
+.travis.yml
+composer.json
+composer.lock
+phpunit.xml.dist

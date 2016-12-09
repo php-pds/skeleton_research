@@ -1,0 +1,11 @@
+examples/
+src/
+tests/
+.gitignore
+.gitlab-ci.yml
+.travis.yml
+LICENSE
+README.md
+appveyor.yml
+composer.json
+profilingInstructions.txt

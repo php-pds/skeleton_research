@@ -1,0 +1,6 @@
+doc/
+src/Mouf/Html/Template/
+LICENSE.txt
+README.md
+composer.json
+logo.png

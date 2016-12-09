@@ -1,0 +1,13 @@
+assets/
+src/
+webroot/
+.bowerrc
+.gitignore
+.travis.yml
+Gruntfile.js
+LICENSE
+README.md
+bower.json
+composer.json
+package.json
+phpunit.xml.dist

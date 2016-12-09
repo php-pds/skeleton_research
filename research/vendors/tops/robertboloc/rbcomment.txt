@@ -1,0 +1,15 @@
+config/
+data/
+preview/
+src/RbComment/
+tests/
+view/theme/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE.md
+Module.php
+README.md
+UPGRADE.md
+autoload_classmap.php
+composer.json

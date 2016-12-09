@@ -1,0 +1,8 @@
+.idea/
+src/
+vagrant/provision/
+.gitignore
+LICENSE.md
+README.md
+Vagrantfile
+composer.json

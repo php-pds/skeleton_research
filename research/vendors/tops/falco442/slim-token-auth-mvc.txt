@@ -1,0 +1,11 @@
+logs/
+public/
+src/
+templates/
+tests/Functional/
+.gitignore
+CONTRIBUTING.md
+README.md
+composer.json
+composer.lock
+phpunit.xml

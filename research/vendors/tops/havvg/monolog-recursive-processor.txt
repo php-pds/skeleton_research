@@ -1,0 +1,12 @@
+Event/
+EventListener/
+Processor/
+Tests/
+.gitignore
+.travis.yml
+LICENSE
+LogEvents.php
+LoggableInterface.php
+README.md
+composer.json
+phpunit.xml.dist

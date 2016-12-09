@@ -1,0 +1,12 @@
+Crypt/
+data/
+scripts/
+tests/
+tools/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+package.php
+package.xml

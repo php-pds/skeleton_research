@@ -1,0 +1,16 @@
+bin/
+doc/
+spec/Gnugat/SearchEngine/
+src/Gnugat/SearchEngine/
+tests/
+.gitignore
+.travis.yml
+CHANGELOG.md
+CONTRIBUTING.md
+LICENSE
+README.md
+VERSIONING.md
+composer.json
+couscous.yml
+phpspec.yml.dist
+phpunit.xml.dist

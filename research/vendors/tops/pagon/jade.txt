@@ -1,0 +1,10 @@
+src/Everzet/Jade/
+tests/
+vendor/symfony/src/Symfony/Framework/
+.gitignore
+LICENSE
+README.md
+autoload.php.dist
+composer.json
+phpdoc.ini.dist
+phpunit.xml.dist

@@ -1,0 +1,7 @@
+File/
+.gitignore
+LICENSE
+README
+composer.json
+composer.lock
+package.xml

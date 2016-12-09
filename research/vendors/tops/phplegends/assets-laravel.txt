@@ -1,0 +1,6 @@
+config/
+src/AssetsLaravel/
+.gitignore
+LICENSE
+README.md
+composer.json

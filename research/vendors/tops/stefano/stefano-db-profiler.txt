@@ -1,0 +1,8 @@
+config/
+doc/images/
+src/StefanoDbProfiler/
+view/stefano-db-profiler/toolbar/
+.gitignore
+Module.php
+README.md
+composer.json

@@ -1,0 +1,9 @@
+xslt/
+.gitignore
+LICENSE
+README.rst
+build.xml
+composer.json
+composer.lock
+qa.xml
+typo3.xml

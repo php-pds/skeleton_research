@@ -1,0 +1,6 @@
+graphics/
+phocoa builder/
+phocoa/
+.gitignore
+README.markdown
+composer.json

@@ -1,0 +1,10 @@
+sql/
+views/
+.gitignore
+AjaxSubmitButton.php
+Poll.php
+PollDb.php
+README.md
+VoicesOfPoll.php
+composer.json
+copyright.md

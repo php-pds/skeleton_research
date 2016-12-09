@@ -1,0 +1,14 @@
+app/
+config/
+database/
+public/
+resource/
+simork/
+storage/
+.gitignore
+Makefile
+README.md
+composer.json
+composer.lock
+finger
+phinx.php

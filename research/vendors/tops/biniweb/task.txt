@@ -1,0 +1,5 @@
+bin/
+src/Simplon/Task/
+.gitignore
+README.md
+composer.json

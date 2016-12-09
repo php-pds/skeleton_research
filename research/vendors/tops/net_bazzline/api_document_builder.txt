@@ -1,0 +1,9 @@
+bin/
+configuration/
+example/
+migration/
+source/
+.gitignore
+LICENSE
+README.md
+composer.json

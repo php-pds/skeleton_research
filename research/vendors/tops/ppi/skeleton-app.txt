@@ -1,0 +1,17 @@
+ansible/
+app/
+docker/
+modules/
+public/
+tests/
+utils/skeleton_module/
+.bowerrc
+.editorconfig
+.gitignore
+.travis.yml
+README.md
+Vagrantfile
+bower.json
+composer.json
+composer.lock
+phpunit.xml.dist

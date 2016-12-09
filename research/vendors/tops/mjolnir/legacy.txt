@@ -1,0 +1,12 @@
++App/
+Layer/
+Task/
+Trait/Task/Db/
+.gitattributes
+.gitignore
+HTMLForm.php
+Puppet.php
+Schematic.php
+composer.json
+license.md
+readme.md

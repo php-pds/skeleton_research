@@ -1,0 +1,7 @@
+assets/tinymce/
+BootstrapFakeAsset.php
+README.md
+Tinymce.php
+TinymceAsset.php
+composer.json
+preview.png

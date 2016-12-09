@@ -1,0 +1,12 @@
+Component/Serializer/Normalizer/
+Converter/
+DependencyInjection/
+Resources/config/
+Tests/
+.gitignore
+GetSetForeignNormalizerBundle.php
+README.md
+TcReference_1.php
+composer.json
+composer.lock
+phpunit.xml.dist

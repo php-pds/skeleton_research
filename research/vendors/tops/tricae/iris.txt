@@ -1,0 +1,8 @@
+src/Iris/
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+README.md
+bootstrap.php
+composer.json

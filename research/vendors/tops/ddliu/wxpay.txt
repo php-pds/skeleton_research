@@ -1,0 +1,7 @@
+WxpayAPI_php_v3/
+src/
+tests/
+.gitignore
+README.md
+composer.json
+phpunit.xml

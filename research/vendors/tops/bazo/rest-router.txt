@@ -1,0 +1,6 @@
+src/Bazo/Rest/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json

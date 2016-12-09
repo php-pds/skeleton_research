@@ -1,0 +1,12 @@
+assets/js/
+controllers/
+messages/ru/
+migrations/
+models/
+views/comment/
+widgets/
+LICENSE.md
+Module.php
+ModuleAsset.php
+README.md
+composer.json

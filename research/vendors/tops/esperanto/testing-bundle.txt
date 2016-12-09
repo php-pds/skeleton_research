@@ -1,0 +1,5 @@
+DependencyInjection/
+Doctrine/
+.gitignore
+composer.json
+esperantoTestingBundle.php

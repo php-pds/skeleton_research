@@ -1,0 +1,4 @@
+Smarty/
+.gitignore
+README.md
+composer.json

@@ -1,0 +1,10 @@
+Command/
+Connector/
+DependencyInjection/
+Exception/
+Job/
+Resources/config/
+Worker/
+README.md
+TFoxBeanstalkdBundle.php
+composer.json

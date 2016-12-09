@@ -1,0 +1,12 @@
+Csrf/
+DebuggerDetector/
+DependencyInjection/
+Resources/config/
+Security/
+.gitattributes
+.gitignore
+DebugBundle.php
+LICENSE
+README.md
+composer.json
+composer.lock

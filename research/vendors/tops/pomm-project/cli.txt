@@ -1,0 +1,11 @@
+bin/
+sources/
+.bootstrap.atoum.php
+.gitignore
+.travis.yml
+CHANGELOG
+LICENSE
+README.md
+VERSION
+composer.json
+composer.lock

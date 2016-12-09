@@ -1,0 +1,7 @@
+assets/
+.gitattributes
+.gitignore
+Asset.php
+CDNAsset.php
+README.md
+composer.json

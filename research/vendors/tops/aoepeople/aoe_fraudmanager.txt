@@ -1,0 +1,10 @@
+app/
+skin/adminhtml/default/default/css/
+.travis.yml
+LICENSE.txt
+README.md
+aoe-logo.png
+composer.json
+modman
+phpcs.xml
+run_tests.sh

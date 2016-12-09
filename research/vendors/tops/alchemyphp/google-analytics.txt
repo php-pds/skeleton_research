@@ -1,0 +1,5 @@
+database/
+resources/
+src/
+.gitignore
+composer.json

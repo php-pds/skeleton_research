@@ -1,0 +1,7 @@
+src/KrisanAlfa/Theme/
+templates/
+www/vendor/blade-foundation/
+.gitignore
+README.md
+blade-foundation.sublime-project
+composer.json

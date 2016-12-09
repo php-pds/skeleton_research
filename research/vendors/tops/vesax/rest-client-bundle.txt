@@ -1,0 +1,10 @@
+Client/
+DependencyInjection/
+Description/
+Event/
+Resources/config/
+.gitignore
+Option.php
+README.md
+VesaxRestClientBundle.php
+composer.json

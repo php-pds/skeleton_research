@@ -1,0 +1,7 @@
+src/Faceboo/
+vendor/
+.gitignore
+.gitmodules
+LICENCE
+README.md
+composer.json

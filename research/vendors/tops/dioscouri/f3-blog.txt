@@ -1,0 +1,4 @@
+src/Blog/
+README.md
+bootstrap.php
+composer.json

@@ -1,0 +1,11 @@
+assets/
+lang/
+src/
+templates/
+.gitattributes
+.gitignore
+LICENSE
+README.md
+composer.json
+gm-cookie-policy.php
+uninstall.php

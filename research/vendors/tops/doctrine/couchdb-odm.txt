@@ -1,0 +1,15 @@
+bin/
+lib/
+sandbox/
+tests/
+.gitignore
+.gitmodules
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.markdown
+UPGRADE
+build.properties.dev
+build.xml
+composer.json
+phpunit.xml.dist

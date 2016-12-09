@@ -1,0 +1,15 @@
+config/
+src/
+tests/unit/
+tmp/
+vendor/
+.gitignore
+README.md
+TODO.md
+composer.json
+composer.phar
+phing-latest.phar
+phing-latest_2.phar
+phpunit.phar
+phpunit.xml
+phunc.php

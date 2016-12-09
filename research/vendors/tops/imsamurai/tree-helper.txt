@@ -1,0 +1,11 @@
+Lib/Tree/
+Test/Case/
+View/Helper/
+webroot/vendor/jquery-tree/
+.editorconfig
+.semver
+.travis.yml
+CONTRIBUTING.markdown
+LICENSE.txt
+README.md
+composer.json

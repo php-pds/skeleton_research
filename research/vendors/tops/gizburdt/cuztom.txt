@@ -1,0 +1,8 @@
+assets/
+classes/
+functions/
+.gitignore
+composer.json
+cuztom.php
+license.txt
+readme.md

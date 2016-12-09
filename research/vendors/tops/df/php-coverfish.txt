@@ -1,0 +1,14 @@
+bin/
+src/PHPCoverFish/
+tests/
+.codeclimate.yml
+.gitattributes
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CHANGELOG.md
+CONTRIBUTING.md
+CONTRIBUTING_COC.md
+LICENSE
+README.md
+composer.json

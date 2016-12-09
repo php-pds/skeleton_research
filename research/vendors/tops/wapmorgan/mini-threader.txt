@@ -1,0 +1,8 @@
+bin-tests/
+src/
+tests/
+.scrutinizer.yml
+.travis.yml
+Multithreading.png
+README.md
+composer.json

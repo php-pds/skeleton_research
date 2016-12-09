@@ -1,0 +1,10 @@
+bin/php/
+classes/Disqus/Export/
+datatypes/disquscomments/
+design/
+settings/
+translations/
+LICENCE
+README.md
+composer.json
+extension.xml

@@ -1,0 +1,8 @@
+LICENSE
+README.md
+bower.json
+composer.json
+index.html
+range-select-example.css
+range-select.js
+range-select.min.js

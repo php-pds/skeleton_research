@@ -1,0 +1,11 @@
+Reader/
+.gitignore
+COPYING
+Domain.php
+GetTextReader.php
+GetTextVars.php
+composer.json
+gettext.php
+readme.md
+use_class_gettext_function.php
+use_native_gettext_function.php

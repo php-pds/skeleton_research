@@ -1,0 +1,9 @@
+assets/vue-drag-and-drop/
+views/
+.gitattributes
+.gitignore
+DragAsset.php
+DragTagsWidget.php
+LICENSE
+README.md
+composer.json

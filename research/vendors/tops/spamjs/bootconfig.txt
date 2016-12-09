@@ -1,0 +1,9 @@
+highlight/
+app.html
+bootconfig.html
+bower.json
+composer.json
+module.info.html
+module.json
+moduleconfig.css
+spamjs.bootconfig.js

@@ -1,0 +1,13 @@
+Annotation/
+Controller/
+DependencyInjection/
+Finder/
+Resources/
+Server/
+Smd/
+Tests/Controller/
+spec/Solution/JsonRpcBundle/
+.gitignore
+README.md
+SolutionJsonRpcBundle.php
+composer.json

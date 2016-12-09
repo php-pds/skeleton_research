@@ -1,0 +1,5 @@
+assets/js/
+README.md
+Sudoslider.php
+SudosliderAssets.php
+composer.json

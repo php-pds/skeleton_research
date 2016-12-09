@@ -1,0 +1,4 @@
+Controller/Component/Auth/
+Lib/
+composer.json
+readme.textile

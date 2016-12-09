@@ -1,0 +1,11 @@
+Lib/SimpleLifestream/
+Tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+STREAMS.md
+composer.json
+phpdoc.xml
+phpunit.xml

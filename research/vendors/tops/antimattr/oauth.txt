@@ -1,0 +1,8 @@
+bin/
+src/AntiMattr/OAuth/
+tests/AntiMattr/Tests/OAuth/
+.gitignore
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

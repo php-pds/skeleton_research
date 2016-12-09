@@ -1,0 +1,4 @@
+generators/
+LICENSE
+README.md
+composer.json

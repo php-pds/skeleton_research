@@ -1,0 +1,7 @@
+MasterCard/Api/P2p/
+result/
+.gitignore
+README.md
+composer.json
+mastercard-p2p-1.0.1.zip
+phpunit.xml

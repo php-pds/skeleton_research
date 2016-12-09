@@ -1,0 +1,9 @@
+app/
+config/
+public/
+resources/
+.gitignore
+.travis.yml
+README.md
+bootstrap.php
+composer.json

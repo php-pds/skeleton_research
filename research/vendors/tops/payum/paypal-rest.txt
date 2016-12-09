@@ -1,0 +1,12 @@
+Action/
+Model/
+Resources/docs/
+Tests/
+.travis.yml
+CHANGELOG.md
+LICENSE
+PaypalRestGatewayFactory.php
+README.md
+UPGRADE.md
+composer.json
+phpunit.xml.dist

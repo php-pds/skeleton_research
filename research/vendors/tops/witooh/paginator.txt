@@ -1,0 +1,6 @@
+src/Witooh/Paginator/
+tests/
+.gitignore
+.travis.yml
+composer.json
+phpunit.xml

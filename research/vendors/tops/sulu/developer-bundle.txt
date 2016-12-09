@@ -1,0 +1,8 @@
+Command/
+DataFixtures/
+DependencyInjection/
+Resources/
+.gitignore
+README.md
+SuluDeveloperBundle.php
+composer.json

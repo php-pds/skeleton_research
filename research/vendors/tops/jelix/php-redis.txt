@@ -1,0 +1,6 @@
+tests/
+.gitattributes
+.gitignore
+README.md
+Redis.php
+composer.json

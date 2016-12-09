@@ -1,0 +1,9 @@
+tests/
+.gitignore
+.travis.yml
+CorsSlim.php
+History.md
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

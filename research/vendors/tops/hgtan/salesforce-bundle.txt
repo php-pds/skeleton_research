@@ -1,0 +1,14 @@
+Command/
+Controller/
+DependencyInjection/
+Formatter/
+Resources/
+Tests/Controller/
+.gitattributes
+.scrutinizer.yml
+.travis.yml
+HgtanHelloSalesforceBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

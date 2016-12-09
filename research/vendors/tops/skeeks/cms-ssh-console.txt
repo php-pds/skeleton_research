@@ -1,0 +1,13 @@
+_ide/
+assets/
+config/
+controllers/
+messages/ru/
+views/
+CHANGELOG.md
+LICENSE
+README.md
+SshConsoleForm.php
+SshConsoleModule.php
+SshConsoleWidget.php
+composer.json

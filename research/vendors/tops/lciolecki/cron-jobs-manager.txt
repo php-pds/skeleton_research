@@ -1,0 +1,6 @@
+library/Extlib/
+zf-doctrine-example/
+.gitignore
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,11 @@
+Adapter/
+Api/
+Block/
+Model/
+Service/
+Test/
+etc/
+README.md
+composer.json
+phpunit.xml.dist
+registration.php

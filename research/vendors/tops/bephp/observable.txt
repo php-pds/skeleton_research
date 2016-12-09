@@ -1,0 +1,8 @@
+test/
+.coveralls.yml
+.travis.yml
+LICENSE
+README.md
+composer.json
+observable.php
+phpunit.xml

@@ -1,0 +1,13 @@
+css/
+img/
+translations/
+upgrade/
+views/
+CHANGELOG.txt
+Readme.md
+composer.json
+config.xml
+homefeatured.php
+index.php
+logo.gif
+logo.png

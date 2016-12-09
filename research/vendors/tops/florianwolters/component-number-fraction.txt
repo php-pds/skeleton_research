@@ -1,0 +1,13 @@
+nbproject/
+src/
+.coveralls.yml
+.gitattributes
+.gitignore
+.travis.yml
+CONTRIBUTING.md
+COPYING
+COPYING.LESSER
+composer.json
+composer.lock
+phpunit.xml.dist
+sami.php

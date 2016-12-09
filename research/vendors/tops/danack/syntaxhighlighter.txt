@@ -1,0 +1,14 @@
+bin/
+build/
+demos/
+src/
+tests/
+.bowerrc
+.gitignore
+Gruntfile.coffee
+MIT-LICENSE
+README.md
+bower.json
+composer.json
+npm-shrinkwrap.json
+package.json

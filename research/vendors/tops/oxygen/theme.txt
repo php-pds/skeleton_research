@@ -1,0 +1,9 @@
+spec/
+src/
+tests/
+.gitignore
+README.md
+composer.json
+icon.png
+phpspec.yml
+phpunit.xml

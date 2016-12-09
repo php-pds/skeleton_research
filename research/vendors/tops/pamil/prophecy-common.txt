@@ -1,0 +1,9 @@
+example/
+spec/Promise/
+src/Promise/
+.gitattributes
+.gitignore
+.travis.yml
+README.md
+composer.json
+phpspec.yml.dist

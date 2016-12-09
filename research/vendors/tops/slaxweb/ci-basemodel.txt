@@ -1,0 +1,12 @@
+Tests/
+Where/
+.gitignore
+.travis.yml
+Constants.php
+Error.php
+LICENSE.md
+Model.php
+README.md
+Result.php
+composer.json
+phpunit.xml.dist

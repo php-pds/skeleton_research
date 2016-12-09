@@ -1,0 +1,8 @@
+.settings/
+public/
+templates/
+.bowerrc
+.buildpath
+.gitignore
+.project
+composer.json

@@ -1,0 +1,6 @@
+src/Kollarovic/Navigation/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json

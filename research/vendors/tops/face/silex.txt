@@ -1,0 +1,4 @@
+lib/Face/Silex/
+.gitignore
+README.md
+composer.json

@@ -1,0 +1,8 @@
+Src/Pherserk/TextKeywordsEx/Component/
+Tests/Pherserk/TextKeywordsEx/Component/
+.gitignore
+.scrutinizer.yml
+README.MD
+composer.json
+phpunit.php
+phpunit.xml

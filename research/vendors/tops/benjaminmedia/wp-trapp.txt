@@ -1,0 +1,8 @@
+css/
+js/
+src/Bonnier/WP/Trapp/
+views/admin/metabox-translations-post/
+.gitignore
+bp-trapp.php
+composer.json
+readme.md

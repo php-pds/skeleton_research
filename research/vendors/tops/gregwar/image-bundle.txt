@@ -1,0 +1,13 @@
+DependencyInjection/
+Extensions/
+Resources/config/
+Services/
+.gitignore
+.php_cs
+.styleci.yml
+GregwarImageBundle.php
+ImageHandler.php
+LICENSE
+Makefile
+README.md
+composer.json

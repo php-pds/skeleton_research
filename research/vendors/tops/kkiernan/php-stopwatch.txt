@@ -1,0 +1,8 @@
+examples/
+spec/Kiernan/
+src/Kiernan/
+.gitignore
+composer.json
+composer.lock
+license
+readme.md

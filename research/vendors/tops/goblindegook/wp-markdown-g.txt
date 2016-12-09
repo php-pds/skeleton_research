@@ -1,0 +1,11 @@
+css/
+js/
+lib/
+.editorconfig
+.gitignore
+CHANGELOG.md
+LICENSE
+README.md
+composer.json
+composer.lock
+wp-markdown.php

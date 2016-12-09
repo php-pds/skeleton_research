@@ -1,0 +1,8 @@
+Classes/
+Configuration/
+Resources/Private/Schema/Settings/
+Tests/
+CodeOfConduct.rst
+LICENSE
+README.md
+composer.json

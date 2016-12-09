@@ -1,0 +1,9 @@
+js/
+src/Plugin/CKEditorPlugin/
+.gitignore
+LICENSE
+README.md
+ckeditor_templates.info.yml
+ckeditor_templates.libraries.yml
+ckeditor_templates.module
+composer.json

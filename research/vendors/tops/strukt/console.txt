@@ -1,0 +1,9 @@
+fixtures/src/Command/
+src/Strukt/Console/
+tests/Strukt/Console/
+.gitignore
+LICENSE
+README.md
+bootstrap.php
+composer.json
+phpunit.xml

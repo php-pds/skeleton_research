@@ -1,0 +1,7 @@
+migrations/
+translation/
+.gitattributes
+.gitignore
+README.md
+composer.json
+screenshot.png

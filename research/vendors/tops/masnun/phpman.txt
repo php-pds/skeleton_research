@@ -1,0 +1,5 @@
+bin/
+README.md
+composer.json
+phpman.phar
+phpman.php

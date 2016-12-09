@@ -1,0 +1,5 @@
+Exception/
+ConfigurationManager.php
+LICENSE
+README.md
+composer.json

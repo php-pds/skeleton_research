@@ -1,0 +1,4 @@
+locale/
+src/Shop/
+README.md
+composer.json

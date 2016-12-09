@@ -1,0 +1,11 @@
+src/Maniaplanet/OpenFireRestApi/
+.gitignore
+LICENSE
+README.md
+ResetVM.bat
+RunVM.bat
+Test.php
+Test_options.dist.php
+Vagrantfile
+composer.json
+vagrant-insecure.ppk

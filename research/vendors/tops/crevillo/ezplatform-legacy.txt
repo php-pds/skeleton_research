@@ -1,0 +1,17 @@
+app/
+bin/
+doc/
+src/
+web/
+.gitignore
+.php_cs
+.travis.yml
+COPYRIGHT
+GETTING_STARTED.md
+INSTALL.md
+LICENSE
+README.md
+RUNNING_BEHAT.md
+UPGRADE.md
+behat.yml.dist
+composer.json

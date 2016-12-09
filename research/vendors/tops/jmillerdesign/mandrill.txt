@@ -1,0 +1,9 @@
+Controller/
+Lib/Network/Email/
+Model/
+Test/Case/Network/Email/
+webroot/attachments/
+.gitignore
+LICENSE.md
+README.md
+composer.json

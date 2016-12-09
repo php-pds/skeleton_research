@@ -1,0 +1,15 @@
+Channel/
+Command/
+Controller/
+DependencyInjection/
+Notification/
+NotificationTest/
+Resources/
+Service/
+Twig/
+Way/
+.gitignore
+README.md
+SoilNotificationBundle.php
+composer.json
+composer.lock

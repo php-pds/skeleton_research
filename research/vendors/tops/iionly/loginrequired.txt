@@ -1,0 +1,8 @@
+views/default/
+CHANGES.txt
+LICENCE.txt
+README.md
+composer.json
+index.php
+manifest.xml
+start.php

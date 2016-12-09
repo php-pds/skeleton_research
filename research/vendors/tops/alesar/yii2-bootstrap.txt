@@ -1,0 +1,9 @@
+assets/tabs/
+views/
+CircularTabs.php
+CircularTabsAsset.php
+LICENSE
+Nav.php
+NavBar.php
+README.md
+composer.json

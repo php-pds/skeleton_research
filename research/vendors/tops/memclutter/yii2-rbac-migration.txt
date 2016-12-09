@@ -1,0 +1,5 @@
+.gitignore
+LICENSE.md
+MigrationTrait.php
+README.md
+composer.json

@@ -1,0 +1,6 @@
+app/
+js/oggetto/adminhtml/
+skin/adminhtml/default/default/images/oggetto/
+README.md
+composer.json
+package.xml

@@ -1,0 +1,11 @@
+src/PhpHubApi/
+tests/
+.gitignore
+.travis.yml
+AUTHORS
+LICENSE
+Makefile
+composer.json
+composer.lock
+phpunit.sh
+phpunit.xml.dist

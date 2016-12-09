@@ -1,0 +1,17 @@
+src/
+tests/
+.bookignore
+.editorconfig
+.gitattributes
+.gitignore
+.scrutinizer.yml
+.styleci.yml
+.travis.yml
+LICENSE.txt
+README.md
+SUMMARY.md
+book.json
+circle.yml
+composer.json
+package.json
+phpunit.xml.dist

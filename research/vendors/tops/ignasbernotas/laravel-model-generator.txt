@@ -1,0 +1,9 @@
+src/
+tests/
+.gitignore
+CNAME
+README.md
+autoload.php
+composer.json
+composer.lock
+phpunit.xml

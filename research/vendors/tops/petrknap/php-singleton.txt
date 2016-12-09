@@ -1,0 +1,9 @@
+src/Singleton/
+tests/Singleton/
+.gitattributes
+.gitignore
+LICENSE
+README.md
+VERSIONING.md
+composer.json
+phpunit.xml

@@ -1,0 +1,15 @@
+Block/
+Command/
+Model/
+Observer/
+Plugin/
+Service/
+Setup/
+Test/Unit/Model/
+etc/
+i18n/
+view/frontend/
+LICENSE.md
+README.md
+composer.json
+registration.php

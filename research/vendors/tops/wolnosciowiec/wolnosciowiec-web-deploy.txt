@@ -1,0 +1,13 @@
+src/
+tests/
+web/
+.coveralls.yml
+.gitignore
+.htaccess
+.travis.yml
+Procfile
+README.md
+composer.json
+composer.lock
+phinx.yml
+phpunit.xml.dist

@@ -1,0 +1,14 @@
+bin/
+src/
+test/
+.codeclimate.yml
+.gitignore
+.travis.yml
+CONTRIBUTING.md
+LICENSE.md
+composer.json
+composer.lock
+phpcsdocblocks.xml
+phpcsfunctions.xml
+phpunit.xml
+readme.md

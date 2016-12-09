@@ -1,0 +1,5 @@
+screenshots/
+widget/
+README.md
+Widget.php
+composer.json

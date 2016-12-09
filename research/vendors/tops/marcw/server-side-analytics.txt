@@ -1,0 +1,5 @@
+src/MarcW/ServerSideAnalytics/
+.gitignore
+LICENSE
+README.md
+composer.json

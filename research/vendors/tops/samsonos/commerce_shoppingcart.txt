@@ -1,0 +1,6 @@
+.gitignore
+composer.json
+license.md
+readme.md
+shoppingCart.php
+shoppingCartItem.php

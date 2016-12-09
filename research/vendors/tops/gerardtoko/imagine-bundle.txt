@@ -1,0 +1,14 @@
+Command/
+DependencyInjection/
+Imagine/Filter/
+Resources/
+Service/
+Templating/Helper/
+Tests/
+Twig/
+.gitignore
+.travis.yml
+GTImagineBundle.php
+README.md
+composer.json
+phpunit.xml.dist

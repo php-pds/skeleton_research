@@ -1,0 +1,10 @@
+src/LeroyMerlin/Axado/
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+README.md
+composer.json
+example.php
+phpunit.xml
+phpunit.xml.dist

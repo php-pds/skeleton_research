@@ -1,0 +1,12 @@
+Command/
+Controller/
+DependencyInjection/
+Generator/
+Resources/
+Tests/Controller/
+.gitignore
+LICENSE
+README.md
+SitePlatformBundle.php
+composer.json
+phpunit.xml.dist

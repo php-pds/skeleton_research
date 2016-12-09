@@ -1,0 +1,14 @@
+DependencyInjection/
+Job/JobParameters/
+Processor/Normalization/
+Resources/
+spec/Pim/Bundle/EnhancedConnectorBundle/Processor/Normalization/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CHANGELOG.md
+PimEnhancedConnectorBundle.php
+README.md
+UPGRADE-1.3.md
+composer.json
+phpspec-scrutinizer.yml

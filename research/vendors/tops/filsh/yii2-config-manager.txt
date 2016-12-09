@@ -1,0 +1,5 @@
+rule/
+ConfigManager.php
+README.md
+Rule.php
+composer.json

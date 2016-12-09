@@ -1,0 +1,11 @@
+Tests/
+doxygen/
+src/
+.editorconfig
+.gitignore
+.travis.yml
+Doxyfile
+README.md
+composer.json
+phpunit.xml.dist
+testwatch

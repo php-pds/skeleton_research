@@ -1,0 +1,11 @@
+bin/
+bootstrap/
+config/
+locales/
+logs/
+public_html/
+sessions/
+src/Apps/
+tasks/
+.gitignore
+composer.json

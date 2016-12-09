@@ -1,0 +1,9 @@
+Tests/
+.gitignore
+README.md
+RedisETagCache.php
+RedisETagGenerator.php
+composer.json
+coverage.xml
+phpunit.xml.dist
+scrutinizer.yml

@@ -1,0 +1,13 @@
+_config/
+code/
+tests/
+.appveyor.yml
+.editorconfig
+.gitattributes
+.scrutinizer.yml
+.upgrade.yml
+README.md
+_config.php
+_register_database.php
+code-of-conduct.md
+composer.json

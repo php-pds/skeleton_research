@@ -1,0 +1,9 @@
+_config/
+_scripts/
+_templates/
+.gitignore
+CHANGELOG.md
+LICENSE
+README.md
+composer.json
+composer.lock

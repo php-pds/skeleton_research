@@ -1,0 +1,6 @@
+lib/model/
+resources/public/javascripts/wildfire-wildfire.media.flickr/
+README
+composer.json
+ini.php
+setup.php

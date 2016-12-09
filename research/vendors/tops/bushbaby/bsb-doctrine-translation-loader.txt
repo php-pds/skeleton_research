@@ -1,0 +1,13 @@
+config/
+etc/
+src/BsbDoctrineTranslationLoader/
+test/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CHANGELOG.md
+LICENSE.txt
+Module.php
+README.md
+composer.json
+phpunit.xml

@@ -1,0 +1,6 @@
+src/PHPX/ConsistentHash/
+tests/
+LICENSE
+README.md
+composer.json
+composer.lock

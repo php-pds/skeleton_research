@@ -1,0 +1,14 @@
+Command/
+Descriptor/
+Exception/
+Option/
+Output/
+Prompter/
+Tests/
+bin/
+.gitignore
+Console.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

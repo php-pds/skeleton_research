@@ -1,0 +1,12 @@
+setup @ 9e05103
+src/
+test/
+.gitignore
+.gitmodules
+COPYRIGHT
+README.rst
+TODO
+build.properties
+build.xml
+composer.json
+composer.lock

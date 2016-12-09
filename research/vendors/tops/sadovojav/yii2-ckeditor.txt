@@ -1,0 +1,6 @@
+assets/ckeditor/
+AssetBundle.php
+CHANGELOG.md
+CKEditor.php
+README.md
+composer.json

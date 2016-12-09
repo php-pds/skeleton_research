@@ -1,0 +1,10 @@
+assets/
+base/
+components/
+plugins/
+tests/
+util/
+LICENSE
+README.md
+build.xml
+composer.json

@@ -1,0 +1,7 @@
+spec/Trq/TimePeriod/
+src/Trq/TimePeriod/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock

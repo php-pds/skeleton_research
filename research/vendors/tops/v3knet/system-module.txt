@@ -1,0 +1,14 @@
+commands/
+controllers/
+events/
+providers/
+resources/
+tests/
+traits/
+.gitignore
+.travis.yml
+ModularApp.php
+README.md
+SystemModule.php
+composer.json
+composer.lock

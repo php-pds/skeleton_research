@@ -1,0 +1,6 @@
+data/templates/contao/
+src/Extension/
+.gitignore
+LICENSE
+README.md
+composer.json

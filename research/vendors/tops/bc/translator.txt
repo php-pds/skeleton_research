@@ -1,0 +1,5 @@
+bc/
+config/
+lang/
+.gitignore
+composer.json

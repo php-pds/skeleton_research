@@ -1,0 +1,6 @@
+Classes/Lelesys/Plugin/Newsletter/
+Configuration/
+Migrations/Mysql/
+Resources/
+README.md
+composer.json

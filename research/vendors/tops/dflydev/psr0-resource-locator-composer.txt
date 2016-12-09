@@ -1,0 +1,8 @@
+src/Dflydev/Psr0ResourceLocator/Composer/
+tests/Dflydev/Psr0ResourceLocator/Composer/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

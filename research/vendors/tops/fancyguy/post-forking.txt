@@ -1,0 +1,15 @@
+css/
+img/
+includes/
+js/
+languages/
+templates/
+tests/
+.gitignore
+.travis.yml
+build.sh
+composer.json
+license.html
+post-forking.php
+readme.md
+readme.txt

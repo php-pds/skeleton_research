@@ -1,0 +1,8 @@
+DependencyInjection/
+Resources/config/
+Security/
+.gitignore
+LICENSE
+README.md
+composer.json
+xPheReOneTimeAccessBundle.php

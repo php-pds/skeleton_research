@@ -1,0 +1,13 @@
+src/
+tests/
+.coveralls.yml
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CONTRIBUTING.md
+README.md
+build.php
+composer.json
+composer.lock
+fig.yml
+phpunit.xml

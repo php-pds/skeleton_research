@@ -1,0 +1,7 @@
+config/Migrations/
+src/
+.gitignore
+LICENSE.txt
+README.md
+VERSION.txt
+composer.json

@@ -1,0 +1,14 @@
+demo/
+dist/
+.API.md.html
+API.md
+INSTALL.md
+LICENSE
+README.md
+bower.json
+composer.json
+jqtags.slider.css
+jqtags.slider.js
+jqtags.slider.scss
+module.json
+module.properties

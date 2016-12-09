@@ -1,0 +1,6 @@
+assets/
+Dialog.php
+DialogAsset.php
+LICENSE
+README.md
+composer.json

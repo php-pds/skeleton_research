@@ -1,0 +1,15 @@
+doc/
+examples/
+src/
+test/
+.gitattributes
+.gitignore
+.travis.yml
+CHANGELOG.md
+CODE_OF_CONDUCT.md
+CONTRIBUTING.md
+LICENSE
+README.md
+composer.json
+composer.lock
+phpdoc.sh

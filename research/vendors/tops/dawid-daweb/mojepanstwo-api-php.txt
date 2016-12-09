@@ -1,0 +1,4 @@
+mojepanstwo/
+LICENSE
+README.md
+composer.json

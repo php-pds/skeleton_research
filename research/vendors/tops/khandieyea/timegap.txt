@@ -1,0 +1,9 @@
+src/TimeGap/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+go.php
+phpunit.xml

@@ -1,0 +1,13 @@
+core/
+modules/
+profiles/
+sites/
+themes/
+.editorconfig
+.eslintignore
+.eslintrc
+.gitattributes
+README.md
+composer.json
+composer.lock
+example.gitignore

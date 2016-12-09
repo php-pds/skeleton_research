@@ -1,0 +1,4 @@
+Assetic/Filter/
+README.md
+SopinetColorizeBundle.php
+composer.json

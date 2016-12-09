@@ -1,0 +1,6 @@
+fonts/
+lib/
+test/
+.gitignore
+LICENSE
+composer.json

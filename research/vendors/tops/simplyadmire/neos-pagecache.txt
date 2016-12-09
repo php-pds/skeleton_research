@@ -1,0 +1,5 @@
+Classes/SimplyAdmire/Neos/PageCache/
+Configuration/
+LICENSE.txt
+README.md
+composer.json

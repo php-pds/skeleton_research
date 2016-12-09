@@ -1,0 +1,12 @@
+actions/
+graphics/
+languages/
+lib/
+pages/videos/
+screenshots/
+vendors/
+views/
+README.txt
+composer.json
+manifest.xml
+start.php

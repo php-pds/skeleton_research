@@ -1,0 +1,11 @@
+Command/
+DependencyInjection/
+Resources/
+Tests/DependencyInjection/
+.gitignore
+Changelog.md
+DoctrineMigrationsBundle.php
+LICENSE
+README.markdown
+composer.json
+phpunit.xml.dist

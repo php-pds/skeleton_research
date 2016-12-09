@@ -1,0 +1,11 @@
+Interfaces/
+objects/
+.gitattributes
+.gitignore
+Api.php
+GeoObject.php
+GeoObjectCollection.php
+JavaScript.php
+Map.php
+YandexMap.php
+composer.json

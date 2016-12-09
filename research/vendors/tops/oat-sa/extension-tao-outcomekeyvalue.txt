@@ -1,0 +1,9 @@
+includes/
+locales/en-US/
+models/
+scripts/
+.gitignore
+LICENSE
+README.md
+composer.json
+manifest.php

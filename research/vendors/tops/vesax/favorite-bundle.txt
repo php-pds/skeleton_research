@@ -1,0 +1,14 @@
+Controller/
+DependencyInjection/
+Entity/
+EventListener/
+Exception/
+Repository/
+Resources/config/
+Twig/Extension/
+.gitignore
+FavoriteManager.php
+LazyFavoriteCollection.php
+README.md
+VesaxFavoriteBundle.php
+composer.json

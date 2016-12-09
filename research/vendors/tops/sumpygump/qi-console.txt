@@ -1,0 +1,5 @@
+lib/Qi/Console/
+tests/
+.travis.yml
+README.md
+composer.json

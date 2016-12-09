@@ -1,0 +1,5 @@
+example/
+src/Datasift/
+.gitignore
+README.md
+composer.json

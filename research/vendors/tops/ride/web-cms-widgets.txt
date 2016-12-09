@@ -1,0 +1,9 @@
+config/
+l10n/
+public/
+src/ride/web/cms/
+.gitignore
+CHANGELOG.md
+README.md
+composer.json
+ride.json

@@ -1,0 +1,6 @@
+config/
+src/LemoBase/
+.gitignore
+Module.php
+README.md
+composer.json

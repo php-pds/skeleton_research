@@ -1,0 +1,7 @@
+features/
+src/
+.gitignore
+README.md
+behat.yml.dist
+composer.json
+phpspec.yml

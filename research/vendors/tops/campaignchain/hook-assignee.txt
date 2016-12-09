@@ -1,0 +1,11 @@
+DependencyInjection/
+EntityService/
+Form/Type/
+Model/
+Resources/
+.gitignore
+CampaignChainHookAssigneeBundle.php
+LICENSE
+README.md
+campaignchain.yml
+composer.json

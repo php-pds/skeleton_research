@@ -1,0 +1,8 @@
+app/
+doc/resources/
+src/WebUIStats/
+web/
+.gitignore
+LICENSE
+README.md
+composer.json

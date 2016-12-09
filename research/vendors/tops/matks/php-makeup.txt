@@ -1,0 +1,13 @@
+build/logs/
+src/Matks/PHPMakeUp/
+tests/
+.atoum.php
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+php-make-up.php
+php-makeup

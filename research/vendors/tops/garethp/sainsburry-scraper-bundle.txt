@@ -1,0 +1,8 @@
+Command/
+Model/
+Tests/
+.gitignore
+GarethpSainsburryScraperBundle.php
+README.md
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,5 @@
+.gitattributes
+.gitignore
+MomentAsset.php
+README.md
+composer.json

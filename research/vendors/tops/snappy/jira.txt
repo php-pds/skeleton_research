@@ -1,0 +1,9 @@
+src/Snappy/Apps/Jira/
+tests/
+.gitignore
+.travis.yml
+composer.json
+jira.png
+phpunit.xml
+readme.md
+test.php

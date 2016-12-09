@@ -1,0 +1,10 @@
+.travis/
+config/
+docs/api/
+src/Sds/AuthenticationModule/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json

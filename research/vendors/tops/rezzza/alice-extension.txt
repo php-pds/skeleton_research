@@ -1,0 +1,11 @@
+Tests/Units/AliceExtension/
+app/
+features/
+src/Rezzza/AliceExtension/
+.atoum.bootstrap.php
+.atoum.php
+.gitignore
+.travis.yml
+README.md
+behat.yml
+composer.json

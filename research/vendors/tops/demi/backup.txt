@@ -1,0 +1,4 @@
+Component.php
+LICENSE
+README.md
+composer.json

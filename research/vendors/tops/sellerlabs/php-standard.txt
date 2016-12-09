@@ -1,0 +1,14 @@
+resources/
+src/SellerLabs/Standards/
+tests/SellerLabs/Standards/Console/
+.editorconfig
+.formatter.yml
+.gitignore
+.travis.yml
+LICENSE
+README.md
+build.php
+composer.json
+composer.lock
+phpstd
+phpunit.xml

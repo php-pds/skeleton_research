@@ -1,0 +1,10 @@
+config/
+src/AxalianAchievementsDoctrine/
+tests/
+.travis.yml
+LICENSE
+Module.php
+README.md
+autoload.php
+composer.json
+phpunit.xml.dist

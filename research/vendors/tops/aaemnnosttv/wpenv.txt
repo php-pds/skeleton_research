@@ -1,0 +1,9 @@
+src/
+tests/
+.gitattributes
+.gitignore
+.wpenv.example.yml
+README.md
+composer.json
+phpspec.yml
+wpenv.php

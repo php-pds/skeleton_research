@@ -1,0 +1,14 @@
+_prj/
+_rg/
+demo/
+doc/
+src/
+test/
+.gitattributes
+.gitignore
+composer.json
+myrg.bashrc
+readme.md
+rgdemo
+simple_setup.sh
+test.sh

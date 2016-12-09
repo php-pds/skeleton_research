@@ -1,0 +1,6 @@
+database/migrations/
+src/
+views/
+composer.json
+config.php
+routes.php

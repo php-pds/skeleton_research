@@ -1,0 +1,10 @@
+bin/
+development/php/
+src/
+.editorconfig
+.gitignore
+README.md
+composer.json
+composer.lock
+docker-compose.yml
+phpunit.xml.dist

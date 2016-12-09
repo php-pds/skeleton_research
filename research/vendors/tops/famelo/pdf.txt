@@ -1,0 +1,6 @@
+Classes/Famelo/PDF/
+Configuration/
+Resources/Private/PHP/pdfcrowd/
+.scrutinizer.yml
+README.md
+composer.json

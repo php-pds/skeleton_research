@@ -1,0 +1,12 @@
+nbproject/
+src/
+tests/
+tools/
+.coveralls.yml
+.gitignore
+.travis.yml
+README.md
+build.xml
+composer.json
+phpunit.xml.dist
+travis.php.ini

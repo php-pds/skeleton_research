@@ -1,0 +1,15 @@
+bin/
+build/
+src/Console/
+templates/
+tests/
+.codeclimate.yml
+.gitignore
+.travis.yml
+CHANGELOG.md
+README.md
+cli.php
+composer.json
+composer.lock
+pakefile
+phpunit.xml

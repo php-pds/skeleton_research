@@ -1,0 +1,9 @@
+lib/Csv/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpci.yml
+phpunit.xml.dist

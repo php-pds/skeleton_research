@@ -1,0 +1,12 @@
+Controller/
+DependencyInjection/
+Form/Core/
+Manager/
+Resources/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+SfynxCaptchaBundle.php
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,3 @@
+downloader/
+README.md
+composer.json

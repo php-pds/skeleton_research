@@ -1,0 +1,17 @@
+config/
+controller/
+event/
+language/
+migrations/
+notification/
+styles/prosilver/
+travis/
+wiki/
+.gitattributes
+.gitignore
+.travis.yml
+README.md
+composer.json
+ext.php
+license.txt
+version-check.json

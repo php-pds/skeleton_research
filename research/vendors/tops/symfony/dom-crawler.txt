@@ -1,0 +1,14 @@
+Field/
+Tests/
+.gitignore
+AbstractUriElement.php
+CHANGELOG.md
+Crawler.php
+Form.php
+FormFieldRegistry.php
+Image.php
+LICENSE
+Link.php
+README.md
+composer.json
+phpunit.xml.dist

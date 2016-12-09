@@ -1,0 +1,13 @@
+assets/
+bin/
+docs/
+src/
+templates/
+tests/
+.gitignore
+.travis.yml
+LICENSE.md
+README.md
+composer.json
+index.html
+phpunit.xml

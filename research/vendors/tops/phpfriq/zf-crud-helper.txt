@@ -1,0 +1,6 @@
+config/
+src/ZfCrudHelper/
+LICENSE
+Module.php
+autoload_classmap.php
+composer.json

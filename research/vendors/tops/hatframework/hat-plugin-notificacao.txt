@@ -1,0 +1,7 @@
+Config/
+js/
+notifycount/classes/
+.gitattributes
+.gitignore
+autoload.php
+composer.json

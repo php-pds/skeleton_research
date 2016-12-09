@@ -1,0 +1,8 @@
+bin/
+src/Couchbase/
+.gitignore
+LICENSE
+README.md
+box.json.dist
+composer.json
+config.ini

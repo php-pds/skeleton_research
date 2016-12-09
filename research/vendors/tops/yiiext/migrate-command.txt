@@ -1,0 +1,8 @@
+migrations/
+.gitignore
+EDbMigration.php
+EMigrateCommand.php
+changelog.md
+composer.json
+readme.md
+readme_ru.md

@@ -1,0 +1,15 @@
+assets/
+components/
+docs/
+extensions/
+helpers/
+libraries/
+migrations/
+modules/
+views/layouts/
+widgets/
+CHANGELOG.md
+LICENSE
+Module.php
+README.md
+composer.json

@@ -1,0 +1,8 @@
+.idea/
+docs/
+scss/
+src/
+CHANGELOG.md
+LICENSE
+README.md
+composer.json

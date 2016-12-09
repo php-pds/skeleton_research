@@ -1,0 +1,15 @@
+DependencyInjection/
+HttpKernel/
+Request/
+Resources/
+Templating/
+Tests/
+Translation/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+VanioWebBundle.php
+composer.json
+composer.lock
+phpunit.xml

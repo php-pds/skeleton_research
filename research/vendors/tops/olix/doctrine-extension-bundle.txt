@@ -1,0 +1,6 @@
+DependencyInjection/
+Resources/config/
+LICENSE
+OlixDoctrineExtensionBundle.php
+README.md
+composer.json

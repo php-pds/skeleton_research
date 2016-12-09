@@ -1,0 +1,9 @@
+DependencyInjection/
+Mapper/
+Model/
+Resources/
+Twig/
+IbrowsXeditableBundle.php
+LICENSE
+README.md
+composer.json

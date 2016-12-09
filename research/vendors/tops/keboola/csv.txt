@@ -1,0 +1,13 @@
+build/
+src/Keboola/Csv/
+tests/Keboola/Csv/
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+bootstrap.php
+build.xml
+composer.json
+phpunit-ci.xml.dist
+phpunit.xml.dist

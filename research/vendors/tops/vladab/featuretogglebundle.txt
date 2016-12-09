@@ -1,0 +1,14 @@
+DependencyInjection/
+Exception/
+Feature/
+Resources/
+Templating/Helper/
+Tests/
+Twig/
+vendor/
+.gitignore
+.travis.yml
+FeatureToggleBundle.php
+README.md
+composer.json
+phpunit.xml.dist

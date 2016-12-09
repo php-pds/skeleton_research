@@ -1,0 +1,6 @@
+add/
+doc/
+.gitignore
+composer.json
+include.php
+index.php

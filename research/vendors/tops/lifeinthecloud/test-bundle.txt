@@ -1,0 +1,6 @@
+Tests/
+.gitattributes
+.gitignore
+LITCTestBundle.php
+README.md
+composer.json

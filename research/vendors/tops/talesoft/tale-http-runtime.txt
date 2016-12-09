@@ -1,0 +1,12 @@
+Http/
+Test/Http/
+.gitattributes
+.gitignore
+.travis.yml
+LICENSE.md
+README.md
+composer.json
+phpcs.xml
+phpdoc.dist.xml
+phpunit.xml
+tasks

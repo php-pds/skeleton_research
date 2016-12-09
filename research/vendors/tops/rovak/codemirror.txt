@@ -1,0 +1,6 @@
+config/
+public/vendor/
+src/RovakCodeMirror/
+Module.php
+README.md
+composer.json

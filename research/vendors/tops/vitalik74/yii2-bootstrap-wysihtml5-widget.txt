@@ -1,0 +1,4 @@
+assets/
+README.md
+Widget.php
+composer.json

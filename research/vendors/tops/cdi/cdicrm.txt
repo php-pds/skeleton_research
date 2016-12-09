@@ -1,0 +1,8 @@
+config/
+nbproject/
+src/CdiCrm/
+view/cdi-ticket/qc/
+.gitignore
+Module.php
+README.md
+composer.json

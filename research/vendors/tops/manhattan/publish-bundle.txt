@@ -1,0 +1,12 @@
+DependencyInjection/
+Entity/
+EventListener/
+Form/Type/
+Resources/
+Tests/
+.gitignore
+LICENSE
+ManhattanPublishBundle.php
+README.md
+composer.json
+phpunit.xml.dist

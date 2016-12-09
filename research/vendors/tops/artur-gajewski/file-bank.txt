@@ -1,0 +1,8 @@
+config/
+data/
+src/FileBank/
+.gitignore
+Module.php
+README.md
+autoload_classmap.php
+composer.json

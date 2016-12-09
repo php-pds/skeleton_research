@@ -1,0 +1,13 @@
+examples/
+generator/
+src/XeroPHP/
+tests/
+.gitattributes
+.gitignore
+.php_cs
+.travis.yml
+LICENSE.md
+README.md
+changelog.md
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,12 @@
+scripts/
+src/
+tests/
+.gitignore
+.travis.yml
+CONTRIBUTING.md
+LICENCE.md
+README.md
+composer.json
+phpunit.xml
+scrutinizr.yml
+subsplit.sh

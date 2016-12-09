@@ -1,0 +1,8 @@
+Annotation/
+Component/
+DependencyInjection/
+Service/
+ElasticaEntityMappingBundle.php
+LICENSE
+README.md
+composer.json

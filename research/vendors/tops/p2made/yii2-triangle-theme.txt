@@ -1,0 +1,8 @@
+assets/
+demo-files/
+demo/
+views/
+widgets/
+LICENSE-MIT.md
+README.md
+composer.json

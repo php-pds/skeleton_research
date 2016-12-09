@@ -1,0 +1,7 @@
+nbproject/
+src/WordNumber/
+.gitignore
+LICENSE
+README.md
+composer.json
+example.php

@@ -1,0 +1,7 @@
+migrations/
+src/
+tests/
+.scrutinizer.yml
+README.md
+composer.json
+phpunit.xml

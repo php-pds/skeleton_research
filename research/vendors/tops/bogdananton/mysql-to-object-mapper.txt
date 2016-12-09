@@ -1,0 +1,13 @@
+app/
+bin/
+example/
+tests/
+.coveralls.yml
+.gitignore
+.travis.yml
+LICENSE
+README.md
+build.xml
+compile
+composer.json
+phpunit.xml

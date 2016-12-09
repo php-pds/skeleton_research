@@ -1,0 +1,6 @@
+DependencyInjection/
+Resources/config/
+.gitignore
+DoctrineManagerBundle.php
+README.md
+composer.json

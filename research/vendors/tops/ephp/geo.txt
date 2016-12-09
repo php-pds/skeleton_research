@@ -1,0 +1,11 @@
+Command/
+Controller/
+DependencyInjection/
+Entity/
+Model/Traits/
+Resources/
+Tests/Controller/
+Utility/
+.gitignore
+JFGeoBundle.php
+composer.json

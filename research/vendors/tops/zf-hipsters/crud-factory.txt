@@ -1,0 +1,8 @@
+config/
+src/CrudFactory/
+view/crud-factory/
+.DS_Store
+LICENSE
+Module.php
+README.md
+composer.json

@@ -1,0 +1,11 @@
+build/logs/
+src/Matks/Vivian/
+tests/
+.atoum.php
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock

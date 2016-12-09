@@ -1,0 +1,13 @@
+.settings/
+src/
+test/
+.buildpath
+.codeclimate.yml
+.coveralls.yml
+.gitignore
+.project
+.travis.yml
+LICENSE.md
+README.md
+composer.json
+phpunit.xml

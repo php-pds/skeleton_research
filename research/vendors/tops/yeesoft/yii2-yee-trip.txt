@@ -1,0 +1,8 @@
+controllers/
+i18n/
+migrations/
+models/
+views/default/
+LICENSE.md
+TripModule.php
+composer.json

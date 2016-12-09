@@ -1,0 +1,7 @@
+.phpcs/Barracuda/
+examples/
+.codeclimate.yml
+LICENSE
+README.md
+composer.json
+fork_daemon.php

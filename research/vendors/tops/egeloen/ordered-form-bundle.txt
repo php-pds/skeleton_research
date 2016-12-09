@@ -1,0 +1,16 @@
+DependencyInjection/
+Resources/config/
+Tests/
+.coveralls.yml
+.gitattributes
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CHANGELOG.md
+CONTRIBUTING.md
+IvoryOrderedFormBundle.php
+LICENSE
+README.md
+UPGRADE.md
+composer.json
+phpunit.xml.dist

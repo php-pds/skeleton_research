@@ -1,0 +1,8 @@
+examples/
+src/Matmar10/CampBX/
+tests/
+.gitignore
+README.md
+composer.json
+examples-config.json.template
+phpunit.xml.dist

@@ -1,0 +1,6 @@
+src/Omnipay/Econtext/
+tests/
+.gitignore
+LICENSE.txt
+README.md
+composer.json

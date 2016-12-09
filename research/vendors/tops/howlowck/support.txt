@@ -1,0 +1,6 @@
+src/Howlowck/Support/
+tests/
+.gitignore
+.travis.yml
+composer.json
+phpunit.xml

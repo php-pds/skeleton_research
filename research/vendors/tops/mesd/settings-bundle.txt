@@ -1,0 +1,10 @@
+Command/
+DependencyInjection/
+Entity/
+Model/
+Repository/
+Resources/
+.gitignore
+MesdSettingsBundle.php
+README.md
+composer.json

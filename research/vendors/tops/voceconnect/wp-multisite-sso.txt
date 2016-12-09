@@ -1,0 +1,12 @@
+admin/
+config/deploy/
+inc/
+.gitignore
+Capfile
+README.md
+composer.json
+readme.txt
+screenshot-1.png
+screenshot-2.png
+screenshot-3.png
+wp-multisite-sso.php

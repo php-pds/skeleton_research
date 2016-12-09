@@ -1,0 +1,12 @@
+css/
+elements/
+images/
+js/
+README.md
+composer.json
+default.php
+page_forbidden.php
+page_not_found.php
+page_theme.php
+thumbnail.png
+view.php

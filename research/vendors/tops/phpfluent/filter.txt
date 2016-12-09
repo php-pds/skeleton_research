@@ -1,0 +1,9 @@
+src/PHPFluent/Filter/
+tests/src/PHPFluent/
+.gitignore
+.travis.yml
+LICENSE
+Makefile
+README.md
+composer.json
+phpunit.xml

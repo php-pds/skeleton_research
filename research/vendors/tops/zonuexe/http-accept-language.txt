@@ -1,0 +1,13 @@
+build/
+src/
+tests/
+.editorconfig
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE.txt
+README.md
+Rakefile
+composer.json
+phpdox.xml.dist
+phpunit.xml.dist

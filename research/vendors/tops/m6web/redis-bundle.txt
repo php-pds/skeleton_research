@@ -1,0 +1,11 @@
+src/M6Web/Bundle/RedisBundle/
+.atoum.php
+.bootstrap.atoum.php
+.coke
+.gitignore
+.travis.yml
+CONTRIBUTING.md
+LICENSE
+README.md
+UPGRADING.md
+composer.json

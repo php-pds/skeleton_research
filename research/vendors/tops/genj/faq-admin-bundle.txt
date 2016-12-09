@@ -1,0 +1,4 @@
+src/Genj/FaqAdminBundle/
+LICENSE
+README.md
+composer.json

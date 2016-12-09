@@ -1,0 +1,11 @@
+config/
+src/
+test/
+.gitignore
+.php_cs
+.travis-config.ini
+.travis.yml
+Module.php
+README.md
+composer.json
+phpunit.xml

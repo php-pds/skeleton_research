@@ -1,0 +1,7 @@
+assets/
+LICENSE
+README.md
+UploadifyAction.php
+UploadifyAsset.php
+UploadifyWidget.php
+composer.json

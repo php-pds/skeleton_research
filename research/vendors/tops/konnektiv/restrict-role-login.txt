@@ -1,0 +1,7 @@
+assets/
+composer.json
+deploy-config.sh
+license.txt
+readme.md
+readme.txt
+restrict-role-login.php

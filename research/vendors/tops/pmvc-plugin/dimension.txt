@@ -1,0 +1,7 @@
+.gitignore
+.travis.yml
+README.md
+composer.json
+dimension.php
+phpunit.xml
+test.php

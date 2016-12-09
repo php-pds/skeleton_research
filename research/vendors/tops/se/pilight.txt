@@ -1,0 +1,10 @@
+examples/
+src/SE/Component/Pilight/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

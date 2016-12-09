@@ -1,0 +1,7 @@
+config/
+.gitignore
+CHANGELOG.md
+LICENSE
+README.md
+composer.json
+remove-woothemes-install-notice.php

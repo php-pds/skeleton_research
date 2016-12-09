@@ -1,0 +1,7 @@
+config/
+doc/
+src/
+test/
+LICENSE
+README.md
+composer.json

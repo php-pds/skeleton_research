@@ -1,0 +1,14 @@
+Tests/
+examples/
+src/
+.gitignore
+.travis.yml
+CHANGELOG.md
+CONTRIBUTING.md
+LICENSE.md
+README.md
+composer.json
+composer.lock
+generate-api.sh
+phpmimetype.png
+phpunit.xml

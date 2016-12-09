@@ -1,0 +1,10 @@
+Directives/
+Nodes/
+static/
+.gitignore
+.htaccess
+Kernel.php
+LICENSE
+README.md
+Slidey.php
+composer.json

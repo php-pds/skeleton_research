@@ -1,0 +1,12 @@
+DependencyInjection/
+Parser/
+Resources/config/
+Tests/
+.coveralls.yml
+.gitignore
+.travis.yml
+LICENSE
+README.md
+StingerSoftMediaParsingBundle.php
+composer.json
+phpunit.xml.dist

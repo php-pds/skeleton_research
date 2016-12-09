@@ -1,0 +1,6 @@
+config/
+src/EmailHtmlGenerator/Service/
+.gitignore
+Module.php
+README.md
+composer.json

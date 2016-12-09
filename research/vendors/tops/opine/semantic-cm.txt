@@ -1,0 +1,16 @@
+available/
+config/
+public/
+src/Manager/
+tests/
+tmp/
+var/cache/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+README.md
+bower.json
+composer.json
+manager-entry.js
+phpunit.xml
+yaml-2.php

@@ -1,0 +1,8 @@
+assets/
+classes/
+views/setui/
+.gitignore
+CHANGELOG.md
+LICENSE.md
+README.md
+composer.json

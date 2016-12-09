@@ -1,0 +1,15 @@
+assets/
+messages/
+migrations/
+views/
+.gitignore
+GalleryBehavior.php
+GalleryImage.php
+GalleryImageProxy.php
+GalleryManager.php
+GalleryManagerAction.php
+GalleryManagerAsset.php
+build.sh
+composer.json
+messageConfig.php
+readme.md

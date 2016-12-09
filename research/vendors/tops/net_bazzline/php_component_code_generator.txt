@@ -1,0 +1,13 @@
+document/
+example/
+migration/
+source/
+test/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+generate_api
+generate_api.php
+phpunit.xml.dist

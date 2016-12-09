@@ -1,0 +1,12 @@
+ant/
+classes/
+design/
+doc/
+modules/ezmultiupload/
+settings/
+translations/
+LICENSE
+README
+composer.json
+dist.sh
+extension.xml

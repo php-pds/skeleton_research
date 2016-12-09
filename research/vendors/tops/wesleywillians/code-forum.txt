@@ -1,0 +1,5 @@
+database/migrations/
+resources/views/forum/
+src/
+.gitignore
+composer.json

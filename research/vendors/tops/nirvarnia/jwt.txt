@@ -1,0 +1,12 @@
+src/
+tests/
+.gitignore
+CHANGELOG.md
+CONTRIBUTING.md
+LICENSE.txt
+README.md
+ROADMAP.md
+apigen.neon
+composer.json
+composer.lock
+phpunit.xml

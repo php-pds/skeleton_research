@@ -1,0 +1,8 @@
+src/be/kunstmaan/multichain/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+test.sh

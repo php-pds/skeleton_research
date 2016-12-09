@@ -1,0 +1,11 @@
+docs/
+src/fkooman/WebFinger/
+tests/fkooman/WebFinger/
+.gitignore
+.travis.yml
+CHANGES.md
+COPYING
+README.md
+composer.json
+finger.php
+phpunit.xml.dist

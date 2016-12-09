@@ -1,0 +1,10 @@
+Controller/
+DependencyInjection/
+Resources/
+Tests/Controller/
+.gitignore
+CampaignChainDocHtmlBundle.php
+LICENSE
+NOTICE
+README.md
+composer.json

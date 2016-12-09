@@ -1,0 +1,9 @@
+cache/
+extension/
+font/
+formats/
+lib/
+traits/
+QrCode.php
+README.md
+composer.json

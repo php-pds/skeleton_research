@@ -1,0 +1,6 @@
+docs/
+src/Bravo3/
+tests/Bravo3/
+README.md
+composer.json
+phpunit.xml.dist

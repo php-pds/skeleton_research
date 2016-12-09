@@ -1,0 +1,11 @@
+src/Buttress/IRC/
+tests/
+.gitignore
+LICENSE
+README.md
+circle.yml
+composer.json
+composer.lock
+example.php
+phpunit.php
+phpunit.xml

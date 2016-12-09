@@ -1,0 +1,4 @@
+.idea/
+License.txt
+README.md
+composer.json

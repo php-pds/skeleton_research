@@ -1,0 +1,15 @@
+Definition/
+Format/
+Tests/
+Type/
+.gitignore
+.travis.yml
+Definition.php
+Encoder.php
+Normalizer.php
+Resolver.php
+Serializer.php
+TypeSerializer.php
+composer.json
+composer.lock
+phpunit.xml.dist

@@ -1,0 +1,8 @@
+Contracts/
+Definitions/
+Error/
+Kernels/
+Application.php
+README.md
+composer.json
+functions.php

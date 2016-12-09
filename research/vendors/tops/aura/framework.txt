@@ -1,0 +1,12 @@
+cli/
+config/
+meta/
+scripts/
+src/Aura/Framework/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+src.php

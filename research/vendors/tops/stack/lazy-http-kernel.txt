@@ -1,0 +1,9 @@
+src/Stack/
+tests/unit/Stack/
+.gitignore
+CHANGELOG.md
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

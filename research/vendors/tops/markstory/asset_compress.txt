@@ -1,0 +1,14 @@
+config/
+src/
+tests/
+webroot/js/
+.gitattributes
+.gitignore
+.stickler.yml
+.travis.yml
+CHANGELOG.txt
+LICENSE
+README.mdown
+VERSION.txt
+composer.json
+phpunit.xml.dist

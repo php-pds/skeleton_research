@@ -1,0 +1,3 @@
+HarvestStrategy.php
+README.md
+composer.json

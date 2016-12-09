@@ -1,0 +1,6 @@
+src/Bazo/FeatureToggler/
+test/
+.gitignore
+LICENSE
+README.md
+composer.json

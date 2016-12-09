@@ -1,0 +1,9 @@
+src/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+UPGRADE.md
+codeception.yml
+composer.json

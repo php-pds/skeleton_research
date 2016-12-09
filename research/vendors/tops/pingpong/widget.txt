@@ -1,0 +1,7 @@
+.gitignore
+LICENSE
+README.md
+Widget.php
+WidgetFacade.php
+WidgetServiceProvider.php
+composer.json

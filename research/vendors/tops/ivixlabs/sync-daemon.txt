@@ -1,0 +1,4 @@
+src/SyncDaemon/
+LICENSE
+README.md
+composer.json

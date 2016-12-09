@@ -1,0 +1,12 @@
+build/logs/
+config/
+data/sql/
+src/Eye4web/SiteConfig/
+test/
+.codeclimate.yml
+.gitignore
+.travis.yml
+Module.php
+README.md
+composer.json
+phpunit.xml

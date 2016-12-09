@@ -1,0 +1,12 @@
+assets/
+classes/
+config/
+dca/
+elements/
+forms/
+languages/
+templates/
+CHANGELOG.md
+LICENSE
+README.md
+composer.json

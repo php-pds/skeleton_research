@@ -1,0 +1,6 @@
+src/JedenWeb/SessionStorage/
+tests/
+.gitignore
+composer.json
+license.md
+readme.md

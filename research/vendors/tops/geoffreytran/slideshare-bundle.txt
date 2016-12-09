@@ -1,0 +1,6 @@
+DependencyInjection/
+Resources/config/
+Tests/Controller/
+README.md
+ZymSlideShareBundle.php
+composer.json

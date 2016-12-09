@@ -1,0 +1,12 @@
+config/
+language/
+src/PlaygroundPartnership/
+tests/
+view/admin/adfab-partnership/
+.gitignore
+.travis.yml
+LICENSE
+Module.php
+README.md
+composer.json
+phpunit.xml.dist

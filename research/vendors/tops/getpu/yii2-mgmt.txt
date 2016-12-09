@@ -1,0 +1,6 @@
+controllers/
+models/
+views/module/
+LICENSE
+Module.php
+composer.json

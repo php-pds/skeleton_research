@@ -1,0 +1,8 @@
+assets/
+README.md
+block-options.php
+block.php
+composer.json
+icon-white.png
+icon.png
+slideshow.php

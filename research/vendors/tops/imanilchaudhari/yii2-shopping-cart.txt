@@ -1,0 +1,11 @@
+discounts/
+docs/
+.gitignore
+Cart.php
+CartPosition.php
+CartPositionBehaviour.php
+Discount.php
+LICENSE
+README.md
+changelog.txt
+composer.json

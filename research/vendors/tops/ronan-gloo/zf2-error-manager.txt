@@ -1,0 +1,9 @@
+config/
+public/
+src/ErrorManager/
+view/error/
+.gitignore
+Module.php
+composer.json
+phpunit.xml
+readme.md

@@ -1,0 +1,15 @@
+assets/images/
+facades/
+library/LouisArmstrong/
+reportwidgets/
+tests/facade/
+updates/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+Plugin.php
+README.md
+composer.json
+composer.lock
+phpunit.xml

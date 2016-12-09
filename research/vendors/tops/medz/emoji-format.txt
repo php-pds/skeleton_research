@@ -1,0 +1,6 @@
+tests/
+.gitattributes
+.gitignore
+EmojiFormat.php
+composer.json
+composer.lock

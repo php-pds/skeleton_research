@@ -1,0 +1,9 @@
+assets/
+languages/
+.editorconfig
+.gitignore
+LICENSE.md
+README.md
+composer.json
+enhanced-text-widget.php
+readme.txt

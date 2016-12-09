@@ -1,0 +1,12 @@
+resources/images/
+src/
+tests/
+.gitignore
+.scrutinizer.yml
+.styleci.yml
+.travis.yml
+CONTRIBUTING.md
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,6 @@
+includes/
+badgeos-profile-trigger.php
+composer.json
+license.txt
+readme.md
+readme.txt

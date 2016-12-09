@@ -1,0 +1,8 @@
+i18n/
+.gitignore
+ApiEmailUserHtml.php
+LICENSE
+README.md
+composer.json
+composer.lock
+extension.json

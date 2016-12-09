@@ -1,0 +1,7 @@
+controllers/
+helpers/
+models/
+widgets/cropimageupload/
+README.md
+Test.php
+composer.json

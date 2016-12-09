@@ -1,0 +1,14 @@
+config/
+data/
+src/UthandoNavigation/
+test/
+view/uthando-navigation/
+.codeclimate.yml
+.gitignore
+.travis.yml
+LICENSE
+Module.php
+README.md
+autoload_classmap.php
+composer.json
+template_map.php

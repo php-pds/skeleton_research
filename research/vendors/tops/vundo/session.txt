@@ -1,0 +1,4 @@
+Vundo/Session/
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,11 @@
+Configuration/
+Exception/
+Reader/
+Tests/
+.codeclimate.yml
+.gitignore
+.travis.yml
+README.md
+bootstrap.php
+composer.json
+phpunit.xml.dist

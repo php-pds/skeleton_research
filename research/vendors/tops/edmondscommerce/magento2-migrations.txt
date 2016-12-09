@@ -1,0 +1,10 @@
+Console/
+Contracts/
+Helper/
+Template/etc/
+Test/
+etc/
+.gitignore
+README.md
+composer.json
+registration.php

@@ -1,0 +1,5 @@
+Classes/Onedrop/SharePreview/Security/Authentication/
+Configuration/
+README.md
+TYPO3.Neos.diff
+composer.json

@@ -1,0 +1,3 @@
+src/ComposerClean/
+README.md
+composer.json

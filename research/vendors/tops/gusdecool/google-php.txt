@@ -1,0 +1,6 @@
+lib/GusDeCooL/GooglePhp/
+.gitignore
+README.md
+composer.json
+phpunit.xml
+web-test.php

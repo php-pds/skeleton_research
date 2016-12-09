@@ -1,0 +1,4 @@
+lib/MYOB/AccountRight/
+.gitignore
+README.md
+composer.json

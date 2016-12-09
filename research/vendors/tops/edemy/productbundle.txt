@@ -1,0 +1,13 @@
+Command/
+Controller/
+DataFixtures/
+DependencyInjection/
+Entity/
+Form/
+Resources/
+Tests/Controller/
+Twig/
+LICENSE
+README.md
+composer.json
+eDemyProductBundle.php

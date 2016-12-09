@@ -1,0 +1,14 @@
+docs/
+example/
+src/
+tests/
+.codeclimate.yml
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CHANGELOG.md
+LICENCE
+README.md
+composer.json
+composer.lock
+phpunit.xml

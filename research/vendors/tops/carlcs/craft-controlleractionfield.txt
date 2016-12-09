@@ -1,0 +1,7 @@
+fieldtypes/
+resources/fieldtypes/controlleraction/
+templates/fieldtypes/controlleraction/
+ControllerActionFieldPlugin.php
+composer.json
+readme.md
+releases.json

@@ -1,0 +1,13 @@
+.settings/
+Command/
+DependencyInjection/
+Entity/
+EventSubscriber/
+Helper/
+Repository/
+Resources/
+Serializer/Normalizer/
+.gitignore
+AppVentusDataMigrationBundle.php
+README.md
+composer.json

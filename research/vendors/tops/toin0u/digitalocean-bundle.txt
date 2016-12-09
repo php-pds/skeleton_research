@@ -1,0 +1,10 @@
+DependencyInjection/
+Resources/
+Tests/
+.gitignore
+.travis.yml
+CONTRIBUTING.md
+README.md
+Toin0uDigitalOceanBundle.php
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,7 @@
+Tests/
+src/Mindy/Mail/
+.gitignore
+composer.json
+phpunit.xml
+readme.md
+src.php

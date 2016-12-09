@@ -1,0 +1,14 @@
+bin/
+doc/config/
+src/Jackalope/
+tests/
+.gitignore
+.styleci.yml
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+UPGRADE.md
+cli-config.php.dist
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,11 @@
+css/
+examples/
+includes/
+js/
+less/
+nbproject/
+.gitignore
+LICENSE
+README.md
+composer.json
+control_registry.inc.php

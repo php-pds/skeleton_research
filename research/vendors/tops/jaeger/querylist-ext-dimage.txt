@@ -1,0 +1,3 @@
+DImage.php
+README.md
+composer.json

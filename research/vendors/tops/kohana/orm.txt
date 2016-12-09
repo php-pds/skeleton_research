@@ -1,0 +1,10 @@
+classes/
+config/
+guide/orm/
+.gitignore
+.travis.yml
+README.md
+auth-schema-mysql.sql
+auth-schema-postgresql.sql
+composer.json
+koharness.php

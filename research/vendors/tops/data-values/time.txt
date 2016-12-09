@@ -1,0 +1,11 @@
+src/
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+COPYING
+README.md
+Time.php
+composer.json
+phpcs.xml
+phpunit.xml.dist

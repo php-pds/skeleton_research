@@ -1,0 +1,8 @@
+config/
+src/JcBlog/
+test/
+view/
+Module.php
+README.md
+autoload_classmap.php
+composer.json

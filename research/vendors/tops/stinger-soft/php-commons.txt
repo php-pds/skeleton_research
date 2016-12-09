@@ -1,0 +1,10 @@
+Tests/StingerSoft/PhpCommons/
+src/StingerSoft/PhpCommons/
+.coveralls.yml
+.gitignore
+.project
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

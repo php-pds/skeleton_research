@@ -1,0 +1,9 @@
+application/
+assets/
+system/
+.gitignore
+LICENSE
+README.md
+composer.json
+index.php
+robots.txt

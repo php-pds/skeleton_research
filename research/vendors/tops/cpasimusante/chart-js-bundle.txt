@@ -1,0 +1,5 @@
+DependencyInjection/
+Resources/
+CPASimUSanteChartJsBundle.php
+VERSION.txt
+composer.json

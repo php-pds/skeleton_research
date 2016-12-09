@@ -1,0 +1,9 @@
+docs/
+lib/Treffynnon/
+tests/
+.gitignore
+.travis.yml
+LICENCE.rst
+README.rst
+composer.json
+phpunit.xml

@@ -1,0 +1,10 @@
+Bridge/S3/
+S3/
+Tests/
+CHANGELOG.md
+ExampleConfig.yaml
+LICENSE
+README.md
+S3.php
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,10 @@
+admin/
+includes/
+languages/
+public/
+LICENSE.txt
+README.txt
+composer.json
+index.php
+uninstall.php
+wa-external-header-v2.php

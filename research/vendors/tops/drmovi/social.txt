@@ -1,0 +1,3 @@
+src/Social/
+tests/
+composer.json

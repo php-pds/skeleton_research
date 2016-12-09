@@ -1,0 +1,8 @@
+code/
+images/
+templates/Layout/
+thirdparty/
+.gitignore
+README.md
+_config.php
+composer.json

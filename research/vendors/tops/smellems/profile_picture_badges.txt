@@ -1,0 +1,8 @@
+actions/avatar/
+graphics/
+languages/
+views/default/
+badge_map.php
+composer.json
+manifest.xml
+start.php

@@ -1,0 +1,11 @@
+DependencyInjection/
+Handler/
+Model/
+Resources/
+.gitignore
+CodeLoversAclBundle.php
+LICENSE
+Permissions.php
+README.md
+composer.json
+composer.lock

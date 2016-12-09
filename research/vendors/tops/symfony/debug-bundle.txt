@@ -1,0 +1,8 @@
+DependencyInjection/
+Resources/
+Tests/DependencyInjection/
+.gitignore
+DebugBundle.php
+LICENSE
+composer.json
+phpunit.xml.dist

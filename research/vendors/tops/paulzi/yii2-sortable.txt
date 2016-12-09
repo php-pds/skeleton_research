@@ -1,0 +1,11 @@
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+SortableBehavior.php
+SortableTrait.php
+composer.json
+composer.lock
+phpunit.xml.dist

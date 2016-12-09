@@ -1,0 +1,12 @@
+config/
+controller/
+exception/
+include/
+locales/
+model/
+scripts/
+test/
+views/
+README.md
+composer.json
+manifest.php

@@ -1,0 +1,5 @@
+tests/
+CONTRIBUTING.md
+README.md
+composer.json
+hm-backup.php

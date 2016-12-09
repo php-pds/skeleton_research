@@ -1,0 +1,15 @@
+Controller/
+DependencyInjection/
+Entity/
+Resources/
+Rollout/
+Storage/Doctrine/
+Tests/Rollout/
+Twig/Extension/
+.gitignore
+.travis.yml
+LICENSE
+OpensoftRolloutBundle.php
+README.md
+composer.json
+phpunit.xml.dist

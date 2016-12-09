@@ -1,0 +1,10 @@
+docs/
+src/
+.gitignore
+CHANGELOG.md
+LICENSE
+README.md
+Speedy.php
+composer.json
+composer.lock
+index.php

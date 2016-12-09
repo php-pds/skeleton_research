@@ -1,0 +1,8 @@
+src/Wookieb/TypeCheck/
+tests/Wookieb/TypeCheck/Tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml

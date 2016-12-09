@@ -1,0 +1,13 @@
+public/
+spec/Cornford/Googlmapper/
+src/
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE.txt
+README.md
+composer.json
+example.php
+phpspec.yml
+phpunit.xml

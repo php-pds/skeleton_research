@@ -1,0 +1,13 @@
+src/bitExpert/Disco/
+tests/
+.gitignore
+.travis.yml
+Changelog.md
+LICENSE
+README.md
+Upgrade.md
+build.xml
+composer.json
+composer.lock
+phpdoc.dist.xml
+phpunit.xml.dist

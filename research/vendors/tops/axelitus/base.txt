@@ -1,0 +1,17 @@
+doc/
+res/
+src/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+build.properties
+build.sh
+build.xml
+composer.json
+composer.phar
+phpunit.bootstrap.php
+phpunit.build.xml
+phpunit.local.xml
+phpunit.travis.xml

@@ -1,0 +1,11 @@
+tests/
+validators/
+.gitattributes
+.gitignore
+.travis.yml
+ActiveSearchEvent.php
+ActiveSearchModel.php
+LICENSE.md
+README.md
+composer.json
+phpunit.xml.dist

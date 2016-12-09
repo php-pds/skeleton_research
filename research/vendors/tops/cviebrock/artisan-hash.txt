@@ -1,0 +1,7 @@
+src/Cviebrock/ArtisanHash/
+CHANGELOG.md
+LICENSE
+README.md
+TODO.md
+composer.json
+phpunit.xml

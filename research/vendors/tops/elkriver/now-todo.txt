@@ -1,0 +1,7 @@
+.scrutinizer.yml
+App.php
+CHANGELOG.md
+CONTRIBUTING.md
+LICENSE
+README.md
+composer.json

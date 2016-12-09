@@ -1,0 +1,13 @@
+commons/
+resources/
+src/Commons/Phing/Task/
+.gitignore
+CHANGELOG.md
+LICENSE
+README.md
+VERSION
+build.properties
+build.xml
+composer.json
+composer.lock
+package.sh

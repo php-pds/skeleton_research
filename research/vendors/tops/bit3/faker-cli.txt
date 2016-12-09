@@ -1,0 +1,8 @@
+bin/
+src/Command/
+.gitignore
+LICENSE
+box.json.dist
+composer.json
+composer.lock
+readme.md

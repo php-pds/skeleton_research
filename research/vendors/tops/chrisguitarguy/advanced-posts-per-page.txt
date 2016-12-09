@@ -1,0 +1,6 @@
+inc/
+LICENSE
+advanced-posts-per-page.php
+composer.json
+readme.txt
+screenshot-1.png

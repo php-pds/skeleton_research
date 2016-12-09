@@ -1,0 +1,15 @@
+_protected/
+assets/
+themes/
+uploads/
+.bowerrc
+.gitignore
+.htaccess
+LICENSE
+README.md
+composer.json
+favicon.ico
+index-test.php
+index.php
+requirements.php
+robots.txt

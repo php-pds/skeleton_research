@@ -1,0 +1,9 @@
+excel_parser/
+tests/
+.config.json
+Docx.php
+Mht.php
+Xlsx.php
+composer.json
+get.php
+install.php

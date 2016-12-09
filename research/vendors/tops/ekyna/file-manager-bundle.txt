@@ -1,0 +1,15 @@
+Browser/
+Controller/
+DependencyInjection/
+Exception/
+Form/Type/
+Generator/
+Resources/
+System/
+Util/
+.gitattributes
+.gitignore
+EkynaFileManagerBundle.php
+LICENSE
+README.md
+composer.json

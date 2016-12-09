@@ -1,0 +1,9 @@
+src/
+.gitignore
+.rsyncIgnore
+.svnAccess.dist
+VERSION
+build.xml
+composer.json
+index.php
+readme.txt

@@ -1,0 +1,8 @@
+services/
+twigextensions/
+variables/
+.gitignore
+GlobPlugin.php
+composer.json
+readme.md
+releases.json

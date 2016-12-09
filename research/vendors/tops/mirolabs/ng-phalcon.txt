@@ -1,0 +1,12 @@
+Framework/
+Setup/
+Task/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json
+md.sh
+phpcs.sh
+phpunit.xml
+ruleset.xml

@@ -1,0 +1,17 @@
+assets/
+components/
+controllers/
+filters/
+i18n/data/
+less/
+messages/
+models/
+templates/
+views/
+web/
+widgets/
+CHANGELOG.md
+LICENSE.md
+Module.php
+README.md
+composer.json

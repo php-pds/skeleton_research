@@ -1,0 +1,12 @@
+Api/Data/
+Block/
+Controller/Adminhtml/Product/Initialization/
+Model/ProductLink/
+Setup/
+Ui/DataProvider/Product/Form/Modifier/
+etc/
+.gitignore
+LICENSE
+README.md
+composer.json
+registration.php

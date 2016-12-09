@@ -1,0 +1,10 @@
+src/EMT/
+tests/
+.gitignore
+.scruntizer.yml
+.travis.yml
+License
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

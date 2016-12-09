@@ -1,0 +1,10 @@
+config/
+doc/
+language/
+src/PlaygroundCMS/
+tests/
+view/
+.gitignore
+Module.php
+README.md
+composer.json

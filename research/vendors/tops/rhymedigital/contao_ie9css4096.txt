@@ -1,0 +1,5 @@
+config/
+library/Rhyme/Hooks/ModifyFrontendPage/
+LICENSE
+README.md
+composer.json

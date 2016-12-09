@@ -1,0 +1,14 @@
+bin/
+build/
+lib/
+testapp/
+.gitattributes
+.gitignore
+.travis.yml
+CHANGELOG.md
+CONTRIBUTING.md
+Makefile
+README.md
+TODO_RELEASE
+UPGRADE-TO-2.0.md
+composer.json

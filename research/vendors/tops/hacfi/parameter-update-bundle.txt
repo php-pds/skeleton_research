@@ -1,0 +1,8 @@
+Command/
+DependencyInjection/
+Resources/config/
+Service/
+LICENSE
+README.md
+composer.json
+hacfiParameterUpdateBundle.php

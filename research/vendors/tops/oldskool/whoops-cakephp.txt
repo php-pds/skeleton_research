@@ -1,0 +1,6 @@
+config/
+src/Error/
+.gitignore
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,13 @@
+DependencyInjection/
+Form/Type/
+Recaptcha/
+Resources/
+Tests/
+Validator/Constraints/
+.gitattributes
+.gitignore
+.travis.yml
+BeelabRecaptcha2Bundle.php
+README.md
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,5 @@
+assets/
+.gitignore
+HolderAssets.php
+README.md
+composer.json

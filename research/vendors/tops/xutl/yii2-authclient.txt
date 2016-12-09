@@ -1,0 +1,11 @@
+assets/
+widgets/
+.bowerrc
+.gitattributes
+.gitignore
+Douban.php
+Qq.php
+README.md
+Wechat.php
+Weibo.php
+composer.json

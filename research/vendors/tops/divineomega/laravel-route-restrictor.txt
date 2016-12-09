@@ -1,0 +1,6 @@
+src/Http/Middleware/
+.gitattributes
+.gitignore
+LICENSE
+README.md
+composer.json

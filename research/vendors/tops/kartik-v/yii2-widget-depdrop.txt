@@ -1,0 +1,9 @@
+assets/js/
+CHANGE.md
+DepDrop.php
+DepDropAction.php
+DepDropAsset.php
+DepDropExtAsset.php
+LICENSE.md
+README.md
+composer.json

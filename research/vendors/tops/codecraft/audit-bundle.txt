@@ -1,0 +1,14 @@
+DependencyInjection/
+Resources/config/
+Tests/
+.gitignore
+AuditBundle.php
+AuditEntity.php
+AuditEntityInterface.php
+AuditManager.php
+AuditableEntityInterface.php
+AuditableUserInterface.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

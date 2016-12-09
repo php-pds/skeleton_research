@@ -1,0 +1,10 @@
+doc/
+features/
+resources/
+src/Behat/CommonFormatters/
+.gitignore
+.travis.yml
+README.md
+build.php
+composer.json
+init.php

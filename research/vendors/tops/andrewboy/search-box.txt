@@ -1,0 +1,9 @@
+assets/js/
+resources/
+src/Andrewboy/SearchBox/
+.gitignore
+README.md
+bower.json
+composer.json
+gulpfile.js
+package.json

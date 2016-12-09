@@ -1,0 +1,7 @@
+db/
+lang/en/
+COPYING.txt
+README.md
+composer.json
+settings.php
+version.php

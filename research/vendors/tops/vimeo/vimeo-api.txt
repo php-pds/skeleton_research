@@ -1,0 +1,10 @@
+certificates/
+example/
+src/Vimeo/
+.gitattributes
+.gitignore
+CHANGELOG.md
+LICENSE
+README.md
+autoload.php
+composer.json

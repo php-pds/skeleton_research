@@ -1,0 +1,6 @@
+src/Zitec/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock

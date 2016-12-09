@@ -1,0 +1,5 @@
+src/Novanova/SocialHub/AppCenter/
+.gitignore
+LICENSE
+composer.json
+readme.md

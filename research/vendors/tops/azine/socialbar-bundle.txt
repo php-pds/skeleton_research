@@ -1,0 +1,11 @@
+DependencyInjection/
+Resources/
+Templating/
+Tests/
+.scrutinizer.yml
+.travis.yml
+AzineSocialBarBundle.php
+README.md
+composer.json
+phpunit.xml.dist
+travis.php.ini

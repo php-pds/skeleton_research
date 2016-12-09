@@ -1,0 +1,8 @@
+config/
+l10n/
+public/bootstrap/
+src/ride/web/
+view/
+.gitignore
+composer.json
+ride.json

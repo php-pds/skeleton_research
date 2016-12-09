@@ -1,0 +1,15 @@
+templates/
+.gitignore
+.php_cs
+LICENSE
+README.md
+add.php
+auto.js
+composer.json
+controller.php
+db.xml
+edit.php
+form.php
+icon.png
+view.css
+view.php

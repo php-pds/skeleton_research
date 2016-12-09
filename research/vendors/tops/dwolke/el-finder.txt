@@ -1,0 +1,10 @@
+data/
+public/
+src/ElFinder/
+.gitignore
+Changelog
+Jakefile.js
+Plugins.md
+README.md
+VolumeDrivers.md
+composer.json

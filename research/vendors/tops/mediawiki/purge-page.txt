@@ -1,0 +1,9 @@
+.gitignore
+COPYING.txt
+PageParseJob.php
+PurgePage.magic.php
+PurgePage.php
+README.md
+composer.json
+extension.json
+release-notes.md

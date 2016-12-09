@@ -1,0 +1,5 @@
+samples/
+src/Wow/I18N/
+LICENSE.MIT
+README.markdown
+composer.json

@@ -1,0 +1,5 @@
+lib/RedmineApi/
+.gitignore
+LICENSE
+README.md
+composer.json

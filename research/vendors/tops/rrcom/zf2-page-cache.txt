@@ -1,0 +1,7 @@
+config/
+src/
+.DS_Store
+LICENSE
+Module.php
+README.md
+composer.json

@@ -1,0 +1,6 @@
+components/
+controllers/
+views/default/
+.gitignore
+AdminModule.php
+composer.json

@@ -1,0 +1,6 @@
+config/
+src/Prototype/
+templates/
+.gitignore
+README.md
+composer.json

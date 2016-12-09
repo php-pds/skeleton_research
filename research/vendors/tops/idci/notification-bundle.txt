@@ -1,0 +1,16 @@
+Command/
+Controller/
+DependencyInjection/
+Entity/
+Event/
+Exception/
+Form/
+Manager/
+Notifier/
+Resources/
+Tests/
+Util/
+.gitignore
+IDCINotificationBundle.php
+README.md
+composer.json

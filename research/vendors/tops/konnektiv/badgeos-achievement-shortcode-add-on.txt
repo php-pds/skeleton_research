@@ -1,0 +1,7 @@
+js/
+badgeos-achievement-shortcode.php
+composer.json
+deploy-config.sh
+license.txt
+readme.md
+readme.txt

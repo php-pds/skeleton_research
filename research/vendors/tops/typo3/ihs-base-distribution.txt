@@ -1,0 +1,6 @@
+Configuration/
+Packages/
+.gitignore
+README.md
+composer.json
+composer.lock

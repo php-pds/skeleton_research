@@ -1,0 +1,3 @@
+LICENSE
+NotifyMeManager.php
+composer.json

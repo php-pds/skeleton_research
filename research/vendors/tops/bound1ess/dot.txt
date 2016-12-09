@@ -1,0 +1,10 @@
+docs/
+spec/Bound1ess/
+src/Bound1ess/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+phpspec.yml

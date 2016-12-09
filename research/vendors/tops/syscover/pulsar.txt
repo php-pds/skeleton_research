@@ -1,0 +1,7 @@
+public/
+src/
+.gitattributes
+.gitignore
+README.md
+composer.json
+sami_docs.php

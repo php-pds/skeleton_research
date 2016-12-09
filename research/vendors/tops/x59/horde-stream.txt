@@ -1,0 +1,6 @@
+doc/Horde/Stream/
+lib/Horde/
+test/Horde/Stream/
+.gitignore
+composer.json
+package.xml

@@ -1,0 +1,6 @@
+examples/
+.gitignore
+CsvBuilder.php
+CsvParser.php
+README.md
+composer.json

@@ -1,0 +1,7 @@
+src/Whitecap/Http/
+test/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,8 @@
+Granam/
+.codeclimate.yml
+.gitignore
+.travis.yml
+README.md
+composer.json
+contributors.txt
+phpunit.xml.dist

@@ -1,0 +1,15 @@
+assets/images/
+commands/
+controllers/
+models/
+seeds/
+tests/
+views/widgets/newsBoxList/
+widgets/
+.gitignore
+.travis.yml
+ServiceProvider.php
+composer.json
+module.json
+phpunit.xml
+routes.php

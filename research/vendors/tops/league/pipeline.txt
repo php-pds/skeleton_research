@@ -1,0 +1,15 @@
+spec/
+src/
+stub/
+.gitattributes
+.gitignore
+.php_cs
+.scrutinizer.yml
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+UPGRADE.md
+composer.json
+phpspec.no-coverage.yml
+phpspec.yml.dist

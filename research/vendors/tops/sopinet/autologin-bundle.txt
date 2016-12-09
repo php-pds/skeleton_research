@@ -1,0 +1,10 @@
+Controller/
+DependencyInjection/
+Resources/
+Service/
+Tests/Controller/
+Twig/
+.gitignore
+README.md
+SopinetAutologinBundle.php
+composer.json

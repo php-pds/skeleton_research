@@ -1,0 +1,7 @@
+blog/
+chat/
+forum/
+.gitignore
+LICENSE
+README.md
+composer.json

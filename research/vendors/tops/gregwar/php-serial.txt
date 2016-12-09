@@ -1,0 +1,4 @@
+examples/
+PhpSerial.php
+README.md
+composer.json

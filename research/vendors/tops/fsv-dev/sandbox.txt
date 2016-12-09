@@ -1,0 +1,12 @@
+app/
+bin/
+log/
+temp/
+tests/
+vendor/
+www/
+.gitignore
+README.md
+composer.json
+composer.lock
+deployment.ini

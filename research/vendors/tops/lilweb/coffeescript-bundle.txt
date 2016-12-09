@@ -1,0 +1,6 @@
+Assetic/Filter/
+DependencyInjection/
+Resources/config/
+LilwebCoffeescriptBundle.php
+README.md
+composer.json

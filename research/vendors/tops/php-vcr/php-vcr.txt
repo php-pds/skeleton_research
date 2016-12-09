@@ -1,0 +1,13 @@
+.github/
+docs/
+src/VCR/
+tests/
+.gitattributes
+.gitignore
+.php_cs
+.travis.yml
+LICENSE.md
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

@@ -1,0 +1,12 @@
+dist/
+php/
+resource/
+styles/
+.gitignore
+README.md
+bootstrap.php
+composer.json
+index.js
+map.json
+package.json
+webpack.config.js

@@ -1,0 +1,8 @@
+Controller/
+DependencyInjection/
+Entity/
+Resources/
+Tests/Controller/
+GarethpPhotosBundle.php
+README.md
+composer.json

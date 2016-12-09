@@ -1,0 +1,8 @@
+assets/langs/
+.gitignore
+LICENSE.txt
+README.md
+TinyMceAsset.php
+TinyMceCustomAsset.php
+TinyMceWidget.php
+composer.json

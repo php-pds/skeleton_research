@@ -1,0 +1,11 @@
+phpunit/tests/
+src/
+.coveralls.yml
+.gitattributes
+.gitignore
+.travis.yml
+LICENSE
+README.MD
+composer.json
+composer.lock
+phpunit.xml

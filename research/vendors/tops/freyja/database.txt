@@ -1,0 +1,12 @@
+Lib/
+Tests/
+.gitignore
+.travis.yml
+.travis_after_script.sh
+LICENSE
+README.md
+composer.json
+composer.lock
+phpdoc.dist.xml
+phpunit.xml.dist
+xsl.ini

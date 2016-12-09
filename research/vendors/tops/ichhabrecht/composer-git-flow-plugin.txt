@@ -1,0 +1,4 @@
+src/GitFlow/
+.gitignore
+README.md
+composer.json

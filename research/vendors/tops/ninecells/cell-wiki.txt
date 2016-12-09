@@ -1,0 +1,7 @@
+Http/
+Models/
+database/migrations/
+resources/views/wiki/
+.gitignore
+WikiServiceProvider.php
+composer.json

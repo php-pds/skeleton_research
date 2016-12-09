@@ -1,0 +1,6 @@
+Command/
+Config/
+ConfigDoc.php
+LICENSE.txt
+Readme.md
+composer.json

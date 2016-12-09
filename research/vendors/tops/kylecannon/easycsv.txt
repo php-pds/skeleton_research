@@ -1,0 +1,4 @@
+lib/EasyCSV/
+tests/EasyCSV/Tests/
+README.markdown
+composer.json

@@ -1,0 +1,10 @@
+lib/Imgur/
+test/
+.gitignore
+.travis.yml
+CHANGELOG.md
+README.md
+composer.json
+composer.lock
+phpunit.xml
+portkey.json

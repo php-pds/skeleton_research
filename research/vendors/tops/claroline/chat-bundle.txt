@@ -1,0 +1,12 @@
+Controller/
+Entity/
+Form/
+Listener/
+Manager/
+Migrations/pdo_mysql/
+Repository/
+Resources/
+ClarolineChatBundle.php
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,14 @@
+Configuration/
+Facade/
+Resources/docs/
+Tests/
+.travis.yml
+AbstractDriver.php
+Error.php
+Ftp.php
+LICENSE
+Local.php
+README.md
+Sftp.php
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,8 @@
+.gitattributes
+.gitignore
+CHANGELOG
+LICENSE
+README.md
+bower.json
+composer.json
+oauth-validator.php

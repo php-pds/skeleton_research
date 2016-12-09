@@ -1,0 +1,13 @@
+Client/
+DependencyInjection/
+Exception/
+Plugin/
+Resources/
+Tests/
+.gitignore
+.travis.yml
+KptivePaymentSipsBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

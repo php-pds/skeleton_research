@@ -1,0 +1,4 @@
+src/Mindy/Table/
+.gitignore
+composer.json
+readme.md

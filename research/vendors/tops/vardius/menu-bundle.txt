@@ -1,0 +1,11 @@
+DependencyInjection/
+Event/
+Manager/
+Menu/
+Resources/
+Twig/
+.gitignore
+LICENSE
+README.md
+VardiusMenuBundle.php
+composer.json

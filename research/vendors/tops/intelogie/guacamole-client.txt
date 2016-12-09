@@ -1,0 +1,13 @@
+doc/guacamole-example/
+extensions/
+guacamole-common-js/
+guacamole-common/
+guacamole-ext/
+guacamole/
+.gitignore
+CONTRIBUTING
+LICENSE
+README
+composer.json
+pom.xml
+project-assembly.xml

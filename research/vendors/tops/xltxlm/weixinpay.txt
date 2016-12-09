@@ -1,0 +1,5 @@
+src/SDK/
+tests/
+.gitignore
+LICENSE
+composer.json

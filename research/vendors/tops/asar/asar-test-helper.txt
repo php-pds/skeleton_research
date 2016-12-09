@@ -1,0 +1,7 @@
+src/Asar/TestHelper/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

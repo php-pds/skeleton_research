@@ -1,0 +1,14 @@
+assets/
+includes/
+resources/
+woocommerce/global/
+.bowerrc
+.gitignore
+bower.json
+composer.json
+functions.php
+gulpfile.js
+license.txt
+package.json
+screenshot.png
+style.css

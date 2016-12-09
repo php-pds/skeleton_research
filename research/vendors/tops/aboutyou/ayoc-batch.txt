@@ -1,0 +1,6 @@
+examples/csv/
+src/Ayoc/Batch/
+.gitignore
+LICENSE.txt
+README.md
+composer.json

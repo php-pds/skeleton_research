@@ -1,0 +1,8 @@
+Controller/
+Entity/
+Resources/
+Security/Core/User/
+Tests/Controller/
+README.md
+SopinetUserBundle.php
+composer.json

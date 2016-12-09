@@ -1,0 +1,8 @@
+lib/SeerUK/Pimcore/DependencyInjection/
+.editorconfig
+.gitignore
+LICENSE
+README.md
+composer.json
+container.dist.php
+plugin.xml

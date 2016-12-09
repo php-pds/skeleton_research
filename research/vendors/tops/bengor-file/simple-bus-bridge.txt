@@ -1,0 +1,10 @@
+spec/BenGorFile/SimpleBusBridge/
+src/BenGorFile/SimpleBusBridge/
+.editorconfig
+.gitignore
+.php_cs
+.phpspec_cs
+.travis.yml
+LICENSE
+README.md
+composer.json

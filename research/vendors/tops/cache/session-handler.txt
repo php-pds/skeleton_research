@@ -1,0 +1,10 @@
+.github/
+Tests/
+.gitignore
+.travis.yml
+Changelog.md
+LICENSE
+Psr6SessionHandler.php
+README.md
+composer.json
+phpunit.xml.dist

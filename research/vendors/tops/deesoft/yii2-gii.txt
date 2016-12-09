@@ -1,0 +1,12 @@
+application/
+libraries/
+tests/
+.gitignore
+Bootstrap.php
+LICENSE
+README.md
+composer.json
+composer.lock
+init.bat
+phpunit.xml.dist
+yii.bat

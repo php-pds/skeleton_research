@@ -1,0 +1,17 @@
+dist/
+src/
+tests/
+.editorconfig
+.eslintignore
+.eslintrc
+.gitattributes
+.gitignore
+LICENSE
+README.md
+composer.json
+gulpfile.babel.js
+package.json
+phpcs.xml
+phpunit.xml.dist
+plugin.php
+webpack.config.js

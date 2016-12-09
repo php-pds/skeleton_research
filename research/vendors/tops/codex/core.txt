@@ -1,0 +1,17 @@
+config/
+docs/
+resources/
+src/
+tests/
+.bowerrc
+.editorconfig
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE.md
+README.md
+_code_completion.php
+bower.json
+build.xml
+composer.json
+phpunit.xml

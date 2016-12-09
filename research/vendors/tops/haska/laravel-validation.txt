@@ -1,0 +1,9 @@
+spec/Haska/Validation/
+src/Haska/Validation/
+.gitignore
+.travis.yml
+cd98d706-fdb0-469d-ae21-95eb0eaaa3c8.dmp
+composer.json
+phpspec.yml
+phpunit.xml
+readme.md

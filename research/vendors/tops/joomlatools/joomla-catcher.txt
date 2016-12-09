@@ -1,0 +1,9 @@
+packages/
+scripts/build/
+.gitignore
+CHANGELOG.md
+CONTRIBUTING.md
+README.md
+composer.json
+install.script.php
+pkg_catcher.xml

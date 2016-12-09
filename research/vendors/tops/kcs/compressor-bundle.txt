@@ -1,0 +1,5 @@
+src/Kcs/CompressorBundle/
+.gitignore
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,13 @@
+docs/
+src/
+tests/
+.gitattributes
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+RoboFile.php
+appveyor.yml
+composer.json
+couscous.yml

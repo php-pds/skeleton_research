@@ -1,0 +1,7 @@
+.idea/
+.gitignore
+AssetBundle.php
+LICENSE
+README.md
+composer.json
+composer.lock

@@ -1,0 +1,10 @@
+app/
+assets/
+runtime/
+shapapp/
+.gitignore
+.htaccess
+composer-dev.json
+composer.json
+index.php
+shap.sublime-project

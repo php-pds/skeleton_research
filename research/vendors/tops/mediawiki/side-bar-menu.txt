@@ -1,0 +1,14 @@
+css/
+i18n/
+js/
+src/
+test/
+.gitignore
+.gitreview
+.jshintrc
+LICENSE
+README
+SideBarMenu.i18n.php
+SideBarMenu.php
+SideBarMenu.settings.php
+composer.json

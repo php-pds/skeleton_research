@@ -1,0 +1,4 @@
+majesticseo_external_rpc/
+.gitignore
+README.md
+composer.json

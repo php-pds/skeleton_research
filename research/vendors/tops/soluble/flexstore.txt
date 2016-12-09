@@ -1,0 +1,17 @@
+src/Soluble/FlexStore/
+test/
+.apigen.yml
+.editorconfig
+.gitattributes
+.gitignore
+.php_cs
+.scrutinizer.yml
+.travis.yml
+CHANGELOG.md
+CONTRIBUTING.md
+LICENSE
+README.md
+composer.json
+mkdocs.yml
+phpcs.xml
+phpunit.xml.dist

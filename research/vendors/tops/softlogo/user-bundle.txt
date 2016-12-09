@@ -1,0 +1,8 @@
+Controller/
+DependencyInjection/
+Resources/
+Tests/Controller/
+LICENSE
+README.md
+SoftlogoUserBundle.php
+composer.json

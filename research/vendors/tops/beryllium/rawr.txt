@@ -1,0 +1,8 @@
+tests/
+.gitignore
+LICENSE
+README.md
+Rawr.php
+composer.json
+composer.lock
+phpunit.xml.dist

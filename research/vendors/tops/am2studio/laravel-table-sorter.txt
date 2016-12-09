@@ -1,0 +1,6 @@
+src/AM2Studio/Laravel/TableSorter/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock

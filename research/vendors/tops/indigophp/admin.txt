@@ -1,0 +1,12 @@
+classes/
+config/
+views/
+.editorconfig
+.gitignore
+CHANGELOG.md
+CONTRIBUTING.md
+LICENSE
+README.md
+TODO.md
+bootstrap.php
+composer.json

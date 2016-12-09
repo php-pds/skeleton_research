@@ -1,0 +1,17 @@
+Console/
+Controllers/
+Models/
+Widgets/
+messages/
+migrations/
+tests/
+views/admin/
+.gitignore
+.travis.yml
+Bootstrap.php
+CONTRIBUTING.md
+LICENSE.md
+Module.php
+README.md
+codeception.yml
+composer.json

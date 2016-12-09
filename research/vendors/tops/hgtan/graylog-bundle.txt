@@ -1,0 +1,12 @@
+Controller/
+DependencyInjection/
+Resources/
+Tests/Controller/
+.gitattributes
+.scrutinizer.yml
+.travis.yml
+HgtanHelloGraylogBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

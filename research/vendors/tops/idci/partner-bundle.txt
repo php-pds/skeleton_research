@@ -1,0 +1,11 @@
+Controller/
+DependencyInjection/
+Entity/
+Form/
+Repository/
+Resources/
+Util/
+.gitignore
+IDCIPartnerBundle.php
+README.md
+composer.json

@@ -1,0 +1,14 @@
+Config/
+Controller/
+Hook/
+I18n/frontOffice/default/
+templates/frontOffice/default/
+.gitignore
+Gruntfile.js
+HookToolbar.php
+LICENSE.txt
+Readme.md
+bower.json
+composer.json
+package.json
+preview.png

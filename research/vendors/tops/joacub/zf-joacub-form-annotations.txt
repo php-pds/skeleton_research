@@ -1,0 +1,8 @@
+config/
+src/MnsFormAnnotation/
+view/Mns-Form-Annotation/Index/
+.gitignore
+Module.php
+README.md
+composer.json
+template_map.php

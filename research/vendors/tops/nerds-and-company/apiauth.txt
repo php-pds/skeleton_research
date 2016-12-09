@@ -1,0 +1,13 @@
+controllers/
+models/
+records/
+services/
+tests/
+translations/
+.scrutinizer.yml
+.travis.yml
+ApiAuthPlugin.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

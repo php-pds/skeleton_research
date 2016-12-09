@@ -1,0 +1,10 @@
+dist/
+src/
+tests/TestCase/
+.codeclimate.yml
+.editorconfig
+.gitignore
+.travis.yml
+Makefile
+README.md
+composer.json

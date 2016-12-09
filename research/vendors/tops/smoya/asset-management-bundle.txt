@@ -1,0 +1,12 @@
+DependencyInjection/
+Resources/
+Templating/Helper/
+Tests/
+Twig/Extension/
+vendor/
+.gitignore
+.travis.yml
+README.md
+SmoyaAssetManagementBundle.php
+composer.json
+phpunit.xml.dist

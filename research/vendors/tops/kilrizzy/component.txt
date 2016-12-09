@@ -1,0 +1,4 @@
+src/Kilrizzy/Component/
+.gitignore
+README.md
+composer.json

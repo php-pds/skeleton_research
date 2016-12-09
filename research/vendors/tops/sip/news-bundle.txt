@@ -1,0 +1,9 @@
+Admin/
+Controller/
+DependencyInjection/
+Document/
+Entity/
+Resources/
+README.md
+SIPNewsBundle.php
+composer.json

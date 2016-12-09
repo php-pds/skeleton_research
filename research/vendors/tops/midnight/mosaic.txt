@@ -1,0 +1,3 @@
+lib/Midnight/Mosaic/
+.gitignore
+composer.json

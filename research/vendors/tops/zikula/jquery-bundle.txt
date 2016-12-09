@@ -1,0 +1,4 @@
+Zikula/Bundle/JQueryBundle/
+LICENSE
+README.md
+composer.json

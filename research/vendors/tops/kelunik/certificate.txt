@@ -1,0 +1,11 @@
+lib/
+test/
+.gitattributes
+.gitignore
+.php_cs
+.travis.yml
+CONTRIBUTING.md
+LICENSE
+README.md
+composer.json
+phpunit.xml

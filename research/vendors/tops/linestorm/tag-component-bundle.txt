@@ -1,0 +1,5 @@
+docs/
+src/LineStorm/TagComponentBundle/
+.bower.json
+README.md
+composer.json

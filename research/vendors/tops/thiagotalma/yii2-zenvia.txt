@@ -1,0 +1,6 @@
+clientApi/
+ApiComponent.php
+LICENSE
+README.md
+ZenviaModule.php
+composer.json

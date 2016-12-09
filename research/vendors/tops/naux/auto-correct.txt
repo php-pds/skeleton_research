@@ -1,0 +1,5 @@
+AutoCorrect.php
+README.md
+composer.json
+dicts.php
+example.php

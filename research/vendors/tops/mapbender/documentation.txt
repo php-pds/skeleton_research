@@ -1,0 +1,16 @@
+_exts @ 7196620
+_static/
+_theme/mapbender3/
+de/
+en/
+figures/
+output/
+.gitignore
+.gitmodules
+Makefile
+README.md
+composer.json
+conf.py
+generate.sh
+index.rst
+tox.ini

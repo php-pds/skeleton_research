@@ -1,0 +1,6 @@
+config/
+src/Bitcoin/
+Module.php
+README.md
+autoload_classmap.php
+composer.json

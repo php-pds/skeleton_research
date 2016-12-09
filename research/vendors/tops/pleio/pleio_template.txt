@@ -1,0 +1,17 @@
+build/
+classes/Pleio/
+pages/
+src/
+views/default/page/
+.babelrc
+.gitignore
+.jshintignore
+.jshintrc
+README.md
+composer.json
+featuredimage.php
+manifest.xml
+package.json
+start.php
+webpack.config.js
+webpack.prod.config.js

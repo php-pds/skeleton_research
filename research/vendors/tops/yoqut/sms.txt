@@ -1,0 +1,11 @@
+Factory/
+Gateway/
+Model/
+Sender/
+spec/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpspec.yml

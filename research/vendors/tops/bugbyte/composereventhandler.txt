@@ -1,0 +1,3 @@
+lib/tinymce_lang_pack/
+src/BugbyteComposer/
+composer.json

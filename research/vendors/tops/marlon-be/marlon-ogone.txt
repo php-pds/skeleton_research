@@ -1,0 +1,11 @@
+documentation/
+lib/Ogone/
+tests/Ogone/Tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.markdown
+build.xml
+composer.json
+phpunit.xml.dist

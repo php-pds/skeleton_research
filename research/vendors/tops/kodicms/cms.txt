@@ -1,0 +1,16 @@
+cms/
+layouts/
+public/
+snippets/
+vendor/kodicms/
+.gitattributes
+.gitignore
+.gitmodules
+.htaccess
+Gulpfile.js
+README.md
+composer.json
+composer.lock
+index.php
+minion
+package.json

@@ -1,0 +1,4 @@
+core/
+.gitignore
+LICENSE
+composer.json

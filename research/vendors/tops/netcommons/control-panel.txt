@@ -1,0 +1,10 @@
+Controller/
+Locale/
+Test/
+View/
+webroot/css/
+.gitattributes
+.travis.yml
+README.md
+composer.json
+phpunit.xml.dist

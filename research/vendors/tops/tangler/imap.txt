@@ -1,0 +1,4 @@
+example/
+src/Tangler/Module/Imap/
+.gitignore
+composer.json

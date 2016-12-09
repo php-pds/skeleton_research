@@ -1,0 +1,6 @@
+src/PHPMongoGraph/
+vendor/
+.gitignore
+composer.json
+index.php
+readme.md

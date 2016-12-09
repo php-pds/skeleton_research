@@ -1,0 +1,10 @@
+public/
+src/ComposerProxy/Server/
+tests/
+.gitignore
+.travis.yml
+README.md
+composer.json
+config.php.dist
+license.txt
+phpunit.xml.dist

@@ -1,0 +1,5 @@
+lib/PHPCR/Util/NodeType/Serializer/
+tests/
+README.md
+composer.json
+phpunit.xml.dist

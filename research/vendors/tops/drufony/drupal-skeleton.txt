@@ -1,0 +1,5 @@
+bin/
+docroot/
+.gitignore
+README.md
+composer.json

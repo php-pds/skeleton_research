@@ -1,0 +1,6 @@
+bin/
+data/
+.gitignore
+LICENSE
+README.md
+composer.json

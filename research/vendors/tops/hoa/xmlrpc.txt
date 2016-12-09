@@ -1,0 +1,7 @@
+Exception/
+Message/
+.State
+.gitignore
+CHANGELOG.md
+Client.php
+composer.json

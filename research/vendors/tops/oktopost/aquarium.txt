@@ -1,0 +1,10 @@
+js/
+src/Aquarium/
+tests-sanity/Aquarium/Resources/
+tests/
+.gitignore
+LICENSE.txt
+README.md
+composer.json
+composer.lock
+deploy.ignore.map

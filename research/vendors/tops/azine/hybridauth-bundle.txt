@@ -1,0 +1,14 @@
+Controller/
+DependencyInjection/
+Entity/
+Resources/
+Services/
+Tests/
+.scrutinizer.yml
+.travis.yml
+AzineHybridAuthBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist
+travis.php.ini

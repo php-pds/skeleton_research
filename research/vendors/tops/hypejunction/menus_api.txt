@@ -1,0 +1,14 @@
+screenshots/
+views/default/navigation/menu/
+.gitattributes
+.gitignore
+CHANGELOG.md
+Gemfile
+Gruntfile.js
+README.md
+autoloader.php
+composer.json
+manifest.xml
+package.json
+release.md
+start.php

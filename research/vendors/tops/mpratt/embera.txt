@@ -1,0 +1,12 @@
+Lib/Embera/
+Tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+PROVIDERS.md
+README.md
+composer.json
+phpdoc.xml
+phpunit.full-urls.xml
+phpunit.xml

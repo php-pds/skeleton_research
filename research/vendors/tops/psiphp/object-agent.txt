@@ -1,0 +1,12 @@
+bridge/
+ci/travis/
+docs/
+lib/
+tests/
+.gitignore
+.styleci.yml
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

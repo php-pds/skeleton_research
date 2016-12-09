@@ -1,0 +1,14 @@
+docs/
+src/Clickalicious/Rng/
+tests/
+.editorconfig
+.gitattributes
+.gitignore
+.scrutinizer.yml
+.travis.yml
+Demo.php
+LICENSE
+README.md
+Visual.php
+composer.json
+update-gh-pages.sh

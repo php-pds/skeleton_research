@@ -1,0 +1,7 @@
+Build/
+Classes/Ttree/ContentInsight/
+Configuration/
+Tests/Unit/
+.travis.yml
+README.md
+composer.json

@@ -1,0 +1,10 @@
+src/PathFinder/
+tests/PathFinder/
+.gitignore
+.rmt.yml
+CHANGELOG
+LICENSE.txt
+README.md
+composer.json
+phpunit.xml
+phpunit_bootstrap.php

@@ -1,0 +1,11 @@
+Configuration/
+Packages/
+Web/
+.editorconfig
+.gitignore
+.nvmrc
+.travis.yaml
+README.md
+beach-cron-hourly.sh
+composer.json
+composer.lock

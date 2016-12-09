@@ -1,0 +1,14 @@
+src/
+tests/
+.gitignore
+.travis.yml
+CHANGES.md
+LICENSE
+PERFORMANCE.md
+README.md
+benchmark-context.php
+benchmark-plural.php
+benchmark.php
+codecov.yml
+composer.json
+phpunit.xml

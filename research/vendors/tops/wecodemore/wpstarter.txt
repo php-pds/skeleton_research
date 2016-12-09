@@ -1,0 +1,8 @@
+docs/
+wpstarter/
+.gitattributes
+.gitignore
+CHANGELOG.md
+LICENSE
+README.md
+composer.json

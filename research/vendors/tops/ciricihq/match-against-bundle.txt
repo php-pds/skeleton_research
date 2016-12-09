@@ -1,0 +1,11 @@
+Command/
+DependencyInjection/
+Entity/
+Extension/Doctrine/Query/
+Model/
+Resources/
+Tests/
+CiriciMatchAgainstBundle.php
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,8 @@
+src/Redpanda/Silex/Provider/
+tests/Redpanda/Silex/Tests/Provider/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

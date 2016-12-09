@@ -1,0 +1,10 @@
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+Container.php
+ContainerInterface.php
+LICENSE
+README.md
+composer.json
+phpunit.xml

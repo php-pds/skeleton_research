@@ -1,0 +1,11 @@
+Tests/
+.gitignore
+.travis.yml
+AutowiringException.php
+AutowiringPass.php
+ExpandServiceValuesPass.php
+GuessClassPass.php
+JanMarekAutowiringBundle.php
+README.md
+composer.json
+phpunit.xml

@@ -1,0 +1,10 @@
+src/
+.gitignore
+.php_cs.php
+LICENSE
+README.md
+VERSION
+composer.json
+composer.lock
+example-cloud.php
+example-self-hosted.php

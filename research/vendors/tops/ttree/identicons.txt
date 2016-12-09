@@ -1,0 +1,6 @@
+Classes/
+Configuration/
+Documentation/Sample/
+Migrations/Mysql/
+README.rst
+composer.json

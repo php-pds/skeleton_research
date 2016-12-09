@@ -1,0 +1,4 @@
+src/Echo511/LeanMapper/
+tests/
+.gitignore
+composer.json

@@ -1,0 +1,8 @@
+Bdd/
+Content/
+Converter/
+.gitignore
+Cp.php
+LICENSE
+composer.json
+constants.php.dist

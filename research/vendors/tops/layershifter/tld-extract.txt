@@ -1,0 +1,16 @@
+src/
+tests/
+travis/
+.codeclimate.yml
+.editorconfig
+.gitattributes
+.gitignore
+.styleci.yml
+.travis.yml
+CHANGELOG.md
+CONDUCT.md
+CONTRIBUTING.md
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

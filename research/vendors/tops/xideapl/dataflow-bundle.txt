@@ -1,0 +1,12 @@
+DependencyInjection/
+Doctrine/ORM/
+Resources/
+Tests/
+.gitignore
+Configuration.php
+Dataflow.php
+LICENSE
+README.md
+XideaDataflowBundle.php
+composer.json
+phpunit.xml.dist

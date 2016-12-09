@@ -1,0 +1,14 @@
+demo/
+scripts/
+tests.src/
+tests/
+vendor/
+.gitignore
+HISTORY.md
+LICENSE.md
+README.md
+bower.json
+buildr-uncompressed.coffee
+buildr.coffee
+composer.json
+package.json

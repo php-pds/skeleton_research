@@ -1,0 +1,8 @@
+src/GizzlePlugins/
+tests/
+.gitignore
+LICENSE.txt
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

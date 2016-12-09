@@ -1,0 +1,10 @@
+class/
+data/
+examples/
+fonts/
+palettes/
+GPLv3.txt
+change.log
+composer.json
+index.php
+readme.txt

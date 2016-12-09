@@ -1,0 +1,5 @@
+Classes/Domain/Model/
+LICENSE
+README.md
+composer.json
+max

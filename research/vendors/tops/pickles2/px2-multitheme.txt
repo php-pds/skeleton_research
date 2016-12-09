@@ -1,0 +1,14 @@
+caches/
+common/
+px-files/
+sample_pages/
+tests/
+.gitignore
+.htaccess
+.px_execute.php
+.travis.yml
+README.md
+appveyor.yml
+composer.json
+index.html.md
+phpunit.xml

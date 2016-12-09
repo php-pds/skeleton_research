@@ -1,0 +1,15 @@
+bin/
+docs/
+src/Idephix/
+tests/
+.gitattributes
+.gitignore
+.php_cs
+.travis.yml
+CONTRIBUTING.md
+README.md
+box.json
+composer.json
+composer.lock
+id_rsa_idephix_doc.enc
+idxfile.php

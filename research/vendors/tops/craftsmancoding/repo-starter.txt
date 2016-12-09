@@ -1,0 +1,9 @@
+assets/
+docs/
+elements/
+lexicon/en/
+model/seeds/
+.gitignore
+LICENSE
+README.md
+composer.json

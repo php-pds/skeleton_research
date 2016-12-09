@@ -1,0 +1,9 @@
+Controller/Component/Auth/
+Test/
+View/Helper/
+.gitignore
+LICENSE.txt
+README.md
+VERSION
+composer.json
+composer.lock

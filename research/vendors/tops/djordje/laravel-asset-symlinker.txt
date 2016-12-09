@@ -1,0 +1,4 @@
+src/Djordje/LaravelAssetSymlinker/
+.gitignore
+README.md
+composer.json

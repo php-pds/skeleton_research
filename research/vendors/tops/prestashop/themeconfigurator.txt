@@ -1,0 +1,15 @@
+controllers/admin/
+css/
+img/
+js/
+sass/
+upgrade/
+views/
+CHANGELOG.txt
+Readme.md
+composer.json
+config.xml
+index.php
+logo.gif
+logo.png
+themeconfigurator.php

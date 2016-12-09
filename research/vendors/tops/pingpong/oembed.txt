@@ -1,0 +1,10 @@
+.gitignore
+.travis.yml
+Embed.php
+LICENSE
+Oembed.php
+OembedFacade.php
+OembedServiceProvider.php
+README.md
+composer.json
+phpunit.xml

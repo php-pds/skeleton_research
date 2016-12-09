@@ -1,0 +1,13 @@
+Controller/
+DependencyInjection/
+Doctrine/EntityManager/
+Form/
+Resources/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CHANGELOG.md
+README.md
+TadckaRoutingBundle.php
+composer.json
+phpunit.xml.dist

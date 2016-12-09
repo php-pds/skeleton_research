@@ -1,0 +1,7 @@
+lib/
+samples/
+tests/
+.travis.yml
+LICENSE
+README
+composer.json

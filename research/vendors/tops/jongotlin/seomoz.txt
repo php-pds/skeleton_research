@@ -1,0 +1,7 @@
+src/SeoMoz/
+tests/
+vendor/classloader/Symfony/Component/ClassLoader/
+.gitignore
+README.md
+composer.json
+phpunit.xml.dist

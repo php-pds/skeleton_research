@@ -1,0 +1,11 @@
+assets/
+behaviors/
+controllers/
+migrations/
+models/
+views/client/
+web/images/
+Bootstrap.php
+Module.php
+composer.json
+module-config.json

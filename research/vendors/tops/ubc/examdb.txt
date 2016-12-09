@@ -1,0 +1,15 @@
+.openshift/
+app/
+docs/
+puppet/
+src/
+web/
+.gitignore
+.htaccess
+.travis.yml
+LICENSE
+README.md
+Vagrantfile
+build.xml
+composer.json
+composer.lock

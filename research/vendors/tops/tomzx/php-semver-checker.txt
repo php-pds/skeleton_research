@@ -1,0 +1,16 @@
+bin/
+docs/
+scripts/
+src/PHPSemVerChecker/
+tests/
+.gitattributes
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+box.json
+composer.json
+php-semver-checker-git.yml.dist
+phpunit.xml.dist

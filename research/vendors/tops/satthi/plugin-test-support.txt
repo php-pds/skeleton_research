@@ -1,0 +1,4 @@
+tests/TestCase/
+.gitignore
+README.md
+composer.json

@@ -1,0 +1,13 @@
+docs/
+example/
+src/Jig/
+test/
+tmp/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+dynamicReturnTypeMeta.json

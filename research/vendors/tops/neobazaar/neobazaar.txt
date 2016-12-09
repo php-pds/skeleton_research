@@ -1,0 +1,15 @@
+config/
+src/Neobazaar/
+tests/
+view/
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENSE
+Module.php
+README.md
+build.xml
+composer.json
+composer.lock
+phpunit.xml.dist
+us.stackdump

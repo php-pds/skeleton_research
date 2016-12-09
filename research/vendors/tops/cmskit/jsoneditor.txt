@@ -1,0 +1,14 @@
+asset/jsonlint/
+docs/
+examples/
+img/
+misc/
+src/
+LICENSE
+NOTICE
+composer.json
+jsoneditor.css
+jsoneditor.js
+jsoneditor.min.css
+jsoneditor.min.js
+readme.md

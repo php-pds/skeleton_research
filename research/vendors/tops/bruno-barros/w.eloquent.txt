@@ -1,0 +1,15 @@
+app/
+src/
+.env.example.php
+.gitattributes
+.gitignore
+LICENSE
+README.md
+composer.json
+gulpfile.js
+index.php
+package.json
+robots.txt
+wel
+wp-cli.yml
+wp-config.php

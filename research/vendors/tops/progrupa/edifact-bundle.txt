@@ -1,0 +1,6 @@
+DependencyInjection/
+Resources/config/
+.gitignore
+ProgrupaEdifactBundle.php
+README.md
+composer.json

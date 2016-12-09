@@ -1,0 +1,8 @@
+src/Altax/Contrib/Server/Command/
+tests/
+.gitignore
+.travis.yml
+README.md
+composer.json
+phpunit-ci.xml.dist
+phpunit.xml.dist

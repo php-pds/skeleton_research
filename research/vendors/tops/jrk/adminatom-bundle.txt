@@ -1,0 +1,12 @@
+Controller/
+DependencyInjection/
+Helper/
+Listener/
+Manager/
+Resources/config/
+Twig/Extension/
+UploaderAdapters/
+.gitignore
+JrkAdminAtomBundle.php
+README.md
+composer.json

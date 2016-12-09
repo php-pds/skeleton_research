@@ -1,0 +1,7 @@
+assets/
+Affix.php
+AffixAsset.php
+CHANGE.md
+LICENSE.md
+README.md
+composer.json

@@ -1,0 +1,9 @@
+src/webignition/WebResource/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

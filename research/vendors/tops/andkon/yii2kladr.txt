@@ -1,0 +1,8 @@
+assets/
+.gitignore
+Kladr.php
+KladrApi.php
+Object.php
+Query.php
+README.md
+composer.json

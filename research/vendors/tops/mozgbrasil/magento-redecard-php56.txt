@@ -1,0 +1,9 @@
+app/
+js/mozg_redecard/
+shell/
+skin/
+LICENSE
+README.md
+README_Dev.md
+composer.json
+modman

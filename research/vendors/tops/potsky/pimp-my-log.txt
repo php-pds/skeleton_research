@@ -1,0 +1,15 @@
+cfg/
+css/
+fonts/
+img/
+inc/
+js/
+lang/
+.gitignore
+README.md
+composer.json
+humans.txt
+index.php
+licence.txt
+robots.txt
+version.js

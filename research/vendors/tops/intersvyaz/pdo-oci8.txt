@@ -1,0 +1,9 @@
+tests/
+.gitignore
+LICENSE
+Oci8.php
+Oci8Exception.php
+Oci8Statement.php
+composer.json
+phpunit.xml
+readme.md

@@ -1,0 +1,3 @@
+README.md
+composer.json
+wp-large-options.php

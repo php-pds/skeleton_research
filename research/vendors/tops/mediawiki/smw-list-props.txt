@@ -1,0 +1,7 @@
+i18n/
+README.md
+SMWListProps.classes.php
+SMWListProps.i18n.magic.php
+SMWListProps.i18n.php
+SMWListProps.php
+composer.json

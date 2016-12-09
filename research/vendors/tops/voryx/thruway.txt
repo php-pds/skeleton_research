@@ -1,0 +1,10 @@
+Examples/
+doc/api/
+src/Thruway/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml

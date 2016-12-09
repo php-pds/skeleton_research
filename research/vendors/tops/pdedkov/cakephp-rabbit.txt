@@ -1,0 +1,10 @@
+Config/
+Console/Command/
+Dummy/
+Test/Case/
+Base.php
+Consumer.php
+Exception.php
+Priority.php
+Producer.php
+composer.json

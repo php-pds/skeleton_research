@@ -1,0 +1,5 @@
+src/Zoddo/PhpbbExtensionInstaller/
+.gitignore
+LICENSE
+README.md
+composer.json

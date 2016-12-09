@@ -1,0 +1,9 @@
+src/fkooman/Rest/Plugin/Authentication/IndieAuth/
+tests/fkooman/Rest/Plugin/Authentication/IndieAuth/
+.gitignore
+.travis.yml
+CHANGES.md
+COPYING
+README.md
+composer.json
+phpunit.xml.dist

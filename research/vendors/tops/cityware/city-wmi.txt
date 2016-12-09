@@ -1,0 +1,7 @@
+nbproject/
+src/
+.gitattributes
+.gitignore
+LICENSE
+composer.json
+sh.exe.stackdump

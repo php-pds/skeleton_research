@@ -1,0 +1,17 @@
+bin/
+components/
+config/
+resources/
+src/Gloubster/
+tests/
+views/
+www/
+.gitignore
+.gitmodules
+.travis.yml
+README.md
+component.json
+composer.json
+composer.lock
+init.sh
+phpunit.xml.dist

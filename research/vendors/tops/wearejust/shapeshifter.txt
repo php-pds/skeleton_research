@@ -1,0 +1,15 @@
+public/
+resources/
+src/
+.gitattributes
+.gitignore
+.php_cs
+CHANGELOG.md
+CONTRIBUTORS.md
+LICENCE
+composer.json
+composer.lock
+grumphp.yml
+gulpfile.js
+package.json
+readme.md

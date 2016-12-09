@@ -1,0 +1,6 @@
+doc/Horde/Stream/Filter/
+lib/Horde/Stream/Filter/
+test/Horde/Stream/Filter/
+.gitignore
+composer.json
+package.xml

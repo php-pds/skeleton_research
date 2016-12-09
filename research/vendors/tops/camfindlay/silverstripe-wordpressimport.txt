@@ -1,0 +1,14 @@
+_config/
+code/
+templates/
+tests/
+.DS_Store
+.editorconfig
+.gitattributes
+.scrutinizer.yml
+.travis.yml
+README.md
+_config.php
+code-of-conduct.md
+composer.json
+license.md

@@ -1,0 +1,10 @@
+bin/
+i18n/
+src/PHPWarrior/
+templates/
+towers/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,15 @@
+benchmarks/SellerLabs/Nucleus/
+docs/
+src/SellerLabs/Nucleus/
+tests/SellerLabs/Nucleus/
+.editorconfig
+.formatter.yml
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+composer.json
+generate-api.sh
+phpbench.json
+phpunit.xml

@@ -1,0 +1,7 @@
+doc/
+icons/
+js/
+src/
+.gitignore
+composer.json
+readme.md

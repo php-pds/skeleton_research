@@ -1,0 +1,7 @@
+doc/
+composer.json
+include.php
+index.php
+jquery.minicolors.png
+minicolors.css
+readme.md

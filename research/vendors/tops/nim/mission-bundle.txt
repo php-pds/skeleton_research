@@ -1,0 +1,12 @@
+DependencyInjection/
+Form/Type/
+Model/
+Resources/
+spec/NIM/MissionBundle/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CHANGELOG.md
+NIMMissionBundle.php
+README.md
+composer.json

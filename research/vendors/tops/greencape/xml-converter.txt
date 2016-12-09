@@ -1,0 +1,11 @@
+build/
+src/GreenCape/XML/
+tests/
+.gitattributes
+.gitignore
+.travis.yml
+LICENSE.md
+README.md
+build.xml
+composer.json
+composer.lock

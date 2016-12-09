@@ -1,0 +1,15 @@
+deploy/
+scripts/
+src/themes/
+.gitignore
+.htaccess.dist
+Capfile
+Gemfile
+Gemfile.lock
+LICENSE
+README.md
+composer.json
+robots.txt.dist
+router.php
+wp-config-custom-sample.php
+wp-config.php

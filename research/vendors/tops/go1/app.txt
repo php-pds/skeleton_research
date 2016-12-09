@@ -1,0 +1,12 @@
+domain/
+providers/
+public/
+resources/examples/
+tests/
+.travis.yml
+App.php
+README.md
+composer.json
+composer.lock
+config.default.php
+phpunit.xml.dist

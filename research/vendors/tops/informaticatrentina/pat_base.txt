@@ -1,0 +1,11 @@
+autoloads/
+classes/
+design/
+eventtypes/event/
+modules/ptn/
+notification/handler/itnewsletter/
+settings/
+translations/ita-IT/
+README.md
+composer.json
+extension.xml

@@ -1,0 +1,11 @@
+assets/
+src/
+tests/
+travis/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist
+vegas.json

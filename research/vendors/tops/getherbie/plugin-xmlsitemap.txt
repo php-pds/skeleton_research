@@ -1,0 +1,5 @@
+pages/
+LICENCE.md
+README.md
+composer.json
+xmlsitemap.php

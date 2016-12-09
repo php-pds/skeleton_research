@@ -1,0 +1,9 @@
+bin/
+data/
+src/Dandomain/Api/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

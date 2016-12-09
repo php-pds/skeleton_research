@@ -1,0 +1,10 @@
+classes/
+config/
+guide/codebench/
+media/guide/codebench/
+views/
+.gitignore
+.travis.yml
+composer.json
+init.php
+koharness.php

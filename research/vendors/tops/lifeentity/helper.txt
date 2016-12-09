@@ -1,0 +1,6 @@
+src/Lifeentity/Helper/
+tests/
+.gitignore
+.travis.yml
+composer.json
+phpunit.xml

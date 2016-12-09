@@ -1,0 +1,6 @@
+spec/
+src/
+README.md
+composer.json
+composer.lock
+phpspec.yml

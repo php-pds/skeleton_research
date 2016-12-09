@@ -1,0 +1,3 @@
+src/Psecio/SessionEncrypt/
+README.md
+composer.json

@@ -1,0 +1,10 @@
+src/Negotiation/
+tests/
+.gitignore
+.travis.yml
+CONTRIBUTING.md
+LICENSE
+README.md
+appveyor.yml
+composer.json
+phpunit.xml.dist

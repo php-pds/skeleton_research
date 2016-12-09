@@ -1,0 +1,8 @@
+assets/js/
+.editorconfig
+.gitignore
+LICENSE-MIT
+README.md
+bootstrap.php
+class-papi-property-color.php
+composer.json

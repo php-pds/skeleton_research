@@ -1,0 +1,15 @@
+docs/
+lib/
+tests/
+.gitattributes
+.gitignore
+.travis.yml
+README.md
+bootstrap.php
+composer.json
+dependencies.md
+phpunit.coverage.xml
+phpunit.travis.xml
+phpunit.xml.dist
+rmt.json
+testplate.sublime-project

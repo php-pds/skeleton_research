@@ -1,0 +1,12 @@
+examples/
+src/
+tests/
+.codeclimate.yml
+.scrutinizer.yml
+.travis.yml
+LICENSE
+Makefile
+README.md
+circle.yml
+composer.json
+phpunit.xml

@@ -1,0 +1,14 @@
+Configuration/
+Controller/
+DependencyInjection/
+Event/
+Exception/
+Resources/
+Response/
+Security/
+.gitignore
+DCSOpauthBundle.php
+DCSOpauthEvents.php
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,11 @@
+Controller/
+Entity/
+Form/Type/
+Menu/
+Resources/
+.gitignore
+CampaignChainSecurityAuthenticationServerOAuthBundle.php
+LICENSE
+README.md
+campaignchain.yml
+composer.json

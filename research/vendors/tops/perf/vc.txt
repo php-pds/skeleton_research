@@ -1,0 +1,9 @@
+lib/perf/Vc/
+test/unit/
+.gitignore
+LICENSE.txt
+README.md
+build.jenkins.xml
+build.xml
+composer.json
+phpunit.xml

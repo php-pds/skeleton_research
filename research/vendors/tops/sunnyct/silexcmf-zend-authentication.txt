@@ -1,0 +1,8 @@
+Adapter/
+EventListener/
+.gitignore
+LICENSE
+README.md
+ZendAuthenticationServiceProvider.php
+composer.json
+phpunit.xml

@@ -1,0 +1,7 @@
+docs/
+public/
+src/
+.gitignore
+README.md
+composer.json
+gulpfile.js

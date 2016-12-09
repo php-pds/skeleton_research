@@ -1,0 +1,11 @@
+bin/
+functional/developer/can/run/
+funk/
+spec/Funk/
+src/Funk/
+.gitignore
+.travis.yml
+README.md
+composer.json
+funk.png
+funk.yml.dist

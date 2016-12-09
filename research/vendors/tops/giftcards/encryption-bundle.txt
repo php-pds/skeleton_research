@@ -1,0 +1,12 @@
+CipherText/Rotator/Factory/
+DependencyInjection/
+Resources/config/
+Tests/
+.gitignore
+.travis.yml
+GiftcardsEncryptionBundle.php
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

@@ -1,0 +1,14 @@
+bin/
+examples/
+src/NaturalWeb/FileStorage/
+tests/NaturalWebTest/
+.coveralls.yml
+.gitattributes
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml
+phpunit.xml.dist
+unit

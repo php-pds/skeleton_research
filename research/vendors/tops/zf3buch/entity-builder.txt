@@ -1,0 +1,10 @@
+bin/
+config/
+data/classes/
+src/
+views/
+.gitignore
+LICENSE.md
+README.md
+ZEND-LICENSE.md
+composer.json

@@ -1,0 +1,12 @@
+src/Amazon/
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+README.md
+asins.php
+cli.php
+composer.json
+composer.lock
+phpunit.xml
+wishlist.php

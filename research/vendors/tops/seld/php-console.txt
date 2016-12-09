@@ -1,0 +1,15 @@
+ace/
+clippy/
+krumo/
+lib/
+.gitignore
+LICENSE
+Makefile
+README.mdown
+composer.json
+config.php.dist
+index.php
+jquery-1.9.1.min.js
+loader.gif
+php-console.js
+styles.css

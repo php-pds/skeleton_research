@@ -1,0 +1,10 @@
+src/
+test/
+.gitattributes
+.gitignore
+LICENSE.txt
+README.md
+apigen.neon
+classes.png
+composer.json
+composer.lock

@@ -1,0 +1,6 @@
+languages/
+LICENSE
+composer.json
+opgoogleanalytics.php
+options.php
+readme.txt

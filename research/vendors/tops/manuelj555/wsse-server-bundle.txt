@@ -1,0 +1,13 @@
+Annotation/
+Application/
+Controller/
+DependencyInjection/
+Entity/
+EventListener/
+Repository/
+Resources/config/
+Security/
+ServiceDefinition/Loader/
+README.md
+WsseServerBundle.php
+composer.json

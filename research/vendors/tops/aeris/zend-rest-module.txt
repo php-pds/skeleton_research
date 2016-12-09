@@ -1,0 +1,10 @@
+src/
+test/
+.gitignore
+CHANGELOG.md
+README.md
+annotations
+composer.json
+composer.lock
+composer.phar
+phpunit.phar

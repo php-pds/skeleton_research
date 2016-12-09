@@ -1,0 +1,9 @@
+config/
+setup/
+themes/midcom-bootstrap/
+tools/
+var/
+web/
+.gitignore
+README.md
+composer.json

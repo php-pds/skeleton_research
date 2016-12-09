@@ -1,0 +1,5 @@
+src/js/
+.gitignore
+README.md
+composer.json
+modman

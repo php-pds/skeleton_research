@@ -1,0 +1,5 @@
+behaviors/
+controllers/
+helpers/
+models/
+views/auth/

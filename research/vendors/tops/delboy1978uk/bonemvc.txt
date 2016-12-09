@@ -1,0 +1,11 @@
+config/
+data/
+public/
+src/App/
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+README.md
+codeception.yml
+composer.json

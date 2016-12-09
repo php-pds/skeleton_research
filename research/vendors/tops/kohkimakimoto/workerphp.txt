@@ -1,0 +1,11 @@
+src/Kohkimakimoto/Worker/
+tests/
+.gitignore
+.snippets
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit-ci.xml
+phpunit.xml

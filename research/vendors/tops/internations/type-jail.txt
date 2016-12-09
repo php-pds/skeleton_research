@@ -1,0 +1,10 @@
+src/InterNations/
+tests/InterNations/
+.gitignore
+.travis.yml
+README.md
+build.xml
+composer.json
+composer.phar
+humbug.json
+phpunit.xml.dist

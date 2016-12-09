@@ -1,0 +1,5 @@
+examples/fixtures/
+src/CRTransition/
+tests/
+README.md
+composer.json

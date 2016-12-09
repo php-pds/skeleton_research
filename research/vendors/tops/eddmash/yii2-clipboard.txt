@@ -1,0 +1,7 @@
+src/
+.gitignore
+.php_cs
+.styleci.yml
+README.md
+composer.json
+phpdoc.dist.xml

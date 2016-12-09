@@ -1,0 +1,15 @@
+.idea/
+app/
+doc/
+src/
+vendor/
+web/
+.gitignore
+.htaccess
+LICENSE
+README.md
+composer.json
+composer.lock
+config.php
+console
+index.php

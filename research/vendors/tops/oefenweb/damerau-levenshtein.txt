@@ -1,0 +1,12 @@
+.travis/
+src/
+tests/
+.coveralls.yml
+.editorconfig
+.gitattributes
+.gitignore
+.semver
+.travis.yml
+README.md
+composer.json
+phpunit.xml

@@ -1,0 +1,7 @@
+config/
+src/Operacional/Controller/
+view/Operacional/index/
+.gitignore
+Module.php
+autoload_classmap.php
+composer.json

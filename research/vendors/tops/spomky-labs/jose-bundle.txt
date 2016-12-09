@@ -1,0 +1,17 @@
+Command/
+Controller/
+DependencyInjection/
+Features/
+Helper/
+Resources/
+Routing/
+Service/
+Tests/
+.gitattributes
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+SpomkyLabsJoseBundle.php
+behat.yml
+composer.json

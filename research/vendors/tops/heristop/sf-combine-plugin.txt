@@ -1,0 +1,7 @@
+config/
+lib/
+modules/sfCombine/
+LICENSE
+README
+composer.json
+package.xml

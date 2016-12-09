@@ -1,0 +1,10 @@
+Controller/
+Converter/
+DependencyInjection/
+EventListener/
+Resources/
+Transformer/
+LICENSE
+NewscoopPublishingPlatformsPluginBundle.php
+README.md
+composer.json

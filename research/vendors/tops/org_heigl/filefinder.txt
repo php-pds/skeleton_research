@@ -1,0 +1,15 @@
+doc/
+docs/
+src/Org_Heigl/FileFinder/
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.install.sh
+.travis.yml
+CONTRIBUTE.md
+LICENSE
+README.md
+composer.json
+mkdocs.yml
+phpunit.travis.xml
+phpunit.xml.dist

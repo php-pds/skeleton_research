@@ -1,0 +1,8 @@
+src/Knlv/Zf2/Validator/
+test/
+.gitignore
+.php_cs
+.travis.yml
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,7 @@
+lib/
+web/
+.gitignore
+LICENSE
+LICENSE.JSCookMenu
+README.md
+composer.json

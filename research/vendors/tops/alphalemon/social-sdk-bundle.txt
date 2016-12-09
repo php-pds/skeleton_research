@@ -1,0 +1,9 @@
+Core/
+DependencyInjection/
+Resources/
+Tests/Controller/
+LICENSE
+README.md
+SocialSDKBundle.php
+autoload.json
+composer.json

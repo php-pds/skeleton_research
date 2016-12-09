@@ -1,0 +1,8 @@
+DependencyInjection/
+Entity/
+Model/
+Resources/
+Tests/Controller/
+Twig/Extension/
+WiakoweBreadcrumbBundle.php
+composer.json

@@ -1,0 +1,6 @@
+src/Beesperester/Resource/
+tests/
+.gitignore
+README.md
+composer.json
+docker-compose.yml

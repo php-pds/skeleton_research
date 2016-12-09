@@ -1,0 +1,6 @@
+src/QuanticTelecom/MoloquentSupport/
+tests/
+.gitignore
+.travis.yml
+composer.json
+phpunit.xml

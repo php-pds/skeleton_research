@@ -1,0 +1,16 @@
+tests/
+.gitattributes
+.gitignore
+.travis.yml
+CHANGELOG.md
+Evil.php
+Globals.php
+LICENSE
+README.md
+Superglobals.php
+composer.json
+cs.sh
+index.php
+phpmd.sh
+phpmd.xml.dist
+phpunit.xml.dist

@@ -1,0 +1,4 @@
+src/Coderockr/SOA/
+.gitignore
+README.md
+composer.json

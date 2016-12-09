@@ -1,0 +1,8 @@
+src/
+tests/
+.editorconfig
+.semver
+LICENSE
+README.md
+VERSION
+composer.json

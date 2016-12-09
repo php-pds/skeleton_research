@@ -1,0 +1,10 @@
+.web_package/
+Tests/
+vendor/
+.gitignore
+LICENSE
+README.md
+TwigSyntax.php
+composer.json
+composer.lock
+phpunit.xml

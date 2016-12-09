@@ -1,0 +1,8 @@
+lib/WatchFiles/
+tests/
+.gitignore
+.travis.yml
+README.md
+compile.sh
+composer.json
+phpunit.xml

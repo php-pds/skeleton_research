@@ -1,0 +1,17 @@
+composer/bin/
+samples/
+src/
+tests/
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+build.xml
+composer.json
+composer.lock
+package.xml
+phpab.bat
+phpab.php
+phpcs.xml
+phpunit.xml.dist

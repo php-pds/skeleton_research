@@ -1,0 +1,6 @@
+contao/config/
+src/Teamsisu/Greyify/
+.gitignore
+LICENSE
+README.md
+composer.json

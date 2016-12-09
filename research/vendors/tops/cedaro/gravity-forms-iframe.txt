@@ -1,0 +1,13 @@
+assets/scripts/
+classes/
+includes/
+languages/
+templates/
+.editorconfig
+.gitignore
+.jshintrc
+README.md
+composer.json
+gravity-forms-iframe.php
+package.json
+screenshot-1.png

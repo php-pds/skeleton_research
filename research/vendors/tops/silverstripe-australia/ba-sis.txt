@@ -1,0 +1,12 @@
+_config/
+code/
+css/
+images/icons/sitetree_images/
+javascript/
+templates/
+.editorconfig
+.travis.yml
+LICENSE
+README.md
+_config.php
+composer.json

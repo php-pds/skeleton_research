@@ -1,0 +1,5 @@
+config/
+public/assets/nivo-slider/
+.gitignore
+README.md
+composer.json

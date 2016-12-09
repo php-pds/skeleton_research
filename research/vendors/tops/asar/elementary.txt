@@ -1,0 +1,9 @@
+src/Elementary/
+tests/
+.gitignore
+.travis.yml
+Guardfile
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

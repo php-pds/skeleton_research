@@ -1,0 +1,7 @@
+src/LaravelExtendedErrors/
+.gitignore
+LICENSE
+Readme.md
+composer.json
+composer.lock
+screenshot.png

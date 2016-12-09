@@ -1,0 +1,6 @@
+src/Joseki/Application/
+.gitattributes
+.gitignore
+LICENSE.md
+README.md
+composer.json

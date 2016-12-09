@@ -1,0 +1,8 @@
+src/
+tests/
+.coveralls.yml
+.gitignore
+.travis.yml
+README.md
+composer.json
+phpunit.xml

@@ -1,0 +1,14 @@
+config/
+src/
+tests/
+.editorconfig
+.gitignore
+.semver
+.travis.yml
+CHANGELOG.md
+CONTRIBUTING.md
+Gruntfile.js
+LICENSE.txt
+README.md
+composer.json
+package.json

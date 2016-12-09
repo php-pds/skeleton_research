@@ -1,0 +1,11 @@
+assets/
+components/
+controllers/
+messages/
+views/
+web/
+LICENSE.md
+Module.php
+README.md
+composer.json
+dashboard.json

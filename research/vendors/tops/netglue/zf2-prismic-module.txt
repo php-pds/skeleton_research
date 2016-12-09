@@ -1,0 +1,11 @@
+config/
+src/NetgluePrismic/
+tests/
+view/netglue-prismic/
+.gitignore
+.travis.yml
+Module.php
+README.md
+autoload_classmap.php
+composer.json
+phpunit.xml.dist

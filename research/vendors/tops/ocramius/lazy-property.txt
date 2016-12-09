@@ -1,0 +1,13 @@
+build/
+src/LazyProperty/
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CONTRIBUTING.md
+LICENSE
+README.md
+composer.json
+phpdox.xml.dist
+phpmd.xml.dist
+phpunit.xml.dist

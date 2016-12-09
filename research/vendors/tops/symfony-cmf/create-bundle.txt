@@ -1,0 +1,17 @@
+Command/
+Composer/
+Controller/
+DependencyInjection/
+Resources/
+Security/
+Tests/Unit/Security/
+Workflow/
+.gitignore
+.styleci.yml
+.travis.yml
+CHANGELOG.md
+CONTRIBUTING.md
+CmfCreateBundle.php
+README.md
+composer.json
+phpunit.xml.dist

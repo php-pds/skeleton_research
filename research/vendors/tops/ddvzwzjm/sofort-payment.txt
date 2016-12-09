@@ -1,0 +1,9 @@
+core/
+examples/
+payment/
+unittests/
+README.md
+change.log
+composer.json
+composer.lock
+read.me

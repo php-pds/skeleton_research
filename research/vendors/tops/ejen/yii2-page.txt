@@ -1,0 +1,6 @@
+backend/
+common/models/
+console/migrations/
+frontend/
+README.md
+composer.json

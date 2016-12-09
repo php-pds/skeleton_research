@@ -1,0 +1,5 @@
+config/
+src/
+tests/TestCase/Controller/Admin/
+webroot/
+composer.json

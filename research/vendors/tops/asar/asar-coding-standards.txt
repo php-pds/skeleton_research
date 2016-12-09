@@ -1,0 +1,4 @@
+src/Asar/
+tests/
+README.md
+composer.json

@@ -1,0 +1,4 @@
+src/Makasim/File/
+LICENSE
+README.md
+composer.json

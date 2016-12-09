@@ -1,0 +1,10 @@
+Crowdin/
+JSUnit/
+PhpMd/
+PhpUnit/
+Surf/
+TravisCi/
+ComposerManifestMerger.php
+FilterStabilityFlags.php
+ReleaseHelpers.sh
+composer.json

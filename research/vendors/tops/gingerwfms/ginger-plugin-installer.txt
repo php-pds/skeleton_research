@@ -1,0 +1,9 @@
+config/
+src/GingerPluginInstaller/
+tests/
+.gitignore
+.travis.yml
+LICENSE.txt
+Module.php
+README.md
+composer.json

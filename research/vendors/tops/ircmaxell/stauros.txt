@@ -1,0 +1,11 @@
+lib/Stauros/
+script/
+.gitignore
+.php_cs
+.travis.yml
+LICENSE
+Makefile
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

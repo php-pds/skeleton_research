@@ -1,0 +1,6 @@
+code/
+.gitignore
+.php_cs
+README.md
+_config.php
+composer.json

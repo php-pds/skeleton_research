@@ -1,0 +1,10 @@
+Bridges/
+Commands/
+Exceptions/
+Input/
+Output/
+.gitignore
+Application.php
+composer.json
+composer.lock
+myapp.php

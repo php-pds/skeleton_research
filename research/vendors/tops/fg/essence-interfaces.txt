@@ -1,0 +1,4 @@
+lib/Essence/
+LICENSE.txt
+README.md
+composer.json

@@ -1,0 +1,7 @@
+test/
+.gitignore
+CHANGELOG.md
+README.md
+assetLoader.php
+composer.json
+phpunit.xml

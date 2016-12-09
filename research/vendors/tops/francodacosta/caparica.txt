@@ -1,0 +1,10 @@
+docs/
+src/Caparica/
+tests/
+.gitignore
+.travis.yml
+README.md
+build_docs.sh
+composer.json
+composer.lock
+composer.phar

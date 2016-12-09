@@ -1,0 +1,12 @@
+build/
+src/
+test/
+vendor-extra/Csa/GuzzleBundle/
+.gitignore
+.php_cs
+Jenkinsfile
+README.md
+composer.json
+phpunit.xml.dist
+project_tests.sh
+puli.json

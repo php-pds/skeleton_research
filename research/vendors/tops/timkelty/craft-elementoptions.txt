@@ -1,0 +1,8 @@
+fieldtypes/
+resources/
+templates/
+ElementOptionsPlugin.php
+LICENSE.txt
+README.md
+composer.json
+releases.json

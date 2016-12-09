@@ -1,0 +1,13 @@
+bin/
+src/
+testing/
+.gitignore
+.travis.yml
+LICENSE
+Makefile
+README.md
+adviser-default.yml
+apigen.neon
+box.json
+composer.json
+phpunit.xml.dist

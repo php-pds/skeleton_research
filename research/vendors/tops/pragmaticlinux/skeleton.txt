@@ -1,0 +1,7 @@
+css/
+images/
+LICENSE
+LICENSE.md
+README.md
+composer.json
+index.html

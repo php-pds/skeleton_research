@@ -1,0 +1,9 @@
+src/Phake/
+.gitignore
+.version
+CHANGELOG.md
+Phakefile
+README.md
+composer.json
+phake
+phake.zsh-completion

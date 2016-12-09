@@ -1,0 +1,5 @@
+examples/
+COPYING
+README.md
+composer.json
+phpSmug.php

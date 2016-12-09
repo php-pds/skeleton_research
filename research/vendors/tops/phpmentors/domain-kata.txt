@@ -1,0 +1,9 @@
+.settings/
+src/
+.buildpath
+.gitignore
+.php_cs
+.project
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,14 @@
+img/
+translations/
+upgrade/
+views/
+CHANGELOG.txt
+Readme.md
+beforeCarrier.tpl
+composer.json
+config.xml
+dateofdelivery.php
+index.php
+logo.gif
+logo.png
+orderDetail.tpl

@@ -1,0 +1,9 @@
+config/
+src/Options/
+test/phpunit/
+.php_cs
+.travis.yml
+Module.php
+composer.json
+phpunit.xml.dist
+phpunit.xml.travis

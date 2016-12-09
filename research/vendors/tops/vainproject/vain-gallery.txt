@@ -1,0 +1,15 @@
+config/
+database/
+resources/
+src/Gallery/
+tests/
+.gitattributes
+.gitignore
+.npmignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+gulpfile-module.js
+package.json
+phpunit.xml

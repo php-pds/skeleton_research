@@ -1,0 +1,8 @@
+deploy/
+src/
+.gitignore
+LICENSE
+README.md
+composer.json
+deploy.sh
+deploy_cfg.sh.init

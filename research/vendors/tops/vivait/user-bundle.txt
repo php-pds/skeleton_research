@@ -1,0 +1,2 @@
+src/Vivait/UserBundle/
+composer.json

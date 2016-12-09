@@ -1,0 +1,7 @@
+.gitignore
+README.md
+annotate.js
+annotate.min.js
+bower.json
+component.json
+composer.json

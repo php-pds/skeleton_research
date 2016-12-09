@@ -1,0 +1,15 @@
+exception/
+weixin/models/
+.gitignore
+AmazonAuth.php
+DoubanAuth.php
+IAuth.php
+QqAuth.php
+QqExmailAuth.php
+README.QQExmail.md
+README.md
+RenrenAuth.php
+WeiboAuth.php
+WeixinAuth.php
+WeixinMpAuth.php
+composer.json

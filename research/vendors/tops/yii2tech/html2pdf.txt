@@ -1,0 +1,15 @@
+converters/
+tests/
+.gitattributes
+.gitignore
+.travis.yml
+BaseConverter.php
+CHANGELOG.md
+ConverterInterface.php
+LICENSE.md
+Manager.php
+README.md
+TempFile.php
+Template.php
+composer.json
+phpunit.xml.dist

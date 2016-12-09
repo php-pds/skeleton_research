@@ -1,0 +1,8 @@
+spec/Felixkiss/Database/
+src/Felixkiss/Database/
+.gitignore
+.travis.yml
+LICENSE.md
+README.md
+composer.json
+phpspec.yml

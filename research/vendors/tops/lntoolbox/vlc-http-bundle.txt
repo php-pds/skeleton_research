@@ -1,0 +1,13 @@
+Asset/
+Controller/
+DependencyInjection/
+Event/
+EventListener/
+Exception/
+Resources/config/
+VlcCommand/
+.gitignore
+LICENSE
+Readme.md
+VlcHttpBundle.php
+composer.json

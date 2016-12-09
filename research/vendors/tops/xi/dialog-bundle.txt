@@ -1,0 +1,12 @@
+Controller/
+DependencyInjection/
+Resources/
+Tests/spec/
+Twig/Extensions/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+XiDialogBundle.php
+composer.json
+composer.lock

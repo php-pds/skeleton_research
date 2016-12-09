@@ -1,0 +1,11 @@
+commands/
+tests/
+.gitattributes
+.gitignore
+.php_cs
+.travis.yml
+DataSyncBehavior.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

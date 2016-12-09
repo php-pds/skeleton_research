@@ -1,0 +1,10 @@
+inc/
+templates/
+.gitignore
+Job.php
+LICENSE
+Plugin.php
+README.md
+composer.json
+quan-jobs.js
+quan-jobs.php

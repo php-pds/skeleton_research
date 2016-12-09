@@ -1,0 +1,11 @@
+Exception/
+Tests/
+.gitignore
+.php_cs
+.travis.yml
+LICENSE
+README.md
+StringReader.php
+StringSourceState.php
+composer.json
+phpunit.xml.dist

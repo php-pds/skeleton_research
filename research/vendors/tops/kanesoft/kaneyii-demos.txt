@@ -1,0 +1,6 @@
+blog/
+hangman/
+helloworld/
+phonebook/
+.gitignore
+composer.json

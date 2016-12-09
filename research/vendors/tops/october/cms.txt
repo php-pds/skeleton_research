@@ -1,0 +1,17 @@
+assets/
+classes/
+contracts/
+controllers/
+database/migrations/
+facades/
+formwidgets/
+helpers/
+lang/
+models/
+reportwidgets/
+twig/
+views/
+widgets/
+ServiceProvider.php
+composer.json
+routes.php

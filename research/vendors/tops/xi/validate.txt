@@ -1,0 +1,8 @@
+external/
+library/Xi/Validate/
+tests/
+.gitignore
+.gitmodules
+LICENSE
+README.md
+composer.json

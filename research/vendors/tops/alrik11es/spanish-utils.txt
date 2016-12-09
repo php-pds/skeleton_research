@@ -1,0 +1,9 @@
+src/SpanishUtils/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+params.json
+phpunit.xml

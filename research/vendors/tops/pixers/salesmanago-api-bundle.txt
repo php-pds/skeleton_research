@@ -1,0 +1,5 @@
+src/Pixers/SalesManagoApiBundle/
+.gitignore
+LICENSE
+README.md
+composer.json

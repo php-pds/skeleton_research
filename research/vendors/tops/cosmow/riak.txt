@@ -1,0 +1,6 @@
+lib/CosmoW/Riak/
+.gitignore
+LICENSE
+README.markdown
+composer.json
+phpunit.xml.dist

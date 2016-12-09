@@ -1,0 +1,10 @@
+foundation/
+widgets/
+.gitignore
+FoundationAsset.php
+JqueryAsset.php
+LICENSE
+ModernizrAsset.php
+README.md
+Widget.php
+composer.json

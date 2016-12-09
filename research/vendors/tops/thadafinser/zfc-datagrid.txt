@@ -1,0 +1,15 @@
+config/
+docs/
+src/ZfcDatagrid/
+tests/ZfcDatagridTest/
+view/zfc-datagrid/
+.gitattributes
+.gitignore
+.php_cs
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+bower.json
+composer.json
+phpunit.xml

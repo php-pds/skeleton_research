@@ -1,0 +1,4 @@
+.gitignore
+Deploy.php
+LICENSE
+composer.json

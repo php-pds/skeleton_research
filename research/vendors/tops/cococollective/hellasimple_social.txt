@@ -1,0 +1,6 @@
+.gitignore
+LICENSE.txt
+README.md
+composer.json
+hellasimple_social.info.yml
+hellasimple_social.permissions.yml

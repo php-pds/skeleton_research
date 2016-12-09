@@ -1,0 +1,9 @@
+Decorators/
+DependencyInjection/
+Resources/config/
+Services/
+Tests/Services/
+.gitignore
+README.md
+VKRS3UploaderBundle.php
+composer.json

@@ -1,0 +1,9 @@
+config/
+src/FileStorage/
+view/file-storage/document/
+.gitignore
+.gitmodules
+Module.php
+README.md
+autoload_classmap.php
+composer.json

@@ -1,0 +1,9 @@
+src/
+tests/
+.gitattributes
+.gitignore
+.travis.yml
+LICENSE
+README.md
+codestyle.xml
+composer.json

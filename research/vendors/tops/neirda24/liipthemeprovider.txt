@@ -1,0 +1,11 @@
+Controller/
+DependencyInjection/
+Provider/
+Resources/config/
+Theme/
+.gitignore
+LiipThemeProviderBundle.php
+LiipThemeProviderTags.php
+README.md
+composer.json
+composer.lock

@@ -1,0 +1,7 @@
+public/cms/libs/elfinder/
+resources/js/elfinder/
+src/
+.gitignore
+composer.json
+gulpfile.js
+package.json

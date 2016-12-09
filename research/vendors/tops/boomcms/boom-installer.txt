@@ -1,0 +1,10 @@
+public/
+src/
+tests/BoomCMS/Installer/
+.gitignore
+Gruntfile.js
+LICENSE
+composer.json
+composer.lock
+package.json
+phpunit.xml

@@ -1,0 +1,9 @@
+Annotations/
+Command/
+DependencyInjection/
+Generator/
+Resources/
+ACSEOFastShowGeneratorBundle.php
+LICENSE
+README.md
+composer.json

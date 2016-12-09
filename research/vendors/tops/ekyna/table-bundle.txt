@@ -1,0 +1,8 @@
+DependencyInjection/
+Resources/
+.gitattributes
+.gitignore
+EkynaTableBundle.php
+LICENSE
+README.md
+composer.json

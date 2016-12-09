@@ -1,0 +1,17 @@
+config/
+logs/
+public/
+s3mvc-tools/
+src/
+tests/
+tmp/
+.gitignore
+.gitignore-dist
+README-dist.md
+README.md
+TODO.md
+composer-dist.json
+composer.json
+phpunit.xml.dist
+slim3-psr7.png
+slim3-psr7.pub

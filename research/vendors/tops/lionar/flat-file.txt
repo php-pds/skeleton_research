@@ -1,0 +1,9 @@
+documents/
+manual testing/
+source/
+tests/
+.gitignore
+composer.json
+composer.lock
+development.md
+phpunit.xml

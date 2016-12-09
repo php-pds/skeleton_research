@@ -1,0 +1,6 @@
+config/
+data/migrations/
+src/Media42/
+view/media42/media/
+Module.php
+composer.json

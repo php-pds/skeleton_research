@@ -1,0 +1,6 @@
+DependencyInjection/
+Resources/config/
+Bridge.php
+CwdEasynameBridgeBundle.php
+Readme.md
+composer.json

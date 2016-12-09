@@ -1,0 +1,8 @@
+src/Weew/Console/ContainerAware/
+tests/
+.gitignore
+.travis.yml
+composer.json
+licence.md
+phpspec.yml
+readme.md

@@ -1,0 +1,6 @@
+.gitignore
+README.md
+build.xml.example
+command.php
+composer.json
+phpunit.xml.example

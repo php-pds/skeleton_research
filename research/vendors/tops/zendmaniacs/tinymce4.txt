@@ -1,0 +1,16 @@
+langs/
+plugins/
+skins/lightgray/
+themes/modern/
+.npmignore
+bower.json
+changelog.txt
+composer.json
+jquery.tinymce.min.js
+license.txt
+package.json
+readme.md
+tinymce.jquery.js
+tinymce.jquery.min.js
+tinymce.js
+tinymce.min.js

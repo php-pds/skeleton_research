@@ -1,0 +1,10 @@
+Mapping/
+Pagination/
+Transformer/
+.codeclimate.yml
+.travis.yml
+ISSUE_TEMPLATE
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,17 @@
+bin/
+docs/images/
+migrations/
+src/SVNBuddy/
+tests/SVNBuddy/
+.gitignore
+.travis.yml
+CHANGELOG.md
+CODE_OF_CONDUCT.md
+CONTRIBUTING.md
+LICENSE
+README.md
+box.json.dist
+codecov.yml
+composer.json
+composer.lock
+phpunit.xml.dist

@@ -1,0 +1,8 @@
+library/ZendService/Apple/
+tests/
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENSE.txt
+README.md
+composer.json

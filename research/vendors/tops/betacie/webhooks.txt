@@ -1,0 +1,7 @@
+examples/
+web/
+.gitignore
+README.md
+composer.json
+config.php.dist
+console

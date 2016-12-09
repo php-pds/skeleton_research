@@ -1,0 +1,14 @@
+Command/
+Composer/
+DependencyInjection/
+Resources/
+Tests/
+.gitignore
+.travis.yml
+AcceleratorCacheBundle.php
+AcceleratorCacheClearer.php
+CacheClearerService.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

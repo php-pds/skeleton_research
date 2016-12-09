@@ -1,0 +1,6 @@
+examples/
+src/Instasent/
+.gitignore
+LICENSE
+README.md
+composer.json

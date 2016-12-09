@@ -1,0 +1,11 @@
+DependencyInjection/
+Resources/Config/
+Tests/DependencyInjection/
+.coveralls.yml
+.gitignore
+.travis.yml
+LICENSE
+OpenClassroomsFrontDeskBundle.php
+README.md
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,13 @@
+i18n/
+includes/
+languages/
+specials/
+.gitignore
+.gitreview
+COPYING
+DataTransfer.php
+Gruntfile.js
+INSTALL
+README
+composer.json
+package.json

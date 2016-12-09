@@ -1,0 +1,7 @@
+examples/
+src/React/EEP/
+tests/
+LICENSE
+README.md
+composer.json
+phpunit.xml

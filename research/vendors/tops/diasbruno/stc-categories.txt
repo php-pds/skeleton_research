@@ -1,0 +1,5 @@
+lib/stc/
+.gitignore
+LICENSE
+composer.json
+readme.md

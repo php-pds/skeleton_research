@@ -1,0 +1,11 @@
+src/
+test/
+.gitignore
+Dockerfile
+LICENSE
+Makefile
+README.md
+composer.json
+composer.lock
+configen
+phpunit.xml.dist

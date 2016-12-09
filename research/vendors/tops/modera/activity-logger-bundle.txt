@@ -1,0 +1,13 @@
+DependencyInjection/
+Entity/
+Manager/
+Model/
+Resources/
+Tests/
+.gitignore
+.travis.yml
+ModeraActivityLoggerBundle.php
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

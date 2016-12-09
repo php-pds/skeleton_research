@@ -1,0 +1,9 @@
+.idea/
+examples/
+src/Simple/
+test/
+.gitignore
+.travis.yml
+README.md
+composer.json
+phpunit.xml

@@ -1,0 +1,9 @@
+Command/
+DependencyInjection/
+Resources/config/
+Services/
+.gitignore
+EXSSimpleMongoBundle.php
+LICENSE
+README.md
+composer.json

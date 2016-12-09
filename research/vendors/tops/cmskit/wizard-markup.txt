@@ -1,0 +1,8 @@
+doc/
+inc/
+.gitignore
+buttons.js
+composer.json
+include.php
+index.php
+readme.md

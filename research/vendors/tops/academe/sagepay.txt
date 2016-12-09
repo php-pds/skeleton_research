@@ -1,0 +1,8 @@
+src/Academe/SagePay/
+tests/Academe/SagePay/
+.gitignore
+.travis.yml
+LICENSE.md
+README.md
+composer.json
+phpunit.xml

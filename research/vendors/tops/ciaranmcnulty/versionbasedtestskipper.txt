@@ -1,0 +1,11 @@
+features/
+integration/Cjm/
+spec/Cjm/
+src/Cjm/
+.gitignore
+.travis.yml
+LICENSE.md
+README.md
+behat.yml
+composer.json
+phpunit.xml

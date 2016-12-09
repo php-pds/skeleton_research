@@ -1,0 +1,6 @@
+scripts/
+src/Ddd/
+.gitignore
+README.md
+composer.json
+phpunit.xml.dist

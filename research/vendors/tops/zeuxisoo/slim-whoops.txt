@@ -1,0 +1,10 @@
+examples/
+src/Zeuxisoo/Whoops/Provider/Slim/
+tests/
+.gitignore
+.travis.yml
+Makefile
+README.md
+codeception.yml
+composer.json
+phpunit.xml.dist

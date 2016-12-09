@@ -1,0 +1,8 @@
+actions/
+languages/
+views/default/
+.gitignore
+README.md
+composer.json
+manifest.xml
+start.php

@@ -1,0 +1,10 @@
+example/
+lib/Bmaker/
+resources/
+tests/
+.editorconfig
+.gitignore
+LICENSE
+README.md
+composer.json
+phpunit.xml

@@ -1,0 +1,9 @@
+Command/
+Component/
+DependencyInjection/
+Manager/
+Resources/
+LICENSE
+PeerjUserSecurityBundle.php
+README.md
+composer.json

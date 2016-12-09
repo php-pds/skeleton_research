@@ -1,0 +1,5 @@
+includes/
+LICENSE.txt
+README.md
+composer.json
+json-loader.php

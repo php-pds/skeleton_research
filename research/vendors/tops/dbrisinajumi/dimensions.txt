@@ -1,0 +1,9 @@
+demo/
+src/DBRisinajumi/Dimensions/
+tests/
+.gitignore
+.travis.yml
+README.md
+composer.json
+personal_finance_level_data.sql
+structure.sql

@@ -1,0 +1,6 @@
+.phpspec/
+.gitignore
+BestPracticesExtension.php
+ClassNotationSpecificationGenerator.php
+README.md
+composer.json

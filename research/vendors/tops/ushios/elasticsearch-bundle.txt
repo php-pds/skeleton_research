@@ -1,0 +1,9 @@
+Controller/
+DependencyInjection/
+Resources/
+Tests/
+.gitignore
+LICENSE
+README.md
+UshiosElasticSearchBundle.php
+composer.json

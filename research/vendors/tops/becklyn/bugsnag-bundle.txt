@@ -1,0 +1,10 @@
+Client/
+DependencyInjection/
+Monolog/Handler/
+Report/
+Resources/config/
+Twig/
+.gitignore
+BecklynBugsnagBundle.php
+LICENSE
+composer.json

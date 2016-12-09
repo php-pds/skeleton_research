@@ -1,0 +1,11 @@
+tests/
+.gitignore
+ArrayHelper.php
+Filter.php
+Inflector.php
+InternetChecker.php
+LICENSE
+README.md
+Schedule.php
+codeception.yml
+composer.json

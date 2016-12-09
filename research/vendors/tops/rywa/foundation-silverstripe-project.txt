@@ -1,0 +1,9 @@
+mysite/
+.gitignore
+.htaccess
+LICENSE
+README.md
+_ss_environment.php
+composer.json
+dandelion.sample.yml
+favicon.ico

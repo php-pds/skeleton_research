@@ -1,0 +1,5 @@
+.gitignore
+Client.php
+LogTarget.php
+README.md
+composer.json

@@ -1,0 +1,11 @@
+assets/flags/
+commands/
+components/
+data/mysql/
+models/
+.gitignore
+CurrencyModule.php
+LICENSE
+README.md
+composer.json
+updatedaily

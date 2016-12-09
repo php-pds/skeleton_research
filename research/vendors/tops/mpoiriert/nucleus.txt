@@ -1,0 +1,11 @@
+bin/
+dashboard/
+demo/
+src/Nucleus/
+web/
+.gitignore
+.travis.yml
+README.md
+composer.json
+nucleus.json
+phpunit.xml.dist

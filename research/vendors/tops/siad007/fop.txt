@@ -1,0 +1,11 @@
+config/
+src/siad007/Fop/
+tests/siad007/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpmd.xml.dist
+phpunit.xml

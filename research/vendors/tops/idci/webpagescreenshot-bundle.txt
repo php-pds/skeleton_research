@@ -1,0 +1,13 @@
+Command/
+Controller/
+DependencyInjection/
+Exceptions/
+Lib/
+Renderer/
+Resources/config/
+Service/
+Tests/Controller/
+.gitignore
+IDCIWebPageScreenShotBundle.php
+README.md
+composer.json

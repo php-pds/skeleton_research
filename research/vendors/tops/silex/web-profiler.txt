@@ -1,0 +1,9 @@
+Tests/
+.editorconfig
+.gitignore
+.travis.yml
+LICENSE
+README.rst
+WebProfilerServiceProvider.php
+composer.json
+phpunit.xml.dist

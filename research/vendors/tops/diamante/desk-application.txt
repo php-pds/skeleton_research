@@ -1,0 +1,15 @@
+app/
+build/
+src/Diamante/
+tests/
+web/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist
+travis.php.ini

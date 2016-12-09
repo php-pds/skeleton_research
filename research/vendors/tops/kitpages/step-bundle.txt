@@ -1,0 +1,15 @@
+Command/
+DependencyInjection/
+Proxy/
+Resources/config/
+Step/
+Tests/
+.gitignore
+.travis.yml
+KitpagesStepBundle.php
+KitpagesStepEvents.php
+LICENSE
+README.md
+StepException.php
+composer.json
+phpunit.xml.dist

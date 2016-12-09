@@ -1,0 +1,13 @@
+build/
+docs/
+src/
+stubs/
+.editorconfig
+.gitattributes
+.gitignore
+.php_cs
+.scrutinizer.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml

@@ -1,0 +1,4 @@
+src/Starship/Scalar/
+tests/Starship/Scalar/
+README.md
+composer.json

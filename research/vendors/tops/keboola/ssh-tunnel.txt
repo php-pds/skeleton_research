@@ -1,0 +1,11 @@
+src/Keboola/SSHTunnel/
+tests/
+.gitignore
+.travis.yml
+Dockerfile
+LICENSE
+README.md
+composer.json
+docker-compose.yml
+phpunit.sh
+phpunit.xml.dist

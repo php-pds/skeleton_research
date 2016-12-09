@@ -1,0 +1,4 @@
+src/Pagination/
+.gitignore
+LICENSE
+composer.json

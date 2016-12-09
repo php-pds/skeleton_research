@@ -1,0 +1,7 @@
+spec/Cjm/PhpSpec/
+src/Cjm/PhpSpec/
+.gitignore
+README.md
+composer.json
+composer.lock
+phpspec.yml

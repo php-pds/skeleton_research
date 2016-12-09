@@ -1,0 +1,9 @@
+.gitignore
+.travis.yml.dist
+LICENSE
+README.md
+STANDARD.md
+composer.json
+phpunit.xml.dist
+ruleset.xml
+travis.yml.dist

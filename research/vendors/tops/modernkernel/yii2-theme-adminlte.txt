@@ -1,0 +1,6 @@
+layouts/
+site/
+AdminlteAsset.php
+AdminlteTheme.php
+README.md
+composer.json

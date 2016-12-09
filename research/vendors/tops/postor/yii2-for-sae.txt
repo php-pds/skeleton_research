@@ -1,0 +1,4 @@
+.gitignore
+README.md
+SaeAssetManager.php
+composer.json

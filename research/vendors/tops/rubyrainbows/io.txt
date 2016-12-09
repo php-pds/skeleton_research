@@ -1,0 +1,9 @@
+lib/RubyRainbows/IO/
+tests/
+.gitignore
+.travis.yml
+Gemfile
+Guardfile
+README.md
+composer.json
+phpunit.xml

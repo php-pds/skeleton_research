@@ -1,0 +1,17 @@
+gulp/
+src/
+tests/
+.coveralls.yml
+.editorconfig
+.gitattributes
+.gitignore
+.scrutinizer.yml
+.styleci.yml
+.travis.yml
+CONTRIBUTING.md
+LICENSE
+README.md
+composer.json
+gulpfile.js
+package.json
+phpunit.xml

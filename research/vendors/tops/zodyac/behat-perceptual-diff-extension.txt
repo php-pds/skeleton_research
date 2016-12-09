@@ -1,0 +1,6 @@
+example/
+src/Zodyac/Behat/PerceptualDiffExtension/
+.gitignore
+LICENSE
+README.md
+composer.json

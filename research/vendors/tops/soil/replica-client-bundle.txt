@@ -1,0 +1,7 @@
+DependencyInjection/
+Resources/config/
+Service/
+.gitignore
+README.md
+SoilReplicaClientBundle.php
+composer.json

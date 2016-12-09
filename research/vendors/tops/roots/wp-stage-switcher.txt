@@ -1,0 +1,8 @@
+.editorconfig
+.gitignore
+CHANGELOG.md
+LICENSE.md
+README.md
+composer.json
+composer.lock
+wp-stage-switcher.php

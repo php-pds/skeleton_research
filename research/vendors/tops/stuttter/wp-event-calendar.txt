@@ -1,0 +1,7 @@
+wp-event-calendar/
+.gitignore
+LICENSE
+README.md
+composer.json
+readme.txt
+wp-event-calendar.php

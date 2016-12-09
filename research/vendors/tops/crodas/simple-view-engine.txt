@@ -1,0 +1,10 @@
+lib/SimpleView/
+tests/
+.gitignore
+.travis.yml
+Makefile
+README.md
+cli.php
+composer.json
+phpunit.xml
+service.php

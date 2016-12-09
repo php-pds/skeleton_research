@@ -1,0 +1,10 @@
+controllers/
+resources/
+services/
+variables/
+LICENSE.txt
+README.md
+TranscoderPlugin.php
+composer.json
+config.php
+releases.json

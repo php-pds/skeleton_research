@@ -1,0 +1,12 @@
+Compress/
+Exception/
+Filesystem/
+Source/
+Tests/
+.gitignore
+.travis.yml
+LICENSE
+Manager.php
+README.md
+composer.json
+phpunit.xml.dist

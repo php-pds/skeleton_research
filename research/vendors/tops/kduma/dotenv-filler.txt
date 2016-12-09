@@ -1,0 +1,6 @@
+.gitignore
+DotEnvFillerCommand.php
+DotEnvFillerServiceProvider.php
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,14 @@
+cache/
+src/
+tests/
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+TODO.md
+composer.json
+composer.lock
+composerDownload.php
+phpunit.xml.dist
+updateXsd.php

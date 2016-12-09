@@ -1,0 +1,9 @@
+Controller/
+DependencyInjection/
+Entity/
+Form/
+Resources/
+Tests/Controller/
+LICENSE
+SpiritDevCIHubPostBundle.php
+composer.json

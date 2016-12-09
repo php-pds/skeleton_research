@@ -1,0 +1,14 @@
+Controller/Comment/
+DependencyInjection/
+Entity/
+Event/
+Form/
+Model/
+Resources/
+Tests/Controller/
+.gitignore
+CommentEvents.php
+README.md
+XideaCommentBundle.php
+composer.json
+phpunit.xml.dist

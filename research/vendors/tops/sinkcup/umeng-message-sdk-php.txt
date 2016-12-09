@@ -1,0 +1,6 @@
+examples/
+src/Umeng/Message/
+tests/
+LICENSE
+README.md
+composer.json

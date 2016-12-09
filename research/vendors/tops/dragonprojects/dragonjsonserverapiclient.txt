@@ -1,0 +1,8 @@
+config/
+public/
+src/DragonJsonServerApiclient/Controller/
+view/dragon-json-server-apiclient/apiclient/
+.bowerrc
+Module.php
+bower.json
+composer.json

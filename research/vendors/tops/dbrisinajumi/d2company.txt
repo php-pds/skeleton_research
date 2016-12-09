@@ -1,0 +1,12 @@
+components/
+controllers/
+data/
+messages/
+migrations/
+models/
+views/
+D2companyModule.php
+LICENSE
+README.md
+composer.json
+translation.php

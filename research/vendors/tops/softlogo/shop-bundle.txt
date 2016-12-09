@@ -1,0 +1,14 @@
+Admin/
+Controller/
+DependencyInjection/
+Entity/
+Extension/
+Form/
+Model/
+Resources/
+Templating/Helper/
+Tests/Controller/
+Util/
+LICENSE
+SoftlogoShopBundle.php
+composer.json

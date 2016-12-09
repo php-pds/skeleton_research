@@ -1,0 +1,5 @@
+src/donatj/
+.gitignore
+bot.php
+composer.json
+config.ini

@@ -1,0 +1,12 @@
+DataSource/Extension/
+DependencyInjection/
+Resources/
+Tests/
+Twig/
+.gitignore
+.travis.yml
+DataSourceBundle.php
+LICENSE.md
+README.md
+composer.json
+phpunit.xml.dist

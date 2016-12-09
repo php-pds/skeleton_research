@@ -1,0 +1,7 @@
+Instance.php
+LICENSE
+Manager.php
+README.md
+composer.json
+logger.config.sample.php
+table.sql

@@ -1,0 +1,14 @@
+assets/
+Accordion.php
+AccordionAsset.php
+BaseAccordionAsset.php
+BaseModalAsset.php
+BaseTabsAsset.php
+LICENSE.md
+Modal.php
+ModalAsset.php
+README.md
+Tabs.php
+TabsAsset.php
+Widget.php
+composer.json

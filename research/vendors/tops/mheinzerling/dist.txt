@@ -1,0 +1,13 @@
+bin/
+remote/
+resources/
+src/mheinzerling/
+tests/mheinzerling/dist/
+.gitignore
+.travis.yml
+LICENCE
+README.md
+build.xml
+composer.json
+composer.lock
+phpunit.xml

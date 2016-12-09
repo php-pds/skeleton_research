@@ -1,0 +1,11 @@
+css/
+images/
+javascript/
+templates/
+webfonts/
+.editorconfig
+.gitignore
+LICENSE
+README.md
+code-of-conduct.md
+composer.json

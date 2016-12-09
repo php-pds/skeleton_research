@@ -1,0 +1,16 @@
+ant/
+bin/
+classes/
+cronjobs/
+design/standard/templates/
+doc/
+modules/
+patches/trunk/
+settings/
+share/
+sql/
+translations/
+LICENSE
+README.md
+composer.json
+extension.xml

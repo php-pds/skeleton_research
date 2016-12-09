@@ -1,0 +1,8 @@
+services/
+templates/
+variables/
+widgets/
+LICENSE
+README.md
+SocialPlugin.php
+composer.json

@@ -1,0 +1,8 @@
+src/Dflydev/Base32/Crockford/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,13 @@
+src/Application/
+tests/
+.gitattributes
+.gitignore
+.travis.yml
+CHANGELOG.md
+CONTRIBUTING.md
+Dockerfile
+LICENSE
+Makefile
+README.md
+codeception.yml
+composer.json

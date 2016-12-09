@@ -1,0 +1,8 @@
+DependencyInjection/
+Listener/
+Resources/config/
+.gitignore
+README
+SoilCORSRequestHandlerBundle.php
+composer.json
+composer.lock

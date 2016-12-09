@@ -1,0 +1,15 @@
+Controller/
+DependencyInjection/
+Entity/
+Filter/
+Form/
+Resources/
+Tests/Filter/Search/
+.gitignore
+.travis.yml
+README.md
+SamsonFilterBundle.php
+Upgrade.md
+composer.json
+composer.lock
+phpunit.xml

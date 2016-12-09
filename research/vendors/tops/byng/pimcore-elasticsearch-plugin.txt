@@ -1,0 +1,12 @@
+controllers/
+lib/Byng/Pimcore/Elasticsearch/
+static/
+views/scripts/index/
+.editorconfig
+.gitignore
+LICENSE
+README.md
+composer.json
+elasticsearchplugin.xml.dist
+elasticsearchplugin.xsd
+plugin.xml

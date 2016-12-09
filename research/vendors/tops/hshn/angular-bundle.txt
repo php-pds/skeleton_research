@@ -1,0 +1,15 @@
+Assetic/Asset/
+Command/
+DependencyInjection/
+Resources/
+TemplateCache/
+Tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+Gruntfile.js
+HshnAngularBundle.php
+README.md
+composer.json
+package.json
+phpunit.xml.dist

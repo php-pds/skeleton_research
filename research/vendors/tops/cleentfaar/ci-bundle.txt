@@ -1,0 +1,17 @@
+ConfigLoader/
+DataCollector/
+DependencyInjection/
+Resources/
+Test/
+Tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CleentfaarCIBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist
+screenshot.png
+screenshot_scrutinizer.png
+screenshot_travis.png

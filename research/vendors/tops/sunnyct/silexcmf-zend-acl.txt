@@ -1,0 +1,10 @@
+Role/
+Tests/
+.gitignore
+Acl.php
+LICENSE
+README.md
+ZendACLServiceProvider.php
+composer.json
+phpdoc.xml
+phpunit.xml

@@ -1,0 +1,10 @@
+src/Event/
+tests/Event/
+.editorconfig
+.gitignore
+.php_cs
+CHANGELOG.md
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

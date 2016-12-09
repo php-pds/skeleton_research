@@ -1,0 +1,12 @@
+app/
+migrations/
+public/
+tests/
+.gitignore
+.htaccess
+.travis.yml
+LICENSE
+README.md
+codeception.yml
+composer.json
+phinx.yml

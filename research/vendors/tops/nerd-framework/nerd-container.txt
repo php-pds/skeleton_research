@@ -1,0 +1,9 @@
+src/Nerd/Framework/Container/
+tests/
+.gitignore
+.travis.yml
+Makefile
+README.md
+composer.json
+composer.lock
+phpunit.xml

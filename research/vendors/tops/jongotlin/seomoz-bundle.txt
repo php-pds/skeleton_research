@@ -1,0 +1,3 @@
+JGI/Bundle/SeoMozBundle/
+README.md
+composer.json

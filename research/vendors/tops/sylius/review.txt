@@ -1,0 +1,10 @@
+Calculator/
+Factory/
+Model/
+spec/
+.gitignore
+CHANGELOG.md
+LICENCE
+README.md
+composer.json
+phpspec.yml

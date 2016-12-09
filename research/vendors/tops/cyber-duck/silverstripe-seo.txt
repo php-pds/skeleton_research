@@ -1,0 +1,17 @@
+_config/
+code/
+css/
+docs/
+images/menu-icons/16x16/
+javascript/
+scss/
+templates/
+tests/
+.htaccess
+LICENSE
+README.md
+_config.php
+composer.json
+composer.lock
+license.md
+phpunit.xml

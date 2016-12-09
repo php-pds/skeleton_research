@@ -1,0 +1,13 @@
+config/
+grunt/
+src/
+tests/
+.gitignore
+Gruntfile.js
+LICENSE
+README.md
+bower.json
+composer.json
+index.php
+package.json
+wp-ads.php

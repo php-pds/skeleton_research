@@ -1,0 +1,16 @@
+src/
+tests/
+.gitignore
+.php_cs
+.styleci.yml
+.travis.yml
+CHANGELOG.md
+CONDUCT.md
+CONTRIBUTING.md
+README.md
+circle.yml
+composer.json
+composer.lock
+cover.png
+phpunit.php
+phpunit.xml

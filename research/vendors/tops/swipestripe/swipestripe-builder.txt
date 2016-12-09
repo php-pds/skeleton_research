@@ -1,0 +1,7 @@
+images/
+less/
+tasks/
+.editorconfig
+README.md
+_config.php
+composer.json

@@ -1,0 +1,4 @@
+lib/Rails/ActsAsVersioned/
+LICENSE
+README.md
+composer.json

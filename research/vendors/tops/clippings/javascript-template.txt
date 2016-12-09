@@ -1,0 +1,4 @@
+root/
+README.md
+composer.json
+prompts.json

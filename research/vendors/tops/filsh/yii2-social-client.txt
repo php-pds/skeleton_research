@@ -1,0 +1,5 @@
+clients/
+ClientInterface.php
+Collection.php
+README.md
+composer.json

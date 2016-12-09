@@ -1,0 +1,7 @@
+Compat/
+Methods/
+SQL/
+Auth.php
+Password.php
+User.php
+composer.json

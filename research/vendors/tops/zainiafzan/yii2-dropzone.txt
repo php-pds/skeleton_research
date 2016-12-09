@@ -1,0 +1,6 @@
+assets/
+Dropzone.php
+DropzoneAsset.php
+LICENSE
+README.md
+composer.json

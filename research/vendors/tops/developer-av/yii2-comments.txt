@@ -1,0 +1,15 @@
+assets/
+components/
+controllers/
+messages/en/
+migrations/
+models/
+views/default/
+widgets/imgareaselect/
+.gitignore
+AppAsset.php
+LICENSE
+Module.php
+README.md
+WidgetAsset.php
+composer.json

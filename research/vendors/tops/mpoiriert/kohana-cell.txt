@@ -1,0 +1,7 @@
+demo/
+src/Nucleus/Cell/Kohana/
+web/
+.gitignore
+README.md
+composer.json
+nucleus.json

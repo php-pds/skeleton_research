@@ -1,0 +1,5 @@
+system/modules/inherit_article/
+LICENSE
+README.md
+composer.json
+inherit_article.png

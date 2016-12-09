@@ -1,0 +1,4 @@
+resources/js/
+templates/
+AmRedactorPlugin.php
+composer.json

@@ -1,0 +1,7 @@
+Config/
+EventListener/
+Plugin/Smarty/
+LICENSE.txt
+Readme.md
+TheliaCachePolyfill.php
+composer.json

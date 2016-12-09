@@ -1,0 +1,6 @@
+contao/
+src/ContaoArticlefilter/
+.gitignore
+LICENSE
+README.md
+composer.json

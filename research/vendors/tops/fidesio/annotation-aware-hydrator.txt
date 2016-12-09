@@ -1,0 +1,6 @@
+example/
+lib/flip111/AnnotationAwareHydrator/
+.gitignore
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,5 @@
+src/Aspose/PDF/
+tests/
+LICENSE
+README.md
+composer.json

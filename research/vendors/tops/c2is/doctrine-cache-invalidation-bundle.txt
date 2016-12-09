@@ -1,0 +1,16 @@
+Annotation/
+CacheInvalidatorDriver/
+CacheProviderDriver/
+DependencyInjection/
+EventListener/
+Exception/
+Loader/
+Resources/
+Tests/
+.gitignore
+C2isDoctrineCacheInvalidationBundle.php
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

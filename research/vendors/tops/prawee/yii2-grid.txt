@@ -1,0 +1,6 @@
+.idea/
+grid/
+.gitignore
+LICENSE
+README.md
+composer.json

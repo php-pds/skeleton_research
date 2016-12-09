@@ -1,0 +1,11 @@
+behaviors/
+components/partials/
+controllers/
+formwidgets/
+lang/
+models/
+updates/
+LICENCE.md
+Plugin.php
+README.md
+composer.json

@@ -1,0 +1,6 @@
+database/migrations/
+resources/
+src/
+README.md
+addon.yaml
+composer.json

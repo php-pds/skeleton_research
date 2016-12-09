@@ -1,0 +1,5 @@
+src/
+.gitignore
+Plugin.php
+cibulka-wp-plugin-social.php
+composer.json

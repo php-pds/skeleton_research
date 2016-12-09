@@ -1,0 +1,9 @@
+assets/
+src/
+.gitignore
+Gruntfile.js
+LICENSE
+README.md
+bower.json
+composer.json
+package.json

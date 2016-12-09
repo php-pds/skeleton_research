@@ -1,0 +1,12 @@
+js/
+src/
+templates/
+test/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+apiary.apib
+composer.json
+config.php.dist
+index.php

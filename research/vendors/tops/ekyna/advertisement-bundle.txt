@@ -1,0 +1,16 @@
+Controller/
+Dashboard/
+DataFixtures/ORM/
+DependencyInjection/
+Entity/
+Event/
+Form/Type/
+Model/
+Resources/
+Table/Type/
+.gitattributes
+.gitignore
+EkynaAdvertisementBundle.php
+LICENSE
+README.md
+composer.json

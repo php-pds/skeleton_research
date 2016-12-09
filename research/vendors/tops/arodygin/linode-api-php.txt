@@ -1,0 +1,13 @@
+generator/
+src/
+tests/
+.gitignore
+.php_cs
+.scrutinizer.yml
+.sensiolabs.yml
+.travis.yml
+LICENSE
+README.md
+composer.json
+linode.png
+phpunit.xml

@@ -1,0 +1,15 @@
+bin/
+check/
+src/Csp/
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE.md
+README.md
+bootstrap.php
+composer.json
+composer.lock
+csp-report.php
+index.php
+server.sh

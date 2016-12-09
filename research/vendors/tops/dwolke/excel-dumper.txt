@@ -1,0 +1,6 @@
+src/ExcelDumper/
+testapp/
+.gitignore
+LICENSE
+README.md
+composer.json

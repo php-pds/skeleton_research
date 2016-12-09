@@ -1,0 +1,14 @@
+config/
+database/
+public/
+resources/
+src/
+tests/
+.gitignore
+.jshintrc
+.scrutinizer.yml
+CONTRIBUTING.md
+README.md
+build.sh
+composer.json
+phpunit.xml

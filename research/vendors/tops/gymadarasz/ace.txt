@@ -1,0 +1,14 @@
+demo/
+src-min-noconflict/
+src-min/
+src-noconflict/
+src/
+textarea/src/
+.gitignore
+ChangeLog.txt
+LICENSE
+README.md
+composer.json
+editor.html
+kitchen-sink.html
+package.json

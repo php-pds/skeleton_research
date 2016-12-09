@@ -1,0 +1,4 @@
+src/system/modules/metamodels_demo_installer/
+.gitignore
+README.md
+composer.json

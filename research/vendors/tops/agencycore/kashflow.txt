@@ -1,0 +1,6 @@
+src/Kashflow/
+tests/
+.gitignore
+README.md
+composer.json
+phpunit.xml

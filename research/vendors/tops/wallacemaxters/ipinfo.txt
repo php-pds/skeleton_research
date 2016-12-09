@@ -1,0 +1,5 @@
+src/ipinfo/
+test/
+README.md
+composer.json
+next_version.md

@@ -1,0 +1,11 @@
+backup/
+config/
+documentation/
+src/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+composer.json
+run-tests.sh

@@ -1,0 +1,5 @@
+slick/
+.gitignore
+LICENSE
+README.md
+composer.json

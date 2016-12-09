@@ -1,0 +1,4 @@
+ckeditor/
+.gitignore
+composer.json
+install.php

@@ -1,0 +1,8 @@
+Annotations/
+Command/
+DependencyInjection/
+Manager/
+Resources/
+KMJCronBundle.php
+README.md
+composer.json

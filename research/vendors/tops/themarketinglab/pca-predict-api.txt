@@ -1,0 +1,8 @@
+spec/CapturePlus/
+src/CapturePlus/
+.gitignore
+README.md
+composer.json
+composer.lock
+phpcs.xml
+phpspec.yml

@@ -1,0 +1,11 @@
+models/
+services/
+translations/
+twigextensions/
+vendor/
+.gitignore
+TextStatisticsPlugin.php
+composer.json
+config.php
+readme.md
+releases.json

@@ -1,0 +1,10 @@
+spec/
+src/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+README.md
+composer.json
+composer.lock
+orm-example.php
+phpspec.yml

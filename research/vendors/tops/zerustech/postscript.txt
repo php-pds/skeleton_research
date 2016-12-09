@@ -1,0 +1,8 @@
+Tests/
+src/Font/TypeOne/Stream/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml

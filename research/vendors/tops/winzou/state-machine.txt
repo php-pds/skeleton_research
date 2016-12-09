@@ -1,0 +1,8 @@
+examples/
+spec/SM/
+src/SM/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,8 @@
+DependencyInjection/
+Resources/
+.gitignore
+.travis.yml
+CHANGELOG
+JoshuaEstesAmazonBundle.php
+README.markdown
+composer.json

@@ -1,0 +1,8 @@
+assets/
+examples/
+src/Leadtech/XDebugTraceReader/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json

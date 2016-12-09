@@ -1,0 +1,15 @@
+Controller/
+DependencyInjection/
+Entity/
+EventListener/Resource/
+Form/Type/
+Installation/
+Manager/
+Migrations/pdo_mysql/
+Resources/
+Transfer/
+.gitignore
+InnovaMetronomeBundle.php
+LICENSE
+README.md
+composer.json

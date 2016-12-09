@@ -1,0 +1,11 @@
+Factotum/
+docs/
+tests/
+.env.example
+.gitignore
+.pullapprove.yml
+.travis.yml
+CONTRIBUTING.md
+composer.json
+phpunit.xml
+readme.md

@@ -1,0 +1,7 @@
+assets/
+EGalleryMagnificPopup.php
+EGroupMagnificPopup.php
+EMagnificPopup.php
+LICENSE
+README.md
+composer.json

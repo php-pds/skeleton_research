@@ -1,0 +1,6 @@
+src/Robbo/ValidationRules/
+.gitignore
+.travis.yml
+README.md
+composer.json
+phpunit.xml

@@ -1,0 +1,3 @@
+WPSimpleDAO.class.php
+WPSimpleMapper.class.php
+composer.json

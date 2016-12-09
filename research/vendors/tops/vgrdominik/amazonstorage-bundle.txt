@@ -1,0 +1,8 @@
+Controller/
+DependencyInjection/
+Model/
+Resources/config/
+Service/
+AmazonStorageBundle.php
+README.md
+composer.json

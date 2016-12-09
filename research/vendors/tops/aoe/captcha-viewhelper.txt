@@ -1,0 +1,9 @@
+Classes/
+Contrib/cool-php-captcha-0.3/
+Resources/Private/
+doc/
+composer.json
+ext_conf_template.txt
+ext_emconf.php
+ext_icon.gif
+ext_localconf.php

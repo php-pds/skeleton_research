@@ -1,0 +1,7 @@
+Classes/Famelo/Bean/
+Configuration/
+Resources/
+Tests/Functional/
+.travis.yml
+README.md
+composer.json

@@ -1,0 +1,6 @@
+src/
+.gitignore
+README.md
+Shops United API documentatie NL V1-05.pdf
+composer.json
+example.php

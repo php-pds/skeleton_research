@@ -1,0 +1,5 @@
+src/ArpSpecification/Spec/
+test/
+README.md
+composer.json
+phpunit.xml

@@ -1,0 +1,10 @@
+code/
+js/
+lang/
+templates/
+vendor/slick/
+.htaccess
+LICENSE
+README.md
+_config.php
+composer.json

@@ -1,0 +1,13 @@
+Uploader/
+BaconIpsum.php
+CityHelper.php
+CustomCanonicalizer.php
+Emailer.php
+FakeContentGenerator.php
+Namer.php
+Probability.php
+README.md
+Slug.php
+Syllabeur.php
+UrlMaker.php
+composer.json

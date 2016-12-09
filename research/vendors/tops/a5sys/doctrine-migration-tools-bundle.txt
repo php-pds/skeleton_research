@@ -1,0 +1,6 @@
+Command/
+DependencyInjection/
+DoctrineMigrationToolsBundle.php
+LICENSE
+README.md
+composer.json

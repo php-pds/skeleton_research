@@ -1,0 +1,15 @@
+Datagrid/
+DependencyInjection/
+Filter/
+Pager/
+ProxyQuery/
+Resources/
+Tests/
+.gitignore
+.travis.yml
+CONTRIBUTING.md
+Makefile
+README.md
+SonataDatagridBundle.php
+composer.json
+phpunit.xml.dist

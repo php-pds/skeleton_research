@@ -1,0 +1,14 @@
+bin/
+config/
+plugins/
+src/
+tests/
+themes/
+webroot/
+.gitignore
+.htaccess
+.travis.yml
+README.md
+composer.json
+index.php
+phpunit.xml.dist

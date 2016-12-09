@@ -1,0 +1,6 @@
+design/standard/
+settings/
+README.md
+composer.json
+extension.xml
+ezinfo.php

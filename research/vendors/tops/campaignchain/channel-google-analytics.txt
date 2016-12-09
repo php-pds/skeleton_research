@@ -1,0 +1,8 @@
+Controller/
+DependencyInjection/
+Resources/
+CampaignChainChannelGoogleAnalyticsBundle.php
+LICENSE
+README.md
+campaignchain.yml
+composer.json

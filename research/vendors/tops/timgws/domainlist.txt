@@ -1,0 +1,5 @@
+src/DomainList/
+tests/
+composer.json
+phpunit.xml.dist
+readme.md

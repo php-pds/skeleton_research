@@ -1,0 +1,8 @@
+demos/Diggin/Http/Charset/
+src/Diggin/Http/Charset/
+tests/
+.gitignore
+.travis.yml
+README.md
+composer.json
+phpunit.xml

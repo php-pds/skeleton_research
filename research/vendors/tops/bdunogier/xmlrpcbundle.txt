@@ -1,0 +1,12 @@
+Controller/
+DependencyInjection/
+EventListener/
+Resources/
+Tests/
+XmlRpc/
+.travis.yml
+BDXmlRpcBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

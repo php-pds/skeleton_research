@@ -1,0 +1,14 @@
+.vagrant/machines/default/virtualbox/
+bin/
+devops/provision/
+src/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+Vagrantfile
+composer.json
+composer.lock
+composer.phar
+phpunit.xml.dist

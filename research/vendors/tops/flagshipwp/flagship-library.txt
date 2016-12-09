@@ -1,0 +1,11 @@
+admin/
+assets/
+classes/
+customizer/
+functions/
+templates/
+CHANGELOG.md
+README.md
+composer.json
+flagship-library.php
+license.txt

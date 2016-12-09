@@ -1,0 +1,4 @@
+contao-module/
+src/bbit/contao/article/translated/
+.gitignore
+composer.json

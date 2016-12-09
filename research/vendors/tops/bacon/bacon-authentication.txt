@@ -1,0 +1,9 @@
+docs/
+src/BaconAuthentication/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+Module.php
+README.md
+composer.json

@@ -1,0 +1,11 @@
+examples/
+src/Extensions/
+tests/
+.editorconfig
+.gitignore
+.travis.yml
+CONTRIBUTING.md
+LICENSE
+README.markdown
+composer.json
+phpunit.xml.dist

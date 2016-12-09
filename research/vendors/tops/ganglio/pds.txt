@@ -1,0 +1,8 @@
+src/ganglio/PDS/
+test/
+.codeclimate.yml
+.gitignore
+.travis.yml
+README.md
+composer.json
+phpunit.xml

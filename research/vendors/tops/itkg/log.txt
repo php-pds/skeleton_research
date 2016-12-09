@@ -1,0 +1,11 @@
+sample/
+src/Itkg/
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CHANGELOG-1.0.md
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

@@ -1,0 +1,15 @@
+.phan/
+build/
+docs/
+src/
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+Rakefile
+apigen.neon
+composer.json
+phpdox.xml.dist
+phpunit.xml.dist

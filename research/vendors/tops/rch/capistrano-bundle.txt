@@ -1,0 +1,17 @@
+Command/Deploy/
+DependencyInjection/
+Generator/
+Resources/
+Service/
+Test/
+Util/
+.gitignore
+.php_cs
+.travis.yml
+CONTRIBUTING.md
+LICENSE
+Makefile
+RCHCapistranoBundle.php
+README.md
+composer.json
+phpunit.xml.dist

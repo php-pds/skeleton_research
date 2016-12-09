@@ -1,0 +1,4 @@
+yii2wikiparser/
+.DS_Store
+README.md
+composer.json

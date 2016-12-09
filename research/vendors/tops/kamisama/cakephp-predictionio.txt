@@ -1,0 +1,9 @@
+Config/
+Model/Behavior/
+Test/
+.editorconfig
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json

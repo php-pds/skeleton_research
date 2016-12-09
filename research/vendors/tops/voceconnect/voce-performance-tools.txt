@@ -1,0 +1,10 @@
+config/deploy/
+.gitignore
+Capfile
+Gruntfile.js
+README.mdown
+composer.json
+composer.lock
+package.json
+readme.txt
+voce-performance-tools.php

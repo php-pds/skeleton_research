@@ -1,0 +1,10 @@
+app/
+docs/
+public/
+src/
+tests/
+.gitignore
+.htaccess
+LICENSE
+README.md
+composer.json

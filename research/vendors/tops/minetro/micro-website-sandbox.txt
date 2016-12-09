@@ -1,0 +1,6 @@
+app/
+www/
+.gitattributes
+.gitignore
+README.md
+composer.json

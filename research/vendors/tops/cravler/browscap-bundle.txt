@@ -1,0 +1,13 @@
+Command/
+DependencyInjection/
+Resources/config/
+Tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+Browscap.php
+BrowscapBundle.php
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

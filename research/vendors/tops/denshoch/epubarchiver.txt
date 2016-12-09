@@ -1,0 +1,5 @@
+src/Denshoch/Kagyu/OCF/
+test/
+README.md
+composer.json
+phpunit.xml.dist

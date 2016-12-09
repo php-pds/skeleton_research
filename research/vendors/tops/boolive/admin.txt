@@ -1,0 +1,11 @@
+config/
+main/
+menu_main/
+menu_operations/
+menu_side/
+res/
+README.md
+admin.info
+admin.php
+admin.tpl
+composer.json

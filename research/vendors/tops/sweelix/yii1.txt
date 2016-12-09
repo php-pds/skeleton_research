@@ -1,0 +1,15 @@
+behaviors/
+caching/dependencies/
+commands/
+components/
+filters/
+icons/
+js/
+migrations/
+validators/
+web/
+.gitignore
+CHANGELOG.md
+LICENSE.md
+README.md
+composer.json

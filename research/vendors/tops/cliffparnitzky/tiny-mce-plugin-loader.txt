@@ -1,0 +1,6 @@
+system/modules/TinyMcePluginLoader/
+.gitattributes
+.gitignore
+README.md
+components.png
+composer.json

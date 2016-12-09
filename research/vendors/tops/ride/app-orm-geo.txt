@@ -1,0 +1,6 @@
+config/
+data/geo/
+src/ride/
+README.md
+composer.json
+ride.json

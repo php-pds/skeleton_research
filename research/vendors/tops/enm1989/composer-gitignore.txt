@@ -1,0 +1,5 @@
+src/
+test/unit/Composer/GitIgnore/Command/
+.gitignore
+composer.json
+composer.lock

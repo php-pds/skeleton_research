@@ -1,0 +1,9 @@
+src/
+tests/Integration/
+.gitattributes
+.gitignore
+CHANGE.md
+LICENSE.md
+README.md
+composer.json
+phpunit.xml.dist

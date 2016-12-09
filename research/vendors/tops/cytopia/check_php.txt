@@ -1,0 +1,8 @@
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+check_php
+composer.json
+icingaexchange.yml

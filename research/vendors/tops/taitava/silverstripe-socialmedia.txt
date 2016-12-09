@@ -1,0 +1,8 @@
+_config/
+code/
+javascript/
+templates/
+vendor/simple-linkedinphp/
+LICENSE
+README.md
+composer.json

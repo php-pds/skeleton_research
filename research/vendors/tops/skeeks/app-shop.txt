@@ -1,0 +1,12 @@
+_ide/
+backup/db/
+common/
+console/
+frontend/
+tests/
+LICENSE.md
+README.md
+composer.json
+composer.lock
+yii
+yii.bat

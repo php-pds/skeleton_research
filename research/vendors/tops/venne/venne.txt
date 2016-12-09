@@ -1,0 +1,16 @@
+Resources/
+bin/
+build/
+src/
+tests/src/
+.gitattributes
+.gitignore
+.travis.yml
+Gruntfile.js
+bower.json
+build.xml
+composer.json
+license.md
+package.json
+readme.md
+venne-phing.xml

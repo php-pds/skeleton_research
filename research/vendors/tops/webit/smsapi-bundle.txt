@@ -1,0 +1,6 @@
+Command/
+DependencyInjection/
+Resources/config/
+.gitignore
+WebitSmsApiBundle.php
+composer.json

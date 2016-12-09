@@ -1,0 +1,8 @@
+src/
+.gitattributes
+.gitignore
+LICENSE
+README.md
+composer.json
+phpcodesniffer
+phpcodesniffer.xml

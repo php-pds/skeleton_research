@@ -1,0 +1,17 @@
+Controller/
+DependencyInjection/
+Entity/
+Exception/
+Form/
+Generic/
+Lib/
+Menu/
+Repository/
+Resources/
+Service/
+Tests/Lib/Mailing/
+Twig/Extension/
+HavenCoreBundle.php
+LICENSE
+README.md
+composer.json

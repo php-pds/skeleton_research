@@ -1,0 +1,6 @@
+src/Matmar10/Money/
+tests/Matmar10/Money/Tests/Entity/
+.gitignore
+README.md
+composer.json
+phpunit.xml.dist

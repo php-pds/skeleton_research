@@ -1,0 +1,12 @@
+avatar/
+friendship/
+membership/
+message/
+profile/
+registration/
+role/
+user/
+usergroup/
+.gitignore
+README.md
+composer.json

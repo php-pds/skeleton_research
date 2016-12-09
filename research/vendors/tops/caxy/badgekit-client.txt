@@ -1,0 +1,12 @@
+build/
+res/
+src/
+.gitignore
+CHANGELOG.md
+CONDUCT.md
+CONTRIBUTING.md
+LICENSE.md
+Makefile
+README.md
+composer.json
+phpunit.xml.dist

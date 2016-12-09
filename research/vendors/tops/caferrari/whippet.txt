@@ -1,0 +1,10 @@
+app/
+tests/
+whippet/
+.gitignore
+.htaccess
+.travis.yml
+README.md
+composer.json
+index.php
+phpunit.xml

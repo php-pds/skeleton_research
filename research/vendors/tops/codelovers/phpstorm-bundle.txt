@@ -1,0 +1,10 @@
+Command/
+DependencyInjection/
+Model/
+Resources/
+Service/
+.gitignore
+CodeLoversPhpStormBundle.php
+LICENSE
+README.md
+composer.json

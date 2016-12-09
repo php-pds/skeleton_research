@@ -1,0 +1,5 @@
+.gitignore
+Minify_HTML.php
+README.md
+View.php
+composer.json

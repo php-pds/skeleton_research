@@ -1,0 +1,14 @@
+Assets/
+Controller/
+Provider/
+Test/functional/
+Themes/default/
+View/admin/pages/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+bootstrap.php
+composer.json
+composer.lock
+phpunit.xml.dist

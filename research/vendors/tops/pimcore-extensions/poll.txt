@@ -1,0 +1,8 @@
+controllers/
+docs/
+models/Poll/
+static/
+views/scripts/frontend/
+README.md
+composer.json
+plugin.xml

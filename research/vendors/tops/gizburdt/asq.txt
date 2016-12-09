@@ -1,0 +1,6 @@
+assets/
+classes/
+views/
+asq.php
+composer.json
+license.txt

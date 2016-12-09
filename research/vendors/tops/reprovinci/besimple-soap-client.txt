@@ -1,0 +1,6 @@
+src/BeSimple/SoapClient/
+tests/
+.gitignore
+CONTRIBUTORS.md
+composer.json
+phpunit.xml.dist

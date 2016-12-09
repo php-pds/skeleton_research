@@ -1,0 +1,11 @@
+spec/Way/Generators/
+src/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+behat.yml
+composer.json
+phpunit.xml
+provides.json
+readme.md

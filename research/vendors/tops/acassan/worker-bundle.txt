@@ -1,0 +1,13 @@
+Command/
+DependencyInjection/
+Event/
+Exception/
+Provider/
+Queue/
+.gitignore
+LICENSE
+README.md
+WorkerBundle.php
+WorkerBundleEvents.php
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,6 @@
+DependencyInjection/
+Resources/
+Tests/Controller/
+README.md
+composer.json
+mch0licOpenFlashChartBundle.php

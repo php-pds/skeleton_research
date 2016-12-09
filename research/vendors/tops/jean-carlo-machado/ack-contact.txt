@@ -1,0 +1,14 @@
+config/
+src/AckContact/
+test/
+view/ack-contact/
+.gitignore
+.travis.yml
+LICENSE.txt
+Module.php
+autoload_classmap.php
+autoload_function.php
+autoload_register.php
+composer.json
+config.module.config.php
+phpunit.xml

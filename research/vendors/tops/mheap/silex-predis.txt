@@ -1,0 +1,13 @@
+bin/
+doc/
+example/
+src/SilexPredis/
+tests/
+.gitignore
+.travis.yml
+MIT-LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist
+vendors.sh

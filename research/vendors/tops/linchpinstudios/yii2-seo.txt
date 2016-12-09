@@ -1,0 +1,9 @@
+controllers/
+migrations/
+models/
+views/
+widgets/
+AutoloadExample.php
+Module.php
+README.md
+composer.json

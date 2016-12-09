@@ -1,0 +1,7 @@
+css/
+images/
+README.md
+composer.json
+markaspot_ui.info.yml
+markaspot_ui.libraries.yml
+markaspot_ui.module

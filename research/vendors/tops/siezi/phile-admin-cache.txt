@@ -1,0 +1,8 @@
+Classes/
+locales/
+templates/caches/
+.gitignore
+LICENSE
+README.md
+composer.json
+config.php

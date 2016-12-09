@@ -1,0 +1,6 @@
+src/SiteMenu/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock

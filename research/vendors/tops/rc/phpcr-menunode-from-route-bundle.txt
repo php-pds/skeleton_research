@@ -1,0 +1,13 @@
+Controller/
+DependencyInjection/
+Events/
+Resources/
+Services/
+Tests/
+.gitignore
+.travis.yml
+RCPHPCRMenuNodeFromRoutesBundle.php
+README.md
+composer.json
+composer.phar
+phpunit.xml.dist

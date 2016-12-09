@@ -1,0 +1,7 @@
+.idea/
+migration/
+temp/
+LICENSE
+README.md
+composer.json
+icalender.php

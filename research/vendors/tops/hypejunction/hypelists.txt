@@ -1,0 +1,16 @@
+classes/hypeJunction/Lists/
+languages/
+views/default/
+.gitattributes
+.gitignore
+CHANGELOG.md
+Gruntfile.js
+LICENSE
+README.md
+autoloader.php
+composer.json
+manifest.xml
+package.json
+release.md
+start.php
+views.php

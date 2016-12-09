@@ -1,0 +1,16 @@
+Configuration/
+Migrations/
+Resources/
+.babelrc
+.bowerrc
+.gitignore
+.jshintrc
+.nvmrc
+LICENSE.txt
+README.md
+bower.json
+circle.yml
+composer.json
+config.yaml
+gulpfile.babel.js
+package.json

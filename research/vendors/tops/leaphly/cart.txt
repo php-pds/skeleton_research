@@ -1,0 +1,7 @@
+src/Leaphly/Cart/
+tests/
+.gitignore
+.travis.yml
+README.markdown
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,6 @@
+config/
+src/Controller/Component/
+.gitignore
+LICENSE
+README.md
+composer.json

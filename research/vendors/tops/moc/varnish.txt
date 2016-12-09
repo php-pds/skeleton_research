@@ -1,0 +1,9 @@
+Classes/MOC/Varnish/
+Configuration/
+Documentation/
+Resources/
+Tests/Unit/
+.travis.yml
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,14 @@
+Authentication/Token/
+DependencyInjection/
+Resources/
+Security/Authentication/Api/
+Tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+RybakDigitalAuthenticationBundle.php
+circle.yml
+circleci.phpunit.xml
+composer.json
+travis.phpunit.xml

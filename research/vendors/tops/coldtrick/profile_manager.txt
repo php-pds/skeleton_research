@@ -1,0 +1,17 @@
+actions/
+classes/ColdTrick/ProfileManager/
+languages/
+lib/
+screenshots/
+vendors/jquery_ui_multiselect/
+views/default/
+.gitignore
+.travis.yml
+CHANGES.txt
+README.md
+activate.php
+composer.json
+composer.lock
+deactivate.php
+manifest.xml
+start.php

@@ -1,0 +1,5 @@
+src/seo_hack_bugbuster/
+CHANGELOG.md
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,13 @@
+Controller/
+DataFixtures/ORM/
+DependencyInjection/
+Entity/
+Features/
+Form/
+Processor/
+Resources/
+Security/
+Service/
+Tests/
+CanalTPSamEcoreUserManagerBundle.php
+composer.json

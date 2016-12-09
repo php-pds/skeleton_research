@@ -1,0 +1,13 @@
+actions/
+console/
+controllers/
+helpers/
+migrations/
+models/
+searches/
+widgets/autocomplete/
+.gitignore
+LICENSE
+Module.php
+README.md
+composer.json

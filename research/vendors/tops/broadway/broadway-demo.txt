@@ -1,0 +1,15 @@
+ansible/
+app/
+docker/app/
+src/
+test/
+web/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+Vagrantfile
+composer.json
+docker-compose.yml
+phpunit.xml.dist
+run.sh

@@ -1,0 +1,10 @@
+Classes/
+Configuration/TCA/Overrides/
+.gitignore
+.php_cs
+LICENSE.txt
+README.md
+composer.json
+ext_emconf.php
+ext_icon.png
+ext_localconf.php

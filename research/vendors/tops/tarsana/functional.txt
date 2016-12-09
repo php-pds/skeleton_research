@@ -1,0 +1,13 @@
+docs/
+src/
+tests/
+.editorconfig
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+generate-docs.php
+phpunit.xml
+temp.txr
+try.php

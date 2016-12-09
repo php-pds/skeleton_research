@@ -1,0 +1,5 @@
+Tests/
+src/Pentagonal/Phpass/
+.travis.yml
+README.MD
+composer.json

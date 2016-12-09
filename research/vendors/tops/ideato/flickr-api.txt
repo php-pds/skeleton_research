@@ -1,0 +1,9 @@
+DataFixtures/Files/
+Model/
+Test/
+Tests/
+Wrapper/
+README.md
+bootstrap.php
+composer.json
+phpunit.xml

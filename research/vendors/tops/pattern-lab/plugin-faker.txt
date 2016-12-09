@@ -1,0 +1,5 @@
+src/PatternLab/Faker/
+.editorconfig
+LICENSE
+README.md
+composer.json

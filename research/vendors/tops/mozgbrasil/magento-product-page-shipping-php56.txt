@@ -1,0 +1,7 @@
+app/
+js/mozg_productpageshipping/
+skin/
+LICENSE
+README.md
+composer.json
+modman

@@ -1,0 +1,7 @@
+res/
+.gitignore
+GMapsMarker.php
+composer.json
+index.php
+marker_shadow.png
+readme.md

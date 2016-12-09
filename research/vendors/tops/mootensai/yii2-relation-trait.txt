@@ -1,0 +1,6 @@
+messages/
+.gitignore
+README.md
+RelationTrait.php
+composer.json
+composer.lock

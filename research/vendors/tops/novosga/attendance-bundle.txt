@@ -1,0 +1,6 @@
+Controller/
+Resources/
+LICENSE
+NovosgaAttendanceBundle.php
+README.md
+composer.json

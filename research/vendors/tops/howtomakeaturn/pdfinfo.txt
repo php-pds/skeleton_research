@@ -1,0 +1,6 @@
+examples/
+src/Howtomakeaturn/PDFInfo/
+.gitignore
+LICENSE.txt
+README.md
+composer.json

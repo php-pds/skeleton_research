@@ -1,0 +1,11 @@
+Controller/
+DependencyInjection/
+Model/
+Resources/config/
+spec/FSi/Bundle/AdminPositionableBundle/
+.gitignore
+.travis.yml
+FSiAdminPositionableBundle.php
+LICENSE.md
+README.md
+composer.json

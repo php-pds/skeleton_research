@@ -1,0 +1,4 @@
+lib/Skeleton/Core/
+LICENSE
+README.md
+composer.json

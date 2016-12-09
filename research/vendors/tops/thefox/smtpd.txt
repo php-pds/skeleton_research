@@ -1,0 +1,12 @@
+src/TheFox/
+tests/TheFox/Test/
+.ackrc
+.editorconfig
+.gitignore
+.travis.yml
+Makefile
+README.md
+composer.json
+example.php
+phpunit.xml
+smtpd.sublime-project

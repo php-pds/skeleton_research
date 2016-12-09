@@ -1,0 +1,17 @@
+Command/
+Controller/
+DatatypeNormalizer/
+DependencyInjection/
+Entity/
+EventListener/
+Generator/
+Mapping/
+Resources/
+Serializer/
+.gitignore
+HydraApi.php
+HydraBundle.php
+JsonLdResponse.php
+LICENSE
+README.md
+composer.json

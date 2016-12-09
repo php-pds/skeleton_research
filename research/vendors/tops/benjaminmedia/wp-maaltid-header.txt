@@ -1,0 +1,7 @@
+fonts/
+js/
+README.md
+composer.json
+maaltidHeader.php
+style.css
+wp-maaltid-header.php

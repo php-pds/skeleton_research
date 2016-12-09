@@ -1,0 +1,9 @@
+library/Cog/
+tests/
+vendor/
+.gitignore
+LICENSE.md
+README.md
+composer.json
+composer.lock
+phpunit.xml

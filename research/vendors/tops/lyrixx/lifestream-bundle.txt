@@ -1,0 +1,12 @@
+Controller/
+DependencyInjection/
+Resources/
+Tests/DependencyInjection/CompilerPass/
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENSE
+LyrixxLifestreamBundle.php
+README.md
+composer.json
+phpunit.xml

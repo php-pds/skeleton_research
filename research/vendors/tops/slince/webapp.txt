@@ -1,0 +1,8 @@
+apps/default/
+bin/
+config/
+src/
+tmp/
+web/
+.gitignore
+composer.json

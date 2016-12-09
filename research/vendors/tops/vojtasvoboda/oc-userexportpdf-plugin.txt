@@ -1,0 +1,11 @@
+assets/images/
+behaviors/
+config/
+lang/
+updates/
+.gitignore
+LICENSE.md
+Plugin.php
+README.md
+composer.json
+composer.lock

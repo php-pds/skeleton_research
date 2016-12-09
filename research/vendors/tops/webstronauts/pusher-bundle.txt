@@ -1,0 +1,14 @@
+Controller/
+DependencyInjection/
+Event/
+Resources/
+tests/
+.editorconfig
+.gitignore
+.scrutinizer.yml
+.travis.yml
+Events.php
+README.md
+WebstronautsPusherBundle.php
+composer.json
+phpunit.xml.dist

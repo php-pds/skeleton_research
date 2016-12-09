@@ -1,0 +1,10 @@
+demo/
+lib/Doctrine/Search/
+tests/
+.gitignore
+.travis.yml
+LICENCE
+README.markdown
+composer.json
+composer.lock
+phpunit.xml.dist

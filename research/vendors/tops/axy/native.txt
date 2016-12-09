@@ -1,0 +1,16 @@
+arrays/
+doc/
+errors/
+helpers/
+tests/
+.gitignore
+LICENSE
+Numerics.php
+README.md
+Strings.php
+composer.json
+cs.sh
+index.php
+phpmd.sh
+phpmd.xml.dist
+phpunit.xml.dist

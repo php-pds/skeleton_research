@@ -1,0 +1,13 @@
+Screenshots/
+mopidy_spotmop/
+src/
+.gitignore
+.htaccess
+Gruntfile.js
+LICENSE.md
+MANIFEST.in
+README.md
+package.json
+setup.cfg
+setup.py
+spotmop.php

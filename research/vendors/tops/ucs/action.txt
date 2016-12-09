@@ -1,0 +1,15 @@
+Exception/
+Manager/
+Provider/
+Tests/
+.gitignore
+ActionCollection.php
+ActionEvent.php
+ActionEvents.php
+ActionInterface.php
+ActionSubjectInterface.php
+ConfigurableActionInterface.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

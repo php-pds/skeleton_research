@@ -1,0 +1,12 @@
+Test/
+docs/
+examples/
+src/
+.gitignore
+CONTRIBUTORS.md
+LICENSE
+README.md
+Vagrantfile
+composer.json
+composer.lock
+config.yml

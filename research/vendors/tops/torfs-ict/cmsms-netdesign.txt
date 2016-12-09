@@ -1,0 +1,13 @@
+libs/
+templates/
+NetDesign.module.php
+README.md
+action.defaultadmin.php
+action.export.php
+action.import.php
+action.startup.php
+composer.json
+event.Core.SmartyPreCompile.php
+index.html
+method.install.php
+method.uninstall.php

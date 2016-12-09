@@ -1,0 +1,6 @@
+bin/
+features/
+.gitignore
+README.md
+behat.dist
+composer.json

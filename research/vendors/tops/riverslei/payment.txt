@@ -1,0 +1,8 @@
+examples/
+src/
+tests/
+.gitignore
+README.md
+autoload.php
+codeception.yml
+composer.json

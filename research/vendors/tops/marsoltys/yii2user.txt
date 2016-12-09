@@ -1,0 +1,17 @@
+assets/
+components/
+controllers/
+data/
+mail/
+messages/
+migrations/
+models/
+views/
+.gitignore
+Bootstrap.php
+Module.php
+README.md
+composer.json
+config.php
+config.php.example
+contributors.txt

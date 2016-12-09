@@ -1,0 +1,17 @@
+Controller/
+DependencyInjection/
+Doctrine/ORM/
+EventListener/
+Form/
+Model/
+Resources/
+.gitignore
+.php_cs
+.phpspec_cs
+.travis.yml
+DoSTaggingBundle.php
+LICENSE
+README.md
+composer.json
+cs-fixer
+phpspec.yml

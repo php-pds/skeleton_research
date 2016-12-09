@@ -1,0 +1,12 @@
+data/
+lib/
+licenses/
+test/
+.gitignore
+.travis.yml
+CHANGELOG
+COPYRIGHT
+LICENSE
+README.md
+composer.json
+package.xml.tmpl

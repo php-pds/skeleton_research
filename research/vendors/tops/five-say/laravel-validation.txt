@@ -1,0 +1,4 @@
+src/FiveSay/
+.gitignore
+README.md
+composer.json

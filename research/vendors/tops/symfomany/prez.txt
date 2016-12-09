@@ -1,0 +1,17 @@
+.src/Hetic/
+app/
+bin/
+docs/api/
+mysql/
+pdfs/
+src/Hetic/
+web/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+composer.phar
+php-cs-fixer

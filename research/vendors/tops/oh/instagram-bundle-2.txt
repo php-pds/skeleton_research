@@ -1,0 +1,9 @@
+Adaptor/
+Controller/
+DependencyInjection/
+Resources/
+TokenHandler/
+.gitignore
+OhInstagramBundle.php
+README.md
+composer.json

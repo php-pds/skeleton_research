@@ -1,0 +1,9 @@
+bin/
+etc/
+magento-bash-ci @ d9726cd
+src/
+.gitignore
+.gitmodules
+README.md
+composer.json
+modman

@@ -1,0 +1,9 @@
+lib/Philasearch/RouteHelper/
+tests/
+.gitignore
+.travis.yml
+Gemfile
+Guardfile
+README.md
+composer.json
+phpunit.xml

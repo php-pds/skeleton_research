@@ -1,0 +1,11 @@
+examples/
+src/NyanCat/
+tests/
+.gitignore
+.travis.yml
+ChangeLog.md
+LICENSE
+README.md
+composer.json
+examples.png
+phpunit.xml.dist

@@ -1,0 +1,7 @@
+languages/
+views/default/plugins/river_privacy/
+CHANGES.txt
+README.md
+composer.json
+manifest.xml
+start.php

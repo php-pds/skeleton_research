@@ -1,0 +1,13 @@
+examples/
+spec/SunMailer/
+src/
+vendor/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+autoload.php
+composer.json
+composer.lock
+config.php
+publish

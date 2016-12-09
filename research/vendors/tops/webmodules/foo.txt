@@ -1,0 +1,17 @@
+LOG.js
+URI.js
+bootstrap.js
+bower.json
+composer.json
+define.js
+encrypt.js
+foo.back.js
+foo.js
+foo.min.js
+jsonutil.js
+module.json
+module.properties
+polyfills.date.js
+polyfills.js
+stacktrace.js
+tmpl.js

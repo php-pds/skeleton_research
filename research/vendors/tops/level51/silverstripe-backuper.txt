@@ -1,0 +1,8 @@
+_config/
+code/
+javascript/
+vendor/
+.gitignore
+LICENSE
+README.md
+composer.json

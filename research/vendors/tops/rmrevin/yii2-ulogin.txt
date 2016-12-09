@@ -1,0 +1,9 @@
+.gitignore
+AuthAction.php
+CHANGELOG.md
+Exception.php
+README.md
+ULogin.php
+Widget.php
+composer.json
+composer.lock

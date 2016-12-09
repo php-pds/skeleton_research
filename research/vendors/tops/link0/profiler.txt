@@ -1,0 +1,12 @@
+bin/
+src/Link0/Profiler/
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE.md
+README.md
+build.xml
+composer.json
+composer.lock
+phpunit.xml.dist

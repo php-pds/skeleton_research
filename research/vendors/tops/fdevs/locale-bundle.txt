@@ -1,0 +1,4 @@
+Resources/
+FDevsLocaleBundle.php
+README.md
+composer.json

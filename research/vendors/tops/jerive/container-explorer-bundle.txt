@@ -1,0 +1,9 @@
+DataCollector/
+DependencyInjection/
+Resources/
+Tests/Controller/
+.gitignore
+JeriveContainerExplorerBundle.php
+LICENSE
+README.md
+composer.json

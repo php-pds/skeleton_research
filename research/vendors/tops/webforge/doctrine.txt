@@ -1,0 +1,15 @@
+bin/
+docs/
+etc/
+lib/
+resources/db/
+tests/Webforge/Doctrine/
+.coveralls.yml
+.gitattributes
+.gitignore
+.travis.yml
+README.md
+bootstrap.php
+composer.json
+phpunit.xml.dist
+rmt.json

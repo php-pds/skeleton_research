@@ -1,0 +1,8 @@
+i18n/
+libs/ViewerJS/
+DocViewer.i18n.magic.php
+DocViewer.i18n.php
+DocViewer.php
+DocViewer_body.php
+README.md
+composer.json

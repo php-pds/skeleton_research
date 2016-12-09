@@ -1,0 +1,6 @@
+code/
+getid3/
+interfaces/
+README.md
+_config.php
+composer.json

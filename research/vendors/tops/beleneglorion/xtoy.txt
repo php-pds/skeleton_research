@@ -1,0 +1,9 @@
+sample/
+src/XtoY/
+tests/
+.gitignore
+LICENSE
+README.md
+TODO.md
+composer.json
+phpunit.xml

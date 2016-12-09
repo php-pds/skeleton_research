@@ -1,0 +1,9 @@
+DependencyInjection/
+Entity/
+Form/
+Resources/
+.gitignore
+FileDataBundle.php
+LICENSE
+README.md
+composer.json

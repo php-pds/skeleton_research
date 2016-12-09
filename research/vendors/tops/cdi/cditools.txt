@@ -1,0 +1,7 @@
+config/
+data/
+nbproject/
+src/CdiTools/
+Module.php
+README.md
+composer.json

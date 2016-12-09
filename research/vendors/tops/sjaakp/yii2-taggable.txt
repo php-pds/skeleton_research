@@ -1,0 +1,9 @@
+.gitignore
+LICENSE
+README.md
+TagBehavior.php
+TagEditor.php
+TagEditorAsset.php
+TagSuggestAction.php
+TaggableBehavior.php
+composer.json

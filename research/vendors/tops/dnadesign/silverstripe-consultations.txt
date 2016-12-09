@@ -1,0 +1,12 @@
+_config/
+code/
+css/
+js/
+templates/
+.editorconfig
+.scrutinizer.yml
+LICENSE
+README.md
+_config.php
+composer.json
+composer.lock

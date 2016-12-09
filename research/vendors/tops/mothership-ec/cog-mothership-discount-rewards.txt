@@ -1,0 +1,10 @@
+resources/view/discount_reward/email/
+src/
+translations/
+.gitignore
+CHANGELOG.md
+CODE_OF_CONDUCT.md
+LICENSE.md
+README.md
+composer.json
+composer.lock

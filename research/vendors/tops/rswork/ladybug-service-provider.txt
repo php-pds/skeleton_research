@@ -1,0 +1,6 @@
+src/
+views/collector/
+.gitignore
+LICENSE
+README.md
+composer.json

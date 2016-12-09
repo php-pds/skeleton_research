@@ -1,0 +1,11 @@
+ansible/
+bin/
+src/
+.dockerignore
+.gitignore
+.scrutinizer.yml
+Dockerfile
+LICENSE
+README.md
+TODO
+composer.json

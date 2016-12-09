@@ -1,0 +1,4 @@
+src/gburtini/HumanizePHP/
+README.md
+composer.json
+example.php

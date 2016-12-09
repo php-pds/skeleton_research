@@ -1,0 +1,7 @@
+config/
+src/SmxGoogleAuth/
+view/smx-google-auth/
+LICENSE
+Module.php
+README.md
+composer.json

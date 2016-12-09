@@ -1,0 +1,4 @@
+log/
+Client.php
+README.md
+composer.json

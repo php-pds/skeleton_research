@@ -1,0 +1,8 @@
+Classes/KayStrobach/DevelopmentTools/
+Configuration/
+Documentation/Images/
+Resources/
+Tests/Unit/Domain/Model/
+LICENSE
+README.md
+composer.json

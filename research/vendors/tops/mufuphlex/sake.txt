@@ -1,0 +1,7 @@
+src/Mufuphlex/Sake/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+composer.json
+phpunit.xml.dist

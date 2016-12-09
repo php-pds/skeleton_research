@@ -1,0 +1,7 @@
+config/
+l10n/
+src/ride/application/orm/calendar/entry/
+.gitignore
+README.md
+composer.json
+ride.json

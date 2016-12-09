@@ -1,0 +1,3 @@
+src/SuricateBS3/
+README.md
+composer.json

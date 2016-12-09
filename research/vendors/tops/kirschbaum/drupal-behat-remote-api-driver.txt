@@ -1,0 +1,12 @@
+bin/
+doc/
+features/
+lib/Kirschbaum/DrupalBehatRemoteAPIDriver/
+test/
+.env.example
+.gitignore
+.travis.yml
+README.md
+behat.yml
+composer.json
+phpunit.xml

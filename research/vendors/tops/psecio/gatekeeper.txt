@@ -1,0 +1,14 @@
+bin/
+docs/
+examples/
+migrations/
+src/Psecio/Gatekeeper/
+tests/
+.env.dist
+.gitignore
+.travis.yml
+README.md
+composer.json
+mkdocs.yml
+phinx.dist.yml
+phpunit.xml

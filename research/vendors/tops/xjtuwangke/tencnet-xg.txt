@@ -1,0 +1,6 @@
+other/Xg-Push-SDK-PHP-1.1.2/
+src/TencentXinge/
+tests/
+README.md
+composer.json
+phpunit.xml

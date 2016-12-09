@@ -1,0 +1,15 @@
+Docs/
+config/Migrations/
+src/Model/
+tests/
+.editorconfig
+.gitattributes
+.gitignore
+.semver
+.travis.yml
+CONTRIBUTING.md
+LICENSE.txt
+README.md
+VERSION
+composer.json
+phpunit.xml.dist

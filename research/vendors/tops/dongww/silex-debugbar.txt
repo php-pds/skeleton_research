@@ -1,0 +1,5 @@
+example/
+src/Dongww/Silex/Provider/
+README.md
+composer.json
+debug-bar.jpg

@@ -1,0 +1,8 @@
+DependencyInjection/
+Extension/
+Model/
+Provider/
+Resources/config/
+README.md
+SymEditMenuBundle.php
+composer.json

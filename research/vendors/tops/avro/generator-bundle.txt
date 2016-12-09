@@ -1,0 +1,12 @@
+Command/
+DependencyInjection/
+Generator/
+Manipulator/
+Resources/
+Templates/
+Twig/
+Yaml/
+.gitignore
+AvroGeneratorBundle.php
+README.md
+composer.json

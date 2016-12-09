@@ -1,0 +1,4 @@
+Gravatar.php
+LICENSE
+README.md
+composer.json

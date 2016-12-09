@@ -1,0 +1,10 @@
+bin/
+lib/TwentyFifth/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+docker-compose.yml

@@ -1,0 +1,4 @@
+src/Johnstyle/pQuery/
+LICENSE
+README.md
+composer.json

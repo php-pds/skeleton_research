@@ -1,0 +1,13 @@
+examples/
+.gitignore
+ClickTest.php
+CodeceptionAction.php
+Curl.php
+FormTest.php
+LICENSE
+MethodParser.php
+Mock.php
+README.md
+UnitTest.php
+UrlTest.php
+composer.json

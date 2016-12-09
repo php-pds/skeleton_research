@@ -1,0 +1,7 @@
+.gitignore
+LICENSE.md
+README.md
+common.inc.php
+composer.json
+custom-global-navigation-flyout-items.js.php
+manifest.xml

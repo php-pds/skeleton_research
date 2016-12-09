@@ -1,0 +1,8 @@
+DependencyInjection/
+Factory/
+Resources/
+Service/
+.gitignore
+README.md
+ScandioPaginatorBundle.php
+composer.json

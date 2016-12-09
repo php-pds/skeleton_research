@@ -1,0 +1,15 @@
+PEAR/
+examples/
+tests/
+.gitignore
+.travis.yml
+ChangeLog
+LICENSE
+LICENSE_PLUGINS
+composer.json
+package.php
+package.xml
+package_PFM1.php
+package_PFM1.xml
+package_plugins.php
+package_plugins.xml

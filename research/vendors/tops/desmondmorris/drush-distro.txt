@@ -1,0 +1,9 @@
+templates/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json
+distro.drush.inc
+phpunit.xml.dist
+wercker.yml

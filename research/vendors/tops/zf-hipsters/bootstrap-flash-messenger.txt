@@ -1,0 +1,7 @@
+config/
+src/FlashMessenger/
+view/flash-messenger/
+.gitignore
+Module.php
+README.md
+composer.json

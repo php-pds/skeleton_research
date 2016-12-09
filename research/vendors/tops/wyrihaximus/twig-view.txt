@@ -1,0 +1,17 @@
+config/
+docs/images/
+src/
+tests/
+.gitattributes
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CONTRIBUTING.md
+LICENSE.txt
+Makefile
+README.md
+composer.json
+composer.lock
+phpcs.xml
+phpunit.xml.dist
+quickstart.md

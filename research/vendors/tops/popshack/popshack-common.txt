@@ -1,0 +1,6 @@
+bin/
+lib/Popshack/Common/
+.gitattributes
+.gitignore
+README.md
+composer.json

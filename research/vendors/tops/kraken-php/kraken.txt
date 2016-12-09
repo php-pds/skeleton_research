@@ -1,0 +1,10 @@
+app/Runtime/Container/Main/
+data/
+test/
+.gitattributes
+.gitignore
+README.md
+composer.json
+kraken
+kraken.server
+phpunit.xml

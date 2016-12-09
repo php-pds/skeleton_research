@@ -1,0 +1,13 @@
+src/
+templates/
+tests/
+web/
+.gitignore
+.travis.yml
+Dockerfile
+LICENSE
+Makefile
+README.md
+composer.json
+phpunit.xml
+swarm.json

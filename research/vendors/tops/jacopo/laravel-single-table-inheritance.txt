@@ -1,0 +1,8 @@
+examples/animals/
+src/
+tests/
+.travis.yml
+README.md
+composer.json
+composer.lock
+phpunit.xml

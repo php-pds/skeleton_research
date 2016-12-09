@@ -1,0 +1,6 @@
+src/hexpang/tencent/
+.gitignore
+LICENSE
+README.md
+composer.json
+test.php

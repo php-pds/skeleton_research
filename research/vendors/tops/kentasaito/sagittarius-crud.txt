@@ -1,0 +1,9 @@
+config/
+controllers/
+direct/img/
+libraries/
+views/demo/
+LICENSE
+README.md
+classicmodels.dump
+composer.json

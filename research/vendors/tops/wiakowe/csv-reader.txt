@@ -1,0 +1,8 @@
+src/Wiakowe/CsvReader/
+tests/Wiakowe/Tests/CsvReader/
+.gitignore
+.travis.yml
+README.rst
+composer.json
+composer.lock
+phpunit.xml.dist

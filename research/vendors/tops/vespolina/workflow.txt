@@ -1,0 +1,13 @@
+doc/
+example/
+lib/Vespolina/Workflow/
+spec/Vespolina/Workflow/
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpspec.yml
+phpunit.xml.dist

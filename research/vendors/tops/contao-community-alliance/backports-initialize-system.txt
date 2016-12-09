@@ -1,0 +1,5 @@
+module/
+src/ContaoCommunityAlliance/Contao/Backports/
+.gitignore
+README.md
+composer.json

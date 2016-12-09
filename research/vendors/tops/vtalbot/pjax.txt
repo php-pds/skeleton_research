@@ -1,0 +1,5 @@
+src/VTalbot/Pjax/
+.gitignore
+composer.json
+provides.json
+readme.md

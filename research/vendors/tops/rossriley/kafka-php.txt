@@ -1,0 +1,10 @@
+examples/
+scripts/
+src/Kafka/
+tests/
+.gitignore
+LICENSE
+NOTICE
+README.md
+composer.json
+test

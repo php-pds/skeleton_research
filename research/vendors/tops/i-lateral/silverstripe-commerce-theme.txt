@@ -1,0 +1,13 @@
+css/
+icons/
+images/
+javascript/
+less/
+templates/
+.gitignore
+LICENSE
+README.md
+bower.json
+changelog.md
+composer.json
+koala-config.json

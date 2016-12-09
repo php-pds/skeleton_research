@@ -1,0 +1,7 @@
+seltests/
+src/GeoServices/
+tests/src/GeoServices/
+.gitignore
+Fortest.php
+README.md
+composer.json

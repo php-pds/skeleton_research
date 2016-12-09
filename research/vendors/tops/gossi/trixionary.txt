@@ -1,0 +1,15 @@
+.settings/
+res/database/
+src/
+tests/
+.gitignore
+.php_cs
+.project
+LICENSE
+README.md
+api.json
+composer.json
+generator.json
+phpunit.xml.dist
+propel.yaml
+puli.json

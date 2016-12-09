@@ -1,0 +1,9 @@
+.gitignore
+LICENSE
+README.md
+compiler.jar
+composer.json
+minify-options.php.dist
+minify.php
+yuicompressor-2.4.8.jar
+yuicompressor.jar

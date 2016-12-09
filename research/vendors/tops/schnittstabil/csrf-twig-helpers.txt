@@ -1,0 +1,10 @@
+examples/slim-stp/
+src/
+tests/
+.codeclimate.yml
+.gitattributes
+.gitignore
+.travis.yml
+composer.json
+license
+readme.md

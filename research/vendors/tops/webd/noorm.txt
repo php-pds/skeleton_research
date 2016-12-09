@@ -1,0 +1,8 @@
+doc/
+src/noorm/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,6 @@
+config/
+src/SocialogSEO/
+view/socialog-seo/
+Module.php
+README.md
+composer.json

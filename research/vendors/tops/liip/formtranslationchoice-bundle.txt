@@ -1,0 +1,9 @@
+DependencyInjection/
+Form/Type/
+Resources/
+Translation/
+Validator/Constraints/
+LICENSE
+LiipFormTranslationChoiceBundle.php
+README.md
+composer.json

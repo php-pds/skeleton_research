@@ -1,0 +1,11 @@
+DependencyInjection/
+Entity/
+Form/
+Lib/
+Model/
+ORM/
+Resources/
+LICENSE
+README.md
+UnifikDoctrineBehaviorsBundle.php
+composer.json

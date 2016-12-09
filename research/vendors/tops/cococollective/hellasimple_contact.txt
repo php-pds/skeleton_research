@@ -1,0 +1,6 @@
+config/install/
+.gitignore
+LICENSE.txt
+composer.json
+hellasimple_contact.info.yml
+hellasimple_contact.install

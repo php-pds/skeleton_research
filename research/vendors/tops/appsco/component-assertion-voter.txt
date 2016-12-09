@@ -1,0 +1,7 @@
+src/BWC/Component/AssertionVoter/
+test/
+.gitignore
+README.md
+autoload.php
+composer.json
+phpunit.xml

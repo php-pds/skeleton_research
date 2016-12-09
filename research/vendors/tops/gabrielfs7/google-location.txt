@@ -1,0 +1,6 @@
+public/
+src/GSoares/Google/Location/
+.gitignore
+README.md
+composer.json
+composer.lock

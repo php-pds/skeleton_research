@@ -1,0 +1,9 @@
+DependencyInjection/
+Entity/
+Resources/
+.gitignore
+CampaignChainLocationMailChimpBundle.php
+LICENSE
+README.md
+campaignchain.yml
+composer.json

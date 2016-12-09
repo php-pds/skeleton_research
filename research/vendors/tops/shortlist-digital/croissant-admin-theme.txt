@@ -1,0 +1,8 @@
+admin/
+assets/images/
+css/
+js/
+.gitignore
+composer.json
+croissant-admin-theme.php
+readme.md

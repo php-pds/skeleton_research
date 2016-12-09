@@ -1,0 +1,4 @@
+src/ErrorReporter/
+LICENSE
+README.md
+composer.json

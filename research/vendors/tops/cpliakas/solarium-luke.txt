@@ -1,0 +1,3 @@
+src/Solarium/QueryType/Luke/
+README.md
+composer.json

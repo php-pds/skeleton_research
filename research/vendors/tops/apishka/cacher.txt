@@ -1,0 +1,11 @@
+source/Apishka/Cacher/
+tests/Apishka/Cacher/
+.apishka.php
+.gitattributes
+.gitignore
+.php_cs
+.travis.yml
+composer.json
+composer.lock
+phpunit.php
+phpunit.sample.xml

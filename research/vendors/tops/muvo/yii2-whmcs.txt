@@ -1,0 +1,4 @@
+data/
+Connector.php
+README.md
+composer.json

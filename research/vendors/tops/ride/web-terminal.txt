@@ -1,0 +1,5 @@
+config/
+src/ride/web/base/
+.gitignore
+composer.json
+ride.json

@@ -1,0 +1,11 @@
+js/
+less/
+locale/
+migrations/
+src/
+.gitignore
+LICENSE.md
+README.md
+bootstrap.php
+composer.json
+composer.lock

@@ -1,0 +1,5 @@
+lib/HTMLParser/
+test/
+.gitignore
+composer.json
+phpunit.xml

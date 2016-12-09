@@ -1,0 +1,11 @@
+examples/
+lib/Uphold/
+test/
+.gitattributes
+.gitignore
+.travis.yml
+CHANGELOG.md
+README.md
+composer.json
+phpunit.xml.dist
+travis.php.ini

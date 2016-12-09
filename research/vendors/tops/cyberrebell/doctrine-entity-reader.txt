@@ -1,0 +1,4 @@
+library/DoctrineEntityReader/
+.gitignore
+LICENSE
+composer.json

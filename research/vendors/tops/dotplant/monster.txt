@@ -1,0 +1,11 @@
+docs/ru/
+src/
+tests/
+.gitignore
+README.md
+composer.json
+composer.lock
+cs-check.sh
+phpunit.xml
+ruleset.xml
+run-tests.sh

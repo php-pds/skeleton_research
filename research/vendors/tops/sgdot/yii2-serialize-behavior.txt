@@ -1,0 +1,3 @@
+.gitignore
+SerializeBehavior.php
+composer.json

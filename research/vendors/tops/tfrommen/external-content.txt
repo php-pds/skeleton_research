@@ -1,0 +1,15 @@
+assets/
+src/
+tests/
+.gitignore
+.travis.yml
+CHANGELOG.md
+CONTRIBUTING.md
+Gruntfile.js
+LICENSE
+README.md
+composer.json
+composer.lock
+external-content.php
+package.json
+phpunit.xml.dist

@@ -1,0 +1,6 @@
+src/Search/Framework/
+.gitignore
+Doxyfile
+LICENSE.txt
+README.md
+composer.json

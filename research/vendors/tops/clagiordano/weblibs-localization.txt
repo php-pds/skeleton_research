@@ -1,0 +1,11 @@
+docs/php-gettext/
+libs/
+src/
+testdata/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml

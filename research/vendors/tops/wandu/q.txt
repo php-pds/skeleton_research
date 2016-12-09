@@ -1,0 +1,13 @@
+build/
+src/Wandu/
+tests/
+.gitignore
+.phpstorm.meta.php
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml
+readme.png
+wandu

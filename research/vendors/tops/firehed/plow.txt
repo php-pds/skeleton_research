@@ -1,0 +1,10 @@
+bin/
+installed_commands/
+src/
+.editorconfig
+.gitignore
+CONTRIBUTING.md
+CREATING_COMMANDS.md
+README.md
+composer.json
+container.php

@@ -1,0 +1,9 @@
+translations/
+CHANGELOG.txt
+Readme.md
+composer.json
+config.xml
+index.php
+logo.gif
+logo.png
+statssales.php

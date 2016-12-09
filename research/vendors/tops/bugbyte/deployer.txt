@@ -1,0 +1,7 @@
+lib/
+LICENSE
+README.md
+composer.json
+datadir-patcher.php
+example.php
+gearman-restarter.php

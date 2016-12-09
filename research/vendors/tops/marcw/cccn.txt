@@ -1,0 +1,9 @@
+tests/
+.gitignore
+.travis.yml
+CCCN.php
+LICENSE
+README.md
+composer.json
+countries.aggregate.php
+phpunit.xml.dist

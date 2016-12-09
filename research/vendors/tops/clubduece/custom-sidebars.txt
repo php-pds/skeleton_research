@@ -1,0 +1,9 @@
+includes/
+templates/
+.gitattributes
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock
+custom-sidebars.php

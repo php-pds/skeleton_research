@@ -1,0 +1,9 @@
+controllers/
+mail/
+migrations/
+models/
+views/
+widgets/
+.gitattributes
+.gitignore
+composer.json

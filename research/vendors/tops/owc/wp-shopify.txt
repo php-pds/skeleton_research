@@ -1,0 +1,7 @@
+assets/js/
+src/
+templates/
+.gitignore
+README.md
+composer.json
+core.php

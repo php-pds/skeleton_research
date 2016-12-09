@@ -1,0 +1,8 @@
+activity/
+language/en-GB/
+LICENSE
+README.md
+advancedmodules.php
+advancedmodules.xml
+composer.json
+install.php

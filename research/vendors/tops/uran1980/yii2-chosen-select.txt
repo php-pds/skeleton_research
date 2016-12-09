@@ -1,0 +1,7 @@
+assets/
+.gitignore
+ChosenSelect.php
+ChosenSelectAsset.php
+LICENSE
+README.md
+composer.json

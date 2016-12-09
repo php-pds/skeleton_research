@@ -1,0 +1,12 @@
+src/Lappuse/Composer/Installer/
+test/Lappuse/Composer/Installer/Test/
+.gitignore
+.travis.yml
+CodeSniffer.conf
+LICENSE.md
+README.md
+composer.json
+phpunit.php
+phpunit.xml
+run_phpcs.sh
+run_phpcs_experiment.php

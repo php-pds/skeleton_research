@@ -1,0 +1,13 @@
+config/
+data/
+src/ZfTable/
+view/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+MIT-LICENSE.txt
+Module.php
+README.md
+README.sublime-workspace
+autoload_classmap.php
+composer.json

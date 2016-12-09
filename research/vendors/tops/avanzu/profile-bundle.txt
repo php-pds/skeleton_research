@@ -1,0 +1,12 @@
+Controller/
+DependencyInjection/
+Entity/
+Event/
+Form/
+Listener/
+Manager/
+Resources/
+Tests/Controller/
+AvanzuProfileBundle.php
+README.md
+composer.json

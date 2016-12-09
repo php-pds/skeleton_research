@@ -1,0 +1,9 @@
+config/administrator/
+database/
+src/
+.gitignore
+.styleci.yml
+LICENSE
+README.md
+composer.json
+makedoc.sh

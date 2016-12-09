@@ -1,0 +1,6 @@
+src/Chee/Upload/
+.gitignore
+.travis.yml
+LICENSE
+composer.json
+phpunit.xml

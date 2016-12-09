@@ -1,0 +1,10 @@
+src/fkooman/Crypto/
+tests/fkooman/Crypto/
+.gitignore
+.travis.yml
+CHANGES.md
+COPYING
+README.md
+composer.json
+example.php
+phpunit.xml.dist

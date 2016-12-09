@@ -1,0 +1,9 @@
+lib/Modomo/
+tests/
+.gitignore
+AUTHORS
+CHANGELOG
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

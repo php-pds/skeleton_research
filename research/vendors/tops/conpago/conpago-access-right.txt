@@ -1,0 +1,9 @@
+build_scripts/
+src/Conpago/AccessRight/
+tests/
+.gitignore
+.hgignore
+build.xml
+composer.json
+humbug.json.dist
+phpunit.xml

@@ -1,0 +1,14 @@
+includes/
+languages/
+tasks/
+.bowerrc
+.editorconfig
+.gitignore
+.jshintrc
+Gruntfile.js
+LICENSE
+README.md
+bower.json
+composer.json
+package.json
+wp-svg-helpers.php

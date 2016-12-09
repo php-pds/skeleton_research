@@ -1,0 +1,7 @@
+example/
+src/MediaInfo/
+tests/
+.gitignore
+README.md
+composer.json
+composer.lock

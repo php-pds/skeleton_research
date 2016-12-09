@@ -1,0 +1,6 @@
+system/modules/summarizeFeeds/
+.gitattributes
+.gitignore
+README.md
+composer.json
+screenshot.jpg

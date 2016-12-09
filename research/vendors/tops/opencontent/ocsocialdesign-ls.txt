@@ -1,0 +1,6 @@
+autoloads/
+classes/
+design/social/
+settings/
+translations/
+composer.json

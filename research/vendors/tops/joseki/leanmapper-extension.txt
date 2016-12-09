@@ -1,0 +1,8 @@
+src/Joseki/LeanMapper/
+tests/
+.gitattributes
+.gitignore
+.travis.yml
+LICENSE.md
+README.md
+composer.json

@@ -1,0 +1,10 @@
+classes/
+config/
+hooks/
+public/
+views/
+.gitignore
+.htaccess
+README.md
+composer.json
+index.php

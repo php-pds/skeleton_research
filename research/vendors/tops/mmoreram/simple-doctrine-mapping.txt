@@ -1,0 +1,17 @@
+CompilerPass/Abstracts/
+Configurator/
+DataObject/
+Exception/
+Locator/
+Mapping/
+Tests/Functional/
+.editorconfig
+.formatter.yml
+.gitignore
+.php_cs
+.travis.yml
+CHANGELOG-0.1.md
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

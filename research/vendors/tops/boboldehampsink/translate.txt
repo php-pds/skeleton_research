@@ -1,0 +1,16 @@
+controllers/
+elementtypes/
+models/
+resources/js/
+services/
+templates/
+tests/
+translations/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+TranslatePlugin.php
+composer.json
+phpunit.xml.dist

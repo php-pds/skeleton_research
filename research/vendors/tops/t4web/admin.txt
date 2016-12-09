@@ -1,0 +1,9 @@
+config/
+public/
+src/
+view/t4web-admin/
+.gitignore
+Module.php
+README.md
+composer.json
+phpunit.xml

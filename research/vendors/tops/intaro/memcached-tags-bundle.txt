@@ -1,0 +1,8 @@
+DependencyInjection/
+Doctrine/
+Resources/config/
+.gitignore
+IntaroMemcachedTagsBundle.php
+LICENSE
+README.md
+composer.json

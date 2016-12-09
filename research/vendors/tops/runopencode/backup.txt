@@ -1,0 +1,9 @@
+src/RunOpenCode/Backup/
+test/
+.scrutinizer.yml
+.travis.yml
+CREDITS.markdown
+LICENSE
+README.markdown
+composer.json
+phpunit.xml

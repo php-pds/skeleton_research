@@ -1,0 +1,8 @@
+src/Snappy/Apps/CampaignMonitor/
+tests/
+.gitignore
+.travis.yml
+campaignmonitor.png
+composer.json
+phpunit.xml
+readme.md

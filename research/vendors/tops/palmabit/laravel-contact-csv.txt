@@ -1,0 +1,8 @@
+src/Palmabit/ContactCsv/
+tests/
+.gitignore
+.travis.yml
+README.md
+composer.json
+phpunit.xml
+todo.txt

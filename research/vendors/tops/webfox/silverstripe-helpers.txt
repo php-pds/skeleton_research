@@ -1,0 +1,8 @@
+_config/
+code/
+.editorconfig
+.gitattributes
+.gitignore
+.scrutinizer.yml
+README.md
+composer.json

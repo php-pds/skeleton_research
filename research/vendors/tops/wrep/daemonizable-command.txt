@@ -1,0 +1,9 @@
+examples/
+src/Wrep/Daemonizable/
+tests/Wrep/Daemonizable/Command/
+.gitignore
+.travis.yml
+Changelog.md
+README.md
+composer.json
+phpunit.xml.dist

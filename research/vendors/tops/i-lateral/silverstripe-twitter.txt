@@ -1,0 +1,7 @@
+_config/
+code/
+templates/Includes/
+.editorconfig
+README.md
+_config.php
+composer.json

@@ -1,0 +1,10 @@
+blog/
+layouts/
+page/
+partials/
+.gitignore
+about.blade.php
+blog.blade.php
+composer.json
+contact.blade.php
+post.blade.php

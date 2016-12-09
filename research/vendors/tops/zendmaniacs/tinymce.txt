@@ -1,0 +1,16 @@
+js/tinymce/
+tests/
+tools/
+.editorconfig
+.eslintrc
+.gitattributes
+.gitignore
+.jscsrc
+.jshintrc
+.travis.yml
+Gruntfile.js
+LICENSE.TXT
+changelog.txt
+composer.json
+package.json
+readme.md

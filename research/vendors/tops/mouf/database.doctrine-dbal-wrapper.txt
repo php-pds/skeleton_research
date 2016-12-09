@@ -1,0 +1,7 @@
+doc/images/
+icons/
+src/
+.gitignore
+README.md
+composer.json
+logo.png

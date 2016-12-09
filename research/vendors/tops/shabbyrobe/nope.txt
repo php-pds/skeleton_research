@@ -1,0 +1,11 @@
+junk/
+src/
+test/
+.borisrc
+.gitignore
+LICENSE
+README.rst
+composer.json
+composer.lock
+humbug.json.dist
+phpunit.xml

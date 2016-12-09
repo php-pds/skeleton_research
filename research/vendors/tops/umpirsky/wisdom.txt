@@ -1,0 +1,13 @@
+bin/
+examples/
+icon/
+src/Wisdom/
+tests/
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

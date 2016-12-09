@@ -1,0 +1,6 @@
+src/firegate666/ImageUploader/
+.gitignore
+ImageUploader.iml
+LICENSE
+README.md
+composer.json

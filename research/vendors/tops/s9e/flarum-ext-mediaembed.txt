@@ -1,0 +1,5 @@
+.gitattributes
+LICENSE
+README.md
+bootstrap.php
+composer.json

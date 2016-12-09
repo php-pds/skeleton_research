@@ -1,0 +1,13 @@
+console/
+traits/
+web/
+.bowerrc
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CHANGELOG.md
+Component.php
+Logger.php
+README.md
+composer.json
+composer.lock

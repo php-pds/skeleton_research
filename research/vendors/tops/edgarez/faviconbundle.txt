@@ -1,0 +1,8 @@
+Command/
+DependencyInjection/
+Generator/
+Resources/config/
+.gitignore
+EdgarEzFaviconBundle.php
+README.md
+composer.json

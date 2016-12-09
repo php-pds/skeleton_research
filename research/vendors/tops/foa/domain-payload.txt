@@ -1,0 +1,6 @@
+src/
+tests/unit/
+LICENSE
+README.md
+autoload.php
+composer.json

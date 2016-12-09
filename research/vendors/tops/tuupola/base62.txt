@@ -1,0 +1,16 @@
+benchmarks/
+src/
+tests/
+.editorconfig
+.gitattributes
+.gitignore
+.travis.yml
+CONTRIBUTING.md
+Gruntfile.js
+LICENSE.md
+README.md
+codecov.yml
+composer.json
+package.json
+phpbench.json
+phpunit.xml

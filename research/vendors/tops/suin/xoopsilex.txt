@@ -1,0 +1,3 @@
+Source/XoopSilex/
+README.md
+composer.json

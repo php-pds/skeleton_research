@@ -1,0 +1,8 @@
+Controller/
+DependencyInjection/
+Entity/
+Mailer/
+Repository/
+Resources/
+WHUserBundle.php
+composer.json

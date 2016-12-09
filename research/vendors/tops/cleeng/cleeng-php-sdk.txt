@@ -1,0 +1,8 @@
+src/Cleeng/
+tests/
+.gitignore
+CHANGES.md
+LICENSE.txt
+README.md
+cleeng_api.php
+composer.json

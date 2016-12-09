@@ -1,0 +1,8 @@
+src/
+test/sql/
+.gitattributes
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock

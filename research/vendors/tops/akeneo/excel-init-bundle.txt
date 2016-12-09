@@ -1,0 +1,8 @@
+doc/
+spec/Pim/Bundle/ExcelInitBundle/
+src/
+.gitignore
+.travis.yml
+LICENCE.txt
+README.md
+composer.json

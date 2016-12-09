@@ -1,0 +1,14 @@
+i18n/
+res/
+src/
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+COPYING
+README.md
+RELEASE-NOTES.md
+SemanticFormsSelect.php
+composer.json
+extension.json
+phpunit.xml.dist

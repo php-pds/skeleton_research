@@ -1,0 +1,5 @@
+src/Manialib/Maniacode/Elements/
+.gitignore
+LICENSE
+README.md
+composer.json

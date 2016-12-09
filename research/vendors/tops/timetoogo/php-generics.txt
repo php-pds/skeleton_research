@@ -1,0 +1,8 @@
+Tests/Generics/Tests/
+nbproject/
+src/Generics/
+.gitignore
+LISCENSE.txt
+README.md
+composer.json
+composer.lock

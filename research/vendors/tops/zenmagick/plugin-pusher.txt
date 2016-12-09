@@ -1,0 +1,8 @@
+public/
+templates/boxes/
+vendor/Pusher/
+PusherEventPusher.php
+PusherPlugin.php
+Readme.md
+composer.json
+plugin.yaml

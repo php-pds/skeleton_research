@@ -1,0 +1,6 @@
+assets/
+.gitignore
+InfiniteScrollAsset.php
+InfiniteScrollPager.php
+README.md
+composer.json

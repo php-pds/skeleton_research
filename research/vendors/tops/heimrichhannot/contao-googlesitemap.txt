@@ -1,0 +1,9 @@
+config/
+dca/
+languages/
+.gitignore
+Automator.php
+GoogleSitemap.php
+LICENSE
+README.md
+composer.json

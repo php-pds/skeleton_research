@@ -1,0 +1,11 @@
+example/
+src/Pixel418/
+test/Test/Pixel418/Eloq/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CHANGELOG.md
+LICENSE.md
+README.md
+composer.json
+phpunit.xml

@@ -1,0 +1,11 @@
+src/Splitice/Rage4/
+tests/
+.buildpath
+.gitignore
+.project
+.travis.yml
+README.md
+composer.json
+composer.lock
+composer.phar
+phpunit.xml.dist

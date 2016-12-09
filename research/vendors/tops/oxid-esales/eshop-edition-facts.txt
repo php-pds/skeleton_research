@@ -1,0 +1,4 @@
+README.rst
+composer.json
+oe-eshop-edition
+oe-eshop-edition_facts

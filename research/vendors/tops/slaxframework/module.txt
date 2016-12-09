@@ -1,0 +1,4 @@
+Initializer.php
+Manager.php
+ModuleInterface.php
+composer.json

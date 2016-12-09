@@ -1,0 +1,7 @@
+Controller/
+DependencyInjection/
+Resources/config/
+LICENSE
+README.md
+composer.json
+hacfiRequestDumperBundle.php

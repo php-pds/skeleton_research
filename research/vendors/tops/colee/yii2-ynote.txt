@@ -1,0 +1,5 @@
+YNote_SDK_PHP/
+LICENSE
+README.md
+YNote.php
+composer.json

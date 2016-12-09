@@ -1,0 +1,9 @@
+src/
+tests/
+vendor/psr/cache/Psr/Cache/
+.gitattributes
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json

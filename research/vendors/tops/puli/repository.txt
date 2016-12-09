@@ -1,0 +1,14 @@
+res/schema/
+src/
+tests/
+.composer-auth.json
+.gitattributes
+.gitignore
+.styleci.yml
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+appveyor.yml
+composer.json
+phpunit.xml.dist

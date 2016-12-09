@@ -1,0 +1,14 @@
+includes/
+tests/phpunit/
+.codeclimate.yml
+.editorconfig
+.gitattributes
+.gitignore
+.travis.yml
+README.md
+composer.json
+license.txt
+phpcs.xml
+phpmd.xml
+phpunit.xml
+plugin-loader.php

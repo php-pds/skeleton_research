@@ -1,0 +1,6 @@
+config/
+src/LemoGrid/
+.gitignore
+Module.php
+README.md
+composer.json

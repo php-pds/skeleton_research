@@ -1,0 +1,12 @@
+Calculator/
+DependencyInjection/
+Manager/
+Model/
+Provider/WeightTreshold/
+Resources/
+Strategy/Calculation/Weight/
+Weightable/
+.gitignore
+README.md
+composer.json
+iOSystemsShippingBundle.php

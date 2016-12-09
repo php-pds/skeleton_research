@@ -1,0 +1,5 @@
+src/Nitronet/Fwk/Assetic/
+.gitignore
+README.md
+composer.json
+phpunit.xml.dist

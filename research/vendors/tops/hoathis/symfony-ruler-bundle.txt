@@ -1,0 +1,10 @@
+DataCollector/
+DependencyInjection/
+Resources/
+Ruler/
+.gitattributes
+CHANGELOG.md
+HoathisSymfonyRulerBundle.php
+LICENSE
+README.md
+composer.json

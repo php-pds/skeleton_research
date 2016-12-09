@@ -1,0 +1,6 @@
+config/
+src/Athmod/Controller/
+view/athmod/index/
+Module.php
+README.md
+composer.json

@@ -1,0 +1,8 @@
+controllers/
+i18n/
+models/DynamicRoutes/
+static/js/
+.gitignore
+composer.json
+plugin.xml
+todo

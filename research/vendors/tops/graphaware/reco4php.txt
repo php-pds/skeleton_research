@@ -1,0 +1,12 @@
+_algo-examples/
+_demo/github/
+build/
+src/
+tests/
+.gitignore
+.travis.yml
+LICENSE.md
+README.md
+composer.json
+example.php
+phpunit.xml

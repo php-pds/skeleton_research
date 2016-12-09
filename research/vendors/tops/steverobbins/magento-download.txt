@@ -1,0 +1,6 @@
+src/MageDownload/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+composer.json
+phpcs.xml

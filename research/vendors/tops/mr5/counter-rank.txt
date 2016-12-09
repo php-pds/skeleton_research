@@ -1,0 +1,12 @@
+.idea/
+lib/mr5/CounterRank/
+tests/
+.gitignore
+.travis.yml
+CHANGELOG.md
+Makefile
+README.md
+changelog.sh
+composer.json
+composer.lock
+phpunit.xml

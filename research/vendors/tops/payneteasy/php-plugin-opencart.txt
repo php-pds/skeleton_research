@@ -1,0 +1,8 @@
+admin/
+catalog/
+doc/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock

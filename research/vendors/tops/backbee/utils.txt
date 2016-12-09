@@ -1,0 +1,13 @@
+Collection/
+Exception/
+File/
+Tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENCE.md
+Numeric.php
+README.md
+StringUtils.php
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,6 @@
+config/
+src/Zf2Airbrake/
+.gitignore
+LICENSE
+Module.php
+composer.json

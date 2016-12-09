@@ -1,0 +1,5 @@
+src/Dwo/Tracedump/
+.gitignore
+autoload.php
+composer.json
+phpunit.xml.dist

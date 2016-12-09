@@ -1,0 +1,14 @@
+magnific-popup/
+.infra.json
+README.md
+Rubrics.php
+composer.json
+events.layer.json
+gallery.tpl
+index.php
+layer.json
+rubrics.inc.php
+rubrics.layer.json
+rubrics.layer.php
+rubrics.tpl
+test.php

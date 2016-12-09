@@ -1,0 +1,9 @@
+assets/lib/
+bin/
+lib/Laemmi/
+.bowerrc
+.gitignore
+README.md
+bower.json
+composer.json
+plugin.php

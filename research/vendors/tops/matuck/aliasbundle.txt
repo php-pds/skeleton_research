@@ -1,0 +1,12 @@
+Controller/
+DataFixtures/ORM/
+DependencyInjection/
+Entity/
+Exception/
+Resources/
+Service/
+Tests/Controller/
+LICENSE
+README.md
+composer.json
+matuckAliasBundle.php

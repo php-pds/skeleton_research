@@ -1,0 +1,11 @@
+docs/
+tests/
+.gitignore
+FileLogger.php
+Filter.php
+Hub.php
+LICENSE
+README.md
+RelationDbLogger.php
+composer.json
+phpunit.xml

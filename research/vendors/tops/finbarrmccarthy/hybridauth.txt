@@ -1,0 +1,7 @@
+additional-providers/
+examples/
+hybridauth/
+CHANGELOG
+README.html
+README.md
+composer.json

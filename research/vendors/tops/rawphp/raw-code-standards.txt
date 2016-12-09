@@ -1,0 +1,5 @@
+RawPHP/
+.gitignore
+CodeSniffer.conf
+LICENSE
+composer.json

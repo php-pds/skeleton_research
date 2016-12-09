@@ -1,0 +1,4 @@
+src/RestClient/
+.gitignore
+README.md
+composer.json

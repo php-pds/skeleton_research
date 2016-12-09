@@ -1,0 +1,14 @@
+_config/
+code/
+doc/
+tests/
+.editorconfig
+.gitattributes
+.gitignore
+.scrutinizer.yml
+.travis.yml
+README.md
+_config.php
+apigen.neon
+composer.json
+phpunit.xml

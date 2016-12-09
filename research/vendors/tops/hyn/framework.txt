@@ -1,0 +1,11 @@
+config/
+scripts/
+src/
+tests/
+.gitignore
+.styleci.yml
+.travis.yml
+composer.json
+phpunit.travis.xml
+phpunit.xml
+readme.md

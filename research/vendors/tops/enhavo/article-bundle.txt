@@ -1,0 +1,12 @@
+Controller/
+DependencyInjection/
+Entity/
+Form/Type/
+Menu/
+Repository/
+Resources/
+Widget/
+EnhavoArticleBundle.php
+LICENSE
+README.md
+composer.json

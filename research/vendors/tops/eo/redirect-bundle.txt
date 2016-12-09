@@ -1,0 +1,10 @@
+Admin/
+DependencyInjection/
+Document/
+EventListener/
+Model/
+Resources/
+Util/
+EoRedirectBundle.php
+README.md
+composer.json

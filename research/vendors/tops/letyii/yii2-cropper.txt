@@ -1,0 +1,6 @@
+.gitignore
+Cropper.php
+CropperAssets.php
+LICENSE
+README.md
+composer.json

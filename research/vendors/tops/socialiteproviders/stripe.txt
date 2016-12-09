@@ -1,0 +1,3 @@
+Provider.php
+StripeExtendSocialite.php
+composer.json

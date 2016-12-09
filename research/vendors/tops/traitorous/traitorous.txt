@@ -1,0 +1,7 @@
+src/traitorous/
+test/
+.gitignore
+.hhconfig
+LICENSE
+README.md
+composer.json

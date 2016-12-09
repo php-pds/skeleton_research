@@ -1,0 +1,13 @@
+_config/
+code/
+tests/
+.editorconfig
+.gitattributes
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+_config.php
+composer.json

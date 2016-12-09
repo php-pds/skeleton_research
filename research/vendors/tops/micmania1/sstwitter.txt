@@ -1,0 +1,11 @@
+_config/
+admin/
+code/
+templates/
+tests/extension/
+thirdparty/phptwitter/
+.gitignore
+README.md
+changelog.md
+composer.json
+composer.lock

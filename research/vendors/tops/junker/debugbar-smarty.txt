@@ -1,0 +1,5 @@
+src/Junker/DebugBar/Bridge/
+.gitignore
+LICENSE
+README.md
+composer.json

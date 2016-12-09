@@ -1,0 +1,10 @@
+doc/
+src/Knp/Menu/
+tests/Knp/Menu/Tests/
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.markdown
+composer.json
+phpunit.xml.dist

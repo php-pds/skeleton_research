@@ -1,0 +1,5 @@
+Lib/
+README.md
+composer.json
+default.png
+safety.png

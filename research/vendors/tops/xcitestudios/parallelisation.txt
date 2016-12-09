@@ -1,0 +1,13 @@
+examples/CSVToJsonViaAMQP/
+src/
+tests/Distributed/
+.editorconfig
+.gitattributes
+.gitignore
+.travis.yml
+LICENSE
+README.md
+build.xml.dist
+composer.json
+phpdoc.dist.xml
+phpunit.xml.dist

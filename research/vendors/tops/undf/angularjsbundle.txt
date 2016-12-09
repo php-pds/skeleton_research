@@ -1,0 +1,9 @@
+Assetic/
+Command/
+DependencyInjection/
+Resources/
+Tests/Controller/
+ConfigManager.php
+README.md
+UndfAngularJsBundle.php
+composer.json

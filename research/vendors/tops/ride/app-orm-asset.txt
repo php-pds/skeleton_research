@@ -1,0 +1,7 @@
+config/
+manual/
+src/ride/application/orm/asset/
+CHANGELOG.md
+README.md
+composer.json
+ride.json

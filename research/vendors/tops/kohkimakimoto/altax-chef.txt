@@ -1,0 +1,5 @@
+src/Altax/Contrib/Chef/Command/
+.gitignore
+README.md
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,11 @@
+src/Doxport/
+test/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+doxport
+phpunit.xml

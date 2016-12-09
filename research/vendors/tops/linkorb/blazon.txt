@@ -1,0 +1,9 @@
+bin/
+doc/
+src/
+web/
+.gitignore
+LICENSE.md
+README.md
+blazon.yml
+composer.json

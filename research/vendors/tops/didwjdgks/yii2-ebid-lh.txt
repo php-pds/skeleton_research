@@ -1,0 +1,10 @@
+controllers/
+models/
+watchers/
+workers/
+Module.php
+PassException.php
+README.md
+Redis.php
+WatchEvent.php
+composer.json

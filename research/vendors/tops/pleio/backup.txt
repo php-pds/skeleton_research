@@ -1,0 +1,12 @@
+actions/backup/
+classes/
+languages/
+lib/
+sql/
+views/default/
+README.md
+activate.php
+composer.json
+composer.lock
+manifest.xml
+start.php

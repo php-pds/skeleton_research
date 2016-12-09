@@ -1,0 +1,13 @@
+_config/
+code/
+css/
+templates/
+.editorconfig
+_config.php
+changelog.md
+code-of-conduct.md
+composer.json
+contributing.md
+license.md
+readme.md
+upgrading.md

@@ -1,0 +1,8 @@
+resources/
+translations/
+.bowerrc
+AssetPreviewPlugin.php
+LICENSE
+README.md
+bower.json
+composer.json

@@ -1,0 +1,5 @@
+src/Ipunkt/ComposerAbout/
+.gitignore
+LICENSE
+README.md
+composer.json

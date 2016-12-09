@@ -1,0 +1,13 @@
+assets/js/
+dist/js/
+migrations/
+src/
+.gitignore
+LICENSE
+README.md
+bower.json
+composer.json
+gulpfile.js
+npm-debug.log
+package.json
+phpunit.xml

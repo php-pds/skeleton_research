@@ -1,0 +1,8 @@
+CT_ROOT/system/modules/hofff_robots-txt-editor/
+runonce/
+.gitattributes
+.gitignore
+CHANGELOG.md
+README.md
+composer.json
+screenshot-backend.png

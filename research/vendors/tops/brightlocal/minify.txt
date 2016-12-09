@@ -1,0 +1,12 @@
+min/
+min_extras/
+min_unit_tests/
+.editorconfig
+.gitattributes
+.gitignore
+HISTORY.txt
+LICENSE.txt
+MIN.txt
+README.txt
+UPGRADING.txt
+composer.json

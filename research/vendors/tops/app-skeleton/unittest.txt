@@ -1,0 +1,11 @@
+classes/
+config/
+guide/unittest/
+.gitignore
+.gitmodules
+README.markdown
+bootstrap.php
+bootstrap_all_modules.php
+composer.json
+example.phpunit.xml
+tests.php

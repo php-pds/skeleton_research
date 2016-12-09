@@ -1,0 +1,7 @@
+src/KnabToXero/
+.gitignore
+LICENSE
+README.md
+composer.json
+example.csv
+index.php

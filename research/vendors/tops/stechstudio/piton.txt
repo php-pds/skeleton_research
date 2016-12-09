@@ -1,0 +1,11 @@
+docs/api/
+examples/
+src/Piton/
+tests/
+.gitignore
+.travis.yml
+LICENSE.txt
+README.md
+buildAPIDocs.sh
+composer.json
+phpunit.xml

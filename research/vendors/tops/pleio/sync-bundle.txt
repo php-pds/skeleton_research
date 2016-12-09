@@ -1,0 +1,5 @@
+Consumer/
+PleioSyncBundle.php
+README.md
+background-process.sh
+composer.json

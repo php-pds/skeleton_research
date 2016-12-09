@@ -1,0 +1,12 @@
+resources/
+src/Task/ILess/
+tests/Task/ILess/Test/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CONTRIBUTING.md
+LICENSE
+README.md
+composer.json
+phpunit.xml.ci
+phpunit.xml.dist

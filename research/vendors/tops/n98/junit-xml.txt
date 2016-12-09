@@ -1,0 +1,8 @@
+src/N98/JUnitXml/
+tests/
+.gitignore
+.travis.yml
+MIT-LICENSE.txt
+README.rst
+composer.json
+phpunit.xml

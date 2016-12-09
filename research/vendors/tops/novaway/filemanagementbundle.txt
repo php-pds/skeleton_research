@@ -1,0 +1,17 @@
+Controller/
+DependencyInjection/
+Entity/
+Form/
+Manager/
+Resources/
+Tests/
+Twig/Extension/
+.atoum.coverage.php
+.atoum.php
+.bootstrap.atoum.php
+.gitignore
+.scrutinizer.yml
+.travis.yml
+NovawayFileManagementBundle.php
+README.md
+composer.json

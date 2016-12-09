@@ -1,0 +1,8 @@
+config/
+docs/
+src/DoctrineViewer/
+view/doctrine-viewer/dv/
+.gitignore
+Module.php
+README.md
+composer.json

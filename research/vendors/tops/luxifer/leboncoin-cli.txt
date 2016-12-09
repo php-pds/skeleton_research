@@ -1,0 +1,12 @@
+bin/
+config/
+src/
+templates/
+var/
+.gitignore
+LICENSE
+Makefile
+README.md
+VERSION
+composer.json
+composer.lock

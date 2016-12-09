@@ -1,0 +1,8 @@
+spec/Coduo/ToString/
+src/Coduo/ToString/
+.gitignore
+.travis.yml
+LICENCE
+README.md
+composer.json
+phpspec.yml

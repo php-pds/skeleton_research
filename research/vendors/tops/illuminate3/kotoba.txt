@@ -1,0 +1,7 @@
+.idea/
+src/Illuminate3/
+.gitignore
+.travis.yml
+composer.json
+license.txt
+readme.md

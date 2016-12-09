@@ -1,0 +1,6 @@
+src/system/modules/fry_accessible_tabs/
+.DS_Store
+.gitignore
+README.md
+composer.json
+runonce.php

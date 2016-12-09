@@ -1,0 +1,14 @@
+config/
+docs/
+src/ApiAxle/
+tests/
+.gitignore
+.travis.yml
+LICENSE.txt
+README.md
+Vagrantfile
+composer.json
+composer.lock
+composer.phar
+travis.setup.sh
+vagrant-setup.sh

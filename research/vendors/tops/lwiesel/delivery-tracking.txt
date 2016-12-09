@@ -1,0 +1,17 @@
+bin/
+spec/
+src/
+.coke
+.editorconfig
+.gitattributes
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CONDUCT.md
+CONTRIBUTING.md
+LICENSE.md
+Makefile
+README.md
+composer.json
+phpspec.hhvm.yml
+phpspec.yml

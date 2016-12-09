@@ -1,0 +1,6 @@
+extension-views/
+src/ScaffolderExtension/
+.gitignore
+LICENSE
+composer.json
+readme.md

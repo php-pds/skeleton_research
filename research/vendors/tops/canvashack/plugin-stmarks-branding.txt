@@ -1,0 +1,9 @@
+.gitignore
+.htaccess
+LICENSE.md
+README.md
+composer.json
+login.svg
+manifest.xml
+stmarks-branding.css
+stmarks-branding.js

@@ -1,0 +1,6 @@
+config/
+src/VMBAWS/
+.gitignore
+Module.php
+composer.json
+composer.lock

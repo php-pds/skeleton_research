@@ -1,0 +1,5 @@
+Commands/
+.gitattributes
+ConsoleServiceProvider.php
+README.md
+composer.json

@@ -1,0 +1,5 @@
+doc/fr/
+src/
+CHANGELOG.md
+README.md
+composer.json

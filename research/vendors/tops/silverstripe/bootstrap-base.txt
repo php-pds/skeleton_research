@@ -1,0 +1,8 @@
+css/
+fonts/
+images/
+javascript/
+templates/
+.gitignore
+README.md
+composer.json

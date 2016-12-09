@@ -1,0 +1,7 @@
+lib/FSi/Component/Reflection/
+tests/
+.gitignore
+.travis.yml
+LICENSE.md
+README.md
+composer.json

@@ -1,0 +1,9 @@
+bin/
+demo/
+src/AntiMattr/Merchantry/
+tests/AntiMattr/Tests/Merchantry/
+.gitignore
+LICENSE
+README.md
+composer.json
+phpunit.xml

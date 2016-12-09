@@ -1,0 +1,13 @@
+css/
+images/
+less/
+README.md
+admin.tpl
+composer.json
+footer.tpl
+header.tpl
+index.tpl
+index.twig.example
+login.tpl
+menu.tpl
+static.tpl

@@ -1,0 +1,10 @@
+src/Fish/OneValidator/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+behat.yml
+codeception.yml
+composer.json
+phpunit.xml
+readme.md

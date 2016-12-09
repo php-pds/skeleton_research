@@ -1,0 +1,7 @@
+DependencyInjection/
+Locale/
+Resources/config/services/
+.gitignore
+README.md
+RezzzaLocaleVoterBundle.php
+composer.json

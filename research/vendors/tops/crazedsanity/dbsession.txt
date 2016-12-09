@@ -1,0 +1,10 @@
+setup/
+src/dbsession/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+VERSION
+composer.json
+phpunit.xml

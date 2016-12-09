@@ -1,0 +1,8 @@
+DependencyInjection/
+Resources/config/
+Service/
+Tests/Controller/
+BanckleChatBundle.php
+LICENSE
+README.md
+composer.json

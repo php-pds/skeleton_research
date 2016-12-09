@@ -1,0 +1,11 @@
+DependencyInjection/
+Event/
+Form/
+Manager/
+Model/
+Resources/config/
+Tests/
+.gitignore
+MediaEvents.php
+UCSMediaBundle.php
+composer.json

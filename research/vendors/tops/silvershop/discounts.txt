@@ -1,0 +1,16 @@
+_config/
+code/
+docs/en/
+images/
+javascript/
+templates/email/
+tests/
+.editorconfig
+.gitattributes
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+_config.php
+composer.json
+phpunit.xml.dist

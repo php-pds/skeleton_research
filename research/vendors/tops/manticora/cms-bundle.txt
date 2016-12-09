@@ -1,0 +1,10 @@
+Controller/
+DependencyInjection/
+Entity/
+Form/Type/
+Resources/
+Service/
+Tests/Controller/
+.gitignore
+ManticoraCMSBundle.php
+composer.json

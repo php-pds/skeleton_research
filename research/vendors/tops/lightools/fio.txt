@@ -1,0 +1,6 @@
+src/Fio/
+tests/
+.gitignore
+composer.json
+licence.md
+readme.md

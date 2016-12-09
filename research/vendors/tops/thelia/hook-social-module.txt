@@ -1,0 +1,9 @@
+Config/
+Controller/
+Form/
+Hook/
+I18n/
+templates/
+HookSocial.php
+LICENSE.txt
+composer.json

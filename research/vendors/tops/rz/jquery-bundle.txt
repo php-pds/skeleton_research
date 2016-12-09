@@ -1,0 +1,4 @@
+Resources/public/
+README.md
+RzJqueryBundle.php
+composer.json

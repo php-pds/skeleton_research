@@ -1,0 +1,4 @@
+TheCodingCompany/
+.gitignore
+README.md
+composer.json

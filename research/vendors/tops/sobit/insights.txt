@@ -1,0 +1,5 @@
+src/Sobit/Insights/
+.gitignore
+LICENSE
+README.md
+composer.json

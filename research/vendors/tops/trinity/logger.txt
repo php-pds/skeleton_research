@@ -1,0 +1,15 @@
+DependencyInjection/
+Entity/
+Resources/config/
+Services/
+Tests/
+.gitignore
+.travis.yml
+Dockerfile
+LoggerBundle.php
+README.md
+composer.json
+docker-compose.yml
+entrypoint.sh
+phpunit.xml
+travis.ini

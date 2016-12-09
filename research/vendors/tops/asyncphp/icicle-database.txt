@@ -1,0 +1,13 @@
+examples/
+src/
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+code-of-conduct.md
+composer.json
+contributing.md
+license.md
+php.ini
+phpunit.xml
+readme.md

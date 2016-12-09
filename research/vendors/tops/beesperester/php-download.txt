@@ -1,0 +1,5 @@
+src/Beesperester/Chunky/
+tests/
+.gitignore
+README.md
+composer.json

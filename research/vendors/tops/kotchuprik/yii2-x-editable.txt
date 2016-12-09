@@ -1,0 +1,8 @@
+actions/
+assets/
+columns/
+widgets/
+.gitignore
+Config.php
+README.md
+composer.json

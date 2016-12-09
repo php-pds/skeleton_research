@@ -1,0 +1,9 @@
+bin/
+lib/Popshack/ODM/
+map/
+tests/
+.gitattributes
+.gitignore
+README.md
+build.xml
+composer.json

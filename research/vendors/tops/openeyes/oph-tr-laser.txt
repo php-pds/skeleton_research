@@ -1,0 +1,17 @@
+assets/
+config/
+controllers/
+features/bootstrap/
+grunt/
+migrations/
+models/
+tests/
+views/
+.gitignore
+Gruntfile.js
+OphTrLaserModule.php
+README.md
+RELEASE
+UPGRADE
+composer.json
+package.json

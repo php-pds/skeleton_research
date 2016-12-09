@@ -1,0 +1,7 @@
+Tests/
+.travis.yml
+README.md
+Vector.php
+VectorInterface.php
+composer.json
+phpunit.xml

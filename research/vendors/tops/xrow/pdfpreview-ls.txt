@@ -1,0 +1,7 @@
+autoloads/
+classes/
+design/admin2/override/templates/content/datatype/edit/
+settings/
+LICENSE.txt
+README.txt
+composer.json

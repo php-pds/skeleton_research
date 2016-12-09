@@ -1,0 +1,14 @@
+Command/
+DependencyInjection/
+Resources/config/
+Tests/
+Validator/Constraints/
+.gitattributes
+.gitignore
+.travis.yml
+CONTRIBUTING.md
+KPhoenRulerZBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

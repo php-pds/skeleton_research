@@ -1,0 +1,4 @@
+Resources/public/js/
+InnovaAngularJSBundle.php
+README.md
+composer.json

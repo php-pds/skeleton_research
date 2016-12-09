@@ -1,0 +1,9 @@
+data/
+resources/
+.gitignore
+.project
+LICENSE
+NOTES.txt
+Openpay.php
+README.md
+composer.json

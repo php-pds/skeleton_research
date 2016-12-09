@@ -1,0 +1,16 @@
+Controller/Admin/
+DataFixtures/ORM/
+DataGrid/
+DataSet/Admin/
+Entity/
+Factory/
+Form/Admin/
+Helper/
+Manager/
+Repository/
+Resources/
+Tests/
+LICENSE
+README.md
+WellCommerceTaxBundle.php
+composer.json

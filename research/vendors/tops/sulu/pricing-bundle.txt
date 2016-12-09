@@ -1,0 +1,16 @@
+Controller/
+DependencyInjection/
+Manager/
+Pricing/
+Resources/config/
+Tests/
+.gitignore
+.travis.yml
+CHANGELOG.md
+Gruntfile.js
+LICENSE
+README.md
+SuluPricingBundle.php
+composer.json
+package.json
+phpunit.xml.dist

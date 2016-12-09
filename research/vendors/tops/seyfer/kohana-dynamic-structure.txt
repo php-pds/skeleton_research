@@ -1,0 +1,10 @@
+classes/
+config/
+media/
+upload/
+views/structure/
+.gitignore
+README.md
+composer.json
+init.php
+structure.sql

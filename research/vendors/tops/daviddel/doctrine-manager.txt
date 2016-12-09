@@ -1,0 +1,4 @@
+lib/Doctrine/Manager/
+.gitignore
+README.md
+composer.json

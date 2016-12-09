@@ -1,0 +1,10 @@
+faktiva_clean_urls/
+.editorconfig
+.gitignore
+.php_cs
+.sensiolabs.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+composer.phar

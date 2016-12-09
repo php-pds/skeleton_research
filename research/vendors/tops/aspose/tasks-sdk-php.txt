@@ -1,0 +1,5 @@
+src/Aspose/Tasks/
+tests/
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,5 @@
+Resources/
+LICENSE
+README.md
+WellCommerceWishlistBundle.php
+composer.json

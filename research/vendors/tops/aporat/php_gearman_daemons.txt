@@ -1,0 +1,11 @@
+build/config/
+example/
+library/GearmanDaemons/
+tests/
+travis/
+.coveralls.yml
+.gitignore
+.travis.yml
+README.md
+composer.json
+phpunit.xml.dist

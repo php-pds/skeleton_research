@@ -1,0 +1,12 @@
+src/
+tests/Checker/
+.editorconfig
+.gitignore
+.php_cs
+.travis.yml
+LICENSE
+README.md
+box.json
+composer.json
+php-cs-checker
+phpunit.xml.dist

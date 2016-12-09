@@ -1,0 +1,8 @@
+test/
+.gitmodules
+.travis.yml
+ArchieML.php
+ArchieMLTest.php
+README.markdown
+composer.json
+composer.lock

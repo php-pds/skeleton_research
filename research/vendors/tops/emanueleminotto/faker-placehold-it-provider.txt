@@ -1,0 +1,10 @@
+Tests/
+.coveralls.yml
+.gitignore
+.travis.yml
+LICENSE
+PlaceholdItProvider.php
+README.md
+composer.json
+generate-api.sh
+phpunit.xml.dist

@@ -1,0 +1,12 @@
+spec/League/Flysystem/AdapterDecorator/Stub/
+src/
+stub/
+.gitattributes
+.gitignore
+.php_cs
+.travis.yml
+LICENCE
+composer.json
+phpspec.hhvm.yml
+phpspec.yml
+readme.md

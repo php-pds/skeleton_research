@@ -1,0 +1,8 @@
+Controller/
+DependencyInjection/
+Form/Type/
+Resources/
+Tests/Controller/
+AiloveCKEditorBundle.php
+README.md
+composer.json

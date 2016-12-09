@@ -1,0 +1,7 @@
+assets/
+CHANGE.md
+LICENSE.md
+README.md
+Scrollup.php
+ScrollupAsset.php
+composer.json

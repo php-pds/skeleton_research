@@ -1,0 +1,8 @@
+example/
+lib/Sirprize/
+.gitignore
+.gitmodules
+LICENSE.txt
+README.textile
+composer.json
+composer.lock

@@ -1,0 +1,8 @@
+spec/
+src/
+.gitignore
+.travis.yml
+LICENCE
+composer.json
+readme.md
+scrut.json

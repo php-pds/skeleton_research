@@ -1,0 +1,12 @@
+autoloads/
+bin/php/
+classes/
+cronjobs/
+design/
+eventtypes/event/ezflip/
+modules/flip/
+settings/
+LICENSE
+README.md
+composer.json
+extension.xml

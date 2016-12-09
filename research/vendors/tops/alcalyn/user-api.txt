@@ -1,0 +1,11 @@
+Api/
+Command/
+Controller/
+Exception/
+Model/
+Resources/jms-serializer/
+Security/
+Service/
+Tests/
+README.md
+composer.json

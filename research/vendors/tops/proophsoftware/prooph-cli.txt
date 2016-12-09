@@ -1,0 +1,13 @@
+bin/
+build/
+src/
+tests/Console/Helper/
+.coveralls.yml
+.gitignore
+.php_cs
+.travis.yml
+CHANGELOG.md
+LICENSE.md
+README.md
+composer.json
+phpunit.xml.dist

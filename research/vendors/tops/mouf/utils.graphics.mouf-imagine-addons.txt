@@ -1,0 +1,5 @@
+doc/img/
+src/Mouf/Utils/Graphics/ImagineAddons/
+.gitignore
+README.md
+composer.json

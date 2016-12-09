@@ -1,0 +1,4 @@
+LICENSE
+README.md
+SoftDeleteTrait.php
+composer.json

@@ -1,0 +1,7 @@
+ClassStructure/
+.gitignore
+ElementBuilder.php
+PhpClassEditor.php
+README.md
+TokenParser.php
+composer.json

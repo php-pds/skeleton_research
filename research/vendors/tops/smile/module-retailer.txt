@@ -1,0 +1,14 @@
+Api/
+Block/
+Controller/
+CustomerData/
+Model/
+Resources/phpmd-rulesets/
+Setup/
+Ui/Component/Listing/Column/
+etc/
+i18n/
+view/
+.codeclimate.yml
+composer.json
+registration.php

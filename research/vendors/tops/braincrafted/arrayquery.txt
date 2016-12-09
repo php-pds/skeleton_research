@@ -1,0 +1,11 @@
+config/
+docs/examples/
+src/Braincrafted/ArrayQuery/
+tests/Braincrafted/ArrayQuery/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

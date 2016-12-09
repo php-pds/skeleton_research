@@ -1,0 +1,6 @@
+src/Xtwoend/Videoplus/
+tests/
+.gitignore
+.travis.yml
+composer.json
+phpunit.xml

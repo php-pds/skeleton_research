@@ -1,0 +1,9 @@
+src/Northern/Common/Util/
+tests/src/Northern/Test/Common/Util/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml

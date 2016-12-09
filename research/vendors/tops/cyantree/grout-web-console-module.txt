@@ -1,0 +1,5 @@
+source/
+templates/
+LICENSE
+WebConsoleModule.php
+composer.json

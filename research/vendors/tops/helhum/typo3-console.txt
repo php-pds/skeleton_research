@@ -1,0 +1,14 @@
+Classes/
+Configuration/Console/
+Documentation/
+Resources/Private/
+Scripts/
+Tests/Unit/
+.gitattributes
+.gitignore
+.php_cs
+.styleci.yml
+.travis.yml
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,4 @@
+src/Simexis/Installer/
+.gitignore
+composer.json
+readme.md

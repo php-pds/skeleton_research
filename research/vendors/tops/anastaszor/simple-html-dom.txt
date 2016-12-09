@@ -1,0 +1,9 @@
+example/
+manual/
+simplehtmldom/
+src/
+.gitignore
+CHANGLOG
+LICENSE
+README.md
+composer.json

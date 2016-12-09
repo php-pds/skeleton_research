@@ -1,0 +1,11 @@
+src/Provider/
+tests/Provider/
+.editorconfig
+.gitattributes
+.gitignore
+.travis.yml
+CHANGELOG.MD
+LICENSE
+README.md
+composer.json
+phpunit.xml

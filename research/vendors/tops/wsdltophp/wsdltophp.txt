@@ -1,0 +1,16 @@
+samples/
+.gitattributes
+.gitignore
+LICENCE.md
+README.md
+WsdlClassFileTpl.php
+WsdlToPhpFunction.php
+WsdlToPhpGenerator.php
+WsdlToPhpModel.php
+WsdlToPhpService.php
+WsdlToPhpStruct.php
+WsdlToPhpStructAttribute.php
+WsdlToPhpStructValue.php
+composer.json
+sample-tpl.php
+samples-generator.php

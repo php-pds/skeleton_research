@@ -1,0 +1,8 @@
+Config/
+Console/Command/
+Lib/Network/Email/
+Vendor/
+.gitignore
+LICENSE
+README.textile
+composer.json

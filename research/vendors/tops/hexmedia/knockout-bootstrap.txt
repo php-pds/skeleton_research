@@ -1,0 +1,8 @@
+examples/
+src/
+.gitignore
+.jshintrc
+Gruntfile.js
+README.md
+composer.json
+package.json

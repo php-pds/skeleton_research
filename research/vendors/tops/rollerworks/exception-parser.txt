@@ -1,0 +1,11 @@
+spec/Rollerworks/Component/ExceptionParser/
+src/
+.gitattributes
+.gitignore
+.gush.yml
+.php_cs
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpspec.yml

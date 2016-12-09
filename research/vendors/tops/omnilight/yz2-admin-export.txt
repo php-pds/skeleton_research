@@ -1,0 +1,6 @@
+backend/
+common/
+console/
+migrations/
+Bootstrap.php
+composer.json

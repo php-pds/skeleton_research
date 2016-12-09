@@ -1,0 +1,7 @@
+Classes/ViewHelpers/
+Configuration/
+Documentation/
+Meta/
+Migrations/Code/
+Resources/
+composer.json

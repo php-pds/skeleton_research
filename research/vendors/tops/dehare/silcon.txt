@@ -1,0 +1,3 @@
+src/Dehare/SilCon/
+README.md
+composer.json

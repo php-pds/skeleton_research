@@ -1,0 +1,8 @@
+build/
+src/Beaast/
+testing/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock

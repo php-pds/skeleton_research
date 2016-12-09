@@ -1,0 +1,9 @@
+_docs/
+htdocs/FESS/
+public_html/FESS/
+resources/
+sass/common/css/
+.gitignore
+README.md
+composer.json
+config.rb

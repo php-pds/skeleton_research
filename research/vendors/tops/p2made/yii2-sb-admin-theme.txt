@@ -1,0 +1,6 @@
+assets/
+data/
+views/sb-admin-2/
+LICENSE-MIT.md
+README.md
+composer.json

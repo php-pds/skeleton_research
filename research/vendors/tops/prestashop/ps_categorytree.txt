@@ -1,0 +1,13 @@
+img/
+translations/
+views/templates/hook/
+.gitignore
+Readme.md
+category-tree-branch.tpl
+composer.json
+config.xml
+index.php
+logo.png
+ps_categorytree.php
+sort_alphabet.png
+sort_number.png

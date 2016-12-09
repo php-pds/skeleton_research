@@ -1,0 +1,11 @@
+schema/
+src/
+tests/
+.gitattributes
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE.md
+README.md
+composer.json
+definition.json

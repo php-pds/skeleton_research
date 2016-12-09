@@ -1,0 +1,10 @@
+src/Lstr/Upcrypto/
+tests/
+.codeclimate.yml
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml

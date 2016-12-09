@@ -1,0 +1,14 @@
+Config/
+Controller/
+Locale/jpn/LC_MESSAGES/
+Model/
+Test/
+TestSuite/
+View/
+webroot/css/
+.gitattributes
+.gitignore
+.travis.yml
+README.md
+composer.json
+phpunit.xml.dist

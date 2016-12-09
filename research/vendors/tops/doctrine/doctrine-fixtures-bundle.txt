@@ -1,0 +1,8 @@
+Command/
+Resources/doc/
+.gitignore
+DoctrineFixturesBundle.php
+LICENSE
+README.markdown
+composer.json
+phpunit.xml.dist

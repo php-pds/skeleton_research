@@ -1,0 +1,6 @@
+bin/
+examples/
+.gitignore
+README.md
+TinyPng.php
+composer.json

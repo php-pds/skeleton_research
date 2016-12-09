@@ -1,0 +1,13 @@
+assets/
+config/
+contrib/
+lang/
+lib/sly/
+views/
+.bowerrc
+.hgignore
+Gruntfile.js
+boot.php
+bower.json
+composer.json
+package.json

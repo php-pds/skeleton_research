@@ -1,0 +1,8 @@
+Resources/meta/
+Tests/
+example/
+lib/NewsParser/
+.gitignore
+README.md
+composer.json
+phpunit.xml.dist

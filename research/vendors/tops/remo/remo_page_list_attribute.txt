@@ -1,0 +1,8 @@
+blocks/remo_list_attribute_pages/
+languages/de_DE/LC_MESSAGES/
+models/attribute/types/remo_page_list_attribute/
+README.md
+composer.json
+controller.php
+icon.png
+install.xml

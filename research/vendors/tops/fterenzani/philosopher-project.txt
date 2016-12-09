@@ -1,0 +1,11 @@
+data/
+public/
+src/
+views/
+.gitignore
+.htaccess
+LICENSE
+README.md
+bootstrap.php
+composer.json
+routing.php

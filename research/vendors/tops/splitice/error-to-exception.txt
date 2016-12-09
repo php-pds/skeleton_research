@@ -1,0 +1,4 @@
+src/Splitice/
+.gitignore
+README.md
+composer.json

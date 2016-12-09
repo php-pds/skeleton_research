@@ -1,0 +1,13 @@
+examples/
+src/SimpleXmlReader/
+tests/SimpleXmlReader/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+AUTHORS
+LICENSE
+Makefile
+README.md
+composer.json
+phpunit-full.xml.dist
+phpunit.xml.dist

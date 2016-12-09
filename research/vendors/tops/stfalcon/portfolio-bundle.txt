@@ -1,0 +1,12 @@
+Admin/
+Controller/
+DataFixtures/ORM/
+DependencyInjection/
+Entity/
+Naming/
+Repository/
+Resources/
+Tests/
+README.markdown
+StfalconPortfolioBundle.php
+composer.json

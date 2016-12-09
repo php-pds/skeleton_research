@@ -1,0 +1,11 @@
+code/model/
+tests/
+.gitattributes
+.scrutinizer.yml
+.travis.yml
+CHANGELOG.md
+CONTRIBUTING.md
+README.md
+_config.php
+composer.json
+license.md

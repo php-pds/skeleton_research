@@ -1,0 +1,11 @@
+spec/Alexpechkarev/GoogleGeocoder/
+src/Alexpechkarev/GoogleGeocoder/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+phpspec.yml
+phpunit.xml

@@ -1,0 +1,17 @@
+ISO639/
+MISC/
+batak/
+dutch/
+elvish/
+emoji/
+english/
+indo-european/
+indonesian/
+interlingua/
+klingon/
+latin/
+portuguese/
+CHANGELOG.md
+README.md
+TODO.md
+composer.json

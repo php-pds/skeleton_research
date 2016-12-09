@@ -1,0 +1,13 @@
+Command/
+Controller/
+DataCollector/
+DependencyInjection/
+Doctrine/Listener/
+Entity/
+Form/Type/
+Resources/
+Synchronization/
+Translation/
+ManuelTranslationBundle.php
+README.md
+composer.json

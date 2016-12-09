@@ -1,0 +1,13 @@
+assets/
+components/
+controllers/
+mail/
+messages/
+migrations/
+models/
+rules/
+views/
+Module.php
+README.md
+UserAsset.php
+composer.json

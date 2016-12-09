@@ -1,0 +1,13 @@
+build/
+samples/BankAccountDB/
+src/Extensions/Database/
+tests/
+.gitattributes
+.gitignore
+.travis.yml
+ChangeLog.md
+LICENSE
+Vagrantfile
+build.xml
+composer.json
+dbunit

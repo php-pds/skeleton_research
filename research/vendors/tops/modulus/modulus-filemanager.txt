@@ -1,0 +1,11 @@
+config/
+docs/
+public/
+src/ModulusFileManager/
+view/modulus-file-manager/
+.gitignore
+LICENSE
+Module.php
+README.md
+autoload_classmap.php
+composer.json

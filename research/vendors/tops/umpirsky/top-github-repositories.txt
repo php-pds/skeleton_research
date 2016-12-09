@@ -1,0 +1,7 @@
+examples/
+spec/Top/Github/Repositories/
+src/Top/Github/Repositories/
+.gitignore
+.travis.yml
+README.markdown
+composer.json

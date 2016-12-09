@@ -1,0 +1,7 @@
+Resources/config/
+SocialModule/
+vendor/
+Module.php
+composer.json
+module.json
+readme.md

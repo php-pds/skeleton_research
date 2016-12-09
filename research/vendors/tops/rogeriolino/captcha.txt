@@ -1,0 +1,5 @@
+demo/
+src/RogerioLino/Captcha/
+.gitignore
+README.md
+composer.json

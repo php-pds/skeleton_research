@@ -1,0 +1,5 @@
+Tests/
+src/Curli/
+LICENSE
+README.md
+composer.json

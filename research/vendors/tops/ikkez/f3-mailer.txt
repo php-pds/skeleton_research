@@ -1,0 +1,6 @@
+.gitignore
+LICENSE
+composer.json
+mailer.php
+mailer_config.sample.ini
+readme.md

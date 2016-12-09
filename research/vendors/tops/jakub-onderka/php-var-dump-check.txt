@@ -1,0 +1,10 @@
+src/JakubOnderka/PhpVarDumpCheck/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml
+var-dump-check
+var-dump-check.php

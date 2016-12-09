@@ -1,0 +1,13 @@
+doc/
+features/
+spec/SensioLabs/Behat/PageObjectExtension/
+src/SensioLabs/Behat/PageObjectExtension/
+.gitignore
+.travis.yml
+.travis_nginx.conf
+LICENSE
+README.md
+behat.yml
+build.php
+composer.json
+init.php

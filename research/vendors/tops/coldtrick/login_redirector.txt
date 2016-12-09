@@ -1,0 +1,11 @@
+languages/
+lib/
+views/default/plugins/login_redirector/
+.gitignore
+.travis.yml
+CHANGES.txt
+README.md
+composer.json
+composer.lock
+manifest.xml
+start.php

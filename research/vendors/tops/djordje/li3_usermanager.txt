@@ -1,0 +1,11 @@
+config/
+controllers/
+extensions/
+models/
+resources/migration/
+tests/cases/extensions/util/
+views/
+.gitignore
+CHANGELOG.md
+README.md
+composer.json

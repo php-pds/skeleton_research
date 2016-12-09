@@ -1,0 +1,4 @@
+src/Stnvh/Partial/
+.gitignore
+README.md
+composer.json

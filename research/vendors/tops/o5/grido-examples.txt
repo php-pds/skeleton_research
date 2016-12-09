@@ -1,0 +1,10 @@
+app/
+log/
+temp/
+vendor/
+www/
+.bowerrc
+.gitignore
+bower.json
+composer.json
+readme.md

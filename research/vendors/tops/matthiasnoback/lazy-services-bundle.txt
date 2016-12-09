@@ -1,0 +1,9 @@
+DependencyInjection/
+Tests/
+.gitignore
+.travis.yml
+LICENSE
+MatthiasLazyServicesBundle.php
+README.md
+composer.json
+phpunit.xml.dist

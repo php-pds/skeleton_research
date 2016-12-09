@@ -1,0 +1,6 @@
+lib/
+tests/
+.gitignore
+composer.json
+readme.mediawiki
+symclass.php

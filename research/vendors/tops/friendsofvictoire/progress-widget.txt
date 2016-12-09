@@ -1,0 +1,8 @@
+DependencyInjection/
+Entity/
+Form/
+Resources/
+Twig/
+README.md
+VictoireWidgetProgressBundle.php
+composer.json

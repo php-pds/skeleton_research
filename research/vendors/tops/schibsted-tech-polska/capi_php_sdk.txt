@@ -1,0 +1,17 @@
+.phpspec/
+docs/
+features/
+phing/
+spec/Snt/Capi/
+src/Snt/Capi/
+vagrant/
+.gitignore
+.travis.yml
+README.md
+Vagrantfile
+behat.yml
+build.xml
+composer.json
+composer.lock
+phpmd.xml
+ruleset.xml

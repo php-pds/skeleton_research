@@ -1,0 +1,7 @@
+classes/
+templates/
+.gitignore
+LICENSE
+README.md
+composer.json
+init.php

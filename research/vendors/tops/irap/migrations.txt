@@ -1,0 +1,5 @@
+LICENSE
+MigrationInterface.php
+MigrationManager.php
+README.md
+composer.json

@@ -1,0 +1,6 @@
+bin/
+puppet/
+.gitignore
+LICENSE
+README.md
+Vagrantfile

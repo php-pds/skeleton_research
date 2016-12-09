@@ -1,0 +1,15 @@
+clover/
+spec/
+src/
+tests/
+.gitignore
+.php_cs
+.scrutinizer.yml
+.travis.yml
+LICENSE
+composer.json
+phpspec.hhvm.yml
+phpspec.yml
+phpunit.php
+phpunit.xml
+readme.md

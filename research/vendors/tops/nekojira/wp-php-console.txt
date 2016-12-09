@@ -1,0 +1,16 @@
+assets/
+includes/
+languages/
+.editorconfig
+.gitattributes
+.gitignore
+ChangeLog.md
+Gruntfile.js
+LICENSE.txt
+README.md
+composer.json
+index.php
+package.json
+readme.txt
+uninstall.php
+wp-php-console.php

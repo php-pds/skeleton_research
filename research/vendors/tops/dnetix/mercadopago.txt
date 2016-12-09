@@ -1,0 +1,6 @@
+examples/
+src/Dnetix/MercadoPago/
+.gitignore
+README.md
+composer.json
+composer.lock

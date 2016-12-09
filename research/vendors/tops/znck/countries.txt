@@ -1,0 +1,15 @@
+build/
+config/
+data/
+src/
+test-data/
+tests/
+.gitignore
+.php_cs
+.styleci.yml
+LICENSE
+README.md
+circle.yml
+composer.json
+composer.lock
+phpunit.xml

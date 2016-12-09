@@ -1,0 +1,4 @@
+widgets/CKEditorWidget/
+Bootstrap.php
+Module.php
+composer.json

@@ -1,0 +1,17 @@
+Command/
+Generator/
+Bag.php
+Browser.php
+Config.php
+Coverage.php
+Crawler.php
+CurlConverter.php
+Fixtures.php
+Form.php
+LICENSE
+README.md
+Results.php
+TestBuilder.php
+TestBuilderInterface.php
+TestsGenerator.php
+composer.json

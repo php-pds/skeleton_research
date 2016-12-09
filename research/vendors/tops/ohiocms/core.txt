@@ -1,0 +1,9 @@
+config/
+database/
+resources/
+src/
+tests/
+.gitignore
+composer.json
+gulpfile.js
+readme.md

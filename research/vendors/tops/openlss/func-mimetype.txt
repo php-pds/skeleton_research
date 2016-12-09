@@ -1,0 +1,6 @@
+func/
+.gitignore
+COPYING
+COPYING.LESSER
+README.md
+composer.json

@@ -1,0 +1,10 @@
+Admin/
+Command/
+Event/
+JobHandler/
+Migration/
+Model/
+Public/js/
+Store/
+Module.php
+composer.json

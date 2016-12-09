@@ -1,0 +1,6 @@
+application/
+.gitignore
+.travis
+README.md
+composer.json
+index.php

@@ -1,0 +1,12 @@
+build/
+src/
+tests/
+.gitattributes
+.gitignore
+.travis.yml
+LICENSE.md
+Makefile
+NOTICE.md
+README.md
+composer.json
+phpunit.xml.dist

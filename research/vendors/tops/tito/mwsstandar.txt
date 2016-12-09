@@ -1,0 +1,5 @@
+MWSStandarBundle/MwsStandar/
+.gitignore
+GIT_ENV.reg
+README.md
+composer.json

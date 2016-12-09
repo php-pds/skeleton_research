@@ -1,0 +1,8 @@
+Model/
+Originator/
+spec/Originator/
+.gitignore
+LICENSE
+README.md
+composer.json
+phpspec.yml.dist

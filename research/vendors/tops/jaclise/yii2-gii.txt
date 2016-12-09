@@ -1,0 +1,7 @@
+crud/
+model/
+README.md
+aa.txt
+composer.json
+status.md
+tips.md

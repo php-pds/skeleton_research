@@ -1,0 +1,6 @@
+spec/PHPetroleum/
+src/PHPetroleum/
+.gitignore
+.travis.yml
+README.md
+composer.json

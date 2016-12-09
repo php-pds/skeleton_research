@@ -1,0 +1,11 @@
+.settings/
+Classes/
+Resources/Private/Language/
+Tests/
+doc/
+.buildpath
+.project
+composer.json
+ext_emconf.php
+ext_icon.gif
+ext_localconf.php

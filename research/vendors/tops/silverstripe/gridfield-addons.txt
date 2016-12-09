@@ -1,0 +1,9 @@
+code/
+css/
+docs/en/
+javascript/
+templates/
+.gitignore
+README.md
+_config.php
+composer.json

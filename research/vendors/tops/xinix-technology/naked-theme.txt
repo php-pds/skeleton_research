@@ -1,0 +1,13 @@
+bower_components/jquery/
+node_modules/pax-php/
+src/Xinix/Theme/
+templates/
+www/vendor/
+.gitignore
+LICENSE
+README.md
+bower.json
+composer.json
+composer.phar
+package.json
+paxfile.js

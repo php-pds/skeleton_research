@@ -1,0 +1,10 @@
+jsonrpc/
+AbcpRpcServiceClient.php
+AutotradeRpcServiceClient.php
+BergRpcServiceClient.php
+MxgroupRpcServiceClient.php
+RosskoRpcServiceClient.php
+TmpartsRpcServiceClient.php
+UniqomRpcServiceClient.php
+YandexDirectRpcServiceClient.php
+composer.json

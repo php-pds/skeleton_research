@@ -1,0 +1,4 @@
+demo/
+src/MayanCalendar/
+README.md
+composer.json

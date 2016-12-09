@@ -1,0 +1,10 @@
+actions/widgets/
+classes/
+languages/
+screenshots/
+views/default/
+LICENSE.txt
+activate.php
+composer.json
+manifest.xml
+start.php

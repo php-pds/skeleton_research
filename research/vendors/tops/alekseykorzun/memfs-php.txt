@@ -1,0 +1,6 @@
+benchmark/
+doc/
+src/MemFS/
+README.md
+VERSION.md
+composer.json

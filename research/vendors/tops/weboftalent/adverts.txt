@@ -1,0 +1,12 @@
+_config/
+code/
+docs/
+javascript/
+templates/
+tests/
+.editorconfig
+.gitattributes
+.scrutinizer.yml
+.travis.yml
+README.md
+composer.json

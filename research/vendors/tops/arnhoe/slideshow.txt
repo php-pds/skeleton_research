@@ -1,0 +1,10 @@
+code/
+css/
+js/
+templates/Includes/
+thirdparty/
+.gitignore
+.gitmodules
+README.md
+_config.php
+composer.json

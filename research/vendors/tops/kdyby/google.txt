@@ -1,0 +1,10 @@
+docs/en/
+src/Kdyby/Google/
+tests/
+.gitattributes
+.gitignore
+.travis.yml
+LICENSE.md
+README.md
+composer.json
+license.md

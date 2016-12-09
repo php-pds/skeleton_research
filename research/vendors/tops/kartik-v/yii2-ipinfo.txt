@@ -1,0 +1,8 @@
+assets/
+messages/
+CHANGE.md
+IpInfo.php
+IpInfoAsset.php
+LICENSE.md
+README.md
+composer.json

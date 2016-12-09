@@ -1,0 +1,6 @@
+Victoriabank/
+.gitignore
+LICENSE
+README.md
+VictoriaClient.php
+composer.json

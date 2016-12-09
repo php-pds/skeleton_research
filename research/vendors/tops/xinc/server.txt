@@ -1,0 +1,10 @@
+Classes/
+Configuration/
+Executes/
+etc/
+tests/
+.gitignore
+README
+composer.json
+help.sh
+phpunit.xml

@@ -1,0 +1,11 @@
+documentation/
+src/Midgard/CreatePHP/
+tests/
+.gitignore
+.travis.yml
+CHANGELOG.md
+LGPL-LICENSE.txt
+MIT-LICENSE.txt
+README.md
+composer.json
+phpunit.xml.dist

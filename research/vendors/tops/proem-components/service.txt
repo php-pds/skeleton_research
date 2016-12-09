@@ -1,0 +1,12 @@
+Tests/
+.travis.yml
+Asset.php
+AssetComposer.php
+AssetComposerInterface.php
+AssetInterface.php
+AssetManager.php
+AssetManagerInterface.php
+LICENSE
+README.md
+composer.json
+phpunit.xml

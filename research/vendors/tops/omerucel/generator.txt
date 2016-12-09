@@ -1,0 +1,8 @@
+src/Generator/
+tests/src/Generator/
+.gitignore
+.travis.yml
+README.md
+composer.json
+phpunit.php
+phpunit.xml

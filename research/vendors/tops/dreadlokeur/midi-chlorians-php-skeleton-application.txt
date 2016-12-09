@@ -1,0 +1,11 @@
+application/
+vendor/
+.gitignore
+.gitmodules
+.htaccess
+LICENSE
+README.md
+composer.json
+index.php
+loader.php
+paths.php

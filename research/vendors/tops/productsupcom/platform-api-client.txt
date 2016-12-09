@@ -1,0 +1,7 @@
+examples/
+lib/Productsup/
+.gitignore
+LICENSE
+README.md
+autoload.php
+composer.json

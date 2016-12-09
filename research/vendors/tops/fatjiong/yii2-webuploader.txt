@@ -1,0 +1,6 @@
+assets/
+README.md
+UploadAction.php
+WebUploader.php
+WebUploaderAsset.php
+composer.json

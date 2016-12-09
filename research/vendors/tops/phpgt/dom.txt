@@ -1,0 +1,12 @@
+src/
+test/
+.gitignore
+.scrutinizer.yml
+CONTRIBUTING.md
+LICENSE
+README.md
+circle.yml
+composer.json
+composer.lock
+example.gif
+phpunit.xml

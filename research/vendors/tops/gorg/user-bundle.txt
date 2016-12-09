@@ -1,0 +1,8 @@
+DependencyInjection/
+Entity/
+Resources/config/
+Security/
+Tests/Security/
+GorgUserBundle.php
+build.xml
+composer.json

@@ -1,0 +1,7 @@
+CONTRIBUTING.md
+LICENSE
+README.md
+basicauth.php
+basicauth.xml
+composer.json
+install.sql

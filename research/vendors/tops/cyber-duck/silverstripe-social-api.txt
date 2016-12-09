@@ -1,0 +1,3 @@
+.htaccess
+README.md
+composer.json

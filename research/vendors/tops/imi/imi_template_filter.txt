@@ -1,0 +1,4 @@
+contao/
+LICENSE
+README.md
+composer.json

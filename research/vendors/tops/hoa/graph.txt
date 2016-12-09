@@ -1,0 +1,13 @@
+Documentation/Image/
+Iterator/
+Test/Unit/
+.State
+.gitignore
+AdjacencyList.php
+CHANGELOG.md
+Exception.php
+Graph.php
+Node.php
+README.md
+SimpleNode.php
+composer.json

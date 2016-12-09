@@ -1,0 +1,14 @@
+_ide/
+backup/db/
+common/
+console/
+frontend/
+tests/
+.gitignore
+CHANGELOG.md
+LICENSE
+README.md
+composer.json
+composer.lock
+yii
+yii.bat

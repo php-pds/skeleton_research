@@ -1,0 +1,9 @@
+src/GMdotnet/Magento/Command/
+tests/GMdotnet/Magento/Command/
+.gitignore
+CHANGELOG.md
+LICENSE.txt
+README.md
+composer.json
+modman
+n98-magerun.yaml

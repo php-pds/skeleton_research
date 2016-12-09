@@ -1,0 +1,7 @@
+Validate/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+composer.json
+package.xml

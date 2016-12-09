@@ -1,0 +1,15 @@
+actions/db_explorer/
+languages/
+lib/
+screenshots/
+vendors/
+views/default/
+.gitattributes
+.gitignore
+Gruntfile.js
+README.md
+activate.php
+composer.json
+manifest.xml
+package.json
+start.php

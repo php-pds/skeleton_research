@@ -1,0 +1,7 @@
+config/
+src/Diretoria/Controller/
+view/Diretoria/index/
+.gitignore
+Module.php
+autoload_classmap.php
+composer.json

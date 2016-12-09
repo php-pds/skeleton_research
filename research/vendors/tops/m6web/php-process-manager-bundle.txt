@@ -1,0 +1,17 @@
+Bridge/
+Command/
+DependencyInjection/
+Resources/config/
+doc/
+tests/Units/
+.atoum.php
+.atoum.travis.php
+.bootstrap.atoum.php
+.coke
+.gitignore
+.travis.yml
+CONTRIBUTING.md
+LICENSE
+M6WebPhpProcessManagerBundle.php
+README.md
+composer.json

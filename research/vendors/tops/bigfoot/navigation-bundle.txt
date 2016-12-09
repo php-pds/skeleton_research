@@ -1,0 +1,15 @@
+Controller/
+DataFixtures/ORM/
+DependencyInjection/
+Entity/
+Form/
+Manager/Menu/Item/
+Migrations/
+Resources/
+Subscriber/
+Twig/Extension/
+.gitignore
+BigfootNavigationBundle.php
+README.md
+UPGRADE-2.2.md
+composer.json

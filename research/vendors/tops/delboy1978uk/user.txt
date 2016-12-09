@@ -1,0 +1,12 @@
+migrations/
+src/
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+cli-config.php
+codeception.yml
+composer.json
+migrant-cfg.php

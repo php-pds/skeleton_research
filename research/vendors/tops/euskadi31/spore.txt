@@ -1,0 +1,10 @@
+Tests/Units/
+bin/
+build/Acme/Client/
+demo/
+src/Spore/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json

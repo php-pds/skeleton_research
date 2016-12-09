@@ -1,0 +1,12 @@
+DependencyInjection/
+Helper/
+Resources/
+Tests/
+Twig/Extension/
+.gitignore
+.travis.yml
+CHANGELOG.md
+MisdLinkifyBundle.php
+README.md
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,5 @@
+src/Gnkw/Tools/
+.gitignore
+COPYING.txt
+README.md
+composer.json

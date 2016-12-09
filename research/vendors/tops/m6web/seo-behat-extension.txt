@@ -1,0 +1,7 @@
+spec/
+src/M6Web/Behat/SEOExtension/
+.gitignore
+.travis.yml
+README.md
+composer.json
+composer.lock

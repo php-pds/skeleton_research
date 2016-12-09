@@ -1,0 +1,11 @@
+admin/
+extensions/
+inc/
+templates/
+wizards/
+.gitignore
+backend.php
+composer.json
+crud.php
+index.php
+readme.md

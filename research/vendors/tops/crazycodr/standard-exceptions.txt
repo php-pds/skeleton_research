@@ -1,0 +1,10 @@
+Exceptions/
+Tests/
+.gitignore
+.travis.yml
+CHANGES.md
+LICENSE
+README.md
+composer.json
+phpunit.php
+phpunit.xml

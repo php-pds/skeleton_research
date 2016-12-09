@@ -1,0 +1,7 @@
+graphics/
+CHANGES.txt
+README.md
+composer.json
+image.php
+manifest.xml
+start.php

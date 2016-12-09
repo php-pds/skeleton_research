@@ -1,0 +1,14 @@
+.idea/
+CacheWarmer/
+Command/
+Compiler/
+Controller/
+DependencyInjection/
+Factory/
+Resources/config/
+Tests/
+.gitignore
+LICENSE
+SmartGeckoThriftBundle.php
+composer.json
+phpunit.xml.dist

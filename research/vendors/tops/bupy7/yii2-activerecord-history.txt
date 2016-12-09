@@ -1,0 +1,10 @@
+behaviors/
+entities/
+interfaces/
+migrations/
+storages/
+.gitignore
+CHANGELOG.md
+Module.php
+README.md
+composer.json

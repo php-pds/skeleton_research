@@ -1,0 +1,6 @@
+src/Stevebauman/Viewer/
+.gitignore
+.travis.yml
+README.md
+composer.json
+phpunit.xml

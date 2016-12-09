@@ -1,0 +1,10 @@
+DependencyInjection/
+Entity/
+Model/
+Resources/config/
+Tests/
+.gitignore
+JLMAskBundle.php
+LICENSE
+README.md
+composer.json

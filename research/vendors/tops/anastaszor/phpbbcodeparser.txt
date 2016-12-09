@@ -1,0 +1,10 @@
+classes/
+interfaces/
+tests/
+.gitignore
+CHANGELOG
+LICENSE
+README.md
+composer.json
+phpunitbootstrap.php
+runphpunit

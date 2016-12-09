@@ -1,0 +1,12 @@
+Builder/
+Connection/
+Exception/
+File/
+AbstractSocket.php
+HttpSocket.php
+HttpsSocket.php
+LICENSE
+LocalSocket.php
+RemoteSocket.php
+SocketInterface.php
+composer.json

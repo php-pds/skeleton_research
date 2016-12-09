@@ -1,0 +1,10 @@
+config/
+src/SmartyModule/
+tests/
+vendor/
+.gitignore
+.gitmodules
+.travis.yml
+Module.php
+README.md
+composer.json

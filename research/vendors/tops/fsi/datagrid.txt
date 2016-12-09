@@ -1,0 +1,10 @@
+doc/en/
+lib/
+tests/
+.gitignore
+.travis.yml
+LICENSE.md
+README.md
+UPGRADE-1.0.md
+composer.json
+phpunit.xml.dist

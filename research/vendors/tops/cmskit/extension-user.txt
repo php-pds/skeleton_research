@@ -1,0 +1,12 @@
+config/
+doc/
+inc/
+login/
+register/
+reset/
+settings/
+wizards/
+.gitignore
+composer.json
+hooks.php
+readme.md

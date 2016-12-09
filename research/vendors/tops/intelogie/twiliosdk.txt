@@ -1,0 +1,14 @@
+Services/
+docs/
+tests/
+.gitignore
+.travis.yml
+AUTHORS.md
+CHANGES.md
+LICENSE
+Makefile
+README.md
+composer.json
+composer.lock
+issue_template.md
+package.php

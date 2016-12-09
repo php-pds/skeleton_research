@@ -1,0 +1,8 @@
+src/Snappy/Apps/Github/
+tests/
+.gitignore
+.travis.yml
+composer.json
+github.png
+phpunit.xml
+readme.md

@@ -1,0 +1,5 @@
+system/modules/tasks/
+.gitattributes
+.gitignore
+README.md
+composer.json

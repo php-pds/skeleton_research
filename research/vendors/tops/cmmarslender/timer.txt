@@ -1,0 +1,9 @@
+includes/Cmmarslender/Timer/
+tests/phpunit/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+bootstrap.php.dist
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,16 @@
+config/
+docs/
+src/
+tests/
+webroot/
+.editorconfig
+.gitignore
+.scrutinizer.yml
+.semver
+.travis.yml
+CHANGELOG.md
+CONTRIBUTING.md
+LICENSE.txt
+README.md
+composer.json
+phpunit.xml.dist

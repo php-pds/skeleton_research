@@ -1,0 +1,10 @@
+config/
+log/
+public/
+src/
+vendor/
+.gitignore
+COPYING
+README.md
+composer.json
+phpunit.xml.dist

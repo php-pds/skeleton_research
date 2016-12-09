@@ -1,0 +1,7 @@
+contao/
+src/ContaoFussball/
+.bowerrc
+.gitignore
+README.md
+bower.json
+composer.json

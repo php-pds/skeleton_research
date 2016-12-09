@@ -1,0 +1,8 @@
+controllers/
+lib/ComputerVision/
+static/
+views/scripts/index/
+LICENSE
+README.md
+composer.json
+plugin.xml

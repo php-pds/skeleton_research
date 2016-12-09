@@ -1,0 +1,6 @@
+bin/
+src/ngyuki/ExamplePackagist/
+tests/
+.gitattributes
+.gitignore
+composer.json

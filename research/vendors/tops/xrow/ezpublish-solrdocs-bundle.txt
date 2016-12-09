@@ -1,0 +1,14 @@
+Command/
+Controller/
+DependencyInjection/
+Form/Type/
+Persistence/Solrdoc/Content/
+Repository/
+Resources/
+SolrDocRepository/
+Tests/Controller/
+src/
+Globals.php
+README.md
+composer.json
+xrowEzPublishSolrDocsBundle.php

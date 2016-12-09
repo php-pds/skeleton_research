@@ -1,0 +1,8 @@
+src/Marando/Process/
+tests/src/Marando/Process/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml

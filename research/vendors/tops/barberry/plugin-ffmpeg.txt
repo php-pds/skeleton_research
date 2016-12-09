@@ -1,0 +1,6 @@
+src/Barberry/Plugin/Ffmpeg/
+test/
+.gitignore
+README.md
+composer.json
+phpunit.xml

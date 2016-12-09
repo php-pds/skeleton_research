@@ -1,0 +1,12 @@
+classes/
+messages/validators/
+tests/
+.gitignore
+.srcutinizer.yml
+.travis.yml
+CONTRIBUTING.md
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml

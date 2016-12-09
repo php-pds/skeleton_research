@@ -1,0 +1,6 @@
+src/
+tests/
+LICENSE
+composer.json
+phpunit.xml.dist
+readme.md

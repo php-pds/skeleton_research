@@ -1,0 +1,8 @@
+wp-spider-cache/
+.gitignore
+CHANGELOG.md
+LICENSE
+README.md
+composer.json
+readme.txt
+wp-spider-cache.php

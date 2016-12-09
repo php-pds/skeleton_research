@@ -1,0 +1,6 @@
+Model/
+.gitignore
+README.md
+RezzzaSepaBundle.php
+composer.json
+composer.lock

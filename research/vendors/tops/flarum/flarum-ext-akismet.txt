@@ -1,0 +1,12 @@
+js/
+migrations/
+scripts/
+src/Listener/
+.editorconfig
+.gitattributes
+.gitignore
+.styleci.yml
+LICENSE
+bootstrap.php
+composer.json
+icon.jpg

@@ -1,0 +1,8 @@
+DependencyInjection/
+Form/Type/
+Model/
+Resources/
+LICENSE
+LapaLabsUserProfileBundle.php
+README.md
+composer.json

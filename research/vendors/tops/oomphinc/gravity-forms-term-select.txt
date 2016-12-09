@@ -1,0 +1,4 @@
+assets/
+inc/
+composer.json
+gforms-term-select.php

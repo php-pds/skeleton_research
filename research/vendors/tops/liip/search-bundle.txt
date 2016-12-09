@@ -1,0 +1,11 @@
+Controller/
+DependencyInjection/
+Exception/
+Resources/
+SearchClient/
+Twig/
+.styleci.yml
+LiipSearchBundle.php
+README.md
+SearchFactoryInterface.php
+composer.json

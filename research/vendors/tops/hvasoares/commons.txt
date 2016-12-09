@@ -1,0 +1,4 @@
+src/hvasoares/commons/
+.gitignore
+README.md
+composer.json

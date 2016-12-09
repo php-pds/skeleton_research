@@ -1,0 +1,5 @@
+src/LW/SocketClient/
+.gitignore
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,9 @@
+config/
+data/
+src/ZF2AuthAcl/
+view/zf2-auth-acl/index/
+.gitignore
+LICENSE
+Module.php
+README.md
+composer.json

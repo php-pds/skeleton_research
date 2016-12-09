@@ -1,0 +1,15 @@
+build/
+src/TestingHelper/
+tests/
+.editorconfig
+.gitattributes
+.gitignore
+.php_cs
+.styleci.yml
+.travis.yml
+CONTRIBUTING.md
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

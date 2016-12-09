@@ -1,0 +1,10 @@
+DependencyInjection/
+Exception/
+Handler/
+Model/
+Resources/
+Twig/Extension/
+.gitignore
+QualityPressBreadcrumbsBundle.php
+README.md
+composer.json

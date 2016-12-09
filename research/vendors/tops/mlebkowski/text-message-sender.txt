@@ -1,0 +1,7 @@
+src/Nassau/TextMessage/
+tests/
+.gitignore
+composer.json
+composer.lock
+phpunit.xml
+wercker.yml

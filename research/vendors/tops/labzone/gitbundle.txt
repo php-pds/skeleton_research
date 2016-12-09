@@ -1,0 +1,10 @@
+DependencyInjection/
+Resources/config/
+Tests/
+.gitignore
+.travis.yml
+LICENSE
+LabZoneGitBundle.php
+README.md
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,11 @@
+app/
+src/
+web/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+UPDATE-FROM-REDKITE-CMS-BETA-1
+UPGRADE-FROM-REDKITE-CMS-1-1-1.md
+UPGRADE-TO-SYMFONY-2.3.md
+composer.json

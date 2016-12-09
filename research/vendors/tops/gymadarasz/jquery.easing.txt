@@ -1,0 +1,5 @@
+.gitignore
+README.md
+composer.json
+jquery.easing.1.3.js
+jquery.easing.compatibility.js

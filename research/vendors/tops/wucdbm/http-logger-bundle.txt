@@ -1,0 +1,13 @@
+Controller/
+DependencyInjection/
+Entity/
+Logger/
+Repository/
+Resources/config/
+Subscriber/
+.gitattributes
+.gitignore
+LICENSE
+WucdbmHttpLoggerBundle.php
+composer.json
+readme.md

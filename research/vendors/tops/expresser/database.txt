@@ -1,0 +1,8 @@
+Eloquent/
+Query/Grammars/
+Themosis/
+WordPress/WpdbDriver/
+.editorconfig
+README.md
+WpdbConnection.php
+composer.json

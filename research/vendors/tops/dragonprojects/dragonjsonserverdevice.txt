@@ -1,0 +1,5 @@
+config/
+data/database/
+src/DragonJsonServerDevice/
+Module.php
+composer.json

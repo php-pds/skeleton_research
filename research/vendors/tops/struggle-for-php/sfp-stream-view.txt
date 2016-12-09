@@ -1,0 +1,7 @@
+demos/
+src/SfpStreamView/
+tests/
+.gitignore
+LICENSE
+composer.json
+phpunit.xml

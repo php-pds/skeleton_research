@@ -1,0 +1,8 @@
+lib/Magomogo/Persisted/
+test/
+.gitignore
+.travis.yml
+README.md
+composer.json
+phpunit
+phpunit.xml.dist

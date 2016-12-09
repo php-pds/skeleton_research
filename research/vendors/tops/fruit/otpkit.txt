@@ -1,0 +1,7 @@
+src/
+.gitignore
+Makefile
+README.md
+composer.json
+doxygen.conf
+phpmd.xml

@@ -1,0 +1,6 @@
+src/Lovenunu/HashMap/
+tests/Lovenunu/HashMap/Tests/
+.gitignore
+LICENSE
+Readme.md
+composer.json

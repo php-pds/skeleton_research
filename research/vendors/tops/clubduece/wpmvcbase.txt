@@ -1,0 +1,15 @@
+controllers/
+helpers/
+models/
+tests/
+views/
+.coveralls.yml
+.gitignore
+.travis.yml
+README.md
+build.xml
+composer.json
+composer.lock
+helper.php
+phpunit.xml.dist
+wpmvcb.php

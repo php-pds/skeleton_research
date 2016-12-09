@@ -1,0 +1,9 @@
+cli/
+lib/
+test/
+.gitignore
+CHANGELOG.md
+README.md
+assets.php
+composer.json
+phpunit.xml

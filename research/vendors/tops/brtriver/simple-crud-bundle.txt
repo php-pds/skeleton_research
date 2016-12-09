@@ -1,0 +1,11 @@
+Annotation/
+Controller/
+DependencyInjection/
+Entity/
+Form/
+Resources/
+.gitignore
+BrtriverSimpleCrudBundle.php
+LICENCE
+README.md
+composer.json

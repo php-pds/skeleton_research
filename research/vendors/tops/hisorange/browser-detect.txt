@@ -1,0 +1,6 @@
+cache/Browscap/
+src/
+.gitignore
+README.md
+changelog.md
+composer.json

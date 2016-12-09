@@ -1,0 +1,6 @@
+docs/
+LICENSE
+Makefile
+README.md
+composer.json
+wunderground.php

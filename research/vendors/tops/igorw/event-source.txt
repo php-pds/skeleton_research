@@ -1,0 +1,9 @@
+examples/redis/
+src/Igorw/EventSource/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

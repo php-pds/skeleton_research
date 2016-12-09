@@ -1,0 +1,17 @@
+_ide/
+assets/
+config/
+controllers/
+helpers/
+messages/ru/
+models/forms/
+templates/
+views/admin-test/
+CHANGELOG.md
+LICENSE.md
+Mailer.php
+MailerSettings.php
+Message.php
+Module.php
+README.md
+composer.json

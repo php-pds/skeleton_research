@@ -1,0 +1,5 @@
+example/
+src/AlanPich/PhantomPDF/
+vendor/PDFMerger/
+.gitignore
+composer.json

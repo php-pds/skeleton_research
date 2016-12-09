@@ -1,0 +1,16 @@
+.gitignore
+CouchbaseBucket.class.php
+CouchbaseBucketManager.class.php
+CouchbaseCluster.class.php
+CouchbaseClusterManager.class.php
+CouchbaseLookupInBuilder.class.php
+CouchbaseMutateInBuilder.class.php
+CouchbaseN1qlQuery.class.php
+CouchbaseSearchQuery.class.php
+CouchbaseViewQuery.class.php
+README.md
+composer.json
+connstr.php
+constants.php
+default_transcoder.php
+stub.php

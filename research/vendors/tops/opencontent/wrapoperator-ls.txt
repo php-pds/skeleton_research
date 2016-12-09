@@ -1,0 +1,6 @@
+autoloads/
+doc/
+settings/
+userfunctions/
+composer.json
+ezinfo.php

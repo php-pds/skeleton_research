@@ -1,0 +1,9 @@
+views/default/avatar_service/icon/
+.gitignore
+.travis.yml
+CHANGES.txt
+README.md
+composer.json
+composer.lock
+manifest.xml
+start.php

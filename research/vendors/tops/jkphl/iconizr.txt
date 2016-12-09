@@ -1,0 +1,11 @@
+example/
+lib/Zend/Console/
+src/
+CHANGELOG.md
+Gruntfile.js
+LICENSE.txt
+README.md
+bower.json
+composer.json
+iconizr.phps
+package.json

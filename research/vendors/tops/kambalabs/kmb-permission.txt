@@ -1,0 +1,12 @@
+config/
+language/
+src/KmbPermission/
+test/
+view/error/
+.gitignore
+COPYING
+Module.php
+README.md
+composer.json
+composer.phar
+coverage-checker.php

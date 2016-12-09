@@ -1,0 +1,10 @@
+Bin/
+Documentation/
+Test/Unit/
+.State
+CHANGELOG.md
+Exception.php
+README.md
+Search.php
+String.php
+composer.json

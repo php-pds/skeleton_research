@@ -1,0 +1,8 @@
+DependencyInjection/
+Resources/config/
+Service/
+Twig/Extension/
+EWZRuntimeConfigBundle.php
+LICENSE
+README.md
+composer.json

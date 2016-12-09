@@ -1,0 +1,5 @@
+system/modules/simple_news_urls/
+.gitignore
+LICENSE
+README.md
+composer.json

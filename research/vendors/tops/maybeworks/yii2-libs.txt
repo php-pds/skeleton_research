@@ -1,0 +1,12 @@
+.gitignore
+ActiveQuery.php
+ActiveRecord.php
+AdditionsTrait.php
+BootstrapTrait.php
+LICENSE.txt
+Migration.php
+ProcessFilterEvent.php
+README.md
+SearchInterface.php
+SearchTrait.php
+composer.json

@@ -1,0 +1,12 @@
+src/Bullet/
+tests/
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENSE.txt
+README.md
+composer.json
+composer.lock
+composer.phar
+index.php
+phpunit.xml

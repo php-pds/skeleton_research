@@ -1,0 +1,6 @@
+examples/
+src/Wxpub/
+.gitignore
+README.md
+autoload.php
+composer.json

@@ -1,0 +1,6 @@
+bin/
+lib/
+node_modules/
+tools/
+LICENSE
+composer.json

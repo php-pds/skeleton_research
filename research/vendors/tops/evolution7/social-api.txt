@@ -1,0 +1,9 @@
+Evolution7/SocialApi/
+.gitignore
+LICENSE
+README.md
+build.xml
+composer.json
+composer.lock
+git_hooks
+phpunit.xml

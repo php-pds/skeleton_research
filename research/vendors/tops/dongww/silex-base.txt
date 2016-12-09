@@ -1,0 +1,6 @@
+app/
+bin/
+docs/
+web/
+README.md
+composer.json

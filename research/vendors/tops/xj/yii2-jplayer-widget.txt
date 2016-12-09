@@ -1,0 +1,10 @@
+skins/
+views/
+.gitignore
+AudioWidget.php
+CircleAudioWidget.php
+CommonAssets.php
+JplayerWidget.php
+README.md
+VideoWidget.php
+composer.json

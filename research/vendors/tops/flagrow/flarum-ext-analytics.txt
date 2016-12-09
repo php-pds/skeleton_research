@@ -1,0 +1,11 @@
+assets/js/
+js/
+less/admin/
+locale/
+src/Listeners/
+.gitignore
+bootstrap.php
+changelog.md
+composer.json
+license.md
+readme.md

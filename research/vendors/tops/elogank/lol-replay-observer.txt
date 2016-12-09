@@ -1,0 +1,6 @@
+docs/
+src/EloGank/Replay/Observer/
+.gitignore
+LICENSE
+README.md
+composer.json

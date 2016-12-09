@@ -1,0 +1,5 @@
+.idea/
+lib/Jamm/HTTP/
+.gitignore
+README.md
+composer.json

@@ -1,0 +1,16 @@
+docker/php_5.5-cli/
+features/bootstrap/
+src/
+tests/
+.gitattributes
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CHANGELOG.md
+CONTRIBUTING.md
+README.md
+behat.yml
+composer.json
+composer.lock
+docker-compose.yml
+phpunit.xml.dist

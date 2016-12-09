@@ -1,0 +1,11 @@
+.settings/
+assets/
+controllers/
+views/default/
+widgets/
+.buildpath
+.gitignore
+.project
+Module.php
+README.md
+composer.json

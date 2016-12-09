@@ -1,0 +1,10 @@
+src/hexpang/Client/
+test/
+.gitignore
+APITest.php
+LICENSE
+README.md
+circle.yml
+composer.json
+composer.lock
+phpunit.xml

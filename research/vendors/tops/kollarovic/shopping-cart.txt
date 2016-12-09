@@ -1,0 +1,5 @@
+src/Kollarovic/ShoppingCart/
+tests/
+.gitignore
+README.md
+composer.json

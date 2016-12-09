@@ -1,0 +1,10 @@
+.phpspec/
+examples/
+specs/Bound1ess/MermaidPhp/
+src/Bound1ess/MermaidPhp/
+.gitignore
+.travis.yml
+composer.json
+license
+phpspec.yml
+readme.md

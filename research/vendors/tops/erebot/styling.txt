@@ -1,0 +1,12 @@
+data/
+src/
+tests/
+.coveralls.yml
+.gitignore
+.travis.yml
+LICENSE
+README.rst
+composer.json
+composer.lock
+phpcs.xml
+phpunit.xml

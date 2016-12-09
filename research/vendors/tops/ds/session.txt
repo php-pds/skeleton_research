@@ -1,0 +1,8 @@
+Src/Session/
+Tests/Session/
+.gitignore
+.travis.yml
+README.md
+autoload.php
+composer.json
+phpunit.xml

@@ -1,0 +1,11 @@
+doc/
+spec/PedroTroller/CS/Fixer/Contrib/
+src/PedroTroller/CS/Fixer/
+.gitignore
+.php_cs
+.travis.yml
+Makefile
+README.md
+composer.json
+docker-compose.yml
+phpspec.yml

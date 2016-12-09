@@ -1,0 +1,4 @@
+lib/PHPRapidGen/
+LICENSE-GPLv3.txt
+README.md
+composer.json

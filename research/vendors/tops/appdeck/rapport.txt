@@ -1,0 +1,6 @@
+dist/
+examples/simple/
+src/Rapport/
+.gitignore
+README.md
+composer.json

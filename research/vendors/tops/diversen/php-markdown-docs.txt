@@ -1,0 +1,8 @@
+bin/
+src/
+.gitignore
+README.md
+build-readme.sh
+composer-master.json
+composer.json
+intro.md

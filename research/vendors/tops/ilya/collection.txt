@@ -1,0 +1,9 @@
+source/Collection/
+tests/Spec/Collection/
+.gitignore
+.travis.yml
+composer.json
+composer.lock
+license
+phpspec.yml
+readme.md

@@ -1,0 +1,10 @@
+Controller/
+DependencyInjection/
+Entity/
+EventListener/
+Form/Type/
+Resources/
+LICENSE
+NewscoopArticleRecommendationBundle.php
+README.md
+composer.json

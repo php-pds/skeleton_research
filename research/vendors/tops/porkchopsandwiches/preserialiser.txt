@@ -1,0 +1,6 @@
+lib/src/PorkChopSandwiches/Preserialiser/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,10 @@
+public/
+src/
+tests/
+vendor/
+.travis.yml
+composer.json
+composer.lock
+phpunit.xml
+readme.md
+scrypt130302Pitcairnglg2tc8192w256l8.bin

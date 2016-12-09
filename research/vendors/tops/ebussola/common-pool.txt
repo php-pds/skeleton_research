@@ -1,0 +1,4 @@
+src/ebussola/common/pool/
+.gitignore
+README.md
+composer.json

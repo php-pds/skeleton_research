@@ -1,0 +1,10 @@
+build/logs/
+docs/
+src/
+tests/
+.gitignore
+.travis.yml
+README.md
+composer.json
+phpunit.php
+phpunit.xml

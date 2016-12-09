@@ -1,0 +1,16 @@
+_config/
+assets/
+code/
+css/
+extensions/
+images/
+javascript/
+lang/
+templates/
+.gitignore
+CHANGELOG.md
+CONTRIBUTING.md
+LICENSE
+README.md
+_config.php
+composer.json

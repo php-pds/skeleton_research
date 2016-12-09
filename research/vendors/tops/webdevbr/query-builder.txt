@@ -1,0 +1,7 @@
+src/QueryBuilder/
+tests/QueryBuilder/
+.gitignore
+README.md
+bootstrap.php
+composer.json
+composer.lock

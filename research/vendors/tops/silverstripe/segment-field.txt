@@ -1,0 +1,15 @@
+code/
+public/
+templates/forms/
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+_config.php
+code-of-conduct.md
+composer.json
+contributing.md
+license.md
+package.json
+phpunit.xml
+readme.md

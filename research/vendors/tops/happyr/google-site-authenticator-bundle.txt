@@ -1,0 +1,15 @@
+Controller/
+DependencyInjection/
+Model/
+Resources/
+Service/
+Tests/
+.gitignore
+.scrutinizer.yml
+.styleci.yml
+.travis.yml
+HappyrGoogleSiteAuthenticatorBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

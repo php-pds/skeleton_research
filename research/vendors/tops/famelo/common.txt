@@ -1,0 +1,6 @@
+Classes/Famelo/Common/
+Configuration/
+Documentation/
+Resources/Private/
+README.md
+composer.json

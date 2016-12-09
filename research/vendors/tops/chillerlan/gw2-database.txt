@@ -1,0 +1,12 @@
+cli/
+config/
+examples/
+sql/
+src/
+tests/
+.codeclimate.yml
+.gitignore
+LICENSE
+README.md
+composer.json
+phpmd.xml

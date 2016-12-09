@@ -1,0 +1,8 @@
+config/
+setup/
+src/Pkj/LinuxGenericBackup/
+.gitignore
+README.md
+composer.json
+install.sh
+linuxbackups

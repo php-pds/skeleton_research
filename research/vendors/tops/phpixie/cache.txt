@@ -1,0 +1,7 @@
+assets/config/
+classes/PHPixie/
+tests/
+.gitattributes
+.gitignore
+README.md
+composer.json

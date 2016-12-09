@@ -1,0 +1,12 @@
+Delete/
+Get/
+Patch/
+Post/
+Tests/
+Traits/
+.gitignore
+.travis.yml
+Action.php
+RestResponse.php
+composer.json
+phpunit.xml.dist

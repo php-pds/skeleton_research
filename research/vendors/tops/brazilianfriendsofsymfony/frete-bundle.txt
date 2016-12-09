@@ -1,0 +1,16 @@
+Controller/
+Correios/
+DependencyInjection/
+Entity/
+Exception/
+Factory/
+Form/Type/Correios/
+Manager/
+Modalidade/
+Model/
+Resources/
+Tests/Manager/
+Utils/
+BFOSFreteBundle.php
+README.md
+composer.json

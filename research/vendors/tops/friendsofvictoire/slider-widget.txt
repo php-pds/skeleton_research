@@ -1,0 +1,10 @@
+DependencyInjection/
+Entity/
+Form/
+Resources/
+Translation/
+.bowerrc
+README.md
+VictoireWidgetSliderBundle.php
+bower.json
+composer.json

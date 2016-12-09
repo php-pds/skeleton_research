@@ -1,0 +1,8 @@
+src/
+tests/Unit/
+.atoum.php
+.bootstrap.atoum.php
+.gitignore
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,8 @@
+docs/
+src/
+.editorconfig
+.gitignore
+LICENSE.md
+README.md
+composer.json
+sage.config

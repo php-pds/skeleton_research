@@ -1,0 +1,7 @@
+.vscode/
+src/HashTagger/
+tests/
+LICENSE
+README.md
+autoload.php
+composer.json

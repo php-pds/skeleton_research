@@ -1,0 +1,10 @@
+database/
+example/
+src/IComeFromTheNet/VoucherNum/
+test/
+.gitignore
+.travis.yml
+README.md
+composer.json
+phpunit.xml
+travis.xml

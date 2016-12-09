@@ -1,0 +1,6 @@
+README.md
+composer.json
+handlebars.js
+handlebars.min.js
+handlebars.runtime.js
+handlebars.runtime.min.js

@@ -1,0 +1,9 @@
+docs/en/
+src/JR/Themed/
+tests/
+.gitattributes
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json

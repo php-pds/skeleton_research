@@ -1,0 +1,12 @@
+library/
+public/
+puppet/
+resources/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+Procfile
+Vagrantfile
+composer.json
+phpunit.xml

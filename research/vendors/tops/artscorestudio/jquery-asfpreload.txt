@@ -1,0 +1,13 @@
+dist/
+doc/
+img/
+js/
+less/
+.gitignore
+.npmignore
+.travis.yml
+Gruntfile.js
+LICENSE
+README.md
+composer.json
+package.json

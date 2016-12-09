@@ -1,0 +1,9 @@
+DependencyInjection/
+Resources/config/
+Tests/
+.gitignore
+.travis.yml
+UBCSISAPIBundle.php
+composer.json
+composer.lock
+phpunit.xml.dist

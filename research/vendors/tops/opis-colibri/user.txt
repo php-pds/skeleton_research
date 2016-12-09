@@ -1,0 +1,6 @@
+src/
+LICENSE
+README.md
+collect.php
+composer.json
+install.php

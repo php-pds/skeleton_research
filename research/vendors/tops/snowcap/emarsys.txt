@@ -1,0 +1,5 @@
+src/Snowcap/Emarsys/
+tests/
+.gitignore
+README.md
+composer.json

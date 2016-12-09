@@ -1,0 +1,10 @@
+examples/
+src/Hprose/Swoole/
+tests/
+.gitignore
+.travis.yml
+LICENSE.md
+README.md
+README_zh_CN.md
+composer.json
+install_ext.sh

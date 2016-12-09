@@ -1,0 +1,13 @@
+DependencyInjection/
+Exception/
+Manager/
+Model/
+Provider/
+Resources/
+Tests/Controller/
+Util/
+.gitignore
+Context.php
+IMAGEtherpadBundle.php
+README.md
+composer.json

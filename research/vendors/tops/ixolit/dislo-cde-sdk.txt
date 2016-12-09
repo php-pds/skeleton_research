@@ -1,0 +1,6 @@
+src/
+templates/toolbar/
+testdata/filesystem/
+tests/
+builtin.php
+composer.json

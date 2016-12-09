@@ -1,0 +1,11 @@
+Controller/Plugin/
+Helper/
+Model/Config/Source/
+Observer/
+etc/
+view/frontend/
+LICENSE.txt
+LICENSE_AFL.txt
+README.md
+composer.json
+registration.php

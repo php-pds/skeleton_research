@@ -1,0 +1,15 @@
+api/
+guide/
+src/
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE.md
+README.md
+composer.json
+composer.lock
+phpcs.xml
+phpdoc.xml
+phpmd.xml
+phpunit.xml.dist

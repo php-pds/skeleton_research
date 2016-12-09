@@ -1,0 +1,10 @@
+src/PdoWrapper/
+tests/PdoWrapper/Tests/
+.gitignore
+.php_cs
+.travis.yml
+LICENSE
+README.md
+composer.json
+php-cs-fixer.sh
+phpunit.xml.dist

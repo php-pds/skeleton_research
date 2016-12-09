@@ -1,0 +1,9 @@
+DependencyInjection/
+Libs/
+Resources/
+Tests/
+.gitignore
+.travis.yml
+ParadigmaImageBundle.php
+composer.json
+phpunit.xml.dist

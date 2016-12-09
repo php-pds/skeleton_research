@@ -1,0 +1,8 @@
+DependencyInjection/
+Resources/
+.gitignore
+LICENSE
+Paginator.php
+PlatinumPixsSimplePaginationBundle.php
+README.md
+composer.json

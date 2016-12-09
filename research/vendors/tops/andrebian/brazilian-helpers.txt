@@ -1,0 +1,8 @@
+example/
+src/BrazilianHelper/
+.gitignore
+EXAMPLES.md
+EXEMPLO-DATAS.md
+EXEMPLO-ESTADOS.md
+README.md
+composer.json

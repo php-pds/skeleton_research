@@ -1,0 +1,9 @@
+bin/
+src/Kdyby/Selenium/
+tests/
+.gitattributes
+.gitignore
+.travis.yml
+README.md
+composer.json
+license.md

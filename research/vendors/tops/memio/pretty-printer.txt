@@ -1,0 +1,10 @@
+spec/Memio/PrettyPrinter/
+src/Memio/PrettyPrinter/
+.gitignore
+.travis.yml
+CHANGELOG.md
+CONTRIBUTING.md
+LICENSE
+README.md
+VERSIONING.md
+composer.json

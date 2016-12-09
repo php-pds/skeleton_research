@@ -1,0 +1,4 @@
+docs/screenshots/
+widgets/
+README.md
+composer.json

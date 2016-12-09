@@ -1,0 +1,10 @@
+autoloads/
+design/
+packages/5.0/
+settings/
+sql/common/
+translations/
+LICENSE
+README
+composer.json
+extension.xml

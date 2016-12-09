@@ -1,0 +1,11 @@
+Command/
+DependencyInjection/
+Install/
+Resources/config/
+Service/
+Tests/
+.gitignore
+AccestoInstallerBundle.php
+README.md
+composer.json
+phpunit.xml.dist

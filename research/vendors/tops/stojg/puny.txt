@@ -1,0 +1,16 @@
+posts/
+src/stojg/puny/
+tests/
+themes/bootstrap/
+.gitignore
+.htaccess
+.scrutinizer.yml
+.travis.yml
+README.md
+TODO.md
+composer.json
+config.sample.php
+favicon.ico
+index.php
+phpunit.xml
+robots.txt

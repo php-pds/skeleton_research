@@ -1,0 +1,15 @@
+DependencyInjection/
+EventListener/
+Locking/
+Resources/config/
+Tests/
+.coveralls.yml
+.editorconfig
+.gitignore
+.travis.yml
+LICENSE
+MatthimatikerCommandLockingBundle.php
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

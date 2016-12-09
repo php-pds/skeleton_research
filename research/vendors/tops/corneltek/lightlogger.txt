@@ -1,0 +1,6 @@
+src/LightLogger/
+tests/
+README.md
+composer.json
+phprelease.ini
+phpunit.xml

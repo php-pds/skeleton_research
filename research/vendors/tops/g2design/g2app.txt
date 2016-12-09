@@ -1,0 +1,7 @@
+src/G2Design/
+.gitattributes
+.gitignore
+.htaccess
+composer.json
+composer.lock
+index.php

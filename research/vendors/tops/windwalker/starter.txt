@@ -1,0 +1,16 @@
+bin/
+cache/
+etc/
+logs/
+resources/
+src/
+templates/
+test/
+tmp/
+www/
+.gitignore
+README.md
+composer.json
+phpunit.core.xml.dist
+phpunit.xml.dist
+windwalker

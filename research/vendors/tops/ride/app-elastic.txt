@@ -1,0 +1,6 @@
+config/
+manual/
+src/ride/application/elastic/
+README.md
+composer.json
+ride.json

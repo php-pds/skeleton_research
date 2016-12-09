@@ -1,0 +1,12 @@
+.github/
+src/
+tests/Middleware/
+.coveralls.yml
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

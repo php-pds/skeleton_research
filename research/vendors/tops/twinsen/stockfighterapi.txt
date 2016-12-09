@@ -1,0 +1,6 @@
+src/Models/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,9 @@
+Model/
+Module/
+config/
+dca/
+html/
+languages/
+runonce/
+templates/
+composer.json

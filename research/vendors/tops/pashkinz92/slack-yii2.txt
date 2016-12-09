@@ -1,0 +1,7 @@
+.idea/
+.gitignore
+LICENSE
+README.md
+SlackClient.php
+SlackLogger.php
+composer.json

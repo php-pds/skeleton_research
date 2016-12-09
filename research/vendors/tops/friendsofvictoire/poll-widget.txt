@@ -1,0 +1,14 @@
+Controller/
+DependencyInjection/
+Entity/
+EventSubscriber/
+Form/
+Listener/
+Repository/
+Resolver/
+Resources/
+Twig/
+LICENSE
+README.md
+VictoireWidgetPollBundle.php
+composer.json

@@ -1,0 +1,11 @@
+DependencyInjection/
+Resources/config/
+Services/
+.coveralls.yml
+.gitignore
+.project
+.travis.yml
+LICENSE
+StingerSoftElasticEntitySearchBundle.php
+composer.json
+phpunit.xml.dist

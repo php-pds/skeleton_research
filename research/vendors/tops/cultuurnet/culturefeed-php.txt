@@ -1,0 +1,10 @@
+CultureFeed/
+OAuth/
+changelogs/
+.coveralls.yml
+.gitignore
+.travis.yml
+README.md
+composer.json
+composer.lock
+phpunit.xml

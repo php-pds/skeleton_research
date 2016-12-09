@@ -1,0 +1,8 @@
+examples/starship/
+library/
+tests/
+.gitignore
+LICENSE
+README.markdown
+composer.json
+package.xml

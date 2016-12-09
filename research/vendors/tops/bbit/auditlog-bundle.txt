@@ -1,0 +1,14 @@
+Controller/
+DependencyInjection/
+Entity/
+Resources/
+Services/
+Tests/
+.gitignore
+.travis.yml
+BBITAuditLogBundle.php
+README.md
+composer.json
+composer.lock
+phpunit.xml
+phpunit.xml~

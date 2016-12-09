@@ -1,0 +1,9 @@
+assets/
+css/
+images/
+protected/
+themes/classic/views/
+.gitignore
+composer.json
+index-test.php
+index.php

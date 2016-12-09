@@ -1,0 +1,17 @@
+Client/
+DependencyInjection/
+EventListener/
+Exception/
+Resources/
+Rest/
+Tests/
+Twig/
+eZ/Publish/
+.gitignore
+.php_cs
+.travis.yml
+EzSystemsRecommendationBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml

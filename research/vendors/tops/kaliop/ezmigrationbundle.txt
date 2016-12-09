@@ -1,0 +1,15 @@
+API/
+Command/
+Core/
+DependencyInjection/
+MigrationVersions/
+Resources/
+Tests/
+.gitignore
+.travis.yml
+EzMigrationBundle.php
+LICENSE
+README.md
+WHATSNEW.md
+composer.json
+phpunit.xml

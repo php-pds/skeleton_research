@@ -1,0 +1,4 @@
+src/Boyhagemann/
+.gitattributes
+.gitignore
+composer.json

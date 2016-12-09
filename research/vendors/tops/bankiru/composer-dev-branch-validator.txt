@@ -1,0 +1,8 @@
+bin/
+src/Bankiru/Tools/BranchChecker/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock

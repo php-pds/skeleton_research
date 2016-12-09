@@ -1,0 +1,5 @@
+README.md
+composer.json
+demo.html
+jQuery.autoCollapser.js
+jQuery.autoCollapser.min.js

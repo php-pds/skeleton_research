@@ -1,0 +1,17 @@
+apps/defaultApp/
+bin/
+config.default.d/
+dbDump/authex/
+htdocs/
+.gitignore
+.mpcmfroot
+LICENSE
+README.md
+composer.json
+composer.lock
+composer.phar
+environment.default.php
+environment.local.php
+environment.php
+loader.php
+start.sh

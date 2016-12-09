@@ -1,0 +1,11 @@
+docs/
+spec/BenGorFile/FileBundle/
+src/BenGorFile/FileBundle/
+.editorconfig
+.gitignore
+.php_cs
+.phpspec_cs
+.travis.yml
+LICENSE
+README.md
+composer.json

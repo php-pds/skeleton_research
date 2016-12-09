@@ -1,0 +1,11 @@
+assets-wp-repo/
+.editorconfig
+.gitattributes
+.gitignore
+README.md
+composer.json
+custom-css-outsourcer.php
+deploy.sh
+gulpfile.js
+package.json
+readme.txt

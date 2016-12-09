@@ -1,0 +1,14 @@
+Configuration/
+DependencyInjection/
+EventListener/
+Resources/
+Tests/
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+UPGRADE.md
+WidopFrameworkExtraBundle.php
+composer.json
+phpunit.xml.dist

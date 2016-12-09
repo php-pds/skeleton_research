@@ -1,0 +1,16 @@
+buildTools @ e97dafe
+src/
+tests/
+.editorconfig
+.gitattributes
+.gitignore
+.gitmodules
+.scrutinizer.yml
+.travis.yml
+LICENSE.md
+README.md
+bootstrap.php
+build.properties
+composer.json
+phpunit-ci.xml
+phpunit.xml

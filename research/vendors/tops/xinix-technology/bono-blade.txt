@@ -1,0 +1,7 @@
+docs/
+src/Xinix/Blade/
+.gitattributes
+.gitignore
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,13 @@
+DependencyInjection/
+Exceptions/
+Provider/
+Resources/
+Services/
+Tests/Services/
+.gitignore
+.travis.yml
+HappyrMailerBundle.php
+README.md
+build.xml
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,11 @@
+Ecc/
+doc/
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CHANGELOG.md
+Makefile
+README.md
+composer.json
+phpunit.xml

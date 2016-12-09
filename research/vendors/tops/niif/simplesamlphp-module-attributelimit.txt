@@ -1,0 +1,9 @@
+lib/Auth/Process/
+tests/
+.editorconfig
+.gitignore
+.travis.yml
+README.md
+composer.json
+default-enable
+phpunit.xml

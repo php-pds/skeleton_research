@@ -1,0 +1,5 @@
+src/Coatesap/Payment/
+.gitignore
+README.md
+composer.json
+package.json

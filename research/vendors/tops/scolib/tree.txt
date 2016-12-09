@@ -1,0 +1,5 @@
+src/Tree/Traits/
+.gitignore
+LICENSE
+README.md
+composer.json

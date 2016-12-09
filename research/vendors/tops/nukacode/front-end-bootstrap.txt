@@ -1,0 +1,16 @@
+assets/
+docs/
+src/
+tests/spec/NukaCode/Bootstrap/Html/
+.bowerrc
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+admin.json
+behat.yml
+bower.json
+composer.json
+composer.lock
+gulpfile.js
+phpspec.yml

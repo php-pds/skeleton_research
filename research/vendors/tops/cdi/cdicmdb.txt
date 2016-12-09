@@ -1,0 +1,10 @@
+config/
+language/
+nbproject/
+src/CdiCmdb/
+view/cdi-cmdb/
+.gitignore
+Module.php
+README.md
+composer.json
+index.php

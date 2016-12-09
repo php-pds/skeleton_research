@@ -1,0 +1,15 @@
+bin/
+data/
+src/
+tests/
+.coveralls.yml
+.editorconfig
+.gitignore
+.travis.yml
+LICENSE
+Makefile
+README.md
+box.json
+composer.json
+phpunit.xml.dist
+sami.php

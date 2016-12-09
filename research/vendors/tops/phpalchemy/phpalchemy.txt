@@ -1,0 +1,16 @@
+Alchemy/
+Tests/
+bin/
+config/
+templates/
+.gitignore
+.gitmodules
+.travis.yml
+LICENSE
+README.md
+autoload.php
+bootstrap.php
+composer.json
+phpunit.xml
+stree.sh
+update-components.php

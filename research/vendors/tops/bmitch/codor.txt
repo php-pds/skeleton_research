@@ -1,0 +1,9 @@
+src/Codor/
+tests/
+.gitignore
+.travis.yml
+LICENSE.md
+README.md
+composer.json
+phpcs.xml
+phpunit.xml

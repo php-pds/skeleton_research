@@ -1,0 +1,7 @@
+classes/
+design/standard/templates/itobjectsync/
+modules/itobjectsync/
+settings/
+README.md
+composer.json
+extension.xml

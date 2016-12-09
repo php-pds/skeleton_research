@@ -1,0 +1,10 @@
+actions/
+components/
+controllers/
+migrations/
+models/
+views/default/
+LICENSE.md
+README.md
+SeoModule.php
+composer.json

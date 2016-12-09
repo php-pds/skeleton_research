@@ -1,0 +1,11 @@
+File/
+examples/
+tests/
+.gitignore
+.travis.yml
+CHANGELOG
+LICENSE
+README
+composer.json
+index.html
+package.xml

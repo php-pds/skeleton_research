@@ -1,0 +1,12 @@
+DependencyInjection/
+Event/Subscriber/
+Exception/
+Mergeable/
+Resources/
+Tests/
+Twig/
+.gitignore
+IDCIMergeTokenBundle.php
+README.md
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,10 @@
+config/
+library/
+resources/
+tests/unit/
+tools/
+.gitignore
+CONTRIBUTING.md
+LICENSE.md
+README.md
+composer.json

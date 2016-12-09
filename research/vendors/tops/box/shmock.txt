@@ -1,0 +1,10 @@
+src/Shmock/
+test/
+.gitignore
+.php_cs
+CONTRIBUTING.md
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml

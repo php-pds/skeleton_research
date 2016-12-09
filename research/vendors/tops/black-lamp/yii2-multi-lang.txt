@@ -1,0 +1,9 @@
+behaviors/
+entities/
+migration/
+widgets/languageList/
+.gitignore
+LICENSE
+MultiLangUrlManager.php
+README.md
+composer.json

@@ -1,0 +1,13 @@
+DependencyInjection/
+Entity/
+Events/
+Resources/config/
+Service/
+Tests/
+.scrutinizer.yml
+.travis.yml
+LICENSE
+OpenrootHttpContextBundle.php
+README.md
+composer.json
+phpunit.xml

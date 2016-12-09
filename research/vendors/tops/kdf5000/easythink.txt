@@ -1,0 +1,5 @@
+src/ThinkPHP/
+tests/
+LICENSE
+README.md
+composer.json

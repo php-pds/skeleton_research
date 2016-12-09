@@ -1,0 +1,5 @@
+Classes/PerfectIn/Ui/
+Configuration/
+Resources/Public/
+README.md
+composer.json

@@ -1,0 +1,4 @@
+snake-aas/bardump-shortcut/
+LICENSE
+README.md
+composer.json

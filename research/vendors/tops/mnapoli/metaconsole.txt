@@ -1,0 +1,8 @@
+bin/
+demo/
+src/MetaConsole/
+.gitattributes
+.gitignore
+README.md
+composer.json
+screen.gif

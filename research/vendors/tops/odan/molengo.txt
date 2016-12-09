@@ -1,0 +1,16 @@
+docs/
+src/Molengo/
+tests/
+.codeclimate.yml
+.coveralls.yml
+.editorconfig
+.gitattributes
+.gitignore
+.scrutinizer.yml
+.styleci.yml
+.travis.yml
+LICENSE.md
+README.md
+build.xml
+composer.json
+phpunit.xml

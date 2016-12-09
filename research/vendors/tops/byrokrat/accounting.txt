@@ -1,0 +1,16 @@
+bin/
+docs/
+integrations/Sie4/
+res/
+src/
+tests/
+.gitattributes
+.gitignore
+.travis.yml
+LICENSE
+README.md
+TODO.md
+composer.json
+nitpick.json
+phpcs.xml.dist
+phpunit.xml.dist

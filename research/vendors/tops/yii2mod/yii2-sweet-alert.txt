@@ -1,0 +1,10 @@
+tests/
+.gitattributes
+.gitignore
+.travis.yml
+Alert.php
+AlertAsset.php
+LICENSE.md
+README.md
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,12 @@
+Controller/
+DependencyInjection/
+Doctrine/
+Model/
+Resources/
+Twig/
+spec/Sylius/Bundle/ResourceBundle/
+.gitignore
+.travis.yml
+README.md
+SyliusResourceBundle.php
+composer.json

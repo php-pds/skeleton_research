@@ -1,0 +1,14 @@
+docs/
+source/
+test/
+utils/
+.buildpath
+.gitattributes
+.gitignore
+.project
+.travis.yml
+CAS.php
+LICENSE
+NOTICE
+README.md
+composer.json

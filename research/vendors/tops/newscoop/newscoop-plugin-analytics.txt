@@ -1,0 +1,13 @@
+Controller/
+DependencyInjection/
+Entity/
+EventListener/
+Form/Type/
+Resources/
+Services/
+.gitignore
+AnalyticsBundle.php
+CHANGES.txt
+LICENSE.txt
+README.md
+composer.json

@@ -1,0 +1,7 @@
+src/Snappy/Apps/Hipchat/
+tests/
+.gitignore
+composer.json
+hipchat.png
+phpunit.xml
+readme.md

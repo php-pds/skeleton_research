@@ -1,0 +1,10 @@
+Controller/
+DependencyInjection/
+Entity/
+Form/
+Resources/
+Tests/Controller/
+LICENSE
+README.md
+VaszevSelfAdvertBundle.php
+composer.json

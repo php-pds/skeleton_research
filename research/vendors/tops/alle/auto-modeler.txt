@@ -1,0 +1,8 @@
+classes/
+config/
+guide/auto-modeler/
+tests/
+views/
+LICENSE
+README.md
+composer.json

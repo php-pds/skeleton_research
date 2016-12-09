@@ -1,0 +1,9 @@
+examples/
+tests/
+.gitattributes
+.gitignore
+Imagick.php
+README.md
+composer.json
+composer.lock
+phpunit.xml

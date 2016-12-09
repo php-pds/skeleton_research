@@ -1,0 +1,7 @@
+app/
+shell/
+.gitignore
+README.md
+behat.yml.dist
+composer.json
+modman

@@ -1,0 +1,10 @@
+doc/
+phing/
+src/SolrRestApiClient/
+tests/
+.gitignore
+.travis.yml
+README.rst
+build.xml
+composer.json
+phpunit.xml

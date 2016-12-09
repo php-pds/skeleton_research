@@ -1,0 +1,10 @@
+bin/
+database/
+resources/
+src/
+views/content/Debug/
+.gitignore
+README.md
+boot.php
+composer.json
+helpers.php

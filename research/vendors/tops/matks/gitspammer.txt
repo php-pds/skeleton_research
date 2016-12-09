@@ -1,0 +1,9 @@
+src/Matks/GitSpam/
+tests/Units/Commit/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock
+gitspam.php
+gitspam.sh

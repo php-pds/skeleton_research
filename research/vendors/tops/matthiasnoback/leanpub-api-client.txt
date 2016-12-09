@@ -1,0 +1,7 @@
+src/Matthias/LeanpubApi/
+tests/Matthias/LeanpubApi/Tests/
+.gitignore
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

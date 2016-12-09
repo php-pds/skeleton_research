@@ -1,0 +1,17 @@
+Command/
+Controller/
+DependencyInjection/
+EventListener/
+Form/Extension/
+Resources/
+Sonata/
+Tests/
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENSE
+PayumBundle.php
+README.md
+UPGRADE.md
+composer.json
+phpunit.xml.dist

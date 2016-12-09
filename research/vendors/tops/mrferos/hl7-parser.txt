@@ -1,0 +1,8 @@
+docs/
+src/HL7/
+tests/
+.gitignore
+.travis.yml
+README.md
+composer.json
+phpunit.xml

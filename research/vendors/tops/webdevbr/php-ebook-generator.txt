@@ -1,0 +1,10 @@
+example/
+src/
+.gitignore
+README.md
+book.pdf
+book.pdf.html
+composer.json
+composer.lock
+example.php
+logo.png

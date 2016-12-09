@@ -1,0 +1,8 @@
+sdk/
+.gitignore
+QiyeSdk.php
+README.md
+WeChat.php
+WeChatAction.php
+WeChatSdk.php
+composer.json

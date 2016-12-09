@@ -1,0 +1,16 @@
+examples/
+exceptions/
+interfaces/
+sections/
+traits/
+transports/
+.gitignore
+API.php
+Client.php
+ErrorResponse.php
+ListResponse.php
+PaginationResponse.php
+Request.php
+Response.php
+composer.json
+composer.lock

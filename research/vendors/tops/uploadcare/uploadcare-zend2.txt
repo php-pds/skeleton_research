@@ -1,0 +1,8 @@
+config/
+src/
+uploadcare-php @ 6e9638e
+.gitmodules
+Module.php
+README.md
+autoload_classmap.php
+composer.json

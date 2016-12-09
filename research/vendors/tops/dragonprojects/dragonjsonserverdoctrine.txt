@@ -1,0 +1,4 @@
+config/
+src/DragonJsonServerDoctrine/
+Module.php
+composer.json

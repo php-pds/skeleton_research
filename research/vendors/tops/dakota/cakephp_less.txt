@@ -1,0 +1,6 @@
+Vendor/
+View/Helper/
+.gitignore
+.gitmodules
+README.md
+composer.json

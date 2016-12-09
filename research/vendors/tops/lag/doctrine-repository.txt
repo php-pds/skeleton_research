@@ -1,0 +1,13 @@
+DependencyInjection/
+Event/Subscriber/
+Repository/
+Resources/config/
+Tests/DoctrineRepositoryBundle/DependencyInjection/
+.gitignore
+.travis.yml
+LAGDoctrineRepositoryBundle.php
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

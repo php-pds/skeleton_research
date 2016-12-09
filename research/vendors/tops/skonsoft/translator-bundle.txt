@@ -1,0 +1,10 @@
+Controller/
+DependencyInjection/
+Model/
+Resources/
+Tests/Controller/
+.travis.yml
+README.md
+SkonsoftTranslatorBundle.php
+composer.json
+phpunit.xml.dist

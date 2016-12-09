@@ -1,0 +1,13 @@
+app/
+bin/
+spec/JmLeroux/Components/Core/
+src/JmLeroux/
+var/
+web/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE.txt
+README.md
+composer.json
+phpspec-ci.yml

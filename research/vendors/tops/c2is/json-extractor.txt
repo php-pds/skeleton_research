@@ -1,0 +1,6 @@
+doc/
+src/C2iS/Component/Json/
+tests/
+.gitignore
+README.md
+composer.json

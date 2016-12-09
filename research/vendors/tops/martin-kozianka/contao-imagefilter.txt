@@ -1,0 +1,5 @@
+contao/config/
+src/ContaoImagefilter/
+.gitignore
+README.md
+composer.json

@@ -1,0 +1,14 @@
+tests/
+.gitignore
+.travis.yml
+Exception.php
+Multi.php
+README.md
+Request.php
+Response.php
+codeception.yml
+composer.json
+composer.lock
+request.md
+response.md
+send.md

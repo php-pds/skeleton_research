@@ -1,0 +1,6 @@
+demo/
+src/Paginator/
+.gitignore
+LICENSE
+README.md
+composer.json

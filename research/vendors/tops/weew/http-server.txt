@@ -1,0 +1,7 @@
+src/Weew/HttpServer/
+tests/
+.gitignore
+.travis.yml
+composer.json
+phpunit.xml.dist
+readme.md

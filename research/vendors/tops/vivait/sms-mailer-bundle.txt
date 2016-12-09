@@ -1,0 +1,7 @@
+DependencyInjection/
+Form/Type/Settings/
+Resources/config/
+Services/
+README.md
+VivaitSMSMailerBundle.php
+composer.json

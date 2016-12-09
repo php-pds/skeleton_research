@@ -1,0 +1,6 @@
+src/Zym/CloudIdx/
+tests/
+.gitignore
+README.md
+composer.json
+phpunit.xml.dist

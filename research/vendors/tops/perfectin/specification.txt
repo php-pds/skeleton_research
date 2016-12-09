@@ -1,0 +1,3 @@
+Classes/PerfectIn/Specification/Query/
+README.md
+composer.json

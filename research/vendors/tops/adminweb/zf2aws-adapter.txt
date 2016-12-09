@@ -1,0 +1,7 @@
+config/
+src/
+.gitignore
+LICENSE.txt
+README.md
+aws.global.php.dist
+composer.json

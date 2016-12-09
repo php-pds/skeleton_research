@@ -1,0 +1,11 @@
+.idea/
+api-reference/
+cli/
+jQueryServer/
+phpQuery/
+test-cases/
+unit-tests/
+wiki/
+README.md
+composer.json
+demo.php

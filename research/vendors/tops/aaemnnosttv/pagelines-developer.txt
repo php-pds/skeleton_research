@@ -1,0 +1,8 @@
+icon-font/
+js/
+styles/
+CHANGES.md
+README.md
+composer.json
+modal.php
+pagelines-developer.php

@@ -1,0 +1,8 @@
+assets/
+includes/
+.gitignore
+LICENSE
+README.md
+composer.json
+readme.txt
+wp-term-families.php

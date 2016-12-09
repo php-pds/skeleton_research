@@ -1,0 +1,8 @@
+bin/
+src/Bravo3/NetworkProxy/
+tests/
+.gitignore
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

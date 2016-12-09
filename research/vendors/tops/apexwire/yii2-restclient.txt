@@ -1,0 +1,9 @@
+docs/
+example-client/
+src/
+.gitignore
+CHANGELOG.md
+LICENSE
+README.md
+README_EN.md
+composer.json

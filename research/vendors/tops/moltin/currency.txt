@@ -1,0 +1,9 @@
+src/Moltin/Currency/
+tests/
+.gitattributes
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml

@@ -1,0 +1,14 @@
+Action/
+Request/Api/
+Resources/
+Tests/
+.travis.yml
+CHANGELOG.md
+Config.php
+Constants.php
+KlarnaCheckoutGatewayFactory.php
+LICENSE
+README.md
+UPGRADE.md
+composer.json
+phpunit.xml.dist

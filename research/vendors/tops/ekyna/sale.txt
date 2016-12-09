@@ -1,0 +1,16 @@
+Order/
+Payment/
+Product/
+Shipment/
+Tax/
+.gitattributes
+.gitignore
+LICENSE
+PriceableInterface.php
+PriceableTrait.php
+README.md
+ReferenceableInterface.php
+ReferenceableTrait.php
+WeightableInterface.php
+WeightableTrait.php
+composer.json

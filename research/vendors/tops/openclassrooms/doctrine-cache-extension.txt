@@ -1,0 +1,9 @@
+src/OpenClassrooms/DoctrineCacheExtension/
+tests/OpenClassrooms/DoctrineCacheExtension/
+.coveralls.yml
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

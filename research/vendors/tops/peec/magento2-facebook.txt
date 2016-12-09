@@ -1,0 +1,8 @@
+Block/
+Model/Config/Source/
+etc/
+view/frontend/
+LICENSE.md
+README.md
+composer.json
+registration.php

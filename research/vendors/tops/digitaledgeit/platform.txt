@@ -1,0 +1,5 @@
+src/deit/platform/
+tests/
+.gitignore
+composer.json
+composer.lock

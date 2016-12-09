@@ -1,0 +1,5 @@
+classes/Kohana/
+tmp/
+.gitignore
+README.md
+composer.json

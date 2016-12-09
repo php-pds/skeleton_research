@@ -1,0 +1,7 @@
+lib/Akita/
+src/Collins/Sign/JWS/
+tests/
+.gitignore
+README.txt
+composer.json
+phpunit.xml

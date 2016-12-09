@@ -1,0 +1,5 @@
+src/Model/Behavior/
+.travis.yml
+LICENSE.txt
+README.md
+composer.json

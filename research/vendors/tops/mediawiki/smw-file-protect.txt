@@ -1,0 +1,5 @@
+README.md
+SMWFileProtect.php
+SMWFileProtect_body.php
+SMWNSProtect_body.php
+composer.json

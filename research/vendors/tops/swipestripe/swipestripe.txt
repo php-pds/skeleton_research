@@ -1,0 +1,14 @@
+.tx/
+_config/
+code/
+css/
+images/
+javascript/
+lang/
+tasks/
+templates/
+tests/
+.gitignore
+README.md
+_config.php
+composer.json

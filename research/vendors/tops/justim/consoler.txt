@@ -1,0 +1,9 @@
+tests/
+.coveralls.yml
+.gitignore
+.travis.yml
+Consoler.php
+LICENCE
+README.md
+composer.json
+phpunit.xml

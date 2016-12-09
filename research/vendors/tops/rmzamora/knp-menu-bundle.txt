@@ -1,0 +1,15 @@
+DependencyInjection/
+EventListener/
+Provider/
+Renderer/
+Resources/
+Templating/Helper/
+Tests/
+.gitignore
+.travis.yml
+CHANGELOG.md
+KnpMenuBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

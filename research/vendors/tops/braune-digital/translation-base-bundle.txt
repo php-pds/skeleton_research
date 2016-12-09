@@ -1,0 +1,10 @@
+Admin/
+Command/
+DependencyInjection/
+Entity/
+Form/
+Model/Translatable/
+Resources/
+BrauneDigitalTranslationBaseBundle.php
+README.md
+composer.json

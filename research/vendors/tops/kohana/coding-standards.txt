@@ -1,0 +1,6 @@
+Kohana/
+test/PHP_CodeSniffer/CodeSniffer/Standards/Kohana/Tests/
+.gitignore
+LICENSE.md
+README.md
+composer.json

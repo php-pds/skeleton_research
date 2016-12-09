@@ -1,0 +1,5 @@
+config/
+.gitignore
+LICENSE.txt
+composer.json
+hellasimple_landingpage.info.yml

@@ -1,0 +1,4 @@
+src/Auth/
+.gitattributes
+.gitignore
+composer.json

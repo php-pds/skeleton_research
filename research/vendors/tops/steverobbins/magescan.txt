@@ -1,0 +1,14 @@
+bin/
+build/
+public/
+src/
+test/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+README.md
+box.json
+composer.json
+n98-magerun.yaml
+phpcs.xml
+phpunit.xml

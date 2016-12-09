@@ -1,0 +1,7 @@
+assets/tinymce4/plugins/anchor/
+system/modules/TinyMceAnchor/
+.gitattributes
+.gitignore
+README.md
+composer.json
+screenshot.jpg

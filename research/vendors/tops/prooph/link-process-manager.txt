@@ -1,0 +1,11 @@
+config/
+docs/img/
+public/
+src/
+tests/
+view/
+CHANGELOG.md
+LICENSE
+Module.php
+README.md
+composer.json

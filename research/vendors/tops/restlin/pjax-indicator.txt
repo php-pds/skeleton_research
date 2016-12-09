@@ -1,0 +1,5 @@
+.gitignore
+LICENSE
+PjaxIndicator.php
+README.md
+composer.json

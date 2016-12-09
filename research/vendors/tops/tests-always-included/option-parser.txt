@@ -1,0 +1,11 @@
+bin/
+examples/
+src/TAI/
+test @ 6176477
+.gitmodules
+.travis.yml
+LICENSE
+README.md
+composer.json
+option-parameter.md
+option-parser.md

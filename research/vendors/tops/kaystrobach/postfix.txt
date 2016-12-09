@@ -1,0 +1,6 @@
+Classes/KayStrobach/Postfix/
+Migrations/Mysql/
+Resources/Private/ConfigurationTemplates/etc/
+Tests/Unit/Domain/Model/
+README.md
+composer.json

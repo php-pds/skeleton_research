@@ -1,0 +1,12 @@
+css/
+js/
+tpl/
+.gitignore
+.gitignore~
+composer.json
+login_index.inc
+login_src.php
+pic_of_the_day_editor.php
+readme.md
+readme.md~
+x_of_the_day.php

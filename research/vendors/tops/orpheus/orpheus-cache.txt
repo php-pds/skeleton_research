@@ -1,0 +1,8 @@
+.settings/
+src/Cache/
+.buildpath
+.gitignore
+.project
+LICENSE
+README.md
+composer.json

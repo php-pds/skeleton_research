@@ -1,0 +1,14 @@
+Controller/
+DependencyInjection/
+Entity/
+Exception/
+Resources/
+Service/
+Tests/Service/
+.gitignore
+.travis.yml
+IdeatoStarRatingBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

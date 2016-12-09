@@ -1,0 +1,9 @@
+config/
+src/GingerCore/
+tests/
+.gitignore
+.travis.yml
+LICENSE.txt
+Module.php
+README.md
+composer.json

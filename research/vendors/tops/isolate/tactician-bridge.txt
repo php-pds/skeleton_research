@@ -1,0 +1,8 @@
+spec/Isolate/Tactician/
+src/Isolate/Tactician/
+tests/Isolate/Tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json

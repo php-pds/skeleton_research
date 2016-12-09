@@ -1,0 +1,5 @@
+src/Flowcode/ShopBundle/
+.gitignore
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,9 @@
+MyTlocale/
+Tests/
+src/templates/
+.gitignore
+.travis.yml
+README.md
+composer.json
+composer.lock
+composer.phar

@@ -1,0 +1,9 @@
+Admin/
+DependencyInjection/
+Entity/
+Model/
+Resources/
+Twig/
+README.md
+WXRContentBundle.php
+composer.json

@@ -1,0 +1,6 @@
+src/
+.gitignore
+LICENSE
+cacert.pem
+composer.json
+composer.lock

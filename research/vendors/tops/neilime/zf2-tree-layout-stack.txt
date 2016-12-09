@@ -1,0 +1,15 @@
+config/
+src/TreeLayoutStack/
+tests/
+.gitattributes
+.gitignore
+.travis.composer.json
+.travis.yml
+CONTRIBUTING.md
+LICENSE
+Module.php
+README.md
+autoload_classmap.php
+autoload_function.php
+autoload_register.php
+composer.json

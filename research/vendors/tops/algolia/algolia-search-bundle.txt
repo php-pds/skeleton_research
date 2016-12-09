@@ -1,0 +1,16 @@
+Command/
+DependencyInjection/
+EventListener/
+Exception/
+Indexer/
+Mapping/
+Resources/
+SearchResult/
+Tests/
+.gitignore
+.travis.yml
+AlgoliaAlgoliaSearchBundle.php
+ChangeLog
+LICENSE.txt
+README.md
+composer.json

@@ -1,0 +1,10 @@
+Command/
+Installer/
+Resources/templates/
+Seeder/
+Sqlsync/
+.gitignore
+DevelopmentBundle.php
+README.md
+composer.json
+composer.lock

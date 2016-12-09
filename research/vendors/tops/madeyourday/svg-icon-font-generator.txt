@@ -1,0 +1,9 @@
+bin/composer/
+src/MadeYourDay/SVG/
+.gitignore
+LICENSE
+README.md
+build.php
+composer.json
+composer.lock
+run.php

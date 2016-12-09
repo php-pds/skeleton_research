@@ -1,0 +1,5 @@
+Resources/
+.gitignore
+MvCrudGeneratorResourcesBundle.php
+README.md
+composer.json

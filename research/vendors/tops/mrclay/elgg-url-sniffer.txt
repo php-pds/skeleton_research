@@ -1,0 +1,8 @@
+test/
+.gitignore
+LICENSE
+README.md
+SitePath.php
+SiteUrl.php
+composer.json
+phpunit.xml

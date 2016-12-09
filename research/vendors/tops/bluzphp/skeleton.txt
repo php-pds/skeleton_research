@@ -1,0 +1,17 @@
+application/
+bin/
+data/
+docker/
+docs/
+public/
+tests/
+.coveralls.yml
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE.md
+README.md
+composer.json
+dump.sql
+phpunit.xml.dist
+structure.ddl

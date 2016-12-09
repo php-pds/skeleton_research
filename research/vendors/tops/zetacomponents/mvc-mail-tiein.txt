@@ -1,0 +1,11 @@
+design/
+src/
+tests/
+.gitignore
+CREDITS
+ChangeLog
+DEPS
+DESCRIPTION
+LICENSE.txt
+composer.json
+phpunit.xml.dist

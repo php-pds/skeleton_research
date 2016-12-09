@@ -1,0 +1,5 @@
+src/Whsuite/Utilities/
+.gitignore
+LICENSE
+README.md
+composer.json

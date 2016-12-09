@@ -1,0 +1,5 @@
+src/GitlabCI/
+.gitignore
+README.md
+autoload_classmap.php
+composer.json

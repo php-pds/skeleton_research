@@ -1,0 +1,4 @@
+.idea/
+Webcode/WordPress/
+README.md
+composer.json

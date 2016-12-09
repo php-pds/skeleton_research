@@ -1,0 +1,5 @@
+Classes/Flowpack/ElasticSearch/ContentRepositoryQueueIndexer/
+Configuration/
+LICENSE
+README.md
+composer.json

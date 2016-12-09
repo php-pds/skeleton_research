@@ -1,0 +1,9 @@
+phing/
+src/Solr/Domain/Result/
+tests/
+.travis.yml
+README.rst
+build.xml
+composer.json
+composer.phar
+phpunit.xml

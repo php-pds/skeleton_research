@@ -1,0 +1,13 @@
+Admin/
+DependencyInjection/
+Form/Type/
+Model/
+Provider/
+Resources/
+Twig/Extension/
+Utils/
+.DS_Store
+.gitignore
+README.md
+RzCoreBundle.php
+composer.json

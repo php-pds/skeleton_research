@@ -1,0 +1,12 @@
+bin/
+src/
+templates/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.markdown
+composer.json
+composer.lock
+phpunit.xml.dist
+supermodel.sample.json

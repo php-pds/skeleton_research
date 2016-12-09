@@ -1,0 +1,10 @@
+Command/
+DependencyInjection/
+Tests/
+.gitignore
+.travis.yml
+LICENSE
+NucleusConsoleBundle.php
+README.md
+composer.json
+phpunit.xml.dist

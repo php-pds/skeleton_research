@@ -1,0 +1,12 @@
+Command/
+Controller/
+DependencyInjection/
+Entity/
+Form/
+Manager/
+Resources/
+Tests/Controller/
+Twig/
+BFOSSettingsManagementBundle.php
+README.md
+composer.json

@@ -1,0 +1,13 @@
+gh-pages @ 5e53112
+src/
+tests/
+.gitignore
+.gitmodules
+LICENSE
+README.md
+composer.json
+composer.lock
+logs.md
+malformed-syntax.md
+phpunit.xml
+serialize-error.md

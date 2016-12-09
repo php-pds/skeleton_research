@@ -1,0 +1,11 @@
+common/
+config/
+core/
+helpers/
+scripts/update/
+test/
+.gitignore
+LICENSE
+README.md
+composer.json
+manifest.php

@@ -1,0 +1,13 @@
+DependencyInjection/
+Resources/config/
+Service/
+Tests/
+.gitignore
+.scrutinizer.yml
+.sensiolabs.yml
+.travis.yml
+LICENSE
+README.md
+SymfonyBundlesQueueBundle.php
+composer.json
+phpunit.xml.dist

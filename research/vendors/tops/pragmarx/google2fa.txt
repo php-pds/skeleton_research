@@ -1,0 +1,11 @@
+src/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+changelog.md
+composer.json
+phpspec.yml
+phpunit.xml
+readme.md
+upgrading.md

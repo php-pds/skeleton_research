@@ -1,0 +1,5 @@
+src/Solarfield/Monolog/
+.gitignore
+LICENSE
+README.md
+composer.json

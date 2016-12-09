@@ -1,0 +1,6 @@
+src/Howtomakeaturn/LiveReloadKid/
+tests/
+vendor/
+README.md
+composer.json
+live-reload-kid.js

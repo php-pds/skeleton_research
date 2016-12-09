@@ -1,0 +1,5 @@
+Documentation/
+Examples/
+Package/Time/
+README.md
+composer.json

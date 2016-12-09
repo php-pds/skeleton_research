@@ -1,0 +1,6 @@
+src/ImageInspector/
+.gitignore
+README.md
+composer.json
+composer.lock
+imageinspector

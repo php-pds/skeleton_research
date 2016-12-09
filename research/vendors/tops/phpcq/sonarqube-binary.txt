@@ -1,0 +1,4 @@
+LICENSE
+README.md
+composer.json
+sonarqube-ant-task-2.4.jar

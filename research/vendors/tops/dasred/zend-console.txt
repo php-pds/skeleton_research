@@ -1,0 +1,4 @@
+src/Console/
+.gitattributes
+.gitignore
+composer.json

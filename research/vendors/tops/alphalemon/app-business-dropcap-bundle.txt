@@ -1,0 +1,11 @@
+Core/
+DependencyInjection/
+Resources/
+Tests/
+.travis.yml
+BusinessDropCapBundle.php
+LICENSE
+README.md
+autoload.json
+composer.json
+phpunit.xml.dist

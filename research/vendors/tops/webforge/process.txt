@@ -1,0 +1,16 @@
+bin/
+lib/
+tests/
+.coveralls.yml
+.gitattributes
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+bootstrap.php
+composer.json
+echo.php
+phpunit.xml.dist
+process.sublime-project
+rmt.json

@@ -1,0 +1,7 @@
+Virge/
+examples/simple/
+nbproject/
+.gitignore
+README.md
+composer.json
+composer.lock

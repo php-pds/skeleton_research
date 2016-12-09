@@ -1,0 +1,17 @@
+Configuration/
+DependencyInjection/
+EventListener/
+Request/
+Resources/config/
+ServiceLocator/
+Tests/
+.coveralls.yml
+.gitattributes
+.gitignore
+.php_cs
+.travis.yml
+DevmachineServicesInjectorBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

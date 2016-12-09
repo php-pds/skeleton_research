@@ -1,0 +1,11 @@
+build/
+uc_bitpay/
+.gitattributes
+.gitignore
+.travis.yml
+CHANGELOG
+GUIDE.md
+LICENSE
+README.md
+build.xml
+composer.json

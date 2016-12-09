@@ -1,0 +1,16 @@
+assets/
+components/
+controllers/
+docs/
+messages/
+migrations/
+models/
+views/
+.gitignore
+AutocompleteAsset.php
+CHANGELOG.md
+LICENSE
+Module.php
+README.md
+composer.json
+composer.lock

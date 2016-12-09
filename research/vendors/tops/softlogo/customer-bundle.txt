@@ -1,0 +1,10 @@
+Admin/
+Controller/
+DependencyInjection/
+Entity/
+Form/Type/
+Resources/
+Tests/Controller/
+LICENSE
+SoftlogoCustomerBundle.php
+composer.json

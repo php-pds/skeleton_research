@@ -1,0 +1,8 @@
+tests/
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml
+readme.txt
+wp-custom-bulk-actions.php

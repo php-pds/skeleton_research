@@ -1,0 +1,5 @@
+Downloader/
+LICENSE
+MissingSCMPlugin.php
+README.md
+composer.json

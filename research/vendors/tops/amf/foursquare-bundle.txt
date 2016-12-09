@@ -1,0 +1,10 @@
+Controller/
+DependencyInjection/
+Model/
+Resources/
+Service/
+Tests/Controller/
+.gitignore
+AMFFourSquareBundle.php
+README.md
+composer.json

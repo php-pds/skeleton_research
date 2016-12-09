@@ -1,0 +1,8 @@
+_ide/
+config/
+forms/
+.gitignore
+CHANGELOG.md
+InstagramComponent.php
+README.md
+composer.json

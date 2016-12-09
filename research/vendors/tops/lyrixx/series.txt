@@ -1,0 +1,13 @@
+Series/
+cache/
+config/
+.gitattributes
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+console
+phpunit.xml.dist
+services.php

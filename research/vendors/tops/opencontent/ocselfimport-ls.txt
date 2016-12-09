@@ -1,0 +1,6 @@
+classes/
+design/
+modules/gestione/
+settings/
+ReadMe
+composer.json

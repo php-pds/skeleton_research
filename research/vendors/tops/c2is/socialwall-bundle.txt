@@ -1,0 +1,11 @@
+DependencyInjection/
+EventListener/
+Exception/
+Manager/
+Model/
+Resources/config/
+Transformer/
+.gitignore
+C2isSocialWallBundle.php
+README.md
+composer.json

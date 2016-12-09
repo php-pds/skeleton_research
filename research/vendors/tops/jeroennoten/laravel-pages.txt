@@ -1,0 +1,14 @@
+config/
+database/
+public/js/
+resources/
+src/
+tests/
+.gitattributes
+.gitignore
+.travis.yml
+LICENSE
+composer.json
+gulpfile.js
+package.json
+phpunit.xml

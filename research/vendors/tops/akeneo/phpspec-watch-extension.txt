@@ -1,0 +1,4 @@
+src/Akeneo/WatchExtension/
+.gitignore
+LICENSE
+composer.json

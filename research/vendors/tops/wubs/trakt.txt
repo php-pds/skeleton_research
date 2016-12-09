@@ -1,0 +1,14 @@
+OAuthExample/
+bin/
+scripts/
+src/Wubs/Trakt/
+tests/
+.gitignore
+.travis.yml
+Dockerfile
+composer.json
+composer.lock
+docker-compose.yml
+php.ini
+phpunit.xml
+readme.md

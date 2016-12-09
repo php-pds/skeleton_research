@@ -1,0 +1,12 @@
+DependencyInjection/
+FieldType/Matrix/
+Persistence/Legacy/Content/FieldValue/Converter/
+Resources/
+Tests/
+.gitignore
+.travis.yml
+EzSystemsMatrixBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

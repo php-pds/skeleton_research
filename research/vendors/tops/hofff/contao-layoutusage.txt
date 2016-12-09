@@ -1,0 +1,5 @@
+contao-module/
+src/
+.gitignore
+README.md
+composer.json

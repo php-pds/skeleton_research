@@ -1,0 +1,13 @@
+Controller/
+DependencyInjection/
+Form/Type/Attachment/
+Resources/
+Tests/
+.gitignore
+.travis.yml
+C33sAttachmentAdminBundle.php
+LICENSE
+README.md
+composer.json
+composer.yml
+phpunit.xml.dist

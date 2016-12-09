@@ -1,0 +1,10 @@
+Controller/
+DependencyInjection/
+Resources/
+Util/
+.gitignore
+CampaignChainReportAnalyticsMetricsPerActivityBundle.php
+LICENSE
+README.md
+campaignchain.yml
+composer.json

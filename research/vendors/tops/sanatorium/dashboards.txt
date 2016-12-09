@@ -1,0 +1,7 @@
+database/
+lang/en/dashboards/
+src/
+themes/
+README.md
+composer.json
+extension.php

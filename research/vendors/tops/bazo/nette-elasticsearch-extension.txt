@@ -1,0 +1,5 @@
+src/Bazo/ElasticSearch/
+.gitignore
+LICENSE
+README.md
+composer.json

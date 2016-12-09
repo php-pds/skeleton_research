@@ -1,0 +1,12 @@
+src/
+.editorconfig
+.github_changelog_generator
+.gitignore
+.scrutinizer.yml
+CHANGELOG.md
+LICENSE.md
+README.md
+UPGRADING.md
+composer.json
+phpcs.xml
+phpmd.xml

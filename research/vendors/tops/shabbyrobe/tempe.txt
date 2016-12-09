@@ -1,0 +1,11 @@
+extra/vim/
+lib/
+test/
+.borisrc
+.gitignore
+.travis.yml
+LICENSE
+README.rst
+composer.json
+composer.lock
+test.php

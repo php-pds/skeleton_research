@@ -1,0 +1,11 @@
+resources/
+src/JoseJwt/
+tests/JoseJwt/Tests/
+.gitignore
+.php_cs
+.travis.yml
+LICENSE
+README.md
+autoload.php
+composer.json
+phpunit.xml.dist

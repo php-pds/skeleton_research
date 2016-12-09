@@ -1,0 +1,13 @@
+CircuitBreaker/
+DependencyInjection/
+Generalisation/
+Resources/config/
+Storage/
+Tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+SfynxCircuitBreakerBundle.php
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,4 @@
+.idea/
+lib/Weasty/Doctrine/Cache/Collection/
+.gitignore
+composer.json

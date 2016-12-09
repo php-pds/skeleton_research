@@ -1,0 +1,8 @@
+src/udokmeci/yii2kt/
+.gitattributes
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+kont-trevor.gif

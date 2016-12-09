@@ -1,0 +1,6 @@
+assets/
+CustomAssets.php
+README.md
+Select2Assets.php
+Select2Field.php
+composer.json

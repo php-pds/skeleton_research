@@ -1,0 +1,11 @@
+Http/
+Providers/
+Resources/
+Traits/
+.gitignore
+Guild.php
+GuildMembership.php
+GuildProperties.php
+GuildRank.php
+composer.json
+helpers.php

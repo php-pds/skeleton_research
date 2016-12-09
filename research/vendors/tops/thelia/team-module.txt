@@ -1,0 +1,15 @@
+Config/
+Controller/
+Event/
+Form/
+Hook/
+I18n/
+Loop/
+Model/
+Service/
+Setup/update/sql/
+templates/backOffice/default/
+LICENSE.txt
+Readme.md
+Team.php
+composer.json

@@ -1,0 +1,13 @@
+controllers/
+fieldtypes/
+models/
+records/
+resources/
+services/
+templates/
+translations/
+variables/
+.gitignore
+FollowPlugin.php
+README.md
+composer.json

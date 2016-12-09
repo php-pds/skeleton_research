@@ -1,0 +1,6 @@
+docs/
+gii/generators/crud/myTemplate/
+models/
+.gitignore
+README.md
+composer.json

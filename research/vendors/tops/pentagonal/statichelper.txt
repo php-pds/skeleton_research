@@ -1,0 +1,6 @@
+Tests/
+src/Pentagonal/StaticHelper/
+.gitignore
+.travis.yml
+README.MD
+composer.json

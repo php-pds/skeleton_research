@@ -1,0 +1,5 @@
+css/
+js/
+README.md
+composer.json
+wp-hq-responsive-youtube-embed.php

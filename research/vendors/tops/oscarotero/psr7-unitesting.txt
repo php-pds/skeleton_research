@@ -1,0 +1,10 @@
+bins/vnu.16.3.3/
+src/
+tests/
+.gitattributes
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml

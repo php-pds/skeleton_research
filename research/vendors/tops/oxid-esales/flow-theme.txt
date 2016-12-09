@@ -1,0 +1,15 @@
+build/
+de/
+en/
+grunt/
+out/flow/
+tpl/
+.gitignore
+CONTRIBUTING.md
+Gruntfile.js
+README.md
+composer.json
+offline.html
+package.json
+setup.sql
+theme.php

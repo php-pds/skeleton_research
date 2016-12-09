@@ -1,0 +1,12 @@
+bin/
+src/PhpGpio/
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+blinker
+blinkerTest.php
+composer.json
+phpunit.xml.dist

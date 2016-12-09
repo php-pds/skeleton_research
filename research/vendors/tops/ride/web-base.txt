@@ -1,0 +1,8 @@
+config/
+l10n/
+src/ride/web/base/
+.gitignore
+CHANGELOG.md
+README.md
+composer.json
+ride.json

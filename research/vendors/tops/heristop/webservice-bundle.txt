@@ -1,0 +1,13 @@
+ClientSoap/
+Command/
+Controller/
+DependencyInjection/
+Entity/
+Listener/
+Resources/config/
+Service/
+Tests/
+HeriWebServiceBundle.php
+LICENSE
+README.md
+composer.json

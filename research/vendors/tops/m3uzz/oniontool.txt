@@ -1,0 +1,6 @@
+bin/
+config/
+src/OnionTool/
+LICENSE
+README.md
+composer.json

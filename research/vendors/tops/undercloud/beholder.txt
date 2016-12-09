@@ -1,0 +1,9 @@
+Adapter/
+Utils/
+Monitor.php
+Queue.php
+README.md
+Settings.php
+composer.json
+index.php
+log.txt

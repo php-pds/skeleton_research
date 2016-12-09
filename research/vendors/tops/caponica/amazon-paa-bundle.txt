@@ -1,0 +1,7 @@
+DependencyInjection/
+Resources/config/
+.gitignore
+CaponicaAmazonPaaBundle.php
+LICENSE
+README.md
+composer.json

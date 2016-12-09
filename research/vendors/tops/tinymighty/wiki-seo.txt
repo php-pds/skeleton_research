@@ -1,0 +1,8 @@
+COPYING
+README.md
+WikiSEO.body.php
+WikiSEO.i18n.magic.php
+WikiSEO.i18n.php
+WikiSEO.php
+composer.json
+extension.json

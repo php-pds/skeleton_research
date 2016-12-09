@@ -1,0 +1,8 @@
+config/
+src/DoctrineEncryptModule/
+tests/
+.gitignore
+Module.php
+README.md
+composer.json
+phpunit.xml.dist

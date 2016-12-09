@@ -1,0 +1,15 @@
+_examples/
+controllers/
+models/
+resources/
+services/
+templates/widgets/stats/
+translations/
+variables/
+widgets/
+.gitignore
+ElementStatsPlugin.php
+composer.json
+config.php
+readme.md
+releases.json

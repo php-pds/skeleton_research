@@ -1,0 +1,6 @@
+docs/
+src/Payum/LaravelPackage/
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

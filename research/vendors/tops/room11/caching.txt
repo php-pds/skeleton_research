@@ -1,0 +1,7 @@
+src/Room11/Caching/
+test/
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock

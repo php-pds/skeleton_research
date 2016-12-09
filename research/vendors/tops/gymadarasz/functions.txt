@@ -1,0 +1,7 @@
+.gitignore
+README.md
+composer.json
+fakepath.php
+file_put_contents_backup.php
+rcopy.php
+rscandir.php

@@ -1,0 +1,8 @@
+config/
+src/zf2StaticPages/Controller/
+view/
+.gitignore
+Module.php
+README.md
+autoload_classmap.php
+composer.json

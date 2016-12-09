@@ -1,0 +1,6 @@
+config/
+lang/
+src/
+views/
+README.md
+composer.json

@@ -1,0 +1,9 @@
+Core/
+DependencyInjection/
+EventListener/
+Resources/config/
+.gitignore
+EPWTCacheDoctrineDataProviderBundle.php
+LICENSE
+README.md
+composer.json

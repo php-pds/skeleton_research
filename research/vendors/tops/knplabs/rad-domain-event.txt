@@ -1,0 +1,7 @@
+spec/Knp/Rad/DomainEvent/Dispatcher/
+src/Knp/Rad/DomainEvent/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json

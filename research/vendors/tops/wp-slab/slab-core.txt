@@ -1,0 +1,14 @@
+src/
+tests/
+.gitignore
+.travis.yml
+LICENSE.md
+circle.yml
+composer.json
+functions.php
+helpers.php
+index.php
+phpunit.php
+phpunit.xml
+readme.md
+readme.txt

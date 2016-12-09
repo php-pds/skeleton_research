@@ -1,0 +1,9 @@
+src/Keboola/OAuthApi/
+tests/
+.gitignore
+.travis.yml
+README.md
+build.xml
+composer.json
+config.template.php
+phpunit.xml.dist

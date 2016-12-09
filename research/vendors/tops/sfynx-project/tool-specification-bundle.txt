@@ -1,0 +1,12 @@
+DependencyInjection/
+Resources/doc/
+Specification/
+Tests/Specification/Compare/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+SfynxSpecificationBundle.php
+composer.json
+message
+phpunit.xml.dist

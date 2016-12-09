@@ -1,0 +1,5 @@
+src/Solo/Web/Assets/
+.gitignore
+LICENSE
+README.md
+composer.json

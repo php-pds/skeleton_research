@@ -1,0 +1,6 @@
+Middleware/
+Traits/
+FormRequest.php
+HashIdServiceProvider.php
+RouteManager.php
+composer.json

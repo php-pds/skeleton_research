@@ -1,0 +1,5 @@
+example/
+lib/Aw/Money/
+.gitignore
+composer.json
+composer.lock

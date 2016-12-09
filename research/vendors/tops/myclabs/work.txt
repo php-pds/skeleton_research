@@ -1,0 +1,14 @@
+doc/
+src/
+tests/
+vagrant/
+.gitattributes
+.gitignore
+.travis.yml
+Changelog.md
+LICENSE
+README.md
+Vagrantfile
+composer.json
+couscous.yml
+phpunit.xml.dist

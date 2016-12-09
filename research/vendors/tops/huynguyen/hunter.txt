@@ -1,0 +1,4 @@
+.gitignore
+composer.json
+hunter.js
+readme.md

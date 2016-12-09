@@ -1,0 +1,6 @@
+Mailgun/
+SwiftMailer/
+Mail.php
+MailFacade.php
+MailServiceProvider.php
+composer.json

@@ -1,0 +1,11 @@
+doc/
+language/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock
+index.html
+paynet.php
+paynet.xml
+paynet_processor_aggregate.php

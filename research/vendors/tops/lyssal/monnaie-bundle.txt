@@ -1,0 +1,4 @@
+files/
+src/Lyssal/MonnaieBundle/
+README.md
+composer.json

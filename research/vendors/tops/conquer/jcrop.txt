@@ -1,0 +1,6 @@
+.gitignore
+JcropAsset.php
+JcropWidget.php
+LICENSE
+README.md
+composer.json

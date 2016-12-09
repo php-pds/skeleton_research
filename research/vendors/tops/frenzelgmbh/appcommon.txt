@@ -1,0 +1,15 @@
+assets/
+behaviours/
+commands/
+components/
+controllers/
+helpers/
+mail/layouts/
+nlpclassifier/
+views/
+widgets/
+LICENSE
+Module.php
+README.md
+commonAsset.php
+composer.json

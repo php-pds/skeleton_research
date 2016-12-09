@@ -1,0 +1,4 @@
+LICENSE
+Manager.php
+README.md
+composer.json

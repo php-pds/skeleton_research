@@ -1,0 +1,8 @@
+config/
+lib/
+modules/dc_ajax/
+web/
+.gitignore
+LICENSE
+README.md
+composer.json

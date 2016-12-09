@@ -1,0 +1,17 @@
+app/
+common/
+docs/
+environments/
+rest/
+tests/
+.bowerrc
+.gitattributes
+.gitignore
+.travis.yml
+LICENSE.md
+README.md
+composer.json
+init
+init.bat
+requirements.php
+yii.bat

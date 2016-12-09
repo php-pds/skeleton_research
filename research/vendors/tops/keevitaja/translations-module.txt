@@ -1,0 +1,7 @@
+migrations/
+resources/lang/
+screenshots/
+src/
+LICENSE
+README.md
+composer.json

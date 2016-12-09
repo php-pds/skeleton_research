@@ -1,0 +1,5 @@
+Resources/public/
+AlexanderMatveevMomentBundle.php
+LICENSE
+README.md
+composer.json

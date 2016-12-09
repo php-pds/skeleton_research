@@ -1,0 +1,10 @@
+build/
+src/
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+build.xml
+composer.json
+readme.md

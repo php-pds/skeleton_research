@@ -1,0 +1,13 @@
+DependencyInjection/
+Extension/
+Resources/config/
+Tests/
+.gitignore
+.styleci.yml
+.travis.yml
+CHANGELOG.md
+LICENSE
+LiipUrlAutoConverterBundle.php
+README.md
+composer.json
+phpunit.xml.dist

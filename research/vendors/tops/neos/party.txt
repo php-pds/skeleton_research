@@ -1,0 +1,5 @@
+Classes/
+Migrations/
+Resources/Private/Translations/
+Tests/
+composer.json

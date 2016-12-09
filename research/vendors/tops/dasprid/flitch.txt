@@ -1,0 +1,9 @@
+scripts/
+src/
+standards/
+tests/
+.gitignore
+LICENSE
+README
+composer.json
+flitch

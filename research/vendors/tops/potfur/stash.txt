@@ -1,0 +1,11 @@
+src/Stash/
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CONTRIBUTE.md
+LICENCE
+README.md
+composer.json
+phpunit.xml
+travis.ini

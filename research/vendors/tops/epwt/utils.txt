@@ -1,0 +1,12 @@
+DependencyInjection/
+EventListener/
+Resources/
+Tests/
+Traits/
+.gitignore
+.travis.yml
+EPWTUtilsBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

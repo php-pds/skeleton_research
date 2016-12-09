@@ -1,0 +1,7 @@
+DependencyInjection/
+Entity/
+Geolocation/
+Resources/
+FkrNominatimBundle.php
+README.md
+composer.json

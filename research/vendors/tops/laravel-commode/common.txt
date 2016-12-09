@@ -1,0 +1,8 @@
+src/
+tests/LaravelCommode/Common/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml

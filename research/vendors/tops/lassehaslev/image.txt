@@ -1,0 +1,12 @@
+images/
+src/
+tests/
+.gitignore
+LICENCE.md
+README.md
+composer.json
+composer.lock
+gulpfile.js
+package.json
+phpunit.xml
+todo.txt

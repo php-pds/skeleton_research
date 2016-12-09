@@ -1,0 +1,17 @@
+application/public/
+bin/
+cache/
+conf/
+data/mysql/
+docker/app/
+logs/
+.editorconfig
+.gitattributes
+.gitignore
+.travis.yml
+LICENSE.txt
+Makefile
+README.md
+composer.json
+docker-compose.yml
+variables.env.example

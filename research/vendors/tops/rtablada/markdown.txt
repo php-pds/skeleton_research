@@ -1,0 +1,6 @@
+src/rtablada/libraries/
+test/
+.gitignore
+composer.json
+phpunit.xml
+readme.md

@@ -1,0 +1,14 @@
+.github/
+src/
+test/Unit/
+.codeclimate.yml
+.editorconfig
+.gitattributes
+.gitignore
+.php_cs
+.travis.yml
+LICENSE
+Makefile
+README.md
+composer.json
+composer.lock

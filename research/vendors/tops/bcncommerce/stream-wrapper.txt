@@ -1,0 +1,8 @@
+Stream/
+Tests/
+.gitignore
+.travis.yml
+README.md
+Stream.php
+composer.json
+phpunit.xml.dist

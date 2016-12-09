@@ -1,0 +1,10 @@
+_config/
+code/
+javascript/picturefill/
+templates/Includes/
+.gitattributes
+.gitignore
+LICENSE
+README.md
+_config.php
+composer.json

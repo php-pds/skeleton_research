@@ -1,0 +1,14 @@
+aplazame/
+docs/
+.drone.sec
+.drone.yml
+.editorconfig
+.gitignore
+.php_cs
+Dockerfile
+HISTORY.md
+LICENSE
+Makefile
+README.md
+composer.json
+docker-compose.yml

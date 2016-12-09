@@ -1,0 +1,12 @@
+config/
+data/
+module/Clinica/
+public/
+.gitignore
+.gitmodules
+LICENSE.txt
+README.md
+composer.json
+database.sql
+init_autoloader.php
+packages.json

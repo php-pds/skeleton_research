@@ -1,0 +1,7 @@
+spec/Gastro/ApiBundle/
+src/WW/Gastro/
+.gitignore
+README.md
+composer.json
+composer.lock
+phpunit.xml

@@ -1,0 +1,7 @@
+bin/
+src/Solarfield/Lightship/
+.gitignore
+.meta.php
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,8 @@
+ClassContent/Players/
+Config/
+Resources/img/contents/Players/
+Templates/scripts/Players/
+.gitignore
+Player.php
+README.md
+composer.json

@@ -1,0 +1,12 @@
+Command/
+Controller/
+DependencyInjection/
+Entity/
+EventListener/
+Features/
+Resources/
+.travis.yml
+README.md
+VivaitAuthBundle.php
+behat.yml
+composer.json

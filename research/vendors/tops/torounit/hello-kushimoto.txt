@@ -1,0 +1,17 @@
+assets/styles/
+bin/
+languages/
+src/
+tests/
+.gitignore
+.svnignore
+.travis.yml
+README.md
+circle.yml
+codesniffer.ruleset.xml
+composer.json
+composer.lock
+hello-kushimoto.php
+phpunit.xml
+readme.txt
+screenshot-1.png

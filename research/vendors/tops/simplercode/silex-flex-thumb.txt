@@ -1,0 +1,5 @@
+lib/FlexThumb/
+.gitignore
+composer.json
+license
+readme.md

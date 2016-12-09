@@ -1,0 +1,12 @@
+languages/
+src/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+Makefile
+README.md
+composer.json
+phpcs.xml
+phpunit.xml.dist
+plugin.php

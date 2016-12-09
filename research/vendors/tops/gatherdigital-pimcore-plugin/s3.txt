@@ -1,0 +1,6 @@
+lib/S3/
+.gitignore
+LICENSE
+README.md
+composer.json
+plugin.xml

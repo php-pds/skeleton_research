@@ -1,0 +1,8 @@
+docs/en/
+src/Klimesf/Mailgun/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+composer.json
+readme.md

@@ -1,0 +1,10 @@
+applications/
+public/
+system/
+.gitignore
+.htaccess
+LICENSE.md
+README.md
+favicon.ico
+index.php
+web.config

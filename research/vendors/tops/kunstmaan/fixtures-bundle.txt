@@ -1,0 +1,14 @@
+Builder/
+DependencyInjection/
+Loader/
+Parser/
+Populator/
+Provider/
+Resources/config/
+Tests/
+.travis.yml
+KunstmaanFixturesBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

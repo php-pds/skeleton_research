@@ -1,0 +1,11 @@
+_config/
+code/
+javascript/
+magnific-popup/
+templates/
+.gitattributes
+.gitignore
+LICENSE
+README.md
+_config.php
+composer.json

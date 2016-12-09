@@ -1,0 +1,9 @@
+controllers/
+models/i2/
+temp/
+watchers/
+Http.php
+Module.php
+README.md
+WatchEvent.php
+composer.json

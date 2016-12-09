@@ -1,0 +1,7 @@
+bin/
+spec/TweedeGolf/Generator/Util/
+src/TweedeGolf/Generator/
+.gitignore
+LICENSE
+README.md
+composer.json

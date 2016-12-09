@@ -1,0 +1,6 @@
+src/Alc/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,12 @@
+examples/
+lib/
+nbproject/
+tests/
+.gitignore
+.preflight
+LICENSE
+README-0.1.x.md
+README.md
+composer.json
+composer.lock
+phpunit.xml

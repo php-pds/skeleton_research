@@ -1,0 +1,7 @@
+examples/
+src/Polidog/QuickDns/
+tests/
+.gitignore
+README.md
+composer.json
+test.php

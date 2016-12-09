@@ -1,0 +1,10 @@
+includes/Cmmarslender/PostIterator/
+tests/phpunit/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+bootstrap.php.dist
+composer.json
+composer.lock
+phpunit.xml.dist

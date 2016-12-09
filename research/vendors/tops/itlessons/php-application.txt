@@ -1,0 +1,6 @@
+docs/
+src/Application/
+.gitignore
+README.rst
+composer.json
+phpunit.xml.dist

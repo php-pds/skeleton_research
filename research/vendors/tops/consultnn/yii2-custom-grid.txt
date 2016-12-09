@@ -1,0 +1,7 @@
+.github/
+docs/
+plugins/
+.gitignore
+GridView.php
+README.md
+composer.json

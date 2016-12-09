@@ -1,0 +1,9 @@
+bin/
+fixtures/
+src/Gaufrette/TestSuite/
+.gitignore
+.php_cs
+.travis.yml
+CONTRIBUTION.md
+README.md
+composer.json

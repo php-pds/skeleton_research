@@ -1,0 +1,11 @@
+src/
+test/
+.gitignore
+.php_cs.php
+.travis.install-mysql-5.7.sh
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml

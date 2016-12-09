@@ -1,0 +1,14 @@
+_ide/
+assets/
+config/
+controllers/
+helpers/
+messages/ru/
+models/
+views/admin-marketplace/
+CHANGELOG.md
+CmsMarketplaceComponent.php
+CmsMarketplaceModule.php
+LICENSE
+README.md
+composer.json

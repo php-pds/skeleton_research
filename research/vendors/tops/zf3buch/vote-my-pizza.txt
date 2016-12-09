@@ -1,0 +1,11 @@
+config/
+data/cache/
+modules/Application/
+public/
+.gitignore
+LICENSE
+README.md
+ZEND-LICENSE.md
+composer.json
+phpcs.xml
+phpunit.xml.dist

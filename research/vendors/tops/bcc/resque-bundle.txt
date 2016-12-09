@@ -1,0 +1,15 @@
+Command/
+Controller/
+DependencyInjection/
+Resources/
+bin/
+.gitignore
+BCCResqueBundle.php
+ContainerAwareJob.php
+FailedJob.php
+Job.php
+Queue.php
+README.markdown
+Resque.php
+Worker.php
+composer.json

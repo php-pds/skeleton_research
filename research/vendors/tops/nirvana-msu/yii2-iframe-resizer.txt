@@ -1,0 +1,6 @@
+.gitignore
+IFrameResizer.php
+IFrameResizerAsset.php
+LICENSE
+README.md
+composer.json

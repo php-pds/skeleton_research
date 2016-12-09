@@ -1,0 +1,7 @@
+assets/
+resources/scripts/
+views/simple/
+AjaxForm.php
+LICENSE
+README.md
+composer.json

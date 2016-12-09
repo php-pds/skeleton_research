@@ -1,0 +1,14 @@
+bin/
+classes/
+controllers-admin/
+controllers-shell/
+controllers-system/
+controllers/
+data/
+guide/zh-cn/
+i18n/
+views/
+_ide_helper.php
+bootstrap.php
+composer.json
+config.php

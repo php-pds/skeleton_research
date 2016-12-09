@@ -1,0 +1,14 @@
+bootstrap/
+src/Console/
+tests/
+.gitignore
+.php_cs
+.travis.yml
+LICENSE.txt
+README.md
+adminlte-laravel
+composer.json
+composer.lock
+phpunit.xml
+sandbox_destroy.sh
+sandbox_setup.sh

@@ -1,0 +1,4 @@
+src/ScayTrase/MultiSiteBundle/
+.gitignore
+LICENSE
+composer.json

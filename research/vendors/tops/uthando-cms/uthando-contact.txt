@@ -1,0 +1,13 @@
+config/
+src/UthandoContact/
+test/
+view/uthando-contact/
+.codeclimate.yml
+.gitignore
+.travis.yml
+LICENSE
+Module.php
+README.md
+autoload_classmap.php
+composer.json
+template_map.php

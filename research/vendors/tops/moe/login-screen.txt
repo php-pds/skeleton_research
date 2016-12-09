@@ -1,0 +1,13 @@
+_config/
+code/extensions/
+css/
+image/screens/
+js/
+sass/
+templates/
+.editorconfig
+.gitignore
+.scrutinizer.yml
+composer.json
+grunt-installer.sh
+readme.md

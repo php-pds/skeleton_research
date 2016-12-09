@@ -1,0 +1,16 @@
+Controller/Admin/
+DataFixtures/ORM/
+DependencyInjection/
+Entity/
+EventListener/
+Form/
+Repository/
+Resources/
+Tests/
+Twig/
+.gitignore
+.travis.yml
+IllarraContentBundle.php
+README.md
+composer.json
+phpunit.xml.dist

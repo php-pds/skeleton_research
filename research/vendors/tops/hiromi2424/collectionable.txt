@@ -1,0 +1,7 @@
+Lib/TestSuite/Mock/
+Model/Behavior/
+Test/
+locale/
+.travis.yml
+README.md
+composer.json

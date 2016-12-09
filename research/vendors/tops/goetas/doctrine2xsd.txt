@@ -1,0 +1,6 @@
+bin/
+lib/Goetas/DoctrineToXsd/
+.gitignore
+.gitmodules
+README.md
+composer.json

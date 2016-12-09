@@ -1,0 +1,8 @@
+library/BedRest/Events/
+tests/
+vendor/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,7 @@
+Frizzy/Map/
+tests/Frizzy/Map/
+.gitignore
+LICENSE
+README.markdown
+composer.json
+phpunit.xml.dist

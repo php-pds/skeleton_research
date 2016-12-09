@@ -1,0 +1,6 @@
+LICENSE
+README.md
+composer.json
+stir-disabled.php
+stir-enabled.php
+stir.php

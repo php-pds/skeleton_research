@@ -1,0 +1,10 @@
+bin/
+doc/
+src/Zemanta/
+tests/Zemanta/
+.gitignore
+LICENCE
+README.md
+autoload.php.dist
+composer.json
+phpunit.xml.dist

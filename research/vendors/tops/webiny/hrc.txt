@@ -1,0 +1,6 @@
+src/Webiny/Hrc/
+test/unit/
+LICENSE
+README.md
+composer.json
+phpunit.xml

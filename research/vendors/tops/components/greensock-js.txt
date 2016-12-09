@@ -1,0 +1,6 @@
+src/
+.gitignore
+README.md
+bower.json
+changelog.txt
+composer.json

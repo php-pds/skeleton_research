@@ -1,0 +1,9 @@
+Api/
+DependencyInjection/
+Resources/config/
+Translator/
+.gitignore
+AvroTranslatorBundle.php
+LICENSE
+README.md
+composer.json

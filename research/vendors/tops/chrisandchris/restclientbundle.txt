@@ -1,0 +1,14 @@
+DependencyInjection/
+Exceptions/
+Resources/config/
+Services/
+Tests/
+Traits/
+.gitignore
+.travis.yml
+CiRestClientBundle.php
+LICENSE
+Makefile
+README.md
+composer.json
+phpunit.xml

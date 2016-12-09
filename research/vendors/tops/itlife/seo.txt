@@ -1,0 +1,11 @@
+.config.json
+composer.json
+readme.txt
+seo.ext.js
+seo.ext.php
+seo.inc.php
+seo.js
+seo.layer.js
+seo.php
+seo.tpl
+sitemap.tpl

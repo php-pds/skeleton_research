@@ -1,0 +1,14 @@
+Component/
+Controller/
+DependencyInjection/
+Resources/
+Tests/
+Twig/
+.gitignore
+.travis.yml
+JsLoggerBundle.php
+LICENSE
+README.md
+composer.json
+package.json
+phpunit.xml.dist

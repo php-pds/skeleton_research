@@ -1,0 +1,12 @@
+library/Hal/
+scripts/
+tests/
+.gitignore
+.travis.yml
+CHANGELOG
+LICENSE-2.0.txt
+VERSION
+build.xml
+composer.json
+package.xml
+readme.md

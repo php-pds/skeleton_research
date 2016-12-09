@@ -1,0 +1,6 @@
+app/
+resources/
+.gitignore
+README.rst
+composer.json
+composer.lock

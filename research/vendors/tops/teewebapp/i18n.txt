@@ -1,0 +1,16 @@
+Commands/
+Controllers/
+Tests/
+Widgets/
+assets/images/
+config/
+macros/
+views/widgets/languageMenu/
+.gitignore
+.travis.yml
+README.md
+ServiceProvider.php
+composer.json
+module.json
+phpunit.xml
+routes.php

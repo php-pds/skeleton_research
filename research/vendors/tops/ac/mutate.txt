@@ -1,0 +1,11 @@
+bin/
+src/AC/Mutate/
+.gitignore
+CHANGELOG.md
+LICENSE
+README.md
+TODO.md
+composer.json
+composer.lock
+mutate.conf.php
+phpunit.xml.dist

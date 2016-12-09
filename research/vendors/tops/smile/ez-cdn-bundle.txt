@@ -1,0 +1,7 @@
+DependencyInjection/
+EventListener/
+Resources/config/
+.gitignore
+README.md
+SmileEzCDNBundle.php
+composer.json

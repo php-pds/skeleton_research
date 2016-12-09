@@ -1,0 +1,14 @@
+LICENSE
+README.md
+composer.json
+flatpickr.airbnb.min.css
+flatpickr.base16_flat.min.css
+flatpickr.confetti.min.css
+flatpickr.dark.min.css
+flatpickr.js
+flatpickr.material_blue.min.css
+flatpickr.material_green.min.css
+flatpickr.material_orange.min.css
+flatpickr.material_red.min.css
+flatpickr.min.css
+flatpickr.min.js

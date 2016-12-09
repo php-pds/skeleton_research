@@ -1,0 +1,7 @@
+config/
+src/QuAdmin/
+view/qu-admin/
+LICENSE.txt
+Module.php
+README.md
+composer.json

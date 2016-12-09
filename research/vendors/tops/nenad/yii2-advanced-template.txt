@@ -1,0 +1,13 @@
+_protected/
+assets/
+backend/
+themes/
+uploads/
+.bowerrc
+.gitignore
+.htaccess
+LICENSE
+README.md
+composer.json
+requirements.php
+robots.txt

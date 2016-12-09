@@ -1,0 +1,6 @@
+configuration/Magium/Magento2/Themes/Magento2/
+lib/
+tests/
+LICENSE
+composer.json
+register.php

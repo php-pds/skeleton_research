@@ -1,0 +1,4 @@
+src/CodifyLLC/SolidTrustPay/
+.gitignore
+README.md
+composer.json

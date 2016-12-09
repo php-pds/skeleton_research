@@ -1,0 +1,10 @@
+Test/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+FgcHttpClient.php
+HeaderParser.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

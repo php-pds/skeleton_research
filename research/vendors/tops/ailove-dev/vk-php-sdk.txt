@@ -1,0 +1,8 @@
+classes/
+example/
+interfaces/
+tests/classes/
+VkPhpSdk.jpg
+composer.json
+license.txt
+readme.md

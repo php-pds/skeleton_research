@@ -1,0 +1,8 @@
+testes/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+download.php

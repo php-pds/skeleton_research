@@ -1,0 +1,5 @@
+src/bc/Monolog/
+tests/
+.gitignore
+codeception.yml
+composer.json

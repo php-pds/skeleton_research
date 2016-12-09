@@ -1,0 +1,9 @@
+javascripts/
+stylesheets/
+.gitignore
+LICENCE
+README.md
+composer.json
+index.html
+myhosts
+params.json

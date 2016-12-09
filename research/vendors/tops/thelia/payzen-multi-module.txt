@@ -1,0 +1,7 @@
+Config/
+I18n/
+images/
+LICENSE.txt
+PayzenMulti.php
+README.md
+composer.json

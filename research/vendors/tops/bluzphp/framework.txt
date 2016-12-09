@@ -1,0 +1,14 @@
+docs/
+src/
+tests/
+.coveralls.yml
+.gitignore
+.scrutinizer.yml
+.travis.sh
+.travis.yml
+LICENSE.md
+README.md
+composer.json
+phpcs.xml
+phpdox.xml
+phpunit.xml.dist

@@ -1,0 +1,16 @@
+examples/
+src/Httpful/
+tests/
+.editorconfig
+.gitattributes
+.gitignore
+.scrutinizer.yml
+.styleci.yml
+.travis.yml
+LICENSE.txt
+README.md
+bootstrap.php
+build.sh
+circle.yml
+composer.json
+phpunit.xml.dist

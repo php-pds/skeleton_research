@@ -1,0 +1,12 @@
+DependencyInjection/
+Info/
+Resources/
+Tests/
+.gitignore
+.travis.yml
+CHANGELOG.md
+CONTRIBUTING.md
+CmfObjectInfoBundle.php
+README.md
+composer.json
+phpunit.xml.dist

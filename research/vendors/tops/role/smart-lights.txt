@@ -1,0 +1,11 @@
+Authentication/
+Collector/
+Device/
+Gateway/
+Map/
+State/
+Tests/State/
+.gitignore
+LICENSE
+README.md
+composer.json

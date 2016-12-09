@@ -1,0 +1,8 @@
+Savant3/
+tests/
+.gitignore
+README.md
+Savant3.php
+composer.json
+makepackage.php
+package.xml

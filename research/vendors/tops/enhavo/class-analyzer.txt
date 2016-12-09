@@ -1,0 +1,5 @@
+ClassAnalyzer.php
+LICENSE
+NoSourceException.php
+README.md
+composer.json

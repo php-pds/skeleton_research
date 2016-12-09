@@ -1,0 +1,17 @@
+documentation/
+examples/
+source/feathers/
+test/source/
+themes/
+.gitignore
+.travis.yml
+LICENSE.md
+README.md
+RELEASENOTES.md
+build.gradle
+build.properties
+build.xml
+composer.json
+package-descriptions.xml
+sdk.properties
+settings.gradle

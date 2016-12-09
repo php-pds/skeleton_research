@@ -1,0 +1,8 @@
+lib/Doctrine/Common/Inflector/
+tests/Doctrine/Tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

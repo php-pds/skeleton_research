@@ -1,0 +1,4 @@
+WordForm/
+.gitignore
+composer.json
+phpunit.xml

@@ -1,0 +1,3 @@
+src/Mindy/Tweets/
+.gitignore
+composer.json

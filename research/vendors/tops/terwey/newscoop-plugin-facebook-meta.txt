@@ -1,0 +1,4 @@
+Resources/smartyPlugins/
+NewscoopFacebookMetaBundle.php
+README.md
+composer.json

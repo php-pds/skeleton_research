@@ -1,0 +1,8 @@
+assets/
+classes/
+config/
+plugins/photoswipe/
+templates/
+LICENSE.md
+README.md
+composer.json

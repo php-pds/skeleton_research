@@ -1,0 +1,6 @@
+src/
+tests/Methods/
+.gitignore
+composer.json
+composer.lock
+run.php

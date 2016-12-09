@@ -1,0 +1,17 @@
+Compiler/
+Config/
+Controller/
+EventListener/
+Filter/
+Handler/
+Hook/
+I18n/
+Loop/
+Model/
+Parser/
+Schema/
+templates/backOffice/default/
+LICENSE.txt
+Readme.md
+SmartyFilter.php
+composer.json

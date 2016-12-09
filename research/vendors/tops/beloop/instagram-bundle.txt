@@ -1,0 +1,10 @@
+CompilerPass/
+DependencyInjection/
+Resources/config/
+.editorconfig
+.gitignore
+.travis.yml
+BeloopInstagramBundle.php
+README.md
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,11 @@
+app/
+features/
+src/Qafoo/WorkshopBundle/
+web/
+.gitignore
+README.md
+behat.yml
+composer.json
+composer.lock
+package.sh
+phpunit.xml.dist

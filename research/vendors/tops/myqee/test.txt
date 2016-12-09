@@ -1,0 +1,4 @@
+bin/
+controllers/
+views/
+composer.json

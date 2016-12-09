@@ -1,0 +1,13 @@
+assets/
+components/
+controllers/
+data/
+messages/
+models/
+views/
+.gitignore
+.hg_archival.txt
+README.md
+RightsModule.php
+composer.json
+license.txt

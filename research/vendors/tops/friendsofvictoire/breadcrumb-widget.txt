@@ -1,0 +1,9 @@
+Breadcrumb/Builder/
+DependencyInjection/
+Entity/
+Form/
+Resources/
+Twig/Extension/
+README.md
+VictoireWidgetBreadcrumbBundle.php
+composer.json

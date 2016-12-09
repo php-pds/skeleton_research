@@ -1,0 +1,8 @@
+examples/
+src/Jivaro/
+tests/
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,15 @@
+Controller/Admin/
+DataFixtures/ORM/
+DataGrid/
+DataSet/Admin/
+Entity/
+Exception/
+Factory/
+Form/Admin/
+Generator/
+Manager/
+Repository/
+Resources/
+README.md
+WellCommerceAttributeBundle.php
+composer.json

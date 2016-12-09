@@ -1,0 +1,7 @@
+bin/
+compile/
+src/
+templates/
+.gitignore
+.travis.yml
+composer.json

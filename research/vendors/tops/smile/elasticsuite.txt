@@ -1,0 +1,11 @@
+Resources/
+doc/static/
+src/
+.codeclimate.yml
+.eslintignore
+.eslintrc
+.gitignore
+.travis.yml
+LICENCE.md
+README.md
+composer.json

@@ -1,0 +1,6 @@
+Client/
+DependencyInjection/
+Resources/config/
+BrauneDigitalPitcherBundle.php
+README.md
+composer.json

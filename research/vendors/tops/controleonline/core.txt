@@ -1,0 +1,9 @@
+config/
+src/Core/
+view/Core/default/
+.gitignore
+.travis.yml
+LICENSE
+Module.php
+README.md
+composer.json

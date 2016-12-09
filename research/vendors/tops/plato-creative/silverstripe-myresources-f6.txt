@@ -1,0 +1,9 @@
+cp-root/
+js/
+scss/
+templates/
+.gitignore
+LICENSE
+README.md
+composer.json
+install.sh

@@ -1,0 +1,9 @@
+doc/
+inc/
+.gitignore
+composer.json
+index.php
+json_io.php
+json_patch.php
+readme.md
+restore.php

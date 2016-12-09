@@ -1,0 +1,15 @@
+features/
+src/ChangeSet/
+test/
+.gitignore
+.travis.yml
+CONTRIBUTING.md
+LICENSE
+README.md
+REQUIREMENTS.md
+UPGRADE.md
+behat.yml
+composer.json
+phpdox.xml.dist
+phpmd.xml.dist
+phpunit.xml.dist

@@ -1,0 +1,14 @@
+DataCollector/
+DependencyInjection/
+EventListener/
+Logger/
+Resources/
+SmsSender/
+Tests/
+.gitattributes
+.gitignore
+.travis.yml
+KPhoenSmsSenderBundle.php
+README.md
+composer.json
+phpunit.xml.dist

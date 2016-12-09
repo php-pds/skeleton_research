@@ -1,0 +1,14 @@
+sass/
+screenshots/
+views/default/
+.gitattributes
+.gitignore
+Gruntfile.js
+README.md
+autoloader.php
+composer.json
+config.rb
+manifest.xml
+package.json
+release.md
+start.php

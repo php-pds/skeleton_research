@@ -1,0 +1,6 @@
+src/Witooh/Entity/
+tests/
+.gitignore
+.travis.yml
+composer.json
+phpunit.xml

@@ -1,0 +1,4 @@
+Classes/Onedrop/MultiSite/
+Configuration/
+Resources/Private/Templates/Module/Administration/Sites/
+composer.json

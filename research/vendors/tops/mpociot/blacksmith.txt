@@ -1,0 +1,7 @@
+doc/
+src/Mpociot/Blacksmith/
+.gitignore
+README.md
+blacksmith
+composer.json
+phpunit.xml

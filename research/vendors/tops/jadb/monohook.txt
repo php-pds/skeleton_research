@@ -1,0 +1,14 @@
+assets/success/
+src/
+tests/
+.editorconfig
+.gitignore
+.monohook
+.semver
+CHANGELOG.md
+LICENSE
+README.md
+TODO.md
+VERSION
+composer.json
+phpunit.xml.dist

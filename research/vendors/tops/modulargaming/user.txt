@@ -1,0 +1,13 @@
+assets/js/
+classes/
+config/
+guide/user/
+media/guide/user/
+messages/
+migrations/user/
+templates/
+tests/features/
+LICENSE.md
+README.md
+composer.json
+init.php

@@ -1,0 +1,5 @@
+Classes/Lelesys/News/TypoScript/
+Configuration/
+Resources/Private/
+README.md
+composer.json

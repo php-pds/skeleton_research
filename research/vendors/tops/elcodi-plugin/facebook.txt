@@ -1,0 +1,15 @@
+DependencyInjection/
+EventListener/
+Resources/
+Services/
+Templating/
+.editorconfig
+.formatter.yml
+.gitignore
+CONTRIBUTING.md
+ElcodiFacebookBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist
+plugin.yml

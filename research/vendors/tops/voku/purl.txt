@@ -1,0 +1,14 @@
+data/
+src/Purl/
+tests/
+.editorconfig
+.gitattributes
+.gitignore
+.scrutinizer.yml
+.styleci.yml
+.travis.yml
+LICENSE
+README.markdown
+circle.yml
+composer.json
+phpunit.xml.dist

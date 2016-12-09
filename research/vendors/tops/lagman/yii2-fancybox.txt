@@ -1,0 +1,3 @@
+FancyBox.php
+FancyBoxAsset.php
+composer.json

@@ -1,0 +1,4 @@
+config/
+src/Zf2Base/
+README.md
+composer.json

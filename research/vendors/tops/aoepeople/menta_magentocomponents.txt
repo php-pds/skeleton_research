@@ -1,0 +1,3 @@
+lib/MagentoComponents/
+composer.json
+readme.txt

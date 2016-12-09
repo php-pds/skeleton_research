@@ -1,0 +1,15 @@
+config/
+data/
+module/
+public/
+.gitignore
+.gitmodules
+.travis.yml
+CHANGELOG.md
+CONDUCT.md
+LICENSE.md
+README.md
+bower.json
+composer.json
+phpcs.xml
+phpunit.xml

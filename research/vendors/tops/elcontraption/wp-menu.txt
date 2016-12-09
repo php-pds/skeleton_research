@@ -1,0 +1,4 @@
+lib/WpMenu/
+.gitignore
+README.md
+composer.json

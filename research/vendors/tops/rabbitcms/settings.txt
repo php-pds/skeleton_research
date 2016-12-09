@@ -1,0 +1,15 @@
+Assets/backend/js/
+Config/
+Database/Migrations/
+Entities/
+Http/Controllers/Backend/
+Providers/
+Resources/
+Support/Facade/
+.gitignore
+Group.php
+Manager.php
+Meta.php
+Repository.php
+composer.json
+helpers.php

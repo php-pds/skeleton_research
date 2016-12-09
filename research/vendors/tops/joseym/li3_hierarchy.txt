@@ -1,0 +1,8 @@
+config/
+extensions/
+resources/tmp/cache/
+template/view/adapter/
+.gitignore
+LICENSE.txt
+README.md
+composer.json

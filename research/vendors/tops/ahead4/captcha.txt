@@ -1,0 +1,13 @@
+Font/
+demo/
+.gitignore
+.travis.yml
+CaptchaBuilder.php
+CaptchaBuilderInterface.php
+ImageFileHandler.php
+LICENSE
+PhraseBuilder.php
+PhraseBuilderInterface.php
+README.md
+autoload.php
+composer.json

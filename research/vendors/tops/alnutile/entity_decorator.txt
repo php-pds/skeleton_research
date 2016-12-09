@@ -1,0 +1,7 @@
+src/EntityDecorator/
+LICENSE
+README.md
+composer.json
+entity_decorator.info
+entity_decorator.module
+entity_decorator_finder.class.inc

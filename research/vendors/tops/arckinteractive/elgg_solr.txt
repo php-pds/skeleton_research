@@ -1,0 +1,15 @@
+actions/
+languages/
+lib/
+views/default/
+.gitignore
+CHANGES.txt
+LICENSE
+README.md
+activate.php
+composer.json
+composer.lock
+manifest.xml
+schema.solr5.xml
+schema.xml
+start.php

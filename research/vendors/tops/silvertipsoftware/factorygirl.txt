@@ -1,0 +1,4 @@
+src/SilvertipSoftware/FactoryGirl/
+.gitignore
+README.md
+composer.json

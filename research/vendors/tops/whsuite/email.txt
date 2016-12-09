@@ -1,0 +1,5 @@
+src/Whsuite/Email/
+.gitignore
+LICENSE
+README.md
+composer.json

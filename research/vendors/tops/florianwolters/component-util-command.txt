@@ -1,0 +1,12 @@
+nbproject/
+src/
+.gitattributes
+.gitignore
+.travis.yml
+CONTRIBUTING.md
+COPYING
+COPYING.LESSER
+README.md
+composer.json
+phpdoc.dist.xml
+phpunit.xml.dist

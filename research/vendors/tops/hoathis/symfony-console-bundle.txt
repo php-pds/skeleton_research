@@ -1,0 +1,12 @@
+DependencyInjection/
+Formatter/
+Resources/config/services/
+Tests/
+bin/
+.atoum.php
+.bootstrap.atoum.php
+.gitignore
+.travis.yml
+HoathisConsoleBundle.php
+README.md
+composer.json

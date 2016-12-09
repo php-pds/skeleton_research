@@ -1,0 +1,10 @@
+examples/
+src/
+tests/
+.atoum.php
+.bootstrap.atoum.php
+.gitignore
+.travis.yml
+CHANGELOG.md
+README.md
+composer.json

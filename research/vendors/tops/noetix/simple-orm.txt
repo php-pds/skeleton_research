@@ -1,0 +1,7 @@
+.gitignore
+LICENSE
+README.md
+SimpleOrm.class.php
+composer.json
+example.php
+parameters.ini.dist

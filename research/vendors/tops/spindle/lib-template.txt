@@ -1,0 +1,15 @@
+builds/
+src/
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+apigen.neon
+composer.json
+composer.lock
+gitattributes
+gulpfile.js
+package.json
+phpunit.xml.dist

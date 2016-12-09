@@ -1,0 +1,7 @@
+config/
+src/JHttps/Listeners/
+.gitignore
+Module.php
+README.md
+autoload_classmap.php
+composer.json

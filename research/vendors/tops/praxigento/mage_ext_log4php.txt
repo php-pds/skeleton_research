@@ -1,0 +1,8 @@
+docs/img/
+src/
+test/
+.gitignore
+LICENSE
+README.md
+composer.json
+modman

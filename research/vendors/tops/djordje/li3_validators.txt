@@ -1,0 +1,9 @@
+config/
+extensions/util/
+tests/
+validators/
+.gitattributes
+.gitignore
+.travis.yml
+README.md
+composer.json

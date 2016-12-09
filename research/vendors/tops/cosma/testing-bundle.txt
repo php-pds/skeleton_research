@@ -1,0 +1,17 @@
+Command/
+DependencyInjection/
+Fixture/
+ORM/
+Resources/config/
+TestCase/
+Tests/
+.gitignore
+CHANGELOG.md
+Makefile
+README.md
+TestingBundle.php
+circle.yml
+composer.json
+contributors.txt
+fabfile.py
+phpunit.xml.dist

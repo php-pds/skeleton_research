@@ -1,0 +1,12 @@
+assets/
+controllers/
+helpers/
+messages/ru-RU/
+migrations/
+models/
+views/
+widgets/
+LICENSE
+Module.php
+README.md
+composer.json

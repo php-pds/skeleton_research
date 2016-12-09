@@ -1,0 +1,12 @@
+tests/
+.gitignore
+.travis.yml
+LICENSE.txt
+README.rst
+RELEASES
+composer.json
+config.m4
+config.w32
+package.xml
+php_tomcrypt.h
+tomcrypt.c

@@ -1,0 +1,8 @@
+classes/kerneloverride/kernel/classes/datatypes/ezxmltext/
+doc/
+patch/
+COPYRIGHT.md
+LICENSE
+README.md
+composer.json
+ezinfo.php

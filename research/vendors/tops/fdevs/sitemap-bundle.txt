@@ -1,0 +1,7 @@
+.gitignore
+.travis.yml
+FDevsSitemapBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

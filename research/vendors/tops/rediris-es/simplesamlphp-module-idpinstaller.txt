@@ -1,0 +1,12 @@
+dictionaries/
+hooks/
+lib/
+nbproject/
+templates/
+themes/
+www/
+.gitignore
+COPYING
+README.md
+composer.json
+default-enable

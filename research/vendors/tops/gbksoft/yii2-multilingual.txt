@@ -1,0 +1,6 @@
+src/
+tests/codeception/
+.gitignore
+LICENSE.txt
+README.md
+composer.json

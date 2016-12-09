@@ -1,0 +1,14 @@
+app/
+assets/
+src/
+.htaccess
+LICENSE.md
+README.md
+composer.json
+database.sql
+gulp-build.cmd
+gulp-watch.cmd
+gulpfile.js
+index.php
+package.json
+robots.txt

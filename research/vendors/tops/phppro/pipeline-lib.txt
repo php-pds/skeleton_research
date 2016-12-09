@@ -1,0 +1,7 @@
+src/Phppro/Framework/Pipeline/
+test/php/Phppro/Framework/Pipeline/
+.gitignore
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

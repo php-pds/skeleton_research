@@ -1,0 +1,14 @@
+Assets/
+Controller/
+Form/
+Model/
+Plugin/
+View/Index/
+Widget/
+.gitignore
+Bootstrap.php
+CHANGELOG.txt
+Installer.php
+LICENSE.txt
+README.md
+composer.json

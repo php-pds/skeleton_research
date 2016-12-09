@@ -1,0 +1,13 @@
+DependencyInjection/
+Repository/
+Resources/
+Service/
+Tests/
+Twig/
+.gitignore
+.travis.yml
+DevhelpDatatablesBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist.xml

@@ -1,0 +1,8 @@
+DependencyInjection/
+Resources/config/
+Services/
+.gitignore
+EXSPhpUserAgentBundle.php
+LICENSE
+README.md
+composer.json

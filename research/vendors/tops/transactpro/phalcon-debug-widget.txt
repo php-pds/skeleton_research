@@ -1,0 +1,11 @@
+pdw-assets/
+src/
+.gitignore
+LICENSE
+README.md
+composer.json
+database-info.png
+preview.png
+request-info.png
+server-info.png
+views-info.png

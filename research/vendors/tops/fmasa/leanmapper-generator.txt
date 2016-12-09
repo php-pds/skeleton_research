@@ -1,0 +1,4 @@
+src/LeanMapperGenerator/
+.gitignore
+README.md
+composer.json

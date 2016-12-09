@@ -1,0 +1,11 @@
+.idea/
+configuration/php-frame/
+src/
+.gitignore
+.htaccess
+LICENSE
+README.md
+before-deploy.cmd
+composer.json
+composer.lock
+index.php

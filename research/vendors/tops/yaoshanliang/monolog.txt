@@ -1,0 +1,12 @@
+doc/
+src/Monolog/
+tests/
+.gitattributes
+.gitignore
+.php_cs
+.travis.yml
+CHANGELOG.mdown
+LICENSE
+README.mdown
+composer.json
+phpunit.xml.dist

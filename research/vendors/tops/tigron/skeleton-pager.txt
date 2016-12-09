@@ -1,0 +1,5 @@
+lib/Skeleton/Pager/
+template/
+LICENSE
+README.md
+composer.json

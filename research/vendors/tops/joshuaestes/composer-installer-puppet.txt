@@ -1,0 +1,4 @@
+src/JoshuaEstes/Composer/Installer/
+LICENSE
+README.markdown
+composer.json

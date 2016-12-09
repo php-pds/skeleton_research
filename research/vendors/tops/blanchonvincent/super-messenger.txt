@@ -1,0 +1,7 @@
+config/
+src/SuperMessenger/
+tests/
+.gitignore
+Module.php
+README.md
+composer.json

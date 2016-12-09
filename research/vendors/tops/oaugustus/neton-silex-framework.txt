@@ -1,0 +1,6 @@
+src/Neton/Silex/Framework/
+views/
+.gitignore
+README.md
+composer.json
+composer.lock

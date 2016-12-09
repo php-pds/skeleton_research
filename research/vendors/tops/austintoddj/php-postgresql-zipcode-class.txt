@@ -1,0 +1,7 @@
+data/
+images/
+src/ZipCode/
+LICENSE
+composer.json
+example.php
+readme.md

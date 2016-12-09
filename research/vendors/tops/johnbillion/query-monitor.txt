@@ -1,0 +1,17 @@
+assets-wp-repo/
+assets/
+bin/
+classes/
+collectors/
+dispatchers/
+output/
+tests/phpunit/
+wp-content/
+.travis.yml
+CONTRIBUTING.md
+LICENSE
+README.md
+composer.json
+phpunit-ms.xml.dist
+phpunit.xml.dist
+query-monitor.php

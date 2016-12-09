@@ -1,0 +1,11 @@
+docs/
+library/
+runtime/
+tests/
+.gitattributes
+.gitignore
+BMDM.php
+CHANGELOG.md
+LICENSE
+README.md
+composer.json

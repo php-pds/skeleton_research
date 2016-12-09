@@ -1,0 +1,7 @@
+DependencyInjection/
+Entity/
+Manager/
+Resources/config/
+README.md
+YuccaFosUserAdapterBundle.php
+composer.json

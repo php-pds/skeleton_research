@@ -1,0 +1,3 @@
+src/Networkteam/Behat/Capture/
+.gitignore
+composer.json

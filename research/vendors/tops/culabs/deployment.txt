@@ -1,0 +1,8 @@
+config/
+src/
+views/
+.gitignore
+README.md
+composer.json
+composer.lock
+culabs-deployment

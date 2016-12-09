@@ -1,0 +1,13 @@
+DependencyInjection/
+Tests/
+.editorconfig
+.gitignore
+.php_cs
+.travis.yml
+ApacheTikaBundle.php
+LICENSE.md
+Makefile
+README.md
+VERSIONING.md
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,8 @@
+source/Ackintosh/
+tests/
+.gitignore
+README.md
+composer.json
+phpunit.xml
+sample.php
+sample_captcha.php

@@ -1,0 +1,3 @@
+src/Mongoium/
+LICENSE
+composer.json

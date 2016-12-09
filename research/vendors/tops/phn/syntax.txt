@@ -1,0 +1,12 @@
+doc/
+features/
+spec/Phn/Syntax/Rule/
+src/Phn/Syntax/
+.gitignore
+.styleci.yml
+.travis.yml
+LICENCE
+README.md
+behat.yml
+composer.json
+composer.lock

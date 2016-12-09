@@ -1,0 +1,9 @@
+scripts/
+src/
+tests/
+.gitignore
+.travis.old.yml
+.travis.yml
+LICENSE
+README.md
+composer.json

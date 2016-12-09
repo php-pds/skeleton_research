@@ -1,0 +1,11 @@
+src/phpOlap/
+tests/
+.gitignore
+.gitmodules
+LICENSE
+README.md
+autoload.php
+composer.json
+composer.lock
+phpDocumentor.ini
+phpunit.xml

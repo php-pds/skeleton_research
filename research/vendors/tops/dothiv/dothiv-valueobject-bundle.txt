@@ -1,0 +1,12 @@
+Dothiv/ValueObject/
+Tests/
+build/
+.gitignore
+.travis.yml
+DothivValueObjectBundle.php
+LICENSE
+README.md
+build.xml
+composer.json
+composer.lock
+phpunit.xml.dist

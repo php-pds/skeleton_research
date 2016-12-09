@@ -1,0 +1,17 @@
+Events/
+Exceptions/
+Http/
+Jobs/
+Listeners/
+Providers/
+Resources/
+Services/
+Traits/
+.gitignore
+Account.php
+AccountProperties.php
+AccountRegistration.php
+Player.php
+PlayerOnline.php
+PlayerProperties.php
+composer.json

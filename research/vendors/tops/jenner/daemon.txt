@@ -1,0 +1,4 @@
+src/Jenner/Zebra/Daemon/
+tests/
+README.md
+composer.json

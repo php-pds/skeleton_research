@@ -1,0 +1,6 @@
+demo/
+src/Jasny/Audio/
+LICENSE
+README.md
+apigen.neon
+composer.json

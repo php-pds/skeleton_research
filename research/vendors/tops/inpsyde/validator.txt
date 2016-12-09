@@ -1,0 +1,11 @@
+inc/
+languages/
+src/
+tests/phpunit/
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

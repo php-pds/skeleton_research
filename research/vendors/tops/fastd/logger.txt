@@ -1,0 +1,7 @@
+src/FastD/Logger/
+.gitignore
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist
+structure.v0.1.0.mdj

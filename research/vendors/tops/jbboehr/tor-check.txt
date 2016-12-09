@@ -1,0 +1,6 @@
+bin/
+debian/
+.gitignore
+LICENSE
+README.md
+composer.json

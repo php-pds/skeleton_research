@@ -1,0 +1,5 @@
+LICENSE
+README.md
+Wechat.php
+WechatUser.php
+composer.json

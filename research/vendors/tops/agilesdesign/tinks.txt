@@ -1,0 +1,4 @@
+src/Tinks/
+LICENSE
+README.md
+composer.json

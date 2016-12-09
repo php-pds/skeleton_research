@@ -1,0 +1,14 @@
+conf/
+portal/
+src/
+vendor/
+.gitignore
+.hgignore
+LICENSE
+README.md
+auto_updater
+composer.json
+composer.lock
+install.sh
+sonar_scheduler
+step_two.php

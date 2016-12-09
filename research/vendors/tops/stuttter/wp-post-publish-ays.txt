@@ -1,0 +1,6 @@
+assets/js/
+LICENSE
+README.md
+composer.json
+readme.txt
+wp-post-publish-ays.php

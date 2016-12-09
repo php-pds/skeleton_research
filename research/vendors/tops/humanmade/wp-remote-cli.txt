@@ -1,0 +1,4 @@
+commands/
+README.md
+composer.json
+wp-remote-cli.php

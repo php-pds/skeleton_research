@@ -1,0 +1,12 @@
+DependencyInjection/
+Resources/
+Session/Storage/Handler/
+Tests/Session/Storage/Handler/
+.gitignore
+.php_cs
+.scrutinizer.yml
+.travis.yml
+HautelookSessionStorageChainBundle.php
+README.md
+composer.json
+phpunit.xml.dist

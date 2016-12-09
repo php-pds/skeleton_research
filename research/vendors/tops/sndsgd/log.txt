@@ -1,0 +1,12 @@
+src/
+tests/
+.coveralls.yml
+.gitattributes
+.gitignore
+.travis.yml
+EXAMPLES.md
+LICENSE
+README.md
+apigen.neon
+composer.json
+phpunit.xml

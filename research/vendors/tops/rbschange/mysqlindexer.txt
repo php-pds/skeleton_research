@@ -1,0 +1,11 @@
+actions/
+apache/
+config/
+dataobject/
+i18n/bo/general/
+lib/services/
+persistentdocument/import/
+setup/
+templates/perspectives/
+LICENSE.txt
+change.xml

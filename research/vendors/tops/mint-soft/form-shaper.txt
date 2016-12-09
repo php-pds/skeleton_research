@@ -1,0 +1,5 @@
+config/
+src/MintSoft/FormShaper/
+Module.php
+README.md
+composer.json

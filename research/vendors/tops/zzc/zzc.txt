@@ -1,0 +1,5 @@
+.idea/
+src/F/S/
+vendor/
+composer.json
+show.php

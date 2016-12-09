@@ -1,0 +1,14 @@
+assets/
+code/
+examples/post-types/
+storage/
+tests/
+views/admin/
+.gitignore
+bower.json
+composer.json
+gulpfile.js
+index.php
+package.json
+phpunit.xml
+readme.md

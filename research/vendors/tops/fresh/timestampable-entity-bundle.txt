@@ -1,0 +1,15 @@
+DependencyInjection/
+EventListener/
+Model/
+Resources/config/
+Traits/
+.gitignore
+.scrutinizer.yml
+.styleci.yml
+.travis.yml
+CONTRIBUTING.md
+FreshTimestampableEntityBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

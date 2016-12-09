@@ -1,0 +1,17 @@
+actions/
+data/
+helpers/
+includes/
+locales/en-US/
+models/classes/
+plugins/updater/
+scripts/
+test/
+views/
+.gitignore
+.htaccess
+LICENSE
+README.md
+composer.json
+index.php
+manifest.php

@@ -1,0 +1,7 @@
+src/VIPSoft/Unzip/
+tests/VIPSoft/Unzip/Tests/
+LICENSE
+README.md
+bootstrap.php
+composer.json
+phpunit.xml.dist

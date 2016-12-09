@@ -1,0 +1,5 @@
+src/
+.gitignore
+cleaninstall
+composer.json
+composer.lock

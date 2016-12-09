@@ -1,0 +1,14 @@
+build/
+doc/
+scripts/
+src/
+.gitignore
+.pharignore
+.travis.yml
+CONTRIBUTORS.md
+LICENSE
+NEWS.md
+README.md
+composer.json
+doxygen.config
+phpunit.xml

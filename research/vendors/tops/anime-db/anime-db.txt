@@ -1,0 +1,16 @@
+app/
+src/
+web/
+.coveralls.yml
+.editorconfig
+.gitignore
+.scrutinizer.yml
+.styleci.yml
+.travis.yml
+AnimeDB
+CHANGELOG.md
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

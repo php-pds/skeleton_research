@@ -1,0 +1,7 @@
+migrations/
+FacebookSettings.php
+LICENSE
+README.md
+SocialMeta.php
+TwitterSettings.php
+composer.json

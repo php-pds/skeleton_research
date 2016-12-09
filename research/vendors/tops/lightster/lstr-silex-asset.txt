@@ -1,0 +1,7 @@
+src/Lstr/Silex/Asset/
+.gitattributes
+.gitignore
+LICENSE.txt
+README.md
+composer.json
+composer.lock

@@ -1,0 +1,7 @@
+AppCache.php
+CheckReload.php
+ClientBehavior.php
+LICENSE
+README.md
+composer.json
+manifest.php

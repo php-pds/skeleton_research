@@ -1,0 +1,11 @@
+config/
+console/
+scripts/composer/
+tests/
+web/
+.gitignore
+README.md
+circle.yml
+composer.json
+composer.lock
+pantheon.yml

@@ -1,0 +1,5 @@
+Classes/Lelesys/Plugin/IndexedSearch/
+Configuration/
+Resources/
+README.md
+composer.json

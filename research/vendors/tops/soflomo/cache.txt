@@ -1,0 +1,6 @@
+config/
+src/Soflomo/Cache/Controller/
+LICENSE
+Module.php
+README.md
+composer.json

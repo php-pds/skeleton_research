@@ -1,0 +1,9 @@
+bin/.travis/
+src/Crevillo/EzSocialLoginBundle/
+tests/
+.gitignore
+.travis.yml
+CHANGELOG.md
+README.md
+composer.json
+phpunit.xml.dist

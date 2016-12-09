@@ -1,0 +1,12 @@
+resources/
+src/Chromabits/Standards/
+.editorconfig
+.formatter.yml
+.gitignore
+.travis.yml
+LICENSE
+README.md
+build.php
+composer.json
+composer.lock
+phpstd

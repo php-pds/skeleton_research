@@ -1,0 +1,11 @@
+shell/
+.editorconfig
+.gitignore
+.php_cs
+.sensiolabs.yml
+Installer.php
+LICENSE
+README.md
+composer.json
+composer.lock
+composer.phar

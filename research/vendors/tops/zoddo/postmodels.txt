@@ -1,0 +1,16 @@
+acp/
+adm/style/
+config/
+controller/
+event/
+helper/
+language/
+migrations/
+styles/
+travis/
+.gitignore
+.travis.yml
+composer.json
+constants.php
+license.txt
+phpunit.xml.dist

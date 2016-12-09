@@ -1,0 +1,14 @@
+controller/
+doc/
+helper/
+includes/
+install/ontology/
+locales/
+model/
+scripts/update/
+views/
+.gitignore
+LICENSE
+README.md
+composer.json
+manifest.php

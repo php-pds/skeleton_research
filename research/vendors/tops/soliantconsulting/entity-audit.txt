@@ -1,0 +1,11 @@
+config/
+src/SoliantEntityAudit/
+test/
+view/soliant-entity-audit/
+.gitignore
+.travis.yml
+LICENSE.txt
+Module.php
+README.md
+composer.json
+phpunit.xml

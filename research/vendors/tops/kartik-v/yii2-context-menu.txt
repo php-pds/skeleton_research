@@ -1,0 +1,8 @@
+.github/
+assets/js/
+CHANGE.md
+ContextMenu.php
+ContextMenuAsset.php
+LICENSE.md
+README.md
+composer.json

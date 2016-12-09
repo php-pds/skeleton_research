@@ -1,0 +1,10 @@
+config/Migrations/
+src/
+webroot/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+language-switcher.png
+phpunit.xml.dist

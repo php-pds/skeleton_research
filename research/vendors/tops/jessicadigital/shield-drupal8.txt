@@ -1,0 +1,9 @@
+config/install/
+src/
+README.md
+composer.json
+shield.info.yml
+shield.links.menu.yml
+shield.permissions.yml
+shield.routing.yml
+shield.services.yml

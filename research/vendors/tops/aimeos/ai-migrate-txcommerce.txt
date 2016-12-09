@@ -1,0 +1,6 @@
+lib/custom/setup/
+LICENSE
+README.md
+composer.json
+manifest.php
+phing.xml

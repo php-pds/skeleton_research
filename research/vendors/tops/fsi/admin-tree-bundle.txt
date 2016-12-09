@@ -1,0 +1,10 @@
+Controller/
+DependencyInjection/
+Resources/
+spec/FSi/Bundle/AdminTreeBundle/
+.gitignore
+.travis.yml
+FSiAdminTreeBundle.php
+LICENSE
+README.md
+composer.json

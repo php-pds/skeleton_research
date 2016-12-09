@@ -1,0 +1,5 @@
+assets/
+LICENSE
+README.md
+composer.json
+editor-grid.php

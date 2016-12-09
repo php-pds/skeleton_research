@@ -1,0 +1,12 @@
+docs/
+nbproject/
+src/
+tests/
+.gitattributes
+.gitignore
+.travis.yml
+LICENSE.md
+README.md
+build.xml
+composer.json
+ruleset.xml

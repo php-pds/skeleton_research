@@ -1,0 +1,8 @@
+src/Kurl/InputFilter/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

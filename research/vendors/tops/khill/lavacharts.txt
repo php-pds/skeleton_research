@@ -1,0 +1,16 @@
+.github/
+javascript/
+src/
+tests/
+.codeclimate.yml
+.gitattributes
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+composer.json
+composer.lock
+gulpfile.js
+package.json
+phpunit.xml

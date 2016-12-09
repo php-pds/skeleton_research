@@ -1,0 +1,7 @@
+Config/
+DependencyInjection/
+Entity/
+Migrations/
+Resources/config/
+AygonDatabaseConfigBundle.php
+composer.json

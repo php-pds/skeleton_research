@@ -1,0 +1,7 @@
+TelegramAPI/
+tests/
+.gitignore
+README.md
+TelegramAPI.php
+composer.json
+index.php

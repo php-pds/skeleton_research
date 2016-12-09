@@ -1,0 +1,15 @@
+controllers/
+translations/
+upgrade/
+views/
+CHANGELOG.txt
+Readme.md
+bankwire.jpg
+bankwire.php
+composer.json
+config.xml
+index.php
+logo.gif
+logo.png
+payment.php
+validation.php

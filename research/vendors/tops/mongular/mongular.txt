@@ -1,0 +1,6 @@
+public_files/
+src/
+COPYING
+LICENSE
+README.md
+composer.json

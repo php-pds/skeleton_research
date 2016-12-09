@@ -1,0 +1,2 @@
+src/Aoepeople/ComposerInstallers/
+composer.json

@@ -1,0 +1,5 @@
+README.md
+aegir.make.yml
+autoload.php
+composer.json
+index.php

@@ -1,0 +1,17 @@
+data/
+examples/
+src/PEAR2/Console/
+tests/
+.gitignore
+.travis.yml
+CREDITS
+README
+RELEASE-0.1.0
+RELEASE-0.2.0
+RELEASE-0.2.1
+RELEASE-0.2.2
+RELEASE-0.2.3
+composer.json
+extrasetup.php
+package.xml
+packagexmlsetup.php

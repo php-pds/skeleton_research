@@ -1,0 +1,6 @@
+Tests/
+src/Mindy/Pagination/
+.gitignore
+composer.json
+phpunit.xml
+src.php

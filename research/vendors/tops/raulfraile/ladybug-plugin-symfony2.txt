@@ -1,0 +1,11 @@
+Config/
+Inspector/Object/Symfony/Component/HttpFoundation/
+Metadata/
+Tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+Symfony2Plugin.php
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,7 @@
+Build/
+Configuration/
+Tests/Selenium/
+Web/
+.gitignore
+build.xml
+composer.json

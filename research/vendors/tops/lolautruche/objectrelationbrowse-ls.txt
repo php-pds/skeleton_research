@@ -1,0 +1,10 @@
+datatypes/ezobjectrelationbrowse/
+design/standard/
+docs/
+modules/objectrelationbrowse/
+settings/
+LICENSE
+README.md
+composer.json
+extension.xml
+ezinfo.php

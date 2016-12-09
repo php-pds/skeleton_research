@@ -1,0 +1,8 @@
+Command/
+DependencyInjection/
+Entity/
+Resources/config/
+Geonames.php
+GeonamesBundle.php
+README.md
+composer.json

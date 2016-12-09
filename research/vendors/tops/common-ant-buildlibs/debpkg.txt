@@ -1,0 +1,6 @@
+.gitignore
+InstallTask.php
+UpdateRepositoryTask.php
+composer.json
+debpkg.phing.xml
+debpkg.xml

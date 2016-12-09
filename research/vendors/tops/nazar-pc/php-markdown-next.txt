@@ -1,0 +1,5 @@
+example/
+src/nazarpc/
+composer.json
+license.md
+readme.md

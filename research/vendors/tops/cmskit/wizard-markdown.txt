@@ -1,0 +1,7 @@
+css/
+doc/en/
+font/
+js/
+composer.json
+include.php
+index.php

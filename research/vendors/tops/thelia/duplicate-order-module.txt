@@ -1,0 +1,11 @@
+Config/
+Controller/
+Event/
+Form/
+Hook/
+I18n/
+templates/frontOffice/default/
+DuplicateOrder.php
+LICENSE.txt
+README.md
+composer.json

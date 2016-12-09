@@ -1,0 +1,10 @@
+demo/
+src/EasySQL/
+tests/
+.gitignore
+LICENSE
+README.md
+build.sh
+composer.json
+example.php
+phpunit.xml

@@ -1,0 +1,9 @@
+docs/en/
+src/IPub/500px/
+tests/
+.gitignore
+.travis.composer.php
+.travis.yml
+composer.json
+license.md
+readme.md

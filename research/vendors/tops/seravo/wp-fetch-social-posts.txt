@@ -1,0 +1,8 @@
+inc/
+.gitmodules
+.travis.yml
+LICENSE
+composer.json
+readme.md
+readme.txt
+wp-fetch-social-posts.php

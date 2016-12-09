@@ -1,0 +1,15 @@
+Controller/
+DependencyInjection/
+Entity/
+Model/
+Resources/
+Tests/
+Twig/
+.coveralls.yml
+.gitattributes
+.gitignore
+.travis.yml
+FreezyBeeEditroubleBundle.php
+README.md
+composer.json
+phpunit.xml.dist

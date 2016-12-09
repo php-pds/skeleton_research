@@ -1,0 +1,16 @@
+bin/
+config/
+public/
+src/General/
+tests/
+view/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+Module.php
+README.md
+autoload_classmap.php
+composer.json
+ocular.phar
+phpunit.xml
+template_map.php

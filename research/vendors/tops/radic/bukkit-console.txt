@@ -1,0 +1,12 @@
+public/
+src/
+tests/
+.gitignore
+.travis.yml
+changelog.md
+composer.json
+phpunit.xml
+readme.md
+ss1.jpg
+ss2.jpg
+ss3.jpg

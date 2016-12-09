@@ -1,0 +1,6 @@
+Classes/Shel/TsForms/
+Configuration/
+Resources/Private/TypoScript/
+LICENSE.txt
+Readme.md
+composer.json

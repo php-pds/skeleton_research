@@ -1,0 +1,15 @@
+bin/
+cache/
+source/
+tests/
+.apishka.php
+.gitattributes
+.gitignore
+.php_cs
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.php
+phpunit.sample.xml

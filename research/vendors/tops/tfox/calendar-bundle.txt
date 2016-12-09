@@ -1,0 +1,6 @@
+DependencyInjection/
+Resources/config/
+Service/
+README.md
+TFoxCalendarBundle.php
+composer.json

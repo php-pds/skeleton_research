@@ -1,0 +1,7 @@
+documentation/
+includes/
+public/
+src/
+.gitignore
+README.md
+composer.json

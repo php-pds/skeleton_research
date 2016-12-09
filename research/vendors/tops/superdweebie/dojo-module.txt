@@ -1,0 +1,13 @@
+.travis/
+bin/
+config/
+docs/api/
+src/Sds/DojoModule/
+tests/
+.travis.yml
+LICENSE
+README.md
+composer.json
+debug-tests.sh
+index.html
+phpunit.xml.dist

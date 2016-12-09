@@ -1,0 +1,8 @@
+Exception/
+doc/
+examples/
+.gitignore
+JsVars.php
+LICENSE
+README.md
+composer.json

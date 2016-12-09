@@ -1,0 +1,15 @@
+controllers/
+js/
+mails/
+translations/
+views/
+MailAlert.php
+Readme.md
+composer.json
+config.xml
+index.php
+logo.png
+mailalerts-account.php
+mailalerts-ajax.php
+mailalerts-extra.php
+ps_emailalerts.php

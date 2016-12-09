@@ -1,0 +1,5 @@
+data/
+src/SpeckRandomProducts/
+view/
+Module.php
+composer.json

@@ -1,0 +1,8 @@
+_config/
+assets/
+code/
+.editorconfig
+.gitignore
+README.md
+_config.php
+composer.json

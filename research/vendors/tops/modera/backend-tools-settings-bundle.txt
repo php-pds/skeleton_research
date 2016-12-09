@@ -1,0 +1,9 @@
+Contributions/
+DependencyInjection/
+Resources/
+Section/
+Tests/Unit/Contributions/
+.gitignore
+ModeraBackendToolsSettingsBundle.php
+README.md
+composer.json

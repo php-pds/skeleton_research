@@ -1,0 +1,9 @@
+assets-sass/
+assets/
+KakSelect2Asset.php
+README.md
+Select2.php
+Select2Asset.php
+SlimScrollAsset.php
+ThemeBootstrap.php
+composer.json

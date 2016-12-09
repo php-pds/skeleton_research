@@ -1,0 +1,14 @@
+code/
+css/
+docs/images/
+javascript/
+scss/
+templates/
+tests/
+.editorconfig
+.gitattributes
+.scrutinizer.yml
+.travis.yml
+README.md
+_config.php
+composer.json

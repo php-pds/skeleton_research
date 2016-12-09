@@ -1,0 +1,14 @@
+.idea/
+assets/
+src/
+tests/
+views/
+.DS_Store
+.gitignore
+ComPress.php
+README.md
+composer.json
+composer.lock
+phpunit.xml
+readme.txt
+services_examples.yml

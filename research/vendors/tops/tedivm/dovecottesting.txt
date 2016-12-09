@@ -1,0 +1,9 @@
+resources/
+vagrant/
+.dovecottestingmark
+.gitignore
+.travis.yml
+LICENSE
+README.md
+SetupEnvironment.sh
+composer.json

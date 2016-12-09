@@ -1,0 +1,13 @@
+docs/
+src/
+tests/Types/
+.DS_Store
+.gitignore
+.travis.yml
+CHANGELOG.md
+InitTestSuite.php
+LICENSE
+README.md
+TestClass.tt
+composer.json
+phpunit.xml

@@ -1,0 +1,5 @@
+config/
+.gitignore
+README.md
+composer.json
+ride.json

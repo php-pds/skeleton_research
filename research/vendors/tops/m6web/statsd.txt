@@ -1,0 +1,9 @@
+doc/
+src/M6Web/Component/
+.atoum.php
+.bootstrap.atoum.php
+.coke
+.gitignore
+.travis.yml
+README.md
+composer.json

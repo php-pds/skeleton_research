@@ -1,0 +1,6 @@
+lib/Vespolina/Billing/
+tests/
+.gitignore
+README.md
+composer.json
+phpunit.xml

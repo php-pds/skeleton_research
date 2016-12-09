@@ -1,0 +1,5 @@
+Classes/RobertLemke/RackspaceCloudFiles/
+Configuration/
+LICENSE.md
+README.md
+composer.json

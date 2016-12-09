@@ -1,0 +1,15 @@
+Exception/
+Provider/
+Repository/
+Storage/
+AbstractAuthenticationProvider.php
+AbstractRepository.php
+Auth.php
+AuthenticationProviderInterface.php
+Exception.php
+LICENSE
+README.md
+RepositoryInterface.php
+StorageInterface.php
+UserDetails.php
+composer.json

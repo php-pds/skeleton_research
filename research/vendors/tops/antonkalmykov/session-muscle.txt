@@ -1,0 +1,5 @@
+Adapters/
+GarbageCollector.php
+README.md
+Session.php
+composer.json

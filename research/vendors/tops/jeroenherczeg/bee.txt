@@ -1,0 +1,10 @@
+base_files/
+src/
+stubs/
+.bee_example
+.gitignore
+README.md
+bee
+composer.json
+composer.lock
+todo

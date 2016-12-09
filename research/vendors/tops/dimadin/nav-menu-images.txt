@@ -1,0 +1,4 @@
+inc/
+composer.json
+nav-menu-images.php
+readme.md

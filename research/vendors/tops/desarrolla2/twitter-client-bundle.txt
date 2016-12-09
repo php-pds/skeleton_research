@@ -1,0 +1,8 @@
+DependencyInjection/
+Resources/config/
+.gitignore
+.travis.yml
+README
+TwitterClientBundle.php
+composer.json
+phpunit.xml

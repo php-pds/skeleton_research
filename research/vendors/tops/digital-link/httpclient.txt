@@ -1,0 +1,7 @@
+HttpClientInterface.php
+HttpException.php
+NullClient.php
+NullResponse.php
+README.md
+ResponseInterface.php
+composer.json

@@ -1,0 +1,14 @@
+Annotation/
+Command/
+Controller/
+DependencyInjection/
+Entity/
+Model/
+Resources/config/
+Service/
+SubscribersMiner/
+SubscribersReducer/
+.gitignore
+LICENSE
+SoilCommentsDigestBundle.php
+composer.json

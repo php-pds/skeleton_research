@@ -1,0 +1,12 @@
+Api/
+Connection/
+DependencyInjection/
+Resources/
+Tests/Units/Api/
+.atoum.bootstrap.php
+.atoum.php
+.gitignore
+.travis.yml
+README.md
+RezzzaMailChimpBundle.php
+composer.json

@@ -1,0 +1,6 @@
+src/Middleware/
+templates/
+.gitignore
+LICENSE
+README.md
+composer.json

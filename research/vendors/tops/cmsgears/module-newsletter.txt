@@ -1,0 +1,7 @@
+admin/
+common/
+frontend/
+migrations/innodb/
+LICENSE
+README.md
+composer.json

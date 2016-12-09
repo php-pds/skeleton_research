@@ -1,0 +1,9 @@
+src/
+tests/
+.travis.yml
+CHANGELOG.md
+COLLECTION.md
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

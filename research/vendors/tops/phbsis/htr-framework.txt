@@ -1,0 +1,9 @@
+App/
+public_html/
+.gitattributes
+.gitignore
+LICENSE
+README.md
+composer.json
+htr.json
+users_login.sql

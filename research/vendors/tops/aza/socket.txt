@@ -1,0 +1,12 @@
+Exceptions/
+.gitignore
+.travis.yml
+ASocket.php
+CHANGELOG.md
+LICENSE.md
+README.md
+Socket.php
+SocketReal.php
+SocketStream.php
+composer.json
+phpunit.xml.dist

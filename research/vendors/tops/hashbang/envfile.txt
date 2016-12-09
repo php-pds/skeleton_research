@@ -1,0 +1,6 @@
+tests/
+Makefile
+README.md
+composer.json
+envfile.php
+getval

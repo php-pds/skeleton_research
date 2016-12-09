@@ -1,0 +1,5 @@
+console/
+lib/Skeleton/Test/
+LICENSE
+README.md
+composer.json

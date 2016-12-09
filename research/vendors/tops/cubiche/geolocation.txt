@@ -1,0 +1,16 @@
+Selector/
+Specification/
+.atoum.php
+.atoum.travis.php
+.bootstrap.atoum.php
+.travis.yml
+Coordinate.php
+Distance.php
+DistanceUnit.php
+Geolocalizable.php
+GeolocalizableInterface.php
+GeolocalizableTrait.php
+Latitude.php
+Longitude.php
+README.md
+composer.json

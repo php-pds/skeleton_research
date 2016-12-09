@@ -1,0 +1,12 @@
+DependencyInjection/
+Resources/config/
+Storage/
+Tests/
+.gitignore
+.travis.yml
+EjsmontCircuitBreakerBundle.php
+Factory.php
+LICENSE
+README.md
+build.xml
+composer.json

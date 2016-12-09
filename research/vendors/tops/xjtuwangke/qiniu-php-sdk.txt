@@ -1,0 +1,11 @@
+Tests/
+docs/
+php-sdk-origin/
+src/
+.gitignore
+.travis.yml
+README.md
+composer.json
+phpdoc.dist.xml
+phpunit.xml
+sami.config.php

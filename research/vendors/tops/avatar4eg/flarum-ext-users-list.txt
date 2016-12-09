@@ -1,0 +1,8 @@
+js/admin/
+less/admin/
+locale/
+src/
+LICENSE
+bootstrap.php
+composer.json
+readme.md

@@ -1,0 +1,7 @@
+samples/
+src/
+tests/unit/Message/
+.gitignore
+LICENSE
+README.md
+composer.json

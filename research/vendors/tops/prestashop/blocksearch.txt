@@ -1,0 +1,16 @@
+img/
+translations/
+upgrade/
+CHANGELOG.txt
+Readme.md
+blocksearch-instantsearch.tpl
+blocksearch-top.tpl
+blocksearch.css
+blocksearch.js
+blocksearch.php
+blocksearch.tpl
+composer.json
+config.xml
+index.php
+logo.gif
+logo.png

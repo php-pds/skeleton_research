@@ -1,0 +1,12 @@
+examples/
+tests/
+.gitattributes
+.gitignore
+.travis.yml
+CHANGELOG.md
+InitController.php
+LICENSE.md
+LocalFilePlaceholder.php
+README.md
+composer.json
+phpunit.xml.dist

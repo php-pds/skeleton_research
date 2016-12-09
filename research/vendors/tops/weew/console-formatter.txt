@@ -1,0 +1,9 @@
+src/Weew/ConsoleFormatter/
+tests/
+.gitignore
+.travis.yml
+composer.json
+examples.php
+licence.md
+phpspec.yml
+readme.md

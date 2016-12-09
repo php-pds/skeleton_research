@@ -1,0 +1,9 @@
+src/SVNClient/
+.gitattributes
+.gitignore
+LICENSE
+README.md
+autoload.php
+composer.json
+composer.lock
+console.php

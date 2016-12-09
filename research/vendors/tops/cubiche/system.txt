@@ -1,0 +1,16 @@
+Exception/
+Tests/Units/
+.atoum.php
+.atoum.travis.php
+.bootstrap.atoum.php
+.travis.yml
+Decimal.php
+DecimalInfinite.php
+Enum.php
+Integer.php
+Number.php
+README.md
+Real.php
+RoundingMode.php
+StringLiteral.php
+composer.json

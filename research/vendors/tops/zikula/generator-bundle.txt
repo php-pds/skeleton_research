@@ -1,0 +1,15 @@
+Command/
+Generator/
+Manipulator/
+Resources/
+Tests/
+app/
+.gitignore
+.travis.yml
+Application.php
+LICENSE
+README.md
+ZikulaGeneratorBundle.php
+composer.json
+console
+phpunit.xml.dist

@@ -1,0 +1,7 @@
+src/Traits/
+tests/
+.gitattributes
+.gitignore
+composer.json
+phpunit.xml
+readme.md

@@ -1,0 +1,12 @@
+src/Spyrit/LightCsv/
+tests/
+.gitattributes
+.gitignore
+.php_cs
+.travis.yml
+CREDITS
+LICENSE
+LICENSE.LESSER
+README.md
+composer.json
+phpunit.xml.dist

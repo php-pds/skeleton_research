@@ -1,0 +1,9 @@
+Resources/config/
+bin/
+sbin/
+src/
+.git-push-everywhere
+.gitmodules
+LICENSE
+README.md
+composer.json

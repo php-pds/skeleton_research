@@ -1,0 +1,17 @@
+docs/
+scripts/
+src/
+tests/
+web/
+.gitignore
+.gitmodules
+.travis.yml
+Licence.txt
+README.md
+build.xml
+composer.json
+composer.phar
+phpcs.xml
+phpmd.xml
+phpunit.xml.dist
+src.php

@@ -1,0 +1,4 @@
+design/standard/
+doc/
+settings/
+composer.json

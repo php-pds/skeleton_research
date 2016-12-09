@@ -1,0 +1,6 @@
+lib/XML/
+src/
+tests/
+.gitignore
+README.md
+composer.json

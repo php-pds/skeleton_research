@@ -1,0 +1,13 @@
+bin/
+controller/
+helpers/
+locales/en-US/
+model/
+scripts/update/
+test/
+views/
+.htaccess
+README.md
+composer.json
+index.php
+manifest.php

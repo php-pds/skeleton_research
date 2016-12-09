@@ -1,0 +1,4 @@
+bin/
+lib/EarthIT/
+.gitignore
+composer.json

@@ -1,0 +1,7 @@
+src/MS/Cache/
+test/
+.gitignore
+.travis.yml
+README.md
+composer.json
+phpunit.xml.dist

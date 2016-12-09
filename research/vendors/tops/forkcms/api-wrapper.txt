@@ -1,0 +1,7 @@
+tests/
+Api.php
+CHANGELOG.md
+Exception.php
+LICENSE.md
+README.md
+composer.json

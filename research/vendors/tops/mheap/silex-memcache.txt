@@ -1,0 +1,11 @@
+bin/
+doc/
+example/
+src/SilexMemcache/
+tests/
+.gitignore
+.travis.yml
+MIT-LICENSE
+README.md
+composer.json
+phpunit.xml.dist

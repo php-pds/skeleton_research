@@ -1,0 +1,5 @@
+js/
+ComposerChecker.php
+README.md
+composer.json
+composer.lock

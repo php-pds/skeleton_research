@@ -1,0 +1,3 @@
+src/BrightCove/
+.gitignore
+composer.json

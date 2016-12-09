@@ -1,0 +1,7 @@
+install/
+lang/ru/
+resources/
+src/Citfact/Core/
+README.md
+composer.json
+include.php

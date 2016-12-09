@@ -1,0 +1,16 @@
+backend/
+common/
+console/
+environments/
+frontend/
+tests/
+.bowerrc
+LICENSE
+README.md
+YII2_LICENSE.md
+YII2_README.md
+composer.json
+init
+init.bat
+requirements.php
+yii.bat

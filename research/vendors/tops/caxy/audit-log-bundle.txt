@@ -1,0 +1,15 @@
+Configuration/
+DependencyInjection/
+EventListener/
+Manager/
+Metadata/
+Model/
+Reader/
+Resources/
+Service/
+Tests/Reader/
+.gitignore
+CaxyAuditLogBundle.php
+LICENSE
+README.md
+composer.json

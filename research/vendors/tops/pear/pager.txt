@@ -1,0 +1,10 @@
+Pager/
+examples/
+tests/
+.gitignore
+.travis.yml
+Pager.php
+README
+composer.json
+example.php
+package.xml

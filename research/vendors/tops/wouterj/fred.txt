@@ -1,0 +1,13 @@
+bin/
+ext/
+features/
+spec/
+src/
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+composer.json
+fred.php
+phpspec.yml

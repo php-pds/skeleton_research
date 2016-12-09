@@ -1,0 +1,6 @@
+ckeditor/
+snakeaas/NetteCKEditor/
+.gitignore
+LICENSE
+README.md
+composer.json

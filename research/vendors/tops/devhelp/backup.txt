@@ -1,0 +1,9 @@
+spec/Devhelp/Backup/
+src/Devhelp/Backup/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENCE
+README.md
+composer.json
+phpspec.yml

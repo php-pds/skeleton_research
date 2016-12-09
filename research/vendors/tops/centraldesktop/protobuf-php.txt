@@ -1,0 +1,10 @@
+library/DrSlump/Protobuf/
+test/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml
+protoc-gen-php.bat
+protoc-gen-php.php

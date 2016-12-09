@@ -1,0 +1,11 @@
+DependencyInjection/
+EventListener/
+Resources/config/
+Tests/Units/EventListener/
+.atoum.php
+.bootstrap.atoum.php
+.coke
+.gitignore
+M6WebStatsdRequestHeadersBundle.php
+README.md
+composer.json

@@ -1,0 +1,8 @@
+src/Cubiche/Tools/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock
+php-cs-fix-commit
+pre-commit

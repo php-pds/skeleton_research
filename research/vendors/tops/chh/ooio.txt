@@ -1,0 +1,10 @@
+examples/
+lib/OOIO/
+tests/
+.gitignore
+LICENSE.txt
+README.md
+SPEC.md
+bob_config.php
+composer.json
+phpunit.dist.xml

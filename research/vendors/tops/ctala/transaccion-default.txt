@@ -1,0 +1,6 @@
+classes/
+vendor/
+LICENSE
+README.md
+composer.json
+composer.json~

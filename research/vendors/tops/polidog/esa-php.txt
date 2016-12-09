@@ -1,0 +1,11 @@
+tests/
+.coveralls.yml
+.gitignore
+.scrutinizer.yml
+.travis.yml
+ApiMethods.php
+Client.php
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

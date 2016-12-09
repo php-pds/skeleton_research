@@ -1,0 +1,7 @@
+src/InputValidation/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

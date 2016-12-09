@@ -1,0 +1,12 @@
+app/
+bin/
+src/Controller/
+tests/Controller/
+var/logs/
+web/
+.gitignore
+.scrutinizer.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

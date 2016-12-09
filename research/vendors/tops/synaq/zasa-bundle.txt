@@ -1,0 +1,14 @@
+Connector/
+DependencyInjection/
+Exception/
+Resources/config/
+Tests/Connector/
+Util/
+manifests/
+.gitignore
+LICENSE
+README.md
+SynaqZasaBundle.php
+Vagrantfile
+composer.json
+composer.lock

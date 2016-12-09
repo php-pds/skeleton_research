@@ -1,0 +1,5 @@
+img/
+lib/
+.gitignore
+README.MD
+composer.json

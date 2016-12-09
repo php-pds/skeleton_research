@@ -1,0 +1,15 @@
+Command/
+DataCollector/
+DependencyInjection/
+Doctrine/
+Entity/
+Provider/
+Resources/
+Tests/
+Twig/
+.gitignore
+.travis.yml
+MremiUrlShortenerBundle.php
+README.md
+composer.json
+phpunit.xml.dist

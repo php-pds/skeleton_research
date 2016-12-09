@@ -1,0 +1,13 @@
+interfaces/
+jobs/
+traits/
+transports/
+.gitignore
+.travis.yml
+Facade.php
+LICENSE
+README.md
+Service.php
+TransportManager.php
+composer.json
+phpunit.xml.dist

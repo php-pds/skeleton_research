@@ -1,0 +1,11 @@
+_config/
+code/
+templates/
+.gitignore
+README.md
+_config.php
+cache-main-auth.php
+caches.conf.sample.php
+composer.json
+frontend-cache.php
+simplecache-htaccess

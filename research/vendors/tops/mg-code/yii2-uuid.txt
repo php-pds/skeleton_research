@@ -1,0 +1,4 @@
+components/
+migrations/
+README.md
+composer.json

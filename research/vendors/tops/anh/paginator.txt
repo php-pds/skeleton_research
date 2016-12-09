@@ -1,0 +1,9 @@
+resource/
+spec/
+src/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+README.md
+composer.json
+phpspec.yml

@@ -1,0 +1,16 @@
+actions/
+assets/
+models/
+.gitignore
+CHANGELOG.md
+ClipsImperaviRedactorPluginAsset.php
+FontcolorImperaviRedactorPluginAsset.php
+FontfamilyImperaviRedactorPluginAsset.php
+FontsizeImperaviRedactorPluginAsset.php
+FullscreenImperaviRedactorPluginAsset.php
+ImperaviRedactorAsset.php
+LICENSE.md
+README.md
+TextdirectionImperaviRedactorPluginAsset.php
+Widget.php
+composer.json

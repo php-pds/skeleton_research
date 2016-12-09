@@ -1,0 +1,9 @@
+assets/js/
+config/
+src/FrontEndConfiguration/
+view/front-end-configuration/
+.gitignore
+LICENSE
+Module.php
+README.md
+composer.json

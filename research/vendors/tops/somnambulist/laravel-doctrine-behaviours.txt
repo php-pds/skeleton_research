@@ -1,0 +1,9 @@
+config/
+src/
+tests/Commands/
+.gitignore
+CHANGELOG.md
+LICENSE
+README.md
+composer.json
+phpunit.xml

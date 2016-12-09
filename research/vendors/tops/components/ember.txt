@@ -1,0 +1,15 @@
+.gitignore
+Makefile
+README.md
+bower.json
+component.json
+composer.json
+ember-docs.json
+ember-runtime.js
+ember-template-compiler.js
+ember-testing.js
+ember.debug.js
+ember.js
+ember.min.js
+ember.prod.js
+package.json

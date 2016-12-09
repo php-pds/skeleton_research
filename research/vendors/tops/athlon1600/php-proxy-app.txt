@@ -1,0 +1,9 @@
+plugins/
+templates/
+.gitignore
+LICENSE
+README.md
+composer.json
+config.php
+index.php
+setup.txt

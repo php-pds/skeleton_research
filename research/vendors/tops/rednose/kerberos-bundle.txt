@@ -1,0 +1,10 @@
+DependencyInjection/
+Resources/
+Security/
+Tests/
+.gitignore
+.travis.yml
+README.md
+RednoseKerberosBundle.php
+composer.json
+phpunit.xml.dist

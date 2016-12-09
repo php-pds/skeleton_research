@@ -1,0 +1,7 @@
+examples/
+src/Joli/ArDrone/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock

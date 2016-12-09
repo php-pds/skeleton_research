@@ -1,0 +1,14 @@
+.reports/
+config/
+src/
+test/phpunit/
+.coveralls.yml
+.gitignore
+.php_cs
+.travis.yml
+LICENSE
+Module.php
+README.md
+composer.json
+phpunit.xml.dist
+phpunit.xml.travis

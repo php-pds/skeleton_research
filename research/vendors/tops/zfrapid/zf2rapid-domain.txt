@@ -1,0 +1,6 @@
+docs/
+src/ZF2rapidDomain/
+.gitignore
+LICENSE
+README.md
+composer.json

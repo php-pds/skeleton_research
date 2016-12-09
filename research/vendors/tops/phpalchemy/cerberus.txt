@@ -1,0 +1,10 @@
+bin/
+examples/test1/
+locale/es_ES/LC_MESSAGES/
+resources/translations/
+schema/db/
+src/Alchemy/
+.gitignore
+LICENSE
+README.md
+composer.json

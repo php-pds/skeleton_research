@@ -1,0 +1,14 @@
+app/
+bin/
+src/
+tests/AppBundle/Controller/
+var/
+web/
+.gitignore
+.styleci.yml
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

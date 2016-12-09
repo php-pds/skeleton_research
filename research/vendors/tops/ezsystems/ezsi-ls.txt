@@ -1,0 +1,14 @@
+ant/
+autoloads/
+classes/
+cronjobs/
+doc/
+settings/
+share/
+sql/
+tests/
+CHANGELOG
+LICENSE
+README
+composer.json
+extension.xml

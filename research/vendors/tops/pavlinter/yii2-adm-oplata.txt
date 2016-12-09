@@ -1,0 +1,4 @@
+admoplata/
+.gitattributes
+README.md
+composer.json

@@ -1,0 +1,11 @@
+bin/
+build/
+src/Hal/MutaTesting/
+test/
+.gitignore
+.travis.yml
+LICENCE
+README.md
+build.php
+composer.json
+phpunit.xml

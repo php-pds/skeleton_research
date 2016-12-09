@@ -1,0 +1,12 @@
+_config/
+code/
+css/
+images/
+javascript/
+templates/
+tests/
+thirdparty/video-js/
+.travis.yml
+README.md
+_config.php
+composer.json

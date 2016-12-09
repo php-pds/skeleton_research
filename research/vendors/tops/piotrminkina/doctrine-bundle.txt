@@ -1,0 +1,13 @@
+DependencyInjection/
+ORM/Mapping/
+Resources/config/
+Tests/
+Util/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+PMDDoctrineBundle.php
+README.md
+composer.json
+phpunit.xml.dist

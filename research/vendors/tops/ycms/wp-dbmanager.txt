@@ -1,0 +1,15 @@
+Web.config.txt
+composer.json
+database-backup.php
+database-empty.php
+database-manage.php
+database-manager.php
+database-optimize.php
+database-repair.php
+database-run.php
+htaccess.txt
+index.php
+readme.txt
+uninstall.php
+wp-dbmanager.php
+wp-dbmanager.pot

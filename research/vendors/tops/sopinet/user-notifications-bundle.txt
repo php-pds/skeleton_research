@@ -1,0 +1,15 @@
+Admin/
+Controller/
+DependencyInjection/
+Entity/
+EventListener/
+Resources/
+Service/
+Tests/Controller/
+Twig/
+Util/
+.gitignore
+LICENSE
+README.md
+SopinetUserNotificationsBundle.php
+composer.json

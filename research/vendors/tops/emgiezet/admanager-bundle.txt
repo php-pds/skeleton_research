@@ -1,0 +1,12 @@
+Admin/
+DependencyInjection/
+Entity/
+Repository/
+Resources/
+Templating/Helper/
+Twig/
+.gitignore
+LICENSE
+PasinterAdManagerBundle.php
+README.md
+composer.json

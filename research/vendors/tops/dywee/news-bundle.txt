@@ -1,0 +1,10 @@
+Controller/
+DependencyInjection/
+Entity/
+Form/
+Listener/
+Repository/
+Resources/
+Service/
+DyweeNewsBundle.php
+composer.json

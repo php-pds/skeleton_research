@@ -1,0 +1,5 @@
+Classes/Flowpack/EelCraft/Neos/
+Configuration/
+Resources/Private/
+README.md
+composer.json

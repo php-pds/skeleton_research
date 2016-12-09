@@ -1,0 +1,7 @@
+bin/
+examples/
+features/
+lib/NetService/
+.gitignore
+README.md
+composer.json

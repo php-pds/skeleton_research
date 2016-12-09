@@ -1,0 +1,15 @@
+bin/
+ci-stuff/
+docs/
+examples/
+src/Doctrine/
+test/
+.gitignore
+.travis.yml
+CONTRIBUTING.md
+LICENSE
+README.md
+autoload.php
+composer.json
+composer.lock
+phpunit.xml.dist

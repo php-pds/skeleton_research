@@ -1,0 +1,4 @@
+Traits/
+.gitignore
+Template.php
+composer.json

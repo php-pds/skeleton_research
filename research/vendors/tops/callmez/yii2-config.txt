@@ -1,0 +1,5 @@
+adapters/
+migrations/
+BaseConfig.php
+README.md
+composer.json

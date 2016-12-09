@@ -1,0 +1,17 @@
+Admin/
+CodeGenerator/
+Controller/
+DataFixtures/ORM/
+DependencyInjection/
+Entity/
+EventListener/
+Filter/
+Form/
+Resources/
+Tests/Entity/
+Traits/
+.gitignore
+LICENSE
+LibrinfoVarietiesBundle.php
+README.md
+composer.json

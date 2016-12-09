@@ -1,0 +1,10 @@
+configs/
+debra/
+public/
+storage/
+tests/Model/
+.gitignore
+AUTHORS
+LICENSE
+README.md
+composer.json

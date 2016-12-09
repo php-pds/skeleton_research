@@ -1,0 +1,11 @@
+app/
+lib/AvaTax/
+.gitignore
+.travis.yml
+LICENSE.txt
+README.md
+aoe-logo.png
+composer.json
+modman
+phpcs.xml
+run_tests.sh

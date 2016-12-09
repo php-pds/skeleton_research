@@ -1,0 +1,8 @@
+css/
+js/
+lib/
+plugin/
+.gitignore
+LICENSE
+composer.json
+index.html

@@ -1,0 +1,8 @@
+Configuration/TypoScript/
+Resources/Public/
+.gitignore
+README.md
+composer.json
+ext_emconf.php
+ext_icon.png
+ext_tables.php

@@ -1,0 +1,8 @@
+Resources/doc/
+Tests/
+Validator/Constraints/
+BaffordCSSColorValidatorBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

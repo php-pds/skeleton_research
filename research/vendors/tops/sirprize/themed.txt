@@ -1,0 +1,6 @@
+media/
+templates/
+.gitignore
+LICENSE
+composer.json
+readme.md

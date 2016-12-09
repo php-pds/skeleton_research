@@ -1,0 +1,17 @@
+Controller/
+DataFixtures/ORM/
+DependencyInjection/
+Entity/
+Form/
+Normalizer/
+Repository/
+Resources/
+Tests/Controller/
+Util/
+.gitignore
+.travis.yml
+CHANGELOG.md
+README.md
+TGFileBundle.php
+TODO.txt
+composer.json

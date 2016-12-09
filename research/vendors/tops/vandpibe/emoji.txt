@@ -1,0 +1,3 @@
+src/Vandpibe/Emoji/
+.gitignore
+composer.json

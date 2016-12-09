@@ -1,0 +1,15 @@
+config/
+src/
+templates/
+CHANGELOG.txt
+LICENSE.txt
+README.txt
+composer.json
+metatag.info.yml
+metatag.install
+metatag.links.action.yml
+metatag.links.menu.yml
+metatag.module
+metatag.permissions.yml
+metatag.routing.yml
+metatag.services.yml

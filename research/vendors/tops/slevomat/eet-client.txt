@@ -1,0 +1,12 @@
+build/
+cert/
+src/
+tests/
+wsdl/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+build.xml
+composer.json
+readme.md

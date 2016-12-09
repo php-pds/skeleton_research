@@ -1,0 +1,5 @@
+.gitignore
+README.md
+composer.json
+php-cs-fixer.pre-commit.php
+psr-police

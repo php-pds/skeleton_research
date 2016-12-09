@@ -1,0 +1,5 @@
+js/
+.gitignore
+composer.json
+readme.md
+wp-tns.php

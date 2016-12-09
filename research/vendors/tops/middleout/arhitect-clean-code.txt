@@ -1,0 +1,6 @@
+app/config/
+src/Arhitect/CleanCode/Console/Command/Code/
+.gitignore
+LICENSE
+composer.json
+post-install.md

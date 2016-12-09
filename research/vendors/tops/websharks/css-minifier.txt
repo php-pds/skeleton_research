@@ -1,0 +1,14 @@
+.github/
+assets/
+src/
+tests/
+.build.properties
+.build.xml
+.gitattributes
+.gitchange
+.gitignore
+CHANGELOG.md
+LICENSE.txt
+README.md
+composer.json
+composer.lock

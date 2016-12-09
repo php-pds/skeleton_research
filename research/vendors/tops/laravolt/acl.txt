@@ -1,0 +1,6 @@
+config/
+database/migrations/
+src/
+stubs/app/Enum/
+README.md
+composer.json

@@ -1,0 +1,8 @@
+Controllers/Backend/
+Views/backend/adminer/
+.gitignore
+Adminer.php
+Bootstrap.php
+LICENSE
+README.md
+composer.json

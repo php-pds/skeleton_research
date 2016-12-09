@@ -1,0 +1,5 @@
+examples/
+src/Rubberneck/
+.gitignore
+README.md
+composer.json

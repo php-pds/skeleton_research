@@ -1,0 +1,3 @@
+src/Sitemap/Xml/
+README.md
+composer.json

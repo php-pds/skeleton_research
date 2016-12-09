@@ -1,0 +1,13 @@
+bower_components/
+code/
+css/
+js/
+scss/
+templates/
+.editorconfig
+.gitattributes
+.gitignore
+README.md
+_config.php
+bower.json
+composer.json

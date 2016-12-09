@@ -1,0 +1,8 @@
+attributes/limited_text/
+js/
+LICENSE
+README.md
+composer.json
+controller.php
+icon.png
+install.xml

@@ -1,0 +1,10 @@
+module/config/
+spec/Netzmacht/Contao/DomManipulator/
+src/Netzmacht/Contao/DomManipulator/
+.gitignore
+.travis.yml
+README.md
+build.properties
+build.xml
+composer.json
+phpspec.yml

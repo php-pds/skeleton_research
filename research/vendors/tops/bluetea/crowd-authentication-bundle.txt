@@ -1,0 +1,10 @@
+Api/
+Crowd/
+DependencyInjection/
+Exception/
+Resources/config/
+Security/
+BlueteaCrowdAuthenticationBundle.php
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,9 @@
+Src/Database/
+Tests/Database/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+README.md
+autoload.php
+composer.json
+phpunit.xml

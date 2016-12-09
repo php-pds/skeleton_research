@@ -1,0 +1,5 @@
+config/install/
+content/
+composer.json
+markaspot_default_content.info.yml
+markaspot_default_content.install

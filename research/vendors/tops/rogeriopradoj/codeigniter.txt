@@ -1,0 +1,6 @@
+images/
+javascripts/
+stylesheets/
+README.md
+index.html
+params.json

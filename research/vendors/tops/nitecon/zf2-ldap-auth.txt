@@ -1,0 +1,9 @@
+config/
+src/Zf2LdapAuth/
+view/zf2-ldap-auth/
+.gitignore
+LICENSE.txt
+Module.php
+README.md
+autoload_classmap.php
+composer.json

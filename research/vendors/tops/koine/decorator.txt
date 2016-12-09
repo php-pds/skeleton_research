@@ -1,0 +1,8 @@
+lib/Koine/
+tests/
+.coveralls.yml
+.gitignore
+.travis.yml
+MIT-LICENSE
+README.md
+composer.json

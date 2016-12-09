@@ -1,0 +1,8 @@
+DependencyInjection/
+Event/
+Model/
+Resources/
+.gitignore
+NFGBadgesBundle.php
+README.md
+composer.json

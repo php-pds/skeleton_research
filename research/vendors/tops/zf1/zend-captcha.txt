@@ -1,0 +1,4 @@
+library/Zend/Captcha/
+LICENSE.txt
+README.md
+composer.json

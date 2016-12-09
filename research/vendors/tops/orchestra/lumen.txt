@@ -1,0 +1,16 @@
+docs/
+skeleton/
+src/
+storage/logs/
+tests/
+.editorconfig
+.gitattributes
+.gitignore
+.php_cs
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.php
+phpunit.xml

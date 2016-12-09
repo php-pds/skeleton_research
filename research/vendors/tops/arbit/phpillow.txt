@@ -1,0 +1,14 @@
+docs/
+setup @ 9594266
+src/
+tests/
+.gitignore
+.gitmodules
+AUTHORS
+ChangeLog
+LICENSE
+README.rst
+apichange.txt
+build.properties
+build.xml
+composer.json

@@ -1,0 +1,6 @@
+bin/
+src/AntiMattr/TestCase/
+.gitignore
+LICENSE
+README.md
+composer.json

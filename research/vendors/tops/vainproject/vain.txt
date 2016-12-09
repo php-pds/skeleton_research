@@ -1,0 +1,17 @@
+config/
+resources/
+src/Vain/
+tests/
+.codeclimate.yml
+.csslintrc
+.eslintrc
+.gitattributes
+.gitignore
+.npmignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+gulpfile-module.js
+package.json
+phpunit.xml

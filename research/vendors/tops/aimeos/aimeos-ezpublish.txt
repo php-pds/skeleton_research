@@ -1,0 +1,6 @@
+DependencyInjection/
+Resources/config/
+AimeosEzpublishBundle.php
+LICENSE
+README.md
+composer.json

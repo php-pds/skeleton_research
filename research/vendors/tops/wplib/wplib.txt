@@ -1,0 +1,12 @@
+enums/
+includes/
+modules/
+.gitignore
+LICENSE
+README.md
+README.txt
+RECENT_COMMIT
+composer.json
+defines.php
+globals.php
+wplib.php

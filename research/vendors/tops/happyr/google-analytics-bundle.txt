@@ -1,0 +1,14 @@
+DependencyInjection/
+Http/
+Resources/config/
+Service/
+Tests/
+.gitignore
+.scrutinizer.yml
+.styleci.yml
+.travis.yml
+HappyrGoogleAnalyticsBundle.php
+README.md
+Upgrade.md
+composer.json
+phpunit.xml.dist

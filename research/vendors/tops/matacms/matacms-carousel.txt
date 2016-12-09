@@ -1,0 +1,17 @@
+actions/
+assets/
+behaviors/
+clients/
+controllers/
+migrations/
+models/
+tests/
+views/
+web/
+widgets/carousel/
+Bootstrap.php
+Module.php
+README.md
+codeception.yml
+composer.json
+module-config.json

@@ -1,0 +1,10 @@
+Splunk/
+examples/
+tests/
+vm/
+.gitignore
+CHANGELOG.md
+LICENSE
+README.md
+Splunk.php
+composer.json

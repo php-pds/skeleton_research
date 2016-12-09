@@ -1,0 +1,8 @@
+AdminIncludes/
+Config/
+I18n/
+Loop/
+LICENSE.txt
+ProductOfflineWithStock.php
+README.md
+composer.json

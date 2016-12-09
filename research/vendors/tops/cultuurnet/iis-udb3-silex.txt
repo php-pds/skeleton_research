@@ -1,0 +1,17 @@
+app/
+bin/
+bootstrap/
+contrib/
+src/
+tests/
+web/
+.gitignore
+.travis.yml
+bootstrap.php
+build.xml
+composer.json
+composer.lock
+config.dist.yml
+phpcs-ruleset.xml
+phpunit.xml.dist
+readme.md

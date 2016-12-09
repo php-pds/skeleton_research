@@ -1,0 +1,8 @@
+doc/
+example/
+src/Desarrolla2/DB/
+.gitignore
+LICENSE
+README.md
+composer.json
+phpunit.xml

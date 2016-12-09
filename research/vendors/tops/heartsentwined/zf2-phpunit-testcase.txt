@@ -1,0 +1,4 @@
+src/Yalesov/Phpunit/Testcase/
+.gitignore
+README.md
+composer.json

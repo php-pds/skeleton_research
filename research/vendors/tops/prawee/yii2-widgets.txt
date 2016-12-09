@@ -1,0 +1,6 @@
+doc/
+images/
+ButtonAjax.php
+LICENSE
+README.md
+composer.json

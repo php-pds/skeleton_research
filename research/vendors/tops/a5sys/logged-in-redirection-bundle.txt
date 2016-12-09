@@ -1,0 +1,7 @@
+DependencyInjection/
+Listener/
+Resources/config/
+LICENSE
+LoggedInRedirectionBundle.php
+README.md
+composer.json

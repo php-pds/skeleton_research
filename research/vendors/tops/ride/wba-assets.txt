@@ -1,0 +1,7 @@
+config/
+l10n/
+src/ride/
+.DS_Store
+README.md
+composer.json
+ride.json

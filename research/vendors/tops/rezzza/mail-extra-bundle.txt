@@ -1,0 +1,8 @@
+DependencyInjection/
+Mailer/
+Resources/config/services/
+Transformer/
+.gitignore
+README.md
+RezzzaMailExtraBundle.php
+composer.json

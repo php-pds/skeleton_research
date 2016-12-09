@@ -1,0 +1,7 @@
+src/JsonStreamingParser/
+tests/
+.gitignore
+.travis.yml
+README.md
+composer.json
+phpunit.xml

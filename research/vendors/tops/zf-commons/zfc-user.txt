@@ -1,0 +1,11 @@
+config/
+data/
+src/ZfcUser/
+tests/
+view/zfc-user/user/
+.php_cs
+.travis.yml
+Module.php
+README.md
+autoload_classmap.php
+composer.json

@@ -1,0 +1,10 @@
+Cache/Adapter/
+Exception/
+Provider/
+.gitattributes
+.gitignore
+CountryToCurrency.php
+CurrencyConverter.php
+CurrencyConverterInterface.php
+README.md
+composer.json

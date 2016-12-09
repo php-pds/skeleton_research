@@ -1,0 +1,11 @@
+DependencyInjection/
+Resources/config/
+CiActionResolveEvent.php
+CiControllerChecker.php
+CiHelperService.php
+CiRequestListenerService.php
+DefaultCiActionResolver.php
+NercuryCodeIgniterBundle.php
+README.rst
+ci_bootstrap.php
+composer.json

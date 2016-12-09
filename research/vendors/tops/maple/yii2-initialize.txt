@@ -1,0 +1,4 @@
+environments/
+Installer.php
+README.md
+composer.json

@@ -1,0 +1,3 @@
+src/AlambicRestConnector/
+README.md
+composer.json

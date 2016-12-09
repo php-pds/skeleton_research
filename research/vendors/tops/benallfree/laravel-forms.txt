@@ -1,0 +1,8 @@
+publish/config/
+resources/bower_components/
+src/Forms/
+.gitignore
+LICENSE
+bower.json
+composer.json
+readme.md

@@ -1,0 +1,9 @@
+build_scripts/
+src/Conpago/Logging/Monolog/
+tests/Conpago/Logging/Monolog/
+.gitignore
+.hgignore
+build.xml
+composer.json
+humbug.json.dist
+phpunit.xml

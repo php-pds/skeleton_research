@@ -1,0 +1,14 @@
+.github/
+bin/
+examples/
+images/
+inc/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+finally.jpg
+phpunit.xml.dist
+wp-forms-api.php

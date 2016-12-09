@@ -1,0 +1,4 @@
+src/ride/setup/
+.gitignore
+README.md
+composer.json

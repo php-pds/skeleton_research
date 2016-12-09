@@ -1,0 +1,6 @@
+backend/
+frontend/
+nbproject/
+.gitignore
+README.md
+composer.json

@@ -1,0 +1,14 @@
+Controller/
+DependencyInjection/
+Resources/
+Tests/
+.gitignore
+.travis.yml
+AnnotationDriver.php
+MetadataAnnotation.php
+MetadataProcessor.php
+PortalFlareMetadataBundle.php
+PropertyMetadata.php
+README.md
+composer.json
+phpunit.xml.dist

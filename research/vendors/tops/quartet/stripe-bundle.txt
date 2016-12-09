@@ -1,0 +1,10 @@
+src/
+tests/
+.gitignore
+.nvmrc
+.travis.yml
+README.md
+composer.json
+gulpfile.js
+package.json
+phpunit.xml.dist

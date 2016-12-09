@@ -1,0 +1,5 @@
+adapter/
+src/
+.gitignore
+LICENSE.md
+composer.json

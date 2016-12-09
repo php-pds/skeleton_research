@@ -1,0 +1,15 @@
+src/Gwa/
+tests/
+.editorconfig
+.gitattributes
+.gitignore
+.php_cs
+.php_cs.cache
+.scrutinizer.yml
+.travis.yml
+CHANGELOG.md
+CONTRIBUTING.md
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

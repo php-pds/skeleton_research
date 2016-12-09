@@ -1,0 +1,12 @@
+docs/
+lib/PicoFeed/
+tests/
+.gitattributes
+.gitignore
+.travis.yml
+LICENSE
+README.markdown
+composer.json
+composer.lock
+phpunit.xml
+picofeed

@@ -1,0 +1,3 @@
+src/Ditto/Bootstrap/
+README.md
+composer.json

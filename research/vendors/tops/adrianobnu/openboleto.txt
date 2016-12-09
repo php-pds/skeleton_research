@@ -1,0 +1,13 @@
+docs/bancos/
+resources/
+samples/
+src/OpenBoleto/
+tests/OpenBoleto/
+.gitignore
+.travis.yml
+CHANGELOG.md
+README.md
+autoloader.php
+bootstrap_phpunit.php
+composer.json
+phpunit.xml

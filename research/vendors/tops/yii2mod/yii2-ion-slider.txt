@@ -1,0 +1,10 @@
+tests/
+.gitattributes
+.gitignore
+.travis.yml
+IonSlider.php
+IonSliderAsset.php
+LICENSE.md
+README.md
+composer.json
+phpunit.xml.dist

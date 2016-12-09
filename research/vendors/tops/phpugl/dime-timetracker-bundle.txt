@@ -1,0 +1,15 @@
+Command/
+Composer/
+Controller/
+DataFixtures/ORM/
+DependencyInjection/
+Entity/
+Filter/
+Form/
+Parser/
+Resources/
+Tests/
+.gitignore
+DimeTimetrackerBundle.php
+README.mkd
+composer.json

@@ -1,0 +1,5 @@
+resources/stubs/
+src/
+LICENSE
+composer.json
+readme.md

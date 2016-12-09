@@ -1,0 +1,13 @@
+.github/
+config/
+src/
+tests/
+.gitignore
+.scrutinizer.yml
+.styleci.yml
+.travis.yml
+LICENSE
+README.md
+codeception.yml
+composer.json
+composer.lock

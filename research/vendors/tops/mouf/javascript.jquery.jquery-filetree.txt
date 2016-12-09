@@ -1,0 +1,8 @@
+connectors/
+images/
+.gitignore
+composer.json
+install.php
+jqueryFileTree.css
+jqueryFileTree.js
+logo.png

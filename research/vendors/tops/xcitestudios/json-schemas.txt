@@ -1,0 +1,6 @@
+com/xcitestudios/schemas/
+.gitattributes
+.gitignore
+LICENSE
+README.md
+composer.json

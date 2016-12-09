@@ -1,0 +1,14 @@
+compressor/
+css/
+doc/
+i18n/
+img/
+js/
+min/
+php/
+sounds/
+composer.json
+elfinder.src.html
+include.php
+index.php
+readme.md

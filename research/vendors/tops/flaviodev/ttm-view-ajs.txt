@@ -1,0 +1,12 @@
+app/
+public/
+vendor/
+.buildpath
+.project
+.tern-project
+LICENSE
+README.md
+app.config.js
+composer.json
+composer.lock
+cp.sh

@@ -1,0 +1,15 @@
+benchmark/
+bridge/
+ci/travis/
+docs/
+schema/
+src/
+tests/
+.gitignore
+.styleci.yml
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpbench.json
+phpunit.xml.dist

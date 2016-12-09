@@ -1,0 +1,4 @@
+src/AlambicMongodbConnector/
+.gitignore
+README.md
+composer.json

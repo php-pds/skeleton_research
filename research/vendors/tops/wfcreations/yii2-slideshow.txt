@@ -1,0 +1,7 @@
+actions/
+bundles/
+models/
+widgets/
+LICENSE
+Slideshow.php
+composer.json

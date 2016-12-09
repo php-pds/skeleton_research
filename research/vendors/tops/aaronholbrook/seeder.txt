@@ -1,0 +1,5 @@
+assets/
+README.md
+composer.json
+readme.txt
+seeder.php

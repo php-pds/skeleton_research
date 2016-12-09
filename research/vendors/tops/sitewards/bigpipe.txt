@@ -1,0 +1,5 @@
+app/
+skin/frontend/base/default/js/sitewards/
+README.md
+composer.json
+modman

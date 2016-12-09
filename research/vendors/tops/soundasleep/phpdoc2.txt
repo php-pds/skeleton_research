@@ -1,0 +1,11 @@
+src/
+templates/
+test/
+.editorconfig
+.gitignore
+README.md
+composer.json
+composer.lock
+example-config.json
+phpdoc2.php
+phpunit.xml

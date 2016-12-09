@@ -1,0 +1,12 @@
+css/
+flags/
+images/
+inc/
+js/
+languages/
+changelog.md
+composer.json
+license.txt
+multilingual-press.php
+readme.md
+uninstall.php

@@ -1,0 +1,11 @@
+lib/PHPOptimizer/
+test/
+.gitignore
+.php_cs
+LICENSE
+README.md
+build.sh
+composer.json
+composer.lock
+demo.php
+phpunit.xml.dist

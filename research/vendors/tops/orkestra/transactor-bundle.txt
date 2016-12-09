@@ -1,0 +1,13 @@
+DependencyInjection/
+Form/
+Resources/config/
+Subscriber/
+Tests/
+.gitignore
+.travis.yml
+CONTRIBUTING.md
+LICENSE
+OrkestraTransactorBundle.php
+README.md
+composer.json
+phpunit.xml.dist

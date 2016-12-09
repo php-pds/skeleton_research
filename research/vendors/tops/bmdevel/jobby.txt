@@ -1,0 +1,11 @@
+resources/
+src/
+tests/
+.gitignore
+.travis.yml
+CHANGELOG-2.1.md
+LICENSE
+README.md
+UPGRADE-2.1.md
+composer.json
+phpunit.xml

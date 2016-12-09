@@ -1,0 +1,10 @@
+bin/
+src/
+test-app/
+tests/
+.editorconfig
+.gitignore
+README.md
+composer.json
+composer.phar
+phpunit.xml.dist

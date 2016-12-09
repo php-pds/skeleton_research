@@ -1,0 +1,5 @@
+example/
+spec/Processman/
+src/Processman/
+.gitignore
+composer.json

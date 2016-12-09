@@ -1,0 +1,6 @@
+.gitignore
+FlotAsset.php
+FlotWidget.php
+LICENSE.md
+README.md
+composer.json

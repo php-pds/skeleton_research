@@ -1,0 +1,6 @@
+LICENSE
+README.md
+composer.json
+hu_HU.csv
+language.xml
+registration.php

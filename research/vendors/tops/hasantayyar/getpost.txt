@@ -1,0 +1,8 @@
+src/Hasantayyar/GetPost/
+.gitattributes
+.gitignore
+LICENSE
+LICENSE_tr
+README.md
+composer.json
+example.php

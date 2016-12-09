@@ -1,0 +1,15 @@
+.gitignore
+Author.php
+Dist.php
+Downloads.php
+LICENSE.txt
+Maintainer.php
+Object.php
+Package.php
+Packagist.php
+README.md
+Response.php
+Result.php
+Source.php
+Version.php
+composer.json

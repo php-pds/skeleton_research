@@ -1,0 +1,15 @@
+Resources/
+bin/
+lib/
+modules/
+src/
+.gitignore
+README.md
+composer.json
+phpunit.xml.dist
+sf_dic.container.php
+sf_dic.info
+sf_dic.install
+sf_dic.module
+sf_dic.path.inc
+sf_dic.services.yml

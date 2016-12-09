@@ -1,0 +1,7 @@
+.gitignore
+LICENSE.txt
+README.md
+composer.json
+de_CH.csv
+language.xml
+registration.php

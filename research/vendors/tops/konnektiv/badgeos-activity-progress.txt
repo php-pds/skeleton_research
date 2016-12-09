@@ -1,0 +1,8 @@
+css/
+includes/
+js/
+badgeos-activity-progress.php
+composer.json
+license.txt
+readme.md
+readme.txt

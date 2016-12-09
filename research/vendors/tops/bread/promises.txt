@@ -1,0 +1,4 @@
+src/Bread/Promises/
+.gitignore
+README.md
+composer.json

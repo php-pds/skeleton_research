@@ -1,0 +1,9 @@
+config/
+extensions/
+template/
+tests/
+.gitignore
+.gitmodules
+README.markdown
+composer.json
+composer.lock

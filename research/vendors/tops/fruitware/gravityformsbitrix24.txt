@@ -1,0 +1,7 @@
+images/
+languages/
+.gitignore
+README.md
+bitrix24.php
+class-gf-bitrix24.php
+composer.json

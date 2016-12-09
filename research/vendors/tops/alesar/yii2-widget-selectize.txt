@@ -1,0 +1,6 @@
+messages/
+LICENSE
+README.md
+Selectize.php
+SelectizeAsset.php
+composer.json

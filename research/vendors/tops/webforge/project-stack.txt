@@ -1,0 +1,15 @@
+docs/
+etc/symfony/
+lib/Webforge/ProjectStack/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+bootstrap.php
+composer.json
+migrate-1.1.md
+migrate-1.2.md
+phpunit.xml.dist
+rmt.json
+webforge-project-stack.sublime-project

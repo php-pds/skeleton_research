@@ -1,0 +1,11 @@
+cache/
+config/
+content/
+public/
+.gitignore
+CHANGELOG.md
+LICENSE
+README.md
+auto-install.php
+baun
+composer.json

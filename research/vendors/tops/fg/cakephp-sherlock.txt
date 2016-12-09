@@ -1,0 +1,5 @@
+Console/Command/
+Model/Behavior/
+.gitignore
+composer.json
+composer.lock

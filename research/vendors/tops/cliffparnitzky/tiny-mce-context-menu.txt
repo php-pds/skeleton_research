@@ -1,0 +1,7 @@
+assets/tinymce4/plugins/contextmenu/
+system/modules/TinyMceContextMenu/
+.gitattributes
+.gitignore
+README.md
+composer.json
+screenshot.jpg

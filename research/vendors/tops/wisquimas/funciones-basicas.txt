@@ -1,0 +1,7 @@
+functions/
+instalacion/
+themes/
+util/
+.gitignore
+composer.json
+gafamx.php

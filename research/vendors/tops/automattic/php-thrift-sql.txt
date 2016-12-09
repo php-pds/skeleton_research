@@ -1,0 +1,7 @@
+src/
+LICENSE
+README.md
+ThriftSQL.phar
+build.php
+composer.json
+example.php

@@ -1,0 +1,14 @@
+_config/
+code/
+css/
+javascript/
+resources/
+templates/
+tests/
+.gitignore
+.php_cs
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

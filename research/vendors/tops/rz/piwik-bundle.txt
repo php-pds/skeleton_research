@@ -1,0 +1,7 @@
+Block/
+DependencyInjection/
+Resources/
+.gitignore
+README.md
+RzPiwikBundle.php
+composer.json

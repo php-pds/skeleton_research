@@ -1,0 +1,14 @@
+build/
+config/
+docs/
+src/Zoop/ShardModule/
+tests/
+view/zoop/
+.gitignore
+.travis.yml
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist
+ruleset.xml
+shippable.yml

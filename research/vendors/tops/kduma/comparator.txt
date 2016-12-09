@@ -1,0 +1,7 @@
+art/
+bin/
+classes/
+.gitignore
+composer.json
+composer.lock
+readme.md

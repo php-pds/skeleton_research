@@ -1,0 +1,10 @@
+bin/
+example/
+src/
+tests/
+.gitignore
+.gitlab-ci.yml
+composer.json
+phpdoc.xml
+phpunit.xml
+readme.md

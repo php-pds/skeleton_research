@@ -1,0 +1,7 @@
+DependencyInjection/
+Resources/config/
+.gitignore
+ElnurTemplateGuesserBundle.php
+LICENSE
+TemplateGuesser.php
+composer.json

@@ -1,0 +1,6 @@
+assets/
+Asset.php
+Qiniu.php
+README.md
+TokenAction.php
+composer.json

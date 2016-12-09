@@ -1,0 +1,6 @@
+style/
+.gitignore
+README.md
+bower.json
+composer.json
+index.html

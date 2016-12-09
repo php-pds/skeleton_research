@@ -1,0 +1,5 @@
+Classes/Lelesys/Captcha/
+Configuration/
+Documentation/
+Resources/Private/
+composer.json

@@ -1,0 +1,12 @@
+Annotation/
+Controller/
+DependencyInjection/
+Resources/
+Tests/Controller/
+Twig/Extension/
+Widget/
+.gitignore
+ElendevWidgetBundle.php
+README.md
+build.xml
+composer.json

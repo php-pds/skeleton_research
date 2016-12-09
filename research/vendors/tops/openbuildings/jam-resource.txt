@@ -1,0 +1,9 @@
+classes/
+config/
+guide/jam-resource/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock

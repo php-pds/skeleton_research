@@ -1,0 +1,6 @@
+font/
+CHANGELOG
+LICENSE
+README.md
+catcha.php
+composer.json

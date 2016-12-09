@@ -1,0 +1,14 @@
+docs/
+src/
+tests/
+.codeclimate.yml
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE.md
+README.md
+box.json
+classyfile
+composer.json
+mkdocs.yml
+phpunit.xml.dist

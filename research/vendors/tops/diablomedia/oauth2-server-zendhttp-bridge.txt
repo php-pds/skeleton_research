@@ -1,0 +1,10 @@
+src/OAuth2/ZendHttpPhpEnvironmentBridge/
+test/
+.gitignore
+.php_cs
+.styleci.yml
+.travis.yml
+LICENSE.md
+README.md
+composer.json
+phpunit.xml.dist

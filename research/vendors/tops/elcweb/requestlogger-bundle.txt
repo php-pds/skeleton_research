@@ -1,0 +1,8 @@
+DependencyInjection/
+DoctrineMigrations/
+Entity/
+Listener/
+Resources/
+ElcwebRequestLoggerBundle.php
+README.md
+composer.json

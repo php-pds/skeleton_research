@@ -1,0 +1,3 @@
+travis/
+.DS_Store
+composer.json

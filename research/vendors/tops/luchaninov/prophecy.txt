@@ -1,0 +1,10 @@
+spec/Prophecy/
+src/Prophecy/
+.gitignore
+.travis.yml
+CHANGES.md
+CONTRIBUTING.md
+LICENSE
+README.md
+composer.json
+composer.lock

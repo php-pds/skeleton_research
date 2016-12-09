@@ -1,0 +1,11 @@
+config/
+data/forms/
+src/DxUser/
+test/
+view/dx-user/
+.gitignore
+.travis.yml
+Module.php
+README.md
+autoload_classmap.php
+composer.json

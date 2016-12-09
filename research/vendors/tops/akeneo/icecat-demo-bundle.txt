@@ -1,0 +1,12 @@
+AttributeType/
+Command/
+DataFixtures/ORM/
+Datagrid/
+DependencyInjection/
+Entity/
+Filter/ORM/
+Form/Type/
+Resources/
+PimIcecatDemoBundle.php
+README.md
+composer.json

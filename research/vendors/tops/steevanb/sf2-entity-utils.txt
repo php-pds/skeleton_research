@@ -1,0 +1,7 @@
+Documentation/
+Entity/
+Repository/
+Traits/
+README.md
+composer.json
+composer.lock

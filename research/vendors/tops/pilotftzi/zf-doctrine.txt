@@ -1,0 +1,7 @@
+examples/
+library/ZFDoctrine/
+tests/
+.gitignore
+CREDITS
+README.markdown
+composer.json

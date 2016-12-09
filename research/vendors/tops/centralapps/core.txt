@@ -1,0 +1,8 @@
+CentralApps/Core/
+build/
+.travis.yml
+README.md
+bootstrap.php
+build.xml
+composer.json
+phpunit.xml

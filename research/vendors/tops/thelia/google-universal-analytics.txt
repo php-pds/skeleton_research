@@ -1,0 +1,13 @@
+AdminIncludes/
+Config/
+Controller/
+EventListeners/
+Form/
+Hook/
+I18n/
+Measurement/
+Model/
+templates/frontOffice/default/
+GoogleUniversalAnalytics.php
+Readme.md
+composer.json

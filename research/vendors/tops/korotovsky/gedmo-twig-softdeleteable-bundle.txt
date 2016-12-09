@@ -1,0 +1,6 @@
+src/Krtv/Bundle/TwigSoftdeleteableBundle/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json

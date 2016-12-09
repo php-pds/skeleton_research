@@ -1,0 +1,7 @@
+generators/
+.gitignore
+CHANGELOG.md
+LICENSE.md
+Module.php
+README.md
+composer.json

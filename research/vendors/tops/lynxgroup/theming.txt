@@ -1,0 +1,5 @@
+src/LynxGroup/Component/Theming/
+.gitignore
+LICENSE
+README.md
+composer.json

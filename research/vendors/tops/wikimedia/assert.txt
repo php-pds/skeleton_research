@@ -1,0 +1,11 @@
+src/
+tests/phpunit/
+.gitignore
+.gitreview
+.travis.yml
+COPYING
+README.md
+RELEASE-NOTES.md
+composer.json
+phpcs.xml
+phpunit.xml.dist

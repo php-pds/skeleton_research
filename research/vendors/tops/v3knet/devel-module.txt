@@ -1,0 +1,8 @@
+tests/
+.gitattributes
+.gitignore
+.travis.yml
+DevelModule.php
+README.md
+composer.json
+composer.lock

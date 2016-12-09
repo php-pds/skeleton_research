@@ -1,0 +1,8 @@
+example/
+src/
+.gitignore
+.scrutinizer.yml
+LICENSE
+README.md
+composer.json
+sonar-project.properties

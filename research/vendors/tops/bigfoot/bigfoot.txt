@@ -1,0 +1,14 @@
+Docker/
+app/
+src/
+tests/features/
+web/
+.build.yml
+.gitignore
+LICENSE
+README.md
+behat.yml
+circle.yml
+composer.json
+composer.lock
+phpci.yml

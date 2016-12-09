@@ -1,0 +1,8 @@
+Classes/Mw/T3Compat/
+Migrations/Mysql/
+Tests/Unit/Domain/Model/
+.travis.yml
+LICENSE
+README.md
+build.xml
+composer.json

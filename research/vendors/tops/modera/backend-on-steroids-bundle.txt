@@ -1,0 +1,17 @@
+AssetsDiscovery/
+AssetsHandling/
+Command/
+Contributions/
+DependencyInjection/
+Generators/
+Resources/
+Tests/
+.gitignore
+.styleci.yml
+.travis.yml
+CHANGELOG.md
+ModeraBackendOnSteroidsBundle.php
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

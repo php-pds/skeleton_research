@@ -1,0 +1,8 @@
+LeanMapperQuery/
+tests/
+.gitattributes
+.gitignore
+LICENSE.md
+Makefile
+README.md
+composer.json

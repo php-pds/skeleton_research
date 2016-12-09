@@ -1,0 +1,10 @@
+tests/
+.gitignore
+.travis.yml
+Gruntfile.js
+README.md
+composer.json
+composer.lock
+index.php
+package.json
+phpunit.xml

@@ -1,0 +1,12 @@
+bin/
+spec/
+src/
+.editorconfig
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+peridot.hh
+screen-shot.png
+typecheck

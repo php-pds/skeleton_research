@@ -1,0 +1,14 @@
+assets/
+classes/
+components/
+controllers/
+facades/
+lang/
+models/
+updates/
+views/mail/
+LICENCE.md
+Plugin.php
+README.md
+UPGRADE.md
+composer.json

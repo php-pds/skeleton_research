@@ -1,0 +1,8 @@
+controllers/
+messages/
+migrations/
+models/
+views/
+D2fixrModule.php
+composer.json
+translation.php

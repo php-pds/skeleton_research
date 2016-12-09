@@ -1,0 +1,5 @@
+DependencyInjection/
+Resources/
+ClarolineVideoJsBundle.php
+README.md
+composer.json

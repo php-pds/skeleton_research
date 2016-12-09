@@ -1,0 +1,7 @@
+src/ondrs/ApiBase/
+tests/
+.gitignore
+.travis.yml
+composer.json
+license.md
+readme.md

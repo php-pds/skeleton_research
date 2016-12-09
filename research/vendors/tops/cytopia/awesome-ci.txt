@@ -1,0 +1,13 @@
+bin/
+dependencies/
+etc/
+test/
+.editorconfig
+.gitignore
+.travis.yml
+EXAMPLES.md
+Makefile
+README.md
+REGEX_CONTRIBUTIONS.md
+composer.json
+configure

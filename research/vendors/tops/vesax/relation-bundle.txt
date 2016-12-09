@@ -1,0 +1,13 @@
+DependencyInjection/
+Entity/
+Exception/
+Link/
+Loader/
+Relation/
+Resources/config/
+Subject/
+.gitignore
+Factory.php
+README.md
+VesaxRelationBundle.php
+composer.json

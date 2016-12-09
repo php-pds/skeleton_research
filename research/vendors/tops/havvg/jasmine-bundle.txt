@@ -1,0 +1,12 @@
+Controller/
+DependencyInjection/
+Resources/
+Routing/
+Tests/
+.gitignore
+.travis.yml
+HavvgJasmineBundle.php
+JasmineSpecAwareBundleInterface.php
+README.md
+composer.json
+phpunit.xml.dist

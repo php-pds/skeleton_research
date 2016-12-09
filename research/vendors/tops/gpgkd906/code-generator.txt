@@ -1,0 +1,5 @@
+bin/
+src/
+README.md
+composer.json
+composer.lock

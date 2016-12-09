@@ -1,0 +1,12 @@
+Config/Definition/Builder/
+DependencyInjection/
+Event/
+Provider/
+Resources/config/
+Tests/
+.gitignore
+.travis.yml
+JbConfigKnpMenuBundle.php
+LICENSE
+README.md
+composer.json

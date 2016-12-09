@@ -1,0 +1,15 @@
+bin/
+src/
+tests/
+.gitignore
+.scrutinizer.yml
+.test.phar.php
+.test.php
+.travis.yml
+CHANGELOG.md
+LICENSE
+Makefile
+README.md
+README_ru.md
+codeception.yml
+composer.json

@@ -1,0 +1,12 @@
+app/
+bin/
+src/
+tests/AppBundle/Controller/
+var/
+web/
+.gitignore
+README.md
+composer.json
+composer.lock
+dynamicReturnTypeMeta.json
+phpunit.xml.dist

@@ -1,0 +1,17 @@
+adapters/
+README.md
+ajax.js
+build.js
+debug.js
+event.js
+format.js
+i18n.js
+include.php
+node.js
+persist.js
+plugin.js
+state.js
+string.js
+template.js
+toolbar.js
+types.js

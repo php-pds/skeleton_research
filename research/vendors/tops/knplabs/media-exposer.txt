@@ -1,0 +1,7 @@
+src/MediaExposer/
+tests/
+vendor/
+.gitmodules
+README.md
+composer.json
+phpunit.xml.dist

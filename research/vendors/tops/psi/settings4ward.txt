@@ -1,0 +1,9 @@
+config/
+dca/
+html/
+languages/de/
+templates/
+ModuleSettings.php
+Registry.php
+SettingsHelper.php
+composer.json

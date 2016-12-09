@@ -1,0 +1,7 @@
+DependencyInjection/
+EventListener/
+Resources/config/
+.gitignore
+EasyloRESTCorsBundle.php
+README.md
+composer.json

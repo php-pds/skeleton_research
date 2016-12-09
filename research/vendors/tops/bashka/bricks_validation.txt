@@ -1,0 +1,12 @@
+Filters/
+Validators/
+docs/
+tests/
+Filter.php
+Input.php
+LICENSE
+README.md
+ValidateException.php
+Validator.php
+composer.json
+phpunit.xml

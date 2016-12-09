@@ -1,0 +1,8 @@
+DependencyInjection/
+Helper/
+Resources/config/
+Twig/
+GloryAssetsBundle.php
+LICENSE
+README.md
+composer.json

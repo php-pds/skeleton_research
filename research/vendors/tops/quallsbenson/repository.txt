@@ -1,0 +1,15 @@
+CLI/Command/
+Database/
+FileSystem/
+Tests/
+vendor/
+.DS_Store
+LICENSE
+README.md
+Repository.php
+RepositoryInitializer.php
+RepositoryInitializerInterface.php
+RepositoryInterface.php
+RepositoryManager.php
+composer.json
+console

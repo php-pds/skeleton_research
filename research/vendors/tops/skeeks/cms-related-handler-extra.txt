@@ -1,0 +1,8 @@
+config/
+messages/ru/
+widgets/
+CHANGELOG.md
+LICENSE
+README.md
+RelatedHandlerExtra.php
+composer.json

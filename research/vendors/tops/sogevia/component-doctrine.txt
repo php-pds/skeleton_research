@@ -1,0 +1,6 @@
+src/Sogevia/Component/Doctrine/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock

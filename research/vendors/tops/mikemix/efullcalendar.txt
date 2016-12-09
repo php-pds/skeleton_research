@@ -1,0 +1,6 @@
+assets/
+locale/
+EFullCalendar.php
+README.md
+X11-LICENSE.txt
+composer.json

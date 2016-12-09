@@ -1,0 +1,4 @@
+system/modules/isotope_simple_stockmanagement/
+.gitignore
+README.md
+composer.json

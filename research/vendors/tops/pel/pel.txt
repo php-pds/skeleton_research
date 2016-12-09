@@ -1,0 +1,10 @@
+lib/s3-php5-curl/
+src/
+tests/
+.gitignore
+LICENSE
+Makefile
+README.md
+composer.json
+create-phar.php
+phpunit.xml

@@ -1,0 +1,12 @@
+Backend/
+Bin/
+Documentation/
+.Mime
+.State
+.gitignore
+CHANGELOG.md
+Exception.php
+README.md
+Run.php
+Shared.php
+composer.json

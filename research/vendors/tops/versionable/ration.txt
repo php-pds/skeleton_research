@@ -1,0 +1,9 @@
+build/
+src/Versionable/Ration/
+tests/
+.travis.yml
+README.md
+build.xml
+composer.json
+phpdox.xml
+phpunit.xml.dist

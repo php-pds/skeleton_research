@@ -1,0 +1,17 @@
+app/
+dist/
+test/
+.babelrc
+.bowerrc
+.editorconfig
+.gitattributes
+.gitignore
+.jshintrc
+.yo-rc.json
+LICENSE
+README.md
+bower.json
+composer.json
+data.json
+gulpfile.babel.js
+package.json

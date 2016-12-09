@@ -1,0 +1,9 @@
+commands/
+controllers/
+views/
+Events.php
+Module.php
+README.md
+composer.json
+config.php
+module.json

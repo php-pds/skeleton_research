@@ -1,0 +1,9 @@
+DataCollector/
+DependencyInjection/
+Resources/
+Tests/
+.travis.yml
+ChrisJohnson00ApiProfilerBundle.php
+README.md
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,9 @@
+src/Davispeixoto/ForceDotComToolkitForPhp/
+tests/
+wsdl/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml

@@ -1,0 +1,12 @@
+spec/
+src/SelvinOrtiz/Zit/
+.gitignore
+.travis.yml
+CHANGES.md
+LICENSE.txt
+README.md
+Zit.png
+composer.json
+composer.lock
+phpunit.xml
+spec.sh

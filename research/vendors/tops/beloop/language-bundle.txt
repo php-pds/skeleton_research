@@ -1,0 +1,10 @@
+src/Beloop/
+.editorconfig
+.gitignore
+.php_cs
+.travis.yml
+LICENSE
+README.md
+composer.json
+gitsplit.sh
+phpunit.xml.dist

@@ -1,0 +1,15 @@
+acp/
+adm/style/
+config/
+controller/
+event/
+language/de/
+migrations/
+styles/prosilver/
+travis/
+.gitattributes
+.travis.yml
+composer.json
+ext.php
+license.txt
+version-check.json

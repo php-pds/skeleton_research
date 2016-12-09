@@ -1,0 +1,9 @@
+Command/
+Generator/
+Manipulator/
+Resources/skeleton/
+.gitignore
+BaconGeneratorBundle.php
+LICENSE
+README.md
+composer.json

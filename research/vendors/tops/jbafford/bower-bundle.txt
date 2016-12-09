@@ -1,0 +1,7 @@
+Command/
+Composer/
+DependencyInjection/
+Resources/
+BaffordBowerBundle.php
+README.md
+composer.json

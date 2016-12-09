@@ -1,0 +1,5 @@
+.gitignore
+FontAwesomeAsset.php
+LICENSE
+README.md
+composer.json

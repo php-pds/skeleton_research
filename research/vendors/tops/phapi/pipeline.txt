@@ -1,0 +1,13 @@
+src/Phapi/Middleware/
+tests/Phapi/
+.codeclimate.yml
+.gitattributes
+.gitignore
+.travis.yml
+changelog.md
+composer.json
+composer.lock
+contributing.md
+license.md
+phpunit.xml
+readme.md

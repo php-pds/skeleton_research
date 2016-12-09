@@ -1,0 +1,17 @@
+doc/
+examples/
+smileys/
+src/
+tests/
+tools/
+.editorconfig
+.gitignore
+.travis.yml
+CHANGELOG
+LICENSE
+README.md
+composer.json
+powered_by_nbbc.png
+powered_by_nbbc_small.png
+readme.html
+test_nbbc.php

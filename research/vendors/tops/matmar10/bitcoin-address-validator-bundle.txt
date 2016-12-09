@@ -1,0 +1,6 @@
+Matmar10/Bundle/BitcoinAddressValidatorBundle/
+Tests/
+.gitignore
+README.md
+composer.json
+phpunit.xml.dist

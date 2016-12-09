@@ -1,0 +1,10 @@
+bin/
+inc/
+lib/Spectre/
+spec/
+.editorconfig
+.gitignore
+.travis.yml
+README.md
+composer.json
+composer.lock

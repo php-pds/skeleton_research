@@ -1,0 +1,9 @@
+DependencyInjection/
+Resources/
+Twig/Extension/
+.gitignore
+.travis.yml
+README.md
+SilvestraLocaleBundle.php
+composer.json
+phpunit.xml.dist

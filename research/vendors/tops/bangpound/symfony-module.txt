@@ -1,0 +1,6 @@
+composer.json
+session.inc
+symfony.info
+symfony.module
+symfony_test.info
+symfony_test.module

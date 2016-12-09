@@ -1,0 +1,14 @@
+app/
+files/
+logs/
+public/
+tmp/
+.bowerrc
+.gitattributes
+.gitignore
+.platform
+LICENSE.md
+README.md
+bower.json
+composer.json
+update

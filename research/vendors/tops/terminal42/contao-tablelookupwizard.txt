@@ -1,0 +1,9 @@
+assets/
+config/
+languages/
+templates/
+.gitignore
+CHANGELOG.md
+README.md
+TableLookupWizard.php
+composer.json

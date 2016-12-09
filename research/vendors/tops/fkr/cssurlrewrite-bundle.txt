@@ -1,0 +1,6 @@
+Assetic/Filter/
+DependencyInjection/
+Resources/
+FkrCssURLRewriteBundle.php
+README.md
+composer.json

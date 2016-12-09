@@ -1,0 +1,15 @@
+bin/
+src/Altax/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+altax.phar
+compile.php
+composer.json
+composer.lock
+installer.sh
+phpunit-ci.xml.dist
+phpunit.xml.dist
+version

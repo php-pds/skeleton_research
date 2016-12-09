@@ -1,0 +1,13 @@
+_config/
+code/
+lang/
+tests/
+.codecov.yml
+.gitattributes
+.scrutinizer.yml
+.travis.yml
+CONTRIBUTING.md
+LICENSE
+README.md
+_config.php
+composer.json

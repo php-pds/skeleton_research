@@ -1,0 +1,16 @@
+src/Twitter/
+static/css/admin/post/
+tests/phpunit/
+.travis.yml
+CONTRIBUTING.md
+LICENSE
+README.md
+autoload.php
+compatibility-notice.php
+composer.json
+index.php
+phpcs.xml
+phpunit.xml
+readme.txt
+twitter.php
+uninstall.php

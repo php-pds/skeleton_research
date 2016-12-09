@@ -1,0 +1,11 @@
+src/
+tests/spec/
+.gitattributes
+.gitignore
+.travis.yml
+README.md
+composer.json
+license
+phpspec.yml
+phpunit.xml
+provides.json

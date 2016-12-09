@@ -1,0 +1,10 @@
+Configuration/
+DependencyInjection/
+Form/Type/
+Model/
+Resources/
+Templating/
+LICENCE.txt
+README.md
+SidusDataGridBundle.php
+composer.json

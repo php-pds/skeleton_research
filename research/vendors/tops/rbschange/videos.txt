@@ -1,0 +1,14 @@
+actions/
+config/
+forms/editor/
+i18n/
+lib/
+persistentdocument/
+setup/
+style/
+templates/
+views/
+webapp/media/frontoffice/
+LICENSE.txt
+README
+change.xml

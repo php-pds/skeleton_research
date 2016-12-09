@@ -1,0 +1,9 @@
+docs/
+lib/Nekland/YoutubeApi/
+test/
+.gitignore
+.travis.yml
+LICENCE
+Readme.md
+composer.json
+phpunit.xml

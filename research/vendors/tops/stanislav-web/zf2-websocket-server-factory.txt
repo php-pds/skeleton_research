@@ -1,0 +1,8 @@
+config/
+src/WebSockets/
+.gitignore
+LICENSE
+Module.php
+README.md
+autoload_classmap.php
+composer.json

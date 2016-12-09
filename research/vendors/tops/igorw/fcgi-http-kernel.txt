@@ -1,0 +1,9 @@
+src/Igorw/FcgiHttpKernel/
+tests/functional/
+.gitignore
+CHANGELOG.md
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

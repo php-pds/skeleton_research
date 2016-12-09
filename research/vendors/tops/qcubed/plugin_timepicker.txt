@@ -1,0 +1,8 @@
+css/
+examples/
+includes/
+install/
+js/
+README.md
+composer.json
+control_registry.inc.php

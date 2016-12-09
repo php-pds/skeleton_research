@@ -1,0 +1,7 @@
+docs/assets/
+resources/
+src/
+CHANGELOG.md
+LICENSE.md
+README.md
+composer.json

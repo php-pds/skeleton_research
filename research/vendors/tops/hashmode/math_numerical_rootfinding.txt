@@ -1,0 +1,8 @@
+Math/Numerical/
+docs/
+tests/
+.gitignore
+README.md
+buildPackageXML.php
+composer.json
+package.xml

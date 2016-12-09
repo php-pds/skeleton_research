@@ -1,0 +1,8 @@
+database/migrations/
+resources/
+src/
+tests/functional/
+.gitignore
+addon.yaml
+composer.json
+phpunit.xml

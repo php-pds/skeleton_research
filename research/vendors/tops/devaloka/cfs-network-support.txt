@@ -1,0 +1,17 @@
+loader/
+src/
+.editorconfig
+.gitattributes
+.gitignore
+.mailmap
+.remarkignore
+.remarkrc
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+cfs-network-support.php
+composer.json
+gulpfile.js
+package.json
+phpcs.xml.dist

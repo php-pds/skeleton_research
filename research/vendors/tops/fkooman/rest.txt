@@ -1,0 +1,11 @@
+examples/
+src/fkooman/Rest/
+tests/fkooman/Rest/
+.gitignore
+.travis.yml
+CHANGES.md
+COPYING
+PLUGINS.md
+README.md
+composer.json
+phpunit.xml.dist

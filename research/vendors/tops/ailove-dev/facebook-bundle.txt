@@ -1,0 +1,10 @@
+Classes/
+Controller/
+DependencyInjection/
+Resources/
+Security/
+Service/
+Tests/Controller/
+AiloveFacebookBundle.php
+README.md
+composer.json

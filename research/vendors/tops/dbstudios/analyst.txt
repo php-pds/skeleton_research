@@ -1,0 +1,10 @@
+samples/
+src/DaybreakStudios/Analyst/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

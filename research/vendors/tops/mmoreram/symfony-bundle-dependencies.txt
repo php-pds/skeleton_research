@@ -1,0 +1,15 @@
+Tests/
+.editorconfig
+.formatter.yml
+.gitignore
+.php_cs
+.travis.yml
+BundleDependenciesResolver.php
+BundleStackNotCacheableException.php
+CONTRIBUTING.md
+CachedBundleDependenciesResolver.php
+DependentBundleInterface.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,7 @@
+src/Mparaiso/
+tests/
+.gitignore
+README.md
+composer.json
+makefile
+php.ini

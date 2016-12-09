@@ -1,0 +1,9 @@
+config/
+src/OrgHeiglDeploy/
+tests/
+.travis.yml
+Module.php
+README.md
+composer.json
+composer.phar
+phpunit.xml.dist

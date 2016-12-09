@@ -1,0 +1,11 @@
+.idea/
+Controller/
+DependencyInjection/
+Resources/
+Tests/
+Twig/
+.project
+LICENSE
+README.md
+SopinetTemplateSbadmin2Bundle.php
+composer.json

@@ -1,0 +1,4 @@
+examples/
+.gitignore
+PSWebServiceLibrary.php
+composer.json

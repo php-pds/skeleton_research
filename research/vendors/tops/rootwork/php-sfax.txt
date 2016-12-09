@@ -1,0 +1,8 @@
+src/Sfax/
+tests/
+.gitignore
+LICENSE
+README.md
+RELEASE.md
+composer.json
+composer.lock

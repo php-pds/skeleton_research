@@ -1,0 +1,6 @@
+config/
+src/RawPHP/AutoUpdate/
+.gitignore
+LICENSE
+composer.json
+phpunit.xml

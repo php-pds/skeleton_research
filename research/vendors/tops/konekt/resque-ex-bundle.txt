@@ -1,0 +1,15 @@
+Command/
+Controller/
+DependencyInjection/
+Resources/
+bin/
+.gitignore
+ContainerAwareJob.php
+FailedJob.php
+Job.php
+KonektResqueExBundle.php
+Queue.php
+README.markdown
+Resque.php
+Worker.php
+composer.json

@@ -1,0 +1,6 @@
+components/
+views/
+LICENSE
+README.md
+SocialNetworks.php
+composer.json

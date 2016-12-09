@@ -1,0 +1,14 @@
+DependencyInjection/
+Exception/
+Resources/config/
+Service/
+Tests/
+.coveralls.yml
+.gitignore
+.travis.yml
+LICENSE
+README.md
+StarcraftConnectionLayerBundle.php
+composer.json
+composer.lock
+phpunit.xml.dist

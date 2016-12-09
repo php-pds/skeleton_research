@@ -1,0 +1,10 @@
+adapters/Slim/
+src/
+tests/
+.editorconfig
+.gitignore
+.travis.yml
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

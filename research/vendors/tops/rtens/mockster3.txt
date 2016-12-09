@@ -1,0 +1,10 @@
+spec/
+src/
+.gitignore
+.travis.yml
+bootstrap.php
+composer.json
+licence
+phpunit.xml.dist
+readme.md
+scrut.json

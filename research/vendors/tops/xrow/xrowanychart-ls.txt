@@ -1,0 +1,10 @@
+anymap/
+design/standard/
+draft/
+modules/
+settings/
+translations/ger-DE/
+AnyChart_EULA.pdf
+README.txt
+composer.json
+extension.xml

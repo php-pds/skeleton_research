@@ -1,0 +1,15 @@
+DependencyInjection/
+Resources/config/
+Tests/
+Validator/Constraints/
+.editorconfig
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+XynnnBlacklistedEmailValidatorBundle.php
+composer.json
+composer.lock
+phpunit.xml.dist

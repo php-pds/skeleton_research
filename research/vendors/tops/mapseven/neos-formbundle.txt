@@ -1,0 +1,7 @@
+Classes/MapSeven/Neos/FormBundle/
+Configuration/
+Migrations/Mysql/
+Tests/Unit/Domain/Model/
+LICENSE
+README.md
+composer.json

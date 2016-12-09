@@ -1,0 +1,7 @@
+bin/
+config/
+src/Siciarek/SymfonyUtilsBundle/
+.gitignore
+.travis.yml
+README.md
+composer.json

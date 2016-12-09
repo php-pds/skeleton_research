@@ -1,0 +1,14 @@
+js/
+less/
+locale/
+migrations/
+src/
+.bithoundrc
+.eslintrc
+.gitignore
+.styleci.yml
+LICENSE
+bootstrap.php
+composer.json
+icon.jpg
+package.json

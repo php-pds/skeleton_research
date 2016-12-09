@@ -1,0 +1,12 @@
+doc/
+src/Configlet/
+tests/ConfigletTest/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CHANGELOG
+LICENSE
+README.md
+composer.json
+index.php
+phpunit.xml.dist

@@ -1,0 +1,6 @@
+build/
+src/
+.gitignore
+README.md
+build-phar.php
+composer.json

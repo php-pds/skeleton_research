@@ -1,0 +1,10 @@
+config/
+spec/Phpro/MailManager/
+src/Phpro/MailManager/
+stub/Phpro/MailManager/
+view/mails/
+.gitignore
+.php_cs
+Module.php
+README.md
+composer.json

@@ -1,0 +1,17 @@
+Command/
+DependencyInjection/
+Entity/
+Manager/
+Model/
+Resources/config/
+Tests/
+Twig/
+.gitignore
+.php_cs
+.travis.yml
+CONTRIBUTING.md
+README.md
+RedCodeCurrencyRateBundle.php
+composer.json
+composer.lock
+phpunit.xml

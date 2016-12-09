@@ -1,0 +1,12 @@
+SlevomatCodingStandard/
+tests/
+.coveralls.yml
+.gitattributes
+.gitignore
+.travis.yml
+LICENSE.md
+README.md
+build.xml
+composer.json
+phpstan.neon
+ruleset.xml

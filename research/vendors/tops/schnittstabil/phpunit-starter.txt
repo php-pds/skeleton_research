@@ -1,0 +1,7 @@
+.gitattributes
+.gitignore
+composer.json
+license
+phpunit.xml.dist
+readme.md
+schnittstabil-phpunit-starter

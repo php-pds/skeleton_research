@@ -1,0 +1,9 @@
+DependencyInjection/
+Domain/
+Resources/
+Storage/
+Tests/
+.gitignore
+MorphodoIndexerBundle.php
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,8 @@
+Tests/
+src/Library/
+.gitignore
+README.md
+README_RUS.md
+bootstrap.php
+composer.json
+phpunit.xml

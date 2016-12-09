@@ -1,0 +1,5 @@
+system/modules/default_densities/
+.gitignore
+LICENSE
+README.md
+composer.json

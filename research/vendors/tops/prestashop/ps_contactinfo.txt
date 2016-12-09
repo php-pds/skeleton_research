@@ -1,0 +1,12 @@
+translations/
+upgrade/
+.gitignore
+Readme.md
+composer.json
+config.xml
+index.php
+logo.png
+nav.tpl
+ps_contactinfo-rich.tpl
+ps_contactinfo.php
+ps_contactinfo.tpl

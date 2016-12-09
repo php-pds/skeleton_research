@@ -1,0 +1,5 @@
+src/
+composer.json
+example.php
+license.md
+readme.md

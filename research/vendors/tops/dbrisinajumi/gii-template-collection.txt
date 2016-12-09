@@ -1,0 +1,8 @@
+components/
+fullCrud/
+fullModel/
+fullModule/
+.gitignore
+README.md
+changelog.txt
+composer.json

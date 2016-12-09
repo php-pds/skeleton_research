@@ -1,0 +1,14 @@
+includes/OPCache/
+tests/phpunit/
+.coveralls.yml
+.travis.yml
+README.md
+bootstrap.php
+composer.json
+composer.lock
+opcache.admin.inc
+opcache.drush.inc
+opcache.info
+opcache.install
+opcache.module
+phpunit.xml.dist

@@ -1,0 +1,11 @@
+App/
+Assets/
+Config/
+Console/
+Domain/Installer/
+Http/
+Infrastructure/
+Resources/
+composer.json
+module.json
+start.php

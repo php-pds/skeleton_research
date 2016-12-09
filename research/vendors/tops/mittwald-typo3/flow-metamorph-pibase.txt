@@ -1,0 +1,5 @@
+Classes/Mw/MetamorphPibase/
+Configuration/
+Resources/Private/Views/Standalone/
+README.adoc
+composer.json

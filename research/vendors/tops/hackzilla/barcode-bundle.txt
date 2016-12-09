@@ -1,0 +1,12 @@
+DependencyInjection/
+Exception/
+Resources/
+Tests/
+Utility/
+.gitignore
+.travis.yml
+HackzillaBarcodeBundle.php
+Makefile
+README.md
+composer.json
+phpunit.xml.dist

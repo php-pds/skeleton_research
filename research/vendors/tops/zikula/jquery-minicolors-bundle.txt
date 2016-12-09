@@ -1,0 +1,5 @@
+Zikula/Bundle/JQueryMiniColorsBundle/
+LICENSE
+README.md
+ZikulaJQueryMiniColorsBundle.php
+composer.json

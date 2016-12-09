@@ -1,0 +1,9 @@
+data/
+src/Helper/
+test/
+.gitattributes
+.gitignore
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

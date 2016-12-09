@@ -1,0 +1,8 @@
+assets/
+config/
+controllers/
+migrations/
+modules/text/
+views/default/
+SeoModule.php
+composer.json

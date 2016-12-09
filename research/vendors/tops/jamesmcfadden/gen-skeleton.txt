@@ -1,0 +1,9 @@
+assets/css/
+config/
+layouts/
+pages/
+.gitignore
+LICENSE.txt
+README.md
+composer.json
+gen

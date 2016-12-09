@@ -1,0 +1,13 @@
+.idea/
+build/
+src/
+tests/
+.gitignore
+.travis.yml
+Makefile
+README.md
+build.xml
+composer.json
+composer.lock
+console
+phpunit.xml

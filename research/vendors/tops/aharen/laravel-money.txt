@@ -1,0 +1,5 @@
+src/Money/
+.gitignore
+LICENSE
+README.md
+composer.json

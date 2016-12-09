@@ -1,0 +1,6 @@
+assets/js/
+src/
+tmpl/
+.gitignore
+composer.json
+config.php

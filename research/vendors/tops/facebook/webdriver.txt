@@ -1,0 +1,12 @@
+lib/
+tests/
+.gitattributes
+.gitignore
+.php_cs
+.travis.yml
+CHANGELOG.md
+CONTRIBUTING.md
+README.md
+composer.json
+example.php
+phpunit.xml.dist

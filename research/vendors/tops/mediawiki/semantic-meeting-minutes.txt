@@ -1,0 +1,8 @@
+ImportFiles/
+i18n/
+modules/
+Magic.php
+README.md
+SemanticMeetingMinutes.php
+Setup.php
+composer.json

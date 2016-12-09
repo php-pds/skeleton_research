@@ -1,0 +1,8 @@
+assets/
+config/
+templates/
+Gulpfile.js
+LICENSE
+README.md
+composer.json
+package.json

@@ -1,0 +1,10 @@
+src/Ferrl/
+stub/
+tests/
+.gitignore
+.php_cs
+.travis.yml
+LICENSE.md
+README.md
+composer.json
+phpunit.xml

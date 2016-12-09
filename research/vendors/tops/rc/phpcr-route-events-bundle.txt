@@ -1,0 +1,11 @@
+Controller/
+DependencyInjection/
+Events/
+Resources/
+Tests/
+.gitignore
+.travis.yml
+RCPHPCRRouteEventsBundle.php
+composer.json
+composer.phar
+phpunit.xml.dist

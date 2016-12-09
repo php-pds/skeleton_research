@@ -1,0 +1,6 @@
+src/Molecular/
+test/Molecular/
+.gitattributes
+.gitignore
+composer.json
+composer.lock

@@ -1,0 +1,13 @@
+DependencyInjection/
+Extension/
+Resources/config/
+Tests/Extension/
+.gitattributes
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+TwitterWidgetBundle.php
+composer.json
+phpunit.xml.dist

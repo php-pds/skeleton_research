@@ -1,0 +1,6 @@
+vendor/
+LICENSE
+README.md
+RollbarPlugin.php
+composer.json
+composer.lock

@@ -1,0 +1,13 @@
+.github/
+.travis/phpcs/
+Tests/
+src/
+.gitattributes
+.gitignore
+.gitmodules
+.travis.yml
+CONTRIBUTING.md
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

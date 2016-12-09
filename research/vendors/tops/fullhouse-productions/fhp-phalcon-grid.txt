@@ -1,0 +1,9 @@
+build/puppet/
+schemas/
+src/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+Vagrantfile
+composer.json

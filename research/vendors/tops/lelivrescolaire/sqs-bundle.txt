@@ -1,0 +1,16 @@
+DependencyInjection/
+Factory/
+Interfaces/
+Model/
+Resources/config/
+Tests/
+build-tools/travis-ci/
+.atoum.php
+.bootstrap.atoum.php
+.coke
+.gitignore
+.travis.yml
+LICENSE
+LLSSQSBundle.php
+README.md
+composer.json

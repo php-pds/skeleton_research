@@ -1,0 +1,6 @@
+src/DepMap/
+test/
+.gitignore
+README.md
+composer.json
+deploy.ignore.map

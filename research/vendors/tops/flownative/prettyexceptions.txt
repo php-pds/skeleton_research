@@ -1,0 +1,4 @@
+Classes/Error/
+Configuration/Development/
+Resources/Private/HandlerIncludes/
+composer.json

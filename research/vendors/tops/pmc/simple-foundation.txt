@@ -1,0 +1,5 @@
+scss/
+web/
+README.md
+composer.json
+example.html

@@ -1,0 +1,3 @@
+src/Ditto/jQuery/
+README.md
+composer.json

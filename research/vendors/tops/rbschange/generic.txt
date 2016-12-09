@@ -1,0 +1,14 @@
+actions/
+apache/
+config/
+forms/
+i18n/
+lib/
+persistentdocument/
+setup/
+style/
+templates/
+views/
+webapp/www/media/frontoffice/
+LICENSE.txt
+change.xml

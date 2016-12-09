@@ -1,0 +1,12 @@
+Tests/
+src/
+.atoum.php
+.bumpversion.cfg
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+composer.json
+composer.lock

@@ -1,0 +1,16 @@
+Config/
+Console/Command/Task/
+Controller/
+JavascriptTest/
+Lib/
+Locale/
+Model/
+Test/
+Vendor/
+View/
+webroot/
+.coveralls.yml
+.gitignore
+.travis.yml
+README.md
+composer.json

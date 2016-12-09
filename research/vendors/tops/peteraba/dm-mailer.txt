@@ -1,0 +1,16 @@
+config/
+src/DmMailer/
+test/
+view/dm-mailer/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE.txt
+Module.php
+README.md
+composer.json
+dev.phpunit.xml
+integration.phpunit.xml
+phpunit.sh
+phpunit.xml
+travis.phpunit.xml

@@ -1,0 +1,9 @@
+Annotation/
+DependencyInjection/
+Entity/
+Listener/
+Resources/config/
+Service/
+README.md
+SKCMSTrashBinBundle.php
+composer.json

@@ -1,0 +1,7 @@
+lib/SimpleConfig/
+test/unit/
+.gitignore
+LICENSE
+README.md
+composer.json
+phpunit.xml

@@ -1,0 +1,10 @@
+doc/
+src/
+test/Test/Pixel418/Ubiq/
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENSE.md
+README.md
+composer.json
+phpunit.xml

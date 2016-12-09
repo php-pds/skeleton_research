@@ -1,0 +1,14 @@
+app/
+docs/
+features/
+src/
+web/
+.gitignore
+CHANGELOG
+LICENSE
+README.md
+behat.yml
+behat.yml.dist
+composer.json
+composer.lock
+phpunit.xml.dist

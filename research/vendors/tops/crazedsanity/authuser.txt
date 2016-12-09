@@ -1,0 +1,9 @@
+setup/
+src/authuser/
+tests/
+.gitignore
+.travis.yml
+VERSION
+composer.json
+composer.lock
+phpunit.xml

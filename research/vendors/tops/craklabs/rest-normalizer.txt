@@ -1,0 +1,11 @@
+js/
+php/
+.coveralls.yml
+.gitignore
+.travis.yml
+LICENSE
+Makefile
+README.md
+composer.json
+package.json
+phpunit.xml.dist

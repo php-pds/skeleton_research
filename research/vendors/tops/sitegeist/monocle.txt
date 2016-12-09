@@ -1,0 +1,16 @@
+Classes/Sitegeist/Monocle/
+Configuration/
+Resources/
+.babelrc
+.editorconfig
+.eslintrc
+.gitignore
+.nvmrc
+.styleci.yml
+.stylelintrc
+LICENSE
+README.md
+composer.json
+package.json
+webpack.config.js
+yarn.lock

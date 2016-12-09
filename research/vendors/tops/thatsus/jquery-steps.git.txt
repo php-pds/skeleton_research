@@ -1,0 +1,17 @@
+build/
+demo/
+lib/
+nuget/
+src/
+test/
+.gitattributes
+.gitignore
+.travis.yml
+CHANGELOG.md
+Gruntfile.js
+LICENSE.txt
+README.md
+bower.json
+composer.json
+package.json
+steps.jquery.json

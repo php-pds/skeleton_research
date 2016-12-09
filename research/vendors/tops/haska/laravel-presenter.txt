@@ -1,0 +1,7 @@
+spec/Haska/Presenter/
+src/Haska/Presenter/
+.gitignore
+.travis.yml
+composer.json
+phpspec.yml
+readme.md

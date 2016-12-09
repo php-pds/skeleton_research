@@ -1,0 +1,7 @@
+Resources/public/js/
+.gitignore
+LICENSE
+README.md
+RhapsodyBackboneJsBundle.php
+composer.json
+version.txt

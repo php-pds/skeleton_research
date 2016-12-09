@@ -1,0 +1,9 @@
+Controller/
+DependencyInjection/
+Entity/
+Form/
+Listener/
+Migrations/
+Resources/
+ClarolineExampleBundle.php
+composer.json

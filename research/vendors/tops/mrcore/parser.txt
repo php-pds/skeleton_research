@@ -1,0 +1,16 @@
+Libraries/Text_Wiki/
+Markdown/
+Providers/
+TextWiki/
+.editorconfig
+.gitignore
+Html.php
+Markdown.php
+Mrcore.php
+Parser.php
+Php.php
+README.md
+Text.php
+WikiHtml.php
+WikiPhp.php
+composer.json

@@ -1,0 +1,9 @@
+components/
+config/
+controllers/
+messages/
+views/default/
+.gitignore
+P3AdminModule.php
+README.md
+composer.json

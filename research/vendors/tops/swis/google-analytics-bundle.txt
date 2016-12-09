@@ -1,0 +1,11 @@
+Controller/
+DependencyInjection/
+Events/
+Listener/
+Resources/
+Service/
+Twig/
+.gitignore
+Readme.md
+SwisGoogleAnalyticsBundle.php
+composer.json

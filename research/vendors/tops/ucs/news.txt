@@ -1,0 +1,16 @@
+Exception/
+Tests/
+.gitignore
+LICENSE
+News.php
+NewsAwareInterface.php
+NewsInterface.php
+NewsManager.php
+NewsManagerInterface.php
+NewsMedia.php
+NewsMediaInterface.php
+NewsMediaManager.php
+NewsMediaManagerInterface.php
+README.rst
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,6 @@
+src/Pckg/Database/
+tests/
+.gitignore
+README.md
+codeception.sample.yml
+composer.json

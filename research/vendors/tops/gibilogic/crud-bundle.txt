@@ -1,0 +1,10 @@
+Entity/
+Model/
+Resources/
+Utility/
+.gitignore
+GibilogicCrudBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

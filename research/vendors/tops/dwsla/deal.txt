@@ -1,0 +1,7 @@
+Deal/
+tests/
+.gitignore
+README.md
+circle.yml
+composer.json
+composer.lock

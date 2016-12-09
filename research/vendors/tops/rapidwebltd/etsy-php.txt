@@ -1,0 +1,9 @@
+scripts/
+src/Etsy/
+tests/Etsy/
+.gitignore
+.travis.yml
+README.md
+composer.json
+composer.lock
+phpunit.xml

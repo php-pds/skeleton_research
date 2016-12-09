@@ -1,0 +1,6 @@
+DependencyInjection/
+Mailer/
+Resources/
+EBEmailBundle.php
+README.md
+composer.json

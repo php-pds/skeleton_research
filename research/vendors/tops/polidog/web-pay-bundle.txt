@@ -1,0 +1,12 @@
+Controller/
+DependencyInjection/
+Event/
+Proxy/
+Resources/config/
+.gitignore
+.php_cs
+PolidogWebPayBundle.php
+README.md
+WebPayApi.php
+WebPayEvents.php
+composer.json

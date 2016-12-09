@@ -1,0 +1,10 @@
+bin/
+src/
+tests/
+.gitignore
+.travis.yml
+CONTRIBUTING.md
+LICENSE
+README.md
+composer.json
+php_todo_finder.yml.sample

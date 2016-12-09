@@ -1,0 +1,5 @@
+src/
+tests/Unit/
+.gitignore
+composer.json
+phpunit.xml.dist

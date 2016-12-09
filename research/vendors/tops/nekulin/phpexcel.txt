@@ -1,0 +1,12 @@
+Classes/
+Examples/
+unitTests/
+.gitattributes
+.gitignore
+.travis.yml
+README.md
+changelog.txt
+composer.json
+composer.json~
+install.txt
+license.md

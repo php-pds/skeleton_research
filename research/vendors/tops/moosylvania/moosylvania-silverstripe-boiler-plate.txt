@@ -1,0 +1,15 @@
+assets/
+mysite/
+themes/mytheme/
+.gitattributes
+.gitignore
+.htaccess
+LICENSE
+README.md
+channel.html
+composer.json
+favicon.ico
+index.php
+robots.dev.txt
+robots.prod.txt
+web.config

@@ -1,0 +1,13 @@
+bower_components/github-markdown-css/
+spec/Provider/
+src/Provider/
+tests/Provider/
+.gitignore
+.travis.yml
+CONTRIBUTING.md
+LICENSE
+README.md
+bower.json
+composer.json
+phpspec.yml
+phpunit.xml.dist

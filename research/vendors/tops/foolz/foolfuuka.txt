@@ -1,0 +1,9 @@
+app/foolz/
+assets/
+public/
+src/
+.gitignore
+.htaccess
+README.md
+composer.json
+console

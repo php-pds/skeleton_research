@@ -1,0 +1,10 @@
+docs/
+src/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+README.md
+composer.json
+license.md
+phpunit.php
+phpunit.xml

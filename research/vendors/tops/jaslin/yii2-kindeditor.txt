@@ -1,0 +1,11 @@
+controllers/
+kindeditor/
+migrations/
+models/
+KindEditor.php
+KindEditorAssets.php
+LICENSE
+LightAsset.php
+Module.php
+README.md
+composer.json

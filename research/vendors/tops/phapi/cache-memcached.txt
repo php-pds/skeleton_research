@@ -1,0 +1,13 @@
+src/Phapi/Cache/Memcached/
+tests/Phapi/Cache/Memcached/
+.codeclimate.yml
+.gitattributes
+.gitignore
+.travis.yml
+changelog.md
+composer.json
+composer.lock
+contributing.md
+license.md
+phpunit.xml
+readme.md

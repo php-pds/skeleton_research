@@ -1,0 +1,7 @@
+resources/assets/js/
+src/
+tests/
+.gitignore
+composer.json
+phpunit.xml
+readme.md

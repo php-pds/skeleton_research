@@ -1,0 +1,4 @@
+lib/MwbExporter/Formatter/Propel1/
+LICENSE
+README.md
+composer.json

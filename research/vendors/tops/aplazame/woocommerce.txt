@@ -1,0 +1,16 @@
+.ci/
+docs/
+plugin/
+.drone.sec
+.drone.yml
+.editorconfig
+.gitignore
+Dockerfile
+Dockerfile_l10n
+HISTORY.md
+LICENSE
+Makefile
+README.md
+composer.json
+docker-compose.yml
+phpcs.xml

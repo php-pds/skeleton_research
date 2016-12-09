@@ -1,0 +1,12 @@
+classes/
+config/
+guide/
+media/guide/
+messages/
+tests/
+vendor/markdown/
+views/userguide/
+.gitignore
+README.md
+composer.json
+init.php

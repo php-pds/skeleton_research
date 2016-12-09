@@ -1,0 +1,15 @@
+Config/
+Console/Command/
+Controller/
+Event/
+Lib/
+Model/
+Test/
+TestSuite/
+Vendor/
+View/Helper/
+.gitignore
+.gitmodules
+composer.json
+license.txt
+readme.md

@@ -1,0 +1,8 @@
+example/
+src/Command/
+tests/Command/
+.gitignore
+.travis.yml
+README.md
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,6 @@
+config/
+src/PlaygroundPull/
+tests/
+.gitignore
+README.md
+composer.json

@@ -1,0 +1,12 @@
+Command/
+Composer/
+DependencyInjection/
+Entity/
+Helper/
+InitHandler/
+Kernel/
+ParameterProcessor/
+Resources/config/
+NetgustoBootCampBundle.php
+README.md
+composer.json

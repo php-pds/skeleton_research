@@ -1,0 +1,6 @@
+css/
+js/
+.gitignore
+PwAsset.php
+README.md
+composer.json

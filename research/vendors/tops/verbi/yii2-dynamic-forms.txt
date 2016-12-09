@@ -1,0 +1,7 @@
+nbproject/
+src/components/
+.gitignore
+CHANGES
+LICENSE.md
+VERSION
+composer.json

@@ -1,0 +1,8 @@
+publish/
+src/LaravelStaplerImages/
+.gitignore
+LICENSE
+codesleeve-stapler-curl-open-basedir-fix.patch
+codesleeve-stapler-rename_bugfix.patch
+composer.json
+readme.md

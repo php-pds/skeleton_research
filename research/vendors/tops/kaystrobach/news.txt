@@ -1,0 +1,6 @@
+Classes/KayStrobach/News/
+Migrations/Mysql/
+Resources/Private/
+LICENSE.md
+README.md
+composer.json

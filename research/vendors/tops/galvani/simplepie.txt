@@ -1,0 +1,15 @@
+build/
+compatibility_test/
+demo/
+idn/
+library/
+tests/
+.gitignore
+.travis.yml
+LICENSE.txt
+README.markdown
+ROADMAP.md
+autoloader.php
+composer.json
+db.sql
+phpunit.xml.dist

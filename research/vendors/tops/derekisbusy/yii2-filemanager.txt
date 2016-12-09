@@ -1,0 +1,15 @@
+assets/
+behaviors/
+controllers/
+events/
+handlers/
+messages/
+migrations/
+models/
+views/
+widgets/
+LICENSE
+Module.php
+README.md
+composer.json
+composer.lock

@@ -1,0 +1,15 @@
+Controller/
+DependencyInjection/
+Provider/
+Resources/
+Service/
+Sitemap/
+Tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+WerkspotSitemapBundle.php
+composer.json
+phpunit.xml

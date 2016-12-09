@@ -1,0 +1,12 @@
+Resources/fixtures/trading/
+src/
+tests/
+xml/
+.gitignore
+.php_cs
+.travis.yml
+CONTRIBUTING.md
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

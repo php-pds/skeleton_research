@@ -1,0 +1,8 @@
+Source/Expose/
+Tests/
+.gitignore
+.travis.yml
+README.md
+composer.json
+example.php
+example2.php

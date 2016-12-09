@@ -1,0 +1,7 @@
+install/
+lang/ru/install/
+lib/
+LICENSE
+README.md
+composer.json
+include.php

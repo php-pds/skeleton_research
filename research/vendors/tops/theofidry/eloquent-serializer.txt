@@ -1,0 +1,14 @@
+bin/
+fixtures/
+resources/config/
+src/
+tests/
+vendor-bin/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist
+phpunit_laravel.xml.dist
+phpunit_symfony.xml.dist

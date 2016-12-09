@@ -1,0 +1,7 @@
+src/Bundle/CliBundle/
+tests/Bundle/CliBundle/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json

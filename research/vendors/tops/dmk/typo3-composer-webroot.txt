@@ -1,0 +1,5 @@
+htdocs/
+.gitignore
+.htaccess_live
+README.md
+composer.json

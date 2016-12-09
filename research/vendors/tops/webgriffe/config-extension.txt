@@ -1,0 +1,6 @@
+etc/
+src/
+README.md
+admin-screenshot.png
+composer.json
+modman

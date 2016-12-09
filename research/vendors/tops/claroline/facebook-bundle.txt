@@ -1,0 +1,14 @@
+Controller/
+DataFixtures/
+DependencyInjection/
+Form/
+Installation/
+Listener/
+Manager/
+Model/
+Resources/
+Security/
+Twig/
+.gitignore
+ClarolineFacebookBundle.php
+composer.json

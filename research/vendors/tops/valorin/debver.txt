@@ -1,0 +1,7 @@
+src/Debver/
+tests/Debver/
+.gitattributes
+.travis.yml
+LICENCE.txt
+README.md
+composer.json

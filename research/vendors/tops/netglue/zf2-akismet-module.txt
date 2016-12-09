@@ -1,0 +1,9 @@
+config/
+src/NetglueAkismet/
+test/
+vendor/
+.gitignore
+LICENSE
+Module.php
+README.md
+composer.json

@@ -1,0 +1,16 @@
+dist/
+docs/
+src/
+.dockerignore
+.gitignore
+Dockerfile
+LICENSE
+README.md
+bower.json
+composer.json
+composer.lock
+docker-compose.yml
+gulpfile.js
+index.html
+package.json
+proxy.php

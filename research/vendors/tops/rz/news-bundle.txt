@@ -1,0 +1,15 @@
+Admin/
+Controller/
+DependencyInjection/
+Document/
+Entity/
+Model/
+Provider/
+Resources/
+Serializer/
+Validator/
+.DS_Store
+.gitignore
+README.md
+RzNewsBundle.php
+composer.json

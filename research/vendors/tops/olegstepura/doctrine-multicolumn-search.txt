@@ -1,0 +1,5 @@
+lib/Ost/Doctrine/MultiColumnSearch/
+tests/
+README.md
+composer.json
+composer.yml

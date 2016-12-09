@@ -1,0 +1,7 @@
+src/Provider/
+tests/src/Provider/
+.gitignore
+LICENSE
+README.mdown
+composer.json
+phpunit.xml

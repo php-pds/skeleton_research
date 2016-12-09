@@ -1,0 +1,3 @@
+.gitignore
+Whmcs.php
+composer.json

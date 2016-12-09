@@ -1,0 +1,11 @@
+config/
+src/
+tests/
+webroot/img/country_flags/
+.editorconfig
+.gitattributes
+.gitignore
+.travis.yml
+README.md
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,11 @@
+bin/
+features/
+src/
+testapp/
+.gitignore
+.travis.yml
+CONTRIBUTING.md
+LICENSE.md
+README.md
+composer.json
+composer.lock

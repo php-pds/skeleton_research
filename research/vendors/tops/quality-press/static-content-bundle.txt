@@ -1,0 +1,16 @@
+Command/
+DependencyInjection/
+Entity/
+Exception/
+Handler/
+Listener/
+Manager/
+Manipulator/
+Model/
+Resources/
+Templating/
+Twig/Extension/
+.gitignore
+QualityPressStaticContentBundle.php
+README.md
+composer.json

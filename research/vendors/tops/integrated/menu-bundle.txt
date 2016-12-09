@@ -1,0 +1,11 @@
+DependencyInjection/
+Event/
+Provider/
+Resources/
+Tests/
+.gitignore
+IntegratedMenuBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

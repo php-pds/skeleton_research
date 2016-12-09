@@ -1,0 +1,6 @@
+example/
+lib/crodas/Autocomplete/
+tests/
+.travis.yml
+composer.json
+phpunit.xml

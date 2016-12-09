@@ -1,0 +1,9 @@
+DependencyInjection/
+Exception/
+Provider/
+Resources/
+Solvency/
+Twig/
+AstinaSolvencyBundle.php
+README.md
+composer.json

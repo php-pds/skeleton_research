@@ -1,0 +1,6 @@
+includes/
+.gitignore
+README.md
+composer.json
+readme.txt
+wp-session-manager.php

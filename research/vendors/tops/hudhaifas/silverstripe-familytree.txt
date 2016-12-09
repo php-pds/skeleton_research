@@ -1,0 +1,13 @@
+_config/
+code/
+css/
+images/
+js/
+lang/
+less/
+templates/
+.gitignore
+LICENSE
+README.md
+_config.php
+composer.json

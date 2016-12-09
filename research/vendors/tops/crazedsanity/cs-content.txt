@@ -1,0 +1,13 @@
+bin/
+sample_files/
+src/content/
+tests/
+.gitignore
+.travis.yml
+CREDITS
+LICENSE-GPL
+LICENSE-MIT
+README.md
+VERSION
+composer.json
+phpunit.xml

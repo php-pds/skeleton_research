@@ -1,0 +1,11 @@
+Tests/
+.atoum.php
+.atoum.travis.php
+.bootstrap.atoum.php
+.travis.yml
+AbstractCallable.php
+CallableInterface.php
+CallableTrait.php
+Delegate.php
+README.md
+composer.json

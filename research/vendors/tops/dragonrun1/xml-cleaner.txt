@@ -1,0 +1,9 @@
+docs/examples/
+src/
+.gitattributes
+.gitignore
+.mailmap
+LICENSE
+README.md
+bootstrap.php
+composer.json

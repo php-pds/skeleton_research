@@ -1,0 +1,14 @@
+src/
+tests/
+.dunitconfig
+.gitattributes
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+Makefile
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist
+travis-event-loops.sh

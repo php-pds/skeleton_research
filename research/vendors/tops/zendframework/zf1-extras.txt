@@ -1,0 +1,8 @@
+documentation/manual/en/
+library/ZendX/
+tests/
+.travis.yml
+CONTRIBUTING.md
+LICENSE.txt
+README.md
+composer.json

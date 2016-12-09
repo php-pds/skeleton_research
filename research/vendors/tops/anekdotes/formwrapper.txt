@@ -1,0 +1,13 @@
+Tests/
+examples/
+src/anekdotes/
+.gitignore
+.styleci.yml
+.travis.yml
+LICENSE
+README.MD
+composer.json
+gulpfile.js
+package.json
+phpunit.xml
+styler.php_cs

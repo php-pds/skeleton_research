@@ -1,0 +1,11 @@
+assets/
+inc/
+.gitignore
+README.md
+composer.json
+composer.lock
+functions.php
+gulpfile.js
+package.json
+screenshot.png
+style.css

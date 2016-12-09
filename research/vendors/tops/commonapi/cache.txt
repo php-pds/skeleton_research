@@ -1,0 +1,8 @@
+.gitignore
+CacheInterface.php
+CacheItemInterface.php
+CacheTrait.php
+ConnectionInterface.php
+LICENSE
+README.md
+composer.json

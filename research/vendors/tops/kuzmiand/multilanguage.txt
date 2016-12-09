@@ -1,0 +1,11 @@
+data/
+input_widget/
+language_selector_widget/
+migrations/
+.gitignore
+MultiLanguageBehavior.php
+MultiLanguageHelper.php
+MultiLanguageTrait.php
+MultiLanguageUrlManager.php
+README.md
+composer.json

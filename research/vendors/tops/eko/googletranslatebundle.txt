@@ -1,0 +1,14 @@
+.github/
+DataCollector/
+DependencyInjection/
+Exception/
+Resources/
+Tests/
+Translate/
+.gitignore
+.travis.yml
+EkoGoogleTranslateBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

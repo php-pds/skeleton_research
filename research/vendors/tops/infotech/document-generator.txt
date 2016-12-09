@@ -1,0 +1,5 @@
+spec/Infotech/DocumentGenerator/
+src/Infotech/DocumentGenerator/
+.gitignore
+LICENSE
+composer.json

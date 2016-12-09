@@ -1,0 +1,6 @@
+src/Nette/Addons/
+addons.md
+changelog.md
+composer.json
+options.md
+readme.md

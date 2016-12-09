@@ -1,0 +1,6 @@
+src/PHPColor/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock

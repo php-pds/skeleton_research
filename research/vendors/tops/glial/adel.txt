@@ -1,0 +1,10 @@
+application/
+configuration/
+tmp/
+vendor/
+.gitignore
+.htaccess
+README.md
+composer.json
+index.php
+phpunit.xml

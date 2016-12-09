@@ -1,0 +1,7 @@
+src/
+.codeclimate.yml
+.gitignore
+CONTRIBUTING.md
+LICENSE.txt
+README.md
+composer.json

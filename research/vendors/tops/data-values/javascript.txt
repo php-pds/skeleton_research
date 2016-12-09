@@ -1,0 +1,14 @@
+build/travis/
+lib/
+src/
+tests/
+.gitignore
+.jshintignore
+.jshintrc
+.travis.yml
+COPYING
+DataValuesJavaScript.php
+README.md
+composer.json
+config.js
+phpcs.xml

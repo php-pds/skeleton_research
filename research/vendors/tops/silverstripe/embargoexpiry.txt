@@ -1,0 +1,16 @@
+code/
+css/
+images/
+javascript/
+templates/
+tests/
+thirdparty/jquery-ui-timepicker/
+.editorconfig
+.gitattributes
+.gitignore
+.scrutinizer.yml
+.travis.yml
+README.md
+_config.php
+code-of-conduct.md
+composer.json

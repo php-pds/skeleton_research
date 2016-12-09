@@ -1,0 +1,13 @@
+components/
+config/
+controllers/
+messages/
+migrations/
+models/
+themes/default/
+views/
+.gitignore
+CHANGELOG
+P3WidgetsModule.php
+README.md
+composer.json

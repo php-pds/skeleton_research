@@ -1,0 +1,16 @@
+assets/zf-charts/vendor/Chart.js/
+bin/
+config/
+spec/Phpro/Chart/
+src/Phpro/Chart/
+view/zf-charts/
+.bowerrc
+.gitignore
+.php_cs
+Module.php
+README.md
+bower.json
+composer.json
+composer.lock
+phpspec.yml
+template_map.php

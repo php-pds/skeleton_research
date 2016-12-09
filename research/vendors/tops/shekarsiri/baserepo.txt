@@ -1,0 +1,5 @@
+src/BaseRepo/
+.gitignore
+LICENSE
+README.MD
+composer.json

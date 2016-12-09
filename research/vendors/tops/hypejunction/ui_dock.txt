@@ -1,0 +1,15 @@
+sass/page/elements/
+screenshots/
+views/default/
+.gitattributes
+.gitignore
+CHANGELOG.md
+Gemfile
+Gruntfile.js
+README.md
+composer.json
+config.rb
+manifest.xml
+package.json
+release.md
+start.php

@@ -1,0 +1,10 @@
+DependencyInjection/
+Tests/DependencyInjection/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+TtskchRayDiBundle.php
+composer.json
+phpcs.xml
+phpunit.xml.dist

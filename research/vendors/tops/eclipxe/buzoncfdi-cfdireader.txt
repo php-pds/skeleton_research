@@ -1,0 +1,14 @@
+commonxsd/
+scripts/
+src/CFDIReader/
+tests/
+.gitattributes
+.gitignore
+.scrutinizer.yml
+CODE_OF_CONDUCT.md
+CONTRIBUTING.md
+LICENSE
+README.md
+composer.json
+phpcs.xml
+phpunit.xml.dist

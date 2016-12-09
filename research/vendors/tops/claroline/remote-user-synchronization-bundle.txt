@@ -1,0 +1,6 @@
+Controller/
+Resources/config/
+ClarolineRemoteUserSynchronizationBundle.php
+LICENSE
+README.md
+composer.json

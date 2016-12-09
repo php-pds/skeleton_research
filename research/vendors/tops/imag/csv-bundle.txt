@@ -1,0 +1,11 @@
+DependencyInjection/
+Errors/
+Manager/
+Model/
+Provider/
+Resources/
+Tests/Controller/
+.gitignore
+IMAGCsvBundle.php
+README.md
+composer.json

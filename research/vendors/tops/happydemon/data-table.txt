@@ -1,0 +1,7 @@
+classes/
+config/
+guide/notePad-grds/
+views/notePad/
+.gitignore
+README.md
+composer.json

@@ -1,0 +1,9 @@
+spec/Task/Plugin/
+src/
+.coveralls.yml
+.gitignore
+.travis.yml
+README.md
+Taskfile
+composer.json
+phpspec.yml

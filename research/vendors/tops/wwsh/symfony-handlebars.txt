@@ -1,0 +1,4 @@
+src/WW/HandlebarsBundle/
+.gitignore
+README.md
+composer.json

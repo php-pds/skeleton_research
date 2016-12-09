@@ -1,0 +1,9 @@
+DependencyInjection/
+Entity/
+Repository/
+Resources/
+Services/
+Utils/
+README.md
+WHLibBundle.php
+composer.json

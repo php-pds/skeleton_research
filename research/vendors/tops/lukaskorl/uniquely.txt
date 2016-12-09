@@ -1,0 +1,7 @@
+src/Lukaskorl/Uniquely/
+tests/
+.gitignore
+.travis.yml
+composer.json
+phpunit.xml
+readme.md

@@ -1,0 +1,8 @@
+design/standard/templates/content/datatype/view/ezxmltags/
+modules/embedtag/
+settings/
+LICENSE
+README.rst
+composer.json
+extension.xml
+ezinfo.php

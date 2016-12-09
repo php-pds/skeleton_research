@@ -1,0 +1,9 @@
+.settings/
+doc/
+src/Stagehand/ComponentFactory/
+.buildpath
+.gitignore
+.project
+build.xml
+composer.json
+package.xml

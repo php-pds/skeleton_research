@@ -1,0 +1,17 @@
+bin/
+config/dist/
+migrations/postgres/
+src/Hodor/
+tests/
+.codeclimate.yml
+.gitignore
+.travis.yml
+BRAINSTORM.md
+CHANGELOG.md
+LICENSE
+README.md
+bootstrap.php
+composer.json
+composer.lock
+phpmig.php
+phpunit.xml

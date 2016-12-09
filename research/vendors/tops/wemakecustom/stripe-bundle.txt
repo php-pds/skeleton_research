@@ -1,0 +1,10 @@
+DependencyInjection/
+Form/
+Resources/
+Service/
+Twig/
+.gitignore
+README.md
+WMCStripeBundle.php
+composer.json
+composer.lock

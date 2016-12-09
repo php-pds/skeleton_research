@@ -1,0 +1,7 @@
+Classes/
+Tests/
+README.md
+composer.json
+ext_autoload.php
+ext_emconf.php
+ext_typoscript_setup.txt

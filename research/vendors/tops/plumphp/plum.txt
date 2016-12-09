@@ -1,0 +1,15 @@
+docs/
+examples/
+src/
+tests/
+.gitignore
+.scrutinizer.yml
+.styleci.yml
+.travis.yml
+CHANGELOG.md
+LICENSE
+Makefile
+README.md
+appveyor.yml
+composer.json
+phpunit.xml.dist

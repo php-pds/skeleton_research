@@ -1,0 +1,11 @@
+lib/Autoloader/
+tests/
+.travis.yml
+README.md
+cli.php
+composer.json
+deploy.sh
+example.php
+package.yml
+phpunit.xml
+spec.yml

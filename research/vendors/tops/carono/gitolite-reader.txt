@@ -1,0 +1,10 @@
+.gitignore
+Acl.php
+Gitolite.php
+GitoliteException.php
+Object.php
+README.md
+Repo.php
+Team.php
+User.php
+composer.json

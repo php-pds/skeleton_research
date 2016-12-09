@@ -1,0 +1,8 @@
+dist/
+views/
+CropperAsset.php
+README.md
+Webuploader.php
+WebuploaderAsset.php
+YsWebuploaderAsset.php
+composer.json

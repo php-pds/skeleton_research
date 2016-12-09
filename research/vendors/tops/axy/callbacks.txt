@@ -1,0 +1,17 @@
+doc/
+errors/
+tests/
+.gitattributes
+.gitignore
+.travis.yml
+CHANGELOG.md
+Callback.php
+Helper.php
+LICENSE
+README.md
+composer.json
+cs.sh
+index.php
+phpmd.sh
+phpmd.xml.dist
+phpunit.xml.dist

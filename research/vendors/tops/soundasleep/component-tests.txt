@@ -1,0 +1,10 @@
+resources/
+src/
+test/
+.gitignore
+.travis.yml
+README.md
+composer-schema.json
+composer.json
+composer.lock
+phpunit.xml

@@ -1,0 +1,10 @@
+src/M6Web/Component/RedisMock/
+tests/units/
+.atoum.php
+.bootstrap.atoum.php
+.gitignore
+.travis.yml
+LICENSE
+README.md
+Vagrantfile.dist
+composer.json

@@ -1,0 +1,8 @@
+docs/
+src/MadMimi/
+tests/MadMimi/
+.gitignore
+LICENSE
+README.md
+composer.json
+phpunit.xml

@@ -1,0 +1,10 @@
+Configuration/
+Controller/
+DependencyInjection/
+EventListener/
+Resources/
+.gitignore
+LICENSE
+README.md
+StreamPerkThemeBundle.php
+composer.json

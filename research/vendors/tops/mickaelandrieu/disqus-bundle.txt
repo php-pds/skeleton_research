@@ -1,0 +1,7 @@
+ClassContent/Comment/
+Config/
+Resources/img/contents/Comment/
+Templates/scripts/Comment/
+Disqus.php
+README.md
+composer.json

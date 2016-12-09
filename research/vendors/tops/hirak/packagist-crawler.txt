@@ -1,0 +1,12 @@
+cache/
+src/
+.gitignore
+LICENSE
+README.md
+check.php
+composer.json
+composer.lock
+config.default.php
+index.html.php
+optimize.php
+parallel.php

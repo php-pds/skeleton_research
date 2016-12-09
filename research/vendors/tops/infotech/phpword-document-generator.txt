@@ -1,0 +1,5 @@
+spec/
+src/Infotech/PhpWordDocumentGenerator/
+.gitignore
+LICENSE
+composer.json

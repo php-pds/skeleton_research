@@ -1,0 +1,5 @@
+docs/
+src/Payum/Silex/
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,11 @@
+src/iakio/containerdoc/
+templates/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+index.php
+phpunit.xml.dist

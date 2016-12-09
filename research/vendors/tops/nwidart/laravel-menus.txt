@@ -1,0 +1,14 @@
+Tests/
+config/
+shots/
+src/
+views/
+.gitignore
+.php_cs
+.scrutinizer.yml
+.travis.yml
+LICENSE.md
+README.md
+composer.json
+grumphp.yml
+phpunit.xml.dist

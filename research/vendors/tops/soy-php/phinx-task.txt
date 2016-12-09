@@ -1,0 +1,6 @@
+src/Soy/Phinx/
+.gitignore
+LICENSE
+README.md
+composer.json
+recipe.php

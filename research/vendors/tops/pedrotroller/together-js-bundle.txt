@@ -1,0 +1,6 @@
+doc/
+src/PedroTroller/TogetherJs/
+.gitignore
+README.md
+composer.json
+composer.lock

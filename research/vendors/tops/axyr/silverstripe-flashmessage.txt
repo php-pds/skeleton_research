@@ -1,0 +1,13 @@
+_config/
+code/
+javascript/
+templates/
+.editorconfig
+.gitattributes
+.gitignore
+.scrutinizer.yml
+CONTRIBUTING.md
+LICENSE
+README.md
+composer.json
+phpunit.xml

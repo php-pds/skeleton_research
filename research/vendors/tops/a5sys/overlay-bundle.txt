@@ -1,0 +1,5 @@
+Resources/
+LICENSE
+OverlayBundle.php
+README.md
+composer.json

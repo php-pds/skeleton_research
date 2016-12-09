@@ -1,0 +1,11 @@
+DependencyInjection/
+Resources/
+Tests/
+Validator/Constraints/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+SprainValidatorBundle.php
+composer.json
+phpunit.xml.dist

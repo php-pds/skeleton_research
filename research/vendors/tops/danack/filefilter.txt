@@ -1,0 +1,4 @@
+src/FileFilter/
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,12 @@
+Configuration/
+Controller/
+DependencyInjection/
+Form/Type/Configurator/
+Listener/
+Resources/
+Translation/
+Twig/
+EasyAdminPopupBundle.php
+LICENSE.md
+README.md
+composer.json

@@ -1,0 +1,13 @@
+app/
+public_html/
+.editorconfig
+.env.example
+.gitignore
+.php_cs
+.phpstorm.meta.php
+.scrutinizer.yml
+.sensiolabs.yml
+LICENSE.md
+README.md
+composer.json
+migrate.sh

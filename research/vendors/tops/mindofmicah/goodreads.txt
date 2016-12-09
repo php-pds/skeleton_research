@@ -1,0 +1,7 @@
+src/mindofmicah/GoodReads/
+tests/
+.gitattributes
+.gitignore
+composer.json
+composer.lock
+phpunit.xml

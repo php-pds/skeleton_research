@@ -1,0 +1,13 @@
+_config/
+code/
+css/
+docs/en/
+javascript/
+lang/
+templates/
+tests/
+.gitattributes
+.travis.yml
+LICENSE.md
+README.md
+composer.json

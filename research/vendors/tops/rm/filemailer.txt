@@ -1,0 +1,4 @@
+src/FileMailer/
+LICENSE
+README.md
+composer.json

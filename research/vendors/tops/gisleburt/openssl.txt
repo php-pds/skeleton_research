@@ -1,0 +1,3 @@
+src/Gisleburt/OpenSsl/
+.gitignore
+composer.json

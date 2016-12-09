@@ -1,0 +1,6 @@
+Resources/
+Test/
+.gitignore
+README.md
+TheodoFrameworkExtraBundle.php
+composer.json

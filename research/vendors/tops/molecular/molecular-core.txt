@@ -1,0 +1,5 @@
+src/MolecularCore/
+.gitattributes
+.gitignore
+README.md
+composer.json

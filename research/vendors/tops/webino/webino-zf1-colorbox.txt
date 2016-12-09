@@ -1,0 +1,6 @@
+config/
+public/assets/colorbox/
+.gitignore
+README.md
+build.xml
+composer.json

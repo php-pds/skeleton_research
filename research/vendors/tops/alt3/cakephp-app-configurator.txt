@@ -1,0 +1,14 @@
+config/
+docs/sources/img/
+src/
+tests/
+webroot/
+.coveralls.yml
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CONTRIBUTING.md
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

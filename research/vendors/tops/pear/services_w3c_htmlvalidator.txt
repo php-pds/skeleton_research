@@ -1,0 +1,8 @@
+Services/W3C/
+docs/examples/
+tests/
+.gitignore
+.travis.yml
+composer.json
+makepackage.php
+package.xml

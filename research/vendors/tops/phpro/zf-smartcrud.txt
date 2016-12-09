@@ -1,0 +1,14 @@
+assets/smartcrud/
+bin/
+config/
+spec/Phpro/SmartCrud/
+src/Phpro/SmartCrud/
+view/
+.gitignore
+.php_cs
+.travis.yml
+LICENSE.txt
+Module.php
+README.md
+build.xml
+composer.json

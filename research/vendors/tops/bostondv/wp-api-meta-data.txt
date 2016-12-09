@@ -1,0 +1,4 @@
+LICENSE.md
+README.md
+composer.json
+wp-api-meta-data.php

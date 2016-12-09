@@ -1,0 +1,9 @@
+src/Snappy/Apps/HighRise/
+tests/
+.gitignore
+.travis.yml
+composer.json
+highrise.png
+phpunit.xml
+readme.md
+ui-test.php

@@ -1,0 +1,5 @@
+components/
+AssetsAutoCompressComponent.php
+CHANGELOG.md
+README.md
+composer.json

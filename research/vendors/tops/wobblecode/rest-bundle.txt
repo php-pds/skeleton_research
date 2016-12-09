@@ -1,0 +1,16 @@
+Configuration/
+DependencyInjection/
+EventListener/
+Exception/
+Mapper/
+Request/ParamConverter/
+Resources/
+Tests/
+.gitignore
+.travis.yml
+LICENSE-MIT
+README.md
+WobbleCodeRestBundle.php
+composer.json
+composer.lock
+phpunit.xml.dist

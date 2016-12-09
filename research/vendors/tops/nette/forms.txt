@@ -1,0 +1,11 @@
+examples/
+src/
+tests/
+.gitattributes
+.gitignore
+.travis.yml
+bower.json
+composer.json
+contributing.md
+license.md
+readme.md

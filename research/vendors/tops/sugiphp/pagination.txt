@@ -1,0 +1,9 @@
+examples/
+tests/
+.gitignore
+.travis.yml
+Exception.php
+Pagination.php
+README.md
+composer.json
+phpunit.xml

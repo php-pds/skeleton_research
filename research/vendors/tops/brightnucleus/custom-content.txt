@@ -1,0 +1,12 @@
+config/
+languages/
+src/
+tests/
+.gitignore
+CHANGELOG.md
+LICENSE
+README.md
+bootstrap.php
+composer.json
+composer.lock
+phpunit.xml

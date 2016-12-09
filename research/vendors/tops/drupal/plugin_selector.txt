@@ -1,0 +1,11 @@
+config/schema/
+modules/plugin_selector_test/
+src/
+tests/src/Unit/Plugin/
+.travis.yml
+PLUGINS.md
+README.md
+composer.json
+phpunit.xml.dist
+plugin_selector.info.yml
+plugin_selector.services.yml

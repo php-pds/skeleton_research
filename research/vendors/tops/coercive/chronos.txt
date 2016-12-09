@@ -1,0 +1,6 @@
+.gitignore
+CHANGELOG.md
+Chronos.php
+LICENSE.txt
+README.md
+composer.json

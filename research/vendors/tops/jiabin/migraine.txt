@@ -1,0 +1,11 @@
+bin/
+migrations/
+res/
+src/Migraine/
+.gitignore
+LICENSE
+README.md
+box.json.dist
+build.php
+composer.json
+migraine.yml.dist

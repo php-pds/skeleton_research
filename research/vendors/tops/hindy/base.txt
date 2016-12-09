@@ -1,0 +1,4 @@
+src/Mindy/Base/
+tests/
+.gitignore
+composer.json

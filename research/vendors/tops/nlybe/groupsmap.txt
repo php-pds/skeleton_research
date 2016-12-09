@@ -1,0 +1,11 @@
+actions/groupsmap/
+graphics/
+languages/
+lib/
+views/default/
+CHANGES.txt
+README.md
+composer.json
+manifest.xml
+start.php
+views.php

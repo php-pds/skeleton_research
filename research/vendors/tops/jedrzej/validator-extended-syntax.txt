@@ -1,0 +1,8 @@
+src/Jedrzej/Validation/
+tests/
+.gitignore
+.scrutinizer.yml
+LICENSE
+README.md
+codeception.yml
+composer.json

@@ -1,0 +1,12 @@
+config/
+lang/
+migrations/
+src/
+vendorupload/
+views/
+.gitattributes
+.gitignore
+LICENSE
+README.md
+composer.json
+routes.php

@@ -1,0 +1,4 @@
+src/Mindweb/Config/
+.gitignore
+composer.json
+composer.lock

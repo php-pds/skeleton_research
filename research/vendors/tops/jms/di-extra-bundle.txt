@@ -1,0 +1,17 @@
+Annotation/
+Config/
+DependencyInjection/
+Exception/
+Finder/
+Generator/
+HttpKernel/
+Metadata/
+Resources/
+Tests/
+.gitignore
+.travis.yml
+CHANGELOG.md
+JMSDiExtraBundle.php
+README.md
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,12 @@
+actions/
+includes/
+locales/
+model/
+scripts/
+test/
+views/
+.gitignore
+LICENSE
+README.md
+composer.json
+manifest.php

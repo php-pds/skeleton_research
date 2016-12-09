@@ -1,0 +1,12 @@
+.github/
+.editorconfig
+.gitignore
+.travis.yml
+codesniffer.ruleset.xml
+composer.json
+composer.lock
+index.php
+licence
+readme.md
+screenshot.png
+style.css

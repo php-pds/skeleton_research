@@ -1,0 +1,16 @@
+build/
+demos/
+external/
+tests/
+themes/base/
+ui/
+.editorconfig
+.gitignore
+.jshintrc
+AUTHORS.txt
+MIT-LICENSE.txt
+README.md
+composer.json
+grunt.js
+jquery-1.8.2.js
+package.json

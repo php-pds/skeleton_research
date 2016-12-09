@@ -1,0 +1,5 @@
+examples/
+src/VersionManager/
+.gitignore
+README.md
+composer.json

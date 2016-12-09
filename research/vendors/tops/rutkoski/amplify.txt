@@ -1,0 +1,7 @@
+assets/
+classes/Amplify/
+templates/amplify/
+.gitignore
+README.md
+autoload.php
+composer.json

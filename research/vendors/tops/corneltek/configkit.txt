@@ -1,0 +1,12 @@
+bin/
+src/ConfigKit/
+tests/
+travis/
+.travis.yml
+README.md
+composer.json
+package.ini
+package.xml
+phprelease.ini
+phpunit.xml
+phpunit.xml.dist

@@ -1,0 +1,10 @@
+config/
+nbproject/
+src/CdiDataGrid/
+view/
+.gitignore
+Module.php
+README.md
+composer.json
+composer.phar
+init_autoloader.php

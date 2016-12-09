@@ -1,0 +1,11 @@
+Exception/
+Rule/
+demo/
+.gitignore
+ErrorStore.php
+FileInfo.php
+MimeTypeStore.php
+README.md
+Registry.php
+RuleFactory.php
+composer.json

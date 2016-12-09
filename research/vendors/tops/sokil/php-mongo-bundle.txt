@@ -1,0 +1,5 @@
+src/Sokil/Mongo/MongoBundle/
+.gitignore
+LICENSE
+README.md
+composer.json

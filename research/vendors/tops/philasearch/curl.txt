@@ -1,0 +1,9 @@
+lib/Philasearch/Curl/
+tests/
+.gitignore
+.travis.yml
+Gemfile
+Gemfile.lock
+Guardfile
+composer.json
+phpunit.xml

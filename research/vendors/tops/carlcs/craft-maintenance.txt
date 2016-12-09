@@ -1,0 +1,16 @@
+controllers/
+models/
+records/
+resources/
+services/
+templates/
+translations/
+twigextensions/
+variables/
+widgets/
+.gitignore
+MaintenancePlugin.php
+composer.json
+config.php
+readme.md
+releases.json

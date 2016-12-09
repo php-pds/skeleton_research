@@ -1,0 +1,7 @@
+assets/hd-doctrine-config/
+config/
+src/HD/Doctrine/Config/
+LICENSE
+Module.php
+README.md
+composer.json

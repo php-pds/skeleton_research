@@ -1,0 +1,14 @@
+CmsModule/
+Resources/
+static/
+tests/
+vendor/
+.gitattributes
+.gitignore
+.travis.yml
+Module.php
+assets.json
+composer.json
+license.md
+readme.md
+static.json

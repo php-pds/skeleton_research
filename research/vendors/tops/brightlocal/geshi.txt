@@ -1,0 +1,6 @@
+src/
+.gitignore
+README.md
+build.properties.dist
+build.xml
+composer.json

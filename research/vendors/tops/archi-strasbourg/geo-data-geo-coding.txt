@@ -1,0 +1,6 @@
+.gitignore
+GeoCoding.i18n.magic.php
+GeoCoding.php
+composer.json
+composer.lock
+extension.json

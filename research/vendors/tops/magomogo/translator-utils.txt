@@ -1,0 +1,7 @@
+class/Translator/
+tests/
+.gitignore
+.travis.yml
+README.md
+composer.json
+package.json

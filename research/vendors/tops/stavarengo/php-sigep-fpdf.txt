@@ -1,0 +1,14 @@
+doc/
+font/
+makefont/
+tutorial/
+.gitignore
+FAQ.htm
+PhpSigepFPDF.php
+README.md
+changelog.htm
+composer.json
+fpdf.css
+fpdf.php
+install.txt
+license.txt

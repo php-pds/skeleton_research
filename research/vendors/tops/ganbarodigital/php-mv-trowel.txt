@@ -1,0 +1,6 @@
+src/V1/AppLogger/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE.md
+composer.json

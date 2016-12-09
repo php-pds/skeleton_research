@@ -1,0 +1,17 @@
+app/
+bin/
+cache/
+src/
+vagrant/
+web/
+.gitignore
+.gitmodules
+.travis.yml
+LICENSE
+README-symfony-standard.md
+README.md
+UPGRADE-2.2.md
+UPGRADE-2.3.md
+UPGRADE.md
+composer.json
+composer.lock

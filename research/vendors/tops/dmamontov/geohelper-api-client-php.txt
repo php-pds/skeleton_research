@@ -1,0 +1,4 @@
+lib/Geohelper/
+LICENSE
+README.md
+composer.json

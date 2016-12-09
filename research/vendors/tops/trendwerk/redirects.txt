@@ -1,0 +1,5 @@
+assets/
+LICENSE
+README.md
+class-tp-redirects.php
+composer.json

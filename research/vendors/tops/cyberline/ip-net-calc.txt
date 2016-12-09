@@ -1,0 +1,10 @@
+src/
+tests/
+.scrutinizer.yml
+.travis.yml
+README.md
+build.xml
+composer.json
+example.php
+phpmd.xml
+phpunit.xml

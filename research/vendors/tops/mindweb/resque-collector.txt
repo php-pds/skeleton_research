@@ -1,0 +1,4 @@
+src/Mindweb/ResqueCollector/
+.gitignore
+composer.json
+composer.lock

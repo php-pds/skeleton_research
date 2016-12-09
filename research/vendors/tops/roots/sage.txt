@@ -1,0 +1,6 @@
+config/
+www/
+.gitignore
+README.md
+composer.json
+example.sql

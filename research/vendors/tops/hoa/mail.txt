@@ -1,0 +1,11 @@
+Content/
+Exception/
+Inbox/
+Test/Unit/Content/
+Transport/
+.State
+.gitignore
+CHANGELOG.md
+Message.php
+README.md
+composer.json

@@ -1,0 +1,9 @@
+Component/
+DependencyInjection/
+Loader/
+Resources/config/
+Service/
+.gitignore
+BWCComponentFiriBundle.php
+Firi.php
+composer.json

@@ -1,0 +1,9 @@
+config/
+controller/
+install/
+locales/en-US/
+model/
+scripts/update/
+views/
+composer.json
+manifest.php

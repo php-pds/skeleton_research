@@ -1,0 +1,4 @@
+src/LaravelUtils/Database/Eloquent/
+.gitattributes
+.gitignore
+composer.json

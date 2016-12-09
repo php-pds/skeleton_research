@@ -1,0 +1,6 @@
+DependencyInjection/
+Resources/
+.gitignore
+ClarityYandexMoneyBundle.php
+README.md
+composer.json

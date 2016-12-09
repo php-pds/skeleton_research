@@ -1,0 +1,9 @@
+Auth/
+DependencyInjection/
+Form/
+Resources/config/
+Twig/
+.gitignore
+README.md
+composer.json
+mikemeierEasyAuthBundle.php

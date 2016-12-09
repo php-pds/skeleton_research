@@ -1,0 +1,12 @@
+docs/
+src/Ushios/Shape/
+tests/Ushios/Shape/
+.coverall.yml
+.gitignore
+.php_cs
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpdoc.xml
+phpunit.xml

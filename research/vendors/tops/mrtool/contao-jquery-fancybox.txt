@@ -1,0 +1,6 @@
+assets/jquery/fancybox/2.1.5/
+contao/
+system/modules/jqueryFancybox/
+LICENSE
+README.md
+composer.json

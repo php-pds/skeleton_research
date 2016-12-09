@@ -1,0 +1,7 @@
+partials/
+src/
+.gitignore
+LICENSE
+README.md
+cache-manager.php
+composer.json

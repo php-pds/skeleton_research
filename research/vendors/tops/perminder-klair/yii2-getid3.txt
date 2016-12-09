@@ -1,0 +1,3 @@
+README.md
+Yii2GetID3.php
+composer.json

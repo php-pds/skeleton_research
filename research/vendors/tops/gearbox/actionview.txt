@@ -1,0 +1,5 @@
+examples/app/views/
+lib/
+README.md
+build.php
+composer.json

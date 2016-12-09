@@ -1,0 +1,6 @@
+bin/
+src/Soy/
+.gitignore
+LICENSE
+README.md
+composer.json

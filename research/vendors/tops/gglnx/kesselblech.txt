@@ -1,0 +1,15 @@
+logs/
+public/
+theme/
+.bowerrc
+.editorconfig
+.env.example
+.gitattributes
+.gitignore
+Gruntfile.js
+LICENSE
+README.md
+bower.json
+composer.json
+package.json
+wp-cli.yml

@@ -1,0 +1,7 @@
+designs/
+.gitignore
+LICENCE
+README.md
+bootstrap.php
+composer.json
+phpunit.dist.xml

@@ -1,0 +1,6 @@
+crud/
+extension/
+model/
+module/
+README.md
+composer.json

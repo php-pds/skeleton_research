@@ -1,0 +1,14 @@
+Controller/
+DependencyInjection/
+Doctrine/ODM/Phpcr/
+EventListener/
+Form/
+Gedmo/References/
+Meta/
+Model/
+Resources/
+Twig/
+.gitignore
+README.md
+ToroMediaBundle.php
+composer.json

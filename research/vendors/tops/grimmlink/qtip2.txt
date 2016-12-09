@@ -1,0 +1,10 @@
+dist/
+grunt/
+src/
+Gruntfile.js
+LICENSE
+README.md
+bower.json
+composer.json
+generate-bower.json.js
+package.json

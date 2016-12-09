@@ -1,0 +1,9 @@
+source/
+tests/
+.gitignore
+.travis.yml
+CONTRIBUTING.md
+README.md
+composer.json
+frontend-flow.png
+git_contributor-activity.png

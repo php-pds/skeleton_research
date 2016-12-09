@@ -1,0 +1,10 @@
+app/
+docker/
+public/
+.gitignore
+Erdiko.php
+LICENSE
+README.md
+composer.json
+docker-compose.travis.yml
+docker-compose.yml

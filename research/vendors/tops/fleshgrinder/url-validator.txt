@@ -1,0 +1,8 @@
+src/Fleshgrinder/Validator/
+test/Fleshgrinder/Validator/
+.gitattributes
+.gitignore
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

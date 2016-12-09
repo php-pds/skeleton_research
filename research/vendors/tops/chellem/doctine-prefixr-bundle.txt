@@ -1,0 +1,11 @@
+DependencyInjection/
+EventListener/
+Model/
+Resources/config/
+Tests/
+.travis.yml
+DoctrinePrefixrBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

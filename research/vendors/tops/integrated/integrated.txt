@@ -1,0 +1,15 @@
+app/
+conf.d/
+puphpet/
+src/AppBundle/
+vagrant/puppet/
+web/
+.gitignore
+LICENSE
+README.md
+Vagrantfile
+changelog.md
+composer.json
+composer.lock
+crontab
+upgrade.md

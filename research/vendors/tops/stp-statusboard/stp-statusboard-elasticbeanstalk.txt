@@ -1,0 +1,7 @@
+assets/
+src/StpBoard/ElasticBeanstalk/
+.gitignore
+README.md
+bower.json
+composer.json
+composer.lock

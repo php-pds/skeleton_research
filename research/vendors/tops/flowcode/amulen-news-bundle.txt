@@ -1,0 +1,5 @@
+nbproject/
+src/Flowcode/NewsBundle/
+.gitignore
+LICENSE
+composer.json

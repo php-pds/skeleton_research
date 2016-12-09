@@ -1,0 +1,16 @@
+Action/
+Config/
+Controller/
+Event/
+Form/
+Hook/
+I18n/
+Loop/
+Model/
+Tests/
+templates/backOffice/default/feature-type/
+CHANGELOG.md
+FeatureType.php
+LICENSE.txt
+Readme.md
+composer.json

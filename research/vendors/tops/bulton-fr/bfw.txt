@@ -1,0 +1,10 @@
+bin/
+install/skeleton/
+src/
+test/
+.atoum.php
+.atoum.treemap.php
+.travis.yml
+LICENSE.txt
+README.md
+composer.json

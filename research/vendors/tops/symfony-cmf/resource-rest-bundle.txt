@@ -1,0 +1,17 @@
+Controller/
+DependencyInjection/
+Enhancer/
+Registry/
+Resources/
+Serializer/Jms/
+Tests/
+.gitignore
+.styleci.yml
+.travis.yml
+CHANGELOG.md
+CONTRIBUTING.md
+CmfResourceRestBundle.php
+README.md
+behat.yml
+composer.json
+phpunit.xml.dist

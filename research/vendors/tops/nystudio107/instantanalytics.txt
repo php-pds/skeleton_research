@@ -1,0 +1,16 @@
+controllers/
+resources/
+services/
+src/
+templates/
+twigextensions/
+variables/
+vendor/
+.gitignore
+InstantAnalyticsPlugin.php
+LICENSE.txt
+README.md
+composer.json
+composer.lock
+config.php
+releases.json

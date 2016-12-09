@@ -1,0 +1,8 @@
+src/mpdf/
+.gitignore
+Gruntfile.coffee
+changelog.md
+composer.json
+license.md
+package.json
+readme.md

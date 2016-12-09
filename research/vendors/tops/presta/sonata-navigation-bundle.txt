@@ -1,0 +1,13 @@
+DependencyInjection/
+Event/
+Menu/
+Resources/config/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CHANGELOG.md
+CONTRIBUTING.md
+Makefile
+PrestaSonataNavigationBundle.php
+README.md
+composer.json

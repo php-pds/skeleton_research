@@ -1,0 +1,4 @@
+library/rampage/auth/
+tests/
+.gitignore
+composer.json

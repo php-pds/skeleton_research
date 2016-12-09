@@ -1,0 +1,9 @@
+BinaryDriver/
+DependencyInjection/
+Resources/config/
+Service/
+Tests/
+.gitignore
+README.md
+WebgriffePdfToTextBundle.php
+composer.json

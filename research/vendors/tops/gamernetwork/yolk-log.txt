@@ -1,0 +1,5 @@
+docs/yolk-log/
+src/
+LICENSE
+README.md
+composer.json

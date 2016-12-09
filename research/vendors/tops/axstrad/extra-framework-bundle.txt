@@ -1,0 +1,16 @@
+.idea/
+Configuration/
+DependencyInjection/
+Exception/
+Request/ParamConverter/
+Resources/config/
+Tests/
+build/
+.coveralls.yml
+.gitignore
+.travis.yml
+AxstradExtraFrameworkBundle.php
+LICENSE
+build.xml
+composer.json
+phpunit.xml.dist

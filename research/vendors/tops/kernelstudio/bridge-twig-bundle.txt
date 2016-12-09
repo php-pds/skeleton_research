@@ -1,0 +1,9 @@
+Extension/
+Resources/views/layout/
+.gitignore
+LICENSE
+README.md
+TwigBundle.php
+TwigEvents.php
+TwigTemplating.php
+composer.json

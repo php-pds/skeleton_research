@@ -1,0 +1,5 @@
+spec/Selector/
+src/
+.gitignore
+README.md
+composer.json

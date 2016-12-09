@@ -1,0 +1,6 @@
+CentralApps/Authentication/
+unit/
+.travis.yml
+README.md
+composer.json
+phpunit.xml

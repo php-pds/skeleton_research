@@ -1,0 +1,9 @@
+build/logs/
+logs/
+src/Hazbo/Moodswing/
+tests/
+.gitignore
+.travis.yml
+README.md
+build.xml
+composer.json

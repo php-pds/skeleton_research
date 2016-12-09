@@ -1,0 +1,3 @@
+conf/
+src/Search/Collection/Feed/
+composer.json

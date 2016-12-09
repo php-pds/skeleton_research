@@ -1,0 +1,10 @@
+build/
+src/Procrastinator/
+tests/Procrastinator/
+vendor/
+.gitignore
+.travis.yml
+README.md
+build.xml
+composer.json
+phpunit.xml.dist

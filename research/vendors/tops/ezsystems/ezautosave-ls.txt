@@ -1,0 +1,9 @@
+classes/
+design/
+settings/
+translations/
+CREDITS.txt
+LICENSE
+README.md
+composer.json
+extension.xml

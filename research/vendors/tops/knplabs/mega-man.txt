@@ -1,0 +1,9 @@
+fixtures/
+images/
+spec/Knp/MegaMAN/
+src/Knp/MegaMAN/
+.gitignore
+.travis.yml
+README.md
+composer.json
+phpspec.yml

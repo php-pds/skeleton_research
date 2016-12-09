@@ -1,0 +1,7 @@
+Controller/Component/
+Test/
+Vendor/
+.gitmodules
+LICENSE
+README.markdown
+composer.json

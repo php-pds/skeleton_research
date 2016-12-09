@@ -1,0 +1,10 @@
+src/KzykHys/ClassGenerator/
+test/KzykHys/ClassGenerator/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+php-cg
+phpunit.xml

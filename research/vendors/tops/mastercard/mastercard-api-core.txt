@@ -1,0 +1,10 @@
+MasterCard/Core/
+Test/MasterCard/
+bin/
+.gitignore
+README
+composer
+composer.json
+mcapi_sandbox_key.p12
+phpunit.xml
+run-test

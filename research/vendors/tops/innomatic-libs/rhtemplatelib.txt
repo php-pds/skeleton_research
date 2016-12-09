@@ -1,0 +1,7 @@
+.settings/
+source/
+.buildpath
+.gitignore
+.project
+build.xml
+composer.json

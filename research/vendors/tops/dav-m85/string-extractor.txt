@@ -1,0 +1,6 @@
+tests/
+.gitignore
+Extractor.php
+LICENSE
+composer.json
+phpunit.xml

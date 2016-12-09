@@ -1,0 +1,8 @@
+src/Diggin/Bridge/Guzzle/AutoCharsetEncodingPlugin/
+README.md
+composer.json
+extrasetup.php
+package.xml
+package_compatible.xml
+packagexmlsetup.php
+stub.php

@@ -1,0 +1,11 @@
+Config/
+acesso/classes/
+arquivo/classes/
+index/classes/
+pasta/
+permission/classes/
+tests/
+.gitattributes
+.gitignore
+autoload.php
+composer.json

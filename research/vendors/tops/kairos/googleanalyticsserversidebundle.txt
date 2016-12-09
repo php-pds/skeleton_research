@@ -1,0 +1,14 @@
+DataCollector/
+DependencyInjection/
+Listener/
+Logger/
+Resources/
+Services/
+Tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+KairosGoogleAnalyticsServerSideBundle.php
+README.md
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,4 @@
+src/Entities/
+.gitignore
+README.md
+composer.json

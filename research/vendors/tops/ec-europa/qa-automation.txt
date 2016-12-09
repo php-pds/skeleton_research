@@ -1,0 +1,10 @@
+DrupalSecure/
+QualityAssurance/
+docs/
+QualityAssurancePlatformTask.php
+QualityAssuranceSubsiteTask.php
+QualityAssuranceTask.php
+README.md
+composer.json
+composer.lock
+phpunit.xml

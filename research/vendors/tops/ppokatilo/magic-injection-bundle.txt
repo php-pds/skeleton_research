@@ -1,0 +1,7 @@
+DependencyInjection/
+Resources/config/
+Service/
+LICENSE
+MagicInjectionBundle.php
+README.md
+composer.json

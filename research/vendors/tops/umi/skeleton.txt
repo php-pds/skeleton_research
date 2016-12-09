@@ -1,0 +1,13 @@
+application/
+configuration/
+public_html/
+tests/
+.gitignore
+.htaccess
+.travis.yml
+Bootstrap.php
+INSTALL.md
+LICENSE
+README.md
+composer.json
+init_autoloader.php

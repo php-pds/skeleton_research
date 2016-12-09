@@ -1,0 +1,14 @@
+config/
+data/
+public/
+vagrant/
+.DS_Store
+.gitignore
+LICENSE.txt
+README.md
+Vagrantfile
+composer.json
+composer.lock
+composer.phar
+index.php
+init_autoloader.php

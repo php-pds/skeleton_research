@@ -1,0 +1,13 @@
+bundle/Spec/CirclicalUser/
+config/
+src/CirclicalUser/
+view/user/
+.gitignore
+.travis.yml
+INSTALL_CUSTOM.md
+INSTALL_DOCTRINE.md
+LICENSE.md
+Module.php
+README.md
+composer.json
+phpspec.yml

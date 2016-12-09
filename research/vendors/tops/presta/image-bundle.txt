@@ -1,0 +1,11 @@
+Controller/
+DependencyInjection/
+Form/
+Model/
+Resources/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+PrestaImageBundle.php
+README.md
+composer.json

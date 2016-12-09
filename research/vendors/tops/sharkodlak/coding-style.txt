@@ -1,0 +1,7 @@
+PHP_CodeSniffer/Sharkodlak/
+phpmd/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json

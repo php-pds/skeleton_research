@@ -1,0 +1,4 @@
+app/
+htdocs/
+.gitignore
+composer.json

@@ -1,0 +1,7 @@
+Support/
+assets/js/
+JS.php
+README.md
+composer.json
+events.php
+functions.php

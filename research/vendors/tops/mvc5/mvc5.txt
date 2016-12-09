@@ -1,0 +1,10 @@
+config/
+src/
+view/
+.codeclimate.yml
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+composer.json
+init.php

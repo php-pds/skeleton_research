@@ -1,0 +1,6 @@
+src/Conpago/Auth/Contract/
+.gitignore
+.hgignore
+build.xml
+composer.json
+phpunit.xml

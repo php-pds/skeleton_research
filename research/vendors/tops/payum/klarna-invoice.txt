@@ -1,0 +1,13 @@
+Action/
+Request/Api/
+Resources/docs/
+Tests/
+.travis.yml
+CHANGELOG.md
+Config.php
+KlarnaInvoiceGatewayFactory.php
+LICENSE
+README.md
+UPGRADE.md
+composer.json
+phpunit.xml.dist

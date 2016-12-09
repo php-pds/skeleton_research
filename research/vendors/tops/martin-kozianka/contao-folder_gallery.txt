@@ -1,0 +1,5 @@
+contao/
+src/FolderGallery/
+.gitignore
+composer.json
+readme.md

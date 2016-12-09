@@ -1,0 +1,12 @@
+puphpet/
+sample/
+src/Bundler/
+tests/
+.gitattributes
+.gitignore
+README.md
+Vagrantfile
+apache-sample.config
+composer.json
+composer.lock
+phpunit.xml

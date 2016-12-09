@@ -1,0 +1,9 @@
+Store/
+docs/
+tests/
+Event.php
+LICENSE
+README.md
+Server.php
+composer.json
+phpunit.xml

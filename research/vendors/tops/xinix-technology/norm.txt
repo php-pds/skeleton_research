@@ -1,0 +1,10 @@
+docs/
+img/
+src/Norm/
+templates/_schema/
+test/Norm/Test/
+.gitignore
+LICENSE
+README.md
+composer.json
+phpunit.xml

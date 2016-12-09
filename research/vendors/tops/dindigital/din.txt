@@ -1,0 +1,6 @@
+library/Din/
+tests/library/Din/Upload/SimpleUpload/
+.gitignore
+README.md
+composer.json
+phpunit.xml

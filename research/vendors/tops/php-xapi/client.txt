@@ -1,0 +1,13 @@
+doc/
+spec/
+src/
+tests/Api/
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+UPGRADE.md
+composer.json
+phpspec.yml.dist
+phpunit.xml.dist

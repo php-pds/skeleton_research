@@ -1,0 +1,9 @@
+config/
+database/migrations/
+src/
+tests/
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml

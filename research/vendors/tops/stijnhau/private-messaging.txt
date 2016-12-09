@@ -1,0 +1,13 @@
+config/
+data/
+language/
+public/private-messaging/
+src/PrivateMessaging/
+tests/
+view/private-messaging/
+.gitignore
+.travis.yml
+LICENSE
+Module.php
+README.md
+composer.json

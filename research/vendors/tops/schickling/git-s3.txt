@@ -1,0 +1,11 @@
+bin/
+doc/
+src/GitS3/
+tests/
+.gitignore
+.gitmodules
+.travis.yml
+README.md
+composer.json
+config.yml
+phpunit.xml

@@ -1,0 +1,14 @@
+build/
+config/
+data/
+demos/GenericPortalAdapter/
+src/GDS/
+tests/
+vendor/
+.coveralls.yml
+.gitignore
+.travis.yml
+README.md
+composer.json
+composer.phar
+phpunit.xml.dist

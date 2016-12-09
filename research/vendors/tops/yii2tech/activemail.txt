@@ -1,0 +1,17 @@
+tests/
+views/
+.gitattributes
+.gitignore
+.travis.yml
+ActiveMessage.php
+ActiveMessageEvent.php
+LICENSE.md
+README.md
+TemplateModelFinder.php
+TemplateStorage.php
+TemplateStorageActiveRecord.php
+TemplateStorageDb.php
+TemplateStorageMongoDb.php
+TemplateStoragePhp.php
+composer.json
+phpunit.xml.dist

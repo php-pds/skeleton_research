@@ -1,0 +1,10 @@
+translations/
+CHANGELOG.txt
+Readme.md
+blockpaymentlogo.php
+blockpaymentlogo.tpl
+composer.json
+config.xml
+index.php
+logo.gif
+logo.png

@@ -1,0 +1,7 @@
+src/
+test/phpunit/Qafoo/PheanstalkCli/
+vagrant/
+.gitignore
+composer.json
+composer.lock
+phpunit.xml.dist

@@ -1,0 +1,11 @@
+src/tomzx/GoogleDocsToMarkdown/
+.gitattributes
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+export.php
+phpunit.xml.dist

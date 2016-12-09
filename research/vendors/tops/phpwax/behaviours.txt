@@ -1,0 +1,6 @@
+Tests/
+.gitignore
+Configurable.php
+Loggable.php
+composer.json
+phpunit.xml.dist

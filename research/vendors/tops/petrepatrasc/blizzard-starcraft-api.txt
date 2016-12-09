@@ -1,0 +1,15 @@
+DependencyInjection/
+Entity/
+Resources/
+Service/
+Tests/
+.coveralls.yml
+.gitignore
+.travis.yml
+BlizzardApiBundle.php
+LICENSE
+README.md
+composer.json
+composer.lock
+phpdoc.dist.xml
+phpunit.xml.dist

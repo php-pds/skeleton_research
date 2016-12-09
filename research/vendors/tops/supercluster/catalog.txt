@@ -1,0 +1,15 @@
+etc/
+src/
+tests/
+.gitattributes
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CHANGELOG.md
+CONTRIBUTING.md
+LICENSE.md
+README.md
+catalog-1.0.mwb
+composer.json
+phpunit.xml.dist
+supercluster.ini

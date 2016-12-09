@@ -1,0 +1,10 @@
+.gitignore
+ClientInterface.php
+LICENSE
+README.md
+RedirectInterface.php
+RequestInterface.php
+ResponseInterface.php
+ServerInterface.php
+UploadInterface.php
+composer.json

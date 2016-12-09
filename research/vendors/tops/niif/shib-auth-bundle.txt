@@ -1,0 +1,9 @@
+DependencyInjection/
+Resources/config/
+Security/
+Tests/Controller/
+.gitignore
+LICENSE
+NiifShibAuthBundle.php
+README.md
+composer.json

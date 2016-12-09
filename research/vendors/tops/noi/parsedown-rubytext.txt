@@ -1,0 +1,10 @@
+lib/
+tests/
+.gitignore
+LICENSE
+README-Aozora.md
+README-Pixiv.md
+README.en.md
+README.md
+composer.json
+phpunit.xml.dist

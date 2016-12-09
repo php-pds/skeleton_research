@@ -1,0 +1,11 @@
+bin/
+tests/
+.distignore
+.editorconfig
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist
+woocommerce-readonly-role.php

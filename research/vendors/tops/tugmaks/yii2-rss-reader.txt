@@ -1,0 +1,4 @@
+views/
+README.md
+RssReader.php
+composer.json

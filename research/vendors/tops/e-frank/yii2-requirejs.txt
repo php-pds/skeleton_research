@@ -1,0 +1,6 @@
+.gitattributes
+.gitignore
+README.md
+RequireAsset.php
+composer.json
+require.js

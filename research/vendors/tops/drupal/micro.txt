@@ -1,0 +1,14 @@
+config/
+src/
+templates/
+README.md
+composer.json
+micro.info.yml
+micro.links.action.yml
+micro.links.contextual.yml
+micro.links.menu.yml
+micro.links.task.yml
+micro.module
+micro.permissions.yml
+micro.routing.yml
+micro.services.yml

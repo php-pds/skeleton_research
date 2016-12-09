@@ -1,0 +1,5 @@
+src/Command/
+.gitignore
+MIT-LICENSE.txt
+README.md
+composer.json

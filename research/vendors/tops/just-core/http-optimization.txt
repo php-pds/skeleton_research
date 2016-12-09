@@ -1,0 +1,5 @@
+SERVICES/ASSETIC/
+.gitignore
+LICENSE
+README.md
+composer.json

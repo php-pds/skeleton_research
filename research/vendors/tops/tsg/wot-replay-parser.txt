@@ -1,0 +1,6 @@
+.gitignore
+README.md
+WoTReplayParser.php
+composer.json
+test.wotreplay
+wotreplayparser

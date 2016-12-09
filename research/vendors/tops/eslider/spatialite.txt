@@ -1,0 +1,6 @@
+bin/
+src/Eslider/
+tests/
+.gitignore
+composer.json
+readme.md

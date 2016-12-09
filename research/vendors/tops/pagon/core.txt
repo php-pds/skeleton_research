@@ -1,0 +1,6 @@
+config/
+lib/Pagon/
+.gitignore
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,8 @@
+config/
+src/Edge/
+tests/
+.gitignore
+LICENSE
+README.md
+circle.yml
+composer.json

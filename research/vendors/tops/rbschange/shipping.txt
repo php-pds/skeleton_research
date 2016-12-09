@@ -1,0 +1,12 @@
+actions/
+config/
+forms/editor/
+i18n/
+lib/
+patch/
+persistentdocument/
+setup/
+style/
+templates/
+LICENSE.txt
+change.xml

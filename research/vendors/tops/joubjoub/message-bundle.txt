@@ -1,0 +1,14 @@
+Controller/
+DependencyInjection/
+Entity/
+Form/
+Manager/
+Model/
+Resources/
+Security/
+Tests/Controller/
+JoubjoubMessageBundle.php
+LICENSE
+Message.php
+README.md
+composer.json

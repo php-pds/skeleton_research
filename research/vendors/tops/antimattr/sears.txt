@@ -1,0 +1,8 @@
+bin/
+src/AntiMattr/Sears/
+tests/AntiMattr/Tests/
+.gitignore
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

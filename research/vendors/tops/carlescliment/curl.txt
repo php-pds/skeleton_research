@@ -1,0 +1,7 @@
+src/shuber/Curl/
+tests/
+.gitignore
+MIT-LICENSE
+README.markdown
+composer.json
+phpunit.xml.dist

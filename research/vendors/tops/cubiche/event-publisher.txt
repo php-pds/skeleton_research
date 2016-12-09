@@ -1,0 +1,11 @@
+Tests/
+.atoum.php
+.atoum.travis.php
+.bootstrap.atoum.php
+.travis.yml
+DomainEvent.php
+DomainEventInterface.php
+DomainEventPublisher.php
+DomainEventSubscriberInterface.php
+README.md
+composer.json

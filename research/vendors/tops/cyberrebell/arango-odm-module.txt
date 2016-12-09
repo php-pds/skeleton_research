@@ -1,0 +1,6 @@
+config/
+src/ArangoOdmModule/
+.gitignore
+LICENSE
+README.md
+composer.json

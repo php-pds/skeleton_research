@@ -1,0 +1,15 @@
+config/
+src/
+tests/
+.dunitconfig
+.gitattributes
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CONTRIBUTING.md
+LICENSE
+Makefile
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

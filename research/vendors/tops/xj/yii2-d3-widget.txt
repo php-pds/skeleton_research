@@ -1,0 +1,3 @@
+D3Asset.php
+README.md
+composer.json

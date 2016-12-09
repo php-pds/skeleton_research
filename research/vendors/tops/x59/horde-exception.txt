@@ -1,0 +1,7 @@
+doc/Horde/Exception/
+lib/Horde/
+locale/
+test/Horde/Exception/
+.gitignore
+composer.json
+package.xml

@@ -1,0 +1,15 @@
+bin/
+docs/
+lib/
+tests/
+.coveralls.yml
+.gitignore
+.travis.yml
+LICENSE
+README.md
+bootstrap.php
+composer.json
+package.boot.php
+phpunit.xml.dist
+ubiquitous-language.md
+webforge-testdata-repository.sublime-project

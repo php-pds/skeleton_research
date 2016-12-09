@@ -1,0 +1,8 @@
+config/
+src/JVPhpThumb/
+.gitattributes
+.gitignore
+LICENSE
+Module.php
+README.md
+composer.json

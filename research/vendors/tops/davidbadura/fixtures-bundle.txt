@@ -1,0 +1,13 @@
+Command/
+DependencyInjection/
+EventListener/
+Resources/
+Tests/
+.gitignore
+.travis.yml
+DavidBaduraFixturesBundle.php
+Factory.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

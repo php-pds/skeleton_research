@@ -1,0 +1,6 @@
+.gitignore
+CONTRIBUTING.md
+ExtensionsList.php
+LICENSE
+README.md
+composer.json

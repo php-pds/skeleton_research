@@ -1,0 +1,11 @@
+sample-project/
+src/Uploadcare/
+tests/
+.gitignore
+.travis.yml
+AUTHORS.txt
+LICENSE
+README.md
+changelog.md
+composer.json
+phpunit.xml.dist

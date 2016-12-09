@@ -1,0 +1,11 @@
+config/
+src/Server/
+tests/
+view/zfr-oauth2-server/authorization/
+.gitignore
+.travis.yml
+LICENSE
+Module.php
+README.md
+composer.json
+phpunit.xml.dist

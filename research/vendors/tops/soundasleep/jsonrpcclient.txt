@@ -1,0 +1,6 @@
+htdocs/
+includes/
+.editorconfig
+COPYING.md
+README.md
+composer.json

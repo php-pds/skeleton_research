@@ -1,0 +1,10 @@
+install/
+lang/ru/install/
+lib/Citfact/Pjax/
+tests/
+.php_cs
+LICENSE
+README.md
+composer.json
+include.php
+phpunit.xml.dist

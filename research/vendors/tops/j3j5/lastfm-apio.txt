@@ -1,0 +1,10 @@
+src/j3j5/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+coverage-checker.php
+phpunit.xml

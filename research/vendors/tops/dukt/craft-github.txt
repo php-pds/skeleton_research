@@ -1,0 +1,7 @@
+providers/
+resources/
+vendor/
+.gitignore
+GithubPlugin.php
+README.md
+composer.json

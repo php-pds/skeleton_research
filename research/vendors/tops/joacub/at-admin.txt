@@ -1,0 +1,8 @@
+config/
+public/
+src/AtAdmin/
+view/
+Module.php
+README.md
+autoload_classmap.php
+composer.json

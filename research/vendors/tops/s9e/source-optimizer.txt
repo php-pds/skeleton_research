@@ -1,0 +1,12 @@
+bin/
+scripts/
+src/
+tests/
+.codeclimate.yml
+.coveralls.yml
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml

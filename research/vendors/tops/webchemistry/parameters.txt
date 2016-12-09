@@ -1,0 +1,9 @@
+examples/Entity/
+src/
+tests/
+.gitignore
+.travis.yml
+README.md
+codeception.yml
+composer.json
+parameter.sql

@@ -1,0 +1,10 @@
+Api/
+Controller/
+DependencyInjection/
+Exception/
+Factory/
+Logger/
+Model/
+Resources/
+GliferyVkApiBundle.php
+composer.json

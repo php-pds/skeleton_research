@@ -1,0 +1,12 @@
+contao/
+runonce/
+src/Bit3/Contao/Merger2/
+tests/
+.check-author.yml
+.gitignore
+.travis.yml
+build.default.properties
+build.xml
+composer.json
+composer.lock
+phpunit.xml.dist

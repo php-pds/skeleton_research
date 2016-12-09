@@ -1,0 +1,5 @@
+src/Erpk/Api/
+tests/
+.gitignore
+README.md
+composer.json

@@ -1,0 +1,10 @@
+tests/
+wp-multi-network/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist
+readme.txt
+wpmn-loader.php

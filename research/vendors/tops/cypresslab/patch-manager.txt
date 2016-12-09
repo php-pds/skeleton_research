@@ -1,0 +1,12 @@
+examples/
+src/PatchManager/
+tests/PatchManager/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+Gulpfile.coffee
+README.md
+circle.yml
+composer.json
+composer.lock
+phpunit.xml.dist

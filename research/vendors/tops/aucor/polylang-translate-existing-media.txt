@@ -1,0 +1,5 @@
+.gitignore
+composer.json
+index.php
+polylang-translate-existing-media.php
+readme.md

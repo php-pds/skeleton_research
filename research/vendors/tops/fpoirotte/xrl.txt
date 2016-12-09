@@ -1,0 +1,17 @@
+bin/
+data/
+docs/
+phing/
+src/
+tests/
+.coveralls.yml
+.gitignore
+.travis.yml
+Doxyfile
+LICENSE
+README.rst
+build.xml
+composer.json
+composer.lock
+phpcs.xml
+phpunit.xml

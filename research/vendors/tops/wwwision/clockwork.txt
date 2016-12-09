@@ -1,0 +1,6 @@
+Classes/
+Configuration/
+LICENSE
+README.md
+Screenshot.png
+composer.json

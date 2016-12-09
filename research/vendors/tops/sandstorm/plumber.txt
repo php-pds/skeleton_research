@@ -1,0 +1,7 @@
+Classes/Sandstorm/Plumber/
+Configuration/
+Documentation/
+Resources/
+.gitmodules
+README.md
+composer.json

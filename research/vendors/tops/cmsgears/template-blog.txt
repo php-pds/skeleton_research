@@ -1,0 +1,16 @@
+backend/
+common/config/
+console/
+environments/
+frontend/
+themes/
+uploads/
+.gitignore
+.htaccess
+.project
+LICENSE
+README.md
+composer.json
+init.php
+requirements.php
+yii

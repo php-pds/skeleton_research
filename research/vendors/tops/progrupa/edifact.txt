@@ -1,0 +1,8 @@
+src/EDI/
+tests/
+CONTRIBUTORS.md
+EXAMPLES.md
+LICENSE
+README.md
+composer.json
+phpunit.xml

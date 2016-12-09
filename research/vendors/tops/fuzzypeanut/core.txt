@@ -1,0 +1,6 @@
+fuzzypeanut/src/
+src/
+.gitignore
+FuzzyPeanut.php
+composer.json
+core.php

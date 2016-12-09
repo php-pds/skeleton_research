@@ -1,0 +1,7 @@
+build/
+example/
+src/
+.gitignore
+README.md
+build.php
+composer.json

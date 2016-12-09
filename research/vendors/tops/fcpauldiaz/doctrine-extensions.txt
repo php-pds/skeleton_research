@@ -1,0 +1,15 @@
+doc/
+example/
+lib/Gedmo/
+schemas/orm/
+tests/
+.gitattributes
+.gitignore
+.travis.yml
+LICENSE
+Makefile
+README.md
+UPGRADE-3.0.md
+composer.json
+composer7.json
+couscous.yml

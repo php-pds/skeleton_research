@@ -1,0 +1,3 @@
+src/Erliz/SilexCommonBundle/
+.gitignore
+composer.json

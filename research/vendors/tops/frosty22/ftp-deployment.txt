@@ -1,0 +1,3 @@
+src/FtpDeployment/
+README.md
+composer.json

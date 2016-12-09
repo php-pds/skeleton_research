@@ -1,0 +1,8 @@
+providers/oauth/
+resources/
+subscribers/
+vendor/
+.gitignore
+README.md
+SlackPlugin.php
+composer.json

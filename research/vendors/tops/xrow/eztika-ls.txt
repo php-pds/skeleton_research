@@ -1,0 +1,14 @@
+ant/
+bin/
+classes/datatypes/ezbinaryfile/plugins/
+settings/
+share/
+CHANGELOG.txt
+INSTALL
+INSTALL.txt
+LICENSE
+README
+RELEASES.txt
+composer.json
+extension.xml
+ezinfo.php

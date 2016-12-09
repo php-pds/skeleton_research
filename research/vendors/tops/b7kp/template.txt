@@ -1,0 +1,8 @@
+src/
+templates/
+tests/
+twig/
+.gitattributes
+.gitignore
+composer.json
+composer.lock

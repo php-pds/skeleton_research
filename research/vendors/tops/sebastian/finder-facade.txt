@@ -1,0 +1,8 @@
+src/
+tests/
+.gitattributes
+.gitignore
+LICENSE
+README.md
+build.xml
+composer.json

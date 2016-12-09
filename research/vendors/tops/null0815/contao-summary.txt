@@ -1,0 +1,11 @@
+assets/
+config/
+dca/
+languages/
+src/
+templates/
+LICENSE.md
+README.md
+composer.json
+picture.jpg
+settings.png

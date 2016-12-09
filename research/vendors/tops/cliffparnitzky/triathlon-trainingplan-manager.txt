@@ -1,0 +1,6 @@
+system/modules/TriathlonTrainingplanManager/
+.gitattributes
+.gitignore
+README.md
+composer.json
+screenshot.jpg

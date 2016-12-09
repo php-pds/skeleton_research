@@ -1,0 +1,6 @@
+assets/
+LICENSE
+README.md
+Typeahead.php
+TypeaheadPlugin.php
+composer.json

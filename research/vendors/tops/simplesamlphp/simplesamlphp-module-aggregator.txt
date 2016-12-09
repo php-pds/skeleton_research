@@ -1,0 +1,11 @@
+bin/
+config-templates/
+dictionaries/
+hooks/
+lib/
+templates/
+www/
+LICENSE
+README.md
+composer.json
+default-enable

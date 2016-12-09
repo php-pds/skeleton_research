@@ -1,0 +1,13 @@
+config/
+src/
+test/
+view/
+.coveralls.yml
+.gitignore
+.travis.yml
+CONTRIBUTING.md
+LICENSE.md
+Module.php
+README.md
+composer.json
+phpunit.xml

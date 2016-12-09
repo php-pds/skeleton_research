@@ -1,0 +1,11 @@
+src/SAML2/
+tests/
+tools/
+.coveralls.yml
+.gitignore
+.travis.yml
+LICENSE
+README-DEV.md
+README.md
+build.xml
+composer.json

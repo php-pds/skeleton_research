@@ -1,0 +1,10 @@
+App/
+bootstrap/
+db/migrations/
+public/
+templates/
+.env.example
+LICENSE
+README.md
+composer.json
+phinx.yml.example

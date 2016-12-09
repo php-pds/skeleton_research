@@ -1,0 +1,9 @@
+docs/model/
+src/SkyHub/
+tests/
+.gitignore
+.travis.yml
+README.md
+composer.json
+contributors.txt
+phpunit.xml

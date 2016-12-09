@@ -1,0 +1,6 @@
+assets/
+LICENSE
+README.md
+class-tp-events.php
+composer.json
+composer.lock

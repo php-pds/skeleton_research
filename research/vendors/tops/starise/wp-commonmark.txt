@@ -1,0 +1,10 @@
+assets/
+lib/
+.gitignore
+CHANGELOG.md
+LICENSE
+README.md
+composer.json
+composer.lock
+screenshot-1.png
+wp-commonmark.php

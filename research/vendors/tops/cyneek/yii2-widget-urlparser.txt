@@ -1,0 +1,8 @@
+assets/js/
+validators/
+.gitignore
+README.md
+README_Spanish.md
+UrlParser.php
+UrlParserAsset.php
+composer.json

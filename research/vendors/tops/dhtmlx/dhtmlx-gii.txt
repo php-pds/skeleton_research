@@ -1,0 +1,4 @@
+generators/
+.gitignore
+composer.json
+readme.md

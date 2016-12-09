@@ -1,0 +1,13 @@
+.idea/
+examples/
+BladeOne.php
+BladeOneCache.md
+BladeOneCache.php
+BladeOneHtml.md
+BladeOneHtml.php
+BladeOneHtmlBootstrap.php
+BladeOneLogic.md
+BladeOneLogic.php
+LICENSE
+README.md
+composer.json

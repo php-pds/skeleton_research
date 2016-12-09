@@ -1,0 +1,4 @@
+src/GroundSix/Config/
+LICENSE
+README.md
+composer.json

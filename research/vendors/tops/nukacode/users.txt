@@ -1,0 +1,10 @@
+docs/1-Getting Started/
+src/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+admin.json
+composer.json
+composer.lock
+readme.md

@@ -1,0 +1,8 @@
+definitions/
+validators/
+.gitignore
+BBCodeBehavior.php
+LICENSE.md
+Parser.php
+README.md
+composer.json

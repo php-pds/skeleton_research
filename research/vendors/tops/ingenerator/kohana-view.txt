@@ -1,0 +1,14 @@
+classes/Ingenerator/KohanaView/
+config/
+tests/
+.gitattributes
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CHANGELOG.md
+LICENCE.md
+README.md
+UPGRADING-1.x-2.x.md
+composer.json
+koharness.php
+phpunit.xml

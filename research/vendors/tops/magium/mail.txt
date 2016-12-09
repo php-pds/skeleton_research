@@ -1,0 +1,6 @@
+lib/
+tests/
+LICENSE
+README.md
+composer.json
+registration.php

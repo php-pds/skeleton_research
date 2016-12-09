@@ -1,0 +1,5 @@
+src/RedCode/LinkedIn/
+.gitignore
+LICENSE
+README.md
+composer.json

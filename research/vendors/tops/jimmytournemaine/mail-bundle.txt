@@ -1,0 +1,15 @@
+Command/
+DependencyInjection/
+Doc/
+Event/
+EventListener/
+Exception/
+Mailer/
+PreMailer/
+Resources/
+Tests/Controller/
+JTMailBundle.php
+JTMailEvents.php
+LICENSE
+README.md
+composer.json

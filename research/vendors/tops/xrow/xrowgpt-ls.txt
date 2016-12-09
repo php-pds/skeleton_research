@@ -1,0 +1,8 @@
+autoloads/
+classes/
+design/
+modules/xrowgpt/
+settings/
+translations/ger-DE/
+README
+composer.json

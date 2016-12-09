@@ -1,0 +1,10 @@
+config/
+src/
+templates/
+tests/phpunit/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

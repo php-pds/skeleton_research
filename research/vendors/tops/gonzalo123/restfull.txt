@@ -1,0 +1,8 @@
+config/
+resources/Example/
+src/G/RestFull/Silex/
+.gitignore
+README.md
+composer.json
+composer.lock
+index.php

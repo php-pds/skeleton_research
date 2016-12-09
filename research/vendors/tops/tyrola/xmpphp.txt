@@ -1,0 +1,6 @@
+sample/
+src/BirknerAlex/XMPPHP/
+.gitignore
+LICENSE
+README.md
+composer.json

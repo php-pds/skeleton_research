@@ -1,0 +1,10 @@
+README.md
+bower.json
+build.log
+component.json
+composer.json
+layout.html
+package.json
+polymer.html
+polymer.js
+polymer.js.map

@@ -1,0 +1,10 @@
+config/
+src/BitWeb/CronModule/
+test/
+.gitignore
+.travis.yml
+LICENSE.md
+Module.php
+README.md
+composer.json
+composer.lock

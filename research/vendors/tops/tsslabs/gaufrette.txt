@@ -1,0 +1,11 @@
+bin/
+spec/Gaufrette/
+src/Gaufrette/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.markdown
+composer.json
+composer.lock
+phpunit.xml.dist

@@ -1,0 +1,3 @@
+Steevanb/Sniffs/
+README.md
+composer.json

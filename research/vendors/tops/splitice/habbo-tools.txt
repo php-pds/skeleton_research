@@ -1,0 +1,8 @@
+.settings/
+src/Splitice/Habbo/
+vendor/
+.buildpath
+.gitignore
+.project
+composer.json
+composer.phar

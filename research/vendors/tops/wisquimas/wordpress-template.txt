@@ -1,0 +1,14 @@
+assets/
+classes/
+procesos/
+templates/
+.gitignore
+404.php
+composer.json
+footer.php
+functions.php
+header.php
+index.php
+package.json
+page-testeo.php
+style.css

@@ -1,0 +1,8 @@
+config/
+l10n/
+manual/
+public/js/
+src/ride/web/
+README.md
+composer.json
+ride.json

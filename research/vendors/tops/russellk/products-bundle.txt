@@ -1,0 +1,8 @@
+DependencyInjection/
+Form/Type/
+Model/
+Repository/
+Resources/
+GofProductsBundle.php
+README.md
+composer.json

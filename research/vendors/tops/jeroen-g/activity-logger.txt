@@ -1,0 +1,11 @@
+migrations/
+src/
+tests/
+.gitattributes
+.gitignore
+.scrutinizer.yml
+changelog.md
+composer.json
+license.md
+phpunit.xml
+readme.md

@@ -1,0 +1,6 @@
+tests/
+.gitignore
+README.md
+Request.php
+composer.json
+phpunit.xml

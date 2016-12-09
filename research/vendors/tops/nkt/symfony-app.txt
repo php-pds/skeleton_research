@@ -1,0 +1,10 @@
+app/
+src/CoreBundle/
+vagrant/
+web/
+.editorconfig
+.gitignore
+LICENSE
+README.md
+Vagrantfile
+composer.json

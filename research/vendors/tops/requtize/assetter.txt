@@ -1,0 +1,7 @@
+demo/
+src/Assetter/
+tests/unit/
+LICENSE
+README.md
+composer.json
+phpunit.xml

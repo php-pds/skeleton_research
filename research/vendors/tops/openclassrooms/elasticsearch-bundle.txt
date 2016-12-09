@@ -1,0 +1,12 @@
+DependencyInjection/
+Resources/config/
+Services/
+Tests/
+.coveralls.yml
+.gitignore
+.travis.yml
+LICENSE.md
+OpenClassroomsElasticsearchBundle.php
+README.md
+composer.json
+phpunit.xml.dist

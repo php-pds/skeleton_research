@@ -1,0 +1,4 @@
+CloudsearchClient.php
+CloudsearchSearch.php
+README.md
+composer.json

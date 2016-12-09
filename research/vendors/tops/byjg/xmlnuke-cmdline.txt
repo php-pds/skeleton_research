@@ -1,0 +1,6 @@
+Scripts/
+nbproject/
+.gitignore
+README.md
+composer.json
+runxmlnuke.php

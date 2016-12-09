@@ -1,0 +1,9 @@
+Module/
+config/
+dca/
+languages/de/
+.gitignore
+.htaccess
+LICENSE.txt
+README.md
+composer.json

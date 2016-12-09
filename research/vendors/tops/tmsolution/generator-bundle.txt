@@ -1,0 +1,12 @@
+AbstractFixture/
+Command/
+Controller/
+DependencyInjection/
+Generator/
+Helper/
+Resources/
+Tests/
+PHPAnalyzer.php
+README.md
+TMSolutionGeneratorBundle.php
+composer.json

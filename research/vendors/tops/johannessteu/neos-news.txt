@@ -1,0 +1,6 @@
+Classes/JohannesSteu/Neos/News/Eel/FlowQueryOperations/
+Configuration/
+Documentation/
+Resources/Private/
+README.md
+composer.json

@@ -1,0 +1,7 @@
+controllers/
+lib/Manager/
+static/
+.gitignore
+README.md
+composer.json
+plugin.xml

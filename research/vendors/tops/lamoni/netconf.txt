@@ -1,0 +1,6 @@
+NetConfAuth/
+NetConfMessage/NetConfMessageRecv/
+LICENSE.md
+NetConf.php
+README.md
+composer.json

@@ -1,0 +1,6 @@
+examples/
+src/
+vendor/
+README.md
+composer.json
+composer.lock

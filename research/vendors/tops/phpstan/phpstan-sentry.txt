@@ -1,0 +1,10 @@
+src/Reflection/Sentry/
+tests/
+.gitattributes
+.gitignore
+README.md
+build.xml
+composer.json
+extension.neon
+phpstan.neon
+ruleset.xml

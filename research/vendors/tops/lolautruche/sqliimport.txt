@@ -1,0 +1,16 @@
+bin/php/
+classes/
+cronjobs/
+design/admin/
+doc/
+modules/sqliimport/
+settings/
+share/
+sql/
+stubs/
+translations/
+update/sql/mysql/
+.gitignore
+README.rst
+composer.json
+extension.xml

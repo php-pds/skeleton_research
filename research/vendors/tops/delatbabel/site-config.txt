@@ -1,0 +1,11 @@
+config/administrator/
+database/
+src/
+tests/
+.gitignore
+.styleci.yml
+LICENSE
+README.md
+composer.json
+makedoc.sh
+phpunit.xml

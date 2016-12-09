@@ -1,0 +1,7 @@
+Connector/
+Driver/
+Extension/
+.gitignore
+Platform.php
+SchemaManager.php
+composer.json

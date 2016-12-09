@@ -1,0 +1,17 @@
+config/
+data/cache/
+module/Application/
+node_modules/
+public/
+vendor/
+.gitignore
+.gitmodules
+LICENSE.txt
+README.md
+build.xml
+cli-config.php
+composer.json
+composer.phar
+gulpfile.js
+init_autoloader.php
+php.ini

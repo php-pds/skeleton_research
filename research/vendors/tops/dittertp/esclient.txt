@@ -1,0 +1,8 @@
+example/
+src/EsClient/
+.gitignore
+build.default.properties
+build.xml
+composer.json
+composer.lock
+phpcs.xml

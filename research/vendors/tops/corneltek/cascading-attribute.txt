@@ -1,0 +1,6 @@
+src/
+tests/
+composer.json
+package.ini
+package.xml
+phpunit.xml

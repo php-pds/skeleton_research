@@ -1,0 +1,6 @@
+bin/
+config/
+src/Application/Command/
+.gitignore
+README.md
+composer.json

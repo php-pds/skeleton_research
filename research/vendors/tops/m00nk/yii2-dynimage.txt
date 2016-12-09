@@ -1,0 +1,7 @@
+assets/
+controllers/
+DynImageAsset.php
+DynImageComponent.php
+LICENSE
+README.md
+composer.json

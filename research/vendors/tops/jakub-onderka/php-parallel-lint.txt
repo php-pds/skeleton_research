@@ -1,0 +1,13 @@
+bin/
+src/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+appveyor.yml
+box.json
+composer.json
+parallel-lint
+parallel-lint.php
+phpcs-ruleset.xml

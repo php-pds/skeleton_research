@@ -1,0 +1,5 @@
+src/Silicone/
+.gitignore
+LICENSE
+README.md
+composer.json

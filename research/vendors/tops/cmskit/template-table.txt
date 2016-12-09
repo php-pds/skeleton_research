@@ -1,0 +1,9 @@
+doc/en/
+img/
+js/
+.gitignore
+backend.php
+checkAccess.php
+composer.json
+crud.php
+readme.md

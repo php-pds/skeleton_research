@@ -1,0 +1,13 @@
+README.md
+bootstrap-chosen-variables.less
+bootstrap-chosen-variables.scss
+bootstrap-chosen.css
+bootstrap-chosen.less
+bootstrap-chosen.scss
+bower.json
+chosen-sprite.png
+chosen-sprite@2x.png
+chosen.jquery.js
+composer.json
+example.html
+example.png

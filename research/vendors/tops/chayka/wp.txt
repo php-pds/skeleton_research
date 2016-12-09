@@ -1,0 +1,6 @@
+docs/
+src/Chayka/WP/
+tests/Chayka/WP/
+.gitignore
+composer.json
+generate-docs.sh

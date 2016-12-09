@@ -1,0 +1,11 @@
+src/
+teamcity/
+.editorconfig
+.gitignore
+.htaccess
+README.md
+build.properties.default
+build.xml
+code-of-conduct.md
+composer.json
+composer.lock

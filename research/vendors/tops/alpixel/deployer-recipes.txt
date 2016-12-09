@@ -1,0 +1,6 @@
+LICENSE
+common.php
+composer.json
+symfony.php
+symfony_seo.php
+symfony_translations.php

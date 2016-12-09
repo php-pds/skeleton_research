@@ -1,0 +1,15 @@
+.github/
+app/
+resources/
+src/
+.editorconfig
+.gitignore
+README.md
+composer.json
+dev-server.js
+herbert.config.php
+package.json
+plugin.php
+stats.json
+webpack.config.js
+webpack.development.config.js

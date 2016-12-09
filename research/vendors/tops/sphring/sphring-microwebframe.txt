@@ -1,0 +1,12 @@
+app/
+config/
+sphring/
+src/Sphring/MicroWebFramework/
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+README.md
+composer.json
+index.php
+phpunit.xml.dist

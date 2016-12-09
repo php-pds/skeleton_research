@@ -1,0 +1,12 @@
+components/
+controllers/
+helpers/
+migrations/
+models/
+views/item/
+.gitignore
+EventBootstrap.php
+LICENSE
+Module.php
+README.md
+composer.json

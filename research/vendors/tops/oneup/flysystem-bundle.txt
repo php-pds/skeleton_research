@@ -1,0 +1,10 @@
+DependencyInjection/
+Resources/
+StreamWrapper/
+Tests/
+.gitignore
+.travis.yml
+OneupFlysystemBundle.php
+README.md
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,6 @@
+classes/
+config/
+views/
+.gitignore
+composer.json
+init.php

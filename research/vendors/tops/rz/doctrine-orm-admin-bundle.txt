@@ -1,0 +1,7 @@
+DependencyInjection/
+Filter/
+Resources/
+.DS_Store
+README.md
+RzDoctrineORMAdminBundle.php
+composer.json

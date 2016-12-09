@@ -1,0 +1,11 @@
+bin/
+bootstrap/
+src/
+test/
+.editorconfig
+.gitignore
+.travis.yml
+README.md
+composer.json
+docker-compose.yml
+phpunit.xml

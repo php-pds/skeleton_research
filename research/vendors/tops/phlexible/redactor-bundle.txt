@@ -1,0 +1,17 @@
+DependencyInjection/
+EventListener/
+Field/
+Resources/
+Tests/
+.codeclimate.yml
+.gitignore
+.scrutinizer.yml
+.styleci.yml
+.travis.yml
+LICENSE
+PhlexibleRedactorBundle.php
+composer.json
+phpmetrics.yml
+phpunit.xml.dist
+puli.json
+sami.php

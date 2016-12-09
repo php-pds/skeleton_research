@@ -1,0 +1,10 @@
+DependencyInjection/
+Manager/
+Resources/config/
+Tests/Manager/
+Twig/
+.gitignore
+README.rst
+ResponseFilter.php
+YllyAssetDependencyBundle.php
+composer.json

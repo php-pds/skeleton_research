@@ -1,0 +1,5 @@
+src/Protocol/
+tests/
+codeception.yml
+composer.json
+composer.lock

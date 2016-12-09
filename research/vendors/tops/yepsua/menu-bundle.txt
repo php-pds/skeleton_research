@@ -1,0 +1,8 @@
+DependencyInjection/
+Event/
+Menu/
+Resources/config/
+LICENSE
+README.md
+YepsuaMenuBundle.php
+composer.json

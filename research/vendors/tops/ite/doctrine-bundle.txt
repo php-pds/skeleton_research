@@ -1,0 +1,10 @@
+Core/
+DependencyInjection/
+Query/
+Request/ParamConverter/
+Resources/
+Service/
+Types/
+Validator/Constraints/
+ITEDoctrineBundle.php
+composer.json

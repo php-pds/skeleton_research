@@ -1,0 +1,10 @@
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+AssetController.php
+LICENSE
+README.md
+codeception.yml
+composer.json
+composer.lock

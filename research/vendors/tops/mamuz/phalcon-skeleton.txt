@@ -1,0 +1,9 @@
+bin/
+config/
+public/
+src/Application/
+view/
+.gitattributes
+.gitignore
+README.md
+composer.json

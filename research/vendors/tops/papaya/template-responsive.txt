@@ -1,0 +1,7 @@
+_functions/
+_lang/
+feeds/
+google/
+html/
+composer.json
+info.xml

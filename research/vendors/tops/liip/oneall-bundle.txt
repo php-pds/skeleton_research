@@ -1,0 +1,12 @@
+DependencyInjection/
+Oneall/
+Resources/
+Security/
+Tests/
+Twig/Extension/
+.gitignore
+.travis.yml
+LiipOneallBundle.php
+README.md
+composer.json
+phpunit.xml.dist

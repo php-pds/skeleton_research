@@ -1,0 +1,5 @@
+src/JildertMiedema/WindowsPhone/
+.gitignore
+LICENSE
+README.md
+composer.json

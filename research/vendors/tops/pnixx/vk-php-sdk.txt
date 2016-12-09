@@ -1,0 +1,6 @@
+.gitignore
+LICENSE
+README.md
+composer.json
+vk.php
+vk_exception.php

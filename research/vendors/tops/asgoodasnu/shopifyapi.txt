@@ -1,0 +1,12 @@
+Controller/
+DependencyInjection/
+Lib/
+Model/
+Resources/config/
+Tests/Lib/
+.gitignore
+.travis.yml
+README.md
+WkShopifyApi.php
+composer.json
+phpunit.xml.dist

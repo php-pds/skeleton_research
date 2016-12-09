@@ -1,0 +1,14 @@
+.idea/
+Controller/
+DependencyInjection/
+Entity/
+EventListener/
+Resources/
+Service/
+Tests/Controller/
+Twig/
+.gitignore
+LICENSE
+README.md
+SopinetUserPreferencesBundle.php
+composer.json

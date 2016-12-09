@@ -1,0 +1,15 @@
+dist/
+docs/
+examples/
+src/
+.gitignore
+.hsdoc
+CHANGELOG.md
+CONTRIBUTING.md
+LICENSE
+README.md
+bower.json
+component.json
+composer.json
+gulpfile.js
+package.json

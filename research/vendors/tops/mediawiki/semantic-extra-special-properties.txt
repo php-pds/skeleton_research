@@ -1,0 +1,17 @@
+docs/
+i18n/
+src/
+tests/
+.gitignore
+.jshintignore
+.scrutinizer.yml
+.travis.yml
+CONTRIBUTING.md
+COPYING
+DefaultSettings.php
+ISSUE_TEMPLATE.md
+README.md
+RELEASE-NOTES.md
+SemanticExtraSpecialProperties.php
+composer.json
+phpunit.xml.dist

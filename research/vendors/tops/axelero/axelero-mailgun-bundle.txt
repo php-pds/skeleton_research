@@ -1,0 +1,8 @@
+DependencyInjection/
+Resources/
+Services/
+Tests/Controller/
+.gitignore
+AxeleroMailgunBundle.php
+README.md
+composer.json

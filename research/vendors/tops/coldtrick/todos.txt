@@ -1,0 +1,13 @@
+actions/
+classes/
+languages/
+lib/
+pages/
+views/default/
+.gitignore
+README.md
+activate.php
+composer.json
+composer.lock
+manifest.xml
+start.php

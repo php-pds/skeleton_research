@@ -1,0 +1,14 @@
+Command/
+DependencyInjection/
+Entity/
+Exception/
+Repository/
+Resources/
+Tests/
+Util/
+.travis.yml
+AliasManager.php
+LassoVmailBundle.php
+MailboxManager.php
+README.md
+composer.json

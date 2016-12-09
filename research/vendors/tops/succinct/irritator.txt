@@ -1,0 +1,5 @@
+src/Succinct/Irritator/
+test/suite/
+README.md
+composer.json
+composer.lock

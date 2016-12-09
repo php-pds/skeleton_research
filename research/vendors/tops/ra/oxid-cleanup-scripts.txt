@@ -1,0 +1,6 @@
+example/
+src/RA/OxidCleanupScripts/
+.gitignore
+LICENSE
+README
+composer.json

@@ -1,0 +1,5 @@
+Handsontable.php
+HandsontableAsset.php
+LICENSE
+README.md
+composer.json

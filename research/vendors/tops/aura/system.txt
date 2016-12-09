@@ -1,0 +1,12 @@
+config/
+include/
+package/
+tests/
+tmp/
+vendor/
+web/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json

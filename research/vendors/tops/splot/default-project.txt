@@ -1,0 +1,6 @@
+app/
+src/Acme/Modules/Demo/
+web/
+.gitignore
+README.md
+composer.json

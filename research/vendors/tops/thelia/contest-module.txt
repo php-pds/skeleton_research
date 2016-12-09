@@ -1,0 +1,15 @@
+Action/
+Config/
+Controller/
+Event/
+EventListeners/
+Form/
+Hook/
+I18n/
+Loop/
+Model/
+templates/
+Contest.php
+LICENSE.txt
+README.md
+composer.json

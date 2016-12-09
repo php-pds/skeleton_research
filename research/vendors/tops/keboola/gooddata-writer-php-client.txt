@@ -1,0 +1,11 @@
+src/Keboola/
+tests/
+vendor/
+.gitignore
+CHANGELOG.md
+LICENSE
+README.md
+build.xml
+composer.json
+config.template.php
+phpunit.xml.dist

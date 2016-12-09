@@ -1,0 +1,8 @@
+tests/
+.gitignore
+GeneralNormalDistribution.php
+LICENSE
+NormalDistributionInterface.php
+README.md
+StandardNormalDistribution.php
+composer.json

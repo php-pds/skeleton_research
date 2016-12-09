@@ -1,0 +1,12 @@
+css/
+design/
+dev/
+dist/
+js/
+src/
+.gitignore
+Gruntfile.coffee
+bower.json
+composer.json
+composer.lock
+package.json

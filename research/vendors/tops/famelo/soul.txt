@@ -1,0 +1,6 @@
+Classes/Famelo/Soul/
+Configuration/
+Documentation/
+Migrations/Mysql/
+Resources/Private/Templates/
+composer.json

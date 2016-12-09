@@ -1,0 +1,11 @@
+Examples/
+Src/VirusTotal/
+Tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+Makefile
+README.md
+composer.json
+composer.lock

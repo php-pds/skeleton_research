@@ -1,0 +1,15 @@
+actions/
+graphics/
+js/
+languages/
+lib/
+pages/
+sql/
+views/default/
+.gitattributes
+.gitignore
+README.md
+activate.php
+composer.json
+manifest.xml
+start.php

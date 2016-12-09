@@ -1,0 +1,7 @@
+Tests/
+.gitignore
+.travis.yml
+README.md
+TempDirectory.php
+composer.json
+phpunit.xml.dist

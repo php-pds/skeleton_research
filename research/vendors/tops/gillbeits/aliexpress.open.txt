@@ -1,0 +1,8 @@
+conf/
+src/Aliexpress/Open/
+tests/
+.gitignore
+README.md
+bootstrap.php
+composer.json
+phpunit.xml

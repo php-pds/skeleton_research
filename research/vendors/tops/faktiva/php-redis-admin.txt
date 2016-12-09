@@ -1,0 +1,17 @@
+app/config/
+docker/
+src/
+var/log/
+web/
+.dockerignore
+.editorconfig
+.gitignore
+.php_cs
+.sensiolabs.yml
+Dockerfile
+Features.md
+LICENSE
+README.md
+composer.json
+composer.phar
+docker-compose.yml

@@ -1,0 +1,17 @@
+Command/
+Configuration/
+DependencyInjection/
+Exception/
+Form/
+Generation/
+Model/
+Resources/
+Tests/
+Validation/
+.gitignore
+CodeGeneratorManager.php
+IDCICodeGeneratorBundle.php
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

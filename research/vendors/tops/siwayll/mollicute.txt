@@ -1,0 +1,12 @@
+Curl/
+Tests/Units/
+.coke
+.gitignore
+Abort.php
+Command.php
+Config.php
+Core.php
+Curl.php
+Exception.php
+Stop.php
+composer.json

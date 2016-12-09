@@ -1,0 +1,9 @@
+Controller/
+DependencyInjection/
+Resources/
+Services/
+Tests/Services/
+.gitignore
+IntegratedWordConnectorBundle.php
+composer.json
+phpunit.xml.dist

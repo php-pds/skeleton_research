@@ -1,0 +1,8 @@
+DependencyInjection/
+Mapping/Annotation/
+Model/
+Resources/config/
+.gitignore
+DavidDelDoctrineIntlBundle.php
+README.md
+composer.json

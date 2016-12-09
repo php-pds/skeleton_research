@@ -1,0 +1,10 @@
+Config/Definition/Builder/
+DependencyInjection/
+Event/
+Menu/
+Resources/config/
+Tests/
+.gitignore
+IgdrConfigKnpMenuBundle.php
+README.md
+composer.json

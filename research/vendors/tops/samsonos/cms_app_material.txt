@@ -1,0 +1,7 @@
+i18n/
+src/
+www/
+.gitignore
+composer.json
+license.md
+readme.md

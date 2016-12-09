@@ -1,0 +1,11 @@
+Command/
+DependencyInjection/
+EventListener/
+Model/
+Tools/
+BrueryEntityAuditBundle.php
+CODE_OF_CONDUCT.md
+CONTRIBUTING.md
+LICENSE
+README.md
+composer.json

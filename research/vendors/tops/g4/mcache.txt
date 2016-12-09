@@ -1,0 +1,11 @@
+cookbooks/engine/
+playground/
+src/G4/Mcache/
+tests/unit/
+.gitignore
+LICENSE
+Makefile
+README.md
+Vagrantfile
+composer.json
+composer.lock

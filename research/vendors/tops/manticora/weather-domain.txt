@@ -1,0 +1,11 @@
+.phpspec/
+features/
+spec/Manticora/WeatherCenter/
+src/
+.gitignore
+LICENSE
+README.md
+behat.yml
+composer.json
+composer.lock
+phpspec.yml

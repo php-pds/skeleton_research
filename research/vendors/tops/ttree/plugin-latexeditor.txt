@@ -1,0 +1,6 @@
+Classes/Ttree/Plugin/LatexEditor/
+Configuration/
+Resources/
+.gitignore
+README.md
+composer.json

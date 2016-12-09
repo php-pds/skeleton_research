@@ -1,0 +1,15 @@
+libs/
+performance-test/org/osflash/signals/
+src/org/osflash/signals/
+tests/org/osflash/signals/
+.gitignore
+CHANGELOG.textile
+MIT-LICENSE.txt
+README.textile
+TODO.textile
+as3-signals.as3proj
+build.gradle
+build.properties
+build.xml
+composer.json
+settings.gradle

@@ -1,0 +1,6 @@
+src/nSolutions/
+tests/
+.gitignore
+LICENSE.md
+README.md
+composer.json

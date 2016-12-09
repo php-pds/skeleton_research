@@ -1,0 +1,5 @@
+config/
+src/MajorView/
+.gitignore
+README.md
+composer.json

@@ -1,0 +1,4 @@
+assets/
+Bootstrap3Wysiwyg.php
+README.md
+composer.json

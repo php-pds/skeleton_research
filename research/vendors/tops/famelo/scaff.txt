@@ -1,0 +1,4 @@
+Classes/Famelo/Scaff/
+Configuration/
+Resources/
+composer.json

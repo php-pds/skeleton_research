@@ -1,0 +1,5 @@
+src/Jenssegers/Mongodb/Sentry/
+.gitignore
+README.md
+composer.json
+phpunit.xml

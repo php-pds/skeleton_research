@@ -1,0 +1,4 @@
+src/Event/
+LICENSE
+README.md
+composer.json

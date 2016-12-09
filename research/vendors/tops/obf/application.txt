@@ -1,0 +1,5 @@
+src/
+.gitignore
+autoload.php
+composer.json
+phpunit.xml

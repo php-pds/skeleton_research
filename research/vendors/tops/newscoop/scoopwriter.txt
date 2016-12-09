@@ -1,0 +1,13 @@
+Controller/
+DependencyInjection/
+Entity/
+EventListener/
+Form/Type/
+Model/
+Resources/
+Services/
+.gitignore
+LICENSE
+NewscoopEditorBundle.php
+README.md
+composer.json

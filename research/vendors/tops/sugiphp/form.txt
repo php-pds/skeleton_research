@@ -1,0 +1,5 @@
+examples/
+src/SugiPHP/
+.gitignore
+README.md
+composer.json

@@ -1,0 +1,14 @@
+Browser/
+DependencyInjection/
+EventListener/
+Filter/
+Handler/
+Locator/
+Resources/
+Tests/
+FileSource.php
+Loader.php
+NileadLoaderBundle.php
+Processor.php
+README.md
+composer.json

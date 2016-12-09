@@ -1,0 +1,7 @@
+src/Behat/YiiExtension/
+.gitignore
+LICENSE
+README.md
+build.php
+composer.json
+init.php

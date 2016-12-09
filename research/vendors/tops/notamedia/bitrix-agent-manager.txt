@@ -1,0 +1,9 @@
+install/
+lang/
+lib/
+.travis.yml
+LICENSE.md
+README.md
+agents-list.png
+composer.json
+include.php

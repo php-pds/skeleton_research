@@ -1,0 +1,8 @@
+filemanager/
+source/
+thumbs/
+tinymce/plugins/responsivefilemanager/
+LICENSE.TXT
+changelog.txt
+composer.json
+readme.txt

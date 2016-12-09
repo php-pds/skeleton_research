@@ -1,0 +1,7 @@
+DependencyInjection/
+Resources/config/
+Twig/
+Profiler.php
+README.md
+SmartSimpleProfilerBundle.php
+composer.json

@@ -1,0 +1,7 @@
+config/
+example/
+ext/
+src/
+.gitignore
+README.md
+composer.json

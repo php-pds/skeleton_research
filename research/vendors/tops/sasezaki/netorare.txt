@@ -1,0 +1,6 @@
+config/
+src/Netorare/
+tests/
+Module.php
+README.md
+composer.json

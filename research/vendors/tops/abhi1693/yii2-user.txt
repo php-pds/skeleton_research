@@ -1,0 +1,14 @@
+controllers/
+messages/
+migrations/
+models/
+uploads/
+views/
+.gitignore
+CHANGE.md
+CONTRIBUTING.md
+LICENSE
+Mailer.php
+README.md
+UserModule.php
+composer.json

@@ -1,0 +1,9 @@
+bin/
+demo/
+src/AntiMattr/Fraud/
+tests/AntiMattr/Tests/Fraud/
+.gitignore
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

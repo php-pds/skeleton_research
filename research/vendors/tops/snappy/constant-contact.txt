@@ -1,0 +1,8 @@
+src/Snappy/Apps/ConstantContact/
+tests/
+.gitignore
+.travis.yml
+composer.json
+constant_contact.png
+phpunit.xml
+readme.md

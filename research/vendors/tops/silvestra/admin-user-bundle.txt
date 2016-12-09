@@ -1,0 +1,8 @@
+DependencyInjection/
+Resources/
+.gitignore
+.travis.yml
+README.md
+SilvestraAdminUserBundle.php
+composer.json
+phpunit.xml.dist

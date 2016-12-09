@@ -1,0 +1,8 @@
+src/Error/
+.editorconfig
+.semver
+CONTRIBUTING.md
+LICENSE
+README.md
+VERSION
+composer.json

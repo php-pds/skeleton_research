@@ -1,0 +1,6 @@
+src/PHPCommerce/Vendor/RatePAY/Service/
+.gitignore
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

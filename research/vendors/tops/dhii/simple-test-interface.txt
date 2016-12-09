@@ -1,0 +1,10 @@
+nbproject/
+src/
+test/
+.gitignore
+.php_cs
+.travis.yml
+CHANGELOG.md
+composer.json
+composer.lock
+phpunit.xml

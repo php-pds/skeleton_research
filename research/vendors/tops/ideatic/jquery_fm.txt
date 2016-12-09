@@ -1,0 +1,7 @@
+assets/
+examples/
+src/jQueryFM/
+.gitignore
+Readme.md
+composer.json
+demo.gif

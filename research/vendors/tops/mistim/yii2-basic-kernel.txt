@@ -1,0 +1,8 @@
+assets/
+components/
+migrations/
+models/
+modules/
+.gitignore
+README.md
+composer.json

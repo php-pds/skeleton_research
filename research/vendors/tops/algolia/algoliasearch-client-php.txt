@@ -1,0 +1,17 @@
+example/
+resources/
+src/AlgoliaSearch/
+tests/AlgoliaSearch/Tests/
+.coveralls.yml
+.gitattributes
+.gitignore
+.php_cs
+.styleci.yml
+.travis.yml
+CHANGELOG.md
+LICENSE.txt
+README.md
+algoliasearch.php
+composer.json
+contacts.json
+phpunit.xml.dist

@@ -1,0 +1,14 @@
+lib/
+public/
+.editorconfig
+.gitignore
+CHANGELOG.md
+LICENSE
+README.md
+composer.json
+composer.lock
+constants.php
+functions.php
+package.json
+phpdoc.dist.xml
+shorthand.php

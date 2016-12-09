@@ -1,0 +1,12 @@
+fixtures/LIN3S/WPSymfonyForm/Form/Type/
+spec/LIN3S/WPSymfonyForm/
+src/LIN3S/WPSymfonyForm/
+.editorconfig
+.gitignore
+.php_cs
+.phpspec_cs
+.travis.yml
+LICENSE
+README.md
+WPSymfonyForm.php
+composer.json

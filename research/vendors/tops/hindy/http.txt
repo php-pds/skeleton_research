@@ -1,0 +1,3 @@
+src/Mindy/Http/
+.gitignore
+composer.json

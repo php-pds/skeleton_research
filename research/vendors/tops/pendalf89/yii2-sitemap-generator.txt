@@ -1,0 +1,5 @@
+LICENSE
+README.md
+SitemapGenerator.php
+SitemapInterface.php
+composer.json

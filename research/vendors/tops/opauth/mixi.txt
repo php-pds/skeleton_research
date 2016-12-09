@@ -1,0 +1,3 @@
+MixiStrategy.php
+README.md
+composer.json

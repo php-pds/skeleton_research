@@ -1,0 +1,15 @@
+api/
+app_skeleton/
+cli/
+data/
+doc/
+src/
+template/mail/
+test/
+view/
+.gitignore
+Makefile
+README.md
+composer.json
+console
+phpunit.xml.dist

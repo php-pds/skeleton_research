@@ -1,0 +1,7 @@
+src/ZipMerge/Zip/
+tests/
+.gitattributes
+.gitignore
+README.md
+REVISION.TXT
+composer.json

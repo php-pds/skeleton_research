@@ -1,0 +1,16 @@
+build/
+docs/
+src/
+test/
+.editorconfig
+.gitattributes
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENSE.md
+Makefile
+NOTICE.md
+README.md
+composer.json
+phpunit.xml
+requirements_check.php

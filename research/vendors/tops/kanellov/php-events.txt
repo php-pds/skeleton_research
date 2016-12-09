@@ -1,0 +1,11 @@
+.gitattributes
+.gitignore
+.php_cs
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+events.php
+events.test.php
+phpunit.xml.dist

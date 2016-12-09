@@ -1,0 +1,5 @@
+src/GAuth/
+tests/
+LICENSE
+README.md
+composer.json

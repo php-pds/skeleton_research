@@ -1,0 +1,8 @@
+Api/
+tests/
+.gitignore
+.travis.yml
+LICENSE.txt
+README.md
+composer.json
+ruleset.xml

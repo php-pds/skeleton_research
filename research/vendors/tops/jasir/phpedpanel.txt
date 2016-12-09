@@ -1,0 +1,3 @@
+PhpEdPanel.php
+composer.json
+readme.txt

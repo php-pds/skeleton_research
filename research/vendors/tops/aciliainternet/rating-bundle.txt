@@ -1,0 +1,11 @@
+DependencyInjection/
+Entity/
+Event/
+Library/Rating/
+Resources/config/
+Service/
+.gitignore
+AciliaRatingBundle.php
+LICENSE
+README.md
+composer.json

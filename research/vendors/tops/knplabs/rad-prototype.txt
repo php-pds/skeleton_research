@@ -1,0 +1,8 @@
+doc/images/
+spec/Knp/Rad/Prototype/
+src/Knp/Rad/Prototype/
+.gitignore
+.travis.yml
+README.md
+composer.json
+phpspec.yml

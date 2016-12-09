@@ -1,0 +1,5 @@
+Magento/
+.gitignore
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,7 @@
+src/Huffman/
+tests/
+.gitignore
+.gitmodules
+README.md
+composer.json
+phpunit.xml.dist

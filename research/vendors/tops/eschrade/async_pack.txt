@@ -1,0 +1,5 @@
+WEB-INF/
+lib/
+tests/
+README.md
+composer.json

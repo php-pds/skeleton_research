@@ -1,0 +1,6 @@
+app/controller/frontend/
+templates/frontend/blog/
+LICENSE
+README.md
+VERSION
+composer.json

@@ -1,0 +1,13 @@
+_graphics/icons/
+languages/
+screenshots/
+vendors/s3capcha/
+views/default/
+.gitignore
+.travis.yml
+CHANGES.txt
+README.md
+composer.json
+composer.lock
+manifest.xml
+start.php

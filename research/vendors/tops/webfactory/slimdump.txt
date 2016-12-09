@@ -1,0 +1,14 @@
+bin/
+example-configs/
+php/
+src/Webfactory/Slimdump/
+test/Webfactory/Slimdump/
+.coveralls
+.gitignore
+.travis.yml
+LICENSE
+README.md
+box.json.dist
+composer.json
+composer.lock
+phpunit.xml.dist

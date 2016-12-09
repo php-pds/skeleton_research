@@ -1,0 +1,9 @@
+Config/
+Model/
+Test/
+.coveralls.yml
+.gitignore
+.travis.yml
+README.md
+composer.json
+coveralls.json

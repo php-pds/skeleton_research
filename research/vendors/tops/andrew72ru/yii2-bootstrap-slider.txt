@@ -1,0 +1,4 @@
+assets/
+README.md
+Slider.php
+composer.json

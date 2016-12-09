@@ -1,0 +1,16 @@
+build/task/
+ext/
+library/ContentEngine/
+script/
+test/
+.gitignore
+.gitmodules
+LICENSE
+README.md
+TODO
+VERSION
+bootstrap.php
+build.properties
+build.xml
+composer.json
+phpunit.xml

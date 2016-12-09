@@ -1,0 +1,14 @@
+src/
+tests/
+.gitattributes
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+Vagrantfile
+composer.json
+phpcs.xml
+phpunit-integration.xml
+phpunit-unit.xml
+phpunit.xml

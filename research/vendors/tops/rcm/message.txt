@@ -1,0 +1,10 @@
+config/
+public/
+src/
+test/
+view/rcm-message/message-list/
+.gitignore
+LICENSE.txt
+Module.php
+README.md
+composer.json

@@ -1,0 +1,4 @@
+src/SfpIshikiTakaiHttps/
+.gitignore
+README.asciidoc
+composer.json

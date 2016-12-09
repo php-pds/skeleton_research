@@ -1,0 +1,10 @@
+Autoloader/
+Interfaces/
+AggregateLoader.php
+AggregateTrait.php
+PathStackResolver.php
+PathStackTrait.php
+README.md
+ResourceMapResolver.php
+ResourceMapTrait.php
+composer.json

@@ -1,0 +1,10 @@
+config/
+src/PaymentAPI/
+tests/
+view/payment-api/xsolla/
+.gitignore
+.travis.yml
+LICENSE
+Module.php
+README.md
+composer.json

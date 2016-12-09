@@ -1,0 +1,6 @@
+Resources/
+.gitignore
+HarvestCloudThemeBundle.php
+LICENSE
+README.md
+composer.json

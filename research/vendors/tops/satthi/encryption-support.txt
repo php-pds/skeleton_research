@@ -1,0 +1,5 @@
+src/Model/
+tests/
+.gitignore
+README.md
+composer.json

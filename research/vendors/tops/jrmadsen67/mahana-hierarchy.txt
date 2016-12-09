@@ -1,0 +1,3 @@
+application/libraries/
+README.md
+composer.json

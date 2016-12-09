@@ -1,0 +1,16 @@
+config/
+public/
+resources/
+src/Assely/
+tests/
+.editorconfig
+.gitattributes
+.gitignore
+.travis.yml
+LICENSE.md
+README.md
+assely-framework.php
+composer.json
+gulpfile.js
+package.json
+phpunit.xml

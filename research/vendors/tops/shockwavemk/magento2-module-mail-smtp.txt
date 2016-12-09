@@ -1,0 +1,11 @@
+Model/
+Setup/
+docs/
+etc/
+i18n/
+.gitignore
+CHANGELOG.md
+LICENSE.txt
+README.md
+composer.json
+registration.php

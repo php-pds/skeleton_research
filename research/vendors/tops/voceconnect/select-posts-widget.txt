@@ -1,0 +1,12 @@
+css/
+img/
+js/
+lib/
+sass/
+views/
+.gitignore
+Gruntfile.js
+README.md
+composer.json
+package.json
+select-posts-widget.php

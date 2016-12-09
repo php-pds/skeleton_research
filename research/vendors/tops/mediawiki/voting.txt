@@ -1,0 +1,11 @@
+assets/
+includes/
+pages/VotingSpecial/
+schema/
+LICENSE
+README.md
+Voting.class.php
+Voting.hooks.php
+Voting.i18n.php
+Voting.php
+composer.json

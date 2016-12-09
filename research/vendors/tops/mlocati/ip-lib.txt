@@ -1,0 +1,14 @@
+src/
+test/
+.coveralls.yml
+.gitattributes
+.gitignore
+.php_cs
+.scrutinizer.yml
+.travis.yml
+LICENSE.txt
+README.md
+composer-travis-ci.json
+composer.json
+ip-lib.php
+phpunit.xml

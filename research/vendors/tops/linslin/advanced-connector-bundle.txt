@@ -1,0 +1,11 @@
+DependencyInjection/
+Exception/
+Processor/
+Reader/
+Resources/
+Step/
+Validator/
+Writer/
+AdvancedConnectorBundle.php
+composer.json
+readme.md

@@ -1,0 +1,8 @@
+README.md
+composer.json
+elefant.json
+inflicted.html
+inflicted.png
+screenshot-index.png
+screenshot-inner.png
+style.css

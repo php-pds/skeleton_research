@@ -1,0 +1,16 @@
+app/
+deployment/
+log/
+src/
+temp/
+tests/
+vendor/
+www/
+.gitignore
+.htaccess
+.travis.yml
+Gruntfile.js
+bower.json
+composer.json
+package.json
+readme.md

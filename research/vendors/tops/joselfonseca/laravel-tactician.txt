@@ -1,0 +1,13 @@
+config/
+src/
+stubs/
+tests/
+.gitignore
+.nitpick.json
+.scrutinitzer.yml
+.travis.yml
+CONTRIBUTING.md
+Readme.md
+composer.json
+license.md
+phpunit.xml

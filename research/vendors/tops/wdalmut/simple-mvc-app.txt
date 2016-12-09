@@ -1,0 +1,9 @@
+cookbooks/
+resources/
+src/
+.gitignore
+.gitmodules
+README.md
+Vagrantfile
+composer.json
+composer.lock

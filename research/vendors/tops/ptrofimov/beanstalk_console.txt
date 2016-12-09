@@ -1,0 +1,17 @@
+cover/
+docker/
+lib/
+public/
+src/
+vagrant/
+.dockerignore
+.gitattributes
+.gitignore
+Dockerfile
+LICENSE.md
+README.md
+Vagrantfile
+composer.json
+config.php
+docker-compose.yml
+storage.json

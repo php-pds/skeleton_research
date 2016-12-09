@@ -1,0 +1,7 @@
+Command/
+DependencyInjection/
+Resources/config/
+BugbyteDeployerBundle.php
+LICENSE
+README.md
+composer.json

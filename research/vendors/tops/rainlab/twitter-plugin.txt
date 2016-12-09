@@ -1,0 +1,10 @@
+classes/
+components/
+data/
+models/
+updates/
+.gitignore
+LICENCE.md
+Plugin.php
+composer.json
+readme.md

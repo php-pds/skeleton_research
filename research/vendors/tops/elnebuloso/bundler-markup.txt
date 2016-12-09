@@ -1,0 +1,14 @@
+.bundler/
+public/
+src/Bundler/Markup/
+tests/BundlerTest/Markup/
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+VERSION
+build.properties
+build.xml
+composer.json
+phpunit.xml

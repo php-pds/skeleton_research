@@ -1,0 +1,8 @@
+application/
+backup/data/
+cjango/
+public/
+README.md
+Socket.php
+composer.json
+think

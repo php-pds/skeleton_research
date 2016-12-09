@@ -1,0 +1,8 @@
+config/
+database/migrations/
+public/assets/media/email/
+resources/views/simples/
+src/
+.gitignore
+README.md
+composer.json

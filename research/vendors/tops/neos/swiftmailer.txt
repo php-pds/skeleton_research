@@ -1,0 +1,6 @@
+Classes/
+Configuration/
+Documentation/
+Meta/
+Migrations/Code/
+composer.json

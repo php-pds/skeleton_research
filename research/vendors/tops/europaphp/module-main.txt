@@ -1,0 +1,6 @@
+assets/
+src/Europaphp/
+views/europaphp/main/
+.gitignore
+README.md
+composer.json

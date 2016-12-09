@@ -1,0 +1,9 @@
+Model/
+Tests/
+.gitignore
+.travis.yml
+CoordinatesBundle.php
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

@@ -1,0 +1,7 @@
+src/Splitice/Kyoto/
+wiki @ 7131205
+.gitignore
+.gitmodules
+README.md
+composer.json
+test.php

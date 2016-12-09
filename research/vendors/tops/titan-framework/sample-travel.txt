@@ -1,0 +1,11 @@
+app/
+bin/
+box/
+db/
+lib/
+mobile/froyo/
+test/
+.gitignore
+LICENSE
+README.md
+composer.json

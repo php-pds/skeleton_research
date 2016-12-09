@@ -1,0 +1,9 @@
+code/
+css/
+gallery_ui/
+templates/
+widgets/
+.editorconfig
+README
+_config.php
+composer.json

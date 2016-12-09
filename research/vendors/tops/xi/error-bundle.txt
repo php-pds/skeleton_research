@@ -1,0 +1,12 @@
+Component/
+DependencyInjection/
+EventListener/
+Resources/config/
+Service/
+Tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+XiErrorBundle.php
+composer.json

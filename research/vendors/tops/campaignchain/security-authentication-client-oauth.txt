@@ -1,0 +1,12 @@
+Controller/
+DependencyInjection/
+Entity/
+EntityService/
+Resources/
+.gitignore
+Authentication.php
+CampaignChainSecurityAuthenticationClientOAuthBundle.php
+LICENSE
+README.md
+campaignchain.yml
+composer.json

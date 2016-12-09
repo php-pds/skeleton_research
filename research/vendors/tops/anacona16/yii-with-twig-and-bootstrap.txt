@@ -1,0 +1,9 @@
+protected/
+themes/default/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock
+index-test.php
+index.php

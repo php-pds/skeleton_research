@@ -1,0 +1,11 @@
+DependencyInjection/
+Resources/
+Step/
+Tests/
+.gitignore
+.travis.yml
+KitpagesCommonStepBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

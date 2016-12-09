@@ -1,0 +1,13 @@
+app/
+bin/
+patches/
+src/
+tests/
+.editorconfig
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml
+sami.php

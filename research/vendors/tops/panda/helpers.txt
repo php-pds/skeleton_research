@@ -1,0 +1,8 @@
+.gitignore
+ArrayHelper.php
+EvalHelper.php
+LICENSE
+README.md
+StringHelper.php
+UrlHelper.php
+composer.json

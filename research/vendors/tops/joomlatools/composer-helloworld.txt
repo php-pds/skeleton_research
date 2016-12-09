@@ -1,0 +1,7 @@
+administrator/components/com_helloworld/
+site/components/com_helloworld/
+CHANGELOG.md
+CONTRIBUTING.md
+README.md
+composer.json
+helloworld.xml

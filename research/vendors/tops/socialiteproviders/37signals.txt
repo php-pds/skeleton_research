@@ -1,0 +1,3 @@
+Provider.php
+ThirtySevenSignalsExtendSocialite.php
+composer.json

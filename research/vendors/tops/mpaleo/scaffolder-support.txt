@@ -1,0 +1,4 @@
+src/Scaffolder/Support/
+.gitignore
+LICENSE
+composer.json

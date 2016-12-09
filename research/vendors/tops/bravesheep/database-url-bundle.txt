@@ -1,0 +1,7 @@
+spec/Bravesheep/DatabaseUrlBundle/
+src/Bravesheep/DatabaseUrlBundle/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json

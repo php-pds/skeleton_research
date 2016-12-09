@@ -1,0 +1,7 @@
+src/JansenFelipe/FipeGratis/
+tests/JansenFelipe/FipeGratis/
+.gitignore
+.travis.yml
+README.md
+composer.json
+phpunit.xml.dist

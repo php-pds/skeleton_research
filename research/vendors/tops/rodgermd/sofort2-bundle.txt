@@ -1,0 +1,14 @@
+Api/
+Controller/
+DependencyInjection/
+Event/
+Exception/
+Manager/
+Model/
+Resources/config/
+Status/
+Test/
+LICENSE
+README.md
+SofortBundle.php
+composer.json

@@ -1,0 +1,6 @@
+junittests/
+.gitignore
+README.md
+composer.json
+doc-en.md
+doc-fr.md

@@ -1,0 +1,10 @@
+Client/
+Statistics/
+Tests/
+.gitignore
+Cache.php
+CacheInterface.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

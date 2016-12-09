@@ -1,0 +1,9 @@
+Tests/
+.gitignore
+HeaderStorage.php
+HttpStatus.php
+LICENSE
+README.md
+Request.php
+Response.php
+composer.json

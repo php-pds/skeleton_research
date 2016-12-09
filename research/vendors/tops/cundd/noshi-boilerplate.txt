@@ -1,0 +1,11 @@
+.idea/
+Configurations/
+Resources/
+data/
+.gitignore
+.htaccess
+LICENSE
+README.md
+composer.json
+index.php
+server.sh

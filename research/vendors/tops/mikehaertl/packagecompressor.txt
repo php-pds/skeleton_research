@@ -1,0 +1,6 @@
+yuicompressor/
+EMutex.php
+PackageCompressor.php
+PackagesCommand.php
+README.md
+composer.json

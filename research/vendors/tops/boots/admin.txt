@@ -1,0 +1,12 @@
+css/
+images/
+js/
+third-party/
+.gitignore
+LICENSE.txt
+README.md
+admin.php
+api.php
+composer.json
+index.php
+requires.php

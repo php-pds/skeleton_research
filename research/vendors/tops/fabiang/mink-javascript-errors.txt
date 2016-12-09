@@ -1,0 +1,17 @@
+dist/
+src/
+tests/features/
+.gitattributes
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+behat.yml
+bower.json
+composer.json
+composer.lock
+gulpfile.js
+package.json
+phpunit.xml.dist
+test.html

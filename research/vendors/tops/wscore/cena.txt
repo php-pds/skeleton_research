@@ -1,0 +1,5 @@
+src/WScore/Cena/
+tests/
+.gitignore
+README.md
+composer.json

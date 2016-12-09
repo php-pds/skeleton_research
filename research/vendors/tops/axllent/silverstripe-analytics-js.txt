@@ -1,0 +1,10 @@
+_config/
+code/
+docs/
+templates/
+.editorconfig
+.gitattributes
+CHANGELOG.md
+LICENSE
+README.md
+composer.json

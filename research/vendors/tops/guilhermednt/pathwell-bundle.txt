@@ -1,0 +1,9 @@
+DependencyInjection/
+Resources/
+Validator/
+.gitignore
+DonatoPathWellBundle.php
+LICENSE
+README.md
+composer.json
+composer.lock

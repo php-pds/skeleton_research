@@ -1,0 +1,6 @@
+Resources/translations/
+Validator/
+CZICValidatorBundle.php
+LICENSE.txt
+README.md
+composer.json

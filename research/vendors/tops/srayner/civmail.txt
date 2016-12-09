@@ -1,0 +1,6 @@
+config/
+data/
+src/CivMail/
+Module.php
+README.md
+composer.json

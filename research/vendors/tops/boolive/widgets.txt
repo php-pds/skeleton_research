@@ -1,0 +1,7 @@
+content/
+view_page/
+view_part/
+view_text/
+view_widget/
+README.md
+composer.json

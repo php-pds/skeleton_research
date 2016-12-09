@@ -1,0 +1,8 @@
+tests/
+.gitignore
+.travis.yml
+README.md
+RelMe.php
+composer.json
+composer.lock
+phpunit.xml

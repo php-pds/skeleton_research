@@ -1,0 +1,12 @@
+gulp/
+spec/
+src/
+.gitignore
+CHANGELOG.md
+LICENSE
+README.md
+composer.json
+composer.lock
+gulpfile.js
+package.json
+phpspec.yml.dist

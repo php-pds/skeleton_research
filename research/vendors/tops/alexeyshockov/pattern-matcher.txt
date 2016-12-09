@@ -1,0 +1,6 @@
+spec/PatternMatcher/
+src/
+.gitignore
+README.md
+composer.json
+phpspec.yml

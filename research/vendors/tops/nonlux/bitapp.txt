@@ -1,0 +1,11 @@
+bin/
+features/
+src/Nonlux/BitApp/
+test_data/
+web
+.gitignore
+LICENCE
+README.md
+bitapp.yml.dist
+composer.json
+composer.lock

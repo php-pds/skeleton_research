@@ -1,0 +1,10 @@
+controllers/
+mail/
+migrations/
+models/
+views/web/
+Module.php
+README.md
+adminMenu.php
+composer.json
+config.php

@@ -1,0 +1,8 @@
+config/
+docs/
+src/
+view/zfrapid-library/widget/
+.gitignore
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,6 @@
+actions/
+assets/dynatree/
+.gitignore
+README.md
+Tree.php
+composer.json

@@ -1,0 +1,8 @@
+src/
+tests/
+.gitattributes
+.gitignore
+autoload.php
+bower.json
+composer.json
+leiame.html

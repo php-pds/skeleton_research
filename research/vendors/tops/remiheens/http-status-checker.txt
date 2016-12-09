@@ -1,0 +1,8 @@
+src/
+.gitignore
+.scrutinizer.yml
+LICENCE.md
+README.md
+composer.json
+http-status-checker
+sample.list

@@ -1,0 +1,16 @@
+Controller/
+DataFixtures/Required/
+DependencyInjection/
+Entity/
+Event/Log/
+Form/
+Listener/
+Manager/
+Migrations/
+Resources/
+nbproject/
+.gitignore
+InnovaActivityBundle.php
+README.md
+VERSION.txt
+composer.json

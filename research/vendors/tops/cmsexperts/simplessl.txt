@@ -1,0 +1,10 @@
+Classes/
+Configuration/TCA/Overrides/
+Resources/Private/Language/
+LICENSE
+README.md
+composer.json
+ext_emconf.php
+ext_icon.png
+ext_localconf.php
+ext_tables.sql

@@ -1,0 +1,9 @@
+Command/
+Generator/
+Resources/skeleton/
+.gitignore
+CampaignChainGeneratorBundle.php
+LICENSE
+NOTICE.txt
+README.md
+composer.json

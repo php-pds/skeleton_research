@@ -1,0 +1,10 @@
+Command/
+Controller/
+DependencyInjection/
+Resources/
+Tests/
+.gitignore
+IntegratedLockingBundle.php
+LICENSE
+README.md
+composer.json

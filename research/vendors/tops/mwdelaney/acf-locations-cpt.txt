@@ -1,0 +1,8 @@
+assets/js/
+lib/
+templates/
+vendor/
+LICENSE
+composer.json
+composer.lock
+plugin.php

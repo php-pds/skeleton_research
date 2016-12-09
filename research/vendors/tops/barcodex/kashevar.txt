@@ -1,0 +1,6 @@
+lib/Kasha/Generator/
+.travis.yml
+README.md
+composer.json
+generator.php
+phpunit.xml

@@ -1,0 +1,6 @@
+helper_classes/Session/
+templates/3.3/dev/
+.gitattributes
+README.md
+composer.json
+koharness

@@ -1,0 +1,10 @@
+assets/
+backend/workbench/
+.bowerrc
+.gitignore
+README.md
+bootstrap.php
+bower.json
+cli-config.php
+composer.json
+index.php

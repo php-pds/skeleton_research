@@ -1,0 +1,8 @@
+DependencyInjection/
+Resources/
+Services/
+.gitignore
+.scrutinizer.yml
+MayecoGoogleBundle.php
+README.md
+composer.json

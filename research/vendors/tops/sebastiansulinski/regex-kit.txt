@@ -1,0 +1,9 @@
+examples/
+src/RegexKit/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml

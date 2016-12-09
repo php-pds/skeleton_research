@@ -1,0 +1,9 @@
+Documentation/
+Exception/
+.State
+.gitignore
+CHANGELOG.md
+Connection.php
+README.md
+Responder.php
+composer.json

@@ -1,0 +1,13 @@
+Tests/
+.gitignore
+.travis.yml
+CallbackListener.php
+Dispatcher.php
+DispatcherInterface.php
+Event.php
+ListenerInterface.php
+ListenerPriorityQueue.php
+README.md
+SubscriberInterface.php
+composer.json
+phpunit.xml

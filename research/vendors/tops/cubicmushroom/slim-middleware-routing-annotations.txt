@@ -1,0 +1,11 @@
+.idea/
+src/
+tests/
+.gitignore
+CHANGELOG.md
+LICENSE
+codeception.yml
+composer.json
+composer.lock
+gulpfile.js
+package.json

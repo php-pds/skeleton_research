@@ -1,0 +1,10 @@
+Controller/
+DependencyInjection/
+Entity/
+EventSubscriber/
+Form/
+Resources/
+Tests/Controller/
+BkstgScheduleBundle.php
+LICENSE
+composer.json

@@ -1,0 +1,10 @@
+Providers/
+.gitignore
+Creature.php
+Factory.php
+Gender.php
+Spell.php
+Town.php
+Vocation.php
+World.php
+composer.json

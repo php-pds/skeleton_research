@@ -1,0 +1,5 @@
+src/Assimp/Silex/
+.gitignore
+LICENSE
+README.md
+composer.json

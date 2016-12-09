@@ -1,0 +1,11 @@
+Tests/
+.gitignore
+ConstraintGroup.php
+GroupCreationFailedException.php
+GroupFactory.php
+GroupFactoryInterface.php
+GroupLoaderInterface.php
+LICENSE
+YamlGroupLoader.php
+composer.json
+phpunit.xml.dist

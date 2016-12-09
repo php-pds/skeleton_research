@@ -1,0 +1,10 @@
+i18n/
+modules/
+specials/
+.gitignore
+Presentation.body.php
+Presentation.hooks.php
+Presentation.i18n.alias.php
+Presentation.php
+README
+composer.json

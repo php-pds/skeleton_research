@@ -1,0 +1,9 @@
+dist/
+doc/
+env/
+test/Unit/
+.gitignore
+README.md
+Vagrantfile
+composer.json
+composer.lock

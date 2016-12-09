@@ -1,0 +1,10 @@
+cache/
+libraries/
+modules/default/
+public/
+templates/
+.gitattributes
+.gitignore
+.htaccess
+composer.json
+config.php

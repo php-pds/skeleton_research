@@ -1,0 +1,8 @@
+src/
+tests/
+.gitignore
+.gitlab-ci.yml
+Makefile
+README.md
+codeception.yml
+composer.json

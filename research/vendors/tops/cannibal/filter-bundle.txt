@@ -1,0 +1,7 @@
+DependencyInjection/
+Filter/
+Forms/
+Resources/
+Tests/Filter/
+CannibalFilterBundle.php
+composer.json

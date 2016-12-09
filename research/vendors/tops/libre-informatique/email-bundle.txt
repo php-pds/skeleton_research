@@ -1,0 +1,15 @@
+Admin/
+Block/
+Command/
+Controller/
+DependencyInjection/
+Entity/
+Resources/
+Services/
+Tests/Controller/
+.gitignore
+LICENSE
+LibrinfoEmailBundle.php
+README-FROM-SCRATCH.md
+README.md
+composer.json

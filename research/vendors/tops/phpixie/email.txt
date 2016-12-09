@@ -1,0 +1,4 @@
+assets/config/
+classes/PHPixie/
+README.md
+composer.json

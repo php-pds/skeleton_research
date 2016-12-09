@@ -1,0 +1,15 @@
+public/
+src/
+test/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CHANGELOG.md
+From controller
+LICENSE
+README.md
+composer.json
+composer.lock
+init.php
+phpunit.xml.dist
+something

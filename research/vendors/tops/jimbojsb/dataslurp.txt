@@ -1,0 +1,6 @@
+src/
+.gitignore
+Readme.md
+composer.json
+composer.lock
+testconfig.php

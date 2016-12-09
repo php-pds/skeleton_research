@@ -1,0 +1,12 @@
+behaviors/
+components/
+controllers/
+messages/
+migrations/
+models/
+views/show/
+widgets/
+.project
+AudittrailModule.php
+README.md
+composer.json

@@ -1,0 +1,10 @@
+classes/
+interfaces/
+libraries/
+.gitignore
+LICENSE
+README.md
+SUPPORT.md
+TODO.md
+composer.json
+selftest.php

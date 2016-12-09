@@ -1,0 +1,12 @@
+_config/
+css/
+images/
+scss/
+.editorconfig
+.gitattributes
+.gitignore
+.scrutinizer.yml
+LICENSE
+README.md
+composer.json
+config.rb

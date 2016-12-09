@@ -1,0 +1,13 @@
+Command/
+DependencyInjection/
+Resources/config/
+Services/
+Tests/
+.coveralls.yml
+.gitignore
+.travis.yml
+LICENSE
+OpenClassroomsTranslationBundle.php
+README.md
+composer.json
+phpunit.xml.dist

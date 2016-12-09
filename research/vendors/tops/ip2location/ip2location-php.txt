@@ -1,0 +1,9 @@
+databases/
+.gitattributes
+.gitignore
+ChangeLog
+IP2Location.php
+IP2Location_Product_Catalog.pdf
+README.md
+composer.json
+example.php

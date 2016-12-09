@@ -1,0 +1,6 @@
+DependencyInjection/
+Resources/config/
+Templating/
+LswRemoteTemplateBundle.php
+README.md
+composer.json

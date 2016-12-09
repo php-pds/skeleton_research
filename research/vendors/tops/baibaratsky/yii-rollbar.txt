@@ -1,0 +1,7 @@
+.gitignore
+LICENSE.md
+README.md
+RollbarComponent.php
+RollbarErrorHandler.php
+RollbarLogRoute.php
+composer.json

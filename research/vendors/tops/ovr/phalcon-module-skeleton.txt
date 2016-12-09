@@ -1,0 +1,15 @@
+application/
+docs/
+library/
+public/
+scheme/
+tests/ci/
+.bowerrc
+.gitignore
+.travis.yml
+LICENSE
+README.md
+bower.json
+composer.json
+gulpfile.coffee
+package.json

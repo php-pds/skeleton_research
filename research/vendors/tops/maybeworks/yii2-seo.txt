@@ -1,0 +1,12 @@
+migrations/
+.gitignore
+BaseMetatagManager.php
+BaseRedirectManager.php
+DbMetatagManager.php
+DbRedirectManager.php
+Metatag.php
+MetatagManager.php
+README.md
+Redirect.php
+RedirectManager.php
+composer.json

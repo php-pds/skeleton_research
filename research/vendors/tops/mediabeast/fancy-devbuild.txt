@@ -1,0 +1,13 @@
+_config/
+code/
+css/
+javascript/
+scss/
+.editorconfig
+.gitattributes
+.gitignore
+.scrutinizer.yml
+LICENSE
+README.md
+composer.json
+config.rb

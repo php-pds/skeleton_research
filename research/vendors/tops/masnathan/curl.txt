@@ -1,0 +1,5 @@
+src/MASNathan/Curl/
+.gitignore
+LICENSE
+README.md
+composer.json

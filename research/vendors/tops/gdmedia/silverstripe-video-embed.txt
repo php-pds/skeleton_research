@@ -1,0 +1,9 @@
+_config/
+assests/
+code/
+templates/Includes/
+.scrutinizer.yml
+LICENSE
+README.md
+_config.php
+composer.json

@@ -1,0 +1,8 @@
+assets/
+.gitignore
+AnimateCssAsset.php
+Igrowl.php
+IgrowlAsset.php
+LICENSE
+README.md
+composer.json

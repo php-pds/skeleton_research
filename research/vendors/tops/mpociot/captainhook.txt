@@ -1,0 +1,14 @@
+src/
+tests/
+.editorconfig
+.gitattributes
+.gitignore
+.php_cs
+.styleci.yml
+.travis.yml
+CONTRIBUTING.md
+README.md
+UPGRADE.md
+composer.json
+phpunit.xml
+spark.md

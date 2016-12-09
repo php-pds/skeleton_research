@@ -1,0 +1,12 @@
+classes/Ingenerator/Pigeonhole/
+config/
+spec/
+views/pigeonhole/
+.gitattributes
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+koharness.php
+phpspec.yml

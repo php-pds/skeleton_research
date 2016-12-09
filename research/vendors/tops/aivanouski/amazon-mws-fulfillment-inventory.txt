@@ -1,0 +1,4 @@
+src/FBAInventoryServiceMWS/
+LICENSE
+README.md
+composer.json

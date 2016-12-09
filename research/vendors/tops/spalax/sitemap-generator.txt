@@ -1,0 +1,6 @@
+src/SitemapGenerator/
+.gitignore
+ChangeLog
+LICENSE
+README.md
+composer.json

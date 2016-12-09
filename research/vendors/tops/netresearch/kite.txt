@@ -1,0 +1,12 @@
+bin/
+docs/
+presets/
+res/
+src/
+tests/
+.gitignore
+.travis.yml
+README.rst
+bootstrap.php
+composer.json
+phpunit.xml.dist

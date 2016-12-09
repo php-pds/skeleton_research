@@ -1,0 +1,7 @@
+DependencyInjection/
+Listener/
+Manager/
+Resources/
+README.md
+SkonsoftRedirectorBundle.php
+composer.json

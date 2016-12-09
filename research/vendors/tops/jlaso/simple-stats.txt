@@ -1,0 +1,9 @@
+doc/images/
+samples/
+src/
+.gitignore
+LICENSE
+README.md
+composer.json
+config-stats-base.yml.dist
+demo.php

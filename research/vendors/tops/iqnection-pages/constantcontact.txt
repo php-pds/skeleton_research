@@ -1,0 +1,9 @@
+_config/
+code/
+vendor/ConstantContactV2/Ctct/
+.editorconfig
+.scrutinizer.yml
+CHANGELOG.md
+LICENSE.md
+README.md
+composer.json

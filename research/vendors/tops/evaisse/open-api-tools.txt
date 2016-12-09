@@ -1,0 +1,5 @@
+src/OpenApi/
+.gitignore
+LICENSE
+README.md
+composer.json
