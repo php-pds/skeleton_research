@@ -51,7 +51,7 @@ LICENSE(.*)       # licensing information
 README(.*)        # read-me-first file
 ```
 
-Of the collected packages, 73% of them appear to already comply with these
+Of the collected packages, 72% of them appear to already comply with these
 naming standards.
 
 ## Methodology
