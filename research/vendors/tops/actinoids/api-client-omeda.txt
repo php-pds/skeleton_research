@@ -1,0 +1,3 @@
+src/Actinoids/ApiClient/Omeda/
+README.md
+composer.json

@@ -1,0 +1,6 @@
+app/
+.editorconfig
+.gitignore
+.htaccess
+README.md
+composer.json

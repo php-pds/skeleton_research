@@ -1,0 +1,8 @@
+DependencyInjection/
+Entity/
+EventListener/
+Resources/config/
+Service/
+IceMailerClientBundle.php
+composer.json
+composer.lock

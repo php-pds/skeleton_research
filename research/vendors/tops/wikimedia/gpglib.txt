@@ -1,0 +1,10 @@
+docs/
+src/
+test/
+.gitignore
+.travis.yml
+.travis_publish_doc.sh
+LICENSE
+README.md
+TODO.md
+composer.json

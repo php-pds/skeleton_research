@@ -1,0 +1,9 @@
+src/Stp/TravisClient/
+.gitignore
+.travis.yml
+Gruntfile.js
+LICENSE
+README.md
+composer.json
+composer.lock
+package.json

@@ -1,0 +1,6 @@
+css/
+images/
+js/
+player/
+README.md
+composer.json

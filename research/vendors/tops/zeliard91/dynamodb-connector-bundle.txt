@@ -1,0 +1,10 @@
+DependencyInjection/
+Repository/
+Resources/
+Schema/
+Service/
+.gitignore
+LICENSE
+README.md
+Zeliard91DynamoDBConnectorBundle.php
+composer.json

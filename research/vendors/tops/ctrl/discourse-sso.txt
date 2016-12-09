@@ -1,0 +1,8 @@
+spec/Ctrl/Discourse/Sso/
+src/
+.gitignore
+LICENSE.txt
+README.md
+composer.json
+composer.lock
+phpspec.yml

@@ -1,0 +1,14 @@
+bin/
+manual/
+projects/default/
+team-library/
+wwwroot/
+.gitignore
+CHANGELOG.md
+COMMITLOG.md
+LICENSE.md
+README.md
+UPGRADE.md
+composer.json
+config.new.php
+index.php

@@ -1,0 +1,13 @@
+DependencyInjection/
+Resources/config/
+Service/
+Tests/
+Twig/Extension/
+.gitignore
+.travis.yml
+DothivMoneyFormatBundle.php
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

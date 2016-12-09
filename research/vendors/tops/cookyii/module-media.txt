@@ -1,0 +1,11 @@
+components/
+media/
+migrations/
+resources/Media/
+.gitignore
+ImageWrapper.php
+Module.php
+README.md
+composer.json
+composer.lock
+urls.php

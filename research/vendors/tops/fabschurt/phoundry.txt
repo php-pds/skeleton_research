@@ -1,0 +1,15 @@
+assets/
+bin/
+src/
+tests/
+.editorconfig
+.gitattributes
+.gitignore
+.php_cs
+.travis.yml
+LICENSE
+README.md
+RoboFile.php
+TODO.md
+box.json
+composer.json

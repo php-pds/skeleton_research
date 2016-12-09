@@ -1,0 +1,14 @@
+Manager/
+Model/
+Tests/
+.gitignore
+.php_cs
+.styleci.yml
+.travis.yml
+EpgScheduler.php
+LICENSE
+M3u8Generator.php
+PlaylistScheduler.php
+README.md
+composer.json
+phpunit.xml.dist

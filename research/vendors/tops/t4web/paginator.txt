@@ -1,0 +1,7 @@
+config/
+src/
+view/t4web-paginator/
+.gitignore
+Module.php
+README.md
+composer.json

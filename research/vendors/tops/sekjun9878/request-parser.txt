@@ -1,0 +1,12 @@
+api/
+examples/
+src/
+.gitignore
+LICENSE
+PharStub.php
+README.md
+box.json.dist
+circle.yml
+composer.json
+composer.lock
+phpunit.xml

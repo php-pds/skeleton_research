@@ -1,0 +1,6 @@
+screenshots/formatters/
+src/PhpSpec/NyanFormattersExtension/
+LICENSE
+README.md
+composer.json
+phpspec.yml.dist

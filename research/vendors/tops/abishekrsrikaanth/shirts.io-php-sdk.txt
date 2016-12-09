@@ -1,0 +1,5 @@
+src/ShirtsIO/
+.gitignore
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,6 @@
+assets/js/dext/
+config/
+src/Dext/
+Module.php
+README.md
+composer.json

@@ -1,0 +1,10 @@
+Controller/
+DependencyInjection/
+EventListener/
+Portlet/
+Resources/
+LICENSE
+PhlexibleDashboardBundle.php
+README.md
+composer.json
+puli.json

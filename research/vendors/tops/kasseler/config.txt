@@ -1,0 +1,6 @@
+Reader/
+Writer/
+.gitignore
+README.md
+Repository.php
+composer.json

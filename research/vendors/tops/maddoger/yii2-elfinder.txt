@@ -1,0 +1,11 @@
+assets/
+controllers/
+messages/
+php/
+views/files/
+ConnectorAction.php
+CoreAsset.php
+Module.php
+README.md
+Widget.php
+composer.json

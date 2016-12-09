@@ -1,0 +1,8 @@
+.settings/
+Controller/
+Model/
+Vendor/mysqlworkbenchschema/
+View/
+.project
+README.md
+composer.json

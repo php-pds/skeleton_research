@@ -1,0 +1,12 @@
+public/
+spec/Cornford/Bootstrapper/
+src/Cornford/Bootstrapper/
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE.txt
+README.md
+composer.json
+phpspec.yml
+phpunit.xml

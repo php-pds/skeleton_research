@@ -1,0 +1,3 @@
+GuzzleClient.php
+README.md
+composer.json

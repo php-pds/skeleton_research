@@ -1,0 +1,11 @@
+Config/
+artigo/
+categoria/
+imagem/
+index/
+novidades/
+tests/
+.gitattributes
+.gitignore
+autoload.php
+composer.json

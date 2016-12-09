@@ -1,0 +1,9 @@
+components/
+controllers/
+messages/
+views/default/
+.gitignore
+Bootstrap.php
+Module.php
+README.md
+composer.json

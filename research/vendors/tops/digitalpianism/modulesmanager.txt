@@ -1,0 +1,5 @@
+app/
+skin/adminhtml/default/default/
+README.md
+composer.json
+modman

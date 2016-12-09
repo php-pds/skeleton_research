@@ -1,0 +1,13 @@
+DependencyInjection/
+Event/
+EventListener/
+Exception/
+Interfaces/
+Message/
+Reader/
+Resources/config/
+Sender/
+.gitignore
+README.md
+TrinityMessagesBundle.php
+composer.json

@@ -1,0 +1,6 @@
+config/
+doc/
+.gitignore
+composer.json
+hooks.php
+readme.md

@@ -1,0 +1,12 @@
+bin/
+examples/
+src/Psalm/
+tests/
+.gitignore
+LICENSE
+PsalmLogo.png
+README.md
+composer.json
+composer.lock
+phpcs.xml
+psalm.xml

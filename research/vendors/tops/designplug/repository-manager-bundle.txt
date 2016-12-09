@@ -1,0 +1,14 @@
+Command/
+Database/
+DependencyInjection/
+Model/
+Repository/
+RepositoryInitializer/
+Resources/
+Tests/Controller/
+.DS_Store
+.gitignore
+DPRepoBundle.php
+LICENSE
+composer.json
+composer.lock

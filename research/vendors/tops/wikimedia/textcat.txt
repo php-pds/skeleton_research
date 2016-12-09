@@ -1,0 +1,16 @@
+LM-query/
+LM/
+tests/
+.gitattributes
+.gitignore
+.gitreview
+.travis.yml
+LICENSE
+README.md
+TextCat.php
+catus.php
+composer.json
+felis.php
+lm2php.php
+phpcs.xml
+phpunit.xml.dist

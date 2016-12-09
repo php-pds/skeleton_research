@@ -1,0 +1,6 @@
+assets/
+LICENSE
+README.md
+composer.json
+slyAsset.php
+yii2sly.php

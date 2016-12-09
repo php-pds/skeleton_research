@@ -1,0 +1,8 @@
+src/SE/Bundle/OpenTransBundle/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

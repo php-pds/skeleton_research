@@ -1,0 +1,5 @@
+src/Smalot/Expect/
+.gitignore
+LICENSE
+README.md
+composer.json

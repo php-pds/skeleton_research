@@ -1,0 +1,14 @@
+bin/
+build/
+examples/
+src/Drest/
+tests/DrestTests/
+.gitignore
+.scrutinizer-ci.phpunit.xml.dist
+.scrutinizer.yml
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

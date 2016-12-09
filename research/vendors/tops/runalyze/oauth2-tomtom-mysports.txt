@@ -1,0 +1,10 @@
+src/Provider/
+tests/src/Provider/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CONTRIBUTING.md
+LICENSE.md
+README.md
+composer.json
+phpunit.xml

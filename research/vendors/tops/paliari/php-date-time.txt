@@ -1,0 +1,8 @@
+src/Paliari/DateTime/
+tests/
+.gitignore
+LICENSE
+README.md
+VERSION
+composer.json
+phpunit.xml

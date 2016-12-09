@@ -1,0 +1,6 @@
+Controller/
+Resources/config/
+.gitignore
+PSPublicReaderBundle.php
+README.md
+composer.json

@@ -1,0 +1,8 @@
+scripts/
+src/
+.gitignore
+AutoGitPull.sublime-project
+README.md
+composer.json
+composer.lock
+deploy.example.php

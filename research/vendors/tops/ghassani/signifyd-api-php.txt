@@ -1,0 +1,8 @@
+Model/
+Request/
+Response/
+Tests/
+.gitignore
+Client.php
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,9 @@
+src/AsseticExtension/Filter/
+tests/
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.markdown
+composer.json
+phpunit.xml.dist

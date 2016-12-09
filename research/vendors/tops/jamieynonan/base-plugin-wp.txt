@@ -1,0 +1,9 @@
+actions/
+controllers/
+hooks/
+models/
+views/
+.gitignore
+LICENSE
+composer.json
+plugin.php

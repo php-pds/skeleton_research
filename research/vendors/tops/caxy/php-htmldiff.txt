@@ -1,0 +1,13 @@
+demo/
+doc/
+lib/Caxy/HtmlDiff/
+tests/
+.gitignore
+.scrutinizer.yml
+CHANGELOG.md
+CODE_OF_CONDUCT.md
+CONTRIBUTING.md
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

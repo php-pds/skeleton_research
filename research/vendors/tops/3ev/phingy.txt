@@ -1,0 +1,6 @@
+scripts/
+src/Tev/Phingy/
+.gitignore
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,11 @@
+EventDispatcher/
+Filesystem/
+Finder/
+OptionsResolver/
+.coveralls.yml
+.gitignore
+.travis.yml
+LICENSE
+Readme.md
+composer.json
+phpunit.xml.dist

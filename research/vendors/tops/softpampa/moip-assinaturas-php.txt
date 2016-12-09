@@ -1,0 +1,5 @@
+src/Softpampa/Moip/Subscription/
+.editorconfig
+.gitignore
+composer.json
+readme.md

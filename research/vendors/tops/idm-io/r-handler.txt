@@ -1,0 +1,11 @@
+DependencyInjection/
+Exception/
+Handler/
+R/
+Resources/config/
+Script/
+.gitignore
+IdmRHandlerBundle.php
+LICENSE
+README.md
+composer.json

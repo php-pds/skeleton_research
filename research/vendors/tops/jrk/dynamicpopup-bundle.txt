@@ -1,0 +1,8 @@
+DependencyInjection/
+Resources/
+Tests/Controller/
+Twig/Extension/
+.gitignore
+JrkDynamicPopupBundle.php
+README.md
+composer.json

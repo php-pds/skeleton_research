@@ -1,0 +1,7 @@
+src/Andrebian/Astronauta/
+tests/Andrebian/Astronauta/
+.gitignore
+README.md
+composer.json
+exemplo.php
+phpunit.xml

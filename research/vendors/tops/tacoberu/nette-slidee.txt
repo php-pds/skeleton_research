@@ -1,0 +1,7 @@
+libs/
+.gitignore
+LICENSE
+README.md
+composer.json
+phpcs.xml
+phpunit.xml.dist

@@ -1,0 +1,9 @@
+Queue/
+docs/
+tests/
+Handler.php
+LICENSE
+README.md
+TaskManager.php
+composer.json
+phpunit.xml

@@ -1,0 +1,12 @@
+config/
+src/
+web/
+.gitignore
+CONTRIBUTING.md
+LICENSE.md
+README.md
+bootstrap-dev.php
+bootstrap.php
+composer.json
+functions.php
+start.php

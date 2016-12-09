@@ -1,0 +1,9 @@
+accounting/
+documentation/
+entities/
+misc/
+relations/
+widgets/
+LICENSE
+composer.json
+module.ini

@@ -1,0 +1,16 @@
+data/i18n/
+docs/src/
+src/
+tests/
+.coveralls.yml
+.gitignore
+.travis.yml
+Doxyfile
+LICENSE
+README
+build.xml
+composer.json
+composer.lock
+model.yml
+phpcs.xml
+phpunit.xml

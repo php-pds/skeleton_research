@@ -1,0 +1,10 @@
+bin/
+test/
+.gitignore
+.scrutinizer.yml
+LICENCE
+NOTICE
+README.md
+circle.yml
+composer.json
+logo.png

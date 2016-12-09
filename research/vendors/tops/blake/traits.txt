@@ -1,0 +1,6 @@
+mocks/
+spec/Blake/Mock/Traits/
+src/
+.gitignore
+README.md
+composer.json

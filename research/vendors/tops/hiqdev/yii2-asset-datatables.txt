@@ -1,0 +1,11 @@
+.hidev/
+src/
+.gitignore
+.php_cs
+.scrutinizer.yml
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+composer.json
+version

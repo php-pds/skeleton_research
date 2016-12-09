@@ -1,0 +1,4 @@
+src/OldTimeGuitarGuy/Testing/
+.gitignore
+composer.json
+composer.lock

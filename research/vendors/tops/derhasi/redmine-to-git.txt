@@ -1,0 +1,7 @@
+src/derhasi/RedmineToGit/
+.gitignore
+README.md
+composer.json
+composer.lock
+redmine-to-git
+redmine-to-git.php

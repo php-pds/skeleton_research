@@ -1,0 +1,6 @@
+CHANGELOG.md
+Collection.php
+Hi3aClient.php
+LICENSE.md
+README.md
+composer.json

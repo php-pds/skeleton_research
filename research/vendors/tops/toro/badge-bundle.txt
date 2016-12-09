@@ -1,0 +1,8 @@
+DependencyInjection/
+Doctrine/ORM/
+Form/Type/
+Model/
+Resources/
+.gitignore
+ToroBadgeBundle.php
+composer.json

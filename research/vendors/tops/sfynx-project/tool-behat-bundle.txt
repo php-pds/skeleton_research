@@ -1,0 +1,10 @@
+Behat/MinkExtension/Context/
+Command/
+DependencyInjection/
+Resources/
+.gitignore
+.travis.yml
+LICENSE
+SfynxBehatBundle.php
+composer.json
+phpunit.xml.dist

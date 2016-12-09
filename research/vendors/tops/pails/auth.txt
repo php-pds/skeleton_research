@@ -1,0 +1,11 @@
+assets/
+controllers/
+db/
+layout/
+mailers/
+models/
+providers/
+views/
+PailsAuthentication.trait.php
+README.md
+composer.json

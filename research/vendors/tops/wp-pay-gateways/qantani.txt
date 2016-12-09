@@ -1,0 +1,17 @@
+bin/
+src/
+tests/
+.gitattributes
+.gitignore
+.jshintrc
+.travis.yml
+CHANGELOG.md
+DEPRECATED.md
+Gruntfile.js
+README.md
+composer.json
+composer.lock
+package.json
+phpcs.ruleset.xml
+phpmd.ruleset.xml
+phpunit.xml.dist

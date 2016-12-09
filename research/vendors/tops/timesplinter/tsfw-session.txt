@@ -1,0 +1,8 @@
+src/timesplinter/tsfw/session/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock

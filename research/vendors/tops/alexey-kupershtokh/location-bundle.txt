@@ -1,0 +1,16 @@
+Client/
+DependencyInjection/
+Exceptions/
+Location/
+Resources/config/
+Tests/
+.coveralls.yml
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+LocationBundle.php
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

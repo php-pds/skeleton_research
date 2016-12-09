@@ -1,0 +1,5 @@
+Classes/MapSeven/Markdown/
+Configuration/
+Resources/
+Readme.md
+composer.json

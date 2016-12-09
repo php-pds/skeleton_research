@@ -1,0 +1,6 @@
+README.md
+composer.json
+config.php
+flush.php
+index.php
+index.tpl

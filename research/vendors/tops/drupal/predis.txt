@@ -1,0 +1,10 @@
+config/
+src/
+README.md
+composer.json
+predis.info.yml
+predis.local.actions.yml
+predis.menu.links.yml
+predis.module
+predis.routing.yml
+predis.services.yml

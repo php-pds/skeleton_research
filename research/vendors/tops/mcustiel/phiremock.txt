@@ -1,0 +1,12 @@
+bin/
+src/
+tests/
+.gitignore
+.scrutinizer.yml
+LICENSE
+README.md
+box.json
+composer.json
+composer.lock
+example.json
+phiremock.phar

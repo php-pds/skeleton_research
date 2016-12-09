@@ -1,0 +1,7 @@
+DependencyInjection/
+Handler/
+Resources/
+.gitignore
+ElcwebMonologRabbitMqBundle.php
+README.md
+composer.json

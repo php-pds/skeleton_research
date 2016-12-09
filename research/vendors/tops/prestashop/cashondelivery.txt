@@ -1,0 +1,13 @@
+controllers/
+translations/
+views/
+CHANGELOG.txt
+Readme.md
+cashondelivery.gif
+cashondelivery.jpg
+cashondelivery.php
+composer.json
+config.xml
+index.php
+logo.gif
+logo.png

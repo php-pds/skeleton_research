@@ -1,0 +1,8 @@
+bin/
+classes/
+views/default/admin/
+README.md
+composer.json
+manifest.xml
+start.php
+test.txt

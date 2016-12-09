@@ -1,0 +1,7 @@
+Document/
+Entity/
+HttpFoundation/
+Resources/doc/
+Tests/
+EventHorizonCoreBundle.php
+composer.json

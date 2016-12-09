@@ -1,0 +1,16 @@
+config/
+data/
+module/Application/
+public/
+test/
+.formatter.yml
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE.txt
+README.md
+Vagrantfile
+composer.json
+composer.lock
+init_autoloader.php
+phpunit.xml.dist

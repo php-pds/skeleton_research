@@ -1,0 +1,12 @@
+config/
+spec/
+src/Dimsav/Backup/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+backup.php
+composer.json
+composer.lock
+phpunit.xml
+readme.md

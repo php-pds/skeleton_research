@@ -1,0 +1,10 @@
+admin/
+app/
+docs/
+icons/
+language/
+.gitignore
+README.md
+composer.json
+index.php
+xoops_version.php

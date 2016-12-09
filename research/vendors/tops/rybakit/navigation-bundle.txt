@@ -1,0 +1,12 @@
+DependencyInjection/
+Navigation/
+Resources/
+Tests/
+Twig/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+RybakitNavigationBundle.php
+composer.json
+phpunit.xml.dist

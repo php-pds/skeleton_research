@@ -1,0 +1,13 @@
+Api/
+Command/
+Controller/Adminhtml/Locklist/
+Helper/
+Model/
+Plugin/
+Setup/
+Test/Unit/
+Ui/Component/DataProvider/SearchResult/
+etc/
+view/adminhtml/
+composer.json
+registration.php

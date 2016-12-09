@@ -1,0 +1,8 @@
+.gitignore
+composer.json
+license.md
+readme.md
+samson.php
+tinybox.css
+tinybox.js
+tinybox2.js

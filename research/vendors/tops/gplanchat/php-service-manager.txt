@@ -1,0 +1,5 @@
+build/
+docs/
+src/
+README.md
+composer.json

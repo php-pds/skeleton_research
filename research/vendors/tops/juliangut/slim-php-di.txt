@@ -1,0 +1,17 @@
+src/
+tests/
+.coveralls.yml
+.editorconfig
+.gitattributes
+.gitignore
+.scrutinizer.yml
+.styleci.yml
+.travis.yml
+CONTRIBUTING.md
+Gruntfile.js
+LICENSE
+README.md
+composer.json
+package.json
+phpmd.xml
+phpunit.xml

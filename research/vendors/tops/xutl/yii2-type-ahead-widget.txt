@@ -1,0 +1,8 @@
+assets/
+Bloodhound.php
+CONTRIBUTING.md
+LICENSE.md
+README.md
+TypeAhead.php
+TypeAheadAsset.php
+composer.json

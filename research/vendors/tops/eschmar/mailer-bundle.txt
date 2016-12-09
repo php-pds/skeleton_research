@@ -1,0 +1,9 @@
+DependencyInjection/
+Resources/
+Service/
+.gitignore
+EschmarMailerBundle.php
+LICENSE
+README.md
+composer.json
+test.html.twig.jpg

@@ -1,0 +1,11 @@
+autoloads/
+classes/
+cronjobs/
+design/
+lib/
+modules/opendata/
+packages/
+settings/
+README
+composer.json
+extension.xml

@@ -1,0 +1,8 @@
+lib/JPB/TestTools/
+tests/
+.gitignore
+LICENSE
+README.md
+autoload.php
+composer.json
+phpunit.xml.dist

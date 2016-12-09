@@ -1,0 +1,10 @@
+src/SellerLabs/Consul/
+tests/SellerLabs/Consul/
+.gitignore
+.travis.yml
+LICENSE
+Makefile
+README.md
+composer.json
+composer.lock
+phpunit.xml

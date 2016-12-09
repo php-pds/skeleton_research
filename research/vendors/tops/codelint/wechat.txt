@@ -1,0 +1,7 @@
+demo/
+src/Codelint/Wechat/
+test/Codelint/Wechat/
+.gitignore
+README.md
+composer.json
+composer.lock

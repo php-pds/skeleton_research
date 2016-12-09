@@ -1,0 +1,8 @@
+knossos-onebip/
+spec/Onebip/Concurrency/
+src/Onebip/Concurrency/
+.gitignore
+.travis.yml
+LICENSE
+composer.json
+phpconfig.ini

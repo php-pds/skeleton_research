@@ -1,0 +1,9 @@
+.idea/
+src/Backplane/APIdocGenerator/
+tests/
+.gitignore
+README.md
+composer.json
+composer.lock
+iodocsgen
+phpunit.xml

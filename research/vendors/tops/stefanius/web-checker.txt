@@ -1,0 +1,10 @@
+bin/
+checks/
+src/Stefanius/WebChecker/
+tests/
+.gitignore
+.travis.yml
+composer.json
+composer.lock
+phpci.yml
+phpunit.xml

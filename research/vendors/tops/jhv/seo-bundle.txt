@@ -1,0 +1,15 @@
+Command/
+DependencyInjection/
+Doctrine/
+EventListener/
+Factory/
+Handler/
+Manager/
+Model/
+Resources/
+Templating/
+Twig/Extension/
+JHVSeoBundle.php
+LICENSE
+README.md
+composer.json

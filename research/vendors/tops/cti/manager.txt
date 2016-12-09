@@ -1,0 +1,12 @@
+bin/
+public/
+resources/
+src/
+tests/
+.gitignore
+.htaccess
+README.md
+composer.json
+phpunit.cmd
+phpunit.php
+phpunit.xml.dist

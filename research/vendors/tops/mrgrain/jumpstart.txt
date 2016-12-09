@@ -1,0 +1,9 @@
+assets/
+languages/
+src/
+.gitignore
+LICENSE
+README.md
+Vagrantfile
+composer.json
+plugin.php

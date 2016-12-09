@@ -1,0 +1,6 @@
+spec/Anomaly/StreamsComposerPlugin/
+src/
+.gitignore
+composer.json
+phpspec.yml
+readme.md

@@ -1,0 +1,15 @@
+assets/
+config/
+node_modules/font-awesome/
+resources/
+src/
+tests/
+ui/css/
+.gitignore
+CHANGELOG.md
+LICENSE.md
+README.md
+bootstrap.php
+composer.json
+package.json
+phpunit.xml

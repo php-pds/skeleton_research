@@ -1,0 +1,13 @@
+Controller/
+DependencyInjection/
+Exception/
+Form/Type/
+Model/
+Resources/
+Service/
+Sonata/Admin/
+Twig/Extension/
+.gitignore
+FDevsCatalogBundle.php
+README.md
+composer.json

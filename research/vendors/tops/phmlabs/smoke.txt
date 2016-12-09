@@ -1,0 +1,12 @@
+bin/
+example/
+src/
+test/unit/
+.gitignore
+.php_cs
+.travis.yml
+LICENSE
+README.md
+box.json
+composer.json
+phpunit.xml

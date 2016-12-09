@@ -1,0 +1,8 @@
+images/
+lang/ru/
+templates/.default/
+.description.php
+.gitignore
+README.md
+component.php
+composer.json

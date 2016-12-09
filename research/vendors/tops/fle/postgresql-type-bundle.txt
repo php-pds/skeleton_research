@@ -1,0 +1,16 @@
+Annotation/
+DependencyInjection/
+Doctrine/
+EventListener/
+Form/
+Object/
+Resources/
+Tests/
+.coveralls.yml
+.gitignore
+.travis.yml
+FLEPostgresqlTypeBundle.php
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

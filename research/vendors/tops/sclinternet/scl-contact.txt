@@ -1,0 +1,13 @@
+.travis/
+config/
+src/SclContact/
+tests/
+view/scl-contact/
+.gitignore
+.travis.yml
+LICENSE.txt
+Module.php
+README.md
+autoload_classmap.php
+composer.json
+phpunit.xml.dist

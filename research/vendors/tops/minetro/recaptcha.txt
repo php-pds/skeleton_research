@@ -1,0 +1,10 @@
+src/
+tests/
+.editorconfig
+.gitattributes
+.gitignore
+.travis.yml
+LICENCE.md
+README.md
+composer.json
+recaptcha.png

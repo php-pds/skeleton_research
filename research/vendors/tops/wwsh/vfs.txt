@@ -1,0 +1,7 @@
+spec/WW/Vfs/Iterator/
+src/WW/Vfs/
+.gitignore
+README.md
+composer.json
+composer.lock
+vfs-example.json

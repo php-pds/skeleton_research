@@ -1,0 +1,15 @@
+includes/
+tests/
+.codeclimate.yml
+.editorconfig
+.gitignore
+.travis.yml
+README.md
+changelog.txt
+composer.json
+content-types.php
+gulpfile.js
+license.txt
+package.json
+phpunit.xml
+readme.txt

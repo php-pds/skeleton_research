@@ -1,0 +1,10 @@
+Api/
+Block/Adminhtml/
+Command/
+Controller/Adminhtml/
+Model/
+etc/
+view/adminhtml/
+README.md
+composer.json
+registration.php

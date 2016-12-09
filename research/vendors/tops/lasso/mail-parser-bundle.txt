@@ -1,0 +1,15 @@
+DependencyInjection/
+PartTree/
+Resources/
+Tests/
+.gitignore
+.travis.yml
+LICENSE
+LassoMailParserBundle.php
+ParseHelper.php
+ParsedMail.php
+Parser.php
+PartFactory.php
+README.md
+composer.json
+phpunit.xml

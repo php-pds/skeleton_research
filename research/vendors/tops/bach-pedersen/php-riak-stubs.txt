@@ -1,0 +1,6 @@
+Riak/
+.gitattributes
+.gitignore
+README.md
+composer.json
+php_riak_stub.iml

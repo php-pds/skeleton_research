@@ -1,0 +1,9 @@
+Assets/
+DependencyInjection/
+Resources/config/
+Twig/Extension/
+.gitignore
+LICENSE
+README.md
+UneakAssetsManagerBundle.php
+composer.json

@@ -1,0 +1,15 @@
+Action/
+Api/
+Bridge/
+Model/
+Request/
+Tests/
+.gitattributes
+.gitignore
+Api.php
+LICENSE
+OnsitePaymentFactory.php
+PaymentFactory.php
+README.md
+composer.json
+phpunit.xml.dist

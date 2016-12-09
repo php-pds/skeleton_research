@@ -1,0 +1,16 @@
+Comments/
+Controller/
+DependencyInjection/
+Matcher/
+Resources/
+Tests/
+Twig/Extension/
+ezpublish_legacy/ezcommentsbundle/
+.gitignore
+.php_cs
+.travis.yml
+EzSystemsCommentsBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

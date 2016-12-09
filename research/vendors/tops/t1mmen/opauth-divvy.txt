@@ -1,0 +1,4 @@
+DivvyStrategy.php
+LICENSE
+README.md
+composer.json

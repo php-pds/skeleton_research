@@ -1,0 +1,8 @@
+Classes/
+Documentation/
+README.rst
+composer.json
+ext_emconf.php
+ext_icon.png
+ext_icon@2x.png
+ext_localconf.php

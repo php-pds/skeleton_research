@@ -1,0 +1,15 @@
+Command/
+Controller/Admin/
+DataGrid/
+DataSet/Admin/
+Entity/
+Factory/
+Form/Admin/
+Manager/
+Repository/
+Resources/
+Tests/
+LICENSE
+README.md
+WellCommerceDictionaryBundle.php
+composer.json

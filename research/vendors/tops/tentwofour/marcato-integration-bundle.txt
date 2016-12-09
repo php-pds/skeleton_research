@@ -1,0 +1,9 @@
+.idea/
+src/Ten24/MarcatoIntegrationBundle/
+test/Ten24/Tests/MarcatoIntegrationBundle/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

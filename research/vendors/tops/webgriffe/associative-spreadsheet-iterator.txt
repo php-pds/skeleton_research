@@ -1,0 +1,5 @@
+src/Webgriffe/AssociativeSpreadsheetIterator/
+.gitignore
+README.md
+composer.json
+phpunit.xml.dist

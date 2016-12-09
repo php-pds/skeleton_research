@@ -1,0 +1,12 @@
+backend/
+doc/
+specs/
+src/
+.env.example
+.gitignore
+Makefile
+README.md
+artisan
+circle.yml
+composer.json
+peridot.php

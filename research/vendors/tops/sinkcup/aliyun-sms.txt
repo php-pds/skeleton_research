@@ -1,0 +1,5 @@
+src/Aliyun/
+tests/
+LICENSE
+README.md
+composer.json

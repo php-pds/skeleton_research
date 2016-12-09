@@ -1,0 +1,12 @@
+.idea/
+res/
+src/
+view/
+.gitignore
+.graphpizer.json
+LICENSE
+README.md
+build.xml
+composer.json
+graphizer
+phpunit.xml

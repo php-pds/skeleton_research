@@ -1,0 +1,4 @@
+contao/
+src/Module/
+.gitignore
+composer.json

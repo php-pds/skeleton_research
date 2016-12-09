@@ -1,0 +1,5 @@
+Smarty/
+facebook-php-sdk/
+jsbeautifier/
+README.md
+composer.json

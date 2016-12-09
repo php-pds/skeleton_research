@@ -1,0 +1,9 @@
+.idea/
+DependencyInjection/
+Resources/config/
+Tests/Model/Factory/
+.gitignore
+README.md
+TPNEmailTemplatesBundle.php
+composer.json
+composer.lock

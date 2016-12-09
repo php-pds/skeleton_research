@@ -1,0 +1,17 @@
+caches/
+css/
+db/
+fonts/
+hooks/
+js/
+routes/
+templates/
+.gitignore
+.htaccess
+LICENSE
+README.md
+composer.json
+config.php.default
+index.php
+lint.php
+utils.php

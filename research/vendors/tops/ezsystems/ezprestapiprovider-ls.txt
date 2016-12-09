@@ -1,0 +1,7 @@
+classes/
+settings/
+tests/
+LICENSE
+README
+composer.json
+extension.xml

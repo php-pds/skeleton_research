@@ -1,0 +1,6 @@
+assets/
+Growl.php
+GrowlAsset.php
+LICENSE
+README.md
+composer.json

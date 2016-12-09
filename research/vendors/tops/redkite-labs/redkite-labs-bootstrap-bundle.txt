@@ -1,0 +1,13 @@
+Core/
+DependencyInjection/
+Resources/config/
+Tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CHANGELOG
+LICENSE
+README.md
+RedKiteLabsBootstrapBundle.php
+composer.json
+phpunit.xml.dist

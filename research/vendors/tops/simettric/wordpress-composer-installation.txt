@@ -1,0 +1,6 @@
+public/
+.gitignore
+LICENSE
+README.md
+composer.json
+config-prod.php.dist

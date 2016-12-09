@@ -1,0 +1,12 @@
+bin/
+run/
+src/WelcomeBundle/
+web/
+.gitignore
+LICENSE
+README.md
+app.conf
+app.swoole.conf
+bootstrap.php
+composer.json
+phpunit.xml.dist

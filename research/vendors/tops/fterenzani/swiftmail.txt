@@ -1,0 +1,7 @@
+tests/
+.gitignore
+LICENSE
+README.md
+SwiftMail.php
+VERSION
+composer.json

@@ -1,0 +1,8 @@
+commands/
+core/
+extends/
+.gitignore
+LICENSE
+README.md
+composer.json
+metadata.php

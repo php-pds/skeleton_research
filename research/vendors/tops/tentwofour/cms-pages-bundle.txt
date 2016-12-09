@@ -1,0 +1,12 @@
+.idea/
+DependencyInjection/
+Entity/
+Form/
+Resources/
+.gitignore
+.project
+README.md
+Ten24CMSPagesBundle.php
+composer.json
+composer.lock
+phpunit.xml.dist

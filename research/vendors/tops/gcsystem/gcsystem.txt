@@ -1,0 +1,12 @@
+app/
+doc/
+src/
+web/
+.gitignore
+.htaccess
+LICENSE
+README.md
+composer.json
+config.php
+console
+index.php

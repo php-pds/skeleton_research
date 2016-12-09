@@ -1,0 +1,10 @@
+bin/
+src/Drupal/Distro/Console/
+template/
+.editorconfig
+.gitignore
+LICENSE
+README.md
+box.json
+build.xml
+composer.json

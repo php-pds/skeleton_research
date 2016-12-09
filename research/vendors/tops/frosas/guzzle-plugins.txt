@@ -1,0 +1,8 @@
+src/Frosas/Guzzle/Http/Plugin/
+tests/Frosas/Guzzle/Http/Plugin/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,13 @@
+lib/Webforge/Collections/
+tests/Webforge/Collections/
+.coveralls.yml
+.gitattributes
+.gitignore
+.travis.yml
+README.md
+bootstrap.php
+composer.json
+package.boot.php
+phpunit.xml.dist
+rmt.json
+webforge-collections.sublime-project

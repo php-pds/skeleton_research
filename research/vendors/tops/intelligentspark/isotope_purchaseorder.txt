@@ -1,0 +1,9 @@
+config/
+dca/
+languages/en/
+library/IntelligentSpark/Model/Payment/
+templates/
+.gitignore
+LICENSE
+README.md
+composer.json

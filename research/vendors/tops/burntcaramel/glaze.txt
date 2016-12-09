@@ -1,0 +1,10 @@
+example new/
+example old/
+src/
+.gitignore
+LICENSE-MIT.txt
+README.md
+TODO.md
+all.php
+composer.json
+glaze-old.php

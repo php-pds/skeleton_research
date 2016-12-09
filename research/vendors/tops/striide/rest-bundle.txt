@@ -1,0 +1,9 @@
+Controller/
+DependencyInjection/
+Exceptions/
+Resources/
+Service/
+Tests/Controller/
+README.md
+StriideRestBundle.php
+composer.json

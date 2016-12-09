@@ -1,0 +1,6 @@
+Resources/views/
+.gitignore
+HarvestCloudDemoBundle.php
+LICENSE
+README.md
+composer.json

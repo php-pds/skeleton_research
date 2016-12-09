@@ -1,0 +1,9 @@
+DependencyInjection/
+Resources/
+.editorconfig
+.gitignore
+CONTRIBUTING.md
+IMTDataGridBundle.php
+Makefile
+README.md
+composer.json

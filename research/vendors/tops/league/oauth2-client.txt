@@ -1,0 +1,8 @@
+src/League/OAuth2/Client/
+tests/
+.gitignore
+.travis.yml
+README.md
+composer.json
+composer.lock
+phpunit.xml

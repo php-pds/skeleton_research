@@ -1,0 +1,11 @@
+Api/
+Block/Checkout/
+Console/Command/
+Helper/
+Model/
+etc/
+view/frontend/web/
+LICENSE.txt
+README.md
+composer.json
+registration.php

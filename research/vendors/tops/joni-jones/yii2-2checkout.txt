@@ -1,0 +1,12 @@
+tests/
+.gitignore
+LICENSE.md
+README.md
+TwoCheckout.php
+TwoCheckoutAdapter.php
+TwoCheckoutCharge.php
+TwoCheckoutMessage.php
+TwoCheckoutNotification.php
+TwoCheckoutReturn.php
+composer.json
+phpunit.xml.dist

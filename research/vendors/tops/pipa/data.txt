@@ -1,0 +1,4 @@
+src/Pipa/Data/
+.gitattributes
+.gitignore
+composer.json

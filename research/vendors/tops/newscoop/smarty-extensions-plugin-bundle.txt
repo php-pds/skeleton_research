@@ -1,0 +1,7 @@
+DependencyInjection/
+EventListener/
+Resources/
+LICENSE.txt
+NewscoopSmartyExtensionsPluginBundle.php
+README.md
+composer.json

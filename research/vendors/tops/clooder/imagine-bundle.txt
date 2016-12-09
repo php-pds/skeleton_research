@@ -1,0 +1,6 @@
+DependencyInjection/
+Resources/
+Stream/
+ClooderImagineBundle.php
+README.md
+composer.json

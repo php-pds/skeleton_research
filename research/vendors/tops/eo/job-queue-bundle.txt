@@ -1,0 +1,12 @@
+Command/
+Console/
+DependencyInjection/
+Document/
+Event/
+Exception/
+Resources/
+.gitignore
+.travis.yml
+EoJobQueueBundle.php
+README.md
+composer.json

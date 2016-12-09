@@ -1,0 +1,12 @@
+views/default/
+.gitattributes
+.gitignore
+CHANGELOG.md
+Gruntfile.js
+README.md
+autoloader.php
+composer.json
+manifest.xml
+package.json
+release.md
+start.php

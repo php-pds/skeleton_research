@@ -1,0 +1,7 @@
+Channel/
+DependencyInjection/
+Resources/
+AndreasGlaserNotifyBundle.php
+LICENSE
+README.md
+composer.json

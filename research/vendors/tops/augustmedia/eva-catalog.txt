@@ -1,0 +1,6 @@
+src/
+views/eva-catalog/
+.gitignore
+LICENSE.md
+README.md
+composer.json

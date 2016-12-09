@@ -1,0 +1,14 @@
+DependencyInjection/
+Entity/
+Exception/
+Model/
+Resources/config/
+Service/
+Tests/Service/
+VoterFactory/
+VoterRecordProvider/
+.gitignore
+AppscoAssertionVoterBundle.php
+LICENSE.md
+README.md
+composer.json

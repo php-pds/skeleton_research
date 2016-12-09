@@ -1,0 +1,9 @@
+src/ZfConsoleHelperDebian6Backport/Controller/Console/
+.gitignore
+LICENSE
+Module.php
+README.md
+autoload_classmap.php
+autoload_function.php
+autoload_register.php
+composer.json

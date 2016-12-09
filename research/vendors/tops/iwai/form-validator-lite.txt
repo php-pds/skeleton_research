@@ -1,0 +1,6 @@
+FormValidatorLite/
+.gitignore
+FormValidatorLite.php
+LICENSE
+README.md
+composer.json

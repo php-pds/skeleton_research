@@ -1,0 +1,12 @@
+resources/
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+composer.json
+functions.php
+index.php
+phpcs.xml
+screenshot.png
+style.css

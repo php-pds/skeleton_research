@@ -1,0 +1,10 @@
+src/
+test/
+tests/
+vendor/
+.gitignore
+.travis.yml
+README.md
+composer.json
+phpunit.xml
+updatable

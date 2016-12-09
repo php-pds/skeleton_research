@@ -1,0 +1,12 @@
+Tests/
+examples/
+src/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CHANGELOG-1.1.md
+LICENSE
+README.md
+UPGRADE-1.1.md
+composer.json
+phpunit.xml.dist

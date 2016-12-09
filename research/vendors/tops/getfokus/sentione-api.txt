@@ -1,0 +1,4 @@
+SentioneApi/
+.gitignore
+README.md
+composer.json

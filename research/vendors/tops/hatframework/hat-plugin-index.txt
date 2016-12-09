@@ -1,0 +1,7 @@
+Config/
+index/
+tests/
+.gitattributes
+.gitignore
+autoload.php
+composer.json

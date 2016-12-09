@@ -1,0 +1,6 @@
+.gitignore
+Captcha.php
+CaptchaInterface.php
+LICENSE
+README.md
+composer.json

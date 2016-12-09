@@ -1,0 +1,9 @@
+spec/MindOfMicah/Modules/
+src/MindOfMicah/Modules/
+tests/
+.gitignore
+LICENSE
+README.md
+codeception.yml
+composer.json
+phpspec.yml

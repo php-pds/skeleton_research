@@ -1,0 +1,17 @@
+code/forms/gridfield/
+css/
+docs/en/
+images/
+javascript/
+templates/forms/
+.editorconfig
+.gitattributes
+.gitignore
+.scrutinizer.yml
+CHANGELOG.md
+CODE-OF-CONDUCT.md
+CONTRIBUTING.md
+LICENSE
+README.md
+_config.php
+composer.json

@@ -1,0 +1,11 @@
+cli/
+controllers/
+install/
+lib/PimcoreDeployment/
+static/
+views/scripts/
+.DS_Store
+README.md
+composer.json
+deploymentconfig.default.php
+plugin.xml

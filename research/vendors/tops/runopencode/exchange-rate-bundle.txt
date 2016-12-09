@@ -1,0 +1,9 @@
+src/RunOpenCode/Bundle/ExchangeRate/
+test/
+.scrutinizer.yml
+.travis.yml
+LICENSE
+ROLES.markdown
+Readme.markdown
+composer.json
+phpunit.xml

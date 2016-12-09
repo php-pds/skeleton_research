@@ -1,0 +1,11 @@
+checkout/
+code/
+lang/
+templates/checkout/
+.gitattributes
+.hgignore
+.htaccess
+LICENSE.md
+README.md
+_config.php
+composer.json

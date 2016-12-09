@@ -1,0 +1,6 @@
+lib/Webit/Weather/WorldWeather/LocalWeather/
+static/
+.gitignore
+LICENSE
+README.md
+composer.json

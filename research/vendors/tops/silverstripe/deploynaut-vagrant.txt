@@ -1,0 +1,9 @@
+roles/
+.gitignore
+LICENSE
+README.md
+Vagrantfile
+composer.json
+node_deploynaut.yml
+node_ha.yml
+node_web.yml

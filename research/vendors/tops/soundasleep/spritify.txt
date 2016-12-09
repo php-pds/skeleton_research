@@ -1,0 +1,11 @@
+test/
+.editorconfig
+.gitignore
+.travis.yml
+LICENSE.md
+README.md
+composer.json
+composer.lock
+functions.php
+phpunit.xml
+spritify.php

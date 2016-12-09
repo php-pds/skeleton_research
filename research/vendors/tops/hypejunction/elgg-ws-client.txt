@@ -1,0 +1,7 @@
+classes/hypeJunction/WebServices/
+tests/
+.gitattributes
+.gitignore
+README.md
+composer.json
+phpunit.xml

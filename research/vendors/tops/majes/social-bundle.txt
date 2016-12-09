@@ -1,0 +1,10 @@
+Controller/
+Entity/
+Form/
+Resources/
+Services/
+Twig/
+vendor/
+.gitignore
+MajesSocialBundle.php
+composer.json

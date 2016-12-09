@@ -1,0 +1,17 @@
+src/
+tests/
+.editorconfig
+.gitattributes
+.gitignore
+.nitpick.json
+.php_cs
+.travis.yml
+LICENSE
+README.md
+composer.json
+elixir.json
+gulpfile.js
+package.json
+phpcs.xml
+phpunit.xml
+ruleset.xml

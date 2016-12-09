@@ -1,0 +1,15 @@
+Admin/
+Component/
+Console/
+Controller/
+Field/
+Router/
+System/
+Template/
+lib/
+update/
+.gitignore
+README.md
+changelog.json
+composer.json
+index.php

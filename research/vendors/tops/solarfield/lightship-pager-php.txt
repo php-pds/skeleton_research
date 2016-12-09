@@ -1,0 +1,5 @@
+src/Solarfield/Pager/
+.gitignore
+LICENSE
+README.md
+composer.json

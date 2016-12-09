@@ -1,0 +1,12 @@
+Inspector/
+Metadata/
+Resources/
+Tests/
+Type/
+.gitignore
+.travis.yml
+ExtraPlugin.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

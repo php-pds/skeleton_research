@@ -1,0 +1,6 @@
+models/search/
+panels/
+views/
+.gitignore
+README.md
+composer.json

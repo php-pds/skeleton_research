@@ -1,0 +1,4 @@
+lib/WpPostInspector/
+.gitignore
+README.md
+composer.json

@@ -1,0 +1,3 @@
+src/EssentialDots/Headless/
+README.md
+composer.json

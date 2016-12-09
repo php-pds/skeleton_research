@@ -1,0 +1,5 @@
+lib/ch/metanet/hipchat/api/
+.gitignore
+LICENSE
+README.md
+composer.json

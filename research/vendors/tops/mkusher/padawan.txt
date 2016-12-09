@@ -1,0 +1,13 @@
+app/config/
+bin/
+features/
+specs/
+src/Padawan/
+stubs/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+behat.yml
+composer.json
+peridot.php

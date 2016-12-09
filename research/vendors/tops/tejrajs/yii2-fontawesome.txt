@@ -1,0 +1,7 @@
+assets/
+FontAwesome.php
+FontAwesomeAsset.php
+LICENSE
+LICENSE.md
+README.md
+composer.json

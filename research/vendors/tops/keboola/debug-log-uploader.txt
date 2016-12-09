@@ -1,0 +1,12 @@
+docker/php56/
+src/Keboola/DebugLogUploader/
+tests/
+.gitignore
+.travis.yml
+LICENSE.md
+README.md
+aws-services.json
+composer.json
+docker-compose.yml
+phpunit.xml.dist
+tests.sh

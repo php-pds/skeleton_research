@@ -1,0 +1,12 @@
+source/Apical/Amazon/
+test/
+.coveralls.yml
+.gitignore
+.scrutinizer.yml
+.styleci.yml
+.travis.yml
+LICENSE.txt
+circle.yml
+composer.json
+ruleset.xml
+shippable.yml

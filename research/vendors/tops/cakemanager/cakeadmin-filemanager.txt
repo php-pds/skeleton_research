@@ -1,0 +1,10 @@
+config/
+src/
+tests/TestCase/
+vendor/
+webroot/
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

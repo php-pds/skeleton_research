@@ -1,0 +1,8 @@
+docs/
+src/
+.gitattributes
+.gitignore
+.styleci.yml
+bootstrap.php
+composer.json
+readme.md

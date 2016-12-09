@@ -1,0 +1,7 @@
+lib/EarthIT/
+test/EarthIT/
+.gitignore
+.travis.yml
+Makefile
+README.md
+composer.json

@@ -1,0 +1,5 @@
+src/Neos/Image/
+.gitignore
+LICENSE
+README.md
+composer.json

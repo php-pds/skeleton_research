@@ -1,0 +1,8 @@
+bin/
+coding-standard/Symfony2/
+git/
+php-cs-fixer-config/
+.gitignore
+README.md
+composer.json
+composer.lock

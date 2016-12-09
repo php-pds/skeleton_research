@@ -1,0 +1,10 @@
+app/
+bin/
+src/AppBundle/
+tests/
+var/
+web/
+.gitignore
+LICENSE
+README.md
+composer.json

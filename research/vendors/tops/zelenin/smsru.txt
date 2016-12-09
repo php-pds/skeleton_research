@@ -1,0 +1,11 @@
+Auth/
+Client/
+Entity/
+Exception/
+Response/
+.gitignore
+Api.php
+LICENSE
+composer.json
+composer.lock
+readme.md

@@ -1,0 +1,7 @@
+src/MundiPagg/
+.gitignore
+LICENSE.txt
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

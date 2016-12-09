@@ -1,0 +1,9 @@
+DependencyInjection/
+Entity/
+Resources/
+.gitignore
+CampaignChainLocationCitrixBundle.php
+LICENSE
+README.md
+campaignchain.yml
+composer.json

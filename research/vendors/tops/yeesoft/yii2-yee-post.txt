@@ -1,0 +1,10 @@
+assets/
+controllers/
+migrations/
+models/
+views/
+widgets/
+LICENSE.md
+PostModule.php
+README.md
+composer.json

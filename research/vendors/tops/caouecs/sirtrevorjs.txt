@@ -1,0 +1,10 @@
+src/
+test/Caouecs/Tests/Sirtrevorjs/
+.editorconfig
+.gitignore
+Changelog.md
+LICENSE
+README.md
+composer.json
+phpci.yml
+phpunit.xml

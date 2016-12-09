@@ -1,0 +1,8 @@
+app/
+log/
+temp/
+www/
+.gitignore
+.htaccess
+composer.json
+readme.md

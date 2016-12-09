@@ -1,0 +1,7 @@
+config/
+data/schema/
+src/LemoUser/
+view/lemo-user/
+.gitignore
+Module.php
+composer.json

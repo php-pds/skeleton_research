@@ -1,0 +1,12 @@
+actions/
+assets/
+components/
+events/
+exceptions/
+migrations/
+models/
+web/
+widgets/
+.gitignore
+README.md
+composer.json

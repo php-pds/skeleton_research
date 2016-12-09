@@ -1,0 +1,5 @@
+src/Alc/Thread/
+.gitignore
+README.md
+composer.json
+example.php

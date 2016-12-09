@@ -1,0 +1,7 @@
+configuration/
+htdocs/
+logs/
+.gitignore
+README.rst
+composer.json
+composer.lock

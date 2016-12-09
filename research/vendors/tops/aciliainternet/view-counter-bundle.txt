@@ -1,0 +1,10 @@
+Command/
+DependencyInjection/
+Entity/
+Library/ViewCounter/
+Resources/config/
+Service/
+.gitignore
+AciliaViewCounterBundle.php
+README.md
+composer.json

@@ -1,0 +1,8 @@
+.github/
+CHANGE.md
+CheckboxX.php
+CheckboxXAsset.php
+KrajeeFlatBlueThemeAsset.php
+LICENSE.md
+README.md
+composer.json

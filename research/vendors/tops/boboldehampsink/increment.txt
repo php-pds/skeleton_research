@@ -1,0 +1,6 @@
+fieldtypes/
+templates/
+IncrementPlugin.php
+LICENSE
+README.md
+composer.json

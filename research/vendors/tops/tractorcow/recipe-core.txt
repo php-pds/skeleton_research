@@ -1,0 +1,5 @@
+mysite/
+.cow.json
+.gitignore
+.htaccess
+composer.json

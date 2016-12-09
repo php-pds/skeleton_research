@@ -1,0 +1,5 @@
+src/SampleApp/Plugins/
+.gitignore
+README.md
+app.php
+composer.json

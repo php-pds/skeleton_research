@@ -1,0 +1,6 @@
+src/EnliteTest/
+test/
+.gitignore
+README.md
+composer.json
+phpunit.xml

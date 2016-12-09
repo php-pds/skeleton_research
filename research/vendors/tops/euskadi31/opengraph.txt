@@ -1,0 +1,8 @@
+Tests/Units/
+demo/
+src/Opengraph/
+.gitignore
+.travis.yml
+LICENSE
+README.markdown
+composer.json

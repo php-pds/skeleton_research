@@ -1,0 +1,6 @@
+app/
+skin/frontend/rwd/default/js/dr/betterconfigurableswatches/
+.gitignore
+README.md
+composer.json
+modman

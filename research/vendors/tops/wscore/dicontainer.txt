@@ -1,0 +1,6 @@
+scripts/
+src/WScore/DiContainer/
+tests/
+.gitignore
+README.md
+composer.json

@@ -1,0 +1,16 @@
+application/
+assets/
+build/
+features/
+media/
+.gitignore
+.htaccess
+LICENSE.md
+README.md
+behat.yml
+build.xml
+composer.json
+index.php
+install.php
+minion
+phpunit.xml

@@ -1,0 +1,12 @@
+doc/
+ext/twig/
+lib/Twig/
+test/
+.editorconfig
+.gitignore
+.travis.yml
+CHANGELOG
+LICENSE
+README.rst
+composer.json
+phpunit.xml.dist

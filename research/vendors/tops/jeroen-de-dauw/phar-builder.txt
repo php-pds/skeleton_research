@@ -1,0 +1,10 @@
+.idea/
+src/
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+README.md
+composer.json
+entryPoint.php
+phpunit.xml.dist

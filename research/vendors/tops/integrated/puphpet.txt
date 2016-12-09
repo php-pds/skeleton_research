@@ -1,0 +1,12 @@
+files/
+puppet/
+ruby/
+shell/
+vagrant/
+.gitattributes
+LICENSE
+README.md
+Vagrantfile.dist
+composer.json
+config-custom.yaml.dist
+config.yaml

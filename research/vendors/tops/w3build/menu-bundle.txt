@@ -1,0 +1,5 @@
+src/W3build/MenuBundle/
+vendor/
+.gitignore
+README.md
+composer.json

@@ -1,0 +1,8 @@
+.gitignore
+Associative.php
+AssociativeStrict.php
+AssociativeTrait.php
+MultitonFactory.php
+Strict.php
+StrictTrait.php
+composer.json

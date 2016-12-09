@@ -1,0 +1,5 @@
+etc/
+.gitattributes
+.gitignore
+composer.json
+registration.php

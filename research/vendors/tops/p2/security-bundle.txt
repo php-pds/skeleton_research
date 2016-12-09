@@ -1,0 +1,9 @@
+DependencyInjection/
+Resources/config/
+Security/
+.gitignore
+LICENSE
+P2SecurityBundle.php
+README.md
+composer.json
+composer.lock

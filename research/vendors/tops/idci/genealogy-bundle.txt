@@ -1,0 +1,11 @@
+Controller/
+DataFixtures/ORM/
+DependencyInjection/
+Entity/
+Form/Type/
+Repository/
+Resources/
+.gitignore
+IDCIGenealogyBundle.php
+README.md
+composer.json

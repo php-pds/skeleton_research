@@ -1,0 +1,15 @@
+css/
+fields/
+js/
+lib/
+templates/
+templates_bootstrap/
+tests/
+validators/
+.gitignore
+README.md
+composer.json
+examples.inc
+magic_forms.info
+magic_forms.install
+magic_forms.module

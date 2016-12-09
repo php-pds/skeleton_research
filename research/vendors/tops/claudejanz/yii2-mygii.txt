@@ -1,0 +1,4 @@
+generators/
+Bootstrap.php
+README.md
+composer.json

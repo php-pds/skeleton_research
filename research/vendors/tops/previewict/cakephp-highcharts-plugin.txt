@@ -1,0 +1,9 @@
+Controller/
+Model/
+Vendor/
+View/
+webroot/
+COPYING.GPL
+COPYING.LGPL
+README.markdown
+composer.json

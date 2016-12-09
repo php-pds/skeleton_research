@@ -1,0 +1,12 @@
+Builder/
+Datagrid/
+DependencyInjection/
+Model/
+Repository/
+Resources/config/
+Transformer/
+LICENSE
+MarmelabSonataElasticaBundle.php
+README.md
+UPDGRADE-2.0-dev.md
+composer.json

@@ -1,0 +1,3 @@
+classes/
+config/
+composer.json

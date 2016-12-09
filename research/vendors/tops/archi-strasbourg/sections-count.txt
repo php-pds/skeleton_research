@@ -1,0 +1,13 @@
+tests/
+.gitignore
+.travis.yml
+Gruntfile.js
+LICENSE
+README.md
+SectionsCount.i18n.magic.php
+SectionsCount.php
+composer.json
+composer.lock
+extension.json
+package.json
+phpunit.xml

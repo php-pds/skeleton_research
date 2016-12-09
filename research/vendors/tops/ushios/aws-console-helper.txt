@@ -1,0 +1,12 @@
+Common/
+Resources/
+Ssh/
+Tests/
+.gitignore
+LICENSE
+README.md
+bootstrap.php
+composer.json
+composer.lock
+phpunit.xml.dist
+ssh_config.php

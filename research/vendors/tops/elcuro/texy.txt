@@ -1,0 +1,5 @@
+Config/
+Vendor/
+View/Helper/
+README
+composer.json

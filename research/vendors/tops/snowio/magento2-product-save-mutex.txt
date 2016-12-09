@@ -1,0 +1,7 @@
+Plugin/
+etc/
+.gitignore
+LICENSE
+README.md
+composer.json
+registration.php

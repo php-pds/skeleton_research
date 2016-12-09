@@ -1,0 +1,9 @@
+app/
+config/
+logs/
+public/
+views/
+.env
+.gitignore
+README.md
+composer.json

@@ -1,0 +1,7 @@
+src/GSoares/Annotation/
+test/GSoares/Annotation/
+.gitignore
+README.md
+composer.json
+composer.lock
+phpunit.xml

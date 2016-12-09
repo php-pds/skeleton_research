@@ -1,0 +1,4 @@
+lib/Instagram/
+.gitignore
+README.md
+composer.json

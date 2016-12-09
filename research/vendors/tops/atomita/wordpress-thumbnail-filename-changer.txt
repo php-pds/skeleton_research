@@ -1,0 +1,5 @@
+.gitattributes
+.gitignore
+README.md
+composer.json
+thumbnail-filename-changer.php

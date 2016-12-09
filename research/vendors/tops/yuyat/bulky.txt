@@ -1,0 +1,15 @@
+examples/
+src/Yuyat/Bulky/
+tests/
+.gitignore
+.travis.yml
+ChangeLog.md
+Gemfile
+Gemfile.lock
+Guardfile
+LICENSE
+Venomfile
+composer.json
+install.sh
+phpunit.xml
+venom.php

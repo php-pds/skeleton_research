@@ -1,0 +1,17 @@
+.idea/
+public/
+src/Fabfuel/Prophiler/
+tests/
+tools/
+.dockerignore
+.gitattributes
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CONTRIBUTING.md
+Dockerfile
+LICENSE.md
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

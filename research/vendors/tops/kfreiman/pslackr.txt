@@ -1,0 +1,11 @@
+examples/
+src/FullyBaked/Pslackr/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+VERSION
+composer.json
+composer.lock
+phpunit.xml

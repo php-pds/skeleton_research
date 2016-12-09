@@ -1,0 +1,8 @@
+src/HttpSignatures/Guzzle/
+tests/
+.gitignore
+.travis.yml
+LICENSE.txt
+README.md
+composer.json
+phpunit.xml.dist

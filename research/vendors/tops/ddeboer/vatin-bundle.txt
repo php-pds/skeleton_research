@@ -1,0 +1,10 @@
+DependencyInjection/
+Resources/config/
+Tests/Validator/Contraints/
+Validator/Constraints/
+.travis.yml
+DdeboerVatinBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,14 @@
+actions/
+configs/
+public/
+solve/
+templates/
+tests/
+.codeclimate.yml
+.travis.yml
+CHANGELOG.md
+LICENSE.md
+README.md
+TODO.md
+composer.json
+phpunit.xml

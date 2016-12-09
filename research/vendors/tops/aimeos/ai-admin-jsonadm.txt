@@ -1,0 +1,10 @@
+.tx/
+admin/jsonadm/
+.coveralls.yml
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+manifest.php
+phing.xml

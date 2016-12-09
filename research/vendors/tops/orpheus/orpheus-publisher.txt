@@ -1,0 +1,10 @@
+.settings/
+docs/
+src/
+.buildpath
+.gitignore
+.project
+LICENSE
+README.md
+composer.json
+composer.lock

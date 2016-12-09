@@ -1,0 +1,11 @@
+bin/
+features/
+gen/
+src/QuickConfigure/
+.gitignore
+.travis.yml
+LICENSE.txt
+README.md
+composer.json
+composer.lock
+example-quick-configure.json

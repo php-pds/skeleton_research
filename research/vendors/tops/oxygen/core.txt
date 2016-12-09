@@ -1,0 +1,14 @@
+.phpspec/
+resources/lang/en/
+spec/
+src/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+icon.png
+phpcs.xml
+phpspec.yml
+phpunit.xml

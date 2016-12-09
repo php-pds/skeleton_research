@@ -1,0 +1,8 @@
+assets/js/
+type/
+BarcodeAbstractType.php
+BarcodeAsset.php
+BarcodeChecksum.php
+BarcodeValidator.php
+README.md
+composer.json

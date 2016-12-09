@@ -1,0 +1,10 @@
+.idea/
+cacher/
+ext/
+tests/
+.gitignore
+.travis.yml
+README.md
+composer.json
+config.json
+phpunit.xml.dist

@@ -1,0 +1,14 @@
+examples/
+specs/PhpPackages/Container/
+src/
+stubs/
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENSE
+Makefile
+README.md
+composer.json
+composer.lock
+phpspec.yml.ci
+phpspec.yml.dist

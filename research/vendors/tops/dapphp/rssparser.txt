@@ -1,0 +1,6 @@
+FeedException.php
+LICENSE
+README.md
+RssParser.php
+composer.json
+example.php

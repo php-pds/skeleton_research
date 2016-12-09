@@ -1,0 +1,14 @@
+features/
+src/
+tests/
+utils/
+.coveralls.yml
+.editorconfig
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+command.php
+composer.json
+phpunit.xml.dist

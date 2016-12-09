@@ -1,0 +1,13 @@
+assets/
+components/
+controllers/
+tests/
+views/
+.gitignore
+LICENSE.txt
+Module.php
+README.md
+SwaggerAsset.php
+ansi2html.sh
+composer.json
+config.php

@@ -1,0 +1,6 @@
+demo/
+src/
+.gitignore
+.htaccess
+README.md
+composer.json

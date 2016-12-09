@@ -1,0 +1,11 @@
+.idea/
+assets/public/
+data/parametresWTEnEg_8/
+src/
+tests/
+vendor/
+views/
+.gitignore
+composer.json
+composer.lock
+phpunit.xml

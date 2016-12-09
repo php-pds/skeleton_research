@@ -1,0 +1,13 @@
+DependencyInjection/
+Document/
+Exception/
+File/
+Manipulator/
+Resources/config/
+Tests/
+.travis.yml
+DdeboerDocumentManipulationBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

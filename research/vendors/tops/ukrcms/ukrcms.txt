@@ -1,0 +1,12 @@
+blog-pack/
+bundles/
+core/
+dev-data/
+generate-packs/
+tests/
+wiki/
+.gitattributes
+.gitignore
+LICENSE.txt
+README.md
+composer.json

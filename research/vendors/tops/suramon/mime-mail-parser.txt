@@ -1,0 +1,7 @@
+data/
+examples/
+.project
+MimeMailParser.class.php
+attachment.class.php
+autoload.php
+composer.json

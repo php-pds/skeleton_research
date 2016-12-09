@@ -1,0 +1,13 @@
+bin/
+docs/
+src/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.markdown
+box.json
+composer.json
+phpchunkit.phar
+phpchunkit.xml.dist
+phpunit.xml.dist

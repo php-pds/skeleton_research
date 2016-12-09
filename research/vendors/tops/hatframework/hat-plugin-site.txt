@@ -1,0 +1,17 @@
+Config/
+conf/classes/
+conffile/classes/
+confgrupo/classes/
+configuracao/
+index/
+js/
+menu/classes/
+nbproject/
+sitemap/classes/
+tests/
+webservice/classes/
+.gitattributes
+.gitignore
+autoload.php
+composer.json
+data.php

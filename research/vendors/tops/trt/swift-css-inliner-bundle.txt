@@ -1,0 +1,12 @@
+Converter/
+DependencyInjection/
+Plugin/
+Resources/config/
+Tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+TrtSwiftCssInlinerBundle.php
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,12 @@
+src/
+tests/
+.gitattributes
+.gitignore
+.travis.yml
+.updateignore
+LICENSE
+README.md
+composer.json
+example.php
+example2.php
+grumphp.yml

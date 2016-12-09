@@ -1,0 +1,4 @@
+src/ride/library/varnish/
+CHANGELOG.md
+README.md
+composer.json

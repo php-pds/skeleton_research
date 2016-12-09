@@ -1,0 +1,4 @@
+src/Jimtendo/NamedEntitiesFinder/
+LICENSE
+README.md
+composer.json

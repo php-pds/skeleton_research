@@ -1,0 +1,8 @@
+src/
+tests/
+.gitignore
+LICENSE
+codeception.yml
+composer.json
+composer.lock
+phpci.yml

@@ -1,0 +1,15 @@
+Kwf/Owlcarousel/Kwc/
+Owlcarousel/Kwc/
+cache/
+tests/
+.gitignore
+.htaccess
+.travis.yml
+COPYING
+README.md
+bootstrap.php
+composer.json
+composer.lock
+dependencies.ini
+phpunit.xml
+tests.bootstrap.php

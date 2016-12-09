@@ -1,0 +1,7 @@
+wordpress/
+CHANGELOG.md
+README.md
+class-Clockwork.php
+class-ClockworkException.php
+composer.json
+license.txt

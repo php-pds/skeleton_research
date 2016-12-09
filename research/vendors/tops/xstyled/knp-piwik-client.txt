@@ -1,0 +1,9 @@
+src/Knp/PiwikClient/
+tests/
+vendor/
+.gitmodules
+LICENSE
+README.md
+autoload.php.dist
+composer.json
+phpunit.xml.dist

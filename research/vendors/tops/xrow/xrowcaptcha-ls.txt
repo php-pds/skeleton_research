@@ -1,0 +1,7 @@
+classes/
+cronjobs/
+design/standard/
+doc/
+settings/
+translations/
+composer.json

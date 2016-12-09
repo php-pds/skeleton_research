@@ -1,0 +1,4 @@
+contrib/extraction/
+dist/
+README.md
+composer.json

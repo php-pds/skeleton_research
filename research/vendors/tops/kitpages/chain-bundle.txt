@@ -1,0 +1,16 @@
+Chain/
+Command/
+DependencyInjection/
+Proxy/
+Resources/config/
+Step/
+Tests/
+.gitignore
+.travis.yml
+ChainException.php
+KitpagesChainBundle.php
+KitpagesChainEvents.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

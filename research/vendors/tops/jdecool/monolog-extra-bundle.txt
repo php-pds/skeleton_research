@@ -1,0 +1,12 @@
+DependencyInjection/
+Processor/
+Resources/config/
+Tests/Units/Processor/
+.atoum.php
+.bootstrap.atoum.php
+.gitignore
+.travis.yml
+JDecoolMonologExtraBundle.php
+LICENSE
+README.md
+composer.json

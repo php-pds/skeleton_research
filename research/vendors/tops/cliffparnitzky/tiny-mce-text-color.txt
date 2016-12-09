@@ -1,0 +1,7 @@
+assets/tinymce4/plugins/textcolor/
+system/modules/TinyMceTextColor/
+.gitattributes
+.gitignore
+README.md
+composer.json
+screenshot.jpg

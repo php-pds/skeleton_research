@@ -1,0 +1,10 @@
+database/
+lang/en/helps/
+pages/
+src/
+storage/
+themes/
+.gitignore
+README.md
+composer.json
+extension.php

@@ -1,0 +1,8 @@
+DependencyInjection/
+Doctrine/
+Resources/config/
+Subscriber/
+.gitignore
+AstinaDomainEventsBundle.php
+README.md
+composer.json

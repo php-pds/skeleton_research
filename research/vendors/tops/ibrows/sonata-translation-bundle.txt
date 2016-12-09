@@ -1,0 +1,11 @@
+Admin/
+Command/
+Controller/
+DependencyInjection/
+Event/
+Resources/
+.gitignore
+IbrowsSonataTranslationBundle.php
+LICENSE
+README.md
+composer.json

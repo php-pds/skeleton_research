@@ -1,0 +1,16 @@
+Builder/
+Command/
+DependencyInjection/
+Exception/
+Resources/
+Route/
+Tests/
+Twig/
+Util/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+SfynxToolBundle.php
+composer.json
+phpunit.xml.dist

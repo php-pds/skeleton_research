@@ -1,0 +1,6 @@
+src/
+vendor/
+.gitignore
+LICENSE
+composer.json
+composer.phar

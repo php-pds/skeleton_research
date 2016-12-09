@@ -1,0 +1,11 @@
+_config/
+code/forms/
+.editorconfig
+.gitattributes
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE.md
+README.md
+changelog.md
+composer.json

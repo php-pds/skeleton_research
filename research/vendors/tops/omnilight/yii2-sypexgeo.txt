@@ -1,0 +1,6 @@
+vendor/
+GeoBehavior.php
+LICENSE
+README.md
+SypexGeo.php
+composer.json

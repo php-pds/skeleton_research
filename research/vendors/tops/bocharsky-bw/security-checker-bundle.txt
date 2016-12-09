@@ -1,0 +1,10 @@
+Controller/
+DataCollector/
+DependencyInjection/
+Entity/
+Resources/
+.gitignore
+BWSecurityCheckerBundle.php
+LICENSE
+README.md
+composer.json

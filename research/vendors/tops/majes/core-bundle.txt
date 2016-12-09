@@ -1,0 +1,14 @@
+Annotation/
+Composer/
+Controller/
+Conversion/
+DependencyInjection/
+Entity/
+EventListener/
+Form/
+Resources/
+Services/
+Twig/
+Utils/
+MajesCoreBundle.php
+composer.json

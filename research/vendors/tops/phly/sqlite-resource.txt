@@ -1,0 +1,7 @@
+src/Phly/SqliteResource/
+test/
+.gitignore
+.travis.yml
+README.md
+composer.json
+schema.sqlite.sql

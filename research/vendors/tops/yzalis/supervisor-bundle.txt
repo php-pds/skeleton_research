@@ -1,0 +1,11 @@
+Controller/
+DependencyInjection/
+Manager/
+Resources/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+YZSupervisorBundle.php
+composer.json
+phpunit.xml.dist

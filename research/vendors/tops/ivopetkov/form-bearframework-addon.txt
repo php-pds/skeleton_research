@@ -1,0 +1,11 @@
+assets/
+components/
+src/
+.gitattributes
+.gitignore
+.travis.yml
+LICENSE
+autoload.php
+composer.json
+index.php
+phpunit.xml

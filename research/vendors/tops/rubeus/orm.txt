@@ -1,0 +1,6 @@
+ExecutarBase/
+GerenciarObjeto/
+MapXML/
+Persistente.php
+Persistir.php
+composer.json

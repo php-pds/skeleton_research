@@ -1,0 +1,11 @@
+SoPhp/Framework/
+config/
+demo/
+tests/
+.gitignore
+README.md
+bootstrap.php
+composer.json
+receive.php
+reset.php
+send.php

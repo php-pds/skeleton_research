@@ -1,0 +1,8 @@
+docs/
+src/LineStorm/
+tests/
+.bower.json
+.gitignore
+.travis.yml
+README.md
+composer.json

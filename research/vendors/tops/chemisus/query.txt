@@ -1,0 +1,4 @@
+src/Query/
+test/Query/
+composer.json
+phpunit.xml

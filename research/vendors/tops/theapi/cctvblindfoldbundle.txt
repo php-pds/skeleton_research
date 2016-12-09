@@ -1,0 +1,17 @@
+Command/
+Controller/
+DependencyInjection/
+Entity/
+Resources/
+arduino/
+python/
+.gitignore
+Blindfold.php
+DeviceDetector.php
+Events.php
+LICENSE
+README.md
+Scheduler.php
+Stepper.php
+TheapiCctvBlindfoldBundle.php
+composer.json

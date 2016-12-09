@@ -1,0 +1,8 @@
+_config/
+code/
+js/
+lang/
+.htaccess
+LICENSE
+composer.json
+htaccess-example

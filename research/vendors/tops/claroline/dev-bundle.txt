@@ -1,0 +1,6 @@
+Command/
+Manager/
+Resources/
+ClarolineDevBundle.php
+README.md
+composer.json

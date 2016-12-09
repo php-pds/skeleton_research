@@ -1,0 +1,8 @@
+config/
+src/Eye4web/Zf2BoardAdmin/
+view/eye4web-zf2-board-admin/
+.gitignore
+LICENSE
+Module.php
+README.md
+composer.json

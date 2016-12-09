@@ -1,0 +1,6 @@
+bc/generator/
+bin/
+config/
+def/
+.gitignore
+composer.json

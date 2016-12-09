@@ -1,0 +1,4 @@
+example/
+src/MicrosoftTranslator/
+README.md
+composer.json

@@ -1,0 +1,11 @@
+lib/Philasearch/Cache/
+tests/
+.gitignore
+.travis.yml
+Gemfile
+Gemfile.lock
+Guardfile
+README.md
+composer.json
+composer.lock
+phpunit.xml

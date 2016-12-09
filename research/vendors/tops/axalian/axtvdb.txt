@@ -1,0 +1,5 @@
+config/
+src/AxTvDb/
+test/
+README.md
+composer.json

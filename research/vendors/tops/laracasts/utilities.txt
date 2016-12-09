@@ -1,0 +1,7 @@
+spec/Laracasts/Utilities/JavaScript/
+src/
+.gitignore
+.travis.yml
+LICENSE
+composer.json
+readme.md

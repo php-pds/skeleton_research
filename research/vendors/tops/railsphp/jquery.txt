@@ -1,0 +1,4 @@
+lib/Rails/Jquery/
+vendor/assets/javascripts/
+README.md
+composer.json

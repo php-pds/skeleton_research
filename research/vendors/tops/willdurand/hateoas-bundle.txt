@@ -1,0 +1,12 @@
+DependencyInjection/
+ExpressionLanguage/
+Hateoas/Expression/
+Resources/
+Tests/
+.gitignore
+.travis.yml
+BazingaHateoasBundle.php
+CONTRIBUTING.md
+README.md
+composer.json
+phpunit.xml.dist

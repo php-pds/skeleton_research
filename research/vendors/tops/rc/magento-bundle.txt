@@ -1,0 +1,13 @@
+DependencyInjection/
+EventDispatcher/
+EventListener/
+Resources/
+Security/
+SessionStorage/
+StoreResolver/
+Templating/
+Test/
+LiipMagentoBundle.php
+README.md
+composer.json
+magento-autoloader.patch

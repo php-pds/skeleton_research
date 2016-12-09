@@ -1,0 +1,16 @@
+app/
+bootstrap/
+config/
+database/
+public/
+resources/views/
+storage/
+tests/
+.env.example
+.gitignore
+LICENSE
+README.md
+artisan
+composer.json
+composer.lock
+phpunit.xml

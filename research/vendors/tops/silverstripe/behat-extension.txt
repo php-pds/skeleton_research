@@ -1,0 +1,13 @@
+docs/
+src/SilverStripe/BehatExtension/
+tests/
+.editorconfig
+.gitignore
+.travis.yml
+LICENSE
+README.md
+build.php
+code-of-conduct.md
+composer.json
+init.php
+phpunit.xml.dist

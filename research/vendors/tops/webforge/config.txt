@@ -1,0 +1,12 @@
+lib/Webforge/Configuration/
+tests/
+.coveralls.yml
+.gitattributes
+.gitignore
+.travis.yml
+README.md
+bootstrap.php
+composer.json
+config.sublime-project
+package.boot.php
+phpunit.xml.dist

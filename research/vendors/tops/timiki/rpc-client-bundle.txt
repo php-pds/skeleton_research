@@ -1,0 +1,6 @@
+DependencyInjection/
+Resources/config/
+README.md
+RpcClient.php
+RpcClientBundle.php
+composer.json

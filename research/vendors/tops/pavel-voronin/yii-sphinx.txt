@@ -1,0 +1,6 @@
+models/
+DGSphinxSearch.php
+LICENSE
+README.md
+composer.json
+sphinxapi.php

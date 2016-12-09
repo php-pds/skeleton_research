@@ -1,0 +1,8 @@
+Command/
+DependencyInjection/
+Generator/
+Resources/skeleton/
+.gitattributes
+.gitignore
+TkuskaGeneratorBundle.php
+composer.json

@@ -1,0 +1,14 @@
+src-dev/scripts/
+src/
+tests/
+.editorconfig
+.git-hooks
+.gitignore
+.travis.yml
+Gemfile
+Gemfile.lock
+README.md
+RoboFile.php
+codeception.yml
+composer.json
+composer.lock

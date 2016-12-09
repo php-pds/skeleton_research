@@ -1,0 +1,5 @@
+Docs/
+KickassTorFeedHandler.php
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,9 @@
+config/
+extensions/helper/
+libraries/
+vendors/
+.gitignore
+.gitmodules
+LICENSE.txt
+README.md
+composer.json

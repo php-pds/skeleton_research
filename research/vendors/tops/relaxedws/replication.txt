@@ -1,0 +1,14 @@
+.travis/
+config/
+src/
+tests/src/
+.codeclimate.yml
+.phpmd.xml
+.travis.yml
+README.md
+composer.json
+replication.drush.inc
+replication.info.yml
+replication.links.menu.yml
+replication.routing.yml
+replication.services.yml

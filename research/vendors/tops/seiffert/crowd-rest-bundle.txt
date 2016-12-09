@@ -1,0 +1,14 @@
+Crowd/
+DependencyInjection/
+Exception/
+Resources/config/
+Tests/
+bin/
+.gitignore
+.travis.yml
+Crowd.php
+README.md
+SeiffertCrowdRestBundle.php
+composer.json
+composer.lock
+phpunit.xml.dist

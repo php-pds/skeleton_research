@@ -1,0 +1,9 @@
+DependencyInjection/
+Exception/
+Factory/
+Mailer/
+Resources/
+FullpipeEmailTemplateBundle.php
+LICENSE
+README.md
+composer.json

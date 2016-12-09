@@ -1,0 +1,6 @@
+examples/
+src/
+.gitattributes
+composer.json
+license.md
+readme.md

@@ -1,0 +1,15 @@
+DependencyInjection/
+Library/
+Resources/
+Services/
+Tests/Unit/
+.coveralls.yml
+.formatter.yml
+.gitignore
+.php_cs
+.travis.yml
+LICENCE
+OctanteUpsAPIBundle.php
+README.md
+composer.json
+phpunit.xml.dist

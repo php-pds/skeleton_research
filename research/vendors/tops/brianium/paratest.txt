@@ -1,0 +1,12 @@
+bin/
+src/ParaTest/
+test/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+Guardfile
+LICENSE
+README.md
+TODO.txt
+composer.json
+phpunit.xml.dist

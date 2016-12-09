@@ -1,0 +1,4 @@
+Classes/
+Scripts/
+composer.json
+ext_emconf.php

@@ -1,0 +1,12 @@
+src/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CHANGELOG.md
+LICENSE
+Makefile
+PULL_REQUEST_TEMPLATE
+README.md
+circle.yml
+composer.json
+phpunit.xml.dist

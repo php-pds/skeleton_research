@@ -1,0 +1,9 @@
+code/
+docs/
+.editorconfig
+.gitattributes
+CHANGELOG.md
+LICENSE
+README.md
+_config.php
+composer.json

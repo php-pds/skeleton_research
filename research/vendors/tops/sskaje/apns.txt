@@ -1,0 +1,7 @@
+class/
+test/
+README.md
+api.php
+composer.json
+daemon.php
+proxy.example.ini

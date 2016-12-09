@@ -1,0 +1,14 @@
+config/
+docs/
+src/Zucchi/
+tests/
+.gitignore
+LICENSE.txt
+Module.php
+README.md
+autoload_classmap.php
+autoload_function.php
+autoload_register.php
+codeception.yml
+composer.json
+composer.lock

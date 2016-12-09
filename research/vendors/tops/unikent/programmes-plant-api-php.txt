@@ -1,0 +1,9 @@
+src/ProgrammesPlant/
+tests/
+.gitignore
+.travis.yml
+README.md
+composer.json
+example.php
+license.txt
+phpunit.xml

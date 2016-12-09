@@ -1,0 +1,6 @@
+messages/ru/
+README.md
+composer.json
+kinopoisk.php
+kpparser.php
+snoopy.php

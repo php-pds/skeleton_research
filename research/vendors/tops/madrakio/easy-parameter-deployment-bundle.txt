@@ -1,0 +1,6 @@
+Command/
+DependencyInjection/
+LICENSE
+MadrakIOEasyParameterDeploymentBundle.php
+README.md
+composer.json

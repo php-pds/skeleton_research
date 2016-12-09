@@ -1,0 +1,12 @@
+actions/
+images/
+languages/
+vendors/
+views/default/
+.gitignore
+LICENSE
+README.md
+composer.json
+index.php
+manifest.xml
+start.php

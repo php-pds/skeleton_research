@@ -1,0 +1,12 @@
+classes/
+config/
+guide/kohana/
+i18n/
+media/guide/kohana/
+messages/
+tests/
+utf8/
+views/
+.gitignore
+bootstrap.php
+composer.json

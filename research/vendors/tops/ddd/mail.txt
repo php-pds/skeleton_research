@@ -1,0 +1,8 @@
+Exception/
+Infra/Mailer/
+Model/
+Service/
+Tests/Acceptance/
+MailBuilder.php
+README.md
+composer.json

@@ -1,0 +1,8 @@
+bin/
+changelogs/
+lib/CultuurNet/Search/
+test/
+.gitignore
+composer.json
+composer.lock
+phpunit.xml.dist

@@ -1,0 +1,12 @@
+features/
+src/
+vendor/
+views/
+web/
+.gitignore
+LICENSE
+README.md
+behat.yml.dist
+composer.json
+composer.lock
+config.json.dist

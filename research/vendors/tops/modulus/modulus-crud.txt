@@ -1,0 +1,9 @@
+config/
+src/ModulusCrud/
+view/modulus-crud/crud/
+.gitignore
+LICENSE
+Module.php
+README.md
+autoload_classmap.php
+composer.json

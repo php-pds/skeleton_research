@@ -1,0 +1,7 @@
+controllers/
+migrations/
+models/
+views/icon-register/
+IconHelper.php
+README.md
+composer.json

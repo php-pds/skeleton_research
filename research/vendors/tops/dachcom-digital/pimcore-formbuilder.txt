@@ -1,0 +1,10 @@
+controllers/
+install/
+lib/
+static/
+views/
+.gitignore
+README.md
+UPGRADE.md
+composer.json
+plugin.xml

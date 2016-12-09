@@ -1,0 +1,12 @@
+assets/
+bin/
+classes/
+config/
+dca/
+languages/
+library/NotificationCenter/
+modules/
+.gitignore
+CHANGELOG.md
+README.md
+composer.json

@@ -1,0 +1,12 @@
+_config/
+code/
+css/
+images/
+lang/
+less/
+templates/
+.netbeans.xml
+LICENSE
+README.md
+_config.php
+composer.json

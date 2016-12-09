@@ -1,0 +1,13 @@
+docs/
+src/
+.codeclimate.yml
+.editorconfig
+.gitattributes
+.gitignore
+.phpdoc-md
+.travis.yml
+CONTRIBUTING.md
+LICENSE.md
+README.md
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,5 @@
+src/Paladin/Std/
+.gitignore
+README.md
+composer.json
+composer.lock

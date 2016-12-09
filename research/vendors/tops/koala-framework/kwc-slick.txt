@@ -1,0 +1,4 @@
+Kwc/Slick/
+README.md
+composer.json
+dependencies.ini

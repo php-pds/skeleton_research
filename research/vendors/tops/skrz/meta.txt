@@ -1,0 +1,11 @@
+bin/
+gen-src/
+proto/
+src/
+test/Skrz/Meta/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml

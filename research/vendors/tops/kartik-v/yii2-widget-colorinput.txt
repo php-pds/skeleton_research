@@ -1,0 +1,8 @@
+assets/
+messages/
+CHANGE.md
+ColorInput.php
+ColorInputAsset.php
+LICENSE.md
+README.md
+composer.json

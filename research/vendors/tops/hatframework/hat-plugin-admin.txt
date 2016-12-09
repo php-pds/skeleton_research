@@ -1,0 +1,12 @@
+Config/
+auto/
+configuracao/
+exception/
+index/
+nbproject/
+projeto/
+tests/
+.gitattributes
+.gitignore
+autoload.php
+composer.json

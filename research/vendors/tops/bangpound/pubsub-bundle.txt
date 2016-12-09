@@ -1,0 +1,11 @@
+Consumer/
+CouchDocument/
+DependencyInjection/
+EventListener/
+Form/Type/
+Resources/
+Tests/Controller/
+.gitignore
+BangpoundPubsubBundle.php
+JsonXMLElement.php
+composer.json

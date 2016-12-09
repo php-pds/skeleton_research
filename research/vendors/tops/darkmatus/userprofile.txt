@@ -1,0 +1,10 @@
+config/
+scripts/sql/
+src/Profile/
+view/profile/
+.gitignore
+.gitmodules
+Module.php
+README.md
+autoload_classmap.php
+composer.json

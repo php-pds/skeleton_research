@@ -1,0 +1,15 @@
+Controller/Api/
+DependencyInjection/
+Error/
+EventListener/
+Exception/
+Form/Field/
+Nelmio/
+Paginator/
+Resources/config/
+Response/
+Serializer/
+Tests/Serializer/
+ApiBundle.php
+README.md
+composer.json

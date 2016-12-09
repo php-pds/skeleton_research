@@ -1,0 +1,6 @@
+config/
+src/SysConfig/
+tests/
+.gitignore
+README.md
+composer.json

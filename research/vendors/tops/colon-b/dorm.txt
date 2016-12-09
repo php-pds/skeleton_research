@@ -1,0 +1,15 @@
+source/Dorm/
+test/
+.coveralls.yml
+.gitignore
+.scrutinizer.yml
+.styleci.yml
+.travis.yml
+LICENSE.txt
+circle.yml
+codeStyle.xml
+composer.json
+inspectations.xml
+mdruleset.xml
+ruleset.xml
+shippable.yml

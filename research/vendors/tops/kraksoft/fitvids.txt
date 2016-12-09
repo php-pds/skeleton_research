@@ -1,0 +1,6 @@
+CONTRIBUTING.md
+README.md
+bower.json
+composer.json
+jquery.fitvids.js
+tests.html

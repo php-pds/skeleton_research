@@ -1,0 +1,8 @@
+src/
+.gitignore
+.travis.yml
+Makefile
+README.md
+chinchilla.yml
+composer.json
+phpunit.xml

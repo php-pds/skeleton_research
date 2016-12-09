@@ -1,0 +1,10 @@
+spec/BenGorFile/GaufretteFilesystemBridge/Infrastructure/Domain/Model/
+src/BenGorFile/GaufretteFilesystemBridge/Infrastructure/Domain/Model/
+.editorconfig
+.gitignore
+.php_cs
+.phpspec_cs
+.travis.yml
+LICENSE
+README.md
+composer.json

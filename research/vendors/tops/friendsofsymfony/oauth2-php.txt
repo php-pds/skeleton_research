@@ -1,0 +1,12 @@
+lib/
+server/examples/
+tests/
+.gitignore
+.gitmodules
+.travis.yml
+CHANGELOG.txt
+LICENSE.txt
+README.md
+composer.json
+config.doxy
+phpunit.xml.dist

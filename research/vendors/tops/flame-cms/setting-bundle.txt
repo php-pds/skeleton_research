@@ -1,0 +1,8 @@
+AdminModule/
+Application/UI/
+Model/
+Templating/Helpers/
+components/
+config/
+README.md
+composer.json

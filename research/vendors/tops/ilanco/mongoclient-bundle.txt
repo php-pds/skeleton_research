@@ -1,0 +1,8 @@
+DependencyInjection/
+Resources/config/
+Tests/
+.gitignore
+ICMongoClientBundle.php
+README.md
+composer.json
+phpunit.xml.dist

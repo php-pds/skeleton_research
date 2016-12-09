@@ -1,0 +1,9 @@
+src/Mcfedr/MemcachedBundle/
+tests/Mcfedr/MemcachedBundle/Tests/
+.gitignore
+.travis.yml
+LICENSE.txt
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

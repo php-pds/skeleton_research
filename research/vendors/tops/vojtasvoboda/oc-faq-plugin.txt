@@ -1,0 +1,12 @@
+components/
+controllers/
+lang/
+models/
+updates/
+.gitignore
+LICENSE
+Plugin.php
+README.md
+composer.json
+composer.lock
+plugin.yaml

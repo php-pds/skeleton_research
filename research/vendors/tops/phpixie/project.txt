@@ -1,0 +1,11 @@
+assets/
+bundles/
+src/Project/
+tests/
+web/
+.gitignore
+LICENSE
+README.md
+composer.json
+console
+phpunit.xml

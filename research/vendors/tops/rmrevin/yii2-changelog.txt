@@ -1,0 +1,13 @@
+behaviors/
+components/
+debug/
+interfaces/
+migrations/
+resources/
+.gitignore
+Bootstrap.php
+CHANGELOG.md
+LICENSE
+README.md
+composer.json
+composer.lock

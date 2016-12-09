@@ -1,0 +1,6 @@
+src/Umpirsky/ListGenerator/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock

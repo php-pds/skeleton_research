@@ -1,0 +1,7 @@
+Rundiz/Thaidate/
+tests/
+.gitattributes
+LICENSE
+README.md
+composer.json
+phpunit.xml

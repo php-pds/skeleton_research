@@ -1,0 +1,10 @@
+.settings/
+ansible/
+source/
+.buildpath
+.gitignore
+.project
+README.md
+Vagrantfile
+build.xml
+composer.json

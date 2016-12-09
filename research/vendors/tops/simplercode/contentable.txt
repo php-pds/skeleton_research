@@ -1,0 +1,8 @@
+examples/
+lib/Contentable/
+test/
+.gitignore
+composer.json
+license
+phpunit.xml
+readme.md

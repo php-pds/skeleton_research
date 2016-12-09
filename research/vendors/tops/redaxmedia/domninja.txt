@@ -1,0 +1,13 @@
+scripts/
+styles/
+.csslintrc
+.gitignore
+.htaccess
+.htmlhintrc
+.jshintrc
+.travis.yml
+README.md
+composer.json
+gruntfile.js
+index.php
+package.json

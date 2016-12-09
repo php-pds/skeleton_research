@@ -1,0 +1,10 @@
+core/
+database/
+fonts/
+helpers/
+language/
+libraries/
+.gitignore
+LICENSE
+README.md
+composer.json

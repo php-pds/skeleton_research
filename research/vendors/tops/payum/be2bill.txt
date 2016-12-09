@@ -1,0 +1,13 @@
+Action/
+Resources/docs/
+Tests/
+.travis.yml
+Api.php
+Be2BillDirectGatewayFactory.php
+Be2BillOffsiteGatewayFactory.php
+CHANGELOG.md
+LICENSE
+README.md
+UPGRADE.md
+composer.json
+phpunit.xml.dist

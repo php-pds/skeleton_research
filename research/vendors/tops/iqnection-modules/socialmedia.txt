@@ -1,0 +1,7 @@
+_config/
+code/
+.editorconfig
+.scrutinizer.yml
+CHANGELOG.md
+LICENSE.md
+composer.json

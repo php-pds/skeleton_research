@@ -1,0 +1,6 @@
+library/Solarium/Support/DataFixtures/
+tests/
+.gitignore
+README.md
+composer.json
+phpunit.xml.dist

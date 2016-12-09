@@ -1,0 +1,13 @@
+Dom/
+Test/Dom/
+.gitattributes
+.gitignore
+.travis.yml
+Dom.php
+LICENSE.md
+README.md
+composer.json
+phpcs.xml
+phpdoc.dist.xml
+phpunit.xml
+tasks

@@ -1,0 +1,10 @@
+Batch/
+DBAL/
+Exception/
+ORM/
+Sync/
+.gitignore
+LICENSE
+README.md
+WalkerInterface.php
+composer.json

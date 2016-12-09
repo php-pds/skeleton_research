@@ -1,0 +1,8 @@
+Behat/
+Controller/
+DependencyInjection/
+Resources/
+CHANGELOG.md
+NIMWebBundle.php
+README.md
+composer.json

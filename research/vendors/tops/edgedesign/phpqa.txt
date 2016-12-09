@@ -1,0 +1,16 @@
+app/
+bin/
+src/
+tests/
+.gitattributes
+.gitignore
+.phpqa.yml
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+RoboFile.php
+composer.json
+composer.lock
+phpqa
+phpunit.xml

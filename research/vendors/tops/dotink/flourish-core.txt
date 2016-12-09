@@ -1,0 +1,9 @@
+docs/classes/Dotink/Flourish/
+src/
+test/routines/
+.travis.yml
+LICENSE.md
+README.md
+composer.json
+lab.config
+sage.config

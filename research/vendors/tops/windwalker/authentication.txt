@@ -1,0 +1,11 @@
+Method/
+Test/
+.gitignore
+.travis.yml
+Authentication.php
+AuthenticationInterface.php
+Credential.php
+README.md
+composer.json
+phpunit.travis.xml
+phpunit.xml.dist

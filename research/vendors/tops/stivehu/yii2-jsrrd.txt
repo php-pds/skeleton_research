@@ -1,0 +1,6 @@
+assets/
+views/
+JsrrdAsset.php
+README.md
+composer.json
+jsrrd.php

@@ -1,0 +1,17 @@
+config/
+event/
+language/
+migrations/v10x/
+styles/all/template/event/
+tests/
+travis/
+.gitattributes
+.gitignore
+.travis.yml
+CHANGELOG.md
+README.md
+build.xml
+composer.json
+composer.lock
+license.txt
+phpunit.xml.dist

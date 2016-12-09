@@ -1,0 +1,12 @@
+controllers/
+services/
+tests/
+variables/
+.editorconfig
+.gitignore
+CHANGELOG.md
+LICENSE
+README.md
+SassPlugin.php
+composer.json
+phpunit.xml.dist

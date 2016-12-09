@@ -1,0 +1,13 @@
+Controller/
+DependencyInjection/
+Entity/
+Form/
+Helper/
+Manager/
+Resources/
+Subscriber/
+Tests/Controller/
+Twig/Extension/
+BigfootSeoBundle.php
+README.md
+composer.json

@@ -1,0 +1,17 @@
+assets/
+config/
+controllers/
+mail/
+migrations/
+models/
+runtime/
+vendor/
+views/
+web/
+widgets/
+.gitignore
+README.md
+composer.json
+composer.lock
+yii
+yii.bat

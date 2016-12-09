@@ -1,0 +1,9 @@
+config/
+public/
+views/
+.bowerrc
+.gitignore
+.travis.yml
+README.md
+bower.json
+composer.json

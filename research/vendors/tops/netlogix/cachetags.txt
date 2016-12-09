@@ -1,0 +1,4 @@
+Classes/Netlogix/Cachetags/
+Configuration/
+Readme.md
+composer.json

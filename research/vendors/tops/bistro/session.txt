@@ -1,0 +1,7 @@
+lib/Bistro/Session/
+tests/
+.gitignore
+LICENSE.md
+README.md
+composer.json
+phpunit.xml

@@ -1,0 +1,13 @@
+_ide/
+assets/
+config/
+console/controllers/
+controllers/
+messages/ru/
+views/
+CHANGELOG.md
+DbDumperComponent.php
+DbDumperModule.php
+LICENSE
+README.md
+composer.json

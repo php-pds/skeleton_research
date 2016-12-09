@@ -1,0 +1,6 @@
+.gitignore
+Installer.php
+InstallerPlugin.php
+LICENSE
+README.md
+composer.json

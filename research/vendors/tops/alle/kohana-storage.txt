@@ -1,0 +1,11 @@
+classes/
+config/
+guide/storage/
+tests/kohana/
+vendor/emc-atmos/
+.gitignore
+.gitmodules
+CHANGELOG.md
+LICENSE.md
+README.md
+composer.json

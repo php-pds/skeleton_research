@@ -1,0 +1,12 @@
+Controller/
+DependencyInjection/
+Entity/
+Form/Type/
+Model/
+Resources/
+Subscriber/
+Twig/Extension/
+.gitignore
+BigfootContentBundle.php
+README.md
+composer.json

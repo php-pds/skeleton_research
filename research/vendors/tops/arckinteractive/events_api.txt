@@ -1,0 +1,14 @@
+actions/
+classes/Events/API/
+languages/
+lib/
+tests/
+vendor/
+LICENSE
+README.md
+activate.php
+composer.json
+composer.lock
+manifest.xml
+phpunit.xml
+start.php

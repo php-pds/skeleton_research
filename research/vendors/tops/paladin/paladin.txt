@@ -1,0 +1,5 @@
+resources/
+src/Paladin/
+.gitignore
+README.md
+composer.json

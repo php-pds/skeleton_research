@@ -1,0 +1,8 @@
+Application/
+public/
+.gitattributes
+.gitignore
+.htaccess
+LICENSE
+README.md
+composer.json

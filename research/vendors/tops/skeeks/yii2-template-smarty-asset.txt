@@ -1,0 +1,5 @@
+src/
+CHANGELOG.md
+README.md
+SmartyAsset.php
+composer.json

@@ -1,0 +1,9 @@
+licenses/
+src/LicenseData/
+tests/
+.gitignore
+LICENSE.txt
+README.md
+composer.json
+index.csv
+phpunit.xml.dist

@@ -1,0 +1,10 @@
+bin/
+src/Coupe/
+test/Coupe/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

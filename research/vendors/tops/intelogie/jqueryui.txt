@@ -1,0 +1,12 @@
+themes/
+ui/
+.gitignore
+AUTHORS.txt
+LICENSE.txt
+README.md
+bower.json
+component.json
+composer.json
+jquery-ui.js
+jquery-ui.min.js
+package.json

@@ -1,0 +1,7 @@
+app/
+migrations/
+tests/cases/
+www/
+composer.json
+license.md
+readme.md

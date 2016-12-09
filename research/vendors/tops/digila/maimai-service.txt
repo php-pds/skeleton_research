@@ -1,0 +1,6 @@
+MaiMaiService/
+nbproject/
+.gitignore
+LICENSE.txt
+README.md
+composer.json

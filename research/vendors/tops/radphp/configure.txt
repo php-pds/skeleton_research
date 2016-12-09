@@ -1,0 +1,11 @@
+Engine/
+Tests/
+.gitignore
+.travis.yml
+Config.php
+EngineInterface.php
+Exception.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

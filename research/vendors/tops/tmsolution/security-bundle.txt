@@ -1,0 +1,14 @@
+Annotations/
+Command/
+Context/
+Controller/
+DependencyInjection/
+Entity/
+EventListener/
+Model/
+Profiler/
+Repository/
+Resources/
+Tests/
+CoreSecurityBundle.php
+composer.json

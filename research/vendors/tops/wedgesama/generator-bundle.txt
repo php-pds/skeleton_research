@@ -1,0 +1,6 @@
+Command/
+Generator/
+Resources/
+README.md
+WSGeneratorBundle.php
+composer.json

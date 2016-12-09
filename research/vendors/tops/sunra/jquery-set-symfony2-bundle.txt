@@ -1,0 +1,5 @@
+Sunra/jQuerySetBundle/
+.gitattributes
+.gitignore
+README.md
+composer.json

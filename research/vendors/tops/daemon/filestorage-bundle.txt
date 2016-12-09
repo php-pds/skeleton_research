@@ -1,0 +1,11 @@
+Component/
+Controller/
+DependencyInjection/
+Entity/
+Resources/
+Tests/Controller/
+Twig/
+DaemonFilestorageBundle.php
+LICENSE
+README.md
+composer.json

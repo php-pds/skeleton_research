@@ -1,0 +1,6 @@
+Net/
+data/
+tests/
+.gitignore
+composer.json
+package.xml

@@ -1,0 +1,6 @@
+src/carlescliment/StateMachine/
+tests/
+.gitignore
+README.md
+composer.json
+phpunit.xml.dist

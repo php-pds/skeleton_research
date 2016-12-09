@@ -1,0 +1,7 @@
+nbproject/
+src/flowcode/wing/utils/
+test/
+vendor/
+.gitignore
+README.md
+composer.json

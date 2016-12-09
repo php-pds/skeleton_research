@@ -1,0 +1,8 @@
+examples/
+lib/ServiceProvider/
+tests/
+.travis.yml
+README.md
+compile.sh
+composer.json
+phpunit.xml

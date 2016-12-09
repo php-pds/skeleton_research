@@ -1,0 +1,8 @@
+Component/
+DependencyInjection/
+Model/
+Resources/
+JbTagCloudBundle.php
+LICENSE
+README.md
+composer.json

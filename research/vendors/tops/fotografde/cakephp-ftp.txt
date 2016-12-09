@@ -1,0 +1,12 @@
+Config/
+Controller/
+Lib/
+Locale/eng/LC_MESSAGES/
+Model/
+Test/Case/
+View/
+.editorconfig
+.gitattributes
+.travis.yml
+README.md
+composer.json

@@ -1,0 +1,11 @@
+.hidev/
+backend/
+common/
+console/config/
+frontend/
+.bowerrc
+.gitignore
+CHANGELOG.md
+LICENSE
+README.md
+composer.json

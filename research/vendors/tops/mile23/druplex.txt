@@ -1,0 +1,12 @@
+drushmake/
+index/
+src/
+tests/
+.gitignore
+.travis.yml
+README.md
+TESTING.md
+composer.json
+composer.lock
+phpunit.xml.dist
+travis.bootstrap.php

@@ -1,0 +1,7 @@
+Rules/
+.gitignore
+DataProcessor.php
+DataProcessorTest.php
+LICENSE
+README.md
+composer.json

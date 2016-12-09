@@ -1,0 +1,4 @@
+src/STP/Bower/
+.gitignore
+README.md
+composer.json

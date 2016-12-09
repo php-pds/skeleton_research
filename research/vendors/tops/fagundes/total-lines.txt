@@ -1,0 +1,6 @@
+bin/
+.gitignore
+LICENSE.txt
+README.md
+composer.json
+total-lines.php

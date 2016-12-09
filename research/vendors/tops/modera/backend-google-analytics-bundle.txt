@@ -1,0 +1,13 @@
+Contributions/
+DependencyInjection/
+Resources/
+Tests/
+.gitignore
+.styleci.yml
+.travis.yml
+CHANGELOG.md
+ModeraBackendGoogleAnalyticsBundle.php
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

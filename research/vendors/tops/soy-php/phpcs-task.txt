@@ -1,0 +1,6 @@
+src/Soy/PhpCodeSniffer/
+.gitignore
+LICENSE
+README.md
+composer.json
+recipe.php

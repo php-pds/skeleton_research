@@ -1,0 +1,8 @@
+src/Solution/MongoAggregation/
+tests/Tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

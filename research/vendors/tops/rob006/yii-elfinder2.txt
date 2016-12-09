@@ -1,0 +1,13 @@
+vendor/
+views/
+.gitignore
+ElFinderConnectorAction.php
+ElFinderHelper.php
+ElFinderWidget.php
+LICENSE
+README.md
+ServerFileInput.php
+ServerFileInputElFinderPopupAction.php
+TinyMceElFinder.php
+TinyMceElFinderPopupAction.php
+composer.json

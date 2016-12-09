@@ -1,0 +1,13 @@
+app/
+bin/
+src/
+web/
+.bowerrc
+.gitignore
+Gruntfile.js
+LICENSE
+README.md
+UPGRADE-2.0.md
+bower.json
+composer.json
+package.json

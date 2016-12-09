@@ -1,0 +1,10 @@
+docs/en/
+src/
+tests/
+.gitattributes
+.gitignore
+.travis.yml
+LICENSE
+README.md
+codeception.yml
+composer.json

@@ -1,0 +1,12 @@
+bin/
+kernel/
+var/cache/
+web/
+.gitignore
+.travis.yml
+Procfile
+app.json
+composer.json
+composer.lock
+package.json
+phpunit.xml.dist

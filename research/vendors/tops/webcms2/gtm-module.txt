@@ -1,0 +1,6 @@
+Admin/
+Frontend/
+Gtm.php
+LICENSE
+README.md
+composer.json

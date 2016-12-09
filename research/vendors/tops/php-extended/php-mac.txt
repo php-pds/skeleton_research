@@ -1,0 +1,5 @@
+src/PhpExtended/Mac/
+.gitignore
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,7 @@
+Controller/
+DependencyInjection/
+Resources/config/
+.gitignore
+LICENSE
+MarcWServerSideAnalyticsBundle.php
+composer.json

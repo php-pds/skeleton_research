@@ -1,0 +1,8 @@
+Event.php
+EventManager.php
+EventManagerTrait.php
+EventSubscriberInterface.php
+Exception.php
+LICENSE
+README.md
+composer.json

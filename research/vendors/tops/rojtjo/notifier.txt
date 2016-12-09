@@ -1,0 +1,12 @@
+spec/
+src/
+.editorconfig
+.gitignore
+.scrutinizer.yml
+.styleci.yml
+.travis.yml
+LICENSE.md
+README.md
+composer.json
+phpspec.hhvm.yml
+phpspec.yml

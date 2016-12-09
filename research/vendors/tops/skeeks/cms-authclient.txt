@@ -1,0 +1,16 @@
+_ide/
+assets/
+config/
+controllers/
+messages/ru/
+migrations/
+models/
+views/admin-user-auth-client/
+CHANGELOG.md
+CmsAuthClientCollection.php
+CmsAuthClientModule.php
+CmsAuthClientSettings.php
+LICENSE
+README.md
+_settingsFrom.php
+composer.json

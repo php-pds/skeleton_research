@@ -1,0 +1,9 @@
+base/
+connectors/
+failed/
+helper/
+jobs/
+queues/
+README.md
+Worker.php
+composer.json

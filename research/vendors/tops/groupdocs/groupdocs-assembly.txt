@@ -1,0 +1,4 @@
+groupdocs-assembly/
+LICENSE.txt
+README.md
+composer.json

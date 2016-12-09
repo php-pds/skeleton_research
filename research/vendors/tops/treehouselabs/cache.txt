@@ -1,0 +1,12 @@
+src/TreeHouse/Cache/
+tests/TreeHouse/Cache/Tests/
+.editorconfig
+.gitignore
+.php_cs
+.scrutinizer.yml
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

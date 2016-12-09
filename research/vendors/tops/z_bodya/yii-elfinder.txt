@@ -1,0 +1,11 @@
+assets/
+php/
+ElFinderConnectorAction.php
+ElFinderWidget.php
+ImageFileInput.php
+ServerFileInput.php
+TinyMceElFinder.php
+composer.json
+readme.md
+upgradeAssets.sh
+vendors.sh

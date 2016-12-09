@@ -1,0 +1,6 @@
+Classes/Aspects/
+Configuration/
+Resources/Private/Library/
+LICENSE
+README.md
+composer.json

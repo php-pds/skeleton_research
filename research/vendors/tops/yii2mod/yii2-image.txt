@@ -1,0 +1,7 @@
+actions/
+assets/
+behaviors/
+ImageComponent.php
+LICENSE.md
+README.md
+composer.json

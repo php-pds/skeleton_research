@@ -1,0 +1,9 @@
+Adapter/
+Exception/
+Tests/
+CacheItem.php
+DoctrineProvider.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

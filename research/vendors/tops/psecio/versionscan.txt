@@ -1,0 +1,10 @@
+bin/
+src/Psecio/Versionscan/
+tests/Psecio/Versionscan/
+.gitignore
+.travis.yml
+CONTRIBUTING.md
+README.md
+box.json
+composer.json
+phpunit.xml

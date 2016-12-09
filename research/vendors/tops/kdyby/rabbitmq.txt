@@ -1,0 +1,9 @@
+docs/en/
+src/Kdyby/RabbitMq/
+tests/
+.gitattributes
+.gitignore
+.travis.yml
+LICENSE.md
+README.md
+composer.json

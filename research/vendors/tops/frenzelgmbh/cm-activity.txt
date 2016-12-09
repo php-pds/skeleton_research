@@ -1,0 +1,14 @@
+assets/
+controllers/
+messages/
+migrations/
+models/
+tests/
+views/
+CoreAsset.php
+LICENSE
+Module.php
+README.md
+codecept.phar
+codeception.yml
+composer.json

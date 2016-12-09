@@ -1,0 +1,7 @@
+Assetic/
+DependencyInjection/
+Resources/config/assetic/
+JhgSassBridgeBundle.php
+LICENSE
+README.md
+composer.json

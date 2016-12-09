@@ -1,0 +1,12 @@
+_config/
+code/
+javascript/
+lang/
+ressources/
+templates/
+.editorconfig
+.scrutinizer.yml
+LICENSE
+README.md
+_config.php
+composer.json

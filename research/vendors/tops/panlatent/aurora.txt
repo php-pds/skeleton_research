@@ -1,0 +1,15 @@
+bin/
+htdocs/
+httpd/
+src/Aurora/
+tests/
+.gitattributes
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+Vagrantfile
+aurora.ini
+composer.json
+phpunit.xml

@@ -1,0 +1,11 @@
+assets/doc/
+bundles/
+components/
+controllers/
+tools/
+views/
+.gitignore
+LICENSE.md
+Module.php
+README.md
+composer.json

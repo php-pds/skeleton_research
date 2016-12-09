@@ -1,0 +1,4 @@
+.gitignore
+QueryList.php
+README.md
+composer.json

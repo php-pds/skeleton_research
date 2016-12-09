@@ -1,0 +1,17 @@
+dist/
+lib/
+other/
+tests/
+.gitattributes
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CHANGELOG.md
+ERRATA.md
+LICENSE
+README.md
+SECURITY.md
+build-phar.sh
+composer.json
+phpunit.sh
+phpunit.xml.dist

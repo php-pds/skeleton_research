@@ -1,0 +1,16 @@
+config/
+page/
+scribble/
+vendor-uncomposed/
+vendor/
+.gitignore
+.htaccess
+LICENSE
+composer.json
+composer.lock
+composer.phar
+crossdomain.xml
+humans.txt
+index.php
+readme.md
+robots.txt

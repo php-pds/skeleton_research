@@ -1,0 +1,5 @@
+.gitignore
+LICENSE.md
+composer.json
+enrollment-info-ui-tweaks.js
+manifest.xml

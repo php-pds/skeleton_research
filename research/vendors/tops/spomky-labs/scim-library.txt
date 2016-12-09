@@ -1,0 +1,13 @@
+doc/
+spec/
+src/
+tests/
+.gitattributes
+.gitlab-ci.yml
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+composer.json
+details.txt
+phpunit.xml.dist

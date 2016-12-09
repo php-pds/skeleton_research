@@ -1,0 +1,7 @@
+database/
+lang/
+src/Middleware/
+themes/
+.gitignore
+composer.json
+extension.php

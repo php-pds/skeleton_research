@@ -1,0 +1,11 @@
+build/logs/
+ci/
+src/Vantoozz/Oboom/
+.gitignore
+.travis.yml
+Gruntfile.js
+README.md
+composer.json
+package.json
+phpci.yml
+phpspec.yml

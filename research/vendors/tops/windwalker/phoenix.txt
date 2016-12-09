@@ -1,0 +1,8 @@
+bin/
+src/
+templates/package/
+.bowerrc
+.gitignore
+README.md
+bower.json
+composer.json

@@ -1,0 +1,6 @@
+Tests/
+docs/
+src/Simple/
+.travis.yml
+README.markdown
+composer.json

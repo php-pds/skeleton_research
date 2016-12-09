@@ -1,0 +1,16 @@
+components/
+controllers/
+gii/
+migrations/
+models/
+tests/
+views/
+widgets/
+.gitignore
+.htaccess
+LICENSE
+Module.php
+README.md
+codeception.yml
+composer.json
+makedoc.sh

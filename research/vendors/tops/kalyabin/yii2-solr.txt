@@ -1,0 +1,6 @@
+.gitignore
+Client.php
+README.md
+SolrDataProvider.php
+SolrDocumentInterface.php
+composer.json

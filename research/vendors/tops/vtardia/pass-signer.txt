@@ -1,0 +1,8 @@
+cert/
+src/PassSigner/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock
+signpass

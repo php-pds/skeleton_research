@@ -1,0 +1,14 @@
+.github/
+assets/
+phings @ d357249
+src/includes/
+.build.props
+.gitattributes
+.gitignore
+.gitmodules
+CHANGELOG.md
+LICENSE.txt
+README.md
+build.xml
+composer.json
+composer.lock

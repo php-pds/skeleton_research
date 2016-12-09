@@ -1,0 +1,10 @@
+phpunit/
+src/Translate/
+vendor/
+.gitignore
+.scrutinizer.yml
+LICENSE
+README.md
+composer.json
+composer.phar
+phpunit.xml.dist

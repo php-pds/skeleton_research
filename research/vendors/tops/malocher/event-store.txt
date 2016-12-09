@@ -1,0 +1,13 @@
+bin/
+src/Malocher/EventStore/
+tests/Malocher/EventStoreTest/
+.coveralls.yml
+.gitignore
+.travis.yml
+README.md
+bootstrap.php
+composer.json
+composer.lock
+eventstore.config.php
+phpunit.xml
+phpunit.xml.dist

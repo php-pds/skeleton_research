@@ -1,0 +1,12 @@
+DependencyInjection/
+Entity/
+EntityService/
+EventListener/
+Form/Type/
+Resources/
+.gitignore
+CampaignChainHookTimespanBundle.php
+LICENSE
+README.md
+campaignchain.yml
+composer.json

@@ -1,0 +1,12 @@
+Api/
+Block/
+Command/
+Controller/Adminhtml/
+Helper/
+Model/
+Observer/
+Setup/
+etc/
+view/adminhtml/
+composer.json
+registration.php

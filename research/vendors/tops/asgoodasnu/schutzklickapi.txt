@@ -1,0 +1,10 @@
+DependencyInjection/
+Lib/
+Resources/config/
+Tests/Lib/
+.gitignore
+.travis.yml
+README.md
+WkSchutzklickApi.php
+composer.json
+phpunit.xml.dist

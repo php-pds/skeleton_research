@@ -1,0 +1,12 @@
+bin/
+src/AppserverIo/Phar/
+tests/AppserverIo/Phar/
+.gitignore
+.travis.yml
+CHANGELOG.md
+README.md
+bootstrap.php
+build.default.properties
+build.xml
+composer.json
+phpunit.xml

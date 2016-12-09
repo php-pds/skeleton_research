@@ -1,0 +1,4 @@
+src/Rixxi/LatteFilters/DI/
+README.md
+composer.json
+license.md

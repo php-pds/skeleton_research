@@ -1,0 +1,11 @@
+assets/
+controllers/
+CHANGELOG.md
+KindEditorAsset.php
+KindEditorController.php
+KindEditorFileManagerAction.php
+KindEditorUploadAction.php
+KindEditorWidget.php
+LICENSE
+README.md
+composer.json

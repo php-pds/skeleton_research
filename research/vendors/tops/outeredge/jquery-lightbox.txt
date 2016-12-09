@@ -1,0 +1,6 @@
+style/
+Dockerfile
+LICENSE
+README.md
+composer.json
+jquery.lightbox.js

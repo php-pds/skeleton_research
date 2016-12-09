@@ -1,0 +1,8 @@
+assets/
+classes/
+config/
+templates/
+widgets/
+.gitignore
+README.md
+composer.json

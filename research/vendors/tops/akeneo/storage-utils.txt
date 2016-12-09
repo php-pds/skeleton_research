@@ -1,0 +1,15 @@
+Cache/
+Cursor/
+Detacher/
+Event/
+Factory/
+Remover/
+Repository/
+Saver/
+Updater/
+spec/
+.travis.yml
+README.md
+StorageEvents.php
+composer.json
+phpspec.yml

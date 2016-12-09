@@ -1,0 +1,6 @@
+spec/Vivait/StringGeneratorBundle/
+src/Vivait/StringGeneratorBundle/
+.gitignore
+.travis.yml
+README.md
+composer.json

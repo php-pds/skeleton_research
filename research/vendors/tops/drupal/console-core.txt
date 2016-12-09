@@ -1,0 +1,10 @@
+config/
+src/
+templates/core/
+.gitignore
+README.md
+composer.json
+composer.lock
+config.yml
+phpqa.yml
+services.yml

@@ -1,0 +1,6 @@
+src/timesplinter/gphpio/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock

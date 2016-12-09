@@ -1,0 +1,6 @@
+doc/exemple/
+src/Rocketr/
+.gitignore
+LICENCE
+composer.json
+readme.md

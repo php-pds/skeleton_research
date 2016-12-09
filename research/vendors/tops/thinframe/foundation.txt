@@ -1,0 +1,8 @@
+spec/ThinFrame/Foundation/
+src/
+.gitignore
+.travis.yml
+LICENSE.txt
+README.md
+composer.json
+composer.lock

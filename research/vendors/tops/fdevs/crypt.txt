@@ -1,0 +1,12 @@
+Encryptor/
+Exception/
+Tests/
+.gitignore
+.travis.yml
+CryptoInterface.php
+DecryptorInterface.php
+EncryptorInterface.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

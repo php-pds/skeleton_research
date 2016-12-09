@@ -1,0 +1,7 @@
+Classes/Networkteam/Neos/MailObfuscator/
+Configuration/
+Resources/
+Tests/Unit/TypoScript/
+LICENSE
+README.md
+composer.json

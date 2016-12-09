@@ -1,0 +1,9 @@
+models/
+requests @ c43c7d6
+tests/
+.gitignore
+.gitmodules
+MailtankClient.php
+MailtankException.php
+README.md
+composer.json

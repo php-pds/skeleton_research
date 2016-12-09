@@ -1,0 +1,15 @@
+docs/
+src/
+tests/
+.coveralls.yml
+.editorconfig
+.gitattributes
+.gitignore
+.php_cs
+.sensiolabs.yml
+.travis.yml
+codeception.yml
+composer.json
+license.md
+readme.md
+tests.md

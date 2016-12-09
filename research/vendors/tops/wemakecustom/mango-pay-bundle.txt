@@ -1,0 +1,7 @@
+DependencyInjection/
+Resources/
+Service/
+.gitignore
+README.md
+WMCMangoPayBundle.php
+composer.json

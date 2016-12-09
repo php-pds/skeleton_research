@@ -1,0 +1,6 @@
+spec/Vivait/Voter/
+src/Vivait/Voter/
+LICENSE
+README.md
+composer.json
+phpspec.yml

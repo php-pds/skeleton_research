@@ -1,0 +1,5 @@
+bin/
+config/autoload/
+.gitignore
+README.md
+composer.json

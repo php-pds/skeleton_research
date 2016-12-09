@@ -1,0 +1,4 @@
+src/Rock/PhpWsdl/
+.gitignore
+LICENSE
+composer.json

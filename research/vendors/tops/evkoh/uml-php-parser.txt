@@ -1,0 +1,12 @@
+bin/
+src/
+tests/
+web/
+.gitignore
+.travis.yml
+.uml-generator-php.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist
+uml-generator-php.yml.dist

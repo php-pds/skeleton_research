@@ -1,0 +1,5 @@
+LICENSE
+LegacyAbstractAdapter.php
+LegacyFlyweight.php
+README.md
+composer.json

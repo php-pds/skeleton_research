@@ -1,0 +1,14 @@
+bin/
+fixtures/
+specs/
+src/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+composer.json
+concurrent.png
+dot.png
+peridot.php
+usage.png

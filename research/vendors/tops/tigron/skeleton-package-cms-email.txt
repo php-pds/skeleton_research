@@ -1,0 +1,7 @@
+lib/Skeleton/Package/Cms/Email/
+media/
+migration/
+template/
+LICENSE
+README.md
+composer.json

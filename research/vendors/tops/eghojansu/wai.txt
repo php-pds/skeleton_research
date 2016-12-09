@@ -1,0 +1,6 @@
+tests/
+.gitignore
+README.md
+Wai.php
+composer.json
+phpunit.xml

@@ -1,0 +1,8 @@
+core.apps.breadcrumbs/
+core.apps.button/
+core.apps.layout_search_results/
+core.apps.room_availability/
+core.apps.site_map/
+core.apps.site_search/
+core.apps.submenu/
+composer.json

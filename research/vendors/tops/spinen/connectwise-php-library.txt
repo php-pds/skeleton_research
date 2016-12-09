@@ -1,0 +1,15 @@
+bootstrap/
+build/
+config/
+src/
+tests/
+.env.example
+.gitattributes
+.gitignore
+.travis.yml
+README.md
+VERSION
+composer.json
+generator
+nitpick.json
+phpunit.xml.dist

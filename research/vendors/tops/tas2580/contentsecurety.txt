@@ -1,0 +1,12 @@
+acp/
+adm/style/
+config/
+event/
+language/
+migrations/
+travis/
+.travis.yml
+README.md
+composer.json
+license.txt
+version-check.json

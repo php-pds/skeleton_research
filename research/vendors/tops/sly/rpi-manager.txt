@@ -1,0 +1,8 @@
+examples/gpio/
+src/Sly/RPIManager/
+tests/units/Sly/RPIManager/Client/SSH/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json

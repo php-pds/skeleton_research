@@ -1,0 +1,9 @@
+src/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+composer.json
+composer.lock
+phpci.yml
+run-tests.sh

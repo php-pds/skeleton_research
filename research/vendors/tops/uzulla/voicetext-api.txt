@@ -1,0 +1,7 @@
+lib/Uzulla/WebApi/VoiceText/
+sample/
+test/
+.gitignore
+README.md
+composer.json
+composer.lock

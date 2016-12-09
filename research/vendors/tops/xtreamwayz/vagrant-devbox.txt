@@ -1,0 +1,5 @@
+public/
+.gitignore
+Vagrantfile
+composer.json
+readme.md

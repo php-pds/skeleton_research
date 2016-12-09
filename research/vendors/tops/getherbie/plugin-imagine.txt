@@ -1,0 +1,8 @@
+classes/
+vendor/
+LICENCE.md
+README.md
+blueprint.yml
+composer.json
+imagine.php
+imagine.yaml

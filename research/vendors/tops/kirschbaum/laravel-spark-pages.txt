@@ -1,0 +1,7 @@
+database/migrations/
+js/
+src/
+views/
+.gitignore
+composer.json
+readme.md

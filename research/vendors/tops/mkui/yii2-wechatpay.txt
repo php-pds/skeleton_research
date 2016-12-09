@@ -1,0 +1,10 @@
+cert/
+doc/
+example/
+lib/
+phpqrcode/
+JsApiPay.php
+README.md
+composer.json
+jsapi.php
+notify.php

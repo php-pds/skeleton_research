@@ -1,0 +1,8 @@
+Color/
+DependencyInjection/
+Form/
+Manager/
+Resources/
+YamilovsColorCaptchaBundle.php
+composer.json
+composer.lock

@@ -1,0 +1,7 @@
+assets/
+BgSwitcher.php
+BgSwitcherAsset.php
+CHANGE.md
+LICENSE.md
+README.md
+composer.json

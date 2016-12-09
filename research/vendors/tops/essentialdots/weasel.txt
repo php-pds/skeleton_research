@@ -1,0 +1,3 @@
+src/EssentialDots/Weasel/
+README.md
+composer.json

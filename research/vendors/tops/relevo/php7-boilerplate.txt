@@ -1,0 +1,12 @@
+config/
+src/
+tests/
+web/
+.gitattributes
+.gitignore
+LICENSE.md
+README.md
+composer.json
+docker-compose.yml
+phpunit.xml
+server.conf

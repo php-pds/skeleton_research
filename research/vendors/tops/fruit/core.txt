@@ -1,0 +1,9 @@
+src/
+.ac-php-conf.json
+.gitignore
+Makefile
+README.md
+composer.json
+doxygen.conf
+phpmd.xml
+phpunit.xml

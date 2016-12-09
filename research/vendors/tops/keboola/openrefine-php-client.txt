@@ -1,0 +1,14 @@
+docker/
+scripts/
+src/Keboola/OpenRefine/
+tests/
+.codeclimate.yml
+.gitignore
+.travis.yml
+Dockerfile
+LICENSE.md
+README.md
+composer.json
+deploy-docs.sh
+docker-compose.yml
+phpunit.xml.dist

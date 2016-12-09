@@ -1,0 +1,6 @@
+DependencyInjection/
+Gateway/
+Resources/config/
+.gitignore
+SoilSmserBundle.php
+composer.json

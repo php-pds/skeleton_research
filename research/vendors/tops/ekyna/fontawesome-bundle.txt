@@ -1,0 +1,9 @@
+Command/
+Composer/
+DependencyInjection/
+.gitattributes
+.gitignore
+EkynaFontAwesomeBundle.php
+LICENSE
+README.md
+composer.json

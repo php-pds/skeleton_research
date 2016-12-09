@@ -1,0 +1,6 @@
+src/
+README.md
+composer.json
+modify_index.diff
+modify_is_installed_function.diff
+modman

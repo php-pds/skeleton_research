@@ -1,0 +1,6 @@
+library/
+.gitignore
+COPYING
+README.md
+composer.json
+example.pot.json

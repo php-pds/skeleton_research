@@ -1,0 +1,18 @@
+.bldr @ cfcefe7
+.run @ 4ffe2f2
+bin/
+src/
+tests/
+.bldr.yml
+.coveralls.yml
+.editorconfig
+.gitignore
+.gitmodules
+.php_cs.dist
+.styleci.yml
+.travis.yml
+CONTRIBUTING.md
+LICENSE.md
+README.md
+composer.json
+phpunit.xml.dist

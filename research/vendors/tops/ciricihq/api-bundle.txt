@@ -1,0 +1,13 @@
+Command/
+Controller/
+DataFixtures/ORM/
+DependencyInjection/
+Entity/
+Model/
+Resources/
+Tests/
+.gitignore
+CiriciApiBundle.php
+Readme.md
+composer.json
+phpunit.xml.dist

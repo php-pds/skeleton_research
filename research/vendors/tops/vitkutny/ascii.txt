@@ -1,0 +1,3 @@
+src/Ascii/
+README.md
+composer.json

@@ -1,0 +1,7 @@
+wp-user-profiles/
+.gitignore
+LICENSE
+README.md
+composer.json
+readme.txt
+wp-user-profiles.php

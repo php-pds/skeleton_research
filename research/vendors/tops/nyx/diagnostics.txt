@@ -1,0 +1,10 @@
+debug/
+definitions/
+tests/
+.gitignore
+.travis.yml
+Debug.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

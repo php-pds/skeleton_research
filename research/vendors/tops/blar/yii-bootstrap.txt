@@ -1,0 +1,14 @@
+.idea/inspectionProfiles/
+assets/
+components/
+demo/
+form/
+gii/bootstrap/
+theme/
+widgets/
+.gitignore
+.hgignore
+.hgsub
+.hgsubstate
+LICENSE.txt
+composer.json

@@ -1,0 +1,8 @@
+Build/
+Classes/Subugoe/GermaniaSacra/
+Configuration/
+Resources/
+Tests/Unit/Domain/Model/
+.gitignore
+README.md
+composer.json

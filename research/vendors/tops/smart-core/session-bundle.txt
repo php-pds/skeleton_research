@@ -1,0 +1,8 @@
+DependencyInjection/
+Entity/
+Handler/
+Listener/
+Resources/config/
+README.md
+SmartCoreSessionBundle.php
+composer.json

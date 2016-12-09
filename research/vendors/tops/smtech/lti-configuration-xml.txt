@@ -1,0 +1,10 @@
+doc/
+src/
+.editorconfig
+.gitattributes
+.gitignore
+LICENSE.md
+README.md
+composer.json
+composer.lock
+phpdoc.dist.xml

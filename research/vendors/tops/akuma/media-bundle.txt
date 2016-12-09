@@ -1,0 +1,12 @@
+Controller/
+DependencyInjection/
+Doctrine/
+Form/
+Resources/
+Tests/Controller/
+Twig/
+.gitignore
+AkumaMediaBundle.php
+LICENSE
+README.md
+composer.json

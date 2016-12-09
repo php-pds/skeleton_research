@@ -1,0 +1,12 @@
+DependencyInjection/
+Entity/
+Event/
+Filter/
+Form/
+Listener/
+Resolver/
+Resources/
+doc/
+README.md
+VictoireWidgetFilterBundle.php
+composer.json

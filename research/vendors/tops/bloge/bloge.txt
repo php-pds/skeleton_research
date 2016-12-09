@@ -1,0 +1,10 @@
+bin/
+src/
+tests/
+.gitignore
+LICENSE.txt
+Makefile
+README.md
+bootstrap.php
+composer.json
+doge.png

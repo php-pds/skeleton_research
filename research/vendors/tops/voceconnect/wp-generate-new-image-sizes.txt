@@ -1,0 +1,3 @@
+README.md
+composer.json
+wp-generate-new-image-sizes.php

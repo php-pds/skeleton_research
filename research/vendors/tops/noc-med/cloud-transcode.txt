@@ -1,0 +1,15 @@
+benchmark/
+client_example/
+config/
+deploy/
+json_schemas/
+presets/
+src/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+Makefile
+README.md
+composer.json
+phpunit.xml.dist

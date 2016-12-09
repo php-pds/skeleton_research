@@ -1,0 +1,17 @@
+config/
+data/
+etc/nginx/conf.d/
+library/Common/
+public/
+src/App/Actions/
+test/
+tools/
+.env.dist
+.gitignore
+CONTRIBUTING.md
+Dependencies.md
+Readme.md
+composer.json
+composer.lock
+phpcs.xml
+phpunit.xml.dist

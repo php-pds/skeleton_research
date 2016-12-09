@@ -1,0 +1,13 @@
+DependencyInjection/
+Mapping/
+Preferences/
+Resources/
+Tests/
+ValueConverting/
+.gitignore
+.travis.yml
+README.md
+SliDoctrineEntityDataMapperBundle.php
+composer.json
+composer.lock
+phpunit.xml.dist

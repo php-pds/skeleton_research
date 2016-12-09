@@ -1,0 +1,7 @@
+lib/
+opt/phamlp/
+.gitignore
+README
+composer.json
+doc
+load.php

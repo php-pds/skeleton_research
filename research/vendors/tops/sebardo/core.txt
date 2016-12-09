@@ -1,0 +1,4 @@
+CoreBundle/
+LICENSE
+README.md
+composer.json

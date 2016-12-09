@@ -1,0 +1,6 @@
+config/
+src/SwaggerExample/
+LICENSE
+Module.php
+README.md
+composer.json

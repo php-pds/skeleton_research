@@ -1,0 +1,9 @@
+faker/
+migration/
+src/DBALGateway/
+.gitignore
+.travis.yml
+README.md
+composer.json
+phpunit.xml
+travis.xml

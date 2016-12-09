@@ -1,0 +1,10 @@
+mails/
+translations/
+views/
+Readme.md
+composer.json
+config.xml
+cron.php
+index.php
+logo.png
+ps_reminder.php

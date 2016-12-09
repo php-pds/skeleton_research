@@ -1,0 +1,6 @@
+config/
+src/Access/
+.gitignore
+Module.php
+autoload_classmap.php
+composer.json

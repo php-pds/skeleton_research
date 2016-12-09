@@ -1,0 +1,14 @@
+DependencyInjection/
+EventListener/
+Loader/
+Locator/
+Manager/
+Model/
+Resources/config/
+Switcher/
+Tests/
+.gitignore
+GloryThemeBundle.php
+LICENSE
+README.md
+composer.json

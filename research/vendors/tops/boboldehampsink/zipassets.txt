@@ -1,0 +1,11 @@
+controllers/
+services/
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+ZipAssetsPlugin.php
+composer.json
+phpunit.xml.dist

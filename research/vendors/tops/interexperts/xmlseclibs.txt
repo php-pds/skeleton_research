@@ -1,0 +1,6 @@
+tests/
+CHANGELOG.txt
+LICENSE
+README.md
+composer.json
+xmlseclibs.php

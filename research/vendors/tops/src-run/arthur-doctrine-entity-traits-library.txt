@@ -1,0 +1,15 @@
+.bldr @ cfcefe7
+bin/
+lib/
+tests/
+.bldr.yml
+.coveralls.yml
+.editorconfig
+.gitignore
+.gitmodules
+.travis.yml
+CONTRIBUTING.md
+LICENSE.md
+README.md
+composer.json
+phpunit.xml.dist

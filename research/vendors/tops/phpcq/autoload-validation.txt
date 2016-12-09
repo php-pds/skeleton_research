@@ -1,0 +1,14 @@
+bin/
+hacks/
+src/
+tests/
+.check-author.yml
+.gitattributes
+.gitignore
+.travis.yml
+LICENSE
+README.md
+build.default.properties
+build.xml
+composer.json
+phpunit.xml.dist

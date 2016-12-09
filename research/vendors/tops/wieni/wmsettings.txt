@@ -1,0 +1,13 @@
+config/
+src/
+.gitignore
+README.md
+composer.json
+wmsettings.info.yml
+wmsettings.install
+wmsettings.links.action.yml
+wmsettings.links.menu.yml
+wmsettings.module
+wmsettings.permissions.yml
+wmsettings.routing.yml
+wmsettings.services.yml

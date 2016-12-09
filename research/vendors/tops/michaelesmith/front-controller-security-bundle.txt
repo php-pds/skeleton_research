@@ -1,0 +1,11 @@
+Command/
+DependencyInjection/
+Resources/config/
+Security/
+Tests/
+.gitignore
+.travis.yml
+MSFrontControllerSecurityBundle.php
+README.md
+composer.json
+phpunit.xml.dist

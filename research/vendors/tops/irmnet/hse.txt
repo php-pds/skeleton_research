@@ -1,0 +1,7 @@
+config/
+src/HSE/Controller/
+view/HSE/index/
+.gitignore
+Module.php
+autoload_classmap.php
+composer.json

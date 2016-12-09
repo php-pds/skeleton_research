@@ -1,0 +1,5 @@
+doc/en/
+src/NasExt/Templating/
+README.md
+composer.json
+license.md

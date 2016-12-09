@@ -1,0 +1,5 @@
+src/Accounting/
+.gitignore
+LICENCE
+README.md
+composer.json

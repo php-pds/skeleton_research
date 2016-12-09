@@ -1,0 +1,5 @@
+Behat/Context/
+Guzzle/Plugin/FakeServer/
+Test/Plugin/FakeServer/
+doc/
+composer.json

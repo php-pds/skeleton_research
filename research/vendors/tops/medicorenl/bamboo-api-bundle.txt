@@ -1,0 +1,11 @@
+DependencyInjection/
+Resources/config/
+Service/
+Tests/
+.gitignore
+.travis.yml
+BambooApiBundle.php
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

@@ -1,0 +1,9 @@
+class/
+doc/
+test/
+.gitignore
+.gitlab-ci.yml
+LICENSE
+Makefile
+README.md
+composer.json

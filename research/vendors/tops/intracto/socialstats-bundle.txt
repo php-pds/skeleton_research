@@ -1,0 +1,11 @@
+Command/
+Controller/
+DependencyInjection/
+Entity/
+Resources/
+Service/
+.gitignore
+LICENSE
+README.md
+SocialStatsBundle.php
+composer.json

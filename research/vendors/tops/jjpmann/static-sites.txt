@@ -1,0 +1,12 @@
+src/
+stubs/
+tests/
+.gitattributes
+.gitignore
+.travis.yml
+CHANGELOG.md
+README.md
+composer.json
+package.json
+phpunit.xml
+static-sites

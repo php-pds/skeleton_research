@@ -1,0 +1,6 @@
+docs/
+src/GoogleMap/
+.gitattributes
+.gitignore
+README.md
+composer.json

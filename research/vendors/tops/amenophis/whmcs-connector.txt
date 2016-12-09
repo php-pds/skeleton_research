@@ -1,0 +1,5 @@
+src/Amenophis/WHMCS/
+tests/
+LICENSE
+README.md
+composer.json

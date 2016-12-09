@@ -1,0 +1,8 @@
+.gitignore
+DataTables.php
+DataTablesAsset.php
+DataTablesBootstrapAsset.php
+DataTablesTableToolsAsset.php
+LICENSE
+README.md
+composer.json

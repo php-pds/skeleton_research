@@ -1,0 +1,6 @@
+libs/Slamecka/
+tests/Slamecka/
+.travis.yml
+composer.json
+readme.md
+redis-driver-installer.sh

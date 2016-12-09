@@ -1,0 +1,14 @@
+Config/
+Controller/
+Lib/
+Model/
+Test/
+Vendor/phpThumb/
+View/
+webroot/
+.gitignore
+CHANGELOG.txt
+README.txt
+TODO.txt
+VERSION.txt
+composer.json

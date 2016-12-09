@@ -1,0 +1,6 @@
+.editorconfig
+.gitignore
+LICENSE
+README.md
+bootstrap.php
+composer.json

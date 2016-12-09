@@ -1,0 +1,6 @@
+src/SilverStripe/Pharout/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock

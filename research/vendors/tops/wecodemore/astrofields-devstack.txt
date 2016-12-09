@@ -1,0 +1,9 @@
+puphpet/
+wp-content/mu-plugins/
+.env.example
+.gitignore
+.htaccess
+LICENSE.md
+README.md
+Vagrantfile
+composer.json

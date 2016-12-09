@@ -1,0 +1,6 @@
+src/Console/
+.gitignore
+LICENSE.txt
+composer.json
+composer.lock
+spark

@@ -1,0 +1,9 @@
+.idea/
+examples/
+src/Deimos/
+tests/Deimos/Tests/
+.gitignore
+Readme.md
+composer.json
+phpunit.php
+phpunit.xml

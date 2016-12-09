@@ -1,0 +1,9 @@
+src/Opifer/Revisions/
+tests/Opifer/Revisions/Tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist
+tests.bootstrap.php

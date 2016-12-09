@@ -1,0 +1,8 @@
+Fliglio/Fli/
+test/
+.gitignore
+.travis.yml
+Makefile
+README.md
+composer.json
+phpunit.xml

@@ -1,0 +1,4 @@
+src/ElzeKool/ConfigurationReader/
+LICENCE
+README.md
+composer.json

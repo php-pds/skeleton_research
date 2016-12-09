@@ -1,0 +1,12 @@
+Controller/
+DependencyInjection/
+Entity/
+EventListener/
+Form/Type/
+Repository/
+Resources/
+Tests/Controller/
+Twig/
+LICENSE
+composer.json
+esperantoNewsletterBundle.php

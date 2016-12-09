@@ -1,0 +1,7 @@
+DependencyInjection/
+Loader/Container/
+Resources/
+.gitignore
+LICENSE
+LogStockBundle.php
+composer.json

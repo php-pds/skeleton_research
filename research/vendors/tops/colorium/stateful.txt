@@ -1,0 +1,4 @@
+src/Colorium/Stateful/
+LICENCE
+README.md
+composer.json

@@ -1,0 +1,4 @@
+src/Flame/
+.gitignore
+README.md
+composer.json

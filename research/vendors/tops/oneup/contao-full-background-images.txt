@@ -1,0 +1,6 @@
+contao/
+resources/
+src/Fbi/
+.gitignore
+README.md
+composer.json

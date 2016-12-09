@@ -1,0 +1,10 @@
+src/StrongTypes/
+tests/
+.coveralls.yml
+.gitignore
+.php_cs
+.scrutinizer.yml
+.travis.yml
+README.md
+composer.json
+phpunit.xml.dist

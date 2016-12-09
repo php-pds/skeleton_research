@@ -1,0 +1,12 @@
+services/
+templates/
+tests/
+translations/
+variables/
+.scrutinizer.yml
+.travis.yml
+DraftNotificationsPlugin.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

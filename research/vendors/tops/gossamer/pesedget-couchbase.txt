@@ -1,0 +1,6 @@
+.idea/
+src/Gossamer/Pesedget/Extensions/Couchbase/
+tests/
+vendor/gossamer/
+LICENSE.htm
+composer.json

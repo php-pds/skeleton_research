@@ -1,0 +1,5 @@
+services/
+translations/
+AmCommandPlusPlugin.php
+README.md
+composer.json

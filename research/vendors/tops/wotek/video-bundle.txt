@@ -1,0 +1,16 @@
+Command/
+Controller/
+DependencyInjection/
+Entity/
+Providers/
+Resources/
+Service/
+Tests/
+.coveralls.yml
+.gitignore
+.travis.yml
+README.md
+VideoFile.php
+WtkVideoBundle.php
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,12 @@
+src/Finder/
+tests/Finder/
+.gitattributes
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+composer.json
+php-semver-checker-git.yml.dist
+phpunit.xml.dist

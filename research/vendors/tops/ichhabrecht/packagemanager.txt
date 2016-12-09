@@ -1,0 +1,6 @@
+src/Packagemanager/Output/
+tests/Packagemanager/
+.gitignore
+.travis.yml
+composer.json
+packagemanager.png

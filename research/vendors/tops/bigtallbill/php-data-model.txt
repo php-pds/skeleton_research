@@ -1,0 +1,9 @@
+src/Bigtallbill/
+tests/Bigtallbill/Model/
+.gitignore
+.travis.yml
+composer.json
+composer.lock
+hooker.json
+runtests.sh
+testLoader.php

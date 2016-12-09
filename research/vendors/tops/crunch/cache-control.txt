@@ -1,0 +1,15 @@
+bin/
+examples/
+src/
+tests/
+.editorconfig
+.gitignore
+.travis.yml
+CONTRIBUTING.md
+LICENSE
+README.md
+box.json
+cache-control.phar
+composer.json
+composer.lock
+phpunit.xml.dist

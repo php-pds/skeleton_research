@@ -1,0 +1,14 @@
+Command/
+DependencyInjection/
+Metadata/
+Resources/config/
+Search/
+Tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+SimpleThingsSolrBundle.php
+composer.json
+phpunit.xml.dist
+simpspector.yml

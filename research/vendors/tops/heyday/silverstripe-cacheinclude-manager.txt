@@ -1,0 +1,12 @@
+_config/
+assets/
+src/
+templates/
+tests/
+.gitignore
+.php_cs
+README.md
+_config.php
+composer.json
+composer.lock
+phpunit.xml.dist

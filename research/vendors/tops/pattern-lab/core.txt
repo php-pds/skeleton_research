@@ -1,0 +1,6 @@
+config/
+src/PatternLab/
+.editorconfig
+LICENSE
+README.md
+composer.json

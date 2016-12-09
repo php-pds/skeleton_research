@@ -1,0 +1,16 @@
+Action/
+AdminIncludes/
+Commands/
+Config/
+Controller/Admin/
+Event/
+Form/
+I18n/
+Loop/
+Model/
+Smarty/Plugins/
+templates/backOffice/default/
+Keyword.php
+LICENSE.txt
+README.md
+composer.json

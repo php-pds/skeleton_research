@@ -1,0 +1,16 @@
+_ide/
+assets/
+components/
+config/
+controllers/
+events/
+messages/
+migrations/
+models/
+views/
+widgets/
+CHANGELOG.md
+CommentsModule.php
+LICENSE
+README.md
+composer.json

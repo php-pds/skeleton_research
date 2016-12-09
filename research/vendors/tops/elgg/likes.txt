@@ -1,0 +1,7 @@
+actions/likes/
+classes/Elgg/Likes/
+languages/
+views/default/
+composer.json
+manifest.xml
+start.php

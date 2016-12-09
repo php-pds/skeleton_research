@@ -1,0 +1,8 @@
+Helpers/
+Interfaces/
+Tests/
+Traits/
+.gitignore
+.travis.yml
+composer.json
+phpunit.xml.dist

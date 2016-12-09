@@ -1,0 +1,14 @@
+assets/
+behaviors/
+controllers/
+css/
+images/
+migrations/
+models/
+nbproject/
+views/
+.gitignore
+ImageLoadWidget.php
+LICENSE
+README.md
+composer.json

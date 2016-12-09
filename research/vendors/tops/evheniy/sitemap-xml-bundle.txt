@@ -1,0 +1,17 @@
+Collection/
+Command/
+DependencyInjection/
+Dump/
+Entity/
+Exception/
+Resources/
+Service/
+Tests/
+Validate/
+.coveralls.yml
+.gitignore
+.travis.yml
+README.md
+SitemapXmlBundle.php
+composer.json
+phpunit.xml.dist

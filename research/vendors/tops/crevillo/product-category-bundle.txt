@@ -1,0 +1,15 @@
+API/ProductCategory/
+ApiLoader/
+Core/
+DependencyInjection/
+Resources/
+SPI/Persistence/ProductCategory/
+Tests/
+eZ/Publish/Core/
+.gitignore
+CrevilloProductCategoryBundle.php
+LICENSE
+README.md
+bootstrap.php
+composer.json
+phpunit.xml

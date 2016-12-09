@@ -1,0 +1,13 @@
+Command/
+DependencyInjection/
+Resources/config/
+Tests/
+.gitignore
+.travis.yml
+FilesystemMap.php
+KnpGaufretteBundle.php
+LICENSE
+README.md
+UPGRADE.md
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,12 @@
+resources/
+scripts/
+src/Saft/
+.coveralls.yml
+.gitignore
+.travis.yml
+LICENSE
+Makefile
+README.md
+composer.json
+phpunit.xml
+test-config.yml.dist

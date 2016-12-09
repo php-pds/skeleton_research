@@ -1,0 +1,14 @@
+bin/
+lib/
+symfony-di/
+tests/
+.gitignore
+.php_cs
+.phpbench.dist
+.styleci.yml
+.travis.yml
+CHANGELOG.md
+README.md
+composer.json
+phpbench.json
+phpunit.xml.dist

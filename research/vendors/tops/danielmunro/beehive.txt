@@ -1,0 +1,6 @@
+examples/
+lib/
+LICENSE
+README.md
+autoloader.php
+composer.json

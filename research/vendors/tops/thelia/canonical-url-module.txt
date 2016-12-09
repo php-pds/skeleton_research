@@ -1,0 +1,10 @@
+Config/
+Event/
+EventListener/
+Hook/
+Tests/
+CHANGELOG.md
+CanonicalUrl.php
+LICENSE.txt
+Readme.md
+composer.json

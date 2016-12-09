@@ -1,0 +1,8 @@
+src/Strukt/
+tests/src/Strukt/
+.gitignore
+LICENSE
+README.md
+bootstrap.php
+composer.json
+phpunit.xml

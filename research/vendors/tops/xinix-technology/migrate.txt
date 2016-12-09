@@ -1,0 +1,6 @@
+src/Xinix/Migrate/Provider/
+templates/_migrate/
+.gitignore
+README.md
+composer.json
+composer.lock

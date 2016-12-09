@@ -1,0 +1,10 @@
+src/LRezek/Arachnid/
+.coveralls.yml
+.gitignore
+.travis.yml
+LICENSE
+bootstrap.php
+composer.json
+phpdoc.xml
+phpunit.xml
+readme.md

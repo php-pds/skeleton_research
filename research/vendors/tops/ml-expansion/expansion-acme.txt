@@ -1,0 +1,9 @@
+Gui/
+messages/
+.gitignore
+Config.php
+LICENSE
+MetaData.php
+README.md
+composer.json
+pluginAcme.php

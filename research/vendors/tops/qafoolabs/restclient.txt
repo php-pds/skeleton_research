@@ -1,0 +1,9 @@
+setup @ 8cba51d
+src/main/QafooLabs/RestClient/
+test/
+.gitignore
+.gitmodules
+build.properties
+build.xml
+composer.json
+composer.lock

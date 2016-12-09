@@ -1,0 +1,10 @@
+BasePlugin.php
+I18n.php
+Loader.php
+Plugin.php
+Plugin_Interface.php
+TemplatePlugin.php
+TemplatePlugin_Interface.php
+autoloader.php
+composer.future.json
+composer.json

@@ -1,0 +1,4 @@
+src/
+README.md
+Snail.php
+composer.json

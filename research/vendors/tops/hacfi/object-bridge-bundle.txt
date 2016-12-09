@@ -1,0 +1,8 @@
+DependencyInjection/
+EventListener/
+Mapping/
+Resources/config/
+HacfiObjectBridgeBundle.php
+LICENSE
+README.md
+composer.json

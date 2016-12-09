@@ -1,0 +1,15 @@
+.web_package/
+src/AKlump/PostCommit/
+tests/
+vendor/
+.gitignore
+CHANGELOG.txt
+README.md
+bootstrap.php
+composer.json
+config.default.php
+git_pull_example.sh
+reset.php
+runner.php
+scheduler.php
+web_package.info

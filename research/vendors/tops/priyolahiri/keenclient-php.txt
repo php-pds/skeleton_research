@@ -1,0 +1,8 @@
+src/KeenIO/
+tests/
+.DS_Store
+.project
+.travis.yml
+README.md
+composer.json
+phpunit.xml.dist

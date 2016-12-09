@@ -1,0 +1,11 @@
+controllers/
+localeurls/
+migrations/
+models/
+views/admin/
+.gitattributes
+.gitignore
+Bootstrap.php
+Module.php
+README.md
+composer.json

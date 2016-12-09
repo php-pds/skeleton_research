@@ -1,0 +1,5 @@
+.gitignore
+LICENSE
+QueryInsert.php
+README.md
+composer.json

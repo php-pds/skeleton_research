@@ -1,0 +1,11 @@
+.github/
+Exception/
+Tests/
+.gitignore
+.travis.yml
+CachePoolChain.php
+Changelog.md
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

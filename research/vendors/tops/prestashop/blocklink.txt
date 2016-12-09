@@ -1,0 +1,13 @@
+img/
+translations/
+CHANGELOG.txt
+Readme.md
+add.png
+blocklink.php
+blocklink.tpl
+composer.json
+config.xml
+index.php
+logo.gif
+logo.png
+prefs.gif

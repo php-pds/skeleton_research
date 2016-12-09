@@ -1,0 +1,14 @@
+src/Helpers/
+tests/
+.codeclimate.yml
+.editorconfig
+.gitattributes
+.gitignore
+.styleci.yml
+.travis.yml
+CONDUCT.md
+CONTRIBUTING.md
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

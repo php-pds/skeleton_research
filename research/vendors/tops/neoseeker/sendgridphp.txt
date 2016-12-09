@@ -1,0 +1,6 @@
+src/SendGridPHP/
+.gitignore
+README
+composer.json
+sample-newsletter.php
+sample-web.php

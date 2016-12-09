@@ -1,0 +1,12 @@
+docs/
+src/Neutron/TipTop/
+tests/
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+composer.json
+phpunit-functional.xml.dist
+phpunit.xml.dist
+sami_configuration.php

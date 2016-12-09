@@ -1,0 +1,13 @@
+Collector/
+DependencyInjection/
+Doctrine/
+Manager/
+Pagination/
+Resources/
+Tests/
+.travis.yml
+DarkRedisListBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,12 @@
+src/J/
+tests/J/
+.codeclimate.yml
+.gitignore
+.travis.yml
+Makefile
+README.md
+composer.json
+composer.lock
+couscous.yml
+phpdoc.dist.xml
+phpunit.xml.dist

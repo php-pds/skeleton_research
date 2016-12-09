@@ -1,0 +1,6 @@
+Calendar/
+Client/
+DependencyInjection/
+Resources/config/
+composer.json
+r1pp3rj4ckGoogleBundle.php

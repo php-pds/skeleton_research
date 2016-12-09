@@ -1,0 +1,6 @@
+Vendor/tmhOAuth/
+.gitignore
+.gitmodules
+OAuthStrategy.php
+README.md
+composer.json

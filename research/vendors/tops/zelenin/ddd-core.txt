@@ -1,0 +1,6 @@
+Application/
+Domain/
+Infrastructure/
+LICENSE
+composer.json
+readme.md

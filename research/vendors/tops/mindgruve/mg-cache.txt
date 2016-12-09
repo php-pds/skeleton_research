@@ -1,0 +1,12 @@
+admin/
+cache/
+controllers/
+factories/
+helpers/
+.gitignore
+CHANGELOG.md
+MgCacheRequirements.php
+MgCacheRouting.php
+composer.json
+composer.lock
+mg-cache.php

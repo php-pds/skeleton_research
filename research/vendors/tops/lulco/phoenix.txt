@@ -1,0 +1,15 @@
+bin/
+docs/
+example/
+src/
+testing_migrations/
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+composer.json
+humbug.json.dist
+phpunit.xml.dist

@@ -1,0 +1,4 @@
+src/Shell/
+README.md
+composer.json
+phpunit.xml.dist

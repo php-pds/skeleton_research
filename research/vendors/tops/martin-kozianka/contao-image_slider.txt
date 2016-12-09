@@ -1,0 +1,5 @@
+contao/
+src/ContaoImageSlider/
+.gitignore
+README.md
+composer.json

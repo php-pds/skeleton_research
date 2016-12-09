@@ -1,0 +1,3 @@
+src/bbit/contao/util/log/
+.gitignore
+composer.json

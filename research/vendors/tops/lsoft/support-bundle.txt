@@ -1,0 +1,17 @@
+Controller/
+DependencyInjection/
+Document/
+Entity/
+Event/
+Features/
+Form/Type/
+Listener/
+Mailer/
+Manager/Doctrine/
+Model/
+Resources/
+.gitignore
+AvroSupportBundle.php
+GruntConfig.js
+README.md
+composer.json

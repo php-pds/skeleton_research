@@ -1,0 +1,5 @@
+src/Jaguero/FlexPricingBundle/
+.gitignore
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,8 @@
+Controller/
+DependencyInjection/
+Resources/
+Tests/Controller/
+.gitignore
+README.md
+TMSolutionExtjsBundle.php
+composer.json

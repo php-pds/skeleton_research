@@ -1,0 +1,6 @@
+src/BenGee/Slim/Db/
+tst/
+.gitattributes
+.gitignore
+README.md
+composer.json

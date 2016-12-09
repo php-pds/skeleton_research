@@ -1,0 +1,12 @@
+docs @ bcf17a4
+src/
+tests/
+.gitignore
+.gitmodules
+LICENSE
+README.ja.md
+README.md
+apigen.neon
+composer.json
+composer.lock
+phpunit.xml

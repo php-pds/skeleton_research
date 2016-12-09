@@ -1,0 +1,6 @@
+system/modules/TinyMceLocalStorage/
+.gitattributes
+.gitignore
+README.md
+composer.json
+screenshot.jpg

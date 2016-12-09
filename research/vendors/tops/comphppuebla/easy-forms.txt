@@ -1,0 +1,14 @@
+bin/
+docs/
+spec/EasyForms/
+src/EasyForms/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+Makefile
+README.md
+composer.json
+couscous.yml
+phpspec.yml
+phpunit.xml

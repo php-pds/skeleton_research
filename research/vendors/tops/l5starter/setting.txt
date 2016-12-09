@@ -1,0 +1,6 @@
+database/
+resources/views/admin/settings/
+src/
+LICENSE
+README.md
+composer.json

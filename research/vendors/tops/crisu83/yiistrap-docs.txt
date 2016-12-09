@@ -1,0 +1,10 @@
+app/
+bootstrap/
+web/
+.gitignore
+Gruntfile.js
+README.md
+Vagrantfile
+composer.json
+composer.lock
+package.json

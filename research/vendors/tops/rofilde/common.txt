@@ -1,0 +1,3 @@
+Entities/
+README.md
+composer.json

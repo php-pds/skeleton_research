@@ -1,0 +1,10 @@
+examples/
+lib/FirePHPCore/
+tests/
+workspace/
+.gitignore
+CHANGELOG.md
+README.md
+composer.json
+package.json
+program.json

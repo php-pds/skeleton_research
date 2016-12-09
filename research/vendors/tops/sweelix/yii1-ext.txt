@@ -1,0 +1,12 @@
+behaviors/
+commands/
+components/
+db/
+entities/
+migrations/
+web/
+.gitignore
+CHANGELOG.md
+LICENSE.md
+README.md
+composer.json

@@ -1,0 +1,13 @@
+CodeExamples/
+src/
+tests/
+.gitignore
+.travis.composer.config.json
+.travis.yml
+LICENSE
+README.md
+clearSessions.php
+composer.json
+composer.lock
+index.php
+phpunit.xml

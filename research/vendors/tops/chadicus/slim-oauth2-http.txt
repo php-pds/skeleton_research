@@ -1,0 +1,15 @@
+.github/
+src/
+tests/
+.coveralls.yml
+.gitattributes
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+check-humbug-mutators.php
+composer.json
+composer.lock
+humbug.json
+phpunit.xml

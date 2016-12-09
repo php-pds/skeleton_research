@@ -1,0 +1,10 @@
+.idea/
+.gitignore
+ConnectionFactory.php
+DbalTest.php
+LICENSE
+README.md
+Repository.php
+composer.json
+phpunit.xml.dist
+schema.sql

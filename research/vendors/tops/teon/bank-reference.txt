@@ -1,0 +1,7 @@
+examples/
+src/
+Autoload.php
+COPYING
+LICENSE
+README.md
+composer.json

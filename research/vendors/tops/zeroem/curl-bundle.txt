@@ -1,0 +1,11 @@
+Curl/
+HttpKernel/
+Resources/config/
+Tests/
+.gitignore
+LICENSE
+README.md
+TODO
+ZeroemCurlBundle.php
+composer.json
+phpunit.xml.dist

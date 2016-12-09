@@ -1,0 +1,8 @@
+app/
+src/Doctrine/WorkshopBundle/
+web/
+.gitignore
+README.md
+composer.json
+composer.lock
+package.sh

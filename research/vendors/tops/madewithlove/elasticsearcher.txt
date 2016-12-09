@@ -1,0 +1,12 @@
+docs/
+examples/
+src/
+tests/
+.gitignore
+LICENSE
+README.md
+Vagrantfile
+circle.yml
+composer.json
+install-elasticsearch.sh
+phpunit.xml

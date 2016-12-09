@@ -1,0 +1,7 @@
+system/modules/DocumentManagementSystemFileTypeSets/
+.gitattributes
+.gitignore
+README.md
+composer.json
+screenshot_backend_view.jpg
+screenshot_categories_view.jpg

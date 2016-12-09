@@ -1,0 +1,7 @@
+Frizzy/Container/
+tests/Frizzy/Container/
+.gitignore
+LICENSE
+README.markdown
+composer.json
+phpunit.xml.dist

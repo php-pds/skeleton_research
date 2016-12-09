@@ -1,0 +1,3 @@
+src/Prophetz/Curl/
+.gitignore
+composer.json

@@ -1,0 +1,7 @@
+example/
+src/cdyweb/http/
+tests/cdyweb/http/guzzle/
+.gitignore
+LICENSE
+README.md
+composer.json

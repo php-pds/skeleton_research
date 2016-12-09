@@ -1,0 +1,6 @@
+src/SQRT/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json

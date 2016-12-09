@@ -1,0 +1,11 @@
+Annotation/
+DependencyInjection/
+EventSubscriber/
+Resources/
+Tests/DependencyInjection/
+.gitignore
+.travis.yml
+LICENSE
+SfynxPositionBundle.php
+composer.json
+phpunit.xml.dist

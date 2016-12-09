@@ -1,0 +1,6 @@
+library/WirecardCEE/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json

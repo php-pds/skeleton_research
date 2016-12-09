@@ -1,0 +1,13 @@
+bin/
+src/
+.gitattributes
+.gitignore
+README.md
+composer.json
+composer.lock
+propel-config.php
+propel.xml
+propel.xml.dist
+schema.xml
+start-server-visible.bat
+start-server.bat

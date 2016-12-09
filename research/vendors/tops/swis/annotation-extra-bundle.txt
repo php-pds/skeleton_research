@@ -1,0 +1,4 @@
+Annotations/
+.gitignore
+SwisAnnotationExtraBundle.php
+composer.json

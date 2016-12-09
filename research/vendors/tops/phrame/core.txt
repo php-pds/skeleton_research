@@ -1,0 +1,6 @@
+config/
+src/Phrame/Core/
+tests/
+themes/system/
+.gitignore
+composer.json

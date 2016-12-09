@@ -1,0 +1,4 @@
+src/SerializableObjects/
+.gitignore
+composer.json
+phpunit.xml

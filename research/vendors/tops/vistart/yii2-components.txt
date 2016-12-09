@@ -1,0 +1,13 @@
+rest/
+tests/
+web/
+widgets/
+.codeclimate.yml
+.gitattributes
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.local.xml
+phpunit.xml.dist

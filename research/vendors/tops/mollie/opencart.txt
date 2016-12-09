@@ -1,0 +1,12 @@
+admin/
+catalog/
+tests/
+.gitignore
+.gitmodules
+.travis.yml
+CHANGELOG.md
+LICENSE
+build.xml
+composer.json
+readme.mdown
+release.sh

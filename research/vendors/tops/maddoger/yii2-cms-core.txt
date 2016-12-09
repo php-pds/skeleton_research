@@ -1,0 +1,9 @@
+behaviors/
+components/
+i18n/
+migrations/
+models/
+search/
+LICENSE
+README.md
+composer.json

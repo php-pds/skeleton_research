@@ -1,0 +1,9 @@
+autoloads/
+design/ezdemo/templates/
+doc/
+settings/
+.gitignore
+LICENSE
+README.md
+composer.json
+extension.xml

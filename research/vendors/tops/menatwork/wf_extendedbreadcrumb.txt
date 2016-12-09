@@ -1,0 +1,2 @@
+system/modules/wf_extendedBreadcrumb/
+composer.json

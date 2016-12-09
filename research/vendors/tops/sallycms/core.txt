@@ -1,0 +1,14 @@
+config/
+contrib/
+install/
+lib/
+tests/
+views/
+.gitignore
+.htaccess
+.travis.yml
+README.md
+autoload.php
+composer.json
+detect-app.php
+request-filter.php

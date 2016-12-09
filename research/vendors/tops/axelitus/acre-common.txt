@@ -1,0 +1,6 @@
+resources/tests/
+src/axelitus/Acre/Common/
+.gitignore
+.travis.yml
+README.md
+composer.json

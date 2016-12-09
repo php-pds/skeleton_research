@@ -1,0 +1,8 @@
+Controller/
+DependencyInjection/
+Exposer/
+Resources/config/
+.gitignore
+README.md
+WebitPriceComparatorCoreBundle.php
+composer.json

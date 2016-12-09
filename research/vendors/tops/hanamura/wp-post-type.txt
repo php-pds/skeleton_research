@@ -1,0 +1,5 @@
+src/WPPostType/
+.gitignore
+LICENSE
+README.md
+composer.json

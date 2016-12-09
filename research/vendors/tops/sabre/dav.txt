@@ -1,0 +1,11 @@
+bin/
+examples/
+lib/
+tests/
+.gitignore
+.travis.yml
+CHANGELOG.md
+CONTRIBUTING.md
+LICENSE
+README.md
+composer.json

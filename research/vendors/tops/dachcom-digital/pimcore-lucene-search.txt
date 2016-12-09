@@ -1,0 +1,10 @@
+controllers/
+lib/LuceneSearch/
+static/
+views/scripts/search/
+.gitignore
+LICENSE.md
+README.md
+UPGRADE.md
+composer.json
+plugin.xml

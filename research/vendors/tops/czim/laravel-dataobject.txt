@@ -1,0 +1,11 @@
+src/
+tests/
+.editorconfig
+.gitignore
+.travis.yml
+CONTRIBUTING.md
+LICENSE.md
+README.md
+VALIDATION.md
+composer.json
+phpunit.xml

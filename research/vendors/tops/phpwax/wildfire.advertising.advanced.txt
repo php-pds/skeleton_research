@@ -1,0 +1,7 @@
+lib/
+resources/
+view/shared/
+README
+composer.json
+ini.php
+setup.php

@@ -1,0 +1,7 @@
+controllers/
+lib/Fixtures/
+static/
+views/
+README.md
+composer.json
+plugin.xml

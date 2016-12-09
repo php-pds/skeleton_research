@@ -1,0 +1,11 @@
+CharFilter/
+Entity/
+Exception/
+Query/
+Storage/
+Tokenizer/
+Transformer/
+Indexer.php
+README.md
+Searcher.php
+composer.json

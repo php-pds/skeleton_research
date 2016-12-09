@@ -1,0 +1,4 @@
+src/Pecee/Models/Legacy/
+.gitignore
+README.md
+composer.json

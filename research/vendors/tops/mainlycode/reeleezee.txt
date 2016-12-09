@@ -1,0 +1,7 @@
+doc/taxonomy/1.27/
+metadata/
+src/MainlyCode/Reeleezee/
+.gitignore
+README.md
+composer.json
+composer.lock

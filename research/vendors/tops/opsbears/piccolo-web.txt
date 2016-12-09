@@ -1,0 +1,14 @@
+.idea/
+src/
+tests/Routing/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CONTRIBUTING.md
+HACKING.md
+LICENCE.md
+README.md
+build.xml
+composer.json
+phpmd.xml
+phpunit.xml

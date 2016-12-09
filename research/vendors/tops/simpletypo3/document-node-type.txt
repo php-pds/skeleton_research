@@ -1,0 +1,15 @@
+Classes/
+Configuration/
+Resources/
+bower_components/
+.editorconfig
+.gitignore
+.travis.yml
+README.md
+bower.json
+composer.json
+composer.lock
+ext_emconf.php
+ext_icon.gif
+ext_localconf.php
+ext_tables.php

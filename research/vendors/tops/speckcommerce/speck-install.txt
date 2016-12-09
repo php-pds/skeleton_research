@@ -1,0 +1,6 @@
+src/SpeckInstall/
+view/speck-install/install/
+LICENSE.txt
+Module.php
+README.md
+composer.json

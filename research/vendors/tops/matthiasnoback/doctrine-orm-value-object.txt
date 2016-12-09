@@ -1,0 +1,12 @@
+Annotation/
+EventListener/
+Mapping/
+Metadata/
+Synchronizer/
+Test/
+Tests/
+.gitignore
+.travis.yml
+README.md
+composer.json
+phpunit.xml.dist

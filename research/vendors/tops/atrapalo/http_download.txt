@@ -1,0 +1,5 @@
+src/HTTP/
+tests/
+.gitignore
+LICENSE
+composer.json

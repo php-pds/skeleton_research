@@ -1,0 +1,12 @@
+Command/
+Controller/
+DependencyInjection/
+Event/
+Form/Type/
+Menu/
+Model/
+Resources/
+Tests/Controller/
+.gitignore
+SmirikAdminBundle.php
+composer.json

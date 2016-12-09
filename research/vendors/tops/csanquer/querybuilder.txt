@@ -1,0 +1,14 @@
+doc/
+src/SQL/
+tests/
+.gitignore
+.php_cs
+.travis.yml
+CREDITS
+LICENSE
+LICENSE.LESSER
+README.md
+composer.json
+composer.lock
+phpdoc.dist.xml
+phpunit.xml.dist

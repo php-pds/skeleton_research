@@ -1,0 +1,7 @@
+messages/ru/
+phantomjs/
+.gitignore
+EWebpageScreenshot.php
+LICENSE
+README.md
+composer.json

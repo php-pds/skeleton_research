@@ -1,0 +1,9 @@
+bin/
+lib/
+local/
+scripts/
+txt/
+.gitignore
+composer.json
+composer.lock
+readme.md

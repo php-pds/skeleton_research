@@ -1,0 +1,8 @@
+bin/
+src/Kix/OpenTagFixer/
+test/Kix/OpenTagFixer/Command/
+.gitignore
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

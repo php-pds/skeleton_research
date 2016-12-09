@@ -1,0 +1,13 @@
+interfaces/
+migrations/
+models/
+.gitignore
+ActiveParams.php
+Boolean.php
+Date.php
+LICENSE.md
+Number.php
+README.md
+StaticParam.php
+String.php
+composer.json

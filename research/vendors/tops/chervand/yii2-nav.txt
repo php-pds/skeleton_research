@@ -1,0 +1,6 @@
+docs/
+migrations/
+models/
+traits/
+README.md
+composer.json

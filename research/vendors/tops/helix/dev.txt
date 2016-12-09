@@ -1,0 +1,10 @@
+doc/
+src/
+.gitignore
+README.md
+apigen.neon
+changelog.md
+composer.json
+documenting.md
+helix
+versioning.md

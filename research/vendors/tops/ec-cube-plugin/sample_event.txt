@@ -1,0 +1,8 @@
+.gitignore
+LICENSE.txt
+PluginManager.php
+README.md
+SamplePlugin.php
+composer.json
+config.yml
+event.yml

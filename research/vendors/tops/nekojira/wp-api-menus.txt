@@ -1,0 +1,15 @@
+assets/
+includes/
+.editorconfig
+.gitattributes
+.gitignore
+.scutinizer.yml
+CHANGELOG.md
+Gruntfile.js
+README.md
+composer.json
+index.php
+license.txt
+package.json
+readme.txt
+wp-api-menus.php

@@ -1,0 +1,6 @@
+database/
+src/Widgets/
+themes/
+.gitignore
+composer.json
+extension.php

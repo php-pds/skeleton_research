@@ -1,0 +1,5 @@
+Command/
+Resources/
+README.md
+WidopFixturesBundle.php
+composer.json

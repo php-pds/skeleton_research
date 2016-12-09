@@ -1,0 +1,7 @@
+src/ondrs/UploadManager/
+tests/
+.gitignore
+.travis.yml
+LICENSE.md
+README.md
+composer.json

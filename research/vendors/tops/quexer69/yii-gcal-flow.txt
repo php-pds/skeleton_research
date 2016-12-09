@@ -1,0 +1,6 @@
+assets/
+.gitignore
+GoogleCalendarWidget.php
+LICENSE
+README.md
+composer.json

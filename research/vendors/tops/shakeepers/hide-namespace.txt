@@ -1,0 +1,6 @@
+.gitignore
+HideNamespace.i18n.magic.php
+HideNamespace.i18n.php
+HideNamespace.php
+README.md
+composer.json

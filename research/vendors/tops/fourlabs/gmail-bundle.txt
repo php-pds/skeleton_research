@@ -1,0 +1,17 @@
+Action/
+DataTransformer/
+DependencyInjection/
+Event/
+Form/Type/
+Model/
+Resources/config/
+Services/
+Storage/
+Swift/
+Token/
+.gitignore
+.styleci.yml
+FLGmailBundle.php
+LICENSE
+README.md
+composer.json

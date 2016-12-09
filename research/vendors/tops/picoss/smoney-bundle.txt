@@ -1,0 +1,13 @@
+DataCollector/
+DependencyInjection/
+GuzzleHttp/Subscriber/
+Resources/
+Tests/
+.gitignore
+.travis.yml
+HttpClient.php
+PicossSMoneyBundle.php
+README.md
+SMoneyApi.php
+composer.json
+phpunit.xml.dist

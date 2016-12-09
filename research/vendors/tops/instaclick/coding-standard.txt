@@ -1,0 +1,8 @@
+CommentParser/
+Docs/
+Sniffs/
+Tests/
+.gitignore
+README.md
+composer.json
+ruleset.xml

@@ -1,0 +1,15 @@
+config/
+docs/
+resources/views/
+src/
+tests/
+.editorconfig
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE.md
+README.md
+build.xml
+composer.json
+docgen.json
+phpunit.xml

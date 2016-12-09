@@ -1,0 +1,9 @@
+doc/
+examples/
+images/
+src/Illagrenan/Facebook/
+.gitattributes
+.gitignore
+README.md
+WALLPOST_EXAMPLE.md
+composer.json

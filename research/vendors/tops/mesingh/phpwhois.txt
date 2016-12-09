@@ -1,0 +1,7 @@
+src/PHPWhois/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+index.php

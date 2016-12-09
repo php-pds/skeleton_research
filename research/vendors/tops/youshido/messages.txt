@@ -1,0 +1,8 @@
+DependencyInjection/
+Entity/
+Resources/config/
+Service/
+.gitignore
+README.md
+YMessagesBundle.php
+composer.json

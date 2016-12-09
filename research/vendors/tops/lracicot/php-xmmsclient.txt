@@ -1,0 +1,5 @@
+Resources/python/xmms2/
+doc/
+src/lracicot/phpxmmsclient/
+README.md
+composer.json

@@ -1,0 +1,10 @@
+bin/
+src/Seld/JsonLint/
+tests/
+.gitignore
+.travis.yml
+CHANGELOG.mdown
+LICENSE
+README.mdown
+composer.json
+phpunit.xml.dist

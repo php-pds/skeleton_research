@@ -1,0 +1,12 @@
+lib/TEIShredder/
+test/
+.gitignore
+.travis.yml
+README.markdown
+Test results.txt
+autoload.php
+composer.json
+create-mysql.sql
+create-pgsql.sql
+create-sqlite.sql
+test.php

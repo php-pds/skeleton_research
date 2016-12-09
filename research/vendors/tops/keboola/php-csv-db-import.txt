@@ -1,0 +1,14 @@
+docker/
+src/
+tests/
+.gitignore
+.travis.yml
+Dockerfile
+LICENSE
+README.md
+aws-services.json
+bootstrap.php
+composer.json
+docker-compose.yml
+phpunit.sh
+phpunit.xml.dist

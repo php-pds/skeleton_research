@@ -1,0 +1,14 @@
+Comparator/
+Exception/
+Iterator/
+Path/
+Test/
+.gitignore
+.travis.yml
+File.php
+Filesystem.php
+Folder.php
+Path.php
+README.md
+composer.json
+phpunit.travis.xml

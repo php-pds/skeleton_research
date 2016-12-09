@@ -1,0 +1,9 @@
+Browser/
+Interfaces/
+Transporter/
+Browser.php
+BrowserOptions.php
+BrowserRequestOptions.php
+README.md
+ReqMethod.php
+composer.json

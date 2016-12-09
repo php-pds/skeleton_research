@@ -1,0 +1,7 @@
+Delicious/
+Github/
+Loggly/
+Twitter/
+.gitignore
+composer.json
+composer.lock

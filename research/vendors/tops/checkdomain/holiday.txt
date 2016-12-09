@@ -1,0 +1,9 @@
+lib/Checkdomain/Holiday/
+tests/Checkdomain/Holiday/
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,5 @@
+.gitignore
+MemcachedConnector.php
+MemcachedNoversionServiceProvider.php
+README.md
+composer.json

@@ -1,0 +1,11 @@
+class/
+doc/
+test/
+.gitignore
+.gitlab-ci.yml
+LICENSE
+Makefile
+README.md
+admin.json.php
+composer.json
+todo

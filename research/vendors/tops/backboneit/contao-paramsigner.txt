@@ -1,0 +1,4 @@
+contao-module/
+src/bbit/contao/util/ps/
+.gitignore
+composer.json

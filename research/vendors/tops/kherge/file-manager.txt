@@ -1,0 +1,8 @@
+src/KHerGe/File/
+tests/KHerGe/File/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

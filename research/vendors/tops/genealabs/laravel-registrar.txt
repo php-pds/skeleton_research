@@ -1,0 +1,8 @@
+database/migrations/
+routes/
+src/
+tests/Laravel5_3/
+.gitignore
+LICENSE
+README.md
+composer.json

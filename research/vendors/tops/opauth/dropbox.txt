@@ -1,0 +1,4 @@
+.gitignore
+DropboxStrategy.php
+README.md
+composer.json

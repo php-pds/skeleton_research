@@ -1,0 +1,11 @@
+admin/
+assets/
+class/
+languages/
+lib/
+templates/
+composer.json
+docs.md
+readme.txt
+wpuf-functions.php
+wpuf.php

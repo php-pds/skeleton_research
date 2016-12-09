@@ -1,0 +1,11 @@
+examples/
+nbproject/
+src/
+tests/SparQL/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+index.php
+phpunit.xml.dist

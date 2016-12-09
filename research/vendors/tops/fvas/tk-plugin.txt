@@ -1,0 +1,5 @@
+Plg/
+sql/
+changelog.md
+composer.json
+readme.md

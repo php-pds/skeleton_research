@@ -1,0 +1,3 @@
+lib/Thoom/
+README.md
+composer.json

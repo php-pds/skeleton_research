@@ -1,0 +1,12 @@
+cmd/
+phpclient/
+.gitignore
+README.md
+actions.go
+callback.go
+composer.json
+conn.go
+http.go
+im.go
+json.go
+rooms.go

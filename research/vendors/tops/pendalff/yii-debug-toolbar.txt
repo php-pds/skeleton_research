@@ -1,0 +1,16 @@
+assets/
+messages/
+panels/
+views/
+widgets/
+README.markdown
+YiiDebug.php
+YiiDebugCacheProxy.php
+YiiDebugComponentProxy.php
+YiiDebugController.php
+YiiDebugToolbar.php
+YiiDebugToolbarPanel.php
+YiiDebugToolbarRoute.php
+YiiDebugViewHelper.php
+YiiDebugViewRenderer.php
+composer.json

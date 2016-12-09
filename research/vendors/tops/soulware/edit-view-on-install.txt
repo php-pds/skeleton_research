@@ -1,0 +1,5 @@
+source/Soulware/EditViewOnInstall/
+.gitignore
+LICENSE
+composer.json
+readme.md

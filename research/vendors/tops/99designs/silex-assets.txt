@@ -1,0 +1,9 @@
+src/SilexAssets/
+tests/
+.gitignore
+Makefile.example
+README.md
+composer.json
+composer.lock
+package.json
+phpunit.xml.dist

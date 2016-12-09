@@ -1,0 +1,5 @@
+docs/en/
+src/
+.gitattributes
+README.md
+composer.json

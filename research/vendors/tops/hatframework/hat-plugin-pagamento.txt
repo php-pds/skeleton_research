@@ -1,0 +1,11 @@
+Config/
+index/
+nbproject/
+operacao/classes/
+produto/
+status/classes/
+tests/
+.gitattributes
+.gitignore
+autoload.php
+composer.json

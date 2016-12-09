@@ -1,0 +1,10 @@
+examples/
+src/azi/
+tests/azi/
+vendor/
+.gitignore
+.travis.yml
+README.md
+composer.json
+phpunit.xml
+thumbnail.png

@@ -1,0 +1,14 @@
+docs/
+src/
+tests/
+.gitignore
+.gitmodules
+CHANGELOG.md
+Jenkinsfile
+LICENSE.md
+README.md
+build.properties
+build.xml
+composer.json
+local.build.xml
+phpunit.xml

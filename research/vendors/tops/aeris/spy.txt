@@ -1,0 +1,8 @@
+src/
+tests/SpyTest/
+.gitignore
+CHANGELOG.md
+README.md
+composer.json
+composer.lock
+phpunit.phar

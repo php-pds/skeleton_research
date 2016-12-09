@@ -1,0 +1,9 @@
+files/dms/
+system/modules/DocumentManagementSystem/
+.gitattributes
+.gitignore
+CHANGELOG.md
+README.md
+composer.json
+screenshot_access_rights.jpg
+screenshot_categories.jpg

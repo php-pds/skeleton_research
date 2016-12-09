@@ -1,0 +1,4 @@
+examples/
+js/
+bower.json
+composer.json

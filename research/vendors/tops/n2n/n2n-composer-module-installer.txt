@@ -1,0 +1,9 @@
+.settings/
+src/n2n/composer/module/
+.buildpath
+.gitignore
+.project
+LICENSE
+README.md
+composer.json
+composer.lock

@@ -1,0 +1,7 @@
+config/
+src/Planejamento/Controller/
+view/Planejamento/index/
+.gitignore
+Module.php
+autoload_classmap.php
+composer.json

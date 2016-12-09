@@ -1,0 +1,5 @@
+Aplicacao/
+Dominio/
+Infra/Repositorio/
+composer.json
+dependencias.json

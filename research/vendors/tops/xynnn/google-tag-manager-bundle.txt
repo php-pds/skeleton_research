@@ -1,0 +1,14 @@
+DependencyInjection/
+EventListener/
+Extension/
+Helper/
+Resources/
+Service/
+Tests/
+.gitignore
+.travis.yml
+CHANGELOG.md
+GoogleTagManagerBundle.php
+README.md
+composer.json
+phpunit.xml.dist

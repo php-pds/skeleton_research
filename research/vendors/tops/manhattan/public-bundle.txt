@@ -1,0 +1,13 @@
+Controller/
+DependencyInjection/
+Entity/
+Form/
+Mailer/
+Resources/
+Tests/
+Twig/
+.gitignore
+LICENSE
+ManhattanPublicBundle.php
+README.md
+composer.json

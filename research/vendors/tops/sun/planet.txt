@@ -1,0 +1,12 @@
+app/
+bootstrap/
+config/
+migrations/
+public/
+storage/
+.env.example
+.gitignore
+LICENSE
+composer.json
+phpmig.php
+planet

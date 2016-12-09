@@ -1,0 +1,5 @@
+src/ride/library/image/
+test/src/ride/library/image/
+.gitignore
+README.md
+composer.json

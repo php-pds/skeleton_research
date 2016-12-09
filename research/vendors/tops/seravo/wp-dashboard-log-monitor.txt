@@ -1,0 +1,11 @@
+css/
+lib/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml
+readme.txt
+wp-dashboard-log-monitor.php

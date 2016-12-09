@@ -1,0 +1,7 @@
+autoloads/
+classes/
+design/standard/templates/social_user/
+modules/social_user/
+settings/
+translations/
+composer.json

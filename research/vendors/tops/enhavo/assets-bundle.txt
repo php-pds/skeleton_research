@@ -1,0 +1,7 @@
+DependencyInjection/
+RequireJS/
+Resources/
+EnhavoAssetsBundle.php
+LICENSE
+README.md
+composer.json

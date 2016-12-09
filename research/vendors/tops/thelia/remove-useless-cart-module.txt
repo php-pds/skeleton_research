@@ -1,0 +1,12 @@
+Command/
+Config/
+Controller/
+Event/
+EventListeners/
+Form/
+I18n/
+templates/backOffice/default/
+LICENSE.txt
+Readme.md
+RemoveUselessCart.php
+composer.json

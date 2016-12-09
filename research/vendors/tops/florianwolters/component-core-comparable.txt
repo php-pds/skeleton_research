@@ -1,0 +1,16 @@
+nbproject/
+src/
+.gitattributes
+.gitignore
+.travis.yml
+CONTRIBUTING.md
+COPYING
+COPYING.LESSER
+README.md
+apigen.neon
+build.local.xml
+build.properties
+build.xml
+composer.json
+package.xml
+phpunit.xml.dist

@@ -1,0 +1,9 @@
+lib/EasySerializer/
+tests/
+.travis.yml
+LICENSE
+README.md
+compile.sh
+composer.json
+composer.lock
+phpunit.xml

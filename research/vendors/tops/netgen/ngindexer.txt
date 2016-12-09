@@ -1,0 +1,10 @@
+classes/
+datatypes/ngindexer/
+doc/
+eventtypes/event/ngindexer/
+settings/
+LICENSE
+README
+composer.json
+extension.xml
+ezinfo.php

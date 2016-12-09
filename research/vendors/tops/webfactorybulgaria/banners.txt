@@ -1,0 +1,7 @@
+src/
+submodules/bannerplaces/
+.gitignore
+LICENCE
+LICENSE
+README.md
+composer.json

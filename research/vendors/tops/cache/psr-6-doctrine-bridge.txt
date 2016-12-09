@@ -1,0 +1,10 @@
+.github/
+Tests/
+.gitignore
+.travis.yml
+Changelog.md
+DoctrineCacheBridge.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

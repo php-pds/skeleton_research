@@ -1,0 +1,4 @@
+config/
+src/AxTvDb-Doctrine/
+README.md
+composer.json

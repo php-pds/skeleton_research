@@ -1,0 +1,7 @@
+DependencyInjection/
+Resources/
+Twig/
+.gitignore
+README.markdown
+SmirikBootstrapBundle.php
+composer.json

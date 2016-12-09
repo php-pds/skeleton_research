@@ -1,0 +1,9 @@
+src/
+.DS_Store
+.editorconfig
+CHANGELOG.md
+CONDUCT.md
+CONTRIBUTING.md
+LICENSE.md
+README.md
+composer.json

@@ -1,0 +1,13 @@
+DependencyInjection/
+Exception/
+Instagram/
+Model/
+Resources/config/
+Tests/
+.gitignore
+.travis.yml
+HautelookInstagramBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

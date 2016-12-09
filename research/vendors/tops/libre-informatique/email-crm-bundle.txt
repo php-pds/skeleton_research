@@ -1,0 +1,10 @@
+Admin/
+DependencyInjection/
+Entity/
+Resources/
+Services/
+Tests/Controller/
+LICENSE
+LibrinfoEmailCRMBundle.php
+README.md
+composer.json

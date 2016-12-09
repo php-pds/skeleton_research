@@ -1,0 +1,11 @@
+docs/
+src/stojg/crop/
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENCE
+README.md
+build.xml
+composer.json
+phpunit.xml

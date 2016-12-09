@@ -1,0 +1,4 @@
+.gitignore
+EmbedJs.php
+README.md
+composer.json

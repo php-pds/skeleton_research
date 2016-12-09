@@ -1,0 +1,9 @@
+Command/
+Generator/
+Resources/
+.gitattributes
+.gitignore
+CONTRIBUTING.md
+PUGXGeneratorBundle.php
+README.md
+composer.json

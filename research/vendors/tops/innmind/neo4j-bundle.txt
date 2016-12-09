@@ -1,0 +1,15 @@
+Configurator/
+DependencyInjection/
+EventListener/
+Exception/
+Factory/
+Resources/
+Tests/
+.gitattributes
+.gitignore
+.scrutinizer.yml
+.travis.yml
+InnmindNeo4jBundle.php
+README.md
+composer.json
+phpunit.xml.dist

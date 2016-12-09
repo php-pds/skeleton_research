@@ -1,0 +1,8 @@
+Compiler/
+DependencyInjection/
+.gitignore
+AutowiringCompilerPass.php
+KutnyAutowiringBundle.php
+LICENSE
+README.md
+composer.json

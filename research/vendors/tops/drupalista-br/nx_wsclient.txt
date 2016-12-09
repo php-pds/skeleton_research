@@ -1,0 +1,15 @@
+src/
+tests/
+.gitattributes
+.gitignore
+README.md
+app-update.bat
+app-update.commit
+app-update.php
+cli.bat
+cli.php
+composer.json
+composer.lock
+config.ini
+php.ini
+sincronizar.bat

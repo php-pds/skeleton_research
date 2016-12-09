@@ -1,0 +1,2 @@
+src/TippingCanoe/Validator/
+composer.json

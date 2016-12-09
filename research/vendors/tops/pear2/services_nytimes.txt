@@ -1,0 +1,14 @@
+src/PEAR2/Services/NYTimes/
+tests/
+.gitignore
+.travis.yml
+API-0.1.0
+CREDITS
+README.md
+RELEASE-0.1.0
+composer.json
+generate-package.php
+package.xml
+package_compatible.xml
+packagexmlsetup.php
+phpunit.xml

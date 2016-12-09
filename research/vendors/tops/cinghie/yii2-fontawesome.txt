@@ -1,0 +1,4 @@
+FontAwesomeAsset.php
+FontAwesomeMinifyAsset.php
+README.md
+composer.json

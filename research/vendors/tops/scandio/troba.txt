@@ -1,0 +1,5 @@
+doc/
+lib/troba/
+tests/
+README.md
+composer.json

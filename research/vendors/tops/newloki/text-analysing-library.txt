@@ -1,0 +1,8 @@
+Library/
+Tests/
+Utils/SentiWS_Converter/
+data/Sql/Deltas/
+.gitmodules
+LICENSE
+README.mdown
+composer.json

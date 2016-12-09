@@ -1,0 +1,11 @@
+Controller/
+DependencyInjection/
+Resources/
+Service/
+Tests/
+.gitignore
+.travis.yml
+IrvyneEmbedlyBundle.php
+README.md
+composer.json
+phpunit.xml.dist

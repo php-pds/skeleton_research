@@ -1,0 +1,6 @@
+.idea/
+src/Beluga/Web/
+.gitignore
+LICENSE
+README.md
+composer.json

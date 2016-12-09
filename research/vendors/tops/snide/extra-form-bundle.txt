@@ -1,0 +1,8 @@
+DependencyInjection/
+Form/Type/Entity/
+Resources/
+Twig/Extension/
+.scrutinizer.yml
+README.md
+SnideExtraFormBundle.php
+composer.json

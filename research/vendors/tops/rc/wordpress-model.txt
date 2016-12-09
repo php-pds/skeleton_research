@@ -1,0 +1,8 @@
+src/Wp/
+.gitignore
+.php_cs
+.travis.yml
+Makefile
+composer.json
+contributors.txt
+phpunit.xml.dist

@@ -1,0 +1,14 @@
+Common/Exception/
+DependencyInjection/
+Factory/
+Model/
+Provider/
+Resources/
+Tests/
+.gitattributes
+.gitignore
+.travis.yml
+GremoSubscriptionBundle.php
+README.md
+composer.json
+phpunit.xml.dist

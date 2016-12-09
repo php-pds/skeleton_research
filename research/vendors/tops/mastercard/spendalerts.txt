@@ -1,0 +1,7 @@
+MasterCard/Api/Spendalerts/
+result/
+.gitignore
+README.md
+composer.json
+mastercard-spendalerts-1.0.1.zip
+phpunit.xml

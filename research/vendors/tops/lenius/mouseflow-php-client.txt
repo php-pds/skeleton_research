@@ -1,0 +1,9 @@
+Mouseflow/
+Tests/api/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+README.md
+composer.json
+phpcs.xml
+phpunit.xml

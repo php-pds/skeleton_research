@@ -1,0 +1,8 @@
+src/
+tests/
+.arcconfig
+.arclint
+.gitignore
+README.md
+composer.json
+phpunit.xml

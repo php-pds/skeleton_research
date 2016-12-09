@@ -1,0 +1,6 @@
+doc/admin-img-sources/
+public/
+src/
+.gitignore
+README.md
+composer.json

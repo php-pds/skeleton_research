@@ -1,0 +1,9 @@
+DependencyInjection/
+Entity/
+Resources/config/
+.gitignore
+LICENSE
+README.md
+Voting.php
+VotingBundle.php
+composer.json

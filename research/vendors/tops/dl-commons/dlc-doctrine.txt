@@ -1,0 +1,6 @@
+config/
+src/DlcDoctrine/
+LICENSE
+Module.php
+README.md
+composer.json

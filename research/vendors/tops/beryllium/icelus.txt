@@ -1,0 +1,13 @@
+DependencyInjection/
+Resources/config/
+tests/
+.gitignore
+.travis.yml
+CONTRIBUTING.md
+IcelusBundle.php
+ImageService.php
+LICENSE
+README.md
+TwigImageExtension.php
+composer.json
+phpunit.xml.dist

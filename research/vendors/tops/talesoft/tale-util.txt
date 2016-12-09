@@ -1,0 +1,7 @@
+src/Tale/
+.gitignore
+LICENSE.md
+PLANNED.md
+README.md
+composer.json
+test.php

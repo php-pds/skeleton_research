@@ -1,0 +1,3 @@
+li3Installer/
+README.md
+composer.json

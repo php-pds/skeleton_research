@@ -1,0 +1,10 @@
+config/
+migrations/
+resources/
+src/
+.editorconfig
+.gitattributes
+.gitignore
+composer.json
+composer.lock
+readme.md

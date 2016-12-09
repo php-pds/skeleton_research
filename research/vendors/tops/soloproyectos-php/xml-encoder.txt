@@ -1,0 +1,5 @@
+src/xml/encoder/
+.gitignore
+LICENSE
+README.md
+composer.json

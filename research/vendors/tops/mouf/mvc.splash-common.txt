@@ -1,0 +1,11 @@
+doc/
+src/
+tests/Mouf/Mvc/Splash/
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENSE.txt
+README.md
+composer.json
+phpunit.xml.dist
+puli.json

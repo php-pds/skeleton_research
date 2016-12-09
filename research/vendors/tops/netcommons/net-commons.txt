@@ -1,0 +1,17 @@
+Config/
+Console/Command/
+Controller/
+Error/
+Locale/
+Model/
+Test/
+TestSuite/
+Utility/
+View/
+webroot/
+.gitattributes
+.gitignore
+.travis.yml
+README.md
+composer.json
+phpunit.xml.dist

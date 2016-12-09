@@ -1,0 +1,7 @@
+DependencyInjection/
+Document/
+Resources/
+Tests/Controller/
+JekaImageBundle.php
+README
+composer.json

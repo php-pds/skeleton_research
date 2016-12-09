@@ -1,0 +1,10 @@
+Tests/
+benchmark/
+src/Mindy/Router/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml
+src.php

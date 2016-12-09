@@ -1,0 +1,8 @@
+config/
+database/
+routes/
+src/
+views/default/
+.gitattributes
+.gitignore
+composer.json

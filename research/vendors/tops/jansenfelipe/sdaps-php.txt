@@ -1,0 +1,4 @@
+src/JansenFelipe/SdapsPHP/
+.gitignore
+README.md
+composer.json

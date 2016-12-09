@@ -1,0 +1,7 @@
+bin/
+extras/
+lib/ResqueScheduler/
+CHANGELOG.md
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,4 @@
+src/Canducci/Avatar/
+.travis.yml
+README.md
+composer.json

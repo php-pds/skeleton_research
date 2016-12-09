@@ -1,0 +1,10 @@
+config/
+language/
+public/
+src/
+view/
+.gitignore
+LICENSE
+Module.php
+autoload_classmap.php
+composer.json

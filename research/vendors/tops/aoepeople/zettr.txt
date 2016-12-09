@@ -1,0 +1,14 @@
+bin/
+src/
+tests/
+tools/
+.gitignore
+.travis.yml
+LICENSE.txt
+README.md
+addtests.md
+box.json
+composer.json
+composer.lock
+phpunit.xml.dist
+zettr.phar

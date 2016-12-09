@@ -1,0 +1,12 @@
+Controller/
+Entity/
+Event/Log/
+Form/
+Listener/
+Manager/
+Migrations/pdo_mysql/
+Repository/
+Resources/
+ClarolineSurveyBundle.php
+LICENSE
+composer.json

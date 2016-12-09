@@ -1,0 +1,10 @@
+DependencyInjection/
+Lib/
+Resources/config/
+Tests/Lib/
+.gitignore
+.travis.yml
+README.md
+WkGuzzleCommandClient.php
+composer.json
+phpunit.xml.dist

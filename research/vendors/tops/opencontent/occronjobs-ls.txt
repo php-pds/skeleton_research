@@ -1,0 +1,7 @@
+classes/
+design/admin2/
+modules/cronjobs/
+settings/
+translations/ita-IT/
+composer.json
+ezinfo.php

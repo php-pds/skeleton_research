@@ -1,0 +1,10 @@
+lib/Doctrine/SkeletonMapper/
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.markdown
+composer.json
+httpimplementation.php
+phpunit.xml.dist

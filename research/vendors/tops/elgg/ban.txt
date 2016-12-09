@@ -1,0 +1,9 @@
+actions/ban/
+languages/
+views/default/
+.gitignore
+CONTRIBUTORS.md
+README.md
+composer.json
+manifest.xml
+start.php

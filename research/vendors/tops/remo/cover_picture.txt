@@ -1,0 +1,8 @@
+blocks/cover_picture/
+languages/
+libraries/3rdparty/
+LICENSE
+README.md
+composer.json
+controller.php
+install.xml

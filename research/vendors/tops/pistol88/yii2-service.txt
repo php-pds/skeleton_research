@@ -1,0 +1,17 @@
+assets/
+behaviors/
+controllers/
+events/
+interfaces/
+migrations/
+models/
+views/
+web/
+widgets/
+.gitignore
+Bootstrap.php
+LICENSE.md
+Module.php
+README.md
+Service.php
+composer.json

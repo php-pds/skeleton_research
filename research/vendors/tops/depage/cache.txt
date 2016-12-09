@@ -1,0 +1,7 @@
+Providers/
+Tests/
+.travis.yml
+Cache.php
+Makefile
+README.md
+composer.json

@@ -1,0 +1,16 @@
+.github/
+docs/
+examples/
+provisioning/
+tests/
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+Vagrantfile
+composer.json
+default.config.yml
+example.drupal.composer.json
+example.drupal.make.yml
+mkdocs.yml

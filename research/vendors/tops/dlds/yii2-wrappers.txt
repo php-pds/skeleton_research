@@ -1,0 +1,5 @@
+soundcloud/
+vimeo/
+.gitignore
+LICENSE
+composer.json

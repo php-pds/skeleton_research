@@ -1,0 +1,11 @@
+DependencyInjection/
+Form/Type/
+Model/
+Resources/
+spec/Sylius/Bundle/PaymentsBundle/
+.gitignore
+.travis.yml
+README.md
+SyliusPaymentEvents.php
+SyliusPaymentsBundle.php
+composer.json

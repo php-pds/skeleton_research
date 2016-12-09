@@ -1,0 +1,7 @@
+src/WebDevBr/SimpleDb/
+tests/WebDevBr/SimpleDb/
+.gitignore
+bootstrap.php
+composer.json
+db_datas.xml
+phpunit.xml

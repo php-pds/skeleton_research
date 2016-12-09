@@ -1,0 +1,10 @@
+.gitattributes
+.gitignore
+Gruntfile.js
+README.md
+autoloader.php
+composer.json
+manifest.xml
+package.json
+start.php
+views.php

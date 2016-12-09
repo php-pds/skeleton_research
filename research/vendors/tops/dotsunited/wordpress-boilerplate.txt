@@ -1,0 +1,16 @@
+assets/
+web/
+.gitignore
+ComposerScripts.php
+Gruntfile.js
+LICENSE
+README.md
+README.md.template
+browserslist
+composer.json
+composer.json.template
+composer.lock
+modernizr-config.json
+package.json
+webpack.config.js
+yarn.lock

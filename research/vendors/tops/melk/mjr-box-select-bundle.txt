@@ -1,0 +1,10 @@
+Contributions/
+DependencyInjection/
+Resources/
+.gitignore
+AUTHORS.txt
+CHANGELOG.txt
+MIT-LICENSE.txt
+MelkMJRBoxSelectBundle.php
+README.md
+composer.json

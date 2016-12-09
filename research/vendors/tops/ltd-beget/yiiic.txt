@@ -1,0 +1,9 @@
+dev/
+src/
+tests/
+.gitignore
+README.md
+RELEASE_NOTES.md
+composer.json
+composer.lock
+phpunit.xml

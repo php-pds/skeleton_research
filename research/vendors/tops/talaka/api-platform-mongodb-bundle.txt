@@ -1,0 +1,7 @@
+AnnotationGenerator/
+DependencyInjection/
+Doctrine/Odm/
+Resources/config/
+README.md
+TalakaAPIPlatformMongoDBBundle.php
+composer.json

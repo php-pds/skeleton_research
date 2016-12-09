@@ -1,0 +1,9 @@
+config/
+migrations/
+public/
+src/
+tests/
+views/
+.gitignore
+composer.json
+composer.lock

@@ -1,0 +1,12 @@
+images/
+LICENSE
+README.md
+SlideShow-jquery.js
+SlideShow-prototype.js
+SlideShow.class.php
+carousel.html
+composer.json
+photos-jquery.html
+photos-jquery.php
+photos-prototype.html
+prototype1.7.2.js

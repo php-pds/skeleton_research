@@ -1,0 +1,15 @@
+images/
+lang/
+patterns/
+themes/
+amcharts.js
+composer.json
+funnel.js
+gantt.js
+gauge.js
+licence.txt
+pie.js
+radar.js
+serial.js
+thirdPartySoftwareList.txt
+xy.js

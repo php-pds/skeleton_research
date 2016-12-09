@@ -1,0 +1,14 @@
+bench/
+src/
+tests/
+.gitattributes
+.gitignore
+.gitreview
+.travis.yml
+Doxyfile
+LICENSE
+NOTICE
+README.md
+composer.json
+phpcs.xml
+phpunit.xml.dist

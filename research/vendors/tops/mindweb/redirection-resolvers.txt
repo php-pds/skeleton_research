@@ -1,0 +1,4 @@
+src/Mindweb/RedirectionResolvers/
+.gitignore
+composer.json
+composer.lock

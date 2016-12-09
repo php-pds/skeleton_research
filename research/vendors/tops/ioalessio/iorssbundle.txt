@@ -1,0 +1,10 @@
+Controller/
+DependencyInjection/
+Interfaces/
+Models/
+Resources/
+Services/
+.gitignore
+IoRssBundle.php
+README.md
+composer.json

@@ -1,0 +1,4 @@
+src/MessageBusSilexBridge/
+.gitignore
+composer.json
+phpunit.xml

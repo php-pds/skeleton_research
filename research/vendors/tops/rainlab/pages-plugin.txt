@@ -1,0 +1,14 @@
+assets/
+classes/
+components/
+controllers/
+docs/images/
+formwidgets/
+lang/
+updates/
+widgets/
+.gitignore
+LICENCE.md
+Plugin.php
+README.md
+composer.json

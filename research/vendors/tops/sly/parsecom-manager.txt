@@ -1,0 +1,7 @@
+src/Sly/ParseComManager/
+tests/units/Sly/ParseComManager/Manager/
+.gitignore
+.travis.yml
+README.md
+atoum
+composer.json

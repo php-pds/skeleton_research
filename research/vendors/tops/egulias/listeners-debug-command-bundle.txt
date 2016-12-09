@@ -1,0 +1,10 @@
+Command/
+Tests/
+.coveralls.yml
+.gitignore
+.travis.yml
+EguliasListenersDebugCommandBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml

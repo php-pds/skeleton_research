@@ -1,0 +1,7 @@
+bin/
+pages/
+posts/
+.gitignore
+composer.json
+composer.lock
+config.yml

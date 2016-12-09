@@ -1,0 +1,9 @@
+PassMan/
+test/Unit/
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+composer.json
+travis.phpunit.xml

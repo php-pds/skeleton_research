@@ -1,0 +1,10 @@
+i18n/
+src/
+.gitignore
+.gitreview
+LICENSE
+README.md
+SemanticHighcharts.i18n.php
+SemanticHighcharts.php
+SemanticHighcharts.settings.php
+composer.json

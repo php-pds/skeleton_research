@@ -1,0 +1,10 @@
+AdminIncludes/
+Config/
+Controller/
+Exception/
+Form/
+Hook/
+I18n/
+Instagram.php
+README.md
+composer.json

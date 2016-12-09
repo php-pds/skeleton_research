@@ -1,0 +1,6 @@
+nbproject/
+source/
+LICENSE
+TescoApi.php
+composer.json
+readme.md

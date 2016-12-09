@@ -1,0 +1,11 @@
+build/
+examples/
+src/Mollie/API/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.mdown
+build.xml
+composer.json
+phpunit.xml

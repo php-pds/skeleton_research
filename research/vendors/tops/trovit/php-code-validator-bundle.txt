@@ -1,0 +1,11 @@
+DependencyInjection/
+Resources/config/
+tests/
+.gitignore
+.travis.yml
+README.md
+TrovitPhpCodeValidatorBundle.php
+composer.json
+composer.lock
+grumphp.yml
+phpunit.xml.dist

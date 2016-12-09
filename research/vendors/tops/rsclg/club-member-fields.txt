@@ -1,0 +1,5 @@
+system/modules/RscClubMemberFields/
+.gitattributes
+.gitignore
+README.md
+composer.json

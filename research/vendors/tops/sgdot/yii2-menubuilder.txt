@@ -1,0 +1,8 @@
+assets/
+views/
+.gitignore
+Collapse.php
+MenuBuilder.php
+MenuBuilderAssets.php
+README.md
+composer.json

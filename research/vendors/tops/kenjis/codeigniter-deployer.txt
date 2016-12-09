@@ -1,0 +1,6 @@
+deploy/
+.gitignore
+LICENSE.md
+README.md
+composer.json
+install.php

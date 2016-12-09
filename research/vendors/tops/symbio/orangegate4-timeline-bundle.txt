@@ -1,0 +1,5 @@
+Entity/
+Resources/views/Block/
+.gitignore
+SymbioOrangeGateTimelineBundle.php
+composer.json

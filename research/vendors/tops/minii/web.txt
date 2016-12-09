@@ -1,0 +1,10 @@
+.hidev/
+src/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+composer.json
+version

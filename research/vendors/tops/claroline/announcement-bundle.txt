@@ -1,0 +1,14 @@
+Controller/
+Entity/
+Event/Log/
+Form/
+Listener/
+Manager/
+Migrations/pdo_mysql/
+Repository/
+Resources/
+Tests/
+ClarolineAnnouncementBundle.php
+LICENSE
+README.md
+composer.json

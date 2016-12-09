@@ -1,0 +1,14 @@
+Avatar/
+Controller/
+Datatables/
+DependencyInjection/
+Entity/
+Form/Type/
+Listener/
+Resources/
+Sidebar/
+.gitignore
+LICENSE
+OlixSecurityBundle.php
+README.md
+composer.json

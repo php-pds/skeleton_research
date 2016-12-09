@@ -1,0 +1,12 @@
+.idea/
+DependencyInjection/
+Entity/
+ORM/
+Resources/
+SQL/MySQL/
+Services/
+Tests/Controller/
+BiberLtdMemberManagementBundle.php
+LICENSE
+README.md
+composer.json

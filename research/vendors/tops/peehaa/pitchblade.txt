@@ -1,0 +1,10 @@
+src/PitchBlade/
+test/
+vendor/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

@@ -1,0 +1,8 @@
+src/Matmar10/XRates/ScreenScraper/
+tests/Matmar10/XRates/Tests/ExchangeRate/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

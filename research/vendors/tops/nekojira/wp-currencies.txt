@@ -1,0 +1,13 @@
+assets/
+includes/
+languages/
+.editorconfig
+.gitattributes
+.gitignore
+ChangeLog.md
+LICENSE.txt
+README.md
+composer.json
+readme.txt
+uninstall.php
+wp-currencies.php

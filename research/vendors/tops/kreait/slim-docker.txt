@@ -1,0 +1,11 @@
+docker/web/
+.editorconfig
+.gitignore
+LICENSE
+Makefile
+README.dist.md
+README.md
+composer.json
+dev.yml
+docker-compose.yml
+prod.yml

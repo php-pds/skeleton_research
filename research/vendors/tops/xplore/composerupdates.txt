@@ -1,0 +1,9 @@
+code/
+templates/email/
+.editorconfig
+.gitattributes
+.gitignore
+LICENSE
+README.md
+_config.php
+composer.json

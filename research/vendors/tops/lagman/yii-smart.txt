@@ -1,0 +1,11 @@
+.gitignore
+LICENSE
+README.md
+SmartActiveRecord.php
+SmartConsoleCommand.php
+SmartController.php
+SmartDbCriteria.php
+SmartFormModel.php
+SmartWebModule.php
+YiiSmart.php
+composer.json

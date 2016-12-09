@@ -1,0 +1,6 @@
+src/Xero/
+tests/
+.gitignore
+README.md
+composer.json
+phpunit.xml

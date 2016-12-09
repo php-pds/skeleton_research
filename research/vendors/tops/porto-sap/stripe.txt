@@ -1,0 +1,13 @@
+Actions/
+Data/
+Exceptions/
+Models/
+Providers/
+Tasks/
+Tests/Unit/
+UI/API/
+app/Containers/Stripe/
+.gitignore
+LICENSE
+README.md
+composer.json

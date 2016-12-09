@@ -1,0 +1,15 @@
+resources/
+src/
+tests/
+.codeclimate.yml
+.gitignore
+.styleci.yml
+.travis.yml
+CHANGELOG.md
+CONDUCT.md
+CONTRIBUTING.md
+CoverageChecker.php
+LICENSE.md
+README.md
+composer.json
+phpunit.xml

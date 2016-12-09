@@ -1,0 +1,17 @@
+assets/
+src/
+.bowerrc
+.gitattributes
+.gitignore
+.hedron.yml
+Gruntfile.coffee
+LICENSE-AGPL.mkd
+LICENSE-COMMERCIAL-SAAS.mkd
+LICENSE-COMMERCIAL-WEBSITE.mkd
+LICENSE-COMMERCIAL-WEBSITES.mkd
+bower.json
+composer.json
+composer.lock
+file-header.phps
+package.json
+staple

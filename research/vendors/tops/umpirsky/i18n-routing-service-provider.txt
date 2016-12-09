@@ -1,0 +1,9 @@
+src/Umpirsky/Silex/I18nRouting/
+tests/Umpirsky/Silex/I18nRouting/Provider/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

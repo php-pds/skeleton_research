@@ -1,0 +1,4 @@
+src/Modera/Composer/MonorepoPlugin/
+LICENSE
+README.md
+composer.json

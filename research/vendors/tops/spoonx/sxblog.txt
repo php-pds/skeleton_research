@@ -1,0 +1,7 @@
+config/
+src/SxBlog/
+view/
+LICENSE
+Module.php
+README.md
+composer.json

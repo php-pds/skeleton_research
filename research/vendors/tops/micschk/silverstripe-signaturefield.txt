@@ -1,0 +1,9 @@
+bower_components/signature_pad/
+code/
+css/
+images/
+javascript/
+LICENSE
+README.md
+_config.php
+composer.json

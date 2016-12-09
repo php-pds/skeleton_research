@@ -1,0 +1,14 @@
+docker/
+src/Keboola/Provisioning/
+tests/
+.gitignore
+CHANGELOG.md
+Dockerfile
+README.md
+bootstrap.php
+build.xml
+composer.json
+composer.lock
+docker-compose.yml
+phpunit-ci.xml.dist
+phpunit.xml.dist

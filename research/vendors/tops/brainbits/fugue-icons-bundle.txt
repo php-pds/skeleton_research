@@ -1,0 +1,5 @@
+src/Brainbits/FugueIconsBundle/
+CHANGELOG.txt
+README.md
+README.txt
+composer.json

@@ -1,0 +1,10 @@
+app/
+resources/
+tests/features/
+.editorconfig
+.gitignore
+README.md
+behat.yml
+composer.json
+herbert.config.php
+plugin.php

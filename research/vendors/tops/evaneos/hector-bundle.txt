@@ -1,0 +1,10 @@
+spec/
+src/
+.gitignore
+.php_cs
+.travis.yml
+CONDUCT.md
+LICENSE
+README.md
+composer.json
+phpspec.yml

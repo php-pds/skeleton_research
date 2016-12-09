@@ -1,0 +1,10 @@
+examples/
+src/
+tests/
+.gitignore
+LICENSE.md
+README.md
+bootstrap.php.dist
+composer.json
+composer.lock
+phpunit.xml.dist

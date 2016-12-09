@@ -1,0 +1,8 @@
+views/
+widgets/
+Component.php
+Html.php
+LICENSE.md
+Layout.php
+README.md
+composer.json

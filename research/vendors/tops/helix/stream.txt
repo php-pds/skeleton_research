@@ -1,0 +1,9 @@
+doc/
+src/
+test/
+.gitignore
+README.md
+apigen.neon
+classes.png
+composer.json
+composer.lock

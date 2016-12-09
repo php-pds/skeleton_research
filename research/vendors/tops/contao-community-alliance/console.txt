@@ -1,0 +1,5 @@
+bin/
+src/ContaoCommunityAlliance/Console/
+.gitignore
+README.md
+composer.json

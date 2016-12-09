@@ -1,0 +1,12 @@
+Config/
+Controller/Component/
+Lib/
+Model/
+Test/
+Vendor/
+View/Helper/
+.gitignore
+.gitmodules
+composer.json
+license.txt
+readme.md

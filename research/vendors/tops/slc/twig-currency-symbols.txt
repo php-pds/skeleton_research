@@ -1,0 +1,3 @@
+src/slc/twig_currency_symbols/
+README.md
+composer.json

@@ -1,0 +1,13 @@
+src/
+templates/
+tests/
+.gitattributes
+.gitignore
+LICENSE
+Makefile
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist
+repository-template-compare
+repository-template-compare.yml

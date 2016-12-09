@@ -1,0 +1,6 @@
+src/Yalesov/Yaml/
+test/
+.gitignore
+.travis.yml
+README.md
+composer.json

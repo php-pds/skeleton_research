@@ -1,0 +1,11 @@
+example/Example/
+source/
+test/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+composer.json
+generate_api
+phpunit.xml.dist

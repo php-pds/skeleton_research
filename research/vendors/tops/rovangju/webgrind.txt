@@ -1,0 +1,15 @@
+img/
+js/
+library/
+styles/
+templates/
+.gitignore
+CHANGELOG-PREFORK.md
+CHANGELOG.md
+README.md
+composer.json
+config.php
+favicon.ico
+index.php
+license.txt
+package.sh

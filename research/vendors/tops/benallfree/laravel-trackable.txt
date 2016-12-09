@@ -1,0 +1,8 @@
+bower_components/
+publish/
+src/Trackable/
+.gitignore
+LICENSE
+bower.json
+composer.json
+readme.md

@@ -1,0 +1,4 @@
+fileProcessor/
+.gitignore
+README.md
+composer.json

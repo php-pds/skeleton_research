@@ -1,0 +1,7 @@
+config/
+src/QuIcoMoon/Controller/
+view/qu-ico-moon/qu-ico-moon/
+.DS_Store
+Module.php
+README.md
+composer.json

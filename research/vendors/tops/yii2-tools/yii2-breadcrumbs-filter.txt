@@ -1,0 +1,6 @@
+.gitignore
+BreadcrumbsFilter.php
+LICENSE.md
+README.md
+composer.json
+composer.lock

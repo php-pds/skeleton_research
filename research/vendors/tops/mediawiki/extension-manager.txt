@@ -1,0 +1,12 @@
+src/
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+COPYING
+ExtensionManager.alias.php
+ExtensionManager.i18n.php
+ExtensionManager.php
+README.md
+composer.json
+phpunit.xml.dist

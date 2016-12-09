@@ -1,0 +1,8 @@
+src/RunOpenCode/ExchangeRate/NationalBankOfSerbia/
+test/
+.scrutinizer.yml
+.travis.yml
+LICENSE.txt
+Readme.markdown
+composer.json
+phpunit.xml

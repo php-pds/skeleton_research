@@ -1,0 +1,16 @@
+Demo/
+Exception/
+Parser/
+Tests/
+.gitignore
+.travis.yml
+Collector.php
+CommandUI.php
+Downloader.php
+README.md
+Repository.php
+Url.php
+collector
+collector.json
+composer.json
+phpunit.xml

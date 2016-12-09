@@ -1,0 +1,6 @@
+Controller/
+Resources/
+LICENSE.md
+README.md
+TroopersAjaxBundle.php
+composer.json

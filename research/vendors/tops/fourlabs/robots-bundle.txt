@@ -1,0 +1,10 @@
+Configuration/
+DependencyInjection/
+EventListener/
+Resources/config/
+Tests/
+FourLabsRobotsBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

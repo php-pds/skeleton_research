@@ -1,0 +1,17 @@
+resources/
+src/
+tests/
+.gitignore
+.nitpick.json
+.semver
+.travis.yml
+CHANGELOG.md
+CONTRIBUTING.md
+LICENSE.md
+README.md
+ROUTE-MODEL-BINDING.md
+SCOPE-HELPERS.md
+TODO.md
+UPGRADING.md
+composer.json
+phpunit.xml

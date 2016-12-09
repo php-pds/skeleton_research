@@ -1,0 +1,7 @@
+assets/
+CHANGE.md
+LICENSE.md
+PNotify.php
+PNotifyAsset.php
+README.md
+composer.json

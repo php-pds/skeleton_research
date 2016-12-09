@@ -1,0 +1,4 @@
+lib/
+tests/
+LICENSE
+composer.json

@@ -1,0 +1,15 @@
+Erlang/Sereal/
+Go/
+Java/
+PHP/
+Perl/
+Python/
+logo/
+objC/
+ruby/
+travis/
+.gitignore
+.travis.yml
+README.pod
+composer.json
+sereal_spec.pod

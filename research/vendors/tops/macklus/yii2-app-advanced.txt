@@ -1,0 +1,17 @@
+backend/
+common/
+console/
+environments/
+frontend/
+tests/
+vagrant/
+.bowerrc
+.gitignore
+LICENSE.md
+README.md
+Vagrantfile
+composer.json
+init
+init.bat
+requirements.php
+yii.bat

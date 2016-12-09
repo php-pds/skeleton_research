@@ -1,0 +1,3 @@
+Wassa/SimpleApiKeyAuthenticatorBundle/
+README.md
+composer.json

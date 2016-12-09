@@ -1,0 +1,11 @@
+bin/
+src/
+tests/
+.gitattributes
+.gitignore
+.travis.yml
+README.md
+box.json
+composer.json
+optimus
+phpunit.xml

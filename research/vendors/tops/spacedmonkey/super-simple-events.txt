@@ -1,0 +1,15 @@
+admin/
+assets/
+includes/
+languages/
+public/
+widget/
+.gitignore
+LICENSE
+LICENSE.txt
+README.md
+README.txt
+composer.json
+index.php
+super-simple-events.php
+uninstall.php

@@ -1,0 +1,9 @@
+Configuration/
+DependencyInjection/
+Events/
+Filter/
+Resources/config/
+LICENCE.txt
+README.md
+SidusEAVFilterBundle.php
+composer.json

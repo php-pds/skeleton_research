@@ -1,0 +1,8 @@
+src/bbn/
+.gitignore
+LICENSE.txt
+README.md
+apigen.yml
+composer.json
+doc.txt
+uml.xmi

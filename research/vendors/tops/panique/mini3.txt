@@ -1,0 +1,7 @@
+_install/
+_vagrant/
+application/
+public/
+.htaccess
+README.md
+composer.json

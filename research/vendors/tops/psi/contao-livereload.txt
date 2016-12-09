@@ -1,0 +1,7 @@
+config/
+dca/
+languages/
+.gitignore
+ContaoLivereload.php
+README.md
+composer.json

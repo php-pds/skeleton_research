@@ -1,0 +1,11 @@
+src/
+.gitignore
+.travis.yml
+README.md
+composer.json
+composer.lock
+page_example.info.yml
+page_example.links.menu.yml
+page_example.module
+page_example.permissions.yml
+page_example.routing.yml

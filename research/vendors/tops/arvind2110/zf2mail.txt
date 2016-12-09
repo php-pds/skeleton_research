@@ -1,0 +1,8 @@
+config/
+src/ZF2Mail/
+view/emails/templates/
+.gitignore
+LICENSE
+Module.php
+README.md
+composer.json

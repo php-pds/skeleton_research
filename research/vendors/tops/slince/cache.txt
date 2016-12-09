@@ -1,0 +1,13 @@
+Exception/
+Tests/
+.gitignore
+AbstractCache.php
+ApcCache.php
+ArrayCache.php
+CacheInterface.php
+FileCache.php
+MemcacheCache.php
+MemcachedCache.php
+README.md
+composer.json
+phpunit.xml

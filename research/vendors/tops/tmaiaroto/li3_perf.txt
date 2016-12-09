@@ -1,0 +1,6 @@
+config/
+extensions/
+views/
+webroot/
+README
+composer.json

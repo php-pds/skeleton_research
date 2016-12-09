@@ -1,0 +1,12 @@
+app/
+data/
+docs/
+library/Kitsune/
+public/
+var/
+.gitignore
+.htaccess.txt
+CONTRIBUTING.md
+README.md
+composer.json
+deploy.sh

@@ -1,0 +1,12 @@
+config/
+src/Zf2Logger/
+tests/
+.coveralls.yml
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+Module.php
+README.md
+composer.json
+composer.lock

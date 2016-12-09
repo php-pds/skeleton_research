@@ -1,0 +1,15 @@
+test/
+FlushCache.php
+LICENCE
+Page.php
+PageGenerator.php
+PageTemplate.php
+ProcessorInterface.php
+README.md
+RedirectException.php
+RuleMatcher.php
+Text.php
+TextService.php
+composer.json
+justtexts-plugin.js
+services.json

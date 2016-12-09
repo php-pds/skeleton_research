@@ -1,0 +1,10 @@
+config/
+module/
+src/GingerWorkflowEngine/
+tests/
+.gitignore
+.travis.yml
+LICENSE.txt
+Module.php
+README.md
+composer.json

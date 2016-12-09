@@ -1,0 +1,6 @@
+DataCollector/
+DependencyInjection/
+Resources/
+DdeboerGuzzleBundle.php
+README.md
+composer.json

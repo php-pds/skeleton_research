@@ -1,0 +1,9 @@
+bin/
+config/
+docs/
+src/RdnConsole/
+.gitignore
+LICENSE
+Module.php
+README.md
+composer.json

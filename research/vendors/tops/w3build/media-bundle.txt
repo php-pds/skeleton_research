@@ -1,0 +1,5 @@
+src/W3build/MediaBundle/
+vendor/
+.gitignore
+README.md
+composer.json

@@ -1,0 +1,6 @@
+src/Shekarsiri/Simpleimage/
+.gitignore
+composer.json
+composer.lock
+phpunit.xml
+readme.md

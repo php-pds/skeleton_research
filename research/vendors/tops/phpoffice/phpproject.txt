@@ -1,0 +1,17 @@
+docs/
+samples/
+src/PhpProject/
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+.travis_shell_after_success.sh
+CHANGELOG.md
+COPYING
+COPYING.LESSER
+LICENSE
+README.md
+composer.json
+phpmd.xml.dist
+phpunit.bat
+phpunit.xml.dist

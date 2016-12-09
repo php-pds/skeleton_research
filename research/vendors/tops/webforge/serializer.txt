@@ -1,0 +1,12 @@
+lib/
+src/php/Webforge/Serializer/
+tests/php/Webforge/Serializer/
+.gitattributes
+.gitignore
+.travis.yml
+LICENSE
+README.md
+bootstrap.php
+composer.json
+phpunit.xml.dist
+webforge-serializer.sublime-project

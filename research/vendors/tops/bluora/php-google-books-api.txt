@@ -1,0 +1,9 @@
+src/
+.codeclimate.yml
+.gitignore
+CONTRIBUTING.md
+LICENSE
+README.md
+composer.json
+phpmd.xml
+phpunit.xml.dist.xml

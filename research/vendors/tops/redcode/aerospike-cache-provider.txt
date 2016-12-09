@@ -1,0 +1,8 @@
+src/RedCode/Common/Cache/
+tests/
+.gitignore
+.php_cs
+.travis.yml
+README.md
+composer.json
+phpunit.xml

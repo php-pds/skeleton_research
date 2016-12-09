@@ -1,0 +1,10 @@
+src/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+LICENSE.md
+README.md
+composer.json
+phpunit.xml
+sami.config.php

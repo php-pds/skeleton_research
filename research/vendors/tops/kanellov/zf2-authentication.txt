@@ -1,0 +1,7 @@
+src/Knlv/Zf2/Authentication/Adapter/
+test/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json

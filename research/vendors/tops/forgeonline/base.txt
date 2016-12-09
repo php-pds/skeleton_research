@@ -1,0 +1,8 @@
+Command/
+Model/
+_notes/
+etc/
+.gitattributes
+.gitignore
+composer.json
+registration.php

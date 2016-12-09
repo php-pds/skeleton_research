@@ -1,0 +1,5 @@
+assets/
+README.md
+RevealAsset.php
+RevealJsWidget.php
+composer.json

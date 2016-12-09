@@ -1,0 +1,15 @@
+spec/
+src/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+build.xml
+composer.json
+composer.lock
+phpcs.xml
+phpmd.xml
+phpspec-clover.yml
+phpspec-html.yml
+phpspec.yml.dist

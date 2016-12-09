@@ -1,0 +1,7 @@
+assets/
+CHANGE.md
+Guiders.php
+GuidersAsset.php
+LICENSE.md
+README.md
+composer.json

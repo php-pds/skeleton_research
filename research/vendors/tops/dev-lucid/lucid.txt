@@ -1,0 +1,10 @@
+dictionaries/
+docs/
+html/tags/
+scripts/
+src/
+tasks/
+template/
+LICENSE
+README.md
+composer.json

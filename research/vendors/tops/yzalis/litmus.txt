@@ -1,0 +1,9 @@
+Tests/
+src/Litmus/
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

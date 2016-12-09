@@ -1,0 +1,9 @@
+lib/
+tests/
+.gitignore
+.travis.yml
+README.md
+bootstrap.php
+composer.json
+phpunit.xml.dist
+psc-cms-image.sublime-project

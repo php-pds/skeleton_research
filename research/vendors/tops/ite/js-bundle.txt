@@ -1,0 +1,10 @@
+Assetic/
+DependencyInjection/
+EventListener/
+Resources/
+SF/
+Twig/Extension/
+Utils/
+ITEJsBundle.php
+README.md
+composer.json

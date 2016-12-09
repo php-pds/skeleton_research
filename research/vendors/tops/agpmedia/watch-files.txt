@@ -1,0 +1,5 @@
+lib/WatchFiles/
+tests/
+README.md
+compile.sh
+composer.json

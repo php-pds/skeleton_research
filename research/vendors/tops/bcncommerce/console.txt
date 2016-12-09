@@ -1,0 +1,5 @@
+Commands/
+.gitignore
+Application.php
+composer.json
+composer.lock

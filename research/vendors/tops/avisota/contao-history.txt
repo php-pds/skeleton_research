@@ -1,0 +1,4 @@
+module/
+src/Avisota/Contao/History/
+.gitignore
+composer.json

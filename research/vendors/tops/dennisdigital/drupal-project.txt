@@ -1,0 +1,14 @@
+drush/
+scripts/
+src/Phing/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+build.properties.dist
+build.xml
+composer.json
+composer.lock
+phpcs-ruleset.xml.dist
+phpunit.xml.dist

@@ -1,0 +1,5 @@
+code/
+tests/
+README.md
+_config.php
+composer.json

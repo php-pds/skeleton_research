@@ -1,0 +1,8 @@
+Exception/
+MimeType/
+.gitignore
+File.php
+FileBag.php
+README.md
+UploadedFile.php
+composer.json

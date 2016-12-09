@@ -1,0 +1,9 @@
+css/
+js/
+.gitignore
+Gruntfile.js
+composer.json
+package.json
+readme.md
+voce-post-meta-widgets-field.php
+voce-post-meta-widgets.php

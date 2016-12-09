@@ -1,0 +1,13 @@
+config/
+src/PhlyPaste/
+test/
+vendor/
+view/phly-paste/paste/
+.gitignore
+Module.php
+README.md
+TODO.md
+autoload_classmap.php
+autoload_function.php
+autoload_register.php
+composer.json

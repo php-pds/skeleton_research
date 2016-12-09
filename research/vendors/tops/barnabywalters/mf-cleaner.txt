@@ -1,0 +1,8 @@
+nbproject/
+src/BarnabyWalters/Mf2/
+test/
+.gitignore
+README.md
+composer.json
+composer.lock
+phpunit.xml

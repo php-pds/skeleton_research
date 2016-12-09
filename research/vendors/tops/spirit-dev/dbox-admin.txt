@@ -1,0 +1,10 @@
+Controller/
+DependencyInjection/
+Processor/
+Resources/
+Tests/Controller/
+.gitignore
+CI.properties
+LICENSE
+SpiritDevDBoxAdminBundle.php
+composer.json

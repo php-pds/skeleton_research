@@ -1,0 +1,10 @@
+documentation/
+examples/Example/
+source/Net/Bazzline/Component/ProxyLogger/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

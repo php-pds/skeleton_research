@@ -1,0 +1,7 @@
+.idea/
+config/
+src/
+webroot/
+README.md
+composer.json
+phpunit.xml.dist

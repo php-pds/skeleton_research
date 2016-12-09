@@ -1,0 +1,11 @@
+Bootstrap/
+Console/
+Traits/
+.gitattributes
+FileLoader.php
+LICENSE
+LoaderInterface.php
+NamespacedItemResolver.php
+README.md
+Repository.php
+composer.json

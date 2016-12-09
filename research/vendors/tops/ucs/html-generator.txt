@@ -1,0 +1,17 @@
+Exception/
+Generator/
+Templates/
+Tests/
+corevare-report/
+.gitignore
+GeneratorFactory.php
+GeneratorFactoryInterface.php
+GeneratorInterface.php
+LICENSE
+Markup.php
+MarkupInterface.php
+MarkupManager.php
+MarkupManagerInterface.php
+README.rst
+composer.json
+phpunit.xml.dist

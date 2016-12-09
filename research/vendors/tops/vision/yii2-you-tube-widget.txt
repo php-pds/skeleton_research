@@ -1,0 +1,5 @@
+js/
+README.md
+YouTube.php
+YouTubeAsset.php
+composer.json

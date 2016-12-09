@@ -1,0 +1,9 @@
+.idea/
+bin/
+src/Resolver/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

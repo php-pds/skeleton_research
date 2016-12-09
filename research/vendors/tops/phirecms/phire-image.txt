@@ -1,0 +1,7 @@
+config/
+data/assets/
+src/
+view/image/
+LICENSE.TXT
+README.md
+composer.json

@@ -1,0 +1,11 @@
+app/
+public/
+storage/
+.env
+.env.example
+.gitignore
+.htaccess
+LICENSE
+README.md
+composer.json
+index.html

@@ -1,0 +1,15 @@
+bin/
+build/
+configs/
+docs/
+tests/
+.gitignore
+.travis.yml
+README.md
+composer.json
+create-phar.php
+docker-compose.yml
+generate.php
+phpunit_mssql.xml
+phpunit_mysql.xml
+phpunit_pgsql.xml

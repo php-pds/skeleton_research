@@ -1,0 +1,7 @@
+spec/Ice/Domain/Event/
+src/Ice/Domain/Event/
+.gitignore
+LICENSE
+LICENSE-SYMFONY
+README.md
+composer.json

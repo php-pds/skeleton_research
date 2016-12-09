@@ -1,0 +1,17 @@
+autoloads/
+classes/
+cronjobs/
+datatypes/ezpage/
+design/
+doc/changelogs/
+eventtypes/event/ezpageswap/
+extras/
+modules/
+settings/
+share/
+sql/
+translations/
+LICENSE
+README
+composer.json
+extension.xml

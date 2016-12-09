@@ -1,0 +1,16 @@
+Command/
+Controller/
+DependencyInjection/
+Entity/
+Event/
+Form/
+Model/
+Resources/
+Routing/
+Twig/
+.gitignore
+BprsAssetBundle.php
+BprsAssetEvent.php
+LICENSE
+README.md
+composer.json

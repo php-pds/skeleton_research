@@ -1,0 +1,6 @@
+doc/
+src/
+LICENSE.txt
+README.md
+composer.json
+logo.png

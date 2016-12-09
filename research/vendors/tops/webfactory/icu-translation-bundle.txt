@@ -1,0 +1,14 @@
+DependencyInjection/
+Resources/
+Tests/
+Translator/
+.coveralls.yml
+.gitignore
+.travis.yml
+LICENSE
+README.md
+WebfactoryIcuTranslationBundle.php
+build.xml
+composer.json
+composer.lock
+phpunit.xml.dist

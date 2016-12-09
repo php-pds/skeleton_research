@@ -1,0 +1,7 @@
+Application/
+Resources/
+Tests/Application/Form/Type/
+BlackCommonBundle.php
+CONTRIBUTING.md
+README.md
+composer.json

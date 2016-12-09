@@ -1,0 +1,10 @@
+Cache/
+DependencyInjection/
+Resources/config/
+Service/
+Twig/
+LICENSE
+MarkupWistiaBundle.php
+README.md
+composer.json
+phpunit.xml.dist

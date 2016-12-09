@@ -1,0 +1,6 @@
+examples/
+libraries/Maniaplanet/WebServices/
+.gitignore
+LICENSE
+README.md
+composer.json

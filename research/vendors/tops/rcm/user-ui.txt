@@ -1,0 +1,10 @@
+config/
+public/
+src/
+test/
+view/rcm-user/
+.gitignore
+LICENSE.txt
+Module.php
+README.md
+composer.json

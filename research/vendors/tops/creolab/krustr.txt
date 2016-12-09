@@ -1,0 +1,9 @@
+assets/
+src/
+tests/
+themes/default/
+.travis.yml
+composer.json
+phpunit.xml
+provides.json
+readme.md

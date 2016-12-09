@@ -1,0 +1,14 @@
+docker/
+features/
+lua/
+spec/
+src/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+behat.yml
+composer.json
+composer.lock
+phpspec.yml

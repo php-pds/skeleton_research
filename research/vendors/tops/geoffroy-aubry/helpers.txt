@@ -1,0 +1,14 @@
+doc/api/
+examples/
+src/GAubry/Helpers/
+tests/
+.gitattributes
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+apigen.neon
+composer.json
+composer.lock
+phpunit-dist.xml

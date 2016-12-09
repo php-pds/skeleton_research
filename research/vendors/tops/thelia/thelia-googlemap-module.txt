@@ -1,0 +1,12 @@
+Config/
+Controller/
+Form/
+Hook/
+I18n/
+Smarty/Plugins/
+templates/
+.DS_Store
+LICENSE.txt
+README.md
+TheliaGoogleMap.php
+composer.json

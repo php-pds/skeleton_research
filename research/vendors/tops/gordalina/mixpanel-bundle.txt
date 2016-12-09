@@ -1,0 +1,13 @@
+Annotation/
+DataCollector/
+DependencyInjection/
+EventListener/
+Mixpanel/
+Resources/
+Security/
+spec/Gordalina/MixpanelBundle/
+.gitignore
+GordalinaMixpanelBundle.php
+ManagerRegistry.php
+README.md
+composer.json

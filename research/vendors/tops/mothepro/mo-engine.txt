@@ -1,0 +1,5 @@
+bin/
+src/MoEngine/
+.gitattributes
+.gitignore
+composer.json

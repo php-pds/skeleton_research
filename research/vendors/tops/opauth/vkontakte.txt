@@ -1,0 +1,3 @@
+README.md
+VKontakteStrategy.php
+composer.json

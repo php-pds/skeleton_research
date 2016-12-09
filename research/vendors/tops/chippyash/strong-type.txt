@@ -1,0 +1,13 @@
+docs/
+examples/
+img/
+src/Chippyash/
+test/
+.codeclimate.yml
+.gitignore
+.travis.yml
+LICENSE.md
+README.md
+build.sh
+composer.json
+phpunit.travis.xml

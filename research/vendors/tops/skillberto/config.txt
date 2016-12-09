@@ -1,0 +1,11 @@
+Cache/
+Exception/
+Loader/
+Tests/Loader/
+Util/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock

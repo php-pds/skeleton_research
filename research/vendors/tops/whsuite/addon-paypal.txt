@@ -1,0 +1,11 @@
+assets/img/
+configs/
+controllers/client/
+languages/
+libraries/
+migrations/
+.gitignore
+LICENSE
+README.md
+composer.json
+paypal_details.php

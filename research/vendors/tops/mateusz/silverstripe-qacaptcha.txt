@@ -1,0 +1,8 @@
+code/
+javascript/
+templates/
+tests/
+.travis.yml
+README.md
+_config.php
+composer.json

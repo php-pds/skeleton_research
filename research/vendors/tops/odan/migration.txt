@@ -1,0 +1,9 @@
+bin/
+docs/images/
+src/Migration/
+tests/
+.gitignore
+README.md
+build.xml
+composer.json
+phpunit.xml

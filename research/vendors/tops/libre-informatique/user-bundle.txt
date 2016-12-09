@@ -1,0 +1,13 @@
+Admin/
+Command/
+Controller/
+DataFixtures/ORM/
+DependencyInjection/
+Entity/
+EventListener/
+Resources/
+Services/
+Tests/Controller/
+LibrinfoUserBundle.php
+README.md
+composer.json

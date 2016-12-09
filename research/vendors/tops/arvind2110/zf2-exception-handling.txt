@@ -1,0 +1,8 @@
+config/
+src/ZF2ExceptionHandling/Controller/
+view/zf2-exception-handling/index/
+.gitignore
+LICENSE
+Module.php
+README.md
+composer.json

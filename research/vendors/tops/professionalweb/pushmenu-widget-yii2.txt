@@ -1,0 +1,7 @@
+assets/
+views/
+.gitignore
+LICENSE.md
+PushMenuWidget.php
+README.md
+composer.json

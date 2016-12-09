@@ -1,0 +1,10 @@
+DataFixtures/
+DependencyInjection/
+Resources/
+Test/
+.gitattributes
+.gitignore
+.php_cs
+BeelabTestBundle.php
+README.md
+composer.json

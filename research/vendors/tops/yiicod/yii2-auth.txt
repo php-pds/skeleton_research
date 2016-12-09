@@ -1,0 +1,14 @@
+actions/
+config/
+controllers/
+mail/
+migrations/
+models/
+views/webUser/
+.php_cs
+.scrutinizer.yml
+Auth.php
+CHANGELOG.md
+LICENSE.md
+README.md
+composer.json

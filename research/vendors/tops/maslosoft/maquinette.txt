@@ -1,0 +1,15 @@
+src/
+toc/
+.gitignore
+CHANGELOG.html
+INSTALL.html
+LICENSE-AGPL.html
+LICENSE-COMMERCIAL-SAAS.html
+LICENSE-COMMERCIAL-WEBSITE.html
+LICENSE-COMMERCIAL-WEBSITES.html
+README.html
+README.mkd
+UPGRADE.html
+composer.json
+composer.lock
+maquinette

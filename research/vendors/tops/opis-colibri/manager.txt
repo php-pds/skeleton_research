@@ -1,0 +1,8 @@
+assets/
+src/
+views/
+.gitignore
+CHANGELOG.md
+LICENSE
+README.md
+composer.json

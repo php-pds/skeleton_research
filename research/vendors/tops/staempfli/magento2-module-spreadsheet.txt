@@ -1,0 +1,6 @@
+Model/
+Test/Unit/Model/
+etc/
+README.md
+composer.json
+registration.php

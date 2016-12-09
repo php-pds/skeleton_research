@@ -1,0 +1,7 @@
+config/
+util/
+LICENSE.txt
+README.md
+bower.json
+composer.json
+edropub.phps

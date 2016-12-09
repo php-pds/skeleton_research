@@ -1,0 +1,7 @@
+assets/tinymce4/plugins/codemirror/
+system/modules/TinyMceCodeMirror/
+.gitattributes
+.gitignore
+README.md
+composer.json
+screenshot.jpg

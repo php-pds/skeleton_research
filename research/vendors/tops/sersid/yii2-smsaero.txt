@@ -1,0 +1,4 @@
+.gitignore
+README.md
+SmsAero.php
+composer.json

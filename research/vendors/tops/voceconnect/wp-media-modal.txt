@@ -1,0 +1,4 @@
+composer.json
+readme
+wp-media-modal.js
+wp-media-modal.php

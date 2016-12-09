@@ -1,0 +1,15 @@
+config/install/
+css/
+fonts/
+images/
+js/
+sass/
+templates/
+.gitignore
+composer.json
+config.rb
+infinite.breakpoints.yml
+infinite.info.yml
+infinite.libraries.yml
+infinite.theme
+theme-settings.php

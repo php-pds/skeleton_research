@@ -1,0 +1,4 @@
+.gitignore
+SafeHTML.php
+composer.json
+composer.lock

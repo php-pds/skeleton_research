@@ -1,0 +1,11 @@
+Command/
+Config/
+DependencyInjection/
+Manager/
+Provider/
+Resources/
+Tests/Unit/
+Twig/
+OroRequireJSBundle.php
+README.md
+composer.json

@@ -1,0 +1,10 @@
+Component/
+DependencyInjection/
+ORM/
+Resources/config/
+Security/
+Services/
+.gitignore
+FidesioIsidoreBundle.php
+README.md
+composer.json

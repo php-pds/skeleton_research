@@ -1,0 +1,13 @@
+src/
+tests/
+.gitignore
+.travis.yml
+README.md
+autoload.php
+changelog.md
+codeception.dist.yml
+composer.json
+composer.lock
+todo.taskpaper
+wpcept
+wpcept.bat

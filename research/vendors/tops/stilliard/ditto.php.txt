@@ -1,0 +1,14 @@
+docs/images/
+example/
+src/
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+Makefile
+README.md
+composer.json
+composer.lock
+ditto.sublime-project
+phpunit.xml

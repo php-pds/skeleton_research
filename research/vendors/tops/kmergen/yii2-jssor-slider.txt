@@ -1,0 +1,11 @@
+assets/
+build/
+core/
+views/
+LICENSE
+README.md
+SliderAsset.php
+SliderWidget.php
+bower.json
+composer.json
+gulpfile.js

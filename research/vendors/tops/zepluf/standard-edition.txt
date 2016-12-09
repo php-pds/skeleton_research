@@ -1,0 +1,7 @@
+app/
+src/Zepluf/Bundle/StoreBundle/
+web/
+.gitignore
+README.markdown
+all_tests.php
+composer.json

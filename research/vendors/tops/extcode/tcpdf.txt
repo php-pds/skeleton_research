@@ -1,0 +1,11 @@
+Classes/Service/
+Documentation/
+Resources/Private/Library/tcpdf/
+.gitignore
+Changelog
+README.md
+composer.json
+ext_autoload.php
+ext_emconf.php
+ext_icon.gif
+ext_tables.php

@@ -1,0 +1,4 @@
+lib/Webit/Weather/WeatherApi/
+.gitignore
+README.md
+composer.json

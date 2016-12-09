@@ -1,0 +1,5 @@
+Resources/public/
+.gitignore
+BmatznerJQueryMobileBundle.php
+README.md
+composer.json

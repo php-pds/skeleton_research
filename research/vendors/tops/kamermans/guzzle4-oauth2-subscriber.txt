@@ -1,0 +1,6 @@
+examples/
+src/kamermans/GuzzleOAuth2/
+.gitignore
+LICENSE
+README.md
+composer.json

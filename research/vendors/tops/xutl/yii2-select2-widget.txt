@@ -1,0 +1,8 @@
+assets/
+.gitattributes
+.gitignore
+README.md
+Select2.php
+Select2Asset.php
+Select2LanguageAsset.php
+composer.json

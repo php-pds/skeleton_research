@@ -1,0 +1,10 @@
+Block/
+Controller/Adminhtml/
+Model/
+Setup/
+etc/
+view/
+LICENCE.txt
+README.md
+composer.json
+registration.php

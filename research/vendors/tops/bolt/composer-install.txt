@@ -1,0 +1,8 @@
+app/
+extensions/
+public/
+.bolt.yml
+.gitignore
+README.md
+composer.json
+index.php

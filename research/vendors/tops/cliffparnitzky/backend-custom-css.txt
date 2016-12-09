@@ -1,0 +1,9 @@
+system/modules/BackendCustomCss/
+.gitattributes
+.gitignore
+README.md
+composer.json
+screenshot_settings.jpg
+screenshot_user.jpg
+screenshot_user_wizard_system_styles.jpg
+screenshot_user_wizard_templates.jpg

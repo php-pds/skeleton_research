@@ -1,0 +1,9 @@
+DependencyInjection/
+Model/
+Resources/config/
+Tests/Controller/
+.gitignore
+LICENSE
+README.md
+TDMDoctrineEventPriorityBundle.php
+composer.json

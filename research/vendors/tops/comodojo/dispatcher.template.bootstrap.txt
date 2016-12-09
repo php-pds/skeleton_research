@@ -1,0 +1,6 @@
+resources/
+.gitignore
+LICENSE
+README.md
+TemplateBootstrap.php
+composer.json

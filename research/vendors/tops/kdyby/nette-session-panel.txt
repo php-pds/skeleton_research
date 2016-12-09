@@ -1,0 +1,6 @@
+src/Kdyby/SessionPanel/
+.gitattributes
+.gitignore
+README.md
+composer.json
+license.md

@@ -1,0 +1,5 @@
+src/Irazasyed/LaravelIdenticon/
+.gitignore
+LICENSE
+README.md
+composer.json

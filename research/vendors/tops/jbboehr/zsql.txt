@@ -1,0 +1,14 @@
+src/
+tests/
+.editorconfig
+.gitattributes
+.gitignore
+.travis.yml
+Adapters.md
+LICENSE.md
+Makefile
+README.md
+apigen.neon
+composer.json
+composer.lock
+phpunit.xml.dist

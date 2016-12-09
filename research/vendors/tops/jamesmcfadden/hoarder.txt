@@ -1,0 +1,10 @@
+src/Hoarder/
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+composer.json
+php.ini
+phpunit.xml.dist

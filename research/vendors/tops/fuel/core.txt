@@ -1,0 +1,15 @@
+classes/
+config/
+lang/
+tasks/
+tests/
+vendor/
+views/
+.gitignore
+CONTRIBUTING.md
+base.php
+base56.php
+bootstrap.php
+bootstrap_phpunit.php
+composer.json
+phpunit.xml

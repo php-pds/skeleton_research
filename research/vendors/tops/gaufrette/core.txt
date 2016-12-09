@@ -1,0 +1,9 @@
+spec/Gaufrette/Core/
+src/Gaufrette/Core/
+.gitignore
+.php_cs
+.travis.yml
+CONTRIBUTION.md
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,13 @@
+src/
+storage/
+tests/EventStore/Tests/Socket/
+usage/
+.gitignore
+.travis.yml
+ClientMessageDtos.proto
+LICENSE
+README.md
+composer.json
+composer.lock
+docker-compose.yml
+phpunit.xml

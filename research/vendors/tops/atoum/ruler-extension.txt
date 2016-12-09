@@ -1,0 +1,11 @@
+classes/
+tests/
+.atoum.php
+.bootstrap.atoum.php
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+autoloader.php
+composer.json

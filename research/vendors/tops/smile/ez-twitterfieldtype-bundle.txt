@@ -1,0 +1,9 @@
+DependencyInjection/
+FieldType/Twitter/
+Persistence/Content/FieldValue/Converter/
+Resources/
+Search/FieldType/
+LICENSE
+README.md
+SmileEzTwitterFieldTypeBundle.php
+composer.json

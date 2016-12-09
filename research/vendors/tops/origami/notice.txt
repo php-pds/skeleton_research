@@ -1,0 +1,9 @@
+views/
+.gitignore
+Flash.php
+LICENSE
+Notice.php
+NoticeFacade.php
+NoticeServiceProvider.php
+composer.json
+helpers.php

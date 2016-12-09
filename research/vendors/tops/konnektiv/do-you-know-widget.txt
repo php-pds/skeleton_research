@@ -1,0 +1,9 @@
+js/
+bp-member-with-avatar.php
+composer.json
+deploy-config.sh
+do-you-know-widget-class.php
+do-you-know.php
+license.txt
+readme.md
+readme.txt

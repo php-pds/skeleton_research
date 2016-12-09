@@ -1,0 +1,10 @@
+doc/
+examples/
+lib/BounceMailHandler/
+test/
+.gitignore
+README.rst
+bootstrap.php
+composer.json
+phpdoc.dist.xml
+phpunit.xml.dist

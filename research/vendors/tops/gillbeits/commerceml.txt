@@ -1,0 +1,9 @@
+example/
+src/CommerceMLParser/
+tests/
+xsd/
+.gitignore
+.travis.yml
+README.md
+codeception.yml
+composer.json

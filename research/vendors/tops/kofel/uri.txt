@@ -1,0 +1,6 @@
+src/Kofel/Uri/
+test/Kofel/Uri/
+.gitignore
+composer.json
+composer.lock
+phpunit.xml

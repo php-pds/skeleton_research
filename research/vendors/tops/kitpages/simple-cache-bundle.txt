@@ -1,0 +1,12 @@
+DependencyInjection/
+Entity/
+Model/
+Resources/config/
+Tests/
+.gitignore
+.travis.yml
+KitpagesSimpleCacheBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,15 @@
+Cloudinary/
+Command/
+DependencyInjection/
+Resources/
+Tests/
+Twig/Extension/
+.gitattributes
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CONTRIBUTING.md
+README.md
+Speicher210CloudinaryBundle.php
+composer.json
+phpunit.xml.dist

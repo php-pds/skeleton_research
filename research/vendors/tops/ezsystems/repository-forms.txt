@@ -1,0 +1,14 @@
+bin/.travis/
+bundle/
+doc/
+features/
+lib/
+tests/
+.gitignore
+.php_cs
+.travis.yml
+LICENSE
+behat_suites.yml
+composer.json
+crowdin.yaml
+phpunit.xml.dist

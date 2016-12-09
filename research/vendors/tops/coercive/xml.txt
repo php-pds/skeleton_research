@@ -1,0 +1,8 @@
+.gitignore
+ExtractArray.php
+FormatML.php
+LICENSE.txt
+README.md
+XmlCleaner.php
+XmlToArray.php
+composer.json

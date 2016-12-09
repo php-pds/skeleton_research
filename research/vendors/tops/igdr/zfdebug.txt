@@ -1,0 +1,3 @@
+src/ZFDebug/Controller/
+README.md
+composer.json

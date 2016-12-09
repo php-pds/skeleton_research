@@ -1,0 +1,4 @@
+library/Zend/Service/Ebay/
+LICENSE.txt
+README.md
+composer.json

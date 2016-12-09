@@ -1,0 +1,4 @@
+src/Voryx/RESTGeneratorBundle/
+.gitignore
+README.md
+composer.json

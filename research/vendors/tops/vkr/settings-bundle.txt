@@ -1,0 +1,11 @@
+DependencyInjection/
+Exception/
+Interfaces/
+Resources/config/
+Services/
+TestHelpers/
+Tests/Services/
+.gitignore
+README.md
+VKRSettingsBundle.php
+composer.json

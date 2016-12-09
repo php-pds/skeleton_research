@@ -1,0 +1,5 @@
+system/modules/nivo_lightbox/
+.gitignore
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,9 @@
+behaviors/
+models/
+PhpBBWebUser.php
+README.md
+composer.json
+phpBB.php
+phpBBUserValidation.php
+phpbbClass.php
+phpbb_session_handler.php

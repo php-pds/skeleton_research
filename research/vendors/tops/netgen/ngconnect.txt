@@ -1,0 +1,14 @@
+autoloads/
+classes/
+design/standard/
+doc/
+modules/ngconnect/
+settings/
+translations/
+update/database/mysql/1.1/
+.gitignore
+LICENSE
+README.md
+composer.json
+extension.xml
+ezinfo.php

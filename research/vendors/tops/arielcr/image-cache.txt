@@ -1,0 +1,8 @@
+cache/images/
+src/Image/
+tests/
+.gitignore
+.travis.yml
+README.md
+composer.json
+phpunit.xml

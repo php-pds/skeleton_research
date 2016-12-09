@@ -1,0 +1,11 @@
+bin/
+resources/
+src/
+storage/
+tests/Services/
+web/
+.gitignore
+LICENSE
+README.md
+composer.json
+phpunit.xml

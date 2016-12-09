@@ -1,0 +1,6 @@
+database/seeds/
+resources/views/admin/
+src/
+LICENSE
+README.md
+composer.json

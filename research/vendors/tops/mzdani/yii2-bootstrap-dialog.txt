@@ -1,0 +1,6 @@
+assets/
+widget/
+.gitignore
+Dialog.php
+README.md
+composer.json

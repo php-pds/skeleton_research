@@ -1,0 +1,7 @@
+fixtures/
+spec/Gaufrette/Adapter/
+src/Gaufrette/Adapter/
+test/Gaufrette/Test/
+.gitignore
+.travis.yml
+composer.json

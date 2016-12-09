@@ -1,0 +1,4 @@
+src/Mindweb/DbMysql/
+.gitignore
+composer.json
+composer.lock

@@ -1,0 +1,12 @@
+Controller/
+DependencyInjection/
+EventListener/
+Resources/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+README.md
+SonatraGluonBundle.php
+composer.json
+composer.lock
+phpunit.xml.dist

@@ -1,0 +1,7 @@
+skins/
+README.md
+bower.json
+composer.json
+icheck.jquery.json
+icheck.js
+icheck.min.js

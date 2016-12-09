@@ -1,0 +1,6 @@
+code/
+docs/
+scripts/
+tests/
+_config.php
+composer.json

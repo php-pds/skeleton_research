@@ -1,0 +1,14 @@
+build/travis/
+src/
+tests/
+.gitignore
+.jshintignore
+.jshintrc
+.travis.yml
+COPYING
+README.md
+composer.json
+init.php
+mediawiki-extension.json
+resources.php
+resources.test.php

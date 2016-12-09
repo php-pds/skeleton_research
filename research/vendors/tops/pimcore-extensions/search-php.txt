@@ -1,0 +1,9 @@
+cli/
+controllers/
+lib/
+models/SearchPhp/
+static/
+texts/
+views/scripts/
+composer.json
+plugin.xml

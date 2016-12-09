@@ -1,0 +1,10 @@
+.hidev/
+docs/readme/
+src/
+.gitignore
+.php_cs
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+composer.json

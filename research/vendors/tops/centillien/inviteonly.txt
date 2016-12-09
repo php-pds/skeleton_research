@@ -1,0 +1,6 @@
+languages/
+pages/
+README.md
+composer.json
+manifest.xml
+start.php

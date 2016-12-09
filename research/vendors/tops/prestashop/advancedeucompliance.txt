@@ -1,0 +1,14 @@
+controllers/
+entities/
+install/
+tests/
+translations/
+upgrade/
+views/
+Readme.md
+advancedeucompliance.php
+composer.json
+config.xml
+index.php
+logo.gif
+logo.png

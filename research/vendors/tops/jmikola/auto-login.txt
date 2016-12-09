@@ -1,0 +1,5 @@
+src/Jmikola/AutoLogin/
+.gitignore
+LICENSE
+README.md
+composer.json

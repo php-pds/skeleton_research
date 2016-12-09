@@ -1,0 +1,5 @@
+.gitignore
+LICENSE.md
+README.md
+YiiFotoramaWidget.php
+composer.json

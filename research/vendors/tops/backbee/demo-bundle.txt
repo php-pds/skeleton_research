@@ -1,0 +1,15 @@
+ClassContent/
+Command/
+Config/
+Controller/
+Data/
+Entity/
+Templates/scripts/
+Tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+Demo.php
+README.md
+composer.json
+phpunit.xml.dist

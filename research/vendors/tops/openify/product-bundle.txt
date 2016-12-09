@@ -1,0 +1,7 @@
+DependencyInjection/
+Entity/
+Repository/
+Resources/
+OpenifyProductBundle.php
+README.md
+composer.json

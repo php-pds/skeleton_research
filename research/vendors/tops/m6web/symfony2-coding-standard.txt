@@ -1,0 +1,6 @@
+M6Web_Symfony2/
+Symfony2/
+.gitignore
+LICENSE
+README.md
+composer.json

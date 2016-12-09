@@ -1,0 +1,8 @@
+Config/
+Controller/
+Hook/
+I18n/
+templates/backOffice/default/
+HookAdminHome.php
+LICENSE.txt
+composer.json

@@ -1,0 +1,8 @@
+assets/
+views/
+.gitignore
+LICENSE
+README.md
+ShareLinks.php
+ShareLinksAssets.php
+composer.json

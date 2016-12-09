@@ -1,0 +1,12 @@
+src/Reflection/Dibi/
+tests/
+.coveralls.yml
+.gitattributes
+.gitignore
+.travis.yml
+README.md
+build.xml
+composer.json
+extension.neon
+phpstan.neon
+ruleset.xml

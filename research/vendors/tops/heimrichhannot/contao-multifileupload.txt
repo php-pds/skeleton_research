@@ -1,0 +1,8 @@
+classes/
+config/
+forms/
+languages/
+templates/
+CHANGELOG.md
+README.md
+composer.json

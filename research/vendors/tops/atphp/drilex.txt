@@ -1,0 +1,9 @@
+resources/views/pages/
+src/
+.gitignore
+.travis.yml
+README.md
+composer.json
+config.default.php
+hooks.php
+phpunit.xml.dist

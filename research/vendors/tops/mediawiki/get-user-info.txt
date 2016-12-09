@@ -1,0 +1,8 @@
+i18n/
+GetUserInfo.i18n.magic.php
+GetUserInfo.i18n.php
+GetUserInfo.php
+GetUserInfo_body.php
+LICENSE
+README.md
+composer.json

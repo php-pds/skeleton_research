@@ -1,0 +1,9 @@
+src/Cspray/Adhoc/
+test/Cspray/Adhoc/Test/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

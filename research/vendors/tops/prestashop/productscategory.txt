@@ -1,0 +1,14 @@
+css/
+img/
+js/
+translations/
+upgrade/
+views/
+CHANGELOG.txt
+Readme.md
+composer.json
+config.xml
+index.php
+logo.gif
+logo.png
+productscategory.php

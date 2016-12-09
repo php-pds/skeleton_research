@@ -1,0 +1,11 @@
+Configuration/
+DependencyInjection/
+EventListener/Serializer/
+Representation/
+Resources/
+Serializer/
+Util/
+.gitignore
+MangoJsonApiBundle.php
+README.md
+composer.json

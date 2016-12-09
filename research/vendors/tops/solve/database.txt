@@ -1,0 +1,10 @@
+Adapters/
+Exceptions/
+Models/
+Tests/
+.gitignore
+DatabaseService.php
+LICENSE
+QC.php
+README.md
+composer.json

@@ -1,0 +1,8 @@
+classes/
+datatypes/ezsvg/
+design/standard/
+modules/xrowsvg/
+settings/
+README.md
+composer.json
+svg-edit-2-6-patch-for-xrowsvg.diff

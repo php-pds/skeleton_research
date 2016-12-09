@@ -1,0 +1,11 @@
+assets/
+inc/
+stacksight-php-sdk @ 5934084
+.gitignore
+.gitmodules
+.jshintrc
+.travis.yml
+composer.json
+readme.txt
+texts.php
+wp-stacksight.php

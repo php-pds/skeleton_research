@@ -1,0 +1,7 @@
+config/
+src/KapitchiSearch/
+LICENSE.txt
+Module.php
+README.md
+autoload_classmap.php
+composer.json

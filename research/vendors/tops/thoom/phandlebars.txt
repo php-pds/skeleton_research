@@ -1,0 +1,4 @@
+assets/
+lib/Thoom/
+README.md
+composer.json

@@ -1,0 +1,10 @@
+cli/
+controllers/
+migrations/
+models/
+views/
+Client.php
+README.md
+ScoopIt.php
+USAGE.md
+composer.json

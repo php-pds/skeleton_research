@@ -1,0 +1,12 @@
+contao/config/
+src/ContaoCommunityAlliance/Translator/
+tests/
+.check-author.yml
+.gitignore
+.travis.yml
+LICENSE
+README.md
+build.default.properties
+build.xml
+composer.json
+phpunit.xml.dist

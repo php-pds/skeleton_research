@@ -1,0 +1,13 @@
+Controller/
+DataFixtrues/ORM/dev/
+DependencyInjection/
+Doctrine/
+Entity/
+Form/
+Model/
+Resources/
+LICENSE
+README.md
+Taxonomy.php
+TaxonomyBundle.php
+composer.json

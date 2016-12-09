@@ -1,0 +1,4 @@
+Dockerfile
+composer.json
+docker-php-pecl-install
+php.ini

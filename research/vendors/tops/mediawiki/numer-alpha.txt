@@ -1,0 +1,9 @@
+i18n/
+tests/phpunit/
+.gitignore
+.gitreview
+NumerAlpha.class.php
+NumerAlpha.magic.php
+NumerAlpha.php
+README.md
+composer.json

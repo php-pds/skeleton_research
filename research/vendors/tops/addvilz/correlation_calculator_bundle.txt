@@ -1,0 +1,9 @@
+Tests/
+spec/Addvilz/CorrelationCalculatorBundle/CorrelationCalculator/
+src/Addvilz/CorrelationCalculatorBundle/
+.gitignore
+LICENSE-2.0.txt
+README.md
+composer.json
+phpunit-bootstrap.php
+phpunit.xml

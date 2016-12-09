@@ -1,0 +1,5 @@
+examples/
+src/Coseva/
+README.md
+composer.json
+packager

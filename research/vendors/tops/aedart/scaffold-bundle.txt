@@ -1,0 +1,9 @@
+helpers/
+resources/
+.gitignore
+LICENSE
+README.md
+aedartpackage.scaffold.php
+awareofcomponent.scaffold.php
+blankpackage.scaffold.php
+composer.json

@@ -1,0 +1,11 @@
+bin/
+doc/
+src/
+web/
+.gitattributes
+.gitignore
+CHANGELOG.md
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

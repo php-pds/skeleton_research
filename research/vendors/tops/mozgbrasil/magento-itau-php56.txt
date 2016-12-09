@@ -1,0 +1,7 @@
+app/
+js/mozg_itau/
+skin/
+LICENSE
+README.md
+composer.json
+modman

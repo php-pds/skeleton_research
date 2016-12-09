@@ -1,0 +1,15 @@
+app/
+web/
+.gitattributes
+.gitignore
+.travis.yml
+BACKERS.md
+CHANGELOG.md
+Capfile
+Gemfile
+Gemfile.lock
+LICENSE
+README.md
+composer.json
+phpcs.xml
+wp-cli.yml

@@ -1,0 +1,11 @@
+doc/
+src/
+.coke
+.editorconfig
+.gitignore
+CHANGELOG.md
+LICENSE
+README.md
+composer.json
+mkdocs.yml
+phpspec.yml

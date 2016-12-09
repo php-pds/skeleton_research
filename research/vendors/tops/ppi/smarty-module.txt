@@ -1,0 +1,11 @@
+Extension/
+resources/config/
+.gitignore
+.php_cs
+.travis.yml
+LICENSE
+Module.php
+README.md
+SmartyEngine.php
+composer.json
+phpunit.xml

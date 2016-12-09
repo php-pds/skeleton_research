@@ -1,0 +1,6 @@
+controllers/
+migrations/
+models/
+views/
+CkeditorConfiguratorModule.php
+composer.json

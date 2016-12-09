@@ -1,0 +1,12 @@
+DependencyInjection/
+Entity/
+Event/
+Extension/
+Manager/
+Resources/
+Token/
+.gitignore
+ITEMailBundle.php
+LICENSE
+README.md
+composer.json

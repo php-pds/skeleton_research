@@ -1,0 +1,13 @@
+src/DI/
+tests/
+.coveralls.yml
+.editorconfig
+.gitattributes
+.gitignore
+.php_cs
+.travis.yml
+codeception.yml
+composer.json
+license.md
+readme.md
+tests.md

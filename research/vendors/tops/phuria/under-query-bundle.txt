@@ -1,0 +1,14 @@
+DependencyInjection/
+Resources/config/
+Tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CHANGELOG.md
+LICENSE
+PhuriaUnderQueryBundle.php
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist
+travis.phpunit.xml

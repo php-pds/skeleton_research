@@ -1,0 +1,6 @@
+library/GaZServiceDisqus/View/Helper/
+tests/
+.gitignore
+README.md
+autoload_classmap.php
+composer.json

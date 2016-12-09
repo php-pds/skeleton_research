@@ -1,0 +1,11 @@
+Client/
+DependencyInjection/
+Entity/
+Exception/
+Resources/config/services/
+Tests/
+Validator/
+.gitignore
+README.md
+Test8bitBundle.php
+composer.json

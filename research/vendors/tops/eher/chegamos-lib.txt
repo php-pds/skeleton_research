@@ -1,0 +1,12 @@
+config/
+reports/
+src/chegamos/
+tests/chegamos/
+.gitignore
+.travis.yml
+LICENSE
+Makefile
+README.md
+TODO
+composer.json
+phpunit.xml

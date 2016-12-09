@@ -1,0 +1,7 @@
+Base/
+Controller/
+DependencyInjection/
+Resources/
+KamranSettingBundle.php
+README.md
+composer.json

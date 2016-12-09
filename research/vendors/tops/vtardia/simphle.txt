@@ -1,0 +1,8 @@
+bin/
+etc/
+share/
+src/Simphle/
+.gitignore
+LICENSE
+README.md
+composer.json

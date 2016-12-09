@@ -1,0 +1,4 @@
+src/MWSSubscriptionsService/
+.gitignore
+README.md
+composer.json

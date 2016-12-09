@@ -1,0 +1,8 @@
+assets/highlight/
+src/
+tests/
+.gitignore
+.travis.yml
+composer.json
+composer.lock
+run-tests.sh

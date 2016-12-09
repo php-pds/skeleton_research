@@ -1,0 +1,5 @@
+inc/
+README.md
+composer.json
+dynamic-mo-loader.php
+index.php

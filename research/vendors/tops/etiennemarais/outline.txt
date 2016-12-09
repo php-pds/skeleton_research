@@ -1,0 +1,10 @@
+example/
+src/Outline/
+tests/
+.gitignore
+.travis.yml
+LICENCE.txt
+README.md
+composer.json
+phpspec.yml
+phpunit.xml

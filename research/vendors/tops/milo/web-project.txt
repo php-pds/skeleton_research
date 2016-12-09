@@ -1,0 +1,6 @@
+app/
+bin/
+www/
+.gitignore
+composer.json
+init.sh

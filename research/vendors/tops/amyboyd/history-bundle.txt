@@ -1,0 +1,5 @@
+src/AmyBoyd/HistoryBundle/
+.editorconfig
+.gitignore
+composer.json
+composer.lock

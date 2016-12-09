@@ -1,0 +1,8 @@
+assets/
+.gitignore
+LICENSE.md
+README.md
+README_ru.md
+Timer.php
+TimerAsset.php
+composer.json

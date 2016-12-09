@@ -1,0 +1,9 @@
+components/
+controllers/
+messages/
+migrations/
+models/
+views/admin/
+Bootstrap.php
+Module.php
+composer.json

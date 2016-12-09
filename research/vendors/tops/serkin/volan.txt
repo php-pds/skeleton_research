@@ -1,0 +1,16 @@
+src/
+tests/
+vagrant/provision/
+.editorconfig
+.gitattributes
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CONTRIBUTING.md
+LICENSE
+README.md
+Vagrantfile
+circle.yml
+codeclimate.yml
+composer.json
+phpunit.xml.dist

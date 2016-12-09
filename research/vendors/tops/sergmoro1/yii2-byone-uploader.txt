@@ -1,0 +1,13 @@
+assets/
+controllers/
+messages/
+migrations/
+models/
+sample/views/
+widgets/
+FilePath.php
+LICENSE
+Module.php
+SimpleImage.php
+composer.json
+readme.md

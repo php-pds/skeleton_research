@@ -1,0 +1,7 @@
+bin/
+samples/
+src/WpSync/
+.gitignore
+Readme.md
+composer.json
+composer.lock

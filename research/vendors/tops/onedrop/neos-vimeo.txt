@@ -1,0 +1,6 @@
+Classes/KSS/Vimeo/
+Configuration/
+Resources/
+Tests/Unit/Domain/Model/
+README.md
+composer.json

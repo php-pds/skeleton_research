@@ -1,0 +1,9 @@
+config/
+src/Zoop/MaggottModule/
+tests/
+view/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json

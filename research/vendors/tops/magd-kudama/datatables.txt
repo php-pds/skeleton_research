@@ -1,0 +1,4 @@
+src/MagdKudama/Datatables/
+.gitignore
+README.md
+composer.json

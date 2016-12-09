@@ -1,0 +1,7 @@
+src/Versionable/Autoload/
+test/
+LICENSE
+README
+README.markdown
+build.xml
+composer.json

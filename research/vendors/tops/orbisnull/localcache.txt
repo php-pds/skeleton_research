@@ -1,0 +1,8 @@
+config/
+src/
+tests/
+.gitignore
+Module.php
+README.md
+codeception.yml
+composer.json

@@ -1,0 +1,7 @@
+DependencyInjection/
+Resources/config/
+.gitignore
+CheckdomainComodoBundle.php
+LICENSE
+README.md
+composer.json

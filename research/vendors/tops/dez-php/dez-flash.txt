@@ -1,0 +1,7 @@
+sandbox/
+src/Flash/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock

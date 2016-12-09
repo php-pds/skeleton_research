@@ -1,0 +1,6 @@
+src/Stayallive/Support/
+.gitattributes
+.gitignore
+LICENSE.txt
+README.md
+composer.json

@@ -1,0 +1,16 @@
+bin/
+doc/
+fixtures/
+resources/config/
+src/
+tests/
+.editorconfig
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+UPGRADE.md
+composer.json
+phpunit.xml.dist

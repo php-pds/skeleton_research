@@ -1,0 +1,6 @@
+assets/
+Footnotes.php
+FootnotesAsset.php
+LICENSE.md
+README.md
+composer.json

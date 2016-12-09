@@ -1,0 +1,10 @@
+AggregateQuery/
+DependencyInjection/
+Resources/config/
+Tests/
+.gitignore
+.travis.yml
+README.md
+SolutionMongoAggregationBundle.php
+composer.json
+phpunit.xml.dist

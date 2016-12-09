@@ -1,0 +1,11 @@
+config/
+src/UthandoThemeManager/
+test/
+.codeclimate.yml
+.gitignore
+.travis.yml
+LICENSE
+Module.php
+README.md
+autoload_classmap.php
+composer.json

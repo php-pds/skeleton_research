@@ -1,0 +1,12 @@
+assets/
+console/
+crud/
+db/
+defaultViews/
+generators/model/
+validators/
+web/
+widgets/
+LICENSE
+README.md
+composer.json

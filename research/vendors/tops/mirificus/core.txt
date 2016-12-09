@@ -1,0 +1,7 @@
+src/Mirificus/
+tests/
+.gitignore
+.travis.yml
+README.md
+build.sh
+composer.json

@@ -1,0 +1,9 @@
+Http/
+Providers/
+Resources/Migrations/
+.gitignore
+Article.php
+News.php
+Newsitem.php
+Ticker.php
+composer.json

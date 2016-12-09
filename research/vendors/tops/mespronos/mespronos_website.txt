@@ -1,0 +1,7 @@
+config/install/
+translations/
+README.md
+composer.json
+mespronos_website.info.yml
+mespronos_website.install
+mespronos_website.profile

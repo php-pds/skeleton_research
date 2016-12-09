@@ -1,0 +1,14 @@
+.gitignore
+composer.json
+developify.jquery.js
+devicify.js
+heighten.jquery.js
+httpify.js
+menufy.jquery.js
+movify.jquery.js
+navigateTo.jquery.js
+openify.jquery.js
+readme.md
+responsify.jquery.js
+vha.jquery.js
+vhax.jquery.js

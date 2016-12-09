@@ -1,0 +1,7 @@
+License.php
+License_Exception.php
+License_Interface.php
+License_Manager.php
+README.md
+composer.future.json
+composer.json

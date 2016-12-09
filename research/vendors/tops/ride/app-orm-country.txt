@@ -1,0 +1,8 @@
+config/
+data/orm/
+manual/
+src/ride/application/orm/model/
+.gitignore
+README.md
+composer.json
+ride.json

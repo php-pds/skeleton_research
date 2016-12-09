@@ -1,0 +1,16 @@
+bin/
+tests/
+.gitignore
+.gitmodules
+.travis.yml
+CONTRIBUTING.md
+README.md
+composer.json
+phpunit.xml
+readme.txt
+wpthumb.background-fill.php
+wpthumb.crop-from-position.php
+wpthumb.image-editor.php
+wpthumb.php
+wpthumb.shortcodes.php
+wpthumb.watermark.php

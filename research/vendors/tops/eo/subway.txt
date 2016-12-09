@@ -1,0 +1,12 @@
+bin/
+src/Subway/
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+box.json.dist
+build.php
+composer.json
+phpunit.xml.dist

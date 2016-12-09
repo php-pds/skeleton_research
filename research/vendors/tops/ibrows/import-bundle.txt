@@ -1,0 +1,15 @@
+Annotation/
+DependencyInjection/
+Exception/
+Generator/
+Handler/
+Resources/config/
+Result/
+Row/
+AbstractImporter.php
+BulkImporter.php
+IbrowsImportBundle.php
+ImportableEntityInterface.php
+ImportableInterface.php
+ImporterInterface.php
+composer.json

@@ -1,0 +1,14 @@
+i18n/
+src/
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+COPYING
+DataValues.i18n.php
+DataValues.mw.php
+DataValues.php
+README.md
+composer.json
+phpcs.xml
+phpunit.xml.dist

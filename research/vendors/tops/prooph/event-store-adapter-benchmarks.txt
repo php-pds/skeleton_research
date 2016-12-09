@@ -1,0 +1,15 @@
+bin/
+src/
+.gitignore
+.php_cs
+.travis.yml
+LICENSE
+README.md
+composer.json
+docker-compose-mariadb.yml
+docker-compose-mongodb.yml
+docker-compose-mysql.yml
+docker-compose-percona.yml
+docker-compose-postgresql.yml
+docker-compose.yml
+phpunit.xml.dist

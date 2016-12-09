@@ -1,0 +1,8 @@
+actions/
+assets/
+formatter/
+widgets/
+.gitignore
+QRcode.php
+README.md
+composer.json

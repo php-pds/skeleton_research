@@ -1,0 +1,7 @@
+jspdf/
+README.md
+composer.json
+html2canvas.js
+jquery.base64.js
+tableExport.jquery.json
+tableExport.js

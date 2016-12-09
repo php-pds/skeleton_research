@@ -1,0 +1,12 @@
+Command/
+DependencyInjection/
+Onesky/
+Resources/config/
+Tests/Onesky/
+.gitignore
+.travis.yml
+README.md
+SevenOneskyBundle.php
+composer.json
+composer.lock
+phpunit.xml.dist

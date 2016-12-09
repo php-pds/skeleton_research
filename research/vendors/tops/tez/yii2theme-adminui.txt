@@ -1,0 +1,12 @@
+assets/
+assetsBundle/
+module/
+views/
+widgets/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+AdminLTEBootstrap.php
+LICENSE
+README.md
+composer.json

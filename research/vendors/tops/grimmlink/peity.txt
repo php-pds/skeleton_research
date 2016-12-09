@@ -1,0 +1,15 @@
+bin/
+docs/
+test/
+CHANGELOG.md
+Gemfile
+Gemfile.lock
+MIT-LICENCE
+Makefile
+README.markdown
+bower.json
+composer.json
+index.html
+jquery.peity.js
+jquery.peity.min.js
+package.json

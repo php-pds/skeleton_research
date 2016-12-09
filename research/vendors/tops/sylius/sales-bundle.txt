@@ -1,0 +1,17 @@
+Controller/
+DependencyInjection/
+Doctrine/ORM/
+EventListener/
+Form/Type/
+Generator/
+Model/
+Repository/
+Resources/
+spec/Sylius/Bundle/SalesBundle/
+.gitignore
+.travis.yml
+CHANGELOG.md
+README.md
+SyliusOrderEvents.php
+SyliusSalesBundle.php
+composer.json

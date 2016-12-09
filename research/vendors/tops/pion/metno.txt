@@ -1,0 +1,12 @@
+.gitignore
+METno.php
+METnoCustomSymbol.php
+METnoDay.php
+METnoFactory.php
+METnoForecast.php
+METnoPrecipitation.php
+METnoSymbol.php
+composer.json
+example.php
+loader_METno.php
+readme.md

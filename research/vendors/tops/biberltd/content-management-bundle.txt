@@ -1,0 +1,12 @@
+Controller/
+DependencyInjection/
+Entity/
+Exceptions/
+ORM/
+Resources/
+Services/
+Tests/Controller/
+BiberLtdContentManagementBundle.php
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,6 @@
+src/GeoTools/
+test/GeoTools/
+.gitignore
+README.md
+composer.json
+phpunit.xml

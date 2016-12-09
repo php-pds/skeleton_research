@@ -1,0 +1,4 @@
+Diagnostics/
+Cache.php
+composer.json
+license.md

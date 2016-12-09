@@ -1,0 +1,11 @@
+app/
+bin/
+spec/Kreta/KretaBundle/
+src/
+var/
+web/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock

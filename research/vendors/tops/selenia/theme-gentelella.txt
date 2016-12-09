@@ -1,0 +1,7 @@
+bin/
+public/
+resources/
+src/
+.gitignore
+Readme.md
+composer.json

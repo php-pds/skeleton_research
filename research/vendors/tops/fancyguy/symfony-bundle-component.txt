@@ -1,0 +1,5 @@
+src/
+.dir-locals.el
+.gitignore
+LICENSE
+composer.json

@@ -1,0 +1,15 @@
+bin/
+examples/
+src/
+tests/
+.editorconfig
+.gitattributes
+.gitignore
+.travis.yml
+CONTRIBUTING.md
+LICENSE
+Makefile
+README.md
+box.json
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,7 @@
+config/
+src/ride/cli/command/database/
+.gitignore
+CHANGELOG.md
+README.md
+composer.json
+ride.json

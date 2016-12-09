@@ -1,0 +1,6 @@
+data/
+src/HttpStatuses/
+.gitignore
+LICENSE
+README.md
+composer.json

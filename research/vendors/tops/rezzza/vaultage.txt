@@ -1,0 +1,8 @@
+doc/
+src/Rezzza/Vaultage/
+.atoum.php
+.gitignore
+README.md
+composer.json
+vaultage
+vaultage.phar

@@ -1,0 +1,11 @@
+Command/
+DependencyInjection/
+Resources/config/
+Tests/Units/DependencyInjection/
+.atoum.bootstrap.php
+.atoum.php
+.gitignore
+.travis.yml
+README.rst
+RezzzaShortyBundle.php
+composer.json

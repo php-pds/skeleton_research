@@ -1,0 +1,11 @@
+doc/
+module/
+src/Netzmacht/Workflow/Contao/
+.check-author.yml
+.gitignore
+.travis.yml
+README.md
+build.properties
+build.xml
+composer.json
+phpspec.yml

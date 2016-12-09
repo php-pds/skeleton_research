@@ -1,0 +1,5 @@
+interfaces/
+strategies/
+README.md
+WebCrawler.php
+composer.json

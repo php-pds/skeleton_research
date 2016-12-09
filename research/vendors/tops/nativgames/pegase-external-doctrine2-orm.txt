@@ -1,0 +1,5 @@
+src/Pegase/External/Doctrine2/ORM/
+LICENSE
+README.md
+TODO.fr.md
+composer.json

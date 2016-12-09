@@ -1,0 +1,9 @@
+Controller/
+DependencyInjection/
+Doctrine/ORM/
+Form/Type/
+Model/
+Resources/
+Widget/Strategy/
+SymEditEventsBundle.php
+composer.json

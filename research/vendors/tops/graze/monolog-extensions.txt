@@ -1,0 +1,10 @@
+src/Graze/Monolog/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+Makefile
+README.md
+Vagrantfile
+composer.json
+phpunit.xml.dist

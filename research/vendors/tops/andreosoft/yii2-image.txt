@@ -1,0 +1,5 @@
+.gitignore
+CoreImage.php
+Image.php
+README.md
+composer.json

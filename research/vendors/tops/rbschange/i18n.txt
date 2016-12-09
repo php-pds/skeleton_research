@@ -1,0 +1,14 @@
+actions/
+change-commands/
+changedev-commands/
+config/
+forms/editor/
+i18n/
+lib/
+persistentdocument/
+setup/
+style/
+templates/perspectives/
+.gitignore
+LICENSE.txt
+change.xml

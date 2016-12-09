@@ -1,0 +1,8 @@
+DependencyInjection/
+Entity/
+Form/
+Resources/
+LICENSE
+README.md
+VictoireWidgetGmapBundle.php
+composer.json

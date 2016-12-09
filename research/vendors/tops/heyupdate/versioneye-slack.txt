@@ -1,0 +1,7 @@
+bin/
+src/HeyUpdate/VersionEyeSlack/
+.gitignore
+LICENSE
+README.md
+box.json.dist
+composer.json

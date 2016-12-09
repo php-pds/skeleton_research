@@ -1,0 +1,7 @@
+DataFixtures/ORM/
+Resources/
+.gitignore
+.travis.yml
+README.md
+VolleyballFixturesBundle.php
+composer.json

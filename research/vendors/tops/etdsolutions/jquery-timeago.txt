@@ -1,0 +1,6 @@
+locales/
+LICENSE
+README.md
+composer.json
+jquery.timeago.js
+jquery.timeago.min.js

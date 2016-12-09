@@ -1,0 +1,4 @@
+BlogBundle/
+LICENSE
+README.md
+composer.json

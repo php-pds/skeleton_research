@@ -1,0 +1,6 @@
+src/modules/facebook/controllers/widgets/
+tests/models/Auth/
+.gitignore
+.travis.yml
+README.md
+composer.json

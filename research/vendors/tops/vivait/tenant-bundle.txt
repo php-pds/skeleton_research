@@ -1,0 +1,11 @@
+bin/
+features/
+spec/Vivait/TenantBundle/
+src/Vivait/TenantBundle/
+test/
+.gitignore
+.travis.yml
+LICENSE.txt
+README.md
+behat.yml.dist
+composer.json

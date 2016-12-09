@@ -1,0 +1,13 @@
+tests/
+.gitattributes
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENSE.md
+README.md
+SecureConnectionFilter.php
+SecureConnectionUrlManagerTrait.php
+SecureUrlRuleFilter.php
+UrlManager.php
+composer.json
+phpunit.xml.dist

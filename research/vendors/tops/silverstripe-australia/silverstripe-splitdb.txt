@@ -1,0 +1,5 @@
+_config/
+src/SilverStripe/
+.editorconfig
+README.md
+composer.json

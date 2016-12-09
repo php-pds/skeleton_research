@@ -1,0 +1,10 @@
+assets/
+lib/Lohini/
+tests/
+.gitattributes
+.gitignore
+.travis.yml
+README.md
+bower.json
+composer.json
+license.md

@@ -1,0 +1,10 @@
+DependencyInjection/
+Handlers/
+Resources/config/
+Services/
+TestHelpers/static/
+Tests/Services/
+.gitignore
+README.md
+VKRCustomLoggerBundle.php
+composer.json

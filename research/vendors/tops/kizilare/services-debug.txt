@@ -1,0 +1,5 @@
+Command/
+Helper/
+.gitignore
+ServicesDebugBundle.php
+composer.json

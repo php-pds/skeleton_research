@@ -1,0 +1,11 @@
+bin/
+config/
+src/
+templates/
+var/
+web/
+.gitignore
+LICENSE
+README.rst
+composer.json
+phpunit.xml.dist

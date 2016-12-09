@@ -1,0 +1,7 @@
+i18n/
+libs/
+LICENSE
+Mailman.i18n.php
+Mailman.php
+README.md
+composer.json

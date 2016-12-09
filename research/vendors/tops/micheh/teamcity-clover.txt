@@ -1,0 +1,5 @@
+LICENSE.md
+README.md
+composer.json
+teamcity-clover
+teamcity-clover.php

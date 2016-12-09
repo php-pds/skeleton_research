@@ -1,0 +1,6 @@
+Classes/Famelo/Gerrit/Command/
+Configuration/
+Resources/Private/Hooks/
+Scripts/
+Readme.md
+composer.json

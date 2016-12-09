@@ -1,0 +1,8 @@
+Command/
+DependencyInjection/
+Resources/config/
+Security/User/
+.gitignore
+MidgardConnectionBundle.php
+README.md
+composer.json

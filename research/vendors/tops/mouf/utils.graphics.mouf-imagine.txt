@@ -1,0 +1,6 @@
+doc/img/
+src/Mouf/Utils/Graphics/MoufImagine/Controller/
+.gitignore
+LICENSE
+README.md
+composer.json

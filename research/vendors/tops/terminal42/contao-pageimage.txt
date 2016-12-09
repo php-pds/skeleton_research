@@ -1,0 +1,10 @@
+config/
+dca/
+languages/
+templates/
+.gitignore
+ModuleBackgroundImage.php
+ModulePageImage.php
+PageImage.php
+README.md
+composer.json

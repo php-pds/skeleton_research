@@ -1,0 +1,14 @@
+Annotation/
+DependencyInjection/
+EventListener/
+Resources/config/
+Tests/
+.codeclimate.yml
+.gitignore
+.scrutinizer.yml
+.travis.yml
+Bukashk0zzzLiipImagineSerializationBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,14 @@
+img/
+translations/
+CHANGELOG.txt
+Readme.md
+blockpermanentlinks-footer.tpl
+blockpermanentlinks-header.tpl
+blockpermanentlinks.css
+blockpermanentlinks.php
+blockpermanentlinks.tpl
+composer.json
+config.xml
+index.php
+logo.gif
+logo.png

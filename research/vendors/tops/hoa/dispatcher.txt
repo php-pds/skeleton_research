@@ -1,0 +1,12 @@
+Documentation/Fr/
+Test/Unit/
+.State
+.gitignore
+Basic.php
+CHANGELOG.md
+ClassMethod.php
+Dispatcher.php
+Exception.php
+Kit.php
+README.md
+composer.json

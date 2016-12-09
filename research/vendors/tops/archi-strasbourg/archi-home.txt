@@ -1,0 +1,8 @@
+i18n/
+.gitignore
+README.md
+SpecialArchiHome.php
+composer.json
+composer.lock
+doc.md
+extension.json

@@ -1,0 +1,17 @@
+.github/
+dist/
+docs/
+tests/
+.gitignore
+.jscsrc
+.jshintrc
+.travis.yml
+LICENSE
+README.md
+composer.json
+index.html
+package.json
+require.js
+tasks.txt
+testBaseUrl.js
+updatesubs.sh

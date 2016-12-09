@@ -1,0 +1,6 @@
+src/Pecee/FtpClient/
+tests/FtpClient/
+.gitignore
+LICENSE
+README.md
+composer.json

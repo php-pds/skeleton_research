@@ -1,0 +1,6 @@
+src/Assets/
+tests/
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

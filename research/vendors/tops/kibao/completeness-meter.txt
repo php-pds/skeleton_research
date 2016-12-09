@@ -1,0 +1,7 @@
+spec/Kibao/CompletenessMeter/
+src/CompletenessMeter/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json

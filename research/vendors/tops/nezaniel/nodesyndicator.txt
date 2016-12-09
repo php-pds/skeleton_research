@@ -1,0 +1,5 @@
+Classes/Nezaniel/NodeSyndicator/
+Configuration/
+Resources/Private/
+.gitignore
+composer.json

@@ -1,0 +1,11 @@
+assets/less/admin/
+config/
+src/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist
+plugin.php

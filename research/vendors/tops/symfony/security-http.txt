@@ -1,0 +1,12 @@
+Core/
+Csrf/
+Guard/
+Http/
+Resources/translations/
+Tests/Http/Firewall/
+.gitignore
+CHANGELOG.md
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

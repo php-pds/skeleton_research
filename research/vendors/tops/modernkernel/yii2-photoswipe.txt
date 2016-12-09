@@ -1,0 +1,5 @@
+Gallery.php
+Modal.php
+PhotoswipeAsset.php
+README.md
+composer.json

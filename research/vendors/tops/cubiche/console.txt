@@ -1,0 +1,13 @@
+Api/Config/
+Command/
+Config/
+Converter/
+Handler/
+Tests/
+.atoum.php
+.atoum.travis.php
+.bootstrap.atoum.php
+.travis.yml
+ConsoleApplication.php
+README.md
+composer.json

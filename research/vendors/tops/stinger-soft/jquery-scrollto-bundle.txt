@@ -1,0 +1,6 @@
+Resources/public/js/
+.project
+LICENSE
+README.md
+StingerSoftJQueryScrollToBundle.php
+composer.json

@@ -1,0 +1,8 @@
+example/
+src/
+tests/
+.gitignore
+COPYING
+README.md
+composer.json
+phpunit.xml

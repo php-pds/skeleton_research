@@ -1,0 +1,5 @@
+src/StpBoard/Heroku/
+.gitignore
+README.md
+composer.json
+composer.lock

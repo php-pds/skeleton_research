@@ -1,0 +1,6 @@
+config/
+src/AssetManager/Controller/
+.DS_Store
+Module.php
+README.md
+composer.json

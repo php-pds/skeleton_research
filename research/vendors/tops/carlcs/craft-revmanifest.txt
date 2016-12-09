@@ -1,0 +1,10 @@
+models/
+services/
+twigextensions/
+variables/
+.gitignore
+RevManifestPlugin.php
+composer.json
+config.php
+readme.md
+releases.json

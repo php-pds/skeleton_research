@@ -1,0 +1,9 @@
+.phpcs/Barracuda/
+extras/
+src/
+test/
+.codeclimate.yml
+CHANGELOG.txt
+LICENSE
+README.md
+composer.json

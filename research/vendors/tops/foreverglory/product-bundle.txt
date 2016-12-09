@@ -1,0 +1,7 @@
+Controller/
+DependencyInjection/
+Resources/
+Tests/Controller/
+.gitattributes
+GloryProductBundle.php
+composer.json

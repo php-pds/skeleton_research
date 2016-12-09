@@ -1,0 +1,15 @@
+Config/
+Console/Command/Task/
+Controller/Component/
+Lib/
+Locale/jpn/LC_MESSAGES/
+Model/
+Test/
+Utility/
+Vendor/
+View/
+webroot/
+.travis.yml
+README.md
+composer.json
+phpunit.xml.dist

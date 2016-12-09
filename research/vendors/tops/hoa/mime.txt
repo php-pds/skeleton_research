@@ -1,0 +1,10 @@
+Documentation/
+Exception/
+Test/Integration/
+.State
+.gitignore
+CHANGELOG.md
+Mime.php
+Mime.types
+README.md
+composer.json

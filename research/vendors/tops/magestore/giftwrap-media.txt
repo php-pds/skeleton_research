@@ -1,0 +1,2 @@
+pub/media/magestore/giftwrap/
+composer.json

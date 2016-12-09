@@ -1,0 +1,9 @@
+Tests/
+.travis.yml
+DataCollectionInterface.php
+DataCollectionTrait.php
+LICENSE
+PriorityQueue.php
+README.md
+composer.json
+phpunit.xml

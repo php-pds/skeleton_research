@@ -1,0 +1,16 @@
+DependencyInjection/
+Listener/
+Notify/
+Profiler/
+RequestId/
+Resources/
+Tests/
+Transformer/
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+SoclozMonitoringBundle.php
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,13 @@
+config/
+icons/
+languages/applicationLog/
+public/images/modules/ApplicationLog/priority/
+sql/grid-applicationlog/site/
+src/Grid/ApplicationLog/
+vendor/
+view/grid/application-log/admin/
+.gitignore
+LICENSE.txt
+Module.php
+README.md
+composer.json

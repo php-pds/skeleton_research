@@ -1,0 +1,8 @@
+docs/
+lib/SoftLayer/
+tests/
+.gitignore
+COPYING
+README.markdown
+composer.json
+phpunit.xml.dist

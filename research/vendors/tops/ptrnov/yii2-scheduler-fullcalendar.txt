@@ -1,0 +1,12 @@
+assets/
+demos/
+models/
+test/
+CHANGE.MD
+CoreAsset.php
+FullcalendarScheduler.php
+MomentAsset.php
+PrintAsset.php
+README.md
+ThemeAsset.php
+composer.json

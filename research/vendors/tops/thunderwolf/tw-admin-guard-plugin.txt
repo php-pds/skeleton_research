@@ -1,0 +1,10 @@
+config/
+data/fixtures/
+lib/
+modules/
+.gitignore
+LICENSE
+README
+README.md
+composer.json
+package.xml.tmpl

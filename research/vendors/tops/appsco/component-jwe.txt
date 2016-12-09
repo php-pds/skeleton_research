@@ -1,0 +1,9 @@
+src/BWC/Component/Jwe/
+test/BWC/Component/Jwe/Test/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+README.md
+autoload.php
+composer.json
+phpunit.xml.dist

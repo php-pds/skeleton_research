@@ -1,0 +1,7 @@
+src/Codeaken/SshAgent/
+tests/
+.editorconfig
+.gitignore
+LICENSE
+composer.json
+phpunit.xml

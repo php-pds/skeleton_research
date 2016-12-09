@@ -1,0 +1,10 @@
+assets/
+componments/
+controllers/
+models/
+views/
+.gitignore
+Module.php
+README.md
+RbacAsset.php
+composer.json

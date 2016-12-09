@@ -1,0 +1,6 @@
+bin/
+LICENSE
+README.md
+bootstrap.php
+composer.json
+composer.lock

@@ -1,0 +1,7 @@
+config/
+src/DeitAuthenticationModule/
+view/deit-authentication-module/
+.gitignore
+Module.php
+README.md
+composer.json

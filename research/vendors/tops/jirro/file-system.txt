@@ -1,0 +1,7 @@
+Container/ServiceProvider/
+.gitignore
+FileSystemAwareInterface.php
+FileSystemAwareTrait.php
+LICENSE.md
+README.md
+composer.json

@@ -1,0 +1,7 @@
+src/JMBTechnologyLimited/OSMaths/
+tests/
+.gitignore
+.travis.yml
+LICENSE.md
+README.md
+composer.json

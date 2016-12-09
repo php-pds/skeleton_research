@@ -1,0 +1,10 @@
+doc/
+example/
+lib/
+tests/
+.gitignore
+CHANGELOG
+CREDITS
+LICENCE
+README
+composer.json

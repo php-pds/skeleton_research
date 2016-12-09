@@ -1,0 +1,9 @@
+app/
+public/
+.bowerrc
+.gitignore
+bower.json
+composer.json
+gulpfile.js
+package.json
+simplified

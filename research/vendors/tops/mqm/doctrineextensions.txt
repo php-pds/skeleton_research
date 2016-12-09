@@ -1,0 +1,6 @@
+lib/DoctrineExtensions/
+tests/
+.gitignore
+README.markdown
+composer.json
+pearfarm.spec

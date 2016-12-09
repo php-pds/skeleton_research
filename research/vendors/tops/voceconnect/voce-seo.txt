@@ -1,0 +1,10 @@
+admin/
+config/deploy/
+.gitignore
+Capfile
+Gruntfile.js
+composer.json
+composer.lock
+package.json
+readme.txt
+voce-seo.php

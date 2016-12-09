@@ -1,0 +1,17 @@
+actions/
+apache/
+change-commands/
+changedev-commands/default/
+config/
+forms/editor/
+i18n/
+lib/
+patch/
+persistentdocument/
+setup/
+style/
+templates/
+views/
+webapp/www/media/frontoffice/
+LICENSE.txt
+change.xml

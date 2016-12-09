@@ -1,0 +1,7 @@
+app/
+src/
+web/
+.gitignore
+.skeleton-version
+LICENSE
+composer.json

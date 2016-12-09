@@ -1,0 +1,10 @@
+config/
+src/RbVersion/
+test/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE.md
+Module.php
+README.md
+composer.json

@@ -1,0 +1,4 @@
+src/Fortissimo/Guzzle/
+.gitignore
+README.md
+composer.json

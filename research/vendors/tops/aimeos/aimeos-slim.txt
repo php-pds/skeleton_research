@@ -1,0 +1,13 @@
+resources/mimeicons/
+src/
+templates/
+tests/
+.coveralls.yml
+.gitignore
+.travis.yml
+LICENSE
+README.md
+cache.php
+composer.json
+jobs.php
+phpunit.xml.dist

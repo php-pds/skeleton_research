@@ -1,0 +1,13 @@
+bin/
+lib/UCD/
+resources/generated/
+spec/UCD/
+test/integration/UCD/
+.gitignore
+.travis.yml
+LICENSE
+Makefile
+README.md
+composer.json
+phpspec.yml
+phpunit.xml

@@ -1,0 +1,12 @@
+Form/
+Metadata/
+Soap/
+Soql/
+Test/
+Validator/Constraints/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

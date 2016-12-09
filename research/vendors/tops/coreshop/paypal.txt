@@ -1,0 +1,11 @@
+controllers/
+install/
+lib/Paypal/
+static/
+views/scripts/payment/
+.gitignore
+.php_cs
+README.md
+composer.json
+composer.lock
+plugin.xml

@@ -1,0 +1,12 @@
+app/
+public/
+src/Dash/
+tests/spec/Dash/
+.coveralls.yml
+.env.example
+.gitignore
+.travis.yml
+LICENSE.md
+README.md
+composer.json
+phpspec.yml

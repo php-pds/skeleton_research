@@ -1,0 +1,12 @@
+actions/
+admin_actions/
+includes/
+tests/
+.codeclimate.yml
+.gitignore
+.travis.yml
+CHANGELOG.md
+README.md
+TODO.md
+composer.json
+phpunit.xml

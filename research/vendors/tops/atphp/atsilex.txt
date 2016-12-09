@@ -1,0 +1,13 @@
+modules/
+public/
+resources/
+src/
+.gitignore
+.travis.yml
+CHANGELOG.txt
+README.md
+bootstrap.php
+composer.json
+composer.lock
+config.default.php
+phpunit.xml.dist

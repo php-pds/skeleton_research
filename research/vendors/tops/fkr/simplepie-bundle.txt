@@ -1,0 +1,5 @@
+DependencyInjection/
+Resources/
+FkrSimplePieBundle.php
+README.md
+composer.json

@@ -1,0 +1,5 @@
+lib/Sendgrid/
+LICENSE
+README.md
+composer.json
+plugin.xml

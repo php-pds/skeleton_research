@@ -1,0 +1,11 @@
+bin/
+src/
+templates/
+tests/
+.gitattributes
+.gitignore
+.scrutinizer.yml
+.travis.yml
+README.md
+autoload.php
+composer.json

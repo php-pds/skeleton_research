@@ -1,0 +1,12 @@
+DependencyInjection/
+Entity/
+Manager/
+Repository/
+Resources/config/
+Tests/Unit/
+.gitignore
+CarGalleryCoreBundle.php
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

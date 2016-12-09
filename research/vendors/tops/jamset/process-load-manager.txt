@@ -1,0 +1,7 @@
+images/
+src/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock

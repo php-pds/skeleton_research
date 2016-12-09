@@ -1,0 +1,7 @@
+examples/
+README.md
+bower.json
+composer.json
+jquery.slimscroll.js
+jquery.slimscroll.min.js
+package.json

@@ -1,0 +1,9 @@
+DependencyInjection/
+Form/Type/
+Resources/
+Twig/Extension/
+EWZRedactorEditorBundle.php
+LICENSE
+README.md
+composer.json
+redactor-js.png

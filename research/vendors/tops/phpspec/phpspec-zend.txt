@@ -1,0 +1,6 @@
+build/
+spec/
+src/PHPSpec/Context/
+LICENSE
+README.markdown
+composer.json

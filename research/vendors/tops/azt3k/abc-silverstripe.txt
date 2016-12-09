@@ -1,0 +1,13 @@
+_config/
+bin/
+docs/
+src/abc/
+tests/
+thirdparty/
+.bowerrc
+.travis.yml
+README.md
+TODO.md
+_config.php
+bower.json
+composer.json

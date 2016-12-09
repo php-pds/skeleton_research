@@ -1,0 +1,9 @@
+app/
+.gitignore
+.travis.yml
+LICENSE.txt
+README.md
+aoe-logo.png
+composer.json
+modman
+phpcs.xml

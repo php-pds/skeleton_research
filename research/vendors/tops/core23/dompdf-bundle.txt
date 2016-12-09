@@ -1,0 +1,16 @@
+DependencyInjection/
+Resources/config/
+Tests/
+Wrapper/
+.gitattributes
+.gitignore
+.php_cs
+.styleci.yml
+.travis.yml
+Core23DompdfBundle.php
+LICENSE.md
+Makefile
+README.md
+build.xml
+composer.json
+phpunit.xml.dist

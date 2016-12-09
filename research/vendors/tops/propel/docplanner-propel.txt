@@ -1,0 +1,11 @@
+generator/
+runtime/
+test/
+.gitignore
+.travis.yml
+CHANGELOG
+INSTALL
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,4 @@
+module/SilexAssets/
+.gitignore
+composer.json
+readme.md

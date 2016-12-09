@@ -1,0 +1,10 @@
+_config/
+code/
+templates/email/
+tests/
+.editorconfig
+.gitattributes
+.travis.yml
+README.md
+_config.php
+composer.json

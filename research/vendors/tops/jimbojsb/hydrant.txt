@@ -1,0 +1,6 @@
+src/Hydrant/
+tests/
+.gitignore
+.travis.yml
+Readme.markdown
+composer.json

@@ -1,0 +1,11 @@
+build/
+docs/
+src/JoshuaEstes/Component/FeatureToggle/
+tests/
+.gitignore
+.travis.yml
+CHANGELOG
+CONTRIBUTING.md
+LICENSE
+README.md
+composer.json

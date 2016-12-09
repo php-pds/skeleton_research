@@ -1,0 +1,8 @@
+commands/
+services/
+tests/
+.gitattributes
+.travis.yml
+QueueModule.php
+README.md
+composer.json

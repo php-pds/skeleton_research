@@ -1,0 +1,10 @@
+behaviors/
+commands/
+components/
+tests/
+.gitignore
+README.md
+codecept.phar
+codeception.yml
+composer.json
+composer.lock

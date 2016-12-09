@@ -1,0 +1,12 @@
+action/
+configs/phpstorm/
+install/
+lib/
+.gitignore
+LICENSE
+README.md
+base.sh
+composer.json
+create_certificat_nginx.sh
+php_upgrade_to_5.5.sh
+upgrade_auto.sh

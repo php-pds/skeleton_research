@@ -1,0 +1,10 @@
+lib/
+.gitattributes
+.gitignore
+.travis.yml
+CHANGES.md
+LICENSE
+README.md
+composer.json
+plugin.php
+readme.txt

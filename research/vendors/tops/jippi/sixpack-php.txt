@@ -1,0 +1,6 @@
+src/Seatgeek/Sixpack/
+.gitignore
+.semver
+LICENSE.TXT
+README.md
+composer.json

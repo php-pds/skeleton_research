@@ -1,0 +1,11 @@
+App/
+Controller/
+DependencyInjection/
+Resources/config/
+Tests/
+.gitignore
+.travis.yml
+README.md
+WkVersionBundle.php
+composer.json
+phpunit.xml.dist

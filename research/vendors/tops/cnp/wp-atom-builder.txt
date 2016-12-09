@@ -1,0 +1,4 @@
+.gitignore
+cnp-atom-builder.php
+composer.json
+readme.md

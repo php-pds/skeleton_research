@@ -1,0 +1,6 @@
+Classes/Ag/Event/
+Configuration/
+Migrations/
+Tests/Functional/EventService/
+README.rst
+composer.json

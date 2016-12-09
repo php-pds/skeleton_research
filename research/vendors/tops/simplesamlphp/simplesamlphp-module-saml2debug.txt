@@ -1,0 +1,7 @@
+hooks/
+templates/
+www/
+LICENSE
+README.md
+composer.json
+default-enable

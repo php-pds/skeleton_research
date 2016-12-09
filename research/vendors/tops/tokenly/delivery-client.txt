@@ -1,0 +1,9 @@
+examples/
+src/Tokenly/DeliveryClient/
+test/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

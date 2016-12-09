@@ -1,0 +1,8 @@
+build/
+examples/
+src/RestRemoteObject/
+tests/
+.gitignore
+.travis.yml
+README.md
+composer.json

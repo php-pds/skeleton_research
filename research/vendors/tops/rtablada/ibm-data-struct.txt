@@ -1,0 +1,5 @@
+src/Rtablada/IbmDataStruct/
+test/
+.gitignore
+README.md
+composer.json

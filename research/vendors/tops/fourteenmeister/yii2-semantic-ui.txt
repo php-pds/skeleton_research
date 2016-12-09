@@ -1,0 +1,9 @@
+assets/
+collections/
+modules/
+widgets/
+Elements.php
+InputWidget.php
+README.md
+Widget.php
+composer.json

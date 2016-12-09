@@ -1,0 +1,15 @@
+src/
+tests/
+.codeclimate.yml
+.gitignore
+.php_cs
+.phpmdRuleset.xml
+.travis.check-php-version-coverage.php
+.travis.install.sh
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+UPGRADE.md
+composer.json
+grumphp.yml

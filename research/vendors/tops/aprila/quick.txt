@@ -1,0 +1,3 @@
+src/Quick/
+composer.json
+license.md

@@ -1,0 +1,7 @@
+Config/
+Hook/
+I18n/
+templates/frontOffice/default/
+HookNewsletter.php
+LICENSE.txt
+composer.json

@@ -1,0 +1,6 @@
+src/Appcia/BitMask/
+tests/
+LICENSE
+README.md
+composer.json
+phpunit.xml

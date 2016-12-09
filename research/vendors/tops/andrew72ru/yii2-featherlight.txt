@@ -1,0 +1,7 @@
+featherlight/
+FeatherLight.php
+FeatherlightAsset.php
+FeatherlightGallery.php
+FeatherlightGalleryAsset.php
+README.md
+composer.json

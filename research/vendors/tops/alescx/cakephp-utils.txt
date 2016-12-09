@@ -1,0 +1,8 @@
+config/
+src/
+webroot/
+.gitignore
+composer.json
+license.md
+readme.md
+version.md

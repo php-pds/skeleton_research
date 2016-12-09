@@ -1,0 +1,13 @@
+bin/
+library/Zend/
+resources/languages/
+.gitattributes
+.gitignore
+.travis.yml
+CONTRIBUTING.md
+DEVELOPMENT_README.md
+INSTALL.md
+LICENSE.txt
+README-GIT.md
+README.md
+composer.json

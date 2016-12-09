@@ -1,0 +1,6 @@
+Annotation/
+DependencyInjection/
+Parameter/
+Resources/
+CannibalParameterBundle.php
+composer.json

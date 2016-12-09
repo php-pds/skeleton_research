@@ -1,0 +1,11 @@
+resources/css/
+src/
+tests/
+.codeclimate.yml
+.formatter.yml
+.gitignore
+.travis.yml
+LICENCE
+README.md
+composer.json
+phpunit.xml.dist

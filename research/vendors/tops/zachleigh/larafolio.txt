@@ -1,0 +1,16 @@
+dist/
+src/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+artisan
+codeception.yml
+composer.json
+composer.lock
+gulpfile.js
+idealApi.text
+package.json
+phpunit.xml
+yarn.lock

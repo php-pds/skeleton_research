@@ -1,0 +1,11 @@
+docs/
+src/
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE.md
+README.md
+RELEASENOTES.md
+composer.json
+phpcs.xml

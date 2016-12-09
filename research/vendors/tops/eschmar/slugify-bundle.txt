@@ -1,0 +1,9 @@
+DependencyInjection/
+Resources/
+Twig/
+Util/
+.gitignore
+EschmarSlugifyBundle.php
+LICENSE
+README.md
+composer.json

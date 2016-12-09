@@ -1,0 +1,14 @@
+config/
+public/
+resources/lang/
+src/
+views/
+.bowerrc
+.gitattributes
+.gitignore
+README.md
+bower.json
+composer.json
+gulp-config.json
+gulpfile.js
+package.json

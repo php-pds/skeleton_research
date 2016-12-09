@@ -1,0 +1,12 @@
+components/
+controllers/
+mail/
+messages/
+migrations/
+models/
+views/
+widgets/
+LICENSE
+Module.php
+README.md
+composer.json

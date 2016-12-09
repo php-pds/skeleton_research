@@ -1,0 +1,11 @@
+assets/
+controllers/
+migrations/
+models/
+views/
+widgets/
+ApiAsset.php
+ApiModule.php
+DatatableAsset.php
+README
+composer.json

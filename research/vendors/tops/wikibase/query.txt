@@ -1,0 +1,17 @@
+i18n/
+resources/
+src/
+tests/
+.gitignore
+.gitreview
+.travis.sh
+.travis.yml
+COPYING
+README.md
+RELEASE-NOTES.md
+WikibaseQuery.i18n.aliases.php
+WikibaseQuery.i18n.php
+WikibaseQuery.php
+composer.json
+phpunit.xml.dist
+querycli

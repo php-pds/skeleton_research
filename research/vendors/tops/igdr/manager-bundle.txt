@@ -1,0 +1,12 @@
+DependencyInjection/
+Event/
+Form/Type/
+Manager/
+Model/
+Resources/config/
+.gitignore
+IgdrManagerBundle.php
+IgdrManagerEvents.php
+README.md
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,8 @@
+bin/
+src/Cashflow/
+test/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json

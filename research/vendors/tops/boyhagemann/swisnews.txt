@@ -1,0 +1,5 @@
+swis_website/nieuws/
+webbeheer/modules/nieuws/
+.gitattributes
+.gitignore
+composer.json

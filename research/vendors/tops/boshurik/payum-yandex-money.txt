@@ -1,0 +1,8 @@
+Action/
+Bridge/Symfony/
+.gitignore
+Api.php
+LICENSE
+README.md
+YandexMoneyGatewayFactory.php
+composer.json

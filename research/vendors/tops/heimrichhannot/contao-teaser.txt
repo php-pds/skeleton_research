@@ -1,0 +1,9 @@
+classes/backend/
+config/
+dca/
+docs/img/
+elements/
+languages/de/
+templates/
+README.md
+composer.json

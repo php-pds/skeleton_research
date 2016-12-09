@@ -1,0 +1,6 @@
+App/
+public/
+.gitattributes
+.gitignore
+.htaccess
+composer.json

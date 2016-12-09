@@ -1,0 +1,14 @@
+demo/
+docs/
+src/idiorm/orm/
+tests/
+.editorconfig
+.gitattributes
+.gitignore
+.scrutinizer.yml
+.styleci.yml
+.travis.yml
+CONTRIBUTING.md
+README.markdown
+composer.json
+phpunit.xml

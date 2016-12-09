@@ -1,0 +1,14 @@
+tests/
+.gitignore
+.travis.yml
+Currency.php
+ExchangeManager.php
+ExchangeRate.php
+ExchangeRateException.php
+LICENSE
+Money.php
+README.md
+UnknownCurrencyException.php
+composer.json
+phpunit.xml
+precisions.php

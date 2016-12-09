@@ -1,0 +1,4 @@
+src/DbSimple/
+.gitignore
+README.txt
+composer.json

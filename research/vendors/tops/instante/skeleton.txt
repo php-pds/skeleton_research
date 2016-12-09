@@ -1,0 +1,15 @@
+app/
+bin/
+frontend/
+log/
+migrations/
+temp/
+tests/
+vendor/
+www/
+.gitattributes
+.gitignore
+.travis.yml
+composer.json
+license.md
+readme.md

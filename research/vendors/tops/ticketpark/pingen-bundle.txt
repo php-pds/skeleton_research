@@ -1,0 +1,7 @@
+DependencyInjection/
+Pingen/
+Resources/
+.gitignore
+README.md
+TicketparkPingenBundle.php
+composer.json

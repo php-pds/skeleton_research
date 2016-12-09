@@ -1,0 +1,7 @@
+lib/
+.gitignore
+README.md
+c3.php
+composer.json
+develop_init.php
+pre-commit.sh

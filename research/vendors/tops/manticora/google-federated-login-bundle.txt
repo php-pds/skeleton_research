@@ -1,0 +1,11 @@
+DependencyInjection/
+Resources/config/
+Security/RelyingParty/
+Tests/
+.gitignore
+.travis.yml
+LICENSE
+ManticoraGoogleFederatedLoginBundle.php
+README.markdown
+composer.json
+phpunit.xml.dist

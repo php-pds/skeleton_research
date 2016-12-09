@@ -1,0 +1,7 @@
+Classes/In2code/SurfGui/
+Configuration/
+Documentation/en/
+Meta/
+Migrations/Mysql/
+Resources/
+composer.json

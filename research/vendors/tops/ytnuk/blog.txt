@@ -1,0 +1,4 @@
+locale/
+src/Blog/
+README.md
+composer.json

@@ -1,0 +1,8 @@
+assets/javascripts/
+src/Codesleeve/L4AssetHandlebars/
+tests/
+.gitignore
+.travis.yml
+README.md
+composer.json
+phpunit.xml

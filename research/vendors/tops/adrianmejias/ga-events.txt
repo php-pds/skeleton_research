@@ -1,0 +1,7 @@
+.gitignore
+LICENSE
+README.md
+bower.json
+composer.json
+ga-events.js
+ga-events.min.js

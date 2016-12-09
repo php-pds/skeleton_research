@@ -1,0 +1,10 @@
+src/
+test/
+.borisrc
+.gitignore
+README.rst
+composer.json
+composer.lock
+junk.php
+test.php
+tpl.php

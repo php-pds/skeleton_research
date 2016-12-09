@@ -1,0 +1,5 @@
+Classes/
+Documentation/
+.styleci.yml
+README.md
+composer.json

@@ -1,0 +1,10 @@
+src/Rabman/
+tests/
+.editorconfig
+.gitignore
+Dockerfile
+LICENSE.txt
+Makefile
+README.md
+codeception.yml
+composer.json

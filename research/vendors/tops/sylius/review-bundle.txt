@@ -1,0 +1,15 @@
+DependencyInjection/
+Doctrine/ORM/Subscriber/
+EventListener/
+Form/Type/
+Resources/
+Updater/
+spec/
+test/
+.gitignore
+CHANGELOG.md
+README.md
+SyliusReviewBundle.php
+composer.json
+phpspec.yml
+phpunit.xml.dist

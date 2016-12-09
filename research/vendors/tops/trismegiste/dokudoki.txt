@@ -1,0 +1,10 @@
+doc/img/
+src/
+tests/
+.gitignore
+.mondrian.yml
+.travis.yml
+README.md
+composer.json
+phpdoc.xml
+phpunit.xml

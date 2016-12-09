@@ -1,0 +1,8 @@
+.gitignore
+LICENSE
+MicroPluginAsset.php
+README.md
+Selectize.php
+SelectizeAsset.php
+SifterAsset.php
+composer.json

@@ -1,0 +1,10 @@
+Config/
+Lib/
+Model/Behavior/
+Test/
+View/Helper/
+.gitignore
+.travis.yml
+LICENSE
+README.textile
+composer.json

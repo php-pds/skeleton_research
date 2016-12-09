@@ -1,0 +1,9 @@
+Command/
+DependencyInjection/
+Propel/Model/
+Resources/config/
+Service/
+FenrizbesIpGeoBaseBundle.php
+LICENSE
+README.md
+composer.json

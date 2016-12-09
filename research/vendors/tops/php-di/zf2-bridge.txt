@@ -1,0 +1,13 @@
+config/
+misc/
+quickstart/
+src/DI/ZendFramework2/
+tests/
+vendor/
+.gitattributes
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml

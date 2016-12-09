@@ -1,0 +1,5 @@
+src/SymfonyConsoleModule/
+.gitignore
+Module.php
+README.md
+composer.json

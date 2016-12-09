@@ -1,0 +1,15 @@
+assets/
+libs/
+src/ResponsiveImages/
+.bowerrc
+.gitignore
+.htaccess
+Gruntfile.js
+LICENSE
+README.md
+ResponsiveImage.php
+bower.json
+composer.json
+composer.lock
+init.php
+package.json

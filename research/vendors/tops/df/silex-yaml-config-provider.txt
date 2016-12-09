@@ -1,0 +1,11 @@
+bin/scripts/
+src/Silex/Provider/
+tests/
+.gitattributes
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

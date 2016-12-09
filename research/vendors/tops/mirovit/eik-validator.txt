@@ -1,0 +1,8 @@
+src/EIKValidator/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock

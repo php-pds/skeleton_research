@@ -1,0 +1,5 @@
+Filter/
+.gitignore
+AsseticServiceProvider.php
+README.md
+composer.json

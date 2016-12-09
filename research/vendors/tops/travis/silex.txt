@@ -1,0 +1,7 @@
+nbproject/
+vendor/
+web/
+.gitignore
+.htaccess
+composer.json
+composer.lock

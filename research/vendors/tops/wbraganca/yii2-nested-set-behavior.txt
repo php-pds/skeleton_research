@@ -1,0 +1,7 @@
+schema/
+.gitignore
+NestedSetBehavior.php
+NestedSetQuery.php
+NestedSetQueryBehavior.php
+README.md
+composer.json

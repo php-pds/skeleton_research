@@ -1,0 +1,7 @@
+docs/images/
+src/
+.gitignore
+Makefile
+README.md
+auth.json
+composer.json

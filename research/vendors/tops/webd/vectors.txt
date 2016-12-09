@@ -1,0 +1,5 @@
+src/webd/vectors/
+tests/
+.gitignore
+README.md
+composer.json

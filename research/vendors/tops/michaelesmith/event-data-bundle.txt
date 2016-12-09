@@ -1,0 +1,10 @@
+DataCollector/
+DependencyInjection/
+EventListener/
+Resources/
+Tests/
+.gitignore
+MSEventDataBundle.php
+README.md
+composer.json
+phpunit.xml.dist

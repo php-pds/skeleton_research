@@ -1,0 +1,6 @@
+public/js/
+src/
+views/
+Readme.md
+composer.json
+devutils.php

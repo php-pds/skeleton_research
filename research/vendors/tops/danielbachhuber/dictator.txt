@@ -1,0 +1,11 @@
+bin/
+features/
+php/
+utils/
+.gitignore
+.travis.yml
+CONTRIBUTING.md
+README.md
+autoload.php
+composer.json
+dictator.php

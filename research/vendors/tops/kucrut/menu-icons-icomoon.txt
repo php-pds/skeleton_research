@@ -1,0 +1,11 @@
+assets/
+css/
+languages/
+.gitattributes
+.gitignore
+composer.json
+icomoon-ip.php
+icomoon.php
+menu-icons-icomoon.php
+readme.md
+readme.txt

@@ -1,0 +1,12 @@
+Ghastly/
+images/
+posts/
+.gitignore
+.htaccess
+.travis.yml
+README.md
+UNLICENSE
+composer.json
+config.sample.php
+index.php
+phpunit.xml

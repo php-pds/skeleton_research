@@ -1,0 +1,14 @@
+bin/
+src/
+webpack/
+.editorconfig
+.eslintignore
+.eslintrc.json
+.gitattributes
+.gitignore
+.gitlab-ci.yml
+CHANGELOG.md
+CONTRIBUTING.md
+LICENSE.md
+README.md
+package.json

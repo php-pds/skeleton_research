@@ -1,0 +1,13 @@
+assets/
+classes/
+config/
+dca/
+docs/img/
+languages/
+models/
+templates/
+widgets/
+.bowerrc
+CHANGELOG.md
+README.md
+composer.json

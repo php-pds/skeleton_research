@@ -1,0 +1,10 @@
+etc/
+src/
+vagrant/
+.gitignore
+CHANGELOG.md
+LICENSE
+README.md
+composer.json
+composer.lock
+exampled.php

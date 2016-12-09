@@ -1,0 +1,5 @@
+.gitignore
+GoogleAdSense.php
+LICENSE
+README.md
+composer.json

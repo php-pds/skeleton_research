@@ -1,0 +1,14 @@
+config/
+src/AckContent/
+test/
+view/ack-content/
+.gitignore
+.travis.yml
+LICENSE.txt
+Module.php
+README.md
+autoload_classmap.php
+autoload_function.php
+autoload_register.php
+composer.json
+phpunit.xml

@@ -1,0 +1,10 @@
+resources/coverage/
+src/
+.atoum.php
+.atoum.travis.php
+.bootstrap.atoum.php
+.gitignore
+.travis.yml
+README.md
+composer.json
+test-generator

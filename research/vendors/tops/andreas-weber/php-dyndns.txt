@@ -1,0 +1,9 @@
+src/DynDNS/
+tests/DynDNS/Tests/
+.gitattributes
+.gitignore
+LICENSE
+README.md
+composer.json
+demo.php
+phpunit.xml.dist

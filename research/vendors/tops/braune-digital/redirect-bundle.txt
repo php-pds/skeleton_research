@@ -1,0 +1,7 @@
+DependencyInjection/
+Entity/
+EventListener/
+Resources/config/
+BrauneDigitalRedirectBundle.php
+README.md
+composer.json

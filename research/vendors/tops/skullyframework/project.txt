@@ -1,0 +1,16 @@
+.hostingheroes/hooks/
+App/
+config/
+library/
+migrations/skully/
+public/
+vendor/
+.gitignore
+.htaccess.original
+README.md
+bootstrap.php
+composer.json
+composer.phar
+console
+globals.php
+index.php

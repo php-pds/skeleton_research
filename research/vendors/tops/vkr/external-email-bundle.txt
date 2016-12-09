@@ -1,0 +1,11 @@
+DependencyInjection/
+Interfaces/
+Resources/config/
+Services/
+TestFixtures/
+TestHelpers/
+Tests/Services/
+.gitignore
+README.md
+VKRExternalEmailBundle.php
+composer.json

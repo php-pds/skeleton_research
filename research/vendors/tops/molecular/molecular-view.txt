@@ -1,0 +1,4 @@
+src/MolecularView/
+.gitattributes
+.gitignore
+composer.json

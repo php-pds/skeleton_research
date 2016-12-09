@@ -1,0 +1,5 @@
+examples/
+src/Smarkio/Revisor/
+.gitignore
+README.md
+composer.json

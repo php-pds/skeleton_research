@@ -1,0 +1,7 @@
+src/Bravo3/ImageManager/
+tests/
+.gitignore
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

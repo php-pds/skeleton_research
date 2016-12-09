@@ -1,0 +1,8 @@
+assets/
+libs/
+templates/
+EntityManager.module.php
+README.md
+action.editor.php
+composer.json
+index.html

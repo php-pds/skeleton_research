@@ -1,0 +1,10 @@
+spec/
+src/Ingenerator/Config/
+.gitattributes
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+koharness.php
+phpspec.yml

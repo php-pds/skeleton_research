@@ -1,0 +1,9 @@
+spec/watoki/reflect/
+src/watoki/reflect/
+.gitignore
+.travis.yml
+LICENCE
+README.md
+bootstrap.php
+composer.json
+phpunit.xml.dist

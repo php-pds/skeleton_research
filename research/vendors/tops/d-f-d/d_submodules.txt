@@ -1,0 +1,11 @@
+config/install/
+src/
+submodules/
+templates/
+README.md
+composer.json
+d_submodules.drush.inc
+d_submodules.info.yml
+d_submodules.install
+d_submodules.module
+d_submodules.routing.yml

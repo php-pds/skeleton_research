@@ -1,0 +1,6 @@
+src/
+.gitignore
+AI.php
+LICENSE
+README.md
+composer.json

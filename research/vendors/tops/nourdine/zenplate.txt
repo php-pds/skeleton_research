@@ -1,0 +1,6 @@
+src/zenplate/
+test/
+.gitignore
+README.md
+composer.json
+phpunit.xml

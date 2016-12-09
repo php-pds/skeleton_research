@@ -1,0 +1,8 @@
+config/
+data/
+src/Auth/
+LICENSE
+Module.php
+README.md
+autoload_classmap.php
+composer.json

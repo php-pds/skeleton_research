@@ -1,0 +1,7 @@
+Adapters/
+Tests/
+.gitignore
+ImageProcessor.php
+LICENSE
+README.md
+composer.json

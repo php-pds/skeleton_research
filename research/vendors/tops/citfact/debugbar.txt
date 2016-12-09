@@ -1,0 +1,10 @@
+docs/
+install/
+lang/ru/
+lib/
+LICENSE
+README.md
+composer.json
+default_option.php
+include.php
+options.php

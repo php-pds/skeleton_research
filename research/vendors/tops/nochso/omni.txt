@@ -1,0 +1,16 @@
+src/
+test/
+.gitattributes
+.gitignore
+.php_cs
+.travis.yml
+API.md
+CHANGELOG.md
+CONTRIBUTING.md
+LICENSE.md
+README.md
+WRITEME.md
+composer.json
+composer.lock
+phpunit.xml.dist
+wm.api.md

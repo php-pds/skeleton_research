@@ -1,0 +1,17 @@
+AdminBundle/
+Tests/
+.gitignore
+.travis.yml
+Dockerfile
+README.md
+build.xml
+composer.json
+composer.lock
+docker-compose.yml
+entrypoint.sh
+gulpfile.js
+less.sh
+package.json
+phpmd.xml
+phpunit.xml
+travis.ini

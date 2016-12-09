@@ -1,0 +1,10 @@
+Config/
+Controller/
+Entity/
+Listener/
+Repository/
+Resources/
+Templates/scripts/Admin/
+FavoriteBundle.php
+README.md
+composer.json

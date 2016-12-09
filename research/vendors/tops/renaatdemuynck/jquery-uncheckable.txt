@@ -1,0 +1,8 @@
+example/
+LICENSE
+README.md
+bower.json
+composer.json
+jquery.uncheckable.js
+jquery.uncheckable.min.js
+package.json

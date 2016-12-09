@@ -1,0 +1,5 @@
+lib/Midnight/Image/
+tests/
+.gitignore
+README.md
+composer.json

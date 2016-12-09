@@ -1,0 +1,8 @@
+config/install/
+src/
+.gitignore
+README.md
+composer.json
+markaspot_validation.info.yml
+markaspot_validation.module
+markaspot_validation.routing.yml

@@ -1,0 +1,6 @@
+src/
+tests/TestCase/FireBase/
+.gitignore
+README.md
+composer.json
+phpunit.xml.dist

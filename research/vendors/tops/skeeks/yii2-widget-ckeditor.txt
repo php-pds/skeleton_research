@@ -1,0 +1,11 @@
+assets/js/
+presets/
+.gitignore
+CKEditor.php
+CKEditorAsset.php
+CKEditorInline.php
+CKEditorTrait.php
+CKEditorWidgetAsset.php
+LICENSE.txt
+README.md
+composer.json

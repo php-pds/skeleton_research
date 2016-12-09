@@ -1,0 +1,7 @@
+.idea/
+Resources/public/
+.gitignore
+FontAwesomeBundle.php
+LICENSE
+README.md
+composer.json

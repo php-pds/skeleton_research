@@ -1,0 +1,8 @@
+app/
+js/andKirby/configSet/
+.gitignore
+LICENSE
+README.md
+commithook.xml
+composer.json
+modman

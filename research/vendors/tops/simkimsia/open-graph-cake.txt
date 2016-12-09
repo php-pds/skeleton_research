@@ -1,0 +1,13 @@
+Controller/Component/
+Lib/
+Model/
+Test/
+View/Helper/
+wiki/
+.gitignore
+.travis.yml
+README.md
+composer.json
+coverage-checker.php
+phpunit.dist.xml
+run-caketests.php

@@ -1,0 +1,13 @@
+AdminIncludes/
+Config/
+Controller/
+Form/
+Helper/
+I18n/
+Listener/
+Model/
+templates/
+.gitignore
+OpenSearchServerSearch.php
+Readme.md
+composer.json

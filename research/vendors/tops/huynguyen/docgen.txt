@@ -1,0 +1,6 @@
+.gitignore
+.htaccess
+README.md
+composer.json
+docgen
+template.html

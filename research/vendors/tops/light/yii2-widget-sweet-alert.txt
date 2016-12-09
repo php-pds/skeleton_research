@@ -1,0 +1,7 @@
+assets/
+.editorconfig
+.gitignore
+SweetAlert.php
+SweetAlertAsset.php
+composer.json
+readme.md

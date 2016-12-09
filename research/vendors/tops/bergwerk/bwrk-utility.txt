@@ -1,0 +1,8 @@
+Classes/
+Configuration/FlexForm/
+Resources/Private/Language/
+.gitignore
+README.md
+composer.json
+ext_emconf.php
+ext_icon.png

@@ -1,0 +1,16 @@
+bin/
+config/
+data/di/
+src/WebinoData/
+test/
+vendor/
+.gitignore
+.travis.yml
+Gruntfile.js
+LICENSE
+Module.php
+README.md
+composer.json
+package.json
+phpdoc.xml
+pre-commit

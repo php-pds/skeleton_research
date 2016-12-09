@@ -1,0 +1,4 @@
+examples/
+src/Illagrenan/Navigation/
+README.md
+composer.json

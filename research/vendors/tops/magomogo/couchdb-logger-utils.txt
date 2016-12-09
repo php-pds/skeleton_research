@@ -1,0 +1,6 @@
+Magomogo/CouchLogger/
+.gitignore
+LICENSE
+README.md
+composer.json
+test.php

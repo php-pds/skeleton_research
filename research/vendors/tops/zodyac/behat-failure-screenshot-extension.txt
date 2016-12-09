@@ -1,0 +1,5 @@
+src/Zodyac/Behat/FailureScreenshotExtension/
+.gitignore
+LICENSE
+README.md
+composer.json

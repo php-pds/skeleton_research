@@ -1,0 +1,8 @@
+examples/
+src/
+.bowerrc
+.gitignore
+Gruntfile.coffee
+composer.json
+package.json
+readme.md

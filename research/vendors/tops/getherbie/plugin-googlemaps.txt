@@ -1,0 +1,6 @@
+templates/
+LICENCE.md
+README.md
+composer.json
+googlemaps.php
+googlemaps.yaml

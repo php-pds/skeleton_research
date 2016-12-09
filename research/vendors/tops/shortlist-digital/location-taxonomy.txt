@@ -1,0 +1,6 @@
+.editorconfig
+.gitignore
+LICENSE
+composer.json
+location-taxonomy.php
+readme.md

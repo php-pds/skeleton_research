@@ -1,0 +1,7 @@
+circle-ci/
+src/
+tests/
+README.md
+circle.yml
+composer.json
+modman

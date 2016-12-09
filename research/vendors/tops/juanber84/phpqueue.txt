@@ -1,0 +1,4 @@
+panel/
+phpqueue/
+README.md
+composer.json

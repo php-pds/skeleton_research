@@ -1,0 +1,7 @@
+src/Loopable/
+tests/
+.gitignore
+README.md
+autoload.php
+composer.json
+phpunit.xml.dist

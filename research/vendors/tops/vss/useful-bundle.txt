@@ -1,0 +1,8 @@
+Controller/
+DependencyInjection/
+Entity/
+Listeners/
+Resources/
+Utils/
+VssUsefulBundle.php
+composer.json

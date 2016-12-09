@@ -1,0 +1,4 @@
+Adminomatic/AutoMapper/
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,12 @@
+assets/
+controllers/admin/
+helpers/
+interfaces/
+messages/es/
+models/
+themes/basic/
+views/admin/main/
+widgets/grid/
+.gitignore
+Module.php
+composer.json

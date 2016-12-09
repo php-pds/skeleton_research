@@ -1,0 +1,14 @@
+spec/StatusLine/
+src/
+.editorconfig
+.gitattributes
+.gitignore
+.php_cs
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+phpcs.xml
+phpspec.yml

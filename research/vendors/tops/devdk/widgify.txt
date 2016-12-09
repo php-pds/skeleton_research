@@ -1,0 +1,6 @@
+assets/js/
+src/Devdk/
+.gitignore
+README.md
+composer.json
+init.php

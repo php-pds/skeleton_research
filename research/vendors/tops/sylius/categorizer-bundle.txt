@@ -1,0 +1,17 @@
+Command/
+Controller/
+DependencyInjection/
+Entity/
+EventDispatcher/
+Form/
+Manipulator/
+Model/
+Registry/
+Resources/
+Tests/
+.gitignore
+.travis.yml
+README.md
+SyliusCategorizerBundle.php
+composer.json
+phpunit.xml.dist

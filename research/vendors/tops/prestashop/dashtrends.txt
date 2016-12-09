@@ -1,0 +1,10 @@
+translations/
+views/
+CHANGELOG.txt
+Readme.md
+composer.json
+config.xml
+dashtrends.php
+index.php
+logo.gif
+logo.png

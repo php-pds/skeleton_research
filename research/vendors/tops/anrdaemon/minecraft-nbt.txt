@@ -1,0 +1,5 @@
+Minecraft/
+LICENSE.md
+README.md
+classloader.php
+composer.json

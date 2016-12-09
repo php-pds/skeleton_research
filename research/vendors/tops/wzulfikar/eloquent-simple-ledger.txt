@@ -1,0 +1,10 @@
+migrations/
+src/
+views/eloquent-simple-ledger/
+.gitignore
+composer.json
+panel-transaction-history.png
+readme.md
+routes.php
+view-with-data.png
+view-without-data.png

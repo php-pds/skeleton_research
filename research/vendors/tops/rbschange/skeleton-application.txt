@@ -1,0 +1,9 @@
+App/Config/
+bin/
+log/
+sys/
+www/
+.gitignore
+README.md
+Vagrantfile
+composer.json

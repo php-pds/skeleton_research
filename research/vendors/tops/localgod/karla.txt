@@ -1,0 +1,16 @@
+build/
+demo/
+features/
+src/Karla/
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CONTRIBUTE.md
+LICENSE.md
+README.md
+build.xml
+composer.json
+phpcs.xml
+phpdoc.dist.xml
+pmd.xml

@@ -1,0 +1,14 @@
+Column/
+Conditions/
+Configuration/
+Event/
+Exception/
+Options/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+DataGridInterface.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

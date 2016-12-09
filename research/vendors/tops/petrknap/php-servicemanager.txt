@@ -1,0 +1,8 @@
+src/ServiceManager/
+tests/ServiceManager/
+.gitignore
+LICENSE
+README.md
+VERSIONING.md
+composer.json
+phpunit.xml

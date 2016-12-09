@@ -1,0 +1,6 @@
+_newup/
+_template/
+.gitignore
+composer.json
+license.md
+readme.md

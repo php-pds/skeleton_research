@@ -1,0 +1,8 @@
+inc/
+.gitignore
+LICENSE
+composer.json
+readme.md
+robots-txt.php
+screenshot-1.png
+todo.md

@@ -1,0 +1,4 @@
+.idea/
+src/Weasty/Bundle/ResourceBundle/
+.gitignore
+composer.json

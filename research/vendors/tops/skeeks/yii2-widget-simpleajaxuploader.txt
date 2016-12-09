@@ -1,0 +1,7 @@
+.idea/
+assets/
+backend/
+Asset.php
+README.md
+Widget.php
+composer.json

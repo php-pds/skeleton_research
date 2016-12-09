@@ -1,0 +1,9 @@
+greasemonkey/
+language/
+.htaccess
+LICENSE
+composer.json
+index.html
+install.php
+rapidimage.php
+rapidimage.xml

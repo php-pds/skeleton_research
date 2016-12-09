@@ -1,0 +1,11 @@
+bin/
+bootstrap/
+config/
+migrations/
+src/
+tests/
+.gitignore
+README.md
+composer.json
+phpmig.php
+phpunit.xml.dist

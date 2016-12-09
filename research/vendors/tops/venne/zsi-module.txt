@@ -1,0 +1,5 @@
+Resources/config/
+ZsiModule/
+Module.php
+composer.json
+readme.md

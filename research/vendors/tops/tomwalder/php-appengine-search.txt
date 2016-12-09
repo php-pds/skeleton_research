@@ -1,0 +1,10 @@
+examples/
+libs/google/
+src/Search/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml

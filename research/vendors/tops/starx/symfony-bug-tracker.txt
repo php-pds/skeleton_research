@@ -1,0 +1,13 @@
+Controller/
+DependencyInjection/
+Entity/
+EventListener/
+Repository/
+Resources/
+Services/
+Tests/Controller/
+.gitignore
+LICENSE
+README.md
+StarxSymfonyBugTrackerBundle.php
+composer.json

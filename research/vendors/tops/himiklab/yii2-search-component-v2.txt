@@ -1,0 +1,6 @@
+behaviors/
+module/search/
+LICENSE
+README.md
+Search.php
+composer.json

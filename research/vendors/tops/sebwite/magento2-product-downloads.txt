@@ -1,0 +1,14 @@
+Block/
+Controller/
+Model/
+Setup/
+etc/
+i18n/
+view/
+.gitignore
+CHANGES.md
+README.md
+composer.json
+header.jpg
+registration.php
+screenshot.png

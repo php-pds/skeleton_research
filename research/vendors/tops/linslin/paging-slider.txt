@@ -1,0 +1,6 @@
+art/
+demo/
+lib/
+README.md
+bower.json
+composer.json

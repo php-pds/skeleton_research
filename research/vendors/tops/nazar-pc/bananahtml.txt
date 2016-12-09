@@ -1,0 +1,8 @@
+src/nazarpc/
+tests/
+.travis.yml
+composer.json
+documentation.md
+license.txt
+readme.md
+run-tests.php

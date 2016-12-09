@@ -1,0 +1,11 @@
+src/
+tests/
+.gitignore
+README.md
+TODO.md
+bot
+composer.json
+composer.lock
+phpunit.php
+phpunit.xml
+send

@@ -1,0 +1,10 @@
+Assetic/Filter/
+Configuration/
+DependencyInjection/
+Resources/
+Twig/
+FilterManager.php
+LICENSE
+LadelaRequireJSBundle.php
+README.md
+composer.json

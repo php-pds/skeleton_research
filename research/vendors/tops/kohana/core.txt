@@ -1,0 +1,15 @@
+classes/
+config/
+guide/kohana/
+i18n/
+media/guide/kohana/
+messages/
+tests/
+utf8/
+views/
+.gitignore
+.travis.yml
+CONTRIBUTING.md
+README.md
+composer.json
+koharness.php

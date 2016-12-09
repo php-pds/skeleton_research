@@ -1,0 +1,10 @@
+Airbrake/
+DependencyInjection/
+EventListener/
+Resources/
+tests/
+.gitignore
+PhpAirbrakeBundle.php
+README.md
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,10 @@
+bin/
+src/
+.gitignore
+.scrutinizer.yml
+Dockerfile
+LICENSE
+README.md
+composer.json
+composer.lock
+docker-compose.yml

@@ -1,0 +1,9 @@
+config/
+docs/
+src/ModulusContact/
+view/modulus-contact/
+.gitignore
+LICENSE
+Module.php
+README.md
+composer.json

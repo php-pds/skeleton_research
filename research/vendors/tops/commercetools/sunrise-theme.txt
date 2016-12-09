@@ -1,0 +1,7 @@
+assets/
+i18n/
+site/
+templates/
+translations/
+assets.json
+composer.json

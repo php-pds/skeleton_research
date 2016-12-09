@@ -1,0 +1,17 @@
+bin/
+bundles/
+data/i18n/en_US/LC_MESSAGES/
+docs/
+kernel/
+public/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE.md
+README.md
+RELEASE.md
+TODO.MD
+composer.json
+composer.lock
+myconfig.ini
+phpunit.xml.dist

@@ -1,0 +1,11 @@
+DependencyInjection/
+Resources/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CHANGELOG.md
+CONTRIBUTING.md
+Makefile
+PrestaCMSCKEditorBundle.php
+README.md
+composer.json

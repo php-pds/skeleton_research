@@ -1,0 +1,10 @@
+config/
+src/
+tests/
+.gitmodules
+.travis.yml
+CHANGELOG.md
+LICENCE
+README.md
+composer.json
+start.php

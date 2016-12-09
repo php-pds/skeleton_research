@@ -1,0 +1,13 @@
+Action/
+Bridge/Symfony/
+Resources/docs/
+Tests/
+.travis.yml
+Api.php
+CHANGELOG.md
+LICENSE
+README.md
+RedsysGatewayFactory.php
+UPGRADE.md
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,13 @@
+bin/
+code/
+tests/
+.editorconfig
+.gitignore
+.travis.yml
+code-of-conduct.md
+composer.json
+contributing.md
+license.md
+phpunit.xml.dist
+readme.md
+serve.gif

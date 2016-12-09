@@ -1,0 +1,7 @@
+DependencyInjection/
+Form/Type/
+Pagination/
+Resources/
+Tests/Pagination/
+CannibalPaginationBundle.php
+composer.json

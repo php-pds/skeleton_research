@@ -1,0 +1,13 @@
+assets/
+behaviors/
+controllers/
+migrations/
+models/
+tests/
+validators/
+web/images/
+Bootstrap.php
+Module.php
+README.md
+composer.json
+module-config.json

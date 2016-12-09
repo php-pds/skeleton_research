@@ -1,0 +1,7 @@
+bin/
+src/PedroTroller/CircleCIParallelTestsBuilder/
+.gitignore
+.php_cs
+README.md
+circle-tests.yml
+composer.json

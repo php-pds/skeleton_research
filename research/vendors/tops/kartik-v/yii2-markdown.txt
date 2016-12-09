@@ -1,0 +1,12 @@
+assets/
+controllers/
+messages/
+views/parse/
+CHANGE.md
+LICENSE.md
+Markdown.php
+MarkdownEditor.php
+MarkdownEditorAsset.php
+Module.php
+README.md
+composer.json

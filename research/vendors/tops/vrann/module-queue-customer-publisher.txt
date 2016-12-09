@@ -1,0 +1,7 @@
+Model/Plugin/
+etc/
+LICENSE.txt
+LICENSE_AFL.txt
+README.md
+composer.json
+registration.php

@@ -1,0 +1,13 @@
+application/
+bin/
+docs/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CONTRIBUTING.md
+Installer.php
+LICENSE.md
+README.md
+composer.json
+install.php
+update.php

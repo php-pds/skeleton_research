@@ -1,0 +1,8 @@
+examples/
+src/Mike227/NServiceAnnotations/
+tests/
+.gitignore
+.travis.yml
+LICENSE.md
+README.md
+composer.json

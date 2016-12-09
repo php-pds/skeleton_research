@@ -1,0 +1,10 @@
+assets/
+views/
+.gitignore
+Illustrated.php
+Illustration.php
+LICENSE
+README.md
+Uploader.php
+UploaderAsset.php
+composer.json

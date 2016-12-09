@@ -1,0 +1,13 @@
+Bundle/
+Exception/
+Reader/
+Writer/
+Bundle.hh
+File.hh
+Folder.hh
+Node.hh
+Reader.hh
+Writer.hh
+bootstrap.hh
+composer.json
+readme.md

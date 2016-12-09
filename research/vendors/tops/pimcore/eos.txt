@@ -1,0 +1,9 @@
+controllers/
+data/import/
+lib/Eos/
+models/Eos/
+static/pimcore/
+views/scripts/index/
+README.md
+composer.json
+plugin.xml

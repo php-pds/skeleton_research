@@ -1,0 +1,10 @@
+demos/
+getid3/
+helperapps/
+README.md
+changelog.txt
+composer.json
+dependencies.txt
+license.commercial.txt
+license.txt
+structure.txt

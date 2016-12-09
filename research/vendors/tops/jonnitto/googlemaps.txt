@@ -1,0 +1,8 @@
+Configuration/
+Resources/
+.scss-lint.yml
+LICENSE
+README.md
+composer.json
+package.json
+yarn.lock

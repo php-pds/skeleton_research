@@ -1,0 +1,7 @@
+Controller/
+Entity/
+Form/Type/
+Resources/
+Service/
+TexterModule.php
+composer.json

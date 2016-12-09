@@ -1,0 +1,4 @@
+src/Object/
+LICENSE
+README.md
+composer.json

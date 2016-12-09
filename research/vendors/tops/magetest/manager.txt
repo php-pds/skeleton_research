@@ -1,0 +1,12 @@
+build/
+spec/MageTest/Manager/Attributes/Provider/
+src/MageTest/Manager/
+tests/MageTest/Manager/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+Vagrantfile
+composer.json
+composer.lock
+phpunit.xml.dist

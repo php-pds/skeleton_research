@@ -1,0 +1,13 @@
+classes/
+config/
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENCE
+README.md
+auth-schema-mysql.sql
+auth-schema-postgresql.sql
+composer.json
+composer.lock
+phpunit.xml.dist

@@ -1,0 +1,7 @@
+assets/
+doc/assets/images/
+templates/
+.gitignore
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,5 @@
+lib/Skeleton/File/
+migration/
+LICENSE
+README.md
+composer.json

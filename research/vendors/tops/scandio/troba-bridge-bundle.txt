@@ -1,0 +1,10 @@
+DataCollector/
+DependencyInjection/
+Logger/
+Manager/
+Resources/
+Validator/Constraints/
+.gitignore
+README.md
+ScandioTrobaBridgeBundle.php
+composer.json

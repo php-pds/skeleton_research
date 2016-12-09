@@ -1,0 +1,4 @@
+Classes/Nezaniel/GeographicLibrary/GoogleMapsAdapter/Service/
+Configuration/
+.gitignore
+composer.json

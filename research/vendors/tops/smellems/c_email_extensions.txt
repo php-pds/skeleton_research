@@ -1,0 +1,7 @@
+actions/c_email_extensions/
+languages/
+lib/
+views/default/plugins/c_email_extensions/
+composer.json
+manifest.xml
+start.php

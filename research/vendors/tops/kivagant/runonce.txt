@@ -1,0 +1,7 @@
+bin/
+pid/
+src/RunOnce/
+.gitignore
+LICENSE
+README.md
+composer.json

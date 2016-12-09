@@ -1,0 +1,15 @@
+bin/
+src/
+template/init/
+test/
+.gitignore
+.php_cs
+CONTRIBUTING.md
+LICENSE.md
+README.md
+WRITEME.md
+box.json.dist
+composer.json
+composer.lock
+install.sh
+phpunit.xml.dist

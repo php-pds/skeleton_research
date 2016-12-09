@@ -1,0 +1,9 @@
+assets/
+controllers/
+models/
+views/
+DynModelEditor.php
+DynModelFields.php
+LICENSE.txt
+composer.json
+readme.md

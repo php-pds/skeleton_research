@@ -1,0 +1,8 @@
+Command/
+Composer/
+Resources/
+.gitignore
+LICENSE
+MonstrumSymfonyCropboxBundle.php
+README.md
+composer.json

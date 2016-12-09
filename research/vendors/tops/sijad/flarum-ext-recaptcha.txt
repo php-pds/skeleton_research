@@ -1,0 +1,12 @@
+js/
+less/forum/
+locale/
+src/
+.editorconfig
+.eslintrc
+.gitignore
+LICENSE
+README.md
+bootstrap.php
+composer.json
+icon.svg

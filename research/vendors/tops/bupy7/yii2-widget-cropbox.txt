@@ -1,0 +1,12 @@
+assets/
+messages/
+views/
+.gitignore
+CHANGELOG.md
+Cropbox.php
+CropboxAsset.php
+LICENSE.md
+MouseWheelAsset.php
+README.md
+WidgetAsset.php
+composer.json

@@ -1,0 +1,8 @@
+ressources/
+src/BoilerAppTest/
+.gitattributes
+.gitignore
+README.md
+autoload_classmap.php
+composer.json
+default-configuration.php

@@ -1,0 +1,7 @@
+src/Javanile/LightPDF/
+tests/
+CHANGES 5.7.4.txt
+CREDITS.txt
+FONT INFO.txt
+LICENSE.txt
+composer.json

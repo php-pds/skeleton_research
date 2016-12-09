@@ -1,0 +1,7 @@
+Controller/
+DBAL/
+Resources/
+Haverkamp87CoreBundle.php
+LICENSE
+README.md
+composer.json

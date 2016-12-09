@@ -1,0 +1,5 @@
+Options/
+Pagination/
+WpSupport/Query/
+.gitignore
+composer.json

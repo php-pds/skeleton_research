@@ -1,0 +1,8 @@
+Adapter/
+Exception/
+.gitignore
+README.md
+SocialAuther.php
+SocialUserProfile.php
+autoload.php
+composer.json

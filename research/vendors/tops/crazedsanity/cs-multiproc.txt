@@ -1,0 +1,13 @@
+bin/
+tests/
+.gitignore
+.travis.yml
+AutoLoader.class.php
+LICENSE-GPL
+LICENSE-MIT
+README.md
+VERSION
+composer.json
+cs_MultiProcess.class.php
+cs_SingleProcess.class.php
+phpunit.xml

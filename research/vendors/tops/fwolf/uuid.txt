@@ -1,0 +1,11 @@
+bin/
+demo/
+src/Uuid/
+tests/Uuid/
+.gitignore
+.travis.yml
+CHANGELOG.md
+README.md
+bootstrap.php
+composer.json
+phpunit.xml.dist

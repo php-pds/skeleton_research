@@ -1,0 +1,6 @@
+DependencyInjection/
+Resources/config/
+Security/
+AHSPersonaBundle.php
+README.md
+composer.json

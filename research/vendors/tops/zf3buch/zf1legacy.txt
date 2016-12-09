@@ -1,0 +1,8 @@
+application/
+data/sessions/
+library/Zend/
+public/
+.gitignore
+LICENSE
+README.md
+composer.json

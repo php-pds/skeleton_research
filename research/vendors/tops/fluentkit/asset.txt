@@ -1,0 +1,4 @@
+src/FluentKit/Asset/
+LICENSE
+README.md
+composer.json

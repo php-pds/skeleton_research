@@ -1,0 +1,15 @@
+DependencyInjection/
+EventListener/
+Resources/config/
+Tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CHANGELOG.md
+CONTRIBUTING.md
+KGWeinreBundle.php
+LICENSE
+README.md
+UPGRADE.md
+composer.json
+phpunit.xml.dist

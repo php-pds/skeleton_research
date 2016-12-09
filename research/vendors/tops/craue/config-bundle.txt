@@ -1,0 +1,17 @@
+Controller/
+DependencyInjection/
+Entity/
+Form/
+Resources/
+Tests/
+Twig/Extension/
+Util/
+.gitignore
+.travis.yml
+.travis_install_dependencies.sh
+CHANGELOG.md
+CraueConfigBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

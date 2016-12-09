@@ -1,0 +1,10 @@
+code/
+css/
+images/
+thirdparty/
+.editorconfig
+LICENSE.md
+README.md
+_config.php
+code-of-conduct.md
+composer.json

@@ -1,0 +1,9 @@
+.settings/
+doc/
+src/Stagehand/AlterationMonitor/
+.buildpath
+.gitignore
+.project
+build.xml
+composer.json
+package.xml

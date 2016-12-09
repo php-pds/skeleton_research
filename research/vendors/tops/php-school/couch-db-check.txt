@@ -1,0 +1,6 @@
+.gitignore
+CouchDbCheck.php
+CouchDbExerciseCheck.php
+README.md
+composer.json
+composer.lock

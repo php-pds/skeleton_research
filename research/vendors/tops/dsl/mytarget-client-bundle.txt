@@ -1,0 +1,8 @@
+DependencyInjection/
+Resources/config/
+.gitignore
+DslMyTargetClientBundle.php
+PrefixDoctrineCacheTokenStorage.php
+PrefixLockManager.php
+README.md
+composer.json

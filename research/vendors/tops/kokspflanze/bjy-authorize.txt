@@ -1,0 +1,15 @@
+build/
+config/
+data/
+docs/
+src/BjyAuthorize/
+tests/
+view/
+.gitignore
+.travis.yml
+LICENSE
+Module.php
+README.md
+UPGRADE.md
+composer.json
+phpunit.xml.dist

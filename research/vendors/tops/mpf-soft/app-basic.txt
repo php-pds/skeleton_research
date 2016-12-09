@@ -1,0 +1,7 @@
+htdocs/
+logs/
+php/
+.gitignore
+LICENSE
+README.md
+composer.json

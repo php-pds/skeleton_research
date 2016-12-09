@@ -1,0 +1,13 @@
+Config/Schema/
+Console/Command/Task/
+Controller/
+Lib/
+Model/
+Test/
+Vendor/
+View/Helper/
+webroot/
+.gitignore
+.travis.yml
+README.md
+composer.json

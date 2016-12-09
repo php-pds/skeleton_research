@@ -1,0 +1,12 @@
+doc/
+src/Wrep/Notificato/
+tests/
+.gitignore
+.travis.yml
+Contribute.md
+License
+Readme.md
+Upgrade.md
+composer.json
+phpunit.xml.dist
+sami.config.php

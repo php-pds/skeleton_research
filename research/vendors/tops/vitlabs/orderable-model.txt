@@ -1,0 +1,10 @@
+Config/
+Contracts/
+Controllers/
+Providers/
+Resources/lang/
+Scopes/
+Traits/
+.gitignore
+composer.json
+routes.php

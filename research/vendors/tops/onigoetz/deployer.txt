@@ -1,0 +1,11 @@
+docs/
+src/
+tests/
+.gitattributes
+.gitignore
+.travis.yml
+README.md
+build
+composer.json
+phpunit.xml
+quality.sh

@@ -1,0 +1,6 @@
+src/Console/
+.gitignore
+LICENSE
+composer.json
+example.php
+readme.md

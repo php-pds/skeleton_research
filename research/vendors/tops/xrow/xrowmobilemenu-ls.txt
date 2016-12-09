@@ -1,0 +1,6 @@
+design/standard/
+modules/xrowmobilemenu/
+settings/
+translations/ger-DE/
+README.md
+composer.json

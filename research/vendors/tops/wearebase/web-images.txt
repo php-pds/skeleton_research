@@ -1,0 +1,9 @@
+js/
+scss/
+views/
+.gitignore
+LICENSE
+README.md
+background-size.min.htc
+blazy-documentation.html
+composer.json

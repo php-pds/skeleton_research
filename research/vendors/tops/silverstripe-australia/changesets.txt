@@ -1,0 +1,9 @@
+_config/
+code/
+javascript/
+.editorconfig
+CHANGELOG
+LICENSE
+README.md
+VERSION
+composer.json

@@ -1,0 +1,10 @@
+spec/TomPHP/PatchBuilder/
+src/TomPHP/PatchBuilder/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+phpspec.yml

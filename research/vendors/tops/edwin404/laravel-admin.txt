@@ -1,0 +1,5 @@
+database/migrations/
+resources/views/
+src/
+LICENSE.txt
+composer.json

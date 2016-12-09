@@ -1,0 +1,5 @@
+DependencyInjection/
+Resources/config/
+README.md
+WebeithSpamassassinBundle.php
+composer.json

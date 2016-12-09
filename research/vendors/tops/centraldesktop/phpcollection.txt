@@ -1,0 +1,10 @@
+doc/
+src/PhpCollection/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

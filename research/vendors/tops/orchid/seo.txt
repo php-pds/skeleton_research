@@ -1,0 +1,12 @@
+.idea/
+Database/
+Facades/
+Models/
+Providers/
+Resources/views/
+Tests/
+Traits/
+.gitignore
+LICENSE.md
+README.md
+composer.json

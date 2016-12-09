@@ -1,0 +1,13 @@
+build/
+config/
+src/CnabParser/
+tests/
+.codeclimate.yml
+.gitignore
+.travis.yml
+README.md
+TODO.md
+composer.json
+debug-remessa.php
+debug-retorno.php
+phpunit.xml

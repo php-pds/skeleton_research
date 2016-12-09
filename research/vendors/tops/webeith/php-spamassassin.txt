@@ -1,0 +1,5 @@
+src/Spamassassin/
+tests/
+README.md
+composer.json
+package.xml

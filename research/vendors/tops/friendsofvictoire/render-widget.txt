@@ -1,0 +1,11 @@
+Controller/
+DataTransformer/
+DependencyInjection/
+Entity/
+Form/
+Resolver/
+Resources/
+Translation/
+README.md
+VictoireWidgetRenderBundle.php
+composer.json

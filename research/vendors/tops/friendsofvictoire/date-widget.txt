@@ -1,0 +1,8 @@
+DependencyInjection/
+Entity/
+Form/
+Resolver/
+Resources/
+README.md
+VictoireWidgetDateBundle.php
+composer.json

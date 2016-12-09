@@ -1,0 +1,7 @@
+src/AdrienBrault/WoWClient/
+tests/AdrienBrault/WoWClient/Tests/
+.gitignore
+.travis.yml
+README.md
+composer.json
+phpunit.xml.dist

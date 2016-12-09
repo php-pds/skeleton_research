@@ -1,0 +1,8 @@
+Classes/
+Configuration/TCA/Overrides/
+Resources/
+composer.json
+ext_emconf.php
+ext_tables.php
+ext_tables.sql
+ext_typoscript_setup.txt

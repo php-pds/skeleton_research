@@ -1,0 +1,4 @@
+src/
+README.md
+UPGRADE.md
+composer.json

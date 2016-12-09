@@ -1,0 +1,13 @@
+DependencyInjection/
+Renderer/Adapter/
+Resources/
+Sender/Adapter/
+spec/
+test/
+.gitignore
+CHANGELOG.md
+README.md
+SyliusMailerBundle.php
+composer.json
+phpspec.yml.dist
+phpunit.xml.dist

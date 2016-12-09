@@ -1,0 +1,13 @@
+Web/
+.codeclimate.yml
+.csslintrc
+.eslintignore
+.eslintrc
+.gitattributes
+.gitignore
+CHANGELOG.md
+LICENSE
+README.md
+codeclimate-config.patch
+composer.json
+favicon.ico

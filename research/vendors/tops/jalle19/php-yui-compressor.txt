@@ -1,0 +1,6 @@
+lib/YUI/
+.gitignore
+COPYING.txt
+README.md
+composer.json
+composer.lock

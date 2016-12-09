@@ -1,0 +1,11 @@
+src/
+tests/
+.editorconfig
+.gitignore
+.gush.yml
+.travis.yml
+Changelog.md
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

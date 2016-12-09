@@ -1,0 +1,10 @@
+cmd/
+data/
+lib/CloudMngr/
+public_html/
+.gitignore
+LICENSE.md
+README.md
+composer.json
+composer.lock
+init

@@ -1,0 +1,10 @@
+Exception/
+Inspector/
+.gitignore
+Base.php
+BaseMethods.php
+BaseSingleton.php
+Exception.php
+Inspector.php
+SingletonInterface.php
+composer.json

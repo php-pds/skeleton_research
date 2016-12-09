@@ -1,0 +1,13 @@
+Controller/
+DependencyInjection/
+Doctrine/DBAL/Types/
+Entity/
+Resources/
+Tests/Controller/
+AndreasGlaserDoctrineFileBundle.php
+File.php
+FileHandler.php
+FileInterface.php
+Image.php
+README.md
+composer.json

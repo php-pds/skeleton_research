@@ -1,0 +1,12 @@
+Command/
+Controller/
+DependencyInjection/
+Entity/
+Filter/
+Generator/
+Resources/
+.gitignore
+LICENSE
+README.md
+VaszevCrudLteBundle.php
+composer.json

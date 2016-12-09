@@ -1,0 +1,9 @@
+Bin/
+Documentation/
+.State
+.gitignore
+CHANGELOG.md
+Exception.php
+README.md
+Resolver.php
+composer.json

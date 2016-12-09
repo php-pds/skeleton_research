@@ -1,0 +1,8 @@
+README-images/
+migrations/
+resources/
+templates/
+CHANGELOG.md
+CpCssPlugin.php
+README.md
+composer.json

@@ -1,0 +1,8 @@
+assets/
+src/
+views/
+LICENSE
+README.md
+SCREENSHOTS.md
+composer.json
+config.php

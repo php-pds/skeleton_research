@@ -1,0 +1,13 @@
+configs/
+data/
+src/
+test/
+view/index/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CHANGELOG.md
+Module.php
+README.md
+composer.json
+phpunit.xml

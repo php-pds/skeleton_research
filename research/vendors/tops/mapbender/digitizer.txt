@@ -1,0 +1,14 @@
+Component/
+DependencyInjection/
+Documents/
+Element/
+Entity/
+Extension/
+Resources/
+Tests/
+Utils/
+.gitignore
+LICENSE
+MapbenderDigitizerBundle.php
+README.md
+composer.json

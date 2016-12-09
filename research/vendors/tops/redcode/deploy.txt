@@ -1,0 +1,5 @@
+bin/
+src/RedCode/Deploy/
+.gitignore
+README.md
+composer.json

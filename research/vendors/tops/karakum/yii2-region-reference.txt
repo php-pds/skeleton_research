@@ -1,0 +1,13 @@
+controllers/
+migrations/
+models/
+themes/adminlte/views/
+views/
+.gitignore
+BackendModule.php
+CHANGE.md
+FrontendModule.php
+LICENSE
+README.md
+RegionManager.php
+composer.json

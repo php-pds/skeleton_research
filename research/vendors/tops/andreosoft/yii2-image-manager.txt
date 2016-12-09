@@ -1,0 +1,9 @@
+controllers/
+messages/ru/
+models/
+views/image/
+widgets/
+.gitignore
+Module.php
+README.md
+composer.json

@@ -1,0 +1,13 @@
+fonts/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+core.php
+encdec.php
+image.php
+norm.php
+phpunit.xml
+ua.list.txt

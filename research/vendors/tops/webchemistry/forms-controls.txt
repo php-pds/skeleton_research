@@ -1,0 +1,14 @@
+client/
+dist/
+src/
+tests/
+.bowerrc
+.gitignore
+.travis.yml
+Gruntfile.js
+README.md
+bower.json
+codeception.yml
+composer.json
+files.json
+package.json

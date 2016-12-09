@@ -1,0 +1,13 @@
+doc/
+resources/views/
+src/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+Procfile
+README.md
+code_of_conduct.md
+composer.json
+contributing.md
+phpunit.xml.dist

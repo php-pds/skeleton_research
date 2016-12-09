@@ -1,0 +1,12 @@
+Exception/
+Storage/
+Tests/
+.gitignore
+CHANGELOG.md
+LICENSE
+MediaInterface.php
+MediaStorageInterface.php
+README.md
+Uploader.php
+composer.json
+phpunit.xml.dist

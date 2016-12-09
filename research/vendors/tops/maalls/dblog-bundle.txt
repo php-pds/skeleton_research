@@ -1,0 +1,11 @@
+Controller/
+DependencyInjection/
+Entity/
+Lib/
+Repository/
+Resources/
+Tests/
+Twig/
+.gitignore
+MaallsDBLogBundle.php
+composer.json

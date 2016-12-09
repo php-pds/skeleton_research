@@ -1,0 +1,3 @@
+.gitignore
+Reader.php
+composer.json

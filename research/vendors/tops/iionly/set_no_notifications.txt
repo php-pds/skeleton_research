@@ -1,0 +1,10 @@
+languages/
+views/default/plugins/set_no_notifications/
+CHANGES.txt
+CONTRIBUTORS.txt
+LICENCE.txt
+README.md
+activate.php
+composer.json
+manifest.xml
+start.php

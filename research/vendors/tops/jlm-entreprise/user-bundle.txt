@@ -1,0 +1,9 @@
+Entity/
+Form/
+Resources/
+Tests/Entity/
+.gitignore
+JLMUserBundle.php
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,15 @@
+doc/
+src/
+tests/
+.bldr.yml
+.editorconfig
+.gitignore
+.gush.yml
+.php_cs
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+cli-config.php.dist
+composer.json
+phpunit.xml.dist

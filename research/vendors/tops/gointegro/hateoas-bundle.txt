@@ -1,0 +1,15 @@
+Config/
+Controller/
+DependencyInjection/
+Http/
+Resources/
+Test/PHPUnit/
+Tests/
+Util/
+.gitignore
+.travis.yml
+GoIntegroHateoasBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml

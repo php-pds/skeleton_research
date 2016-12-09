@@ -1,0 +1,9 @@
+Api/
+Exception/
+Request/
+.gitignore
+LICENSE.md
+README.md
+WMUsedRootCAs.cer
+WebMoney.php
+composer.json

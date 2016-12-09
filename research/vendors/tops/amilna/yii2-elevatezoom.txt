@@ -1,0 +1,6 @@
+assets/js/
+ElevateZoom.php
+ElevateZoomAsset.php
+LICENSE
+README.md
+composer.json

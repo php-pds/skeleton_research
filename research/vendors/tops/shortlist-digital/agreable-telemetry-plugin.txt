@@ -1,0 +1,12 @@
+app/
+custom-fields/
+resources/
+telemetry-payload-examples/
+.editorconfig
+.gitignore
+LICENSE
+README.md
+composer.json
+herbert.config.php
+plugin.php
+widget-loader-acf.php

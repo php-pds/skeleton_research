@@ -1,0 +1,11 @@
+translations/
+CHANGELOG.txt
+Readme.md
+blockstore.php
+blockstore.tpl
+composer.json
+config.xml
+index.php
+logo.gif
+logo.png
+store.jpg

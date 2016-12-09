@@ -1,0 +1,5 @@
+src/Transformatika/Config/
+.gitignore
+LICENSE
+README.md
+composer.json

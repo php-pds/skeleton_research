@@ -1,0 +1,7 @@
+Docs/
+IDE/
+Sniffs/
+.gitignore
+README.md
+notes.txt
+ruleset.xml

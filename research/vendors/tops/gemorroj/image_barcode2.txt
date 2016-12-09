@@ -1,0 +1,10 @@
+Image/
+docs/
+tests/
+.gitignore
+.travis.yml
+README
+build.xml
+composer.json
+package.xml
+phpunit.xml

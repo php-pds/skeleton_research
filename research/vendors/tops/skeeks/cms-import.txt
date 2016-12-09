@@ -1,0 +1,16 @@
+_ide/
+assets/
+config/
+controllers/
+messages/ru/
+migrations/
+models/
+views/admin-import-task/
+CHANGELOG.md
+ImportComponent.php
+ImportHandler.php
+ImportHandlerInterface.php
+ImportModule.php
+LICENSE
+README.md
+composer.json

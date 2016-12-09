@@ -1,0 +1,4 @@
+src/Contrib/Bundle/PaginatorBundle/
+.gitignore
+README.md
+composer.json

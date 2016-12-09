@@ -1,0 +1,17 @@
+core/
+doc/
+integration/
+js/
+lang/
+lib/
+themes/
+tpl/
+upload/
+LICENSE
+README.md
+browse.php
+composer.json
+config.php
+css.php
+js_localize.php
+upload.php

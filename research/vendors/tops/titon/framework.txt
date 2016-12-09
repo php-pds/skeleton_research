@@ -1,0 +1,16 @@
+bin/
+docs/en/
+hhi/
+src/Titon/
+tests/
+.gitattributes
+.gitignore
+.hhconfig
+.travis.yml
+Vagrantfile
+composer.json
+composer.lock
+license.md
+phpunit.xml
+readme.md
+version.md

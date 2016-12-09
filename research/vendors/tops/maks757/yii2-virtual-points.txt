@@ -1,0 +1,9 @@
+behaviors/
+entities/
+image/
+migrations/
+.gitignore
+LICENSE
+Points.php
+README.md
+composer.json

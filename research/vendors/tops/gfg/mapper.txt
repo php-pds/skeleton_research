@@ -1,0 +1,8 @@
+src/Mapper/Data/
+tests/
+.gitignore
+.scrutinizer.yml
+LICENSE.md
+README.md
+bootstrap.php
+composer.json

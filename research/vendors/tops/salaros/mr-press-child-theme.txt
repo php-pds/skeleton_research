@@ -1,0 +1,11 @@
+.vscode/
+functions/
+static/
+.gitignore
+LICENSE.md
+README.md
+composer.json
+composer.lock
+functions.php
+screenshot.png
+style.css

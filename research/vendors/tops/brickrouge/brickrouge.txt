@@ -1,0 +1,16 @@
+assets/
+lib/
+locale/
+tests/
+.gitattributes
+.gitignore
+.travis.yml
+LICENSE
+Makefile
+README.md
+bootstrap.php
+composer.json
+helpers.php
+package.json
+phpunit.xml.dist
+webpack.config.js

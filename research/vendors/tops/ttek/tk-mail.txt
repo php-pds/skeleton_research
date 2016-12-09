@@ -1,0 +1,7 @@
+Tk/Mail/
+config/
+.gitignore
+changelog.md
+composer.json
+readme.md
+todo.md

@@ -1,0 +1,6 @@
+PKPass/
+PKTemplate/
+PKValidate/
+shared/
+composer.json
+readme.md

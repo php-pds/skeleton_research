@@ -1,0 +1,10 @@
+assets/
+classes/
+config/
+guide/forum/
+migrations/forum/
+templates/
+LICENSE.md
+README.md
+composer.json
+init.php

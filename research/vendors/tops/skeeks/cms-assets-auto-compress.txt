@@ -1,0 +1,10 @@
+_ide/
+config/
+forms/
+messages/ru/
+AssetsAutoCompressComponent.php
+CHANGELOG.md
+LICENSE
+README.md
+SettingsAssetsAutoCompress.php
+composer.json

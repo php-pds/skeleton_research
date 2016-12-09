@@ -1,0 +1,7 @@
+DependencyInjection/
+Event/
+Model/
+Resources/config/
+Tests/Controller/
+ModelManagerBundle.php
+composer.json

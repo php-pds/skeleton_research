@@ -1,0 +1,10 @@
+atoms/
+organisms/
+resources/
+.gitignore
+README.md
+class.atom-template.php
+class.helpers.php
+class.organism-template.php
+composer.json
+includes.php

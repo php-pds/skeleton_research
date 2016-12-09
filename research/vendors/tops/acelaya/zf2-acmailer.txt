@@ -1,0 +1,11 @@
+config/
+src/
+test/
+view/ac-mailer/mail-templates/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CHANGELOG.md
+LICENSE.txt
+README.md
+composer.json

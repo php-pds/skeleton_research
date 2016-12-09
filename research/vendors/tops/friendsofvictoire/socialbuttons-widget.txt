@@ -1,0 +1,8 @@
+DependencyInjection/
+Entity/
+Form/
+Resources/
+Translation/
+README.md
+VictoireWidgetSocialButtonsBundle.php
+composer.json

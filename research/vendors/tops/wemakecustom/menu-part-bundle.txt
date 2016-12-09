@@ -1,0 +1,10 @@
+DependencyInjection/
+Menu/
+Resources/
+Visitor/
+Visitors/
+Voter/
+.gitignore
+README.md
+WMCMenuPartBundle.php
+composer.json

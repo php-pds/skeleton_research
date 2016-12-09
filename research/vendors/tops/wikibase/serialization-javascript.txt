@@ -1,0 +1,13 @@
+build/travis/
+src/
+tests/
+.gitignore
+.jshintrc
+.travis.yml
+COPYING
+README.md
+composer.json
+init.mw.php
+init.php
+resources.php
+resources.tests.php

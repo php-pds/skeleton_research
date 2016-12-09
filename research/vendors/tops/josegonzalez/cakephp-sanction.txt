@@ -1,0 +1,11 @@
+Controller/Component/
+Lib/Panel/
+Model/Behavior/
+Test/
+View/
+.editorconfig
+.travis.yml
+CONTRIBUTING.md
+LICENSE.txt
+README.markdown
+composer.json

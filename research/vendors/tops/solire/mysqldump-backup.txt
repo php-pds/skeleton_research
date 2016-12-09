@@ -1,0 +1,4 @@
+MySQLDump.class.php
+README
+composer.json
+license.txt

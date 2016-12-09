@@ -1,0 +1,17 @@
+lib/handlebars/
+.gitignore
+README.md
+bower.json
+component.json
+composer.json
+handlebars-source.gemspec
+handlebars.amd.js
+handlebars.amd.min.js
+handlebars.js
+handlebars.js.nuspec
+handlebars.min.js
+handlebars.runtime.amd.js
+handlebars.runtime.amd.min.js
+handlebars.runtime.js
+handlebars.runtime.min.js
+package.json

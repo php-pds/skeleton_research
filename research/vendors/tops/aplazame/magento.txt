@@ -1,0 +1,15 @@
+.ci/
+docs/
+extension/
+test/lib/Aplazame/Sdk/Http/
+.drone.sec
+.drone.yml
+.gitignore
+Dockerfile
+HISTORY.md
+LICENSE
+Makefile
+README.md
+composer.json
+docker-compose.yml
+phpunit.xml.dist

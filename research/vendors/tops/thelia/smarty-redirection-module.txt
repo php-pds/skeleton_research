@@ -1,0 +1,6 @@
+Config/
+Smarty/Plugins/
+LICENSE.txt
+Readme.md
+SmartyRedirection.php
+composer.json

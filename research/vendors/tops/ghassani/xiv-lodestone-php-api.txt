@@ -1,0 +1,10 @@
+DomCrawler/
+Model/
+Request/
+Response/
+Test/
+.gitignore
+Client.php
+README.md
+composer.json
+phpunit.xml.dist

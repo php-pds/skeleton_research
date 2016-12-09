@@ -1,0 +1,10 @@
+lang/
+.gitignore
+LICENSE
+README.md
+composer.json
+functions.php
+index.php
+readme.txt
+screenshot.png
+style.css

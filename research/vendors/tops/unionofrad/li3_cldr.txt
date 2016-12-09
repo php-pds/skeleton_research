@@ -1,0 +1,8 @@
+config/
+extensions/adapter/g11n/catalog/
+resources/
+tests/cases/extensions/adapter/g11n/catalog/
+.gitignore
+LICENSE.txt
+README.md
+composer.json

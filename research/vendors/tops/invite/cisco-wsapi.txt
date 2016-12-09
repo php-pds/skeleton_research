@@ -1,0 +1,13 @@
+Client/
+Exception/
+Model/
+Request/
+Resources/doc/
+Server/
+Tests/Controller/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

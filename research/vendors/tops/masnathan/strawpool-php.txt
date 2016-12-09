@@ -1,0 +1,5 @@
+src/MASNathan/Strawpool/
+.gitignore
+LICENSE
+README.md
+composer.json

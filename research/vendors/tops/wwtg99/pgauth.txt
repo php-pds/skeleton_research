@@ -1,0 +1,10 @@
+bin/
+sql/
+src/
+test/
+.gitignore
+CHANGELOG.md
+README.md
+auth_conf.json
+composer.json
+conf.json

@@ -1,0 +1,12 @@
+controllers/backend/
+messages/
+migrations/
+models/
+traits/
+views/backend/default/
+widgets/
+Bootstrap.php
+Module.php
+README.md
+composer.json
+yii2_start_slider.sql

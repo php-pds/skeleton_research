@@ -1,0 +1,8 @@
+autoload/
+config/
+src/ZeSecurity/IDS/
+.htaccess
+LICENSE
+Module.php
+README.md
+composer.json

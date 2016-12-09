@@ -1,0 +1,6 @@
+.gitignore
+BootstrapListFilter.php
+BootstrapListFilterAsset.php
+LICENSE
+README.md
+composer.json

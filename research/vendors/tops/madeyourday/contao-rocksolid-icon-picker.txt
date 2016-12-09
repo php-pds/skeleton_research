@@ -1,0 +1,7 @@
+assets/
+config/
+languages/
+src/MadeYourDay/Contao/
+LICENSE
+README.md
+composer.json

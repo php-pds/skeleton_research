@@ -1,0 +1,10 @@
+examples/
+lib/
+test/
+.gitattributes
+.gitignore
+.gitreview
+LICENSE.txt
+NOTICE.txt
+README.md
+composer.json

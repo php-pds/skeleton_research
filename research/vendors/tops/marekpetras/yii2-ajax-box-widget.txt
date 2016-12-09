@@ -1,0 +1,9 @@
+assets/
+sample/
+views/
+Box.php
+BoxAsset.php
+BoxException.php
+LICENSE
+README.md
+composer.json

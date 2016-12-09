@@ -1,0 +1,11 @@
+DependencyInjection/
+Exception/
+Listener/
+Logging/
+Resources/config/
+Services/
+.gitignore
+DaybreakStudiosAirbrakeBundle.php
+LICENSE
+README.md
+composer.json

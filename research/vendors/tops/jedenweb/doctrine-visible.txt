@@ -1,0 +1,4 @@
+src/JedenWeb/Doctrine/Visible/
+.gitignore
+composer.json
+readme.md

@@ -1,0 +1,16 @@
+DependencyInjection/
+Resources/config/
+Tests/
+.composer-auth.json
+.gitattributes
+.gitignore
+.styleci.yml
+.travis.yml
+CHANGELOG.md
+LICENSE
+PuliBundle.php
+README.md
+appveyor.yml
+composer.json
+phpunit.xml.dist
+puli.json

@@ -1,0 +1,12 @@
+config/
+lang/de/
+migrations/
+resources/sitetrees/
+src/Cmsable/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json
+phpunit.php
+phpunit.xml

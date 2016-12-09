@@ -1,0 +1,5 @@
+assets/
+Fancybox.php
+FancyboxAsset.php
+README.md
+composer.json

@@ -1,0 +1,11 @@
+etc/
+lib/
+.gitignore
+.gitmodules
+Dockerfile
+README.md
+composer.json
+composer.lock
+licence
+whippet-server
+whippet.php

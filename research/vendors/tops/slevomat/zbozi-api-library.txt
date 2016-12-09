@@ -1,0 +1,14 @@
+build/
+src/
+tests/
+.coveralls.yml
+.gitignore
+.scrutinizer.yml
+.travis.yml
+ExampleLogger.php
+LICENSE
+README.md
+build.xml
+composer.json
+examples.php
+ruleset.xml

@@ -1,0 +1,8 @@
+assets/
+controllers/
+views/activity-tracker/
+web/images/
+Module.php
+README.md
+composer.json
+module-config.json

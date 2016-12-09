@@ -1,0 +1,8 @@
+config/
+public/zf-joacub-users-online/js/
+src/ZfJoacubUsersOnline/
+.gitignore
+LICENSE
+Module.php
+README.md
+composer.json

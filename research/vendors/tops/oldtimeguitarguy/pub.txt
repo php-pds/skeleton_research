@@ -1,0 +1,8 @@
+spec/OldTimeGuitarGuy/Pub/
+src/OldTimeGuitarGuy/Pub/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock
+phpspec.yml

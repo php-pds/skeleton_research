@@ -1,0 +1,8 @@
+js/
+languages/
+lib/
+modules/
+LICENSE
+README.md
+composer.json
+wp-palvelu-plugin.php

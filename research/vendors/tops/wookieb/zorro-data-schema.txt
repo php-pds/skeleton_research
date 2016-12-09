@@ -1,0 +1,11 @@
+docs/
+example/
+src/Wookieb/ZorroDataSchema/
+tests/
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+composer.json
+phpunit.xml

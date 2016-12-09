@@ -1,0 +1,11 @@
+Controller/
+DependencyInjection/
+Entity/
+Form/
+Resources/
+Exception.php
+GOCWorkflowBundle.php
+Workflow.php
+WorkflowDefinition.php
+WorkflowManager.php
+composer.json

@@ -1,0 +1,8 @@
+maphper/
+tests/
+.gitignore
+.project
+LICENSE
+README.md
+composer.json
+phpunit.xml

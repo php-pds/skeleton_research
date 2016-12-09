@@ -1,0 +1,16 @@
+Controller/
+DependencyInjection/
+Entity/
+EventSubscriber/
+Form/
+Manager/
+Model/
+Repository/
+Resources/
+Tests/DependencyInjection/
+.gitignore
+.travis.yml
+LICENSE
+SfynxTranslatorBundle.php
+composer.json
+phpunit.xml.dist

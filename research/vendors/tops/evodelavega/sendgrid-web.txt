@@ -1,0 +1,6 @@
+src/SendGrid/
+.gitignore
+LICENSE
+README.md
+composer.json
+example.php

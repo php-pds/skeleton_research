@@ -1,0 +1,9 @@
+config/schema/
+css/
+js/
+src/Plugin/Field/
+README.md
+composer.json
+fontawesome_field.info.yml
+fontawesome_field.libraries.yml
+fontawesome_field.module

@@ -1,0 +1,6 @@
+src/Enrise/Soy/SymfonyBuildParameters/
+.gitignore
+LICENSE
+README.md
+composer.json
+recipe.php

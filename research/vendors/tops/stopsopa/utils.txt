@@ -1,0 +1,5 @@
+src/Stopsopa/UtilsBundle/
+.gitignore
+LICENSE
+README.md
+composer.json

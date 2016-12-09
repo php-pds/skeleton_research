@@ -1,0 +1,10 @@
+doc/
+src/JMS/Parser/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

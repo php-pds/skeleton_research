@@ -1,0 +1,16 @@
+locale/
+tests/
+.gitignore
+Auth.php
+AuthInterface.php
+Exception.php
+HOTP.php
+HOTPSecret.php
+InternalException.php
+LICENSE
+LimitInterface.php
+README.md
+RegistrationInterface.php
+RememberMeInterface.php
+composer.json
+phpunit.xml

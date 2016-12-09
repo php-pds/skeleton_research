@@ -1,0 +1,12 @@
+src/
+tests/
+.gitattributes
+.gitignore
+CONTRIBUTING.md
+LICENSE.md
+README.md
+changelog.md
+composer.json
+gulpfile.js
+package.json
+phpunit.xml

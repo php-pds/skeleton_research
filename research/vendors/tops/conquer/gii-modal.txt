@@ -1,0 +1,7 @@
+assets/
+templates/crud/
+.gitignore
+GiiAsset.php
+LICENSE
+README.md
+composer.json

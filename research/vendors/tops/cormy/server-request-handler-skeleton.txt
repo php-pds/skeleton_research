@@ -1,0 +1,13 @@
+src/
+tests/
+.editorconfig
+.gitattributes
+.gitattributes.mustache
+.gitignore
+.travis.yml
+composer.json
+license
+license.mustache
+post-create-project-cmd.php
+readme.md
+readme.mustache.md

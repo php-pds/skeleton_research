@@ -1,0 +1,7 @@
+config/
+lang/
+updates/
+LICENCE.md
+Plugin.php
+README.md
+composer.json

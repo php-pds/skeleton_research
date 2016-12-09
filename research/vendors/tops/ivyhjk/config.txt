@@ -1,0 +1,6 @@
+src/
+tests/
+.hhconfig
+README.md
+composer.json
+phpunit.xml

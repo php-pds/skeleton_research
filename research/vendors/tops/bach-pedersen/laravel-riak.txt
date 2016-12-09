@@ -1,0 +1,8 @@
+src/BachPedersen/LaravelRiak/
+tests/BachPedersen/LaravelRiak/Test/
+.gitignore
+.travis.yml
+CHANGELOG.md
+README.md
+composer.json
+phpunit.xml

@@ -1,0 +1,11 @@
+DependencyInjection/
+Resources/
+Security/Authentication/
+Tests/
+.gitignore
+.travis.yml
+IbrowsHmacBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

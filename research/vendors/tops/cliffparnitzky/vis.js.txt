@@ -1,0 +1,6 @@
+assets/vis.js/4.9.0/
+system/config/
+.gitattributes
+.gitignore
+README.md
+composer.json

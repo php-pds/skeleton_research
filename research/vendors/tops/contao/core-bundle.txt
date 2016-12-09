@@ -1,0 +1,17 @@
+.tx/
+src/
+tests/
+.editorconfig
+.gitignore
+.php_cs
+.scrutinizer.yml
+.travis.yml
+CHANGELOG.md
+DEPRECATED.md
+LIMITATIONS.md
+README.md
+UPGRADE.md
+VERSIONING.md
+appveyor.yml
+composer.json
+phpunit.xml.dist

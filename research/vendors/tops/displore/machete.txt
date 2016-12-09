@@ -1,0 +1,12 @@
+src/
+.editorconfig
+.gitattributes
+.gitignore
+.php_cs
+.scrutinizer.yml
+changelog.md
+composer.json
+contributing.md
+displore.json
+license.md
+readme.md

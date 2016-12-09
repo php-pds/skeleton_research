@@ -1,0 +1,15 @@
+assets/
+backend/
+controllers/
+mail/
+messages/
+migrations/
+models/
+views/
+.gitattributes
+.gitignore
+AuthChoice.php
+Module.php
+README.md
+User.php
+composer.json

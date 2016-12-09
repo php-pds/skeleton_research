@@ -1,0 +1,5 @@
+languages/
+views/default/resources/
+composer.json
+manifest.xml
+start.php

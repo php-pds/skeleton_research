@@ -1,0 +1,10 @@
+config/
+src/Jhu/ZdtLoggerModule/
+view/zend-developer-tools/toolbar/
+.gitignore
+Module.php
+README.md
+autoload_classmap.php
+autoload_function.php
+autoload_register.php
+composer.json

@@ -1,0 +1,8 @@
+data/
+public_html/
+templates/
+.gitignore
+LICENSE
+README.md
+composer.json
+import.php

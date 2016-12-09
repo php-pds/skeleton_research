@@ -1,0 +1,4 @@
+src/GitPanel/
+README.md
+composer.json
+license.md

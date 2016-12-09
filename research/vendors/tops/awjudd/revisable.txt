@@ -1,0 +1,8 @@
+src/Awjudd/Revisable/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml

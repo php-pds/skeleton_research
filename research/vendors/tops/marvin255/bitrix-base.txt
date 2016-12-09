@@ -1,0 +1,14 @@
+.rocketeer/
+documents/
+examples/
+frontend/
+lib/
+migrations/
+vagrant_stuff/
+web/local/
+.gitignore
+LICENSE
+README.MD
+Vagrantfile
+cli.php
+composer.json

@@ -1,0 +1,10 @@
+Admin/
+Controller/
+DependencyInjection/
+Resources/
+Tests/Controller/
+.gitignore
+LICENSE
+README.md
+SuluQrCodeBundle.php
+composer.json

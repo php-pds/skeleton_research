@@ -1,0 +1,4 @@
+Behat/CommonContexts/
+.gitignore
+README.md
+composer.json

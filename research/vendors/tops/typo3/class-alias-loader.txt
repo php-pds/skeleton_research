@@ -1,0 +1,8 @@
+src/
+tests/Unit/
+.editorconfig
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json

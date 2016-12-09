@@ -1,0 +1,10 @@
+.travis/
+library/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpmd.xml.dist
+phpunit.xml.dist

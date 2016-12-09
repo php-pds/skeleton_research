@@ -1,0 +1,4 @@
+.gitignore
+EConsoleCommand.php
+README.md
+composer.json

@@ -1,0 +1,10 @@
+config/
+data/crud/
+src/AcploBase/
+tests/
+LICENSE
+LICENSE.md
+Module.php
+README.md
+autoload_classmap.php
+composer.json

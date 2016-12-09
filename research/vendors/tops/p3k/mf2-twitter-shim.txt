@@ -1,0 +1,4 @@
+src/p3k/
+.gitignore
+README.md
+composer.json

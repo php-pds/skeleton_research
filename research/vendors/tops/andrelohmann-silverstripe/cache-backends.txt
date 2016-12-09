@@ -1,0 +1,4 @@
+thirdparty/Zend/Cache/Backend/
+README.md
+VERSION
+composer.json

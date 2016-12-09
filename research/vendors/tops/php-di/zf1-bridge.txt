@@ -1,0 +1,7 @@
+quickstart/
+src/DI/Bridge/ZendFramework1/
+tests/
+.gitattributes
+.gitignore
+README.md
+composer.json

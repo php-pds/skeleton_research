@@ -1,0 +1,8 @@
+Command/
+DependencyInjection/
+Exception/
+Resources/
+Translation/
+JMSGoogleClosureBundle.php
+README
+composer.json

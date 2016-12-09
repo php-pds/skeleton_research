@@ -1,0 +1,10 @@
+lib/SerienLoader/
+tests/
+www/
+.gitignore
+README.md
+bootstrap.php
+composer.json
+composer.lock
+package.boot.php
+serien-loader-client.sublime-project

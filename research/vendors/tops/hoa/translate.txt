@@ -1,0 +1,6 @@
+.gitignore
+CHANGELOG.md
+Exception.php
+Gettext.php
+Translate.php
+composer.json

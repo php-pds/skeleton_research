@@ -1,0 +1,3 @@
+src/Samson/Protocol/
+README.md
+composer.json

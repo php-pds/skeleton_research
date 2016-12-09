@@ -1,0 +1,11 @@
+DataCollector/
+DependencyInjection/
+Resources/
+Tests/
+.gitignore
+.travis.yml
+LICENSE
+OdeskPhystrixBundle.php
+README.md
+composer.json
+phpunit.xml

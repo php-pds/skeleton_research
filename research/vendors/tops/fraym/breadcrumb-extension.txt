@@ -1,0 +1,4 @@
+Extension/Breadcrumb/
+Template/Default/Extension/Breadcrumb/
+.gitignore
+composer.json

@@ -1,0 +1,7 @@
+config/
+src/
+.gitignore
+composer.json
+composer.lock
+license.txt
+readme.md

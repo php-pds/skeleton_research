@@ -1,0 +1,12 @@
+docs/
+lib/Doctrine/KeyValueStore/
+tests/
+.editorconfig
+.gitignore
+.gitmodules
+.php_cs
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

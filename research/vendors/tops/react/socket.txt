@@ -1,0 +1,14 @@
+benchmark/
+examples/
+resources/
+scripts/
+tests/
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+UPGRADE-0.3.md
+composer.json
+composer.lock
+phpunit.xml.dist

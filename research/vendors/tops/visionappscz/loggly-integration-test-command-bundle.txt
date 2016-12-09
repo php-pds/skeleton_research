@@ -1,0 +1,6 @@
+Command/
+Exception/
+LICENSE.txt
+LogglyIntegrationTestCommandBundle.php
+README.md
+composer.json

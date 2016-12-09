@@ -1,0 +1,14 @@
+app/
+src/
+web/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+Capfile
+LICENSE
+README.md
+UPGRADE-2.2.md
+UPGRADE-2.3.md
+UPGRADE.md
+composer.json
+composer.lock

@@ -1,0 +1,12 @@
+css/
+fonts/
+less/
+scss/
+.gitignore
+.npmignore
+Makefile
+README.md
+bower.json
+component.json
+composer.json
+package.json

@@ -1,0 +1,12 @@
+config/
+spec/Memio/TwigTemplateEngine/
+src/Memio/TwigTemplateEngine/
+templates/
+.gitignore
+.travis.yml
+CHANGELOG.md
+CONTRIBUTING.md
+LICENSE
+README.md
+VERSIONING.md
+composer.json

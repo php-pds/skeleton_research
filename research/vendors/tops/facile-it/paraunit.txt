@@ -1,0 +1,16 @@
+contrib/
+docker/
+src/Paraunit/
+tests/
+.codeclimate.yml
+.coveralls.yml
+.gitattributes
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CHANGELOG-0.x.md
+CONTRIBUTING.md
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

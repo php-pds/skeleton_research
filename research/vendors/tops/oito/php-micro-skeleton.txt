@@ -1,0 +1,11 @@
+.autocode/
+config/
+model/
+module/frontend/
+www/frontend/
+.gitignore
+LICENSE
+README.md
+composer.json
+environment.php
+init.php

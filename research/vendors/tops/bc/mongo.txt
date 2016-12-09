@@ -1,0 +1,5 @@
+bc/
+config/
+.gitignore
+composer.json
+mongo.json.default

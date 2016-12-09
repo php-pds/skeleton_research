@@ -1,0 +1,6 @@
+libs/
+setup/
+.DS_Store
+LICENSE
+README.md
+composer.json

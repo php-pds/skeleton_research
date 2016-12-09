@@ -1,0 +1,7 @@
+assets/tinymce4/plugins/hr/
+system/modules/TinyMceHorizontalRuler/
+.gitattributes
+.gitignore
+README.md
+composer.json
+screenshot.jpg

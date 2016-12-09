@@ -1,0 +1,17 @@
+Tests/
+.gitignore
+CONTRIBUTORS.md
+Curl.php
+MimeFilter.php
+README.md
+SoapClient.php
+SoapClientBuilder.php
+SoapKernel.php
+SoapRequest.php
+SoapResponse.php
+WsAddressingFilter.php
+WsSecurityFilter.php
+WsdlDownloader.php
+XmlMimeFilter.php
+composer.json
+phpunit.xml.dist

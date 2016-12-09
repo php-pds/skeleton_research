@@ -1,0 +1,5 @@
+Classes/Neos/Contribute/
+Configuration/
+LICENSE
+Readme.md
+composer.json

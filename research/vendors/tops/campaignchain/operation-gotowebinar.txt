@@ -1,0 +1,12 @@
+DependencyInjection/
+Entity/
+EntityService/
+Form/Type/
+Job/
+Resources/
+.gitignore
+CampaignChainOperationGoToWebinarBundle.php
+LICENSE
+README.md
+campaignchain.yml
+composer.json

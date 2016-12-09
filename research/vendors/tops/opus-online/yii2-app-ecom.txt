@@ -1,0 +1,15 @@
+assets/
+commands/
+components/
+config/
+controllers/
+models/
+runtime/
+schema/
+views/
+web/
+.gitignore
+README.md
+composer.json
+yii
+yii.bat

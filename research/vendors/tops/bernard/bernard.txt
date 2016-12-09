@@ -1,0 +1,14 @@
+doc/
+example/
+spec/Bernard/
+src/
+tests/
+.editorconfig
+.gitattributes
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,5 @@
+src/Del/
+.gitignore
+LICENSE
+README.md
+composer.json

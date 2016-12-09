@@ -1,0 +1,6 @@
+DependencyInjection/
+Entity/
+Resources/config/
+InnovaTaxonomyBundle.php
+README.md
+composer.json

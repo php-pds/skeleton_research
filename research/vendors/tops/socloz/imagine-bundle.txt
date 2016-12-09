@@ -1,0 +1,10 @@
+Controller/
+DependencyInjection/
+Imagine/
+Resources/config/
+Routing/
+Templating/
+Tests/Imagine/Filter/
+AvalancheImagineBundle.php
+README.md
+composer.json

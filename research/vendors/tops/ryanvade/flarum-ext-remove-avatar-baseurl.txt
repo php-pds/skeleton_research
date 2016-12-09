@@ -1,0 +1,8 @@
+js/forum/
+migrations/
+scripts/
+.gitignore
+LICENSE
+README.md
+bootstrap.php
+composer.json

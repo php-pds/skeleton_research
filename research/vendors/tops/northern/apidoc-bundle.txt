@@ -1,0 +1,6 @@
+src/Northern/Bundle/ApiDocBundle/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock

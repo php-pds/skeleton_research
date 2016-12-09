@@ -1,0 +1,10 @@
+DataCollector/
+DependencyInjection/
+Resources/
+.gitignore
+LICENSE
+README.md
+TwigProfilerEngine.php
+WebProfilerExtraBundle.php
+composer.json
+screen.png

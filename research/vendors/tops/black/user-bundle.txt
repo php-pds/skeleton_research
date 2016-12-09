@@ -1,0 +1,12 @@
+Application/
+Infrastructure/DomainListener/
+Resources/
+.gitattributes
+.gitignore
+.scrutinizer.yml
+.travis.yml
+BlackUserBundle.php
+CONTRIBUTING.md
+LICENSE
+README.md
+composer.json

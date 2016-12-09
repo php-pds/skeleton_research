@@ -1,0 +1,10 @@
+Tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+BootGroupGridView.php
+GroupGridView.php
+LICENSE
+README.md
+composer.json
+phpunit.xml

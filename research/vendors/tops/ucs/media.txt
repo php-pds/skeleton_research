@@ -1,0 +1,13 @@
+Gallery/
+Tests/
+.gitignore
+LICENSE
+MediaInterface.php
+MediaManager.php
+MediaManagerInterface.php
+MediaNameGenerationStrategyInterface.php
+OriginalNameGenerationStrategy.php
+README.md
+UniqidNameGenerationStrategy.php
+composer.json
+phpunit.xml.dist

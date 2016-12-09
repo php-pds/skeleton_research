@@ -1,0 +1,8 @@
+.idea/
+src/
+.travis.yml
+LICENSE
+README.md
+composer.json
+pff2-installers.iml
+phpunit.xml.dist

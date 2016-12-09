@@ -1,0 +1,3 @@
+src/Empathy/MdModule/
+README.md
+composer.json

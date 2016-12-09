@@ -1,0 +1,7 @@
+src/Packer/
+test/
+.gitattributes
+.gitignore
+.travis.yml
+README.md
+composer.json

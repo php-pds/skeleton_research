@@ -1,0 +1,8 @@
+lib/PHPGit/
+test/
+.gitignore
+CHANGELOG
+LICENSE
+README.markdown
+composer.json
+prove.php

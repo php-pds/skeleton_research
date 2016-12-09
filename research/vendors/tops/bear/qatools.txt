@@ -1,0 +1,7 @@
+.scrutinizer.yml
+.travis.yml
+README.md
+build.xml
+composer.json
+phpcs.xml
+phpmd.xml

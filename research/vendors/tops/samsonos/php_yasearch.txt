@@ -1,0 +1,6 @@
+.gitignore
+YaSearch.php
+composer.json
+license.md
+readme.md
+ya_search.js

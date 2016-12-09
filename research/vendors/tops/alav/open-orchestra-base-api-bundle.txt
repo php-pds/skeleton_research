@@ -1,0 +1,10 @@
+BaseApi/
+BaseApiBundle/
+.codeclimate.yml
+.gitignore
+.travis.yml
+ISSUE_TEMPLATE
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

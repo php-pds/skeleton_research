@@ -1,0 +1,6 @@
+css/
+js/
+less/
+README.md
+component.json
+composer.json

@@ -1,0 +1,9 @@
+Validate/Finance/
+docs/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+package.xml

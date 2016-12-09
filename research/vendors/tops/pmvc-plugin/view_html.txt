@@ -1,0 +1,9 @@
+demo/
+test/fake_theme/
+.gitignore
+.travis.yml
+README.md
+composer.json
+phpunit.xml
+test.php
+view_html.php

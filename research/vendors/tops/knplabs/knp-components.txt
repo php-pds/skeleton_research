@@ -1,0 +1,9 @@
+doc/pager/
+src/Knp/Component/Pager/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

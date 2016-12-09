@@ -1,0 +1,14 @@
+FrameworkBundle/
+.gitignore
+.travis.yml
+Dockerfile
+README.md
+build.xml
+composer.json
+composer.lock
+docker-compose.yml
+entrypoint.sh
+phpci.yml
+phpmd.xml
+phpunit.xml
+travis.ini

@@ -1,0 +1,16 @@
+.github/
+build/
+src/Illuminate/
+tests/
+.editorconfig
+.gitattributes
+.gitignore
+.php_cs
+.travis.yml
+CHANGELOG-5.2.md
+CHANGELOG-5.3.md
+CONTRIBUTING.md
+LICENSE.md
+README.md
+composer.json
+phpunit.xml.dist

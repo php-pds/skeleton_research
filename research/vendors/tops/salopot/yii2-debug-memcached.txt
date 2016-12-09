@@ -1,0 +1,5 @@
+panels/
+views/
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,7 @@
+Admin/
+Controller/
+DependencyInjection/
+Resources/
+README.md
+RzAdminBundle.php
+composer.json

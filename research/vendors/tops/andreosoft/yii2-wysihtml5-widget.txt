@@ -1,0 +1,5 @@
+.gitignore
+Asset.php
+README.md
+Wysihtml5.php
+composer.json

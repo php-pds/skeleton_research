@@ -1,0 +1,14 @@
+app/
+src/
+vagrant/
+web/
+.gitignore
+.travis.yml
+ChangeLog
+LICENSE
+README.md
+ShortLog
+VERSION
+behat.yml
+composer.json
+composer.lock

@@ -1,0 +1,14 @@
+config/
+src/LosApiClient/
+test/LosApiClient/
+.gitignore
+.travis.yml
+LICENSE
+Module.php
+README.md
+autoload_classmap.php
+autoload_function.php
+autoload_register.php
+composer.json
+phpcs.xml
+phpunit.xml

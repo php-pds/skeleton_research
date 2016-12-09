@@ -1,0 +1,10 @@
+demo/
+phpdoc/
+src/
+.gitignore
+.php_cs
+.sami.php
+CHANGELOG.md
+LICENSE
+README.md
+composer.json

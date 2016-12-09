@@ -1,0 +1,7 @@
+Config/
+Console/Templates/bootstrap/
+View/
+webroot/
+.gitignore
+README.md
+composer.json

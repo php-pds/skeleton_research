@@ -1,0 +1,12 @@
+build/
+nbproject/
+src/
+.gitattributes
+.gitignore
+CHANGELOG.md
+Jenkinsfile
+LICENSE
+README.md
+build.xml
+composer.json
+composer.lock

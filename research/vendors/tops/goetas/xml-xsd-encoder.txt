@@ -1,0 +1,3 @@
+lib/Goetas/XmlXsdEncoder/
+README.md
+composer.json

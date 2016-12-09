@@ -1,0 +1,6 @@
+src/
+stubs/
+tests/
+composer.json
+composer.lock
+phpunit.xml

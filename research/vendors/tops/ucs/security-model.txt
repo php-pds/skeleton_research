@@ -1,0 +1,17 @@
+Container/
+DependencyInjection/
+Entity/
+Filter/
+Form/
+Listener/
+Manager/
+Model/
+Resources/config/
+Security/
+Serializer/
+Service/
+Tests/
+Validator/Constraints/
+README.md
+UCSSecurityModelBundle.php
+composer.json

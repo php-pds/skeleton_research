@@ -1,0 +1,11 @@
+Controller/
+DependencyInjection/
+EndPoint/
+Resources/
+Tests/
+.gitignore
+.travis.yml
+AMFOpenVpnBundle.php
+README.md
+composer.json
+phpunit.xml.dist

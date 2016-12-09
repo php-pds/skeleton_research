@@ -1,0 +1,10 @@
+docs/
+public/js/
+resources/views/link-to/
+src/
+tests/
+.gitignore
+.travis.yml
+README.md
+composer.json
+phpunit.xml.dist

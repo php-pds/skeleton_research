@@ -1,0 +1,8 @@
+default-skin/
+dist/
+composer.json
+photoswipe-ui-default.js
+photoswipe-ui-default.min.js
+photoswipe.css
+photoswipe.js
+photoswipe.min.js

@@ -1,0 +1,14 @@
+app/
+data/
+deploy/
+vm/
+.bowerrc
+.env.dist
+.gitignore
+README.md
+Vagrantfile
+composer.json
+composer.lock
+deploy.php
+vagrant.yaml.dist
+yii

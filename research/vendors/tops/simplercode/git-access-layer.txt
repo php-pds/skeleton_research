@@ -1,0 +1,11 @@
+example/
+lib/Simplercode/GAL/
+test/
+.gitignore
+.php_cs
+.sensiolabs.yml
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml

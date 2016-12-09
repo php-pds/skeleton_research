@@ -1,0 +1,8 @@
+templates/
+.editorconfig
+.scrutinizer.yml
+ContactFormWidget.php
+README.md
+_config.php
+composer.json
+license

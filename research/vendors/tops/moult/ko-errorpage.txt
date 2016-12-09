@@ -1,0 +1,4 @@
+classes/
+templates/
+LICENSE
+composer.json

@@ -1,0 +1,10 @@
+controllers/
+models/
+watchers/
+workers/
+BidFile.php
+Http.php
+Module.php
+README.md
+WatchEvent.php
+composer.json

@@ -1,0 +1,12 @@
+Controller/
+DependencyInjection/
+Entity/
+Form/
+Model/
+Provider/
+Resources/
+Twig/
+DynamicMenuBundle.php
+LICENSE
+README.md
+composer.json

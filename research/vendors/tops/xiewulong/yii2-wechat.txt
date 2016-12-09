@@ -1,0 +1,11 @@
+components/
+controllers/
+messages/zh-CN/
+migrations/
+models/
+LICENSE
+Manager.php
+Module.php
+README.md
+composer.json
+messages.php

@@ -1,0 +1,13 @@
+admin/
+includes/
+languages/
+public/
+.gitmodules
+LICENSE
+LICENSE.txt
+README.md
+README.txt
+anunapress.php
+composer.json
+index.php
+uninstall.php

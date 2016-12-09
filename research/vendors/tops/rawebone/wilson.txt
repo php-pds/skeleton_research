@@ -1,0 +1,14 @@
+bin/
+library/
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+LICENSE.PHLY
+LICENSE.SLIM
+LICENSE.SYMFONY
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

@@ -1,0 +1,8 @@
+tests/
+.gitignore
+.travis.yml
+FontAwesomeAsset.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

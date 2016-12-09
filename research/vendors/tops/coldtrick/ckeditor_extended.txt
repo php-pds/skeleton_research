@@ -1,0 +1,14 @@
+actions/
+languages/
+lib/
+pages/
+vendors/plugins/mediaembed/
+views/default/
+.gitignore
+.travis.yml
+CHANGES.txt
+README.md
+composer.json
+composer.lock
+manifest.xml
+start.php

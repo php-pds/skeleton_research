@@ -1,0 +1,6 @@
+assets/
+views/
+Assets.php
+README.md
+ShareBar.php
+composer.json

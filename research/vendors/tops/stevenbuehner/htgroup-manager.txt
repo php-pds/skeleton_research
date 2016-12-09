@@ -1,0 +1,7 @@
+config/
+src/HtgroupManager/
+view/htgroup-manager/group/
+LICENSE
+Module.php
+README.md
+composer.json

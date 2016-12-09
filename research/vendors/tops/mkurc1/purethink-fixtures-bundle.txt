@@ -1,0 +1,5 @@
+Command/
+Resources/
+LICENSE.txt
+PurethinkFixturesBundle.php
+composer.json

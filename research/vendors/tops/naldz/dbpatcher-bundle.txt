@@ -1,0 +1,13 @@
+Command/
+DependencyInjection/
+Patcher/
+Resources/config/
+TestHelper/
+Tests/
+.gitignore
+DBPatcherBundle.php
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

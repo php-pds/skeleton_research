@@ -1,0 +1,6 @@
+docs/
+src/OAuth2Yii/
+.gitignore
+LICENSE
+README.md
+composer.json

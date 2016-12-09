@@ -1,0 +1,9 @@
+DependencyInjection/
+Resources/
+Twig/
+.gitignore
+.php_cs
+AdmingeneratorUserBundle.php
+LICENSE
+README.md
+composer.json

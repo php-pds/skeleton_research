@@ -1,0 +1,6 @@
+config/
+public/
+src/McJWPlayer6/
+Module.php
+README.md
+composer.json

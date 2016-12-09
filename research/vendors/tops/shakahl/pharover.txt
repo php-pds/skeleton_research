@@ -1,0 +1,13 @@
+bin/
+dist/
+src/
+tests/
+.gitignore
+.pharorver.example.json
+CONTRIBUTING.md
+LICENSE
+README.md
+box.json
+composer.json
+phpunit.php
+phpunit.xml

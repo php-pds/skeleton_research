@@ -1,0 +1,6 @@
+contao/config/
+src/Teamsisu/MetaModelsFrontendInputBootstrap/FrontendIntegration/Form/
+.gitignore
+LICENSE
+README.md
+composer.json

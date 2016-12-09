@@ -1,0 +1,7 @@
+src/crodas/PharBuilder/
+.gitignore
+LICENSE
+README.md
+cli.php
+composer.json
+spec.yml

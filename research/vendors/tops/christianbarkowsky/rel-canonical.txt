@@ -1,0 +1,8 @@
+classes/
+config/
+dca/
+languages/
+modules/
+.gitignore
+README.md
+composer.json

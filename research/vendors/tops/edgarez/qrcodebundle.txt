@@ -1,0 +1,7 @@
+DependencyInjection/
+Resources/config/
+Twig/Extension/
+.gitignore
+EdgarEzQRCodeBundle.php
+README.md
+composer.json

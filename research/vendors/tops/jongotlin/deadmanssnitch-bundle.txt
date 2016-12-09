@@ -1,0 +1,6 @@
+DependencyInjection/
+Listener/
+Resources/config/
+JGIDeadmanssnitchBundle.php
+README.md
+composer.json

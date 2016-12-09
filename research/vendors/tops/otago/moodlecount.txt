@@ -1,0 +1,7 @@
+client/
+db/
+lang/en/
+README.md
+composer.json
+externallib.php
+version.php

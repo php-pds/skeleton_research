@@ -1,0 +1,14 @@
+benchmarks/
+build/
+src/fXmlRpc/
+tests/fXmlRpc/
+vendor/
+.editorconfig
+.gitignore
+.scrutinizer.yml
+.travis.yml
+README.md
+build.xml
+composer.json
+package.json
+phpunit.xml.dist

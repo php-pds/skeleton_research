@@ -1,0 +1,12 @@
+docs/
+src/
+.gitattributes
+.gitignore
+.licenser.yml
+.php_cs
+LICENSE
+README.md
+autoload.php
+composer.json
+composer.lock
+phpunit.xml.dist

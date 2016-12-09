@@ -1,0 +1,8 @@
+lib/gihp/
+test/
+.gitignore
+.travis.yml
+apigen.neon
+composer.json
+license.md
+readme.md

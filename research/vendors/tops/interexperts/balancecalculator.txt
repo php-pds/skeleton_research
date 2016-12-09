@@ -1,0 +1,15 @@
+built/
+src/BalanceCalculator/
+tests/
+util/
+.gitignore
+.gitlab-ci.yml
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+example.php
+index.php
+phpmdruleset.xml
+phpunit.xml.dist

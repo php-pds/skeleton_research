@@ -1,0 +1,9 @@
+Command/
+DependencyInjection/
+Resources/views/
+CzogoriPgHeroBundle.php
+LICENSE
+PgHero.php
+PgHeroDataCollector.php
+README.md
+composer.json

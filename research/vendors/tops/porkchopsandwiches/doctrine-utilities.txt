@@ -1,0 +1,5 @@
+lib/src/PorkChopSandwiches/Doctrine/Utilities/
+.gitignore
+LICENSE
+README.md
+composer.json

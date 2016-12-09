@@ -1,0 +1,12 @@
+lib/RubyRainbows/Cache/
+tests/
+.gitignore
+.travis.yml
+Gemfile
+Gemfile.lock
+Guardfile
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml

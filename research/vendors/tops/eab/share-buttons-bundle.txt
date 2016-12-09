@@ -1,0 +1,6 @@
+DependencyInjection/
+Resources/
+SocialShare/Provider/
+EabShareButtonsBundle.php
+README.md
+composer.json

@@ -1,0 +1,5 @@
+src/Schorsch3000/Pilight/
+.gitignore
+composer.json
+composer.lock
+example.php

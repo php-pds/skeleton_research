@@ -1,0 +1,11 @@
+DependencyInjection/
+Resources/
+Tests/
+Twig/
+.coveralls.yml
+.gitignore
+.travis.yml
+GtmBundle.php
+README.md
+composer.json
+phpunit.xml.dist

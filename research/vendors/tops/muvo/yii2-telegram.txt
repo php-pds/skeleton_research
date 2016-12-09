@@ -1,0 +1,3 @@
+models/
+Bot.php
+composer.json

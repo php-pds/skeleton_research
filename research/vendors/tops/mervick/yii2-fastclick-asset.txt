@@ -1,0 +1,4 @@
+FastClickAsset.php
+LICENSE
+README.md
+composer.json

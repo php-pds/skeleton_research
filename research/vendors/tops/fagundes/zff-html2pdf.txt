@@ -1,0 +1,13 @@
+config/
+doc/book/
+src/
+test/
+.coveralls.yml
+.gitignore
+.travis.yml
+LICENSE.txt
+Module.php
+README.md
+composer.json
+mkdocs.yml
+phpunit.xml

@@ -1,0 +1,17 @@
+app/
+bin/
+build/
+public/
+src/CypressLab/GitWalrus/
+.bowerrc
+.gitignore
+.scrutinizer.yml
+.travis.yml
+Gruntfile.coffee
+README.md
+bower.json
+composer.json
+composer.lock
+package.json
+phpunit.xml
+phpunit.xml.dist

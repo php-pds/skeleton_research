@@ -1,0 +1,9 @@
+bin/php/
+classes/
+collaborationhandlers/openpabooking/
+design/
+eventtypes/event/openpabooking/
+lib/
+modules/openpa_booking/
+settings/
+composer.json

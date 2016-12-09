@@ -1,0 +1,9 @@
+Mage/
+bin/
+docs/
+tests/MageTest/
+.gitignore
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

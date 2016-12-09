@@ -1,0 +1,13 @@
+img/
+translations/
+CHANGELOG.txt
+Readme.md
+blockreinsurance.php
+blockreinsurance.tpl
+composer.json
+config.xml
+index.php
+logo.gif
+logo.png
+reinsuranceClass.php
+style.css

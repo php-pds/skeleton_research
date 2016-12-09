@@ -1,0 +1,9 @@
+CpanelPhp/Cpanel/
+Tests/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock
+config.sample
+index.php

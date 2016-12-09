@@ -1,0 +1,6 @@
+config/
+src/Prototype/Controller/
+LICENSE
+Module.php
+README.md
+composer.json

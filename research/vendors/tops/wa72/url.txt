@@ -1,0 +1,8 @@
+src/Wa72/Url/
+tests/
+.gitignore
+.travis.yml
+README.md
+composer.json
+phpunit.xml.dist
+phpunit_bootstrap.php

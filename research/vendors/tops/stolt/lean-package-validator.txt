@@ -1,0 +1,17 @@
+.github/
+bin/
+example/
+src/
+tests/
+.ctl.cache
+.editorconfig
+.gitattributes
+.gitignore
+.gitmessage
+.php_cs
+.travis.yml
+CHANGELOG.md
+LICENSE.md
+README.md
+composer.json
+phpunit.xml.dist

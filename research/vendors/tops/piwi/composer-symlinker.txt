@@ -1,0 +1,5 @@
+src/ComposerSymlinker/
+.gitignore
+README.md
+UNLICENSE
+composer.json

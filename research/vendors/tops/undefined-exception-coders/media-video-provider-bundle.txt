@@ -1,0 +1,16 @@
+CDN/
+DependencyInjection/
+Doctrine/
+Entity/
+FileSystem/
+Form/
+Http/
+Model/
+Provider/
+Resources/config/
+Validator/Constraints/
+.gitignore
+LICENSE
+README.md
+UECMediaVideoProviderBundle.php
+composer.json

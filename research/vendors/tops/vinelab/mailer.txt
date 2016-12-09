@@ -1,0 +1,8 @@
+config/
+src/Vinelab/Mailer/
+tests/
+.gitignore
+.travis.yml
+README.md
+composer.json
+phpunit.xml

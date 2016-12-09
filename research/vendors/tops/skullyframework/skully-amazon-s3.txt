@@ -1,0 +1,7 @@
+SkullyAwsS3/
+Tests/
+public/
+.DS_Store
+.gitignore
+README.md
+composer.json

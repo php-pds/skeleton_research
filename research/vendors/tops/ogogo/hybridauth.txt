@@ -1,0 +1,7 @@
+additional-providers/
+examples/
+hybridauth/
+.DS_Store
+README.html
+README.md
+composer.json

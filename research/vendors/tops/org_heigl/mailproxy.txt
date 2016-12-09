@@ -1,0 +1,7 @@
+config/
+src/OrgHeiglMailproxy/
+view/org-heigl-mailproxy/proxy/
+Module.php
+README
+autoload_classmap.php
+composer.json

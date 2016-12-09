@@ -1,0 +1,6 @@
+includes/
+templates/
+LICENSE
+README.md
+composer.json
+cpt-date-archives.php

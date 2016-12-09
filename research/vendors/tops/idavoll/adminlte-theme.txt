@@ -1,0 +1,12 @@
+assets/
+resources/assets/
+views/
+.bowerrc
+.gitignore
+bower.json
+changelog.yml
+composer.json
+elixir.json
+gulpfile.js
+package.json
+theme.json

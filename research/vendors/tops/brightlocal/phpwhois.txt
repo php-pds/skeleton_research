@@ -1,0 +1,17 @@
+docs/
+example/
+src/
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+VERSION
+composer.json
+handler.template.php
+phpunit.xml.dist
+test.txt
+testsuite.php
+testsuite.txt

@@ -1,0 +1,7 @@
+src/Centrifuge/
+tests/
+LICENSE
+README.md
+README_RUS.md
+composer.json
+phpunit.xml

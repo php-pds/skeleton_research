@@ -1,0 +1,11 @@
+bin/
+res/
+src/
+.gitignore
+.travis.yml
+Gofile
+LICENSE
+README.md
+composer.json
+crate.json.dist
+phpunit.xml.dist

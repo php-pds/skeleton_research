@@ -1,0 +1,9 @@
+Collector/
+Controller/
+DependencyInjection/
+Resources/
+Tests/
+.gitignore
+EdgeAnalyticsBundle.php
+README.md
+composer.json

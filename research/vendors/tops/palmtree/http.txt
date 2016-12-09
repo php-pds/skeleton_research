@@ -1,0 +1,6 @@
+examples/
+.gitignore
+Curl.php
+README.md
+RemoteUser.php
+composer.json

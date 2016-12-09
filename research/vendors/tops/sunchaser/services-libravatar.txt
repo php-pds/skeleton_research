@@ -1,0 +1,7 @@
+Services/
+docs/
+tests/
+.gitignore
+LICENCE
+composer.json
+makepackage.php

@@ -1,0 +1,12 @@
+Adapter/
+DependencyInjection/
+EventListener/
+Resources/config/
+Security/
+Traits/
+ezpublish_legacy/identitymanagementextension/
+.gitignore
+KaliopIdentityManagementBundle.php
+composer.json
+readme.md
+todo.md

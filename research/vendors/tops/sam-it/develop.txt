@@ -1,0 +1,12 @@
+bin/
+commands/
+config/
+runtime/
+.gitignore
+README.md
+Vagrantfile
+composer.json
+composer.lock
+index.php
+provision.sh
+view.php

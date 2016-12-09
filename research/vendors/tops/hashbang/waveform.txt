@@ -1,0 +1,8 @@
+styles/
+tests/
+.gitignore
+Makefile
+README.md
+TODO.md
+composer.json
+waveform.php

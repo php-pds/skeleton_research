@@ -1,0 +1,7 @@
+bin/
+sources/
+tests/Porter/
+.gitignore
+LICENSE
+README.md
+composer.json

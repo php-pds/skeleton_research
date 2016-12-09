@@ -1,0 +1,7 @@
+Controller/
+config/
+nbproject/
+src/ZF2Email/
+.gitignore
+Module.php
+composer.json

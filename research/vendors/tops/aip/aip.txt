@@ -1,0 +1,10 @@
+AiP/
+bin/
+examples/
+tests/
+.gitignore
+.travis.yml
+AUTHORS
+LICENSE
+README.markdown
+composer.json

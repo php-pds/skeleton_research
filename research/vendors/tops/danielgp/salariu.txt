@@ -1,0 +1,13 @@
+Salariu/
+nbproject/
+sourceforge.net/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+favicon.ico
+index.php
+nbrfxrates.xml
+run-me.bat

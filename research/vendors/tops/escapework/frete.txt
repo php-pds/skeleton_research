@@ -1,0 +1,14 @@
+resources/
+samples/
+spec/
+src/
+.editorconfig
+.gitignore
+.travis.yml
+LICENSE
+bootstrap.php
+changelog.md
+composer.json
+composer.lock
+phpspec.yml
+readme.md

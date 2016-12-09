@@ -1,0 +1,3 @@
+src/SilexConsole/
+README.md
+composer.json

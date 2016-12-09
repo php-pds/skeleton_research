@@ -1,0 +1,9 @@
+DependencyInjection/
+Element/
+Resources/
+Tests/
+.gitignore
+LICENSE
+MapbenderDataManagerBundle.php
+README.md
+composer.json

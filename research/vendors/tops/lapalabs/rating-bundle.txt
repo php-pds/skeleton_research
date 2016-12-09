@@ -1,0 +1,11 @@
+Controller/
+DependencyInjection/
+EntityListener/
+EventSubscriber/
+Form/DataTransformer/
+Model/
+Resources/
+LICENSE
+LapaLabsRatingBundle.php
+README.md
+composer.json

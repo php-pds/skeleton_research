@@ -1,0 +1,13 @@
+bin/
+config/
+doc/
+src/DoctrineMongoODMModule/
+tests/
+view/zend-developer-tools/toolbar/
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENSE
+Module.php
+README.md
+composer.json

@@ -1,0 +1,12 @@
+spec/Black/Common/
+src/Common/
+tests/Common/Application/Form/Type/
+.gitattributes
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CONTRIBUTING.md
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

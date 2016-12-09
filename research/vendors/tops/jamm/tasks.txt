@@ -1,0 +1,17 @@
+Tests/
+test/
+vendors/
+.gitignore
+.gitmodules
+.travis.yml
+Executor.php
+IStorage.php
+ITask.php
+MailDelayed.php
+MemStorage.php
+README.md
+StorageFiles.php
+Task.php
+composer.json
+demo.php
+tasks_cron.php

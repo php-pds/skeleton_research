@@ -1,0 +1,10 @@
+Lib/Error/Exception/
+Model/Behavior/
+Test/
+.editorconfig
+.semver
+.travis.yml
+CONTRIBUTING.md
+LICENSE.txt
+README.markdown
+composer.json

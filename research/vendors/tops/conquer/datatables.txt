@@ -1,0 +1,6 @@
+extensions/
+DatatablesAsset.php
+DatatablesPluginsAsset.php
+LICENSE
+README.md
+composer.json

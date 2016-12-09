@@ -1,0 +1,8 @@
+dist/
+tests/
+README.md
+bower.json
+composer.json
+karma-saucelabs.conf.js
+karma.conf.js
+package.json

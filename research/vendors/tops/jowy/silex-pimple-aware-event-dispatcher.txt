@@ -1,0 +1,9 @@
+src/Silex/
+tests/
+.gitignore
+.scrutinizer
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

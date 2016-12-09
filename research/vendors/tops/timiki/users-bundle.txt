@@ -1,0 +1,7 @@
+DependencyInjection/
+Models/
+Resources/config/
+Security/
+README.md
+UsersBundle.php
+composer.json

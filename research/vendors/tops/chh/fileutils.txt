@@ -1,0 +1,7 @@
+lib/CHH/FileUtils/
+tests/
+.gitignore
+LICENSE.txt
+bob_config.php
+composer.json
+phpunit.dist.xml

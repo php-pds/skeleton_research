@@ -1,0 +1,13 @@
+_config/
+code/
+css/
+images/
+javascript/
+scss/
+templates/
+thirdparty/
+.editorconfig
+LICENSE
+README.md
+_config.php
+composer.json

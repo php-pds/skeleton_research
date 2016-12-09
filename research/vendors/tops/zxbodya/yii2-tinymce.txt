@@ -1,0 +1,8 @@
+vendors/tinymce/
+DummyFileManager.php
+FileManager.php
+TinyMce.php
+TinyMceAsset.php
+TinyMceCompressorAction.php
+composer.json
+readme.md

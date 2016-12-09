@@ -1,0 +1,9 @@
+Bridge/
+ComposerOverloadClass/Doctrine/ORM/Internal/
+Doctrine/
+EventSubscriber/
+README.md
+changelog.md
+composer.json
+symfony_profiler.jpg
+symfony_profiler_panel.jpg

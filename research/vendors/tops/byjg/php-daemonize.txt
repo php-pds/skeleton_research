@@ -1,0 +1,10 @@
+nbproject/
+scripts/
+src/
+template/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+example.php

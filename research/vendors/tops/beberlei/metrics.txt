@@ -1,0 +1,8 @@
+example/
+src/Beberlei/
+.gitignore
+.travis.yml
+README.md
+UPGRADE-2.0.md
+composer.json
+phpunit.xml.dist

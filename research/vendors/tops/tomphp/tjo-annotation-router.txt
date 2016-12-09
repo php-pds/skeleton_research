@@ -1,0 +1,13 @@
+.travis/
+bin/
+config/
+src/TjoAnnotationRouter/
+tests/TjoAnnoationRouterTests/
+.gitignore
+.travis.yml
+LICENSE.txt
+Module.php
+README.md
+clover.xml
+composer.json
+phpunit.xml.dist

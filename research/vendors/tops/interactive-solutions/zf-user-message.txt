@@ -1,0 +1,7 @@
+config/
+src/InteractiveSolutions/UserMessage/
+view/default/
+.gitignore
+Module.php
+README.md
+composer.json

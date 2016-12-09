@@ -1,0 +1,11 @@
+console/
+views/
+web/
+Api.php
+CrmFindContactWidget.php
+DbHelper.php
+README.md
+autoload.php
+composer.json
+crm-config.php
+mysql.schema.sql

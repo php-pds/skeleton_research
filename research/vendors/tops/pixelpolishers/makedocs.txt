@@ -1,0 +1,6 @@
+src/MakeDocs/
+themes/default/
+.gitignore
+LICENSE
+README.md
+composer.json

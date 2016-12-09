@@ -1,0 +1,15 @@
+CompilerPass/
+DataFixtures/ORM/
+DependencyInjection/
+Resources/config/
+Tests/Functional/
+.coveralls.yml
+.editorconfig
+.gitignore
+.travis.yml
+CONTRIBUTING.md
+ElcodiCartCouponBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

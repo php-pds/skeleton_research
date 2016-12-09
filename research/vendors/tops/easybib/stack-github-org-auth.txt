@@ -1,0 +1,5 @@
+src/ImagineEasy/Stack/
+.gitignore
+LICENSE.txt
+README.md
+composer.json

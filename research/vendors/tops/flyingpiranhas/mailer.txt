@@ -1,0 +1,9 @@
+exceptions/
+fp/mysql/
+interfaces/
+.gitignore
+LICENSE.md
+Mailer.php
+README.md
+Version.php
+composer.json

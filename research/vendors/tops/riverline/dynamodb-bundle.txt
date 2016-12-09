@@ -1,0 +1,4 @@
+src/Riverline/DynamoDBBundle/
+LICENSE
+README.md
+composer.json

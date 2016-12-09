@@ -1,0 +1,6 @@
+src/
+tests/Security/Http/
+.gitignore
+README.md
+composer.json
+phpunit.xml.dist

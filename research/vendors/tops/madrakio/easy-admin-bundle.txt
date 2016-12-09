@@ -1,0 +1,11 @@
+Chain/
+Controller/
+CrudView/
+DependencyInjection/
+Menu/
+Resources/
+Security/
+LICENSE
+MadrakIOEasyAdminBundle.php
+README.md
+composer.json

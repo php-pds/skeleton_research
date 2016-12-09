@@ -1,0 +1,5 @@
+JLaso/SlimRoutingManager/
+.gitignore
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,9 @@
+src/phpbrowscap/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.markdown
+composer.json
+php_browscap.ini
+phpunit.xml.dist

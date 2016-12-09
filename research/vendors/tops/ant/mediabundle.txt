@@ -1,0 +1,7 @@
+Controller/
+Document/
+Entity/
+PHPCR/
+Resources/
+AntMediaBundle.php
+composer.json

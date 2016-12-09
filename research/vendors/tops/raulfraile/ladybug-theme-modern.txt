@@ -1,0 +1,6 @@
+Resources/
+View/Html/
+LICENSE
+ModernTheme.php
+README.md
+composer.json

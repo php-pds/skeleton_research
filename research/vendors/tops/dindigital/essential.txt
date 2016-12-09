@@ -1,0 +1,3 @@
+library/Din/Essential/
+README.md
+composer.json

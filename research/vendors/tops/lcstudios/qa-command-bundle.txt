@@ -1,0 +1,6 @@
+Command/
+.gitignore
+LCStudiosQACommandBundle.php
+LICENSE
+README.md
+composer.json

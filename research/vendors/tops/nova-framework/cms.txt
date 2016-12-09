@@ -1,0 +1,14 @@
+app/
+assets/
+public/
+scripts/
+shared/
+system/
+.gitignore
+.htaccess
+LICENSE.txt
+README.md
+VERSION.txt
+composer.json
+nova
+server.php

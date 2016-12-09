@@ -1,0 +1,10 @@
+Entity/
+Factory/
+Repository/
+Services/
+Test/Unit/
+.gitignore
+.travis.yml
+README.md
+composer.json
+phpunit.xml.dist

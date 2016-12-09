@@ -1,0 +1,4 @@
+Configuration/
+.gitignore
+composer.json
+composer.lock

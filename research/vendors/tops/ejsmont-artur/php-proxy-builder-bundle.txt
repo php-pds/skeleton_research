@@ -1,0 +1,12 @@
+Adapter/
+DependencyInjection/
+Docs/
+Resources/
+Tests/
+.gitignore
+.travis.yml
+EjsmontPhpProxyBuilderBundle.php
+LICENSE
+README.md
+build.xml
+composer.json

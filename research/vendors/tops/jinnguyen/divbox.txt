@@ -1,0 +1,10 @@
+css/
+images/
+photos/
+players/
+LICENSE
+README.md
+ajax.html
+composer.json
+divbox.js
+index.html

@@ -1,0 +1,5 @@
+doc/database/migrations/
+lib/atk4/messages/
+public/js/
+composer.json
+readme.md

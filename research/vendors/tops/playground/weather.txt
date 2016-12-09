@@ -1,0 +1,10 @@
+config/
+src/PlaygroundWeather/
+tests/
+views/
+.gitignore
+Module.php
+README.md
+autoload_classmap.php
+composer.json
+phpunit.xml.dist

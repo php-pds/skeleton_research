@@ -1,0 +1,16 @@
+src/
+test/
+.gitattributes
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CHANGELOG.md
+CONTRIBUTING.md
+CREDITS.md
+LICENSE
+README.PROVIDER-GUIDE.md
+README.PROVIDERS.md
+README.UPGRADING.md
+README.md
+composer.json
+phpunit.xml

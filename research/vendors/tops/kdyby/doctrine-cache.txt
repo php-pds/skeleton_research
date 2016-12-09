@@ -1,0 +1,8 @@
+src/Kdyby/DoctrineCache/
+tests/
+.gitattributes
+.gitignore
+.travis.yml
+README.md
+composer.json
+license.md

@@ -1,0 +1,8 @@
+src/Tinder/
+tests/Tinder/Test/
+.gitignore
+.travis.yml
+LICENCE
+README.md
+composer.json
+phpunit.xml.dist

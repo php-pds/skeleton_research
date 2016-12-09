@@ -1,0 +1,11 @@
+DependencyInjection/
+Model/
+Resources/
+Service/
+Tests/
+.gitignore
+.travis.yml
+README.md
+SwisMoonPhaseBundle.php
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,10 @@
+src/bitExpert/Slf4PsrLog/
+tests/
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+phpdoc.dist.xml
+phpmd.xml
+phpunit.xml.dist

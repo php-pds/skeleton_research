@@ -1,0 +1,3 @@
+src/Monolog/
+.gitignore
+composer.json

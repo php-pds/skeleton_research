@@ -1,0 +1,11 @@
+spec/Artesaos/SEOTools/
+src/
+tests/SEOTools/
+.editorconfig
+.gitignore
+.styleci.yml
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml

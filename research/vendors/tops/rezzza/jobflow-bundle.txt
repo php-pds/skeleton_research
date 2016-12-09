@@ -1,0 +1,12 @@
+Command/
+DependencyInjection/
+Resources/
+Tests/Units/DependencyInjection/
+.atoum.bootstrap.php
+.atoum.php
+.gitignore
+.travis.yml
+LICENSE
+README.md
+RezzzaJobflowBundle.php
+composer.json

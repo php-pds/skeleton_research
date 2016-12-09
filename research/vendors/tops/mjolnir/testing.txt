@@ -1,0 +1,10 @@
++App/config/
+PHPUnit/
+.gitattributes
+.gitignore
+AnotherExampleClass.php
+HiddenExampleClass.php
+SimpleExampleClass.php
+composer.json
+license.md
+readme.md

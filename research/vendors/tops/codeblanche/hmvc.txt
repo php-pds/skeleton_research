@@ -1,0 +1,8 @@
+src/HMVC/
+tests/
+.gitignore
+LICENSE
+README.md
+bootstrap.php
+composer.json
+composer.lock

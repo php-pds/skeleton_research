@@ -1,0 +1,8 @@
+js/forum/
+scripts/
+.gitignore
+LICENSE
+README.md
+bootstrap.php
+composer.json
+redirect.svg

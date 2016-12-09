@@ -1,0 +1,13 @@
+Bridge/Doctrine/Helper/
+Datagrid/
+DependencyInjection/
+Resources/
+Tests/
+.gitignore
+.travis.yml
+DoctrineDatagridBundle.php
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

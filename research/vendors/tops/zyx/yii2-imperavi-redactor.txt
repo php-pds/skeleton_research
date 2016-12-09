@@ -1,0 +1,9 @@
+assets/
+.gitattributes
+.gitignore
+CHANGELOG.md
+LICENSE.md
+README.md
+Redactor.php
+RedactorAsset.php
+composer.json

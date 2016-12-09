@@ -1,0 +1,11 @@
+DataCollector/
+DependencyInjection/
+Filter/
+Handler/
+Resources/
+Tests/
+.gitignore
+README.md
+TcAsseticFilterBundle.php
+composer.json
+phpunit.xml.dist

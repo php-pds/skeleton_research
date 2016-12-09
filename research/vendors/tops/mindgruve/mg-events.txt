@@ -1,0 +1,10 @@
+assets/
+models/
+validators/
+views/
+widgets/
+.gitignore
+LICENSE
+MgEventsRequirements.php
+composer.json
+mg-events.php

@@ -1,0 +1,7 @@
+.gitignore
+ArchiNewsTab.i18n.magic.php
+ArchiNewsTab.php
+LICENSE
+README.md
+composer.json
+extension.json

@@ -1,0 +1,9 @@
+config/
+language/
+.gitignore
+CHANGELOG.md
+LICENSE.txt
+Module.php
+README.md
+TODO.md
+composer.json

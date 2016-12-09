@@ -1,0 +1,4 @@
+Classes/TYPO3/MailForm/
+Configuration/
+Resources/Private/
+composer.json

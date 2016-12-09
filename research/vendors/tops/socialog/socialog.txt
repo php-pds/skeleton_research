@@ -1,0 +1,12 @@
+config/
+data/cache/
+module/
+public/
+themes/
+vendor/
+.gitignore
+README.md
+build.xml
+composer.json
+composer.phar
+init_autoloader.php

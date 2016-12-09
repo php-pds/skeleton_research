@@ -1,0 +1,13 @@
+src/
+tests/
+.editorconfig
+.gitignore
+.phpstorm.meta.php
+.travis.yml
+CHANGELOG.md
+LICENSE.md
+Makefile
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

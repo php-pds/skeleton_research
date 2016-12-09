@@ -1,0 +1,3 @@
+src/JiraApi/
+README.md
+composer.json

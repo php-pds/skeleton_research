@@ -1,0 +1,7 @@
+SmartyPlugins/
+README.md
+Smarty.php
+Twig.php
+TwigExtension.php
+View.php
+composer.json

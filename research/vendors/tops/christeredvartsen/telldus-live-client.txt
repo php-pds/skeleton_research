@@ -1,0 +1,8 @@
+src/TelldusLive/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+Rakefile
+composer.json

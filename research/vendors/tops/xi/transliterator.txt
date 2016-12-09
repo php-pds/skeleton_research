@@ -1,0 +1,6 @@
+library/Xi/Transliterator/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,3 @@
+README.md
+cdn.php
+composer.json

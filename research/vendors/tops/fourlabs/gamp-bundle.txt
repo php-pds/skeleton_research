@@ -1,0 +1,10 @@
+DependencyInjection/
+Resources/config/
+Service/
+Tests/
+.styleci.yml
+FourLabsGampBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,6 @@
+controllers/
+models/
+views/
+Install.php
+README.md
+composer.json

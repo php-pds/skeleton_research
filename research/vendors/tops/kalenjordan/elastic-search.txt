@@ -1,0 +1,6 @@
+app/
+example/
+README.md
+admin-global-search-autocomplete.php
+composer.json
+modman

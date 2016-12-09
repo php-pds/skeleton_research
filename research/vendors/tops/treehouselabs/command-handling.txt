@@ -1,0 +1,12 @@
+src/TreeHouse/CommandHandling/
+tests/TreeHouse/CommandHandling/Tests/
+.editorconfig
+.gitignore
+.php_cs
+.scrutinizer.yml
+.travis.yml
+CHANGELOG.md
+LICENSE.md
+README.md
+composer.json
+phpunit.xml.dist

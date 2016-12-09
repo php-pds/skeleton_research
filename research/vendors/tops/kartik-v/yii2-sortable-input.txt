@@ -1,0 +1,7 @@
+assets/js/
+CHANGE.md
+LICENSE.md
+README.md
+SortableInput.php
+SortableInputAsset.php
+composer.json

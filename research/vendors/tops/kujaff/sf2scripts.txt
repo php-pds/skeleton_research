@@ -1,0 +1,17 @@
+.gitignore
+README.md
+asseticdump.sh
+assetsinstall.sh
+cache.sh
+composer.json
+composerinstall.sh
+composerupdate.sh
+csfixer.sh
+dirs.sh
+doctrinecache.sh
+doctrinemigrations.sh
+functions.sh
+php-cs-fixer.phar
+pull.sh
+schema.sh
+scripts.sh

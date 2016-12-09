@@ -1,0 +1,10 @@
+docs/
+examples/
+library/EasyBib/
+tests/
+.gitignore
+.travis.yml
+README.md
+composer.json
+generate-package.php
+package.xml

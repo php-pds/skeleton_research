@@ -1,0 +1,14 @@
+build/
+ice/
+tests/
+vendor/
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+composer.json
+config.json
+id_pgp.enc
+id_rsa.enc
+install

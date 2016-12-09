@@ -1,0 +1,11 @@
+Controller/
+DependencyInjection/
+Entity/
+Model/
+Repository/
+Resources/
+Tests/Controller/
+.gitignore
+BtoBSocialNetworkEntityBundle.php
+README.md
+composer.json

@@ -1,0 +1,6 @@
+config/
+src/LifecycleEvents/Event/
+.gitignore
+Module.php
+README.md
+composer.json

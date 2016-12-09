@@ -1,0 +1,11 @@
+Api/Quote/
+Model/Quote/
+etc/
+view/frontend/
+CHANGELOG.md
+COPYING.txt
+LICENSE.txt
+LICENSE_AFL.txt
+README.md
+composer.json
+registration.php

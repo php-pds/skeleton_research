@@ -1,0 +1,13 @@
+_config/
+code/
+css/
+javascript/
+templates/
+uikit/
+.gitattributes
+.gitignore
+.scrutinizer.yml
+LICENSE
+README.md
+_config.php
+composer.json

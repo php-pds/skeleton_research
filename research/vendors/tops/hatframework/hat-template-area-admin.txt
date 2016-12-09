@@ -1,0 +1,7 @@
+css/
+eventos/
+img/
+.gitattributes
+.gitignore
+area-adminTemplate.php
+composer.json

@@ -1,0 +1,12 @@
+Configuration/
+Controller/Api/
+DependencyInjection/
+Entity/
+EntityManagerService/
+Repository/
+Resources/config/
+WidgetType/
+LICENSE
+README.md
+StreamPerkFileBundle.php
+composer.json

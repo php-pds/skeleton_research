@@ -1,0 +1,9 @@
+Command/
+DependencyInjection/
+Formatter/
+Generator/
+Resources/
+KpicazaGenBundle.php
+LICENSE
+README.md
+composer.json

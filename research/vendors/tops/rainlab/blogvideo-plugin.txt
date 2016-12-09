@@ -1,0 +1,8 @@
+assets/
+partials/
+updates/
+.gitignore
+LICENCE.md
+Plugin.php
+README.md
+composer.json

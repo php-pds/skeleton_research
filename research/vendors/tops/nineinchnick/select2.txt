@@ -1,0 +1,7 @@
+assets/
+messages/
+.gitignore
+ESelect2.php
+LICENSE
+README.md
+composer.json

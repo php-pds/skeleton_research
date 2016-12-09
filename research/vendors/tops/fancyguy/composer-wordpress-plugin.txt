@@ -1,0 +1,6 @@
+res/
+src/
+.dir-locals.el
+.editorconfig
+.gitignore
+composer.json

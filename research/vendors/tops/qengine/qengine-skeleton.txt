@@ -1,0 +1,12 @@
+config/
+data/
+module/Application/
+public/
+test/
+.gitignore
+README.md
+build.properties
+build.xml
+composer.json
+docker-compose.yml
+run-in-docker.sh

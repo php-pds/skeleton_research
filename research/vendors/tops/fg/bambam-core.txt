@@ -1,0 +1,3 @@
+src/fg/Bambam/
+.gitignore
+composer.json

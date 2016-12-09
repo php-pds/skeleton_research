@@ -1,0 +1,8 @@
+core.apps.bookmarks/
+core.apps.comments/
+core.apps.contact_us/
+core.apps.follow_me_twitter/
+core.apps.site_auth/
+core.apps.twitter/
+core.apps.user_reg/
+composer.json

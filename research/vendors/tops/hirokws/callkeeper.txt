@@ -1,0 +1,5 @@
+src/
+tests/develop/
+.gitignore
+composer.json
+readme.md

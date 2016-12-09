@@ -1,0 +1,16 @@
+bin/
+examples/
+lib/ILess/
+tests/
+.gitattributes
+.gitignore
+.php_cs
+.travis.yml
+CONTRIBUTING.md
+LICENSE
+README.md
+box.json
+composer.json
+logo.png
+logo.svg
+phpunit.xml.dist

@@ -1,0 +1,6 @@
+ajax/
+system/modules/rhyme_ajax/
+.gitignore
+LICENSE
+README.md
+composer.json

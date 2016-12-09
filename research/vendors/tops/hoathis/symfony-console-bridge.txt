@@ -1,0 +1,12 @@
+Formatter/
+Helper/
+Output/
+Tests/
+bin/
+.atoum.php
+.bootstrap.atoum.php
+.gitattributes
+.gitignore
+.travis.yml
+README.md
+composer.json

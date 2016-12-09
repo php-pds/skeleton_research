@@ -1,0 +1,15 @@
+assets/
+history/
+layouts/
+recovery/
+security/
+site/
+tests/
+web/
+.gitignore
+README.md
+Theme.php
+codeception.yml
+composer.json
+gulpfile.js
+package.json

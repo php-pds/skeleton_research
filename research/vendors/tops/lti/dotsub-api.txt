@@ -1,0 +1,9 @@
+examples/
+src/DotSUB/
+tests/
+.codeclimate.yml
+.gitignore
+.travis.yml
+README.md
+composer.json
+phpunit.xml

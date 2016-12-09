@@ -1,0 +1,11 @@
+assets/
+css/
+protected/
+t/
+themes/classic/views/
+.gitignore
+.hgignore
+Makefile
+composer.json
+index-test.php
+index.php

@@ -1,0 +1,13 @@
+behaviors/
+components/
+console/controllers/
+controllers/
+migrations/
+models/
+views/real-estate/
+widgets/
+Bootstrap.php
+Module.php
+README.md
+composer.json
+config.php

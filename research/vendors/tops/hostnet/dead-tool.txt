@@ -1,0 +1,10 @@
+bin/
+src/
+tests/tree/
+.gitignore
+Makefile
+README.md
+composer.json
+composer.lock
+composer.phar
+phpunit.xml.dist

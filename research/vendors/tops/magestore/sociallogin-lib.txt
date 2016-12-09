@@ -1,0 +1,11 @@
+Author/
+Facebook/
+Facebookv3/
+Foursquare/
+Oauth2/
+OpenId/
+Vk/
+Yahoo/
+Zend/
+instagram/
+composer.json

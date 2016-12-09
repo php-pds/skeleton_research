@@ -1,0 +1,6 @@
+src/Versionable/Mandrill/
+tests/
+.gitignore
+README.md
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,4 @@
+.gitignore
+Enum.php
+README.md
+composer.json

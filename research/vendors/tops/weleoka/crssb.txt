@@ -1,0 +1,17 @@
+coverage/
+report/
+src/Crssb/
+test/
+webroot/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE.txt
+README.md
+autoloader.php
+composer.json
+composer.phar
+coverage.clover
+phpunit.xml.dist
+tempcode.tmp.php
+travismos.travis.yml

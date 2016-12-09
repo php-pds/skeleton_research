@@ -1,0 +1,11 @@
+demo/
+doc/
+src/Jkphl/
+tests/php/
+CHANGELOG.md
+LICENSE.txt
+README.md
+bower.json
+composer.json
+micrometa.phps
+package.json

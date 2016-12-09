@@ -1,0 +1,11 @@
+docs/
+src/Majora/
+.gitignore
+.scrutinizer.yml
+.sensiolabs.yml
+.travis.yml
+LICENSE.md
+Makefile
+README.md
+composer.json
+phpunit.xml.dist

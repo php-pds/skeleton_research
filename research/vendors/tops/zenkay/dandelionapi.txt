@@ -1,0 +1,7 @@
+src/
+tests/
+.gitignore
+.travis.yml
+README.md
+composer.json
+phppackage.png

@@ -1,0 +1,14 @@
+app/
+src/
+tests/
+tools/
+.codeclimate.yml
+.coveralls.yml
+.editorconfig
+.gitattributes
+.gitignore
+.travis.yml
+LICENSE.md
+README.md
+composer.json
+phpunit.xml.dist

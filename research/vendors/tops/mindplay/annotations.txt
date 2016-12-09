@@ -1,0 +1,13 @@
+demo/
+docs/
+src/annotations/
+test/
+.gitignore
+.travis.yml
+CHANGELOG.md
+README.md
+composer.json
+composer.lock
+lgpl-3.0.txt
+php-doc notes.txt
+todo.txt

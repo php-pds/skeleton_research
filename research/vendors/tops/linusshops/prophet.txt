@@ -1,0 +1,16 @@
+defaults/
+frameworks/
+plugins/
+src/LinusShops/Prophet/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+behat.yml
+composer.json
+composer.lock
+make_test_environment.sh
+phpunit.xml
+prophet
+scrutinizer.yml

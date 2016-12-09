@@ -1,0 +1,13 @@
+Annotation/
+DependencyInjection/
+Document/
+EventListener/
+Exception/
+MarkerManager/
+Resources/config/
+Schema/
+Service/
+Store/
+README.md
+TalakaDoctrineVersioningBundle.php
+composer.json

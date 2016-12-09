@@ -1,0 +1,12 @@
+Ajax/
+Db/
+Form/Field/
+Module/
+images/
+sql/
+.gitignore
+Plugin.php
+changelog.md
+composer.json
+icon.png
+readme.md

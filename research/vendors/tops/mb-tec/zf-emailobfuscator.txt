@@ -1,0 +1,5 @@
+src/EmailObfuscator/View/Helper/
+LICENSE
+Module.php
+autoload_classmap.php
+composer.json

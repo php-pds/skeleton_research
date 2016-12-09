@@ -1,0 +1,11 @@
+DependencyInjection/
+Generator/
+Lib/
+Resources/
+Tests/
+Twig/Extensions/
+Type/
+IDCIBarcodeBundle.php
+LICENSE
+README.md
+composer.json

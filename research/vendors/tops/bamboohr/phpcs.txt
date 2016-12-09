@@ -1,0 +1,3 @@
+BambooHR/
+.gitignore
+composer.json

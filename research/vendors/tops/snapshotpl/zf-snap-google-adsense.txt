@@ -1,0 +1,10 @@
+config/
+src/ZfSnapGoogleAdSense/
+tests/
+view/zf-snap-google-adsense/renderer/view/
+.gitignore
+.travis.yml
+LICENSE
+Module.php
+README.md
+composer.json

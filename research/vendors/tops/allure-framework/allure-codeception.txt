@@ -1,0 +1,5 @@
+src/Yandex/Allure/Adapter/
+.gitignore
+LICENSE
+README.md
+composer.json

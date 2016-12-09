@@ -1,0 +1,13 @@
+doc/
+lib/Money/
+tests/Money/Tests/
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+VERSION
+build.xml
+composer.json
+composer.lock
+phpunit.xml.dist

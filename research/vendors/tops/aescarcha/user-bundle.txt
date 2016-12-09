@@ -1,0 +1,15 @@
+Controller/
+DataFixtures/ORM/
+DependencyInjection/
+Entity/
+EventListener/
+Form/
+Resources/
+Security/Core/User/
+Tests/
+Transformer/
+.gitignore
+AescarchaUserBundle.php
+README.md
+composer.json
+composer.lock

@@ -1,0 +1,13 @@
+config/
+data/
+src/UthandoArticle/
+test/
+view/uthando-article/article/
+.codeclimate.yml
+.travis.yml
+LICENSE
+Module.php
+README.md
+autoload_classmap.php
+composer.json
+template_map.php

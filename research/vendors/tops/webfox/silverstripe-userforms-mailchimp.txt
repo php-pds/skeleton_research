@@ -1,0 +1,10 @@
+code/
+icons/
+images/
+lang/
+.gitattributes
+.gitignore
+LICENSE
+README.md
+_config.php
+composer.json

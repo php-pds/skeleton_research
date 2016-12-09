@@ -1,0 +1,6 @@
+bin/
+conf/
+lib/
+.gitattributes
+README.md
+composer.json

@@ -1,0 +1,15 @@
+Config/
+acesso/classes/
+action/
+experimento/classes/
+hatapp/
+index/classes/
+model/
+permissao/classes/
+plug/
+setup/
+tests/
+.gitattributes
+.gitignore
+autoload.php
+composer.json

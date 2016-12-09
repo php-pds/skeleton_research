@@ -1,0 +1,16 @@
+code/
+css/
+images/
+javascript/
+lang/
+tasks/
+templates/
+tests/
+thirdparty/
+.htaccess
+.travis.yml
+README.md
+_config.php
+composer.json
+silverstripe_version
+web.config

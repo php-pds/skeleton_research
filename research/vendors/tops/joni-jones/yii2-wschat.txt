@@ -1,0 +1,16 @@
+assets/
+collections/
+components/
+doc/
+messages/
+tests/
+views/
+.gitignore
+.scrutinizer.yml
+ChatAsset.php
+ChatLibAsset.php
+ChatWidget.php
+LICENSE.md
+README.md
+composer.json
+composer.lock

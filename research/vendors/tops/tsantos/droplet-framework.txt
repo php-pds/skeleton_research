@@ -1,0 +1,10 @@
+features/
+spec/
+src/
+.gitignore
+.travis.yml
+README.md
+Vagrantfile
+composer.json
+index.rst
+phpspec.yml

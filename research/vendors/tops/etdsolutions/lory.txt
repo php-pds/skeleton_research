@@ -1,0 +1,6 @@
+LICENSE
+composer.json
+jquery.lory.js
+jquery.lory.min.js
+lory.js
+lory.min.js

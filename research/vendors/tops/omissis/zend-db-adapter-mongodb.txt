@@ -1,0 +1,6 @@
+lib/Zend/
+src/Zend/Db/Adapter/
+tests/Zend/Db/Adapter/
+.gitignore
+composer.json
+phpunit.xml

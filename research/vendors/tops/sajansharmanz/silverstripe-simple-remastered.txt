@@ -1,0 +1,15 @@
+css/
+docs/
+fonts/
+js/
+scss/
+templates/
+.editorconfig
+.gitattributes
+.gitignore
+.scrutinizer.yml
+CONTRIBUTING.md
+ChangeLog.md
+LICENSE
+README.md
+composer.json

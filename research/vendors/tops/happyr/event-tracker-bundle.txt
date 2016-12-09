@@ -1,0 +1,15 @@
+DependencyInjection/
+Entity/
+Event/
+Manager/
+Resources/config/
+Service/
+Test/Entity/
+Twig/
+.gitignore
+.travis.yml
+HappyrEventTrackerBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

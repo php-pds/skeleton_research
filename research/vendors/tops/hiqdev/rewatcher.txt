@@ -1,0 +1,15 @@
+.hidev/
+bin/
+docs/readme/
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+chkipper.json
+composer.json
+history.md
+setup.py
+version

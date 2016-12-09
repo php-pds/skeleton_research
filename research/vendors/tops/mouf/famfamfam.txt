@@ -1,0 +1,6 @@
+flags/
+icons/
+composer.json
+logo.png
+readme.html
+readme.txt

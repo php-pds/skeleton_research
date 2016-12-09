@@ -1,0 +1,9 @@
+public/
+src/
+tests/
+.editorconfig
+.gitignore
+README.md
+VERSION
+composer.json
+phpunit.xml

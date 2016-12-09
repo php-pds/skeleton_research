@@ -1,0 +1,6 @@
+src/Clevis/Version/DI/
+static/
+.gitignore
+composer.json
+license.md
+readme.md

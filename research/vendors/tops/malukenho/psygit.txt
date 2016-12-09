@@ -1,0 +1,7 @@
+src/PsyGit/
+tests/PsyGitTest/Command/
+.gitignore
+README.md
+composer.json
+phpunit.xml.dist
+psy-git.jpg

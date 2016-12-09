@@ -1,0 +1,12 @@
+src/ITMH/Soap/
+tests/
+.editorconfig
+.gitignore
+.travis.yml
+LICENSE
+README.md
+build.xml
+circle.yml
+codeception.yml
+composer.json
+composer.lock

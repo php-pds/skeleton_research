@@ -1,0 +1,11 @@
+actions/
+assets/
+bower_components/
+yii1compat/
+.bowerrc
+.gitignore
+README.md
+SirTrevor.php
+SirTrevorConverter.php
+bower.json
+composer.json

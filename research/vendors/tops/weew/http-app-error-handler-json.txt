@@ -1,0 +1,8 @@
+src/Weew/HttpApp/ErrorHandler/Json/
+tests/
+.gitignore
+.travis.yml
+composer.json
+licence.md
+phpspec.yml
+readme.md

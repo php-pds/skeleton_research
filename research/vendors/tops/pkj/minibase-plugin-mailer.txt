@@ -1,0 +1,6 @@
+src/Pkj/Minibase/Plugin/MailerPlugin/
+tests/
+.gitignore
+README.md
+composer.json
+phpunit.xml.dist

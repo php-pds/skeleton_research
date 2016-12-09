@@ -1,0 +1,8 @@
+DependencyInjection/
+Doctrine/
+Entity/
+Form/Type/
+Resources/config/
+Services/
+BaikalModelBundle.php
+composer.json

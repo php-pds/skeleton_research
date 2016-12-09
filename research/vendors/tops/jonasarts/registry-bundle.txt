@@ -1,0 +1,13 @@
+Controller/
+DependencyInjection/
+Entity/
+Form/Type/
+Resources/
+Services/
+Tests/
+.gitignore
+LICENSE
+README.md
+RegistryBundle.php
+composer.json
+registry-bundle.iml

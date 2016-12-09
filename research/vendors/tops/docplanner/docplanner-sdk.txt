@@ -1,0 +1,6 @@
+documentation/
+examples/
+src/DocPlanner/SDK/
+.gitignore
+README.md
+composer.json

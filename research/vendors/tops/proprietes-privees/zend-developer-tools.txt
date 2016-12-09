@@ -1,0 +1,7 @@
+config/
+src/ZendDeveloperTools/
+view/zend-developer-tools/
+LICENSE.txt
+Module.php
+README.md
+composer.json

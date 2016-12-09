@@ -1,0 +1,11 @@
+controllers/
+messages/zh-CN/
+migrations/
+models/
+views/default/
+Bootstrap.php
+Component.php
+LICENSE.md
+Module.php
+README.md
+composer.json

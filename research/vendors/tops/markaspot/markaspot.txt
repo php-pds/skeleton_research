@@ -1,0 +1,7 @@
+config/
+README.md
+composer.json
+markaspot.info.yml
+markaspot.install
+markaspot.links.menu.yml
+markaspot.profile

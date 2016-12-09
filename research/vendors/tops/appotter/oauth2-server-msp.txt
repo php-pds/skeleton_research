@@ -1,0 +1,7 @@
+config/
+database/migrations/
+src/
+LICENSE
+README.md
+composer.json
+phpspec.yml.dist

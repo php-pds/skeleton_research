@@ -1,0 +1,9 @@
+src/Opdavies/GmailFilterBuilder/
+templates/
+tests/
+.editorconfig
+.gitignore
+README.md
+composer.json
+composer.lock
+phpunit.xml

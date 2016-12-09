@@ -1,0 +1,5 @@
+lib/Core/
+.gitignore
+README.md
+composer.json
+phpunit.xml

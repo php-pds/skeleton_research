@@ -1,0 +1,11 @@
+.gitignore
+.travis.yml
+CHANGES.md
+CONTRIBUTING.md
+COPYING
+README.md
+TODO.md
+composer.json
+phpunit.xml.dist
+plan.php
+plan_test.php

@@ -1,0 +1,10 @@
+Controller/
+DependencyInjection/
+Resources/
+SecurityProvider/
+Tests/Voter/
+Voter/
+LICENSE
+PhlexibleAccessControlBundle.php
+composer.json
+puli.json

@@ -1,0 +1,9 @@
+scripts/
+src/
+.gitignore
+README.md
+bower.json
+composer.json
+gulp_config.js
+gulpfile.js
+webpack.config.js

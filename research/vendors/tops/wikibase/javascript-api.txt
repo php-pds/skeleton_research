@@ -1,0 +1,17 @@
+src/
+tests/
+.gitignore
+.gitreview
+.jscsrc
+.jshintignore
+.jshintrc
+Gruntfile.js
+LICENSE
+README.md
+WikibaseJavaScriptApi.php
+composer.json
+init.mw.php
+package.json
+phpcs.xml
+resources.php
+resources.test.php

@@ -1,0 +1,13 @@
+Collection/
+Command/
+Entity/
+Generator/
+Repository/
+Resources/skeleton/
+Tests/
+.gitignore
+.travis.yml
+ECVagrantBundle.php
+README.md
+composer.json
+phpunit.xml.dist

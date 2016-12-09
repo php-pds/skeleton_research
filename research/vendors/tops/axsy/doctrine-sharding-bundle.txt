@@ -1,0 +1,7 @@
+Command/Proxy/
+DependencyInjection/
+Resources/
+.gitignore
+AxsyDoctrineShardingBundle.php
+README.md
+composer.json

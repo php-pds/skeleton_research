@@ -1,0 +1,8 @@
+contao-module/
+runonce/
+src/Hofff/Contao/HorizontalRule/
+.gitignore
+.travis.yml
+README.md
+build.xml
+composer.json

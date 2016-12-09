@@ -1,0 +1,11 @@
+documents/
+manual testing/
+source/
+tests/
+.gitattributes
+.gitignore
+composer.json
+composer.lock
+helpers.php
+phpunit.xml
+readme.md

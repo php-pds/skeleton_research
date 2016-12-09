@@ -1,0 +1,7 @@
+config/
+extensions/
+libraries/mustache/
+CONTRIBUTING.md
+LICENSE.md
+README.md
+composer.json

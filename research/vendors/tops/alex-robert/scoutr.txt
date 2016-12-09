@@ -1,0 +1,5 @@
+src/Scoutr/
+.gitignore
+LICENCE
+composer.json
+readme.md

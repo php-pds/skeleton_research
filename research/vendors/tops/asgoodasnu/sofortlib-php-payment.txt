@@ -1,0 +1,7 @@
+core/
+docs/
+examples/
+payment/
+unittests/
+README.md
+composer.json

@@ -1,0 +1,6 @@
+config/
+public/atp-social/img/
+src/ATPSocial/
+view/atp-social/widget/
+License.txt
+composer.json

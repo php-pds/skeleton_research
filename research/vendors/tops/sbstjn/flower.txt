@@ -1,0 +1,16 @@
+src/lib/
+tests/
+.editorconfig
+.gitattributes
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CHANGELOG.md
+CONDUCT.md
+CONTRIBUTING.md
+LICENSE.md
+README.md
+circle.yml
+composer.json
+load.php
+phpunit.xml

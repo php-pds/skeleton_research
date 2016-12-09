@@ -1,0 +1,11 @@
+src/
+tests/
+.codeclimate.yml
+.gitattributes
+.gitignore
+.travis.yml
+LICENSE
+README.md
+codeception.yml
+composer.json
+install_phalcon.sh

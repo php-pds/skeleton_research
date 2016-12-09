@@ -1,0 +1,6 @@
+src/MarkWilson/XmlToJson/
+.gitignore
+README.md
+composer.json
+composer.lock
+phpunit.xml

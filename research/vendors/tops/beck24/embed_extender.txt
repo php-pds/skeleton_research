@@ -1,0 +1,7 @@
+languages/
+lib/
+views/default/
+composer.json
+manifest.xml
+readme.txt
+start.php

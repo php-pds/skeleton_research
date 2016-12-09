@@ -1,0 +1,6 @@
+.idea/
+.gitignore
+FooterWidget.php
+README.md
+composer.json
+composer.lock

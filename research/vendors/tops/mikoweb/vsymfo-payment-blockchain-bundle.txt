@@ -1,0 +1,10 @@
+Client/
+Controller/
+DependencyInjection/
+Form/
+Plugin/
+Resources/config/
+Tests/
+LICENSE
+composer.json
+vSymfoPaymentBlockchainBundle.php

@@ -1,0 +1,6 @@
+config/
+.gitattributes
+.gitignore
+ConfigAsset.php
+README.md
+composer.json

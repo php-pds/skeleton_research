@@ -1,0 +1,10 @@
+src/Discord/
+tests/
+.coveralls.yml
+.gitignore
+.php_cs
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

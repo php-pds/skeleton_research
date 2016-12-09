@@ -1,0 +1,8 @@
+hellasimple_core/
+src/
+.gitignore
+LICENSE.txt
+composer.json
+hellasimple_core.info.yml
+hellasimple_core.install
+hellasimple_core.module

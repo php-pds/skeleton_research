@@ -1,0 +1,3 @@
+src/Mannysoft/Decoration/
+README.md
+composer.json

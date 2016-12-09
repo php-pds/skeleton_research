@@ -1,0 +1,9 @@
+classes/
+templates/
+.gitignore
+LICENSE
+build.xml
+composer.json
+composer.lock
+readme.txt
+woocommerce-nosto-tagging.php

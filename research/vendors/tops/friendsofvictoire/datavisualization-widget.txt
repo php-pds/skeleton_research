@@ -1,0 +1,11 @@
+DependencyInjection/
+Entity/
+Form/
+Listener/
+Resolver/
+Resources/
+Twig/
+LICENSE
+README.md
+VictoireWidgetDataVisualizationBundle.php
+composer.json

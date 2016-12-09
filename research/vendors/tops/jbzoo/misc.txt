@@ -1,0 +1,9 @@
+phpcs/JBZoo/
+phpmd/
+.editorconfig
+.jscsrc
+.jshintignore
+.jshintrc
+LICENSE
+README.md
+composer.json

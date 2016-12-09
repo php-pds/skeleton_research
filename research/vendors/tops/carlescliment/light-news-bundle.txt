@@ -1,0 +1,4 @@
+src/BladeTester/LightNewsBundle/
+.gitignore
+README.md
+composer.json

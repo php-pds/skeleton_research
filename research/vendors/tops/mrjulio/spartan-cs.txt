@@ -1,0 +1,3 @@
+Spartan/
+README.md
+composer.json

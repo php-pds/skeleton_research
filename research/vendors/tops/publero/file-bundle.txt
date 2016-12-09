@@ -1,0 +1,14 @@
+DependencyInjection/
+Entity/
+FileNameGenerator/
+Filesystem/
+Listener/
+Resources/
+Tests/
+.gitignore
+LICENSE
+PubleroFileBundle.php
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

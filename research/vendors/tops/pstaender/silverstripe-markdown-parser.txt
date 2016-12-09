@@ -1,0 +1,9 @@
+code/
+parsedown-1.0.1/
+tests/
+.editorconfig
+.gitattributes
+.gitignore
+README.md
+_config.php
+composer.json

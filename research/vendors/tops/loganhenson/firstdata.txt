@@ -1,0 +1,12 @@
+providers/
+spec/
+src/
+.env.example
+.gitattributes
+.gitignore
+.travis.yml
+LICENSE.txt
+composer.json
+composer.lock
+phpspec.yml
+readme.md

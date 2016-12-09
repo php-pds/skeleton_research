@@ -1,0 +1,6 @@
+Controller/
+DependencyInjection/
+Resources/
+EabFancyGalleryBundle.php
+README.md
+composer.json

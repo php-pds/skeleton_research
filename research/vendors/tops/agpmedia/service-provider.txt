@@ -1,0 +1,6 @@
+examples/
+lib/ServiceProvider/
+tests/
+README.md
+compile.sh
+composer.json

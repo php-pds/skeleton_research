@@ -1,0 +1,14 @@
+assets/
+phings @ 70dcec6
+src/includes/
+.build.props
+.gitattributes
+.gitignore
+.gitmodules
+.htaccess
+CHANGELOG.md
+LICENSE.txt
+README.md
+build.xml
+composer.json
+composer.lock

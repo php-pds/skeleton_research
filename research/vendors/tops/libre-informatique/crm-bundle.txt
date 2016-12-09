@@ -1,0 +1,16 @@
+Admin/
+CodeGenerator/
+Command/
+Controller/
+DataFixtures/ORM/
+DependencyInjection/
+Entity/
+Form/
+Resources/
+Security/Authorization/Voter/
+Services/
+Tests/Controller/
+LICENSE
+LibrinfoCRMBundle.php
+README.md
+composer.json

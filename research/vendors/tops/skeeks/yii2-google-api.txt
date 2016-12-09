@@ -1,0 +1,6 @@
+_ide/
+CHANGELOG.md
+GoogleApiComponent.php
+LICENSE
+README.md
+composer.json

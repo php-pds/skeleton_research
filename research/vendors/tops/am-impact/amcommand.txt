@@ -1,0 +1,9 @@
+controllers/
+resources/
+services/
+templates/
+translations/
+AmCommandPlugin.php
+README.md
+composer.json
+releases.json

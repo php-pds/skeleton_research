@@ -1,0 +1,10 @@
+src/Camspiers/DependencyInjection/
+tests/
+.gitignore
+.php_cs
+.travis.yml
+README.md
+_config.php
+composer.json
+composer.lock
+phpunit.xml.dist

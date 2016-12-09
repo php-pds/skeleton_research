@@ -1,0 +1,17 @@
+actions/profile/
+languages/
+screenshots/
+views/default/
+.gitattributes
+.gitignore
+CHANGELOG.md
+Gemfile
+Gruntfile.js
+README.md
+autoloader.php
+composer.json
+config.rb
+manifest.xml
+package.json
+release.md
+start.php

@@ -1,0 +1,9 @@
+Config/
+Controller/
+Lib/
+Locale/
+View/
+webroot/
+CHANGELOG
+README
+composer.json

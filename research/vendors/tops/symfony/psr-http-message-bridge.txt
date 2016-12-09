@@ -1,0 +1,11 @@
+Factory/
+Tests/
+.gitignore
+.travis.yml
+CHANGELOG
+HttpFoundationFactoryInterface.php
+HttpMessageFactoryInterface.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

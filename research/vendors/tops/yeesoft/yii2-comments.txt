@@ -1,0 +1,13 @@
+assets/
+behaviors/
+components/
+controllers/
+messages/
+migrations/
+models/
+views/default/
+widgets/
+Comments.php
+LICENSE.md
+README.md
+composer.json

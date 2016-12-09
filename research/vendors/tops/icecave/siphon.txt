@@ -1,0 +1,15 @@
+src/
+test/
+.gitattributes
+.gitignore
+.php_cs
+.travis.env
+.travis.install
+.travis.key
+.travis.yml
+CHANGELOG.md
+CONTRIBUTING.md
+LICENSE.md
+README.md
+composer.json
+composer.lock

@@ -1,0 +1,10 @@
+Command/
+DependencyInjection/
+Pagerfanta/
+Resources/config/
+Services/
+CHANGELOG.markdown
+LICENSE
+README.markdown
+SphinxSearchBundle.php
+composer.json

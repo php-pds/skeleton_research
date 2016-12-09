@@ -1,0 +1,7 @@
+resources/
+src/
+tests/
+README.md
+composer.json
+icon.png
+phpunit.xml

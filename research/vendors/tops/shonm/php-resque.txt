@@ -1,0 +1,13 @@
+bin/
+demo/
+extras/
+lib/Resque/
+test/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+build.xml
+composer.json
+composer.lock
+phpunit.xml

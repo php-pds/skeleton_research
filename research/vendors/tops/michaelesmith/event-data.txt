@@ -1,0 +1,7 @@
+src/MS/EventData/
+test/
+.gitignore
+.travis.yml
+README.md
+composer.json
+phpunit.xml.dist

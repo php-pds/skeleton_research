@@ -1,0 +1,10 @@
+crud/
+migration/
+model/
+.gitignore
+BaseGenerator.php
+Bootstrap.php
+LICENSE
+README.md
+composer.json
+composer.lock

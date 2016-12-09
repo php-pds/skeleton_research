@@ -1,0 +1,6 @@
+config/
+src/Framework/Redis/
+.gitignore
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,14 @@
+Action/
+Entity/
+Exception/
+Generator/
+Repository/
+Resources/config/
+Tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+SmartCodeBundle.php
+composer.json
+phpunit.xml.dist

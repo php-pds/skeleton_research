@@ -1,0 +1,17 @@
+.idea/
+bin/
+bundles/
+data/
+docs/
+public/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE.md
+README.md
+RELEASE.md
+TODO.MD
+Venus_Framework_tutoriel.docx
+composer.json
+myconfig.ini
+phpunit.xml.dist

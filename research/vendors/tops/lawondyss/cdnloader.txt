@@ -1,0 +1,4 @@
+src/CDNLoader/
+tests/
+composer.json
+readme.md

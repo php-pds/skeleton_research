@@ -1,0 +1,15 @@
+bower_components/
+css/
+images/
+javascript/
+scss/
+templates/
+.gitignore
+Gruntfile.js
+LICENSE
+README.md
+bower.json
+composer.json
+config.rb
+favicon.ico
+package.json

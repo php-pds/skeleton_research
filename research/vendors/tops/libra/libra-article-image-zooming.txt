@@ -1,0 +1,5 @@
+config/
+src/LibraArticleImageZooming/
+view/libra-article-image-zooming/admin-index/
+Module.php
+composer.json

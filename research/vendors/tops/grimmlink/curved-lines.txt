@@ -1,0 +1,11 @@
+docu/
+flot/
+tests/
+README.md
+bower.json
+composer.json
+curvedLines.js
+exampleFillMultiAxis.txt
+exampleFit.txt
+exampleHelperPoints.txt
+exampleStackedData.txt

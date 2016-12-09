@@ -1,0 +1,15 @@
+Cache/Tag/
+Cacher/
+Controller/
+DependencyInjection/
+EventSubscriber/
+Exception/
+Resources/
+Tests/
+.scrutinizer.yml
+.travis.yml
+ItkgApiExtraBundle.php
+LICENCE.md
+README.md
+composer.json
+phpunit.xml.dist

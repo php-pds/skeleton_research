@@ -1,0 +1,12 @@
+DependencyInjection/
+Resources/config/
+Router/
+Tests/
+.gitignore
+.travis.yml
+AFMTranslatableRoutePathBundle.php
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

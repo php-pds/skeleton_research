@@ -1,0 +1,9 @@
+examples/
+src/AmCharts/
+tests/AmCharts/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

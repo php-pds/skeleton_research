@@ -1,0 +1,8 @@
+bin/
+log/
+src/EoC/CLI/
+.gitignore
+Doxyfile
+LICENSE
+README.md
+composer.json

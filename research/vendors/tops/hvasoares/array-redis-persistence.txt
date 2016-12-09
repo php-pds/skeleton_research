@@ -1,0 +1,7 @@
+libs/
+src/hvasoares/arrayredispersistence/
+.gitignore
+README.md
+TODO
+composer.json
+composer.lock

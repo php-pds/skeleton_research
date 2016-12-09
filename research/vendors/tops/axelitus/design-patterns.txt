@@ -1,0 +1,9 @@
+res/tests/
+src/axelitus/Patterns/
+web/axelitus/Patterns/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.phar

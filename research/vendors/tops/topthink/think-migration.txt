@@ -1,0 +1,5 @@
+phinx/
+src/
+.gitignore
+LICENSE
+composer.json

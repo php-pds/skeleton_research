@@ -1,0 +1,17 @@
+Controller/
+DataFixtures/Required/
+DependencyInjection/
+Entity/
+Form/
+Installation/
+Listener/
+Manager/
+Migrations/pdo_mysql/
+Repository/
+Resources/
+FormaLibreBulletinBundle.php
+LICENSE
+README.md
+VERSION.txt
+assets.json
+composer.json

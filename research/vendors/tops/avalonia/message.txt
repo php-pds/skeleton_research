@@ -1,0 +1,8 @@
+src/Avalonia/Component/Message/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+Readme.md
+composer.json
+phpunit.xml

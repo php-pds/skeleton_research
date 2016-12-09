@@ -1,0 +1,7 @@
+lib/
+.gitignore
+composer.json
+composer.lock
+example.php
+readme.md
+wds-wp-rest-api-connect.php

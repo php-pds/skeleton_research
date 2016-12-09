@@ -1,0 +1,6 @@
+src/
+thirdparty/
+.htaccess
+LICENSE
+README.md
+composer.json

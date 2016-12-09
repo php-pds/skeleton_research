@@ -1,0 +1,12 @@
+DependencyInjection/
+DineshBarcode/
+Generator/
+Resources/
+Tests/
+Twig/Extensions/
+Type/
+.travis.yml
+README.md
+SGKBarcodeBundle.php
+composer.json
+phpunit.xml.dist

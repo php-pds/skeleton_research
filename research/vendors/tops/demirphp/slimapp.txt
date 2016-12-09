@@ -1,0 +1,6 @@
+App/
+LICENSE
+README.md
+composer.json
+config.php
+index.php

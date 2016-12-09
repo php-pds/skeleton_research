@@ -1,0 +1,9 @@
+Documentation/
+Test/Unit/
+.State
+.gitignore
+CHANGELOG.md
+Exception.php
+README.md
+Zombie.php
+composer.json

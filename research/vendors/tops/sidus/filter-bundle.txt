@@ -1,0 +1,10 @@
+Configuration/
+DTO/
+DependencyInjection/
+Filter/
+Form/Type/
+Resources/
+LICENCE.txt
+README.md
+SidusFilterBundle.php
+composer.json

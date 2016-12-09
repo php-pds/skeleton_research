@@ -1,0 +1,4 @@
+src/fkooman/Guzzle/Plugin/BearerAuth/
+.gitignore
+README.md
+composer.json

@@ -1,0 +1,5 @@
+src/Templates/
+.editorconfig
+.gitignore
+README.md
+composer.json

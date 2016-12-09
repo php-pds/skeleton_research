@@ -1,0 +1,10 @@
+assets/
+config/
+docs/en/
+src/Athcore/
+tests/
+view/
+.gitignore
+Module.php
+README.md
+composer.json

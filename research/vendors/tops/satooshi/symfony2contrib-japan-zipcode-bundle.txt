@@ -1,0 +1,6 @@
+bin/
+src/Contrib/Bundle/JapanZipcodeBundle/
+.gitignore
+README.md
+composer.json
+readme.txt

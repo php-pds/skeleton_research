@@ -1,0 +1,10 @@
+_config/
+code/
+tests/
+.gitignore
+.php_cs
+.travis.yml
+README.md
+_config.php
+composer.json
+phpunit.xml.dist

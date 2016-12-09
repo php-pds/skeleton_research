@@ -1,0 +1,9 @@
+Contributions/
+DependencyInjection/
+Resources/
+ValueHandling/
+.styleci.yml
+KernelConfig.php
+ModeraDynamicallyConfigurableAppBundle.php
+README.md
+composer.json

@@ -1,0 +1,12 @@
+doc/
+features/
+spec/Behat/Symfony2Extension/
+src/Behat/Symfony2Extension/
+testapp/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+build.php
+composer.json
+init.php

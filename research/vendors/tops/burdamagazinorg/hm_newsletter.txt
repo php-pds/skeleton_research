@@ -1,0 +1,12 @@
+config/install/
+css/
+js/
+src/
+templates/
+README.md
+composer.json
+hm_newsletter.info.yml
+hm_newsletter.libraries.yml
+hm_newsletter.links.menu.yml
+hm_newsletter.module
+hm_newsletter.routing.yml

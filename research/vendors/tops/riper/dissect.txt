@@ -1,0 +1,7 @@
+.idea/
+src/Riper/Dissect/
+.gitignore
+LICENSE
+README.md
+build.php
+composer.json

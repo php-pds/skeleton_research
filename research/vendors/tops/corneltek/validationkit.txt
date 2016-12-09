@@ -1,0 +1,14 @@
+ext/
+src/ValidationKit/
+tests/
+.travis.yml
+LICENSE
+README.md
+build.xml
+composer.json
+package.ini
+package.xml
+phpdox.xml
+phprelease.ini
+phpunit-ci.xml
+phpunit.xml

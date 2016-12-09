@@ -1,0 +1,15 @@
+assets/
+src/
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CONTRIBUTING.md
+LICENSE.md
+README.md
+bower.json
+composer.json
+gulpfile.js
+package.json
+pre-commit.sh
+standards.xml

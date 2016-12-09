@@ -1,0 +1,7 @@
+demo/
+.gitignore
+CurlHttp.php
+LICENSE
+README.md
+composer.json
+composer.lock

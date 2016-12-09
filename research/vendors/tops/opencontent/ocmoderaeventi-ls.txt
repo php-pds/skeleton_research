@@ -1,0 +1,7 @@
+classes/
+design/standard/templates/
+eventtypes/event/
+modules/moderazione/
+settings/
+README.md
+composer.json

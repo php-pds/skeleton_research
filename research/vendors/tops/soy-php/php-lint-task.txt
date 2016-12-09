@@ -1,0 +1,6 @@
+src/Soy/PhpLint/
+.gitignore
+LICENSE
+README.md
+composer.json
+recipe.php

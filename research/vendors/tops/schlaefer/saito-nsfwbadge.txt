@@ -1,0 +1,6 @@
+Config/
+Lib/
+Locale/
+LICENSE
+composer.json
+readme.md

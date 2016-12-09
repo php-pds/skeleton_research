@@ -1,0 +1,12 @@
+lib/Cws/MailBounceHandler/
+tests/
+.editorconfig
+.gitignore
+.styleci.yml
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+composer.json
+composer.lock
+example.png

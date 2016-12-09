@@ -1,0 +1,9 @@
+examples/
+simplexrd/
+tests/
+.travis.yml
+CHANGELOG.md
+COPYING.txt
+README.md
+composer.json
+phpunit.xml.dist

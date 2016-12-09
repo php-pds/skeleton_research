@@ -1,0 +1,6 @@
+.gitignore
+LICENSE
+README.md
+TimeAgo.php
+TimeAgoAsset.php
+composer.json

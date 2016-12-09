@@ -1,0 +1,15 @@
+build/
+nuget/
+tests/
+CHANGELOG.md
+README.md
+composer.json
+demo.html
+gulpfile.js
+karma.conf.js
+package.json
+release checklist.md
+toastr-icon.png
+toastr.js
+toastr.less
+toastr.scss

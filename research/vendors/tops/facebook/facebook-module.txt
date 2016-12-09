@@ -1,0 +1,9 @@
+config/
+src/FacebookModule/
+tests/
+view/facebook-module/index/
+LICENSE
+LICENSE.txt
+Module.php
+README.md
+composer.json

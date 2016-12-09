@@ -1,0 +1,7 @@
+config/
+src/DoctrineEntityGeneratorModule/
+view/
+.project
+Module.php
+README.md
+composer.json

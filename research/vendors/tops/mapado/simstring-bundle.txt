@@ -1,0 +1,8 @@
+src/Mapado/SimstringBundle/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+travis.sh

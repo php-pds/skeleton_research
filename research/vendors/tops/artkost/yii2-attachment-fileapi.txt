@@ -1,0 +1,11 @@
+actions/
+assets/
+messages/ru/
+widgets/
+Asset.php
+Bootstrap.php
+CropAsset.php
+LICENSE
+README.md
+Widget.php
+composer.json

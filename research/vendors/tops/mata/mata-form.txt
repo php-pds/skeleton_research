@@ -1,0 +1,9 @@
+actions/
+assets/
+base/
+clients/
+tests/
+web/images/
+widgets/
+README.md
+composer.json

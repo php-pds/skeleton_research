@@ -1,0 +1,16 @@
+Controller/
+DependencyInjection/
+Entity/
+Event/
+Exception/
+Manager/
+Model/
+Resources/
+Tests/Controller/
+.editorconfig
+JoubjoubNotificationBundle.php
+LICENSE
+Notification.php
+NotificationEvents.php
+README.md
+composer.json

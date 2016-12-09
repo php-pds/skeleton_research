@@ -1,0 +1,5 @@
+src/at/Tyrola/Nitrado/Api/
+.gitignore
+LICENSE
+README.md
+composer.json

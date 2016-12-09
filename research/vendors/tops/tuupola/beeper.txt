@@ -1,0 +1,11 @@
+src/
+test/
+.gitignore
+.jshintrc
+.travis.yml
+Gruntfile.js
+LICENSE.txt
+README.md
+composer.json
+package.json
+phpunit.xml

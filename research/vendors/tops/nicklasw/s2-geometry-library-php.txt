@@ -1,0 +1,8 @@
+src/S2/
+tests/
+.gitignore
+.travis.yml
+bootstrap.php
+composer.json
+composer.lock
+phpunit.xml.dist

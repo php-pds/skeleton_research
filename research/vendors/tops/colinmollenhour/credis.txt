@@ -1,0 +1,9 @@
+tests/
+.gitignore
+Client.php
+Cluster.php
+LICENSE
+README.markdown
+Sentinel.php
+composer.json
+phpunit.xml

@@ -1,0 +1,11 @@
+Config/
+Controller/
+Lib/
+Locale/
+Model/Behavior/
+View/Akismet/
+webroot/css/
+.gitignore
+LICENSE
+README.md
+composer.json

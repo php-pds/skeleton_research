@@ -1,0 +1,8 @@
+AiCrawler/
+AiResponses/
+AiScrapers/
+styles/
+README.md
+SUMMARY.md
+book.json
+composer.json

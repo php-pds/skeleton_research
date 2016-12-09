@@ -1,0 +1,5 @@
+examples/
+src/Polidog/Console/
+.gitignore
+README.md
+composer.json

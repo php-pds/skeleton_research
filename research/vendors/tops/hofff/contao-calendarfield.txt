@@ -1,0 +1,7 @@
+CT_ROOT/
+.gitignore
+CHANGELOG.md
+README.md
+composer.json
+screenshot-backend.png
+screenshot-frontend.png

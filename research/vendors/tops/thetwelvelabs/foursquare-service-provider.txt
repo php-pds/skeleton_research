@@ -1,0 +1,5 @@
+lib/TheTwelve/Foursquare/Silex/
+tests/
+.gitignore
+README.md
+composer.json

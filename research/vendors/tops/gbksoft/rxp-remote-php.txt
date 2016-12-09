@@ -1,0 +1,8 @@
+src/main/php/com-realexpayments-remote-sdk/
+test/main/
+.gitignore
+CHANGELOG.md
+LICENSE.txt
+README.md
+composer.json
+config.xml

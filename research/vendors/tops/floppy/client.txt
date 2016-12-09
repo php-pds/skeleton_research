@@ -1,0 +1,8 @@
+src/Floppy/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit-bootstrap.php
+phpunit.xml

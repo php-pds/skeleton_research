@@ -1,0 +1,3 @@
+src/Icecat/
+README.md
+composer.json

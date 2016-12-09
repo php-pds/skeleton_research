@@ -1,0 +1,7 @@
+src/Objection/
+test/
+.gitignore
+License
+composer.json
+composer.lock
+deploy.ignore.map

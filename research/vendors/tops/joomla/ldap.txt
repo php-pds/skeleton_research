@@ -1,0 +1,12 @@
+.github/
+.travis/
+Tests/
+src/
+.gitattributes
+.gitignore
+.gitmodules
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

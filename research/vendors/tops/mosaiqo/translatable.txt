@@ -1,0 +1,14 @@
+src/
+stubs/Models/
+tests/
+.gitignore
+.travis.yml
+CONTRIBUTING.md
+LICENSE
+README.md
+VERSIONS.md
+composer.json
+composer.lock
+gulpfile.js
+package.json
+phpunit.xml

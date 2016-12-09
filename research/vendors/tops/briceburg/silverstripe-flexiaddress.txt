@@ -1,0 +1,7 @@
+_config/
+code/
+docs/screenshots/
+templates/
+.gitignore
+README.md
+composer.json

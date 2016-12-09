@@ -1,0 +1,11 @@
+src/josegonzalez/Dotenv/
+tests/
+.editorconfig
+.gitattributes
+.gitignore
+.travis.yml
+CONTRIBUTING.markdown
+LICENSE
+README.markdown
+composer.json
+phpunit.xml

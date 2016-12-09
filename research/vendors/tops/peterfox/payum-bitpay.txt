@@ -1,0 +1,10 @@
+examples/
+spec/PayumBitPay/
+src/PayumBitPay/
+.gitignore
+CHANGELOG.MD
+LICENSE
+README.md
+composer.json
+composer.lock
+phpspec.yml

@@ -1,0 +1,4 @@
+src/LukeSnowden/GoogleShoppingFeed/
+.gitignore
+README.md
+composer.json

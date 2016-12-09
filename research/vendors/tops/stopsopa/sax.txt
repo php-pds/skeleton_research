@@ -1,0 +1,9 @@
+other/
+src/Stopsopa/Sax/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+VagrantFile
+composer.json
+phpunit.xml

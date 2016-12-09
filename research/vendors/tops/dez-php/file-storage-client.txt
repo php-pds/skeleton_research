@@ -1,0 +1,8 @@
+src/FileStorage/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock
+stewie.jpg
+test.php

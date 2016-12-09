@@ -1,0 +1,8 @@
+examples/
+src/Simgroep/Oauth1Service/
+tests/
+.gitignore
+.travis.yml
+README.md
+composer.json
+phpunit.xml

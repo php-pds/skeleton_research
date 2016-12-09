@@ -1,0 +1,10 @@
+bin/
+src/Sherpa/
+tests/
+themes/unity/
+.gitignore
+.travis.yml
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

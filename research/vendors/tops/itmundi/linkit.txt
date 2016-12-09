@@ -1,0 +1,7 @@
+fieldtypes/
+resources/
+templates/_fieldtype/
+LICENSE
+LinkitPlugin.php
+README.md
+composer.json

@@ -1,0 +1,15 @@
+build/
+src/
+tests/
+.gitattributes
+.gitignore
+.travis.yml
+CONTRIBUTING.md
+LICENSE
+README.md
+build.xml
+composer.json
+phpdox.xml.dist
+phpunit
+phpunit.xml.dist
+phpunit.xsd

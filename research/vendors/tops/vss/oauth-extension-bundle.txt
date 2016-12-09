@@ -1,0 +1,16 @@
+Command/
+Controller/
+DependencyInjection/
+Events/
+Grant/
+Providers/
+Resources/config/
+Security/
+Tests/
+.gitignore
+.travis.yml
+README.md
+VssOAuthExtensionBundle.php
+composer.json
+composer.lock
+phpunit.xml

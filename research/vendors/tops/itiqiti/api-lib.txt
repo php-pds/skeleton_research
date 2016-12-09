@@ -1,0 +1,8 @@
+bin/
+src/
+tests/Bundle/ApiBundle/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json

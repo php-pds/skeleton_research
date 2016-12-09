@@ -1,0 +1,5 @@
+doc/en/
+src/NasExt/Mandrill/
+README.md
+composer.json
+license.md

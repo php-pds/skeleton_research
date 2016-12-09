@@ -1,0 +1,6 @@
+bin/
+fixtures/
+src/PedroTroller/ImageMuffin/
+.gitignore
+composer.json
+composer.lock

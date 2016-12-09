@@ -1,0 +1,14 @@
+DependencyInjection/
+Entity/
+Form/
+Geocoder/
+Manager/
+Resources/
+Service/
+.gitignore
+.travis.yml
+HappyrLocationBundle.php
+README.md
+build.xml
+composer.json
+phpunit.xml.dist

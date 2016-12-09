@@ -1,0 +1,10 @@
+src/Idatha/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+index.php
+ints.php
+phpunit.xml.dist

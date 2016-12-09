@@ -1,0 +1,7 @@
+Client/
+HttpCache/
+Resources/script/
+.gitignore
+LICENSE
+README.md
+composer.json

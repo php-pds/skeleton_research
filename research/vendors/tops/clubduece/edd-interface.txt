@@ -1,0 +1,11 @@
+tests/
+.coveralls.yaml
+.env.example
+.gitignore
+README.md
+build.xml
+composer.json
+composer.lock
+edd_updater.php
+phpunit.xml.dist
+wp-tests-config.php

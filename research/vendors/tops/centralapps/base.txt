@@ -1,0 +1,7 @@
+CentralApps/
+unit/
+.gitignore
+bootstrap.php
+composer.json
+index.php
+phpunit.xml

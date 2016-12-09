@@ -1,0 +1,9 @@
+DependencyInjection/Compiler/
+tests/
+.gitignore
+.version
+LICENSE
+README.md
+TagBundle.php
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,16 @@
+Command/
+DependencyInjection/
+Filter/
+Resources/
+Tests/
+Utils/
+.gitignore
+.travis.yml
+HexmediaAsseticBundle.php
+LICENSE
+README.md
+build.xml
+composer.json
+composer.lock
+phpmd.xml
+phpunit.xml.dist

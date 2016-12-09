@@ -1,0 +1,9 @@
+assets/comments/
+config/
+src/Comment/
+view/comment/widget/
+.gitignore
+LICENSE
+Module.php
+README.md
+composer.json

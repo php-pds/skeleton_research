@@ -1,0 +1,5 @@
+bin/
+.editorconfig
+.gitignore
+README.md
+composer.json

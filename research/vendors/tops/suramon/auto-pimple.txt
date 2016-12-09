@@ -1,0 +1,11 @@
+src/AutoPimple/
+tests/
+.gitignore
+.travis.yml
+AUTHORS
+LICENSE
+Makefile
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

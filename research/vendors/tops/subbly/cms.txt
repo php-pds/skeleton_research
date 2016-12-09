@@ -1,0 +1,16 @@
+app/
+bootstrap/
+config/
+themes/
+uploads/
+.editorconfig
+.gitignore
+.htaccess
+.travis.yml
+README.md
+artisan
+composer.json
+favicon.ico
+index.php
+phpunit.xml
+robots.txt

@@ -1,0 +1,4 @@
+config/
+src/Zf2Interspire/
+Module.php
+composer.json

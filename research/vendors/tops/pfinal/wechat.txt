@@ -1,0 +1,11 @@
+demo/
+dist/
+doc/
+src/
+.gitignore
+CHANGELOG
+LICENSE
+README.md
+composer.json
+phpunit
+phpunit.xml

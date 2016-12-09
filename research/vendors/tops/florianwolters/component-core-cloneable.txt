@@ -1,0 +1,15 @@
+nbproject/
+src/
+.coveralls.yml
+.gitattributes
+.gitignore
+.travis.yml
+CONTRIBUTING.md
+COPYING
+COPYING.LESSER
+README.md
+apigen.neon
+composer.json
+composer.lock
+phpdoc.dist.xml
+phpunit.xml.dist

@@ -1,0 +1,10 @@
+library/
+test/
+.gitignore
+Bootstrap.php
+LICENSE
+README.md
+composer.json
+composer.lock
+composer.phar
+phpunit.xml

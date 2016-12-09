@@ -1,0 +1,7 @@
+assets/
+resources/scripts/
+views/
+FollowMe.php
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,16 @@
+tasks/
+tests/
+theme/
+.gitattributes
+.gitignore
+.php_cs
+.scrutinizer.yml
+.travis.yml
+Gruntfile.js
+LICENSE
+README.md
+composer.json
+package.json
+phpunit.php
+phpunit.xml.dist
+zero-header.jpg

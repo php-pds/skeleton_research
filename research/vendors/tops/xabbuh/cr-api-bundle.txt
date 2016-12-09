@@ -1,0 +1,9 @@
+DependencyInjection/
+Resources/
+Tests/DependencyInjection/
+.gitignore
+.travis.yml
+README.md
+XabbuhCrApiBundle.php
+composer.json
+phpunit.xml.dist

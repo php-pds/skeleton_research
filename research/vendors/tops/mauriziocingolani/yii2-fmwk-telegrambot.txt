@@ -1,0 +1,14 @@
+nbproject/
+views/
+.gitignore
+Chat.php
+Document.php
+File.php
+Message.php
+PhotoSize.php
+README.md
+TelegramBot.php
+Update.php
+UpdateWidget.php
+User.php
+composer.json

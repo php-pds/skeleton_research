@@ -1,0 +1,9 @@
+example/
+specs/
+src/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+watcher.gif

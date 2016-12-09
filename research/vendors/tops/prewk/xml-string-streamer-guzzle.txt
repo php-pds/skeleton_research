@@ -1,0 +1,7 @@
+src/XmlStringStreamer/Stream/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock

@@ -1,0 +1,11 @@
+bin/
+build/
+src/
+test/bin/
+.editorconfig
+.gitattributes
+.gitignore
+LICENSE
+README.md
+composer.json
+phpcs.xml

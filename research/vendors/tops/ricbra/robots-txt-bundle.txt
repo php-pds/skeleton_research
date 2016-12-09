@@ -1,0 +1,7 @@
+Controller/
+DependencyInjection/
+Resources/
+.gitignore
+README.md
+RicbraRobotsTxtBundle.php
+composer.json

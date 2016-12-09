@@ -1,0 +1,13 @@
+bin/
+config/
+src/
+tests/
+view/calendar/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+README.md
+autoload_classmap.php
+composer.json
+phpunit.xml
+template_map.php

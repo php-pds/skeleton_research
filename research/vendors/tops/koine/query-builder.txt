@@ -1,0 +1,11 @@
+bin/travis/
+lib/Koine/
+tests/
+.agignore
+.coveralls.yml
+.gitignore
+.scrutinizer.yml
+.travis.yml
+MIT-LICENSE
+README.md
+composer.json

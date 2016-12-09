@@ -1,0 +1,6 @@
+.gitignore
+LICENSE
+README.md
+StubsController.php
+composer.json
+watcher.xml

@@ -1,0 +1,8 @@
+example/
+ext/kernel/
+phpiwire/
+.gitignore
+README.md
+composer.json
+config.json
+phpstorm-stub.php

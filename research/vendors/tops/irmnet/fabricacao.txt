@@ -1,0 +1,7 @@
+config/
+src/Fabricacao/Controller/
+view/Fabricacao/index/
+.gitignore
+Module.php
+autoload_classmap.php
+composer.json

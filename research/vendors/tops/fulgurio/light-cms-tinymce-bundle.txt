@@ -1,0 +1,6 @@
+DependencyInjection/
+Resources/
+FulgurioLightCMSTinyMCEBundle.php
+LICENSE
+README.md
+composer.json

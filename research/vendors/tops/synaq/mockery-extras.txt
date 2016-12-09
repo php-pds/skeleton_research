@@ -1,0 +1,6 @@
+src/Synaq/MockeryMatcher/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock

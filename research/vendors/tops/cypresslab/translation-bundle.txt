@@ -1,0 +1,16 @@
+DependencyInjection/
+Doctrine/Base/
+Document/Base/
+Entity/Base/
+Exception/
+Resources/
+Tests/
+Twig/
+Utilities/
+.gitignore
+.travis.yml
+CypressTranslationBundle.php
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

@@ -1,0 +1,6 @@
+Driver/
+Exception/
+Synthetic/
+.scrutinizer.yml
+README.md
+composer.json

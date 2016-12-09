@@ -1,0 +1,8 @@
+Controller/
+DependencyInjection/
+Entity/
+Resources/config/
+Service/
+.gitignore
+SoilOnSiteNotificationBundle.php
+composer.json

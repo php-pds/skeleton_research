@@ -1,0 +1,15 @@
+scripts/
+src/Koriym/FusionCache/
+tests/
+.gitignore
+.travis.yml
+Licence.txt
+README.md
+build.xml
+cache.properties
+composer.json
+composer.lock
+phpcs.xml
+phpdox.xml.dist
+phpmd.xml
+phpunit.xml.dist

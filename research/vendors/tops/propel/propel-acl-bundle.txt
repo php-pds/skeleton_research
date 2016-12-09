@@ -1,0 +1,11 @@
+DependencyInjection/
+Model/Acl/
+Resources/
+Security/Acl/
+Tests/
+.gitignore
+.travis.yml
+PropelAclBundle.php
+README.md
+composer.json
+phpunit.xml.dist

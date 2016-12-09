@@ -1,0 +1,10 @@
+DependencyInjection/
+Entity/
+Job/
+Resources/
+.gitignore
+CampaignChainLocationFacebookBundle.php
+LICENSE
+README.md
+campaignchain.yml
+composer.json

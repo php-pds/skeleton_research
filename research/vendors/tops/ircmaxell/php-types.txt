@@ -1,0 +1,10 @@
+lib/PHPTypes/
+test/
+.gitignore
+.php_cs
+LICENSE
+README.md
+build.sh
+composer.json
+composer.lock
+phpunit.xml.dist

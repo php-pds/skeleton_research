@@ -1,0 +1,15 @@
+Command/
+Console/
+DependencyInjection/
+Entity/
+Logger/
+Mapper/
+Method/
+Process/
+Resources/
+Service/
+.gitignore
+README.md
+VizzleBundle.php
+VizzleKernel.php
+composer.json

@@ -1,0 +1,6 @@
+Behavior/
+Bridge/Symfony3/DoctrineMappingValidatorBundle/
+ManyToOne/
+Report/
+README.md
+composer.json

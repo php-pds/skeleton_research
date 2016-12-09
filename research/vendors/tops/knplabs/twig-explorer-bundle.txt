@@ -1,0 +1,9 @@
+doc/images/
+spec/Knp/TwigExplorer/
+src/Knp/TwigExplorer/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpspec.yml

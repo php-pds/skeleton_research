@@ -1,0 +1,10 @@
+source/
+tests/
+.apishka.php
+.gitignore
+.php_cs
+.travis.yml
+composer.json
+composer.lock
+phpunit.php
+phpunit.sample.xml

@@ -1,0 +1,15 @@
+api/
+build/
+phpunit/
+src/Searcher/
+vendor/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+Searcher.uml
+composer.json
+composer.phar
+phpunit.xml.dist

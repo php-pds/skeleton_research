@@ -1,0 +1,6 @@
+database/migrations/
+public/
+resources/
+src/
+.gitignore
+composer.json

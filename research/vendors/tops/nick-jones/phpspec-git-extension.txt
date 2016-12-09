@@ -1,0 +1,11 @@
+features/
+lib/Git/
+spec/Git/Generator/
+.gitignore
+.travis.yml
+LICENSE
+Makefile
+README.md
+behat.yml
+composer.json
+phpspec.yml

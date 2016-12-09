@@ -1,0 +1,15 @@
+actions/news/
+classes/
+graphics/
+languages/
+lib/
+views/default/
+CHANGES.txt
+LICENCE.txt
+README.md
+activate.php
+composer.json
+deactivate.php
+manifest.xml
+start.php
+views.php

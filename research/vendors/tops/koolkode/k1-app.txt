@@ -1,0 +1,11 @@
+app/
+bind/
+config/
+resource/app/
+src/
+.gitattributes
+.gitignore
+LICENSE
+README.md
+composer.json
+k1.php

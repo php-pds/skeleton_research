@@ -1,0 +1,12 @@
+DependencyInjection/
+Resources/config/
+Security/
+Tests/
+bin/
+.gitignore
+.travis.yml
+README.md
+SeiffertCrowdAuthBundle.php
+composer.json
+composer.lock
+phpunit.xml.dist

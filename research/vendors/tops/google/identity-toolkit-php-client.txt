@@ -1,0 +1,7 @@
+src/
+tests/
+AUTHORS
+CONTRIBUTORS
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,5 @@
+src/Whsuite/PurchaseData/
+.gitignore
+LICENSE
+README.md
+composer.json

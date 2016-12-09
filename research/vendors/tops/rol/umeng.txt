@@ -1,0 +1,6 @@
+src/
+.gitignore
+README
+autoload.php
+composer.json
+release-notes

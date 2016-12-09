@@ -1,0 +1,6 @@
+examples/
+.gitignore
+Captcha.php
+README.md
+captcha.ttf
+composer.json

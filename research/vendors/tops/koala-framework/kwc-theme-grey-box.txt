@@ -1,0 +1,5 @@
+Theme/
+.gitignore
+README
+composer.json
+dependencies.ini

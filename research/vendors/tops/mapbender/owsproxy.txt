@@ -1,0 +1,13 @@
+Component/
+Controller/
+DependencyInjection/
+Entity/
+Event/
+EventListener/
+Resources/
+Worker/
+CHANGELOG.md
+LICENSE
+OwsProxy3CoreBundle.php
+README.md
+composer.json

@@ -1,0 +1,7 @@
+controllers/
+templates/
+.gitignore
+DeleteAllEntryVersionsPlugin.php
+composer.json
+readme.md
+releases.json

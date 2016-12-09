@@ -1,0 +1,11 @@
+examples/
+lib/
+tests/unit/
+EComposerTestCase.php
+EIronCache.php
+EIronWorkersCommand.php
+EYiiron.php
+README.md
+composer.json
+version.txt
+yiic-yiiron.php

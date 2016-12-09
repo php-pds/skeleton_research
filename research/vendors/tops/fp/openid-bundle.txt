@@ -1,0 +1,17 @@
+Bridge/RelyingParty/
+Controller/
+DependencyInjection/
+Document/
+Entity/
+Model/
+RelyingParty/
+Resources/
+Security/
+Tests/
+.gitignore
+.gitmodules
+.travis.yml
+FpOpenIdBundle.php
+README.markdown
+composer.json
+phpunit.xml.dist

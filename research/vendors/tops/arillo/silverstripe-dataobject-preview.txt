@@ -1,0 +1,10 @@
+_config/
+code/
+extensions/
+javascript/
+templates/
+.editorconfig
+LICENSE
+Readme.md
+_config.php
+composer.json

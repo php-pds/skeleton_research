@@ -1,0 +1,11 @@
+Net/
+docs/
+examples/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.rst
+composer.json
+package.xml
+phpdoc.sh

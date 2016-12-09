@@ -1,0 +1,6 @@
+system/modules/TinyMceZUpAll/
+.gitattributes
+.gitignore
+README.md
+composer.json
+screenshot.jpg

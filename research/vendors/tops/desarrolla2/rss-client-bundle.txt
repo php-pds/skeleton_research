@@ -1,0 +1,11 @@
+DependencyInjection/
+Resources/config/
+Tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+RSSClientBundle.php
+build.xml
+composer.json
+phpunit.xml

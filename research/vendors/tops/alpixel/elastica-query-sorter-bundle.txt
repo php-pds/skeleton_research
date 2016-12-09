@@ -1,0 +1,12 @@
+DependencyInjection/
+Resources/
+Services/
+Tests/
+Twig/Extension/
+.gitignore
+.travis.yml
+AlpixelElasticaQuerySorterBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

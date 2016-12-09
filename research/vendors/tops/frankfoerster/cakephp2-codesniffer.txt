@@ -1,0 +1,5 @@
+CakePHP/
+.gitignore
+.travis.yml
+README.mdown
+composer.json

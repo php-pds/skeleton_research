@@ -1,0 +1,10 @@
+src/StingerSoft/DoctrineCommons/
+tests/
+.coveralls.yml
+.gitignore
+.project
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,9 @@
+_config/
+code/
+.php_cs
+CHANGELOG.md
+LICENSE
+README.md
+UPGRADING.md
+_config.php
+composer.json

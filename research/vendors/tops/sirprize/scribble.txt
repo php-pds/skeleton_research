@@ -1,0 +1,10 @@
+lib/Sirprize/Scribble/
+tests/
+vendor-unmanaged/
+vendor/
+.gitignore
+LICENSE
+composer.json
+composer.lock
+composer.phar
+readme.md

@@ -1,0 +1,11 @@
+src/
+templates/block/
+.gitignore
+README.md
+composer.json
+drupalbase.info.yml
+drupalbase.module
+drupalbase.routing.yml
+drupalbase.services.yml
+drupalbase.themehook.yml
+drupalbase.themesuggestions.yml

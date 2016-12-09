@@ -1,0 +1,10 @@
+build/
+docs/
+src/DebugBar/
+.bowerrc
+.gitattributes
+.gitignore
+LICENSE
+README.md
+bower.json
+composer.json

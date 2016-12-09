@@ -1,0 +1,4 @@
+.idea/
+src/Weasty/Bundle/DoctrineBundle/
+.gitignore
+composer.json

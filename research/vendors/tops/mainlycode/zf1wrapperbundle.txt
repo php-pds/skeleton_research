@@ -1,0 +1,8 @@
+Controller/
+DependencyInjection/
+Resources/
+Tests/Controller/
+.gitignore
+README.md
+Zf1WrapperBundle.php
+composer.json

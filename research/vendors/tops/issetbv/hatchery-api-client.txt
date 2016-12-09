@@ -1,0 +1,6 @@
+src/Hatchery/
+.gitignore
+CHANGELOG.md
+LICENSE
+README.md
+composer.json

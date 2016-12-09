@@ -1,0 +1,11 @@
+config/
+data/
+module/Test/
+public/
+.bowerrc
+.gitignore
+.htaccess.template
+README.md
+bower.json
+composer.json
+composer.phar

@@ -1,0 +1,7 @@
+src/Machinereading/
+tests/
+vendor/
+.travis.yml
+README.md
+composer.json
+phppackage.png

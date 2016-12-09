@@ -1,0 +1,9 @@
+Classes/Mw/Metamorph/
+Configuration/
+Documentation/
+Resources/Private/
+Tests/
+.gitignore
+LICENSE
+README.adoc
+composer.json

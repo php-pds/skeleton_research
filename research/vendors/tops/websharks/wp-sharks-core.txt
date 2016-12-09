@@ -1,0 +1,22 @@
+.github/
+phings @ 70dcec6
+src/
+tests/
+.build.props
+.gitattributes
+.gitchange
+.gitignore
+.gitmodules
+.htaccess
+.travis.bash
+.travis.yml
+CHANGELOG.md
+LICENSE.txt
+README.md
+build.xml
+composer.json
+composer.lock
+plugin.php
+readme.txt
+sami.cfg
+uninstall.php

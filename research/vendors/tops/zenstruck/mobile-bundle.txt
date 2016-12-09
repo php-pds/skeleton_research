@@ -1,0 +1,12 @@
+DependencyInjection/
+EventListener/
+Manager/
+Resources/
+Tests/Manager/
+Twig/
+.gitignore
+.travis.yml
+README.md
+ZenstruckMobileBundle.php
+composer.json
+phpunit.xml.dist

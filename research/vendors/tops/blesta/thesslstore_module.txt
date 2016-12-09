@@ -1,0 +1,9 @@
+api/
+language/en_us/
+views/default/
+.gitignore
+LICENSE
+README.md
+composer.json
+config.json
+thesslstore_module.php

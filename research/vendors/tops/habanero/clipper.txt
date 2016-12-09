@@ -1,0 +1,8 @@
+lib/Clipper/
+spec/
+.editorconfig
+.gitignore
+.travis.yml
+README.md
+composer.json
+composer.lock

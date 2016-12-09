@@ -1,0 +1,11 @@
+class/
+class_ex/
+html/admin/products/
+templates/admin/products/
+AddProductColumns.php
+composer.json
+include.php
+logo.png
+plg_AddProductColumns_ClassAutoloader.php
+plugin_info.php
+plugin_update.php

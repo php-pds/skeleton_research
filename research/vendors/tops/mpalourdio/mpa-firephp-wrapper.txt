@@ -1,0 +1,12 @@
+config/
+src/
+tests/
+view/zend-developer-tools/toolbar/
+.gitattributes
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

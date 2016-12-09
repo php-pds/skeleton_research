@@ -1,0 +1,8 @@
+Tests/Validator/Constraints/
+Validator/Constraints/
+.gitattributes
+.gitignore
+.travis.yml
+LICENSE
+composer.json
+phpunit.xml.dist

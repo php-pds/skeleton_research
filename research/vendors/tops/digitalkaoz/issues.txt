@@ -1,0 +1,13 @@
+bin/
+doc/
+spec/Rs/Issues/
+src/
+.gitattributes
+.gitignore
+.php_cs
+.travis.yml
+LICENSE
+README.md
+box.json
+composer.json
+phpspec_coverage.yml

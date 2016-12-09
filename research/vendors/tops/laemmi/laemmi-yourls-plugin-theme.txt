@@ -1,0 +1,9 @@
+assets/
+lib/
+sass/
+.gitignore
+README.md
+composer.json
+config.rb
+html_footer_text.php
+plugin.php

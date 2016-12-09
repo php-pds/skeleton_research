@@ -1,0 +1,8 @@
+src/hexpang/moviebotb3t/
+testCases/
+.gitignore
+LICENSE
+README.md
+composer.json
+phpunit.xml
+test.php

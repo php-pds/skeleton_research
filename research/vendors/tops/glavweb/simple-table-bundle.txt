@@ -1,0 +1,10 @@
+Data/
+DependencyInjection/
+Mapper/
+Renderer/
+Resources/
+Twig/
+.gitignore
+GlavwebSimpleTableBundle.php
+LICENSE
+composer.json

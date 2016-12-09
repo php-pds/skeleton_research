@@ -1,0 +1,11 @@
+src/
+.gitignore
+README.md
+composer.json
+composer.lock
+env.php.orig
+inc.bootstrap.php
+inc.functions.php
+index.php
+tpl.footer.php
+tpl.header.php

@@ -1,0 +1,13 @@
+app/
+public/
+storage/
+tests/
+.env.example
+.gitignore
+.htaccess
+LICENSE
+NOTE.md
+README.md
+composer.json
+index.html
+run

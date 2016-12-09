@@ -1,0 +1,14 @@
+app/
+bin/
+dev/
+etc/
+pub/
+testing/
+vendor/
+.environaut.cache
+.gitignore
+README.md
+composer.json
+composer.lock
+environaut.xml
+phpunit.xml.dist

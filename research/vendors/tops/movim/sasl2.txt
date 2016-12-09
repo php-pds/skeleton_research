@@ -1,0 +1,4 @@
+src/SASL2/
+LICENSE
+README.md
+composer.json

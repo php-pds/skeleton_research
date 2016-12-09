@@ -1,0 +1,9 @@
+actions/admin/plugins/install/
+classes/Elgg/
+languages/
+vendor/
+views/default/
+composer.json
+composer.lock
+manifest.xml
+start.php

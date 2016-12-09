@@ -1,0 +1,10 @@
+Annotations/
+Containee/
+Exception/
+.phpstorm.meta.php
+ContaineeInterface.php
+Container.php
+ContainerInterface.php
+README.md
+ServiceProviderInterface.php
+composer.json

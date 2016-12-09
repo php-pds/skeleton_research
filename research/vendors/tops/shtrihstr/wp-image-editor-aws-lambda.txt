@@ -1,0 +1,5 @@
+.gitignore
+README.md
+class-wp-image-editor-aws-lambda.php
+composer.json
+wp-image-editor-aws-lambda.php

@@ -1,0 +1,10 @@
+assets/
+BaseAction.php
+DeleteAction.php
+FileUpload.php
+ImageManipulate.php
+README.md
+ThumbAction.php
+UploadAction.php
+UploadWidget.php
+composer.json

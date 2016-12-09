@@ -1,0 +1,13 @@
+angular/
+app/
+public/
+resources/
+src/
+tests/
+.gitignore
+.htaccess
+README.md
+bower.json
+composer.json
+gulpfile.js
+package.json

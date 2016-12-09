@@ -1,0 +1,14 @@
+model/
+option/
+seed/
+.editorconfig
+.gitignore
+LICENSE
+README.md
+alter
+composer.json
+docker-compose.yml
+functions.php
+index.php
+main.php
+style.css

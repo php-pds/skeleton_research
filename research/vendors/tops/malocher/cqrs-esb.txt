@@ -1,0 +1,13 @@
+iterations/Iteration/
+src/Malocher/Cqrs/
+tests/Malocher/CqrsTest/
+.coveralls.yml
+.gitignore
+.travis.yml
+README.md
+TODO
+bootstrap.php
+composer.json
+composer.lock
+phpunit.xml
+phpunit.xml.dist

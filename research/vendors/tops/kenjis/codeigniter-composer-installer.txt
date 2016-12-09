@@ -1,0 +1,8 @@
+bin/
+src/
+.gitignore
+LICENSE.md
+README.md
+composer.json
+composer.json.dist
+dot.htaccess

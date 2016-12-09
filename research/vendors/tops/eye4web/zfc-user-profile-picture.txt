@@ -1,0 +1,11 @@
+config/
+src/Eye4web/ZfcUser/ProfilePicture/
+test/
+view/eye4web/zfc-user-profile-picture/
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+composer.json
+phpunit.xml

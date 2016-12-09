@@ -1,0 +1,9 @@
+DependencyInjection/
+Resources/config/
+Soap/
+.gitignore
+.travis.yml
+README.md
+RaindropSoapBundle.php
+composer.json
+phpunit.xml.dist

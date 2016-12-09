@@ -1,0 +1,9 @@
+specs/
+src/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+output.png
+peridot.php

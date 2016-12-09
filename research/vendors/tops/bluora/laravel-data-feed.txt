@@ -1,0 +1,10 @@
+example/
+src/
+.codeclimate.yml
+.gitignore
+.travis.yml
+CONTRIBUTING.md
+README.md
+composer.json
+phpmd.xml
+phpunit.xml.dist.xml

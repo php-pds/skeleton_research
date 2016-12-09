@@ -1,0 +1,18 @@
+app/
+deploy @ 6824d86
+lib/Cake/
+scripts/
+vendors/
+.coveralls.yml
+.gitignore
+.gitmodules
+.htaccess
+.travis.yml
+Capfile
+Vagrantfile
+composer.json
+composer.lock
+coverage.sh
+index.php
+phpunit.xml.dist
+readme.md

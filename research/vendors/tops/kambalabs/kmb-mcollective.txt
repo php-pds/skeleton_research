@@ -1,0 +1,11 @@
+config/
+data/migrations/
+language/
+public/
+src/KmbMcollective/
+test/
+view/kmb-mcollective/index/
+.gitignore
+Module.php
+composer.json
+coverage-checker.php

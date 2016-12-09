@@ -1,0 +1,8 @@
+config/
+database/
+lang/
+src/
+themes/
+README.md
+composer.json
+extension.php

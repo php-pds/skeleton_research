@@ -1,0 +1,9 @@
+examples/
+src/Eventus/
+tests/Eventus/
+.gitignore
+COPYING
+README.md
+composer.json
+composer.lock
+phpunit.xml

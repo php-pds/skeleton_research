@@ -1,0 +1,6 @@
+config/
+data/
+src/ride/application/mime/
+README.md
+composer.json
+ride.json

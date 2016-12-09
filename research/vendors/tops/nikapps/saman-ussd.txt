@@ -1,0 +1,10 @@
+spec/Nikapps/SamanUssd/
+src/
+tests/
+.gitignore
+CONTRIBUTING
+LICENSE
+README.md
+codeception.yml
+composer.json
+phpspec.yml

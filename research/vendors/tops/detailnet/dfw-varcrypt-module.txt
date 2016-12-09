@@ -1,0 +1,13 @@
+build/
+config/
+src/Detail/VarCrypt/
+tests/
+.coveralls.yml
+.gitignore
+.travis.yml
+LICENSE
+Module.php
+README.md
+composer.json
+phpunit.xml.dist
+travis.phpunit.xml

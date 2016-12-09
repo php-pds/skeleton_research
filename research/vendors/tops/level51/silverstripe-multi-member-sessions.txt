@@ -1,0 +1,7 @@
+_config/
+code/
+.README.md.swp
+CHANGELOG.md
+LICENSE
+README.md
+composer.json

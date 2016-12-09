@@ -1,0 +1,6 @@
+lib/Laemmi/Yourls/Plugin/TrimUrl/
+.gitignore
+LICENSE.md
+README.md
+composer.json
+plugin.php

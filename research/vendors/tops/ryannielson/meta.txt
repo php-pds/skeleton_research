@@ -1,0 +1,7 @@
+spec/RyanNielson/Meta/
+src/RyanNielson/Meta/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json

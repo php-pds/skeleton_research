@@ -1,0 +1,7 @@
+src/Services/
+.gitattributes
+.gitignore
+LICENSE.txt
+composer.json
+phpunit.xml
+readme.md

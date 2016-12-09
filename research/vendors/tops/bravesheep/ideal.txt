@@ -1,0 +1,6 @@
+lib/Bs/IDeal/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock

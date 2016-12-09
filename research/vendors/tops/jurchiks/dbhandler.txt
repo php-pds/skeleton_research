@@ -1,0 +1,8 @@
+src/
+LICENSE
+README.md
+autoloader.php
+composer.json
+test_dns_strings.php
+test_mysql.php
+test_mysql_timeout.php

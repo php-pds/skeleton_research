@@ -1,0 +1,9 @@
+config/
+language/
+src/BusinessManager/
+view/florian1987/business-manager/generic/
+.gitignore
+LICENSE
+Module.php
+README.md
+composer.json

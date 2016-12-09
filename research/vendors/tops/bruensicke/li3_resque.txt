@@ -1,0 +1,8 @@
+config/
+core/
+extensions/
+libraries/
+tests/
+.gitmodules
+README.md
+composer.json

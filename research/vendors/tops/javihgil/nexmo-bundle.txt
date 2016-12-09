@@ -1,0 +1,12 @@
+Command/
+DependencyInjection/
+Managers/
+Model/
+NexmoClient/
+Resources/
+Utils/
+.gitignore
+JhgNexmoBundle.php
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,8 @@
+config/
+nbproject/
+src/CdiCommons/
+view/cdi-commons/
+.gitignore
+Module.php
+README.md
+composer.json

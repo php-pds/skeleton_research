@@ -1,0 +1,7 @@
+app/
+log/
+temp/
+tests/
+www/
+.gitignore
+composer.json

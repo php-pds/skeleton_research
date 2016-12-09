@@ -1,0 +1,17 @@
+examples/
+src/
+tests/
+.editorconfig
+.gitattributes
+.gitignore
+.scrutinizer.yml
+.styleci.yml
+.travis.yml
+CONTRIBUTING.md
+LICENSE
+Makefile
+README.md
+appveyor.yml
+composer.json
+composer.lock
+phpunit.xml.dist

@@ -1,0 +1,6 @@
+Classes/Futjikato/FlexTeaser/
+Configuration/
+Documentation/Assets/
+Resources/Private/
+Readme.md
+composer.json

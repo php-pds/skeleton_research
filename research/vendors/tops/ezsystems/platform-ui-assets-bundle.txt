@@ -1,0 +1,7 @@
+bin/
+.bowerrc
+.travis.yml
+EzSystemsPlatformUIAssetsBundle.php
+README.md
+bower.json
+composer.json

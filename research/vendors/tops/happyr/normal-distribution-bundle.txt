@@ -1,0 +1,12 @@
+DependencyInjection/
+Entity/
+Resources/config/
+Service/
+Tests/Service/
+.gitignore
+.travis.yml
+HappyrNormalDistributionBundle.php
+README.md
+build.xml
+composer.json
+phpunit.xml.dist

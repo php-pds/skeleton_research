@@ -1,0 +1,9 @@
+resources/
+spec/Shrikeh/Macaroons/
+src/
+.gitattributes
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock

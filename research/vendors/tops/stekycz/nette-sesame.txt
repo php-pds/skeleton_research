@@ -1,0 +1,4 @@
+src/stekycz/NetteSesame/
+.gitignore
+README.md
+composer.json

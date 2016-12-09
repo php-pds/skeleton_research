@@ -1,0 +1,8 @@
+bin/
+src/
+test/fixture/foo_module/
+.gitignore
+README.md
+bootstrap.php
+composer.json
+composer.lock

@@ -1,0 +1,4 @@
+src/SoPhp/Amqp/
+.gitignore
+README.md
+composer.json

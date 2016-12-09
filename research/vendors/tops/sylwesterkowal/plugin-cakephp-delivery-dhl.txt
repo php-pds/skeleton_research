@@ -1,0 +1,8 @@
+.idea/
+config/
+src/Controller/
+webroot/
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

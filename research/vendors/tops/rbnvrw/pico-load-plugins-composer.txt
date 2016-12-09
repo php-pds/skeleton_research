@@ -1,0 +1,4 @@
+LICENSE
+README.md
+composer.json
+pico_load_plugins_composer.php

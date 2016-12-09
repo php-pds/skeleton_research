@@ -1,0 +1,8 @@
+classes/
+config/auth/
+messages/
+sql/
+views/auth/email/en-us/
+.gitignore
+README.md
+composer.json

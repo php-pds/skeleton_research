@@ -1,0 +1,10 @@
+AuthorResolving/
+AutoSuggest/
+Controller/
+DependencyInjection/
+Resources/
+Tests/Functional/AutoSuggest/
+.gitignore
+ModeraBackendToolsActivityLogBundle.php
+README.md
+composer.json

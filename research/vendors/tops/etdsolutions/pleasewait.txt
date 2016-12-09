@@ -1,0 +1,5 @@
+LICENSE
+composer.json
+please-wait.css
+please-wait.js
+please-wait.min.js

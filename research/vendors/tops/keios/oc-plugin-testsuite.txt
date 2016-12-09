@@ -1,0 +1,6 @@
+bootstrap/
+.gitignore
+LICENSE.md
+OctoberPluginTestCase.php
+README.md
+composer.json

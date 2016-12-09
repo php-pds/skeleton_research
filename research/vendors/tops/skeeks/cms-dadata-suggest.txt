@@ -1,0 +1,12 @@
+_ide/
+config/
+controllers/
+messages/ru/
+widgets/
+CHANGELOG.md
+CmsDadataSuggestApi.php
+CmsDadataSuggestComponent.php
+CmsDadataSuggestModule.php
+LICENSE
+README.md
+composer.json

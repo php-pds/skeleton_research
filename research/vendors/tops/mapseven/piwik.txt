@@ -1,0 +1,8 @@
+Classes/MapSeven/Piwik/Controller/Module/Management/
+Configuration/
+Resources/Private/
+LICENSE
+Module_Piwik.png
+NodeType_Piwik.png
+README.md
+composer.json

@@ -1,0 +1,5 @@
+docs/
+src/Payum/YiiExtension/
+LICENSE
+README.md
+composer.json

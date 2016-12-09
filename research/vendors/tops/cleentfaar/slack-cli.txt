@@ -1,0 +1,11 @@
+src/CL/SlackCli/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+box.json
+bump-version.sh
+composer.json
+phpunit.xml.dist
+slack

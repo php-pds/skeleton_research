@@ -1,0 +1,17 @@
+app/
+bin/
+features/
+src/
+web/
+.bowerrc
+.gitignore
+.travis.yml
+.travis_setup.sh
+CONTRIBUTING.md
+Capfile.dist
+LICENSE
+Makefile
+README.md
+behat.yml.dist
+bower.json
+composer.json

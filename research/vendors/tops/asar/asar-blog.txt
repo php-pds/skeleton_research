@@ -1,0 +1,14 @@
+src/Asar/Blog/
+tests/
+.gitignore
+.travis.yml
+Guardfile
+LICENSE
+README.md
+build.phpunit.xml
+build.xml
+cli-config.php
+composer.json
+doctrine
+doctrine.php
+phpunit.xml.dist

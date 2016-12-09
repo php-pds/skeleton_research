@@ -1,0 +1,5 @@
+.gitignore
+README.textile
+composer.json
+composer.lock
+compressor.php

@@ -1,0 +1,5 @@
+DependencyInjection/
+.gitignore
+README.md
+RezzzaFlickrBundle.php
+composer.json

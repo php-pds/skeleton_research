@@ -1,0 +1,12 @@
+DependencyInjection/
+EventListener/
+Exception/
+Resources/config/
+Tests/
+Util/
+.gitignore
+.travis.yml
+LICENSE
+PierrreAutomaticValidatorBundle.php
+composer.json
+phpunit.xml.dist

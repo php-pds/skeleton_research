@@ -1,0 +1,5 @@
+src/email/
+tests/
+README.md
+autoload.php
+composer.json

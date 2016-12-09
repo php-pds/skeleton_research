@@ -1,0 +1,7 @@
+bin/
+src/W3C/
+test/
+.gitignore
+LICENSE.txt
+README.md
+composer.json

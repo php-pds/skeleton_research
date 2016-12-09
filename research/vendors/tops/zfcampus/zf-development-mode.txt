@@ -1,0 +1,16 @@
+bin/
+src/
+test/
+.coveralls.yml
+.gitignore
+.travis.yml
+CHANGELOG.md
+CONDUCT.md
+CONTRIBUTING.md
+LICENSE.md
+README.md
+composer.json
+development.config.php.dist
+development.local.php.dist
+phpcs.xml
+phpunit.xml.dist

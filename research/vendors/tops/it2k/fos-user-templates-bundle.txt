@@ -1,0 +1,6 @@
+DependencyInjection/
+Resources/
+It2kFOSUserTemplatesBundle.php
+LICENSE
+README.md
+composer.json

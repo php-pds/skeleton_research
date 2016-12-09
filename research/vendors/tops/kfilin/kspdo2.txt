@@ -1,0 +1,7 @@
+src/KsPdo/
+tests/src/KsPdo/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock

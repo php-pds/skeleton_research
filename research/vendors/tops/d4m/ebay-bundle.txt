@@ -1,0 +1,6 @@
+DependencyInjection/
+Resources/
+.gitignore
+D4mEbayBundle.php
+README.md
+composer.json

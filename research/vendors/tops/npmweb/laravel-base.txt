@@ -1,0 +1,5 @@
+src/NpmWeb/LaravelBase/
+LICENSE
+README.md
+composer.json
+phpunit.xml

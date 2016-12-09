@@ -1,0 +1,10 @@
+src/Dwo/Flagging/
+.coveralls.yml
+.gitignore
+.travis.yml
+LICENSE
+README.md
+README.tec..md
+autoload.php
+composer.json
+phpunit.xml.dist

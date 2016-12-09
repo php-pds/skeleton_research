@@ -1,0 +1,11 @@
+.gitignore
+LICENSE
+Makefile
+README.md
+bower.json
+component.json
+composer.json
+package.json
+three.js
+three.min.js
+update.sh

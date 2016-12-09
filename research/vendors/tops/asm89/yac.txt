@@ -1,0 +1,7 @@
+lib/Yac/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,7 @@
+cache/
+lib/
+.gitignore
+LICENSE
+VERSION
+composer.json
+readme.md

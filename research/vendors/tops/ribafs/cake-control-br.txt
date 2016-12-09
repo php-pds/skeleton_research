@@ -1,0 +1,8 @@
+config/
+docs/
+src/
+webroot/
+.gitattributes
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,6 @@
+.settings/
+src/Aspose/Cloud/
+.gitignore
+.project
+README.md
+composer.json

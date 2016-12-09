@@ -1,0 +1,11 @@
+src/Jacky/
+tests/Jacky/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+phpmd.xml.dist
+phpunit.xml.dist

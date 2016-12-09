@@ -1,0 +1,12 @@
+Admin/
+Command/
+Controller/
+DependencyInjection/
+Model/
+Resources/config/
+.gitignore
+CreonitSearch.php
+CreonitSearchBundle.php
+CreonitSearchIndex.php
+LICENSE
+composer.json

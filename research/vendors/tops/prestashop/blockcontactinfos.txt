@@ -1,0 +1,11 @@
+translations/
+upgrade/
+CHANGELOG.txt
+Readme.md
+blockcontactinfos.php
+blockcontactinfos.tpl
+composer.json
+config.xml
+index.php
+logo.gif
+logo.png

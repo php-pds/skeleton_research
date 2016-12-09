@@ -1,0 +1,9 @@
+src/
+tests/
+.gitattributes
+.gitignore
+codeception.yml
+composer-nette_2.2.json
+composer.json
+readme.md
+tests.md

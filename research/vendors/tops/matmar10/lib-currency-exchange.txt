@@ -1,0 +1,8 @@
+src/Matmar10/Money/CurrencyExchange/
+tests/Matmar10/Money/CurrencyExchange/Test/Entity/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

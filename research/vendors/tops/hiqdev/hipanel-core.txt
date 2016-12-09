@@ -1,0 +1,14 @@
+.hidev/
+docs/
+src/
+tests/
+.gitignore
+.php_cs
+.scrutinizer.yml
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+ROADMAP.md
+composer.json
+phpunit.xml.dist

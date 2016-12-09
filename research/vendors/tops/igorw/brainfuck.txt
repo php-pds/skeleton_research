@@ -1,0 +1,11 @@
+bin/
+doc/
+examples/
+src/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

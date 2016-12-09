@@ -1,0 +1,7 @@
+RepositoryService/
+tests/
+.gitignore
+README.md
+RepositoryServiceBundle.php
+composer.json
+composer.lock

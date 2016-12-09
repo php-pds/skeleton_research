@@ -1,0 +1,15 @@
+DependencyInjection/
+Event/
+EventListener/
+Menu/
+Resources/config/
+Security/
+.coveralls.yml
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+XiideaEasyMenuAclBundle.php
+composer.json
+phpunit.xml.dist

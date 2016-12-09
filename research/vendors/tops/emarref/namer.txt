@@ -1,0 +1,11 @@
+lib/Emarref/Namer/
+test/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+circle.yml
+composer.json
+composer.lock
+phpunit.xml

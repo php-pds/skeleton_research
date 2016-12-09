@@ -1,0 +1,6 @@
+assets/
+.gitignore
+FuelUXAsset.php
+LICENSE
+README.md
+composer.json

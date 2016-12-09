@@ -1,0 +1,3 @@
+src/Ditto/Propel/
+README.md
+composer.json

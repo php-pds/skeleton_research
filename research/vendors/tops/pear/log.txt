@@ -1,0 +1,12 @@
+Log/
+docs/
+examples/
+misc/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+Log.php
+README.rst
+composer.json
+package.xml

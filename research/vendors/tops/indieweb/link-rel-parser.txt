@@ -1,0 +1,9 @@
+src/IndieWeb/
+tests/
+.travis.yml
+CODE_OF_CONDUCT.md
+LICENSE
+README.md
+composer.json
+phpunit.phar
+phpunit.xml

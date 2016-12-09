@@ -1,0 +1,14 @@
+App/FrontController/
+Block/
+Controller/Adminhtml/
+Helper/
+Model/
+Setup/
+etc/
+lib/
+view/adminhtml/
+ChangeLog
+LICENSE.LGPLv3
+README.md
+composer.json
+registration.php

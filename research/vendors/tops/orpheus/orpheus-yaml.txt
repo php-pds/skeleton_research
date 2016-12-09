@@ -1,0 +1,9 @@
+.settings/
+src/Config/YAML/
+.buildpath
+.gitignore
+.project
+LICENSE
+README.md
+composer.json
+composer.lock

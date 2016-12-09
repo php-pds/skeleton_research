@@ -1,0 +1,8 @@
+_config/
+css/
+images/
+.editorconfig
+.scrutinizer.yml
+README.md
+_config.php
+composer.json

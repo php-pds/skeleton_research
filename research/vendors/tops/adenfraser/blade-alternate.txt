@@ -1,0 +1,6 @@
+licenses/
+src/AdenFraser/BladeAlternate/
+.gitignore
+LICENSE.md
+README.md
+composer.json

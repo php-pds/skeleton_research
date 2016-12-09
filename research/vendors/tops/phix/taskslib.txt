@@ -1,0 +1,12 @@
+src/
+.gitignore
+.hgignore
+.travis.yml
+LICENSE.txt
+README.md
+build.local.xml
+build.properties
+build.xml
+composer.json
+package.xml
+phpunit.xml.dist

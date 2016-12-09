@@ -1,0 +1,12 @@
+Config/
+app/
+frequence/classes/
+index/
+publication/classes/
+publisher/classes/
+reader/classes/
+subscriber/classes/
+.gitattributes
+.gitignore
+autoload.php
+composer.json

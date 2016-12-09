@@ -1,0 +1,11 @@
+src/PMD/Bundle/
+.editorconfig
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+autoload.php.dist
+bootstrap.php
+composer.json
+phpunit.xml.dist

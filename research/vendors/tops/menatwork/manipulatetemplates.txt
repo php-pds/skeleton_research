@@ -1,0 +1,3 @@
+system/modules/manipulateTemplates/
+DEPENDENCIES.md
+composer.json

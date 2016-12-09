@@ -1,0 +1,9 @@
+Model/
+Resources/doc/
+Tests/
+.gitignore
+KonektSerpaSyncBundle.php
+LICENSE
+README.md
+composer.json
+composer.lock

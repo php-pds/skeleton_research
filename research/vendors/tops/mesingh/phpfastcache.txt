@@ -1,0 +1,7 @@
+drivers/
+examples/
+README.md
+composer.json
+copyright & license.txt
+driver.php
+phpfastcache.php

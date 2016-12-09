@@ -1,0 +1,16 @@
+.bldr @ 995f70a
+lib/
+tests/
+.bldr.yml
+.coveralls.yml
+.editorconfig
+.gitignore
+.gitmodules
+.php_cs.dist
+.styleci.yml
+.travis.yml
+CONTRIBUTING.md
+LICENSE.md
+README.md
+composer.json
+phpunit.xml.dist

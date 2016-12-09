@@ -1,0 +1,12 @@
+dist/
+src/
+.gitignore
+Jenkinsfile
+LICENCE.txt
+README.md
+compile.js
+composer.json
+maintainers.txt
+npm-shrinkwrap.json
+package.json
+puli.json

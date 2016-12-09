@@ -1,0 +1,6 @@
+includes/
+tests/
+README.md
+bridge.php
+composer.json
+phpunit.xml

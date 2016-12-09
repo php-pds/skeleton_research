@@ -1,0 +1,11 @@
+config/
+examples/
+src/Srtfisher/Automatic/
+test/
+.gitignore
+.travis.yml
+CONTRIBUTING.md
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

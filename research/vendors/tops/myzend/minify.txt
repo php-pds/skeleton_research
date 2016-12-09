@@ -1,0 +1,6 @@
+config/
+src/Minify/View/Helper/
+Module.php
+README.md
+autoload_classmap.php
+composer.json

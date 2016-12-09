@@ -1,0 +1,6 @@
+behaviors/
+controllers/
+helpers/
+models/
+Module.php
+composer.json

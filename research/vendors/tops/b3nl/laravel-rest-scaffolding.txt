@@ -1,0 +1,15 @@
+.idea/inspectionProfiles/
+config/
+src/
+storage/rest-scaffolding/
+tests/
+.env.example
+.gitattributes
+.gitignore
+LICENSE
+artisan
+composer.json
+composer.lock
+package.json
+phpspec.yml
+phpunit.xml

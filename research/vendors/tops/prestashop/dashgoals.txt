@@ -1,0 +1,11 @@
+controllers/admin/
+translations/
+views/
+CHANGELOG.txt
+Readme.md
+composer.json
+config.xml
+dashgoals.php
+index.php
+logo.gif
+logo.png

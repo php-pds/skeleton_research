@@ -1,0 +1,5 @@
+bin/
+src/Kohkimakimoto/SiteGenerator/
+.gitignore
+README.md
+composer.json

@@ -1,0 +1,10 @@
+src/
+tests/
+.editorconfig
+.gitattributes
+.gitignore
+.styleci.yml
+.travis.yml
+composer.json
+phpunit.xml.dist
+readme.md

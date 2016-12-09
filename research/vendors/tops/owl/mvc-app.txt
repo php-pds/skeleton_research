@@ -1,0 +1,6 @@
+app/modules/common/
+public/
+.gitignore
+LICENSE
+README.md
+composer.json

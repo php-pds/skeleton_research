@@ -1,0 +1,6 @@
+examples/
+src/tdt/json/
+tests/
+.gitignore
+README.md
+composer.json

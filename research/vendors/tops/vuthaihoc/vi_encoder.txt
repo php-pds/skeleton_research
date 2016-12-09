@@ -1,0 +1,5 @@
+demo/
+src/Encoder/
+.gitignore
+composer.json
+readme.md

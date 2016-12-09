@@ -1,0 +1,10 @@
+bin/
+example_configuration_not_used/
+lib/
+tests/
+.gitignore
+LICENSE
+composer.json
+composer.phar
+phpunit
+readme.MD

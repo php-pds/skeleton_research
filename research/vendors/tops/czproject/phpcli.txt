@@ -1,0 +1,7 @@
+src/
+tests/
+.gitignore
+composer.json
+license.md
+loader.php
+readme.md

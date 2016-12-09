@@ -1,0 +1,6 @@
+core/
+data/
+doc/
+LICENSE.md
+README.md
+composer.json

@@ -1,0 +1,12 @@
+Controller/
+DependencyInjection/
+Entity/
+Form/
+MediaInfo/Adapter/Music/
+Repository/
+Resources/
+.gitignore
+FulgurioMediaLibraryManagerBundle.php
+LICENSE
+README.md
+composer.json

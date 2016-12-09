@@ -1,0 +1,6 @@
+config/
+public/
+src/CollectionShop/
+Module.php
+README.md
+composer.json

@@ -1,0 +1,7 @@
+assets/
+data/
+migrations/
+models/
+widgets/
+README.md
+composer.json

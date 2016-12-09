@@ -1,0 +1,9 @@
+Slim/
+tests/
+.htaccess
+.travis.yml
+LICENSE
+README.markdown
+composer.json
+index.php
+phpunit.xml.dist

@@ -1,0 +1,9 @@
+examples/
+includes/
+install/
+js/
+.gitignore
+LICENSE
+README.md
+composer.json
+control_registry.inc.php

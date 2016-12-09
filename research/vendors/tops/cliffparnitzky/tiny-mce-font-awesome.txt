@@ -1,0 +1,8 @@
+assets/tinymce4/plugins/fontawesome/
+system/
+.gitattributes
+.gitignore
+README.md
+composer.json
+screenshot-theme.jpg
+screenshot.jpg

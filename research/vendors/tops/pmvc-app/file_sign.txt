@@ -1,0 +1,6 @@
+.gitignore
+README.md
+composer.json
+composer.lock
+file_sign.php
+index_cli.php

@@ -1,0 +1,8 @@
+Classes/Kyoki/OAuth2/
+Configuration/
+Documentation/
+Meta/
+Resources/
+Tests/
+README.rst
+composer.json

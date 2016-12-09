@@ -1,0 +1,11 @@
+DataCollector/
+DependencyInjection/
+Resources/
+Security/
+Tests/
+.gitignore
+ITNDebugBundle.php
+Readme.md
+composer.json
+composer.lock
+phpunit.xml

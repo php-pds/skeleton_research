@@ -1,0 +1,10 @@
+bin/
+spec/Wjzijderveld/Console/InputResolver/
+src/Wjzijderveld/Console/InputResolver/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+phpspec.yml.dist

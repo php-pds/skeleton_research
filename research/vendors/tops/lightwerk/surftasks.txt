@@ -1,0 +1,4 @@
+Classes/Lightwerk/SurfTasks/
+Tests/Unit/Task/TYPO3/
+LICENSE
+composer.json

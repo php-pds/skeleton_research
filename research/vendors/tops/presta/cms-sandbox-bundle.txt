@@ -1,0 +1,13 @@
+Controller/
+DataFixtures/
+DependencyInjection/
+Factory/
+Resources/
+Strategy/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+Makefile
+PrestaCMSSandboxBundle.php
+README.md
+composer.json

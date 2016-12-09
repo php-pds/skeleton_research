@@ -1,0 +1,7 @@
+docs/
+.gitattributes
+.gitignore
+LICENSE
+NOTICE
+composer.json
+readme.md

@@ -1,0 +1,9 @@
+src/EasyBib/Core/Composer/
+tests/
+.gitignore
+.travis.yml
+LICENSE.txt
+README.md
+composer.json
+composer.phar
+phpunit.xml

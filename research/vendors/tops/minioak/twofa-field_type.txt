@@ -1,0 +1,6 @@
+resources/
+src/
+vendor/
+.gitignore
+LICENSE
+composer.json

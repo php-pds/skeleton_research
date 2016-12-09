@@ -1,0 +1,5 @@
+config/
+src/RoleInterfaces/
+LICENSE
+Module.php
+composer.json

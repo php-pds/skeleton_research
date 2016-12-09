@@ -1,0 +1,10 @@
+build/
+src/
+tests/nodeunit/
+.gitignore
+.travis.yml
+Gruntfile.coffee
+README.md
+bower.json
+composer.json
+package.json

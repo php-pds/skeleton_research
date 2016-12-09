@@ -1,0 +1,8 @@
+inc/
+.gitignore
+MIT.txt
+README.md
+composer.json
+index.html
+readme.html
+timecircles.jquery.json

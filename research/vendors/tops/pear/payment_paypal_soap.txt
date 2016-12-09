@@ -1,0 +1,8 @@
+Payment/PayPal/
+data/wsdl/
+tests/
+.gitignore
+README
+composer.json
+package.php
+package.xml

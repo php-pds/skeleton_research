@@ -1,0 +1,7 @@
+DependencyInjection/
+Resources/config/
+Tests/DependencyInjection/
+KnpPiwikBundle.php
+LICENSE
+README.md
+composer.json

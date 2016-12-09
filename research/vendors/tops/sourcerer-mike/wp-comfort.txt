@@ -1,0 +1,15 @@
+bin/
+includes/
+tests/
+.gitignore
+.travis.yml
+CONTRIBUTE.md
+LICENSE.md
+README.md
+autoload.php
+bootstrap.php
+comfort.php
+composer.json
+composer.lock
+phpspec.yml
+phpunit.xml

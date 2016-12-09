@@ -1,0 +1,7 @@
+bench-examples/
+src/PHPBench/
+.gitattributes
+.gitignore
+LICENSE
+README.md
+composer.json

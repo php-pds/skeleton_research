@@ -1,0 +1,3 @@
+Provider.php
+SlackExtendSocialite.php
+composer.json

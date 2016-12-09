@@ -1,0 +1,9 @@
+src/Fenom/
+tests/
+.gitignore
+.travis.yml
+authors.md
+composer.json
+composer.lock
+phpunit.xml.dist
+readme.md

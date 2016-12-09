@@ -1,0 +1,10 @@
+config/
+dca/
+languages/
+templates/
+widgets/
+.gitignore
+ContentDivider.php
+LICENSE
+README.md
+composer.json

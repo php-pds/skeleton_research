@@ -1,0 +1,9 @@
+Annotation/
+DependencyInjection/
+Document/
+EventListener/
+Resources/config/
+LICENSE
+README.md
+TalakaDoctrineTranslatableBundle.php
+composer.json

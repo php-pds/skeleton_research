@@ -1,0 +1,14 @@
+assets/
+bin/
+doc/
+src/
+templates/
+test/
+.codeclimate.yml
+.gitignore
+.htaccess
+.jshintrc
+.travis.yml
+LICENSE
+README.md
+composer.json

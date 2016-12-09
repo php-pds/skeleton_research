@@ -1,0 +1,11 @@
+Action/
+Config/
+Controller/Front/
+Event/
+Loop/
+Model/
+Smarty/Plugins/
+LICENSE.txt
+README.md
+WishList.php
+composer.json

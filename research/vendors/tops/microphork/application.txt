@@ -1,0 +1,6 @@
+app/
+composer/
+htdocs/
+logs/
+README.md
+composer.json

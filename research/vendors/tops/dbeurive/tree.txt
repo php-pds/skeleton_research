@@ -1,0 +1,10 @@
+doc/
+examples/
+src/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json
+phpdoc.xml
+phpunit.xml

@@ -1,0 +1,9 @@
+config/
+src/
+tests/phpunit/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock

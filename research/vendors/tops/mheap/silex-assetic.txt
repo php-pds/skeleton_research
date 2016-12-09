@@ -1,0 +1,10 @@
+doc/
+example/
+src/SilexAssetic/
+tests/
+.gitignore
+.travis.yml
+MIT-LICENSE
+README.md
+composer.json
+phpunit.xml.dist

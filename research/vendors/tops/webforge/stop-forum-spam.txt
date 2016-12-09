@@ -1,0 +1,9 @@
+bin/
+lib/
+tests/StopForumSpam/
+.gitignore
+LICENSE
+README.md
+bootstrap.php
+composer.json
+phpunit.xml.dist

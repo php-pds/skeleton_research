@@ -1,0 +1,14 @@
+SCREENSHOTS/
+actions/missions/
+graphics/
+languages/
+lib/
+pages/missions/
+testable/
+vendors/
+views/default/
+RELEASE_NOTES.txt
+activate.php
+composer.json
+manifest.xml
+start.php

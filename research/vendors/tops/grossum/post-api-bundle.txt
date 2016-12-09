@@ -1,0 +1,6 @@
+DependencyInjection/
+Resources/config/
+.gitignore
+GrossumPostApiBundle.php
+README.md
+composer.json

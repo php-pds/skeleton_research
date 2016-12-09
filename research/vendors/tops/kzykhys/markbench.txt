@@ -1,0 +1,6 @@
+bin/
+src/Markbench/
+.gitignore
+.travis.yml
+README.md
+composer.json

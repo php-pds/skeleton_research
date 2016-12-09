@@ -1,0 +1,16 @@
+commands/
+components/
+controllers/
+mail/
+migrations/
+models/
+views/
+.gitignore
+CHANGELOG.md
+CONFIG.md
+LICENSE.md
+Module.php
+README.md
+ROADMAP.md
+USAGE.md
+composer.json

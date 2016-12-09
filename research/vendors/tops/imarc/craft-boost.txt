@@ -1,0 +1,11 @@
+consolecommands/
+services/
+templates/
+.editorconfig
+.gitignore
+BoostPlugin.php
+CHANGELOG.md
+LICENSE
+README.md
+composer.json
+deploy

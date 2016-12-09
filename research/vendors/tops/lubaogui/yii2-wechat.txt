@@ -1,0 +1,16 @@
+lib/
+BaseWechat.php
+Module.php
+README.md
+Wechat.php
+WechatCard.php
+WechatKF.php
+WechatMenu.php
+WechatMessage.php
+WechatOauth2.php
+WechatQRCode.php
+WechatSemantic.php
+WechatShakeAround.php
+WechatStat.php
+WechatUser.php
+composer.json

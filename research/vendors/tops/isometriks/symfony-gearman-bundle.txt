@@ -1,0 +1,12 @@
+Annotation/
+Command/
+DependencyInjection/
+Entity/
+Event/
+EventListener/
+Resources/config/
+Tool/
+LaelapsGearmanBundle.php
+README.md
+Worker.php
+composer.json

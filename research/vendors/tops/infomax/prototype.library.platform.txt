@@ -1,0 +1,12 @@
+build/
+installer/
+nbproject/
+src/test/php/
+.gitattributes
+.gitignore
+Jenkinsfile
+LICENSE
+README.md
+build.xml
+composer.json
+composer.lock

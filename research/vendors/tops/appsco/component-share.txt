@@ -1,0 +1,8 @@
+src/BWC/Share/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+README.md
+autoload.php
+composer.json
+phpunit.xml

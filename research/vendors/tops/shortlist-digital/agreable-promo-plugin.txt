@@ -1,0 +1,17 @@
+app/
+features/
+resources/
+src/
+.editorconfig
+.gitignore
+.jscsrc
+README.md
+behat.yml
+composer.json
+dev-server.js
+herbert.config.php
+package.json
+plugin.php
+webpack.config.js
+webpack.development.config.js
+widget-loader-acf.php

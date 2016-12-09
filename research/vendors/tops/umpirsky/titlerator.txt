@@ -1,0 +1,11 @@
+bin/
+spec/Titlerator/
+src/Titlerator/
+views/
+web/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock

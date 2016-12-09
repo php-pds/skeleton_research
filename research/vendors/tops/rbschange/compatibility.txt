@@ -1,0 +1,11 @@
+commands/
+config/
+i18n/bo/general/
+lib/
+override/
+persistentdocument/import/
+setup/
+templates/
+change.xml
+composer.json
+install.xml

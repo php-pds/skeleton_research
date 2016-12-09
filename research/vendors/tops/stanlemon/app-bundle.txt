@@ -1,0 +1,7 @@
+Controller/
+Entity/
+Resources/
+LICENSE
+LemonAppBundle.php
+README.md
+composer.json

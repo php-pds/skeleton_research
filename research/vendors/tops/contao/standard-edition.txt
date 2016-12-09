@@ -1,0 +1,10 @@
+app/
+bin/
+var/
+web/
+.gitignore
+CHANGELOG.md
+README.md
+build.xml
+composer.json
+composer.lock

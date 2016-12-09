@@ -1,0 +1,7 @@
+demo/
+.gitignore
+LICENSE
+README.md
+Tex2png.php
+autoload.php
+composer.json

@@ -1,0 +1,12 @@
+src/CDC/
+tests/CDC/
+.coveralls.yml
+.gitignore
+.travis.yml
+README.md
+UTILIZANDO_O_COMPOSER_NO_WINDOWS.md
+bootstrap-phpunit.php
+composer.json
+composer.phar
+cover.jpeg
+phpunit.xml

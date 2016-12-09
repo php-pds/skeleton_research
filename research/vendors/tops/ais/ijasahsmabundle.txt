@@ -1,0 +1,12 @@
+Controller/
+DependencyInjection/
+Entity/
+Exception/
+Form/
+Handler/
+Model/
+Repository/
+Resources/
+Tests/
+AisIjasahSmaBundle.php
+composer.json

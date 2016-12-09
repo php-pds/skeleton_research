@@ -1,0 +1,5 @@
+src/CoprocBundle/
+.gitignore
+LICENSE
+README.md
+composer.json

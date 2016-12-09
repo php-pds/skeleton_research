@@ -1,0 +1,8 @@
+Entity/
+Tests/
+Traits/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock

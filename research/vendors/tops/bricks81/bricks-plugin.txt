@@ -1,0 +1,10 @@
+cache/
+config/
+src/
+.gitignore
+LICENSE
+Module.php
+README.md
+autoload_classmap.php
+composer.json
+composer_file.php

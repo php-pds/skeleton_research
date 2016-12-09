@@ -1,0 +1,5 @@
+classes/Door/BSPanel/
+media/bspanel/
+views/bspanel/
+composer.json
+init.php

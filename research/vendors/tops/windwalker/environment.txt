@@ -1,0 +1,12 @@
+Browser/
+Test/
+.gitignore
+.travis.yml
+Environment.php
+PhpHelper.php
+Platform.php
+PlatformHelper.php
+README.md
+WebEnvironment.php
+composer.json
+phpunit.travis.xml

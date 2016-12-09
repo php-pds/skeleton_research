@@ -1,0 +1,4 @@
+HipchatFactory.php
+HipchatGateway.php
+LICENSE
+composer.json

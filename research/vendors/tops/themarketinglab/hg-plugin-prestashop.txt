@@ -1,0 +1,8 @@
+bin/
+spec/
+src/PrestaShop/
+.gitignore
+README.md
+composer.json
+composer.lock
+phpspec.yml

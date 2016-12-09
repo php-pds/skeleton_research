@@ -1,0 +1,6 @@
+docs/
+lib/
+public/js/
+templates/view/
+README.md
+composer.json

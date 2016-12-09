@@ -1,0 +1,11 @@
+classes/
+config/
+lib/Whoops/Handler/
+.gitignore
+CHANGELOG.md
+CONTRIBUTING.md
+LICENSE
+README.md
+TODO.md
+bootstrap.php
+composer.json

@@ -1,0 +1,14 @@
+bin/
+junk/
+resources/user/
+src/
+test/
+.borisrc
+.gitignore
+LICENSE
+README.md
+TODO
+composer.json
+composer.lock
+humbug.json.dist
+phpunit.xml

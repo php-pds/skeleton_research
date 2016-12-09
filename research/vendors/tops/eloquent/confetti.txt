@@ -1,0 +1,12 @@
+src/
+test/
+.gitattributes
+.gitignore
+.travis.env
+.travis.install
+.travis.key
+.travis.yml
+CHANGELOG.md
+CONTRIBUTING.md
+README.md
+composer.json

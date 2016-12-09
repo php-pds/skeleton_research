@@ -1,0 +1,11 @@
+App/
+Assets/
+Config/
+Database/
+Domain/Files/Files/Repositories/
+Http/
+Resources/
+composer.json
+composer.lock
+module.json
+start.php

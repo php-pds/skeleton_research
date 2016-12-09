@@ -1,0 +1,8 @@
+src/Conpago/Migrations/Contract/
+.gitignore
+LICENSE
+README.md
+build.xml
+composer.json
+phpcs.xml
+phpunit.xml

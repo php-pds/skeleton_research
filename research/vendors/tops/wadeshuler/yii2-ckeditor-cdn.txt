@@ -1,0 +1,9 @@
+actions/
+assets/
+controllers/
+views/
+widgets/
+LICENSE.md
+Module.php
+README.md
+composer.json

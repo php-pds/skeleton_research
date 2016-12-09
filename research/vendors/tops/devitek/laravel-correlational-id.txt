@@ -1,0 +1,7 @@
+src/Middleware/
+.gitignore
+CHANGELOG.md
+LICENCE.txt
+README.md
+composer.json
+composer.lock

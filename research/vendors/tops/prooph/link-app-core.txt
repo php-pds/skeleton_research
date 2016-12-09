@@ -1,0 +1,9 @@
+config/
+public/js/
+src/
+view/system-config/
+CHANGELOG.md
+LICENSE
+Module.php
+README.md
+composer.json

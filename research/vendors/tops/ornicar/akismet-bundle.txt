@@ -1,0 +1,7 @@
+Adapter/
+Akismet/
+DependencyInjection/
+Resources/
+OrnicarAkismetBundle.php
+README.md
+composer.json

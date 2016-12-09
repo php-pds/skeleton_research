@@ -1,0 +1,8 @@
+bin/
+docs/
+src/
+test/
+LICENSE
+README.md
+composer.json
+phpunit.xml

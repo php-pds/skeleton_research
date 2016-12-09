@@ -1,0 +1,7 @@
+templates/
+translations/
+README.txt
+composer.json
+gulpifier.drush.inc
+gulpifier.info
+gulpifier.module

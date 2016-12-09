@@ -1,0 +1,5 @@
+widgets/
+I18nUrlManager.php
+LICENSE.md
+README.md
+composer.json

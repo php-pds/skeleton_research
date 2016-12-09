@@ -1,0 +1,12 @@
+docs/
+src/
+tests/
+.gitignore
+.travis.yml
+CONTRIBUTING.md
+LICENSE.md
+Makefile
+composer.json
+composer.lock
+phpunit.xml.dist
+readme.md

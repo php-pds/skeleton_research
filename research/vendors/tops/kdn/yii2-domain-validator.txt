@@ -1,0 +1,15 @@
+.github/
+messages/ru/
+src/
+tests/
+.codeclimate.yml
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CHANGELOG.md
+LICENSE.md
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist
+runkit.ini

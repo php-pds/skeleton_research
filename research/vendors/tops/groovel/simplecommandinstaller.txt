@@ -1,0 +1,9 @@
+.settings/
+config/
+log/
+.buildpath
+.project
+LICENCE.txt
+README.md
+composer.json
+groovelinstall

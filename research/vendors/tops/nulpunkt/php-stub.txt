@@ -1,0 +1,10 @@
+src/Nulpunkt/PhpStub/
+test/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+evn.sh
+phpunit.xml.dist

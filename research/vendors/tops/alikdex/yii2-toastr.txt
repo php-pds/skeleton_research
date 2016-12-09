@@ -1,0 +1,6 @@
+LICENSE
+README.md
+Toastr.php
+ToastrAlert.php
+ToastrAsset.php
+composer.json

@@ -1,0 +1,5 @@
+tests/
+README.md
+composer.json
+phpunit.xml
+plugin.php

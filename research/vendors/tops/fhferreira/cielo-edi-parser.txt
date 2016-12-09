@@ -1,0 +1,12 @@
+.settings/
+build/logs/
+src/EdiParser/
+tests/
+.buildpath
+.codeclimate.yml
+.gitignore
+.project
+.travis.yml
+README.md
+composer.json
+phpunit.xml

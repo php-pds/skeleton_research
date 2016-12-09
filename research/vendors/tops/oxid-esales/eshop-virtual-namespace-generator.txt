@@ -1,0 +1,5 @@
+src/
+templates/
+README.md
+composer.json
+oe-eshop-generate_virtual_namespaces

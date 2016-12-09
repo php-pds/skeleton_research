@@ -1,0 +1,7 @@
+config/
+src/SarDatabases/
+tests/SarDatabases/
+.gitignore
+Module.php
+README.md
+composer.json

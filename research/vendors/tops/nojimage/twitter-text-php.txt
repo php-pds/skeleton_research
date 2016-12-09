@@ -1,0 +1,12 @@
+lib/Twitter/
+tests/
+.gitattributes
+.gitignore
+.gitmodules
+.travis.yml
+LICENSE
+README.markdown
+TODO
+composer.json
+composer.lock
+phpunit.xml

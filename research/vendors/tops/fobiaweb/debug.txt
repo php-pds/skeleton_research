@@ -1,0 +1,7 @@
+Dbg/
+Processor/
+view/
+ArrayLogger.php
+Log.php
+README.md
+composer.json

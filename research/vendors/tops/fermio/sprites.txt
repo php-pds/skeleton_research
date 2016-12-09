@@ -1,0 +1,12 @@
+bin/
+docs/
+src/Fermio/Sprites/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+VERSION
+composer.json
+phpunit.xml.dist
+sami.php

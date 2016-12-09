@@ -1,0 +1,12 @@
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+TrashBehavior.php
+TrashQuery.php
+TrashQueryBehavior.php
+codeception.yml
+composer.json
+composer.lock

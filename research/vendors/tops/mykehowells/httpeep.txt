@@ -1,0 +1,10 @@
+.idea/
+Exception/
+Parser/
+Request/
+.gitignore
+API.class.php
+Client.class.php
+LICENSE
+README.md
+composer.json

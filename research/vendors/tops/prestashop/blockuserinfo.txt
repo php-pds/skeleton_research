@@ -1,0 +1,14 @@
+img/
+translations/
+upgrade/
+CHANGELOG.txt
+Readme.md
+blockuserinfo.css
+blockuserinfo.php
+blockuserinfo.tpl
+composer.json
+config.xml
+index.php
+logo.gif
+logo.png
+nav.tpl

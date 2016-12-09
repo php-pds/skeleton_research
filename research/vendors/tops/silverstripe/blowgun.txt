@@ -1,0 +1,11 @@
+bin/
+src/SilverStripe/BlowGun/
+tests/example_message/
+.gitignore
+README.md
+circle.yml
+composer.json
+composer.lock
+config.php
+phpunit.xml
+release.sh

@@ -1,0 +1,8 @@
+src/Gordalina/Mangopay/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

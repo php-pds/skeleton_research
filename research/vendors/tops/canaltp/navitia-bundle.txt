@@ -1,0 +1,6 @@
+DependencyInjection/
+Resources/config/
+COPYING
+CanalTPNavitiaBundle.php
+README.md
+composer.json

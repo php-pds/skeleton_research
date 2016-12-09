@@ -1,0 +1,4 @@
+src/NodePub/Core/
+.gitignore
+README.md
+composer.json

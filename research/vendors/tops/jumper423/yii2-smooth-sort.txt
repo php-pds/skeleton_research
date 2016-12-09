@@ -1,0 +1,5 @@
+.gitignore
+LICENSE
+README.md
+SmoothSortAsset.php
+composer.json

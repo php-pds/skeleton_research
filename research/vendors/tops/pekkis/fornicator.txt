@@ -1,0 +1,7 @@
+conf/
+library/Fornicator/
+web/
+.gitignore
+LICENSE
+README.md
+composer.json

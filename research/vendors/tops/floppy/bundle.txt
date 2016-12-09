@@ -1,0 +1,16 @@
+Controller/
+DependencyInjection/
+Doctrine/DBAL/Types/
+Form/
+Resources/
+Tests/
+Twig/Extensions/
+UrlGenerator/
+View/
+.gitignore
+.travis.yml
+FloppyBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml

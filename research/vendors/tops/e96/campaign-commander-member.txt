@@ -1,0 +1,7 @@
+tests/
+.gitignore
+CampaignCommanderMember.php
+CampaignCommanderMemberException.php
+LICENCE
+README.md
+composer.json

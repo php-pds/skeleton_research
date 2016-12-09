@@ -1,0 +1,5 @@
+Flame/Files/
+.gitignore
+LICENSE
+README.md
+composer.json

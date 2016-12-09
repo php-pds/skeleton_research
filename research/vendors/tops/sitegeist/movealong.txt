@@ -1,0 +1,6 @@
+Classes/Sitegeist/MoveAlong/
+Configuration/
+Resources/Private/TypoScript/
+LICENSE
+README.md
+composer.json

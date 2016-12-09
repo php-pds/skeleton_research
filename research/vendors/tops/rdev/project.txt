@@ -1,0 +1,16 @@
+bootstrap/
+config/
+public/
+resources/
+src/Project/
+tests/src/Project/
+tmp/
+.gitattributes
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENSE.md
+README.md
+apex
+composer.json
+phpunit.xml

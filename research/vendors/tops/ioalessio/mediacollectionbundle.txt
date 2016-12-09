@@ -1,0 +1,10 @@
+Controller/
+DependencyInjection/
+Entity/
+Form/
+Model/
+Resources/
+Validator/Constraints/
+IoMediaCollectionBundle.php
+README.md
+composer.json

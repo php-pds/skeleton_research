@@ -1,0 +1,7 @@
+Controller/
+DataContainer/Table/
+Event/
+Resources/contao/
+Subscriber/
+README.md
+composer.json

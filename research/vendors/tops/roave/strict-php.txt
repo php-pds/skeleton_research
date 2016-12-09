@@ -1,0 +1,12 @@
+docs/
+src/StrictPhp/
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CONTRIBUTING.md
+LICENSE
+README.md
+composer.json
+couscous.yml
+phpunit.xml.dist

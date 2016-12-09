@@ -1,0 +1,6 @@
+src/Dflydev/Stack/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock

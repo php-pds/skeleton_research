@@ -1,0 +1,17 @@
+bin/
+data/
+src/
+tests/
+.editorconfig
+.gitattributes
+.gitignore
+.scrutinizer.yml
+.styleci.yml
+.travis.yml
+ASF-LICENSE-2.0
+CONTRIBUTING.md
+LICENSE
+README.md
+circle.yml
+composer.json
+phpunit.xml.dist

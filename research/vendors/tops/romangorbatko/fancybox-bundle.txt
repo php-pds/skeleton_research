@@ -1,0 +1,5 @@
+Resources/public/js/
+.gitignore
+README.md
+RomanGorbatkoFancyBoxBundle.php
+composer.json

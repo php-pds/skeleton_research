@@ -1,0 +1,5 @@
+src/Sasedev/Composer/Plugin/Filescopier/
+.gitignore
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,8 @@
+Command/
+DependencyInjection/
+Event/
+Resources/
+Stream/
+BangpoundPhirehoseBundle.php
+PhirehoseEvents.php
+composer.json

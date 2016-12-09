@@ -1,0 +1,11 @@
+tests/
+.gitattributes
+.gitignore
+.php_cs
+.travis.yml
+ArrayQuery.php
+LICENSE
+QueryProcessor.php
+README.md
+composer.json
+phpunit.xml.dist

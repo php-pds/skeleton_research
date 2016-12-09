@@ -1,0 +1,9 @@
+.gitattributes
+.gitignore
+LICENSE
+README.md
+composer.json
+curlclass.php
+issuu.php
+meetup.php
+shutterfly.php

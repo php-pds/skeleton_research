@@ -1,0 +1,12 @@
+behaviors/
+components/image/
+controllers/
+entities/
+image/
+migrations/
+views/honor/
+.gitignore
+HonorsModule.php
+LICENSE
+README.md
+composer.json

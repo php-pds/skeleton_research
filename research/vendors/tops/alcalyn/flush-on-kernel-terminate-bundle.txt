@@ -1,0 +1,7 @@
+DependencyInjection/
+EventListener/
+Resources/
+.gitignore
+AlcalynFlushOnKernelTerminateBundle.php
+README.md
+composer.json

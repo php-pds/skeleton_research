@@ -1,0 +1,6 @@
+src/LeMike/PhpSpec/WpExtension/
+.gitignore
+LICENSE
+README.md
+composer.json
+phpspec.yml.dist

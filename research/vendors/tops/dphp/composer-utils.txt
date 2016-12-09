@@ -1,0 +1,6 @@
+src/main/php/Dphp/ComposerUtils/
+.gitignore
+COPYRIGHT.md
+LICENSE.md
+README.md
+composer.json

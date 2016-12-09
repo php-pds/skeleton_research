@@ -1,0 +1,9 @@
+src/Mandango/Mondator/
+tests/
+.gitignore
+.travis.yml
+CHANGELOG
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

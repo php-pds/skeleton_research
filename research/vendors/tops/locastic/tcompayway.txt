@@ -1,0 +1,7 @@
+Tests/
+src/Locastic/TcomPayWay/
+.gitignore
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

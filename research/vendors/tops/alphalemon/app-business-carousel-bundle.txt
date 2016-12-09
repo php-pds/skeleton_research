@@ -1,0 +1,12 @@
+Core/
+DependencyInjection/
+Resources/
+Tests/
+.gitignore
+.travis.yml
+BusinessCarouselBundle.php
+LICENSE
+README.md
+autoload.json
+composer.json
+phpunit.xml.dist

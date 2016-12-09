@@ -1,0 +1,5 @@
+contao-module/
+src/Hofff/Contao/Shariff/
+.gitignore
+README.md
+composer.json

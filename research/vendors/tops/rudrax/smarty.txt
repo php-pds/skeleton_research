@@ -1,0 +1,10 @@
+.settings/
+SmartySample/
+gettextplugin/
+plugins/
+sysplugins/
+vendor/
+Smarty.class.php
+SmartyBC.class.php
+composer.json
+debug.tpl

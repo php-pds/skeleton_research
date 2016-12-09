@@ -1,0 +1,9 @@
+code/
+css/
+javascript/carouFredSel-6.1.0/
+lang/
+templates/
+.editorconfig
+README
+_config.php
+composer.json

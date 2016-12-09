@@ -1,0 +1,10 @@
+config/
+src/DockerLaravel/
+.dockerignore
+.gitignore
+Dockerfile
+common.php
+composer.json
+parameters.php
+readme.md
+recipe.php

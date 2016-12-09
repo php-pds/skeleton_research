@@ -1,0 +1,9 @@
+.gitignore
+.php_cs.php
+.scrutinizer.yml
+.travis.yml
+CONTRIBUTING.md
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

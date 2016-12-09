@@ -1,0 +1,12 @@
+source/Apishka/Form/
+tests/ApishkaTest/Form/
+.apishka.php
+.gitattributes
+.gitignore
+.php_cs
+.travis.yml
+README.md
+composer.json
+composer.lock
+phpunit.php
+phpunit.sample.xml

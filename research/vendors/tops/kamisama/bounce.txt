@@ -1,0 +1,12 @@
+Config/
+Console/Command/
+Model/Behavior/
+Test/
+.coveralls.yml
+.editorconfig
+.gitignore
+.travis.yml
+Gruntfile.js
+README.md
+composer.json
+package.json

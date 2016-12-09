@@ -1,0 +1,12 @@
+_config/
+code/
+css/
+images/
+javascript/
+templates/
+tests/
+.editorconfig
+.gitattributes
+_config.php
+code-of-conduct.md
+composer.json

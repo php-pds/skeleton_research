@@ -1,0 +1,11 @@
+Action/
+Assets/
+Controller/
+Model/
+Templates/
+View/
+web/images/
+.gitignore
+CoreBundle.php
+Linkable.php
+composer.json

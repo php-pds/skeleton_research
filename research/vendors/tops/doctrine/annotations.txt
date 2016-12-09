@@ -1,0 +1,10 @@
+lib/Doctrine/Common/Annotations/
+tests/Doctrine/Tests/
+.gitattributes
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,16 @@
+bin/
+doc/
+etc/
+man/
+nagios @ ac40944
+test/
+.editorconfig
+.gitignore
+.gitmodules
+.travis.yml
+CHANGELOG.md
+CONTRIBUTING.md
+Makefile
+README.md
+composer.json
+configure

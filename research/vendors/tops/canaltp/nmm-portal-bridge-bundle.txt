@@ -1,0 +1,6 @@
+DependencyInjection/
+Resources/doc/
+.gitignore
+COPYING
+CanalTPNmmPortalBridgeBundle.php
+composer.json

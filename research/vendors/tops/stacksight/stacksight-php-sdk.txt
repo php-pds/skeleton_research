@@ -1,0 +1,15 @@
+platforms/
+requests/
+README.md
+SSClientBase.php
+SSEventsMessageMapping.php
+SSHttpRequest.php
+SSLogsTracker.php
+SSUtilities.php
+bootstrap-drupal-6.php
+bootstrap-drupal-7.php
+bootstrap-drupal-8.php
+bootstrap-magento-2.php
+bootstrap-symfony-2.php
+bootstrap-wp.php
+composer.json

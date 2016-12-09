@@ -1,0 +1,14 @@
+Admin/
+Controller/
+DependencyInjection/
+Entity/
+EventListener/
+Form/
+Mapping/
+Model/
+Resources/
+Tests/Controller/
+README.md
+SlugGenerator.php
+TeoProductBundle.php
+composer.json

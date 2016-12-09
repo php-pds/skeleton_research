@@ -1,0 +1,11 @@
+DependencyInjection/
+Resources/config/
+Service/
+Tests/
+.gitignore
+.travis.yml
+README.md
+StashApiBundle.php
+composer.json
+composer.lock
+phpunit.xml.dist

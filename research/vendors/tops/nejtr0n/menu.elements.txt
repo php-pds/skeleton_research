@@ -1,0 +1,5 @@
+lang/
+.description.php
+.parameters.php
+component.php
+composer.json

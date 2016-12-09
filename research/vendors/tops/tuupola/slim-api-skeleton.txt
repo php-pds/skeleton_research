@@ -1,0 +1,17 @@
+bin/
+config/
+lib/
+logs/
+public/
+routes/
+support/
+.env.example
+.gitignore
+.jshintrc
+Gruntfile.js
+LICENSE.md
+README.md
+Vagrantfile
+app.php
+composer.json
+package.json

@@ -1,0 +1,10 @@
+app/
+bootstrap/
+src/
+tests/
+.gitignore
+README.md
+composer.json
+composer.lock
+phinx.php.dist
+phpunit.xml.dist

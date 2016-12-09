@@ -1,0 +1,7 @@
+LeanMapper/
+tests/
+.gitattributes
+.gitignore
+composer.json
+license-mit.txt
+readme.md

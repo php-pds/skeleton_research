@@ -1,0 +1,9 @@
+bin/
+spec/PhpEws/Console/
+src/PhpEws/
+.gitignore
+CONTRIBUTORS.txt
+LICENSE.txt
+README.md
+composer.json
+composer.lock

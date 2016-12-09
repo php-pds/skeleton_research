@@ -1,0 +1,12 @@
+DependencyInjection/
+ExpressionLanguage/
+Resources/config/
+Tests/
+.gitignore
+.travis.yml
+AvooSerializerTranslationBundle.php
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

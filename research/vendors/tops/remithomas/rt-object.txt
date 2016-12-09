@@ -1,0 +1,8 @@
+config/
+src/RtObject/
+test/
+.travis.yml
+Module.php
+README.md
+autoload_classmap.php
+composer.json

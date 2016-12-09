@@ -1,0 +1,12 @@
+.github/
+CompositeUi/
+IdentityAccess/
+SharedKernel/
+TaskManager/
+docs/
+etc/bash/
+.editorconfig
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md

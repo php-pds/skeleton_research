@@ -1,0 +1,9 @@
+AssetsCollector/
+DependencyInjection/
+Resources/config/
+Tests/Controller/
+Twig/
+AvAsseticInjectorBundle.php
+LICENSE.md
+README.md
+composer.json

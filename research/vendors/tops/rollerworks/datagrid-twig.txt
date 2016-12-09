@@ -1,0 +1,14 @@
+Resources/theme/
+src/
+tests/
+.gitattributes
+.gitignore
+.gush.yml
+.php_cs
+.styleci.yml
+.travis.yml
+LICENSE
+README.md
+UPGRADE.md
+composer.json
+phpunit.xml.dist

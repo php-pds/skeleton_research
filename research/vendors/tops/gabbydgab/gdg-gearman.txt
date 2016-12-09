@@ -1,0 +1,10 @@
+demo/GdgGearmanDemo/
+src/GdgGearman/
+test/unit/GdgGearmanTest/
+.gitignore
+Bootstrap.php
+LICENSE
+README.md
+autoload_classmap.php
+composer.json
+phpunit.xml

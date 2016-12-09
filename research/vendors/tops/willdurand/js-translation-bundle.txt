@@ -1,0 +1,15 @@
+Command/
+Controller/
+DependencyInjection/
+Dumper/
+Finder/
+Resources/
+Tests/
+.gitignore
+.travis.yml
+BazingaJsTranslationBundle.php
+CONTRIBUTING.md
+README.md
+UPGRADE.md
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,12 @@
+Controller/
+DependencyInjection/
+Resources/
+Tests/
+Twig/
+.coveralls.yml
+.gitignore
+.travis.yml
+HTML5VertiTemplateBundle.php
+README.md
+composer.json
+phpunit.xml.dist

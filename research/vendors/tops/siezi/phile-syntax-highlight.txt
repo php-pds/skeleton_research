@@ -1,0 +1,6 @@
+Classes/
+CHANGELOG.md
+LICENSE
+README.md
+composer.json
+config.php

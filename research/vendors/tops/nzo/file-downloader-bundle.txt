@@ -1,0 +1,11 @@
+DependencyInjection/
+FileDownloader/
+Resources/
+Tests/
+.gitignore
+.travis.yml
+LICENSE
+NzoFileDownloaderBundle.php
+README.md
+composer.json
+phpunit.xml.dist

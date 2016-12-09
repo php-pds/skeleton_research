@@ -1,0 +1,6 @@
+config/
+src/
+web/
+README.md
+bootstrap.php
+composer.json

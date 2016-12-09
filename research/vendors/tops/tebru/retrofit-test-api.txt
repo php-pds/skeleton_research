@@ -1,0 +1,9 @@
+app/
+bin/
+src/AppBundle/
+var/
+web/
+.gitignore
+README.md
+composer.json
+composer.lock

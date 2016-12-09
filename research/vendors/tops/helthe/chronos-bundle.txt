@@ -1,0 +1,15 @@
+Annotation/
+Command/
+DependencyInjection/
+Exception/
+Job/
+Metadata/
+Resources/config/
+Tests/
+.travis.yml
+CHANGELOG.md
+HeltheChronosBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

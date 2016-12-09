@@ -1,0 +1,11 @@
+app/
+bin/
+src/
+var/
+web/
+.gitignore
+Capfile
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,9 @@
+spec/watoki/smokey/
+src/watoki/smokey/
+.gitignore
+LICENCE
+README.md
+bootstrap.php
+composer.json
+install.php
+phpunit.xml.dist

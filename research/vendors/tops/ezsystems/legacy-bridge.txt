@@ -1,0 +1,13 @@
+bundle/
+eZ/Bundle/EzPublishLegacyBundle/Tests/LegacyMapper/
+mvc/
+.gitignore
+.php_cs
+.travis.yml
+INSTALL.md
+LICENSE
+README.md
+bootstrap.php
+composer.json
+config.php-DEVELOPMENT
+phpunit.xml

@@ -1,0 +1,4 @@
+system/modules/logo/
+.gitignore
+README.md
+composer.json

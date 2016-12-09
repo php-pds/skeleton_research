@@ -1,0 +1,13 @@
+Command/
+DependencyInjection/
+Resources/config/
+features/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+WebburzaSyliusCustomersAlsoBoughtBundle.php
+behat.yml.dist
+composer.json
+composer.lock

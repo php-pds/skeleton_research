@@ -1,0 +1,7 @@
+bin/
+lib/
+.gitignore
+README.md
+RResque.php
+ResqueAutoloader.php
+composer.json

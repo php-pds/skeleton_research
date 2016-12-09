@@ -1,0 +1,11 @@
+css/
+files/
+img/
+js/
+php/
+sounds/
+Changelog
+LICENSE.md
+README.md
+composer.json
+elfinder.html

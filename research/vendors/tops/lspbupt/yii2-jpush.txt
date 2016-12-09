@@ -1,0 +1,6 @@
+examples/
+.gitignore
+Jpush.php
+README.md
+composer.json
+composer.lock

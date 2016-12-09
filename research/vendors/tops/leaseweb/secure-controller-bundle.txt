@@ -1,0 +1,14 @@
+Annotation/
+DependencyInjection/
+Resources/config/
+Security/
+Tests/
+.gitignore
+.travis.yml
+LICENSE
+LswSecureControllerBundle.php
+README.md
+build.xml
+composer.json
+phpmd.xml
+phpunit.xml

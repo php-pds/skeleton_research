@@ -1,0 +1,12 @@
+config/
+src/
+test/Hermes/
+.gitignore
+.travis.yml
+LICENSE
+Module.php
+README.md
+autoload_classmap.php
+composer.json
+phpcs.xml
+phpunit.xml

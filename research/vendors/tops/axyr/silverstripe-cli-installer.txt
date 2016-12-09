@@ -1,0 +1,9 @@
+images/
+src/
+stubs/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock
+silverstripe

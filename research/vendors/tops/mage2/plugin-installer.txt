@@ -1,0 +1,4 @@
+src/Composer/
+LICENSE
+LICENSE.md
+composer.json

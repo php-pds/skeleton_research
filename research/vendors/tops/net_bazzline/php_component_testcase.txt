@@ -1,0 +1,9 @@
+example/
+source/Net/Bazzline/Component/TestCase/
+test/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml

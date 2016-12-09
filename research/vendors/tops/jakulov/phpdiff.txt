@@ -1,0 +1,6 @@
+src/jakulov/phpdiff/
+.gitignore
+LICENSE
+README.md
+composer.json
+examples.php

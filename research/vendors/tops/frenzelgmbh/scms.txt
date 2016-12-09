@@ -1,0 +1,12 @@
+assets/css/
+controllers/
+messages/de_DE/
+migrations/
+models/
+views/
+widgets/
+LICENSE
+Module.php
+README.md
+composer.json
+scmsAsset.php

@@ -1,0 +1,2 @@
+LoggingTrait.php
+composer.json

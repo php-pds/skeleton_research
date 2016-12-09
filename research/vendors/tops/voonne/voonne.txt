@@ -1,0 +1,13 @@
+dist/
+scripts/
+src/
+styles/
+tests/
+.gitignore
+Gulpfile.js
+bower.json
+codeception.yml
+composer.json
+licence.md
+package.json
+readme.md

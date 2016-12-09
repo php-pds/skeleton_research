@@ -1,0 +1,12 @@
+bin/
+config/
+resources/twig/
+src/Kpacha/BenchmarkTool/
+.coveralls.yml
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

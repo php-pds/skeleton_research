@@ -1,0 +1,8 @@
+DependencyInjection/
+Resources/config/
+Routing/
+Services/
+LICENSE
+NetgustoAutorouteBundle.php
+README.md
+composer.json

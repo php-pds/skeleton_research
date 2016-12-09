@@ -1,0 +1,8 @@
+src/Aranea/
+.Dockerignore
+.gitignore
+Dockerfile
+LICENSE
+README.md
+composer.json
+index.php

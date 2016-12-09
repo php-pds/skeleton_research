@@ -1,0 +1,7 @@
+src/
+LICENSE
+README.md
+composer.json
+module.conf.local.yaml
+module.conf.yaml
+module.yaml

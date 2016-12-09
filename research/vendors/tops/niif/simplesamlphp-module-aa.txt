@@ -1,0 +1,10 @@
+config-templates/
+dictionaries/
+docs/
+hooks/
+lib/
+metadata-templates/
+www/
+README.md
+composer.json
+default-enable

@@ -1,0 +1,6 @@
+examples/
+src/kcmerrill/utility/
+tests/
+.travis.yml
+README.md
+composer.json

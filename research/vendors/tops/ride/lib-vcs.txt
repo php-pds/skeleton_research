@@ -1,0 +1,4 @@
+src/ride/library/vcs/
+.gitignore
+README.md
+composer.json

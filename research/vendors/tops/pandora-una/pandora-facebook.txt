@@ -1,0 +1,6 @@
+config/
+src/FacebookZF/Factory/
+LICENSE
+Module.php
+README.md
+composer.json

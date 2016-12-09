@@ -1,0 +1,16 @@
+_includes/
+examples/
+extension/
+xhprof_html/
+xhprof_lib/
+.arcconfig
+CHANGELOG
+CREDITS
+LICENSE
+README.md
+_manifest_exclude
+composer.json
+not_rsync_up
+package.xml
+syncUp.sh
+syncUpTest.sh

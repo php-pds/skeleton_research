@@ -1,0 +1,7 @@
+.editorconfig
+.gitignore
+LICENSE
+README.md
+bootstrap.php
+class-papi-property-table.php
+composer.json

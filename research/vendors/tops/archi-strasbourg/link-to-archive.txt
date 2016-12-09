@@ -1,0 +1,6 @@
+.gitignore
+LICENSE
+LinkToArchive.php
+README.md
+composer.json
+extension.json

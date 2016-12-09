@@ -1,0 +1,9 @@
+public/
+src/
+templates/
+tests/
+.htaccess
+Readme.md
+composer.json
+icon.png
+phpunit.xml.dist

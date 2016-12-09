@@ -1,0 +1,8 @@
+spec/Vultuk/Connections/
+src/Vultuk/Connections/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+testing.php

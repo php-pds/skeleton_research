@@ -1,0 +1,10 @@
+src/
+tests/
+.gitignore
+.travis.yml
+CONTRIBUTING.md
+LICENSE
+README.md
+composer.json
+ext.store_rabobank.php
+phpunit.xml.dist

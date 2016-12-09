@@ -1,0 +1,3 @@
+lib/ZenMagick/
+README.md
+composer.json

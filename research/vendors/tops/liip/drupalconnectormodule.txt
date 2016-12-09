@@ -1,0 +1,9 @@
+src/Liip/Drupal/Modules/DrupalConnector/
+.gitignore
+LICENSE
+README.md
+TODO.md
+composer.json
+composer.lock
+drupalconnectormodule.info
+drupalconnectormodule.module

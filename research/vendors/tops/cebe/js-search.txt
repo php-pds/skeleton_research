@@ -1,0 +1,9 @@
+bin/
+lib/
+tests/data/
+.gitignore
+LICENSE
+README.md
+composer.json
+example.html
+jssearch.js

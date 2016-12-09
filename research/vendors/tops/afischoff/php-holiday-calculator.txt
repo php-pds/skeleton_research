@@ -1,0 +1,5 @@
+.idea/
+src/Afischoff/
+LICENSE
+README.md
+composer.json

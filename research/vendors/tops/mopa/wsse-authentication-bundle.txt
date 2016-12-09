@@ -1,0 +1,11 @@
+Buzz/Listener/
+DependencyInjection/
+Resources/
+Security/
+Tests/
+vendor/
+.gitignore
+MopaWSSEAuthenticationBundle.php
+README.md
+composer.json
+phpunit.xml.dist

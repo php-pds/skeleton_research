@@ -1,0 +1,7 @@
+src/
+support/
+.gitignore
+.jshintrc
+README.md
+composer.json
+how_it_work.ru.md

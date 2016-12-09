@@ -1,0 +1,9 @@
+.idea/
+src/Mike227/NTidy/
+tests/
+.gitignore
+.travis.yml
+LICENSE.md
+README.md
+composer.json
+composer.lock

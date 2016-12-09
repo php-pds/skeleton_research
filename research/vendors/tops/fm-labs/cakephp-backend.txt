@@ -1,0 +1,12 @@
+Config/
+Console/
+Controller/
+Lib/
+Model/
+Test/
+View/
+webroot/
+.gitignore
+CHANGELOG.txt
+VERSION.txt
+composer.json

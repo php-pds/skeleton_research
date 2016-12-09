@@ -1,0 +1,6 @@
+src/CurlAgent/
+tests/CurlAgent/
+README.md
+composer.json
+phprelease.ini
+phpunit.xml

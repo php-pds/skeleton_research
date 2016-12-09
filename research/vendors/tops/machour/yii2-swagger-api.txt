@@ -1,0 +1,14 @@
+samples/
+tests/
+.gitignore
+.travis.yml
+ApiController.php
+ApiException.php
+ApiGenerator.php
+ApiModel.php
+ApiModule.php
+ApiResponse.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

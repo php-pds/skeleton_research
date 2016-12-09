@@ -1,0 +1,17 @@
+application/
+configuration/
+data/
+documentation/
+help/
+tmp/
+vendor/
+.gitignore
+.htaccess
+003-glial.conf
+README.md
+complex
+composer.json
+glial
+gliald
+index.php
+phpunit.xml

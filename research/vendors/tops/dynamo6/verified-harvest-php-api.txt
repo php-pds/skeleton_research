@@ -1,0 +1,5 @@
+src/
+.DS_Store
+LICENSE
+README.md
+composer.json

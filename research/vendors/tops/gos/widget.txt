@@ -1,0 +1,11 @@
+.gitignore
+.travis.yml
+LICENSE
+README.md
+Widget.php
+WidgetInterface.php
+WidgetRegistry.php
+WidgetRegistryInterface.php
+WidgetTwigExtension.php
+composer.json
+phpunit.xml.dist

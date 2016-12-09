@@ -1,0 +1,12 @@
+config/
+src/SlmQueueSqs/
+tests/
+.gitattributes
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENSE
+Module.php
+README.md
+composer.json
+phpunit.xml.dist

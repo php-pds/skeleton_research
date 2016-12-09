@@ -1,0 +1,6 @@
+system/modules/TinyMceLinkLightbox/
+.gitattributes
+.gitignore
+README.md
+composer.json
+screenshot.jpg

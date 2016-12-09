@@ -1,0 +1,14 @@
+DependencyInjection/
+Entity/
+Manager/
+Model/
+Resources/config/
+Tests/
+build/
+.gitignore
+ArnmConfigBundle.php
+ConfigBundleInfo.php
+cache.properties
+composer.json
+composer.lock
+phpunit.xml.dist

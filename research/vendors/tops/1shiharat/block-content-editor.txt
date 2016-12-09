@@ -1,0 +1,15 @@
+assets/
+blocks/
+includes/
+languages/
+.bowerrc
+.gitignore
+LICENSE.txt
+README.md
+README.txt
+block-content-editor.php
+bower.json
+composer.json
+example-hooks.php
+index.php
+uninstall.php

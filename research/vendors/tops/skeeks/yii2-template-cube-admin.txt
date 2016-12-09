@@ -1,0 +1,5 @@
+src/
+CHANGELOG.md
+CubeAsset.php
+README.md
+composer.json

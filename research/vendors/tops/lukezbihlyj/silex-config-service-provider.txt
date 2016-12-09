@@ -1,0 +1,6 @@
+src/Igorw/Silex/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json

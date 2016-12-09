@@ -1,0 +1,8 @@
+wp-user-signups/
+.gitignore
+CHANGELOG.md
+LICENSE
+README.md
+composer.json
+readme.txt
+wp-user-signups.php

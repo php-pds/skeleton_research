@@ -1,0 +1,9 @@
+src/CondParse/
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+composer.json
+composer.lock
+phpunit.xml.dist
+readme.md

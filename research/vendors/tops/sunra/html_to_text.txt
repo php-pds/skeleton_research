@@ -1,0 +1,3 @@
+src/Sunra/HtmlToText/
+README.md
+composer.json

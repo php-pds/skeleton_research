@@ -1,0 +1,8 @@
+examples/
+lib/
+.gitignore
+CHANGELOG
+LICENSE
+README.rdoc
+VERSION
+composer.json

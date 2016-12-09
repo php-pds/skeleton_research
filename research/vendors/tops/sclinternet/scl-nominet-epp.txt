@@ -1,0 +1,10 @@
+.travis/
+bin/
+src/SclNominetEpp/
+tests/src/SclNominetEpp/
+.gitignore
+.travis.yml
+LICENSE.txt
+README.md
+composer.json
+phpunit.xml.dist

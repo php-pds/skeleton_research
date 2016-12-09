@@ -1,0 +1,10 @@
+firmware/
+src/
+tests/
+.gitattributes
+.gitignore
+.travis.yml
+README.md
+composer.json
+composer.lock
+phpunit.xml

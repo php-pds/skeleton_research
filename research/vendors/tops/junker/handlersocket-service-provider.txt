@@ -1,0 +1,4 @@
+src/Junker/Silex/Provider/
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,11 @@
+LICENSE.txt
+README.md
+build.sh
+cleanup.sh
+composer.json
+composer.phar
+deploy.sh
+install.sh
+modman
+n98-magerun.phar
+project_reset.sh

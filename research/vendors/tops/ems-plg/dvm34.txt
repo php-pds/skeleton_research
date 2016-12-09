@@ -1,0 +1,7 @@
+Module/
+sql/
+Plugin.php
+changelog.md
+composer.json
+icon.png
+readme.md

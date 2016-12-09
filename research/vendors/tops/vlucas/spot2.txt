@@ -1,0 +1,12 @@
+lib/
+tests/
+.gitattributes
+.gitignore
+.travis.yml
+CONTRIBUTING.md
+LICENSE.txt
+README.md
+composer.json
+phpunit_mysql.xml
+phpunit_pgsql.xml
+phpunit_sqlite.xml

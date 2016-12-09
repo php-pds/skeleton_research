@@ -1,0 +1,7 @@
+docs/
+examples/
+src/Ballen/Likkle/
+.gitignore
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,14 @@
+.idea/
+application-tier/
+src/
+.gitignore
+README.md
+arches-touch.sh
+bootstrap.php
+build-se-autoload.sh
+build.sh
+composer-all.sh
+composer.json
+phpunit.xml
+rm-vendors.sh
+tests-all.sh

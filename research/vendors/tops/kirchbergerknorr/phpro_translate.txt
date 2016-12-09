@@ -1,0 +1,6 @@
+app/
+js/phpro/
+skin/adminhtml/default/default/phpro/
+README.md
+composer.json
+modman

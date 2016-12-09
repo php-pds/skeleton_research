@@ -1,0 +1,15 @@
+build/
+examples/
+src/GeneratedHydrator/
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CONTRIBUTING.md
+LICENSE
+README.md
+UPGRADE.md
+composer.json
+phpdox.xml.dist
+phpmd.xml.dist
+phpunit.xml.dist

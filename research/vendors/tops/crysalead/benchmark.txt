@@ -1,0 +1,7 @@
+spec/Suite/
+src/
+.gitignore
+.travis.yml
+LICENSE.txt
+README.md
+composer.json

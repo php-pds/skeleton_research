@@ -1,0 +1,12 @@
+app/
+bin/
+src/
+tests/AppBundle/Controller/
+var/
+web/
+.gitignore
+.travis.yml
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

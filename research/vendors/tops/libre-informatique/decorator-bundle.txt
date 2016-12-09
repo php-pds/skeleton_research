@@ -1,0 +1,8 @@
+Controller/
+DependencyInjection/
+Resources/
+Tests/Controller/
+LICENSE
+LibrinfoDecoratorBundle.php
+README.md
+composer.json

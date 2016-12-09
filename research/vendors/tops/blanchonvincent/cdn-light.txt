@@ -1,0 +1,8 @@
+config/
+spec/CdnLight/
+src/CdnLight/
+tests/
+.gitignore
+Module.php
+README.md
+composer.json

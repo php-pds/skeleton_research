@@ -1,0 +1,5 @@
+bin/
+module/
+src/Netzmacht/FontAwesome/
+.gitignore
+composer.json

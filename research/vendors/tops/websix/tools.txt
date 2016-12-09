@@ -1,0 +1,5 @@
+src/W6/Tools/
+test/
+.gitignore
+composer.json
+composer.lock

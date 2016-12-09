@@ -1,0 +1,11 @@
+DependencyInjection/
+Resources/config/
+Tests/Twig/
+Twig/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+ThormeierMobileDetectLightBundle.php
+composer.json
+phpunit.xml.dist

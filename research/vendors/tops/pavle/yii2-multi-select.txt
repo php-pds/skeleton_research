@@ -1,0 +1,7 @@
+assets/
+views/
+.gitignore
+MultiSelectAsset.php
+MultiSelectWidget.php
+README.md
+composer.json

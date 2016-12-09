@@ -1,0 +1,8 @@
+src/JsonKit/
+test/JsonKit/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml

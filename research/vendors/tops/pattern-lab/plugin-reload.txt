@@ -1,0 +1,6 @@
+dist/js/
+src/PatternLab/Reload/
+.editorconfig
+LICENSE
+README.md
+composer.json

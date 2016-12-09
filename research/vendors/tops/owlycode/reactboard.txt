@@ -1,0 +1,11 @@
+app/
+bin/
+src/OwlyCode/ReactBoard/
+.editorconfig
+.gitignore
+LICENSE
+README.md
+autoload.php.dist
+composer.json
+composer.lock
+phpunit.xml.dist

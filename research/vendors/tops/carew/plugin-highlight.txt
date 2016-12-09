@@ -1,0 +1,7 @@
+Adapter/
+.gitignore
+HighlightEventSubscriber.php
+HighlightExtension.php
+HighlighterInterface.php
+README.md
+composer.json

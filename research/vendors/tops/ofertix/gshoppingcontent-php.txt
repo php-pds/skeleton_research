@@ -1,0 +1,7 @@
+docs/
+examples/
+tests/
+GShoppingContent.php
+LICENSE
+README
+composer.json

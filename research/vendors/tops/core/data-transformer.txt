@@ -1,0 +1,6 @@
+src/CNM/
+tests/
+.gitignore
+README.md
+composer.json
+example.php

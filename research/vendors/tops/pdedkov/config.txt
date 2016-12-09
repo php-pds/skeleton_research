@@ -1,0 +1,5 @@
+Cache.php
+Hash.php
+Object.php
+Singleton.php
+composer.json

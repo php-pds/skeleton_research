@@ -1,0 +1,4 @@
+Classes/KayStrobach/Backup/
+Configuration/
+Readme.md
+composer.json

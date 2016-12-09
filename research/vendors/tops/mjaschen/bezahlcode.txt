@@ -1,0 +1,7 @@
+src/Type/
+tests/Type/
+.gitignore
+.travis.yml
+README.md
+composer.json
+phpunit.xml

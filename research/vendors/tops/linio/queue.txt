@@ -1,0 +1,10 @@
+src/Queue/
+tests/Queue/
+.gitignore
+.php_cs
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml.ci
+phpunit.xml.dist

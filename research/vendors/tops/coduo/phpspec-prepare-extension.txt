@@ -1,0 +1,10 @@
+features/
+spec/Coduo/PhpSpec/PrepareExtension/
+src/Coduo/PhpSpec/
+.gitignore
+.travis.yml
+LICENCE
+README.md
+behat.yml
+composer.json
+phpspec.yml

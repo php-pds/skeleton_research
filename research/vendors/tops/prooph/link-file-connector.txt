@@ -1,0 +1,9 @@
+config/
+src/
+tests/
+view/file-connector/
+CHANGELOG.md
+LICENSE
+Module.php
+README.md
+composer.json

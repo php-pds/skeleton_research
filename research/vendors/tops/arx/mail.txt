@@ -1,0 +1,9 @@
+src/Arx/Mail/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml
+rebuild.sh

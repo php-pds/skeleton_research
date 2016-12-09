@@ -1,0 +1,9 @@
+DataCollector/
+DependencyInjection/
+Helper/
+Resources/
+.gitignore
+JhgTheFinalCountdownBundle.php
+LICENSE
+README.md
+composer.json

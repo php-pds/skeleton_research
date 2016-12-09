@@ -1,0 +1,16 @@
+bin/
+conf/
+src/
+tests/
+tmp/
+.coveralls.yml
+.gitattributes
+.gitignore
+.travis.yml
+CODE_OF_CONDUCT.md
+README.md
+build.xml
+composer.json
+phpstan.neon
+phpstan.php7.0.neon
+ruleset.xml

@@ -1,0 +1,8 @@
+example/
+screenshots/
+src/DataDog/AuditBundle/
+.gitignore
+LICENSE
+Makefile
+README.md
+composer.json

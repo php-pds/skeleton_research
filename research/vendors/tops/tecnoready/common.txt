@@ -1,0 +1,10 @@
+Document/
+Dumper/Configuration/
+Model/
+Resources/
+Service/
+Tests/Service/SequenceGenerator/
+Util/
+LICENSE
+README.md
+composer.json

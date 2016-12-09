@@ -1,0 +1,10 @@
+lib/Acedao/
+.gitignore
+.travis.yml
+AUTHORS
+CHANGELOG
+LICENSE
+README.markdown
+composer.json
+composer.lock
+phpunit.xml

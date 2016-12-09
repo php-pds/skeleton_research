@@ -1,0 +1,7 @@
+public/uploads/basic/
+src/
+tests/
+LICENCE
+README.md
+composer.json
+phpunit.xml

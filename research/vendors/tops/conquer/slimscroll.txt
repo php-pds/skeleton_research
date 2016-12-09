@@ -1,0 +1,6 @@
+.gitignore
+LICENSE
+README.md
+SlimscrollAsset.php
+SlimscrollWidget.php
+composer.json

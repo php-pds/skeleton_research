@@ -1,0 +1,6 @@
+Auth/
+HashId/
+Payload/
+Route/
+composer.json
+readme.md

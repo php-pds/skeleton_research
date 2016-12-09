@@ -1,0 +1,17 @@
+Adapter/
+Event/
+Exception/
+Preset/
+Tests/
+.editorconfig
+.gitignore
+Adapter.php
+File.php
+FileHandlerDefinition.php
+LICENSE
+MimeMap.php
+Preset.php
+README.md
+Transcoder.php
+composer.json
+phpunit.xml.dist

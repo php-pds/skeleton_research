@@ -1,0 +1,12 @@
+bin/
+src/
+tests/
+.docheader
+.scrutinizer.yml
+.travis.coverage.sh
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpmd.xml.dist
+phpunit.xml.dist

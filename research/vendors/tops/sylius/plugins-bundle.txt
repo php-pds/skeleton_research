@@ -1,0 +1,15 @@
+Cache/
+Controller/Backend/
+DependencyInjection/
+Entity/
+EventDispatcher/
+Factory/
+HttpKernel/Plugin/
+Injector/
+Manipulator/
+Model/
+Packager/
+Resources/
+README.md
+SyliusPluginsBundle.php
+composer.json

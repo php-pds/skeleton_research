@@ -1,0 +1,8 @@
+Classes/Famelo/Messaging/
+Configuration/
+Resources/Private/Messages/Tests/
+Tests/Functional/
+.scrutinizer.yml
+.travis.yml
+Readme.md
+composer.json

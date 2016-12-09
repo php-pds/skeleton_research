@@ -1,0 +1,3 @@
+src/File/
+README.md
+composer.json

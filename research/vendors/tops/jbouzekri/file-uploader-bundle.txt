@@ -1,0 +1,15 @@
+Controller/
+DependencyInjection/
+Entity/
+EventListener/
+Exception/
+Form/Type/
+Resources/
+Service/
+Twig/
+.gitignore
+.scrutinizer.yml
+JbFileUploaderBundle.php
+LICENSE
+README.md
+composer.json

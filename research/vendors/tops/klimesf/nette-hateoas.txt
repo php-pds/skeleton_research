@@ -1,0 +1,8 @@
+src/Klimesf/Hateoas/
+tests/
+tmp/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json

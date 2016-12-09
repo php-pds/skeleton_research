@@ -1,0 +1,10 @@
+commands/
+core/
+extend/
+smarty/plugins/
+views/
+LICENSE
+README.md
+composer.json
+metadata.php
+picture.jpg

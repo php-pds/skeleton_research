@@ -1,0 +1,10 @@
+src/Keboola/Utils/
+tests/Keboola/Utils/
+.codeclimate.yml
+.gitignore
+.travis.yml
+LICENSE
+README.md
+bootstrap.php
+composer.json
+phpunit.xml

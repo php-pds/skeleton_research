@@ -1,0 +1,14 @@
+bin/
+config/
+src/
+test/Controller/Plugin/
+tests/
+view/affiliation/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+README.md
+autoload_classmap.php
+composer.json
+phpunit.xml
+template_map.php

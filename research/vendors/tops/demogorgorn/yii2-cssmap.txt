@@ -1,0 +1,5 @@
+assets/
+.gitattributes
+CssMapWidget.php
+CssMapWidgetAssets.php
+composer.json

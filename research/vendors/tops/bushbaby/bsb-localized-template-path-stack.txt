@@ -1,0 +1,6 @@
+config/
+src/BsbLocalizedTemplatePathStack/
+.gitignore
+Module.php
+README.md
+composer.json

@@ -1,0 +1,11 @@
+docs/
+src/NukaCode/Barcode/
+tests/spec/NukaCode/Barcode/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpspec.yml
+test.php

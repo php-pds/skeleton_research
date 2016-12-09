@@ -1,0 +1,11 @@
+Assignment.php
+BaseManager.php
+DbManager.php
+Item.php
+ManagerInterface.php
+Permission.php
+PhpManager.php
+README.md
+Role.php
+Rule.php
+composer.json

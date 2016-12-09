@@ -1,0 +1,5 @@
+admin/
+extra/
+includes/
+composer.json
+init.php

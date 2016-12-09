@@ -1,0 +1,6 @@
+src/LTDBeget/ascii/
+.gitignore
+LICENSE
+README.md
+composer.json
+phpdox.xml

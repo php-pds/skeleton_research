@@ -1,0 +1,7 @@
+examples/
+spec/Chencha/Pspell/
+src/Chencha/Pspell/
+.gitignore
+composer.json
+composer.lock
+phpspec.yml

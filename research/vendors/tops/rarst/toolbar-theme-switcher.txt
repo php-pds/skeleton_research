@@ -1,0 +1,8 @@
+lang/
+php/
+.gitignore
+CHANGELOG.md
+LICENSE.md
+README.md
+composer.json
+toolbar-theme-switcher.php

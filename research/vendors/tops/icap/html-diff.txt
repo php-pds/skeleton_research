@@ -1,0 +1,6 @@
+demos/
+src/Icap/HtmlDiff/
+.gitignore
+LICENSE
+README.md
+composer.json

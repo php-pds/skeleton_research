@@ -1,0 +1,8 @@
+bin/
+bower_components/
+lib/DependenSees/
+.gitignore
+LICENSE
+README.md
+bower.json
+composer.json

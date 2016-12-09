@@ -1,0 +1,9 @@
+examples/
+src/GoogleMoviesClient/
+.gitignore
+.php_cs
+.styleci.yml
+LICENSE
+README.md
+composer.json
+composer.lock

@@ -1,0 +1,14 @@
+_graphics/
+actions/
+languages/
+lib/
+pages/
+procedures/upload/
+upgrades/
+vendors/
+views/default/
+CHANGES.txt
+README.md
+composer.json
+manifest.xml
+start.php

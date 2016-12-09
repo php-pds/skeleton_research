@@ -1,0 +1,9 @@
+.cache/
+config/
+web/
+.gitignore
+LICENSE
+README.md
+composer.json
+eurekon.phar
+eurekon.php

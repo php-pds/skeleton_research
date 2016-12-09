@@ -1,0 +1,8 @@
+.idea/
+config/
+src/CirclicalRecaptcha/
+.gitignore
+LICENSE
+Module.php
+README.md
+composer.json

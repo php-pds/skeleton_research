@@ -1,0 +1,7 @@
+src/Accidents/
+.gitignore
+.version
+CHANGELOG.md
+Phakefile
+README.md
+composer.json

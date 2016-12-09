@@ -1,0 +1,11 @@
+Goutte/
+.gitignore
+.travis.yml
+CHANGELOG
+LICENSE
+README.md
+compile
+composer.json
+composer.lock
+goutte.phar
+phpunit.xml.dist

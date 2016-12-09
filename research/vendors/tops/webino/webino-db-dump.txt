@@ -1,0 +1,17 @@
+bin/
+config/
+data/di/
+example/config/
+src/WebinoDbDump/
+tests/
+vendor/
+.gitignore
+.travis.yml
+Gruntfile.js
+LICENSE
+Module.php
+README.md
+composer.json
+package.json
+phpdoc.xml
+pre-commit

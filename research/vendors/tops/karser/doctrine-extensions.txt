@@ -1,0 +1,11 @@
+doc/
+example/
+lib/Gedmo/
+schemas/orm/
+tests/
+upgrade/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json

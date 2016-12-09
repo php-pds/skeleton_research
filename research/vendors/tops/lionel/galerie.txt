@@ -1,0 +1,6 @@
+files/galleria/themes/classic/
+system/modules/galerie/
+.gitignore
+README.md
+composer.json
+package.jpg

@@ -1,0 +1,17 @@
+bin/
+build/
+doc/
+example/
+src/
+test/
+.borisrc
+.gitignore
+.travis.yml
+CHANGES.rst
+LICENSE
+README.rst
+VERSION
+caper.yml
+composer.json
+composer.lock
+task

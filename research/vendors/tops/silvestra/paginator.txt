@@ -1,0 +1,10 @@
+Tests/
+.gitignore
+.travis.yml
+LICENSE
+Pagination.php
+README.md
+TemplatingHelperInterface.php
+UrlHelper.php
+composer.json
+phpunit.xml.dist

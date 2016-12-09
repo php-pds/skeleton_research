@@ -1,0 +1,8 @@
+config/
+src/EnliteAssetic/
+testapp/
+.gitignore
+Module.php
+README.md
+REVISION
+composer.json

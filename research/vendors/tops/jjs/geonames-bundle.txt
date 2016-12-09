@@ -1,0 +1,12 @@
+Command/
+Data/
+DependencyInjection/
+Entity/
+Import/
+Model/
+Resources/config/
+bin/
+.gitignore
+JJsGeonamesBundle.php
+composer.json
+readme.md

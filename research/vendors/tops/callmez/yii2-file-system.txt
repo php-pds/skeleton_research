@@ -1,0 +1,6 @@
+adapters/
+Collection.php
+FileSystem.php
+LICENSE
+README.md
+composer.json

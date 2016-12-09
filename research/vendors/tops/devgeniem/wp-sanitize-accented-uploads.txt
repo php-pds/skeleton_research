@@ -1,0 +1,11 @@
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml
+plugin.php
+push-to-svn.sh
+readme.txt
+wp-cli-integration.php

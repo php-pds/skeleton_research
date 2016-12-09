@@ -1,0 +1,9 @@
+spec/Knp/Rad/AutoRegistration/
+src/Knp/Rad/AutoRegistration/
+.gitignore
+.php_cs
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpspec.yml

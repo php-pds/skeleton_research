@@ -1,0 +1,10 @@
+fixtures/
+inc/
+tests/
+.gitignore
+.styleci.yml
+LICENSE.txt
+README.md
+bootstrap.dist.php
+composer.json
+phpunit.xml.dist

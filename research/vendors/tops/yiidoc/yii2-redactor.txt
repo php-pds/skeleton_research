@@ -1,0 +1,11 @@
+actions/
+assets/
+controllers/
+models/
+widgets/
+.gitignore
+CHANGELOG.md
+LICENSE
+README.md
+RedactorModule.php
+composer.json

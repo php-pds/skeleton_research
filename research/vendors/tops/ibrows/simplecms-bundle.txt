@@ -1,0 +1,16 @@
+Controller/
+DependencyInjection/
+Entity/
+Extension/
+Form/
+Helper/
+Listener/
+Model/
+Repository/
+Resources/
+Security/
+Tests/Controller/
+IbrowsSimpleCMSBundle.php
+LICENSE
+README.md
+composer.json

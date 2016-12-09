@@ -1,0 +1,6 @@
+assets/js/
+LICENSE.md
+PanelWidget.php
+PanelWidgetAsset.php
+README.md
+composer.json

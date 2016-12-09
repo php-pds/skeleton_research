@@ -1,0 +1,7 @@
+images/
+README.md
+bootstrap.min.css
+bootstrap.min.js
+composer.json
+index.php
+x.txt

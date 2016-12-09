@@ -1,0 +1,5 @@
+Resources/public/
+.gitignore
+QlFontAwesomeBundle.php
+README.md
+composer.json

@@ -1,0 +1,7 @@
+bin/
+src/Obfuscator/
+.gitignore
+.travis.yml
+LICENSE
+build.xml
+composer.json

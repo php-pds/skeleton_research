@@ -1,0 +1,6 @@
+config/
+src/AssetPackages/
+LICENSE
+Module.php
+README.md
+composer.json

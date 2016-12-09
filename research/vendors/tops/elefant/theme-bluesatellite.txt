@@ -1,0 +1,7 @@
+pix/
+README.md
+bluesatellite.html
+composer.json
+elefant.json
+screenshot.png
+style.css

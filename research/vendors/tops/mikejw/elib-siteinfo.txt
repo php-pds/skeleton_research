@@ -1,0 +1,4 @@
+src/Empathy/ELib/Settings/
+tpl/
+README
+composer.json

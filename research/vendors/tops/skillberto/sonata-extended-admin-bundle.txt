@@ -1,0 +1,12 @@
+Admin/
+Command/
+Controller/
+DependencyInjection/
+Entity/
+Model/
+Resources/
+.gitignore
+LICENSE
+README.md
+SkillbertoSonataExtendedAdminBundle.php
+composer.json

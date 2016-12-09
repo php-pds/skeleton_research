@@ -1,0 +1,7 @@
+Tests/
+src/Zend/Http/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json

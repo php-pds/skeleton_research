@@ -1,0 +1,5 @@
+Command/
+DependencyInjection/
+JseEMGeneratorBundle.php
+README.md
+composer.json

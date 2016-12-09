@@ -1,0 +1,9 @@
+config/
+scripts/
+src/
+tests/
+.gitignore
+LICENSE
+README.md
+component.json
+composer.json

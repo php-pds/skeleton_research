@@ -1,0 +1,6 @@
+config/
+src/Yalesov/Assetwig/
+.gitignore
+Module.php
+README.md
+composer.json

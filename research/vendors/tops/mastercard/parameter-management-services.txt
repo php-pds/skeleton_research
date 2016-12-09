@@ -1,0 +1,7 @@
+MasterCard/Api/ParameterManagementServices/
+result/
+.gitignore
+README.md
+composer.json
+mastercard-parameter-management-services-1.0.1.zip
+phpunit.xml

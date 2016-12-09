@@ -1,0 +1,5 @@
+bin/
+lib/
+views/
+composer.json
+readme.md

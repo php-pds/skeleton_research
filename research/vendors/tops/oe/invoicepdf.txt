@@ -1,0 +1,7 @@
+extend/
+models/
+views/admin/
+LICENSE
+composer.json
+metadata.php
+picture.png

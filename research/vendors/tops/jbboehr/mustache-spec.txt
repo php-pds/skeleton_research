@@ -1,0 +1,6 @@
+specs/
+Changes
+README.md
+Rakefile
+TESTING.md
+composer.json

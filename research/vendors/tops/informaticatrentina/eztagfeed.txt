@@ -1,0 +1,6 @@
+classes/
+modules/tagfeed/
+settings/
+README.md
+composer.json
+extension.xml

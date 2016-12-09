@@ -1,0 +1,11 @@
+src/
+tests/
+.gitattributes
+.gitignore
+.gitreview
+COPYING
+Doxyfile
+README.md
+composer.json
+phpcs.xml
+phpunit.xml.dist

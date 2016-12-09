@@ -1,0 +1,7 @@
+css/
+img/
+js/
+LICENSE.md
+README.md
+bower.json
+composer.json

@@ -1,0 +1,5 @@
+Command/
+DependencyInjection/
+Resources/config/
+ZanCommandBundle.php
+composer.json

@@ -1,0 +1,11 @@
+nbproject/
+source/
+tests/
+.gitattributes
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock
+favicon.ico
+run-me.bat

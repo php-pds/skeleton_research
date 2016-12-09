@@ -1,0 +1,15 @@
+api/
+assets/
+classes/
+config/
+dca/
+elements/
+interfaces/
+languages/
+models/
+templates/
+.gitignore
+README.md
+TERMS_OF_USE.txt
+authors.txt
+composer.json

@@ -1,0 +1,12 @@
+Config/
+Controller/
+Form/
+Hook/
+I18n/
+Resources/js/tinymce/
+Smarty/
+templates/backOffice/default/
+CHANGELOG.md
+LICENSE.txt
+Tinymce.php
+composer.json

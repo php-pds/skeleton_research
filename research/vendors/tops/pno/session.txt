@@ -1,0 +1,10 @@
+Attribute/
+Flash/
+Storage/
+.gitignore
+README.md
+Session.php
+SessionBagInterface.php
+SessionInterface.php
+composer.json
+phpunit.xml.dist

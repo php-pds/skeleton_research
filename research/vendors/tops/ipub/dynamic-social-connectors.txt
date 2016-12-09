@@ -1,0 +1,7 @@
+docs/en/
+examples/
+src/IPub/DynamicSocialConnectors/
+.gitignore
+composer.json
+license.md
+readme.md

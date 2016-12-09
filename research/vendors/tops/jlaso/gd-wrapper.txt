@@ -1,0 +1,11 @@
+doc/
+src/
+.gitignore
+CHANGELOG.md
+LICENSE
+README.md
+composer.json
+sample-eye.php
+sample-palette.php
+sample-penta.php
+sample-text.php

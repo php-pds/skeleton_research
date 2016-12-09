@@ -1,0 +1,10 @@
+Command/
+DependencyInjection/
+Deployer/
+Event/
+Resources/config/
+.gitignore
+BeSimpleDeploymentBundle.php
+Events.php
+README.md
+composer.json

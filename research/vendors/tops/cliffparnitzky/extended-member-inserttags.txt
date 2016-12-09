@@ -1,0 +1,5 @@
+system/modules/ExtendedMemberInserttags/
+.gitattributes
+.gitignore
+README.md
+composer.json

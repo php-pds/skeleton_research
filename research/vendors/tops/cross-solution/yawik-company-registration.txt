@@ -1,0 +1,13 @@
+.travis/
+config/
+language/
+src/YawikCompanyRegistration/
+view/yawik-company-registration/registration/
+.gitignore
+.travis.yml
+LICENSE
+Module.php
+README.md
+composer.json
+composer.lock
+install.sh

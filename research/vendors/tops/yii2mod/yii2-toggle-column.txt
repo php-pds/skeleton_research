@@ -1,0 +1,6 @@
+actions/
+LICENSE.md
+README.md
+ToggleColumn.php
+composer.json
+composer.lock

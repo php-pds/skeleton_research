@@ -1,0 +1,8 @@
+Resources/views/
+.gitignore
+LICENSE
+PropelDataCollector.php
+PropelLogger.php
+PropelWebProfilerServiceProvider.php
+README.md
+composer.json

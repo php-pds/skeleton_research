@@ -1,0 +1,8 @@
+src/BWC/Component/JwtApiBundle/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+README.md
+autoload.php
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,7 @@
+src/Xiphe/
+test/
+.gitignore
+LICENSE
+composer.json
+globaldebug.php
+readme.md

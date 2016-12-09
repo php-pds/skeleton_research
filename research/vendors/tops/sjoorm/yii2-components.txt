@@ -1,0 +1,6 @@
+assets/
+components/
+widgets/
+.gitignore
+README.md
+composer.json

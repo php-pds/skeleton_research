@@ -1,0 +1,6 @@
+LICENSE.md
+README.md
+backbone.babysitter.js
+backbone.babysitter.map
+backbone.babysitter.min.js
+composer.json

@@ -1,0 +1,10 @@
+actions/
+assets/
+behaviors/
+messages/
+nbproject/
+views/
+Asset.php
+README.md
+Widget.php
+composer.json

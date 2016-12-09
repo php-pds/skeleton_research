@@ -1,0 +1,10 @@
+scripts/
+src/ClassMap/
+tests/
+.gitignore
+README.md
+classmap
+composer.json
+package.ini
+package.xml
+phpunit.xml

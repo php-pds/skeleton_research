@@ -1,0 +1,7 @@
+assets/
+widgets/
+.gitignore
+BrainThemeBootstrap.php
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,5 @@
+libs/
+views/
+README.md
+composer.json
+grab-image.php

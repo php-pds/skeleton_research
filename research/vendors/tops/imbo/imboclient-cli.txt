@@ -1,0 +1,15 @@
+bin/
+docs/
+screenshots/
+src/ImboClientCli/
+tests/
+.gitignore
+.travis.yml
+ChangeLog.markdown
+LICENSE
+README.markdown
+Rakefile
+composer.json
+composer.lock
+config.yml.dist
+phpmd.xml

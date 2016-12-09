@@ -1,0 +1,11 @@
+examples/
+src/figdice/
+test/
+.travis.yml
+LICENSE
+README.md
+VERSION.txt
+autoload.php
+composer.json
+composer.lock
+figdice-make-phar.php

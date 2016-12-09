@@ -1,0 +1,7 @@
+spec/aEscarcha/UdemyApiClient/
+src/aEscarcha/UdemyApiClient/
+.gitignore
+LICENSE
+composer.json
+composer.lock
+readme.md

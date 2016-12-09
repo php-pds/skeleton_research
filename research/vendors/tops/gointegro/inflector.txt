@@ -1,0 +1,8 @@
+Tests/
+.gitignore
+.travis.yml
+Inflector.php
+LICENSE
+README.md
+composer.json
+phpunit.xml

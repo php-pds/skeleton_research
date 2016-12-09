@@ -1,0 +1,4 @@
+src/Petehouston/Models/
+.gitignore
+README.md
+composer.json

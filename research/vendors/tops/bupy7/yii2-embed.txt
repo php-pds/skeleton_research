@@ -1,0 +1,4 @@
+views/
+Embed.php
+README.md
+composer.json

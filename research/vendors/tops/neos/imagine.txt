@@ -1,0 +1,6 @@
+Classes/
+Configuration/
+Documentation/
+Migrations/Code/
+Resources/Private/Schema/Settings/
+composer.json

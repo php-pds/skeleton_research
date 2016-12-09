@@ -1,0 +1,5 @@
+Adapter/
+Manager.php
+README.md
+autoload.php
+composer.json

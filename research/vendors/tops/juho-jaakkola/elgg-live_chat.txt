@@ -1,0 +1,7 @@
+actions/live_chat/
+views/default/
+.gitignore
+composer.json
+manifest.xml
+start.php
+views.php

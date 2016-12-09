@@ -1,0 +1,10 @@
+Application/
+public/css/
+.gitattributes
+.gitignore
+.htaccess
+LICENSE.txt
+README.md
+composer.json
+index.php
+setup.php

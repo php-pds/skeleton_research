@@ -1,0 +1,13 @@
+Admin/
+Controller/
+DependencyInjection/
+Entity/
+Provider/
+Resources/
+Twig/Extension/
+.gitignore
+BrueryClassificationBundle.php
+CONTRIBUTING.md
+LICENSE
+README.md
+composer.json

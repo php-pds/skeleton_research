@@ -1,0 +1,7 @@
+src/
+tests/phpunit/
+.codeclimate.yml
+.gitignore
+README.md
+composer.json
+phpunit.xml

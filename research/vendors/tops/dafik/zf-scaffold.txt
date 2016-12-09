@@ -1,0 +1,8 @@
+.idea/
+doc/
+src/ZFscaffold/ZfTool/
+.gitignore
+LICENSE
+README.md
+composer.json
+zf-scaffold.iml

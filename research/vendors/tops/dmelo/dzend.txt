@@ -1,0 +1,10 @@
+application/
+library/DZend/
+locale/
+public/tmp/
+setup/db/
+tests/
+.gitignore
+README.md
+composer.json
+phpunit.xml

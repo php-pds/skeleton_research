@@ -1,0 +1,13 @@
+assets/
+config/
+controllers/
+messages/ru/
+migrations/
+models/
+views/admin-message/
+CHANGELOG.md
+I18NDbComponent.php
+I18nDbModule.php
+LICENSE
+README.md
+composer.json

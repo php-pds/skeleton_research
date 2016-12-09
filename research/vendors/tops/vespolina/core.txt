@@ -1,0 +1,8 @@
+lib/Vespolina/
+tests/
+.gitignore
+.travis.yml
+README.md
+UPGRADE-0.6.md
+composer.json
+phpunit.xml

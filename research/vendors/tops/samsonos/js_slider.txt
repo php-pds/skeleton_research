@@ -1,0 +1,7 @@
+.idea/
+css/
+.gitignore
+README.md
+SJSSlider.js
+composer.json
+samson.php

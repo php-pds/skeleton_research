@@ -1,0 +1,6 @@
+Docs/
+Sniffs/
+Tests/Formatting/
+README.md
+composer.json
+ruleset.xml

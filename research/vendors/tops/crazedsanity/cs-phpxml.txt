@@ -1,0 +1,16 @@
+tests/
+.gitignore
+.travis.yml
+AutoLoader.class.php
+CREDITS
+LICENSE-GPL
+LICENSE-MIT
+README.md
+VERSION
+composer.json
+cs_arrayToPath.class.php
+cs_phpxml.abstract.class.php
+cs_phpxmlBuilder.class.php
+cs_phpxmlCreator.class.php
+cs_phpxmlParser.class.php
+phpunit.xml

@@ -1,0 +1,14 @@
+docs/
+scripts/
+src/
+tests/
+.coveralls.yml
+.travis.yml
+CHANGELOG.md
+LICENSE
+NEWS.md
+README.md
+TODO.md
+composer.json
+mkdocs.yml
+phpunit.xml

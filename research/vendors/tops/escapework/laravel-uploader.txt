@@ -1,0 +1,8 @@
+src/
+tests/spec/
+.editorconfig
+.gitignore
+LICENSE
+README.md
+composer.json
+phpspec.yml

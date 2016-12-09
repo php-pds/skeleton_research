@@ -1,0 +1,9 @@
+spec/Akeneo/Runner/Maintainer/
+src/Akeneo/
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+composer.json
+phpspec.yml

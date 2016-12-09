@@ -1,0 +1,4 @@
+app/locale/en_GB/
+LICENSE
+README.md
+composer.json

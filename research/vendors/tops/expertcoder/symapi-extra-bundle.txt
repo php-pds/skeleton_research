@@ -1,0 +1,7 @@
+DependencyInjection/
+Other/
+Resources/config/
+.gitignore
+ExpertCoderSymapiExtraBundle.php
+README.md
+composer.json

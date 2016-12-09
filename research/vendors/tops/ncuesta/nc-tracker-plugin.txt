@@ -1,0 +1,7 @@
+config/
+i18n/es/
+lib/
+modules/nc_tracker_entry/
+.gitignore
+README.md
+composer.json

@@ -1,0 +1,9 @@
+Admin/
+Controller/
+DependencyInjection/
+Entity/
+Model/
+Resources/
+README.md
+WXRNewsBundle.php
+composer.json

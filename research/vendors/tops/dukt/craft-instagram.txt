@@ -1,0 +1,8 @@
+providers/oauth/
+resources/
+vendor/
+.gitignore
+InstagramPlugin.php
+composer.json
+readme.md
+releases.json

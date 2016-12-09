@@ -1,0 +1,5 @@
+config/
+dca/
+library/IntelligentSpark/
+.gitignore
+composer.json

@@ -1,0 +1,12 @@
+behaviors/
+components/
+controllers/
+messages/
+migrations/
+models/
+views/page/
+Bootstrap.php
+Module.php
+README.md
+composer.json
+config.php

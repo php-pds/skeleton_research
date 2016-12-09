@@ -1,0 +1,8 @@
+Tests/LazyMockApi/Mock/
+src/Virhi/LazyMockApiBundle/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml

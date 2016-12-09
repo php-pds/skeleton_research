@@ -1,0 +1,12 @@
+config/
+src/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+index.html
+phpunit.xml
+provides.json
+sami.config.php

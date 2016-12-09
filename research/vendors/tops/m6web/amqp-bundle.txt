@@ -1,0 +1,15 @@
+bin/
+docker/
+src/AmqpBundle/
+travis/
+.atoum.php
+.bootstrap.atoum.php
+.coke
+.gitignore
+.travis.yml
+CONTRIBUTING.md
+Dockerfile
+LICENSE
+README.md
+composer.json
+docker-compose.yml

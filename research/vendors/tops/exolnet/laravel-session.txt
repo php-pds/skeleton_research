@@ -1,0 +1,3 @@
+SessionManager.php
+SessionServiceProvider.php
+composer.json

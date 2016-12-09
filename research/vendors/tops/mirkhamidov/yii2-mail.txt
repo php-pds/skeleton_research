@@ -1,0 +1,12 @@
+assets/
+controllers/
+migrations/
+models/
+widgets/
+.gitignore
+LICENSE
+MMail.php
+Module.php
+ModuleTrait.php
+README.md
+composer.json

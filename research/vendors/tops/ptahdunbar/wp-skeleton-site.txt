@@ -1,0 +1,17 @@
+content/
+.env.encrypted
+.env.example
+.gitignore
+.htaccess
+.travis.yml
+MAINTAINERS.md
+Makefile
+README.md
+RELEASE.md
+app-config.php
+composer.json
+composer.lock
+composer.phar
+index.php
+package.json
+wp-config.php

@@ -1,0 +1,11 @@
+.tx/
+assets/
+classes/
+config/
+dca/
+languages/
+models/
+.gitignore
+LICENSE
+README.md
+composer.json

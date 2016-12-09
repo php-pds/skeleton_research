@@ -1,0 +1,7 @@
+pattern/
+src/ItePHP/
+test/
+.gitignore
+LICENSE
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,11 @@
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+AdjacencyListBehavior.php
+AdjacencyListQueryTrait.php
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

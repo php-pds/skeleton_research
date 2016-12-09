@@ -1,0 +1,14 @@
+tests/
+.gitattributes
+.gitignore
+.travis.yml
+CHANGELOG.md
+CallbackSerializer.php
+DynamicAttributeBehavior.php
+JsonSerializer.php
+LICENSE.md
+PhpSerializer.php
+README.md
+SerializerInterface.php
+composer.json
+phpunit.xml.dist

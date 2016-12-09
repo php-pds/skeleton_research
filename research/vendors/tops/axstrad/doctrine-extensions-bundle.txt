@@ -1,0 +1,13 @@
+DependencyInjection/
+Resources/
+Tests/
+build/
+.coveralls.yml
+.gitignore
+.travis.yml
+AxstradDoctrineExtensionsBundle.php
+LICENSE
+Readme.md
+build.xml
+composer.json
+phpunit.xml.dist

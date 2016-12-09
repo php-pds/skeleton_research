@@ -1,0 +1,3 @@
+src/PhpFoundation/Pagination/
+LICENSE
+composer.json

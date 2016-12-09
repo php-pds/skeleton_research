@@ -1,0 +1,10 @@
+Command/
+Controller/
+DependencyInjection/
+Entity/
+EventListener/
+Resources/
+LICENSE.txt
+NewscoopMeteobluePluginBundle.php
+README.md
+composer.json

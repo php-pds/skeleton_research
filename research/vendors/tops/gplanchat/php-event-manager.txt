@@ -1,0 +1,5 @@
+build/
+src/
+tests/Test/Gplanchat/EventManager/
+README.md
+composer.json

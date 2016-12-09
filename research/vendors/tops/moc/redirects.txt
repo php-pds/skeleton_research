@@ -1,0 +1,5 @@
+Classes/MOC/Redirects/
+Configuration/
+LICENSE
+README.md
+composer.json

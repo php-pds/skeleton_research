@@ -1,0 +1,6 @@
+src/jsplugins/easyslider/
+tests/jsplugins/easyslider/
+.gitattributes
+.gitignore
+autoload.php
+composer.json

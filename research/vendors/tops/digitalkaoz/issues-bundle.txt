@@ -1,0 +1,15 @@
+Command/
+Controller/
+DependencyInjection/
+Elastica/
+Resources/
+Storage/
+Synchronizer/
+Tracker/
+.gitignore
+README.md
+RsIssuesBundle.php
+bower.json
+composer.json
+gulpfile.js
+package.json

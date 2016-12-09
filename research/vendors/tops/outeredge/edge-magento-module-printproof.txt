@@ -1,0 +1,6 @@
+app/
+skin/
+.gitignore
+LICENSE
+README.md
+composer.json

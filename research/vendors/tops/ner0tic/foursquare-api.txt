@@ -1,0 +1,4 @@
+lib/Foursquare/
+.gitignore
+README.md
+composer.json

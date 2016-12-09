@@ -1,0 +1,14 @@
+Controller/
+DependencyInjection/
+Form/
+Resources/
+Tests/
+Validator/Constraints/
+.gitignore
+.travis.yml
+AMFConsoleBundle.php
+CHANGELOG.md
+CONTRIBUTING.md
+README.md
+composer.json
+phpunit.xml.dist

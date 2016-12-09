@@ -1,0 +1,6 @@
+.editorconfig
+.gitignore
+LICENSE
+README.md
+agreable-post-icon-field.php
+composer.json

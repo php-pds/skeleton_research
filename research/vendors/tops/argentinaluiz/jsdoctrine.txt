@@ -1,0 +1,3 @@
+JS/Doctrine/
+README.md
+composer.json

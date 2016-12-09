@@ -1,0 +1,14 @@
+bin/
+docs/
+skeletons/
+src/Neptune/
+tests/
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+composer.json
+neptune
+phpunit.xml.dist
+travis-config.ini

@@ -1,0 +1,8 @@
+_config/
+code/extensions/
+images/
+javascript/
+LICENSE
+_config.php
+composer.json
+readme.md

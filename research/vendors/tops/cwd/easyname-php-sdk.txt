@@ -1,0 +1,6 @@
+config/
+src/Easyname/RestApi/
+.gitignore
+README.md
+composer.json
+sample.php

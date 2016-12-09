@@ -1,0 +1,9 @@
+resources/
+src/
+tests/
+.gitignore
+.travis.yml
+README.md
+composer.json
+icon.png
+phpunit.xml

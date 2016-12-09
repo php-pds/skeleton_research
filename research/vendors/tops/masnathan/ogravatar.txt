@@ -1,0 +1,6 @@
+exceptions/
+LICENSE
+README.md
+composer.json
+example.php
+oGravatar.php

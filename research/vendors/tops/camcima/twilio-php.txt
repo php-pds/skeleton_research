@@ -1,0 +1,8 @@
+Documentation/
+Examples/
+Package/Twilio/
+.gitignore
+LICENSE
+README.md
+composer.json
+namespace.sh

@@ -1,0 +1,5 @@
+src/Ingewikkeld/Rest/OAuthServerBundle/
+.gitignore
+LICENSE
+README.md
+composer.json

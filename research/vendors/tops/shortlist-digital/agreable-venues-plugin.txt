@@ -1,0 +1,13 @@
+app/
+resources/
+src/
+.gitignore
+.jscsrc
+README.md
+composer.json
+dev-server.js
+herbert.config.php
+package.json
+plugin.php
+webpack.config.js
+webpack.development.config.js

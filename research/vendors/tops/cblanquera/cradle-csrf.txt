@@ -1,0 +1,11 @@
+src/
+test/
+.coveralls.yml
+.cradle.php
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpcs.xml
+phpunit.xml

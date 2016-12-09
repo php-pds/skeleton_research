@@ -1,0 +1,15 @@
+DependencyInjection/
+Entity/
+Handler/
+Model/
+Resources/
+Tests/Units/
+Violation/
+.atoum.bootstrap.php
+.atoum.php
+.gitignore
+.scrutinizer.yml
+.travis.yml
+README.md
+RezzzaModelViolationLoggerBundle.php
+composer.json

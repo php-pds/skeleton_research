@@ -1,0 +1,12 @@
+fixtures/LIN3S/WPFoundation/
+spec/LIN3S/WPFoundation/
+src/LIN3S/WPFoundation/
+.editorconfig
+.gitignore
+.php_cs
+.phpspec_cs
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+composer.json

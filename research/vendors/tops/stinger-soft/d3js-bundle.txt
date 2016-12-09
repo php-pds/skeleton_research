@@ -1,0 +1,7 @@
+Resources/public/scripts/
+.gitignore
+.project
+LICENSE
+README.md
+StingerSoftD3JsBundle.php
+composer.json

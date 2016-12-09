@@ -1,0 +1,7 @@
+src/
+tests/
+DOCS.md
+LICENCE.md
+README.md
+composer.json
+example.php

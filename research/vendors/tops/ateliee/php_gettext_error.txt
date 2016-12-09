@@ -1,0 +1,7 @@
+languages/
+.gitignore
+Localize.class.php
+README.md
+composer.json
+errors.php
+init.php

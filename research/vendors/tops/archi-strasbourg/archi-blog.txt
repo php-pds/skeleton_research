@@ -1,0 +1,7 @@
+i18n/
+.gitignore
+README.md
+SpecialArchiBlog.php
+composer.json
+composer.lock
+extension.json

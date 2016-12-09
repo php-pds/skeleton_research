@@ -1,0 +1,5 @@
+.gitignore
+LICENSE.md
+composer.json
+detect-iframe-fail.js
+manifest.xml

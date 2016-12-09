@@ -1,0 +1,8 @@
+DependencyInjection/
+Resources/config/
+Service/
+Tests/Controller/
+.gitignore
+LICENSE
+RAShopClientBundle.php
+composer.json

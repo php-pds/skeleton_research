@@ -1,0 +1,7 @@
+src/Rtablada/Exif/
+tests/
+.gitignore
+.travis.yml
+composer.json
+phpunit.xml
+readme.md

@@ -1,0 +1,17 @@
+backend/
+common/
+console/
+docs/guide/
+environments/
+frontend/
+.bowerrc
+.gitattributes
+.gitignore
+.htaccess
+LICENSE.md
+README.md
+composer.json
+init
+init.bat
+requirements.php
+yii.bat

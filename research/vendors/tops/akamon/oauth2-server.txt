@@ -1,0 +1,14 @@
+bin/
+features/
+loc/
+src/Akamon/OAuth2/Server/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+behat.yml.dist
+build.xml
+composer.json
+composer.lock
+phpunit-coverage.xml
+phpunit.xml.dist

@@ -1,0 +1,12 @@
+Classes/
+Configuration/TypoScript/
+Migrations/Code/
+Resources/
+Tests/Unit/Service/
+.gitignore
+.travis.yml
+ChangeLog
+composer.json
+ext_emconf.php
+ext_icon.png
+ext_tables.php

@@ -1,0 +1,16 @@
+bin/
+classes/
+resources/
+scripts/
+tests/
+.gitignore
+.travis.yml
+ABOUT
+CHANGELOG.md
+CONTRIBUTING.md
+FAQ.md
+LICENSE
+README.md
+appveyor.yml
+composer.json
+constants.php

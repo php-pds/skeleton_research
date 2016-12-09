@@ -1,0 +1,7 @@
+Classes/
+Configuration/
+Resources/Private/
+Tests/Functional/
+.gitignore
+README.md
+composer.json

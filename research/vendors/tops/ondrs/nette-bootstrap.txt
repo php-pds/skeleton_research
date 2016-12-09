@@ -1,0 +1,17 @@
+app/
+log/
+migrations/
+temp/
+tests/
+vendor/
+www/
+.bowerrc
+.gitignore
+bower.json
+composer.json
+composer.lock
+deploy.bat
+deployment.ini
+lint.bat
+lint.sh
+readme.md

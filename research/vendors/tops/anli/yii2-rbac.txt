@@ -1,0 +1,11 @@
+commands/
+controllers/
+migrations/
+models/
+rules/
+views/
+CHANGELOG.md
+LICENSE
+Module.php
+README.md
+composer.json

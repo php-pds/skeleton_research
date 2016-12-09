@@ -1,0 +1,5 @@
+Connector/
+.gitignore
+Platform.php
+SchemaManager.php
+composer.json

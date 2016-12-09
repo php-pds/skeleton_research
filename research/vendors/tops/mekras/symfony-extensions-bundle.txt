@@ -1,0 +1,9 @@
+DependencyInjection/
+Tests/DependencyInjection/Extension/
+.gitattributes
+.gitignore
+CHANGELOG.md
+LICENSE
+SymfonyExtensionsBundle.php
+composer.json
+phpunit.xml.dist

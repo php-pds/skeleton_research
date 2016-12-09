@@ -1,0 +1,8 @@
+config/
+src/
+.gitignore
+CHANGELOG.md
+ISSUES.md
+LICENSE.md
+README.md
+composer.json

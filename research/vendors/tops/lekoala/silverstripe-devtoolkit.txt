@@ -1,0 +1,10 @@
+_config/
+adminer/
+code/
+lang/
+ressources/
+.scrutinizer.yml
+LICENSE
+README.md
+_config.php
+composer.json

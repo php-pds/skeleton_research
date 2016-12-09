@@ -1,0 +1,17 @@
+Command/
+Composer/
+Controller/
+DependencyInjection/
+Entity/
+Filter/
+Form/
+Manager/
+Repository/
+Resources/
+Twig/
+.gitattributes
+.gitignore
+LICENSE
+README.md
+WucdbmMenuBuilderBundle.php
+composer.json

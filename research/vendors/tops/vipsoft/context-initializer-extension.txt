@@ -1,0 +1,8 @@
+doc/
+src/VIPSoft/ContextInitializerExtension/
+LICENSE
+README.md
+behat.yml.dist
+build.php
+composer.json
+init.php

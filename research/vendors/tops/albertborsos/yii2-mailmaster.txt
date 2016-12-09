@@ -1,0 +1,7 @@
+components/
+models/
+vendor/
+views/
+MailMaster.php
+README.md
+composer.json

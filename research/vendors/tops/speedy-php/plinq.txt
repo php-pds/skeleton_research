@@ -1,0 +1,7 @@
+Tests/
+lib/PLinq/
+.gitignore
+autoload.php
+composer.json
+license.txt
+readme.md

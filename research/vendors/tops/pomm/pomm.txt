@@ -1,0 +1,13 @@
+Pomm/
+communicate/logo/
+documentation/
+licenses/
+tests/
+.gitignore
+.travis.yml
+.vimproject
+CHANGELOG
+README.rst
+VERSION
+composer.json
+phpunit.xml.dist

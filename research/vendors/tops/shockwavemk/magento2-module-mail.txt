@@ -1,0 +1,14 @@
+Block/Adminhtml/
+Controller/Adminhtml/
+Model/
+Setup/
+docs/
+etc/
+i18n/
+view/adminhtml/
+.gitignore
+CHANGELOG.md
+LICENSE.txt
+README.md
+composer.json
+registration.php

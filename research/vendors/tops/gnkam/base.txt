@@ -1,0 +1,5 @@
+src/Gnkam/Base/
+.gitignore
+COPYING.txt
+README.md
+composer.json

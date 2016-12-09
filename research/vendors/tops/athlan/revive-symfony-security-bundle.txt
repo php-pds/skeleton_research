@@ -1,0 +1,7 @@
+src/Revive/ReviveAuthenticationBundle/
+tests/Revive/ReviveAuthenticationBundle/
+.gitignore
+.travis.yml
+README.md
+composer.json
+phpunit.xml

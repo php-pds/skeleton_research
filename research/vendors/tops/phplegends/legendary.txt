@@ -1,0 +1,9 @@
+src/legendary/
+test/
+.gitignore
+BUGS.md
+composer.json
+composer.lock
+legendary.sublime-project
+legendary.sublime-workspace
+phpunit.xml

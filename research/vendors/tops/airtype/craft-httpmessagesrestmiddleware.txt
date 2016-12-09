@@ -1,0 +1,6 @@
+src/
+.gitignore
+HttpMessagesRestMiddlewarePlugin.php
+composer.json
+composer.lock
+config.php

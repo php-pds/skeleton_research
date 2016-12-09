@@ -1,0 +1,13 @@
+bootstrap/
+config/
+resources/testing/
+src/Chromabits/TutumClient/
+storage/framework/
+tests/Chromabits/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml

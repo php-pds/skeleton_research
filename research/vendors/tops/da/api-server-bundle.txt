@@ -1,0 +1,17 @@
+DependencyInjection/
+Doctrine/
+Event/
+Exception/
+HttpClient/
+Model/
+Resources/
+Security/
+Tests/
+.gitignore
+.travis.yml
+DaApiServerBundle.php
+LICENSE
+README.md
+VERSION
+composer.json
+phpunit.xml.dist

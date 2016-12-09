@@ -1,0 +1,5 @@
+src/Xinix/Theme/
+templates/
+.gitignore
+README.md
+composer.json

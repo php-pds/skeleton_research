@@ -1,0 +1,8 @@
+src/Circlical/PoEditor/
+tests/
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpspec
+phpspec.yml

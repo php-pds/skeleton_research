@@ -1,0 +1,6 @@
+LeanQuery/
+tests/
+.gitattributes
+.gitignore
+composer.json
+license-mit.txt

@@ -1,0 +1,8 @@
+config/
+data/
+src/Widgetizer/
+themes/builderfront/
+LICENSE
+Module.php
+README.md
+composer.json

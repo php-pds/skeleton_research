@@ -1,0 +1,9 @@
+AdminLteAsset.php
+AdminLtePluginAsset.php
+AdminLteWidgetTrait.php
+FastclickAsset.php
+FontAwesomeAsset.php
+IoniconsAsset.php
+README.md
+Widget.php
+composer.json

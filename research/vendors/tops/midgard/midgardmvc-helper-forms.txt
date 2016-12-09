@@ -1,0 +1,12 @@
+field/
+locale/
+widget/
+.gitignore
+composer.json
+field.php
+form.php
+group.php
+interface.php
+manifest.yml
+mgdschema.php
+widget.php

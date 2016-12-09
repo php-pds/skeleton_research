@@ -1,0 +1,6 @@
+Controller/
+DependencyInjection/
+Resources/
+README.md
+RvdvDisqusBundle.php
+composer.json

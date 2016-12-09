@@ -1,0 +1,8 @@
+Tests/
+src/Mindy/Cache/
+.gitignore
+.travis.yml
+composer.json
+phpunit.xml
+readme.md
+src.php

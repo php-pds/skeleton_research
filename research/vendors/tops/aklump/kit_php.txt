@@ -1,0 +1,7 @@
+.web_package/
+classes/
+tests/
+.gitignore
+README.md
+composer.json
+kit_php.info

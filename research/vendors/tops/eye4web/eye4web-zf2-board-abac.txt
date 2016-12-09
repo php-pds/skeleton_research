@@ -1,0 +1,11 @@
+config/
+src/Eye4web/Zf2BoardAbac/
+test/
+view/error/
+.gitignore
+.travis.yml
+LICENSE
+Module.php
+README.md
+composer.json
+phpunit.xml

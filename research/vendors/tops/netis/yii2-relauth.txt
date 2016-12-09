@@ -1,0 +1,10 @@
+AuthManagerTrait.php
+AuthorizerBehavior.php
+AuthorizerQueryBehavior.php
+DbManager.php
+LICENSE
+PhpManager.php
+README.md
+RelationsRule.php
+TraceableAuthManager.php
+composer.json

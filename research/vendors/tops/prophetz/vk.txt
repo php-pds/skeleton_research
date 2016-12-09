@@ -1,0 +1,4 @@
+src/Prophetz/Vk/
+.gitignore
+composer.json
+composer.lock

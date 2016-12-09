@@ -1,0 +1,12 @@
+Controller/
+DependencyInjection/
+Entity/
+Form/Type/
+Menu/
+Repository/
+Resources/
+Tests/Controller/
+.gitignore
+MaciProductBundle.php
+README.md
+composer.json

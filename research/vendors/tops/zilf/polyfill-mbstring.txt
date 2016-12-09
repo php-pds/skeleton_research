@@ -1,0 +1,7 @@
+Resources/unidata/
+.gitignore
+LICENSE
+Mbstring.php
+README.md
+bootstrap.php
+composer.json

@@ -1,0 +1,6 @@
+src/Dragon/
+test/Dragon/
+.gitignore
+README.md
+composer.json
+phpunit.xml

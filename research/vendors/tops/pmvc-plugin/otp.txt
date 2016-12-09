@@ -1,0 +1,10 @@
+GoogleAuthenticator @ b64898d
+.gitignore
+.gitmodules
+.travis.yml
+README.md
+composer.json
+demo.php
+otp.php
+phpunit.xml
+test.php

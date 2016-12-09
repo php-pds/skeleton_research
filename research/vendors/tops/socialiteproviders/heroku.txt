@@ -1,0 +1,3 @@
+HerokuExtendSocialite.php
+Provider.php
+composer.json

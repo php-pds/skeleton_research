@@ -1,0 +1,5 @@
+src/widgets/
+tests/
+.gitignore
+README.md
+composer.json

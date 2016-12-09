@@ -1,0 +1,11 @@
+DependencyInjection/
+Doctrine/ORM/Subscriber/
+Form/Type/
+Resources/
+spec/
+.gitignore
+CHANGELOG.md
+README.md
+SyliusAssociationBundle.php
+composer.json
+phpspec.yml.dist

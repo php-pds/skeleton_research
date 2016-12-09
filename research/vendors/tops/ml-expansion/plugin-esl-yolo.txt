@@ -1,0 +1,8 @@
+Gui/
+Structures/
+Config.php
+LICENSE
+MetaData.php
+README.md
+YOLOcup.php
+composer.json

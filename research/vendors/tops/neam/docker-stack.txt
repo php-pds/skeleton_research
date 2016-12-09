@@ -1,0 +1,11 @@
+cli/
+docs/
+generators/nginx-php-server-config-generator/
+images/
+stacks/
+.gitignore
+CHANGELOG.md
+Makefile
+Makefile-neam
+README.md
+composer.json

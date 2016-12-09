@@ -1,0 +1,8 @@
+example/
+src/Bt51/Silex/Provider/GaufretteServiceProvider/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

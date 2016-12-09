@@ -1,0 +1,15 @@
+Controller/
+DataCollector/
+DependencyInjection/
+Http/
+Mailbox/
+Resources/
+Security/
+Tests/Mailbox/
+Transport/
+UserBundle/
+Util/
+.gitignore
+README.md
+SimpleThingsZetaWebmailBundle.php
+composer.json

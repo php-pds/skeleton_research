@@ -1,0 +1,5 @@
+controllers/
+models/
+views/admin/
+Module.php
+composer.json

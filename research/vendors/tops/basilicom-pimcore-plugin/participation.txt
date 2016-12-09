@@ -1,0 +1,11 @@
+controllers/
+install/class_source/
+lib/Participation/
+static/
+views/scripts/
+.gitignore
+LICENSE
+README.md
+composer.json
+participation.xml
+plugin.xml

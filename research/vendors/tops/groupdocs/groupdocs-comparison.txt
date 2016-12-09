@@ -1,0 +1,4 @@
+groupdocs-comparison/
+LICENSE.txt
+README.md
+composer.json

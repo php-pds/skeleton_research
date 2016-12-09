@@ -1,0 +1,17 @@
+_graphics/
+actions/
+classes/
+languages/
+lib/
+pages/
+procedures/
+views/default/
+.gitignore
+CHANGES.txt
+README.md
+activate.php
+composer.json
+composer.lock
+deactivate.php
+manifest.xml
+start.php

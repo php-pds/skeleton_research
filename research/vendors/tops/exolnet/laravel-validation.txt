@@ -1,0 +1,6 @@
+.gitattributes
+Phone.php
+README.md
+RuleBuilder.php
+UniqueLocale.php
+composer.json

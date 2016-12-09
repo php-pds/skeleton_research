@@ -1,0 +1,9 @@
+Config/
+DependencyInjection/Compiler/
+I18n/
+Template/
+CREDITS.md
+LICENSE.txt
+README.md
+TheliaTwig.php
+composer.json

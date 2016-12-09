@@ -1,0 +1,9 @@
+src/
+tests/
+.gitignore
+.hhconfig
+.travis.yml
+LICENSE
+README.md
+composer.json
+travis-php.ini

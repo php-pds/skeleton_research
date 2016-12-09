@@ -1,0 +1,13 @@
+spec/
+src/
+tests/
+.editorconfig
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpspec.yml.ci
+phpspec.yml.dist
+phpunit.xml.dist

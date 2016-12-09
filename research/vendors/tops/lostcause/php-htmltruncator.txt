@@ -1,0 +1,8 @@
+src/HtmlTruncator/
+tests/
+.gitignore
+MIT-LICENSE
+Makefile
+README.md
+composer.json
+phpunit.xml

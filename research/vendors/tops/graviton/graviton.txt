@@ -1,0 +1,16 @@
+.bp-config/
+app/
+bin/
+src/
+web/
+.cfignore
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+dev-check.sh
+dev-cleanstart.sh
+phpunit.xml.dist

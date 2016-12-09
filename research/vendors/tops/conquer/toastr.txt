@@ -1,0 +1,6 @@
+.gitignore
+LICENSE.md
+README.md
+ToastrAsset.php
+ToastrWidget.php
+composer.json

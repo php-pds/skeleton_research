@@ -1,0 +1,8 @@
+clients/
+doc/
+src/Gitlab/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock

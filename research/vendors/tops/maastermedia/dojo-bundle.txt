@@ -1,0 +1,12 @@
+Controller/
+DependencyInjection/
+Resources/
+Tests/
+Twig/Extension/
+.gitignore
+.travis.yml
+CHANGELOG.md
+DojoBundle.php
+README.md
+composer.json
+phpunit.xml.dist

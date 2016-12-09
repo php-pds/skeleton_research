@@ -1,0 +1,5 @@
+.idea/
+README.md
+Sitemap.php
+composer.json
+license.md

@@ -1,0 +1,7 @@
+src/CentralApps/Pagination/
+tests/
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml

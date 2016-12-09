@@ -1,0 +1,6 @@
+.gitignore
+LICENSE
+README.md
+composer.json
+ruleset-for-contexts.xml
+ruleset-for-tests.xml

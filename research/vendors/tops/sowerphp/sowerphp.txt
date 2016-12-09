@@ -1,0 +1,9 @@
+lib/sowerphp/core/
+project/
+.gitignore
+.htaccess
+COPYING
+Doxyfile
+INSTALL.md
+README.md
+composer.json

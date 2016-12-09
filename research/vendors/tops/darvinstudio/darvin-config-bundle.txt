@@ -1,0 +1,12 @@
+Configuration/
+DependencyInjection/
+Entity/
+Exception/
+Form/Type/Configuration/
+Parameter/
+Repository/
+Resources/config/
+DarvinConfigBundle.php
+LICENSE
+README.md
+composer.json

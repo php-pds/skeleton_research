@@ -1,0 +1,8 @@
+src/
+test/
+.gitignore
+README.md
+apigen.neon
+composer.json
+composer.lock
+swearjar

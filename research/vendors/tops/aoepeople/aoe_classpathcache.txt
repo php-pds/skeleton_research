@@ -1,0 +1,10 @@
+app/
+lib/n98-magerun/modules/aoe-classpathcache/
+shell/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+modman
+phpcs.xml

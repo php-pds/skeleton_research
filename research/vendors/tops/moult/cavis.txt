@@ -1,0 +1,8 @@
+spec/Cavis/Core/
+src/Cavis/Core/
+.gitignore
+LICENSE
+README.md
+build.xml
+composer.json
+composer.lock

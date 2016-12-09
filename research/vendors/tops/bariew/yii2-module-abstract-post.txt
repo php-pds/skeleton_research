@@ -1,0 +1,12 @@
+actions/
+components/
+controllers/
+migrations/
+models/
+views/
+widgets/
+.gitignore
+LICENSE
+PostModule.php
+README
+composer.json

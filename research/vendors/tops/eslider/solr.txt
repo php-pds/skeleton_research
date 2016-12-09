@@ -1,0 +1,11 @@
+bin/
+example/
+licenses/
+.gitignore
+CHANGES.txt
+LICENSE.txt
+LUCENE_CHANGES.txt
+NOTICE.txt
+README.txt
+SYSTEM_REQUIREMENTS.txt
+composer.json

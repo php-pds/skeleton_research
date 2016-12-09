@@ -1,0 +1,4 @@
+src/Downsider/JsonSchema/
+.gitignore
+composer.json
+composer.lock

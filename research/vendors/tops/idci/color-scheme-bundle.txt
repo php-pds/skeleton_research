@@ -1,0 +1,11 @@
+DependencyInjection/
+Exceptions/
+Model/
+Resources/config/
+Service/
+Tests/
+Transformer/
+.gitignore
+IDCIColorSchemeBundle.php
+README.md
+composer.json

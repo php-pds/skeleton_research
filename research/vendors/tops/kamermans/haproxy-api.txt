@@ -1,0 +1,10 @@
+src/HAProxy/
+tests/
+.travis.yml
+COPYING
+README.md
+SplClassLoader.php
+autoload.php
+composer.json
+phpci.yml
+phpunit.xml.dist

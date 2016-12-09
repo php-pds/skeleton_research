@@ -1,0 +1,6 @@
+config/
+src/ZFTest/
+.gitignore
+Module.php
+README.md
+composer.json

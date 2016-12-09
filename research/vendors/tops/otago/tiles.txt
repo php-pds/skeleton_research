@@ -1,0 +1,10 @@
+code/
+css/
+fields/
+images/
+javascript/
+templates/
+LICENSE
+_config.php
+composer.json
+readme.md

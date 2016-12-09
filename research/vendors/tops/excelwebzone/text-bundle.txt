@@ -1,0 +1,7 @@
+DependencyInjection/
+Resources/config/
+Templating/Helper/
+EWZTextBundle.php
+LICENSE
+README.md
+composer.json

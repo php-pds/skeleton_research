@@ -1,0 +1,7 @@
+Parser/
+Router/
+.gitignore
+LICENSE
+README.md
+ThematicSpeech.php
+composer.json

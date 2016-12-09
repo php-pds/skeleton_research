@@ -1,0 +1,11 @@
+example/
+lib/PUGX/Godfather/
+sf2-bundle/PUGX/GodfatherBundle/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.markdown
+composer.json
+composer.lock
+phpunit.xml.dist

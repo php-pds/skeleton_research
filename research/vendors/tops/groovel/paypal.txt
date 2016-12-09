@@ -1,0 +1,8 @@
+.settings/
+src/
+views/paypal/
+.buildpath
+.project
+LICENSE
+README.MD
+composer.json

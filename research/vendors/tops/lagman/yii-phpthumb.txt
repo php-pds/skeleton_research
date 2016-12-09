@@ -1,0 +1,3 @@
+README.md
+YiiPhpThumb.php
+composer.json

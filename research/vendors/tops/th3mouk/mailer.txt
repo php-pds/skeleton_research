@@ -1,0 +1,4 @@
+src/Mailer/
+.gitignore
+README.md
+composer.json

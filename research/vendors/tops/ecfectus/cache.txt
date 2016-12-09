@@ -1,0 +1,11 @@
+src/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+clover.xml
+composer.json
+dbname=:memory
+phpdoc.dist.xml
+phpunit.xml.dist

@@ -1,0 +1,7 @@
+.idea/
+app/view/
+src/
+.gitignore
+composer.json
+license.md
+readme.md

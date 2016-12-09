@@ -1,0 +1,5 @@
+crud/
+fixtures/
+model/
+README.md
+composer.json

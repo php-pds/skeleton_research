@@ -1,0 +1,5 @@
+src/
+.post.example.json
+LICENSE
+composer.json
+readme.md

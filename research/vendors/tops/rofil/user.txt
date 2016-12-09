@@ -1,0 +1,12 @@
+Controller/
+DependencyInjection/
+Entity/
+Form/
+Resources/
+Tests/Controller/
+.gitignore
+LICENSE
+README.md
+RofilAdminUserBundle.php
+UserCustome.php
+composer.json

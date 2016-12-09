@@ -1,0 +1,7 @@
+_config/
+code/
+templates/Includes/
+.editorconfig
+LICENSE.md
+README.md
+composer.json

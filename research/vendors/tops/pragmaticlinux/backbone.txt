@@ -1,0 +1,8 @@
+css/
+js/
+lib/
+LICENSE
+README.md
+composer.json
+destroy.png
+index.html

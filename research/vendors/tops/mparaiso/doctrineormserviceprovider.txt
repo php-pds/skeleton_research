@@ -1,0 +1,10 @@
+src/Mparaiso/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+SYMFONY LICENSE
+composer.json
+console.php
+phpunit.xml

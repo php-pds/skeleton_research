@@ -1,0 +1,10 @@
+Contract/Elements/
+DependencyInjection/
+Resources/
+Tests/Controller/
+nbproject/
+.gitattributes
+.gitignore
+PhpObjectsContractBundle.php
+README.md
+composer.json

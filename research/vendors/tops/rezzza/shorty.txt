@@ -1,0 +1,8 @@
+src/Rezzza/Shorty/
+tests/units/Provider/
+.atoum.bootstrap.php
+.atoum.php
+.gitignore
+.travis.yml
+README.rst
+composer.json

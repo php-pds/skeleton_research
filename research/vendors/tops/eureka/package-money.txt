@@ -1,0 +1,4 @@
+src/Money/
+LICENSE
+README.md
+composer.json

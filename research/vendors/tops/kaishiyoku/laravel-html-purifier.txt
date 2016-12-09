@@ -1,0 +1,6 @@
+.idea/
+src/Kaishiyoku/HtmlPurifier/
+.gitignore
+LICENSE
+README.md
+composer.json

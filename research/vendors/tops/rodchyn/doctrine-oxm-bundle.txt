@@ -1,0 +1,13 @@
+CacheWarmer/
+Command/
+DependencyInjection/
+Mapping/Driver/
+Resources/config/
+Security/
+Tests/
+.gitignore
+.travis.yml
+DoctrineOXMBundle.php
+README.md
+composer.json
+phpunit.xml.dist

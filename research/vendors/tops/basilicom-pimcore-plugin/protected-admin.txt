@@ -1,0 +1,5 @@
+lib/ProtectedAdmin/
+LICENSE
+README.md
+composer.json
+plugin.xml

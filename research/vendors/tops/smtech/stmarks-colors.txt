@@ -1,0 +1,9 @@
+doc/
+phpdoc/
+src/
+tests/
+.gitattributes
+.gitignore
+LICENSE.md
+composer.json
+phpdoc.dist.xml

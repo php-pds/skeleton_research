@@ -1,0 +1,4 @@
+DataFixtures/
+.gitignore
+ReflectionFixtureBundle.php
+composer.json

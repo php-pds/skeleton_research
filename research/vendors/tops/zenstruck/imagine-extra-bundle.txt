@@ -1,0 +1,10 @@
+DependencyInjection/
+Imagine/
+Resources/
+Tests/
+.gitignore
+.travis.yml
+README.md
+ZenstruckImagineExtraBundle.php
+composer.json
+phpunit.xml.dist

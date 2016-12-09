@@ -1,0 +1,14 @@
+Configuration/
+Exception/
+Request/
+Service/
+Tests/
+AbstractFactory.php
+FactoryInterface.php
+LICENSE.txt
+NavitiaExceptionFactory.php
+README.md
+Utils.php
+bootstrap.php
+composer.json
+phpunit.xml.dist

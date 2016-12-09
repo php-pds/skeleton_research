@@ -1,0 +1,14 @@
+assets/
+config/
+controllers/
+models/
+structure/
+views/
+.gitignore
+.htaccess
+README.md
+bootstrap.php
+cli-config.php
+composer.json
+contributors.md
+index.php

@@ -1,0 +1,4 @@
+composer.json
+example-widget.php
+readme.md
+wp-widgets-helper.php

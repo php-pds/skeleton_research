@@ -1,0 +1,12 @@
+languages/
+.editorconfig
+.gitignore
+Gruntfile.js
+README.md
+changelog.txt
+composer.json
+leavesandlove-wp-plugin-loader.php
+leavesandlove-wp-plugin-util.php
+leavesandlove-wp-plugin.php
+license.txt
+package.json

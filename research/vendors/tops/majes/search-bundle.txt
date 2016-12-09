@@ -1,0 +1,7 @@
+Controller/
+DependencyInjection/
+Elastica/
+EventListener/
+Resources/
+MajesSearchBundle.php
+composer.json

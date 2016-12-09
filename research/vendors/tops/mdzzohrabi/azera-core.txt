@@ -1,0 +1,11 @@
+.idea/
+Tests/
+.gitignore
+Collection.php
+LICENSE
+PropertyAccessor.php
+String.php
+StringBuilder.php
+StringUtil.php
+composer.json
+phpunit.xml.dist

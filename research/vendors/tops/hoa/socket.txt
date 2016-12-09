@@ -1,0 +1,13 @@
+Connection/
+Exception/
+Test/Unit/
+.State
+.gitignore
+CHANGELOG.md
+Client.php
+Node.php
+README.md
+Server.php
+Socket.php
+Transport.php
+composer.json

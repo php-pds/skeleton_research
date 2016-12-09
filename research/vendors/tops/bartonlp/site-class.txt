@@ -1,0 +1,13 @@
+docs/
+examples/
+includes/
+tests/
+.gitignore
+LICENSE
+README.html
+README.md
+composer.json
+index.html
+mk-html.sh
+mysitemap.json.php
+mysql.schema

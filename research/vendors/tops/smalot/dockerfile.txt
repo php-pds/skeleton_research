@@ -1,0 +1,7 @@
+src/Smalot/Docker/Dockerfile/
+.gitattributes
+.gitignore
+LICENSE
+README.md
+composer.json
+sample.yml

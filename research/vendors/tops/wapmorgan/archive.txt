@@ -1,0 +1,6 @@
+output/
+tests/
+README.md
+archive.bat
+archive.php
+composer.json

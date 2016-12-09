@@ -1,0 +1,9 @@
+DQL/
+DependencyInjection/
+Resources/config/Doctrine/
+Tests/
+Types/
+AlamedaDoctrineExtensionsBundle.php
+LICENSE
+README.md
+composer.json

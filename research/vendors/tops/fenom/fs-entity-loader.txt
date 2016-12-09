@@ -1,0 +1,7 @@
+src/Fenom/
+tests/
+.gitignore
+README.md
+authors.md
+composer.json
+phpunit.xml.dist

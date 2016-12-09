@@ -1,0 +1,6 @@
+src/Jinggo/S3/
+tests/
+.gitignore
+.travis.yml
+composer.json
+phpunit.xml

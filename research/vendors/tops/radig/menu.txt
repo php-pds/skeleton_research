@@ -1,0 +1,8 @@
+Config/
+Controller/Component/
+Model/
+Test/Case/
+View/
+webroot/
+LICENCA
+composer.json

@@ -1,0 +1,8 @@
+components/
+controllers/
+generators/
+models/
+.gitattributes
+.gitignore
+README.md
+composer.json

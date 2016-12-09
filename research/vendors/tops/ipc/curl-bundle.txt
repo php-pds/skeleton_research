@@ -1,0 +1,13 @@
+tests/
+.gitignore
+CurlRequest.php
+JsonRequest.php
+LICENSE
+MultiCurlHandler.php
+RequestException.php
+RequestInterface.php
+Response.php
+ResponseBuilder.php
+XmlRequest.php
+composer.json
+phpunit.xml.dist

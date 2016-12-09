@@ -1,0 +1,13 @@
+Command/
+Consumer/
+DependencyInjection/
+Model/
+Producer/
+Resources/
+.gitignore
+BrueryKafkaBundle.php
+CODE_OF_CONDUCT.md
+CONTRIBUTING.md
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,3 @@
+lib/Weasty/Doctrine/
+.gitignore
+composer.json

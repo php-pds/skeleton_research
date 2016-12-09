@@ -1,0 +1,5 @@
+docs/
+src/VirtualIdentity/TwitterBundle/
+LICENSE
+README.md
+composer.json

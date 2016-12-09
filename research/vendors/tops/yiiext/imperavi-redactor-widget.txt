@@ -1,0 +1,8 @@
+assets/
+.gitignore
+ImperaviRedactorWidget.php
+changelog.md
+composer.json
+license.md
+readme.md
+readme_ru.md

@@ -1,0 +1,9 @@
+data/
+spec/Franzl/Lti/
+src/
+.gitattributes
+.gitignore
+.travis.yml
+COPYING
+README.md
+composer.json

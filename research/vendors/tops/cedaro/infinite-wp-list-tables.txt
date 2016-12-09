@@ -1,0 +1,8 @@
+assets/js/vendor/
+languages/
+.gitignore
+Gruntfile.js
+README.md
+composer.json
+infinite-wp-list-tables.php
+package.json

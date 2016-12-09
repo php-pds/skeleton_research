@@ -1,0 +1,8 @@
+Controller/
+DependencyInjection/
+Entity/
+Repository/
+Resources/
+Tests/Controller/
+DyweeNotificationBundle.php
+composer.json

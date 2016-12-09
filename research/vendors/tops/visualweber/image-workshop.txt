@@ -1,0 +1,7 @@
+fixtures/
+src/PHPImageWorkshop/
+tests/
+LICENCE.txt
+README.md
+composer.json
+phpunit.xml.dist

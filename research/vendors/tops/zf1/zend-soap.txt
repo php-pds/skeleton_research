@@ -1,0 +1,4 @@
+library/Zend/Soap/
+LICENSE.txt
+README.md
+composer.json

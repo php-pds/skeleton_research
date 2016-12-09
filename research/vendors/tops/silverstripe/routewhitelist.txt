@@ -1,0 +1,14 @@
+_config/
+code/
+extra/
+tests/
+.gitattributes
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CONTRIBUTING.md
+LICENSE
+README.md
+changelog.md
+code-of-conduct.md
+composer.json

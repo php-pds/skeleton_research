@@ -1,0 +1,10 @@
+src/udokmeci/yii2beanstalk/
+tests/
+.gitattributes
+.gitignore
+.travis.yml
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist
+test.sh

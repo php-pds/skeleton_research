@@ -1,0 +1,7 @@
+bin/
+plans/
+src/Scryphp/
+.gitignore
+README.md
+composer.json
+composer.lock

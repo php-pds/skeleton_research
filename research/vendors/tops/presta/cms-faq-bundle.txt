@@ -1,0 +1,14 @@
+Admin/
+Block/
+DependencyInjection/
+Entity/
+Resources/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CHANGELOG.md
+CONTRIBUTING.md
+Makefile
+PrestaCMSFAQBundle.php
+README.md
+composer.json

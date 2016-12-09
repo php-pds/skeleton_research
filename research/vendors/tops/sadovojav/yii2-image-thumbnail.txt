@@ -1,0 +1,5 @@
+.gitignore
+AssetBundle.php
+README.md
+Thumbnail.php
+composer.json

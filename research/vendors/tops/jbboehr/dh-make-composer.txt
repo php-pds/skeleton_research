@@ -1,0 +1,10 @@
+bin/
+debian/
+src/
+.editorconfig
+.gitignore
+LICENSE.GPL.md
+LICENSE.md
+README.md
+composer.json
+composer.lock

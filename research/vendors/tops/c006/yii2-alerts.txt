@@ -1,0 +1,8 @@
+assets/
+views/
+.gitattributes
+.gitignore
+Alerts.php
+LICENSE
+README.md
+composer.json

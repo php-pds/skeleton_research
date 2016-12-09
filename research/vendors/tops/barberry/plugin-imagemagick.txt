@@ -1,0 +1,9 @@
+src/Barberry/Plugin/Imagemagick/
+test/
+tmp/
+.gitignore
+.travis.yml
+README.md
+composer.json
+phpunit
+phpunit.xml

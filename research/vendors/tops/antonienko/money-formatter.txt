@@ -1,0 +1,9 @@
+lib/
+tests/
+.gitignore
+.scrutinizer.yml
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist
+shippable.yml

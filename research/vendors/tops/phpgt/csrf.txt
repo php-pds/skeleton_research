@@ -1,0 +1,11 @@
+src/csrf/
+test/unit/
+.gitignore
+.php_cs
+.scrutinizer.yml
+LICENSE
+README.md
+circle.yml
+composer.json
+composer.lock
+phpunit.xml

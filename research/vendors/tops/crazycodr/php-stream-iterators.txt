@@ -1,0 +1,12 @@
+docs/
+src/CrazyCodr/Stream/
+tests/CrazyCodr/Stream/
+.gitattributes
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.php
+phpunit.xml

@@ -1,0 +1,11 @@
+bin/
+src/EasyBib/Travis/Artifacts/
+tests/EasyBib/Test/Travis/Artifacts/
+.gitignore
+.travis.yml
+LICENSE.txt
+Makefile
+README.md
+TODO.md
+composer.json
+phpunit.xml

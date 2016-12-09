@@ -1,0 +1,3 @@
+src/AdamQuaile/Silex/AutoDocs/
+README.md
+composer.json

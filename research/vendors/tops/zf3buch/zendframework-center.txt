@@ -1,0 +1,13 @@
+config/
+data/cache/
+module/Application/
+public/
+script/
+.gitignore
+Dockerfile
+LICENSE.txt
+README.md
+Vagrantfile
+ZEND-LICENSE.txt
+composer.json
+docker-compose.yml

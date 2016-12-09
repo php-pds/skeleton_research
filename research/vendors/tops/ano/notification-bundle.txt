@@ -1,0 +1,10 @@
+DependencyInjection/
+Event/
+Mailer/
+Model/
+Notifier/
+Repository/
+Resources/config/
+AnoNotificationBundle.php
+AnoNotificationEvents.php
+composer.json

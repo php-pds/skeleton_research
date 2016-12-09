@@ -1,0 +1,9 @@
+library/ZendXml/
+tests/
+.gitignore
+.travis.yml
+CHANGELOG.md
+CONDUCT.md
+LICENSE.md
+README.md
+composer.json

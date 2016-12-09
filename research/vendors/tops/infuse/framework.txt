@@ -1,0 +1,17 @@
+app/
+assets/
+config/
+public/
+views/
+.coveralls.yml
+.gitignore
+.travis.yml
+Gruntfile.js
+LICENSE
+README.md
+composer.json
+config-example.php
+infuse
+package.json
+phinx.php
+phpunit.xml

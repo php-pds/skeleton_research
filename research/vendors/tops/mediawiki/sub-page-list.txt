@@ -1,0 +1,17 @@
+build/travis/
+doc/
+i18n/
+src/
+tests/
+.gitignore
+.gitreview
+.scrutinizer.yml
+.travis.yml
+COPYING
+README.md
+SubPageList.i18n.magic.php
+SubPageList.i18n.php
+SubPageList.php
+SubPageList.settings.php
+composer.json
+phpunit.xml.dist

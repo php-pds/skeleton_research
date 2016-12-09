@@ -1,0 +1,11 @@
+Controller/
+Crud/
+DataFixtures/Install/
+DependencyInjection/
+Form/Type/
+Resources/
+Service/
+LICENSE
+PanelBundle.php
+README.md
+composer.json

@@ -1,0 +1,9 @@
+spec/
+src/
+.editorconfig
+.gitignore
+.lin3s_cs.yml.dist
+.travis.yml
+LICENSE
+README.md
+composer.json

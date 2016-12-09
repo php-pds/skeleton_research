@@ -1,0 +1,7 @@
+assets/tinymce4/plugins/advlist/
+system/modules/TinyMceAdvancedList/
+.gitattributes
+.gitignore
+README.md
+composer.json
+screenshot.jpg

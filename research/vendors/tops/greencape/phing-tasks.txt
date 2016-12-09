@@ -1,0 +1,11 @@
+build/
+docs/
+src/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+tasks.properties

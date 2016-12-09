@@ -1,0 +1,7 @@
+spec/Humbug/PhpSpec/
+src/Humbug/PhpSpec/
+.gitignore
+LICENSE
+README.md
+composer.json
+phpspec.yml

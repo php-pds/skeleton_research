@@ -1,0 +1,3 @@
+src/GridoExt/
+README.md
+composer.json

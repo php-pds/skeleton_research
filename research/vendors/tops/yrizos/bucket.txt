@@ -1,0 +1,9 @@
+examples/
+src/Bucket/
+tests/
+.gitattributes
+.gitignore
+.travis.yml
+composer.json
+license
+readme.md

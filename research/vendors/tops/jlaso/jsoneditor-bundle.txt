@@ -1,0 +1,8 @@
+DependencyInjection/
+Form/Type/
+Resources/
+Twig/Extension/
+.gitignore
+JlasoJsoneditorBundle.php
+README.md
+composer.json

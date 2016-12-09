@@ -1,0 +1,5 @@
+src/
+.gitignore
+.jshintrc
+README.md
+composer.json

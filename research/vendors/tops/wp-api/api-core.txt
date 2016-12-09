@@ -1,0 +1,16 @@
+bin/
+phpunit/
+wp-includes/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+Gruntfile.js
+README.md
+codecoverage.xml
+composer.json
+license.txt
+multisite.xml
+package.json
+phpcs.ruleset.xml
+phpunit.xml.dist
+rest-api.php

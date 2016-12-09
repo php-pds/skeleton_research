@@ -1,0 +1,9 @@
+src/AssetLoader/
+tests/
+.gitattributes
+.gitignore
+.php_cs
+composer.json
+contributing.md
+license.md
+readme.md

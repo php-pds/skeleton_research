@@ -1,0 +1,14 @@
+Controller/
+DependencyInjection/
+EventListener/
+Model/
+Resources/
+Service/
+Tests/
+Twig/Extension/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+XiBreadcrumbsBundle.php
+composer.json

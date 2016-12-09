@@ -1,0 +1,6 @@
+Mail/
+docs/
+tests/
+build.xml
+composer.json
+package.xml

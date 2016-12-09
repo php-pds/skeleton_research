@@ -1,0 +1,13 @@
+Console/
+DependencyInjection/
+HttpKernel/
+Resources/config/
+Routing/
+Silex/
+Tests/
+.gitignore
+LICENSE
+README.md
+SilexBundle.php
+composer.json
+phpunit.xml.dist

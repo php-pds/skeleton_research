@@ -1,0 +1,15 @@
+.app/
+css/
+img/
+js/
+.gitignore
+.htaccess
+.travis.yml
+LICENSE
+README.md
+appcache.manifest
+composer.json
+favicon.ico
+index.php
+phpspec.yml
+phpunit.xml

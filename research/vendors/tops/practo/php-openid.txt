@@ -1,0 +1,13 @@
+Auth/
+Tests/
+admin/
+contrib/
+examples/
+.gitignore
+CHANGES-2.1.0
+COPYING
+NEWS
+README
+README.Debian
+README.git
+composer.json

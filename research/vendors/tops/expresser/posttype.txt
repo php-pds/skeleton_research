@@ -1,0 +1,13 @@
+Traits/
+.editorconfig
+Attachment.php
+Base.php
+Factory.php
+Image.php
+Native.php
+Page.php
+Pdf.php
+Post.php
+Query.php
+README.md
+composer.json

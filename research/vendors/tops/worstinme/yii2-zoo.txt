@@ -1,0 +1,15 @@
+applications/default/
+assets/
+backend/
+behaviors/
+elements/
+helpers/
+messages/en/
+migrations/
+models/
+widgets/
+Component.php
+Controller.php
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,8 @@
+Generator/
+data/
+.gitattributes
+.gitignore
+Exception.php
+README.md
+Waveform.php
+composer.json

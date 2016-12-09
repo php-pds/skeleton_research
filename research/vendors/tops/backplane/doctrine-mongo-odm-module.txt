@@ -1,0 +1,12 @@
+.travis/
+config/
+doc/
+src/DoctrineMongoODMModule/
+tests/
+view/zend-developer-tools/toolbar/
+.gitignore
+.travis.yml
+LICENSE
+Module.php
+README.md
+composer.json

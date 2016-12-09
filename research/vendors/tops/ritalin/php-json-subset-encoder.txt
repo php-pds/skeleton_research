@@ -1,0 +1,6 @@
+src/
+tests/
+.bzrignore
+LICENSE
+README.md
+composer.json

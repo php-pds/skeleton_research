@@ -1,0 +1,10 @@
+helpers/
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+MigrationsHelperPlugin.php
+README.md
+composer.json
+phpunit.xml.dist

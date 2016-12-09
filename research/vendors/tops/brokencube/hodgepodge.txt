@@ -1,0 +1,5 @@
+lib/HodgePodge/
+test/
+LICENSE
+README.md
+composer.json

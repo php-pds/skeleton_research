@@ -1,0 +1,4 @@
+lib/Skeleton/Error/
+LICENSE
+README.md
+composer.json

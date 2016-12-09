@@ -1,0 +1,5 @@
+Migrations/
+Models/
+AuthException.php
+Manager.php
+composer.json

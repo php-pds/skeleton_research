@@ -1,0 +1,17 @@
+Classes/
+Configuration/
+Resources/Private/
+Tests/
+.editorconfig
+.gitignore
+.travis.yml
+LICENSE.md
+README.md
+class.ext_update.php
+composer.json
+ext_emconf.php
+ext_icon.gif
+ext_localconf.php
+ext_tables.php
+ext_tables.sql
+phpunit.xml.dist

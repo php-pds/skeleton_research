@@ -1,0 +1,3 @@
+src/Bazo/Monolog/
+.gitignore
+composer.json

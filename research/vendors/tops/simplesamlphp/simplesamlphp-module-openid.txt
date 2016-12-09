@@ -1,0 +1,7 @@
+dictionaries/
+lib/
+templates/
+www/
+LICENSE
+composer.json
+default-enable

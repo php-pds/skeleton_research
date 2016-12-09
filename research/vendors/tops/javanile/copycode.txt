@@ -1,0 +1,5 @@
+src/Javanile/Copycode/
+LICENSE
+README.md
+composer.json
+copycode

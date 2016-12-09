@@ -1,0 +1,4 @@
+Classes/Famelo/Faces/
+Tests/
+.gitignore
+composer.json

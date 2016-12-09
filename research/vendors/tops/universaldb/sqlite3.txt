@@ -1,0 +1,7 @@
+Connector/
+Driver/
+.gitignore
+Platform.php
+SchemaManager.php
+composer.json
+mydb.sq3

@@ -1,0 +1,8 @@
+DependencyInjection/
+Resources/config/
+Services/
+lib/
+.gitignore
+OpenTBSBundle.php
+README.md
+composer.json

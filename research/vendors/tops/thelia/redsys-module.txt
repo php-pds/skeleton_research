@@ -1,0 +1,13 @@
+Api/
+Config/
+Controller/
+EventListener/
+Form/
+Hook/
+I18n/
+images/
+templates/backOffice/default/redsys/
+LICENSE.txt
+README.md
+Redsys.php
+composer.json

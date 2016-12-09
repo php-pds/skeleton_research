@@ -1,0 +1,16 @@
+DependencyInjection/
+Form/Type/
+Resources/
+Templating/
+Tests/
+Twig/
+.coveralls.yml
+.gitattributes
+.gitignore
+.styleci.yml
+.travis.yml
+CONTRIBUTING.md
+FMTinyMCEBundle.php
+README.md
+composer.json
+phpunit.xml.dist

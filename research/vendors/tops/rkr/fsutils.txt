@@ -1,0 +1,5 @@
+src/fsutils/
+.gitignore
+LICENSE
+README.md
+composer.json

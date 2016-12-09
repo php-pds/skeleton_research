@@ -1,0 +1,7 @@
+Request/
+Tests/
+.travis.yml
+Client.php
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,7 @@
+languages/
+.gitignore
+CPT_Core.php
+Gruntfile.js
+README.md
+composer.json
+package.json

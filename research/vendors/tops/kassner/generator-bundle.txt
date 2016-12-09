@@ -1,0 +1,6 @@
+src/Kassner/GeneratorBundle/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock

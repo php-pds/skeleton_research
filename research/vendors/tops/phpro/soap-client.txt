@@ -1,0 +1,12 @@
+bin/
+docs/
+spec/Phpro/SoapClient/
+src/Phpro/SoapClient/
+test/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+grumphp.yml
+phpunit.xml

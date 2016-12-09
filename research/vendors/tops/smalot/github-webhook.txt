@@ -1,0 +1,5 @@
+src/Smalot/Github/Webhook/
+.gitignore
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,10 @@
+Admin/
+DependencyInjection/
+Document/
+Entity/
+Form/Type/
+Model/
+Resources/
+README.md
+RzTaxonomiesBundle.php
+composer.json

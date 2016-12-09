@@ -1,0 +1,16 @@
+actions/
+data/items/
+fontConversion/assets/
+forms/
+helper/
+includes/
+locales/en-US/
+models/
+scripts/
+studentToolGenerator/template/
+views/
+.gitignore
+LICENSE
+README.md
+composer.json
+manifest.php

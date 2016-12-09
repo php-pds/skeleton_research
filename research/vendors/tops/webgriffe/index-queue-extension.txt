@@ -1,0 +1,11 @@
+magento-bash-ci @ 61a5a09
+src/
+.gitignore
+.gitmodules
+.travis.yml
+README.md
+Webgriffe_IndexQueue.xml
+composer.json
+modman
+params.sh.dist
+travis.ci.sh

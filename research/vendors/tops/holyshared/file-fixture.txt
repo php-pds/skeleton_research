@@ -1,0 +1,15 @@
+example/
+spec/
+src/
+.cloak.toml
+.coveralls.toml
+.editorconfig
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+RoboFile.php
+art.png
+composer.json
+peridot.php

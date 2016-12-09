@@ -1,0 +1,15 @@
+controllers/admin/
+extend/
+models/
+out/admin/src/css/
+translations/
+views/admin/
+Install.sql
+LICENSE
+README.md
+Readme.txt
+composer.json
+events.php
+menu.xml
+metadata.php
+picture.jpg

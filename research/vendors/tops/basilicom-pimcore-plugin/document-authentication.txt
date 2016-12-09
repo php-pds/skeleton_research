@@ -1,0 +1,6 @@
+lib/DocumentAuthentication/
+.gitignore
+LICENSE
+README.md
+composer.json
+plugin.xml

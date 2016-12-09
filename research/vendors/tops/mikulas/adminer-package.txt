@@ -1,0 +1,3 @@
+build-repo.php
+composer.json
+readme.md

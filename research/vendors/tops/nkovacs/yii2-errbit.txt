@@ -1,0 +1,6 @@
+ConsoleErrorHandler.php
+ErrorHandlerTrait.php
+README.md
+UserInfoInterface.php
+WebErrorHandler.php
+composer.json

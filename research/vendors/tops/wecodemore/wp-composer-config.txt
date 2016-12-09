@@ -1,0 +1,7 @@
+ci/
+src/
+.gitignore
+README.md
+composer-run-script.gif
+composer.json
+composer.lock

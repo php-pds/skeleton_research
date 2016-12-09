@@ -1,0 +1,5 @@
+src/Novanova/VK/
+.gitignore
+LICENSE
+composer.json
+readme.md

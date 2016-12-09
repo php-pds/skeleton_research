@@ -1,0 +1,13 @@
+examples/
+src/
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+Gemfile
+Guardfile
+LICENSE
+Makefile
+README.md
+composer.json
+phpunit.xml.dist

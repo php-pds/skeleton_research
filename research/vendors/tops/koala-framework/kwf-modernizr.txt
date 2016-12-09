@@ -1,0 +1,12 @@
+Kwf/Modernizr/
+cache/
+tests/
+.gitignore
+.travis.yml
+COPYING
+README.md
+composer.json
+composer.lock
+dependencies.ini
+phpunit.xml
+tests.bootstrap.php

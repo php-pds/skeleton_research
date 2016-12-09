@@ -1,0 +1,10 @@
+commands/
+config/
+core/
+tests/
+.gitignore
+.travis.yml
+README.md
+bootstrap.php
+composer.json
+phpunit.xml

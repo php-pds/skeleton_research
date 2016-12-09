@@ -1,0 +1,7 @@
+Admin/
+Entity/
+Model/
+Resources/
+README.md
+WXRCategoryBundle.php
+composer.json

@@ -1,0 +1,5 @@
+sample/
+src/ProcessManager/
+tests/
+README.md
+composer.json

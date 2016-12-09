@@ -1,0 +1,6 @@
+src/hvasoares/RedisModelMapping/
+.gitignore
+Bootstrap.php
+composer.json
+composer.lock
+phpunit.xml

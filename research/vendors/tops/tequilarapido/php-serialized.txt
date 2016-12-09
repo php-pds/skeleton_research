@@ -1,0 +1,9 @@
+src/Tequilarapido/PHPSerialized/
+tests/
+.gitattributes
+.gitignore
+.travis.yml
+LICENCE
+README.md
+codeception.yml
+composer.json

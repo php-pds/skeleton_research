@@ -1,0 +1,7 @@
+BambooHR/API/
+LICENSE
+README.md
+composer.json
+examples.php
+test_import.xml
+trax.php

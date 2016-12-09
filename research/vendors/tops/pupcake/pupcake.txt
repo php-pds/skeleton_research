@@ -1,0 +1,6 @@
+src/Pupcake/
+tests/
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

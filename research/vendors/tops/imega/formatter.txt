@@ -1,0 +1,14 @@
+src/iMega/Formatter/
+tests/
+.editorconfig
+.gitignore
+.scrutinizer.yml
+.travis.yml
+Dockerfile
+LICENSE.txt
+Makefile
+README.md
+circle.yml
+composer.json
+composer.lock
+phpunit.xml.dist

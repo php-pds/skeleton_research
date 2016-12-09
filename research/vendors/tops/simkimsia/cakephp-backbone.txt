@@ -1,0 +1,6 @@
+Config/
+Controller/Component/
+View/Backbone/
+webroot/js/lib/
+README.mdown
+composer.json

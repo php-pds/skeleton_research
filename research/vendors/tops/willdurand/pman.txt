@@ -1,0 +1,6 @@
+bin/
+.gitignore
+Dockerfile
+LICENSE.md
+README.md
+composer.json

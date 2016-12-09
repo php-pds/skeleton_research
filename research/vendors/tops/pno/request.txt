@@ -1,0 +1,13 @@
+Exception/
+.gitignore
+AcceptHeader.php
+AcceptHeaderItem.php
+ApacheRequest.php
+IpUtils.php
+README.md
+Request.php
+RequestMatcher.php
+RequestMatcherInterface.php
+RequestStack.php
+composer.json
+phpunit.xml.dist

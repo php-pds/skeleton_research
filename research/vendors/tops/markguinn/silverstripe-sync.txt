@@ -1,0 +1,16 @@
+_config/
+client-adapters/
+code/
+docs/en/
+tests/
+.editorconfig
+.gitattributes
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+_config.php
+_sync_types.php
+composer.json
+server_time.php

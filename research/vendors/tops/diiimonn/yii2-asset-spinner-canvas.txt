@@ -1,0 +1,4 @@
+README.md
+SpinnerCanvasAsset.php
+SpinnerExCanvasAsset.php
+composer.json

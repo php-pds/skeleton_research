@@ -1,0 +1,11 @@
+bin/
+features/
+src/Dami/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+config.yml
+phpunit.xml.dist

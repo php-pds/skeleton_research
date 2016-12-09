@@ -1,0 +1,8 @@
+DependencyInjection/
+Resources/
+SessionStorage/
+.gitignore
+LICENSE
+README.md
+VesaxAjaxCrossDomainSessionBundle.php
+composer.json

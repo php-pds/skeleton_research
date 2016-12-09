@@ -1,0 +1,4 @@
+Classes/Command/
+Resources/Private/
+README.md
+composer.json

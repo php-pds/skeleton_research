@@ -1,0 +1,16 @@
+controllers/
+helpers/
+migrations/
+models/
+records/
+resources/
+services/
+templates/
+translations/
+twigextensions/
+variables/
+AmSearchPlugin.php
+README.md
+composer.json
+config.php
+releases.json

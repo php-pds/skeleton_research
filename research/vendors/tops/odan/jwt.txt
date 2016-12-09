@@ -1,0 +1,6 @@
+src/Jwt/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json

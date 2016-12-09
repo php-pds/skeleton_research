@@ -1,0 +1,10 @@
+Command/
+DependencyInjection/
+Resources/config/
+Service/
+Util/
+BubnovTensorFlowBundle.php
+README.md
+TensorFlowBinaryInstaller.php
+composer-platform-specific.json
+composer.json

@@ -1,0 +1,6 @@
+js/
+lib/View/
+templates/
+.gitignore
+README.md
+composer.json

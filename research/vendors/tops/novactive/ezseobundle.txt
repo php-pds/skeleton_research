@@ -1,0 +1,15 @@
+Command/
+Controller/
+Core/
+DependencyInjection/
+Resources/
+Tests/
+Twig/
+build/.travis/
+ezpublish_legacy/novaseo/
+.travis.yml
+LICENSE
+NovaeZSEOBundle.php
+README.md
+composer.json
+phpunit.xml.dist

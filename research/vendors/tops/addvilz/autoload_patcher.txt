@@ -1,0 +1,5 @@
+src/Addvilz/AutoloadPatcher/
+.gitignore
+LICENSE.txt
+README.md
+composer.json

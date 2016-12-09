@@ -1,0 +1,8 @@
+src/MagdKudama/PhaticBlogExtension/
+.gitignore
+.travis.yml
+LICENSE.md
+README.md
+composer.json
+composer.lock
+phpunit.xml

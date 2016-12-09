@@ -1,0 +1,6 @@
+handlers/
+.gitignore
+LICENSE
+Newrelic.php
+README.md
+composer.json

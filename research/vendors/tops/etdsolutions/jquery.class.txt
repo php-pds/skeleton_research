@@ -1,0 +1,5 @@
+LICENSE
+README.md
+composer.json
+jquery.class.js
+jquery.class.min.js

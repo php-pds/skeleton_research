@@ -1,0 +1,16 @@
+DependencyInjection/
+Event/
+Exception/
+Factory/
+Gateway/
+Helper/
+Resources/config/
+.gitignore
+.travis.yml
+LICENSE
+MailMotor.php
+MailMotorMailMotorBundle.php
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

@@ -1,0 +1,7 @@
+src/Speak/
+tests/Speak/
+.gitignore
+.travis.yml
+Makefile
+README.md
+composer.json

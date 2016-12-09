@@ -1,0 +1,12 @@
+_config/
+code/
+images/
+templates/Includes/
+.editorconfig
+.gitattributes
+.gitignore
+.scrutinizer.yml
+README.md
+_config.php
+composer.json
+license.md

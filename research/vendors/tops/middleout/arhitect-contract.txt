@@ -1,0 +1,5 @@
+src/Arhitect/Contract/
+.gitignore
+LICENSE
+composer.json
+post-install.md

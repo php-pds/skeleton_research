@@ -1,0 +1,6 @@
+Command/
+Resources/skeleton/
+.gitignore
+MvCrudGeneratorBundle.php
+README.md
+composer.json

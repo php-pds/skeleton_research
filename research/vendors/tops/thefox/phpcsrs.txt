@@ -1,0 +1,8 @@
+Standards/TheFox/
+src/TheFox/Test/
+.editorconfig
+.gitignore
+Makefile
+README.md
+composer.json
+phpcsrs.sublime-project

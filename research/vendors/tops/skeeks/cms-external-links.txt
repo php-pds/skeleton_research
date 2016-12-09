@@ -1,0 +1,9 @@
+_ide/
+config/
+forms/
+CHANGELOG.md
+CmsExternalLinksComponent.php
+CmsSettingsExternalLinksComponent.php
+LICENSE
+README.md
+composer.json

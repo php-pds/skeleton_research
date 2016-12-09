@@ -1,0 +1,6 @@
+phplot/
+phplotdocs/
+phplottest/
+LICENSE
+README.txt
+composer.json

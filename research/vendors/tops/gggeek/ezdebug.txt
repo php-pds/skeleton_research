@@ -1,0 +1,11 @@
+autoloads/
+design/standard/
+doc/
+pake/
+settings/
+.gitignore
+LICENSE
+README
+composer.json
+extension.xml
+ezinfo.php

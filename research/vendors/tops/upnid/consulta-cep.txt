@@ -1,0 +1,6 @@
+examples/
+src/ConsultaCep/
+.gitignore
+LICENSE
+README.md
+composer.json

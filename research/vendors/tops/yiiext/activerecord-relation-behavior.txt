@@ -1,0 +1,8 @@
+.gitignore
+.travis.yml
+EActiveRecordRelationBehavior.php
+EActiveRecordRelationBehaviorTest.php
+LICENSE
+README.md
+README.ru.md
+composer.json

@@ -1,0 +1,10 @@
+build/
+src/
+tests/
+.gitattributes
+.gitignore
+ChangeLog.md
+LICENSE
+README.md
+build.xml
+composer.json

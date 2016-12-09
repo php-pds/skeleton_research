@@ -1,0 +1,14 @@
+.gitignore
+README.md
+base-sample-project-images-on-revision-1.sh
+composer.json
+create-changelog-to-go-from-old-to-new.sh
+expose-filesystem-root.sh
+generate-dockerfile.sh
+generate-sample-project.sh
+modify-sample-project.sh
+process-image-diff.docker-compose.yml
+rsync-image-diff.docker-compose.yml
+shell.Dockerfile
+shell.docker-compose.yml
+template.Dockerfile

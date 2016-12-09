@@ -1,0 +1,12 @@
+DependencyInjection/
+Resources/
+Tests/
+.editorconfig
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CLSlackBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

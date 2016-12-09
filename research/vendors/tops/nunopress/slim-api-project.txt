@@ -1,0 +1,7 @@
+private/src/
+public/
+shared/
+.gitattributes
+.gitignore
+README.md
+composer.json

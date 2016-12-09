@@ -1,0 +1,7 @@
+bin/
+src/
+.gitignore
+box.json
+composer.json
+composer.lock
+index.php

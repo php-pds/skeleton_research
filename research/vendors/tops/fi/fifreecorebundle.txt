@@ -1,0 +1,16 @@
+app/
+doc/
+features/bootstrap/
+nbproject/
+src/Fi/CoreBundle/
+tools/
+web/
+.coveralls.yml
+.gitignore
+.travis.yml
+README.md
+behat.yml
+build.xml
+composer.json
+phpunit.xml.dist
+travis.php.ini

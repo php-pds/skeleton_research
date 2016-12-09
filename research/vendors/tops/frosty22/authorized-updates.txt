@@ -1,0 +1,3 @@
+src/AuthorizedUpdates/
+README.md
+composer.json

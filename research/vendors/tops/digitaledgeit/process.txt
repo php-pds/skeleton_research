@@ -1,0 +1,6 @@
+src/deit/process/
+tests/
+.gitignore
+composer.json
+composer.lock
+phpunit.xml

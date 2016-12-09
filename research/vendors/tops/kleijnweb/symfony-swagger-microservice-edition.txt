@@ -1,0 +1,13 @@
+app/
+src/PetStoreBundle/
+web/
+.env.dist
+.gitignore
+.travis.yml
+Dockerfile
+LICENSE
+README.md
+composer.json
+kickstart.sh
+nginx.tmpl
+php.ini

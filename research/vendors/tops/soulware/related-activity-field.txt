@@ -1,0 +1,7 @@
+files/custom/
+scripts/
+.gitignore
+LICENSE.txt
+composer.json
+manifest.php
+readme.md

@@ -1,0 +1,4 @@
+src/
+.php.tags
+README.md
+composer.json

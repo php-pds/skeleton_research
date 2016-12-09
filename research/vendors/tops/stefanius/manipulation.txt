@@ -1,0 +1,5 @@
+src/Stefanius/Manipulation/
+.gitignore
+README.md
+composer.json
+composer.lock

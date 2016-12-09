@@ -1,0 +1,17 @@
+commands/
+components/
+config/
+controllers/
+external/
+gii/
+migrations/
+models/
+runtime/
+tests/
+views/
+widgets/
+SnapCMSModule.php
+composer.json
+yiic
+yiic.bat
+yiic.php

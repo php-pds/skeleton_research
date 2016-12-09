@@ -1,0 +1,5 @@
+src/Splitice/Locking/
+.gitignore
+LICENSE
+README.md
+composer.json

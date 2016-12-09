@@ -1,0 +1,17 @@
+Adapter/
+Command/
+DependencyInjection/
+Event/
+Helper/
+Queue/
+Resources/config/
+Service/
+Tests/
+.gitignore
+.travis.yml
+KaliopQueueingBundle.php
+LICENSE
+composer.json
+news.md
+phpunit.xml.dist
+readme.md

@@ -1,0 +1,12 @@
+Command/
+Controller/
+DependencyInjection/
+Resources/
+Tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+huitiemesensSonataAdminGeneratorBundle.php
+phpunit.xml.dist

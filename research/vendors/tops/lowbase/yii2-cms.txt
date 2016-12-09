@@ -1,0 +1,15 @@
+admin/
+assets/
+config/
+controllers/
+migrations/
+models/
+runtime/
+views/
+web/
+.bowerrc
+.gitignore
+LICENSE.md
+README.md
+composer.json
+yii

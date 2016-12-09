@@ -1,0 +1,8 @@
+LICENSE
+README.md
+SocialAssetBirman.php
+SocialAssetClassic.php
+SocialAssetFlat.php
+SocialAssetJs.php
+SocialLikes.php
+composer.json

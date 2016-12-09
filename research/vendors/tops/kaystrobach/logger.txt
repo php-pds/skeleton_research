@@ -1,0 +1,7 @@
+Classes/KayStrobach/Logger/Domain/
+Configuration/
+Migrations/Mysql/
+Tests/Unit/Domain/Model/
+LICENSE
+README.md
+composer.json

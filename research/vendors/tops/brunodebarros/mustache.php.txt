@@ -1,0 +1,14 @@
+bin/
+src/Mustache/
+test/
+vendor/
+.gitignore
+.gitmodules
+.php_cs
+.styleci.yml
+.travis.yml
+CONTRIBUTING.md
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

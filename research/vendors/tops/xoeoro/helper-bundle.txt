@@ -1,0 +1,7 @@
+DependencyInjection/
+Resources/config/
+Service/
+Tests/
+README.md
+XoeoroHelperBundle.php
+composer.json

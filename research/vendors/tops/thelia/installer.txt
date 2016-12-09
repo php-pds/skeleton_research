@@ -1,0 +1,4 @@
+src/Thelia/Composer/
+.gitignore
+Readme.md
+composer.json

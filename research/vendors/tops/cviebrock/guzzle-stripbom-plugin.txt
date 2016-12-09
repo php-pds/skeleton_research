@@ -1,0 +1,6 @@
+src/Cviebrock/Guzzle/Plugin/StripBom/
+.gitignore
+CHANGELOG.md
+LICENSE
+README.md
+composer.json

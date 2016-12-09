@@ -1,0 +1,16 @@
+assets/
+controllers/
+dist/js/
+js/
+messages/zh-CN/
+migrations/
+models/
+widgets/
+.babelrc
+.gitignore
+LICENSE
+Module.php
+README.md
+composer.json
+gulpfile.babel.js
+package.json

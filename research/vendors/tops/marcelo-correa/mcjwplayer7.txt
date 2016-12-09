@@ -1,0 +1,6 @@
+config/
+public/assets/plugins/
+src/McJWPlayer7/
+Module.php
+README.md
+composer.json

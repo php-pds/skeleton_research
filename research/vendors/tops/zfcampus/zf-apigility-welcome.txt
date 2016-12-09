@@ -1,0 +1,12 @@
+asset/
+config/
+src/
+view/zf-apigility-welcome/
+.gitignore
+.php_cs
+.travis.yml
+CONTRIBUTING.md
+LICENSE.txt
+Module.php
+README.md
+composer.json

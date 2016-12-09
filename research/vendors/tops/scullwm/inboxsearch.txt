@@ -1,0 +1,7 @@
+src/
+tests/
+.atoum.bootstrap.php
+.atoum.php
+.gitignore
+composer.json
+readme.md

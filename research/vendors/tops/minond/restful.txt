@@ -1,0 +1,9 @@
+src/Efficio/Http/RESTful/
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

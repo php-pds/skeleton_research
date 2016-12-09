@@ -1,0 +1,11 @@
+bin/
+src/
+tests/
+.editorconfig
+.gitignore
+.npmignore
+README.md
+TESTING.md
+codeception.yml
+composer.json
+package.json

@@ -1,0 +1,12 @@
+Block/Cache/
+Controller/Adminhtml/Cache/
+Helper/
+Plugin/View/Layout/Generator/
+docs/img/
+etc/
+view/adminhtml/
+.gitignore
+README.md
+composer.json
+grumphp.yml
+registration.php

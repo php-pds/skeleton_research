@@ -1,0 +1,8 @@
+Abstracts/
+DependencyInjection/
+Wrapper/
+.scrutinizer.yml
+LICENSE
+OpenrootCronjobBundle.php
+README.md
+composer.json

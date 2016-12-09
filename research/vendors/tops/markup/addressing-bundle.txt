@@ -1,0 +1,13 @@
+Checker/
+Command/
+DependencyInjection/
+Resources/
+Tests/
+Validator/
+.gitignore
+.travis.yml
+LICENSE
+MarkupAddressingBundle.php
+README.md
+composer.json
+phpunit.xml.dist

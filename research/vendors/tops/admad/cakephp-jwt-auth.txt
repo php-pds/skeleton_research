@@ -1,0 +1,11 @@
+src/Auth/
+tests/
+.editorconfig
+.gitattributes
+.gitignore
+.styleci.yml
+.travis.yml
+LICENSE.txt
+README.md
+composer.json
+phpunit.xml.dist

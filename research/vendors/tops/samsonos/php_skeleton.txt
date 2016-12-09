@@ -1,0 +1,7 @@
+less/
+view/
+.gitignore
+Skeleton.php
+composer.json
+license.md
+readme.md

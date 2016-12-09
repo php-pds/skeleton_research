@@ -1,0 +1,11 @@
+styles/
+.gitignore
+LICENSE
+Makefile
+README.md
+bower.json
+component.json
+composer.json
+highlight.pack.js
+highlight.pack.min.js
+package.json

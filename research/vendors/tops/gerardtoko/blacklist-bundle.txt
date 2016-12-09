@@ -1,0 +1,10 @@
+DependencyInjection/
+EventListener/
+Provider/
+Resources/config/
+Tests/
+.gitignore
+GTBlackListBundle.php
+README.md
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,11 @@
+doc/
+example/
+src/Pixel418/
+test/
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENSE.md
+README.md
+composer.json
+phpunit.xml

@@ -1,0 +1,8 @@
+DependencyInjection/
+Form/
+Resources/
+.gitignore
+LICENSE
+NercuryTranslationEditorBundle.php
+README.md
+composer.json

@@ -1,0 +1,6 @@
+contao/
+src/ContaoOpenGraph/
+.gitignore
+composer.json
+opengraph-todo.md
+readme.md

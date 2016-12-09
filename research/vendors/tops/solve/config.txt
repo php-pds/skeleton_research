@@ -1,0 +1,7 @@
+Tests/
+.gitignore
+Config.php
+ConfigService.php
+LICENSE
+README.md
+composer.json

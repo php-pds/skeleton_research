@@ -1,0 +1,7 @@
+Controller/
+DependencyInjection/
+Library/
+Resources/
+README.md
+XoeoroPictureCutBundle.php
+composer.json

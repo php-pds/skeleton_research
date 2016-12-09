@@ -1,0 +1,7 @@
+assets/
+classes/
+resources/
+.gitignore
+composer.json
+license.txt
+wabbr.php

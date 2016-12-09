@@ -1,0 +1,8 @@
+js/
+.gitignore
+LICENSE.txt
+README.md
+ajax.php
+api.php
+composer.json
+index.php

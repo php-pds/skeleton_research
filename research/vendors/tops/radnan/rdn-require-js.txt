@@ -1,0 +1,7 @@
+config/
+src/RdnRequireJS/
+.gitignore
+LICENSE
+Module.php
+README.md
+composer.json

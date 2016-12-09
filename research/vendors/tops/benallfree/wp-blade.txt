@@ -1,0 +1,5 @@
+classes/
+composer.json
+plugin.php
+readme.md
+readme.txt

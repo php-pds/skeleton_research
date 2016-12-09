@@ -1,0 +1,8 @@
+Resources/config/doctrine/
+lib/PrintService/
+tests/
+.gitignore
+.travis.yml
+README.md
+composer.json
+phpunit.xml

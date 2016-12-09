@@ -1,0 +1,7 @@
+DependencyInjection/
+Mailer/
+Resources/config/
+.gitignore
+.gitlab-ci.yml
+PolifonicMailerBundle.php
+composer.json

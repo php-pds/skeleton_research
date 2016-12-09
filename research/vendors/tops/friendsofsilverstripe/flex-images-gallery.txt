@@ -1,0 +1,17 @@
+_config/
+code/
+css/
+images/
+javascript/
+scss/
+templates/Layout/
+tests/
+.editorconfig
+.gitignore
+.scrutinizer.yml
+.travis.yml
+README.md
+_config.php
+composer.json
+config.rb
+license.md

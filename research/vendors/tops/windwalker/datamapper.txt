@@ -1,0 +1,14 @@
+Entity/
+Test/
+.gitignore
+.travis.yml
+AbstractDataMapper.php
+AbstractDatabaseMapperProxy.php
+DataMapper.php
+DataMapperInterface.php
+DatabaseContainer.php
+DatabaseMapperInterface.php
+README.md
+composer.json
+phpunit.travis.xml
+phpunit.xml.dist

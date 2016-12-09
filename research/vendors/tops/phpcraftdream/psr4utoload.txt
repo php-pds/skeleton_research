@@ -1,0 +1,9 @@
+docs/
+src/
+tests/
+.gitignore
+README.md
+composer.json
+phpunit.xml
+win.composer.update.bat
+win.runtest.bat

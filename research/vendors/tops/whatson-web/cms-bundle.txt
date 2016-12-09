@@ -1,0 +1,8 @@
+Controller/
+DependencyInjection/
+Model/
+Repository/
+Resources/
+docs/
+WHCmsBundle.php
+composer.json

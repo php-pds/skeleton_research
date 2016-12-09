@@ -1,0 +1,9 @@
+Channel/
+Collector/
+Resources/
+SF/
+Notification.php
+Notifier.php
+NotifierInterface.php
+README.md
+composer.json

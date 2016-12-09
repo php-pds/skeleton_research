@@ -1,0 +1,13 @@
+Contributions/
+Controller/
+DependencyInjection/
+Extractor/
+Filtering/
+Handling/
+Resources/
+Tests/Unit/
+.gitignore
+.styleci.yml
+ModeraBackendTranslationsToolBundle.php
+README.md
+composer.json

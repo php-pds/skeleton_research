@@ -1,0 +1,8 @@
+discover/
+.gitignore
+LICENSE
+README.md
+TODO
+composer.json
+run.php
+test.php

@@ -1,0 +1,5 @@
+src/
+.gitignore
+composer-setup.php
+composer.json
+simple-phpexcel-reader.iml

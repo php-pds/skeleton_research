@@ -1,0 +1,4 @@
+src/Edefine/Framework/
+.gitignore
+composer.json
+phpunit.xml

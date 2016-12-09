@@ -1,0 +1,17 @@
+assets/images/
+facades/
+lang/
+models/
+providers/
+services/
+tests/
+updates/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+Plugin.php
+README.md
+composer.json
+composer.lock
+phpunit.xml

@@ -1,0 +1,8 @@
+Test/Case/
+View/Helper/
+.editorconfig
+.travis.yml
+CONTRIBUTING.md
+LICENSE.txt
+README.markdown
+composer.json

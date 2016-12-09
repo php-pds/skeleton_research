@@ -1,0 +1,9 @@
+cache/
+src/EscapeWork/Cache/
+tests/
+.gitignore
+.travis.yml
+composer.json
+composer.lock
+phpunit.xml
+readme.md

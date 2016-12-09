@@ -1,0 +1,11 @@
+controllers/
+migrations/
+models/
+views/default/
+.gitattributes
+.gitignore
+Bootstrap.php
+LICENSE.md
+Module.php
+README.md
+composer.json

@@ -1,0 +1,9 @@
+src/Offline/Asset/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+Readme.md
+composer.json
+composer.lock
+phpunit.xml

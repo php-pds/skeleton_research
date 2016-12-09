@@ -1,0 +1,13 @@
+example/
+src/
+tests/
+.gitattributes
+.gitignore
+.travis.yml
+CHANGELOG.md
+Gemfile
+Gemfile.lock
+LICENSE.md
+README.md
+composer.json
+phpunit.xml

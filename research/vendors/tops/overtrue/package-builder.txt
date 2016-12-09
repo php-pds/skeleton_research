@@ -1,0 +1,10 @@
+bin/
+src/
+.gitattributes
+.gitignore
+.php_cs
+LICENSE
+README.md
+box.json
+bump-version.sh
+composer.json

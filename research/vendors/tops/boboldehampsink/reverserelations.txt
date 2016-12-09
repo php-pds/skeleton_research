@@ -1,0 +1,6 @@
+fieldtypes/
+templates/
+LICENSE
+README.md
+ReverseRelationsPlugin.php
+composer.json

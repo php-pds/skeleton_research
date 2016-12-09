@@ -1,0 +1,5 @@
+src/SearchEngineCrawler/
+tests/
+.gitignore
+README.md
+composer.json

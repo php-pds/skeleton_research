@@ -1,0 +1,6 @@
+src/
+.gitattributes
+.gitignore
+.php_cs
+README.md
+composer.json

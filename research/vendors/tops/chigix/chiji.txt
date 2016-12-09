@@ -1,0 +1,9 @@
+docs/
+src/
+tests/
+.gitignore
+ChijiServer.jar
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

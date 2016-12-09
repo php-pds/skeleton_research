@@ -1,0 +1,13 @@
+lib/Doctrine/
+tests/
+tools/sandbox/
+.gitignore
+.travis.yml
+CHANGELOG
+COPYRIGHT
+LICENSE
+UPGRADE_TO_1_2
+build.properties.dev
+build.xml
+composer.json
+package.xml

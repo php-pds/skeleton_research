@@ -1,0 +1,9 @@
+assets/icons/
+config/
+resources/views/
+src/Thytanium/Chameleon/
+.gitignore
+LICENSE
+README.md
+composer.json
+helpers.php

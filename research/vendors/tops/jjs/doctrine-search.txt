@@ -1,0 +1,6 @@
+src/JJs/Search/
+tests/JJs/Search/
+.editorconfig
+.gitignore
+composer.json
+phpunit.xml.dist

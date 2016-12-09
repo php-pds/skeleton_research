@@ -1,0 +1,7 @@
+lib/
+resources/public/javascripts/wildfire-wildfire.media.vimeo/
+README
+composer.json
+ini.php
+setup.php
+vimeo.tmp

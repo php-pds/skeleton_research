@@ -1,0 +1,5 @@
+Mailer/
+config/
+.gitignore
+LICENSE
+composer.json

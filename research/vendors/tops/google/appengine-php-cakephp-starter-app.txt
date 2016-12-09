@@ -1,0 +1,17 @@
+bin/
+config/
+logs/
+plugins/
+src/
+tests/
+tmp/
+vendor/
+webroot/
+CONTRIBUTING.md
+README.md
+app.yaml.dist
+composer.json
+index.php
+license.txt
+php.ini
+phpunit.xml.dist

@@ -1,0 +1,7 @@
+classes/
+examples/
+unitTests/
+.gitignore
+README.md
+composer.json
+license.md

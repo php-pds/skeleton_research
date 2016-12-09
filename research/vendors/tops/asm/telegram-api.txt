@@ -1,0 +1,10 @@
+Telegram/
+Test/
+bin/
+build/
+.gitignore
+LICENSE
+README.md
+composer.json
+php-git-hooks.yml
+phpunit.xml.dist

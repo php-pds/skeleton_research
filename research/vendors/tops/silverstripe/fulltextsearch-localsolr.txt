@@ -1,0 +1,7 @@
+server/
+LICENSE.txt
+NOTICE.txt
+README.md
+_manifest_exclude
+composer.json
+start.sh

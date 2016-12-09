@@ -1,0 +1,8 @@
+Controller/Resource/
+DependencyInjection/
+.gitignore
+LICENSE
+README.md
+XideaRestBundle.php
+composer.json
+phpunit.xml.dist

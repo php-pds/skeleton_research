@@ -1,0 +1,6 @@
+bin/
+examples/
+res/
+src/
+README.md
+composer.json

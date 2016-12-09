@@ -1,0 +1,11 @@
+src/app/
+tests/
+.editorconfig
+.gitattributes
+.gitignore
+LICENSE
+README.md
+composer.json
+modman
+package.json
+phpunit.xml

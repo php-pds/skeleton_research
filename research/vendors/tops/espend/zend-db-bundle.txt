@@ -1,0 +1,9 @@
+DependencyInjection/Compiler/
+Exception/
+Tests/
+Zend/Db/
+.travis.yml
+README.md
+composer.json
+espendZendDbBundle.php
+phpunit.xml.dist

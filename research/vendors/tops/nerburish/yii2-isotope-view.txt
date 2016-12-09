@@ -1,0 +1,7 @@
+demo-data/
+.gitattributes
+.gitignore
+IsotopeAsset.php
+IsotopeView.php
+README.md
+composer.json

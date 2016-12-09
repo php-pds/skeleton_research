@@ -1,0 +1,10 @@
+bin/
+spec/Phpstorm/Configurator/Configuration/
+src/Phpstorm/Configurator/
+.gitignore
+.travis.yml
+README.md
+build.xml
+composer.json
+composer.lock
+phpstorm.yml

@@ -1,0 +1,11 @@
+js/
+locale/
+scripts/
+src/Listener/
+.editorconfig
+.gitignore
+LICENSE
+README.md
+bootstrap.php
+composer.json
+icon.png

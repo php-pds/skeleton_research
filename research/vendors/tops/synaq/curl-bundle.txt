@@ -1,0 +1,12 @@
+.idea/
+Curl/
+DependencyInjection/
+Exception/
+Resources/config/
+Tests/Curl/
+.gitignore
+LICENSE
+README.md
+SynaqCurlBundle.php
+composer.json
+composer.lock

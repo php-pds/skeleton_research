@@ -1,0 +1,6 @@
+src/ImageKit/
+.travis.yml
+composer.json
+phprelease.ini
+phpunit.xml
+phpunit.xml.dist

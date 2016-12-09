@@ -1,0 +1,8 @@
+components/
+controllers/
+messages/
+models/
+views/
+PersonModule.php
+composer.json
+translation.php

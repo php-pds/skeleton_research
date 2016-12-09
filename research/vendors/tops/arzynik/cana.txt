@@ -1,0 +1,8 @@
+src/
+tests/
+.gitignore
+.travis.yml
+README.md
+cana
+composer.json
+package.ini

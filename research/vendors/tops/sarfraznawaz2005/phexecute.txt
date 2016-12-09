@@ -1,0 +1,12 @@
+app/templates/
+files/
+logs/
+packages/simpletest/
+public/
+screenshots/
+storage/
+vendor/
+.gitignore
+LICENSE
+README.md
+composer.json

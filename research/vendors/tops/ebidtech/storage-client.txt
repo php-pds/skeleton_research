@@ -1,0 +1,8 @@
+docs/
+src/EBT/StorageClient/
+tests/
+tools/
+.gitignore
+README.md
+composer.json
+phpunit.xml.dist

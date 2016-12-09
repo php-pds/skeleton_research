@@ -1,0 +1,9 @@
+Command/
+DependencyInjection/
+Odm/
+Resources/config/
+Services/
+BiberLtdPhpOrientBundle.php
+README.md
+composer.json
+composer.lock

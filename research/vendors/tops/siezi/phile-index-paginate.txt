@@ -1,0 +1,6 @@
+Classes/
+templates/
+LICENSE
+README.md
+composer.json
+config.php

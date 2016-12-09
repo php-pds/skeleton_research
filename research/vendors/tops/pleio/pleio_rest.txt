@@ -1,0 +1,12 @@
+classes/PleioRest/
+languages/
+lib/
+sql/
+vendor/swagger-ui/
+views/default/
+README.md
+activate.php
+composer.json
+manifest.xml
+start.php
+swagger.json

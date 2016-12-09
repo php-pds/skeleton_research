@@ -1,0 +1,6 @@
+DataCollector/
+Resources/
+Tests/DataCollector/
+EventHorizonProfilerBundle.php
+README.markdown
+composer.json

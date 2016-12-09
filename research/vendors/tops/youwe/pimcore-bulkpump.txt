@@ -1,0 +1,11 @@
+cli/
+controllers/
+lib/
+models/
+static/
+translation/
+views/scripts/index/
+Migrations.md
+README.md
+composer.json
+plugin.xml

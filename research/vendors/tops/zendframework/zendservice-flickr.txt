@@ -1,0 +1,8 @@
+demos/ZendService/Flickr/
+library/ZendService/Flickr/
+tests/
+.gitignore
+.travis.yml
+LICENSE.txt
+README.md
+composer.json

@@ -1,0 +1,12 @@
+Controller/
+DependencyInjection/
+Event/
+File/
+Form/
+Helper/
+Resources/
+.gitignore
+FileFieldBundle.php
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,8 @@
+controllers/
+gii/
+models/
+traits/
+views/data/
+Module.php
+README.md
+composer.json

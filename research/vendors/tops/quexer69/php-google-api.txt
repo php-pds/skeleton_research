@@ -1,0 +1,4 @@
+CHANGELOG.md
+GoogleMapApi.php
+README.md
+composer.json

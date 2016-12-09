@@ -1,0 +1,13 @@
+docs/examples/Twitter/
+src/
+tests/
+.editorconfig
+.gitignore
+.php_cs
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+composer.json
+phpunit.xml
+phpunit.xml.dist

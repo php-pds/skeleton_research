@@ -1,0 +1,17 @@
+bin/
+build/
+src/
+tests/
+.gitignore
+CHANGELOG.md
+CONTRIBUTING.md
+INSTALL.md
+LICENSE
+README.md
+TERMS.md
+bower.json
+build.xml
+cache.properties
+composer.json
+opensource-checklist.md
+screenshot.png

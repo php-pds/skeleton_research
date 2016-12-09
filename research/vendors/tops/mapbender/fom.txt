@@ -1,0 +1,11 @@
+Component/Test/
+CoreBundle/
+ManagerBundle/
+UserBundle/
+documentation/en/
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.rst
+composer.json

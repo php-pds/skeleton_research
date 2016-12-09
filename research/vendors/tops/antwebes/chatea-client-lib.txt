@@ -1,0 +1,11 @@
+demos/
+docs/
+src/Ant/
+tests/
+.gitignore
+CHANGELOG-0.1.md
+CHANGELOG-1.0.md
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

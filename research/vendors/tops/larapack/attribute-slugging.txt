@@ -1,0 +1,5 @@
+src/Larapack/AttributeSlugging/
+composer.json
+license
+readme.md
+roadmap.md

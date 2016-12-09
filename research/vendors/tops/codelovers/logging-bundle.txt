@@ -1,0 +1,8 @@
+DependencyInjection/
+Monolog/
+Resources/config/
+.gitignore
+CodeLoversLoggingBundle.php
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,4 @@
+database/migrations/
+src/
+.gitignore
+composer.json

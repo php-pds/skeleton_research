@@ -1,0 +1,5 @@
+assets/
+.gitignore
+EasyUIAsset.php
+README.md
+composer.json

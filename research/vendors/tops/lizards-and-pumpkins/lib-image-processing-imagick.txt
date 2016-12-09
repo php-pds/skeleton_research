@@ -1,0 +1,6 @@
+src/
+tests/Unit/
+.gitignore
+LICENSE
+README.md
+composer.json

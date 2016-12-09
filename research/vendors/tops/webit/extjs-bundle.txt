@@ -1,0 +1,13 @@
+Chart/
+Command/
+Controller/
+DependencyInjection/
+ExtJs/
+Resources/
+StaticData/
+Store/
+TreeStore/
+.gitignore
+README.md
+WebitExtJsBundle.php
+composer.json

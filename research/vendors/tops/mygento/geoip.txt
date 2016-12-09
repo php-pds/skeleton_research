@@ -1,0 +1,8 @@
+app/
+lib/GeoIP/
+var/geoip/
+.gitignore
+.travis.yml
+README.md
+composer.json
+modman

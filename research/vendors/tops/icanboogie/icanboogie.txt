@@ -1,0 +1,16 @@
+assets/
+config/
+lib/
+tests/
+.editorconfig
+.gitattributes
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+Makefile
+README.md
+bootstrap.php
+composer.json
+helpers.php
+phpunit.xml

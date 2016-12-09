@@ -1,0 +1,6 @@
+nbproject/
+.gitattributes
+.gitignore
+LICENSE
+README.md
+composer.json

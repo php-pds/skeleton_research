@@ -1,0 +1,7 @@
+DependencyInjection/
+Form/Type/
+Model/
+Resources/
+README.md
+RussellKGalleryBundle.php
+composer.json

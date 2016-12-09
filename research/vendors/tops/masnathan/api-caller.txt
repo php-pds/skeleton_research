@@ -1,0 +1,6 @@
+examples/
+src/MASNathan/APIcaller/
+.gitignore
+LICENSE
+README.md
+composer.json

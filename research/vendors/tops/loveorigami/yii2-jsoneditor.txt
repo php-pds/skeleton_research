@@ -1,0 +1,6 @@
+.gitignore
+Jsoneditor.php
+JsoneditorAsset.php
+LICENSE
+README.md
+composer.json

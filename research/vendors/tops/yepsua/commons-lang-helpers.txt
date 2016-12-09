@@ -1,0 +1,8 @@
+src/Yepsua/Commons/
+tests/Yepsua/Commons/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml

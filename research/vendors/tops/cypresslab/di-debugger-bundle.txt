@@ -1,0 +1,16 @@
+Checker/
+Command/
+DependencyInjection/
+Exception/
+Resources/config/
+Spec/Cypress/DiDebuggerBundle/
+features/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CypressDiDebuggerBundle.php
+Makefile
+README.md
+composer.json
+phpspec.yml.dist
+phpunit.xml.dist

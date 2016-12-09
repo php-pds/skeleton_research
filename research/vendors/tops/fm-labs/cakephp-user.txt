@@ -1,0 +1,6 @@
+Config/Schema/
+Controller/
+Model/
+View/Auth/
+.gitignore
+composer.json

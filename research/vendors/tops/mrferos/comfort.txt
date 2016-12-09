@@ -1,0 +1,10 @@
+src/
+tests/unit/
+.travis.yml
+API.md
+LICENSE
+README.md
+composer.json
+composer.lock
+functions.php
+phpunit.xml.dist

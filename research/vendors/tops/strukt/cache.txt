@@ -1,0 +1,7 @@
+src/Strukt/Cache/
+tests/Strukt/Cache/
+.gitignore
+README.md
+bootstrap.php
+composer.json
+phpunit.xml

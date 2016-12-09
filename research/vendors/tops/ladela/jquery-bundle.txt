@@ -1,0 +1,5 @@
+Resources/public/js/
+LICENSE
+LadelaJQueryBundle.php
+README.md
+composer.json

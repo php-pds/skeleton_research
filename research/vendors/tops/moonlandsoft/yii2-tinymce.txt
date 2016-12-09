@@ -1,0 +1,7 @@
+assets/
+LICENSE
+README.md
+TinyMCE.php
+TinyMCEAsset.php
+composer.json
+tinymce.gzip.php

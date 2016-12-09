@@ -1,0 +1,8 @@
+bin/
+lib/Md2Epub/
+share/
+testbook/
+.gitignore
+README.md
+composer.json
+composer.lock

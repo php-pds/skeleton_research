@@ -1,0 +1,7 @@
+_config/
+code/
+docs/
+templates/Email/
+.gitignore
+README.md
+composer.json

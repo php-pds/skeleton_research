@@ -1,0 +1,5 @@
+config/
+src/Controller/Component/
+README.md
+composer.json
+phpunit.xml.dist

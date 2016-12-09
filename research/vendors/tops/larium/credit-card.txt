@@ -1,0 +1,10 @@
+src/CreditCard/
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+code-coverage.xml
+composer.json
+phpunit.xml

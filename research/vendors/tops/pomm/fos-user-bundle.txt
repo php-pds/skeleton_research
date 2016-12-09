@@ -1,0 +1,4 @@
+src/Pomm/Bundle/FosUserBundle/
+.gitignore
+README.md
+composer.json

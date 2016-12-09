@@ -1,0 +1,16 @@
+cache/
+docs/
+log/
+src/PhraseanetSDK/
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CHANGELOG.md
+LICENSE
+Makefile
+README.md
+UPGRADE.md
+composer.json
+composer.lock
+phpunit.xml.dist

@@ -1,0 +1,12 @@
+Lib/
+config/
+plugins/
+src/
+tests/
+webroot/
+.gitignore
+.travis.yml
+composer.json
+composer.lock
+phpunit.xml.dist
+sonar-project.properties

@@ -1,0 +1,15 @@
+Bootstraps/
+Bridges/
+Commands/
+React/
+bin/
+doc/
+.gitignore
+Client.php
+LICENSE
+ProcessCommunicationTrait.php
+ProcessManager.php
+ProcessSlave.php
+README.md
+composer.json
+composer.lock

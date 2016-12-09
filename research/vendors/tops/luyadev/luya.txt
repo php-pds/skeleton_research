@@ -1,0 +1,17 @@
+.github/
+core/
+docs/
+envs/
+modules/
+scripts/
+tests/
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENSE.md
+README.md
+UPGRADE.md
+composer.json
+composer.lock
+phpunit.xml.dist
+travis.phpunit.xml

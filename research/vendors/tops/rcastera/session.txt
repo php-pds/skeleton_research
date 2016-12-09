@@ -1,0 +1,4 @@
+src/rcastera/Browser/Session/
+.gitignore
+README.md
+composer.json

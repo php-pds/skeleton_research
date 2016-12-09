@@ -1,0 +1,17 @@
+.idea/
+Composer/
+Controller/
+DependencyInjection/
+Exceptions/
+Listeners/
+Resources/
+Responses/
+Services/
+.gitignore
+BiberLtdCoreBundle.php
+Core.php
+CoreController.php
+CoreEntity.php
+CoreLocalizableEntity.php
+CoreModel.php
+composer.json

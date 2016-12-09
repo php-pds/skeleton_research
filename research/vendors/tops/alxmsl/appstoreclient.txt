@@ -1,0 +1,7 @@
+bin/
+examples/
+source/
+.gitignore
+COPYING
+README.md
+composer.json

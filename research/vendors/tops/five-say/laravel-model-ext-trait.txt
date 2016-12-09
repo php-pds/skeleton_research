@@ -1,0 +1,4 @@
+src/Laravel/Model/
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,13 @@
+App/
+DependencyInjection/
+Model/XmlApi/
+Resources/config/
+Serializer/
+Services/Xml/
+Tests/
+.gitignore
+.travis.yml
+README.md
+WkAfterbuyApiBundle.php
+composer.json
+phpunit.xml

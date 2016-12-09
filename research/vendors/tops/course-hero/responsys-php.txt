@@ -1,0 +1,9 @@
+src/CourseHero/ResponsysPHP/Api/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json
+install.sh
+phpunit.sh
+phpunit.xml.dist

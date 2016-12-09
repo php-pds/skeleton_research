@@ -1,0 +1,4 @@
+Image/
+.editorconfig
+README.md
+composer.json

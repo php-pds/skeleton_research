@@ -1,0 +1,7 @@
+servers/
+src/p3k/
+.gitignore
+CONTRIBUTING.md
+LICENSE.txt
+README.md
+composer.json

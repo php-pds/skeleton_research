@@ -1,0 +1,8 @@
+.gitignore
+CLImax.php
+CLImaxControllerTest.php
+README.txt
+TestClasses.php
+climax
+composer.json
+pearfarm.spec

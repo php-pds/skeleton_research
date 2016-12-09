@@ -1,0 +1,9 @@
+.gitignore
+LICENSE
+README.md
+UPGRADING.md
+bower.json
+composer.json
+jquery.collection.html.twig
+jquery.collection.js
+package.json

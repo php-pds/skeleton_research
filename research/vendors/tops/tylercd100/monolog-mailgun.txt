@@ -1,0 +1,12 @@
+src/Handler/
+tests/
+.gitattributes
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CHANGELOG.md
+LICENSE
+LICENSE.md
+README.md
+composer.json
+phpunit.xml

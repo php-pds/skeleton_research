@@ -1,0 +1,16 @@
+acp/
+adm/style/
+config/
+event/
+images/
+language/
+migrations/
+styles/
+travis/
+.gitattributes
+.gitignore
+.travis.yml
+README.md
+composer.json
+license.txt
+version-check.json

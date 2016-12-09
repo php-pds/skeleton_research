@@ -1,0 +1,6 @@
+src/TradedoublerReportWrapper/
+tests/TradedoublerReportWrapper/
+.gitignore
+README.md
+composer.json
+phpunit.xml

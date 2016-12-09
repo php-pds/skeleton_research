@@ -1,0 +1,8 @@
+DependencyInjection/
+Form/
+Resources/config/
+Tests/
+.gitignore
+AlterPHPBitFormBundle.php
+composer.json
+composer.lock

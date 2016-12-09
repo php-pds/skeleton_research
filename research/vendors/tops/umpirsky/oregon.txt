@@ -1,0 +1,8 @@
+examples/
+spec/Oregon/
+src/Oregon/
+.gitignore
+.travis.yml
+LICENSE
+README.markdown
+composer.json

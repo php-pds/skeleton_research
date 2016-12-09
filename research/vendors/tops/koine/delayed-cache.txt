@@ -1,0 +1,11 @@
+bin/
+example/
+src/
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+MIT-LICENSE
+README.md
+composer.json
+phpunit.xml

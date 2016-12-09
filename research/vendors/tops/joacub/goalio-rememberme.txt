@@ -1,0 +1,7 @@
+config/
+data/
+src/GoalioRememberMe/
+view/zfc-user/user/
+Module.php
+README.md
+composer.json

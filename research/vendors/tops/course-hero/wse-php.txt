@@ -1,0 +1,10 @@
+examples/
+src/Wse/
+tests/
+.gitignore
+.travis.yml
+CHANGELOG.txt
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

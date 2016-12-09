@@ -1,0 +1,15 @@
+config/
+public/
+src/SpeedUpEssentials/
+vendor/
+.gitignore
+.travis.yml
+.version
+LICENSE
+Module.php
+README.md
+composer.json
+composer.lock
+readme.txt
+speed-up-essentials-plugin.php
+wordpress.sh

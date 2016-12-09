@@ -1,0 +1,11 @@
+src/intrawarez/dateranges/
+tests/
+.coveralls.yml
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+metrics.sh
+phpcs.xml
+phpunit.xml

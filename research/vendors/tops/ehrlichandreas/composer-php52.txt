@@ -1,0 +1,5 @@
+lib/xrstf/Composer52/
+.gitignore
+LICENSE
+README.md
+composer.json

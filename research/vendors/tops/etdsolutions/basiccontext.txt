@@ -1,0 +1,7 @@
+addons/
+themes/
+LICENSE
+README.md
+basicContext.min.css
+basicContext.min.js
+composer.json

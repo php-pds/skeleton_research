@@ -1,0 +1,7 @@
+common/
+themes/material/
+www/
+LICENSE
+README.md
+composer.json
+default-enable

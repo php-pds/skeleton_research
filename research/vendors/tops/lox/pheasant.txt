@@ -1,0 +1,16 @@
+benchmarks/
+docs/
+lib/
+tests/Pheasant/Tests/
+.coveralls.yml
+.gitignore
+.travis.yml
+CHANGELOG.md
+DEVELOPMENT
+LICENSE
+README.md
+ROADMAP.md
+composer.json
+composer.lock
+phpunit.xml.dist
+requirements.txt

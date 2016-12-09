@@ -1,0 +1,5 @@
+src/Tale/Ro/
+test/
+.gitignore
+composer.json
+composer.lock

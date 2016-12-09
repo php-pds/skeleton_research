@@ -1,0 +1,9 @@
+samples/
+.gitignore
+CookieSessionHandler.php
+FileSessionHandler.php
+Flash.php
+PdoSessionHandler.php
+README.md
+SessionManager.php
+composer.json

@@ -1,0 +1,9 @@
+Classes/M12/Foundation/
+Configuration/
+Migrations/TYPO3CR/
+Resources/Private/
+Tests/
+LICENSE.txt
+README.md
+circle.yml
+composer.json

@@ -1,0 +1,10 @@
+bin/
+src/Mihaeu/SubModifier/
+tests/Mihaeu/SubModifier/
+.gitignore
+.travis.yml
+LICENSE.md
+README.md
+composer.json
+composer.lock
+phpunit.xml

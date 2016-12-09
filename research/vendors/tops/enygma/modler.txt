@@ -1,0 +1,8 @@
+src/Modler/
+tests/Modler/
+.scrutinizer.yml
+.travis.yml
+README.md
+autoload.php
+composer.json
+phpunit.xml

@@ -1,0 +1,7 @@
+config/
+src/ParallelJobs/System/Fork/
+tests/
+.gitignore
+Module.php
+README.md
+composer.json

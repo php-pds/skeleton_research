@@ -1,0 +1,8 @@
+config/
+src/Zf2for1/
+test/
+.gitignore
+LICENSE
+Module.php
+README.md
+composer.json

@@ -1,0 +1,12 @@
+bin/
+src/JooS/Jenkins/
+tests/
+.gitignore
+.travis.yml
+README.md
+build.xml
+composer.json
+phpcs.xml
+phpdoc.xml
+phpmd.xml
+phpunit.xml

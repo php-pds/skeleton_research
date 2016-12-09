@@ -1,0 +1,13 @@
+Command/
+Controller/
+DependencyInjection/
+Event/
+Resources/config/
+spec/Knp/Bundle/MailjetBundle/
+.gitignore
+.travis.yml
+CONTRIBUTING.md
+KnpMailjetBundle.php
+LICENSE
+README.md
+composer.json

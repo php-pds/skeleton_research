@@ -1,0 +1,12 @@
+config/
+data/
+public/
+src/Application/Interfaces/
+templates/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpcs.xml
+phpunit.xml.dist

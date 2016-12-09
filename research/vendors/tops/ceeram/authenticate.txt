@@ -1,0 +1,6 @@
+Controller/Component/Auth/
+Test/
+.travis.yml
+LICENSE.txt
+composer.json
+readme.md

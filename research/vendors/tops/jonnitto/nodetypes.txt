@@ -1,0 +1,7 @@
+Classes/Jonnitto/NodeTypes/Controller/
+Configuration/
+Resources/Private/
+.editorconfig
+LICENSE
+README.md
+composer.json

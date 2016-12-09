@@ -1,0 +1,13 @@
+DependencyInjection/
+EventListener/
+Resources/config/
+StructureProvider/
+Tests/Unit/
+.gitignore
+.styleci.yml
+.travis.yml
+CHANGELOG.md
+README.md
+SuluThemeBundle.php
+composer.json
+phpunit.xml.dist

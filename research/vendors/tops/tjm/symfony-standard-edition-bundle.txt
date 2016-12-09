@@ -1,0 +1,9 @@
+Component/
+Resources/
+.editorconfig
+.gitattributes
+.gitignore
+LICENSE.md
+README.md
+TJMStandardEditionBundle.php
+composer.json

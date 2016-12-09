@@ -1,0 +1,8 @@
+DependencyInjection/
+Resources/
+.gitignore
+.travis.yml
+LICENSE
+PrestaCMSThemeBasicBundle.php
+README.md
+composer.json

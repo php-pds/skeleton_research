@@ -1,0 +1,11 @@
+bin/
+inc/
+tests/
+.gitignore
+.travis.yml
+Gruntfile.js
+composer.json
+package.json
+phpunit.xml
+readme.txt
+wp-debugging.php

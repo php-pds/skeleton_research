@@ -1,0 +1,8 @@
+app/
+bin/
+src/
+var/
+web/
+.gitignore
+README.md
+composer.json

@@ -1,0 +1,16 @@
+languages/
+sass/css/framework/prototyper/ui/
+screenshots/
+vendors/jquery.cropper/
+views/default/
+.gitattributes
+.gitignore
+Gemfile
+Gruntfile.js
+LICENSE
+README.md
+composer.json
+config.rb
+manifest.xml
+package.json
+start.php

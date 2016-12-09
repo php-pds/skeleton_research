@@ -1,0 +1,5 @@
+config/
+src/ZF2Bbcode/View/Helper/
+Module.php
+README.md
+composer.json

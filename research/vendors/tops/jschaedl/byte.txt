@@ -1,0 +1,7 @@
+library/Byte/
+tests/
+.travis.yml
+README.md
+build.xml
+composer.json
+phpunit.xml

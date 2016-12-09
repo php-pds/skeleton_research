@@ -1,0 +1,8 @@
+assets/assets/doctrine-gui/
+config/
+src/DoctrineGui/
+utils/Key/
+view/
+Module.php
+README.md
+composer.json

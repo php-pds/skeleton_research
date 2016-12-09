@@ -1,0 +1,7 @@
+controllers/
+lib/ActivePaginate/
+static/
+LICENSE
+README.md
+composer.json
+plugin.xml

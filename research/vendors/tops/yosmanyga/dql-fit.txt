@@ -1,0 +1,6 @@
+src/Yosmanyga/Component/Dql/Fit/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json

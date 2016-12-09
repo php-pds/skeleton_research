@@ -1,0 +1,11 @@
+assets/
+config/
+language/
+src/AdfabGame/
+tests/
+view/
+.gitignore
+Module.php
+README.md
+composer.json
+phpunit.xml.dist

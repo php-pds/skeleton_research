@@ -1,0 +1,9 @@
+behaviors/
+entities/
+migrations/
+.gitignore
+LICENSE
+README.md
+SeoUrlRule.php
+UniqueUrlRule.php
+composer.json

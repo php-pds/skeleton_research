@@ -1,0 +1,12 @@
+src/ElasticsearchExtraBundle/
+tests/Units/ElasticsearchExtraBundle/
+.atoum.php
+.atoum.php.dist
+.bootstrap.atoum.php
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock

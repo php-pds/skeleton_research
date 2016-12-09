@@ -1,0 +1,6 @@
+.gitignore
+.travic.yml
+CKDB.php
+LICENSE
+README.md
+composer.json

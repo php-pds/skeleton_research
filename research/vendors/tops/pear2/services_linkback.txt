@@ -1,0 +1,8 @@
+examples/
+src/PEAR2/Services/Linkback/
+tests/
+.gitignore
+.travis.yml
+README.rst
+composer.json
+package.xml

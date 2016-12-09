@@ -1,0 +1,11 @@
+assets/img/
+configs/
+controllers/
+libraries/
+migrations/
+views/
+.gitignore
+LICENSE
+README.md
+composer.json
+plesk_details.php

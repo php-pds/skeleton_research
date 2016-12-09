@@ -1,0 +1,10 @@
+Annotation/
+DependencyInjection/
+Event/
+EventListener/
+Resources/config/
+LICENSE
+README.md
+RequestToEntityManager.php
+SeferovRequestToEntityBundle.php
+composer.json

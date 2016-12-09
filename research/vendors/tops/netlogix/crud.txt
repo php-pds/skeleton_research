@@ -1,0 +1,4 @@
+Classes/Netlogix/Crud/
+Configuration/
+Resources/Public/Scripts/Service/
+composer.json

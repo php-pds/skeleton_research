@@ -1,0 +1,13 @@
+config/
+migrations/
+resources/
+src/FileDB/
+tests/unit/Model/
+vendor/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.php
+phpunit.xml

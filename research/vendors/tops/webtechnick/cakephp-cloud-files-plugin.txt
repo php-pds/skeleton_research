@@ -1,0 +1,13 @@
+Config/
+Console/Command/
+Controller/
+Lib/
+Model/
+Test/
+Vendor/
+View/Helper/
+webroot/
+.gitmodules
+cacert.pem
+composer.json
+readme.md

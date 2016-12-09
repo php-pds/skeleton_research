@@ -1,0 +1,12 @@
+Docs/
+Sniffs/Strings/
+Tests/Strings/
+.gitattributes
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist
+ruleset.xml
+tests_bootstrap.php

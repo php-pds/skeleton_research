@@ -1,0 +1,10 @@
+Bridge/ReadOnlyHydratorBundle/
+ComposerOverloadClass/Hydrator/
+Entity/
+EventSubscriber/
+Exception/
+Hydrator/
+README.md
+benchmark.png
+changelog.md
+composer.json

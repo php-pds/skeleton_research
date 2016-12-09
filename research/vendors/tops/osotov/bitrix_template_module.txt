@@ -1,0 +1,6 @@
+install/
+lang/ru/
+lib/
+composer.json
+include.php
+options.php

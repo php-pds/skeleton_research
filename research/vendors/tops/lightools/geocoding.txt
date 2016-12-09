@@ -1,0 +1,6 @@
+src/Geocoding/
+tests/
+.gitignore
+composer.json
+licence.md
+readme.md

@@ -1,0 +1,3 @@
+CourseraExtendSocialite.php
+Provider.php
+composer.json

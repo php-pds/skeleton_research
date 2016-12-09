@@ -1,0 +1,10 @@
+docs/
+tests/
+Entity.php
+LICENSE
+Mapper.php
+README.md
+RelatedEntity.php
+SchemeException.php
+UniquenessException.php
+composer.json

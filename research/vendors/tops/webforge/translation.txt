@@ -1,0 +1,15 @@
+examples/
+lib/Webforge/Translation/
+tests/
+.coveralls.yml
+.gitattributes
+.gitignore
+.travis.yml
+README.md
+bootstrap.php
+composer.json
+package.boot.php
+phpunit.travis.xml
+phpunit.xml.dist
+rmt.json
+translation.sublime-project

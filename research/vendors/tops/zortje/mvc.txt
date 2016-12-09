@@ -1,0 +1,12 @@
+src/
+tests/
+webroot/
+.gitattributes
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+config.default.php
+phpunit.xml.dist
+routes.default.php

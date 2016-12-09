@@ -1,0 +1,6 @@
+source/Yandex/Locator/
+.gitignore
+LICENSE
+README.md
+autoload.php
+composer.json

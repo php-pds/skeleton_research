@@ -1,0 +1,3 @@
+ckfinder/
+README.md
+composer.json

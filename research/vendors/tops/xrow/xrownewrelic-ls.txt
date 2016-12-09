@@ -1,0 +1,6 @@
+autoloads/
+settings/
+README.md
+composer.json
+config.php.append
+extension.xml

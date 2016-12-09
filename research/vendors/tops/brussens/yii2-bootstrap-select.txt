@@ -1,0 +1,7 @@
+.gitattributes
+.gitignore
+Asset.php
+LICENSE.md
+README.md
+Widget.php
+composer.json

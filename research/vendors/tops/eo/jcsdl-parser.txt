@@ -1,0 +1,8 @@
+demo/
+src/Eo/Jcsdl/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

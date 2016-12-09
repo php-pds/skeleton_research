@@ -1,0 +1,13 @@
+Command/
+DependencyInjection/
+Entity/
+Manager/
+Mapper/
+Mapping/
+Method/
+Resources/skeleton/
+Service/
+.gitignore
+README.md
+VizzleTaskBundle.php
+composer.json

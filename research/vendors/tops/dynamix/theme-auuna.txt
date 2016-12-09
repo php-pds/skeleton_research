@@ -1,0 +1,6 @@
+assets/public/
+seeds/
+views/public/
+.gitignore
+README.md
+composer.json

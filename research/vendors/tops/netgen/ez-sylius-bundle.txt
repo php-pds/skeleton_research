@@ -1,0 +1,14 @@
+Authentication/
+Command/
+Core/
+DependencyInjection/
+Entity/
+EventListener/
+Provider/
+Resources/config/
+ezpublish_legacy/ezsylius/
+.gitignore
+.php_cs
+LICENSE
+NetgenEzSyliusBundle.php
+composer.json

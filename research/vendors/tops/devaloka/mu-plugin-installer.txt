@@ -1,0 +1,17 @@
+src/Installer/
+tests/
+.coveralls.yml
+.editorconfig
+.gitattributes
+.gitignore
+.mailmap
+.remarkrc
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+composer.json
+gulpfile.js
+package.json
+phpcs.xml.dist
+phpunit.xml.dist

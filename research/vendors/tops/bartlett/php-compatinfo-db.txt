@@ -1,0 +1,12 @@
+data/
+examples/
+src/Bartlett/CompatInfoDb/
+tests/
+.editorconfig
+.gitignore
+CHANGELOG.md
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

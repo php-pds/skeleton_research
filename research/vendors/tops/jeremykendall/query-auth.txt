@@ -1,0 +1,14 @@
+src/QueryAuth/
+tests/
+.gitignore
+.travis.yml
+APACHE_LICENSE_V2.md
+LICENSE
+NOTICE.md
+README.md
+build.properties
+build.xml
+composer.json
+pdepend.xml
+phpdoc.dist.xml
+phpunit.xml.dist

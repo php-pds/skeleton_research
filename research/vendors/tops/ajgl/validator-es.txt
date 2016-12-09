@@ -1,0 +1,14 @@
+Constraints/
+Tests/
+.gitignore
+.travis.yml
+CccValidator.php
+ChecksumValidator.php
+CifValidator.php
+DniValidator.php
+LICENSE
+NieValidator.php
+README.md
+ValidatorInterface.php
+composer.json
+phpunit.xml.dist

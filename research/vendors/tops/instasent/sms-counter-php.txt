@@ -1,0 +1,9 @@
+Tests/
+.editorconfig
+.gitignore
+.travis.yml
+LICENSE-MIT
+README.md
+SMSCounter.php
+composer.json
+phpunit.xml.dist

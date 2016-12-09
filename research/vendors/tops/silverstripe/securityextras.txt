@@ -1,0 +1,9 @@
+_config/
+code/
+lang/
+tests/
+.editorconfig
+.gitattributes
+README.md
+code-of-conduct.md
+composer.json

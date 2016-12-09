@@ -1,0 +1,14 @@
+.hidev/
+backend/
+common/config/
+console/config/
+docs/readme/
+frontend/
+.bowerrc
+.gitignore
+.php_cs
+CHANGELOG.md
+LICENSE
+README.md
+composer.json
+init

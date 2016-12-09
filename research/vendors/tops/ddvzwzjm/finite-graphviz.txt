@@ -1,0 +1,7 @@
+src/FiniteGraphviz/
+tests/FiniteGraphviz/Test/
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml

@@ -1,0 +1,13 @@
+assets/
+inc/
+.codeclimate.yml
+.editorconfig
+.gitignore
+README.md
+composer.json
+deploy.sh
+gulpfile.js
+license.txt
+package.json
+readme.txt
+wp-js-plugin.php

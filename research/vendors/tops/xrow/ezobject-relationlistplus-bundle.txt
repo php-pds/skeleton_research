@@ -1,0 +1,5 @@
+DependencyInjection/
+FieldType/EzObjectrelationListPlus/
+Resources/config/
+composer.json
+xrowEzobjectrelationlistplusBundle.php

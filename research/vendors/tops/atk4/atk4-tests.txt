@@ -1,0 +1,4 @@
+collections/
+lib/
+README.md
+composer.json

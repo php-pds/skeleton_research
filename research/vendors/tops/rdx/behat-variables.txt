@@ -1,0 +1,9 @@
+bin/
+features/
+src/
+.gitignore
+.travis.yml
+README.md
+behat.yml
+composer.json
+composer.lock

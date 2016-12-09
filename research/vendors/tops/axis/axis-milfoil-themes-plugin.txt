@@ -1,0 +1,6 @@
+config/
+lib/
+modules/AxisThemeAssets/
+LICENSE
+README.md
+composer.json

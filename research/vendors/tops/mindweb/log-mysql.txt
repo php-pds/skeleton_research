@@ -1,0 +1,4 @@
+src/Mindweb/LogMysql/Repository/
+.gitignore
+composer.json
+composer.lock

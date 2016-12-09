@@ -1,0 +1,9 @@
+MindbodyAPI/
+examples/
+tests/coverage/
+tools/
+.gitignore
+LICENSE
+README.markdown
+composer.json
+phpunit.xml

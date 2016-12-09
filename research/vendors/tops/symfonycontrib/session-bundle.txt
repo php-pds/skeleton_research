@@ -1,0 +1,10 @@
+DependencyInjection/
+Entity/
+Memcached/
+Model/
+Resources/config/
+.gitignore
+LICENSE
+README.md
+SessionBundle.php
+composer.json

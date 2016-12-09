@@ -1,0 +1,9 @@
+src/itguy614/Support/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json
+gulpfile.js
+package.json
+phpunit.xml

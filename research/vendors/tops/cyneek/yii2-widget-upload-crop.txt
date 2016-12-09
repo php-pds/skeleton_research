@@ -1,0 +1,8 @@
+assets/
+example/
+.gitignore
+README.md
+README_spanish.md
+UploadCrop.php
+UploadCropAsset.php
+composer.json

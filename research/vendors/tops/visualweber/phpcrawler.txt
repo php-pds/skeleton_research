@@ -1,0 +1,4 @@
+src/PHPCrawler/
+.gitignore
+README.md
+composer.json

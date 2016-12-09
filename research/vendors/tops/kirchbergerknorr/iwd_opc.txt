@@ -1,0 +1,7 @@
+app/
+js/iwd/opc/colorpicker/
+skin/frontend/base/default/
+README.md
+composer.json
+modman
+package.xml

@@ -1,0 +1,5 @@
+classes/
+config/
+README.md
+bootstrap.php
+composer.json

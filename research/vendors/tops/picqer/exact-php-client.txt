@@ -1,0 +1,8 @@
+example/
+src/Picqer/Financials/Exact/
+.gitignore
+CHANGELOG.md
+LICENSE
+README.md
+composer.json
+userscript.js

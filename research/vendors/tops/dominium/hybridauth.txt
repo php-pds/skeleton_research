@@ -1,0 +1,8 @@
+docs/
+src/
+tests/
+CHANGELOG.md
+COPYING.md
+README.md
+TODO.md
+composer.json

@@ -1,0 +1,10 @@
+src/
+tests/phpunit/
+.gitignore
+Genealogy.i18n.magic.php
+Genealogy.i18n.php
+LICENSE.txt
+README.md
+extension.json
+person_template.wikitext
+phpcs.xml

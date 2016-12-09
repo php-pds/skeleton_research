@@ -1,0 +1,14 @@
+bin/
+src/
+test/spec/GitHook/
+.editorconfig
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CHANGELOG.md
+CONDUCT.md
+CONTRIBUTING.md
+LICENSE.md
+README.md
+composer.json
+phpspec.yml.dist

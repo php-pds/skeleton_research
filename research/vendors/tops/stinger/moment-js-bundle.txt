@@ -1,0 +1,6 @@
+Resources/public/js/
+.gitignore
+LICENSE
+README.md
+StingerMomentJsBundle.php
+composer.json

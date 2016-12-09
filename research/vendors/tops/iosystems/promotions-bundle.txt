@@ -1,0 +1,11 @@
+DependencyInjection/
+Manager/
+Promotion/
+Resources/
+Tests/
+Voting/
+.gitignore
+PromotionableInterface.php
+README.md
+composer.json
+iOSystemsPromotionsBundle.php

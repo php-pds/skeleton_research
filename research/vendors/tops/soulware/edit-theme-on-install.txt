@@ -1,0 +1,3 @@
+source/Soulware/EditThemeOnInstall/
+.gitignore
+composer.json

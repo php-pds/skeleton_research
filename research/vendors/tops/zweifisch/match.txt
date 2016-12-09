@@ -1,0 +1,8 @@
+tests/
+.gitignore
+.travis.yml
+README.md
+composer.json
+composer.lock
+match.php
+watch.sh

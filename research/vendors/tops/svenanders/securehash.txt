@@ -1,0 +1,6 @@
+config/
+data/
+src/SecureHash/
+test/
+view/sar-user/
+composer.json

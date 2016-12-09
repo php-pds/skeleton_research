@@ -1,0 +1,17 @@
+app/
+bootstrap/
+config/
+plugins/
+public/
+tests/
+themes/ar2/
+.htaccess
+arframework
+changes.md
+composer.json
+composer.lock
+license.md
+phpunit.xml
+readme.md
+robots.txt
+version.md

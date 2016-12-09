@@ -1,0 +1,12 @@
+db/migrations/
+src/
+tests/MolnApps/Database/
+.DS_Store
+.gitignore
+LICENSE
+composer.json
+composer.lock
+phinx.example.yml
+phinx.sqlite.yml
+phpunit.example.xml
+phpunit.xml

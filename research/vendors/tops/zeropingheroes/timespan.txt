@@ -1,0 +1,8 @@
+src/Zeropingheroes/Timespan/
+tests/
+.gitattributes
+.gitignore
+.travis.yml
+LICENSE.txt
+composer.json
+phpunit.xml

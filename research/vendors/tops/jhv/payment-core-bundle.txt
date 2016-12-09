@@ -1,0 +1,13 @@
+DependencyInjection/
+Entity/
+Exception/
+Financial/
+Instruction/
+Listener/
+Manager/
+Operation/
+Operator/
+Resources/config/
+JHVPaymentCoreBundle.php
+README.md
+composer.json

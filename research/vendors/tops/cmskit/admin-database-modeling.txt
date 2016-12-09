@@ -1,0 +1,10 @@
+doc/
+helper/
+inc/
+locales/
+.gitignore
+composer.json
+index.php
+json_io.php
+process.php
+readme.md

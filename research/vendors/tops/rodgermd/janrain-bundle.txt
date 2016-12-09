@@ -1,0 +1,8 @@
+Controller/
+DependencyInjection/
+Resources/
+Security/
+.gitignore
+EvarioJanrainBundle.php
+README.markdown
+composer.json

@@ -1,0 +1,10 @@
+src/MusicBrainz/
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+codeception.yml
+composer.json
+composer.lock

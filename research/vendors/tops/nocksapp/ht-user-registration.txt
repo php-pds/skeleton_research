@@ -1,0 +1,12 @@
+config/
+data/
+src/
+tests/
+view/ht-user-registration/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+Module.php
+README.md
+composer.json

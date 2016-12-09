@@ -1,0 +1,17 @@
+bin/
+ide-helpers/
+phwoolcon-package/
+src/
+tests/
+.gitignore
+.phpmetrics.yml
+.travis.yml
+CONTRIBUTION.md
+LICENSE
+README-zh.md
+README.md
+composer.json
+functions.php
+php-ext.ini
+phpcs.xml
+phpunit.xml

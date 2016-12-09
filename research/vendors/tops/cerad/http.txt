@@ -1,0 +1,10 @@
+.idea/
+nbproject/
+src/
+web/
+.gitignore
+README.md
+bower.json
+composer.json
+gulpfile.js
+phpunit.xml.dist

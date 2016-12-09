@@ -1,0 +1,10 @@
+Client/
+Controller/
+DependencyInjection/
+Form/
+Plugin/
+Resources/
+Tests/
+LICENSE
+composer.json
+vSymfoPaymentPerfectMoneyBundle.php

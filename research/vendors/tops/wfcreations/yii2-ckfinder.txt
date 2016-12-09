@@ -1,0 +1,7 @@
+assets/
+bundles/
+events/
+widgets/
+.gitignore
+LICENSE
+composer.json

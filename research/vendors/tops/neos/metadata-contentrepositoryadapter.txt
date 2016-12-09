@@ -1,0 +1,5 @@
+Classes/
+Configuration/
+LICENSE.txt
+Readme.md
+composer.json

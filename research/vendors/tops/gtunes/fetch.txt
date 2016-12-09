@@ -1,0 +1,9 @@
+src/Fetch/
+tests/
+.gitignore
+LICENSE
+README.md
+autoload.php
+composer.json
+package.xml
+phpunit.xml.dist

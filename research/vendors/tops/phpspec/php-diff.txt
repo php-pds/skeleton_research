@@ -1,0 +1,4 @@
+example/
+lib/
+README
+composer.json

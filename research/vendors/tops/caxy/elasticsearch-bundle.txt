@@ -1,0 +1,11 @@
+Command/
+DependencyInjection/
+Resources/
+Tests/DependencyInjection/
+.gitignore
+CaxyElasticsearchBundle.php
+Client.php
+LICENSE
+README.md
+Resetter.php
+composer.json

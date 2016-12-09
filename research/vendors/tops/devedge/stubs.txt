@@ -1,0 +1,7 @@
+src/Devedge/
+.gitignore
+.rmt.yml
+CHANGELOG
+LICENSE.txt
+README.md
+composer.json

@@ -1,0 +1,4 @@
+.gitignore
+ArchiFooter.php
+composer.json
+extension.json

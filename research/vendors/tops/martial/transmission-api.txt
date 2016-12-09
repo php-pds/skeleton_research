@@ -1,0 +1,9 @@
+doc/
+src/
+tests/
+.gitignore
+README.md
+UPGRADE-2.0.md
+build.xml
+composer.json
+phpunit.xml

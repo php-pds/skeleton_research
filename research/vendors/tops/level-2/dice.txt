@@ -1,0 +1,9 @@
+Extra/
+Loader/
+tests/
+.gitattributes
+.gitignore
+Dice.php
+README.md
+composer.json
+phpunit.xml

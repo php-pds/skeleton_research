@@ -1,0 +1,15 @@
+Config/
+acesso/
+gadget/
+index/classes/
+login/
+perfil/
+promocod/
+referencia/
+tag/
+tests/
+.gitattributes
+.gitignore
+autoload.php
+composer.json
+index.php

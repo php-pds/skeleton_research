@@ -1,0 +1,8 @@
+src/ErrorMarketplace/
+tests/
+.gitignore
+.scrutinizer.yml
+LICENSE.md
+README.md
+bootstrap.php
+composer.json

@@ -1,0 +1,8 @@
+src/Nathanmac/GUID/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml

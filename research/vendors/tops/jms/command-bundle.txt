@@ -1,0 +1,9 @@
+Command/
+Generator/
+Php/
+Resources/
+Tests/
+JMSCommandBundle.php
+README
+composer.json
+phpunit.xml.dist

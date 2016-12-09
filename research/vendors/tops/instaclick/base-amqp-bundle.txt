@@ -1,0 +1,9 @@
+Amqp/
+Command/
+DependencyInjection/
+Resources/config/
+Service/Command/
+Tests/
+ICBaseAmqpBundle.php
+composer.json
+phpunit.xml.dist

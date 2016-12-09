@@ -1,0 +1,6 @@
+app/
+src/AppBundle/
+web/
+.gitignore
+composer.json
+composer.lock

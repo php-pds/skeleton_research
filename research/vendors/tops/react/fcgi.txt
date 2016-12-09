@@ -1,0 +1,9 @@
+src/React/Fcgi/
+test/React/Fcgi/
+.gitignore
+.travis.nginx.conf
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml

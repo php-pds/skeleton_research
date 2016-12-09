@@ -1,0 +1,9 @@
+.surf/
+conf/
+src/
+var/
+web/typo3conf/
+.env-example
+.gitignore
+.htaccess
+composer.json

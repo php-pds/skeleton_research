@@ -1,0 +1,15 @@
+controller/
+doc/
+helper/
+includes/
+install/
+locales/
+model/
+scripts/
+test/
+view/form/
+views/
+LICENSE
+README.md
+composer.json
+manifest.php

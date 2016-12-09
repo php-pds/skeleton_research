@@ -1,0 +1,9 @@
+src/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+hooks_events_results.md
+plugin_packages.md

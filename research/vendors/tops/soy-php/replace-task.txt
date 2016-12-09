@@ -1,0 +1,6 @@
+src/Soy/Replace/
+.gitignore
+LICENSE
+README.md
+composer.json
+recipe.php

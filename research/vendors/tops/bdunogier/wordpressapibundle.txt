@@ -1,0 +1,12 @@
+Authentication/
+Controller/
+DependencyInjection/
+EventListener/
+Resources/
+ResponseDecorator/
+Service/
+Tests/Controller/
+XmlRpc/ParametersProcessor/
+BDWordpressAPIBundle.php
+README.md
+composer.json

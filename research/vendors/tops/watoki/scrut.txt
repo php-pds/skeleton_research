@@ -1,0 +1,8 @@
+src/watoki/scrut/
+.gitignore
+.travis.yml
+LICENCE
+README.md
+bootstrap.php
+composer.json
+phpunit.xml.dist

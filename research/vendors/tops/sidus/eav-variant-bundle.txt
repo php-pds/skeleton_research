@@ -1,0 +1,9 @@
+DependencyInjection/
+Form/Type/
+Model/
+Resources/
+Validator/Constraints/
+LICENCE.txt
+README.md
+SidusEAVVariantBundle.php
+composer.json

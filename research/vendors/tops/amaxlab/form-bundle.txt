@@ -1,0 +1,8 @@
+DependencyInjection/
+Form/
+Resources/
+Validator/Constraints/
+.gitignore
+AmaxlabFormBundle.php
+README.md
+composer.json

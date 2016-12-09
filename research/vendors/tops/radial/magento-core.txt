@@ -1,0 +1,9 @@
+circle-ci/
+docs/static/
+src/
+tests/
+LICENSE.md
+README.md
+circle.yml
+composer.json
+modman

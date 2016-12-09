@@ -1,0 +1,13 @@
+docs/
+src/
+test/
+.gitignore
+.php_cs
+.swagger-codegen-ignore
+.travis.yml
+LICENSE
+README.md
+autoload.php
+composer.json
+git_push.sh
+phpunit.xml.dist

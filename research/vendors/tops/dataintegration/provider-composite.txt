@@ -1,0 +1,6 @@
+src/DataIntegration/Provider/Composite/
+tests/DataIntegration/Provider/Composite/Tests/
+LICENSE.md
+README.md
+composer.json
+phpunit.xml

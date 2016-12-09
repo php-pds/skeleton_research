@@ -1,0 +1,11 @@
+services/
+src/
+tests/
+.gitignore
+CHANGELOG.md
+CONTRIBUTING.md
+LICENSE
+README.md
+composer.json
+console.php
+phpunit.xml

@@ -1,0 +1,11 @@
+Controller/
+DependencyInjection/
+Resources/
+Tests/TwigJs/Compiler/
+TwigJs/Compiler/
+.gitignore
+.travis.yml
+JMSTwigJsBundle.php
+README.md
+composer.json
+phpunit.xml.dist

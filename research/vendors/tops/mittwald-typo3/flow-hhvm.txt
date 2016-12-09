@@ -1,0 +1,8 @@
+.idea/
+Build/Patches/
+Classes/Mittwald/HHVM/Composer/
+Configuration/
+.gitignore
+LICENSE.md
+README.md
+composer.json

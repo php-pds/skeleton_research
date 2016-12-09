@@ -1,0 +1,10 @@
+config/
+src/Eye4web/ZfcUser/Warnings/
+tests/
+views/eye4web/zfc-user/warnings/
+.gitignore
+.travis.yml
+LICENSE.md
+README.md
+composer.json
+phpunit.xml

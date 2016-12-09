@@ -1,0 +1,9 @@
+Config/
+app/
+index/classes/
+mensagem/
+.gitattributes
+.gitignore
+autoload.php
+composer.json
+index.php

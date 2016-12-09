@@ -1,0 +1,8 @@
+lib/
+plugins/
+.gitattributes
+.gitignore
+LICENCE
+README.md
+VERSION
+composer.json

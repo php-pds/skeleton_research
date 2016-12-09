@@ -1,0 +1,8 @@
+kata/
+src/
+.gitignore
+LICENSE
+README.md
+REFACTORING.md
+composer.json
+phpunit.xml.dist

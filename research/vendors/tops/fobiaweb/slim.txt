@@ -1,0 +1,12 @@
+Guzzle/
+Slim/
+tests/
+.gitignore
+.htaccess
+.travis.yml
+CONTRIBUTING.md
+LICENSE
+README.markdown
+composer.json
+index.php
+phpunit.xml.dist

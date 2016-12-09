@@ -1,0 +1,11 @@
+Command/
+Controller/
+Entity/
+Form/
+Repository/
+Resources/
+Tests/
+FulgurioLightCMSUserBundle.php
+LICENSE
+README.md
+composer.json

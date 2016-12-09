@@ -1,0 +1,12 @@
+build/
+examples/
+src/Mvg/
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+README.md
+build-phar.php
+cli.php
+composer.json
+composer.lock

@@ -1,0 +1,6 @@
+src/Wieni/Image/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock

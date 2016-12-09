@@ -1,0 +1,9 @@
+behaviors/
+components/
+controllers/
+lib/phpthumb/
+migrations/
+models/
+LICENSE.txt
+README.md
+composer.json

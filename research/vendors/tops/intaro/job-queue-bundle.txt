@@ -1,0 +1,9 @@
+Command/
+DependencyInjection/
+JobQueue/
+Resources/config/
+.gitignore
+IntaroJobQueueBundle.php
+LICENSE
+README.md
+composer.json

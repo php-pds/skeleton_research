@@ -1,0 +1,8 @@
+.idea/
+config/
+lib/Midnight/Wysiwyg/
+public/midnight/wysiwyg/
+.gitignore
+composer.json
+composer.lock
+composer.phar

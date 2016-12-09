@@ -1,0 +1,10 @@
+Cache/
+Controller/
+DependencyInjection/
+Image/
+Io/
+Resources/
+Tests/Controller/
+GikoCorpBundle.php
+README.md
+composer.json

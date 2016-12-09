@@ -1,0 +1,10 @@
+docs/
+src/EspadaV8/ClosureTable/
+tests/
+.gitignore
+.styleci.yml
+.travis.yml
+LICENSE.txt
+README.md
+composer.json
+phpunit.xml

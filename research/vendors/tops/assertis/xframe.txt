@@ -1,0 +1,15 @@
+app/
+config/
+install/
+model/
+script/
+test/
+view/
+www/
+.gitignore
+LICENSE
+README.md
+build.xml
+composer.json
+init.php
+package.xml

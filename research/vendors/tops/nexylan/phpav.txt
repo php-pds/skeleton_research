@@ -1,0 +1,10 @@
+data/
+lib/
+.gitignore
+.php_cs
+.styleci.yml
+LICENSE
+README.md
+composer.json
+phpav
+scan.php

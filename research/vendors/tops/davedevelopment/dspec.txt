@@ -1,0 +1,11 @@
+bin/
+features/
+spec/DSpec/
+src/DSpec/
+.gitignore
+.travis.yml
+LICENCE
+README.md
+behat.yml.dist
+composer.json
+dspec.yml.dist

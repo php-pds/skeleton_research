@@ -1,0 +1,4 @@
+src/PhpGw2Api/
+.gitignore
+README.md
+composer.json

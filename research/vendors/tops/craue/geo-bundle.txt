@@ -1,0 +1,14 @@
+DependencyInjection/
+Doctrine/
+Entity/
+Resources/config/doctrine-mapping/
+Tests/
+.gitignore
+.travis.yml
+.travis_install_dependencies.sh
+CHANGELOG.md
+CraueGeoBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

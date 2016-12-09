@@ -1,0 +1,7 @@
+DependencyInjection/
+EventListener/
+Resources/config/
+LICENSE
+README.md
+WMCTemplateInRouteBundle.php
+composer.json

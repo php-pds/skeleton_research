@@ -1,0 +1,8 @@
+.idea/scopes/
+src/Ten24/UtilitiesBundle/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

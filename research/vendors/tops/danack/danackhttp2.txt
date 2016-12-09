@@ -1,0 +1,9 @@
+src/HTTP2/
+tests/
+.gitignore
+LICENSE
+README
+build.xml
+composer.json
+package.xml
+phpunit.xml

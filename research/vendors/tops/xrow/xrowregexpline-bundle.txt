@@ -1,0 +1,5 @@
+DependencyInjection/
+FieldType/XrowRegexpline/
+Resources/config/
+composer.json
+xrowRegexplineBundle.php

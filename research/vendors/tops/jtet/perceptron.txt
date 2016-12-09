@@ -1,0 +1,5 @@
+src/JTet/Perceptron/
+.travis.yml
+README.md
+composer.json
+phpunit.xml.dist

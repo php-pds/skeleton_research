@@ -1,0 +1,9 @@
+DependencyInjection/
+Model/
+Resources/config/
+Services/
+.gitattributes
+.gitignore
+README.md
+ScreeperJsonApiBundle.php
+composer.json

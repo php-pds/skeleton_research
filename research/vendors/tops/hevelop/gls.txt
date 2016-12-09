@@ -1,0 +1,5 @@
+readme/
+src/app/
+composer.json
+modman
+readme.md

@@ -1,0 +1,13 @@
+cache/
+lib/Thelia/Project/
+local/
+log/
+web/
+.gitignore
+LICENSE.txt
+Readme.md
+Thelia
+bootstrap.php
+change-version.sh
+composer.json
+composer.lock

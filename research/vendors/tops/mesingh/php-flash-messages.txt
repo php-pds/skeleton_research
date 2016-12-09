@@ -1,0 +1,6 @@
+images/messages/
+samples/
+README.md
+class.messages.php
+composer.json
+style.css

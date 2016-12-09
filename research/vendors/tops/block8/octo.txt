@@ -1,0 +1,8 @@
+Octo/
+.gitignore
+LICENSE.md
+README.md
+composer.json
+module.php
+octocmd
+phpci.yml

@@ -1,0 +1,7 @@
+CHANGES.txt
+LICENCE.txt
+README.md
+composer.json
+icon.php
+manifest.xml
+start.php

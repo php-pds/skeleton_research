@@ -1,0 +1,15 @@
+Command/
+DataCollector/
+DependencyInjection/
+Protocol/
+Resources/
+Twig/
+.atoum.php
+.bootstrap.atoum.php
+.gitignore
+.travis.yml
+DebugWrapper.php
+HoathisResourceLocatorBundle.php
+Protocol.php
+Wrapper.php
+composer.json

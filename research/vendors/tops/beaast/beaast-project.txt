@@ -1,0 +1,5 @@
+src/Beaast/ProjectBundle/
+.gitignore
+LICENSE
+README.md
+composer.json

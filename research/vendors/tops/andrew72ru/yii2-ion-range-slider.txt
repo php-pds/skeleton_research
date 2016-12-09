@@ -1,0 +1,6 @@
+skinAssets/
+LICENSE
+README.md
+Slider.php
+SliderAsset.php
+composer.json

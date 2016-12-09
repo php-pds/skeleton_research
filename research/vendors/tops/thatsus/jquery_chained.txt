@@ -1,0 +1,17 @@
+test/
+.gitignore
+.jshintrc
+.travis.yml
+CONTRIBUTING.md
+Gruntfile.js
+README.md
+bower.json
+chained.jquery.json
+composer.json
+demo.html
+jquery.chained.js
+jquery.chained.min.js
+jquery.chained.remote.js
+jquery.chained.remote.min.js
+json.php
+package.json

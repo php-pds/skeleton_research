@@ -1,0 +1,10 @@
+src/FOSRestExtraBundle/
+.atoum.php
+.bootstrap.atoum.php
+.coke
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock

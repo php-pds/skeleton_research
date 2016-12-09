@@ -1,0 +1,5 @@
+Test/
+.gitignore
+Geocoding.php
+cert.pem
+composer.json

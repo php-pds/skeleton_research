@@ -1,0 +1,15 @@
+config/
+data/
+docs/
+src/ZfjRbac/
+tests/
+view/
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENSE
+Module.php
+README.md
+UPGRADE.md
+composer.json
+phpunit.xml.dist

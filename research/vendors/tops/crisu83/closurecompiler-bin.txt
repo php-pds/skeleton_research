@@ -1,0 +1,4 @@
+build/
+COPYING
+README
+composer.json

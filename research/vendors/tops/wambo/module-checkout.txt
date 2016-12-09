@@ -1,0 +1,8 @@
+src/
+.gitignore
+.scrutinizer.yml
+CHANGELOG.md
+LICENSE
+README.md
+composer.json
+phpunit.xml

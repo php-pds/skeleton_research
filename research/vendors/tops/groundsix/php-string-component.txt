@@ -1,0 +1,3 @@
+GroundSix/StringComponent/
+README.md
+composer.json

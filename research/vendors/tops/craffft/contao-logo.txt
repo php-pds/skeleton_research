@@ -1,0 +1,4 @@
+system/modules/photoalbums2/
+.gitignore
+README.md
+composer.json

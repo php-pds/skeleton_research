@@ -1,0 +1,12 @@
+Resources/
+Tests/
+examples/
+src/
+utilities/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+config.ini.dist
+phpunit.xml

@@ -1,0 +1,12 @@
+app/
+build/
+src/Fakerino/
+tests/Fakerino/Test/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CHANGES.md
+LICENCE
+README.md
+composer.json
+phpunit.xml.dist

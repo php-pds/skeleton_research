@@ -1,0 +1,6 @@
+docs/
+src/ZF2rapidComposer/
+.gitignore
+LICENSE
+README.md
+composer.json

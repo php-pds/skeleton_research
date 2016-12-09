@@ -1,0 +1,9 @@
+DependencyInjection/
+Entity/
+Repository/
+Resources/
+.gitignore
+HarvestCloudDoubleEntryBundle.php
+LICENSE
+README.md
+composer.json

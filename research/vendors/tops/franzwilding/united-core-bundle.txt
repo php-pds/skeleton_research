@@ -1,0 +1,13 @@
+Controller/
+DependencyInjection/
+Model/
+Resources/
+Routing/
+Tests/
+Twig/
+Util/
+.gitignore
+README.md
+UnitedCoreBundle.php
+composer.json
+phpunit.xml.dist

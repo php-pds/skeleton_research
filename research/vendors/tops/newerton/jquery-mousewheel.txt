@@ -1,0 +1,14 @@
+source/
+test/
+.gitignore
+.jshintrc
+ChangeLog.md
+Gruntfile.js
+LICENSE.txt
+README.md
+bower.json
+composer.json
+jquery.mousewheel.js
+jquery.mousewheel.min.js
+mousewheel.jquery.json
+package.json

@@ -1,0 +1,17 @@
+Config/
+Controller/
+DependencyInjection/
+Entity/
+Event/
+Form/
+Migrations/Schema/v1_0/
+Provider/
+Resources/
+Tests/
+Twig/
+Utils/
+.gitignore
+OroConfigBundle.php
+README.md
+composer.json
+phpunit.xml.dist

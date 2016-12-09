@@ -1,0 +1,8 @@
+locales/en-US/
+model/
+scripts/
+test/model/
+LICENSE
+README.md
+composer.json
+manifest.php

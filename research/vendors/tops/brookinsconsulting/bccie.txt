@@ -1,0 +1,13 @@
+bin/
+classes/
+cronjobs/
+design/
+doc/
+modules/bccie/
+settings/
+translations/
+COPYRIGHT.md
+LICENSE
+README.md
+composer.json
+ezinfo.php

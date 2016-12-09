@@ -1,0 +1,7 @@
+src/Francodacosta/CaparicaBundle/
+.gitignore
+LICENSE
+README.md
+_.travis.yml
+composer.json
+composer.lock

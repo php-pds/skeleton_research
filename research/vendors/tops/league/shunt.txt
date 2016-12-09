@@ -1,0 +1,13 @@
+bin/
+src/League/Shunt/
+.gitignore
+.noninteractive
+.shuntpwd
+.travis.yml
+CHANGELOG.md
+CONTRIBUTING.md
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist
+travis.xml.dist

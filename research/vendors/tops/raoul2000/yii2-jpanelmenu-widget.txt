@@ -1,0 +1,7 @@
+assets/
+CHANGE.md
+JPanelMenu.php
+JPanelMenuAsset.php
+LICENSE.md
+README.md
+composer.json

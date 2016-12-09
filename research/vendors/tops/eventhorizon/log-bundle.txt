@@ -1,0 +1,10 @@
+Admin/
+DependencyInjection/
+Document/
+Repository/
+Resources/
+Service/
+Tests/
+EventHorizonLogBundle.php
+README.markdown
+composer.json

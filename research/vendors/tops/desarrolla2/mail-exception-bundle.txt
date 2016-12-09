@@ -1,0 +1,16 @@
+DependencyInjection/
+Listener/
+Mailer/
+Resources/
+Tests/Listener/
+Twig/Extension/
+.formatter.yml
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+MailExceptionBundle.php
+README.md
+build.xml.dist
+composer.json
+phpunit.xml.dist

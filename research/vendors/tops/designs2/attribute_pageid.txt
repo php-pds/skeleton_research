@@ -1,0 +1,5 @@
+contao/
+src/MetaModels/
+tests/
+README.md
+composer.json

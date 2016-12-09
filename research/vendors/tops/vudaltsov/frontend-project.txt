@@ -1,0 +1,10 @@
+src/
+templates/
+.gitignore
+.htaccess
+LICENCE
+bower.json
+composer.json
+gulpfile.js
+index.php
+package.json

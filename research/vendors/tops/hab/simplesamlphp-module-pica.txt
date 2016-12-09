@@ -1,0 +1,8 @@
+lib/Auth/Source/
+tests/
+.eproject
+.gitignore
+Makefile
+README.md
+composer.json
+phpunit.xml

@@ -1,0 +1,15 @@
+DependencyInjection/
+Exception/
+Form/Type/
+Helper/
+Resources/config/
+Role/
+Tests/
+Twig/
+Voter/
+.travis.yml
+BecklynStaticRolesBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml

@@ -1,0 +1,6 @@
+config/
+lib/src/PorkChopSandwiches/Silex/Doctrine/Baseline/
+.gitignore
+LICENSE
+README.md
+composer.json

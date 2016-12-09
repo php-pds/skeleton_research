@@ -1,0 +1,10 @@
+css/
+js/
+lib/
+plugin/
+.gitignore
+Makefile
+README.md
+bower.json
+component.json
+composer.json

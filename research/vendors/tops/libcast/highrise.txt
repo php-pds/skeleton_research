@@ -1,0 +1,4 @@
+src/Highrise/
+test/
+README.markdown
+composer.json

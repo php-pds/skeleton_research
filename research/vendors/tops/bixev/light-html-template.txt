@@ -1,0 +1,7 @@
+src/Bixev/LightHtmlTemplate/
+test/BixevTest/LightHtmlTemplateTest/
+.gitignore
+LICENSE.md
+README.md
+composer.json
+example.php

@@ -1,0 +1,17 @@
+Command/
+DataCollector/
+DependencyInjection/
+EventListener/
+Model/
+Queue/
+Resources/
+Tests/
+.gitattributes
+.gitignore
+.travis.yml
+LICENSE
+README.md
+TulipAPIBundle.php
+composer.json
+composer.lock
+phpunit.xml

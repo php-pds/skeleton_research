@@ -1,0 +1,14 @@
+resources/
+webapp/
+.gitignore
+LICENSE
+README.md
+captcha.php
+captchaimage.php
+captchaword.php
+composer.json
+config.php.dist
+dbparams.php
+session.php
+sessioninterface.php
+top10000.php

@@ -1,0 +1,10 @@
+Command/
+DependencyInjection/
+Helper/
+Resources/config/
+Tests/Helper/
+Util/
+.gitignore
+GlavwebGeneratorBundle.php
+LICENSE
+composer.json

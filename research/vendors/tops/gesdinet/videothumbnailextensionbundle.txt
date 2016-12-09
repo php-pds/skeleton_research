@@ -1,0 +1,7 @@
+DependencyInjection/
+Resources/config/
+Twig/
+.gitignore
+GesdinetVideoThumbnailExtensionBundle.php
+README.md
+composer.json

@@ -1,0 +1,13 @@
+configuration/
+docker/web/
+src/
+testing/
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+composer.json
+docker-compose.yml
+phpunit.xml.dist
+scrutinizer.yml

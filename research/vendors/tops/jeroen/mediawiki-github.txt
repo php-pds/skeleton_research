@@ -1,0 +1,16 @@
+build/travis/
+config/
+i18n/
+src/
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+COPYING
+GitHub.i18n.magic.php
+GitHub.php
+Gruntfile.js
+README.md
+composer.json
+package.json
+phpunit.xml.dist

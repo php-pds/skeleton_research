@@ -1,0 +1,8 @@
+assets/
+content/
+layouts/
+pages/
+partials/
+README.md
+composer.json
+theme.yaml

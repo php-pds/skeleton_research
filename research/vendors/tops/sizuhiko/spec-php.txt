@@ -1,0 +1,11 @@
+library/
+man/
+tests/
+LICENSE
+README.md
+Rakefile
+composer.json
+package.pear
+spec4php.bat
+spec4php.php
+watchr.rb

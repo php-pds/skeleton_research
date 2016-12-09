@@ -1,0 +1,7 @@
+shell/
+.gitignore
+GeoJsonSql.php
+LICENSE
+README.md
+SqlGeo.php
+composer.json

@@ -1,0 +1,9 @@
+controllers/
+locale/
+models/
+static/
+templates/
+.gitignore
+composer.json
+injector.php
+manifest.yml

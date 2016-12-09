@@ -1,0 +1,8 @@
+Annotation/
+DependencyInjection/
+Resources/config/
+Tests/Controller/
+LICENSE.md
+PulpmediaSerializedResponseBundle.php
+README.md
+composer.json

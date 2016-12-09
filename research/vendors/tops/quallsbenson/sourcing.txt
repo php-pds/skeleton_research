@@ -1,0 +1,7 @@
+Test/
+vendor/
+SourceableInterface.php
+SourceableTrait.php
+SourcerInterface.php
+SourcerTrait.php
+composer.json

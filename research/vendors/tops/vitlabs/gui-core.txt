@@ -1,0 +1,11 @@
+Config/
+Contracts/
+Elements/
+Facades/
+Menu/
+Providers/
+Traits/
+.gitignore
+AbstractGenerator.php
+ResourceBag.php
+composer.json

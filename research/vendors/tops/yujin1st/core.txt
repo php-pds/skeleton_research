@@ -1,0 +1,11 @@
+behaviors/
+components/
+events/
+modules/
+views/layouts/
+.gitignore
+Bootstrap.php
+Module.php
+README.md
+composer.json
+composer.lock

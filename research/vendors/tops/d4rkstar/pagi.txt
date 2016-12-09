@@ -1,0 +1,13 @@
+docs/examples/
+resources/
+src/mg/PAGI/
+test/
+.gitignore
+LICENSE
+README.Autoloader
+README.md
+UPGRADING-FROM-1.8
+build.properties
+build.xml
+composer.json
+composer.lock

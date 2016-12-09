@@ -1,0 +1,16 @@
+Command/
+DependencyInjection/
+Dispatcher/
+Event/
+Factory/
+Listener/
+Message/
+Resources/
+Service/
+Tests/
+.gitignore
+.travis.yml
+README.md
+TrtAsyncTasksBundle.php
+composer.json
+phpunit.xml.dist

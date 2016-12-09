@@ -1,0 +1,12 @@
+code/
+tests/
+tools/
+.editorconfig
+.gitattributes
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+_config.php
+code-of-conduct.md
+composer.json

@@ -1,0 +1,8 @@
+spec/Suite/
+src/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE.txt
+README.md
+composer.json

@@ -1,0 +1,12 @@
+examples/
+src/
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.ZH.MD
+README.md
+autoload.php
+composer.json
+phpunit.xml

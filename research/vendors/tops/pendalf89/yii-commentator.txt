@@ -1,0 +1,12 @@
+assets/css/
+controllers/
+data/
+extensions/
+helpers/
+messages/ru/
+migrations/
+models/
+views/
+CommentsModule.php
+README.md
+composer.json

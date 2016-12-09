@@ -1,0 +1,9 @@
+Mock/
+Process/
+QueryFunction/
+Settings/
+.gitignore
+.gitmodules
+README.md
+Startup.php
+composer.json

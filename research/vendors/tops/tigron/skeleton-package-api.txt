@@ -1,0 +1,6 @@
+lib/Skeleton/Package/Api/
+media/css/
+template/
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,7 @@
+demo/
+.gitignore
+README.md
+bower.json
+composer.json
+jquery.smart-tabs.css
+jquery.smart-tabs.js

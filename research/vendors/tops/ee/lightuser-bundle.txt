@@ -1,0 +1,10 @@
+DependencyInjection/
+Doctrine/
+Entity/
+Model/
+Resources/
+Security/Core/User/
+EELightUserBundle.php
+LICENSE
+README.md
+composer.json

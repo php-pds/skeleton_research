@@ -1,0 +1,4 @@
+src/
+vendor/
+Readme.md
+composer.json

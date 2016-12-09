@@ -1,0 +1,4 @@
+contao-module/
+src/Hofff/Contao/Solr/
+.gitignore
+composer.json

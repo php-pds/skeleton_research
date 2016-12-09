@@ -1,0 +1,4 @@
+images/flags_iso/
+FlagIcon.php
+README.md
+composer.json

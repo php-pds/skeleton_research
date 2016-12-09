@@ -1,0 +1,15 @@
+schemas/wb/shortcodes/
+src/php/Wb/Schemas/Shortcodes/
+tests/php/
+.codeclimate.yml
+.editorconfig
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENSE.md
+README.md
+composer.json
+pbj-schema-stores.php
+pbj-schemas.php
+pbjc.yml
+phpunit.xml.dist

@@ -1,0 +1,9 @@
+DependencyInjection/
+Entity/
+Form/
+Resolver/
+Resources/
+LICENSE
+README.md
+VictoireWidgetMailchimpNewsletterBundle.php
+composer.json

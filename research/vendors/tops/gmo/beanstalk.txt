@@ -1,0 +1,8 @@
+.idea/
+bin/
+src/
+tests/
+.gitignore
+CHANGELOG-2.x.md
+LICENSE
+composer.json

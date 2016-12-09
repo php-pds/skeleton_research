@@ -1,0 +1,7 @@
+config/
+public/
+LICENSE.txt
+README.md
+composer.json
+composer.phar
+zend-license.txt

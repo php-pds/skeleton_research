@@ -1,0 +1,9 @@
+config/
+src/Zf2User/
+view/zf2-user/account/
+.gitignore
+CHANGELOG.md
+LICENSE
+Module.php
+README.md
+composer.json

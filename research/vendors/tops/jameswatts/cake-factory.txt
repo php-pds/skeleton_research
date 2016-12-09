@@ -1,0 +1,12 @@
+Config/Schema/
+Console/Command/Task/
+Controller/
+Lib/
+Model/
+Test/
+Vendor/
+View/Factory/
+webroot/
+LICENSE
+README.md
+composer.json

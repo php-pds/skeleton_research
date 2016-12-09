@@ -1,0 +1,12 @@
+doc/
+features/
+spec/Phn/Dal/
+src/Phn/Dal/
+.gitignore
+.styleci.yml
+.travis.yml
+LICENCE
+README.md
+behat.yml
+composer.json
+composer.lock

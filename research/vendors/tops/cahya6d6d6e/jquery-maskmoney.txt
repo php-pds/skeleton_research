@@ -1,0 +1,15 @@
+demo/
+dist/
+src/
+test/
+.editorconfig
+.gitignore
+.jshintrc
+.travis.yml
+Gruntfile.js
+LICENSE
+README.md
+bower.json
+composer.json
+maskMoney.jquery.json
+package.json

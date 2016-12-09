@@ -1,0 +1,16 @@
+backup/moodle2/
+classes/event/
+db/
+lang/en/
+pix/
+LICENSE
+README.md
+composer.json
+grade.php
+index.php
+ipn.php
+lib.php
+locallib.php
+mod_form.php
+version.php
+view.php

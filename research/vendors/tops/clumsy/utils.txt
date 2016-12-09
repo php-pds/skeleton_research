@@ -1,0 +1,13 @@
+public/
+src/
+tests/
+.gitignore
+.travis.yml
+Gruntfile.js
+bitbucket-pipelines.yml
+bower.json
+composer.json
+coverage.xml
+package.json
+phpunit.xml
+readme.md

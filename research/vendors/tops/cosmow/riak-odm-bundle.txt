@@ -1,0 +1,17 @@
+CacheWarmer/
+Command/
+Cursor/
+DataCollector/
+DependencyInjection/
+Form/
+Logger/
+Mapping/Driver/
+Resources/
+Validator/Constraints/
+DoctrineRiakBundle.php
+LICENSE
+ManagerConfigurator.php
+ManagerRegistry.php
+README.markdown
+composer.json
+phpunit.xml.dist

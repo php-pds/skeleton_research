@@ -1,0 +1,10 @@
+bin/
+build/tpl/
+src/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+autoload.php.dist
+composer.json
+phpunit.xml.dist

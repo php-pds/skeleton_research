@@ -1,0 +1,8 @@
+src/Foowie/CloudflareDetection/
+tests/
+.gitignore
+README.md
+RenewAddresses.php
+circle.yml
+codeception.yml
+composer.json

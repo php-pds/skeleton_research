@@ -1,0 +1,9 @@
+assets/
+config/
+lang/en/
+views/
+.gitignore
+composer.json
+composer.lock
+theme.json
+theme.php

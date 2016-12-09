@@ -1,0 +1,5 @@
+src/Rcon/
+.gitignore
+LICENSE
+README.md
+composer.json

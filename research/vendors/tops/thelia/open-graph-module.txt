@@ -1,0 +1,11 @@
+Config/
+Controller/
+Form/
+Hook/
+I18n/
+Model/Config/
+templates/
+LICENSE.txt
+OpenGraph.php
+Readme.md
+composer.json

@@ -1,0 +1,11 @@
+app/
+bin/
+src/
+tests/
+var/
+web/
+.env
+.gitignore
+.travis.yml
+composer.json
+phpunit.xml

@@ -1,0 +1,17 @@
+.gitignore
+ActivityInterface.php
+AuthenticationInterface.php
+AuthorisationInterface.php
+CookieInterface.php
+EncryptInterface.php
+FlashMessageInterface.php
+LICENSE
+MailerInterface.php
+MessagesInterface.php
+README.md
+RegistrationInterface.php
+SessionInterface.php
+TemplateInterface.php
+UserDataInterface.php
+UserInterface.php
+composer.json

@@ -1,0 +1,8 @@
+DependencyInjection/
+Exception/
+Resources/config/
+Services/
+LICENSE
+MantisApiBundle.php
+README.md
+composer.json

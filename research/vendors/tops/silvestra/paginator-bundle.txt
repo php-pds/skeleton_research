@@ -1,0 +1,9 @@
+DependencyInjection/
+Resources/
+Twig/
+.gitignore
+.travis.yml
+README.md
+SilvestraPaginatorBundle.php
+composer.json
+phpunit.xml.dist

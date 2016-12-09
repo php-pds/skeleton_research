@@ -1,0 +1,10 @@
+etc/
+lib/Deploy/
+tests/Deploy/Config/
+.gitignore
+.travis.yml
+COPYING
+README.md
+composer.json
+composer.lock
+deploy

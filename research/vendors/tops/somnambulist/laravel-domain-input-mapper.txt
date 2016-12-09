@@ -1,0 +1,9 @@
+src/
+tests/Somnambulist/Tests/Domain/
+.gitignore
+CHANGELOG.md
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml

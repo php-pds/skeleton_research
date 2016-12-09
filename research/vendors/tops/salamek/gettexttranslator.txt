@@ -1,0 +1,6 @@
+GettextTranslator/
+nbproject/
+.gitignore
+LICENCE
+README.md
+composer.json

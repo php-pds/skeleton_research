@@ -1,0 +1,6 @@
+spec/J5lx/AurClient/
+src/J5lx/AurClient/
+.gitignore
+LICENSE
+README.md
+composer.json

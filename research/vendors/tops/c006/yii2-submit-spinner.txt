@@ -1,0 +1,6 @@
+assets/
+views/
+LICENSE
+README.md
+SubmitSpinner.php
+composer.json

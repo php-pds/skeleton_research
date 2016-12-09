@@ -1,0 +1,6 @@
+bin/
+datatypes/xrownoderelation/
+design/standard/templates/
+settings/
+translations/ger-DE/
+composer.json

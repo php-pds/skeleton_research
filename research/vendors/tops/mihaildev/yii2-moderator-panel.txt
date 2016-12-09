@@ -1,0 +1,10 @@
+assets/
+Bootstrap.php
+Component.php
+FrameWidget.php
+LICENSE.md
+LinkWidget.php
+ModeratorPanel.php
+README.md
+composer.json
+frameLayout.php

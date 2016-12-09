@@ -1,0 +1,11 @@
+Controller/
+DependencyInjection/
+Entity/
+Form/
+Resources/
+Service/
+Structure/Attribute/
+.gitignore
+README.md
+YCMSBundle.php
+composer.json

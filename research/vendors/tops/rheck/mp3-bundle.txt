@@ -1,0 +1,12 @@
+DependencyInjection/
+Handler/
+Registry/
+Resources/config/
+Service/
+StaticFactory/
+.gitignore
+LICENSE
+README.md
+RheckMp3Bundle.php
+composer.json
+composer.lock

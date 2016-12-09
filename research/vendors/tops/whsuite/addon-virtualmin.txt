@@ -1,0 +1,12 @@
+assets/img/
+configs/
+controllers/
+languages/
+libraries/
+migrations/
+views/
+.gitignore
+LICENSE
+README.md
+composer.json
+virtualmin_details.php

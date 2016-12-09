@@ -1,0 +1,5 @@
+src/Traits/
+.gitignore
+composer.json
+composer.lock
+readme.md

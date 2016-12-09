@@ -1,0 +1,9 @@
+.gitignore
+README.md
+composer.json
+es_ES-not-translated.csv
+es_ES-translated-and-google.csv
+es_ES-translated.csv
+es_ES.csv
+language.xml
+registration.php

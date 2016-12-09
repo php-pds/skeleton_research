@@ -1,0 +1,8 @@
+DependencyInjection/
+Form/Type/
+Resources/
+UI/Message/
+LICENSE
+README.md
+YepsuaSmarTwigBundle.php
+composer.json

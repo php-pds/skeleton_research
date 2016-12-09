@@ -1,0 +1,7 @@
+Resources/public/
+LICENSE-APACHE-2.0
+LICENSE-MIT
+README-ORIG.md
+README.md
+StingerVisJsBundle.php
+composer.json

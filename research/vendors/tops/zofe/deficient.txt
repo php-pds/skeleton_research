@@ -1,0 +1,13 @@
+config/
+database/
+lang/
+models/
+src/Zofe/Deficient/
+views/deficient/
+.gitignore
+.htaccess
+LICENSE
+README.md
+composer.json
+deficient
+index.php

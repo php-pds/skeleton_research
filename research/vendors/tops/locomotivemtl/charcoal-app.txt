@@ -1,0 +1,12 @@
+bin/
+build/travis/
+src/Charcoal/App/
+templates/charcoal/app/handler/
+tests/
+.editorconfig
+.gitattributes
+.gitignore
+.travis.yml
+README.md
+composer.json
+phpcs.xml

@@ -1,0 +1,14 @@
+assets/
+classes/
+config/
+dca/
+form/
+languages/
+templates/fineuploader/
+widgets/
+.gitignore
+LICENSE
+README.md
+composer.json
+gulpfile.js
+package.json

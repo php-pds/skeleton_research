@@ -1,0 +1,11 @@
+bin/
+data/
+scripts/
+src/PhpCmplr/
+tests/PhpCmplr/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

@@ -1,0 +1,5 @@
+docs/
+src/VirtualIdentity/AggregatorBundle/
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,9 @@
+.idea/
+controllers/
+lib/
+static/
+views/
+.gitignore
+README.md
+composer.json
+plugin.xml

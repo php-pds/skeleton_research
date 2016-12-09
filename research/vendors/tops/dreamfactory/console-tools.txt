@@ -1,0 +1,13 @@
+bin/
+config/
+src/
+tests/
+.dreamfactory.php
+.gitattributes
+.gitignore
+CHANGELOG.md
+README.md
+composer.json
+phpdoc.dist.xml
+phpunit.dist.xml
+phpunit.xml

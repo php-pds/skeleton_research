@@ -1,0 +1,8 @@
+src/MaDnh/Request/
+test/
+.gitignore
+LICENSE
+README.md
+composer.json
+cookie.txt
+cookie2.txt

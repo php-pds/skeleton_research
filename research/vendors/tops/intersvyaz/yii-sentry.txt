@@ -1,0 +1,11 @@
+Tests/
+assets/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+SentryComponent.php
+SentryLogRoute.php
+composer.json
+phpunit.xml

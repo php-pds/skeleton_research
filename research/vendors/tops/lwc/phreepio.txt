@@ -1,0 +1,6 @@
+lib/Phreepio/
+.gitignore
+README.md
+composer.json
+composer.lock
+phreepio

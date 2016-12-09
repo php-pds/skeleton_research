@@ -1,0 +1,8 @@
+.rocketeer/
+site/
+web/
+.gitignore
+LICENCE.md
+README.md
+build.xml
+composer.json

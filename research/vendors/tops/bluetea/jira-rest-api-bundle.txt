@@ -1,0 +1,6 @@
+DependencyInjection/
+Resources/config/
+BlueteaJiraRestApiBundle.php
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,6 @@
+config/
+resources/
+templates/
+translations/en/
+.gitignore
+composer.json

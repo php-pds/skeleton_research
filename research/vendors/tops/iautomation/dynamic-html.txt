@@ -1,0 +1,5 @@
+src/DynamicHtml/
+.gitattributes
+README.md
+composer.json
+composer.lock

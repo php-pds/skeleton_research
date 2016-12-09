@@ -1,0 +1,13 @@
+build/
+src/King23/
+tests/
+.gitignore
+.rmt.yml
+CHANGELOG
+LICENSE.txt
+README.md
+box.json
+build.xml
+composer.json
+composer.lock
+phpdox.xml

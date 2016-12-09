@@ -1,0 +1,14 @@
+fb-examples/
+src/
+tests/
+.gitignore
+.hhconfig
+CONTRIBUTING.md
+DEBUGGING.md
+LICENSE
+PATENTS
+README.md
+TESTING.md
+composer.json
+composer.lock
+phpunit.xml

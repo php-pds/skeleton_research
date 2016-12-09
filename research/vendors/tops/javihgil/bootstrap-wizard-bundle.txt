@@ -1,0 +1,6 @@
+Resources/
+.gitignore
+JhgBootstrapWizardBundle.php
+MIT-LICENSE.txt
+README.md
+composer.json

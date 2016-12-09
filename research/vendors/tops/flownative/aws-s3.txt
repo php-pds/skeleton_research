@@ -1,0 +1,6 @@
+Classes/
+Configuration/
+Documentation/
+LICENSE
+README.md
+composer.json

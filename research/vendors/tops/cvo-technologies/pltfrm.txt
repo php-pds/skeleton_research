@@ -1,0 +1,8 @@
+Config/
+Controller/
+Event/
+Model/
+View/
+WebhostingProvider/
+composer.json
+sonar-project.properties

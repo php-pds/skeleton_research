@@ -1,0 +1,9 @@
+Command/
+DependencyInjection/
+Manager/
+ORM/Doctrine/DQL/
+Resources/
+.gitignore
+JrkLevenshteinBundle.php
+README.md
+composer.json

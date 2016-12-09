@@ -1,0 +1,5 @@
+Classes/Flowpack/Behat/Command/
+Resources/Private/
+Tests/
+Readme.md
+composer.json

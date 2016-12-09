@@ -1,0 +1,6 @@
+NadeoLive/
+Standard/
+.gitignore
+LICENSE
+README.md
+composer.json

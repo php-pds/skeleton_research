@@ -1,0 +1,8 @@
+bin/
+example/
+src/Libcast/JobQueue/
+.gitignore
+LICENSE
+composer.json
+composer.lock
+readme.md

@@ -1,0 +1,7 @@
+actions/apiadmin/
+languages/
+views/default/
+.gitignore
+composer.json
+manifest.xml
+start.php

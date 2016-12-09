@@ -1,0 +1,8 @@
+icons/
+lang/
+libs/
+.gitignore
+LICENSE.md
+README.md
+composer.json
+plugin.js

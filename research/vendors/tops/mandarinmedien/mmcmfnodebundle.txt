@@ -1,0 +1,9 @@
+DependencyInjection/
+Entity/
+Repository/
+Resources/config/
+Tests/Controller/
+LICENSE
+MMCmfNodeBundle.php
+README.md
+composer.json

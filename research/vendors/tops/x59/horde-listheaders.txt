@@ -1,0 +1,7 @@
+doc/Horde/ListHeaders/
+lib/Horde/
+locale/
+test/Horde/ListHeaders/
+.gitignore
+composer.json
+package.xml

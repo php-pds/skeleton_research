@@ -1,0 +1,9 @@
+administrator/components/com_todo/
+plugins/finder/todo/
+site/
+CHANGELOG.md
+CONTRIBUTING.md
+LICENSE
+README.md
+composer.json
+pkg_todo.xml

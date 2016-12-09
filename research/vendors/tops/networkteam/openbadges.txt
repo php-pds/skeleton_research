@@ -1,0 +1,7 @@
+Classes/Networkteam/OpenBadges/
+Configuration/
+Migrations/Mysql/
+Resources/
+LICENSE
+README.rst
+composer.json

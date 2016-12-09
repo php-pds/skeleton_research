@@ -1,0 +1,7 @@
+classes/
+.gitignore
+LICENSE
+README.md
+aw2mw.php
+composer.json
+composer.lock

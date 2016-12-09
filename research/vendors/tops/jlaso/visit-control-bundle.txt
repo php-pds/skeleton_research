@@ -1,0 +1,8 @@
+Controller/
+DependencyInjection/
+Entity/
+Listener/
+Resources/
+JaitecClickBundle.php
+README.md
+composer.json

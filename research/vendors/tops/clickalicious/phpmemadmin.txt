@@ -1,0 +1,15 @@
+app/
+bin/
+docs/
+lib/Clickalicious/PhpMemAdmin/
+tests/
+web/
+.coveralls.yml
+.editorconfig
+.gitattributes
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+composer.json

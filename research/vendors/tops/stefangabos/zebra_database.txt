@@ -1,0 +1,12 @@
+examples/
+includes/
+languages/
+public/
+README.md
+Zebra_Database.php
+changelog.txt
+composer.json
+documentation.txt
+index.html
+license.txt
+readme.txt

@@ -1,0 +1,5 @@
+DataCollector/
+.gitignore
+CHANGELOG.md
+LICENSE
+composer.json

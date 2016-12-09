@@ -1,0 +1,17 @@
+assets/
+inc/WPGCSOffload/
+tests/
+.codeclimate.yml
+.editorconfig
+.gitignore
+.travis.yml
+README.md
+changelog.txt
+composer.json
+deploy.sh
+gulpfile.js
+license.txt
+package.json
+phpunit.xml
+readme.txt
+wp-gcs-offload.php

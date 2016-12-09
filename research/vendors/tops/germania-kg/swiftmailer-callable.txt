@@ -1,0 +1,7 @@
+src/
+tests/
+README.md
+composer.json
+composer.lock
+contributors.txt
+phpunit.xml.dist

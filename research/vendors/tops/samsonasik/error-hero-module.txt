@@ -1,0 +1,13 @@
+build/logs/
+config/
+data/
+spec/
+src/
+view/error-hero-module/
+.coveralls.yml
+.gitignore
+.travis.yml
+CONTRIBUTING.md
+LICENSE
+README.md
+composer.json

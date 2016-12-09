@@ -1,0 +1,5 @@
+src/Pegase/
+LICENSE
+README.fr.md
+TODO.fr.md
+composer.json

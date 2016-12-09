@@ -1,0 +1,10 @@
+conf/
+public/
+src/CubexProject/
+.gitignore
+README.md
+composer.json
+cubex
+phpcs.xml
+phpmd.xml
+phpunit.xml.dist

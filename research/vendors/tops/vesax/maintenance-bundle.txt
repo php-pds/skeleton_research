@@ -1,0 +1,9 @@
+Command/
+DependencyInjection/
+Resources/
+.gitignore
+LICENSE
+README.md
+VesaxMaintenanceBundle.php
+composer.json
+maintenance_handler.php

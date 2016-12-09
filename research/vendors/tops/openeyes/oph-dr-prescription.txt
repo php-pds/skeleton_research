@@ -1,0 +1,17 @@
+assets/
+components/
+config/
+controllers/
+grunt/
+migrations/
+models/
+tests/js/
+views/
+.gitignore
+Gruntfile.js
+OphDrPrescriptionModule.php
+README.md
+RELEASE
+UPGRADE
+composer.json
+package.json

@@ -1,0 +1,10 @@
+bin/
+faker/
+skelton/
+src/Migration/
+.gitignore
+.gitmodules
+LICENSE
+composer.json
+phpunit.xml
+readme.md

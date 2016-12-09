@@ -1,0 +1,8 @@
+.gitignore
+composer.json
+core.properties
+logging.properties
+schema-5.xml
+schema.xml
+solrconfig-5.xml
+solrconfig.xml

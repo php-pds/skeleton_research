@@ -1,0 +1,10 @@
+docs/en/
+src/Kdyby/BootstrapFormRenderer/
+tests/
+.gitattributes
+.gitignore
+.travis.yml
+README.md
+changelog.md
+composer.json
+license.md

@@ -1,0 +1,10 @@
+src/Twig/
+tests/
+.gitignore
+.travis.composer.json
+.travis.yml
+CONTRIBUTING.md
+LICENSE
+README.md
+autoload_classmap.php
+composer.json

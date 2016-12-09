@@ -1,0 +1,11 @@
+mysite/
+themes/base/
+.bowerrc
+.editorconfig
+.gitconfig
+.gitignore
+.htaccess
+README.md
+bower.json
+composer.json
+phpunit.xml

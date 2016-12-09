@@ -1,0 +1,8 @@
+src/Nuked/Composer/
+test/
+.editorconfig.org
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json

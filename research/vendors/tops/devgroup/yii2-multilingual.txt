@@ -1,0 +1,15 @@
+ci/
+demo @ eaed8e5
+src/
+tests/
+.gitignore
+.gitlab-ci.yml
+.gitmodules
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+coverage.clover
+phpunit.xml.dist

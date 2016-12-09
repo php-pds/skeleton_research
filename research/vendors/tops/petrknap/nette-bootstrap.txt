@@ -1,0 +1,9 @@
+src/Bootstrap/
+tests/Bootstrap/
+.gitattributes
+.gitignore
+LICENSE
+README.md
+VERSIONING.md
+composer.json
+phpunit.xml

@@ -1,0 +1,6 @@
+src/Parishop/
+.gitignore
+LICENSE
+README.md
+composer.json
+phpunit.xml

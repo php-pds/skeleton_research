@@ -1,0 +1,12 @@
+resources/views/
+src/
+tests/
+.editorconfig
+.env.example
+.gitattributes
+.gitignore
+.travis.yml
+LICENSE.txt
+composer.json
+phpunit.xml
+readme.md

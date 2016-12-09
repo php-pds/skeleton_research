@@ -1,0 +1,8 @@
+assets/
+LICENSE.md
+README.md
+UMeditor.php
+UMeditorAction.php
+UMeditorAsset.php
+Uploader.php
+composer.json

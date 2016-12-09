@@ -1,0 +1,17 @@
+Annotation/
+Command/
+DependencyInjection/
+EventListener/
+Exception/
+Metadata/
+Resources/
+Security/
+Tests/
+Twig/
+.gitignore
+.travis.yml
+CHANGELOG.md
+JMSSecurityExtraBundle.php
+README.md
+composer.json
+phpunit.xml.dist

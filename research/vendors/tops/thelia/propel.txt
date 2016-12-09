@@ -1,0 +1,15 @@
+bin/
+features/
+resources/
+src/Propel/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+UPDATE.md
+autoload.php.dist
+circle.yml
+composer.json
+phpunit.xml.dist
+pom.xml.dist

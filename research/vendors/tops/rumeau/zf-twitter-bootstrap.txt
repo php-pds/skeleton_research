@@ -1,0 +1,10 @@
+config/
+public/
+src/ZfTwitterBootstrap/
+.gitattributes
+.gitignore
+.gitmodules
+Module.php
+README.md
+autoload_classmap.php
+composer.json

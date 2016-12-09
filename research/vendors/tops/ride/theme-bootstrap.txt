@@ -1,0 +1,10 @@
+config/
+l10n/
+public/bootstrap/
+src/ride/library/template/
+view/smarty/bootstrap/
+.gitignore
+CHANGELOG.md
+README.md
+composer.json
+ride.json

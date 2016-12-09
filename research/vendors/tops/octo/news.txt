@@ -1,0 +1,6 @@
+Admin/
+Block/
+Migration/
+Template/Block/
+Module.php
+composer.json

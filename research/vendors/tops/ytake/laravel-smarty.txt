@@ -1,0 +1,14 @@
+src/
+tests/
+.coveralls.yml
+.gitignore
+.php_cs
+.scrutinizer.yml
+.sensiolabs.yml
+.styleci.yml
+.travis.yml
+LICENSE.txt
+README.md
+composer.json
+phpmd.xml
+phpunit.xml

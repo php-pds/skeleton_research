@@ -1,0 +1,7 @@
+classes/
+config/
+.gitignore
+README.md
+composer.json
+composer.lock
+init.php

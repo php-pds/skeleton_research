@@ -1,0 +1,10 @@
+doc/
+lib/WebDriver/
+test/Test/WebDriver/
+.coveralls.yml
+.gitignore
+.travis.yml
+README.md
+composer.json
+phpdoc.dist.xml
+phpunit.xml.dist

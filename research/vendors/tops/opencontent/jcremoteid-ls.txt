@@ -1,0 +1,7 @@
+classes/
+datatypes/jcremoteid/
+design/standard/templates/
+modules/remoteid/
+settings/
+README
+composer.json

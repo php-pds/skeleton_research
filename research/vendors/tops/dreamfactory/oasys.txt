@@ -1,0 +1,13 @@
+.idea/
+assets/
+src/
+tests/
+.dreamfactory.php
+.gitattributes
+.gitignore
+README.md
+composer.json
+composer.lock
+phpdoc.xml-dist
+phpunit.xml
+phpunit.xml-dist

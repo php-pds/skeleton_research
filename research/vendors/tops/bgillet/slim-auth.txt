@@ -1,0 +1,6 @@
+sql/
+src/BenGee/Slim/Auth/
+tst/
+.gitattributes
+.gitignore
+composer.json

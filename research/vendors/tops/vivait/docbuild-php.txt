@@ -1,0 +1,6 @@
+spec/Vivait/DocBuild/
+src/Vivait/DocBuild/
+.gitignore
+.travis.yml
+README.md
+composer.json

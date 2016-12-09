@@ -1,0 +1,10 @@
+Test/Unit/
+.State
+.gitignore
+CHANGELOG.md
+Error.php
+Exception.php
+Group.php
+Idle.php
+README.md
+composer.json

@@ -1,0 +1,6 @@
+src/Middleware/
+variables/
+.gitignore
+HttpMessagesNewRelicMiddlewarePlugin.php
+composer.json
+config.php

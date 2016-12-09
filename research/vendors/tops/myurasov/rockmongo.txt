@@ -1,0 +1,13 @@
+app/
+js/
+themes/default/
+.gitignore
+CHANGELOG.txt
+INSTALL.txt
+LICENSE.txt
+README.txt
+composer.json
+config-sample.php
+index.php
+robots.txt
+rock.php

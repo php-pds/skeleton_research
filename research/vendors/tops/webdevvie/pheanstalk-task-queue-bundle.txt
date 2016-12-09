@@ -1,0 +1,16 @@
+Command/
+DependencyInjection/
+Docs/source/
+Entity/
+QA/
+Resources/config/
+Service/
+TaskDescription/
+Tests/Service/
+.gitignore
+LICENSE
+README.md
+WebdevviePheanstalkTaskQueueBundle.php
+composer.json
+composer.lock
+phpci.yml

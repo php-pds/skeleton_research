@@ -1,0 +1,11 @@
+languages/
+lib/
+views/default/
+CHANGELOG.md
+README.md
+activate.php
+autoloader.php
+composer.json
+manifest.xml
+start.php
+views.php

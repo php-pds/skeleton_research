@@ -1,0 +1,9 @@
+DependencyInjection/
+Exception/
+Resources/
+Service/
+Shortcut/
+.gitignore
+README.md
+ShortcutsBundle.php
+composer.json

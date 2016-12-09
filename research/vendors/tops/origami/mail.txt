@@ -1,0 +1,5 @@
+.gitignore
+LICENSE
+MailableInterface.php
+Mailer.php
+composer.json

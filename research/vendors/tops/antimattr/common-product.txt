@@ -1,0 +1,8 @@
+bin/
+src/AntiMattr/Common/Product/
+tests/AntiMattr/Tests/Common/Product/
+.gitignore
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

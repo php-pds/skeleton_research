@@ -1,0 +1,4 @@
+src/TrekkSoft/Cache/
+LICENSE
+README.md
+composer.json

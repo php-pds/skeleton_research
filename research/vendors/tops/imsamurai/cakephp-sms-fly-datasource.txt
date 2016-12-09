@@ -1,0 +1,11 @@
+Config/
+Model/
+Test/Case/
+travis/
+.editorconfig
+.semver
+.travis.yml
+CONTRIBUTING.markdown
+LICENSE.txt
+README.md
+composer.json

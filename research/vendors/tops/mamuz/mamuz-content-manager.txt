@@ -1,0 +1,13 @@
+config/
+src/MamuzContentManager/
+tests/
+view/mamuz-content-manager/query/
+.gitattributes
+.gitignore
+.travis.yml
+LICENSE
+Module.php
+README.md
+composer.json
+phpunit.xml
+template_map.php

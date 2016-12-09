@@ -1,0 +1,12 @@
+FSM/
+docs/
+examples/
+tests/
+.gitignore
+.travis.yml
+FSM.php
+LICENSE
+README.rst
+composer.json
+package.xml
+phpdoc.sh

@@ -1,0 +1,8 @@
+src/BenGorFile/SymfonyFilesystemBridge/Infrastructure/Domain/Model/
+.editorconfig
+.gitignore
+.php_cs
+.travis.yml
+LICENSE
+README.md
+composer.json

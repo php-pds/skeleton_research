@@ -1,0 +1,8 @@
+languages/
+models/
+views/default/plugins/message_queue/
+CHANGES.txt
+README.md
+composer.json
+manifest.xml
+start.php

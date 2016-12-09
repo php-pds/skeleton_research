@@ -1,0 +1,9 @@
+etc/
+src/
+.gitignore
+README.md
+cmspages-screenshot.png
+composer.json
+default.properties.ci
+modman
+stores-screenshot.png

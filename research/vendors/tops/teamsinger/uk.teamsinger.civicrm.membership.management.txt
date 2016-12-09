@@ -1,0 +1,11 @@
+CRM/Management/
+api/v3/WaitingList/
+build/
+templates/
+xml/
+LICENSE.txt
+README.md
+composer.json
+info.xml
+management.civix.php
+management.php

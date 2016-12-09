@@ -1,0 +1,12 @@
+demo/
+tests/
+.gitignore
+.travis.yml
+Cache.php
+CacheInterface.php
+GarbageCollect.php
+LICENSE
+README.md
+autoload.php
+composer.json
+phpunit.xml

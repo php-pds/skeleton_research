@@ -1,0 +1,4 @@
+src/Marketo/CliTools/
+LICENSE
+README.md
+composer.json

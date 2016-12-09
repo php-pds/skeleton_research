@@ -1,0 +1,6 @@
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+plugin.php

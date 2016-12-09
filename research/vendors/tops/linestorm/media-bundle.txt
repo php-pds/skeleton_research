@@ -1,0 +1,7 @@
+docs/
+src/LineStorm/MediaBundle/
+tests/
+.bower.json
+.travis.yml
+README.md
+composer.json

@@ -1,0 +1,15 @@
+api-demo/
+js-demo/
+src/
+tests/
+.gitattributes
+.gitignore
+.travis.yml
+CHANGELOG.md
+CONTRIBUTING.md
+LICENSE.md
+README.md
+composer.json
+composer.phar
+phpunit.xml.dist
+scrutinizer.yml

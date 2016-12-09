@@ -1,0 +1,17 @@
+actions/
+assets/
+migrations/
+models/
+tests/
+views/
+.gitattributes
+.gitignore
+.php_cs
+.travis.yml
+Crawler.php
+LICENSE.md
+LinkPreview.php
+LinkPreviewAsset.php
+README.md
+composer.json
+phpunit.xml.dist

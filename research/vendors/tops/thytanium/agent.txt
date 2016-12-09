@@ -1,0 +1,6 @@
+src/Thytanium/Agent/
+tests/
+.gitignore
+README.md
+composer.json
+phpunit.xml

@@ -1,0 +1,5 @@
+root/
+.gitignore
+README.md
+composer.json
+prompts.json

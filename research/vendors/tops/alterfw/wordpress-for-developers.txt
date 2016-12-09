@@ -1,0 +1,7 @@
+lib/
+public/
+test/
+.gitignore
+.gitmodules
+README.markdown
+composer.json

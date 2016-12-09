@@ -1,0 +1,7 @@
+src/Doctrine/DBAL/PostgresTypes/
+tests/Doctrine/Tests/DBAL/PostgresTypes/
+.gitignore
+.travis.yml
+README.md
+composer.json
+phpunit.xml.dist

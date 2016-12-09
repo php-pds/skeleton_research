@@ -1,0 +1,4 @@
+src/Netresearch/Composer/Patches/
+README.md
+composer.json
+phpunit.xml

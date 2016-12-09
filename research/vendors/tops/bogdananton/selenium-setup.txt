@@ -1,0 +1,10 @@
+bin/
+config/
+lib/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+cacert.pem
+composer.json
+selenium-setup

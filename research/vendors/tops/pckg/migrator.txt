@@ -1,0 +1,3 @@
+src/Pckg/Migration/
+composer.json
+console.php

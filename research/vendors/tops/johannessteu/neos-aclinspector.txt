@@ -1,0 +1,5 @@
+Classes/Neos/ACLInspector/
+Configuration/
+Resources/Private/
+Readme.md
+composer.json

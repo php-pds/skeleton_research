@@ -1,0 +1,11 @@
+src/
+tests/
+.coveralls.yml
+.gitignore
+.scrutinizer.yml
+.styleci.yml
+.travis.yml
+MIT-LICENSE
+README.md
+composer.json
+phpunit.xml

@@ -1,0 +1,14 @@
+Block/
+Controller/
+Helper/
+Model/
+Setup/
+Test/Unit/
+etc/
+view/
+.travis.yml
+CONTRIBUTING.md
+README.md
+composer.json
+phpunit_config.xml
+registration.php

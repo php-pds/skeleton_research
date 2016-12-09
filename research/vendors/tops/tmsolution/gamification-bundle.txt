@@ -1,0 +1,13 @@
+Controller/
+DependencyInjection/
+Entity/
+EventListener/
+FixturesInstallation/
+Model/
+Resources/
+Service/
+Soap/
+Tests/
+TMSolutionGamificationBundle.php
+composer.json
+composer.lock

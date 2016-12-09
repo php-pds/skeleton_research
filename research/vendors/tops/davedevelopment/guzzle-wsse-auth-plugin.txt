@@ -1,0 +1,7 @@
+src/Atst/Guzzle/Http/Plugin/
+tests/Atst/Guzzle/Http/Plugin/
+.gitignore
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

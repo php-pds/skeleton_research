@@ -1,0 +1,6 @@
+.gitignore
+BowerAssets.php
+Highcharts.php
+LICENSE.md
+README.md
+composer.json

@@ -1,0 +1,11 @@
+DependencyInjection/
+Resources/config/
+Service/
+Tests/Unit/
+.gitignore
+.travis.yml
+DGOptimizedAccessDecisionManagerBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

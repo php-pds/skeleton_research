@@ -1,0 +1,15 @@
+assets/
+inc/WPDLib/
+languages/
+.bowerrc
+.codeclimate.yml
+.editorconfig
+.gitignore
+README.md
+bower.json
+changelog.txt
+composer.json
+gulpfile.js
+index.php
+license.txt
+package.json

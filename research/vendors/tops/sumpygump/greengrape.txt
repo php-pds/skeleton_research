@@ -1,0 +1,16 @@
+assets/
+bin/
+cache/content/
+content/
+lib/Greengrape/
+tests/
+themes/grapeseed/
+.gitignore
+.htaccess-dist
+README.md
+composer.json
+config.ini-dist
+favicon.ico
+index.php
+init.php
+todo.txt

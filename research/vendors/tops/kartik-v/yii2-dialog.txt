@@ -1,0 +1,10 @@
+.github/
+assets/js/
+messages/
+CHANGE.md
+Dialog.php
+DialogAsset.php
+DialogBootstrapAsset.php
+LICENSE.md
+README.md
+composer.json

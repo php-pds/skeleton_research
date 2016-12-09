@@ -1,0 +1,12 @@
+config/
+data/cache/
+src/
+test/
+.gitignore
+.php_cs
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpcs.xml
+phpunit.xml

@@ -1,0 +1,11 @@
+Controller/
+DependencyInjection/
+Resources/config/
+ResponseSigner/
+SecretKeyProvider/
+Security/
+.gitignore
+BrouzieCrossdomainAuthBundle.php
+LICENSE
+README.md
+composer.json

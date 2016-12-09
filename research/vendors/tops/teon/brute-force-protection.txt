@@ -1,0 +1,6 @@
+src/
+COPYING
+LICENSE
+README.md
+autoload_register.php
+composer.json

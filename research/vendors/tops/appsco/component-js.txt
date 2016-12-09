@@ -1,0 +1,4 @@
+src/BWC/Component/JsBundle/
+.gitignore
+README.md
+composer.json

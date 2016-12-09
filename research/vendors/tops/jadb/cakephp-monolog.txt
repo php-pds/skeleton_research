@@ -1,0 +1,9 @@
+Lib/Log/
+Test/Case/Lib/Log/Engine/
+.gitignore
+.semver
+.travis.yml
+Makefile
+README.md
+VERSION
+composer.json

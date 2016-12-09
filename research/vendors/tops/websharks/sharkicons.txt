@@ -1,0 +1,11 @@
+.github/
+assets/
+src/
+.gitattributes
+.gitignore
+CHANGELOG.md
+CREDITS.md
+LICENSE.txt
+README.md
+composer.json
+composer.lock

@@ -1,0 +1,9 @@
+src/lepiaf/RestClient/
+tests/RestClient/
+.gitignore
+.travis.yml
+Jenkinsfile
+LICENSE
+README.md
+composer.json
+phpunit.xml

@@ -1,0 +1,8 @@
+backend/
+docs/
+public/
+.gitignore
+LICENSE
+README.md
+composer.json
+server_start.sh

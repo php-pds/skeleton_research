@@ -1,0 +1,14 @@
+.idea/
+.gitignore
+Error.php
+ErrorHandler.php
+ErrorLogger.php
+Exception.php
+IErrorLogger.php
+IMessageSender.php
+MessageSender.php
+README.md
+ToStringConverter.php
+WatchPointsPrinter.php
+Watcher.php
+composer.json

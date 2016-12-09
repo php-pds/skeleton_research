@@ -1,0 +1,12 @@
+Doctrine/Form/
+Event/
+Form/
+Resources/
+Tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

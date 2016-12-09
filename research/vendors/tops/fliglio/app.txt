@@ -1,0 +1,10 @@
+src/MyApp/
+test/
+web/
+.gitignore
+Dockerfile
+Makefile
+README.md
+apache-vhost.conf
+composer.json
+phpunit.xml

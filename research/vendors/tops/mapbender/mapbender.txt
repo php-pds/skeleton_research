@@ -1,0 +1,6 @@
+src/Mapbender/
+.gitignore
+.gitmodules
+.scrutinizer.yml
+CHANGELOG.md
+LICENSE

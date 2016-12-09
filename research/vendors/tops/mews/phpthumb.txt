@@ -1,0 +1,10 @@
+src/
+vendor/
+.gitattributes
+.gitignore
+.travis.yml
+LICENCE.md
+README.md
+composer.json
+composer.phar
+phpunit.xml

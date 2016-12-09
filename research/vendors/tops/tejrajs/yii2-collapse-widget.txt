@@ -1,0 +1,5 @@
+assets/
+CollapseWidget.php
+CollapseWidgetAsset.php
+README.md
+composer.json

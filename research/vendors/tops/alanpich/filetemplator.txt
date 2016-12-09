@@ -1,0 +1,3 @@
+lib/AlanPich/FileTemplator/
+.gitignore
+composer.json

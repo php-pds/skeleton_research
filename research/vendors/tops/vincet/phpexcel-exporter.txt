@@ -1,0 +1,9 @@
+lib/VinceT/PHPExcelExporter/
+tests/VinceT/PHPExcelExporter/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

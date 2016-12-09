@@ -1,0 +1,4 @@
+src/JedenWeb/Mailchimp/
+tests/
+.gitignore
+composer.json

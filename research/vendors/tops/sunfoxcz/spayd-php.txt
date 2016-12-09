@@ -1,0 +1,5 @@
+src/Shoptet/Spayd/
+.gitignore
+LICENSE.txt
+README.md
+composer.json

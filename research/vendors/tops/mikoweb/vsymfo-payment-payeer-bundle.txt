@@ -1,0 +1,9 @@
+Client/
+Controller/
+DependencyInjection/
+Form/
+Plugin/
+Resources/config/
+LICENSE
+composer.json
+vSymfoPaymentPayeerBundle.php

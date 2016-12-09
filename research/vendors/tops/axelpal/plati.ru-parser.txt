@@ -1,0 +1,11 @@
+js/
+styles/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock
+index.php
+predict.php
+search.xml
+update.php

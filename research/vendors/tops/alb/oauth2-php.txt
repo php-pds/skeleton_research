@@ -1,0 +1,12 @@
+lib/OAuth2/
+server/examples/
+tests/
+vendor/
+.gitmodules
+.travis.yml
+CHANGELOG.txt
+LICENSE.txt
+README.md
+composer.json
+config.doxy
+phpunit.xml.dist

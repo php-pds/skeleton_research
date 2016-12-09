@@ -1,0 +1,9 @@
+src/
+tests/
+.travis.yml
+README.md
+build.php
+composer.json
+composer.lock
+phpunit.xml.dist
+stub.php

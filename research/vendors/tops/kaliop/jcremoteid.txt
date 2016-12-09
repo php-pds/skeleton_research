@@ -1,0 +1,9 @@
+classes/
+datatypes/jcremoteid/
+design/standard/templates/
+modules/remoteid/
+settings/
+.gitignore
+README.md
+TODO.md
+composer.json

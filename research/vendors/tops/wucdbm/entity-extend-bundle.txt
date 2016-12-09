@@ -1,0 +1,6 @@
+DependencyInjection/
+Mapping/
+Resources/
+PjEntityExtendBundle.php
+README.md
+composer.json

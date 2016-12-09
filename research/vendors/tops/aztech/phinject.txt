@@ -1,0 +1,14 @@
+bin/
+doc/
+src/
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+Makefile
+README.md
+bugfree.json
+composer.json
+phpcs.xml
+phpunit.xml

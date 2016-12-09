@@ -1,0 +1,17 @@
+assets/
+controllers/
+messages/
+migrations/
+models/
+views/
+CHANGE.md
+DynaGrid.php
+DynaGridAsset.php
+DynaGridDetail.php
+DynaGridDetailAsset.php
+DynaGridStore.php
+DynaGridTrait.php
+LICENSE.md
+Module.php
+README.md
+composer.json

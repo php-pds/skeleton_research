@@ -1,0 +1,11 @@
+examples/
+nbproject/
+src/Sdl/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+SDL.md
+composer.json
+phpunit.xml

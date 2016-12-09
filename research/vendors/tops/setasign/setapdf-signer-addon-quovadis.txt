@@ -1,0 +1,6 @@
+examples/
+src/SetaPDF/Signer/QuoVadis/
+.gitignore
+LICENSE
+README.md
+composer.json

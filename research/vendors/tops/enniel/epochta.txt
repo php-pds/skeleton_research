@@ -1,0 +1,9 @@
+src/
+.gitattributes
+.gitignore
+.php_cs
+.styleci.yml
+.travis.yml
+LICENSE.md
+composer.json
+phpunit.xml

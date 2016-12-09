@@ -1,0 +1,9 @@
+controllers/
+migrations/
+models/search/
+views/default/
+widgets/
+CommentModule.php
+LICENSE.md
+README.md
+composer.json

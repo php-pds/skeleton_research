@@ -1,0 +1,5 @@
+src/Ptbfw/Selenium2Driver/
+tests/www/
+.gitignore
+README
+composer.json

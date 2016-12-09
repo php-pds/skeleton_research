@@ -1,0 +1,15 @@
+Plugins/
+Themes/
+app/
+bin/
+files/
+src/
+var/
+web/
+.env.example
+.gitignore
+Procfile
+README.md
+app.json
+composer.json
+composer.lock

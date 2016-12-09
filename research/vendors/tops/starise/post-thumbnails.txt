@@ -1,0 +1,8 @@
+css/
+js/
+lang/
+lib/starise/
+LICENSE
+README.md
+bootstrap.php
+composer.json

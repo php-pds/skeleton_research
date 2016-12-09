@@ -1,0 +1,11 @@
+Core/
+DependencyInjection/
+Resources/config/
+Tests/
+.gitignore
+.travis.yml
+AlphaLemonBootstrapBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

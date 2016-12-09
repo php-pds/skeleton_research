@@ -1,0 +1,17 @@
+Connector/
+Controller/
+DependencyInjection/
+Entity/
+Factory/
+Manager/
+Model/
+PriceMatrix/
+ReceiptVerifier/
+Resources/
+Tests/
+.travis.yml
+PubleroAppleMobileBundle.php
+README.md
+changelog.md
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,4 @@
+views/
+OdnoklassnikiWidget.php
+README.md
+composer.json

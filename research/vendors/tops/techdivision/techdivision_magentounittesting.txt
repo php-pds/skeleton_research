@@ -1,0 +1,12 @@
+doc @ 9daefce
+pear/
+src/
+.gitignore
+.gitmodules
+AUTHORS.txt
+README.md
+build.default.properties
+build.xml
+composer.json
+composer.lock
+modman

@@ -1,0 +1,12 @@
+app/
+httpdocs/
+temp/plantillas/crud/
+.gitignore
+.htaccess
+Gruntfile.coffee
+README.md
+bower.json
+composer.json
+package.json
+task
+version.json

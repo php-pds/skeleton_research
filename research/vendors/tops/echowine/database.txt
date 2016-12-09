@@ -1,0 +1,7 @@
+doc/
+src/
+tests/
+README.md
+TODO.md
+composer.json
+phpunit.xml

@@ -1,0 +1,15 @@
+Admin/
+DependencyInjection/
+Exception/
+Form/Type/
+Model/
+Provider/
+Resources/
+Twig/Extension/
+Utils/
+.gitignore
+BrueryCoreBundle.php
+CONTRIBUTING.md
+LICENSE
+README.md
+composer.json

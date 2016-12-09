@@ -1,0 +1,9 @@
+DependencyInjection/
+Image/
+Resources/
+Tests/
+.gitignore
+OryzoneImageResizerBundle.php
+README.rst
+composer.json
+phpunit.xml.dist

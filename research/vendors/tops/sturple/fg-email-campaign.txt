@@ -1,0 +1,4 @@
+twig-templates/
+README.md
+composer.json
+fg-email-campaign.php

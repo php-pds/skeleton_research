@@ -1,0 +1,11 @@
+bin/
+example/
+src/Jenner/Crontab/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+README.zh.md
+composer.json
+phpunit.xml

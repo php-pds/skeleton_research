@@ -1,0 +1,12 @@
+code/
+css/
+images/
+lang/
+templates/
+.editorconfig
+.gitattributes
+.gitignore
+README.md
+_config.php
+composer.json
+mollom-captcha-player.swf

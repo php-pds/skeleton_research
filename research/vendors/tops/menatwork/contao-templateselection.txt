@@ -1,0 +1,4 @@
+system/modules/templateSelection/
+.gitignore
+composer.json
+dependencies.txt

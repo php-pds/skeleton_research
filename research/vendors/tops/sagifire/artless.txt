@@ -1,0 +1,5 @@
+components/
+vendors/
+.gitmodules
+README.md
+composer.json

@@ -1,0 +1,16 @@
+assets/
+behaviors/
+components/
+controllers/
+messages/ru/
+models/
+views/facade/
+widgets/
+.gitignore
+Assets.php
+AutoloadExample.php
+Bootstrap.php
+HydraComponent.php
+Module.php
+README.md
+composer.json

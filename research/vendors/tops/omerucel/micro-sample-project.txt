@@ -1,0 +1,12 @@
+configs/
+docker-files/
+logs/
+public/
+src/
+templates/
+tmp/
+.gitignore
+Dockerfile
+README.md
+composer.json
+docker-compose.yml

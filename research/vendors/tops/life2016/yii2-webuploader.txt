@@ -1,0 +1,12 @@
+assets/
+FileWebUploader.php
+MultipeWebuploader.php
+README.md
+Uploader.php
+Webuploader.php
+WebuploaderAction.php
+WebuploaderAsset.php
+composer.json
+config.php
+more_file.png
+multi_image.png

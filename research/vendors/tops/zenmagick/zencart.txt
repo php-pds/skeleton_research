@@ -1,0 +1,10 @@
+download/
+editors/
+email/
+images/
+includes/
+pub/
+zc_admin/
+.php_cs
+composer.json
+license.txt

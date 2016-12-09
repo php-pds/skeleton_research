@@ -1,0 +1,14 @@
+Client/
+Controller/
+DependencyInjection/
+Entity/
+Exception/
+Manager/
+Model/Response/
+Repository/
+Resources/
+Service/
+.gitignore
+ClarityYandexOAuthBundle.php
+README.md
+composer.json

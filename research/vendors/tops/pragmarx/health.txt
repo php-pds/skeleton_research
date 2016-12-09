@@ -1,0 +1,11 @@
+docs/images/
+src/
+tests/phpunit/
+.gitignore
+.styleci.yml
+.travis.yml
+CHANGELOG.md
+LICENSE.md
+README.md
+composer.json
+phpunit.xml

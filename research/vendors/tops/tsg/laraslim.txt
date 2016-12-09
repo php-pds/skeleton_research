@@ -1,0 +1,9 @@
+app/
+config/
+migrations/
+public/
+storage/
+.gitignore
+LICENSE
+composer.json
+slim

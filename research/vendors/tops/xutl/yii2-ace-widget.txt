@@ -1,0 +1,8 @@
+assets/
+.gitattributes
+.gitignore
+AceEdit.php
+AceEditAsset.php
+AceEditInput.php
+README.md
+composer.json

@@ -1,0 +1,16 @@
+Admin/
+DependencyInjection/
+Entity/
+Extension/
+Form/
+Model/
+Renderer/
+Resources/
+Routing/
+Tests/
+.gitignore
+IbrowsSimpleSeoBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,9 @@
+src/Wildsurfer/Infusionsoft/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock
+infusionsoft.ini.dist
+phpunit.xml.dist

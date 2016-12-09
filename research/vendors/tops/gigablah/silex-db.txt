@@ -1,0 +1,6 @@
+src/Gigablah/Silex/Database/
+.gitattributes
+.gitignore
+LICENSE
+README.md
+composer.json

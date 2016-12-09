@@ -1,0 +1,6 @@
+config/
+src/Mirificus/
+.gitignore
+.travis.yml
+README.md
+composer.json

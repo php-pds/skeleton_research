@@ -1,0 +1,7 @@
+icons/
+module/
+vendor/
+.gitignore
+LICENSE.txt
+README.md
+composer.json

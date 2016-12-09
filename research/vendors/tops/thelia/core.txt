@@ -1,0 +1,6 @@
+lib/Thelia/
+LICENSE.txt
+Readme.md
+Thelia
+bootstrap.php
+composer.json

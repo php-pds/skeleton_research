@@ -1,0 +1,6 @@
+DependencyInjection/
+Provider/
+Resources/
+BaffordElasticaExtraBundle.php
+README.md
+composer.json

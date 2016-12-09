@@ -1,0 +1,11 @@
+Controller/
+DependencyInjection/
+Entity/
+Menu/
+Resources/
+Twig/
+.gitattributes
+.gitignore
+ZephyrAdminCoreBundle.php
+composer.json
+readme.md

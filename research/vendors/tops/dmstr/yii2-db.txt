@@ -1,0 +1,8 @@
+console/controllers/
+db/
+tests/
+.gitignore
+.gitlab-ci.yml
+README.md
+codeception.yml
+composer.json

@@ -1,0 +1,3 @@
+src/Afischoff/
+README.md
+composer.json

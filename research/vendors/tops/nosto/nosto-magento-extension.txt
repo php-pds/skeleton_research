@@ -1,0 +1,15 @@
+app/
+js/
+.gitignore
+CHANGELOG.md
+CONTRIBUTING.md
+Gruntfile.js
+LICENSE.txt
+README.md
+build.xml
+composer.json
+composer.lock
+magazine.json
+modman
+package.json
+ruleset.xml

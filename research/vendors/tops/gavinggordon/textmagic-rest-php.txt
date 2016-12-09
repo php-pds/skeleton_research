@@ -1,0 +1,8 @@
+src/Services/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json
+phpunit.xml
+textmagic-cli.php

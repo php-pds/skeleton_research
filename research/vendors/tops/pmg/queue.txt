@@ -1,0 +1,14 @@
+docs/
+examples/
+src/
+test/
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENSE
+Makefile
+README.md
+UPGRADE-3.0.md
+composer.json
+composer.lock
+phpunit.xml.dist

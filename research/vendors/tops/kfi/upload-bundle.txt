@@ -1,0 +1,11 @@
+Controller/
+DependencyInjection/
+Entity/
+Form/
+Resources/
+Services/
+Tests/
+KFIUploadBundle.php
+README
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,4 @@
+LICENSE.md
+README.md
+SweetAlertAsset.php
+composer.json

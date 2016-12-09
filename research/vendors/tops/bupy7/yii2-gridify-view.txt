@@ -1,0 +1,8 @@
+assets/
+.gitignore
+GridifyView.php
+GridifyViewAsset.php
+LICENSE
+README.md
+composer.json
+screenshot.png

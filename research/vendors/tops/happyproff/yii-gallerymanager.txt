@@ -1,0 +1,13 @@
+assets/
+commands/
+messages/
+migrations/
+models/
+views/
+.gitignore
+GalleryBehavior.php
+GalleryController.php
+GalleryManager.php
+README.md
+build.sh
+composer.json

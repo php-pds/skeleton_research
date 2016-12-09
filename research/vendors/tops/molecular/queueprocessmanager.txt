@@ -1,0 +1,9 @@
+src/PhpQPM/
+test/
+.gitattributes
+.gitignore
+README.md
+README_PT.md
+composer.json
+composer.lock
+table.sql

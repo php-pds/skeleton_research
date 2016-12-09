@@ -1,0 +1,6 @@
+Classes/Psmb/Term/TypoScript/
+Configuration/
+Resources/Private/
+LICENSE.md
+README.md
+composer.json

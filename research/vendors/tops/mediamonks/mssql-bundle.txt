@@ -1,0 +1,12 @@
+Composer/
+Doctrine/
+Helper/
+PDO/
+Platforms/
+Resources/doc/
+Schema/
+Session/Storage/Handler/
+LICENSE
+MediaMonksMssqlBundle.php
+README.md
+composer.json

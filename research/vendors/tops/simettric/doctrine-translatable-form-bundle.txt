@@ -1,0 +1,9 @@
+DependencyInjection/
+Form/
+Interfaces/
+Resources/
+Tests/Controller/
+LICENSE
+README.md
+SimettricDoctrineTranslatableFormBundle.php
+composer.json

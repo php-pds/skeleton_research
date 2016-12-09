@@ -1,0 +1,6 @@
+TranslationsFinder/
+.gitignore
+README.md
+composer.json
+composer.lock
+console

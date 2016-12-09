@@ -1,0 +1,7 @@
+Classes/Shel/Blog/TypoScript/FlowQueryOperations/
+Configuration/
+Migrations/TYPO3CR/
+Resources/Private/
+LICENSE
+README.md
+composer.json

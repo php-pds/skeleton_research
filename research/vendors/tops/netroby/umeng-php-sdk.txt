@@ -1,0 +1,7 @@
+example/
+src/
+.gitignore
+apigen.neon
+composer.json
+readme.md
+release-notes

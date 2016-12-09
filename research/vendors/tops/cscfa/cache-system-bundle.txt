@@ -1,0 +1,8 @@
+DependencyInjection/
+Object/
+Resources/config/
+CHANGELOG-1.0.md
+CscfaCacheSystemBundle.php
+LICENSE
+README.md
+composer.json

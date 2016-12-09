@@ -1,0 +1,13 @@
+admin/
+config/
+sqldesigner/
+tests/src/
+.gitattributes
+.gitignore
+README.md
+autoload.php
+composer.json
+composer.phar
+index.php
+init.php
+tags.sh

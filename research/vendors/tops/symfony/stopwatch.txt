@@ -1,0 +1,10 @@
+Tests/
+.gitignore
+LICENSE
+README.md
+Section.php
+Stopwatch.php
+StopwatchEvent.php
+StopwatchPeriod.php
+composer.json
+phpunit.xml.dist

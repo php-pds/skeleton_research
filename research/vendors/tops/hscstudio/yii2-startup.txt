@@ -1,0 +1,8 @@
+assets/
+views/
+widgets/
+AutoloadExample.php
+Module.php
+README.md
+composer.json
+composer.lock

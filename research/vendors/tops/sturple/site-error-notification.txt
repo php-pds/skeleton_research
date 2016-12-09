@@ -1,0 +1,6 @@
+src/Fgms/SiteErrorNotifications/
+templates/
+.gitignore
+README.md
+composer.json
+site-error-notifications.php

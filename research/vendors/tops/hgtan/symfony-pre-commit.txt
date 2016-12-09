@@ -1,0 +1,6 @@
+Composer/Script/
+hooks/
+.gitignore
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,16 @@
+config/
+docs/
+src/josegonzalez/Queuesadilla/
+tests/
+.dockerignore
+.editorconfig
+.gitignore
+.travis.yml
+CONTRIBUTING.markdown
+Dockerfile
+LICENSE
+Makefile
+README.md
+composer.json
+example.php
+phpunit.xml.dist

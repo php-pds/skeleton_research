@@ -1,0 +1,4 @@
+inc/
+composer.json
+readme.md
+simple-email-queue.php

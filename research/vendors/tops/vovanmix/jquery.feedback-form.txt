@@ -1,0 +1,7 @@
+demo/
+.gitignore
+README.md
+bower.json
+composer.json
+jquery.feedback-form.css
+jquery.feedback-form.js

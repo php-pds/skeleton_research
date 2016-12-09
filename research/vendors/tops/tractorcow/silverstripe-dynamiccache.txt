@@ -1,0 +1,10 @@
+_config/
+code/
+tests/
+.editorconfig
+.gitattributes
+.scrutinizer.yml
+README.md
+cache-main.php
+code-of-conduct.md
+composer.json

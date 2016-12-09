@@ -1,0 +1,16 @@
+config/
+src/
+test/
+view/zf-apigility-documentation-blueprint/
+.gitattributes
+.gitignore
+.travis.yml
+CHANGELOG.md
+CONDUCT.md
+CONTRIBUTING.md
+LICENSE.md
+README.md
+composer.json
+composer.lock
+phpcs.xml
+phpunit.xml.dist

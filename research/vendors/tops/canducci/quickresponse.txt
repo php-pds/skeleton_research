@@ -1,0 +1,5 @@
+src/Canducci/QuickResponse/
+tests/
+.travis.yml
+README.md
+composer.json

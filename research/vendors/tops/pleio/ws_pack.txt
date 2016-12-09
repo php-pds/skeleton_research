@@ -1,0 +1,11 @@
+actions/
+classes/
+languages/
+lib/
+vendors/simplehtmldom/
+views/default/
+CHANGES.txt
+README.md
+composer.json
+manifest.xml
+start.php

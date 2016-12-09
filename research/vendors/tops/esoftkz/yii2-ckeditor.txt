@@ -1,0 +1,9 @@
+assets/
+presets/
+CKEditor.php
+CKEditorAsset.php
+CKEditorInline.php
+CKEditorTrait.php
+CKEditorWidgetAsset.php
+README.md
+composer.json

@@ -1,0 +1,11 @@
+docs/
+src/
+.gitattributes
+.gitignore
+.gitmodules
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+composer.json
+id_rsa.enc

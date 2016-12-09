@@ -1,0 +1,15 @@
+lib/
+tests/
+.gitattributes
+.gitignore
+.gitmodules
+.travis.yml
+LICENSE
+README.md
+UPGRADE_TO_2_1
+UPGRADE_TO_2_2
+build.properties
+build.xml
+composer.json
+humbug.json.dist
+phpunit.xml.dist

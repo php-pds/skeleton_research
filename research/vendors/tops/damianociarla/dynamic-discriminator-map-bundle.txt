@@ -1,0 +1,8 @@
+DependencyInjection/
+Listener/
+Resources/config/
+.gitignore
+DCSDynamicDiscriminatorMapBundle.php
+LICENSE.txt
+README.md
+composer.json

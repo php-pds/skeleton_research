@@ -1,0 +1,12 @@
+assets/
+components/
+docs/
+migrations/
+models/
+BaseAssetBundle.php
+Bootstrap.php
+LICENSE.md
+Module.php
+README.md
+SortableListView.php
+composer.json

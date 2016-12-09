@@ -1,0 +1,14 @@
+assets/
+commands/
+components/
+controllers/
+data/mysql/
+doc/
+models/
+views/
+.gitignore
+ForumModule.php
+LICENSE
+README.md
+composer.json
+dailyupdate

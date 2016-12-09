@@ -1,0 +1,6 @@
+helper/
+model_trait/
+Bootstrap.php
+ContentModelMetadataGenerator.php
+README.md
+composer.json

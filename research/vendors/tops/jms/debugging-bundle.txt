@@ -1,0 +1,15 @@
+DataCollector/
+DependencyInjection/
+Exception/
+HttpFoundation/
+Kernel/
+Listener/
+Problem/
+Resources/
+Security/
+Serializer/
+Solution/
+Util/
+JMSDebuggingBundle.php
+README.md
+composer.json

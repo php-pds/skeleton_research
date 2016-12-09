@@ -1,0 +1,10 @@
+config/
+public/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+bower.json
+composer.json
+phpcs.xml
+phpunit.xml

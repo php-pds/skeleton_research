@@ -1,0 +1,9 @@
+ruxon/
+themes/default/
+uploads/images/
+.gitignore
+.htaccess
+LICENSE
+README.md
+composer.json
+index.php

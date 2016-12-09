@@ -1,0 +1,16 @@
+Definition/
+DependencyInjection/
+Helper/
+Pagination/
+Resources/
+Subscriber/
+Templating/
+Tests/DependencyInjection/Compiler/
+Twig/Extension/
+.gitignore
+.travis.yml
+CHANGELOG.md
+KnpPaginatorBundle.php
+README.md
+composer.json
+phpunit.xml.dist

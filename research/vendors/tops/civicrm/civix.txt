@@ -1,0 +1,11 @@
+bin/
+src/CRM/CivixBundle/
+tests/
+.gitignore
+CHANGELOG.md
+LICENSE.txt
+README.md
+UPGRADE.md
+box.json
+composer.json
+composer.lock

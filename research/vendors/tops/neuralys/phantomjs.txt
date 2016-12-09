@@ -1,0 +1,4 @@
+bin/
+examples/
+README.md
+composer.json

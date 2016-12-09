@@ -1,0 +1,6 @@
+Command/
+Composer/
+DependencyInjection/
+NetgustoDistributionBundle.php
+README.md
+composer.json

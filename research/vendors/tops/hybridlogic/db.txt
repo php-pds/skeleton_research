@@ -1,0 +1,8 @@
+src/HybridLogic/
+tests/
+.travis.yml
+LICENSE.md
+autoload.php
+composer.json
+example.php
+readme.md

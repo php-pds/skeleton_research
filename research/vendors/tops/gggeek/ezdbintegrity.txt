@@ -1,0 +1,11 @@
+bin/php/
+classes/
+doc/
+interfaces/
+settings/
+.gitignore
+LICENSE
+Readme.md
+composer.json
+extension.xml
+ezinfo.php

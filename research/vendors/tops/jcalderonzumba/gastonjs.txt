@@ -1,0 +1,12 @@
+bin/
+docs/
+examples/
+src/
+tests/unit/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+mkdocs.yml
+unit_tests.xml

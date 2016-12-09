@@ -1,0 +1,9 @@
+src/Blablacar/Redis/
+tests/Blablacar/Redis/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

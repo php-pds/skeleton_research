@@ -1,0 +1,4 @@
+library/Zend/EventManager/
+LICENSE.txt
+README.md
+composer.json

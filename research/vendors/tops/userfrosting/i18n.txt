@@ -1,0 +1,6 @@
+I18n/
+licenses/
+test/locale/
+.gitignore
+README.md
+composer.json

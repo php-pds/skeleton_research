@@ -1,0 +1,7 @@
+Vagrant/chef/cookbooks/default/recipes/
+src/
+.gitignore
+Vagrantfile
+Vagrantfile.dist
+composer.json
+phpunit.xml.dist

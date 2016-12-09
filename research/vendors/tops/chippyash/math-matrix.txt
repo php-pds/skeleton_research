@@ -1,0 +1,11 @@
+docs/
+examples/
+src/Chippyash/Math/Matrix/
+test/
+.codeclimate.yml
+.gitignore
+.travis.yml
+LICENSE.md
+README.md
+build.sh
+composer.json

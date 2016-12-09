@@ -1,0 +1,12 @@
+DependencyInjection/
+Detector/
+Listener/
+Resources/config/
+Tests/
+Utility/
+.gitignore
+DeviceDetectorBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

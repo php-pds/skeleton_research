@@ -1,0 +1,6 @@
+src/Toddmcbrearty/Subdomain/
+tests/
+.gitignore
+.travis.yml
+composer.json
+phpunit.xml

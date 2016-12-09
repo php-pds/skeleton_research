@@ -1,0 +1,15 @@
+app/
+dev/tests/aoe_scheduler/
+doc/
+shell/
+skin/adminhtml/default/default/aoe_scheduler/
+var/connect/
+.gitignore
+.travis.yml
+LICENSE.txt
+changelog.md
+composer.json
+modman
+phpcs.xml
+readme.md
+scheduler_cron.sh

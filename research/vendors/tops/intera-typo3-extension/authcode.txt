@@ -1,0 +1,6 @@
+Classes/
+Configuration/TCA/
+Resources/Private/Language/
+composer.json
+ext_emconf.php
+ext_tables.sql

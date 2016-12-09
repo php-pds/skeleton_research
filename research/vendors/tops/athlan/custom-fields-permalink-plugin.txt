@@ -1,0 +1,6 @@
+assets/
+LICENSE.md
+README.md
+composer.json
+readme.txt
+wordpress-custom-fields-permalink-plugin.php

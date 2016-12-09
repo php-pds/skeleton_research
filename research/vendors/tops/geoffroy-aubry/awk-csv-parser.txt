@@ -1,0 +1,11 @@
+doc/screenshots/
+resources/
+src/
+tests/
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+composer.json
+demo.sh

@@ -1,0 +1,4 @@
+LICENSE
+README.md
+WunderlistStrategy.php
+composer.json

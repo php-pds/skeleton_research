@@ -1,0 +1,9 @@
+DataCollector/
+DependencyInjection/
+EventListener/
+Resources/
+CHANGELOG.md
+LICENSE
+NelmioEsiDebugBundle.php
+README.md
+composer.json

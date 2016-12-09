@@ -1,0 +1,8 @@
+CacheWarmer/
+DependencyInjection/
+Kernel/
+Resources/
+.gitignore
+GoAopBundle.php
+README.md
+composer.json

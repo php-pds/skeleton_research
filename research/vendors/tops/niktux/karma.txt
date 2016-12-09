@@ -1,0 +1,13 @@
+build/
+src/Karma/
+tests/Karma/
+.gitignore
+.travis.yml
+LICENSE
+Makefile
+README.md
+box.json
+build.xml
+composer.json
+karma
+phpunit.xml

@@ -1,0 +1,7 @@
+inc/
+.gitignore
+LICENSE
+composer.json
+login-lockdown.php
+readme.txt
+screenshot-1.png

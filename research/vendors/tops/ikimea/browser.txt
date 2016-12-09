@@ -1,0 +1,7 @@
+lib/Ikimea/Browser/
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+composer.json

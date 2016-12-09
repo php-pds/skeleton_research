@@ -1,0 +1,9 @@
+examples/
+features/
+spec/Pesapal/
+src/Pesapal/
+.gitignore
+Oauth.php
+behat.yml
+composer.json
+readme.md

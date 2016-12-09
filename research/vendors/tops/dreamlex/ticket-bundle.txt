@@ -1,0 +1,17 @@
+Admin/
+Controller/
+DataFixtures/
+DependencyInjection/
+Entity/
+EventListner/
+Form/
+Provider/
+Resources/
+Security/Authorization/Voter/
+Tests/
+.gitignore
+.travis.yml
+DreamlexTicketBundle.php
+README.md
+composer.json
+phpunit.xml.dist

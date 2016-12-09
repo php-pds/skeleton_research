@@ -1,0 +1,3 @@
+src/cornernote/Composer/
+README.md
+composer.json

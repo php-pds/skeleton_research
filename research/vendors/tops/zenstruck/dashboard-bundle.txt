@@ -1,0 +1,12 @@
+Controller/
+Dashboard/
+DependencyInjection/
+Resources/
+Tests/
+Twig/
+.gitignore
+.travis.yml
+README.md
+ZenstruckDashboardBundle.php
+composer.json
+phpunit.xml.dist

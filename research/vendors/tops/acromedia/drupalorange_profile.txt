@@ -1,0 +1,9 @@
+config/
+tests/src/Functional/
+.gitignore
+README.md
+composer.json
+drupalorange_profile.info.yml
+drupalorange_profile.install
+drupalorange_profile.links.menu.yml
+drupalorange_profile.profile

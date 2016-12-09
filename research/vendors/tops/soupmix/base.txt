@@ -1,0 +1,8 @@
+docs/
+src/
+.codeclimate.yml
+.gitignore
+.scrutinizer.yml
+README.md
+circle.yml
+composer.json

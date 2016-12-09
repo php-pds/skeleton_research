@@ -1,0 +1,10 @@
+src/Metadata/
+tests/
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.rst
+composer.json
+composer.lock
+phpunit.xml.dist

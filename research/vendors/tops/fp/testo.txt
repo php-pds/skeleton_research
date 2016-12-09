@@ -1,0 +1,9 @@
+examples/Testo/Examples/
+src/Testo/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

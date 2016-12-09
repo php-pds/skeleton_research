@@ -1,0 +1,6 @@
+lib/RBM/ResultsCombinator/
+tests/
+.gitignore
+LICENCE
+README.md
+composer.json

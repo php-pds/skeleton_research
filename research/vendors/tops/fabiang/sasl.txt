@@ -1,0 +1,11 @@
+src/
+tests/
+.gitattributes
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE.md
+README.md
+Vagrantfile
+composer.json
+composer.lock

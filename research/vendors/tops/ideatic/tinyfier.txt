@@ -1,0 +1,8 @@
+assets_loader/
+src/Tinyfier/
+test/
+tool/
+.gitattributes
+.gitignore
+Readme.md
+composer.json

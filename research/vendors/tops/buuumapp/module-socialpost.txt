@@ -1,0 +1,4 @@
+src/module-socialpost/
+.gitignore
+README.md
+composer.json

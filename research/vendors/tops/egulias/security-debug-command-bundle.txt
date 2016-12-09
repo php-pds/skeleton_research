@@ -1,0 +1,12 @@
+Command/
+DataCollector/
+DependencyInjection/
+EventListener/
+HttpKernel/
+Resources/
+Security/
+.gitignore
+EguliasSecurityDebugCommandBundle.php
+LICENSE
+README.md
+composer.json

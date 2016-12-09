@@ -1,0 +1,13 @@
+docs/examples/
+git_hooks/
+src/Klarna/Rest/
+tests/
+.coveralls.yml
+.gitignore
+.travis.yml
+CHANGELOG.md
+README.md
+composer.json
+composer.lock
+phpmd.xml
+phpunit.xml.dist

@@ -1,0 +1,9 @@
+lib/ApiClient/
+test/ApiClient/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+example.php
+phpunit.xml.dist

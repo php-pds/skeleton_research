@@ -1,0 +1,5 @@
+src/DataBag/
+.gitignore
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,17 @@
+Command/
+Controller/
+DependencyInjection/
+Entity/
+Exception/
+Form/
+Model/
+Repository/
+Resources/
+Tests/
+Validator/Constraints/
+.gitignore
+.travis.yml
+README.md
+TrovitCronManagerBundle.php
+composer.json
+phpunit.xml.dist

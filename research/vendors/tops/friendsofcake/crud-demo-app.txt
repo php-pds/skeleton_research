@@ -1,0 +1,14 @@
+App/
+Plugin/
+Test/
+tmp/
+vendor/
+webroot/
+.gitignore
+.htaccess
+.travis.yml
+README.md
+composer.json
+composer.lock
+index.php
+phpunit.xml.dist

@@ -1,0 +1,6 @@
+net/servicehome/connector/couchdb/
+.gitignore
+composer.json
+createtest.php
+samples_docs.php
+samples_views.php

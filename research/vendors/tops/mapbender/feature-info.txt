@@ -1,0 +1,7 @@
+Element/
+Resources/
+.gitignore
+LICENSE
+MapbenderFeatureInfoBundle.php
+README.md
+composer.json

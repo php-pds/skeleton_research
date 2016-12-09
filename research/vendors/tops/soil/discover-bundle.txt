@@ -1,0 +1,12 @@
+Annotation/
+Controller/
+DependencyInjection/
+Entity/
+Http/
+Resolver/
+Resources/
+Service/
+.gitignore
+SoilDiscoverBundle.php
+composer.json
+composer.lock

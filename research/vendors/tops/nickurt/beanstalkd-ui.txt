@@ -1,0 +1,7 @@
+config/
+examples/
+src/ZfBeanstalkdUI/
+view/zf-beanstalkd-ui/
+Module.php
+README.md
+composer.json

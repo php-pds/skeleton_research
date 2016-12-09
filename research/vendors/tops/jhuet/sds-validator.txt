@@ -1,0 +1,9 @@
+.travis/
+lib/Sds/Validator/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

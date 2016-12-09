@@ -1,0 +1,12 @@
+bin/
+examples/
+src/Gendoria/CruftFlake/
+tests/
+travis/
+.gitignore
+.php_cs
+.scrutinizer.yml
+.travis.yml
+README.markdown
+composer.json
+phpunit.xml.dist

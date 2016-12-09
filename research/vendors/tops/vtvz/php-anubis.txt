@@ -1,0 +1,4 @@
+test/
+Anubis.php
+README
+composer.json

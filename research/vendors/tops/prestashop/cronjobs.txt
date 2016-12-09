@@ -1,0 +1,13 @@
+classes/
+controllers/
+css/
+translations/
+upgrade/
+views/
+Readme.md
+composer.json
+config.xml
+cronjobs.php
+index.php
+logo.gif
+logo.png

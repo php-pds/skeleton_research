@@ -1,0 +1,12 @@
+config/
+src/Imbo/
+tests/
+.gitignore
+.travis.yml
+ChangeLog.markdown
+LICENSE
+Module.php
+README.markdown
+Rakefile
+composer.json
+composer.lock

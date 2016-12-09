@@ -1,0 +1,14 @@
+bin/
+resources/
+src/Mongrate/MongrateBundle/
+test-app/
+.editorconfig
+.gitignore
+.scrutinizer.yml
+.travis.php.ini
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.phar
+phpunit.xml.dist

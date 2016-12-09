@@ -1,0 +1,4 @@
+src/iContact/
+tests/
+README.md
+composer.json

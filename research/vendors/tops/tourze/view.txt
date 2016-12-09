@@ -1,0 +1,8 @@
+src/
+.gitignore
+CONTRIBUTING.md
+LICENSE.md
+README.md
+bootstrap-dev.php
+bootstrap.php
+composer.json

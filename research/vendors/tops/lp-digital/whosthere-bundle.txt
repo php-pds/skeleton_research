@@ -1,0 +1,15 @@
+Config/
+Listener/
+Templates/scripts/WhosThere/
+Tests/
+build/logs/
+.codeclimate.yml
+.formatter.yml
+.gitignore
+.gitlab-ci.yml
+.travis.yml
+LICENCE
+README.md
+WhosThere.php
+composer.json
+phpunit.xml.dist

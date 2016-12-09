@@ -1,0 +1,8 @@
+Cm/Cache/Backend/
+lib/
+tests/
+.gitmodules
+README.md
+composer.json
+modman
+stats.php

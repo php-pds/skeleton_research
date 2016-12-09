@@ -1,0 +1,14 @@
+assets/
+languages/
+src/
+tasks/
+BACKERS.md
+CHANGELOG.md
+Gruntfile.js
+LICENSE
+README.md
+bower.json
+composer.json
+composer.lock
+package.json
+readme.txt

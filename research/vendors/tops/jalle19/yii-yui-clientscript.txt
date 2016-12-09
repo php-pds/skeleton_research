@@ -1,0 +1,5 @@
+src/yiiyuiclientscript/
+.gitignore
+LICENSE
+README.md
+composer.json

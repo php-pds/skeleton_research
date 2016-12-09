@@ -1,0 +1,5 @@
+src/DatingVIP/i18n/
+.gitignore
+LICENSE
+README.md
+composer.json

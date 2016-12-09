@@ -1,0 +1,8 @@
+src/Gwa/Image/
+tests/
+.gitignore
+.scruitinzr.yml
+.travis.yml
+LICENSE
+README.md
+composer.json

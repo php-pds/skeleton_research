@@ -1,0 +1,11 @@
+doc/Resources/
+src/Floppy/
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+UPDATE.md
+composer.json
+phpunit-bootstrap.php
+phpunit.xml

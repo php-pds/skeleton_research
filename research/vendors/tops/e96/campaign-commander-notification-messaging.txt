@@ -1,0 +1,6 @@
+.gitignore
+CampaignCommanderNotificationMessaging.php
+CampaignCommanderNotificationMessagingException.php
+LICENCE
+README.md
+composer.json

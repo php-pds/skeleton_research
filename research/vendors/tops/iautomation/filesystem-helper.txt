@@ -1,0 +1,5 @@
+src/FilesystemHelper/
+vendor/
+LICENSE
+README.md
+composer.json

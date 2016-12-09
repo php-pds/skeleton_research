@@ -1,0 +1,6 @@
+view/
+.gitignore
+README
+composer.json
+ini.php
+setup.php

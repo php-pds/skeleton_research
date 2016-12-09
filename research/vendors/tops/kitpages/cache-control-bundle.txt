@@ -1,0 +1,8 @@
+DependencyInjection/
+Model/
+Resources/config/
+.gitignore
+KitpagesCacheControlBundle.php
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,17 @@
+bin/
+build/
+cache/
+doc/
+public/
+src/
+tests/
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+TODO.md
+composer.json
+composer.lock
+configuration.php
+container.php

@@ -1,0 +1,10 @@
+bin/
+lib/
+tests/
+.gitignore
+LICENCE-GPL
+LICENCE-MIT
+README.markdown
+build.xml
+composer.json
+package.php

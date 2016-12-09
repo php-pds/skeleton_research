@@ -1,0 +1,12 @@
+templates/
+.gitignore
+.htaccess
+LICENSE.md
+bookmarklet.js
+bookmarklet.php
+cache-and-show-rubrics.js.php
+cache-rubrics.php
+common.inc.php
+composer.json
+manifest.xml
+show-rubrics.php

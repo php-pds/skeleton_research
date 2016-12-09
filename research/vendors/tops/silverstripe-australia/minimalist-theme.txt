@@ -1,0 +1,9 @@
+css/
+fonts/
+images/
+js/
+plugins/bootstrap3-dialog/
+templates/
+LICENSE
+README.md
+composer.json

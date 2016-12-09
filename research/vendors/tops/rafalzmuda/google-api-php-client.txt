@@ -1,0 +1,9 @@
+examples/
+src/GoogleApi/
+static/
+test/
+LICENSE
+NOTICE
+README.md
+composer.json
+makeRelease.sh

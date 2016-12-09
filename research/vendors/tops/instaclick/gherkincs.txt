@@ -1,0 +1,12 @@
+bin/
+lib/IC/Gherkinics/
+static/
+view/
+.gitignore
+README.md
+autoloader.php
+composer.json
+config.xml.dist
+cuke
+cuke-standalone
+phpunit.xml

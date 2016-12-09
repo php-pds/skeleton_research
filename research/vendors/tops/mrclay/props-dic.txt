@@ -1,0 +1,10 @@
+scripts/
+src/Props/
+test/Props/
+.gitattributes
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml

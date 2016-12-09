@@ -1,0 +1,6 @@
+config/
+src/FinbarrMailService/
+tests/
+Module.php
+README.md
+composer.json

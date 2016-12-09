@@ -1,0 +1,7 @@
+assets/jquery-maskmoney-master/
+.gitattributes
+.gitignore
+MaskMoney.php
+MaskMoneyAsset.php
+README.md
+composer.json

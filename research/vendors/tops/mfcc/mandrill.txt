@@ -1,0 +1,7 @@
+config/
+src/MfccMandrill/Service/
+.travis.yml
+Module.php
+README.md
+composer.json
+composer.phar

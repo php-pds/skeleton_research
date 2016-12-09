@@ -1,0 +1,14 @@
+tests/
+vendors/tarzan_2.0.5/
+.codeclimate.yml
+.editorconfig
+.gitignore
+.travis.yml
+CHANGELOG.md
+CONTRIBUTING.md
+LICENSE.md
+NOTICE.md
+README.md
+composer.json
+phpunit.xml.dist
+plugin.xml

@@ -1,0 +1,3 @@
+src/ValuResource/Service/
+.gitignore
+composer.json

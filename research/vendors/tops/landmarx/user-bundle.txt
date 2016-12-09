@@ -1,0 +1,10 @@
+Controller/
+DependencyInjection/
+Document/
+Entity/
+Model/
+Repository/
+Resources/config/
+LandmarxUserBundle.php
+README.md
+composer.json

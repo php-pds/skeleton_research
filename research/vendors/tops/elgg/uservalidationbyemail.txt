@@ -1,0 +1,8 @@
+actions/
+languages/
+lib/
+pages/
+views/default/
+composer.json
+manifest.xml
+start.php

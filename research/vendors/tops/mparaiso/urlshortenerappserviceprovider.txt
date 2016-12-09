@@ -1,0 +1,11 @@
+.idea/
+database/
+src/Mparaiso/
+tests/
+.gitignore
+.travis.yml
+README.md
+composer.json
+console.php
+phpunit.xml
+url_shortener.sqlite

@@ -1,0 +1,4 @@
+src/Stopsopa/Annotations/
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,4 @@
+LICENSE
+RssView.php
+composer.json
+readme.md

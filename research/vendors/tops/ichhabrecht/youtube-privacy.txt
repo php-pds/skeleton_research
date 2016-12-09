@@ -1,0 +1,8 @@
+Configuration/
+Resources/Private/Partials/
+.gitignore
+ChangeLog
+Readme.md
+composer.json
+ext_emconf.php
+ext_icon.png

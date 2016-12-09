@@ -1,0 +1,11 @@
+config/
+src/
+webroot/
+.bowerrc
+.editorconfig
+.gitignore
+CONTRIBUTING.md
+LICENSE
+README.md
+bower.json
+composer.json

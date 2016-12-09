@@ -1,0 +1,12 @@
+src/
+tests/
+.scrutinizer.yml
+.travis.yml
+CHANGES.md
+CONTRIBUTING.md
+LICENSE
+README.md
+autoload.php
+composer.json
+phpunit.php
+phpunit.xml.dist

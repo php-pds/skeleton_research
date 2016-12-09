@@ -1,0 +1,10 @@
+application/
+bin/
+config/
+public/
+.gitignore
+.travis.yml
+CONTRIBUTING.md
+LICENSE.txt
+README.md
+composer.json

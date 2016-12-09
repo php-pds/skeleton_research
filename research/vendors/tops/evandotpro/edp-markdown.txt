@@ -1,0 +1,6 @@
+vendor/
+.gitmodules
+LICENSE
+Module.php
+README.md
+composer.json

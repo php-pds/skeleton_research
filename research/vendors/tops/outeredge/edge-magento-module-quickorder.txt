@@ -1,0 +1,6 @@
+app/
+js/edge/
+skin/frontend/base/default/edge/
+LICENSE
+README.md
+composer.json

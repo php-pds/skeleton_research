@@ -1,0 +1,10 @@
+Controller/
+DependencyInjection/
+Resources/
+Tests/
+.gitignore
+.travis.yml
+README.md
+VespolinaAdminBundle.php
+composer.json
+phpunit.xml.dist

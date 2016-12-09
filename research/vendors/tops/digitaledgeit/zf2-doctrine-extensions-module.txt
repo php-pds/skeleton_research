@@ -1,0 +1,8 @@
+config/
+src/DeitDoctrineExtensionsModule/
+test/
+.gitignore
+Module.php
+README.md
+composer.json
+composer.lock

@@ -1,0 +1,6 @@
+.gitattributes
+.gitignore
+Correios.php
+CorreiosShipping.php
+README.md
+composer.json

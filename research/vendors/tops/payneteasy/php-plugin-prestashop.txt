@@ -1,0 +1,6 @@
+doc/
+modules/payneteasy/
+.gitignore
+README.md
+composer.json
+composer.lock

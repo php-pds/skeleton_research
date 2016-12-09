@@ -1,0 +1,14 @@
+components/
+controllers/
+helpers/
+mail/
+messages/
+migrations/
+models/
+views/
+LICENSE
+Module.php
+README.md
+SOCIAL.md
+UPGRADE.md
+composer.json

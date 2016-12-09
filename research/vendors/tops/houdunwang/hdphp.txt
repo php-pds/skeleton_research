@@ -1,0 +1,12 @@
+app/home/
+resource/
+system/
+vendor/
+.gitignore
+.htaccess
+README.md
+composer.json
+composer.lock
+favicon.ico
+hd
+index.php

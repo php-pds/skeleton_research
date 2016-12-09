@@ -1,0 +1,8 @@
+app/
+resources/views/
+.editorconfig
+.gitignore
+README.md
+composer.json
+herbert.config.php
+plugin.php

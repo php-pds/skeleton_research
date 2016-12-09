@@ -1,0 +1,9 @@
+doc/
+src/Gnugat/ComposerPlugin/WizardPlugin/
+.gitignore
+CHANGELOG.md
+CONTRIBUTING.md
+LICENSE
+README.md
+VERSIONING.md
+composer.json

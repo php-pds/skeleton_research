@@ -1,0 +1,11 @@
+Example/
+Test/
+.gitignore
+ICalAlarm.php
+ICalAttendee.php
+ICalEvent.php
+ICalPerson.php
+ICalendar.php
+README.md
+composer.json
+composer.lock

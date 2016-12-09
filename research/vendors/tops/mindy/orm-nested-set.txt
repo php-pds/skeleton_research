@@ -1,0 +1,6 @@
+.github/
+src/Mindy/
+.gitignore
+composer.json
+phpunit.xml.dist
+readme.md

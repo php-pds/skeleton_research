@@ -1,0 +1,14 @@
+Controller/
+DependencyInjection/
+Event/
+FormGenerator/
+Resources/
+Tests/
+.gitignore
+.travis.yml
+OgoneEvents.php
+OgoneManager.php
+README.md
+SnowcapOgoneBundle.php
+composer.json
+phpunit.xml.dist

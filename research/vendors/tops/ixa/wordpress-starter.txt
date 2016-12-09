@@ -1,0 +1,10 @@
+app/
+config/
+content/media/
+.gitignore
+.htaccess
+README.md
+composer.json
+index.php
+wp-cli.yml
+wp-config.php

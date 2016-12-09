@@ -1,0 +1,6 @@
+Services/
+examples/
+tests/
+.gitignore
+composer.json
+package.xml

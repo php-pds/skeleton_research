@@ -1,0 +1,9 @@
+DependencyInjection/
+Resources/config/
+Tests/
+.travis.yml
+EEEmbedlyBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,10 @@
+images/
+.infra.json
+README.md
+composer.json
+index.html
+infra.js
+teremok.css
+teremok.js
+teremok.php
+tester.php

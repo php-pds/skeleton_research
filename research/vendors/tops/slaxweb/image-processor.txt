@@ -1,0 +1,4 @@
+Config/
+Image.php
+README.md
+composer.json

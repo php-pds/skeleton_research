@@ -1,0 +1,9 @@
+src/Wtk/Redis/
+tests/
+.coveralls.yml
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

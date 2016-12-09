@@ -1,0 +1,4 @@
+src/LiveJournal/
+.gitignore
+LICENSE
+composer.json

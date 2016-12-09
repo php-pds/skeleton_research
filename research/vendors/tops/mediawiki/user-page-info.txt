@@ -1,0 +1,8 @@
+i18n/
+LICENSE
+README.md
+UserPageInfo.i18n.magic.php
+UserPageInfo.i18n.php
+UserPageInfo.php
+UserPageInfo_body.php
+composer.json

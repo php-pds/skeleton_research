@@ -1,0 +1,12 @@
+src/php/Webforge/Setup/ConfigurationTester/
+tests/
+.coveralls.yml
+.gitignore
+.travis.yml
+LICENSE
+README.md
+bootstrap.php
+composer.json
+phpunit.xml.dist
+rmt.json
+webforge-configuration-tester.sublime-project

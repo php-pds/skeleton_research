@@ -1,0 +1,10 @@
+doc/
+samples/
+src/
+tests/
+.gitignore
+LICENSE
+README.md
+bower.json
+composer.json
+phpunit.xml.dist

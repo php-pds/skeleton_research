@@ -1,0 +1,12 @@
+lib/Doctrine/MongoDB/
+tests/
+.gitignore
+.travis.yml
+CHANGELOG-1.0.md
+CHANGELOG-1.1.md
+LICENSE
+README.markdown
+UPGRADE-1.1.md
+composer.json
+composer.lock
+phpunit.xml.dist

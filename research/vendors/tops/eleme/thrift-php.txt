@@ -1,0 +1,4 @@
+lib/Thrift/
+LICENSE
+README.md
+composer.json

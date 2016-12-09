@@ -1,0 +1,7 @@
+.codeclimate.yml
+.gitattributes
+.gitignore
+composer.json
+license
+readme.md
+sugared-rim-cs

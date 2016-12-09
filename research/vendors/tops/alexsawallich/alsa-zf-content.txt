@@ -1,0 +1,10 @@
+config/
+data/
+languages/
+src/AlsaZfContent/
+view/alsa-zf-content/
+.gitattributes
+.gitignore
+Module.php
+composer.json
+readme.md

@@ -1,0 +1,6 @@
+docs/laravel/
+src/Subscribo/ServiceProvider/
+.gitignore
+LICENSE
+README.md
+composer.json

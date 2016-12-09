@@ -1,0 +1,6 @@
+assets/jstree/dist/
+config/
+src/Categories/
+view/categories/index/
+Module.php
+composer.json

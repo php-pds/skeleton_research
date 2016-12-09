@@ -1,0 +1,15 @@
+_config/
+code/
+docs/en/
+tests/
+.codeclimate.yml
+.editorconfig
+.gitattributes
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CONTRIBUTING.md
+LICENSE
+README.md
+composer.json
+phpunit.xml

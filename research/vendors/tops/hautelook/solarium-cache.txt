@@ -1,0 +1,9 @@
+src/Hautelook/Solarium/Cache/
+tests/Hautelook/Solarium/Cache/Tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

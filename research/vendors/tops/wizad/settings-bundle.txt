@@ -1,0 +1,15 @@
+Controller/
+Dal/
+DependencyInjection/
+Form/
+Model/
+Parser/
+Resources/
+Tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+WizadSettingsBundle.php
+composer.json
+phpunit.xml.dist

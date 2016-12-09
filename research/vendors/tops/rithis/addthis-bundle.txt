@@ -1,0 +1,8 @@
+DependencyInjection/
+Resources/
+Templating/Helper/
+Twig/Extension/
+LICENSE
+README.md
+RithisAddThisBundle.php
+composer.json

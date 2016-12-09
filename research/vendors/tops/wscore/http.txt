@@ -1,0 +1,5 @@
+src/WScore/Http/
+tests/
+.gitignore
+README.md
+composer.json

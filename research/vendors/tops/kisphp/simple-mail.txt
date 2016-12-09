@@ -1,0 +1,10 @@
+src/Mail/
+tests/
+.gitignore
+.php_cs
+.travis.yml
+LICENSE
+composer.json
+composer.lock
+phpunit.xml.dist
+readme.md

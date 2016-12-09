@@ -1,0 +1,16 @@
+dist/
+doc/
+samples/
+src/
+tests/unit/
+.bowerrc
+.gitignore
+.jscsrc
+.travis.yml
+AUTHORS.txt
+Gruntfile.js
+LICENSE
+README.md
+bower.json
+composer.json
+package.json

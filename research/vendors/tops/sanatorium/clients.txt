@@ -1,0 +1,9 @@
+database/
+lang/en/clients/
+src/
+themes/
+vendor/
+.gitignore
+README.md
+composer.json
+extension.php

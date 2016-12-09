@@ -1,0 +1,3 @@
+contao/
+src/ContaoBlackForest/Module/CustomSearch/
+composer.json

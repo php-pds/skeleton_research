@@ -1,0 +1,7 @@
+assets/
+src/
+Core.php
+README.md
+composer.json
+index.php
+version.md

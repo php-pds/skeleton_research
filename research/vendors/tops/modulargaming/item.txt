@@ -1,0 +1,11 @@
+assets/js/
+classes/
+config/
+guide/item/
+messages/models/
+migrations/item/
+templates/
+LICENSE.md
+README.md
+composer.json
+init.php

@@ -1,0 +1,10 @@
+Bridge/
+Tests/
+Annotations.php
+AnnotationsTrait.php
+CHANGELOG.md
+ExampleConfig.yaml
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

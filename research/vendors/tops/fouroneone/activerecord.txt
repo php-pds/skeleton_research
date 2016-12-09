@@ -1,0 +1,8 @@
+models/
+src/ActiveRecord/
+.gitignore
+README.md
+active_record.info
+active_record.install
+active_record.module
+composer.json

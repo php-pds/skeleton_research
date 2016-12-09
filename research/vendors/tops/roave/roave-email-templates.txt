@@ -1,0 +1,11 @@
+config/
+src/Roave/EmailTemplates/
+test/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE.txt
+Module.php
+README.md
+composer.json
+phpunit.xml.dist

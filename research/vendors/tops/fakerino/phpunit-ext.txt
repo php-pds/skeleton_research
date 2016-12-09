@@ -1,0 +1,7 @@
+src/Fakerino/PHPUnit/
+tests/Fakerino/Tests/PHPUnit/
+.gitignore
+LICENCE
+README.md
+composer.json
+phpunit.xml.dist

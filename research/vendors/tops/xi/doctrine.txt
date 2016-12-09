@@ -1,0 +1,7 @@
+library/Xi/Doctrine/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json

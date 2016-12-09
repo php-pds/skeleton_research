@@ -1,0 +1,5 @@
+DependencyInjection/
+Resources/config/
+OpenContentOpenMagazineBundle.php
+README.md
+composer.json

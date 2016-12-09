@@ -1,0 +1,6 @@
+Config/
+I18n/frontOffice/default/
+templates/frontOffice/default/
+HookCustomer.php
+LICENSE.txt
+composer.json

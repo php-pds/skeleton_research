@@ -1,0 +1,11 @@
+Demo/
+Src/App/
+Tests/App/
+public/
+.gitignore
+.travis.yml
+README.md
+autoload.php
+composer.json
+phpunit.xml
+travisphpconfig.ini

@@ -1,0 +1,11 @@
+config/
+docs/
+src/ModulusSecurity/
+tests/
+view/error/
+.gitignore
+LICENSE
+Module.php
+README.md
+composer.json
+phpunit.xml

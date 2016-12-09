@@ -1,0 +1,13 @@
+Test/Tree/
+Tree/
+.gitattributes
+.gitignore
+.travis.yml
+LICENSE.md
+README.md
+TreeException.php
+composer.json
+phpcs.xml
+phpdoc.dist.xml
+phpunit.xml
+tasks

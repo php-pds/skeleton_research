@@ -1,0 +1,14 @@
+wp-shortcode-cache/
+.codeclimate.yml
+.editorconfig
+.gitattributes
+.gitignore
+README.md
+composer.json
+deploy.sh
+gulpfile.js
+package.json
+phpcs.xml
+phpmd.xml
+readme.txt
+wp-shortcode-cache.php

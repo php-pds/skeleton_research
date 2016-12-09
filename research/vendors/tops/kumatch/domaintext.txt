@@ -1,0 +1,8 @@
+src/Kumatch/DomainText/
+tests/
+.gitignore
+.travis.yml
+License.txt
+README.md
+composer.json
+phpunit.xml.dist

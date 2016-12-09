@@ -1,0 +1,6 @@
+config/
+public/atp-viz/css/
+src/ATPViz/
+view/atp-viz/widget/
+License.txt
+composer.json

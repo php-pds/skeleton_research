@@ -1,0 +1,4 @@
+locale/
+src/Page/
+README.md
+composer.json

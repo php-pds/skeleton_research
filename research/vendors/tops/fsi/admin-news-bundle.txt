@@ -1,0 +1,14 @@
+Admin/
+Behat/Context/
+DependencyInjection/
+Form/Type/
+Resources/
+features/
+spec/FSi/Bundle/AdminNewsBundle/
+.gitignore
+.travis.yml
+FSiAdminNewsBundle.php
+LICENSE.md
+README.md
+behat.yml
+composer.json

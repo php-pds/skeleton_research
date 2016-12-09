@@ -1,0 +1,9 @@
+_config/
+code/
+img/
+lang/
+templates/
+.editorconfig
+COPYING
+README.md
+composer.json

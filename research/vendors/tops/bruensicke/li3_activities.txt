@@ -1,0 +1,7 @@
+config/
+controllers/
+core/
+extensions/adapter/activities/
+models/
+README.md
+composer.json

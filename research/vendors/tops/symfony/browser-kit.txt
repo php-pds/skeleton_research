@@ -1,0 +1,13 @@
+Tests/
+.gitignore
+CHANGELOG.md
+Client.php
+Cookie.php
+CookieJar.php
+History.php
+LICENSE
+README.md
+Request.php
+Response.php
+composer.json
+phpunit.xml.dist

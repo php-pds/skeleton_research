@@ -1,0 +1,12 @@
+DependencyInjection/
+Form/Extension/
+Resources/
+Tests/DependencyInjection/
+.gitignore
+.travis.yml
+LICENSE
+P2BootstrapBundle.php
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

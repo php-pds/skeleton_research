@@ -1,0 +1,9 @@
+spec/
+src/Akeneo/Crowdin/
+.gitignore
+.php_cs-fixers.php
+.php_cs.php
+.travis.yml
+LICENSE
+README.md
+composer.json

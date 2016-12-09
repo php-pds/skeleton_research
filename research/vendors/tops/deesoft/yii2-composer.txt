@@ -1,0 +1,6 @@
+Bootstrap.php
+Installer.php
+LICENSE
+Plugin.php
+README.md
+composer.json

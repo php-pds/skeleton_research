@@ -1,0 +1,4 @@
+sphinx/
+LICENSE
+README.md
+composer.json

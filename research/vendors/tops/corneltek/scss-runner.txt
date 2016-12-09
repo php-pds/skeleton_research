@@ -1,0 +1,5 @@
+src/Corneltek/
+tests/Corneltek/
+composer.json
+phprelease.ini
+phpunit.xml

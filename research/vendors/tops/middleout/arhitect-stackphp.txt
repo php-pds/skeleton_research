@@ -1,0 +1,5 @@
+app/config/
+src/Arhitect/StackPhp/
+.gitignore
+LICENSE
+composer.json

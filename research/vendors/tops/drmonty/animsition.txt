@@ -1,0 +1,5 @@
+css/
+js/
+README.md
+component.json
+composer.json

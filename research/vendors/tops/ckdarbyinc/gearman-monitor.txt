@@ -1,0 +1,7 @@
+src/GearmanMonitor/
+web/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json

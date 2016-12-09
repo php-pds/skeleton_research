@@ -1,0 +1,16 @@
+autoloads/
+bin/
+classes/
+design/standard/
+doc/
+interfaces/
+modules/sysinfo/
+pake/
+settings/
+translations/
+.gitignore
+LICENSE
+README.md
+composer.json
+extension.xml
+ezinfo.php

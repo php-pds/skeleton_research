@@ -1,0 +1,12 @@
+build/
+demo/
+docs/
+src/DebugBar/
+tests/
+CHANGELOG.md
+CONTRIBUTING.md
+LICENSE
+README.md
+bower.json
+composer.json
+phpunit.xml.dist

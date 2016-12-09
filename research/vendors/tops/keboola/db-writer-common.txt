@@ -1,0 +1,11 @@
+src/Keboola/DbWriter/
+tests/
+.gitignore
+.travis.yml
+Dockerfile
+README.md
+bootstrap.php
+composer.json
+docker-compose.yml
+phpunit.sh
+phpunit.xml.dist

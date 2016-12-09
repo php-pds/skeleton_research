@@ -1,0 +1,11 @@
+actions/
+controllers/
+migrations/
+models/
+views/default/
+widgets/fileWidget/
+.gitignore
+LICENSE
+Module.php
+README.md
+composer.json

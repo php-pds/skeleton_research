@@ -1,0 +1,15 @@
+DependencyInjection/
+Form/
+Model/
+Resources/
+Tests/
+.gitattributes
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CONTRIBUTING.md
+IvoryBase64FileBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

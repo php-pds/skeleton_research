@@ -1,0 +1,10 @@
+Controller/
+Core/
+DependencyInjection/
+Resources/
+Tests/Controller/
+AlValumUploaderBundle.php
+LICENSE
+README.md
+autoload.json
+composer.json

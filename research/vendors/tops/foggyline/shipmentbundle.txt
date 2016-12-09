@@ -1,0 +1,8 @@
+Controller/
+DependencyInjection/
+Repository/
+Resources/
+Service/
+Tests/
+FoggylineShipmentBundle.php
+composer.json

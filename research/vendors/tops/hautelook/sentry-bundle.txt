@@ -1,0 +1,9 @@
+DependencyInjection/
+EventListener/
+Resources/config/
+Sentry/
+.gitignore
+HautelookSentryBundle.php
+LICENSE
+README.md
+composer.json

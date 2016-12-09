@@ -1,0 +1,12 @@
+bin/
+lib/
+tests/
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+bootstrap.php
+composer.json
+composer.lock
+phpunit.xml.dist

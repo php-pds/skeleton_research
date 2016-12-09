@@ -1,0 +1,5 @@
+src/main/php/
+ChangeLog
+README.md
+composer.json
+project.pth

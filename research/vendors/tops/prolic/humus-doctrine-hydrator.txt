@@ -1,0 +1,4 @@
+src/Humus/Doctrine/Hydrator/
+LICENSE.txt
+README.md
+composer.json

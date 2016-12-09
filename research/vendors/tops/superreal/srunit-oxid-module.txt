@@ -1,0 +1,7 @@
+core/
+examples/modules/sroxarticle1/
+LICENSE
+README.md
+composer.json
+metadata.php
+superreal.png

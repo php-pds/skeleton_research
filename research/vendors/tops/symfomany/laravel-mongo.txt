@@ -1,0 +1,11 @@
+bin/
+coverage/
+spec/Mongodb/
+src/Mongo/
+tests/
+.gitignore
+.travis.yml
+composer.json
+phpspec.yml
+phpunit.xml
+readme.md

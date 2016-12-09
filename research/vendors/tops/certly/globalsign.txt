@@ -1,0 +1,7 @@
+tests/
+.gitignore
+.travis.yml
+GlobalSign.php
+README.md
+composer.json
+composer.lock

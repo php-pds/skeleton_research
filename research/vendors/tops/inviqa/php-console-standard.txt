@@ -1,0 +1,11 @@
+bin/
+config/
+skel/
+src/
+.gitignore
+.scrutinizer.yml
+CHANGELOG.md
+README.md
+README.project.md
+composer.json
+composer.lock

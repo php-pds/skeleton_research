@@ -1,0 +1,3 @@
+widgets/core/
+README.md
+composer.json

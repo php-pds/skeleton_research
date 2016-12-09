@@ -1,0 +1,16 @@
+Controller/
+DependencyInjection/
+Mailer/
+Resources/
+Tests/
+Twig/
+Util/
+.editorconfig
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CLMailerBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

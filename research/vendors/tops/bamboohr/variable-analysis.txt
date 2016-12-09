@@ -1,0 +1,7 @@
+Sniffs/CodeAnalysis/
+Tests/CodeAnalysis/
+.gitignore
+LICENSE
+README.mkdn
+composer.json
+ruleset.xml

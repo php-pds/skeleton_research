@@ -1,0 +1,10 @@
+Configuration/TypoScript/
+Resources/
+.gitignore
+README.md
+composer.json
+ext_emconf.php
+ext_icon.png
+ext_tables.php
+gulpfile.js
+package.json

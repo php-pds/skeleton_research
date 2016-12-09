@@ -1,0 +1,6 @@
+.gitignore
+Http.php
+UploadException.php
+YK.php
+YoukuUploader.php
+composer.json

@@ -1,0 +1,4 @@
+Classes/Netlogix/Cqrs/
+Migrations/Mysql/
+Tests/
+composer.json

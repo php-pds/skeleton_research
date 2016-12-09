@@ -1,0 +1,8 @@
+src/Phalcon/
+tests/
+.gitignore
+LICENSE
+README.md
+RELEASE.md
+acl.example.php
+composer.json

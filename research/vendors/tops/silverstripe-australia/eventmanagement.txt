@@ -1,0 +1,11 @@
+_config/
+code/
+images/
+javascript/
+templates/
+tests/
+.editorconfig
+.gitattributes
+LICENSE.md
+README.md
+composer.json

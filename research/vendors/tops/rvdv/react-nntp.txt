@@ -1,0 +1,11 @@
+examples/
+src/Rvdv/React/Nntp/
+tests/
+vagrant/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

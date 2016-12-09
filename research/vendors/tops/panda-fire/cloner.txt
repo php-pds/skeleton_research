@@ -1,0 +1,5 @@
+.gitignore
+Cloner.php
+ClonerInterface.php
+LICENSE
+composer.json

@@ -1,0 +1,7 @@
+docs/
+example/
+src/
+.gitignore
+composer.json
+hybridauth.readme.md
+readme.md

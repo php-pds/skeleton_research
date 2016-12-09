@@ -1,0 +1,5 @@
+Classes/Flowpack/SimpleSearch/
+Configuration/
+LICENSE
+README.md
+composer.json

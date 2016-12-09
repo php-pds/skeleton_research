@@ -1,0 +1,4 @@
+Resources/public/
+InnovaAngularUITreeBundle.php
+composer.json
+readme.md

@@ -1,0 +1,9 @@
+public/
+.env.example
+.gitignore
+LICENSE
+README.md
+Vagrantfile
+autobahn.json
+composer.json
+wp-cli.yml

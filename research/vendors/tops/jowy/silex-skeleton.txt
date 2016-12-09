@@ -1,0 +1,12 @@
+app/
+migrations/
+src/
+test/
+web/
+.gitignore
+README.md
+composer.json
+composer.lock
+phpcs.xml
+phpunit.xml.dist
+start.sh

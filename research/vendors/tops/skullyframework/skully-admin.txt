@@ -1,0 +1,7 @@
+SkullyAdmin/
+Tests/
+public/
+.DS_Store
+.gitignore
+README.md
+composer.json

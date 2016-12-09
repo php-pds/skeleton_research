@@ -1,0 +1,10 @@
+src/ShellCommand/
+test/
+.editorconfig
+.gitignore
+.lvimrc
+README.md
+composer.json
+composer.lock
+pearfarm.spec
+phpunit.xml

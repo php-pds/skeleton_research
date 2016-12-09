@@ -1,0 +1,14 @@
+Api/
+DependencyInjection/
+Exception/
+Resources/
+Service/
+Tests/
+Utils/
+.gitignore
+.travis.yml
+ActsSocialApiBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

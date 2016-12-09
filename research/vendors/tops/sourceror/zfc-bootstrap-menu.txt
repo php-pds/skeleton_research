@@ -1,0 +1,15 @@
+config/
+src/ZfcBootstrapMenu/
+tests/
+view/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+Module.php
+README.md
+autoload_classmap.php
+composer.json
+composer.lock
+composer.phar
+phpunit.xml

@@ -1,0 +1,13 @@
+bin/
+src/Sensorario/Container/
+tests/
+.gitignore
+CHANGELOG.md
+build
+composer.json
+composer.lock
+composer.phar
+coverage
+phpunit.xml
+readme.md
+runtests

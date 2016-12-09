@@ -1,0 +1,8 @@
+config/
+dca/
+languages/
+templates/
+CHANGELOG.md
+CustomModule.php
+README.md
+composer.json

@@ -1,0 +1,10 @@
+STARTERKIT/
+src/
+README.md
+composer.json
+kernel.api.php
+kernel.drush.inc
+kernel.drush.run.inc
+kernel.info
+kernel.module
+kernel.pages.inc

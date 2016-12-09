@@ -1,0 +1,10 @@
+src/BundleX/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+bundlex
+composer.json
+composer.lock
+phpunit.xml.dist

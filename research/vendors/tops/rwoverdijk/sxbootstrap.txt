@@ -1,0 +1,14 @@
+config/
+public/
+src/SxBootstrap/
+tests/
+vendor/
+view/sxbootstrap/tabs/
+.gitignore
+.travis.yml
+LICENSE
+Module.php
+README.md
+composer.json
+coverage-checker.php
+phpunit.xml.dist

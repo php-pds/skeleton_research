@@ -1,0 +1,5 @@
+classes/
+design/standard/templates/ngpdf/
+modules/ngpdf/
+settings/
+composer.json

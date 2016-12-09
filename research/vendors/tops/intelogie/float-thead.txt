@@ -1,0 +1,12 @@
+demo/
+dist/
+.gitignore
+CONTRIBUTING.md
+Gruntfile.coffee
+README.md
+bower.json
+composer.json
+jquery.floatThead._.js
+jquery.floatThead.js
+license.txt
+package.json

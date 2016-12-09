@@ -1,0 +1,8 @@
+public/
+src/
+.bowerrc
+.gitignore
+README.md
+bower.json
+composer.json
+composer.lock

@@ -1,0 +1,8 @@
+Classes/Wwwision/Neos/MailChimp/
+Configuration/
+Resources/Private/
+LICENSE
+Module_Lists.png
+Module_Members.png
+README.md
+composer.json

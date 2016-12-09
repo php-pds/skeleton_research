@@ -1,0 +1,13 @@
+Classes/
+Configuration/
+Documentation/
+Resources/Private/
+Tests/
+.travis.yml
+LICENSE
+README.md
+composer.json
+ext_emconf.php
+ext_icon.gif
+ext_localconf.php
+ext_tables.php

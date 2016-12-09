@@ -1,0 +1,10 @@
+spec/
+src/
+.gitignore
+.travis.yml
+LICENSE.txt
+changelog.md
+composer.json
+composer.lock
+phpspec.yml
+readme.md

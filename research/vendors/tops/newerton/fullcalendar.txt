@@ -1,0 +1,15 @@
+build/
+demos/
+src/
+tests/
+.bowerrc
+.gitignore
+Gruntfile.js
+bower.json
+changelog.md
+composer.json
+fullcalendar.jquery.json
+license.txt
+lumbar.json
+package.json
+readme.md

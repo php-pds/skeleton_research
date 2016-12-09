@@ -1,0 +1,7 @@
+src/Kollarovic/Thumbnail/
+tests/
+.gitignore
+LICENSE
+README-SK.texy
+README.md
+composer.json

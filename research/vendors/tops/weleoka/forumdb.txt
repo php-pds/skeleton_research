@@ -1,0 +1,11 @@
+app/
+src/Forumdb/
+test/
+view/forumdb/
+webroot/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+README.md
+autoloader.php
+composer.json

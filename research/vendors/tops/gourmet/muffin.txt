@@ -1,0 +1,7 @@
+src/TestSuite/
+.gitignore
+.semver
+LICENSE
+README.md
+VERSION
+composer.json

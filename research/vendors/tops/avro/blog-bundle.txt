@@ -1,0 +1,17 @@
+Controller/
+DependencyInjection/
+Doctrine/
+Document/
+Event/
+Form/Type/
+Model/
+Resources/
+Tests/
+Twig/Extension/
+vendor/
+.gitignore
+.travis.yml
+AvroBlogBundle.php
+README.md
+composer.json
+phpunit.xml.dist

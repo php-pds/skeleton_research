@@ -1,0 +1,9 @@
+doc/
+example/
+source/PaynetEasy/PaynetEasyApi/
+test/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json

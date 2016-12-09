@@ -1,0 +1,10 @@
+.idea/
+DependencyInjection/
+Resources/
+Services/
+.DS_Store
+.gitignore
+JRKEasyPaginationBundle.php
+README.md
+bundle-skel.txt
+composer.json

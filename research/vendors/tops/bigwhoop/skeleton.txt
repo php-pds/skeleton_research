@@ -1,0 +1,11 @@
+examples/
+src/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+codeception.yml.dist
+composer.json
+composer.lock
+composer.phar

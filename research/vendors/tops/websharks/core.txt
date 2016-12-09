@@ -1,0 +1,20 @@
+.github/
+assets/
+phings @ 70dcec6
+src/
+tests/
+.build.props
+.gitattributes
+.gitchange
+.gitignore
+.gitmodules
+.htaccess
+.travis.bash
+.travis.yml
+CHANGELOG.md
+LICENSE.txt
+README.md
+build.xml
+composer.json
+composer.lock
+sami.cfg

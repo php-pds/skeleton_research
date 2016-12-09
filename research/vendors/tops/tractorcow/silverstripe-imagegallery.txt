@@ -1,0 +1,12 @@
+_config/
+code/
+css/
+gallery_ui/
+images/
+javascript/
+lang/
+less/
+tasks/
+templates/
+_config.php
+composer.json

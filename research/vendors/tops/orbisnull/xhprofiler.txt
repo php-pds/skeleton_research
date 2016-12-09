@@ -1,0 +1,3 @@
+src/XHProfiler/
+README.md
+composer.json

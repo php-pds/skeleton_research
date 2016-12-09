@@ -1,0 +1,6 @@
+DependencyInjection/
+Resources/config/
+.gitignore
+JGIBillogramBundle.php
+README.md
+composer.json

@@ -1,0 +1,6 @@
+examples/
+src/Steveorevo/VirtualCLI/
+.gitignore
+composer.json
+composer.lock
+trace.php

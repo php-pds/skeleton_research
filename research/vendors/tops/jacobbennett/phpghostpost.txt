@@ -1,0 +1,4 @@
+src/jacobbennett/phpghostpost/
+LICENSE
+composer.json
+readme.md

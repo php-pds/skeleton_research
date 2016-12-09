@@ -1,0 +1,6 @@
+Mockista/
+tests/
+.gitignore
+.travis.yml
+composer.json
+readme.md

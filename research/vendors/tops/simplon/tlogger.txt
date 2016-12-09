@@ -1,0 +1,6 @@
+nginx-setup/
+src/Simplon/Tlogger/
+test/
+.gitignore
+README.md
+composer.json

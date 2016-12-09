@@ -1,0 +1,12 @@
+assets/
+configs/
+controllers/
+languages/
+migrations/
+models/
+views/
+.gitignore
+LICENSE
+README.md
+composer.json
+knowledge_base_details.php

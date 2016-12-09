@@ -1,0 +1,9 @@
+Command/
+DependencyInjection/
+Resources/config/
+.gitignore
+ACMediaInfoBundle.php
+LICENSE.txt
+MediaInfo.php
+README.md
+composer.json

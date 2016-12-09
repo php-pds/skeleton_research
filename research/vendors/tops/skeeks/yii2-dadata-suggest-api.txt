@@ -1,0 +1,9 @@
+_ide/
+helpers/
+CHANGELOG.md
+DadataSuggestApi.php
+DadataSuggestApiBase.php
+DadataSuggestApiV41.php
+LICENSE
+README.md
+composer.json

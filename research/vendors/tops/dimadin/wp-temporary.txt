@@ -1,0 +1,3 @@
+README.md
+class-wp-temporary.php
+composer.json

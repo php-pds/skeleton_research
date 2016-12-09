@@ -1,0 +1,8 @@
+Controller/
+Entity/
+Form/Type/
+Resources/
+Service/
+README.md
+SliderModule.php
+composer.json

@@ -1,0 +1,15 @@
+DependencyInjection/
+EventListener/
+Resources/
+Test/
+Tests/
+Util/
+.editorconfig
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CLTriggerBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

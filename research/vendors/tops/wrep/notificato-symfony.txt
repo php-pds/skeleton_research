@@ -1,0 +1,6 @@
+DependencyInjection/
+Resources/
+.gitignore
+NotificatoBundle.php
+README.md
+composer.json

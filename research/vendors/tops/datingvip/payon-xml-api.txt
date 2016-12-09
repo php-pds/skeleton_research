@@ -1,0 +1,6 @@
+src/DatingVIP/Payment/PayOn/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock

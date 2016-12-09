@@ -1,0 +1,16 @@
+app/
+bin/
+src/
+tests/
+var/
+web/
+.atoum.php
+.bootstrap.atoum.php
+.bowerrc
+.gitignore
+.travis.yml
+Makefile
+README.md
+behat.yml.dist
+bower.json
+composer.json

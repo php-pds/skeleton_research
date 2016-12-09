@@ -1,0 +1,6 @@
+class/
+examples/
+README.html
+README.md
+composer.json
+gulpfile.js

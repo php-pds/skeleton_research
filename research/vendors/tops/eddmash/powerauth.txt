@@ -1,0 +1,7 @@
+Auth.php
+AuthExceptions.php
+LICENSE
+PasswordManager.php
+README.md
+User.php
+composer.json

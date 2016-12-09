@@ -1,0 +1,9 @@
+Classes/
+Documentation/
+Tests/
+.gitignore
+.travis.yml
+composer.json
+ext_emconf.php
+ext_icon.png
+ext_localconf.php

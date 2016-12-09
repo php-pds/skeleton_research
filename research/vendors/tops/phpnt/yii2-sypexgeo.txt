@@ -1,0 +1,5 @@
+.gitignore
+GeoData.php
+LICENSE
+README.md
+composer.json

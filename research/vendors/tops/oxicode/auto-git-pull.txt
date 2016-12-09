@@ -1,0 +1,6 @@
+scripts/
+src/
+AutoGitPull.sublime-project
+README.md
+composer.json
+deploy.example.php

@@ -1,0 +1,8 @@
+.settings/
+assets/
+.buildpath
+.project
+JsTree.php
+JsTreeAsset.php
+README.md
+composer.json

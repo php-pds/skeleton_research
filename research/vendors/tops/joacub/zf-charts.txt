@@ -1,0 +1,6 @@
+config/
+public/highcharts/
+src/ZfCharts/
+Module.php
+README.md
+composer.json

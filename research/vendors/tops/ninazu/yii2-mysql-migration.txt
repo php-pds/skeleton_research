@@ -1,0 +1,7 @@
+assets/
+controllers/
+models/forms/
+views/default/
+Module.php
+README.md
+composer.json

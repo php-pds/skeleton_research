@@ -1,0 +1,9 @@
+docs/
+src/RunOpenCode/Bundle/QueryResourcesLoader/
+test/
+.scrutinizer.yml
+.travis.yml
+LICENSE.txt
+README.md
+composer.json
+phpunit.xml

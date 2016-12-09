@@ -1,0 +1,8 @@
+Tests/
+Twig/
+AssetManager.php
+AssetManagerInterface.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

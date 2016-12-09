@@ -1,0 +1,4 @@
+.gitignore
+AsanaStrategy.php
+README.md
+composer.json

@@ -1,0 +1,13 @@
+.github/
+bin/
+fixture/
+src/
+.editorconfig
+.gitattributes
+.gitignore
+.php_cs
+.styleci.yml
+CHANGELOG.md
+LICENSE
+README.md
+composer.json

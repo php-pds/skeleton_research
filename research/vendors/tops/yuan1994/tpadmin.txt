@@ -1,0 +1,15 @@
+application/
+extend/
+public/
+thinkphp/
+vendor/
+.gitignore
+LICENSE
+README.md
+build.php
+composer.json
+composer.lock
+generate.php
+think
+tpadmin
+tpadmin.sql

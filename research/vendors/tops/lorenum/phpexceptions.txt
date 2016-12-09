@@ -1,0 +1,4 @@
+src/HTTPExceptions/
+.gitignore
+composer.json
+example.php

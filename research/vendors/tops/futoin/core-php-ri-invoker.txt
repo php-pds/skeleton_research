@@ -1,0 +1,9 @@
+src/FutoIn/RI/Invoker/
+tests/
+.gitignore
+.travis.yml
+.travis_install.sh
+LICENSE
+README.md
+composer.json
+phpunit.xml

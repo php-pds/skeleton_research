@@ -1,0 +1,10 @@
+assets/
+controllers/
+migrations/
+models/
+views/
+EavBehavior.php
+EavModule.php
+EavQueryTrait.php
+README.md
+composer.json

@@ -1,0 +1,7 @@
+actions/au_spotlight/settings/
+languages/
+views/default/
+README.md
+composer.json
+manifest.xml
+start.php

@@ -1,0 +1,5 @@
+Mini/
+public/
+LICENSE
+README.md
+composer.json

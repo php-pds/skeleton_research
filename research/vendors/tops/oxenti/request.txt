@@ -1,0 +1,7 @@
+config/
+src/
+tests/
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

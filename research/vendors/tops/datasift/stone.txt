@@ -1,0 +1,12 @@
+src/
+.gitignore
+LICENSE.txt
+README.md
+build-docs.sh
+build.local.xml
+build.properties
+build.xml
+composer.json
+dev-setup.sh
+package.xml
+phpunit.xml.dist

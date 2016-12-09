@@ -1,0 +1,6 @@
+datatypes/ezflowmedia/
+design/standard/
+settings/
+sql/
+composer.json
+ezinfo.php

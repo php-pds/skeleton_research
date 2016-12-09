@@ -1,0 +1,17 @@
+_ide/
+actions/
+assets/
+components/
+config/
+controllers/
+mail/
+messages/ru/
+migrations/
+models/
+views/admin-message/
+widgets/reviews2/
+CHANGELOG.md
+LICENSE
+Module.php
+README.md
+composer.json

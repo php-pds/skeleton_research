@@ -1,0 +1,10 @@
+.gitignore
+LICENSE
+README.md
+backbone-min.js
+backbone-min.map
+backbone.js
+bower.json
+component.json
+composer.json
+package.json

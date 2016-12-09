@@ -1,0 +1,4 @@
+basecoat/
+examples/
+README.md
+composer.json

@@ -1,0 +1,6 @@
+tests/
+.gitignore
+LICENSE
+README.md
+TestCase.php
+composer.json

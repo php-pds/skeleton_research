@@ -1,0 +1,11 @@
+Command/
+DependencyInjection/
+Entity/
+Event/
+Exception/
+Publishing/
+Resources/config/
+LICENCE.txt
+README.md
+SidusPublishingBundle.php
+composer.json

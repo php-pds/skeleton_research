@@ -1,0 +1,14 @@
+CompilerPass/
+DependencyInjection/
+Resources/config/
+Tests/Functional/
+.coveralls.yml
+.editorconfig
+.gitignore
+.travis.yml
+CONTRIBUTING.md
+ElcodiCommentBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

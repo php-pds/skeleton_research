@@ -1,0 +1,9 @@
+library/Rawebone/ViewModel/
+tests/Rawebone/ViewModel/Tests/
+.gitattributes
+.gitignore
+.travis.yml
+LICENCE
+README.md
+composer.json
+phpunit.xml

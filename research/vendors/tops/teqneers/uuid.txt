@@ -1,0 +1,7 @@
+src/TQ/UUID/
+.gitignore
+LICENSE
+README.md
+VERSION
+composer.json
+manual.html

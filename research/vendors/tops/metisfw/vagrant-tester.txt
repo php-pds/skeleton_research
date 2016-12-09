@@ -1,0 +1,8 @@
+docs/en/
+src/MetisFW/VagrantTester/
+tests/
+.gitignore
+LICENSE.md
+README.md
+Vagrantfile
+composer.json

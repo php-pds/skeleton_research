@@ -1,0 +1,17 @@
+jpg/
+nuget/
+png/
+printquality-vector/
+.bowerrc
+.editorconfig
+.gitattributes
+.gitignore
+.npmignore
+CHANGELOG.md
+LICENSE.md
+README.md
+bower.json
+composer.json
+gulpfile.js
+package.json
+readme.pdf

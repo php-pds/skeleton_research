@@ -1,0 +1,10 @@
+client @ c156976
+src/crodas/
+tests/
+.gitignore
+.gitmodules
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml

@@ -1,0 +1,8 @@
+tests/
+.coveralls.yml
+.gitignore
+.travis.yml
+DataGrid.php
+DataGridVector.php
+README.md
+composer.json

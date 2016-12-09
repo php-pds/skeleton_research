@@ -1,0 +1,13 @@
+api/
+dataRender/
+features/
+filtering/
+i18n/
+integration/
+pagination/
+sorting/
+type-detection/
+License.txt
+Readme.md
+composer.json
+make.sh

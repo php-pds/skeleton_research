@@ -1,0 +1,5 @@
+Resources/public/
+EWZFontelloBundle.php
+LICENSE
+README.md
+composer.json

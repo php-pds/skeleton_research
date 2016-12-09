@@ -1,0 +1,6 @@
+aliyun-php-sdkv2-20130815/
+.gitattributes
+AliOss.php
+LICENSE
+README.md
+composer.json

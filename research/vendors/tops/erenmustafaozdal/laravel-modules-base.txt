@@ -1,0 +1,7 @@
+config/
+database/migrations/
+resources/
+src/
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,7 @@
+Services/W3C/
+docs/examples/
+tests/
+.gitignore
+README
+composer.json
+package.xml

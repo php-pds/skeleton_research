@@ -1,0 +1,3 @@
+Providers/
+.gitignore
+composer.json

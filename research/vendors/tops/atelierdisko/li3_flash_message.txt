@@ -1,0 +1,7 @@
+config/
+extensions/
+tests/cases/extensions/storage/
+views/elements/
+.travis.yml
+README.md
+composer.json

@@ -1,0 +1,10 @@
+assets/
+components/
+controllers/
+migrations/
+models/
+views/
+widgets/side_menu/
+ContentModule.php
+README.md
+composer.json

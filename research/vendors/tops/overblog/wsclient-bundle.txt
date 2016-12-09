@@ -1,0 +1,17 @@
+Client/
+DataCollector/
+DependencyInjection/
+Exception/
+Fixtures/
+Logging/
+Manager/
+Query/
+Resources/
+Tests/
+.gitmodules
+LICENSE
+OverblogWsClientBundle.php
+README.md
+build.xml
+composer.json
+phpunit.xml.dist

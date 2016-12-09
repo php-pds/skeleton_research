@@ -1,0 +1,6 @@
+DependencyInjection/
+Resources/config/
+KachkaevPHPRBundle.php
+LICENSE
+README.md
+composer.json

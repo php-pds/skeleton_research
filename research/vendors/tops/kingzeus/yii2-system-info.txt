@@ -1,0 +1,9 @@
+interfaces/
+os/
+.gitignore
+CHANGE.md
+CONTRIBUTING.md
+LICENSE
+README.md
+SystemInfo.php
+composer.json

@@ -1,0 +1,10 @@
+build/
+git/hooks/
+macro/
+scripts/
+.gitignore
+LICENSE
+README.md
+build.xml
+composer.json
+install.sh

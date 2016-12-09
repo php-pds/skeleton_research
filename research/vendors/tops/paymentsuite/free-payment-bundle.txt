@@ -1,0 +1,13 @@
+Controller/
+DependencyInjection/
+Resources/config/
+Services/
+.editorconfig
+.gitignore
+.travis.yml
+FreePaymentBundle.php
+FreePaymentMethod.php
+LICENSE
+README.md
+composer.json
+humans.txt

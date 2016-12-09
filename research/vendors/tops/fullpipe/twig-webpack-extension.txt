@@ -1,0 +1,6 @@
+.gitignore
+EntryTokenParser.php
+LICENSE
+README.md
+WebpackExtension.php
+composer.json

@@ -1,0 +1,4 @@
+src/NevStokes/FileManager/
+LICENSE
+README.md
+composer.json

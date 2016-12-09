@@ -1,0 +1,6 @@
+tests/
+.gitignore
+Addon.php
+CheckLicense.php
+PluginUpdater.php
+composer.json

@@ -1,0 +1,9 @@
+tests/
+.gitattributes
+.gitignore
+.travis.yml
+Jwt.php
+JwtHttpBearerAuth.php
+README.md
+composer.json
+phpunit.xml.dist

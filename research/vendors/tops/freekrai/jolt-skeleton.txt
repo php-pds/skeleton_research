@@ -1,0 +1,10 @@
+assets/
+content/
+core/
+.htaccess
+LICENSE
+README.md
+composer.json
+config.ini
+index.php
+server.php

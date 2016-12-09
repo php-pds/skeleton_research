@@ -1,0 +1,8 @@
+JbboehrStandard/
+TestSuite/
+.gitignore
+LICENSE
+Makefile
+composer.json
+composer.lock
+phpunit.xml.dist

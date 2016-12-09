@@ -1,0 +1,9 @@
+config/
+data/
+src/Node/
+view/node/backend/
+.gitattributes
+.gitignore
+Module.php
+composer.json
+readme.md

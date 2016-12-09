@@ -1,0 +1,4 @@
+src/Xero/
+.gitignore
+README.md
+composer.json

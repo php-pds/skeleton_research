@@ -1,0 +1,6 @@
+config/
+.gitignore
+LICENSE.md
+README.md
+changelog_generator.php
+composer.json

@@ -1,0 +1,10 @@
+Config/
+Controller/
+Model/
+Vendor/
+View/
+webroot/
+.gitignore
+LICENSE.txt
+README
+composer.json

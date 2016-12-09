@@ -1,0 +1,12 @@
+Manticorp/
+tests/
+.gitignore
+.travis.yml
+LICENSE.md
+README.md
+composer.json
+composer.lock
+index.html
+longProcess.php
+multiProcess.php
+phpunit.xml

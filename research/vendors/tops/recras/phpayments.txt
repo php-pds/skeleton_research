@@ -1,0 +1,5 @@
+src/PHPayments/
+.gitignore
+LICENSE
+README.md
+composer.json

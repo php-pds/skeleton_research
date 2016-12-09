@@ -1,0 +1,9 @@
+src/Inspector/
+.gitignore
+.travis.yml
+README.md
+behat.yml
+composer.json
+composer.lock
+inspector.php
+phpunit.xml.dist

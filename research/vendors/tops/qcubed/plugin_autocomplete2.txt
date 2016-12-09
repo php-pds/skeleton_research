@@ -1,0 +1,7 @@
+examples/
+includes/
+js/
+README.md
+_LICENSE.txt
+autocomplete2.jquery.json
+composer.json

@@ -1,0 +1,7 @@
+src/CMSx/
+templates/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json

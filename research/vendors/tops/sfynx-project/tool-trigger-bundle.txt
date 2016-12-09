@@ -1,0 +1,10 @@
+DependencyInjection/
+Event/
+EventListener/
+Resources/
+.gitignore
+.travis.yml
+LICENSE
+SfynxTriggerBundle.php
+composer.json
+phpunit.xml.dist

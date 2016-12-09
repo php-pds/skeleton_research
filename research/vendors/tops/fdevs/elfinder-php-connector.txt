@@ -1,0 +1,10 @@
+Driver/
+Exception/
+Util/
+.gitignore
+Connector.php
+FileInfo.php
+LICENSE
+README.md
+Response.php
+composer.json

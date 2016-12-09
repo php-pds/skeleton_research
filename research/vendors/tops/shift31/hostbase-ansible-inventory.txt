@@ -1,0 +1,8 @@
+bin/
+src/Hostbase/
+.gitignore
+README.md
+box.json
+composer.json
+composer.lock
+hostbase-ansible.phar

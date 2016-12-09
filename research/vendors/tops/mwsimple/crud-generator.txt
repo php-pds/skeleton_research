@@ -1,0 +1,10 @@
+Command/
+Generator/
+Resources/
+Tests/
+.travis.yml.old
+LICENSE
+MWSimpleCrudGeneratorBundle.php
+README.md
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,8 @@
+Classes/
+Configuration/
+Migrations/Code/
+Resources/Private/TypoScript/
+Tests/
+LICENSE
+Readme.rst
+composer.json

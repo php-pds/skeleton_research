@@ -1,0 +1,16 @@
+_ide/
+assets/
+config/
+console/controllers/
+controllers/
+messages/ru/
+models/
+views/
+AuthorRule.php
+CHANGELOG.md
+CmsManager.php
+DbManager.php
+LICENSE.md
+README.md
+RbacModule.php
+composer.json

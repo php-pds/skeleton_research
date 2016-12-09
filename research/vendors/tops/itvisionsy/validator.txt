@@ -1,0 +1,10 @@
+doc/
+docs/
+src/
+tests/
+vendor/
+.gitignore
+LICENSE
+README.md
+composer.json
+documentation.sh

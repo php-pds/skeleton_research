@@ -1,0 +1,12 @@
+Entity/
+Http/
+Resources/views/
+config/
+database/migrations/
+public/news/
+README.md
+RofilContentRouteServiceProvider.php
+RofilContentServiceProvider.php
+composer.json
+config.php
+routes.php

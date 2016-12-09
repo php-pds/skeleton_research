@@ -1,0 +1,13 @@
+config/
+src/
+stubs/
+tests/
+.coveralls.yml
+.gitignore
+.php_cs
+.styleci.yml
+.travis.yml
+CHANGELOG.md
+composer.json
+phpunit.xml
+readme.md

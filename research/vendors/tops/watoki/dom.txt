@@ -1,0 +1,8 @@
+spec/watoki/dom/
+src/watoki/dom/
+.gitignore
+.travis.yml
+README.md
+bootstrap.php
+composer.json
+phpunit.xml.dist

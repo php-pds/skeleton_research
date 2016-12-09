@@ -1,0 +1,13 @@
+config/
+lang/
+src/
+tests/
+.editorconfig
+.gitignore
+.travis.yml
+Bootstrap.php
+README.md
+composer.json
+composer.lock
+create-pot.sh
+phpunit.xml

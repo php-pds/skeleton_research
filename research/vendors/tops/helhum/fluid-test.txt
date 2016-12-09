@@ -1,0 +1,9 @@
+Classes/
+Resources/Private/
+Tests/Functional/
+.gitignore
+.travis.yml
+README.md
+composer.json
+ext_emconf.php
+ext_icon.gif

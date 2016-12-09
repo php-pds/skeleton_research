@@ -1,0 +1,15 @@
+api_client/
+modules/
+src/
+tests/src/
+.eslintignore
+.eslintrc
+.gitignore
+README.md
+composer.json
+dcx_integration.drush.inc
+dcx_integration.info.yml
+dcx_integration.links.menu.yml
+dcx_integration.links.task.yml
+dcx_integration.routing.yml
+dcx_integration.services.yml

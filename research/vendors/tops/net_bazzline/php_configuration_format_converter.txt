@@ -1,0 +1,9 @@
+bin/
+example/
+source/Net/Bazzline/ConfigurationFormatConverter/
+test/
+.gitignore
+LICENSE
+README.md
+composer.json
+phpunit.xml

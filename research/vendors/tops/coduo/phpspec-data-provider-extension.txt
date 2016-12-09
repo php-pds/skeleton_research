@@ -1,0 +1,9 @@
+features/
+spec/Coduo/PhpSpec/DataProvider/Annotation/
+src/Coduo/PhpSpec/DataProvider/
+.gitignore
+.travis.yml
+LICENCE
+README.md
+behat.yml
+composer.json

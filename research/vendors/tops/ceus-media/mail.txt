@@ -1,0 +1,12 @@
+demo/
+doc/
+src/
+test/
+.gitignore
+Mail.ini
+Makefile
+composer.json
+doc.xml
+logo.png
+phpunit.xml
+readme.md

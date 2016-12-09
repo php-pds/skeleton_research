@@ -1,0 +1,13 @@
+Consumption/Extension/
+DependencyInjection/
+Entity/
+Profiler/
+Resources/
+Tests/
+.gitignore
+.travis.yml
+FormaproMessageQueueBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

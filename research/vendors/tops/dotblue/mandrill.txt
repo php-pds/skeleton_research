@@ -1,0 +1,8 @@
+DotBlue/Mandrill/
+docs/en/
+tests/
+.gitattributes
+.gitignore
+composer.json
+license.md
+readme.md

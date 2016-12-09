@@ -1,0 +1,17 @@
+dist/
+doc/
+src/
+test/
+.gitignore
+.jshintrc
+.travis.yml
+CHANGELOG.md
+CONTRIBUTING.md
+Gruntfile.js
+LICENSE
+README.md
+bower.json
+composer.json
+karma.conf.js
+package.json
+typeahead.js.jquery.json

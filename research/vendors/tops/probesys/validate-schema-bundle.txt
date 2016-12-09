@@ -1,0 +1,4 @@
+Command/
+ProbesysValidateSchemaBundle.php
+README.md
+composer.json

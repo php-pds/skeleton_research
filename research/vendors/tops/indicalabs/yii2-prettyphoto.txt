@@ -1,0 +1,6 @@
+.gitignore
+PrettyPhoto.php
+PrettyPhotoAsset.php
+README
+README.md
+composer.json

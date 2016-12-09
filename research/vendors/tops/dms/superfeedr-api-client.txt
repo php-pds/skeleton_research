@@ -1,0 +1,7 @@
+src/DMS/Service/Superfeedr/
+tests/DMS/Service/Superfeedr/MockClient/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock

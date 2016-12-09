@@ -1,0 +1,10 @@
+JSnapConfig/
+JSnapIODriver/
+JSnapResults/
+JSnapSnapSectionBundle/
+JSnapTriggerDriver/
+JSnapCommander.php
+JSnapHelpers.php
+LICENSE.md
+README.md
+composer.json

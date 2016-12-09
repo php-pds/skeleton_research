@@ -1,0 +1,4 @@
+classes/jquery/
+www/
+README.md
+composer.json

@@ -1,0 +1,16 @@
+Attribute/
+AttributeStorage/
+Tests/
+AbstractEntity.php
+CHANGELOG.md
+Entity.php
+EntityAttributeBuilder.php
+EntityCollection.php
+EntityDataExtractor.php
+EntityException.php
+EntityTrait.php
+ExampleConfig.yaml
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

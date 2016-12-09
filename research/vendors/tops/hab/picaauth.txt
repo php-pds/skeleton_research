@@ -1,0 +1,7 @@
+src/HAB/Pica/Auth/
+tests/
+.eproject
+.gitignore
+README.md
+composer.json
+phpunit.xml

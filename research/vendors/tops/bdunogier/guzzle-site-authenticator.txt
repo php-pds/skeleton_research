@@ -1,0 +1,8 @@
+bundle/
+lib/
+spec/
+.gitignore
+.travis.yml
+README.md
+composer.json
+phpspec.yml

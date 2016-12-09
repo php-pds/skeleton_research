@@ -1,0 +1,9 @@
+docs/en/
+src/Kdyby/Annotations/DI/
+tests/
+.gitattributes
+.gitignore
+.travis.yml
+README.md
+composer.json
+license.md

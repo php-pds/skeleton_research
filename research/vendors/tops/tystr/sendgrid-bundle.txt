@@ -1,0 +1,14 @@
+Controller/
+DependencyInjection/
+Event/
+Resources/
+Tests/
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+TystrSendgridBundle.php
+composer.json
+composer.lock
+phpunit.xml.dist

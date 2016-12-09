@@ -1,0 +1,8 @@
+backend/
+common/models/
+frontend/
+migrations/
+.gitignore
+LICENSE
+README.md
+composer.json

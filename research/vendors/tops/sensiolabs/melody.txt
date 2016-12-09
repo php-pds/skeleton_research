@@ -1,0 +1,13 @@
+bin/
+build/
+doc/
+src/SensioLabs/Melody/
+.gitignore
+.travis.yml
+CONTRIBUTING.md
+LICENSE
+README.md
+box.json
+composer.json
+composer.lock
+phpunit.xml.dist

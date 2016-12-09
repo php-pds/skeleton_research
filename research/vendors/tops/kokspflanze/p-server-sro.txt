@@ -1,0 +1,7 @@
+config/
+src/PServerSRO/
+view/
+.gitignore
+LICENSE
+README.md
+composer.json

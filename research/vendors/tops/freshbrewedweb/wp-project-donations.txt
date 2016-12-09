@@ -1,0 +1,13 @@
+admin/
+includes/
+languages/
+public/
+vendor/
+.gitignore
+LICENSE.txt
+README.txt
+composer.json
+composer.lock
+index.php
+project-donations.php
+uninstall.php

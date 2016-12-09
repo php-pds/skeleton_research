@@ -1,0 +1,6 @@
+Thumbtack/Crankshaft/
+.gitignore
+LICENSE
+README.md
+all_tests.php
+composer.json

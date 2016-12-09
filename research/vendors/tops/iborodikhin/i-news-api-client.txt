@@ -1,0 +1,7 @@
+Commands/
+Exceptions/
+src/Api/
+.gitignore
+Api.php
+README.md
+composer.json

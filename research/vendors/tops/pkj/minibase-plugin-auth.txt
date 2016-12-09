@@ -1,0 +1,7 @@
+docs/
+src/Pkj/Minibase/Plugin/AuthPlugin/
+tests/
+.gitignore
+README.md
+composer.json
+phpunit.xml.dist

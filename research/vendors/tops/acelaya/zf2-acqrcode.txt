@@ -1,0 +1,15 @@
+config/
+src/
+test/
+view/acelaya/qr-code/
+.coveralls.yml
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+Module.php
+README.md
+autoload_classmap.php
+autoload_function.php
+autoload_register.php
+composer.json

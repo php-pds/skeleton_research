@@ -1,0 +1,11 @@
+css/
+img/
+inc/
+js/
+pattern/buttons/
+settings/
+.gitignore
+LICENSE.md
+README.md
+composer.json
+index.php

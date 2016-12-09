@@ -1,0 +1,9 @@
+src/Profiler/
+tests/Profiler/
+.gitattributes
+.gitignore
+LICENSE
+README.md
+VERSIONING.md
+composer.json
+phpunit.xml

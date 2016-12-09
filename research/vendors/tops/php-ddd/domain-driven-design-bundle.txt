@@ -1,0 +1,13 @@
+DependencyInjection/
+Resources/
+Tests/
+.coveralls.yml
+.editorconfig
+.gitignore
+.php_cs
+.travis.yml
+CONTRIBUTING.md
+PhpDDDDomainDrivenDesignBundle.php
+README.md
+composer.json
+phpunit.xml.dist

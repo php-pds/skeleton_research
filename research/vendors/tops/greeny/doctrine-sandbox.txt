@@ -1,0 +1,7 @@
+app/
+migrations/
+www/
+.gitignore
+composer.json
+composer.lock
+readme.md

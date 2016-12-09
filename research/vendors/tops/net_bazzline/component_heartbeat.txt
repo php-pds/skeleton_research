@@ -1,0 +1,10 @@
+doc/presentation/
+examples/Example/
+source/Net/Bazzline/Component/Heartbeat/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

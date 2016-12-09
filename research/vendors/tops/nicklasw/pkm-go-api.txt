@@ -1,0 +1,10 @@
+examples/
+includes/
+src/
+tests/Api/Pokemon/
+.gitattributes
+.gitignore
+LICENSE.txt
+README.md
+composer.json
+phpunit.xml.dist

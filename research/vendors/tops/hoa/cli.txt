@@ -1,0 +1,5 @@
+Bin/
+.State
+CHANGELOG.md
+README.md
+composer.json

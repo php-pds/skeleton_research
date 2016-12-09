@@ -1,0 +1,6 @@
+DependencyInjection/
+Resources/config/
+.gitignore
+ArkoQueueManagerBundle.php
+README.md
+composer.json

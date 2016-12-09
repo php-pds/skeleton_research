@@ -1,0 +1,9 @@
+.idea/
+src/Webfactory/Dom/
+test/
+xml-catalog/
+.gitignore
+.hgtags
+LICENSE
+composer.json
+phpunit.xml.dist

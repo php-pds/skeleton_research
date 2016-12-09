@@ -1,0 +1,12 @@
+DependencyInjection/
+Resources/config/
+Tests/
+Variation/Type/
+.gitignore
+ConfigResolver.php
+CoshiVariatorBundle.php
+LICENSE
+README.md
+VariationFactory.php
+composer.json
+phpunit.xml.dist

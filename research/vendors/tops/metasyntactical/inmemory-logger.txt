@@ -1,0 +1,11 @@
+spec/
+src/
+.editorconfig
+.gitignore
+.travis.yml
+CONTRIBUTING.md
+LICENSE
+README.md
+apigen.neon
+composer.json
+phpspec.yml.dist

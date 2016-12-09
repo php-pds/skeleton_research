@@ -1,0 +1,3 @@
+lib/agpmedia/
+tests/
+composer.json

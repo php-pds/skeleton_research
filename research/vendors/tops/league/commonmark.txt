@@ -1,0 +1,16 @@
+bin/
+src/
+tests/
+.gitattributes
+.gitignore
+.scrutinizer.yml
+.styleci.yml
+.travis.yml
+CHANGELOG.md
+CONDUCT.md
+CONTRIBUTING.md
+LICENSE
+README.md
+UPGRADE.md
+composer.json
+phpunit.xml.dist

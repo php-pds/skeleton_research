@@ -1,0 +1,6 @@
+tests/ClassHelper/
+ClassHelper.php
+LICENSE
+README.md
+composer.json
+phpunit.xml

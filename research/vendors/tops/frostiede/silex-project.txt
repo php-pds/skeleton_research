@@ -1,0 +1,10 @@
+app/
+bin/
+var/logs/
+web/
+.gitignore
+LICENSE
+README.md
+app.php
+composer.json
+composer.lock

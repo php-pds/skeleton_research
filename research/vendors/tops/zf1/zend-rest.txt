@@ -1,0 +1,4 @@
+library/Zend/Rest/
+LICENSE.txt
+README.md
+composer.json

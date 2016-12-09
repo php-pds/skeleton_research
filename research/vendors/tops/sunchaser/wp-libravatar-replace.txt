@@ -1,0 +1,13 @@
+assets/
+cache/
+classes/
+languages/
+views/
+.gitignore
+LICENSE
+Pakefile.php
+README.md
+composer.json
+composer.lock
+libravatar-replace.php
+readme.txt

@@ -1,0 +1,11 @@
+collections/
+interfaces/
+tests/
+traits/
+.gitignore
+.travis.yml
+LICENSE
+Mask.php
+README.md
+composer.json
+phpunit.xml.dist

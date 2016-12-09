@@ -1,0 +1,17 @@
+_config/
+code/
+css/
+fonts/
+img/
+javascript/
+scss/
+templates/
+.editorconfig
+.gitattributes
+.gitignore
+.scrutinizer.yml
+CONTRIBUTING.md
+ChangeLog.md
+LICENSE
+README.md
+composer.json

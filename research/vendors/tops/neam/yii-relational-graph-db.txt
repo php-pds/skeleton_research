@@ -1,0 +1,5 @@
+behaviors/
+config/
+traits/
+README.md
+composer.json

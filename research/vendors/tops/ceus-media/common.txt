@@ -1,0 +1,16 @@
+Go/
+Test/
+doc/
+src/
+.gitignore
+Common.ini
+Makefile
+README.md
+autoload.php
+autoload.php5
+compat.php
+composer.json
+doc-creator.xml
+go.php
+go.sh
+license.md

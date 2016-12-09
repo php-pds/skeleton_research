@@ -1,0 +1,7 @@
+Controller/
+DependencyInjection/
+Resources/
+Tests/
+AescarchaSerializerBundle.php
+README.md
+composer.json

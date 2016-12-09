@@ -1,0 +1,7 @@
+assets/
+Autogrow.php
+AutogrowInput.php
+AutogrowPlugin.php
+LICENSE
+README.md
+composer.json

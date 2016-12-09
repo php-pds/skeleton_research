@@ -1,0 +1,6 @@
+Bridge/
+CompressorInterface.php
+CssCompressor.php
+HtmlCompressor.php
+JsClosureCompressor.php
+composer.json

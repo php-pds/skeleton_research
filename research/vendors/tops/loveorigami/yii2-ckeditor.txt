@@ -1,0 +1,9 @@
+plugins/
+Assets.php
+AssetsJQueryAdapter.php
+AssetsPlugins.php
+CKEditor.php
+CKEditorPresets.php
+LICENSE.md
+README.md
+composer.json

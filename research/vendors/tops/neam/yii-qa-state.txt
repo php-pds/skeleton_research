@@ -1,0 +1,4 @@
+behaviors/
+commands/
+README.md
+composer.json

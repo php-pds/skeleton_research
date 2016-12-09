@@ -1,0 +1,8 @@
+fonts/
+src/
+tests/
+.gitignore
+README.md
+changelog
+codeception.yml
+composer.json

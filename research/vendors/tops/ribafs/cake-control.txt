@@ -1,0 +1,7 @@
+config/
+docs/
+src/
+webroot/
+LICENSE
+README.md
+composer.json

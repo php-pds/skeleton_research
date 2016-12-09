@@ -1,0 +1,16 @@
+actions/
+classes/
+graphics/
+languages/
+lib/
+pages/user_summary_control/
+screenshots/
+vendors/jquery_ui_multiselect/
+views/default/
+.gitignore
+CHANGES.txt
+README.md
+composer.json
+composer.lock
+manifest.xml
+start.php

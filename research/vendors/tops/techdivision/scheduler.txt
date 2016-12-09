@@ -1,0 +1,12 @@
+Classes/TechDivision/Scheduler/
+Configuration/
+Migrations/Mysql/
+Resources/Private/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+build.xml
+composer.json
+phpcs.xml
+phpmd.xml

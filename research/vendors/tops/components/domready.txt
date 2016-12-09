@@ -1,0 +1,6 @@
+README.md
+bower.json
+component.json
+composer.json
+ready.js
+ready.min.js

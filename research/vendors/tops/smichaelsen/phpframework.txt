@@ -1,0 +1,12 @@
+classes/
+tests/
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+_.htaccess.example
+composer.json
+core_routes.php
+index.php.example
+phpunit.xml

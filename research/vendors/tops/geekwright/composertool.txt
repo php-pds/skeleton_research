@@ -1,0 +1,9 @@
+admin/
+docs/
+icons/
+language/
+.gitignore
+README.md
+composer.json
+index.html
+xoops_version.php

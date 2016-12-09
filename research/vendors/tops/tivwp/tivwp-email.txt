@@ -1,0 +1,10 @@
+assets/
+languages/
+LICENSE
+README.md
+class-tivwp-email-controller.php
+class-tivwp-email.php
+composer.json
+readme.txt
+tivwp-email.php
+view-tivwp-email-admin.php

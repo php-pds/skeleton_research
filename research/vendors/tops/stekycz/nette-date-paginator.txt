@@ -1,0 +1,7 @@
+.idea/
+DatePaginator/
+tests/
+.gitignore
+README.md
+composer.json
+license.txt

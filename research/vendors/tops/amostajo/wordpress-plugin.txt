@@ -1,0 +1,13 @@
+boot/
+config/
+controllers/
+css/
+js/
+plugin/
+views/
+.gitignore
+LICENSE
+README.md
+ayuco
+composer.json
+plugin.php

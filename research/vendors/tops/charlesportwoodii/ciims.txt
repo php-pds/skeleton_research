@@ -1,0 +1,12 @@
+protected/
+themes/
+web/
+.gitignore
+.htaccess
+.travis.yml
+LICENSE.md
+README.md
+Vagrantfile
+codeception.yml
+composer.json
+composer.lock

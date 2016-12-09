@@ -1,0 +1,10 @@
+src/PHPExtra/EventManager/
+tests/
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENSE.md
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

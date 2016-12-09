@@ -1,0 +1,9 @@
+Config/Schema/
+Lib/Network/Email/
+Model/
+Test/
+.gitignore
+.travis.yml
+README.md
+before_script.sh
+composer.json

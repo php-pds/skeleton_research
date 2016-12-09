@@ -1,0 +1,10 @@
+DependencyInjection/
+Resources/
+Tests/
+Validator/Image/
+.gitignore
+.travis.yml
+OryzoneImageValidatorBundle.php
+README.rst
+composer.json
+phpunit.xml.dist

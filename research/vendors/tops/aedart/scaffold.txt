@@ -1,0 +1,14 @@
+docs/
+helpers/
+resources/
+src/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+blank.scaffold.php
+codeception.yml
+composer.json
+example.scaffold.php
+scaffold

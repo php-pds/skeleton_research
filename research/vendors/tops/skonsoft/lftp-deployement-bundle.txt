@@ -1,0 +1,8 @@
+Command/
+Controller/
+DependencyInjection/
+Resources/
+Tests/Controller/
+README.md
+SkonsoftLftpDeployementBundle.php
+composer.json

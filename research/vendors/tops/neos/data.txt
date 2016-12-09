@@ -1,0 +1,4 @@
+doc/
+src/Neos/Data/
+README.md
+composer.json

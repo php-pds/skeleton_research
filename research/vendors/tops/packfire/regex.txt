@@ -1,0 +1,5 @@
+src/Packfire/Text/Regex/
+test/
+.gitignore
+.travis.yml
+composer.json

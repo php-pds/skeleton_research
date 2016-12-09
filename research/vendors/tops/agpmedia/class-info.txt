@@ -1,0 +1,4 @@
+lib/agpmedia/ClassInfo/
+tests/
+README.md
+composer.json

@@ -1,0 +1,8 @@
+src/bitwise/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+VERSION
+composer.json
+phpunit.xml

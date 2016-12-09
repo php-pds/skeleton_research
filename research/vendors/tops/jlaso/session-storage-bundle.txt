@@ -1,0 +1,5 @@
+Entity/
+LICENSE
+README.md
+SessionStorageBundle.php
+composer.json

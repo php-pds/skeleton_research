@@ -1,0 +1,4 @@
+Declination/
+File/
+Progress/
+composer.json

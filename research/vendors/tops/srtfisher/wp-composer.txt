@@ -1,0 +1,7 @@
+.gitignore
+README.md
+class.php
+composer.json
+composer.php
+readme.txt
+wp-cli-composer-command.php

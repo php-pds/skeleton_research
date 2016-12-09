@@ -1,0 +1,13 @@
+application/
+system/
+user_guide/
+.gitignore
+.travis.yml
+README.md
+composer.json
+composer.lock
+contributing.md
+index.php
+license.txt
+readme.rst
+users.sql

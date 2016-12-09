@@ -1,0 +1,7 @@
+BaseCollection.php
+Collection.php
+LICENSE
+Queue.php
+README.md
+Stack.php
+composer.json

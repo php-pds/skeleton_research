@@ -1,0 +1,16 @@
+assets/
+cdn/
+component/
+tests/unit/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+AssetBundle.php
+CHANGELOG.md
+FA.php
+FontAwesome.php
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

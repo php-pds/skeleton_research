@@ -1,0 +1,4 @@
+Models/
+.gitattributes
+README.md
+composer.json

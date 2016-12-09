@@ -1,0 +1,3 @@
+src/system/modules/textsnippet/
+README.md
+composer.json

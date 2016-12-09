@@ -1,0 +1,7 @@
+DependencyInjection/
+Form/Type/
+Resources/
+Services/
+README.md
+WSFormBundle.php
+composer.json

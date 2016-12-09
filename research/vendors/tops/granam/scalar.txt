@@ -1,0 +1,9 @@
+Granam/Scalar/
+Tests/Granam/Scalar/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+_tests_bootstrap.php
+composer.json
+phpunit.xml.dist

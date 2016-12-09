@@ -1,0 +1,5 @@
+src/Gnkw/Symfony/HttpFoundation/
+.gitignore
+COPYING.txt
+README.md
+composer.json

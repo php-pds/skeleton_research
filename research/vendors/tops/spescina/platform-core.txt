@@ -1,0 +1,10 @@
+public/src/
+src/
+tests/
+.gitignore
+.travis.yml
+Gruntfile.js
+bower.json
+composer.json
+package.json
+phpunit.xml

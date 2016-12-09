@@ -1,0 +1,8 @@
+assets/
+resources/
+views/
+.gitignore
+composer.json
+package.json
+theme.json
+webpack.config.js

@@ -1,0 +1,14 @@
+bin/
+configs/
+dbmigrations/
+log/
+public/
+src/
+templates/panel/
+tests/
+tmp/
+vagrant/
+.gitignore
+README.md
+composer.json
+migrations.yml

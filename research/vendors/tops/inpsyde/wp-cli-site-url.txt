@@ -1,0 +1,6 @@
+src/WpCli/
+.gitignore
+LICENSE
+README.md
+composer.json
+wp-cli-site-url.php

@@ -1,0 +1,9 @@
+DependencyInjection/
+Resources/
+Services/
+Tests/Controller/
+.gitignore
+CHANGELOG.md
+GikoAliyunOssBundle.php
+LICENSE
+composer.json

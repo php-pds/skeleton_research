@@ -1,0 +1,12 @@
+bin/
+config/
+logs/
+public/
+views/
+.env.example
+.gitignore
+LICENSE.md
+README.md
+Vagrantfile
+app.php
+composer.json

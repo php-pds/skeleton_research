@@ -1,0 +1,7 @@
+copypasta/
+src/
+.gitignore
+LICENSE
+README.md
+cacert.pem
+composer.json

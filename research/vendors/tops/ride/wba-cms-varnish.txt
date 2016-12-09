@@ -1,0 +1,6 @@
+config/
+l10n/
+src/ride/web/cms/controller/backend/action/node/
+README.md
+composer.json
+ride.json

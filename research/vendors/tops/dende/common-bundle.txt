@@ -1,0 +1,8 @@
+DataFixtures/
+Resources/phing/
+Tests/
+.gitignore
+DendeCommonBundle.php
+README.md
+composer.json
+composer.lock

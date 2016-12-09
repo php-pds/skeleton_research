@@ -1,0 +1,10 @@
+Tests/
+app/config/
+src/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+bootstrap.tests.php
+composer.json
+phpunit.xml.dist

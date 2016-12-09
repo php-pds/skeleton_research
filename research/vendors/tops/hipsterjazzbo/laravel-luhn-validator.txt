@@ -1,0 +1,8 @@
+src/HipsterJazzbo/LaravelLuhnValidator/
+tests/
+.gitignore
+.travis.yml
+LICENSE.md
+README.md
+composer.json
+phpunit.xml

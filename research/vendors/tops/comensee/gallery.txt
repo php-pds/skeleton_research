@@ -1,0 +1,4 @@
+NetworksLabs/GalleryBundle/
+.gitignore
+README.md
+composer.json

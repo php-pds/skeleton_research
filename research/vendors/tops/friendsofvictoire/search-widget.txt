@@ -1,0 +1,9 @@
+DependencyInjection/
+Entity/
+Form/
+Resolver/
+Resources/
+Tests/Controller/
+README.md
+VictoireWidgetSearchBundle.php
+composer.json

@@ -1,0 +1,12 @@
+Controller/
+DependencyInjection/
+Entity/
+EventListener/
+Form/
+Resources/
+Routing/
+Services/
+Twig/
+Utils/
+MajesCmsBundle.php
+composer.json

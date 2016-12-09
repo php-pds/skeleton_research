@@ -1,0 +1,7 @@
+mu-plugins/
+.gitignore
+.user.ini
+README.md
+composer.json
+license.txt
+wp-config.php

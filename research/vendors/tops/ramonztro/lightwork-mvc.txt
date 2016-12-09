@@ -1,0 +1,11 @@
+app/
+config/
+lightwork/
+web/
+.htaccess
+CHANGELOG.md
+README.md
+_maintenance.php
+cli-config.php
+composer.json
+index.php

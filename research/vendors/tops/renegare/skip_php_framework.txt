@@ -1,0 +1,10 @@
+bin/
+config/
+docs/
+src/Skip/
+tests/
+tmpl/
+.gitignore
+composer.json
+index.php
+phpunit.xml.dist

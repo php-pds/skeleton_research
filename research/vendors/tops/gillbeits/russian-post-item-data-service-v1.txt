@@ -1,0 +1,6 @@
+src/RPItemDataService/
+test/
+.gitignore
+README.md
+bootstrap.php
+composer.json

@@ -1,0 +1,9 @@
+src/
+tests/
+.editorconfig
+.gitattributes
+.gitignore
+LICENSE.md
+README.md
+composer.json
+phpunit.xml.dist

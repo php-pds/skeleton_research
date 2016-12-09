@@ -1,0 +1,5 @@
+src/KrisanAlfa/Cache/
+.gitattributes
+.gitignore
+README.md
+composer.json

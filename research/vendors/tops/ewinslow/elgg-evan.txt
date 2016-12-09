@@ -1,0 +1,14 @@
+bower_components/
+languages/
+src/
+tests/
+views/default/
+.gitignore
+.travis.yml
+README.md
+build.sh
+composer.json
+evan.di.php
+manifest.xml
+phpunit.xml
+start.php

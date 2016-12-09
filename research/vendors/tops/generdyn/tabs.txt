@@ -1,0 +1,11 @@
+core.apps.accordion/
+core.apps.accordion_apps/
+core.apps.auto_gallery/
+core.apps.carosel/
+core.apps.slides/
+core.apps.slideshow_thumbs/
+core.apps.tabbed_apps/
+core.apps.tabbed_texts/
+core.apps.tabbed_widgets/
+core.apps.thumbnails/
+composer.json

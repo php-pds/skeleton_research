@@ -1,0 +1,9 @@
+config/
+data/
+language/
+src/SkelletonApplication/
+view/
+.gitignore
+Module.php
+README.md
+composer.json

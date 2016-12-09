@@ -1,0 +1,13 @@
+Block/
+Controller/
+Helper/
+Model/
+Observer/
+Setup/
+etc/
+view/
+.gitignore
+LICENSE
+README.md
+composer.json
+registration.php

@@ -1,0 +1,6 @@
+i18n/
+EmailAddressImage-generator.php
+EmailAddressImage.i18n.php
+EmailAddressImage.php
+README.md
+composer.json

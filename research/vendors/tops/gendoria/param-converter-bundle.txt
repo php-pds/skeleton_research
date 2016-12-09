@@ -1,0 +1,13 @@
+DependencyInjection/
+Request/ParamConverter/
+Resources/
+Tests/
+.gitignore
+.php_cs
+.scrutinizer.yml
+.travis.yml
+GendoriaParamConverterBundle.php
+LICENSE
+README.markdown
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,10 @@
+Console/Command/Task/
+Controller/
+Lib/
+Model/
+Test/Case/
+Vendor/
+View/
+docs/
+composer.json
+readme.markdown

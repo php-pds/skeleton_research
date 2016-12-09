@@ -1,0 +1,9 @@
+public/assets/
+spec/Illumiante3/BootAwesome/
+src/Illuminate3/BootAwesome/
+.gitignore
+LICENSE.txt
+README.md
+composer.json
+phpspec.yml
+phpunit.xml

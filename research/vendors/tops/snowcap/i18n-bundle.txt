@@ -1,0 +1,16 @@
+Annotation/
+DependencyInjection/
+Entity/
+Form/EventListener/
+Resources/
+Routing/
+Twig/Extension/
+Util/
+.gitignore
+.travis.yml
+README.md
+Registry.php
+SnowcapI18nBundle.php
+autoload.php.dist
+composer.json
+phpunit.xml.dist

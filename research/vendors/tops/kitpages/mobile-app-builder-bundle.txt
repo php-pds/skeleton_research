@@ -1,0 +1,10 @@
+DependencyInjection/
+Processor/Generic/
+Resources/
+Tests/
+.gitignore
+KitpagesMobileAppBuilderBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

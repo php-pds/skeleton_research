@@ -1,0 +1,10 @@
+Command/
+DependencyInjection/
+Profiler/
+Resources/
+Sphinx/
+.gitignore
+CheburSphinxBundle.php
+LICENSE
+README.md
+composer.json

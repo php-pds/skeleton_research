@@ -1,0 +1,6 @@
+src/Module/
+.bzrignore
+.gitignore
+LICENSE.txt
+README.md
+composer.json

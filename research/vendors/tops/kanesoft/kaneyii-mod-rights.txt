@@ -1,0 +1,10 @@
+assets/
+components/
+controllers/
+data/
+messages/
+models/
+views/
+.gitignore
+RightsModule.php
+composer.json

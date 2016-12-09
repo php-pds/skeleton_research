@@ -1,0 +1,16 @@
+Check/
+Command/
+DependencyInjection/
+Factory/
+Reporter/
+Resources/config/
+Tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+LaFourchettePagerDutyBundle.php
+PagerDutyBundleException.php
+README.md
+composer.json
+phpunit.xml

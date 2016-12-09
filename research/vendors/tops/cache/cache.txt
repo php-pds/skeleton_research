@@ -1,0 +1,12 @@
+.github/
+build/
+script/
+src/
+.editorconfig
+.gitignore
+.gush.yml
+.travis.yml
+CONTRIBUTING.md
+README.md
+composer.json
+phpunit.xml.dist

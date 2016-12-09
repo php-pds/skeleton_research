@@ -1,0 +1,12 @@
+spec/Cornford/Backup/
+src/
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE.txt
+README.md
+composer.json
+filename.sql
+phpspec.yml
+phpunit.xml

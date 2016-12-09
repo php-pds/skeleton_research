@@ -1,0 +1,7 @@
+assets/
+views/
+Cookies.php
+CookiesAsset.php
+LICENSE
+README.md
+composer.json

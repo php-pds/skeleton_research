@@ -1,0 +1,6 @@
+config/
+src/
+view/gdpro-file-manager/index/
+Module.php
+README.md
+composer.json

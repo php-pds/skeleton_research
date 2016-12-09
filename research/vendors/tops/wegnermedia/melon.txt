@@ -1,0 +1,6 @@
+config/
+src/
+.gitignore
+.travis.yml
+composer.json
+phpunit.xml

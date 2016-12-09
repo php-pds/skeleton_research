@@ -1,0 +1,4 @@
+src/Maalls/Curl/
+LICENSE
+README.md
+composer.json

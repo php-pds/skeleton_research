@@ -1,0 +1,4 @@
+Resources/public/
+README.md
+RmzamoraJqueryBundle.php
+composer.json

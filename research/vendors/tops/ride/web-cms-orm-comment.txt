@@ -1,0 +1,8 @@
+config/
+l10n/
+public/img/cms/widget/
+src/ride/web/cms/controller/widget/
+.gitignore
+README.md
+composer.json
+ride.json

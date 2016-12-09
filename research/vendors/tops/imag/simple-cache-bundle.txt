@@ -1,0 +1,11 @@
+Command/
+Controller/
+DependencyInjection/
+Manager/
+Resources/
+Storage/
+Tests/Controller/
+.gitignore
+IMAGSimpleCacheBundle.php
+README.md
+composer.json

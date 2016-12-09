@@ -1,0 +1,13 @@
+examples/dorm/
+lib/
+src/
+test/
+.gitattributes
+.gitignore
+.hhconfig
+.travis.yml
+CONTRIBUTING.md
+LICENSE
+PATENTS
+README.md
+composer.json

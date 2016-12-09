@@ -1,0 +1,12 @@
+assets/
+includes/
+.gitignore
+.jshintrc
+Gruntfile.js
+README.md
+composer.json
+metamedia.php
+package.json
+readme.txt
+screenshot-1.png
+screenshot-2.png

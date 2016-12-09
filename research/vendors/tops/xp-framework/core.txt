@@ -1,0 +1,9 @@
+src/
+.travis.yml
+ChangeLog.md
+LICENCE.md
+README.md
+appveyor.yml
+boot.pth
+composer.json
+test.xar

@@ -1,0 +1,4 @@
+Classes/Famelo/ContentManagement/Controller/
+Configuration/
+Resources/Private/Templates/Content/
+composer.json

@@ -1,0 +1,9 @@
+API/
+Admin/
+Controller/
+DependencyInjection/
+Helper/
+Resources/
+AlpixelCustomerBridgeBundle.php
+LICENSE
+composer.json

@@ -1,0 +1,9 @@
+src/Hasantayyar/Forker/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+LICENSE_tr
+README.md
+composer.json
+phpunit.xml

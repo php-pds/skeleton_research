@@ -1,0 +1,8 @@
+examples/
+src/AuthSDK/
+.gitignore
+README.html
+README.md
+changelog.txt
+composer.json
+doku.pdf

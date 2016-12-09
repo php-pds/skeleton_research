@@ -1,0 +1,7 @@
+assets/
+CHANGE.md
+DropdownX.php
+DropdownXAsset.php
+LICENSE.md
+README.md
+composer.json

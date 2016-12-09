@@ -1,0 +1,4 @@
+bin/
+COPYING.md
+README.md
+composer.json

@@ -1,0 +1,3 @@
+src/MWSimple/Silex/AdminCrudSilex/
+README.md
+composer.json

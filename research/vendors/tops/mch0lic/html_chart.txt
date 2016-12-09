@@ -1,0 +1,3 @@
+src/HtmlChart/
+README.md
+composer.json

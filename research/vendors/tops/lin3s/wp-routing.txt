@@ -1,0 +1,11 @@
+spec/LIN3S/WPRouting/Exception/
+src/LIN3S/WPRouting/
+.editorconfig
+.gitignore
+.php_cs
+.phpspec_cs
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+composer.json

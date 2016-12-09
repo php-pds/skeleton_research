@@ -1,0 +1,4 @@
+src/W3build/PaginateBundle/
+.gitignore
+README.md
+composer.json

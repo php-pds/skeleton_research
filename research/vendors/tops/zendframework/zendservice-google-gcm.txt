@@ -1,0 +1,8 @@
+library/ZendService/Google/
+tests/
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENSE.txt
+README.md
+composer.json

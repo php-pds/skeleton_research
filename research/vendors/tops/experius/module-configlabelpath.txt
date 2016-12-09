@@ -1,0 +1,6 @@
+Plugin/Magento/Config/Model/Config/Structure/Element/
+etc/
+LICENSE.txt
+README.md
+composer.json
+registration.php

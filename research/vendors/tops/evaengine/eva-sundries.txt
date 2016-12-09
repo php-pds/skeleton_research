@@ -1,0 +1,7 @@
+config/
+sql/
+src/EvaSundries/
+views/admin/
+Module.php
+README.md
+composer.json

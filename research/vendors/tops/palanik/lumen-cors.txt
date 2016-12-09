@@ -1,0 +1,6 @@
+.gitattributes
+.gitignore
+LICENSE
+LumenCors.php
+README.md
+composer.json

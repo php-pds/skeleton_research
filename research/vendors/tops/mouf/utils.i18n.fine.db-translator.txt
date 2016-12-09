@@ -1,0 +1,11 @@
+sql/up/
+src/
+tests/
+.gitignore
+.scrutinizer.yml
+LICENSE.txt
+README.md
+composer.json
+composer.lock
+logo.png
+phpunit.xml.dist

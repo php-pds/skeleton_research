@@ -1,0 +1,10 @@
+.idea/
+bin/
+src/
+tests/resources/
+.gitignore
+.test-flight.json
+.travis.yml
+LICENSE
+README.md
+composer.json

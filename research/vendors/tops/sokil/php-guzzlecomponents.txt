@@ -1,0 +1,5 @@
+src/Sokil/Guzzle/Plugin/
+tests/
+.gitignore
+README.md
+composer.json

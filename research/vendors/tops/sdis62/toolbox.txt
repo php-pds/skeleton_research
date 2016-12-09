@@ -1,0 +1,7 @@
+library/SDIS62/
+tests/
+.gitattributes
+.gitignore
+LICENSE
+README.md
+composer.json

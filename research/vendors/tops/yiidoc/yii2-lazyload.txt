@@ -1,0 +1,6 @@
+CHANGELOG.md
+LICENSE
+LazyAsset.php
+LazyWidget.php
+README.md
+composer.json

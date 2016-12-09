@@ -1,0 +1,7 @@
+bin/php/
+design/admin/templates/workflow/eventtype/edit/
+eventtypes/event/autonotifications/
+settings/
+translations/fre-FR/
+README.md
+composer.json

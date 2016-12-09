@@ -1,0 +1,4 @@
+CentralApps/Mail/
+.gitignore
+README.md
+composer.json

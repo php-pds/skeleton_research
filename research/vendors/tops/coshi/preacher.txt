@@ -1,0 +1,4 @@
+lib/Coshi/Preacher/
+.gitignore
+README.md
+composer.json

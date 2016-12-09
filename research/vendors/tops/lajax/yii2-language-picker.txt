@@ -1,0 +1,7 @@
+assets/
+bundles/
+widgets/
+Component.php
+LICENCE.md
+README.md
+composer.json

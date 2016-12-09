@@ -1,0 +1,15 @@
+bin/
+src/
+tests/
+web/
+.atoum.php
+.bootstrap.atoum.php
+.bowerrc
+.gitignore
+.pomm_cli_bootstrap.php
+.travis.yml
+Makefile
+README.md
+behat.yml.dist
+bower.json
+composer.json

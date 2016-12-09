@@ -1,0 +1,9 @@
+config/
+public/js/
+src/YawikXingVendorApi/
+test/
+view/
+LICENSE
+Module.php
+README.md
+composer.json

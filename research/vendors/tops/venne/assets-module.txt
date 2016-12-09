@@ -1,0 +1,5 @@
+AssetsModule/
+Module.php
+composer.json
+license.md
+readme.md

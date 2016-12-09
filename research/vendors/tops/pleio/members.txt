@@ -1,0 +1,7 @@
+languages/
+pages/members/
+views/default/
+composer.json
+composer.lock
+manifest.xml
+start.php

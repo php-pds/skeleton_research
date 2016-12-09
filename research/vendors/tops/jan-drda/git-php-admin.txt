@@ -1,0 +1,7 @@
+vendor/bower/
+.bowerrc
+.gitignore
+bower.json
+composer.json
+index.php
+readme.md

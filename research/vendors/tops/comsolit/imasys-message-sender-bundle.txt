@@ -1,0 +1,9 @@
+DataCollector/
+DependencyInjection/
+Resources/
+Tests/
+.gitignore
+ComsolitImasysMessageSenderBundle.php
+ImasysMessageSender.php
+composer.json
+phpunit.xml.dist

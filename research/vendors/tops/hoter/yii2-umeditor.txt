@@ -1,0 +1,7 @@
+assets/
+README.md
+UMEditor.php
+UMEditorAction.php
+UMEditorAsset.php
+Uploader.php
+composer.json

@@ -1,0 +1,9 @@
+data/prices/
+src/Apple/AppStore/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

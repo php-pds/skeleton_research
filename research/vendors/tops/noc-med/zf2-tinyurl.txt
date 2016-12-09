@@ -1,0 +1,8 @@
+config/
+src/
+.gitignore
+Module.php
+README.md
+composer.json
+composer.lock
+composer.phar

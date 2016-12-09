@@ -1,0 +1,7 @@
+Contact/
+Map/
+Person/
+Project/
+Service/
+Vacancy/
+composer.json

@@ -1,0 +1,10 @@
+assets/
+config/
+dca/
+languages/
+library/Rhyme/
+templates/
+.gitignore
+LICENSE
+README.md
+composer.json

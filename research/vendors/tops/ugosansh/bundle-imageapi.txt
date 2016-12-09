@@ -1,0 +1,5 @@
+src/Ugosansh/Bundle/Image/
+.gitignore
+LICENSE
+README.md
+composer.json

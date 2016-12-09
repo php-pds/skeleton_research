@@ -1,0 +1,12 @@
+classes/
+doc/
+pake/
+resources/
+.gitignore
+INSTALL
+LICENSE
+README
+composer.json
+ezpublishbuilder
+pakefile.php
+pakefile_bootstrap.php

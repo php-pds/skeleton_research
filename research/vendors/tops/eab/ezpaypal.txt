@@ -1,0 +1,13 @@
+classes/
+doc/changelogs/
+modules/paypal/
+settings/
+FAQ
+INSTALL
+LICENSE
+README.md
+composer.json
+dist.sh
+extension.xml
+ezinfo.php
+package.xml

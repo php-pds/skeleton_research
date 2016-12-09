@@ -1,0 +1,8 @@
+config/
+src/Authorize/
+view/authorize/
+.gitignore
+LICENSE
+Module.php
+README.md
+composer.json

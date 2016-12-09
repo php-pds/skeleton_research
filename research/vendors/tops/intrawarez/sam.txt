@@ -1,0 +1,13 @@
+example/
+src/intrawarez/sam/
+tests/
+.coveralls.yml
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpcs.xml
+phpunit.xml
+sam
+todo.txt

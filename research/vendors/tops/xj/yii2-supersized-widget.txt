@@ -1,0 +1,9 @@
+assets/
+.gitignore
+GPL-LICENSE.txt
+MIT-LICENSE.txt
+README.md
+Supersized.php
+SupersizedCoreAsset.php
+SupersizedSlideshowAsset.php
+composer.json

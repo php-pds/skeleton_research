@@ -1,0 +1,17 @@
+Annotation/
+DependencyInjection/
+EventListener/
+Events/
+Resources/
+Service/
+Tests/
+Util/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CHANGELOG.md
+InstasentRateLimitBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

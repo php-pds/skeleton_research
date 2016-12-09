@@ -1,0 +1,11 @@
+bin/
+samples/
+src/
+tests/
+.anchour
+.gitignore
+.travis.yml
+LICENSE
+README.md
+anchour.php
+composer.json

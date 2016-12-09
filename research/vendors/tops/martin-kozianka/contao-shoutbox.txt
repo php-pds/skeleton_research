@@ -1,0 +1,5 @@
+contao/
+src/ContaoShoutbox/Modules/
+.gitignore
+README.md
+composer.json

@@ -1,0 +1,6 @@
+spec/
+src/
+.gitignore
+.travis.yml
+composer.json
+readme.md

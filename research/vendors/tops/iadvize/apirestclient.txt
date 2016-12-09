@@ -1,0 +1,11 @@
+docs/example/
+src/Iadvize/ApiRestClient/
+tests/IadvizeTest/ApiRestClient/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CHANGELOG.md
+MAINTAINERS
+README.md
+composer.json
+phpunit.xml.dist

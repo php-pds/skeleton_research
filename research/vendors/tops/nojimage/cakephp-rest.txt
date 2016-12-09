@@ -1,0 +1,6 @@
+Model/Datasource/
+Test/Case/Model/Datasource/
+View/Elements/
+.travis.yml
+README.md
+composer.json

@@ -1,0 +1,10 @@
+.idea/
+assets/
+CHANGELOG.md
+CKEditorAsset.php
+CKEditorPresets.php
+CKEditorWidget.php
+CKEditorWidgetAsset.php
+README.md
+VERSION
+composer.json

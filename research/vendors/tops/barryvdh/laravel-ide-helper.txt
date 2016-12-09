@@ -1,0 +1,14 @@
+config/
+resources/views/
+src/
+tests/
+.editorconfig
+.gitattributes
+.gitignore
+.scrutinizer.yml
+.styleci.yml
+.travis.yml
+LICENSE.md
+composer.json
+phpunit.xml.dist
+readme.md

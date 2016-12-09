@@ -1,0 +1,11 @@
+assets/
+exemples/
+src/
+tests/QrCode/
+.gitattributes
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml

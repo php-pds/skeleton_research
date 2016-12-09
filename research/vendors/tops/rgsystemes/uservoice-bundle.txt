@@ -1,0 +1,11 @@
+DependencyInjection/
+Resources/
+Twig/Extension/
+.gitattributes
+.gitignore
+LICENSE
+README.md
+RGUserVoiceBundle.php
+UserVoiceHelper.php
+composer.json
+composer.lock

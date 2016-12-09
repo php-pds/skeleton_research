@@ -1,0 +1,7 @@
+lib/SimpleMongo/
+tests/Database/
+.gitignore
+README.md
+composer.json
+makefile
+phpunit.xml

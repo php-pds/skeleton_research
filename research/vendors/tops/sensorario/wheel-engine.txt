@@ -1,0 +1,10 @@
+bin/
+src/Sensorario/WheelEngine/
+tests/Sensorario/WheelEngine/
+.gitignore
+composer.json
+composer.lock
+coverage
+phpunit.xml
+readme.md
+runtests

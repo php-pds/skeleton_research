@@ -1,0 +1,12 @@
+assets/
+module/
+src/Netzmacht/Contao/Leaflet/
+.check-author.yml
+.gitignore
+.travis.yml
+README.md
+build.properties
+build.xml
+composer.json
+gulpfile.js
+package.json

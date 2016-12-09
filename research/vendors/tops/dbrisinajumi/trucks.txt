@@ -1,0 +1,8 @@
+controllers/
+messages/
+migrations/
+models/
+views/
+TrucksModule.php
+composer.json
+translation.php

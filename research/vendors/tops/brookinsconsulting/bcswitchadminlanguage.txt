@@ -1,0 +1,11 @@
+classes/kerneloverride/v2015.01.3/
+design/admin/templates/toolbar/full/
+doc/
+modules/switchadminlanguage/
+settings/
+COPYRIGHT.md
+LICENSE
+README.md
+composer.json
+extension.xml
+ezinfo.php

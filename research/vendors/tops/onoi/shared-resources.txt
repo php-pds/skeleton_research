@@ -1,0 +1,6 @@
+res/
+.gitignore
+LICENSE
+README.md
+Resources.php
+composer.json

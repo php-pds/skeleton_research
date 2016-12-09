@@ -1,0 +1,7 @@
+features/
+src/Coduo/PHPSpec/Matcher/
+.gitignore
+.travis.yml
+LICENCE
+README.md
+composer.json

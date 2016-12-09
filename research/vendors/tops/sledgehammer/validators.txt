@@ -1,0 +1,5 @@
+classes/
+.htaccess
+composer.json
+functions.php
+icon.png

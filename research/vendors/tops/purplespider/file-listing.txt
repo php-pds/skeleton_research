@@ -1,0 +1,8 @@
+code/
+css/
+images/
+templates/Layout/
+.editorconfig
+.scrutinizer.yml
+README.md
+composer.json

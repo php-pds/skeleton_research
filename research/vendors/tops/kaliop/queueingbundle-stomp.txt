@@ -1,0 +1,12 @@
+Adapter/Stomp/
+DependencyInjection/
+Resources/config/
+Tests/
+.gitignore
+.travis.yml
+KaliopQueueingPluginsStompBundle.php
+LICENSE
+composer.json
+news.md
+phpunit.xml.dist
+readme.md

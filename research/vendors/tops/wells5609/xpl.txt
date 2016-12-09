@@ -1,0 +1,8 @@
+ext/
+ide/
+xpl/
+.gitattributes
+.gitignore
+README.md
+composer.json
+config.json

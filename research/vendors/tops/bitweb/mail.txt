@@ -1,0 +1,5 @@
+src/BitWeb/Mail/
+.gitignore
+README.md
+composer.json
+composer.lock

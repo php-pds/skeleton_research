@@ -1,0 +1,7 @@
+Venne/Deployment/
+bin/
+data/
+hooks/
+.gitignore
+README.md
+composer.json

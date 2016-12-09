@@ -1,0 +1,8 @@
+demo/Demo/
+src/FindingAPI/
+tests/
+web/
+.gitignore
+composer.json
+composer.lock
+phpunit.xml

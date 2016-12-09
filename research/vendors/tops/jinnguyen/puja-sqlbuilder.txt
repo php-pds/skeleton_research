@@ -1,0 +1,7 @@
+demo/
+src/
+tests/unit/
+Changes
+LICENSE
+README.md
+composer.json

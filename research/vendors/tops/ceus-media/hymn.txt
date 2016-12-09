@@ -1,0 +1,8 @@
+build/
+src/
+.hymn.example
+LICENSE
+Makefile
+README.md
+composer.json
+hymn.phar

@@ -1,0 +1,5 @@
+Controller/
+Resources/
+PleioWidgetBundle.php
+README.md
+composer.json

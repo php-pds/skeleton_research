@@ -1,0 +1,7 @@
+src/
+templates/Api/
+.gitignore
+.scrutinizer.yml
+README.md
+composer.json
+phpunit.xml

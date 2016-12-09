@@ -1,0 +1,10 @@
+src/Snide/Monitoring/
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENCE
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

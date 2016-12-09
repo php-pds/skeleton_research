@@ -1,0 +1,9 @@
+Controller/
+DependencyInjection/
+Entity/
+Form/Type/
+Resources/
+Service/
+CoreMenuBundle.php
+README.md
+composer.json

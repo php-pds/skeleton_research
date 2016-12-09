@@ -1,0 +1,11 @@
+src/Router/
+tests/
+.gitignore
+.travis.yml
+LICENSE-Apache
+LICENSE-Flask
+Notes.txt
+README.md
+composer.json
+contributors.md
+sonar-project.properties

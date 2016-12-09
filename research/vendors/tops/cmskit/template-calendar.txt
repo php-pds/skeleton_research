@@ -1,0 +1,9 @@
+Cron/
+doc/
+fullcalendar/
+js/
+.gitignore
+backend.php
+composer.json
+crud.php
+readme.md

@@ -1,0 +1,11 @@
+Validate/
+docs/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.ADD_LOCALE
+TODO
+Validate.php
+composer.json
+package.xml

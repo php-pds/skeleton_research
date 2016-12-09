@@ -1,0 +1,6 @@
+doc/Horde/Stream/Wrapper/
+lib/Horde/Stream/Wrapper/
+test/Horde/Stream/Wrapper/
+.gitignore
+composer.json
+package.xml

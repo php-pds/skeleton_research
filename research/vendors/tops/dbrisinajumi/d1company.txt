@@ -1,0 +1,9 @@
+controllers/
+data/
+messages/lv/
+models/
+views/
+D1CompanyModule.php
+composer.json
+translation.php
+translation_app.php

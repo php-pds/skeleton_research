@@ -1,0 +1,12 @@
+build/
+src/Exolnet/
+.gitattributes
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+composer.json
+php-semver-checker-git.yml.dist
+phpunit.xml.dist

@@ -1,0 +1,11 @@
+Tests/
+src/anekdotes/
+.gitignore
+.styleci.yml
+.travis.yml
+LICENSE
+README.md
+codacy-conf.json
+composer.json
+phpunit.xml
+styler.php_cs

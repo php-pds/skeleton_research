@@ -1,0 +1,11 @@
+bin/
+example/
+src/Configurator/
+test/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+example.sh

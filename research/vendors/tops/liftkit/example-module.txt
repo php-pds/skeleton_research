@@ -1,0 +1,9 @@
+config/
+src/
+tests/
+views/
+.gitignore
+LICENSE
+composer.json
+composer.lock
+example-module.php

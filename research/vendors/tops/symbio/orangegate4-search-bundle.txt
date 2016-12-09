@@ -1,0 +1,7 @@
+Composer/
+DependencyInjection/
+Listener/
+Resources/
+.gitignore
+SymbioOrangeGateSearchBundle.php
+composer.json

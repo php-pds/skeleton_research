@@ -1,0 +1,7 @@
+Tests/
+.gitignore
+Passwd.php
+README.md
+composer.json
+password.php
+phpunit.xml.dist

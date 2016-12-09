@@ -1,0 +1,12 @@
+config/
+database/
+docs/
+src/
+tests/Integration/
+.gitignore
+.travis.yml
+LICENSE.danrichards
+LICENSE.rtconner
+README.md
+composer.json
+phpunit.xml

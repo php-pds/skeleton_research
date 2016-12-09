@@ -1,0 +1,10 @@
+.gitignore
+.htaccess
+README.md
+boot.php
+composer.json
+config.php
+config_custom.php
+config_custom.sample.php
+empty.sql.gz
+index.php

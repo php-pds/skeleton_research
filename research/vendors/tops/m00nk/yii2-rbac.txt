@@ -1,0 +1,5 @@
+AuthItem.php
+AuthManager.php
+LICENSE
+README.md
+composer.json

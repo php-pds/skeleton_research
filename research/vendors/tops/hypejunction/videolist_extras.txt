@@ -1,0 +1,14 @@
+classes/hypeJunction/Videolist/
+languages/
+views/default/plugins/videolist/
+.gitattributes
+.gitignore
+CHANGELOG.md
+Gruntfile.js
+README.md
+autoloader.php
+composer.json
+manifest.xml
+package.json
+release.md
+start.php

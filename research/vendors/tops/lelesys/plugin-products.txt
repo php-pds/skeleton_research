@@ -1,0 +1,5 @@
+Classes/Lelesys/Plugin/Products/
+Configuration/
+Resources/
+README.md
+composer.json

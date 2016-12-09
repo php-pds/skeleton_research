@@ -1,0 +1,5 @@
+src/PimpleAwareController/
+.gitignore
+LICENSE
+README.md
+composer.json

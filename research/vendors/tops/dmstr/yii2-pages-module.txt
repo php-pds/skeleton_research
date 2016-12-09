@@ -1,0 +1,15 @@
+assets/
+components/
+controllers/
+example-views/
+migrations/
+models/
+tests/
+views/
+.gitignore
+.gitlab-ci.yml
+Bootstrap.php
+Module.php
+README.md
+codeception.yml
+composer.json

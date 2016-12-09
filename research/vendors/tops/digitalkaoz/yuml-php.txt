@@ -1,0 +1,12 @@
+bin/
+src/YumlPhp/
+tests/
+.gitignore
+.php_cs
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+box.json
+composer.json
+phpunit.xml.dist

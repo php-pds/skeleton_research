@@ -1,0 +1,6 @@
+docs/
+.gitignore
+README.md
+composer.json
+lyrisapi.php
+vendor.yml

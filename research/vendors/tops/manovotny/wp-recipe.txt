@@ -1,0 +1,15 @@
+config/
+grunt/
+src/
+tests/
+.editorconfig
+.gitignore
+Gruntfile.js
+LICENSE
+README.md
+bower.json
+composer.json
+composer.lock
+index.php
+package.json
+wp-recipe.php

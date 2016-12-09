@@ -1,0 +1,7 @@
+scripts-fontforge/
+.gitignore
+Compiler.php
+Parser.php
+README.md
+Server.php
+composer.json

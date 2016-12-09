@@ -1,0 +1,14 @@
+Providers/
+assets/
+views/
+.editorconfig
+.gitignore
+CHANGELOG.md
+CONTRIBUTING.md
+LICENSE
+README.md
+TODO.md
+composer.json
+default.png
+preview.png
+themeinfo.php

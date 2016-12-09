@@ -1,0 +1,3 @@
+src/templates/phundament/
+README.md
+composer.json

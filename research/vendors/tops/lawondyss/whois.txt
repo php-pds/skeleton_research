@@ -1,0 +1,5 @@
+src/Whois/
+tests/
+.gitignore
+README.md
+composer.json

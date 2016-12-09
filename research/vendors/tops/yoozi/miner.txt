@@ -1,0 +1,11 @@
+lib/Yoozi/
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+composer.json
+phpunit.php
+phpunit.xml

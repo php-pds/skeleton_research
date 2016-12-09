@@ -1,0 +1,4 @@
+src/Simplon/Config/
+.gitignore
+README.md
+composer.json

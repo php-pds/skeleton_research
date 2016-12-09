@@ -1,0 +1,10 @@
+assets/
+lib/
+templates/attachment-editor/
+.gitignore
+Gruntfile.js
+README.md
+apigen.yaml
+composer.json
+package.json
+plugin.php

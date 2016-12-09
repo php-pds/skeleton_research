@@ -1,0 +1,14 @@
+bundle/
+lib/
+tests/
+.gitignore
+.php_cs
+.travis.yml
+LICENSE
+README.md
+USAGE.md
+codecov.yml
+composer.json
+phpunit-integration-legacy.xml
+phpunit.xml
+travis.php.ini

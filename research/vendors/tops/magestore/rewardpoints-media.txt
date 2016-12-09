@@ -1,0 +1,2 @@
+pub/media/rewardpoints/default/
+composer.json

@@ -1,0 +1,13 @@
+examples/
+resources/
+src/
+tests/
+.editorconfig
+.gitignore
+README.md
+build.properties
+build.xml
+composer.json
+download-latest-fonts.sh
+local.build.xml
+phpunit.xml

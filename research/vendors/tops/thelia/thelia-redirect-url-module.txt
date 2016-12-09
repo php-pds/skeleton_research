@@ -1,0 +1,12 @@
+Config/
+Controller/
+EventListeners/
+Form/
+Hook/
+I18n/
+Import/
+Model/
+templates/backOffice/default/
+Readme.md
+TheliaRedirectUrl.php
+composer.json

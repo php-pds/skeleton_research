@@ -1,0 +1,13 @@
+bin/
+build/
+src/Symfony/Upgrade/
+tests/Symfony/Upgrade/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+README.tpl
+box.json
+composer.json
+composer.lock
+phpunit.xml.dist

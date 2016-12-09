@@ -1,0 +1,15 @@
+Action/
+Config/
+Controller/
+Event/
+EventListeners/
+Form/
+Hook/
+I18n/backOffice/default/
+Loop/
+Model/
+templates/backOffice/default/
+LICENSE.txt
+Readme.md
+StockOnOrder.php
+composer.json

@@ -1,0 +1,14 @@
+app/
+features/
+src/
+var/
+web/
+.bowerrc
+.gitignore
+.travis.yml
+README.md
+behat.yml.dist
+bower.json
+composer.json
+package.json
+phpunit.xml.dist

@@ -1,0 +1,8 @@
+config/
+src/JVUpload/Service/
+.gitattributes
+.gitignore
+LICENSE
+Module.php
+README.md
+composer.json

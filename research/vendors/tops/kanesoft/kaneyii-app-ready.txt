@@ -1,0 +1,13 @@
+assets/
+css/
+images/
+kane-admin/
+protected/
+themes/classic/views/
+.gitignore
+.htaccess
+composer.json
+index-test.php
+index.php
+kanesoft_kaneyii-app-ready.sql
+setup

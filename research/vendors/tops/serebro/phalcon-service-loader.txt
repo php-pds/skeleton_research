@@ -1,0 +1,7 @@
+examples/simple/
+src/Phalcon/DI/Service/
+tests/
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

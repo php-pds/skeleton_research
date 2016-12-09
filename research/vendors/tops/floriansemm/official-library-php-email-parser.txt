@@ -1,0 +1,5 @@
+tests/
+LICENSE.txt
+PlancakeEmailParser.php
+README.txt
+composer.json

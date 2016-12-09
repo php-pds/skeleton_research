@@ -1,0 +1,8 @@
+config/
+lib/
+modules/swFunctionalTestSave/actions/
+test/
+LICENSE
+README.md
+composer.json
+package.xml.tmpl

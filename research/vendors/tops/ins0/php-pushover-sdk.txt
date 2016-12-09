@@ -1,0 +1,7 @@
+src/Pushover/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

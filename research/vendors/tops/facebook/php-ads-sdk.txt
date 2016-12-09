@@ -1,0 +1,11 @@
+bin/
+examples/
+src/FacebookAds/
+test/
+.gitignore
+.travis.yml
+DEVELOPER_GUIDE.md
+LICENSE
+README.md
+composer.json
+fb_ca_chain_bundle.crt

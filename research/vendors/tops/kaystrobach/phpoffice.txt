@@ -1,0 +1,6 @@
+Classes/KayStrobach/PhpOffice/
+Configuration/
+Documentation/
+Tests/Unit/Utility/
+README.md
+composer.json

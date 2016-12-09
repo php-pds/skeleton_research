@@ -1,0 +1,15 @@
+DependencyInjection/
+Resources/
+Twig/Extension/
+.gitattributes
+.gitignore
+.jshintrc
+.travis.yml
+Gruntfile.js
+LICENSE
+README.md
+SiciarekJsTransBundle.php
+build.xml
+composer.json
+karma.conf.js
+package.json

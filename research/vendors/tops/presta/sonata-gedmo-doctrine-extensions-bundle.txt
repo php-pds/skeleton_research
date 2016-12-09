@@ -1,0 +1,15 @@
+Admin/
+Block/
+DependencyInjection/
+Entity/
+EventListener/
+Resources/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CHANGELOG.md
+CONTRIBUTING.md
+Makefile
+PrestaSonataGedmoDoctrineExtensionsBundle.php
+README.md
+composer.json

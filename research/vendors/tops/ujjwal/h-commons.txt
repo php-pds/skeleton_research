@@ -1,0 +1,8 @@
+config/
+src/HCommons/
+view/h-commons/
+.gitignore
+LICENSE
+Module.php
+README.md
+composer.json

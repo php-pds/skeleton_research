@@ -1,0 +1,9 @@
+classes/
+resources/
+tests/units/classes/
+.atoum.yml
+.gitignore
+.travis.yml
+README.md
+composer.json
+configuration.php

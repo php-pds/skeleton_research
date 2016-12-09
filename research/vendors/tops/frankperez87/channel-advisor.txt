@@ -1,0 +1,4 @@
+src/ChannelAdvisor/
+.gitignore
+README.md
+composer.json

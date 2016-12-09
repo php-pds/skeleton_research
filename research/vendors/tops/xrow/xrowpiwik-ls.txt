@@ -1,0 +1,13 @@
+autoloads/
+classes/
+cronjobs/
+design/standard/
+doc/
+modules/xrowpiwik/
+settings/
+src/
+CHANGELOG
+LICENSE.txt
+README
+composer.json
+ezinfo.php

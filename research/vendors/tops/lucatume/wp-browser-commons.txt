@@ -1,0 +1,8 @@
+src/tad/WPBrowser/
+tests/
+.gitignore
+README.md
+changelog.md
+codeception.yml
+composer.json
+composer.lock

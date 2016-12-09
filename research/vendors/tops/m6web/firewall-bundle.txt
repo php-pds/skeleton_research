@@ -1,0 +1,14 @@
+Annotation/
+Controller/
+DependencyInjection/
+EventListener/
+Firewall/
+Resources/config/
+Tests/
+.coke
+.gitignore
+.travis.yml
+LICENSE
+M6WebFirewallBundle.php
+README.md
+composer.json

@@ -1,0 +1,6 @@
+.idea/
+standard/
+.gitignore
+CONTRIBUTING.md
+README.md
+composer.json

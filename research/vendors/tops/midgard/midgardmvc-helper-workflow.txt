@@ -1,0 +1,9 @@
+condition/
+execution/
+models/
+tests/
+.gitignore
+composer.json
+definition.php
+manifest.yml
+utils.php

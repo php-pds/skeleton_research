@@ -1,0 +1,14 @@
+Chain/
+Configuration/
+Controller/
+DependencyInjection/
+Entity/
+EntityManagerService/
+Repository/
+Resources/config/
+Security/Authorization/
+Type/
+LICENSE
+README.md
+StreamPerkWidgetPageBundle.php
+composer.json

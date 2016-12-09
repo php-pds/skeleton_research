@@ -1,0 +1,5 @@
+contao-module/languages/
+src/Hofff/Contao/Selectri/Model/Solr/
+.gitignore
+README.md
+composer.json

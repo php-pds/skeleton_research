@@ -1,0 +1,7 @@
+src/class/
+test/
+LICENSE
+README.md
+composer.json
+gruntfile.js
+package.json

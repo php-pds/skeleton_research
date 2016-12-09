@@ -1,0 +1,5 @@
+demos/
+src/PHPPNG/
+.gitignore
+README.md
+composer.json

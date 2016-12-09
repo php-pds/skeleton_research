@@ -1,0 +1,8 @@
+Tests/
+.travis.yml
+LockException.php
+PidFile.php
+ProcessManager.php
+README.md
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,8 @@
+bin/
+src/Trek/
+tests/
+.gitignore
+.travis.yml
+composer.json
+composer.lock
+readme.md

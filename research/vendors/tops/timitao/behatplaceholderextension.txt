@@ -1,0 +1,7 @@
+src/Behat/PlaceholderExtension/
+.gitignore
+LICENSE
+README.md
+behat.yml
+composer.json
+composer.lock

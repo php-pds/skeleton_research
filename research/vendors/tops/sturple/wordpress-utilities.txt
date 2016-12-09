@@ -1,0 +1,3 @@
+src/Fgms/WordPress/
+README.md
+composer.json

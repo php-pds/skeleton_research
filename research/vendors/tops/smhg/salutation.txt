@@ -1,0 +1,10 @@
+locale/
+src/Salutation/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml
+salutation.sublime-project

@@ -1,0 +1,8 @@
+src/IPub/MobileDetect/
+tests/
+.scrutinizer.yml
+.travis.composer.php
+.travis.yml
+composer.json
+license.md
+readme.md

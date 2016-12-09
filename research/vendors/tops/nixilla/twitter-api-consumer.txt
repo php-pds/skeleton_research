@@ -1,0 +1,8 @@
+lib/Twitter/
+test/Twitter/Test/
+.gitignore
+.travis.yml
+README.rst
+composer.json
+example.php
+phpunit.xml.dist

@@ -1,0 +1,4 @@
+README.md
+composer.json
+duplicate-featured-image.php
+helper.php

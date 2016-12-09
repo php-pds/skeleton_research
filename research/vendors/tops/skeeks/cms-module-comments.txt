@@ -1,0 +1,14 @@
+actions/
+assets/
+components/
+config/
+controllers/
+mail/
+migrations/
+models/
+views/admin-message/
+widgets/comments2/
+CHANGELOG.md
+Module.php
+README.md
+composer.json

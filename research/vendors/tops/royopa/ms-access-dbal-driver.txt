@@ -1,0 +1,6 @@
+src/Royopa/Doctrine/DBAL/Driver/MSAccess/Driver/
+.gitignore
+.travis.yml
+README.md
+composer.json
+phpunit.xml.dist

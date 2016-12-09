@@ -1,0 +1,8 @@
+doc/architecture-explain/
+src/Backbeard/
+tests/
+.gitignore
+.travis.yml
+README.md
+composer.json
+phpunit.xml

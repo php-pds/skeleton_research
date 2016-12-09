@@ -1,0 +1,9 @@
+.github/
+assets/js/
+CHANGE.md
+LICENSE.md
+README.md
+StickyTabsAsset.php
+TabsX.php
+TabsXAsset.php
+composer.json

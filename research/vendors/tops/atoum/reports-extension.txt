@@ -1,0 +1,13 @@
+classes/
+coverage @ 3643860
+resources/html/
+tests/
+.atoum.php
+.bootstrap.atoum.php
+.gitignore
+.gitmodules
+.travis.yml
+CHANGELOG.md
+README.md
+autoloader.php
+composer.json

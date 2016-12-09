@@ -1,0 +1,15 @@
+.ci/
+PHPUnit/Extensions/
+Tests/
+build/
+selenium-1-tests/
+.gitignore
+.travis.yml
+ChangeLog.markdown
+LICENSE
+README.md
+Vagrantfile
+build.xml
+composer.json
+phpunit-selenium-bootstrap.php
+phpunit.xml.dist

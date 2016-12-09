@@ -1,0 +1,12 @@
+Controller/
+DataFixtures/ORM/
+DependencyInjection/
+Entity/
+Form/
+Normalizer/
+Repository/
+Resources/
+.gitignore
+README.md
+TGVideoBundle.php
+composer.json

@@ -1,0 +1,10 @@
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+Report.php
+XmlHelper.php
+composer.json
+composer.lock
+phpunit.config.xml

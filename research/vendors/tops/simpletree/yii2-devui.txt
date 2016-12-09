@@ -1,0 +1,14 @@
+.idea/
+assets/
+behaviors/
+components/
+controllers/
+migrations/
+models/
+modules/
+views/
+widgets/
+DevuiAsset.php
+Module.php
+README.md
+composer.json

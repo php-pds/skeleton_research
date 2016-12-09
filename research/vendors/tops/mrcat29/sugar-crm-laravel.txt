@@ -1,0 +1,7 @@
+config/
+src/mrcat/
+.env
+.gitignore
+LICENSE
+README.md
+composer.json

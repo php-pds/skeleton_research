@@ -1,0 +1,16 @@
+Controller/
+DataFixtures/ORM/
+DependencyInjection/
+Entity/
+Event/
+EventListener/
+Form/
+Menu/
+Model/
+Resources/
+Routing/
+Tests/Controller/
+Utils/
+ArtesanusBundle.php
+ArtesanusEvents.php
+composer.json

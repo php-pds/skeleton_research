@@ -1,0 +1,9 @@
+DependencyInjection/
+Listener/
+Resources/
+Tests/Listener/
+.gitignore
+ClarolineActivityToolBundle.php
+LICENSE
+README.md
+composer.json

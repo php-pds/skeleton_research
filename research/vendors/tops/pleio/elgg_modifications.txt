@@ -1,0 +1,12 @@
+_graphics/
+actions/accept_terms/
+fixes/
+languages/
+lib/
+pages/
+views/default/
+CHANGES.txt
+README.md
+composer.json
+manifest.xml
+start.php

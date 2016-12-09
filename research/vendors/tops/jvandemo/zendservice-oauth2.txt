@@ -1,0 +1,6 @@
+demos/ZendService/Oauth2/
+library/ZendService/Oauth2/
+tests/
+.gitignore
+README.md
+composer.json

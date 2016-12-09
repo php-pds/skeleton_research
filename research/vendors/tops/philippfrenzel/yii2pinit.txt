@@ -1,0 +1,6 @@
+assets/
+LICENSE
+README.md
+composer.json
+yii2pinit.php
+yii2pinitAsset.php

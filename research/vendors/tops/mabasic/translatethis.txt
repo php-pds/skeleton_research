@@ -1,0 +1,9 @@
+src/
+.gitignore
+Character optimization for translation service.xlsx
+LICENSE.md
+README.md
+about.png
+composer.json
+seo.png
+translatethis

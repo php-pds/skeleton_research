@@ -1,0 +1,7 @@
+tests/
+.infra.json
+.test.js
+bower.json
+composer.json
+flexslider.js
+infra.js

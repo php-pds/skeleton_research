@@ -1,0 +1,7 @@
+app/
+.codeclimate.yml
+.gitignore
+.travis.yml
+README.md
+composer.json
+modman

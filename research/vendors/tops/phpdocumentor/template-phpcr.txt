@@ -1,0 +1,8 @@
+css/
+images/
+js/
+README.md
+composer.json
+content.xsl
+sidebar.xsl
+template.xml

@@ -1,0 +1,7 @@
+src/StefanoNestedTransaction/
+tests/
+.coveralls.yml
+.gitignore
+.travis.yml
+README.md
+composer.json

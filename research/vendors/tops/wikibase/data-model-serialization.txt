@@ -1,0 +1,12 @@
+src/
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+COPYING
+README.md
+RELEASE-NOTES.md
+composer.json
+mediawiki-extension.json
+mediawiki.php
+phpunit.xml.dist

@@ -1,0 +1,10 @@
+bootstrap/
+css/
+images/
+js/
+Core.php
+README.md
+composer.json
+index.php
+segoeuil.ttf
+version.md

@@ -1,0 +1,15 @@
+app/
+bin/
+docs/
+src/
+tests/
+var/
+web/
+.gitignore
+README.md
+bower.json
+composer.json
+composer.lock
+gulpfile.js
+package.json
+phpunit.xml

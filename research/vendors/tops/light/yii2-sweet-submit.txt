@@ -1,0 +1,15 @@
+dist/
+media/
+messages/zh-CN/
+src/
+.editorconfig
+.gitattributes
+.gitignore
+.php_cs
+LICENSE
+README.md
+SweetSubmitAsset.php
+composer.json
+composer.lock
+package.json
+webpack.config.js

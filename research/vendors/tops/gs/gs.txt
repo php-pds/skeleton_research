@@ -1,0 +1,11 @@
+bin/travis/
+lib/Gs/
+tests/
+.agignore
+.coveralls.yml
+.gitignore
+.travis.yml
+MIT-LICENSE
+README.md
+composer.json
+composer.lock

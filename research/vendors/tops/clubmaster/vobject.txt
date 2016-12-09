@@ -1,0 +1,9 @@
+bin/
+lib/Sabre/VObject/
+tests/
+.gitignore
+.travis.yml
+ChangeLog
+LICENSE
+README.md
+composer.json

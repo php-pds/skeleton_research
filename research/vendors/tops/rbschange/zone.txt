@@ -1,0 +1,10 @@
+config/
+forms/editor/
+i18n/
+lib/services/
+persistentdocument/
+setup/
+style/
+templates/perspectives/
+LICENSE.txt
+change.xml

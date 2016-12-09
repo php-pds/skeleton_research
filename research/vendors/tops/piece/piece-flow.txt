@@ -1,0 +1,11 @@
+.settings/
+data/
+doc/
+src/Piece/Flow/
+test/
+.buildpath
+.gitignore
+.project
+composer.json
+package.php
+package.xml

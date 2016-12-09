@@ -1,0 +1,13 @@
+assets/
+git-hooks/
+lang/
+scripts/
+src/
+.editorconfig
+.gitignore
+Bootstrap.php
+README.md
+composer.json
+composer.lock
+create-pot.sh
+package.json

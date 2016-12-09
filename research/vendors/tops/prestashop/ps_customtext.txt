@@ -1,0 +1,10 @@
+classes/
+translations/
+.gitignore
+Readme.md
+composer.json
+config.xml
+index.php
+logo.png
+ps_customtext.php
+ps_customtext.tpl

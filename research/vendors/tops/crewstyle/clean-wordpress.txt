@@ -1,0 +1,7 @@
+_inc/
+.gitignore
+LICENSE
+README.md
+clean-wordpress.php
+composer.json
+composer.lock

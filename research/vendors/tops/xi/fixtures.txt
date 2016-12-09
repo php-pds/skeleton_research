@@ -1,0 +1,7 @@
+library/Xi/Fixtures/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json

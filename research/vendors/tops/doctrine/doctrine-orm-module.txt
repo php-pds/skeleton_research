@@ -1,0 +1,17 @@
+.travis/
+build/
+config/
+docs/
+src/DoctrineORMModule/
+tests/
+view/zend-developer-tools/toolbar/
+.gitattributes
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+UPGRADE.md
+composer.json
+composer.lock
+phpunit.xml.dist

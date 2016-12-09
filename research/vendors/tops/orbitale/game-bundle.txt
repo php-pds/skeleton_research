@@ -1,0 +1,13 @@
+Controller/
+DependencyInjection/
+Entity/
+Resources/
+Tests/
+.coveralls.yml
+.gitattributes
+.gitignore
+.travis.yml
+OrbitaleGameBundle.php
+README.md
+composer.json
+phpunit.xml.dist

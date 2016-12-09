@@ -1,0 +1,9 @@
+Classes/Xclass/
+doc/
+ChangeLog
+README.txt
+class.tx_t3pscalable.php
+composer.json
+ext_emconf.php
+ext_icon.gif
+ext_localconf.php

@@ -1,0 +1,15 @@
+Tests/
+.atoum.php
+.atoum.travis.php
+.bootstrap.atoum.php
+.travis.yml
+CallbackComparator.php
+ComparableInterface.php
+Comparator.php
+ComparatorInterface.php
+Direction.php
+MultiComparator.php
+README.md
+ReverseComparator.php
+SelectorComparator.php
+composer.json

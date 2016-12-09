@@ -1,0 +1,9 @@
+assets/
+docs/
+tests/php/
+.gitignore
+LICENSE
+README.md
+class.dumper.php
+composer.json
+dumper.ini

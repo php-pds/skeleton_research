@@ -1,0 +1,10 @@
+Admin/
+Command/
+DependencyInjection/
+Entity/
+Generator/
+Resources/
+.travis.yml
+README.md
+SIPDynamicConnectionBundle.php
+composer.json

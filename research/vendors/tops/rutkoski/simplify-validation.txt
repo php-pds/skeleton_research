@@ -1,0 +1,3 @@
+lib/Simplify/
+README.md
+composer.json

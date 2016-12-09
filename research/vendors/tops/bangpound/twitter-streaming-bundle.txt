@@ -1,0 +1,13 @@
+Consumer/
+CouchDocument/
+DependencyInjection/
+Entity/
+EventListener/
+Logger/
+Resources/
+Stream/
+Subscriber/
+Tests/Controller/
+Types/
+BangpoundTwitterStreamingBundle.php
+composer.json

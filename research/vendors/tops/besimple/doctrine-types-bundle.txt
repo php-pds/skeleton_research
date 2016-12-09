@@ -1,0 +1,3 @@
+Types/
+BeSimpleDoctrineTypesBundle.php
+composer.json

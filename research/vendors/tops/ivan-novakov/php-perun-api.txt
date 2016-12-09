@@ -1,0 +1,9 @@
+bin/
+doc/
+examples/
+src/InoPerunApi/
+tests/
+.gitignore
+README.md
+TODO
+composer.json

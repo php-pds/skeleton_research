@@ -1,0 +1,6 @@
+.idea/
+SearchFilter.js
+composer.json
+license.md
+readme.md
+samson.php

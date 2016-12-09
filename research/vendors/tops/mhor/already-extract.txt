@@ -1,0 +1,10 @@
+bin/
+build/
+src/AlreadyExtract/
+test/
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

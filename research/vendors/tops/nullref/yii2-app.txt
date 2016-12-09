@@ -1,0 +1,10 @@
+runtime/
+src/
+web/
+.env.example
+.gitignore
+Makefile
+README.md
+composer.json
+yii
+yii.bat

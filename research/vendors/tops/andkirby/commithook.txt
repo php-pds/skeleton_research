@@ -1,0 +1,16 @@
+.commithook/
+.standards/
+bin/
+docs/
+src/
+._travis.yml
+.gitconfig
+.gitignore
+.phpstorm.meta.php
+.version
+LICENSE.md
+README.md
+commithook.xml
+composer.json
+composer.lock
+params.json

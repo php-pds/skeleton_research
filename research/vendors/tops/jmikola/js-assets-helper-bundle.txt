@@ -1,0 +1,8 @@
+Controller/
+DependencyInjection/
+Exception/
+Resources/
+JmikolaJsAssetsHelperBundle.php
+LICENSE
+README.md
+composer.json

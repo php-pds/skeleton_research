@@ -1,0 +1,4 @@
+src/ZeeCoder/MailChimp/
+.gitignore
+README.md
+composer.json

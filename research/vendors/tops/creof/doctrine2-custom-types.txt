@@ -1,0 +1,7 @@
+lib/CrEOF/CustomTypes/
+tests/CrEOF/CustomTypes/Tests/
+.gitignore
+README.md
+composer.json
+phpunit.xml.dist
+test2.php

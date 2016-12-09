@@ -1,0 +1,8 @@
+src/BenConstable/Lock/
+tests/
+.gitignore
+.travis.yml
+LICENSE.txt
+README.md
+composer.json
+phpspec.yml

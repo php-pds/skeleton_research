@@ -1,0 +1,7 @@
+console/controllers/
+views/
+LICENSE
+LICENSE.md
+MMigration.php
+README.md
+composer.json

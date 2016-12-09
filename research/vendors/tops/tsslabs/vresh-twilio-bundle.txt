@@ -1,0 +1,8 @@
+DependencyInjection/
+Resources/
+Twilio/
+.gitignore
+CHANGELOG.md
+README.md
+VreshTwilioBundle.php
+composer.json

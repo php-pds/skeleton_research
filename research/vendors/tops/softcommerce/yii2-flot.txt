@@ -1,0 +1,13 @@
+.gitignore
+Chart.php
+FlotAsset.php
+FlotAxisLabelsAsset.php
+FlotCrosshairAsset.php
+FlotLivelegendAsset.php
+FlotPieAsset.php
+FlotResizeAsset.php
+FlotTimeAsset.php
+FlotTooltipAsset.php
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,13 @@
+config/
+grunt/
+l10n/
+manual/
+public/asphalt/
+src/ride/library/
+view/smarty/asphalt/
+.editorconfig
+.gitignore
+CHANGELOG.md
+README.md
+composer.json
+ride.json

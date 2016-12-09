@@ -1,0 +1,10 @@
+src/LinkORB/Pushover/
+tests/
+.gitignore
+.travis.yml
+LICENSE.md
+README.md
+composer.json
+composer.lock
+config.ini.example
+phpunit.xml.dist

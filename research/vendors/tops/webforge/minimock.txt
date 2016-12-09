@@ -1,0 +1,14 @@
+docs/
+etc/apache2/
+lib/
+resources/tpl/html/
+tests/
+www/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+bootstrap.php
+composer.json
+minimock.sublime-project
+phpunit.xml.dist

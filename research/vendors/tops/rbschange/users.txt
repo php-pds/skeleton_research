@@ -1,0 +1,16 @@
+actions/
+apache/
+changedev-commands/default/
+config/
+forms/editor/
+i18n/
+lib/
+patch/
+persistentdocument/
+setup/
+style/
+templates/
+views/
+webapp/media/backoffice/
+LICENSE.txt
+change.xml

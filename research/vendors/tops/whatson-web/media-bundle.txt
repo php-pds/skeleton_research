@@ -1,0 +1,8 @@
+DependencyInjection/
+Entity/
+Form/Backend/
+Repository/
+Resources/
+Twig/
+WHMediaBundle.php
+composer.json

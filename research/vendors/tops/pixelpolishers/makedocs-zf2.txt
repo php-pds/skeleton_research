@@ -1,0 +1,5 @@
+config/
+src/MakeDocsZf2/
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,15 @@
+DependencyInjection/
+Exceptions/
+Resources/
+Tests/
+.gitignore
+.travis.yml
+Client.php
+ClientFactory.php
+LassoOauth2ClientBundle.php
+README.md
+Token.php
+TokenFactory.php
+composer.json
+composer.lock
+phpunit.xml

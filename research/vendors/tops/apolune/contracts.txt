@@ -1,0 +1,6 @@
+Account/
+Guilds/
+News/
+Server/
+.gitignore
+composer.json

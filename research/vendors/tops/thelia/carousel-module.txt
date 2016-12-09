@@ -1,0 +1,12 @@
+Config/
+Controller/
+Form/
+Hook/
+I18n/
+Loop/
+Model/
+templates/
+CHANGELOG.md
+Carousel.php
+Readme.md
+composer.json

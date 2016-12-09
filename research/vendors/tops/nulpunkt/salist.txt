@@ -1,0 +1,6 @@
+src/Nulpunkt/SAList/
+test/
+.gitignore
+README.md
+composer.json
+evn.sh

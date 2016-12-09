@@ -1,0 +1,10 @@
+src/Radebatz/ACache/
+tests/
+.coveralls.yml
+.gitignore
+.travis.yml
+.travis_php.ini
+LICENSE
+Readme.md
+composer.json
+phpunit.xml.dist

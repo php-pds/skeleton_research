@@ -1,0 +1,7 @@
+css/
+img/
+js/
+.gitattributes
+.gitignore
+composer.json
+ppdhTemplate.php

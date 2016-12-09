@@ -1,0 +1,8 @@
+Http/
+Models/
+Repositories/
+database/migrations/
+resources/views/pages/
+.gitignore
+PageServiceProvider.php
+composer.json

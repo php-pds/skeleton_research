@@ -1,0 +1,6 @@
+App/PageCache/
+etc/
+.gitignore
+README.md
+composer.json
+registration.php

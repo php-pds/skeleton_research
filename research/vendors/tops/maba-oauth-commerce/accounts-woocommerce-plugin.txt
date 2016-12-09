@@ -1,0 +1,8 @@
+src/Maba/AccountsPlugin/
+templates/
+.gitignore
+LICENCE
+README
+accounts-woocommerce-plugin.php
+composer.json
+readme.txt

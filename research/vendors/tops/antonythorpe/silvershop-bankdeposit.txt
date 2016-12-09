@@ -1,0 +1,15 @@
+_config/
+code/
+docs/en/
+lang/
+templates/order/
+tests/
+.editorconfig
+.gitattributes
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+changelog.md
+composer.json
+contributing.md

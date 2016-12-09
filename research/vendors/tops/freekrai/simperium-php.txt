@@ -1,0 +1,4 @@
+Simperium/
+test/
+README.md
+composer.json

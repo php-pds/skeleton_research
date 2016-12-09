@@ -1,0 +1,8 @@
+autoload/
+libs/Attw/
+tests/Attw/
+.gitignore
+LICENSE.md
+README.md
+composer.json
+composer.lock

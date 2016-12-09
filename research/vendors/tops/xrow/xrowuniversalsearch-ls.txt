@@ -1,0 +1,6 @@
+search/plugins/ezdual/
+settings/
+LICENSE
+README.md
+composer.json
+extension.xml

@@ -1,0 +1,7 @@
+doc/
+examples/
+src/Kemer/
+.gitignore
+README.md
+composer.json
+composer.lock

@@ -1,0 +1,10 @@
+fieldtypes/
+models/
+resources/
+templates/
+translations/
+LICENSE.txt
+README.md
+RecipePlugin.php
+composer.json
+releases.json

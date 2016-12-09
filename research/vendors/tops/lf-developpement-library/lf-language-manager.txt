@@ -1,0 +1,7 @@
+assets/
+config/
+language/
+src/LfLanguageManager/
+view/
+Module.php
+composer.json

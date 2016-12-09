@@ -1,0 +1,7 @@
+example/
+mysql/
+src/CatLab/OpenIDClient/
+.gitignore
+LICENSE
+README.md
+composer.json

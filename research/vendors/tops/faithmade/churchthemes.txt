@@ -1,0 +1,13 @@
+css/
+images/
+includes/
+js/
+languages/
+.gitignore
+Gruntfile.js
+README.md
+churchthemes.php
+composer.json
+ctfw-widgets.php
+license.txt
+package.json

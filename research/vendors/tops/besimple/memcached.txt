@@ -1,0 +1,5 @@
+lib/BeSimple/Memcached/
+test/
+.travis.yml
+composer.json
+phpunit.xml.dist

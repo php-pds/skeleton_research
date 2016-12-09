@@ -1,0 +1,6 @@
+src/Ofx/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json

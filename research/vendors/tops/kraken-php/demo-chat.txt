@@ -1,0 +1,11 @@
+app/
+data/
+public/
+test/
+.gitattributes
+.gitignore
+README.md
+composer.json
+kraken
+kraken.server
+phpunit.xml

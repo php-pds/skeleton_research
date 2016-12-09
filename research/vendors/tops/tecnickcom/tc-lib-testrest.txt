@@ -1,0 +1,13 @@
+src/Com/Tecnick/TestRest/
+test/
+.gitignore
+.travis.yml
+LICENSE
+Makefile
+README.md
+RELEASE
+VERSION
+composer.json
+phpcompatinfo.json
+phpcs_test.xml
+phpunit.xml.dist

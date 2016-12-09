@@ -1,0 +1,13 @@
+coverage/
+phing/
+sphinx/
+.gitignore
+Doxyfile
+build.xml
+composer.json
+composer.lock
+dependency.php
+get_composer.php
+get_filetags.php
+get_version.php
+stub.php

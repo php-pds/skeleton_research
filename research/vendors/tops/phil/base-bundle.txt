@@ -1,0 +1,6 @@
+Resources/
+.gitignore
+LICENSE
+PhilBaseBundle.php
+README.md
+composer.json

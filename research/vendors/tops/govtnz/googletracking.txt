@@ -1,0 +1,6 @@
+_config/
+code/
+javascript/
+scripts/
+README.md
+composer.json

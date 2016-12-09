@@ -1,0 +1,12 @@
+Doctrine/
+Event/
+Exception/
+Form/
+Model/
+Resources/
+.gitignore
+Events.php
+README.md
+TagInterface.php
+TagManagerInterface.php
+composer.json

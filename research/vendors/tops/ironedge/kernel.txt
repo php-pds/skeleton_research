@@ -1,0 +1,10 @@
+frenzy/
+src/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+autoload.php
+composer.json
+phpunit.xml.dist

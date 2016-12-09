@@ -1,0 +1,15 @@
+Command/
+Controller/
+DependencyInjection/
+Entity/
+EventListener/
+Repository/
+Resources/
+Services/
+TemplateList/
+.gitignore
+LICENSE.txt
+NewscoopInstagramPluginBundle.php
+README.md
+composer.json
+newscoop-instagram-plugin-bundle-0.0.1.zip

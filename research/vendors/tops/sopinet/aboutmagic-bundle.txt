@@ -1,0 +1,7 @@
+DependencyInjection/
+Resources/
+Twig/
+doc/
+README.md
+SopinetAboutmagicBundle.php
+composer.json

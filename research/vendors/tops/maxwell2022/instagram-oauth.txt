@@ -1,0 +1,7 @@
+Exception/
+Ressources/
+.gitignore
+InstagramOAuth.php
+LICENCE
+README.md
+composer.json

@@ -1,0 +1,6 @@
+DependencyInjection/
+Helper/
+Resources/config/
+README.md
+VKApiHelperBundle.php
+composer.json

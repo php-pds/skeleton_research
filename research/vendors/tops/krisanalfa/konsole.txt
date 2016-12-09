@@ -1,0 +1,10 @@
+bootstrap/
+config/
+src/Konsole/
+var/log/
+.gitignore
+CHANGELOG.md
+README.md
+composer.json
+composer.lock
+konsole

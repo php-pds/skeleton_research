@@ -1,0 +1,15 @@
+Adapter/
+DependencyInjection/
+Exception/
+Loader/
+Mapper/
+Resources/
+Tests/
+.gitignore
+.travis.yml
+LICENSE
+LexikFixturesMapperBundle.php
+README.md
+autoload.php.dist
+composer.json
+phpunit.xml.dist

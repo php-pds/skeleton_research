@@ -1,0 +1,9 @@
+HTML/Template/
+bin/
+examples/
+tests/
+.gitignore
+.travis.yml
+README.rst
+composer.json
+package.xml

@@ -1,0 +1,15 @@
+_config/
+code/
+css/
+html/
+images/
+inky/
+lang/
+scss/
+templates/
+.editorconfig
+.scrutinizer.yml
+LICENSE
+README.md
+_config.php
+composer.json

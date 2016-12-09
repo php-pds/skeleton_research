@@ -1,0 +1,10 @@
+Controler/
+Entity/
+Manager/
+Resources/config/
+.gitignore
+ClarolineFlashCardBundle.php
+LICENSE
+README.md
+README.md~
+composer.json

@@ -1,0 +1,6 @@
+CComponent.php
+ImageEditor.php
+ImageEditorTools.php
+README.md
+composer.json
+function.imagecreatefrombmp.php

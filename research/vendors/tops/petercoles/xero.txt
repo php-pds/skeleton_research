@@ -1,0 +1,11 @@
+cert/
+src/
+tests/Integration/
+.gitattributes
+.gitignore
+.travis.yml
+changelog.md
+composer.json
+license.txt
+phpunit.xml
+readme.md

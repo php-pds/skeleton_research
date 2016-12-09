@@ -1,0 +1,10 @@
+migrations/
+src/FileStorage/
+temp/
+tests/FileStorage/
+.gitignore
+LICENSE
+README.md
+VERSIONING.md
+composer.json
+phpunit.xml

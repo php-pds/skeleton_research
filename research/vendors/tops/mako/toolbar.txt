@@ -1,0 +1,5 @@
+resources/views/
+src/
+.editorconfig
+README.md
+composer.json

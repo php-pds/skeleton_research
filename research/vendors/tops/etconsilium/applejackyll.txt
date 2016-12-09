@@ -1,0 +1,8 @@
+_layouts/
+bin/
+src/Applejackyll/
+.gitignore
+README.md
+composer.json
+index.php
+site.yaml

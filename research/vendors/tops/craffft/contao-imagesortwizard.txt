@@ -1,0 +1,4 @@
+system/modules/imagesortwizard/
+.gitignore
+README.md
+composer.json

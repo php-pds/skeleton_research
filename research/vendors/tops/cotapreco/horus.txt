@@ -1,0 +1,11 @@
+src/CotaPreco/Horus/
+tests/CotaPreco/Horus/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+AUTHORS
+LICENSE
+Makefile
+README.md
+composer.json
+phpmd.xml.dist

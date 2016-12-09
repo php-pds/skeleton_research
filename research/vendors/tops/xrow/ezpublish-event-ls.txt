@@ -1,0 +1,15 @@
+autoloads/
+bin/php/
+classes/
+cronjobs/
+datatypes/ezpublishevent/
+design/standard/
+modules/event/
+search/plugins/ezdual/
+settings/
+translations/ger-DE/
+LICENSE
+README.md
+composer.json
+extension.xml
+ezinfo.php

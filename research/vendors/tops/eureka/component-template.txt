@@ -1,0 +1,5 @@
+src/Template/
+tests/
+LICENSE
+README.md
+composer.json

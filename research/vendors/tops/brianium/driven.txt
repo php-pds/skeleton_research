@@ -1,0 +1,12 @@
+bin/
+config/
+src/
+test/
+.gitignore
+README.md
+composer.json
+composer.lock
+driven-usage.png
+package.php
+phar-cli-stub.php
+phpunit.xml.dist

@@ -1,0 +1,5 @@
+contao/config/
+.gitignore
+LICENSE
+README.md
+composer.json

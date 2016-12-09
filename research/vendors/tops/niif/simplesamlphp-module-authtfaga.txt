@@ -1,0 +1,8 @@
+dictionaries/
+lib/Auth/Source/
+templates/
+www/
+README.md
+composer.json
+default-disable
+enable

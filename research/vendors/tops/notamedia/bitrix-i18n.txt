@@ -1,0 +1,8 @@
+docs/
+install/
+lang/
+lib/iblock/
+.gitignore
+README.md
+composer.json
+include.php

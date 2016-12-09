@@ -1,0 +1,9 @@
+blocks/redirect/
+languages/
+.gitignore
+LICENSE
+composer.json
+composer.lock
+controller.php
+icon.png
+icon.svg

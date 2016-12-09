@@ -1,0 +1,10 @@
+nbproject/
+src/
+tests/HieuLe/Favicon/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+favicon
+phpunit.xml

@@ -1,0 +1,9 @@
+demo/
+spec/KKiernan/
+src/KKiernan/
+.gitignore
+.travis.yml
+LICENSE
+composer.json
+composer.lock
+readme.md

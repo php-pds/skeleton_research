@@ -1,0 +1,13 @@
+Command/
+DependencyInjection/
+Event/
+Extractor/
+HitsPage/
+Resources/
+Source/
+Tests/
+.gitignore
+HitsBundle.php
+Item.php
+README.md
+composer.json

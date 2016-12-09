@@ -1,0 +1,8 @@
+classes/
+cli/
+ChangeLog
+composer.json
+ext_autoload.php
+ext_conf_template.txt
+ext_emconf.php
+ext_localconf.php

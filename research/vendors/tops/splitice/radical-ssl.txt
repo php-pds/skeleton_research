@@ -1,0 +1,8 @@
+.settings/
+src/Radical/Utility/SSL/
+vendor/
+.buildpath
+.gitignore
+.project
+composer.json
+composer.phar

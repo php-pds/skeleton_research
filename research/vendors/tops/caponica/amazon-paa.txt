@@ -1,0 +1,4 @@
+src/CaponicaAmazonPaa/
+.gitignore
+LICENSE
+composer.json

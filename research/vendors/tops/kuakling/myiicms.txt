@@ -1,0 +1,9 @@
+assets/
+controllers/
+media/
+models/
+modules/navigation/
+views/
+Module.php
+README.md
+composer.json

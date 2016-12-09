@@ -1,0 +1,7 @@
+Oxid/
+bin/
+.gitignore
+CONTRIBUTING.md
+README.md
+composer.json
+notes.txt

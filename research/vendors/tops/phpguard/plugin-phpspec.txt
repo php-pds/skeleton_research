@@ -1,0 +1,15 @@
+bin/
+build/
+functional/
+spec/PhpGuard/Plugins/PhpSpec/
+src/
+.gitignore
+.php_cs
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpguard.yml.dist
+phpspec.yml.dist
+phpunit.xml.dist

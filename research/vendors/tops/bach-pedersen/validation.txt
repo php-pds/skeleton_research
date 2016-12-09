@@ -1,0 +1,6 @@
+src/BachPedersen/Validation/
+tests/
+.gitignore
+.travis.yml
+composer.json
+phpunit.xml

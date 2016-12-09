@@ -1,0 +1,12 @@
+cron-src/
+email-src/email/
+file-src/
+js-src/
+src/
+.gitattributes
+.gitignore
+CONTRIBUTING.md
+LICENSE.md
+README.md
+composer.json
+composer.phar

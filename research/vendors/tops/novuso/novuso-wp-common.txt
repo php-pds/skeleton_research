@@ -1,0 +1,11 @@
+assets/
+functions/
+.editorconfig
+.gitattributes
+.gitignore
+LICENSE
+README.md
+composer.json
+index.php
+novuso-wp-common.php
+uninstall.php

@@ -1,0 +1,5 @@
+LICENSE.txt
+batcache-manager.php
+batcache-stats.php
+composer.json
+readme.md

@@ -1,0 +1,6 @@
+Classes/Sandstorm/PhpProfiler/
+Configuration/
+Resources/Private/
+.gitignore
+README.md
+composer.json

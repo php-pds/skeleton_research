@@ -1,0 +1,10 @@
+build/
+config/
+src/BnpFFMpegModule/
+tests/
+.coveralls.yml
+.gitignore
+.travis.yml
+Module.php
+README.md
+composer.json

@@ -1,0 +1,7 @@
+src/Jeboehm/SwNamespaceHelper/
+tests/
+.gitignore
+.travis.yml
+README.md
+composer.json
+phpunit.xml.dist

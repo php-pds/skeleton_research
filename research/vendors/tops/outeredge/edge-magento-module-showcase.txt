@@ -1,0 +1,6 @@
+app/
+skin/frontend/base/default/css/
+.gitignore
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,6 @@
+examples/
+sdk/
+.gitignore
+README.md
+autoload.php
+composer.json

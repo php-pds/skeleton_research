@@ -1,0 +1,5 @@
+src/Aspose/Words/
+tests/
+LICENSE
+README.md
+composer.json

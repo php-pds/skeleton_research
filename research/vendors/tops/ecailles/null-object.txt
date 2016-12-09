@@ -1,0 +1,17 @@
+src/
+tests/
+.coveralls.yml
+.editorconfig
+.gitattributes
+.gitignore
+.remarkignore
+.remarkrc
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+apigen.neon
+composer.json
+package.json
+phpcs.xml.dist
+phpunit.xml.dist

@@ -1,0 +1,7 @@
+MasterCard/Api/Disbursements/
+result/
+.gitignore
+README.md
+composer.json
+mastercard-disbursements-1.0.1.zip
+phpunit.xml

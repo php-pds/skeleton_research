@@ -1,0 +1,9 @@
+lib/CHH/Silex/
+tests/
+.gitignore
+LICENSE.txt
+README.md
+bob_config.php
+composer.json
+composer.lock
+phpunit.dist.xml

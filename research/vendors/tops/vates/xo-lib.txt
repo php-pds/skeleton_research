@@ -1,0 +1,8 @@
+src/
+.editorconfig
+.gitignore
+.npmignore
+.travis.yml
+README.md
+example.js
+package.json

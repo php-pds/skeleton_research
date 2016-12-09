@@ -1,0 +1,9 @@
+spec/Nekland/Tools/
+.gitignore
+.travis.yml
+CONTRIBUTING.md
+EqualableInterface.php
+LICENCE
+README.md
+StringTools.php
+composer.json

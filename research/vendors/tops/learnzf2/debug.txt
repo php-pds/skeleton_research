@@ -1,0 +1,11 @@
+config/
+src/Debug/Service/
+tests/
+view/debug/layout/
+LICENSE.txt
+Module.php
+README.md
+autoload_classmap.php
+autoload_function.php
+autoload_register.php
+composer.json

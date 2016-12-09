@@ -1,0 +1,14 @@
+app/
+src/Syonix/LogViewer/Exceptions/
+tests/SyonixLogViewer/
+views/
+web/
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+bootstrap.php
+composer.json
+composer.lock
+phpunit.xml.dist

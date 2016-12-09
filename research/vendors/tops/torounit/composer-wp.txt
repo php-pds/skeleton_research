@@ -1,0 +1,11 @@
+bin/
+wp-content/mu-plugins/
+.gitignore
+Movefile.sample
+composer.json
+config-sample.php
+index.php
+local-config-sample.json
+readme.md
+wp-cli.yml
+wp-config.php

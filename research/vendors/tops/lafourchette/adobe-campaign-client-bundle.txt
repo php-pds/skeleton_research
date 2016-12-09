@@ -1,0 +1,15 @@
+Client/
+DependencyInjection/
+Exception/
+Resources/config/
+Tests/
+Util/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+AdobeCampaignClientBundle.php
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

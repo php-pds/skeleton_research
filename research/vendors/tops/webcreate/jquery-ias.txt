@@ -1,0 +1,14 @@
+doc/
+src/
+test/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CHANGELOG.md
+Gruntfile.js
+README.md
+UPGRADE.md
+bower.json
+composer.json
+ias.jquery.json
+package.json

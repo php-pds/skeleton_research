@@ -1,0 +1,5 @@
+config/install/
+.gitignore
+LICENSE.txt
+composer.json
+hellasimple_editor.info.yml

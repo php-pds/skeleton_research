@@ -1,0 +1,12 @@
+Exceptions/
+Sql/
+Tests/
+XmlDoctypes/
+.travis.yml
+Document.php
+DocumentHistory.php
+XmlDb.php
+XmlDbHistory.php
+XmlGetter.php
+XmlNs.php
+composer.json

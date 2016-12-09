@@ -1,0 +1,3 @@
+src/laravel3/
+README.md
+composer.json

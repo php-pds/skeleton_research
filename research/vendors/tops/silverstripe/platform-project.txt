@@ -1,0 +1,14 @@
+mysite/
+themes/
+.editorconfig
+.gitattributes
+.gitignore
+.htaccess
+.platform.yml
+CONTRIBUTING.md
+README.md
+behat.yml
+composer.json
+composer.lock
+favicon.ico
+phpunit.xml.dist

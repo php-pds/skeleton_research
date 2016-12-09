@@ -1,0 +1,8 @@
+src/
+tests/
+.gitattributes
+.gitignore
+LICENSE
+README.markdown
+composer.json
+simpleTest.php

@@ -1,0 +1,8 @@
+bin/
+examples/
+src/InoHibp/
+ssl/
+tests/
+.gitignore
+README.md
+composer.json

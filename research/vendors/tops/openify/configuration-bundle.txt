@@ -1,0 +1,11 @@
+DependencyInjection/
+Entity/
+Exception/
+Resources/config/
+Subscriber/
+Tests/Controller/
+Twig/
+.gitignore
+OpenifyConfigurationBundle.php
+README.md
+composer.json

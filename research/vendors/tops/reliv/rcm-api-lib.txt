@@ -1,0 +1,10 @@
+config/
+public/rcm-api-lib/
+src/
+test/
+.gitignore
+.travis.yml
+LICENSE.txt
+Module.php
+README.md
+composer.json

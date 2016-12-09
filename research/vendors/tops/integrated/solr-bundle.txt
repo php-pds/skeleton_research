@@ -1,0 +1,12 @@
+Command/
+DataCollector/
+DependencyInjection/
+Resources/
+Solr/Type/
+Tests/
+.gitignore
+IntegratedSolrBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

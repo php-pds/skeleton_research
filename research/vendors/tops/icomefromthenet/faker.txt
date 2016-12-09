@@ -1,0 +1,13 @@
+bin/
+build/
+data/
+docs/
+examples/
+lib/
+skelton/
+src/Faker/
+.gitignore
+LICENSE
+composer.json
+phpunit.xml
+readme.md

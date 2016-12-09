@@ -1,0 +1,7 @@
+src/
+.gitignore
+CacheAdmin.php
+README.md
+composer.json
+logo.png
+package.xml

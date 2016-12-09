@@ -1,0 +1,12 @@
+docs/img/
+src/
+tests/
+.gitattributes
+.gitignore
+.scrutinizer.yml
+.styleci.yml
+.travis.yml
+LICENSE.MD
+README.MD
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,11 @@
+assets/
+lang/
+lib/
+.gitignore
+LICENSE
+composer.json
+db.php
+package.json
+readme.md
+readme.txt
+wp-safe-updates.php

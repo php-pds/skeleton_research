@@ -1,0 +1,7 @@
+Classes/TypoScriptObjects/
+Configuration/
+Resources/
+.gitignore
+composer.json
+gulpfile.js
+package.json

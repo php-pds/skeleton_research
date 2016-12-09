@@ -1,0 +1,6 @@
+lib/model/
+.gitignore
+README.md
+composer.json
+ini.php
+setup.php

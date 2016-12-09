@@ -1,0 +1,7 @@
+tests/
+.gitignore
+.travis.yml
+composer.json
+composer.lock
+modifier.linkify.php
+phpunit.xml

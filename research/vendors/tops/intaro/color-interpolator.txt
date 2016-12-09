@@ -1,0 +1,5 @@
+Color.php
+ColorInterpolator.php
+LICENSE
+README.md
+composer.json

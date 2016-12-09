@@ -1,0 +1,12 @@
+changelogs/
+lib/
+tests/CultureFeed/Cdb/
+.coveralls.yml
+.gitignore
+.travis.yml
+README.md
+build.xml
+composer.json
+composer.lock
+phpcs-ruleset.xml
+phpunit.xml.dist

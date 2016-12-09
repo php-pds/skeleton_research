@@ -1,0 +1,6 @@
+.gitignore
+.hhconfig
+LICENSE
+PATENTS
+README.md
+composer.json

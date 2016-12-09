@@ -1,0 +1,4 @@
+src/JiriNapravnik/
+README.md
+composer.json
+license.md

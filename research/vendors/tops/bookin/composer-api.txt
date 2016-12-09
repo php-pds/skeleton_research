@@ -1,0 +1,7 @@
+BootstrapOutputFormatter.php
+Composer.php
+ComposerOutput.php
+CompositeRepository.php
+README.md
+WebApplication.php
+composer.json

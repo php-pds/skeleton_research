@@ -1,0 +1,8 @@
+src/Gitver/
+tests/GitVer/Tests/Cases/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml

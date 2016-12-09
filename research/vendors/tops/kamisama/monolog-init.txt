@@ -1,0 +1,4 @@
+src/MonologInit/
+LICENSE
+README.md
+composer.json

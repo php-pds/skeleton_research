@@ -1,0 +1,7 @@
+Model/Behavior/
+Test/
+.gitignore
+.travis.yml
+README.md
+before_script.sh
+composer.json

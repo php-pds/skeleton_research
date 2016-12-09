@@ -1,0 +1,12 @@
+bin/
+doc/
+src/
+tests/
+.gitignore
+CHANGELOG.md
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml
+wpcli.php

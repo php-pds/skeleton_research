@@ -1,0 +1,8 @@
+defaults/
+handlers/
+tasks/
+templates/
+.gitignore
+LICENSE
+README.md
+composer.json

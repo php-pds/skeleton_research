@@ -1,0 +1,11 @@
+config/
+provisioning/
+.editorconfig
+.gitattributes
+.gitignore
+.gitmodules
+README.md
+Vagrantfile
+_ss_environment.php
+composer.json
+start.sh

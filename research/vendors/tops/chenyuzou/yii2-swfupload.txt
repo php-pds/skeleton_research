@@ -1,0 +1,8 @@
+actions/
+assets/
+bundles/
+views/
+LICENSE.md
+README.md
+Widget.php
+composer.json

@@ -1,0 +1,7 @@
+src/Jsonio/
+tests/Jsonio/
+.gitignore
+.travis.yml
+README.md
+composer.json
+phpunit.xml

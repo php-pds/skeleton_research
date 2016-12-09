@@ -1,0 +1,15 @@
+assets/
+clients/
+commands/
+controllers/
+migrations/
+models/
+tests/
+views/social/
+web/images/
+.gitignore
+Module.php
+README.md
+codeception.yml
+composer.json
+module-config.json

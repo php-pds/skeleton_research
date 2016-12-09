@@ -1,0 +1,10 @@
+build/
+src/gburtini/Distributions/
+tests/
+tools/
+ugly/
+.gitignore
+.travis.yml
+README.md
+composer.json
+phpunit.xml

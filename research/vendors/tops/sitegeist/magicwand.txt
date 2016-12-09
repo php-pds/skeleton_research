@@ -1,0 +1,5 @@
+Classes/Sitegeist/MagicWand/Command/
+Configuration/
+LICENSE
+README.md
+composer.json

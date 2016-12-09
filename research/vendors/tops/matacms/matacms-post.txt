@@ -1,0 +1,13 @@
+assets/
+clients/
+controllers/
+migrations/
+models/
+tests/
+views/post/
+web/
+Module.php
+README.md
+codeception.yml
+composer.json
+module-config.json

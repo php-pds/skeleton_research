@@ -1,0 +1,14 @@
+src/EasyBib/Core/
+tests/
+travis/
+.gitignore
+.travis.yml
+LICENSE.txt
+README.md
+Vagrantfile
+composer.json
+composer.lock
+composer.phar
+generate-package.php
+package.xml
+phpunit.xml

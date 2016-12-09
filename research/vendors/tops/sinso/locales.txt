@@ -1,0 +1,5 @@
+Resources/Private/Language/
+README.md
+composer.json
+ext_emconf.php
+ext_icon.png

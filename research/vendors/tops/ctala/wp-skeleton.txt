@@ -1,0 +1,14 @@
+assets/
+classes/
+css/
+helpers/
+includes/
+js/
+skel/templates/
+src/
+views/
+.gitignore
+LICENSE
+README.md
+composer.json
+readme.txt

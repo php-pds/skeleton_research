@@ -1,0 +1,15 @@
+bin/
+src/
+test/HTML5/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CREDITS
+LICENSE.txt
+README.md
+RELEASE.md
+UPGRADING.md
+composer.json
+example.php
+phpunit.xml.dist
+sami.php

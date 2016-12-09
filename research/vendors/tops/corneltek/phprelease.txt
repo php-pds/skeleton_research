@@ -1,0 +1,11 @@
+bin/
+scripts/
+src/PHPRelease/
+tests/
+.travis.yml
+README.md
+composer.json
+package.ini
+phprelease
+phprelease.ini
+phpunit.xml

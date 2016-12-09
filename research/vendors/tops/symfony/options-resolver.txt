@@ -1,0 +1,10 @@
+Exception/
+Tests/
+.gitignore
+CHANGELOG.md
+LICENSE
+Options.php
+OptionsResolver.php
+README.md
+composer.json
+phpunit.xml.dist

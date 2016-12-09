@@ -1,0 +1,6 @@
+src/Database/Plaintext/
+.gitignore
+README.md
+composer.json
+database.txt
+example.php

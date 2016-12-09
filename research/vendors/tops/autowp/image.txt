@@ -1,0 +1,15 @@
+.settings/
+src/
+test/
+.codeclimate.yml
+.coveralls.yml
+.gitignore
+.project
+.travis.yml
+LICENSE.md
+README.md
+composer.json
+config.dist.ini
+dist.sql
+phpcs.xml
+phpunit.xml

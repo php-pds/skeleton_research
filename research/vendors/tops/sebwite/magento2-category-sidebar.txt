@@ -1,0 +1,9 @@
+Block/
+Model/Config/Source/
+etc/
+view/frontend/
+README.md
+composer.json
+header.jpg
+registration.php
+test

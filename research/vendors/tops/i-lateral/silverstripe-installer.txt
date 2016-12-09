@@ -1,0 +1,17 @@
+app/
+assets/
+.editorconfig
+.gitattributes
+.gitignore
+.htaccess
+CONTRIBUTING.md
+README.md
+behat.yml
+build.xml
+composer.json
+favicon.ico
+install-frameworkmissing.html
+phpunit.teamcity.mssql.xml
+phpunit.xml.dist
+robots.txt
+web.config

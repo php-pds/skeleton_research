@@ -1,0 +1,6 @@
+src/Liip/Drupal/Testing/
+.gitignore
+README.md
+bootstrap.php
+composer.json
+phpunit.xml.dist

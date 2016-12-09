@@ -1,0 +1,3 @@
+src/Rixxi/
+composer.json
+license.md

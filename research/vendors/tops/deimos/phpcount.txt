@@ -1,0 +1,8 @@
+.idea/
+classes/Deimos/
+.gitignore
+README.md
+composer.json
+composer.lock
+dump.sql
+index.php

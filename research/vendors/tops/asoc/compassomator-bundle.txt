@@ -1,0 +1,12 @@
+CacheClearer/
+CacheWarmer/
+Command/
+Compassomator/
+DependencyInjection/
+Resources/config/
+Ruby/lib/compassomator/
+.gitignore
+AsocCompassomatorBundle.php
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,15 @@
+Context/
+Exception/
+Tests/
+VersionStrategy/
+.gitignore
+CHANGELOG.md
+LICENSE
+Package.php
+PackageInterface.php
+Packages.php
+PathPackage.php
+README.md
+UrlPackage.php
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,6 @@
+.gitignore
+.travic.yml
+LICENSE
+PHPCache.class.php
+README.md
+composer.json

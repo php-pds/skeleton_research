@@ -1,0 +1,8 @@
+imgs/
+vendor/
+.gitignore
+README.md
+composer.json
+demo.php
+imagefilter.go
+imagefilter.php

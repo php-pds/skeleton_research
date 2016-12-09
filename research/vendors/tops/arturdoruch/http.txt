@@ -1,0 +1,16 @@
+Cookie/
+Curl/
+Event/
+EventListener/
+Exception/
+Message/
+Post/
+Response/
+Util/
+AbstractClient.php
+Client.php
+README.md
+Redirect.php
+Request.php
+RequestHandler.php
+composer.json

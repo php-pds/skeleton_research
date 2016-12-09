@@ -1,0 +1,8 @@
+src/Jedrzej/Sortable/
+tests/
+.gitignore
+.scrutinizer.yml
+LICENSE
+README.md
+codeception.yml
+composer.json

@@ -1,0 +1,4 @@
+.gitignore
+Handsontable.php
+README.md
+composer.json

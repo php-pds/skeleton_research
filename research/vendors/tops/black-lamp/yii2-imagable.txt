@@ -1,0 +1,13 @@
+behaviors/
+helpers/
+instances/
+interfaces/
+name/
+tests/
+BaseImagable.php
+Imagable.php
+LICENSE
+README.md
+codeception.yml
+composer.json
+composer.lock

@@ -1,0 +1,12 @@
+DependencyInjection/
+Resources/config/
+Subscriber/
+Tests/DependencyInjection/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CleentfaarDoctrineTablePrefixBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

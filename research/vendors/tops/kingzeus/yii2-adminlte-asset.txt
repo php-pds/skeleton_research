@@ -1,0 +1,8 @@
+example-views/yiisoft/yii2-app/
+helpers/
+pages/
+web/
+widgets/
+CHANGELOG.md
+README.md
+composer.json

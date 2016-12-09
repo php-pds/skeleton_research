@@ -1,0 +1,7 @@
+dist/
+examples/hello world/
+src/sampa/
+LICENSE.md
+README.md
+USAGE.md
+composer.json

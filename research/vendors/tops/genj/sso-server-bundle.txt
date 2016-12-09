@@ -1,0 +1,4 @@
+src/Genj/SsoServerBundle/
+.gitignore
+README.md
+composer.json

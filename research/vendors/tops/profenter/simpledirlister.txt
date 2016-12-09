@@ -1,0 +1,8 @@
+include/
+tests/
+.gitignore
+.gitmodules
+README.md
+composer.json
+doxygen.config
+index.php

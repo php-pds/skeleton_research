@@ -1,0 +1,10 @@
+src/
+.gitignore
+composer.json
+migrate-init-config.php
+migrate-init.php
+migrate-to-latest.php
+migrate-to-version.php
+migration-create.php
+migration-doctrine-cli.php
+migrations.yml

@@ -1,0 +1,8 @@
+.gitignore
+Dockerfile
+LICENSE
+README.md
+composer.json
+docker-compose.yml
+ecs-deploy
+local.env.dist

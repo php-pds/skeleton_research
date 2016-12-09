@@ -1,0 +1,5 @@
+examples/
+src/Pmc/MongoStorage/
+tests/
+README.md
+composer.json

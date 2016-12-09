@@ -1,0 +1,17 @@
+Chain/
+Configuration/
+Controller/
+DependencyInjection/
+Entity/
+EntityManagerService/
+Form/
+Lists/
+Repository/
+Resources/config/
+Security/
+Show/
+Type/
+LICENSE
+README.md
+StreamPerkGiveawayBundle.php
+composer.json

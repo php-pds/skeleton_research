@@ -1,0 +1,7 @@
+assets/css/
+CHANGE.md
+LICENSE.md
+NavX.php
+NavXAsset.php
+README.md
+composer.json

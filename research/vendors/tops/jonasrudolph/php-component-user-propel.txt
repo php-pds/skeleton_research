@@ -1,0 +1,8 @@
+src/JonasRudolph/PHPComponents/UserPropel/
+tests/
+.gitignore
+README.md
+composer.json
+composer.lock
+propel.yaml
+user.schema.xml

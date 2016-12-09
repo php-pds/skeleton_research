@@ -1,0 +1,6 @@
+Resources/public/js/
+nbproject/
+.gitignore
+InnovaAngularUISortableBundle.php
+README.md
+composer.json

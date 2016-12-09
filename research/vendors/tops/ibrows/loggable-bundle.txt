@@ -1,0 +1,16 @@
+Admin/
+Command/
+DependencyInjection/
+Entity/
+Form/
+Listener/
+Model/
+Repository/
+Resources/
+Tests/Loggable/
+Util/
+.gitignore
+IbrowsLoggableBundle.php
+LICENSE
+README.md
+composer.json

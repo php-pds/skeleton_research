@@ -1,0 +1,15 @@
+assets/
+cdn/
+component/
+tests/unit/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+AssetBundle.php
+Ion.php
+Ionicon.php
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

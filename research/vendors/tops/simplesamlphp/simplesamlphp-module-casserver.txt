@@ -1,0 +1,14 @@
+config-templates/
+dictionaries/
+docs/
+lib/Cas/
+templates/
+tests/
+www/
+.gitignore
+LICENSE.txt
+README.md
+composer.json
+composer.lock
+default-enable
+phpunit.xml

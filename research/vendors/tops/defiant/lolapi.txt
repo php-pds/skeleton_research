@@ -1,0 +1,9 @@
+src/Lolapi/
+tests/
+.gitignore
+README.md
+README_TR.md
+composer.json
+composer.lock
+phpunit.php
+phpunit.xml

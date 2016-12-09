@@ -1,0 +1,9 @@
+config/
+docs/database/
+src/Quark/
+tests/
+.gitignore
+.travis.yml
+composer.json
+composer.lock
+phpunit.xml

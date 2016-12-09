@@ -1,0 +1,15 @@
+Annotation/
+DependencyInjection/
+Exception/
+Interception/
+Metadata/
+Resolver/
+Resources/config/
+Tests/
+Util/
+.gitignore
+AxsyTransactionalBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.desc

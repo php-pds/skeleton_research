@@ -1,0 +1,8 @@
+DependencyInjection/
+Entity/
+Manager/
+Reader/
+Resources/config/
+PimDeltaExportBundle.php
+README.md
+composer.json

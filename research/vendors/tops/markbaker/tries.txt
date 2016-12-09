@@ -1,0 +1,8 @@
+classes/
+data/
+examples/
+.gitignore
+README.md
+buildPhar.php
+composer.json
+license.md

@@ -1,0 +1,14 @@
+bin/
+docs/
+src/
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+VERSION
+composer.json
+composer.lock
+conveyor.yml.dist
+phpunit.xml.dist

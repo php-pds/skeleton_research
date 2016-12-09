@@ -1,0 +1,13 @@
+bin/
+build/
+src/
+tests/Unit/
+.gitignore
+CHANGELOG.md
+CONTRIBUTING.md
+LICENSE
+README.md
+Vagrantfile
+box.json
+composer.json
+composer.lock

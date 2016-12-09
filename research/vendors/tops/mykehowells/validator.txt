@@ -1,0 +1,10 @@
+Exceptions/
+tests/
+.gitignore
+.pullapprove.yml
+.travis.yml
+Validator.php
+composer.json
+contributing.md
+phpunit.xml
+readme.md

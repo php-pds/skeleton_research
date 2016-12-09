@@ -1,0 +1,8 @@
+examples/
+src/Cif/Parser/
+tests/
+.gitignore
+README.md
+composer.json
+composer.phar
+init_autoload.php

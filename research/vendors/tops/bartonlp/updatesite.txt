@@ -1,0 +1,12 @@
+docs/
+examples/
+LICENSE
+README.html
+README.md
+UpdateSite.class.php
+composer.json
+mk-html.php
+mysitemap.json
+updatesite-preview.i.php
+updatesite-preview.new.i.php
+updatesite-simple-preview.i.php

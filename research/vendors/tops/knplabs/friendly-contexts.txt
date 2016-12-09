@@ -1,0 +1,11 @@
+doc/
+spec/Knp/FriendlyContexts/
+src/Knp/FriendlyContexts/
+.gitignore
+.travis.yml
+CONTRIBUTING.md
+LICENSE
+README.md
+behat.yml.dist
+composer.json
+phpspec.yml

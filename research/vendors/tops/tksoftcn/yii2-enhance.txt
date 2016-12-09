@@ -1,0 +1,9 @@
+assets/
+base/
+db/
+layouts/
+views/
+web/
+LICENSE
+README.md
+composer.json

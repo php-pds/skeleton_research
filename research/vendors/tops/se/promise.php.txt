@@ -1,0 +1,5 @@
+src/se/Promise/
+tests/
+.gitignore
+composer.json
+phpunit.xml

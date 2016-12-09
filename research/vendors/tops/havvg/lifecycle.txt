@@ -1,0 +1,12 @@
+Artifact/
+Condition/
+Consequence/
+Event/
+Tests/
+.gitignore
+.travis.yml
+LICENSE
+Lifecycle.php
+LifecycleEvents.php
+composer.json
+phpunit.xml.dist

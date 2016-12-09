@@ -1,0 +1,6 @@
+Event/
+Migration/
+Model/
+Store/
+Module.php
+composer.json

@@ -1,0 +1,5 @@
+Exception/
+LICENSE
+Slugifier.php
+composer.json
+readme.md

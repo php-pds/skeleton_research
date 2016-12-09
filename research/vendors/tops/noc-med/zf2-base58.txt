@@ -1,0 +1,5 @@
+config/
+src/ZfBase58/
+.gitignore
+README.md
+composer.json

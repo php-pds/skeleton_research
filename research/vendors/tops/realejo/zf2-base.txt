@@ -1,0 +1,8 @@
+src/Realejo/
+tests/
+.gitattributes
+.gitignore
+LICENSE
+README.md
+composer.json
+version

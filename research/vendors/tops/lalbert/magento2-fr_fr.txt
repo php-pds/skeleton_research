@@ -1,0 +1,15 @@
+tests/phpunit/
+.gitignore
+.travis.yml
+CONTRIBUTING.md
+LICENSE
+README.md
+STATS.md
+TODO.md
+composer.json
+fr_fr.csv
+fr_fr.missing.csv
+fr_fr.script.csv
+language.xml
+phpunit.xml.dist
+registration.php

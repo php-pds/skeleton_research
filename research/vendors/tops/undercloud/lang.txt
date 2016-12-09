@@ -1,0 +1,8 @@
+Parser/
+.editorconfig
+Lang.php
+LangIterator.php
+README.md
+Storage.php
+TranslateNotFound.php
+composer.json

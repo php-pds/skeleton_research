@@ -1,0 +1,5 @@
+src/sngrl/StringBladeCompiler/
+.gitignore
+LICENSE
+README.md
+composer.json

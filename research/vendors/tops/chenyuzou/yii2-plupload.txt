@@ -1,0 +1,8 @@
+assets/
+views/
+Asset.php
+LICENSE.md
+README.md
+Upload.php
+Widget.php
+composer.json

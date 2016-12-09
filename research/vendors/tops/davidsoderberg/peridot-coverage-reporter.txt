@@ -1,0 +1,7 @@
+app/
+specs/
+src/
+.gitignore
+composer.json
+composer.lock
+peridot.php

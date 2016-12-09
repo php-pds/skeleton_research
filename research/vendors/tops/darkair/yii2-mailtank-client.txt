@@ -1,0 +1,10 @@
+models/
+tests/
+.gitignore
+.gitmodules
+LICENSE
+MailtankClient.php
+MailtankException.php
+README.md
+composer.json
+phpunit.xml

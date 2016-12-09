@@ -1,0 +1,9 @@
+testing/
+.gitignore
+AwsEmailer.php
+BaseEmailer.php
+EmailerInterface.php
+SesRegion.php
+SmtpEmailer.php
+composer.json
+composer.lock

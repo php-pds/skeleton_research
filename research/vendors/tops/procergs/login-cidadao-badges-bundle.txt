@@ -1,0 +1,8 @@
+DependencyInjection/
+Event/
+Model/
+Resources/
+.gitignore
+LoginCidadaoBadgesBundle.php
+README.md
+composer.json

@@ -1,0 +1,7 @@
+doc/reference/
+src/
+.gitignore
+LICENSE
+Readme.md
+composer.json
+ezp5installer.php

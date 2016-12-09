@@ -1,0 +1,15 @@
+ActionApplier/
+DependencyInjection/
+Model/
+Resources/
+spec/PimEnterprise/Bundle/ClassificationRuleBundle/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CHANGELOG.md
+CONTRIBUTING.md
+LICENCE.txt
+PimEnterpriseClassificationRuleBundle.php
+README.md
+composer.json
+travis.php.ini

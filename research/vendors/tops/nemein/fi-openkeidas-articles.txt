@@ -1,0 +1,11 @@
+configuration/
+controllers/
+locale/
+models/
+static/js/
+templates/
+.gitignore
+README.markdown
+composer.json
+injector.php
+manifest.yml

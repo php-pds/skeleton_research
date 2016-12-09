@@ -1,0 +1,11 @@
+docs/
+lib/ZF/1.10.7/Zend/
+resources/
+src/
+test/
+website/
+.gitignore
+LICENSE
+README
+buildDocs.sh
+composer.json

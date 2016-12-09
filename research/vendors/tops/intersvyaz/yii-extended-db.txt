@@ -1,0 +1,9 @@
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+DbCommand.php
+DbConnection.php
+composer.json
+phpunit.xml
+readme.md

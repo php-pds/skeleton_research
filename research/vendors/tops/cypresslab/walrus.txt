@@ -1,0 +1,13 @@
+bin/
+build/
+graphics/
+src/Walrus/
+tests/
+themes/cypress/
+.gitignore
+.travis.yml
+README.md
+build.xml
+composer.json
+composer.lock
+phpunit.xml.dist

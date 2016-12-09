@@ -1,0 +1,8 @@
+src/
+templates/
+web/
+.gitignore
+README.md
+composer.json
+composer.lock
+shops.dist.json

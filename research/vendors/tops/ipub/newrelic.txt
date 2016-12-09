@@ -1,0 +1,4 @@
+src/IPub/NewRelic/
+composer.json
+license.md
+readme.md

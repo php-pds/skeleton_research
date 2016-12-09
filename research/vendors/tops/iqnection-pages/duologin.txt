@@ -1,0 +1,8 @@
+_config/
+code/
+templates/
+vendor/
+CHANGELOG.md
+LICENSE.md
+README.md
+composer.json

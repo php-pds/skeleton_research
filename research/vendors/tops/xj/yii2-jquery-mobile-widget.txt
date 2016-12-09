@@ -1,0 +1,10 @@
+assets/
+IconPngAsset.php
+IconPngExtAsset.php
+IconSvgAsset.php
+README.md
+ScriptAsset.php
+StructureAsset.php
+ThemeAsset.php
+ThemeFullAsset.php
+composer.json

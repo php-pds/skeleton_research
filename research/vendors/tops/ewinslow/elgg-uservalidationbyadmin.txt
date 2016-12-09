@@ -1,0 +1,8 @@
+actions/uservalidationbyadmin/
+languages/
+lib/
+views/default/
+.gitignore
+composer.json
+manifest.xml
+start.php

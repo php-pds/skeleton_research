@@ -1,0 +1,7 @@
+locale/
+LICENSE
+README.MD
+bootstrap.php
+composer.json
+icon.svg
+vn.svg

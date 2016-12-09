@@ -1,0 +1,6 @@
+contao/
+src/Teamsisu/MetaModelsFrontendInput/
+.gitignore
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,6 @@
+Test/
+app/
+.gitignore
+README.md
+composer.json
+symfony-console

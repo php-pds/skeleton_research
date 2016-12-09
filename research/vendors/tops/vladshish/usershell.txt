@@ -1,0 +1,6 @@
+Console/Command/
+Lib/
+.gitignore
+.semver
+README.md
+composer.json

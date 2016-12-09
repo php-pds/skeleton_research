@@ -1,0 +1,7 @@
+.phpspec/
+etc/phpcs/
+src/Kreta/SharedKernel/
+tests/
+.gitignore
+composer.json
+phpspec.yml

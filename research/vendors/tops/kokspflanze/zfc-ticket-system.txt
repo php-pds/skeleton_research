@@ -1,0 +1,10 @@
+config/
+src/ZfcTicketSystem/
+tests/
+view/zfc-ticket-system/
+.gitignore
+.travis.yml
+LICENSE
+Module.php
+README.md
+composer.json

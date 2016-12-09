@@ -1,0 +1,9 @@
+config/
+docs/
+privateTemplates/
+samples/templateSample/
+src/Staempfli/UniversalGenerator/
+.gitignore
+README.md
+composer.json
+composer.lock

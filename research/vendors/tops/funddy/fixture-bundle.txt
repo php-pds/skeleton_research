@@ -1,0 +1,10 @@
+ConsoleFixtureLoader/
+DependencyInjection/
+Resources/config/
+Tests/ConsoleFixtureLoader/
+.gitignore
+.travis.yml
+FunddyFixtureBundle.php
+README.md
+composer.json
+phpunit.xml.dist

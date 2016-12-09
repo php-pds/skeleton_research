@@ -1,0 +1,7 @@
+classes/
+config/
+guide/image/
+media/guide/image/
+tests/
+README.markdown
+composer.json

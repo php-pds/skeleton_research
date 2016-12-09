@@ -1,0 +1,7 @@
+.github/
+examples/
+.gitattributes
+.gitignore
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,11 @@
+.gitignore
+README.md
+bower.json
+component.json
+composer.json
+jquery-migrate.js
+jquery-migrate.min.js
+jquery.js
+jquery.min.js
+jquery.min.map
+package.json

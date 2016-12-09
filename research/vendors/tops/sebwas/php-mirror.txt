@@ -1,0 +1,5 @@
+PHPMirror/
+.gitignore
+LICENSE
+README.md
+composer.json

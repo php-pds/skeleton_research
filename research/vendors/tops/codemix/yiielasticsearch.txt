@@ -1,0 +1,4 @@
+src/YiiElasticSearch/
+.gitignore
+README.md
+composer.json

@@ -1,0 +1,12 @@
+.producer/
+src/
+tests/
+.gitignore
+.travis.yml
+CHANGES.md
+CONTRIBUTING.md
+LICENSE.md
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

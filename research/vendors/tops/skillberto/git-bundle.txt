@@ -1,0 +1,15 @@
+DependencyInjection/
+Exception/
+Resources/
+Service/
+Tests/
+Twig/Extension/
+Util/
+Validation/
+.gitignore
+.travis.yml
+README.md
+SkillbertoGitBundle.php
+composer.json
+composer.lock
+phpunit.xml.dist

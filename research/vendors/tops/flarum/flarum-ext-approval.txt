@@ -1,0 +1,11 @@
+js/
+less/forum/
+migrations/
+scripts/
+src/
+.editorconfig
+.gitignore
+.styleci.yml
+LICENSE
+bootstrap.php
+composer.json

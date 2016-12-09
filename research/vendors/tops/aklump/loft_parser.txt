@@ -1,0 +1,7 @@
+.web_package/
+classes/
+tests/
+vendor/
+README.md
+composer.json
+web_package.info

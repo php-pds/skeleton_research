@@ -1,0 +1,17 @@
+bin/
+config/
+plugins/
+src/
+tests/
+webroot/
+.editorconfig
+.gitattributes
+.gitignore
+.htaccess
+.travis.yml
+HOW.md
+README.md
+TODO.md
+composer.json
+index.php
+phpunit.xml.dist

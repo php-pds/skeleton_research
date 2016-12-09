@@ -1,0 +1,7 @@
+Config/
+Controller/
+Model/
+View/MailLists/
+LICENSE
+README.md
+composer.json

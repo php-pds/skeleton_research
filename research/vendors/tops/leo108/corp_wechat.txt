@@ -1,0 +1,7 @@
+src/CorpWeChat/
+.gitignore
+LICENSE.txt
+README.md
+composer.json
+composer.lock
+example.php

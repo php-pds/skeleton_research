@@ -1,0 +1,13 @@
+Classes/
+Configuration/
+Documentation/
+Resources/
+lib/php-openid/
+.editorconfig
+composer.json
+ext_emconf.php
+ext_icon.png
+ext_icon_small.png
+ext_localconf.php
+ext_tables.php
+ext_tables.sql

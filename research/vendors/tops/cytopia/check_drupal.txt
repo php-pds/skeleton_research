@@ -1,0 +1,9 @@
+bin/
+doc/
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+composer.json
+icingaexchange.yml

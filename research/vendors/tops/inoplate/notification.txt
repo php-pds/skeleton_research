@@ -1,0 +1,11 @@
+config/
+public/notifications/
+resources/
+src/
+.bowerrc
+.gitignore
+.travis.yml
+README.MD
+composer.json
+gulpfile.js
+phpspec.yml

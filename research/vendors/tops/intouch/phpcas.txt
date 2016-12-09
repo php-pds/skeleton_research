@@ -1,0 +1,12 @@
+docs/
+source/
+test/
+utils/
+.buildpath
+.gitignore
+.project
+CAS.php
+LICENSE
+NOTICE
+README.md
+composer.json

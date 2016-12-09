@@ -1,0 +1,8 @@
+src/Joseki/DataGrid/
+tests/
+.gitattributes
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json

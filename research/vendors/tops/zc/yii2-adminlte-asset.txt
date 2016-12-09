@@ -1,0 +1,7 @@
+example-views/
+helpers/
+web/
+widgets/
+CHANGELOG.md
+README.md
+composer.json

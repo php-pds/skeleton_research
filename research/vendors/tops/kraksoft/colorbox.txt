@@ -1,0 +1,14 @@
+content/
+example1/
+example2/
+example3/
+example4/
+example5/
+i18n/
+README.md
+bower.json
+colorbox.ai
+colorbox.jquery.json
+composer.json
+jquery.colorbox-min.js
+jquery.colorbox.js

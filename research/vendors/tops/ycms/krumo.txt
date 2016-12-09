@@ -1,0 +1,12 @@
+icons/
+js/
+skins/
+tests/php/
+.gitignore
+INSTALL
+LICENSE
+README.md
+VERSION
+class.krumo.php
+composer.json
+krumo.sample.ini

@@ -1,0 +1,7 @@
+config/
+src/Email/
+view/email/
+Module.php
+README.md
+autoload_classmap.php
+composer.json

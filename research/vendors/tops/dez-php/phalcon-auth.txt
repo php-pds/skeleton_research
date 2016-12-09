@@ -1,0 +1,8 @@
+auth-scheme/
+sandbox/
+src/Auth/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock

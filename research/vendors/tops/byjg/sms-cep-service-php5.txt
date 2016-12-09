@@ -1,0 +1,7 @@
+nbproject/
+src/ByJG/WebService/
+.gitignore
+LICENSE
+README.md
+composer.json
+example.php

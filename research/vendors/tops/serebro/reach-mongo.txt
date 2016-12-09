@@ -1,0 +1,10 @@
+src/Mongo/
+tests/
+.coveralls.yml
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+README.ru.md
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,16 @@
+install/
+pear-workers/
+pecl-client/
+pecl-worker-classes/
+pecl-workers/
+GearmanManager.php
+GearmanPearManager.php
+GearmanPeclManager.php
+LICENSE.txt
+README.md
+composer.json
+config-advanced.ini
+config.ini
+config.php
+pear-manager.php
+pecl-manager.php

@@ -1,0 +1,6 @@
+Cache/
+Routing/Route/
+Test/
+.travis.yml
+README.md
+composer.json

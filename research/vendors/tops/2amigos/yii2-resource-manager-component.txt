@@ -1,0 +1,7 @@
+.gitignore
+AmazonS3ResourceManager.php
+FileSystemResourceManager.php
+LICENSE
+README.md
+ResourceManagerInterface.php
+composer.json

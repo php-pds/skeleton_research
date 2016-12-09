@@ -1,0 +1,6 @@
+classes/
+config/
+README.md
+bootstrap.php
+composer.json
+php-cs-fixer

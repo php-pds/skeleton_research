@@ -1,0 +1,10 @@
+_config/
+code/
+tests/
+.editorconfig
+.gitattributes
+.gitignore
+LICENSE
+README.md
+_config.php
+composer.json

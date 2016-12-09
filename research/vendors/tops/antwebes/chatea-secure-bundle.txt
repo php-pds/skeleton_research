@@ -1,0 +1,13 @@
+Client/HttpAdapter/
+Controller/
+DependencyInjection/
+Doc/
+Resources/
+Security/
+Tests/Security/
+.gitignore
+CHANGELOG-0.1.md
+ChateaSecureBundle.php
+Readme.md
+composer.json
+phpunit.xml.dist

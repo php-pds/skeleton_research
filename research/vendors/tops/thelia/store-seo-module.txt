@@ -1,0 +1,10 @@
+Config/
+Controller/
+Form/
+Hook/
+I18n/
+Smarty/Plugins/
+templates/backOffice/default/
+Readme.md
+StoreSeo.php
+composer.json

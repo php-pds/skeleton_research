@@ -1,0 +1,13 @@
+contrib/
+src/
+tests/
+.coveralls.yml
+.gitignore
+.travis.yml
+Gruntfile.js
+LICENSE.txt
+README.md
+VERSION
+composer.json
+package.json
+phpunit.xml.dist

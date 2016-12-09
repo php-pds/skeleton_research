@@ -1,0 +1,16 @@
+features/
+spec/
+src/
+.editorconfig
+.gitignore
+.php_cs
+.scruitinizer.yml
+.travis.yml
+CHANGELOG.md
+CONTRIBUTING.md
+LICENSE
+README.md
+composer.json
+composer.lock
+phpspec-test.yml
+phpspec.yml

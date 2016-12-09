@@ -1,0 +1,5 @@
+Documentation/
+Entity/
+Type/
+README.md
+composer.json

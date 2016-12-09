@@ -1,0 +1,8 @@
+i18n/
+ExtractText.i18n.magic.php
+ExtractText.i18n.php
+ExtractText.php
+ExtractText_body.php
+LICENSE
+README.md
+composer.json

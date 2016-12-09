@@ -1,0 +1,13 @@
+WeixinApi @ ed905ef
+doc/
+examples/
+php-wechat.wiki @ 4ae6e27
+src/
+tests/
+.gitignore
+.gitmodules
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

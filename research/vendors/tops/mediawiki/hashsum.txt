@@ -1,0 +1,8 @@
+i18n/
+Hashsum.i18n.magic.php
+Hashsum.i18n.php
+Hashsum.php
+Hashsum_body.php
+LICENSE
+README.md
+composer.json

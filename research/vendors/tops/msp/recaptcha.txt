@@ -1,0 +1,10 @@
+Api/
+Block/
+Command/
+Helper/
+Model/
+Observer/
+etc/
+view/
+composer.json
+registration.php

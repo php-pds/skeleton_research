@@ -1,0 +1,11 @@
+src/Sensorario/ValueObjects/
+test/Sensorario/ValueObjects/
+.gitignore
+CHANGELOG.md
+CONTRIBUTING.md
+README.md
+composer.json
+composer.lock
+composer.phar
+phpunit.xml
+runtests

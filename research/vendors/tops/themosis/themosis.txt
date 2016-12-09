@@ -1,0 +1,14 @@
+bootstrap/
+config/
+htdocs/
+library/Thms/Config/
+storage/
+tests/
+.env.local
+.gitattributes
+.gitignore
+.travis.yml
+README.md
+composer.json
+phpunit.xml
+wp-cli.yml

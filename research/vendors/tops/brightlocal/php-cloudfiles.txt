@@ -1,0 +1,15 @@
+debian/
+docs/
+share/
+tests/
+.gitignore
+AUTHORS
+COPYING
+Changelog
+README
+cloudfiles.php
+cloudfiles_exceptions.php
+cloudfiles_http.php
+composer.json
+phpdoc.ini
+phpunit.xml

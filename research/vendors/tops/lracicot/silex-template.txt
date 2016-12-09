@@ -1,0 +1,8 @@
+app/Resources/views/
+src/MyApp/
+var/logs/
+web/
+.env.example
+.gitignore
+README.md
+composer.json

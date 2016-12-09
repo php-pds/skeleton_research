@@ -1,0 +1,12 @@
+src/
+tests/
+.gitattributes
+.gitignore
+.scrutinizer.yml
+.sensiolabs.yml
+.styleci.yml
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml

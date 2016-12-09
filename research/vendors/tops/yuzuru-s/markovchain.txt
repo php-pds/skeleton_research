@@ -1,0 +1,14 @@
+sample/
+src/YuzuruS/Mecab/
+tests/
+.coveralls.yml
+.gitignore
+.travis.yml
+.travis_mecab.sh
+LICENSE.txt
+README.md
+composer.json
+composer.lock
+coverage-checker.php
+phpunit.xml.dist
+travisci_mecab_install.sh

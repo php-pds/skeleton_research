@@ -1,0 +1,12 @@
+src/Provide/Router/
+tests/
+.gitignore
+.php_cs
+.scrutinizer.yml
+.travis.yml
+README.md
+build.xml
+composer.json
+phpcs.xml
+phpmd.xml
+phpunit.xml.dist

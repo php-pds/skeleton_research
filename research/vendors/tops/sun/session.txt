@@ -1,0 +1,6 @@
+src/
+vendor/
+LICENSE
+README.md
+autoload.php
+composer.json

@@ -1,0 +1,6 @@
+Phadoop/
+examples/
+.gitignore
+LICENSE
+README.md
+composer.json

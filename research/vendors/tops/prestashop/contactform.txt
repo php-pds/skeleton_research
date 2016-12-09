@@ -1,0 +1,5 @@
+views/templates/widget/
+composer.json
+config.xml
+contactform.php
+logo.png

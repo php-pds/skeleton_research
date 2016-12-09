@@ -1,0 +1,10 @@
+.idea/
+features/
+spec/ContainerTools/
+src/ContainerTools/
+.gitignore
+.scrutinizer.yml
+LICENSE
+README.md
+composer.json
+test.php

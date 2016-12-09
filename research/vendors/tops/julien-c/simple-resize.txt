@@ -1,0 +1,5 @@
+.gitignore
+LICENSE
+README.md
+SimpleResize.php
+composer.json

@@ -1,0 +1,17 @@
+Vicopo/
+lib/
+src/Vicopo/
+.gitignore
+LICENSE
+README.md
+api.js
+api.min.js
+composer.json
+exemple.js
+exemple.php
+exemple.py
+exemple.rb
+index.js
+package.json
+setup.py
+vicopo.gemspec

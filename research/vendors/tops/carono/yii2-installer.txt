@@ -1,0 +1,11 @@
+commands/
+.gitignore
+Console.php
+ConsoleCheckBox.php
+ForeignKeyColumn.php
+InstallController.php
+MigrateController.php
+Migration.php
+PivotColumn.php
+composer.json
+composer.lock

@@ -1,0 +1,13 @@
+docs/
+src/Moontoast/Math/
+tests/
+.gitattributes
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENSE
+NOTICE
+README.md
+composer.json
+phpdoc.dist.xml
+phpunit.xml.dist

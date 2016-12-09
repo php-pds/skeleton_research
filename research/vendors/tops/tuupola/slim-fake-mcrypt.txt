@@ -1,0 +1,3 @@
+LICENSE.txt
+README.markdown
+composer.json

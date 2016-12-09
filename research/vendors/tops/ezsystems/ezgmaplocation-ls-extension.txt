@@ -1,0 +1,13 @@
+classes/
+datatypes/ezgmaplocation/
+design/standard/templates/
+settings/
+share/
+sql/
+translations/
+update/database/oracle/1.5/
+CHANGELOG.txt
+LICENSE
+README
+composer.json
+extension.xml

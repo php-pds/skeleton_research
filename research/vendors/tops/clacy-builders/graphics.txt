@@ -1,0 +1,6 @@
+src/
+tests/
+LICENSE
+README.md
+allIncl.php
+composer.json

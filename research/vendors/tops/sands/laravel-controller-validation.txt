@@ -1,0 +1,5 @@
+src/
+stubs/
+.gitignore
+README.md
+composer.json

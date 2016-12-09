@@ -1,0 +1,13 @@
+config/
+data/cache/
+module/
+public/
+test/Authnet/src/
+.coveralls.yml
+.gitignore
+.travis.yml
+LICENSE.txt
+README.md
+composer.json
+phpcs.xml
+phpunit.xml.dist

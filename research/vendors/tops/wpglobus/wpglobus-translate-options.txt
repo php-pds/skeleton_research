@@ -1,0 +1,16 @@
+assets/
+includes/
+.gitignore
+Gruntfile.js
+LICENSE
+README.md
+composer.json
+masks.txt
+options.txt
+package.json
+readme.txt
+wpglobus-translate-options.css
+wpglobus-translate-options.js
+wpglobus-translate-options.min.css
+wpglobus-translate-options.min.js
+wpglobus-translate-options.php

@@ -1,0 +1,14 @@
+.travis/
+docs/
+src/Datapump/
+.gitignore
+.localtest.sh
+.magmierrors.txt
+.phpdoc.xml
+.phpunit.dist.xml
+.travis.yml
+.travisload.sh
+LICENSE
+README.md
+composer.json
+composer.lock

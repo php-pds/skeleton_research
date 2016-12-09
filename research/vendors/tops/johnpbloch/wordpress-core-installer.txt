@@ -1,0 +1,4 @@
+src/johnpbloch/Composer/
+.gitignore
+README.md
+composer.json

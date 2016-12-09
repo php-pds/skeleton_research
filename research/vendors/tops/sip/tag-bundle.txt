@@ -1,0 +1,8 @@
+Admin/
+DependencyInjection/
+Form/DataTransformer/
+Manager/
+Repository/
+Resources/
+SIPTagBundle.php
+composer.json

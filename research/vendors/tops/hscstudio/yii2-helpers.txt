@@ -1,0 +1,4 @@
+assets/
+libraries/
+README.md
+composer.json

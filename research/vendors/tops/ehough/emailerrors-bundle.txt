@@ -1,0 +1,13 @@
+DependencyInjection/
+Exception/
+Resources/
+Service/
+Tests/
+Twig/
+.gitignore
+.travis.yml
+EhoughEmailErrorsBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

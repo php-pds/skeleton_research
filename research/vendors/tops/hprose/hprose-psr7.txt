@@ -1,0 +1,7 @@
+src/Hprose/Psr7/
+tests/
+.gitignore
+.travis.yml
+LICENSE.md
+README.md
+composer.json

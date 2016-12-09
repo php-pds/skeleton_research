@@ -1,0 +1,13 @@
+src/
+tests/
+.gitattributes
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CONTRIBUTING.md
+ISSUE_TEMPLATE.md
+LICENSE
+PULL_REQUEST_TEMPLATE.md
+README.md
+composer.json
+phpunit.xml.dist

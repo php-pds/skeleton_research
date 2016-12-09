@@ -1,0 +1,13 @@
+config/
+data/
+language/
+public/images/
+src/Zf2Forum/
+tests/
+view/zf2-forum/discuss/
+.gitignore
+.travis.yml
+LICENSE
+Module.php
+README.md
+composer.json

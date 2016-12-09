@@ -1,0 +1,7 @@
+src/Platforms/View/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml

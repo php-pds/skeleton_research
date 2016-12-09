@@ -1,0 +1,10 @@
+css/msdropdown/
+examples/
+images/msdropdown/
+js/
+GPL-LICENSE.txt
+MIT-LICENSE.txt
+Readme.md
+Readme.txt
+composer.json
+index.html

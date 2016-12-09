@@ -1,0 +1,8 @@
+DependencyInjection/
+Domain/
+Model/
+Resources/config/
+.gitignore
+ProblematicAclManagerBundle.php
+README.md
+composer.json

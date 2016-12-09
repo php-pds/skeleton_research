@@ -1,0 +1,6 @@
+classes/
+.buildpath
+.gitignore
+LICENSE
+README.md
+composer.json

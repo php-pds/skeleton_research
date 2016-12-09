@@ -1,0 +1,7 @@
+Commands/
+Resources/config/
+.gitignore
+ConsoleBundle.php
+LICENSE.md
+README.md
+composer.json

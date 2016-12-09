@@ -1,0 +1,6 @@
+src/Appcia/Utils/
+tests/
+LICENSE
+README.md
+composer.json
+phpunit.xml

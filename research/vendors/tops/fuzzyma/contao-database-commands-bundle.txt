@@ -1,0 +1,10 @@
+Command/
+DependencyInjection/
+Resources/config/
+Tests/Command/
+.gitignore
+ContaoDatabaseCommandsBundle.php
+LICENSE
+Readme.md
+composer.json
+phpunit.xml

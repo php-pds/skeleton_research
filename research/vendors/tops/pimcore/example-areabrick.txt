@@ -1,0 +1,5 @@
+.gitattributes
+.gitignore
+area.xml
+composer.json
+view.php

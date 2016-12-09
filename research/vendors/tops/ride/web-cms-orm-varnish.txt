@@ -1,0 +1,5 @@
+config/
+src/ride/web/cms/
+README.md
+composer.json
+ride.json

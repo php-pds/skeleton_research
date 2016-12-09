@@ -1,0 +1,7 @@
+src/Anthill/Phalcon/KernelModule/
+tests/Anthill/Phalcon/KernelModule/
+.gitignore
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

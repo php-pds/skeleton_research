@@ -1,0 +1,11 @@
+Controller/
+DBAL/Types/
+DependencyInjection/
+Model/
+ORM/
+Resources/
+Tests/Controller/
+LICENSE
+README.md
+SopinetSimplePointBundle.php
+composer.json

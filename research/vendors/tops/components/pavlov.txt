@@ -1,0 +1,6 @@
+.gitignore
+README.md
+bower.json
+component.json
+composer.json
+pavlov.js

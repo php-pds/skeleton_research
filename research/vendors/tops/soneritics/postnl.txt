@@ -1,0 +1,7 @@
+Soneritics/PostNL/
+tests/
+.coveralls.yml
+.travis.yml
+LICENSE
+README.md
+composer.json

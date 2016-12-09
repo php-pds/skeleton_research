@@ -1,0 +1,8 @@
+app/
+public/
+resources/templates/
+src/GitChecker/Composer/Script/
+var/cache/twig/
+.gitignore
+README.md
+composer.json

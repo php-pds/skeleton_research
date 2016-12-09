@@ -1,0 +1,8 @@
+.idea/
+src/GatherContent/
+tests/
+.gitignore
+circle.yml
+composer.json
+composer.lock
+phpunit.xml

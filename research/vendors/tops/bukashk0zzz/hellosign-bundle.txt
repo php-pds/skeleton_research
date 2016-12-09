@@ -1,0 +1,12 @@
+DependencyInjection/
+Resources/config/
+Service/
+Tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+Bukashk0zzzHelloSignBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

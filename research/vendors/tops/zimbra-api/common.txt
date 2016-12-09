@@ -1,0 +1,9 @@
+Tests/
+.gitignore
+README.md
+SimpleXML.php
+Text.php
+TypedMap.php
+TypedSequence.php
+composer.json
+phpunit.xml.dist

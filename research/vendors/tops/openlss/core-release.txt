@@ -1,0 +1,5 @@
+COPYING
+COPYING.LESSER
+README.md
+composer.json
+lss_version.php

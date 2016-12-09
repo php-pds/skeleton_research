@@ -1,0 +1,14 @@
+siteroot/
+src/
+tests/
+.gitignore
+.nginx.yml
+.php_cs
+LICENSE
+README.md
+SUMMARY.md
+composer.json
+dockerClear.cmd
+dockerView.cmd
+nginxserver.conf
+phpunit.xml

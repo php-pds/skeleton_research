@@ -1,0 +1,6 @@
+config/
+models/
+.gitignore
+Module.php
+Widget.php
+composer.json

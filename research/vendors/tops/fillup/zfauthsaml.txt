@@ -1,0 +1,10 @@
+config/
+data/
+src/ZfAuthSaml/
+view/zf-auth-saml/zf-auth-saml/
+.gitignore
+Module.php
+README.md
+composer.json
+composer.lock
+composer.phar

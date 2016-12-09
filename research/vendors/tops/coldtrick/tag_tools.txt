@@ -1,0 +1,16 @@
+actions/
+classes/ColdTrick/TagTools/
+languages/
+lib/
+pages/
+procedures/
+vendors/jquery/tag_it/
+views/default/
+.gitignore
+.travis.yml
+CHANGES.txt
+README.md
+composer.json
+composer.lock
+manifest.xml
+start.php

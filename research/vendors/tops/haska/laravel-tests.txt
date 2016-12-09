@@ -1,0 +1,9 @@
+docs/
+src/Haska/Tests/
+tests/
+.gitignore
+.travis.yml
+composer.json
+phpunit.xml
+readme.md
+tags

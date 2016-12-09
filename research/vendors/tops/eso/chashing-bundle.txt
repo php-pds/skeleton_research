@@ -1,0 +1,12 @@
+DependencyInjection/
+Hasher/
+Main/
+Resources/
+Tests/
+.coveralls.yml
+.gitignore
+.travis.yml
+ESOCHashingBundle.php
+README.md
+composer.json
+phpunit.xml.dist

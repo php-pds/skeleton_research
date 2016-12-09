@@ -1,0 +1,6 @@
+lib/Badcow/Ink/
+tools/
+.gitignore
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,6 @@
+css/
+messages/
+views/
+.gitignore
+composer.json
+index.php

@@ -1,0 +1,6 @@
+src/LizardsAndPumpkins/
+tests/Integration/
+.gitignore
+LICENSE
+README.md
+composer.json

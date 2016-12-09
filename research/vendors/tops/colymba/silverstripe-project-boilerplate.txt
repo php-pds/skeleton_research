@@ -1,0 +1,17 @@
+_config/
+_dist/
+bower_components/
+code/
+node_modules/
+.bowerrc
+.gitattributes
+.gitignore
+.htaccess
+.jshintrc
+.scrutinizer.yml
+Gruntfile.js
+README.md
+_config.php
+bower.json
+composer.json
+package.json

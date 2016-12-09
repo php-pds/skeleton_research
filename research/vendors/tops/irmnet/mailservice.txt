@@ -1,0 +1,7 @@
+config/
+src/MailService/Service/
+view/
+.gitignore
+Module.php
+autoload_classmap.php
+composer.json

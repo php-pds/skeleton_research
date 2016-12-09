@@ -1,0 +1,14 @@
+docs/
+lib/
+tests/
+.coveralls.yml
+.gitattributes
+.gitignore
+.travis.yml
+LICENSE
+README.md
+bootstrap.php
+composer.json
+phpunit.xml.dist
+rmt.json
+view.sublime-project

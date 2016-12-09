@@ -1,0 +1,10 @@
+spec/BenGorUser/DoctrineORMBridge/Infrastructure/Persistence/
+src/BenGorUser/DoctrineORMBridge/Infrastructure/Persistence/
+.editorconfig
+.gitignore
+.php_cs
+.phpspec_cs
+.travis.yml
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,13 @@
+config/
+doc/
+src/
+themes/HTML/
+.gitignore
+.htaccess
+Makefile
+README.md
+composer.json
+doc-creator.php
+doc.php
+doc.xml
+phpunit.xml

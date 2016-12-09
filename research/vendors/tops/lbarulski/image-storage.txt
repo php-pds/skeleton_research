@@ -1,0 +1,4 @@
+src/ImageStorage/
+.gitignore
+README.md
+composer.json

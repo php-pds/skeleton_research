@@ -1,0 +1,6 @@
+lib/DmitryMamontov/
+.gitattributes
+LICENSE
+README.md
+composer.json
+example.php

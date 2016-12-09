@@ -1,0 +1,8 @@
+Plugin/
+doc/
+templates/
+.gitignore
+LICENSE
+Limp.php
+README.md
+composer.json

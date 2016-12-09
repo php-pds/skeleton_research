@@ -1,0 +1,11 @@
+config/
+grunt/
+src/
+tests/
+.gitignore
+Gruntfile.js
+bower.json
+composer.json
+index.php
+package.json
+wp-image-util.php

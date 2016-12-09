@@ -1,0 +1,17 @@
+core.apps.audioplayer/
+core.apps.calendar/
+core.apps.calendar_categories/
+core.apps.calendar_event/
+core.apps.embed_flash/
+core.apps.embed_video/
+core.apps.events_categories/
+core.apps.events_manager/
+core.apps.gmap/
+core.apps.gmap_events/
+core.apps.image_gallery/
+core.apps.paragraph/
+core.apps.picture/
+core.apps.slideshow/
+core.apps.videoplayer/
+images/
+composer.json

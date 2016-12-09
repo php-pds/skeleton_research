@@ -1,0 +1,12 @@
+Comparator/
+Exception/
+Iterator/
+Tests/
+CHANGELOG.md
+Finder.php
+Glob.php
+LICENSE
+README.md
+SplFileInfo.php
+composer.json
+phpunit.xml.dist

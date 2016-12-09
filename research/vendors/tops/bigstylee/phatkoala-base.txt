@@ -1,0 +1,6 @@
+config/
+src/PhatKoalaBase/
+tests/
+.travis.yml
+README.md
+composer.json

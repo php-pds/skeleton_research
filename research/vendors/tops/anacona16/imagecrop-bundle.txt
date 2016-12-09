@@ -1,0 +1,11 @@
+Controller/
+DependencyInjection/
+Form/
+Resources/
+Tests/Controller/
+Util/
+.gitignore
+ImageCropBundle.php
+LICENSE
+README.md
+composer.json

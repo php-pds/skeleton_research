@@ -1,0 +1,10 @@
+behaviors/
+controllers/
+messages/
+migrations/
+models/
+views/file/
+.gitignore
+FileWebModule.php
+README.md
+composer.json

@@ -1,0 +1,10 @@
+resources/
+src/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml
+s3fileshifter.php

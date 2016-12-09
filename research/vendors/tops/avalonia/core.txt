@@ -1,0 +1,9 @@
+src/Avalonia/Core/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+Readme.md
+TODO.md
+composer.json
+phpunit.xml

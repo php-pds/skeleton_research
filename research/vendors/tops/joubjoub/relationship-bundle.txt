@@ -1,0 +1,16 @@
+Controller/
+DependencyInjection/
+Entity/
+Event/
+Form/
+Manager/
+Model/
+Resources/
+Security/
+Tests/Controller/
+JoubjoubRelationshipBundle.php
+LICENSE
+README.md
+Relationship.php
+RelationshipEvents.php
+composer.json

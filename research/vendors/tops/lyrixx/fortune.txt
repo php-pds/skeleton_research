@@ -1,0 +1,12 @@
+.platform/
+app/
+src/Lyrixx/Bundle/FortuneBundle/
+web/
+.gitignore
+.platform-project
+.platform.app.yaml
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock

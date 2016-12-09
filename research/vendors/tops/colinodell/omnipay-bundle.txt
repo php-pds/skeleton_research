@@ -1,0 +1,14 @@
+DependencyInjection/
+Resources/config/
+Service/
+Tests/
+.gitattributes
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CHANGELOG.md
+LICENSE.md
+OmnipayBundle.php
+README.md
+composer.json
+phpunit.xml.dist

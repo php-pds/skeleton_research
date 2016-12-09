@@ -1,0 +1,11 @@
+DependencyInjection/
+Entity/
+Form/Type/
+ListView/
+Manager/
+Resources/
+.gitignore
+LICENSE
+README.md
+VardiusInvoiceBundle.php
+composer.json

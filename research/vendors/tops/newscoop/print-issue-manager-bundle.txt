@@ -1,0 +1,10 @@
+Controller/
+DependencyInjection/
+Entity/
+EventListener/
+Resources/
+Services/
+LICENSE
+NewscoopPrintIssueManagerBundle.php
+README.md
+composer.json

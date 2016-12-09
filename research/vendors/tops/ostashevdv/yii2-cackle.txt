@@ -1,0 +1,8 @@
+commands/
+helpers/
+migrations/
+models/
+Module.php
+README.md
+Widget.php
+composer.json

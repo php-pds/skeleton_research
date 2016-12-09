@@ -1,0 +1,10 @@
+src/
+.gitignore
+Checksum.php
+LICENSE
+ParametersProvider.php
+README.md
+composer.json
+composer.lock
+phpunit.xml
+wpcli.php

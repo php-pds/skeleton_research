@@ -1,0 +1,11 @@
+legacy/
+src/
+tests/
+.gitignore
+GNU Lesser General Public License v2.1 - GNU Project - Free Software Foundation.html
+README.md
+REVISION.TXT
+ReadMe.html
+composer.json
+documentation.css
+test.php

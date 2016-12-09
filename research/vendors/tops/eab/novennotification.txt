@@ -1,0 +1,8 @@
+design/
+doc/
+modules/notificationcontrol/
+settings/
+translations/fre-FR/
+README.md
+composer.json
+ezinfo.php

@@ -1,0 +1,6 @@
+templates/
+.gitignore
+LICENSE
+SnapshottableBehavior.php
+SnapshottableBehaviorObjectBuilderModifier.php
+composer.json

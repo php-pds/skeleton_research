@@ -1,0 +1,12 @@
+assets/js/
+classes/
+controllers/
+formwidgets/
+lang/
+models/
+updates/
+LICENCE.md
+Plugin.php
+README.md
+composer.json
+routes.php

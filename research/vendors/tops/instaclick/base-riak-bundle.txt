@@ -1,0 +1,13 @@
+Cache/
+Command/
+Context/
+DependencyInjection/
+Resources/config/
+Riak/
+Service/
+Tests/
+.gitignore
+ICBaseRiakBundle.php
+composer.json
+composer.lock
+phpunit.xml.dist

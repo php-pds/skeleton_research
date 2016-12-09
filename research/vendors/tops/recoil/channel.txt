@@ -1,0 +1,15 @@
+.github/
+examples/
+src/
+test/
+.gitattributes
+.gitignore
+.php_cs
+.travis.yml
+CHANGELOG.md
+LICENSE.md
+Makefile
+README.md
+composer.json
+composer.lock
+peridot.php

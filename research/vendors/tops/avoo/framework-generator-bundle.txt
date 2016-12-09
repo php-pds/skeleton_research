@@ -1,0 +1,13 @@
+Checker/
+Command/
+DependencyInjection/
+Filesystem/
+Generator/
+Resources/
+Tests/Controller/
+Tool/
+Twig/Extension/
+AvooGeneratorBundle.php
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,7 @@
+app/
+doc/img/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock

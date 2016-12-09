@@ -1,0 +1,8 @@
+src/MoneyMath/
+tests/
+.gitignore
+.travis.yml
+README.md
+composer.json
+index.php
+phpunit.xml.dist

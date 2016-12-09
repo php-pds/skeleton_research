@@ -1,0 +1,9 @@
+_config/
+code/
+javascript/
+templates/Layout/
+thirdparty/fullcalendar-2.3.1/
+LICENSE.md
+README.md
+_config.php
+composer.json

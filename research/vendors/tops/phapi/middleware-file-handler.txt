@@ -1,0 +1,10 @@
+src/Phapi/
+.codeclimate.yml
+.gitattributes
+.gitignore
+.travis.yml
+changelog.md
+composer.json
+contributing.md
+license.md
+readme.md

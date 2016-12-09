@@ -1,0 +1,9 @@
+css/
+fonts/
+img/
+js/
+.gitignore
+LICENSE-MIT
+README.markdown
+composer.json
+documentation.html

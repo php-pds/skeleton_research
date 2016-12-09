@@ -1,0 +1,15 @@
+Action/
+Classes/
+Config/
+Controller/Admin/
+Event/
+Form/
+Hook/
+I18n/
+Loop/
+Model/
+templates/backOffice/default/
+LICENSE.txt
+Readme.md
+TheliaStore.php
+composer.json

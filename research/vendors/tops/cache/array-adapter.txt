@@ -1,0 +1,10 @@
+.github/
+Tests/
+.gitignore
+.travis.yml
+ArrayCachePool.php
+Changelog.md
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

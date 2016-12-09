@@ -1,0 +1,10 @@
+src/Fgms/Distributor/
+tests/
+.gitignore
+README.md
+composer.json
+distributor.php
+phpunit.xml
+shortcode.php
+style.css
+wordpress-find-a-distributor.php

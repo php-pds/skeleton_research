@@ -1,0 +1,3 @@
+lib/Rails/Bootstrap2/
+vendor/assets/
+composer.json

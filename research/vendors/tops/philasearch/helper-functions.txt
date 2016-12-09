@@ -1,0 +1,4 @@
+lib/Philasearch/HelperFunctions/
+.gitignore
+composer.json
+composer.lock

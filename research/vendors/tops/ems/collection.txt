@@ -1,0 +1,9 @@
+examples/
+src/Collection/
+tests/unit/
+.gitignore
+LICENSE
+README.md
+composer.json
+phpunit.php
+phpunit.xml

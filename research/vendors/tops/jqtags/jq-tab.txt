@@ -1,0 +1,15 @@
+test/
+.gitignore
+API.md
+LICENSE
+README.md
+bower.json
+composer.json
+config.rb
+jqtags.tab.css
+jqtags.tab.js
+jqtags.tab.scss
+module.json
+module.properties
+sliding.tab.css
+tabs.css

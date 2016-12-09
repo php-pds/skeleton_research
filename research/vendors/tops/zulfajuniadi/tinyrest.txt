@@ -1,0 +1,5 @@
+Tinyrest/src/
+example/
+.gitignore
+README.md
+composer.json

@@ -1,0 +1,6 @@
+config/
+src/InteractiveSolutions/Stdlib/
+.gitignore
+Module.php
+README.md
+composer.json

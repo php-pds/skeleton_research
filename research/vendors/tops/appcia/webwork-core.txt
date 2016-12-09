@@ -1,0 +1,10 @@
+build/
+config/
+lib/Core/
+test/
+.gitignore
+LICENSE
+README.md
+build.xml
+composer.json
+module.php

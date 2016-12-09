@@ -1,0 +1,13 @@
+data/
+docs/1.0.0/
+src/
+.gitignore
+.travis-phpunit.xml
+.travis.yml
+CONTRIBUTE.md
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist
+sami.php
+update.php

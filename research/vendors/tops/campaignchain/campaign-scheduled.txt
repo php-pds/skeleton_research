@@ -1,0 +1,12 @@
+Controller/
+DependencyInjection/
+Menu/
+Resources/
+Service/
+.gitignore
+CampaignChainCampaignScheduledCampaignBundle.php
+LICENSE
+NOTICE
+README.md
+campaignchain.yml
+composer.json

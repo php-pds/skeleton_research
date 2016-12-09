@@ -1,0 +1,8 @@
+src/Sparkcentral/Marshaller/
+test/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock

@@ -1,0 +1,9 @@
+Controller/
+DependencyInjection/
+Message/
+Resources/
+Service/
+Tests/Controller/
+README.md
+StriideMailerBundle.php
+composer.json

@@ -1,0 +1,6 @@
+src/Francodacosta/SupervisordBundle/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock

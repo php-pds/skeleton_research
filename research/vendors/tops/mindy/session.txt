@@ -1,0 +1,3 @@
+src/Mindy/Session/
+README.md
+composer.json

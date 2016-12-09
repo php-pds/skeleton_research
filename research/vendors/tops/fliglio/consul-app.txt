@@ -1,0 +1,6 @@
+src/MyApp/Example/
+web/
+.gitignore
+README.md
+composer.json
+composer.lock

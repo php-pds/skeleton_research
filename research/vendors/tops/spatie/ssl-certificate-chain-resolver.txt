@@ -1,0 +1,12 @@
+images/
+src/
+tests/
+.gitignore
+.styleci.yml
+.travis.yml
+CHANGELOG.md
+LICENSE.md
+README.md
+codeception.yml
+composer.json
+ssl-certificate-chain-resolver

@@ -1,0 +1,8 @@
+DataCollector/
+DependencyInjection/
+Resources/
+Service/
+BWLatestVersionCheckerBundle.php
+LICENSE
+README.md
+composer.json

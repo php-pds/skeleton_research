@@ -1,0 +1,5 @@
+Command/
+Config/
+HookDoc.php
+Readme.md
+composer.json

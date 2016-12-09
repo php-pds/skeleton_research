@@ -1,0 +1,6 @@
+converters/
+.gitignore
+Converter.php
+Parser.php
+README.md
+composer.json

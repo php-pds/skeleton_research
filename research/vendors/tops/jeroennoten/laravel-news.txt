@@ -1,0 +1,10 @@
+database/
+resources/views/
+src/
+tests/
+.gitattributes
+.gitignore
+.travis.yml
+LICENSE
+composer.json
+phpunit.xml

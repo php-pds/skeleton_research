@@ -1,0 +1,13 @@
+Command/
+DependencyInjection/
+Resources/config/
+Tests/
+.gitignore
+.travis.yml
+CorleyVersionBundle.php
+LICENSE
+README.md
+VERSION
+composer.json
+composer.lock
+phpunit.xml.dist

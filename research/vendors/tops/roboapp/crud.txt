@@ -1,0 +1,13 @@
+docs/
+src/
+tests/
+.editorconfig
+.gitattributes
+.scrutinizer.yml
+.styleci.yml
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

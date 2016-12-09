@@ -1,0 +1,10 @@
+classes/
+config/
+guide/
+tests/
+.gitignore
+.travis.yml
+README.md
+cachedrivers.php.ini
+composer.json
+koharness.php

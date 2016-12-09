@@ -1,0 +1,12 @@
+bin/
+doc/
+features/
+src/AcidSolutions/ValueObjects/
+tests/
+.gitignore
+.travis.yml
+README.md
+behat.yml
+composer.json
+phpunit-coverage.xml
+phpunit.xml

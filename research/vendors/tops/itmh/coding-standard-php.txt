@@ -1,0 +1,6 @@
+phpcs/ITMH/
+phpmd/
+.gitignore
+README.md
+composer.json
+composer.lock

@@ -1,0 +1,8 @@
+config/
+dca/
+html/
+languages/
+README.md
+TableWizard4ward.php
+composer.json
+tinyTable4ward.php

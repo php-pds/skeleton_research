@@ -1,0 +1,16 @@
+Tests/
+src/Liip/Drupal/Modules/CrudAdmin/Entities/
+templates/
+translations/
+.gitignore
+.travis.yml
+LICENSE
+Readme.md
+composer.json
+composer.lock
+drupalcrudadminmodule.admin.inc
+drupalcrudadminmodule.helper.inc
+drupalcrudadminmodule.info
+drupalcrudadminmodule.install
+drupalcrudadminmodule.module
+phpunit.xml.dist

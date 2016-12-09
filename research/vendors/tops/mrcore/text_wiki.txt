@@ -1,0 +1,9 @@
+Text/
+doc/
+tests/
+.editorconfig
+.gitignore
+.travis.yml
+README.md
+composer.json
+package.xml

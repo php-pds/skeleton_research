@@ -1,0 +1,14 @@
+app/
+components/
+config/
+interfaces/block/
+migrations/
+models/
+services/
+shell/
+yii/
+.gitignore
+LICENSE
+README.md
+composer.json
+initFecShop

@@ -1,0 +1,6 @@
+src/Wheel/
+.gitignore
+CHANGELOG.md
+LICENSE
+README.md
+composer.json

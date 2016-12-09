@@ -1,0 +1,9 @@
+sample/
+spec/
+src/
+.gitignore
+.travis.yml
+composer.json
+license.md
+phpspec.yml
+readme.md

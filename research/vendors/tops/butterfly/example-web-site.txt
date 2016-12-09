@@ -1,0 +1,11 @@
+config/
+data/
+src/
+var/
+view/
+web/
+.gitignore
+LICENSE
+README.md
+composer.json
+di.yml

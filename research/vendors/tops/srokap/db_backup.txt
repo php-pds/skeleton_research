@@ -1,0 +1,9 @@
+actions/backup/db/
+classes/
+languages/
+screenshots/
+views/default/
+LICENSE.txt
+composer.json
+manifest.xml
+start.php

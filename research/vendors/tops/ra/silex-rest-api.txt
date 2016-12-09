@@ -1,0 +1,8 @@
+Classes/RA/SilexRestApi/
+Tests/RA/SilexRestApi/Connector/Oxid/
+.gitignore
+.htaccess
+LICENSE
+README.txt
+app.php
+composer.json

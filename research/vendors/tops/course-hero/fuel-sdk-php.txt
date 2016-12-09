@@ -1,0 +1,9 @@
+objsamples/
+src/ExactTarget/
+tests/
+.gitignore
+.travis.yml
+README.md
+composer.json
+config.php.template
+phpunit.xml.dist

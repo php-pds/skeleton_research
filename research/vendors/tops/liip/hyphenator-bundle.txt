@@ -1,0 +1,12 @@
+DependencyInjection/
+Extension/
+Resources/
+Tests/
+.gitignore
+.styleci.yml
+.travis.yml
+HyphenatorFactory.php
+LiipHyphenatorBundle.php
+README.md
+composer.json
+phpunit.xml.dist

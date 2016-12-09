@@ -1,0 +1,3 @@
+MagicGetterSetter.php
+README.md
+composer.json

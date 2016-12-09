@@ -1,0 +1,7 @@
+test/
+API.md
+README.MD
+bower.json
+composer.json
+jqrouter.js
+module.json

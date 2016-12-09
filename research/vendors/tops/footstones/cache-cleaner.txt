@@ -1,0 +1,10 @@
+app/
+bin/
+src/
+tests/
+var/log/
+.gitignore
+README.md
+composer.json
+phinx.php
+phpunit.xml.dist

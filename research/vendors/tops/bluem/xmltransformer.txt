@@ -1,0 +1,7 @@
+lib/BlueM/
+test/
+.travis.yml
+README.markdown
+TestDox-Output.txt
+composer.json
+phpunit.xml.dist

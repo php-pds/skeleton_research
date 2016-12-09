@@ -1,0 +1,11 @@
+Command/
+DataCollector/
+DependencyInjection/
+EventListener/
+Resources/
+Tests/
+.gitignore
+.travis.yml
+SwiftmailerBundle.php
+composer.json
+phpunit.xml.dist

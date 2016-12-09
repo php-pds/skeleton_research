@@ -1,0 +1,9 @@
+Comments/Provider/
+Controller/
+DependencyInjection/
+Resources/
+.gitignore
+BDGooglePlusCommentsBundle.php
+LICENSE
+README.md
+composer.json

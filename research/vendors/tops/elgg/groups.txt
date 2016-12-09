@@ -1,0 +1,15 @@
+actions/
+classes/
+graphics/
+languages/
+lib/
+tests/
+upgrades/
+views/
+activate.php
+composer.json
+deactivate.php
+icon.php
+manifest.xml
+start.php
+topicposts.php

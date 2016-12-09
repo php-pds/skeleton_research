@@ -1,0 +1,11 @@
+bin/
+i18n/
+src/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+behat.yml-dist
+box.json
+composer.json

@@ -1,0 +1,13 @@
+example/
+src/SessionKit/
+tests/
+.travis.yml
+build.xml
+composer.json
+package.ini
+package.xml
+phpdox.xml
+phprelease.ini
+phpunit-ci.xml
+phpunit.xml
+phpunit.xml.dist

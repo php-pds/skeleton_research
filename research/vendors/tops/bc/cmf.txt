@@ -1,0 +1,5 @@
+bc/cmf/
+config/
+.gitignore
+app.php.default
+composer.json

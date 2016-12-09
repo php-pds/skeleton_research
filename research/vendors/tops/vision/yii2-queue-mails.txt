@@ -1,0 +1,8 @@
+.idea/
+migrations/
+.gitignore
+Mailer.php
+Message.php
+QueueMails.php
+README.md
+composer.json

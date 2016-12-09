@@ -1,0 +1,10 @@
+config/
+docs/
+src/
+test-mock/Psr/Http/Message/
+.gitignore
+.travis.yml
+LICENSE.txt
+README.md
+composer.json
+phpunit.xml

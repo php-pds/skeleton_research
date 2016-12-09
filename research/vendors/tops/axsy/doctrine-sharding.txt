@@ -1,0 +1,5 @@
+lib/Axsy/Doctrine/
+tests/
+.gitignore
+README.md
+composer.json

@@ -1,0 +1,7 @@
+src/PHPCRAPI/Silex/
+.gitignore
+.travis.yml
+README.md
+composer.json
+jackalope.db
+phpunit.xml

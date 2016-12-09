@@ -1,0 +1,13 @@
+docker/
+src/PactBrokerClient/
+tests/
+usage/
+.coveralls.yml
+.gitignore
+.travis.yml
+LICENSE
+Readme.md
+composer.json
+composer.lock
+docker-compose.yml
+phpspec.yml

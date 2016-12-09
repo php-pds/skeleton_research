@@ -1,0 +1,7 @@
+lib/TOGoS/
+test/TOGoS/
+.gitignore
+.travis.yml
+Makefile
+README.md
+composer.json

@@ -1,0 +1,14 @@
+.idea/
+Exception/
+Kernel/
+Test/
+Tests/
+.coveralls.yml
+.gitignore
+.scrutinizer.yml
+.travis.yml
+ChangeLog.md
+LICENSE
+Readme.md
+composer.json
+phpunit.xml.dist

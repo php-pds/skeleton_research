@@ -1,0 +1,10 @@
+Resources/config/
+Tests/
+src/
+web/samples/
+.gitignore
+LICENSE
+README.md
+composer.json
+phpunit.phar
+phpunit.xml

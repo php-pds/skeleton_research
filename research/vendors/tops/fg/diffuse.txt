@@ -1,0 +1,4 @@
+lib/Diffuse/
+tests/
+composer.json
+phpunit.xml

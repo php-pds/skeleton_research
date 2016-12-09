@@ -1,0 +1,3 @@
+Galvani/CoffeeClosureBundle/
+README.md
+composer.json

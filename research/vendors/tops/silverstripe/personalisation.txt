@@ -1,0 +1,17 @@
+_config/
+code/
+css/
+docs/
+javascript/
+scripts/
+templates/
+tests/
+thirdparty/flot-0.7/
+.editorconfig
+.gitattributes
+.scrutinizer.yml
+.travis.yml
+README.md
+_config.php
+code-of-conduct.md
+composer.json

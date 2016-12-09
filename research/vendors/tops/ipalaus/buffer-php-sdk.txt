@@ -1,0 +1,12 @@
+build/
+src/Ipalaus/Buffer/
+tests/
+.coveralls.yml
+.editorconfig
+.gitattributes
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml

@@ -1,0 +1,13 @@
+Controller/
+DependencyInjection/
+Model/
+Resources/
+Service/
+Twig/
+.gitignore
+.scrutinizer.yml
+CedricZielShariffBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

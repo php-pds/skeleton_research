@@ -1,0 +1,14 @@
+Controller/
+DependencyInjection/
+Entity/
+Form/
+Installation/
+Listener/
+Manager/
+Migrations/pdo_mysql/
+Repository/
+Resources/
+CPASimUSanteGhangoutBundle.php
+VERSION.txt
+composer.json
+readme.md

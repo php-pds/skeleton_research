@@ -1,0 +1,16 @@
+Configuration/
+Dispatcher/
+Doctrine/
+Event/
+Exception/
+Model/
+Operator/
+Persistence/
+Search/
+Serializer/
+.gitattributes
+.gitignore
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

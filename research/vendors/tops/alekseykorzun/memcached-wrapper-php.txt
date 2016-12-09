@@ -1,0 +1,6 @@
+doc/
+examples/
+src/Memcached/
+README.md
+VERSION.md
+composer.json

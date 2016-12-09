@@ -1,0 +1,6 @@
+example/
+src/EventDispatcher/
+.gitignore
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,4 @@
+classes/
+tests/Minion/
+README.md
+composer.json

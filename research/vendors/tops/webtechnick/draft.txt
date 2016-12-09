@@ -1,0 +1,11 @@
+Config/Schema/
+Console/Command/Task/
+Controller/
+Lib/
+Model/
+Test/
+Vendor/
+View/
+webroot/
+composer.json
+readme.md

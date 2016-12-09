@@ -1,0 +1,8 @@
+Command/
+Install/
+.gitattributes
+.gitignore
+EkynaInstallBundle.php
+LICENSE
+README.md
+composer.json

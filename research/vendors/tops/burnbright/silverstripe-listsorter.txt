@@ -1,0 +1,13 @@
+code/
+templates/Includes/
+tests/
+.editorconfig
+.gitattributes
+.scrutinizer.yml
+.travis.yml
+CHANGELOG.md
+CONTRIBUTING.md
+README.md
+_config.php
+composer.json
+phpunit.xml.dist

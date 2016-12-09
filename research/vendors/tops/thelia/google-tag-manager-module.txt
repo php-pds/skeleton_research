@@ -1,0 +1,9 @@
+Config/
+Controller/
+Form/
+Hook/
+I18n/
+templates/backOffice/default/
+GoogleTagManager.php
+Readme.md
+composer.json

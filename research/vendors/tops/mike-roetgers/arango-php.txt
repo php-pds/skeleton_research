@@ -1,0 +1,5 @@
+src/MikeRoetgers/ArangoPHP/
+.gitignore
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,12 @@
+Classes/
+Configuration/
+Migrations/Code/
+Resources/
+Tests/Unit/Form/FormDataProvider/
+composer.json
+ext_conf_template.txt
+ext_emconf.php
+ext_icon.png
+ext_localconf.php
+ext_tables.php
+ext_tables.sql

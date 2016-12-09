@@ -1,0 +1,16 @@
+.github/
+lib/PayPal/
+tests/
+.gitignore
+.releasinator.rb
+.travis.yml
+CHANGELOG.md
+CONTRIBUTING.md
+Gemfile
+Gemfile.lock
+LICENSE
+README.md
+Rakefile
+build.xml
+composer.json
+phpunit.xml

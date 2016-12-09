@@ -1,0 +1,5 @@
+.gitignore
+LICENSE.md
+README.md
+YARA.php
+composer.json

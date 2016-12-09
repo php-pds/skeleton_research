@@ -1,0 +1,8 @@
+src/Dflydev/Common/Domain/Model/Identity/Rhumsaa/
+tests/Dflydev/Common/Domain/Model/Identity/Rhumsaa/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+composer.json
+composer.lock
+phpunit.xml.dist

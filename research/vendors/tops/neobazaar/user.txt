@@ -1,0 +1,16 @@
+.settings/
+config/
+src/User/
+tests/
+view/neo-user/user/
+.buildpath
+.gitignore
+.project
+.travis.yml
+LICENSE
+Module.php
+README.md
+autoload_classmap.php
+composer.json
+composer.lock
+phpunit.xml.dist

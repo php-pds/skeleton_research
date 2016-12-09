@@ -1,0 +1,5 @@
+.gitignore
+Asset.php
+AssetTransitions.php
+composer.json
+readme.md

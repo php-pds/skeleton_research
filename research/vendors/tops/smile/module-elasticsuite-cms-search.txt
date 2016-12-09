@@ -1,0 +1,12 @@
+Block/
+Controller/Result/
+Helper/
+Model/
+Plugin/Indexer/Page/Save/
+Setup/
+etc/
+i18n/
+view/
+README.md
+composer.json
+registration.php

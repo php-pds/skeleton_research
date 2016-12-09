@@ -1,0 +1,5 @@
+docs/
+lib/
+README.md
+composer.json
+default-enable

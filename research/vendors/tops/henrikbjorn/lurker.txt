@@ -1,0 +1,11 @@
+docs/
+src/Lurker/
+tests/
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+composer.json
+mkdocs.yml
+phpunit.xml.dist

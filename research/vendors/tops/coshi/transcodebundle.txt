@@ -1,0 +1,10 @@
+Command/
+Controller/
+DependencyInjection/
+Event/
+Resources/config/
+Tests/Transcoder/
+Transcoder/
+CoshiTranscodeBundle.php
+README.md
+composer.json

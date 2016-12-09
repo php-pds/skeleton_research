@@ -1,0 +1,14 @@
+docs/
+phing/
+src/Guzzle/
+tests/
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+UPGRADING.md
+build.xml
+composer.json
+phar-stub.php
+phpunit.xml.dist

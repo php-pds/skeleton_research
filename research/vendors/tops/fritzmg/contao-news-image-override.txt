@@ -1,0 +1,4 @@
+system/modules/news_image_override/
+LICENSE
+README.md
+composer.json

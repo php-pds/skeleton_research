@@ -1,0 +1,11 @@
+config/
+data/
+src/SpeckTax/
+test/
+.gitignore
+Module.php
+README.md
+autoload_classmap.php
+autoload_function.php
+autoload_register.php
+composer.json

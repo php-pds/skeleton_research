@@ -1,0 +1,8 @@
+config/
+src/OpenAuth/
+view/open-auth/
+.directory
+.gitignore
+Module.php
+README.md
+composer.json

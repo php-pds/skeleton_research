@@ -1,0 +1,9 @@
+Classes/TechDivision/Neos/Search/
+Configuration/
+Documentation/
+Meta/Build/
+Resources/
+Tests/
+.gitignore
+README.md
+composer.json

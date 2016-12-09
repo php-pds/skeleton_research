@@ -1,0 +1,12 @@
+bin/
+build/
+src/
+tests/
+.gitignore
+.travis.yml
+LICENSE.txt
+README.md
+Rakefile
+composer.json
+phpdox.xml.dist
+phpunit.xml.dist

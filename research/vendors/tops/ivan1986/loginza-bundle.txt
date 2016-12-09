@@ -1,0 +1,7 @@
+DependencyInjection/
+Resources/
+.gitignore
+Ivan1986LoginzaBundle.php
+README.md
+REAMDE
+composer.json

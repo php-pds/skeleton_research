@@ -1,0 +1,14 @@
+bin/
+docs/
+example/
+rpm/
+src/fkooman/OAuth/Client/
+tests/fkooman/OAuth/Client/
+.gitignore
+.travis.yml
+CHANGES.md
+README.md
+composer.json
+composer.lock
+lgpl-3.0.txt
+phpunit.xml.dist

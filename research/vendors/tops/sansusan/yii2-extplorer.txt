@@ -1,0 +1,6 @@
+assets/extplorer/
+CHANGE.md
+Extplorer.php
+LICENSE.md
+README.md
+composer.json

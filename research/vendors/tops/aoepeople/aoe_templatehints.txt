@@ -1,0 +1,8 @@
+app/
+skin/frontend/base/default/aoe_templatehints/
+.travis.yml
+LICENSE.txt
+README.md
+changelog.md
+composer.json
+modman

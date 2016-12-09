@@ -1,0 +1,11 @@
+Classes/
+misc/
+tests/
+.gitignore
+Doxyfile
+LICENSE
+README
+composer.json
+help.sh
+php_filter.php
+phpunit.xml

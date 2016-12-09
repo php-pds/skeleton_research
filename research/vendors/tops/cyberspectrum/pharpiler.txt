@@ -1,0 +1,15 @@
+bin/
+phar/
+src/
+tests/
+.gitignore
+.pharpiler.yml
+.travis.yml
+LICENSE
+README.md
+build.default.properties
+build.xml
+composer.json
+composer.lock
+phpunit.xml.dist
+test-compile.sh

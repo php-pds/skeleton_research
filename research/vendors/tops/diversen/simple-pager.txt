@@ -1,0 +1,5 @@
+css/
+lang/
+README.md
+composer.json
+pagination.php

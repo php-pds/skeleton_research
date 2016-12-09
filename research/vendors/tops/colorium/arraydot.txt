@@ -1,0 +1,4 @@
+src/Colorium/Tools/
+LICENCE
+README.md
+composer.json

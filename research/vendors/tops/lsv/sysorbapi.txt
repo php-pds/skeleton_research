@@ -1,0 +1,9 @@
+src/
+test/
+.gitattributes
+.gitignore
+build.xml
+composer.json
+composer.lock
+phpdoc.dist.xml
+phpunit.xml

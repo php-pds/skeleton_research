@@ -1,0 +1,9 @@
+bin/
+src/
+var/cache/
+.gitignore
+LICENSE
+README.md
+client_secret.json
+composer.json
+composer.lock

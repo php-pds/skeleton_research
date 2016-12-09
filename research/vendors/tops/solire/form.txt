@@ -1,0 +1,13 @@
+Exception/
+Process/
+Tests/Units/
+.gitignore
+Exception.php
+ExceptionInternal.php
+FastConfig.php
+Field.php
+Formulaire.php
+SanitizeInterface.php
+Tester.php
+ValidateInterface.php
+composer.json

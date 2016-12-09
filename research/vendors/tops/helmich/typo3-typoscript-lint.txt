@@ -1,0 +1,12 @@
+src/Helmich/TypoScriptLint/
+tests/
+.codeclimate.yml
+.gitignore
+.travis.yml
+README.md
+composer.json
+phpunit.xml.dist
+services.yml
+tslint.dist.yml
+tslint.yml
+typoscript-lint

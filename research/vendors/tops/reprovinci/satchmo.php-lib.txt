@@ -1,0 +1,4 @@
+src/Satchmo/
+LICENSE
+README.md
+composer.json

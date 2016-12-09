@@ -1,0 +1,17 @@
+doc/
+lib/web/
+test/
+var/
+web/
+.editorconfig
+.gitattributes
+.gitignore
+.travis.yml
+AUTHORS.txt
+CHANGELOG.md
+LICENSE.txt
+README.md
+build.xml
+composer.json
+phpdoc.xml
+phpunit.xml

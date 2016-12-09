@@ -1,0 +1,11 @@
+examples/
+src/Wookieb/ZorroRPC/
+tests/Wookieb/ZorroRPC/Tests/
+.gitignore
+.travis.yml
+README.md
+composer.json
+php.ini
+phpunit.xml
+rpc.yml
+rpcSchema.yml

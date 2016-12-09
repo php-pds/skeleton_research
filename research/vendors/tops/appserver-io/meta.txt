@@ -1,0 +1,10 @@
+deploy/
+etc/appserver/conf.d/
+resources/
+src/AppserverIo/Meta/Composer/Script/
+var/
+webapps/
+.gitignore
+bootstrap.php
+composer.json
+server.php

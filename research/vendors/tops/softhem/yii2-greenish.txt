@@ -1,0 +1,4 @@
+assets/
+web/
+LICENSE
+composer.json

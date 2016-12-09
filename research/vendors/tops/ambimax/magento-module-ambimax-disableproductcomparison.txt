@@ -1,0 +1,6 @@
+doc/
+src/app/
+LICENSE.txt
+composer.json
+modman
+readme.md

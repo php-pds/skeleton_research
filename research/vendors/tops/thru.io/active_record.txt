@@ -1,0 +1,12 @@
+build/logs/
+src/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+ar_benchmark
+bootstrap.php
+composer.json
+phpunit.xml.dist
+test_configs.php

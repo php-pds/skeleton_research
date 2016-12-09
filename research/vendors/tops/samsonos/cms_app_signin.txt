@@ -1,0 +1,13 @@
+ci/
+features/
+i18n/
+src/
+www/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+README.md
+behat.yml
+composer.json
+license.md
+readme.md

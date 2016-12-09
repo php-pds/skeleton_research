@@ -1,0 +1,6 @@
+library/Bloom/
+tests/
+.travis.yml
+LICENSE-2.0.txt
+README.md
+composer.json

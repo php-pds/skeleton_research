@@ -1,0 +1,8 @@
+dist/
+.gitignore
+Button.php
+LICENSE
+README.md
+ZeroClipboardAsset.php
+composer.json
+composer.lock

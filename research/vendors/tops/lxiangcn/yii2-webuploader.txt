@@ -1,0 +1,11 @@
+assets/
+messages/zh-CN/
+views/
+Action.php
+Image.php
+ImageAsset.php
+MultiImage.php
+MultiImageAsset.php
+README.md
+WebuploaderAsset.php
+composer.json

@@ -1,0 +1,6 @@
+config/
+library/Websafe/View/Helper/Git/Repository/
+.gitignore
+LICENSE.txt
+README.md
+composer.json

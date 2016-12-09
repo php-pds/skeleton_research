@@ -1,0 +1,16 @@
+app/
+public/
+src/
+tests/
+.editorconfig
+.env.example
+.gitattributes
+.gitignore
+.scrutinizer.yml
+.styleci.yml
+.travis.yml
+CHANGELOG.md
+README.md
+composer.json
+phinx.yml
+phpunit.xml.dist

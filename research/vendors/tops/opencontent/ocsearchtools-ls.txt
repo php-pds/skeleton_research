@@ -1,0 +1,11 @@
+autoloads/
+bin/php/
+classes/
+design/standard/
+modules/
+patch/
+settings/
+sql/
+README.md
+composer.json
+extension.xml

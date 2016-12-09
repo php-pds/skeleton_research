@@ -1,0 +1,6 @@
+Controller/
+DependencyInjection/
+Resources/
+Service/
+CanalTPSamMonitoringBundle.php
+composer.json

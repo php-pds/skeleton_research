@@ -1,0 +1,13 @@
+scripts/
+src/
+.gitattributes
+.gitignore
+CHANGELOG.md
+LICENSE.txt
+Vagrantfile
+composer.json
+composer.lock
+homestead
+init.bat
+init.sh
+readme.md

@@ -1,0 +1,15 @@
+Convert/
+DependencyInjection/
+Exception/
+Family/
+Manager/
+Resources/
+spec/
+.gitignore
+.travis.yml
+AkeneoMeasureBundle.php
+CHANGELOG.md
+LICENSE.md
+README.md
+composer.json
+phpspec.yml

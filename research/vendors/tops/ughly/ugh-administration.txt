@@ -1,0 +1,11 @@
+config/
+src/UghAdministration/
+test/
+view/
+.gitignore
+.travis.yml
+LICENSE
+Module.php
+README.md
+composer.json
+composer.lock

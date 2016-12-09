@@ -1,0 +1,12 @@
+lib/
+tests/
+.coveralls.yml
+.gitattributes
+.gitignore
+.travis.yml
+LICENSE
+Makefile
+README.md
+composer.json
+helpers.php
+phpunit.xml.dist

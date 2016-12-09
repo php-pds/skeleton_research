@@ -1,0 +1,4 @@
+libs/Hitar/
+test/
+README.md
+composer.json

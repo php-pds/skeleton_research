@@ -1,0 +1,8 @@
+components/
+public/
+.gitignore
+CONTRIBUTING.md
+LICENSE
+README.md
+composer.json
+static-methods-list-tracker.txt

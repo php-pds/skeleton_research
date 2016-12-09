@@ -1,0 +1,4 @@
+lib/Megumi/WP/
+.gitignore
+composer.json
+composer.lock

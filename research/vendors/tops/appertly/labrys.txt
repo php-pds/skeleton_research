@@ -1,0 +1,12 @@
+src/
+tests/
+xhp/
+.gitignore
+.hhconfig
+.travis.yml
+CONTRIBUTING.md
+LICENSE
+README.md
+build-mongodb.sh
+composer.json
+travis-php.ini

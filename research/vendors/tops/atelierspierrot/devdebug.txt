@@ -1,0 +1,7 @@
+demo/
+src/
+www/
+.gitignore
+README.md
+composer.json
+sami.config.php

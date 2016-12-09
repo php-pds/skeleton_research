@@ -1,0 +1,14 @@
+build/
+docs/
+lib/
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+apiary.apib
+composer.json
+composer.lock
+phpunit.xml.dev
+phpunit.xml.dist

@@ -1,0 +1,7 @@
+Configuration/
+Resources/
+.editorconfig
+.jscsrc
+.scss-lint.yml
+README.md
+composer.json

@@ -1,0 +1,10 @@
+_config/
+code/
+js/
+.bowerrc
+LICENSE.md
+README.md
+_config.php
+assets.json
+bower.json
+composer.json

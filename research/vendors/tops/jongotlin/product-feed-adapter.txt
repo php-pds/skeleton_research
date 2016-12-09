@@ -1,0 +1,8 @@
+src/ProductFeedAdapter/
+tests/
+vendor/classloader/Symfony/Component/ClassLoader/
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

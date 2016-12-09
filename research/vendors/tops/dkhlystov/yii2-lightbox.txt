@@ -1,0 +1,3 @@
+lightbox/
+widgets/
+composer.json

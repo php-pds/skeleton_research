@@ -1,0 +1,7 @@
+data/
+src/
+tests/NpmWeb/Reference/
+LICENSE
+README.md
+composer.json
+phpunit.xml

@@ -1,0 +1,10 @@
+config/
+log/
+.gitignore
+LICENSE
+README.md
+apple-icon.png
+composer.json
+composer.lock
+favicon.ico
+index.php

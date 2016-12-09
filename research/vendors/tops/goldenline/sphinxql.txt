@@ -1,0 +1,4 @@
+src/GoldenLine/Sphinx/
+.gitignore
+README.md
+composer.json

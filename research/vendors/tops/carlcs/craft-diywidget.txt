@@ -1,0 +1,12 @@
+_examples/
+controllers/
+resources/
+services/
+templates/widgets/diy/
+translations/
+widgets/
+.gitignore
+DiyWidgetPlugin.php
+composer.json
+readme.md
+releases.json

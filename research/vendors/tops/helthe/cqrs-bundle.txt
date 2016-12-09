@@ -1,0 +1,11 @@
+CommandHandler/
+DependencyInjection/
+Resources/config/
+Tests/
+.gitignore
+.travis.yml
+HeltheCQRSBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

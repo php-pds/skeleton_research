@@ -1,0 +1,7 @@
+src/Triad/SymbolGenerator/
+.gitignore
+LICENSE
+README.md
+composer.json
+image.php
+index.php

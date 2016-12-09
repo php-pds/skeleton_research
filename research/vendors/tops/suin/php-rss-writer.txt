@@ -1,0 +1,11 @@
+examples/
+src/Suin/RSSWriter/
+tests/
+.gitignore
+.travis.yml
+Makefile
+README.md
+composer.json
+docker-compose.development.yml
+docker-compose.yml
+phpunit.xml.dist

@@ -1,0 +1,10 @@
+languages/
+models/attribute/types/multilingual_attribute/
+.gitignore
+CHANGELOG
+LICENSE.md
+README.md
+composer.json
+controller.php
+icon.png
+icon.svg

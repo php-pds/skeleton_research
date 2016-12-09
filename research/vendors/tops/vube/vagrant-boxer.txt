@@ -1,0 +1,11 @@
+src/Vube/VagrantBoxer/
+test/
+.coveralls.yml
+.gitignore
+.travis.yml
+LICENSE
+README.md
+boxer.php
+composer.json
+phpdoc.xml
+phpunit.xml.dist

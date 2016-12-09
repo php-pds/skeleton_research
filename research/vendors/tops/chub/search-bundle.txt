@@ -1,0 +1,12 @@
+DependencyInjection/
+Resources/config/
+Service/
+Tests/
+.gitattributes
+.gitignore
+.travis.yml
+README.md
+SearchBundle.php
+composer.json
+composer.lock
+phpunit.xml

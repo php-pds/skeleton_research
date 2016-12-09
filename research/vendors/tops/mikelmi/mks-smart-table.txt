@@ -1,0 +1,8 @@
+public/js/
+resources/assets/js/
+src/
+.gitignore
+README.md
+composer.json
+gulpfile.js
+package.json

@@ -1,0 +1,11 @@
+cross-domain/
+dest/
+src/
+test/
+.gitignore
+Gruntfile.js
+LICENSE-MIT
+README.md
+bower.json
+composer.json
+package.json

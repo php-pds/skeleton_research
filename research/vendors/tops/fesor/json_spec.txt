@@ -1,0 +1,12 @@
+features/
+spec/
+src/
+.editorconfig
+.gitignore
+.php_cs
+.travis.yml
+README.md
+behat.yml
+composer.json
+composer.lock
+phpspec.yml

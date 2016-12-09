@@ -1,0 +1,9 @@
+DependencyInjection/
+Manager/
+Model/
+Resources/config/
+Service/
+LICENCE
+README.md
+VGRElasticsearchBundle.php
+composer.json

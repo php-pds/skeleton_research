@@ -1,0 +1,9 @@
+DataFixtures/ORM/DetectedBot/
+DependencyInjection/
+Entity/
+EventListener/
+Resources/
+DarvinBotDetectorBundle.php
+LICENSE
+README.md
+composer.json

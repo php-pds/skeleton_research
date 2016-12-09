@@ -1,0 +1,7 @@
+.editorconfig
+.semver
+CONTRIBUTING.markdown
+HttpSocketOauth.php
+LICENSE.txt
+composer.json
+readme.markdown

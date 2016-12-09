@@ -1,0 +1,14 @@
+components/
+tests/unit/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CHANGELOG.md
+Exception.php
+HtmlCompressor.php
+LICENSE
+README.md
+View.php
+composer.json
+composer.lock
+phpunit.xml.dist

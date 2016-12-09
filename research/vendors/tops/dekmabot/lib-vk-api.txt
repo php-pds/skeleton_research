@@ -1,0 +1,3 @@
+VkontakteAPI/
+.gitignore
+composer.json

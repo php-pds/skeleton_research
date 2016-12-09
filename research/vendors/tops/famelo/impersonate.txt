@@ -1,0 +1,4 @@
+Classes/Famelo/Impersonate/
+Configuration/
+Resources/Private/
+composer.json

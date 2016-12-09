@@ -1,0 +1,15 @@
+Tests/
+.atoum.php
+.atoum.travis.php
+.bootstrap.atoum.php
+.travis.yml
+DelegateListener.php
+Event.php
+EventDispatcher.php
+EventDispatcherInterface.php
+EventInterface.php
+EventSubscriberInterface.php
+PostDispatchEvent.php
+PreDispatchEvent.php
+README.md
+composer.json

@@ -1,0 +1,16 @@
+assets/
+config/
+gulp/
+scripts/
+src/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+bower.json
+composer.json
+gulpfile.js
+package.json
+phpunit.xml.dist
+plugin.php

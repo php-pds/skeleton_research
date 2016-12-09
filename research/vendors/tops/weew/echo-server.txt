@@ -1,0 +1,9 @@
+src/Weew/EchoServer/
+tests/
+web/
+.gitignore
+.travis.yml
+composer.json
+licence.md
+phpunit.xml.dist
+readme.md

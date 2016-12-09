@@ -1,0 +1,12 @@
+DependencyInjection/
+Encryptor/
+MongoDB/
+ORM/Type/
+Resources/config/
+.gitignore
+CodeLoversDoctrineEncryptBundle.php
+LICENSE
+README.md
+TypeName.php
+composer.json
+composer.lock

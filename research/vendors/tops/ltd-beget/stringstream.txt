@@ -1,0 +1,6 @@
+src/LTDBeget/stringstream/
+.gitignore
+LICENSE
+README.md
+composer.json
+phpdox.xml

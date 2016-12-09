@@ -1,0 +1,6 @@
+config/
+src/RumeauLibThemeManager/
+LICENSE
+Module.php
+README.md
+composer.json

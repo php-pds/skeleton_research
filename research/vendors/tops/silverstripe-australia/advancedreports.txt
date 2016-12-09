@@ -1,0 +1,15 @@
+_config/
+code/
+css/
+docs/en/
+images/
+javascript/
+templates/
+.editorconfig
+.gitattributes
+CHANGELOG
+LICENSE
+README.md
+VERSION
+_config.php
+composer.json

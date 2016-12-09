@@ -1,0 +1,11 @@
+docs/
+src/Davispeixoto/Calendar/
+tests-masses/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml
+settings.jar

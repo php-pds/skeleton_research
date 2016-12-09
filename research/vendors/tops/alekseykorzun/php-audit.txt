@@ -1,0 +1,4 @@
+database/
+README
+composer.json
+phpAudit

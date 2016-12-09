@@ -1,0 +1,11 @@
+examples/
+src/Nicmart/Benchmark/
+templates/
+tests/Nicmart/Benchmark/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

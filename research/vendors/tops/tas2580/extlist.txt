@@ -1,0 +1,12 @@
+config/
+controller/
+event/
+language/
+migrations/
+styles/prosilver/
+travis/
+.travis.yml
+README.md
+composer.json
+license.txt
+version-check.json

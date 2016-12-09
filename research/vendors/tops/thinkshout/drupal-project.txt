@@ -1,0 +1,16 @@
+behat/
+config/
+drush/
+scripts/
+web/sites/default/
+.env.dist
+.gitignore
+.htaccess
+.travis.yml
+LICENSE
+README.md
+RoboFile.php
+circle.yml
+composer.json
+pantheon.yml
+phpunit.xml.dist

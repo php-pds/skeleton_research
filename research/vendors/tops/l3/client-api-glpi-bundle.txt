@@ -1,0 +1,7 @@
+DependencyInjection/
+Resources/config/
+Services/
+.gitignore
+L3ClientApiGlpiBundle.php
+README.md
+composer.json

@@ -1,0 +1,9 @@
+Command/
+DataFixtures/
+DependencyInjection/
+Resources/config/
+.gitignore
+ItBlasterFixturesBundle.php
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,4 @@
+src/Mangati/IO/
+LICENSE
+README.md
+composer.json

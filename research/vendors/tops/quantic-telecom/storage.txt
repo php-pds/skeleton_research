@@ -1,0 +1,7 @@
+src/QuanticTelecom/Storage/
+tests/
+.gitignore
+.travis.yml
+composer.json
+composer.lock
+phpunit.xml

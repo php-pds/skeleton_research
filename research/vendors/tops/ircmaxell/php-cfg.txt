@@ -1,0 +1,12 @@
+lib/PHPCfg/
+test/
+.gitignore
+.php_cs
+.travis.yml
+LICENSE
+README.md
+build.sh
+composer.json
+composer.lock
+demo.php
+phpunit.xml.dist

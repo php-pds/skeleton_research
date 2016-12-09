@@ -1,0 +1,10 @@
+components/
+controllers/
+migrations/
+models/
+views/default/
+widgets/
+Module.php
+README.md
+composer.json
+dashboard.json

@@ -1,0 +1,9 @@
+src/Handler/
+tests/Handler/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+makefile
+phpunit.xml.dist

@@ -1,0 +1,12 @@
+Controller/
+DependencyInjection/
+Doctrine/EntityManager/
+EventListener/
+Handler/
+Resources/
+.gitignore
+.travis.yml
+README.md
+SilvestraBannerBundle.php
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,8 @@
+DependencyInjection/
+Paginator/
+Resources/config/
+Twig/
+.gitignore
+MillwrightFilterBundle.php
+README.md
+composer.json

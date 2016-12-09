@@ -1,0 +1,11 @@
+actions/
+languages/
+lib/
+pages/
+views/default/
+CHANGES.txt
+README.md
+activate.php
+composer.json
+manifest.xml
+start.php

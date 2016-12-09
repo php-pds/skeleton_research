@@ -1,0 +1,9 @@
+src/Guttmann/
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+composer.json
+composer.lock
+phpunit.xml.dist

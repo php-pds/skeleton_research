@@ -1,0 +1,10 @@
+Model/
+Tests/
+.gitignore
+LICENSE
+ParameterBag.php
+ParameterBagInterface.php
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

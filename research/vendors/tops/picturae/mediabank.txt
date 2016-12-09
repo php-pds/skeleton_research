@@ -1,0 +1,11 @@
+examples/
+src/
+tests/
+.coveralls.yml
+.gitignore
+.travis.yml
+CONTRIBUTING.md
+README.md
+check.sh
+composer.json
+phpunit.xml.dist

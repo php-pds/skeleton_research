@@ -1,0 +1,6 @@
+docs/
+examples/chat/
+src/
+tests/
+README.md
+composer.json

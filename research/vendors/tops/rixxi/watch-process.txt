@@ -1,0 +1,3 @@
+src/Rixxi/WatchProcess/
+composer.json
+license.md

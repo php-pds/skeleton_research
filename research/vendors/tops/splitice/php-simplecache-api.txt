@@ -1,0 +1,5 @@
+src/Splitice/SimpleCache/
+.gitignore
+LICENSE
+README.md
+composer.json

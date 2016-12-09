@@ -1,0 +1,5 @@
+Wa72/SimpleLogger/
+.gitignore
+README.md
+Wa72SimpleLogger.php
+composer.json

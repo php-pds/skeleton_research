@@ -1,0 +1,9 @@
+src/AerialShip/Lex/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.bootstrap.php
+phpunit.xml.dist

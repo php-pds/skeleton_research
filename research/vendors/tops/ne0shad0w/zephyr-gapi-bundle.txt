@@ -1,0 +1,8 @@
+Controller/
+DependencyInjection/
+Pclass/
+Resources/
+.gitattributes
+.gitignore
+GapiBundle.php
+composer.json

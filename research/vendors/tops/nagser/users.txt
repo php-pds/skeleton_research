@@ -1,0 +1,10 @@
+behaviors/
+controllers/
+messages/ru/
+migrations/
+models/
+views/
+widgets/
+Bootstrap.php
+Module.php
+composer.json

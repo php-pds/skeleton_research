@@ -1,0 +1,10 @@
+classes/ColdTrick/NoFriends/
+views/default/notifications/subscriptions/
+.gitignore
+.travis.yml
+CHANGES.txt
+README.md
+composer.json
+composer.lock
+manifest.xml
+start.php

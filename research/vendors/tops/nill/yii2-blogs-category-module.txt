@@ -1,0 +1,14 @@
+assets/css/
+controllers/
+messages/
+migrations/
+models/
+views/
+widgets/
+.gitattributes
+.gitignore
+Asset.php
+Bootstrap.php
+Module.php
+README.md
+composer.json

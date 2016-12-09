@@ -1,0 +1,7 @@
+assets/
+commands/
+js/
+less/
+views/
+.gitignore
+composer.json

@@ -1,0 +1,14 @@
+examples/
+Animation.php
+Axis.php
+Background.php
+ChartArea.php
+ChartInterface.php
+ChartManager.php
+LICENSE
+Legend.php
+LineChart.php
+Series.php
+TextStyle.php
+TrendLine.php
+composer.json

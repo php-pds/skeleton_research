@@ -1,0 +1,13 @@
+DependencyInjection/
+Event/
+Exception/
+Manager/
+Model/
+Resources/
+Tests/Controller/
+Twig/
+.gitignore
+AmenophisSocialBundle.php
+LICENCE
+README.md
+composer.json

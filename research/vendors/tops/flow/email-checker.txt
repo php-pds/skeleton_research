@@ -1,0 +1,6 @@
+examples/
+src/Flow/EmailChecker/
+.gitignore
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,9 @@
+controllers/
+lib/ActiveFileAdvanced/
+models/ActiveFileAdvanced/Db/
+static/
+views/scripts/
+LICENSE
+README.md
+composer.json
+plugin.xml

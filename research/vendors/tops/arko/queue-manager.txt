@@ -1,0 +1,5 @@
+.gitignore
+QueueManager.php
+QueueManagerInterface.php
+README.md
+composer.json

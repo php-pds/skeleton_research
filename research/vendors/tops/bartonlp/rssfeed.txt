@@ -1,0 +1,4 @@
+docs/
+README.md
+RssFeed.php
+composer.json

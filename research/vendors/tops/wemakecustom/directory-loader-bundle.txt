@@ -1,0 +1,8 @@
+DependencyInjection/
+Loader/
+Resources/config/
+.gitignore
+.travis.yml
+README.md
+WMCDirectoryLoaderBundle.php
+composer.json

@@ -1,0 +1,9 @@
+parsehtml/
+LICENSE_LGPL.txt
+README.md
+TODO
+composer.json
+example.php
+markdownify.php
+markdownify_cli.php
+markdownify_extra.php

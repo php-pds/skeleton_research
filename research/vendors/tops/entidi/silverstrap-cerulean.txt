@@ -1,0 +1,5 @@
+templates/Includes/
+AUTHORS
+COPYING
+README.md
+composer.json

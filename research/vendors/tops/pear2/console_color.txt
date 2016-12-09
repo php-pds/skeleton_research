@@ -1,0 +1,13 @@
+docs/
+src/PEAR2/Console/
+tests/
+.travis.yml
+CREDITS
+README
+RELEASE-0.1.0
+RELEASE-1.0.0
+composer.json
+extrasetup.php
+package.xml
+packagexmlsetup.php
+stub.php

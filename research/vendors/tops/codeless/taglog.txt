@@ -1,0 +1,8 @@
+tests/
+.gitattributes
+.gitignore
+.travis.yml
+README.md
+composer.json
+phpunit.xml.dist
+taglog.php

@@ -1,0 +1,11 @@
+Generator/
+Tests/
+.gitignore
+LICENSE
+README.md
+ReferenceGeneratorCollection.php
+ReferenceGeneratorInterface.php
+ReferenceGeneratorProvider.php
+ReferenceableInterface.php
+composer.json
+phpunit.xml.dist

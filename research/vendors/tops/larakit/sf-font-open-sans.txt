@@ -1,0 +1,4 @@
+public/
+LICENSE
+composer.json
+init.php

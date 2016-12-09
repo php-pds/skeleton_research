@@ -1,0 +1,8 @@
+examples/
+src/
+tests/
+.gitignore
+.travis.yml
+changelog.md
+composer.json
+readme.md

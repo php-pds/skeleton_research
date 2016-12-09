@@ -1,0 +1,13 @@
+Model/Behavior/
+Test/
+.editorconfig
+.gitignore
+.semver
+.travis.yml
+Contributing.mdown
+LICENSE.txt
+README.mdown
+composer.json
+database.php
+setup.sh
+validate.sh

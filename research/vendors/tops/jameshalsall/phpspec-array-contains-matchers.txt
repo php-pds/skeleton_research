@@ -1,0 +1,11 @@
+bin/
+features/
+spec/
+src/
+.editorconfig
+.gitignore
+.travis.yml
+README.md
+behat.yml
+composer.json
+phpspec.yml

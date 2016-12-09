@@ -1,0 +1,7 @@
+Component/
+DependencyInjection/
+Resources/
+.gitignore
+AdadgioHealthBundle.php
+README.md
+composer.json

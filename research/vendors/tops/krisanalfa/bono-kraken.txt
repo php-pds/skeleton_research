@@ -1,0 +1,4 @@
+src/KrisanAlfa/Kraken/
+.gitignore
+README.md
+composer.json

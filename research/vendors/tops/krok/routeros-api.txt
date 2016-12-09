@@ -1,0 +1,6 @@
+examples/
+.gitattributes
+.gitignore
+README.md
+composer.json
+routeros_api.class.php

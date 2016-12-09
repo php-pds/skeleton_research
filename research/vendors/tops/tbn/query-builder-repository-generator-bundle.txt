@@ -1,0 +1,8 @@
+CacheWarmer/
+Configuration/
+DependencyInjection/
+Generator/
+Resources/
+QueryBuilderRepositoryGeneratorBundle.php
+README.md
+composer.json

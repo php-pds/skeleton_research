@@ -1,0 +1,7 @@
+lib/
+.gitignore
+README.md
+cmb2_post_search_field.php
+composer.json
+post-search-dialog.png
+post-search-field.png

@@ -1,0 +1,16 @@
+Config/
+actions/classes/
+componente/classes/
+converter/
+gadget/classes/
+gdados/
+gplugin/classes/
+gproduto/classes/
+index/
+templates/classes/
+tests/
+widget/classes/
+.gitattributes
+.gitignore
+autoload.php
+composer.json

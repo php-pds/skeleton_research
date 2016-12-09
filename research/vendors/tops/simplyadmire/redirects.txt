@@ -1,0 +1,6 @@
+Classes/SimplyAdmire/Redirects/
+Configuration/
+Migrations/
+LICENSE.txt
+README.md
+composer.json

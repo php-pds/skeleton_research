@@ -1,0 +1,7 @@
+src/
+tests/regexp/
+.gitignore
+.travis.yml
+LICENSE.md
+README.md
+composer.json

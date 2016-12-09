@@ -1,0 +1,15 @@
+assets/js/
+examples/
+models/
+src/
+tests/
+.gitattributes
+.gitignore
+CHANGELOG.md
+CONTRIBUTING.md
+Core.php
+EVENTS.md
+README.md
+WhatsApp.php
+WhatsappJs.php
+composer.json

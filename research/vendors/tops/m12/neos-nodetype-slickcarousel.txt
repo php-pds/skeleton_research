@@ -1,0 +1,6 @@
+Classes/M12/SlickCarousel/
+Configuration/
+Resources/Private/
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,6 @@
+Twig/Extension/
+.gitignore
+README.rst
+composer.json
+index.php
+index.twig

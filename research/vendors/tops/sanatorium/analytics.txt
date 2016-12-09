@@ -1,0 +1,10 @@
+config/
+database/
+docs/img/
+lang/
+src/
+themes/
+.gitignore
+README.md
+composer.json
+extension.php

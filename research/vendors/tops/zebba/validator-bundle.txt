@@ -1,0 +1,6 @@
+DependencyInjection/
+Resources/config/
+Service/
+Validator/
+ZebbaValidatorBundle.php
+composer.json

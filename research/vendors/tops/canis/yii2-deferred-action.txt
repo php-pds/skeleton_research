@@ -1,0 +1,6 @@
+lib/
+.gitignore
+.jscsrc
+.php_cs
+README.md
+composer.json

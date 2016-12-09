@@ -1,0 +1,6 @@
+system/modules/RscTinyMceZUpAll/
+.gitattributes
+.gitignore
+README.md
+composer.json
+screenshot.jpg

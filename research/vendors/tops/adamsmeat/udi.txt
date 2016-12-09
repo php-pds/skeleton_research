@@ -1,0 +1,6 @@
+src/Adamsmeat/Udi/
+tests/
+.gitignore
+.travis.yml
+composer.json
+phpunit.xml

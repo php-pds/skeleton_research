@@ -1,0 +1,12 @@
+Config/
+Controller/
+Event/Module/
+Form/
+Hook/
+Model/Config/
+Smarty/Plugins/
+templates/
+FullCalendar.php
+LICENSE.txt
+Readme.md
+composer.json

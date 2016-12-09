@@ -1,0 +1,6 @@
+spec/
+src/Codesleeve/Generator/
+.gitignore
+.travis.yml
+README.md
+composer.json

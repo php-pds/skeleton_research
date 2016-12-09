@@ -1,0 +1,9 @@
+assets/
+json/
+.gitignore
+README.md
+composer.json
+dev_tools.class.php
+readme.txt
+screenshot-1.png
+wcm_lang_switch.class.php

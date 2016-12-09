@@ -1,0 +1,8 @@
+lib/
+.gitignore
+CHANGELOG.md
+MIT-LICENCE
+README.md
+composer.json
+fresque
+fresque.ini

@@ -1,0 +1,7 @@
+contao/
+src/
+LICENSE
+README.md
+bower.json
+build
+composer.json

@@ -1,0 +1,4 @@
+Resources/public/js/
+InnovaAngularUIPageslideBundle.php
+README.md
+composer.json

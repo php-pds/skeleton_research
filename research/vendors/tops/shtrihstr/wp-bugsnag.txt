@@ -1,0 +1,3 @@
+.gitignore
+bugsnag.php
+composer.json

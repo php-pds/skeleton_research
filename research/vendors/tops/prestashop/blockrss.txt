@@ -1,0 +1,11 @@
+img/
+translations/
+CHANGELOG.txt
+Readme.md
+blockrss.php
+blockrss.tpl
+composer.json
+config.xml
+index.php
+logo.gif
+logo.png

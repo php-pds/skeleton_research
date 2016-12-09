@@ -1,0 +1,6 @@
+DependencyInjection/
+Resources/config/
+README.md
+RedirectGenerator.php
+SculpinRedirectBundle.php
+composer.json

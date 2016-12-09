@@ -1,0 +1,6 @@
+Classes/SimplyAdmire/Neos/FormBuilderBundle/
+Configuration/
+Documentation/
+Resources/
+README.md
+composer.json

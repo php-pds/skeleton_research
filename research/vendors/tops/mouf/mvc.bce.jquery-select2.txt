@@ -1,0 +1,6 @@
+doc/images/
+icons/
+src/Mouf/MVC/BCE/Classes/Renderers/
+.gitignore
+README.md
+composer.json

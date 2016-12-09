@@ -1,0 +1,9 @@
+.gitignore
+.gitreview
+FormatNum.hooks.php
+FormatNum.i18n.magic.php
+FormatNum.i18n.php
+FormatNum.php
+LICENSE
+README
+composer.json

@@ -1,0 +1,5 @@
+src/Odesk/PhystrixDashboard/MetricsEventStream/
+.gitignore
+LICENSE
+README.md
+composer.json

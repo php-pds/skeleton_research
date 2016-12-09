@@ -1,0 +1,9 @@
+src/tad/FunctionMocker/
+tests/
+.gitignore
+README.md
+changelog.md
+composer.json
+composer.lock
+phpspec.yml
+phpunit.xml

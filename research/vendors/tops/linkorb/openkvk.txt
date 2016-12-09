@@ -1,0 +1,5 @@
+bin/
+src/OpenKvk/
+README.md
+composer.json
+composer.lock

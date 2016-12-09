@@ -1,0 +1,5 @@
+examples/
+src/Cloudmanic/Api/
+.gitignore
+README.md
+composer.json

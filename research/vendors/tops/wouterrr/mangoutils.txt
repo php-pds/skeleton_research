@@ -1,0 +1,4 @@
+classes/
+config/
+views/mango/
+composer.json

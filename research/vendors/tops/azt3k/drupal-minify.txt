@@ -1,0 +1,8 @@
+LICENSE.txt
+README.md
+README.txt
+composer.json
+minify.admin.inc
+minify.info
+minify.install
+minify.module

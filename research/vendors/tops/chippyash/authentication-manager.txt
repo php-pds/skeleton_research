@@ -1,0 +1,11 @@
+docs/
+src/Chippyash/Authentication/Manager/
+test/
+.gitignore
+.travis.yml
+LICENSE.md
+README.md
+build.sh
+codeclimate.yml
+composer.json
+phpunit.travis.xml

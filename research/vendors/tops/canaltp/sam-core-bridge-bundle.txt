@@ -1,0 +1,7 @@
+Component/
+DependencyInjection/
+Menu/
+Permission/
+Resources/config/
+CanalTPSamCoreBridgeBundle.php
+composer.json

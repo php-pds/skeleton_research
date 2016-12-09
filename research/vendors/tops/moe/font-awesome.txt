@@ -1,0 +1,13 @@
+_config/
+code/
+css/
+fonts/
+images/screens/
+js/
+.editorconfig
+.gitattributes
+.gitignore
+.scrutinizer.yml
+_config.php
+composer.json
+readme.md

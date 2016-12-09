@@ -1,0 +1,10 @@
+assets/
+controllers/
+views/task/
+.gitattributes
+.gitignore
+Dictionary.php
+Extension.php
+Module.php
+README.md
+composer.json

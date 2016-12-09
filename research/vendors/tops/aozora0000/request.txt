@@ -1,0 +1,8 @@
+src/Aozora0000/
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+composer.json

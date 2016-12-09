@@ -1,0 +1,7 @@
+assets/
+.gitignore
+README.md
+UploadAction.php
+Uploadify.php
+UploadifyAsset.php
+composer.json

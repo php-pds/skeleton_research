@@ -1,0 +1,6 @@
+docs/images/
+generators/
+LICENSE
+LICENSE.md
+README.md
+composer.json

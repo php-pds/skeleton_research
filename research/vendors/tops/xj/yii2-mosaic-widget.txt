@@ -1,0 +1,8 @@
+assets/
+.gitignore
+GPL-LICENSE.txt
+MIT-LICENSE.txt
+Mosaic.php
+MosaicAsset.php
+README.md
+composer.json

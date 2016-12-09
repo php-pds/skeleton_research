@@ -1,0 +1,5 @@
+.gitignore
+OptImage.php
+README.md
+composer.json
+license.md

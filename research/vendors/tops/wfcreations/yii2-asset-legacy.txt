@@ -1,0 +1,7 @@
+.gitignore
+ExcanvasAsset.php
+HTML5ShivAsset.php
+LICENSE
+README.md
+RespondAsset.php
+composer.json

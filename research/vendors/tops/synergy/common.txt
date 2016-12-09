@@ -1,0 +1,14 @@
+config/
+data/
+src/SynergyCommon/
+tests/SynergyCommonTest/
+.gitignore
+.travis.yml
+Module.php
+README.md
+autoload_classmap.php
+composer.json
+composer.lock
+init_autoloader.php
+phpunit.xml
+phpunit.xml.dist

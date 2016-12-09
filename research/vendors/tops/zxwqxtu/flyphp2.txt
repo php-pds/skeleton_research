@@ -1,0 +1,7 @@
+config/
+layouts/
+src/
+views/test/
+web/
+README.md
+composer.json

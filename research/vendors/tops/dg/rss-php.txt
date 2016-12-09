@@ -1,0 +1,6 @@
+src/
+composer.json
+example-atom.php
+example-rss.php
+license.md
+readme.md

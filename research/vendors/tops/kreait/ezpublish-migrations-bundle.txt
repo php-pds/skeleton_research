@@ -1,0 +1,10 @@
+src/
+.editorconfig
+.gitattributes
+.gitignore
+.php_cs
+CHANGELOG.md
+LICENSE
+README.md
+UPGRADE.md
+composer.json

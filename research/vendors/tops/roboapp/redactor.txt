@@ -1,0 +1,13 @@
+assets/
+src/
+tests/
+.editorconfig
+.gitattributes
+.gitignore
+.scrutinizer.yml
+.styleci.yml
+.travis.yml
+LICENSE.md
+README.md
+composer.json
+composer.lock

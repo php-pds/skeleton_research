@@ -1,0 +1,10 @@
+config/
+src/ModulusCache/
+tests/
+view/modulus-cache/partials/
+.gitignore
+LICENSE
+Module.php
+README.md
+autoload_classmap.php
+composer.json

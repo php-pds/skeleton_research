@@ -1,0 +1,6 @@
+StreamWrapper/
+.gitignore
+AFMAsseticAmazonS3Bundle.php
+LICENSE
+README.md
+composer.json

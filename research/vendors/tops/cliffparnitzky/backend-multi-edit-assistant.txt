@@ -1,0 +1,7 @@
+system/modules/BackendMultiEditAssistant/
+.gitattributes
+.gitignore
+README.md
+composer.json
+screenshot.jpg
+tablelayout.jpg

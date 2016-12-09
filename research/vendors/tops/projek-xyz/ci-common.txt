@@ -1,0 +1,14 @@
+asset/
+mod/
+src/
+tests/
+.editorconfig
+.gitattributes
+.gitignore
+.travis.yml
+CONDUCT.md
+CONTRIBUTING.md
+LICENSE.md
+README.md
+composer.json
+phpunit.xml

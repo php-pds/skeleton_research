@@ -1,0 +1,11 @@
+.phalcon/
+app/
+base/
+docs/
+public/
+schemas/
+.gitignore
+.htaccess
+README.md
+composer.json
+index.html

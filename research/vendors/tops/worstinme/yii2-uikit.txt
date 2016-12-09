@@ -1,0 +1,17 @@
+assets/
+web/
+widgets/
+.gitignore
+ActiveField.php
+ActiveForm.php
+Alert.php
+AliasBehavior.php
+Breadcrumbs.php
+Captcha.php
+LICENSE
+Nav.php
+NavBar.php
+README.md
+UikitAsset.php
+Widget.php
+composer.json

@@ -1,0 +1,11 @@
+Command/
+Controller/
+DependencyInjection/
+Entity/
+Installation/
+Listener/
+Manager/
+Migrations/pdo_mysql/
+Resources/
+FormaLibrePlatformAdministrationBundle.php
+composer.json

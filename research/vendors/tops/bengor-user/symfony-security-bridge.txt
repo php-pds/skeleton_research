@@ -1,0 +1,10 @@
+spec/BenGorUser/SymfonySecurityBridge/Infrastructure/Security/
+src/BenGorUser/SymfonySecurityBridge/Infrastructure/Security/
+.editorconfig
+.gitignore
+.php_cs
+.phpspec_cs
+.travis.yml
+LICENSE
+README.md
+composer.json

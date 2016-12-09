@@ -1,0 +1,8 @@
+bin/
+cmd/Task/
+distrib/
+src/CMSx/
+.gitignore
+LICENSE
+README.md
+composer.json

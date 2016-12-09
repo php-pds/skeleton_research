@@ -1,0 +1,16 @@
+Exception/
+Generator/
+Helper/
+Manager/
+Model/
+Provider/
+Tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+RouteAwareTrait.php
+composer.json
+phpunit.xml.dist

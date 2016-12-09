@@ -1,0 +1,6 @@
+assets/
+.gitignore
+GoogleAsset.php
+GooglePlaces.php
+README.md
+composer.json

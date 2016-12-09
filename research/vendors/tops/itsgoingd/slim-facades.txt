@@ -1,0 +1,6 @@
+SlimFacades/
+.gitignore
+CHANGELOG.md
+README.md
+TODO.md
+composer.json

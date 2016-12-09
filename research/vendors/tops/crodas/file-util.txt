@@ -1,0 +1,5 @@
+lib/crodas/
+tests/
+.travis.yml
+composer.json
+phpunit.xml

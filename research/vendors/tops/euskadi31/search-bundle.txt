@@ -1,0 +1,8 @@
+src/Euskadi31/Bundle/SearchBundle/
+.gitignore
+.travis.yml
+LICENSE.md
+Makefile
+README.md
+composer.json
+phpunit.xml.dist

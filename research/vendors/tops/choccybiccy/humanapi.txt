@@ -1,0 +1,12 @@
+docs/
+src/HumanApi/
+tests/HumanApi/
+.gitattributes
+.gitignore
+.travis.yml
+LICENSE
+README.md
+VERSION
+composer.json
+mkdocs.yml
+phpunit.xml

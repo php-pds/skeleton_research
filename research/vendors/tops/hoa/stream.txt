@@ -1,0 +1,11 @@
+Filter/
+IStream/
+Wrapper/
+.gitignore
+Bucket.php
+CHANGELOG.md
+Composite.php
+Context.php
+Exception.php
+Stream.php
+composer.json

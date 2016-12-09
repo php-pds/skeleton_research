@@ -1,0 +1,6 @@
+.gitignore
+README
+composer.json
+license.txt
+php-excel.class.php
+test.php

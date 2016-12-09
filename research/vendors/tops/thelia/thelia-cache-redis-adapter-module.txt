@@ -1,0 +1,6 @@
+Adapter/
+Config/
+LICENSE.txt
+Readme.md
+TheliaCacheRedisAdapter.php
+composer.json

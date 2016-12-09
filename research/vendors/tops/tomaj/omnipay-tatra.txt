@@ -1,0 +1,10 @@
+src/
+tests/TatraPay/
+.gitignore
+.travis.yml
+composer.json
+index.php
+phpunit.xml.dist
+readme.md
+test.php
+testserver.php

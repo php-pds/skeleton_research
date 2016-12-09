@@ -1,0 +1,8 @@
+.idea/
+vendor/
+.gitignore
+LICENSE
+README.md
+Test.php
+composer.json
+enforce.php

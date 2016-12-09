@@ -1,0 +1,7 @@
+Console/Command/
+Store/
+etc/
+README.md
+composer.json
+registration.php
+sample-store-structure.yaml

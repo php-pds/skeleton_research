@@ -1,0 +1,15 @@
+Controller/
+DependencyInjection/
+EventListener/
+Form/Type/
+Model/
+Resources/
+Tests/
+spec/Fourcoders/Bundle/LatchBundle/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+FourcodersLatchBundle.php
+LICENSE
+README.md
+composer.json

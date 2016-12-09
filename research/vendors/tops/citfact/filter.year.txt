@@ -1,0 +1,7 @@
+lang/ru/
+templates/.default/
+.description.php
+.parameters.php
+README.md
+component.php
+composer.json

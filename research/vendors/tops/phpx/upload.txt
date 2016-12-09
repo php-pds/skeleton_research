@@ -1,0 +1,4 @@
+src/PHPX/Upload/
+LICENSE
+README.md
+composer.json

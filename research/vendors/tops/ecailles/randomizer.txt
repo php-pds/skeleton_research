@@ -1,0 +1,16 @@
+specs/
+src/
+.coveralls.yml
+.editorconfig
+.gitattributes
+.gitignore
+.remarkignore
+.remarkrc
+LICENSE
+README.md
+apigen.neon
+circle.yml
+composer.json
+package.json
+peridot.php.dist
+phpcs.xml.dist

@@ -1,0 +1,9 @@
+Phpmodbus/
+examples/
+tests/
+tutorials/Phpmodbus/
+.hgignore
+.hgtags
+README.md
+composer.json
+license.txt

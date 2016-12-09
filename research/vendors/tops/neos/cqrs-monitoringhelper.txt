@@ -1,0 +1,5 @@
+Classes/Command/Aspect/
+Configuration/
+.styleci.yml
+Readme.md
+composer.json

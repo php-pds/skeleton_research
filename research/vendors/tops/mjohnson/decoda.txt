@@ -1,0 +1,12 @@
+docs/
+emoticons/
+examples/
+src/
+tests/
+.gitignore
+.travis.yml
+composer.json
+license.md
+phpunit.xml.dist
+readme.md
+version.md

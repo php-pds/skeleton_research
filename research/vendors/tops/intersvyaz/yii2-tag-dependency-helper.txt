@@ -1,0 +1,12 @@
+Tests/
+Traits/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+ActiveRecordCacheTags.php
+InvalidateTagBehavior.php
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml

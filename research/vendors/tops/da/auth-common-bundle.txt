@@ -1,0 +1,14 @@
+DependencyInjection/
+Exception/
+Model/
+Resources/
+Security/
+Tests/
+.gitignore
+.travis.yml
+DaAuthCommonBundle.php
+LICENSE
+README.md
+VERSION
+composer.json
+phpunit.xml.dist

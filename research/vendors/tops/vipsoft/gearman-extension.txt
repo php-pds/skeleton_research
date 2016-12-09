@@ -1,0 +1,12 @@
+doc/
+src/VIPSoft/GearmanExtension/
+tests/VIPSoft/GearmanExtension/Tests/Service/
+LICENSE
+README.md
+autoload.php
+behat-client.yml.dist
+behat-worker.yml.dist
+build.php
+composer.json
+init.php
+phpunit.xml.dist

@@ -1,0 +1,10 @@
+Config/
+Controller/
+EventListeners/
+Form/
+Hook/
+I18n/
+templates/backOffice/default/
+BoSearch.php
+Readme.md
+composer.json

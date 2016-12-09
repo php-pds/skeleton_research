@@ -1,0 +1,8 @@
+src/CotaPreco/
+tests/CotaPreco/Action/
+.gitignore
+.travis.yml
+LICENSE
+Makefile
+README.md
+composer.json

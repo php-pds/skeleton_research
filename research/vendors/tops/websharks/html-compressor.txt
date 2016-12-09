@@ -1,0 +1,16 @@
+.github/
+assets/
+phings @ 70dcec6
+src/
+tests/
+.build.props
+.gitattributes
+.gitchange
+.gitignore
+.gitmodules
+CHANGELOG.md
+LICENSE.txt
+README.md
+build.xml
+composer.json
+composer.lock

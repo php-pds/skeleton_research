@@ -1,0 +1,8 @@
+spec/
+src/
+.gitignore
+CHANGES.md
+LICENSE.MD
+README.md
+composer.json
+phpspec.yml

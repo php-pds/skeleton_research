@@ -1,0 +1,8 @@
+lib/Kcs/Doctrine/
+tests/Cache/
+travis/
+.gitignore
+.travis.yml
+LICENSE.md
+composer.json
+phpunit.xml.dist

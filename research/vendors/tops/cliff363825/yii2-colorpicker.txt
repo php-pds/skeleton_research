@@ -1,0 +1,6 @@
+assets/
+ColorPickerAsset.php
+ColorPickerWidget.php
+LICENSE
+README.md
+composer.json

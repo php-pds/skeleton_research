@@ -1,0 +1,7 @@
+languages/
+views/
+README
+composer.json
+config.ini.sample
+manifest.xml
+start.php

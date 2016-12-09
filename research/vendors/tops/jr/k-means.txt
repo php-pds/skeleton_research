@@ -1,0 +1,5 @@
+examples/
+src/JR/KMeans/
+LICENSE
+README.md
+composer.json

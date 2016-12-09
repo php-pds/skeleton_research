@@ -1,0 +1,6 @@
+classes/Controller/
+views/
+LICENSE
+README.md
+composer.json
+init.php

@@ -1,0 +1,5 @@
+Package/
+examples/
+MCAPI.class.php
+README
+composer.json

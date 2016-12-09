@@ -1,0 +1,5 @@
+Classes/
+Configuration/
+LICENSE
+README.rst
+composer.json

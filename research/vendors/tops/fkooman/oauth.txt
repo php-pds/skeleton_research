@@ -1,0 +1,12 @@
+specs/
+src/fkooman/OAuth/
+tests/fkooman/OAuth/
+.gitignore
+.travis.yml
+CHANGES.md
+COPYING
+INTEROPERABILITY.md
+README.md
+TODO.md
+composer.json
+phpunit.xml.dist

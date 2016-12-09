@@ -1,0 +1,6 @@
+src/Alc/Livebox/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json

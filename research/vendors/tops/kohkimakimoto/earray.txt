@@ -1,0 +1,10 @@
+src/Kohkimakimoto/EArray/
+tests/
+.gitignore
+.snippets
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit-ci.xml.dist
+phpunit.xml.dist

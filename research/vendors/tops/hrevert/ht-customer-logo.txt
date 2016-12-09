@@ -1,0 +1,8 @@
+config/
+src/HtCustomerLogo/
+view/ht-customer-logo/logo/
+LICENSE
+Module.php
+README.md
+autoload_classmap.php
+composer.json

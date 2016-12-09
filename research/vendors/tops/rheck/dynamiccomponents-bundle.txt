@@ -1,0 +1,3 @@
+lib/Rheck/DynamicComponentsBundle/
+README.md
+composer.json

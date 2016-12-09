@@ -1,0 +1,14 @@
+bin/
+binaries/
+img/
+specs/
+src/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+apigen.neon
+composer.json
+peridot.php

@@ -1,0 +1,3 @@
+PhInflector.php
+composer.json
+test.php

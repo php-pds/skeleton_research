@@ -1,0 +1,11 @@
+src/Finalizer/
+test/
+.gitignore
+.scrutinizer.yml
+.travis.coverage.sh
+.travis.yml
+CONTRIBUTING.md
+README.md
+composer.json
+finalizer
+phpunit.xml.dist

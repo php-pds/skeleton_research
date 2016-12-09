@@ -1,0 +1,8 @@
+src/Anthill/Phalcon/AnnotationsValidator/
+tests/Anthill/Phalcon/AnnotationsValidator/Validators/
+var/Annotations/
+.gitignore
+LICENSE
+composer.json
+composer.lock
+phpunit.xml.dist

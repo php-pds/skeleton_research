@@ -1,0 +1,11 @@
+autoloader/
+bin/
+classes/
+data/
+docs/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json

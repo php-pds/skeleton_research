@@ -1,0 +1,6 @@
+sources/
+tests/Reader/
+.gitignore
+LICENSE
+README.md
+composer.json

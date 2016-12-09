@@ -1,0 +1,14 @@
+actions/
+languages/
+lib/
+pages/
+procedures/
+vendors/
+views/default/
+.gitignore
+CHANGES.txt
+INSTALL.txt
+README.md
+composer.json
+manifest.xml
+start.php

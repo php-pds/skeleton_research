@@ -1,0 +1,9 @@
+config/
+controllers/
+migrations/
+models/
+CHANGELOG.md
+LICENSE
+ModuleUserSubscribe.php
+README.md
+composer.json

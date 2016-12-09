@@ -1,0 +1,14 @@
+bin/
+build/
+src/
+tests/
+.gitattributes
+.gitignore
+.travis.yml
+LICENSE.md
+README.md
+appveyor.yml
+box.json
+build.xml
+composer.json
+composer.lock

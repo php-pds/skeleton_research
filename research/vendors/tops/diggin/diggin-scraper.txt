@@ -1,0 +1,8 @@
+src/Diggin/Scraper/
+tests/
+README.md
+composer.json
+package.xml
+package_compatible.xml
+packagexmlsetup.php
+stub.php

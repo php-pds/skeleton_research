@@ -1,0 +1,6 @@
+Classes/TYPO3/DocTools/
+Configuration/
+Documentation/
+Resources/
+.gitignore
+composer.json

@@ -1,0 +1,11 @@
+src/
+test/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock
+data.json
+fileloader.php
+index.php
+runner.php

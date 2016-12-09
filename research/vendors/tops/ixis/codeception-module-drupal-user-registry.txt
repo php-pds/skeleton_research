@@ -1,0 +1,15 @@
+src/
+tests/
+.editorconfig
+.gitattributes
+.gitignore
+.pre-commit-config.yaml
+.travis.yml
+API.md
+LICENSE
+README.md
+RoboFile.php
+codeception.yml
+composer.json
+phpdoc.dist.xml
+ruleset.xml

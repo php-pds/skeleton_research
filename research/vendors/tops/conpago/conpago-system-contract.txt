@@ -1,0 +1,9 @@
+src/Conpago/
+.gitignore
+.hgignore
+LICENSE
+README.md
+build.xml
+composer.json
+phpcs.xml
+phpunit.xml

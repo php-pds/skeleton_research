@@ -1,0 +1,10 @@
+config/
+database/migrations/
+doc/
+public/backend/
+src/
+stubs/
+views/
+.gitignore
+README.md
+composer.json

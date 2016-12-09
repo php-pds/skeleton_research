@@ -1,0 +1,10 @@
+bin/
+src/Sensorario/KakeboEntities/
+tests/
+.gitignore
+composer.json
+composer.lock
+coverage
+phpunit.xml
+readme.md
+runtests

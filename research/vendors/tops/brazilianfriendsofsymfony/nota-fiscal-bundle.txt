@@ -1,0 +1,10 @@
+Controller/
+DependencyInjection/
+Manager/
+Model/
+Resources/
+Utils/
+.gitignore
+BFOSNotaFiscalBundle.php
+README.md
+composer.json

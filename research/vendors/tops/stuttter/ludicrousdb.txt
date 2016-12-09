@@ -1,0 +1,7 @@
+ludicrousdb/
+.gitignore
+LICENSE
+README.md
+composer.json
+ludicrousdb.php
+readme.txt

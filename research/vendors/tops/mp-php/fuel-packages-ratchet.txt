@@ -1,0 +1,9 @@
+classes/
+config/
+tasks/
+.gitignore
+README.md
+bootstrap.php
+composer.json
+composer.phar
+supervisor.conf.example

@@ -1,0 +1,15 @@
+src/
+tests/
+.editorconfig
+.gitattributes
+.gitignore
+.styleci.yml
+.travis.yml
+CHANGELOG.md
+CONTRIBUTING.md
+LICENSE.txt
+Makefile
+README.md
+circle.yml
+composer.json
+phpunit.xml.dist

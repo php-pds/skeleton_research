@@ -1,0 +1,11 @@
+docs/guide/
+tests/
+.gitattributes
+.gitignore
+.travis.yml
+Profile.php
+README.md
+User.php
+composer.json
+phpunit.local.xml
+phpunit.xml.dist

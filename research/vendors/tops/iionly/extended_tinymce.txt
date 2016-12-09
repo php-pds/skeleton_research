@@ -1,0 +1,10 @@
+css/
+languages/
+vendor/tinymce/
+views/default/
+LICENCE.txt
+README.md
+activate.php
+composer.json
+manifest.xml
+start.php

@@ -1,0 +1,4 @@
+source/
+BasicHttpAuthorizationModule.php
+LICENSE
+composer.json

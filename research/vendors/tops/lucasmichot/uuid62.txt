@@ -1,0 +1,8 @@
+src/Uuid62/
+tests/
+.gitattributes
+.gitignore
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

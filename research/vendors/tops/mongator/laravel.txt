@@ -1,0 +1,6 @@
+config/
+src/Mongator/Laravel/
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

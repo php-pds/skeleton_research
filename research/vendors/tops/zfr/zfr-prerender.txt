@@ -1,0 +1,12 @@
+config/
+src/ZfrPrerender/
+tests/
+.gitignore
+.scrutinizr.yml
+.travis.yml
+CHANGELOG.md
+LICENCE
+Module.php
+README.md
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,13 @@
+assets/OpenWeather/
+examples/
+src/
+tests/
+.coveralls.yml
+.env.dist
+.gitignore
+.travis.yml
+LICENSE
+LICENSE.md
+README.md
+composer.json
+phpunit.xml

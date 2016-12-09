@@ -1,0 +1,16 @@
+assets/
+config/
+controllers/
+environments/
+helpers/
+runtime/
+views/
+web/
+.gitignore
+.shipit
+LICENSE.md
+README.md
+composer.json
+composer.lock
+init
+yii.bat

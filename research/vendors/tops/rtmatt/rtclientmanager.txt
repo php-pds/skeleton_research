@@ -1,0 +1,11 @@
+config/
+dist/
+resources/
+src/
+tests/
+.gitignore
+composer.json
+gulpfile.js
+package.json
+packagenotes.md
+readme.md

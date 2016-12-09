@@ -1,0 +1,15 @@
+Classes/
+Configuration/
+Documentation/
+Resources/
+.bowerrc
+.gitignore
+README.rst
+bower.json
+composer.json
+ext_emconf.php
+ext_icon.png
+ext_localconf.php
+ext_tables.php
+ext_typoscript_constants.txt
+ext_typoscript_setup.txt

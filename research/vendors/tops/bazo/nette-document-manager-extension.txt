@@ -1,0 +1,4 @@
+src/Bazo/MongoDb/
+.gitignore
+README.md
+composer.json

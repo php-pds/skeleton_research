@@ -1,0 +1,6 @@
+assets/
+.gitignore
+Nestable.php
+NestableAsset.php
+README.md
+composer.json

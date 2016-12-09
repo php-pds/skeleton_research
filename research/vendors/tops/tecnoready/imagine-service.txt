@@ -1,0 +1,3 @@
+lib/Tecnoready/ImagineService/
+README.md
+composer.json

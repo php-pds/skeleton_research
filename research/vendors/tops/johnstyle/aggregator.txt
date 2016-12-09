@@ -1,0 +1,4 @@
+src/Johnstyle/Aggregator/
+LICENSE
+README.md
+composer.json

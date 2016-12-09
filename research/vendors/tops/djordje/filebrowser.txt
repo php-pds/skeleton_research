@@ -1,0 +1,7 @@
+src/Djordje/Filebrowser/
+tests/
+.gitignore
+.travis.yml
+README.md
+composer.json
+phpunit.xml

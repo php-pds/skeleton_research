@@ -1,0 +1,4 @@
+COPYING.lib
+README.md
+Snoopy.php
+composer.json

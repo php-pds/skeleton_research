@@ -1,0 +1,13 @@
+Behat/
+Controller/
+DependencyInjection/
+Doctrine/ORM/
+Form/Type/
+Model/
+Repository/
+Resources/
+Settings/
+Tests/
+Widget/Strategy/
+SymEditBlogBundle.php
+composer.json

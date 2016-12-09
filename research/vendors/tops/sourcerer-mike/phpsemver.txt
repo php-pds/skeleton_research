@@ -1,0 +1,12 @@
+bin/
+etc/
+lib/
+.gitignore
+.travis.yml
+CHANGELOG.md
+CONTRIBUTE.md
+LICENSE.md
+README.md
+composer.json
+composer.lock
+phpsemver.xml

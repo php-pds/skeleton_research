@@ -1,0 +1,9 @@
+lib/PebbleApi/
+tests/PebbleApi/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml

@@ -1,0 +1,4 @@
+contao/
+src/NotificationCenter/
+README.md
+composer.json

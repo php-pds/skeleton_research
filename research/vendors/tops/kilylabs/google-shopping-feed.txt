@@ -1,0 +1,3 @@
+src/LukeSnowden/GoogleShoppingFeed/
+README.md
+composer.json

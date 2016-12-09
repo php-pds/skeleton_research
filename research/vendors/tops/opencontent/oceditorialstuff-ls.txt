@@ -1,0 +1,10 @@
+classes/
+design/standard/
+eventtypes/event/editorialstuff/
+modules/editorialstuff/
+notification/handler/oceditorialstuffevent/
+notificationtypes/oceditorialstuff/
+settings/
+sql/
+composer.json
+readme.md

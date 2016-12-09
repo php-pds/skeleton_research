@@ -1,0 +1,8 @@
+Src/Console/
+Tests/Console/
+.gitignore
+.travis.yml
+README.md
+autoload.php
+composer.json
+phpunit.xml

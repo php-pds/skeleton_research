@@ -1,0 +1,7 @@
+assets/
+CHANGE.md
+LICENSE.md
+README.md
+TouchSpin.php
+TouchSpinAsset.php
+composer.json

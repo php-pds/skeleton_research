@@ -1,0 +1,16 @@
+Controller/
+DependencyInjection/
+Event/
+Form/
+Resources/
+Response/
+Routing/
+Templating/
+Tests/
+Twig/Extension/
+.gitignore
+LICENSE
+README.md
+XideaBaseBundle.php
+composer.json
+phpunit.xml.dist

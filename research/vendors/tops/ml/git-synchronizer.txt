@@ -1,0 +1,6 @@
+.gitignore
+Exception.php
+GitSynchronizer.php
+LICENSE
+README.md
+composer.json

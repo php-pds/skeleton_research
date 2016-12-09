@@ -1,0 +1,6 @@
+src/EhrlichAndreas/LotteryCms/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json

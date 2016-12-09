@@ -1,0 +1,7 @@
+inc/
+README.md
+composer.json
+qbdevby_developedby.php
+qbdevby_settings.php
+qbdevby_widget.php
+qobo-developedby.php

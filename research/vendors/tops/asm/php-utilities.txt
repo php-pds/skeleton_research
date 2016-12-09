@@ -1,0 +1,13 @@
+Config/
+Data/
+Test/
+Tests/
+Timer/
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+composer.json
+example.php
+phpunit.xml.dist

@@ -1,0 +1,13 @@
+src/Keyteq/Keymedia/
+tests/Keyteq/Keymedia/
+.gitignore
+.ruby-gemset
+.ruby-version
+.travis.yml
+Gemfile
+Gemfile.lock
+Guardfile
+LICENSE
+README.md
+composer.json
+phpunit.xml

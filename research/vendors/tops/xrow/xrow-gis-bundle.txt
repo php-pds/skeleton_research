@@ -1,0 +1,5 @@
+DependencyInjection/
+FieldType/
+Resources/config/
+composer.json
+xrowGisBundle.php

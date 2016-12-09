@@ -1,0 +1,9 @@
+src/fkooman/IO/
+tests/fkooman/IO/
+.gitignore
+.travis.yml
+CHANGES.md
+COPYING
+README.md
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,6 @@
+lib/Riak/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock

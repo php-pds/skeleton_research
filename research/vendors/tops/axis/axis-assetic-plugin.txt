@@ -1,0 +1,4 @@
+config/
+lib/Axis/S1/Assetic/
+README.md
+composer.json

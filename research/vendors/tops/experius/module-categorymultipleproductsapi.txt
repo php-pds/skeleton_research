@@ -1,0 +1,6 @@
+Api/
+Model/
+etc/
+README.md
+composer.json
+registration.php

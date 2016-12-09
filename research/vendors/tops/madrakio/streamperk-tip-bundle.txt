@@ -1,0 +1,13 @@
+Chain/
+Command/
+Configuration/
+DependencyInjection/
+Entity/
+EntityManagerService/
+Repository/
+Resources/config/
+TipService/
+LICENSE
+README.md
+StreamPerkTipBundle.php
+composer.json

@@ -1,0 +1,6 @@
+example/
+lib/Uzulla/QrCode/
+test/
+.gitignore
+README.md
+composer.json

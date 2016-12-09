@@ -1,0 +1,6 @@
+Classes/Scheduler/
+.gitignore
+composer.json
+ext_emconf.php
+ext_icon.gif
+ext_tables.php

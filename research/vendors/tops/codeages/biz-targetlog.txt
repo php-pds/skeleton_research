@@ -1,0 +1,12 @@
+bootstrap/
+config/
+doc/config-example/
+migrations/
+src/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json
+phpmig.php
+phpunit.xml.dist

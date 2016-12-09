@@ -1,0 +1,5 @@
+tests/
+vendors/htmLawed/
+composer.json
+manifest.xml
+start.php

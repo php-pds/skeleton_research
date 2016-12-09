@@ -1,0 +1,11 @@
+Controller/
+DependencyInjection/
+Entity/
+Model/
+Resources/
+.gitattributes
+.gitignore
+LICENSE
+README.md
+SiciarekChatBundle.php
+composer.json

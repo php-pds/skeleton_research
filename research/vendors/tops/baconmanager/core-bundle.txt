@@ -1,0 +1,12 @@
+Command/
+Controller/
+DependencyInjection/
+Entity/
+Form/Handler/
+Office/
+Resources/
+Traits/
+Twig/Extension/
+BaconCoreBundle.php
+README.md
+composer.json

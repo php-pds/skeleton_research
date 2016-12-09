@@ -1,0 +1,16 @@
+DependencyInjection/
+Document/
+Entity/
+Form/Type/
+Model/
+Resources/
+Services/
+Tests/Unit/
+Validator/Constraints/
+.gitignore
+.travis.yml
+AddressableBundle.php
+README.md
+composer.json
+phpunit.xml.dist
+screenshot.png

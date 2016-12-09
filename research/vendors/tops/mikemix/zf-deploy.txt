@@ -1,0 +1,16 @@
+bin/
+config/
+src/
+test/
+.gitignore
+.php_cs
+.travis.yml
+CONTRIBUTING.md
+LICENSE.txt
+README.md
+TODO.md
+box.json
+composer.json
+composer.lock
+phpunit.xml
+zfdeploy.phar

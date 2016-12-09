@@ -1,0 +1,11 @@
+.gitignore
+CHANGELOG.md
+README.md
+common.default.properties
+common.linux.properties
+common.mac.properties
+common.win.properties
+common.xml
+composer.json
+phpcs.xml
+phpmd.xml

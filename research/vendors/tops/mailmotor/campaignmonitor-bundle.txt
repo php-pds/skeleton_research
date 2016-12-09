@@ -1,0 +1,11 @@
+DependencyInjection/
+Gateway/
+Resources/config/
+.gitignore
+.travis.yml
+LICENSE
+MailMotorCampaignMonitorBundle.php
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

@@ -1,0 +1,6 @@
+Controller/Component/
+Test/Case/Controller/Component/
+Vendor/
+LICENSE
+README.markdown
+composer.json

@@ -1,0 +1,9 @@
+Collector/
+DependencyInjection/
+HS/
+Resources/
+.gitignore
+.travis.yml
+HandlerSocketBundle.php
+README.md
+composer.json

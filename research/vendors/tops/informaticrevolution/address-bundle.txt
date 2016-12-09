@@ -1,0 +1,15 @@
+DependencyInjection/
+Doctrine/
+Form/
+Manager/
+Model/
+Resources/
+Tests/
+Validator/Constraints/
+.gitignore
+.travis.yml
+Changelog.md
+IRAddressBundle.php
+README.md
+composer.json
+phpunit.xml.dist

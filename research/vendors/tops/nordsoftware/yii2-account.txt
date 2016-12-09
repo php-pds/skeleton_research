@@ -1,0 +1,10 @@
+scripts/
+src/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+Vagrantfile
+composer.json
+composer.lock

@@ -1,0 +1,3 @@
+src/HttpAuthExtension/
+README.md
+composer.json

@@ -1,0 +1,4 @@
+src/Adapter/
+.gitignore
+composer.json
+composer.lock

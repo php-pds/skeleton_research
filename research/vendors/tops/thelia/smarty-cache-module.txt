@@ -1,0 +1,7 @@
+Config/
+I18n/
+Smarty/
+LICENSE.txt
+Readme.md
+SmartyCache.php
+composer.json

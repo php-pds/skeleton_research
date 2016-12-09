@@ -1,0 +1,8 @@
+src/Spray/BundleIntegration/
+test/Spray/BundleIntegration/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml

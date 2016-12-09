@@ -1,0 +1,15 @@
+assets/js/
+controllers/
+messages/
+migrations/
+models/
+tests/
+views/widgets/
+.gitignore
+.travis.yml
+CoreAsset.php
+Module.php
+README.md
+codecept.phar
+codeception.yml
+composer.json

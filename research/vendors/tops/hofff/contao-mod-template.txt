@@ -1,0 +1,5 @@
+contao-module/
+src/Hofff/Contao/ModTemplate/
+.gitignore
+README.md
+composer.json

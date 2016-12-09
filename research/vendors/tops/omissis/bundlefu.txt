@@ -1,0 +1,13 @@
+lib/Drupal/
+src/DotsUnited/BundleFu/
+tests/
+.gitignore
+.travis.yml
+CHANGELOG
+LICENSE
+README.markdown
+ROADMAP.markdown
+composer.json
+package.xml
+phpunit.travis.xml
+phpunit.xml.dist

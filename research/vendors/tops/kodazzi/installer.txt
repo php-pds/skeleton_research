@@ -1,0 +1,4 @@
+src/Kodazzi/Installer/
+LICENSE
+README.md
+composer.json

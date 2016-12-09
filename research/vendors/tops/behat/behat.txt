@@ -1,0 +1,17 @@
+bin/
+features/
+src/Behat/
+tests/Behat/Tests/Testwork/Subject/
+.gitattributes
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CHANGELOG.md
+CONTRIBUTING.md
+LICENSE
+README.md
+appveyor.yml
+box.json
+composer.json
+i18n.php
+phpunit.xml.dist

@@ -1,0 +1,11 @@
+build/
+public/
+src/YAYOG/
+test/
+view/
+.gitignore
+LICENSE.txt
+README.md
+composer.json
+composer.lock
+config.php.dist

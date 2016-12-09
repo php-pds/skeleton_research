@@ -1,0 +1,5 @@
+Classes/Networkteam/SentryClient/
+Configuration/
+LICENSE.md
+README.md
+composer.json

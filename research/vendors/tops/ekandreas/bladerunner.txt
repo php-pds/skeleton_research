@@ -1,0 +1,12 @@
+src/
+tests/
+.gitattributes
+.gitignore
+.styleci.yml
+.travis.yml
+bladerunner.php
+composer.json
+phpunit.xml.dist
+plugin_globals.php
+readme.md
+readme.txt

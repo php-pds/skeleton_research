@@ -1,0 +1,8 @@
+Analyzer/
+DataCollector/
+DependencyInjection/
+Resources/
+LICENSE
+README.md
+SensioLabsDoctrineQueryStatisticsBundle.php
+composer.json

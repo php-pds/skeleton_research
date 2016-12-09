@@ -1,0 +1,7 @@
+features/
+spec/Coduo/ProfanityFilter/
+src/Coduo/ProfanityFilter/
+.gitignore
+.travis.yml
+README.md
+composer.json

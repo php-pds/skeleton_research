@@ -1,0 +1,11 @@
+src/
+tests/
+.dockerignore
+.gitignore
+.travis.yml
+Dockerfile
+README.md
+composer.json
+composer.lock
+docker-compose.yml
+phpunit.xml.dist

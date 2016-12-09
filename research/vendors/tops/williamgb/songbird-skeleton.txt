@@ -1,0 +1,7 @@
+etc/
+resources/documents/
+var/
+web/
+.env
+.gitignore
+composer.json

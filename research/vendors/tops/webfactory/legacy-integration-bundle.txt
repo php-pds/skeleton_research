@@ -1,0 +1,16 @@
+.idea/scopes/
+Controller/
+DependencyInjection/
+EventListener/
+Integration/
+Resources/
+Twig/
+.gitignore
+.hgignore
+.hgtags
+CHANGELOG.md
+LICENSE
+README.md
+UPGRADING.md
+WebfactoryLegacyIntegrationBundle.php
+composer.json

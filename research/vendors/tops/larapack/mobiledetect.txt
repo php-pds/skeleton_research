@@ -1,0 +1,7 @@
+src/Larapack/MobileDetect/
+tests/
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml

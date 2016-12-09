@@ -1,0 +1,4 @@
+src/PhalconFile/
+.gitignore
+README.md
+composer.json

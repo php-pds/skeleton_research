@@ -1,0 +1,9 @@
+Command/
+DependencyInjection/
+EventListener/
+Resources/
+Search/
+JbSearchBundle.php
+LICENSE
+README.md
+composer.json

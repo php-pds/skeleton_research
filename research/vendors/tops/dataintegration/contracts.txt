@@ -1,0 +1,4 @@
+src/DataIntegration/Contracts/
+LICENSE.md
+README.md
+composer.json

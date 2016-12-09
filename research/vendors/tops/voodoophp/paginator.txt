@@ -1,0 +1,5 @@
+examples/
+src/Voodoo/
+test/src/Voodoo/
+README.md
+composer.json

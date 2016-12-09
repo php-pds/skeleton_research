@@ -1,0 +1,13 @@
+ApplicationClasses/
+ApplicationTraits/
+Tests/
+Bootstrap.php
+BootstrapException.php
+CHANGELOG.md
+Dispatcher.php
+Environment.php
+LICENSE
+README.md
+Router.php
+composer.json
+phpunit.xml.dist

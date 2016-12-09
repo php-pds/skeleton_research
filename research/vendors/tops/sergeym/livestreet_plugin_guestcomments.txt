@@ -1,0 +1,9 @@
+classes/
+config/
+templates/
+PluginGuestcomments.class.php
+README.md
+composer.json
+create_guset_user.sql
+plugin.xml
+readme.txt

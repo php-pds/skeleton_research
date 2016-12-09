@@ -1,0 +1,12 @@
+_ide/
+assets/
+config/
+controllers/
+messages/ru/
+views/sitemap/
+CHANGELOG.md
+CmsSeoComponent.php
+CmsSeoModule.php
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,15 @@
+Cache/
+Parser/
+Tests/
+Yaml/
+misc/
+regexes/
+.coveralls.yml
+.gitattributes
+.gitignore
+.php_cs
+.travis.yml
+DeviceDetector.php
+README.md
+composer.json
+phpunit.xml.dist

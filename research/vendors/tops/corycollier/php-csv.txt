@@ -1,0 +1,10 @@
+build/
+src/
+tests/
+.coveralls.yml
+.gitignore
+.travis.yml
+README.md
+build.xml
+composer.json
+composer.phar

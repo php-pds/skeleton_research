@@ -1,0 +1,7 @@
+src/JVS3Upload/Library/
+.gitattributes
+.gitignore
+LICENSE
+Module.php
+README.md
+composer.json

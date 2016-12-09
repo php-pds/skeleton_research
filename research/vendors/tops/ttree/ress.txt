@@ -1,0 +1,5 @@
+Classes/Ttree/Ress/
+Configuration/
+Resources/Private/TypoScript/
+README.rst
+composer.json

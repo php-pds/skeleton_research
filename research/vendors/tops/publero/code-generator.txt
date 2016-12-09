@@ -1,0 +1,9 @@
+Tests/
+CodeGeneratorInterface.php
+CustomAlphabetCodeGenerator.php
+LICENSE
+Md5HashGenerator.php
+README.md
+Sha1HashGenerator.php
+composer.json
+phpunit.xml.dist

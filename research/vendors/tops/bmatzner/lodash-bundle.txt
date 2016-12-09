@@ -1,0 +1,5 @@
+Resources/public/js/
+.gitignore
+BmatznerLoDashBundle.php
+README.md
+composer.json

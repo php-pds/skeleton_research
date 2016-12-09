@@ -1,0 +1,7 @@
+Command/
+DependencyInjection/
+Resources/doc/
+.gitignore
+DoctrineMigrationsBundle.php
+README.markdown
+composer.json

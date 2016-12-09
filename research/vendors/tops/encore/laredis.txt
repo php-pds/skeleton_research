@@ -1,0 +1,6 @@
+config/
+docs/
+src/
+.scrutinizer.yml
+README.md
+composer.json

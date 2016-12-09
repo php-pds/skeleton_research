@@ -1,0 +1,7 @@
+app/
+temp/
+vendor/
+www/
+.gitignore
+composer.json
+readme.md

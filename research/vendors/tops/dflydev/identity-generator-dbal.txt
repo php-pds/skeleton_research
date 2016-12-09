@@ -1,0 +1,8 @@
+src/Dflydev/IdentityGenerator/DataStore/Dbal/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

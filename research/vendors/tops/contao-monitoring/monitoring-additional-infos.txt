@@ -1,0 +1,6 @@
+system/modules/MonitoringAdditionalInfos/
+.gitattributes
+.gitignore
+CHANGELOG.md
+README.md
+composer.json

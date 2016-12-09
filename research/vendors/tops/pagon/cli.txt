@@ -1,0 +1,4 @@
+bin/
+src/Pagon/Cli/
+.gitignore
+composer.json

@@ -1,0 +1,10 @@
+Exception/
+Tests/
+.gitignore
+.travis.yml
+Container.php
+Definition.php
+README.md
+Reference.php
+composer.json
+phpunit.xml

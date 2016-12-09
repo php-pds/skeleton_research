@@ -1,0 +1,4 @@
+UnitTests/
+src/MeadSteve/JSONer/
+README.md
+composer.json

@@ -1,0 +1,17 @@
+.reports/
+assets/workflow/designer/
+config/
+data/test/assets/
+src/Controller/
+test/phpunit/
+view/old-town/workflow-designer/
+.coveralls.yml
+.gitignore
+.php_cs
+.travis.yml
+LICENSE
+Module.php
+README.md
+composer.json
+phpunit.xml.dist
+phpunit.xml.travis

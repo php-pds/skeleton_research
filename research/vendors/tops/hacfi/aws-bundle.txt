@@ -1,0 +1,7 @@
+DependencyInjection/
+EventListener/
+Resources/config/
+LICENSE
+README.md
+composer.json
+hacfiAwsBundle.php

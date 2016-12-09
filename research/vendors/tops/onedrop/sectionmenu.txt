@@ -1,0 +1,6 @@
+Classes/Onedrop/SectionMenu/
+Configuration/
+Resources/Private/
+LICENSE
+Readme.md
+composer.json

@@ -1,0 +1,9 @@
+src/tomzx/Mathematics/
+tests/tomzx/Mathematics/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

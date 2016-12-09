@@ -1,0 +1,6 @@
+PHPUnit/
+Tests/Extensions/
+LICENSE
+README.md
+composer.json
+package.xml

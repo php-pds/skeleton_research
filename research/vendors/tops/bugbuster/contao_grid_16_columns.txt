@@ -1,0 +1,6 @@
+assets/contao/css/
+system/
+.gitignore
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,6 @@
+tests/
+LICENSE
+README.md
+YiiCacheMutex.php
+build.xml
+composer.json

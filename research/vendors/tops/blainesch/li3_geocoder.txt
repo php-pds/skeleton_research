@@ -1,0 +1,8 @@
+config/
+extensions/adapter/data/source/http/
+models/
+tests/cases/
+.gitignore
+.travis.yml
+composer.json
+composer.lock

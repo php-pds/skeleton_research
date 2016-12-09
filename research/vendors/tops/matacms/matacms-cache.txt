@@ -1,0 +1,8 @@
+caching/
+tests/
+Bootstrap.php
+Module.php
+README.md
+codeception.yml
+composer.json
+module-config.json

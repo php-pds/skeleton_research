@@ -1,0 +1,6 @@
+assets/
+.gitignore
+ExcanvasAsset.php
+LICENSE
+README.md
+composer.json

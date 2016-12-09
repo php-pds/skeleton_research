@@ -1,0 +1,10 @@
+src/Fabrika/
+tests/src/Fabrika/
+.gitignore
+.travis.yml
+README.md
+composer.json
+create_test_reports.sh
+phpunit.php
+phpunit.xml
+phpunit_travis.xml

@@ -1,0 +1,8 @@
+src/
+.editorconfig
+.gitignore
+.travis.yml
+codesniffer.ruleset.xml
+composer.json
+composer.lock
+readme.md

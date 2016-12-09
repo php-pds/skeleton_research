@@ -1,0 +1,9 @@
+NodeExpression/
+Tests/
+.gitignore
+GroupByObjectIterator.php
+LICENSE
+LambdaExtension.php
+README.md
+composer.json
+phpunit.xml.dist

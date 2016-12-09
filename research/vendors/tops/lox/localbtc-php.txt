@@ -1,0 +1,10 @@
+lib/LocalBtc/
+tests/
+.gitignore
+LICENSE.md
+README.md
+composer.json
+composer.lock
+oauth.php
+phpunit.xml.dist
+service.json

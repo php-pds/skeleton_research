@@ -1,0 +1,14 @@
+element/
+resources/messages/
+tests/
+.gitattributes
+.gitignore
+.travis.yml
+Browser.php
+Crawler.php
+LICENSE
+WebTestCase.php
+autoload.php.dist
+before_script.sh
+composer.json
+phpunit.xml.dist

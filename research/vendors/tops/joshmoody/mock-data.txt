@@ -1,0 +1,14 @@
+bin/
+data/
+src/
+tests/
+.gitignore
+.travis.yml
+LICENSE.md
+PSR2Tabs.xml
+README.md
+codesniffer
+composer.json
+examples.php
+phpunit-mysql.xml
+phpunit.xml

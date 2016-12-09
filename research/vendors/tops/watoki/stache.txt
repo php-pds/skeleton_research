@@ -1,0 +1,8 @@
+spec/watoki/stache/
+src/watoki/stache/
+.gitignore
+LICENCE
+README.md
+bootstrap.php
+composer.json
+phpunit.xml.dist

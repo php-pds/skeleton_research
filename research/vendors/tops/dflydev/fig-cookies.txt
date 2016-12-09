@@ -1,0 +1,11 @@
+src/Dflydev/FigCookies/
+tests/Dflydev/FigCookies/
+.gitattributes
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

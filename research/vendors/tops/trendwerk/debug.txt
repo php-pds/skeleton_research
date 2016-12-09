@@ -1,0 +1,4 @@
+LICENSE
+README.md
+class-tp-debug.php
+composer.json

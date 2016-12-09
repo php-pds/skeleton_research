@@ -1,0 +1,10 @@
+Classes/
+Configuration/
+Resources/
+.babelrc
+.eslintrc
+.gitignore
+LICENSE.txt
+README.md
+composer.json
+package.json

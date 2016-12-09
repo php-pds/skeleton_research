@@ -1,0 +1,6 @@
+resources/lang/
+src/
+LICENSE
+README.md
+composer.json
+composer.lock

@@ -1,0 +1,13 @@
+docs/
+example/
+library/Respect/Rest/
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CONTRIBUTING.md
+LICENSE.md
+README.md
+composer.json
+couscous.yml
+phpunit.xml.dist

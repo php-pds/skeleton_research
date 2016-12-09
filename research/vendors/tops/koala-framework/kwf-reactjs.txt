@@ -1,0 +1,6 @@
+React/Assets/
+.gitignore
+COPYING
+README.md
+composer.json
+dependencies.ini

@@ -1,0 +1,6 @@
+examples/
+src/zend-validator/
+.gitignore
+LICENSE
+README.md
+composer.json

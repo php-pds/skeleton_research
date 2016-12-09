@@ -1,0 +1,11 @@
+assets/
+controllers/
+migrations/
+models/
+views/default/
+web/
+widgets/
+.gitignore
+Module.php
+README.md
+composer.json

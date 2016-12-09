@@ -1,0 +1,6 @@
+DQL/
+Driver/
+.gitignore
+README.markdown
+SwisDatabaseExtraBundle.php
+composer.json

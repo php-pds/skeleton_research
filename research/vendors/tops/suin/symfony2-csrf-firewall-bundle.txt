@@ -1,0 +1,5 @@
+src/Suin/CSRFFirewallBundle/
+.gitignore
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,5 @@
+src/vinfo/
+.gitignore
+LICENSE.md
+composer.json
+composer.lock

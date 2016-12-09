@@ -1,0 +1,8 @@
+src/Xethron/MigrationsGenerator/
+tests/Xethron/MigrationsGenerator/
+.gitignore
+.travis.yml
+LICENSE.txt
+README.md
+composer.json
+phpunit.xml

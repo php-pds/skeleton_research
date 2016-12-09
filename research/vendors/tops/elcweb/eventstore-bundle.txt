@@ -1,0 +1,11 @@
+Command/
+Controller/
+DependencyInjection/
+Entity/
+Event/
+EventListener/
+Resources/
+.travis.yml
+ElcwebEventStoreBundle.php
+README.md
+composer.json

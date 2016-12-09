@@ -1,0 +1,6 @@
+assets/
+src/
+templates/
+views/
+.gitignore
+composer.json

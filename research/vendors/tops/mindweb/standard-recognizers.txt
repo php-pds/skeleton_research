@@ -1,0 +1,4 @@
+src/Mindweb/StandardRecognizers/
+.gitignore
+composer.json
+composer.lock

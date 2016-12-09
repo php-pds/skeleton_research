@@ -1,0 +1,5 @@
+src/Papaya/Composer/
+.gitattributes
+.gitignore
+composer.json
+composer.lock

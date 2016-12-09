@@ -1,0 +1,5 @@
+classes/
+design/standard/templates/
+modules/changeloginname/
+settings/
+composer.json

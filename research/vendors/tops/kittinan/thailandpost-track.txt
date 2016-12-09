@@ -1,0 +1,9 @@
+src/KS/THAILANDPOST/
+tests/
+.gitignore
+.gitlab-ci.yml
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,6 @@
+lib/Minify/
+.gitignore
+LICENSE
+README.md
+composer.json
+plugin.xml

@@ -1,0 +1,8 @@
+CommandBus/
+Domain/
+EventBus/
+EventDispatcher/
+EventSourcing/
+EventStore/
+Serialization/
+composer.json

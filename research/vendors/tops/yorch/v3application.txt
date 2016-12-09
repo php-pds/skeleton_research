@@ -1,0 +1,5 @@
+.gitignore
+LICENSE
+README.md
+V3Application.class.php
+composer.json

@@ -1,0 +1,8 @@
+asset/
+make/
+src/Junks/
+.gitignore
+.travis.yml
+composer.json
+index.php
+phpunit.xml

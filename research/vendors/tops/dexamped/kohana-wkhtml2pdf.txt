@@ -1,0 +1,5 @@
+classes/
+config/
+vendor/bin/
+README.md
+composer.json

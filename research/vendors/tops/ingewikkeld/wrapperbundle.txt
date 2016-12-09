@@ -1,0 +1,8 @@
+Controller/
+DependencyInjection/
+Proxy/
+Resources/config/
+.gitignore
+IngewikkeldWrapperBundle.php
+README.md
+composer.json

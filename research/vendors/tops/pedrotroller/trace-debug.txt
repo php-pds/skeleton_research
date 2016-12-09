@@ -1,0 +1,5 @@
+spec/PedroTroller/TraceDebug/
+src/PedroTroller/TraceDebug/
+.gitignore
+README.md
+composer.json

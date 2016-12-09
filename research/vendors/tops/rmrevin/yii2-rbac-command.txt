@@ -1,0 +1,10 @@
+examples/
+.gitignore
+CHANGELOG.md
+Command.php
+LICENSE
+README.md
+RbacFactory.php
+composer.json
+composer.lock
+phpunit.xml.dist

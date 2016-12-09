@@ -1,0 +1,8 @@
+src/Qubes/BucketProcessor/
+.gitattributes
+.gitignore
+README.md
+composer.json
+phpcs.xml
+phpmd.xml
+phpunit.xml.dist

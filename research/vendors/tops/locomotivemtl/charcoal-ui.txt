@@ -1,0 +1,10 @@
+build/travis/
+src/Charcoal/Ui/
+tests/
+.editorconfig
+.gitattributes
+.gitignore
+.travis.yml
+README.md
+composer.json
+phpcs.xml

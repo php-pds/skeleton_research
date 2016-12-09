@@ -1,0 +1,12 @@
+behat/
+drush/
+scripts/composer/
+.env.dist
+.gitignore
+.travis.yml
+LICENSE
+README.md
+RoboFile.php
+circle.yml
+composer.json
+phpunit.xml.dist

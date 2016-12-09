@@ -1,0 +1,12 @@
+.github/
+bin/
+config/dist/
+docs/
+src/
+templates/
+.gitignore
+LICENCE
+README.md
+composer.json
+composer.lock
+mkdocs.yml

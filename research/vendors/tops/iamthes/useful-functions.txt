@@ -1,0 +1,12 @@
+bin/
+js/
+library/
+vendors/
+views/
+.gitignore
+README
+autoload.php
+bootstrap.console.php
+composer.json
+default.php
+icon.png

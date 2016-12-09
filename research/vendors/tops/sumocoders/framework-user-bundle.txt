@@ -1,0 +1,14 @@
+Controller/
+DependencyInjection/
+Entity/
+EventListener/
+Form/
+Model/
+Resources/
+.gitignore
+.travis.yml
+CHANGELOG.md
+README.md
+SumoCodersFrameworkUserBundle.php
+composer.json
+phpunit.xml.dist

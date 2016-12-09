@@ -1,0 +1,8 @@
+data/
+tests/
+.gitignore
+BaseTransliteratorHelper.php
+LICENSE.txt
+README.md
+TransliteratorHelper.php
+composer.json

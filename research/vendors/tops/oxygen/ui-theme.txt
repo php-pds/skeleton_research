@@ -1,0 +1,17 @@
+docs/
+public/
+resources/
+src/
+tests/
+.babelrc
+.bowerrc
+.gitignore
+.travis.yml
+README.md
+bower.json
+composer.json
+gulpfile.js
+icon.png
+oxygen.md
+package.json
+phpunit.xml

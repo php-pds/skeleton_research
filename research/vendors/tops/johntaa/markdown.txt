@@ -1,0 +1,8 @@
+src/Johntaa/Markdown/
+tests/
+.gitignore
+.travis.yml
+License.md
+composer.json
+phpunit.xml
+readme.md

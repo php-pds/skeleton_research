@@ -1,0 +1,9 @@
+DependencyInjection/
+EventListener/
+Logger/
+Resources/
+Tests/Controller/
+.gitignore
+README.md
+VesaxHttpKernelLoggerBundle.php
+composer.json

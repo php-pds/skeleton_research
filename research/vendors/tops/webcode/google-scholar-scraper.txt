@@ -1,0 +1,3 @@
+src/Webcode/GoogleScholarScraper/
+.gitignore
+composer.json

@@ -1,0 +1,8 @@
+controllers/
+migrations/
+models/
+views/default/
+LICENSE
+README.md
+Rss.php
+composer.json

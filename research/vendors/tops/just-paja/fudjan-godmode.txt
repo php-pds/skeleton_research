@@ -1,0 +1,6 @@
+etc/
+lib/
+share/
+.gitignore
+README.md
+composer.json

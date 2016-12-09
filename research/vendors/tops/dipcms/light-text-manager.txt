@@ -1,0 +1,3 @@
+src/DIPcms/LightTextManager/
+README.md
+composer.json

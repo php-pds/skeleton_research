@@ -1,0 +1,4 @@
+.gitignore
+EGeoIP.php
+README.md
+composer.json

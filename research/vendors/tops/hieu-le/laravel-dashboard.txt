@@ -1,0 +1,10 @@
+assets/dist/
+config/
+src/
+tests/
+views/
+.gitignore
+LICENSE
+README.md
+composer.json
+phpunit.xml

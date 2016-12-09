@@ -1,0 +1,6 @@
+proj3e5f9e47cd31239b6fd43a772c5a75b4/
+public/
+vendor/
+README.md
+composer.json
+composer.lock

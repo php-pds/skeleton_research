@@ -1,0 +1,7 @@
+assets/tinymce/plugins/googlemaps/
+system/modules/TinyMceGoogleMaps/
+.gitattributes
+.gitignore
+README.md
+composer.json
+screenshot.jpg

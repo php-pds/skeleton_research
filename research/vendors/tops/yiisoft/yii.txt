@@ -1,0 +1,17 @@
+build/
+demos/
+docs/
+framework/
+requirements/
+tests/
+.gitattributes
+.gitignore
+.mailmap
+.travis.yml
+CHANGELOG
+CONTRIBUTING.md
+LICENSE
+README
+README.md
+UPGRADE
+composer.json

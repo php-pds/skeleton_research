@@ -1,0 +1,3 @@
+ClickatellHttp.php
+README.md
+composer.json

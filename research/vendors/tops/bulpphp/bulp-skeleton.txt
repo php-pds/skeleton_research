@@ -1,0 +1,11 @@
+app/
+bin/
+src/AppPackage/
+web/
+.env.dist
+.gitignore
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist
+puli.json

@@ -1,0 +1,13 @@
+src/
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CONTRIBUTING.md
+LICENSE
+README.md
+composer.json
+phpta
+phpta.xml
+phpta.xsd
+phpunit.xml

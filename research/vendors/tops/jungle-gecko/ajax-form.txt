@@ -1,0 +1,10 @@
+bootstrap/
+css/
+js/
+locales/
+.gitattributes
+.gitignore
+LICENSE
+README.md
+component.json
+composer.json

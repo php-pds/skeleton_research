@@ -1,0 +1,13 @@
+app/
+bin/
+log/
+temp/
+tests/
+vendor-manual/
+vendor/
+www/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.json_sample

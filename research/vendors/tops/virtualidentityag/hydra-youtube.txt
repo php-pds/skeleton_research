@@ -1,0 +1,4 @@
+src/VirtualIdentity/YoutubeBundle/
+LICENSE
+README.md
+composer.json

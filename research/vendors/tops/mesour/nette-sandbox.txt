@@ -1,0 +1,12 @@
+.idea/
+app/
+bin/
+log/
+temp/
+tests/
+www/
+.gitignore
+composer.json
+composer.lock
+copyScripts.sh
+readme.md

@@ -1,0 +1,13 @@
+Command/
+Controller/
+DependencyInjection/
+Form/
+Resources/config/
+Serializer/
+Tests/
+.gitignore
+.travis.yml
+README.md
+SimpleThingsFormSerializerBundle.php
+composer.json
+phpunit.xml.dist

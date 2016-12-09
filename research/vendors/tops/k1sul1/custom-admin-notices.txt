@@ -1,0 +1,13 @@
+assets/
+lib/
+pub/
+templates/
+.editorconfig
+.gitignore
+.travis.yml
+LICENCE
+README.md
+composer.json
+custom-admin-notices.php
+readme.txt
+uninstall.php

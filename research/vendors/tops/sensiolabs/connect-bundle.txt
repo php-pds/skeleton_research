@@ -1,0 +1,8 @@
+Collector/
+Controller/
+DependencyInjection/
+Resources/
+LICENSE
+README.md
+SensioLabsConnectBundle.php
+composer.json

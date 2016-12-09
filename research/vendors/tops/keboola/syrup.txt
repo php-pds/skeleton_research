@@ -1,0 +1,15 @@
+app/
+git/
+src/
+tests/
+web/
+.gitignore
+.travis.yml
+Capfile
+LICENSE
+README.md
+UPGRADE.md
+codeclimate.sh
+composer.json
+phpunit.xml.dist
+test.sh.template

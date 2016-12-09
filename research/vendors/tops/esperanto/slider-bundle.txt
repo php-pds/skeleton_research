@@ -1,0 +1,10 @@
+Controller/
+DependencyInjection/
+Entity/
+EventListener/
+Form/Type/
+Repository/
+Resources/
+LICENSE
+composer.json
+esperantoSliderBundle.php

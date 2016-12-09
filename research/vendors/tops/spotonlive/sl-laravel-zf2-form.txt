@@ -1,0 +1,12 @@
+build/logs/
+src/SpotOnLive/LaravelZf2Form/
+tests/
+.codeclimate.yml
+.gitignore
+.travis.yml
+LICENSE
+README.md
+codeclimate.json
+composer.json
+composer.lock
+phpunit.xml

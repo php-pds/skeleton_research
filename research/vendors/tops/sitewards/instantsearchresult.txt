@@ -1,0 +1,6 @@
+app/
+docs/
+packages/
+README.md
+composer.json
+modman

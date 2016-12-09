@@ -1,0 +1,8 @@
+i18n/
+Gravatar.i18n.magic.php
+Gravatar.i18n.php
+Gravatar.php
+Gravatar_body.php
+LICENSE
+README.md
+composer.json

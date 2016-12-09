@@ -1,0 +1,14 @@
+Command/
+DependencyInjection/
+Generator/
+Resources/
+Tests/
+.gitignore
+.travis.yml
+ItscaroCrudGeneratorBundle.php
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist
+screenshot.png

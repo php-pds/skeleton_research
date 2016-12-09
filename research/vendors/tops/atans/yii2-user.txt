@@ -1,0 +1,11 @@
+controllers/
+messages/
+migrations/
+models/
+traits/
+views/
+Bootstrap.php
+Finder.php
+Module.php
+README.md
+composer.json

@@ -1,0 +1,7 @@
+config/
+src/
+view/zend-bricks/bricks-common/partial/
+.gitignore
+LICENSE
+README.md
+composer.json

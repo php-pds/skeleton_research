@@ -1,0 +1,11 @@
+docs/
+spec/
+src/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+kahlan-config.php
+kahlan-config.travis.php

@@ -1,0 +1,7 @@
+src/CurlKit/
+tests/CurlKit/
+.gitignore
+.travis.yml
+composer.json
+phprelease.ini
+phpunit.xml

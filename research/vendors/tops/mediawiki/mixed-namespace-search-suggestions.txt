@@ -1,0 +1,14 @@
+i18n/
+resources/
+.gitignore
+.gitreview
+.jshintignore
+.jshintrc
+Gruntfile.js
+LICENSE
+MixedNamespaceSearchSuggestions.php
+README.md
+Resources.php
+composer.json
+package.json
+phpcs.xml

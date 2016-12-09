@@ -1,0 +1,15 @@
+contao/
+runonce/
+src/MetaModels/
+tests/
+.check-author.yml
+.gitignore
+.travis.yml
+CONTRIBUTORS.md
+DEPENDENCIES.md
+LICENSE.md
+README.md
+build.default.properties
+build.xml
+composer.json
+phpunit.xml.dist

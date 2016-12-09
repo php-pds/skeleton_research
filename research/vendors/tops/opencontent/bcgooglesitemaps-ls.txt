@@ -1,0 +1,7 @@
+cronjobs/
+design/standard/
+doc/
+modules/googlesitemapdynamic/
+settings/
+composer.json
+ezinfo.php

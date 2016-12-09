@@ -1,0 +1,16 @@
+Test/
+.gitignore
+.travis.yml
+Dispatcher.php
+DispatcherAwareInterface.php
+DispatcherAwareTrait.php
+DispatcherInterface.php
+Event.php
+EventInterface.php
+EventTriggerableInterface.php
+ListenerMapper.php
+ListenerPriority.php
+ListenersQueue.php
+README.md
+composer.json
+phpunit.travis.xml

@@ -1,0 +1,5 @@
+bin/
+lib/Colophon/
+.gitignore
+composer.json
+composer.lock

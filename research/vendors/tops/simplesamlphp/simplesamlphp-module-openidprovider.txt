@@ -1,0 +1,10 @@
+config-template/
+dictionaries/
+docs/
+hooks/
+lib/
+templates/
+www/
+LICENSE
+composer.json
+default-enable

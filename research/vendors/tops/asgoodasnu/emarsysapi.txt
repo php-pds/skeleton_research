@@ -1,0 +1,11 @@
+DependencyInjection/
+Models/
+Resources/config/
+Services/
+Tests/
+.gitignore
+.travis.yml
+README.md
+WkEmarsysApi.php
+composer.json
+phpunit.xml.dist

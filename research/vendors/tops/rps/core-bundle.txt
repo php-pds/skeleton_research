@@ -1,0 +1,5 @@
+Pager/
+Resources/
+README.md
+RPSCoreBundle.php
+composer.json

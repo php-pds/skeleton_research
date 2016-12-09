@@ -1,0 +1,8 @@
+src/PhpPackages/Dumpy/
+tests/
+.gitignore
+LICENSE
+Makefile
+README.md
+composer.json
+phpunit.xml.dist

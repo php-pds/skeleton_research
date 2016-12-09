@@ -1,0 +1,8 @@
+Tests/
+src/Wa72/DoctrineCacheExtensions/
+.gitignore
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist
+phpunit_bootstrap.php

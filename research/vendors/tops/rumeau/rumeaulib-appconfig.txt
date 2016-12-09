@@ -1,0 +1,9 @@
+config/
+src/RumeauLibAppConfig/
+view/rumeau-lib-app-config/config/
+.gitignore
+LICENSE
+Module.php
+README-en.md
+README.md
+composer.json

@@ -1,0 +1,8 @@
+DependencyInjection/
+Form/Type/
+Plugin/
+Resources/
+.gitignore
+EoKeyClientBundle.php
+README.md
+composer.json

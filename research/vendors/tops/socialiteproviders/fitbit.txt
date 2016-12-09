@@ -1,0 +1,3 @@
+FitbitExtendSocialite.php
+Provider.php
+composer.json

@@ -1,0 +1,14 @@
+Content/
+DependencyInjection/
+Resources/
+Tests/
+Wrapper/
+vendor/
+.gitignore
+.travis.yml
+FunstaffTikaBundle.php
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

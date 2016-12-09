@@ -1,0 +1,12 @@
+bin/
+src/cbednarski/Pharcc/
+tests/cbednarski/Pharcc/
+.gitignore
+.pharcc.yml
+.travis.yml
+LICENSE
+Makefile
+composer.json
+composer.lock
+phpunit.xml
+readme.md

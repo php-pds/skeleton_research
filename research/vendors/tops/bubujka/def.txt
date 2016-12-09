@@ -1,0 +1,9 @@
+doc/
+lib/
+tests/
+.gitignore
+README.txt
+benchmark.php
+composer.json
+load.php
+run-tests

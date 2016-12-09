@@ -1,0 +1,10 @@
+bin/
+src/GitWrapper/
+test/
+.gitignore
+.travis.yml
+Doxyfile
+LICENSE.txt
+README.md
+composer.json
+phpunit.xml

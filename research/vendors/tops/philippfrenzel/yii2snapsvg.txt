@@ -1,0 +1,6 @@
+shapes/
+CoreAsset.php
+LICENSE
+README.md
+composer.json
+yii2snapsvg.php

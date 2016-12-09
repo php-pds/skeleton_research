@@ -1,0 +1,10 @@
+core/
+exception/
+protobuf/
+template/
+utils/
+.gitignore
+IGeTui.php
+IGtBatch.php
+README.md
+composer.json

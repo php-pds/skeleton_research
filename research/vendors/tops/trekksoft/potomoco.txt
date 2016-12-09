@@ -1,0 +1,4 @@
+src/TrekkSoft/Potomoco/
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,6 @@
+_vendor/
+CHANGELOG.md
+MobileDetect.php
+README.md
+VERSION
+composer.json

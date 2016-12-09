@@ -1,0 +1,16 @@
+Go/
+Test/
+doc/
+src/
+.htaccess.dist
+LICENSE
+README.md
+autoload.php
+cmClasses.ini.dist
+composer.json
+doc.xml.dist
+doxygen.ini.dist
+go.bat
+go.php
+go.sh
+gpl.txt

@@ -1,0 +1,6 @@
+themes/lyrixx/
+.gitignore
+PaginationExtension.php
+PaginationListener.php
+README.md
+composer.json

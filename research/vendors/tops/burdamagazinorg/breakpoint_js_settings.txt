@@ -1,0 +1,11 @@
+config/schema/
+js/
+src/Form/
+.eslintignore
+.eslintrc
+.gitignore
+breakpoint_js_settings.info.yml
+breakpoint_js_settings.links.menu.yml
+breakpoint_js_settings.module
+breakpoint_js_settings.routing.yml
+composer.json

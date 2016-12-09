@@ -1,0 +1,8 @@
+docs/
+src/Klaussilveira/Simplestring/
+tests/
+.gitignore
+.travis.yml
+LICENSE.txt
+README.markdown
+composer.json

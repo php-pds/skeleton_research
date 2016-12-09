@@ -1,0 +1,12 @@
+bin/
+lib/
+tests/
+.gitattributes
+.gitignore
+.travis.yml
+LICENSE.txt
+README.md
+bob_config.php
+composer.json
+composer.lock
+phpunit.xml.dist

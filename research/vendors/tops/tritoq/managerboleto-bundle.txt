@@ -1,0 +1,10 @@
+.idea/
+Controller/
+DependencyInjection/
+Entity/
+Resources/config/
+Service/
+LICENSE
+README.md
+TritoqManagerBoletoBundle.php
+composer.json

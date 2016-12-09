@@ -1,0 +1,11 @@
+_config/
+code/
+css/
+javascript/
+lang/
+templates/Includes/
+.editorconfig
+README.md
+_config.php
+code-of-conduct.md
+composer.json

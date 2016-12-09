@@ -1,0 +1,6 @@
+SocketEvents/
+LICENSE
+README.md
+ServerSocketProvider.php
+WorkermanServer.php
+composer.json

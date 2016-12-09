@@ -1,0 +1,7 @@
+config/
+daemon/
+src/WebSocketSessionModule/
+.gitignore
+Module.php
+composer.json
+composer.lock

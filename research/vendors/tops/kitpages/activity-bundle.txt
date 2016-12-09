@@ -1,0 +1,15 @@
+Activity/
+Controller/
+DependencyInjection/
+Entity/
+Resources/
+Tests/
+.gitignore
+.travis.yml
+ActivityException.php
+KitpagesActivityBundle.php
+KitpagesActivityEvents.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

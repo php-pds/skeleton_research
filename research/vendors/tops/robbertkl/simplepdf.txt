@@ -1,0 +1,9 @@
+classes/SimplePdf/
+examples/
+.editorconfig
+.gitattributes
+.gitignore
+LICENSE
+README.md
+apigen.neon
+composer.json

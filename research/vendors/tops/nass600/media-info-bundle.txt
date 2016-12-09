@@ -1,0 +1,6 @@
+DependencyInjection/
+MediaInfo/
+Resources/config/
+Nass600MediaInfoBundle.php
+README.md
+composer.json

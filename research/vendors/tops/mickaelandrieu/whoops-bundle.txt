@@ -1,0 +1,12 @@
+DependencyInjection/
+EventListener/
+Provider/
+Resources/
+Tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+AmWhoopsBundle.php
+README.md
+composer.json
+phpunit.xml.dist

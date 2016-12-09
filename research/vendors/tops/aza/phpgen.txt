@@ -1,0 +1,12 @@
+Tests/
+examples/
+.gitignore
+.travis.yml
+CHANGELOG.md
+CustomCode.php
+IPhpGenerable.php
+LICENSE.md
+PhpGen.php
+README.md
+composer.json
+phpunit.xml.dist

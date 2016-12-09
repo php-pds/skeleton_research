@@ -1,0 +1,17 @@
+configuration/
+controllers/
+documentation/
+static/js/
+tests/
+workflow/
+.gitignore
+.ohloh
+.travis.yml
+README.markdown
+README.txt
+composer.json
+container.php
+injector.php
+manifest.yml
+phpunit.xml.dist
+rdfmapper.php

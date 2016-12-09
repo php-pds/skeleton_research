@@ -1,0 +1,5 @@
+spec/Hipache/
+src/Hipache/
+.gitignore
+README.md
+composer.json

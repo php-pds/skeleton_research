@@ -1,0 +1,12 @@
+src/SaaS/
+tests/
+.gitignore
+Dockerfile
+LICENSE
+README.md
+apigen.neon
+composer.json
+composer.lock
+pdepend.xml.dist
+phpunit.xml.dist
+phpunit.xsd

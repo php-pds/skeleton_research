@@ -1,0 +1,7 @@
+src/KzykHys/PHPCollection/
+test/KzykHys/PHPCollection/
+.gitignore
+.travis.yml
+README.md
+composer.json
+phpunit.xml.dist

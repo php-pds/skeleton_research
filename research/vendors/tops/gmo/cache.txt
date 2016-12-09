@@ -1,0 +1,5 @@
+src/
+tests/IntegrationTest/
+.gitignore
+LICENSE
+composer.json

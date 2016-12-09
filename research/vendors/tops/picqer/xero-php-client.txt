@@ -1,0 +1,6 @@
+src/
+.gitignore
+LICENSE
+README.md
+ca-bundle.crt
+composer.json

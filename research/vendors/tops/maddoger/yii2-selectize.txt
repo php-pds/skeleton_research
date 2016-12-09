@@ -1,0 +1,7 @@
+LICENSE
+README.md
+SelectizeAsset.php
+SelectizeBase.php
+SelectizeDropdownList.php
+SelectizeTextInput.php
+composer.json

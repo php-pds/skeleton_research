@@ -1,0 +1,14 @@
+Block/Adminhtml/System/Config/DimensionalWeightAttributes/
+Controller/Adminhtml/
+Helper/
+Model/
+Setup/
+etc/
+view/adminhtml/templates/system/config/dimensional_weight_attributes/
+CHANGELOG.md
+COPYING.txt
+LICENSE.txt
+LICENSE_AFL.txt
+README.md
+composer.json
+registration.php

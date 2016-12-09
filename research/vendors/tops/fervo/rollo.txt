@@ -1,0 +1,12 @@
+Parser/
+Tests/
+.gitignore
+CallOfCthulhu7EdD100Die.php
+ConstantDie.php
+DiceExpressionParser.php
+DieCollection.php
+DieInterface.php
+LICENSE
+NotUniqueException.php
+SingleDie.php
+composer.json

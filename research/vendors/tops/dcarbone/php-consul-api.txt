@@ -1,0 +1,11 @@
+docs/
+src/
+tests/DefinitionTests/
+var/logs/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.local.xml
+phpunit.xml.dist

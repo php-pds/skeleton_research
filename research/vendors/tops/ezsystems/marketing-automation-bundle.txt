@@ -1,0 +1,13 @@
+DependencyInjection/
+EventListener/
+Resources/
+Tests/
+eZ/XmlText/
+.gitignore
+.php_cs
+.travis.yml
+EzSystemsMarketingAutomationBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml

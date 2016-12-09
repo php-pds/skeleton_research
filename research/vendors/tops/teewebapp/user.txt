@@ -1,0 +1,13 @@
+Commands/
+Controllers/
+Models/
+Seeds/
+Tests/
+assets/images/
+migrations/
+.gitignore
+.travis.yml
+ServiceProvider.php
+composer.json
+module.json
+phpunit.xml

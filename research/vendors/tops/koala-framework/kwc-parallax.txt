@@ -1,0 +1,5 @@
+Kwc/Parallax/ParallaxImage/
+Parallax/Kwc/ParallaxImage/
+README.md
+composer.json
+dependencies.ini

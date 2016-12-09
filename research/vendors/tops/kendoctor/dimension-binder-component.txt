@@ -1,0 +1,4 @@
+spec/Kendoctor/Component/DimensionBinder/
+src/Kendoctor/Component/DimensionBinder/
+.gitignore
+composer.json

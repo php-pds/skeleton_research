@@ -1,0 +1,8 @@
+scripts/
+src/SepomexPhp/
+tests/Cases/
+.gitignore
+Database.md
+LICENCE
+README.md
+composer.json

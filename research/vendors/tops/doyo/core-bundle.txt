@@ -1,0 +1,8 @@
+Controller/
+DependencyInjection/
+EventListener/
+Form/
+Resources/
+Spec/Doyo/CoreBundle/Form/DataTransformer/
+DoyoCoreBundle.php
+composer.json

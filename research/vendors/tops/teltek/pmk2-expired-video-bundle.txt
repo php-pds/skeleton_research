@@ -1,0 +1,7 @@
+DependencyInjection/
+EventListener/
+Resources/
+.gitignore
+PumukitExpiredVideoBundle.php
+README.md
+composer.json

@@ -1,0 +1,9 @@
+Core/Block/
+DependencyInjection/
+Resources/
+Tests/
+.gitignore
+BusinessSliderBundle.php
+LICENSE
+autoload.json
+composer.json

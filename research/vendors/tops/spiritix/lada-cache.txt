@@ -1,0 +1,13 @@
+config/
+database/
+src/Spiritix/LadaCache/
+tests/
+.gitattributes
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+composer.json
+phpunit.xml
+provides.json

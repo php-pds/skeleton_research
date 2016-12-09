@@ -1,0 +1,8 @@
+Command/
+DependencyInjection/
+Resources/
+Twig/
+.gitignore
+GremoGoogleAnalyticsBundle.php
+README.md
+composer.json

@@ -1,0 +1,16 @@
+actions/
+behaviors/
+gii/
+grid/
+messages/
+tests/
+widgets/
+.gitattributes
+.gitignore
+.travis.yml
+ActionEvent.php
+CrudController.php
+LICENSE.md
+README.md
+composer.json
+phpunit.xml.dist

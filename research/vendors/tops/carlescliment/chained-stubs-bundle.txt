@@ -1,0 +1,4 @@
+ChainedStubsBundle/
+.gitignore
+README.md
+composer.json

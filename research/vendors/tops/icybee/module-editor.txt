@@ -1,0 +1,14 @@
+config/
+lib/
+locale/
+tests/
+.coveralls.yml
+.gitignore
+.travis.yml
+LICENSE
+Makefile
+README.md
+composer.json
+descriptor.php
+phpunit.xml.dist
+updates.php

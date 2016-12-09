@@ -1,0 +1,8 @@
+DataFixture/
+DependencyInjection/
+Purger/
+Resources/config/
+.gitignore
+StringInflector.php
+ToroFixtureBundle.php
+composer.json

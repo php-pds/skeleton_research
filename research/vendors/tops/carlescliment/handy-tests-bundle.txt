@@ -1,0 +1,8 @@
+src/BladeTester/HandyTestsBundle/
+.gitignore
+.travis.yml
+README.md
+UPGRADE-1.1.md
+bootstrap.php
+composer.json
+phpunit.xml.dist

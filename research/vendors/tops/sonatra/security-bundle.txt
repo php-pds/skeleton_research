@@ -1,0 +1,15 @@
+Configuration/
+DependencyInjection/
+Doctrine/ORM/Listener/
+Factory/
+Listener/
+Resources/
+Tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+README.md
+SonatraSecurityBundle.php
+composer.json
+composer.lock
+phpunit.xml.dist

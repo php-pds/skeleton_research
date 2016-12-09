@@ -1,0 +1,11 @@
+Controller/
+DependencyInjection/
+Entity/
+Model/
+Resources/config/
+Sender/
+.gitignore
+JhgNexmoSmsBundle.php
+LICENSE
+README.md
+composer.json

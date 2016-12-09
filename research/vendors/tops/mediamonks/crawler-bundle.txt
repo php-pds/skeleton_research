@@ -1,0 +1,12 @@
+Command/
+DependencyInjection/
+Resources/
+Tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+MediaMonksCrawlerBundle.php
+README.md
+composer.json
+phpunit.xml

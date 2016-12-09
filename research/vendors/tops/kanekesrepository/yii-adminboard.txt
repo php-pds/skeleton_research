@@ -1,0 +1,12 @@
+assets/
+components/
+controllers/
+generators/
+models/
+views/
+CCodeFile.php
+CCodeForm.php
+CCodeGenerator.php
+CCodeModel.php
+GiiModule.php
+composer.json

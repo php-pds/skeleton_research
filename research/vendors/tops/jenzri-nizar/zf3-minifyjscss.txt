@@ -1,0 +1,5 @@
+config/
+src/
+view/zf3/minifyjscss/minifyjscss/
+README.md
+composer.json

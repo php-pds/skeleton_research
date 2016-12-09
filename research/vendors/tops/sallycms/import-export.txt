@@ -1,0 +1,7 @@
+assets/
+lang/
+lib/
+views/
+boot.php
+composer.json
+globals.yml

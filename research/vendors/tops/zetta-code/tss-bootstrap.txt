@@ -1,0 +1,8 @@
+src/
+view/partial/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock
+contributors.txt

@@ -1,0 +1,11 @@
+src/
+tests/
+tools/create-phar/
+.gitattributes
+.gitignore
+.travis.yml
+appveyor.yml
+composer.json
+contributing.md
+license.md
+readme.md

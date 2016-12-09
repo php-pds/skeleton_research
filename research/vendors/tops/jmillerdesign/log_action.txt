@@ -1,0 +1,6 @@
+Config/Schema/
+Controller/
+Model/
+View/Logs/
+README.mdown
+composer.json

@@ -1,0 +1,9 @@
+DependencyInjection/
+EventListener/
+Resources/config/
+.gitignore
+HttpHeadersBundle.php
+LICENSE
+README.md
+composer.json
+humans.txt

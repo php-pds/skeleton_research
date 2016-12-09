@@ -1,0 +1,8 @@
+config/
+spec/Tchannel/LpSolver/
+src/
+.gitignore
+.travis.yml
+composer.json
+phpspec.yml
+phpunit.xml

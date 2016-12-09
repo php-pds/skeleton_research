@@ -1,0 +1,16 @@
+builds @ 6242cb1
+src/
+tests/
+.gitattributes
+.gitignore
+.gitmodules
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+apigen.neon
+composer.json
+composer.lock
+gulpfile.js
+package.json
+phpunit.xml.dist

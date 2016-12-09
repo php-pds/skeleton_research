@@ -1,0 +1,11 @@
+Context/
+Factory/
+Model/
+Repository/
+spec/
+.gitignore
+CHANGELOG.md
+LICENCE
+README.md
+composer.json
+phpspec.yml.dist

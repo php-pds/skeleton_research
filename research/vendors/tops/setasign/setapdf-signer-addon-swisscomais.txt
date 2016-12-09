@@ -1,0 +1,6 @@
+examples/
+src/SetaPDF/Signer/SwisscomAIS/
+.gitignore
+LICENSE
+README.md
+composer.json

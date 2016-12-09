@@ -1,0 +1,12 @@
+Command/
+Controller/
+DependencyInjection/
+Model/
+Resources/
+Routing/
+Tests/Controller/
+.gitignore
+BprsCommandLineBundle.php
+LICENSE
+README.md
+composer.json

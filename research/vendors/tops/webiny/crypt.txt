@@ -1,0 +1,11 @@
+Bridge/
+Tests/
+CHANGELOG.md
+Crypt.php
+CryptException.php
+CryptTrait.php
+ExampleConfig.yaml
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

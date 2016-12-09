@@ -1,0 +1,14 @@
+assets/
+components/
+controllers/
+mail/
+messages/
+migrations/
+models/
+modules/backend/
+views/
+widgets/
+BackendAuthAsset.php
+UserModule.php
+composer.json
+readme.md

@@ -1,0 +1,9 @@
+_app/
+error/
+.gitignore
+.htaccess
+README.md
+Vagrantfile
+composer.json.dist
+index.consist.php
+index.php

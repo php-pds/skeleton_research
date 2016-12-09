@@ -1,0 +1,15 @@
+Command/
+DependencyInjection/
+Resources/
+Security/
+Tests/
+.gitignore
+.travis.yml
+CONTRIBUTING.md
+EscapeWSSEAuthenticationBundle.php
+README.md
+TESTING.md
+build.properties
+build.xml
+composer.json
+phpunit.xml.dist

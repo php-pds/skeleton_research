@@ -1,0 +1,6 @@
+src/Divinityfound/GoogleDriveTree/
+tests/
+.gitignore
+.travis.yml
+README.md
+composer.json

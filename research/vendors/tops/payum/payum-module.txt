@@ -1,0 +1,12 @@
+config/
+docs/
+src/Payum/PayumModule/
+tests/
+.gitignore
+CHANGELOG.md
+LICENSE
+Module.php
+README.md
+autoload_classmap.php
+composer.json
+phpunit.xml.dist

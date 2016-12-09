@@ -1,0 +1,8 @@
+Command/
+DependencyInjection/
+Process/
+Resources/config/
+.gitignore
+BangpoundInvokerBundle.php
+README.md
+composer.json

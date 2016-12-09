@@ -1,0 +1,10 @@
+docs/en/
+sql/
+src/MetisFW/Database/Utils/
+tests/
+.gitignore
+.travis.yml
+LICENSE.md
+README.md
+autoload.php
+composer.json

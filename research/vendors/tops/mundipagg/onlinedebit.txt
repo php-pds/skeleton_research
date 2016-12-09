@@ -1,0 +1,7 @@
+data/
+examples/
+lib/
+AutoLoader.php
+README.md
+composer.json
+init.php

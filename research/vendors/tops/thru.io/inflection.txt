@@ -1,0 +1,4 @@
+Thru/Inflection/
+LICENSE
+README.md
+composer.json

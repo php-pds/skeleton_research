@@ -1,0 +1,15 @@
+assets/
+inc/
+languages/
+tests/
+widgets/
+.gitignore
+.travis.yml
+Gruntfile.js
+LICENSE
+README.md
+composer.json
+composer.lock
+package.json
+phpunit.xml
+proteuswidgets.php

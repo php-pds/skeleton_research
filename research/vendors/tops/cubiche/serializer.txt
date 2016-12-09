@@ -1,0 +1,12 @@
+Exception/
+Tests/
+.atoum.php
+.atoum.travis.php
+.bootstrap.atoum.php
+.travis.yml
+AbstractSerializer.php
+DefaultSerializer.php
+README.md
+SerializableInterface.php
+SerializerInterface.php
+composer.json

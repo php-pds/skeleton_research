@@ -1,0 +1,11 @@
+src/LIN3S/SharedKernel/
+tests/
+.editorconfig
+.gitignore
+.php_cs
+.phpspec_cs
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpspec.yml

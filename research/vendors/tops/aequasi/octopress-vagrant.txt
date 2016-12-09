@@ -1,0 +1,5 @@
+_vagrant_setup/
+composer/bin/
+README.md
+Vagrantfile
+composer.json

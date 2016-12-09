@@ -1,0 +1,15 @@
+.idea/
+Controller/
+DependencyInjection/
+Lib/
+Model/B2b/
+Resources/config/
+Tests/
+docs/
+.gitignore
+.travis.yml
+README.md
+WkDhlApiBundle.php
+composer.json
+phpdox.xml
+phpunit.xml.dist

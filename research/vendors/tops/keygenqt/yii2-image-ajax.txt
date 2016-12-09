@@ -1,0 +1,10 @@
+assets/
+screenshot/
+views/
+.gitignore
+ActiveAssets.php
+BowerAssets.php
+ImageAjax.php
+LICENSE.md
+README.md
+composer.json

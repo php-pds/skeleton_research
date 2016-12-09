@@ -1,0 +1,11 @@
+.gitignore
+ClassLoaderInterface.php
+FactoryInterface.php
+LICENSE
+LocatorInterface.php
+MapInterface.php
+NamespaceInterface.php
+README.md
+ResourceInterface.php
+SchemeInterface.php
+composer.json

@@ -1,0 +1,11 @@
+app/
+build/
+csv/
+src/KzykHys/ZipFinder/
+.gitattributes
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock
+index.php

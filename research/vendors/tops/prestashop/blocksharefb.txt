@@ -1,0 +1,10 @@
+translations/
+CHANGELOG.txt
+Readme.md
+blocksharefb.php
+blocksharefb.tpl
+composer.json
+config.xml
+index.php
+logo.gif
+logo.png

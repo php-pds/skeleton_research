@@ -1,0 +1,10 @@
+config/
+html2pdf/
+src/html2pdf/Service/
+.gitattributes
+.gitignore
+Module.php
+autoload_classmap.php
+autoload_function.php
+autoload_register.php
+composer.json

@@ -1,0 +1,8 @@
+Tests/
+src/
+thrift/
+.gitignore
+Makefile
+README.md
+composer.json
+phpunit.xml.dist
