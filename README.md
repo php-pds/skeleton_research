@@ -9,7 +9,8 @@ that topic:
 - https://code.tutsplus.com/tutorials/organize-your-next-php-project-the-right-way--net-5873
 - https://github.com/bdunn313/php-project-skeleton
 - https://github.com/johnkary/skeleton
-- https://github.com/koriym/PHP.Skeleton
+- https://github.com/koriym/Koriym.PhpSkeleton
+- https://github.com/thephpleague/skeleton
 - https://github.com/zendframework/ZendSkeletonApplication
 - https://groups.google.com/forum/#!msg/php-fig/qinsV68M-DI/AF2PUGT7HQAJ
 - https://www.sitepoint.com/community/t/php-web-project-directory-structure/5240
