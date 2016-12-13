@@ -8,6 +8,7 @@ that topic:
 
 - https://code.tutsplus.com/tutorials/organize-your-next-php-project-the-right-way--net-5873
 - https://github.com/bdunn313/php-project-skeleton
+- https://github.com/imarc/php-package
 - https://github.com/johnkary/skeleton
 - https://github.com/koriym/Koriym.PhpSkeleton
 - https://github.com/thephpleague/skeleton
@@ -21,11 +22,11 @@ between them, so as to discern what they each use for directory and file names.
 This research started with the idea that there was a common need for the
 following kinds of files in a package:
 
-- a directory for PHP source code
-- a directory for test files
-- a directory for documentation files
-- a directory for command-line executable files
-- a directory for a web document root,
+- a directory for PHP source code,
+- a directory for test files,
+- a directory for documentation files,
+- a directory for command-line executable files,
+- a directory for files to be served on the web,
 - a README file, and
 - a LICENSE file.
 
