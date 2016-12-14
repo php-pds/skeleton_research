@@ -14,6 +14,7 @@ that topic:
 - https://github.com/thephpleague/skeleton
 - https://github.com/zendframework/ZendSkeletonApplication
 - https://groups.google.com/forum/#!msg/php-fig/qinsV68M-DI/AF2PUGT7HQAJ
+- https://wiki.php.net/pear/rfc/pear2_standards#directory_structure
 - https://www.sitepoint.com/community/t/php-web-project-directory-structure/5240
 
 Thus, the motivation is to examine existing PHP packages and find commonalities
@@ -60,7 +61,7 @@ naming standards.
 
 ### Collection
 
-1. Get the list of all packages on Packagist (cf. `results/list.json`).
+1. Get the list of all packages on Packagist (cf. [`results/list.json`](./results/list.json)).
 
 2. Parse the list to find all vendors with at least 4 packages; having at least
    4 implies a minimum level of experience and practice with building and
