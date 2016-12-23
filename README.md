@@ -47,8 +47,8 @@ bin/              # command-line files
 config/           # configuration files
 docs/             # documentation files
 public/           # web files
-src/              # PHP source files
 resources/        # other resource files
+src/              # PHP source files
 tests/            # test files
 CHANGELOG(.*)     # change notes
 CONTRIBUTING(.*)  # contribution guidelines
@@ -279,8 +279,8 @@ bin/              # command-line files
 config/           # configuration files
 docs/             # documentation files
 public/           # web files
-src/              # PHP source code files
 resources/        # other resource files
+src/              # PHP source code files
 tests/            # test files
 CHANGELOG(.*)     # change notes
 CONTRIBUTING(.*)  # contribution guidelines
