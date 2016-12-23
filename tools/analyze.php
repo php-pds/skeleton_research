@@ -22,6 +22,7 @@ class Analyze
     const CONTRIBUTING_FILE = 'contribution guidelines file';
     const CHANGELOG_FILE = 'changes file';
     const OTHER_FILE = 'other files';
+    const RES_DIR = 'resources directory';
 
     protected $baseDir;
     protected $topsDir;
@@ -237,13 +238,13 @@ class Analyze
             return false;
         }
 
+        if (isset($this->dirGroups[$dirName])) {
+            return $this->dirGroups[$dirName];
+        }
+
         $char = substr($dirName, 0, 1);
         if ($char === strtoupper($char)) {
             return false;
-        }
-
-        if (isset($this->dirGroups[$dirName])) {
-            return $this->dirGroups[$dirName];
         }
 
         return self::OTHER_DIR;
@@ -333,13 +334,9 @@ class Analyze
         'manual/' => self::DOCS_DIR,
         'documentation/' => self::DOCS_DIR,
         'usage/' => self::DOCS_DIR,
-        'examples/' => self::DOCS_DIR,
-        'example/' => self::DOCS_DIR,
         'doc/' => self::DOCS_DIR,
         'guide/' => self::DOCS_DIR,
         'phpdoc/' => self::DOCS_DIR,
-        'samples/' => self::DOCS_DIR,
-        'sample/' => self::DOCS_DIR,
 
         'src/' => self::SRC_DIR,
         'exception/' => self::SRC_DIR,
@@ -404,6 +401,14 @@ class Analyze
         'configs/'=> self::CONFIG_DIR,
         '_config/'=> self::CONFIG_DIR,
         'conf/'=> self::CONFIG_DIR,
+
+        'Resources/' => self::RES_DIR,
+        'resources/' => self::RES_DIR,
+        'res/' => self::RES_DIR,
+        'resource/' => self::RES_DIR,
+        'Resource/' => self::RES_DIR,
+        'ressources/' => self::RES_DIR,
+        'Ressources/' => self::RES_DIR,
     ];
 
     protected $fileGroups = [

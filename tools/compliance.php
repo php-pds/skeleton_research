@@ -24,6 +24,7 @@ foreach ($vendors as $vendor) {
             && checkDocs($lines)
             && checkPublic($lines)
             && checkSrc($lines)
+            && checkResources($lines)
             && checkTests($lines)
             && checkVendor($lines)
             && checkChangelog($lines)
@@ -161,13 +162,9 @@ function checkDocs($lines)
         'manual/',
         'documentation/',
         'usage/',
-        'examples/',
-        'example/',
         'doc/',
         'guide/',
         'phpdoc/',
-        'samples/',
-        'sample/',
     ]);
 }
 
@@ -236,5 +233,17 @@ function checkTests($lines)
         'unit-tests/',
         'phpunit/',
         'testing/',
+    ]);
+}
+
+function checkResources($lines)
+{
+    return checkDir($lines, 'resources/', [
+        'Resources/',
+        'res/',
+        'resource/',
+        'Resource/',
+        'ressources/',
+        'Ressources/',
     ]);
 }

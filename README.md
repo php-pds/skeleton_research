@@ -31,10 +31,11 @@ following kinds of files in a package:
 - a README file, and
 - a LICENSE file.
 
-On examining project packages, some additional common directories and files
-were noted:
+On examining project packages, and after the public review period, some
+additional common directories and files were noted:
 
-- a directory for configurations,
+- a directory for configuration files,
+- a directory for resource files,
 - a CONTRIBUTING file, and
 - a CHANGELOG file.
 
@@ -46,7 +47,8 @@ bin/              # command-line files
 config/           # configuration files
 docs/             # documentation files
 public/           # web files
-src/              # source files
+src/              # PHP source files
+resources/        # other resource files
 tests/            # test files
 CHANGELOG(.*)     # change notes
 CONTRIBUTING(.*)  # contribution guidelines
@@ -54,7 +56,7 @@ LICENSE(.*)       # licensing information
 README(.*)        # read-me-first file
 ```
 
-Of the collected packages, 72% of them appear to already comply with these
+Of the collected packages, 69% of them appear to already comply with these
 naming standards.
 
 ## Methodology
@@ -177,14 +179,14 @@ Results:
 - [results/03-dirs.txt](./results/03-dirs.txt)
 - [results/03-files.txt](./results/03-files.txt)
 
-The final set of categories was:
+The resulting set of categories was:
 
 - Directories:
     - PHP source code files (67% of packages)
     - Test files for that source code (38% of packages)
     - Files intended to be publicly available via a web server (13% of packages)
+    - Configuration files (11% of packages)
     - Documentation files (10% of packages)
-    - Configuration files (9% of packages)
     - Files intended for execution at the command line (5% of packages)
 - Files:
     - a "read me first" file (90% of packages)
@@ -227,6 +229,44 @@ As such:
 - Instead of requiring or forbidding a filename extension, allow for any
   filename extension, or none at all.
 
+#### Fifth Pass
+
+This pass re-runs the analysis to incorporate feedback from the public review
+period:
+
+- Some reviewers pointed out that the `Resources/` directory, which appears as
+  the 3rd-most common directory name, is not a PHP namespace directory (despite
+  the fact that it starts with a capital letter).
+
+- Other reviewers opined that `examples/` and `samples/` (and their variations)
+  are not documentation per se, and do not properly belong in the `docs/`
+  category.
+
+Results:
+
+- [results/05-dirs.txt](./results/05-dirs.txt)
+- (No changes to the file listing)
+
+That gave the following set of categories:
+
+- Directories:
+    - PHP source code files (67% of packages)
+    - Test files for that source code (38% of packages)
+    - Files intended to be publicly available via a web server (13% of packages)
+    - Resource files (12% of packages)
+    - Configuration files (11% of packages)
+    - Documentation files (6% of packages)
+    - Files intended for execution at the command line (5% of packages)
+- Files:
+    - a "read me first" file (90% of packages)
+    - a licensing or copyright file (58% of packages)
+    - a file of change notes (13% of packages)
+    - a "contribution guidelines" file (7% of packages)
+
+The most common name for a directory of resource files is `Resources/`. However,
+for consistency with the other directory names, this report recommends the
+lower-case form (which is the second-most frequent use).
+
 ## Conclusion
 
 ### Recommendation
@@ -239,7 +279,8 @@ bin/              # command-line files
 config/           # configuration files
 docs/             # documentation files
 public/           # web files
-src/              # source files
+src/              # PHP source code files
+resources/        # other resource files
 tests/            # test files
 CHANGELOG(.*)     # change notes
 CONTRIBUTING(.*)  # contribution guidelines
@@ -253,7 +294,7 @@ files of these categories, they should use the names listed.
 
 ### Current Compliance
 
-Of the 65617 packages in the sample, 47395 (72%) of them appear compliant with
+Of the 65617 packages in the sample, 45191 (69%) of them appear compliant with
 the above recommendation.
 
 Results: [compliance.txt](./results/compliance.txt)
