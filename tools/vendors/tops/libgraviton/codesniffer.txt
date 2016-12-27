@@ -1,0 +1,5 @@
+Sniffs/
+CHANGELOG.md
+README.rdoc
+composer.json
+ruleset.xml

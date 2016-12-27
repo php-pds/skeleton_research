@@ -1,0 +1,11 @@
+bin/
+spec/Technodelight/
+src/Technodelight/
+.editorconfig
+.gitignore
+.scrutinizer.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+phpspec.yml

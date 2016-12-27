@@ -1,0 +1,4 @@
+.gitignore
+Quickpay.php
+README.md
+composer.json

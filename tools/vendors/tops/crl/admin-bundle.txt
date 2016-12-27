@@ -1,0 +1,10 @@
+Controller/
+Database/
+DependencyInjection/
+Resources/
+Tests/
+.travis.yml
+CRLAdminBundle.php
+README.md
+composer.json
+phpunit.xml.dist

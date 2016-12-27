@@ -1,0 +1,7 @@
+js/admin/
+locale/
+.gitignore
+LICENSE
+bootstrap.php
+composer.json
+icon.svg

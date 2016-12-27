@@ -1,0 +1,11 @@
+doc/
+js-tests/
+js/
+src/
+tests/
+.gitattributes
+.gitignore
+composer.json
+license.txt
+phpunit.xml
+readme.md

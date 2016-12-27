@@ -1,0 +1,10 @@
+docs/
+src/
+.gitignore
+.tags1
+LICENSE
+README.md
+circle.yml
+composer.json
+composer.lock
+phpunit.xml

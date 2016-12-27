@@ -1,0 +1,5 @@
+assets/
+classes/PHPixie/
+LICENSE
+README.md
+composer.json

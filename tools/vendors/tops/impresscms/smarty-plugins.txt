@@ -1,0 +1,5 @@
+icms_plugins/
+.gitignore
+LICENSE
+README.md
+composer.json

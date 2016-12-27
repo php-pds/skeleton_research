@@ -1,0 +1,15 @@
+bin/
+build/
+config-templates/
+docs/
+lib/
+test/
+.gitignore
+LICENSE
+README.md
+build.xml
+composer.json
+composer.lock
+default-disable
+phpdox.xml.dist
+phpunit.xml.dist

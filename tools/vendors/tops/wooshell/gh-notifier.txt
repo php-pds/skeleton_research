@@ -1,0 +1,8 @@
+bin/
+logs/
+src/wooshell/ghnotifier/
+.gitignore
+README.md
+box.json
+composer.json
+composer.lock

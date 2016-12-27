@@ -1,0 +1,11 @@
+classes/
+plugins/
+readmes/
+.gitignore
+LICENSE
+QUERY_BOT.php
+README.md
+VAR_BOT.php
+composer.json
+config.php
+index.php

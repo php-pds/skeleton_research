@@ -1,0 +1,10 @@
+Resources/config/
+Service/
+Tests/
+.scrutinizer.yml
+.travis.yml
+IzbergBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

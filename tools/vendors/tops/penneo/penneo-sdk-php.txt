@@ -1,0 +1,11 @@
+docker/
+docs/
+features/
+scripts/
+src/
+.gitignore
+.travis.yml
+README.md
+behat.yml
+composer.json
+license.txt

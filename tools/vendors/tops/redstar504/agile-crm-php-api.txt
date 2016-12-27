@@ -1,0 +1,9 @@
+CurlLib/
+Tester/
+.gitignore
+AgileCRMapi.png
+README.md
+composer.json
+composer.lock
+index.php
+phpunit.xml

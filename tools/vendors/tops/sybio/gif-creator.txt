@@ -1,0 +1,3 @@
+src/GifCreator/
+README.md
+composer.json

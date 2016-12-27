@@ -1,0 +1,17 @@
+bin/
+cache/
+doc/
+library/Amun/
+public/
+scripts/
+service/
+template/default/
+tests/
+.gitignore
+.travis.yml
+README.md
+changelog.txt
+composer.json
+configuration.php
+phpunit.xml
+todo.txt

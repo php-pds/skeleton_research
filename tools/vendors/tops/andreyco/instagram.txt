@@ -1,0 +1,7 @@
+example/
+src/
+.gitignore
+COSENARY
+README.markdown
+composer.json
+license.txt

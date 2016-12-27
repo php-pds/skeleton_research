@@ -1,0 +1,6 @@
+src/Bazaar/
+words/
+.gitignore
+LICENSE.txt
+composer.json
+readme.md

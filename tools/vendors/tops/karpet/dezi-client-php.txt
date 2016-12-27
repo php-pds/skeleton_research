@@ -1,0 +1,9 @@
+lib/
+t/
+.gitignore
+Changes
+LICENSE
+Makefile
+README.md
+composer.json
+composer.lock

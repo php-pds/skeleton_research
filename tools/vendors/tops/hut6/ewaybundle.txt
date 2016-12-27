@@ -1,0 +1,10 @@
+Client/
+Controller/
+DependencyInjection/
+Resources/
+Tests/Controller/
+.gitignore
+EwayPaymentBundle.php
+LICENSE
+README.md
+composer.json

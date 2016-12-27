@@ -1,0 +1,15 @@
+bin/
+includes/
+languages/
+tests/
+vendor/
+.gitignore
+.travis.yml
+Gruntfile.js
+LICENSE
+additional-content.php
+composer.json
+package.json
+phpunit.xml
+readme.md
+readme.txt

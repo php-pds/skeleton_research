@@ -1,0 +1,11 @@
+app/
+bin/
+log/
+migrations/
+public/
+temp/
+.gitignore
+README.md
+cli-config.php
+composer.json
+composer.lock

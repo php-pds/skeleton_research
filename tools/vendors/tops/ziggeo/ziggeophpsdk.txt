@@ -1,0 +1,8 @@
+classes/
+demos/
+.gitignore
+LICENSE.md
+README.md
+Ziggeo.php
+composer.json
+composer.lock

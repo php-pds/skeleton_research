@@ -1,0 +1,13 @@
+bin/
+demo/
+spec/
+src/
+.gitignore
+.php_cs
+.travis.yml
+LICENSE
+README.md
+autoload.php
+composer.json
+composer.lock
+phpspec.yml

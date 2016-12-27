@@ -1,0 +1,5 @@
+example/
+src/
+vendor/
+composer.json
+composer.lock

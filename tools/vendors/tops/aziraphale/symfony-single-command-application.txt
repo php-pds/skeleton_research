@@ -1,0 +1,7 @@
+examples/
+.gitignore
+LICENSE
+README.md
+SingleCommandApplication.php
+composer.json
+composer.lock

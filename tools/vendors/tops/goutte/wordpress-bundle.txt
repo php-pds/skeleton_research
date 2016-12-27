@@ -1,0 +1,12 @@
+DependencyInjection/
+Entity/
+Repository/
+Resources/config/
+Subscriber/
+Tests/
+Types/
+GoutteWordpressBundle.php
+README.markdown
+composer.json
+phpunit.xml
+phpunit.xml.dist

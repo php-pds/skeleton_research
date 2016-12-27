@@ -1,0 +1,11 @@
+spec/
+src/
+.gitignore
+Dockerfile
+LICENSE
+README.md
+composer.json
+composer.lock
+docker-compose.yml
+phpspec.yml
+phpunit.xml

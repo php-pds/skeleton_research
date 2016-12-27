@@ -1,0 +1,9 @@
+.idea/
+.gitignore
+Client.php
+Google.php
+Ping.php
+Pingable.php
+README.MD
+Yandex.php
+composer.json

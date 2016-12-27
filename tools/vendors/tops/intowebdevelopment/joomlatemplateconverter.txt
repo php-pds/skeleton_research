@@ -1,0 +1,9 @@
+doc/
+lib/vendor/Symfony/Component/
+src/IntoWebDevelopment/Converter/
+.gitmodules
+LICENSE
+README.md
+check.php
+composer.json
+convert.php

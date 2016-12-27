@@ -1,0 +1,7 @@
+src/validator-docs/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json
+phpunit.xml

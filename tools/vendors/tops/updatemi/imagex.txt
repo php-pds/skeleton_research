@@ -1,0 +1,6 @@
+src/Imagex/
+.gitignore
+LICENSE
+README.md
+composer.json
+imagex.php

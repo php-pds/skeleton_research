@@ -1,0 +1,4 @@
+src/Navi/
+README.md
+composer.json
+sqlnet.log

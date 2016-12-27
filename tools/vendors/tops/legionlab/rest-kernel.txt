@@ -1,0 +1,9 @@
+Collections/
+Development/
+Persistence/
+Router/
+.gitignore
+.htaccess
+Core.php
+composer.json
+composer.lock

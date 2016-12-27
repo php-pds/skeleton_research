@@ -1,0 +1,12 @@
+Command/
+DependencyInjection/
+Resources/config/
+Services/
+Tests/Services/
+.gitignore
+MickadooBaseDataBundle.php
+README.md
+composer.json
+composer.lock
+composer.phar
+phpunit.xml

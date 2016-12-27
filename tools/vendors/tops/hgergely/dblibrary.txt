@@ -1,0 +1,6 @@
+DBConfig/
+src/dblibrary/
+.gitignore
+README.md
+composer.json
+testLib.php

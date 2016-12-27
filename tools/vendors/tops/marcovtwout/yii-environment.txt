@@ -1,0 +1,7 @@
+example-config/
+example-index/
+CHANGELOG.md
+Environment.php
+ExampleEnvironment.php
+README.md
+composer.json

@@ -1,0 +1,5 @@
+src/
+tests/
+README.MD
+composer.json
+phpunit.xml

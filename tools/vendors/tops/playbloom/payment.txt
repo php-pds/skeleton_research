@@ -1,0 +1,9 @@
+src/Playbloom/Payment/
+tests/
+.atoum.php.ci
+.atoum.php.dist
+.gitignore
+.travis.yml
+README.md
+composer.json
+licence

@@ -1,0 +1,11 @@
+Balance/
+DependencyInjection/
+Document/
+Manager/
+Resources/config/
+spec/CometCult/CreditsBundle/
+.gitignore
+.travis.yml
+CometCultCreditsBundle.php
+README.md
+composer.json

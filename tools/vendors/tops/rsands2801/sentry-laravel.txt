@@ -1,0 +1,15 @@
+examples/
+src/
+test/
+.gitattributes
+.gitignore
+.php_cs
+.travis.yml
+AUTHORS
+CHANGES
+LICENSE
+Makefile
+README.md
+composer.json
+phpunit.xml
+provides.json

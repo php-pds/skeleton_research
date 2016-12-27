@@ -1,0 +1,6 @@
+lib/
+tests/Roadie/Modifier/
+.gitignore
+composer.json
+composer.lock
+phpunit.xml.dist

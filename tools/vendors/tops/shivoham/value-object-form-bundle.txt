@@ -1,0 +1,8 @@
+DependencyInjection/
+Form/Extension/
+Resources/config/
+.gitignore
+LICENSE
+README.md
+ValueObjectFormBundle.php
+composer.json

@@ -1,0 +1,4 @@
+bin/
+src/PoParser/
+composer.json
+readme.md

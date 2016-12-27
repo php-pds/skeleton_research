@@ -1,0 +1,6 @@
+lib/AwsCloudSearch/
+samples/
+.gitignore
+LICENSE.txt
+README.md
+composer.json

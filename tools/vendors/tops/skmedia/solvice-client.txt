@@ -1,0 +1,10 @@
+docs/
+src/Solvice/
+tests/
+.gitignore
+.php_cs
+LICENSE
+composer.json
+composer.lock
+phpunit.xml.dist
+readme.md

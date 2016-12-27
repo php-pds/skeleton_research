@@ -1,0 +1,7 @@
+src/
+tests/Functional/
+.gitignore
+README.md
+composer.json
+composer.lock
+phpunit.xml

@@ -1,0 +1,6 @@
+DependencyInjection/
+Resources/config/
+Client.php
+README.md
+SnowcapMailjetBundle.php
+composer.json

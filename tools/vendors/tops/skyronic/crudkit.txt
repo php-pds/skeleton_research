@@ -1,0 +1,13 @@
+demo/
+src/
+tests/
+.bowerrc
+.gitignore
+Gruntfile.js
+LICENSE
+README.md
+bower.json
+composer.json
+crudkit.php
+package.json
+phpunit.xml

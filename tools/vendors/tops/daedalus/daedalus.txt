@@ -1,0 +1,15 @@
+bin/
+build/
+docs/
+src/Daedalus/
+tests/Daedalus/Command/
+.coveralls.yml
+.gitignore
+.travis.yml
+CHANGELOG
+CONTRIBUTING.md
+LICENSE
+README.md
+build.yml
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,13 @@
+config/
+docker/
+src/Core/
+web/
+.codeclimate.yml
+.gitignore
+.travis.yml
+Dockerfile
+README.md
+app.php
+composer.json
+composer.lock
+phpunit.xml.dist

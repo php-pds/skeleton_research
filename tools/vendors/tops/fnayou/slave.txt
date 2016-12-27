@@ -1,0 +1,6 @@
+src/Slave/
+.editorconfig
+.gitignore
+README.md
+composer.json
+composer.lock

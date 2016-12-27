@@ -1,0 +1,13 @@
+Controller/
+DependencyInjection/
+Form/
+Manager/
+Model/
+Resources/
+Util/
+.gitignore
+LICENSE
+TannaUserBundle.php
+TannaUserBundleEvents.php
+composer.json
+composer.lock

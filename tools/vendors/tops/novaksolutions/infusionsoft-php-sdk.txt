@@ -1,0 +1,7 @@
+Infusionsoft/
+TestMocks/Infusionsoft/
+.gitignore
+MIT-LICENSE.txt
+README.md
+composer.json
+example.php

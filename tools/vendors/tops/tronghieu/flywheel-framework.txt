@@ -1,0 +1,7 @@
+.idea/scopes/
+src/Flywheel/
+tests/Captcha/
+.gitignore
+README.md
+composer.json
+config.example

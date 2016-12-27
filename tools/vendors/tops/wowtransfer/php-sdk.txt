@@ -1,0 +1,6 @@
+src/Wowtransfer/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json

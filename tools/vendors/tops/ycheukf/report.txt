@@ -1,0 +1,6 @@
+config/
+src/Report/
+.gitignore
+Module.php
+README.md
+composer.json

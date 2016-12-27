@@ -1,0 +1,7 @@
+cgi-bin/
+public_html/
+resources/library/
+.gitignore
+LICENSE.md
+README.md
+composer.json

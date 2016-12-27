@@ -1,0 +1,10 @@
+public/
+src/
+tests/
+.gitignore
+ads.js
+composer.json
+index.php
+phpunit.xml
+readme.md
+useradapted.js

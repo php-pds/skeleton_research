@@ -1,0 +1,7 @@
+config/
+lib/
+t/Debug_ErrorHook/
+.gitignore
+.htaccess
+README.txt
+composer.json

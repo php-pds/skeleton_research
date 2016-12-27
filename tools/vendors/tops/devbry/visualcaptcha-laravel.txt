@@ -1,0 +1,6 @@
+example/
+src/visualCaptcha/
+.gitignore
+LICENSE
+README.md
+composer.json

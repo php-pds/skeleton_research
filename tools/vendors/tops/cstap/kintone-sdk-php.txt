@@ -1,0 +1,9 @@
+app/logs/
+examples/
+src/Cstap/Kintone/
+.gitignore
+README.md
+circle.yml
+composer.json
+composer.lock
+composer.phar

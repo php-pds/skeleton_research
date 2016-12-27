@@ -1,0 +1,3 @@
+src/TibiaErig/
+README.md
+composer.json

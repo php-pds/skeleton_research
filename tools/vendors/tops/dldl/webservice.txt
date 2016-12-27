@@ -1,0 +1,14 @@
+Adapter/
+Exception/
+Http/
+Tests/
+.gitignore
+.travis.yml
+AbstractConnector.php
+ConnectorInterface.php
+LICENCE
+ParserInterface.php
+README.md
+WebServiceInterface.php
+composer.json
+phpunit.xml.dist

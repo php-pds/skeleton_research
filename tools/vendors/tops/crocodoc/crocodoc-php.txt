@@ -1,0 +1,12 @@
+example-files/
+.gitignore
+Crocodoc.php
+CrocodocDocument.php
+CrocodocDownload.php
+CrocodocException.php
+CrocodocSession.php
+LICENSE
+README.md
+VERSION
+composer.json
+examples.php

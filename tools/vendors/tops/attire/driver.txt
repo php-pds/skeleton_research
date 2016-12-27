@@ -1,0 +1,8 @@
+dist/
+src/
+.editorconfig
+.gitignore
+Attire.php
+LICENSE
+README.md
+composer.json

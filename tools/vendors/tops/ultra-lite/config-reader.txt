@@ -1,0 +1,6 @@
+src/UltraLite/ConfigReader/
+tests/phpunit/
+.gitignore
+LICENCE
+README.md
+composer.json

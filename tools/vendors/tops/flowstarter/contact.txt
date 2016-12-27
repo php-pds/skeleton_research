@@ -1,0 +1,5 @@
+Classes/Flowstarter/Contact/
+Migrations/Mysql/
+Resources/Private/
+Tests/Unit/Domain/Model/
+composer.json

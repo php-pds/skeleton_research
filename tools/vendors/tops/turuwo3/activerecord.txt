@@ -1,0 +1,17 @@
+Association/
+Database/
+Strategy/
+testcase/
+.gitignore
+Association.php
+AssociationCollection.php
+BaseRecord.php
+IdentityMap.php
+RecordOperator.php
+RecordOperatorInterface.php
+RecordProperty.php
+RecordPropertyInterface.php
+Schema.php
+SchemaCollection.php
+Util.php
+composer.json

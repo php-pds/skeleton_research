@@ -1,0 +1,5 @@
+.DS_Store
+LICENSE
+README.md
+class.php
+composer.json

@@ -1,0 +1,8 @@
+src/Eexit/Twig/ContextParser/
+tests/Eexit/Twig/ContextParser/
+.gitignore
+.travis.yml
+LICENCE.md
+README.md
+composer.json
+phpunit.xml.dist

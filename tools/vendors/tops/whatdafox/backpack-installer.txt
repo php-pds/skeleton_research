@@ -1,0 +1,7 @@
+src/Installer/Console/
+.gitignore
+LICENSE
+README.md
+backpack
+composer.json
+composer.lock

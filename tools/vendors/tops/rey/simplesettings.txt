@@ -1,0 +1,5 @@
+src/
+.gitattributes
+README.md
+composer.json
+scrutinizer.yml

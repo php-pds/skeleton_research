@@ -1,0 +1,10 @@
+bin/
+lib/
+src/
+tmp/
+vendor/
+.gitignore
+README.md
+composer.json
+composer.lock
+packages.json

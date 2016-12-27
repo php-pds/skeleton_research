@@ -1,0 +1,5 @@
+src/Resolv/
+tests/
+.gitignore
+.travis.yml
+composer.json

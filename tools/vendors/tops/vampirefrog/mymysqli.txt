@@ -1,0 +1,5 @@
+.gitignore
+MyMySQLi.php
+MyMySQLiInserter.php
+README.md
+composer.json

@@ -1,0 +1,10 @@
+resources/
+services/
+templates/
+twigextensions/
+variables/
+ElixirPlugin.php
+LICENSE
+README.md
+composer.json
+releases.json

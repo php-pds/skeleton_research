@@ -1,0 +1,15 @@
+bin/
+jasper/solicitud_alta_temprana/
+metadatos/
+php/
+sql/
+www/
+.gitignore
+.php_cs
+LICENSE
+README.md
+composer.json
+composer.lock
+docker-compose.yml
+docker.env.dist
+proyecto.ini

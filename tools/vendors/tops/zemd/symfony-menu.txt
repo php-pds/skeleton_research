@@ -1,0 +1,11 @@
+Annotations/
+Twig/Extension/
+.editorconfig
+.gitignore
+BreadCrumbsManager.php
+BreadcrumbNode.php
+ChainGeneratorInterface.php
+LICENSE
+NodeInterface.php
+README.md
+composer.json

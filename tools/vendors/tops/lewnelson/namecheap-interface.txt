@@ -1,0 +1,10 @@
+Examples/
+src/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json
+configuration.json.example
+phpunit.xml
+phpunit_bootstrap.php

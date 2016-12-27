@@ -1,0 +1,10 @@
+app/
+bootstrap/
+public/
+resources/views/
+.gitignore
+README.md
+composer.json
+composer.lock
+slimborn.png
+slimborn_2016-04-19.sql

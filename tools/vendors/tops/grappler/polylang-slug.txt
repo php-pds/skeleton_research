@@ -1,0 +1,4 @@
+composer.json
+polylang-slug.php
+queries.md
+readme.txt

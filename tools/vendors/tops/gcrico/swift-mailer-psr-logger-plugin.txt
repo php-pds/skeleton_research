@@ -1,0 +1,6 @@
+.gitignore
+LICENSE
+README.md
+SwiftMailerPsrLoggerPlugin.php
+composer.json
+composer.lock

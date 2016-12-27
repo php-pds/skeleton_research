@@ -1,0 +1,6 @@
+lib/OpenBazaar/
+resources/
+tests/
+.gitignore
+README.md
+composer.json

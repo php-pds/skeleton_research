@@ -1,0 +1,8 @@
+src/YapepBase/
+test/
+.gitignore
+.hgignore
+.travis.yml
+bootstrap.php
+composer.json
+phpunit.xml

@@ -1,0 +1,9 @@
+config/
+data/
+docker-images/php/
+logs/
+.gitignore
+LICENSE
+README.md
+composer.json
+docker-compose.yml

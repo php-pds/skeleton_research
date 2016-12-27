@@ -1,0 +1,6 @@
+demo/
+src/Incutio/
+.gitignore
+LICENSE
+README.md
+composer.json

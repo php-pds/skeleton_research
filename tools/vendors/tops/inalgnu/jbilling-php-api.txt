@@ -1,0 +1,7 @@
+src/
+CHANGELOG
+COPYING
+INSTALL
+LICENSE
+README
+composer.json

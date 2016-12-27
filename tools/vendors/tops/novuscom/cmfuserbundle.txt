@@ -1,0 +1,8 @@
+Controller/
+DependencyInjection/
+Entity/
+Form/
+Mailer/
+Resources/
+NovuscomCMFUserBundle.php
+composer.json

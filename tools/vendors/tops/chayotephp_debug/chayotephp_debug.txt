@@ -1,0 +1,11 @@
+docs/
+skins/
+INSTALL
+LICENSE
+README
+TODO
+VERSION
+class.krumo.php
+composer.json
+krumo.ini
+krumo.js

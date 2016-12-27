@@ -1,0 +1,6 @@
+Cqrs/
+tests/spec/Cqrs/
+.gitignore
+LICENSE.md
+composer.json
+phpspec.yml

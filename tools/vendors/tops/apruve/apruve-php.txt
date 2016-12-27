@@ -1,0 +1,9 @@
+src/Apruve/
+tests/Apruve/
+.gitignore
+Apruve.php
+LICENSE
+README.md
+autotest_watchr.rb
+composer.json
+composer.lock

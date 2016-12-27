@@ -1,0 +1,12 @@
+bin/
+contrib/
+docs/
+src/
+tests/
+.gitignore
+.gitlab-ci.yml
+LICENSE
+README.md
+composer.json
+phpcs.xml
+phpunit.xml.dist

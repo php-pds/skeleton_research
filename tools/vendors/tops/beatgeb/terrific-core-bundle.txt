@@ -1,0 +1,12 @@
+DependencyInjection/
+EventListener/
+Filter/
+Resources/
+Twig/Extension/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+TerrificCoreBundle.php
+composer.json
+composer.lock

@@ -1,0 +1,5 @@
+src/MaiHash/
+.gitignore
+LICENSE
+README.md
+composer.json

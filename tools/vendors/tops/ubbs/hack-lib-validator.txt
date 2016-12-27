@@ -1,0 +1,8 @@
+src/
+tests/
+.gitignore
+.hhconfig
+CONTRIBUTING.md
+README.md
+composer.json
+phpunit.xml

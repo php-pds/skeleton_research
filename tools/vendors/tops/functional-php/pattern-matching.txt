@@ -1,0 +1,10 @@
+src/
+tests/PHPFunctional/PatternMatching/
+.atoum.php
+.gitattributes
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock

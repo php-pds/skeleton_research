@@ -1,0 +1,16 @@
+DependencyInjection/
+Enum/
+Exception/
+Form/Type/
+Registry/
+Resources/
+Tests/
+Twig/Extension/
+Validator/Constraints/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+EnumBundle.php
+README.md
+composer.json
+phpunit.xml.dist

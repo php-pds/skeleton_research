@@ -1,0 +1,15 @@
+Bundle/
+assets/adminlte/
+compiled/
+favicons/
+font-awesome/
+resources/
+skins/
+src/
+.bowerrc
+.gitignore
+Gruntfile.js
+assets.yml
+bower.json
+composer.json
+package.json

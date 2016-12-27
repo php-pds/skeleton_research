@@ -1,0 +1,8 @@
+Job/
+config/
+database/migrations/
+src/
+views/
+.gitignore
+README.md
+composer.json

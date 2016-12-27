@@ -1,0 +1,5 @@
+src/Torrent/
+.gitignore
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,6 @@
+bin/
+lib/
+tests/
+LICENSE
+README.md
+bootstrap.php

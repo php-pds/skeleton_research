@@ -1,0 +1,12 @@
+src/
+tests/
+.gitignore
+.travis.yml
+README.md
+autoload.php
+composer.json
+composer.lock
+contributors.txt
+favicon.ico
+favicon.png
+phpunit.xml

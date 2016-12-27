@@ -1,0 +1,11 @@
+examples/
+src/
+.gitignore
+.travis.yml
+Jenkinsfile
+Makefile
+README.md
+composer.json
+libAllure.iml
+phpunit.xml
+pom.xml

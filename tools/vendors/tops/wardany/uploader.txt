@@ -1,0 +1,6 @@
+nbproject/
+.gitignore
+README.md
+UploadBehavior.php
+UploadImageBehavior.php
+composer.json

@@ -1,0 +1,10 @@
+bin/
+examples/
+src/SaguiTech/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+box.json
+composer.json

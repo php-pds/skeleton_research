@@ -1,0 +1,10 @@
+assets/
+.gitignore
+CoreAsset.php
+HotkeysAsset.php
+LICENSE
+ModuleAsset.php
+README.md
+UploaderAsset.php
+Yii2Simditor.php
+composer.json

@@ -1,0 +1,6 @@
+src/GoogleAuthenticator/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json

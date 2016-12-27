@@ -1,0 +1,13 @@
+Cron/
+Entity/
+Form/
+Publication/
+Repository/
+Seo/
+Upload/
+Util/
+.gitattributes
+.gitignore
+LICENSE.MD
+README.md
+composer.json

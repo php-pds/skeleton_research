@@ -1,0 +1,10 @@
+Controller/
+DependencyInjection/
+EventListener/
+Exception/
+Resources/config/
+.gitignore
+LICENSE
+README.md
+WechatAppSessionBundle.php
+composer.json

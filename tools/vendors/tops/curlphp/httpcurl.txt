@@ -1,0 +1,3 @@
+curlphp/
+README.md
+composer.json

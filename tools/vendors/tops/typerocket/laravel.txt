@@ -1,0 +1,12 @@
+migrations/
+public/
+resources/assets/scss/
+src/
+views/media/
+.gitignore
+LICENCE.txt
+README.md
+composer.json
+config.php
+helpers.php
+routes.php

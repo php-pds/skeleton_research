@@ -1,0 +1,6 @@
+config/
+src/
+views/
+LICENSE
+composer.json
+readme.md

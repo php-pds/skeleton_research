@@ -1,0 +1,12 @@
+src/Payment/
+tests/
+.gitattributes
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE.txt
+README.md
+composer.json
+payment.sql
+phpunit.php
+phpunit.xml

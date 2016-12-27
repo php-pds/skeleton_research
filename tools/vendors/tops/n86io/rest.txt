@@ -1,0 +1,12 @@
+build/tests/
+examples/
+src/
+.codeclimate.yml
+.gitignore
+.phpmd.xml
+.styleci.yml
+.travis.yml
+LICENSE
+README.md
+composer.json
+dynamicReturnTypeMeta.json

@@ -1,0 +1,8 @@
+actions/
+assets/
+.editorconfig
+.gitignore
+README.md
+Ueditor.php
+UeditorAssets.php
+composer.json

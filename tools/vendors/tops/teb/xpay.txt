@@ -1,0 +1,6 @@
+src/xpay/
+tests/
+.gitignore
+LICENCE.md
+README.md
+composer.json

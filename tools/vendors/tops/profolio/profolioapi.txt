@@ -1,0 +1,7 @@
+doc/api/
+examples/
+src/
+.gitignore
+VERSION
+composer.json
+composer.lock

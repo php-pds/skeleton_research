@@ -1,0 +1,11 @@
+examples/
+lib/Valid8r/
+tests/
+.gitignore
+MIT-LICENSE.txt
+Makefile
+README.md
+composer.json
+index.php
+package.json
+run-tests

@@ -1,0 +1,13 @@
+Command/
+Controller/
+DependencyInjection/
+Resources/
+Services/API/
+Tests/
+.gitignore
+.travis.yml
+MicroBaseServiceBundle.php
+README.md
+circle.yml
+composer.json
+phpunit.xml.dist

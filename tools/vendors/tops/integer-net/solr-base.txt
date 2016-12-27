@@ -1,0 +1,10 @@
+lib/
+src/Solr/
+test/Solr/
+.gitignore
+LICENSE
+README.md
+composer.json
+modman
+phpunit.xml.dist
+wercker.yml

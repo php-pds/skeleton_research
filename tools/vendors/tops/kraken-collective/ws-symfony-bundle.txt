@@ -1,0 +1,14 @@
+Auth/
+Command/
+DependencyInjection/
+Dispatcher/
+Event/
+Exception/
+Helper/
+Resources/
+Server/
+Session/
+KrakenCollectiveWsSymfonyBundle.php
+LICENSE
+README.md
+composer.json

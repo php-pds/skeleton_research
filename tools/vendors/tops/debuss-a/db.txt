@@ -1,0 +1,12 @@
+documentation/
+examples/
+.gitattributes
+.gitignore
+Db.php
+DbDump.php
+DbModel.php
+DbQuery.php
+DbStatement.php
+LICENSE
+README.md
+composer.json

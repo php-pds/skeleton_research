@@ -1,0 +1,14 @@
+Classes/
+Configuration/TypoScript/
+Documentation/
+Resources/Private/Templates/Search/
+Tests/Functional/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+Makefile
+composer.json
+ext_emconf.php
+ext_localconf.php
+ext_tables.php
+readme.rst

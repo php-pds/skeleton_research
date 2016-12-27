@@ -1,0 +1,3 @@
+src/Bart/Licensee/
+README.md
+composer.json

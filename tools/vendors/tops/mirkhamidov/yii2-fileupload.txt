@@ -1,0 +1,10 @@
+assets/
+behaviors/
+controllers/
+migration/
+models/
+widgets/
+Module.php
+ModuleTrait.php
+README.md
+composer.json

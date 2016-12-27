@@ -1,0 +1,5 @@
+examples/
+src/Gridded/
+.gitignore
+README.md
+composer.json

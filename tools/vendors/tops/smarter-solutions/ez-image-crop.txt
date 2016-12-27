@@ -1,0 +1,7 @@
+DependencyInjection/
+Imagine/Filter/
+Resources/
+EzImageCropBundle.php
+LICENSE
+README.md
+composer.json

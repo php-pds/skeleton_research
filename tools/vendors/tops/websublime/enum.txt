@@ -1,0 +1,7 @@
+src/Websublime/Enum/
+tests/
+.travis.yml
+README.md
+bootstrap.php
+composer.json
+phpunit.xml

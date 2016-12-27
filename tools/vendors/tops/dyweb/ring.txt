@@ -1,0 +1,14 @@
+doc/
+example/
+src/Dy/
+tests/
+.gitignore
+.travis.yml
+CONTRIBUTING.md
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml
+ring.png
+run-check.sh

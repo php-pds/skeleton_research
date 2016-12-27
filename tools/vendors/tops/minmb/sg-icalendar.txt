@@ -1,0 +1,8 @@
+blocks/
+demo/
+helpers/
+tests/
+.gitignore
+README
+SG_iCal.php
+composer.json

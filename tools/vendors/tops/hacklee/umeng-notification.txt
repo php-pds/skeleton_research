@@ -1,0 +1,6 @@
+example/
+src/
+.gitignore
+README.md
+autoload.php
+composer.json

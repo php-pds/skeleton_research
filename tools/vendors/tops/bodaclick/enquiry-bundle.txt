@@ -1,0 +1,16 @@
+DependencyInjection/
+Doctrine/
+Document/
+Entity/
+Events/
+Form/
+Model/
+Resources/
+Tests/
+.gitignore
+.travis.yml
+BDKEnquiryBundle.php
+LICENSE.md
+README.md
+composer.json
+phpunit.xml.dist

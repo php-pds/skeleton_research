@@ -1,0 +1,4 @@
+lib/ZendeskManager/
+.gitignore
+README.md
+composer.json

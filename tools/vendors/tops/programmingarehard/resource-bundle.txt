@@ -1,0 +1,11 @@
+Controller/
+DependencyInjection/
+Domain/
+Resources/
+spec/ProgrammingAreHard/ResourceBundle/
+.gitignore
+LICENSE
+ProgrammingAreHardResourceBundle.php
+README.md
+composer.json
+phpspec.yml

@@ -1,0 +1,6 @@
+lib/OpenXApiClient/
+tests/integration/
+COPYRIGHT.txt
+LICENSE.txt
+README.md
+composer.json

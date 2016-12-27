@@ -1,0 +1,13 @@
+DependencyInjection/
+Resources/
+Templating/Helper/
+Tests/
+Twig/Extension/
+vendor/
+.gitignore
+.gitmodules
+.travis.yml
+BazingaJqueryUiBundle.php
+README.markdown
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,8 @@
+.idea/
+src/
+tests/
+.gitignore
+LICENSE
+composer.json
+composer.lock
+test.sh

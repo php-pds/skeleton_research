@@ -1,0 +1,14 @@
+dev-bin/
+src/
+tests/
+.gitattributes
+.gitignore
+.phpcs-standard.xml
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+box.json
+composer.json
+phar-stub.php
+phpunit.xml.dist

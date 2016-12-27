@@ -1,0 +1,16 @@
+app/
+docs/
+public/
+schemas/
+scripts/
+tests/
+.gitignore
+.travis.yml
+CONTRIBUTING.md
+LICENSE
+README.md
+codeception.yml
+composer.json
+index.html
+mypol.pp
+mypol.te

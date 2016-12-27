@@ -1,0 +1,5 @@
+src/PhpSeries/
+.gitignore
+LICENSE
+README.md
+composer.json

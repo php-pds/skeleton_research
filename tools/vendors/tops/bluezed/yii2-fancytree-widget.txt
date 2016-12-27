@@ -1,0 +1,6 @@
+.gitignore
+FancytreeAsset.php
+FancytreeWidget.php
+LICENSE
+README.md
+composer.json

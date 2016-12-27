@@ -1,0 +1,13 @@
+Commands/
+Criteria/
+Extra/
+Models/Traits/Eloquent/
+config/
+src/
+stubs/
+.gitignore
+LaravelRepositoriesServiceProvider.php
+README.md
+RepositoryInterface.php
+composer.json
+composer.lock

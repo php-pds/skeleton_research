@@ -1,0 +1,4 @@
+behaviors/
+.gitignore
+README.md
+composer.json

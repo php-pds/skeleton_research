@@ -1,0 +1,10 @@
+examples/
+src/Hypem/
+test/Hypem/
+.editorconfig
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml

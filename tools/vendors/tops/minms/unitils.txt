@@ -1,0 +1,6 @@
+.gitignore
+Environments.php
+LICENSE
+PhpConfig.php
+README.md
+composer.json

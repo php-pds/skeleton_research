@@ -1,0 +1,6 @@
+Classes/EbizConsult/TYPO3NeosContentElementSoundcloud/TypoScript/
+Configuration/
+Resources/Private/
+LICENSE
+README.md
+composer.json

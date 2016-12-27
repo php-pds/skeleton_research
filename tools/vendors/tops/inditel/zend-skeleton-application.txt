@@ -1,0 +1,13 @@
+config/
+data/
+docs/sql/
+module/Application/
+public/
+vendor/
+.gitignore
+.gitmodules
+README.md
+build-classmap.php
+composer.json
+generate-doctrine-entities.php
+init_autoloader.php

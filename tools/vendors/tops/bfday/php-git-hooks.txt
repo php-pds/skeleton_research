@@ -1,0 +1,6 @@
+hooks/
+lib/ComposerHandlers/
+README.md
+composer.json
+package.json
+repoCommitChanges

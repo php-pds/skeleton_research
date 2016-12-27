@@ -1,0 +1,7 @@
+sdk/
+test/
+wiki/
+.gitignore
+README.md
+Wechat.php
+composer.json

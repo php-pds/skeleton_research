@@ -1,0 +1,4 @@
+src/Smartypants/
+vendor/smartypants/
+README.md
+composer.json

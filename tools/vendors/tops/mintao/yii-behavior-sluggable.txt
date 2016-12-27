@@ -1,0 +1,8 @@
+tests/
+.gitignore
+Doctrine_Inflector.php
+LICENSE
+README.mkd
+SluggableBehavior.php
+composer.json
+composer.lock

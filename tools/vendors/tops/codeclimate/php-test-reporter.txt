@@ -1,0 +1,14 @@
+composer/bin/
+phar/bin/
+src/
+tests/
+.codeclimate.yml
+.gitignore
+.travis.yml
+CHANGELOG.md
+DEVELOPING.md
+LICENSE
+README.md
+box.json
+composer.json
+phpunit.xml.dist

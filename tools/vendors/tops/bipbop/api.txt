@@ -1,0 +1,7 @@
+src/Client/
+.gitignore
+BipbopTest.php
+LICENSE
+README.md
+composer.json
+example.php

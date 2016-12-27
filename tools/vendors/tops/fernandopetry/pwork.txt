@@ -1,0 +1,7 @@
+doc/
+src/PWork/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,12 @@
+Annotation/
+DependencyInjection/
+Factory/
+Helper/
+Memory/
+Metadata/
+Resources/config/
+Cloner.php
+EVCopyBundle.php
+LICENSE
+README.md
+composer.json

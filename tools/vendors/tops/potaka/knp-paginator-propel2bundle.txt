@@ -1,0 +1,3 @@
+src/Potaka/KnpPaginatorAdapterPropel2Bundle/
+README.md
+composer.json

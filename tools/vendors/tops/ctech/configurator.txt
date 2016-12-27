@@ -1,0 +1,13 @@
+Controller/Index/
+Helper/
+Model/Config/Source/
+Observer/
+Plugin/Magento/
+Setup/
+etc/
+i18n/
+view/frontend/
+LICENSE.txt
+README.md
+composer.json
+registration.php

@@ -1,0 +1,10 @@
+Resources/public/
+.buildpath
+.gitignore
+.project
+MIT-LICENSE.txt
+PatlenainGasJQueryUIBundle.php
+README.md
+composer.json
+composer.lock
+composer.phar

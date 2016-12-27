@@ -1,0 +1,5 @@
+Classes/Hfrahmann/Opauth/
+Configuration/
+LICENSE
+README.md
+composer.json

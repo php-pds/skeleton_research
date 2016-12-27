@@ -1,0 +1,10 @@
+app/
+spec/spec/Paracall/Console/
+src/
+.gitignore
+CreateUsersTable.php
+composer.json
+composer.lock
+igor
+phpspec.yml
+templateRendered

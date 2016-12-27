@@ -1,0 +1,13 @@
+bin/
+build/
+examples/
+src/
+tests/
+.gitignore
+build.xml
+composer.json
+license
+phpunit.xml.dist
+phpunit.xsd
+readme.markdown
+scrutinizer.yml

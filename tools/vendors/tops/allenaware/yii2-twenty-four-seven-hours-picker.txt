@@ -1,0 +1,7 @@
+assets/
+.gitignore
+README.md
+TwentyFourSeven.php
+TwentyFourSevenAsset.php
+composer.json
+composer.lock

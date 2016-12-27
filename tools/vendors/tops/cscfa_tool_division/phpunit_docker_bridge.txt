@@ -1,0 +1,7 @@
+doc/CSDT/PHPUnit/DockerBridgeBundle/TestThread/
+src/CSDT/PHPUnit/DockerBridgeBundle/
+LICENSE
+README.md
+composer.json
+phpmd.xml
+phpunit.xml.dist

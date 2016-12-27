@@ -1,0 +1,7 @@
+config/
+migrations/
+src/
+views/
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,15 @@
+app/
+bin/
+src/
+test/
+web/
+.bowerrc
+.gitattributes
+.gitignore
+Gruntfile.js
+Readme.md
+bower.json
+composer.json
+karma-e2e.conf.js
+karma.conf.js
+package.json

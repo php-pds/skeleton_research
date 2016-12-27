@@ -1,0 +1,13 @@
+lib/
+src/
+.gitignore
+.htaccess
+.travis.yml
+README.md
+Test.php
+composer.json
+dumbo
+dumbo.bat
+dumbophp.php
+install.php
+version

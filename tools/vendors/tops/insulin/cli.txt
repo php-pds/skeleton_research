@@ -1,0 +1,15 @@
+bin/
+etc/scripts/
+src/
+.coveralls.yml
+.gitignore
+.travis.yml
+CONTRIBUTING.md
+LICENSE
+README.md
+autoload.php
+composer.json
+composer.lock
+phpdoc.dist.xml
+phpunit.xml.dist
+travis.phpunit.xml

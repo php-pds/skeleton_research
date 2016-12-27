@@ -1,0 +1,3 @@
+src/ProxyManagerBundle/
+README.md
+composer.json

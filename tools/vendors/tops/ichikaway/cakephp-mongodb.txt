@@ -1,0 +1,10 @@
+Model/
+Test/Case/
+docs/
+samples/
+.coveralls.yml
+.gitignore
+.travis.yml
+README.markdown
+composer.json
+coveralls.json

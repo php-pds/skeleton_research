@@ -1,0 +1,8 @@
+docs/
+tests/
+.gitignore
+.travis.yml
+README.md
+composer.json
+runtests.sh
+site_merge.drush.inc

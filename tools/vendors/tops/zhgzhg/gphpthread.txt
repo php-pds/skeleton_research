@@ -1,0 +1,8 @@
+Documentation/
+examples/
+tests/
+GPhpThread.php
+LICENSE
+README.md
+composer.json
+phpdoc.xml

@@ -1,0 +1,8 @@
+Controller/
+DependencyInjection/
+Resources/
+Services/
+Tests/
+.gitignore
+LAuthMagicBoxBundle.php
+composer.json

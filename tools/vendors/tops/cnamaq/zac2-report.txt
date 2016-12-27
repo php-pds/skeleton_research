@@ -1,0 +1,6 @@
+AddStrategy/
+Container/
+Renderer/
+Factory.php
+Report.php
+composer.json

@@ -1,0 +1,14 @@
+BEAR/
+data/
+docs/
+tests/
+.gitignore
+.gitmodules
+.php_cs
+BEAR.php
+README.md
+build.xml
+composer.json
+fix_session_register.php
+package.xml
+phpunit.xml.dist

@@ -1,0 +1,5 @@
+src/phpbbfr/PhpbbTranslationStyleInstaller/
+.gitignore
+LICENSE
+README.md
+composer.json

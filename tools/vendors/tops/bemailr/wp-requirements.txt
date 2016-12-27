@@ -1,0 +1,15 @@
+.github/
+docs/
+grunt/
+includes/
+languages/
+.gitattributes
+.gitignore
+.scrutinizer.yml
+CHANGELOG.md
+Gruntfile.js
+LICENSE
+README.md
+composer.json
+package.json
+wpr-loader.php

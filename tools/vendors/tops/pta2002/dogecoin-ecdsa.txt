@@ -1,0 +1,5 @@
+src/pta2002/DogecoinECDSA/
+.gitignore
+README.md
+composer.json
+phpconfig.ini

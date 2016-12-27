@@ -1,0 +1,12 @@
+PWE/
+debian/
+test/
+.gitignore
+.htaccess
+.travis.yml
+LICENSE.TXT
+README.md
+cfg.php
+composer.json
+favicon.ico
+index.php

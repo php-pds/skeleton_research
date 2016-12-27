@@ -1,0 +1,8 @@
+tests/
+.gitignore
+.travis.yml
+LICENSE.md
+README.md
+Wordpress.php
+codeception.yml
+composer.json

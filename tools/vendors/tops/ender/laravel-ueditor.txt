@@ -1,0 +1,14 @@
+config/
+lang/
+migrations/
+resources/public/
+src/
+views/
+.gitignore
+CHANGELOG.md
+CONTRIBUTING.md
+LICENSE
+README.md
+README.md.example
+composer.json
+routes.php

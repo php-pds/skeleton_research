@@ -1,0 +1,11 @@
+src/MP4Box/
+tests/
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit-functional.xml.dist
+phpunit.xml.dist

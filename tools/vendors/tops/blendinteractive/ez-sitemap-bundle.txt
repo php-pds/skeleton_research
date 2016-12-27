@@ -1,0 +1,5 @@
+src/EzSitemapBundle/
+.gitignore
+LICENSE
+README.md
+composer.json

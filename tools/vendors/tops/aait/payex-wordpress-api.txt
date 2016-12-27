@@ -1,0 +1,4 @@
+src/PayEx/
+LICENSE
+README.md
+composer.json

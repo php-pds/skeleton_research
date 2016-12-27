@@ -1,0 +1,14 @@
+bower_components/
+config/
+lib/API/
+public/
+share/
+vendor/
+LICENSE
+bootstrap.php
+bower.json
+composer.json
+index.old.php
+modelo.zip
+packages.json
+sqlite3.exe

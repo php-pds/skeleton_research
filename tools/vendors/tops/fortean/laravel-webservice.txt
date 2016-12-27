@@ -1,0 +1,8 @@
+config/
+src/
+.gitignore
+LICENSE
+README.md
+composer.json
+phpspec.yml
+phpunit.xml

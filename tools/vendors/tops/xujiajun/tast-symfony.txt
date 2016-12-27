@@ -1,0 +1,11 @@
+config/
+src/AppDemo/
+web/
+.env.example
+.gitignore
+AppKernel.php
+LICENSE
+README.md
+composer.json
+composer.lock
+console

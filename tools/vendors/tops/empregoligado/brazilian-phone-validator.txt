@@ -1,0 +1,11 @@
+bin/
+data/
+examples/
+src/EmpregoLigado/BrazilianPhoneValidator/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

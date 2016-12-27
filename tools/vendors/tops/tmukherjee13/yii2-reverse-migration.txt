@@ -1,0 +1,10 @@
+console/
+views/
+.codeclimate.yml
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock

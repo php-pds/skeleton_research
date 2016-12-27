@@ -1,0 +1,9 @@
+src/
+tests/
+.coverall.yml
+.gitignore
+.travis.yml
+README.md
+composer.json
+coverage-checker.php
+phpunit.xml

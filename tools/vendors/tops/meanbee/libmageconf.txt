@@ -1,0 +1,9 @@
+src/Meanbee/LibMageConf/
+tests/Meanbee/LibMageConfTest/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+composer.json
+phpunit.xml
+readme.md

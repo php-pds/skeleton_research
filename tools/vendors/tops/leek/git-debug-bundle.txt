@@ -1,0 +1,7 @@
+DataCollector/
+DependencyInjection/
+Resources/
+.gitignore
+LeekGitDebugBundle.php
+README.md
+composer.json

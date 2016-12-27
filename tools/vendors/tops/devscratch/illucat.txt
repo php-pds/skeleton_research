@@ -1,0 +1,5 @@
+src/Illucat/
+.gitignore
+README.md
+composer.json
+composer.lock

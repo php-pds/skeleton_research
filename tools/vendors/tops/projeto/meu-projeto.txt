@@ -1,0 +1,8 @@
+app/src/
+database/
+logs/
+public/
+README.md
+composer-bkp.json
+composer.json
+composer.lock

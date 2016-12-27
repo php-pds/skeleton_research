@@ -1,0 +1,7 @@
+src/Como/Cavalry/
+test/
+.gitignore
+LICENSE
+README.md
+VERSION
+composer.json

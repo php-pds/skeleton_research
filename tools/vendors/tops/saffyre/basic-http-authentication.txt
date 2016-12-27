@@ -1,0 +1,5 @@
+.idea/
+.gitignore
+README.md
+basic-http-authentication.php
+composer.json

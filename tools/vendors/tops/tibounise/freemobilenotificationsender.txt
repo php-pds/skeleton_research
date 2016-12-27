@@ -1,0 +1,8 @@
+.gitignore
+FreemobileNotificationSender.php
+LICENSE
+README.md
+composer.json
+config.example.php
+freemobile.crt
+testapi.php

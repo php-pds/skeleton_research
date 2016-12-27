@@ -1,0 +1,3 @@
+src/qinhao/laravelTest/
+.gitignore
+composer.json

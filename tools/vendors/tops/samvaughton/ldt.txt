@@ -1,0 +1,8 @@
+src/Samvaughton/Ldt/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml

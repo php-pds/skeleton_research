@@ -1,0 +1,6 @@
+source/b3rs3rk/steamfront/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json

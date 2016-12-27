@@ -1,0 +1,12 @@
+bootstrap/
+cache/
+config/
+content/
+db/
+templates/
+web/
+.env.example
+.gitignore
+README.md
+composer.json
+skimpy

@@ -1,0 +1,6 @@
+DependencyInjection/
+Resources/config/
+.gitignore
+JazaWordPressIntegrationBundle.php
+README.md
+composer.json

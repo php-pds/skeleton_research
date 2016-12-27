@@ -1,0 +1,13 @@
+Tests/
+i18n/
+src/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+Ask.i18n.php
+Ask.mw.php
+Ask.php
+COPYING
+README.md
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,6 @@
+src/SeriousEmail/
+.gitignore
+LICENSE.md
+README.md
+api_send_example.php
+composer.json

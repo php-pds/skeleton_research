@@ -1,0 +1,12 @@
+example/
+src/Riak/
+.gitignore
+.hgtags
+.travis.yml
+LICENSE
+Makefile
+README.md
+composer.json
+php-doxyfile
+riak.php
+unit_tests.php

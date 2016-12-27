@@ -1,0 +1,12 @@
+admin/
+css/
+customize/
+ext/
+inc/
+js/
+changelog.md
+composer.json
+contributing.md
+hybrid.php
+license.md
+readme.md

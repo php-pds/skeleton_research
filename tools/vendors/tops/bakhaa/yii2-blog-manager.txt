@@ -1,0 +1,10 @@
+assets/
+controllers/backend/
+migrations/
+models/
+views/backend/
+AutoloadExample.php
+Bootstrap.php
+Module.php
+README.md
+composer.json

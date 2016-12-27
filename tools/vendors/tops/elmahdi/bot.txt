@@ -1,0 +1,13 @@
+config/
+resources/lang/en/
+src/
+tests/
+.editorconfig
+.env.example
+.gitattributes
+.gitignore
+.travis.yml
+LICENSE.md
+composer.json
+phpunit.xml.dist
+readme.md

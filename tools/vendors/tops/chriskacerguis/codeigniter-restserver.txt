@@ -1,0 +1,8 @@
+application/
+documentation/
+.codeclimate.yml
+.gitignore
+CHANGELOG.md
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,6 @@
+Commands/
+.gitignore
+Maintenance.php
+README.md
+composer.json
+plugin.json

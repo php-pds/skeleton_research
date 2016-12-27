@@ -1,0 +1,11 @@
+doc/
+grammar/
+lib/
+test/
+test_old/
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

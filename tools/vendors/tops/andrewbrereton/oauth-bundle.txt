@@ -1,0 +1,11 @@
+DependencyInjection/
+Model/
+Provider/
+Resources/
+Security/
+Tests/
+.gitignore
+EtcpasswdOAuthBundle.php
+README.md
+composer.json
+phpunit.xml.dist

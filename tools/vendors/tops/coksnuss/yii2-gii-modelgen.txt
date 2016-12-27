@@ -1,0 +1,7 @@
+assets/
+generators/model/
+views/layouts/
+GiiAsset.php
+LICENSE
+README.md
+composer.json

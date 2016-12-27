@@ -1,0 +1,8 @@
+lib/ColorThief/
+tests/
+.gitattributes
+.gitignore
+.travis.yml
+CHANGELOG.md
+README.md
+composer.json

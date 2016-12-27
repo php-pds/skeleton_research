@@ -1,0 +1,7 @@
+assets/
+lib/
+.gitignore
+composer.json
+composer.json~
+main.php
+readme.txt

@@ -1,0 +1,9 @@
+build/
+lib/Onurb/Bundle/YumlBundle/
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+README.md
+composer.json
+phpunit.xml.dist

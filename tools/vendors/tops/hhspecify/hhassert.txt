@@ -1,0 +1,11 @@
+example/
+spec/
+src/
+.editorconfig
+.gitignore
+.hhconfig
+.travis.yml
+LICENSE
+README.md
+composer.json
+peridot.hh

@@ -1,0 +1,5 @@
+inc/
+LICENSE
+README.md
+composer.json
+sub-plugins.php

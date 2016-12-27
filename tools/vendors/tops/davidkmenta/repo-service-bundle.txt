@@ -1,0 +1,10 @@
+DependencyInjection/Compiler/
+Doctrine/ORM/Manager/
+Repository/
+Tests/
+.gitignore
+LICENSE
+README.md
+RepoServiceBundle.php
+composer.json
+phpunit.xml.dist

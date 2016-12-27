@@ -1,0 +1,10 @@
+Controller/
+DependencyInjection/
+Model/
+Resources/
+Tests/Controller/
+nbproject/
+.gitignore
+LemLabsUserBundle.php
+README.md
+composer.json

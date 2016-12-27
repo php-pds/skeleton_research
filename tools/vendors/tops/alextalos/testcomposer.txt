@@ -1,0 +1,7 @@
+config/
+src/Testcomp/Controller/
+view/testcomp/index/
+.gitignore
+Module.php
+README.md
+composer.json

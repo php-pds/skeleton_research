@@ -1,0 +1,5 @@
+MigrationBundle/
+ISSUE_TEMPLATE
+LICENSE
+README.md
+composer.json

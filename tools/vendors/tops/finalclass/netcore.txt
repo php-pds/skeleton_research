@@ -1,0 +1,3 @@
+library/NetCore/
+README
+composer.json

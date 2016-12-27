@@ -1,0 +1,4 @@
+DependencyInjection/
+Resources/config/
+LumbendilRottenTomatoesBundle.php
+composer.json

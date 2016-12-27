@@ -1,0 +1,15 @@
+Command/
+Controller/
+DependencyInjection/
+Entity/
+JWT/
+Listener/
+Model/
+Resources/
+Security/
+.gitignore
+AtlassianConnectBundle.php
+LICENSE
+README.md
+composer.json
+composer.lock

@@ -1,0 +1,5 @@
+PhpStatsD/
+.gitignore
+README.md
+composer.json
+spark.info

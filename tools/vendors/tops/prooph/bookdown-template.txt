@@ -1,0 +1,8 @@
+templates/
+.gitignore
+CHANGELOG.md
+CONTRIBUTING.md
+LICENSE.txt
+README-GIT.md
+README.md
+composer.json

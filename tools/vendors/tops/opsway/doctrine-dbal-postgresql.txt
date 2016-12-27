@@ -1,0 +1,5 @@
+src/Doctrine/
+.gitignore
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,11 @@
+Client/
+DependencyInjection/
+Exception/
+Model/
+Resources/config/
+Service/
+.gitignore
+LICENSE
+README.md
+UlffElasticsearchPhpClientBundle.php
+composer.json

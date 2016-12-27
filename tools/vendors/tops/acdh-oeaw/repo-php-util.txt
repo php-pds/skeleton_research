@@ -1,0 +1,8 @@
+docs/
+src/acdhOeaw/
+.gitignore
+README.md
+composer.json
+config.ini.sample
+phpdoc.xml
+property_mappings.json

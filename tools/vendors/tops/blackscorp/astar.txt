@@ -1,0 +1,7 @@
+src/
+test/
+tools/
+.gitignore
+.scrutinizer.yml
+composer.json
+readme.md

@@ -1,0 +1,7 @@
+conf/
+lang/
+LICENSE
+README.md
+auth.php
+composer.json
+plugin.info.txt

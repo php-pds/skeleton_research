@@ -1,0 +1,9 @@
+src/Snappy/Apps/BigBoard/
+tests/
+.gitignore
+.travis.yml
+bigboard.png
+composer.json
+license.txt
+phpunit.xml
+readme.md

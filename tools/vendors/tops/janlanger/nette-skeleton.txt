@@ -1,0 +1,15 @@
+app/
+cli/
+log/
+temp/
+tests/
+vendor/
+www/
+.bowerrc
+.gitignore
+.htaccess
+Gruntfile.coffee
+bower.json
+composer.json
+composer.lock
+package.json

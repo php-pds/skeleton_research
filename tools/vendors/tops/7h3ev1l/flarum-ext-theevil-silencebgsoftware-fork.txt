@@ -1,0 +1,8 @@
+assets/html/
+js/
+locale/
+src/Listeners/
+.gitignore
+README.md
+bootstrap.php
+composer.json

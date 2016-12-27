@@ -1,0 +1,6 @@
+.idea/
+src/totalpeople/l4Ads/
+tests/
+README.md
+composer.json
+phpunit.xml

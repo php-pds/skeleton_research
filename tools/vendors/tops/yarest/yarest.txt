@@ -1,0 +1,9 @@
+Yarest/
+bin/
+tests/
+.gitignore
+.travis.yml
+composer.json
+phpdoc.dist.xml
+phpunit.xml.dist
+readme.md

@@ -1,0 +1,9 @@
+src/Omnipay/Gate2shop/
+tests/
+.gitignore
+.travis.yml
+CONTRIBUTING.md
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,7 @@
+example/
+lib/Minima/
+.gitignore
+Minima-PHP.iml
+composer.json
+composer.lock
+composer.phar

@@ -1,0 +1,15 @@
+configs/
+sql/
+src/
+tests/
+web/
+.gitignore
+.gitlab-ci.yml
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+bootstrapper.inc.php
+composer.json
+composer.lock
+phpunit.xml

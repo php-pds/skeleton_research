@@ -1,0 +1,7 @@
+src/Sircamp/Response/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock

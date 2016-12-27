@@ -1,0 +1,5 @@
+Socialite/
+.gitignore
+README.md
+composer.json
+composer.lock

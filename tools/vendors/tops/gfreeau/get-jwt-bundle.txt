@@ -1,0 +1,6 @@
+DependencyInjection/
+Resources/
+Security/Firewall/
+GfreeauGetJWTBundle.php
+README.md
+composer.json

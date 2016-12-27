@@ -1,0 +1,11 @@
+DependencyInjection/
+Resources/
+Tests/
+User/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+README.md
+TFurtadoIntercomBundle.php
+composer.json
+phpunit.xml.dist

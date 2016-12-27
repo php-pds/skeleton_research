@@ -1,0 +1,6 @@
+src/Gravitas/PluginBase/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock

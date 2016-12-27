@@ -1,0 +1,5 @@
+src/Configurator/
+Configurator.php
+LICENSE
+README.md
+composer.json

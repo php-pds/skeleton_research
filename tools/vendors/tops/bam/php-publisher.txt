@@ -1,0 +1,7 @@
+gen-php/org/wso2/carbon/databridge/commons/thrift/
+publisher/
+.gitignore
+README.md
+SampleClient.php
+composer.json
+log.log

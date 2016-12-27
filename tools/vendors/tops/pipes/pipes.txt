@@ -1,0 +1,9 @@
+docs/
+src/
+tests/
+.codeclimate.yml
+.gitignore
+.travis.yml
+README.md
+composer.json
+phpunit.xml

@@ -1,0 +1,14 @@
+Controller/
+DependencyInjection/
+Entity/
+Event/
+EventListener/
+Hook/
+Interfaces/
+Manager/
+Provider/
+Repository/
+Resources/
+Tests/Controller/
+GroslabMailerBundle.php
+composer.json

@@ -1,0 +1,6 @@
+Examples/
+PHPWord/
+vendor/
+PHPWord.php
+README.md
+composer.json

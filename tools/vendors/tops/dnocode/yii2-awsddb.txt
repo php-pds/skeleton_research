@@ -1,0 +1,12 @@
+ar/
+build/artifacts/logs/
+ddb/
+test/
+utils/
+.gitignore
+CHANGELOG.md
+LICENSE.md
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

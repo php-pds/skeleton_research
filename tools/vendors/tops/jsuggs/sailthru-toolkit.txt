@@ -1,0 +1,8 @@
+app/
+config/
+src/SailthruToolkit/Command/
+.gitignore
+README.md
+composer.json
+composer.lock
+console.php

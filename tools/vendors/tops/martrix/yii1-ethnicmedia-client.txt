@@ -1,0 +1,9 @@
+assets/
+lib/
+views/
+Emadsdisplaywidget.php
+EmclientAction.php
+Emformwidget.php
+composer.json
+contributors.txt
+readme.txt

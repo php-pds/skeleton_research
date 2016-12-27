@@ -1,0 +1,9 @@
+docs/
+samples/
+src/
+.gitignore
+LICENSE
+README.md
+autoloader.php
+composer.json
+docker-compose.yml

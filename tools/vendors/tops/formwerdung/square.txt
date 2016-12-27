@@ -1,0 +1,13 @@
+assets/
+lib/
+modules/
+views/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+modules.php
+ruleset.xml
+square.php

@@ -1,0 +1,8 @@
+lib/Kumbia/ActiveRecord/
+tests/
+.travis.yml
+README.en.md
+README.md
+To-do.md
+composer.json
+config_databases.php

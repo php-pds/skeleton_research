@@ -1,0 +1,9 @@
+config/
+data/
+src/Zf2auth/
+view/
+.gitignore
+Module.php
+README.md
+autoload_classmap.php
+composer.json

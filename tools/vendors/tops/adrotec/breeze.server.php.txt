@@ -1,0 +1,5 @@
+src/Adrotec/BreezeJs/
+.gitignore
+LICENSE
+README.md
+composer.json

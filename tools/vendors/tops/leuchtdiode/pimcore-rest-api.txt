@@ -1,0 +1,5 @@
+config/
+src/PimcoreRestApi/
+LICENSE
+README.md
+composer.json

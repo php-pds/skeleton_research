@@ -1,0 +1,10 @@
+assets/
+config/
+data/
+examples/
+src/CirclicalACLAdmin/
+view/circlical-acl-admin/
+LICENSE
+Module.php
+README.md
+composer.json

@@ -1,0 +1,6 @@
+src/SEPA/
+tests/SEPA/Tests/
+.gitignore
+autoload.php.dist
+composer.json
+phpunit.xml.dist

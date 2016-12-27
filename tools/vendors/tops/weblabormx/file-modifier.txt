@@ -1,0 +1,9 @@
+examples/
+src/
+tests/
+.gitignore
+FileModifier.md
+Helper.md
+MasiveModifier.md
+README.md
+composer.json

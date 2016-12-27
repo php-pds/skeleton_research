@@ -1,0 +1,13 @@
+DependencyInjection/
+Mailer/
+Pagination/
+Resources/config/
+Response/
+Serializer/
+Tests/
+.gitignore
+CommonBundle.php
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

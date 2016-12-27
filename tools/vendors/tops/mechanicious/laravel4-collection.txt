@@ -1,0 +1,3 @@
+src/mechanicious/
+composer.json
+readme.md

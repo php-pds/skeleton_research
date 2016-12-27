@@ -1,0 +1,13 @@
+app/
+assets/
+core/
+.editorconfig
+.gitattributes
+.gitignore
+.htaccess
+CONTRIBUTING.md
+LICENSE.txt
+README.md
+TODO.md
+composer.json
+index.php

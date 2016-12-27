@@ -1,0 +1,6 @@
+tests/
+LICENSE.txt
+README.md
+composer.json
+phpunit.xml
+ramda.php

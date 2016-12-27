@@ -1,0 +1,4 @@
+bin/
+src/JobMan/
+README.md
+composer.json

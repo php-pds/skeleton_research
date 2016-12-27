@@ -1,0 +1,5 @@
+src/Hatebase/
+.gitignore
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,6 @@
+src/Dizzy/Trakt/
+.gitignore
+LICENSE
+README.md
+composer.json
+trakt

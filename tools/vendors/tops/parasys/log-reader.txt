@@ -1,0 +1,8 @@
+Controller/
+DependencyInjection/
+Request/
+Resources/
+Tests/Controller/
+ParasysLogReaderBundle.php
+README.md
+composer.json

@@ -1,0 +1,15 @@
+tests/
+.gitignore
+BaseComModel.php
+ExportType.php
+FontEffect.php
+IDocument.php
+IObject.php
+IObjects.php
+IPrinter.php
+ObjectAttribute.php
+ObjectType.php
+PrintEvent.php
+PrintOptionConstants.php
+README.md
+composer.json

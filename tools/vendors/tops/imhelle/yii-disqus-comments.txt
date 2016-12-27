@@ -1,0 +1,9 @@
+actions/
+commands/
+helpers/
+migrations/
+models/
+widgets/
+EDisqusComments.php
+README.md
+composer.json

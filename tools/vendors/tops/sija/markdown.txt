@@ -1,0 +1,5 @@
+src/Markdown/
+vendor/markdown/
+LICENSE
+README.md
+composer.json

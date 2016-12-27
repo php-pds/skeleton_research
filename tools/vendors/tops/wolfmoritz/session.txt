@@ -1,0 +1,6 @@
+src/Session/
+.gitignore
+LICENSE
+README.md
+SessionTable.sql
+composer.json

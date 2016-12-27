@@ -1,0 +1,7 @@
+.idea/
+Entity/
+Enums/
+Interfaces/
+vendor/
+composer.json
+index.php

@@ -1,0 +1,9 @@
+src/Guacamole/
+test/Guacamole/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml

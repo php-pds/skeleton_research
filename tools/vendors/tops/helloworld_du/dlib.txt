@@ -1,0 +1,12 @@
+Confs/
+Core/
+GitHook/
+Redis/
+statistics/script/
+test/
+.gitignore
+.travis.yml
+README.md
+common.inc.php
+composer.json
+php_conf_test.ini

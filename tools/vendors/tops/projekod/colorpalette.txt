@@ -1,0 +1,7 @@
+tests/
+.gitignore
+PKColor.php
+README.md
+composer.json
+test.jpg
+test.php

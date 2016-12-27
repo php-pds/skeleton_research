@@ -1,0 +1,10 @@
+src/
+tests/
+.coveralls.yml
+.gitignore
+.travis.yml
+LICENSE
+README.md
+codeception.yml
+composer.json
+phpcs.xml.dist

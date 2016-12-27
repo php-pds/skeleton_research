@@ -1,0 +1,6 @@
+admin/
+.gitignore
+README.md
+composer.json
+composer.lock
+dp-user-docs.php

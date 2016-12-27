@@ -1,0 +1,13 @@
+doc/
+font/
+makefont/
+src/
+tutorial/
+.gitignore
+FAQ.htm
+README.md
+changelog.htm
+composer.json
+fpdf.css
+install.txt
+license.txt

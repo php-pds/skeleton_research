@@ -1,0 +1,5 @@
+src/DemoPackage/
+tests/
+.gitignore
+README.md
+composer.json

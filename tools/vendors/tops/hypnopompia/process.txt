@@ -1,0 +1,5 @@
+examples/
+LICENSE.md
+Process.php
+README.md
+composer.json

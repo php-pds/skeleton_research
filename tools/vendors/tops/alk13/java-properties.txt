@@ -1,0 +1,3 @@
+JavaProperties/
+LICENSE
+composer.json

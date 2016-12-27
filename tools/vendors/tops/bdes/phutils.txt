@@ -1,0 +1,8 @@
+src/Bdes/Phutils/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock

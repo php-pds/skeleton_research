@@ -1,0 +1,8 @@
+Activerecord/
+Test/
+vendor/
+.gitattributes
+.gitignore
+License
+README.md
+composer.json

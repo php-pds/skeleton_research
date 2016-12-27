@@ -1,0 +1,5 @@
+example/
+src/MccMncExtractor/
+.gitignore
+README.md
+composer.json

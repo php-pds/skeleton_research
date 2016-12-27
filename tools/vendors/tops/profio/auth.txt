@@ -1,0 +1,7 @@
+migrations/
+src/Profio/Auth/
+views/
+.gitignore
+README.md
+composer.json
+config.php

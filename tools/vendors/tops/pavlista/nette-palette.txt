@@ -1,0 +1,5 @@
+src/NettePalette/
+.gitignore
+LICENSE
+README.md
+composer.json

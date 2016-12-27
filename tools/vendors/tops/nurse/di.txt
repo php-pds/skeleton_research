@@ -1,0 +1,12 @@
+bin/travis/
+src/
+tests/
+.coveralls.yml
+.gitignore
+.scrutinizer.yml
+.styleci.yml
+.travis.yml
+CONTRIBUTING.md
+README.md
+composer.json
+phpunit.xml

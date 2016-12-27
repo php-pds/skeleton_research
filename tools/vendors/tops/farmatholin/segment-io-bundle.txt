@@ -1,0 +1,9 @@
+DependencyInjection/
+Resources/
+Util/
+.gitignore
+LICENSE
+README.md
+SegmentIoBundle.php
+composer.json
+composer.lock

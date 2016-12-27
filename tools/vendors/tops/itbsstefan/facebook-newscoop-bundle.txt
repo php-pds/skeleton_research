@@ -1,0 +1,10 @@
+Controller/
+DependencyInjection/
+Entity/
+EventListener/
+Resources/
+Tests/Controller/
+LICENSE.txt
+NewscoopFacebookNewscoopBundle.php
+README.md
+composer.json

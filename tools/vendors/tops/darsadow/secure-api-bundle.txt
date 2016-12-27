@@ -1,0 +1,6 @@
+DependencyInjection/
+Resources/config/
+Security/
+DarsadowSecureApiBundle.php
+README.md
+composer.json

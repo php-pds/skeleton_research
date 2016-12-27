@@ -1,0 +1,12 @@
+Entity/
+Exception/
+Tests/
+.gitignore
+.travis.yml
+Exception.php
+FloatClient.php
+Package.php
+README.md
+bootstrap.php
+composer.json
+phpunit.xml.dist

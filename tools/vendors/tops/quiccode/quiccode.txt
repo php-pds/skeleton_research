@@ -1,0 +1,8 @@
+App/Home/
+Home/
+config/
+public/
+quiccode/src/
+vendor/
+composer.json
+composer.lock

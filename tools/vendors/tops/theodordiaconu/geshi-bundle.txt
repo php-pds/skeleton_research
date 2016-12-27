@@ -1,0 +1,9 @@
+Component/
+DependencyInjection/
+Extension/
+Highlighter/
+Resources/
+DTGeshiBundle.php
+LICENSE
+README.md
+composer.json

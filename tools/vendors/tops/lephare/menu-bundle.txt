@@ -1,0 +1,9 @@
+Configuration/
+DependencyInjection/
+Menu/
+Resources/
+Tests/Fixtures/
+.gitignore
+LephareMenuBundle.php
+README.md
+composer.json

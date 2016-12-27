@@ -1,0 +1,6 @@
+lib/curl/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json

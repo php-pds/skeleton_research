@@ -1,0 +1,10 @@
+helpers/
+static/
+test/
+.gitignore
+LICENSE
+Po.php
+README.md
+composer.json
+functions.php
+simplePrinter.php

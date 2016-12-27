@@ -1,0 +1,10 @@
+bower_components/
+examples/
+lib/
+src/
+test/
+.gitignore
+Makefile
+README.md
+bower.json
+composer.json

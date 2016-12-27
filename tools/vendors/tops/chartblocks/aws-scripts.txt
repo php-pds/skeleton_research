@@ -1,0 +1,11 @@
+src/CbAws/Ec2/
+swap/
+.gitignore
+README.md
+backup.sh.default
+composer.json
+composer.phar
+ec2-attached-volumes-prune.php
+ec2-attached-volumes-snapshot.php
+install
+instance.sh

@@ -1,0 +1,9 @@
+App/
+config/
+public/
+.gitignore
+.htaccess
+LICENSE
+README.md
+composer.json
+index.php

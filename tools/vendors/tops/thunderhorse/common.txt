@@ -1,0 +1,3 @@
+src/Thunderhorse/Common/
+.gitignore
+composer.json

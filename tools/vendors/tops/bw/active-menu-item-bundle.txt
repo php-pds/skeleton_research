@@ -1,0 +1,5 @@
+src/BW/ActiveMenuItemBundle/
+.gitignore
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,6 @@
+Core/
+Documentation/
+Helpers/
+nbproject/
+_README.md
+composer.json

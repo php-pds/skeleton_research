@@ -1,0 +1,7 @@
+src/
+tests/
+README.md
+build.xml
+composer.json
+phpda.yml
+phpunit.xml

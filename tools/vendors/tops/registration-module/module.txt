@@ -1,0 +1,16 @@
+ajax/
+config/
+js/
+source/
+tests/
+.codecov.yml
+.gitignore
+.travis.yml
+README.md
+account.php
+composer.json
+composer.lock
+index.php
+logout.php
+package.json
+phpunit.xml.dist

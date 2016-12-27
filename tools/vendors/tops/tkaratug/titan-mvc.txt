@@ -1,0 +1,11 @@
+app/
+public/
+system/
+.editorconfig
+.htaccess
+CHANGELOG
+LICENCE
+README.md
+composer.json
+example.nginx.conf
+index.php

@@ -1,0 +1,8 @@
+config/
+demo/
+fonts/
+src/RealCaptcha/
+tests/
+.gitignore
+README.md
+composer.json

@@ -1,0 +1,15 @@
+.travis/
+examples/
+src/Raven/
+tests/
+.gitignore
+.travis.yml
+InternalReleaseInstructions.txt
+LICENSE.md
+README.md
+RoboFile.php
+bootstrap.php
+box.json.dist
+boxstrap.php
+composer.json
+composer.lock

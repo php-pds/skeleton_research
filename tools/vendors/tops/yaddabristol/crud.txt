@@ -1,0 +1,9 @@
+docs/
+src/
+tests/unit/crud/
+.gitignore
+README.md
+apigen.yaml
+composer.json
+composer.lock
+phpunit.xml

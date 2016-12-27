@@ -1,0 +1,6 @@
+src/Graphite/Silex/
+.editorconfig
+.gitignore
+LICENSE
+README.md
+composer.json

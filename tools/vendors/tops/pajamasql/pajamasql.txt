@@ -1,0 +1,5 @@
+src/pjsql/
+test/
+.gitignore
+README.md
+composer.json

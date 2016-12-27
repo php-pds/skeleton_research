@@ -1,0 +1,6 @@
+bin/
+src/
+How to create templates.md
+README.md
+composer.json
+index.php

@@ -1,0 +1,7 @@
+src/AmsBusClient/
+tests/
+.gitignore
+.travis.yml
+README.md
+api.md
+composer.json

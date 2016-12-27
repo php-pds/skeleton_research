@@ -1,0 +1,11 @@
+classes/COI/Social/
+functions/
+public/
+templates/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+include.php
+require.php

@@ -1,0 +1,10 @@
+src/devvoh/fixedwidth/
+LICENSE
+README.md
+composer.json
+example-delimiter.txt
+example-generator-delimiter-invalid.php
+example-generator-delimiter-valid.php
+example-nodelimiter.txt
+example-reader-delimiter.php
+example-reader-nodelimiter.php

@@ -1,0 +1,7 @@
+src/PHPCommons/
+tests/PHPCommons/Lang/
+.gitignore
+.travis.yml
+README.md
+composer.json
+phpunit.xml

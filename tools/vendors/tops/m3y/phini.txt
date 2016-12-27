@@ -1,0 +1,10 @@
+lib/M3y/Phini/
+tests/M3y/Phini/Test/
+.coveralls.yml
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

@@ -1,0 +1,9 @@
+alipay/
+helpers/
+.gitignore
+AlipayClient.php
+LICENSE
+Payment.php
+README.md
+Wechat.php
+composer.json

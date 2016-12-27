@@ -1,0 +1,11 @@
+src/Validation/
+tests/
+.gitignore
+.travis.yml
+DOCUMENTATION.md
+LICENSE
+Makefile
+README.md
+composer.json
+composer.lock
+phpunit.xml

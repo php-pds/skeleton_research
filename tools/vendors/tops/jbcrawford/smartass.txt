@@ -1,0 +1,4 @@
+src/SmartAss/
+LICENSE
+README.md
+composer.json

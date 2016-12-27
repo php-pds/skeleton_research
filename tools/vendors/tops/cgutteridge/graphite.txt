@@ -1,0 +1,15 @@
+Graphite/
+examples/
+tests/
+.gitignore
+.travis.yml
+Graphite.php
+README
+build.xml
+bundle_into_single_file.sh
+composer.json
+graphite-docs.html
+package.xml
+phpdoc.dist.xml
+phpdox.xml
+phpunit.xml

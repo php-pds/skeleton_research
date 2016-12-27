@@ -1,0 +1,10 @@
+bin/
+src/Athletic/
+tests/
+.gitignore
+.travis.yml
+bootstrap.php
+box.json.dist
+composer.json
+phpunit.xml.dist
+readme.md

@@ -1,0 +1,5 @@
+.idea/
+rabbitmq/
+LICENSE.md
+README.md
+composer.json

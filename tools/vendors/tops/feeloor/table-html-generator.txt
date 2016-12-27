@@ -1,0 +1,8 @@
+app/src/Table/
+test/
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+autoloader.php
+composer.json

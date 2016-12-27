@@ -1,0 +1,6 @@
+Model/Datasource/Session/
+Test/Case/Model/Datasource/Session/
+.gitignore
+LICENSE
+README.md
+composer.json

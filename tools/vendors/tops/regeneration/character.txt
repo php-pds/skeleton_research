@@ -1,0 +1,9 @@
+legacy/packages/
+public/
+src/
+vendor/
+.gitignore
+LICENSE
+README.md
+composer.json
+phpunit.xml

@@ -1,0 +1,15 @@
+coverage/
+src/Flash/
+test/
+vendor/
+.gitattributes
+.gitignore
+.scrutinizer.yml
+.travis.yml
+README.md
+autoloader.php
+composer.json
+composer.lock
+coverage.clover
+phpcs.xml
+phpunit.xml

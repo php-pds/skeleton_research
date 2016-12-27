@@ -1,0 +1,8 @@
+Example/
+bin/
+src/Classifier/
+.gitignore
+README.md
+composer.json
+composer.lock
+nbclassifier.yml

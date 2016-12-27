@@ -1,0 +1,10 @@
+src/Omnipay/Neteller/
+tests/
+.coveralls.yml
+.scrutinizer.yml
+.travis.yml
+CONTRIBUTING.md
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

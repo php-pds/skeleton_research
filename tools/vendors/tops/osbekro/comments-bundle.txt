@@ -1,0 +1,11 @@
+Controller/
+DependencyInjection/
+Entity/
+Form/
+Manager/
+Model/
+Resources/
+Tests/Controller/
+OsbekroCommentsBundle.php
+README.md
+composer.json

@@ -1,0 +1,6 @@
+config/
+src/MajorTableBuilderModule/
+LICENSE
+Module.php
+README.md
+composer.json

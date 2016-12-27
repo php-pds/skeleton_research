@@ -1,0 +1,9 @@
+public/panel/
+src/
+.gitignore
+.travis.yml
+CONTRIBUTING.md
+LICENSE
+composer.json
+phpunit.xml
+readme.md

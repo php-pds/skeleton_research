@@ -1,0 +1,4 @@
+src/Illuminati/Database/
+.gitignore
+README.md
+composer.json

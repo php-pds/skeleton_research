@@ -1,0 +1,6 @@
+demo/
+src/Wechat/
+.gitattributes
+.gitignore
+composer.json
+index.php

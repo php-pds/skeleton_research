@@ -1,0 +1,8 @@
+DependencyInjection/
+Resources/
+Validator/Constraints/
+.gitignore
+LICENSE
+README.md
+TaveoPolishExtensionsBundle.php
+composer.json

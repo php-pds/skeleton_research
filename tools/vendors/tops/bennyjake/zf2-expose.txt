@@ -1,0 +1,8 @@
+config/
+src/ExposeForZf2/
+view/
+.gitignore
+LICENSE.txt
+Module.php
+README.md
+composer.json

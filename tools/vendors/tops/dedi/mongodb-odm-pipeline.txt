@@ -1,0 +1,4 @@
+src/Dedi/MongoDB/
+tests/
+.gitignore
+composer.json

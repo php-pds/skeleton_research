@@ -1,0 +1,3 @@
+thevajko/vf/core/
+README.md
+composer.json

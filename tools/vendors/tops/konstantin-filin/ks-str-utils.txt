@@ -1,0 +1,4 @@
+src/KsStrUtils/
+LICENSE
+README.md
+composer.json

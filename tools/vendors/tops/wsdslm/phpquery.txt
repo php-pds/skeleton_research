@@ -1,0 +1,8 @@
+cli/
+jQueryServer/
+phpQuery/
+test-cases/
+.gitignore
+Readme.md
+composer.json
+demo.php

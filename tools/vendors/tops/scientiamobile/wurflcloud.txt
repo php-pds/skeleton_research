@@ -1,0 +1,11 @@
+cache/
+examples/
+src/
+tests/
+.gitignore
+CHANGELOG.txt
+CONTRIBUTING.md
+COPYING.txt
+README.md
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,6 @@
+src/XAPISdk/
+tests/
+.gitignore
+LICENSE.txt
+README.md
+composer.json

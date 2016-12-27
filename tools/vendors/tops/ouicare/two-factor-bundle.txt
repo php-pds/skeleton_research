@@ -1,0 +1,17 @@
+Command/
+DependencyInjection/
+Mailer/
+Model/
+Resources/
+Security/TwoFactor/
+Tests/
+.coveralls.yml
+.gitignore
+.travis.yml
+CONTRIBUTORS.md
+LICENSE
+README.md
+SchebTwoFactorBundle.php
+UPGRADE.md
+composer.json
+phpunit.xml.dist

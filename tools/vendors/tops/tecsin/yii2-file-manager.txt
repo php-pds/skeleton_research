@@ -1,0 +1,8 @@
+assets/
+elfinder/
+tinymce/
+Bootstrap.php
+FileManagerTrait.php
+LICENSE.md
+README.md
+composer.json

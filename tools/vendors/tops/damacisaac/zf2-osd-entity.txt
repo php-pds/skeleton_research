@@ -1,0 +1,6 @@
+src/OsdEntity/
+tests/OsdEntityTest/
+.gitignore
+LICENSE
+README.md
+composer.json

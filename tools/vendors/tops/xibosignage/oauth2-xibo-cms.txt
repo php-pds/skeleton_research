@@ -1,0 +1,9 @@
+example/
+src/
+.gitattributes
+.gitignore
+LICENSE
+README.md
+Vagrantfile
+composer.json
+composer.lock

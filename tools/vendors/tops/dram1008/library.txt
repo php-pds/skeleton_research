@@ -1,0 +1,6 @@
+lib/
+.gitignore
+composer.json
+composerUpdate.bat
+install.txt
+log.txt

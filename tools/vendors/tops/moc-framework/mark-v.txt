@@ -1,0 +1,12 @@
+Component/
+Core/
+TestSuite/
+.codeclimate.yml
+.coveralls.yml
+.gitignore
+.project
+.travis.yml
+LICENSE.md
+README.md
+circle.yml
+composer.json

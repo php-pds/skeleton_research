@@ -1,0 +1,4 @@
+MasterCardMasterPassMerchant.phar
+README.md
+changelog.md
+composer.json

@@ -1,0 +1,5 @@
+lib/Idea/
+tests/
+.gitignore
+README.md
+composer.json

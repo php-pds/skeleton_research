@@ -1,0 +1,6 @@
+Modules/
+example/
+LICENSE
+README.md
+Stump.php
+composer.json

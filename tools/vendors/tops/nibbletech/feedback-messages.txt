@@ -1,0 +1,8 @@
+spec/Nibbletech/Support/
+src/
+.gitignore
+LICENSE
+composer.json
+composer.lock
+phpspec.yml
+readme.md

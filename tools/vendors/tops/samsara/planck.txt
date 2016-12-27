@@ -1,0 +1,10 @@
+src/Samsara/Planck/
+.coveralls.yml
+.gitignore
+.travis.yml
+CHANGELOG.md
+CONTRIBUTING.md
+COPYRIGHT
+LICENSE
+README.md
+composer.json

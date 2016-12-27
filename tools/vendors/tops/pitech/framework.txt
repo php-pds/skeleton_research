@@ -1,0 +1,9 @@
+Tests/
+.gitignore
+Framework.php
+PitechBundle.php
+PitechBundleInterface.php
+PitechKernel.php
+PitechKernelInterface.php
+composer.json
+phpunit.xml.dist

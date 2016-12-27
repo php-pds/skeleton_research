@@ -1,0 +1,6 @@
+.gitignore
+Cacert.php
+LICENSE
+README.md
+VERSION
+composer.json

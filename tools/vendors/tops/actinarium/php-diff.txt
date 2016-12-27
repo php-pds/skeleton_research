@@ -1,0 +1,4 @@
+example/
+lib/Diff/
+README.md
+composer.json

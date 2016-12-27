@@ -1,0 +1,3 @@
+src/DomainsBot/
+composer.json
+readme.md

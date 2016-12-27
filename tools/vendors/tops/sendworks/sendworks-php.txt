@@ -1,0 +1,10 @@
+lib/Sendworks/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+examples.php
+include_all.php
+phpcs.xml

@@ -1,0 +1,10 @@
+src/Autodns/
+test/
+.coveralls.yml
+.gitignore
+.travis.yml
+LICENSE
+Readme.md
+composer.json
+composer.lock
+phpunit.xml.dist

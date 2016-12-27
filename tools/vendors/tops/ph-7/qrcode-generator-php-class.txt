@@ -1,0 +1,7 @@
+LICENSE.txt
+QRCode.class.php
+QRCode.png
+QRCode2.png
+README.md
+composer.json
+example.php

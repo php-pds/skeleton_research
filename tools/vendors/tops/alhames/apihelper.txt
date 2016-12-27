@@ -1,0 +1,10 @@
+docs/
+src/ApiHelper/
+tests/Client/
+.editorconfig
+.gitignore
+.php_cs
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

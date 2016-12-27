@@ -1,0 +1,9 @@
+Annotation/
+Command/
+Component/HttpFoundation/
+DependencyInjection/
+Extractor/
+Resources/
+NgSymfonyBundle.php
+README.md
+composer.json

@@ -1,0 +1,15 @@
+bin/
+cache/
+config/
+resources/
+src/Phplx/
+tests/
+vagrant/puppet/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+Vagrantfile
+composer.json
+composer.lock
+phpunit.xml.dist

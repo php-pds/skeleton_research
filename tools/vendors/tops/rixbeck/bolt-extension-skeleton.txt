@@ -1,0 +1,8 @@
+screenshots/
+Extension.php
+LICENSE
+changelog.md
+composer.json
+config.yml.dist
+init.php
+readme.md

@@ -1,0 +1,10 @@
+config/
+src/Zf2DoctrineElasticsearchSync/
+tests/
+.scrutinizer.yml
+LICENSE
+Module.php
+README.md
+circle.yml
+composer.json
+phpunit.xml

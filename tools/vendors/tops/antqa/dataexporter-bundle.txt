@@ -1,0 +1,10 @@
+DependencyInjection/
+Resources/
+Tests/
+.gitignore
+.travis.yml
+AntQaDataExporterBundle.php
+DataExporter.php
+README.md
+composer.json
+phpunit.xml.dist

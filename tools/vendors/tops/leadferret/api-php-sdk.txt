@@ -1,0 +1,13 @@
+examples/
+src/SDK/
+tests/
+.env.example
+.gitignore
+.scrutinizer.yml
+.travis.yml
+README.md
+bootstrap.php
+composer.json
+composer.lock
+phpunit.xml
+phpunit.xml.dist

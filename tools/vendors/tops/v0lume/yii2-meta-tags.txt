@@ -1,0 +1,10 @@
+messages/
+migrations/
+models/
+views/
+LICENSE.md
+MetaTagBehavior.php
+MetaTags.php
+MetaTagsComponent.php
+README.md
+composer.json

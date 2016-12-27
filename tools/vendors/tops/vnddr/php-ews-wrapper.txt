@@ -1,0 +1,5 @@
+src/PhpEws/
+CONTRIBUTORS.txt
+LICENSE.txt
+README.md
+composer.json

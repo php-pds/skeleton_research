@@ -1,0 +1,13 @@
+bin/
+config/
+src/OpenstoreAkilia/
+test/
+.gitattributes
+.gitignore
+.php_cs
+.scrutinizer.yml
+.travis.yml
+LICENSE.txt
+README.md
+composer.json
+phpunit.xml.dist

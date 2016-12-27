@@ -1,0 +1,8 @@
+src/Controller/Component/
+tests/TestCase/Controller/Component/
+.gitignore
+.travis.yml
+LICENSE.md
+README.md
+composer.json
+composer.lock

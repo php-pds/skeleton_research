@@ -1,0 +1,6 @@
+bin/
+docs/
+.gitignore
+PayOut.php
+README.md
+composer.json

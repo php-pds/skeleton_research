@@ -1,0 +1,12 @@
+application/
+cache/
+library/
+logs/
+public/
+.gitattributes
+.gitignore
+.htaccess
+README.md
+composer.json
+index.html
+pom.xml

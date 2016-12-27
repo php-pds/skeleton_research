@@ -1,0 +1,5 @@
+Classes/Mw/JwtAuth/Security/
+Configuration/
+LICENSE.txt
+README.md
+composer.json

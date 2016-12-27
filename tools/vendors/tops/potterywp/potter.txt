@@ -1,0 +1,6 @@
+src/Potter/
+.gitignore
+LICENSE
+README-pt-br.md
+README.md
+composer.json

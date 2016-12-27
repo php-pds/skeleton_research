@@ -1,0 +1,7 @@
+Controller/Adminhtml/Product/Initialization/Helper/Plugin/
+Model/Product/Plugin/
+Plugin/Ui/DataProvider/Product/Form/Modifier/
+etc/
+README.md
+composer.json
+registration.php

@@ -1,0 +1,16 @@
+assets/
+behaviours/
+components/
+controllers/
+helpers/
+messages/
+migrations/
+models/
+vendor/
+views/base/
+widgets/
+.gitignore
+Module.php
+README.md
+composer.json
+variations_default.php

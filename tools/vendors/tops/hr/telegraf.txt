@@ -1,0 +1,7 @@
+example/
+src/Telegraf/
+tests/Telegraf/
+.gitignore
+README.md
+composer.json
+phpunit.xml

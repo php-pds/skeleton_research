@@ -1,0 +1,15 @@
+env/requirements/
+src/lib/manrog/components/network/curl/
+tests/
+.gitignore
+.travis.yml
+CHANGELOG.md
+CONTRIBUTOR_CODE_OF_CONDUCT.md
+LICENSE
+README.md
+composer.json
+composer.lock
+phpdox.xml
+phpmetrics.yml
+phpunit.xml
+phpunit.xsd

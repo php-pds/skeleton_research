@@ -1,0 +1,6 @@
+spec/CollegeFB/
+src/
+.gitignore
+LICENSE
+README.md
+composer.json

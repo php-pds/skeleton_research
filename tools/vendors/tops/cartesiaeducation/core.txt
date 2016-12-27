@@ -1,0 +1,17 @@
+Admin/
+Controller/
+DataFixtures/ORM/
+DependencyInjection/
+DoctrineMigrations/
+Entity/
+EventSubscriber/
+Repository/
+Resources/
+Tests/
+Twig/
+.gitignore
+CartesiaCoreBundle.php
+README.md
+composer.json
+composer.lock
+phpunit.xml

@@ -1,0 +1,13 @@
+.idea/dictionaries/
+drivers/
+.gitignore
+COPYING
+COPYING.LESSER
+ChangeLog
+LICENSE
+README.TXT
+composer.json
+pdoabstract.php
+pdoexception.php
+pdostatementabstract.php
+phppdo.php

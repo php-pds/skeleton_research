@@ -1,0 +1,13 @@
+bin/
+src/MegumiTeam/WooCommerceElasticsearch/
+tests/
+.editorconfig
+.gitignore
+.travis.yml
+Gruntfile.js
+README.md
+composer.json
+composer.lock
+package.json
+phpunit.xml.dist
+wp-cli.php

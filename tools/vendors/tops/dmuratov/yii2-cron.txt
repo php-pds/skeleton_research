@@ -1,0 +1,4 @@
+Manager.php
+README.md
+Task.php
+composer.json

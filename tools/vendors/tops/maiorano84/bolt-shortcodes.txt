@@ -1,0 +1,11 @@
+examples/shortcodes/
+src/
+vendor/
+.gitignore
+Extension.php
+LICENSE
+README.md
+composer.json
+composer.lock
+config.yml.dist
+init.php

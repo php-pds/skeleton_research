@@ -1,0 +1,6 @@
+src/
+tests/CodeSniffer/PSRDefault/
+.gitignore
+.travis-ci.yml
+composer.json
+composer.lock

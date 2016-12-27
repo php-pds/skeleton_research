@@ -1,0 +1,6 @@
+resources/
+src/Eyas/
+tests/
+.gitignore
+README.md
+composer.json

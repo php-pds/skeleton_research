@@ -1,0 +1,10 @@
+examples/
+src/
+tests/
+.env.example
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml

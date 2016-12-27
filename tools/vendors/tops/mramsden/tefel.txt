@@ -1,0 +1,9 @@
+public/
+spec/
+src/
+.editorconfig
+.gitignore
+README.md
+circle.yml
+composer.json
+phpspec.yml.dist

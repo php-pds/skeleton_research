@@ -1,0 +1,8 @@
+doc/
+library/
+tests/
+.gitignore
+LICENSE
+Makefile
+README.md
+composer.json

@@ -1,0 +1,6 @@
+spec/Tuurbo/AmazonPayment/
+src/
+.gitignore
+LICENSE
+README.md
+composer.json

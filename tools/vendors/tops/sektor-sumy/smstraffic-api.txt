@@ -1,0 +1,6 @@
+doc/
+src/DevGuru/SmsTrafficApi/
+tests/DevGuru/SmsTrafficApi/Tests/
+.gitignore
+README.md
+composer.json

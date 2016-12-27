@@ -1,0 +1,8 @@
+docs/
+spec/EventListener/
+src/
+.gitignore
+LICENSE
+README.md
+composer.json
+phpspec.yml

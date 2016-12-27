@@ -1,0 +1,10 @@
+src/CornyPhoenix/Fipa/Sl/
+tests/CornyPhoenix/Fipa/Sl/
+.gitignore
+.travis.yml
+LICENSE.md
+README.md
+basic-example.php
+composer.json
+composer.lock
+phpunit.xml

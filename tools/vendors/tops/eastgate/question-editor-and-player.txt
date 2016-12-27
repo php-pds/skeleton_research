@@ -1,0 +1,8 @@
+common/src/
+editor/src/
+player/
+screenshots/
+sqls/
+LICENSE
+README.md
+composer.json

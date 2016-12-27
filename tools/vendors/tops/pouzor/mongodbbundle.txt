@@ -1,0 +1,11 @@
+Command/
+Constants/
+DependencyInjection/
+DocumentManager/
+Exception/
+Repository/
+Resources/
+Services/
+MongoDBBundle.php
+README.md
+composer.json

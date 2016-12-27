@@ -1,0 +1,9 @@
+Annotations/
+Command/
+DBAL/Schema/
+DependencyInjection/
+.gitignore
+IntaroCustomIndexBundle.php
+LICENSE
+README.md
+composer.json

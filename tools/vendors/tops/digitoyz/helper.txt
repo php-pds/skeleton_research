@@ -1,0 +1,7 @@
+LICENSE
+README.md
+composer.json
+default.php
+helper.class.php
+helperString.class.php
+index.php

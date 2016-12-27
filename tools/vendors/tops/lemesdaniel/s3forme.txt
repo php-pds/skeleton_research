@@ -1,0 +1,5 @@
+src/Providers/
+.gitignore
+LICENSE
+README.md
+composer.json

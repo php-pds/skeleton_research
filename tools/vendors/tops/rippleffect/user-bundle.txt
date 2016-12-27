@@ -1,0 +1,17 @@
+Authenticator/
+Controller/
+DependencyInjection/
+Entity/
+Event/
+Form/Type/
+Generator/
+Interfaces/
+Invite/
+Listener/
+Resources/
+Security/
+Tests/
+.gitignore
+RippleUserBundle.php
+composer.json
+phpunit.xml

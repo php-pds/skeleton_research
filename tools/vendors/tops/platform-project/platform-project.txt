@@ -1,0 +1,16 @@
+help/
+info/
+mirrors/
+networks/
+sandbox/
+servers/
+sites/
+snapshots/
+.codeclimate.yml
+.scrutinizer.yml
+.travis.yml
+README.md
+composer.json
+index.php
+phpunit.xml
+platform

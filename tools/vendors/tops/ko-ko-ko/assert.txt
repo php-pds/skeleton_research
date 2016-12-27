@@ -1,0 +1,14 @@
+.provision/
+src/
+tests/
+.gitattributes
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+Vagrantfile
+composer.json
+composer.lock
+logo.jpg
+phpunit.xml.dist

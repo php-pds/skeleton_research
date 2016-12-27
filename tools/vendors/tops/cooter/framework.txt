@@ -1,0 +1,4 @@
+src/Cooter/Framework/
+.gitignore
+LICENSE
+composer.json

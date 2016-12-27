@@ -1,0 +1,11 @@
+src/Flow/
+test/
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+composer.json
+phpunit
+phpunit.xml
+travis.phpunit.xml

@@ -1,0 +1,9 @@
+src/PawelDziok/GraphqlParser/
+test/PawelDziok/GraphqlLexer/
+.gitignore
+.travis.yml
+LICENCE
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

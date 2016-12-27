@@ -1,0 +1,14 @@
+docker/
+features/
+newscoop/
+old_features/
+spec/
+.gitignore
+.travis.yml
+Dockerfile
+LICENSE
+README.md
+behat.yml
+docker-compose-dev.yml
+docker-compose.yml
+phpspec.yml

@@ -1,0 +1,7 @@
+src/Codecontrol/Functionizer/
+tests/Codecontrol/
+.gitignore
+LICENSE
+README.md
+composer.json
+phpunit.xml

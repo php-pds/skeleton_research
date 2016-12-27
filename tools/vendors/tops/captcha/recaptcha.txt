@@ -1,0 +1,7 @@
+examples/
+recaptcha/
+src/BW/Captcha/
+.gitignore
+LICENSE
+README.md
+composer.json

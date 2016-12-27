@@ -1,0 +1,7 @@
+attachments/
+log/
+.gitignore
+README.md
+composer.json
+config.dist.php
+mailer.php

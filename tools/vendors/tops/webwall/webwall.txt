@@ -1,0 +1,12 @@
+src/
+tests/Truss/Tests/
+themes/
+webroot/
+.bowerrc
+.gitignore
+README.md
+VERSION
+component.json
+composer.json
+composer.lock
+phpunit.xml.dist

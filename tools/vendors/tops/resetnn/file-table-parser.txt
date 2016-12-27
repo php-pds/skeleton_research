@@ -1,0 +1,11 @@
+.idea/
+.gitignore
+ErrorException.php
+ExcelFileHandler.php
+FetchDataFile.php
+FileHandlerInterface.php
+FileTableParser.php
+PlainFileHandler.php
+README.md
+composer.json
+composer.lock

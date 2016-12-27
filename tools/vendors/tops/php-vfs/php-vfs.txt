@@ -1,0 +1,15 @@
+build/pear/
+docs/examples/permissions/
+src/VirtualFileSystem/
+tests/VirtualFileSystem/
+.gitignore
+.sami.php
+.travis.yml
+CONTRIBUTORS.md
+LICENCE
+Makefile
+README.md
+composer.json
+composer.lock
+phpmd.xml
+phpunit.xml

@@ -1,0 +1,9 @@
+classes/
+example/
+interfaces/
+tests/classes/
+.gitignore
+VkPhpSdk.jpg
+composer.json
+license.txt
+readme.md

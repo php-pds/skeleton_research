@@ -1,0 +1,15 @@
+Command/
+DependencyInjection/
+Generator/
+Manipulator/
+Resources/
+Tests/
+Twig/
+bin/
+docker/
+.gitignore
+BackendwebGeneratorBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

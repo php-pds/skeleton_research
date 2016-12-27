@@ -1,0 +1,8 @@
+Tests/
+doc/
+lib/NetBox/ProxyManager/
+.gitignore
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

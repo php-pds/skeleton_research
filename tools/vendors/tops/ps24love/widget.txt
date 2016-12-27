@@ -1,0 +1,9 @@
+src/Ps24love/Widget/
+tests/
+.gitattributes
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml

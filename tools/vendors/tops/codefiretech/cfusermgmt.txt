@@ -1,0 +1,7 @@
+backend/
+common/
+frontend/
+README.md
+composer.json
+license.txt
+plugin.sql

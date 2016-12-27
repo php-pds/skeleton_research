@@ -1,0 +1,6 @@
+src/Assh/PHPtoJavascript/
+tests/
+.gitignore
+.travis.yml
+composer.json
+phpunit.xml

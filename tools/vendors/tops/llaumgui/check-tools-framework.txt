@@ -1,0 +1,17 @@
+bin/
+doc/
+src/
+tests/
+.codeclimate.yml
+.editorconfig
+.gitignore
+.travis.yml
+LICENSE.txt
+README.md
+apigen.neon
+composer.json
+couscous.yml
+generate-website.sh
+phpcs.xml
+phpct.yml
+phpunit.xml.dist

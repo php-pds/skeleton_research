@@ -1,0 +1,17 @@
+src/
+templates/
+.editorconfig
+.gitattributes
+.gitignore
+.scrutinizer.yml
+.styleci.yml
+.travis.yml
+CHANGELOG.md
+CONDUCT.md
+CONTRIBUTING.md
+LICENSE.md
+Module.php
+README.md
+composer.json
+phpunit.xml.dist
+zf.php

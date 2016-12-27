@@ -1,0 +1,7 @@
+examples/
+js/
+src/Devristo/Phpws/
+tests/
+.gitignore
+README.md
+composer.json

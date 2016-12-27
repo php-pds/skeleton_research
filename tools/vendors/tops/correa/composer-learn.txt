@@ -1,0 +1,6 @@
+src/Correa/App/
+tests/Correa/App/
+.gitignore
+README.md
+composer.json
+phpunit.xml

@@ -1,0 +1,13 @@
+src/Raygun4php/
+tests/
+.gitattributes
+.gitignore
+.travis.yml
+CodeIgniterInstructions.md
+LICENSE
+Laravel5Instructions.md
+README.md
+SymfonyInstructions.md
+composer.json
+phpunit.xml
+testbootstrap.php

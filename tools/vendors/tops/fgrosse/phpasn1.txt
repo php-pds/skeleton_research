@@ -1,0 +1,13 @@
+examples/
+lib/
+tests/
+.coveralls.yml
+.gitignore
+.styleci.yml
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

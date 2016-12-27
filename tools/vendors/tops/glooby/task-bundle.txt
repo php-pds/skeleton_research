@@ -1,0 +1,15 @@
+bin/
+script/
+src/
+.coveralls.yml
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CHANGELOG.md
+CONTRIBUTING.md
+LICENSE.md
+README.md
+composer.json
+composer.lock
+contributors.txt
+phpunit.xml.dist

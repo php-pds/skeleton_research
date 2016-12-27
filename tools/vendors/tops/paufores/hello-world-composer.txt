@@ -1,0 +1,14 @@
+2DAM2015_16/
+Android/
+esborrar/
+helloWorldComposer
+helloWorldComposerTest/
+learning/
+private/
+school/
+src/
+.gitignore
+README.md
+composer.json
+composer.lock
+main.php

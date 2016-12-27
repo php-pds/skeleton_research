@@ -1,0 +1,7 @@
+app/
+lib/
+vendor/
+.htaccess
+README.md
+composer.json
+index.php

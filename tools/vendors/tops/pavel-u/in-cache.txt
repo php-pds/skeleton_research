@@ -1,0 +1,7 @@
+src/InCache/
+tests/
+LICENSE
+README.md
+composer.json
+phpmd.xml
+phpspec.yml

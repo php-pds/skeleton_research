@@ -1,0 +1,6 @@
+examples/
+src/Borla/Thumb/
+.gitignore
+LICENSE
+README.md
+composer.json

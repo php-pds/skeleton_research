@@ -1,0 +1,8 @@
+TravelDuck/API/Communication/
+certificates/CA/
+tests/Response/
+.gitignore
+LICENSE
+README.md
+composer.json
+phpunit.xml

@@ -1,0 +1,5 @@
+.gitignore
+LICENSE
+MTOMSoapClient.php
+README.md
+composer.json

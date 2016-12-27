@@ -1,0 +1,13 @@
+exceptions/
+includes/
+maintenance/
+scripts/
+skin/
+specials/
+tests/
+.project
+COPYING
+ChangeLog
+INSTALL
+README.md
+composer.json

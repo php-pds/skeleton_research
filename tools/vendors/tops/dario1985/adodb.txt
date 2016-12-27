@@ -1,0 +1,8 @@
+ADOdb/
+Examples/PDO/
+Extension/
+Tests/
+.gitignore
+.travis.yml
+README.md
+composer.json

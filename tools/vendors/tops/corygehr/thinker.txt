@@ -1,0 +1,12 @@
+api/
+bootstrap/
+shared/
+thinkerfw/
+www/
+.gitattributes
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock

@@ -1,0 +1,4 @@
+src/Ubidots/
+LICENSE
+README.rst
+composer.json

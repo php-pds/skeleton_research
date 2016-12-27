@@ -1,0 +1,12 @@
+docs/
+src/QueryMap/
+tests/
+.gitignore
+.php_cs
+CHANGELOG.md
+LICENSE.txt
+README.md
+ROADMAP.md
+composer.json
+composer.lock
+phpunit.xml.dist

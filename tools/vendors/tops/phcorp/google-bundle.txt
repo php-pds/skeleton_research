@@ -1,0 +1,13 @@
+DependencyInjection/
+Google/
+Resources/
+Security/
+Templating/Helper/
+Tests/
+Twig/Extension/
+.gitignore
+BITGoogleBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,14 @@
+Examples/
+PHPDaemon/
+bin/
+conf/
+init-scripts/
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+VERSION
+composer.json
+phpunit.xml.dist

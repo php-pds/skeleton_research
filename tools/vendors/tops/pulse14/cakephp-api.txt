@@ -1,0 +1,6 @@
+src/
+tests/TestCase/Controller/Component/
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

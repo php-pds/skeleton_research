@@ -1,0 +1,7 @@
+bin/
+spec/Digia/Core/
+src/Digia/Core/
+.gitignore
+composer.json
+phpunit.xml
+run-test.sh

@@ -1,0 +1,6 @@
+test/
+.travis.yml
+LICENSE
+README.md
+composer.json
+left-pad.php

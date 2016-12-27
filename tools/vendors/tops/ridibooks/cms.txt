@@ -1,0 +1,14 @@
+src/Cms/
+static/
+views/
+.bowerrc
+.gitattributes
+.gitignore
+.gitmodules
+Makefile
+README.md
+bootstrap.php
+bower.json
+composer.json
+favicon.ico
+index.php

@@ -1,0 +1,7 @@
+Core/
+Helpers/
+.gitignore
+LICENSE
+README.md
+composer.json
+errorlog.html

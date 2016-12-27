@@ -1,0 +1,6 @@
+src/Nozols/SimpleRouter/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,7 @@
+DependencyInjection/
+Entity/
+Resources/config/
+Service/
+README.md
+RepositoryAliasBundle.php
+composer.json

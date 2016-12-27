@@ -1,0 +1,6 @@
+script/
+src/file_templates/
+.gitignore
+README.md
+composer.json
+composer.lock

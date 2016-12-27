@@ -1,0 +1,15 @@
+enums/
+ql/
+tests/
+.gitignore
+ESphinxApiConnection.php
+ESphinxBaseConnection.php
+ESphinxException.php
+ESphinxMysqlConnection.php
+ESphinxQuery.php
+ESphinxResult.php
+ESphinxSearchCriteria.php
+README.md
+composer.json
+sphinxapi-2.0.9.php
+sphinxapi-2.1.1.php

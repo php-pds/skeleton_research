@@ -1,0 +1,5 @@
+src/Dobest/
+tests/
+README.md
+composer.json
+phpunit.xml

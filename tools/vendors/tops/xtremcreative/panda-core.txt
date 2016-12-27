@@ -1,0 +1,3 @@
+lib/Panda/Core/
+test/
+composer.json

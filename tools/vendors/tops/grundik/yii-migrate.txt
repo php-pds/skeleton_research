@@ -1,0 +1,8 @@
+YiiMigrate/
+config/
+migrations/
+README.md
+composer.json
+migrate
+migrate.bat
+yiic.php

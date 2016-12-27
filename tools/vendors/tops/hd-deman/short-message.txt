@@ -1,0 +1,4 @@
+lib/ShortMessage/
+LICENSE
+README.md
+composer.json

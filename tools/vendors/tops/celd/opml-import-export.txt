@@ -1,0 +1,6 @@
+src/Celd/Opml/
+tests/Celd/Opml/
+.gitignore
+README.md
+composer.json
+phpunit.xml.dist

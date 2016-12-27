@@ -1,0 +1,4 @@
+JSRegister.php
+LICENSE
+README.md
+composer.json

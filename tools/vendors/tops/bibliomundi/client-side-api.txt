@@ -1,0 +1,10 @@
+docs/
+lib/
+.gitignore
+LICENSE
+README _PT_BR.md
+README.md
+composer.json
+errors.md
+index.php
+onix-essential.xml

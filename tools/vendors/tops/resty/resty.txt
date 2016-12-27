@@ -1,0 +1,10 @@
+docs/api/
+src/
+tests/
+.gitignore
+CHANGELOG.md
+LICENSE
+README.md
+composer.json
+composer.lock
+example.php

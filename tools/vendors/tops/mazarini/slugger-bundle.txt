@@ -1,0 +1,10 @@
+Controller/
+DependencyInjection/
+Form/Type/
+Resources/
+Utils/
+.gitignore
+LICENSE
+MazariniSluggerBundle.php
+README.md
+composer.json

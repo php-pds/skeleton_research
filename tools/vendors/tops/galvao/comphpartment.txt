@@ -1,0 +1,11 @@
+data/
+media/
+public-example/
+src/ComPHPartment/
+.gitignore
+LICENSE
+README.md
+autoload.php
+composer.json
+composer.lock
+config.json.dist

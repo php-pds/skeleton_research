@@ -1,0 +1,9 @@
+Command/
+DependencyInjection/
+Entity/
+Manager/
+Resources/config/
+BitcoindBundle.php
+LICENSE
+README.markdown
+composer.json

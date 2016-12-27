@@ -1,0 +1,16 @@
+Controller/
+DependencyInjection/
+Events/
+Factories/
+Interfaces/
+Models/
+Resources/
+Services/
+Subscribers/
+Tests/Controller/
+bin/
+.gitignore
+LICENSE
+README.md
+TechDataAS2SecureBundle.php
+composer.json

@@ -1,0 +1,5 @@
+core/backend/
+temporary/calculation/Mathematica/
+.gitignore
+README.md
+composer.json

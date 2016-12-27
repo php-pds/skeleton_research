@@ -1,0 +1,10 @@
+Controller/
+DependencyInjection/
+Resources/
+.gitignore
+LICENSE
+MoproTranslationUIBundle.php
+README.md
+composer.json
+package.json
+webpack.config.js

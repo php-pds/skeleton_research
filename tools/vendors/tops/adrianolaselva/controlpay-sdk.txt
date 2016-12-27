@@ -1,0 +1,10 @@
+src/Integracao/ControlPay/
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+README.md
+bootstrap.php
+composer.json
+config.ini.dist
+phpunit.xml

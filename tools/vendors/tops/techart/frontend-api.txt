@@ -1,0 +1,7 @@
+examples/
+src/
+tests/
+views/
+README.md
+Version
+composer.json

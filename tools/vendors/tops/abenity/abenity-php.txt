@@ -1,0 +1,8 @@
+examples/
+lib/Abenity/
+tests/Abenity/
+.gitignore
+LICENSE.txt
+README.md
+composer.json
+phpunit.xml.dist

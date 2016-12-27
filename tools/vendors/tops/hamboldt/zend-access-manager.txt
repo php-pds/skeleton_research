@@ -1,0 +1,8 @@
+doc/
+src/ZendAccessManager/
+test/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock

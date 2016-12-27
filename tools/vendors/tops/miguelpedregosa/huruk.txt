@@ -1,0 +1,11 @@
+build/
+src/
+test/
+.gitignore
+.travis.yml
+README.md
+build.xml
+composer.json
+phpdox.xml
+phpspec.yml
+phpunit.xml.dist

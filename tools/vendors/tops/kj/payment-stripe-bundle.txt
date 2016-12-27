@@ -1,0 +1,12 @@
+Client/
+DependencyInjection/
+Form/
+Plugin/
+Resources/config/
+Tests/
+Validators/
+KJPaymentStripeBundle.php
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

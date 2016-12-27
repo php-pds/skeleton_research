@@ -1,0 +1,11 @@
+app/
+bin/
+src/
+web/
+.editorconfig
+.gitignore
+.php_cs
+.scrutinizer.yml
+LICENSE
+README.md
+composer.json

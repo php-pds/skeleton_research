@@ -1,0 +1,6 @@
+SFAPIclient/
+examples/
+CURL_README.md
+LICENSE
+README.md
+composer.json

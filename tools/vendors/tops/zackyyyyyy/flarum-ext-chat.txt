@@ -1,0 +1,4 @@
+js/forum/
+README.md
+bootstrap.php
+composer.json

@@ -1,0 +1,12 @@
+bootstrap/
+config/
+htdocs/
+library/
+storage/cache/
+.env.local.php
+.env.production.php
+.gitattributes
+.gitignore
+README.md
+composer.json
+wp-cli.yml

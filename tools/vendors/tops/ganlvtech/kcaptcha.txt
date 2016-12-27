@@ -1,0 +1,7 @@
+demos/
+fonts/
+util/
+.gitignore
+KCAPTCHA.php
+README.md
+composer.json

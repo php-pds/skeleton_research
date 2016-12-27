@@ -1,0 +1,5 @@
+example/
+lib/StateMachine/
+README.md
+composer.json
+composer.lock

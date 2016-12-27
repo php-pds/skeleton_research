@@ -1,0 +1,11 @@
+assets/
+includes/
+js/
+.gitignore
+LICENSE
+README.md
+composer.json
+media_mediahaven.css
+media_mediahaven.info
+media_mediahaven.module
+synchronize-github-drupal.bat

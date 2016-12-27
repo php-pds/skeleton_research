@@ -1,0 +1,12 @@
+.idea/
+documentation/
+emulators/ffmpeg-php/
+examples/
+src/PHPVideoToolkit/
+.gitignore
+CHANGELOG.md
+LICENSE.md
+README.md
+autoloader.php
+composer.json
+composer.lock

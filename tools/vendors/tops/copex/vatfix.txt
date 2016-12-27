@@ -1,0 +1,9 @@
+Helper/
+Plugin/
+Test/Unit/Plugin/
+etc/
+i18n/
+License.md
+README.md
+composer.json
+registration.php

@@ -1,0 +1,10 @@
+assets/css/
+gbox/
+uploads/
+.gitignore
+.htaccess
+LICENSE
+README.md
+composer.json
+gbox_base.sql
+index.php

@@ -1,0 +1,15 @@
+config/
+src/
+var/
+web/
+.editorconfig
+.gitignore
+.styleci.yml
+.travis.yml
+Gulpfile.js
+LICENCE
+README.md
+boilerplate.sql
+composer.json
+package.json
+phpunit.xml.dist

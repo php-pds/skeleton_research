@@ -1,0 +1,9 @@
+tests/
+.scrutinizer.yml
+.travis.yml
+LICENSE.md
+README.md
+UserAgentObject.php
+UserAgentParser.php
+composer.json
+phpunit.xml.dist

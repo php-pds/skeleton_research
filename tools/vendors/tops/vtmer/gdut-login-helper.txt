@@ -1,0 +1,13 @@
+auth/
+tests/
+.gitignore
+ESWIS.php
+LICENSE
+Library.php
+LibraryAJAX.php
+Makefile
+README.mkd
+composer.json
+composer.lock
+jwgl.php
+login.php

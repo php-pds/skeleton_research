@@ -1,0 +1,9 @@
+bin/
+conf/
+src/Garoevans/ComposerSym/
+.gitignore
+.travis.yml
+README.md
+composer.json
+phpunit.autoload.php
+phpunit.xml

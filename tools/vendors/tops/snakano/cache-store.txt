@@ -1,0 +1,8 @@
+src/Domino/CacheStore/
+tests/
+.gitignore
+.travis.yml
+Guardfile
+README.md
+composer.json
+phpunit.xml.dist

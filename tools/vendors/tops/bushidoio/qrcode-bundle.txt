@@ -1,0 +1,10 @@
+Controller/
+DependencyInjection/
+Lib/phpqrcode/
+Resources/
+Service/
+Twig/
+.gitignore
+BushidoIOQRCodeBundle.php
+README.md
+composer.json

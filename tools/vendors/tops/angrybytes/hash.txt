@@ -1,0 +1,11 @@
+src/AngryBytes/Hash/
+tests/
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENSE.md
+README.md
+UPGRADING.md
+composer.json
+composer.lock
+phpunit.xml

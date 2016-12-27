@@ -1,0 +1,8 @@
+Helper/
+Model/Plugin/Rate/
+etc/
+i18n/
+LICENSE.txt
+README.md
+composer.json
+registration.php

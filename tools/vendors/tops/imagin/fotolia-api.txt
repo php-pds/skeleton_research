@@ -1,0 +1,6 @@
+src/Fotolia/
+.gitignore
+README.html
+README.md
+composer.json
+example.php

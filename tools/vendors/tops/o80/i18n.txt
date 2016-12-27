@@ -1,0 +1,11 @@
+src/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+o80-i18n.iml
+phpunit.bat
+phpunit.sh

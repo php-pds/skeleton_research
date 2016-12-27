@@ -1,0 +1,14 @@
+assets/
+messages/en_us/
+vendor/
+views/
+.gitignore
+Gruntfile.js
+LICENSE.md
+README.md
+Theme.php
+bower.json
+composer.json
+composer.lock
+default.png
+package.json

@@ -1,0 +1,14 @@
+.idea/
+bin/
+cli/
+.editorconfig
+.gitattributes
+.gitignore
+.travis.yml
+LICENSE.txt
+composer.json
+config.php
+phpunit.xml
+readme.md
+server.php
+valet

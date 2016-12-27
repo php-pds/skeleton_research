@@ -1,0 +1,12 @@
+assets/
+collections/
+components/
+messages/
+views/
+.gitattributes
+.gitignore
+ChatAsset.php
+ChatLibAsset.php
+ChatWidget.php
+composer.json
+composer.lock

@@ -1,0 +1,9 @@
+src/Repo2/QueryReactor/
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit_mysql.xml

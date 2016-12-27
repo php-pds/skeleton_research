@@ -1,0 +1,7 @@
+bin/
+src/
+.gitignore
+.travis.yml
+README.md
+boot.php
+composer.json

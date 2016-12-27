@@ -1,0 +1,12 @@
+environment/
+.gitignore
+LICENSE.txt
+README.md
+composer.json
+terminatur.bootstrap.inc
+terminatur.code.inc
+terminatur.database.inc
+terminatur.drush.inc
+terminatur.files.inc
+terminatur.settings.inc
+terminatur.utils.inc

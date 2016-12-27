@@ -1,0 +1,8 @@
+DependencyInjection/
+Resources/config/
+Services/
+.gitignore
+AwildeepDisqueBundle.php
+LICENSE.txt
+README.md
+composer.json

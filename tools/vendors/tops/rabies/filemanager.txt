@@ -1,0 +1,13 @@
+Action/
+Ajax/
+Templates/
+Utils/
+Views/
+config/
+tinymce/plugins/responsivefilemanager/
+Dialog.php
+Download.php
+FileManagerControllerProvider.php
+README.md
+Upload.php
+composer.json

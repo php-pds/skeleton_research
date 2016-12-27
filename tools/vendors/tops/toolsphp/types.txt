@@ -1,0 +1,12 @@
+src/
+tests/
+.gitignore
+.scrutinizer.yml
+README.md
+bootstrap.php
+composer.json
+composer.lock
+dump.rdb
+phpunit.xml
+test.php
+wercker.yml

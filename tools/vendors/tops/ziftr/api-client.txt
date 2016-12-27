@@ -1,0 +1,6 @@
+examples/
+lib/ApiClient/
+.gitignore
+LICENSE
+README.md
+composer.json

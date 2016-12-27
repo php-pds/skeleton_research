@@ -1,0 +1,11 @@
+module/Mock/
+src/Module/
+test/phpunit/Module/
+.gitignore
+LICENSE
+README.md
+bootstrap.php
+composer.json
+composer.lock
+config.json
+phpunit.xml.dist

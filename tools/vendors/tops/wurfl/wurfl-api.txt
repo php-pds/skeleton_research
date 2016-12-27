@@ -1,0 +1,15 @@
+WURFL/
+docs/
+examples/
+tests/
+tools/
+.gitattributes
+.gitignore
+.php_cs
+.scrutinizer.yml
+.travis.yml
+CHANGELOG.txt
+LICENSE
+README.md
+composer.json
+phpunit.xml

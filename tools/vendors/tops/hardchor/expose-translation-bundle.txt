@@ -1,0 +1,13 @@
+Command/
+Controller/
+DependencyInjection/
+Dumper/
+Finder/
+Resources/
+Tests/
+.gitignore
+.travis.yml
+BazingaExposeTranslationBundle.php
+README.markdown
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,14 @@
+assets/
+incs/
+langs/
+.gitignore
+LICENSE
+composer.json
+functions.php
+index.php
+readme.md
+readme.txt
+screenshot-1.png
+screenshot-2.png
+screenshot-3.png
+screenshot-4.png

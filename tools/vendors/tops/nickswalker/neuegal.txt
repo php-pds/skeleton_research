@@ -1,0 +1,8 @@
+Sample Gallery/
+src/
+themes/default/
+.gitignore
+README.md
+composer.json
+example.jpg
+index.php

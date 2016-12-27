@@ -1,0 +1,17 @@
+views/scaffolding/
+.gitignore
+AdminLteAsset.php
+AdminLtePluginAsset.php
+AdminLteSkinAsset.php
+AutoloadExample.php
+Button.php
+ICheckAsset.php
+IonIconAsset.php
+LICENSE
+Menu.php
+NavBar.php
+README.md
+SideBar.php
+SideUser.php
+Widget.php
+composer.json

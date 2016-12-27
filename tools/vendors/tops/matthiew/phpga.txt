@@ -1,0 +1,5 @@
+src/GoogleAnalytics/
+LICENSE
+README.md
+RELEASE_NOTES
+composer.json

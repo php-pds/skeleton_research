@@ -1,0 +1,10 @@
+DependencyInjection/
+Plugin/
+Resources/
+Tests/
+.gitignore
+.travis.yml
+README.markdown
+WanaworkJMSPaypalRestBundle.php
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,7 @@
+.idea/
+assets/css/
+LICENSE
+README.md
+Slider.php
+SliderAssets.php
+composer.json

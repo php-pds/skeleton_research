@@ -1,0 +1,7 @@
+lib/DependencyInjection/
+.gitignore
+README.md
+composer.json
+config.xml.dist
+container.php.dist
+plugin.xml

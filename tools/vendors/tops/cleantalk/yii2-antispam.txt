@@ -1,0 +1,8 @@
+tests/
+validators/
+.gitignore
+.travis.yml
+Component.php
+README.md
+Widget.php
+composer.json

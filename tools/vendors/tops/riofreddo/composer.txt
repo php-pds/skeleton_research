@@ -1,0 +1,7 @@
+src/
+.gitignore
+autoload.php
+composer.json
+composer.lock
+composer.phar
+console.php

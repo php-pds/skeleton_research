@@ -1,0 +1,7 @@
+src/Tests/
+.editorconfig
+.gitignore
+.travis.yml
+Makefile
+composer.json
+phpunit.xml.dist

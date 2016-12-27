@@ -1,0 +1,8 @@
+Config/
+Controller/Component/
+.editorconfig
+.gitignore
+README.md
+VERSION.txt
+composer.json
+license.txt

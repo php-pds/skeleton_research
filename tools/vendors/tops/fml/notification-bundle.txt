@@ -1,0 +1,4 @@
+src/FML/Notification/NotificationBundle/
+.gitignore
+README.md
+composer.json

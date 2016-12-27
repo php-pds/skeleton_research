@@ -1,0 +1,10 @@
+build/
+src/
+tests/
+.gitignore
+.jshintrc
+Gruntfile.js
+LICENSE.md
+README.md
+bower.json
+package.json

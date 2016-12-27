@@ -1,0 +1,12 @@
+bin/
+css/
+img/
+js/
+src/SIU/InlineTemplate/
+templates/
+.gitignore
+README.md
+composer.json
+composer.lock
+index.php
+version

@@ -1,0 +1,9 @@
+app/
+pagoda/
+web/
+.gitignore
+.htaccess
+Boxfile
+LICENSE.md
+README.md
+composer.json

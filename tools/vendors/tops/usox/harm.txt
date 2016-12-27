@@ -1,0 +1,10 @@
+bin/
+src/
+tests/
+.gitignore
+.hhconfig
+LICENSE
+Makefile
+README.md
+composer.json
+phpunit.xml

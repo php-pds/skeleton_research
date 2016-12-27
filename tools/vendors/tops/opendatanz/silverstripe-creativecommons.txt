@@ -1,0 +1,10 @@
+_config/
+code/
+templates/Includes/
+_config.php
+changelog.md
+code-of-conduct.md
+composer.json
+contributing.md
+license.md
+readme.md

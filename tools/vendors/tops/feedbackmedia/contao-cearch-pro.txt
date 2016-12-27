@@ -1,0 +1,11 @@
+classes/
+config/
+dca/
+languages/
+modules/
+templates/
+LICENSE
+README.md
+Search.php
+Transliterate.php
+composer.json

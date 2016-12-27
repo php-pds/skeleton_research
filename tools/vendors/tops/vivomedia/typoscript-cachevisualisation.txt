@@ -1,0 +1,7 @@
+Classes/VIVOMEDIA/TypoScript/CacheVisualisation/Aspects/
+Configuration/
+Docs/
+Resources/
+LICENSE
+README.md
+composer.json

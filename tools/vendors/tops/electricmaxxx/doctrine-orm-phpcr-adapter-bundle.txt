@@ -1,0 +1,10 @@
+DependencyInjection/
+Event/
+Resources/config/
+Tests/
+.gitignore
+.travis.yml
+DoctrineOrmPhpcrAdapterBundle.php
+README.md
+composer.json
+phpunit.xml.dist

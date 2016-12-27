@@ -1,0 +1,5 @@
+.idea/
+src/FlashMessages/
+.gitignore
+README.md
+composer.json

@@ -1,0 +1,10 @@
+examples/
+screenshots/
+src/
+.gitignore
+AUTHORS
+CHANGELOG
+COPYING
+README.md
+VERSION
+composer.json

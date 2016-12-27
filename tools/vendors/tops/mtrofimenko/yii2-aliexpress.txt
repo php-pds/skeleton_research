@@ -1,0 +1,6 @@
+inventory/
+request/
+.gitignore
+AliExpress.php
+README.md
+composer.json

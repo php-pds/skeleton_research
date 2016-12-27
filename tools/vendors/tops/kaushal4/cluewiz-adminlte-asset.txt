@@ -1,0 +1,9 @@
+example-views/yiisoft/yii2-app/
+helpers/
+tests/
+web/
+widgets/
+.gitignore
+CHANGELOG.md
+composer.json
+composer.lock

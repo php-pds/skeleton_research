@@ -1,0 +1,7 @@
+.gitignore
+JSON.php
+README.md
+cleantalk.class.php
+cleantalk.custom.php
+composer.json
+example.php

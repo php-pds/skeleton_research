@@ -1,0 +1,6 @@
+src/
+.hhconfig
+CHANGELOG.md
+LICENSE
+README.md
+composer.json

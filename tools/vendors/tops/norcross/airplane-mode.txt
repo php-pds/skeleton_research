@@ -1,0 +1,11 @@
+inc/
+languages/
+lib/
+.gitattributes
+.gitignore
+CHANGES.md
+LICENSE
+README.md
+airplane-mode.php
+composer.json
+readme.txt

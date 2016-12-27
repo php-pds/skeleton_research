@@ -1,0 +1,11 @@
+src/
+tests/
+.codeclimate.yml
+.coveralls.yml
+.gitignore
+.travis.yml
+composer.json
+composer.phar
+phpunit.phar
+phpunit.xml
+readme.md

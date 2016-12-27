@@ -1,0 +1,7 @@
+src/Silex/Provider/
+tests/Silex/Tests/Provider/
+.gitignore
+LICENSE
+README.markdown
+composer.json
+phpunit.xml.dist

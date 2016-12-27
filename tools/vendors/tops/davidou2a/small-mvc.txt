@@ -1,0 +1,13 @@
+app/
+docs/
+locale/
+userspace/
+vendor/
+webroot/
+.gitattributes
+.gitignore
+.htaccess
+README.md
+TODO
+composer.json
+composer.lock

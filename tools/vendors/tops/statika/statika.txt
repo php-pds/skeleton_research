@@ -1,0 +1,12 @@
+bin/
+conf/
+res/compressors/
+src/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+TODO
+composer.json
+phpunit.xml.dist

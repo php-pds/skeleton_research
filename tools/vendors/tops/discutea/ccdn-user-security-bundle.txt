@@ -1,0 +1,9 @@
+Component/
+DependencyInjection/
+Entity/
+Model/
+Resources/
+.gitignore
+CCDNUserSecurityBundle.php
+README.md
+composer.json

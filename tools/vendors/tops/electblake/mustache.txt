@@ -1,0 +1,7 @@
+Vendor/
+View/Helper/
+.gitignore
+.gitmodules
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,14 @@
+Controller/
+DataFixtures/Required/
+DependencyInjection/
+Entity/
+Form/
+Listener/
+Manager/
+Migrations/pdo_mysql/
+Repository/
+Resources/
+LICENSE
+LaurentBulletinBundle.php
+README.md
+composer.json

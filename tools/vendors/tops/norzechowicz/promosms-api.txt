@@ -1,0 +1,7 @@
+spec/PromoSMS/Api/
+src/PromoSMS/Api/
+.gitignore
+.travis.yml
+LICENSE.md
+README.md
+composer.json

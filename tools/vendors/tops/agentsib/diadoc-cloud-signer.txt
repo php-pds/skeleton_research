@@ -1,0 +1,5 @@
+config/
+web/
+.gitignore
+README.md
+composer.json

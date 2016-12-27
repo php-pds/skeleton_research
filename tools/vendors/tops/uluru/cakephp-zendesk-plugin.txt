@@ -1,0 +1,5 @@
+controllers/
+views/elements/
+README.md
+composer.json
+zendesk_app_controller.php

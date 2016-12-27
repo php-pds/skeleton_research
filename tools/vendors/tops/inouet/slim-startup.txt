@@ -1,0 +1,12 @@
+app/
+config/
+lib/
+public/
+schema/
+tests/
+views/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.phar

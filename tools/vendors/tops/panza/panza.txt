@@ -1,0 +1,14 @@
+bin/
+config/
+resources/docs/
+src/
+tests/
+.coveralls.yml
+.gitignore
+.travis.yml
+LICENSE.txt
+README.md
+build.xml
+composer.json
+panza.yml.dist
+phpunit.xml.dist

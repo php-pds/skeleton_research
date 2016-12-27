@@ -1,0 +1,8 @@
+lib/TodoTxtParser/
+test/TodoTxtParser/
+.gitignore
+LICENSE.txt
+README.md
+composer.json
+composer.lock
+phpunit.xml

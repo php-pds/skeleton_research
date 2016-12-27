@@ -1,0 +1,7 @@
+src/Filicious/SFTP/
+test/Filicious/SFTP/Test/
+.gitattributes
+.gitignore
+.travis.yml
+composer.json
+phpunit.xml.dist

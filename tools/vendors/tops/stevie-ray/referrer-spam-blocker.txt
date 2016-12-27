@@ -1,0 +1,11 @@
+.github/
+generator/
+.htaccess
+.travis.yml
+LICENSE
+README.md
+composer.json
+google-exclude.txt
+referral-spam.conf
+referral-spam.vcl
+web.config

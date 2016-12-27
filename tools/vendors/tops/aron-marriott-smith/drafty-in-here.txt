@@ -1,0 +1,17 @@
+Repositories/
+languages/
+partials/
+tests/
+vendor/
+.gitignore
+.travis.yml
+CONTRIBUTING.md
+Gruntfile.js
+README.md
+composer.json
+drafty-in-here.php
+drafty-main.php
+package.json
+phpunit.xml.dist
+readme.txt
+screenshot-1.png

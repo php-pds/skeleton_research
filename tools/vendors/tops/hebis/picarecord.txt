@@ -1,0 +1,8 @@
+src/HAB/Pica/Record/
+tests/unit-tests/src/HAB/Pica/Record/
+.gitignore
+COPYING
+README.org
+bootstrap.php
+composer.json
+phpunit.xml

@@ -1,0 +1,10 @@
+dist/
+examples/
+src/AngularTalk/
+vendor/
+.gitattributes
+.gitignore
+Readme.md
+composer.json
+composer.lock
+screenshot.png

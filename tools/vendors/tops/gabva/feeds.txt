@@ -1,0 +1,15 @@
+Assets/
+Composers/Frontend/
+Config/
+Console/
+Database/
+Entities/
+Http/
+Presenters/
+Providers/
+Repositories/
+Resources/
+Sidebar/
+Tests/
+composer.json
+module.json

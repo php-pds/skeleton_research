@@ -1,0 +1,11 @@
+config/
+modules/
+tests/
+web/
+.editorconfig
+.gitattributes
+.gitignore
+README.md
+Vagrantfile
+composer.json
+composer.lock

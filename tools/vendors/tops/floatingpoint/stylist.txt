@@ -1,0 +1,10 @@
+public/
+src/
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+README.md
+apigen.neon
+composer.json
+phpunit.xml

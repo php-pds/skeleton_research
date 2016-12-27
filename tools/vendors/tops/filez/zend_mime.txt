@@ -1,0 +1,3 @@
+Mime/
+Mime.php
+composer.json

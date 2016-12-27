@@ -1,0 +1,6 @@
+src/Tcopestake/
+tests/
+.gitignore
+bootstrap.php
+composer.json
+phpunit.xml

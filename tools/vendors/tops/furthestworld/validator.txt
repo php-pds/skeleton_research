@@ -1,0 +1,7 @@
+Src/
+Tests/
+.gitignore
+LICENSE
+README.md
+composer.json
+index.php

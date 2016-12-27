@@ -1,0 +1,13 @@
+app/
+bin/
+src/
+var/
+web/
+.gitignore
+README.md
+clean.sh
+composer.json
+graph.png
+out.dot
+phpunit.xml.dist
+thumbnail.sh

@@ -1,0 +1,10 @@
+bin/
+example/
+src/Phprtest/
+tests/phpunit/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock

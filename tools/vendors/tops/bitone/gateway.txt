@@ -1,0 +1,8 @@
+bin/
+src/BitOne/Gateway/
+tests/BitOne/Gateway/
+.gitignore
+LICENSE
+README.md
+composer.json
+phpunit.xml

@@ -1,0 +1,4 @@
+src/ImageOptimizer/
+.gitignore
+README.md
+composer.json

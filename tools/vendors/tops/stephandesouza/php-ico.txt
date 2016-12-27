@@ -1,0 +1,6 @@
+.gitignore
+README.md
+changelog
+class-php-ico.php
+composer.json
+license.txt

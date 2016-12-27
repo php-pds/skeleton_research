@@ -1,0 +1,11 @@
+.idea/
+DependencyInjection/
+Resources/
+.bowerrc
+.gitignore
+Curiosity26AngularMaterialBundle.php
+LICENSE
+README.md
+bower.json
+composer.json
+composer.lock

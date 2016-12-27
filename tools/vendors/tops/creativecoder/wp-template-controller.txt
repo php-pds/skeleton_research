@@ -1,0 +1,7 @@
+WordPress-GitHub-Plugin-Updater/
+.gitignore
+LICENSE
+README.md
+composer.json
+example-controller.php
+wp-template-controller.php

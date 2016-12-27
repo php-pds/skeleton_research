@@ -1,0 +1,17 @@
+Annotation/
+DependencyInjection/
+EventListener/
+ParameterType/
+Resources/config/
+Tests/Units/
+.atoum.php
+.bootstrap.atoum.php
+.gitignore
+.travis.yml
+Caster.php
+Filter.php
+Gl3nHttpQueryStringFilterBundle.php
+LICENSE
+README.md
+Validator.php
+composer.json

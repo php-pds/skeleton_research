@@ -1,0 +1,6 @@
+src/Shevtiawan/
+tests/
+.gitignore
+.travis.yml
+composer.json
+phpunit.xml

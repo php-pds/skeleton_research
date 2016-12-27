@@ -1,0 +1,6 @@
+screenshots/
+.gitignore
+LICENSE.txt
+README.md
+composer.json
+syncdb.drush.inc

@@ -1,0 +1,17 @@
+Moosh/
+data/
+includes/
+moosh-src/
+provision/
+templates/
+tests/
+vendor/moodlehq/moodle-user_profile_field/
+www/
+.gitignore
+ISSUE_TEMPLATE.md
+README.md
+Vagrantfile
+bash_completion
+composer.json
+moosh.php
+zsh_completion

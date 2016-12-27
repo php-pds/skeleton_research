@@ -1,0 +1,7 @@
+config/
+src/
+webroot/
+.gitignore
+.htaccess
+composer.json
+composer.lock

@@ -1,0 +1,12 @@
+app/
+config/
+themes/front/itinnovator-default/
+vendor/
+.htaccess
+.remote-sync.json
+LICENCE.txt
+README.md
+composer.json
+composer.lock
+composer.phar
+index.php

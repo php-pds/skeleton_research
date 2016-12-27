@@ -1,0 +1,5 @@
+Command/
+Resources/
+AcmeSymfonyanBundle.php
+README.rst
+composer.json

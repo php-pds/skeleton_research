@@ -1,0 +1,9 @@
+src/Intercom/
+tests/
+.gitignore
+CHANGES.txt
+LICENSE
+README.md
+circle.yml
+composer.json
+phpunit.xml.dist

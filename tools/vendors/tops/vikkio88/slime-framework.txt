@@ -1,0 +1,11 @@
+Models/
+config/
+database/
+routes/ping/
+src/Lib/
+tests/
+.gitignore
+.travis.yml
+README.md
+composer.json
+phpunit.xml

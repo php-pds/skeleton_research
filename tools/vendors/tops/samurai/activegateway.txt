@@ -1,0 +1,5 @@
+spec/
+src/
+.gitignore
+.samurai
+composer.json

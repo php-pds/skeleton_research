@@ -1,0 +1,5 @@
+demo/
+HtmlDiff.php
+LICENSE
+README.md
+composer.json

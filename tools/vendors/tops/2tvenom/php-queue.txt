@@ -1,0 +1,8 @@
+examples/
+sql/
+src/PhpQueue/
+tests/
+web/
+LICENSE
+README.md
+composer.json

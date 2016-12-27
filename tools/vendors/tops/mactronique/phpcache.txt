@@ -1,0 +1,6 @@
+lib/Mactronique/PhpCache/
+test/
+.gitignore
+.travis.yml
+README.md
+composer.json

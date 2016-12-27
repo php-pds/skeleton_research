@@ -1,0 +1,5 @@
+Preprocessor/Adapter/Scss/
+etc/
+.gitignore
+composer.json
+registration.php

@@ -1,0 +1,12 @@
+_docker/
+docs/
+src/
+var/
+web/
+.gitignore
+Dockerfile
+LICENSE
+README.md
+composer.json
+phpunit.xml
+phpunit_bootstrap.php

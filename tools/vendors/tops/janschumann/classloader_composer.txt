@@ -1,0 +1,8 @@
+.gitignore
+LICENSE
+README.md
+classloader_composer.admin.inc
+classloader_composer.info
+classloader_composer.install
+classloader_composer.module
+composer.json

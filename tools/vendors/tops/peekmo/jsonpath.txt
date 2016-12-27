@@ -1,0 +1,8 @@
+bin/
+src/Peekmo/JsonPath/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock

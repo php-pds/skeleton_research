@@ -1,0 +1,7 @@
+config/
+src/CKFinderModule/
+.gitignore
+.travis.yml
+Module.php
+README.md
+composer.json

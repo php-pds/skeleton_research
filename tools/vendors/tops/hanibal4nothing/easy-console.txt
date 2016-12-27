@@ -1,0 +1,7 @@
+src/EasyConsole/
+.gitignore
+CHANGELOG.rnd
+LICENSE
+README.md
+composer.json
+composer.lock

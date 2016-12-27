@@ -1,0 +1,12 @@
+DependencyInjection/
+Exception/
+Lib/
+Model/
+Repository/
+Resources/config/
+Tests/Controller/
+.gitignore
+FabggJukeboxBundle.php
+LICENSE
+README.md
+composer.json

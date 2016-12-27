@@ -1,0 +1,12 @@
+Build/
+Classes/PackageFactory/KnowledgeBase/
+Documentation/
+Migrations/Mysql/
+Resources/
+Tests/Unit/Domain/Model/
+.gitignore
+Gruntfile.js
+LICENSE.md
+README.md
+composer.json
+package.json

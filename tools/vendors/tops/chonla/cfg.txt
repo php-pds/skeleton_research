@@ -1,0 +1,7 @@
+src/Cfg/
+tests/
+.gitignore
+LICENSE
+Readme.md
+composer.json
+phpunit.xml

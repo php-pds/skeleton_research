@@ -1,0 +1,11 @@
+examples/
+src/
+tests/
+.gitignore
+.scrutinizer.yml
+CONTRIBUTING.md
+CONTRIBUTION_TERMS.pdf
+LICENSE
+README.md
+composer.json
+phpunit.xml

@@ -1,0 +1,6 @@
+DependencyInjection/
+Resources/config/
+.gitignore
+James2001ZxingBundle.php
+README.md
+composer.json

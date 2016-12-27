@@ -1,0 +1,7 @@
+example/
+src/
+.gitignore
+.htaccess
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,14 @@
+admin/
+core/
+languages/
+tests/
+.gitattributes
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+carbon-breadcrumbs.php
+composer.json
+phpunit.xml
+readme.txt

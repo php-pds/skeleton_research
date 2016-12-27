@@ -1,0 +1,11 @@
+docu/
+example/
+src/ste/
+tests/
+.gitignore
+COPYING
+README.markdown
+composer.json
+mkdocu.sh
+ste.php
+steloader.php

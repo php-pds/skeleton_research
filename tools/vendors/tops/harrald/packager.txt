@@ -1,0 +1,12 @@
+help/
+helpers/
+libs/
+test/
+.gitignore
+Package.php
+Packager.php
+README.md
+Source.php
+composer.json
+license.txt
+packager

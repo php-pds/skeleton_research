@@ -1,0 +1,14 @@
+modules/
+samples/
+tests/
+.gitattributes
+.gitignore
+.travis.yml
+Base1DBarcode.php
+Base2DBarcode.php
+CHANGES
+LICENSE
+LICENSE.TCPDF
+README.md
+VERSION
+composer.json

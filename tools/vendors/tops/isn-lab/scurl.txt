@@ -1,0 +1,6 @@
+README.md
+SCurl.php
+SCurlRequest.php
+SCurlResult.php
+VERSION
+composer.json

@@ -1,0 +1,8 @@
+src/Faker/
+test/Faker/
+.gitignore
+CHANGELOG.md
+LICENSE
+composer.json
+example.png
+readme.md

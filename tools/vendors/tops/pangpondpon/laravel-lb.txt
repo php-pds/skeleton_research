@@ -1,0 +1,12 @@
+bootstrap/
+config/
+examples/
+src/
+tests/
+.gitignore
+.travis.yml
+License.txt
+README.md
+composer.json
+composer.lock
+phpunit.xml

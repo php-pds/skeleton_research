@@ -1,0 +1,12 @@
+.phpspec/
+src/
+stubs/
+tests/phpspec/
+.gitattributes
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpspec.yml

@@ -1,0 +1,13 @@
+Command/
+DependencyInjection/
+Importer/
+Resources/config/
+Tests/Importer/
+Yaml/
+.gitignore
+.travis.yml
+LICENSE
+NetdudesImporterBundle.php
+README.md
+composer.json
+phpunit.xml.dist

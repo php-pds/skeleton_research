@@ -1,0 +1,4 @@
+assets/
+README.md
+UITinytblWidget.php
+composer.json

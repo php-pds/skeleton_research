@@ -1,0 +1,7 @@
+src/JsLoader/
+tests/web/js/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock

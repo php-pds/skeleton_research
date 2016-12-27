@@ -1,0 +1,8 @@
+Config/
+Exceptions/
+Test/
+.gitignore
+DB.php
+LICENSE
+composer.json
+example.php

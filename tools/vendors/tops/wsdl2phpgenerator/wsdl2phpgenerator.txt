@@ -1,0 +1,14 @@
+docs/
+lib/PhpSource/
+src/
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CHANGES
+CONTRIBUTING.md
+LICENSE
+README.md
+build.xml
+composer.json
+phpunit.xml.dist

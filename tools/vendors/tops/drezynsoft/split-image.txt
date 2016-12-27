@@ -1,0 +1,11 @@
+bin/
+config/
+data/
+scripts/
+src/
+.gitignore
+LICENSE
+README.md
+autoload.php
+composer.json
+index.php

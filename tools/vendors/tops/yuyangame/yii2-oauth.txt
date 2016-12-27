@@ -1,0 +1,9 @@
+.gitignore
+AuthInterface.php
+DoubanAuth.php
+QqAuth.php
+README.md
+RenrenAuth.php
+WeiboAuth.php
+WeixinAuth.php
+composer.json

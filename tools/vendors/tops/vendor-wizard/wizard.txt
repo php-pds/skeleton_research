@@ -1,0 +1,12 @@
+nbproject/
+src/
+tests/
+unirest-php
+vendor/
+LICENSE
+README.md
+composer.json
+composer.lock
+composer.phar
+index.php
+phpunit.xml

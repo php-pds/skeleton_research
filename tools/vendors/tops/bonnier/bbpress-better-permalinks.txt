@@ -1,0 +1,4 @@
+src/Bonnier/WP/BBPress/BetterPermalinks/
+README.md
+bbpress-better-permalinks.php
+composer.json

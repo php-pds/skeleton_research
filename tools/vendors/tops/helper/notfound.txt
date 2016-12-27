@@ -1,0 +1,5 @@
+Classes/Helper/NotFound/ViewHelpers/
+Configuration/
+Resources/Private/Templates/
+README.md
+composer.json

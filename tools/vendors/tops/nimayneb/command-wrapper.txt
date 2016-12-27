@@ -1,0 +1,5 @@
+Classes/
+Resources/Examples/
+.gitignore
+README.md
+composer.json

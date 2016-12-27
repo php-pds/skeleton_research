@@ -1,0 +1,6 @@
+src/Moroya/Shindanmaker/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json

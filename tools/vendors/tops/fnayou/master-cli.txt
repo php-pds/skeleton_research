@@ -1,0 +1,10 @@
+app/
+src/Acme/Command/
+.editorconfig
+.gitattributes
+.gitignore
+.standards
+README.md
+composer.json
+composer.lock
+slave

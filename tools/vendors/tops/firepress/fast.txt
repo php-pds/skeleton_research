@@ -1,0 +1,6 @@
+src/Fast/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock

@@ -1,0 +1,5 @@
+app/
+skin/frontend/base/default/yavva/alsoviewed/css/
+README.md
+composer.json
+modman

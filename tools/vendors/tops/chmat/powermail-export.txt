@@ -1,0 +1,7 @@
+Example/
+.gitignore
+EXAMPLE.md
+LICENSE.md
+ParsePowermail.php
+README.md
+composer.json

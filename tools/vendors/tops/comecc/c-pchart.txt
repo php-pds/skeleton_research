@@ -1,0 +1,11 @@
+app/cache/
+features/
+src/
+.gitignore
+.travis.yml
+GPLv3.txt
+LICENSE
+README.md
+behat.yml
+change.log
+composer.json

@@ -1,0 +1,6 @@
+lib/
+.gitignore
+LICENSE
+README.md
+autoload.php
+composer.json

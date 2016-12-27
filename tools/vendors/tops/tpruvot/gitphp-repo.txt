@@ -1,0 +1,17 @@
+cache/
+config/
+css/
+doc/
+images/
+include/
+js/
+lib/
+locale/
+templates/
+templates_c/
+test/
+util/
+README
+composer.json
+index.php
+setup.sh

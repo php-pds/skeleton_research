@@ -1,0 +1,15 @@
+lib/
+res/
+script/
+src/
+.directory
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+integrationtest.xml
+prepare.bash
+res.7z
+runtests
+unittest.xml

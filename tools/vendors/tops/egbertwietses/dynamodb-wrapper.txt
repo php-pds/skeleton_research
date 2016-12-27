@@ -1,0 +1,4 @@
+src/EgbertWietses/DynamoDbWrapper/
+.gitignore
+README.md
+composer.json

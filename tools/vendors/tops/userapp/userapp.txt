@@ -1,0 +1,14 @@
+docs/
+examples/
+lib/UserApp/
+tests/
+.gitattributes
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+autoload.php
+composer.json
+phpunit.xml.dist
+phpunit.xml.travisci

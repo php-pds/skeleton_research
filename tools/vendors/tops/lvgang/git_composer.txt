@@ -1,0 +1,4 @@
+vendor/
+.gitignore
+composer.json
+show.php

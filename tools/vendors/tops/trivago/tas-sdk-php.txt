@@ -1,0 +1,14 @@
+docs/
+example/
+src/
+tests/
+.gitignore
+.php_cs
+.rumi.yml
+.travis.yml
+LICENSE
+NOTICE
+README.md
+autoload.php
+composer.json
+phpunit.xml.dist

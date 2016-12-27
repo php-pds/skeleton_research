@@ -1,0 +1,10 @@
+Babelfish.php
+DebugPanel.php
+IEditable.php
+LICENSE
+Panel.php
+README.md
+composer.json
+panel.phtml
+shortcuts.php
+tab.phtml

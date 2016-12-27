@@ -1,0 +1,6 @@
+tests/
+README.md
+SmallTAL.Compiler.php
+SmallTAL.Tests.php
+SmallTAL.php
+composer.json

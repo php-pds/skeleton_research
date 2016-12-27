@@ -1,0 +1,4 @@
+Classes/Jayvee/Aws/
+Configuration/
+README.md
+composer.json

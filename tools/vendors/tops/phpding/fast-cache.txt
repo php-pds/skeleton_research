@@ -1,0 +1,3 @@
+src/Phpding/FastCache/FileCache/
+README.md
+composer.json

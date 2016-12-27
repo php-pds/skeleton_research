@@ -1,0 +1,6 @@
+DependencyInjection/
+Resources/config/
+.gitignore
+OctopushSMSBundle.php
+README.md
+composer.json

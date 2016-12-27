@@ -1,0 +1,12 @@
+Curl/
+DependencyInjection/
+Entity/
+Exception/
+Foursquare/
+Resources/
+test/
+.gitignore
+DdnetFoursquareBundle.php
+README.md
+composer.json
+phpunit.xml

@@ -1,0 +1,10 @@
+bin/
+src/
+tests/
+.gitignore
+CHANGELOG.md
+DOCINI.md
+EXAMPLES.md
+LICENSE
+README.md
+composer.json

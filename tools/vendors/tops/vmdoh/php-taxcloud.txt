@@ -1,0 +1,11 @@
+lib/
+tests/TaxCloud/Tests/
+.coveralls.yml
+.gitignore
+.travis.yml
+LICENSE.md
+README.md
+TaxCloud.wsdl
+composer.json
+phpunit.xml
+smoketest.php

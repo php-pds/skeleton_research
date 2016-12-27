@@ -1,0 +1,13 @@
+assets/
+images/
+.gitignore
+.scrutinizer.yml
+Captcha.php
+CaptchaAction.php
+CaptchaAsset.php
+LICENSE
+README.md
+README_ja.md
+composer.json
+composer.lock
+seto-mini.ttf

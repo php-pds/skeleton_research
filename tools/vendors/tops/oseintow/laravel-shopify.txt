@@ -1,0 +1,7 @@
+.idea/
+.phpcomplete_extended/
+src/
+.gitignore
+README.md
+composer.json
+composer.lock

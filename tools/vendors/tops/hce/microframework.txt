@@ -1,0 +1,14 @@
+cache/
+components/
+config/
+gulpfile.js/
+public/
+resources/
+static/
+templates/
+.gitignore
+composer.json
+composer.lock
+package.json
+readme.md
+static-output.php

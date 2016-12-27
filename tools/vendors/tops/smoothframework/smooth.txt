@@ -1,0 +1,13 @@
+Application/
+Smooth/
+Tests/
+vendor/
+.htaccess
+.travis.yml
+CHANGELOG
+README.md
+composer.json
+index.php
+installCheck.php
+license.txt
+phpunit.xml

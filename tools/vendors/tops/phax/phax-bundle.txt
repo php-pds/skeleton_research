@@ -1,0 +1,4 @@
+Phax/CoreBundle/
+.gitignore
+README.md
+composer.json

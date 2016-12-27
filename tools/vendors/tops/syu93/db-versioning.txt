@@ -1,0 +1,7 @@
+bin/
+dbv/
+.gitignore
+LICENSE
+README.md
+composer.json
+dbversioning.php

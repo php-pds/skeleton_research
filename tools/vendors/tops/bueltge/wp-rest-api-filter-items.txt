@@ -1,0 +1,12 @@
+inc/
+lib/Requisite/
+test/
+.gitattributes
+.gitignore
+.travis.yml
+CONTRIBUTING.md
+LICENSE
+composer.json
+phpunit.xml.dist
+readme.md
+wp-rest-api-filter-items.php

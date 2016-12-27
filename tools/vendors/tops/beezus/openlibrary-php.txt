@@ -1,0 +1,3 @@
+lib/OpenLibrary/API/
+README.md
+composer.json

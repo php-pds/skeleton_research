@@ -1,0 +1,7 @@
+etc/
+.gitignore
+LICENSE
+README.md
+composer.json
+magento
+registration.php

@@ -1,0 +1,13 @@
+app/
+assets/
+config/
+framework/
+storage/
+tests/
+.gitignore
+.htaccess
+LICENSE
+README.md
+composer.json
+index.php
+robots.txt

@@ -1,0 +1,6 @@
+src/Artisaninweb/Enum/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,8 @@
+Composer/Script/
+config/
+images/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock

@@ -1,0 +1,7 @@
+docs/
+img/
+less/
+.gitignore
+Makefile
+README.md
+composer.json

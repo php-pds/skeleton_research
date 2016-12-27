@@ -1,0 +1,10 @@
+src/
+test/
+.gitignore
+.travis.yml
+README.md
+Vagrantfile
+composer.json
+install-composer.sh
+phpunit.xml
+travis-config.ini

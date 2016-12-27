@@ -1,0 +1,15 @@
+.idea/
+config/
+database/migrations/
+public/vendor/casserver/
+resources/
+src/
+tests/
+.gitattributes
+.gitignore
+.styleci.yml
+.travis.yml
+LICENSE.md
+README.md
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,10 @@
+controllers/admin/
+mails/gb/
+views/templates/hook/
+.gitignore
+LICENSE
+README.md
+composer.json
+ecomputermoduleprestashop.php
+logo.png
+small_icon.png

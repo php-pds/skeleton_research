@@ -1,0 +1,27 @@
+backend/
+common/
+console/
+environments/
+extensions/
+frontend/
+nbproject/
+vendor/
+.gitignore
+LICENSE.md
+MainForm.java
+README.md
+architect.log
+architect.log.1
+composer.json
+composer.lock
+db_schemas.sql
+init
+init.bat
+init_db_data_only.sql
+init_db_data_only2.sql
+init_db_data_only3.sql
+init_db_schema_only.sql
+requirements.php
+sangkilbiz-3 data model.architect
+sangkilbiz.backup
+yii.bat

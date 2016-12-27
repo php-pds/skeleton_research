@@ -1,0 +1,10 @@
+DependencyInjection/
+Resources/config/
+Service/
+Twig/Extension/
+.gitignore
+LICENSE
+README.md
+VPXSeoBundle.php
+composer.json
+composer.lock

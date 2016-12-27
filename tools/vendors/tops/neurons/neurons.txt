@@ -1,0 +1,7 @@
+docs/traits/
+nrns/
+.gitignore
+README.md
+bower.json
+composer.json
+neurons.php

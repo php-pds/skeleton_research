@@ -1,0 +1,4 @@
+config/
+src/ZealSession/
+Module.php
+composer.json

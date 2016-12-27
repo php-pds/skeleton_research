@@ -1,0 +1,12 @@
+extensions/
+install/
+symphony/
+vendor/
+.gitignore
+.gitmodules
+LICENCE
+README.markdown
+composer.json
+gruntfile.js
+index.php
+package.json

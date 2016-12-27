@@ -1,0 +1,15 @@
+administrator/
+application/
+assets-bak/
+assets/
+documentation/
+public/
+.gitignore
+.htaccess
+README.md
+cli-config.php
+composer.json
+composer.lock
+index.php
+system.md
+task.md

@@ -1,0 +1,4 @@
+.idea/
+src/Iconic/Facebook/
+README.md
+composer.json

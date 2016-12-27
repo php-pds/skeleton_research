@@ -1,0 +1,4 @@
+src/Soap/
+LICENSE
+README.md
+composer.json

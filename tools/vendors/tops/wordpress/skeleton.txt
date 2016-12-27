@@ -1,0 +1,10 @@
+backup/
+bin/
+scripts/
+wp-content/
+.gitignore
+LICENSE
+README.md
+composer.json
+local-config-sample.php
+wp-config.php

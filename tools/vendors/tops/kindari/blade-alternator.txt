@@ -1,0 +1,6 @@
+licenses/
+src/Kindari/BladeAlternator/
+.gitignore
+LICENSE.md
+README.md
+composer.json

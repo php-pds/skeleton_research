@@ -1,0 +1,12 @@
+Controller/
+DependencyInjection/
+Resources/
+Tests/
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+Wa72JsonRpcBundle.php
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,10 @@
+doc/
+lib/
+.gitignore
+.svnignore
+CONTRIBUTORS.md
+bootstrap-for-theme.php
+bootstrap.php
+composer.json
+readme.txt
+screenshot-1.png

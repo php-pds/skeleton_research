@@ -1,0 +1,5 @@
+lib/
+BSD-3-CLAUSE-LICENSE.txt
+CHANGELOG.md
+README.md
+composer.json

@@ -1,0 +1,12 @@
+app/
+src/
+tests/
+.gitignore
+.htaccess
+LICENSE
+composer.json
+composer.lock
+docs.md
+getting-started.md
+index.php
+readme.md

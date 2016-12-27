@@ -1,0 +1,12 @@
+example/
+src/
+tests/
+.coveralls.yml
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENSE.md
+README.md
+autoload.php
+composer.json
+phpunit.xml

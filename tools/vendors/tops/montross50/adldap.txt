@@ -1,0 +1,9 @@
+docs/
+examples/
+src/
+tests/
+CHANGELOG.txt
+LICENSE.txt
+README.md
+composer.json
+phpunit.xml

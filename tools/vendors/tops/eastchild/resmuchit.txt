@@ -1,0 +1,5 @@
+src/resmushit/
+.gitignore
+LICENSE
+README.md
+composer.json

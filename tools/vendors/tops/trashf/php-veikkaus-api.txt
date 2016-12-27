@@ -1,0 +1,5 @@
+scripts/
+src/trashf/
+.gitignore
+README.md
+composer.json

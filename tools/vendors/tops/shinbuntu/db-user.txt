@@ -1,0 +1,7 @@
+Tests/Units/
+build-tools/jenkins/
+.gitignore
+CONTRIBUTING.md
+DbUser.php
+README.md
+composer.json

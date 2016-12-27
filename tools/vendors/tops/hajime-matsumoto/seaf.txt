@@ -1,0 +1,10 @@
+classes/
+cli/
+lib/
+modules/
+test/
+.gitignore
+.gitmodules
+__Bootstrap.php
+__bootstrap.php
+phpunit.xml

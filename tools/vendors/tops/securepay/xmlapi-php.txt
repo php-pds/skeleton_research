@@ -1,0 +1,9 @@
+lib/
+test/
+.gitattributes
+.gitignore
+LICENSE
+README.md
+cacert.pem
+composer.json
+config.ini

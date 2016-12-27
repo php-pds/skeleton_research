@@ -1,0 +1,8 @@
+.idea/
+src/FractalizeR/Smarty/
+tests/
+vendor/
+.gitmodules
+README.md
+composer.json
+phpunit.xml.dist

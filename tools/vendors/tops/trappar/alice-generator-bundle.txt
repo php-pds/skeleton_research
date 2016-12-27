@@ -1,0 +1,10 @@
+src/Trappar/AliceGeneratorBundle/
+tests/
+.gitignore
+.travis.yml
+CHANGELOG.md
+README.md
+UPGRADING.md
+composer.json
+console
+phpunit.xml.dist

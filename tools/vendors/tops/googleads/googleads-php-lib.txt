@@ -1,0 +1,10 @@
+examples/
+src/Google/AdsApi/
+tests/Google/AdsApi/
+CHANGELOG.md
+CONTRIBUTING.md
+LICENSE
+README.md
+UPGRADING.md
+composer.json
+phpunit.xml.dist

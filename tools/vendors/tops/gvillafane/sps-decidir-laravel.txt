@@ -1,0 +1,4 @@
+src/SPSDecidirWrapper/
+.gitignore
+README.md
+composer.json

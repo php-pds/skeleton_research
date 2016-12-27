@@ -1,0 +1,4 @@
+src/PHPMake/
+.gitignore
+README.md
+composer.json

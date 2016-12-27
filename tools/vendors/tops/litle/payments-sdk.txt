@@ -1,0 +1,8 @@
+litle/sdk/
+samples/
+.gitignore
+CHANGELOG
+LICENSE
+README.md
+composer.json
+phpunit.xml

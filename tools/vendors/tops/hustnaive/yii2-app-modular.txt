@@ -1,0 +1,16 @@
+assets/
+commands/
+environments/
+mail/layouts/
+runtime/
+tests/
+web/
+.bowerrc
+.gitignore
+LICENSE.md
+README.md
+composer.json
+init.php
+requirements.php
+yii
+yii.bat

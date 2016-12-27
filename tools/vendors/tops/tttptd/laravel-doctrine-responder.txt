@@ -1,0 +1,4 @@
+resources/config/
+src/
+.gitignore
+composer.json

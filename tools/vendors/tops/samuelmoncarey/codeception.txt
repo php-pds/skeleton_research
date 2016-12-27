@@ -1,0 +1,16 @@
+docs/
+package/
+src/Codeception/
+tests/
+.gitignore
+.travis.yml
+CHANGELOG.md
+CONTRIBUTING.md
+RoboFile.php
+autoload.php
+codecept
+codecept.bat
+codeception.yml
+composer.json
+composer.lock
+readme.md

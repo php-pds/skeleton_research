@@ -1,0 +1,4 @@
+docs/
+src/Ok2media/Moderation/
+README.md
+composer.json

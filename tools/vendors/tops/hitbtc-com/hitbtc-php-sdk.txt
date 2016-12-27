@@ -1,0 +1,3 @@
+src/Hitbtc/
+README.md
+composer.json

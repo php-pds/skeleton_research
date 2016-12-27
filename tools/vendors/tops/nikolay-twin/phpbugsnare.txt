@@ -1,0 +1,6 @@
+src/PhpBugsnare/
+.gitattributes
+.gitignore
+LICENSE.txt
+README.md
+composer.json

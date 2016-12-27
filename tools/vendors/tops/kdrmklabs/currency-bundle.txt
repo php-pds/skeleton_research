@@ -1,0 +1,11 @@
+Command/
+DependencyInjection/
+Entity/
+Listener/
+Resources/
+Services/
+Tests/Controller/
+Twig/
+KdrmklabsCurrencyBundle.php
+README.md
+composer.json

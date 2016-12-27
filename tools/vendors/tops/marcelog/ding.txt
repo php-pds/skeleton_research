@@ -1,0 +1,12 @@
+docs/examples/
+resources/
+src/mg/Ding/
+test/
+.gitignore
+LICENSE
+README
+README.1.3.x
+build.properties
+build.xml
+composer.json
+composer.lock

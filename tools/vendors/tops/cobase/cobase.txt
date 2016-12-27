@@ -1,0 +1,15 @@
+app/
+puppet/
+src/
+web/
+.gitignore
+.gitmodules
+.travis.yml
+Capfile
+Capfile-dist
+INSTALLATION_STEPS.md
+LICENSE
+README.md
+Vagrantfile
+composer.json
+composer.lock

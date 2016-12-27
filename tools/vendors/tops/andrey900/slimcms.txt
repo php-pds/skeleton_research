@@ -1,0 +1,15 @@
+app/
+cache/
+log/
+modules/
+public/
+resource/
+src/
+test/
+.gitattributes
+.gitignore
+.htaccess
+LICENSE
+README.md
+composer.json
+phpunit.xml

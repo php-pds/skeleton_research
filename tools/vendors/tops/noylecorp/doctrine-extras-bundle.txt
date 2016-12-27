@@ -1,0 +1,8 @@
+DependencyInjection/
+Resources/config/
+Tests/Types/
+Types/
+LICENSE.txt
+NoylecorpDoctrineExtrasBundle.php
+README.md
+composer.json

@@ -1,0 +1,4 @@
+src/Mailcheck/
+tests/
+README.md
+composer.json

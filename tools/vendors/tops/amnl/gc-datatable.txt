@@ -1,0 +1,9 @@
+lib/AMNL/Google/Chart/
+stubs/
+test/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock

@@ -1,0 +1,5 @@
+models/
+smarty/plugins/
+README.md
+composer.json
+metadata.php

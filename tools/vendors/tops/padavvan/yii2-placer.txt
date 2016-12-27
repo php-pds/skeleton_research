@@ -1,0 +1,6 @@
+dependencies/
+AbstractPlace.php
+Collection.php
+Portlet.php
+README.md
+composer.json

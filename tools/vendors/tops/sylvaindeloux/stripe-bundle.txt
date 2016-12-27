@@ -1,0 +1,16 @@
+Controller/
+DependencyInjection/
+Event/
+Factory/
+Manager/
+Resources/
+Stripe/
+Tests/Factory/
+Transformer/
+Twig/Extension/
+.gitignore
+.travis.yml
+README.md
+SDStripeBundle.php
+composer.json
+phpunit.xml.dist

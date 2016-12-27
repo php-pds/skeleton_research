@@ -1,0 +1,9 @@
+Feature/
+phpunit/Feature/
+.gitignore
+BRANCHES.md
+Feature.php
+GENERALIZING.md
+LICENSE
+README.md
+composer.json

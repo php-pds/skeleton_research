@@ -1,0 +1,9 @@
+database/migrations/
+src/
+tests/
+.gitignore
+.travis.yml
+composer.json
+license.md
+phpunit.xml
+readme.md

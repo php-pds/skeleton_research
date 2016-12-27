@@ -1,0 +1,6 @@
+Command/
+.gitignore
+DoctrineGenerateModelsBundle.php
+LICENSE
+README.md
+composer.json

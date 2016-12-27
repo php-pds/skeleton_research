@@ -1,0 +1,4 @@
+PhpAmqpLib/
+components/
+README.md
+composer.json

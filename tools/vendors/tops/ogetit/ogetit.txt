@@ -1,0 +1,6 @@
+src/OGetIt/
+.gitignore
+COPYING
+README.md
+autoload.php
+composer.json

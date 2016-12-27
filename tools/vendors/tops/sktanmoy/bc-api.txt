@@ -1,0 +1,4 @@
+.gitignore
+README.md
+bcapi.class.php
+composer.json

@@ -1,0 +1,11 @@
+Cache/
+DependencyInjection/
+Resources/config/
+Tests/
+.coveralls.yml
+.gitignore
+IgniterElastiCacheBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,6 @@
+src/UnitedPrototype/GoogleAnalytics/
+.gitignore
+LICENSE
+README.md
+RELEASE_NOTES
+composer.json

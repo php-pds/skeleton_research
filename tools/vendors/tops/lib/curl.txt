@@ -1,0 +1,6 @@
+examples/
+lib/
+vendor/
+README.md
+composer.json
+index.php

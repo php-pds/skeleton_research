@@ -1,0 +1,4 @@
+bluecloudy/yiidoctrine2/
+LICENSE
+README.md
+composer.json

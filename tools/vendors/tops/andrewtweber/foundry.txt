@@ -1,0 +1,5 @@
+src/Parangi/
+views/
+.gitignore
+README.md
+composer.json

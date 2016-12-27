@@ -1,0 +1,10 @@
+Controller/
+DependencyInjection/
+Resources/
+.buildpath
+.gitignore
+.project
+Gulpfile.js
+OdiseoBackendBundle.php
+README.md
+composer.json

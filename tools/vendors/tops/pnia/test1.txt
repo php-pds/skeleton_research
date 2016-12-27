@@ -1,0 +1,4 @@
+.idea/
+.gitattributes
+.gitignore
+composer.json

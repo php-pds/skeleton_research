@@ -1,0 +1,12 @@
+documentation/
+spec/
+src/
+.gitignore
+LICENSE.txt
+composer.json
+composer.lock
+coverage.xml
+phpspec.yml
+phpunit.xml
+readme.md
+requirements.txt

@@ -1,0 +1,7 @@
+DataCollector/
+DependencyInjection/
+Resources/
+JnsXhprofBundle.php
+README.md
+RequestListener.php
+composer.json

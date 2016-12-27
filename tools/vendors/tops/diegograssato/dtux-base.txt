@@ -1,0 +1,7 @@
+.idea/
+config/
+src/DTUXBase/
+.gitignore
+Module.php
+README.md
+composer.json

@@ -1,0 +1,15 @@
+DependencyInjection/
+Resources/config/
+Service/
+Strategy/
+Tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+README.pl.md
+YasiekzRouterBundle.php
+build.xml
+composer.json
+phpunit-local.xml
+phpunit.xml

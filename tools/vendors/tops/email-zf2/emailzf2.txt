@@ -1,0 +1,7 @@
+config/
+src/EmailZF2/Controller/Plugin/
+.gitignore
+Module.php
+README.md
+autoload_classmap.php
+composer.json

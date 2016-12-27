@@ -1,0 +1,5 @@
+classes/phing/filters/
+.gitignore
+build.properties
+build.xml
+composer.json

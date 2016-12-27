@@ -1,0 +1,4 @@
+src/inoreader/
+LICENSE
+README.md
+composer.json

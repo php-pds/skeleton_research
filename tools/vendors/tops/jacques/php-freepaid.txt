@@ -1,0 +1,13 @@
+bin/
+src/
+tests/
+.codeclimate.yml
+.gitignore
+.scrutinizer.yml
+.styleci.yml
+.travis.yml
+CHANGELOG.md
+LICENSE.md
+README.md
+circle.yml
+composer.json

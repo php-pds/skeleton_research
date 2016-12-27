@@ -1,0 +1,15 @@
+.idea/
+arts/
+gradle/wrapper/
+iosswitch/
+sample/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+SHSwitchView.iml
+build.gradle
+gradle.properties
+gradlew
+gradlew.bat
+settings.gradle

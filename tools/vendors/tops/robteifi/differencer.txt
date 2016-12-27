@@ -1,0 +1,10 @@
+src/RobTeifi/Differencer/
+.gitignore
+LICENSE
+README.md
+arrayDiffTest.php
+classComparisons.php
+composer.json
+composer.lock
+emptyClassComparison.php
+privateComparisons.php

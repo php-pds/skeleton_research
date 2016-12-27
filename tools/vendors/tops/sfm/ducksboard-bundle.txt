@@ -1,0 +1,11 @@
+Adapter/
+Connection/
+DependencyInjection/
+Resources/config/
+Tests/
+.travis.yml
+Changelog.md
+README.md
+SFMDucksboardBundle.php
+composer.json
+phpunit.xml.dist

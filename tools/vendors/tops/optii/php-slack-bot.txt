@@ -1,0 +1,5 @@
+.idea/
+src/PhpSlackBot/
+.gitignore
+README.md
+composer.json

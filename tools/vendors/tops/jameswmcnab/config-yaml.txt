@@ -1,0 +1,7 @@
+spec/Jameswmcnab/ConfigYaml/
+src/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json

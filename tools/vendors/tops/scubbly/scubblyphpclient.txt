@@ -1,0 +1,3 @@
+src/ScubblyPHPClient/
+README.md
+composer.json

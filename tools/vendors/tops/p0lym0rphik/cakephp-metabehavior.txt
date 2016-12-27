@@ -1,0 +1,8 @@
+Config/Schema/
+Controller/
+Model/
+Test/Case/
+.travis.yml
+LICENSE.txt
+README.md
+composer.json

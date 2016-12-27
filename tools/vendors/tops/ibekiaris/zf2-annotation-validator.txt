@@ -1,0 +1,8 @@
+config/
+src/AnnotationValidator/
+test/
+LICENSE
+LICENSE.txt
+Module.php
+README.md
+composer.json

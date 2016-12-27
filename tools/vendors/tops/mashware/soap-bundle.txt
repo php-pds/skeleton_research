@@ -1,0 +1,15 @@
+Controller/
+DependencyInjection/
+Resources/
+Tests/Controller/
+.formatter.yml
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+SoapBundle.php
+composer.json
+deploy.yml
+humans.txt
+phpunit.xml.dist

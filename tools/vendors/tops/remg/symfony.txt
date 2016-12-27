@@ -1,0 +1,15 @@
+app/
+bin/
+src/
+tests/AppBundle/Controller/
+var/
+web/
+.bowerrc
+.gitattributes
+.gitignore
+LICENSE
+README.md
+bower.json
+composer.json
+composer.lock
+phpunit.xml.dist

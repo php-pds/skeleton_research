@@ -1,0 +1,6 @@
+cache/
+.gitignore
+README.md
+composer.json
+config.yml
+run-debug

@@ -1,0 +1,8 @@
+src/
+test/
+.gitignore
+LICENSE
+README.md
+antglob
+composer.json
+phpunit.xml.dist

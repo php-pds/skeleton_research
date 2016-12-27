@@ -1,0 +1,12 @@
+app/
+files/payroll_files/
+public/
+src/
+web/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+application.php
+composer.json
+composer.lock

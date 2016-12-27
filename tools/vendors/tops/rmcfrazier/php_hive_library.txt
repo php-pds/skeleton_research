@@ -1,0 +1,5 @@
+resources/thrift/
+src/Apache/Hive/Service/Cli/Thrift/
+.gitignore
+README.md
+composer.json

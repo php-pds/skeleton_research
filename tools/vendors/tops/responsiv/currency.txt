@@ -1,0 +1,13 @@
+assets/js/
+classes/
+controllers/
+exchangetypes/
+facades/
+formwidgets/
+helpers/
+lang/
+models/
+updates/
+Plugin.php
+README.md
+composer.json

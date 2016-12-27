@@ -1,0 +1,5 @@
+assets/sceditor/
+README.md
+SCEditor.php
+SCEditorAsset.php
+composer.json

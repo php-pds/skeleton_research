@@ -1,0 +1,9 @@
+demos/
+src/Impreso/
+tests/
+.coveralls.yml
+.gitignore
+.travis.yml
+README.md
+composer.json
+phpunit.xml.dist

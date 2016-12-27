@@ -1,0 +1,14 @@
+lua/
+src/PWRTelegram/PWRTelegram/
+vendor/
+.gitignore
+.gitmodules
+CONTRIBUTING.md
+LICENSE
+README.md
+composer.json
+composer.lock
+db_connect.php
+index.php
+sendchataction.sh
+storage.php

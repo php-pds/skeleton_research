@@ -1,0 +1,5 @@
+include/
+src/
+COPYING
+README.md
+composer.json

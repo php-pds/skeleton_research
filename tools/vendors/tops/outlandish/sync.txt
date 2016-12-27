@@ -1,0 +1,3 @@
+src/Outlandish/Sync/
+README.md
+composer.json

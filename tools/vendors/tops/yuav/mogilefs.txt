@@ -1,0 +1,6 @@
+src/MogileFS/
+tests/
+.travis.yml
+README.asciidoc
+composer.json
+phpunit.xml.dist

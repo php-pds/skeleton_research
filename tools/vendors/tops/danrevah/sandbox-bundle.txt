@@ -1,0 +1,15 @@
+Annotation/
+DependencyInjection/
+Enum/
+EventListener/
+Managers/
+Resources/
+Tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+README.md
+SandboxBundle.php
+composer.json
+license.md
+phpunit.xml.dist

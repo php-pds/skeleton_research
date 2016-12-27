@@ -1,0 +1,8 @@
+src/
+.DS_Store
+.gitignore
+README.md
+auth.php
+composer.json
+composer.lock
+database.sql

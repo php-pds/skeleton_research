@@ -1,0 +1,13 @@
+tests/
+yajl/
+.gitignore
+.travis.yml
+CREDITS
+EXPERIMENTAL
+README.md
+composer.json
+config.m4
+config.w32
+php_yajl.h
+yajl.c
+yajl.php

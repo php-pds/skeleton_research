@@ -1,0 +1,10 @@
+.gitignore
+README.md
+README.old.md
+acf_pages_by_template.php
+acf_pages_by_template_v4.php
+acf_pages_by_template_v5.php
+composer.json
+readme.txt
+screenshot1.png
+screenshot2.png

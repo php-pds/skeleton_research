@@ -1,0 +1,12 @@
+generated/Model/
+src/
+tests/
+.gitignore
+LICENSE.txt
+README.md
+bitbucket-pipelines.yml
+bower.json
+composer.json
+phpunit.xml.dist
+swagger-ui.html
+swagger.json

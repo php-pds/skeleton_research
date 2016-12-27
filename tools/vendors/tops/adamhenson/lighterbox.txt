@@ -1,0 +1,13 @@
+dev/
+examples/basic/
+versions/
+.gitignore
+CHANGELOG.md
+LICENSE
+README.md
+composer.json
+gulpfile.js
+jquery.lighterbox.0.0.5.js
+jquery.lighterbox.0.0.5.min.js
+lighterbox.jquery.json
+package.json

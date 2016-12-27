@@ -1,0 +1,10 @@
+Controller/
+DependencyInjection/
+Resources/
+Service/
+Tests/
+.gitignore
+README
+README.md
+ReoringImageBundle.php
+composer.json

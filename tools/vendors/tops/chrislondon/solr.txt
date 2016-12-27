@@ -1,0 +1,3 @@
+bin/
+solr/
+composer.json

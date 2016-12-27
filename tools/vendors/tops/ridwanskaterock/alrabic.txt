@@ -1,0 +1,8 @@
+data/
+example/
+src/Alquran/Resource/
+.gitignore
+composer.json
+composer.lock
+readme.MD
+testr.php

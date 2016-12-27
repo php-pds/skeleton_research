@@ -1,0 +1,8 @@
+components/
+controllers/
+views/
+.gitignore
+License.txt
+README.md
+YiiQuickSwapModule.php
+composer.json

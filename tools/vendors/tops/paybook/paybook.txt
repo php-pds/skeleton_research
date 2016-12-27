@@ -1,0 +1,8 @@
+doc/
+examples/
+src/paybook/
+test/
+.gitignore
+LICENSE
+README.md
+composer.json

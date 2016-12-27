@@ -1,0 +1,7 @@
+src/Seekasia/Common/
+vendor/
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml

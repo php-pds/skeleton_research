@@ -1,0 +1,10 @@
+Controller/
+DependencyInjection/
+Manager/
+Model/
+Resources/
+Twig/
+LICENSE
+MgiletNotificationBundle.php
+README.md
+composer.json

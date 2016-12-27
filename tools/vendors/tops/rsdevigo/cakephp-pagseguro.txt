@@ -1,0 +1,10 @@
+Assets/
+Controller/Component/
+Exemplos/
+.gitignore
+CHANGELOG
+CONSULTA.md
+NOTIFICACAO.md
+README.md
+REQUISICAO_PAGAMENTO.md
+composer.json

@@ -1,0 +1,14 @@
+.travis/
+cli/
+controllers/
+lib/
+models/
+static/
+translation/
+views/scripts/index/
+.travis.yml
+Migrations.md
+README.md
+composer.json
+plugin.xml
+test.sh

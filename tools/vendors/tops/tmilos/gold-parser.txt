@@ -1,0 +1,11 @@
+src/Tmilos/GoldParser/
+tests/Tests/Tmilos/GoldParser/
+.gitattributes
+.gitignore
+.php_cs
+.travis.yml
+LICENSE
+README.md
+autoload.php
+composer.json
+phpunit.xml.dist

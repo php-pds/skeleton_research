@@ -1,0 +1,6 @@
+DependencyInjection/
+Resources/
+Tests/
+Twig/
+TheWellComTwigBundle.php
+composer.json

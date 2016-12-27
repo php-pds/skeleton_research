@@ -1,0 +1,7 @@
+app/
+vendor/
+view/
+.gitignore
+.htaccess
+composer.json
+index.php

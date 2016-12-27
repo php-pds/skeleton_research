@@ -1,0 +1,5 @@
+lib/ChiTeck/TextFormatter/
+LICENSE.txt
+README.md
+autoload.php
+composer.json

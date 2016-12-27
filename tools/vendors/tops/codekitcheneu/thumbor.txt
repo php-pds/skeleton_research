@@ -1,0 +1,5 @@
+LICENSE
+README.md
+composer.json
+thumbor-builder.php
+thumbor.php

@@ -1,0 +1,9 @@
+blackfriday-php-wrapper/
+example/
+schema/
+tests/
+Apiki_Buscape_API.php
+CHANGELOG.txt
+LICENSE.txt
+README.md
+composer.json

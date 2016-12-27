@@ -1,0 +1,6 @@
+Test/
+lib/
+CHANGELOG
+README.rdoc
+VERSION
+composer.json

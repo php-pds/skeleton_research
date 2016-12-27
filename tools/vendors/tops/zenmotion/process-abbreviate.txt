@@ -1,0 +1,7 @@
+plugins/abbr/
+Abbreviate.module
+Abbreviation.php
+ProcessAbbreviate.js
+ProcessAbbreviate.module
+README.md
+composer.json

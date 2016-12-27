@@ -1,0 +1,8 @@
+js/
+uploads/
+.gitignore
+GoogleCloudStorage.php
+LICENSE
+README.md
+composer.json
+index.php

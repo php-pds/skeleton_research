@@ -1,0 +1,6 @@
+examples/
+src/NcursesWidget/
+.gitignore
+LICENSE
+README.md
+composer.json

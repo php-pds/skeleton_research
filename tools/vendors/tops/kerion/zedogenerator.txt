@@ -1,0 +1,10 @@
+.idea/
+config/
+src/ZeDoGenerator/
+view/zedo/
+.gitattributes
+.gitignore
+LICENSE
+Module.php
+README.md
+composer.json

@@ -1,0 +1,16 @@
+assets/
+config/
+controllers/
+forms/
+models/
+runtime/
+tests/
+views/
+web/
+.gitignore
+LICENSE.md
+README.md
+composer.json
+requirements.php
+yii
+yii.bat

@@ -1,0 +1,8 @@
+Documentation/
+Example/
+src/Lfnds/
+.gitignore
+LICENSE
+README.md
+composer.json
+phpunit.xml

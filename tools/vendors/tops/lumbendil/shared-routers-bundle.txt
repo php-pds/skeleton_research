@@ -1,0 +1,7 @@
+DependencyInjection/
+Resources/config/
+Routing/
+LICENSE
+LumbendilSharedRoutersBundle.php
+README.markdown
+composer.json

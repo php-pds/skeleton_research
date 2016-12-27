@@ -1,0 +1,9 @@
+examples/
+nbproject/
+.gitignore
+.travis.yml
+LICENSE
+README.markdown
+composer.json
+gump.class.php
+tests.php

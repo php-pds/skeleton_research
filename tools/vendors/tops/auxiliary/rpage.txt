@@ -1,0 +1,7 @@
+sample/
+tests/
+LICENSE
+README.md
+bower.json
+composer.json
+responsive-paginate.js

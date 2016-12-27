@@ -1,0 +1,6 @@
+src/PleskX/Api/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json

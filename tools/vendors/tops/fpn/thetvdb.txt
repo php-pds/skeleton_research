@@ -1,0 +1,7 @@
+src/FPN/TheTVDB/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+composer.json
+phpunit.xml.dist

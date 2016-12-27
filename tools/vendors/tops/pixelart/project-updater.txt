@@ -1,0 +1,8 @@
+bin/
+src/
+.gitignore
+ISSUE_TEMPLATE.md
+LICENSE
+PULL_REQEST_TEMPLATE.md
+README.md
+composer.json

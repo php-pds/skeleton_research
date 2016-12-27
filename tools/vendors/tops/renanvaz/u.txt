@@ -1,0 +1,6 @@
+_AUX/
+examples/
+src/ULib/
+.gitignore
+README.md
+composer.json

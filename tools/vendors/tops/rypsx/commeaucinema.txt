@@ -1,0 +1,7 @@
+example/
+src/Commeaucinema/
+.gitignore
+LICENSE
+composer.json
+composer.phar
+readme.md

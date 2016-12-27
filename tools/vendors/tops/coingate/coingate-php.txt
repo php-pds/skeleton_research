@@ -1,0 +1,10 @@
+lib/
+tests/
+.gitignore
+CHANGELOG.md
+LICENSE
+README.md
+composer.json
+init.php
+phpunit.no_autoload.xml
+phpunit.xml

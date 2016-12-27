@@ -1,0 +1,8 @@
+Controller/
+DependencyInjection/
+Resources/
+Service/
+Tests/Controller/
+BeckJonathanFileBundle.php
+README.md
+composer.json

@@ -1,0 +1,8 @@
+lib/XSendfile/
+test/
+.gitignore
+LICENSE.md
+README.md
+composer.json
+composer.lock
+phpunit.xml

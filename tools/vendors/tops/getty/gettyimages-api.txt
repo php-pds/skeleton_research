@@ -1,0 +1,15 @@
+bdd_bootstrap/
+examples/
+src/
+.gitignore
+.gitmodules
+.travis.yml
+Build.bat
+Build.sh
+LICENSE
+LICENSE.TXT
+README.md
+README_ComposerInstall.md
+behat.yml
+buildPhar.php
+composer.json

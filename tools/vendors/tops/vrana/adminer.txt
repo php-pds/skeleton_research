@@ -1,0 +1,15 @@
+adminer/
+designs/
+editor/
+externals/
+plugins/
+tests/
+.gitignore
+.gitmodules
+changes.txt
+compile.php
+composer.json
+coverage.php
+lang.php
+readme.txt
+todo.txt

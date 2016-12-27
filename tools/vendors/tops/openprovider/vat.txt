@@ -1,0 +1,9 @@
+Tests/
+data/
+.gitignore
+Calculator.php
+LICENSE
+README.md
+bootstrap.php
+composer.json
+phpunit.xml

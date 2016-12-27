@@ -1,0 +1,7 @@
+examples/
+ext/pyautogui/
+src/PHPBot/
+.gitignore
+LICENSE
+README.md
+composer.json

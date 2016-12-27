@@ -1,0 +1,7 @@
+.idea/
+web/controller/
+.gitignore
+LICENSE
+README.md
+composer.json
+index.php

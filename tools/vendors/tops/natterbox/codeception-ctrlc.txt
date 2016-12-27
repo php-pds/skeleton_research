@@ -1,0 +1,7 @@
+example/
+src/Codeception/Extension/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock

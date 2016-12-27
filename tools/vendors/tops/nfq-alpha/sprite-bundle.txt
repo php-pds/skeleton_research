@@ -1,0 +1,4 @@
+src/SpriteGenerator/
+.gitignore
+README.md
+composer.json

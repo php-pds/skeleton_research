@@ -1,0 +1,7 @@
+config/
+src/ZendIntercom/
+LICENSE
+Module.php
+README.md
+bump-version.sh
+composer.json

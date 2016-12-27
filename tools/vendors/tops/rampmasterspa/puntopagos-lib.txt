@@ -1,0 +1,5 @@
+Resources/example/
+lib/PuntoPagos/
+.gitignore
+README.md
+composer.json

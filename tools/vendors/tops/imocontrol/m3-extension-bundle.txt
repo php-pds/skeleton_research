@@ -1,0 +1,13 @@
+Bundle/
+Command/
+DependencyInjection/
+Generator/
+Resources/
+Tests/
+.gitignore
+IMOControlM3ExtensionBundle.php
+LICENSE
+README.md
+build.xml
+composer.json
+phpunit.xml.dist

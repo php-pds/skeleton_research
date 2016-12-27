@@ -1,0 +1,15 @@
+Controller/
+DependencyInjection/
+EventListener/
+Exception/
+Message/
+QueryParams/
+Repository/
+Resources/config/
+Routing/
+Serializer/
+Tests/
+Utils/
+EyjaRestBundle.php
+README.md
+composer.json

@@ -1,0 +1,9 @@
+_config/
+code/
+images/
+templates/includes/
+CHANGELOG.md
+LICENSE.md
+README.md
+_config.php
+composer.json

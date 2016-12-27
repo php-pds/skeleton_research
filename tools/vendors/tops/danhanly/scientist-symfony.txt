@@ -1,0 +1,5 @@
+.gitignore
+README.md
+ScientistBundle.php
+composer.json
+scientist.png

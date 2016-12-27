@@ -1,0 +1,16 @@
+examples/
+src/
+tests/
+tools @ 7293931
+.gitattributes
+.gitignore
+.gitmodules
+.travis.yml
+CONTRIBUTING.md
+LICENSE
+Makefile
+README.md
+RELNOTES.md
+apigen.neon
+composer.json
+phpunit.xml

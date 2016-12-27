@@ -1,0 +1,3 @@
+vendor/alipush/
+README.md
+composer.json

@@ -1,0 +1,7 @@
+assets/
+BarRating.php
+BarRatingAsset.php
+BarRatingPluginAsset.php
+LICENSE
+README.md
+composer.json

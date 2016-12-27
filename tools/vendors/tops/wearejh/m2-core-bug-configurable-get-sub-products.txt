@@ -1,0 +1,6 @@
+CatalogInventory/Helper/
+etc/
+README.md
+composer.json
+composer.lock
+registration.php

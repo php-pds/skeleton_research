@@ -1,0 +1,7 @@
+examples/
+lib/
+LICENSE
+README
+cacert.pem
+composer.json
+telerivet.php

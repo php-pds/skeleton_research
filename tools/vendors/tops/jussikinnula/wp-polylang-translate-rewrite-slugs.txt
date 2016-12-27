@@ -1,0 +1,4 @@
+include/
+README.md
+composer.json
+polylang-translate-rewrite-slugs.php

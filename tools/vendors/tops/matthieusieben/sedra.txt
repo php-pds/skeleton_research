@@ -1,0 +1,8 @@
+src/
+static/
+.DS_Store
+.gitignore
+LICENSE
+README.md
+composer.json
+index.example.php

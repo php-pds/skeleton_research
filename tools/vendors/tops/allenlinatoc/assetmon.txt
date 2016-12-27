@@ -1,0 +1,13 @@
+vendor/
+.gitignore
+LICENSE
+README.md
+assetmon
+assetmon.json
+assetmon.php
+composer.json
+composer.lock
+constants.php
+empir
+functions.php
+registry.functions.php

@@ -1,0 +1,6 @@
+doc/
+src/ShopwareSymfonyForms/FormFactory/
+.gitignore
+LICENSE.txt
+README.md
+composer.json

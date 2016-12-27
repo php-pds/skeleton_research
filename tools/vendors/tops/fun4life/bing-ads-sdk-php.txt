@@ -1,0 +1,6 @@
+PHP/Bing Ads API in PHP/
+description/
+README.md
+composer.json
+description.html
+license.rtf

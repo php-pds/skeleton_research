@@ -1,0 +1,16 @@
+config/
+data/cache/
+module/Application/
+public/
+puphpet/
+.dockerignore
+.gitignore
+CONTRIBUTING.md
+Dockerfile
+Dockerfile-dev
+LICENSE.txt
+README.md
+Vagrantfile
+composer.json
+composer.lock
+docker-compose.yml

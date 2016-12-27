@@ -1,0 +1,9 @@
+app/
+example/
+manual/
+testcase/
+.gitignore
+README.md
+change_log.txt
+composer.json
+simple_html_dom.php

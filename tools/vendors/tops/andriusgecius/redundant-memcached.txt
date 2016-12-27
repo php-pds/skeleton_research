@@ -1,0 +1,5 @@
+Tests/
+.DS_Store
+Cache.php
+README.md
+composer.json

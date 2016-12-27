@@ -1,0 +1,10 @@
+Classes/Hooks/
+Configuration/
+Resources/
+LICENSE
+Readme.md
+composer.json
+ext_emconf.php
+ext_icon.svg
+ext_localconf.php
+ext_tables.php

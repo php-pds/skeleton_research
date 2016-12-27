@@ -1,0 +1,4 @@
+includes/
+LICENSE
+composer.json
+woocommerce-facebook-remarketing.php

@@ -1,0 +1,12 @@
+Bridge/
+Controller/
+DataCollector/
+DependencyInjection/
+Event/
+MimeType/
+Resources/
+.gitignore
+ApiEvents.php
+PinkeenApiDebugBundle.php
+README.md
+composer.json

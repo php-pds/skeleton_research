@@ -1,0 +1,4 @@
+src/Sipgateio/
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,5 @@
+src/Auth/
+tests/
+LICENSE.txt
+README.md
+composer.json

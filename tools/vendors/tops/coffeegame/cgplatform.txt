@@ -1,0 +1,11 @@
+config/
+data/cache/
+module/Application/
+public/
+.gitignore
+Dockerfile
+LICENSE.md
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

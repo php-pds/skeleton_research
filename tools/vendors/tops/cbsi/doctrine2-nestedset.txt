@@ -1,0 +1,7 @@
+lib/DoctrineExtensions/NestedSet/
+tests/
+.gitignore
+INSTALL.markdown
+LICENSE
+README.markdown
+composer.json

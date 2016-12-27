@@ -1,0 +1,6 @@
+src/Crassaert/AzureDocumentDB/
+test/
+.gitignore
+LICENSE
+README.md
+composer.json

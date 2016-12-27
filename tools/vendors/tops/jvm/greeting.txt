@@ -1,0 +1,6 @@
+src/MyApp/
+test/MyAppTest/
+.gitignore
+README.md
+composer.json
+phpunit.xml

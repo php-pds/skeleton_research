@@ -1,0 +1,11 @@
+app/
+public/
+src/SlimStarter/
+.gitignore
+Boxfile
+Boxfile.install
+LICENSE
+README.md
+composer.json
+composer.lock
+migrate.php

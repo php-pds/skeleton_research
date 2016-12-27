@@ -1,0 +1,10 @@
+DawPhpPagination/
+config/
+css/
+resources/lang/
+.gitignore
+README-fr.md
+README.md
+composer.json
+composer.lock
+composer.phar

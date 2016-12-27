@@ -1,0 +1,14 @@
+Core/
+config/
+src/Restman/
+tests/phpunit/
+.gitignore
+.htaccess
+.travis.yml
+LICENSE
+README.md
+autoload.php
+composer.json
+console
+index.php
+phpunit.xml.dist

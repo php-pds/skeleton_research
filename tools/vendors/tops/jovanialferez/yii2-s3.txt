@@ -1,0 +1,3 @@
+AmazonS3.php
+README.md
+composer.json

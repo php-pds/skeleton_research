@@ -1,0 +1,8 @@
+src/ThurexTable/
+test/
+.scrutinizer.yml
+.travis.yml
+LICENSE.txt
+Readme.md
+autoloader.php
+composer.json

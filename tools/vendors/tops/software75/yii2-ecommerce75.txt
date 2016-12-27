@@ -1,0 +1,8 @@
+controllers/
+migrations/
+models/
+views/products/
+LICENSE
+Module.php
+README.md
+composer.json

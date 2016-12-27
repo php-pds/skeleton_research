@@ -1,0 +1,15 @@
+css/
+img/themes/
+js/
+server/
+templates/
+.editorconfig
+.gitignore
+LICENSE.md
+README.md
+composer.json
+demo.html
+favicon.ico
+index.html
+package.json
+python-server.py

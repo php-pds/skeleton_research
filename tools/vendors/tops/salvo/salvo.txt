@@ -1,0 +1,10 @@
+bin/
+configuration_example/
+src/Salvo/
+tests/
+.gitignore
+CHANGES
+LICENSE
+README.md
+composer.json
+phpunit.xml

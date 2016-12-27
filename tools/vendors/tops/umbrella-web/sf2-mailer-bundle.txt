@@ -1,0 +1,6 @@
+DependencyInjection/
+Mailer/
+Resources/config/
+README.md
+UmbrellawebMailerBundle.php
+composer.json

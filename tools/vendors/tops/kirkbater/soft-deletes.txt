@@ -1,0 +1,4 @@
+src/Kirkbater/Testing/
+.gitignore
+README.md
+composer.json

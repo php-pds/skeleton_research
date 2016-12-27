@@ -1,0 +1,6 @@
+src/
+tests/
+.travis.yml
+LICENSE
+composer.json
+readme.md

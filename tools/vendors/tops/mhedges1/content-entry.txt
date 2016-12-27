@@ -1,0 +1,6 @@
+config/
+migrations/
+src/Mhedges1/ContentEntry/
+.gitignore
+README.md
+composer.json

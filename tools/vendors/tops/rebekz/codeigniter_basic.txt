@@ -1,0 +1,10 @@
+application/
+bin/
+config/
+public/
+vendor/
+.gitattributes
+.gitignore
+README.md
+composer.json
+composer.lock

@@ -1,0 +1,6 @@
+assets/
+views/layouts/
+AutoloadExample.php
+LICENSE
+README.md
+composer.json

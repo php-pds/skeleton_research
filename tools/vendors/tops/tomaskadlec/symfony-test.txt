@@ -1,0 +1,6 @@
+Fixtures/
+TestCase/
+.gitignore
+LICENSE
+README.md
+composer.json

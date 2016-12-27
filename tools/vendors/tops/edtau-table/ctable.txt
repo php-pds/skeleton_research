@@ -1,0 +1,8 @@
+report/
+src/HTMLTable/
+test/
+.scrutinizer.yml
+.travis.yml
+README.md
+autoloader.php
+composer.json

@@ -1,0 +1,6 @@
+views/
+README.md
+Swiper.php
+SwiperAsset.php
+SwiperJqueryAsset.php
+composer.json

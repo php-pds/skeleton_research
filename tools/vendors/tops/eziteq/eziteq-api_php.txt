@@ -1,0 +1,7 @@
+src/EziteqAPI_PHP/
+tests/
+.gitignore
+.travis.yml
+README.md
+composer.json
+phpunit.xml.dist

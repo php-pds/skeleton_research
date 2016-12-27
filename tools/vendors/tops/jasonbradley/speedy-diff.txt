@@ -1,0 +1,8 @@
+Exceptions/
+TestDiffFiles/
+Tests/
+.travis.yml
+README.md
+SpeedyDiff.php
+composer.json
+example.php

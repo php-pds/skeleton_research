@@ -1,0 +1,5 @@
+example/
+src/Provider/
+LICENSE
+composer.json
+readme.md

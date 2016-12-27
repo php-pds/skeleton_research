@@ -1,0 +1,11 @@
+docs/spanish/
+eefx/
+examples/
+htaccess for mvc-exengine/
+AUTHORS.md
+COPYING.txt
+README.md
+VERSION.txt
+composer.json
+ee.php
+ee7.php

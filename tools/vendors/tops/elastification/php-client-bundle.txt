@@ -1,0 +1,12 @@
+Component/
+DataCollector/
+DependencyInjection/
+Resources/
+Tests/
+.gitignore
+.travis.yml
+ElastificationPhpClientBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

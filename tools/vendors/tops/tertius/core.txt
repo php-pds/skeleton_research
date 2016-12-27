@@ -1,0 +1,8 @@
+classes/tertius/
+config/
+specs/
+traits/tertius/
+.gitignore
+.travis.yml
+README.md
+composer.json

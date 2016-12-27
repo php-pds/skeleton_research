@@ -1,0 +1,12 @@
+Condition/
+DependencyInjection/
+Filter/
+Form/
+Model/
+Resources/config/
+spec/Iteo/Bundle/FormFilterBundle/
+.gitignore
+.travis.yml
+IteoFormFilterBundle.php
+README.md
+composer.json

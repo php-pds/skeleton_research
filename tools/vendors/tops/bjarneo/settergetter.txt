@@ -1,0 +1,7 @@
+src/SetterGetter/
+tests/
+.editorconfig
+.gitignore
+README.md
+composer.json
+phpunit.xml

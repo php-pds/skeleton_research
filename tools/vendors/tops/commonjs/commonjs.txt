@@ -1,0 +1,10 @@
+plugins/
+src/CommonJS/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+commonjs.php
+composer.json
+phpunit.xml.dist

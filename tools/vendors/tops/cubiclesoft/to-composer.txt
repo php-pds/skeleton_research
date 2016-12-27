@@ -1,0 +1,7 @@
+readme_src/
+src/
+.gitignore
+README.md
+composer.json
+functions.php
+update.php

@@ -1,0 +1,16 @@
+bin/
+features/
+spec/
+src/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+badge-poser.svg
+composer.json
+composer.lock
+i_m-badge.svg
+phpspec-scrutinizer.yml
+phpspec.yml
+today-dark.svg

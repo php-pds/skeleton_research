@@ -1,0 +1,15 @@
+examples/
+src/
+tests/
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+VERSION
+autoload.php
+composer.json
+composer.lock
+phpiredis.ini
+phpunit.xml.dist
+travisci-install.sh

@@ -1,0 +1,6 @@
+Example/
+src/Waper/
+.gitignore
+LICENSE
+README.md
+composer.json

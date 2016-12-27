@@ -1,0 +1,8 @@
+Controller/
+DependencyInjection/
+Entity/
+Resources/
+Twig/
+PalapImageTagBundle.php
+README.md
+composer.json

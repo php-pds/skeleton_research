@@ -1,0 +1,7 @@
+lib/
+.gitignore
+LICENSE
+README.md
+composer.json
+php-ansidumper.sublime-project
+test.php

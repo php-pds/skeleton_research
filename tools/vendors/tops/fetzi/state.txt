@@ -1,0 +1,11 @@
+config/
+spec/Fetzi/State/
+src/
+.codecov.yml
+.gitignore
+.travis.yml
+LICENSE.md
+README.md
+composer.json
+composer.lock
+phpspec.yml

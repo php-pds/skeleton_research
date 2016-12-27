@@ -1,0 +1,7 @@
+behaviors/
+lib/behaviors/
+Config.php
+LMSAPI.php
+LMSAPI_Language.php
+LMSAPI_ReplyFormat.php
+composer.json

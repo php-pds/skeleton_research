@@ -1,0 +1,10 @@
+src/
+.gitignore
+.htaccess
+.scrutinizer.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+todo-customer-repair.txt
+todo-sql-dump.txt

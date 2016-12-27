@@ -1,0 +1,12 @@
+.settings/
+classes/
+doc/
+resources/
+tests/
+tools/
+.gitignore
+.project
+build.xml
+composer.json
+phpunit.php
+phpunit.xml.dist

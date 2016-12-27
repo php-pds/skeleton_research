@@ -1,0 +1,12 @@
+lib/
+scripts/
+.gitattributes
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock
+gulp_init.bat
+gulp_init.sh
+gulpfile.js
+package.json

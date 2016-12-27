@@ -1,0 +1,5 @@
+Classes/Debug/Toolbar/
+Configuration/
+Resources/
+README.md
+composer.json

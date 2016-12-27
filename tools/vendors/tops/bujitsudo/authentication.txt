@@ -1,0 +1,7 @@
+Build/
+Classes/BuJitsuDo/Authentication/
+Configuration/
+Resources/Private/
+.gitignore
+UnitTests.xml
+composer.json

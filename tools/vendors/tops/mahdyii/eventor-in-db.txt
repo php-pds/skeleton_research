@@ -1,0 +1,4 @@
+Exceptions/
+EventLogInDB.php
+README.md
+composer.json

@@ -1,0 +1,4 @@
+src/Saaspose/
+.gitignore
+README.md
+composer.json

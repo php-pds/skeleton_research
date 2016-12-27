@@ -1,0 +1,15 @@
+assets/
+image/
+js/
+protected/
+themes/classic/
+.gitignore
+.htaccess
+.travis.yml
+LICENSE
+README.md
+composer.json
+config-dist.php
+config.php
+index.php
+php.ini

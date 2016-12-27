@@ -1,0 +1,7 @@
+src/Pitpit/Component/Diff/
+tests/Pitpit/Component/Diff/Tests/
+.gitignore
+LICENSE
+README.md
+composer.json
+phpunit.xml

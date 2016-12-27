@@ -1,0 +1,4 @@
+lib/Palma/Silex/Provider/
+LICENSE
+README.markdown
+composer.json

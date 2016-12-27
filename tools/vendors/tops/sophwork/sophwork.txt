@@ -1,0 +1,8 @@
+dist/
+doc/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.phar
+phpDocumentor.phar

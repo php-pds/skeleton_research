@@ -1,0 +1,9 @@
+lib/Detector/
+web/
+.gitmodules
+CHANGELOG
+LICENSE
+LICENSE.modernizr-server
+README.md
+TODO
+composer.json

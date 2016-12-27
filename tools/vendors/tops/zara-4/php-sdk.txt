@@ -1,0 +1,8 @@
+Zara4/API/
+test-images/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json
+phpunit.xml

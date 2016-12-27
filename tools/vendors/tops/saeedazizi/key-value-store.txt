@@ -1,0 +1,10 @@
+Providers/
+migration/
+src/
+tests/
+.gitignore
+.travis.yml
+composer.json
+index.html
+phpunit.xml
+readme.md

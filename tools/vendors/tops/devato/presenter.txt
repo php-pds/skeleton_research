@@ -1,0 +1,8 @@
+spec/Devato/Presenter/
+src/Devato/Presenter/
+tests/
+.gitignore
+.travis.yml
+composer.json
+phpspec.yml
+phpunit.xml

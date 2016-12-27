@@ -1,0 +1,16 @@
+Block/
+Controller/
+Helper/
+Model/
+Plugin/Model/ResourceModel/
+Setup/
+Test/Helper/
+etc/
+i18n/
+view/
+CHANGELOG.md
+LICENSE.txt
+README.md
+composer.json
+phpunit.xml.dist
+registration.php

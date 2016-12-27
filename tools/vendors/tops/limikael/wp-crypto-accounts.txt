@@ -1,0 +1,16 @@
+bin/
+ext/
+js/
+res/
+src/
+submodule/
+tests/
+.gitignore
+.gitmodules
+Makefile
+README.md
+notification-block-io.php
+notification-blockchain-info.php
+phpunit.xml
+withdraw.php
+wp-crypto-accounts.php

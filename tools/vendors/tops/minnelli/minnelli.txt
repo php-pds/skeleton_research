@@ -1,0 +1,6 @@
+views/
+LICENSE
+README.md
+composer.json
+index.php
+minnelli.php

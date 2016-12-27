@@ -1,0 +1,6 @@
+extra/
+src/HogLog/
+.gitignore
+LICENSE
+README.md
+composer.json

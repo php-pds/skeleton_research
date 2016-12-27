@@ -1,0 +1,11 @@
+DependencyInjection/
+Resources/config/
+ServiceFactory/
+Tests/
+.gitignore
+.travis.yml
+APinneckeOAuthBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

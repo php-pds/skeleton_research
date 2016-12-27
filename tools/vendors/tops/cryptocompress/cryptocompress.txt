@@ -1,0 +1,8 @@
+lib/CryptoCompress/
+test/CryptoCompress/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

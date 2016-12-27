@@ -1,0 +1,7 @@
+classes/
+config/
+vendor/ckeditor/
+.gitignore
+README.md
+composer.json
+init.php

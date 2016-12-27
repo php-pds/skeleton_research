@@ -1,0 +1,6 @@
+src/Stackify/Log/Log4php/
+.gitattributes
+.gitignore
+LICENSE
+README.md
+composer.json

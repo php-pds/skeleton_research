@@ -1,0 +1,8 @@
+src/
+tests/IP2LocLite/Tests/Services/
+.gitignore
+LICENSE.txt
+README.md
+changelog.md
+composer.json
+phpunit.xml.dist

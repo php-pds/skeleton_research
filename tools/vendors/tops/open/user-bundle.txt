@@ -1,0 +1,12 @@
+Component/Authentication/Handler/
+Controller/
+DependencyInjection/
+Entity/
+Form/
+Model/
+OAuth/
+Resources/
+Tests/Controller/
+OpenUserBundle.php
+README.md
+composer.json

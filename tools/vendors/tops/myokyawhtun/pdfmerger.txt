@@ -1,0 +1,8 @@
+fpdf/
+fpdi/
+.gitattributes
+.gitignore
+PDFMerger.php
+README.md
+composer.json
+sample.php

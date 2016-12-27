@@ -1,0 +1,14 @@
+build/
+phpunit/
+src/Spot/
+tests/
+tools/
+zephir/
+.gitignore
+.travis.yml
+Makefile
+README.md
+composer.json
+phpcs.xml
+phpdox.xml
+phpmd.xml

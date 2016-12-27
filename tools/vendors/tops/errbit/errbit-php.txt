@@ -1,0 +1,5 @@
+Errbit/
+Errbit.php
+LICENSE
+README.md
+composer.json

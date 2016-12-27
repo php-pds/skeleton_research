@@ -1,0 +1,5 @@
+src/Pygments/
+tests/Pygments/
+.gitignore
+README.md
+composer.json

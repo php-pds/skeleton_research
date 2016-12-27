@@ -1,0 +1,7 @@
+src/Laracoord/
+.gitignore
+LICENSE
+README.md
+_config.yml
+composer.json
+laracoord-scr.jpg

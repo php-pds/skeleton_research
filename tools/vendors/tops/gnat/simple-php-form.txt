@@ -1,0 +1,7 @@
+examples/
+tests/
+.gitignore
+.travis.yml
+README.md
+SimplePHPForm.php
+composer.json

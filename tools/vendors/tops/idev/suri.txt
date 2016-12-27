@@ -1,0 +1,14 @@
+.settings/
+app/
+src/Idev/
+vendor/
+web/
+.buildpath
+.project
+LICENSE
+README.md
+composer.json
+composer.lock
+console.php
+index.php
+index_dev.php

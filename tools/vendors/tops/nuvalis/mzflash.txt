@@ -1,0 +1,6 @@
+src/Flash/
+test/
+.travis.yml
+LICENSE.txt
+README.md
+composer.json

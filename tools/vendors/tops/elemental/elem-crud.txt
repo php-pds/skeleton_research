@@ -1,0 +1,6 @@
+src/ElemCrud/
+.gitignore
+LICENSE
+README.md
+autoload_classmap.php
+composer.json

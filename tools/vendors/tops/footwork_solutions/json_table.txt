@@ -1,0 +1,9 @@
+examples/
+src/
+tests/PhpUnit/
+.gitignore
+.scrutinizer.yml
+LICENCE
+README.md
+composer.json
+phpunit.xml

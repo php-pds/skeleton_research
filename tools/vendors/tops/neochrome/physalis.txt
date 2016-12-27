@@ -1,0 +1,10 @@
+bin/
+example/
+specs/
+src/
+.gitignore
+.travis.yml
+README.md
+composer.json
+physalis.bat
+version.php

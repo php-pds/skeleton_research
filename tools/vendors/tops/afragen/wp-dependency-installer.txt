@@ -1,0 +1,8 @@
+example-plugin/
+.gitattributes
+.gitignore
+LICENSE
+README.md
+composer.json
+wp-dependencies-example.json
+wp-dependency-installer.php

@@ -1,0 +1,10 @@
+dist/
+src/Whybug/
+vendor/
+.gitignore
+README.md
+Whybugfile.ini
+auto_prepend.php
+box.json
+composer.json
+test.php

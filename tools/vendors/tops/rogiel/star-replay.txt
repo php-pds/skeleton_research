@@ -1,0 +1,10 @@
+bin/
+s2protocol @ a28c7e2
+src/
+tests/
+.gitignore
+.gitmodules
+.travis.yml
+README.md
+composer.json
+phpunit.xml

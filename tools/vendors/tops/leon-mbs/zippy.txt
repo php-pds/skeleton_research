@@ -1,0 +1,11 @@
+assets/
+core/
+demo/
+zcl/
+.gitattributes
+.gitignore
+LICENSE
+README.md
+changelog.txt
+composer.json
+zippy.inc.php

@@ -1,0 +1,12 @@
+API/
+Auth/
+Exception/
+Model/
+spec/GorkaLaucirica/JiraApiClient/
+.gitignore
+.travis.yml
+Client.php
+LICENSE
+README.md
+composer.json
+phpspec.yml

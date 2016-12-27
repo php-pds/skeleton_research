@@ -1,0 +1,7 @@
+.gitignore
+LICENSE
+README.md
+composer.json
+demo.php
+phpminify.min.php
+phpminify.php

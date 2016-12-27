@@ -1,0 +1,4 @@
+Src/Trident/PhpSimple/
+.gitignore
+README.md
+composer.json

@@ -1,0 +1,6 @@
+.idea/
+src/CustomerGuru/
+test/
+.gitignore
+README.md
+composer.json

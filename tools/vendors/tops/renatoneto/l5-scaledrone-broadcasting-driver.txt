@@ -1,0 +1,4 @@
+src/LaravelScaleDrone/
+.gitignore
+README.md
+composer.json

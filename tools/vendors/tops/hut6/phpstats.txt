@@ -1,0 +1,8 @@
+lib/
+tests/
+.gitignore
+LICENSE.txt
+PHPStats.phar
+README.md
+build.xml
+composer.json

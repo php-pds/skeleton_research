@@ -1,0 +1,12 @@
+CodeSniffer/
+scripts/
+tests/
+.gitattributes
+.gitignore
+.travis.yml
+CodeSniffer.conf.dist
+CodeSniffer.php
+README.markdown
+composer.json
+licence.txt
+package.xml

@@ -1,0 +1,8 @@
+app/
+config/
+views/
+web/
+.gitignore
+Readme.md
+composer.json
+composer.lock

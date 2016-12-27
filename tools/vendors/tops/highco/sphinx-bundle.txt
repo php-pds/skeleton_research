@@ -1,0 +1,9 @@
+Client/
+DependencyInjection/
+Pager/
+Resources/config/services/
+Searcher/
+.gitignore
+HighcoSphinxBundle.php
+README.md
+composer.json

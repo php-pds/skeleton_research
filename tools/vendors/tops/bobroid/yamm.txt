@@ -1,0 +1,7 @@
+assets/
+.gitignore
+Yamm.php
+YammAsset.php
+blueThemeAsset.php
+composer.json
+grayThemeAsset.php

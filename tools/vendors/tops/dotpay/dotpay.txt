@@ -1,0 +1,12 @@
+Block/
+Controller/
+Model/
+Observer/
+Setup/
+Tool/
+etc/
+i18n/
+view/
+README.md
+composer.json
+registration.php

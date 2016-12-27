@@ -1,0 +1,7 @@
+files/js/comet/
+src/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock

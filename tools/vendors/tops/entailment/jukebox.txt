@@ -1,0 +1,13 @@
+include/
+.coveralls.yml
+.gitattributes
+.gitignore
+.travis.yml
+Jukebox.php
+LICENSE
+README.md
+composer.json
+composer.lock
+functions.php
+hooks.php
+readme.txt

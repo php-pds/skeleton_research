@@ -1,0 +1,8 @@
+build/
+examples/
+src/
+test/
+LICENSE
+README.md
+composer.json
+create-phar.php

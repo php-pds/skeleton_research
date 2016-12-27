@@ -1,0 +1,11 @@
+Annotations/
+DependencyInjection/
+Listener/
+Resources/config/
+Tests/
+Upload/
+.gitattributes
+.gitignore
+README.md
+WeysanDoctrineImgBundle.php
+composer.json

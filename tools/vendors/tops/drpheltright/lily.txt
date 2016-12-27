@@ -1,0 +1,12 @@
+doc @ 86ba666
+example/
+src/Lily/
+test/
+.coveralls.yml
+.gitignore
+.gitmodules
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

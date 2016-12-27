@@ -1,0 +1,3 @@
+Feedoz.php
+README.md
+composer.json

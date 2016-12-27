@@ -1,0 +1,13 @@
+src/Zuora/
+test/
+.coveralls.yml
+.editorconfig
+.gitignore
+.travis.yml
+CSTEST
+LICENSE
+README.md
+build.xml
+composer.json
+phpmd.xml
+phpunit.xml

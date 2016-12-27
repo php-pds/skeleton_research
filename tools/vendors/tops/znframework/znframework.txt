@@ -1,0 +1,12 @@
+External/
+Internal/
+Projects/
+.gitattributes
+.gitignore
+.htaccess
+composer.json
+license.txt
+readme.md
+robots.txt
+zerocore
+zeroneed.php

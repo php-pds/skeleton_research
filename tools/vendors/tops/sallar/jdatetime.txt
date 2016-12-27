@@ -1,0 +1,8 @@
+Tests/
+.travis.yml
+README.md
+composer.json
+examples-static.php
+examples.php
+jdatetime.class.php
+phpunit.xml

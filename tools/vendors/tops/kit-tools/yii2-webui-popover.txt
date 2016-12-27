@@ -1,0 +1,6 @@
+.gitignore
+LICENSE.md
+README.md
+WebUIPopover.php
+WebUIPopoverAsset.php
+composer.json

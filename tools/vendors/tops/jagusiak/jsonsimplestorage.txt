@@ -1,0 +1,4 @@
+src/Jagusiak/JSONSimpleStorage/
+LICENSE
+README.md
+composer.json

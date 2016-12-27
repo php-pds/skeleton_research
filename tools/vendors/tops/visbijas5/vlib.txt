@@ -1,0 +1,8 @@
+vlibDate/
+vlibTemplate/
+LICENSE.txt
+README.md
+composer.json
+vlibDate.php
+vlibIni.php
+vlibTemplate.php

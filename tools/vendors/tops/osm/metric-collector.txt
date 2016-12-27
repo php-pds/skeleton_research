@@ -1,0 +1,7 @@
+src/Osm/MetricCollector/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

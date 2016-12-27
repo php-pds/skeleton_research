@@ -1,0 +1,7 @@
+code/
+docs/
+javascript/
+.gitattributes
+README.md
+_config.php
+composer.json

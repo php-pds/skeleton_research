@@ -1,0 +1,13 @@
+Component/
+DependencyInjection/
+Entity/
+Form/
+Model/
+Providers/
+Resources/config/
+Tests/Controller/
+Twig/
+Validator/Constraints/
+README.md
+composer.json
+meediVideoBundle.php

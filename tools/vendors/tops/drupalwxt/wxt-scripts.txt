@@ -1,0 +1,4 @@
+install/
+.gitignore
+composer.json
+main.sh

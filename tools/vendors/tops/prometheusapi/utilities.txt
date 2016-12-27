@@ -1,0 +1,5 @@
+spec/Uri/
+src/
+.gitignore
+composer.json
+phpspec.yml

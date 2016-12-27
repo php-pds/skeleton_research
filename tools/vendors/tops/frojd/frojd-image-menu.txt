@@ -1,0 +1,6 @@
+templates/
+.gitignore
+README.md
+composer.json
+frojd-image-menu.php
+index.php

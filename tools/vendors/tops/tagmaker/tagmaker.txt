@@ -1,0 +1,7 @@
+src/TagMaker/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json
+phpunit.xml

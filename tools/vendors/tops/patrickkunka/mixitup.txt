@@ -1,0 +1,13 @@
+demos/
+dist/
+docs/
+src/
+tests/
+.gitignore
+.jscsrc
+.jshintrc
+.travis.yml
+CHANGELOG.md
+README.md
+gulpfile.js
+package.json

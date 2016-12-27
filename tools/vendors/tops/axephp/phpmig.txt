@@ -1,0 +1,7 @@
+bin/
+src/Phpmig/
+tests/Phpmig/
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

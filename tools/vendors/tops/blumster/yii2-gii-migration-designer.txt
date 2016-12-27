@@ -1,0 +1,8 @@
+assets/
+generators/designer/
+models/
+Bootstrap.php
+DesignerAsset.php
+LICENSE
+README.md
+composer.json

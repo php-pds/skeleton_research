@@ -1,0 +1,7 @@
+.gitignore
+class.JavaScriptPacker.php
+class.JavaScriptPacker.php4
+composer.json
+example-file.php
+example-inline.php
+readme.txt

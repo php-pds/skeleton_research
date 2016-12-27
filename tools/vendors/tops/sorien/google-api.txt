@@ -1,0 +1,7 @@
+src/GoogleApi/
+.gitattributes
+.gitignore
+LICENSE
+NOTICE
+README.md
+composer.json

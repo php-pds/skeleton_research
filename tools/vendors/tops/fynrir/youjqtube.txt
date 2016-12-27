@@ -1,0 +1,13 @@
+app/config/
+report/
+src/youJQtube/
+test/
+theme/anax-base/
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+autoloader.php
+composer.json
+coverage.clover
+phpunit.xml

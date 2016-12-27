@@ -1,0 +1,5 @@
+src/LaravelVersio/
+.gitignore
+LICENSE
+README.md
+composer.json

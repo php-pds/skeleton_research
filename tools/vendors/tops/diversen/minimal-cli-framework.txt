@@ -1,0 +1,8 @@
+cli/
+.gitignore
+README.md
+color.php
+composer-master.lock
+composer.json
+minimalCli.php
+test.php

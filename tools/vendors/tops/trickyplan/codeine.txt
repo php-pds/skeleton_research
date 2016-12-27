@@ -1,0 +1,14 @@
+build @ c532a4c
+debian/
+dev/
+docs/
+etc/
+src/
+usr/bin/
+.bowerrc
+.gitignore
+.gitmodules
+README.markdown
+bower.json
+build.xml
+composer.json

@@ -1,0 +1,8 @@
+assets/
+views/
+LICENSE.md
+README.md
+XHProf.php
+XHProfComponent.php
+XHProfPanel.php
+composer.json

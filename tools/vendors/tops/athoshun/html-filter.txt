@@ -1,0 +1,10 @@
+AthosHun/HTMLFilter/
+build/
+.gitignore
+.travis.yml
+LICENSE
+Makefile
+README.md
+composer.json
+phpunit.xml.dist
+sami.config.php

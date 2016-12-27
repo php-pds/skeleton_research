@@ -1,0 +1,8 @@
+DependencyInjection/
+Inbound/
+Outbound/
+Resources/config/
+Support/
+EverlutionMandrillBundle.php
+README.md
+composer.json

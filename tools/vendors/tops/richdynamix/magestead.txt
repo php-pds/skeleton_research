@@ -1,0 +1,8 @@
+assets/
+provision/
+src/Magestead/
+.gitignore
+README.md
+composer.json
+composer.lock
+magestead

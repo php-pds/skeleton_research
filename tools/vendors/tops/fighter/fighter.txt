@@ -1,0 +1,8 @@
+src/Fighter/
+t/
+.gitignore
+.hhconfig
+.travis.yml
+README.md
+composer.json
+composer.lock

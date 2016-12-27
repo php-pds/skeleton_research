@@ -1,0 +1,6 @@
+config/
+src/QueueSqsEbWorker/
+.gitignore
+LICENSE
+Module.php
+composer.json

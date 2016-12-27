@@ -1,0 +1,8 @@
+components/
+files/
+tests/
+.gitignore
+CheckingAutoloader.php
+README.md
+bootstrap.php
+composer.json

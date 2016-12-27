@@ -1,0 +1,6 @@
+examples/
+lib/Polytalk/
+.gitignore
+LICENSE
+README.md
+composer.json

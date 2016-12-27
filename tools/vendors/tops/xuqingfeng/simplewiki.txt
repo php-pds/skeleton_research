@@ -1,0 +1,13 @@
+assets/
+models/
+tests/
+views/default/
+wiki/
+.gitignore
+.htaccess
+README.md
+autoload.php
+composer.json
+composer.lock
+config.php
+index.php

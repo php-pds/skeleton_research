@@ -1,0 +1,15 @@
+assets/
+behaviors/
+controllers/
+migrations/
+models/
+views/
+web/
+widgets/
+Bootstrap.php
+Certificate.php
+LICENSE
+Module.php
+README.md
+composer.json
+composer.lock

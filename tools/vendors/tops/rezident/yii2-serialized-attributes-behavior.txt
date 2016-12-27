@@ -1,0 +1,7 @@
+.gitignore
+DeserializeAttributeException.php
+LICENSE.md
+README.md
+SerializeAttributeException.php
+SerializedAttributes.php
+composer.json

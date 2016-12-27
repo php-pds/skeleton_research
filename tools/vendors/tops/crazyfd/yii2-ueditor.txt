@@ -1,0 +1,9 @@
+assets/
+.gitignore
+Assets.php
+LICENSE
+README.md
+Ueditor.php
+Upload.php
+composer.json
+config.json

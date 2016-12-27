@@ -1,0 +1,9 @@
+Connect/
+DataFixtures/ORM/
+DependencyInjection/
+Entity/
+Resources/
+Role/
+MatheoUserBundle.php
+README.md
+composer.json

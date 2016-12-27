@@ -1,0 +1,10 @@
+DataCollector/
+DependencyInjection/
+Logger/
+Resources/
+.gitignore
+ElasticaClient.php
+LICENSE
+README.md
+WBElasticaBundle.php
+composer.json

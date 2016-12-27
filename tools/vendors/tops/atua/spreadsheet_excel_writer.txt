@@ -1,0 +1,8 @@
+Spreadsheet/Excel/
+test/
+.gitignore
+.travis.yml
+README.md
+composer.json
+package.xml
+phpunit.xml.dist

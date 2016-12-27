@@ -1,0 +1,6 @@
+spec/Api/
+src/Api/
+.gitignore
+composer.json
+composer.lock
+phpspec.yml

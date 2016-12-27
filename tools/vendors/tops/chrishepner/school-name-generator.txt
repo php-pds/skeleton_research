@@ -1,0 +1,6 @@
+src/SchoolNameGenerator/
+.gitignore
+LICENSE
+README.md
+composer.json
+test.php

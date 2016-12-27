@@ -1,0 +1,12 @@
+app/
+config/
+src/SiteChecker/
+tests/unit/
+.gitignore
+.travis.yml
+LICENSE.md
+README.md
+TODO.md
+composer.json
+composer.lock
+sitechecker

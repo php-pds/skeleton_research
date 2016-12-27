@@ -1,0 +1,12 @@
+DependencyInjection/
+Resources/
+Services/
+Tests/
+Twig/Extension/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+SexyboysInflexibleBundle.php
+composer.json
+phpunit.xml.dist

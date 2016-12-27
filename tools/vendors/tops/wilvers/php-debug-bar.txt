@@ -1,0 +1,9 @@
+src/Wilvers/PhpDebugBar/
+.deployignore
+.gitattributes
+.gitignore
+composer.json
+composer.lock
+git
+index.php
+readme.md

@@ -1,0 +1,10 @@
+empty-projects/
+src/
+test/
+tutorial/
+.gitignore
+.travis.yml
+README.md
+build.xml
+composer.json
+phpunit.xml

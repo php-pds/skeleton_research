@@ -1,0 +1,8 @@
+bin/
+doc/img/
+src/SamArtuso/MysqlQueryMonitor/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock

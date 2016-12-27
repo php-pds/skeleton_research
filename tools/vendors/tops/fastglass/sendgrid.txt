@@ -1,0 +1,10 @@
+lib/
+scripts/
+test/
+.editorconfig
+.gitignore
+.travis.yml
+CHANGELOG.md
+MIT.LICENSE
+README.md
+composer.json

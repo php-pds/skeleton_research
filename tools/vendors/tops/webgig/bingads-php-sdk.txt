@@ -1,0 +1,3 @@
+src/BingAds/
+README.md
+composer.json

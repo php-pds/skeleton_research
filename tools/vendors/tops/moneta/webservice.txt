@@ -1,0 +1,7 @@
+src/Moneta/
+test/
+.gitignore
+README.md
+composer.json
+composer.lock
+moneta-api.ini

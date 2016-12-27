@@ -1,0 +1,5 @@
+bin/
+lib/Pgettext/
+LICENSE
+README.md
+composer.json

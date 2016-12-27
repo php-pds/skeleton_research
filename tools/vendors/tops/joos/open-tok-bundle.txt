@@ -1,0 +1,6 @@
+DependencyInjection/
+Resources/
+.gitignore
+JoosOpenTokBundle.php
+README.md
+composer.json

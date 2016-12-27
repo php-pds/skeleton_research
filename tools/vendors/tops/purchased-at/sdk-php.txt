@@ -1,0 +1,12 @@
+bundle/
+examples/
+publish/
+src/
+tests/Purchase/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.phar
+phpmd.xml
+phpunit.xml

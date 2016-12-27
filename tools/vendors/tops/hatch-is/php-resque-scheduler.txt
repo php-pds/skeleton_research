@@ -1,0 +1,9 @@
+bin/
+extras/
+lib/
+.gitignore
+CHANGELOG.md
+LICENSE
+README.md
+composer.json
+resque-scheduler.php

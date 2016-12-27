@@ -1,0 +1,4 @@
+src/Kelpie/
+README.mkdn
+composer.json
+demo.php

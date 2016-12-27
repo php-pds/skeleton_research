@@ -1,0 +1,6 @@
+examples/
+src/
+LICENSE
+README
+cacert.pem
+composer.json

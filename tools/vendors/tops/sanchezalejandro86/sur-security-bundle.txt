@@ -1,0 +1,9 @@
+Controller/
+DependencyInjection/
+Entity/
+Menu/
+Resources/
+Security/
+Tests/Controller/
+SURSecurityBundle.php
+composer.json

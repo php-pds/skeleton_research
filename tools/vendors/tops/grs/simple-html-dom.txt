@@ -1,0 +1,8 @@
+example/
+manual/
+src/
+.gitattributes
+.gitignore
+README.md
+change_log.txt
+composer.json

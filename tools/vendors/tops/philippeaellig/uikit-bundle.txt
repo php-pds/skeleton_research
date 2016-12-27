@@ -1,0 +1,7 @@
+DependencyInjection/
+Resources/
+Twig/
+.gitignore
+PhilippeaelligUiKitBundle.php
+README.md
+composer.json

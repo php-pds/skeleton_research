@@ -1,0 +1,8 @@
+test/
+.gitignore
+.jshintrc
+.scrutinizer.yml
+README.md
+composer.json
+package.json
+paths.json

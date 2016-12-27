@@ -1,0 +1,14 @@
+make/
+src/
+tests/
+.gitignore
+.infra.json
+LICENSE
+Makefile
+README.md
+component.json
+composer.json
+infra.php
+package.json
+ready.js
+ready.min.js

@@ -1,0 +1,17 @@
+.idea/
+assets/
+node_modules/
+protected/
+static/
+themes/classic/views/
+.bowerrc
+.gitignore
+.htaccess
+README.md
+bower.json
+composer.json
+gulpfile.js
+heisenberg.sample.php
+index-test.php
+index.php
+package.json

@@ -1,0 +1,5 @@
+lib/Hrxml/
+tests/Hrxml/
+README.md
+composer.json
+phpunit.xml.dist

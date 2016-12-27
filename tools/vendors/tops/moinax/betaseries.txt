@@ -1,0 +1,5 @@
+examples/
+src/Moinax/BetaSeries/
+.gitignore
+README.md
+composer.json

@@ -1,0 +1,6 @@
+example/
+src/captaindoe/
+vendor/
+composer.json
+composer.lock
+composer.phar

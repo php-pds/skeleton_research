@@ -1,0 +1,12 @@
+Command/
+DirectoryResolver/
+Executor/
+Loader/
+Repository/
+Tests/
+.gitignore
+.travis.yml
+EshtaFixturesBundle.php
+README.md
+composer.json
+phpunit.xml.dist

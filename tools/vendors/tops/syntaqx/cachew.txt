@@ -1,0 +1,7 @@
+example/
+lib/Cachew/
+tests/
+.gitattributes
+.gitignore
+README.md
+UNLICENSE

@@ -1,0 +1,11 @@
+src/Darya/
+tests/Unit/
+.gitattributes
+.gitignore
+CHANGELOG.md
+LICENSE.txt
+README.md
+autoloader.php
+composer.json
+phpunit.php
+phpunit.xml

@@ -1,0 +1,15 @@
+Block/
+Controller/
+Helper/
+Logger/
+Model/
+Observer/
+Setup/
+etc/
+i18n/
+view/
+Changelog.txt
+LICENSE.txt
+README.md
+composer.json
+registration.php

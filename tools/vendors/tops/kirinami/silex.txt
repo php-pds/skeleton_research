@@ -1,0 +1,7 @@
+app/
+extensions/
+providers/
+web/
+.gitignore
+README.rst
+composer.json

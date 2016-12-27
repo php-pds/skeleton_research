@@ -1,0 +1,8 @@
+docs/
+lib/
+test/
+.gitignore
+LICENSE
+README.md
+autoload.php
+composer.json

@@ -1,0 +1,10 @@
+DependencyInjection/
+Entity/
+Resources/config/
+Service/
+Twig/Extension/
+.editorconfig
+LICENSE
+README.md
+WebmakersSettingBundle.php
+composer.json

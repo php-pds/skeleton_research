@@ -1,0 +1,10 @@
+Bundle/
+Command/
+DependencyInjection/
+Generator/
+Resources/
+Util/
+PlayadzQuickSetupBundle.php
+README.md
+composer.json
+setup.yml.sample

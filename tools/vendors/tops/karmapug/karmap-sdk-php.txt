@@ -1,0 +1,4 @@
+src/class/
+LICENSE
+README.md
+composer.json

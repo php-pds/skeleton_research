@@ -1,0 +1,15 @@
+application/
+assets/img/
+.gitignore
+.htaccess
+CONDUCT.md
+CONTRIBUTING.md
+LICENSE.md
+README.md
+circle.yml
+composer.json
+gulpfile.js
+index.php
+package.json
+phpunit_mysql.xml
+phpunit_pgsql.xml

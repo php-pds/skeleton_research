@@ -1,0 +1,6 @@
+LICENSES/ComposerInstaller/
+src/
+.gitignore
+LICENSE.md
+README.md
+composer.json

@@ -1,0 +1,8 @@
+DependencyInjection/
+Resources/
+CoceptFilterBundle.php
+Filter.php
+FilterFactory.php
+FilterWidget.php
+README.md
+composer.json

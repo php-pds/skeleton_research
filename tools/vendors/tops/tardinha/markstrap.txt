@@ -1,0 +1,9 @@
+_config/
+css/
+javascript/
+thirdparty/codemagic/
+.editorconfig
+LICENSE
+README.md
+_config.php
+composer.json

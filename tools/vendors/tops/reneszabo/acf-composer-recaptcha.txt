@@ -1,0 +1,7 @@
+js/
+lib/
+.gitignore
+acf-composer-recaptcha-v5.php
+acf-composer-recaptcha.php
+composer.json
+composer.lock

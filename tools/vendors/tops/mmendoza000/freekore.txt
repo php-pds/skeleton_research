@@ -1,0 +1,14 @@
+app/
+freekore/
+public/
+vendor/composer/
+.gitignore
+.htaccess
+LICENSE
+README.html
+README.md
+composer.json
+composer.lock
+index.php
+licencia.txt
+license.txt

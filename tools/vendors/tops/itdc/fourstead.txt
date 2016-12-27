@@ -1,0 +1,12 @@
+scripts/
+src/
+.gitattributes
+.gitignore
+LICENSE.txt
+README.md
+Vagrantfile
+composer.json
+composer.lock
+fourstead
+init.bat
+init.sh

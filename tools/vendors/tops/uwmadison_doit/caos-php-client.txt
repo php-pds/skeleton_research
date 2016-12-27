@@ -1,0 +1,14 @@
+src/
+.gitignore
+.version
+CONTRIBUTING.md
+LICENSE
+README-release.md
+README.md
+build.xml
+classGenerator.php
+composer.json
+get-phing.sh
+phpunit-integration.xml
+release-clone.php
+release.php

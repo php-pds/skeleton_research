@@ -1,0 +1,11 @@
+.idea/
+dict/
+readme/
+.DS_Store
+.gitignore
+LICENSE
+Phpanalysis.php
+README.md
+composer.json
+demo.php
+dict_build.php

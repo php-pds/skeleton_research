@@ -1,0 +1,11 @@
+assets/
+components/
+controllers/
+lang/en/
+models/
+updates/
+LICENSE
+Plugin.php
+README.md
+composer.json
+routes.php

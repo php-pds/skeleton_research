@@ -1,0 +1,16 @@
+bootstrap/
+config/
+database
+modules/
+public/
+storage/
+.env.example
+.gitattributes
+.gitignore
+.travis.yml
+LICENSE
+README.md
+artisan
+composer.json
+composer.lock
+server.php

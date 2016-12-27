@@ -1,0 +1,5 @@
+src/Makkoto/Sdk/
+.gitignore
+README.md
+composer.json
+composer.lock

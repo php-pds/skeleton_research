@@ -1,0 +1,15 @@
+web/
+.csslintrc
+.editorconfig
+.eslintignore
+.eslintrc
+.gitattributes
+.gitignore
+.hooks.yml
+CHANGELOG.md
+DRUPAL.txt
+LICENSE.txt
+README.md
+TODO.md
+composer.json
+composer.lock

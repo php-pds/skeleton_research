@@ -1,0 +1,4 @@
+BOS/ApiBundle/
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,12 @@
+build/
+src/Constans/
+tests/
+.gitattributes
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE.txt
+composer.json
+phpunit.php
+phpunit.xml
+readme.md

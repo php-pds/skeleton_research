@@ -1,0 +1,9 @@
+spec/StudioIgnis/Cmd/
+src/
+.gitignore
+.travis.yml
+Gulpfile.js
+README.md
+composer.json
+package.json
+phpspec.yml

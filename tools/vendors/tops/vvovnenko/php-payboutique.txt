@@ -1,0 +1,7 @@
+Api/
+Client/
+Exception/
+Client.php
+README.md
+Signer.php
+composer.json

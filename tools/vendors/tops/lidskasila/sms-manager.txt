@@ -1,0 +1,6 @@
+src/SmsManager/
+.gitignore
+LICENSE.md
+README.md
+composer.json
+composer.lock

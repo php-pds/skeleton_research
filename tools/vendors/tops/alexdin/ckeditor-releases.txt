@@ -1,0 +1,15 @@
+adapters/
+lang/
+plugins/
+samples/
+skins/
+CHANGES.md
+LICENSE.md
+README.md
+bower.json
+ckeditor.js
+composer.json
+config.js
+contents.css
+package.json
+styles.js

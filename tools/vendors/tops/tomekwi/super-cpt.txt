@@ -1,0 +1,9 @@
+css/
+fonts/
+includes/
+js/
+.gitignore
+composer.json
+readme.md
+readme.txt
+super-cpt.php

@@ -1,0 +1,5 @@
+bin/
+README.md
+composer.json
+nws_sync_boot.sh
+nws_sync_watch_boot.sh

@@ -1,0 +1,8 @@
+docs/
+src/gkcgautam/phpUtils/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock
+generateDocs.md

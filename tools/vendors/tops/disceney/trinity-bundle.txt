@@ -1,0 +1,8 @@
+DependencyInjection/
+Resources/config/
+Services/
+Traits/
+.gitignore
+README.md
+TrinityBundle.php
+composer.json

@@ -1,0 +1,16 @@
+app/
+bin/
+media/
+sass/
+src/
+tests/AppBundle/
+var/
+web/
+.bowerrc
+.gitignore
+LICENSE
+README.md
+bower.json
+composer.json
+config.rb
+phpunit.xml.dist

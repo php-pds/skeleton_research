@@ -1,0 +1,13 @@
+images/
+src/
+tests/
+.gitignore
+.htaccess
+.travis.yml
+LICENSE
+README.md
+composer.json
+hulk.ini
+index.php
+ruleset.xml
+test.txt

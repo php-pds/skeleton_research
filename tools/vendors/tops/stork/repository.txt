@@ -1,0 +1,8 @@
+Config/
+Console/Command/
+Controller/
+Docs/hooks/
+.git_workflow.ini
+LICENSE.txt
+README.md
+composer.json

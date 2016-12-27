@@ -1,0 +1,6 @@
+images/
+.travis.yml
+README.md
+ajaxModal.php
+ajaxModalAsset.php
+composer.json

@@ -1,0 +1,11 @@
+EtherpadLite/
+test/FullStack/
+tools/
+.gitignore
+CHANGELOG
+Makefile
+README.md
+api-spec.json
+composer.json
+etherpad-lite-client.php
+phpunit.xml

@@ -1,0 +1,17 @@
+config/
+migrations/
+resources/
+src/
+tests/
+.editorconfig
+.gitignore
+.scrutinizer.yml
+.styleci.yml
+.travis.yml
+LICENSE.md
+README.md
+composer.json
+composer.lock
+gulpfile.js
+package.json
+phpunit.xml

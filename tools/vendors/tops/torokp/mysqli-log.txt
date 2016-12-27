@@ -1,0 +1,6 @@
+.gitattributes
+.gitignore
+README.md
+composer.json
+error-log.php
+mysqli-log.php

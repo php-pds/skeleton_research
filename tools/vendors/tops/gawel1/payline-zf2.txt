@@ -1,0 +1,7 @@
+SDK/
+config/
+src/Payline/
+Module.php
+README.md
+autoload_classmap.php
+composer.json

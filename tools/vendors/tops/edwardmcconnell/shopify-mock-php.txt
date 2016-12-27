@@ -1,0 +1,10 @@
+fixtures/
+tests/
+.gitignore
+Fixture.php
+Response.php
+ResponseCollection.php
+ShopifyAPI.php
+composer.json
+composer.lock
+phpunit.xml

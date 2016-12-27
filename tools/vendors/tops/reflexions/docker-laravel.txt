@@ -1,0 +1,12 @@
+bin/
+certs/
+etc/apache2/sites-available/
+home/
+src/Reflexions/DockerLaravel/
+yarn/
+.gitignore
+CHANGELOG.md
+Dockerfile
+README.md
+composer.json
+docker-laravel.sublime-project

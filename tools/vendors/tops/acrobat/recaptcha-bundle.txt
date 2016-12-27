@@ -1,0 +1,15 @@
+DependencyInjection/
+Form/Type/
+Helper/
+Resources/
+Tests/
+Validator/Constraints/
+.gitignore
+.rmt.yml
+.travis.yml
+AcrobatRecaptchaBundle.php
+CHANGELOG
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

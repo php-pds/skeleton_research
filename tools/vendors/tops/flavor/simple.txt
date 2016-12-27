@@ -1,0 +1,10 @@
+src/
+tests/
+.gitattributes
+.gitignore
+LICENSE
+README.md
+autoload.sh
+composer.json
+phpunit.php
+phpunit.xml

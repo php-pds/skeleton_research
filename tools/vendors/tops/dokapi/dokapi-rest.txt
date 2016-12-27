@@ -1,0 +1,8 @@
+src/
+tests/fixtures/simple/
+.atoum.bootstrap.php
+.atoum.php
+.gitignore
+LICENCE
+README.md
+composer.json

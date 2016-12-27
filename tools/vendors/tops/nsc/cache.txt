@@ -1,0 +1,8 @@
+docs/
+src/cache/
+test/
+.gitattributes
+.gitignore
+README.md
+composer.json
+composer.lock

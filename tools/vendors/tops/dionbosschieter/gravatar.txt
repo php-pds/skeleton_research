@@ -1,0 +1,5 @@
+spec/Gravatar/
+src/Gravatar/
+.gitignore
+README.md
+composer.json

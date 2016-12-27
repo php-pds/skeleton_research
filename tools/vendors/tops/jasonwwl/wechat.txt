@@ -1,0 +1,4 @@
+src/JasonWL/WeChat/
+.gitignore
+README.md
+composer.json

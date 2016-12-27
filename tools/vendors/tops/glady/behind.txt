@@ -1,0 +1,10 @@
+src/glady/
+.gitattributes
+.gitignore
+.travis.yml
+LICENSE
+README.md
+autoload.php
+composer.json
+phpunit.xml.dist
+test-bootstrap.php

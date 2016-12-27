@@ -1,0 +1,10 @@
+config/
+src/
+test/Decres/Tests/Compressor/
+.gitignore
+composer.json
+composer.lock
+decres.bat
+decres.php
+phpunit.xml.dist
+readme.md

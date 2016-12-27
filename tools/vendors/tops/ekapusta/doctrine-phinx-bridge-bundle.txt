@@ -1,0 +1,6 @@
+Command/
+Resources/views/
+.gitignore
+EkapustaDoctrinePhinxBridgeBundle.php
+README.md
+composer.json

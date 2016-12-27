@@ -1,0 +1,5 @@
+src/
+vendor/
+.composer.json.swp
+composer.json
+composer.lock

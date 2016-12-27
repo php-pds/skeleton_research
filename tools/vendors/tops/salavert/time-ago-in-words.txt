@@ -1,0 +1,7 @@
+src/Salavert/Twig/Extension/
+tests/
+.gitignore
+.travis.yml
+README.md
+composer.json
+phpunit.xml.dist

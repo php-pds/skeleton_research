@@ -1,0 +1,9 @@
+src/
+.editorconfig
+.gitignore
+Djvu 3 specification EN.pdf
+Djvu 3 specification RU.pdf
+LICENSE
+README.md
+composer.json
+composer.lock

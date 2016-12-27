@@ -1,0 +1,4 @@
+src/Paginate/
+.gitignore
+README.md
+composer.json

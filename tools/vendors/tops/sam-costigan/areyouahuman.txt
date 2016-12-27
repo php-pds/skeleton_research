@@ -1,0 +1,7 @@
+code/
+css/
+thirdparty/
+.DS_Store
+README.md
+_config.php
+composer.json

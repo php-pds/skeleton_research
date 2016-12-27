@@ -1,0 +1,6 @@
+Command/
+Generator/
+Resources/
+CPANAGeneratorBundle.php
+README.md
+composer.json

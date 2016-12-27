@@ -1,0 +1,5 @@
+.gitignore
+CHANGELOG.md
+FCMSimple.php
+README.md
+composer.json

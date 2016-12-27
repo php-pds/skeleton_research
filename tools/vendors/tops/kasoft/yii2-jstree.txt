@@ -1,0 +1,8 @@
+assets/js/
+demo/
+JsTree.php
+JsTreeAsset.php
+JsTreeBridgeAsset.php
+README.md
+composer.json
+composer.lock

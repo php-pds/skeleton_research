@@ -1,0 +1,8 @@
+src/app/
+test/
+.gitignore
+README.md
+build.xml
+composer.json
+composer.lock
+modman

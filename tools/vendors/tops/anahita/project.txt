@@ -1,0 +1,9 @@
+.openshift/
+bin/
+packages/
+tasks/
+www/
+.gitignore
+README.md
+anahita
+composer.json

@@ -1,0 +1,4 @@
+src/FreeStory/
+.gitignore
+README.md
+composer.json

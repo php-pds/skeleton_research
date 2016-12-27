@@ -1,0 +1,13 @@
+bin/
+src/Sauce/Sausage/
+tests/
+LICENSE.APACHE2
+MobileDemo.php
+README.md
+SeleniumRCDemo.php
+WebDriverDemo.php
+WebDriverDemoShootout.php
+WebDriverFileUploadDemo.php
+WebDriverNologinLinkDemo.php
+composer.json
+sauce_api_test.php

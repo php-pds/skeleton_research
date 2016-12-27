@@ -1,0 +1,4 @@
+assets/
+LayerAsset.php
+README.md
+composer.json

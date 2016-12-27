@@ -1,0 +1,5 @@
+ms_office_addins/
+composer.json
+tbs_plugin_opentbs.html
+tbs_plugin_opentbs.php
+xml_synopsis.txt

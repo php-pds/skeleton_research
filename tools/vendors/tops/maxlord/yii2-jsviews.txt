@@ -1,0 +1,5 @@
+.gitignore
+JsViewsAsset.php
+LICENSE.txt
+README.md
+composer.json

@@ -1,0 +1,5 @@
+src/OpenCalais/
+tests/
+.gitignore
+composer.json
+readme.md

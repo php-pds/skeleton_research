@@ -1,0 +1,8 @@
+content/
+resources/configs/
+vendor/
+webroot/
+LICENSE
+README.md
+composer.json
+composer.lock

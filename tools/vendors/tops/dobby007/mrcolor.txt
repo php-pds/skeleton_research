@@ -1,0 +1,9 @@
+docs/
+nbproject/
+src/SyHolloway/MrColor/
+.gitattributes
+.gitignore
+LICENSE
+README.md
+composer.json
+manual-init.php

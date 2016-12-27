@@ -1,0 +1,11 @@
+intacct_dtd/
+src/
+tests/
+.gitignore
+.gitmodules
+Intacct integration class diagram.pdf
+README.md
+composer.json
+composer.lock
+intacct_configuration.example.yml
+phpunit.xml

@@ -1,0 +1,6 @@
+src/wooshell/storeNotifier/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock

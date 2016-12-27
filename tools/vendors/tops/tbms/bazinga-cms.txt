@@ -1,0 +1,21 @@
+builder/
+classes/
+conf/
+lib @ b4a40da
+modules/
+scripts_python/
+templates/
+vendorCustom/
+www/
+.gitattributes
+.gitignore
+.gitmodules
+README.md
+backup.sh
+composer.json
+console
+gulpfile.js
+ignoredFiles.tar
+install.sh
+load_dumps.sh
+sql.sql

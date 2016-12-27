@@ -1,0 +1,10 @@
+legacy/
+lib/
+.gitignore
+AUTHORS
+COPYING
+ChangeLog
+INSTALL
+NEWS
+README.md
+composer.json

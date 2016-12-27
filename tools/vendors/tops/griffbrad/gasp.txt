@@ -1,0 +1,8 @@
+Gasp/
+bin/
+tests/
+.gitignore
+README.md
+composer.json
+composer.lock
+gaspfile

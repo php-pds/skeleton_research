@@ -1,0 +1,9 @@
+avatars/
+src/
+tools/
+.gitignore
+LICENSE
+README.md
+avatar.php
+composer.json
+demo.php

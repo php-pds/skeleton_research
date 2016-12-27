@@ -1,0 +1,5 @@
+Configuration/
+Resources/Public/Mootools/
+.gitignore
+composer.json
+composer.json.update

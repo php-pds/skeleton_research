@@ -1,0 +1,13 @@
+demo/
+fonts/
+ie7/
+.gitignore
+BCMC_consumer_logo_bw_surface.svg
+BCMC_consumer_logo_paths.svg
+LICENSE
+README.md
+bower.json
+component.json
+composer.json
+preview.jpg
+style.css

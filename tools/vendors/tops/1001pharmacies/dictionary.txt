@@ -1,0 +1,11 @@
+doc/
+src/Meup/DataStructure/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+autoload.php.dist
+build.xml
+composer.json
+composer.lock
+phpunit.xml.dist

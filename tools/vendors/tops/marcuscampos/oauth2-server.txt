@@ -1,0 +1,9 @@
+.idea/
+config/
+database/migrations/
+docs/
+src/
+LICENSE
+README.md
+composer.json
+phpspec.yml.dist

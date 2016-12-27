@@ -1,0 +1,4 @@
+examples/basics/
+src/Gum/
+README.md
+composer.json

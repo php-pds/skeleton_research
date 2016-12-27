@@ -1,0 +1,6 @@
+Classes/
+.editorconfig
+LICENSE.txt
+README.md
+composer.json
+config.php

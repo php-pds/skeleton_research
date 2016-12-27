@@ -1,0 +1,11 @@
+doc/
+src/OpenStack/
+tests/
+.gitignore
+.gitreview
+CHANGELOG.rst
+LICENSE.txt
+README.md
+README.rst
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,9 @@
+config/
+data/generator/sfPropelModule/bootstrap/
+lib/widget/
+modules/theme/templates/
+templates/
+web/
+LICENCE
+README.md
+composer.json

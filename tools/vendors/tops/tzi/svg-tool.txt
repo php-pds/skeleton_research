@@ -1,0 +1,7 @@
+src/
+vendor/
+CONTRIBUTING.md
+LICENSE
+README.md
+composer.json
+test.php

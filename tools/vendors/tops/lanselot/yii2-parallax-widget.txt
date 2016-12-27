@@ -1,0 +1,5 @@
+assets/
+ParallaxAsset.php
+ParallaxWidget.php
+README.md
+composer.json

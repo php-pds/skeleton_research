@@ -1,0 +1,8 @@
+src/AuthSignature/
+tests/
+.gitignore
+README.md
+composer.json
+composer.phar
+phpunit.dist.xml
+phpunit.xml

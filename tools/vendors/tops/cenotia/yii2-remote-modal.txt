@@ -1,0 +1,7 @@
+assets/
+CHANGE.md
+LICENSE.md
+README.md
+RemoteModal.php
+RemoteModalAsset.php
+composer.json

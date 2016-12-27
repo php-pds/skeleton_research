@@ -1,0 +1,12 @@
+Grafizzi/Graph/
+app/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+COPYING.LESSER.txt
+COPYING.txt
+Grafizzi.dox
+Makefile
+README.md
+composer.json
+phpunit.xml.dist

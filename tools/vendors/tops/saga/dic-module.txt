@@ -1,0 +1,14 @@
+includes/
+src/
+tests/
+.editorconfig
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+composer.json
+dic.info
+dic.install
+dic.module
+phpunit.xml.dist

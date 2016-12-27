@@ -1,0 +1,8 @@
+assets/
+inc/
+.gitignore
+Gruntfile.js
+LICENSE.md
+README.md
+composer.json
+gaussholder.php

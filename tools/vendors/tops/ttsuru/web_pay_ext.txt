@@ -1,0 +1,5 @@
+templates/
+WebPayExt.php
+composer.json
+plugin_info.php
+plugin_update.php

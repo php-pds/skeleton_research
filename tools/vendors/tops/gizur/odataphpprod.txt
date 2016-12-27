@@ -1,0 +1,9 @@
+Docs/
+Tests/
+library/ODataProducer/
+services/
+Dispatcher.php
+Index.php
+README.md
+composer.json
+web.config

@@ -1,0 +1,7 @@
+docker/
+library/Vo/
+tests/
+.gitignore
+.travis.yml
+README.markdown
+composer.json

@@ -1,0 +1,6 @@
+.idea/
+vendor/
+.gitignore
+LICENSE
+composer.json
+composer.lock

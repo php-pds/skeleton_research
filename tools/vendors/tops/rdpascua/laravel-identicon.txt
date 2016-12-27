@@ -1,0 +1,6 @@
+src/Rdpascua/Identicon/
+.gitignore
+.travis.yml
+composer.json
+phpunit.xml
+readme.md

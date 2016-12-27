@@ -1,0 +1,7 @@
+assets/
+LICENSE
+ModernizrAsset.php
+README.md
+TextCounter.php
+TextCounterAsset.php
+composer.json

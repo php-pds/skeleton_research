@@ -1,0 +1,5 @@
+Controller/
+Entity/
+JMDRestBundle.php
+README.md
+composer.json

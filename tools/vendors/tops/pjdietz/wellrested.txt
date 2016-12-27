@@ -1,0 +1,12 @@
+docs/
+src/pjdietz/WellRESTed/
+test/
+vagrant/
+.gitignore
+.travis.yml
+README.md
+Vagrantfile
+composer.json
+composer.lock
+phpdoc.dist.xml
+phpunit.xml.dist

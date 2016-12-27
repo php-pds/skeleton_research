@@ -1,0 +1,8 @@
+assets/
+class/
+config/
+templates/
+LICENSE
+README.md
+composer.json
+error_handler_require.php

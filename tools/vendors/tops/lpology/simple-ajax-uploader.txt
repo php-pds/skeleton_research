@@ -1,0 +1,10 @@
+examples/
+extras/
+.gitignore
+Changelog.md
+README.md
+SimpleAjaxUploader.js
+SimpleAjaxUploader.min.js
+bower.json
+composer.json
+package.json

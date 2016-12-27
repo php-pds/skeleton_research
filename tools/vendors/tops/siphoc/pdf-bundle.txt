@@ -1,0 +1,16 @@
+Converter/
+DependencyInjection/
+Generator/
+Resources/
+Tests/
+Util/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+SiphocPdfBundle.php
+composer.json
+documentation.config.xml
+phpunit.xml.dist

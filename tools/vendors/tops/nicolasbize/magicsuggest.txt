@@ -1,0 +1,9 @@
+.gitignore
+README.md
+bower.json
+composer.json
+magicsuggest-min.css
+magicsuggest-min.js
+magicsuggest.css
+magicsuggest.jquery.json
+magicsuggest.js

@@ -1,0 +1,8 @@
+docs/
+lib/
+tests/
+.gitignore
+README.md
+autoload.php
+composer.json
+swagger.json

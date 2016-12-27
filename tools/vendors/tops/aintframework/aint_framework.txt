@@ -1,0 +1,6 @@
+docs/
+library/aint/
+tests/
+.gitignore
+README.md
+composer.json

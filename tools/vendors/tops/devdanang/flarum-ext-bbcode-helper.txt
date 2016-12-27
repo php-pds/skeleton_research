@@ -1,0 +1,6 @@
+js/
+less/
+src/Listener/
+bootstrap.php
+composer.json
+flarum.json

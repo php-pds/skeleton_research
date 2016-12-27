@@ -1,0 +1,12 @@
+examples/
+scripts/
+src/Hyperwallet/
+tests/Hyperwallet/Tests/
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist
+sami.cfg.php

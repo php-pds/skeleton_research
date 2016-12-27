@@ -1,0 +1,16 @@
+base/
+exceptions/
+schemas/
+tests/
+.gitignore
+Address.php
+CHANGELOG
+LICENSE
+Order.php
+README.md
+Rate.php
+ShipwireConnector.php
+Stock.php
+circle.yml
+codeception.yml
+composer.json

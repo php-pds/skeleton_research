@@ -1,0 +1,8 @@
+Kernel/
+Loader/
+RouteBridge/
+SymfonyRoot/config/
+LICENSE.txt
+Module.php
+README.md
+composer.json

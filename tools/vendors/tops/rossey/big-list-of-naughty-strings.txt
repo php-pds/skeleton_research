@@ -1,0 +1,8 @@
+bin/
+resources @ b37c8cb
+src/
+.gitignore
+.gitmodules
+LICENSE
+README.md
+composer.json

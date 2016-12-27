@@ -1,0 +1,9 @@
+docs/
+lib/
+LICENSE
+README.md
+autoloader.php
+composer.json
+config.php
+settings.php
+test.php

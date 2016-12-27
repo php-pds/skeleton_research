@@ -1,0 +1,6 @@
+wp_jq_multiselect/
+.gitignore
+README
+bz_category_sticky.php
+composer.json
+readme.txt

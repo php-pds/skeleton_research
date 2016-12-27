@@ -1,0 +1,12 @@
+src/
+test/src/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CONTRIBUTING.md
+LICENSE
+README.md
+apigen.yml
+composer.json
+gh-pages.sh
+phpunit.xml

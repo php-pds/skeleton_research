@@ -1,0 +1,5 @@
+.gitignore
+LICENSE
+README.txt
+composer.json
+simplistic-nav-menus.php

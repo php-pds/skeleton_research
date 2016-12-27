@@ -1,0 +1,7 @@
+adapters/codeigniter/
+doc/
+lib/tschiemer/
+.gitignore
+LICENSE
+README.md
+composer.json

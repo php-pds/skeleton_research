@@ -1,0 +1,9 @@
+src/JimmyHowe/Utilities/ApiTrait/
+tests/
+.gitignore
+.travis.yml
+LICENCE.md
+README.md
+composer.json
+composer.lock
+phpunit.xml

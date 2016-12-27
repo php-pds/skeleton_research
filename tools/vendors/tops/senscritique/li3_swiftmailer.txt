@@ -1,0 +1,10 @@
+config/
+extensions/adapter/mailer/transport/
+mailer/
+tests/cases/mailer/
+.gitignore
+AUTHORS
+LICENSE
+README
+composer.json
+readme.wiki

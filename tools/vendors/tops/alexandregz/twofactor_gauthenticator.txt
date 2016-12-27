@@ -1,0 +1,15 @@
+PHPGangsta/
+localization/
+screenshots/
+.gitignore
+2FA_qr_code.js
+CIDR.php
+LICENSE
+README.md
+ToDo
+composer.json
+config.inc.php.dist
+qrcode.min.js
+twofactor_gauthenticator.js
+twofactor_gauthenticator.php
+twofactor_gauthenticator_form.js

@@ -1,0 +1,14 @@
+docs/
+feature_test/
+instance/
+log/
+.gitignore
+LICENSE
+README.md
+Server.php
+composer.json
+config.php
+shutdown.php
+startup.php
+task_restart.php
+worker_restart.php

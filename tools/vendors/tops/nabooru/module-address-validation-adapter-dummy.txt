@@ -1,0 +1,7 @@
+Lookup/Adapter/
+etc/
+.gitignore
+LICENSE
+README.md
+composer.json
+registration.php

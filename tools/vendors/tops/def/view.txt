@@ -1,0 +1,9 @@
+.editorconfig
+.gitignore
+Composite.php
+Delegate.php
+Json.php
+README.md
+Strategy.php
+View.php
+composer.json

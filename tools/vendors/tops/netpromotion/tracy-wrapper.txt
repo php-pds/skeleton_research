@@ -1,0 +1,10 @@
+src/
+tests/helpers/
+.gitattributes
+.gitignore
+LICENSE
+README.md
+VERSIONING.md
+composer.json
+phpunit.xml
+preview.png

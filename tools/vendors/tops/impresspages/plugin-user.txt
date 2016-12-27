@@ -1,0 +1,17 @@
+Setup/
+Widget/
+assets/
+translations/
+view/
+AdminController.php
+Event.php
+Filter.php
+FormModel.php
+GridHelper.php
+Model.php
+PasswordHash.php
+Service.php
+SiteController.php
+Slot.php
+composer.json
+routes.php

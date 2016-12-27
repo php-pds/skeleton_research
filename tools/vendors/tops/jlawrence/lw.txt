@@ -1,0 +1,9 @@
+cnf/
+setup_helpers/
+src/
+.gitattributes
+.gitignore
+README.md
+autoload.php
+composer.json
+composer.lock

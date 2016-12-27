@@ -1,0 +1,9 @@
+Example/
+src/CacheEvaluator/Evaluate/
+tests/
+.editorconfig
+.gitignore
+LICENSE.txt
+README.md
+composer.json
+composer.lock

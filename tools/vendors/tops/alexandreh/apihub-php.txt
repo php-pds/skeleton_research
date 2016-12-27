@@ -1,0 +1,13 @@
+Auth/
+Client/
+Contracts/
+Driver/
+Exception/
+Resource/
+examples/github/
+.gitignore
+Config.php
+Integrator.php
+LICENSE
+README.md
+composer.json

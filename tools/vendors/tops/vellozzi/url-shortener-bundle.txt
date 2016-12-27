@@ -1,0 +1,16 @@
+Command/
+Controller/
+DependencyInjection/
+Entity/
+Events/
+Exception/
+Form/Type/
+Manager/
+Model/
+Resources/
+Subscribers/
+Tests/
+.gitignore
+README.md
+VellozziUrlShortenerBundle.php
+composer.json

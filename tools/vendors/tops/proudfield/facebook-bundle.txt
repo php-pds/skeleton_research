@@ -1,0 +1,13 @@
+Controller/
+DependencyInjection/
+Entity/
+EventListeners/
+Helper/
+Resources/
+Security/
+Tests/Controller/
+.gitattributes
+.gitignore
+ProudfieldFacebookBundle.php
+README.md
+composer.json

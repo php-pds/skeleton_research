@@ -1,0 +1,9 @@
+app/
+bootstrap/
+config/
+public/
+storage/smarty_templates_c/
+.htaccess
+README.md
+composer.json
+index.php

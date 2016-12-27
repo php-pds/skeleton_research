@@ -1,0 +1,15 @@
+config/
+scripts/Bedrock/
+vendor/
+web/
+.env.example
+.gitignore
+CHANGELOG.md
+CONTRIBUTING.md
+INSTALL.sh
+LICENSE.md
+MULTISITE.md
+README.md
+composer.json
+composer.lock
+wp-cli.yml

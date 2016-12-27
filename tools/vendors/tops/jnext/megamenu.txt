@@ -1,0 +1,11 @@
+Block/
+Helper/
+Model/Category/
+Setup/
+etc/
+view/
+Jnext_Megamenu.zip
+README.md
+Readme.txt
+composer.json
+registration.php

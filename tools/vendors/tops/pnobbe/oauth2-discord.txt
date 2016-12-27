@@ -1,0 +1,10 @@
+.idea/
+src/Provider/
+test/src/Provider/
+.gitattributes
+.gitignore
+.scrutinizer.yml
+.travis.yml
+README.md
+composer.json
+phpunit.xml

@@ -1,0 +1,5 @@
+PermanentRedirectionBundle/
+.gitignore
+README.md
+_config.yml
+composer.json

@@ -1,0 +1,7 @@
+core/modules/
+setup/
+starter/
+.gitignore
+LICENSE.txt
+README.md
+composer.json

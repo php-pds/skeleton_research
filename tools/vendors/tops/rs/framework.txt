@@ -1,0 +1,10 @@
+rsrc/
+src/
+tests/
+.gitignore
+DEV.md
+README.md
+composer.json
+composer.lock
+docs.sh
+phpunit.xml

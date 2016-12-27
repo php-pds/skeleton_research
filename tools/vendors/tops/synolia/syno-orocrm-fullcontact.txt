@@ -1,0 +1,7 @@
+DependencyInjection/
+Listener/
+Resources/
+Services/
+README.md
+SynoliaFullContactBundle.php
+composer.json

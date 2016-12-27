@@ -1,0 +1,4 @@
+bin/
+lib/Refactool/
+README.md
+composer.json

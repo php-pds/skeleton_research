@@ -1,0 +1,9 @@
+exemplos/
+library/mailchimp/
+testes/
+.gitignore
+LICENSE.txt
+README.md
+composer.json
+composer.lock
+log.txt

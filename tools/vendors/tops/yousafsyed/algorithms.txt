@@ -1,0 +1,7 @@
+src/
+.gitattributes
+.gitignore
+.travis.yml
+composer.json
+examples.php
+readme.md

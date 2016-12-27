@@ -1,0 +1,6 @@
+src/Akerbis/Musixmatch/
+tests/
+.gitignore
+.travis.yml
+composer.json
+phpunit.xml

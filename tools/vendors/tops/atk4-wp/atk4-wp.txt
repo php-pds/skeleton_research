@@ -1,0 +1,6 @@
+lib/
+public/wpatk4/
+templates/
+.gitignore
+composer.json
+readme.md

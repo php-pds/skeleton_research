@@ -1,0 +1,7 @@
+src/Vdbelt/InmobileSmsApi/
+.gitignore
+LICENSE
+README.md
+composer.json
+example.php
+phpunit.xml

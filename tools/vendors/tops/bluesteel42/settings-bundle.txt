@@ -1,0 +1,13 @@
+Adapter/
+Cache/
+Command/
+DependencyInjection/
+Resources/config/
+Service/
+Tests/
+.gitignore
+BlueSteel42SettingsBundle.php
+CHANGELOG.md
+README.md
+composer.json
+phpunit.xml.dist

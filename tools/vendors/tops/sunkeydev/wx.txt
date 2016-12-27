@@ -1,0 +1,8 @@
+config/
+database/migrations/
+resources/views/wx/
+src/
+.gitignore
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,8 @@
+assets/
+.gitignore
+LICENSE.md
+MouseWheelAsset.php
+README.md
+ScrolledMarquee.php
+ScrolledMarqueeAsset.php
+composer.json

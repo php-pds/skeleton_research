@@ -1,0 +1,8 @@
+nbproject/
+src/phplib/
+test/
+.gitignore
+composer.json
+composer.lock
+main.php
+phpunit.xml

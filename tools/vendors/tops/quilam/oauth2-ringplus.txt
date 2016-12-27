@@ -1,0 +1,7 @@
+src/Provider/
+vendor/
+.gitignore
+LICENSE
+README.cmd
+composer.json
+composer.phar

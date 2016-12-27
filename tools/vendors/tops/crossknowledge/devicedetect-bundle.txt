@@ -1,0 +1,14 @@
+DependencyInjection/
+Resources/
+Services/
+Tests/
+Twig/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CrossKnowledgeDeviceDetectBundle.php
+README.markdown
+composer.json
+composer.lock
+contributors.md
+phpunit.xml.dist

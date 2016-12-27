@@ -1,0 +1,7 @@
+spec/LogFrontendBundle/
+src/LogFrontendBundle/
+.gitignore
+.travis.yml
+README.md
+build.xml
+composer.json

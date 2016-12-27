@@ -1,0 +1,12 @@
+spec/Bdunn313/PhpDota/Resources/
+src/Bdunn313/PhpDota/Resources/
+.gitignore
+.travis.yml
+LICENSE
+NOTES.md
+README.md
+composer.json
+composer.lock
+gulpfile.js
+package.json
+phpspec.yml

@@ -1,0 +1,8 @@
+dcom/
+.gitignore
+.htaccess
+Licence.md
+composer-setup.php
+composer.json
+composer.lock
+dcom.php

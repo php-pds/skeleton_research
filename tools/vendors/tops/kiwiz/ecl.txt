@@ -1,0 +1,13 @@
+.phan/
+bin/
+src/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+compiler.js
+composer.json
+composer.lock
+grammar.pegjs
+package.json

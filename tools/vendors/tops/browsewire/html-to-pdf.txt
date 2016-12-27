@@ -1,0 +1,3 @@
+src/Browsewire/HtmlToPdf/
+README.md
+composer.json

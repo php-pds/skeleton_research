@@ -1,0 +1,12 @@
+config/dist/
+src/Hodor/MessageQueue/
+tests/
+.codeclimate.yml
+.gitignore
+.travis.yml
+LICENSE
+README.md
+bootstrap.php
+composer.json
+composer.lock
+phpunit.xml

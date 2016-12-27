@@ -1,0 +1,6 @@
+classes/
+.gitignore
+Imgur.php
+README.md
+composer.json
+examples.php

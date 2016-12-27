@@ -1,0 +1,7 @@
+.gitignore
+.travis.yml
+CHANGE.md
+GoogleCharts.php
+LICENSE.md
+README.md
+composer.json

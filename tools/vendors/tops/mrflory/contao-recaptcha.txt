@@ -1,0 +1,13 @@
+classes/
+config/
+dca/
+forms/
+languages/
+library/
+templates/
+.gitignore
+CHANGELOG.txt
+INSTALL.txt
+LICENSE.txt
+README.md
+composer.json

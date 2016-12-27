@@ -1,0 +1,16 @@
+Classes/
+Documentation/
+Resources/Private/Language/
+Tests/
+.gitignore
+.travis.yml
+LICENSE.txt
+README.md
+UnitTests.xml
+composer.json
+ext_emconf.php
+ext_icon.png
+ext_localconf.php
+ext_tables.php
+ext_tables.sql
+ext_typoscript_setup.txt

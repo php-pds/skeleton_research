@@ -1,0 +1,9 @@
+src/LinusRendahl/
+test/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE.md
+README.md
+autoloader.php
+composer.json

@@ -1,0 +1,7 @@
+src/Cskonline/
+.gitignore
+LICENCE
+README.md
+composer.json
+composer.lock
+phpunit.xml

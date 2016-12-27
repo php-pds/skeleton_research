@@ -1,0 +1,11 @@
+spec/
+src/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE.txt
+README.md
+composer.json
+kahlan-config.php
+kahlan-config.travis.php
+phpcs.xml

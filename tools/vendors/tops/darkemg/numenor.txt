@@ -1,0 +1,7 @@
+docs/
+lib/Numenor/
+.gitignore
+LICENSE.MD
+README.md
+composer.json
+composer.lock

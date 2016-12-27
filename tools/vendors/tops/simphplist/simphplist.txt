@@ -1,0 +1,11 @@
+docs/
+lib-examples/
+project-skeleton/
+src/Simphplist/
+tests/
+.agignore
+.gitignore
+LICENSE
+README.rst
+composer.json
+setup

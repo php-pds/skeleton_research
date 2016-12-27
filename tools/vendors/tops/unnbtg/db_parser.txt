@@ -1,0 +1,9 @@
+.idea/
+src/Microsistec/DbParser/
+tests/Definitions/
+vendor/
+README.md
+composer.json
+composer.lock
+teste.php
+teste_new_parser.php

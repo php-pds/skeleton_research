@@ -1,0 +1,6 @@
+lib/LoremImage/
+tests/
+composer.json
+license.md
+packages.json
+readme.md

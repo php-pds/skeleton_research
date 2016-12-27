@@ -1,0 +1,9 @@
+src/Lootils/Uuid/
+test/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+RELEASE.md
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,10 @@
+config/
+src/
+tests/
+.editorconfig
+.gitattributes
+.gitignore
+.styleci.yml
+circle.yml
+composer.json
+phpunit.xml

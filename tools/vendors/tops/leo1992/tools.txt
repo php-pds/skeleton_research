@@ -1,0 +1,10 @@
+doc/
+example/
+src/Leo/
+test/
+.gitignore
+LICENSE
+README.md
+autoload.php
+composer.json
+composer.phar

@@ -1,0 +1,8 @@
+ZPHP/
+doc/
+.gitignore
+.swp
+README.md
+build.php
+composer.json
+zphp_jg.jpg

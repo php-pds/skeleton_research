@@ -1,0 +1,6 @@
+Command/
+.gitignore
+DoctrineFixturesAutonumberResetBundle.php
+LICENSE
+README.md
+composer.json

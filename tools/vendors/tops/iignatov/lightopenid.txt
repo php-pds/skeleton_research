@@ -1,0 +1,8 @@
+examples/
+provider/
+CHANGELOG.md
+LICENSE
+README.md
+USAGE.md
+composer.json
+openid.php

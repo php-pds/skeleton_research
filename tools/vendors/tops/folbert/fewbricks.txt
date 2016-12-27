@@ -1,0 +1,11 @@
+admin/
+extras/acf-field-snitch/
+fewbricks/
+lib/
+.gitignore
+LICENSE.txt
+README.md
+changelog.md
+composer.json
+fewbricks.php
+release-workflow.md

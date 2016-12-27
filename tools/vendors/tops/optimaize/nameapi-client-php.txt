@@ -1,0 +1,5 @@
+src/org/nameapi/
+tests/
+LICENSE
+README.md
+composer.json

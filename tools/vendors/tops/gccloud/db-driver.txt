@@ -1,0 +1,4 @@
+core/
+database/
+README.md
+composer.json

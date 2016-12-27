@@ -1,0 +1,9 @@
+lib/UrbanAirship/
+tests/UrbanAirship/Tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

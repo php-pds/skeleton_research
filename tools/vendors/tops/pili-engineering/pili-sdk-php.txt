@@ -1,0 +1,10 @@
+example/
+lib/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+README_zh-CN-PHP.md
+composer.json
+phpunit.xml.dist

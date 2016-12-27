@@ -1,0 +1,7 @@
+templates/
+CHANGELOG.md
+LICENSE
+README.md
+composer.json
+disqus.php
+disqus.yml

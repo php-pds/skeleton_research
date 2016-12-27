@@ -1,0 +1,9 @@
+library/Gacela/
+samples/
+tests/
+.gitignore
+LICENSE.txt
+README.md
+composer.json
+phpmd.ini
+phpunit.xml

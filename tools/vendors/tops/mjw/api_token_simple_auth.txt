@@ -1,0 +1,3 @@
+src/Mjw/Auth/
+.gitignore
+composer.json

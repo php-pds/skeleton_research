@@ -1,0 +1,15 @@
+Command/
+Cron/
+DependencyInjection/
+Entity/
+Resources/config/
+Tests/
+.editorconfig
+.gitattributes
+.gitignore
+.travis.yml
+CronCronBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

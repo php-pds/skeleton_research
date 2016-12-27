@@ -1,0 +1,6 @@
+tests/
+.gitignore
+README.md
+WPnonce.php
+composer.json
+phpunit.xml

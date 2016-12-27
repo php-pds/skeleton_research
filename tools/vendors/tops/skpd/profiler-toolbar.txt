@@ -1,0 +1,11 @@
+config/
+src/
+test/
+view/profiler-toolbar/
+.gitignore
+.travis.yml
+Module.php
+README.md
+composer.json
+composer.phar
+phpunit.xml

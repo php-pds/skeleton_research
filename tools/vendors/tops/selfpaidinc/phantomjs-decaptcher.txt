@@ -1,0 +1,4 @@
+auto/
+manual/
+README.md
+composer.json

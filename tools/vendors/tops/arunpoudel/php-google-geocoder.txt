@@ -1,0 +1,10 @@
+spec/GoogleGeoCoder/
+src/
+.coveralls.yml
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+phpspec.yml

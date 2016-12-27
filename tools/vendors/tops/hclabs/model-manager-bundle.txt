@@ -1,0 +1,12 @@
+DependencyInjection/
+Exception/
+Model/
+Pool/
+Resources/config/
+Tests/
+.travis.yml
+HCLabsModelManagerBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

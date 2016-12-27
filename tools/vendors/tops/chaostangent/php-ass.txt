@@ -1,0 +1,7 @@
+examples/
+src/ChaosTangent/ASS/
+tests/
+.gitignore
+README.md
+composer.json
+composer.lock

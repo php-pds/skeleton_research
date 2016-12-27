@@ -1,0 +1,9 @@
+build/
+includes/
+wp-content/themes/wp_base/
+.gitignore
+README.md
+build.xml
+composer.json
+htaccess
+wp-config.php

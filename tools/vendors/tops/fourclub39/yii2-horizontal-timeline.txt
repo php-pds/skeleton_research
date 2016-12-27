@@ -1,0 +1,8 @@
+css/
+img/
+js/
+Assets.php
+LICENSE.md
+README.md
+composer.json
+horizontalTimeline.php

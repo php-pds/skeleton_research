@@ -1,0 +1,10 @@
+bin/
+resources/views/
+src/
+web/
+.gitignore
+LICENSE
+README.md
+box.json
+composer.json
+screenshot.png

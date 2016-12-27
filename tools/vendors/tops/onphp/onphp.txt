@@ -1,0 +1,8 @@
+core/
+doc/
+main/
+meta/
+test/
+.gitignore
+composer.json
+global.inc.php.tpl

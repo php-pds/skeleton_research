@@ -1,0 +1,10 @@
+Command/
+DependencyInjection/
+Model/
+Resources/
+Template/
+.gitignore
+Conventer.php
+README.md
+StudioSiteApiClientGeneratorBundle.php
+composer.json

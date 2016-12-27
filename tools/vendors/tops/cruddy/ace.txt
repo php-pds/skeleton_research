@@ -1,0 +1,12 @@
+assets/
+config/
+public/
+src/
+.bowerrc
+.gitignore
+.travis.yml
+Gruntfile.js
+README.md
+bower.json
+composer.json
+package.json

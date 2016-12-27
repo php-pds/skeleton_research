@@ -1,0 +1,8 @@
+docs/
+src/PopHbase/
+tests/
+.gitignore
+DOWNLOAD.md
+LICENSE.md
+README.md
+composer.json

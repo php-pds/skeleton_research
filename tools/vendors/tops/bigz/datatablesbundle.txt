@@ -1,0 +1,13 @@
+Command/
+Controller/
+Datatable/
+DependencyInjection/
+Generator/
+OptionsResolver/
+Resources/
+Routing/
+Twig/
+.gitattributes
+README.md
+SgDatatablesBundle.php
+composer.json

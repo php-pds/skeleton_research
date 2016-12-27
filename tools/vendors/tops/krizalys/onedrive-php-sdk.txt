@@ -1,0 +1,11 @@
+example/
+src/Krizalys/Onedrive/
+test/
+.editorconfig
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+autoload.php
+composer.json

@@ -1,0 +1,13 @@
+logs/
+src/GearmanUI/
+tests/
+web/
+.bowerrc
+.gitignore
+.travis.yml
+LICENSE
+README.md
+bower.json
+composer.json
+config.yml.dist
+phpunit.xml.dist

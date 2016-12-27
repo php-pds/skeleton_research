@@ -1,0 +1,8 @@
+docs/
+examples/
+src/JMessage/
+.gitignore
+LICENSE
+README.md
+autoload.php
+composer.json

@@ -1,0 +1,13 @@
+app/
+bin/
+src/AppBundle/
+var/
+web/
+.env.example
+.formatter.yml
+.gitignore
+.htaccess
+.php_cs
+composer.json
+composer.lock
+index.php

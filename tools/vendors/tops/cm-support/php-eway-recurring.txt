@@ -1,0 +1,5 @@
+recurring/
+.gitignore
+.travis.yml
+RapidAPI.php
+composer.json

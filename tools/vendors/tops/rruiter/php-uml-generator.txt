@@ -1,0 +1,8 @@
+bin/
+examples/
+src/UmlGenerator/
+.gitignore
+README.md
+bootstrap.php
+composer.json
+index.php

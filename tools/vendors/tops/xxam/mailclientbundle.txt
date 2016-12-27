@@ -1,0 +1,11 @@
+Command/
+Controller/
+DependencyInjection/
+Entity/
+Helper/Imap/
+Resources/
+Tests/Controller/
+LICENSE
+README.md
+XxamMailclientBundle.php
+composer.json

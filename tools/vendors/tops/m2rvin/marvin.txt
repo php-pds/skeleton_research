@@ -1,0 +1,12 @@
+app/
+src/Marvin/
+tests/
+.editorconfig
+.gitignore
+CONTRIBUTING.md
+LICENSE
+README.md
+composer.json
+composer.lock
+marvin
+phpunit.xml

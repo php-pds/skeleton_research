@@ -1,0 +1,6 @@
+examples/
+lib/ArmorPayments/
+Example.php
+LICENSE.txt
+README.md
+composer.json

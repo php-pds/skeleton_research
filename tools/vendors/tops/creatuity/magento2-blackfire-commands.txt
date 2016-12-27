@@ -1,0 +1,8 @@
+Console/Command/
+Test/Unit/Console/Command/
+etc/
+.gitignore
+LICENSE
+README.md
+composer.json
+registration.php

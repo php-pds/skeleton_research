@@ -1,0 +1,15 @@
+ArrayAdapter/
+Bridge/
+Command/
+DependencyInjection/
+EventListener/
+Resources/config/
+Test/
+Tests/Command/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+ResqueBundle.php
+composer.json
+phpunit.xml.dist

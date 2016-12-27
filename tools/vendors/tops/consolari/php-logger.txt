@@ -1,0 +1,9 @@
+src/Consolari/
+tests/
+.buildpath
+.gitignore
+.travis.yml
+LICENSE
+README.md
+autoload.php
+composer.json

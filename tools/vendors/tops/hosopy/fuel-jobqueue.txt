@@ -1,0 +1,9 @@
+classes/
+config/
+tasks/
+tests/context/
+.gitignore
+LICENSE
+README.md
+bootstrap.php
+composer.json

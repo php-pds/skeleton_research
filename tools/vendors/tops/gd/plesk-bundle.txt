@@ -1,0 +1,10 @@
+Command/
+DependencyInjection/
+Resources/
+Services/
+Tests/
+GeneralDigitalPleskBundle.php
+LICENSE
+README.markdown
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,10 @@
+bin/
+demo/ConsoleApplication/
+src/AntiMattr/MongoDB/Migrations/
+tests/AntiMattr/Tests/MongoDB/Migrations/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

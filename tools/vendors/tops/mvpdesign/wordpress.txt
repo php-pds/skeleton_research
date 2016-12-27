@@ -1,0 +1,9 @@
+config/
+public/
+.env.example
+.gitattributes
+.gitignore
+LICENSE
+README.md
+composer.json
+wp-cli.yml

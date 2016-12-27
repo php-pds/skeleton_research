@@ -1,0 +1,11 @@
+bootstrap/
+config/
+doc/
+public/
+src/Snapr/
+.gitignore
+LICENSE
+README.md
+cli
+composer.json
+server.php

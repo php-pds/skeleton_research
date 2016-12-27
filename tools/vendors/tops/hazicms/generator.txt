@@ -1,0 +1,8 @@
+src/Generator/
+.bowerrc
+CHANGELOG
+LICENSE
+README.md
+bower.json
+composer.json
+field_example_data

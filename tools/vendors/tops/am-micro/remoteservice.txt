@@ -1,0 +1,9 @@
+Services/
+Tests/
+.gitignore
+.travis.yml
+MicroRemoteServiceBundle.php
+README.md
+circle.yml
+composer.json
+phpunit.xml.dist

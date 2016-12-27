@@ -1,0 +1,9 @@
+Connectors/
+Stores/
+tests/
+.gitignore
+CacheManager.php
+README.md
+composer.json
+phpdoc.xml
+phpunit.xml

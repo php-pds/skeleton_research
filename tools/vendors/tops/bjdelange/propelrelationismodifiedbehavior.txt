@@ -1,0 +1,11 @@
+lib/
+src/RelationIsModifiedBehavior/Tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+build.properties
+composer.json
+composer.lock
+phpunit.xml
+schema.xml

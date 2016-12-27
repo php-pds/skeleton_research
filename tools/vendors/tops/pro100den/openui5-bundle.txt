@@ -1,0 +1,4 @@
+Resources/public/
+LICENSE
+Openui5Bundle.php
+composer.json

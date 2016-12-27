@@ -1,0 +1,6 @@
+examples/views/
+generators/crud/
+.gitignore
+LICENSE
+README.md
+composer.json

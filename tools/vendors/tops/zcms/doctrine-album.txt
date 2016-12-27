@@ -1,0 +1,10 @@
+config/
+data/
+src/Album/
+test/
+view/album/album/
+Module.php
+README.md
+autoload_classmap.php
+composer-init.png
+composer.json

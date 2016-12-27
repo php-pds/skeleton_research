@@ -1,0 +1,13 @@
+bin/
+src/Flagbit/Plantuml/
+tests/Flagbit/Plantuml/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CHANGELOG.md
+LICENSE.txt
+README.md
+box.json
+composer.json
+composer.lock
+phpunit.xml.dist

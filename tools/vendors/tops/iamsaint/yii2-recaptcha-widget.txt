@@ -1,0 +1,8 @@
+tests/validators/
+.gitignore
+LICENSE
+README.md
+ReCaptcha.php
+ReCaptchaValidator.php
+composer.json
+phpunit.xml

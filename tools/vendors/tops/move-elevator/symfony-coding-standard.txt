@@ -1,0 +1,6 @@
+Standards/Symfony2/
+tests/
+.gitignore
+.travis.yml
+README.md
+composer.json

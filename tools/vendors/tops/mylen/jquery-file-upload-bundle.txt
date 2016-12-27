@@ -1,0 +1,8 @@
+DependencyInjection/
+Filter/
+Resources/
+Services/
+.gitignore
+JQueryFileUploadBundle.php
+README.md
+composer.json

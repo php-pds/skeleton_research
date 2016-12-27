@@ -1,0 +1,13 @@
+__tests__/
+dist/
+docs/
+src/
+.eslintrc.json
+.gitignore
+LICENSE.md
+README.md
+bower.json
+composer.json
+gulpfile.js
+package.json
+test-setup.js

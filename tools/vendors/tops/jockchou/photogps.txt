@@ -1,0 +1,8 @@
+src/PhotoGps/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json
+test-1.jpg
+test-2.jpg

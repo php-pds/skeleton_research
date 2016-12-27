@@ -1,0 +1,8 @@
+Core/
+DependencyInjection/
+Exception/
+Resources/config/
+Service/
+KWTYahooBossBundle.php
+README.md
+composer.json

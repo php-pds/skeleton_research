@@ -1,0 +1,3 @@
+src/Doctrine/
+.gitignore
+composer.json

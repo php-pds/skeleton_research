@@ -1,0 +1,6 @@
+src/Asakusuma/SugarWrapper/
+tests/
+.gitignore
+README.markdown
+composer.json
+example.php

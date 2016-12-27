@@ -1,0 +1,7 @@
+databases/
+resources/
+src/
+.gitattributes
+.gitignore
+LICENSE
+composer.json

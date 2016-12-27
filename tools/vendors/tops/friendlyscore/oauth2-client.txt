@@ -1,0 +1,6 @@
+examples/
+src/FriendlyScore/OAuth2/Client/
+.gitignore
+LICENSE
+README.md
+composer.json

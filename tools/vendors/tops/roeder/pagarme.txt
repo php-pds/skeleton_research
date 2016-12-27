@@ -1,0 +1,14 @@
+Block/
+Controller/Postback/
+Helper/
+Model/
+PagarMe/
+Setup/
+etc/
+i18n/
+view/
+LICENSE
+PagarMe.php
+README.md
+composer.json
+registration.php

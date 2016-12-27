@@ -1,0 +1,16 @@
+examples/
+riak_pb @ adc603b
+src/Riak/Api/
+tests/
+tools @ 7293931
+.gitattributes
+.gitignore
+.gitmodules
+.travis.yml
+CONTRIBUTING.md
+LICENSE
+Makefile
+README.md
+RELNOTES.md
+composer.json
+phpunit.xml

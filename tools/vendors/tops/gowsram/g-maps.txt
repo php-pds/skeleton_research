@@ -1,0 +1,6 @@
+config/
+src/GMaps/Service/
+.gitignore
+Module.php
+README.md
+composer.json

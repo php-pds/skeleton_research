@@ -1,0 +1,6 @@
+src/PocztaPolska/
+wsdl/
+.gitignore
+LICENSE
+README.md
+composer.json

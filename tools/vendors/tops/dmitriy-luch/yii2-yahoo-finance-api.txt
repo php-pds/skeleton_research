@@ -1,0 +1,3 @@
+.gitignore
+YahooFinanceAPI.php
+composer.json

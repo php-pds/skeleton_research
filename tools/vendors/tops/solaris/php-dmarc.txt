@@ -1,0 +1,5 @@
+Solaris/
+LICENSE
+README.md
+composer.json
+tables.sql

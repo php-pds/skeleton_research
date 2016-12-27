@@ -1,0 +1,7 @@
+src/Haslock/
+test/Haslock/
+CHANGELOG.md
+INSTALL.md
+LICENSE
+README.md
+composer.json

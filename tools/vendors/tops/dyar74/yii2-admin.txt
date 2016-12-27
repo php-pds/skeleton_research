@@ -1,0 +1,10 @@
+config/
+controllers/
+example/
+migrations/
+models/
+views/
+AdminModule.php
+AutoloadExample.php
+README.md
+composer.json

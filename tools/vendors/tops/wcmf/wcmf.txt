@@ -1,0 +1,7 @@
+docs/api-src/
+src/wcmf/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,5 @@
+src/PingYo/
+tests/
+.gitignore
+README.md
+composer.json

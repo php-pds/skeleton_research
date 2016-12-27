@@ -1,0 +1,17 @@
+bin/
+dev-bin/
+maxmind-db @ 6678894
+src/
+tests/
+.gitattributes
+.gitignore
+.gitmodules
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.dev.md
+README.md
+box.json
+composer.json
+phar-stub.php
+phpunit.xml.dist

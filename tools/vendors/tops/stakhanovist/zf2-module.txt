@@ -1,0 +1,12 @@
+bin/
+config/
+src/Controller/Plugin/
+tests/
+.coveralls.yml
+.gitignore
+.travis.yml
+LICENSE
+Module.php
+README.md
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,8 @@
+assets/js/
+migrations/
+models/
+views/
+CommentsAsset.php
+CommentsWidget.php
+README.md
+composer.json

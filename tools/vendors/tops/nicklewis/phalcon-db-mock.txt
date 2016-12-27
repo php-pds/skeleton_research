@@ -1,0 +1,6 @@
+IdeHelpers/Phalcon Dev Tools/Phalcon/
+Library/NickLewis/PhalconDbMock/
+tests/
+.gitignore
+composer.json
+composer.phar

@@ -1,0 +1,10 @@
+src/View/Widget/
+webroot/
+.gitignore
+LICENSE
+README.md
+bower.json
+composer.json
+gulpfile.js
+package.json
+phpunit.xml.dist

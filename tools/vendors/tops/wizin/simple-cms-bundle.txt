@@ -1,0 +1,15 @@
+Controller/
+DataFixtures/ORM/
+DependencyInjection/
+Entity/
+Event/
+Form/
+Repository/
+Resources/
+Service/
+Tests/
+Traits/
+LICENSE
+README.md
+WizinSimpleCmsBundle.php
+composer.json

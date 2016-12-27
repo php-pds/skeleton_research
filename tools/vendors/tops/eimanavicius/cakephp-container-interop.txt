@@ -1,0 +1,7 @@
+Config/
+Controller/Component/
+Test/Case/
+.gitignore
+LICENSE.txt
+README.md
+composer.json

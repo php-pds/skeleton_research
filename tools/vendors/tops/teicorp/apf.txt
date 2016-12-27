@@ -1,0 +1,12 @@
+App/
+Bin/
+Plugin/
+Src/
+Vendor/
+Webroot/
+.gitignore
+.htaccess
+LICENSE
+README.md
+composer.json
+index.php

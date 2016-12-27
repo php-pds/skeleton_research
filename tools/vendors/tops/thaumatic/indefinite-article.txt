@@ -1,0 +1,10 @@
+tests/
+.gitignore
+IndefiniteArticle.php
+LICENSE
+Makefile
+README.md
+composer.json
+composer.lock
+phpcs.xml
+phpunit.xml

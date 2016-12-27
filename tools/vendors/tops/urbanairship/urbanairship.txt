@@ -1,0 +1,13 @@
+docs/
+example/
+src/
+.gitignore
+.gitmodules
+AUTHORS
+CHANGELOG
+COPYING
+README.md
+VERSION.txt
+composer.json
+phpdoc.dist.xml
+phpunit.xml

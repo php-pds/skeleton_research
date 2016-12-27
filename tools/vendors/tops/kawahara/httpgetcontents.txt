@@ -1,0 +1,8 @@
+lib/HttpGetContents/
+test/
+.gitattributes
+.gitignore
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

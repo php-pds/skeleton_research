@@ -1,0 +1,8 @@
+Command/
+Generator/
+Resources/skeleton/bundle/
+.gitignore
+LICENSE
+README.md
+WizinGeneratorBundle.php
+composer.json

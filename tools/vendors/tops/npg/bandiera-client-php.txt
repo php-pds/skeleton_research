@@ -1,0 +1,8 @@
+spec/Nature/Bandiera/
+src/
+.gitignore
+.travis.yml
+LICENSE.txt
+README.md
+composer.json
+composer.lock

@@ -1,0 +1,11 @@
+bin/
+example/
+lib/
+tests/
+.gitignore
+.travis.yml
+Phakefile
+README.markdown
+composer.json
+phake_completion.sh
+phpunit.xml.dist

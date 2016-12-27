@@ -1,0 +1,5 @@
+src/Slowpoked/
+.gitignore
+LICENSE
+README.md
+composer.json

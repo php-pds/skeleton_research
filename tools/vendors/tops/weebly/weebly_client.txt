@@ -1,0 +1,4 @@
+src/Weebly/
+LICENSE.md
+composer.json
+readme.md

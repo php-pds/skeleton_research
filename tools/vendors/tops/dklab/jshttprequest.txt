@@ -1,0 +1,6 @@
+lib/
+t/JsHttpRequest/
+test/JsHttpRequest/
+.htaccess
+bower.json
+composer.json

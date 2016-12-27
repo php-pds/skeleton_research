@@ -1,0 +1,6 @@
+extractor/
+LICENSE
+README.md
+composer.json
+fontawesome-markers.json
+fontawesome-markers.min.js

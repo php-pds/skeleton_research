@@ -1,0 +1,9 @@
+exceptions/
+sections/
+.gitignore
+README.md
+Request.php
+Response.php
+Singleton.php
+VkApi.php
+composer.json

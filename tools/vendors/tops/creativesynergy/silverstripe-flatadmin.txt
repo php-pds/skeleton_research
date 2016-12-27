@@ -1,0 +1,10 @@
+_config/
+css/
+imgs/
+scss/
+.gitignore
+LICENSE
+README.md
+_config.php
+composer.json
+config.rb

@@ -1,0 +1,4 @@
+VisualPaginator.php
+composer.json
+example.css
+template.phtml

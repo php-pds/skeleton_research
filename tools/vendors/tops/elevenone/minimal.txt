@@ -1,0 +1,7 @@
+application/
+bin/
+public/
+.gitignore
+README.md
+composer.json
+post.php

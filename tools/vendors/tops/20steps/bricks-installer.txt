@@ -1,0 +1,13 @@
+build/
+src/Bricks/Installer/
+tests/Bricks/Installer/Tests/
+.gitignore
+.travis.yml
+BUILD.md
+LICENSE
+README.md
+box.json
+bricks
+composer.json
+phpunit.xml.dist
+versions.json

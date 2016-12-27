@@ -1,0 +1,13 @@
+Controller/
+DataFixtures/ORM/
+DependencyInjection/
+Entity/
+Form/Type/
+Resources/
+Service/
+Tests/
+.travis.yml
+README.md
+TalanDynamicFormBundle.php
+composer.json
+phpunit.xml.dist

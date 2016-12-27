@@ -1,0 +1,6 @@
+assets/
+dom/images/
+.gitignore
+EchartsWidget.php
+README.md
+composer.json

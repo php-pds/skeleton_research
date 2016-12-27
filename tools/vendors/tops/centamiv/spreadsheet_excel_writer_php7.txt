@@ -1,0 +1,5 @@
+src/Spreadsheet/Excel/
+src_ole/
+.gitignore
+README.md
+composer.json

@@ -1,0 +1,11 @@
+src/
+test/
+.travis.yml
+ChangeLog
+MATURITY
+README.md
+RELEASE
+bower.json
+composer.json
+phpunit.xml.dist
+ruleset.xml

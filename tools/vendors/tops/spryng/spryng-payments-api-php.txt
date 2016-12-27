@@ -1,0 +1,4 @@
+src/Complexity/SpryngPaymentsApiPhp/
+tests/
+.gitignore
+composer.json

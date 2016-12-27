@@ -1,0 +1,6 @@
+Classes/Wegmeister/TagManager/
+Configuration/
+Migrations/Mysql/
+Resources/Private/
+README.md
+composer.json

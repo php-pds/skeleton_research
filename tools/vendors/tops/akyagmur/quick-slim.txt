@@ -1,0 +1,10 @@
+app/
+database/
+public/
+settings/
+view/
+.gitignore
+LICENSE.md
+README.md
+composer.json
+quicks

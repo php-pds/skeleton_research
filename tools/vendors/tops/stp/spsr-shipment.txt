@@ -1,0 +1,13 @@
+message/
+response/
+tests/
+type/
+.gitignore
+BaseType.php
+LICENSE.md
+README.md
+SpsrApi.php
+SpsrException.php
+USAGE.md
+codeception.yml
+composer.json

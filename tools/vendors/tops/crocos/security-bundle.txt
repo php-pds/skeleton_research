@@ -1,0 +1,16 @@
+Annotation/
+DependencyInjection/
+EventListener/
+Exception/
+Resources/config/
+Security/
+Tests/
+.gitignore
+.php_cs
+.scrutinizer.yml
+.travis.yml
+CrocosSecurityBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

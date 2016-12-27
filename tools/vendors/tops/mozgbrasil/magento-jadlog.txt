@@ -1,0 +1,8 @@
+app/
+js/mozg_jadlog/
+skin/
+CHANGELOG.md
+LICENSE.txt
+README.md
+composer.json
+modman

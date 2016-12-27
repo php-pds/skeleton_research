@@ -1,0 +1,6 @@
+examples/
+lib/js/
+src/PHPMake/
+.gitignore
+README.md
+composer.json

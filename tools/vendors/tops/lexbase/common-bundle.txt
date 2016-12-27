@@ -1,0 +1,5 @@
+Model/
+.gitignore
+LexbaseCommonBundle.php
+README.md
+composer.json

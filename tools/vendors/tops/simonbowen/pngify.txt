@@ -1,0 +1,12 @@
+src/PNGify/
+static/templates/
+tests/
+.gitignore
+README.md
+composer.json
+composer.lock
+config.php
+config.php.example
+console.php
+index.php
+phpunit.xml

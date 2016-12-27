@@ -1,0 +1,6 @@
+src/
+vendor/
+.DS_Store
+README.md
+composer.json
+composer.lock

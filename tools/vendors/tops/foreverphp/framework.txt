@@ -1,0 +1,6 @@
+src/ForeverPHP/
+.gitattributes
+.gitignore
+LICENSE
+README.md
+composer.json

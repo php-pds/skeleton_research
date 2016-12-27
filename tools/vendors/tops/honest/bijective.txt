@@ -1,0 +1,10 @@
+ext/bijective/
+src/
+test/
+.editorconfig
+.gitignore
+.travis.yml
+LICENSE.md
+README.md
+composer.json
+phpunit.xml.dist

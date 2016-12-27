@@ -1,0 +1,3 @@
+src/Iconic/Scraper/
+README.md
+composer.json

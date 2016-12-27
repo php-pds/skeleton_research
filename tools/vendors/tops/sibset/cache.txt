@@ -1,0 +1,11 @@
+src/SibSet/Cache/
+tests/SibSet/Cache/Tests/
+.gitignore
+.hgignore
+.hgtags
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpci.yml
+phpunit.xml.dist

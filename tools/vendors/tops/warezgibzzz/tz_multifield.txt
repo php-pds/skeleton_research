@@ -1,0 +1,10 @@
+install/
+lang/ru/
+src/
+.gitignore
+README.md
+composer.json
+composer.lock
+default_option.php
+include.php
+options.php

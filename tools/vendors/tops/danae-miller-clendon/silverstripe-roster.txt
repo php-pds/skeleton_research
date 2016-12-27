@@ -1,0 +1,11 @@
+_config/
+code/
+css/
+images/icons/
+lang/
+templates/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,12 @@
+generated-conf/
+generated-sql/
+migrations/
+src/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist
+propel.yaml.dist
+schema.xml

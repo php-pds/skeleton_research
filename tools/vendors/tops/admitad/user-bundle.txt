@@ -1,0 +1,2 @@
+src/Admitad/UserBundle/
+composer.json

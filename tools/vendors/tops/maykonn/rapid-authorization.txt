@@ -1,0 +1,14 @@
+Database/
+.gitignore
+Autoload.php
+AvailablePreferences.php
+ClientPreferences.php
+Entity.php
+LICENSE
+Operation.php
+README.md
+RapidAuthorization.php
+Role.php
+Task.php
+User.php
+composer.json

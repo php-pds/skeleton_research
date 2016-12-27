@@ -1,0 +1,17 @@
+assets/
+build/
+config/
+nbproject/
+src/
+tests/
+view/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock
+phpcs.xml.dist
+phpdox.xml.dist
+phpmd.xml.dist
+phpunit.xml.dist
+skipper.module.xml

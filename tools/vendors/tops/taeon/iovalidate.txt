@@ -1,0 +1,10 @@
+dist/js/
+src/
+.gitattributes
+.gitignore
+Gruntfile.js
+LICENSE
+README.md
+autoloader.php
+composer.json
+package.json

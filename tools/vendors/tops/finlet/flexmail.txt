@@ -1,0 +1,8 @@
+config/
+examples/
+src/
+.DS_Store
+.gitignore
+changelog.txt
+composer.json
+readme.txt

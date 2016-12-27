@@ -1,0 +1,10 @@
+src/lkwdwrd/
+tests/phpunit/
+.codeclimate.yml
+.gitignore
+.travis.yml
+README.md
+bootstrap.php.dist
+composer.json
+composer.lock
+phpunit.xml.dist

@@ -1,0 +1,14 @@
+api/
+assets/
+client/images/
+components/
+controllers/
+filters/
+mail/
+migrations/
+models/
+views/
+Module.php
+README.md
+UserModule.php
+composer.json

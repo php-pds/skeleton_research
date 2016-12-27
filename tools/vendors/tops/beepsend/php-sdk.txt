@@ -1,0 +1,8 @@
+docs/
+src/Beepsend/
+tests/
+.gitignore
+LICENSE
+README.md
+apiary.apib
+composer.json

@@ -1,0 +1,8 @@
+config/
+src/KeenIOModule/Factory/
+tests/
+.gitignore
+Module.php
+README.md
+composer.json
+phpunit.xml

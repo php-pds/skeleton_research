@@ -1,0 +1,6 @@
+src/VmgLtd/
+tests/
+vendor/
+LICENSE
+README.md
+composer.json

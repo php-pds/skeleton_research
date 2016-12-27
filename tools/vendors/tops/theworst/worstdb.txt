@@ -1,0 +1,7 @@
+db/
+src/TheWorst/
+tests/
+.gitignore
+LICENSE
+composer.json
+composer.lock

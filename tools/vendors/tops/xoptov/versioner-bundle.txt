@@ -1,0 +1,7 @@
+DependencyInjection/
+Model/
+Resources/config/
+Service/
+LICENSE
+XoptovVersionerBundle.php
+composer.json

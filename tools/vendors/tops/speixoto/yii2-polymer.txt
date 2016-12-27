@@ -1,0 +1,7 @@
+assets/bower_components/
+.gitignore
+HeaderPanel.php
+PolymerAsset.php
+README.md
+Widget.php
+composer.json

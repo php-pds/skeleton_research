@@ -1,0 +1,11 @@
+assets/select2/
+controllers/
+migrations/
+models/
+views/default/
+.gitignore
+Module.php
+MultiLevelSelect.php
+README.md
+Select2Asset.php
+composer.json

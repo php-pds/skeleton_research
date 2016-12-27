@@ -1,0 +1,12 @@
+bin/
+docker/
+src/Samba/
+tests/
+.coveralls.yml
+.gitignore
+.travis.yml
+Dockerfile
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

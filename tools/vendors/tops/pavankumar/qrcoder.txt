@@ -1,0 +1,6 @@
+src/Pavankumar/Qrcoder/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock

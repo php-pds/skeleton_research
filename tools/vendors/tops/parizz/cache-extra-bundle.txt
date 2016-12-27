@@ -1,0 +1,8 @@
+Annotation/
+DependencyInjection/
+EventListener/
+Processor/
+Resources/config/
+ParizzCacheExtraBundle.php
+README.md
+composer.json

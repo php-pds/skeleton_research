@@ -1,0 +1,9 @@
+Rest/
+Tests/
+.gitignore
+.travis.yml
+MicroClientBundle.php
+README.md
+circle.yml
+composer.json
+phpunit.xml.dist

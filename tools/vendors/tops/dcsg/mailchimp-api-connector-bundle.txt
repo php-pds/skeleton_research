@@ -1,0 +1,5 @@
+DependencyInjection/
+Resources/
+DCSGMailchimpApiConnectorBundle.php
+README.md
+composer.json

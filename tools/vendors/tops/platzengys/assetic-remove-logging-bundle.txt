@@ -1,0 +1,6 @@
+DependencyInjection/
+Filter/
+Resources/config/
+.gitignore
+PlatzengysAsseticRemoveLoggingBundle.php
+composer.json

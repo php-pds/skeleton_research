@@ -1,0 +1,9 @@
+SQL dump/
+easyCRUD/
+Db.class.php
+LICENSE
+Log.class.php
+README.md
+composer.json
+index.php
+settings.ini.php

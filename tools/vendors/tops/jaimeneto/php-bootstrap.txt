@@ -1,0 +1,6 @@
+library/PhpBootstrap/
+tests/PhpBootstrap/
+.gitattributes
+README.md
+composer.json
+phpunit.xml

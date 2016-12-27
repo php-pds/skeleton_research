@@ -1,0 +1,9 @@
+demo/
+includes/
+test/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock

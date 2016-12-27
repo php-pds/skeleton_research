@@ -1,0 +1,5 @@
+ZendPattern/Zsf/
+composer.json
+composer.lock
+phpmetrics.html
+readme.md

@@ -1,0 +1,11 @@
+bootstrap/
+src/
+tests/
+var/
+.gitignore
+LICENSE
+README.md
+composer.json
+phpcs.xml
+phpmd.xml
+phpunit.xml.dist

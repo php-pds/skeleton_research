@@ -1,0 +1,12 @@
+codesniffer/Fukuball/
+src/
+test/
+.gitignore
+.travis.yml
+LICENSE.txt
+README.md
+ck101_install.php
+ck101_uninstall.php
+composer.json
+composer.lock
+phpunit.xml

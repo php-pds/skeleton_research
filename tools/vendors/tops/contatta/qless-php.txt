@@ -1,0 +1,9 @@
+demo/
+lib/Qless/
+test/
+.gitignore
+.gitmodules
+LICENSE.txt
+README.md
+composer.json
+phpunit.xml

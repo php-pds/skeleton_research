@@ -1,0 +1,8 @@
+Classes/
+stylesheets/
+.gitignore
+README.md
+composer.json
+index.html
+main.php
+params.json

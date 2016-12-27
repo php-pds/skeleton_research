@@ -1,0 +1,4 @@
+src/carlosreig/FileFinder/
+LICENSE
+README.md
+composer.json

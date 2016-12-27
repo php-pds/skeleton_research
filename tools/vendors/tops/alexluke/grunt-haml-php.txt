@@ -1,0 +1,12 @@
+bin/
+tasks/
+test/
+.editorconfig
+.gitignore
+.jshintrc
+Gruntfile.js
+LICENSE-MIT
+README.md
+composer.json
+composer.lock
+package.json

@@ -1,0 +1,11 @@
+css/
+img/
+js/
+.gitattributes
+.gitignore
+README.md
+case.html
+composer.json
+index.html
+template.html
+test.html

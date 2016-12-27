@@ -1,0 +1,3 @@
+src/TerrenceHoward/IdeAlias/
+README.md
+composer.json

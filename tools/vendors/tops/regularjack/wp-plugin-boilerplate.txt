@@ -1,0 +1,16 @@
+languages/
+lib/Core/
+src/
+static/
+tests/
+.gitignore
+.travis.yml
+LICENSE.txt
+README.md
+README.txt
+autoload.php
+composer.json
+composer.lock
+phpunit.xml.dist
+plugin.php
+uninstall.php

@@ -1,0 +1,7 @@
+assets/
+CHANGELOG.md
+FullscreenModal.php
+FullscreenModalAsset.php
+LICENSE
+README.md
+composer.json

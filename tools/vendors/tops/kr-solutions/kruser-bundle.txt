@@ -1,0 +1,12 @@
+DependencyInjection/
+Entity/
+Resources/
+Tests/Controller/
+.bowerrc
+.gitignore
+KRSolutionsKRUserBundle.php
+LICENSE
+README.md
+bower.json
+composer.json
+composer.lock

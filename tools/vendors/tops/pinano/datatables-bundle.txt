@@ -1,0 +1,6 @@
+Resources/public/
+.gitattributes
+.gitignore
+PinanoDataTablesBundle.php
+README.md
+composer.json

@@ -1,0 +1,13 @@
+Pictures/
+bin/
+src/irail/stations/
+tests/
+.gitignore
+.travis.yml
+README.md
+composer.json
+package.json
+phpunit.xml
+shapes.geojson
+stations.csv
+stops.csv

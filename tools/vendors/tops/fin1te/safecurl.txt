@@ -1,0 +1,4 @@
+example/
+src/fin1te/SafeCurl/
+README.md
+composer.json

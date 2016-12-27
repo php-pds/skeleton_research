@@ -1,0 +1,5 @@
+src/CodesWholesale/
+.editorconfig
+.gitignore
+composer.json
+readme.md

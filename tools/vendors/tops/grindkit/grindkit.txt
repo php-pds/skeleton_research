@@ -1,0 +1,9 @@
+src/GrindKit/
+tests/
+README.mkd
+TODO.md
+composer.json
+package.ini
+phprelease.ini
+phpunit.xml
+phpunit.xml.dist

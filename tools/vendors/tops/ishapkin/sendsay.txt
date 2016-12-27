@@ -1,0 +1,4 @@
+ishapkin/sendsay/
+.gitignore
+composer.json
+readme.md

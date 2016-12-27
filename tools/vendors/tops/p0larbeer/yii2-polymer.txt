@@ -1,0 +1,12 @@
+iron/
+paper/
+vaadin/
+.bowerrc
+.gitignore
+FontRobotoAsset.php
+PolymerAsset.php
+README.md
+WebcomponentsAsset.php
+Widget.php
+bower.json
+composer.json

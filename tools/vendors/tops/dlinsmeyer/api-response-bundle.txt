@@ -1,0 +1,6 @@
+src/DLinsmeyer/Bundle/ApiBundle/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock

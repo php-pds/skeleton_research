@@ -1,0 +1,13 @@
+docs/
+lib/
+test/
+tests/
+vendor/
+.gitignore
+.travis.yml
+README.md
+autoload.php
+composer.json
+composer.lock
+git_push.sh
+pom.xml

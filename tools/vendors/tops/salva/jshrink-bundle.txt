@@ -1,0 +1,14 @@
+Assetic/Filter/
+Cache/
+DependencyInjection/
+Resources/
+Tests/
+Twig/
+.editorconfig
+.gitignore
+.travis.yml
+LICENSE
+README.md
+SalvaJshrinkBundle.php
+composer.json
+phpunit.xml.dist

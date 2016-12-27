@@ -1,0 +1,8 @@
+framework/
+plugins/echo/
+.buildpath
+.gitignore
+LICENSE
+README.md
+bootstrap.php
+composer.json

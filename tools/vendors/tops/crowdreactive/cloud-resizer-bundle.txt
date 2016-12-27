@@ -1,0 +1,14 @@
+CloudResizer/
+DependencyInjection/
+Resources/
+Tests/
+Twig/
+.gitignore
+.php_cs
+.scrutinizer.yml
+.travis.yml
+CrowdReactiveCloudResizerBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml

@@ -1,0 +1,9 @@
+DependencyInjection/
+Entity/
+Repository/
+Resources/config/
+Service/
+.gitignore
+README.md
+TroisSixMysqlPostfixAdminBundle.php
+composer.json

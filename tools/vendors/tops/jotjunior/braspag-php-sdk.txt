@@ -1,0 +1,8 @@
+config/
+src/Braspag/
+.gitattributes
+.gitignore
+LICENSE
+README.md
+composer.json
+exemplo_venda_simplificada.php

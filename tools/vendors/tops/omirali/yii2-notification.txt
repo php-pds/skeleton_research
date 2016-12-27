@@ -1,0 +1,12 @@
+behaviors/
+controllers/
+migrations/
+models/
+views/
+123456789
+123456789.pub
+AutoloadExample.php
+NotificationModule.php
+NotificationModuleTrait.php
+README.md
+composer.json

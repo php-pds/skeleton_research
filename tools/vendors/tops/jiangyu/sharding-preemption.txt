@@ -1,0 +1,11 @@
+bin/
+build/
+src/Daemon/Sharding/
+tests/unit/
+.codeclimate.yml
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock

@@ -1,0 +1,16 @@
+example/
+template/
+template_generator/
+tests/
+.codeclimate.yml
+.gitignore
+.travis.yml
+CHANGELOG.md
+Divider.php
+Img.php
+README.md
+Recognizer.php
+codeclimate.sh
+composer.json
+example.php
+phpunit.xml

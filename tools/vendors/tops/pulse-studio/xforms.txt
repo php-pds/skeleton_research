@@ -1,0 +1,14 @@
+assets/
+language/
+models/
+templates/
+.gitignore
+README.md
+admin.php
+composer.json
+index.html
+module_info.php
+widgets.xml
+widgets_info.php
+xforms.php
+xforms_widgets.php

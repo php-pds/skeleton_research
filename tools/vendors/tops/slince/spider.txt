@@ -1,0 +1,9 @@
+src/
+tests/
+.editorconfig
+.gitignore
+README.md
+composer.json
+phpunit.xml
+spider
+spider.json

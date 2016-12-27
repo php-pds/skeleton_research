@@ -1,0 +1,8 @@
+app/Demo/
+demo/
+.htaccess
+LICENSE
+README.md
+composer.json
+demo.sql
+nginx.conf

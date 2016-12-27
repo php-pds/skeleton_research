@@ -1,0 +1,9 @@
+examples/
+lib/NumbersPHP/
+test/NumbersPHP/
+.gitignore
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist
+test.cmd

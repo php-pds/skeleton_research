@@ -1,0 +1,12 @@
+.github/
+docs/source/API/API/
+src/FFMpeg/
+tests/
+.gitignore
+.sami.php
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

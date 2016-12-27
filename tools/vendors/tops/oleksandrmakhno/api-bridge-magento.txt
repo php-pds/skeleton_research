@@ -1,0 +1,9 @@
+controllers/
+doc/screenshot/
+install/objectDefinition/
+lib/ApiBridgeMagento/
+models/ApiBridgeMagento/
+static/img/
+README.md
+composer.json
+plugin.xml

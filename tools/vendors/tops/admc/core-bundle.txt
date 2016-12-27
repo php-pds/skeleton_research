@@ -1,0 +1,7 @@
+Antispam/
+Controller/
+DependencyInjection/
+Resources/
+Tests/Controller/
+ADMCCoreBundle.php
+composer.json

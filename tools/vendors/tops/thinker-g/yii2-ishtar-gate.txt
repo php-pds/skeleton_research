@@ -1,0 +1,11 @@
+assets/
+config/
+controllers/
+models/
+views/
+AppAsset.php
+INewsTickerAsset.php
+LICENSE.md
+Module.php
+README.md
+composer.json

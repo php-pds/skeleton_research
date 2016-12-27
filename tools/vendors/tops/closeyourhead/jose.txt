@@ -1,0 +1,11 @@
+src/Cyh/Jose/
+tests/
+.coveralls.yml
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+composer.json
+myconfig.ini
+phpunit.xml.dist

@@ -1,0 +1,10 @@
+config/
+core/Quick/
+tests/
+.travis.yml
+Guardfile
+LICENSE
+README.md
+apc.ini
+composer.json
+phpunit.xml

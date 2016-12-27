@@ -1,0 +1,9 @@
+Tests/
+app/
+panada/
+public/
+CHANGELOG
+LICENSE
+README.md
+composer.json
+phpunit.xml

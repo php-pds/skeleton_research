@@ -1,0 +1,9 @@
+Command/
+Controller/
+DependencyInjection/
+Generator/
+Resources/
+Tests/Controller/
+FRMCrudGeneratorBundle.php
+README.md
+composer.json

@@ -1,0 +1,16 @@
+Models/
+Test/
+.gitignore
+ComLinkoScope.php
+GetCommentsRequest.php
+GetCommentsResult.php
+GetLinksRequest.php
+GetLinksResult.php
+LICENSE
+OrgLinkoScope.php
+README.md
+composer.json
+composer.lock
+iApiHandler.php
+iLinkoScope.php
+phpunit

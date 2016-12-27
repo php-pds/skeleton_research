@@ -1,0 +1,14 @@
+Bundle/
+Config/
+Controller/
+DependencyInjection/
+HttpKernel/
+Resources/
+Routing/
+Services/
+Tests/
+.gitignore
+IneatConseilDynamicBundle.php
+README.md
+composer.json
+phpunit.xml.dist

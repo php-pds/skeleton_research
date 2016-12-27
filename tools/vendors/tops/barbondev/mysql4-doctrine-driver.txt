@@ -1,0 +1,8 @@
+lib/Barbondev/MySQL4DoctrineDriver/Doctrine/DBAL/
+tests/Barbondev/MySQL4DoctrineDriver/Doctrine/Tests/
+.gitignore
+LICENSE
+NOTICE
+README.md
+composer.json
+phpunit.xml.dist

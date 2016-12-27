@@ -1,0 +1,10 @@
+views/
+.gitignore
+CHANGELOG.md
+LICENSE
+README.md
+Settings.php
+SettingsForm.php
+SettingsModel.php
+SettingsTrait.php
+composer.json

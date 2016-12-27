@@ -1,0 +1,4 @@
+src/Hpl/Auth/Adapter/
+.gitignore
+README.md
+composer.json

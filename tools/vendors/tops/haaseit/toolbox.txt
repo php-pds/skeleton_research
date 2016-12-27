@@ -1,0 +1,10 @@
+.editorconfig
+.gitignore
+CHANGELOG
+DBTools.php
+LICENSE
+README.md
+Textcat.php
+Tools.php
+composer.json
+listtable.twig

@@ -1,0 +1,8 @@
+src/Artifacia/
+.gitignore
+README.md
+composer.json
+sample_data.json
+sample_items_data_to_delete.json
+sample_purchased_items.json
+sample_viewed_items.json

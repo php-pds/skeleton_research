@@ -1,0 +1,13 @@
+app/
+lib/Cake/
+plugins/
+vendors/
+.editorconfig
+.gitattributes
+.gitignore
+.htaccess
+CONTRIBUTING.md
+LICENSE
+README.md
+composer.json
+index.php

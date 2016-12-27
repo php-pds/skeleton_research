@@ -1,0 +1,3 @@
+TextoBundle/
+README.md
+composer.json

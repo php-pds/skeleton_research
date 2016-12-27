@@ -1,0 +1,13 @@
+Command/
+Controller/
+DependencyInjection/
+Entity/
+Model/
+Resources/
+Tests/
+Twig/Extension/
+.gitignore
+.travis.yml
+Osimek1ArticlesBundle.php
+composer.json
+phpunit.xml.dist

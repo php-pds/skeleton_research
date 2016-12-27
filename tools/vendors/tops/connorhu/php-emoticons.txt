@@ -1,0 +1,3 @@
+src/EmoticonHelper/
+LICENSE
+composer.json

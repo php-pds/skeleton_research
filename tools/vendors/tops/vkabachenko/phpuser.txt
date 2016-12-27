@@ -1,0 +1,7 @@
+.gitignore
+AddUserAction.php
+LICENSE
+README.md
+User.php
+UserManager.php
+composer.json

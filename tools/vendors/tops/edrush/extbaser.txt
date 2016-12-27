@@ -1,0 +1,7 @@
+bin/
+lib/EdRush/Extbaser/
+.gitignore
+Changelog.md
+LICENSE
+README.md
+composer.json

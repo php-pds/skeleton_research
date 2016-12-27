@@ -1,0 +1,8 @@
+public/js/
+resources/views/
+src/
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpspec.yml

@@ -1,0 +1,12 @@
+samples/
+src/Prismic/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+deploy-doc.sh
+gulpfile.js
+package.json
+phpunit.xml.dist

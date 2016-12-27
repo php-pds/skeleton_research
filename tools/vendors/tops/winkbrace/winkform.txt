@@ -1,0 +1,12 @@
+example/
+src/WinkForm/
+tests/
+.gitattributes
+.gitignore
+CONTRIBUTING.md
+README.md
+codeception.yml
+composer.json
+phpunit.xml
+test.bat
+unit.bat

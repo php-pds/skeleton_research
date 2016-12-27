@@ -1,0 +1,11 @@
+examples/
+third party/
+README.md
+composer.json
+pharse.php
+pharse_formatter.php
+pharse_node_html.php
+pharse_parser_html.php
+pharse_selector_html.php
+pharse_tokenizer.php
+pharse_xml2array.php

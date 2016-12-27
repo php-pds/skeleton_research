@@ -1,0 +1,12 @@
+build/
+cmd/
+docs/
+res/
+src/
+tests/regression/
+Dockerfile
+LICENCE
+NOTICE.txt
+README.md
+composer.json
+example.php

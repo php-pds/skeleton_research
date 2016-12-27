@@ -1,0 +1,11 @@
+DependencyInjection/
+Form/
+Resources/
+Tests/
+.gitignore
+.travis.yml
+CONTRIBUTING.md
+README.md
+TrsteelCkeditorBundle.php
+composer.json
+phpunit.xml.dist

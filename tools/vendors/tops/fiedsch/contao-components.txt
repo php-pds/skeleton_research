@@ -1,0 +1,7 @@
+config/
+languages/
+traits/
+widgets/
+.gitignore
+README.md
+composer.json

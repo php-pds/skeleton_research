@@ -1,0 +1,17 @@
+gh-pages/
+schemas/eme/
+src/php/Eme/Schemas/
+tests/php/
+.codeclimate.yml
+.editorconfig
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENSE.md
+README.md
+build-site
+composer.json
+pbj-schema-stores.php
+pbj-schemas.php
+pbjc.yml
+phpunit.xml.dist

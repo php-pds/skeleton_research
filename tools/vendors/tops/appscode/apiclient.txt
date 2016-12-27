@@ -1,0 +1,6 @@
+hack/
+src/AppsCode/
+.gitignore
+LICENSE
+README.md
+composer.json

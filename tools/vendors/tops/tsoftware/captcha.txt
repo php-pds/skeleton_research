@@ -1,0 +1,6 @@
+fonts/
+src/
+CONTRIBUTING.md
+LICENSE.txt
+composer.json
+readme.md

@@ -1,0 +1,7 @@
+src/Claudusd/SecureChat/
+tests/
+.gitignore
+.travis.yml
+README.md
+composer.json
+phpunit.xml

@@ -1,0 +1,11 @@
+Command/
+Controller/
+DependencyInjection/
+Entity/
+Exceptions/
+Model/
+Resources/
+Util/
+MailxpertAPIBundle.php
+README.md
+composer.json

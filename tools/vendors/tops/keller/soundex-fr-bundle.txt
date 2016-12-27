@@ -1,0 +1,9 @@
+DependencyInjection/
+Resources/config/
+Services/
+Tests/
+.gitattributes
+.gitignore
+KellerSoundexFrBundle.php
+README.md
+composer.json

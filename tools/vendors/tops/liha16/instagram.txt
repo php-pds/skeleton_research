@@ -1,0 +1,10 @@
+src/Instagram/
+test/
+webroot/css/
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+autoloader.php
+composer.json
+phpunitxml.dist

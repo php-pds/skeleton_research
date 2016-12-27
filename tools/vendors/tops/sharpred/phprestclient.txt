@@ -1,0 +1,6 @@
+.settings/
+.buildpath
+.project
+README.md
+composer.json
+rest.php

@@ -1,0 +1,7 @@
+Transip/
+examples/
+.gitattributes
+.gitignore
+CHANGELOG
+README.md
+composer.json

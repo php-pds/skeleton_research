@@ -1,0 +1,14 @@
+build/
+debian/
+library/
+tests/
+.gitignore
+.travis.yml
+CHANGELOG.md
+Makefile
+README.md
+build.xml
+composer.json
+composer.lock
+phpcs.xml
+phpunit.xml

@@ -1,0 +1,6 @@
+src/ddfram/
+tests/ddfram/
+.gitignore
+README.txt
+composer.json
+phpunit.xml.dist

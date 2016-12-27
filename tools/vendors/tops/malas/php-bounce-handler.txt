@@ -1,0 +1,9 @@
+docker/php/
+spec/Malas/BounceHandler/
+src/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+docker-compose.yml

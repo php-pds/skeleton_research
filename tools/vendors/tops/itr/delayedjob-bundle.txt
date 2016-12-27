@@ -1,0 +1,10 @@
+DelayedJob/
+DependencyInjection/
+Entity/
+Resources/config/
+Tests/
+.gitignore
+ItrDelayedJobBundle.php
+README.md
+composer.json
+phpunit.xml.dist

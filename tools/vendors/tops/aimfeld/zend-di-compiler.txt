@@ -1,0 +1,5 @@
+config/
+src/ZendDiCompiler/
+Module.php
+README.md
+composer.json

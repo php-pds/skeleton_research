@@ -1,0 +1,9 @@
+lib/
+.gitignore
+CHANGELOG.md
+LICENSE.txt
+README.md
+composer.json
+functions-images.php
+init.php
+timmy.php

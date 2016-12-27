@@ -1,0 +1,8 @@
+controllers/
+tests/
+views/default/
+.gitignore
+AutoloadExample.php
+README.md
+SrbacModule.php
+composer.json

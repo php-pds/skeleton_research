@@ -1,0 +1,11 @@
+bin/
+src/Spotlab/Safeguard/
+tests/
+.gitignore
+.travis.yml
+README.md
+composer.json
+composer.lock
+config.yml
+osteo.yml
+phpunit.xml.dist

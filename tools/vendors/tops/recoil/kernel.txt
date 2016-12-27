@@ -1,0 +1,16 @@
+.github/
+src/
+test/
+.gitattributes
+.gitignore
+.php_cs
+.scrutinizer.yml
+.travis.yml
+CHANGELOG.md
+LICENSE.md
+Makefile
+README.md
+codecov.yml
+composer.json
+composer.lock
+peridot.php

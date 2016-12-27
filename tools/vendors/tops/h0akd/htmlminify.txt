@@ -1,0 +1,6 @@
+src/H0akd/Htmlminify/
+tests/
+.gitignore
+.travis.yml
+composer.json
+phpunit.xml

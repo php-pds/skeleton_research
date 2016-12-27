@@ -1,0 +1,12 @@
+docs/
+pecl/
+plugins/
+samples/
+vendor/
+wiki/
+AUTHORS.txt
+LICENSE.txt
+README.MD
+SlightPHP.php
+VERSION.txt
+composer.json

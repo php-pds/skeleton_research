@@ -1,0 +1,6 @@
+src/sokt/
+vendor/
+LICENSE
+README.md
+composer.json
+test.php

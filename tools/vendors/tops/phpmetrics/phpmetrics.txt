@@ -1,0 +1,17 @@
+.github/
+artifacts/
+bin/
+build/
+src/Hal/
+templates/html/
+tests/
+.gitignore
+.phpmetrics.yml.dist
+.semver
+.travis.yml
+LICENSE
+Makefile
+README.md
+compatibility.php
+composer.json
+phpunit.xml.dist

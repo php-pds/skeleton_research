@@ -1,0 +1,14 @@
+Command/
+Controller/
+DependencyInjection/
+Entity/
+EventListener/
+Form/
+Helper/
+Resources/
+.gitignore
+.travis.yml
+LICENSE
+OjsCitationBundle.php
+composer.json
+ojs.json

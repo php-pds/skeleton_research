@@ -1,0 +1,16 @@
+config/
+src/
+tests/
+tmp/
+.coveralls.yml
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE.md
+README.md
+cli
+composer.json
+install.php
+instance.php
+phpunit.php
+phpunit.xml.dist

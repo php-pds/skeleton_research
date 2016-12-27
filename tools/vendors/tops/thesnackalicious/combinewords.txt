@@ -1,0 +1,5 @@
+resources/words/
+src/
+LICENSE
+README.md
+composer.json

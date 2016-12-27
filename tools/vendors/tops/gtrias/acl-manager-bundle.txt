@@ -1,0 +1,11 @@
+DependencyInjection/
+Domain/
+Model/
+ORM/
+Resources/config/
+RetrievalStrategy/
+.gitignore
+LICENSE
+ProblematicAclManagerBundle.php
+README.md
+composer.json

@@ -1,0 +1,8 @@
+assets/
+src/Component/
+tests/Acme/
+.gitignore
+LICENSE.md
+README.md
+composer.json
+composer.lock

@@ -1,0 +1,7 @@
+Tests/
+Autoload.php
+CHANGELOG.md
+LICENSE
+MANUAL.md
+README.md
+composer.json

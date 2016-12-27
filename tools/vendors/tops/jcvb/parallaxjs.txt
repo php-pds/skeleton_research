@@ -1,0 +1,6 @@
+LICENSE
+README.md
+bower.json
+composer.json
+parallax.js
+parallax.min.js

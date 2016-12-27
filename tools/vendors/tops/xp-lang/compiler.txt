@@ -1,0 +1,7 @@
+src/
+.travis.yml
+ChangeLog.md
+Makefile
+README.md
+class.pth
+composer.json

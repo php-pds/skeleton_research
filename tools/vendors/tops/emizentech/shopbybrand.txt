@@ -1,0 +1,10 @@
+Block/
+Controller/
+Model/
+Setup/
+etc/
+view/
+README.md
+UserGuide-ShopByBrand.pdf
+composer.json
+registration.php

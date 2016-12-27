@@ -1,0 +1,8 @@
+src/GatherContent/Htmldiff/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml

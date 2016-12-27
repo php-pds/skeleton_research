@@ -1,0 +1,5 @@
+DNSMadeEasy/
+tests/
+CHANGELOG
+README.md
+composer.json

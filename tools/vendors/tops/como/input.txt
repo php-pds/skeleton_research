@@ -1,0 +1,8 @@
+src/Como/Http/
+tests/
+.gitignore
+README.md
+SplClassLoader.php
+VERSION
+autoload.php
+composer.json

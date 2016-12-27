@@ -1,0 +1,6 @@
+src/Expressif/Stream/
+test/
+.gitignore
+LICENSE
+README.md
+composer.json

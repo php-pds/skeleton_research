@@ -1,0 +1,11 @@
+css/
+includes/
+js/
+.gitignore
+CHANELOG.md
+LICENSE.md
+README.md
+composer.json
+database.sql
+index.php
+server.php

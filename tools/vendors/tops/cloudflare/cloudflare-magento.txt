@@ -1,0 +1,14 @@
+Backend/
+Block/Adminhtml/
+Controller/Adminhtml/Plugin/
+Model/
+Observer/
+Setup/
+Test/Unit/
+etc/
+view/adminhtml/
+LICENSE.md
+README.md
+composer.json
+composer.lock
+registration.php

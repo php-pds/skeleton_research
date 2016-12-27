@@ -1,0 +1,10 @@
+Images/
+Mockup/
+Partials/
+css/
+js/
+.DS_Store
+.gitignore
+README.md
+bower.json
+composer.json

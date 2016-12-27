@@ -1,0 +1,9 @@
+examples/basic/
+tests/
+.gitattributes
+.gitignore
+.travis.yml
+AltoRouter.php
+README.md
+composer.json
+phpunit.xml.dist

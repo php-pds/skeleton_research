@@ -1,0 +1,11 @@
+application/
+static/
+system/
+.gitignore
+.htaccess
+CI_phpStorm.php
+README.md
+composer.json
+index-production.php
+index-test.php
+index.php

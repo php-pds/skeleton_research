@@ -1,0 +1,5 @@
+src/PDope/
+.gitignore
+README.md
+composer.json
+composer.lock

@@ -1,0 +1,12 @@
+src/
+test/
+webroot/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+License.txt
+Readme.md
+autoloader.php
+composer.json
+composer.lock
+phpunit.xml.dist

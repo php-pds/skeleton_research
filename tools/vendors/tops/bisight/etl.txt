@@ -1,0 +1,15 @@
+bin/
+docs/
+examples/
+src/
+test/
+.editorconfig
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock
+manifest-v2.json
+manifest.json
+mkdocs.yml
+phpunit.xml.dist

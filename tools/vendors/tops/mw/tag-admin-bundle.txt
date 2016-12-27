@@ -1,0 +1,9 @@
+Admin/Traits/
+DependencyInjection/
+Entity/Traits/
+Form/DataTransformer/
+Resources/config/
+LICENSE
+MWTagAdminBundle.php
+README.md
+composer.json

@@ -1,0 +1,7 @@
+src/
+tests/
+.gitignore
+circle.yml
+composer.json
+readme.md
+shippable.yml

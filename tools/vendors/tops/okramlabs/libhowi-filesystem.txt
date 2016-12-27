@@ -1,0 +1,13 @@
+Commons/
+php5/
+php7/
+tests/
+.gitignore
+.howiattributes
+.project
+.travis.yml
+FS.inc
+LICENSE
+README.md
+bootstrap.inc
+composer.json

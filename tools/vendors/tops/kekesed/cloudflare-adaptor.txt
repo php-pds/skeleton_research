@@ -1,0 +1,5 @@
+cf-adaptor/
+.gitignore
+LICENSE
+README.md
+composer.json

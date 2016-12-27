@@ -1,0 +1,6 @@
+Validator/
+tests/
+README.md
+README.txt
+Validator.php
+composer.json

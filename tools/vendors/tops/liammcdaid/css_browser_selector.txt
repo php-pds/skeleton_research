@@ -1,0 +1,7 @@
+LICENSE.md
+README.md
+composer.json
+css_browser_selector.class.php
+css_browser_selector.js
+css_browser_selector.min.js
+test.php

@@ -1,0 +1,15 @@
+app/
+bin/
+src/
+tests/ApiBundle/
+var/
+web/
+.gitignore
+Aramis.postman_collection.json
+README.md
+TEST.postman_environment.json
+aramis.sql
+composer.json
+composer.lock
+composer.phar
+phpunit.xml

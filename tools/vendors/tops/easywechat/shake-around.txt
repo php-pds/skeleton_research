@@ -1,0 +1,10 @@
+Device.php
+Group.php
+LICENSE
+Material.php
+Page.php
+README.md
+Relation.php
+ShakeAround.php
+Stats.php
+composer.json

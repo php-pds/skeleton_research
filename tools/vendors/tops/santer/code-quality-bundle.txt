@@ -1,0 +1,9 @@
+Command/
+DependencyInjection/
+Resources/
+.gitignore
+DevToolsCodeQualityBundle.php
+LICENSE
+README.md
+composer.json
+composer.lock

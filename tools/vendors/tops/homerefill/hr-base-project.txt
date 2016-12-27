@@ -1,0 +1,7 @@
+config/
+src/BaseProject/Route/
+web/
+.gitignore
+bootstrap.php
+composer.json
+composer.lock

@@ -1,0 +1,7 @@
+src/Holiday/
+test/Holiday/
+.gitignore
+.travis.yml
+LICENSE
+composer.json
+phpunit.xml

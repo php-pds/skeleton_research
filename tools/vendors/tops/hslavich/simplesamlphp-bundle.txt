@@ -1,0 +1,9 @@
+Command/
+DependencyInjection/
+Exception/
+Resources/config/
+Security/
+.gitignore
+HslavichSimplesamlphpBundle.php
+README.md
+composer.json

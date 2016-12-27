@@ -1,0 +1,9 @@
+samples/
+src/
+tests/untested/
+.gitignore
+LICENSE
+autoload.php
+compatibility.php
+composer.json
+readme.markdown

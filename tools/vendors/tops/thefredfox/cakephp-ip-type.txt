@@ -1,0 +1,6 @@
+src/Database/Type/
+tests/
+.gitignore
+README.md
+composer.json
+phpunit.xml.dist

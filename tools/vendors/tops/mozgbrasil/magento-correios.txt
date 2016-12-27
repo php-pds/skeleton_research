@@ -1,0 +1,10 @@
+app/
+js/mozg_correios/
+skin/
+CHANGELOG.md
+LICENSE.txt
+README.md
+README_Correios.md
+README_ExportaFacil.md
+composer.json
+modman

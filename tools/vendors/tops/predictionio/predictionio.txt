@@ -1,0 +1,11 @@
+examples/
+src/predictionio/
+tests/Unit/
+.gitignore
+.travis.yml
+CREDITS
+LICENSE
+README.md
+build.xml
+composer.json
+phpunit.xml.dist

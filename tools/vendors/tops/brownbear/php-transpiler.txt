@@ -1,0 +1,11 @@
+bin/
+src/PhpTranspiler/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+build.sh
+composer.json
+composer.lock
+phpunit.xml.dist
+readme.md

@@ -1,0 +1,11 @@
+src/
+tests/
+.coveralls.yml
+.gitignore
+.travis.yml
+CHANGELOG
+LICENSE-2.0.txt
+README.md
+Worker.php
+composer.json
+phpunit.xml

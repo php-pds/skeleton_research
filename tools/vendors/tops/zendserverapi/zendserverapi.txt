@@ -1,0 +1,9 @@
+config/
+docs/
+library/ZendService/ZendServerAPI/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json

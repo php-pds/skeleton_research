@@ -1,0 +1,9 @@
+src/NovaPoshta/
+tests/NovaPoshtaTest/
+.editorconfig
+.gitattributes
+.gitignore
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

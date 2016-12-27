@@ -1,0 +1,14 @@
+App/
+Conf/
+Model/
+_notas/
+logs/
+public/
+.bowerrc
+.gitignore
+LICENSE
+README.md
+bower.json
+composer.json
+run_bower.php
+run_composer.php

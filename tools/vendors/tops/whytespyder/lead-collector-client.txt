@@ -1,0 +1,4 @@
+lib/WhyteSpyder/
+.gitignore
+README.md
+composer.json

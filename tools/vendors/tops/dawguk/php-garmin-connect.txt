@@ -1,0 +1,6 @@
+examples/
+src/dawguk/
+.gitignore
+LICENSE
+README.md
+composer.json

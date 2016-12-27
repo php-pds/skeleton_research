@@ -1,0 +1,5 @@
+History.md
+README.md
+composer.json
+selector.inc
+test.selector.php

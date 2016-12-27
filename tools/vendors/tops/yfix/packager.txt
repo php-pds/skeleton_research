@@ -1,0 +1,8 @@
+help/
+helpers/
+libs/
+README.md
+composer.json
+license.txt
+packager
+packager.php

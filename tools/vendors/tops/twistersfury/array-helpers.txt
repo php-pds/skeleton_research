@@ -1,0 +1,10 @@
+src/
+tests/
+.gitattributes
+.gitignore
+README.md
+composer.json
+composer.lock
+humbug.json.dist
+phpci.yml
+phpunit.xml

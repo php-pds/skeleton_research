@@ -1,0 +1,7 @@
+Helper/
+Plugin/
+etc/
+.scrutinizer.yml
+README.md
+composer.json
+registration.php

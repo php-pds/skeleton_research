@@ -1,0 +1,8 @@
+Models/
+config/
+database/
+src/
+tests/
+.gitignore
+README.md
+composer.json

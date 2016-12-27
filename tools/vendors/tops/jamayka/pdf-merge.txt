@@ -1,0 +1,6 @@
+public/
+src/PdfMerge/
+tests/
+.gitignore
+composer.json
+phpunit.xml

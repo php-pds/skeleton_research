@@ -1,0 +1,5 @@
+config/
+src/MasudZaman/KindEditor/
+.gitignore
+README.md
+composer.json

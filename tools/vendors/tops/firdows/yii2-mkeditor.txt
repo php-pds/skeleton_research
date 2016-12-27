@@ -1,0 +1,6 @@
+plugins/onchange/
+presets/
+CKEditor.php
+KCFinderAsset.php
+README.md
+composer.json

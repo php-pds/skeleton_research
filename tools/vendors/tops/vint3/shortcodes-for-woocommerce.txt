@@ -1,0 +1,16 @@
+languages/
+lib/
+.codeclimate.yml
+.editorconfig
+.eslintrc
+.gitignore
+CONTRIBUTING.md
+Gruntfile.js
+LICENSE.txt
+README.md
+README.txt
+composer.json
+composer.lock
+package.json
+phpcs.ruleset.xml
+shortcodes-for-woocommerce.php

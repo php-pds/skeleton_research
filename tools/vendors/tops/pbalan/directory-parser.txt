@@ -1,0 +1,6 @@
+src/pbalan/DirectoryParser/
+tests/
+LICENSE.md
+README.md
+autoload.php
+composer.json

@@ -1,0 +1,7 @@
+Demos/
+Gettext/
+.directory
+.gitignore
+README.md
+composer.json
+composer.lock

@@ -1,0 +1,9 @@
+data/
+src/PNG/
+tests/
+.gitignore
+INSTALL.md
+LICENSE
+README.md
+composer.json
+phpunit.xml

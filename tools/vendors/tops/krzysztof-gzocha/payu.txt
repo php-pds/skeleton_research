@@ -1,0 +1,13 @@
+spec/Team3/PayU/
+src/Team3/PayU/
+tests/
+.gitignore
+.travis.yml
+README.md
+build.xml
+codeception.yml
+composer.json
+composer.lock
+license.txt
+phpspec.yml
+wercker.yml

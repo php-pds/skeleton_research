@@ -1,0 +1,12 @@
+example/
+src/Bit6/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+Procfile
+README.md
+app.json
+composer.json
+composer.lock
+phpunit.xml

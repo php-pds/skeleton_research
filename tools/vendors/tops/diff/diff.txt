@@ -1,0 +1,15 @@
+src/
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+Aliases.php
+COPYING
+Diff.mw.php
+Diff.php
+README.md
+RELEASE-NOTES.md
+composer.json
+phpcs.xml
+phpmd.xml
+phpunit.xml.dist

@@ -1,0 +1,11 @@
+Command/
+Resources/
+Tests/Utils/
+Utils/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+RykHawthornStarWarsNamesBundle.php
+application.php
+composer.json

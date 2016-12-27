@@ -1,0 +1,15 @@
+src/
+tests/
+.gitignore
+.scrutinizer.yml
+.styleci.yml
+.travis.yml
+LICENSE.md
+README.md
+codecov.yml
+composer.json
+gulpfile.js
+package.json
+php.ini
+phpunit.xml.dist
+run-tests.sh

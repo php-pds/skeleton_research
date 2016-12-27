@@ -1,0 +1,5 @@
+Text/
+.gitignore
+README.md
+UTF8.php
+composer.json

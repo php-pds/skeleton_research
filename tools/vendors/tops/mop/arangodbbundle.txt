@@ -1,0 +1,11 @@
+Connection/
+DependencyInjection/
+FOSUser/
+Resources/
+.gitignore
+DataCollector.php
+LICENSE
+LoggerInterface.php
+MopArangoDbBundle.php
+README.md
+composer.json

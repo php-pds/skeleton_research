@@ -1,0 +1,4 @@
+src/TalkingRobot/
+tests/
+.gitignore
+composer.json

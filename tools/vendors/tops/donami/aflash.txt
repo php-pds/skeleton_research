@@ -1,0 +1,5 @@
+src/AFlash/
+webroot/
+README.md
+autoloader.php
+composer.json

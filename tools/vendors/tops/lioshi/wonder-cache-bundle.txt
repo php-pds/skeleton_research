@@ -1,0 +1,10 @@
+Cache/
+Command/
+DataCollector/
+DependencyInjection/
+Logger/
+Resources/
+LICENSE
+LioshiWonderCacheBundle.php
+README.md
+composer.json

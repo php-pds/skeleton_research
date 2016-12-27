@@ -1,0 +1,7 @@
+Tests/
+class/
+.scrutinizer.yml
+.travis.yml
+README.md
+composer.json
+phpunit.xml

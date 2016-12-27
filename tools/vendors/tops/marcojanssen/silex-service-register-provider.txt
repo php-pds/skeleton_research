@@ -1,0 +1,11 @@
+src/MJanssen/Provider/
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CHANGELOG
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

@@ -1,0 +1,11 @@
+bin/
+library/Klinai/
+tests/
+vendor/
+.coveralls.yml
+.gitignore
+.travis.yml
+LICENSE
+README.md
+build.xml
+composer.json

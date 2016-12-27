@@ -1,0 +1,6 @@
+src/UserAppSymfony/
+.gitignore
+LICENSE.md
+README.md
+composer.json
+services.yml

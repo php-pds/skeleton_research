@@ -1,0 +1,11 @@
+src/Weather/
+test/
+webroot/css/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+autoloader.php
+composer.json
+phpunit.xml.dist

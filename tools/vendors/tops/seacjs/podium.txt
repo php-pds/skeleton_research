@@ -1,0 +1,8 @@
+src/
+.codeclimate.yml
+.eslintignore
+.eslintrc
+LICENSE
+README.md
+composer.json
+phpmd_ruleset.xml

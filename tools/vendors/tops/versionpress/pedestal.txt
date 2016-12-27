@@ -1,0 +1,8 @@
+vendor/
+web/
+.editorconfig
+.gitignore
+README.md
+composer.json
+composer.lock
+wp-cli.yml

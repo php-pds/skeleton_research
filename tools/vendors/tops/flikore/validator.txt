@@ -1,0 +1,13 @@
+examples/
+src/Flikore/Validator/
+unittests/
+.gitignore
+.travis.yml
+CONTRIBUTE.md
+LICENSE
+README.md
+SplClassLoader.php
+autoload.php
+composer.json
+phpunit.xml
+version.txt

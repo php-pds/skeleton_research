@@ -1,0 +1,6 @@
+Resources/public/
+.gitignore
+LICENSE
+LoamokJQuerySliderBundle.php
+README.md
+composer.json

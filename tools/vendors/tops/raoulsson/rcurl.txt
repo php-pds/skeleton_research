@@ -1,0 +1,7 @@
+src/raoulsson/rcurl/
+tests/raoulsson/
+.gitignore
+CHANGELOG.md
+LICENSE
+README.md
+composer.json

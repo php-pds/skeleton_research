@@ -1,0 +1,10 @@
+examples/
+src/BattleRattle/ShuffleBag/
+tests/BattleRattle/Tests/ShuffleBag/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

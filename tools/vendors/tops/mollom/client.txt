@@ -1,0 +1,7 @@
+CHANGELOG.md
+LICENSE-GPL.txt
+LICENSE-MIT.txt
+README.md
+TODO.md
+composer.json
+mollom.class.inc

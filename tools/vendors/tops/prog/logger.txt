@@ -1,0 +1,9 @@
+assets/
+coverage/
+src/ProG/Logger/
+tests/
+.gitignore
+README.md
+composer.json
+index.php
+phpunit.xml.dist

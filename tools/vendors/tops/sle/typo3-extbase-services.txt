@@ -1,0 +1,7 @@
+Cookbook/
+TYPO3/Extbase/
+.gitignore
+Changelog.md
+LICENSE
+README.md
+composer.json

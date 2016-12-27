@@ -1,0 +1,5 @@
+src/CoconutCalendar/
+tests/
+.gitignore
+composer.json
+composer.lock

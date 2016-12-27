@@ -1,0 +1,10 @@
+config/
+css/GTErrorTracker/
+js/GTErrorTracker/
+src/GTErrorTracker/
+view/
+GTErrorTracker.php
+Module.php
+autoload_classmap.php
+composer.json
+module.config.php

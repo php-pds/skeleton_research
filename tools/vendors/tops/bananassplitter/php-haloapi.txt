@@ -1,0 +1,8 @@
+src/
+README.md
+composer.json
+composer.lock
+example.composer.php
+example.php
+haloapi.class.php
+licence.txt

@@ -1,0 +1,17 @@
+Sorting/
+Tests/
+Traits/
+.gitignore
+CallbackFilterIterator.php
+FilterIterator.php
+Groupby.php
+ProductIterator.php
+README.md
+Reverseable.php
+RewindableGenerator.php
+StopIteration.php
+ZipLongest.php
+bootstrap.php
+composer.json
+itertools.php
+phpunit.xml

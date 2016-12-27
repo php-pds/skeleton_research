@@ -1,0 +1,7 @@
+example/
+src/Onemax/Api/Connection/
+CHANGELOG.md
+LICENSE
+README.md
+UPGRADING.md
+composer.json

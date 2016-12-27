@@ -1,0 +1,9 @@
+test/
+test2/
+test3/
+.gitignore
+LICENSE
+Mylog
+Mylog.php
+README.md
+composer.json

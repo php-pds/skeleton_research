@@ -1,0 +1,8 @@
+DependencyInjection/
+Entity/
+Exception/
+Resources/config/
+LICENSE
+README.md
+VsavritskyMorpherBundle.php
+composer.json

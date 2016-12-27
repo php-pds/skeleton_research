@@ -1,0 +1,7 @@
+bin/
+config/
+package_config_examples/
+src/
+LICENSE
+composer.json
+readme.md

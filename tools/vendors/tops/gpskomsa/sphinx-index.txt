@@ -1,0 +1,8 @@
+config/
+data/sql/
+src/SphinxIndex/
+view/index/
+.gitignore
+Module.php
+README.md
+composer.json

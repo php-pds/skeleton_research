@@ -1,0 +1,4 @@
+src/JuanF/Lib/
+LICENSE.txt
+README.markdown
+composer.json

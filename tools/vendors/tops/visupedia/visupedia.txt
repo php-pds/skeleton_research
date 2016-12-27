@@ -1,0 +1,4 @@
+lib/Visupedia/
+.gitignore
+README.md
+composer.json

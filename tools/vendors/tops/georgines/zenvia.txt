@@ -1,0 +1,5 @@
+src/Georgines/Zenvia/
+.gitattributes
+.gitignore
+README.md
+composer.json

@@ -1,0 +1,9 @@
+controllers/admin/
+core/
+out/admin/css/
+views/admin/
+LICENSE
+README.md
+composer.json
+cookbook.jpg
+metadata.php

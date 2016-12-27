@@ -1,0 +1,6 @@
+src/Ciscaja/Uhsa/CoreBundle/
+tests/app/
+.gitignore
+LICENSE
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,11 @@
+docs/
+src/phpDocumentor/
+tests/
+.gitignore
+.travis.yml
+README.md
+TODO
+composer.json
+composer.lock
+example.php
+phpunit.xml.dist

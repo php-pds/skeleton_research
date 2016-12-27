@@ -1,0 +1,10 @@
+src/
+test/Unit/Api/
+.DS_Store
+.env-example
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

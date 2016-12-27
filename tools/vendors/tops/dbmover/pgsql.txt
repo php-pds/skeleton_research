@@ -1,0 +1,6 @@
+src/
+tests/
+.gitignore
+Gentry.json
+composer.json
+composer.lock

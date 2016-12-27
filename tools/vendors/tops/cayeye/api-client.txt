@@ -1,0 +1,6 @@
+.idea/
+src/Cayeye/
+tests/
+.gitignore
+README.md
+composer.json

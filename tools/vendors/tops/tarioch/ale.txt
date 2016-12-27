@@ -1,0 +1,16 @@
+config/
+sql/
+src/Ale/
+tests/
+.gitignore
+.htaccess
+.travis.yml
+COPYING
+COPYING.LESSER
+Makefile
+README.md
+composer.json
+composer.lock
+phpcs_rules.xml
+phpmd_rules.xml
+phpunit.xml.dist

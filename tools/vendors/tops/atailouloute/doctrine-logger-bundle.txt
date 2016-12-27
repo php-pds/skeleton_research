@@ -1,0 +1,10 @@
+Change/
+DependencyInjection/
+EventListener/
+Exception/
+Formatter/
+Resources/config/
+.gitignore
+DoctrineLoggerBundle.php
+LICENSE
+composer.json

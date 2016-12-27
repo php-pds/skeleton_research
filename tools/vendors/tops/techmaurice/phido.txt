@@ -1,0 +1,9 @@
+data/
+example_files/
+src/
+tests/
+LICENSE.txt
+README.md
+composer.json
+example-composer.php
+example-vanilla.php

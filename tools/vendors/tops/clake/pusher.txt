@@ -1,0 +1,8 @@
+classes/
+components/
+config/
+updates/
+LICENSE
+Plugin.php
+composer.json
+readme.md

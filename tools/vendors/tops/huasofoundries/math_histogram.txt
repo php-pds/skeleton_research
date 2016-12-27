@@ -1,0 +1,12 @@
+contrib/ignatius_reilly/
+docs/
+src/
+tests/
+.gitignore
+.scrutinizer.yml
+LICENSE
+Makefile
+README.md
+codeception.yml
+composer.json
+composer.lock

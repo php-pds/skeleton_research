@@ -1,0 +1,8 @@
+config/
+data/
+src/CookiePolicy/View/Helper/
+.gitignore
+LICENSE
+Module.php
+README.md
+composer.json

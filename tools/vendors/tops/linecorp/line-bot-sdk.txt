@@ -1,0 +1,14 @@
+devtool/
+examples/
+line-bot-sdk-tiny/
+src/
+tests/
+.gitignore
+.travis.yml
+CONTRIBUTING.md
+HACKING.md
+LICENSE
+Makefile
+README.md
+composer.json
+phpunit.xml

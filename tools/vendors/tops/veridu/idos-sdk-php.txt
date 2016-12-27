@@ -1,0 +1,10 @@
+samples/
+src/idOS/
+test/
+.gitignore
+.php_cs.dist
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist
+settings.php.dist

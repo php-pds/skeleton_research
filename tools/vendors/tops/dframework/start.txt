@@ -1,0 +1,7 @@
+app/
+data/
+nbproject/
+www/
+.gitignore
+README.md
+composer.json

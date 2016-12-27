@@ -1,0 +1,7 @@
+spec/CeesVanEgmond/Minify/Providers/
+src/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,4 @@
+src/Dugun/Generator/
+.gitignore
+README.md
+composer.json

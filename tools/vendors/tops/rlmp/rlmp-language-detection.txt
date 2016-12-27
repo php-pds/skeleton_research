@@ -1,0 +1,9 @@
+Classes/
+Configuration/
+Documentation/
+.gitignore
+LICENSE
+README.md
+composer.json
+ext_emconf.php
+ext_icon.gif

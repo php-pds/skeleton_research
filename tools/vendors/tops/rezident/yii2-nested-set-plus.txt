@@ -1,0 +1,7 @@
+assets/
+behaviors/
+migrations/
+widgets/
+.gitignore
+README.md
+composer.json

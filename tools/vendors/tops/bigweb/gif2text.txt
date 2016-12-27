@@ -1,0 +1,11 @@
+src/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json
+gif2text
+out.html
+phpunit.xml
+template.html
+test.gif

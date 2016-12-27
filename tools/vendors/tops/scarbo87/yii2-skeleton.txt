@@ -1,0 +1,10 @@
+app/
+environments/
+web/
+.gitignore
+README.md
+composer.json
+init
+init.bat
+requirements.php
+yii.bat

@@ -1,0 +1,11 @@
+apps/default.app/
+bootstrap/
+configs/
+public/
+storage/
+.gitignore
+.htaccess
+README.md
+architect
+composer.json
+northwind.sql

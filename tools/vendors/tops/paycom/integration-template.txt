@@ -1,0 +1,8 @@
+Paycom/
+.gitignore
+README.md
+composer.json
+functions.php
+index.php
+password.paycom
+paycom.config.sample.php

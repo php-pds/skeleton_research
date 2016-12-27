@@ -1,0 +1,8 @@
+src/XDT/AWS/Tools/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml

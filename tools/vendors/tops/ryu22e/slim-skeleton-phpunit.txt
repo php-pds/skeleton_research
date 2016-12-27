@@ -1,0 +1,10 @@
+logs/
+public/
+templates/
+tests/
+.gitignore
+Makefile
+README.md
+composer.json
+phpunit.xml
+wercker.yml

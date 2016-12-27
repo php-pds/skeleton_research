@@ -1,0 +1,4 @@
+app/code/Firebear/ConfigurableProducts/
+LICENSE
+README.md
+composer.json

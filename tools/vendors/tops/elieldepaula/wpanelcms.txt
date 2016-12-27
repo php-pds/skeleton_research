@@ -1,0 +1,9 @@
+app/
+public/
+sys/
+.gitignore
+LICENSE
+change_log.txt
+codeigniter_license.txt
+composer.json
+readme.md

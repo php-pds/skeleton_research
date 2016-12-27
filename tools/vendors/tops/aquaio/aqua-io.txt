@@ -1,0 +1,5 @@
+lib/AquaIo/
+.gitignore
+LICENSE
+README.md
+composer.json

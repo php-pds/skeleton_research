@@ -1,0 +1,6 @@
+examples/
+src/XMLBuilder/
+.gitignore
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,6 @@
+solusvm/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock

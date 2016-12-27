@@ -1,0 +1,13 @@
+examples/
+nginx/
+php-fpm/
+src/Prometheus/
+tests/
+.codeclimate.yml
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+docker-compose.yml
+phpunit.xml

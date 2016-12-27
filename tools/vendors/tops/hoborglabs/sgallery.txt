@@ -1,0 +1,15 @@
+conf/
+dist/
+scripts/
+src/
+styles/
+tasks/
+templates/hoborglabs/
+tests/
+.gitignore
+README.md
+build.xml
+composer.json
+phpunit.xml
+sg.php
+sg_dev.php

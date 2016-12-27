@@ -1,0 +1,6 @@
+src/Eventio/
+tests/Eventio/BBQ/Tests/
+.gitignore
+Readme.md
+composer.json
+phpunit.xml.dist

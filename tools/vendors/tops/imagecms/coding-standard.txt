@@ -1,0 +1,4 @@
+ImageCMS/
+.gitignore
+README.md
+composer.json

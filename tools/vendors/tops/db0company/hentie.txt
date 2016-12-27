@@ -1,0 +1,7 @@
+img/
+.gitignore
+LICENSE
+README.md
+browser.php
+composer.json
+generate_thumbnails.sh

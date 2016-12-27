@@ -1,0 +1,12 @@
+exemplos/
+manual/
+src/PhpSigep/
+tests/
+.gitignore
+LICENSE.txt
+README.md
+composer.json
+composer.lock
+composer.phar
+phpunit.xml
+tags

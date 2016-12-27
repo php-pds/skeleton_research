@@ -1,0 +1,7 @@
+src/Appointedd/Appointedd/
+tests/
+.gitignore
+.travis.yml
+composer.json
+phpunit.xml
+readme.md

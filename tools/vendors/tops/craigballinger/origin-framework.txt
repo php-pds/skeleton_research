@@ -1,0 +1,6 @@
+lib/Origin/
+tests/
+.gitignore
+Autoloader.php
+README.md
+composer.json

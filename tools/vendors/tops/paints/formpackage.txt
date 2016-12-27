@@ -1,0 +1,6 @@
+Classes/Paints/FormPackage/
+Configuration/
+Resources/Private/
+.gitignore
+README.md
+composer.json

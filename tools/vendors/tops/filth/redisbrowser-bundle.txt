@@ -1,0 +1,8 @@
+Controller/
+DependencyInjection/
+Docs/
+Resources/
+Twig/
+FilthRedisBrowserBundle.php
+README.md
+composer.json

@@ -1,0 +1,9 @@
+.idea/
+.gitignore
+AngularAnimateAsset.php
+AngularAsset.php
+AngularJqAsset.php
+AngularRouteAsset.php
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,6 @@
+Classes/TimKandel/PackagistFE/
+Configuration/
+Migrations/Mysql/
+Resources/Private/
+README.md
+composer.json

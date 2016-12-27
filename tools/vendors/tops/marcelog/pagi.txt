@@ -1,0 +1,11 @@
+doc/
+src/PAGI/
+test/
+.codeclimate.yml
+.gitignore
+.travis.yml
+LICENSE
+README.md
+build.xml
+composer.json
+composer.phar

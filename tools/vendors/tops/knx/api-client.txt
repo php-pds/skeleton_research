@@ -1,0 +1,4 @@
+KNX/Api/
+LICENSE
+README.md
+composer.json

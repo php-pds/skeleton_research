@@ -1,0 +1,12 @@
+ToolkitApi/
+ToolkitTests/
+tests/
+vendor/
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENSE.txt
+README.md
+composer.json
+phpunit.xml
+phpunit.xml.dist

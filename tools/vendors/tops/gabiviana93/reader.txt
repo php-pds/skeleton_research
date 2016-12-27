@@ -1,0 +1,7 @@
+nbproject/
+src/
+vendor/
+README.md
+composer.json
+index.php
+stream.txt

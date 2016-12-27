@@ -1,0 +1,7 @@
+src/
+test/
+.gitignore
+ImageOptim.png
+README.md
+composer.json
+phpunit.xml

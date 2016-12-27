@@ -1,0 +1,16 @@
+bin/
+config/
+src/
+store/
+test/
+.editorconfig
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+box.json
+build.xml
+composer.json
+phpmd.xml
+phpunit.xml

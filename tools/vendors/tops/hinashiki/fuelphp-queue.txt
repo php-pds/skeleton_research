@@ -1,0 +1,10 @@
+classes/
+config/
+migrations/
+tasks/
+vendor/
+views/
+LICENSE
+README.md
+bootstrap.php
+composer.json

@@ -1,0 +1,6 @@
+src/IAkumaI/DQL/
+.gitattributes
+.gitignore
+LICENSE
+README.md
+composer.json

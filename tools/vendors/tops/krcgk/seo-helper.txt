@@ -1,0 +1,6 @@
+config/
+migration/
+src/
+.gitignore
+composer.json
+readme.md

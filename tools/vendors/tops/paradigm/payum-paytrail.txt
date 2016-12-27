@@ -1,0 +1,8 @@
+Action/
+Request/Api/
+.gitignore
+Api.php
+LICENSE
+PaytrailGatewayFactory.php
+README.md
+composer.json

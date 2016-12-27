@@ -1,0 +1,7 @@
+src/Fire1/AmfLeech/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock

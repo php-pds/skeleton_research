@@ -1,0 +1,8 @@
+Tests/Singer/
+docs/
+lib/Singer/
+.gitignore
+README.md
+composer.json
+composer.lock
+phpunit.xml

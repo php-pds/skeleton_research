@@ -1,0 +1,9 @@
+_config/
+code/
+images/
+tests/
+.scrutinizer.yml
+.travis.yml
+README.md
+_config.php
+composer.json

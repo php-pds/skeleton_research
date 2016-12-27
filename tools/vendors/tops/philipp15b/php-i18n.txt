@@ -1,0 +1,10 @@
+lang/
+langcache/
+vendor/
+.gitignore
+LICENSE.txt
+README.md
+composer.json
+example.php
+i18n.class.php
+yml-example.php

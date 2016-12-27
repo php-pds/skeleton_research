@@ -1,0 +1,12 @@
+config/
+docs/
+src/
+tests/TestCase/
+webroot/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock
+mkdocs.yml
+phpunit.xml.dist

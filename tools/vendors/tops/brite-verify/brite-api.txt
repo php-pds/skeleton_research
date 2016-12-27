@@ -1,0 +1,7 @@
+.gitignore
+BriteAPIClient.php
+BriteAPIContact.php
+LICENSE
+README.md
+composer.json
+example.php

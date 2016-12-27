@@ -1,0 +1,10 @@
+Command/
+DependencyInjection/
+Events/
+Resources/config/
+Service/
+.gitignore
+LICENSE
+PhraseAppBundle.php
+README.md
+composer.json

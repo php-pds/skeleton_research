@@ -1,0 +1,16 @@
+class/
+controllers/
+interface/
+logs/
+.gitignore
+.htaccess
+LICENSE
+README.md
+alteracoes.txt
+bootstrap.php
+cli-config.php
+composer.json
+composer.lock
+config-dev.json
+contributors.txt
+index.php

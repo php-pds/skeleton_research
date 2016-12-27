@@ -1,0 +1,10 @@
+Controller/
+DependencyInjection/
+Lib/
+Resources/
+Tests/
+.gitignore
+FARSymfony2UploadBundle.php
+README.md
+composer.json
+contributors.txt

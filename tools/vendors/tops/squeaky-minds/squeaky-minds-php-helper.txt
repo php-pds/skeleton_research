@@ -1,0 +1,8 @@
+docs/
+.codeclimate.yml
+.gitignore
+LICENSE
+README.md
+SqueakyMindsPhpHelper.php
+SqueakyMindsPhpHelper_lists.php
+composer.json

@@ -1,0 +1,8 @@
+app/
+libs/
+static/
+storage/
+.htaccess
+README
+composer.json
+index.php

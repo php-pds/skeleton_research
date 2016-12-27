@@ -1,0 +1,7 @@
+Classes/KSS/Neos/Owlcarousel/ViewHelpers/
+Configuration/
+Resources/
+.gitignore
+LICENSE
+README.md
+composer.json

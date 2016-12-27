@@ -1,0 +1,6 @@
+src/dotty/
+tests/
+.gitignore
+LICENSE.markdown
+README.markdown
+composer.json

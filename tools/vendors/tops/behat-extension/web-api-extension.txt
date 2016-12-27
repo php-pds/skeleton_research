@@ -1,0 +1,8 @@
+doc/
+features/
+src/
+tests/web/
+.travis.yml
+LICENSE
+README.md
+composer.json

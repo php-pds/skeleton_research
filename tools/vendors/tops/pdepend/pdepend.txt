@@ -1,0 +1,17 @@
+scripts/
+setup @ b2c4194
+src/
+.gitattributes
+.gitignore
+.gitmodules
+.scrutinizer.yml
+.travis.yml
+CHANGELOG
+LICENSE
+Vagrantfile
+build.properties
+build.xml
+composer.json
+composer.lock
+pdepend.xml.dist
+phpunit.xml.dist

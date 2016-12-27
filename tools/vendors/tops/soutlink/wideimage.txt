@@ -1,0 +1,11 @@
+demo/
+doc/
+lib/
+test/
+LICENSE
+README
+README.md
+VERSION
+composer.json
+gpl.txt
+lgpl.txt

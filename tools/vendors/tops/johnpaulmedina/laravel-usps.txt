@@ -1,0 +1,5 @@
+demos/
+src/
+.DS_Store
+README.md
+composer.json

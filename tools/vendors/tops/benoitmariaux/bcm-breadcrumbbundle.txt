@@ -1,0 +1,11 @@
+DependencyInjection/
+Exception/
+Model/
+Resources/
+Service/
+Tests/
+.travis.yml
+BCMBreadcrumbBundle.php
+README.md
+composer.json
+phpunit.xml.dist

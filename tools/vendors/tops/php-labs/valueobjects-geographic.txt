@@ -1,0 +1,11 @@
+Tests/Units/
+bin/
+src/
+.atoum.bootstrap.php
+.atoum.php
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+composer.json

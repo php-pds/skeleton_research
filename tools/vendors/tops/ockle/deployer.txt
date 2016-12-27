@@ -1,0 +1,15 @@
+classes/
+public/
+sass/
+views/
+.gitignore
+Gruntfile.js
+LICENSE
+README.md
+app.php
+bower.json
+composer.json
+config.php
+config.rb
+package.json
+schema.sql

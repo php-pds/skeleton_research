@@ -1,0 +1,8 @@
+examples/
+src/Knagg0/ProcessPromises/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

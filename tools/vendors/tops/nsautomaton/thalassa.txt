@@ -1,0 +1,6 @@
+src/Thalassa/
+.gitattributes
+.gitignore
+LICENCE
+README.md
+composer.json

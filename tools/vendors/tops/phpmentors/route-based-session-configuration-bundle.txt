@@ -1,0 +1,10 @@
+.github/
+.settings/
+src/
+.gitignore
+.php_cs
+.project
+LICENSE
+README.md
+composer.json
+docker-compose.yml.dist

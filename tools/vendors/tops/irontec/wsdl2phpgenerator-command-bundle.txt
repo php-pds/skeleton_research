@@ -1,0 +1,6 @@
+Command/
+.gitignore
+LICENSE
+README.md
+Wsdl2PhpGeneratorCommandBundle.php
+composer.json

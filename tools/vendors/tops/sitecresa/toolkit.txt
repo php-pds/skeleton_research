@@ -1,0 +1,8 @@
+SitecRESA/
+doc/
+.gitignore
+LICENCE
+README.md
+apigen.neon
+composer.json
+exemples.php

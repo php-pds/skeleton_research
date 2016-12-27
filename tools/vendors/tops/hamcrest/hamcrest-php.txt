@@ -1,0 +1,13 @@
+generator/
+hamcrest/
+tests/
+.coveralls.yml
+.gitignore
+.gush.yml
+.travis.yml
+CHANGES.txt
+LICENSE.txt
+README.md
+TODO.txt
+composer.json
+composer.lock

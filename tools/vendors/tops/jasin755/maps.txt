@@ -1,0 +1,10 @@
+client-side/
+docs/en/
+src/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+standards.xml

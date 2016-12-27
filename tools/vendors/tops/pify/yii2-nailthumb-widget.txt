@@ -1,0 +1,6 @@
+assets/nailthumb/
+LICENSE
+Nailthumb.php
+NailthumbAsset.php
+README.md
+composer.json

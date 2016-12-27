@@ -1,0 +1,4 @@
+jsonAPI/
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,7 @@
+app/
+shell/
+var/connect/
+.gitignore
+README.md
+composer.json
+modman

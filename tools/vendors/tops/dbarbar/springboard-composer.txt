@@ -1,0 +1,7 @@
+bin/
+build/
+cnf/
+.gitignore
+Vagrantfile
+composer.json
+composer.lock

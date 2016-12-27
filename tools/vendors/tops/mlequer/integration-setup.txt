@@ -1,0 +1,15 @@
+Resources/
+bin/
+src/
+templates/
+tests/
+.ci-setup.yml
+.gitignore
+.travis.yml
+LICENSE.md
+README.md
+build.xml
+composer.json
+composer.lock
+phpunit.xml
+sonar-project.properties

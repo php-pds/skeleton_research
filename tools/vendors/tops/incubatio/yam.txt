@@ -1,0 +1,7 @@
+app/
+bin/
+lib/VersionManager/
+tests/
+.gitignore
+README.rst
+composer.json

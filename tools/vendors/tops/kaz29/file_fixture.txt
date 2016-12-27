@@ -1,0 +1,7 @@
+Lib/
+Test/
+TestSuite/Fixture/
+.gitignore
+.travis.yml
+README.md
+composer.json

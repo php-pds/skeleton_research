@@ -1,0 +1,9 @@
+src/FastPay/
+tests/
+.gitignore
+LICENSE
+README.md
+apigen.neon
+composer.json
+composer.lock
+phpunit.xml.dist

@@ -1,0 +1,6 @@
+spec/Ftrrtf/Rollbar/
+src/Ftrrtf/Rollbar/
+.gitignore
+README.md
+composer.json
+phpspec.yml

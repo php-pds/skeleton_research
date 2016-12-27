@@ -1,0 +1,6 @@
+example/
+src/Antalaron/VideoGif/
+.gitignore
+LICENSE
+README.md
+composer.json

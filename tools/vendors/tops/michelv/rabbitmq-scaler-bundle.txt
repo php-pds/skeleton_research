@@ -1,0 +1,7 @@
+Command/
+DependencyInjection/
+.gitignore
+LICENSE
+MichelvRabbitMqScalerBundle.php
+README.md
+composer.json

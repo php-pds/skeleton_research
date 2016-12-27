@@ -1,0 +1,5 @@
+src/Storyblok/
+tests/
+.gitignore
+README.md
+composer.json

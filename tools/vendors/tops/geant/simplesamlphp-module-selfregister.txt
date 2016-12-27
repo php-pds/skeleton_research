@@ -1,0 +1,11 @@
+config-templates/
+dictionaries/
+hooks/
+lib/
+templates/
+www/
+.gitignore
+LICENSE
+README.md
+composer.json
+default-disable

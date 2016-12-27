@@ -1,0 +1,6 @@
+src/B2Backblaze/
+.gitignore
+LICENSE
+README.markdown
+composer.json
+composer.lock

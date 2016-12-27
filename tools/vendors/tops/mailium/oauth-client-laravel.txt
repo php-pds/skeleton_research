@@ -1,0 +1,11 @@
+config/
+database/migrations/
+http/
+src/MailiumOauthClient/MailiumOauthClientLaravel/
+.editorconfig
+.gitignore
+.travis.yml
+README.md
+changelog.md
+composer.json
+phpunit.xml

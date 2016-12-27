@@ -1,0 +1,15 @@
+assets/
+components/
+controllers/
+docs/guide/
+messages/
+migrations/
+models/
+views/
+AdminAsset.php
+AutocompleteAsset.php
+CHANGELOG.md
+LICENSE
+Module.php
+README.md
+composer.json

@@ -1,0 +1,9 @@
+sample-project/
+tasks/
+tests/
+.gitattributes
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json

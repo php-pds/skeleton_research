@@ -1,0 +1,9 @@
+.gitignore
+ElasticActiveDataProvider.php
+ElasticActiveRecordBehavior.php
+ElasticQueryHelper.php
+Elastica.php
+LICENSE.md
+README.md
+composer.json
+phpcs.xml

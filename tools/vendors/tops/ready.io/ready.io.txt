@@ -1,0 +1,6 @@
+src/ReadyIo/
+.gitignore
+LICENSE
+README.md
+composer.json
+test.php

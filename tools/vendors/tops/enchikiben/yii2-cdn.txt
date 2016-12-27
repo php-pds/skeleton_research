@@ -1,0 +1,5 @@
+.gitignore
+CDNComponent.php
+LICENSE
+README.md
+composer.json

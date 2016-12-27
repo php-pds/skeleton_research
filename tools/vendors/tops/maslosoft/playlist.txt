@@ -1,0 +1,16 @@
+css/
+design/
+dev/
+dist/
+js/
+.gitattributes
+.gitignore
+Gruntfile.coffee
+LICENSE-AGPL.mkd
+LICENSE-COMMERCIAL-SAAS.mkd
+LICENSE-COMMERCIAL-WEBSITE.mkd
+README.mkd
+bower.json
+composer.json
+data_url.rb
+package.json

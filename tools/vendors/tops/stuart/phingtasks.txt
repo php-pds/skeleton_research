@@ -1,0 +1,6 @@
+src/php/Stuart/PhingTasks/
+.gitignore
+CHANGELOG.md
+LICENSE.md
+README.md
+composer.json

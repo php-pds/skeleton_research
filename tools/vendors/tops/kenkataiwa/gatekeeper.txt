@@ -1,0 +1,12 @@
+docs/
+lib/Gatekeeper/
+resources/
+tests/
+thirdparty/
+tools/
+.gitignore
+.travis.yml
+CHANGELOG.md
+README.md
+composer.json
+phpunit.xml.dist

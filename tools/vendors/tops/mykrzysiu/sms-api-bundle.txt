@@ -1,0 +1,8 @@
+Controller/
+DependencyInjection/
+Resources/
+Services/
+Tests/Controller/
+MyKrzysiuSMSAPIBundle.php
+README.md
+composer.json

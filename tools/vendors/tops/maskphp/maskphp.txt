@@ -1,0 +1,7 @@
+app/
+public/
+.gitignore
+.htaccess
+Readme.md
+composer.json
+console.php

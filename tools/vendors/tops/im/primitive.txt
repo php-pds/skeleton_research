@@ -1,0 +1,13 @@
+spec/im/Primitive/
+src/Primitive/
+.editorconfig
+.gitattributes
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE.md
+README.md
+composer.json
+gulpfile.js
+package.json
+phpspec.yml

@@ -1,0 +1,6 @@
+config/
+src/Destination/
+LICENSE.md
+composer.json
+install.php
+readme.md

@@ -1,0 +1,4 @@
+system/expressionengine/third_party/stash/
+.gitignore
+README.md
+composer.json

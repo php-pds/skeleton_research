@@ -1,0 +1,16 @@
+bin/
+example/
+src/
+tests/
+.editorconfig
+.gitattributes
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CHANGELOG.md
+CONTRIBUTING.md
+LICENSE.md
+README.md
+composer.json
+grumphp.yml
+phpunit.xml.dist

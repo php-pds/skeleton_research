@@ -1,0 +1,6 @@
+inc/
+menus/settings/
+res/
+README.md
+changelog.md
+multilingual-tools.php

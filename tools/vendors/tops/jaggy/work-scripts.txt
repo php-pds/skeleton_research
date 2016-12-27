@@ -1,0 +1,8 @@
+bin/
+setup/
+src/
+.env.example
+.gitignore
+bootstrap.php
+composer.json
+readme.md

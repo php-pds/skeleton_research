@@ -1,0 +1,6 @@
+demo/
+lib/Befunge/
+.gitignore
+LICENSE
+README.md
+composer.json

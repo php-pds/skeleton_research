@@ -1,0 +1,15 @@
+app/
+public_html/
+tests/
+.editorconfig
+.gitattributes
+.gitignore
+.php_cs
+.phpstorm.meta.php
+.sensiolabs.yml
+.travis.yml
+LICENSE.md
+README.md
+_config.yml
+codeception.yml
+composer.json

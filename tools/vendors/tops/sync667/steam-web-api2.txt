@@ -1,0 +1,9 @@
+docs/
+public/
+src/sync667/SteamWebApi/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json
+phpunit.xml

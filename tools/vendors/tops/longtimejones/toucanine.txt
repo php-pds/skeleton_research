@@ -1,0 +1,8 @@
+app/
+migrations/
+public/
+src/
+.gitignore
+LICENSE
+README.md
+composer.json

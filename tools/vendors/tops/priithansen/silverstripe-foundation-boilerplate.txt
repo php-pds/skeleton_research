@@ -1,0 +1,10 @@
+css/
+images/
+js/
+scss/
+templates/
+.gitignore
+MIT-LICENSE.txt
+README.md
+composer.json
+config.rb

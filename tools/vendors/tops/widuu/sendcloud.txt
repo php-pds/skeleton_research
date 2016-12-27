@@ -1,0 +1,8 @@
+examples/
+src/
+.DS_Store
+.gitignore
+Config.php
+LICENSE
+README.md
+composer.json

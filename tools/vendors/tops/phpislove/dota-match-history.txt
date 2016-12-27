@@ -1,0 +1,8 @@
+data/
+specs/Spec/Dota/
+src/Dota/
+.gitignore
+composer.json
+phpspec.yml
+readme.md
+todo.md

@@ -1,0 +1,10 @@
+doxy/
+src/Yeah/Fw/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+php.ini
+phpunit.xml

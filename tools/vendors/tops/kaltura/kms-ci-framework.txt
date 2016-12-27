@@ -1,0 +1,10 @@
+KmsCi/
+bin/
+docs/
+js/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json

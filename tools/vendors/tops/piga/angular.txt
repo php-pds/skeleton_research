@@ -1,0 +1,11 @@
+Command/
+Controller/
+DependencyInjection/
+Resources/
+doc/
+.bowerrc
+.gitignore
+PigaAngularBundle.php
+README.md
+bower.json
+composer.json

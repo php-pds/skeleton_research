@@ -1,0 +1,6 @@
+src/Can/
+.gitignore
+INSTALL
+LICENSE
+TODO
+composer.json

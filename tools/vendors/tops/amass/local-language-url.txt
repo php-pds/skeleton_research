@@ -1,0 +1,5 @@
+.gitignore
+Component.php
+README.md
+UrlManager.php
+composer.json

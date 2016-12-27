@@ -1,0 +1,7 @@
+.idea/
+notas/
+src/NGB/
+.gitignore
+LICENSE
+README.md
+composer.json

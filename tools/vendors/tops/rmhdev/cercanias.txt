@@ -1,0 +1,11 @@
+examples/
+src/Cercanias/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+NOTES.md
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

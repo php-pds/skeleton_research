@@ -1,0 +1,16 @@
+example/
+site/
+src/
+test/
+.editorconfig
+.gitignore
+.gitmodules
+.jshintrc
+Gruntfile.js
+LICENSE
+README.md
+bower.json
+component.json
+composer.json
+emulatetab.jquery.json
+package.json

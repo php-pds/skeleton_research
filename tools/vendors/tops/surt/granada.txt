@@ -1,0 +1,7 @@
+src/Granada/
+tests/
+.scrutinizer.yml
+.travis.yml
+README.markdown
+composer.json
+phpunit.xml

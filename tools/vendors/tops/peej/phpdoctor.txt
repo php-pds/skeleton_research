@@ -1,0 +1,16 @@
+classes/
+doclets/
+examples/
+formatters/
+tests/
+.gitignore
+.travis.yml
+COPYING
+PHPDoctor.Tags.html
+PHPDoctor.html
+README
+README.md
+composer.json
+phpdoc
+phpdoc.php
+phpdoctor.ini

@@ -1,0 +1,7 @@
+Examples/
+MailChimp/
+.gitignore
+composer.json
+composer.phar
+mit-license.md
+readme.md

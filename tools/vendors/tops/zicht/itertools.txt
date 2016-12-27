@@ -1,0 +1,8 @@
+src/Zicht/Itertools/
+tests/Zicht/ItertoolsTest/
+.gitignore
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist
+z2.yml

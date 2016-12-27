@@ -1,0 +1,11 @@
+.settings/
+App/
+Cache/
+Elegant/src/
+public/
+.buildpath
+.gitignore
+.project
+README.md
+composer.json
+composer.lock

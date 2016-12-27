@@ -1,0 +1,9 @@
+DependencyInjection/
+Exception/
+Message/
+Resources/config/
+Service/
+Transport/
+NotrixMailerloopBundle.php
+README.md
+composer.json

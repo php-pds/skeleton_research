@@ -1,0 +1,6 @@
+lib/Ashrey/Gettext/
+tests/
+.gitignore
+README.md
+autoload.php
+composer.json

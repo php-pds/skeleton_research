@@ -1,0 +1,8 @@
+bin/
+examples/
+src/Assetix/
+.gitignore
+README.md
+bootstrap.php
+composer.json
+package.json

@@ -1,0 +1,10 @@
+lib/
+partials/
+vendor/
+README.md
+add.php
+admin.php
+composer.json
+index.php
+modify.php
+news.php

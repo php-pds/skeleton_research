@@ -1,0 +1,13 @@
+code/
+docs/en/
+thirdparty/
+.editorconfig
+.gitattributes
+.scrutinizer.yml
+CHANGELOG
+LICENCE
+README.md
+VERSION
+_config.php
+code-of-conduct.md
+composer.json

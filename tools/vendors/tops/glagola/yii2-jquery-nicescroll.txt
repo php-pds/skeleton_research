@@ -1,0 +1,4 @@
+.gitignore
+JQueryNiceScrollAsset.php
+README.md
+composer.json

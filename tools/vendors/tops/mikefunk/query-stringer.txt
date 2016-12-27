@@ -1,0 +1,9 @@
+src/MikeFunk/QueryStringer/
+tests/MikeFunk/QueryStringer/Tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml

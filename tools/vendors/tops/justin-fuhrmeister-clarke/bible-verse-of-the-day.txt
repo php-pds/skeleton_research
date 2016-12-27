@@ -1,0 +1,6 @@
+Controller/
+Resources/
+LICENSE
+README.md
+VerseOfDayBundle.php
+composer.json

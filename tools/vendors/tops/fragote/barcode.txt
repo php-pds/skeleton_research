@@ -1,0 +1,8 @@
+.gitignore
+README.md
+barcodes.php
+composer.json
+datamatrix.php
+index.php
+pdf417.php
+qrcode.php

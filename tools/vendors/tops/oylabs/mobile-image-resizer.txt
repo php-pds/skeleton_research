@@ -1,0 +1,9 @@
+.idea/
+Ant/ImageResizeBundle/
+Avalanche/Bundle/ImagineBundle/
+ChatBundle-master/
+DCS/DynamicDiscriminatorMapBundle/
+Olabs/MIRBundle/
+.gitignore
+README.md
+composer.json

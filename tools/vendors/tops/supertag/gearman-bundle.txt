@@ -1,0 +1,13 @@
+Command/
+DependencyInjection/
+Event/
+Resources/
+Tests/
+.gitignore
+.travis.yml
+Client.php
+README.md
+SupertagGearmanBundle.php
+Workload.php
+composer.json
+phpunit.xml.dist

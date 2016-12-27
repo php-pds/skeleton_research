@@ -1,0 +1,6 @@
+Classes/Portachtzig/Tutorials/
+Configuration/
+Documentation/
+Resources/Private/
+Tests/Unit/Domain/Model/
+composer.json

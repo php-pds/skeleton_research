@@ -1,0 +1,14 @@
+DependencyInjection/
+Resources/config/
+Service/
+Tests/
+Twig/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CHANGELOG.md
+FlagbitCurrencyBundle.php
+LICENSE.txt
+README.md
+composer.json
+phpunit.xml.dist

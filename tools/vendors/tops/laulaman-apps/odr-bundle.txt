@@ -1,0 +1,17 @@
+.idea/
+Api/
+Command/
+DependencyInjection/
+Model/Domain/
+Resources/config/
+Tests/
+.gitignore
+.travis.yml
+LauLamanAppsOdrBundle.php
+api_details.dist.php
+composer.json
+composer.lock
+licence.md
+phpunit.bootstrap.php
+phpunit.xml.dist
+readme.md

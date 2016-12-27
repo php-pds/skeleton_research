@@ -1,0 +1,9 @@
+Composer/
+Controller/
+DependencyInjection/
+Resources/
+Signup/
+.gitignore
+LICENSE
+MahangoSignupBundle.php
+composer.json

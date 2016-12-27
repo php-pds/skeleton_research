@@ -1,0 +1,5 @@
+src/SimonStamm/LaravelPjax/
+.gitignore
+composer.json
+licence
+readme.md

@@ -1,0 +1,8 @@
+src/Deepomatic/
+Deepomatic.php
+LICENSE
+Makefile
+README.md
+VERSION
+composer.json
+demo.php

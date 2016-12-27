@@ -1,0 +1,9 @@
+DependencyInjection/
+Extensions/
+Form/
+Resources/
+.gitignore
+LICENSE
+README.md
+StarRatingBundle.php
+composer.json

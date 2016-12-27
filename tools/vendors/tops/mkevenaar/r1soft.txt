@@ -1,0 +1,13 @@
+src/Mkevenaar/R1Soft/
+tests/
+.gitattributes
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+build.xml
+composer.json
+phpconfig.ini
+phpdox.xml
+phpunit.xml

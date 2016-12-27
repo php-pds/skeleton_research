@@ -1,0 +1,4 @@
+src/MtGox/
+.gitignore
+README.md
+composer.json

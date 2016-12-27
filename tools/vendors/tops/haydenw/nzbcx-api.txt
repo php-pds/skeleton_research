@@ -1,0 +1,7 @@
+certs/
+lib/
+.gitignore
+LICENSE
+README.md
+composer.json
+examples.php

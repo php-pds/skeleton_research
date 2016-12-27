@@ -1,0 +1,6 @@
+include/
+composer.json
+minit.php
+readme.md
+screenshot-1.png
+screenshot-2.png

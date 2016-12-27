@@ -1,0 +1,6 @@
+demos/example1/
+lib/SlimAnnotation/Mapping/
+.gitignore
+LICENSE
+README.md
+composer.json

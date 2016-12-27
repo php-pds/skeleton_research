@@ -1,0 +1,5 @@
+tests/
+README
+composer.json
+kashflow.php
+phpunit.xml

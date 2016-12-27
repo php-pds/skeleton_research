@@ -1,0 +1,4 @@
+src/Comscore/MyMetrix/
+.gitignore
+README.md
+composer.json

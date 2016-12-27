@@ -1,0 +1,4 @@
+LICENSE
+NissanConnect.class.php
+README.md
+composer.json

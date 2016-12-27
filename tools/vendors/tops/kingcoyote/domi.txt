@@ -1,0 +1,4 @@
+src/Domi/
+LICENSE
+README.md
+composer.json

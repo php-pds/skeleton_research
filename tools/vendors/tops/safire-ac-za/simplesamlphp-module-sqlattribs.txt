@@ -1,0 +1,7 @@
+lib/Auth/Process/
+.editorconfig
+.travis.yml
+LICENSE
+README.md
+composer.json
+default-enable

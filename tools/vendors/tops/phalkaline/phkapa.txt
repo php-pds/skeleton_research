@@ -1,0 +1,16 @@
+app/
+lib/
+plugins/
+.gitignore
+.gitmodules
+.htaccess
+CONTRIBUTING.md
+LICENSE.txt
+PHKAPA.README
+README.md
+SUPPORT.README
+UPDATE.README
+VERSION.txt
+composer.json
+index.php
+web.config

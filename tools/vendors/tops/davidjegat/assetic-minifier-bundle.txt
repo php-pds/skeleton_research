@@ -1,0 +1,12 @@
+AsseticFilter/
+DependencyInjection/
+Minifier/
+Resources/config/
+Tests/
+.gitignore
+.travis.yml
+DavidJegatAsseticMinifierBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

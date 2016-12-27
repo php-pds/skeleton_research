@@ -1,0 +1,4 @@
+src/Deluxe/DeluxeBundle/
+LICENSE
+README.md
+composer.json

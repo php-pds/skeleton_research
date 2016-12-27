@@ -1,0 +1,6 @@
+src/Mesa/ServiceContainer/
+tests/
+.gitignore
+README.md
+composer.json
+phpunit.xml.dist

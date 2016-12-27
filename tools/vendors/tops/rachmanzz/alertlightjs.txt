@@ -1,0 +1,7 @@
+.idea/
+dist/
+LICENSE
+README.md
+bower.json
+composer.json
+package.json

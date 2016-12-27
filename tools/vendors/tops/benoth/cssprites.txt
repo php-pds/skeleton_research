@@ -1,0 +1,17 @@
+bin/
+config/
+src/
+tests/
+.editorconfig
+.gitattributes
+.gitignore
+.php_cs
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+RoboFile.php
+composer.json
+composer.lock
+phpunit.xml
+sami-config.inc.php

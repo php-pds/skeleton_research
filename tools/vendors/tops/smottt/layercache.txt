@@ -1,0 +1,10 @@
+lib/
+test/
+.gitignore
+CHANGELOG.md
+GNU-GPL
+GNU-LGPL
+LICENSE
+README
+composer.json
+composer.lock

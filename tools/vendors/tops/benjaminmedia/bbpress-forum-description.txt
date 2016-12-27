@@ -1,0 +1,3 @@
+src/bbPress/ForumDescription/Admin/
+bbpress-forum-description.php
+composer.json

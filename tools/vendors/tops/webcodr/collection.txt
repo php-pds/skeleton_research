@@ -1,0 +1,11 @@
+doc/
+src/Collection/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+circle.yml
+composer.json
+createdoc.sh
+phpunit.xml

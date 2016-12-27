@@ -1,0 +1,5 @@
+samples/migrations/
+src/Sociavel/
+.gitignore
+README.md
+composer.json

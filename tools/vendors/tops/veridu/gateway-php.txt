@@ -1,0 +1,4 @@
+src/Veridu/Gateway/
+.gitignore
+README.md
+composer.json

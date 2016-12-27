@@ -1,0 +1,15 @@
+.idea/
+css/
+flash/
+img/
+js/
+lib/
+socket/
+sounds/
+src/
+changelog.txt
+chat.sql
+composer.json
+index.php
+license.txt
+readme.html

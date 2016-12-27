@@ -1,0 +1,13 @@
+Command/Sonata/Admin/
+DependencyInjection/
+Doctrine/Entity/
+Generator/
+Resources/
+Tests/
+.gitignore
+.travis.yml
+MaxmodeGeneratorBundle.php
+README.md
+build.sh
+composer.json
+run_tests.sh

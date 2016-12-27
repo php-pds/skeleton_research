@@ -1,0 +1,4 @@
+lib/
+Detect.php
+README.md
+composer.json

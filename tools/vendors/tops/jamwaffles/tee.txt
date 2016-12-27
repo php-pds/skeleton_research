@@ -1,0 +1,7 @@
+Tee/
+example_translations/
+.gitignore
+README.md
+composer.json
+composer.phar
+test.php

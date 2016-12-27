@@ -1,0 +1,17 @@
+bin/
+etc/
+pub/
+skin/
+src/ctubio/HKPProxy/
+test/
+.gitignore
+.gitmodules
+.travis.yml
+CONTRIBUTING
+COPYING
+Makefile
+README.md
+THANKS
+TODO
+composer.json
+composer.lock

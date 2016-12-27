@@ -1,0 +1,9 @@
+documnet/
+LICENSE
+README.md
+composer.json
+db.sql
+example.php
+example_save_image.php
+example_show_image.php
+img2db_pdo.class.php

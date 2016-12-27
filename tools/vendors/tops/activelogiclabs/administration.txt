@@ -1,0 +1,10 @@
+src/
+vendor/
+.bowerrc
+.gitignore
+README.md
+bower.json
+composer.json
+elixir-extensions.js
+gulpfile.js
+package.json

@@ -1,0 +1,10 @@
+AttributeType/
+DependencyInjection/
+Provider/Field/
+Reader/
+Resources/
+Validator/
+.gitignore
+LavowebWarehouseAttributeBundle.php
+README.md
+composer.json

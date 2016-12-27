@@ -1,0 +1,6 @@
+Controller/
+DependencyInjection/
+Resources/
+OpenIziJsonWebProfilerBundle.php
+README.md
+composer.json

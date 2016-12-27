@@ -1,0 +1,11 @@
+docs/
+src/Pirate/Hooray/
+tests/
+.gitignore
+.travis.yml
+Makefile
+composer.json
+composer.yaml
+phpcs
+phpdoc
+phpunit

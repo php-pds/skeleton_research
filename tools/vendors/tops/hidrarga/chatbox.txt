@@ -1,0 +1,11 @@
+bin/
+css/
+js/
+locales/
+src/ChatBox/
+.gitattributes
+.gitignore
+README.md
+bower.json
+composer.json
+index.html

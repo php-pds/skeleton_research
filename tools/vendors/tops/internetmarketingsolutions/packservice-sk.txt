@@ -1,0 +1,9 @@
+src/InternetMarketingSolutions/PackserviceSk/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+index.php
+phpunit.xml.dist

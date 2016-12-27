@@ -1,0 +1,7 @@
+helper/
+.gitignore
+CApplication.php
+CController.php
+CView.php
+Tita.php
+composer.json

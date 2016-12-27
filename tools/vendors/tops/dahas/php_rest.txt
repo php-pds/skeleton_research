@@ -1,0 +1,7 @@
+src/
+.gitignore
+LICENSE
+README.md
+api.php
+composer.json
+composer.lock

@@ -1,0 +1,6 @@
+config/
+extensions/
+tests/cases/extensions/storage/
+views/elements/
+README.md
+composer.json

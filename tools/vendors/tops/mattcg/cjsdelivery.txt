@@ -1,0 +1,11 @@
+bin/
+examples/
+src/MattCG/cjsDelivery/
+tests/
+.coveralls.yml
+.gitignore
+.travis.yml
+Makefile
+README.md
+cjsDelivery.php
+composer.json

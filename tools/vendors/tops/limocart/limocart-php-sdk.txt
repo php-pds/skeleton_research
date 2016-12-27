@@ -1,0 +1,5 @@
+examples/
+src/LimocartPhpSdk/
+.gitignore
+README
+composer.json

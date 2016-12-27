@@ -1,0 +1,11 @@
+assets/
+public/
+src/
+tests/
+.gitignore
+.travis.yml
+README.md
+bower.json
+composer.json
+gulpfile.js
+phpunit.xml

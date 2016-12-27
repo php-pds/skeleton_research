@@ -1,0 +1,5 @@
+src/PHP_Pjaxr/
+.gitignore
+LICENSE
+README.md
+composer.json

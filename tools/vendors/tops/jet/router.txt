@@ -1,0 +1,8 @@
+Tests/
+lib/Jet/Router/
+.travis.yml
+LICENCE
+README.markdown
+autoload.dist.php
+composer.json
+phpunit.xml.dist

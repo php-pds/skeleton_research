@@ -1,0 +1,14 @@
+lib/
+locales/
+test/Phaker/
+vendor/
+.gitignore
+.travis.yml
+Gemfile
+Gemfile.lock
+Guardfile
+LICENSE.txt
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

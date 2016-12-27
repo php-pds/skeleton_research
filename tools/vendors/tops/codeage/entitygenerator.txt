@@ -1,0 +1,10 @@
+Base/
+Command/
+DependencyInjection/
+Entity/
+Manager/
+Resources/config/
+Services/
+EntityGeneratorBundle.php
+README.md
+composer.json

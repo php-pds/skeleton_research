@@ -1,0 +1,6 @@
+Controller/
+Ressources/meta/
+.travis.yml
+IBTableManagerBundle.php
+README.md
+composer.json

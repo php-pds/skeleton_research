@@ -1,0 +1,11 @@
+app/
+bootstrap/
+logs/
+public/
+src/ZigiPhp/
+tmp/
+.gitignore
+.phpstorm.meta.php
+README.md
+composer.json
+generate-phpstorm-helper.php

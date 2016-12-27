@@ -1,0 +1,12 @@
+DependencyInjection/
+PDFGenerator/
+Resources/
+Tests/
+.gitignore
+.travis.yml
+LICENSE
+README.markdown
+SpraedPDFGeneratorBundle.php
+composer.json
+composer.lock
+phpunit.xml.dist

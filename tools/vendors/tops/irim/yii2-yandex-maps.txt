@@ -1,0 +1,8 @@
+views/
+.gitattributes
+.gitignore
+LICENSE
+README.md
+YandexMaps.php
+YandexMapsAsset.php
+composer.json

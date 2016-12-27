@@ -1,0 +1,7 @@
+Tests/
+.editorconfig
+.gitignore
+Dispatcher.php
+Event.php
+composer.json
+phpunit.xml.dist

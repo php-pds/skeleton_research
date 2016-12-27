@@ -1,0 +1,14 @@
+DependencyInjection/
+Form/Type/
+Resources/
+Tests/
+Utils/
+Validator/Constraints/
+.codeclimate.yml
+.gitignore
+.travis.yml
+AnysrvRecaptchaBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

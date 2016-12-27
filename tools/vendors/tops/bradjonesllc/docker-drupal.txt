@@ -1,0 +1,13 @@
+.idea-dist/
+config/
+scripts/
+.dockerignore
+.envrc
+.gitignore
+Dockerfile
+Dockerfile.php5
+Dockerfile.php7
+LICENSE
+README.md
+composer.json
+docker-compose.yml

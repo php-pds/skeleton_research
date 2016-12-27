@@ -1,0 +1,17 @@
+.settings/
+Command/
+Controller/
+DependencyInjection/
+Dumper/
+Entity/
+Loader/
+Resources/
+Tests/Controller/
+Yaml/
+.buildpath
+.gitignore
+.project
+LICENSE
+README.md
+WebTranslatorBundle.php
+composer.json

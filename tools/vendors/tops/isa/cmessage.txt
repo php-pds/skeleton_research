@@ -1,0 +1,12 @@
+report/
+src/CMessage/
+test/
+webroot/css/
+.gitattributes
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE.txt
+README.md
+autoloader.php
+composer.json

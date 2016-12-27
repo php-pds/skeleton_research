@@ -1,0 +1,8 @@
+Avantgarde/ShopwareCLI/
+config/
+tmp/
+.gitignore
+LICENSE.md
+README.md
+composer.json
+sw

@@ -1,0 +1,4 @@
+src/Hydrator/
+.gitignore
+LICENSE
+composer.json

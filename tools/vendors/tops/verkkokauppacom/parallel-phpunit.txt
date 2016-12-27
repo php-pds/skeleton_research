@@ -1,0 +1,6 @@
+bin/
+example/
+tests/
+README.md
+composer.json
+release

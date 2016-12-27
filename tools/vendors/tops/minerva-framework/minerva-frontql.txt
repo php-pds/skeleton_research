@@ -1,0 +1,8 @@
+src/FrontQL/Adapter/
+tests/Tests/FrontQL/Adapter/
+.gitignore
+README.md
+composer.json
+composer.lock
+composer.phar
+phpunit.xml

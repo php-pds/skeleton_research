@@ -1,0 +1,9 @@
+nbproject/
+src/
+tests/
+translations/
+.gitignore
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

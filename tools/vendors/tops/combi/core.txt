@@ -1,0 +1,8 @@
+nbproject/
+src/
+tests/
+.gitignore
+LICENSE
+README.md
+chord
+composer.json

@@ -1,0 +1,4 @@
+src/Rezzza/Flickr/
+.gitignore
+README.md
+composer.json

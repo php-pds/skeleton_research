@@ -1,0 +1,10 @@
+fixture/locale/
+locale/
+src/
+tests/
+CONTRIBUTING.md
+LICENSE
+README.md
+README_pt_BR.md
+composer.json
+phpunit.xml.dist

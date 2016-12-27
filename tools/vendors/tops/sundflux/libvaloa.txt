@@ -1,0 +1,5 @@
+src/Libvaloa/
+.vendor.png
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,4 @@
+examples/
+src/Updashd/Scheduler/
+.gitignore
+composer.json

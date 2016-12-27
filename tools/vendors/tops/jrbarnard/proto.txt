@@ -1,0 +1,12 @@
+App/
+content/
+public/
+templates/
+.env.example
+.gitignore
+CHANGELOG.md
+LICENSE
+composer.json
+proto
+readme.md
+structure.json

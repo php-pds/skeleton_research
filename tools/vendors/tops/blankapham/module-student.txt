@@ -1,0 +1,10 @@
+Api/
+Block/
+Controller/
+Model/
+Plugin/
+Setup/
+etc/
+view/frontend/
+composer.json
+registration.php

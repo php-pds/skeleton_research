@@ -1,0 +1,10 @@
+build/
+docs/
+lib/Doctrine/DBAL/
+tests/Doctrine/Tests/
+.gitignore
+LICENSE
+README.md
+build.xml
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,14 @@
+core/
+descriptions/
+lib/Model/
+sns/
+tags/
+.gitignore
+.gitmodules
+CommonModel.php
+LICENSE
+README.md
+composer.json
+composer.lock
+config.json
+test.php

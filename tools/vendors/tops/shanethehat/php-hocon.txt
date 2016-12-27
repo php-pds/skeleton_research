@@ -1,0 +1,9 @@
+features/
+spec/PhpHocon/
+src/PhpHocon/
+.gitignore
+LICENSE
+README.md
+behat.yml
+composer.json
+composer.lock

@@ -1,0 +1,12 @@
+config/
+dist/
+public/assets/
+src/PhpBoletoZf2/
+view/
+.gitignore
+COPYING.md
+CREDITOS.md
+Module.php
+README.md
+ZF2-LICENSE.txt
+composer.json

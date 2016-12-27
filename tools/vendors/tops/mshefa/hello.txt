@@ -1,0 +1,6 @@
+app/
+nbproject/
+vendor/
+.gitignore
+composer.json
+index.php

@@ -1,0 +1,9 @@
+Entity/
+Request/
+Utils/
+.gitignore
+LICENSE
+README.md
+SmartHome.php
+composer.json
+example.php

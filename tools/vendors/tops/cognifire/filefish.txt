@@ -1,0 +1,6 @@
+Classes/Cognifire/Filefish/
+Configuration/
+Resources/Private/
+Tests/Unit/Domain/Model/
+.gitignore
+composer.json

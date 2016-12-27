@@ -1,0 +1,14 @@
+docs/
+lib/
+tests/
+.codeclimate.yml
+.gitignore
+CHANGELOG.md
+LICENSE
+README.md
+VERSION
+composer.json
+init.php
+phpunit.no_autoload.xml
+phpunit.xml
+wercker.yml

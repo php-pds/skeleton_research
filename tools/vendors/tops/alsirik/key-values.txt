@@ -1,0 +1,8 @@
+demo/
+src/AlSirik/KeyValues/
+tests/
+.gitignore
+README.md
+composer.json
+composer.lock
+phpunit.xml

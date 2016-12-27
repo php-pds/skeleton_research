@@ -1,0 +1,12 @@
+bin/
+src/
+tests/CSD/PhpDocToReturn/Tests/
+.gitattributes
+.gitignore
+.travis.yml
+LICENSE
+README.md
+autoload.php.dist
+composer.json
+composer.lock
+phpunit.xml.dist

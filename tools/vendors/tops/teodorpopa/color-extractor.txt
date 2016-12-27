@@ -1,0 +1,10 @@
+src/TeodorPopa/ColorExtractor/
+tests/
+.coveralls.yml
+.gitignore
+.travis.yml
+Gemfile
+LICENSE
+README.md
+composer.json
+phpunit.xml

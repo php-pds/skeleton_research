@@ -1,0 +1,7 @@
+messageCrypt/
+mp/
+LICENSE
+MessageCrypt.php
+MpWechat.php
+README.md
+composer.json

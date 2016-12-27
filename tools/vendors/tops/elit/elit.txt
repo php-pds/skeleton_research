@@ -1,0 +1,10 @@
+application/
+assets/
+nbproject/
+system/
+.gitignore
+.htaccess
+LICENSE
+README.md
+composer.json
+index.php

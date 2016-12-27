@@ -1,0 +1,7 @@
+src/Weheartwebsites/
+.gitattributes
+.gitignore
+LICENSE
+README.md
+composer.json
+example.php

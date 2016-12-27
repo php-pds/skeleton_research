@@ -1,0 +1,10 @@
+DependencyInjection/
+Resources/config/
+Tests/
+Twig/
+.gitignore
+.travis.yml
+README.md
+SPEFilesizeExtensionBundle.php
+composer.json
+phpunit.xml

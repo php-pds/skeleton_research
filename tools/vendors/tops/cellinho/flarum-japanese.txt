@@ -1,0 +1,12 @@
+locale/
+.codeclimate.yml
+.editorconfig
+.eslintrc
+.gitattributes
+.gitignore
+.scrutinizer.yml
+.styleci.yml
+README.md
+bootstrap.php
+composer.json
+icon.svg

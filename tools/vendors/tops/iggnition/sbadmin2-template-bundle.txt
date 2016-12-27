@@ -1,0 +1,6 @@
+DependencyInjection/
+Resources/
+LICENSE
+README.md
+composer.json
+iggnitionSBAdmin2Bundle.php

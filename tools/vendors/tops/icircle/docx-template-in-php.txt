@@ -1,0 +1,9 @@
+doc/
+src/Template/
+tests/Template/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

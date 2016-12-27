@@ -1,0 +1,7 @@
+com/checkout/
+test/
+.gitignore
+LICENSE
+README.md
+autoload.php
+composer.json

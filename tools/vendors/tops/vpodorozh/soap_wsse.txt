@@ -1,0 +1,4 @@
+SoapWsse/
+.gitignore
+README.md
+composer.json

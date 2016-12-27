@@ -1,0 +1,6 @@
+src/
+test/
+.gitignore
+MIT-LICENSE.txt
+composer.json
+readme.md

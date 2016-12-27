@@ -1,0 +1,15 @@
+Definition/
+DependencyInjection/
+Entity/
+Event/
+Model/
+Repository/
+Resources/config/
+Service/
+Tests/
+.gitignore
+.travis.yml
+LazyantsWorkflowBundle.php
+README.md
+composer.json
+phpunit.xml.dist

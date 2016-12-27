@@ -1,0 +1,10 @@
+config/
+src/Zf2GithubApi/
+tests/
+.gitignore
+.travis.yml
+LICENCE
+Module.php
+README.md
+autoload_classmap.php
+composer.json

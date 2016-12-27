@@ -1,0 +1,14 @@
+examples/
+src/
+.coveralls.yml
+.gitattributes
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+appveyor.yml
+composer.json
+composer.lock
+phpdoc.dist.xml
+phpunit.xml.dist

@@ -1,0 +1,8 @@
+src/Contract/
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+composer.json
+phpunit.xml
+readme.md

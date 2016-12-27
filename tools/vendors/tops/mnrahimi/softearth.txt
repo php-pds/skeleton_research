@@ -1,0 +1,9 @@
+database/
+src/SoftEarth/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+softearth

@@ -1,0 +1,6 @@
+Classes/PackageFactory/AtomicFusion/TypoScriptObjects/
+Configuration/
+Resources/Private/TypoScript/
+LICENSE
+README.md
+composer.json

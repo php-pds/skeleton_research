@@ -1,0 +1,8 @@
+parallelphpunit/
+.gitignore
+.travis.yml
+README.rst
+composer.json
+parallel-phpunit
+requirements-test.txt
+setup.py

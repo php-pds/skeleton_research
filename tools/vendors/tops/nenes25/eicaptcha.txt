@@ -1,0 +1,14 @@
+lib/
+upgrade/
+views/
+README.md
+changelog.txt
+composer.json
+eicaptcha-ajax.php
+eicaptcha.php
+fr.php
+index.php
+install-productcomments.md
+install-sendtoafriend.md
+logo.gif
+logo.png

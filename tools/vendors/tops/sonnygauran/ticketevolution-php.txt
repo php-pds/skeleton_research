@@ -1,0 +1,9 @@
+src/
+.gitattributes
+.gitignore
+CHANGELOG.md
+CONTRIBUTING.md
+Documentation.md
+LICENSE.md
+README.md
+composer.json

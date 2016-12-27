@@ -1,0 +1,9 @@
+src/goliatone/events/
+tests/
+.gitignore
+.project
+.travis.yml
+LICENSE-MIT
+README.md
+composer.json
+sage.config

@@ -1,0 +1,5 @@
+lib/Xbox/
+.gitignore
+README
+composer.json
+example.php

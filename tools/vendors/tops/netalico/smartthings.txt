@@ -1,0 +1,10 @@
+public/
+src/
+tests/
+.gitignore
+.travis.yml
+README.md
+app.groovy
+composer.json
+license.txt
+phpunit.xml

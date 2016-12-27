@@ -1,0 +1,4 @@
+src/SMartinsAlmeida/
+.gitignore
+README.md
+composer.json

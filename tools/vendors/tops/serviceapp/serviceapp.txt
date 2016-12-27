@@ -1,0 +1,7 @@
+public/
+src/
+tests/
+vendor/
+composer.json
+composer.lock
+phpunit.xml

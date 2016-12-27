@@ -1,0 +1,6 @@
+Avada 3.8.6/
+.gitignore
+LICENSE
+README.md
+composer.json
+index.php

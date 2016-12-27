@@ -1,0 +1,3 @@
+README.md
+StaratingWidget.php
+composer.json

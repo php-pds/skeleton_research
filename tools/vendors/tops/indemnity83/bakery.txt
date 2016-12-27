@@ -1,0 +1,10 @@
+cookbooks/bakery/
+librarian/
+src/
+.gitattributes
+.gitignore
+Vagrantfile
+bakery
+composer.json
+composer.lock
+readme.md

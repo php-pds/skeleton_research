@@ -1,0 +1,16 @@
+API/
+Command/
+Controller/
+DependencyInjection/
+Form/
+Plugin/
+Resources/
+Templating/
+Tests/Templating/
+.gitignore
+.travis.yml
+CHANGELOG.md
+MemeoirsPaymillBundle.php
+README.md
+composer.json
+phpunit.xml.dist

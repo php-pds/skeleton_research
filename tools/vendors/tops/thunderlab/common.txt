@@ -1,0 +1,6 @@
+src/Common/Traits/
+.gitignore
+composer.json
+composer.lock
+index.php
+readme.md

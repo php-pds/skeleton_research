@@ -1,0 +1,4 @@
+Entity/
+.gitignore
+README.md
+composer.json

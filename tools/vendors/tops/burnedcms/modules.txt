@@ -1,0 +1,10 @@
+build/
+src/BurnedCMS/
+tests/
+.gitignore
+.styleci.yml
+.travis.yml
+LICENSE.md
+README.md
+composer.json
+phpunit.xml

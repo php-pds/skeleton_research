@@ -1,0 +1,8 @@
+bin/
+src/DynamoQueue/
+tests/DynamoQueue/Processors/
+.gitignore
+LICENSE
+README.md
+Vagrantfile
+composer.json

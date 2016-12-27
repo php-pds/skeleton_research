@@ -1,0 +1,7 @@
+apps/
+config/
+public/
+swallow/
+README.md
+bootstrap.php
+composer.json

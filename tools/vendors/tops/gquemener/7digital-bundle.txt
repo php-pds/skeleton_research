@@ -1,0 +1,7 @@
+DependencyInjection/
+Resources/config/
+.gitignore
+LICENSE.md
+README.md
+SevenDigitalBundle.php
+composer.json

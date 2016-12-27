@@ -1,0 +1,7 @@
+src/pbalan/CarouselBuilder/
+tests/
+web/
+LICENSE.md
+README.md
+autoload.php
+composer.json

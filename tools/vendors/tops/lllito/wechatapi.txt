@@ -1,0 +1,7 @@
+.settings/
+wechatapi/
+.buildpath
+.project
+LICENSE.md
+README.md
+composer.json

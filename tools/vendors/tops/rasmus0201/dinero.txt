@@ -1,0 +1,6 @@
+config/
+src/Dinero/Api/
+.gitignore
+LICENSE
+README.md
+composer.json

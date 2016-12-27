@@ -1,0 +1,5 @@
+src/InfluxDBHandler/
+.gitignore
+.travis.yml
+README.md
+composer.json

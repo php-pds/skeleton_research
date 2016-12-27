@@ -1,0 +1,7 @@
+dev/
+src/
+.debug-credentials.example
+.gitignore
+composer.json
+debug.php
+readme.md

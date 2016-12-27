@@ -1,0 +1,7 @@
+Ginger/Client/
+.gitignore
+README.md
+SplClassLoader.php
+TERENA_SSL_CA.pem
+autoload.php
+composer.json

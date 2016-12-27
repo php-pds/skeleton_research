@@ -1,0 +1,13 @@
+mocks/
+src/
+tests/
+.codeclimate.yml
+.coveralls.yml
+.gitattributes
+.gitignore
+.travis.yml
+LICENSE.md
+README.md
+apigen.neon
+composer.json
+phpunit.xml

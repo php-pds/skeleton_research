@@ -1,0 +1,17 @@
+.idea/
+docs/
+lib/
+static/
+tests/
+.codeclimate.yml
+.gitignore
+.travis.yml
+CONTRIBUTING.md
+LICENSE.md
+README.md
+Vagrantfile
+composer.json
+composer.lock
+phpunit.dist.xml
+phpunit.php
+phpunit.xml

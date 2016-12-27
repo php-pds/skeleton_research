@@ -1,0 +1,10 @@
+src/Bradleyboy/Util/
+test/
+.gitignore
+.travis.yml
+LICENSE
+Readme.md
+composer.json
+package.json
+phpunit.xml.dist
+range-converter.js

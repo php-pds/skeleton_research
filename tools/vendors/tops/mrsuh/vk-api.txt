@@ -1,0 +1,3 @@
+Mrsuh/VkApiBundle/
+README.md
+composer.json

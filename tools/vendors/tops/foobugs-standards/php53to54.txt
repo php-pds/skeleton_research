@@ -1,0 +1,10 @@
+Sniffs/
+tests/
+.gitattributes
+.travis.yml
+AbstractSniff.php
+FEATURES.md
+LICENCE
+README.md
+composer.json
+ruleset.xml

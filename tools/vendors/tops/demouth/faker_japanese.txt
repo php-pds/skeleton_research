@@ -1,0 +1,3 @@
+src/Faker/
+README.md
+composer.json

@@ -1,0 +1,7 @@
+.idea/
+src/
+tests/fwk/
+.gitignore
+composer.json
+composer.lock
+phpunit.xml

@@ -1,0 +1,15 @@
+Configuration/
+Exception/
+Mapper/
+Metadata/
+Repository/
+Tests/
+Tools/
+.gitignore
+.travis.yml
+Configuration.php
+EntityManager.php
+EntityManagerInterface.php
+README.md
+composer.json
+phpunit.xml.dist

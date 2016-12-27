@@ -1,0 +1,12 @@
+nbproject/
+src/
+test/
+.codeclimate.yml
+.gitignore
+.php_cs
+.travis.yml
+CHANGELOG.md
+README.md
+composer.json
+composer.lock
+phpunit.xml

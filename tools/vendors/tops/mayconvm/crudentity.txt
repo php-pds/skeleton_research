@@ -1,0 +1,8 @@
+bin/
+config/
+src/CrudEntity/
+view/crud-entity/
+LICENSE
+Module.php
+README.md
+composer.json

@@ -1,0 +1,10 @@
+config/
+src/Signalert/
+tests/
+.gitignore
+.signalert.yml.dist
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml

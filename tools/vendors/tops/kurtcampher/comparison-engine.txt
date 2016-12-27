@@ -1,0 +1,5 @@
+src/ComparisonEngine/
+tests/
+vendor/
+composer.json
+composer.lock

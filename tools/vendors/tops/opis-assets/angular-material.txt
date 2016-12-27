@@ -1,0 +1,8 @@
+.gitignore
+LICENSE
+README.md
+angular-material.css
+angular-material.js
+angular-material.min.css
+angular-material.min.js
+composer.json

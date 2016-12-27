@@ -1,0 +1,7 @@
+demo/
+src/Wehup/AMI/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock

@@ -1,0 +1,5 @@
+Config/
+CurrencyConverterProvider/
+Readme.md
+TheMoneyConverterExchangeRates.php
+composer.json

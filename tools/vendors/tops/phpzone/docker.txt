@@ -1,0 +1,15 @@
+config/
+docs/
+features/
+integrations/
+spec/
+src/
+.gitignore
+.travis.yml
+CHANGELOG.md
+README.md
+behat.yml
+composer.json
+phpspec.yml
+phpunit.xml
+phpzone.yml

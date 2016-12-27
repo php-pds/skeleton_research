@@ -1,0 +1,4 @@
+src/RedisConnector/
+test/
+README.md
+composer.json

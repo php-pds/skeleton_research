@@ -1,0 +1,5 @@
+bin/
+src/OctoberLanguageComparison/
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,13 @@
+Controller/
+DependencyInjection/
+Entity/
+Event/
+Form/
+Lib/
+Listener/
+Model/
+Resources/
+.gitignore
+YVMultiCurrencyBundle.php
+YVMultiCurrencyEvents.php
+composer.json

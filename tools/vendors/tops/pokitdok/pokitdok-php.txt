@@ -1,0 +1,5 @@
+src/PokitDok/
+.gitignore
+LICENSE.txt
+README.md
+composer.json

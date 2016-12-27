@@ -1,0 +1,7 @@
+bin/
+src/Aptenex/VacayPayum/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock

@@ -1,0 +1,13 @@
+assets/
+components/
+server/
+.gitignore
+Asset.php
+Daemon.php
+README.md
+WampyAsset.php
+composer.json
+composer.lock
+config.php
+daemon
+init

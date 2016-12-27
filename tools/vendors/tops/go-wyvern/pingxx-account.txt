@@ -1,0 +1,14 @@
+js/
+less/
+locale/
+migrations/
+script/
+src/
+.editorconfig
+.eslintignore
+.eslintrc
+.gitignore
+bootstrap.php
+composer.json
+flarum.json
+logo-black.svg

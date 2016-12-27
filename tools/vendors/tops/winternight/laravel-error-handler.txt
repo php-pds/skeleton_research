@@ -1,0 +1,7 @@
+resources/lang/en/
+src/
+.gitignore
+composer.json
+license.md
+readme.md
+screenshot.png

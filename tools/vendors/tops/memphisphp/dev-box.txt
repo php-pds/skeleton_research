@@ -1,0 +1,12 @@
+manifests/
+modules/
+public/
+templates/
+.gitignore
+LICENSE
+README.markdown
+Vagrantfile
+composer.json
+composer.lock
+config.php
+puphpet.json

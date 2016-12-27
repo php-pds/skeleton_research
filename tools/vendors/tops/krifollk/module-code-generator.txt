@@ -1,0 +1,9 @@
+Api/
+Console/Command/
+Model/
+Test/Integration/Generator/
+etc/
+LICENSE
+README.md
+composer.json
+registration.php

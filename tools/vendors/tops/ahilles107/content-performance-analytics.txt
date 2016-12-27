@@ -1,0 +1,14 @@
+DockerConfiguration/
+app/
+bin/
+doc/
+src/
+tests/AppBundle/Controller/
+var/
+web/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

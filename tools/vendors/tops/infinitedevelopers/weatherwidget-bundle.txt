@@ -1,0 +1,9 @@
+Classes/
+DependencyInjection/
+Resources/
+Twig/
+.gitignore
+InfiniteDevelopersWeatherWidgetBundle.php
+LICENSE
+README.md
+composer.json

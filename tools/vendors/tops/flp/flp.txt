@@ -1,0 +1,8 @@
+FLP/
+Phraser/
+default-ui/
+scripts/
+README.md
+composer.json
+composer.lock
+test.php

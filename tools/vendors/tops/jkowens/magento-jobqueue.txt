@@ -1,0 +1,8 @@
+app/
+lib/
+.gitignore
+.gitmodules
+LICENSE.txt
+README.md
+composer.json
+modman

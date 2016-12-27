@@ -1,0 +1,6 @@
+roles/
+vars/
+.gitignore
+README.md
+composer.json
+playbook.yml

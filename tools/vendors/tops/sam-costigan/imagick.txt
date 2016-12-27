@@ -1,0 +1,8 @@
+_config/
+code/
+.DS_Store
+README.md
+README.md~
+_config.php
+composer.json
+composer.json~

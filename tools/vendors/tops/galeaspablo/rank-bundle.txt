@@ -1,0 +1,10 @@
+Model/
+Tests/
+.gitignore
+.styleci.yml
+.travis.yml
+GaleasPabloRankBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,10 @@
+bin/
+lib/
+test/
+.gitignore
+.travis.yml
+LICENSE.md
+README.md
+composer.json
+gh-pages_deploy.sh
+index.html

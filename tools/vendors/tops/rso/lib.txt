@@ -1,0 +1,3 @@
+src/Rso/StdClass/
+README.md
+composer.json

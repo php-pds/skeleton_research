@@ -1,0 +1,14 @@
+Config/
+Console/
+Controller/
+Lib/Bancha/
+Model/
+Test/
+_app/webroot/
+_sencha/
+webroot/
+README.md
+UPDATE_INFO.md
+VERSION.txt
+composer.json
+license.txt

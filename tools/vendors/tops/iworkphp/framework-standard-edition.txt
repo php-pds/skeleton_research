@@ -1,0 +1,11 @@
+app/
+bin/
+framework/
+www/
+.gitattributes
+.gitignore
+.htaccess
+.scrutinizer.yml
+.travis.yml
+README.md
+composer.json

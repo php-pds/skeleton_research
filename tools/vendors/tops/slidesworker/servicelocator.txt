@@ -1,0 +1,12 @@
+example/
+library/SlidesWorker/ServiceLocator/
+tests/
+vendor/
+.coveralls.yml
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+build.xml
+composer.json

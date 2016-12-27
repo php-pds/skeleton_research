@@ -1,0 +1,13 @@
+src/
+tests/Yamm/
+vendor/
+.gitignore
+.gitlab-ci.yml
+LICENSE
+changelog.txt
+composer.json
+composer.lock
+marmalade.jpg
+metadata.php
+phpunit.xml
+readme.md

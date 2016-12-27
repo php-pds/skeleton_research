@@ -1,0 +1,8 @@
+assets/
+behaviors/
+widgets/
+.gitignore
+LICENSE.txt
+README.md
+YiiWheels.php
+composer.json

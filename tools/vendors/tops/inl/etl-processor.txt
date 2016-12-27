@@ -1,0 +1,11 @@
+example/
+lib/INL/ETL/
+spec/INL/ETL/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+contributors.txt
+phpspec-code_coverage.yml
+phpspec.yml

@@ -1,0 +1,7 @@
+ApiException/
+ApiResponse/
+Command/
+HCHNormalizedRestApiBundle.php
+LICENSE
+README.md
+composer.json

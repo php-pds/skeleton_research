@@ -1,0 +1,5 @@
+src/HTMLDOMParser/
+.gitignore
+LICENSE
+README.md
+composer.json

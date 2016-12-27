@@ -1,0 +1,9 @@
+spec/AnasT/Validation/
+src/AnasT/Validation/
+tests/
+.gitignore
+.travis.yml
+README.md
+composer.json
+phpspec.yml
+phpunit.xml

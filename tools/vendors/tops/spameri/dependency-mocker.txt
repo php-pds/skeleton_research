@@ -1,0 +1,6 @@
+src/Spamer/DependencyMocker/
+tests/
+.gitattributes
+.gitignore
+README.md
+composer.json

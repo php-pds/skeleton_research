@@ -1,0 +1,6 @@
+assets/
+src/hathoora/
+tests/
+CHANGELOG.txt
+README.md
+composer.json

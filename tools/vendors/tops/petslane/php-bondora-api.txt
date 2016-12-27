@@ -1,0 +1,7 @@
+src/
+tests/
+LICENSE
+README.md
+bondoraApi.php
+composer.json
+phpunit.xml

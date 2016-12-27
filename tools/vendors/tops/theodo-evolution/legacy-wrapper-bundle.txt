@@ -1,0 +1,15 @@
+Autoload/
+Command/
+DependencyInjection/
+EventListener/
+Exception/
+HttpKernel/
+Kernel/
+Resources/
+Tests/
+.gitignore
+.travis.yml
+README.md
+TheodoEvolutionLegacyWrapperBundle.php
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,9 @@
+Sniffs/PHP/
+Tests/
+.coveralls.yml
+.travis.yml
+README.md
+composer.json
+phpunit-travis.xml
+phpunit.xml
+ruleset.xml

@@ -1,0 +1,6 @@
+DependencyInjection/
+Resources/config/
+MWSClient.php
+README.md
+VlabsAmazonMWSBundle.php
+composer.json

@@ -1,0 +1,8 @@
+examples/
+src/media-post-api/
+.editorconfig
+.gitignore
+CONTRIBUTING.md
+MediaPostApiCodErro.pdf
+README.md
+composer.json

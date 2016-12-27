@@ -1,0 +1,8 @@
+resources/styles/
+src/
+views/
+README.md
+composer.json
+functions.php
+index.php
+style.css

@@ -1,0 +1,7 @@
+src/Swd/Component/
+tests/
+.gitignore
+LICENSE.txt
+composer.json
+phpunit.xml.dist
+readme.md

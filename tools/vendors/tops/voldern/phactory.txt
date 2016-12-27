@@ -1,0 +1,6 @@
+bin/
+examples/
+library/Phactory/
+.gitignore
+README.md
+composer.json

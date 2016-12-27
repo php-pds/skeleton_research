@@ -1,0 +1,13 @@
+.idea/
+examples/
+src/Ko/
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+composer.json
+ko
+ko-package
+phpunit.xml

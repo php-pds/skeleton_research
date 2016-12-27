@@ -1,0 +1,9 @@
+css/
+img/
+js/
+php/
+sounds/
+Changelog
+composer.json
+elfinder.html
+readme.md

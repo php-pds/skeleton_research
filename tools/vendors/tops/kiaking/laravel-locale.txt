@@ -1,0 +1,10 @@
+spec/LaravelLocale/
+src/
+.editorconfig
+.gitattributes
+.gitignore
+LICENSE.txt
+README.md
+circle.yml
+composer.json
+phpspec.yml

@@ -1,0 +1,10 @@
+config/
+public/
+sites-enabled/
+src/
+.gitignore
+Dockerfile
+LICENSE.md
+README.md
+composer.json
+docker-compose.yml

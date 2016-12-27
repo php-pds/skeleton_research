@@ -1,0 +1,16 @@
+config/
+src/
+templates/
+.gitignore
+README.md
+composer.json
+composer.lock
+research_attachment_entity.page.inc
+research_reference_entity.page.inc
+zotero_import.info.yml
+zotero_import.links.action.yml
+zotero_import.links.menu.yml
+zotero_import.links.task.yml
+zotero_import.module
+zotero_import.permissions.yml
+zotero_import.routing.yml

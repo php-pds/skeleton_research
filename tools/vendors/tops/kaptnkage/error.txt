@@ -1,0 +1,5 @@
+.gitignore
+.htaccess
+README.md
+error.php
+error.png

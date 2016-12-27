@@ -1,0 +1,6 @@
+src/mender/
+test/
+vendor/
+README.md
+composer.json
+composer.lock

@@ -1,0 +1,16 @@
+.github/
+bin/
+docs/
+examples/
+src/
+tests/
+var/php/conf/
+.codeclimate.yml
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CNAME
+LICENCE
+README.md
+composer.json
+composer.lock

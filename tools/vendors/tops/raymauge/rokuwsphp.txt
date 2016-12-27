@@ -1,0 +1,6 @@
+src/
+tests/RokuWS/Tests/
+.gitignore
+README.md
+composer.json
+composer.lock

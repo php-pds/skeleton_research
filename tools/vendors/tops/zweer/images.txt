@@ -1,0 +1,7 @@
+examples/assets/
+src/Zweer/Image/
+tests/
+.gitignore
+README.md
+composer.json
+phpunit.xml

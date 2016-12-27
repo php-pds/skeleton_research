@@ -1,0 +1,10 @@
+data/
+.gitignore
+LICENSE.txt
+README.md
+composer.json
+composer.lock
+config.php.default
+lsyncd.conf.lua.template
+monitor.php
+utilities.php

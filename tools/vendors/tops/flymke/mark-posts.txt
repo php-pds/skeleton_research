@@ -1,0 +1,14 @@
+admin/
+languages/
+public/
+.gitattributes
+.gitignore
+LICENSE.txt
+README.txt
+composer.json
+humans.txt
+index.php
+mark-posts.php
+phpunit.xml
+readme.md
+uninstall.php

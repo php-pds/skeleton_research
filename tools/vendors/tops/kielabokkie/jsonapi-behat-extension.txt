@@ -1,0 +1,4 @@
+src/Kielabokie/BehatJsonApi/
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,5 @@
+.idea/
+PhpRabbitmqLog/
+LICENSE
+README.md
+composer.json

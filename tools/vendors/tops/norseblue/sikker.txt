@@ -1,0 +1,15 @@
+.ansible/
+docs/
+src/
+tests/
+.codeception.coverage.yml
+.codeception.yml
+.gitattributes
+.gitignore
+.scrutinizer.yml
+LICENSE
+README.md
+Vagrantfile
+composer.json
+composer.lock
+mkdocs.yml

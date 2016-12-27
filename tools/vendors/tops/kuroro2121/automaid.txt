@@ -1,0 +1,10 @@
+bin/
+src/AutoMaid/
+tests/
+.gitignore
+LICENSE
+README.md
+autoload.php
+codeception.yml
+composer.json
+composer.lock

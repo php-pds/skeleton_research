@@ -1,0 +1,7 @@
+MyBB2/
+.gitignore
+LICENSE
+circle.yml
+composer.json
+phpcs.xml
+readme.md

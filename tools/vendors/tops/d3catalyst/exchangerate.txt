@@ -1,0 +1,7 @@
+src/D3Catalyst/Exchangerate/
+tests/
+.travis.yml
+LICENCE
+README.md
+composer.json
+phpunit.xml

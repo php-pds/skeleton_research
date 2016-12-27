@@ -1,0 +1,9 @@
+resources/config/
+src/LaravelSanity/
+tests/Config/
+.gitignore
+LICENSE.MD
+README.MD
+composer.json
+composer.lock
+phpunit.xml

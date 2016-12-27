@@ -1,0 +1,7 @@
+Examples/
+PhpAsyncTask/
+.gitignore
+README.md
+composer.json
+daemon.php
+pat_daemon.conf

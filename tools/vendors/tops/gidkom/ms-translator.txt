@@ -1,0 +1,6 @@
+public/
+src/Gidkom/MsTranslator/
+.gitignore
+LICENSE
+README.md
+composer.json

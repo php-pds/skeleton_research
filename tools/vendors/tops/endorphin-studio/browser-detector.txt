@@ -1,0 +1,14 @@
+data/
+documentation/
+src/
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CHANGELOG.md
+DetectorExample.php
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

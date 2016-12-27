@@ -1,0 +1,17 @@
+bin/
+docs/
+src/
+tests/
+.editorconfig
+.gitignore
+.travis.yml
+AUTHORS.md
+CHANGELOG.md
+CONTRIBUTING.md
+LICENSE.md
+Makefile
+README.md
+TODO.md
+composer.json
+environaut.xml
+phpunit.xml.dist

@@ -1,0 +1,11 @@
+Adapter/
+Controller/
+DependencyInjection/
+Resources/
+Seeker/
+Tests/
+.gitignore
+LeoHtAjaxSearchBundle.php
+README.md
+composer.json
+phpunit.xml.dist

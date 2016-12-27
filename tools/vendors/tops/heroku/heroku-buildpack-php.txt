@@ -1,0 +1,10 @@
+bin/
+conf/
+support/
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+composer.json
+requirements.txt

@@ -1,0 +1,9 @@
+src/
+vendor/
+.gitignore
+LICENCE.txt
+README.md
+composer.json
+composer.lock
+composer.phar
+readme.md

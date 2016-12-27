@@ -1,0 +1,13 @@
+Annotations/
+Codec/
+DependencyInjection/
+Resources/config/
+Tests/Codec/
+Twig/
+.gitignore
+.travis.yml
+LICENSE
+ParamsCodecBundle.php
+README.md
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,10 @@
+app/
+.gitignore
+CHANGELOG.md
+LICENSE.md
+README.md
+build.xml
+composer.json
+mage.package.xml
+modman
+pear.package.xml

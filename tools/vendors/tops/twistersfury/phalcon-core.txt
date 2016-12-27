@@ -1,0 +1,9 @@
+.idea/
+src/
+tests/
+.gitattributes
+.gitignore
+LICENSE.txt
+README.md
+composer.json
+composer.lock

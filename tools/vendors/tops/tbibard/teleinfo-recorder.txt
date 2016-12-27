@@ -1,0 +1,9 @@
+doc/
+src/TeleinfoRecorder/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.mdown
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,5 @@
+Tests/
+.travis.yml
+README.md
+composer.json
+typo3-probe.php

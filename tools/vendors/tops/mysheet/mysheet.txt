@@ -1,0 +1,13 @@
+.idea/
+demo/
+nbproject/
+src/
+testing/phpunit/
+.gitignore
+LICENSE
+README.md
+TODO
+bugs
+composer.json
+mysheet.tar
+src.zip

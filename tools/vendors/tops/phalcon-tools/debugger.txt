@@ -1,0 +1,6 @@
+src/Debug/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock

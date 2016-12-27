@@ -1,0 +1,5 @@
+Command/
+LICENSE
+README.md
+VentureOakLabsWsdl2PhpGeneratorCliBundle.php
+composer.json

@@ -1,0 +1,14 @@
+Annotation/
+Aspect/
+DependencyInjection/
+Resources/
+Service/
+Tests/
+.editorconfig
+.gitignore
+.travis.yml
+JallAopMonologBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

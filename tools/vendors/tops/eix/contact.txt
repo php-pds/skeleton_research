@@ -1,0 +1,11 @@
+src/php/
+.gitattributes
+.gitignore
+.travis.yml
+LICENSE.md
+README.md
+build.xml
+composer.json
+phing
+phpunit
+phpunit.xml

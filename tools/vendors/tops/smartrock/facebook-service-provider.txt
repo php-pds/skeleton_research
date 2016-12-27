@@ -1,0 +1,5 @@
+src/SmartRock/Silex/
+.gitignore
+LICENSE
+README.md
+composer.json

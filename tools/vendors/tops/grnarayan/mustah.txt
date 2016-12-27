@@ -1,0 +1,4 @@
+laravel-rabbitmq/src/
+.gitignore
+README.md
+composer.json

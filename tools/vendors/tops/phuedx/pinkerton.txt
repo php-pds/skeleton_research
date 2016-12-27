@@ -1,0 +1,6 @@
+src/
+test/Phuedx/Pinkerton/
+.travis.yml
+LICENSE
+README.markdown
+composer.json

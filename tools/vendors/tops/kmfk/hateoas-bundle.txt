@@ -1,0 +1,7 @@
+Annotation/
+DependencyInjection/
+EventListener/
+Resources/config/
+HateoasBundle.php
+README.md
+composer.json

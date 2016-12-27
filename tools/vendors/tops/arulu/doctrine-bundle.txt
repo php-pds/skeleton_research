@@ -1,0 +1,17 @@
+Command/
+Controller/
+DependencyInjection/
+Mapping/
+ORM/
+Resources/
+Tests/
+.gitignore
+.travis.yml
+ConnectionFactory.php
+DoctrineBundle.php
+LICENSE
+ManagerConfigurator.php
+README.md
+Registry.php
+composer.json
+phpunit.xml.dist

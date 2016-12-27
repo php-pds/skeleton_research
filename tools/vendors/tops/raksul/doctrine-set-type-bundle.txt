@@ -1,0 +1,14 @@
+DBAL/Types/
+DependencyInjection/
+Exception/
+Form/Guess/
+Resources/config/
+Tests/
+Validator/Constraints/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+RaksulDoctrineSetTypeBundle.php
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,12 @@
+build/config/
+keys/public/
+src/
+test/
+.bashrc
+.gitignore
+.travis.yml
+Bootstrap.php
+LICENSE
+README.md
+build.xml
+composer.json

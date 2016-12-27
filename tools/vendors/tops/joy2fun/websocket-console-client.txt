@@ -1,0 +1,7 @@
+src/
+.gitattributes
+.gitignore
+README.md
+client.php
+composer.json
+websocket-console-client

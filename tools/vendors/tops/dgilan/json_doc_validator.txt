@@ -1,0 +1,5 @@
+Dgilan/JsonDocValidator/
+.gitignore
+LICENSE
+README.md
+composer.json

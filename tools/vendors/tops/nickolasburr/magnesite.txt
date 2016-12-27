@@ -1,0 +1,7 @@
+config/
+vendor/
+web/
+.env
+.gitignore
+composer.json
+readme.md

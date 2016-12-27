@@ -1,0 +1,14 @@
+Response/
+files/
+logs/
+api.php
+common.php
+composer.json
+cron.php
+db.php
+error.php
+file.php
+init.php
+list.php
+response.php
+version.txt

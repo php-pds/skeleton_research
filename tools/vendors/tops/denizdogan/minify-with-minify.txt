@@ -1,0 +1,4 @@
+plugins/denizdogan/minifyWithMinify/
+LICENSE
+README.md
+composer.json

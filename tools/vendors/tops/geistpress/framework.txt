@@ -1,0 +1,12 @@
+bin/
+src/
+tests/
+.gitignore
+.scrutinizer.yml
+.styleci.yml
+.travis.yml
+LICENSE
+README.md
+composer.json
+geistpress.php
+phpunit.xml

@@ -1,0 +1,9 @@
+simpletools/
+tests/
+.gitignore
+LICENSE.txt
+README.md
+composer.json
+composer.lock
+index.html
+params.json

@@ -1,0 +1,15 @@
+PSR2R/
+bin/
+docs/
+tests/
+.editorconfig
+.gitattributes
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+phpcs.sh
+phpunit.xml.dist
+setup.sh

@@ -1,0 +1,7 @@
+src/Phpress/
+tests/Phpress/
+.gitignore
+LICENSE.txt
+README.md
+composer.json
+test-runner.php

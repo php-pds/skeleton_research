@@ -1,0 +1,16 @@
+Tests/
+arclibs/
+build/
+src/YamwLibs/
+.arcconfig
+.gitattributes
+.gitignore
+.travis.yml
+README.md
+build.xml
+composer.json
+composer.lock
+generate-doc.bat
+phpdoc.dist.xml
+phpunit-ci.xml.dist
+phpunit.xml.dist

@@ -1,0 +1,7 @@
+ClientTests/
+Services/
+.gitignore
+LICENSE
+README.md
+composer.json
+textmagic-cli.php

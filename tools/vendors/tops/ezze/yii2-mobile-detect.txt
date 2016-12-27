@@ -1,0 +1,4 @@
+.gitignore
+MobileDetect.php
+README.md
+composer.json

@@ -1,0 +1,9 @@
+bin/
+lib/ThreadWorker/
+tests/
+.gitignore
+.travis.yml
+composer.json
+phpunit.xml
+readme.md
+travis-config.ini

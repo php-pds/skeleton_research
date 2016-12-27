@@ -1,0 +1,9 @@
+public/
+resources/
+src/SilexSkeleton/
+.gitignore
+LICENSE
+README.md
+app.php
+cli-config.php
+composer.json

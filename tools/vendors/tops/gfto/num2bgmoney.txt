@@ -1,0 +1,5 @@
+demo/
+.gitignore
+README.md
+composer.json
+num2bgmoney.php

@@ -1,0 +1,8 @@
+src/Kwkm/OptParser/
+tests/
+.coveralls.yml
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json

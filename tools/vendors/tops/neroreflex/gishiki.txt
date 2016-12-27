@@ -1,0 +1,16 @@
+Documentation/
+Gishiki/
+tests/
+.codeclimate.yml
+.gitattributes
+.gitignore
+.htaccess
+.travis.yml
+LICENSE
+README.md
+TODO
+composer.json
+index.php
+phpcs.xml
+phpunit.xml
+wercker.yml

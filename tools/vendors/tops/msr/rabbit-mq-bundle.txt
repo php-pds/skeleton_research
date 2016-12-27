@@ -1,0 +1,13 @@
+AMQ/
+DependencyInjection/
+Resources/config/
+Tests/
+.gitignore
+LICENSE
+README.md
+RabbitMQBundle.php
+composer.json
+composer.lock
+phpunit.phar
+phpunit.xml
+phpunit.xml.dist

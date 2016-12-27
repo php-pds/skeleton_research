@@ -1,0 +1,7 @@
+Magento_Theme/layout/
+web/
+README.md
+composer.json
+registration.php
+theme.xml
+view.xml

@@ -1,0 +1,7 @@
+controllers/
+core/
+libraries/
+nbproject/
+views/
+README.md
+composer.json

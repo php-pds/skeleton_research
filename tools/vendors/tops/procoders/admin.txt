@@ -1,0 +1,13 @@
+public/
+public_src/
+resources/
+src/
+tests/
+.gitignore
+.travis.yml
+CHANGELOG
+LICENSE
+README.md
+composer.json
+gulpfile.js
+phpunit.xml

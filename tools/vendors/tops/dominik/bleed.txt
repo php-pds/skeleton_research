@@ -1,0 +1,6 @@
+bin/
+lib/bleed/
+.gitignore
+LICENSE
+README.md
+composer.json

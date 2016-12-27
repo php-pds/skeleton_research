@@ -1,0 +1,6 @@
+DependencyInjection/
+Resources/config/
+.gitignore
+ElasticpushBundle.php
+README.md
+composer.json

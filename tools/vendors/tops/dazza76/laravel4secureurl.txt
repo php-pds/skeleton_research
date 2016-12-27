@@ -1,0 +1,6 @@
+src/Dazza76/Laravel4SecureURL/
+tests/
+.gitignore
+README.md
+composer.json
+phpunit.xml

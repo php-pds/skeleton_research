@@ -1,0 +1,4 @@
+namespaces/Destrofer/
+LICENSE
+README.md
+composer.json

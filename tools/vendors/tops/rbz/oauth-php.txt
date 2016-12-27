@@ -1,0 +1,6 @@
+example/
+library/
+test/
+LICENSE
+README.md
+composer.json

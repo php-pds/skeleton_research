@@ -1,0 +1,13 @@
+apidocs/
+builder/
+documentation/
+libs/
+phar/
+tests/
+.gitignore
+.project
+LICENSE.TXT
+README
+composer.json
+index.html
+ngnix.conf.example

@@ -1,0 +1,10 @@
+avatars/
+src/
+tools/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+avatar.php
+composer.json
+demo.php

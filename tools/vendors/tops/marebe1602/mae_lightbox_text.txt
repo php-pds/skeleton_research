@@ -1,0 +1,7 @@
+config/
+languages/
+templates/
+templates_original/
+CHANGELOG.txt
+README.md
+composer.json

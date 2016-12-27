@@ -1,0 +1,17 @@
+dist/
+doc/
+lib/
+test/
+ts/
+typings/mocha/
+.gitignore
+.travis.yml
+LICENSE
+Readme.md
+composer.json
+example.png
+gulpfile.js
+index.js
+package.json
+run-test.sh
+tsconfig.json

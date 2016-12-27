@@ -1,0 +1,15 @@
+examples/
+export/
+namespaced/Detection/
+tests/
+.gitattributes
+.gitignore
+.gitmodules
+.php_cs
+.travis.yml
+LICENSE.txt
+Mobile_Detect.json
+Mobile_Detect.php
+README.md
+composer.json
+ruleset.xml

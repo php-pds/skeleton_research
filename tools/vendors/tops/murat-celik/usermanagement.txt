@@ -1,0 +1,9 @@
+assets/
+components/
+controllers/
+migrations/
+models/
+views/
+README.md
+UserModule.php
+composer.json

@@ -1,0 +1,16 @@
+Config/
+Controller/
+Library/
+Model/
+Templates/
+Tests/
+cache/
+vendor/
+web/
+.gitignore
+README.md
+composer.json
+composer.lock
+index.php
+zmqBroker.php
+zmqWorker.php

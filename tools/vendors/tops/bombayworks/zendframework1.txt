@@ -1,0 +1,12 @@
+bin/
+library/Zend/
+resources/languages/
+.gitattributes
+CONTRIBUTING.md
+DEVELOPMENT_README.md
+INSTALL.md
+LICENSE.txt
+README-GIT.md
+README.md
+Vagrantfile
+composer.json

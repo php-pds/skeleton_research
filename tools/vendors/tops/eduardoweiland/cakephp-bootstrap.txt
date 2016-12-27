@@ -1,0 +1,6 @@
+Console/Templates/bootstrap/
+View/
+.gitignore
+LICENSE
+README.md
+composer.json

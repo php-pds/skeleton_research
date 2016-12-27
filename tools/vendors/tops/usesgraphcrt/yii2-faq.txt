@@ -1,0 +1,12 @@
+assets/
+controllers/
+messages/
+migrations/
+models/
+views/
+web/
+widgets/FaqWidget/
+Module.php
+README.md
+composer.json
+composer.lock

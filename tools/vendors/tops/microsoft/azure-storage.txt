@@ -1,0 +1,16 @@
+build/
+samples/
+src/
+tests/
+.gitignore
+BreakingChanges.md
+CONTRIBUTING.md
+ChangeLog.md
+LICENSE
+README.md
+build.xml
+composer.json
+phpdoc.dist.xml
+phpdox.xml
+phpunit.functional.xml.dist
+phpunit.xml.dist

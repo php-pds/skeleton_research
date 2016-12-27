@@ -1,0 +1,6 @@
+serializer/
+src/ckalnasy/
+tests/ckalnasy/test/
+README.md
+api.json
+composer.json

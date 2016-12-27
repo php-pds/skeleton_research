@@ -1,0 +1,10 @@
+src/
+.editorconfig
+.gitignore
+CONTRIBUTING.md
+LICENSE.md
+README.md
+composer.json
+migration-to-2.0.md
+migration-to-2.1.md
+phpunit.xml

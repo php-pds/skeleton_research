@@ -1,0 +1,7 @@
+src/Sondt87/GzoneLibrary/
+tests/
+.gitignore
+.travis.yml
+README.md
+composer.json
+phpunit.xml

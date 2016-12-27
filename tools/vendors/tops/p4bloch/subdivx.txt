@@ -1,0 +1,7 @@
+.gitignore
+Download.php
+LICENSE.txt
+README.md
+composer.json
+composer.lock
+subdivx

@@ -1,0 +1,5 @@
+config/
+src/Webecho/
+.gitignore
+README.md
+composer.json

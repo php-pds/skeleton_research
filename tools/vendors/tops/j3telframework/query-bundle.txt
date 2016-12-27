@@ -1,0 +1,8 @@
+DependencyInjection/
+Exceptions/
+QueryFilter/
+Repository/
+Resources/
+J3telQueryBundle.php
+composer.json
+favicon.ico

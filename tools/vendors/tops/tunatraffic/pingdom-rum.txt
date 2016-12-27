@@ -1,0 +1,6 @@
+CHANGELOG.md
+composer.json
+img-pingdom-logo.png
+pingdom-rum.php
+pingdom.css
+readme.txt

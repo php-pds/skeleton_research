@@ -1,0 +1,10 @@
+app/
+.gitignore
+.maintenance.php
+composer.json
+index.php
+package.json
+readme.md
+robots.txt
+style.css
+Žítkino.gmap

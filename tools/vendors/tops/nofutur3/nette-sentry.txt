@@ -1,0 +1,7 @@
+src/Nofutur3/Sentry/
+.gitattributes
+.travis.composer.php
+.travis.yml
+LICENSE
+README.md
+composer.json

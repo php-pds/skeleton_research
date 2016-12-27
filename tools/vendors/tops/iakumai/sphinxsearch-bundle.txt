@@ -1,0 +1,15 @@
+DependencyInjection/
+Doctrine/
+Exception/
+Pagerfanta/Adapter/
+Resources/config/
+Search/
+Sphinx/
+Twig/
+.gitattributes
+.gitignore
+CHANGELOG.md
+LICENSE
+README.md
+SphinxsearchBundle.php
+composer.json

@@ -1,0 +1,10 @@
+src/TrustFully/
+test/Spec/TrustFully/Api/
+.editorconfig
+.gitattributes
+.gitignore
+.php_cs
+LICENSE
+README.md
+composer.json
+phpspec.yml

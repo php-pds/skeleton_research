@@ -1,0 +1,5 @@
+bin/
+INSTALL.md
+README.md
+composer.json
+external.json.dist

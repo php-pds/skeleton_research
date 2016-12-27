@@ -1,0 +1,11 @@
+assets/
+config/
+database/migrations/
+misc/
+routes/
+src/
+views/
+.gitignore
+changes.md
+composer.json
+readme.md

@@ -1,0 +1,8 @@
+bin/
+spec/Orls/Satis/
+src/Orls/Satis/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock

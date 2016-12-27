@@ -1,0 +1,7 @@
+resources/data/
+src/Repository/
+tests/Repository/
+.gitignore
+LICENSE
+README.md
+composer.json

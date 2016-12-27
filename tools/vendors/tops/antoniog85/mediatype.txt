@@ -1,0 +1,10 @@
+src/
+tests/
+.gitignore
+Dockerfile
+LICENSE
+README.md
+composer.json
+composer.lock
+docker-compose.yml
+phpunit.xml

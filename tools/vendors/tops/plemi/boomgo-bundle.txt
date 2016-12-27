@@ -1,0 +1,17 @@
+Builder/
+Command/
+Connection/
+DependencyInjection/
+Parser/
+Repository/
+Resources/config/
+Security/UserProvider/
+Tests/
+.atoum.php
+.gitignore
+.travis.yml
+LICENSE
+Manager.php
+PlemiBoomgoBundle.php
+README.md
+composer.json

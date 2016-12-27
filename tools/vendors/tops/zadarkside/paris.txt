@@ -1,0 +1,10 @@
+docs/
+test/
+.gitattributes
+.gitignore
+.travis.yml
+CONTRIBUTING.md
+README.markdown
+composer.json
+paris.php
+phpunit.xml

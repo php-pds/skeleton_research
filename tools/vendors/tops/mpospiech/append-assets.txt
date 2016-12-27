@@ -1,0 +1,4 @@
+src/appendAssets/
+.gitignore
+LICENSE
+composer.json

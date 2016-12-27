@@ -1,0 +1,6 @@
+packages/
+src/
+.gitignore
+README
+build.xml
+composer.json

@@ -1,0 +1,5 @@
+public/
+src/
+README.md
+Read.me
+composer.json

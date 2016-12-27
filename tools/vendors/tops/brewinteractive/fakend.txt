@@ -1,0 +1,10 @@
+Bin/
+Generator/
+Interfaces/
+Presentation/
+SchemaProviders/
+samples/
+FakendFactory.php
+LICENSE
+README.md
+composer.json

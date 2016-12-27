@@ -1,0 +1,9 @@
+controllers/
+ext/lastsWidget/
+messages/ru/
+migrations/
+models/
+views/
+BlogModule.php
+README.md
+composer.json

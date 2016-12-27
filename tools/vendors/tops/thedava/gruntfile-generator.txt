@@ -1,0 +1,11 @@
+assets/
+test/
+text_diff/
+.gitignore
+.travis.yml
+Gruntfile.php
+LICENSE
+README.md
+composer.json
+gruntfile
+phpunit.xml.dist

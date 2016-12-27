@@ -1,0 +1,11 @@
+doc/
+examples/
+lib/StupidHttp/
+tests/
+.gitignore
+.hgignore
+.hgtags
+LICENSE.markdown
+README.markdown
+composer.json
+phpunit.xml.dist

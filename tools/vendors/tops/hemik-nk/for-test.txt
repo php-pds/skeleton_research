@@ -1,0 +1,4 @@
+composer.json
+fileA
+fileFromTextProg.txt
+fileb

@@ -1,0 +1,12 @@
+src/Samsara/Newton/
+tests/
+.coveralls.yml
+.gitignore
+.travis.yml
+CHANGELOG.md
+CONTRIBUTING.md
+COPYRIGHT
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

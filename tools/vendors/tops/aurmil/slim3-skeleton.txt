@@ -1,0 +1,7 @@
+app/
+public/
+var/
+.gitattributes
+LICENSE.md
+README.md
+composer.json

@@ -1,0 +1,9 @@
+public/
+resources/
+src/GiantRobot/Meta/
+.bowerrc
+.gitignore
+bower.json
+composer.json
+gruntfile.js
+package.json

@@ -1,0 +1,11 @@
+assets/
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+KindEditor.php
+KindEditorAsset.php
+LICENSE.md
+README.md
+composer.json
+phpunit.xml.dist

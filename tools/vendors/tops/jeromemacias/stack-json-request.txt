@@ -1,0 +1,5 @@
+src/Stack/
+.gitignore
+LICENSE
+README.md
+composer.json

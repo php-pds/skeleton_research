@@ -1,0 +1,9 @@
+src/Picnik/
+tests/Picnik/
+.gitignore
+.travis.yml
+LICENSE.md
+README.md
+composer.json
+composer.lock
+phpunit.xml

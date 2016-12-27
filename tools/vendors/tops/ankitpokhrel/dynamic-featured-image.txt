@@ -1,0 +1,16 @@
+bin/
+css/
+img/
+js/
+languages/
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+bower.json
+composer.json
+dynamic-featured-image.php
+phpunit.xml
+uninstall.php

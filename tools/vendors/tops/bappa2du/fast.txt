@@ -1,0 +1,9 @@
+application/
+system/
+vendor/
+.gitignore
+README.md
+composer.json
+composer.lock
+fast
+index.php

@@ -1,0 +1,13 @@
+docs/
+examples/
+src/
+tests/
+.atoum.php
+.bootstrap.atoum.php
+.gitignore
+.php_cs
+.travis.yml
+LICENSE
+README.md
+composer.json
+couscous.yml

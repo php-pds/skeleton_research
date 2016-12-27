@@ -1,0 +1,11 @@
+src/Chash/
+tests/
+.gitignore
+.travis.yml
+README.md
+chash.php
+composer.json
+composer.lock
+createPhar.php
+license.html
+phpunit.xml

@@ -1,0 +1,10 @@
+bin/
+spec/Spatie/Browsershot/
+src/Spatie/Browsershot/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpspec.yml

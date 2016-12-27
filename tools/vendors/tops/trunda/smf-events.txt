@@ -1,0 +1,4 @@
+src/Smf/Events/
+LICENSE
+README.markdown
+composer.json

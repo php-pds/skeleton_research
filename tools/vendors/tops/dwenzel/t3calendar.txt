@@ -1,0 +1,5 @@
+Tests/Build/
+.gitignore
+.travis.yml
+README.md
+composer.json

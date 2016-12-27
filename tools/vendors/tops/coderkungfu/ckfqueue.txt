@@ -1,0 +1,6 @@
+bin/
+demo/
+lib/CKFQueue/
+.gitignore
+README.md
+composer.json

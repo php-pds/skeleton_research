@@ -1,0 +1,15 @@
+admin/
+common/
+front/
+.gitignore
+LICENSE.md
+README.md
+composer.json
+crontab.setting
+db.sql
+init
+init.bat
+nginx.setting.conf
+requirements.php
+yii
+yii.bat

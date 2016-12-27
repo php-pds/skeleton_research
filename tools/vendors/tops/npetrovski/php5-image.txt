@@ -1,0 +1,13 @@
+fonts/
+samples/
+src/Image/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+_autoload.php
+composer.json
+index.html
+php5-image.png
+phpunit.xml

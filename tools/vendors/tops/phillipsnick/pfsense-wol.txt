@@ -1,0 +1,7 @@
+Examples/
+Pfsensewol/
+nbproject/
+.gitignore
+LICENSE
+README.md
+composer.json

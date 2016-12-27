@@ -1,0 +1,11 @@
+DependencyInjection/
+Resources/config/
+Tests/
+.gitignore
+.travis.yml
+Factory.php
+LICENSE
+README.md
+TecnoWordBundle.php
+composer.json
+phpunit.xml.dist

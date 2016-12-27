@@ -1,0 +1,9 @@
+features/bootstrap/
+spec/MusicAnt/DataSource/
+src/MusicAnt/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock

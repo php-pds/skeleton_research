@@ -1,0 +1,17 @@
+assets/
+base/
+controllers/
+examples/
+migrations/
+models/
+runtime/
+tests/
+views/
+.bowerrc
+.editorconfig
+.gitignore
+LICENSE.md
+Module.php
+README.md
+composer.json
+composer.lock

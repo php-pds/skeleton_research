@@ -1,0 +1,8 @@
+src/
+.gitignore
+LICENSE
+README.md
+autoloader.php
+composer.json
+composer.lock
+composer.phar

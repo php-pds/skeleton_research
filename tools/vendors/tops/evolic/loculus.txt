@@ -1,0 +1,5 @@
+library/Loculus/
+.gitignore
+LICENSE.txt
+README.md
+composer.json

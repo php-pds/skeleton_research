@@ -1,0 +1,7 @@
+examples/
+src/FoursquareApi/
+tests/
+.gitignore
+LICENSE.txt
+README.md
+composer.json

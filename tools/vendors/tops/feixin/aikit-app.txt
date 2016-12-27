@@ -1,0 +1,7 @@
+cache/
+template/
+template_c/
+.gitignore
+README.md
+composer.json
+index.php

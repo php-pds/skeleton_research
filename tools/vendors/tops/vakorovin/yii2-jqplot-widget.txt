@@ -1,0 +1,7 @@
+jquery.jqplot/
+screenshots/
+Assets.php
+JqPlotWidget.php
+LICENSE
+README.md
+composer.json

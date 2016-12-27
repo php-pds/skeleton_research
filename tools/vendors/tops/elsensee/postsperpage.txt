@@ -1,0 +1,11 @@
+adm/style/event/
+config/
+event/
+language/
+migrations/
+styles/prosilver/template/event/
+.gitattributes
+README.md
+composer.json
+ext.php
+license.txt

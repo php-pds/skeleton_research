@@ -1,0 +1,5 @@
+src/Groonga/Http/
+.gitignore
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,14 @@
+.vagrant/puppet/
+data/
+demo/
+nbproject/
+src/
+tests/
+vendor/
+.gitignore
+LICENSE
+README.md
+Vagrantfile
+build.xml
+composer.json
+composer.lock

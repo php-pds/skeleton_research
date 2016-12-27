@@ -1,0 +1,8 @@
+bin/
+css/
+js/
+locales/
+.gitignore
+README.md
+bower.json
+index.html

@@ -1,0 +1,15 @@
+config-templates/
+dictionaries/
+docs/
+lib/
+templates/
+tests/
+tools/phpunit/
+www/
+.coveralls.yml
+.gitignore
+.travis.yml
+LICENSE.txt
+README.md
+composer.json
+default-disable

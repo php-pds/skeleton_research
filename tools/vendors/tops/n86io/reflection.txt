@@ -1,0 +1,11 @@
+build/tests/
+doc/
+src/
+.codeclimate.yml
+.gitignore
+.phpcs.xml
+.phpmd.xml
+.travis.yml
+LICENSE
+README.md
+composer.json

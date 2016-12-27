@@ -1,0 +1,11 @@
+.gitignore
+.jscsrc
+.jshintrc
+Gruntfile.js
+README.md
+bootstrap3-typeahead.js
+bootstrap3-typeahead.min.js
+bower.json
+composer.json
+package.json
+typeaheadv4.png

@@ -1,0 +1,6 @@
+src/
+uml/
+.gitignore
+README.MD
+composer.json
+composer.lock

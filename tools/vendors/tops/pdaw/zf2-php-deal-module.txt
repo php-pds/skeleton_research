@@ -1,0 +1,8 @@
+config/
+src/PhpDealModule/
+tests/unit/
+.travis.yml
+README.md
+composer.json
+composer.lock
+phpunit.xml

@@ -1,0 +1,9 @@
+docs/en/
+scripts/generate-swagger/
+src/FireText/Api/
+tests/
+.gitignore
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

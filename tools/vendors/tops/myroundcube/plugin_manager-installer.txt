@@ -1,0 +1,4 @@
+.gitattributes
+.gitignore
+README.md
+plugin_manager.php

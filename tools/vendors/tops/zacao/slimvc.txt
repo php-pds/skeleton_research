@@ -1,0 +1,10 @@
+apps/
+lib/
+provisioning/
+public/
+.gitignore
+.gitmodules
+LICENSE
+README.md
+Vagrantfile
+composer.json

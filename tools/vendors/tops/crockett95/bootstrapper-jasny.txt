@@ -1,0 +1,7 @@
+src/Crockett95/BootstrapperJasny/
+tests/
+.gitignore
+.travis.yml
+README.md
+composer.json
+phpunit.xml

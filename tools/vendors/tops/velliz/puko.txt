@@ -1,0 +1,9 @@
+assets/
+config/
+controller/
+model/
+.gitignore
+.htaccess
+composer.json
+index.php
+readme.md

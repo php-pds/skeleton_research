@@ -1,0 +1,8 @@
+docs/
+.gitignore
+composer.json
+readme.txt
+ripcord.php
+ripcord_client.php
+ripcord_documentor.php
+ripcord_server.php

@@ -1,0 +1,3 @@
+src/phpbbRemoteApi/
+.gitignore
+composer.json

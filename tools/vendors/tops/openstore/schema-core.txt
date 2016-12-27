@@ -1,0 +1,13 @@
+bin/
+config/
+doc/
+src/OpenstoreSchema/Core/
+tools/
+.gitattributes
+.gitignore
+.php_cs
+CHANGELOG.md
+LICENSE.txt
+README.md
+composer.json
+phpcs.xml

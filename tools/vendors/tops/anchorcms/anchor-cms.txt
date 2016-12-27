@@ -1,0 +1,12 @@
+.github/
+anchor/
+content/
+install/
+system/
+themes/default/
+.gitignore
+composer.json
+composer.lock
+index.php
+license.md
+readme.md

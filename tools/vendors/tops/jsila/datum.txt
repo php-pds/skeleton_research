@@ -1,0 +1,7 @@
+src/JSila/Datum/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json
+phpunit.xml

@@ -1,0 +1,5 @@
+src/Paradigm/PayumTrustly/
+.gitignore
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,7 @@
+lib/veqryn/Curl/
+test/
+.gitignore
+.gitmodules
+MIT-LICENSE
+README.markdown
+composer.json

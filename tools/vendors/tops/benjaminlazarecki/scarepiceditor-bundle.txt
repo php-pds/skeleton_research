@@ -1,0 +1,11 @@
+DependencyInjection/
+Form/Type/
+Resources/
+Tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+ScarEpicEditorBundle.php
+composer.json
+phpunit.xml.dist

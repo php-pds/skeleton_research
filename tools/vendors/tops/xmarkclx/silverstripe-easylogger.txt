@@ -1,0 +1,5 @@
+_config/
+tests/
+EasyLogger.php
+README.md
+composer.json

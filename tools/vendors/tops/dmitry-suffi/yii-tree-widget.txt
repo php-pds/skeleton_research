@@ -1,0 +1,10 @@
+docs/
+examples/
+.gitignore
+LICENSE
+README.md
+TreeAsset.php
+TreeNode.php
+TreeWidget.php
+autoload.php
+composer.json

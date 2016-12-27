@@ -1,0 +1,12 @@
+Block/
+Controller/Index/
+Helper/
+Model/
+Observer/
+etc/
+view/frontend/
+.gitignore
+README.md
+composer.json
+modman
+registration.php

@@ -1,0 +1,7 @@
+Source/Kite/CurlBack/
+Tests/
+.gitignore
+.travis.yml
+README.md
+composer.json
+phpunit.xml.dist

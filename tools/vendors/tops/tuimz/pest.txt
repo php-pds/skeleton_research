@@ -1,0 +1,5 @@
+examples/
+src/Pest/
+.gitignore
+README.markdown
+composer.json

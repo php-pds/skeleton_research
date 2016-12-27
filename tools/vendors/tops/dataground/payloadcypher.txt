@@ -1,0 +1,10 @@
+src/Dataground/
+tests/
+var/test/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml
+version.txt

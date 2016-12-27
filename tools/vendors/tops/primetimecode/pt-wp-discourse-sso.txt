@@ -1,0 +1,10 @@
+admin/
+includes/
+public/
+.gitignore
+LICENSE
+README.txt
+composer.json
+index.php
+pt-wp-discourse-sso.php
+uninstall.php

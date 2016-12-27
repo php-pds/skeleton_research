@@ -1,0 +1,7 @@
+js/
+README.md
+README_CAT.md
+README_ES.md
+bower.json
+composer.json
+example.html

@@ -1,0 +1,17 @@
+config/
+content/
+scripts/Roots/Bedrock/
+vendor/
+.env.example
+.gitignore
+Capfile
+Gemfile
+Gemfile.lock
+README.md
+composer.json
+composer.lock
+createproject.sh
+createproject_nginx.sh
+index.php
+setup.sh
+wp-config.php

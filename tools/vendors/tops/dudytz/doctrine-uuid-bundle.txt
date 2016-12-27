@@ -1,0 +1,8 @@
+DependencyInjection/
+Resources/config/
+Types/
+.gitignore
+DudytzDoctrineUuidBundle.php
+LICENSE
+README.md
+composer.json

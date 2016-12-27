@@ -1,0 +1,6 @@
+config/
+src/
+.travis.yml
+LICENSE.txt
+README.md
+composer.json

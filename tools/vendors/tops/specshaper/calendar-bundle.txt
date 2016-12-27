@@ -1,0 +1,14 @@
+Controller/
+DependencyInjection/
+Doctrine/
+Event/
+Form/
+Model/
+Repository/
+Resources/
+Tests/Controller/
+Validator/Constraints/
+LICENSE
+README.md
+SpecShaperCalendarBundle.php
+composer.json

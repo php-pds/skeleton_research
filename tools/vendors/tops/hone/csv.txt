@@ -1,0 +1,7 @@
+src/
+LICENSE
+README.md
+autoload.php
+composer.json
+example.csv
+example.php

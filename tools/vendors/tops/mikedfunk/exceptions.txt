@@ -1,0 +1,4 @@
+src/MikeFunk/Exceptions/
+.gitignore
+README.md
+composer.json

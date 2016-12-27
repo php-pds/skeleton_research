@@ -1,0 +1,10 @@
+Controller/
+DependencyInjection/
+Resources/config/
+schemas/
+.gitignore
+README.md
+RestRpc.php
+SchemaManager.php
+YuidoRestRpcBundle.php
+composer.json

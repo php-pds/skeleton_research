@@ -1,0 +1,16 @@
+bin/
+src/
+test/
+vagrant/
+.env.example
+.gitignore
+.travis.yml
+LICENSE
+README.md
+Vagrantfile
+composer.json
+composer.lock
+gulpfile.js
+npm-shrinkwrap.json
+package.json
+phpunit.xml

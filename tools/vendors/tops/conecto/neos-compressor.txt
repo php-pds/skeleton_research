@@ -1,0 +1,8 @@
+Classes/CONECTO/Compressor/
+Configuration/
+Resources/Private/TypoScript/
+.gitattributes
+.gitignore
+LICENSE
+README.md
+composer.json

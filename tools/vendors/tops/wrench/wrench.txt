@@ -1,0 +1,13 @@
+doc/
+examples/
+lib/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+TODO.md
+composer.json
+composer.lock
+phpunit.xml

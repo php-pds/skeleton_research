@@ -1,0 +1,7 @@
+examples/
+src/Nideia/Rest/
+.gitignore
+.travis.yml
+README.md
+composer.json
+phpunit.xml

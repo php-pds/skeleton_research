@@ -1,0 +1,17 @@
+i18n/
+modules/
+tests/qunit/
+.gitignore
+.gitreview
+.jscsrc
+.jshintignore
+.jshintrc
+COPYING
+Gruntfile.js
+README
+WikiEditor.hooks.php
+WikiEditor.php
+composer.json
+extension.json
+package.json
+phpcs.xml

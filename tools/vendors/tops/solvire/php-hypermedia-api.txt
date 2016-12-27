@@ -1,0 +1,11 @@
+docs/
+src/API/
+tests/
+.env.example
+.gitignore
+.scrutinizer.yml
+.travis.yml
+README.md
+composer.json
+phpunit.xml
+version

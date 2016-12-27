@@ -1,0 +1,6 @@
+src/Docx/Sdk/
+tests/
+.gitignore
+composer.json
+composer.lock
+phpunit.xml

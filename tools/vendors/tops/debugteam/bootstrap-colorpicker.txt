@@ -1,0 +1,6 @@
+css/
+img/bootstrap-colorpicker/
+js/
+LICENSE
+README.md
+composer.json

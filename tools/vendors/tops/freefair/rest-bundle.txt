@@ -1,0 +1,14 @@
+Annotations/
+Controller/
+Converters/
+DependencyInjection/
+Entity/
+Filters/
+Formatters/
+Models/
+Parsing/
+Resources/config/
+Services/
+.gitignore
+RestBundle.php
+composer.json

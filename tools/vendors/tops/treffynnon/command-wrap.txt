@@ -1,0 +1,9 @@
+integration/
+spec/Treffynnon/CommandWrap/
+src/
+.gitignore
+LICENCE.md
+README.md
+composer.json
+phpcs.xml
+phpmd.xml

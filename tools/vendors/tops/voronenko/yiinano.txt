@@ -1,0 +1,7 @@
+framework/
+migrations/
+protected/
+README.md
+composer.json
+index-test.php
+index.php

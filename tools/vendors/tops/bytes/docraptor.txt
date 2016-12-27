@@ -1,0 +1,7 @@
+src/Bytes/Docraptor/
+tests/
+.gitignore
+README.md
+composer.json
+composer.lock
+phpunit.xml

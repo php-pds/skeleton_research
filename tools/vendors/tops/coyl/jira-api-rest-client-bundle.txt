@@ -1,0 +1,8 @@
+.idea/
+DependencyInjection/
+Resources/config/
+.gitignore
+JiraApiRestClientBundle.php
+LICENSE
+README.md
+composer.json

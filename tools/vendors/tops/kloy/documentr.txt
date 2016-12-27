@@ -1,0 +1,10 @@
+bin/
+dist/
+docs/
+sample/
+src/
+.gitignore
+Rakefile
+Readme.md
+composer.json
+package_builder.php

@@ -1,0 +1,12 @@
+app/
+bin/
+cache/
+logs/
+public/
+sql/
+vendor/
+CHANGELOG
+LICENCE
+README.md
+composer.json
+robots.txt

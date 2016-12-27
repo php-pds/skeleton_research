@@ -1,0 +1,13 @@
+.gitignore
+LICENSE
+README.md
+annotation.php
+annotationclass.php
+annotationfunction.php
+annotationfunctiontrait.php
+annotationmethod.php
+annotationobject.php
+annotationparameter.php
+annotationparser.php
+annotationparserinterface.php
+composer.json

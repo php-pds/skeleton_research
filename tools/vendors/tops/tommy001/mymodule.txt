@@ -1,0 +1,13 @@
+src/Upload/
+test/
+view/
+webroot/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+autoloader.php
+composer.json
+composer.lock
+upload.xml

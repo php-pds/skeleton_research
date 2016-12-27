@@ -1,0 +1,10 @@
+src/
+test/core/
+.travis.yml
+IoCApp
+LICENSE
+README.md
+bootstrap.php
+composer.json
+genConfig.php
+phpunit.xml

@@ -1,0 +1,10 @@
+Twig/
+.gitignore
+AbstractMailer.php
+AbstractTemplateMail.php
+ContentGeneratorInterface.php
+MailerInterface.php
+README.md
+TemplateMailInterface.php
+TemplateMailer.php
+composer.json

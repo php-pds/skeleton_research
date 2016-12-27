@@ -1,0 +1,14 @@
+bin/
+cfg/
+data/
+gmm/
+iv/
+mat/
+ndx/
+res/
+src/
+tests/
+.gitignore
+README.md
+composer.json
+composer.lock

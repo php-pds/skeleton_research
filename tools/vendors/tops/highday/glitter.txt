@@ -1,0 +1,16 @@
+config/
+database/migrations/
+resources/
+routes/
+src/
+tests/
+.codeclimate.yml
+.editorconfig
+.eslintignore
+.eslintrc
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,9 @@
+assets/
+config/
+migrations/
+src/
+templates/
+.gitignore
+LICENSE.md
+composer.json
+readme.md

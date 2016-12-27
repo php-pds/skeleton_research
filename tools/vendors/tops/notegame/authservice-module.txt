@@ -1,0 +1,17 @@
+Assets/
+Config/
+Console/
+Database/
+Entities/
+Events/
+Http/
+Providers/
+Repositories/
+Resources/
+Sidebar/
+Tests/
+composer.json
+module.json
+project.sublime-project
+project.sublime-workspace
+readme.md

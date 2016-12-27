@@ -1,0 +1,6 @@
+source/
+tool/
+.gitignore
+LICENSE
+composer.json
+try_schema_tool.php

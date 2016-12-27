@@ -1,0 +1,5 @@
+.idea/
+src/Evolve/
+tests/
+.gitignore
+composer.json

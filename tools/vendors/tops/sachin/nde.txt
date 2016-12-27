@@ -1,0 +1,8 @@
+src/Neuralys/Nde/
+tests/
+.gitattributes
+README.md
+build.properties
+composer.json
+phpunit.xml.dist
+sonar-project.properties

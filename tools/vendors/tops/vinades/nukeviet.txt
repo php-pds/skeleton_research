@@ -1,0 +1,8 @@
+Client/
+Core/
+Files/
+Ftp/
+Http/
+Xml/
+.gitignore
+composer.json

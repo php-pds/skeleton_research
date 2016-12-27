@@ -1,0 +1,11 @@
+Config/
+Console/Command/Task/
+Controller/
+Lib/
+Model/
+Vendor/WideImage/
+View/
+webroot/
+README.md
+composer.json
+uploads.sql

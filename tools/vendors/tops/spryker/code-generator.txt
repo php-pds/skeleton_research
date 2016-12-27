@@ -1,0 +1,14 @@
+src/Spryker/
+templates/
+tests/
+.editorconfig
+.gitattributes
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+codeception.yml
+composer.json
+phpcs.sh

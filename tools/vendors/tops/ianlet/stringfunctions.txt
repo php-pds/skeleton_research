@@ -1,0 +1,6 @@
+spec/Ianlet/StringFunctions/
+src/Ianlet/StringFunctions/
+LICENSE
+README.md
+composer.json
+phpspec.yml

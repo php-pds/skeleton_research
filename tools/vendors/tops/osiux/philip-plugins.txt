@@ -1,0 +1,5 @@
+src/Osiux/PhilipPlugin/
+.gitignore
+LICENSE
+composer.json
+readme.md

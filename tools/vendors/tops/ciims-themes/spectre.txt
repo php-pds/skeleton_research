@@ -1,0 +1,12 @@
+assets/
+messages/en_us/
+views/
+.gitignore
+Gruntfile.js
+LICENSE.md
+README.md
+Theme.php
+bower.json
+composer.json
+default.png
+package.json

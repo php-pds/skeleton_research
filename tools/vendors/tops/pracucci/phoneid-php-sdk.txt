@@ -1,0 +1,6 @@
+examples/authentication/
+src/PhoneId/
+tests/PhoneId/
+LICENSE
+README.md
+composer.json

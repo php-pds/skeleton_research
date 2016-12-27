@@ -1,0 +1,13 @@
+Block/
+Model/Config/Source/
+Test/
+etc/
+view/frontend/
+.gitignore
+.scrutinizer.yml
+LICENSE.md
+README.md
+composer.json
+composer.lock
+phpunit.xml
+registration.php

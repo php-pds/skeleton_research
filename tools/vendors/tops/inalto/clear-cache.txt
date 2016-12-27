@@ -1,0 +1,8 @@
+Config/
+Console/Command/
+Controller/
+Locale/
+Model/
+View/elements/
+composer.json
+readme.md

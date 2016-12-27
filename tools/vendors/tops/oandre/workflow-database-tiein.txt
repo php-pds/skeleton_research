@@ -1,0 +1,14 @@
+design/
+docs/
+src/
+tests/
+.gitignore
+CREDITS
+ChangeLog
+DEPS
+DESCRIPTION
+NOTICE
+TODO
+composer.json
+composer.lock
+phpunit.xml.dist

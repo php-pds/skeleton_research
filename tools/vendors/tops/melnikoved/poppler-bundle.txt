@@ -1,0 +1,10 @@
+DependencyInjection/
+Exception/
+Lib/
+Resources/config/
+.DS_Store
+.gitignore
+LICENSE
+MelnikovedPopplerBundle.php
+README.md
+composer.json

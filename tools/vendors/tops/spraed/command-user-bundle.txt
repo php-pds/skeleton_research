@@ -1,0 +1,17 @@
+Command/
+CommandBus/
+Controller/
+DependencyInjection/
+Entity/
+EventBus/
+Repository/
+Resources/
+Service/
+Tests/
+.gitignore
+CommandUserBundle.php
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

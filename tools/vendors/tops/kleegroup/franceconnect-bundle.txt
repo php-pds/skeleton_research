@@ -1,0 +1,12 @@
+Controller/
+DependencyInjection/
+Manager/
+Resources/
+Security/Core/
+Tests/
+.gitignore
+FranceConnectBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

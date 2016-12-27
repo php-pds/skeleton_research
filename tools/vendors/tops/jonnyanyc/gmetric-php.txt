@@ -1,0 +1,7 @@
+src/Ganglia/Gmetric/
+testsrc/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock

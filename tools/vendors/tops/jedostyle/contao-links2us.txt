@@ -1,0 +1,6 @@
+files/jedo-links2us/
+system/modules/jedo-links2us/
+.gitattributes
+.gitignore
+README.md
+composer.json

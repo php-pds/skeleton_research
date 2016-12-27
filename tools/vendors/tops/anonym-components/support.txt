@@ -1,0 +1,6 @@
+Traits/
+.gitignore
+Arr.php
+LICENSE
+README.md
+composer.json

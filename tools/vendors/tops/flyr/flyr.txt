@@ -1,0 +1,14 @@
+Flyr/
+app/
+public/
+tests/
+.gitattributes
+.gitignore
+.htaccess
+.travis.yml
+Flyr.zip
+LICENSE.txt
+README.md
+composer.json
+index.php
+phpunit.xml

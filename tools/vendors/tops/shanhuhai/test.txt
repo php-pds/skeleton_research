@@ -1,0 +1,5 @@
+src/Ford/
+vendor/
+composer.json
+composer.lock
+show.php

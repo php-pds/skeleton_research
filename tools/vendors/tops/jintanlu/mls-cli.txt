@@ -1,0 +1,6 @@
+bin/
+plugin/plugin/
+LICENSE
+README.md
+cli-composer-config.json
+composer.json

@@ -1,0 +1,8 @@
+lib/Dandelionmood/OpenExchangeRates/
+tests/
+.gitignore
+README.md
+apigen
+composer.json
+phpunit
+phpunit.xml

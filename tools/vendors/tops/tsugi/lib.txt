@@ -1,0 +1,12 @@
+include/
+src/
+static/js/
+tests/
+util/
+.gitattributes
+.gitignore
+LICENSE
+README.md
+composer.json
+phpdoc.dist.xml
+phpunit.xml.dist

@@ -1,0 +1,10 @@
+spec/SMGladkovskiy/Querier/
+src/SMGladkovskiy/Querier/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+codeception.yml
+composer.json
+phpunit.xml
+readme.md

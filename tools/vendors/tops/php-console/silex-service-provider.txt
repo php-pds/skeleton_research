@@ -1,0 +1,4 @@
+src/PhpConsole/Silex/
+LICENSE
+README.md
+composer.json

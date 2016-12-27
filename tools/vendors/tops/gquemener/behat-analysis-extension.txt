@@ -1,0 +1,7 @@
+spec/Behat/AnalysisExtension/DataCollector/
+src/Behat/AnalysisExtension/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+README.md
+composer.json

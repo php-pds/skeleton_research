@@ -1,0 +1,8 @@
+config/
+src/
+.gitignore
+README.md
+composer.json
+count.php
+ghpages.sh
+insert.php

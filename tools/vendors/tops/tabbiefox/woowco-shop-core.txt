@@ -1,0 +1,9 @@
+AttributeBundle/
+BrandBundle/
+CategoryBundle/
+CommonBundle/
+LanguageBundle/
+PriceBundle/
+ProductBundle/
+UserBundle/
+composer.json

@@ -1,0 +1,10 @@
+ApplicationInsights/
+.gitattributes
+.gitignore
+Application.Insights.phpproj
+Application.Insights.sln
+LICENSE.txt
+README.md
+composer.json
+phpdoc.xml
+phpunit.xml

@@ -1,0 +1,10 @@
+src/
+tests/
+.gitignore
+.travis.yml
+DEVELOPMENT.md
+LICENSE
+README.md
+composer.json
+phpunit.xml
+redlink-CA.pem

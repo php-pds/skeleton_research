@@ -1,0 +1,6 @@
+test/
+.gitignore
+README.md
+composer.json
+test.txt
+version.txt

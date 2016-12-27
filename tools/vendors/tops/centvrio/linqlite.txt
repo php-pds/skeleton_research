@@ -1,0 +1,5 @@
+LinqLite/
+.gitattributes
+.gitignore
+README
+composer.json

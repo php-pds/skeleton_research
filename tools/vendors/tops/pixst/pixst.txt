@@ -1,0 +1,10 @@
+exceptions/
+Action.php
+ChannelInterface.php
+Client.php
+ClientJson.php
+Connection.php
+CurlChannel.php
+LICENSE
+README.md
+composer.json

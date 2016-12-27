@@ -1,0 +1,12 @@
+assets/
+behaviors/
+controllers/
+migrations/
+models/
+nbproject/
+views/
+widgets/
+.gitignore
+Module.php
+README.md
+composer.json

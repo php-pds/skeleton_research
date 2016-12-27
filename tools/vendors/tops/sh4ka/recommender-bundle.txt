@@ -1,0 +1,6 @@
+.gitignore
+README.md
+Recommender.php
+RecommenderBundle.php
+composer.json
+composer.lock

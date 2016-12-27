@@ -1,0 +1,6 @@
+src/Zatsugami/Imgen/
+.gitignore
+LICENSE.txt
+README.md
+composer.json
+test.php

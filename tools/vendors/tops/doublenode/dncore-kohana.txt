@@ -1,0 +1,10 @@
+application/
+media/
+modules/
+.htaccess
+LICENSE
+README.md
+aws.html
+check.install.php
+composer.json
+index.php

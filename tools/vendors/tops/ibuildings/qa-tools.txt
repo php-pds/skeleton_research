@@ -1,0 +1,17 @@
+bin/
+config-dist/
+node_modules/.bin/
+src/Ibuildings/QA/
+.gitignore
+.travis.php.ini
+.travis.yml
+LICENSE
+README.md
+build-pre-commit.xml
+build.xml
+composer.json
+composer.lock
+package.json
+phpcs.xml
+phpmd.xml
+phpunit.xml

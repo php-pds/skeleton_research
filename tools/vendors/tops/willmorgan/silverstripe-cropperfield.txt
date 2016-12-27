@@ -1,0 +1,13 @@
+_config/
+code/
+cropper/
+docs/images/
+templates/
+tests/
+.editorconfig
+.gitattributes
+.travis.yml
+LICENSE
+README.md
+_config.php
+composer.json

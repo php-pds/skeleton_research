@@ -1,0 +1,9 @@
+src/Axhm3a/Phpgcs/
+tests/Axhm3a/Phpgcs/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpgcs
+phpunit.xml.dist

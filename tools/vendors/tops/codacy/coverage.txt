@@ -1,0 +1,10 @@
+.github/
+bin/
+src/Codacy/Coverage/
+tests/
+.gitignore
+LICENSE
+README.md
+circle.yml
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,11 @@
+resources/
+src/JonnyW/AWSS3Assets/
+templates/
+tests/JonnyW/AWSS3Assets/
+.gitignore
+AWSS3AssetsPlugin.php
+LICENSE.md
+README.md
+composer.json
+phpunit.xml
+release.json

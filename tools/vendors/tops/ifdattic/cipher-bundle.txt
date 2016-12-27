@@ -1,0 +1,11 @@
+DependencyInjection/
+Model/
+Resources/
+Security/
+Tests/
+.travis.yml
+IfdatticCipherBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,7 @@
+bin/
+src/Estevam/SON/
+tests/
+.gitignore
+README.md
+composer.json
+phpunit.xml

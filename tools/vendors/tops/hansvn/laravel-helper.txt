@@ -1,0 +1,8 @@
+config/
+src/
+.editorconfig
+CONTRIBUTING.md
+LICENSE.md
+PULL_REQUEST_TEMPLATE.md
+composer.json
+readme.md

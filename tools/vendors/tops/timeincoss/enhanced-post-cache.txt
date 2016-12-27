@@ -1,0 +1,11 @@
+bin/
+tests/
+.gitignore
+.travis.yml
+LICENSE.txt
+README.md
+composer.json
+enhanced-post-cache.php
+phpcs.xml.dist
+phpmd.xml.dist
+phpunit.xml.dist

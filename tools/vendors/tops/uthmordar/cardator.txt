@@ -1,0 +1,9 @@
+src/Uthmordar/Cardator/
+tests/
+.gitignore
+.travis.yml
+composer.json
+lib-doc.html
+phpunit.xml
+readme.md
+version.txt

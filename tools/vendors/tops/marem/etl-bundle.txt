@@ -1,0 +1,6 @@
+Command/
+DependencyInjection/
+Entity/
+Resources/config/
+MaremEtlBundle.php
+composer.json

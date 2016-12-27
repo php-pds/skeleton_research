@@ -1,0 +1,10 @@
+Console/Command/
+Model/Behavior/
+Test/
+.coveralls.yml
+.gitignore
+.travis.yml
+README.md
+composer.json
+fsm.png
+phpunit.xml.dist

@@ -1,0 +1,6 @@
+raven/
+trackers/
+README.md
+composer.json
+readme.txt
+wp-sentry-ican.php

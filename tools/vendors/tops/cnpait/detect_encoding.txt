@@ -1,0 +1,7 @@
+classes/DetectCyrillic/
+data/
+specters/
+README.md
+composer.json
+generate_raw_specter.php
+generate_specters.php

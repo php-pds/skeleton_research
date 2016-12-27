@@ -1,0 +1,11 @@
+Configuration/
+DependencyInjection/
+EventSubscriber/
+Exception/
+Reader/
+Resources/config/
+.gitattributes
+.gitignore
+BobVEntityHistoryBundle.php
+LICENSE
+composer.json

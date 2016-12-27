@@ -1,0 +1,13 @@
+docs/
+src/Harvest/
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+composer.json
+composer.lock
+harvest_api_config.json.dist
+phpunit.xml.dist

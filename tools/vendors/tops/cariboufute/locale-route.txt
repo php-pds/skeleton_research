@@ -1,0 +1,17 @@
+src/
+tests/
+.editorconfig
+.gitignore
+.scrutinizer.yml
+.styleci.yml
+.travis.yml
+changelog.md
+composer.json
+composer.lock
+conduct.md
+contributing.md
+issue_template.md
+license.md
+phpunit.xml
+pull_request_template.md
+readme.md

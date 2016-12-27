@@ -1,0 +1,11 @@
+Controller/
+Entity/
+Form/
+Library/
+Listener/
+Manager/
+Resources/
+README.md
+SimusanteUserwidgetBundle.php
+VERSION.txt
+composer.json

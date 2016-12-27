@@ -1,0 +1,7 @@
+config/
+controllers/
+views/
+Maintenance.php
+Module.php
+Plugin.php
+composer.json

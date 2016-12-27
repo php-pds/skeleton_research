@@ -1,0 +1,6 @@
+vero/
+CHANGES.md
+LICENSE
+README.md
+composer.json
+vero.php

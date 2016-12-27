@@ -1,0 +1,6 @@
+vim74/
+vimfiles/
+README.md
+_viminfo
+_vimrc
+composer.json

@@ -1,0 +1,16 @@
+build/
+config/
+data/
+docs/
+language/
+src/ZfcUser/
+tests/
+view/zfc-user/user/
+.gitignore
+.php_cs
+.scrutinizer.yml
+.travis.yml
+LICENSE
+Module.php
+README.md
+composer.json

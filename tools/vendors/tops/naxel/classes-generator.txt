@@ -1,0 +1,5 @@
+.travis.yml
+Generator.php
+README.md
+classes-generator.php
+composer.json

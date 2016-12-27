@@ -1,0 +1,9 @@
+application/
+docs/
+public/
+tests/
+.gitignore
+.zfproject.xml
+LICENSE
+README.md
+composer.json

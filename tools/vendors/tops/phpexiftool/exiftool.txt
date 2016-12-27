@@ -1,0 +1,16 @@
+arg_files/
+config_files/
+fmt_files/
+html/
+lib/
+t/
+.gitignore
+Changes
+MANIFEST
+META.yml
+Makefile.PL
+README
+composer.json
+exiftool
+exiftool.exe
+perl-Image-ExifTool.spec

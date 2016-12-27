@@ -1,0 +1,15 @@
+Command/
+Controller/
+DependencyInjection/
+Entity/
+Repository/File/
+Resources/
+Tests/
+Uploader/
+Utility/
+.gitignore
+.travis.yml
+PQstudioRestUploadBundle.php
+README.md
+composer.json
+phpunit.xml.dist

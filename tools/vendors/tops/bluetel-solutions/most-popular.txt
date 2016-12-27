@@ -1,0 +1,10 @@
+doc/
+src/
+.editorconfig
+.gitignore
+.travis.yml
+LICENSE.md
+README.md
+cli.php
+composer.json
+phpunit.xml

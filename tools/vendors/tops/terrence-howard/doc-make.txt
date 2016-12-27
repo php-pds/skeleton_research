@@ -1,0 +1,3 @@
+src/TerrenceHoward/DocMake/
+README.md
+composer.json

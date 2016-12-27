@@ -1,0 +1,15 @@
+dotnet/
+go/
+java-scala/
+nodejs/
+php/
+python/
+resources/
+ruby/
+vagrant/
+.gitignore
+.travis.yml
+README.md
+Vagrantfile
+composer.json
+sync_data.py

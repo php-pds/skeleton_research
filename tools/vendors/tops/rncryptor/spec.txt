@@ -1,0 +1,5 @@
+vectors/
+RNCryptor-Spec-v2.md
+RNCryptor-Spec-v3.md
+composer.json
+draft-RNCryptor-Spec-v4.0.md

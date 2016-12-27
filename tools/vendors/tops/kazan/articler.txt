@@ -1,0 +1,9 @@
+src/
+tests/ArticlerTests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+README.md
+composer.json
+phpunit.xml
+report.xml

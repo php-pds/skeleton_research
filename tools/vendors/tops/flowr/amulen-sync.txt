@@ -1,0 +1,5 @@
+src/Flowr/AmulenSyncBundle/
+.gitignore
+LICENSE
+README.md
+composer.json

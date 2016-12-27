@@ -1,0 +1,8 @@
+src/
+tests/
+LICENSE
+README.md
+composer.json
+gulpfile.js
+package.json
+phpunit.xml.dist

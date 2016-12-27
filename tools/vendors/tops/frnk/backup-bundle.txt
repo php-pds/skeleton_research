@@ -1,0 +1,12 @@
+BackupBackend/
+BackupManager/
+BackupTask/
+Command/
+DependencyInjection/
+Resources/
+Tests/
+.travis.yml
+FRNKBackupBundle.php
+README.md
+composer.json
+phpunit.xml.dist

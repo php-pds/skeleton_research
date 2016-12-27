@@ -1,0 +1,8 @@
+build/
+src/
+tests/
+Readme.md
+build.xml
+composer-1.0.1.phar
+composer.json
+composer.lock

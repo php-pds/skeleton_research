@@ -1,0 +1,11 @@
+Tests/
+.travis.yml
+LICENSE
+README.md
+bootstrap.php
+composer.json
+examples-static.php
+examples.php
+phpArray.class.php
+phpArray.test.php
+phpunit.xml

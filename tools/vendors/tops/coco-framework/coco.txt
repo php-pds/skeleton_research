@@ -1,0 +1,12 @@
+base/
+cache/
+console/
+db/
+web/
+.gitignore
+CoCo.php
+Exception.php
+README.md
+autoload.php
+composer.json
+functions.php

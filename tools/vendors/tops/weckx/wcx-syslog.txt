@@ -1,0 +1,6 @@
+library/Wcx/Syslog/
+tests/
+LICENSE
+README.md
+composer.json
+composer.lock

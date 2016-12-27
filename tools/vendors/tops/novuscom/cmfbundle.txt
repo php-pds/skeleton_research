@@ -1,0 +1,17 @@
+Controller/
+DQL/
+DependencyInjection/
+Entity/
+Event/
+Form/
+Menu/
+Resources/
+Routing/
+Services/
+Tests/Controller/
+Twig/
+Validator/Constraints/
+NovuscomCMFBundle.php
+README.md
+UserEvents.php
+composer.json

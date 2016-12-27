@@ -1,0 +1,6 @@
+denemeler/etkinlik/
+src/EtkinlikApi/
+.gitignore
+LICENSE
+README.md
+composer.json

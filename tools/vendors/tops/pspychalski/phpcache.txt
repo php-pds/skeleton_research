@@ -1,0 +1,10 @@
+src/
+tests/
+userData/
+.gitignore
+LICENSE
+README.md
+Vagrantfile
+bootstrap.sh
+composer.json
+composer.lock

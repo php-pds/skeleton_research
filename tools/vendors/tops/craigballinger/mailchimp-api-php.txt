@@ -1,0 +1,4 @@
+lib/Mailchimp/
+.gitignore
+composer.json
+readme.md

@@ -1,0 +1,7 @@
+lib/
+tests/Pharel/
+.gitignore
+.scrutinizer.yml
+LICENSE
+README.md
+composer.json

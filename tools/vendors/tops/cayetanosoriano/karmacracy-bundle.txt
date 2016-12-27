@@ -1,0 +1,8 @@
+DependencyInjection/
+Resources/config/
+.gitignore
+.travis.yml
+README.md
+cayetanosorianoKarmacracyBundle.php
+composer.json
+phpunit.xml.dist

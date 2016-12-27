@@ -1,0 +1,7 @@
+.idea/
+modules/
+src/
+.gitignore
+README.md
+change_log.txt
+composer.json

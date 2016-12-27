@@ -1,0 +1,10 @@
+.idea/
+sql/
+src/SimpleUser/
+tests/SimpleUser/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

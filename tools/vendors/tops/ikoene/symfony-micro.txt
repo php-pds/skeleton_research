@@ -1,0 +1,11 @@
+AppBundle/
+config/
+web/
+.gitignore
+.travis.yml
+LICENSE.md
+MicroKernel.php
+README.md
+composer.json
+console
+phpunit.xml.dist

@@ -1,0 +1,7 @@
+assets/
+blocks/
+resources/
+.gitignore
+Module.php
+README.md
+composer.json

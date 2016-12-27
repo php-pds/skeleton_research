@@ -1,0 +1,9 @@
+lib/PayPal/
+tests/
+.gitignore
+CHANGELOG.md
+LICENSE.txt
+README.md
+build.xml
+composer.json
+phpunit.xml

@@ -1,0 +1,5 @@
+src/Blipfoto/
+.gitignore
+LICENSE
+README.md
+composer.json

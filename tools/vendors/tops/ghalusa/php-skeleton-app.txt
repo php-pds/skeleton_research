@@ -1,0 +1,15 @@
+authenticate/
+dashboard/
+group/
+site/
+user_account/
+vendor/
+webapp_installer/
+.htaccess
+.travis.yml
+LICENSE
+README.md
+composer.json
+default_global_settings.php
+favicon.ico
+index.php

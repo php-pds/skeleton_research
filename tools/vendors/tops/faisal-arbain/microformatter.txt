@@ -1,0 +1,6 @@
+src/FaisalArbain/Microformatter/
+tests/
+.gitignore
+.travis.yml
+composer.json
+phpunit.xml

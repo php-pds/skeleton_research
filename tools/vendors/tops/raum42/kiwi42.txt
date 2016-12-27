@@ -1,0 +1,8 @@
+config/
+module/application/
+public/
+resources/view/
+.gitignore
+LICENSE
+README.md
+composer.json

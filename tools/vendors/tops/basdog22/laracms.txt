@@ -1,0 +1,14 @@
+.idea/
+app/
+bootstrap/
+public_html/
+.gitattributes
+.gitignore
+CONTRIBUTING.md
+artisan
+composer.json
+composer.laravel.json
+ide_helper.php
+phpunit.xml
+readme.md
+server.php

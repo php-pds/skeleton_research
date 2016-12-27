@@ -1,0 +1,15 @@
+Controller/
+DependencyInjection/
+Doctrine/EventListener/
+Entity/
+Form/
+Listener/
+Manager/
+Model/
+Resources/
+Service/
+Tests/Controller/
+Twig/
+README.md
+ValantirForumBundle.php
+composer.json

@@ -1,0 +1,10 @@
+cheats/
+classes/Fixin/
+config/
+tools/
+.codeclimate.yml
+.gitignore
+.scrutinizer.yml
+LICENSE
+README.md
+composer.json

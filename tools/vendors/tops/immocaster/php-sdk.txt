@@ -1,0 +1,8 @@
+Immocaster/
+.gitignore
+README.txt
+Thumbs.db
+composer.json
+index.php
+testbild.jpg
+testpdf.pdf

@@ -1,0 +1,8 @@
+docs/
+lib/Apache/
+tests/
+.gitignore
+README.md
+application.ini-dist
+composer.json
+license

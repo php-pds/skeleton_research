@@ -1,0 +1,7 @@
+conf/
+examples/
+src/Dyndns/
+.gitignore
+LICENSE
+README.md
+composer.json

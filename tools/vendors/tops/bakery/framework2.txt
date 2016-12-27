@@ -1,0 +1,7 @@
+src/Bakery/
+web/
+.gitignore
+.rock.yml
+README.md
+bootstrap.php
+composer.json

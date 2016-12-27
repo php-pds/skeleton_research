@@ -1,0 +1,7 @@
+bin/
+classes/
+.gitignore
+.travis.yml
+composer.json
+markdown-importer.php
+readme.txt

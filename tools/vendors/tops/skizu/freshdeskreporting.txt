@@ -1,0 +1,4 @@
+src/Skizu/FreshdeskReporting/
+.gitignore
+LICENSE
+composer.json

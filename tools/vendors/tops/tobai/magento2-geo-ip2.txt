@@ -1,0 +1,13 @@
+Block/Adminhtml/System/Config/
+Controller/Adminhtml/Database/
+Cron/
+Model/
+Test/Unit/
+etc/
+.gitignore
+.travis.yml
+LICENSE.txt
+README.md
+composer.json
+phpunit.xml.dist
+registration.php

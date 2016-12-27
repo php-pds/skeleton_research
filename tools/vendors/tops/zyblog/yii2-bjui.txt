@@ -1,0 +1,7 @@
+B-JUI/
+assets/
+example-views/
+helpers/
+.DS_Store
+README.md
+composer.json

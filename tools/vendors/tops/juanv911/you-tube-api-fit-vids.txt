@@ -1,0 +1,7 @@
+css/
+js/
+README.md
+composer.json
+composer.phar
+index.html
+license.txt

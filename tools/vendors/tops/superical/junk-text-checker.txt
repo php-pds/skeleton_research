@@ -1,0 +1,7 @@
+src/superical/JunkTextChecker/
+.gitignore
+README.md
+composer.json
+database-config.php
+demo.php
+setup.php

@@ -1,0 +1,6 @@
+src/Analytics/
+test/Analytics/
+LICENSE
+README.md
+composer.json
+phpunit.xml

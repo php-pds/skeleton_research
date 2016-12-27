@@ -1,0 +1,7 @@
+app/
+composer/onepica/
+lib/AvaTax/
+.gitignore
+README.md
+composer.json
+modman

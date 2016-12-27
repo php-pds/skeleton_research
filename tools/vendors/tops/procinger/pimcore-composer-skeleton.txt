@@ -1,0 +1,5 @@
+plugins/
+website/
+Readme.md
+composer.json
+index.php

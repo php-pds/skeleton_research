@@ -1,0 +1,12 @@
+build/
+example/
+src/
+tests/
+.gitattributes
+.gitignore
+README.md
+build.xml
+codeception.yml
+composer.json
+composer.lock
+copying.txt

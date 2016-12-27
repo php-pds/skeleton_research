@@ -1,0 +1,10 @@
+Command/
+DependencyInjection/
+Resources/config/
+SSH/
+Service/Remote/
+Tests/
+LICENSE
+ObjRefRemoteBundle.php
+README.md
+composer.json

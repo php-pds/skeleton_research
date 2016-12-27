@@ -1,0 +1,16 @@
+backend/
+common/
+console/
+db_scripts/
+environments/
+frontend/
+tests/
+.htaccess
+LICENSE.md
+README.md
+composer.json
+init
+init.bat
+requirements.php
+yii
+yii.bat

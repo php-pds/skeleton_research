@@ -1,0 +1,3 @@
+libs/Rocker/FacebookLogin/
+README.md
+composer.json

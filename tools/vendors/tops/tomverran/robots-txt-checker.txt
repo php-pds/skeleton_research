@@ -1,0 +1,8 @@
+src/Robot/
+tests/
+.gitignore
+.travis.yml
+README.md
+Vagrantfile
+composer.json
+phpunit.xml

@@ -1,0 +1,6 @@
+font/
+CaptchaAction.php
+CaptchaValidator.php
+CaptchaWidget.php
+README.md
+composer.json

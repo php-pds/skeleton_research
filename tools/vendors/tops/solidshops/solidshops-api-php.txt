@@ -1,0 +1,4 @@
+src/SolidShopsApi/
+test/
+README.md
+composer.json

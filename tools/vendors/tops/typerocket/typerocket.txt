@@ -1,0 +1,13 @@
+app/
+config/
+plugins/
+resources/
+wordpress/assets/
+.gitignore
+README.md
+composer.json
+galaxy
+gulpfile.js
+init.php
+package.json
+routes.php

@@ -1,0 +1,9 @@
+Classes/
+vendor/
+.gitignore
+README.md
+composer.json
+diagram_school_curriculum.png
+diagram_school_curriculum_simple.png
+diagram_school_persons.png
+diagram_school_persons_simple.png

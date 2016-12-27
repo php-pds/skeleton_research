@@ -1,0 +1,7 @@
+doc/
+src/
+tests/
+README.md
+composer.json
+settings.php
+settings.tests.php

@@ -1,0 +1,8 @@
+tests/
+AUTHORS
+CFile.php
+CFileHelper.php
+CHANGELOG
+LICENSE
+README.rst
+composer.json

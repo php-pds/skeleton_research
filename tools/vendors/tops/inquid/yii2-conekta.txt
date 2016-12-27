@@ -1,0 +1,9 @@
+lib/
+readme_files/
+test/
+.gitignore
+AutoloadExample.php
+AutoloadExample.php~
+LICENSE
+composer.json
+composer.json~

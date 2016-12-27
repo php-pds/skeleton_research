@@ -1,0 +1,12 @@
+src/
+tests/
+.gitignore
+CHANGELOG.md
+CONTRIBUTING.md
+LICENSE
+README.md
+Vagrantfile
+codeception.yml
+composer.json
+composer.lock
+gulpfile.js

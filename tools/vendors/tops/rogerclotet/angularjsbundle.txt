@@ -1,0 +1,6 @@
+DependencyInjection/
+Resources/
+CHANGELOG.md
+README.md
+TSAngularJSBundle.php
+composer.json

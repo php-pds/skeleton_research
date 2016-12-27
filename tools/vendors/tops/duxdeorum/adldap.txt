@@ -1,0 +1,7 @@
+adldap/
+examples/
+lib/adLDAP/
+CHANGELOG.txt
+LICENCE.txt
+README.md
+composer.json

@@ -1,0 +1,3 @@
+src/RapidApi/
+README.md
+composer.json

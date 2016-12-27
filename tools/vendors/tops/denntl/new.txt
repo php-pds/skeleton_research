@@ -1,0 +1,5 @@
+.gitignore
+NewClass.php
+composer.json
+index.php
+newfile.php

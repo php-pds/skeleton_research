@@ -1,0 +1,4 @@
+src/Luka/Composer/MagentoCore/
+.gitignore
+README.md
+composer.json

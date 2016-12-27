@@ -1,0 +1,11 @@
+bin/
+src/PhotoSort/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+box.json
+composer.json
+photosort
+phpunit.xml.dist

@@ -1,0 +1,5 @@
+bin/
+.gitignore
+README.md
+array-converter.php
+composer.json

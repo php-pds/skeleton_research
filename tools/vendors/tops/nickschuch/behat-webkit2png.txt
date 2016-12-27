@@ -1,0 +1,3 @@
+src/Behat/Webkit2png/
+README.md
+composer.json

@@ -1,0 +1,8 @@
+classes/
+config/
+schema/
+tests/DB/
+.gitignore
+ChangeLog.txt
+README.md
+composer.json

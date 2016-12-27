@@ -1,0 +1,9 @@
+assets/
+code/
+hooks/
+.gitignore
+LICENSE
+README.md
+composer.json
+module.xml
+module.zpm

@@ -1,0 +1,8 @@
+images/
+.gitignore
+README.md
+composer.json
+index.php
+jquery-simple-pagination-plugin.js
+simple-pagination-plugin.css
+styles.css

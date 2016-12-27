@@ -1,0 +1,13 @@
+fonts/
+output/
+src/
+tests/
+.gitignore
+.travis.yml
+License.md
+README.md
+bootstrap.php
+composer.json
+index.php
+phpunit.xml.dist
+sonar-project.properties

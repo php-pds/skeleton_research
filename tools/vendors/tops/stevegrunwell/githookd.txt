@@ -1,0 +1,12 @@
+bin/
+includes/
+tests/PHPUnit/
+.editorconfig
+.gitignore
+.travis.yml
+LICENSE.txt
+README.md
+composer.json
+composer.lock
+phpcs.xml
+phpunit.xml

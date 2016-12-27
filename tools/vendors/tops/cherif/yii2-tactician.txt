@@ -1,0 +1,9 @@
+tests/
+.gitignore
+ContainerLocator.php
+LICENSE
+README.md
+Tactician.php
+composer.json
+composer.lock
+phpunit.xml.dist

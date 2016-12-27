@@ -1,0 +1,8 @@
+DependencyInjection/
+Resources/config/
+.gitignore
+LICENSE
+MenuGenerator.php
+README.md
+SculpinMetaNavigationBundle.php
+composer.json

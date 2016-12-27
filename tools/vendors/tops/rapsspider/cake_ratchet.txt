@@ -1,0 +1,7 @@
+config/
+src/
+webroot/js/
+.gitignore
+LICENCE.txt
+README.md
+composer.json

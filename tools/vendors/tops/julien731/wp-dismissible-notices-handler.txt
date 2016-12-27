@@ -1,0 +1,7 @@
+assets/js/
+includes/
+.gitignore
+LICENSE
+README.md
+composer.json
+handler.php

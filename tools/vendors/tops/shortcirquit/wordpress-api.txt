@@ -1,0 +1,12 @@
+Test/
+.gitignore
+ApiRequest.php
+BaseWpApi.php
+ComWpApi.php
+LICENSE
+OrgWpApi.php
+README.md
+WpApiException.php
+composer.json
+composer.lock
+phpunit

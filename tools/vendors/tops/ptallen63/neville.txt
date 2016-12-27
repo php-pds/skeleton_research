@@ -1,0 +1,12 @@
+vendor/
+.DS_Store
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.phar
+config.php
+functions.php
+neville
+neville.php
+seed.php

@@ -1,0 +1,7 @@
+DependencyInjection/
+Model/
+Resources/
+Twig/
+OSBreadcrumbsBundle.php
+README.md
+composer.json

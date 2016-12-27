@@ -1,0 +1,10 @@
+.phpintel/
+DependencyInjection/
+Model/
+Resources/
+Service/
+.gitignore
+AxiolabAjaxBundle.php
+LICENSE
+README.md
+composer.json

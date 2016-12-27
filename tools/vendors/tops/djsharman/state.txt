@@ -1,0 +1,8 @@
+build/
+examples/
+generator/
+.gitignore
+.project
+README.md
+build.xml
+composer.json

@@ -1,0 +1,3 @@
+lib/Migration/
+README.md
+composer.json

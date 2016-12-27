@@ -1,0 +1,12 @@
+src/
+tests/
+.codeclimate.yml
+.editorconfig
+.gitignore
+.styleci.yml
+.travis.yml
+CoverageChecker.php
+LICENSE
+README.md
+composer.json
+phpunit.xml

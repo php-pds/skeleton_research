@@ -1,0 +1,5 @@
+README.md
+TinyMce.php
+TinyMceAsset.php
+TinyMceCompressorAction.php
+composer.json

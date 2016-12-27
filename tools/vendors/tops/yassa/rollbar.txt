@@ -1,0 +1,11 @@
+config/
+src/Yassa/Rollbar/
+tests/
+.gitignore
+.travis.yml
+CONTRIBUTING.md
+LICENSE.md
+Module.php
+README.md
+autoload_classmap.php
+composer.json

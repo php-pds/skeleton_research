@@ -1,0 +1,6 @@
+lib/Sms/
+.buildpath
+.project
+LICENSE
+README.md
+composer.json

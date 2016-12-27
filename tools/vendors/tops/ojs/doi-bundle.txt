@@ -1,0 +1,16 @@
+Command/
+Controller/
+DependencyInjection/
+Entity/
+EventListener/
+Form/Type/
+Importer/
+Object/
+Resources/
+Service/
+Validator/Constraints/
+.crontab
+.gitignore
+.travis.yml
+OjsDoiBundle.php
+composer.json

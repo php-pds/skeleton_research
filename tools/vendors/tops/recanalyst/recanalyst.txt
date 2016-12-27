@@ -1,0 +1,15 @@
+examples/
+resources/
+src/
+test/
+tools/
+.editorconfig
+.gitattributes
+.gitignore
+.travis.yml
+COPYING
+README.md
+composer.json
+package.json
+phpcs.xml
+references.md

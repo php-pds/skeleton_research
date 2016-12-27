@@ -1,0 +1,6 @@
+src/Jisc/
+tests/
+README.md
+composer.json
+phpci.yml
+phpunit.xml

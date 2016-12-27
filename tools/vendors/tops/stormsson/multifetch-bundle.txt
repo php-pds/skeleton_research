@@ -1,0 +1,7 @@
+DependencyInjection/
+Resources/config/
+Services/
+Tests/Services/
+README.md
+StormssonMultifetchBundle.php
+composer.json

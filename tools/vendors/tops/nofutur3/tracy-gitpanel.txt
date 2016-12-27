@@ -1,0 +1,9 @@
+docs/
+src/Nofutur3/GitPanel/Diagnostics/
+.gitattributes
+.gitignore
+.travis.composer.php
+.travis.yml
+LICENSE
+README.md
+composer.json

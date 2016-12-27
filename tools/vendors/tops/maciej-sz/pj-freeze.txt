@@ -1,0 +1,10 @@
+examples/
+src/MaciejSz/PjFreeze/
+tests/php-unit/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

@@ -1,0 +1,11 @@
+DependencyInjection/
+Processor/
+Resources/config/
+Tests/Processor/
+.gitignore
+.scrutinizer.yml
+LICENSE
+README.md
+SkowronlineUserProcessorBundle.php
+composer.json
+phpunit.xml.dist

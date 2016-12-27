@@ -1,0 +1,8 @@
+Intelipost/
+examples/
+.buildpath
+.gitignore
+README.md
+composer.json
+index.php
+intelipost.inc.php

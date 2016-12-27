@@ -1,0 +1,17 @@
+configuration/
+dialplans/
+runtime/
+sql/
+.gitignore
+README.md
+composer.json
+dialplan_importer.php
+fs_cdr.php
+fs_chatplan.php
+fs_configuration.php
+fs_curl.php
+fs_dialplan.php
+fs_directory.php
+global_defines.sample.php
+index.php
+test.php

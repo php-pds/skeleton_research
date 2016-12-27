@@ -1,0 +1,4 @@
+composer.json
+config.ini
+getPharVersion.php
+myapp.phar

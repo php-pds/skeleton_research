@@ -1,0 +1,16 @@
+bin/
+cache/20160323211903/
+config/
+log/
+public/
+src/
+tests/
+.coveralls.yml
+.gitignore
+.travis.yml
+Gemfile
+Gemfile.lock
+MIT-LICENSE
+README.md
+composer.json
+phpunit.xml.dist

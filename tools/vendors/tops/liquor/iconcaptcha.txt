@@ -1,0 +1,9 @@
+.idea/
+res/captcha/
+src/
+.gitignore
+README.md
+composer.json
+index.php
+layout.php
+phpunit.xml

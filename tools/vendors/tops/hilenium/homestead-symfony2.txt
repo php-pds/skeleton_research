@@ -1,0 +1,11 @@
+.idea/
+scripts/
+src/
+.gitattributes
+.gitignore
+Vagrantfile
+composer.json
+composer.lock
+homestead
+init.sh
+readme.md

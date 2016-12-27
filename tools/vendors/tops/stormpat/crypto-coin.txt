@@ -1,0 +1,5 @@
+src/CryptoCoin/
+tests/
+.gitignore
+README.md
+composer.json

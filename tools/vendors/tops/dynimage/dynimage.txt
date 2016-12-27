@@ -1,0 +1,9 @@
+src/DynImage/
+tests/DynImage/
+.gitignore
+.travis.yml
+README.md
+composer.json
+favicon.ico
+phpunit.xml.dist
+test.php

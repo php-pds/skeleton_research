@@ -1,0 +1,7 @@
+APCommon/src/
+.gitignore
+APCommon.php
+LICENSE
+README.md
+composer.json
+howto.php

@@ -1,0 +1,11 @@
+doc/
+src/CheckDigit/
+test/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+build.xml
+composer.json
+phpdoc.dist.xml
+phpunit.xml.dist

@@ -1,0 +1,11 @@
+application/
+manifests/
+www/
+.gitignore
+CHANGELOG
+LICENSE
+README.md
+Vagrantfile
+composer.json
+composer.lock
+composer.phar

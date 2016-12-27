@@ -1,0 +1,6 @@
+src/Adoy/FastCGI/
+.gitignore
+LICENSE
+README
+composer.json
+fcgiget.php

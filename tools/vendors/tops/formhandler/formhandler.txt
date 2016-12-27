@@ -1,0 +1,11 @@
+config/
+demo/
+nbproject/
+src/
+tests/src/
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit-travis.xml
+phpunit_bootstrap.php

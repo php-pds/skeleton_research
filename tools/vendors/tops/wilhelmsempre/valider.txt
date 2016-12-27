@@ -1,0 +1,9 @@
+documentation/
+example/
+lib/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock

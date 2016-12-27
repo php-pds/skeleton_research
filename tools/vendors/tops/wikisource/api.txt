@@ -1,0 +1,9 @@
+examples/
+src/
+.gitignore
+.travis.yml
+LICENCE.md
+README.md
+composer.json
+phpcs.xml
+phpdoc.dist.xml

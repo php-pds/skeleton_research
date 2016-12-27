@@ -1,0 +1,11 @@
+Asset/
+DependencyInjection/
+Resources/config/
+Tests/
+.gitignore
+.travis.yml
+IrozgarGulpRevVersionsBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml

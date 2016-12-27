@@ -1,0 +1,8 @@
+src/
+test/saiashirwadinformatia/test/
+.gitignore
+LICENSE
+README.md
+bootstrap.php
+composer.json
+phpunit.xml

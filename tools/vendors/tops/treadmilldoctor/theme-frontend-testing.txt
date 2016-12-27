@@ -1,0 +1,4 @@
+etc/
+composer.json
+register.php
+theme.xml

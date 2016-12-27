@@ -1,0 +1,10 @@
+doc/
+sample/
+test/
+.gitignore
+README.ja.md
+README.md
+composer.json
+doc.sh
+qb.php
+test.sh

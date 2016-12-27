@@ -1,0 +1,11 @@
+CacheResolver/
+DependencyInjection/
+Model/
+Resources/config/
+Tests/
+Aldoc.php
+AldocException.php
+WeideAldocBundle.php
+composer.json
+phpunit.xml.dist
+readme.md

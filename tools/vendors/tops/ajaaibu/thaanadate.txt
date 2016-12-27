@@ -1,0 +1,3 @@
+src/Ajaaibu/Thaanadate/
+README.md
+composer.json

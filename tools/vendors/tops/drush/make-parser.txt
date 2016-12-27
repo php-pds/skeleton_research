@@ -1,0 +1,8 @@
+src/
+tests/
+.gitattributes
+.travis.yml
+README.md
+composer.json
+make.utilities.inc
+phpunit.xml.dist

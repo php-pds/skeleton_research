@@ -1,0 +1,6 @@
+src/Kman/Xmpp/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json

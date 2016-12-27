@@ -1,0 +1,5 @@
+examples/
+src/Paxx/Withings/
+.gitignore
+README.md
+composer.json

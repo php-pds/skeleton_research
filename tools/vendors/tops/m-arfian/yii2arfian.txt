@@ -1,0 +1,8 @@
+development/
+.gitignore
+README.md
+S3.php
+SimpleImage.php
+amazon-s3-php-class-master.zip
+composer.json
+composer.phar

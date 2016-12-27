@@ -1,0 +1,8 @@
+Controller/
+DependencyInjection/
+Resources/config/
+Traits/
+.gitignore
+LucySearchBundle.php
+README.md
+composer.json

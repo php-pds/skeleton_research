@@ -1,0 +1,9 @@
+config/
+examples/
+src/OpenExchangeRates/
+tests/
+.gitignore
+LICENSE.txt
+README.md
+composer.json
+phpunit.xml

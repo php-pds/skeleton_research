@@ -1,0 +1,5 @@
+lib/my/bq/
+.gitignore
+README.md
+autoload.php
+composer.json

@@ -1,0 +1,14 @@
+docs/examples/
+src/
+tests/
+.gitattributes
+.gitignore
+.php_cs.dist
+.scrutinizer.yml
+.sensiolabs.yml
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

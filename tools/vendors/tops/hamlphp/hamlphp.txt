@@ -1,0 +1,8 @@
+docs/
+src/HamlPHP/
+test/
+.gitignore
+.gitmodules
+MIT-LICENSE
+README.mkd
+composer.json

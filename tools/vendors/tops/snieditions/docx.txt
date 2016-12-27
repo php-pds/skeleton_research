@@ -1,0 +1,12 @@
+.idea/
+Docx/
+krumo/
+tmp/
+.gitignore
+LICENSE
+README.md
+composer.json
+functions.php
+html.tpl.php
+index.php
+test.php

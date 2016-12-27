@@ -1,0 +1,8 @@
+assets/
+LICENSE
+Option.md
+README.md
+Sly.php
+SlyAsset.php
+composer.json
+example.php

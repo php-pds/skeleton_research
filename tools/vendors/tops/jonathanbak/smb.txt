@@ -1,0 +1,8 @@
+src/SMB/
+tests/SMB/
+.gitignore
+LICENSE
+README.md
+composer.json
+configure.json
+phpunit.xml

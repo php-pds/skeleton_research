@@ -1,0 +1,6 @@
+core/
+web/controller/
+.gitignore
+composer.json
+index.php
+readme.txt

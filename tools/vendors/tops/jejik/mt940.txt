@@ -1,0 +1,10 @@
+lib/Jejik/MT940/
+tests/
+.gitignore
+.travis.yml
+LICENSE.fixtures.txt
+LICENSE.txt
+README.md
+UPGRADE.md
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,9 @@
+components/
+controllers/
+migrations/
+models/
+views/default/
+LICENSE
+README.md
+UploadManager.php
+composer.json

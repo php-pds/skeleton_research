@@ -1,0 +1,7 @@
+Facades/
+.gitignore
+Embed.php
+LICENSE
+Oembed.php
+OembedServiceProvider.php
+composer.json

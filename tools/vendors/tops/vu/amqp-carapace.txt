@@ -1,0 +1,9 @@
+AMQPCarapace/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+bootstrap.php
+composer.json
+composer.phar
+phpunit.xml.dist

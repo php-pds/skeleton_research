@@ -1,0 +1,15 @@
+docs/
+src/Signer/
+tests/
+.coveralls.yml
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CHANGELOG.md
+LICENSE.md
+Makefile
+README.md
+VERSION
+composer.json
+phpmd.xml.dist
+phpunit.xml.dist

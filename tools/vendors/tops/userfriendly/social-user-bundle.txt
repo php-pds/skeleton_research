@@ -1,0 +1,12 @@
+Controller/
+DependencyInjection/
+Event/
+Firewall/
+Model/
+OAuth/
+Resources/
+Twig/Extension/
+LICENCE
+README.md
+UserfriendlySocialUserBundle.php
+composer.json

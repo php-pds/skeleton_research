@@ -1,0 +1,4 @@
+src/PhpDDD/
+LICENSE
+README.md
+composer.json

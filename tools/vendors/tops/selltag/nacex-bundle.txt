@@ -1,0 +1,13 @@
+Client/
+DependencyInjection/
+Exceptions/
+Resources/
+Serializer/
+Services/
+Tests/
+.gitignore
+.travis.yml
+README.md
+SelltagNacexBundle.php
+composer.json
+phpunit.xml

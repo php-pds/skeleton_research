@@ -1,0 +1,9 @@
+doc/
+src/TransRush/
+tests/
+.gitignore
+.travis.yml
+README.md
+composer.json
+license.txt
+phpunit.xml

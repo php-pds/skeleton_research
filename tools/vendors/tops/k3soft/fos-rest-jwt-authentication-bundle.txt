@@ -1,0 +1,7 @@
+DependencyInjection/
+EventListener/
+Request/
+Resources/config/
+Security/
+K3SoftFOSRestJWTAuthenticationBundle.php
+composer.json

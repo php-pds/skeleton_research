@@ -1,0 +1,9 @@
+demo/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+demo.php
+linkedin_3.2.0.1.class.php
+phpunit.xml.dist

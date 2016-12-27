@@ -1,0 +1,9 @@
+DependencyInjection/
+Resources/config/
+Serializer/Config/
+Tests/
+.travis.yml
+BotanickSerializerBundle.php
+README.md
+composer.json
+phpunit.xml.dist

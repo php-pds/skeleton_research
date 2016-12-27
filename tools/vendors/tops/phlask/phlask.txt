@@ -1,0 +1,12 @@
+lib/phlask/
+tests/
+.gitignore
+.php_cs
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+daemon.md
+phpunit.xml.dist
+release-notes.md

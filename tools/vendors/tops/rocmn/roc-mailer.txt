@@ -1,0 +1,6 @@
+demo/
+src/ROCMN/ROCMailer/
+.gitignore
+README.MD
+composer.json
+composer.lock

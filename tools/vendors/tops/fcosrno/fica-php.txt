@@ -1,0 +1,9 @@
+example/
+spec/Fcosrno/
+src/
+.gitignore
+CHANGELOG.md
+README.md
+composer.json
+composer.lock
+phpspec.yml

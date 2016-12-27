@@ -1,0 +1,11 @@
+script/
+src/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CONTRIBUTING.md
+LICENSE.md
+README.md
+composer.json
+composer.lock
+contributors.txt

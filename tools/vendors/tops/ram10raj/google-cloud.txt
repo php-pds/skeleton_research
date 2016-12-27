@@ -1,0 +1,11 @@
+Block/MediaStorage/System/Config/System/Storage/Media/Synchronise/
+Console/Command/
+Helper/
+Model/
+etc/
+view/adminhtml/templates/system/config/system/storage/media/
+.gitignore
+LICENSE
+README.md
+composer.json
+registration.php

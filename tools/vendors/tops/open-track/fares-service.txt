@@ -1,0 +1,11 @@
+app/
+bin/
+lib/
+test/lib/
+www/
+.gitignore
+README.md
+composer.json
+composer.lock
+package.json
+phpunit.xml

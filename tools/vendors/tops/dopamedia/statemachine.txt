@@ -1,0 +1,15 @@
+Api/
+Console/Command/
+Helper/Generator/
+Model/
+Observer/
+Setup/
+Test/
+etc/
+.codeclimate.yml
+.travis.yml
+LICENSE.md
+README.md
+composer.json
+phpunit.xml.dist
+registration.php

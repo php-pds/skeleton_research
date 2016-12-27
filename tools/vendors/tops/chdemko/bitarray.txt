@@ -1,0 +1,12 @@
+examples/
+src/BitArray/
+tests/
+utility/
+.gitignore
+.travis.yml
+README.md
+build.xml
+cite.bib
+composer.json
+phpdoc.dist.xml
+phpunit.xml.dist

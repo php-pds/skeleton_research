@@ -1,0 +1,9 @@
+docs/
+src/
+.gitignore
+CHANGELOG.md
+INSTALL.md
+LICENSE
+README.md
+composer.json
+composer.lock

@@ -1,0 +1,9 @@
+config/
+src/
+webroot/
+.bowerrc
+.gitignore
+README.md
+bower.json
+composer.json
+postinstall.sh

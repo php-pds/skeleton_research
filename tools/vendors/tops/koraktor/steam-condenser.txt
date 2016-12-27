@@ -1,0 +1,9 @@
+lib/
+tests/
+.codeclimate.yml
+.gitignore
+.travis.yml
+CONTRIBUTING.md
+LICENSE
+README.md
+composer.json

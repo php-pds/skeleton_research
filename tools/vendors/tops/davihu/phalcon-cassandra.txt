@@ -1,0 +1,7 @@
+docs/
+src/PhalconCassandra/Db/
+tests/
+.gitignore
+README.md
+codeception.yml
+composer.json

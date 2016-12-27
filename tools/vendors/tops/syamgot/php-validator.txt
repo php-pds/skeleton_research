@@ -1,0 +1,5 @@
+src/syamgot/validator/
+tests/
+LICENSE
+README.md
+composer.json

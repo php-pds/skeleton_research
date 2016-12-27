@@ -1,0 +1,6 @@
+src/SlimSurveys/
+tests/
+.gitignore
+composer.json
+phpunit.xml
+readme.md

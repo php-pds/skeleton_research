@@ -1,0 +1,9 @@
+demo/
+src/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+autoload.php
+composer.json
+resque-scheduler.php

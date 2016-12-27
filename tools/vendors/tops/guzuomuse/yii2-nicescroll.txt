@@ -1,0 +1,5 @@
+assets/js/
+NiceScroll.php
+NiceScrollAsset.php
+README.md
+composer.json

@@ -1,0 +1,4 @@
+Kaigan/QBank2/API/
+.gitignore
+composer.json
+readme.md

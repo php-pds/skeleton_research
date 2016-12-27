@@ -1,0 +1,6 @@
+dashboard/
+install/
+vendor/
+composer.json
+composer.lock
+readme.md

@@ -1,0 +1,6 @@
+cwsoft-shortcode/
+docs/
+.gitignore
+LICENSE.txt
+README.md
+composer.json

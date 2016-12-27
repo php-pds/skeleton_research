@@ -1,0 +1,10 @@
+DependencyInjection/
+Loader/
+Resources/
+Template/
+Tests/
+.travis.yml
+README.md
+SfkEmailTemplateBundle.php
+composer.json
+phpunit.xml.dist

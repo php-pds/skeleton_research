@@ -1,0 +1,10 @@
+examples/
+features/
+src/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+behat.yml
+composer.json
+composer.lock

@@ -1,0 +1,8 @@
+DependencyInjection/
+Pager/
+Resources/config/
+Twig/Extension/
+LICENSE
+README.md
+SmilingPlantsPagerBundle.php
+composer.json

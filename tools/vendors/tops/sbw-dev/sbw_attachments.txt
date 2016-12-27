@@ -1,0 +1,7 @@
+views/default/
+.gitattributes
+.gitignore
+README.md
+composer.json
+manifest.xml
+start.php

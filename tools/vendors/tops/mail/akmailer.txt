@@ -1,0 +1,7 @@
+example/
+lib/
+mailers/
+.gitignore
+README.md
+composer.json
+index.php

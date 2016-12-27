@@ -1,0 +1,12 @@
+ComposerScript/
+config/
+data/cache/
+module/Application/
+public/
+vendor/
+.gitignore
+.gitmodules
+LICENSE
+README.md
+composer.json
+init_autoloader.php

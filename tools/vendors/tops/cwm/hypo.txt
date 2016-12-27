@@ -1,0 +1,7 @@
+lib/CWM/Hypo/
+tests/
+.gitignore
+.travis.yml
+CHANGELOG
+README.md
+composer.json

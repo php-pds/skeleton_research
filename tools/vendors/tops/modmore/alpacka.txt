@@ -1,0 +1,10 @@
+_build/
+core/components/alpacka/
+tests/
+.gitignore
+changelog.md
+circle.yml
+circleci.modx.config.xml
+composer.json
+phpunit.xml
+readme.md

@@ -1,0 +1,6 @@
+docs/
+src/Greenfly/
+.gitignore
+README.md
+apiary.apib
+composer.json

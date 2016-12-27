@@ -1,0 +1,4 @@
+src/Pourquoi/InfluxDB/
+.gitignore
+README.md
+composer.json

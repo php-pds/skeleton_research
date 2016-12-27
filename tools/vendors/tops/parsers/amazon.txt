@@ -1,0 +1,6 @@
+src/
+stubs/
+CONTRIBUTING.md
+LICENSE
+README.md
+composer.json

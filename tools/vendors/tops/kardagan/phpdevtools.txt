@@ -1,0 +1,10 @@
+Extensions/
+src/
+tests/
+.atoum.php
+.bootstrap.atoum.php
+.gitattributes
+.gitignore
+README.md
+composer.json
+phpunit.xml

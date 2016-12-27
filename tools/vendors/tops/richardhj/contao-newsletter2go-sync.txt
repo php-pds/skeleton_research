@@ -1,0 +1,5 @@
+module/
+src/Newsletter2Go/ContaoSync/
+LICENSE
+README.md
+composer.json

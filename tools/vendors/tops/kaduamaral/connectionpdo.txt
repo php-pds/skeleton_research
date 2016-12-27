@@ -1,0 +1,8 @@
+drivers/
+.gitattributes
+.gitignore
+ConnectionPDO.php
+LICENSE
+README.md
+composer.json
+teste.php

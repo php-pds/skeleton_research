@@ -1,0 +1,5 @@
+src/Enum/
+tests/
+.gitignore
+README.md
+composer.json

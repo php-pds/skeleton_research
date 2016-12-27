@@ -1,0 +1,7 @@
+Behavior/
+Doctrine/ORM/
+Tests/
+.gitignore
+README.md
+changelog.md
+composer.json

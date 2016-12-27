@@ -1,0 +1,11 @@
+src/Simpleci/Deployer/
+tests/
+.gitignore
+.rmt.yml
+.travis.yml
+README.md
+RoboFile.php
+composer.json
+composer.lock
+deployer
+phpunit.xml

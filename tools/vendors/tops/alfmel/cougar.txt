@@ -1,0 +1,8 @@
+Cougar/
+unit_tests/
+INSTALL.TXT
+LICENSE.TXT
+README.md
+composer.json
+cougar.php
+package.xml

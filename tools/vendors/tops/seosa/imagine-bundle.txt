@@ -1,0 +1,10 @@
+DependencyInjection/
+Exception/
+Imagine/
+PhpFastImage @ 5028f8a
+Resources/config/
+ext/
+.gitignore
+.gitmodules
+SeoSAImagineBundle.php
+composer.json

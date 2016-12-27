@@ -1,0 +1,11 @@
+docs/
+examples/
+src/ClearSale/
+tests/
+.gitignore
+.travis.yml
+LICENSE.md
+README.eng.md
+README.md
+composer.json
+phpunit.xml.dist

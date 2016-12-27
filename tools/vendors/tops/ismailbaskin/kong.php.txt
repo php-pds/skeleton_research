@@ -1,0 +1,6 @@
+src/
+tests/Manager/
+.gitignore
+composer.json
+composer.lock
+phpunit.xml

@@ -1,0 +1,5 @@
+app/
+skin/adminhtml/default/
+.gitignore
+README.md
+composer.json

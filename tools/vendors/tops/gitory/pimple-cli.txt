@@ -1,0 +1,7 @@
+doc/screenshots/
+spec/Gitory/PimpleCli/
+src/
+.gitignore
+.travis.yml
+README.md
+composer.json

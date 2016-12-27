@@ -1,0 +1,5 @@
+src/Jazz/
+.gitignore
+.travis.yml
+README.md
+composer.json

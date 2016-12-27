@@ -1,0 +1,8 @@
+demo/
+doc/
+test/
+tmd/
+.gitignore
+README.md
+composer.json
+test.php

@@ -1,0 +1,6 @@
+application/
+vendor/
+.gitignore
+README.md
+composer.json
+composer.phar

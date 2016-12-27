@@ -1,0 +1,7 @@
+example/
+src/NinoSimeon/PDFMerge/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock

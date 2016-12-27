@@ -1,0 +1,16 @@
+Classes/
+Configuration/
+Contrib/less.php/
+Resources/
+LICENSE
+README.md
+class.ext_update.php
+composer.json
+composer.lock
+ext_autoload.php
+ext_conf_template.txt
+ext_emconf.php
+ext_icon.svg
+ext_localconf.php
+ext_tables.php
+ext_tables.sql

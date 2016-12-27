@@ -1,0 +1,11 @@
+.gitignore
+ClientException.php
+Customer.php
+CustomerBuilder.php
+LICENSE.md
+README.md
+VoucherBuilder.php
+VoucherifyClient.php
+VoucherifyRequest.php
+composer.json
+composer.lock

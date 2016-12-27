@@ -1,0 +1,6 @@
+src/PHPBarcode/
+.gitattributes
+.gitignore
+LICENSE
+README.md
+composer.json

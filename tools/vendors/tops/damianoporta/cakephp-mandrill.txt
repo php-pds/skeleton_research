@@ -1,0 +1,6 @@
+config/
+src/Network/Email/
+tests/
+webroot/
+README.md
+composer.json

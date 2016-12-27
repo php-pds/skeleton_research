@@ -1,0 +1,16 @@
+dbmigrations/
+localization/
+skins/
+.gitignore
+ChangeLog
+INSTALL
+LICENSE
+README.md
+carddav.php
+carddav_backend.php
+carddav_common.php
+carddav_discovery.php
+composer.json
+composer.lock
+config.inc.php.dist
+package.xml

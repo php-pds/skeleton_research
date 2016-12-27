@@ -1,0 +1,9 @@
+app/
+bootstrap/
+config/
+public/
+resources/
+.gitignore
+.htaccess
+composer.json
+index.php

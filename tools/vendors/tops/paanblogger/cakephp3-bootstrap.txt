@@ -1,0 +1,3 @@
+src/Template/Bake/Template/
+README.md
+composer.json

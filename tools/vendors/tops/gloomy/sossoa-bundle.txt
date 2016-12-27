@@ -1,0 +1,9 @@
+DependencyInjection/
+EventListener/
+Guzzle/Subscriber/
+Monolog/Handler/
+Resources/config/
+Service/
+GloomySosSoaBundle.php
+README.md
+composer.json

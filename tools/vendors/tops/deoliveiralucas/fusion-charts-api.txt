@@ -1,0 +1,7 @@
+example/public/
+library/FusionCharts/
+.gitignore
+CONTRIBUTING.md
+README.md
+composer.json
+composer.lock

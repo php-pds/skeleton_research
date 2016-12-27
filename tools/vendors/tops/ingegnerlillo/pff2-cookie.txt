@@ -1,0 +1,8 @@
+resources/
+src/
+.gitignore
+LICENSE
+README.md
+composer.json
+module.conf.yaml
+module.yaml

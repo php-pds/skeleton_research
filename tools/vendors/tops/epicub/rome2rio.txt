@@ -1,0 +1,10 @@
+DependencyInjection/
+Entity/
+Interfaces/
+Resources/config/
+Services/
+.gitignore
+EpicR2RioBundle.php
+LICENSE
+README.md
+composer.json

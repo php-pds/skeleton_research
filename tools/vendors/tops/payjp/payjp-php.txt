@@ -1,0 +1,14 @@
+lib/
+tests/
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+RequestExample.md
+VERSION
+build.php
+composer.json
+init.php
+phpunit.no_autoload.xml
+phpunit.xml

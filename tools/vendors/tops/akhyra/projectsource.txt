@@ -1,0 +1,12 @@
+.idea/
+Vagrant/
+app/
+src/
+var/
+web/
+.gitignore
+README.md
+Vagrantfile
+composer.json
+composer.lock
+phpunit.phar

@@ -1,0 +1,6 @@
+src/Pheddar/
+tests/
+.gitignore
+README.md
+composer.json
+phpunit.xml.dist

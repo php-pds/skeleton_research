@@ -1,0 +1,12 @@
+app/
+data/webhook-examples/
+docs/
+src/LooplineSystems/IssueManager/
+web/
+.gitignore
+CHANGELOG.md
+LICENSE
+README.md
+composer.json
+composer.lock
+composer.phar

@@ -1,0 +1,9 @@
+examples/
+scripts/
+src/Curl/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json

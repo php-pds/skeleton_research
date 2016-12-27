@@ -1,0 +1,14 @@
+code/
+css/
+images/
+javascript/
+templates/
+tests/
+.editorconfig
+.scrutinizer.yml
+.travis.yml
+LICENSE.md
+README.md
+_config.php
+code-of-conduct.md
+composer.json

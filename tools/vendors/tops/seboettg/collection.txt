@@ -1,0 +1,9 @@
+src/Seboettg/Collection/
+tests/Seboettg/Collection/Test/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+bootstrap.php
+composer.json
+phpunit.xml

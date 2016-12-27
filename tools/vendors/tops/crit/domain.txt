@@ -1,0 +1,6 @@
+src/Domain/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json

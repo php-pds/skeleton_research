@@ -1,0 +1,8 @@
+config/
+lib/
+.gitignore
+LICENSE
+README
+VERSION
+composer.json
+package.xml.tmpl

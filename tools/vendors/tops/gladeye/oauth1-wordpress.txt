@@ -1,0 +1,6 @@
+resources/examples/
+src/
+tests/src/
+.gitignore
+composer.json
+phpunit.xml

@@ -1,0 +1,4 @@
+lib/SirWise/
+.gitignore
+README.md
+composer.json

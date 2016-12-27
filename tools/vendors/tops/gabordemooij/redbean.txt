@@ -1,0 +1,13 @@
+RedBeanPHP/
+testing/
+.gitignore
+.travis.yml
+README.markdown
+composer.json
+deepfreeze.php
+p533patch.php
+replica2-win.php
+replica2.php
+run_all_tests.sh
+run_single_test.sh
+test-dist.ini

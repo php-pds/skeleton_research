@@ -1,0 +1,4 @@
+examples/
+src/Leon2012/Snowflake/
+README.md
+composer.json

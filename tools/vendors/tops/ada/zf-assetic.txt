@@ -1,0 +1,5 @@
+src/ZfAssetic/ViewHelper/
+tests/
+.gitignore
+README.md
+composer.json

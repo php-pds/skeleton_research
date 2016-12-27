@@ -1,0 +1,4 @@
+README.rst
+commit-msg
+composer.json
+pre-commit

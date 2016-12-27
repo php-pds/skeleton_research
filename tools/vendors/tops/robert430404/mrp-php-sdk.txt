@@ -1,0 +1,12 @@
+docs/
+src/mrpsdk/
+tests/mrpsdk/
+.codeclimate.yml
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml

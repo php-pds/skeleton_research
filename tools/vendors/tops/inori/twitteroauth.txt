@@ -1,0 +1,14 @@
+images/
+twitteroauth/
+DOCUMENTATION.md
+LICENSE
+README.md
+callback.php
+clearsessions.php
+composer.json
+config.php
+connect.php
+html.inc
+index.php
+redirect.php
+test.php

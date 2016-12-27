@@ -1,0 +1,6 @@
+config/
+src/SeoUrl/Service/
+.gitignore
+Module.php
+README.md
+composer.json

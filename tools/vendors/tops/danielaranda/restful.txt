@@ -1,0 +1,12 @@
+core/RESTful/
+public/
+services/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+composer.phar
+phpunit.xml

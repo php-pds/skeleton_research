@@ -1,0 +1,9 @@
+lib/SOPx/Auth/V1_1/
+tests/
+.gitignore
+.travis.yml
+Makefile
+README.md
+composer.json
+composer.lock
+phpunit.xml

@@ -1,0 +1,12 @@
+.idea/
+examples/
+src/
+tests/
+.gitignore
+.travis.yml
+Hps.php
+LICENSE.txt
+PRIVACY.txt
+README.md
+composer.json
+index.php

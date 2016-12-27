@@ -1,0 +1,7 @@
+resources/templates/
+src/
+LICENSE
+README.md
+Untitled.mdj
+composer.json
+contributors.txt

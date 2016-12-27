@@ -1,0 +1,8 @@
+requests/
+LICENSE
+README.md
+_config.yml
+client.php
+composer.json
+request.php
+response.php

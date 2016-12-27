@@ -1,0 +1,10 @@
+Tests/
+Validator/Constraints/
+.editorconfig
+.gitignore
+.travis.yml
+LICENSE
+README.md
+TreewebValidationBundle.php
+composer.json
+phpunit.xml.dist

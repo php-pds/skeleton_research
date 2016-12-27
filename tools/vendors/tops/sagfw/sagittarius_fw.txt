@@ -1,0 +1,5 @@
+core/
+errors/
+LICENSE
+composer.json
+index.php

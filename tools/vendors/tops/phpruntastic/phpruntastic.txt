@@ -1,0 +1,4 @@
+LICENSE.md
+README.md
+class.runtastic.php
+composer.json

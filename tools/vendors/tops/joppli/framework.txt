@@ -1,0 +1,4 @@
+src/Joppli/
+README.md
+WTFPL
+composer.json

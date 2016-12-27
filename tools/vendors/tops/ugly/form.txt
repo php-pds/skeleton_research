@@ -1,0 +1,8 @@
+public/
+src/UglyForm/
+tests/
+.DS_Store
+.gitignore
+README.md
+composer.json
+composer.lock

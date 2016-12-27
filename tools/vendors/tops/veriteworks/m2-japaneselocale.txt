@@ -1,0 +1,8 @@
+.gitignore
+LICENSE_AFL.txt
+LICENSE_OSL.txt
+Readme.md
+composer.json
+ja_jp.csv
+language.xml
+registration.php

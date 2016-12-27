@@ -1,0 +1,6 @@
+test/
+README.MD
+bower.json
+composer.json
+jsutils.tmpl.js
+module.json

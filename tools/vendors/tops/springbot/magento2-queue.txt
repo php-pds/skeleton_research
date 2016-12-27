@@ -1,0 +1,11 @@
+Api/
+Console/Command/
+Helper/
+Model/
+Setup/
+etc/
+.gitignore
+LICENSE.md
+README.md
+composer.json
+registration.php

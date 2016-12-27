@@ -1,0 +1,7 @@
+doc/components/rest/
+src/Broda/
+tests/Broda/Tests/
+.gitignore
+README.md
+composer.json
+phpunit.xml.dist

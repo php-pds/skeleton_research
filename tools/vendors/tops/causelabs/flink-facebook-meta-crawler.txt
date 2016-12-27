@@ -1,0 +1,6 @@
+src/CauseLabs/Flink/
+tests/CauseLabs/Flink/Analyzer/
+.gitignore
+README.md
+composer.json
+phpunit.xml

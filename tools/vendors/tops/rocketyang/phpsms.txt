@@ -1,0 +1,8 @@
+src/phpsms/
+test/
+.gitignore
+LICENSE
+README.md
+aa.txt
+composer.json
+composer.lock

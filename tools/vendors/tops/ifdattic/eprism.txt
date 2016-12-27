@@ -1,0 +1,4 @@
+assets/
+EPrism.php
+README.markdown
+composer.json

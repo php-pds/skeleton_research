@@ -1,0 +1,4 @@
+Resources/
+Ang3DashboardBundle.php
+README.md
+composer.json

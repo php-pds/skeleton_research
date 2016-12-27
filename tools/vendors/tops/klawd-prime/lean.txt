@@ -1,0 +1,10 @@
+external/
+lean/
+test/
+www/
+.gitignore
+.gitmodules
+README.markdown
+composer.json
+composer.lock
+todo.markdown

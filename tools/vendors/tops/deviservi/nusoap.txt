@@ -1,0 +1,5 @@
+lib/
+samples/
+.gitignore
+README.md
+composer.json

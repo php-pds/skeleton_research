@@ -1,0 +1,13 @@
+Controller/
+DependencyInjection/
+Entity/
+Factory/
+Http/
+Resources/
+Service/
+Tests/Service/
+Twig/
+LICENSE
+PianoSoloWeatherBundle.php
+README.md
+composer.json

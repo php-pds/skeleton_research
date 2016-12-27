@@ -1,0 +1,6 @@
+src/Kendo/
+.gitattributes
+.gitignore
+LICENSE
+README.md
+composer.json

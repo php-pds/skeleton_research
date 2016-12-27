@@ -1,0 +1,11 @@
+examples/
+src/ohmy/
+tests/
+vendor/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.oauth1.xml

@@ -1,0 +1,10 @@
+src/
+tests/FunctionalPHP/Trampoline/
+.atoum.php
+.gitattributes
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock

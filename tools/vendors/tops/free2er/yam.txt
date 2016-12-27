@@ -1,0 +1,5 @@
+src/Free2er/
+.gitignore
+composer.json
+phpcs.xml.dist
+phpunit.xml.dist

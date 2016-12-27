@@ -1,0 +1,6 @@
+_config/
+code/
+doc/
+templates/
+README.md
+composer.json

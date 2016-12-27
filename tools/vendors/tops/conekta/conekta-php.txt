@@ -1,0 +1,8 @@
+lib/
+readme_files/
+test/
+.gitignore
+CHANGELOG
+LICENSE
+README.md
+composer.json

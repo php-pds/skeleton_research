@@ -1,0 +1,10 @@
+base/
+behaviors/
+documents/
+migrations/
+statuses/
+.gitignore
+Docflow.php
+LICENSE
+README.md
+composer.json

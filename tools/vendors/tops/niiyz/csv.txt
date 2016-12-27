@@ -1,0 +1,6 @@
+src/
+tests/csv/
+.gitignore
+README.md
+composer.json
+phpunit.xml

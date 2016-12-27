@@ -1,0 +1,12 @@
+.travis/
+Classes/
+Resources/Private/nginx_purge/
+.editorconfig
+.gitignore
+.php_cs
+.travis.yml
+Makefile
+README.rst
+composer.json
+ext_emconf.php
+ext_localconf.php

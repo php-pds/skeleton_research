@@ -1,0 +1,8 @@
+classes/
+config/
+guide/meta/
+views/meta/
+.gitattributes
+.gitignore
+README.md
+composer.json

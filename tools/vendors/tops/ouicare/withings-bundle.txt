@@ -1,0 +1,8 @@
+DependencyInjection/
+Resources/config/
+Tests/Controller/
+.gitignore
+LICENSE
+README.md
+WithingsBundle.php
+composer.json

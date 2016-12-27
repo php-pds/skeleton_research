@@ -1,0 +1,6 @@
+.gitignore
+LICENSE
+README.md
+SnackbarJsAsset.php
+SnackbarJsNoMatAsset.php
+composer.json

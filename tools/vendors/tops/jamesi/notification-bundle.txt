@@ -1,0 +1,10 @@
+DependencyInjection/
+Entity/
+Model/
+Notification/
+Repository/
+Resources/
+JamesiNotificationBundle.php
+Notifier.php
+README.md
+composer.json

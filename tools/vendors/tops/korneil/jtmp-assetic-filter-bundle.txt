@@ -1,0 +1,6 @@
+Assetic/Filter/
+DependencyInjection/
+Resources/config/
+KorneilJTMPAsseticFilterBundle.php
+README.md
+composer.json

@@ -1,0 +1,8 @@
+Regression/
+Resources/
+Tests/
+.gitignore
+CarbocationStatisticsBundle.php
+README.md
+composer.json
+phpunit.xml.dist

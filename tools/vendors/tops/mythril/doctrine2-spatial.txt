@@ -1,0 +1,7 @@
+lib/CrEOF/Spatial/
+tests/CrEOF/Spatial/Tests/
+.gitignore
+INSTALL.md
+README.md
+composer.json
+phpunit.xml.dist

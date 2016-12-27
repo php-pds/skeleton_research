@@ -1,0 +1,8 @@
+config/
+src/OpenPlatform/
+tests/
+.travis.yml
+README.md
+composer.json
+ignore.gitignore
+phpunit.xml

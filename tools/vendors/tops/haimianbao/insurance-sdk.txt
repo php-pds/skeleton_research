@@ -1,0 +1,5 @@
+tests/
+InsuranceSdk.php
+LICENSE
+README.md
+composer.json

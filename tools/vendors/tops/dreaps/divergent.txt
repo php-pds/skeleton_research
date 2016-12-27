@@ -1,0 +1,15 @@
+.idea/
+App/
+Kernel/
+Tests/TestCase/Kernel/Filesystem/
+.codeclimate.yml
+.gitattributes
+.gitignore
+.travis.yml
+LICENSE.txt
+README.md
+codecov.yml
+composer.json
+composer.lock
+index.php
+phpunit.xml

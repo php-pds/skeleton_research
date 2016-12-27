@@ -1,0 +1,10 @@
+locale/
+.editorconfig
+.eslintignore
+.eslintrc
+.gitignore
+LICENSE
+README.md
+bootstrap.php
+composer.json
+icon.svg

@@ -1,0 +1,3 @@
+src/Shawty/Client/
+README.md
+composer.json

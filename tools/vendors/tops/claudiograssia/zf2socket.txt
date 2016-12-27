@@ -1,0 +1,5 @@
+config/
+src/Zf2Socket/
+Module.php
+README.md
+composer.json

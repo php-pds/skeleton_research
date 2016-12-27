@@ -1,0 +1,6 @@
+src/VerticalTab/Pillow/
+tests/
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

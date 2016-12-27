@@ -1,0 +1,10 @@
+Command/
+DependencyInjection/
+Generator/
+Menu/
+Resources/
+Tests/
+Twig/
+GreibitPanelAdminBundle.php
+README.md
+composer.json

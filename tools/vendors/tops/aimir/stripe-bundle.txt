@@ -1,0 +1,15 @@
+Controller/
+DependencyInjection/
+Doctrine/
+Event/
+EventListener/
+Model/
+ModelManager/
+Resources/config/
+Stripe/
+.gitignore
+AimirStripeBundle.php
+LICENSE
+README.md
+StripeException.php
+composer.json

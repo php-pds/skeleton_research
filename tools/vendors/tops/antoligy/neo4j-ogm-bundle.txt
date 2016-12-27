@@ -1,0 +1,6 @@
+DependencyInjection/
+GraphManager/
+Resources/config/
+Neo4jOGMBundle.php
+README.md
+composer.json

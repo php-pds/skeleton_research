@@ -1,0 +1,5 @@
+src/Phile/Composer/
+.gitignore
+Icon.png
+README.md
+composer.json

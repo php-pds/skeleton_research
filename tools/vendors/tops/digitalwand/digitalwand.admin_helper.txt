@@ -1,0 +1,9 @@
+admin/
+install/
+lang/ru/
+lib/
+.gitignore
+LICENSE.md
+README.md
+composer.json
+include.php

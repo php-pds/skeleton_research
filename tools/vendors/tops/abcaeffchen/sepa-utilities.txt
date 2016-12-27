@@ -1,0 +1,14 @@
+docs/html/
+examples/
+references/
+src/
+tests/
+.gitattributes
+.gitignore
+.travis.yml
+CHANGE_LOG.md
+LICENSE
+README.md
+composer.json
+phpdox.xml
+phpunit.xml

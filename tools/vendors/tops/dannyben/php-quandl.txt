@@ -1,0 +1,9 @@
+tests/
+.gitignore
+.travis.yml
+LICENSE
+Quandl.php
+README.md
+composer.json
+example_cache.php
+examples.php

@@ -1,0 +1,6 @@
+src/Profabrica/Cart/
+tests/
+.gitignore
+.travis.yml
+composer.json
+phpunit.xml

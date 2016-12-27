@@ -1,0 +1,5 @@
+HugoTravel.php
+LICENSE.txt
+README.txt
+composer.json
+descriptor.json

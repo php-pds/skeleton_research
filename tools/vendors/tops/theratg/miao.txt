@@ -1,0 +1,8 @@
+build/templates/scripts/
+data/
+modules/
+scripts/
+.gitignore
+CHANGELOG.md
+README.asciidoc
+composer.json

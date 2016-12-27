@@ -1,0 +1,5 @@
+Documentation/img/
+src/PHPygments/
+.gitignore
+README.md
+composer.json

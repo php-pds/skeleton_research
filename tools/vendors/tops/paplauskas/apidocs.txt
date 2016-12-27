@@ -1,0 +1,5 @@
+src/
+tests/
+.gitattributes
+README.md
+composer.json

@@ -1,0 +1,5 @@
+src/Datatheke/
+.gitignore
+LICENSE
+README.md
+composer.json

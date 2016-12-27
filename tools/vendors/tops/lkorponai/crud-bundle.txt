@@ -1,0 +1,4 @@
+DependencyInjection/
+Resources/config/
+CrudBundle.php
+composer.json

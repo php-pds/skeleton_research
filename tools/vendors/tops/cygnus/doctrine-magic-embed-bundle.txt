@@ -1,0 +1,9 @@
+DependencyInjection/
+Mapping/
+Resources/
+.gitignore
+.travis.yml
+CygnusDoctrineMagicEmbedBundle.php
+LICENSE
+README.md
+composer.json

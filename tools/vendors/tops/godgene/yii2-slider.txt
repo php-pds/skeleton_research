@@ -1,0 +1,7 @@
+assets/
+CHANGE.md
+LICENSE.md
+README.md
+Slider.php
+SliderAsset.php
+composer.json

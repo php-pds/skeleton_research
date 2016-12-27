@@ -1,0 +1,7 @@
+Library/Phalcon/
+docs/
+.gitignore
+LICENSE.txt
+README.md
+composer.json
+console.example.php

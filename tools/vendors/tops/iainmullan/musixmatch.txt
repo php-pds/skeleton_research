@@ -1,0 +1,6 @@
+src/Iainmullan/Musixmatch/
+tests/
+.gitignore
+.travis.yml
+composer.json
+phpunit.xml

@@ -1,0 +1,6 @@
+lib/
+src/
+test/
+README.md
+composer.json
+dump_r.php

@@ -1,0 +1,6 @@
+src/
+tests-coverage/
+.gitignore
+README.md
+composer.json
+phpunit.xml

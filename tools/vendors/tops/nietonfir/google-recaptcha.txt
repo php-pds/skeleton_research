@@ -1,0 +1,11 @@
+src/
+tests/
+.editorconfig
+.gitignore
+.travis.yml
+GoogleReCaptcha.sublime-project
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

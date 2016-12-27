@@ -1,0 +1,12 @@
+bin/
+config/
+lib/Phpbin/
+test/
+views/
+web/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml

@@ -1,0 +1,9 @@
+DependencyInjection/
+Extension/
+Menu/
+Model/
+Resources/
+Service/
+PanzerLlamaLlamaMenuBundle.php
+PanzerLlamaLlamaMenuBundle:Default:SideMenu.html.twig,
+composer.json

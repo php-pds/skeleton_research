@@ -1,0 +1,6 @@
+examples/
+lib/EchoSign/
+.gitignore
+Autoloader.php
+composer.json
+readme.md

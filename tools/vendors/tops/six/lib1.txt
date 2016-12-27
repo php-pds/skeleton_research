@@ -1,0 +1,4 @@
+lib/
+vendor/
+.gitignore
+composer.json

@@ -1,0 +1,9 @@
+tests/
+.gitattributes
+.gitignore
+.scrutinizer.yml
+.travis.yml
+README.md
+StringStream.php
+composer.json
+phpunit.xml

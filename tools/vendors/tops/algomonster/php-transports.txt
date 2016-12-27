@@ -1,0 +1,4 @@
+src/Email/
+.gitignore
+LICENSE
+composer.json

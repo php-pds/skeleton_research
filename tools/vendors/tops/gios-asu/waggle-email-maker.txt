@@ -1,0 +1,11 @@
+src/factories/
+standards/gios/GIOS/
+test/
+.coveralls.yml
+.gitignore
+.phpspec.yml
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock

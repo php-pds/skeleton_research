@@ -1,0 +1,6 @@
+DependencyInjection/
+Resources/config/
+README.md
+RelatedPostsGenerator.php
+SculpinRelatedPostsBundle.php
+composer.json

@@ -1,0 +1,8 @@
+sample/
+src/
+tests/
+vendor/rusticisoftware/tincan/
+.gitignore
+README.md
+composer.json
+composer.lock

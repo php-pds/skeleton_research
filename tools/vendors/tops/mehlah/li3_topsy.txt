@@ -1,0 +1,4 @@
+extensions/adapter/data/source/http/
+tests/
+README.md
+composer.json

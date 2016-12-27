@@ -1,0 +1,11 @@
+licenses/
+public/
+src/
+tests/
+.gitignore
+.travis.yml
+README.md
+codecept.phar
+codeception.yml
+composer.json
+phpunit.xml

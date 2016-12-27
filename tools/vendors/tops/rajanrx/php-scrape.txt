@@ -1,0 +1,7 @@
+Examples/
+Scraper/
+bin/
+.gitignore
+LICENSE
+README.md
+composer.json

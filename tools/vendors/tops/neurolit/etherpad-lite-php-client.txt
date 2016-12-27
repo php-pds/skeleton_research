@@ -1,0 +1,10 @@
+bin/
+lib/Neurolit/EtherpadLite/
+tests/Neurolit/Tests/
+.gitignore
+.travis.yml
+CHANGELOG.md
+README.md
+composer.json
+composer.lock
+phpunit.xml

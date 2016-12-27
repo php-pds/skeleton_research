@@ -1,0 +1,8 @@
+.idea/
+Samples/
+src/
+.DS_Store
+README.md
+changelog
+composer.json
+license

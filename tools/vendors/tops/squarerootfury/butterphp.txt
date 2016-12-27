@@ -1,0 +1,12 @@
+ButterPHP/nbproject/
+doc/
+logo/
+src/
+test/
+.codeclimate.yml
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+tests.xml

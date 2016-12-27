@@ -1,0 +1,13 @@
+data/
+demos/
+src/
+tests/
+.gitignore
+.htaccess
+.travis.yml
+LICENSE
+README-pt.md
+README.md
+composer.json
+index.php
+install.sh

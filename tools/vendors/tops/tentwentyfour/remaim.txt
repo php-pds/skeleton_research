@@ -1,0 +1,13 @@
+bin/
+spec/Ttf/Remaim/
+src/
+.arclint
+.gitignore
+.travis.yml
+CONTRIBUTING.md
+LICENSE.txt
+README.md
+composer.json
+phpcs.xml
+phpspec.yml
+remaim.yml-dist

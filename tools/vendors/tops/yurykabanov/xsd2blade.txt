@@ -1,0 +1,5 @@
+spec/XsdTranslator/
+src/XsdTranslator/
+.gitignore
+composer.json
+composer.lock

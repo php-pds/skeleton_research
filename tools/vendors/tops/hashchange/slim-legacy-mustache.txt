@@ -1,0 +1,4 @@
+View/
+.gitignore
+README.markdown
+composer.json

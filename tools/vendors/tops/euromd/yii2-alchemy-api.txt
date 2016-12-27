@@ -1,0 +1,5 @@
+src/EuroMD/alchemyAPI/
+.gitignore
+LICENSE
+README.md
+composer.json

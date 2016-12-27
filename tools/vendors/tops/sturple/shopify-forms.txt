@@ -1,0 +1,15 @@
+Command/
+Configuration/
+Controller/
+DependencyInjection/
+Entity/
+EventListener/
+Field/
+Form/
+Repository/
+Resources/
+Tests/
+.gitignore
+FgmsEmailInquiriesBundle.php
+README.md
+composer.json

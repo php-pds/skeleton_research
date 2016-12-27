@@ -1,0 +1,15 @@
+application/
+licenses/
+media/
+modules/
+system/
+tests/_output/
+themes/
+.gitignore
+.gitmodules
+.htaccess
+.travis.yml
+README.md
+composer.json
+index.php
+robots.txt

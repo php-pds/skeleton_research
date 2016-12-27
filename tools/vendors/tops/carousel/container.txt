@@ -1,0 +1,15 @@
+.idea/
+src/
+tests/
+.gitignore
+.travis.yml
+CHANGELOG.md
+CONDUCT.md
+CONTRIBUTING.md
+LICENSE.md
+TODO.md
+composer.json
+composer.lock
+index.php
+phpunit.xml.dist
+readme.md

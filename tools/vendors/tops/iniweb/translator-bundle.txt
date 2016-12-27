@@ -1,0 +1,7 @@
+Controller/
+DependencyInjection/
+Listener/
+Resources/
+AxiomaTranslatorBundle.php
+README.md
+composer.json

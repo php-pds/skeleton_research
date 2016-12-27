@@ -1,0 +1,12 @@
+Command/
+Constant/
+DependencyInjection/
+Entity/
+EventListener/
+Resources/config/
+Services/
+.gitignore
+CreatissimoMattermostBundle.php
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,3 @@
+src/UpYun/
+README.md
+composer.json

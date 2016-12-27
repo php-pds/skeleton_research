@@ -1,0 +1,7 @@
+Sample_Files/
+bin/
+docs/
+src/
+.gitignore
+README.md
+composer.json

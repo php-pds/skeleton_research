@@ -1,0 +1,6 @@
+bin/
+docs/
+lib/LWare/Queue/
+tests/
+README.md
+composer.json

@@ -1,0 +1,10 @@
+Block/
+Controller/Category/
+Helper/
+Logger/
+Model/
+etc/
+view/frontend/
+README.md
+composer.json
+registration.php

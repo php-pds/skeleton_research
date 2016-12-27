@@ -1,0 +1,6 @@
+.gitattributes
+.gitignore
+LICENSE.md
+README.md
+composer.json
+printapi.php

@@ -1,0 +1,9 @@
+app/
+src/Slash/
+.DS_Store
+.gitignore
+.htaccess
+.travis.yml
+README.rst
+composer.json
+composer.lock

@@ -1,0 +1,9 @@
+src/Fivedots/FileDownloader/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+example.php
+phpunit.xml.dist

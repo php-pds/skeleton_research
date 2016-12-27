@@ -1,0 +1,9 @@
+internals/
+plugins/
+Config_File.class.php
+Smarty.class.php
+Smarty_Compiler.class.php
+composer.json
+debug.tpl
+dsSmarty.php
+readme.md

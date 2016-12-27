@@ -1,0 +1,9 @@
+lib/
+test/itwapp/
+.coveralls.yml
+.gitignore
+.travis.composer.config.json
+.travis.yml
+README.md
+composer.json
+phpunit.xml.dist

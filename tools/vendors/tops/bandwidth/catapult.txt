@@ -1,0 +1,14 @@
+docs/
+examples/
+php-bandwidth
+source/
+tests/
+.gitignore
+.travis-build.sh
+.travis.yml
+CHANGELOG
+README.md
+TODO
+composer.json
+credentials.json
+phpunit.phar

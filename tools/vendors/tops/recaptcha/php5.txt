@@ -1,0 +1,7 @@
+Documentation/
+Examples/
+Package/Captcha/
+.gitattributes
+COPYING
+README.md
+composer.json

@@ -1,0 +1,11 @@
+Entity/
+EventListener/
+Exception/
+ORM/
+Resources/config/
+Serializer/
+Service/
+Tests/
+README.md
+SyndFreshbooksBundle.php
+composer.json

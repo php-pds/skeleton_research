@@ -1,0 +1,14 @@
+class/
+interface/
+tests/
+.coveralls.yml
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+example.php
+example.xlsx
+phpunit.xml

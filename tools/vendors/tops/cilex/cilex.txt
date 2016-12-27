@@ -1,0 +1,13 @@
+.puppet/manifests/
+bin/
+docs/
+src/Cilex/
+tests/Cilex/Tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+Vagrantfile
+box.json
+composer.json
+phpunit.xml.dist

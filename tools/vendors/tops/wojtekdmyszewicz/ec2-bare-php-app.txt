@@ -1,0 +1,8 @@
+.gitignore
+Dockerfile
+LICENSE
+NOTICE.md
+README.md
+nginx-site.conf
+simple-app-task-def.json
+start.sh

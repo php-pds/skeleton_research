@@ -1,0 +1,6 @@
+.gitignore
+LICENSE
+README.md
+composer.json
+index.php
+index.txt

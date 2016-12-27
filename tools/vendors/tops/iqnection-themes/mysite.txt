@@ -1,0 +1,8 @@
+css/
+fancybox/
+images/
+javascript/
+templates/
+CHANGELOG.md
+LICENSE.md
+composer.json

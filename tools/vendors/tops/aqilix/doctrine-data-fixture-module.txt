@@ -1,0 +1,11 @@
+config/
+src/DoctrineDataFixtureModule/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+Module.php
+README.md
+composer.json
+phpcs.xml
+phpunit.xml

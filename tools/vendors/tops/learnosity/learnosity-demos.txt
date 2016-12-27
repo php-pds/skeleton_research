@@ -1,0 +1,11 @@
+src/
+www/
+.gitignore
+.gitmodules
+LICENSE
+README.md
+Vagrantfile
+composer.json
+gulpfile.js
+package.json
+sonar-project.properties

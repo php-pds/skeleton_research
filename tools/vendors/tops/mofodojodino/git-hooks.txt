@@ -1,0 +1,8 @@
+pre-commit.d/
+.gitignore
+LICENSE
+canonicalize_filename.sh
+composer.json
+install_hooks.sh
+pre-commit
+readme.md

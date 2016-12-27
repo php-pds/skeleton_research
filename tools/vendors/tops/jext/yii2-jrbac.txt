@@ -1,0 +1,13 @@
+assets/
+controllers/
+migrations/
+models/
+rules/
+vendor/
+views/
+.gitignore
+JrbacAsset.php
+LICENSE
+Module.php
+README.md
+composer.json

@@ -1,0 +1,15 @@
+Command/
+Controller/
+DependencyInjection/
+Helper/
+Refactor/
+Resources/
+Services/
+Tests/
+Validation/
+.gitignore
+.travis.yml
+CodeRefactorBundle.php
+README.markdown
+composer.json
+phpunit.xml.dist

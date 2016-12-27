@@ -1,0 +1,6 @@
+lib/
+test/
+.gitignore
+README.md
+composer.json
+run_tests

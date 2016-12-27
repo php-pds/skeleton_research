@@ -1,0 +1,8 @@
+resources/
+services/
+templates/
+variables/
+GoogleRecaptchaPlugin.php
+LICENSE.txt
+README.md
+composer.json

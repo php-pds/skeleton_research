@@ -1,0 +1,8 @@
+Classes/DigiComp/Sequence/
+Configuration/Testing/
+Migrations/Mysql/
+Tests/Functional/
+.gitignore
+License.txt
+README.md
+composer.json

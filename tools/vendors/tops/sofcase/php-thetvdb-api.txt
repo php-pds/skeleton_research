@@ -1,0 +1,5 @@
+examples/
+src/Tvdb/
+.gitignore
+README.md
+composer.json

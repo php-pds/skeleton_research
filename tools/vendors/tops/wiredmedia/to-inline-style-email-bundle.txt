@@ -1,0 +1,10 @@
+Converter/
+DependencyInjection/
+Resources/
+Tests/
+.gitignore
+.travis.yml
+README.md
+RobertoTruToInlineStyleEmailBundle.php
+composer.json
+phpunit.xml.dist

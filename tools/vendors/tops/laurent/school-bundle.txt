@@ -1,0 +1,10 @@
+Controller/
+DataFixtures/Required/
+Entity/
+Listener/
+Migrations/pdo_mysql/
+Repository/
+Resources/
+LaurentSchoolBundle.php
+README.md
+composer.json

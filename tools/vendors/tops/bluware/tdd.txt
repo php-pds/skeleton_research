@@ -1,0 +1,7 @@
+database/Database/
+http/
+trace/
+LICENSE
+autoload.php
+classmap.php
+composer.json

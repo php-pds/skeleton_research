@@ -1,0 +1,5 @@
+src/GetFiveStars/Api/
+.gitignore
+autoloader.php
+composer.json
+test.php

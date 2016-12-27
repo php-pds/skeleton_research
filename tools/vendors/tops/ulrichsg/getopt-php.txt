@@ -1,0 +1,10 @@
+src/Ulrichsg/Getopt/
+test/Ulrichsg/Getopt/
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENSE
+Makefile
+README.markdown
+composer.json
+phpunit.xml

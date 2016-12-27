@@ -1,0 +1,6 @@
+config/
+src/ShoppingCart/
+.gitignore
+Module.php
+README.md
+composer.json

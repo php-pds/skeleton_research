@@ -1,0 +1,7 @@
+example/
+src/
+temp_uploads/
+vendor/
+.gitignore
+composer.json
+composer.lock

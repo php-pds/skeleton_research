@@ -1,0 +1,10 @@
+.travis/
+src/KlangTiny/
+.gitignore
+.htaccess
+.travis.yml
+LICENSE
+README.md
+composer.json
+config.dist.json
+index.php

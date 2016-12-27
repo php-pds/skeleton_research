@@ -1,0 +1,13 @@
+DependencyInjection/
+Exceptions/
+Model/
+Resources/config/
+Tests/
+Traits/AwareTrait/
+.gitignore
+.travis.yml
+DesperadoXmlBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

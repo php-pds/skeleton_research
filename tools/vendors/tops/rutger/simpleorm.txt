@@ -1,0 +1,10 @@
+Test/
+examples/
+src/SimpleORM/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml
+todo.txt

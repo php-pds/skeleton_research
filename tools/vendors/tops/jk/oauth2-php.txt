@@ -1,0 +1,9 @@
+lib/
+server/examples/
+.gitignore
+.htaccess
+CHANGELOG.txt
+Icon.png
+LICENSE.txt
+README.md
+config.doxy

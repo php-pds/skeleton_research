@@ -1,0 +1,4 @@
+src/BlueMediaConnector/
+.gitignore
+README.md
+composer.json

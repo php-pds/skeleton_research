@@ -1,0 +1,14 @@
+Controller/
+DependencyInjection/
+Entity/
+Event/
+Resources/
+Tests/
+.gitignore
+.travis.yml
+ADesignsCalendarBundle.php
+CHANGELOG.md
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,10 @@
+example/
+tests/
+.gitignore
+.travis.yml
+CONTRIBUTING.md
+LICENCE.txt
+README.md
+class.simple_mail.php
+composer.json
+phpunit.xml

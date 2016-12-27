@@ -1,0 +1,6 @@
+design/standard/
+modules/sfentity/
+settings/
+LICENSE
+README.md
+composer.json

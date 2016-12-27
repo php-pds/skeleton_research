@@ -1,0 +1,15 @@
+assets/
+config/
+controllers/
+mail/layouts/
+runtime/
+views/
+web/
+.bowerrc
+.gitattributes
+.gitignore
+README.md
+composer.json
+requirements.php
+yii
+yii.bat

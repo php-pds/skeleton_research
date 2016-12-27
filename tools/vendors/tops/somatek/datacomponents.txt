@@ -1,0 +1,7 @@
+Components/
+Core/
+Resources/
+TwigExtensions/
+.gitignore
+DataComponentsBundle.php
+composer.json

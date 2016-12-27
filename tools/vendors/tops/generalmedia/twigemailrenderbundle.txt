@@ -1,0 +1,12 @@
+DependencyInjection/
+Exception/
+Render/
+Resources/
+Tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+TwigEmailRenderBundle.php
+composer.json
+phpunit.xml.dist

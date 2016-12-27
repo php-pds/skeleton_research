@@ -1,0 +1,4 @@
+config/
+src/Easypay2/
+README.md
+composer.json

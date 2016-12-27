@@ -1,0 +1,13 @@
+app/
+public/
+src/Example/Controller/
+test/
+.bowerrc
+.editorconfig
+.gitattributes
+.gitignore
+LICENSE
+README.md
+Vagrantfile
+bower.json
+composer.json

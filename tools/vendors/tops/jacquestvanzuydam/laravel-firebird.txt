@@ -1,0 +1,5 @@
+src/Firebird/
+.gitignore
+README.md
+composer.json
+composer.lock

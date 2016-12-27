@@ -1,0 +1,10 @@
+Command/
+DependencyInjection/
+Entity/
+Exception/
+Queue/
+Resources/
+.gitignore
+README.md
+XaavQueueBundle.php
+composer.json

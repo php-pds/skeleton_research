@@ -1,0 +1,16 @@
+annotations/
+builds/
+classes/
+data/
+includes/
+templates/
+tests/
+.buildignore
+.gitignore
+README.md
+composer.json
+composer.lock
+dev_config.php
+modern-framework.php
+phpdoc.xml
+plugin.php

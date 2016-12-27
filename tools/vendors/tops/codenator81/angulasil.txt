@@ -1,0 +1,12 @@
+assets/
+startkit/subangulasil/
+templates/
+.gitignore
+CHANGELOG.txt
+README.md
+angulasil.info.yml
+angulasil.libraries.yml
+angulasil.theme
+composer.json
+logo.svg
+screenshot.png

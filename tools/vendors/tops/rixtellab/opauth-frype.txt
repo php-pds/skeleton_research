@@ -1,0 +1,5 @@
+.gitignore
+FrypeStrategy.php
+LICENSE
+README.md
+composer.json

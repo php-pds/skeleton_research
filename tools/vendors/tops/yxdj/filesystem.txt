@@ -1,0 +1,6 @@
+.gitattributes
+.gitignore
+Image.php
+README.md
+Upload.php
+composer.json

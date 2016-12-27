@@ -1,0 +1,8 @@
+spec/Documer/
+src/
+.editorconfig
+.gitignore
+LICENSE
+README.md
+composer.json
+phpspec.yml

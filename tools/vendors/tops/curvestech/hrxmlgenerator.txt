@@ -1,0 +1,8 @@
+xmlobjects/
+.gitignore
+LICENSE
+README.md
+XMLGenerator.php
+composer.json
+index.php
+xmltemp.xml

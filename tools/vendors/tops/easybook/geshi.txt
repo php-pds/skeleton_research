@@ -1,0 +1,6 @@
+contrib/
+docs/
+geshi/
+README.md
+composer.json
+geshi.php

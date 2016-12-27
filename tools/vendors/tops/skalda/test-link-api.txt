@@ -1,0 +1,7 @@
+src/
+testlink-ext/lib/api/xmlrpc/v1/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json

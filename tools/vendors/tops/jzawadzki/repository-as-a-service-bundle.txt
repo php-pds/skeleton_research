@@ -1,0 +1,6 @@
+Compiler/
+Resources/
+LICENSE
+README.md
+RepositoryAsAServiceBundle.php
+composer.json

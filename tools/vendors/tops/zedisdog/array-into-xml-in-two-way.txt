@@ -1,0 +1,6 @@
+src/zedisdog/ArrayIntoXMLInTwoWay/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json

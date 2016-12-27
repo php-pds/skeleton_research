@@ -1,0 +1,8 @@
+Controller/
+DependencyInjection/
+Resources/
+Tests/Controller/
+.gitignore
+DaveFXPHPlotBundle.php
+README.md
+composer.json

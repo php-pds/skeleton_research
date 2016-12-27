@@ -1,0 +1,7 @@
+benchmark/
+dicts/
+src/
+.gitignore
+LICENSE
+README.md
+composer.json

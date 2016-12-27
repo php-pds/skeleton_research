@@ -1,0 +1,7 @@
+src/Beer/
+.gitignore
+.travis.yml
+BeerTest.php
+LICENSE.md
+README.md
+composer.json

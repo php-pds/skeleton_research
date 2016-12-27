@@ -1,0 +1,10 @@
+app/
+config/
+skeleton/
+templates/system/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json
+shade-cli.php

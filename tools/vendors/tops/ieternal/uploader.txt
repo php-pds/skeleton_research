@@ -1,0 +1,6 @@
+Exception/
+File/
+Test/
+.gitignore
+Uploader.php
+composer.json

@@ -1,0 +1,7 @@
+Component/
+DependencyInjection/
+Resources/
+Tests/Controller/
+README.md
+SenaiLibraryReportBundle.php
+composer.json

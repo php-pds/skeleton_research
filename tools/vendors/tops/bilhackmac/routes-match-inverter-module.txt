@@ -1,0 +1,7 @@
+Config/
+DependencyInjection/Compiler/
+CHANGELOG.md
+LICENSE.txt
+Readme.md
+RoutesMatchInverter.php
+composer.json

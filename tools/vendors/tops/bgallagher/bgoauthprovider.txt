@@ -1,0 +1,8 @@
+config/
+src/BgOauthProvider/
+view/bg-oauth-provider/oauth/
+.gitignore
+Module.php
+README.md
+autoload_classmap.php
+composer.json

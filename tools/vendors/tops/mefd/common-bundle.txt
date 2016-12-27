@@ -1,0 +1,13 @@
+Controller/
+DependencyInjection/
+Repository/
+Resources/
+Services/
+Tests/Controller/
+.gitattributes
+.gitignore
+.travis.yml
+LICENSE
+MefdCommonBundle.php
+README.md
+composer.json

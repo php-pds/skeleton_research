@@ -1,0 +1,5 @@
+Item.php
+README.md
+SimpleAmazonDynamoDB.php
+SimpleAmazonSTS.php
+composer.json

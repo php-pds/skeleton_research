@@ -1,0 +1,16 @@
+assets/
+commands/
+config/
+controllers/
+docs/development/
+migrations/
+models/
+old_data/migrations/
+rbac/
+static/
+views/themes/basic/
+.jslintrc
+LICENSE
+Module.php
+README.md
+composer.json

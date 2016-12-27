@@ -1,0 +1,9 @@
+app/
+bin/
+src/Grosona/
+tests/
+.gitattributes
+.gitignore
+LICENSE
+README.md
+composer.json

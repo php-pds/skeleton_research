@@ -1,0 +1,7 @@
+src/
+vendor/
+README.md
+composer.json
+composer.lock
+demo.php
+swoole.log

@@ -1,0 +1,8 @@
+Annotations/
+DependencyInjection/
+EventListener/
+Resources/
+.gitignore
+HypoLayoutBundle.php
+Readme.md
+composer.json

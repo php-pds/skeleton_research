@@ -1,0 +1,5 @@
+Command/
+DependencyInjection/
+GammaFixturesGeneratorBundle.php
+README.md
+composer.json

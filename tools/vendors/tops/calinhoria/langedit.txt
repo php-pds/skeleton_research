@@ -1,0 +1,11 @@
+code/
+css/
+images/
+javascript/
+tasks/
+templates/
+.gitignore
+.project
+README.md
+_config.php
+composer.json

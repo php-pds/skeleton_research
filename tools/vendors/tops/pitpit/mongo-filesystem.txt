@@ -1,0 +1,9 @@
+Filesystem/
+Finder/
+Tests/
+.gitignore
+LICENSE
+README.md
+SplFileInfo.php
+composer.json
+phpunit.xml.dist

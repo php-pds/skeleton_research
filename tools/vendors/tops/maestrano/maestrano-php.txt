@@ -1,0 +1,12 @@
+bin/
+lib/
+tests/
+.gitignore
+.tm_properties
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+maestrano.png
+phpunit.xml

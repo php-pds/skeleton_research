@@ -1,0 +1,6 @@
+src/
+tests/Sentient/Tests/
+LICENSE.md
+README.md
+composer.json
+phpunit.xml.dist

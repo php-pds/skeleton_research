@@ -1,0 +1,10 @@
+Component/
+Http/
+Menu/
+Module/
+Providers/
+publish/
+AdminPanel.php
+README.md
+composer.json
+package.json

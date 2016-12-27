@@ -1,0 +1,11 @@
+faktiva_seo_tk/
+.editorconfig
+.gitignore
+.php_cs
+.sensiolabs.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+composer.phar
+hreflang-canonical-image.jpg

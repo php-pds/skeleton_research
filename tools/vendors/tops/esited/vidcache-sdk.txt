@@ -1,0 +1,11 @@
+conf/
+examples/
+lib/
+test/
+.git-hooks-post-merge
+.git-hooks-pre-commit
+.gitignore
+COPYING
+COPYING.LESSER
+README.md
+composer.json

@@ -1,0 +1,10 @@
+example/
+src/feedly/
+tests/
+.editorconfig
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml

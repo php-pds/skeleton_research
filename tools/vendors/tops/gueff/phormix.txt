@@ -1,0 +1,7 @@
+doc/
+examples/
+Phormix.php
+PhormixSanitize.php
+PhormixValidate.php
+README.md
+composer.json

@@ -1,0 +1,4 @@
+src/Compressor/
+composer.json
+license.md
+readme.md

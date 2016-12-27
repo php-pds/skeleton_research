@@ -1,0 +1,8 @@
+symbox/
+.gitignore
+ComposerCallback.php
+LICENSE
+README.md
+Vagrantfile
+changelog.md
+composer.json

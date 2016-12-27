@@ -1,0 +1,11 @@
+includes/
+js/
+templates/
+.gitignore
+CHANGELOG.md
+README.md
+admin-content-labels.php
+class-plugin.php
+composer.json
+composer.lock
+readme.txt

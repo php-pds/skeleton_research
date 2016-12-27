@@ -1,0 +1,10 @@
+config/
+fields/
+nbproject/
+samples/
+src/Innodite/
+views/common/
+.gitignore
+LICENSE
+README.md
+composer.json

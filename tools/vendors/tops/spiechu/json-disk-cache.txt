@@ -1,0 +1,8 @@
+src/Spiechu/JSONDiskCache/
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+README.md
+build.xml
+composer.json

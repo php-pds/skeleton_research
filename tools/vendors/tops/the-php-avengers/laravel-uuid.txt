@@ -1,0 +1,12 @@
+src/Providers/
+tests/
+.codeclimate.yml
+.env.example
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.json.dist
+phpunit.xml.dist
+run

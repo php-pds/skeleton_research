@@ -1,0 +1,14 @@
+Controller/
+DependencyInjection/
+Form/
+Model/
+Resources/
+Tests/Controller/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+BoskeeEsendexBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

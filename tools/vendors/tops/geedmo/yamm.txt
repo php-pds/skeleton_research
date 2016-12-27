@@ -1,0 +1,6 @@
+assets/
+less/
+LICENSE.txt
+README.md
+composer.json
+index.html

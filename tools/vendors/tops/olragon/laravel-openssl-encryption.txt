@@ -1,0 +1,7 @@
+src/Neoxia/LaravelOpensslEncryption/
+tests/
+.gitignore
+.travis.yml
+README.md
+composer.json
+phpunit.xml

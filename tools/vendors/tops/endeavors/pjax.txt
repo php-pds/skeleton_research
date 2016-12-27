@@ -1,0 +1,4 @@
+src/Endeavors/Pjax/
+README.md
+composer.json
+provides.json

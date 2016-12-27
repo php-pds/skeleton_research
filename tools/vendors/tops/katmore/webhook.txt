@@ -1,0 +1,8 @@
+bin/
+src/
+web/
+.gitignore
+GPLv3
+LICENSE
+README.md
+composer.json

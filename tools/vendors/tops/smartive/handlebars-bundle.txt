@@ -1,0 +1,14 @@
+Cache/
+DependencyInjection/
+Resources/config/
+Templating/
+Tests/
+Twig/
+.coveralls.yml
+.gitignore
+.travis.yml
+LICENSE
+README.md
+SmartiveHandlebarsBundle.php
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,17 @@
+Command/
+Controller/
+DependencyInjection/
+Model/
+Plugin/
+Repository/
+Resources/
+Service/
+Tests/
+.gitattributes
+.gitignore
+.scrutinizer.yml
+.travis.yml
+README.md
+ShivasBouncerBundle.php
+composer.json
+phpunit.xml.dist

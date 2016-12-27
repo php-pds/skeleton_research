@@ -1,0 +1,3 @@
+src/Mailium/
+README.md
+composer.json

@@ -1,0 +1,10 @@
+Controller/
+DependencyInjection/
+Resources/
+Tests/Controller/
+BaseModel.php
+PropelModelParserBundle.php
+Property.php
+PropertyCollection.php
+README.md
+composer.json

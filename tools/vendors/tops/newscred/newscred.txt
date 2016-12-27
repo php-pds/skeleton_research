@@ -1,0 +1,3 @@
+NewsCred.php
+README.md
+composer.json

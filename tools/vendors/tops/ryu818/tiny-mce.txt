@@ -1,0 +1,7 @@
+Test/Case/View/Helper/
+View/Helper/
+webroot/js/tiny_mce/
+.gitignore
+.travis.yml
+license.txt
+readme.md

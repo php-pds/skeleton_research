@@ -1,0 +1,6 @@
+public/
+skel/
+.gitignore
+README.md
+composer.json
+environment.php.dist

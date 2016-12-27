@@ -1,0 +1,4 @@
+src/TgTech/WxCorp/
+.gitignore
+LICENSE
+composer.json

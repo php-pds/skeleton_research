@@ -1,0 +1,13 @@
+doc/
+src/
+tests/Model/
+.coveralls
+.gitignore
+.travis.yml
+AUTHORS
+LICENSE
+README.md
+STANDARDS.md
+composer.json
+composer.lock
+phpunit.xml.dist

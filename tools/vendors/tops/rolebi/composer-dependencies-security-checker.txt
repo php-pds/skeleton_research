@@ -1,0 +1,11 @@
+Exception/
+Tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+ConfigHandler.php
+LICENSE
+README.md
+ScriptHandler.php
+composer.json
+phpunit.xml.dist

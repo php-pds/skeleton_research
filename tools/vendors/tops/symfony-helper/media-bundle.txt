@@ -1,0 +1,13 @@
+Controller/
+DataService/
+DependencyInjection/
+Image/ImageProcessor/
+Model/
+Resources/
+Serializer/Handler/
+.gitignore
+LICENSE
+README.md
+SHelperMediaBundle.php
+composer.json
+composer.lock

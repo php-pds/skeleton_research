@@ -1,0 +1,4 @@
+.gitignore
+Alienosor.php
+README.md
+composer.json

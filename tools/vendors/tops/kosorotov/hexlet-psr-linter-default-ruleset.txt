@@ -1,0 +1,6 @@
+.psr-linter/
+src/rules/
+.gitignore
+LICENSE
+README.md
+composer.json

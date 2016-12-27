@@ -1,0 +1,8 @@
+test/
+.gitignore
+README.md
+client.php
+composer.json
+errors.php
+mango.php
+phpunit.xml

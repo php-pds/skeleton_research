@@ -1,0 +1,11 @@
+Controller/
+DependencyInjection/
+Entity/
+Form/
+Resources/
+Spool/
+Tests/Controller/
+.gitignore
+CitraxDatabaseSwiftMailerBundle.php
+README.md
+composer.json

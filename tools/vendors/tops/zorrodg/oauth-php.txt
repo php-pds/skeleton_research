@@ -1,0 +1,6 @@
+src/OAuth1/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json

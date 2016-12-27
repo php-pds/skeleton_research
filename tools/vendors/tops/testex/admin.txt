@@ -1,0 +1,8 @@
+docs/
+examples/
+public/
+src/
+tests/
+README.md
+composer.json
+docs.php

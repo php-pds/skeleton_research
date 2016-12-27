@@ -1,0 +1,6 @@
+migrations/
+BbbApiRequest.php
+BbbMeetingModel.php
+BigBlueButton.php
+README.md
+composer.json

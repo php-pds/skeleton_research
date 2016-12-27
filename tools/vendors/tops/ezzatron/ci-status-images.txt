@@ -1,0 +1,9 @@
+bin/
+img/
+src/
+.gitattributes
+LICENSE
+README.md
+component.json
+composer.json
+package.json

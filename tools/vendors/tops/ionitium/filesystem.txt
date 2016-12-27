@@ -1,0 +1,13 @@
+Exceptions/
+Tests/
+docs/
+.gitignore
+.travis.yml
+CHANGELOG.md
+Filesystem.php
+FilesystemCache.php
+Filesysteminfo.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

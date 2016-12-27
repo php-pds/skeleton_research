@@ -1,0 +1,13 @@
+Resource/
+Service/
+Tests/
+.coveralls.yml
+.gitignore
+.travis.yml
+README.md
+composer.json
+friends-pilot-full.txt
+friends-pilot.txt
+index.php
+obama-speech.txt
+phpunit.xml.dist

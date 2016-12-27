@@ -1,0 +1,9 @@
+tests/WebTester/
+.gitignore
+README.md
+bootstrap.php
+composer.json
+composer.lock
+phpunit.xml
+web_tester.json
+web_tester.sh

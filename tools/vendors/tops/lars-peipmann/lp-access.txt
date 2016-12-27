@@ -1,0 +1,12 @@
+Classes/
+Configuration/PageTSConfig/
+Documentation/
+Resources/
+doc/
+.gitignore
+composer.json
+ext_emconf.php
+ext_icon.gif
+ext_localconf.php
+ext_tables.php
+ext_tables.sql

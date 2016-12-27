@@ -1,0 +1,11 @@
+config/
+spec/StudioIgnis/Evt/
+src/
+.gitignore
+.travis.yml
+Gulpfile.js
+LICENSE
+README.md
+composer.json
+package.json
+phpstorm.yml

@@ -1,0 +1,5 @@
+src/SilexCouchbase/
+.gitignore
+MIT-LICENSE
+README.md
+composer.json

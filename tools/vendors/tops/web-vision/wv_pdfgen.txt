@@ -1,0 +1,11 @@
+Classes/
+Configuration/TypoScript/
+Resources/Private/Language/
+LICENSE.txt
+composer.json
+ext_emconf.php
+ext_icon.png
+ext_tables.php
+phpcs.xml
+readme.md
+sonar-project.properties

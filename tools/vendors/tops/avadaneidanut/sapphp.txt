@@ -1,0 +1,8 @@
+src/SapPhp/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock
+sapphp.xml
+shell

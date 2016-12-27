@@ -1,0 +1,5 @@
+lib/analytics/
+tests/
+.gitignore
+README.md
+composer.json

@@ -1,0 +1,11 @@
+DependencyInjection/
+Resources/config/
+Session/Storage/
+Tests/
+.gitignore
+.travis.yml
+LICENSE
+LightmakerDynamoSessionHandlerBundle.php
+README.md
+composer.json
+phpunit.xml.dist

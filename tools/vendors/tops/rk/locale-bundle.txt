@@ -1,0 +1,8 @@
+ConfigureLocale/
+Controller/
+DependencyInjection/
+Listener/
+Resources/
+README.md
+RkLocaleBundle.php
+composer.json

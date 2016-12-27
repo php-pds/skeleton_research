@@ -1,0 +1,17 @@
+colors/
+table/
+tests/
+.gitignore
+.travis.yml
+ArrayHelper.php
+DateTimeHelper.php
+HtmlHelper.php
+Image.php
+LICENSE
+NumberHelper.php
+Path.php
+PropertyAccessTrait.php
+README.md
+StringHelper.php
+composer.json
+phpunit.xml

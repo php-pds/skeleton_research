@@ -1,0 +1,15 @@
+.travis/
+app/
+dev/
+doc/
+shell/
+skin/frontend/base/default/
+.gitignore
+.travis.yml
+CHANGELOG.md
+CONTRIBUTING.md
+FEATURES.md
+LICENSE.md
+README.md
+composer.json
+modman

@@ -1,0 +1,9 @@
+assets/
+inc/admin/
+templates/
+.gitignore
+composer.json
+license.txt
+mailchimp-functions.php
+mailchimp-tools.php
+readme.md

@@ -1,0 +1,9 @@
+configs/default/
+core/
+demo/
+CHANGELOG
+LICENSE
+README.md
+captcha.php
+composer.json
+init.php

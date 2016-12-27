@@ -1,0 +1,9 @@
+assets/
+.gitignore
+.gitmodules
+BarcodeFactory.php
+README.md
+YiiQuagga.php
+YiiQuaggaAsset.php
+barcode-test.php
+composer.json

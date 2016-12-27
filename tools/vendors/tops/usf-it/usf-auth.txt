@@ -1,0 +1,12 @@
+examples/
+src/
+tests/
+.gitignore
+LICENSE
+README.md
+USF-CA-chain.pem
+composer.json
+composer.lock
+phpcs.xml
+phpunit.xml
+ruleset.xml

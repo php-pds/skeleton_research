@@ -1,0 +1,5 @@
+src/FastValidate/
+tests/
+.gitignore
+codeception.yml
+composer.json

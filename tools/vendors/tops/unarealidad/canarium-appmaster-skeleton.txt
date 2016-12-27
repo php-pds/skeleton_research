@@ -1,0 +1,10 @@
+config/
+data/
+instances/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock
+composer.phar
+init_autoloader.php

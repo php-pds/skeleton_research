@@ -1,0 +1,8 @@
+src/Payline/
+tests/
+.gitignore
+README.md
+bootstrap.php
+circle.yml
+composer.json
+phpunit.xml

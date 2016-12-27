@@ -1,0 +1,10 @@
+app/
+config/
+database/
+public/
+routes/
+tests/
+views/
+.gitignore
+composer.json
+readme.md

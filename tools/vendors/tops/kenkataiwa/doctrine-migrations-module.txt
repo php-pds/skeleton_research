@@ -1,0 +1,5 @@
+config/
+src/DoctrineMigrationsModule/
+.gitignore
+README.md
+composer.json

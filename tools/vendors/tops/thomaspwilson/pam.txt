@@ -1,0 +1,8 @@
+src/PAM/
+test/
+.gitignore
+LICENSE
+README.md
+build.xml
+composer.json
+phpunit.xml

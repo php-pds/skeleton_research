@@ -1,0 +1,5 @@
+docs/
+src/
+README.md
+autoload.php
+composer.json

@@ -1,0 +1,15 @@
+Controller/
+DependencyInjection/
+Entity/
+Event/
+Exception/
+Factory/
+Repository/
+Resources/config/
+Service/
+spec/Service/
+.gitignore
+GomeekiUrlShortenerBundle.php
+README.md
+composer.json
+phpspec.yml

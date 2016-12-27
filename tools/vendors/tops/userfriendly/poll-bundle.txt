@@ -1,0 +1,9 @@
+Controller/
+DependencyInjection/
+Entity/
+Model/
+Poll/
+Resources/
+README.md
+UserfriendlyPollBundle.php
+composer.json

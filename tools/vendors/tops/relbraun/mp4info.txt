@@ -1,0 +1,5 @@
+MP4Info/
+TestFiles/
+MP4Info.php
+composer.json
+test.php

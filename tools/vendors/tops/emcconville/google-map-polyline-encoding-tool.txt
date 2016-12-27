@@ -1,0 +1,13 @@
+examples/
+src/
+tests/
+.coveralls.yml
+.gitattributes
+.gitignore
+.travis.yml
+CONTRIBUTING.md
+DEPRECATED.md
+LICENSE.md
+README.md
+composer.json
+phpunit.xml

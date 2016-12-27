@@ -1,0 +1,13 @@
+demos/
+getid3/
+helperapps/
+licenses/
+.gitattributes
+.gitignore
+README.md
+changelog.txt
+composer.json
+dependencies.txt
+license.txt
+readme.txt
+structure.txt

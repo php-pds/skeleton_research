@@ -1,0 +1,12 @@
+Tests/
+cache/
+doc/
+src/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+config.dist.yml
+php-git-hooks.yml
+phpunit.xml.dist

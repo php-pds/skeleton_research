@@ -1,0 +1,4 @@
+src/Lagden/Silex/
+.gitignore
+README.md
+composer.json

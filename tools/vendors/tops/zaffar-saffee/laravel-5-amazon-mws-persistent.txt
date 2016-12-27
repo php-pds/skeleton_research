@@ -1,0 +1,15 @@
+examples/
+mock/
+nbproject/
+src/Zaffar/AmazonMws/
+test-cases/
+tests/
+.gitignore
+.travis.yml
+CONTRIBUTING.md
+LICENSE
+NOTICE
+README.md
+composer.json
+environment.php
+phpunit.xml

@@ -1,0 +1,6 @@
+DependencyInjection/
+Lib/
+Resources/config/
+README.md
+Zim32RequestLimitBundle.php
+composer.json

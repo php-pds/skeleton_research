@@ -1,0 +1,10 @@
+.phpspec/
+src/Health/
+tests/
+.gitignore
+.travis.yml
+LICENSE.md
+README.md
+composer.json
+phpspec.yml.dist
+phpunit.xml.dist

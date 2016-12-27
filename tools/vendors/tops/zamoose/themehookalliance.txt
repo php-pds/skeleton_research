@@ -1,0 +1,4 @@
+README.md
+composer.json
+tha-example-index.php
+tha-theme-hooks.php

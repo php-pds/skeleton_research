@@ -1,0 +1,8 @@
+src/Opcache/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+example.php

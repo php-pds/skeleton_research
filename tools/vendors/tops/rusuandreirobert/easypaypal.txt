@@ -1,0 +1,7 @@
+documents/
+src/EasyPayPal/
+.gitignore
+LICENSE
+README.md
+composer.json
+example-proxy-class.php

@@ -1,0 +1,7 @@
+data/
+example/
+src/
+LICENSE
+README.md
+composer.json
+phpunit.xml

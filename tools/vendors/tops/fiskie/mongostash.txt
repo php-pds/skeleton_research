@@ -1,0 +1,5 @@
+src/MongoStash/
+.gitignore
+LICENSE
+README.md
+composer.json

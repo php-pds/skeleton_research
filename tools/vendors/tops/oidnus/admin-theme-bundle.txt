@@ -1,0 +1,12 @@
+Controller/
+DependencyInjection/
+Event/
+EventListener/
+Model/
+Resources/
+Tests/Controller/
+.gitignore
+LICENSE
+OidnusAdminThemeBundle.php
+README.md
+composer.json

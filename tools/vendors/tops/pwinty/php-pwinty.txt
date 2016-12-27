@@ -1,0 +1,6 @@
+src/pwinty/
+.editorconfig
+.gitattributes
+.gitignore
+README.md
+composer.json

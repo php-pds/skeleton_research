@@ -1,0 +1,5 @@
+contesto/
+stage/
+.gitignore
+LICENSE
+composer.json

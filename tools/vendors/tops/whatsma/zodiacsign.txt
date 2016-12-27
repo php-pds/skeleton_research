@@ -1,0 +1,13 @@
+src/
+tests/
+.codeclimate.yml
+.coveralls.yml
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+TODO
+appveyor.yml
+composer.json
+phpunit.xml

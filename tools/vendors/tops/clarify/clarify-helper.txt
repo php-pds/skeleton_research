@@ -1,0 +1,8 @@
+examples/
+src/Clarify/
+tests/
+.gitattributes
+.gitignore
+LICENSE
+README.md
+composer.json

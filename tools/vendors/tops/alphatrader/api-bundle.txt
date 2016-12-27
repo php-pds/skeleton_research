@@ -1,0 +1,15 @@
+Doc/
+src/
+tests/
+.coveralls.yml
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+composer.json
+composer.lock
+phpbench.json
+phpdox.xml.dist
+phpunit.xml.dist
+ruleset.xml

@@ -1,0 +1,4 @@
+src/FluentdHandler/
+tests/phpunit/
+LICENSE.md
+composer.json

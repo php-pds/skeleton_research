@@ -1,0 +1,10 @@
+.idea/
+Config/
+Controller/
+Helper/
+Library/PictureCut/
+Model/
+view/
+composer.json
+composer.lock
+composer.phar

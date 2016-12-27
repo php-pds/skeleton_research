@@ -1,0 +1,6 @@
+assets/
+views/
+EverCookie.php
+EverCookieWidget.php
+README.md
+composer.json

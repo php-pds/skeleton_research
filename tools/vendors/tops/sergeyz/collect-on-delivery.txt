@@ -1,0 +1,8 @@
+DependencyInjection/
+Method/
+Resources/
+.gitignore
+CollectOnDeliveryBundle.php
+LICENSE
+README.md
+composer.json

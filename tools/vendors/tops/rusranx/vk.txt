@@ -1,0 +1,6 @@
+src/VK/
+.gitignore
+ChangeLog
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,12 @@
+src/
+stubs/
+tests/
+.gitattribute
+.travis.yml
+autoload.php
+build.sh
+composer.json
+phpunit.xml
+readme.md
+script.sh
+welcome.png

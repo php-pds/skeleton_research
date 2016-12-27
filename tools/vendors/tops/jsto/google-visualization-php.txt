@@ -1,0 +1,6 @@
+spec/GoogleVisualization/
+src/GoogleVisualization/
+.gitignore
+LICENSE.md
+README.md
+composer.json

@@ -1,0 +1,6 @@
+src/PublicUHC/SkinCache/
+test/PublicUHC/SkinCache/
+.gitignore
+README.md
+composer.json
+phpunit.xml

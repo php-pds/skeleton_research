@@ -1,0 +1,4 @@
+social-counter-widget/
+README.md
+composer.json
+social-counter-class.php

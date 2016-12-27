@@ -1,0 +1,13 @@
+doc/
+example/
+src/RevPDFLib/
+tests/
+.gitignore
+.travis.yml
+COPYING
+README.md
+VERSION
+build.xml
+composer.json
+composer.lock
+phpunit.xml.dist

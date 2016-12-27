@@ -1,0 +1,7 @@
+DependencyInjection/
+Resources/
+Test/
+.gitignore
+README.md
+WeavingTheWebFrameworkExtraBundle.php
+composer.json

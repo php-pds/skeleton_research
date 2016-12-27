@@ -1,0 +1,8 @@
+.settings/
+classes/
+.buildpath
+.gitignore
+.project
+README.md
+composer.json
+init.php

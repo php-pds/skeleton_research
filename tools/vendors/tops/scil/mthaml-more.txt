@@ -1,0 +1,10 @@
+docs/
+examples/
+lib/
+test/
+.gitignore
+README.md
+composer.json
+phpunit.xml
+phpunit_onlyEnvironment.xml
+phpunit_onlyReduceRuntime.xml

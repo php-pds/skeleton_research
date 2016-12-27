@@ -1,0 +1,10 @@
+SteamApi/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml
+test-steam-api-key.php_sample
+wercker.yml

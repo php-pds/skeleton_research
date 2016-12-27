@@ -1,0 +1,5 @@
+Source/Homebase/Model/
+Tests/Homebase/Model/
+README.md
+composer.json
+composer.lock

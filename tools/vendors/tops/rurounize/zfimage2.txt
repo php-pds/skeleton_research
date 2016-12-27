@@ -1,0 +1,7 @@
+example/
+src/ZFImage/
+test/
+.gitignore
+README.md
+composer.json
+license.md

@@ -1,0 +1,4 @@
+src/Baratine/
+LICENSE
+README.rst
+composer.json

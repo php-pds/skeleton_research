@@ -1,0 +1,16 @@
+Broker/
+Command/
+DataCollector/
+DependencyInjection/
+Event/
+Processor/
+Resources/
+Tests/
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+SwarrotBundle.php
+composer.json
+phpunit.xml.dist

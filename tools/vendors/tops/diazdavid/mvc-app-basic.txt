@@ -1,0 +1,10 @@
+app/
+src/
+tests/
+.gitignore
+.htaccess
+.travis.yml
+composer.json
+composer.lock
+index.php
+phpunit.xml.dist

@@ -1,0 +1,10 @@
+3rdParty/Alloy/
+Client/
+Examples/
+JEM/Api/
+.gitignore
+.htaccess
+README.md
+composer.json
+index.php
+license.txt

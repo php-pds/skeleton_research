@@ -1,0 +1,8 @@
+src/Tectonic/Localisation/
+tests/
+.gitignore
+README.md
+circle.yml
+composer.json
+composer.lock
+phpunit.xml

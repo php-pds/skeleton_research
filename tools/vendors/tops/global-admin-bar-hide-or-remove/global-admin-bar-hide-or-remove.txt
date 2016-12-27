@@ -1,0 +1,12 @@
+lang/
+.htaccess
+composer.json
+global-hide-admin-tool-bar.php
+global-hide-brute-force-admin-tool-bar.php
+gpl-2.0.txt
+humans.txt
+index.html
+index.php
+license.txt
+readme.txt
+uninstall.php

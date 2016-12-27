@@ -1,0 +1,7 @@
+Classes/MaxS/Blog/
+Configuration/
+Documentation/
+Migrations/Mysql/
+Resources/Private/
+Tests/Unit/Domain/Model/
+composer.json

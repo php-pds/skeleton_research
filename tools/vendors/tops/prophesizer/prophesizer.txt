@@ -1,0 +1,8 @@
+bin/
+resources/images/
+src/Prophesizer/
+.gitignore
+README.md
+composer.json
+composer.lock
+grumphp.yml

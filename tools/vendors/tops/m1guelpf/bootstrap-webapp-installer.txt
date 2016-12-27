@@ -1,0 +1,11 @@
+apache/
+res/
+src/BootstrapWebAppInstaller/JSon/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+installer
+phpunit.xml.dist

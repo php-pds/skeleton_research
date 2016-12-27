@@ -1,0 +1,11 @@
+.settings/
+config/
+src/
+webroot/
+.buildpath
+.gitattributes
+.gitignore
+.project
+README.md
+composer.json
+phpunit.xml.dist

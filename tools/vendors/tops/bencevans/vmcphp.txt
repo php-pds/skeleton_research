@@ -1,0 +1,4 @@
+LICENCE
+README.markdown
+VMCPHP.php
+composer.json

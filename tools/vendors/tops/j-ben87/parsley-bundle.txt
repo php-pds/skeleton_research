@@ -1,0 +1,16 @@
+Builder/
+DependencyInjection/
+Exception/
+Factory/
+Form/Extension/
+Resources/
+Tests/
+Validator/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+ParsleyBundle.php
+README.md
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,11 @@
+src/
+test/
+.codeclimate.yml
+.travis.yml
+LICENSE
+README.md
+bootstrap.php
+circle.yml
+composer.json
+composer.lock
+phpunit.xml

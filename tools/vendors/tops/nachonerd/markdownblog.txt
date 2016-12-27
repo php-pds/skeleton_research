@@ -1,0 +1,13 @@
+config/
+docs/
+markdowns/
+src/
+tests/
+views/
+web/
+.codeclimate.yml
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json

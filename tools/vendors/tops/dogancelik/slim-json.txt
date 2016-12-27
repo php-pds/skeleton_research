@@ -1,0 +1,4 @@
+SlimJson/
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,9 @@
+.gitignore
+CacheManager.php
+CacheServiceProvider.php
+LICENSE
+MemcachedConnector.php
+README.md
+SessionManager.php
+SessionServiceProvider.php
+composer.json

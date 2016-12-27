@@ -1,0 +1,10 @@
+bin/
+config/
+locales/
+log/
+src/diMuG/API/
+tests/
+web/
+.travis.yml
+README.md
+composer.json

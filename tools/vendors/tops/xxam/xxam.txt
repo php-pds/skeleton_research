@@ -1,0 +1,10 @@
+app/
+bin/
+cronjobs/
+src/
+var/
+web/
+README.md
+composer.json
+composer.lock
+phpunit.xml

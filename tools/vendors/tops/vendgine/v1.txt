@@ -1,0 +1,7 @@
+bin/
+resources/
+sources/
+tests/
+COPYING
+README.md
+composer.json

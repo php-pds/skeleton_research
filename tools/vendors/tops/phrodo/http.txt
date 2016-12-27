@@ -1,0 +1,9 @@
+classes/
+tests/
+.gitattributes
+.gitignore
+.travis.yml
+composer.json
+license.md
+phpunit.xml.dist
+readme.md

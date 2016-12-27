@@ -1,0 +1,12 @@
+DependencyInjection/
+Entity/
+Form/Type/
+Manager/
+Resources/config/
+Tests/
+DZCronManagerBundle.php
+LICENSE
+README.md
+autoload.php.dist
+composer.json
+phpunit.xml.dist

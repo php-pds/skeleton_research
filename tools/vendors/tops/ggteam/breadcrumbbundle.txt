@@ -1,0 +1,15 @@
+DependencyInjection/
+Model/
+Resources/
+Templating/Helper/
+Tests/
+Twig/Extension/
+Utils/
+.coveralls.yml
+.gitignore
+.travis.yml
+GGTeamBreadcrumbBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

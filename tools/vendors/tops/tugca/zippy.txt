@@ -1,0 +1,14 @@
+docs/
+src/
+tests/
+.gitattributes
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CHANGELOG.md
+LICENSE
+Makefile
+README.md
+composer.json
+phpunit-functional.xml.dist
+phpunit.xml.dist

@@ -1,0 +1,5 @@
+src/RandNum/
+tests/
+.gitignore
+README.md
+composer.json

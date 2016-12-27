@@ -1,0 +1,17 @@
+DependencyInjection/
+Grid/
+Resources/
+Tests/
+Translation/
+Twig/
+.gitattributes
+.gitignore
+.travis.yml
+APYDataGridBundle.php
+CHANGELOG.md
+LICENSE
+README.md
+UPGRADE-2.0.md
+composer.json
+php_cs.dist
+phpunit.xml.dist

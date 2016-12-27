@@ -1,0 +1,10 @@
+.settings/
+src/
+tests/
+.buildpath
+.gitignore
+.project
+CHANGELOG
+README.md
+composer.json
+loader.php

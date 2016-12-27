@@ -1,0 +1,11 @@
+src/
+tests/
+.codeclimate.yml
+.env
+.gitignore
+.travis.yml
+README.md
+codeclimate.yml
+composer.json
+phpunit.xml
+psy.php

@@ -1,0 +1,6 @@
+app/
+docs/
+.gitignore
+README.md
+composer.json
+modman

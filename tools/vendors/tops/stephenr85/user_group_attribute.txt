@@ -1,0 +1,8 @@
+helpers/
+models/attribute/types/user_group/
+.gitignore
+LICENSE.TXT
+README.md
+composer.json
+controller.php
+icon.png

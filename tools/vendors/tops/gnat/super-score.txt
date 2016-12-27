@@ -1,0 +1,10 @@
+src/
+tests/
+.gitignore
+.htaccess
+.travis.yml
+README.md
+composer.json
+index.php
+install.sql
+phpunit.xml

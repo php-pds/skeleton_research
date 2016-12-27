@@ -1,0 +1,10 @@
+doc/
+src/Burgov/PredisWrapper/
+tests/
+.coveralls.yml
+.travis.yml
+LICENSE
+README.md
+app.php
+composer.json
+phpunit.xml.dist

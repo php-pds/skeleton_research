@@ -1,0 +1,7 @@
+DependencyInjection/
+Resources/config/
+Service/
+Wrapper/
+MailerLiteBundle.php
+README.MD
+composer.json

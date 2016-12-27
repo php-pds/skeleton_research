@@ -1,0 +1,3 @@
+src/spanitz/Silex/
+README.md
+composer.json

@@ -1,0 +1,15 @@
+.provision/
+.travis/
+docs/
+examples/
+src/Yandex/
+tests/
+.coveralls.yml
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+Vagrantfile
+composer.json
+phar.php

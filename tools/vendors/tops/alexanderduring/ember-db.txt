@@ -1,0 +1,12 @@
+bin/
+demo/
+log/
+src/
+vendor/
+.gitignore
+LICENSE
+Notes.md
+README.md
+composer.json
+composer.lock
+composer.phar

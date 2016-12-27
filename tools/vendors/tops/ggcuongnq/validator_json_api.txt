@@ -1,0 +1,4 @@
+src/Validator/JSON_API/
+.gitignore
+README.md
+composer.json

@@ -1,0 +1,13 @@
+bin/
+src/
+tests/
+.gitattributes
+.gitignore
+.travis.yml
+LICENSE
+README.md
+bootstrap.php
+composer.json
+phpunit.xml
+yay_parse.php
+yay_pretty.php

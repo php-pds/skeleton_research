@@ -1,0 +1,5 @@
+src/Solenoid/
+.gitignore
+LICENSE
+README.md
+composer.json

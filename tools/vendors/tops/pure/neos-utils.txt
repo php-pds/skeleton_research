@@ -1,0 +1,6 @@
+Classes/Pure/Utils/TypoScript/
+Configuration/
+Resources/Private/TypoScript/
+LICENSE
+README.md
+composer.json

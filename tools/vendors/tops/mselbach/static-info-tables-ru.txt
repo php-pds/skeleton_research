@@ -1,0 +1,13 @@
+Classes/Domain/Model/
+Configuration/
+Resources/Private/
+Tests/Unit/Domain/Model/
+.travis.yml
+README.md
+class.ext_update.php
+composer.json
+ext_emconf.php
+ext_icon.gif
+ext_localconf.php
+ext_tables.sql
+ext_tables_static+adt.sql

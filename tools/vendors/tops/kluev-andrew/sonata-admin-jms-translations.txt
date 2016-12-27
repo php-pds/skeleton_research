@@ -1,0 +1,10 @@
+Controller/
+DependencyInjection/
+Git/
+Resources/
+Translation/
+Twig/
+.gitignore
+KASonataAdminJMSTranslationBundle.php
+README.md
+composer.json

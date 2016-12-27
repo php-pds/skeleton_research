@@ -1,0 +1,4 @@
+src/entegre/
+.gitignore
+LICENSE
+composer.json

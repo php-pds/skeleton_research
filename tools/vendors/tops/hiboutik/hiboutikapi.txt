@@ -1,0 +1,5 @@
+examples/
+lib/Hiboutik/
+LICENSE
+README.md
+composer.json

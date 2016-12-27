@@ -1,0 +1,10 @@
+DependencyInjection/
+Resources/
+Test/Tool/
+Twig/Extension/
+Util/
+.gitignore
+LICENSE
+README.md
+ThraceComponentBundle.php
+composer.json

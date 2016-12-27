@@ -1,0 +1,12 @@
+src/
+tests/
+.gitignore
+.scrutinizer.yml
+Dockerfile
+LICENSE
+Makefile
+README.md
+boleto.yml
+composer.json
+composer.lock
+phpunit.xml.dist

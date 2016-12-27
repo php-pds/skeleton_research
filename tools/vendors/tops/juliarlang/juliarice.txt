@@ -1,0 +1,15 @@
+assets/
+controllers/
+models/
+views/
+.gitignore
+.htaccess
+LICENSE
+README.md
+composer.json
+composerFUTURE.json
+config.php
+index.php
+layout.php
+layoutFUTURE.php
+robots.txt

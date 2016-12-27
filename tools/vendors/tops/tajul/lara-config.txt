@@ -1,0 +1,6 @@
+src/LaraConfig/
+vendor/
+.gitignore
+composer.json
+readme.md
+test.php

@@ -1,0 +1,15 @@
+app/
+resources/
+src/DVO/
+web/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+bower.json
+composer.json
+gulpfile.js
+install.sh
+package.json
+preCommit.sh

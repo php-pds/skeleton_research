@@ -1,0 +1,4 @@
+CommonBundle/
+.gitignore
+README.md
+composer.json

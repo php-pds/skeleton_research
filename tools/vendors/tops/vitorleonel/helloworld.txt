@@ -1,0 +1,4 @@
+src/VitorLeonel/HelloWorld/config/
+.gitignore
+README.md
+composer.json

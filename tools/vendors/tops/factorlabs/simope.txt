@@ -1,0 +1,15 @@
+.settings/
+docs/
+lib/Simope/
+tests/
+.buildpath
+.gitignore
+.project
+.travis.yml
+README.md
+build.xml
+composer.json
+composer.lock
+config.json
+config.json.sample
+phpunit.xml.dist

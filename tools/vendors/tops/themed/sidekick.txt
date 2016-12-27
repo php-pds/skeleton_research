@@ -1,0 +1,8 @@
+src/Themed/Sidekick/
+.gitignore
+README.md
+composer.json
+phpcs.xml
+phpmd.xml
+phpunit.xml.dist
+theme.ini

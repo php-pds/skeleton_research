@@ -1,0 +1,6 @@
+src/Fotkomotko/
+tests/
+.gitignore
+autoload.php
+composer.json
+readme.md

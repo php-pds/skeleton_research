@@ -1,0 +1,7 @@
+src/Guilherme/SON/
+tests/Guilherme/SON/
+.gitignore
+README.md
+composer.json
+composer.phar
+phpunit.xml

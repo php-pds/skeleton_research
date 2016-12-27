@@ -1,0 +1,8 @@
+vagrant/
+web/
+.gitattributes
+.gitignore
+README.md
+Vagrantfile
+composer.json
+composer.lock

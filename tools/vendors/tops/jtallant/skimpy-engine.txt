@@ -1,0 +1,16 @@
+cache/doctrine-proxy/
+example-data/
+notes/
+spec/
+src/
+.codeclimate.yml
+.gitattributes
+.gitignore
+.php_cs
+LICENSE.txt
+README.md
+api.txt
+cli-config.php
+composer.json
+phpspec.yml
+phpspec_coverage.yml

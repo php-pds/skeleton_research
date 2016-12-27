@@ -1,0 +1,5 @@
+src/NodeQuery/
+.gitignore
+LICENSE
+README.md
+composer.json

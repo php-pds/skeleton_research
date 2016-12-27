@@ -1,0 +1,9 @@
+ci/
+phpunit/
+src/Techworker/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+README.md
+composer.json
+test.php

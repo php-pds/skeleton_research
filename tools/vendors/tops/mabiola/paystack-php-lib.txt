@@ -1,0 +1,11 @@
+Tests/
+src/
+.env.example
+.gitignore
+.travis.yml
+LICENSE
+changelog.md
+composer.json
+phpunit.xml
+phpunit_bootstrap.php
+readme.md

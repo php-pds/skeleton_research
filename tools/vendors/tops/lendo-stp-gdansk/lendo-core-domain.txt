@@ -1,0 +1,15 @@
+.phpspec/
+bin/
+docker/
+spec/
+src/Lendo/Domain/
+.gitignore
+CHANGELOG.md
+Dockerfile
+README.md
+build.xml
+circle.yml
+composer.json
+composer.lock
+docker-compose.yml
+version.txt

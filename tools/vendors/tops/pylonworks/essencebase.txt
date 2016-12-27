@@ -1,0 +1,10 @@
+Classes/PylonWorks/Essencebase/
+Configuration/
+Migrations/Mysql/
+Resources/
+Tests/
+.travis.yml
+Contribution.rst
+License.rst
+README.rst
+composer.json

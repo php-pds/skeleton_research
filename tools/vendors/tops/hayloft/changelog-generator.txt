@@ -1,0 +1,4 @@
+changelog
+composer.json
+config.php
+config.php.dist

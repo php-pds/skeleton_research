@@ -1,0 +1,8 @@
+Controller/
+DependencyInjection/
+Request/
+Resources/
+LICENSE
+README.md
+TeaochaSonataAdminImagePanelBundle.php
+composer.json

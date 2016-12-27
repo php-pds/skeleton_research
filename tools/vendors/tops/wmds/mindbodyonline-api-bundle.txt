@@ -1,0 +1,10 @@
+DependencyInjection/
+MindbodyOnlineAPI/
+Resources/config/
+Tests/
+.gitignore
+.travis.yml
+README.md
+WmdsMindBodyAPIBundle.php
+composer.json
+phpunit.xml.dist

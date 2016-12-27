@@ -1,0 +1,14 @@
+site-beginner/
+site-blank/
+site-classic/
+site-default/
+site-languages/
+wire/
+.gitignore
+CONTRIBUTING.md
+LICENSE.TXT
+README.md
+composer.json
+htaccess.txt
+index.php
+install.php

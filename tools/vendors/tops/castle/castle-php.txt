@@ -1,0 +1,13 @@
+certs/
+lib/
+test/
+.coveralls.yml
+.gitignore
+.travis.yml
+Gruntfile.js
+LICENSE
+README.md
+composer.json
+composer.lock
+package.json
+phpunit.xml

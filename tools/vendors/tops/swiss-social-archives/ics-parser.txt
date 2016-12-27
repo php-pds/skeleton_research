@@ -1,0 +1,4 @@
+examples/
+src/IcsParser/
+LICENSE
+composer.json

@@ -1,0 +1,15 @@
+bin/
+example/
+lib/
+template/
+test/
+.gitignore
+.npmignore
+.travis.yml
+CHANGELOG.md
+CONTRIBUTORS.md
+Gruntfile.js
+LICENSE.md
+README.md
+composer.json
+package.json

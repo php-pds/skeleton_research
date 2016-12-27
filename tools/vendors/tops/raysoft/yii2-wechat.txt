@@ -1,0 +1,17 @@
+assets/
+behaviors/
+components/
+controllers/
+docs/
+generators/module/
+helpers/
+migrations/
+models/
+views/
+web/
+widgets/
+Bootstrap.php
+LICENSE
+Module.php
+README.md
+composer.json

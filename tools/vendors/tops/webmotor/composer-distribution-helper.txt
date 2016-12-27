@@ -1,0 +1,5 @@
+src/Wm/ComposerDistributionHelper/
+.gitignore
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,10 @@
+src/Formagic/
+tests/
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+VERSION
+composer.json
+phpunit.xml.dist

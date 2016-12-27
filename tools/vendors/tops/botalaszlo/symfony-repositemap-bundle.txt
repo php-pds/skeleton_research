@@ -1,0 +1,13 @@
+Controller/
+DependencyInjection/
+Resources/
+Services/
+Tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+RepoSitemapBundle.php
+composer.json
+composer.lock
+phpunit.xml.dist

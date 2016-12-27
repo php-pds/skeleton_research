@@ -1,0 +1,8 @@
+Jolt/
+views/
+.htaccess
+README.md
+composer.json
+config.ini
+index.php
+server.php

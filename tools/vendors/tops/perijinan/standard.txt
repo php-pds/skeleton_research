@@ -1,0 +1,11 @@
+app/
+src/
+web/
+.gitattributes
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist
+vhost.dist.conf

@@ -1,0 +1,8 @@
+.idea/
+spec/Clix/Authenticator/
+src/Clix/Authenticator/
+.gitignore
+.travis.yml
+composer.json
+composer.lock
+readme.md

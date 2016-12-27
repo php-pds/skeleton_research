@@ -1,0 +1,4 @@
+config/
+src/VisoftBaseModule/
+Module.php
+composer.json

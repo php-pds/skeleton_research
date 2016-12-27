@@ -1,0 +1,6 @@
+DependencyInjection/
+Resources/config/
+.gitignore
+BMBackupManagerBundle.php
+README.md
+composer.json

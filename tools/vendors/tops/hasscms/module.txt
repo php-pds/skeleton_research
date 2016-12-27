@@ -1,0 +1,9 @@
+behaviors/
+feature/
+.gitignore
+.travis.yml
+ModuleConfig.php
+ModuleEvent.php
+ModuleManager.php
+README.md
+composer.json

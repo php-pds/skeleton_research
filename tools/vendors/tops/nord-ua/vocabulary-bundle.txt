@@ -1,0 +1,14 @@
+Command/
+Controller/
+DependencyInjection/
+Document/
+Form/
+Parser/
+Repository/
+Resources/
+Service/
+Templating/
+LICENSE
+README.md
+VocabularyBundle.php
+composer.json

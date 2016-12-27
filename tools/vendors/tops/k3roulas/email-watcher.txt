@@ -1,0 +1,10 @@
+Exception/
+LastUidPersist/
+Tests/
+NewEmailWatcherDump.php
+NewEmailWatcherInterface.php
+Processor.php
+README.md
+ServerCustom.php
+Watcher.php
+composer.json

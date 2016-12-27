@@ -1,0 +1,10 @@
+src/EDI/
+tests/
+.gitignore
+.gitmodules
+CONTRIBUTORS.md
+EXAMPLES.md
+LICENSE
+README.md
+composer.json
+phpunit.xml

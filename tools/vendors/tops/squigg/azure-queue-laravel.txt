@@ -1,0 +1,13 @@
+src/
+tests/
+.gitignore
+.travis.yml
+CONTRIBUTING.rst
+ISSUE_TEMPLATE.md
+README.md
+RELEASE-CHECKLIST.md
+composer.json
+phpunit.php
+phpunit.xml
+test-coverage.sh
+test.sh

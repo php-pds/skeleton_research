@@ -1,0 +1,9 @@
+classes/
+config/
+tasks/
+tests/
+LICENSE
+README.md
+bootstrap.php
+composer.json
+composer.lock

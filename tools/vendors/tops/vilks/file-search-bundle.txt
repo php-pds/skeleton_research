@@ -1,0 +1,13 @@
+Command/
+DependencyInjection/
+Engine/
+Exception/
+Resources/config/
+Tests/
+.gitignore
+.travis.yml
+README.md
+VilksFileSearchBundle.php
+composer.json
+composer.lock
+phpunit.xml.dist

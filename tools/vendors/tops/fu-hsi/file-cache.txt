@@ -1,0 +1,6 @@
+FileCache/
+Samples/
+.gitattributes
+.gitignore
+README.md
+composer.json

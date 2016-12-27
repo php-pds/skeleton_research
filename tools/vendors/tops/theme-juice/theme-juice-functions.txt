@@ -1,0 +1,5 @@
+ThemeJuice/Packages/
+.editorconfig
+.gitignore
+README.md
+composer.json

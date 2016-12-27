@@ -1,0 +1,13 @@
+.idea/
+css/
+img/
+js/
+php_script/
+php_unit/
+templates/
+test/
+.htaccess
+composer.json
+composer.phar
+index.php
+phpunit.phar

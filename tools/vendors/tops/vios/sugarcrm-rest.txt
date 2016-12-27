@@ -1,0 +1,6 @@
+src/Vios/SugarRest/
+tests/
+.gitignore
+README.markdown
+composer.json
+example.php

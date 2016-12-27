@@ -1,0 +1,13 @@
+assets/
+features/
+screenshots/
+selectors/
+tools/
+.gitignore
+README.txt
+behat.varbase-install.yml
+behat.varbase-tools.yml
+behat.varbase.yml
+behat.yml
+composer.json
+composer.lock

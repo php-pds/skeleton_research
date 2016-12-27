@@ -1,0 +1,10 @@
+Action/
+Tests/
+.gitignore
+Api.php
+LICENSE
+README.md
+SiamPayGatewayFactory.php
+composer.json
+composer.lock
+phpunit.xml

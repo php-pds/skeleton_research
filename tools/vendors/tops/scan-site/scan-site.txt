@@ -1,0 +1,5 @@
+Uris/
+LICENSE
+README.md
+Scan.php
+composer.json

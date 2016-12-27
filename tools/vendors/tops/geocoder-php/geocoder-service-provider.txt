@@ -1,0 +1,9 @@
+src/Geocoder/
+tests/Provider/
+views/Collector/
+.gitignore
+.travis.yml
+LICENCE
+README.md
+composer.json
+phpunit.xml.dist

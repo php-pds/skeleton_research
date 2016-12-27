@@ -1,0 +1,9 @@
+.editorconfig
+.gitignore
+UploaderAction.php
+WebUploader.php
+WebUploaderAsset.php
+WebUploaderFlashOnlyAsset.php
+WebUploaderHtml5OnlyAsset.php
+composer.json
+composer.lock

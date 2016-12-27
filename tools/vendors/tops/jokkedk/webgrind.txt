@@ -1,0 +1,15 @@
+bin/
+img/
+js/
+library/
+styles/
+templates/
+.gitignore
+README.md
+composer.json
+config.php
+favicon.ico
+index.php
+license.txt
+makefile
+package.sh

@@ -1,0 +1,7 @@
+lib/phantomjs/
+src/Capture/
+test/Capture/
+.gitignore
+README.md
+composer.json
+composer.lock

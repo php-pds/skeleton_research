@@ -1,0 +1,3 @@
+SocketBundle/
+README.md
+composer.json

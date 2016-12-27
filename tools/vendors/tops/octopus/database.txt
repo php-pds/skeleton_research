@@ -1,0 +1,7 @@
+config/
+src/Database/
+tests/database/
+.gitignore
+composer.json
+index.php
+phpunit.xml

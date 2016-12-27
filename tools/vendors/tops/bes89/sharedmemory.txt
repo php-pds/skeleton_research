@@ -1,0 +1,4 @@
+src/SharedMemory/
+.gitignore
+LICENSE
+composer.json

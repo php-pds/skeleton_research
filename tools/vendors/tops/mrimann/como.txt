@@ -1,0 +1,10 @@
+Classes/Mrimann/CoMo/
+Configuration/
+Documentation/Screenshots/
+Migrations/Mysql/
+Resources/
+Tests/Unit/
+.gitignore
+LICENSE
+README.md
+composer.json

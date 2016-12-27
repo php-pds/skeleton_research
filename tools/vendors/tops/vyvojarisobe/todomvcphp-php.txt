@@ -1,0 +1,6 @@
+app/
+www/
+.gitignore
+composer.json
+database.sqlite
+readme.md

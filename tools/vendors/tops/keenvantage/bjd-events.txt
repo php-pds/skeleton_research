@@ -1,0 +1,14 @@
+Build/
+Classes/BJD/Events/
+Configuration/
+Migrations/Mysql/
+Resources/Private/
+Tests/Unit/
+.codeclimate.yml
+.gitignore
+.styleci.yml
+.travis.yml
+LICENSE
+README.md
+UnitTests.xml
+composer.json

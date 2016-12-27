@@ -1,0 +1,7 @@
+app/
+log/
+public/
+README.md
+composer.json
+index.php
+phinx.php

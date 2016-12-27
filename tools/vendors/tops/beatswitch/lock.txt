@@ -1,0 +1,14 @@
+spec/
+src/
+stubs/
+tests/
+.gitattributes
+.gitignore
+.travis.yml
+changelog.md
+composer.json
+contributing.md
+license.md
+phpspec.yml
+phpunit.xml
+readme.md

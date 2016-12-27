@@ -1,0 +1,9 @@
+examples/
+src/Swoole/Pro/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+install_ext.sh

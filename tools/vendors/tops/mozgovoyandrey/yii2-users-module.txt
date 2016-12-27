@@ -1,0 +1,8 @@
+controllers/
+views/default/
+.gitattributes
+.gitignore
+Bootstrap.php
+README.md
+Users.php
+composer.json

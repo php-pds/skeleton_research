@@ -1,0 +1,9 @@
+Exception/
+.gitignore
+Additional.php
+CHANGELOG.md
+Idna.php
+Parser.php
+README.md
+Result.php
+composer.json

@@ -1,0 +1,13 @@
+docs/
+src/
+tests/
+webroot/
+.coveralls.yml
+.editorconfig
+.gitignore
+.semver
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

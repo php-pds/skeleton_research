@@ -1,0 +1,10 @@
+config/
+database/
+public/
+src/
+translations/whole/
+views/
+.gitignore
+README-tr.md
+README.md
+composer.json

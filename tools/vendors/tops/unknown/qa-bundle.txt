@@ -1,0 +1,7 @@
+src/Unknown/Bundle/QABundle/
+.gitignore
+LICENSE
+composer.json
+phpmd.xml
+phpspec.yml
+readme.md

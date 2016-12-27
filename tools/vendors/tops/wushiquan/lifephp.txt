@@ -1,0 +1,6 @@
+frontend/
+lifephp/
+.gitattributes
+LICENSE
+README.md
+composer.json

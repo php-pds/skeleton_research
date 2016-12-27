@@ -1,0 +1,17 @@
+demos/
+docs/
+src/
+tests/
+.gitattributes
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+UPGRADE_02_03.md
+composer.json
+composer.lock.dist
+config.yml.dist
+phpunit.xml.dist
+travis-install.sh

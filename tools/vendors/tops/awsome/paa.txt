@@ -1,0 +1,6 @@
+doc/
+library/AWSome/PAA/
+.gitignore
+LICENSE
+README.md
+composer.json

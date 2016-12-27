@@ -1,0 +1,8 @@
+bin/
+lib/PropelCli/
+.gitignore
+LICENSE
+README.md
+VERSION
+composer.json
+package.xml

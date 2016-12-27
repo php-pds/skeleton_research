@@ -1,0 +1,10 @@
+app/
+cache/DoctrineMongoDB/
+log/
+public/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json
+phpunit.xml

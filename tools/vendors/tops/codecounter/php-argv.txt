@@ -1,0 +1,7 @@
+src/CodeCounter/PHPArgv/
+tests/
+.gitattributes
+.gitignore
+README.md
+autoload.php
+composer.json

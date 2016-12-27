@@ -1,0 +1,8 @@
+.codeclimate.yml
+CHANGELOG.txt
+LICENSE.txt
+README.md
+composer.json
+stanford_date_formats.info
+stanford_date_formats.install
+stanford_date_formats.module

@@ -1,0 +1,13 @@
+sample/
+src/Webnium/JsonPointer/
+tests/
+.gitignore
+.travis.yml
+Guardfile
+LICENSE
+README.md
+composer.json
+composer.lock
+phpcs.xml
+phpmd.xml
+phpunit.xml.dist

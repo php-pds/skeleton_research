@@ -1,0 +1,7 @@
+lib/Agendor/
+.codeclimate.yml
+.gitignore
+Agendor.php
+README.md
+composer.json
+composer.lock

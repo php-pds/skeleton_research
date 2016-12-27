@@ -1,0 +1,13 @@
+Config/
+Controller/
+Lib/BanchaDeveloperRemoteApi/
+Test/Case/
+Vendor/
+View/RemoteApiDescriptor/
+webroot/
+.gitignore
+.gitmodules
+LICENSE
+README.md
+composer.json
+favicon.ico

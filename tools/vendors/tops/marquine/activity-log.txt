@@ -1,0 +1,7 @@
+src/Marquine/ActivityLog/
+.gitignore
+LICENSE.txt
+README.md
+composer.json
+composer.lock
+phpunit.xml

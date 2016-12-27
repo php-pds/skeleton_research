@@ -1,0 +1,5 @@
+Itelix/CoreBundle/
+vendor/
+.gitignore
+README.md
+composer.json

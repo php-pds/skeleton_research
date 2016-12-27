@@ -1,0 +1,6 @@
+Slim/Test/
+tests/
+.gitignore
+README.md
+composer.json
+phpunit.xml.dist

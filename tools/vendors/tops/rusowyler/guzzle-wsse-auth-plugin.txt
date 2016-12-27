@@ -1,0 +1,7 @@
+src/Ebowe/Guzzle/Http/Plugin/
+tests/Ebowe/Guzzle/Http/Plugin/
+.gitignore
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

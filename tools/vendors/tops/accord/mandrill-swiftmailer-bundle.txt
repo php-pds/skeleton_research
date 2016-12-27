@@ -1,0 +1,15 @@
+DependencyInjection/
+Resources/config/
+SwiftMailer/
+Tests/
+.gitignore
+.travis.yml
+AccordMandrillSwiftMailerBundle.php
+CONTRIBUTING.md
+LICENSE
+README.md
+RELEASE_POLICY.md
+UPGRADE-1.1.md
+UPGRADE-1.2.md
+composer.json
+phpunit.xml

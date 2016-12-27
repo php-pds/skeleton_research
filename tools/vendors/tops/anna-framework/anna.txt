@@ -1,0 +1,7 @@
+src/anna/
+tests/anna/
+.gitignore
+.travis.yml
+composer.json
+readme.md
+sonar-project.properties

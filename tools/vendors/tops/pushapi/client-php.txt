@@ -1,0 +1,8 @@
+RequestManagers/
+.gitignore
+.travis.yml
+LICENSE
+PushApi_Client.php
+PushApi_ClientTest.php
+README.md
+composer.json

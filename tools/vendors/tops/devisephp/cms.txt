@@ -1,0 +1,17 @@
+public/
+src/
+tests/
+.gitattributes
+.gitignore
+.travis.yml
+LICENSE
+README.md
+codeception.yml
+composer.json
+composer.lock
+devise
+gulpfile.js
+package.json
+phpunit.xml
+project-banner.png
+sami.php

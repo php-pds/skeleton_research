@@ -1,0 +1,5 @@
+lib/phpZayPay/
+.gitignore
+LICENSE
+README.md
+composer.json

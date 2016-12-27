@@ -1,0 +1,9 @@
+Client/
+DependencyInjection/
+Resources/
+Service/
+Tests/
+.gitignore
+FMMOryxBundle.php
+README.markdown
+composer.json

@@ -1,0 +1,8 @@
+api_documents/
+cl/
+scripts/
+.gitattributes
+.gitignore
+.gitmodules
+README.md
+composer.json

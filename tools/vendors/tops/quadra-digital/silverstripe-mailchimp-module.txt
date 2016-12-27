@@ -1,0 +1,13 @@
+_config/
+code/
+docs/en/
+javascript/
+.gitattributes
+.gitignore
+CHANGELOG.md
+CONTRIBUTING.md
+LICENCE.md
+README.md
+_config.php
+composer.json
+readmegen.yml

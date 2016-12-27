@@ -1,0 +1,6 @@
+src/Debugger/
+vendor/
+.gitignore
+README.md
+composer.json
+composer.phar

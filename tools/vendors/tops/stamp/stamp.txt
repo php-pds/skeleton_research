@@ -1,0 +1,5 @@
+features/
+lib/Stamp/
+.gitignore
+README.md
+composer.json

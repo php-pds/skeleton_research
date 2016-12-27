@@ -1,0 +1,5 @@
+src/
+.gitignore
+README.md
+_ide_helper.php
+composer.json

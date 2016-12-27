@@ -1,0 +1,5 @@
+src/Aws/Silex/Provider/
+.gitignore
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,6 @@
+src/S3EventQueue/
+.gitignore
+LICENSE
+Module.php
+README.md
+composer.json

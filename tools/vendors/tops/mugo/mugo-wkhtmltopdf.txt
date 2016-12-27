@@ -1,0 +1,9 @@
+classes/
+doc/
+modules/wkhtmltopdf/
+settings/
+COPYRIGHT
+LICENSE
+README.md
+composer.json
+extension.xml

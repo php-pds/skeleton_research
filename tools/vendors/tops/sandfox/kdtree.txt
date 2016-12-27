@@ -1,0 +1,9 @@
+examples/
+src/Sandfox/KDTree/
+tests/Sandfox/KDTree/Tests/
+.gitignore
+.travis.yml
+Makefile
+README.md
+composer.json
+phpunit.xml.dist

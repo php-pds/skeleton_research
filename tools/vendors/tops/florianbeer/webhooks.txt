@@ -1,0 +1,7 @@
+examples/
+web/
+.gitignore
+LICENSE.md
+README.md
+composer.json
+config.php.dist

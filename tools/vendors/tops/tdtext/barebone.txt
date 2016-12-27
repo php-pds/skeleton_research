@@ -1,0 +1,4 @@
+src/tdtext/barebone/
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,8 @@
+src/Apiframework/Test/
+tests/
+.travis.yml
+LICENSE
+README.md
+autoload.php
+composer.json
+example.php

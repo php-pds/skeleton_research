@@ -1,0 +1,11 @@
+docs/
+library/VMware/VCloud/
+scripts/
+tests/
+.editorconfig
+.gitignore
+LICENSE-CC-BY.md
+Makefile
+README.md
+composer.json
+sami.php

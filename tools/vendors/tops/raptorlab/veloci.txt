@@ -1,0 +1,13 @@
+features/
+metrics/
+src/Veloci/
+tests/
+.gitignore
+.scrutinizer.yml
+LICENSE
+README.md
+behat.yml
+composer.json
+composer.lock
+generate_metrics.sh
+phpunit.xml

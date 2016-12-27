@@ -1,0 +1,13 @@
+assets/
+components/
+controllers/
+plugins/
+views/
+widgets/
+.gitignore
+Bootstrap.php
+CrelishAsset.php
+LICENSE
+Module.php
+README.md
+composer.json

@@ -1,0 +1,13 @@
+bindings/tcpdf/
+cache/
+src/
+temp/
+tools/
+.gitignore
+CHANGELOG
+INSTALL
+LICENSE
+README
+VERSION
+composer.json
+index.php

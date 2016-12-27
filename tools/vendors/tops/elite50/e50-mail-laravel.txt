@@ -1,0 +1,3 @@
+src/Elite50/E50MailLaravel/
+README.md
+composer.json

@@ -1,0 +1,7 @@
+services/
+.gitignore
+BugsnagPlugin.php
+README.md
+composer.json
+composer.lock
+config.php

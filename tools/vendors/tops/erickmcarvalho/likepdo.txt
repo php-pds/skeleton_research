@@ -1,0 +1,4 @@
+src/LikePDO/
+LICENSE.md
+README.md
+composer.json

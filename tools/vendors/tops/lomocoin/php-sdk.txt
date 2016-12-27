@@ -1,0 +1,11 @@
+examples/
+src/Lomo/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CHANGELOG.md
+CONTRIBUTING.md
+README.md
+autoload.php
+composer.json
+phpunit.xml.dist

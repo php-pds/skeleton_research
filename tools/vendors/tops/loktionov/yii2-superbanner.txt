@@ -1,0 +1,6 @@
+views/
+.gitignore
+LICENSE
+README.md
+Superbanner.php
+composer.json

@@ -1,0 +1,8 @@
+assets/js/
+docs/
+.gitignore
+CookieButton.php
+CookieButtonAsset.php
+LICENSE.md
+README.md
+composer.json

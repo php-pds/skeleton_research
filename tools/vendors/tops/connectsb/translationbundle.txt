@@ -1,0 +1,10 @@
+DependencyInjection/
+Entity/
+Form/Type/
+Repository/
+Resources/config/
+Service/
+Translation/
+ConnectSBTranslationBundle.php
+README.md
+composer.json

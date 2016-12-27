@@ -1,0 +1,9 @@
+_archive/
+docs/
+src/
+.gitattributes
+.gitignore
+.scrutinizer.yml
+README.md
+composer.json
+index.html

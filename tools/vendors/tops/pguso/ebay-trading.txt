@@ -1,0 +1,8 @@
+examples/Trading/
+spec/D4m/NgnFeed/Ebay/
+src/D4m/NgnFeed/Ebay/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock

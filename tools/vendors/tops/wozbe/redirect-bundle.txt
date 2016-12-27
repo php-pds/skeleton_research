@@ -1,0 +1,7 @@
+DependencyInjection/
+Resources/config/
+CHANGELOG
+README.md
+RequestListener.php
+WozbeRedirectBundle.php
+composer.json

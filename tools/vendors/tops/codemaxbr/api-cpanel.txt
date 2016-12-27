@@ -1,0 +1,5 @@
+src/cPanel/
+.gitignore
+LICENSE
+README.md
+composer.json

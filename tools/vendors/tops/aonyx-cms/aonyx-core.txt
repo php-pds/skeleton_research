@@ -1,0 +1,8 @@
+Abstracts/
+Classes/
+Core/
+Interfaces/
+.gitignore
+composer.json
+composer.lock
+composer.phar

@@ -1,0 +1,5 @@
+src/BibleRef/
+tests/
+.gitignore
+composer.json
+readme.md

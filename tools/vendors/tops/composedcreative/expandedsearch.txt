@@ -1,0 +1,11 @@
+models/
+services/
+variables/
+.gitignore
+CHANGELOG.md
+ExpandedSearchPlugin.php
+LICENSE.txt
+README.md
+composer.json
+composer.lock
+releases.json

@@ -1,0 +1,16 @@
+controllers/
+models/
+records/
+resources/
+services/
+tasks/
+templates/
+translations/
+twigextensions/
+variables/
+.gitignore
+LICENSE.txt
+NpCloudinaryPlugin.php
+README.md
+composer.json
+releases.json

@@ -1,0 +1,5 @@
+LICENSE
+README.md
+WPS_Extend_Plugin.php
+composer.json
+wps-extend-plugin.php

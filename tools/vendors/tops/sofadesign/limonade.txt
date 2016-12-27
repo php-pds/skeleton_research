@@ -1,0 +1,12 @@
+docs/
+examples/
+lib/
+tests/
+.gitignore
+AUTHORS
+CHANGES
+LICENSE
+LISEZMOI.mkd
+README.mkd
+TODO
+composer.json

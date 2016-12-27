@@ -1,0 +1,9 @@
+Command/
+DependencyInjection/
+Resources/
+Tests/
+.gitignore
+README.markdown
+ShaneJqueryBundle.php
+composer.json
+phpunit.xml.dist

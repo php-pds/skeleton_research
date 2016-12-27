@@ -1,0 +1,5 @@
+bin/
+vendor/
+composer.json
+composer.lock
+index.php

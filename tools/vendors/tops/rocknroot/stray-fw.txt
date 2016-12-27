@@ -1,0 +1,9 @@
+quality/
+src/RocknRoot/StrayFw/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+cli.php
+composer.json
+index.php

@@ -1,0 +1,10 @@
+DependencyInjection/
+EventListener/
+Resources/config/
+Swift/
+EmailBundle.php
+EmailReader.php
+LICENSE
+Message.php
+README.md
+composer.json

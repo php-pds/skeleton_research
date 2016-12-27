@@ -1,0 +1,11 @@
+config/
+docs/
+src/
+translations/ru/
+views/
+.gitignore
+.php_cs
+LICENSE.md
+README.md
+composer.json
+functions.php

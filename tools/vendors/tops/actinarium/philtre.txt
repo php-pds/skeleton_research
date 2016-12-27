@@ -1,0 +1,8 @@
+src/Actinarium/Philtre/
+test/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+composer.json

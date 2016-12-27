@@ -1,0 +1,8 @@
+src/
+vendor/ritey/nusoap/
+.gitattributes
+.gitignore
+Pse.php
+README.md
+composer.json
+exemple.php

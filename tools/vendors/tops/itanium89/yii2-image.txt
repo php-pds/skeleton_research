@@ -1,0 +1,6 @@
+imageManager/
+migrations/
+.gitignore
+ImageMagic.php
+README.md
+composer.json

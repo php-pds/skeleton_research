@@ -1,0 +1,8 @@
+src/DbImporter/
+test/dbname/
+.gitignore
+.gitkeep
+LICENSE
+README.md
+composer.json
+index.php

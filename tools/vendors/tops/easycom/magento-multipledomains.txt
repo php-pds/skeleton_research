@@ -1,0 +1,12 @@
+develop/
+htdocs/app/
+screenshots/
+.gitignore
+.gitmodules
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+composer.json
+modman
+phpunit.xml

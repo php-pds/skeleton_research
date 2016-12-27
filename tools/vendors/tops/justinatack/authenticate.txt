@@ -1,0 +1,4 @@
+src/Auth/
+README.md
+composer.json
+phpunit.xml.dist

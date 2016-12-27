@@ -1,0 +1,10 @@
+config/
+docs/
+src/
+.editorconfig
+.gitignore
+changelog.md
+composer.json
+composer.lock
+license
+readme.md

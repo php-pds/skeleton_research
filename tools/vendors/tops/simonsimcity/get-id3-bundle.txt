@@ -1,0 +1,8 @@
+DependencyInjection/
+Factory/
+Resources/config/
+Wrapper/Write/
+LICENSE
+README.md
+SimonsimcityGetId3Bundle.php
+composer.json

@@ -1,0 +1,13 @@
+DependencyInjection/
+Manager/
+Model/
+Resources/config/
+Services/
+Tests/User/
+Utils/
+Webhooks/
+.travis.yml
+HamaryuginhMandrillBundle.php
+LICENSE
+README.md
+composer.json

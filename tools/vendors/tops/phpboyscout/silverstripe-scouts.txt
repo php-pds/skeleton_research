@@ -1,0 +1,6 @@
+_config/
+code/
+lang/
+templates/Layout/
+_config.php
+composer.json

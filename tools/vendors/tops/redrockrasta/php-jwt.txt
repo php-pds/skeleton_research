@@ -1,0 +1,11 @@
+Authentication/
+tests/
+vendor/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+package.xml
+phpunit.xml
+phpunit.xml.dist

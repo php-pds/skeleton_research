@@ -1,0 +1,4 @@
+src/Behat/BehatSeleniumAnimatorExtension/
+LICENSE
+README.md
+composer.json

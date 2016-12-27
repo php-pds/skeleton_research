@@ -1,0 +1,7 @@
+tests/
+.travis.yml
+EntityHintEFQ.php
+EntityHintEFQException.php
+README.md
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,7 @@
+src/
+.gitignore
+README.md
+composer.json
+gestao
+init.sh
+manifest.json

@@ -1,0 +1,12 @@
+DependencyInjection/
+Exception/
+Helper/
+Resources/config/
+Service/
+Tests/Service/
+.gitignore
+LICENSE
+LukaszMordawskiCampaignMonitorBundle.php
+README.md
+composer.json
+phpunit.xml.dist

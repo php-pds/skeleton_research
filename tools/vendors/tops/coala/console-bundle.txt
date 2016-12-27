@@ -1,0 +1,11 @@
+ConsoleEventTransformer/
+DependencyInjection/
+Tests/
+.gitignore
+.travis.yml
+CoalaConsoleBundle.php
+README
+README.md
+composer.json
+composer.phar
+phpunit.xml.dist

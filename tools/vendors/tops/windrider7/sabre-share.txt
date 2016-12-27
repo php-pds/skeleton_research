@@ -1,0 +1,7 @@
+lib/
+.DS_Store
+.gitignore
+.project
+LICENSE
+README.md
+composer.json

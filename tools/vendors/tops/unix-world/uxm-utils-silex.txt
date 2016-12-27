@@ -1,0 +1,6 @@
+libs/
+web-profiler/Silex/
+LICENSE
+README.md
+autoload.php
+composer.json

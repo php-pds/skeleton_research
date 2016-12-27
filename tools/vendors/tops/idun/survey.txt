@@ -1,0 +1,13 @@
+src/Survey/
+test/
+vendor/
+view/survey/
+webroot/
+.scrutinizer.yml
+.travis.yml
+LICENSE.txt
+README.md
+autoloader.php
+composer.json
+composer.lock
+phpunit.xml.dist

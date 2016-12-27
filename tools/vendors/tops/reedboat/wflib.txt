@@ -1,0 +1,6 @@
+WF/
+beta/WF/
+Loader.class.php
+README.md
+autoload.php
+composer.json

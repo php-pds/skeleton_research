@@ -1,0 +1,9 @@
+assets/
+components/
+controllers/
+images/
+views/
+Module.php
+README.md
+composer.json
+config.php

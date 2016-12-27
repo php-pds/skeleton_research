@@ -1,0 +1,6 @@
+Exception/
+.gitignore
+JsonRpcCall.php
+JsonRpcRequest.php
+JsonRpcResponse.php
+composer.json

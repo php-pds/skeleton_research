@@ -1,0 +1,3 @@
+README.md
+RedisClass.php
+composer.json

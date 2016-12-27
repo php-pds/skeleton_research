@@ -1,0 +1,11 @@
+config/
+example/
+src/
+view/
+.gitignore
+LICENSE
+Module.php
+README.md
+composer.json
+zf2base-workflow.jpg
+zf2base.sql

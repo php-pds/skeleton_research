@@ -1,0 +1,4 @@
+public/assets/bundles/
+.htaccess
+composer.json
+index.php

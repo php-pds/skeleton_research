@@ -1,0 +1,3 @@
+src/NTLMSoap/
+README.md
+composer.json

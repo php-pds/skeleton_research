@@ -1,0 +1,13 @@
+spec/
+src/
+tests/Commands/
+.gitignore
+.travis.yml
+Gulpfile.js
+LICENSE
+README.md
+composer.json
+composer.lock
+phpspec.yml
+phpunit.xml
+readme.md

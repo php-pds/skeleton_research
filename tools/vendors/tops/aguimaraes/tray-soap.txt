@@ -1,0 +1,5 @@
+src/
+.gitignore
+README.md
+composer.json
+tray-soap.sublime-project

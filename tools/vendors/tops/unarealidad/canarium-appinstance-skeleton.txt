@@ -1,0 +1,10 @@
+bin/
+config/
+data/
+public/
+.gitignore
+LICENSE
+README.md
+composer.json
+doctrine-module
+doctrine-module.bat

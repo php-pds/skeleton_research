@@ -1,0 +1,6 @@
+examples/
+lib/
+changelog.txt
+composer.json
+license.html
+readme.txt

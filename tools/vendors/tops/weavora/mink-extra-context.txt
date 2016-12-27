@@ -1,0 +1,6 @@
+src/Weavora/MinkExtra/
+tests/
+.gitignore
+README.md
+composer.json
+organize.txt

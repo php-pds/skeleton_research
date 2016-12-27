@@ -1,0 +1,10 @@
+admin/
+catalog/
+image/
+system/
+.gitignore
+LICENSE
+README.md
+composer.json
+crossdomain.xml
+php.ini

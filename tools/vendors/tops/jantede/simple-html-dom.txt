@@ -1,0 +1,7 @@
+src/SimpleHtmlDom/
+tests/SimpleHtmlDom/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json

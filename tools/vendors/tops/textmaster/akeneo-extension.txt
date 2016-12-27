@@ -1,0 +1,10 @@
+doc/
+features/
+spec/Pim/Bundle/TextmasterBundle/
+src/
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENCE.txt
+README.md
+composer.json

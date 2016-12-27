@@ -1,0 +1,7 @@
+DependencyInjection/
+Resources/config/
+VarnishAdm/
+LICENSE
+README.markdown
+VarnishBundle.php
+composer.json

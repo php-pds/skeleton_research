@@ -1,0 +1,7 @@
+lib/
+.travis.yml
+LICENSE
+README.md
+align-lib-doc.pdf
+composer.json
+testdummy.txt

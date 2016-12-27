@@ -1,0 +1,4 @@
+src/
+LICENCE
+README.rst
+composer.json

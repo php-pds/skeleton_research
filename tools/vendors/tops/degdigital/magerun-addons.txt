@@ -1,0 +1,8 @@
+src/DEG/Magento/Command/
+tests/
+.gitignore
+README.md
+composer.json
+composer.lock
+n98-magerun.yaml
+phpunit.xml

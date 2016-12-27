@@ -1,0 +1,13 @@
+src/
+tests/
+.codecov.yml
+.editorconfig
+.gitattributes
+.gitignore
+.travis.yml
+CHANGELOG.md
+ISSUE_TEMPLATE.md
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

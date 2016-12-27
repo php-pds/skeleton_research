@@ -1,0 +1,9 @@
+src/Sigep/Request/
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+circle.yml
+composer.json
+phpunit.xml
+readme.md

@@ -1,0 +1,11 @@
+DependencyInjection/
+Doctrine/
+EventListener/
+Model/
+Resources/
+Tests/
+.gitignore
+README.md
+SwoopsterObjectManagerBundle.php
+composer.json
+phpunit.xml.dist

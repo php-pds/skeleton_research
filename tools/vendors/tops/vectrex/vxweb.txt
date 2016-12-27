@@ -1,0 +1,13 @@
+_install/
+ini/
+resources/scss/
+src/
+vendor/vxWeb/
+view/
+web/
+.gitignore
+LICENSE
+README.md
+application.php
+bootstrap.php
+composer.json

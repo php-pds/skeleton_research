@@ -1,0 +1,4 @@
+lib/Zoikmail/
+.gitignore
+README.md
+composer.json

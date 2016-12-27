@@ -1,0 +1,11 @@
+cache/
+featherbb/
+plugins/test/
+style/
+vendor/
+.gitignore
+.htaccess.dist
+composer.json
+extern.php
+index.php
+readme.md

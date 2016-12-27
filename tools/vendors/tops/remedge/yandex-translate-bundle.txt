@@ -1,0 +1,8 @@
+DependencyInjection/
+Exception/
+Manager/
+Resources/
+.gitignore
+README.md
+RemedgeYandexTranslateBundle.php
+composer.json

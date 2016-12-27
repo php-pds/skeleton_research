@@ -1,0 +1,15 @@
+Amqp/
+DependencyInjection/
+Logger/
+Resources/config/
+Routing/
+Rpc/
+Tests/
+.coveralls.yml
+.gitignore
+.travis.yml
+CmobiRabbitmqBundle.php
+ConnectionManagerInterface.php
+README.md
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,9 @@
+Smsglobal/RestApiClient/
+tests/
+.gitignore
+LICENSE.md
+README.md
+composer.json
+phpdoc
+phpdoc.xml
+phpunit.xml

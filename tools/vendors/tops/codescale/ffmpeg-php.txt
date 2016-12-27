@@ -1,0 +1,12 @@
+adapter/
+provider/
+test/
+.gitignore
+FFmpegAnimatedGif.php
+FFmpegAutoloader.php
+FFmpegFrame.php
+FFmpegMovie.php
+LICENSE
+README.rst
+composer.json
+package.xml

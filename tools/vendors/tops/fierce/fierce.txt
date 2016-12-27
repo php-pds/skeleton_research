@@ -1,0 +1,11 @@
+classes/
+css/
+maint/
+migrations/
+scripts/
+tests/
+third-party/
+views/
+LICENSE
+README.md
+composer.json

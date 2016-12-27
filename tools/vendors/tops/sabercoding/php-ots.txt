@@ -1,0 +1,11 @@
+docs/
+src/
+tools/
+vendor/
+.DS_Store
+CHANGELOG.md
+LICENSE.md
+README.md
+composer.json
+composer.lock
+phpdoc.xml

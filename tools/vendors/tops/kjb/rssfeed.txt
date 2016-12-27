@@ -1,0 +1,10 @@
+src/RSSFeed/
+test/
+webroot/
+.scrutinizer.yml
+.travis.yml
+LICENSE.txt
+README.md
+autoloader.php
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,5 @@
+PHPToolkit/
+README.md
+autoload.patch
+composer.json
+tweaks.patch

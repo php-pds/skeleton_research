@@ -1,0 +1,7 @@
+examples/
+src/com/netbixx/WiringPiPHP/
+.gitignore
+README.md
+WiringPiPHP.iml
+composer.json
+composer.lock

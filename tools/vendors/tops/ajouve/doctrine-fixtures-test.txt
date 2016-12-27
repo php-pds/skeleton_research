@@ -1,0 +1,3 @@
+DoctrineFixturesTest/
+README.md
+composer.json

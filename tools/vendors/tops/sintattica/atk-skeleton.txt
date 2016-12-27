@@ -1,0 +1,8 @@
+config/
+src/
+var/
+web/
+.env.example
+.gitignore
+README.md
+composer.json

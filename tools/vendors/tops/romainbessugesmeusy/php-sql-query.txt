@@ -1,0 +1,8 @@
+examples/
+lib/RBM/SqlQuery/
+tests/
+.gitignore
+LICENCE
+README.md
+composer.json
+composer.lock

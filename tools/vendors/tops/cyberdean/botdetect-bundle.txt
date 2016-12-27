@@ -1,0 +1,16 @@
+Command/
+DependencyInjection/
+Doctrine/
+Entity/Security/
+Event/
+Listener/
+Manager/
+Repository/Security/
+Resources/
+Tests/Controller/
+.gitignore
+CybBotDetectBundle.php
+LICENSE
+README.md
+ReasonEnum.php
+composer.json

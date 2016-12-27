@@ -1,0 +1,7 @@
+example/
+src/Color/Component/
+test/
+.gitignore
+LICENSE
+README.md
+composer.json

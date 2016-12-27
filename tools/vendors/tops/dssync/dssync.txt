@@ -1,0 +1,9 @@
+conf/
+lib/DsSync/
+log/
+public/
+template/
+.gitignore
+LICENSE
+README.md
+composer.json

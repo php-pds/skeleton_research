@@ -1,0 +1,7 @@
+lib/Xmpp/
+tests/
+.gitignore
+README.md
+composer.json
+license.txt
+ruleset.xml

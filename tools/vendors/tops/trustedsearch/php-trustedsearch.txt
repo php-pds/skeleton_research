@@ -1,0 +1,10 @@
+lib/
+test/
+.gitignore
+CHANGELOG
+LICENSE
+README.md
+VERSION
+composer.json
+composer.lock
+phpunit.xml

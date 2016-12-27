@@ -1,0 +1,8 @@
+src/JUIT/Doctrine/DBAL/Types/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock

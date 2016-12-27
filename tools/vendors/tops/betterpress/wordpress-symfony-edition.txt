@@ -1,0 +1,8 @@
+app/
+src/
+tools/vagrant/
+.gitignore
+README.md
+composer.json
+composer.lock
+wp-config.php

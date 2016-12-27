@@ -1,0 +1,8 @@
+certs/
+config/
+core/
+help/
+log/
+.gitignore
+LICENSE
+composer.json

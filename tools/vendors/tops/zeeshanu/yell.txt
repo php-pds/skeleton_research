@@ -1,0 +1,9 @@
+src/
+tests/
+.gitignore
+LICENSE.md
+composer.json
+phpunit.xml
+readme.md
+scrutinizer.yml
+travis.yml

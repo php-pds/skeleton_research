@@ -1,0 +1,10 @@
+resources/
+src/
+tests/
+.gitignore
+LICENSE.txt
+composer.json
+composer.lock
+edible.yaml
+phpunit.xml
+readme.md

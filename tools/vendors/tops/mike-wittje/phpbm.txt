@@ -1,0 +1,7 @@
+.idea/
+src/
+templates/
+LICENSE
+README.md
+composer.json
+version.txt

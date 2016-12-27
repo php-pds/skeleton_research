@@ -1,0 +1,3 @@
+Hash/CakePHP/
+README.md
+composer.json

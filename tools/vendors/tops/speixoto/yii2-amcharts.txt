@@ -1,0 +1,6 @@
+.gitignore
+AmChartAsset.php
+LICENSE
+README.md
+Widget.php
+composer.json

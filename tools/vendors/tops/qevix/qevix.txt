@@ -1,0 +1,11 @@
+.gitattributes
+.gitignore
+.travis.yml
+CHANGELOG.md
+DOCUMENTATION.md
+LICENSE
+README.md
+composer.json
+qevix.php
+symbolclass.php
+test.php

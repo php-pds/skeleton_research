@@ -1,0 +1,8 @@
+bin/
+src/Memaw/Phpcs/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock
+memaw-phpcs.php.dist

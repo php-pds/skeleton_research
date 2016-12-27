@@ -1,0 +1,9 @@
+lang/
+templates/
+.description.php
+.gitignore
+.parameters.php
+LICENSE.md
+README.md
+class.php
+composer.json

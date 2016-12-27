@@ -1,0 +1,9 @@
+examples/
+src/synchrotalk/MeteorDDP/
+tests/
+.gitignore
+Default.md
+LICENSE
+README.md
+SUMMARY.md
+composer.json

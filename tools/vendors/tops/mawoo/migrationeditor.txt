@@ -1,0 +1,11 @@
+application/
+assets/
+system/
+.gitattributes
+.gitignore
+.htaccess
+README.md
+composer.json
+composer.lock
+index.php
+testfile.php

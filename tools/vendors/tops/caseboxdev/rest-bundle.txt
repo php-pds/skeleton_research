@@ -1,0 +1,5 @@
+src/
+.gitignore
+README.md
+UPGRADING.md
+composer.json

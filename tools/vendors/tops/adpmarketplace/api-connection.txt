@@ -1,0 +1,9 @@
+client/
+doc/
+test/
+tools/
+LICENSE
+README.md
+adpapiConnection.class.php
+adpapiUtility.class.php
+composer.json

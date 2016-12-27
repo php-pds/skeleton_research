@@ -1,0 +1,9 @@
+Command/
+Exception/
+Mapping/
+Reflection/
+AbstractFixture.php
+DoctrineDumpFixturesBundle.php
+LICENSE
+README.md
+composer.json

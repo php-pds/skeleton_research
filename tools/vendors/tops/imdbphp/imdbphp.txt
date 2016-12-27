@@ -1,0 +1,12 @@
+cache/
+conf/
+demo/
+doc/
+src/
+tests/
+.gitignore
+.travis.yml
+Makefile
+README.md
+bootstrap.php
+composer.json

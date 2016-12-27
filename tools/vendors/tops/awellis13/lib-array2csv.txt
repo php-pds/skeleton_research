@@ -1,0 +1,8 @@
+src/Awellis13/Csv/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml

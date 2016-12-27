@@ -1,0 +1,11 @@
+Controller/
+DependencyInjection/
+Model/
+Resources/config/
+Tests/Controller/
+.gitignore
+FascinosumDataTreeBundle.php
+LICENSE
+README.md
+composer.json
+data.txt

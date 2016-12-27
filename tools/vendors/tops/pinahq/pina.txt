@@ -1,0 +1,8 @@
+app/default/
+bootstrap/
+config/
+public/
+var/
+.gitignore
+README.md
+composer.json

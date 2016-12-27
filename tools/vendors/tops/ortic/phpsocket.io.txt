@@ -1,0 +1,11 @@
+example/
+src/PHPSocketIO/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+autoload.php.dist
+composer.json
+composer.lock
+phpunit.xml.dist

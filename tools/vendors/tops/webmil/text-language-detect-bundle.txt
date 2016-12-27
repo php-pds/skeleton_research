@@ -1,0 +1,7 @@
+DependencyInjection/
+Lib/
+Resources/config/
+LICENSE
+README.md
+WebmilTextLanguageDetectBundle.php
+composer.json

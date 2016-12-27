@@ -1,0 +1,4 @@
+Vagrant/
+.gitignore
+README.md
+composer.json

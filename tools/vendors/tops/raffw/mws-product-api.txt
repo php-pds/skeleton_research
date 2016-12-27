@@ -1,0 +1,4 @@
+src/MwsProductApi/
+.gitignore
+README.md
+composer.json

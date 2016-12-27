@@ -1,0 +1,8 @@
+src/
+.gitignore
+CHANGELOG
+LICENSE
+README.md
+composer.json
+composer.lock
+gh

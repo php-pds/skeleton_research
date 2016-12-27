@@ -1,0 +1,13 @@
+bin/
+bootstrap/
+configs/
+db/scoop/
+dbcore/scoop/
+scoop/
+tests/
+.gitignore
+.travis.yml
+README.md
+bootstrap.php
+composer.json
+phpunit.xml

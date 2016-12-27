@@ -1,0 +1,7 @@
+assets/
+.gitignore
+LICENSE
+PrismSyntaxHighlighter.php
+PrismSyntaxHighlighterAsset.php
+README.md
+composer.json

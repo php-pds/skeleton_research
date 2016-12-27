@@ -1,0 +1,7 @@
+Library/NickLewis/Mapping/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.phar

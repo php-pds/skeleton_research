@@ -1,0 +1,8 @@
+src/ImageOptimizer/
+tests/
+.gitignore
+LICENSE
+README.md
+Vagrantfile
+composer.json
+phpunit.xml

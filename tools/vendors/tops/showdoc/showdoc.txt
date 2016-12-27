@@ -1,0 +1,13 @@
+Application/
+Public/
+Sqlite/
+ThinkPHP/
+install/
+.htaccess
+Dockerfile
+LICENSE.txt
+README.md
+composer.json
+favicon.ico
+index.php
+robots.txt

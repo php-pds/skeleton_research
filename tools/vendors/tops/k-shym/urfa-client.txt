@@ -1,0 +1,9 @@
+classes/
+tests/
+xml/
+LICENSE.md
+README.md
+admin.crt
+cmd.php
+composer.json
+init.php

@@ -1,0 +1,7 @@
+Sodapop/
+bin/
+skeleton/
+LICENSE
+README.md
+composer.json
+version.txt

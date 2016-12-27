@@ -1,0 +1,12 @@
+i18n/
+sql/
+src/
+tests/
+.gitignore
+.travis.yml
+COPYING
+PubSubHubbubSubscriber.i18n.php
+PubSubHubbubSubscriber.php
+README.md
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,12 @@
+assets/
+demos/
+docs/
+helpers/
+tests/unit/
+.gitignore
+LICENSE
+README.md
+Slide.php
+Swiper.php
+composer.json
+phpunit.xml.dist

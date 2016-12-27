@@ -1,0 +1,15 @@
+components/
+console/
+controllers/
+generators/
+views/
+.gitignore
+AutoloadExample.php
+CodeFile.php
+Generator.php
+GiiAsset.php
+LICENSE
+Module.php
+README.md
+TypeAheadAsset.php
+composer.json

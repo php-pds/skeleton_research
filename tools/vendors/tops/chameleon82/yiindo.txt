@@ -1,0 +1,10 @@
+backend/web/
+common/
+console/
+frontend/
+static/
+.htaccess
+README.md
+composer.json
+yii
+yii.bat

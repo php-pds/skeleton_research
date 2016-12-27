@@ -1,0 +1,17 @@
+Admin/
+Builder/
+Controller/
+DependencyInjection/
+Entity/
+Loader/
+Matcher/Voter/
+Provider/
+Resources/
+.gitignore
+.mailmap
+Id4vMenuBundle.php
+README.md
+bower.json
+composer.json
+gulpfile.js
+package.json

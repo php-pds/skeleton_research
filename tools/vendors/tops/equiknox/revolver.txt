@@ -1,0 +1,7 @@
+build/
+src/Revolver/
+tests/
+.gitattributes
+.gitignore
+composer.json
+phpunit.xml

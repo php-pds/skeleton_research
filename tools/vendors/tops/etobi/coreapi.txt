@@ -1,0 +1,12 @@
+Classes/
+Documentation/Images/ExtensionApi/
+Tests/Unit/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+README.md
+composer.json
+ext_autoload.php
+ext_emconf.php
+ext_icon.gif
+ext_localconf.php

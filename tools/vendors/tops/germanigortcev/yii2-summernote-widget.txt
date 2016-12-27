@@ -1,0 +1,9 @@
+.gitignore
+CodemirrorAsset.php
+FontawesomeAsset.php
+LICENSE
+Summernote.php
+SummernoteAsset.php
+SummernoteLanguageAsset.php
+composer.json
+readme.md

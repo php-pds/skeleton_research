@@ -1,0 +1,9 @@
+src/FlashMessages/
+test/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+autoloader.php
+composer.json

@@ -1,0 +1,10 @@
+Resources/
+src/
+tests/
+.gitignore
+LICENSE.md
+README.md
+codecept.phar
+codeception.yml
+composer.json
+composer.lock

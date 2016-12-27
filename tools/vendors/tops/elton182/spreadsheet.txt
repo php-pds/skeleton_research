@@ -1,0 +1,8 @@
+php-excel-reader/
+src/
+.gitignore
+CHANGELOG.md
+LICENSE.md
+README.md
+composer.json
+test.php

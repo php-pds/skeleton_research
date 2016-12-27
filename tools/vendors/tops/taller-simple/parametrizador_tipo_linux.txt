@@ -1,0 +1,6 @@
+.gitignore
+LICENSE
+README.md
+composer.json
+parametrizador_tipo_linux.php
+parametrizador_tipo_linux_test.php

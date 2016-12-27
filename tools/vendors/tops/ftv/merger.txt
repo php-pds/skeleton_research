@@ -1,0 +1,7 @@
+src/Ftv/Merger/
+tests/Ftv/Merger/
+.gitignore
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

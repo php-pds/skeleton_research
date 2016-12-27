@@ -1,0 +1,4 @@
+src/Mashkin/
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,6 @@
+src/TiendaNube/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json

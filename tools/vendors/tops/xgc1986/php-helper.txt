@@ -1,0 +1,8 @@
+config/
+src/Collection/
+tests/Collection/
+.gitignore
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

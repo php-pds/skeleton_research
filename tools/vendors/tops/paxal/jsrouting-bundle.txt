@@ -1,0 +1,16 @@
+Command/
+Controller/
+DependencyInjection/
+Extractor/
+Resources/
+Response/
+Serializer/
+Tests/
+Util/
+.gitignore
+.travis.yml
+CONTRIBUTING.md
+FOSJsRoutingBundle.php
+README.md
+composer.json
+phpunit.xml.dist

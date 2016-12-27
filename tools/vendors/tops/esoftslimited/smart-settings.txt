@@ -1,0 +1,10 @@
+actions/
+components/
+migrations/
+models/
+widgets/
+Bootstrap.php
+Module.php
+README.md
+composer.json
+composer.lock

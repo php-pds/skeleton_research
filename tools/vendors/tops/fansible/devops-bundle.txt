@@ -1,0 +1,14 @@
+Ansible/roles/
+Command/
+Config/
+DependencyInjection/
+Finder/
+Generator/
+Resources/
+Tests/
+.gitignore
+FansibleDevopsBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

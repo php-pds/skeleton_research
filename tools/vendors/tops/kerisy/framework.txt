@@ -1,0 +1,6 @@
+src/
+.gitignore
+ChangeLog.md
+README.md
+composer.json
+jobs.sql

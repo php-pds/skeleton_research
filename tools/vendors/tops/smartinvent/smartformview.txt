@@ -1,0 +1,11 @@
+config/
+src/
+webroot/
+.coveralls.yml
+.editorconfig
+.gitignore
+.scrutinizer.yml
+.travis.yml
+Dockerfile
+Makefile
+composer.json

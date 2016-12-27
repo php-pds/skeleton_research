@@ -1,0 +1,12 @@
+app/
+storage/
+.editorconfig
+.env
+.gitignore
+composer.json
+gulpfile.js
+package.json
+readme.md
+tail.sh
+tsconfig.json
+wp-builder-app.php

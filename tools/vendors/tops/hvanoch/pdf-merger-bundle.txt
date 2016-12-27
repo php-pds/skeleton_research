@@ -1,0 +1,8 @@
+DependencyInjection/
+Resources/config/
+bin/
+.gitignore
+HvanochPdfMergerBundle.php
+Merger.php
+README.md
+composer.json

@@ -1,0 +1,4 @@
+examples/
+Fastimage.php
+README.md
+composer.json

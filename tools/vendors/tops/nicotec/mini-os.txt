@@ -1,0 +1,6 @@
+app/
+src/AppBundle/
+vendor/
+web/
+.gitignore
+composer.json

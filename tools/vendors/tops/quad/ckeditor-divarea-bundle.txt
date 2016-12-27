@@ -1,0 +1,6 @@
+Resources/public/
+.gitignore
+LICENSE
+QuadCKEditorDivAreaBundle.php
+README.md
+composer.json

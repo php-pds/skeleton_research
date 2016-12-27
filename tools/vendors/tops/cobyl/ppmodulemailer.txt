@@ -1,0 +1,8 @@
+config/
+sql/
+src/PpModuleMailer/
+.gitignore
+Module.php
+README.md
+composer.json
+composer.lock

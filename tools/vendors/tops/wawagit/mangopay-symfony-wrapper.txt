@@ -1,0 +1,6 @@
+lib/MangoPay/
+nbproject/
+vendor/
+.gitignore
+README.md
+composer.json

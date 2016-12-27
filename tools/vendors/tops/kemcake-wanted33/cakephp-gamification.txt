@@ -1,0 +1,12 @@
+Config/
+Console/Command/Task/
+Controller/
+Lib/
+Migration/
+Model/
+Test/
+Vendor/
+View/
+webroot/
+README.md
+composer.json

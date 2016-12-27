@@ -1,0 +1,11 @@
+src/Slug/
+tests/
+.gitignore
+.travis.yml
+CHANGELOG.mkd
+LICENSE
+README.mkd
+composer.json
+example.php
+phpcs.xml
+phpunit.xml

@@ -1,0 +1,4 @@
+examples/
+src/Segment/
+README.md
+composer.json

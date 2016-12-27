@@ -1,0 +1,15 @@
+.tx/
+_config/
+code/
+css/
+docs/_images/
+fonts/
+javascript/
+lang/
+scss/
+templates/
+.gitignore
+README.md
+_config.php
+composer.json
+license.md

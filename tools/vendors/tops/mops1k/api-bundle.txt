@@ -1,0 +1,7 @@
+Resources/config/
+Readme.md
+apiservice.yml.dist
+composer.json
+config.yml.dist
+mops1kApiBundle.php
+routing.yml.dist

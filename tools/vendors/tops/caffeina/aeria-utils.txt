@@ -1,0 +1,2 @@
+aeria-activator.php
+composer.json

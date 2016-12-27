@@ -1,0 +1,9 @@
+examples/
+src/Dariuszp/
+test/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml

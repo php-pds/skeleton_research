@@ -1,0 +1,5 @@
+src/
+.editorconfig
+.styleci.yml
+README.md
+composer.json

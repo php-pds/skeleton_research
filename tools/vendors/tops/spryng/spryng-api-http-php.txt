@@ -1,0 +1,5 @@
+src/Spryng/Api/
+.gitignore
+README.md
+README_NL.md
+composer.json

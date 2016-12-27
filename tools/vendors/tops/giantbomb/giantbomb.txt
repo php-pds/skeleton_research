@@ -1,0 +1,4 @@
+GiantBomb/
+LICENSE
+README.md
+composer.json

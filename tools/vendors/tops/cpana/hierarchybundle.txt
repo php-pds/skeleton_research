@@ -1,0 +1,8 @@
+Controller/
+DependencyInjection/
+Hierarchy/
+Resources/
+Tests/Controller/
+CPANAHierarchyBundle.php
+README.md
+composer.json

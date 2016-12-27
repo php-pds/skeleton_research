@@ -1,0 +1,11 @@
+bin/
+http/
+install/sql/
+src/
+tests/
+var/
+CHANGE.md
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

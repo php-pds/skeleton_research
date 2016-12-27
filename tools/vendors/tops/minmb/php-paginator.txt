@@ -1,0 +1,8 @@
+src/Paginator/
+tests/
+vendor/
+.gitignore
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,3 @@
+lib/
+README.markdown
+composer.json

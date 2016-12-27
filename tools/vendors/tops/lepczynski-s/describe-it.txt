@@ -1,0 +1,9 @@
+bin/
+source/
+test/
+.gitignore
+composer.json
+composer.lock
+describe-it.json
+license.md
+readme.md

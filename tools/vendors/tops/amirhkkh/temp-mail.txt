@@ -1,0 +1,5 @@
+LICENSE
+README.md
+composer.json
+tempmail.class.php
+tempmail_example.php

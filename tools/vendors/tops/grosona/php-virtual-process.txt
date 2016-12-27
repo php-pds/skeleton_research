@@ -1,0 +1,6 @@
+src/Grosona/PhpProcess/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json

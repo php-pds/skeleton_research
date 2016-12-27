@@ -1,0 +1,7 @@
+classes/
+config/
+vendor/
+views/
+.gitmodules
+composer.json
+init.php

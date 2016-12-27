@@ -1,0 +1,5 @@
+src/LeanCommerce/Composer/
+.gitattributes
+.gitignore
+composer.json
+composer.phar

@@ -1,0 +1,16 @@
+Controller/
+DependencyInjection/
+Digestor/
+Event/
+Form/
+Plugin/
+Resources/
+Tests/
+Transaction/
+.gitignore
+.travis.yml
+BarbondevPaymentPayPointHostedBundle.php
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

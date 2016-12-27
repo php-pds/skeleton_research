@@ -1,0 +1,6 @@
+src/Slugify/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json

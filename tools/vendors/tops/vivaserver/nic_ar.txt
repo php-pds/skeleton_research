@@ -1,0 +1,4 @@
+src/NicAr/
+.gitignore
+README.markdown
+composer.json

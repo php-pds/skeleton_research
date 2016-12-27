@@ -1,0 +1,10 @@
+build/
+examples/
+noaa/
+tests/
+.gitignore
+.travis.yml
+README.markdown
+build.xml
+composer.json
+phpunit.xml

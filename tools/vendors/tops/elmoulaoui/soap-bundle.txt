@@ -1,0 +1,9 @@
+Controller/
+DependencyInjection/
+Resources/
+Services/
+Tests/Controller/
+.gitignore
+README.md
+SoapBundle.php
+composer.json

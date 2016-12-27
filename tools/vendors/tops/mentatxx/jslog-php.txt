@@ -1,0 +1,5 @@
+JsLog/
+.gitignore
+LICENSE
+README.md
+composer.json

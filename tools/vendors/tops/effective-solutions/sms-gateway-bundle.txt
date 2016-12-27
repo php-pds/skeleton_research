@@ -1,0 +1,8 @@
+Controller/
+DependencyInjection/
+Resources/
+SMSGateway/
+Tests/Controller/
+EffectiveSolutionsSMSGatewayBundle.php
+README.md
+composer.json

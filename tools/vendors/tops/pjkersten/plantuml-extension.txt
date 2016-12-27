@@ -1,0 +1,5 @@
+tests/
+.gitignore
+PlantUML.php
+README
+composer.json

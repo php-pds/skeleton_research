@@ -1,0 +1,5 @@
+lib/thumbsniper/
+.gitignore
+LICENSE.txt
+README.md
+composer.json

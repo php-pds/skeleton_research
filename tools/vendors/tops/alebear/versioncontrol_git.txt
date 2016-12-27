@@ -1,0 +1,5 @@
+VersionControl/
+doc/
+test/
+.gitignore
+composer.json

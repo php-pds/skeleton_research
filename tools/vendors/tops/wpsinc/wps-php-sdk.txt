@@ -1,0 +1,11 @@
+spec/
+src/
+tests/
+.gitignore
+LICENSE
+README.md
+circle.yml
+composer.json
+composer.lock
+phpspec.yml
+phpunit.xml

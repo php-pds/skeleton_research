@@ -1,0 +1,4 @@
+src/PicORM/Silex/Provider/
+LICENSE
+README.md
+composer.json

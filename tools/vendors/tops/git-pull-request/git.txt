@@ -1,0 +1,15 @@
+Exception/
+GitCommand/
+Tests/GitCommand/
+.coveralls.yml
+.gitignore
+.php_cs
+.travis.yml
+CONTRIBUTING.md
+Git.php
+LICENSE
+README.md
+Vagrantfile
+composer.json
+composer.lock
+phpunit.xml.dist

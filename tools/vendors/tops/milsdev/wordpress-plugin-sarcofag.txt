@@ -1,0 +1,12 @@
+bin/
+config/
+src/
+test/
+.coveralls.yml
+.gitignore
+LICENSE
+README.md
+composer.json
+index.php
+phpcs.xml
+phpunit.xml

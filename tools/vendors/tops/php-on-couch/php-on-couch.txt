@@ -1,0 +1,11 @@
+doc/
+examples/
+frameworks/ci/
+lib/
+tests/
+.coveralls.yml
+.travis.yml
+LICENSE
+README.md
+build.xml
+composer.json

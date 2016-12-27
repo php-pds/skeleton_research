@@ -1,0 +1,8 @@
+lang/
+views/
+LICENSE.txt
+README.md
+README.txt
+advanced-rss-widget.php
+composer.json
+screenshot-1.png

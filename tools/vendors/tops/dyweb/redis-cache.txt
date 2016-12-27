@@ -1,0 +1,15 @@
+doc/
+example/
+src/Dy/
+tests/
+.gitignore
+.styleci.yml
+.travis.yml
+CONTRIBUTING.md
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.hhvm.xml
+phpunit.xml
+run-check.sh

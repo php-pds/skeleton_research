@@ -1,0 +1,11 @@
+config-examples/
+src/FreeElephants/AltEra/
+tests/FreeElephants/AltEra/
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

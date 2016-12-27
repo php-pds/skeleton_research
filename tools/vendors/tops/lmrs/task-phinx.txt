@@ -1,0 +1,6 @@
+spec/Task/Plugin/
+src/
+.gitignore
+README.md
+Taskfile
+composer.json

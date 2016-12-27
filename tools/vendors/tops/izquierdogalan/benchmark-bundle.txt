@@ -1,0 +1,13 @@
+.idea/
+Aop/
+DependencyInjection/
+Resources/
+Tests/
+vendor/
+.gitignore
+.travis.yml
+EasysBenchmarkBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

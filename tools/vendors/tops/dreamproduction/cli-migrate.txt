@@ -1,0 +1,6 @@
+bin/
+.cli-migrate.config.dist.yml
+.gitignore
+LICENSE
+README.md
+composer.json

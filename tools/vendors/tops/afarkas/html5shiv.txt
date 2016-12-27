@@ -1,0 +1,11 @@
+dist/
+src/
+test/
+.gitattributes
+.gitignore
+Gruntfile.js
+MIT and GPL2 licenses.md
+bower.json
+composer.json
+package.json
+readme.md

@@ -1,0 +1,8 @@
+Frontend/MoptPaymentPayone/
+.gitignore
+.travis.yml
+CONTRIBUTING.md
+README.md
+build.xml
+composer.json
+composer.lock

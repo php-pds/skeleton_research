@@ -1,0 +1,9 @@
+docs/api/
+src/
+tests/
+vendor/
+.DS_Store
+.gitignore
+composer.json
+composer.lock
+readme.md

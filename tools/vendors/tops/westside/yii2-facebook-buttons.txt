@@ -1,0 +1,4 @@
+views/
+README.md
+ShareButton.php
+composer.json

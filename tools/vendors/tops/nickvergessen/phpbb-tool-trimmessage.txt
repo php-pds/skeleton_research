@@ -1,0 +1,10 @@
+src/Nickvergessen/TrimMessage/
+tests/
+.gitignore
+.travis.yml
+README.md
+composer.json
+composer.lock
+composer.phar
+license.txt
+phpunit.xml

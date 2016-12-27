@@ -1,0 +1,28 @@
+classes/
+examples/
+font/
+graph_cache/
+iccprofiles/
+includes/
+mpdfi/
+patterns/
+tmp/
+ttfontdata/
+ttfonts/
+utils/
+.gitattributes
+CHANGELOG.txt
+CHANGES 5.7.3.txt
+CREDITS.txt
+FONT INFO.txt
+LICENSE.txt
+README.txt
+composer.json
+compress.php
+config.php
+config_cp.php
+config_fonts.php
+graph.php
+mpdf.css
+mpdf.php
+progbar.css

@@ -1,0 +1,14 @@
+Exception/
+Extension/Cache/
+Handler/
+Lib/
+Module/
+Resources/
+Tests/
+Write/
+.gitattributes
+.travis.yml
+GetId3.php
+README.md
+composer.json
+phpunit.xml.dist

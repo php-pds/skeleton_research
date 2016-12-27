@@ -1,0 +1,12 @@
+spec/Jamesflight/Markaround/
+src/
+tests/
+.DS_Store
+.gitignore
+.travis.yml
+README.md
+codeception.yml
+composer.json
+composer.lock
+phpspec.yml
+test.sh

@@ -1,0 +1,9 @@
+lib/Api/
+tests/
+.gitignore
+LICENSE
+README.md
+VagrantFile
+composer.json
+composer.lock
+phpunit.xml

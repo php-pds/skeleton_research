@@ -1,0 +1,7 @@
+DependencyInjection/
+Resources/
+Slider/
+Twig/
+README.md
+SilvioMessiSliderBundle.php
+composer.json

@@ -1,0 +1,7 @@
+Composer/
+DependencyInjection/
+Resources/config/
+LICENSE
+README.md
+SnceEzPublishLegacyUtilityBundle.php
+composer.json

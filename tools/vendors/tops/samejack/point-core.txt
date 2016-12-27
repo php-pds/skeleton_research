@@ -1,0 +1,11 @@
+build/
+example/
+src/
+test/
+.gitignore
+.travis.yml
+Autoloader.php
+LICENSE
+README.md
+composer.json
+plugin.php

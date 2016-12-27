@@ -1,0 +1,8 @@
+Classes/Chantrea/Training/
+Configuration/
+Documentation/
+Resources/
+Tests/Unit/Domain/Model/
+.travis.yml
+README
+composer.json

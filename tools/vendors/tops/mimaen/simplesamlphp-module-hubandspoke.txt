@@ -1,0 +1,6 @@
+doc/
+lib/Auth/Process/
+LICENSE
+README.md
+composer.json
+default-disable

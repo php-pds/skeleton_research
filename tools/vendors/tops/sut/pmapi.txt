@@ -1,0 +1,5 @@
+src/SuT/PMAPI/Client/
+tests/
+README.md
+composer.json
+phpunit.xml.dist

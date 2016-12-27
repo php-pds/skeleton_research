@@ -1,0 +1,11 @@
+Controller/
+DataCollector/
+DependencyInjection/
+Resources/
+Tests/
+.gitignore
+.travis.yml
+ProcessingBundle.php
+README.md
+composer.json
+phpunit.xml.dist

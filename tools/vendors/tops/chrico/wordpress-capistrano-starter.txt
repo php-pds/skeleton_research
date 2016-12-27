@@ -1,0 +1,9 @@
+config/
+mu-plugins/
+.gitignore
+.htaccess
+Capfile
+Gemfile
+Gemfile.lock
+README.md
+composer.json

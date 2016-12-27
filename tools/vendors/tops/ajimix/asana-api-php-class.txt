@@ -1,0 +1,6 @@
+examples/
+CHANGELOG.md
+README.md
+asana-oauth.php
+asana.php
+composer.json

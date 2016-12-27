@@ -1,0 +1,8 @@
+src/apiTalk/
+test/apiTalk/
+vendor/
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

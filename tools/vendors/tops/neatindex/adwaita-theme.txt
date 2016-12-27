@@ -1,0 +1,5 @@
+assets/
+icons/
+src/neatindex/themes/adwaita/
+templates/
+composer.json

@@ -1,0 +1,12 @@
+lib/
+public_html/
+src/
+template/
+test/unit/
+.gitignore
+.travis.yml
+HISTORY.md
+InitTool.php
+README.md
+composer.json
+phpunit.xml.dist

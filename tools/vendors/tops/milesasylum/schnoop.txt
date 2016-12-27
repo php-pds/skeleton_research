@@ -1,0 +1,12 @@
+PHPUnit/
+src/
+tests/Schnoop/
+.coveralls.yml
+.gitignore
+.travis.yml
+LICENSE.md
+README.md
+Vagrantfile.dist
+composer.json
+composer.lock
+phpunit.xml.dist

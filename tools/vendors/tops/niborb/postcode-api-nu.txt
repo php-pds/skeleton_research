@@ -1,0 +1,9 @@
+bin/
+spec/Niborb/PostcodeAPI/
+src/Niborb/PostcodeAPI/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpspec.yml

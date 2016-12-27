@@ -1,0 +1,8 @@
+Airbrake/
+DependencyInjection/
+EventListener/
+Resources/
+.gitignore
+PhpAirbrakeBundle.php
+README.md
+composer.json

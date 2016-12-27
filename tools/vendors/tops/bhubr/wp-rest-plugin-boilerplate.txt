@@ -1,0 +1,7 @@
+bin/
+languages/
+src/
+tests-resources/
+tests/
+composer.json
+phpunit.xml.dist

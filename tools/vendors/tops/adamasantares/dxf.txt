@@ -1,0 +1,7 @@
+demo/
+.gitignore
+Color.php
+Creator.php
+LineType.php
+README.md
+composer.json

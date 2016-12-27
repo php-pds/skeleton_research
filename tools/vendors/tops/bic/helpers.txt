@@ -1,0 +1,4 @@
+src/Bic/Helpers/
+.gitignore
+README.md
+composer.json

@@ -1,0 +1,11 @@
+DependencyInjection/
+Resources/config/
+Tests/
+.gitignore
+Factory.php
+James2001OdtBundle.php
+README.txt
+bootstrap.php
+composer.json
+composer.lock
+phpunit.xml.dist

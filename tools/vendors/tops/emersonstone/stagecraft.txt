@@ -1,0 +1,12 @@
+consolecommands/
+controllers/
+models/
+resources/
+services/
+templates/
+variables/
+.gitignore
+LICENSE
+README.md
+StagecraftPlugin.php
+composer.json

@@ -1,0 +1,7 @@
+img/
+js/
+less/
+.gitignore
+LICENSE
+README.md
+composer.json

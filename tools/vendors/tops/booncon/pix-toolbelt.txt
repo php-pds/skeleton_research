@@ -1,0 +1,13 @@
+bin/
+languages/
+mods/
+tests/
+.editorconfig
+.gitignore
+.travis.yml
+Gruntfile.js
+composer.json
+package.json
+phpunit.xml.dist
+pix-toolbelt.php
+readme.txt

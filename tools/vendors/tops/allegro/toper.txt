@@ -1,0 +1,10 @@
+src/Toper/
+tests/
+.gitignore
+.travis.yml
+Changelog.md
+LICENSE
+README.md
+build.xml
+composer.json
+phpunit.xml

@@ -1,0 +1,11 @@
+Controller/
+DependencyInjection/
+Entity/
+Event/
+Resources/
+Social/
+.gitignore
+README.md
+SRozeIOSocialShareBundle.php
+SocialShareEvents.php
+composer.json

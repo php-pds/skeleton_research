@@ -1,0 +1,10 @@
+.idea/
+vendor/
+.gitattributes
+.gitignore
+LICENSE
+composer.json
+index.html
+jquery.min.js
+request.php
+test.php

@@ -1,0 +1,15 @@
+bin/
+src/Konstrui/
+tests/
+.gitignore
+.htaccess
+.konstrui.php
+.php_cs
+.travis.yml
+LICENSE
+README.md
+autoload.php
+composer.json
+composer.lock
+phpunit.xml
+runner.php

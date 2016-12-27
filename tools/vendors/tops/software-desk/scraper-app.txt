@@ -1,0 +1,7 @@
+ParserLibrary/
+tests/
+README.md
+autoloader.php
+composer.json
+dataParserApplication.php
+phpunit.xml

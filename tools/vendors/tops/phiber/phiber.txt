@@ -1,0 +1,10 @@
+Tests/
+library/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+composer.json
+logo.png
+phpunit.xml

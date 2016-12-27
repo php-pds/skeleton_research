@@ -1,0 +1,6 @@
+config/
+src/NainterceptorPiwik/
+.gitignore
+Module.php
+README.md
+composer.json

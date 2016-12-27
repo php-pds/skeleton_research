@@ -1,0 +1,15 @@
+.settings/
+build/
+source/
+tests/
+.buildpath
+.codeclimate.yml
+.project
+.travis.yml
+Dockerfile
+LICENSE
+README.md
+composer.json
+generate-api-local.sh
+generate-api.sh
+phpunit.xml.dist

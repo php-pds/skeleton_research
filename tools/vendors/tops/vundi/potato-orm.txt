@@ -1,0 +1,17 @@
+src/
+tests/
+.coveralls.yml
+.editorconfig
+.env.example
+.env.travis
+.gitattributes
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE.md
+Person.php
+README.md
+composer.json
+composer.lock
+phpunit.xml
+potato.db

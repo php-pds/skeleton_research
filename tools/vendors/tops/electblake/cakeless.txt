@@ -1,0 +1,8 @@
+Controller/
+Model/
+Vendor/
+webroot/
+.gitmodules
+composer.json
+license.txt
+readme.md

@@ -1,0 +1,9 @@
+Helper/
+Model/Config/Source/Customer/
+Observer/
+etc/
+i18n/
+LICENSE.txt
+README.md
+composer.json
+registration.php

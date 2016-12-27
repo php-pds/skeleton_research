@@ -1,0 +1,7 @@
+Resources/public/
+GPL-LICENSE.txt
+LICENSE
+LazyantsDynatreeBundle.php
+MIT-License.txt
+README.md
+composer.json

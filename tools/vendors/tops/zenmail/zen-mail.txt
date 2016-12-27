@@ -1,0 +1,11 @@
+ZenCoreBundle/
+ZenListBundle/
+ZenSwiftAdapterBundle/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+composer.json
+humans.txt
+phpunit.xml.dist

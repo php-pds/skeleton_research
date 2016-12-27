@@ -1,0 +1,7 @@
+css/
+images/
+lib/
+.gitignore
+README.md
+composer.json
+index.php

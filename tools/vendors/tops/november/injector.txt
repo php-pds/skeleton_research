@@ -1,0 +1,10 @@
+src/November/
+testing/
+tests/
+.gitignore
+.travis.yml
+LICENSE.txt
+README.md
+_config.php
+composer.json
+phpunit.xml

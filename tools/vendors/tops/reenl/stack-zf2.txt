@@ -1,0 +1,8 @@
+public_example/
+src/Stack/
+.gitignore
+LICENSE
+QUICKSTART.md
+README.md
+composer.json
+composer.lock

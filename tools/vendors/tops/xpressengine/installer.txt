@@ -1,0 +1,6 @@
+src/Xpressengine/Installer/
+tests/
+.gitignore
+README.md
+composer.json
+phpunit.xml

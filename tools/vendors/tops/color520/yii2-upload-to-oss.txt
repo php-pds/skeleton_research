@@ -1,0 +1,8 @@
+assets/
+oss/
+Assets.php
+OssManager.php
+OssUpload.php
+README.md
+UploadOss.php
+composer.json

@@ -1,0 +1,4 @@
+yii/feed/
+LICENSE
+README.md
+composer.json

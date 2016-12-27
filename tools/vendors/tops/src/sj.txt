@@ -1,0 +1,17 @@
+classes/
+db/
+lang/en/
+pix/
+LICENSE
+README.md
+add_note.php
+composer.json
+delete_note.php
+edit_note.php
+lib.php
+locallib.php
+my_notes.php
+styles.css
+version.php
+view_all_note.php
+view_note.php

@@ -1,0 +1,4 @@
+src/Starter/
+.gitignore
+README.md
+composer.json

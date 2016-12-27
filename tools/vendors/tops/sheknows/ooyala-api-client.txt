@@ -1,0 +1,13 @@
+api/
+src/SheKnows/OoyalaApi/
+tests/
+.gitignore
+.gitmodules
+.travis.yml
+Gemfile
+Gemfile.lock
+LICENSE
+README.md
+RakeFile
+composer.json
+phpunit.xml.dist

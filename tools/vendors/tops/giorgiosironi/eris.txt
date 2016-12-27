@@ -1,0 +1,15 @@
+docs/
+examples/
+src/
+test/
+.gitignore
+.php_cs
+.todo.txt
+.travis.yml
+ChangeLog.md
+LICENSE
+README.md
+composer.json
+phpunit.xml
+readthedocs.requirements.txt
+readthedocs.yml

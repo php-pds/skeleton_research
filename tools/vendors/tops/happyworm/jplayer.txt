@@ -1,0 +1,17 @@
+artwork/
+dist/
+examples/
+lib/
+src/
+.gitignore
+.jamignore
+CHANGELOG.md
+CLA.md
+CONTRIBUTING.md
+Gruntfile.js
+MIGRATION.md
+MIT-LICENSE.txt
+README.md
+bower.json
+composer.json
+package.json

@@ -1,0 +1,12 @@
+examples/
+src/PHPAssert/Core/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+bootstrap.php
+composer.json
+composer.lock
+phpunit.xml
+run_examples.php

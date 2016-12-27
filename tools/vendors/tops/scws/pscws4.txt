@@ -1,0 +1,8 @@
+dict/
+etc/
+src/
+tools/
+LICENSE
+README.md
+composer.json
+test.php

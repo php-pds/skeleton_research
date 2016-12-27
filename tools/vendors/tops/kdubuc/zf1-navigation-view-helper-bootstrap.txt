@@ -1,0 +1,9 @@
+.settings/
+demo/
+library/ZFBootstrap/View/Helper/Navigation/
+tests/
+.buildpath
+.project
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,6 @@
+src/SparkPost/
+.gitignore
+LICENSE
+Readme.md
+composer.json
+composer.lock

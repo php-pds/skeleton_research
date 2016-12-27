@@ -1,0 +1,6 @@
+src/Session/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,9 @@
+bin/
+examples/auth/
+src/
+tests/
+LICENSE
+README.md
+composer.json
+phpunit.xml
+provides.json

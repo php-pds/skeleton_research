@@ -1,0 +1,13 @@
+DependencyInjection/
+Exception/
+Resources/config/
+Tests/
+vendor/
+.gitignore
+.travis.yml
+Ftp.php
+IsidroggFtpBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

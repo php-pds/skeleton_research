@@ -1,0 +1,8 @@
+Bot/
+Config/
+public/
+.gitignore
+.htaccess
+README.md
+activate-hook.php
+composer.json

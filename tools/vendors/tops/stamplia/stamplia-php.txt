@@ -1,0 +1,8 @@
+src/Stamplia/
+tests/Stamplia/
+.gitignore
+LICENSE
+README.md
+composer.json
+doc.php
+phpunit.xml

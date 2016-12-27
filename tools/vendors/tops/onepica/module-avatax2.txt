@@ -1,0 +1,15 @@
+Api/
+Block/Adminhtml/
+Controller/Adminhtml/
+Cron/
+Helper/
+Model/
+Observer/
+Plugin/
+Setup/
+Ui/Component/Listing/Column/
+etc/
+view/
+README.md
+composer.json
+registration.php

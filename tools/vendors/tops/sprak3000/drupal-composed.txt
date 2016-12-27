@@ -1,0 +1,6 @@
+public/profiles/linguo/
+CHANGELOG.md
+LICENSE
+README.md
+composer.json
+composer.lock

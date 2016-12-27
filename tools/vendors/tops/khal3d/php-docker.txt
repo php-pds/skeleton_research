@@ -1,0 +1,9 @@
+src/PHPDocker/
+vendor/
+.editorconfig
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+example.php

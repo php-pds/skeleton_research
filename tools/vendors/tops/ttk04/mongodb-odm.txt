@@ -1,0 +1,15 @@
+docs/
+lib/Doctrine/ODM/MongoDB/
+tests/
+tools/sandbox/
+.gitignore
+.gitmodules
+.scrutinizer.yml
+.travis.yml
+CHANGELOG-1.0.md
+CHANGELOG-1.1.md
+LICENSE
+README.markdown
+composer.json
+doctrine-mongo-mapping.xsd
+phpunit.xml.dist

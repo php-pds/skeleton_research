@@ -1,0 +1,8 @@
+config/
+src/
+tests/TestCase/Controller/
+webroot/
+README.md
+composer.json
+phpunit.xml.dist
+uploader.sql

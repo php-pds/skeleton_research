@@ -1,0 +1,16 @@
+bin/
+img/
+includes/
+theme/
+.gitignore
+.travis.yml
+LICENSE.txt
+README.md
+composer.json
+yellowcube.client.inc
+yellowcube.info
+yellowcube.install
+yellowcube.jobs.inc
+yellowcube.module
+yellowcube.rules.inc
+yellowcube.rules_defaults.inc

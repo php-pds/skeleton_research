@@ -1,0 +1,13 @@
+assets/js/
+spec/
+src/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+error_log
+gulpfile.js
+package.json
+phpspec.yml

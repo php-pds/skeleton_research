@@ -1,0 +1,5 @@
+scripts/composer/
+README.md
+composer.json
+drupalcs.xml
+pre-push

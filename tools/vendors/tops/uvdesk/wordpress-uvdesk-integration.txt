@@ -1,0 +1,9 @@
+assets/
+includes/
+templates/
+README.md
+README.txt
+composer.json
+functions.php
+license.txt
+style.css

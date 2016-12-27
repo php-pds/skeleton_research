@@ -1,0 +1,8 @@
+spec/Emil/Rorovoveror/
+src/Emil/Rorovoveror/
+.gitignore
+LICENCE
+README.md
+composer.json
+composer.lock
+phpspec.yml

@@ -1,0 +1,8 @@
+assets/
+bin/
+docs/
+functions/
+include/
+lib/
+.gitignore
+composer.json

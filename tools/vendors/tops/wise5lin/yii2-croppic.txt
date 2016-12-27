@@ -1,0 +1,10 @@
+actions/
+assets/
+tests/codeception/
+CHANGELOG.md
+Croppic.php
+CroppicAsset.php
+LICENSE.md
+README.md
+codeception.yml
+composer.json

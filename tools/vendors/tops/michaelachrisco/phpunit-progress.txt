@@ -1,0 +1,9 @@
+PHPUnit/Extensions/Progress/
+Tests/
+.gitignore
+.travis.yml
+README.markdown
+composer.json
+composer.lock
+phpunit.xml
+screenshot.png

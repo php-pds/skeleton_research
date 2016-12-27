@@ -1,0 +1,6 @@
+example/
+src/GoogleSpeech/
+README.md
+bootstrap.php
+composer.json
+composer.lock

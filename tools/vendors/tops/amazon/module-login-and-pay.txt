@@ -1,0 +1,14 @@
+documentation/
+features/
+spec/
+src/
+.gitignore
+.scrutinizer.yml
+LICENSE
+NOTICE
+README.md
+behat.yml
+composer.json
+composer.lock
+marketplace-composer.json
+phpspec.yml

@@ -1,0 +1,5 @@
+lib/
+vendor/
+.gitignore
+composer.json
+index.php

@@ -1,0 +1,8 @@
+DependencyInjection/
+Resources/config/
+Security/
+.gitignore
+EasySecurityBundle.php
+LICENSE.md
+README.md
+composer.json

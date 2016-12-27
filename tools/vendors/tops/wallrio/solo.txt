@@ -1,0 +1,5 @@
+library/
+.gitignore
+README-ptbr.md
+README.md
+composer.json

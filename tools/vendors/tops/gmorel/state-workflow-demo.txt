@@ -1,0 +1,14 @@
+Test/BookingEngine/Domain/Entity/
+app/
+specification/workflow/
+src/
+web/
+.gitignore
+.phpunit.bootstrap.php
+.travis.yml
+README.md
+composer.json
+composer.lock
+phpunit.xml
+phpunit.xsd
+travis.php.ini

@@ -1,0 +1,6 @@
+spec/Landingi/Phalcon/
+src/Landingi/Phalcon/
+.gitignore
+README.md
+composer.json
+phpspec.yml

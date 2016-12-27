@@ -1,0 +1,6 @@
+src/Phero/
+test/PheroTest/DatabaseTest/
+.gitignore
+README.md
+composer.json
+phpunit_log.log

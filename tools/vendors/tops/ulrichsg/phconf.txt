@@ -1,0 +1,11 @@
+doc/
+src/Ulrichsg/PhConf/
+test/Ulrichsg/PhConf/
+.gitignore
+.travis.yml
+LICENSE
+Makefile
+README.md
+composer.json
+composer.lock
+phpunit.xml

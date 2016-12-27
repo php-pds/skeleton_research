@@ -1,0 +1,6 @@
+demo/
+.gitattributes
+LICENSE
+README.md
+class.magma.php
+composer.json

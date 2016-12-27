@@ -1,0 +1,16 @@
+debugger/
+demo/
+doc/
+extras/
+lib/
+src/
+tests/
+.gitignore
+.travis.yml
+ChangeLog
+INSTALL.md
+NEWS
+README.md
+composer.json
+license.txt
+pakefile.php

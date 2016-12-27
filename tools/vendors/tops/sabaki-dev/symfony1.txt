@@ -1,0 +1,17 @@
+data/
+lib/
+licenses/
+test/
+.editorconfig
+.gitignore
+.gitmodules
+.travis.yml
+CHANGELOG.md
+COPYRIGHT.md
+LICENSE.md
+README.md
+UPGRADE.md
+WHATS_NEW.md
+autoload.php
+composer.json
+package.xml.tmpl

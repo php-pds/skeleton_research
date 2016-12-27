@@ -1,0 +1,4 @@
+src/Lametric/
+LICENSE
+README.md
+composer.json

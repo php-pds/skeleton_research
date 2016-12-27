@@ -1,0 +1,16 @@
+.docker/
+assets/
+config/
+data/
+module/
+public/
+.gitignore
+Gruntfile.js
+README.md
+bower.json
+composer.json
+composer.lock
+composer.phar
+docker-compose.yml
+init_autoloader.php
+package.json

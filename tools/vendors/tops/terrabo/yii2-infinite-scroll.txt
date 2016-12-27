@@ -1,0 +1,5 @@
+.gitignore
+InfinitePager.php
+LICENSE
+README.md
+composer.json

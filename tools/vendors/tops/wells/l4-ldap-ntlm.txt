@@ -1,0 +1,8 @@
+src/Wells/L4LdapNtlm/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml

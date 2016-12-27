@@ -1,0 +1,8 @@
+build/
+src/
+tests/
+.gitignore
+.travis.yml
+README.md
+bolt.phar
+composer.json

@@ -1,0 +1,12 @@
+bin/
+doc/img/
+resources/icons/
+src/
+tests/Counter/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml

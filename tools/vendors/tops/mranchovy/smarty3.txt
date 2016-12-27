@@ -1,0 +1,8 @@
+classes/
+config/
+simpletests/
+vendor/smarty/
+views/
+README.md
+composer.json
+init.php

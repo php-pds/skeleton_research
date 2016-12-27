@@ -1,0 +1,11 @@
+.idea/
+src/
+tests/
+.gitignore
+LICENSE.txt
+README.md
+VERSION.txt
+bootstrap.php
+composer.json
+phpunit.xml
+phpunit.xml.dist

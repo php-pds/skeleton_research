@@ -1,0 +1,9 @@
+config/
+fixture/20160817123000_import_admin_user/
+lib/
+migration/
+templates/
+.gitignore
+composer.json
+composer.lock
+manifest.yml

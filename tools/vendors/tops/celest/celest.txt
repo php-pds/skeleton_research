@@ -1,0 +1,11 @@
+src/Celest/
+test/Celest/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+Dockerfile.php56
+Dockerfile.php70
+Makefile
+Readme.md
+composer.json
+phpunit.xml

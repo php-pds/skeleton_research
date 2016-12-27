@@ -1,0 +1,10 @@
+samples/
+src/Bab/RabbitMqGraph/
+target/
+tests/Bab/RabbitMqGraph/Tests/
+.gitignore
+.travis.yml
+LICENCE
+README.md
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,4 @@
+src/BrightfishSoftware/
+.gitignore
+README.md
+composer.json

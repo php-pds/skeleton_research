@@ -1,0 +1,11 @@
+config/schema/
+less/
+src/
+templates/
+.gitignore
+bsbo.info.yml
+bsbo.libraries.yml
+bsbo.theme
+composer.json
+favicon.ico
+screenshot.png

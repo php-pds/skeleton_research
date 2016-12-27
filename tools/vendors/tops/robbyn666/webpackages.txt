@@ -1,0 +1,12 @@
+.idea/
+package/
+unitTest/core/
+.DS_Store
+.htaccess
+README.MD
+composer.json
+constants.php
+getTemplateFile.php
+index.php
+init.php
+update.php

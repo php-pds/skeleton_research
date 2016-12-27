@@ -1,0 +1,4 @@
+examples/
+lib/
+LICENSE
+composer.json

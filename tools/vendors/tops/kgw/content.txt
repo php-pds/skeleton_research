@@ -1,0 +1,16 @@
+examples/Content/
+misc/
+src/Content/
+test/
+view/
+webroot/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE.txt
+README.md
+autoloader.php
+composer.json
+phpdoc.xml
+phpunit.xml
+phpunit.xml.dist

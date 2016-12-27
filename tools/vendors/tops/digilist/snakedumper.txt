@@ -1,0 +1,11 @@
+bin/
+src/
+.gitignore
+LICENSE
+README.md
+box.json
+composer.json
+composer.lock
+demo.yml
+phpunit.bootstrap.php
+phpunit.xml.dist

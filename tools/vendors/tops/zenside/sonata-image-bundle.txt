@@ -1,0 +1,7 @@
+Admin/
+DependencyInjection/
+Entity/
+Resources/
+README.md
+ZenSideSonataImageBundle.php
+composer.json

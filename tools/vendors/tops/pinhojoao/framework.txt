@@ -1,0 +1,10 @@
+assets/
+src/
+views/
+.gitignore
+.htaccess
+README.md
+composer.json
+functions.php
+index.php
+todo.txt

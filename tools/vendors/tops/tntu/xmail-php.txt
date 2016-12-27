@@ -1,0 +1,6 @@
+.gitignore
+LICENSE
+README.md
+Xmail.php
+XmailHandler.php
+composer.json

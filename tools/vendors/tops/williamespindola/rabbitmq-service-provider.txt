@@ -1,0 +1,7 @@
+src/fiunchinho/Silex/
+tests/fiunchinho/Tests/Silex/Provider/
+.gitignore
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

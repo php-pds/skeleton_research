@@ -1,0 +1,6 @@
+DependencyInjection/
+Resources/config/
+JGISwedishDatesBundle.php
+LICENSE
+README.md
+composer.json

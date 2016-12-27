@@ -1,0 +1,12 @@
+Block/
+Controller/
+Model/
+Observer/
+Setup/
+Ui/Component/
+etc/
+view/
+LICENSE.txt
+README.md
+composer.json
+registration.php

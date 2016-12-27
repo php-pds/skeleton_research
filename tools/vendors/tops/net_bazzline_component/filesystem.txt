@@ -1,0 +1,12 @@
+examples/example/
+source/Net/Bazzline/Component/Filesystem/
+tests/
+.coveralls.yml
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist
+todo

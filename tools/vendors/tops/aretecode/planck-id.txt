@@ -1,0 +1,13 @@
+bin/
+examples/
+src/
+tests/
+.gitattributes
+.gitignore
+.travis.yml
+README.md
+TODO.md
+changelog.md
+composer.json
+phpunit.hhvm.xml
+phpunit.xml.dist

@@ -1,0 +1,8 @@
+bin/
+src/Uly/
+testes/
+.gitignore
+README.md
+composer.json
+index.php
+phpunit.xml

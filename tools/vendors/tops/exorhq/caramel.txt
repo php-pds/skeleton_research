@@ -1,0 +1,6 @@
+Caramel/
+.gitignore
+Caramel.php
+LICENSE
+README
+composer.json

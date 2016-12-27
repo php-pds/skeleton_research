@@ -1,0 +1,7 @@
+.gitignore
+LICENSE
+PiwikTracker.php
+README.md
+composer.json
+config.inc.php.dist
+piwik_tracking_api.php

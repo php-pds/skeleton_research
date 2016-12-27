@@ -1,0 +1,5 @@
+documentation/
+lib/NetGalley/API/
+README.md
+composer.json
+example.php

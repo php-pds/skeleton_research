@@ -1,0 +1,5 @@
+Classes/Mw/SymlinkPublishing/
+Configuration/
+LICENSE
+README.md
+composer.json

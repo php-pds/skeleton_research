@@ -1,0 +1,7 @@
+spec/Utility/
+src/Utility/
+.gitignore
+README.md
+composer.json
+composer.lock
+phpspec.yml

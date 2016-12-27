@@ -1,0 +1,5 @@
+.gitignore
+AerospikeSessionHandler.php
+LICENSE
+README.md
+composer.json

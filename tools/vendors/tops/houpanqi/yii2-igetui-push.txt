@@ -1,0 +1,11 @@
+API文档/
+exception/
+igetui/
+protobuf/
+.gitignore
+DictionaryAlertMsg.php
+IGeTui.php
+IGtBatch.php
+Push.php
+README.md
+composer.json

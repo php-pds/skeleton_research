@@ -1,0 +1,9 @@
+DependencyInjection/
+Form/Type/
+Plugin/
+Resources/
+.gitignore
+README.md
+SescandellPaymentBitpayBundle.php
+composer.json
+composer.lock

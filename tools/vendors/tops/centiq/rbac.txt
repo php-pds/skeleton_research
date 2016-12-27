@@ -1,0 +1,11 @@
+docs/
+gh-pages/
+sql/
+src/centiq/rbac/
+tests/Centiq/RBAC/
+.gitignore
+.travis.yml
+README.md
+composer.json
+phpdoc.xml
+phpunit.xml

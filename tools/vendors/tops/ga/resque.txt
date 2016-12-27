@@ -1,0 +1,5 @@
+.gitignore
+GAResque.php
+README.md
+ResqueController.txt
+composer.json

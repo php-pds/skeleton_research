@@ -1,0 +1,13 @@
+config/
+samples/
+src/
+templates/
+tests/
+.DS_Store
+CHANGELOG.md
+LICENSE
+LICENSE 2
+README 2.md
+README.md
+composer.json
+phpunit.xml.dist

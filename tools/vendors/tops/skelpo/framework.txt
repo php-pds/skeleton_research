@@ -1,0 +1,8 @@
+Skelpo/Framework/
+.gitignore
+.project
+.travis.yml
+CHANGELOG-1.2.md
+README.md
+composer.json
+composer.lock

@@ -1,0 +1,6 @@
+examples/
+src/Mibou/Monolog/
+.gitignore
+LICENSE
+README.md
+composer.json

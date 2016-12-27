@@ -1,0 +1,10 @@
+Api/
+Data/
+DependencyInjection/
+Resources/
+Responses/
+Subscriber/
+OptiLolApiBundle.php
+README.md
+composer.json
+composer.lock

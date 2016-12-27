@@ -1,0 +1,15 @@
+config/
+src/SystemMonitor/
+tests/SystemMonitor/
+.editorconfig
+.gitattributes
+.gitignore
+.php_cs
+.scrutinizer.yml
+.styleci.yml
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml

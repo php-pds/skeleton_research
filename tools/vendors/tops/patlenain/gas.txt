@@ -1,0 +1,13 @@
+.settings/
+app/
+debian/
+src/
+web/
+.buildpath
+.gitignore
+.project
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock

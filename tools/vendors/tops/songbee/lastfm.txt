@@ -1,0 +1,4 @@
+src/LastfmPhp/
+LICENSE
+README.md
+composer.json

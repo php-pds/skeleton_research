@@ -1,0 +1,7 @@
+tests/
+.travis.yml
+README.mdown
+composer.json
+fFixture.php
+fFixtureSeed.php
+phpunit.xml

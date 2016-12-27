@@ -1,0 +1,13 @@
+app/Resources/config/
+bin/
+src/
+test/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+box.json
+composer.json
+composer.lock

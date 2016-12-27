@@ -1,0 +1,11 @@
+DependencyInjection/
+Permalink/
+Resources/
+Twig/
+.gitignore
+LICENSE
+PathNavigationGenerator.php
+PathNavigationProvider.php
+README.md
+TnPathNavigationBundle.php
+composer.json

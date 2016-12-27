@@ -1,0 +1,17 @@
+bin/
+config/
+logs/
+plugins/BootstrapTheme/
+src/
+tests/
+tmp/
+webroot/
+.gitattributes
+.gitignore
+.htaccess
+.travis.yml
+README.md
+composer.json
+composer.lock
+index.php
+phpunit.xml.dist

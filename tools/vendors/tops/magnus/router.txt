@@ -1,0 +1,7 @@
+Magnus/Router/Object/
+examples/simpleWeb/
+.gitattributes
+.gitignore
+LICENSE.txt
+README.md
+composer.json

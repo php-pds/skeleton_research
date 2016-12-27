@@ -1,0 +1,12 @@
+Tests/
+files/dot/
+puppet/
+shell/
+CallbackFilterIterator.php
+LICENSE
+MapIterator.php
+README.md
+Vagrantfile
+composer.json
+hiera.yaml
+phpunit.xml.dist

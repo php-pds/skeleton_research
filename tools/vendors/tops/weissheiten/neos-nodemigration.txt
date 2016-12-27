@@ -1,0 +1,7 @@
+Classes/Weissheiten/Neos/NodeMigration/Migration/Filters/
+Documentation/
+Tests/Unit/Migration/Filters/
+.gitignore
+README.md
+composer.json
+license.txt

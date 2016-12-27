@@ -1,0 +1,9 @@
+doc/
+example/
+lib/
+tests/phprs/
+.travis.yml
+LICENSE
+README.CN.md
+README.md
+composer.json

@@ -1,0 +1,5 @@
+NonoDigito/Validator/
+Tests/Unit/
+.gitignore
+README.md
+composer.json

@@ -1,0 +1,12 @@
+bin/
+lib/
+tests/
+.gitignore
+.travis.yml
+CONTRIBUTING.md
+LICENSE
+README.md
+box.json
+composer.json
+release.php
+tests.xml

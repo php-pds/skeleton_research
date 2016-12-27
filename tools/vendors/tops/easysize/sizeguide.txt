@@ -1,0 +1,6 @@
+app/
+skin/frontend/base/default/easysize/css/
+composer.json
+modman
+package.xml
+readme.md

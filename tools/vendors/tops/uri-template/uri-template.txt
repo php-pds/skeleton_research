@@ -1,0 +1,6 @@
+src/UriTemplate/
+test/
+LICENSE
+README.md
+composer.json
+phpunit.xml

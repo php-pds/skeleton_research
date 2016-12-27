@@ -1,0 +1,8 @@
+bin/
+config/
+.gitignore
+CHANGELOG.md
+LICENSE
+README.md
+composer.json
+docker-compose.yml

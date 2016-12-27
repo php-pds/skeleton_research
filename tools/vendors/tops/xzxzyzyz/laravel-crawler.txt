@@ -1,0 +1,7 @@
+src/Crawl/
+tests/
+vendor/
+.gitignore
+README.md
+composer.json
+phpunit.xml

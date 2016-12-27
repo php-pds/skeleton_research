@@ -1,0 +1,5 @@
+lib/Negotiator/
+LICENSE
+README.md
+composer.json
+negotiator.php

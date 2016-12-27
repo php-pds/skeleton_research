@@ -1,0 +1,7 @@
+app/
+js/untitled/appliedpatches/
+LICENSE
+README.md
+composer.json
+modman
+patches.png

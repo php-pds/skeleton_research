@@ -1,0 +1,9 @@
+Annotation/
+Classes/
+Command/
+DependencyInjection/
+Resources/config/
+Service/
+Subscriber/
+VershSphinxBundle.php
+composer.json

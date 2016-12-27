@@ -1,0 +1,5 @@
+src/Snowsoft/FormCreator/
+.gitattributes
+.gitignore
+README.md
+composer.json

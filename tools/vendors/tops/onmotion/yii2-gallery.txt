@@ -1,0 +1,14 @@
+assets/
+controllers/
+migrations/
+models/
+samples/
+views/default/
+.gitignore
+Gallery.php
+GalleryAsset.php
+LICENSE
+Module.php
+OnmotionAsset.php
+README.md
+composer.json

@@ -1,0 +1,10 @@
+diacritics/
+lang/
+lang_unformatted/
+ParseHTML.php
+ParseText.php
+PhpTypography.php
+README.md
+change_log-php.txt
+change_log_parser.txt
+composer.json

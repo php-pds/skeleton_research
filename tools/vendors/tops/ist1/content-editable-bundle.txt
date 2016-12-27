@@ -1,0 +1,12 @@
+Controller/
+DependencyInjection/
+Exception/
+Resources/
+Service/
+Tests/
+Twig/
+.gitignore
+Ist1ContentEditableBundle.php
+README.md
+composer.json
+phpunit.xml.dist

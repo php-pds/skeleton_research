@@ -1,0 +1,7 @@
+Bridge/
+.gitignore
+Configuration.php
+README.md
+Wrapper.php
+composer.json
+composer.lock

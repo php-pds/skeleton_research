@@ -1,0 +1,16 @@
+Compatibility/
+Source/
+Tests/
+TestsMySQL/
+TestsSQLite/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+boot-mysql.php
+boot-sqlite.php
+boot.php
+composer.json
+include.php
+phpunit.xml

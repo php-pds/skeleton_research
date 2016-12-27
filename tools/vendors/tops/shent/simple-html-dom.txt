@@ -1,0 +1,7 @@
+example/
+manual/
+src/
+testcase/reader/
+LICENSE
+README.md
+composer.json

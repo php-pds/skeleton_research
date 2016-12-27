@@ -1,0 +1,9 @@
+doc/
+src/PhpJsonRpc/
+tests/PhpJsonRpc/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

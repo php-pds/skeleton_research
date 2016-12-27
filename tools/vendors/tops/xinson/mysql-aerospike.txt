@@ -1,0 +1,5 @@
+src/MysqlAerospike/
+_aerospike_ide_helper.php
+composer.json
+demo.php
+readme.md

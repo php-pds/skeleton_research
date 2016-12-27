@@ -1,0 +1,15 @@
+logs/
+resources/views/
+src/
+tests/
+.editorconfig
+.gitignore
+.travis.yml
+LICENSE.txt
+changes.md
+codeception.yml
+composer.json
+composer.lock
+contributing.md
+phpcbf.phar
+readme.md

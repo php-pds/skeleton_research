@@ -1,0 +1,5 @@
+ClamdBase.php
+ClamdNetwork.php
+ClamdPipe.php
+README.md
+composer.json

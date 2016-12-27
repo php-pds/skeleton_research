@@ -1,0 +1,8 @@
+src/
+tests/src/
+.gitignore
+ChangeLog.txt
+LICENSE
+README.md
+composer.json
+settings.ini

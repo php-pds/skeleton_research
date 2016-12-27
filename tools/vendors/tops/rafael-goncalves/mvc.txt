@@ -1,0 +1,5 @@
+src/PhpModerno/Mvc/
+views/
+.gitignore
+bootstrap.php
+composer.json

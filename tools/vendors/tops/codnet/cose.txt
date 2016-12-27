@@ -1,0 +1,8 @@
+.settings/
+src/main/php/Cose/
+.buildpath
+.project
+LICENSE
+README.md
+composer.json
+composer.lock

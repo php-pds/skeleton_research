@@ -1,0 +1,10 @@
+Wkop/
+tests/
+.gitignore
+Changelog.md
+README.md
+build.xml
+composer.json
+composer.lock
+debug
+phpunit.xml.dist

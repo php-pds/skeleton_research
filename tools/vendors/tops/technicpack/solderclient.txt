@@ -1,0 +1,5 @@
+src/TechnicPack/SolderClient/
+.gitignore
+LICENSE
+README.md
+composer.json

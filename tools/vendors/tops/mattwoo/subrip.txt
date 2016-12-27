@@ -1,0 +1,7 @@
+examples/
+src/Subrip/
+tests/Subrip/
+.gitignore
+composer.json
+phpunit.xml.dist
+readme.md

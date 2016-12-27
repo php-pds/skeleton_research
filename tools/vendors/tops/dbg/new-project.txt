@@ -1,0 +1,9 @@
+assets/
+public/
+.gitignore
+LICENSE
+bower.json
+composer.json
+elixir.json
+gulpfile.js
+package.json

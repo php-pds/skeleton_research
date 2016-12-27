@@ -1,0 +1,4 @@
+lib/ZendR/
+LICENSE
+README.md
+composer.json

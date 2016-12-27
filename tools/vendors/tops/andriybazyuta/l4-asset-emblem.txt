@@ -1,0 +1,8 @@
+assets/
+src/Andriybazyuta/L4AssetEmblemjs/
+tests/
+.DS_Store
+LICENSE
+README.md
+composer.json
+phpunit.xml

@@ -1,0 +1,9 @@
+docs/puppet/
+src/PayU/
+tests/
+.gitignore
+.travis.yml
+Makefile
+README.md
+Vagrantfile
+composer.json

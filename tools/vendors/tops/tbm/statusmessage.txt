@@ -1,0 +1,10 @@
+src/StatusMessage/
+test/
+webroot/test/
+.gitattributes
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE.txt
+README.md
+composer.json

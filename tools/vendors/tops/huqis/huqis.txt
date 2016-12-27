@@ -1,0 +1,6 @@
+manual/
+src/huqis/
+test/src/huqis/
+README.md
+TODO.md
+composer.json

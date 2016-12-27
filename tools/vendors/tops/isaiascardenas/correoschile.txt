@@ -1,0 +1,8 @@
+example/
+screenshots/
+src/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock

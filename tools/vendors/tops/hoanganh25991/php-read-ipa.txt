@@ -1,0 +1,5 @@
+lib/Redoc/
+test/
+.gitignore
+composer.json
+readme.md

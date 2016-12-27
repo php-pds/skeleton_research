@@ -1,0 +1,15 @@
+build/
+config/
+data/
+docs/
+public/js/
+src/BatchManager/
+tests/
+view/batch-manager/batch/
+.scrutinizer.yml
+.travis.yml
+LICENSE.md
+Module.php
+README.md
+composer.json
+phpunit.xml.dist

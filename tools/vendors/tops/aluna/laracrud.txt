@@ -1,0 +1,4 @@
+src/LaraCrud/
+.gitignore
+README.md
+composer.json

@@ -1,0 +1,7 @@
+src/Lootils/Geo/
+test/Tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json

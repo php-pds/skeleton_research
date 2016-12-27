@@ -1,0 +1,6 @@
+mu-plugins/
+root/
+LICENSE
+README.md
+composer.json
+installer.sh

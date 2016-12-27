@@ -1,0 +1,11 @@
+Controller/
+Core/
+DependencyInjection/
+Resources/
+Tests/Controller/
+Twig/
+.gitignore
+LFXPaginatorBundle.php
+README.md
+composer.json
+testeo.xlsx

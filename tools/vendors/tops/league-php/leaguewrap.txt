@@ -1,0 +1,13 @@
+src/LeagueWrap/
+tests/
+.editorconfig
+.gitignore
+.php_cs
+.travis.yml
+CONTRIBUTING.md
+LICENSE.md
+README.md
+composer.json
+composer.lock
+phpunit.php
+phpunit.xml

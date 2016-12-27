@@ -1,0 +1,10 @@
+src/mergadoclient/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock
+composer.phar
+phpunit.xml
+test.sh

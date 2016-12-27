@@ -1,0 +1,6 @@
+.idea/
+lib/
+test/
+vendor/
+README.md
+composer.json

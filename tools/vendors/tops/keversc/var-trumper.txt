@@ -1,0 +1,4 @@
+Resources/functions/
+.gitignore
+README.md
+composer.json

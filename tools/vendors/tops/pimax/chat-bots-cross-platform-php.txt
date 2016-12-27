@@ -1,0 +1,8 @@
+.idea/
+Clients/
+Messages/
+Profile/
+.gitignore
+BotApplication.php
+README.md
+composer.json

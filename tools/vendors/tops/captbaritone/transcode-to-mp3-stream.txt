@@ -1,0 +1,10 @@
+src/Captbaritone/TranscodeToMp3Stream/
+tests/
+.gitignore
+.travis.yml
+README.md
+composer.json
+composer.lock
+example.flac
+example.php
+phpunit.xml

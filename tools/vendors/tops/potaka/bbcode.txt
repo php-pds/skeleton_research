@@ -1,0 +1,7 @@
+src/Potaka/BbCode/
+tests/phpUnit/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json

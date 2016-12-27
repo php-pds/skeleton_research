@@ -1,0 +1,12 @@
+Controller/
+DependencyInjection/
+Resources/
+Src/
+Tests/
+.gitignore
+.travis.yml
+ATL15GoogleAnalyticsBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

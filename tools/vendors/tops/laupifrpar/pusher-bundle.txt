@@ -1,0 +1,12 @@
+Authenticator/
+Controller/
+DependencyInjection/
+Resources/config/
+Tests/
+.gitignore
+.travis.yml
+LICENSE
+LopiPusherBundle.php
+README.md
+composer.json
+phpunit.xml

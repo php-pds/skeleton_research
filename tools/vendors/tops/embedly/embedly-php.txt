@@ -1,0 +1,8 @@
+examples/
+features/
+src/Embedly/
+.gitignore
+MIT-LICENSE
+README.rst
+composer.json
+package.xml

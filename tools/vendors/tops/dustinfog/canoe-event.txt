@@ -1,0 +1,6 @@
+.idea/
+src/Canoe/
+tests/Canoe/Event/
+.gitignore
+README.md
+composer.json

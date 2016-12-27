@@ -1,0 +1,12 @@
+docs/
+spec/
+src/
+.codeclimate.yml
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENSE.md
+README.md
+apigen.neon
+composer.json
+phpspec.yml

@@ -1,0 +1,7 @@
+src/Verraes/MagicTree/
+tests/Verraes/MagicTree/Tests/
+.gitignore
+.travis.yml
+LICENSE
+README.markdown
+composer.json

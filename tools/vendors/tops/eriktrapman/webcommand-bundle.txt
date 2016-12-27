@@ -1,0 +1,12 @@
+Command/
+DataTransformer/
+DependencyInjection/
+Event/
+EventListener/
+Form/
+Output/
+Resources/
+.gitignore
+ErikTrapmanWebCommandBundle.php
+README.md
+composer.json

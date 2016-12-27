@@ -1,0 +1,16 @@
+assets/
+css/
+email-templates/
+js/
+languages/
+vendor/
+views/
+LICENSE.txt
+README.txt
+class-ps-forms-admin.php
+class-ps-forms-table.php
+class-ps-forms.php
+composer.json
+index.php
+ps-forms.php
+uninstall.php

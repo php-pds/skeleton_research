@@ -1,0 +1,6 @@
+src/Celery/
+tests/
+.gitignore
+Makefile
+README.md
+composer.json

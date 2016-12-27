@@ -1,0 +1,9 @@
+.gitignore
+DigestAuth.php
+DigestHelper.php
+DigestRequest.php
+DigestResponse.php
+DigestRoute.php
+README.md
+composer.json
+composer.lock

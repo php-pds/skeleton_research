@@ -1,0 +1,13 @@
+build/
+src/
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CHANGELOG.md
+CONTRIBUTING.md
+INSTALL.md
+LICENSE
+README.md
+build.xml
+composer.json

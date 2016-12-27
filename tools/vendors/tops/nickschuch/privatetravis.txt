@@ -1,0 +1,15 @@
+bin/
+docs/
+packer/
+src/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+Vagrantfile
+box.json.dist
+build.xml
+composer.json
+composer.lock
+phpunit.xml.dist

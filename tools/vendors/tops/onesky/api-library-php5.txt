@@ -1,0 +1,9 @@
+src/Onesky/Api/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CHANGELOG
+LICENSE.txt
+README.md
+composer.json
+phpunit.xml.dist

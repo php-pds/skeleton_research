@@ -1,0 +1,6 @@
+Authentification/
+Connector/
+Exception/
+Query/
+README.md
+composer.json

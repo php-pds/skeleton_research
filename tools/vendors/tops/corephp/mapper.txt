@@ -1,0 +1,10 @@
+Core/
+Exceptions/
+Installer/
+Libraries/
+Models/
+.gitignore
+CHANGELOG.md
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,7 @@
+docs/
+spec/Tuurbo/Spreedly/
+src/
+.gitignore
+LICENSE
+composer.json
+readme.md

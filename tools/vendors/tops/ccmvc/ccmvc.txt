@@ -1,0 +1,13 @@
+libs/
+nbproject/
+src/
+.gitignore
+COPYRIGHT
+COPYRIGHT.LESSER
+CcMvc.php
+CcWS.php
+LICENSE
+LICENSE_EN
+README.md
+composer.json
+docHtml.bat

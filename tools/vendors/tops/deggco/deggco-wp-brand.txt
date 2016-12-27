@@ -1,0 +1,5 @@
+assets/
+README.md
+composer.json
+config.rb
+deggco-wp-brand.php

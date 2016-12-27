@@ -1,0 +1,6 @@
+src/ifresco/Service/
+tests/
+vendor/
+LICENSE
+README.md
+composer.json

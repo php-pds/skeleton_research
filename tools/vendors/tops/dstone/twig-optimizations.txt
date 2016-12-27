@@ -1,0 +1,8 @@
+lib/Twig/Optimizations/
+test/Twig/Tests/NodeVisitor/
+.gitignore
+LICENSE
+README.md
+composer.json
+phpunit.phar
+phpunit.xml.dist

@@ -1,0 +1,7 @@
+demo/
+misc/
+src/IBank/
+.gitignore
+CNAME
+README.md
+composer.json

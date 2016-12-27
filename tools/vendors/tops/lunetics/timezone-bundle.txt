@@ -1,0 +1,15 @@
+DependencyInjection/
+Event/
+EventListener/
+Exception/
+Resources/
+Tests/
+TimezoneGuesser/
+TimezoneProvider/
+Validator/
+.travis.yml
+LuneticsTimezoneBundle.php
+README.markdown
+TimezoneBundleEvents.php
+composer.json
+phpunit.xml.dist

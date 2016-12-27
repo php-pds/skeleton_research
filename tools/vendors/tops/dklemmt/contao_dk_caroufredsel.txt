@@ -1,0 +1,4 @@
+system/modules/dk_caroufredsel/
+.gitignore
+README.md
+composer.json

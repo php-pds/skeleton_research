@@ -1,0 +1,11 @@
+hooks/
+src/Currency/
+tests/
+.codeclimate.yml
+.gitignore
+CHANGELOG.md
+LICENSE
+README.md
+composer.json
+kahlan-config.php
+phpcs.xml

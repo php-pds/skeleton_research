@@ -1,0 +1,9 @@
+assets/
+data/
+database/migrations/
+src/
+views/
+.gitignore
+README.md
+composer.json
+documentation.md

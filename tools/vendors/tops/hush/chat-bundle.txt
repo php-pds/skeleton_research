@@ -1,0 +1,9 @@
+Controller/
+DependencyInjection/
+Entity/
+Resources/config/
+Service/
+.gitignore
+ChatBundle.php
+README.md
+composer.json

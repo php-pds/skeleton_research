@@ -1,0 +1,12 @@
+_config/
+code/extensions/
+css/
+javascript/
+.editorconfig
+.gitattributes
+.gitignore
+.scrutinizer.yml
+README.md
+code-of-conduct.md
+composer.json
+package.json

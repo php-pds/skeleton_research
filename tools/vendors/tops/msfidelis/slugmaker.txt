@@ -1,0 +1,3 @@
+core/
+LICENSE
+composer.json

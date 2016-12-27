@@ -1,0 +1,9 @@
+Classes/
+Configuration/PhpCodeSniffer/Standards/
+Tests/Unit/
+.gitignore
+.travis.yml
+CHANGELOG.TXT
+LICENSE
+README.md
+composer.json

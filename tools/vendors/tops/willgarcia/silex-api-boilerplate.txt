@@ -1,0 +1,17 @@
+app/
+logs/
+src/Api/
+tests/
+web/
+.atoum.php
+.gitignore
+.php_cs
+.phpmd.xml
+.travis.yml
+Gruntfile.js
+LICENSE
+README.md
+behat.yml
+composer.json
+composer.lock
+package.json

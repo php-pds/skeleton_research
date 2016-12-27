@@ -1,0 +1,10 @@
+lib/danog/PHP/
+tests/danog/PHP/
+.gitignore
+.styleci.yml
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+example.php

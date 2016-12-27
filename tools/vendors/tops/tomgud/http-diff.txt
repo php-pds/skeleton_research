@@ -1,0 +1,6 @@
+examples/
+src/TomGud/
+.gitignore
+README.md
+composer.json
+http-diff

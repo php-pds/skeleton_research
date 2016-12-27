@@ -1,0 +1,14 @@
+Controller/
+DependencyInjection/
+Resources/
+Services/PdfExterno3/
+Tests/Controller/
+data/
+report/
+.gitignore
+DesignBundle.php
+LICENSE
+README.md
+comoEmpezar.pdf
+composer.json
+prueba.sql

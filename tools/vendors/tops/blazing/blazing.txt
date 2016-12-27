@@ -1,0 +1,11 @@
+ajax/
+application/
+assets/
+.htaccess
+LICENSE
+README.md
+changes.md
+composer.json
+index.php
+sahayak.php
+versions.md

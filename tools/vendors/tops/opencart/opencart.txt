@@ -1,0 +1,12 @@
+tests/
+upload/
+.gitattributes
+.gitignore
+CHANGELOG_AUTO.md
+README.md
+build.xml
+changelog.md
+composer.json
+install.txt
+license.txt
+upgrade.txt

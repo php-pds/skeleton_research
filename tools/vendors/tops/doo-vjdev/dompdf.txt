@@ -1,0 +1,15 @@
+include/
+lib/
+www/
+LICENSE
+LICENSE.LGPL
+README.md
+changelog.txt
+composer.json
+docblox.dist.xml
+dompdf.php
+dompdf_config.custom.inc.php
+dompdf_config.inc.php
+index.php
+load_font.php
+readme.html

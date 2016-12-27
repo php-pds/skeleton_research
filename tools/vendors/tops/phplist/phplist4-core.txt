@@ -1,0 +1,12 @@
+core/
+vendor/
+.gitignore
+CONTRIBUTING.md
+README.md
+composer.json
+config.ini.dist
+grumphp.yml
+index.php
+phplist db.mwb
+phpunit.example.xml
+structure.md

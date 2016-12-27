@@ -1,0 +1,4 @@
+src/checkmobi/
+.gitignore
+README.md
+composer.json

@@ -1,0 +1,8 @@
+.idea/
+.gitignore
+Bencode.php
+BencodeTest.php
+LICENSE
+README.md
+composer.json
+composer.lock

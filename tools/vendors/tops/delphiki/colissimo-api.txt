@@ -1,0 +1,3 @@
+src/Colissimo/
+README.markdown
+composer.json

@@ -1,0 +1,10 @@
+DependencyInjection/
+Extension/Twig/
+Resources/config/
+Tests/
+.gitignore
+OpenSkuolaSeoBundle.php
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

@@ -1,0 +1,6 @@
+lib/Everyman/Plumber/
+tests/
+.travis.yml
+LICENSE
+README.md
+composer.json

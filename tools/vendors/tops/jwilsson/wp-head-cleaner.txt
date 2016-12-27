@@ -1,0 +1,8 @@
+languages/
+.gitattributes
+.gitignore
+LICENSE
+composer.json
+readme.txt
+uninstall.php
+wp-head-cleaner.php

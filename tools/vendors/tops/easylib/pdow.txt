@@ -1,0 +1,5 @@
+Easy/PDOW/
+Changelog
+Changelog.TXT
+Readme
+composer.json

@@ -1,0 +1,11 @@
+DependencyInjection/
+Helpers/
+Resources/
+Tests/
+Twig/Extension/
+.gitignore
+.travis.yml
+NomayaSocialBundle.php
+README.md
+composer.json
+phpunit.xml.dist

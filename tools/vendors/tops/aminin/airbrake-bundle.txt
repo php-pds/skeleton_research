@@ -1,0 +1,10 @@
+DependencyInjection/
+EventListener/
+Resources/
+Tests/DependencyInjection/
+.gitignore
+.travis.yml
+AmiAirbrakeBundle.php
+README.md
+composer.json
+phpunit.xml.dist

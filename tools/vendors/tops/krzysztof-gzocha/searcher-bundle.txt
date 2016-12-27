@@ -1,0 +1,9 @@
+src/KGzocha/Bundle/SearcherBundle/
+tests/KGzocha/Bundle/SearcherBundle/Test/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+README.md
+composer.json
+humbug.json.dist
+phpunit.xml.dist

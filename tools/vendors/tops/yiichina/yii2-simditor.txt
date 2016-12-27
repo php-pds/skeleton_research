@@ -1,0 +1,4 @@
+README.md
+Simditor.php
+SimditorAsset.php
+composer.json

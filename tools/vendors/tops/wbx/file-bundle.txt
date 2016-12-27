@@ -1,0 +1,8 @@
+Controller/
+Entity/
+Form/
+Resources/
+.gitignore
+README
+composer.json
+wbxFileBundle.php

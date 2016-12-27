@@ -1,0 +1,10 @@
+examples/
+src/
+test/
+.gitattributes
+.gitignore
+LICENSE
+NOTICE
+README
+README.md
+composer.json

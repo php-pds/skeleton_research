@@ -1,0 +1,17 @@
+assets/
+components/
+controllers/
+extends/
+gii/generators/
+helpers/
+messages/
+migrations/
+models/
+resources/assets/
+views/
+widgets/
+Application.php
+Bootstrap.php
+Module.php
+README.md
+composer.json

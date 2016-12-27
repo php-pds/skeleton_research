@@ -1,0 +1,17 @@
+Command/
+Controller/
+DependencyInjection/
+Doctrine/Mysql/
+HttpKernel/
+Initialization/
+Resources/
+Tests/
+.gitignore
+.rmt.yml
+.scrutinizer.yml
+.travis.yml
+FlubBigBangBundle.php
+README.md
+RMT
+composer.json
+phpunit.xml.dist

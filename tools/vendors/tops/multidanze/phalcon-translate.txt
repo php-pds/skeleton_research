@@ -1,0 +1,7 @@
+.idea/
+src/Translate/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.phar

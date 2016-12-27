@@ -1,0 +1,13 @@
+config/
+src/ZF2EntityAudit/
+tests/
+view/zf2-entity-audit/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE.md
+Module.php
+README.md
+composer.json
+coverage-checker.php
+phpunit.xml

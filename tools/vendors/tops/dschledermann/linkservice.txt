@@ -1,0 +1,14 @@
+Classes/
+Documentation/
+Lang/
+mod/
+.gitignore
+class.ext_update.php
+composer.json
+ext_conf_template.txt
+ext_emconf.php
+ext_icon.gif
+ext_icon.xcf
+ext_localconf.php
+ext_tables.php
+ext_tables.sql

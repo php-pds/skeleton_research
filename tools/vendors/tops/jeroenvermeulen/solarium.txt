@@ -1,0 +1,10 @@
+app/
+js/solarium/
+lib/
+skin/
+var/connect/
+.gitignore
+LICENSE.txt
+README.md
+composer.json
+modman

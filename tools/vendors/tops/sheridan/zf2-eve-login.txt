@@ -1,0 +1,8 @@
+config/
+src/zf2EveLogin/
+view/zf2-eve-login/index/
+.gitattributes
+.gitignore
+Module.php
+README.md
+composer.json

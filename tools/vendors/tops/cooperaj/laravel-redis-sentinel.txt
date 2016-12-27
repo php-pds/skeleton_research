@@ -1,0 +1,4 @@
+src/RedisSentinel/Laravel/
+.gitignore
+README.md
+composer.json

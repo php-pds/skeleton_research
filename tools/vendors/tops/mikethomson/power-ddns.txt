@@ -1,0 +1,6 @@
+resources/
+spec/PowerDDNS/
+src/PowerDDNS/
+.gitignore
+README.md
+composer.json

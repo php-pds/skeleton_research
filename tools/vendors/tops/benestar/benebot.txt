@@ -1,0 +1,6 @@
+src/
+.gitignore
+LICENSE
+README.md
+addwiki.php
+composer.json

@@ -1,0 +1,5 @@
+config/
+src/LimocartModule/
+.gitignore
+README
+composer.json

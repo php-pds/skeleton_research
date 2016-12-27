@@ -1,0 +1,13 @@
+Config/
+Controller/
+DependencyInjection/
+Resources/
+Tests/
+Translation/
+vendor/
+.gitignore
+.travis.yml
+LidaaTransBundle.php
+README.md
+composer.json
+phpunit.xml.dist

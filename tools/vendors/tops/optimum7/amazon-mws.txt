@@ -1,0 +1,6 @@
+Mock/
+Samples/
+src/MarketplaceWebService/
+.gitignore
+README.md
+composer.json

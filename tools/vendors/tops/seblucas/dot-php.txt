@@ -1,0 +1,5 @@
+.hgtags
+LICENSE
+README.md
+composer.json
+doT.php

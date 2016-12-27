@@ -1,0 +1,14 @@
+vendor/
+20150403sqlDocument.txt
+Index.txt
+MySQL_5.5Chinese.pdf
+SQLOptimize.txt
+columnManage.txt
+composer.json
+engine.txt
+mysql.txt
+mysqlOptimize.txt
+mysqldump.txt
+privileges.txt
+prodecure.txt
+triggers

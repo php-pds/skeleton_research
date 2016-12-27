@@ -1,0 +1,9 @@
+Docs/
+encryption/
+tests/
+.gitignore
+CONTRIBUTE.md
+LICENSE
+README.md
+composer.json
+phpunit.xml

@@ -1,0 +1,8 @@
+src/
+test/
+.gitignore
+.phpmd.xml
+LICENSE
+README.md
+circle.yml
+composer.json

@@ -1,0 +1,4 @@
+.gitignore
+README.md
+TumblrStrategy.php
+composer.json

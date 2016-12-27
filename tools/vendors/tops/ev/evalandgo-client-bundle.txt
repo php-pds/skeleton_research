@@ -1,0 +1,7 @@
+DependencyInjection/
+OAuth2/Storage/
+Resources/config/
+EVEvalandgoClientBundle.php
+LICENCE
+README.md
+composer.json

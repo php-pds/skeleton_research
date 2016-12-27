@@ -1,0 +1,6 @@
+DependencyInjection/
+Resources/
+ThemeSelector/
+DjaneyThemingBundle.php
+composer.json
+readme.md

@@ -1,0 +1,12 @@
+public/
+tests/ui/
+.env.example
+.gitignore
+Homestead.yaml
+README.md
+Vagrantfile
+composer.json
+composer.lock
+deploy.php
+phpunit.xml
+wp-cli.yml

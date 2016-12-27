@@ -1,0 +1,12 @@
+assets/
+migrations/
+views/
+ImageModel.php
+ImageWidget.php
+ImageWidgetAsset.php
+ImageWidgetControllerInterface.php
+ImageWidgetControllerTrait.php
+LICENSE
+README.md
+UploadingImageException.php
+composer.json

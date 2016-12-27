@@ -1,0 +1,6 @@
+Docs/
+Example/
+src/mills/panoramio/
+LICENCE
+README
+composer.json

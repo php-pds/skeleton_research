@@ -1,0 +1,7 @@
+assets/css/
+sass/
+.gitignore
+README.md
+bower.json
+gulpfile.js
+package.json

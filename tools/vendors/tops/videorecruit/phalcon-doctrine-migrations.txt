@@ -1,0 +1,5 @@
+src/Phalcon/Doctrine/Migrations/
+.gitignore
+LICENSE
+README.md
+composer.json

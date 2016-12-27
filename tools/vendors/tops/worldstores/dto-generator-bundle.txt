@@ -1,0 +1,10 @@
+Command/
+Exception/
+Generator/
+Resources/skeleton/
+Tests/
+.gitignore
+README.md
+WsSysDtoGeneratorBundle.php
+composer.json
+composer.lock

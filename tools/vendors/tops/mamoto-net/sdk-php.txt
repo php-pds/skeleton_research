@@ -1,0 +1,6 @@
+config/
+src/Mamoto/
+.gitignore
+LICENSE
+README.md
+composer.json

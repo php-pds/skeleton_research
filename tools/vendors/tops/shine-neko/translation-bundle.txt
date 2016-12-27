@@ -1,0 +1,7 @@
+DependencyInjection/
+EventListener/
+Resources/config/
+.gitignore
+AbstractTranslationBundle.php
+SyliusTranslationBundle.php
+composer.json

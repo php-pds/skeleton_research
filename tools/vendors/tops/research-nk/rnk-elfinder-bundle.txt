@@ -1,0 +1,10 @@
+Controller/
+DependencyInjection/
+Exception/
+Resources/
+Service/
+elFinder/
+.travis.yml
+README.md
+RNKElFinderBundle.php
+composer.json

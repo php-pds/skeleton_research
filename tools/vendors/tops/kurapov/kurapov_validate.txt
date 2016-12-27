@@ -1,0 +1,7 @@
+Doc/
+Masks/
+Validator/
+.gitignore
+composer.json
+composer.lock
+perfomance.csv

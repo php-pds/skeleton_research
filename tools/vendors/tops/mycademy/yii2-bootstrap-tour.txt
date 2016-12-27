@@ -1,0 +1,7 @@
+.gitignore
+BootstrapTourPluginAsset.php
+LICENSE
+README.md
+Tour.php
+composer.json
+composer.lock

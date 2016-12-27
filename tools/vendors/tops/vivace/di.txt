@@ -1,0 +1,14 @@
+docker/codecept/
+src/
+tests/
+.gitignore
+CHANGELOG.md
+Dockerfile
+README.md
+build.cmd
+codecept.cmd
+codeception.yml
+composer.bat
+composer.json
+composer.lock
+docker-compose.yml

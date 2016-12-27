@@ -1,0 +1,13 @@
+defaultPathForData/
+demo/
+demoUsing_divTOjstree/
+src/
+tests/
+.editorconfig
+.gitignore
+CHANGELOG.md
+CONTRIBUTING.md
+LICENSE.md
+README.md
+composer.json
+phpunit.xml.dist

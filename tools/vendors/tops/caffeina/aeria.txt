@@ -1,0 +1,15 @@
+classes/
+lib/
+plugins/
+resources/
+scripts/
+tests/
+vendor/Predis/
+.gitignore
+LICENSE
+README.md
+aeria.php
+composer.json
+deploy.sh
+metadata.json
+readme.txt

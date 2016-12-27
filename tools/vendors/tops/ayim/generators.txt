@@ -1,0 +1,9 @@
+config/
+dummies/
+src/
+.gitignore
+.travis.yaml
+README.md
+composer.json
+composer.lock
+phpspec.yml

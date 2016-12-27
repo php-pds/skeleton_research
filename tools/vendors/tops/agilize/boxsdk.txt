@@ -1,0 +1,4 @@
+src/Agilize/
+.gitignore
+README.md
+composer.json

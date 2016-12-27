@@ -1,0 +1,6 @@
+src/
+.editorconfig
+.gitignore
+README.md
+circle.yml
+composer.json

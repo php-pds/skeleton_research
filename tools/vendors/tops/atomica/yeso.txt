@@ -1,0 +1,11 @@
+.idea/
+.phpspec/
+Atomica/Yeso/
+stubs/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock
+phpspec-cov.yml
+phpspec.yml

@@ -1,0 +1,9 @@
+Classes/
+Configuration/TypoScript/
+Documentation/
+Resources/
+composer.json
+ext_emconf.php
+ext_icon.gif
+ext_typoscript_constants.txt
+ext_typoscript_setup.txt

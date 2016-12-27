@@ -1,0 +1,5 @@
+src/PSWinCom/
+.gitignore
+LICENSE
+README.md
+composer.json

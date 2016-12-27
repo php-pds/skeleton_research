@@ -1,0 +1,14 @@
+Adapter/
+Exception/
+Model/
+Resources/
+Tests/
+Util/
+.editorconfig
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

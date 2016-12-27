@@ -1,0 +1,7 @@
+classes/
+includes/
+templates/
+README.md
+SocialLogin.module
+composer.json
+composer.lock

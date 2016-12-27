@@ -1,0 +1,4 @@
+lib/CurrencyConverter/
+.gitignore
+README.md
+composer.json

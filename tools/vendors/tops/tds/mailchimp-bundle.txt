@@ -1,0 +1,6 @@
+DependencyInjection/
+Resources/config/
+LICENSE
+README.md
+TDSMailchimpBundle.php
+composer.json

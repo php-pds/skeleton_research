@@ -1,0 +1,8 @@
+DependencyInjection/
+Mailer/
+Resources/config/
+.gitignore
+CPTwigMailerBundle.php
+LICENSE
+README.md
+composer.json

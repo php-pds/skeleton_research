@@ -1,0 +1,3 @@
+config/
+src/Prx/JsonError/
+composer.json

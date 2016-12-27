@@ -1,0 +1,7 @@
+controllers/
+migrations/
+models/
+views/items/
+MigrationModule.php
+README.md
+composer.json

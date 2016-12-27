@@ -1,0 +1,9 @@
+Stream/
+Xmpp/
+tests/
+.gitignore
+LICENSE
+README
+Stream.php
+composer.json
+composer.lock

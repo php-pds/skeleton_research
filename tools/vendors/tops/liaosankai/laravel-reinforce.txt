@@ -1,0 +1,5 @@
+src/
+vendor/
+.gitattributes
+.gitignore
+composer.json

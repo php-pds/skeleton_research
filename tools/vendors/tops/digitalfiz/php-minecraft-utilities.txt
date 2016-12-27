@@ -1,0 +1,10 @@
+src/digitalfiz/phpMinecraftUtilities/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+VERSION
+bootstrap.php
+composer.json
+phpunit.xml

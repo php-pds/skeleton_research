@@ -1,0 +1,9 @@
+matura-tests/Ignizr/
+phpunit-tests/
+scripts/
+src/Ignizr/
+.gitignore
+LICENSE
+README.md
+composer.json
+phpunit.xml

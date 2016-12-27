@@ -1,0 +1,6 @@
+src/
+tests/
+README.md
+Roles Doc.txt
+composer.json
+phpunit.xml.dist

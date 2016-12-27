@@ -1,0 +1,15 @@
+app/
+bootstrap/
+public/
+up-files/
+vendor/
+.htaccess
+artisan
+composer.json
+composer.lock
+config.php
+documentation.zip
+index.php
+phpunit.xml
+readme.md
+server.php

@@ -1,0 +1,3 @@
+src/Logocomune/Debug/
+composer.json
+readme.md

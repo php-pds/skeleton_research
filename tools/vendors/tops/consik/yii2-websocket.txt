@@ -1,0 +1,5 @@
+events/
+LICENSE
+README.md
+WebSocketServer.php
+composer.json

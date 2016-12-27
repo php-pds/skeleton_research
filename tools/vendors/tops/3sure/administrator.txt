@@ -1,0 +1,11 @@
+docs/
+examples/
+public/
+src/
+tests/
+CONTRIBUTING.md
+LICENSE
+README.md
+changelog.md
+composer.json
+phpunit.xml

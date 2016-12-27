@@ -1,0 +1,7 @@
+DependencyInjection/
+Resources/
+.gitignore
+BytesDocraptorBundle.php
+README.md
+composer.json
+composer.lock

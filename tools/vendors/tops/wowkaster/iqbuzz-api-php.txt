@@ -1,0 +1,9 @@
+example/
+helpers/
+interfaces/
+queries/
+IQBuzz.php
+IQBuzzRequest.php
+IQBuzzResponse.php
+README.md
+composer.json

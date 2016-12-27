@@ -1,0 +1,8 @@
+app/
+plugins/
+src/vmarquezh/EmailProcessor/
+.gitignore
+LICENSE
+README.md
+composer.json
+email-processor.php

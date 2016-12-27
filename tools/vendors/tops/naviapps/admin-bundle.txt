@@ -1,0 +1,14 @@
+Command/
+Controller/
+DependencyInjection/
+Doctrine/
+Entity/
+Event/
+Form/
+Menu/
+Repository/
+Resources/
+.gitignore
+NaviappsAdminBundle.php
+README.md
+composer.json

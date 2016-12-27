@@ -1,0 +1,8 @@
+Controller/
+DependencyInjection/
+Installation/
+Resources/
+.gitattributes
+.gitignore
+SimusanteChatBundle.php
+composer.json

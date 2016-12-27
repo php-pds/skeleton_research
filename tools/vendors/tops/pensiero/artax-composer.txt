@@ -1,0 +1,7 @@
+config/
+src/ArtaxComposer/
+.gitignore
+Module.php
+README.md
+composer.json
+composer.lock

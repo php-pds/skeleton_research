@@ -1,0 +1,5 @@
+Lib/
+Model/
+data/
+README
+composer.json

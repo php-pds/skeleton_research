@@ -1,0 +1,6 @@
+src/Donutloop/RestfulApiWorkflowBundle/
+tests/Donutloop/RestfulApiWorkflowBundle/
+.gitignore
+LICENSE
+README.md
+composer.json

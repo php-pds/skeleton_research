@@ -1,0 +1,11 @@
+doc/
+examples/
+lib/
+.gitattributes
+.gitignore
+LICENSE.txt
+README.md
+__CondorcetAutoload.php
+composer.json
+condorcet-logo.png
+condorcet-logo.psd

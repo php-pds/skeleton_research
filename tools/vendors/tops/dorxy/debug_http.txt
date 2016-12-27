@@ -1,0 +1,11 @@
+example-images/
+src/
+tests/
+webroot/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+VERSION.txt
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,7 @@
+docs/
+src/
+sweph/
+win/
+.gitignore
+README.md
+composer.json

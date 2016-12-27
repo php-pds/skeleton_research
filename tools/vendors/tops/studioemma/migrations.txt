@@ -1,0 +1,7 @@
+cli/
+lib/Migrations/
+LICENSE
+README.md
+composer.json
+plugin.xml
+tag.sh

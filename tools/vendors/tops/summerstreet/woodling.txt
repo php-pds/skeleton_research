@@ -1,0 +1,9 @@
+src/Woodling/
+tests/Woodling/
+.gitignore
+.travis.yml
+CHANGELOG
+LICENSE
+README.md
+composer.json
+phpunit.xml

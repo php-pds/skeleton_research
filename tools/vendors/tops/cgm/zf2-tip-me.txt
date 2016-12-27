@@ -1,0 +1,12 @@
+config/
+public/
+src/ZF2TipMe/
+tests/
+view/zf2-tip-me/
+.gitignore
+LICENSE.txt
+Module.php
+README.md
+autoload_classmap.php
+composer.json
+screenshot.png

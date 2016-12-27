@@ -1,0 +1,12 @@
+bin/ci/
+demo/
+src/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+Makefile
+NOTES
+composer.json
+phpunit.xml
+readme.md

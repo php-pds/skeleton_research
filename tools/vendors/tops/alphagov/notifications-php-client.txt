@@ -1,0 +1,11 @@
+docker/
+docs/
+script/
+spec/
+src/
+.gitignore
+LICENSE.txt
+Makefile
+README.md
+composer.json
+phpspec.yml

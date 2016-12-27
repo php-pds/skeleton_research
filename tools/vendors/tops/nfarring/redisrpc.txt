@@ -1,0 +1,10 @@
+docs/
+php/
+python/
+ruby/
+.gitignore
+LICENSE
+Makefile
+README.markdown
+VERSION
+composer.json

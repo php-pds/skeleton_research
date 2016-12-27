@@ -1,0 +1,13 @@
+bin/
+dist/
+lib/
+src/
+.gitignore
+.npmignore
+Cakefile
+LICENSE
+README.md
+composer.json
+index.js
+package.json
+swagger-ui.json

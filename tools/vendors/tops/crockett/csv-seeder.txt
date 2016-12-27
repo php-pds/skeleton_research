@@ -1,0 +1,5 @@
+src/Crockett/CsvSeeder/
+tests/
+.gitignore
+composer.json
+readme.md

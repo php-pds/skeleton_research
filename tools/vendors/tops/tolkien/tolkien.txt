@@ -1,0 +1,9 @@
+bin/Tolkien/
+src/Tolkien/
+test/Tolkien/
+.gitignore
+LICENSE
+README.md
+box.json
+composer.json
+phpunit.xml

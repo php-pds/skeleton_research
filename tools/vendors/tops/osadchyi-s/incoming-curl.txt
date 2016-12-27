@@ -1,0 +1,7 @@
+src/
+.gitattributes
+.gitignore
+LICENSE
+LICENSE.md
+README.md
+composer.json

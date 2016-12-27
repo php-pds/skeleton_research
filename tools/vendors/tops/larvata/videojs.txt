@@ -1,0 +1,5 @@
+assets/
+LICENSE
+README
+VideojsAsset.php
+composer.json

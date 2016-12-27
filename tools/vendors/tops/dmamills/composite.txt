@@ -1,0 +1,4 @@
+src/Composite/
+.gitignore
+README.md
+composer.json

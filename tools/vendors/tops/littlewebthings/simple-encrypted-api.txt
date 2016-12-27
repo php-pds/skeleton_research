@@ -1,0 +1,6 @@
+src/EncryptedApi/
+test/
+.gitignore
+.travis.yml
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,14 @@
+PHPIntegration/
+examples/
+images/
+javascripts/
+stylesheets/
+tests/
+.gitignore
+.travis.yml
+Changelog.md
+LICENSE
+README.md
+composer.json
+index.html
+params.json

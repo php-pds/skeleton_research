@@ -1,0 +1,6 @@
+src/SupportYard/FrameworkBundle/
+.gitignore
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

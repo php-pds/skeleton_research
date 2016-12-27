@@ -1,0 +1,9 @@
+src/xavierfaucon/BravoIds/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.phar
+phpunit.xml

@@ -1,0 +1,4 @@
+lib/Weather/
+.gitignore
+README.md
+composer.json

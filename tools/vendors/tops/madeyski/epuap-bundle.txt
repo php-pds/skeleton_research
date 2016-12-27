@@ -1,0 +1,13 @@
+Controller/
+DependencyInjection/
+Request/
+Resources/
+Security/Authentication/
+Settings/
+Tests/
+.travis.yml
+LICENSE
+MadeyskiEpuapBundle.php
+README.md
+composer.json
+phpunit.xml.dist

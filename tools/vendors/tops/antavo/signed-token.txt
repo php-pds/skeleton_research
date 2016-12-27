@@ -1,0 +1,5 @@
+docs/
+src/
+composer.json
+composer.lock
+generate-doc

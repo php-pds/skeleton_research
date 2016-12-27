@@ -1,0 +1,11 @@
+_config/
+code/
+lang/
+templates/Includes/
+.editorconfig
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+code-of-conduct.md
+composer.json

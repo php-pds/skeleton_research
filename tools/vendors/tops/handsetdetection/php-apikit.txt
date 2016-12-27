@@ -1,0 +1,10 @@
+src/
+tests/
+.gitignore
+.travis.yml
+composer.json
+examples.php
+hd4Helper.js
+hdconfig.php
+phpunit.xml
+readme.md

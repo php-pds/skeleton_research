@@ -1,0 +1,4 @@
+bin/64bit/
+LICENSE
+README.md
+composer.json

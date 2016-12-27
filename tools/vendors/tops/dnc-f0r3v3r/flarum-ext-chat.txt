@@ -1,0 +1,9 @@
+js/
+less/
+src/
+.gitignore
+LICENSE
+README.md
+bootstrap.php
+composer.json
+icon.png

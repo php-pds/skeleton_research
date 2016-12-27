@@ -1,0 +1,16 @@
+Command/
+Component/
+DoctrineMigrations/
+Entity/
+Tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+Makefile
+README.md
+TariochEveapiFetcherBundle.php
+composer.json
+phpcs_rules.xml
+phpmd_rules.xml
+phpunit.xml.dist

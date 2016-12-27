@@ -1,0 +1,8 @@
+design/admin/
+doc/
+modules/contentclassmanager/
+settings/
+README.md
+composer.json
+extension.xml
+ezinfo.php

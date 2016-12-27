@@ -1,0 +1,6 @@
+schema/
+tests/
+.gitignore
+ClosureTableBehavior.php
+README.md
+composer.json

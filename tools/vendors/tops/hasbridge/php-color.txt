@@ -1,0 +1,9 @@
+tests/
+.gitignore
+.travis.yml
+Color.php
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml

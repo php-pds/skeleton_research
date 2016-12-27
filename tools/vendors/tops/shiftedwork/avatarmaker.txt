@@ -1,0 +1,9 @@
+demo/
+src/Shift/AvatarMaker/
+tests/
+.gitattributes
+.gitignore
+LICENSE.txt
+README.md
+composer.json
+phpunit.xml.dist

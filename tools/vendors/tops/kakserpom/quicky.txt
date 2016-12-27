@@ -1,0 +1,14 @@
+_doc/
+_test/
+plugins/
+smiles/
+.gitignore
+Quicky.class.php
+Quicky.form.class.php
+Quicky_BBcode.class.php
+Quicky_compiler.class.php
+blitz.class.php
+composer.json
+composer.lock
+debug.tpl
+php_compiler.class.php

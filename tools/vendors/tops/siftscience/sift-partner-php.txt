@@ -1,0 +1,9 @@
+lib/
+test/
+.gitignore
+.travis.yml
+CHANGES.RST
+LICENSE.txt
+README.md
+composer.json
+composer.lock

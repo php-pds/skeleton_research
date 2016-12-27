@@ -1,0 +1,5 @@
+src/Opesho/Upload/Storage/
+tests/
+.gitignore
+README.md
+composer.json

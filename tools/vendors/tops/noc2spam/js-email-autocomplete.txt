@@ -1,0 +1,6 @@
+demo/
+dev/
+LICENSE
+README.md
+bower.json
+composer.json

@@ -1,0 +1,7 @@
+Examples/
+LatestApi/
+EmailinvestAutoload.php
+README.md
+VERSION
+changelog.md
+composer.json

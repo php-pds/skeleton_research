@@ -1,0 +1,6 @@
+files/icons/
+src/EasyFile/
+view/easy-file/file-manager/
+Module.php
+README.md
+composer.json

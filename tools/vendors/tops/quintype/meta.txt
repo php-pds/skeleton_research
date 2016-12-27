@@ -1,0 +1,7 @@
+spec/Quintype/Meta/
+src/Quintype/Meta/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,9 @@
+src/
+tests/
+vendor/
+LICENSE.md
+README.md
+composer.json
+composer.lock
+phpunit.xml
+provides.json

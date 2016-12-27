@@ -1,0 +1,8 @@
+config/
+database/
+src/
+views/laravel-admin/
+.gitignore
+LICENSE
+README.md
+composer.json

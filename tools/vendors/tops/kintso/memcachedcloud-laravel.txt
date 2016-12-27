@@ -1,0 +1,4 @@
+kintso/MemcachedCloud/
+.gitignore
+README.md
+composer.json

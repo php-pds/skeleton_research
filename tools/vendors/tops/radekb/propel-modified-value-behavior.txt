@@ -1,0 +1,4 @@
+src/ModifiedValueBehavior/
+.gitignore
+LICENSE
+composer.json

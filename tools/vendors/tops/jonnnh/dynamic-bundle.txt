@@ -1,0 +1,6 @@
+DependencyInjection/
+Manager/
+Resources/config/
+Routing/
+JonnnhDynamicBundle.php
+composer.json

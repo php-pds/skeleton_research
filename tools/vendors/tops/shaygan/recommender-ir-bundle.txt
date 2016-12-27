@@ -1,0 +1,7 @@
+DependencyInjection/
+Resources/config/
+LICENSE.md
+README.md
+Recommender.php
+ShayganRecommenderIrBundle.php
+composer.json

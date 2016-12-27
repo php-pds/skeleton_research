@@ -1,0 +1,6 @@
+LICENSE
+README.md
+composer.json
+composer.phar
+example.php
+stampery.inc.php

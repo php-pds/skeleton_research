@@ -1,0 +1,16 @@
+ScreenShots/
+app/
+bootstrap/
+public/
+.gitattributes
+.gitignore
+.travis.yml
+Boxfile
+Boxfile.install
+_ide_helper.php
+artisan
+composer.json
+lef.iml
+phpunit.xml
+readme.md
+server.php

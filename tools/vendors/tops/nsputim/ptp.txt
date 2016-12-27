@@ -1,0 +1,8 @@
+app/
+public/
+vendor/
+.htaccess
+.htrouter.php
+composer.json
+composer.lock
+index.html

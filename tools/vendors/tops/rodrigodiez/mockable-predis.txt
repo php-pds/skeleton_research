@@ -1,0 +1,6 @@
+spec/RodrigoDiez/MockablePredis/
+src/RodrigoDiez/MockablePredis/
+.gitignore
+.travis.yml
+README.md
+composer.json

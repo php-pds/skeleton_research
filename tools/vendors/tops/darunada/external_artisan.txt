@@ -1,0 +1,8 @@
+Console/
+tests/
+.gitignore
+LICENSE.txt
+README.md
+artisan
+composer.json
+phpunit.xml

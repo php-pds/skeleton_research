@@ -1,0 +1,15 @@
+app/
+config/
+404.php
+LICENSE.txt
+README.md
+composer.json
+footer.php
+functions.php
+header.php
+index.php
+page.php
+search.php
+sidebar.php
+single.php
+style.css

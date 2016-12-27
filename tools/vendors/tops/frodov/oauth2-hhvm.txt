@@ -1,0 +1,4 @@
+src/
+.hhconfig
+README.md
+composer.json

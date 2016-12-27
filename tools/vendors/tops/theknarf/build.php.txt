@@ -1,0 +1,8 @@
+example/
+src/TheKnarf/Buildphp/
+.gitignore
+Readme.md
+build.php
+composer.json
+composer.lock
+screenshot.png

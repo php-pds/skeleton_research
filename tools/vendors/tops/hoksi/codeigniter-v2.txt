@@ -1,0 +1,8 @@
+application/
+system/
+user_guide/
+CodeIgniter-2.2.6.md
+README.md
+composer.json
+index.php
+license.txt

@@ -1,0 +1,11 @@
+src/Jadu/InspectableStashBundle/
+test/
+.gitignore
+.php_cs
+.travis.yml
+NCSA-LICENSE.txt
+README.md
+composer.json
+composer.lock
+phpcs.xml
+phpunit.xml.dist

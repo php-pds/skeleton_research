@@ -1,0 +1,12 @@
+app/view/
+src/
+test/
+webroot/
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+autoloader.php
+composer.json
+composer.lock
+phpunit.xml.dist

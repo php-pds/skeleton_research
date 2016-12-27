@@ -1,0 +1,17 @@
+controllers/
+files/
+models/
+system/
+template/
+views/
+.gitignore
+.htaccess
+LICENSE
+README.md
+VERSION
+chayotedb.sql
+composer.json
+config.php
+favicon.ico
+index.php
+robots.txt

@@ -1,0 +1,6 @@
+Configuration/
+Resources/
+.editorconfig
+LICENSE
+README.md
+composer.json

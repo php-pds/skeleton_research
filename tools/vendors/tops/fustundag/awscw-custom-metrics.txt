@@ -1,0 +1,10 @@
+src/AWSCustomMetric/
+tests/
+.gitignore
+.travis.yml
+CHANGELOG.md
+Dockerfile
+LICENSE
+README.md
+codeception.yml
+composer.json

@@ -1,0 +1,6 @@
+src/Bridge/Factory/
+.gitattributes
+.gitignore
+LICENSE
+README.md
+composer.json

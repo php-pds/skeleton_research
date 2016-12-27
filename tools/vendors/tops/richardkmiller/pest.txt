@@ -1,0 +1,4 @@
+.gitignore
+PersistentPest.php
+README.markdown
+composer.json

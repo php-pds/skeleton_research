@@ -1,0 +1,11 @@
+lib/Thrift/
+src/
+test/
+.gitignore
+Makefile.am
+Makefile.in
+README
+README.apache
+README.md
+composer.json
+thrift_protocol.ini

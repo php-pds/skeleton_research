@@ -1,0 +1,6 @@
+demo/
+src/LukasRos/JSONInclude/
+.gitignore
+LICENSE
+README.md
+composer.json

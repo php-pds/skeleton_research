@@ -1,0 +1,7 @@
+LICENSE.txt
+LICENSE_AFL.txt
+README.md
+composer.json
+language.xml
+registration.php
+ru_ru.csv

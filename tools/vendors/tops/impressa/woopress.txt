@@ -1,0 +1,13 @@
+config/
+scripts/Roots/Bedrock/
+vendor/
+web/
+.env.example
+.gitignore
+CHANGELOG.md
+Capfile
+Gemfile
+LICENSE.md
+README.md
+composer.json
+wp-cli.yml

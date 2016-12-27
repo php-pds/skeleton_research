@@ -1,0 +1,13 @@
+Controller/
+DependencyInjection/
+Entity/
+Extension/
+Form/Type/
+Pagination/
+Resources/
+Tests/Controller/
+Util/
+CHANGELOG.md
+GeschkeAdminTranslatorGUIBundle.php
+README.md
+composer.json

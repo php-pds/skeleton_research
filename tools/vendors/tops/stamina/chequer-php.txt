@@ -1,0 +1,10 @@
+Chequer/
+tests/
+.travis.yml
+Chequer.php
+DynamicObject.md
+DynamicObject.php
+LICENSE
+Language.md
+Readme.md
+composer.json

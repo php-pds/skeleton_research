@@ -1,0 +1,6 @@
+app/
+src/
+vendor/amfphp/
+web/
+.gitignore
+README.md

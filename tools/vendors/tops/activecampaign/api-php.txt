@@ -1,0 +1,7 @@
+examples-composer/
+includes/
+.gitignore
+LICENSE
+README.md
+composer.json
+examples.php

@@ -1,0 +1,10 @@
+app/
+bin/
+src/
+web/
+.gitignore
+GPLv3
+LICENSE
+README.md
+bower.json
+composer.json

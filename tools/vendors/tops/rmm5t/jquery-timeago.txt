@@ -1,0 +1,17 @@
+contrib/
+locales/
+test/
+vendor/cache/
+.gitignore
+CNAME
+CONTRIBUTING.md
+LICENSE.txt
+README.markdown
+Rakefile
+bower.json
+clock.png
+composer.json
+index.html
+jquery.timeago.js
+package.json
+timeago.jquery.json

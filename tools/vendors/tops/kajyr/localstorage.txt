@@ -1,0 +1,5 @@
+.gitattributes
+.gitignore
+LocalStorage.class.php
+README.md
+composer.json

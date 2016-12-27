@@ -1,0 +1,4 @@
+templates/
+.gitignore
+LICENSE
+auth.py

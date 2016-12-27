@@ -1,0 +1,7 @@
+config/
+dca/
+html/
+languages/
+DataExchange.php
+README.md
+composer.json

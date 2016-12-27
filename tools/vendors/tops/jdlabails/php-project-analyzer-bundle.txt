@@ -1,0 +1,14 @@
+Command/
+Controller/
+DependencyInjection/
+Entities/
+Manager/
+Resources/
+Tests/
+Traits/
+.travis.yml
+JDPhpProjectAnalyzerBundle.php
+README.md
+composer.json
+phpunit.xml
+ppaIndex.png

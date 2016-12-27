@@ -1,0 +1,11 @@
+.idea/
+src/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+codecov.yml
+composer.json
+composer.lock
+phpunit.xml.dist

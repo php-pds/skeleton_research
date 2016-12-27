@@ -1,0 +1,6 @@
+Lib/
+Test/Case/Lib/
+.gitignore
+.travis.yml
+README.md
+composer.json

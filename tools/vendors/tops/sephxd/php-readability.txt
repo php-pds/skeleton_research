@@ -1,0 +1,11 @@
+assets/css/
+lib/
+template/
+.gitignore
+.htaccess
+LICENSE
+README.md
+common.inc.php
+composer.json
+config.inc.php
+index.php

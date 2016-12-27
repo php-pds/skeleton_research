@@ -1,0 +1,11 @@
+_config/
+code/
+docs/en/
+javascript/
+tests/
+.editorconfig
+.gitattributes
+CHANGELOG.md
+CONTRIBUTING.md
+README.md
+composer.json

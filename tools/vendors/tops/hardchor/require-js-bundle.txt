@@ -1,0 +1,13 @@
+Configuration/
+DependencyInjection/
+Factory/
+Filter/
+Resources/
+Templating/Helper/
+Tests/
+Twig/Extension/
+.gitignore
+HearsayRequireJSBundle.php
+README.md
+composer.json
+phpunit.xml.dist

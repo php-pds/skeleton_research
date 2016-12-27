@@ -1,0 +1,11 @@
+Base/
+Command/
+DependencyInjection/
+Resources/
+Twig/
+Widget/
+.gitignore
+LICENSE
+README.md
+WidgetBundle.php
+composer.json

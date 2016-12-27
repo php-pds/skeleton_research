@@ -1,0 +1,10 @@
+nbproject/
+src/northborndesign/tundra/injectors/
+.gitattributes
+.gitignore
+.mailmap
+LICENSE.md
+README.md
+bootstrap.php
+composer.json
+composer.lock

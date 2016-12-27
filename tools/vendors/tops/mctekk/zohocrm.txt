@@ -1,0 +1,6 @@
+src/Zoho/CRM/
+tests/
+.gitignore
+README.md
+codeception.yml
+composer.json

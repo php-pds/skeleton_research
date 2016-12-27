@@ -1,0 +1,11 @@
+Buzz/Client/
+DataCollector/
+DependencyInjection/
+Resources/
+Tests/Buzz/Client/
+.gitignore
+BuzzProfilerBundle.php
+LICENCE
+README.md
+composer.json
+phpunit.xml.dist

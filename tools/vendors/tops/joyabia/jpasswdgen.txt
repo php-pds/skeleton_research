@@ -1,0 +1,8 @@
+src/
+test/
+.gitignore
+Joypasswd.php
+README.md
+composer
+composer.json
+phpunit.xml

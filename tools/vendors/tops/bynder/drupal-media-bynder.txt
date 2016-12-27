@@ -1,0 +1,11 @@
+assets/
+includes/
+js/
+.gitignore
+LICENSE
+README.md
+composer.json
+media_bynder.css
+media_bynder.info
+media_bynder.install
+media_bynder.module

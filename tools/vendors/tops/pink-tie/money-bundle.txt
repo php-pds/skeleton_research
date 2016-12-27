@@ -1,0 +1,10 @@
+Form/
+Resources/
+Tests/
+.gitignore
+.travis.yml
+MoneyBundle.php
+README.markdown
+composer.json
+composer.lock
+phpunit.xml.dist

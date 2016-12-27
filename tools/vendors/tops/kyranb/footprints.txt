@@ -1,0 +1,10 @@
+src/
+.editorconfig
+.travis.yml
+CHANGELOG.md
+CONDUCT.md
+CONTRIBUTING.md
+LICENSE.md
+README.md
+composer.json
+readme-header.jpg

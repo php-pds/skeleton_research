@@ -1,0 +1,12 @@
+config/
+lib/
+tests/
+.gitattributes
+.gitignore
+.travis.yml
+README.md
+composer.json
+composer.lock
+logos_unit.sql
+logos_unit.xml
+phpunit.xml

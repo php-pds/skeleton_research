@@ -1,0 +1,16 @@
+Constant/
+Controller/
+Converter/
+DependencyInjection/
+Entity/
+Event/
+Exception/
+Resources/
+Response/
+Service/
+Tests/
+.gitignore
+HtcNowTaxiBundle.php
+README.md
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,14 @@
+cli/
+docs/
+src/Dive/
+test/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist
+phpunit_db_config.php.dist
+phpunit_db_config.travis.mysql.php
+phpunit_db_config.travis.sqlite.php

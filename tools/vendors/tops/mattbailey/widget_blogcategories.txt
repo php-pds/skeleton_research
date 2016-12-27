@@ -1,0 +1,6 @@
+.scrutinizer.yml
+README.md
+_config.php
+categoriesWidget.php
+categoriesWidget.ss
+composer.json

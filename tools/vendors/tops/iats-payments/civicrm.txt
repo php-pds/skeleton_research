@@ -1,0 +1,14 @@
+CRM/
+api/v3/Job/
+css/
+js/
+sql/
+templates/CRM/iATS/
+xml/Menu/
+README.md
+composer.json
+iATS_4.4.14.diff
+iATS_4.5.8.diff
+iats.civix.php
+iats.php
+info.xml

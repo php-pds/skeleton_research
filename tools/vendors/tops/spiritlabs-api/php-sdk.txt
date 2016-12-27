@@ -1,0 +1,5 @@
+examples/
+src/SpiritLabs/API/
+LICENSE
+README.md
+composer.json

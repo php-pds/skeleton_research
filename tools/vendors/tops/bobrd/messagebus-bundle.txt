@@ -1,0 +1,8 @@
+DependencyInjection/
+EventListener/
+Resources/config/
+Services/
+.gitignore
+BobrDMessageBusBundle.php
+composer.json
+readme.md

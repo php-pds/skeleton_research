@@ -1,0 +1,8 @@
+EanValidator/
+IsbnValidator/
+UpcValidator/
+tests/
+LICENSE
+ProductValidator.class.php
+README.md
+composer.json

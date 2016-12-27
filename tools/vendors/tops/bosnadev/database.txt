@@ -1,0 +1,11 @@
+src/Bosnadev/Database/
+tests/
+.codeclimate.yml
+.gitignore
+.travis.yml
+LICENSE
+README.md
+codeclimate.json
+codeclimate.sh
+composer.json
+phpunit.xml

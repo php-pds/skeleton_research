@@ -1,0 +1,9 @@
+actions/
+img/
+.gitignore
+LICENSE
+README.md
+ToggleActionInterface.php
+ToggleActionTrait.php
+ToggleColumn.php
+composer.json

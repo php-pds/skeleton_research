@@ -1,0 +1,17 @@
+Docs/
+testing/
+COPYING
+README
+README.md
+class.csstidy.php
+class.csstidy_optimise.php
+class.csstidy_print.php
+composer.json
+css_optimiser.php
+cssparse.css
+data.inc.php
+lang.inc.php
+template.tpl
+template1.tpl
+template2.tpl
+template3.tpl

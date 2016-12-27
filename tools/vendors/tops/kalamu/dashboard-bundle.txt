@@ -1,0 +1,10 @@
+Controller/
+DependencyInjection/
+Exception/
+Manager/
+Model/
+Resources/
+KalamuDashboardBundle.php
+LICENSE
+README.md
+composer.json

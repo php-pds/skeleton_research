@@ -1,0 +1,6 @@
+src/LibvirtPHP/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock

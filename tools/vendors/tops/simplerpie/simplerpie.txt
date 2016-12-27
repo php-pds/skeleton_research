@@ -1,0 +1,7 @@
+src/SimplerPie/
+tests/
+vendor/
+.gitignore
+LICENSE
+composer.json
+composer.lock

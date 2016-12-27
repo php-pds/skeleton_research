@@ -1,0 +1,7 @@
+DependencyInjection/
+Doctrine/
+Resources/
+Security/
+IlyaActualUserBundle.php
+README.md
+composer.json

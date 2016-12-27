@@ -1,0 +1,12 @@
+.tx/
+includes/
+locale/
+static/
+.gitignore
+AUTHORS
+NEWS
+README
+composer.json
+generate_messages.sh
+index.php
+install.php

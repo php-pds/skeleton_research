@@ -1,0 +1,7 @@
+.editorconfig
+.gitignore
+LICENSE
+README.md
+composer.json
+ruleset-nette.xml
+ruleset.xml

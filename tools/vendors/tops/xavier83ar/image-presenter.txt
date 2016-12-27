@@ -1,0 +1,9 @@
+config/
+src/
+tests/
+webroot/img/
+.gitignore
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

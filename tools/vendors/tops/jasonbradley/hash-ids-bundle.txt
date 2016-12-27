@@ -1,0 +1,6 @@
+DependencyInjection/
+Resources/
+JasonBradleyHashIdsBundle.php
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,8 @@
+cipherwallet/
+example/
+.gitignore
+CHANGELOG
+LICENSE
+README.md
+VERSION
+composer.json

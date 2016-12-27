@@ -1,0 +1,9 @@
+js/
+less/forum/
+locale/
+scripts/
+src/Listener/
+.gitattributes
+.gitignore
+bootstrap.php
+composer.json

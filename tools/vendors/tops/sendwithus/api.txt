@@ -1,0 +1,10 @@
+.github/
+lib/
+test/
+.gitignore
+.travis.yml
+LICENSE
+NOTICE
+README.md
+composer.json
+travisci-phpunit.xml

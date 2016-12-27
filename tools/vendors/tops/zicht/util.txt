@@ -1,0 +1,11 @@
+src/Zicht/Util/
+tests/ZichtTest/Util/
+LICENSE
+README.md
+changelog.md
+composer.json
+phpdox.xml.dist
+phpmd.xml
+phpunit.xml.dist
+z.yml
+z2.yml

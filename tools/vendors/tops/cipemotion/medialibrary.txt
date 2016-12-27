@@ -1,0 +1,8 @@
+resources/
+src/
+.gitattributes
+.gitignore
+.styleci.yml
+LICENSE.txt
+README.md
+composer.json

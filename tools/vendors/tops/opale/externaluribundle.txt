@@ -1,0 +1,13 @@
+DependencyInjection/
+Resources/config/
+Services/
+Tests/
+Twig/
+.gitignore
+.travis.yml
+LICENSE.txt
+OpaleExternalUriBundle.php
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

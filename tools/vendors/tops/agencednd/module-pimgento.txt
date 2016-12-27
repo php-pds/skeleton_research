@@ -1,0 +1,17 @@
+Attribute/
+Category/
+Demo/
+Entities/
+Family/
+Import/
+Log/
+Option/
+Product/
+Variant/
+.gitignore
+CHANGELOG.md
+CONTRIBUTING.md
+LICENSE.md
+LICENSE_AFL.md
+README.md
+composer.json

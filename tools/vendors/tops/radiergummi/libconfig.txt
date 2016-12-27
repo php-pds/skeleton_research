@@ -1,0 +1,10 @@
+docs/
+src/Libconfig/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+mkdocs.yml
+phpunit.xml.dist

@@ -1,0 +1,16 @@
+.idea/
+app/
+src/
+vendor/
+web/
+.gitattributes
+.gitignore
+.travis.yml
+LICENSE
+README.md
+UPGRADE-2.2.md
+UPGRADE.md
+composer.json
+composer.lock
+mysql-connector-java-5.1.18-bin.jar
+mysql-connector-license.txt

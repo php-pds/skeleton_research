@@ -1,0 +1,10 @@
+docs/
+nbproject/
+tests/
+.gitignore
+.travis.yml
+Mailer.php
+Message.php
+README.md
+codeception.yml
+composer.json

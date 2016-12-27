@@ -1,0 +1,14 @@
+bin/
+config/
+data/
+src/TheDava/
+test/
+.coveralls.yml
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist
+root.php

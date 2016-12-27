@@ -1,0 +1,8 @@
+controllers/
+models/
+source/images/
+views/default/
+widgets/
+README.md
+Slideshow.php
+composer.json

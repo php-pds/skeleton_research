@@ -1,0 +1,14 @@
+img/
+test/
+.gitignore
+.npmignore
+API.md
+CHANGES.md
+ISSUE_TEMPLATE.md
+LICENSE
+README.md
+d3.sublime-project
+index.js
+package.json
+rollup.config.js
+rollup.node.js

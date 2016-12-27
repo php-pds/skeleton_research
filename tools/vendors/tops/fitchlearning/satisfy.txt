@@ -1,0 +1,7 @@
+bin/
+src/FitchLearning/Satisfy/
+.gitignore
+LICENSE
+README.md
+build.xml
+composer.json

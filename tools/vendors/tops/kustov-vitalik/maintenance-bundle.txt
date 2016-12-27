@@ -1,0 +1,8 @@
+Annotations/
+DependencyInjection/
+Listener/
+Resources/config/
+.gitignore
+KustovVitalikMaintenanceBundle.php
+README.md
+composer.json

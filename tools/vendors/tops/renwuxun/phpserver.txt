@@ -1,0 +1,5 @@
+src/PHPServer/
+tests/
+.gitignore
+composer.json
+readme.txt

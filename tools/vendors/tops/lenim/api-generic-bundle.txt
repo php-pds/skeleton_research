@@ -1,0 +1,12 @@
+Command/
+Controller/
+Resources/skeleton/controller/
+Tests/
+doc/
+.gitignore
+LICENSE
+README.md
+SWSMApiGenericBundle.php
+composer.json
+phpunit.xml.dist
+todo.md

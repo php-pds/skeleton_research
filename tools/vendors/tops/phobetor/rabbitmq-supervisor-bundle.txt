@@ -1,0 +1,9 @@
+Command/
+DependencyInjection/
+Resources/
+Services/
+.gitignore
+LICENSE
+README.md
+RabbitMqSupervisorBundle.php
+composer.json

@@ -1,0 +1,11 @@
+core/PHPRocks/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+PHPRocks-configuration.json
+README.md
+composer.json
+composer.lock
+composer.phar
+phpunit.xml

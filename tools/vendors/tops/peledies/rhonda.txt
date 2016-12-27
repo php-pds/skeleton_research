@@ -1,0 +1,5 @@
+src/Rhonda/
+tests/
+.gitignore
+README.md
+composer.json

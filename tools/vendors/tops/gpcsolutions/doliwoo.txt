@@ -1,0 +1,16 @@
+.tx/
+assets/
+includes/
+languages/
+.gitignore
+.sensiolabs.yml
+.travis.yml
+CONTRIBUTING.md
+Gruntfile.js
+README.md
+composer.json
+composer.lock
+doliwoo.php
+package.json
+readme.txt
+solano.yml

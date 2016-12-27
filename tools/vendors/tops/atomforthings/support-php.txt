@@ -1,0 +1,10 @@
+src/Atom/Support/
+tests/
+.bumpversion.cfg
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock

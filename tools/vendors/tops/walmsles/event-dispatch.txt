@@ -1,0 +1,6 @@
+src/EventDispatch/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json

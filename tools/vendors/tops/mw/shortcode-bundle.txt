@@ -1,0 +1,9 @@
+DependencyInjection/
+Helper/
+Resources/config/
+Shortcode/
+Twig/Extension/
+LICENSE
+MWShortcodeBundle.php
+README.md
+composer.json

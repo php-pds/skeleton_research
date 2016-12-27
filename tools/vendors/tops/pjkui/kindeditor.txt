@@ -1,0 +1,16 @@
+examples/
+lang/
+php/
+plugins/
+themes/
+KindEditor.php
+KindEditorAction.php
+KindEditorAsset.php
+README.md
+Services_JSON.php
+composer.json
+kindeditor-all-min.js
+kindeditor-all.js
+kindeditor-min.js
+kindeditor.js
+license.txt

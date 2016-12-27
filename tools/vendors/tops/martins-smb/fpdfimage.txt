@@ -1,0 +1,4 @@
+fpdfimage/
+.gitignore
+README.md
+composer.json

@@ -1,0 +1,14 @@
+Command/
+DependencyInjection/
+Resources/config/
+Tests/
+Translator/
+.gitignore
+.travis.yml
+CONTRIBUTING.md
+Changelog.md
+IncenteevTranslationCheckerBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

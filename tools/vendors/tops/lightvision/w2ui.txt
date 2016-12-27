@@ -1,0 +1,13 @@
+demos/
+dist/
+docs/
+libs/
+server/
+src/
+test/
+.gitignore
+build.xml
+composer.json
+license.txt
+readme.md
+w2ui.jquery.json

@@ -1,0 +1,7 @@
+spec/Kayladnls/Spec/
+src/
+.gitignore
+.travis.yml
+README.md
+composer.json
+phpspec.yml

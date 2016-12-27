@@ -1,0 +1,6 @@
+src/PK/CommandExtraBundle/
+.php_cs
+.scrutinizer.yml
+CHANGELOG.md
+README.md
+composer.json

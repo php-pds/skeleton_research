@@ -1,0 +1,6 @@
+Doctrine/
+Model/
+LICENSE
+README.md
+composer.json
+mvrhovResourceBundle.php

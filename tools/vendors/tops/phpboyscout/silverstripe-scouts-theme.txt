@@ -1,0 +1,8 @@
+css/
+fonts/
+images/
+js/
+scss/
+templates/
+.DS_Store
+composer.json

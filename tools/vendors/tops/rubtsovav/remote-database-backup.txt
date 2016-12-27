@@ -1,0 +1,14 @@
+examples/
+src/
+test/
+.gitattributes
+.gitignore
+README.md
+composer.json
+phpcs.server-compile.xml
+phpcs.xml
+phpunit.xml
+run.sh
+server-compile.php
+server-compiled.php
+test.sh

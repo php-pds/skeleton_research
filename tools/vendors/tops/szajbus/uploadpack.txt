@@ -1,0 +1,6 @@
+Model/Behavior/
+View/Helper/
+README.textile
+VERSION
+composer.json
+license

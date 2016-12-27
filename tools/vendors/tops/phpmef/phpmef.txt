@@ -1,0 +1,9 @@
+library/MEF/
+tests/MEF/
+.gitattributes
+.gitignore
+.travis.yml
+LICENSE.md
+README.md
+composer.json
+phpunit.xml.dist

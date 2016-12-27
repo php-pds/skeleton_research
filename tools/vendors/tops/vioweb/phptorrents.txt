@@ -1,0 +1,3 @@
+src/PHPTorrents/
+README.md
+composer.json

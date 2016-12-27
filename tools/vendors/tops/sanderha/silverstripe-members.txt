@@ -1,0 +1,9 @@
+_config/
+code/
+images/
+templates/
+tests/
+LICENSE.md
+Readme.md
+_config.php
+composer.json

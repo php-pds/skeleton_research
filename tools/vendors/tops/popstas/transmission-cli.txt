@@ -1,0 +1,15 @@
+bin/
+docs/
+src/
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CHANGELOG.md
+README.md
+box.json
+composer.json
+composer.lock
+phpunit.xml
+phpunit_without_commands.xml
+transmission-cli.dist.yml

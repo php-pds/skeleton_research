@@ -1,0 +1,10 @@
+bin/
+src/Phpmig/
+tests/Phpmig/
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENCE
+README.md
+composer.json
+phpunit.xml.dist

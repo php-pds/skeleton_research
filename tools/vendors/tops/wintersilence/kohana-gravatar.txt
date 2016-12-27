@@ -1,0 +1,7 @@
+classes/
+config/
+guide/gravatar/
+.gitattributes
+.gitignore
+composer.json
+readme.md

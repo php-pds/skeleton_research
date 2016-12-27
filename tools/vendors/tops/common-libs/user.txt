@@ -1,0 +1,10 @@
+.idea/
+src/
+tests/
+.gitignore
+.travis.yml
+Doxyfile
+LICENSE
+README.md
+composer.json
+makeDocs.sh

@@ -1,0 +1,10 @@
+.gitignore
+CHANGELOG.md
+CONTRIBUTING.md
+LICENSE
+README.md
+build
+composer.json
+language.xml
+registration.php
+sl_SI.csv

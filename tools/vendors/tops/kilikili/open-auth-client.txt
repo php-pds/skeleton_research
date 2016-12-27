@@ -1,0 +1,4 @@
+examples/
+src/Provider/
+README.md
+composer.json

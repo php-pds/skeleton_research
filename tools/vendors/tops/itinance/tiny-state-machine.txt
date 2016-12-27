@@ -1,0 +1,10 @@
+.idea/
+Resources/config/
+StateMachine/
+Tests/
+.gitignore
+LICENSE
+README.md
+TinyStateMachineBundle.php
+composer.json
+composer.lock

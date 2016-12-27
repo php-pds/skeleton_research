@@ -1,0 +1,9 @@
+Thrift/
+cassandra/
+phpcassa/
+Cache.php
+Connection.php
+LICENSE
+README.md
+autoload.php
+composer.json

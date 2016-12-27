@@ -1,0 +1,10 @@
+Paradox/
+assets/
+tests/
+.coveralls.yml
+.gitignore
+.travis.yml
+CHANGELOG
+LICENSE
+README.md
+composer.json

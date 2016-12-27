@@ -1,0 +1,10 @@
+samples/
+src/NOS/
+tests/NOS/Tests/
+.gitignore
+README.md
+autoload.php
+build-phar.sh
+composer.json
+index.php
+phpunit.xml

@@ -1,0 +1,8 @@
+actions/spam_check/
+classes/
+languages/
+views/default/
+README.md
+composer.json
+manifest.xml
+start.php

@@ -1,0 +1,15 @@
+doc/
+docker/test/
+src/
+tests/units/
+.atoum.php
+.bootstrap.atoum.php
+.gitignore
+.travis.yml
+CHANGELOG.md
+Makefile
+README.md
+composer.json
+coverage.php
+docker-compose.yml.dist
+travis-coverage.php

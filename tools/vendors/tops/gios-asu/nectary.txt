@@ -1,0 +1,15 @@
+documentation/
+src/
+standards/gios/GIOS/
+tests/
+.coveralls.yml
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+index.html
+phpdox.xml
+phpunit.php
+phpunit.xml

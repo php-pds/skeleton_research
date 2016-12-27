@@ -1,0 +1,17 @@
+Block/
+CustomerData/Checkout/
+Helper/
+Model/
+Observer/
+Test/Unit/
+dev/ci/
+etc/
+i18n/
+view/frontend/
+.editorconfig
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+registration.php

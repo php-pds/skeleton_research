@@ -1,0 +1,12 @@
+log/
+src/ShopelloAPI/
+unit/
+vendor/
+.gitignore
+.travis.yml
+LICENSE
+Makefile
+README.org
+composer.json
+composer.lock
+composer.phar

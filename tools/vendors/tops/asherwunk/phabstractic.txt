@@ -1,0 +1,10 @@
+src/Phabstractic/
+tests/
+.gitattributes
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpinfo.php
+phpunit.xml

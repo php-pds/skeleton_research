@@ -1,0 +1,10 @@
+app/
+js/mozg_clearsale/
+skin/
+CHANGELOG.md
+LICENSE.txt
+README.md
+README_ClearsaleStart.md
+README_ClearsaleTotal.md
+composer.json
+modman

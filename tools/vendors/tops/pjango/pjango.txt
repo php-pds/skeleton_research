@@ -1,0 +1,7 @@
+.settings/
+Pjango/
+.buildpath
+.project
+Pjango.php
+README
+composer.json

@@ -1,0 +1,10 @@
+DependencyInjection/
+Resources/config/
+Tests/
+Twig/Filter/
+.gitignore
+.travis.yml
+IgraalOSBTwigAsseticFilterBundle.php
+README.md
+composer.json
+phpunit.xml.dist

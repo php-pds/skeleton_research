@@ -1,0 +1,12 @@
+bin/
+doc/
+examples/
+features/
+spec/PHPeg/
+src/PHPeg/
+.gitignore
+CHANGLOG.md
+LICENSE
+README.md
+composer.json
+composer.lock

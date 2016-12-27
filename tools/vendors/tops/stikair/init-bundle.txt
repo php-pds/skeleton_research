@@ -1,0 +1,8 @@
+Composer/
+DependencyInjection/
+Resources/config/
+.gitignore
+LICENSE
+README.md
+StikairInitBundle.php
+composer.json

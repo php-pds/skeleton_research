@@ -1,0 +1,7 @@
+data/
+img/
+src/
+.gitignore
+README.md
+composer.json
+test-script.php

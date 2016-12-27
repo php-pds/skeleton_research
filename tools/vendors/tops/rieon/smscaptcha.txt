@@ -1,0 +1,10 @@
+src/
+tests/Smscaptcha/
+.gitignore
+.travis.yml
+LICENCE.md
+LICENSE
+Makefile
+README.md
+composer.json
+phpunit.xml

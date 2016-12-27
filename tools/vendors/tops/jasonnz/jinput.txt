@@ -1,0 +1,5 @@
+src/JasonNZ/Jinput/
+.gitattributes
+.gitignore
+composer.json
+readme.md

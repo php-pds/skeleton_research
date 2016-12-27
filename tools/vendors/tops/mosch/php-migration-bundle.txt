@@ -1,0 +1,12 @@
+Command/
+DependencyInjection/
+Migration/
+Model/
+Resources/config/
+.gitignore
+LICENSE
+MigrationBundle.php
+MigrationsProvider.php
+README.md
+composer.json
+composer.lock

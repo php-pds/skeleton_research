@@ -1,0 +1,6 @@
+EventListener/
+Resources/contao/
+Utils/
+LICENSE
+RedirecterBundle.php
+composer.json

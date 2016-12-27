@@ -1,0 +1,16 @@
+Controller/
+DependencyInjection/
+Resources/
+Tests/
+Twig/
+.gitignore
+.travis.yml
+CHANGES
+CMRavenBundle.php
+ExceptionListener.php
+LICENSE
+README.md
+RecordingRavenClient.php
+SentryEventRecorder.php
+composer.json
+phpunit.xml.dist

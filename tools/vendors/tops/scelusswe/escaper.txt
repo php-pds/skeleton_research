@@ -1,0 +1,10 @@
+report/
+src/Escaper/
+test/
+.gitattributes
+.gitignore
+.scrutinizer.yml
+.travis.yml
+README.md
+autoloader.php
+composer.json

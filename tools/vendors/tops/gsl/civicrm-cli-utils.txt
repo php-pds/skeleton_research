@@ -1,0 +1,6 @@
+includes/
+.gitignore
+LICENSE
+README.md
+clean
+composer.json

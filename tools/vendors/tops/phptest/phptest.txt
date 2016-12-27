@@ -1,0 +1,11 @@
+bin/
+example/functional/
+src/
+test/unit/
+.gitignore
+.travis.install.sh
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

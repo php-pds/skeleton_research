@@ -1,0 +1,9 @@
+src/NoSQLite/
+test/NoSQLite/Tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+makefile
+phpunit.xml.dist

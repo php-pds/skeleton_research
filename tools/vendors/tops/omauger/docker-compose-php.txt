@@ -1,0 +1,12 @@
+docker-images/phaudit/
+docs/
+scripts/
+src/DockerCompose/
+.gitignore
+.gitlab-ci.yml
+.travis.yml
+README.md
+composer.json
+docker-compose-test.yml
+mkdocs.yml
+phpunit.xml.dist

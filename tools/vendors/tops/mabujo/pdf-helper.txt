@@ -1,0 +1,13 @@
+String/
+.gitignore
+LinesBreakChar.php
+LinesBreakCharResult.php
+LinesBreakPoint.php
+LinesBreakPointResult.php
+LinesBreaker.php
+MeasureText.php
+MeasureTextCounts.php
+MeasureTextResult.php
+Paragraph.php
+README.md
+composer.json

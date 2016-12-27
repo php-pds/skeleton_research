@@ -1,0 +1,8 @@
+src/MathCaptcha/
+.gitignore
+.htaccess
+LICENCE
+README.md
+composer.json
+math_captcha.php
+test_form.php

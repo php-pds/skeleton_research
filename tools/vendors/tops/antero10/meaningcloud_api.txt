@@ -1,0 +1,6 @@
+src/MeaningCloud/Libs/
+test/
+.gitignore
+LICENSE
+README.md
+composer.json

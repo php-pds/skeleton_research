@@ -1,0 +1,9 @@
+src/
+tests/
+.drone.yml
+.gitignore
+.travis.yml
+Dockerfile
+README.MD
+composer.json
+phpunit.xml

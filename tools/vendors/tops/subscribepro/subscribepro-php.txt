@@ -1,0 +1,9 @@
+src/SubscribePro/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml
+phpunit.xml.dist

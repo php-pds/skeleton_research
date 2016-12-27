@@ -1,0 +1,5 @@
+src/yii2ext/redis/
+.gitignore
+LICENSE.md
+README.md
+composer.json

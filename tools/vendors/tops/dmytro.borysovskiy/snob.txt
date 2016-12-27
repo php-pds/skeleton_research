@@ -1,0 +1,8 @@
+app/
+lib/
+public/
+vendor/
+.gitignore
+composer.json
+composer.lock
+tsmarty2c.php

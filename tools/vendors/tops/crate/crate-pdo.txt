@@ -1,0 +1,17 @@
+devtools/
+docs/
+src/Crate/
+test/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+AUTHORS.rst
+CHANGES.txt
+DEVELOP.rst
+LICENSE
+NOTICE
+README.rst
+Vagrantfile
+composer.json
+phpunit.xml.dist
+provisioning.sh

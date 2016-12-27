@@ -1,0 +1,10 @@
+app/
+config/
+data/runtime/cache/
+public/
+.gitignore
+My First Framework based on Composer
+README.md
+bootstrap.php
+composer.json
+composer.lock

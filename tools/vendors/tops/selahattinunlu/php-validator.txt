@@ -1,0 +1,6 @@
+example/
+src/phpValidator/
+.gitattributes
+.gitignore
+README.md
+composer.json

@@ -1,0 +1,12 @@
+bin/
+src/
+tests/
+.gitignore
+.gitmessage
+.php_cs
+.styleci.yml
+.travis.yml
+LICENSE
+README.md
+composer.json
+config.ini.bak

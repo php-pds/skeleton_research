@@ -1,0 +1,11 @@
+bin/
+lib/pake/
+test/
+.gitignore
+CHANGELOG.md
+LICENSE
+README.md
+composer.json
+options.yaml
+pakefile.php
+phar-stub.php

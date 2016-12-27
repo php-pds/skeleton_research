@@ -1,0 +1,9 @@
+.settings/
+non4/
+src/
+.buildpath
+.gitignore
+README.md
+composer.json
+composer.lock
+index.php

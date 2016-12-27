@@ -1,0 +1,7 @@
+src/Ecomz/Payment/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json

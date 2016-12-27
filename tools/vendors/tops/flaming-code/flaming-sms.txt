@@ -1,0 +1,7 @@
+config/
+sql/
+src/FlamingSms/
+LICENSE
+Module.php
+README.md
+composer.json

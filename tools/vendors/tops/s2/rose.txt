@@ -1,0 +1,8 @@
+bin/
+src/S2/Rose/
+tests/
+.gitignore
+README.md
+codeception.yml
+composer.json
+composer.lock

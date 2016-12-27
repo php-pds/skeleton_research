@@ -1,0 +1,9 @@
+assets/
+controllers/
+models/
+traits/
+views/
+GalleryAssets.php
+Module.php
+README.md
+composer.json

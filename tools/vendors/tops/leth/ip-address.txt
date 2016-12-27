@@ -1,0 +1,8 @@
+classes/Leth/IPAddress/
+tests/
+.travis.yml
+LICENSE.txt
+README.md
+composer.json
+lgpl-3.0.txt
+phpunit.xml.dist

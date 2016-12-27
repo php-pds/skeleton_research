@@ -1,0 +1,15 @@
+css/
+js/
+languages/
+lib/
+templates/default/
+.gitignore
+.scrutinizer.yml
+LICENSE
+README.md
+bower.json
+codeclimate.yml
+composer.json
+readme.txt
+uninstall.php
+woocommerce-multiple-free-gift.php

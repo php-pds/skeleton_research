@@ -1,0 +1,11 @@
+build/
+src/
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+autoload.php
+build.xml
+composer.json
+readme.md
+ruleset.xml

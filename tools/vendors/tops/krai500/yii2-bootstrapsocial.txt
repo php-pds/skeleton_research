@@ -1,0 +1,7 @@
+assets/
+BootstrapsocialAsset.php
+Button.php
+FontawesomeAsset.php
+README.md
+Widget.php
+composer.json

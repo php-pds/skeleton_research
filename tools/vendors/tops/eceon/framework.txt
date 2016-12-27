@@ -1,0 +1,5 @@
+public/
+src/Eceon/
+tests/
+LICENSE
+composer.json

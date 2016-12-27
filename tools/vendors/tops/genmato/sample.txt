@@ -1,0 +1,14 @@
+Api/
+Block/
+Console/Command/
+Controller/
+Model/
+Observer/
+Plugin/
+Setup/
+Ui/Component/Listing/Column/
+etc/
+view/
+README.md
+composer.json
+registration.php

@@ -1,0 +1,13 @@
+src/Phpantom/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock
+create-phar.php
+index.php
+phpantom
+phpantom.php
+phpunit.xml.dist
+run.php

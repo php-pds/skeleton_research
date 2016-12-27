@@ -1,0 +1,4 @@
+src/Aotd/Composer/PlatformSpecificInstaller/
+.gitignore
+LICENSE
+composer.json

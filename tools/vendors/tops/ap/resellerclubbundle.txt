@@ -1,0 +1,7 @@
+Api/
+DependencyInjection/
+Resources/
+Tests/
+ApResellerclubBundle.php
+README.md
+composer.json

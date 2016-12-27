@@ -1,0 +1,5 @@
+example/
+src/
+README.md
+composer.json
+verify_install.php

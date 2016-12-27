@@ -1,0 +1,6 @@
+lib/Freespee/
+test/
+.gitignore
+README.md
+SycamoreFreespeeBundle.php
+composer.json

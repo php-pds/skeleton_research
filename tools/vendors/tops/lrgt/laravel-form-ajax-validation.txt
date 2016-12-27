@@ -1,0 +1,7 @@
+src/Lrgt/LaravelFormAjaxValidation/
+tests/
+.gitignore
+.travis.yml
+Readme.md
+composer.json
+phpunit.xml

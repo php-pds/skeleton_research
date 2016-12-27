@@ -1,0 +1,9 @@
+.idea/
+bin/
+resources/
+src/fr/ina/amalia/
+tests/
+.gitignore
+README.md
+composer.json
+phpunit.xml

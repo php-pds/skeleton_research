@@ -1,0 +1,6 @@
+data/
+.gitignore
+README.md
+composer.json
+examples.php
+flatdb.php

@@ -1,0 +1,14 @@
+src/Esperance/PHPUnit/
+tests/
+.gitignore
+.travis.yml
+ChangeLog.md
+Gemfile
+Gemfile.lock
+Guardfile
+LICENSE.txt
+README.md
+composer.json
+composer.lock
+install-composer.sh
+phpunit.xml

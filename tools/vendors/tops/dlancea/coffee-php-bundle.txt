@@ -1,0 +1,6 @@
+Assetic/Filter/
+DependencyInjection/
+Resources/
+DlanceaCoffeePhpBundle.php
+README.md
+composer.json

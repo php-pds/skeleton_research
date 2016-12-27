@@ -1,0 +1,11 @@
+class/
+doc/
+etc/
+skel/
+test/
+.travis.yml
+AUTHORS
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

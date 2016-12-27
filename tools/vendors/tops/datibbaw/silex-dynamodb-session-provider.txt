@@ -1,0 +1,4 @@
+src/DynamoDbSession/
+LICENSE
+README.md
+composer.json

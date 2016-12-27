@@ -1,0 +1,10 @@
+Adapter/
+Singleton/
+Strategy/
+Tests/
+.travis.yml
+FibonacciInterface.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

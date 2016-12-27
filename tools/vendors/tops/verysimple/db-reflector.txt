@@ -1,0 +1,8 @@
+assets/sql/
+src/Verysimple/DB/
+tests/
+.gitignore
+README.md
+composer.json
+phpunit.xml
+phpunit_bootstrap.php

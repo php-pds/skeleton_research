@@ -1,0 +1,10 @@
+scripts/
+tests/
+.gitignore
+.travis.yml
+INSTALL
+LICENSE
+README.md
+URLify.php
+composer.json
+phpunit.xml

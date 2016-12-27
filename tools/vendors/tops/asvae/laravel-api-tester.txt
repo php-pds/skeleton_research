@@ -1,0 +1,13 @@
+config/
+resources/
+src/
+tests/
+.gitignore
+.travis.yml
+LICENSE.txt
+README.md
+changelog.md
+composer.json
+gulpfile.js
+package.json
+phpunit.xml

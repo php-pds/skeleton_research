@@ -1,0 +1,8 @@
+src/Fourt/
+tests/
+LICENSE.md
+README.md
+composer.json
+composer.lock
+phpunit
+phpunit.xml.dist

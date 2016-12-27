@@ -1,0 +1,8 @@
+Consul/
+bin/
+consul-configuration/
+.gitignore
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

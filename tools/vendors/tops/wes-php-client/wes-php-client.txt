@@ -1,0 +1,5 @@
+src/WesPHPClient/
+.gitignore
+README.md
+composer.json
+wesTest.php

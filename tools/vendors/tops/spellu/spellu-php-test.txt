@@ -1,0 +1,8 @@
+source-classmap/
+source-psr-0/Spellu/Test/
+source-psr-4/
+vendor/
+.gitignore
+composer.json
+helpers1.php
+helpers2.php

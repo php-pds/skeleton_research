@@ -1,0 +1,16 @@
+changeLogs/
+examples/
+mock/
+releases/
+src/
+test/
+.gitignore
+CONTRIBUTING.md
+INSTALL.md
+LICENSE
+NOTICE
+README.md
+amazon-config.default.php
+composer.json
+environment.php
+phpunit.xml

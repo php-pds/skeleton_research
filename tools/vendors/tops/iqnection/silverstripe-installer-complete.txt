@@ -1,0 +1,16 @@
+mysite/
+themes/mysite/
+.editorconfig
+.gitignore
+.htaccess
+CHANGELOG.md
+LICENSE.md
+README.md
+composer.json
+favicon.ico
+index.php
+install-frameworkmissing.html
+install.php
+nospam_ajax.php
+robots.txt
+web.config

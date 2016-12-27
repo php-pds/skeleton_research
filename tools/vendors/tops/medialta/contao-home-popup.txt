@@ -1,0 +1,8 @@
+assets/
+classes/
+config/
+dca/
+languages/
+templates/pop-up/
+README.md
+composer.json

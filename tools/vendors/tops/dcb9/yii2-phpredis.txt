@@ -1,0 +1,12 @@
+tests/
+.codeclimate.yml
+.editorconfig
+.gitignore
+.travis.yml
+Cache.php
+Connection.php
+README.md
+Session.php
+composer.json
+phpredis-vs-yii-redis.png
+phpunit.xml.dist

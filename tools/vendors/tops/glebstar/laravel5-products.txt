@@ -1,0 +1,5 @@
+database/migrations/
+src/
+views/
+README.md
+composer.json

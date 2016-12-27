@@ -1,0 +1,3 @@
+src/kuchar/smarthbase/
+README.md
+composer.json

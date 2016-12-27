@@ -1,0 +1,13 @@
+REXP/
+doc/
+tests/
+.gitignore
+Connection.php
+LICENCE
+Parser.php
+README
+README.md
+REXP.php
+RNative.php
+composer.json
+helpers.php

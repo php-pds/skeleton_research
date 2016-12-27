@@ -1,0 +1,7 @@
+DependencyInjection/
+Resources/
+Translation/
+Twig/
+DinecatI18nBundle.php
+README.md
+composer.json

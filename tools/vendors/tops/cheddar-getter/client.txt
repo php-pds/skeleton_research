@@ -1,0 +1,10 @@
+Client/
+Http/
+Response/
+example/
+.gitignore
+Client.php
+LICENSE
+README.markdown
+Response.php
+composer.json

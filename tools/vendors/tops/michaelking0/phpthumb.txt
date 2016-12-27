@@ -1,0 +1,7 @@
+apidocs/
+src/
+.gitignore
+README.md
+Rakefile
+composer.json
+config.yml

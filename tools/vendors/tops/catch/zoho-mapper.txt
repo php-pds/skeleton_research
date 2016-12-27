@@ -1,0 +1,10 @@
+src/
+.gitignore
+LICENSE
+README.md
+catch-zoho-mapper-autoload.php
+composer.json
+composer.lock
+test-stream2.php
+test-stream3.php
+test.php

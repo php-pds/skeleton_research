@@ -1,0 +1,7 @@
+DependencyInjection/
+Entity/
+Resources/
+Tests/Controller/
+KinwaeUserBundle.php
+README.markdown
+composer.json

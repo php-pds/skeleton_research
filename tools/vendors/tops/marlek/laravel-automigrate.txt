@@ -1,0 +1,7 @@
+spec/Marlek/LaravelAutomigrate/
+src/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json

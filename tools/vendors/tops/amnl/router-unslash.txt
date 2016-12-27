@@ -1,0 +1,8 @@
+DependencyInjection/
+EventListener/
+Resources/config/
+.gitignore
+AMNLRouterUnslashBundle.php
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,8 @@
+lib/
+tests/
+.gitignore
+CONTRIBUTING.md
+LICENSE
+README.md
+composer.json
+composer.lock

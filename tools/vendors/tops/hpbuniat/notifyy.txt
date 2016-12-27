@@ -1,0 +1,8 @@
+src/notifyy/
+tests/notifyy/
+.gitignore
+AUTHORS.txt
+LICENCE
+README.md
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,8 @@
+Command/
+DependencyInjection/
+Resources/config/
+Services/
+LICENSE
+README.md
+StaticTranslationsBundle.php
+composer.json

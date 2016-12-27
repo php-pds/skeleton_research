@@ -1,0 +1,15 @@
+Authors/
+Command/
+DependencyInjection/
+Exception/
+Renderer/
+Resources/
+Tests/
+Writer/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+ZakharovviHumansTxtBundle.php
+composer.json
+phpunit.xml.dist

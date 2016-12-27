@@ -1,0 +1,5 @@
+WildWestDomainsAPI/
+.gitignore
+Godaddy_WildWestDomainsAPI.php
+README.md
+composer.json

@@ -1,0 +1,12 @@
+examples/wordpress/
+src/Leadboxes/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+LICENSE.txt
+composer.json
+composer.lock
+phpunit.xml
+readme.md
+travis.yml

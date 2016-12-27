@@ -1,0 +1,8 @@
+src/Marvin85/Pagemanager/
+.gitignore
+.travis.yml
+LICENSE.md
+README.md
+TODO.md
+composer.json
+phpunit.xml

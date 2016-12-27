@@ -1,0 +1,4 @@
+src/PortScan/
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,12 @@
+behaviors/
+component/filesystem/
+db/
+filters/
+grid/
+helpers/
+model/
+validators/
+widgets/
+HtmlToTextParser.php
+PurifierParser.php
+composer.json

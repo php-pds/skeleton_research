@@ -1,0 +1,8 @@
+src/Moip/
+tests/
+.gitignore
+README.md
+boot.php
+composer.json
+documentacao_moip-php.pdf
+init.php

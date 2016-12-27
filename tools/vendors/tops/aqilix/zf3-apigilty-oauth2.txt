@@ -1,0 +1,15 @@
+config/
+data/
+docker/
+module/
+public/
+src/Apigility/
+.gitignore
+CONTRIBUTING.md
+Dockerfile
+README.md
+composer.json
+composer.lock
+docker-compose.yml
+phpcs.xml
+phpunit.xml.dist

@@ -1,0 +1,8 @@
+config/
+database/migrations/
+src/
+templateDoc/
+.gitignore
+LICENSE
+README.md
+composer.json

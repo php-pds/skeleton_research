@@ -1,0 +1,5 @@
+src/notFloran/SecurityChecker/
+.gitignore
+LICENSE
+README.md
+composer.json

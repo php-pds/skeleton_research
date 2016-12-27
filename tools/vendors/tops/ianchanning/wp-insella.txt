@@ -1,0 +1,10 @@
+content/
+.gitignore
+.htaccess
+LICENSE
+README.md
+composer.json
+index.php
+local-config-sample.php
+wp-cli.yml
+wp-config-skeleton.php

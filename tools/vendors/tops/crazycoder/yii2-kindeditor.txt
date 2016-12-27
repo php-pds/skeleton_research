@@ -1,0 +1,7 @@
+kindeditor/
+KindEditor.php
+KindEditorAssets.php
+LightAsset.php
+README.md
+composer.json
+license.txt

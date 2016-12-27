@@ -1,0 +1,16 @@
+bin/
+doc/
+examples/
+lib/
+test/
+travis/
+.coveralls.yml
+.gitignore
+.travis.yml
+CONTRIBUTING.md
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.full.xml
+phpunit.xml.dist

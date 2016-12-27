@@ -1,0 +1,4 @@
+lib/Verifalia/
+LICENSE
+README.md
+composer.json

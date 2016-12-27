@@ -1,0 +1,8 @@
+DateInterval/
+Resources/doc/
+Tests/
+LICENSE
+README.md
+SnrokiDateIntervalBundle.php
+composer.json
+phpunit.xml.dist

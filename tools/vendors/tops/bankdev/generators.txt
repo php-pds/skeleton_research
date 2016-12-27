@@ -1,0 +1,5 @@
+src/BankDev/Generators/
+tests/
+composer.json
+phpunit.xml
+readme.md

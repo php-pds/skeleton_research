@@ -1,0 +1,4 @@
+publish/
+src/
+README
+composer.json

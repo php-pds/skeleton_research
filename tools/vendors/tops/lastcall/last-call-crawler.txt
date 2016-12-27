@@ -1,0 +1,16 @@
+bin/
+docs/
+src/
+tests/
+.editorconfig
+.gitattributes
+.gitignore
+.php_cs
+.sami.php
+.scrutinizer.yml
+.travis.yml
+LICENSE
+Makefile
+README.md
+composer.json
+phpunit.xml

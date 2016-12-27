@@ -1,0 +1,3 @@
+Stackit/
+LICENSE
+composer.json

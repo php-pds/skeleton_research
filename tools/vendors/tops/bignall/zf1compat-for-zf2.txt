@@ -1,0 +1,5 @@
+src/ZF1CompatForZF2/Zend/Session/SaveHandler/
+.gitignore
+LICENSE.md
+README.md
+composer.json

@@ -1,0 +1,8 @@
+benchmarks/
+library/iFixit/
+tests/
+.travis.yml
+.travisphpconfig.ini
+LICENSE
+README.md
+composer.json

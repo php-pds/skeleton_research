@@ -1,0 +1,12 @@
+bin/
+lib/
+tests/
+.env.example
+.gitignore
+Gruntfile.js
+README.md
+composer.json
+composer.lock
+package.json
+phpunit.xml
+simple-stripe.php

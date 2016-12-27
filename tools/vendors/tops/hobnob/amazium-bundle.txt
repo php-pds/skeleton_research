@@ -1,0 +1,6 @@
+DependencyInjection/
+Resources/
+HobnobAmaziumBundle.php
+LICENSE
+README.md
+composer.json

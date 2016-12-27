@@ -1,0 +1,10 @@
+src/CUser/
+test/
+.travis.yml
+LICENSE.txt
+README.md
+autoloader.php
+composer.json
+composer.lock
+config.php
+phpunit.xml.dist

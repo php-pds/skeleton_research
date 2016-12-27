@@ -1,0 +1,15 @@
+bin/
+src/
+test/
+themes/
+.gitignore
+.travis.yml
+LICENSE
+Makefile
+README.md
+bootstrap.php
+box.json
+commands.php
+composer.json
+epilog
+phpunit.xml.dist

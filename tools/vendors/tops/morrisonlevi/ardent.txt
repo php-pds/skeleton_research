@@ -1,0 +1,13 @@
+src/
+test/
+.gitignore
+.travis.yml
+LICENSE
+Makefile
+README.md
+composer.json
+config.mk
+make-loader.php
+make-phar.php
+phpunit.xml
+sources.mk

@@ -1,0 +1,10 @@
+defaults/
+handlers/
+meta/
+tasks/
+templates/
+tests/
+vars/
+.travis.yml
+README.md
+composer.json

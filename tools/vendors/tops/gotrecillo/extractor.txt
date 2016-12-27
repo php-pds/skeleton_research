@@ -1,0 +1,7 @@
+spec/
+src/Gotrecillo/Extractor/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock

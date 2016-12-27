@@ -1,0 +1,14 @@
+DependencyInjection/
+Entity/
+Exception/
+Provider/
+Resources/config/
+Tests/
+.coveralls.yml
+.scrutinizer.yml
+.travis.yml
+KNoneTranslateBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

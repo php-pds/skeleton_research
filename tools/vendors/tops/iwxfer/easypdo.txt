@@ -1,0 +1,5 @@
+resources/
+src/EasyPDO/
+.gitignore
+README.md
+composer.json

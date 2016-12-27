@@ -1,0 +1,9 @@
+Worker/
+bin/
+commands/
+lib/
+.gitignore
+README.md
+RResque.php
+RResqueAutoloader.php
+composer.json

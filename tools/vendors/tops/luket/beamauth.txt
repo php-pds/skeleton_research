@@ -1,0 +1,9 @@
+js/
+less/forum/
+migrations/
+scripts/
+src/
+.gitignore
+LICENSE
+bootstrap.php
+composer.json

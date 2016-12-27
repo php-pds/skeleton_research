@@ -1,0 +1,5 @@
+src/Magister/
+.gitignore
+LICENSE
+composer.json
+readme.md

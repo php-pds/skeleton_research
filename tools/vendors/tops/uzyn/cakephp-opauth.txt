@@ -1,0 +1,8 @@
+Config/
+Controller/
+Strategy/
+Vendor/
+.gitignore
+.gitmodules
+LICENSE
+README.md

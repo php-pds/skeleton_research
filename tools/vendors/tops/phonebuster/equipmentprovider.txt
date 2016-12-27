@@ -1,0 +1,12 @@
+nbproject/
+src/
+tests/
+.gitattributes
+.gitignore
+README.md
+composer.json
+composer.lock
+dotdeb.gpg
+phpunit.xml
+phpunit.xml.dist
+phpunit.xml.save

@@ -1,0 +1,10 @@
+Controller/
+DataCollector/
+DependencyInjection/
+Resources/
+web/
+.gitignore
+CacheClearToolbar.php
+README.md
+composer.json
+composer.phar

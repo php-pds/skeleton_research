@@ -1,0 +1,10 @@
+src/
+tests/Akens/LaravelHelpers/Models/
+.gitignore
+LICENSE
+README.md
+apigen.neon
+composer.json
+phpunit.xml
+sami-config.php
+sonar-project.properties

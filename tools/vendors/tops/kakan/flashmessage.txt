@@ -1,0 +1,11 @@
+css/
+src/CFlashMessage/
+test/
+.gitattributes
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+autoloader.php
+composer.json

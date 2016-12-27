@@ -1,0 +1,5 @@
+src/TripleI/Timer/
+LICENSE
+README.md
+composer.json
+sonar-project.properties

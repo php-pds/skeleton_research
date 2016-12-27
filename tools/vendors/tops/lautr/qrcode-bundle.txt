@@ -1,0 +1,14 @@
+Controller/
+DependencyInjection/
+Endroid/Bundle/
+Resources/config/
+Tests/
+Twig/Extension/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+EndroidQrCodeBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

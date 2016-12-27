@@ -1,0 +1,5 @@
+lib/Fabulator/Endomondo/
+.gitignore
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,5 @@
+example/
+src/abeautifulsite/
+.gitignore
+composer.json
+readme.md

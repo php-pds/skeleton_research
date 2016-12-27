@@ -1,0 +1,11 @@
+config/
+example/
+src/Amqp/
+tests/
+.gitignore
+CHANGELOG.md
+LICENSE
+README.md
+TODO
+composer.json
+phpunit.xml

@@ -1,0 +1,8 @@
+src/stringEncode/
+tests/
+.travis.yml
+CONTRIBUTING.md
+README.md
+composer.json
+phpunit.php
+phpunit.xml

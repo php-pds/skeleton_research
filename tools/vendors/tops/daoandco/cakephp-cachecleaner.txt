@@ -1,0 +1,6 @@
+config/
+src/Shell/
+.gitignore
+LICENSE
+README.md
+composer.json

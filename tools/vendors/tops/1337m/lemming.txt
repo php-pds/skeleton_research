@@ -1,0 +1,10 @@
+.github/
+config/
+locale/
+src/
+tests/
+.gitignore
+README.md
+app.php
+composer.json
+composer.lock

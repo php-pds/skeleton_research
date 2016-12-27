@@ -1,0 +1,14 @@
+docs/
+src/DataURI/
+tests/
+.gitignore
+.travis.yml
+CHANGELOG.md
+README.md
+bootstrap.php
+buildAPI.sh
+composer.json
+license
+phpunit.xml.dist
+sami_configuration.php
+vendors.win.php

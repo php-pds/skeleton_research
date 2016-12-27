@@ -1,0 +1,8 @@
+application/
+public/
+vendor/
+.gitattributes
+.htaccess
+composer.json
+composer.lock
+index.php

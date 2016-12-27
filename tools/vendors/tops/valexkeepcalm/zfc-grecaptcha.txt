@@ -1,0 +1,6 @@
+config/
+src/GReCaptcha/
+LICENCE
+Module.php
+README.md
+composer.json

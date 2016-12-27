@@ -1,0 +1,9 @@
+code/
+.editorconfig
+.scrutinizer.yml
+CHANGELOG.md
+CONTRIBUTING.md
+LICENSE.md
+README.md
+_config.php
+composer.json

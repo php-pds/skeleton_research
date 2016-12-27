@@ -1,0 +1,10 @@
+license/
+public/
+src/
+test/
+.gitignore
+.travis.yml
+LICENCE.md
+README.md
+composer.json
+composer.lock

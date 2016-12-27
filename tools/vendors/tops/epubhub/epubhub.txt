@@ -1,0 +1,7 @@
+build/
+lib/EPubHub/
+source/
+templates/Twig/FixedLayout/
+.gitignore
+README.md
+composer.json

@@ -1,0 +1,7 @@
+src/BFoxwell/Votifier/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json
+server.example.php

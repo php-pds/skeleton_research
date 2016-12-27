@@ -1,0 +1,9 @@
+features/
+spec/Generators/Type/
+src/
+.gitignore
+README.md
+behat.yml
+composer.json
+composer.lock
+phpspec.yml

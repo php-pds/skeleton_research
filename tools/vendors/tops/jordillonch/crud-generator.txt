@@ -1,0 +1,15 @@
+Command/
+Controller/
+DependencyInjection/
+Generator/
+Resources/
+Tests/
+.gitignore
+.travis.yml
+JordiLlonchCrudGeneratorBundle.php
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist
+screenshot.png

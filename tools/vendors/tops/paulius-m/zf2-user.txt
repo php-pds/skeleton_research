@@ -1,0 +1,8 @@
+config/
+sql/
+src/User/
+tests/
+view/user/
+Module.php
+README.md
+composer.json

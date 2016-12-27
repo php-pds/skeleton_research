@@ -1,0 +1,9 @@
+makefont/
+src/fpdf/
+tests/
+tutorial/
+CONTRIBUTING.md
+README.md
+composer.json
+install.txt
+license.txt

@@ -1,0 +1,4 @@
+src/IntercomPhp/
+.gitignore
+README.md
+composer.json

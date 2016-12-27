@@ -1,0 +1,5 @@
+Classes/
+Configuration/
+Tests/Functional/
+README.md
+composer.json

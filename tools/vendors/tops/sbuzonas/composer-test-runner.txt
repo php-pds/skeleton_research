@@ -1,0 +1,9 @@
+src/
+.editorconfig
+.gitattributes
+.gitignore
+.php_cs.dist
+.travis-local.sh
+.travis.yml
+LICENSE
+composer.json

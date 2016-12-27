@@ -1,0 +1,7 @@
+app/
+libs/
+log/
+temp/
+www/
+composer.json
+readme.md

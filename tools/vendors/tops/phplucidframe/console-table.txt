@@ -1,0 +1,9 @@
+src/LucidFrame/Console/
+tests/LucidFrame/Console/
+.gitignore
+LICENSE
+README.md
+bootstrap.php
+composer.json
+example.php
+phpunit.xml

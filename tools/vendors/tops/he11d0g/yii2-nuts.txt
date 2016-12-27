@@ -1,0 +1,6 @@
+assets/
+widgets/
+Elements.php
+Widget.php
+composer.json
+readme.md

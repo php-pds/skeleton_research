@@ -1,0 +1,11 @@
+Google/Api/Ads/
+.gitignore
+COPYING
+ChangeLog.md
+Dummy.php.txt
+LICENSE
+README
+README.md
+classConvertor.php
+composer.json
+test.php

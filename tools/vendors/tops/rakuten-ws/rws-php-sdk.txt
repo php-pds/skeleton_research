@@ -1,0 +1,13 @@
+lib/RakutenRws/
+sample/
+test/
+.gitattributes
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.en.md
+README.md
+autoload.php
+composer.json
+phpunit.xml.dist

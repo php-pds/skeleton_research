@@ -1,0 +1,8 @@
+Qmaker/
+tests/Qmaker/
+.gitignore
+LICENSE
+README.md
+bootstrap.php
+composer.json
+composer.lock

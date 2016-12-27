@@ -1,0 +1,10 @@
+bin/
+etc/
+library/PhpSsrsUtils/
+.gitattributes
+.gitignore
+LICENSE
+README.md
+ReportService2010.wsdl
+composer.json
+composer.lock

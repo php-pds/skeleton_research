@@ -1,0 +1,8 @@
+assets/contao/css/
+system/modules/fa-list-types/
+.gitignore
+Gruntfile.js
+LICENSE
+README.md
+composer.json
+package.json

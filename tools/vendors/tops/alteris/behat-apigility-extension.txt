@@ -1,0 +1,8 @@
+features/
+src/
+.gitignore
+LICENSE.txt
+README.md
+behat.yml.dist
+composer.json
+composer.lock

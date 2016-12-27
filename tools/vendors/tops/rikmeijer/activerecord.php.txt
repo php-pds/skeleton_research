@@ -1,0 +1,15 @@
+.idea/
+.settings/
+build/
+src/
+tests/
+.buildpath
+.gitignore
+.project
+README.md
+bootstrap.php
+build.xml
+composer.json
+composer.lock
+database.sqlite
+generate.php

@@ -1,0 +1,14 @@
+adm/style/
+captcha/
+config/
+language/
+migrations/
+styles/prosilver/
+tests/unit/
+travis/
+.gitignore
+.travis.yml
+composer.json
+ext.php
+license.txt
+phpunit.xml.dist

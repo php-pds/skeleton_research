@@ -1,0 +1,9 @@
+docs/
+src/ElasticSearch/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.markdown
+composer.json
+runtests.sh

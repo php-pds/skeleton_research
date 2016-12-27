@@ -1,0 +1,7 @@
+src/Pedic/
+tests/PedicTest/
+.gitignore
+LICENSE
+README.rst
+composer.json
+phpunit.xml.dist

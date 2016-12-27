@@ -1,0 +1,5 @@
+src/Philip/Plugin/
+.gitignore
+LICENSE
+README.md
+composer.json

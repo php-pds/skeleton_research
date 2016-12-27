@@ -1,0 +1,14 @@
+Commands/
+Configuration/
+Events/Commands/
+Generators/
+Guessers/
+Providers/
+Resources/
+Setup/
+Tests/
+.gitignore
+.travis.yml
+README.md
+composer.json
+plugin.json

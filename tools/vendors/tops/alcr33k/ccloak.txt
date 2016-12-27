@@ -1,0 +1,13 @@
+config/
+move-to-webroot/
+src/Cloak/
+test/
+vendor/
+.scrutinizer.yml
+.travis.yml
+LICENCE.txt
+autoloader.php
+composer.json
+composer.lock
+phpunit.xml.dist
+readme.md

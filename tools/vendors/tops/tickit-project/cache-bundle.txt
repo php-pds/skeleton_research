@@ -1,0 +1,16 @@
+Cache/
+DependencyInjection/
+Engine/
+Exception/
+Logger/
+Options/
+Resources/
+Tests/
+Types/
+Util/
+.gitignore
+.travis.yml
+README.md
+TickitCacheBundle.php
+composer.json
+phpunit.xml.dist

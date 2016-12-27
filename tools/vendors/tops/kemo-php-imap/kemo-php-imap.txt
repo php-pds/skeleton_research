@@ -1,0 +1,6 @@
+src/KemoPhpImap/
+.gitattributes
+.gitignore
+LICENSE
+README.md
+composer.json

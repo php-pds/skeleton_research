@@ -1,0 +1,6 @@
+DependencyInjection/
+Resources/
+Tests/Controller/
+Twig/
+BrixTemplateBundle.php
+composer.json

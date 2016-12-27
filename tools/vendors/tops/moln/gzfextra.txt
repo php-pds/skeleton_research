@@ -1,0 +1,8 @@
+bin/
+config/
+src/Gzfextra/
+view/gzfextra/
+.gitignore
+LICENSE
+README.md
+composer.json

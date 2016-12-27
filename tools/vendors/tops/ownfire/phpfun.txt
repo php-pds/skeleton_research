@@ -1,0 +1,7 @@
+func/
+lib/
+.gitignore
+PHPFun.php
+README
+composer.json
+init.php

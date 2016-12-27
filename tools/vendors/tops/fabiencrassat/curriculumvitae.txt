@@ -1,0 +1,13 @@
+Controller/
+DependencyInjection/
+Entity/
+Resources/
+Tests/
+Utility/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+FabienCrassatCurriculumVitaeBundle.php
+README.md
+composer.json
+phpunit.xml.dist

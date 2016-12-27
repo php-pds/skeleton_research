@@ -1,0 +1,6 @@
+.gitattributes
+.gitignore
+EnhSplitterAsset.php
+LICENSE
+README.md
+composer.json

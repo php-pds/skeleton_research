@@ -1,0 +1,4 @@
+src/Gruntstyle/Gruntcurl/
+.DS_Store
+README.md
+composer.json

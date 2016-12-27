@@ -1,0 +1,12 @@
+config/
+src/
+tests/
+.gitignore
+.scrutinizer.yml
+README.md
+circle.yml
+composer.json
+composer.lock
+phpcs.xml
+phpspec.yml
+phpunit.xml

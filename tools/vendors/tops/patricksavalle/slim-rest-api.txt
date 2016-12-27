@@ -1,0 +1,9 @@
+Infra/
+Middleware/
+.gitignore
+README.md
+SlimRestApi.php
+composer.json
+composer.lock
+composer.phar
+slim-rest-api.ini

@@ -1,0 +1,8 @@
+Elephantly/KahlanBundle/
+doc/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.phar
+couscous.yml

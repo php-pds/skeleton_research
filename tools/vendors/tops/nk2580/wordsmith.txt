@@ -1,0 +1,8 @@
+docs/
+src/
+.gitignore
+LISENCE.txt
+README.md
+apigen.yaml
+composer.json
+composer.lock

@@ -1,0 +1,4 @@
+src/GSS/
+LICENSE
+README.md
+composer.json

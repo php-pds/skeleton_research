@@ -1,0 +1,9 @@
+application/
+library/Example/
+public/
+resource/l10n/
+.gitignore
+README.md
+composer.json
+composer.lock
+composer.phar

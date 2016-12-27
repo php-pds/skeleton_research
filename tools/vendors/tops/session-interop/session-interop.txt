@@ -1,0 +1,4 @@
+src/Interop/Session/
+LICENSE
+README.md
+composer.json

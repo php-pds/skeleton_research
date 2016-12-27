@@ -1,0 +1,6 @@
+DependencyInjection/
+Model/
+Repository/
+Resources/config/
+TessiLabsObselBundle.php
+composer.json

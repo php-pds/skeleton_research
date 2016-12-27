@@ -1,0 +1,9 @@
+docs/
+src/Elastic/
+test/Elastic/
+vendor/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock

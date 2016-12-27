@@ -1,0 +1,6 @@
+assets/
+LICENSE
+README.md
+TagsInput.php
+TagsInputAsset.php
+composer.json

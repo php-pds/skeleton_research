@@ -1,0 +1,9 @@
+resources/
+src/Amara/Varcon/
+tests/Amara/Varcon/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

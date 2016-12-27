@@ -1,0 +1,6 @@
+test/
+.gitignore
+composer.json
+imageMetadataParser.php
+license.txt
+readme.markdown

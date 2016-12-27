@@ -1,0 +1,16 @@
+.github/
+data/
+lib/
+tests/
+.coveralls.yml
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+VERSION
+build.php
+composer.json
+init.php
+phpunit.no_autoload.xml
+phpunit.xml

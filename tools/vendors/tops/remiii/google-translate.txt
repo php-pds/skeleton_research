@@ -1,0 +1,14 @@
+.idea/
+bin/
+lib/
+spec/
+.gitignore
+.rvmrc
+CHANGES
+Gemfile
+Gemfile.lock
+README
+Rakefile
+VERSION
+composer.json
+google-translate.gemspec

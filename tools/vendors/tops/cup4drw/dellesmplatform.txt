@@ -1,0 +1,3 @@
+src/DellESMPlatform/
+README.md
+composer.json

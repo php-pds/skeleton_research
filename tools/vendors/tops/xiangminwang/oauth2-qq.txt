@@ -1,0 +1,6 @@
+src/
+.gitignore
+History.md
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,12 @@
+Command/
+DependencyInjection/
+PortCommand/
+Resources/config/
+Tests/
+erl/
+.gitignore
+LICENSE
+README.md
+YsToolsErlangPortBundle.php
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,12 @@
+sample/default-client/
+spec/Superdesk/ContentApiSdk/
+src/Superdesk/ContentApiSdk/
+.codeclimate.yml
+.gitignore
+.scrutinizer.yml
+.sensiolabs.yml
+.travis.yml
+AUTHORS
+LICENSE
+README.md
+composer.json

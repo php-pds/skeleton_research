@@ -1,0 +1,11 @@
+lib/Illuminate/
+src/
+tests/
+.gitattributes
+.gitignore
+LICENSE.txt
+README.md
+composer.json
+example.php
+package.json
+phpunit.xml

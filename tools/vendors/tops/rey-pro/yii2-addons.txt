@@ -1,0 +1,6 @@
+dist/pe-icon-7-stroke/
+src/
+.gitignore
+LICENSE
+README.md
+composer.json

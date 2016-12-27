@@ -1,0 +1,7 @@
+src/maarky/Jwt/
+test/
+.gitignore
+README.md
+Vagrantfile
+composer.json
+vagrant.sh

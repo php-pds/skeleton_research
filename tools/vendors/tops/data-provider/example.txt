@@ -1,0 +1,9 @@
+src/DataProvider/Example/
+tests/DataProvider/Example/Test/
+.codeclimate.yml
+.gitignore
+.travis.yml
+README.md
+circle.yml
+composer.json
+composer.lock

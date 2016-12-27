@@ -1,0 +1,6 @@
+Block/
+etc/
+view/frontend/templates/
+README.md
+composer.json
+registration.php

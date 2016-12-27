@@ -1,0 +1,6 @@
+classes/
+config/
+vendor/
+.gitmodules
+composer.json
+readme.md

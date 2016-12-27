@@ -1,0 +1,8 @@
+examples/
+lib/
+tests/
+LICENSE
+README.md
+autoloader.php
+cli.php
+composer.json

@@ -1,0 +1,13 @@
+cli/
+doc/
+iveeCore/
+iveeCrest/
+sql/
+test/
+www/
+.gitignore
+LICENSE
+README.md
+RELEASENOTES.md
+composer.json
+iveeCoreInit.php

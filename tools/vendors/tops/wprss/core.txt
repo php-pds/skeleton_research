@@ -1,0 +1,14 @@
+css/
+fonts/
+images/
+includes/
+js/
+languages/
+nbproject/
+templates/
+test/diag/Aventura/Wprss/Core/DiagTest/
+.gitignore
+composer.json
+readme.txt
+uninstall.php
+wp-rss-aggregator.php

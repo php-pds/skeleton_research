@@ -1,0 +1,8 @@
+config/
+database/migrations/
+src/
+.editorconfig
+CHANGELOG.md
+LICENSE.md
+README.md
+composer.json

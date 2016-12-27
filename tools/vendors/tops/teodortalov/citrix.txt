@@ -1,0 +1,4 @@
+src/Citrix/
+README.md
+composer.json
+examples.php

@@ -1,0 +1,6 @@
+app/
+src/
+web/
+.gitignore
+LICENSE
+composer.json

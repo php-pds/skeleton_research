@@ -1,0 +1,16 @@
+Command/
+DataCollector/
+DependencyInjection/
+Event/
+MemoryChecker/
+Provider/
+RabbitMq/
+Resources/
+Tests/
+.gitignore
+.travis.yml
+CHANGELOG
+OldSoundRabbitMqBundle.php
+README.md
+composer.json
+phpunit.xml.dist

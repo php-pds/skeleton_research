@@ -1,0 +1,8 @@
+config/
+languages/movieDatabase/
+sql/vendorname-moviedatabase/site/
+src/VendorName/MovieDatabase/
+view/vendor-name/movie-database/
+.gitignore
+Module.php
+composer.json

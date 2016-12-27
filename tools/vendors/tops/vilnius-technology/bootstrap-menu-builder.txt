@@ -1,0 +1,8 @@
+src/
+.coveralls.yml
+.gitignore
+.scrutinizer.yml
+.travis.yml
+composer.json
+phpunit.xml.dist
+readme.md

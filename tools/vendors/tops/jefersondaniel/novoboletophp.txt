@@ -1,0 +1,11 @@
+assets/images/
+exemplos/
+src/NovoBoletoPHP/
+templates/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

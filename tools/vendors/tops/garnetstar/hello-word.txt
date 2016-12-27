@@ -1,0 +1,7 @@
+README
+composer.json
+master tree.tyt
+predPrvni.txt
+preprvnidva.tzt
+start.txt
+testssh

@@ -1,0 +1,12 @@
+config/
+data/
+docs/
+install/
+module/core/
+public_html/
+.gitignore
+README.md
+cli-config.php
+composer.json
+composer.lock
+init_autoloader.php

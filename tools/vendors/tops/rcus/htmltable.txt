@@ -1,0 +1,11 @@
+src/HTMLTable/
+test/
+webroot/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE.txt
+README.md
+autoloader.php
+composer.json
+phpunit.xml

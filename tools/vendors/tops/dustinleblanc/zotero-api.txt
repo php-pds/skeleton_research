@@ -1,0 +1,7 @@
+spec/
+src/
+.gitignore
+RoboFile.php
+composer.json
+composer.lock
+phpspec.yml

@@ -1,0 +1,6 @@
+classes/Htdsa/
+examples/
+.gitignore
+LICENSE
+composer.json
+readme.textile

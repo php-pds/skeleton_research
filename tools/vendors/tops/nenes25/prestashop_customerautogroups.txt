@@ -1,0 +1,3 @@
+customerautogroups/
+README.md
+composer.json

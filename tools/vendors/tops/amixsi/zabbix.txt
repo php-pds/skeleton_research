@@ -1,0 +1,7 @@
+src/Amixsi/Zabbix/
+tests/Amixsi/Zabbix/
+.editorconfig
+.gitignore
+README.md
+composer.json
+phpunit.xml.dist

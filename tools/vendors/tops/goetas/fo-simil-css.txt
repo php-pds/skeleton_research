@@ -1,0 +1,6 @@
+examples/
+lib/Goetas/FoSimilCss/
+xsd/
+.gitignore
+README.md
+composer.json

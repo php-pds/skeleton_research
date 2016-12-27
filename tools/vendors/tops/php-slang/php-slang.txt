@@ -1,0 +1,10 @@
+src/PhpSlang/
+test/
+.gitignore
+.travis.yml
+README.md
+bootstrap.php
+composer.json
+coverage-checker.php
+params.json
+phpunit.xml.dist

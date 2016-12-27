@@ -1,0 +1,5 @@
+smarty_plugin/
+src/
+LICENSE
+README.md
+composer.json

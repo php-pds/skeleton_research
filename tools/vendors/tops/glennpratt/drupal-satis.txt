@@ -1,0 +1,6 @@
+bin/
+src/DrupalComposerRepo/
+.gitignore
+README.md
+composer.json
+composer.lock

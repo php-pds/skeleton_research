@@ -1,0 +1,8 @@
+Resources/nginx-config/
+jorisros/nginxparser/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,9 @@
+logs/
+public/
+src/
+.gitignore
+CONTRIBUTING.md
+README.md
+composer.json
+composer.lock
+environment.example.ini

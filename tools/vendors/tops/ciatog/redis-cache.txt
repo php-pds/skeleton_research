@@ -1,0 +1,8 @@
+Libs/Ciatog/
+Tests/
+.coveralls.yml
+.gitignore
+.travis.yml
+LICENSE.txt
+README.markdown
+composer.json

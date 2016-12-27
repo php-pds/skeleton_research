@@ -1,0 +1,9 @@
+src/
+tests/
+.gitignore
+README.md
+composer.json
+composer.lock
+license.md
+phpunit.xml
+sonar-project.properties

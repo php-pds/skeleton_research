@@ -1,0 +1,6 @@
+demo/application/
+src/CI_Swoole/
+.gitignore
+README.md
+Swoole_Doc.php
+composer.json

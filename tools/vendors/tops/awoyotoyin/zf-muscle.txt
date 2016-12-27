@@ -1,0 +1,8 @@
+config/
+public/zf-muscle/
+src/ZfMuscle/
+view/
+.gitignore
+Module.php
+README.md
+composer.json

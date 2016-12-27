@@ -1,0 +1,12 @@
+app/
+migrations/
+resources/
+web/
+.env.example
+.gitignore
+README.md
+commands.php
+composer.json
+console.php
+gulpfile.js
+package.json

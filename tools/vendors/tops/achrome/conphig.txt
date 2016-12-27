@@ -1,0 +1,13 @@
+src/Conphig/
+tests/
+.coveralls.yml
+.editorconfig
+.gitignore
+.travis.yml
+Gruntfile.js
+LICENSE
+README.md
+autoload.php
+composer.json
+package.json
+phpunit.xml

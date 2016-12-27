@@ -1,0 +1,4 @@
+src/Paraffin/
+test/
+README.markdown
+composer.json

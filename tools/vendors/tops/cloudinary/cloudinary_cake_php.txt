@@ -1,0 +1,6 @@
+CloudinaryCake/
+samples/
+.gitignore
+CloudinaryCakeLoader.php
+README.md
+composer.json

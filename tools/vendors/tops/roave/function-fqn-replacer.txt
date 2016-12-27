@@ -1,0 +1,14 @@
+benchmark/
+src/
+test-asset/
+test/
+.gitignore
+.travis.yml
+CONTRIBUTING.md
+LICENSE
+README.md
+composer.json
+function-fqn-replacer
+humbug.json.dist
+phpbench.json
+phpunit.xml.dist

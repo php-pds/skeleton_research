@@ -1,0 +1,6 @@
+src/ParsePHP/
+tests/
+.gitignore
+README.md
+composer.json
+parseConfig.sample.php

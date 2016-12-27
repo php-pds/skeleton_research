@@ -1,0 +1,10 @@
+lib/Authorizit/
+test/Authorizit/
+.gitignore
+.travis.yml
+README
+README.md
+UNLICENSE
+composer.json
+composer.lock
+phpunit.xml

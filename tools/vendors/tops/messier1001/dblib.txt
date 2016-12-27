@@ -1,0 +1,6 @@
+.idea/
+src/Messier/DBLib/
+.gitignore
+LICENSE
+README.md
+composer.json

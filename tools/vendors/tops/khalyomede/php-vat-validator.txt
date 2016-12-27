@@ -1,0 +1,7 @@
+data/
+example/
+src/
+vendor/
+LICENSE
+README.md
+composer.json

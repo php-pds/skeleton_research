@@ -1,0 +1,7 @@
+.idea/
+config/
+src/GPRCielo/
+view/
+.gitignore
+Module.php
+composer.json

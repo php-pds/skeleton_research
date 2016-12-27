@@ -1,0 +1,4 @@
+src/MJErwin/Clockwork/
+.gitignore
+README.md
+composer.json

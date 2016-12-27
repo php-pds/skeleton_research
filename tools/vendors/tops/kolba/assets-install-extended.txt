@@ -1,0 +1,6 @@
+Command/
+Resources/doc/
+.gitignore
+KolbaAssetsInstallExtendedBundle.php
+README.md
+composer.json

@@ -1,0 +1,6 @@
+config/
+src/UrlFromObject/
+.gitignore
+Module.php
+README.md
+composer.json

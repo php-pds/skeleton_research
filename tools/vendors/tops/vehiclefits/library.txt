@@ -1,0 +1,13 @@
+bin/
+library/VF/
+tests/VF/
+vfAjaxTests/
+.gitignore
+.travis.yml
+README.md
+VF_LICENSE.txt
+bootstrap-tests.php
+composer.json
+config.default.ini
+phpunit.xml.dist
+vfconfig.default.php

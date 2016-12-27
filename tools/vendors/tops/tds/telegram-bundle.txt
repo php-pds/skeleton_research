@@ -1,0 +1,8 @@
+Bot/
+DependencyInjection/
+Resources/
+.gitignore
+LICENCE
+README.md
+TDSTelegramBundle.php
+composer.json

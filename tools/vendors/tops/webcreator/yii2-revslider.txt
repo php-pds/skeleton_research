@@ -1,0 +1,8 @@
+.idea/
+assets/
+models/
+views/
+README.md
+SliderAsset.php
+Widget.php
+composer.json

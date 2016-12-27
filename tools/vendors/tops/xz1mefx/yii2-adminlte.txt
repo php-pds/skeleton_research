@@ -1,0 +1,11 @@
+assets/
+examples/
+helpers/
+web/
+widgets/
+.gitignore
+AdminLTE-master.zip
+LICENSE.md
+README.md
+_config.yml
+composer.json

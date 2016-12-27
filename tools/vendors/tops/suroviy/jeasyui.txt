@@ -1,0 +1,6 @@
+config/jetcms/
+src/
+.gitignore
+LICENSE
+composer.json
+routes.php

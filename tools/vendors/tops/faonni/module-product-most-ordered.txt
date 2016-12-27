@@ -1,0 +1,8 @@
+Block/
+Model/ResourceModel/Product/
+etc/
+view/frontend/
+LICENSE.txt
+README.md
+composer.json
+registration.php

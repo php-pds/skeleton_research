@@ -1,0 +1,4 @@
+public/
+src/
+tests/
+composer.json

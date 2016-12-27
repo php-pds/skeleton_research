@@ -1,0 +1,6 @@
+config/
+src/BorisZF2/Controller/
+.gitignore
+Module.php
+README.md
+composer.json

@@ -1,0 +1,9 @@
+Cas/
+Security/
+.gitignore
+EsnGalaxyAuthServiceProvider.php
+LICENSE
+README.md
+composer.json
+composer.lock
+todo.md

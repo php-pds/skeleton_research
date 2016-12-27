@@ -1,0 +1,8 @@
+config/
+src/
+tests/
+.gitignore
+README.md
+client.php
+composer.json
+server.php

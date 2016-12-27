@@ -1,0 +1,10 @@
+Contracts/
+DependencyInjection/
+Resources/
+Service/
+Tests/
+.gitignore
+DugunImageBundle.php
+README.md
+composer.json
+phpunit.xml

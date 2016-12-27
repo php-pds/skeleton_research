@@ -1,0 +1,4 @@
+src/BrassTacks/
+.gitignore
+README.md
+composer.json

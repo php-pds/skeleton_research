@@ -1,0 +1,15 @@
+src/lib/manrog/
+tests/unit/
+.travis.yml
+CHANGELOG.md
+CONTRIBUTING.md
+CONTRIBUTOR_CODE_OF_CONDUCT.md
+LICENSE
+README.md
+build.xml
+composer.json
+composer.lock
+phpdox.xml
+phpmetrics.yml
+phpunit.xml
+phpunit.xsd

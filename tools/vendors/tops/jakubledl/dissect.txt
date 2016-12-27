@@ -1,0 +1,12 @@
+bin/
+docs/
+src/Dissect/
+tests/
+.gitignore
+.travis.yml
+CHANGELOG.md
+README.md
+TODO.md
+UNLICENSE
+composer.json
+phpunit.xml

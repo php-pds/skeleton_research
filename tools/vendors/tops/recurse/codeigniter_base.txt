@@ -1,0 +1,6 @@
+application/
+skin/
+.gitignore
+README.md
+composer.json
+composer.lock

@@ -1,0 +1,8 @@
+spec/Bonsi/Workalongs/Presenters/
+src/Bonsi/Workalongs/Presenters/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpspec.yml

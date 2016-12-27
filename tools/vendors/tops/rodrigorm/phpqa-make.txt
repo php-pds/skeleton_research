@@ -1,0 +1,12 @@
+recipes/
+tests/
+.editorconfig
+.gitignore
+LICENSE
+Makefile
+README.md
+composer.json
+humbug.json.dist
+phpcs.xml
+phpmd.xml
+phpunit.xml.dist

@@ -1,0 +1,7 @@
+FullSilexAdmin/
+public/resources/
+resources/views/admin/
+.gitignore
+README.md
+composer.json
+composer.lock

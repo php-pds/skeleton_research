@@ -1,0 +1,9 @@
+spec/
+src/
+.gitignore
+.styleci.yml
+.travis.yml
+LICENSE.md
+README.md
+composer.json
+phpspec.yml

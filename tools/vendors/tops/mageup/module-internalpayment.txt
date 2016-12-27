@@ -1,0 +1,8 @@
+Model/Payment/
+etc/
+i18n/
+LICENSE
+LICENSE.txt
+README.md
+composer.json
+registration.php

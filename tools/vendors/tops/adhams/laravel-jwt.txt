@@ -1,0 +1,5 @@
+src/
+.env.example
+.gitattributes
+.gitignore
+composer.json

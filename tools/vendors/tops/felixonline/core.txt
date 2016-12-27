@@ -1,0 +1,13 @@
+lib/
+migrations/
+src/FelixOnline/
+templates/
+tests/
+.gitignore
+.travis.yml
+.vimrc
+LICENSE
+README.md
+composer.json
+constants.php
+phpunit.xml

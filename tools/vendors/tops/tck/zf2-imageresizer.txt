@@ -1,0 +1,17 @@
+build/
+config/
+data/font/
+src/TckImageResizer/
+test/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE.txt
+Module.php
+README.md
+autoload_classmap.php
+autoload_function.php
+autoload_register.php
+build.xml
+composer.json
+phpunit.xml

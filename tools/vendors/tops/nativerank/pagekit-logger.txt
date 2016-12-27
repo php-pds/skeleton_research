@@ -1,0 +1,15 @@
+app/
+logger/
+src/
+views/
+.gitignore
+CHANGELOG.md
+LICENSE.md
+README.md
+composer.json
+gulpfile.js
+index.php
+log.svg
+package.json
+scripts.php
+webpack.config.js

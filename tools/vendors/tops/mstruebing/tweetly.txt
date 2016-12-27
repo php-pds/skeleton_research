@@ -1,0 +1,9 @@
+Classes/MStruebing/Tweetly/
+Configuration/
+Documentation/
+Migrations/Mysql/
+Resources/Private/
+Tests/Unit/Domain/Model/
+.gitignore
+Gulpfile.babel.js
+composer.json

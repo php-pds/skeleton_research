@@ -1,0 +1,5 @@
+src/BrainContainer/
+tests/
+.gitignore
+README.md
+composer.json

@@ -1,0 +1,8 @@
+src/Spies/
+tests/
+.gitignore
+API.md
+README.md
+composer.json
+composer.lock
+phpunit.xml

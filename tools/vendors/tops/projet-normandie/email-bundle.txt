@@ -1,0 +1,11 @@
+Controller/
+DependencyInjection/
+Entity/
+Mapper/
+Resources/
+Service/
+Tests/Controller/
+LICENSE
+ProjetNormandieEmailBundle.php
+README.md
+composer.json

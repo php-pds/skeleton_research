@@ -1,0 +1,5 @@
+CHANGE.md
+GoogleChart.php
+README.md
+composer.json
+htmlSample.html

@@ -1,0 +1,8 @@
+Controller/
+DependencyInjection/
+Resources/
+Uploader/
+.gitignore
+README.md
+VxJsUploadBundle.php
+composer.json

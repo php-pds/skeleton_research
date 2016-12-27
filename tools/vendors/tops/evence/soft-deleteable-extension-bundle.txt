@@ -1,0 +1,12 @@
+DependencyInjection/
+EventListener/
+Exception/
+Mapping/Annotation/
+Resources/config/
+.editorconfig
+.gitattributes
+.gitignore
+.php_cs
+EvenceSoftDeleteableExtensionBundle.php
+README.md
+composer.json

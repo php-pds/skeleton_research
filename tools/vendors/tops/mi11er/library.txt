@@ -1,0 +1,11 @@
+spec/
+src/mi11er-library/
+.codeclimate.yml
+.gitattributes
+.gitignore
+.travis.yml
+README.md
+composer.json
+composer.lock
+phpcs.xml
+phpspec.yml

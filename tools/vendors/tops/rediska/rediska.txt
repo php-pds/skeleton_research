@@ -1,0 +1,13 @@
+benchmarks/
+examples/
+library/
+scripts/
+tests/
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENSE.txt
+README.md
+VERSION.txt
+composer.json
+package.xml

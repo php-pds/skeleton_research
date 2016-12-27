@@ -1,0 +1,12 @@
+data/
+tests/
+.gitignore
+Bidi.php
+BidiDataTrait.php
+CaseFold.php
+CaseFoldDataTrait.php
+LICENSE
+Precis.php
+README.md
+composer.json
+composer.lock

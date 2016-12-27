@@ -1,0 +1,7 @@
+src/APG/SilexRESTful/
+tests/APG/SilexRESTful/
+.gitignore
+README.md
+composer.json
+phpunit
+phpunit.xml

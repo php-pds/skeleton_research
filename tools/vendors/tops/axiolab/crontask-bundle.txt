@@ -1,0 +1,9 @@
+Command/
+DependencyInjection/
+Entity/
+Manager/
+Repository/
+Resources/
+AxiolabCronTaskBundle.php
+README.md
+composer.json

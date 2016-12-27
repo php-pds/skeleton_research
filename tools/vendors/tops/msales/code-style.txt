@@ -1,0 +1,6 @@
+codesniffer/
+messdetector/
+phpstorm/
+.gitignore
+composer.json
+composer.lock

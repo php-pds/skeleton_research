@@ -1,0 +1,5 @@
+src/
+tools/
+.gitattributes
+.gitignore
+composer.json

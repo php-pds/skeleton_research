@@ -1,0 +1,4 @@
+library/seregatte/ShopifyGuzzleApi/
+LICENSE
+README.md
+composer.json

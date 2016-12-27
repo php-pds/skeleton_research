@@ -1,0 +1,9 @@
+Block/
+Helper/
+Model/
+Observer/Frontend/
+etc/
+view/frontend/
+README.md
+composer.json
+registration.php

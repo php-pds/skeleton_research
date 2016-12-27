@@ -1,0 +1,11 @@
+stack/
+test/
+www/
+.gitignore
+.gitmodules
+LICENSE
+README.md
+bootstrap.php
+composer.json
+composer.lock
+init.php

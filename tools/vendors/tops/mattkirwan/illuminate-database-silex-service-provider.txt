@@ -1,0 +1,3 @@
+src/MattKirwan/Silex/
+README.md
+composer.json

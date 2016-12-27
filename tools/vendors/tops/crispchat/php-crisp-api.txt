@@ -1,0 +1,7 @@
+examples/
+ressources/
+.gitignore
+LICENSE
+README.md
+composer.json
+crisp.php

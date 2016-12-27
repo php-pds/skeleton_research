@@ -1,0 +1,10 @@
+DependencyInjection/
+Exception/
+Manager/
+Model/
+Resources/config/
+.gitignore
+AtlassianHipchatBundle.php
+LICENSE
+README.md
+composer.json

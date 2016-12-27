@@ -1,0 +1,9 @@
+locale/
+src/
+tests/
+.gitignore
+.travis.yml
+Makefile
+README.md
+composer.json
+phpunit.xml

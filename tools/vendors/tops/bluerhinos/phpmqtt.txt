@@ -1,0 +1,6 @@
+examples/
+.gitignore
+LICENSE
+README
+composer.json
+phpMQTT.php

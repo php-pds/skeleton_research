@@ -1,0 +1,5 @@
+library/PostcodeNl/Api/
+www/
+LICENSE.txt
+README.md
+composer.json

@@ -1,0 +1,4 @@
+examples/
+PKPass.php
+composer.json
+readme.md

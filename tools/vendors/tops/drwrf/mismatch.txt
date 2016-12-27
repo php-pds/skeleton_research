@@ -1,0 +1,9 @@
+lib/
+test/
+.borisrc
+.gitignore
+README
+composer.json
+composer.lock
+composer.phar
+phpunit.xml

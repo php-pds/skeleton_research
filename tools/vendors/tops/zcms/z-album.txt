@@ -1,0 +1,10 @@
+.idea/
+config/
+src/Album/
+view/
+.gitignore
+LICENSE
+Module.php
+README.md
+basic.composer.json
+composer.json

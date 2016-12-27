@@ -1,0 +1,14 @@
+Command/
+Config/
+DependencyInjection/
+Event/
+Model/
+Resources/
+Strategy/Undeliverable/
+Tests/
+.gitignore
+.travis.yml
+README.md
+Whyte624MailboxAnalyzerBundle.php
+composer.json
+phpunit.xml.dist

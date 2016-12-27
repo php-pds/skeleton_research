@@ -1,0 +1,6 @@
+Crowdcube/
+.gitignore
+LICENSE.md
+circle.yml
+composer.json
+readme.md

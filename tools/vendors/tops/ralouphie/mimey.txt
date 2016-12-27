@@ -1,0 +1,12 @@
+bin/
+src/
+tests/
+.codeclimate.yml
+.gitignore
+.travis.yml
+composer.json
+license
+mime.types
+mime.types.php
+phpunit.xml
+readme.md

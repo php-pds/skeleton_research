@@ -1,0 +1,6 @@
+Classes/
+Configuration/
+Documentation/
+Resources/Private/
+.codeclimate.yml
+composer.json

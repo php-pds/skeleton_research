@@ -1,0 +1,6 @@
+src/Platte/
+tests/
+.gitignore
+.travis.yml
+README.md
+composer.json

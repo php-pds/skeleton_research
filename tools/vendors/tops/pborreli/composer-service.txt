@@ -1,0 +1,14 @@
+app/
+features/
+spec/Ayaline/Bundle/ComposerBundle/
+src/Ayaline/Bundle/ComposerBundle/
+vagrant/
+web/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+behat.yml.dist
+composer.json
+composer.lock

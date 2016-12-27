@@ -1,0 +1,6 @@
+lib/
+tests/
+LICENSE.txt
+README.md
+composer.json
+composer.lock

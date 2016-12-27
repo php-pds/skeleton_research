@@ -1,0 +1,10 @@
+address-formatter-templates @ 91f683f
+src/
+tests/
+.gitignore
+.gitmodules
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

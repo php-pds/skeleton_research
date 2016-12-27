@@ -1,0 +1,7 @@
+DependencyInjection/
+Form/
+Resources/
+Twig/Extension/
+README.md
+composer.json
+gtriasAddOrSelectBundle.php

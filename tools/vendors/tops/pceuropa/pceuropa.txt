@@ -1,0 +1,9 @@
+clear/
+contact/
+l18n/
+strings/
+vendor/
+LICENSE
+README.md
+composer.json
+composer.lock

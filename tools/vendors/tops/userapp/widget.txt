@@ -1,0 +1,10 @@
+docs/
+examples/
+lib/UserApp/Widget/
+tests/
+.gitattributes
+.gitignore
+LICENSE
+README.md
+autoload.php
+composer.json

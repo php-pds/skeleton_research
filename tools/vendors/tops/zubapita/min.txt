@@ -1,0 +1,11 @@
+bin/
+controller/
+etc/
+htdocs/
+lib/
+model/
+test/
+view/
+.gitignore
+README.md
+composer.json

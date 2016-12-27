@@ -1,0 +1,6 @@
+DependencyInjection/
+Imagine/Filter/Loader/
+Resources/
+README.md
+SimonsimcityLiipImagineWatermarkFilterBundle.php
+composer.json

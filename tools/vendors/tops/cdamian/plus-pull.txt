@@ -1,0 +1,14 @@
+bin/
+src/PlusPull/
+tests/PlusPull/
+.gitignore
+.travis.yml
+CHANGES.md
+LICENSE.txt
+README.md
+build.xml
+composer.json
+composer.lock
+config.yml.dist
+phpcs.xml
+phpunit.xml.dist

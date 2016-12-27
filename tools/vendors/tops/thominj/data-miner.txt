@@ -1,0 +1,8 @@
+examples/
+src/thominj/DataMiner/
+tests/thominj/DataMiner/
+.gitignore
+LICENSE
+README.md
+composer.json
+phpunit.xml

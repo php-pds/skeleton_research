@@ -1,0 +1,10 @@
+css/
+images/
+scss/
+templates/
+.editorconfig
+.gitattributes
+README.md
+_config.php
+composer.json
+config.rb

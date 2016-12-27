@@ -1,0 +1,7 @@
+bin/
+src/iTunes/
+tmp/
+.gitignore
+LICENSE
+README.md
+composer.json

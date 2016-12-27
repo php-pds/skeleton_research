@@ -1,0 +1,10 @@
+src/
+tests/PHPUnit/Listeners/
+.gitignore
+.php_cs.dist
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpcs.sh
+phpunit.xml

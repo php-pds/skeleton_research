@@ -1,0 +1,9 @@
+demo/
+src/
+tests/
+.gitignore
+LICENSE.md
+README.md
+autoloader.php
+composer.json
+phpunit.sample.xml

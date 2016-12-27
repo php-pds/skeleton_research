@@ -1,0 +1,7 @@
+.gitignore
+LICENSE
+Lescript.php
+README.md
+_auto_example.php
+_example.php
+composer.json

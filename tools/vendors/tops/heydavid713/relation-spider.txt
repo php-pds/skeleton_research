@@ -1,0 +1,5 @@
+src/Heydavid713/RelationSpider/
+.gitignore
+README.md
+composer.json
+composer.lock

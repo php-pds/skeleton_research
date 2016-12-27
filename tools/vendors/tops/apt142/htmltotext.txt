@@ -1,0 +1,11 @@
+src/HtmlToText/
+tests/
+.editorconfig
+.gitignore
+.travis.yml
+LICENSE.md
+README.md
+composer.json
+composer.lock
+phpcs.xml
+phpunit.xml

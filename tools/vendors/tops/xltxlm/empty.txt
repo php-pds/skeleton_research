@@ -1,0 +1,8 @@
+tests/
+.gitignore
+.php_cs
+LICENSE
+README.MD
+composer.json
+phpunit.xml
+scrutinizer.yml

@@ -1,0 +1,6 @@
+patterns/
+src/Hyphenator/
+LICENSE
+README.md
+composer.json
+sample.php

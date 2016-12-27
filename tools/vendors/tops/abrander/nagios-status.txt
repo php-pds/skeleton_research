@@ -1,0 +1,10 @@
+src/
+LICENSE
+README.md
+composer.json
+example-critical.ico
+example-ok.ico
+example-unknown.ico
+example-warning.ico
+example.html
+example.php

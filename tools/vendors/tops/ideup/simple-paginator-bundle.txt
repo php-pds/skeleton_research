@@ -1,0 +1,10 @@
+DependencyInjection/
+Paginator/
+Resources/
+Templating/Helper/
+Twig/Extension/
+.gitignore
+IdeupSimplePaginatorBundle.php
+LICENSE
+README.md
+composer.json

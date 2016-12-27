@@ -1,0 +1,10 @@
+bin/
+recipe/
+src/
+.gitignore
+CHANGELOG.md
+LICENSE
+README.md
+box.json
+composer.json
+deploy.php

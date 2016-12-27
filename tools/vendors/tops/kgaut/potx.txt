@@ -1,0 +1,11 @@
+tests/
+vendor/
+README.MD
+composer.json
+potx.admin.inc
+potx.drush.inc
+potx.inc
+potx.info.yml
+potx.local.inc
+potx.module
+yaml_translation_patterns.yml

@@ -1,0 +1,10 @@
+Tests/
+src/Sikofitt/Functions/
+.gitignore
+.php_cs
+.travis.yml
+LICENSE
+README.md
+bootstrap.php
+composer.json
+phpunit.xml

@@ -1,0 +1,4 @@
+vc_templates/
+README.md
+composer.json
+wp-vc-template-manager.php

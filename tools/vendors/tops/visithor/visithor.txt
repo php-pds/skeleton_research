@@ -1,0 +1,15 @@
+bin/
+build/
+src/
+tests/Visithor/
+.editorconfig
+.formatter.yml
+.gitignore
+.php_cs
+.travis.yml
+CONTRIBUTING.md
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist
+visithor.yml.dist

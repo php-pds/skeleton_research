@@ -1,0 +1,7 @@
+lib/Jacquesbh/
+tests/units/
+.gitignore
+LICENSE
+README
+composer.json
+index.php

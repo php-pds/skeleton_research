@@ -1,0 +1,6 @@
+config/
+src/Zencoder/
+.gitignore
+Module.php
+composer.json
+readme.md

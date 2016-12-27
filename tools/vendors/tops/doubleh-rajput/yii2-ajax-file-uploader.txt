@@ -1,0 +1,7 @@
+assets/js/
+AjaxFileUploaderAction.php
+AjaxFileUploaderAssets.php
+AjaxFileUploaderWidget.php
+README.md
+UploadHandler.php
+composer.json

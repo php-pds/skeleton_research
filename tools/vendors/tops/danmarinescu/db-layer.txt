@@ -1,0 +1,12 @@
+build/
+config/
+src/
+test/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+README.TXT
+README.md
+autoload_classmap.php
+composer.json
+phpunit.xml

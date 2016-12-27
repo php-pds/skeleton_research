@@ -1,0 +1,12 @@
+Build/
+Classes/
+Tests/
+docs/
+.env-example
+.gitignore
+README.md
+bootstrap.php
+box.json
+composer.json
+composer.lock
+elasticorn.php

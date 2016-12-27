@@ -1,0 +1,11 @@
+src/
+test/
+.gitignore
+LICENSE
+Makefile
+NOTICE
+README.md
+VERSION
+autoload.php
+composer.json
+composer.lock

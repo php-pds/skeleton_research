@@ -1,0 +1,17 @@
+Block/Adminhtml/Report/
+Controller/
+Helper/
+Model/
+Observer/
+Setup/
+etc/
+view/adminhtml/layout/
+.editorconfig
+.gitignore
+CHANGES.md
+Dockerfile
+LICENSE
+build.sh
+composer.json
+copy-identifiers.txt
+registration.php

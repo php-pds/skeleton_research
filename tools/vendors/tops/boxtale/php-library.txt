@@ -1,0 +1,11 @@
+Emc/
+assets/
+ca/
+config/
+layout/
+samples/
+test/
+.gitignore
+README.md
+composer.json
+index.php

@@ -1,0 +1,9 @@
+docs/
+.gitignore
+AGI.php
+AsteriskManager.php
+COPYING
+README.md
+composer.json
+mkdocs.php
+phpagi-fastagi.php

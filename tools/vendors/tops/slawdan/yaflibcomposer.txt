@@ -1,0 +1,4 @@
+YafComposer/Installer/
+.gitignore
+README.md
+composer.json

@@ -1,0 +1,15 @@
+spec/NullDev/TeeGee/
+src/NullDev/TeeGee/
+tests/
+.gitignore
+.scrutinizer.yml
+README.md
+circle.yml
+composer.json
+composer.lock
+phpcs.xml
+phpmd.xml
+phpunit.xml
+shippable.yml
+test-one-file.sh
+track.sh

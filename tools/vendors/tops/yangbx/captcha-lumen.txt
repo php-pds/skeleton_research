@@ -1,0 +1,6 @@
+assets/
+src/
+vendor/
+.DS_Store
+README.md
+composer.json

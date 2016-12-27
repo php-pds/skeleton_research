@@ -1,0 +1,5 @@
+Classes/DigiComp/SettingValidator/
+.gitignore
+License.txt
+README.md
+composer.json

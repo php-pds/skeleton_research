@@ -1,0 +1,7 @@
+database/migrations/
+public/vendor/lavoter/fingerprint2/
+resources/views/
+src/
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,14 @@
+DependencyInjection/
+Entity/
+Form/
+FormFactory/
+Model/
+Resources/
+Tests/
+.gitignore
+.travis.yml
+BaitPollBundle.php
+Poll.php
+README.md
+composer.json
+phpunit.xml.dist

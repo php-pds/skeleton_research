@@ -1,0 +1,17 @@
+build/
+config/
+docs/
+src/ZfcDatagrid/
+tests/
+view/zfc-datagrid/
+.gitignore
+.php_cs
+.travis.yml
+LICENSE
+Module.php
+README.md
+autoload_classmap.php
+bower.json
+composer.json
+phpunit.xml
+travis.phpunit.xml

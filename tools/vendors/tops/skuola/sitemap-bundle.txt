@@ -1,0 +1,12 @@
+Command/
+DependencyInjection/
+Resources/config/
+Service/
+Tests/
+.gitignore
+.travis.yml
+README.md
+SkuolaSitemapBundle.php
+composer.json
+composer.lock
+phpunit.xml.dist

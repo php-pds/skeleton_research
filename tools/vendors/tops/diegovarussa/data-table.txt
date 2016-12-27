@@ -1,0 +1,9 @@
+config/
+public/DataTable/
+src/DataTable/
+view/
+.gitignore
+LICENSE
+Module.php
+README.md
+composer.json

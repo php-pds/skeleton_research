@@ -1,0 +1,5 @@
+src/ScrobblerLog/
+.gitignore
+LICENSE.txt
+README.md
+composer.json

@@ -1,0 +1,11 @@
+config/
+module/ZendServerNagiosPlugin/
+templates/
+.gitignore
+Installing-Nagios-Debian6.md
+LICENSE.txt
+README.md
+composer.json
+index.php
+init_autoloader.php
+zend-blueprint.json

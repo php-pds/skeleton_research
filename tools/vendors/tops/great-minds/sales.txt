@@ -1,0 +1,8 @@
+code/
+examples/plugin/
+scripts/build/
+.gitignore
+LICENSE
+README.md
+composer.json
+pkg_sales.xml

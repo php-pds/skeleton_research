@@ -1,0 +1,9 @@
+config/
+data/cache/
+module/Application/
+public/
+.gitignore
+README.md
+composer.json
+composer.lock
+composer.phar

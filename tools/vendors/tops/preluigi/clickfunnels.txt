@@ -1,0 +1,5 @@
+src/ClickFunnels/
+.gitignore
+LICENSE
+README.md
+composer.json

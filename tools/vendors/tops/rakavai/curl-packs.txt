@@ -1,0 +1,6 @@
+src/CurlPacks/
+tests/
+README.md
+composer.json
+composer.lock
+release

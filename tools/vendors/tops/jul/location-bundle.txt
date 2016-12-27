@@ -1,0 +1,12 @@
+Controller/
+DependencyInjection/
+Entity/
+Form/
+Model/
+Repository/
+Resources/
+Tests/
+.gitignore
+JulLocationBundle.php
+README.markdown
+composer.json

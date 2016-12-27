@@ -1,0 +1,10 @@
+admin/
+css/
+customize/
+includes/
+js/
+CHANGELOG.md
+README.md
+carelib.php
+composer.json
+license.txt

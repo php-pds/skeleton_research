@@ -1,0 +1,11 @@
+Config/
+Console/Command/
+Model/
+Test/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+VERSION.txt
+composer.json
+phpunit.xml.dist

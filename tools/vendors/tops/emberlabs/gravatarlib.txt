@@ -1,0 +1,5 @@
+.gitignore
+Gravatar.php
+LICENSE
+README.markdown
+composer.json

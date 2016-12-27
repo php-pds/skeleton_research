@@ -1,0 +1,9 @@
+DependencyInjection/
+GitHook/
+Resources/config/
+.gitignore
+.travis.yml
+GitHookBundle.php
+README.md
+composer.json
+phpunit.xml

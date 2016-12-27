@@ -1,0 +1,5 @@
+src/VivaYasu/UrlShrinker/
+tests/
+.gitignore
+README.md
+composer.json

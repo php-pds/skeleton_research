@@ -1,0 +1,10 @@
+core/
+protobuf/
+template/
+utils/
+Getui.php
+IGetui.php
+IGtBatch.php
+README.md
+RequestException.php
+composer.json

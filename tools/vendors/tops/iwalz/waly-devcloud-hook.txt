@@ -1,0 +1,8 @@
+.travis/
+config/
+library/WalyDevcloudHook/
+logs/
+tests/
+.travis.yml
+README.md
+composer.json

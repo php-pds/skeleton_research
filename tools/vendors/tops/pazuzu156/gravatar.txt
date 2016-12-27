@@ -1,0 +1,10 @@
+src/Pazuzu156/Gravatar/
+tests/
+.editorconfig
+.gitattributes
+.gitignore
+LICENSE
+README.MD
+composer.json
+config.php
+index.php

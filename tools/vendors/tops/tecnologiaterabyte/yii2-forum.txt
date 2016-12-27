@@ -1,0 +1,16 @@
+.idea/
+assets/
+components/
+controllers/
+filters/
+helpers/
+messages/
+models/
+views/
+widgets/
+.gitignore
+LICENSE
+Module.php
+README.md
+composer.json
+composer.lock

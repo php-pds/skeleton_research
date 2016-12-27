@@ -1,0 +1,14 @@
+Cache/
+DependencyInjection/
+Proxy/
+Resources/
+Tests/
+.gitignore
+EpiphanyServiceCacheBundle.php
+LICENCE
+README.md
+build.xml
+composer.json
+composer.lock
+phpunit.xml
+version

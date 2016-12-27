@@ -1,0 +1,12 @@
+certs/
+examples/
+lib/
+.editorconfig
+.gitattributes
+.gitignore
+.travis.yml
+LICENSE
+README.md
+bump-version.sh
+composer.json
+phpunit.xml

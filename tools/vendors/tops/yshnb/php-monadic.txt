@@ -1,0 +1,7 @@
+lib/Monadic/
+tests/Monadic/
+.gitignore
+LICENSE
+README.md
+composer.json
+phpunit.xml

@@ -1,0 +1,5 @@
+src/Ferus/FairPayApi/
+.gitattributes
+.gitignore
+composer.json
+readme.md

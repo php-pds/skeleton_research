@@ -1,0 +1,9 @@
+lib/ebi/
+media/
+tests/
+.gitignore
+LICENSE.txt
+README.md
+autoload.php
+composer.json
+ebi.phar

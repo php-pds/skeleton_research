@@ -1,0 +1,12 @@
+spec/Genesis/
+src/Genesis/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CHANGELOG
+LICENSE
+README.md
+VERSION
+composer.json
+composer.lock
+settings_sample.ini

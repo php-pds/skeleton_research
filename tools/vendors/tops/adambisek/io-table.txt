@@ -1,0 +1,8 @@
+Parsers/
+CellsIterator.php
+IParser.php
+LICENSE
+README.md
+RowsIterator.php
+Table.php
+composer.json

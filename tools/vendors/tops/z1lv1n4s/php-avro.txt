@@ -1,0 +1,7 @@
+examples/
+lib/
+LICENSE.txt
+NOTICE.txt
+README
+README.txt
+composer.json

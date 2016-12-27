@@ -1,0 +1,4 @@
+models/
+README.md
+RssParser.php
+composer.json

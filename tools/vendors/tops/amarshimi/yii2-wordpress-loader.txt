@@ -1,0 +1,7 @@
+components/
+controllers/
+views/
+.gitignore
+LICENSE
+Module.php
+composer.json

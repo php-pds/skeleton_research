@@ -1,0 +1,17 @@
+application/
+build/
+debian/
+extensions/
+.gitignore
+.htaccess
+CHANGELOG.md
+Makefile
+README.md
+build.xml
+composer.json
+composer.lock
+config.ini.dist
+index.php
+phpcs.xml
+phpunit.xml
+web.config

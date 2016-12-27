@@ -1,0 +1,4 @@
+src/FetchApp/API/
+.gitignore
+README.md
+composer.json

@@ -1,0 +1,9 @@
+Observer/
+Plugin/
+Setup/
+etc/
+i18n/
+view/
+README.md
+composer.json
+registration.php

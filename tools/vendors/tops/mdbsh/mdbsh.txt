@@ -1,0 +1,6 @@
+docs/
+src/
+LICENSE
+README.md
+RELEASE-1.0
+composer.json

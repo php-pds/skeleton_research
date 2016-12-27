@@ -1,0 +1,7 @@
+config/
+public/
+src/TinyBlog/
+view/tiny-blog/
+Module.php
+README.md
+composer.json

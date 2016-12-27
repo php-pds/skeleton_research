@@ -1,0 +1,8 @@
+examples/
+thumb_plugins/
+GdThumb.inc.php
+PhpThumb.inc.php
+README.md
+ThumbBase.inc.php
+ThumbLib.inc.php
+composer.json

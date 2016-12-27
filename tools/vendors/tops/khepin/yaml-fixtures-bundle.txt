@@ -1,0 +1,16 @@
+Command/
+DependencyInjection/
+Fixture/
+Loader/
+Resources/config/
+bin/
+etc/
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CHANGELOG.md
+KhepinYamlFixturesBundle.php
+LICENSE
+README.md
+composer.json

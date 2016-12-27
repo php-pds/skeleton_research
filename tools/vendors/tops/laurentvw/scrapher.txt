@@ -1,0 +1,6 @@
+src/Laurentvw/Scrapher/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json

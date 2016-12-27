@@ -1,0 +1,7 @@
+docs/examples/
+src/ajenjo/
+tests/
+.gitignore
+README.md
+composer.json
+index.js

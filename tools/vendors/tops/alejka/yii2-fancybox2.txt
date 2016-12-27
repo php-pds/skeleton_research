@@ -1,0 +1,6 @@
+assets/
+.gitignore
+FancyBox.php
+FancyBoxAsset.php
+README.md
+composer.json

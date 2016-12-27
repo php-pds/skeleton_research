@@ -1,0 +1,4 @@
+.idea/
+EchoFor.php
+composer.json
+composer.lock

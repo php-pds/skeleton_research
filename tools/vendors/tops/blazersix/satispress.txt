@@ -1,0 +1,11 @@
+assets/
+includes/
+languages/
+views/
+.gitignore
+.jshintrc
+Gruntfile.js
+README.md
+composer.json
+package.json
+satispress.php

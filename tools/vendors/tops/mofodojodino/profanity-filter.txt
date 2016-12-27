@@ -1,0 +1,9 @@
+config/
+spec/mofodojodino/ProfanityFilter/
+src/mofodojodino/ProfanityFilter/
+tests/
+.gitignore
+.travis.yml
+README.md
+composer.json
+composer.lock

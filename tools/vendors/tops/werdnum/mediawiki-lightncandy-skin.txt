@@ -1,0 +1,4 @@
+.gitignore
+AbstractLightNCandyTemplate.php
+README.md
+composer.json

@@ -1,0 +1,7 @@
+src/Subdesign/Valutabank/
+tests/
+.gitignore
+.travis.yml
+README.MD
+composer.json
+phpunit.xml

@@ -1,0 +1,8 @@
+src/Recipe/
+tests/Recipe/
+.gitignore
+.travis.yml
+LICENSE.md
+README.md
+composer.json
+phpunit.xml

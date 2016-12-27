@@ -1,0 +1,7 @@
+src/Meshkov/Sluggler/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml

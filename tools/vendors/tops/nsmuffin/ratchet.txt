@@ -1,0 +1,10 @@
+src/Ratchet/
+tests/
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENSE
+Makefile
+README.md
+composer.json
+phpunit.xml.dist

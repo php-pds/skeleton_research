@@ -1,0 +1,9 @@
+Friends/
+FriendsBundle/
+.coveralls.yml
+.travis.yml
+LICENSE
+README.md
+bootstrap.php
+composer.json
+phpunit.xml

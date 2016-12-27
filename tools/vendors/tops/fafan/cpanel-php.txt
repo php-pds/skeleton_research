@@ -1,0 +1,6 @@
+src/Fafan/CpanelPhp/
+tests/
+.gitignore
+README.md
+composer.json
+phpunit.xml

@@ -1,0 +1,7 @@
+DependencyInjection/
+Mailchimp/
+Resources/config/
+HypeMailchimpBundle.php
+LICENSE.md
+README.md
+composer.json

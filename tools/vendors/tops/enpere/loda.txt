@@ -1,0 +1,7 @@
+spec/Loda/
+.gitignore
+Loda.php
+README.md
+composer.json
+composer.lock
+phpspec.yml

@@ -1,0 +1,10 @@
+app/
+assets/
+resources/
+.gitignore
+LICENSE
+README.md
+composer.json
+gulpfile.js
+package.json
+wp-plugin-bootstrap.php

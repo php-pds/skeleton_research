@@ -1,0 +1,2 @@
+WCSBundle/
+composer.json

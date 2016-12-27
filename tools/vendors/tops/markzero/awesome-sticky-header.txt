@@ -1,0 +1,10 @@
+admin/
+assets/
+config/
+lib/
+.gitignore
+awesomeheader.php
+boot.php
+composer.json
+readme.txt
+uninstall.php

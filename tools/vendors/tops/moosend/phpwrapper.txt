@@ -1,0 +1,7 @@
+src/moosend/
+tests/
+.gitignore
+README.md
+composer.json
+phpunit.phar
+phpunit.xml

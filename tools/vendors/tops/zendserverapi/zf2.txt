@@ -1,0 +1,7 @@
+config/
+library/Keleo/ZendServerApi/
+tests/
+.gitignore
+.travis.yml
+README.md
+composer.json

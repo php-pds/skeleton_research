@@ -1,0 +1,10 @@
+Base/
+Curl/
+DependencyInjection/
+Exceptions/
+Resources/
+Tests/
+.gitignore
+CodeOasisCurlBundle.php
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,8 @@
+examples/
+src/Aplyca/BehatContext/
+tests/spec/Aplyca/BehatContext/
+.gitignore
+LICENSE
+README.md
+composer.json
+phpspec.yml

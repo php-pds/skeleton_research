@@ -1,0 +1,11 @@
+configs/
+migrations/1.0.0/
+src/
+tests/
+travis/
+.codeclimate.yml
+.gitignore
+.travis.yml
+README.md
+composer.json
+configs.php

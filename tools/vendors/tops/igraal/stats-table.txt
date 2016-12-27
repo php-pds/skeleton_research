@@ -1,0 +1,9 @@
+lib/IgraalOSL/StatsTable/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+Makefile
+README.md
+composer.json
+phpunit.xml.dist

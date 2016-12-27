@@ -1,0 +1,13 @@
+assets/css/
+lang/
+public/
+spec/FluxBB/Core/
+src/
+views/
+.editorconfig
+.gitignore
+.travis.yml
+LICENSE.txt
+README.md
+composer.json
+phpunit.xml

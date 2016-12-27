@@ -1,0 +1,5 @@
+examples/
+src/JustSSH/
+LICENSE
+README.md
+composer.json

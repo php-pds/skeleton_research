@@ -1,0 +1,8 @@
+examples/
+src/Vultan/
+.gitignore
+CHANGELOG.txt
+README.md
+composer.json
+composer.lock
+phpunit.xml

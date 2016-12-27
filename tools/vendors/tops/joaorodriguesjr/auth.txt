@@ -1,0 +1,4 @@
+spec/JoaoRodriguesJr/Auth/
+src/JoaoRodriguesJr/Auth/
+README.md
+composer.json

@@ -1,0 +1,6 @@
+LICENCE
+README.md
+UPGRADING.md
+class-udm-updater.php
+composer.json
+updater.php

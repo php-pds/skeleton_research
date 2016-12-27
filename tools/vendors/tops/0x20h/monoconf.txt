@@ -1,0 +1,6 @@
+examples/
+src/Monoconf/
+tests/
+.gitignore
+README.md
+composer.json

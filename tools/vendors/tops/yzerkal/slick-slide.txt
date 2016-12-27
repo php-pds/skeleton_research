@@ -1,0 +1,6 @@
+assets/
+.gitignore
+LICENSE
+README.md
+SlickWidget.php
+composer.json

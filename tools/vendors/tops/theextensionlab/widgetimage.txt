@@ -1,0 +1,5 @@
+app/
+js/theextensionlab/widgetimage/wysiwyg/
+README.md
+composer.json
+modman

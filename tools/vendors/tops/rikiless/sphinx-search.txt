@@ -1,0 +1,5 @@
+src/Rikiless/Sphinx/
+.gitignore
+composer.json
+license.md
+readme.md

@@ -1,0 +1,9 @@
+_config/
+code/
+images/
+lang/
+LICENSE
+README.md
+_config.php
+composer.json
+composer_1.json

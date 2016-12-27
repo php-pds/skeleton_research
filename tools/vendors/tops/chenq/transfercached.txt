@@ -1,0 +1,6 @@
+transfercached/
+.DS_Store
+.gitignore
+README.MD
+ROBOT.TXT
+composer.json

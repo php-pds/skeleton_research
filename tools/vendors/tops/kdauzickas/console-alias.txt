@@ -1,0 +1,7 @@
+DependencyInjection/
+Service/
+.gitignore
+KDConsoleAliasBundle.php
+LICENSE
+README.md
+composer.json

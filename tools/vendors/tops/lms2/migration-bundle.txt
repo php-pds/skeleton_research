@@ -1,0 +1,9 @@
+Command/
+DependencyInjection/
+Entity/
+Resources/config/
+Tools/Console/
+.gitignore
+LMS2MigrationBundle.php
+README.md
+composer.json

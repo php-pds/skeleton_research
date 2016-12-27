@@ -1,0 +1,6 @@
+src/Nelexa/Buffer/
+tests/Nelexa/Buffer/
+.gitignore
+README.md
+bootstrap.xml
+composer.json

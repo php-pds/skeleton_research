@@ -1,0 +1,14 @@
+Controller/
+DependencyInjection/
+Resources/config/routing/
+Tests/
+build/
+.gitignore
+.php_cs
+.styleci.yml
+.travis.yml
+KateGrayAuthBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,13 @@
+helpers/
+js/
+tests/
+.gitignore
+README.md
+bower.json
+build.xml
+composer.json
+composer.lock
+index.js
+package.json
+phpunit.xml.dist
+qunit-runner.js

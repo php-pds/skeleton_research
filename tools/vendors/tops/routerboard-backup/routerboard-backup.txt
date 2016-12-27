@@ -1,0 +1,12 @@
+app/
+src/
+tests/
+vendor/
+.codeclimate.yml
+.travis.yml
+CHANGELOG.md
+LICENSE.md
+README.md
+composer.json
+config.default.yml
+routerboard-backup.php

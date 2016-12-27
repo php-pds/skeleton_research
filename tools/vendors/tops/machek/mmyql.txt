@@ -1,0 +1,6 @@
+config/
+src/MMYQL/
+.gitignore
+Module.php
+README.md
+composer.json

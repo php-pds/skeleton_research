@@ -1,0 +1,6 @@
+example/
+lib/SK/Yii/FirePHP/
+.gitignore
+LICENSE
+README.md
+composer.json

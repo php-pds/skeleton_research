@@ -1,0 +1,8 @@
+.gitignore
+build.ini.dist
+build.xml
+composer.json
+phpdox.xml.dist
+phpeach
+phpeach.conf.dist
+pre-commit.phpeach

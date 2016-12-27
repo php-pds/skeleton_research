@@ -1,0 +1,4 @@
+.idea/
+.gitignore
+ScmsCore.php
+composer.json

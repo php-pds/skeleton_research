@@ -1,0 +1,9 @@
+src/DailymilePHP/
+tests/DailymilePHP/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+example.php
+phpunit.xml

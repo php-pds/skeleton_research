@@ -1,0 +1,10 @@
+Tests/
+config/
+src/
+.gitignore
+.styleci.yml
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit_mysql.xml

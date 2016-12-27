@@ -1,0 +1,6 @@
+docs/
+src/Sphoof/Notify/
+tests/
+.gitignore
+README.md
+composer.json

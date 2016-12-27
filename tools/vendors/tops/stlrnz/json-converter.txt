@@ -1,0 +1,8 @@
+lib/stlrnz/json/converter/
+tests/stlrnz/tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

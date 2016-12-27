@@ -1,0 +1,10 @@
+etc/
+i18n/
+media/
+.gitignore
+LICENSE.txt
+LICENSE_AFL.txt
+composer.json
+modman
+registration.php
+theme.xml

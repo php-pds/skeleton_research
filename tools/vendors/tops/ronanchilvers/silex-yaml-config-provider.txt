@@ -1,0 +1,6 @@
+src/Silex/Provider/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock

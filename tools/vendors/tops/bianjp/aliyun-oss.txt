@@ -1,0 +1,10 @@
+demo/
+lang/
+lib/requestcore/
+util/
+.gitignore
+LICENSE
+README.md
+composer.json
+conf.inc.php
+sdk.class.php

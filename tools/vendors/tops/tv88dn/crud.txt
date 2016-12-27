@@ -1,0 +1,6 @@
+assets/
+controllers/
+helpers/
+models/
+CrudAssets.php
+composer.json

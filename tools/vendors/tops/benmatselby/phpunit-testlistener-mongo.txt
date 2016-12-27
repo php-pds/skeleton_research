@@ -1,0 +1,8 @@
+PHPUnit/Util/Log/
+tests/
+Changelog.md
+LICENSE
+README.markdown
+composer.json
+package.xml
+phpunit.xml.dist

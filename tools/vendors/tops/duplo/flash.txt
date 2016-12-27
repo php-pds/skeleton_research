@@ -1,0 +1,8 @@
+src/Flash/
+test/
+webroot/
+.scrutinizer.yml
+.travis.yml
+LICENSE.txt
+README.md
+composer.json

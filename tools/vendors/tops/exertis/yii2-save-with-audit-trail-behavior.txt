@@ -1,0 +1,6 @@
+migrations/
+models/
+.gitignore
+README.md
+SaveWithAuditTrailBehavior.php
+composer.json

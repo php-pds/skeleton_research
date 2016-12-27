@@ -1,0 +1,14 @@
+config/
+helpers/
+src/
+storage/logs/
+tests/MailService/SendGrid/
+views/
+.env.bak
+.gitignore
+.travis.yml
+README.md
+composer.json
+composer.lock
+index.php
+phpunit.xml

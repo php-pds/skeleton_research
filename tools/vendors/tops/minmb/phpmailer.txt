@@ -1,0 +1,15 @@
+docs/
+examples/
+extras/
+language/
+test/
+test_script/
+.gitignore
+LICENSE
+README
+changelog.txt
+class.phpmailer.php
+class.pop3.php
+class.smtp.php
+composer.json
+docs.ini

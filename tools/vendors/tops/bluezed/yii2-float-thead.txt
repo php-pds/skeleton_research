@@ -1,0 +1,6 @@
+.gitignore
+FloatThead.php
+FloatTheadAsset.php
+LICENSE
+README.md
+composer.json

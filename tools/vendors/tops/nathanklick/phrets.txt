@@ -1,0 +1,5 @@
+LICENSE.md
+LICENSE.txt
+README.md
+composer.json
+phrets.php

@@ -1,0 +1,13 @@
+PLUG/
+conf.dist/
+conf/
+httpdocs/
+tests/PLUG/
+.gitignore
+JParser.komodoproject
+LICENSE.md
+README.md
+bootstrap.php
+build
+composer.json
+phpunit.xml

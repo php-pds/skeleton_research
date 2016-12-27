@@ -1,0 +1,6 @@
+app/
+.gitignore
+.scrutinizer.yml
+README.md
+composer.json
+modman

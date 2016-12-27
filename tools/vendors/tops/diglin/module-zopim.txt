@@ -1,0 +1,12 @@
+Block/
+Controller/Adminhtml/
+Helper/
+Model/Config/Source/
+Test/
+etc/
+view/frontend/
+LICENSE.txt
+README.md
+composer.json
+phpunit.xml.dist
+registration.php

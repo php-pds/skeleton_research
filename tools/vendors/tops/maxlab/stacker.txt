@@ -1,0 +1,13 @@
+bin/
+conf/
+mysql/conf/
+nginx/
+php7/
+php7xdebug/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+docker-compose.yml
+license.md

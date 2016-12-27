@@ -1,0 +1,10 @@
+RedisClient/
+Store/
+Test/
+.gitignore
+.travis.yml
+HttpRedisCache.php
+LICENSE
+README.md
+composer.json
+phpunit.xml

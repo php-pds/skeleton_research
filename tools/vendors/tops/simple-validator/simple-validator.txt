@@ -1,0 +1,9 @@
+errors/
+src/SimpleValidator/
+unit-test/
+.gitignore
+.travis.yml
+README.md
+composer.json
+licence.txt
+phpunit.xml

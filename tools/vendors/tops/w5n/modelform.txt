@@ -1,0 +1,5 @@
+src/W5n/
+tests/
+LICENSE
+README.md
+composer.json

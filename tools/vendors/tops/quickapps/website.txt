@@ -1,0 +1,12 @@
+bin/
+config/
+logs/
+plugins/
+templates/
+tmp/
+webroot/
+.gitattributes
+.gitignore
+.htaccess
+README.md
+composer.json

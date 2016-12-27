@@ -1,0 +1,9 @@
+api/
+test/
+Api.php
+Cli.php
+Curl.php
+Http.php
+README.md
+Stream.php
+composer.json

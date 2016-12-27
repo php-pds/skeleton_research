@@ -1,0 +1,10 @@
+examples/
+tests/
+.gitignore
+.travis.yml
+Daemon.php
+DaemonException.php
+LICENSE
+README.md
+composer.json
+phpunit.xml

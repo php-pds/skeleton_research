@@ -1,0 +1,7 @@
+docs/
+examples/endpoints/
+.gitignore
+LICENSE
+README.md
+SteamIO.php
+composer.json

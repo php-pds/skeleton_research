@@ -1,0 +1,12 @@
+dist/
+src/
+test/
+.gitignore
+CHANGELOG.txt
+Gruntfile.js
+LICENSE-MIT
+Package.nuspec
+README.md
+bower.json
+composer.json
+package.json

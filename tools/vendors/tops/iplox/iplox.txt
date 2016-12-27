@@ -1,0 +1,7 @@
+doc/
+src/Iplox/
+tests/
+.gitignore
+README.md
+composer.json
+phpunit.xml

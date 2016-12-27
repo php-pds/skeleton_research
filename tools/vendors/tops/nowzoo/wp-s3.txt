@@ -1,0 +1,6 @@
+includes/
+src/NowZoo/WPS3/
+.gitignore
+LICENSE
+README.md
+composer.json

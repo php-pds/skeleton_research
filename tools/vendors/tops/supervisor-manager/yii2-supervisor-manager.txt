@@ -1,0 +1,15 @@
+assets/js/
+components/
+controllers/
+models/
+tests/
+views/default/
+.gitignore
+.travis.yml
+LICENSE
+Module.php
+README.md
+SupervisorAsset.php
+composer.json
+config.php
+phpunit.xml

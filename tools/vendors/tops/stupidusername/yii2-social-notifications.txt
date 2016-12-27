@@ -1,0 +1,5 @@
+clients/
+Collection.php
+InvalidResponseException.php
+README.md
+composer.json

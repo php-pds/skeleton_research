@@ -1,0 +1,6 @@
+FileNotFoundException.php
+LICENSE
+README.md
+Thumbnail.php
+ThumbnailImage.php
+composer.json

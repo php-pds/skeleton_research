@@ -1,0 +1,8 @@
+DependencyInjection/
+Form/Type/
+Resources/config/
+Service/
+Twig/
+ConnectSBLocaleBundle.php
+README.md
+composer.json

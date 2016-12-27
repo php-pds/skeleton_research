@@ -1,0 +1,4 @@
+lib/IntaroCrm/
+.gitignore
+README.md
+composer.json

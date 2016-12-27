@@ -1,0 +1,7 @@
+Miper/
+example/
+tests/Miper/Test/Docs/
+.gitignore
+README.MD
+composer.json
+phpunit.xml

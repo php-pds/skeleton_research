@@ -1,0 +1,15 @@
+.github/
+assets/
+includes/
+languages/
+templates/
+.codeclimate.yml
+.travis.yml
+LICENSE.txt
+README.md
+composer.json
+config.php
+gulpfile.js
+package.json
+require.php
+start.php

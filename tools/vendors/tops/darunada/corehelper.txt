@@ -1,0 +1,7 @@
+src/CoreHelper/
+.gitignore
+LICENSE.txt
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

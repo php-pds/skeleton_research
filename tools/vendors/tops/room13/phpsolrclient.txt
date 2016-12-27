@@ -1,0 +1,7 @@
+Apache/Solr/
+phpdocs/
+tests/
+COPYING
+ChangeLog
+README.md
+composer.json

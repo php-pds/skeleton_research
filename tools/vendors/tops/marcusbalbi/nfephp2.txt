@@ -1,0 +1,16 @@
+config/
+nbproject/
+src/
+tests/NFe/XML/Gerador/Adicionais/
+.gitignore
+LICENSE
+NFeFacade.php
+README.md
+cancelar.php
+composer.json
+composer.lock
+danfe.php
+imprimirCCe.php
+index.php
+inutilizar.php
+lerconfig.php

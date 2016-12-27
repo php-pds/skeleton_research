@@ -1,0 +1,7 @@
+app/Exceptions/
+tests/Traits/
+.env.example
+.gitignore
+LICENSE
+README.md
+composer.json

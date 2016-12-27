@@ -1,0 +1,4 @@
+src/GamesApi/
+.gitignore
+LICENSE
+composer.json

@@ -1,0 +1,13 @@
+resources/
+src/
+test/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE.md
+README.md
+codecov.yml
+composer.json
+composer.lock
+curr-curr.jpg
+phpunit.xml.dist

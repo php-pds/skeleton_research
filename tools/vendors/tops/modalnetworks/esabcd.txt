@@ -1,0 +1,12 @@
+app/
+assets/
+config/
+src/
+stop-words/
+.gitignore
+README.md
+bitbucket-pipelines.yml
+command
+composer.json
+composer.lock
+index.php

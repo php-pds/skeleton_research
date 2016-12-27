@@ -1,0 +1,11 @@
+.gitignore
+Config.php
+FtpHelper.php
+GitDeploy.php
+GitHelper.php
+InputReader.php
+LECENSE
+README.md
+composer.json
+deploy.default.properties
+deploy.php

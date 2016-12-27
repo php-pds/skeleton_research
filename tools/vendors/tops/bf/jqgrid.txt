@@ -1,0 +1,10 @@
+.settings/
+config/
+src/BfJqGrid/
+view/JqGrid/
+.buildpath
+.gitignore
+.project
+Module.php
+README.md
+composer.json

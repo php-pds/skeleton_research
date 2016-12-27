@@ -1,0 +1,6 @@
+install/
+themes/gabinetevirtual/
+workshop/
+LICENSE
+README.md
+composer.json

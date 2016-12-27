@@ -1,0 +1,10 @@
+examples/
+spec/Marvel/
+src/Marvel/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+phpspec.yml

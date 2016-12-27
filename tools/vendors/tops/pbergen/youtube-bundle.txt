@@ -1,0 +1,6 @@
+Controller/
+DependencyInjection/
+Resources/
+Tests/Controller/
+PbergenYoutubeBundle.php
+composer.json

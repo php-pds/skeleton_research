@@ -1,0 +1,16 @@
+app/
+common/
+console/
+environments/
+tests/
+.bowerrc
+.gitignore
+LICENSE.md
+README.md
+build.xml
+composer.json
+composer.lock
+init
+init.bat
+requirements.php
+yii.bat

@@ -1,0 +1,8 @@
+libraries/substitute/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.mdown
+composer.json
+phpunit.xml.dist

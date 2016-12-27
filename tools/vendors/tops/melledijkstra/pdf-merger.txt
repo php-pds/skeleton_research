@@ -1,0 +1,8 @@
+samplepdfs/
+src/PDFMerger/
+.gitattributes
+.gitignore
+README.md
+composer.json
+composer.lock
+sample.php

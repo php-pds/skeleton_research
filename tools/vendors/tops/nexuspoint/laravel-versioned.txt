@@ -1,0 +1,7 @@
+migrations/
+src/
+.editorconfig
+.gitignore
+CHANGELOG.md
+README.md
+composer.json

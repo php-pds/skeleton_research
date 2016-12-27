@@ -1,0 +1,6 @@
+src/ForeupTemplateVariables/
+tests/ForeupTemplateVariables/
+.gitignore
+README.md
+composer.json
+phpunit.xml.dist

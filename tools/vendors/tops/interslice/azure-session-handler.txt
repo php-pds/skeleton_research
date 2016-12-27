@@ -1,0 +1,9 @@
+src/Interslice/SessionHandler/
+tests/Interslice/SessionHandler/
+.gitattributes
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

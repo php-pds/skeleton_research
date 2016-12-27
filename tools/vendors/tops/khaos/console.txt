@@ -1,0 +1,9 @@
+spec/Usage/Parser/
+src/
+tests/
+.gitignore
+README.md
+composer.json
+composer.lock
+phpspec.yml
+phpunit.xml

@@ -1,0 +1,13 @@
+src/Edps/
+tests/
+.gitignore
+.travis.yml
+CHANGELOG.md
+Gemfile
+Gemfile.lock
+Guardfile
+LICENSE
+README.md
+composer.json
+install.sh
+phpunit.xml.dist

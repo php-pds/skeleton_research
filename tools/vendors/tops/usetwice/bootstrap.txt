@@ -1,0 +1,14 @@
+docs/
+img/
+js/
+less/
+webfonts/
+.gitignore
+.travis.yml
+CONTRIBUTING.md
+LICENSE
+Makefile
+README.md
+component.json
+composer.json
+package.json

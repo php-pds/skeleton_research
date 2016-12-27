@@ -1,0 +1,4 @@
+src/Assistance/ArrayTools/
+LICENSE.txt
+README.md
+composer.json

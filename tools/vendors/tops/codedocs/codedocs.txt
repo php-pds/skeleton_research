@@ -1,0 +1,16 @@
+annotations/
+docs-src/
+docs/
+examples/
+functions/
+src/
+tests/integration/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+codedocs
+codedocs.config.php
+codedocs.php
+composer.json
+phpunit.xml.dist

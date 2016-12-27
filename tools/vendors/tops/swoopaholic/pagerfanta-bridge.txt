@@ -1,0 +1,5 @@
+LICENSE
+Pagerfanta.php
+README.md
+View.php
+composer.json

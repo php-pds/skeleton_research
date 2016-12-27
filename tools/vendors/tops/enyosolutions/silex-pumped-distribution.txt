@@ -1,0 +1,13 @@
+.idea/dictionaries/
+resources/
+src/
+tests/functional/
+web/
+.gitattributes
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+console
+phpunit.xml

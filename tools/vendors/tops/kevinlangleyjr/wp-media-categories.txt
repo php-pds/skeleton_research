@@ -1,0 +1,5 @@
+css/
+inc/
+js/
+composer.json
+wp-media-categories.php

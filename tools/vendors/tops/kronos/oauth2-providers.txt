@@ -1,0 +1,8 @@
+Kronos/Oauth2Providers/
+tests/
+.circle.yml
+.gitignore
+LICENSE
+README.md
+composer.json
+phpunit.xml

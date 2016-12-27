@@ -1,0 +1,11 @@
+akrys/ExtendedParseUrl/
+doc/
+tests/Parser/
+.gitignore
+README.de.md
+README.md
+composer.json
+extended_parse_url
+index.php
+phpdoc.xml
+phpunit.xml

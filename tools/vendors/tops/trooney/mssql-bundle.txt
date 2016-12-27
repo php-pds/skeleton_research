@@ -1,0 +1,8 @@
+Driver/PDODblib/
+Platforms/
+Schema/
+Types/
+.gitignore
+MssqlBundle.php
+Readme.md
+composer.json

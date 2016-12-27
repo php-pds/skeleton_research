@@ -1,0 +1,12 @@
+certs/
+lib/
+tests/
+.gitignore
+README.md
+_config.php
+composer.json
+index.php
+license.txt
+partner.php
+private.php
+public.php

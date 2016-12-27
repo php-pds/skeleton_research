@@ -1,0 +1,11 @@
+Api/
+Block/Adminhtml/Shops/Edit/
+Controller/Adminhtml/
+Model/
+Setup/
+Ui/Component/Listing/Column/
+etc/
+view/adminhtml/
+README.md
+composer.json
+registration.php

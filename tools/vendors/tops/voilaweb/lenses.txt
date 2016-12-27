@@ -1,0 +1,17 @@
+BUILD/doc/
+controllers/
+helpers/com/voilaweb/core/
+libs/
+migrations/
+models/
+tools/
+views/
+.htaccess
+.project
+LensesFramework.pdf
+composer.json
+config.php
+index.php
+license.txt
+please
+readme.txt

@@ -1,0 +1,9 @@
+config/
+public/img/
+src/NoIE/Model/
+view/error/
+.gitignore
+Module.php
+README.md
+autoload_classmap.php
+composer.json

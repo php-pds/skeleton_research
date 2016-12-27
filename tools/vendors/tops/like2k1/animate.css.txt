@@ -1,0 +1,10 @@
+source/
+.gitignore
+README.md
+animate-config.json
+animate.css
+animate.min.css
+bower.json
+composer.json
+gulpfile.js
+package.json

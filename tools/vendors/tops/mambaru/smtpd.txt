@@ -1,0 +1,11 @@
+smtpd/
+tests/
+.gitignore
+Makefile
+README.md
+application.php
+bootstrap.php
+composer.json
+functions.php
+phpunit.xml
+smtpd.sublime-project

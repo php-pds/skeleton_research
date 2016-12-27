@@ -1,0 +1,7 @@
+cache/
+examples/
+src/FlatBits/
+.gitignore
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,12 @@
+DependencyInjection/
+Resources/config/
+Tests/
+Twig/
+Widget/
+.gitignore
+.travis.yml
+Readme.md
+SaulsWidgetBundle.php
+composer.json
+composer.lock
+phpunit.xml.dist

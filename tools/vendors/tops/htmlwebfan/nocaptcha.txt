@@ -1,0 +1,5 @@
+examples/
+src/NoCaptcha/
+LICENSE.md
+README.md
+composer.json

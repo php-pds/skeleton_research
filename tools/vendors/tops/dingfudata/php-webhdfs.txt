@@ -1,0 +1,5 @@
+examples/
+src/org/apache/hadoop/
+.gitignore
+README.md
+composer.json

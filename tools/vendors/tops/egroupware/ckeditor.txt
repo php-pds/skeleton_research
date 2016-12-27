@@ -1,0 +1,12 @@
+adapters/
+lang/
+plugins/
+skins/
+CHANGES.md
+LICENSE.md
+ckeditor.js
+composer.json
+config.js
+contents.css
+egw_integration.txt
+styles.js

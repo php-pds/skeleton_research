@@ -1,0 +1,6 @@
+config/
+core/
+third_party/
+CHANGELOG.md
+README.md
+version.json

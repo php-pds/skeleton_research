@@ -1,0 +1,17 @@
+bin/
+docs/
+lib/Doctrine/DBAL/
+tests/
+.gitattributes
+.gitignore
+.gitmodules
+.travis.yml
+LICENSE
+README.md
+SECURITY.md
+UPGRADE.md
+build.properties
+build.xml
+composer.json
+phpunit.xml.dist
+run-all.sh

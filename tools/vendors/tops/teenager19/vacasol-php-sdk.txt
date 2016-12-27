@@ -1,0 +1,5 @@
+src/Vacasol/
+tests/Vacasol/Catalog/
+.gitignore
+README.md
+composer.json

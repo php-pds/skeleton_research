@@ -1,0 +1,5 @@
+views/
+.gitignore
+EYandexMetrikaWidget.php
+README.md
+composer.json

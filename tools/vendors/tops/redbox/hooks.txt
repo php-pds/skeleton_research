@@ -1,0 +1,12 @@
+.idea/
+demos/
+src/
+tests/
+.scrutinizer.yml
+.travis.yml
+ACTIONS.md
+FILTERS.md
+LICENSE.md
+README.md
+composer.json
+phpunit.xml

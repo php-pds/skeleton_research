@@ -1,0 +1,5 @@
+src/AutoindentLibraries/
+vendor/
+LICENSE
+composer.json
+composer.lock

@@ -1,0 +1,6 @@
+application/
+logs/
+public/
+.gitignore
+README.md
+composer.json

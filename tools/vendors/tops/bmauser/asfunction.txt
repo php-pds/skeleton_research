@@ -1,0 +1,7 @@
+lib/
+test/
+tpl/
+.gitignore
+LICENSE
+composer.json
+generate.php

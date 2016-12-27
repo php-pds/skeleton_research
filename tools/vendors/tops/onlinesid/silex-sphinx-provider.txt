@@ -1,0 +1,6 @@
+src/Provider/Search/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock

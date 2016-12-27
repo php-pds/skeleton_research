@@ -1,0 +1,6 @@
+data/
+models/
+AnonymousUserComponent.php
+LICENSE
+README.md
+composer.json

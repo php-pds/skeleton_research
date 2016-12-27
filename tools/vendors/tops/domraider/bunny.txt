@@ -1,0 +1,12 @@
+benchmark/
+spec/
+src/Bunny/
+test/Bunny/
+tutorial/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml
+reconnect.php

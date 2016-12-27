@@ -1,0 +1,11 @@
+pdfs/
+src/Soroush/Linkedin/
+test/
+.gitignore
+.travis.yml
+README.md
+composer.json
+composer.lock
+index.php
+linkedin.php
+phpunit.xml

@@ -1,0 +1,7 @@
+target/
+.editorconfig
+.gitignore
+LICENSE.md
+README.md
+composer.json
+ruleset.xml

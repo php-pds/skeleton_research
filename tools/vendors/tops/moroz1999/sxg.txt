@@ -1,0 +1,4 @@
+src/Sxg/
+LICENSE
+README.md
+composer.json

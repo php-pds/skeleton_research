@@ -1,0 +1,9 @@
+css/
+src/CFlashmsg/
+test/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE.txt
+README.md
+composer.json

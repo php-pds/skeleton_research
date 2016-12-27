@@ -1,0 +1,6 @@
+src/O/
+tests/
+LICENSE
+O.php
+README.md
+composer.json

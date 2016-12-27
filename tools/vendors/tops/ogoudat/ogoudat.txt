@@ -1,0 +1,10 @@
+src/Ogoudat/
+test/
+.editorconfig
+.gitattributes
+.gitignore
+.php_cs.dist
+LICENSE.md
+README.md
+composer.json
+phpunit.xml.dist

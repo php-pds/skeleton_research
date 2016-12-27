@@ -1,0 +1,6 @@
+example/
+library/Fanatique/Parser/
+.gitignore
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,6 @@
+doc/
+src/Hydra/
+.gitignore
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,14 @@
+doc/
+src/
+tests/
+.editorconfig
+.gitattributes
+.gitignore
+.travis.yml
+Gruntfile.js
+LICENSE
+README.md
+composer.json
+package.json
+phpunit.xml
+travis-ci.xml

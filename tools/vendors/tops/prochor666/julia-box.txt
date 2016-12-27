@@ -1,0 +1,9 @@
+dist/
+plugin/
+src/
+.gitignore
+LICENSE
+README.md
+composer.json
+gulpfile.js
+package.json

@@ -1,0 +1,7 @@
+DependencyInjection/
+Manager/
+Resources/config/
+NmAdflyBundle.php
+README.md
+README.rst
+composer.json

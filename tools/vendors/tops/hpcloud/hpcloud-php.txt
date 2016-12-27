@@ -1,0 +1,14 @@
+bin/
+doc/
+scripts/
+src/HPCloud/
+test/
+.gitignore
+CHANGELOG.md
+CREDITS
+LICENSE.txt
+Makefile
+README.md
+composer.json
+config.doxy
+phpunit.xml.dist

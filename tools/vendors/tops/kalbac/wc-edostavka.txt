@@ -1,0 +1,13 @@
+assets/
+includes/
+templates/emails/
+.editorconfig
+.gitignore
+.travis.yml
+LICENCE
+README.md
+_config.yml
+codesniffer.ruleset.xml
+composer.json
+readme.txt
+wc-edostavka.php

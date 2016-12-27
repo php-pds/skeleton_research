@@ -1,0 +1,8 @@
+classes/Pheanstalk/
+doc/
+tests/
+.gitmodules
+LICENCE
+README.md
+composer.json
+pheanstalk_init.php

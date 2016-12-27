@@ -1,0 +1,6 @@
+src/Copyrighter/
+tests/
+.gitignore
+README.md
+composer.json
+demo.php

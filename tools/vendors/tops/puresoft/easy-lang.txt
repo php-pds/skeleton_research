@@ -1,0 +1,7 @@
+languages/
+.gitignore
+LICENSE
+README.md
+composer.json
+easylang.php
+index.php

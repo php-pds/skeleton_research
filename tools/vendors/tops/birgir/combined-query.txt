@@ -1,0 +1,6 @@
+includes/
+.gitattributes
+LICENCE
+README.md
+combined-query.php
+composer.json

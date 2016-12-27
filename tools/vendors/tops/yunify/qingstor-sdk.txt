@@ -1,0 +1,15 @@
+docs/
+scenarios/
+specs/
+src/
+template/
+tests/
+.gitignore
+.gitmodules
+.travis.yml
+AUTHORS
+CHANGELOG.md
+LICENSE
+Makefile
+README.md
+composer.json

@@ -1,0 +1,6 @@
+.gitignore
+CHANGELOG.md
+LICENSE
+PicoFilePrefixes.php
+README.md
+composer.json

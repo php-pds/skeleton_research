@@ -1,0 +1,9 @@
+assets/
+demos/
+owl-carousel/
+.gitignore
+LICENSE
+README.md
+changelog.html
+composer.json
+index.html

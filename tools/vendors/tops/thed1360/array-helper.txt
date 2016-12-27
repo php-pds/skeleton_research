@@ -1,0 +1,7 @@
+src/Utilities/
+tests/
+.gitignore
+LICENSE
+README.md
+Readme.md
+composer.json

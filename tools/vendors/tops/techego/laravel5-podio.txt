@@ -1,0 +1,10 @@
+lib/
+models/
+tests/
+utils/
+.doxygen
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json

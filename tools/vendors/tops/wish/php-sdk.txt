@@ -1,0 +1,5 @@
+examples/
+src/Wish/
+LICENSE.md
+README.md
+composer.json

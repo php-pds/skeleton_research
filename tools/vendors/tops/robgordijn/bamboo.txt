@@ -1,0 +1,9 @@
+public/
+src/
+tests/
+.gitignore
+.travis.yml
+README.md
+bamboo-example.png
+composer.json
+phpunit.xml

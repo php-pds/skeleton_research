@@ -1,0 +1,8 @@
+src/
+.gitignore
+.semver
+.travis.yml
+LICENSE
+README.html
+README.md
+composer.json

@@ -1,0 +1,16 @@
+alters/
+app/
+lib/Cake/
+static/
+.editorconfig
+.gitignore
+.htaccess
+.scrutinizer.yml
+CONTRIBUTING.md
+README.md
+build.properties
+build.xml
+composer.json
+composer.lock
+index.php
+sql23-09-15.sql

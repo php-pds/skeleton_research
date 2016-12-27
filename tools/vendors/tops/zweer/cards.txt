@@ -1,0 +1,7 @@
+Demos/
+Source/
+src/Zweer/Cards/
+.gitignore
+README
+composer.json
+phpunit.xml

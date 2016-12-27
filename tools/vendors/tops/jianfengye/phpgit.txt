@@ -1,0 +1,4 @@
+src/PHPGit/
+LICENCE
+README.md
+composer.json

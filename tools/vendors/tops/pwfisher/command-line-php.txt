@@ -1,0 +1,8 @@
+tests/
+.gitignore
+CommandLine.php
+LICENSE
+README.md
+composer.json
+parseArgs.php
+phpunit.xml.dist

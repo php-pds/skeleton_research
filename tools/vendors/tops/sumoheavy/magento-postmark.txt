@@ -1,0 +1,6 @@
+app/
+lib/SUMOHeavy/Mail/Transport/
+.gitignore
+README.md
+composer.json
+modman

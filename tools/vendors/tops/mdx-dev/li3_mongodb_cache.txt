@@ -1,0 +1,6 @@
+extensions/adapter/storage/cache/
+tests/cases/extensions/adapter/storage/cache/
+.gitignore
+.travis.yml
+README.md
+composer.json

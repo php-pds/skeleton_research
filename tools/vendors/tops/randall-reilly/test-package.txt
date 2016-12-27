@@ -1,0 +1,10 @@
+.idea/
+src/HelloWorld/
+tests/
+vendor/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock
+index.php

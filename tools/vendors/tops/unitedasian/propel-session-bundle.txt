@@ -1,0 +1,8 @@
+DependencyInjection/
+Propel/
+Resources/config/
+.gitignore
+LICENSE
+README.md
+UAMPropelSessionBundle.php
+composer.json

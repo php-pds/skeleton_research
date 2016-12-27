@@ -1,0 +1,4 @@
+FileWatcher/
+nbproject/
+.gitignore
+composer.json

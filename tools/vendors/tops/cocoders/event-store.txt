@@ -1,0 +1,12 @@
+spec/Cocoders/
+src/Cocoders/
+tests/
+.gitignore
+.travis.yml
+Dockerfile
+LICENSE
+README.md
+composer.json
+composer.lock
+docker-compose.yml
+phpunit.xml.dist

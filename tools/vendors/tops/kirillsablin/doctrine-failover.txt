@@ -1,0 +1,10 @@
+features/
+src/DoctrineExtensions/DBAL/Connections/
+tests/
+.gitignore
+LICENSE
+README.md
+behat.yml
+composer.json
+phpunit.xml.dist
+readme-tests.md

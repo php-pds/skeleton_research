@@ -1,0 +1,6 @@
+bin/
+module/FzyAuth/
+.gitignore
+LICENSE.txt
+composer.json
+composer.lock

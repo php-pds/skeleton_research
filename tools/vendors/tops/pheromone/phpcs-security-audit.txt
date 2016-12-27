@@ -1,0 +1,7 @@
+Security/
+LICENSE
+README.md
+composer.json
+example_base_ruleset.xml
+example_drupal7_ruleset.xml
+tests.php

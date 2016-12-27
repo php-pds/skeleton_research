@@ -1,0 +1,7 @@
+app/
+LICENSE.txt
+README.md
+VERSION
+composer.json
+modman
+update_version.sh

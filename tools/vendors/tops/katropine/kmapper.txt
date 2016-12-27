@@ -1,0 +1,4 @@
+src/KMapper/
+tests/
+README.md
+composer.json

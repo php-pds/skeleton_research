@@ -1,0 +1,7 @@
+spec/LogViewerBundle/
+src/LogViewerBundle/
+.gitignore
+.travis.yml
+README.md
+build.xml
+composer.json

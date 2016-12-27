@@ -1,0 +1,7 @@
+Resources/views/Banner/
+Tests/
+.travis.yml
+GastonTestBundle.php
+README.md
+composer.json
+phpunit.xml.dist

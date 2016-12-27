@@ -1,0 +1,12 @@
+Controller/
+DependencyInjection/
+Exception/
+Resources/
+Security/Authentication/
+Service/
+.bowerrc
+.gitignore
+LICENSE
+SailBundle.php
+bower.json
+composer.json

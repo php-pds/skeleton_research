@@ -1,0 +1,8 @@
+lib/Brightcove/
+test/Brightcove/Test/
+README.md
+composer.json
+composer.lock
+config.json.sample
+phpunit.xml
+router.php

@@ -1,0 +1,11 @@
+config/
+db/
+docs/
+lib/
+.gitignore
+CHANGE_LOG
+INSTALL
+LICENSE
+README.markdown
+composer.json
+migrate.php

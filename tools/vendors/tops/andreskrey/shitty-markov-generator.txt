@@ -1,0 +1,4 @@
+src/ShittyMarkovGenerator/
+chainer.php
+composer.json
+readme.md

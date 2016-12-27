@@ -1,0 +1,7 @@
+app/
+skin/frontend/base/default/
+.gitignore
+LICENSE.txt
+README.md
+composer.json
+modman

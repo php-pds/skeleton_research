@@ -1,0 +1,9 @@
+src/CFilm/
+test/
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+autoloader.php
+composer.json
+phpunit.xml.dist

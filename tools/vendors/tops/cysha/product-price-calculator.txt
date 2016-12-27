@@ -1,0 +1,6 @@
+spec/Product/
+src/
+.gitignore
+README.md
+composer.json
+composer.lock

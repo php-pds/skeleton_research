@@ -1,0 +1,13 @@
+API/
+DependencyInjection/
+Resources/config/
+Tests/
+vendor/
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+SinyAmazonProductAdvertisingAPIBundle.php
+composer.json
+phpunit.xml.dist

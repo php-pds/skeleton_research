@@ -1,0 +1,8 @@
+.gitignore
+Gulpfile.js
+README.md
+composer.json
+composer.lock
+fail.png
+package.json
+phpspec.yml.dist

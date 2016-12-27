@@ -1,0 +1,9 @@
+spec/
+src/
+.scrutinizer.yml
+LICENSE
+README.md
+composer.json
+install.gif
+phpspec.yml
+use.gif

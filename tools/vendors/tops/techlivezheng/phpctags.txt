@@ -1,0 +1,13 @@
+bin/
+tests/
+.gitignore
+.travis.yml
+ChangeLog.md
+Makefile
+PHPCtags.class.php
+README.md
+bootstrap.php
+buildPHAR.php
+composer.json
+composer.lock
+phpunit.xml.dist

@@ -1,0 +1,6 @@
+config/
+src/
+view/emails/
+LICENSE
+composer.json
+readme.md

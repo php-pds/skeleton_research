@@ -1,0 +1,14 @@
+DependencyInjection/
+Exception/
+Factory/
+Http/
+Resources/config/
+Tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+AndiKickBoxBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

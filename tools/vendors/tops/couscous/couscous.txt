@@ -1,0 +1,16 @@
+bin/
+docs/
+src/
+tests/
+website/
+.gitattributes
+.gitignore
+.travis.yml
+CONTRIBUTING.md
+LICENSE
+README.md
+composer.json
+couscous.yml
+phpunit.xml.dist
+release.sh
+templates.md

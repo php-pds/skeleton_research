@@ -1,0 +1,6 @@
+app/
+front/
+src/Yarik/MicroSymfony/
+web/
+.gitignore
+composer.json

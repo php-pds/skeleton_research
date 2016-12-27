@@ -1,0 +1,12 @@
+DependencyInjection/
+Helper/
+Resources/config/
+Tests/
+.gitignore
+.travis.yml
+AutobotPosterBundle.php
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

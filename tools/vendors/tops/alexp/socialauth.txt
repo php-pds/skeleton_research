@@ -1,0 +1,7 @@
+DependencyInjection/
+OAuth/
+Resources/config/
+lib/
+AlexPSocialAuthBundle.php
+README.md
+composer.json

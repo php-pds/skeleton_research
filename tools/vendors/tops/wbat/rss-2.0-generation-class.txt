@@ -1,0 +1,6 @@
+src/RSS_Generation_Class/
+tests/
+LICENSE
+README.md
+composer.json
+travis.yml

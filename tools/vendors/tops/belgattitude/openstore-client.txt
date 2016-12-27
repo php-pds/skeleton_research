@@ -1,0 +1,12 @@
+bin/
+config/
+docs/
+src/OClient/
+.gitignore
+.php_cs
+CHANGELOG.md
+LICENSE
+README.md
+composer.json
+init_autoloader.php
+phpcs.xml

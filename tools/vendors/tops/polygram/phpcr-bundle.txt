@@ -1,0 +1,12 @@
+Controller/
+DataFixtures/PHPCR/
+DependencyInjection/
+Document/
+Helper/
+Resources/
+Tests/
+.travis.yml
+README.md
+composer.json
+phpunit.xml.dist
+polygramPHPCRBundle.php

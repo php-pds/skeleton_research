@@ -1,0 +1,6 @@
+spec/RDM/CustomSuffix/
+src/RDM/CustomSuffix/
+.gitignore
+README.md
+composer.json
+composer.lock

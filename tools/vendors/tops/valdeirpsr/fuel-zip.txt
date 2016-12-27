@@ -1,0 +1,7 @@
+classes/
+config/
+lang/en/
+LICENSE
+README.md
+bootstrap.php
+composer.json

@@ -1,0 +1,7 @@
+docs/api/
+src/PHPMusicTools/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock

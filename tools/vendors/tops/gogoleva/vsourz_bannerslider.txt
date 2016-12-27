@@ -1,0 +1,9 @@
+app/
+js/vsourz/bannerslider/
+media/bannerslider/
+skin/frontend/base/default/
+LICENSE
+README.md
+composer.json
+modman
+package.xml

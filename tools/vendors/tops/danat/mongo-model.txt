@@ -1,0 +1,7 @@
+.gitignore
+LICENSE.md
+MongoDbConnection.php
+MongoDoc.php
+MongoModel.php
+README.md
+composer.json

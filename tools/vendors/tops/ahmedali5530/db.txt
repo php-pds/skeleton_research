@@ -1,0 +1,6 @@
+src/DB/
+vendor/
+.gitignore
+composer.json
+license
+readme.md

@@ -1,0 +1,8 @@
+docs/
+src/MqSeries/
+tests/MqSeries/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock

@@ -1,0 +1,9 @@
+Classes/
+Tests/
+.gitignore
+LICENSE.md
+README.md
+annotation_tool_example.php
+composer.json
+humbug.json.dist
+phpunit.xml.dist

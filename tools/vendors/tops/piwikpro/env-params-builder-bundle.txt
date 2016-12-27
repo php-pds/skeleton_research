@@ -1,0 +1,14 @@
+src/PiwikPRO/EnvParamsBuilderBundle/
+tests/
+.gitignore
+.php_cs
+.travis.yml
+LICENSE
+README.md
+behat.yml
+build.xml
+composer.json
+composer.lock
+phpcs.xml
+phpmd.xml
+phpunit.xml.dist

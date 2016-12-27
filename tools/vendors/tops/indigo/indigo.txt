@@ -1,0 +1,9 @@
+core/
+sites/
+vendor/
+.gitignore
+.htaccess
+LICENSE
+README.md
+composer.json
+index.php

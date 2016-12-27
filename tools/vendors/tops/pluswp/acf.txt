@@ -1,0 +1,15 @@
+core/
+css/
+images/
+js/
+lang/
+.gitignore
+README.md
+acf.php
+composer.json
+config.codekit
+readme.txt
+screenshot-1.png
+screenshot-2.png
+screenshot-3.png
+screenshot-4.png

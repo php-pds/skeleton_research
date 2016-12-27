@@ -1,0 +1,9 @@
+lib/
+tests/
+.gitignore
+.travis.yml
+CHANGELOG.md
+Makefile
+README.md
+composer.json
+phpunit.xml

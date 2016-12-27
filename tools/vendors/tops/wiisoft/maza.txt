@@ -1,0 +1,12 @@
+css/
+favicon/
+fonts/
+image/
+js/
+tmp/
+README.md
+bower.json
+composer.json
+favicon.ico
+index.html
+maza.png

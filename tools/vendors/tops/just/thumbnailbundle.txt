@@ -1,0 +1,10 @@
+Controller/
+DependencyInjection/
+Resources/
+Services/
+Tests/
+Twig/
+JustThumbnailBundle.php
+LICENSE
+README.md
+composer.json

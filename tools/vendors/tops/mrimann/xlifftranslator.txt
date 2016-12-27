@@ -1,0 +1,8 @@
+Classes/Mrimann/XliffTranslator/
+Configuration/
+Documentation/Screenshots/
+Resources/
+.gitignore
+LICENSE
+README.md
+composer.json

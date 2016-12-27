@@ -1,0 +1,4 @@
+lib/KennWilson/ColorMap/
+LICENSE.txt
+README.md
+composer.json

@@ -1,0 +1,9 @@
+assets/
+js/
+.editorconfig
+.gitignore
+composer.json
+foogallery-slick-extension.php
+foogallery-slick-init.php
+gallery-foogallery-slick-slider-sync.php
+gallery-foogallery-slick.php

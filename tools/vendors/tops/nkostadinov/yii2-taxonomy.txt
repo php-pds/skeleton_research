@@ -1,0 +1,16 @@
+behaviors/
+components/
+controllers/
+migrations/
+models/
+tests/
+traits/
+views/def/
+.gitignore
+.travis.yml
+Module.php
+README.md
+Taxonomy.php
+codeception.yml
+composer.json
+composer.lock

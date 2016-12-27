@@ -1,0 +1,6 @@
+Controller/
+DependencyInjection/
+Resources/config/
+Service/
+HorribleSolutionsFlaggerizerBundle.php
+composer.json

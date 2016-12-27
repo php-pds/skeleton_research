@@ -1,0 +1,8 @@
+Collector/
+Command/
+DependencyInjection/
+Provider/
+Resolver/
+Resources/config/
+PHPMentorsAnnotationCheckerBundle.php
+composer.json

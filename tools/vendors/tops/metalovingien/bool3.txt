@@ -1,0 +1,7 @@
+doc/
+src/Metalovingien/Types/Bool3/
+tests/Metalovingien/Types/Bool3/
+LICENSE
+README.md
+composer.json
+phpunit.xml

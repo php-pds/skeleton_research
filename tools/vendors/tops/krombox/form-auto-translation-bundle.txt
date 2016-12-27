@@ -1,0 +1,12 @@
+Controller/
+DependencyInjection/
+Form/
+Locale/
+Resources/
+Tests/
+.gitignore
+.travis.yml
+KromboxFormAutoTranslationBundle.php
+README.md
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,6 @@
+src/Opesho/Upload/Validation/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json

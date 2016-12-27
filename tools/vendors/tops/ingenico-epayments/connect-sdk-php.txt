@@ -1,0 +1,9 @@
+lib/Ingenico/Connect/Sdk/
+src/Ingenico/Connect/Sdk/
+tests/
+.gitattributes
+.gitignore
+LICENSE.txt
+README.md
+composer.json
+phpunit.xml.dist

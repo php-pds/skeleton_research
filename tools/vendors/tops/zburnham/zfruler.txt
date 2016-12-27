@@ -1,0 +1,10 @@
+config/
+src/ZFRuler/Factory/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+Module.php
+README.md
+composer.json
+phpunit.xml

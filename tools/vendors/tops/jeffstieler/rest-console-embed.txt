@@ -1,0 +1,10 @@
+.gitignore
+README.md
+composer.json
+composer.lock
+config.plugin.json
+gulpfile.js
+package.json
+readme.txt
+rest-console-embed.php
+screenshot-1.png

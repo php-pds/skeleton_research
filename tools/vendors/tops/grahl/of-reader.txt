@@ -1,0 +1,8 @@
+docs/
+src/
+tests/
+OFReader
+README.md
+composer.json
+composer.lock
+config.yml.default

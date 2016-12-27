@@ -1,0 +1,7 @@
+images/
+LevelRewards.csv
+LevelRewards.json
+Pokedex.csv
+Pokedex.json
+README.md
+composer.json

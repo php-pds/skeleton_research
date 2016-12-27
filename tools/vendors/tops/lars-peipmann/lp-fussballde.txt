@@ -1,0 +1,10 @@
+Classes/
+Configuration/
+Documentation/
+Resources/Private/
+.gitignore
+composer.json
+ext_emconf.php
+ext_icon.gif
+ext_localconf.php
+ext_tables.php

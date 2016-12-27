@@ -1,0 +1,7 @@
+src/Rezadaulay/JqUpload/
+tests/
+.travis.yml
+README.md
+composer.json
+phpunit.xml
+provides.json

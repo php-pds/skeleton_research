@@ -1,0 +1,17 @@
+publishable/
+resources/views/
+routes/
+src/
+stubs/
+tests/
+.gitattributes
+.gitignore
+.php_cs
+.travis.yml
+ISSUE_TEMPLATE
+README.md
+composer.json
+composer.lock
+license
+phpunit.xml
+versioning.md

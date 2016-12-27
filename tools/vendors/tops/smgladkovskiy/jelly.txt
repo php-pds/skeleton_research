@@ -1,0 +1,8 @@
+classes/
+config/
+guide/jelly/
+tests/
+LICENSE
+README.md
+composer.json
+phpunit.xml

@@ -1,0 +1,13 @@
+.settings/
+application/
+bootstraps/
+core/
+public/
+vendor/
+.htaccess
+.project
+README.md
+composer.json
+composer.phar
+index.php
+test.php

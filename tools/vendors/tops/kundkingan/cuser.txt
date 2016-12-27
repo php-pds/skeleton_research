@@ -1,0 +1,13 @@
+app/src/CUser/
+src/CUser/
+test/
+.phpunit.xml
+.scrutinizer.yml
+.travis.yml
+LICENSE.txt
+README.md
+autoloader.php
+composer.json
+composer.lock
+coverage.clover
+phpunit.xml.dist

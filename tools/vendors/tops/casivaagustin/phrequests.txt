@@ -1,0 +1,6 @@
+docs/
+src/PHRequests/
+tests/
+.gitignore
+README.md
+composer.json

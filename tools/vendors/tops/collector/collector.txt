@@ -1,0 +1,10 @@
+benchmarks/
+.gitignore
+Collector.php
+CollectorTest.php
+README.md
+composer.json
+composer.lock
+phpbench.json
+phpunit.xml
+test.php

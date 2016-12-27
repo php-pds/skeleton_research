@@ -1,0 +1,11 @@
+assets/
+classes/
+components/
+controllers/
+lang/
+models/
+updates/
+views/mail/
+.gitignore
+Plugin.php
+composer.json

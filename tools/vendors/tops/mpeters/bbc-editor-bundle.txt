@@ -1,0 +1,6 @@
+DependencyInjection/
+Form/Type/
+Resources/
+BBCEditorBundle.php
+README.md
+composer.json

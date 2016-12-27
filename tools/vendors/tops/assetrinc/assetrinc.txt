@@ -1,0 +1,7 @@
+src/Assetrinc/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock
+package.json

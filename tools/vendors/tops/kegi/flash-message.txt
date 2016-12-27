@@ -1,0 +1,5 @@
+docs/
+src/FlashMessage/
+LICENSE
+README.md
+composer.json

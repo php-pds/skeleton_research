@@ -1,0 +1,8 @@
+DependencyInjection/
+Model/
+Resources/
+Tests/Controller/
+.gitattributes
+.gitignore
+RemgMediaBundle.php
+composer.json

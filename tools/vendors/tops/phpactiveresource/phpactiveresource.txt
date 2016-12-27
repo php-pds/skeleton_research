@@ -1,0 +1,8 @@
+examples/
+lib/
+tests/
+.travis.yml
+LICENSE
+README.textile
+composer.json
+phpunit.xml.dist

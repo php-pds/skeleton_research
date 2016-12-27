@@ -1,0 +1,7 @@
+controllers/
+models/
+views/user/
+README.md
+composer.json
+user.sql
+usermanagementModule.php

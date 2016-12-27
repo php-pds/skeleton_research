@@ -1,0 +1,9 @@
+Controller/
+DependencyInjection/
+Resources/
+Tests/Controller/
+.gitignore
+LICENSE
+McGroovinMultivariateTestsBundle.php
+README.md
+composer.json

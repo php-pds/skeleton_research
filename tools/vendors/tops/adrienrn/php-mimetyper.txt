@@ -1,0 +1,8 @@
+node_modules/mime-db/
+resources/
+src/
+.gitignore
+LICENSE
+README.md
+composer.json
+package.json

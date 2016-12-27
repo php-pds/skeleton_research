@@ -1,0 +1,17 @@
+Command/
+Connection/
+DependencyInjection/
+Event/
+EventListener/
+IrcCommands/
+Message/
+Resources/config/
+Tests/
+Utils/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+WhisnetIrcBotBundle.php
+composer.json
+phpunit.xml.dist

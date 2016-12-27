@@ -1,0 +1,16 @@
+config/
+fonts/
+include/
+tools/
+CHANGELOG.TXT
+LICENSE.TXT
+README.TXT
+README.md
+composer.json
+moodlelib.php
+tcpdf.php
+tcpdf_autoconfig.php
+tcpdf_barcodes_1d.php
+tcpdf_barcodes_2d.php
+tcpdf_import.php
+tcpdf_parser.php

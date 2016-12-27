@@ -1,0 +1,4 @@
+protected/
+.gitignore
+README
+composer.json

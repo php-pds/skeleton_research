@@ -1,0 +1,6 @@
+config/
+Module.php
+README.md
+composer.json
+coverage-checker.php
+license

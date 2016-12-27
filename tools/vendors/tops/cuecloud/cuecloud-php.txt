@@ -1,0 +1,7 @@
+src/CueCloud/API/
+tests/
+.gitignore
+README.md
+composer.json
+phpunit.local.xml
+phpunit.xml

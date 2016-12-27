@@ -1,0 +1,10 @@
+examples/
+recipes/Zend/v1/
+src/Factory/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

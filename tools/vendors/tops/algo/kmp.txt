@@ -1,0 +1,12 @@
+tests/
+.travis.yml
+README.md
+composer.json
+config.m4
+debug.c
+kmp.c
+kmp.h
+kmp.php
+main.c
+php_kmp.c
+php_kmp.h

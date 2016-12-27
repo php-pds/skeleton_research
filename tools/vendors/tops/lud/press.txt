@@ -1,0 +1,8 @@
+public/lib/
+src/
+.env.example
+.gitignore
+LICENSE.txt
+Makefile
+README.md
+composer.json

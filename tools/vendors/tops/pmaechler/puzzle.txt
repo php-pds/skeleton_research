@@ -1,0 +1,4 @@
+Classes/Pmaechler/Puzzle/
+Resources/
+Tests/Unit/Domain/Model/
+composer.json

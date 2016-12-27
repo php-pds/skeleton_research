@@ -1,0 +1,4 @@
+src/
+.gitattributes
+READMe.md
+composer.json

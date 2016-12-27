@@ -1,0 +1,14 @@
+build/
+data/
+src/
+tests/
+.gitattributes
+.gitignore
+.styleci.yml
+.travis.yml
+CLDR-VERSION.txt
+LICENSE
+README.md
+build.xml
+composer.json
+phpunit.xml.dist

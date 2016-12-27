@@ -1,0 +1,13 @@
+app/
+bin/
+src/
+var/
+web/
+.bowerrc
+.gitignore
+Capfile
+LICENSE
+README.md
+bower.json
+composer.json
+composer.lock

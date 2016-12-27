@@ -1,0 +1,9 @@
+src/
+tests/lib/
+.gitignore
+.travis.yml
+README.md
+composer.json
+composer.lock
+example-usage.php
+prereq-loader.php

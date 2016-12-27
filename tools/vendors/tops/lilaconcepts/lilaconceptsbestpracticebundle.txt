@@ -1,0 +1,16 @@
+Controller/
+DependencyInjection/
+Resources/
+Tests/Functional/
+hooks/
+.gitignore
+.travis.yml
+CHANGELOG-2.1.md
+CONTRIBUTORS.md
+LICENCE
+LilaConceptsBestPracticeBundle.php
+README.md
+composer.json
+composer.lock
+phpdoc.dist.xml
+phpunit.xml.dist

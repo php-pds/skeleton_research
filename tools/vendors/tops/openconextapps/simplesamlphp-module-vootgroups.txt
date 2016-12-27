@@ -1,0 +1,11 @@
+docs/
+lib/
+www/
+.gitignore
+CHANGES.md
+LICENSE
+README.md
+composer.json
+composer.lock
+default-enable
+make_release.sh

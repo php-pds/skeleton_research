@@ -1,0 +1,12 @@
+CLI/Operation/
+Exception/
+Image/
+Operation/
+Options/
+Tests/
+.gitignore
+ImageMagick.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

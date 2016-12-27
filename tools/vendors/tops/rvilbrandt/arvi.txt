@@ -1,0 +1,11 @@
+modules/
+src/
+test/
+.gitignore
+LICENSE
+README.md
+bootstrap.php
+composer.json
+composer.lock
+index.php
+page_registry.xml

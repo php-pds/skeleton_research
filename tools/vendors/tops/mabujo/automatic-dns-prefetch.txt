@@ -1,0 +1,9 @@
+includes/
+LICENSE
+README.md
+automatic-dns-prefetch.php
+composer.json
+index.php
+package.json
+readme.txt
+uninstall.php

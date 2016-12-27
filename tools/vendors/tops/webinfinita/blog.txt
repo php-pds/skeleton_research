@@ -1,0 +1,5 @@
+src/Webinfinita/Blog/
+.gitignore
+LICENSE
+README.md
+composer.json

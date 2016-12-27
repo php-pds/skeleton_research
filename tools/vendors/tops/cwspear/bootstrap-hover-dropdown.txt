@@ -1,0 +1,10 @@
+.gitignore
+LICENSE
+README.md
+bootstrap-hover-dropdown.js
+bootstrap-hover-dropdown.min.js
+bower.json
+composer.json
+demo.html
+gulpfile.js
+package.json

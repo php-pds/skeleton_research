@@ -1,0 +1,6 @@
+LICENSE
+README.md
+composer.json
+language.xml
+registration.php
+th_th.component.magento2_base.csv

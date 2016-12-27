@@ -1,0 +1,13 @@
+build/
+doc/
+examples/
+src/
+tests/
+.gitignore
+CHANGELOG.md
+LICENSE
+README.md
+circle.yml
+composer.json
+config.example.json
+phpunit.xml

@@ -1,0 +1,6 @@
+src/Galonso/FixedLengthHelper/
+tests/
+.travis.yml
+README.md
+composer.json
+phpunit.xml

@@ -1,0 +1,11 @@
+assets/
+includes/
+lang/
+.gitignore
+LICENSE
+composer.json
+index.php
+readme.txt
+remove-wordpress-overhead.php
+screenshot-1.png
+uninstall.php

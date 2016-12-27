@@ -1,0 +1,5 @@
+samples/
+src/Phprop/
+.gitignore
+README.md
+composer.json

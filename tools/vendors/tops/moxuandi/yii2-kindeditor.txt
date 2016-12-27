@@ -1,0 +1,9 @@
+assets/
+KindEditor.php
+KindEditorAction.php
+KindEditorAsset.php
+KindEditor_parameter.php
+README.md
+Uploader.php
+composer.json
+config.php

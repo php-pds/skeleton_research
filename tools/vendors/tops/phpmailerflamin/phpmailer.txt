@@ -1,0 +1,7 @@
+LICENSE
+PHPMailerAutoload.php
+README.md
+class.phpmailer.php
+class.pop3.php
+class.smtp.php
+composer.json

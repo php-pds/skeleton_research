@@ -1,0 +1,5 @@
+app/
+js/manners/adminhtml/
+README.md
+composer.json
+modman

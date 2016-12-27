@@ -1,0 +1,6 @@
+doc/
+src/Knab/
+.gitignore
+README.md
+composer.json
+composer.lock

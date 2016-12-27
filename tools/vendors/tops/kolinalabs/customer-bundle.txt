@@ -1,0 +1,10 @@
+DependencyInjection/
+Entity/
+Form/
+Resources/config/
+Tests/
+KolinaCustomerBundle.php
+LICENSE
+README.md
+composer.json
+contributors.txt

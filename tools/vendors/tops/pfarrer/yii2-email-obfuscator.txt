@@ -1,0 +1,4 @@
+LICENSE
+Obfuscator.php
+README.md
+composer.json

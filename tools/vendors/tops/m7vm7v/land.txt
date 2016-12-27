@@ -1,0 +1,7 @@
+src/
+vendor/
+.gitignore
+LICENSE
+composer.json
+phpunit.xml
+readme.md

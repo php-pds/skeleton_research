@@ -1,0 +1,8 @@
+examples/
+src/Phpcsp/Security/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json
+phpunit.dist.xml

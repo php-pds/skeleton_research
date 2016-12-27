@@ -1,0 +1,4 @@
+src/XTCommerce/ShopAppstoreLib/
+LICENSE
+README.md
+composer.json

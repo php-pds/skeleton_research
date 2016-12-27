@@ -1,0 +1,14 @@
+assets/
+config/
+controllers/
+layouts/default/
+models/
+templates_c/
+vendor/
+views/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock
+index.php

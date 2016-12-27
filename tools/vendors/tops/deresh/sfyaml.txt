@@ -1,0 +1,7 @@
+doc/
+lib/
+test/
+LICENSE
+README.markdown
+composer.json
+package.xml

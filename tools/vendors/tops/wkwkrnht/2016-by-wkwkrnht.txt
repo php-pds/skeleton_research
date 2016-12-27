@@ -1,0 +1,16 @@
+inc/
+widget/
+.gitattributes
+.gitignore
+LICENSE
+amp.php
+composer.json
+footer.php
+functions.php
+header.php
+index.php
+readme.md
+readme.txt
+screenshot.png
+style.css
+styles.php

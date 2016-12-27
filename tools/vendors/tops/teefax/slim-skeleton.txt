@@ -1,0 +1,7 @@
+app/
+public/
+.gitignore
+Gemfile
+README.md
+composer.json
+config.rb

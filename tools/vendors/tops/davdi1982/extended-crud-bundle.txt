@@ -1,0 +1,8 @@
+Command/
+Controller/
+Generator/
+Resources/
+DevelopatheCrudBundle.php
+LICENSE
+README.md
+composer.json

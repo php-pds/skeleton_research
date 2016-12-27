@@ -1,0 +1,6 @@
+src/
+test/
+.editorconfig
+LICENSE
+README.md
+composer.json

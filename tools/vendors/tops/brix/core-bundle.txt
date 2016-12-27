@@ -1,0 +1,13 @@
+Command/
+Controller/
+DependencyInjection/
+Entity/
+EventListener/
+Forms/
+Model/
+Resources/
+Tests/Controller/
+.gitignore
+BrixCoreBundle.php
+README.md
+composer.json

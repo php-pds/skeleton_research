@@ -1,0 +1,8 @@
+assets/
+php/
+ConnectorAction.php
+CoreAsset.php
+README.md
+ServerFileInput.php
+composer.json
+yii2elfinder.php

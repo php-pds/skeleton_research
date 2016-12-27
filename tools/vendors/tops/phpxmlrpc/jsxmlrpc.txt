@@ -1,0 +1,12 @@
+debugger/
+demo/
+doc/
+lib/
+.gitignore
+Changelog.txt
+Makefile
+NEWS
+README
+composer.json
+jsmin.php
+minify.php

@@ -1,0 +1,11 @@
+examples/
+library/
+.coveralls.yml
+.gitignore
+.travis.yml
+LICENCE
+README.md
+clover.xml
+composer.json
+config.default.php
+test.php

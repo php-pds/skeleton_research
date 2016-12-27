@@ -1,0 +1,12 @@
+bin/
+example/
+src/SilexRiak/
+tests/
+.gitignore
+.project
+.travis.yml
+MIT-LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

@@ -1,0 +1,5 @@
+examples/
+src/Emid/CouchDB/
+.gitignore
+README.md
+composer.json

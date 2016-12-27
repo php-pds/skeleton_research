@@ -1,0 +1,4 @@
+src/StanfordNLP/
+README.md
+autoload.php
+composer.json

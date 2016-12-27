@@ -1,0 +1,14 @@
+Annotation/
+Aop/
+Controller/
+DependencyInjection/
+Resources/config/
+Storaging/
+Tests/
+.gitignore
+.travis.yml
+IctStatsBundle.php
+README.md
+SettingParametersInterface.php
+composer.json
+phpunit.xml.dist

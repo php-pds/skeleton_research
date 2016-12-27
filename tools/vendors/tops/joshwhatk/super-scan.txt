@@ -1,0 +1,8 @@
+config/
+database/migrations/
+src/
+views/emails/
+.editorconfig
+.gitignore
+composer.json
+readme.md

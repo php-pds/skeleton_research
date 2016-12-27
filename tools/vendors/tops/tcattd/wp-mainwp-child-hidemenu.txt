@@ -1,0 +1,5 @@
+LICENSE
+README.md
+composer.json
+index.php
+wp-mainwp-child-hidemenu.php

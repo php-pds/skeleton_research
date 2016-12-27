@@ -1,0 +1,10 @@
+DependencyInjection/
+MasterDiscovery/
+Resources/config/
+Symfony/Component/HttpFoundation/Session/Storage/Handler/
+Tests/
+LICENSE
+README.md
+SparkcentralPSRedisBundle.php
+composer.json
+phpunit.xml.dist

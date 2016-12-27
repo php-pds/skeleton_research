@@ -1,0 +1,7 @@
+fieldtypes/
+resources/
+templates/fieldtypes/ColourSelect/
+ColourLimitedPlugin.php
+LICENSE.txt
+README.md
+composer.json

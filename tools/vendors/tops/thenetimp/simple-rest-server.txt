@@ -1,0 +1,6 @@
+app/
+htdocs/
+src/
+vendor/
+README.md
+composer.json

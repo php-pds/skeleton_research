@@ -1,0 +1,6 @@
+src/
+AUTHORS
+LICENSE
+README.md
+composer.json
+phpcs.xml

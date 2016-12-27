@@ -1,0 +1,6 @@
+examples/
+src/Paxx/Telldus/
+.gitignore
+LICENSE
+README.md
+composer.json

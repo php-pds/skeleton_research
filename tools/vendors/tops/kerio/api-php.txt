@@ -1,0 +1,8 @@
+class/
+KerioConnectApi.php
+KerioControlApi.php
+KerioDirectoryApi.php
+KerioOperatorApi.php
+KerioWorkspaceApi.php
+SamepageApi.php
+composer.json

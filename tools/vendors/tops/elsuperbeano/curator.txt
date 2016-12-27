@@ -1,0 +1,11 @@
+bin/
+config/
+doc/
+hooks/
+src/
+tests/Curator/
+.gitignore
+LICENSE
+README.md
+composer.json
+phpunit.xml

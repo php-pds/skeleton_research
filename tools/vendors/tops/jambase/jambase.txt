@@ -1,0 +1,3 @@
+src/Jambase/Service/
+README.md
+composer.json

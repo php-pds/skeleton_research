@@ -1,0 +1,5 @@
+assets/
+config/
+templates/
+Readme.md
+composer.json

@@ -1,0 +1,6 @@
+doc/ru/
+lang/ru/
+lib/
+README.md
+class.php
+composer.json

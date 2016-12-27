@@ -1,0 +1,17 @@
+Controller/
+DependencyInjection/
+Event/
+Form/
+Manager/
+Model/
+Resources/
+Tests/
+Traits/
+Validator/Constraints/
+.gitignore
+.travis.yml
+TannaProductBundle.php
+TannaProductBundleEvents.php
+composer.json
+phpunit.xml.dist
+readme.md

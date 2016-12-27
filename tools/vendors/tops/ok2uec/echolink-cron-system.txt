@@ -1,0 +1,8 @@
+logs/
+media/
+screenshot/
+twig/
+.htaccess
+README.md
+composer.json
+index.php

@@ -1,0 +1,14 @@
+documents/
+source/
+specs/
+support/
+.codeclimate.yml
+.coveralls.yml
+.editorconfig
+.gitignore
+.scrutinizer.yml
+.travis.yml
+.vimrc
+README.md
+circle.yml
+composer.json

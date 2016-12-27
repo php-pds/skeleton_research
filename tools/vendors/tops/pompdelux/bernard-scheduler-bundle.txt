@@ -1,0 +1,9 @@
+Command/
+DependencyInjection/
+Resources/config/
+BernardSchedulerBundle.php
+Job.php
+README.md
+Runner.php
+Scheduler.php
+composer.json

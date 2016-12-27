@@ -1,0 +1,5 @@
+src/mkosiedowski/SimpleApiKeyBundle/
+.gitignore
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,12 @@
+Git.php @ 0d1a996
+widgets/git-commit-and-push-content/
+.gitignore
+.gitmodules
+Gruntfile.js
+LICENSE.md
+changelog.md
+composer.json
+git-commit-and-push-content.php
+helpers.php
+package.json
+readme.md

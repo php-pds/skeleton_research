@@ -1,0 +1,4 @@
+src/Sloth/
+README.md
+composer.json
+license.txt

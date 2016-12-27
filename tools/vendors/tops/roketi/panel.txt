@@ -1,0 +1,13 @@
+Build/Travis/
+Configuration/
+Packages/Application/Roketi.Panel/
+.bowerrc
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CONTRIBUTORS.md
+LICENSE
+README.md
+bower.json
+composer.json
+composer.lock

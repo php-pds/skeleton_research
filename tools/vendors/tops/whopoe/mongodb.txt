@@ -1,0 +1,3 @@
+src/Jenssegers/
+README.md
+composer.json

@@ -1,0 +1,5 @@
+src/Easemob/
+storage/
+.gitignore
+README.md
+composer.json

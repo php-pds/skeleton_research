@@ -1,0 +1,16 @@
+Admin/
+Controller/
+DataCollector/
+DependencyInjection/
+Entity/
+EventListener/
+Form/
+Resources/
+Tests/
+Translation/
+.gitignore
+.travis.yml
+AOTranslationBundle.php
+README.md
+composer.json
+phpunit.xml.dist

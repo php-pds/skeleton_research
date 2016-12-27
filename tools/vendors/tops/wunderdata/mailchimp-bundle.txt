@@ -1,0 +1,12 @@
+Client/
+DependencyInjection/
+Exception/
+Resources/config/
+Tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+WunderdataMailchimpBundle.php
+composer.json
+phpunit.xml.dist

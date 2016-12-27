@@ -1,0 +1,16 @@
+Bridge/Doctrine/
+Command/
+Display/
+Exception/
+Http/
+Hydrator/
+Registry/
+Resources/
+Singleton/
+SoftDelete/
+Tests/
+Twig/
+LICENSE
+README.md
+ThuataComponentBundle.php
+composer.json

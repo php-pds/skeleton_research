@@ -1,0 +1,7 @@
+assets/js/
+AssetBundle.php
+CFValidator.php
+CFValidatorAsset.php
+LICENSE
+README.md
+composer.json

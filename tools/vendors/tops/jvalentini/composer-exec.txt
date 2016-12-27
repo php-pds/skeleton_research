@@ -1,0 +1,5 @@
+src/jvalentini/Composer/Exec/
+.gitignore
+README
+composer.json
+composer.lock

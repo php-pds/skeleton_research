@@ -1,0 +1,11 @@
+nbproject/
+src/
+tests/
+.gitignore
+.travis.yml
+CHANGELOG
+LICENSE
+README.md
+apigen.neon
+composer.json
+phpunit.xml

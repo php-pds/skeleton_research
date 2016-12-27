@@ -1,0 +1,11 @@
+application/
+migrations/
+tests/data/home/
+.gitignore
+Makefile
+Readme.md
+composer.json
+composer.lock
+config.yml
+index.php
+phinx.yml

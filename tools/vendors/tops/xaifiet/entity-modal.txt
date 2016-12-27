@@ -1,0 +1,8 @@
+Controller/
+DependencyInjection/
+Form/
+Resources/
+.gitignore
+EntityModalBundle.php
+README.md
+composer.json

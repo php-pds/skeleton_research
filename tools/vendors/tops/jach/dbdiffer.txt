@@ -1,0 +1,10 @@
+bin/
+config/
+src/DBDiffer/
+tests/
+.gitignore
+.travis.yml
+LICENSE.md
+README.md
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,5 @@
+src/Mailer/Transport/
+.gitignore
+LICENSE.txt
+composer.json
+readme.md

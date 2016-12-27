@@ -1,0 +1,7 @@
+Block/
+Model/Plugin/
+etc/
+view/base/
+README.md
+composer.json
+registration.php

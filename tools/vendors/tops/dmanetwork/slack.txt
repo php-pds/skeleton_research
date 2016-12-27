@@ -1,0 +1,4 @@
+src/DMA/Slack/
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,13 @@
+conf/
+doc/
+resources/
+src/
+.gitattributes
+.gitignore
+.twgit
+CHANGELOG.md
+LICENSE
+README.md
+apigen.neon
+composer.json
+composer.lock

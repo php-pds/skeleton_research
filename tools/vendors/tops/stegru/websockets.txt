@@ -1,0 +1,7 @@
+src/WebSockets/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json
+phpunit.xml

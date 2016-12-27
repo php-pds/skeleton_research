@@ -1,0 +1,5 @@
+assets/
+Extension.php
+README.md
+composer.json
+init.php

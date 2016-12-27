@@ -1,0 +1,5 @@
+magmi/
+.gitignore
+README.md
+composer.json
+modman

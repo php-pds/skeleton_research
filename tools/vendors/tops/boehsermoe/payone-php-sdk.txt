@@ -1,0 +1,7 @@
+docs/
+js/
+locale/
+php/Payone/
+.gitignore
+README.md
+composer.json

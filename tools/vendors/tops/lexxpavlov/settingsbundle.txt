@@ -1,0 +1,12 @@
+Admin/
+DBAL/
+DependencyInjection/
+Entity/
+Form/
+Resources/
+Service/
+Twig/
+LICENSE
+LexxpavlovSettingsBundle.php
+README.md
+composer.json

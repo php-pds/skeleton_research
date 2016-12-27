@@ -1,0 +1,12 @@
+bin/
+build/
+example/
+src/Acvos/Bubbles/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+build.xml
+composer.json
+composer.lock

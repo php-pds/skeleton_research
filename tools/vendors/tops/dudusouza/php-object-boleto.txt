@@ -1,0 +1,12 @@
+exemplos/
+lib/
+public/
+templates/
+.gitignore
+.htaccess
+OB_init.php
+README.textile
+composer.json
+gerar_boleto.php
+ob_logo.png
+ob_logo_compacto.png

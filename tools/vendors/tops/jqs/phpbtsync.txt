@@ -1,0 +1,4 @@
+phpbtsync/
+LICENSE
+README.md
+composer.json

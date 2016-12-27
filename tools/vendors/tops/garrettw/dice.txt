@@ -1,0 +1,9 @@
+spec/Dice/
+src/
+.codeclimate.yml
+.gitattributes
+.gitignore
+.travis.yml
+README.md
+composer.json
+phpspec.dist.yml

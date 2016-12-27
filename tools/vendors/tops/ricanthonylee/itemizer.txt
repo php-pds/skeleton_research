@@ -1,0 +1,13 @@
+Exceptions/
+Interfaces/
+Test/
+Traits/
+.gitignore
+Item.php
+ItemAllower.php
+ItemCollection.php
+ItemCollectionFactory.php
+ItemFactory.php
+Meta.php
+composer.json
+composer.lock

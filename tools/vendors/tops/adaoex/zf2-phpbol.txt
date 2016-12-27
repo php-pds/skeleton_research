@@ -1,0 +1,7 @@
+Resources/views/
+config/
+src/PHPBol/
+LICENSE
+Module.php
+README.md
+composer.json

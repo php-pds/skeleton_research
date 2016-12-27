@@ -1,0 +1,4 @@
+examples/
+src/php_pandora_api/
+README.md
+composer.json

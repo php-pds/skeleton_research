@@ -1,0 +1,6 @@
+demo/
+gateway/
+workerman/
+README.md
+composer.json
+start_for_win.bat

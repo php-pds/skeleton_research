@@ -1,0 +1,5 @@
+src/MagicMetaBox/
+.gitignore
+License
+README.md
+composer.json

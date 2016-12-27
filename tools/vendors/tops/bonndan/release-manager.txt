@@ -1,0 +1,15 @@
+docs/
+src/Liip/RMT/
+test/Liip/RMT/Tests/
+.gitignore
+.travis.yml
+CHANGELOG
+README.md
+RMT
+autoload.php
+changelog.md
+changelog.xml
+command.php
+composer.json
+phpunit.xml.dist
+version.php

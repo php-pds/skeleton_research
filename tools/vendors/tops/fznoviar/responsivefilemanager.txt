@@ -1,0 +1,13 @@
+filemanager/
+resources/
+source/
+thumbs/
+tinymce/plugins/responsivefilemanager/img/
+.gitignore
+LICENSE.TXT
+README.md
+bower.json
+changelog.txt
+composer.json
+gulpfile.js
+package.json

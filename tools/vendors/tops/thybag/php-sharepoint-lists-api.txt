@@ -1,0 +1,5 @@
+src/Thybag/
+License.txt
+SharePointAPI.php
+composer.json
+readme.md

@@ -1,0 +1,6 @@
+src/silex/memcache/
+.gitattributes
+.gitignore
+LICENSE
+README.md
+composer.json

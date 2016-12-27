@@ -1,0 +1,11 @@
+Application/
+Bootstrap/
+PhredParty/
+ThirdParty/
+doc/
+readme-files/
+LICENSE
+README.md
+composer.json
+phpunit.xml
+run-unit-tests.php

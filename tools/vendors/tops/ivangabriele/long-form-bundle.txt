@@ -1,0 +1,11 @@
+Command/
+Helper/
+Resources/meta/
+Tests/
+.gitattributes
+.gitignore
+.travis.yml
+IGLongFormBundle.php
+README.md
+composer.json
+phpunit.xml.dist

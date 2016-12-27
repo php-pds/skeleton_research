@@ -1,0 +1,11 @@
+scripts/
+src/InstantWin/
+tests/InstantWin/
+.gitignore
+LICENSE
+README.md
+autoload.php
+build.xml
+composer.json
+composer.lock
+phpunit.xml

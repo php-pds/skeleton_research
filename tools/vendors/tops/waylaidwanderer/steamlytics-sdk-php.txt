@@ -1,0 +1,7 @@
+CSGO/
+.gitignore
+LICENSE
+README.md
+Steamlytics.php
+SteamlyticsException.php
+composer.json

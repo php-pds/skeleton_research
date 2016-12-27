@@ -1,0 +1,10 @@
+examples/
+src/Usabilla/API/
+tests/Usabilla/Tests/API/
+.gitignore
+.travis.yml
+LICENSE.MD
+README.MD
+composer.json
+composer.lock
+phpunit.xml.dist

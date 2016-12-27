@@ -1,0 +1,7 @@
+config/
+vendor/
+.gitignore
+Gemfile
+README.md
+Rakefile
+composer.json

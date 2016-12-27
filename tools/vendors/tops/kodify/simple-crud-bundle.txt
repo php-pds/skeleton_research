@@ -1,0 +1,10 @@
+Controller/
+Repository/
+Resources/
+Tests/
+.gitignore
+.travis.yml
+KodifySimpleCrudBundle.php
+README.md
+composer.json
+phpunit.xml.dist

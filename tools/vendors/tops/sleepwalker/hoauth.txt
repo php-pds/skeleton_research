@@ -1,0 +1,14 @@
+hybridauth/
+messages/
+models/
+views/
+widgets/
+.gitignore
+CHANGELOG
+DummyUserIdentity.php
+HOAuthAction.php
+HOAuthAdminAction.php
+MIT-LICENSE.txt
+README.md
+UPGRADE.md
+composer.json

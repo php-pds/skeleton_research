@@ -1,0 +1,14 @@
+ansible/
+src/InfluxDB/
+tests/
+.gitignore
+.travis.yml
+CONTRIBUTE.md
+LICENSE
+README.md
+Vagrantfile
+composer.json
+composer.lock
+phpunit.xml
+requirements.sh
+test_library.php

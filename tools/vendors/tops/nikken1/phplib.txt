@@ -1,0 +1,5 @@
+docs/
+src/NikkenPHPLib/
+tests/
+.gitignore
+composer.json

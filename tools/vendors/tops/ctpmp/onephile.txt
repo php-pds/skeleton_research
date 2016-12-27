@@ -1,0 +1,7 @@
+examples/
+src/Onephile/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json

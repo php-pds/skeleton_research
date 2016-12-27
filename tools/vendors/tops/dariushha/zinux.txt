@@ -1,0 +1,11 @@
+kernel/
+.gitignore
+CondidatePN.md
+LICENSE.md
+README.md
+baseZinux.php
+composer.json
+manifest.json
+php-check
+zinux-installer
+zinux.php

@@ -1,0 +1,5 @@
+examples/
+runthered/
+tests/
+README.md
+composer.json

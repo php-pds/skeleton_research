@@ -1,0 +1,5 @@
+src/TaskBundle/
+.gitignore
+LICENSE
+README.md
+composer.json

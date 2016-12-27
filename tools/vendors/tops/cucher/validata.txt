@@ -1,0 +1,11 @@
+src/
+test/
+.coveralls.yml
+.gitignore
+.travis.yml
+Makefile
+Makefile.dist
+composer.json
+idea_schema_def.php
+readme.md
+todo.md

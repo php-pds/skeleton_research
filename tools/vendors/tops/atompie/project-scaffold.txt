@@ -1,0 +1,9 @@
+.atompie/
+.reek/
+src/Example/
+.gitignore
+LICENSE
+README.md
+Vagrantfile
+composer.json
+composer.lock

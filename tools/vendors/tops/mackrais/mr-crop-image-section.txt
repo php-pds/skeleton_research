@@ -1,0 +1,8 @@
+css/
+js/
+views/
+.gitignore
+ImageCropSection.php
+MrSectionWidgetAsset.php
+README.md
+composer.json

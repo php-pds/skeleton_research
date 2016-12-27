@@ -1,0 +1,9 @@
+scripts/
+src/Kman/
+tests/
+.gitignore
+LICENSE
+LICENSE.txt
+README
+composer.json
+composer.lock

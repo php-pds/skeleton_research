@@ -1,0 +1,15 @@
+app/
+bin/
+var/
+web/
+.gitignore
+.travis.yml
+LICENSE
+Makefile
+README.md
+behat.yml
+composer.json
+composer.lock
+phpspec.yml
+phpunit.xml.dist
+puli.json

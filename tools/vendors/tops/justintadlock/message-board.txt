@@ -1,0 +1,8 @@
+admin/
+css/
+inc/
+js/
+templates/
+composer.json
+message-board.php
+readme.md

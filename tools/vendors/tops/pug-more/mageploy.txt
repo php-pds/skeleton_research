@@ -1,0 +1,9 @@
+Mageploy/
+design/
+.gitignore
+LICENSE.txt
+PugMoRe_Mageploy.xml
+README.md
+composer.json
+mageploy.php
+modman

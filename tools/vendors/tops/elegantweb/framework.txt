@@ -1,0 +1,6 @@
+src/Elegant/
+tests/Elegant/Http/Message/
+.gitignore
+.php_cs
+composer.json
+phpunit.xml

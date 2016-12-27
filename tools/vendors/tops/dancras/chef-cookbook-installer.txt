@@ -1,0 +1,3 @@
+src/Composer/Installer/
+README.md
+composer.json

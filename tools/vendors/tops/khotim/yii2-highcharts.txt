@@ -1,0 +1,8 @@
+assets/
+BaseAsset.php
+CHANGELOG.md
+Highcharts.php
+LICENSE.md
+MapAsset.php
+README.md
+composer.json

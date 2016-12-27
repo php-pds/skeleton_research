@@ -1,0 +1,7 @@
+assets/
+mysql/
+src/
+tests/
+LICENSE
+composer.json
+readme.txt

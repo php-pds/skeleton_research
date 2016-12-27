@@ -1,0 +1,8 @@
+lib/troggy/PhpTFSClient/
+tests/
+.gitignore
+LICENSE.md
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

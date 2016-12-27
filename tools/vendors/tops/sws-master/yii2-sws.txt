@@ -1,0 +1,5 @@
+.gitignore
+LICENSE
+README.md
+Sws.php
+composer.json

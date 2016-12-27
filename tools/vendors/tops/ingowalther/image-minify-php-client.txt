@@ -1,0 +1,3 @@
+src/IngoWalther/ImageMinifyPhpClient/
+composer.json
+readme.md

@@ -1,0 +1,8 @@
+api/
+examples/
+lib/MC/
+tests/
+.gitignore
+LICENSE
+README
+composer.json

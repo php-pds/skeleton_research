@@ -1,0 +1,12 @@
+Exception/
+tests/
+.gitattributes
+.gitignore
+CHANGELOG.md
+CONDUCT.md
+CONTRIBUTING.md
+Client.php
+LICENSE.md
+README.md
+composer.json
+phpunit.xml.dist

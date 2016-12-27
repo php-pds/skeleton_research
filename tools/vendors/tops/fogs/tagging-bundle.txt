@@ -1,0 +1,15 @@
+Controller/
+DependencyInjection/
+Entity/
+EventListener/
+Form/
+Interfaces/
+Resources/
+Service/
+Traits/
+.gitignore
+FogsTaggingBundle.php
+LICENSE
+README.md
+composer.json
+composer.lock

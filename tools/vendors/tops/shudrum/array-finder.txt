@@ -1,0 +1,8 @@
+Tests/
+.gitignore
+.travis.yml
+ArrayFinder.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

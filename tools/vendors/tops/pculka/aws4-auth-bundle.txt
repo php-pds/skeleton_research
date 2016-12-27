@@ -1,0 +1,13 @@
+DependencyInjection/
+Doctrine/
+Model/
+Repository/
+Resources/config/
+Security/
+Tests/
+.gitignore
+.travis.yml
+PCAws4AuthBundle.php
+README.md
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,10 @@
+Controller/
+DependencyInjection/
+Resources/config/
+.gitignore
+Kraken.php
+KrakenBundle.php
+KrakenResponse.php
+LICENSE
+README.md
+composer.json

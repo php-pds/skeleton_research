@@ -1,0 +1,14 @@
+bin/
+doc/
+generator-templates/
+src/
+templates/
+tests/behat/
+themes/default/
+.editorconfig
+.gitignore
+LICENSE
+README.md
+cacert.pem
+composer.json
+composer.lock

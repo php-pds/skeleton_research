@@ -1,0 +1,6 @@
+config/
+src/
+.gitattributes
+LICENSE
+README.md
+composer.json

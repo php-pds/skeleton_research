@@ -1,0 +1,14 @@
+Block/Adminhtml/System/Config/
+Helper/
+Model/
+Setup/
+Test/Unit/
+etc/
+i18n/
+view/adminhtml/templates/system/config/
+CONTRIBUTING.md
+LICENSE
+README.md
+composer.json
+phpunit_config.xml
+registration.php

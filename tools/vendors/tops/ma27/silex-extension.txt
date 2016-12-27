@@ -1,0 +1,8 @@
+src/Ma27/Kernel/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml

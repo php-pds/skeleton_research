@@ -1,0 +1,9 @@
+bin/
+etc/
+lib/
+src/GearmanManager/
+LICENSE.TXT
+README.md
+composer.json
+pear_example.txt
+pecl_example.txt

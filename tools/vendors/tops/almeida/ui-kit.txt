@@ -1,0 +1,11 @@
+docs/
+spec/Almeida/UIKit/
+src/Almeida/UIKit/
+.gitignore
+.semver
+.travis.yml
+CONTRIBUTING.md
+LICENSE
+README.md
+composer.json
+phpspec.yml

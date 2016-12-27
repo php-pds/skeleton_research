@@ -1,0 +1,6 @@
+src/SanalPos/
+.gitignore
+LICENCE
+README.md
+composer.json
+example.php

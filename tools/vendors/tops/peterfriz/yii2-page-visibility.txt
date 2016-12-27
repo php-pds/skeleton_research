@@ -1,0 +1,6 @@
+assets/js/
+CHANGE.md
+LICENSE
+PageVisibilityAsset.php
+README.md
+composer.json

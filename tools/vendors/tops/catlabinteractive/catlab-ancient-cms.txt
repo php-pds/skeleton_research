@@ -1,0 +1,6 @@
+core/
+language/
+php/
+.gitignore
+composer.json
+connect.php

@@ -1,0 +1,5 @@
+src/Support/Testing/
+.gitignore
+LICENSE
+README.md
+composer.json

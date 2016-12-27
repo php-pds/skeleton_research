@@ -1,0 +1,12 @@
+src/
+tests/
+.gitignore
+.insight.yml
+.scrutinizer.yml
+.sensiolabs.yml
+.travis.php.ini
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,5 @@
+lib/PHPTypography/
+HISTORY.md
+README.md
+composer.json
+index.php

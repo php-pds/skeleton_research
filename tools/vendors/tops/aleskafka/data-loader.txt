@@ -1,0 +1,8 @@
+examples/test1/
+src/
+tests/
+.gitattributes
+.gitignore
+README.md
+composer.json
+licence.md

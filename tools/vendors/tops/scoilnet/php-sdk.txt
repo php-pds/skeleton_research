@@ -1,0 +1,5 @@
+scoilnetsdk/
+.gitignore
+LICENSE
+README.md
+composer.json

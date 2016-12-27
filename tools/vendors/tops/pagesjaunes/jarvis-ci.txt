@@ -1,0 +1,16 @@
+bin/
+config/
+skeleton/
+src/
+.editorconfig
+.formatter.yml
+.gitignore
+.php_cs
+.phpspec_cs
+.semver
+LICENSE
+Makefile
+README.md
+box.json
+composer.json
+composer.lock

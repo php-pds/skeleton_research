@@ -1,0 +1,4 @@
+src/Core/
+.gitingore
+README.md
+composer.json

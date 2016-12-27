@@ -1,0 +1,12 @@
+reports/
+src/Bdes/
+tests/Bdes/
+tmp/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+php-config.ini
+phpunit.xml
+rules.xml

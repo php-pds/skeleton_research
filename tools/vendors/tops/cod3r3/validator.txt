@@ -1,0 +1,6 @@
+tests/
+.travis.yml
+README.md
+Validator.php
+composer.json
+phpunit.xml

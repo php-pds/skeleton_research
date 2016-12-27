@@ -1,0 +1,4 @@
+template/
+.gitignore
+README.md
+composer.json

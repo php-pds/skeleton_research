@@ -1,0 +1,8 @@
+config/
+src/
+tests/
+webroot/
+.gitattributes
+.gitignore
+composer.json
+phpunit.xml

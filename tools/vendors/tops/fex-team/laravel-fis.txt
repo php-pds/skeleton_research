@@ -1,0 +1,5 @@
+src/Fis/
+LICENSE
+README.md
+composer.json
+functions.md

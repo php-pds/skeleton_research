@@ -1,0 +1,6 @@
+bin/
+etc/
+lib/Crmp/
+var/
+.travis.yml
+composer.json

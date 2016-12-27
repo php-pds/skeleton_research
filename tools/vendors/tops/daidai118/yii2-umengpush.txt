@@ -1,0 +1,7 @@
+client/
+.DS_Store
+.gitignore
+LICENSE
+README.md
+Umeng.php
+composer.json

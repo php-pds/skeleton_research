@@ -1,0 +1,7 @@
+src/Dragonfire1119/Asset/
+tests/
+.gitignore
+.travis.yml
+README.md
+composer.json
+phpunit.xml

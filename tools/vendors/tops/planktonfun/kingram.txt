@@ -1,0 +1,17 @@
+images/
+libraries/
+vendor/
+.gitignore
+README.md
+app.css
+app.js
+composer.json
+functions.js
+img_1329409751_1.png
+index.html
+jquery.min.js
+openshift.js
+package.json
+privatekey.pem
+server.bat
+test.html

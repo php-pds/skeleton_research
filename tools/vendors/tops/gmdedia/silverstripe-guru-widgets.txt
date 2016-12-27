@@ -1,0 +1,11 @@
+_config/
+code/Extensions/
+nbproject/
+vendor/
+.editorconfig
+.gitattributes
+.scrutinizer.yml
+_config.php
+composer.json
+license.md
+readme.md

@@ -1,0 +1,4 @@
+TeamSpeak3/
+LICENSE.md
+README.md
+composer.json

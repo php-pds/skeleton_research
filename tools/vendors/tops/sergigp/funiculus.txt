@@ -1,0 +1,10 @@
+src/Sergigp/Funiculus/
+tests/Sergigp/Funiculus/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+functions.md
+phpunit.xml.dist

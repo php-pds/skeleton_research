@@ -1,0 +1,7 @@
+.idea/
+.gitignore
+LICENSE
+README.md
+Simplify.php
+composer.json
+test.php

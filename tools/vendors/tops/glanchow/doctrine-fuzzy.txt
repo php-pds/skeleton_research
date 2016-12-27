@@ -1,0 +1,4 @@
+lib/WOK/Doctrine/Query/
+.gitignore
+README.md
+composer.json

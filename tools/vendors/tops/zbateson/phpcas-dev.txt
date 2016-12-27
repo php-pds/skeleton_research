@@ -1,0 +1,7 @@
+src/
+web/
+.gitignore
+LICENSE
+README.md
+autoload.php
+composer.json

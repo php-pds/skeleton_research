@@ -1,0 +1,5 @@
+config/
+src/MaxnufSmarty/
+Module.php
+README.md
+composer.json

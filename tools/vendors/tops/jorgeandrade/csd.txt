@@ -1,0 +1,8 @@
+csds/
+spec/JorgeAndrade/
+src/JorgeAndrade/
+vendor/
+.gitignore
+LICENSE.txt
+composer.json
+readme.md

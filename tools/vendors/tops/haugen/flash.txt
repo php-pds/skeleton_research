@@ -1,0 +1,7 @@
+assets/
+src/
+views/
+.travis.yml
+composer.json
+phpunit.xml
+readme.md

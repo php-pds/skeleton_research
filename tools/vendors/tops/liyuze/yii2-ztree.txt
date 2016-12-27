@@ -1,0 +1,6 @@
+assets/
+.gitignore
+README.md
+ZTree.php
+ZTreeAsset.php
+composer.json

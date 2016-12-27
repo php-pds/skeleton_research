@@ -1,0 +1,8 @@
+admin/
+catalog/
+vendor/
+LICENSE
+README.md
+composer.json
+composer.lock
+extension-install.sh

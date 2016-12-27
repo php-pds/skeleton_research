@@ -1,0 +1,11 @@
+Spryker/
+.editorconfig
+.gitattributes
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpcs.sh
+phpunit.xml.dist
+setup.sh

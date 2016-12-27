@@ -1,0 +1,15 @@
+.idea/
+config/
+resources/
+src/Console/Commands/
+tests/
+.gitattributes
+.gitignore
+README.md
+artisan
+composer.json
+gulpfile.js
+package.json
+phpspec.yml
+phpunit.xml
+server.php

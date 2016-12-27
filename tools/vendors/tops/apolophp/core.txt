@@ -1,0 +1,12 @@
+src/
+test/
+.editorconfig
+.gitattributes
+.gitignore
+.stepuprc
+.travis.yml
+Makefile
+README.md
+composer.json
+phpdoc.dist.xml
+phpunit.xml

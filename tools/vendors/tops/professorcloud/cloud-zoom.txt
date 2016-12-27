@@ -1,0 +1,6 @@
+images/
+README.md
+cloud-zoom.css
+cloud-zoom.js
+composer.json
+sample.html

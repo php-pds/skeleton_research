@@ -1,0 +1,4 @@
+src/PHPPwned/
+License.md
+Readme.md
+composer.json

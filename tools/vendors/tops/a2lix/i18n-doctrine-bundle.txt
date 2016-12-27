@@ -1,0 +1,10 @@
+Annotation/
+DependencyInjection/
+Doctrine/
+EventListener/
+Resources/config/
+Tests/Fixtures/
+.gitignore
+A2lixI18nDoctrineBundle.php
+README.md
+composer.json

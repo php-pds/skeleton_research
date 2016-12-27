@@ -1,0 +1,8 @@
+src/
+.gitignore
+.travis.yml
+AUTHORS
+CONTRIBUTORS
+LICENSE
+README.md
+composer.json

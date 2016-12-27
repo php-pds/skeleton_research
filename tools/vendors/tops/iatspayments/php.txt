@@ -1,0 +1,9 @@
+Tests/
+lib/
+.gitignore
+LICENSE.txt
+README.md
+composer.json
+iATS.php
+phpdoc.dist.xml
+phpunit.xml

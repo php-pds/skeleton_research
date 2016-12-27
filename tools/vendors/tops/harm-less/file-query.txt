@@ -1,0 +1,11 @@
+samples/FQ/Samples/
+src/FQ/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+index.php
+phpunit.xml
+setup.php

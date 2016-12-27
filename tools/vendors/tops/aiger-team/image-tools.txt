@@ -1,0 +1,7 @@
+examples/resize/
+src/
+.gitignore
+CONTRIBUTING.md
+LICENSE
+README.MD
+composer.json

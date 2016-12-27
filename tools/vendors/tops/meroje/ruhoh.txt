@@ -1,0 +1,9 @@
+bin/
+lib/
+scaffolds/
+widgets/
+.gitignore
+README.md
+composer.json
+composer.lock
+dash.html

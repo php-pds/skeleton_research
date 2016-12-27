@@ -1,0 +1,7 @@
+src/Silextension/
+tests/Silextension/
+LICENSE
+README.md
+composer.json
+composer.phar
+phpunit.xml.dist

@@ -1,0 +1,5 @@
+AttributeBundle/
+ClientBundle/
+PriceBundle/
+ProductBundle/
+composer.json

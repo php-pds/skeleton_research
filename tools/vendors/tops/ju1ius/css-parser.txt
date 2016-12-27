@@ -1,0 +1,8 @@
+bin/
+lib/ju1ius/
+test/
+.gitignore
+LICENSE
+TODO
+composer.json
+phpunit.xml

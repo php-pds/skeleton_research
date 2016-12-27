@@ -1,0 +1,5 @@
+assets/
+Indicator.php
+LICENSE
+README.md
+composer.json

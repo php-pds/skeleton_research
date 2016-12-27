@@ -1,0 +1,6 @@
+assets/dropzone/
+src/
+views/
+LICENSE
+composer.json
+readme.md

@@ -1,0 +1,3 @@
+LogTailMinutes.php
+README.md
+composer.json

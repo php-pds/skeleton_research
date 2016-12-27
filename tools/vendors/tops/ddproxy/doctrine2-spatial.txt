@@ -1,0 +1,15 @@
+doc/
+lib/CrEOF/Spatial/
+tests/
+.codeclimate.yml
+.coveralls.yml
+.gitignore
+.travis.yml
+CHANGELOG.md
+CONTRIBUTING.md
+INSTALL.md
+LICENSE
+README.md
+TODO.md
+composer.json
+phpunit.xml.dist

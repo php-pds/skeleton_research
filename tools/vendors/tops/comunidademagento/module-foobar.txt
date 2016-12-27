@@ -1,0 +1,3 @@
+etc/
+composer.json
+teste.txt

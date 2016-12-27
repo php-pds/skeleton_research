@@ -1,0 +1,10 @@
+bin/
+src/Dtail/
+tests/DTail/
+.gitignore
+.travis.yml
+README.md
+composer.json
+composer.lock
+license.md
+phpunit.xml.dist

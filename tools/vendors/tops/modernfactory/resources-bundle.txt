@@ -1,0 +1,11 @@
+Controller/
+DependencyInjection/
+Doctrine/ORM/
+Resource/
+Resources/
+Twig/
+.gitignore
+LICENSE
+ModernFactoryResourcesBundle.php
+README.md
+composer.json

@@ -1,0 +1,6 @@
+dist/Yii2.docset/Contents/
+.gitignore
+Info.plist
+README.md
+Renderer.php
+composer.json

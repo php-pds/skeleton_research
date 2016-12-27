@@ -1,0 +1,13 @@
+assets/
+controllers/
+messages/zh-CN/
+migrations/
+models/
+views/
+widgets/
+.gitignore
+AutoloadExample.php
+Bootstrap.php
+Module.php
+README.md
+composer.json

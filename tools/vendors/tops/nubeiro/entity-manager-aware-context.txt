@@ -1,0 +1,7 @@
+src/Nubeiro/EntityManagerAwareContext/
+.gitignore
+LICENSE.md
+README.md
+behat.yml.dist
+composer.json
+composer.lock

@@ -1,0 +1,6 @@
+src/RF/Edmunds/
+tests/
+.gitignore
+README.md
+composer.json
+phpunit.xml.dist

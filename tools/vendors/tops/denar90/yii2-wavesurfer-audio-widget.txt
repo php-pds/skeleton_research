@@ -1,0 +1,8 @@
+js/
+Asset.php
+LICENSE
+README.md
+WaveSurferAsset.php
+WaveSurferAudioWidget.php
+composer.json
+composer.lock

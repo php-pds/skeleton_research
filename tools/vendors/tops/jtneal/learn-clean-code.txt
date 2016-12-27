@@ -1,0 +1,9 @@
+src/DesignPatterns/
+tests/DesignPatterns/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

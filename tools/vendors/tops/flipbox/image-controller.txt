@@ -1,0 +1,4 @@
+src/Flipbox/ImageController/
+LICENSE
+README.md
+composer.json

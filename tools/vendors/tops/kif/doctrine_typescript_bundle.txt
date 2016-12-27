@@ -1,0 +1,11 @@
+Command/
+DependencyInjection/
+Resources/config/
+Tests/Command/
+Utils/
+.travis.yml
+KifDoctrineToTypescriptBundle.php
+LICENSE
+README.md
+composer.json
+composer.lock

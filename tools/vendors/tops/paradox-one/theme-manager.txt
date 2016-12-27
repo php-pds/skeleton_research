@@ -1,0 +1,7 @@
+src/ParadoxOne/ThemeManager/
+tests/
+.gitattributes
+.gitignore
+.travis.yml
+composer.json
+phpunit.xml

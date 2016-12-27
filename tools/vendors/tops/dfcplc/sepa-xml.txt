@@ -1,0 +1,9 @@
+doc/
+lib/Digitick/Sepa/
+tests/
+.gitattributes
+.gitignore
+.travis.yml
+README.md
+composer.json
+phpunit.xml.dist

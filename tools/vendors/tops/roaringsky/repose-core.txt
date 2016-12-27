@@ -1,0 +1,14 @@
+.idea/
+bin/
+bootstrap/
+config/
+logs/
+public/
+src/
+views/
+.gitignore
+README.md
+composer.json
+composer.lock
+image-jpeg.json
+image-png.json

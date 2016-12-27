@@ -1,0 +1,5 @@
+examples/
+src/MKraemer/ReactInotify/
+.gitignore
+README.md
+composer.json

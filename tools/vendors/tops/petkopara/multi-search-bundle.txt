@@ -1,0 +1,14 @@
+Condition/
+Controller/
+DependencyInjection/
+Form/Type/
+Resources/
+Service/
+Tests/
+.scrutinizer.yml
+.travis.yml
+PetkoparaMultiSearchBundle.php
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

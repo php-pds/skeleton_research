@@ -1,0 +1,11 @@
+includes/
+tests/
+.gitattributes
+.gitignore
+.scrutinizer.yml
+.travis.yml
+README.md
+carbon-pagination.php
+composer.json
+phpunit.xml
+readme.txt

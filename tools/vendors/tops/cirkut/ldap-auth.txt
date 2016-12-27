@@ -1,0 +1,8 @@
+src/Ccovey/LdapAuth/
+tests/
+.gitignore
+.travis.yml
+Guardfile
+README.md
+composer.json
+phpunit.xml

@@ -1,0 +1,10 @@
+tests/
+.gitignore
+.travis.yml
+LICENSE
+PixivAPI.php
+PixivAppAPI.php
+PixivBase.php
+README.md
+composer.json
+phpunit.xml

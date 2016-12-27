@@ -1,0 +1,6 @@
+docs/
+src/
+.composer.json.swp
+.gitignore
+README.md
+composer.json

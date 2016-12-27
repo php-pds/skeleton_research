@@ -1,0 +1,12 @@
+client-side/
+src/
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE.md
+README.md
+bower.json
+composer.json
+pre-commit.sh
+standards.xml

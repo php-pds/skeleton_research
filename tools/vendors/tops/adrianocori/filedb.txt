@@ -1,0 +1,9 @@
+config/
+lib/
+web/
+.gitignore
+LICENSE
+README.md
+composer.json
+filedb
+filedb.inc

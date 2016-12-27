@@ -1,0 +1,9 @@
+lib/Textmaster/
+test/
+.gitattributes
+.gitignore
+.php_cs
+.travis.yml
+README.md
+composer.json
+phpunit.xml.dist

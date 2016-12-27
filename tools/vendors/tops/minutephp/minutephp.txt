@@ -1,0 +1,7 @@
+app/
+po/
+public/
+.gitignore
+Gruntfile.js
+composer.json
+phinx.php

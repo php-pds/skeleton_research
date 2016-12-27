@@ -1,0 +1,6 @@
+src/YiiFactoryGirl/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json

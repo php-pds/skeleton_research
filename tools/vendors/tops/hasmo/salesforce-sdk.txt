@@ -1,0 +1,10 @@
+features/
+src/
+tests/
+.gitignore
+.scrutinizer.yml
+LICENSE.txt
+README.md
+behat.yml.dist
+composer.json
+phpunit.xml.dist

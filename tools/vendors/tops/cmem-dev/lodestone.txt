@@ -1,0 +1,8 @@
+Lodestone/
+tests/
+LICENSE
+README.md
+codeception.yml
+composer.json
+gemfile
+guardfile

@@ -1,0 +1,14 @@
+modules/
+templates/
+.eslintrc.json
+.gitignore
+.lvimrc
+DEVELOPERS.md
+LICENSE.txt
+Makefile
+README.md
+composer.json
+composer.lock
+config.ini
+index.php
+package.json

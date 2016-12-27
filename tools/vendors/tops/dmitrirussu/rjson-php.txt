@@ -1,0 +1,9 @@
+lib/
+tests/
+vendor/
+www_test/
+.travis.yml
+LICENSE.txt
+README.md
+composer.json
+phpunit.xml.dist

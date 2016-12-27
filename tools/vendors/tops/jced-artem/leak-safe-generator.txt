@@ -1,0 +1,4 @@
+LICENSE
+LeakSafeGenerator.php
+README.md
+composer.json

@@ -1,0 +1,9 @@
+docs/img/
+fixture/
+src/
+tests/GlanceTest/
+CONTRIBUTING.md
+LICENSE.md
+README.md
+composer.json
+phpunit.xml.dist

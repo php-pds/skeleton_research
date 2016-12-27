@@ -1,0 +1,10 @@
+examples/
+lib/
+tests/
+.gitignore
+CHANGELOG.md
+LICENSE.md
+README.md
+Rakefile
+composer-install.sh
+composer.json

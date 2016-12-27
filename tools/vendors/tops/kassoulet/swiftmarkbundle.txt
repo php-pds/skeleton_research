@@ -1,0 +1,15 @@
+Classes/Swift_PostmarkTransport/
+Command/
+Controller/
+Datatables/
+DependencyInjection/
+Entity/
+Repository/
+Resources/
+Spool/
+Tests/Controller/
+.gitignore
+EmailInterface.php
+KassouletSwiftMarkBundle.php
+README.md
+composer.json

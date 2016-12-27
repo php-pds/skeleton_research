@@ -1,0 +1,12 @@
+classes/TheCure/
+config/
+guide @ def96d4
+test/
+.gitignore
+.gitmodules
+.travis.yml
+README.md
+Rakefile
+TODO.md
+composer.json
+phpunit.xml

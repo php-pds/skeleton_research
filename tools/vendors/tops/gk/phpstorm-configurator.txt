@@ -1,0 +1,8 @@
+bin/
+src/Gk/PHPStormConfigurator/
+.editorconfig
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock

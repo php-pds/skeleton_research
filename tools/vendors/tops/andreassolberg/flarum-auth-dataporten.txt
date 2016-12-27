@@ -1,0 +1,9 @@
+js/
+less/forum/
+scripts/
+src/
+.php_cs
+LICENSE
+README.md
+bootstrap.php
+composer.json

@@ -1,0 +1,6 @@
+src/Softbread/AlidayuSdk/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock

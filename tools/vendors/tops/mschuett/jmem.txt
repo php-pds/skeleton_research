@@ -1,0 +1,5 @@
+src/Jmem/
+.gitignore
+LICENSE
+README.md
+composer.json

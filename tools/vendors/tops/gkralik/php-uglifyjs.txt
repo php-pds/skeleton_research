@@ -1,0 +1,7 @@
+example/
+lib/
+.gitignore
+LICENSE
+LICENSE.JavaScriptPacker.md
+README.md
+composer.json

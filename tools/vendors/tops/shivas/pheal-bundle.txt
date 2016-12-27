@@ -1,0 +1,12 @@
+DependencyInjection/
+Exception/
+Resources/
+Service/
+Tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist
+shivasPhealBundle.php

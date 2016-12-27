@@ -1,0 +1,7 @@
+src/Anonymizer/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

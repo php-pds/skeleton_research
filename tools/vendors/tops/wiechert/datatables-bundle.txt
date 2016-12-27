@@ -1,0 +1,15 @@
+Annotations/
+Controller/
+DependencyInjection/
+Entity/
+EntityReflection/
+Resources/
+Serializer/
+TableGenerator/
+Tests/
+Util/
+.gitignore
+README.md
+WiechertDataTablesBundle.php
+composer.json
+phpunit.xml.dist

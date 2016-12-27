@@ -1,0 +1,7 @@
+configs/
+extensions/
+library/
+modules/
+nbproject/
+.gitignore
+composer.json

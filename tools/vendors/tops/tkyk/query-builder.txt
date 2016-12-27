@@ -1,0 +1,6 @@
+Lib/
+Model/Behavior/
+Test/
+.local.vimrc
+README.md
+composer.json

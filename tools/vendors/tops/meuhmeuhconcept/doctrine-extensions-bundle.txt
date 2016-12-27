@@ -1,0 +1,11 @@
+DependencyInjection/
+EventListener/
+Resources/
+Uploadable/
+.gitignore
+CHANGELOG.md
+LICENSE
+README.markdown
+StofDoctrineExtensionsBundle.php
+Upgrade_to_1_1.md
+composer.json

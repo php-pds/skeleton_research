@@ -1,0 +1,7 @@
+Mask/
+Tests/Mask/
+.gitignore
+.travis.yml
+README.md
+composer.json
+phpunit.xml.dist

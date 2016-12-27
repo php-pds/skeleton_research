@@ -1,0 +1,10 @@
+Config/
+Module/Applications/
+Public/
+System/
+.gitignore
+.htaccess
+README.md
+composer.json
+index.php
+readme.txt

@@ -1,0 +1,8 @@
+NotORM/
+tests/
+.gitignore
+NotORM.php
+README.md
+composer.json
+readme.txt
+todo.txt

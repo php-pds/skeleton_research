@@ -1,0 +1,5 @@
+.gitignore
+LICENSE
+README.md
+Signature.php
+composer.json

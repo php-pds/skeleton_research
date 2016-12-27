@@ -1,0 +1,9 @@
+Adapter/
+Tests/
+.gitignore
+.travis.yml
+ChangesFetcher.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

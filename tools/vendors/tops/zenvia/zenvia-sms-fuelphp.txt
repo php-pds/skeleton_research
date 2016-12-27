@@ -1,0 +1,7 @@
+classes/Zenvia/
+config/
+doc/
+examples/
+human_gateway_client_api/
+tests/
+composer.json

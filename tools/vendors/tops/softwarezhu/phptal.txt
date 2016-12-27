@@ -1,0 +1,12 @@
+classes/
+doc/
+tests/
+tools/
+xsd/
+.gitignore
+.travis.yml
+LICENSE
+Makefile
+README.md
+composer.json
+phpunit.xml

@@ -1,0 +1,9 @@
+app/
+bin/
+docker/
+src/
+vagrant/
+var/
+web/
+.gitignore
+composer.json

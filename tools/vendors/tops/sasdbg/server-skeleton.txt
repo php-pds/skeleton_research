@@ -1,0 +1,10 @@
+app/
+bin/
+config/
+resources/
+src/SaS/
+test/
+web/
+.gitignore
+composer.json
+composer.lock

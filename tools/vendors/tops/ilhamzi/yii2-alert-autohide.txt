@@ -1,0 +1,5 @@
+views/
+Alert.php
+AutoloadExample.php
+README.md
+composer.json

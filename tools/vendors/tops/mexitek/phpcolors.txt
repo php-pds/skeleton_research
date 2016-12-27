@@ -1,0 +1,7 @@
+demo/
+src/Mexitek/PHPColors/
+tests/
+.gitignore
+.travis.yml
+README.md
+composer.json

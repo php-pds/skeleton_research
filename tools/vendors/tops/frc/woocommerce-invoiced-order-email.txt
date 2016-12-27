@@ -1,0 +1,6 @@
+includes/
+languages/
+LICENCE
+README.md
+composer.json
+woocommerce-invoiced-order-email.php

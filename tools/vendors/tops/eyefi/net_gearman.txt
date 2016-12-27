@@ -1,0 +1,11 @@
+lib/Net/Gearman/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+build.xml
+changelog.md
+composer.json
+package.xml
+phpunit.xml.dist

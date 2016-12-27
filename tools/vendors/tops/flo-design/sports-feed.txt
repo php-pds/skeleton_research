@@ -1,0 +1,5 @@
+src/FloDesign/SportsFeed/
+.gitignore
+LICENSE
+composer.json
+phpunit.xml

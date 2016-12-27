@@ -1,0 +1,8 @@
+dist/
+examples/php-html-js/
+.bowerrc
+.gitattributes
+.gitignore
+README.md
+bower.json
+composer.json

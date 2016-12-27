@@ -1,0 +1,6 @@
+src/Bubble/
+tests/Bubble/
+LICENSE
+README.md
+composer.json
+composer.lock

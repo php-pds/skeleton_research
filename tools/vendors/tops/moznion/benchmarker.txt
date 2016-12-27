@@ -1,0 +1,9 @@
+eg/
+lib/Moznion/
+tests/
+.gitignore
+.travis.yml
+Changes
+LICENSE
+README.md
+composer.json

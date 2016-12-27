@@ -1,0 +1,7 @@
+demo/data/zpropel/proxy/
+src/Zpropel/
+.gitignore
+LICENSE
+Module.php
+README.md
+composer.json

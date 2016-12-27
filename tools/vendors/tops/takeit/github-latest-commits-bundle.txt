@@ -1,0 +1,8 @@
+DependencyInjection/
+EventListener/
+Resources/
+newscoopWidgets/github-latest-commits/
+LICENSE
+NewscoopGithubLatestCommitsBundle.php
+README.md
+composer.json

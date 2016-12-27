@@ -1,0 +1,6 @@
+config/
+src/AbstractTableGateway/
+.gitignore
+Module.php
+README.md
+composer.json

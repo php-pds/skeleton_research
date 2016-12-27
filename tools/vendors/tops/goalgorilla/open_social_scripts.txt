@@ -1,0 +1,7 @@
+install/
+.gitignore
+behatstability.sh
+composer.json
+trigger_dockerhub.sh
+trigger_travis.sh
+unit-tests.sh

@@ -1,0 +1,9 @@
+app/
+static/
+.app_config.json
+.gitignore
+.htaccess
+README.md
+composer.json
+index.php
+phpdoc.xml

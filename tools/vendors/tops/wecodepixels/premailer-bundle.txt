@@ -1,0 +1,7 @@
+DependencyInjection/
+Resources/config/
+LICENSE.txt
+Premailer.php
+README.md
+WeCodePixelsPremailerBundle.php
+composer.json

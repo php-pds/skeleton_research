@@ -1,0 +1,10 @@
+src/TestIt/
+tests/Tests/
+.gitignore
+.travis.yml
+README.md
+bootstrap.php
+composer.json
+composer.lock
+testit
+testit.config.yml

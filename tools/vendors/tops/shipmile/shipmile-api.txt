@@ -1,0 +1,5 @@
+lib/Shipmile/
+.gitignore
+LICENSE
+README.md
+composer.json

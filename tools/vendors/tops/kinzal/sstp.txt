@@ -1,0 +1,6 @@
+src/Kinzal/
+test/
+.gitignore
+README.md
+composer.json
+phpunit.xml

@@ -1,0 +1,3 @@
+Component/Serializer/Normalizer/
+.gitignore
+composer.json

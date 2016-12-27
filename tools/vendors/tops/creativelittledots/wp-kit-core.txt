@@ -1,0 +1,6 @@
+examples/
+src/
+.DS_Store
+LICENSE.txt
+README.md
+composer.json

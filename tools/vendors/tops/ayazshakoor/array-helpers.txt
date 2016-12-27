@@ -1,0 +1,3 @@
+src/arrayhelpers/
+.gitignore
+composer.json

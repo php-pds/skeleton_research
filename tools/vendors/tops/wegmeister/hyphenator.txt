@@ -1,0 +1,6 @@
+Classes/Wegmeister/Hyphenator/
+Configuration/
+Resources/Private/
+.gitignore
+README.md
+composer.json

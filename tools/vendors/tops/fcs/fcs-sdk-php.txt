@@ -1,0 +1,6 @@
+src/Fcs/
+tests/
+.gitignore
+README.md
+composer.json
+config.sample.php

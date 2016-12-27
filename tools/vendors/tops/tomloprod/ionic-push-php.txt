@@ -1,0 +1,5 @@
+IonicPush.class.php
+LICENSE.md
+README.md
+composer.json
+package.json

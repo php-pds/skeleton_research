@@ -1,0 +1,4 @@
+Yeroon/Bundle/DoctrineFixturesExtraBundle/
+.gitignore
+README.md
+composer.json

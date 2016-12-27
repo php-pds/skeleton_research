@@ -1,0 +1,8 @@
+config/
+src/
+template/
+.gitignore
+LICENSE
+README.md
+composer.json
+pgup

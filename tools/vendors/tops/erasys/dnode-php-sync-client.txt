@@ -1,0 +1,6 @@
+_test/
+.gitignore
+DnodeSyncClient.php
+LICENSE.txt
+README.md
+composer.json

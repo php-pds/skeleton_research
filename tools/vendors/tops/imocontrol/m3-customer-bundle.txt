@@ -1,0 +1,12 @@
+Admin/
+Controller/
+DependencyInjection/
+Entity/
+Model/
+Resources/
+Services/
+.gitignore
+IMOControlM3CustomerBundle.php
+LICENSE
+README.md
+composer.json

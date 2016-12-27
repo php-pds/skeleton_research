@@ -1,0 +1,5 @@
+src/Nedryse/Nette/Localization/
+tests/
+.gitignore
+README.md
+composer.json

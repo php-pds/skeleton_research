@@ -1,0 +1,13 @@
+_config/
+code/
+css/
+images/
+templates/
+.editorconfig
+.gitattributes
+.gitignore
+ChangeLog
+LICENSE
+README.md
+_config.php
+composer.json

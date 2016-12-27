@@ -1,0 +1,11 @@
+Block/
+Controller/
+Helper/
+Model/
+etc/
+magento2_module
+view/frontend/
+LICENSE
+README.md
+composer.json
+registration.php

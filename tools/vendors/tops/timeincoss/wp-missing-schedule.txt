@@ -1,0 +1,7 @@
+bin/
+tests/
+README.md
+composer.json
+phpcs.ruleset.xml
+phpunit.xml
+wp-missing-schedule.php

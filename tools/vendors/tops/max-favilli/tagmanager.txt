@@ -1,0 +1,11 @@
+docs/
+CHANGELOG.md
+README.md
+TagManager.jquery.json
+composer.json
+jquery.tagsmanager.d.ts
+license.txt
+package.json
+tagmanager.css
+tagmanager.js
+tagmanager.less

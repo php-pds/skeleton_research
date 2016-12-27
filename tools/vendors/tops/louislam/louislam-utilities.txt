@@ -1,0 +1,8 @@
+js/
+src/LouisLam/
+test/
+.gitignore
+.travis.yml
+LICENSE.md
+README.md
+composer.json

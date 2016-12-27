@@ -1,0 +1,8 @@
+src/SimpleCollection/
+tests/
+.gitignore
+CHANGELOG.rnd
+LICENSE
+README.md
+composer.json
+phpunit.xml

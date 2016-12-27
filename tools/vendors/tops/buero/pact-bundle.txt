@@ -1,0 +1,12 @@
+.idea/
+Controller/
+DependencyInjection/
+DoctrineExtensions/Behaviours/
+Entity/
+Form/Type/
+Repository/
+Resources/
+Service/
+Tests/Controller/
+BueroPactBundle.php
+composer.json

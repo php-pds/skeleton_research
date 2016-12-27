@@ -1,0 +1,8 @@
+services/
+translations/
+twigextensions/
+variables/
+LICENSE
+README.md
+SmToolsPlugin.php
+composer.json

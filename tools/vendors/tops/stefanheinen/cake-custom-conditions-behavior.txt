@@ -1,0 +1,6 @@
+Model/Behavior/
+Test/Case/
+.gitignore
+.travis.yml
+README.md
+composer.json

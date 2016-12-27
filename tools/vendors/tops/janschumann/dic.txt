@@ -1,0 +1,14 @@
+src/Drupal/Dic/
+test/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+dic.admin.inc
+dic.api.php
+dic.helper.inc
+dic.info
+dic.install
+dic.module
+phpunit.xml.dist

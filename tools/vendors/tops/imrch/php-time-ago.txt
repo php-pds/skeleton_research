@@ -1,0 +1,6 @@
+tests/
+translations/
+README.textile
+composer.json
+timeago.inc.php
+westsworld.datetime.class.php

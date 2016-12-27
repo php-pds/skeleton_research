@@ -1,0 +1,9 @@
+controllers/admin/
+core/
+views/admin/
+.gitignore
+README.md
+ac_module_internals.png
+composer.json
+menu.xml
+metadata.php

@@ -1,0 +1,9 @@
+examples/
+src/BorgerDk/ArticleService/
+tests/BorgerDk/ArticleService/UnitTests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

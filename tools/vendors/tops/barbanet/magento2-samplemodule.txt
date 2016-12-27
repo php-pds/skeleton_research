@@ -1,0 +1,10 @@
+Block/
+Console/
+Controller/
+Setup/
+etc/
+view/
+.gitignore
+LICENSE
+composer.json
+registration.php

@@ -1,0 +1,9 @@
+lib/
+scripts/
+tests/
+.gitignore
+CHANGES.md
+README.md
+composer.json
+composer.lock
+phpdoc.dist.xml

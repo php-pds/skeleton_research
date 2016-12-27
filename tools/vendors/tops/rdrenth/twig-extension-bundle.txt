@@ -1,0 +1,12 @@
+DependencyInjection/
+Resources/
+Tests/
+Twig/
+.gitignore
+.travis.yml
+CHANGELOG.md
+README.md
+RdrenthTwigExtensionBundle.php
+composer.json
+composer.lock
+phpunit.xml.dist

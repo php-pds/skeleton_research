@@ -1,0 +1,15 @@
+Command/
+DependencyInjection/
+Exception/
+Gaufrette/
+Helper/
+Imagine/Model/
+Request/
+Resources/config/
+Tests/
+.gitignore
+.travis.yml
+README.md
+SNToolboxBundle.php
+composer.json
+phpunit.xml

@@ -1,0 +1,5 @@
+.gitignore
+Connection.php
+Server.php
+Socket.php
+composer.json

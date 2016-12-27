@@ -1,0 +1,9 @@
+bin/
+pages/
+theme/
+.gitignore
+.travis.yml
+README.md
+composer.json
+config.json
+index.php

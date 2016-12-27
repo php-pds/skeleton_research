@@ -1,0 +1,11 @@
+build/
+lib/Dough/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+build.xml
+composer.json
+phpunit.jenkins.xml
+phpunit.xml.dist

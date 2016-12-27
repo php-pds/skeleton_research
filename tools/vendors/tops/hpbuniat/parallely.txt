@@ -1,0 +1,8 @@
+src/parallely/
+tests/parallely/Test/
+.gitignore
+AUTHORS.txt
+LICENCE
+README.md
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,7 @@
+Exceptions/
+Http/
+Application.php
+Error.php
+File.php
+Logger.php
+composer.json

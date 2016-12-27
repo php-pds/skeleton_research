@@ -1,0 +1,8 @@
+assets/
+.gitignore
+LICENSE
+README.md
+Unslider.php
+UnsliderAsset.php
+composer.json
+screen.jpg

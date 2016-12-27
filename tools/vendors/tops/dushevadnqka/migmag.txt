@@ -1,0 +1,4 @@
+src/Dushevadnqka/Migmag/
+.gitignore
+composer.json
+readme.md

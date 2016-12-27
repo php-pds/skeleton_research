@@ -1,0 +1,6 @@
+src/
+.gitignore
+README.md
+check_minecraft.php
+composer.json
+example.php

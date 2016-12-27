@@ -1,0 +1,5 @@
+examples/
+src/Enormail/
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,3 @@
+src/Exeplor/AssetsRegistrator/
+README.md
+composer.json

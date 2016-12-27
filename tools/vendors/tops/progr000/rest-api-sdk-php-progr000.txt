@@ -1,0 +1,12 @@
+docs/
+lib/PayPal/
+sample/
+tests/
+.editorconfig
+LICENSE.txt
+README.md
+composer.json
+generate-api.sh
+phpunit.integration.xml
+phpunit.xml
+release_notes.md

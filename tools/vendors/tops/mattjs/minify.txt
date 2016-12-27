@@ -1,0 +1,9 @@
+config/
+src/Minify/
+view/
+.project
+LICENSE.txt
+Module.php
+README
+composer.json
+composer.json~

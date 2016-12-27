@@ -1,0 +1,16 @@
+copy-content-to-css-folder/
+coverage/
+docs/
+src/Flash/
+test/
+vendor/
+webroot/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+README.md
+autoloader.php
+composer.json
+composer.lock
+coverage.clover
+phpunit.xml.dist

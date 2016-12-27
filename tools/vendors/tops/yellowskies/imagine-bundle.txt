@@ -1,0 +1,12 @@
+Controller/
+DependencyInjection/
+Imagine/
+Resources/config/
+Routing/
+Templating/
+Tests/Imagine/Filter/
+.project
+LICENSE
+README.md
+SkiesImagineBundle.php
+composer.json

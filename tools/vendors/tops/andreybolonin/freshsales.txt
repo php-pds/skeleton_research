@@ -1,0 +1,4 @@
+src/Freshsales/
+.php_cs.cache
+README.md
+composer.json

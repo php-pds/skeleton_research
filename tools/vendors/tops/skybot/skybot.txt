@@ -1,0 +1,11 @@
+src/Skybot/
+tests/
+.gitignore
+LICENSE
+README.md
+async.php
+composer.json
+composer.lock
+config.yml.sample
+phpunit.xml.dist
+skybot.php

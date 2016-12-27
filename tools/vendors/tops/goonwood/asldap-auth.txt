@@ -1,0 +1,6 @@
+src/Goonwood/ASLdapAuth/
+tests/
+.gitignore
+.travis.yml
+composer.json
+phpunit.xml

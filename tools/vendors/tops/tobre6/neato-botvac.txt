@@ -1,0 +1,6 @@
+.idea/
+examples/
+src/
+LICENSE.txt
+README.md
+composer.json

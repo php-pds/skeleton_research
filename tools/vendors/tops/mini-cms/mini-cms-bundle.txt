@@ -1,0 +1,12 @@
+Command/
+Controller/
+DependencyInjection/
+Entity/
+Form/Type/
+Repository/
+Resources/
+Twig/
+LICENSE
+MiniCMSBundle.php
+README.md
+composer.json

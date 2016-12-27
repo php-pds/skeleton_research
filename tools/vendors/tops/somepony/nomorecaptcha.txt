@@ -1,0 +1,3 @@
+src/Somepony/NoMoreCaptcha/
+README.md
+composer.json

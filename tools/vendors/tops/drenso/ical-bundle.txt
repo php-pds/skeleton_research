@@ -1,0 +1,11 @@
+DependencyInjection/
+Model/
+Provider/
+Resources/config/
+Tests/
+.gitignore
+DrensoIcalBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

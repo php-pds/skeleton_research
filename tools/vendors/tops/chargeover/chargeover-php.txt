@@ -1,0 +1,8 @@
+ChargeOverAPI/
+docs/
+troubleshooting/
+webhooks/
+.gitignore
+ChargeOverAPI.php
+README.md
+composer.json

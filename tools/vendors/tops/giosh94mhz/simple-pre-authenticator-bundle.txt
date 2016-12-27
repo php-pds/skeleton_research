@@ -1,0 +1,9 @@
+DependencyInjection/
+Resources/config/
+Security/
+.gitignore
+Giosh94mhzSimplePreAuthenticatorBundle.php
+LICENSE
+README.md
+composer.json
+composer.lock

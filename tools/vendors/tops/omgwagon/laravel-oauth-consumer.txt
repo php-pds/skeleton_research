@@ -1,0 +1,3 @@
+src/Omgwagon/LaravelOauthConsumer/
+README.md
+composer.json

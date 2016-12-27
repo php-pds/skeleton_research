@@ -1,0 +1,13 @@
+src/
+tests/
+.codeclimate.yml
+.coveralls.yml
+.gitattributes
+.gitignore
+.styleci.yml
+.travis.yml
+LICENSE.md
+README.md
+composer.json
+humbug.json.dist
+phpunit.xml.dist

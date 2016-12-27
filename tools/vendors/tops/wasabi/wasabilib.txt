@@ -1,0 +1,9 @@
+config/
+src/WasabiLib/
+view/wasabi-lib/
+wasabi/
+.gitignore
+LICENSE
+Module.php
+README.md
+composer.json

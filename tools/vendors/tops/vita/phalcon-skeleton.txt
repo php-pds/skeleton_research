@@ -1,0 +1,6 @@
+app/
+public/
+src/Vita/AuthModule/
+.gitignore
+README.md
+composer.json

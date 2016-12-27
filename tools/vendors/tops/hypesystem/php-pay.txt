@@ -1,0 +1,10 @@
+examples/paypal/
+src/
+test/
+.gitignore
+EXAMPLES.md
+README.md
+TheCheckoutModel.png
+TheOnSiteModel.png
+composer.json
+composer.lock

@@ -1,0 +1,6 @@
+TVMaze/
+Examples.php
+LICENSE.md
+README.md
+TVMazeIncludes.php
+composer.json

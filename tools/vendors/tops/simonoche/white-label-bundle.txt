@@ -1,0 +1,11 @@
+Branding/
+DependencyInjection/
+EventListener/
+Resources/
+Tests/Controller/
+Twig/
+LICENSE
+README.rst
+SlameWhiteLabelBundle.php
+autoload.php
+composer.json

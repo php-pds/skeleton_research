@@ -1,0 +1,5 @@
+src/Wadday/Openweather/
+.gitignore
+LICENSE
+README.md
+composer.json

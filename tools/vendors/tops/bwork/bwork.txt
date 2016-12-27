@@ -1,0 +1,11 @@
+app/
+docs/
+libraries/bwork/
+tests/
+.gitignore
+.htaccess
+.travis.yml
+LICENSE.md
+README.md
+bwork_edit_Notes.txt
+composer.json

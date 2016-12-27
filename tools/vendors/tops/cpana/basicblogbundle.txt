@@ -1,0 +1,12 @@
+Controller/
+DependencyInjection/
+Entity/
+Form/
+Resources/
+Tests/Controller/
+Utils/
+.travis.yml
+CPANABasicBlogBundle.php
+README.md
+composer.json
+phpunit.xml

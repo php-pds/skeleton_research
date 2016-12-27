@@ -1,0 +1,15 @@
+DependencyInjection/
+Document/
+Entity/
+Helper/
+Resources/
+Tests/
+Twig/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+MelifaroBookingBundle.php
+README.md
+composer.json
+phpunit.xml.dist

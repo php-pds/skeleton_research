@@ -1,0 +1,6 @@
+src/Pandalog/
+tests/Pandalog/
+.gitignore
+LICENCE
+README.md
+composer.json

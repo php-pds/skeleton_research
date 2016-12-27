@@ -1,0 +1,6 @@
+DependencyInjection/
+Resources/
+eZ/Publish/FieldType/StarRating/
+MakingWaveseZStarRatingBundle.php
+README.md
+composer.json

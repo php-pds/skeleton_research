@@ -1,0 +1,7 @@
+lib/
+.gitignore
+LICENSE
+README.md
+VERSION
+composer.json
+modman

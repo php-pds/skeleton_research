@@ -1,0 +1,9 @@
+src/LittleRedQueue/
+test/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

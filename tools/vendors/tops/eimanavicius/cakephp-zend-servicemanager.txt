@@ -1,0 +1,8 @@
+Autoload-Config-Sample/
+Config/
+Test/Case/
+.gitattributes
+.gitignore
+LICENSE.txt
+README.md
+composer.json

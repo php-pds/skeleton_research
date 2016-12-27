@@ -1,0 +1,6 @@
+bin/
+spec/Acme/
+src/
+.gitignore
+README.txt
+composer.json

@@ -1,0 +1,3 @@
+lib/Dynect/
+README.md
+composer.json

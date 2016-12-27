@@ -1,0 +1,6 @@
+assets/
+Chart.php
+ChartPluginAsset.php
+LICENSE
+README.md
+composer.json

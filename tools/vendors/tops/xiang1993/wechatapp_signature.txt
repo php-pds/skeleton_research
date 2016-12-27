@@ -1,0 +1,6 @@
+src/decode/
+.gitignore
+README.md
+composer.json
+composer.lock
+test.php

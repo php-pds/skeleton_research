@@ -1,0 +1,13 @@
+DataFixtures/ORM/
+DependencyInjection/
+Entity/
+Exception/
+Repository/
+Resources/
+Twig/Extension/
+.gitignore
+LICENSE
+NathissQuoteGeneratorBundle.php
+README.md
+composer.json
+composer.lock

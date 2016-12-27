@@ -1,0 +1,6 @@
+src/WebIM/
+tests/
+CHANGELOG.md
+LICENSE
+README.md
+composer.json

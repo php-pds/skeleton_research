@@ -1,0 +1,11 @@
+demo/
+src/bootbuilder/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+bootstrap.php
+composer.json
+composer.lock
+phpunit.xml

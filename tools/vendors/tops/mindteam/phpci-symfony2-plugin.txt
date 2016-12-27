@@ -1,0 +1,5 @@
+LICENSE
+README.md
+SymfonyCommands.php
+composer.json
+messages.yml

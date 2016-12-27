@@ -1,0 +1,12 @@
+dev/
+doc/
+src/
+.editorconfig
+.gitignore
+.styleci.yml
+.travis.yml
+CHANGELOG.md
+LICENSE.txt
+README.md
+composer.json
+composer.lock

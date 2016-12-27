@@ -1,0 +1,9 @@
+docs/
+src/swestcott/MonologExtension/
+tests/swestcott/MonologExtension/
+.gitignore
+.travis.yml
+LICENSE.mb
+README.md
+composer.json
+phpunit.xml.dist

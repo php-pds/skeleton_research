@@ -1,0 +1,12 @@
+src/
+test/Esendex/
+.gitignore
+.travis.yml
+Guardfile
+LICENSE
+README.md
+build.xml
+composer.json
+composer.lock
+pear_generator.php
+phing-latest.phar

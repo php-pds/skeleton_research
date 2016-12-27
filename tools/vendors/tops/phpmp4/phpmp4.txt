@@ -1,0 +1,6 @@
+src/PHPMp4/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json

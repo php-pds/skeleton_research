@@ -1,0 +1,10 @@
+.idea/
+app/
+bin/
+src/
+vendor/
+web/
+.gitignore
+composer.json
+composer.lock
+index.php

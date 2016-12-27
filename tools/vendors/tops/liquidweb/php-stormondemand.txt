@@ -1,0 +1,5 @@
+examples/
+.gitignore
+README.md
+StormAPI.class.php
+composer.json

@@ -1,0 +1,13 @@
+lib/
+tests/
+tools/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CONTRIBUTING.md
+Dockerfile
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

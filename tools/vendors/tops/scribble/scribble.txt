@@ -1,0 +1,17 @@
+Config/
+Contracts/
+Exceptions/
+Providers/
+tests/
+.gitignore
+.styleci.yml
+.travis.yml
+LICENSE.md
+ProviderService.php
+Publisher.php
+PublisherService.php
+README.md
+bootstrap.php
+composer.json
+composer.lock
+phpunit.xml

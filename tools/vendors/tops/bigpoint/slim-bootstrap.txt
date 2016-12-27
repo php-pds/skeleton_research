@@ -1,0 +1,10 @@
+config/
+generator/
+src/SlimBootstrap/
+tests/
+.gitignore
+CHANGELOG.md
+LICENSE
+README.md
+apigen.conf
+composer.json

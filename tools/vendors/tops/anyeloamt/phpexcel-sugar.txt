@@ -1,0 +1,3 @@
+src/Artisans/Reports/
+.gitignore
+composer.json

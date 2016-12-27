@@ -1,0 +1,6 @@
+DependencyInjection/
+Resources/views/
+JorgecasoAdminlteBundle.php
+LICENSE
+README.md
+composer.json

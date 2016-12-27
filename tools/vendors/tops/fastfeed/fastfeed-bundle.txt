@@ -1,0 +1,6 @@
+DependencyInjection/
+Resources/config/
+.gitignore
+FastFeedBundle.php
+README.md
+composer.json

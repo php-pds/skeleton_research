@@ -1,0 +1,5 @@
+example/
+src/Diff/
+.gitignore
+README.md
+composer.json

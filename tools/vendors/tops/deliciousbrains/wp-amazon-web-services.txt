@@ -1,0 +1,11 @@
+assets/
+classes/
+languages/
+vendor/aws/
+view/
+.gitignore
+CONTRIBUTING.md
+README.md
+amazon-web-services.php
+composer.json
+readme.txt

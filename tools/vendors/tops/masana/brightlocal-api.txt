@@ -1,0 +1,5 @@
+Examples/
+src/BrightLocal/
+.gitignore
+README.md
+composer.json

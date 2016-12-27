@@ -1,0 +1,17 @@
+Admin/
+Command/
+DataFixtures/ORM/
+DependencyInjection/
+Entity/
+EventListener/
+Resources/
+Tests/
+Translation/
+.coveralls.yml
+.gitignore
+.travis.yml
+ArgentumTranslationBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

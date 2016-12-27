@@ -1,0 +1,8 @@
+examples/
+src/PHPStrap/
+.gitattributes
+.gitignore
+LICENSE
+README.md
+composer.json
+phpdoc.yml

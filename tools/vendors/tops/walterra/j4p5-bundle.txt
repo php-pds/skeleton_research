@@ -1,0 +1,6 @@
+DependencyInjection/
+Resources/
+j4p5/
+README.md
+WalterraJ4p5Bundle.php
+composer.json

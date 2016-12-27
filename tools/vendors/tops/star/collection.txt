@@ -1,0 +1,11 @@
+lib/Star/Component/Collection/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+RELEASE_NOTE.md
+composer.json
+composer.lock
+console.php
+phpunit.xml.dist

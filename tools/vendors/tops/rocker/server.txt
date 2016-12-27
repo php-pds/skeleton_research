@@ -1,0 +1,11 @@
+libs/
+static/
+.gitignore
+.htaccess
+README.md
+build
+composer.json
+config-sample.php
+console
+index.php
+install.php

@@ -1,0 +1,5 @@
+scripts/
+src/Malef/Serializer/
+.gitignore
+composer.json
+composer.lock

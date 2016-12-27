@@ -1,0 +1,9 @@
+MangoPay/
+demos/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+deploy.php.enc

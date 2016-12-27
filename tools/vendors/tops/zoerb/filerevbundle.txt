@@ -1,0 +1,7 @@
+Asset/VersionStrategy/
+DependencyInjection/
+Resources/config/
+CHANGELOG.md
+README.md
+ZoerbFilerevBundle.php
+composer.json

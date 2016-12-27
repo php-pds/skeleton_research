@@ -1,0 +1,7 @@
+BaseModel/
+DependencyInjection/
+ModelManager/
+Resources/config/
+README
+SymfonyModelLoaderBundle.php
+composer.json

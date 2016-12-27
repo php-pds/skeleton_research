@@ -1,0 +1,9 @@
+Tests/
+Validator/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+Validator.php
+composer.json
+phpunit.xml.dist

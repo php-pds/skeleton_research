@@ -1,0 +1,16 @@
+admin/
+bin/
+includes/
+public/
+tests/
+.editorconfig
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+index.php
+phpcs.ruleset.xml
+phpunit.xml.dist
+uninstall.php
+wp-attachment-video-link.php

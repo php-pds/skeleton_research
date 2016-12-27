@@ -1,0 +1,3 @@
+src/Meagr/
+README.md
+composer.json

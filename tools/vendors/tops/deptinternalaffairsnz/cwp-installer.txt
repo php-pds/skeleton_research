@@ -1,0 +1,12 @@
+assets/
+mysite/
+script/
+.editorconfig
+.gitattributes
+.gitignore
+.htaccess
+README.md
+behat.yml
+composer.json
+favicon.ico
+phpunit.xml.dist

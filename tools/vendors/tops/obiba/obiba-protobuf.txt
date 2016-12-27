@@ -1,0 +1,6 @@
+Protobuf/
+.gitignore
+Protobuf.php
+README.md
+autoload_proto.php
+composer.json

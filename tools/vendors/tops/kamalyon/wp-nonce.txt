@@ -1,0 +1,8 @@
+tests/
+.gitignore
+.project
+README.md
+bootstrap.php
+composer.json
+phpunit.xml.dist
+wp-nonce.php

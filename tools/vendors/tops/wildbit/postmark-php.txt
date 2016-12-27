@@ -1,0 +1,11 @@
+src/Postmark/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist
+set_travis_vars.sh
+testing_keys.json.example

@@ -1,0 +1,8 @@
+config/
+examples/laravel5.2/
+init.d/
+src/Stone/
+tests/
+.gitignore
+README.md
+composer.json

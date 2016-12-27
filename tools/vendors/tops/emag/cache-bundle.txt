@@ -1,0 +1,12 @@
+src/CacheBundle/
+tests/
+.coveralls.yml
+.gitignore
+.travis.yml
+LICENSE
+README.md
+build.xml
+composer.json
+phpcs.xml
+phpmd.xml
+phpunit.xml.dist

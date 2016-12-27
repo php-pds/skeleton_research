@@ -1,0 +1,9 @@
+src/KuiKui/MemcacheServiceProvider/
+tests/
+.atoum.php
+.gitignore
+.travis.yml
+LICENSE
+README.md
+Vagrantfile.dist
+composer.json

@@ -1,0 +1,9 @@
+Command/
+DependencyInjection/
+EventListener/
+Helper/
+Resources/
+doc/images/
+OpenWideSynchronizeLdapUserBundle.php
+README.rst
+composer.json

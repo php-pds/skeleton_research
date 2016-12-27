@@ -1,0 +1,11 @@
+src/Orchestra/
+tests/
+.gitattributes
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+composer.json
+phpcs.xml.dist
+phpunit.xml.dist

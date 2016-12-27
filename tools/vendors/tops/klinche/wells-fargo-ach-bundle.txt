@@ -1,0 +1,14 @@
+DependencyInjection/
+Model/
+Resources/config/
+Service/
+Tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+WellsFargoACHBundle.php
+composer.json
+composer.lock
+phpunit.travis.xml
+phpunit.xml.dist

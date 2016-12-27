@@ -1,0 +1,8 @@
+docs/
+shared/config/
+stage/
+.gitignore
+LICENSE.md
+README.md
+composer.json
+deploy.php

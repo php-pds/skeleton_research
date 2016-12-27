@@ -1,0 +1,11 @@
+.vs/
+Examples/
+src/
+.gitattributes
+.gitignore
+BraspagApiPhpSdk.phpproj
+BraspagApiPhpSdk.phpproj.user
+BraspagApiPhpSdk.sln
+LICENSE
+README.md
+composer.json

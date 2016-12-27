@@ -1,0 +1,15 @@
+app/
+assets/
+skin/frontend/boilerplate/default/
+src/app/
+.gitignore
+.htaccess
+LICENSE
+README.md
+composer.json
+composer.lock
+config.example.json
+index.js
+index.php
+modman
+package.json

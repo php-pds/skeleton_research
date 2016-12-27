@@ -1,0 +1,5 @@
+css/
+.gitignore
+AnimateAssetBundle.php
+README.md
+composer.json

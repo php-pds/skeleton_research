@@ -1,0 +1,10 @@
+bin/
+src/
+tests/
+.gitignore
+COPYRIGHT
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist
+phpunit_bootstrap.php

@@ -1,0 +1,7 @@
+Entity/
+Form/Type/
+Tests/
+LICENSE.txt
+README.md
+SmDatatablesFormBundle.php
+composer.json

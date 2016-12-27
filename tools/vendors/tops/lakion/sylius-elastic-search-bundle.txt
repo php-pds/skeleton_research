@@ -1,0 +1,8 @@
+features/product/
+src/
+.gitignore
+.travis.yml
+README.md
+behat.yml.dist
+composer.json
+phpspec.yml.dist

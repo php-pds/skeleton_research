@@ -1,0 +1,6 @@
+migrations/
+.gitignore
+ActivityLog.php
+LICENSE
+README.md
+composer.json

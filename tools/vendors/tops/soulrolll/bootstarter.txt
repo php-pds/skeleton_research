@@ -1,0 +1,11 @@
+css/
+js/
+scss/
+templates/
+.gitignore
+.jshintrc
+LICENSE
+README.md
+composer.json
+gulpfile.js
+package.json

@@ -1,0 +1,10 @@
+Docs/
+src/
+wwwroot/
+.gitattributes
+.gitignore
+LICENSE.md
+README.md
+composer.json
+composer.lock
+phpunit.md

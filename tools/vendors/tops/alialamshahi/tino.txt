@@ -1,0 +1,6 @@
+mysite/
+themes/tino/
+LICENSE
+README.md
+composer.json
+favicon.ico

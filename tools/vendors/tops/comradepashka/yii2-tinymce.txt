@@ -1,0 +1,6 @@
+assets/langs/
+README.md
+TinyMce.php
+TinyMceAsset.php
+TinyMceLangAsset.php
+composer.json

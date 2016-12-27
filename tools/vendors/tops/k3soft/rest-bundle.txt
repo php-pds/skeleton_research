@@ -1,0 +1,5 @@
+DependencyInjection/
+EventListener/
+Resources/config/
+K3SoftRestBundle.php
+composer.json

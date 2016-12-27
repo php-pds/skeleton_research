@@ -1,0 +1,9 @@
+.idea/
+src/DreamblazeNet/SqlS/
+tests/
+.gitignore
+LICENSE
+README.md
+SqlS.iml
+composer.json
+phpunit.xml

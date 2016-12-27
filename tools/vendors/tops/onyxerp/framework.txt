@@ -1,0 +1,7 @@
+src/
+tests/Core/
+.gitignore
+README.md
+composer.json
+manage
+phpaccess.php

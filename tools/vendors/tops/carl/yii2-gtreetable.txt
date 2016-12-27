@@ -1,0 +1,11 @@
+actions/
+assets/
+messages/
+migrations/
+models/
+views/
+.DS_Store
+LICENSE
+README.md
+Widget.php
+composer.json

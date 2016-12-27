@@ -1,0 +1,6 @@
+src/CHStudio/Stream/Wrapper/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock

@@ -1,0 +1,4 @@
+Resources/public/js/
+NemAngularJsBundle.php
+README.md
+composer.json

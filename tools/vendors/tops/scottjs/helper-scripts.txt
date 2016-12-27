@@ -1,0 +1,6 @@
+.env-sample
+.htaccess-sample
+LICENSE
+README.md
+composer.json
+remote-uploads.sh

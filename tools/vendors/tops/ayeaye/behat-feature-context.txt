@@ -1,0 +1,10 @@
+mock/
+src/
+test/Behat/
+.gitignore
+.travis.yml
+LICENSE.txt
+behat.yml
+composer.json
+phpcs.xml
+phpmd.xml

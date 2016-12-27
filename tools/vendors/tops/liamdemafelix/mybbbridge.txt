@@ -1,0 +1,7 @@
+src/MyBBBridge/
+vendor/
+.gitignore
+README.md
+composer.json
+composer.lock
+index.php

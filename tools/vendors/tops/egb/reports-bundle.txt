@@ -1,0 +1,11 @@
+Controller/
+DependencyInjection/
+Helper/
+Report/
+Resources/
+Tests/Helper/
+.gitignore
+.travis.yml
+EgbReportsBundle.php
+LICENSE
+composer.json

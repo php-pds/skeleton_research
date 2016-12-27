@@ -1,0 +1,10 @@
+docs/
+src/Gittern/
+tests/Gittern/
+.gitignore
+.gitmodules
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

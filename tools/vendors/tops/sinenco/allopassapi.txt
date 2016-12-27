@@ -1,0 +1,9 @@
+API/
+DependencyInjection/
+Exception/
+Model/
+Resources/config/
+Tools/
+README.md
+SinencoAllopassAPIBundle.php
+composer.json

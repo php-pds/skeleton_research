@@ -1,0 +1,14 @@
+Controller/
+DependencyInjection/
+Form/
+Model/Translator/
+Resources/
+Tests/
+.gitignore
+.htaccess
+DavamigoTranslatorBundle.php
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

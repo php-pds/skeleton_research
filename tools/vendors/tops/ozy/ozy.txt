@@ -1,0 +1,6 @@
+demo/
+js/
+lib/Ozy/
+.gitignore
+README.md
+composer.json

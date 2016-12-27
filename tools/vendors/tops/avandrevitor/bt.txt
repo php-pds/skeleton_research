@@ -1,0 +1,14 @@
+ansible/
+src/BT/
+tests/src/BT/
+.codeclimate.yml
+.gitignore
+.travis.yml
+LICENSE
+README.md
+Vagrantfile
+build.xml
+composer.json
+composer.lock
+phpdox.xml
+phpunit.xml

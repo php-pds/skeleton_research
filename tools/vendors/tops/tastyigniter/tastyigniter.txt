@@ -1,0 +1,16 @@
+admin/
+assets/
+extensions/
+main/
+setup/
+system/
+.gitattributes
+.gitignore
+.htaccess
+CHANGELOG.md
+CONTRIBUTING.md
+LICENSE.txt
+README.md
+composer.json
+index.php
+robots.txt

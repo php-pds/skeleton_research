@@ -1,0 +1,5 @@
+CHANGELOG.md
+FlatDB.php
+LICENSE
+README.md
+composer.json

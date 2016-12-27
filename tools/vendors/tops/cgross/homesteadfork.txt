@@ -1,0 +1,10 @@
+scripts/
+src/
+.gitattributes
+.gitignore
+Vagrantfile
+composer.json
+composer.lock
+hsfork
+init.sh
+readme.md

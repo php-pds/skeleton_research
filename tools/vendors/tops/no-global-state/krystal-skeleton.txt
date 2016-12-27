@@ -1,0 +1,10 @@
+config/
+data/
+module/Site/
+.gitignore
+.htaccess
+README.md
+composer.json
+favicon.ico
+index.php
+robots.txt

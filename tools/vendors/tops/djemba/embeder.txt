@@ -1,0 +1,5 @@
+src/Djemba/
+tests/
+.gitignore
+composer.json
+composer.lock

@@ -1,0 +1,7 @@
+Controller/
+DependencyInjection/
+Entity/
+Resources/config/
+Tests/
+EyjaRestDemoBundle.php
+composer.json

@@ -1,0 +1,8 @@
+DataCollector/
+DependencyInjection/
+Resources/
+.gitignore
+README.md
+VincecoreTemplateDataCollectorBundle.php
+composer.json
+composer.lock

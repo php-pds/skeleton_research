@@ -1,0 +1,10 @@
+Connectors/
+DependencyInjection/
+Exceptions/
+Message/
+Resources/
+.gitignore
+ActivpikStompBundle.php
+LICENSE
+README.md
+composer.json

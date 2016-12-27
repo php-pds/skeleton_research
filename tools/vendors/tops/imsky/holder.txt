@@ -1,0 +1,15 @@
+src/
+test/
+.gitattributes
+.gitignore
+.jshintrc
+.travis.yml
+LICENSE
+README.md
+bower.json
+composer.json
+gulpfile.js
+holder.js
+holder.min.js
+package.js
+package.json

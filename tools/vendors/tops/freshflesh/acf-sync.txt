@@ -1,0 +1,5 @@
+admin/views/
+lang/
+README.md
+acf-sync.php
+composer.json

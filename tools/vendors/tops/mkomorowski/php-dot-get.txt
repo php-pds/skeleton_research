@@ -1,0 +1,5 @@
+src/php-dot-get/
+tests/
+README.md
+composer.json
+phpunit.xml

@@ -1,0 +1,15 @@
+Assetic/
+Config/
+Exception/
+Resources/
+Tag/
+Tests/
+Twig/
+.gitignore
+.php_cs.dist
+.scrutinizer.yml
+.travis.yml
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

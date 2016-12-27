@@ -1,0 +1,10 @@
+assets/
+controllers/
+migrations/
+models/
+views/
+.gitignore
+Module.php
+README.md
+composer.json
+tb_menu.sql

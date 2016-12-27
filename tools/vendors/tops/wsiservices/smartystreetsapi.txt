@@ -1,0 +1,12 @@
+source/
+tests/source/
+utilities/
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENSE.txt
+README.md
+Vagrantfile
+composer.json
+phpdoc.dist.xml
+phpunit.xml

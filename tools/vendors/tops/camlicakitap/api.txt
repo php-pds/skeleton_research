@@ -1,0 +1,6 @@
+denemeler/
+src/CamlicaKitapApi/
+.gitignore
+LICENSE
+README.md
+composer.json

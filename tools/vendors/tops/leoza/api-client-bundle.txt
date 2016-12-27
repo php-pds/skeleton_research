@@ -1,0 +1,13 @@
+Client/
+DataCollector/
+DependencyInjection/
+Profiler/
+Resources/views/DataCollector/
+Security/
+Session/
+.gitignore
+LICENSE
+LeozaApiClientBundle.php
+README.md
+composer.json
+phpunit.xml.dist

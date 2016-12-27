@@ -1,0 +1,9 @@
+backgrounds/
+fonts/
+src/Captcha/
+tests/
+.editorconfig
+.gitignore
+LICENSE
+README.md
+composer.json

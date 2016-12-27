@@ -1,0 +1,17 @@
+Configuration/
+Controller/
+DataCollector/
+DependencyInjection/
+Document/
+EventListener/
+Exception/
+Resources/
+Tests/
+Twig/Extension/
+.gitignore
+.travis.yml
+LICENSE.md
+README.md
+WixFrameworkBundle.php
+composer.json
+phpunit.xml.dist

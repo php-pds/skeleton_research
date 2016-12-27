@@ -1,0 +1,8 @@
+spec/Joseph/Presenter/
+src/Joseph/Presenter/
+tests/
+.gitignore
+.travis.yml
+README.md
+composer.json
+phpunit.xml

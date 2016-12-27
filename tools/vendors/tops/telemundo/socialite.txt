@@ -1,0 +1,10 @@
+examples/
+src/Socialite/
+test/Unit/Socialite/Component/OAuth/
+.gitignore
+.travis.yml
+LICENSE.txt
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

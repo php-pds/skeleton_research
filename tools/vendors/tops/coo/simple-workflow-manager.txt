@@ -1,0 +1,4 @@
+src/Coo/SimpleWorkflowManager/
+.gitignore
+README.md
+composer.json

@@ -1,0 +1,8 @@
+Classes/Soee/Bootstrap/
+Configuration/
+Documentation/
+Resources/Private/
+.gitignore
+README.md
+composer.json
+package.json

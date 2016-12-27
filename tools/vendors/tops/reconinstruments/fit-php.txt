@@ -1,0 +1,5 @@
+examples/
+src/Fit/
+LICENSE
+README.md
+composer.json

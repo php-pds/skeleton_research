@@ -1,0 +1,13 @@
+src/
+tests/
+.coveralls.yml
+.gitignore
+.travis.yml
+LICENSE.txt
+README-TR.md
+README.md
+changelog.md
+code-standards-cs.xml
+codesniffer.sh
+composer.json
+phpunit.xml

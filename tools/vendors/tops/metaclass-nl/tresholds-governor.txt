@@ -1,0 +1,6 @@
+doc/
+meta/
+src/Metaclass/TresholdsGovernor/
+.gitignore
+README.md
+composer.json

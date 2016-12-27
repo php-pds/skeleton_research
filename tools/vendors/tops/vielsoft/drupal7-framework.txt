@@ -1,0 +1,13 @@
+bin/
+build/
+cnf/
+hooks/
+modules/
+.gitignore
+README.md
+Vagrantfile
+composer.json
+composer.lock
+default.info
+default.module
+env.dist

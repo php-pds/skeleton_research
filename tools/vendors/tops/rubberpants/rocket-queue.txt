@@ -1,0 +1,11 @@
+config/
+lib/Rocket/
+test/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist
+sftp-config.json

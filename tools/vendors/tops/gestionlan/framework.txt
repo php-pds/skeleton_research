@@ -1,0 +1,15 @@
+bin/
+docu/
+example/
+modules/
+src/
+tests/
+views/
+.gitignore
+LICENSE
+TODO
+composer.json
+documentación.odt
+events.txt
+events.yml
+phpunit.xml

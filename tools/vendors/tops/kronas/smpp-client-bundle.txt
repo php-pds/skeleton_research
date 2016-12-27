@@ -1,0 +1,12 @@
+DependencyInjection/
+Encoder/
+Exception/
+Resources/
+Service/
+SmppCore/
+Transport/
+.gitignore
+KronasSmppClientBundle.php
+README.md
+SMPP.php
+composer.json

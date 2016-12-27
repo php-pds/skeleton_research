@@ -1,0 +1,16 @@
+Admin/
+Command/
+Controller/
+DependencyInjection/
+Entity/
+Form/
+Mailer/
+Resources/
+Swift/
+Tests/
+Twig/
+README.markdown
+RjEmailBundle.php
+composer.json
+phpunit.xml.dist
+run_test.sh

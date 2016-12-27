@@ -1,0 +1,6 @@
+Gopay/
+example/
+.gitignore
+LICENSE.md
+README.md
+composer.json

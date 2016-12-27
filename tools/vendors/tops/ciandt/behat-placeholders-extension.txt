@@ -1,0 +1,7 @@
+features/
+src/Ciandt/Behat/PlaceholdersExtension/
+.gitignore
+LICENSE.md
+README.md
+behat.yml.dist
+composer.json

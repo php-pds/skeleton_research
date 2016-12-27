@@ -1,0 +1,13 @@
+app/
+src/
+tests/
+.editorconfig
+.gitignore
+.scrutinizer.yml
+.travis.yml
+README.markdown
+bootstrap.php
+composer.json
+composer.lock
+make-million.php
+phpunit.xml

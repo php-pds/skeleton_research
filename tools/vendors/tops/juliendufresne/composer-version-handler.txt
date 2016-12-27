@@ -1,0 +1,8 @@
+Exception/
+Strategy/
+.gitignore
+Configuration.php
+Processor.php
+README.md
+ScriptHandler.php
+composer.json

@@ -1,0 +1,8 @@
+devel/
+public/
+src/Wrek/
+tests/
+.gitignore
+CONTRIBUTING.md
+README.md
+composer.json

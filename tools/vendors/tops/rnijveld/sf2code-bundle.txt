@@ -1,0 +1,8 @@
+CodeSniffer/
+Command/
+DependencyInjection/
+.gitignore
+LICENSE
+README.md
+RnijveldSf2CodeBundle.php
+composer.json

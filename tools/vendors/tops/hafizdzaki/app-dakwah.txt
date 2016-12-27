@@ -1,0 +1,7 @@
+KelolaData/
+Template/
+.gitattributes
+.gitignore
+README.md
+aplikasidakwah.sql
+composer.json

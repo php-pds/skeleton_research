@@ -1,0 +1,15 @@
+DependencyInjection/
+Manager/
+Mapper/
+OAuth/
+Resources/
+Security/
+SessionPersistence/
+Test/
+Twig/Extension/
+spec/EM/OAuthBundle/
+.gitignore
+EMOAuthBundle.php
+README.md
+composer.json
+phpspec.yml

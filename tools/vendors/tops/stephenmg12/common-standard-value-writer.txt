@@ -1,0 +1,14 @@
+specs/Spec/
+src/
+tests/Test/
+.gitattributes
+.gitignore
+.scrutinizer.yml
+LICENSE
+README.md
+bootstrap.php
+composer.json
+humbug.json
+phpdoc.dist.xml
+phpspec.yml.dist
+phpunit.xml.dist

@@ -1,0 +1,8 @@
+types/
+vendor/
+COPYING
+README
+Type.php
+composer.json
+composer.lock
+composer.phar

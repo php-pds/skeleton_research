@@ -1,0 +1,16 @@
+Definition/
+Filter/
+Operation/
+tests/
+.gitignore
+.travis.yml
+Aggregator.php
+AggregatorBuilder.php
+AggregatorResult.php
+AggregatorResultFactory.php
+DataAggregator.php
+README.md
+composer.json
+composer.lock
+phpcs.xml.dist
+phpunit.xml.dist

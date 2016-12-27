@@ -1,0 +1,10 @@
+docs/
+src/Crucial/Service/
+tests/phpunit/
+.gitignore
+.travis.yml
+CLA.txt
+CONTRIBUTING.md
+LICENSE.md
+README.md
+composer.json

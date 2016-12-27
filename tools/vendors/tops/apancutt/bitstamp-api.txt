@@ -1,0 +1,4 @@
+src/lib/Bitstamp/Api/
+.gitignore
+README.md
+composer.json

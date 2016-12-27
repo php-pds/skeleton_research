@@ -1,0 +1,7 @@
+src/D3Catalyst/Caching/
+tests/
+.gitignore
+.travis.yml
+README.md
+composer.json
+phpunit.xml

@@ -1,0 +1,10 @@
+demo/
+lib/
+tests/
+.gitignore
+Makefile
+README.md
+composer.json
+composer.lock
+phpunit.xml
+start_local.sh

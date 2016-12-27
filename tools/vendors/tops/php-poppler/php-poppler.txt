@@ -1,0 +1,13 @@
+Driver/
+Exception/
+Processor/
+Tests/
+.gitignore
+.sami.php
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+bootstrap.php
+composer.json
+phpunit.xml.dist

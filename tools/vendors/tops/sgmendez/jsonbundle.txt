@@ -1,0 +1,6 @@
+DependencyInjection/
+Libs/
+Resources/config/
+JsonBundle.php
+README.md
+composer.json

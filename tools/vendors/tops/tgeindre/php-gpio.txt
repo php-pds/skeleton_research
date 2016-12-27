@@ -1,0 +1,10 @@
+src/PhpGpio/
+tests/
+.atoum.php
+.bootstrap.atoum.php
+.coke
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json

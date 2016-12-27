@@ -1,0 +1,8 @@
+_ide/
+helpers/
+Api.php
+ApiBase.php
+ApiV5.php
+CHANGELOG.md
+README.md
+composer.json

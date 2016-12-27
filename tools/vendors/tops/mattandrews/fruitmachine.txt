@@ -1,0 +1,11 @@
+src/FruitMachine/
+test/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+phpmd.sh
+phpmd.xml
+phpunit.xml

@@ -1,0 +1,13 @@
+lib/
+tests/
+.gitignore
+Gruntfile.js
+LICENSE.md
+README.md
+bootstrap.php
+composer.json
+composer.lock
+functions.php
+package.json
+phpunit.xml
+repository.json

@@ -1,0 +1,4 @@
+src/Alitvinenko/GoogleApiBundle/
+LICENSE
+README.md
+composer.json

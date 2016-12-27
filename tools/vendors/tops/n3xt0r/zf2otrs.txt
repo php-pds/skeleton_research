@@ -1,0 +1,8 @@
+config/
+nbproject/
+src/
+.gitignore
+LICENSE
+Module.php
+README.md
+composer.json

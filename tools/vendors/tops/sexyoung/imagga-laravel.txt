@@ -1,0 +1,3 @@
+src/Imagga-php/
+.gitignore
+composer.json

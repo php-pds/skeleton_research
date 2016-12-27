@@ -1,0 +1,8 @@
+docs/
+src/Validation/
+tests/unit/Validation/
+.gitignore
+README.md
+composer.json
+composer.lock
+phpspec.yml

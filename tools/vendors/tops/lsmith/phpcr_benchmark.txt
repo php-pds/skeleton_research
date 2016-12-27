@@ -1,0 +1,7 @@
+.gitignore
+.travis.yml
+LICENSE
+README.md
+cli-config.php.dist
+composer.json
+index.php

@@ -1,0 +1,6 @@
+src/EurolinesClient/
+tests/
+.gitignore
+.travis.yml
+README.md
+composer.json

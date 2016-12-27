@@ -1,0 +1,13 @@
+bin/
+docs/
+examples/
+library/
+tests/
+.coveralls.yml
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+composer.json
+package.xml.tpl

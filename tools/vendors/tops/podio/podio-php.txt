@@ -1,0 +1,15 @@
+lib/
+models/
+tests/
+utils/
+.doxygen
+.editorconfig
+.gitignore
+.travis.yml
+CHANGES.md
+CONTRIBUTING.md
+LICENSE
+Makefile
+PodioAPI.php
+README.md
+composer.json

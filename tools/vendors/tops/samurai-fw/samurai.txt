@@ -1,0 +1,13 @@
+.travis/
+App/
+etc/completion/
+spec/
+src/
+.coveralls.yml
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpspec.hhvm.yml
+phpspec.yml

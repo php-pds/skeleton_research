@@ -1,0 +1,9 @@
+bootstrap/
+config/
+library/Thms/Config/
+public/
+.gitattributes
+.gitignore
+README.md
+composer.json
+wp-cli.yml

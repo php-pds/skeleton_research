@@ -1,0 +1,14 @@
+app/
+features/Context/
+spec/App/
+src/
+web/
+.editorconfig
+.gitignore
+Capifony
+LICENSE
+README.md
+behat.yml.dist-goutte
+behat.yml.dist-selenium2
+composer.json
+composer.lock

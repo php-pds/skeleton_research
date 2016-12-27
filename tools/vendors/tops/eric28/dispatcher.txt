@@ -1,0 +1,13 @@
+src/
+tests/
+.gitignore
+.php_cs
+.scrutinizer.yml
+.travis.yml
+CONTRIBUTING.md
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.hhvm.xml.dist
+phpunit.xml.dist

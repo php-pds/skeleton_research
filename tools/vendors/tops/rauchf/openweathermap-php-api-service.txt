@@ -1,0 +1,13 @@
+Classes/
+Documentation/
+Resources/Private/
+.gitignore
+LICENSE
+README.md
+composer.json
+ext_conf_template.txt
+ext_emconf.php
+ext_icon.png
+ext_localconf.php
+ext_tables.php
+ext_tables.sql

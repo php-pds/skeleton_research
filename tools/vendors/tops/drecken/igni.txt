@@ -1,0 +1,7 @@
+Commands/
+files/
+.gitignore
+README.md
+composer.json
+composer.lock
+igni

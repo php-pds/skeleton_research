@@ -1,0 +1,6 @@
+src/Stackify/Log/Monolog/
+.gitattributes
+.gitignore
+LICENSE
+README.md
+composer.json

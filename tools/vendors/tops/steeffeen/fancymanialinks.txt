@@ -1,0 +1,12 @@
+.idea/
+FML/
+examples/
+tests/
+.codeclimate.yml
+.gitignore
+.travis.yml
+LICENSE.txt
+README.md
+autoload.php
+composer.json
+phpunit.xml

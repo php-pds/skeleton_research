@@ -1,0 +1,7 @@
+GlobalControllersTrait.php
+LICENSE
+LICENSE_YII
+Module.php
+README.md
+WebApplication.php
+composer.json

@@ -1,0 +1,6 @@
+config/
+src/migration/
+.gitignore
+Module.php
+README.md
+composer.json

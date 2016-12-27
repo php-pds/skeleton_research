@@ -1,0 +1,6 @@
+SSO/
+.gitignore
+README.md
+composer.json
+example-manual.php
+example.php

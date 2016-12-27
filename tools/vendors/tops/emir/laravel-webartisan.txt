@@ -1,0 +1,8 @@
+assets/
+src/
+tests/
+.gitignore
+README.md
+composer.json
+routes.php
+screenshot.png

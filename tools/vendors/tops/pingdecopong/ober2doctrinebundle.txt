@@ -1,0 +1,8 @@
+Command/
+DependencyInjection/
+Entity/
+Lib/
+Resources/config/
+ArteOber2doctrineBundle.php
+README.md
+composer.json

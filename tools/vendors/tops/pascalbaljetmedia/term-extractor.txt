@@ -1,0 +1,6 @@
+data/
+examples/
+src/TermExtractor/
+LICENSE.txt
+README.md
+composer.json

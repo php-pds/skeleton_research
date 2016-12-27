@@ -1,0 +1,4 @@
+.idea/copyright/
+README.md
+codeigniter3-ide-helper.php
+composer.json

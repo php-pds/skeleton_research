@@ -1,0 +1,11 @@
+Examples/
+Phpwol/
+Test/
+script/
+.gitignore
+.travis.yml
+CHANGELOG.mkd
+LICENSE
+README.mkd
+composer.json
+phpunit.xml

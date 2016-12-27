@@ -1,0 +1,10 @@
+.idea/
+Builder/
+Controller/
+DependencyInjection/
+Provider/
+Resources/
+State/
+ValueObject/
+DBViewerCleanerBundle.php
+composer.json

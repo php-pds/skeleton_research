@@ -1,0 +1,6 @@
+bin/
+psr-4/API/
+.gitignore
+LICENSE
+composer.json
+composer.lock

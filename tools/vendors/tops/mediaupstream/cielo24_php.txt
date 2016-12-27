@@ -1,0 +1,9 @@
+lib/
+tests/
+.gitignore
+LICENSE
+README.md
+VERSION.txt
+composer.json
+init.php
+phpunit.xml

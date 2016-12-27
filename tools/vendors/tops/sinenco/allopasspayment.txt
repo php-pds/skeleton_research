@@ -1,0 +1,10 @@
+Command/
+Controller/
+DependencyInjection/
+Entity/
+Events/
+Resources/
+Tests/Controller/
+README.md
+SinencoAllopassPaymentBundle.php
+composer.json

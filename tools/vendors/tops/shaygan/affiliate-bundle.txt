@@ -1,0 +1,14 @@
+Controller/
+DependencyInjection/
+Entity/
+Event/
+EventListener/
+Model/
+Resources/
+Tests/Controller/
+.travis.yml
+LICENSE.md
+README.md
+ShayganAffiliateBundle.php
+ShayganAffiliateEvents.php
+composer.json

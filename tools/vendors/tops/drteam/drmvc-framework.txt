@@ -1,0 +1,11 @@
+Application/
+Modules/
+System/
+.bowerrc
+.gitignore
+LICENSE
+README.md
+autoload.php
+bower.json
+composer.json
+index.php

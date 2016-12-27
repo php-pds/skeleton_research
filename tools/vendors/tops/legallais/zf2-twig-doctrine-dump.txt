@@ -1,0 +1,6 @@
+config/
+src/TwigDoctrineDump/Extension/
+.gitignore
+Module.php
+README.md
+composer.json

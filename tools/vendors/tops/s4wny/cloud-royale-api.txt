@@ -1,0 +1,4 @@
+CloudRoyaleAPI/
+.gitignore
+composer.json
+readme.md

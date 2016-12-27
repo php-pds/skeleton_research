@@ -1,0 +1,10 @@
+bin/
+res/
+src/PHPStubs/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

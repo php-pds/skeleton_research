@@ -1,0 +1,14 @@
+docs/
+examples/
+src/
+tests/unit/
+.gitignore
+CHANGELOG.md
+LICENSE.md
+README.md
+UPGRADE.md
+composer.json
+composer.lock
+gulpfile.js
+package.json
+phpunit.xml.dist

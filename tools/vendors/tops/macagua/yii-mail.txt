@@ -1,0 +1,9 @@
+doc/
+vendors/swiftMailer/
+.gitignore
+LICENSE
+README.md
+YiiMail.php
+YiiMailMessage.php
+composer.json
+composer.lock

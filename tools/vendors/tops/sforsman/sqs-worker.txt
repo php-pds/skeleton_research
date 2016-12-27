@@ -1,0 +1,5 @@
+examples/
+src/SQSWorker/
+.gitignore
+README.md
+composer.json

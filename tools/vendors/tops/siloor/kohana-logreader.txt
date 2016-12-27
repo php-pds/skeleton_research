@@ -1,0 +1,10 @@
+classes/
+config/
+media/logreader/
+tests/
+views/logreader/
+LICENSE.md
+README.md
+composer.json
+init.php
+koharness.php

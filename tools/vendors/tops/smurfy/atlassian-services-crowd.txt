@@ -1,0 +1,3 @@
+lib/Services/Atlassian/
+README.md
+composer.json

@@ -1,0 +1,4 @@
+src/Adapter/
+LICENSE
+README.md
+composer.json

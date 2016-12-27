@@ -1,0 +1,13 @@
+app/
+src/DVO/
+tests/
+web/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+composer.json
+getclients.php
+phpspec.yml
+preCommit.sh

@@ -1,0 +1,12 @@
+bin/
+bob_tasks/
+lib/Spark/
+res/templates/
+tests/
+.gitignore
+LICENSE.txt
+README.md
+bob_config.php
+box.json
+composer.json
+phpunit.dist.xml

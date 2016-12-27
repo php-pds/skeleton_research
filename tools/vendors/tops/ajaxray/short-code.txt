@@ -1,0 +1,11 @@
+src/ShortCode/
+tests/ShortCode/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+example.php
+phpunit.xml
+phpunit.xml.dist

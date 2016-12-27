@@ -1,0 +1,17 @@
+Command/
+Controller/
+DependencyInjection/
+Entity/
+Form/
+Resources/
+Tests/Controller/
+Transformer/
+.bowerrc
+.gitignore
+Gruntfile.js
+InterneSeanceBundle.php
+LICENSE
+README.md
+bower.json
+composer.json
+package.json

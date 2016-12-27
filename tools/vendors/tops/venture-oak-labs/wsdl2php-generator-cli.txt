@@ -1,0 +1,8 @@
+.idea/
+src/Console/Command/
+.gitignore
+LICENSE
+README.md
+application.php
+composer.json
+composer.lock

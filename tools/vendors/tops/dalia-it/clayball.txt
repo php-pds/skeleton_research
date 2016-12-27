@@ -1,0 +1,9 @@
+app/
+bin/
+src/daliaIT/clayball/
+.gitignore
+README.md
+autoload.php
+composer.json
+composer.lock
+composer.phar

@@ -1,0 +1,15 @@
+Config/
+Controller/
+Model/
+Test/
+Vendor/
+View/
+webroot/
+.editorconfig
+.gitignore
+.semver
+.travis.yml
+CONTRIBUTING.markdown
+LICENSE.txt
+README.md
+composer.json

@@ -1,0 +1,3 @@
+lib/JonsCaching/GpxReader/
+LICENSE
+composer.json

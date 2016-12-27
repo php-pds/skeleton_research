@@ -1,0 +1,5 @@
+lib/Fza/MysqlDoctrineJaroWinklerSimilarityFunction/DQL/
+.gitignore
+LICENSE
+README.md
+composer.json

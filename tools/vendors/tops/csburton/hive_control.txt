@@ -1,0 +1,4 @@
+src/Hive/
+README.md
+composer.json
+composer.lock

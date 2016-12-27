@@ -1,0 +1,7 @@
+assets/
+clients/
+server/
+src/
+.gitignore
+composer.json
+readme.md

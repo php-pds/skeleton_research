@@ -1,0 +1,11 @@
+bin/
+src/Kurzor/
+tests/
+.gitignore
+.travis.yml
+README.md
+composer.json
+composer.lock
+composer.phar
+kurzor_config.php.sample
+phpunit.xml

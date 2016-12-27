@@ -1,0 +1,4 @@
+DependencyInjection/
+Resources/config/
+KingFooFrameworkBundle.php
+composer.json

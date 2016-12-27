@@ -1,0 +1,6 @@
+nbproject/
+resources/views/
+src/BowerArtisan/
+.gitignore
+composer.json
+composer.lock

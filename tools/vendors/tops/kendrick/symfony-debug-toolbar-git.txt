@@ -1,0 +1,13 @@
+DataCollector/
+DependencyInjection/
+Resources/
+tests/
+.gitignore
+.travis.yml
+LICENCE
+README.md
+SymfonyDebugToolbarGit.php
+SymfonyDebugToolbarGit.png
+composer.json
+phpunit.xml.dist
+symfony_toolbar_2-8.png

@@ -1,0 +1,15 @@
+components/
+controllers/
+helpers/
+messages/
+models/
+nbproject/
+views/
+widgets/
+.gitignore
+Bootstrap.php
+LICENSE
+Module.php
+README.md
+codeception.yml
+composer.json

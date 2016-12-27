@@ -1,0 +1,5 @@
+src/Hax4/Foundation/
+test/
+.gitignore
+Makefile
+composer.json

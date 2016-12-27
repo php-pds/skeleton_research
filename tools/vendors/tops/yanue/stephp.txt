@@ -1,0 +1,12 @@
+app/home/
+assets/
+cache/
+config/
+data/
+doc/
+library/
+model/
+service/
+.htaccess
+README.md
+index.php

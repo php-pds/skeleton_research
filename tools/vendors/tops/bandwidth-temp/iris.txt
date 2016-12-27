@@ -1,0 +1,8 @@
+core/
+examples/
+src/
+tests/
+.gitignore
+README.md
+composer.json
+phpunit.phar

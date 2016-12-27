@@ -1,0 +1,7 @@
+bin/
+config/
+src/ZFLabsODMFixture/
+LICENSE
+README.md
+composer.json
+module.php

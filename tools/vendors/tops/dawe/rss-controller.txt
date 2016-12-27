@@ -1,0 +1,10 @@
+src/Rss/
+test/
+webroot/
+.gitattributes
+.gitignore
+.travis.yml
+.travis.yml~
+LICENSE.txt
+README.md
+composer.json

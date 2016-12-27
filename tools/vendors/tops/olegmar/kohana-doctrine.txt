@@ -1,0 +1,4 @@
+bin/
+classes/doctrine/
+config/
+composer.json

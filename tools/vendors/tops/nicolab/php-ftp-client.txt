@@ -1,0 +1,6 @@
+src/FtpClient/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json

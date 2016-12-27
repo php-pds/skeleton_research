@@ -1,0 +1,8 @@
+Controller/
+DependencyInjection/
+Provider/
+Resources/
+Service/
+EdwinesUpdaterBundle.php
+README.md
+composer.json

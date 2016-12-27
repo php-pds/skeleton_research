@@ -1,0 +1,8 @@
+Couch/
+test/
+README.md
+composer.json
+txt.license
+txt.thanks
+txt.todo
+txt.version

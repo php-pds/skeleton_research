@@ -1,0 +1,7 @@
+resources/Stubs/
+src/Support/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock

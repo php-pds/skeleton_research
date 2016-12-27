@@ -1,0 +1,6 @@
+src/Echron/Tools/
+tests/
+.gitignore
+README.MD
+composer.json
+phpunit.xml

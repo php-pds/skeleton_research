@@ -1,0 +1,4 @@
+bin/
+src/PhpGo/Db/Doctrine/Dbal/
+tests/
+composer.json

@@ -1,0 +1,6 @@
+config/
+environments/
+Installer.php
+README.md
+composer.json
+init

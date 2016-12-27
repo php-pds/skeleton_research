@@ -1,0 +1,11 @@
+Atomica/Dulce/
+examples/
+functions/
+.editorconfig
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock
+phpspec-cov.yml
+phpspec.yml

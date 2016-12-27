@@ -1,0 +1,10 @@
+lib/Nrk/PBKDF2/
+tests/
+.gitignore
+.travis.yml
+CHANGELOG
+LICENSE
+README.md
+VERSION
+composer.json
+phpunit.xml.dist

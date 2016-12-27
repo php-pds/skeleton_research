@@ -1,0 +1,13 @@
+Command/
+DependencyInjection/
+Resources/
+Tests/
+.gitignore
+.travis.yml
+ExerciseGoogleTranslateBundle.php
+LICENSE.md
+ParametersEscaper.php
+README.md
+Translator.php
+composer.json
+phpunit.xml.dist

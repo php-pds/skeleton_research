@@ -1,0 +1,7 @@
+src/Sammyboy45467/
+tests/
+vendor/
+.gitignore
+.travis.yml
+composer.json
+phpunit.xml

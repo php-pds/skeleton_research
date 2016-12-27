@@ -1,0 +1,11 @@
+docs/
+examples/
+provisioning/
+src/MelvinLoos/DevVm/
+tests/
+.gitignore
+LICENSE
+README.md
+Vagrantfile
+composer.json
+default.config.yml

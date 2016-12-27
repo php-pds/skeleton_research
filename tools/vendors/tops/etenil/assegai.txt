@@ -1,0 +1,11 @@
+src/assegai/
+tests/
+.gitignore
+CHANGELOG
+LICENSE
+README.md
+TODO
+assegai
+bootstrapper.example.php
+composer.json
+conf.example.php

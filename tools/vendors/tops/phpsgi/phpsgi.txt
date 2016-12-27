@@ -1,0 +1,6 @@
+ext/
+src/
+README.md
+SPEC.md
+composer.json
+phpunit.xml.dist

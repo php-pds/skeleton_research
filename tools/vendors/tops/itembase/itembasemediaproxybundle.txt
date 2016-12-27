@@ -1,0 +1,6 @@
+Itembase/Bundle/MediaProxyBundle/
+.gitignore
+.travis.yml
+README.markdown
+composer.json
+phpunit.xml.dist

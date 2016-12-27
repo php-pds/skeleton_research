@@ -1,0 +1,4 @@
+src/
+How to create a Laravel 5 package in 10 easy steps - Laravel Daily.rar
+README.md
+composer.json

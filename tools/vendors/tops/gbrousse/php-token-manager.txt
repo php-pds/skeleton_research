@@ -1,0 +1,10 @@
+build/logs/
+examples/
+src/TokenManager/
+tests/TokenManager/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml

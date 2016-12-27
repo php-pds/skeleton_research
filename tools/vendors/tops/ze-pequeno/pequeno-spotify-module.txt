@@ -1,0 +1,14 @@
+config/
+src/PequenoSpotifyModule/
+tests/
+.gitignore
+.travis.yml
+LICENSE.txt
+Module.php
+README.md
+autoload_classmap.php
+autoload_function.php
+autoload_register.php
+build.bat
+composer.json
+phpunit.xml

@@ -1,0 +1,8 @@
+Controller/
+DependencyInjection/
+Formatter/
+Resources/
+README.md
+Sf2genConsoleBundle.php
+Sf2genConsoleListener.php
+composer.json

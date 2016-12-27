@@ -1,0 +1,8 @@
+Classes/
+Documentation/
+Resources/Public/Backend/
+README.md
+composer.json
+ext_emconf.php
+ext_localconf.php
+ext_tables.php

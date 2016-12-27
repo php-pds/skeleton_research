@@ -1,0 +1,5 @@
+DependencyInjection/
+Resources/
+JbiBrowscapBundle.php
+README.md
+composer.json

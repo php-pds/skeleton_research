@@ -1,0 +1,7 @@
+crud/advanced/
+model/advanced/
+module/advanced/
+.travis.yml
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,12 @@
+config/
+modules/
+runtime/
+web/
+.env.dist
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock
+yii
+yii.bat

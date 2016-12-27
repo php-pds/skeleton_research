@@ -1,0 +1,12 @@
+src/
+tests/
+.codeclimate.yml
+.pullapprove.yml
+.scrutinizer.yml
+.styleci.yml
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpmd.xml
+phpunit.xml

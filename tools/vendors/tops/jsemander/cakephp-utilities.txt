@@ -1,0 +1,8 @@
+Config/
+Controller/
+Model/
+Test/Fixture/
+.gitignore
+LICENSE
+composer.json
+phpunit.xml

@@ -1,0 +1,9 @@
+src/HTMLPurifier/Filter/
+tests/HTMLPurifier/Filter/
+.gitattributes
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml

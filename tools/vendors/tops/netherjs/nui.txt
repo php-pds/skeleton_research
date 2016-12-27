@@ -1,0 +1,6 @@
+dist/
+src/
+LICENSE
+README.md
+composer.json
+onescript.json

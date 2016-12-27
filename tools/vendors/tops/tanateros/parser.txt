@@ -1,0 +1,4 @@
+parser/src/TanaterosProject/
+.gitignore
+README.md
+composer.json

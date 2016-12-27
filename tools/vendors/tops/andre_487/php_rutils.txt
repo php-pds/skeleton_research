@@ -1,0 +1,17 @@
+doc/
+struct/
+test/
+.codeclimate.yml
+.editorconfig
+.gitignore
+.htaccess
+.travis.yml
+Dt.php
+LICENSE
+Numeral.php
+README.md
+RUtils.php
+Translit.php
+Typo.php
+TypoRules.php
+composer.json

@@ -1,0 +1,11 @@
+css/
+images/
+scss/
+templates/SilverStripe/Security/
+.editorconfig
+.gitattributes
+.gitignore
+.scrutinizer.yml
+README.md
+_config.php
+composer.json

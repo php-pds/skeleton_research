@@ -1,0 +1,10 @@
+examples/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+Upyun.php
+composer.json
+phpunit.xml
+upyun.php

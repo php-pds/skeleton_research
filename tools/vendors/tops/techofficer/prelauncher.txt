@@ -1,0 +1,8 @@
+src/Prelauncher/
+CHANGELOG.md
+LICENSE
+README.md
+bootstrap.php
+build-phar
+composer.json
+composer.lock

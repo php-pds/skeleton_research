@@ -1,0 +1,10 @@
+Command/
+Controller/
+DependencyInjection/
+Generator/
+Resources/
+Tests/Controller/
+DarkwoodGeneratorBundle.php
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,3 @@
+src/Curl/
+README.md
+composer.json

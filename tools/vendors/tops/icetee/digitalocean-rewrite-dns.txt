@@ -1,0 +1,9 @@
+views/
+.gitattributes
+.gitignore
+LICENSE
+README.md
+RewriteDNS.php
+api.php
+composer.json
+config-example.php

@@ -1,0 +1,5 @@
+src/StepsPHP/
+tests/
+.gitignore
+composer.json
+phpunit.xml

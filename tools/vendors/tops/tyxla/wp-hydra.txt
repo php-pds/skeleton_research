@@ -1,0 +1,10 @@
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml
+readme.txt
+wp-hydra.php

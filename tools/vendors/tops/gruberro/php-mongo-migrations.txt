@@ -1,0 +1,11 @@
+bin/
+examples/Migrations/
+lib/
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENCE
+README.md
+composer.json
+phpunit.xml.dist

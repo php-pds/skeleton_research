@@ -1,0 +1,7 @@
+components/
+controllers/
+models/
+views/index/
+Module.php
+README.md
+composer.json

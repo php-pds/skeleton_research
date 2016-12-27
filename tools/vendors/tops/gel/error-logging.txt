@@ -1,0 +1,11 @@
+.idea/
+src/
+test/
+tmp/
+.scrutinizer.yml
+.travis.yml
+README.md
+autoloader.php
+composer.json
+composer.lock
+hej.php

@@ -1,0 +1,15 @@
+data/
+docs/
+src/Eadditives/
+tests/
+tools/
+.gitignore
+.htaccess-template
+.travis.yml
+LICENSE
+README.md
+composer.json
+config-empty.php
+index.php
+phpunit.xml.dist
+robots.txt

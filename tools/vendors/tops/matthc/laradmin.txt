@@ -1,0 +1,10 @@
+public/
+resources/
+src/
+.bowerrc
+.gitignore
+bower.json
+composer.json
+gulpfile.js
+licence
+readme.md

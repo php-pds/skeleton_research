@@ -1,0 +1,10 @@
+.gitignore
+Alipay.php
+Balance.php
+CHANGELOG.md
+Instance.php
+LICENSE
+Payment.php
+README.md
+Weixin.php
+composer.json

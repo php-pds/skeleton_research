@@ -1,0 +1,8 @@
+Magento_Catalog/templates/product/compare/
+Magento_LayeredNavigation/
+Magento_Theme/
+media/
+web/
+composer.json
+registration.php
+theme.xml

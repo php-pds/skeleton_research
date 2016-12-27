@@ -1,0 +1,11 @@
+HTTP/
+examples/
+tests/
+.gitignore
+README
+composer.json
+generatePackage.php
+package.xml
+phpunit-bootstrap.php
+phpunit.xml
+runTests.php

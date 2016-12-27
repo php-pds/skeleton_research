@@ -1,0 +1,11 @@
+resources/
+src/
+test/
+.gitattributes
+.gitignore
+.travis.yml
+CHANGELOG.md
+README.md
+TODO.md
+composer.json
+phpunit.xml

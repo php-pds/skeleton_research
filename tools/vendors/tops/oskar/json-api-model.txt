@@ -1,0 +1,9 @@
+src/OskarD/JsonApiModel/
+tests/OskarD/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

@@ -1,0 +1,8 @@
+Controller/
+DependencyInjection/Compiler/
+Entity/
+Resources/
+SearchEngine/
+Tests/Controller/
+MyxaxaFileSearchBundle.php
+composer.json

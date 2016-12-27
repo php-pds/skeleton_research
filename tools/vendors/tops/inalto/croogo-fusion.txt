@@ -1,0 +1,15 @@
+Config/
+Console/
+Controller/
+Lib/
+Locale/eng/LC_MESSAGES/
+Model/
+Test/
+View/
+webroot/
+.gitattributes
+.gitignore
+composer.json
+gulpfile.js
+package.json
+readme.md

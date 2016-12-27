@@ -1,0 +1,7 @@
+src/PhpApiClient/
+tests/PhpApiClient/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json

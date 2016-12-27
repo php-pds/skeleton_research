@@ -1,0 +1,9 @@
+features/
+src/PhpSpec/Fuelphp/
+.gitignore
+LICENSE
+README.md
+behat.yml
+composer.json
+phpspec.yml.dist
+phpspec_bootstrap.php

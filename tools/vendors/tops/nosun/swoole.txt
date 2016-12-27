@@ -1,0 +1,5 @@
+src/
+.gitignore
+Log.php
+composer.json
+readme.md

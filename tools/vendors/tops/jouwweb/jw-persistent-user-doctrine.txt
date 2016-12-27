@@ -1,0 +1,6 @@
+config/
+src/JwPersistentUserDoctrine/
+.gitignore
+LICENSE
+Module.php
+composer.json

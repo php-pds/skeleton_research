@@ -1,0 +1,7 @@
+src/Datasource/
+tests/TestCase/Datasource/
+.gitignore
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

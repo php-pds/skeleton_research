@@ -1,0 +1,11 @@
+doc/
+documentor/
+src/Bike/
+tests/
+.gitignore
+.travis.yml
+README.md
+composer.json
+mit-license.txt
+phpunit.xml
+routes.php

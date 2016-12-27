@@ -1,0 +1,11 @@
+Command/
+CompilerPass/
+DependencyInjection/
+Resources/config/
+Tests/
+Traits/Entity/Resource/
+EasysysConnectorManager.php
+README.md
+RemdanEasysysConnectorBundle.php
+composer.json
+phpunit.xml.dist

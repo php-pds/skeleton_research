@@ -1,0 +1,6 @@
+examples/
+lib/Payrexx/
+.gitignore
+LICENSE
+README.md
+composer.json

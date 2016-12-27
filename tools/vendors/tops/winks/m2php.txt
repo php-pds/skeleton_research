@@ -1,0 +1,9 @@
+example/
+src/Mongrel2/
+tests/
+.gitignore
+CHANGELOG
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

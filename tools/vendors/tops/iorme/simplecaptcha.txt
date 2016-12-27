@@ -1,0 +1,4 @@
+public/assets/fonts/
+src/
+README.md
+composer.json

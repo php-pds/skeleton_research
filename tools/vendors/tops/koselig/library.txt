@@ -1,0 +1,9 @@
+config/
+src/
+.codeclimate.yml
+.gitignore
+.styleci.yml
+LICENSE
+README.md
+composer.json
+phpmd.xml

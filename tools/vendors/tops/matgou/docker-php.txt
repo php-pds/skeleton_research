@@ -1,0 +1,8 @@
+doc/
+src/Docker/
+.gitignore
+.travis.yml
+README.md
+composer.json
+docker.sh
+phpunit.xml.dist

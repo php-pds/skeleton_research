@@ -1,0 +1,7 @@
+resources/logos/
+src/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json

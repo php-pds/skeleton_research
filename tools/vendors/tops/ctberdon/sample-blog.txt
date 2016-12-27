@@ -1,0 +1,13 @@
+application/
+system/
+themes/default/
+.gitignore
+.htaccess
+README.md
+composer.json
+composer.lock
+contributing.md
+index.php
+license.txt
+readme.rst
+sample-blog.sql

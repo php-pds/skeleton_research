@@ -1,0 +1,8 @@
+composer/bin/
+src/Cli/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock

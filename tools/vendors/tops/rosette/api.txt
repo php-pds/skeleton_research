@@ -1,0 +1,11 @@
+examples/
+source/rosette/api/
+spec/rosette/api/
+.gitignore
+.travis.yml
+LICENSE.txt
+README.md
+box.json
+composer.json
+phpdoc.dist.xml
+phpspec.yml

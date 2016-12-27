@@ -1,0 +1,6 @@
+src/JoshuaBaker/Twig/Extensions/Extension/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock

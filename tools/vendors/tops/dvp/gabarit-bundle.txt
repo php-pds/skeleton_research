@@ -1,0 +1,7 @@
+DependencyInjection/
+Gabarit/
+Resources/
+Tests/Gabarit/
+Twig/Extension/
+DvpGabaritBundle.php
+composer.json

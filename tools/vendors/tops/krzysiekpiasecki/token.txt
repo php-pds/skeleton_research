@@ -1,0 +1,15 @@
+docs/
+src/Lex/
+tests/Lex/
+.gitignore
+.php_cs
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+build.xml
+composer.json
+index.php
+phpunit.xml.dist
+predicate
+sami.cfg.php

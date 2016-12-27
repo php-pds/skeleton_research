@@ -1,0 +1,7 @@
+src/MartinGeorgiev/Doctrine/
+tests/MartinGeorgiev/Doctrine/DBAL/Types/
+.gitignore
+LICENSE
+README.md
+composer.json
+phpunit.xml

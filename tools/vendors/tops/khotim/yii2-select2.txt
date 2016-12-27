@@ -1,0 +1,6 @@
+assets/
+BaseAsset.php
+LICENSE.md
+README.md
+Select2.php
+composer.json

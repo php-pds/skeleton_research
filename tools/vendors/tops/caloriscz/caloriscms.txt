@@ -1,0 +1,13 @@
+app/
+log/
+temp/
+tests/
+vendor/
+www/
+.gitattributes
+.gitignore
+.htaccess
+.travis.yml
+LICENSE
+composer.json
+readme.md

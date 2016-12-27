@@ -1,0 +1,9 @@
+examples/
+src/Directus/ClosureCache/
+tests/
+.gitignore
+.travis.yml
+README.md
+composer.json
+license.txt
+phpunit.xml

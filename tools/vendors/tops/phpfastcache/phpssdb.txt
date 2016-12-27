@@ -1,0 +1,6 @@
+docs/
+src/
+.gitignore
+README.md
+SSDB.php
+composer.json

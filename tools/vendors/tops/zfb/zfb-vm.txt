@@ -1,0 +1,5 @@
+cookbooks/
+.gitignore
+README.md
+Vagrantfile.dist
+composer.json

@@ -1,0 +1,15 @@
+Controller/
+DataTable/
+DependencyInjection/
+Resources/
+Tests/
+Twig/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CrossKnowledgeDataTableBundle.php
+README.markdown
+composer.json
+composer.lock
+contributors.txt
+phpunit.xml.dist

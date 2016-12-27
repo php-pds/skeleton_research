@@ -1,0 +1,5 @@
+config/
+src/Specs/Hashids/
+.gitignore
+README.md
+composer.json

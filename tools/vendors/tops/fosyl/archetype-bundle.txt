@@ -1,0 +1,9 @@
+spec/
+src/
+.gitignore
+.travis.yml
+CHANGELOG.md
+README.md
+SyliusArchetypeBundle.php
+composer.json
+phpspec.yml.dist

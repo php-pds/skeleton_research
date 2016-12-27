@@ -1,0 +1,10 @@
+src/Stanley/Geocodio/
+tests/
+.gitignore
+.travis.yml
+AUTHORS.md
+HISTORY.md
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

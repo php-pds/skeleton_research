@@ -1,0 +1,5 @@
+.gitignore
+Gaunt.php
+Initialize.php
+README.md
+composer.json

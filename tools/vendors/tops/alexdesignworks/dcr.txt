@@ -1,0 +1,14 @@
+dcr_standards/App/
+php_codesniffer/DCR/
+tests/
+.gitignore
+.jscsrc
+.jscsrc.drupal
+LICENSE.txt
+README.md
+circle.yml
+composer.json
+dcr
+example.dcr.yml
+link-dev.sh
+link-revert.sh

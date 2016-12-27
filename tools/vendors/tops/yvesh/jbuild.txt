@@ -1,0 +1,12 @@
+src/Tasks/
+tests/
+.drone.yml
+.gitignore
+LICENSE
+README.md
+RoboFile.php
+codeception.yml
+composer.json
+composer.lock
+drone.yml
+jbuild.dist.ini

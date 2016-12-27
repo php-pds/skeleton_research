@@ -1,0 +1,12 @@
+app/
+src/
+web/
+.gitignore
+.travis.composer.config.json
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist
+travis.php.ini

@@ -1,0 +1,10 @@
+spec/
+src/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpspec.yml
+readmegen
+readmegen.yml

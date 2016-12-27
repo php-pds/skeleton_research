@@ -1,0 +1,11 @@
+dev/
+src/
+.gitignore
+LICENSE
+README.md
+bower.json
+composer.json
+composer.lock
+documentation.html
+favicon.ico
+package.json

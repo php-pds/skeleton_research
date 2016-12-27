@@ -1,0 +1,16 @@
+app/
+lib/
+postfix/
+vagrant_cookbooks/
+.gitignore
+.htaccess
+.travis.yml
+CONTRIBUTING.md
+INSTALL.txt
+LICENSE.txt
+README.md
+Vagrantfile.default
+composer.json
+index.php
+travis.php.ini
+web.default.config

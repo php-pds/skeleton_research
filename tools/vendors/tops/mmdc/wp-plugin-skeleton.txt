@@ -1,0 +1,6 @@
+lib/MMDC/
+templates/
+.gitignore
+README.md
+composer.json
+my_plugin.php

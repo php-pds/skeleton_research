@@ -1,0 +1,6 @@
+src/DataApi/
+tests/
+.gitignore
+README.md
+composer.json
+license.md

@@ -1,0 +1,4 @@
+app/
+vendor/
+composer.json
+index.php

@@ -1,0 +1,5 @@
+logs/
+public/
+src/infy/
+.gitignore
+composer.json

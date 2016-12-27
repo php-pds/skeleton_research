@@ -1,0 +1,8 @@
+bin/
+src/Configen/Command/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock
+index.php

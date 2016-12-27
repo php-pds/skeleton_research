@@ -1,0 +1,15 @@
+Command/
+Controller/
+DQL/
+Datatable/
+DependencyInjection/
+Generator/
+OptionsResolver/
+Resources/
+Routing/
+Twig/
+.gitattributes
+.gitignore
+README.md
+SgDatatablesBundle.php
+composer.json

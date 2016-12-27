@@ -1,0 +1,10 @@
+Controller/
+DependencyInjection/
+Fitbit/
+Resources/
+tests/
+.gitignore
+LICENSE
+NibynoolFitbitInterfaceBundle.php
+README.md
+composer.json

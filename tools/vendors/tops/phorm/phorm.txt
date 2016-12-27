@@ -1,0 +1,8 @@
+spec/Phorm/
+src/Phorm/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+builddocsontravis.sh
+composer.json

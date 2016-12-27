@@ -1,0 +1,7 @@
+config/
+src/ZF2Booster/Controller/
+.gitignore
+LICENSE
+Module.php
+README.md
+composer.json

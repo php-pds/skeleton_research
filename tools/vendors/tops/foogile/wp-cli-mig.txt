@@ -1,0 +1,7 @@
+src/Foogile/WpCli/Migrate/
+test/
+.gitignore
+README.md
+command.php
+composer.json
+phpunit.xml

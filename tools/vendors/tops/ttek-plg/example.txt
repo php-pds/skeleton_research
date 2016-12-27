@@ -1,0 +1,6 @@
+Ex/
+changelog.md
+composer.json
+config.php
+icon.png
+readme.md

@@ -1,0 +1,7 @@
+Config/
+Libs/
+Tests/
+.gitignore
+README-CakePHP
+README.md
+composer.json

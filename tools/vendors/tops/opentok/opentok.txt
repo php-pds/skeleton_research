@@ -1,0 +1,14 @@
+sample/
+src/OpenTok/
+tests/
+tools/
+.gitignore
+.travis.yml
+CONTRIBUTING.md
+DEVELOPING.md
+LICENSE
+README.md
+box.json
+build.xml
+composer.json
+phpunit.xml.dist

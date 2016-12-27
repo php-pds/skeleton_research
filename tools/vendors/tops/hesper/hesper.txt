@@ -1,0 +1,6 @@
+meta/
+src/
+LICENSE
+README.md
+composer.json
+init.php

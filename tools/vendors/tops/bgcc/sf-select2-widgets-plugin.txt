@@ -1,0 +1,6 @@
+config/
+lib/
+web/select2/
+LICENCE
+README.md
+composer.json

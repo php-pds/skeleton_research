@@ -1,0 +1,16 @@
+Beautifier/
+examples/
+licenses/
+scripts/
+site/
+tests/
+tutorials/
+uml/
+.gitignore
+Beautifier.php
+Doc_PHP_Beautifier.ini
+README.md
+Rakefile
+composer.json
+crear_phps.sh
+package2.xml

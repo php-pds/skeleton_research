@@ -1,0 +1,3 @@
+src/Mahango/
+README.md
+composer.json

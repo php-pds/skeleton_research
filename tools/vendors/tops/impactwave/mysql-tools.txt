@@ -1,0 +1,12 @@
+config/
+inc/
+.gitignore
+Readme.md
+composer.json
+mysql-backup.sh
+mysql-csv-to-sql.php
+mysql-remote-backup.sh
+mysql-remote-restore.sh
+mysql-restore.sh
+mysql-transfer.sh
+mysql-tunnel.sh

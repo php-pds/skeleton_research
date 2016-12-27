@@ -1,0 +1,7 @@
+logs/
+sql/
+src/Engine/
+.gitignore
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,11 @@
+actions/
+behaviors/
+migrations/
+models/
+widgets/
+.gitignore
+Bootstrap.php
+ImageModule.php
+LICENSE.md
+README.md
+composer.json

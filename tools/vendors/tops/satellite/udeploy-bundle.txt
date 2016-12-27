@@ -1,0 +1,7 @@
+Command/
+DependencyInjection/
+Resources/vendor/udclient/
+LICENSE.txt
+README.md
+SatelliteUDeployBundle.php
+composer.json

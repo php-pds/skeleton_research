@@ -1,0 +1,14 @@
+docs/
+examples/
+src/
+test/
+vendor/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+package.json
+phpunit_common.xml
+store.yml
+yuidoc.json

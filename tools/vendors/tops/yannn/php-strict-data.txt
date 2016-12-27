@@ -1,0 +1,6 @@
+PhpStrictData/
+examples/
+tests/
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,7 @@
+src/
+views/
+web/
+.gitignore
+README.md
+composer.json
+composer.lock

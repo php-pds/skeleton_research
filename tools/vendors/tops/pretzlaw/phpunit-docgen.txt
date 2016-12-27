@@ -1,0 +1,4 @@
+lib/Pretzlaw/PHPUnit/DocGen/
+LICENSE
+README.md
+composer.json

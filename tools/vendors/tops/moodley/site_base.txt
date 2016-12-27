@@ -1,0 +1,8 @@
+Classes/ViewHelpers/
+Configuration/TypoScript/
+Resources/Private/Php/
+README.md
+composer.json
+ext_autoload.php
+ext_emconf.php
+ext_icon.gif

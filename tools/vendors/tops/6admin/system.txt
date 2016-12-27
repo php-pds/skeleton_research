@@ -1,0 +1,10 @@
+Config/
+Console/
+Entities/
+Exceptions/
+Providers/
+Repositories/
+LICENSE
+README.md
+composer.json
+module.json

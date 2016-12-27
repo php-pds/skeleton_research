@@ -1,0 +1,6 @@
+docs/
+examples/
+functions/
+.gitignore
+composer.json
+readme.md

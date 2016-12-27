@@ -1,0 +1,5 @@
+HoverIntent.php
+HoverIntentAsset.php
+LICENSE
+README.md
+composer.json

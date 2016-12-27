@@ -1,0 +1,7 @@
+assets/
+README.md
+Simditor.php
+SimditorAction.php
+SimditorAsset.php
+UploadModel.php
+composer.json

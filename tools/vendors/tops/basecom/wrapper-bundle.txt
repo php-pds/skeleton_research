@@ -1,0 +1,7 @@
+ContainerAware/
+DependencyInjection/
+Resources/config/
+LICENSE
+README.md
+basecomWrapperBundle.php
+composer.json

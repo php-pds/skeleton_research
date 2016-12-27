@@ -1,0 +1,5 @@
+src/Fiedsch/Data/
+tests/
+.gitignore
+Readme.md
+composer.json

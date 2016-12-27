@@ -1,0 +1,8 @@
+src/
+tests/
+.gitignore
+changelog.md
+codeception.dist.yml
+composer.json
+composer.lock
+readme.md

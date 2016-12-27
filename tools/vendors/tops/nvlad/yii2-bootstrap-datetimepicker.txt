@@ -1,0 +1,8 @@
+assets/
+.bowerrc
+.gitignore
+DatetimepickerAsset.php
+DatetimepickerWidget.php
+README.md
+bower.json
+composer.json

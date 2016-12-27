@@ -1,0 +1,8 @@
+Controller/
+DependencyInjection/
+Event/
+Resources/
+Service/
+HugomnIuguBundle.php
+README.md
+composer.json

@@ -1,0 +1,10 @@
+bin/
+src/
+tests/
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpcs.xml
+phpunit.xml.dist
+sam.json.example

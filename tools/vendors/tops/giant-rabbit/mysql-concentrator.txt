@@ -1,0 +1,11 @@
+bin/
+conf/
+contrib/php-util/
+lib/MySQLConcentrator/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock
+test.php

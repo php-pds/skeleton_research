@@ -1,0 +1,8 @@
+public/
+resources/files/
+src/
+tests/
+.gitattributes
+.gitignore
+README.md
+composer.json

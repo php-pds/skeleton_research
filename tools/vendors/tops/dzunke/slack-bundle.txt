@@ -1,0 +1,15 @@
+Command/
+DependencyInjection/
+Events/
+Monolog/Handler/
+Resources/
+Silex/Provider/
+Slack/
+.gitattributes
+.gitignore
+CHANGELOG
+DZunkeSlackBundle.php
+Event.php
+LICENSE
+README.md
+composer.json

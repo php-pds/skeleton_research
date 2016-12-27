@@ -1,0 +1,4 @@
+src/Sjrdco/Housekeeping/
+LICENSE.md
+Readme.md
+composer.json

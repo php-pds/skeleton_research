@@ -1,0 +1,6 @@
+bin/
+src/Evlz/PestBundle/
+.gitignore
+README.md
+composer.json
+composer.lock

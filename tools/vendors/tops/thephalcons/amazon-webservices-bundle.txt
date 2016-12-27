@@ -1,0 +1,14 @@
+DependencyInjection/
+Resources/
+Services/
+StreamWrapper/
+Tests/
+vendor/
+.gitignore
+AmazonWebServices.php
+AmazonWebServicesFactory.php
+README.md
+ThePhalconsAmazonWebServicesBundle.php
+aws.config.yml
+composer.json
+phpunit.xml.dist

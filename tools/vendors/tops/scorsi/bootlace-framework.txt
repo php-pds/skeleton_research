@@ -1,0 +1,10 @@
+DataCollection/
+Exception/
+Kernel/
+Request/
+Response/
+Route/
+.gitignore
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,17 @@
+.github/
+src/Phig/
+tests/
+.editorconfig
+.gitattributes
+.gitignore
+.php_cs
+.styleci.yml
+.travis.yml
+CREDITS.md
+LICENSE
+README.md
+autoload.php
+composer.json
+php-cs-fixer.sh
+phpunit.sh
+phpunit.xml

@@ -1,0 +1,6 @@
+examples/
+lib/Aboardly/
+.gitignore
+README.md
+composer.json
+composer.phar

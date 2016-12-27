@@ -1,0 +1,10 @@
+DependencyInjection/
+Form/Type/
+Resources/
+Tests/
+.gitignore
+.travis.yml
+IvoryCKEditorBundle.php
+README.markdown
+composer.json
+phpunit.xml.dist

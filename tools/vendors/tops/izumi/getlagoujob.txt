@@ -1,0 +1,7 @@
+.idea/
+.gitattributes
+.gitignore
+composer.json
+index.php
+job.txt
+simple_html_dom.php

@@ -1,0 +1,7 @@
+examples/
+src/
+.gitignore
+Readme.md
+apidockert.php
+composer.json
+composer.phar

@@ -1,0 +1,7 @@
+Controller/Plugin/
+Model/
+Resources/
+JarvesPublicationBundle.php
+PackageManager.php
+README.md
+composer.json

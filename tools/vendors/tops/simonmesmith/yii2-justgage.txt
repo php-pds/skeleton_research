@@ -1,0 +1,5 @@
+assets/
+JustGage.php
+JustGageAssets.php
+README.md
+composer.json

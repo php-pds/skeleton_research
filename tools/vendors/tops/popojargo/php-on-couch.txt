@@ -1,0 +1,13 @@
+doc/
+examples/
+frameworks/ci/
+src/
+tests/
+.coveralls.yml
+.gitignore
+.travis.yml
+INSTALL.md
+LICENSE
+README.md
+composer.json
+phpunit.xml

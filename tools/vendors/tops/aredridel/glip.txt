@@ -1,0 +1,9 @@
+doc/
+src/Glip/
+test/
+.gitignore
+Doxyfile
+HACKING
+LICENSE
+README.md
+composer.json

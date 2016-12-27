@@ -1,0 +1,6 @@
+src/
+tests/
+.atoum.php
+.gitignore
+README.md
+composer.json

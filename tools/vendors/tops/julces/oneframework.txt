@@ -1,0 +1,11 @@
+docs/
+src/OnePHP/
+tests/OnePHP/
+.gitignore
+.htaccess
+.travis.yml
+LICENSE
+README.md
+_config.yml
+composer.json
+index.php

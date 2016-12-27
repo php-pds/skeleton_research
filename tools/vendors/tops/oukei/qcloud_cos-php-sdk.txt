@@ -1,0 +1,8 @@
+Qcloud_cos/
+LICENSE
+README.md
+composer.json
+getStorage.php
+include.php
+sample.php
+test.log

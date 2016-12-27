@@ -1,0 +1,11 @@
+examples/
+lib/
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+EXTENDING.md
+LICENSE.md
+README.md
+composer.json
+phpunit.xml

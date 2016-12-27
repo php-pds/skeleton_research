@@ -1,0 +1,11 @@
+Controller/
+DependencyInjection/
+Manager/
+Provider/
+Resources/
+Tests/Controller/
+.gitignore
+.travis.yml
+MaesboxVideoBundle.php
+README.md
+composer.json

@@ -1,0 +1,16 @@
+assets/
+cache/
+extras/
+lenguaje/
+modulos/
+phpsfw/
+vistas/
+.gitignore
+.htaccess
+LICENSE.md
+README.md
+composer.json
+composer.phar
+configuracion.json
+index.php
+test.sql

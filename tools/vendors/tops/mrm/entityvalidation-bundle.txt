@@ -1,0 +1,9 @@
+DependencyInjection/
+Exception/
+Extensions/
+Resources/config/
+.gitignore
+LICENSE
+MrMEntityValidationBundle.php
+README.md
+composer.json

@@ -1,0 +1,6 @@
+DependencyInjection/
+Resources/config/
+.gitignore
+BabLogentriesBundle.php
+README.md
+composer.json

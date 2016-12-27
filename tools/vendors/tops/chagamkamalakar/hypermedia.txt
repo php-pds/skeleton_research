@@ -1,0 +1,15 @@
+example/
+src/HyperMedia/
+tests/
+.gitattributes
+.gitignore
+.travis.yml
+CHANGELOG.md
+CONDUCT.md
+CONTRIBUTING.md
+LICENSE.md
+README.md
+composer.json
+phpunit.xml.dist
+repos.json
+repos.php

@@ -1,0 +1,15 @@
+bin/
+lib/Doctrine/DBAL/Migrations/
+tests/
+.coveralls.yml
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.markdown
+UPGRADE-1.0.MD
+box.json
+build.properties.dev
+build.xml
+composer.json
+phpunit.xml.dist

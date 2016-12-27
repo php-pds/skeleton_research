@@ -1,0 +1,8 @@
+src/Tiddr/StateMachine/
+tests/
+.gitignore
+.travis.yml
+README.md
+README_cn.md
+composer.json
+composer.phar

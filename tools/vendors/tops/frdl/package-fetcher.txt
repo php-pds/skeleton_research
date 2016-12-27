@@ -1,0 +1,6 @@
+.ApplicationComposer/apps/frdl/webfan/ApplicationComposer/Repos/
+.gitattributes
+.gitignore
+LICENSE.md
+README.md
+composer.json

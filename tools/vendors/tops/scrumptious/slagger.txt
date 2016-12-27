@@ -1,0 +1,4 @@
+Slagger/
+.gitignore
+README.md
+composer.json

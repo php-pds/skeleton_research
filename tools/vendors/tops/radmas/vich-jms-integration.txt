@@ -1,0 +1,8 @@
+Annotation/
+DependencyInjection/
+Listener/
+Resources/
+.gitignore
+README.md
+RadmasVichJmsIntegrationBundle.php
+composer.json

@@ -1,0 +1,7 @@
+eyes.common.php/src/main/php/com/applitools/
+eyes.images.php/src/main/php/com/applitools/eyes/
+eyes.sdk.php/src/main/php/com/applitools/eyes/
+eyes.selenium.php/src/main/php/com/applitools/eyes/selenium/
+.gitignore
+README.md
+composer.json

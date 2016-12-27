@@ -1,0 +1,12 @@
+build/
+docs/
+src/framework/
+tests/
+.gitignore
+.travis.yml
+LICENSE.md
+README.md
+build.xml
+composer.json
+dynamicReturnTypeMeta.json
+phpunit.xml.dist

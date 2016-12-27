@@ -1,0 +1,6 @@
+etc/
+src/
+www/
+.gitignore
+README.md
+composer.json

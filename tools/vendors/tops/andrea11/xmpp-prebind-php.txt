@@ -1,0 +1,6 @@
+lib/Auth/
+.gitignore
+LICENSE
+README.md
+XmppPrebind.php
+composer.json

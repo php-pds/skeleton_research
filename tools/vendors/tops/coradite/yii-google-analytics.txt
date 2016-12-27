@@ -1,0 +1,7 @@
+doc/
+src/Coradite/GoogleAnalytics/
+.gitignore
+CHANGELOG.md
+LICENSE
+README.md
+composer.json

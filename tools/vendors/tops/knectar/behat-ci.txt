@@ -1,0 +1,14 @@
+app/
+src/AppBundle/Commands/
+.gitignore
+CHANGELOG.md
+Config.php
+README.md
+composer.json
+composer.lock
+npm-debug.log
+parameters.yml~
+profiles.yml.sample
+profilesbehat3drupal.yml.sample
+projects.yml.sample
+settings.yml.sample

@@ -1,0 +1,4 @@
+ReadableApiErrorResponseBundle/
+.gitattributes
+README.md
+composer.json

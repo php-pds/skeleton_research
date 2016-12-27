@@ -1,0 +1,8 @@
+.settings/
+demo/
+.gitignore
+.project
+LICENSE
+README.md
+TextTable.php
+composer.json

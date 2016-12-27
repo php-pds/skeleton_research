@@ -1,0 +1,4 @@
+src/Dezull/Silex/Provider/DBALPaginatorServiceProvider/
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,5 @@
+lib/Qiniu/
+test/
+README.md
+composer.json
+phpunit.xml

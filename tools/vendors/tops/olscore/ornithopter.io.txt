@@ -1,0 +1,12 @@
+application/
+.gitignore
+.htaccess
+404.html
+CONTRIBUTING.md
+LICENSE-3RD-PARTY.md
+LICENSE.md
+README.md
+composer.json
+crossdomain.xml
+index.php
+sample.php

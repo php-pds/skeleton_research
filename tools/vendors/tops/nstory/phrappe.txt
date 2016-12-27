@@ -1,0 +1,11 @@
+src/Phrappe/
+test/
+.gitignore
+.travis.yml
+Gruntfile.coffee
+LICENSE
+README.md
+composer.json
+composer.lock
+package.json
+phpunit.xml.dist

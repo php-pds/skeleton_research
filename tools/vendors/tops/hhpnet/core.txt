@@ -1,0 +1,14 @@
+spec/
+src/
+.gitignore
+.phpmd.xml
+.travis.yml
+Dockerfile.composer
+Dockerfile.phpspec
+LICENSE
+Makefile
+README.md
+Vagrantfile
+composer.json
+composer.lock
+phpspec.yml

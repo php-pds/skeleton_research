@@ -1,0 +1,14 @@
+Collection/
+Comparison/
+DependencyInjection/
+Document/
+Escaper/
+EventListener/
+Interfaces/
+Repository/
+Resources/
+SessionStorage/
+Tests/
+.gitignore
+EbutikMongoSessionBundle.php
+composer.json

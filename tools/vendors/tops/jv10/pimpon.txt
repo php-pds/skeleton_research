@@ -1,0 +1,7 @@
+controllers/
+lib/PimPon/
+static/
+views/scripts/settings/
+README.md
+composer.json
+plugin.xml

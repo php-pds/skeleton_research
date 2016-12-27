@@ -1,0 +1,11 @@
+assets/
+example-views/layouts/
+helpers/
+widgets/
+.gitattributes
+.gitignore
+AutoloadExample.php
+BeyondAsset.php
+README.md
+SkinAsset.php
+composer.json

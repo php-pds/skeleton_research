@@ -1,0 +1,5 @@
+src/Ketwaroo/
+tests/manual/
+LICENSE
+README.md
+composer.json

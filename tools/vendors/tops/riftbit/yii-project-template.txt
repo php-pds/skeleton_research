@@ -1,0 +1,16 @@
+api/
+backend/
+common/
+console/
+deploy/
+environments/
+frontend/
+tests/
+.gitattributes
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+composer.json
+yii

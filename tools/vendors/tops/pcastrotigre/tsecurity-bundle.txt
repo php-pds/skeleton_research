@@ -1,0 +1,8 @@
+DependencyInjection/
+Resources/
+Tests/
+.gitignore
+PcastrotigreTSecurityBundle.php
+composer.json
+phpunit.xml.dist
+travis.yml

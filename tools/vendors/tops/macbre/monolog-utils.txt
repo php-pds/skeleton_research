@@ -1,0 +1,6 @@
+src/Macbre/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock

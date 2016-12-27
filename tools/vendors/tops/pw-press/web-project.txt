@@ -1,0 +1,7 @@
+private/
+web/
+.gitignore
+LICENSE
+README.md
+composer.json
+deployment.ini

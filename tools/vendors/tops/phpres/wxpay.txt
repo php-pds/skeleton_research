@@ -1,0 +1,6 @@
+example/
+lib/
+.gitattributes
+.gitignore
+composer.json
+index.php

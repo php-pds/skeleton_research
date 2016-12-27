@@ -1,0 +1,12 @@
+src/
+tests/
+.dockerignore
+.gitignore
+.travis.yml
+Dockerfile_5.6
+Dockerfile_7.0
+Dockerfile_hhvm
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

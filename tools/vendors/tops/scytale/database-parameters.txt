@@ -1,0 +1,8 @@
+DependencyInjection/
+Entity/
+Manager/
+Resources/config/
+Tests/
+README.md
+ScytaleDatabaseConfigurationBundle.php
+composer.json

@@ -1,0 +1,16 @@
+bin/
+code/
+tests/
+.coveralls.yml
+.gitattributes
+.gitignore
+.php_cs
+.scrutinizer.yml
+.travis.yml
+LICENSE.txt
+README.md
+UNICODE-LICENSE.txt
+composer-travis-ci.json
+composer.json
+phpunit.xml
+punic.php

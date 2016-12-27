@@ -1,0 +1,6 @@
+bin/
+lib/Issei/MultipleAppsSupport/
+.gitignore
+LICENSE
+README.md
+composer.json

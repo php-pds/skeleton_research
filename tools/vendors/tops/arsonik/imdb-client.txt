@@ -1,0 +1,10 @@
+src/IMDb/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+config.sample.php
+phpunit.xml

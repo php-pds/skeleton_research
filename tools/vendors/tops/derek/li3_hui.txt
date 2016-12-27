@@ -1,0 +1,6 @@
+extensions/
+views/
+webroot/
+LICENSE
+README.md
+composer.json

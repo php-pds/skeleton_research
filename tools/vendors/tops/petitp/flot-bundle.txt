@@ -1,0 +1,6 @@
+Resources/public/flot/0.8.2/
+.gitignore
+LICENSE
+PetitpFlotBundle.php
+README.md
+composer.json

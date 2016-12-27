@@ -1,0 +1,6 @@
+DependencyInjection/
+Resources/config/
+KnpZendCacheBundle.php
+LICENSE
+README.markdown
+composer.json

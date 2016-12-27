@@ -1,0 +1,9 @@
+DependencyInjection/
+Model/
+Resources/config/
+Services/
+.gitignore
+HamaryuginhMeekroDbBundle.php
+LICENSE
+README.md
+composer.json

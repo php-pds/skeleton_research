@@ -1,0 +1,15 @@
+src/
+tests/
+.codeclimate.yml
+.gitignore
+.styleci.yml
+.travis.yml
+CHANGELOG.md
+LICENSE.md
+README.md
+bootstrap.php
+composer.json
+phpunit.xml.dist
+readtest.php
+reftest.php
+test.php

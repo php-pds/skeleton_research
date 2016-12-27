@@ -1,0 +1,7 @@
+script/
+.gitignore
+Commit.php
+Generator.php
+LICENSE
+README.md
+composer.json

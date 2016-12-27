@@ -1,0 +1,14 @@
+build/
+documentation/
+production/
+src/
+vendors/
+.bowerrc
+.gitignore
+LICENSE.txt
+README.md
+bower.json
+changelog.md
+composer.json
+gulpfile.js
+package.json

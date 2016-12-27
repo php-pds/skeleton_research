@@ -1,0 +1,10 @@
+Conf/
+Lang/
+Lib/
+Tpl/
+.gitignore
+Smartthink.php
+autoload.php
+composer.json
+functions.php
+readme.md

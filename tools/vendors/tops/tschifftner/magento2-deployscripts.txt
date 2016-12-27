@@ -1,0 +1,8 @@
+LICENSE.txt
+README.md
+build.sh
+cleanup.sh
+composer.json
+deploy.sh
+install.sh
+n98-magerun2.phar

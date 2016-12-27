@@ -1,0 +1,10 @@
+Classes/
+Tests/
+samples/
+.gitignore
+.travis.yml
+README.md
+changelog.txt
+composer.json
+license.md
+phpunit.xml.dist

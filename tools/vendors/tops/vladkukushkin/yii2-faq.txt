@@ -1,0 +1,9 @@
+controllers/
+messages/
+migrations/
+models/
+views/default/
+widgets/FaqWidget/
+Module.php
+README.md
+composer.json

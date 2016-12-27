@@ -1,0 +1,7 @@
+css/
+js/
+LICENSE
+NewsSticker.php
+NewsStickerAsset.php
+README.md
+composer.json

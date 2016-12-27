@@ -1,0 +1,15 @@
+doc/
+src/t1st3/JSONMin/
+tests/
+.editorconfig
+.gitattributes
+.gitignore
+.travis.yml
+changelog.md
+composer.json
+gruntfile.js
+license
+package.json
+phpunit.xml
+readme.md
+travis-ci.xml

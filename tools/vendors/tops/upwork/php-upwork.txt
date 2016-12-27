@@ -1,0 +1,14 @@
+docs/
+example/
+src/Upwork/API/
+tests/Upwork/API/
+vendor-src/
+.docgen
+.gitignore
+.travis.yml
+CHANGES.md
+LICENSE
+README.md
+TODO.md
+composer.json
+phpunit.xml

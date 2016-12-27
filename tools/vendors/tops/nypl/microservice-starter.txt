@@ -1,0 +1,6 @@
+avro-php-1.8.1/
+samples/
+src/
+.gitignore
+README.md
+composer.json

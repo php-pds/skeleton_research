@@ -1,0 +1,6 @@
+src/MightyMocker/
+tests/MightyMocker/
+.gitignore
+README.md
+composer.json
+phpunit.xml.dist

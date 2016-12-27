@@ -1,0 +1,8 @@
+src/Section1965/
+tests/Section1965Test/
+.gitignore
+.travis.yml
+LICENSE
+composer.json
+phpunit.xml.dist
+readme.md

@@ -1,0 +1,11 @@
+DependencyInjection/
+Entity/
+Exception/
+Repository/
+Resources/config/
+Twig/Extension/
+Config.php
+EgenisConfigBundle.php
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,8 @@
+demo/
+lib/
+project/assets/
+.codeclimate.yml
+.gitignore
+LICENSE
+README.md
+composer.json

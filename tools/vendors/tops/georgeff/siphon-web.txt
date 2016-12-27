@@ -1,0 +1,9 @@
+app/
+bootstrap/
+config/
+spec/
+www/
+.gitignore
+README.md
+composer.json
+filter

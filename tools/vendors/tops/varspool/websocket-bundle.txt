@@ -1,0 +1,11 @@
+Application/
+Command/
+DependencyInjection/
+Multiplex/
+Resources/
+Server/
+Services/
+.gitignore
+README.md
+VarspoolWebsocketBundle.php
+composer.json

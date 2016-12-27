@@ -1,0 +1,5 @@
+bin/
+coding-standard/MarcinOrlowski/
+.gitignore
+README.md
+composer.json

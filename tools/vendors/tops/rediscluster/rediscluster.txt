@@ -1,0 +1,12 @@
+Tests/
+bin/
+src/RedisCluster/
+.gitattributes
+.gitignore
+.travis.yml
+INSTALL
+LICENSE
+MANIFEST.in
+README.rst
+composer.json
+phpunit.xml.dist

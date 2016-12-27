@@ -1,0 +1,9 @@
+cache/
+src/
+tests/Lephare/Tests/
+web/
+.gitignore
+README.md
+circle.yml
+composer.json
+phpunit.xml.dist

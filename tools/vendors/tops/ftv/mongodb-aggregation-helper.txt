@@ -1,0 +1,7 @@
+src/Ftv/MongoDB/
+tests/Ftv/MongoDB/
+.gitignore
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

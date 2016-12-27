@@ -1,0 +1,15 @@
+bin/
+grunt/
+inc/
+languages/
+tests/
+.gitattributes
+.travis.yml
+Gruntfile.js
+README.md
+composer.json
+package.json
+phpunit.xml.dist
+readme.txt
+remove-dashboard-access.php
+uninstall.php

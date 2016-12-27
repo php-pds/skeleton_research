@@ -1,0 +1,6 @@
+SDKs/
+test/
+AsposeStorageCloud.podspec
+LICENSE
+README.md
+composer.json

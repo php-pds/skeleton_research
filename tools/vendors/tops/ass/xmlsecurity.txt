@@ -1,0 +1,9 @@
+src/ass/XmlSecurity/
+tests/ass/XmlSecurity/Test/
+.coveralls.yml
+.gitignore
+.travis.yml
+LICENSE.md
+README.md
+composer.json
+phpunit.xml.dist

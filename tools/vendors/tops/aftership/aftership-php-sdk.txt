@@ -1,0 +1,6 @@
+examples/
+src/AfterShip/
+test/
+.gitignore
+README.md
+composer.json

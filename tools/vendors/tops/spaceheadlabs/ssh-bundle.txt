@@ -1,0 +1,6 @@
+Factory/
+Resources/
+Tests/Factory/
+README.md
+composer.json
+phpunit.xml.dist

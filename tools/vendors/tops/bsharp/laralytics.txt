@@ -1,0 +1,10 @@
+publish/
+src/
+tests/
+.gitignore
+.styleci.yml
+.travis.yml
+composer.json
+license.md
+phpunit.xml.dist
+readme.md

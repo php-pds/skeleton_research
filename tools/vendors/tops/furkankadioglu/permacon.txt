@@ -1,0 +1,7 @@
+src/
+.DS_Store
+LICENSE
+README-TR.md
+README.md
+ToDoList.md
+composer.json

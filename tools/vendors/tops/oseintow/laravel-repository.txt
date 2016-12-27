@@ -1,0 +1,7 @@
+.idea/
+.phpcomplete_extended/
+src/Eloquent/
+.gitignore
+README.md
+composer.json
+composer.lock

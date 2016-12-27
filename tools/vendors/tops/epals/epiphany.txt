@@ -1,0 +1,7 @@
+docs/
+examples/
+src/
+Changelog
+LICENSE
+README.markdown
+composer.json

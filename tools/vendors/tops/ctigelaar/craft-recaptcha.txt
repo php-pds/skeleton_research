@@ -1,0 +1,8 @@
+controllers/
+services/
+templates/
+variables/
+LICENSE
+README.md
+RecaptchaPlugin.php
+composer.json

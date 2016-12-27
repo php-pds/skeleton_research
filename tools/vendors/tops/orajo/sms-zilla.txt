@@ -1,0 +1,7 @@
+docs/
+src/SmsZilla/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json

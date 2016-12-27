@@ -1,0 +1,4 @@
+languages/
+.gitignore
+composer.json
+edd-manual-purchases.php

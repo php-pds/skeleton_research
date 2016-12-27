@@ -1,0 +1,14 @@
+assets/
+public/
+src/
+tests/
+.gitattributes
+.gitignore
+.travis.yml
+Gruntfile.coffee
+LICENSE
+README.md
+bower.json
+composer.json
+package.json
+phpunit.xml

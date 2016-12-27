@@ -1,0 +1,6 @@
+src/
+.DS_Store
+.gitignore
+README.md
+autoload.php
+composer.json

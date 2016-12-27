@@ -1,0 +1,6 @@
+src/HTML24/MBTilesGenerator/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json

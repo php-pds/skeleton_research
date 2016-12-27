@@ -1,0 +1,5 @@
+.gitignore
+JsonifyBehavior.php
+LICENSE
+README.md
+composer.json

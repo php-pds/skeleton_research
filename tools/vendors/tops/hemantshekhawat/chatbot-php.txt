@@ -1,0 +1,9 @@
+src/
+tests/
+.gitignore
+LICENSE.txt
+composer.json
+composer.lock
+debug.log
+index.php
+readme.md

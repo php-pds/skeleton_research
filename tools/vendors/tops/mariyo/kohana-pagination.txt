@@ -1,0 +1,6 @@
+classes/
+config/
+views/pagination/
+.gitignore
+README.md
+composer.json

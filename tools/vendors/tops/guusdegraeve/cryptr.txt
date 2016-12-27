@@ -1,0 +1,7 @@
+src/GuusDeGraeve/Cryptr/
+tests/
+.gitignore
+LICENSE
+LICENSE.md
+composer.json
+phpunit.xml.dist

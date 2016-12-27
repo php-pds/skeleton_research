@@ -1,0 +1,5 @@
+src/Dropbox/
+.gitignore
+LICENSE
+README.md
+composer.json

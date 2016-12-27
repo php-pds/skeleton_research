@@ -1,0 +1,10 @@
+classes/
+config/
+guide/Kohana-Plugin-System/
+plugins/kmarkdown/
+views/plugins/
+LICENSE
+README.md
+composer.json
+init.php
+plugins.sql

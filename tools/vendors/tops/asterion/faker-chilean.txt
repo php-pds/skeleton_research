@@ -1,0 +1,7 @@
+src/Tidor/FakerChilean/Provider/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock
+example.php

@@ -1,0 +1,6 @@
+test/
+.travis.yml
+LICENSE
+README.md
+composer.json
+function_mock.php

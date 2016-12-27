@@ -1,0 +1,9 @@
+spec/Bcastellano/Symfony/Validator/Constraints/
+src/
+.coveralls.yml
+.gitignore
+.phpspec.yml
+.travis.yml
+LICENSE
+README.md
+composer.json

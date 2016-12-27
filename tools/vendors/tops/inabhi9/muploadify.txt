@@ -1,0 +1,6 @@
+assets/
+.gitignore
+LICENSE
+MUploadify.php
+README.md
+composer.json

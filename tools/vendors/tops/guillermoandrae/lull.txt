@@ -1,0 +1,12 @@
+src/Lull/
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CONTRIBUTING.md
+LICENSE.md
+README.md
+USAGE.md
+composer.json
+composer.lock
+phpunit.xml.dist

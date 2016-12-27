@@ -1,0 +1,6 @@
+README.md
+composer.json
+composer.lock
+text.txt
+text.txt~
+text2.txt

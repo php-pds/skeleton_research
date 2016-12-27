@@ -1,0 +1,10 @@
+Classes/Xclass/Mail/
+Documentation/
+Resources/Private/Language/
+LICENSE
+README.md
+composer.json
+ext_conf_template.txt
+ext_emconf.php
+ext_icon.png
+ext_localconf.php

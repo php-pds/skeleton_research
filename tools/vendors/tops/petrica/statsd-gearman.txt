@@ -1,0 +1,15 @@
+Gauge/
+Tests/Gauge/
+docs/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+Vagrantfile
+composer.json
+composer.lock
+docker-compose.yml
+gauges.yml
+phpunit.xml.dist
+provision.sh

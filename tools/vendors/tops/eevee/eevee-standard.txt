@@ -1,0 +1,6 @@
+app/
+kernel/
+.htaccess
+LICENSE
+README.md
+composer.json

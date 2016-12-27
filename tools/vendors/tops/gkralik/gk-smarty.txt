@@ -1,0 +1,9 @@
+config/
+src/GkSmarty/
+.gitignore
+CHANGELOG.md
+LICENSE
+Module.php
+README.md
+composer.json
+composer.lock

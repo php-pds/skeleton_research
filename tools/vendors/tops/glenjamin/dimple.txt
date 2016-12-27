@@ -1,0 +1,10 @@
+src/Dimple/
+tests/
+.gitignore
+.travis.yml
+LICENCE
+README.md
+benchmark.php
+composer.json
+composer.lock
+phpunit.xml.dist

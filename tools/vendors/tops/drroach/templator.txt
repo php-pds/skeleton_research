@@ -1,0 +1,14 @@
+parser/
+regex/
+tests/
+.gitignore
+Ajax.php
+CHANGELOG.md
+DEVREADME.md
+README.md
+Templator.js
+Templator.php
+codeception.yml
+composer.json
+scrutinizer.yml
+setup.json

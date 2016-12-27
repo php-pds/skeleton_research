@@ -1,0 +1,9 @@
+Client/
+Controller/
+DependencyInjection/
+Resources/
+Tests/Controller/
+LICENSE
+README.md
+WooApuBundle.php
+composer.json

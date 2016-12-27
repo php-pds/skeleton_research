@@ -1,0 +1,10 @@
+admin/
+includes/
+languages/
+.gitignore
+composer.json
+index.php
+license.md
+readme.md
+tt-meta.php
+uninstall.php

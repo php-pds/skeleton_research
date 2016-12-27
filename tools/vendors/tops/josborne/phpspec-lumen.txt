@@ -1,0 +1,10 @@
+spec/PhpSpec/Lumen/
+src/PhpSpec/Lumen/
+.gitignore
+.travis.yml
+CONTRIBUTING.md
+LICENSE
+README.md
+composer.json
+example.phpspec.yml
+phpspec.yml

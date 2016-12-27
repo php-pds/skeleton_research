@@ -1,0 +1,7 @@
+.settings/
+brandao/brcache/
+tests/brandao/brcache/
+.buildpath
+.project
+README.md
+composer.json

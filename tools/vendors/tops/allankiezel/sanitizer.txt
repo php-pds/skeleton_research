@@ -1,0 +1,6 @@
+spec/AllanKiezel/Sanitizer/
+src/AllanKiezel/Sanitizer/
+.gitignore
+README.md
+composer.json
+phpspec.yml

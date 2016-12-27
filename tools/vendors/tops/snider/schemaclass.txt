@@ -1,0 +1,5 @@
+example/
+README.md
+composer.json
+makeDataDefs.php
+schema.class.php

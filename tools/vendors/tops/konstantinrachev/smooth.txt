@@ -1,0 +1,10 @@
+Application/
+Docs/
+Smooth/
+Tests/
+.htaccess
+.travis.yml
+README.md
+composer.json
+index.php
+license.txt

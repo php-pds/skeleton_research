@@ -1,0 +1,9 @@
+doc/
+spec/dcbs/PhauxData/
+src/dcbs/PhauxData/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock

@@ -1,0 +1,8 @@
+Api/
+DependencyInjection/
+Resources/config/
+.gitignore
+.php_cs
+CogitechSMSAPIBundle.php
+LICENSE
+composer.json

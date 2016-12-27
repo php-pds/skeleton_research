@@ -1,0 +1,3 @@
+public/js/
+README.md
+composer.json

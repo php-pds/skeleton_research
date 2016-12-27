@@ -1,0 +1,6 @@
+src/Sam/Hydrator/
+test/
+.gitignore
+.travis.yml
+composer.json
+readme.md

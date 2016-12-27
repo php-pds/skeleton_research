@@ -1,0 +1,8 @@
+src/Bit6/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml

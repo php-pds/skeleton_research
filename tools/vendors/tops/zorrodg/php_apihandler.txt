@@ -1,0 +1,7 @@
+api/
+example/
+.gitignore
+LICENSE
+README.md
+composer.json
+error_codes.txt

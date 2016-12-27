@@ -1,0 +1,6 @@
+src/Eav/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json

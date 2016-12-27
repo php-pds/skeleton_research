@@ -1,0 +1,8 @@
+src/Fishtrap/Guzzle/Plugin/
+tests/Fishtrap/Tests/Guzzle/Plugin/
+.gitignore
+.travis.yml
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

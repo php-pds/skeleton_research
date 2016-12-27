@@ -1,0 +1,8 @@
+src/JesusGoku/TheTvDb/
+tests/JesusGoku/TheTvDb/
+.editorconfig
+.gitignore
+README.md
+composer.json
+composer.lock
+phpunit.dist.xml

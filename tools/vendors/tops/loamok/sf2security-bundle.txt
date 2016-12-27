@@ -1,0 +1,7 @@
+DependencyInjection/
+EventHandler/
+Resources/
+LICENSE
+README.md
+Sf2securityBundle.php
+composer.json

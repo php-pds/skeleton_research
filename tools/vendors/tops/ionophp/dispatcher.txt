@@ -1,0 +1,13 @@
+demo/
+src/
+tests/
+.coveralls.yml
+.gitignore
+.scrutinizer.yml
+.sensiolabs.yml
+.styleci.yml
+.travis.yml
+README.md
+composer.json
+nitpick.json
+phpunit.xml

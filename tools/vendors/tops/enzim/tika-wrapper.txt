@@ -1,0 +1,9 @@
+example/with-composer/
+src/
+tests/
+vendor/
+.gitignore
+README.md
+bootstrap.php
+composer.json
+phpunit.xml

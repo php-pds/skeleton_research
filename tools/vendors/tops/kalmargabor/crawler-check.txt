@@ -1,0 +1,5 @@
+src/CrawlerCheck/
+.gitignore
+LICENSE
+README.md
+composer.json

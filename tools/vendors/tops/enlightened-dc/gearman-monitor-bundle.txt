@@ -1,0 +1,10 @@
+Command/
+Controller/
+DependencyInjection/
+Gearman/
+Report/
+Resources/
+.gitignore
+GearmanMonitorBundle.php
+README.md
+composer.json

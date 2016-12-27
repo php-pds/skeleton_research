@@ -1,0 +1,8 @@
+Controller/
+DataCollector/
+DependencyInjection/
+Logger/
+Resources/
+DiviPropelLoggerBundle.php
+README.md
+composer.json

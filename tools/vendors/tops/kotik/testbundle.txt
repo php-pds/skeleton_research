@@ -1,0 +1,7 @@
+Controller/
+DependencyInjection/
+Resources/
+Tests/Controller/
+KotikTestBundle.php
+README.md
+composer.json

@@ -1,0 +1,9 @@
+Api/
+Controller/Index/
+Model/
+etc/
+LICENSE
+LICENSE.txt
+README.md
+composer.json
+registration.php

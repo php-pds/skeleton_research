@@ -1,0 +1,9 @@
+components/
+modules/
+public/
+templates/default/
+.gitignore
+LICENSE
+README.md
+composer.json
+oudyplat.php

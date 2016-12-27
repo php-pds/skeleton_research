@@ -1,0 +1,14 @@
+api/
+examples/
+tests/
+.gitattributes
+.gitignore
+LICENSE.txt
+README.md
+composer.json
+mlphp-ghpages.ini
+phpdoctor.ini
+phpunit-bootstrap.php
+phpunit-config.php
+phpunit-teardown.php
+phpunit.xml

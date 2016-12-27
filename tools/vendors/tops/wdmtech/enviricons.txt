@@ -1,0 +1,7 @@
+src/Wdmtech/Enviricons/
+.gitignore
+LICENSE
+README.md
+composer.json
+demo_screenshot.png
+demo_screenshot.psd

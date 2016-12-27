@@ -1,0 +1,11 @@
+files/
+private/
+src/Composer/
+tmp/
+web/
+.gitignore.example
+.php_cs
+.travis.yml
+LICENSE
+README.md
+composer.json

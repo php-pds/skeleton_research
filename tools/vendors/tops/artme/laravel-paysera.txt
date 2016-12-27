@@ -1,0 +1,9 @@
+config/
+lib/
+src/
+vendor/
+.gitignore
+README.md
+composer.json
+composer.lock
+contributors.txt

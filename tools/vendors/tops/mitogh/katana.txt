@@ -1,0 +1,13 @@
+media/
+src/
+tests/Katana/Helpers/
+.editorconfig
+.gitignore
+.travis.yml
+codesniffer.ruleset.xml
+composer.json
+composer.lock
+licence.txt
+phpunit.xml.dist
+readme-1.md
+readme.md

@@ -1,0 +1,9 @@
+Adapter/
+.gitignore
+Adapter.php
+AdapterInterface.php
+Client.php
+MimeType.php
+README.md
+Response.php
+composer.json

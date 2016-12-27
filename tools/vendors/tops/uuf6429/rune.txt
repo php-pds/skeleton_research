@@ -1,0 +1,14 @@
+example/
+extra/
+src/Rune/
+test/
+.codecov.yml
+.gitignore
+.php_cs
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

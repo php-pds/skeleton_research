@@ -1,0 +1,10 @@
+lib/Mxtb/
+test/
+.gitignore
+.travis.yml
+CONTRIBUTING.md
+LICENSE.txt
+README.md
+composer.json
+composer.lock
+phpunit.xml

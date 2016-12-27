@@ -1,0 +1,10 @@
+src/
+tests/
+.gitignore
+changelog.md
+composer.json
+gulpfile.js
+license.md
+package.json
+phpunit.xml
+readme.md

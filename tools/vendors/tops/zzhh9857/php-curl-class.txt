@@ -1,0 +1,10 @@
+docs/
+examples/
+scripts/
+src/ZzhhCurl/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json

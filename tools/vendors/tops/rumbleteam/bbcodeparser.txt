@@ -1,0 +1,4 @@
+script/
+src/RumbleTeam/BBCodeParser/
+.gitignore
+composer.json

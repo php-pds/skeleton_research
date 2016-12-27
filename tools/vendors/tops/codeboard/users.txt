@@ -1,0 +1,11 @@
+Events/
+Http/
+Providers/
+Repositories/
+.gitignore
+RegisterNewUserCommand.php
+RegisterNewUserCommandHandler.php
+Role.php
+User.php
+composer.json
+readme.md

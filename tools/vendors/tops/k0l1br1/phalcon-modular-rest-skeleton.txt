@@ -1,0 +1,8 @@
+.phalcon/
+app/
+public/
+.gitignore
+.htaccess
+LICENSE
+README.md
+composer.json

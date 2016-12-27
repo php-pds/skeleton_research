@@ -1,0 +1,12 @@
+DependencyInjection/
+Exception/
+Resources/config/
+Tests/
+.gitignore
+.travis.yml
+BlackOpticXeroBundle.php
+LICENSE
+README.md
+XeroClient.php
+composer.json
+phpunit.xml

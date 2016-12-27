@@ -1,0 +1,16 @@
+build/phpcs/
+src/
+tests/
+.gitignore
+.travis.yml
+CONTRIBUTING.md
+CREDITS
+LICENSE
+README.md
+composer.json
+composer.lock
+example-getUpdatesCLI.php
+example-hook.php
+example-set.php
+phpunit.xml.dist
+structure.sql

@@ -1,0 +1,14 @@
+DependencyInjection/
+Exception/
+Resources/
+Tests/
+Twig/
+.gitignore
+.php_cs
+.travis.yml
+LICENSE
+Makefile
+README.md
+SKTwigExtensionsBundle.php
+composer.json
+phpunit.xml.dist

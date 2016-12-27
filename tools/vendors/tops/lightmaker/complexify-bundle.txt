@@ -1,0 +1,10 @@
+Tests/
+Validator/Constraints/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+LightmakerComplexifyBundle.php
+README.md
+composer.json
+phpunit.xml.dist

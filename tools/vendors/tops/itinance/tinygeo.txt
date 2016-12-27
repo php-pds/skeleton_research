@@ -1,0 +1,8 @@
+dev/
+src/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json
+run_tests.sh

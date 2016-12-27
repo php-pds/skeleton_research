@@ -1,0 +1,13 @@
+dist/
+src/
+.bowerrc
+.editorconfig
+.gitattributes
+.gitignore
+.npmignore
+.travis.yml
+README.md
+bower.json
+composer.json
+gulpfile.js
+package.json

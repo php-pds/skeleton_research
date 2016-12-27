@@ -1,0 +1,8 @@
+documentation/
+src/
+tests/
+.gitignore
+LICENSE
+README.md
+brein-api-library-php.iml
+composer.json

@@ -1,0 +1,9 @@
+src/
+.env.example
+.gitignore
+.styleci.yml
+LICENSE.txt
+README.md
+composer.json
+composer.lock
+jira

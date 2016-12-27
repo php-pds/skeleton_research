@@ -1,0 +1,7 @@
+DependencyInjection/
+Tests/DependencyInjection/Compiler/
+.gitignore
+LICENSE
+LoggerAwareBundle.php
+README.md
+composer.json

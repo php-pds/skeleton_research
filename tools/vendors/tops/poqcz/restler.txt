@@ -1,0 +1,14 @@
+features/
+public/
+scratch/
+vendor/
+views/
+.gitignore
+ANNOTATIONS.md
+FORMS.md
+Makefile
+PARAM.md
+README.md
+behat.yml
+composer.json
+package.ini

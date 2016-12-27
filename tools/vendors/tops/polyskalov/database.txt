@@ -1,0 +1,7 @@
+Tests/
+.gitattributes
+.travis.yml
+Database.php
+README.md
+composer.json
+phpunit.xml

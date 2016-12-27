@@ -1,0 +1,5 @@
+FileMaker/
+.DS_Store
+.gitignore
+FileMaker.php
+composer.json

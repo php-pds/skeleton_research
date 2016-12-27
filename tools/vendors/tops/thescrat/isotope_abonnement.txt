@@ -1,0 +1,7 @@
+classes/
+config/
+dca/
+languages/de/
+.gitignore
+.htaccess
+composer.json

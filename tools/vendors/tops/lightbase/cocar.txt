@@ -1,0 +1,16 @@
+Command/
+Controller/
+DependencyInjection/
+Entity/
+Form/
+Resources/
+Tests/Controller/
+CocarBundle.php
+LICENSE
+README.md
+UPGRADE-2.2.md
+UPGRADE-2.3.md
+UPGRADE.md
+autoload.php
+composer.json
+schedules.txt

@@ -1,0 +1,8 @@
+app/
+docs/imgs/
+.gitignore
+README.md
+composer.json
+debug-performance.css
+debug-performance.js
+modman

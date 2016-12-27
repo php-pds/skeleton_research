@@ -1,0 +1,4 @@
+VisualPaginator.php
+bootstrap-paginator.latte
+composer.json
+readme.md

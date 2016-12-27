@@ -1,0 +1,12 @@
+debian/
+img/
+libraries/
+misc/
+src/
+tests/
+tools/
+.hgignore
+LICENSE.text
+Readme.md
+build.xml
+composer.json

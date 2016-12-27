@@ -1,0 +1,6 @@
+assets/
+.gitignore
+Appendgrid.php
+AppendgridAsset.php
+README.md
+composer.json

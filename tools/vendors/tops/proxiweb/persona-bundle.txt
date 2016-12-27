@@ -1,0 +1,7 @@
+Controller/
+DependencyInjection/
+Resources/
+Security/
+ProxiwebPersonaBundle.php
+README.md
+composer.json

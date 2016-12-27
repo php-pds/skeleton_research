@@ -1,0 +1,7 @@
+src/ImageLoader/
+tests/ImageLoader/Tests/
+.gitignore
+composer.json
+composer.phar
+phpunit.xml
+readme.md

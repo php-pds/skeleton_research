@@ -1,0 +1,6 @@
+.gitignore
+LICENSE
+README.md
+composer.json
+file1.txt
+file2 for branch1.txt

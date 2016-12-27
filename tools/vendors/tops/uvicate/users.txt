@@ -1,0 +1,14 @@
+api/
+installers/
+oauth/
+sql/
+src/uVicate/
+.gitignore
+LICENSE
+README.md
+bower.json
+composer.json
+composer.lock
+composer.phar
+configure.original
+configure.php

@@ -1,0 +1,7 @@
+etc/
+include/
+README.md
+composer.json
+index.html
+packages.json
+registration.php

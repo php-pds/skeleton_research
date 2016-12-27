@@ -1,0 +1,6 @@
+Nexik/
+.gitignore
+History.md
+README.md
+composer.json
+composer.lock

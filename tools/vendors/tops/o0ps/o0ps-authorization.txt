@@ -1,0 +1,8 @@
+config/
+data/
+src/o0psAuthorization/
+LICENSE
+Module.php
+README.md
+composer.json
+composer.lock

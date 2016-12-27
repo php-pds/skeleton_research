@@ -1,0 +1,12 @@
+bin/
+src/
+tests/
+.gitignore
+CHANGELOG.md
+LICENSE
+NOTICE
+README.md
+circle.yml
+composer.json
+composer.lock
+phpunit.xml

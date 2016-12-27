@@ -1,0 +1,15 @@
+Build/
+Builder/
+Command/
+Console/
+DependencyInjection/
+Resources/config/
+Tests/
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENSE
+MassiveBuildBundle.php
+README.md
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,13 @@
+doc/
+src/JMS/Serializer/
+tests/
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+UPGRADING.md
+composer.json
+composer.lock
+composer.phar
+phpunit.xml.dist

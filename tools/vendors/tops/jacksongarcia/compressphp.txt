@@ -1,0 +1,6 @@
+src/Application/
+tests/
+vendor/
+LICENSE
+README.md
+composer.json

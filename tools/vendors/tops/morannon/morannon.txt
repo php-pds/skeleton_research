@@ -1,0 +1,7 @@
+src/Morannon/
+tests/Base/Utils/
+.gitignore
+.travis.yml
+LICENSE
+composer.json
+phpunit.xml.dist

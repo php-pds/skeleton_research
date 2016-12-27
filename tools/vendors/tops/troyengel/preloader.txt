@@ -1,0 +1,6 @@
+CHANGELOG.md
+LICENSE
+Preloader.i18n.php
+Preloader.php
+README.md
+composer.json

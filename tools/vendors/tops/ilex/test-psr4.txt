@@ -1,0 +1,8 @@
+src/
+test/
+.gitignore
+.travis.yml
+Psr4AutoloaderClass.php
+README.md
+composer.json
+phpunit.xml

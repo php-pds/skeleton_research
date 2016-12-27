@@ -1,0 +1,13 @@
+app/
+doc/
+example/
+src/
+test/Posibrain/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+composer.json
+php.ini
+phpunit.xml

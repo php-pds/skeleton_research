@@ -1,0 +1,13 @@
+bin/
+src/Awesomite/StackTrace/
+tests/Awesomite/StackTrace/
+.coveralls.yml
+.gitignore
+.travis.yml
+CHANGELOG.md
+DOCUMENTATION.md
+LICENSE
+README.md
+TESTS.md
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,5 @@
+config/
+database/migrations/
+src/
+LICENSE
+composer.json

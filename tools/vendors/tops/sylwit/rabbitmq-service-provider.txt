@@ -1,0 +1,6 @@
+src/Sylwit/Silex/
+tests/unit/
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,10 @@
+src/BaconNumber/
+tests/BaconNumber/
+.editorconfig
+.gitignore
+.travis.yml
+README.md
+composer.json
+composer.lock
+graph.jpg
+phpunit.xml.dist

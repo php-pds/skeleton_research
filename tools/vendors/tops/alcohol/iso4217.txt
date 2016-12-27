@@ -1,0 +1,11 @@
+.gitattributes
+.gitignore
+.php_cs
+.travis.yml
+CHANGELOG.md
+ISO4217.php
+ISO4217Test.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

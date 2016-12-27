@@ -1,0 +1,6 @@
+assets/
+classes/
+config/
+dca/
+languages/de/
+composer.json

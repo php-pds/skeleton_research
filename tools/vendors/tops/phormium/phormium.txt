@@ -1,0 +1,16 @@
+docs/
+example/
+src/Phormium/
+tests/
+.gitattributes
+.gitignore
+.travis.yml
+CHANGELOG.md
+INSTALL.md
+LICENSE.md
+Makefile
+README.md
+TODO.md
+apigen.neon
+composer.json
+phpunit.xml.dist

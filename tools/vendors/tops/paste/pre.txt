@@ -1,0 +1,6 @@
+examples/
+src/Paste/
+.gitignore
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,6 @@
+.settings/
+src/
+.buildpath
+.project
+README.md
+composer.json

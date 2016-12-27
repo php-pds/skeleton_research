@@ -1,0 +1,6 @@
+lib/Esampaio/Epoxy/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock

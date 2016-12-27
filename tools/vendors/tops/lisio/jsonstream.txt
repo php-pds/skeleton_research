@@ -1,0 +1,12 @@
+Exception/
+Parser/
+Reader/
+Tests/
+.gitignore
+.travis.yml
+Parser.php
+README.md
+Reader.php
+Writer.php
+composer.json
+phpunit.xml.dist

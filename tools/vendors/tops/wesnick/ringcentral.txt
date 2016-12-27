@@ -1,0 +1,7 @@
+bin/
+spec/Wesnick/RingCentral/
+src/Wesnick/RingCentral/
+.gitignore
+LICENSE
+README.md
+composer.json

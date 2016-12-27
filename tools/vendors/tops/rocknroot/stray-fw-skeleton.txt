@@ -1,0 +1,8 @@
+apps/
+web/
+.gitignore
+LICENSE
+README.md
+composer.json
+init.php
+settings.example.yml

@@ -1,0 +1,13 @@
+src/
+tests/
+.coveralls.yml
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+deploy.sh
+deploy_key.enc
+key.pem
+phpunit.xml

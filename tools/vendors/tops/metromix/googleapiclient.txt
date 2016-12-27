@@ -1,0 +1,12 @@
+examples/
+src/Google/
+style/
+tests/
+.gitignore
+.travis.yml
+CONTRIBUTING.md
+LICENSE
+README.md
+UPGRADING.md
+composer.json
+phpunit.xml.dist

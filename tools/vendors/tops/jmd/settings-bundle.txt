@@ -1,0 +1,8 @@
+DependencyInjection/
+Doctrine/Model/
+Resources/
+Service/
+Twig/Extension/
+JMDSettingsBundle.php
+README.md
+composer.json

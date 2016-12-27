@@ -1,0 +1,4 @@
+src/Dg/DgPackage/
+.gitignore
+README.md
+composer.json

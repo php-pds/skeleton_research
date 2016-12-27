@@ -1,0 +1,12 @@
+features/
+src/
+tests/
+.gitignore
+LICENSE
+Makefile
+README.md
+behat.yml
+cli-config.php
+composer.json
+phpspec.yml
+phpunit.xml

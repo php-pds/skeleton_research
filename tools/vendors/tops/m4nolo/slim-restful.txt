@@ -1,0 +1,5 @@
+SlimRestful/
+.gitignore
+LICENSE
+README.md
+composer.json

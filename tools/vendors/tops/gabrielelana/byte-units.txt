@@ -1,0 +1,10 @@
+src/ByteUnits/
+tests/
+.gitignore
+.travis.yml
+.vimrc
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml

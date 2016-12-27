@@ -1,0 +1,14 @@
+assets/
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CeiValidator.php
+CnpjValidator.php
+CpfValidator.php
+LICENSE
+README.md
+ValidationAsset.php
+composer.json
+composer.lock
+phpunit.xml.dist

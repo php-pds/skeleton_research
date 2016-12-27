@@ -1,0 +1,16 @@
+app/
+bootstrap/
+commune/Foundation/
+config/
+database/
+projects/
+resources/
+storage/
+tests/
+.env.example
+.gitattributes
+.gitignore
+LICENSE
+artisan
+composer.json
+readme.md

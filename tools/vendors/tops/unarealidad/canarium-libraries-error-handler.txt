@@ -1,0 +1,7 @@
+config/
+src/ErrorHandler/
+view/error/
+LICENSE
+Module.php
+README.md
+composer.json

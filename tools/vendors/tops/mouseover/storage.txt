@@ -1,0 +1,6 @@
+src/MouseOver/Storage/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json

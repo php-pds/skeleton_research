@@ -1,0 +1,7 @@
+assets/
+html/
+vendor/
+LICENSE
+README.md
+composer.json
+composer.lock

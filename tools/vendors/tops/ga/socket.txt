@@ -1,0 +1,7 @@
+.gitignore
+README.md
+SocketClient.php
+SocketConnection.php
+SocketException.php
+SocketServer.php
+composer.json

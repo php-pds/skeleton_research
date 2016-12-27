@@ -1,0 +1,8 @@
+spec/Migrations/
+src/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock
+phpspec.yml

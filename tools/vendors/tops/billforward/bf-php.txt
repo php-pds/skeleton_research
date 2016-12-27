@@ -1,0 +1,8 @@
+build/
+lib/
+test/BFPHPClientTest/
+.gitignore
+ExampleUsage.php
+README.md
+composer.json
+phpunit.xml

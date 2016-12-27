@@ -1,0 +1,14 @@
+StateEngine/
+Test/
+doc/
+.gitignore
+.phpunit.bootstrap.php
+.scrutinizer.yml
+.travis.yml
+GmorelStateWorkflowBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml
+phpunit.xsd
+travis.php.ini

@@ -1,0 +1,12 @@
+app/
+bin/
+src/
+tests/
+var/
+vendor/
+web/
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

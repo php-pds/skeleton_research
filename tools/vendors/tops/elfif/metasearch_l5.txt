@@ -1,0 +1,10 @@
+nbproject/
+public/
+src/Elfif/MetaSearch_L5/
+tests/
+.gitignore
+.travis.yml
+composer.json
+phpunit
+phpunit.xml
+readme.md

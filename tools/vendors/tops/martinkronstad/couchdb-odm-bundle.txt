@@ -1,0 +1,15 @@
+CacheWarmer/
+Command/
+DataCollector/
+DependencyInjection/
+Form/
+Mapping/Driver/
+Resources/
+Tests/
+Validator/Constraints/
+.gitignore
+DoctrineCouchDBBundle.php
+ManagerRegistry.php
+README.md
+composer.json
+phpunit.xml.dist

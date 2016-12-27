@@ -1,0 +1,6 @@
+bin/
+.gitignore
+README.md
+composer.json
+example.php
+gpl-3.0.txt

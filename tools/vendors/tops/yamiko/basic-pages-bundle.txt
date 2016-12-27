@@ -1,0 +1,13 @@
+Controller/
+DependencyInjection/
+Entity/
+Form/Type/
+Resources/
+Tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+YamikoBasicPagesBundle.php
+composer.json
+phpunit.xml.dist

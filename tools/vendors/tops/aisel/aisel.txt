@@ -1,0 +1,5 @@
+Aisel/
+ansible/
+.gitignore
+README.md
+Vagrantfile

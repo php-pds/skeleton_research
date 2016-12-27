@@ -1,0 +1,13 @@
+admin/
+includes/
+languages/
+public/
+.gitignore
+LICENSE.txt
+README.md
+README.txt
+acf-front-end-editor.php
+composer.json
+index.php
+screenshot-1.gif
+uninstall.php

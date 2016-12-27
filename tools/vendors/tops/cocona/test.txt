@@ -1,0 +1,7 @@
+src/Cocona/Test/
+tests/
+.gitattributes
+.gitignore
+.travis.yml
+composer.json
+phpunit.xml

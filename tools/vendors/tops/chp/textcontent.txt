@@ -1,0 +1,9 @@
+app/view/text-content/
+src/TextContent/
+webroot/
+.scrutinizer.yml
+.travis.yml
+LICENSE.txt
+README.md
+composer.json
+phpunit.xml.dist

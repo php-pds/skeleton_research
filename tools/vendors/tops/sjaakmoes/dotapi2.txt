@@ -1,0 +1,9 @@
+src/Dotapi2/
+tests/
+.gitattributes
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml

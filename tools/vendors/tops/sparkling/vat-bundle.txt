@@ -1,0 +1,9 @@
+DependencyInjection/
+Exception/
+Resources/
+Service/
+Validator/
+LICENSE
+README.md
+SparklingVATBundle.php
+composer.json

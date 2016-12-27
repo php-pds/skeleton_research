@@ -1,0 +1,13 @@
+config/
+db.dist/
+etc/
+lib/
+tests/
+.codeclimate.yml
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.sh
+phpunit.xml

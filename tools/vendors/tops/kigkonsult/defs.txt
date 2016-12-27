@@ -1,0 +1,7 @@
+docs/
+sql/
+src/
+test/
+README.md
+composer.json
+defs.php

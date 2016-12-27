@@ -1,0 +1,14 @@
+assets/
+config/
+controllers/
+core/
+models/
+views/
+.gitignore
+.htaccess
+README.md
+autoload.php
+composer.json
+composer.lock
+index.php
+routes.php

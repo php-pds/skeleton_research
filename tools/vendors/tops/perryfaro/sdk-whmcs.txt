@@ -1,0 +1,8 @@
+Authentication/
+Base/
+Client/
+HttpClient/
+LICENSE
+README.md
+Whmcs.php
+composer.json

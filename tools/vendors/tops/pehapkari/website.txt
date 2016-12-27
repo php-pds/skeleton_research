@@ -1,0 +1,12 @@
+.docker/
+docs/
+source/
+src/Posts/Year2016/EventDispatcher/
+tests/Posts/Year2016/EventDispatcher/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+README.md
+composer.json
+docker-compose.yaml
+phpunit.xml

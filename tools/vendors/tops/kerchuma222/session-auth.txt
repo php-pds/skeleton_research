@@ -1,0 +1,9 @@
+src/KerchumA222/SessionAuth/
+tests/
+.gitattributes
+.gitignore
+.travis.yml
+Guardfile
+README.md
+composer.json
+phpunit.xml

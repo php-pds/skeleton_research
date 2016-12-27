@@ -1,0 +1,7 @@
+BowerLoader/
+tests/
+.bowerrc
+.gitignore
+.travis.yml
+README.md
+composer.json

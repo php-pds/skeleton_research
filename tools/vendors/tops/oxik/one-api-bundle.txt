@@ -1,0 +1,8 @@
+DependencyInjection/
+Resources/config/
+Services/
+.gitignore
+LICENSE
+OxikOneApiBundle.php
+README.md
+composer.json

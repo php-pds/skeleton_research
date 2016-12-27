@@ -1,0 +1,14 @@
+DependencyInjection/
+EventListener/
+Logger/
+Resources/config/
+Tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+Logger.php
+README.md
+SilpionLoggerExtraBundle.php
+composer.json
+phpunit.xml.dist

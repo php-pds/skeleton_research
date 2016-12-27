@@ -1,0 +1,8 @@
+bin/
+testsets/
+.gitignore
+.travis.yml
+Makefile
+README.md
+composer.json
+dataset.yaml

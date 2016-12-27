@@ -1,0 +1,6 @@
+.idea/
+README.md
+composer.json
+debug.php
+index.php
+kinveyREST.php

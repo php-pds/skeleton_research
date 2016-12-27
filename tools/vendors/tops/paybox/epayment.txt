@@ -1,0 +1,16 @@
+Block/
+Console/Command/
+Controller/
+Gateway/
+Helper/
+Model/
+Observer/
+Setup/
+etc/
+i18n/
+view/
+CHANGELOG.md
+LICENSE
+README.md
+composer.json
+registration.php

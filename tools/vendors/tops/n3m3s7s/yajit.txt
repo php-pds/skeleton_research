@@ -1,0 +1,6 @@
+src/Yajit/
+.gitignore
+LICENSE
+README.md
+composer.json
+yajit.php

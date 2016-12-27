@@ -1,0 +1,9 @@
+scripts/
+src/
+.gitignore
+composer.json
+composer.lock
+license.md
+phpunit.xml
+vigil.json
+vigil.php

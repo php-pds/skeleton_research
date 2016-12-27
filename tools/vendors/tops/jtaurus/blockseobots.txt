@@ -1,0 +1,3 @@
+BlockSeoBots/
+README.md
+composer.json

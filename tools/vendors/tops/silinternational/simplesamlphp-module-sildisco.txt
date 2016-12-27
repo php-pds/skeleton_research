@@ -1,0 +1,12 @@
+development/
+lib/
+sspoverrides/www_saml2_idp/
+tests/
+www/
+.gitignore
+Dockerfile
+README.md
+composer.json
+composer.lock
+default-enable
+docker-compose.yml

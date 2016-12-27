@@ -1,0 +1,12 @@
+assets/
+src/
+tests/
+views/
+.gitignore
+LICENSE
+README
+README.md
+bootstrap_include.php
+composer.json
+phpunit.xml.dist
+woocommerce-besepa.php

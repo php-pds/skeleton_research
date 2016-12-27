@@ -1,0 +1,7 @@
+js/plugins/youtube/
+src/Plugin/CKEditorPlugin/
+LICENSE.md
+README.md
+ckeditor_youtube.info.yml
+ckeditor_youtube.module
+composer.json

@@ -1,0 +1,12 @@
+config/
+lang/
+migrations/
+public/assets/
+src/
+views/
+.bowerrc
+.gitignore
+LICENSE.txt
+README.md
+bower.json
+composer.json

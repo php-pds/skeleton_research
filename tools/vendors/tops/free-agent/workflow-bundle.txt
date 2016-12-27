@@ -1,0 +1,16 @@
+Action/
+DependencyInjection/
+Exception/
+Manager/
+Model/
+Resources/
+Step/
+Tests/
+Validation/
+.gitignore
+.travis.yml
+FreeAgentWorkflowBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

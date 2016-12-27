@@ -1,0 +1,4 @@
+src/Properties/
+.gitignore
+README.md
+composer.json

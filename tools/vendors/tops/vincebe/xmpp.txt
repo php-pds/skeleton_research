@@ -1,0 +1,12 @@
+Connector/
+Examples/
+Roster/
+Sasl/
+Stanza/
+Xml/
+.gitignore
+Jid.php
+Room.php
+User.php
+XmppClient.php
+composer.json

@@ -1,0 +1,4 @@
+.idea/copyright/
+console/
+README.md
+composer.json

@@ -1,0 +1,13 @@
+build/
+src/Clarity/
+tests/
+.gitattributes
+.gitignore
+.php_cs
+.travis.yml
+autoload.php
+composer.json
+contributing.md
+phpunit.xml
+readme.md
+welcome.png

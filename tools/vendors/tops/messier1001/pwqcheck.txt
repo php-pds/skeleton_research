@@ -1,0 +1,6 @@
+.idea/
+src/Messier/PWQCheck/
+.gitignore
+LICENSE
+README.md
+composer.json

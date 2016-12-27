@@ -1,0 +1,9 @@
+Client/
+DependencyInjection/
+Form/
+Plugin/
+Resources/config/
+.gitignore
+README.md
+TPMPaymentSlimCDBundle.php
+composer.json

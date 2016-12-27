@@ -1,0 +1,5 @@
+src/Thrift/
+.gitignore
+LICENSE
+README.md
+composer.json

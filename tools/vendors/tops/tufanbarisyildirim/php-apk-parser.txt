@@ -1,0 +1,10 @@
+examples/
+lib/ApkParser/
+test/
+.gitignore
+.travis.yml
+BEMENTIONED.md
+LICENSE.md
+README.md
+composer.json
+phpunit.xml

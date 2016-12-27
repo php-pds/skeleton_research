@@ -1,0 +1,14 @@
+dist/
+libs/
+src/
+website/
+.gitignore
+.jshintrc
+.travis.yml
+Gruntfile.js
+LICENSE
+README.md
+bower.json
+composer.json
+magnific-popup.jquery.json
+package.json

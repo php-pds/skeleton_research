@@ -1,0 +1,11 @@
+DependencyInjection/
+Resources/config/
+Services/
+VO/
+.gitignore
+EOIBlackboardBundle.php
+LICENSE
+README.md
+build.xml
+composer.json
+phpunit.xml.dist

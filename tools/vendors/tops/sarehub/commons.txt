@@ -1,0 +1,14 @@
+examples/
+src/SAREhub/Commons/
+tests/SAREhub/Commons/
+.codeclimate.yml
+.gitattributes
+.gitignore
+.travis.yml
+.travis_after_success.sh
+LICENSE.md
+README.md
+composer.json
+phpdoc.xml
+phpmd-ruleset.xml
+phpunit.xml

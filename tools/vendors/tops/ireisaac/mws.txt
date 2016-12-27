@@ -1,0 +1,4 @@
+src/
+.env.example
+README.md
+composer.json

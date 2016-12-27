@@ -1,0 +1,14 @@
+config/
+docs/
+language/
+src/Mp3/
+view/mp3/mp3/
+.gitattributes
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENSE
+Module.php
+README.md
+TODO.md
+composer.json

@@ -1,0 +1,7 @@
+preg/
+Jsxs.php
+MIT-LICENSE.txt
+PregFile.php
+README.md
+composer.json
+example.php

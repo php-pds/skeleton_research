@@ -1,0 +1,9 @@
+assets/
+.gitignore
+CHANGE.MD
+ClustererAsset.php
+LICENSE.md
+Map.php
+Marker.php
+README.md
+composer.json

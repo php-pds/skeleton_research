@@ -1,0 +1,10 @@
+Command/
+DependencyInjection/
+Duplicates/
+Resources/config/
+Translation/
+Twig/
+LICENSE
+MDMTranslatorCheckerBundle.php
+README.md
+composer.json

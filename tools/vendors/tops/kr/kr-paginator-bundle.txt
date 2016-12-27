@@ -1,0 +1,8 @@
+DependencyInjection/
+Pagers/
+Resources/
+Util/
+KRPaginatorBundle.php
+Paginator.php
+README.md
+composer.json

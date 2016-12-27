@@ -1,0 +1,17 @@
+.docker/
+.github/
+Bundle/
+Tests/
+.gitignore
+CHANGELOG.md
+LICENSE
+README.md
+UPGRADE-v1.md
+UPGRADE-v2.md
+behat.yml.dist
+bisect
+circle-behat.sh
+circle.yml
+composer.json
+composer.lock
+phpunit.xml

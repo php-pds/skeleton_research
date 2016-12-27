@@ -1,0 +1,8 @@
+Controller/
+DependencyInjection/
+Entity/
+Model/
+Resources/
+MGIClassifiedsBundle.php
+README.markdown
+composer.json

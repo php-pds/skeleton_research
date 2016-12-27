@@ -1,0 +1,6 @@
+resources/views/content/
+src/
+LICENSE.md
+README.md
+composer.json
+plugin.json

@@ -1,0 +1,8 @@
+assets/js/
+CKEditor.php
+CKEditorAsset.php
+KCFinderAsset.php
+KCFinderInput.php
+KCFinderSelectAsset.php
+README.md
+composer.json

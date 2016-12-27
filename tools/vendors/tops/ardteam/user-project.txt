@@ -1,0 +1,7 @@
+DependencyInjection/
+Entity/
+Resources/
+.gitignore
+ATUserBundle.php
+README.md
+composer.json

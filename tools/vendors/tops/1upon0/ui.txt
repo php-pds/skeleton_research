@@ -1,0 +1,8 @@
+core/
+lib/
+sample_config/
+.gitignore
+LICENSE
+README.md
+composer.json
+index.php

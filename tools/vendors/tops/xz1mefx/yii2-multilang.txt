@@ -1,0 +1,15 @@
+actions/
+caching/
+components/
+i18n/
+migrations/
+models/
+runtime/cache/
+views/
+web/
+widgets/
+.gitignore
+LICENSE.md
+README.md
+_config.yml
+composer.json

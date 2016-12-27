@@ -1,0 +1,4 @@
+serviceSparqlBundle/
+.gitignore
+README.md
+composer.json

@@ -1,0 +1,5 @@
+assets/
+.gitignore
+README.md
+StrengthValidator.php
+composer.json

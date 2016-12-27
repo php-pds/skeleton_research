@@ -1,0 +1,10 @@
+resources/
+src/
+tests/
+.gitignore
+Dockerfile
+LICENSE.txt
+Makefile
+README.md
+composer.json
+phpunit.xml

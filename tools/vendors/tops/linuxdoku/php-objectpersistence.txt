@@ -1,0 +1,10 @@
+Example/
+Tests/
+src/ObjectPersistence/
+.gitattributes
+.gitignore
+.travis-php.ini
+.travis.yml
+README.md
+composer.json
+phpunit.xml

@@ -1,0 +1,13 @@
+config/
+src/HrPhp/
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE.md
+Module.php
+README.md
+build.xml
+composer.json
+composer.lock
+phpunit.xml

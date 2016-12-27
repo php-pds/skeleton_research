@@ -1,0 +1,15 @@
+configs/
+extensions/
+inc/
+ini/
+languages/
+lib/
+pub/
+wp-content/
+LICENSE
+README.md
+changelog.txt
+composer.json
+index.html
+readme.txt
+w3-total-cache.php

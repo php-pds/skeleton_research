@@ -1,0 +1,7 @@
+doc/
+src/Wgcrouch/BehatExporter/
+.gitignore
+LICENSE
+README.rst
+behat.yml-dist
+composer.json

@@ -1,0 +1,13 @@
+migrations/
+records/
+resources/
+services/
+templates/
+translations/
+vendor/
+LICENSE.txt
+ProdderPlugin.php
+README.md
+composer.json
+composer.lock
+releases.json

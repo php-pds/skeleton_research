@@ -1,0 +1,7 @@
+client/
+doc/
+test/
+LICENSE
+README.md
+adpapiUserinfo.class.php
+composer.json

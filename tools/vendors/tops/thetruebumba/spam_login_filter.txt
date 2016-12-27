@@ -1,0 +1,9 @@
+actions/spam_login_filter/
+languages/
+pages/
+views/default/
+CHANGES.txt
+README.md
+composer.json
+manifest.xml
+start.php

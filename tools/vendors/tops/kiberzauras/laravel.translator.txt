@@ -1,0 +1,13 @@
+Eloquent/
+Manager/
+Modules/
+publishes/
+.gitattributes
+.gitignore
+LICENSE.md
+Path.php
+README.md
+Translator.php
+TranslatorProvider.php
+composer.json
+helpers.php

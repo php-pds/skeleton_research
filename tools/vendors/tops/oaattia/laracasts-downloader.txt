@@ -1,0 +1,14 @@
+downloads/
+src/
+tests/
+.env.example
+.gitattributes
+.gitignore
+.scrutinizer.yml
+.styleci.yml
+.travis.yml
+LICENSE.md
+README.md
+composer.json
+console
+phpunit.xml.dist

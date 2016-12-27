@@ -1,0 +1,7 @@
+examples/
+src/Simplerule/
+tests/
+.gitignore
+README.md
+circle.yml
+composer.json

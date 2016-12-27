@@ -1,0 +1,7 @@
+Model/
+Resources/
+Annotations.php
+Encoder.php
+Platypus.php
+README.md
+composer.json

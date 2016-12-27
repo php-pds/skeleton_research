@@ -1,0 +1,16 @@
+Command/
+Controller/
+DependencyInjection/
+Entity/
+Event/
+EventListener/
+FileServices/
+Form/
+ImageProcessing/
+Resources/
+Tests/Controller/
+Twig/
+EDVFileBundle.php
+EDVFileEvents.php
+README.md
+composer.json

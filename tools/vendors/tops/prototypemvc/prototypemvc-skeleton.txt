@@ -1,0 +1,6 @@
+config/
+modules/welcome/
+public/
+.gitignore
+LICENSE
+composer.json

@@ -1,0 +1,11 @@
+css/
+examples/grid-segment/
+js/
+languages/
+templates/
+.gitignore
+README.md
+composer.json
+composer.lock
+frojd-segments.php
+index.php

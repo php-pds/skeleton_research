@@ -1,0 +1,15 @@
+DependencyInjection/
+Normalizer/
+Processor/
+Resources/
+WebService/
+Writer/
+spec/
+.gitignore
+.travis.yml
+CHANGELOG.md
+CONTRIBUTING.md
+README.md
+SylakeSylakimBundle.php
+composer.json
+phpspec.yml

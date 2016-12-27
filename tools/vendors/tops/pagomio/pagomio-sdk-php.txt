@@ -1,0 +1,8 @@
+beans/
+demo/
+.gitignore
+LICENSE
+README.md
+client.php
+composer.json
+pagomio.php

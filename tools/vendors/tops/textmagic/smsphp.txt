@@ -1,0 +1,8 @@
+.idea/
+Tests/
+build/
+src/TextMagicSMS/
+.DS_Store
+.gitignore
+README.md
+composer.json

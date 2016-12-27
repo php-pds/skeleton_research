@@ -1,0 +1,7 @@
+.idea/
+src/marcio/pack/
+vendor/
+.gitignore
+composer.json
+composer.lock
+readme.md

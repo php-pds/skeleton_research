@@ -1,0 +1,12 @@
+Command/
+DependencyInjection/
+Generator/
+Resources/
+Tests/
+.gitignore
+.travis.yml
+IsmaAmbrosiGeneratorBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

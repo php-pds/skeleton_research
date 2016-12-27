@@ -1,0 +1,13 @@
+dictionaries/
+docs/
+lib/Auth/Source/
+templates/
+themes/
+www/
+.gitignore
+Changelog
+LICENSE
+README.md
+composer.json
+default-enable
+privacyidea.json

@@ -1,0 +1,9 @@
+bin/
+exiftool/
+samples/
+scripts/
+src/
+.gitignore
+LICENSE
+README.md
+composer.json

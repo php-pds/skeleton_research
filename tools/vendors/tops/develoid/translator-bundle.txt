@@ -1,0 +1,12 @@
+DependencyInjection/
+Exception/
+Google/
+Microsoft/
+Model/
+Resources/config/
+Yandex/
+.gitignore
+DeveloidTranslatorBundle.php
+README.md
+Translator.php
+composer.json

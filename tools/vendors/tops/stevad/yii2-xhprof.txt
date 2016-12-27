@@ -1,0 +1,10 @@
+assets/
+views/
+DebugPanelAsset.php
+LICENSE.md
+OverlayAsset.php
+README.md
+XHProf.php
+XHProfComponent.php
+XHProfPanel.php
+composer.json

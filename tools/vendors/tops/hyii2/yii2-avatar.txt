@@ -1,0 +1,9 @@
+assets/
+statics/
+views/
+AvatarWidget.php
+CropAction.php
+CropAvatar.php
+README.md
+UploadForm.php
+composer.json

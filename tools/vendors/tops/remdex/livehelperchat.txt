@@ -1,0 +1,4 @@
+lhc_web/
+.gitignore
+README.md
+composer.json

@@ -1,0 +1,7 @@
+examples/
+src/Tachyon/
+tests/
+.gitignore
+LICENSE
+README.markdown
+composer.json

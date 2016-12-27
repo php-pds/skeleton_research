@@ -1,0 +1,5 @@
+examples/
+src/PHPRepl/
+.gitignore
+README.mkd
+composer.json

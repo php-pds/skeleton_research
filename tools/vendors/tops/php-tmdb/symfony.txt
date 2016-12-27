@@ -1,0 +1,12 @@
+DependencyInjection/
+Resources/config/
+Tests/
+Twig/
+.gitignore
+.travis.yml
+ClientConfiguration.php
+LICENSE
+README.md
+TmdbSymfonyBundle.php
+composer.json
+phpunit.xml.dist

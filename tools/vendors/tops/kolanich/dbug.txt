@@ -1,0 +1,9 @@
+.editorconfig
+.gitignore
+.php_cs
+LICENSE.txt
+README.md
+composer.json
+dBug.doxyfile
+dBug.php
+tests.php

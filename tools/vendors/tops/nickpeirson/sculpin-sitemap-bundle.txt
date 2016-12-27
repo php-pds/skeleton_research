@@ -1,0 +1,10 @@
+DependencyInjection/
+Resources/config/
+.gitignore
+CHANGELOG.md
+LICENSE
+README.md
+SculpinSitemapBundle.php
+SitemapGenerator.php
+composer.json
+composer.lock

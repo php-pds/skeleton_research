@@ -1,0 +1,7 @@
+assets/
+generators/crud/
+Bootstrap.php
+LICENSE
+README.md
+YasheenaGiiAsset.php
+composer.json

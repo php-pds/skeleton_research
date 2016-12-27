@@ -1,0 +1,4 @@
+src/
+.travis.yml
+README.rst
+composer.json

@@ -1,0 +1,10 @@
+DependencyInjection/
+Form/Type/
+Resources/
+Validator/Constraints/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+XmonColorPickerTypeBundle.php
+composer.json

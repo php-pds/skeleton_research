@@ -1,0 +1,6 @@
+src/DataFilter/
+tests/
+.gitignore
+LICENSE
+README.markdown
+composer.json

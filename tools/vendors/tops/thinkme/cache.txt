@@ -1,0 +1,3 @@
+src/ThinkMe/Cache/
+README.md
+composer.json

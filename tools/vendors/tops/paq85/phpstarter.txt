@@ -1,0 +1,7 @@
+src/Paq/PhpStarter/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,7 @@
+assets/
+views/
+Cropper.php
+CropperAsset.php
+README.md
+WidgetAsset.php
+composer.json

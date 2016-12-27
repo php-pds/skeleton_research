@@ -1,0 +1,4 @@
+src/Quintype/
+README.md
+composer.json
+composer.lock

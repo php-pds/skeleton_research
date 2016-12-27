@@ -1,0 +1,9 @@
+src/Wechat/
+.gitignore
+.scrutinizer.yml
+.styleci.yml
+LICENSE
+README.md
+README_EN.md
+autoload.php
+composer.json

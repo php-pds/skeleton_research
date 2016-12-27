@@ -1,0 +1,6 @@
+src/
+.gitignore
+LICENSE
+README.rst
+composer.json
+main.php

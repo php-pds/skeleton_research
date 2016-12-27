@@ -1,0 +1,10 @@
+application/
+assets/
+system/
+.gitignore
+.htaccess
+.travis.yml
+README.md
+composer.json
+index.php
+license.txt

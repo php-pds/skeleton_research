@@ -1,0 +1,7 @@
+.gitignore
+README.md
+composer.json
+exclude.php
+fp-ruleset.xml
+git-hooks-install
+pre-commit

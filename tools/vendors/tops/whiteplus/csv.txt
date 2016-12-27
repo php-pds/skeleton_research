@@ -1,0 +1,10 @@
+src/Whiteplus/Csv/
+tests/Whiteplus/Csv/
+.gitignore
+CHANGELOG.md
+LICENSE
+README.md
+bootstrap.php
+circle.yml
+composer.json
+phpunit.xml

@@ -1,0 +1,8 @@
+samples/
+spec/
+src/Calculator/
+.gitignore
+README.md
+composer.json
+composer.lock
+kahlan-config.php

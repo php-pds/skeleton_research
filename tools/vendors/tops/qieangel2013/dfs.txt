@@ -1,0 +1,11 @@
+config/
+img/
+log/
+server/
+test/
+.gitattributes
+.gitignore
+.travis.yml
+README.md
+composer.json
+server.php

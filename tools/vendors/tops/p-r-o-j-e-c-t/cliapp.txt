@@ -1,0 +1,15 @@
+dist/
+etc/
+share/
+src/
+tests/
+var/
+.build.dist
+.env.dist
+.gitignore
+INSTALL
+LICENCE
+Makefile
+README.md
+composer.json
+composer.lock

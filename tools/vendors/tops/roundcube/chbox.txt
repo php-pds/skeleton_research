@@ -1,0 +1,6 @@
+localization/
+skins/
+README
+chbox.js
+chbox.php
+composer.json

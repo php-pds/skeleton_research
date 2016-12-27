@@ -1,0 +1,10 @@
+RealDebrid/
+docs/
+examples/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+postman.collection

@@ -1,0 +1,7 @@
+src/Yoprogrammer/Service/
+tests/
+.gitattributes
+.gitignore
+.travis.yml
+composer.json
+phpunit.xml

@@ -1,0 +1,5 @@
+.gitignore
+Envato_Update_Checker.php
+README.md
+composer.json
+composer.lock

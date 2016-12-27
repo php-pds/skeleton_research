@@ -1,0 +1,11 @@
+assets/
+controllers/
+migrations/
+models/
+views/
+.gitignore
+LICENSE
+Module.php
+README.md
+TitleAsset.php
+composer.json

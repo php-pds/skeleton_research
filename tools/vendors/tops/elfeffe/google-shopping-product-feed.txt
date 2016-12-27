@@ -1,0 +1,9 @@
+src/NinthYard/GoogleShoppingFeed/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+example-using-composer.php
+phpunit.xml

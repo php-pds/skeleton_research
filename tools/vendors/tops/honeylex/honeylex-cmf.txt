@@ -1,0 +1,14 @@
+app/
+bin/
+data/
+tests/
+var/
+web/
+.buildpath
+.gitignore
+LICENSE
+README.md
+VERSION.txt
+composer.json
+composer.lock
+phpunit.xml.dist

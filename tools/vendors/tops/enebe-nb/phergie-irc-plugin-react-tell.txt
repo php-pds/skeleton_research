@@ -1,0 +1,14 @@
+src/
+tests/
+.gitattributes
+.gitignore
+.php_cs
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit_memory.xml
+phpunit_mysql.xml
+phpunit_psql.xml
+phpunit_sqlite.xml

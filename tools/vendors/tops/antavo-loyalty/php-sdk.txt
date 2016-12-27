@@ -1,0 +1,9 @@
+docs/
+src/
+LICENSE
+autoloader.php
+composer.json
+composer.lock
+generate-doc
+generate-phar.php
+run-tests.sh

@@ -1,0 +1,4 @@
+.gitignore
+README.md
+XssAsset.php
+composer.json

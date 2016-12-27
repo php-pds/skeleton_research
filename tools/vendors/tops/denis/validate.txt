@@ -1,0 +1,4 @@
+src/MobileXCo/
+test/
+README.md
+composer.json

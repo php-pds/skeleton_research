@@ -1,0 +1,17 @@
+Converter/
+DependencyInjection/
+Generator/
+Resources/
+Tests/
+Util/
+nbproject/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CHANGELOG.md
+FrchoPdfBundle.php
+LICENSE
+README.md
+composer.json
+documentation.config.xml
+phpunit.xml.dist

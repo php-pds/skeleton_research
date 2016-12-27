@@ -1,0 +1,9 @@
+lib/iDimensionz/SendGridWebApi/
+tests/
+.travis.yml
+LICENSE
+README.md
+codeclimate.sh
+composer.json
+composer.lock
+phpunit.xml.dist

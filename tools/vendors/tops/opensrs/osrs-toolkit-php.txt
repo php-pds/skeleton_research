@@ -1,0 +1,13 @@
+demo/
+docs/
+opensrs/
+provision/
+templates/
+test/
+tests/
+.gitignore
+LICENSE
+README.md
+Vagrantfile
+composer.json
+phpunit.xml

@@ -1,0 +1,10 @@
+Controller/Adminhtml/
+Helper/
+etc/
+i18l/
+view/adminhtml/
+.gitignore
+LICENSE
+README.md
+composer.json
+registration.php

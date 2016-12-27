@@ -1,0 +1,5 @@
+src/Beanstream/
+.editorconfig
+LICENSE
+README.md
+composer.json

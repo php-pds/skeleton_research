@@ -1,0 +1,5 @@
+KuroThing/KuroValidator/
+.gitignore
+LICENSE
+README.md
+composer.json

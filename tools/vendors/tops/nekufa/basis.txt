@@ -1,0 +1,10 @@
+bin/
+resources/templates/
+src/
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+README.md
+composer.json
+phpunit.xml.dist

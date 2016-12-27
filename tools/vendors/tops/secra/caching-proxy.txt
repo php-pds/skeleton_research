@@ -1,0 +1,13 @@
+demo/
+log/
+src/
+tests/
+vagrant-vm/
+.editorconfig
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENCE
+README.md
+composer.json
+phpunit.xml.dist

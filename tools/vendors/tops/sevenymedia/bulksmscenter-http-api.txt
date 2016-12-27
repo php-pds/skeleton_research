@@ -1,0 +1,15 @@
+.producer/
+bin/
+src/
+tests/
+.editorconfig
+.gitignore
+.styleci.yml
+.travis.yml
+CHANGES.md
+LICENSE.md
+README.md
+bootstrap.php
+composer.json
+composer.lock
+phpunit.xml.dist

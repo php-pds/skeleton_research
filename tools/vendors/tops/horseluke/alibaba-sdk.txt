@@ -1,0 +1,12 @@
+LICENSE/
+data/log/
+demo/
+src/AlibabaSDK/
+tests/
+testsmock/
+.gitignore
+LICENSE.md
+README.md
+composer.json
+phpunit.php
+phpunit.xml

@@ -1,0 +1,6 @@
+src/aneo/cache/
+test/
+.gitignore
+README.md
+composer.json
+phpunit.xml.dist

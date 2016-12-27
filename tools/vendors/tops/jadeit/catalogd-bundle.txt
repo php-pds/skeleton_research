@@ -1,0 +1,9 @@
+Controller/
+DependencyInjection/
+Entity/
+Event/
+Form/
+Resources/
+Tests/Controller/
+JadeITCatalogDBundle.php
+composer.json

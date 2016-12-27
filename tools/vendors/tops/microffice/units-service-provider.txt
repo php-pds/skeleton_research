@@ -1,0 +1,7 @@
+src/Microffice/
+tests/
+.gitignore
+LICENSE
+composer.json
+composer.lock
+phpunit.xml

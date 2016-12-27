@@ -1,0 +1,17 @@
+src/
+tests/
+.codeclimate.yml
+.editorconfig
+.gitattributes
+.gitignore
+.php_cs
+.travis.yml
+CHANGELOG.md
+Makefile
+README.md
+build.sh
+composer.json
+composer.lock
+index.php
+phpunit.xml.dist
+test.sh

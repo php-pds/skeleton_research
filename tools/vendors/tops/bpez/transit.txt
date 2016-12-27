@@ -1,0 +1,11 @@
+examples/
+src/Transit/
+tests/
+.gitignore
+.gitmodules
+.travis.yml
+composer.json
+license.md
+phpunit.xml
+readme.md
+version.md

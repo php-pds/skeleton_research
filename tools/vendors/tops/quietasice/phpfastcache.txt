@@ -1,0 +1,11 @@
+examples/
+phpfastcache/
+readme/
+.gitignore
+CNAME
+README.md
+composer.json
+example.php
+example2.php
+index.html
+phpfastcache.php

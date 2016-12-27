@@ -1,0 +1,8 @@
+DependencyInjection/
+Resources/config/
+Service/
+Tests/Controller/
+.gitignore
+README.md
+RenusMediaBundle.php
+composer.json

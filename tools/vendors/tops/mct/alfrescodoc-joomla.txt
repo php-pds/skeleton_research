@@ -1,0 +1,11 @@
+tmpl/
+vendor/
+.gitattributes
+.gitignore
+Alfresco_CMIS_API.php
+README.md
+alfrescodoc-joomla.php
+alfrescodoc-joomla.xml
+composer.json
+function.php
+index.html

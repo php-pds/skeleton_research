@@ -1,0 +1,15 @@
+config/
+docs/
+src/Synapse/
+tests/
+.gitignore
+CHANGELOG.md
+LICENSE
+README.md
+UPGRADE_GUIDE.md
+composer.json
+composer.lock
+phpunit.shippable.xml
+phpunit.travis.xml
+phpunit.xml
+shippable.yml

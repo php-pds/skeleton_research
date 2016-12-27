@@ -1,0 +1,10 @@
+Controller/
+DependencyInjection/
+Form/Type/
+Manager/
+Resources/
+Twig/
+.gitignore
+FOACronBundle.php
+README.md
+composer.json

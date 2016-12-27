@@ -1,0 +1,6 @@
+lib/Confy/
+test/
+.gitignore
+.travis.yml
+README.md
+composer.json

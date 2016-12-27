@@ -1,0 +1,7 @@
+examples/
+lib/Mirador/API/
+test/
+.gitignore
+README.md
+composer.json
+phpunit.xml

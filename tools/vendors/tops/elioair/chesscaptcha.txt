@@ -1,0 +1,11 @@
+assets/
+examples/
+src/
+tests/
+.gitignore
+.travis.yml
+CONTRIBUTORS.md
+LICENSE.md
+README.md
+composer.json
+phpunit.xml

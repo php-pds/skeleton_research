@@ -1,0 +1,7 @@
+library/Zmz/
+nbproject/
+.directory
+.gitignore
+COPYING
+README
+composer.json

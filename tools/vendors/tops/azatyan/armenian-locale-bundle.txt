@@ -1,0 +1,16 @@
+Art/
+DependencyInjection/
+Resources/config/
+Services/
+Tests/
+.editorconfig
+.gitignore
+.php_cs
+.sensiolabs.yml
+.travis.yml
+AzatyanArmenianLocaleBundle.php
+CONTRIBUTING.md
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

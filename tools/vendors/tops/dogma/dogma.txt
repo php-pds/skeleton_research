@@ -1,0 +1,8 @@
+Dogma/
+tests/
+.gitignore
+build.xml
+composer.json
+cs-ruleset.xml
+license.md
+readme.md

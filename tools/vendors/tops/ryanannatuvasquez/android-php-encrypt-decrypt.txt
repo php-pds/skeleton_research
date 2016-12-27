@@ -1,0 +1,4 @@
+src/MCrypt/
+.gitignore
+README.md
+composer.json

@@ -1,0 +1,4 @@
+src/SlackAlerter/
+.gitignore
+README.md
+composer.json

@@ -1,0 +1,5 @@
+src/Zarathustra/ModlrData/
+.gitignore
+LICENSE
+README.md
+composer.json

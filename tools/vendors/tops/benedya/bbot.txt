@@ -1,0 +1,7 @@
+src/Bbot/
+tests/Bbot/Bridge/
+.gitignore
+.travis.yml
+README.md
+composer.json
+phpunit.xml.dist

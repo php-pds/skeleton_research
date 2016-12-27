@@ -1,0 +1,9 @@
+config/
+resources/view/partials/
+src/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock
+extension.php

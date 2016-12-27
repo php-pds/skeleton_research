@@ -1,0 +1,11 @@
+doc/
+nbproject/
+src/Sesser/Scurl/
+tests/
+.gitignore
+.travis.yml
+README.md
+apigen.neon
+composer.json
+composer.lock
+phpunit.xml

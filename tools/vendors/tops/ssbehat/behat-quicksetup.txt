@@ -1,0 +1,13 @@
+appendixes/
+docs/
+src/SilverStripe/BehatExtension/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+build.php
+composer.json
+composer.lock
+init.php
+phpunit.xml.dist

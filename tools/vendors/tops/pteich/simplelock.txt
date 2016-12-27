@@ -1,0 +1,5 @@
+src/Simplelock/
+.gitignore
+LICENSE
+README.md
+composer.json

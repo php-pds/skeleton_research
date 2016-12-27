@@ -1,0 +1,6 @@
+Wechat/
+MIT-LICENSE.txt
+README.md
+composer.json
+include.php
+test.php

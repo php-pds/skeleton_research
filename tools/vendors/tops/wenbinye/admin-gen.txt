@@ -1,0 +1,10 @@
+bin/
+config/
+data/
+public/
+src/
+tests/
+views/
+.gitignore
+README.md
+composer.json

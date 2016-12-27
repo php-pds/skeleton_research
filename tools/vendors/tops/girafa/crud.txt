@@ -1,0 +1,6 @@
+config/
+src/Girafa/Crud/
+view/crud/
+Module.php
+README.md
+composer.json

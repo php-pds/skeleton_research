@@ -1,0 +1,4 @@
+src/Bitcont/Bitcoin/
+.gitignore
+README.md
+composer.json

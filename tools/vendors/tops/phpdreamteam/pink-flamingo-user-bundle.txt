@@ -1,0 +1,10 @@
+Controller/
+DependencyInjection/
+Entity/
+Form/
+Repository/
+Resources/
+User/
+PinkFlamingoUserBundle.php
+composer.json
+readme.md

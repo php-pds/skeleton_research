@@ -1,0 +1,6 @@
+bin/
+src/Maximkott/Iconverter/
+.gitignore
+composer.json
+readme.md
+settings.php

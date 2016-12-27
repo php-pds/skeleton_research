@@ -1,0 +1,6 @@
+src/
+tests/
+.travis.yml
+ChangeLog.md
+README.md
+composer.json

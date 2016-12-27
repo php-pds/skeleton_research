@@ -1,0 +1,10 @@
+tests/
+.gitignore
+LICENSE
+Migration.php
+README.md
+SchemaDumpController.php
+composer.json
+composer.lock
+phpunit.xml.dist
+template.php

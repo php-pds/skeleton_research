@@ -1,0 +1,6 @@
+assets/
+.gitignore
+LICENSE
+README.md
+RelCopyAsset.php
+composer.json

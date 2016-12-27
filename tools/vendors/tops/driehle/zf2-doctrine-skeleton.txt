@@ -1,0 +1,11 @@
+config/
+data/
+module/Application/
+public/
+.gitignore
+LICENSE.txt
+README.md
+Vagrantfile
+composer.json
+composer.phar
+init_autoloader.php

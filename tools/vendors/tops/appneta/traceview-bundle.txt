@@ -1,0 +1,7 @@
+EventDispatcher/
+Resources/
+.gitignore
+CHANGELOG.md
+README.md
+TraceViewBundle.php
+composer.json

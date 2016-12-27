@@ -1,0 +1,13 @@
+sandbox/
+test/
+.gitignore
+.jshintrc
+README.md
+bower.json
+composer.json
+contributing.md
+gulpfile.js
+imagesloaded.js
+imagesloaded.pkgd.js
+imagesloaded.pkgd.min.js
+package.json

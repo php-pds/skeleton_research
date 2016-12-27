@@ -1,0 +1,15 @@
+bin/
+src/Command/
+tests/
+.gitattributes
+.gitignore
+.php_cs.dist
+.scrutinizer.yml
+LICENSE
+Makefile
+README.md
+box.json
+composer.json
+composer.lock
+humbug.json.dist
+phpunit.xml

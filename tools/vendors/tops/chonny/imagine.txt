@@ -1,0 +1,11 @@
+docs/
+lib/Imagine/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+Rakefile
+composer.json
+composer.lock
+phpunit.xml.dist

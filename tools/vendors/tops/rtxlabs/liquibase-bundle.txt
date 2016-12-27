@@ -1,0 +1,13 @@
+Command/
+DependencyInjection/
+Generator/
+Resources/
+Runner/
+Tests/
+vendor/
+.gitignore
+.travis.yml
+README.md
+RtxLabsLiquibaseBundle.php
+composer.json
+phpunit.xml.dist

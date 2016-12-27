@@ -1,0 +1,9 @@
+phpmailer/phpmailer/
+AdminMail.php
+ProcessConfig.php
+ProcessMonitor.php
+README.md
+composer.json
+index.php
+outputFromAWS.txt
+tests.php

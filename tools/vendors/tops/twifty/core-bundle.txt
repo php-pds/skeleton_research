@@ -1,0 +1,5 @@
+Resources/
+LICENSE
+README.md
+TwiftyCoreBundle.php
+composer.json

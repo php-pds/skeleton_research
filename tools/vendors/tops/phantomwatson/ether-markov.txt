@@ -1,0 +1,4 @@
+src/EtherMarkov/
+.gitattributes
+.gitignore
+composer.json

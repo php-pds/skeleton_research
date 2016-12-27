@@ -1,0 +1,8 @@
+Gubnota/
+John/
+LICENSE
+README.md
+composer.json
+g.php
+init.php
+test.php

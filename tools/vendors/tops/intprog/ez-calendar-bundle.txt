@@ -1,0 +1,8 @@
+Command/
+Core/CalendarEntry/
+DependencyInjection/
+Resources/
+.gitignore
+IntProgCalendarBundle.php
+LICENSE
+composer.json

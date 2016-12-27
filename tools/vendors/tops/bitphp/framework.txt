@@ -1,0 +1,6 @@
+app/
+bitphp/
+web/
+README.md
+autoload.php
+composer.json

@@ -1,0 +1,8 @@
+assets/
+config/
+controllers/
+models/
+modules/rest/
+public/
+.gitignore
+composer.json

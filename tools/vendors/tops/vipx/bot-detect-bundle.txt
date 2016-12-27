@@ -1,0 +1,15 @@
+Command/
+Config/
+DependencyInjection/
+Resources/
+Security/
+Tests/
+.coveralls.yml
+.gitignore
+.travis.yml
+BotDetector.php
+README.md
+VipxBotDetectBundle.php
+composer.json
+composer.lock
+phpunit.xml.dist

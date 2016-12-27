@@ -1,0 +1,4 @@
+admin/
+catalog/
+README.md
+composer.json

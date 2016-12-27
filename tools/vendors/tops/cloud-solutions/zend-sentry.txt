@@ -1,0 +1,8 @@
+config/
+docs/
+src/ZendSentry/
+.gitignore
+.travis.yml-prep
+Module.php
+README.md
+composer.json

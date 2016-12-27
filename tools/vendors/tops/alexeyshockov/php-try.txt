@@ -1,0 +1,6 @@
+src/
+.php_cs
+.scrutinizer.yml
+README.md
+composer.json
+phpspec.yml.dist

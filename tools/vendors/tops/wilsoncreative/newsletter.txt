@@ -1,0 +1,5 @@
+src/
+vendor/
+views/subscriber/
+composer.json
+readme.md

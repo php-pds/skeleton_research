@@ -1,0 +1,7 @@
+asset/
+FancyBoxAsset.php
+LICENSE.txt
+PreviewAsset.php
+README.md
+composer.json
+screen1.jpg

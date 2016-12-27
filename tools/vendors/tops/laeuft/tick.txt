@@ -1,0 +1,8 @@
+Classes/Laeuft/Tick/
+Resources/
+Tests/Unit/Domain/Model/
+.gitignore
+.gitmodules
+README.md
+composer.json
+todo.txt

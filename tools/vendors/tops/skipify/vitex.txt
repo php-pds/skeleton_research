@@ -1,0 +1,6 @@
+docs/
+tests/
+vitex/
+LICENSE
+README.md
+composer.json

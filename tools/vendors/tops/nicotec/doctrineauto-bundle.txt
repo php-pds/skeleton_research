@@ -1,0 +1,11 @@
+ClassVendor/
+Controller/
+DependencyInjection/
+Resources/
+Twig/Extension/
+.gitignore
+ControllerListener.php
+LICENSE
+NicotecDoctrineautoBundle.php
+README.md
+composer.json

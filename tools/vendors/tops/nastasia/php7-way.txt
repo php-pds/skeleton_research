@@ -1,0 +1,15 @@
+app/
+bin/
+exercises/
+src/Exercise/
+test/Exercise/
+.gitignore
+.phpstorm.meta.php
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+appveyor.yml
+composer.json
+composer.lock
+phpunit.xml

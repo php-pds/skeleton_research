@@ -1,0 +1,8 @@
+img/
+src/OrientDBYii2Connector/
+tests/
+LICENSE
+README.md
+codeception.yml
+composer.json
+composer.lock

@@ -1,0 +1,6 @@
+LICENSE
+README.md
+class_translate.php
+composer.json
+index.php
+translations.php

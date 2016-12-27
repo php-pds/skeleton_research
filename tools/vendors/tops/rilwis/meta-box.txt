@@ -1,0 +1,16 @@
+css/
+demo/
+img/
+inc/
+js/
+languages/
+tests/
+.codeclimate.yml
+.gitattributes
+.gitignore
+.travis.yml
+composer.json
+meta-box.php
+package.json
+readme.md
+readme.txt

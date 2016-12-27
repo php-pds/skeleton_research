@@ -1,0 +1,6 @@
+Classes/Lsascha/Eel/Helper/
+Configuration/
+.gitignore
+LICENSE
+README.md
+composer.json

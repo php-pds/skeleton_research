@@ -1,0 +1,10 @@
+output/
+tests/
+.gitignore
+BaseExporter.php
+ExcelExporter.php
+JsonExporter.php
+LICENSE
+README.md
+composer.json
+run-test

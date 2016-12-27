@@ -1,0 +1,13 @@
+ant @ 6eebd0d
+src/Kore/DataObject/
+tests/Kore/DataObject/
+.gitignore
+.gitmodules
+.travis.yml
+LICENSE
+README.md
+build.properties
+build.xml
+composer.json
+composer.lock
+phpunit.xml

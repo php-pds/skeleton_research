@@ -1,0 +1,9 @@
+build/tests/
+src/
+.codeclimate.yml
+.gitignore
+.phpcs.xml
+.phpmd.xml
+.travis.yml
+LICENSE
+composer.json

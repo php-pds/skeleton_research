@@ -1,0 +1,12 @@
+_readme/
+_to_app_dir/
+assets/
+classes/
+config/
+lang/
+migrations/
+tasks/
+views/
+.gitignore
+bootstrap.php
+composer.json

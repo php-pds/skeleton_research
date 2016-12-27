@@ -1,0 +1,14 @@
+actions/
+advanced/
+assets/
+bak/
+components/
+docs/
+nbproject/
+.gitattributes
+.gitignore
+LangHelper.php
+README.md
+README.ru.md
+Start.php
+composer.json

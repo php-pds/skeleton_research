@@ -1,0 +1,9 @@
+php_modules/relax/providers/
+src/Relax/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

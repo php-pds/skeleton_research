@@ -1,0 +1,6 @@
+src/WindowsFileService/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock

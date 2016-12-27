@@ -1,0 +1,8 @@
+controllers/
+extensions/
+models/
+tests/
+views/
+.gitignore
+README.md
+composer.json

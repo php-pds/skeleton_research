@@ -1,0 +1,5 @@
+lib/
+README.md
+autoload.php
+composer.json
+example.php

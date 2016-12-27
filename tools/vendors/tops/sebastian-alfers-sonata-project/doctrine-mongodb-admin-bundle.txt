@@ -1,0 +1,13 @@
+Admin/
+Builder/
+Datagrid/
+DependencyInjection/
+Filter/
+Guesser/
+Model/
+Resources/
+LICENSE
+README.md
+SonataDoctrineMongoDBAdminBundle.php
+composer.json
+phpunit.xml.dist

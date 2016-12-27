@@ -1,0 +1,11 @@
+asset/js/
+class/
+languages/
+template/
+.editorconfig
+.gitignore
+LICENSE
+README.md
+composer.json
+version.php
+wp-sync-db-media-files.php

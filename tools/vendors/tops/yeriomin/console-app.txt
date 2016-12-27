@@ -1,0 +1,8 @@
+src/Yeriomin/ConsoleApp/
+tests/src/Yeriomin/ConsoleApp/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml

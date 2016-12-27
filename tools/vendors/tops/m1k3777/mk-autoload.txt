@@ -1,0 +1,6 @@
+classes/
+example/
+.gitignore
+LICENSE
+README.md
+composer.json

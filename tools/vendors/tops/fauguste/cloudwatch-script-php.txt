@@ -1,0 +1,14 @@
+conf/
+src/CloudWatchScript/
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+alarmes.php
+composer.json
+delete-alarmes.php
+lib.php
+metrics.php
+phpunit.xml

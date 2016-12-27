@@ -1,0 +1,17 @@
+WindowsAzure/
+build/
+examples/
+tests/
+.gitattributes
+.gitignore
+Defaults.php
+LICENSE.txt
+README.md
+build.xml
+changelog.txt
+composer.json
+package.php
+package.xml
+phpdoc.dist.xml
+phpunit.functional.xml.dist
+phpunit.xml.dist

@@ -1,0 +1,6 @@
+src/Command/
+.gitignore
+README.md
+composer.json
+composer.lock
+config.yml

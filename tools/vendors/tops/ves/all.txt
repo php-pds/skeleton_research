@@ -1,0 +1,12 @@
+Block/Adminhtml/System/
+Helper/
+Model/
+Observer/
+Setup/
+etc/
+view/
+LICENSE.txt
+LICENSE_AFL.txt
+README.md
+composer.json
+registration.php

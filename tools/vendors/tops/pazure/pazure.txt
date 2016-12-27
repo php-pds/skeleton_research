@@ -1,0 +1,12 @@
+src/
+tests/
+.editorconfig
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+pazure
+pazure.phar
+phpunit.xml.dist
+services.json.dist

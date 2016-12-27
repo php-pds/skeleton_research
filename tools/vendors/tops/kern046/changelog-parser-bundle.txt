@@ -1,0 +1,6 @@
+DependencyInjection/
+Resources/config/
+CHANGELOG.md
+ChangelogParserBundle.php
+README.md
+composer.json

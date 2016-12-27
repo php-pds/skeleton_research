@@ -1,0 +1,6 @@
+Lib/Error/Exception/
+Model/
+Test/Case/Model/Behavior/
+.gitignore
+README.markdown
+composer.json

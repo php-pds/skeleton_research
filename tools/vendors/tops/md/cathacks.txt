@@ -1,0 +1,6 @@
+examples/
+spec/Md/CatHacks/
+src/Md/CatHacks/
+.gitignore
+LICENSE
+README.md

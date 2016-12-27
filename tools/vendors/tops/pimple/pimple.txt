@@ -1,0 +1,9 @@
+ext/pimple/
+src/Pimple/
+.gitignore
+.travis.yml
+CHANGELOG
+LICENSE
+README.rst
+composer.json
+phpunit.xml.dist

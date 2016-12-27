@@ -1,0 +1,5 @@
+Classes/TypoScript/
+Configuration/
+Resources/Private/
+LICENSE.txt
+composer.json

@@ -1,0 +1,13 @@
+_data/
+blog/
+src/JekyllImporter/
+templates/
+.editorconfig
+.gitattributes
+.gitignore
+CHANGELOG
+ImportRun.php
+LICENSE
+README.md
+WXR-data.xml
+composer.json

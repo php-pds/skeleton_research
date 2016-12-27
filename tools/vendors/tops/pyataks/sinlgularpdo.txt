@@ -1,0 +1,7 @@
+.gitignore
+DBConnect.php
+DBConnectionInterface.php
+DBQuery.php
+DBQueryInterface.php
+README.MD
+composer.json

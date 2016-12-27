@@ -1,0 +1,6 @@
+src/LiveChat/Api/
+tests/
+.gitignore
+README.md
+composer.json
+phpunit.xml

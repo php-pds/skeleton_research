@@ -1,0 +1,15 @@
+DependencyInjection/
+Entity/Traits/
+Form/Type/
+Resources/
+Tests/
+Validator/Constraints/
+.gitignore
+.php_cs
+.scrutinizer.yml
+.travis.yml
+LICENSE
+OttenValidationBundle.php
+README.md
+composer.json
+phpunit.xml.dist

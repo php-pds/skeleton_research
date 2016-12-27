@@ -1,0 +1,6 @@
+.gitignore
+README.md
+SMS-class.php
+SMS-settings.php
+composer.json
+composer.phar

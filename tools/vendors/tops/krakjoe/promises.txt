@@ -1,0 +1,6 @@
+examples/
+lib/pthreads/
+LICENSE
+README.md
+composer.json
+example.php

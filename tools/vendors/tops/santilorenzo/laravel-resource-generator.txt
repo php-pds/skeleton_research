@@ -1,0 +1,5 @@
+src/Generator/
+.gitignore
+LICENSE
+README.md
+composer.json

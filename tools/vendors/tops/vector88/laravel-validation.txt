@@ -1,0 +1,5 @@
+src/Vector88/Laravel/Validation/
+.gitignore
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,11 @@
+config/
+src/InfanaticaCepModule/
+tests/
+view/infanatica-cep-module/cep/
+.codeclimate.yml
+.travis.yml
+Module.php
+README.md
+autoload_classmap.php
+composer.json
+phpunit.xml

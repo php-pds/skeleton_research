@@ -1,0 +1,8 @@
+Examples/
+Integration/MediaWiki/
+Tests/
+Tutorials/
+lib/AlfrescoSoap/
+LICENSE
+composer.json
+readme.txt

@@ -1,0 +1,4 @@
+classes/Database/
+config/
+README.md
+composer.json

@@ -1,0 +1,4 @@
+.gitignore
+Cli.php
+composer.json
+functions.php

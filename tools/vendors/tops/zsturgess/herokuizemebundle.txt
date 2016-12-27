@@ -1,0 +1,9 @@
+Command/
+Helper/
+Resources/
+.gitignore
+LICENSE
+README.md
+ScriptHandler.php
+ZacSturgessHerokuizeMeBundle.php
+composer.json

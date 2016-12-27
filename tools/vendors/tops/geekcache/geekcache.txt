@@ -1,0 +1,11 @@
+src/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.php
+phpunit.xml
+phpunit_ci.xml
+travisconfig.ini

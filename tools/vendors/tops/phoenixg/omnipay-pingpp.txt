@@ -1,0 +1,13 @@
+src/
+tests/
+.gitignore
+.travis.yml
+CONTRIBUTING.md
+LICENSE
+README.md
+composer.json
+makedoc.sh
+mytest.html
+phpunit.xml.dist
+runtests.sh
+todo.md

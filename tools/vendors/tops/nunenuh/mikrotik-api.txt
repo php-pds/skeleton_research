@@ -1,0 +1,8 @@
+nbproject/
+src/MikrotikAPI/
+test/
+vendor/
+.gitignore
+LICENSE
+README.md
+composer.json

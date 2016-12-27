@@ -1,0 +1,10 @@
+actions/
+assets/
+messages/ru/
+models/
+views/
+.gitignore
+CHANGELOG
+README.md
+XUpload.php
+composer.json

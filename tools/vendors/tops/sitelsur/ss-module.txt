@@ -1,0 +1,8 @@
+configuracion/
+controlador/
+librerias/generales/
+modelos/
+.htaccess
+README.md
+composer.json
+index.php

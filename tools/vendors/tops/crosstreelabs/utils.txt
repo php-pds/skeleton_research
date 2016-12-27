@@ -1,0 +1,6 @@
+src/Crosstree/Utils/
+test/
+.travis.yml
+LICENSE
+README.md
+composer.json

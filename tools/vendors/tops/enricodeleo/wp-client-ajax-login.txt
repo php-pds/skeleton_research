@@ -1,0 +1,8 @@
+.gitignore
+LICENSE.md
+README.md
+banner-772x250.png
+composer.json
+deploy.sh
+readme.txt
+remote-ajax-login.php

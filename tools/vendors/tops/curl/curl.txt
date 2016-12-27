@@ -1,0 +1,11 @@
+build/
+src/Curl/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+curl.xml
+jautoload.php
+phpunit.xml.dist

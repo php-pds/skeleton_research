@@ -1,0 +1,6 @@
+src/
+tests/NYSIIS/
+.gitignore
+LICENSE
+README.md
+composer.json

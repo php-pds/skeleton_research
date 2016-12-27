@@ -1,0 +1,9 @@
+.settings/
+example/
+src/
+.buildpath
+.gitignore
+.project
+LICENSE
+README.md
+composer.json

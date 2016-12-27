@@ -1,0 +1,14 @@
+Controller/
+DependencyInjection/
+Event/
+Model/
+Resources/config/
+Tests/
+Tracking/
+.gitignore
+.travis.yml
+DubtureCustomerIOBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

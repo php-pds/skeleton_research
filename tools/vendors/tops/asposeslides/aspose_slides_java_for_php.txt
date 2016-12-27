@@ -1,0 +1,6 @@
+src/aspose/slides/
+tests/
+vendor/
+README.md
+composer.json
+composer.lock

@@ -1,0 +1,6 @@
+Repository/Traits/
+Resources/doc/
+LICENSE
+README.md
+composer.json
+njr03304DoctrineRepositoryBundle.php

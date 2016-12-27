@@ -1,0 +1,8 @@
+src/Atst/
+tests/integration/
+.gitignore
+LICENCE
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

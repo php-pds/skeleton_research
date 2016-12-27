@@ -1,0 +1,8 @@
+lib/Page/
+public/
+tests/
+.gitignore
+composer.json
+composer.lock
+gittest.txt
+gittest2.core

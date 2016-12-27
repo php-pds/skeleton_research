@@ -1,0 +1,5 @@
+src/Google/Spreadsheet/
+tests/
+.gitignore
+README.md
+composer.json

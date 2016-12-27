@@ -1,0 +1,7 @@
+src/haymetric/
+test/
+tutorial/
+LICENSE
+README.md
+composer.json
+composer.lock

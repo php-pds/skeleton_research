@@ -1,0 +1,4 @@
+Resources/
+README.md
+SolisPauwelsThemesPackBundle.php
+composer.json

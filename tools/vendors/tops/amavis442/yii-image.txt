@@ -1,0 +1,8 @@
+drivers/
+nbproject/
+.gitignore
+CImageComponent.php
+Image.php
+Image_Driver.php
+composer.json
+readme.txt

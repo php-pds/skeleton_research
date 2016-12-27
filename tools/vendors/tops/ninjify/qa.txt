@@ -1,0 +1,8 @@
+bin/
+src/Composer/Script/
+.editorconfig
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json

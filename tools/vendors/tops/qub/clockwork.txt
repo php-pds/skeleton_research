@@ -1,0 +1,7 @@
+screenshot/
+updates/
+.gitignore
+Plugin.php
+composer.json
+init.php
+readme.md

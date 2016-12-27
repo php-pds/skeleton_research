@@ -1,0 +1,12 @@
+public/
+src/Burthorpe/Runescape/Signature/
+tests/Burthorpe/Runescape/Signature/
+.gitignore
+.scrutinizer.yml
+.styleci.yml
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml

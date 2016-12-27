@@ -1,0 +1,10 @@
+documentation/sample_data/
+library/Rjakes/FmPdo/
+tests/
+.gitignore
+CONTRIBUTING.md
+LICENSE.txt
+README.md
+build.xml
+composer.json
+phpunit.xml

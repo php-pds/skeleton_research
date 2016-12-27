@@ -1,0 +1,8 @@
+templates/
+templates_compiled/
+vendor/
+.gitignore
+composer.json
+composer.lock
+index.php
+test.php

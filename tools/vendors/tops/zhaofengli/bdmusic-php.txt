@@ -1,0 +1,5 @@
+examples/
+src/Feng/BaiduMusic/
+.gitignore
+README.md
+composer.json

@@ -1,0 +1,12 @@
+Block/
+Controller/
+Helper/
+Model/
+doc/
+etc/
+view/
+.codeclimate.yml
+.gitignore
+README.md
+composer.json
+registration.php

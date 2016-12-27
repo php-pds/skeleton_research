@@ -1,0 +1,14 @@
+DependencyInjection/
+Doctrine/Common/Saver/
+Entity/
+Form/Type/
+Model/
+Processor/
+Reader/
+Resources/
+Writer/File/
+.gitignore
+ComposerScripts.php
+DndGoogleShoppingConnectorBundle.php
+README.md
+composer.json

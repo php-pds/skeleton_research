@@ -1,0 +1,7 @@
+PHPUnit/
+Tests/Extensions/
+.gitignore
+LICENSE
+README.md
+composer.json
+package.xml

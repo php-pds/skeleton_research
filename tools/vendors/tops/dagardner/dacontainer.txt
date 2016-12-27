@@ -1,0 +1,11 @@
+src/DaGardner/DaContainer/
+tests/DaGardner/DaContainer/
+.coveralls.yml
+.gitignore
+.travis.yml
+CONTRIBUTING.md
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml

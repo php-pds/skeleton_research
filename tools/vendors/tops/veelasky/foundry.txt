@@ -1,0 +1,9 @@
+config/
+src/
+tests/
+.editorconfig
+.gitignore
+.php_cs
+LICENSE
+composer.json
+readme.md

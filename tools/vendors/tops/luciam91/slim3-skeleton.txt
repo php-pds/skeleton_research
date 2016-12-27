@@ -1,0 +1,13 @@
+config/
+opt/
+public/
+src/
+templates/
+.gitignore
+LICENSE
+README.md
+cli-config.php
+composer.json
+docker-compose.yml
+phpspec.yml
+phpunit.xml

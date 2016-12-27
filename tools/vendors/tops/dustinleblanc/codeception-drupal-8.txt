@@ -1,0 +1,7 @@
+src/Codeception/
+tests/
+.gitignore
+README.md
+codeception.yml
+composer.json
+composer.lock

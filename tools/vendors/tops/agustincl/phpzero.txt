@@ -1,0 +1,6 @@
+src/Phpzero/adapters/
+.gitignore
+.project
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,8 @@
+blended/
+temp/
+LICENSE
+README.md
+README.txt
+README_WITHOUT_LINES.rst
+composer.json
+test

@@ -1,0 +1,11 @@
+examples/
+src/
+.distignore
+.gitignore
+.travis.yml
+LICENSE
+README.md
+command.php
+composer.json
+ruleset.xml
+wp-cli.yml

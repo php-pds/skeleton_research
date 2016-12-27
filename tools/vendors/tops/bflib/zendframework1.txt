@@ -1,0 +1,14 @@
+bin/
+demos/Zend/
+documentation/manual/
+library/Zend/
+puppet/
+resources/languages/
+tests/
+DEVELOPMENT_README.md
+INSTALL.md
+LICENSE.txt
+README-GIT.md
+README.md
+Vagrantfile
+composer.json

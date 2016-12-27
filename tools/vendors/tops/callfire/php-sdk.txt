@@ -1,0 +1,14 @@
+docs/en/
+src/CallFire/
+tests/
+tools/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+VERSION
+client-map.md
+composer.json
+composer.lock
+phpdoc.dist.xml
+phpunit.xml.dist

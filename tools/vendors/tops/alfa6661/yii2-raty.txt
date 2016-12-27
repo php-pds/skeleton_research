@@ -1,0 +1,5 @@
+assets/
+README.md
+Raty.php
+RatyAsset.php
+composer.json

@@ -1,0 +1,11 @@
+examples/
+lib/
+src/PhpSpock/
+tests/
+.gitignore
+.gitmodules
+COPYING
+COPYING.LESSER
+README.markdown
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,6 @@
+MailjetBundle/
+spec/Dekalee/MailjetBundle/
+.gitignore
+README.md
+composer.json
+phpspec.yml

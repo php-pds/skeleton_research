@@ -1,0 +1,5 @@
+src/XenForoBDClient/
+.gitignore
+LICENSE
+README.md
+composer.json

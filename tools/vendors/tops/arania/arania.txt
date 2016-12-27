@@ -1,0 +1,9 @@
+.settings/
+.buildpath
+.gitignore
+.project
+Crawler.php
+Exporter.php
+README.md
+Scraper.php
+composer.json

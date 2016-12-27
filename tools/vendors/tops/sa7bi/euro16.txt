@@ -1,0 +1,8 @@
+src/
+vendor/
+.env
+.gitignore
+README.md
+composer.json
+composer.lock
+euro16

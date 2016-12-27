@@ -1,0 +1,6 @@
+adapters/
+Filesystem.php
+FilesystemInterface.php
+Manager.php
+README.md
+composer.json

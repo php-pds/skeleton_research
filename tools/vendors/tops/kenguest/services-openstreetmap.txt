@@ -1,0 +1,11 @@
+Services/
+examples/
+tests/
+.gitignore
+LICENSE.txt
+README.md
+Services_OpenStreetMap-0.0.1.tgz
+build.xml
+composer.json
+package.php
+package.xml

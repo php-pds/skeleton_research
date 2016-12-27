@@ -1,0 +1,10 @@
+Datatables/
+DependencyInjection/
+Resources/
+Tests/
+.gitignore
+LICENSE
+LanKitDatatablesBundle.php
+README.md
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,14 @@
+.drone/
+.tx/
+builds/
+source/
+.drone.sec
+.drone.yml
+.gitignore
+CHANGELOG
+README.md
+RoboFile.php
+composer.json
+composer.lock
+jorobo.dist.ini
+jorobo.ini

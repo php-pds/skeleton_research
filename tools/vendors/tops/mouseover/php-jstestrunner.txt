@@ -1,0 +1,6 @@
+src/MouseOver/JsTester/
+templates/
+vendor/
+LICENSE
+README.md
+composer.json

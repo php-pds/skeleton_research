@@ -1,0 +1,14 @@
+examples/
+lib/
+script/
+test/
+.gitignore
+.swagger-revision
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+autoload.php
+composer.json
+docraptor.yaml
+swagger-config.json

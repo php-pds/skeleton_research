@@ -1,0 +1,9 @@
+src/NorthslopePL/Metassione/
+tests/NorthslopePL/Metassione/Tests/
+.gitignore
+.travis.yml
+LICENSE
+Makefile
+README.md
+composer.json
+phpunit.xml.dist

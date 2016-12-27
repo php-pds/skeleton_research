@@ -1,0 +1,4 @@
+src/Beanstream/
+LICENSE
+README.md
+composer.json

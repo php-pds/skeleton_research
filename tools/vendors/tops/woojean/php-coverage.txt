@@ -1,0 +1,6 @@
+demo/
+imgs/
+src/Woojean/PHPCoverage/
+.gitignore
+README.md
+composer.json

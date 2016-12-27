@@ -1,0 +1,9 @@
+app/
+js/
+skin/adminhtml/default/default/
+.gitignore
+LICENSE_UMC
+README.md
+composer.json
+modman
+wagner.cson

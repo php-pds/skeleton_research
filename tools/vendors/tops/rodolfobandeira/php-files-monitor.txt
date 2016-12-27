@@ -1,0 +1,9 @@
+config/
+db/
+src/FilesMonitor/
+tests/FilesMonitor/
+.gitignore
+LICENSE
+README.md
+application.php
+composer.json

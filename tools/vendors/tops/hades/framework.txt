@@ -1,0 +1,5 @@
+src/Hades/
+tests/
+LICENSE
+README.md
+composer.json

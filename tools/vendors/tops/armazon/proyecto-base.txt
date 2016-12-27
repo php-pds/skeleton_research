@@ -1,0 +1,7 @@
+app/
+publico/
+.gitignore
+LICENSE
+armazon
+composer.json
+iniciar_desarrollo.bat

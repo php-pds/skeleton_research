@@ -1,0 +1,6 @@
+TodoPago/lib/
+resources/
+vendor/
+README.md
+composer.json
+composer.lock

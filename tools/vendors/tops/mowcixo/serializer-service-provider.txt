@@ -1,0 +1,11 @@
+src/JMS/SerializerServiceProvider/
+tests/
+.gitignore
+.travis.yml
+CONTRIBUTING.markdown
+LICENSE
+README.markdown
+VERSION
+composer.json
+composer.lock
+phpunit.xml.dist

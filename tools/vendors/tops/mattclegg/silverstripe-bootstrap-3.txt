@@ -1,0 +1,9 @@
+images/
+js/
+scss/
+templates/
+.gitignore
+.htaccess
+README.md
+composer.json
+config.rb

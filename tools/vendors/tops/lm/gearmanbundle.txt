@@ -1,0 +1,7 @@
+DependencyInjection/
+Resources/config/
+Service/
+.gitignore
+LmGearmanBundle.php
+README.md
+composer.json

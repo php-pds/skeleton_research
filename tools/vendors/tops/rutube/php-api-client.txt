@@ -1,0 +1,14 @@
+examples/
+src/
+tests/
+utils/
+.apigen.neon
+.generate.sh
+.gitignore
+.travis.yml
+LICENSE
+Readme.md
+autoload.php
+composer.json
+logo.png
+phpunit.xml

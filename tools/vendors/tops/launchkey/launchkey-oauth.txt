@@ -1,0 +1,11 @@
+lib/LaunchKey/
+tests/
+.gitattributes
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENSE.txt
+README.md
+composer.json
+example.php
+phpunit.xml.dist

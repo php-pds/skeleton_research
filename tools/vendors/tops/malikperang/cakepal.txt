@@ -1,0 +1,5 @@
+Controller/
+Test/Case/Lib/
+README.md
+README.md.old
+composer.json

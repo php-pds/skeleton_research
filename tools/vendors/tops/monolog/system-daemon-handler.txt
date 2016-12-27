@@ -1,0 +1,7 @@
+src/Monolog/
+tests/Monolog/Handler/
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

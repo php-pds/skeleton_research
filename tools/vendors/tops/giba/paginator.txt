@@ -1,0 +1,6 @@
+data/
+src/
+DOCUMENTATION.md
+README.md
+composer.json
+composer.phar

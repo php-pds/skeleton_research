@@ -1,0 +1,6 @@
+config/
+module/
+public/
+.gitignore
+composer.json
+readme.md

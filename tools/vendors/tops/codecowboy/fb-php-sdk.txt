@@ -1,0 +1,6 @@
+examples/
+src/
+tests/
+changelog.md
+composer.json
+readme.md

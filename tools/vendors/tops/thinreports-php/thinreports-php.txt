@@ -1,0 +1,12 @@
+examples/hello_world/
+fonts/
+src/Thinreports/
+test/
+.editorconfig
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+composer.json
+phpunit.xml

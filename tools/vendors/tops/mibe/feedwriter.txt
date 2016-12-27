@@ -1,0 +1,14 @@
+examples/
+.gitattributes
+.gitignore
+ATOM.php
+CHANGELOG.md
+COPYING
+Feed.php
+InvalidOperationException.php
+Item.php
+README.md
+RSS1.php
+RSS2.php
+composer.json
+composer.lock

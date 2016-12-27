@@ -1,0 +1,8 @@
+src/EventLogger/
+tests/EventLogger/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml

@@ -1,0 +1,12 @@
+.github/
+dist/
+sandbox/
+test/
+.gitignore
+.jshintrc
+README.md
+bower.json
+composer.json
+gulpfile.js
+masonry.js
+package.json

@@ -1,0 +1,5 @@
+Simirimia/Core/src/
+vagrant/manifests/
+.gitignore
+Vagrantfile
+composer.json

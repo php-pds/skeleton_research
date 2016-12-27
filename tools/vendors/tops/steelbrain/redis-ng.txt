@@ -1,0 +1,5 @@
+Extras/
+Source/
+.gitignore
+autoload.php
+composer.json

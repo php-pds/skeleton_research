@@ -1,0 +1,6 @@
+doc-generator/
+docs-doxygen/html/
+LICENSE
+README.md
+SeleniumTestCaseDoc.php
+composer.json

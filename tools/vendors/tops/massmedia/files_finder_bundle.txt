@@ -1,0 +1,12 @@
+Api/Controller/
+Command/
+Controller/
+DependencyInjection/
+Resources/
+Services/
+Tests/
+.gitignore
+FilesFinderBundle.php
+README.md
+composer.json
+phpunit.xml.dist

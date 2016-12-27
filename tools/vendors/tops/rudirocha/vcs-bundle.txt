@@ -1,0 +1,12 @@
+Constants/
+Controller/
+DataCollector/
+DependencyInjection/
+Entity/
+Parser/
+Process/
+Resources/
+Tests/Controller/
+README.md
+RubiusVCSBundle.php
+composer.json

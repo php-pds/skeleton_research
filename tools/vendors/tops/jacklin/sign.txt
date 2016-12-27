@@ -1,0 +1,6 @@
+src/Tool/
+test/
+.gitignore
+COPYING
+README
+composer.json

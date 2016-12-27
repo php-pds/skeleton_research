@@ -1,0 +1,16 @@
+lib/
+.gitignore
+LICENSE
+README.md
+activerecord.php
+class_builder.php
+class_loader.php
+composer.json
+criteria.php
+criterion.php
+database.php
+database_template.txt
+memchached.php
+modelLoader.php
+query.php
+sql_syntaxor.php

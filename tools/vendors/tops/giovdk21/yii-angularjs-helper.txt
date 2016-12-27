@@ -1,0 +1,7 @@
+example/
+vendor/angular-1.2.14/
+CHANGELOG
+LICENSE
+README.md
+YiiAngularjsHelper.php
+composer.json

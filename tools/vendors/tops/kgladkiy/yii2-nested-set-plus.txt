@@ -1,0 +1,6 @@
+assets/
+behaviors/
+migrations/
+widgets/
+README.md
+composer.json

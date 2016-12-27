@@ -1,0 +1,4 @@
+phpqrcode/
+AutoloadExample.php
+README.md
+composer.json

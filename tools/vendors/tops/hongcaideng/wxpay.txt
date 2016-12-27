@@ -1,0 +1,8 @@
+config/
+resources/views/
+src/HongcaiDeng/Wxpay/
+.gitignore
+.travis.yml
+README.md
+composer.json
+phpunit.xml

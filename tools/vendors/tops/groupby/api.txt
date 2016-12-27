@@ -1,0 +1,13 @@
+src/API/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+RoboFile.php
+changelog.md
+circle.yml
+composer.json
+composer.phar
+intellijSetup.md
+phpunit.xml

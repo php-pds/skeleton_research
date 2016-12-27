@@ -1,0 +1,4 @@
+src/Slim/Extras/Middleware/
+LICENSE
+README.md
+composer.json

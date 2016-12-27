@@ -1,0 +1,12 @@
+src/Pinoy/
+tests/
+.gitignore
+.travis.yml
+ChangeLog.md
+Gemfile
+Gemfile.lock
+Guardfile
+README.md
+composer.json
+install.sh
+phpunit.xml.dist

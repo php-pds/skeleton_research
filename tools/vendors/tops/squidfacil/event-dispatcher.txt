@@ -1,0 +1,7 @@
+src/
+test/EventDispatcher/
+.gitignore
+README.md
+composer.json
+phpunit.xml.dist
+shippable.yml

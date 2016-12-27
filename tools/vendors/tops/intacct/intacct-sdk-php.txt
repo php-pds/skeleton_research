@@ -1,0 +1,11 @@
+docs/
+src/Intacct/
+test/
+.gitattributes
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist
+sami.php

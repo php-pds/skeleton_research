@@ -1,0 +1,6 @@
+LICENSE
+README.md
+XLSXReader.php
+composer.json
+sample.php
+sample.xlsx

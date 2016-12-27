@@ -1,0 +1,8 @@
+src/Prjkt/Component/Repofuck/
+tests/
+.gitignore
+.phplint.yml
+README.md
+circle.yml
+composer.json
+phpunit.xml

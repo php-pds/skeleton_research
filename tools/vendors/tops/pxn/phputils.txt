@@ -1,0 +1,12 @@
+examples/
+src/
+tests/
+.gitattributes
+.gitignore
+changelog.txt
+composer.json
+composer.lock
+phpunit.xml
+pxnloader.php
+update.sh
+xbuild.json

@@ -1,0 +1,14 @@
+bin/
+docs/
+examples/
+src/
+tests/
+.gitignore
+.travis.yml
+LICENSE.txt
+MPLT.php
+README.md
+checksums
+composer.json
+composer.lock
+phpunit.xml.dist

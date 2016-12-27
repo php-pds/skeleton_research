@@ -1,0 +1,10 @@
+src/Perguntados/
+.env.example
+.gitignore
+CHANGELOG
+LICENSE
+README.md
+TODO
+VERSION
+composer.json
+composer.lock

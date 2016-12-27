@@ -1,0 +1,3 @@
+src/Mailfinder/
+README.md
+composer.json

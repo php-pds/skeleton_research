@@ -1,0 +1,17 @@
+Classes/
+Configuration/
+Documentation/
+Libraries/
+Resources/
+Tests/Unit/
+.gitignore
+ExtensionBuilder.json
+LICENSE
+README.md
+composer.json
+composer.lock
+ext_emconf.php
+ext_icon.gif
+ext_localconf.php
+ext_tables.php
+ext_tables.sql

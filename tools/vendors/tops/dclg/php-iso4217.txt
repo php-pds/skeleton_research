@@ -1,0 +1,9 @@
+bin/
+data/
+src/Dclg/CurrencyIso/
+test/
+.gitignore
+README.md
+composer.json
+composer.lock
+phpunit.xml

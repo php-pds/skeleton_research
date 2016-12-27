@@ -1,0 +1,13 @@
+assets/
+controllers/
+filters/
+interfaces/
+migrations/
+models/
+view/
+widgets/
+ChatAssets.php
+ChatWithoutNodeAssets.php
+PChatModule.php
+README.md
+composer.json

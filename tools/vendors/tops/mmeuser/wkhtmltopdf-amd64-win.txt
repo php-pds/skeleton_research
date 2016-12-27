@@ -1,0 +1,5 @@
+bin/
+include/wkhtmltox/
+lib/
+README.md
+composer.json

@@ -1,0 +1,11 @@
+Core/
+Examples/
+Payment/
+UnitTests/
+.gitignore
+README.md
+change.log
+composer.json
+composer.lock
+phpunit.xml
+read.me

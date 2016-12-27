@@ -1,0 +1,6 @@
+resources/lang/en/
+src/InstanceValidator/
+.gitignore
+LICENSE
+README.md
+composer.json

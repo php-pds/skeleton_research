@@ -1,0 +1,5 @@
+src/Minimalcode/Enumeration/
+.gitignore
+LICENSE
+README.md
+composer.json

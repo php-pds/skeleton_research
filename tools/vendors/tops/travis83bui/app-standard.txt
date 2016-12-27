@@ -1,0 +1,11 @@
+assets/
+config/
+controllers/
+models/
+runtime/
+vendor/
+views/
+web/
+widgets/
+.gitignore
+composer.json

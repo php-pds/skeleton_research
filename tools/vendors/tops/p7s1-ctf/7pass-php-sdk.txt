@@ -1,0 +1,12 @@
+docs/
+lib/P7/
+public_html/
+tests/
+.gitignore
+CHANGELOG.md
+LICENSE
+Procfile
+README.md
+composer.json
+composer.lock
+phpunit.xml

@@ -1,0 +1,9 @@
+bin/
+examples/
+src/
+.gitignore
+README.md
+bootstrap.php
+composer.json
+composer.lock
+notes.md

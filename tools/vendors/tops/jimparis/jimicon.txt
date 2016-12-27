@@ -1,0 +1,9 @@
+.gitattributes
+.gitignore
+COPYING
+Makefile
+README.md
+composer.json
+floIcon.php
+jimIcon.php
+test.php

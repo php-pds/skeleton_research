@@ -1,0 +1,8 @@
+assets/
+config/
+dca/
+templates/
+LICENSE
+README.md
+composer.json
+tinyMCE_toolbar.png

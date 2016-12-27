@@ -1,0 +1,15 @@
+Controller/
+DependencyInjection/
+Entity/
+Form/
+Repository/
+Resources/
+Security/
+Tests/Controller/
+Validator/Constraints/
+.gitignore
+LICENSE
+README.md
+UserManager.php
+YuidoApiAuthBundle.php
+composer.json

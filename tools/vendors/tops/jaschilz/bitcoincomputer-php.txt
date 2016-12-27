@@ -1,0 +1,7 @@
+src/
+test/
+.codeclimate.yml
+.gitignore
+.travis.yml
+README.md
+composer.json

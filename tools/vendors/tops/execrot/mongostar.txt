@@ -1,0 +1,4 @@
+src/Mongostar/
+.gitignore
+composer.json
+index.php

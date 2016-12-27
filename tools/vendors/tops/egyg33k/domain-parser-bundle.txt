@@ -1,0 +1,8 @@
+DependencyInjection/
+Resources/
+Tests/
+.travis.yml
+Egyg33kDomainParserBundle.php
+README.md
+composer.json
+phpunit.xml.dist

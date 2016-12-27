@@ -1,0 +1,6 @@
+doc/
+src/FSM/
+.gitignore
+LICENSE
+README.md
+composer.json

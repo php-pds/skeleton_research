@@ -1,0 +1,7 @@
+DataCollector/
+DependencyInjection/
+Resources/
+JSMysqlndBundle.php
+LICENSE
+README.markdown
+composer.json

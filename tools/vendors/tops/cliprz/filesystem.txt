@@ -1,0 +1,8 @@
+MimeTypes/
+Tests/
+CHANGELOG.md
+Filesystem.php
+LICENSE
+MANUAL.md
+README.md
+composer.json

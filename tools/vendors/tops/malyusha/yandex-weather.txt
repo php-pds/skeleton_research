@@ -1,0 +1,6 @@
+src/
+tests/Malyusha/YandexWeather/
+.gitignore
+LICENSE
+README.md
+composer.json

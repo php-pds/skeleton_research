@@ -1,0 +1,5 @@
+CardSynonym/
+.gitignore
+CardSynonym.php
+README.md
+composer.json

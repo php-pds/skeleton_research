@@ -1,0 +1,6 @@
+config/
+src/Filter/
+.gitignore
+README.md
+composer.json
+composer.lock

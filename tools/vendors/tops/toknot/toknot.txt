@@ -1,0 +1,11 @@
+Toknot/
+demos/
+doc/
+resources/
+tests/
+.gitignore
+.gitmodules
+LICENSE
+README.md
+composer.json
+test.php

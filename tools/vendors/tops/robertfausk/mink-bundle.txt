@@ -1,0 +1,12 @@
+Coverage/
+DependencyInjection/
+Resources/
+Test/
+Tests/
+.gitignore
+.travis.yml
+LICENSE
+MinkBundle.php
+README.md
+composer.json
+phpunit.xml.dist

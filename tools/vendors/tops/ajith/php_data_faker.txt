@@ -1,0 +1,6 @@
+run/
+src/DataFaker/
+DataFaker.sql
+README.md
+composer.json
+composer.phar

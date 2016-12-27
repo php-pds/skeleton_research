@@ -1,0 +1,6 @@
+spec/
+src/
+.codeclimate.yml
+.gitignore
+composer.json
+phpspec.yml

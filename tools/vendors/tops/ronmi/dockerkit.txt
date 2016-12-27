@@ -1,0 +1,12 @@
+build/
+src/
+test/
+.ac-php-conf.json
+.gitignore
+.travis.yml
+Makefile
+README.md
+composer.json
+doxygen.conf
+phpdox.xml
+phpunit.xml

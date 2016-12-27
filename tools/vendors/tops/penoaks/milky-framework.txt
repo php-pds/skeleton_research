@@ -1,0 +1,9 @@
+resources/
+src/
+.env.example
+.gitattributes
+.gitignore
+HEADER
+LICENSE
+README.md
+composer.json

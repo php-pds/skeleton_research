@@ -1,0 +1,10 @@
+tests/
+.coveralls.yml
+.gitignore
+.travis.yml
+LICENSE
+Makefile
+README.md
+SimpleXmlRpc.php
+composer.json
+phpunit.xml

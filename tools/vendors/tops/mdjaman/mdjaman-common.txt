@@ -1,0 +1,6 @@
+config/
+src/MdjamanCommon/
+.travis.yml
+Module.php
+README.md
+composer.json

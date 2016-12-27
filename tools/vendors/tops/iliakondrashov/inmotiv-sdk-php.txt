@@ -1,0 +1,9 @@
+app/
+resources/xmlTemplates/
+tests/
+.env.example
+.gitignore
+README.md
+composer.json
+example.php
+phpunit.xml.dist

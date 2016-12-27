@@ -1,0 +1,2 @@
+Manager.php
+composer.json

@@ -1,0 +1,11 @@
+DataCollector/
+DependencyInjection/
+Exception/
+Guzzle6/Middleware/
+Resources/
+.gitignore
+.travis.yml
+ColinGuzzleBundle.php
+README.md
+composer.json
+phpunit.xml.dist

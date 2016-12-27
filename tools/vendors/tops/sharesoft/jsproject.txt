@@ -1,0 +1,14 @@
+jsProject/
+thirdParty/
+LICENSE
+README.md
+applicationJsFiles.php
+composer.json
+htmlHeader.php
+index.php
+jsProjectFunctionJsFiles.php
+jsProjectJsFiles.php
+main.js
+noJs.php
+thirdPartyJsFiles.php
+valuesModule.js

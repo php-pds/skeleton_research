@@ -1,0 +1,3 @@
+src/Mailer/Transport/
+README.md
+composer.json

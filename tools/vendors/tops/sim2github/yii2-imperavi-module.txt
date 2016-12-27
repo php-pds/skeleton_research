@@ -1,0 +1,10 @@
+actions/
+assets/
+controllers/
+models/
+widgets/
+.gitignore
+LICENSE
+Module.php
+README.md
+composer.json

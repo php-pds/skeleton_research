@@ -1,0 +1,9 @@
+src/mstate/assertions/
+tests/
+vendor/
+.gitattributes
+.gitignore
+build.xml
+composer.json
+composer.lock
+phpunit.xml

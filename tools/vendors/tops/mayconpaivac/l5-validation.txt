@@ -1,0 +1,6 @@
+src/Prettus/Validator/
+.gitignore
+LICENSE.md
+README.md
+composer.json
+phpunit.xml

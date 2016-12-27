@@ -1,0 +1,4 @@
+src/Moneycake/
+LICENSE
+README.md
+composer.json

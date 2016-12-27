@@ -1,0 +1,3 @@
+src/ZendTool/
+README.md
+composer.json

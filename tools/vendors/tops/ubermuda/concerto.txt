@@ -1,0 +1,6 @@
+src/
+web/
+.gitignore
+README.md
+composer.json
+console

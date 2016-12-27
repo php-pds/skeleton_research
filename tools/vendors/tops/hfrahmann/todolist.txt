@@ -1,0 +1,7 @@
+Classes/Hfrahmann/TodoList/
+Configuration/
+Migrations/Mysql/
+Resources/
+LICENSE
+README.md
+composer.json

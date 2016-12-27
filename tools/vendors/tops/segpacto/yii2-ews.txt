@@ -1,0 +1,16 @@
+EWSType/
+NTLMSoapClient/
+wsdl/
+.gitignore
+.gitignore~
+CONTRIBUTORS.txt
+EWSAutodiscover.php
+EWSType.php
+EWS_Exception.php
+Ews.php
+ExchangeWebServices.php
+LICENSE.txt
+NTLMSoapClient.php
+README.md
+README.md~
+composer.json

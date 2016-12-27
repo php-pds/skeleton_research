@@ -1,0 +1,12 @@
+curl/
+dbi/
+dom/
+ftp/
+log/
+manual/
+session/
+.travis.yml
+LICENSE
+README.md
+composer.json
+index.php

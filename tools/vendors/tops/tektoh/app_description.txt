@@ -1,0 +1,10 @@
+Lib/
+Model/Datasource/
+Test/Case/
+Vendor/simplehtmldom/
+_vagrant/
+.editorconfig
+.gitignore
+.travis.yml
+README.md
+composer.json

@@ -1,0 +1,3 @@
+static/
+CaptchaBuilder.php
+composer.json

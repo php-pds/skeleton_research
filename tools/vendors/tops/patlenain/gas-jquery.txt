@@ -1,0 +1,9 @@
+.settings/
+Resources/public/js/
+.buildpath
+.gitignore
+.project
+MIT-LICENSE.txt
+PatlenainGasJQueryBundle.php
+README.md
+composer.json

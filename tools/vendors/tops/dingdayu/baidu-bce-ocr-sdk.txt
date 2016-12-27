@@ -1,0 +1,14 @@
+.github/
+docs/
+src/
+tests/
+.gitignore
+.phplint.yml
+.scrutinizer.yml
+.styleci.yml
+.travis.yml
+LICENSE
+README.md
+autoload.php
+composer.json
+phpunit.xml

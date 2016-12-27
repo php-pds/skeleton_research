@@ -1,0 +1,4 @@
+library/DrSlump/
+tests/
+README.md
+composer.json

@@ -1,0 +1,4 @@
+nbproject/
+src/Mansaray/ModuleInstaller/Composer/
+README.md
+composer.json

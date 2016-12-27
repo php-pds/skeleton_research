@@ -1,0 +1,13 @@
+images/
+includes/
+libs/
+pages/
+scripts/
+styles/
+templates/
+.htaccess
+README.md
+base.php
+index.php
+init.php
+log_out.php

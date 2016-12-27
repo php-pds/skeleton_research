@@ -1,0 +1,3 @@
+ExtCoreTextHelper.php
+README.md
+composer.json

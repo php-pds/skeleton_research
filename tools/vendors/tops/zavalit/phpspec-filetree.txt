@@ -1,0 +1,3 @@
+src/Zavalit/FileTree/
+README.md
+composer.json

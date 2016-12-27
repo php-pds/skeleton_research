@@ -1,0 +1,15 @@
+bin/
+src/
+storage/
+tests/App/
+web/
+.editorconfig
+.env.dist
+.gitignore
+.php_cs
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml

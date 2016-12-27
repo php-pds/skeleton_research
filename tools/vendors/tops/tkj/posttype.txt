@@ -1,0 +1,4 @@
+.gitignore
+Posttype.php
+README.md
+composer.json

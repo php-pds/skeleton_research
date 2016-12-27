@@ -1,0 +1,13 @@
+Collection/
+Controller/
+DependencyInjection/
+Doctrine/ORM/Mapping/
+EventListener/
+Form/
+HttpFoundation/
+Resources/config/
+CsvGenerator.php
+ExperiumExtraBundle.php
+README.md
+ReflectionHelper.php
+composer.json

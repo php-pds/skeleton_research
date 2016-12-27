@@ -1,0 +1,8 @@
+controller/
+model/
+view/
+web/
+.gitignore
+LICENSE
+composer.json
+config.dist.yml

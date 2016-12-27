@@ -1,0 +1,9 @@
+YouTrack/
+examples/
+test/
+.gitignore
+.travis.yml
+CHANGELOG
+LICENSE
+README.md
+composer.json

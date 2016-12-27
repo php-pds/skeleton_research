@@ -1,0 +1,10 @@
+app/
+bin/
+src/
+vendor/
+web/
+.gitattributes
+.gitignore
+README.md
+composer.json
+composer.lock

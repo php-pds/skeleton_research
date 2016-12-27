@@ -1,0 +1,10 @@
+config/
+examples/
+src/Dotmailer/
+tests/
+.gitignore
+COVERAGE.txt
+LICENSE.txt
+README.md
+composer.json
+phpunit.xml

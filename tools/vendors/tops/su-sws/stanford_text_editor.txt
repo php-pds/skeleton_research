@@ -1,0 +1,11 @@
+config/install/
+css/
+js/
+.codeclimate.yml
+.gitignore
+CHANGELOG.txt
+LICENSE.txt
+README.md
+composer.json
+stanford_text_editor.features.yml
+stanford_text_editor.info.yml

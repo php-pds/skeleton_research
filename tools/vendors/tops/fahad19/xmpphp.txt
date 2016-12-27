@@ -1,0 +1,9 @@
+XMPPHP/
+tests/
+LICENSE
+README
+cli_longrun_example.php
+cli_longrun_example_bosh.php
+composer.json
+sendmessage_example.php
+webclient_example.php

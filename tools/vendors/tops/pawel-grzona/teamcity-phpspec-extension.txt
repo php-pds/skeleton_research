@@ -1,0 +1,10 @@
+spec/PhpSpec/TeamCity/
+src/PhpSpec/TeamCity/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpspec.yml
+phpspec.yml.dist
+run_specs

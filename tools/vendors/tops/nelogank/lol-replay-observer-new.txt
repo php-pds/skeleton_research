@@ -1,0 +1,6 @@
+docs/
+src/NEloGank/Replay/Observer/
+.gitignore
+LICENSE
+README.md
+composer.json

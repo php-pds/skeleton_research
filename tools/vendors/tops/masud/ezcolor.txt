@@ -1,0 +1,7 @@
+nbproject/
+src/Masud/EzColor/
+.gitignore
+LICENSE
+README
+composer.json
+index.php

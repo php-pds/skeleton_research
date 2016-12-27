@@ -1,0 +1,9 @@
+local/Sample/
+storage/
+supra/
+tests/
+web/
+.gitignore
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,13 @@
+src/
+tests/
+.editorconfig
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+composer.phar
+phpcs.xml
+phpunit.xml
+test-runner

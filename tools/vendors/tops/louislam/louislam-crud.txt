@@ -1,0 +1,13 @@
+css/
+doc/
+js/
+lang/
+node_modules/sweetalert/
+src/
+view/theme/AdminLTE/
+.gitignore
+.travis.yml
+LICENSE.md
+README.md
+composer.json
+phpunit_bootstrap.php

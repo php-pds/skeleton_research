@@ -1,0 +1,12 @@
+.idea/dictionaries/
+DependencyInjection/
+Resources/config/
+Services/
+Subscriber/
+Tests/
+.gitignore
+LICENSE
+README.markdown
+SphinxsearchBundle.php
+composer.json
+phpunit.xml.dist

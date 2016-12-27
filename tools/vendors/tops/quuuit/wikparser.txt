@@ -1,0 +1,7 @@
+.idea/scopes/
+lib/
+LICENSE.md
+README.txt
+WikParser.php
+composer.json
+language.config.php

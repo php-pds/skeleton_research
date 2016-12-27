@@ -1,0 +1,13 @@
+Classes/
+Tests/
+.gitignore
+.travis.yml
+ChangeLog
+README.md
+build.xml
+composer.json
+ext_conf_template.txt
+ext_emconf.php
+ext_icon.gif
+ext_localconf.php
+locallang.xml

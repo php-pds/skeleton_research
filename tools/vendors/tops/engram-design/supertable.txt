@@ -1,0 +1,6 @@
+screenshots/
+supertable/
+.gitignore
+LICENSE.md
+README.md
+changelog.json

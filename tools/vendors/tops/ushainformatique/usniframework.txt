@@ -1,0 +1,8 @@
+fontawesome/
+library/
+themes/bootstrap/views/
+.htaccess
+LICENSE.txt
+README.md
+UsniAdaptor.php
+composer.json

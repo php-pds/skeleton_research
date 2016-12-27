@@ -1,0 +1,6 @@
+config/
+src/ZF2Amazoncloudsearch/Plugin/
+Module.php
+README.md
+composer.json
+composerjson

@@ -1,0 +1,10 @@
+Controller/
+DependencyInjection/
+Entity/
+Form/Type/
+Repository/
+Resources/
+Utils/
+BviTemplateBundle.php
+README.md
+composer.json

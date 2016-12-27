@@ -1,0 +1,6 @@
+Tests/
+debian/
+src/
+tutorials/
+composer.json
+flexible-orm.Doxyfile

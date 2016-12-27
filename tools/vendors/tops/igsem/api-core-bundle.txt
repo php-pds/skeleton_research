@@ -1,0 +1,12 @@
+Controller/
+DataFixtures/ORM/
+Entity/
+Repository/
+Resources/config/
+Security/
+Services/
+Tests/Controller/
+.gitignore
+APICoreBundle.php
+README.md
+composer.json

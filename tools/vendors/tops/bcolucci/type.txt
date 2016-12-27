@@ -1,0 +1,8 @@
+src/Bcol/Component/Type/
+test/Type/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

@@ -1,0 +1,15 @@
+app/
+core/
+modules/hass-revolutionslider/
+storage/
+themes/
+.gitignore
+LICENSE.md
+README.md
+admin.php
+composer.json
+composer.lock
+index.php
+install.php
+yii
+yii.bat

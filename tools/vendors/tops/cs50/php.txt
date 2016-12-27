@@ -1,0 +1,6 @@
+src/
+.bash_history
+LICENSE
+README.md
+composer.json
+docker-compose.yml

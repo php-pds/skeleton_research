@@ -1,0 +1,12 @@
+src/
+tests/
+vagrant/
+.gitattributes
+.gitignore
+.php_cs
+LICENSE
+README.md
+Vagrantfile
+composer.json
+phpunit.xml
+vagrant-project-settings.yml

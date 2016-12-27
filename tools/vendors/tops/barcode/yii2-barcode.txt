@@ -1,0 +1,6 @@
+class/
+font/
+html/
+GeneratedCodebar.php
+README.md
+composer.json

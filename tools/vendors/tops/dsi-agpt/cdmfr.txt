@@ -1,0 +1,8 @@
+config/
+src/CdmFr/
+xsd/
+.gitignore
+LICENSE
+Module.php
+autoload_classmap.php
+composer.json

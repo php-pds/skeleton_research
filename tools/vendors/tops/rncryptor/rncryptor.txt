@@ -1,0 +1,15 @@
+examples/
+lib/RNCryptor/
+tests-xcode/
+tests/
+vendor/
+.gitignore
+.gitmodules
+.travis.yml
+CREDITS
+LICENSE
+README.md
+autoload.php
+composer.json
+phpunit-coverage-html.xml
+phpunit.xml

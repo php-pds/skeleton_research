@@ -1,0 +1,7 @@
+includes/
+.gitignore
+.scrutinizer.yml
+LICENSE
+README.md
+composer.json
+woocommerce-affiliate-tracking.php

@@ -1,0 +1,5 @@
+src/Phanda/
+tests/
+LICENSE
+README.md
+composer.json

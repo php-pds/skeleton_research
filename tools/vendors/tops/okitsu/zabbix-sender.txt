@@ -1,0 +1,6 @@
+examples/
+src/Net/Zabbix/
+tests/
+.gitignore
+README
+composer.json

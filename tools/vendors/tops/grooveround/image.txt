@@ -1,0 +1,7 @@
+base/
+drivers/
+helpers/
+ImageManager.php
+LICENSE
+README.md
+composer.json

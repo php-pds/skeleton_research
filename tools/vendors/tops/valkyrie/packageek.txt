@@ -1,0 +1,6 @@
+src/
+test/Packageek/
+.gitignore
+README.md
+composer.json
+phpspec.yml

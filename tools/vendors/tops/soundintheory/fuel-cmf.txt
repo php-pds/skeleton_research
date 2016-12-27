@@ -1,0 +1,12 @@
+classes/
+config/
+lang/en/
+modules/
+tasks/
+templates/
+views/errors/
+.gitignore
+README.md
+bootstrap.php
+composer.json
+composer.lock

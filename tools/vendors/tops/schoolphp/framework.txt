@@ -1,0 +1,8 @@
+.bowerrc
+.gitignore
+LICENSE
+README.md
+bower.json
+composer.json
+index.php
+install.php

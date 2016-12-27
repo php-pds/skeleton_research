@@ -1,0 +1,10 @@
+src/VCR/
+tests/
+.gitattributes
+.gitignore
+.travis.yml
+LICENSE.md
+Readme.md
+composer.json
+composer.lock
+phpunit.xml

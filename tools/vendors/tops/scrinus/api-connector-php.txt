@@ -1,0 +1,3 @@
+src/Scrinus/Connector/
+README.md
+composer.json

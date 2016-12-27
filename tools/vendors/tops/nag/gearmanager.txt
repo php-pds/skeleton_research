@@ -1,0 +1,7 @@
+src/Nag/
+.gitattributes
+.gitignore
+.travis.yml
+CHANGELOG.mdown
+composer.json
+readme.md

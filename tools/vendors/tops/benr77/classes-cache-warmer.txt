@@ -1,0 +1,8 @@
+Classes/
+DependencyInjection/
+Resources/
+.gitignore
+Benr77ClassesCacheWarmerBundle.php
+README.md
+composer.json
+composer.lock

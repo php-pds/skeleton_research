@@ -1,0 +1,11 @@
+_deploy/
+doc/
+src/
+tests/
+.gitignore
+.travis.yml
+REMOVE.md
+composer.json
+modman
+phpunit.xml.dist
+readme.md

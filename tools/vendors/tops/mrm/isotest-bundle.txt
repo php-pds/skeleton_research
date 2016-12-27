@@ -1,0 +1,8 @@
+DependencyInjection/
+Resources/config/
+Tests/
+.gitignore
+LICENSE
+MrMIsoTestBundle.php
+README.md
+composer.json

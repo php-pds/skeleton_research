@@ -1,0 +1,6 @@
+ejemplos/
+sdk/
+.gitignore
+COPYING
+README.md
+composer.json

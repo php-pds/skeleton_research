@@ -1,0 +1,4 @@
+src/Feanor/
+.gitignore
+README.md
+composer.json

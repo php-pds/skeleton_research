@@ -1,0 +1,12 @@
+icons/
+lang/
+tests/
+.gitignore
+.jshintrc
+.travis.yml
+Gruntfile.js
+README.md
+bower.json
+composer.json
+package.json
+plugin.js

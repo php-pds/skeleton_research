@@ -1,0 +1,16 @@
+assets/
+demo/
+dist/
+src/
+.editorconfig
+.gitignore
+.jshintrc
+.travis.yml
+CONTRIBUTING.md
+Gruntfile.js
+LICENSE
+README.md
+bower.json
+composer.json
+package.json
+spell-me.jquery.json

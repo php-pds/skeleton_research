@@ -1,0 +1,11 @@
+lib/
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+Makefile
+README.md
+composer.json
+phpunit.xml
+secret_envs.sh.enc

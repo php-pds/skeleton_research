@@ -1,0 +1,4 @@
+_newup/
+_template/
+composer.json
+readme.md

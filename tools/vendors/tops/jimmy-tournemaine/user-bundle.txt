@@ -1,0 +1,10 @@
+Admin/
+DependencyInjection/
+Entity/
+Form/
+Menu/
+Resources/
+Tests/Controller/
+JTUserBundle.php
+LICENSE
+composer.json

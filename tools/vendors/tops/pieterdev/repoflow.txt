@@ -1,0 +1,9 @@
+spec/Pieterdev/RepoFlow/
+src/Pieterdev/RepoFlow/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpspec.yml
+phpunit.xml

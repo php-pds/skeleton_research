@@ -1,0 +1,5 @@
+TYPO3/ExceptionHandler/
+.gitignore
+LICENSE
+README.md
+composer.json

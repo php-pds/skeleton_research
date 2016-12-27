@@ -1,0 +1,10 @@
+bin/
+data/
+src/WordLadder/
+tools/
+.gitignore
+LICENSE
+LICENSE-DATA
+README.md
+composer.json
+phpcs.xml

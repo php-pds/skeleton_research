@@ -1,0 +1,11 @@
+src/
+tests/
+.gitignore
+.travis
+CONTRIBUTING.rst
+Gruntfile.js
+LICENSE
+README.md
+composer.json
+package.json
+phpunit.xml.dist

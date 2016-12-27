@@ -1,0 +1,10 @@
+doc/
+examples/
+src/MischiefCollective/ColorJizz/
+tests/unit/
+.gitignore
+README.md
+build.xml
+composer.json
+phpdox.xml
+phpunit.xml.dist

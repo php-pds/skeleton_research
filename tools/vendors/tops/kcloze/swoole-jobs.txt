@@ -1,0 +1,10 @@
+log/
+src/
+test/
+.gitignore
+README.md
+composer.json
+composer.lock
+demo.png
+jobs-archi.png
+server.sh

@@ -1,0 +1,12 @@
+API/
+Controller/
+DependencyInjection/
+Entity/
+Manager/
+Model/
+Resources/
+Tests/Controller/
+LICENSE
+MBGoogleContactV3ApiBundle.php
+composer.json
+composer.lock

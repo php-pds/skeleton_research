@@ -1,0 +1,6 @@
+Documentation/
+Examples/
+Package/reCaptcha/
+COPYING
+README.md
+composer.json

@@ -1,0 +1,14 @@
+src/JK/RestServer/
+tests/
+.codeclimate.yml
+.gitattributes
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml
+sami_config.php
+sample-apache.htaccess
+sample-nginx.conf

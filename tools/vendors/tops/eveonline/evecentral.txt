@@ -1,0 +1,5 @@
+src/Eveonline/EveCentral/
+vendor/
+.gitignore
+composer.json
+composer.lock

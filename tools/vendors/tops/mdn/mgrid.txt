@@ -1,0 +1,7 @@
+doc/
+lib/Mgrid/
+CHANGES
+LICENSE
+README.md
+VERSION
+composer.json

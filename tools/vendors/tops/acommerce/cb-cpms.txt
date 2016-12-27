@@ -1,0 +1,7 @@
+src/
+tests/unit/
+.gitignore
+composer.json
+phpunit.xml
+readme.md
+wercker.yml

@@ -1,0 +1,14 @@
+Command/
+Controller/
+DependencyInjection/
+Resources/
+Sitemap/
+Tests/
+.gitattributes
+.gitignore
+.scrutinizer.yml
+.travis.yml
+DpnXmlSitemapBundle.php
+README.md
+composer.json
+phpunit.xml

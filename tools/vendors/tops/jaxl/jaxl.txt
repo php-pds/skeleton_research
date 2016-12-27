@@ -1,0 +1,12 @@
+docs/
+examples/
+src/JAXL/
+tests/
+.gitignore
+CHANGES.md
+LICENSE
+README.md
+composer.json
+jaxlctl
+phpcs.xml
+phpunit.xml.dist

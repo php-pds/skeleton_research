@@ -1,0 +1,6 @@
+examples/
+src/api/
+.gitignore
+README.md
+VERSION
+composer.json

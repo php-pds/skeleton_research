@@ -1,0 +1,13 @@
+Command/
+Controller/
+DependencyInjection/
+Entity/
+Event/
+Form/
+Manager/
+Model/
+Resources/
+Security/
+Tests/Controller/
+SoipoOkentoUserBundle.php
+composer.json

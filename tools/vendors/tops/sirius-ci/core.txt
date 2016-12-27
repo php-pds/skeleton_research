@@ -1,0 +1,12 @@
+admin/
+application/
+config/
+public/
+sirius/
+system/
+.gitignore
+.htaccess
+LICENSE
+README.md
+composer.json
+index.php

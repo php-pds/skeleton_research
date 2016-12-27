@@ -1,0 +1,13 @@
+assets/
+lib/
+test/
+.gitignore
+.hgtags
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+index.php
+phpunit.xml
+util.php

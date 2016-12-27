@@ -1,0 +1,7 @@
+assets/
+controllers/
+KindEditorAsset.php
+KindEditorWidget.php
+LICENSE
+README.md
+composer.json

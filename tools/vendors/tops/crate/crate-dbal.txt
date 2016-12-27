@@ -1,0 +1,16 @@
+devtools/
+docs/
+src/Crate/DBAL/
+test/Crate/Test/DBAL/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+AUTHORS.rst
+CHANGES.txt
+DEVELOP.rst
+LICENSE
+README.rst
+Vagrantfile
+composer.json
+phpunit.xml.dist
+provisioning.sh

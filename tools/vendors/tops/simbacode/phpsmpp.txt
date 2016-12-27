@@ -1,0 +1,5 @@
+nbproject/
+src/PHPSMPP/
+.gitignore
+README.md
+composer.json

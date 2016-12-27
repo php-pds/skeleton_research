@@ -1,0 +1,12 @@
+Core/
+Tests/
+_bin/
+.gitignore
+.gitlab-ci.yml
+.travis.yml
+LICENCE.md
+README.md
+autoload.php
+composer.json
+composer.lock
+phpunit.xml.dist

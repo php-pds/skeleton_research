@@ -1,0 +1,10 @@
+Annotations/
+Command/
+DependencyInjection/
+Manager/
+Provider/
+Resources/config/
+LICENSE
+README.md
+WanadevSeoBundle.php
+composer.json

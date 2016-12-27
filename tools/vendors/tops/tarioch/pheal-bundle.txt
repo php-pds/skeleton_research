@@ -1,0 +1,6 @@
+DependencyInjection/
+.gitignore
+LICENSE
+README.md
+TariochPhealBundle.php
+composer.json

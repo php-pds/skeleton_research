@@ -1,0 +1,5 @@
+src/Jondeaves/Flasher/
+tests/
+README.md
+composer.json
+phpunit.xml

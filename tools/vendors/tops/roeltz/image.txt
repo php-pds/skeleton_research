@@ -1,0 +1,4 @@
+src/Roeltz/Image/
+.gitattributes
+.gitignore
+composer.json

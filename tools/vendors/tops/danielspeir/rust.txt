@@ -1,0 +1,7 @@
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+Rust.php
+composer.json

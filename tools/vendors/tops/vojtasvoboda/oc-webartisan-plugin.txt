@@ -1,0 +1,12 @@
+assets/images/
+classes/
+config/
+models/
+updates/
+.gitignore
+LICENSE
+Plugin.php
+README.md
+composer.json
+composer.lock
+routes.php

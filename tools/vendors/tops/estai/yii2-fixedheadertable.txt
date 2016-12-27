@@ -1,0 +1,4 @@
+assets/
+JFixedHeaderTableWidget.php
+README.md
+composer.json

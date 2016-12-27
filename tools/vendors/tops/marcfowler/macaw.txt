@@ -1,0 +1,5 @@
+config/
+LICENSE.md
+Macaw.php
+README.md
+composer.json

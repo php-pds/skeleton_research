@@ -1,0 +1,6 @@
+config/
+src/Fiftytwo/Edex/
+.gitignore
+LICENSE
+composer.json
+readme.md

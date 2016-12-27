@@ -1,0 +1,8 @@
+api/
+envato_setup/
+.gitattributes
+Gruntfile.js
+LICENSE.md
+README.md
+composer.json
+package.json

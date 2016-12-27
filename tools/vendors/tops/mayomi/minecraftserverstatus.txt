@@ -1,0 +1,11 @@
+css/
+img/
+js/
+src/
+.gitignore
+LICENSE
+README.md
+composer.json
+config.php
+example.php
+index.php

@@ -1,0 +1,15 @@
+config/
+development/
+doc/
+module/
+ocsinventory/
+public/
+tools/
+user_config/
+.gitignore
+CHANGELOG.txt
+COPYING
+INSTALL.md
+README.md
+composer.json
+composer.lock

@@ -1,0 +1,3 @@
+app/locale/fr_FR/
+composer.json
+modman

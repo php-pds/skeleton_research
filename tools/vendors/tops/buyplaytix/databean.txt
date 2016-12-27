@@ -1,0 +1,9 @@
+.settings/
+BuyPlayTix/DataBean/
+.buildpath
+.gitignore
+.project
+LICENSE
+README.md
+composer.json
+composer.lock

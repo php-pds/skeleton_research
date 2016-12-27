@@ -1,0 +1,15 @@
+bin/
+docs/
+src/
+tests/
+.gitignore
+.travis.yml
+CHANGES.md
+LICENSE
+README.md
+TODOS.md
+build.properties
+build.xml
+composer.json
+docblox.xml
+phpunit.xml.dist

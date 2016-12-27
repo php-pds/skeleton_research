@@ -1,0 +1,9 @@
+src/Para/
+tests/Para/Tests/
+.gitignore
+LICENSE
+README.md
+composer.json
+deploy.sh
+index.php
+phpunit.xml.dist

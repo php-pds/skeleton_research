@@ -1,0 +1,13 @@
+bin/
+config/
+src/
+templates/
+tests/
+web/
+.gitignore
+.travis.yml
+LICENSE.txt
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

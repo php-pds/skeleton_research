@@ -1,0 +1,8 @@
+Sample/
+.gitignore
+.travis.yml
+Convert.php
+LICENSE
+README.md
+Validator.php
+composer.json

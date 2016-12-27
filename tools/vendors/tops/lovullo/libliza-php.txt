@@ -1,0 +1,11 @@
+build-aux/
+doc/diagrams/
+src/
+test/
+.gitignore
+COPYING
+COPYING.CCBYSA
+README.md
+build.xml
+composer.json
+composer.lock

@@ -1,0 +1,12 @@
+examples/
+lib/
+tests/
+.coveralls.yml
+.gitignore
+.travis.yml
+COPYING
+Makefile
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

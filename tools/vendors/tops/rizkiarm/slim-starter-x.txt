@@ -1,0 +1,12 @@
+app/
+public/
+src/
+.gitignore
+Boxfile
+Boxfile.install
+LICENSE
+README.md
+composer.json
+composer.lock
+phinx
+phinx.php

@@ -1,0 +1,8 @@
+DependencyInjection/
+Resources/config/
+Services/
+.gitignore
+LICENSE
+MattvickHarvestAppBundle.php
+README.md
+composer.json

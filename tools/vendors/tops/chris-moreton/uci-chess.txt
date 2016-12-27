@@ -1,0 +1,15 @@
+engines/
+reports/
+src/Netsensia/Uci/
+.gitignore
+Flux.ini
+README.md
+aws.json.dist
+composer.json
+composer.lock
+composer.phar
+create_db.php
+quick.php
+server.php
+single.php
+test.php

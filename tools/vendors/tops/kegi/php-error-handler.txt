@@ -1,0 +1,7 @@
+docs/
+src/PhpErrorHandler/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock

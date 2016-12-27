@@ -1,0 +1,7 @@
+.gitattributes
+LICENSE.md
+NotyAsset.php
+NotyWidget.php
+README.md
+composer.json
+composer.lock

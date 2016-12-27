@@ -1,0 +1,5 @@
+Classes/Hfrahmann/ConsoleLogging/
+Configuration/
+LICENSE
+README.md
+composer.json

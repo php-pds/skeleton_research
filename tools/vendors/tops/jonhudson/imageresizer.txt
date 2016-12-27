@@ -1,0 +1,6 @@
+src/
+tests/JonHudson/ImageResizer/
+.gitignore
+README.md
+composer.json
+phpunit.xml

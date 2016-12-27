@@ -1,0 +1,7 @@
+src/Nahk/PDO/
+.gitignore
+LICENSE
+README.md
+autoload.php.dist
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,4 @@
+examples/
+ProgressBar.php
+README.md
+composer.json

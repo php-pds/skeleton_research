@@ -1,0 +1,14 @@
+.travis/
+build/
+src/
+tests/
+.codeclimate.yml
+.coveralls.yml
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+gulpfile.js
+package.json
+phpunit.xml

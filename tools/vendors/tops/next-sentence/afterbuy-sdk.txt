@@ -1,0 +1,6 @@
+examples/
+src/Ns/Afterbuy/
+.gitignore
+README.md
+composer.json
+composer.lock

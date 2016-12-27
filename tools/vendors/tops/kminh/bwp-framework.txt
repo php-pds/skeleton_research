@@ -1,0 +1,13 @@
+assets/option-page/
+bin/
+src/
+tests/
+.gitignore
+Gruntfile.js
+autoload.php
+bower.json
+composer.json
+composer.lock
+package.json
+phpunit.xml.dist
+phpunit_php52.xml

@@ -1,0 +1,10 @@
+Core/
+DependencyInjection/
+Resources/
+Services/
+Tests/Core/Classes/
+.gitignore
+LICENSE
+README.md
+ScreamzSecureDownloadBundle.php
+composer.json

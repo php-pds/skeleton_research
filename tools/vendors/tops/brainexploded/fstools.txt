@@ -1,0 +1,5 @@
+.gitignore
+FSTraverser.php
+FSUtil.php
+README.md
+composer.json

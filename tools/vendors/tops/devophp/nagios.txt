@@ -1,0 +1,7 @@
+bin/
+src/Devophp/Component/Nagios/
+.gitignore
+LICENSE.md
+README.md
+composer.json
+composer.lock

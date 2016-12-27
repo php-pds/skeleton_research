@@ -1,0 +1,12 @@
+config/
+docs/
+src/
+tests/
+view/
+.gitignore
+.travis.yml
+LICENSE
+Module.php
+Readme.md
+composer.json
+phpunit.xml.dist

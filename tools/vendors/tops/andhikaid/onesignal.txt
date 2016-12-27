@@ -1,0 +1,3 @@
+src/OneSignal/
+README.md
+composer.json

@@ -1,0 +1,6 @@
+.gitignore
+LICENSE
+PlatesMailtoExtension.php
+PlatesSlimExtension.php
+README.md
+composer.json

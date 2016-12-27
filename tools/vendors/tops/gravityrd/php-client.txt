@@ -1,0 +1,7 @@
+GravityClient/
+PHPdoc/
+vendor/
+LICENSE
+README.md
+composer.json
+composer.lock

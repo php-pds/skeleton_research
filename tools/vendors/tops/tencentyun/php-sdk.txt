@@ -1,0 +1,10 @@
+.settings/
+Tencentyun/
+.buildpath
+.project
+LICENSE
+README.md
+composer.json
+include.php
+sample.php
+samplev2.php

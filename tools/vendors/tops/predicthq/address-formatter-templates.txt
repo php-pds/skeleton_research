@@ -1,0 +1,5 @@
+bin/
+conf/
+testcases/
+README.md
+composer.json

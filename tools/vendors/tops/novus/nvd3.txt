@@ -1,0 +1,16 @@
+build/
+examples/
+meteor/
+src/
+test/
+.gitignore
+.jshintrc
+.travis.yml
+GruntFile.js
+LICENSE.md
+README.md
+bower.json
+composer.json
+index.html
+package.js
+package.json

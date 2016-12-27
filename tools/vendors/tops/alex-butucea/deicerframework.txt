@@ -1,0 +1,8 @@
+build/
+src/Deicer/
+tests/
+.gitignore
+LICENSE.txt
+README.md
+build.xml
+composer.json

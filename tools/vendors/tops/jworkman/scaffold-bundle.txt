@@ -1,0 +1,9 @@
+Command/
+Controller/
+DependencyInjection/
+Generate/
+Resources/
+Tests/Controller/
+JWorkmanScaffoldBundle.php
+README.md
+composer.json

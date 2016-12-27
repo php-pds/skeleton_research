@@ -1,0 +1,10 @@
+src/
+tests/
+.drone.yml
+.gitattributes
+.gitignore
+.styleci.yml
+LICENSE.txt
+README.md
+composer.json
+phpunit.xml

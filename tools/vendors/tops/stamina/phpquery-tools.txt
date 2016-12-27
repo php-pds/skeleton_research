@@ -1,0 +1,7 @@
+Tests/
+doc/
+LICENSE
+LinksExtractor.php
+README.md
+Sanitizer.php
+composer.json

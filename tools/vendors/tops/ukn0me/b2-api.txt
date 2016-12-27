@@ -1,0 +1,6 @@
+examples/
+.gitignore
+LICENSE
+README.md
+b2_api.php
+composer.json

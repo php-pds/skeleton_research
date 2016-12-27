@@ -1,0 +1,7 @@
+js/
+.gitignore
+LICENSE
+README.md
+SelectMapLocationAssets.php
+SelectMapLocationWidget.php
+composer.json

@@ -1,0 +1,10 @@
+DependencyInjection/
+Resources/config/
+Tests/Functional/
+.gitignore
+.travis.yml
+DMRBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

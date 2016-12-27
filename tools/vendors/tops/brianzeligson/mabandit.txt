@@ -1,0 +1,7 @@
+src/MaBandit/
+test/MaBandit/
+vendor/
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

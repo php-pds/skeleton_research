@@ -1,0 +1,13 @@
+Configuration/
+Event/
+File/
+Filter/
+Task/
+Tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

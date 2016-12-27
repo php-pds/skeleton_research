@@ -1,0 +1,16 @@
+docs/
+lib/
+out/artifacts/Kushki/
+pipeline/
+tests/
+.gitattributes
+.gitignore
+LICENSE.txt
+README.md
+autoload.php
+composer.json
+composer.lock
+phpunit.xml
+runInt.sh
+runTest.sh
+runUnit.sh

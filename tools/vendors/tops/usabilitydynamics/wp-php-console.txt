@@ -1,0 +1,15 @@
+languages/
+lib/
+vendor/
+.gitattributes
+.gitignore
+.gitmodules
+ChangeLog.md
+LICENSE.txt
+README.md
+README.txt
+composer.json
+composer.lock
+index.php
+uninstall.php
+wp-php-console.php

@@ -1,0 +1,6 @@
+src/BigQuery/Handler/
+.gitignore
+LICENSE.txt
+README.md
+bigquery-table-template.csv
+composer.json

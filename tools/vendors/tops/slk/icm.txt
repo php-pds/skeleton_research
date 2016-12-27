@@ -1,0 +1,4 @@
+docs/
+src/Slk/View/
+README.md
+composer.json

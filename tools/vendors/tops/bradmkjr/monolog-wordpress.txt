@@ -1,0 +1,5 @@
+src/WordPressHandler/
+.gitignore
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,16 @@
+DependencyInjection/
+Resources/config/
+Tests/
+Validator/
+.gitignore
+.travis.yml
+Client.php
+Exception.php
+InsigAWSBundle.php
+ItemLookupRequest.php
+LICENSE
+README.md
+Request.php
+Response.php
+composer.json
+phpunit.xml.dist

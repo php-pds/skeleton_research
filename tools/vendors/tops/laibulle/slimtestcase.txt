@@ -1,0 +1,8 @@
+src/SlimTestCase/
+.gitignore
+CHANGELOG.md
+LICENSE
+README.md
+composer.json
+composer.lock
+test.php

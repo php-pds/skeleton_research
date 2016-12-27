@@ -1,0 +1,7 @@
+demos/
+library/ZFDebug/Controller/Plugin/
+web/images/debugbar/
+.gitignore
+README.md
+composer.json
+license.txt

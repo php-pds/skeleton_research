@@ -1,0 +1,6 @@
+.gitignore
+LICENSE
+PHPArray.php
+README.md
+composer.json
+demo.php

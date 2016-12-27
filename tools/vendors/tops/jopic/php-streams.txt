@@ -1,0 +1,8 @@
+src/Jopic/
+tests/
+.gitignore
+.travis.yml
+composer.json
+phpdoc.dist.xml
+phpunit.xml
+readme.md

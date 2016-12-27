@@ -1,0 +1,11 @@
+assets/js/
+includes/
+languages/
+.editorconfig
+.gitignore
+Gruntfile.js
+README.md
+composer.json
+package.json
+readme.txt
+woocommerce-google-analytics-integration.php

@@ -1,0 +1,10 @@
+kana/
+price/
+region/
+.gitignore
+LICENSE_AFL.txt
+LICENSE_OSL.txt
+README.md
+composer.json
+modman
+registration.php

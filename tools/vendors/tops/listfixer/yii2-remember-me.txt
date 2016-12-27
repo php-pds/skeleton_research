@@ -1,0 +1,6 @@
+migrations/
+models/
+LICENSE
+README.md
+RememberMe.php
+composer.json

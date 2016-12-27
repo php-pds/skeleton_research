@@ -1,0 +1,12 @@
+bindings/tcpdf/
+docs/
+examples/
+lib/
+tools/
+CHANGELOG.md
+INSTALL.md
+LICENSE
+README.md
+VERSION
+composer.json
+index.php

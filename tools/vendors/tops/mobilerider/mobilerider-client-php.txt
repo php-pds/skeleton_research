@@ -1,0 +1,10 @@
+docs/
+lib/Mr/
+tests/Mr/
+.gitignore
+.travis.yml
+README.md
+composer.json
+coverage-checker.php
+phpunit.xml
+settings.ini

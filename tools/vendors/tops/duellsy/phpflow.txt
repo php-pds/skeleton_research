@@ -1,0 +1,6 @@
+examples/
+src/Flim/PHPFlow/
+.gitignore
+Licence.md
+README.md
+composer.json

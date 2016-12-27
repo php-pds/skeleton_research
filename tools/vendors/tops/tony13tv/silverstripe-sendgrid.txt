@@ -1,0 +1,9 @@
+code/
+test/
+.gitattributes
+.gitignore
+.scrutinizer.yml
+MIT.LICENSE
+README.md
+_config.php
+composer.json

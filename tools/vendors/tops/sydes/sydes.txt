@@ -1,0 +1,15 @@
+app/
+system/
+themes/default/
+upload/
+vendor/
+.gitattributes
+.gitignore
+.htaccess
+LICENSE
+README.md
+check.php
+composer.json
+composer.lock
+favicon.ico
+index.php

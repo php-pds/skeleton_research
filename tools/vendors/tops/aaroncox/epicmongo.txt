@@ -1,0 +1,11 @@
+Mongo/
+examples/
+tests/
+.gitignore
+Mongo.php
+README.md
+build.xml
+composer.json
+grunt.js
+phpunit.xml
+start.php

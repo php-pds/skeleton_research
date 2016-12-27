@@ -1,0 +1,10 @@
+Helper/
+Model/
+Setup/
+etc/
+i18n/
+view/frontend/
+LICENSE.md
+README.md
+composer.json
+registration.php

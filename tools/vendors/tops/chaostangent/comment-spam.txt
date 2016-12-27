@@ -1,0 +1,7 @@
+docs/
+src/ChaosTangent/CommentSpam/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json

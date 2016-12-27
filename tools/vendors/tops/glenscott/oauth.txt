@@ -1,0 +1,12 @@
+doc/
+example/
+src/
+tests/
+.gitignore
+CHANGELOG.txt
+LICENSE.txt
+OAuthTests.xml
+OAuth_TestServer.php
+README.rst
+composer.json
+phpunit.xml

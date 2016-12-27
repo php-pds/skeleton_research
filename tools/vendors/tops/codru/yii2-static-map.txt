@@ -1,0 +1,11 @@
+tests/
+types/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+MapType.php
+README.md
+StaticMap.php
+codeception.yml
+composer.json
+composer.lock

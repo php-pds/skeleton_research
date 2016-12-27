@@ -1,0 +1,13 @@
+app/
+docs/
+src/
+tests/
+views/
+web/
+.gitattributes
+.gitignore
+LICENSE
+README.md
+bootstrap.php
+composer.json
+composer.lock

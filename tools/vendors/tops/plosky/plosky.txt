@@ -1,0 +1,7 @@
+examples/
+src/Plosky/
+tests/
+.gitignore
+LICENSE.MD
+README.md
+composer.json

@@ -1,0 +1,10 @@
+src/BitcoinPHP/
+.gitignore
+.travis.yml
+README.md
+benchmark.php
+composer.json
+composer.lock
+phpconfig.ini
+phpunit.xml
+test.php

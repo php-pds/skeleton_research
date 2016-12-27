@@ -1,0 +1,15 @@
+bin/
+data/
+demos/
+src/bnetlib/
+tests/
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+UPGRADE.md
+autoload_classmap.php
+autoload_function.php
+autoload_register.php
+composer.json

@@ -1,0 +1,8 @@
+docs/
+.gitignore
+ErrorHandler.php
+JsonResponseParser.php
+Query.php
+ResponseHandlerInterface.php
+composer.json
+readme.md

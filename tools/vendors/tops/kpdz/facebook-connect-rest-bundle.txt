@@ -1,0 +1,10 @@
+DataManager/
+DependencyInjection/
+Doctrine/
+Model/
+Resources/
+Security/
+Tests/Controller/
+FacebookConnectRestBundle.php
+README.md
+composer.json

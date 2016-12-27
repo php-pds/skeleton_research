@@ -1,0 +1,6 @@
+Exceptiontrap/
+Services/
+.gitignore
+Exceptiontrap.php
+README.md
+composer.json

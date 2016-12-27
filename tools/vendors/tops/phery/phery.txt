@@ -1,0 +1,12 @@
+docs/
+src/Phery/
+.npmignore
+CHANGELOG.md
+LICENSE
+README.md
+bower.json
+composer.json
+demo.php
+package.json
+phery.jquery.json
+phery.js

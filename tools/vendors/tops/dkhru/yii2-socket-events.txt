@@ -1,0 +1,11 @@
+js/
+nodejs/
+.gitignore
+EventSE.php
+README.md
+RegisterSEWidget.php
+SE.php
+SEAssets.php
+SeController.php
+SocketIoAssets.php
+composer.json

@@ -1,0 +1,9 @@
+spec/example/
+src/LLA/Dci/
+test/example/
+.gitignore
+CHANGELOG.md
+LICENSE
+README.md
+composer.json
+phpspec.yml

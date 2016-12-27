@@ -1,0 +1,8 @@
+DependencyInjection/
+Handler/
+Listener/
+Resources/config/
+.gitignore
+KejwmenWhoopsBundle.php
+README.md
+composer.json

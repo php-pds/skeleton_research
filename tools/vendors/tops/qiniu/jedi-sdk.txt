@@ -1,0 +1,6 @@
+examples/
+src/Jedi/
+.gitignore
+README.md
+autoload.php
+composer.json

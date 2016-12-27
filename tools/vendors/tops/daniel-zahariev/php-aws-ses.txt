@@ -1,0 +1,5 @@
+src/
+README.md
+README_old.md
+VERSION
+composer.json

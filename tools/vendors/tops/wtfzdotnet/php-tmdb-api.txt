@@ -1,0 +1,15 @@
+build/
+examples/
+lib/Tmdb/
+test/
+.codeclimate.yml
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+UPGRADE-2.0.md
+apikey.php.dist
+build.xml
+composer.json
+phpunit.xml.dist

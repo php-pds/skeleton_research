@@ -1,0 +1,9 @@
+example/
+src/Chochan/
+tests/Chochan/
+.coveralls.yml
+.travis.yml
+CHANGELOG.md
+README.md
+composer.json
+phpunit.xml

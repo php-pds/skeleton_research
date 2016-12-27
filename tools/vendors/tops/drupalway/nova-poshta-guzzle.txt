@@ -1,0 +1,10 @@
+src/
+test/
+.gitignore
+.pre-commit-config.yaml
+.shippable.yml
+LICENSE
+README.md
+composer.json
+debug.php
+phpunit.xml.dist

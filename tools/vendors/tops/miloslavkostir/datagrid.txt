@@ -1,0 +1,9 @@
+assets/
+localization/
+src/NiftyGrid/
+.gitignore
+LICENSE.md
+README.md
+composer.json
+manual.cs.md
+manual.en.md

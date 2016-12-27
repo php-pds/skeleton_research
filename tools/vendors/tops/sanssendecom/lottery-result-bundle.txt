@@ -1,0 +1,13 @@
+Adapter/
+Connection/
+Controller/
+DependencyInjection/
+Exception/
+Mapping/
+Resources/
+Service/
+Tests/Controller/
+LICENSE.md
+LotteryResultBundle.php
+README.md
+composer.json

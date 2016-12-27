@@ -1,0 +1,10 @@
+app/
+vagrant/
+web/
+.gitignore
+Capfile
+LICENSE
+README.md
+Vagrantfile
+build.xml
+composer.json

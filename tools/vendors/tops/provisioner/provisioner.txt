@@ -1,0 +1,16 @@
+endpoint/
+gui/
+includes/
+pkg_firmware/
+samples/
+servers/
+tests/
+.gitignore
+.gitmodules
+.travis.yml
+PROVISIONER_LICENSE.txt
+README.md
+autoload.php
+composer.json
+merge_data.php
+packager.php

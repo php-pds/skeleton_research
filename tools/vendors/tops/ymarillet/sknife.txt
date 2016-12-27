@@ -1,0 +1,7 @@
+doc/
+src/Fudge/Sknife/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json

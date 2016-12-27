@@ -1,0 +1,15 @@
+Encoder/
+Exception/
+Normalizer/
+Tests/
+.gitignore
+CHANGELOG.md
+LICENSE
+README.md
+Serializer.php
+SerializerAwareInterface.php
+SerializerInterface.php
+composer.json
+composer.phar
+phpunit.phar
+phpunit.xml.dist

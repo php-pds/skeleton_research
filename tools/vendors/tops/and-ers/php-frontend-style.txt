@@ -1,0 +1,3 @@
+lib/PhpFrontendStyle/
+README.md
+composer.json

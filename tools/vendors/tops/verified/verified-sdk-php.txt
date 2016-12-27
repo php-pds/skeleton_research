@@ -1,0 +1,8 @@
+lib/
+tests/
+.gitattributes
+.gitignore
+.travis.yml
+README.md
+codeception.yml
+composer.json

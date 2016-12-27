@@ -1,0 +1,6 @@
+nbproject/
+src/CodeDatabase/
+tests/
+composer.json
+phpunit.xml
+readme.md

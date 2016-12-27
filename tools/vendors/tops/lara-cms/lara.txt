@@ -1,0 +1,9 @@
+config/
+nbproject/
+public/
+src/
+views/
+.gitignore
+LICENSE
+composer.json
+routes.php

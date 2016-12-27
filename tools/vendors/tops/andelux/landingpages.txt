@@ -1,0 +1,12 @@
+app/default/
+etc/
+src/LandingPages/
+var/
+.gitignore
+.htaccess
+LICENSE
+README.md
+composer.json
+functions.php
+htaccess-example
+index.php

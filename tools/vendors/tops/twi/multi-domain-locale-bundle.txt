@@ -1,0 +1,12 @@
+DependencyInjection/
+EventListener/
+Resources/config/
+Service/
+Tests/
+.gitignore
+.travis.yml
+README.md
+TWIMultiDomainLocaleBundle.php
+composer.json
+config
+phpunit.xml.dist

@@ -1,0 +1,4 @@
+lib/PotterORM/
+.gitignore
+composer.json
+potter-orm.iml

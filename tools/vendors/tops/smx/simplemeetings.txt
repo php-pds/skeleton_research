@@ -1,0 +1,9 @@
+adapters/Smx/SimpleMeetings/
+apidocs/
+tests/
+.gitignore
+README.md
+SmxSimpleMeetings.php
+composer.json
+composer.lock
+composer.phar

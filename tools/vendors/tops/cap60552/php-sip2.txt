@@ -1,0 +1,4 @@
+doc/
+README.md
+composer.json
+sip2.class.php

@@ -1,0 +1,10 @@
+rtflex/
+tests/
+.gitignore
+.travis.yml
+AUTHORS
+LICENSE
+README.md
+composer.json
+phpunit.xml
+quality-report.sh

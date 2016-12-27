@@ -1,0 +1,7 @@
+Command/
+Generator/
+Resources/skeleton/
+CitraxExtraGeneratorBundle.php
+LICENSE
+README.md
+composer.json

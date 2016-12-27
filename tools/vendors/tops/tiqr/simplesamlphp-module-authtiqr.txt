@@ -1,0 +1,12 @@
+config-templates/
+dictionaries/
+docs/
+ldap/
+lib/
+templates/
+www/
+.gitignore
+LICENSE
+README.md
+composer.json
+default-enable

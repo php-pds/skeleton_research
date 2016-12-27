@@ -1,0 +1,6 @@
+src/Stackify/
+.gitattributes
+.gitignore
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,12 @@
+Exception/
+lib/PhilKershaw/GooglePlaces/
+tests/
+.gitattributes
+.gitignore
+CHANGELOG.md
+CONDUCT.md
+CONTRIBUTING.md
+LICENSE.md
+README.md
+composer.json
+phpunit.xml.dist

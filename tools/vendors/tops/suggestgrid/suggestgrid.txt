@@ -1,0 +1,8 @@
+spec/
+src/
+.gitignore
+API.md
+LICENSE
+README.md
+circle.yml
+composer.json

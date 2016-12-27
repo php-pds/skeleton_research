@@ -1,0 +1,16 @@
+examples/
+internals/
+.gitignore
+LICENSE
+README.md
+addtrustexternalcaroot.crt
+command_classes.php
+composer.json
+connection.class.php
+cps_api.php
+cps_simple.php
+create_package
+exception.class.php
+generate_docs
+request.class.php
+response.class.php

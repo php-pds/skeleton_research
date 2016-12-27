@@ -1,0 +1,11 @@
+config/
+samples/
+src/
+templates/
+views/common/
+.gitignore
+LICENSE
+README.md
+Upgrade_Guide.md
+composer.json
+installation.md

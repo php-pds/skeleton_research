@@ -1,0 +1,12 @@
+Command/
+DataTable/
+DependencyInjection/
+Generator/
+Resources/
+Twig/
+.gitattributes
+.gitignore
+CHANGELOG.md
+README.md
+WgUniversalDataTableBundle.php
+composer.json

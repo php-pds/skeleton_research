@@ -1,0 +1,5 @@
+classes/
+conf/
+templates/
+composer.json
+xv-planeta.php

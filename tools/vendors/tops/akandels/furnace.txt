@@ -1,0 +1,13 @@
+config/
+js/
+public/
+sass/
+scripts/
+src/Furnace/
+view/
+.gitignore
+Module.php
+README.md
+autoload_classmap.php
+build.xml
+composer.json

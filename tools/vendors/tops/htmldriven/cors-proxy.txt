@@ -1,0 +1,11 @@
+app/
+docs/en/
+src/
+tests/
+www/
+.gitattributes
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json

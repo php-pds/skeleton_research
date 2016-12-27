@@ -1,0 +1,6 @@
+DependencyInjection/
+Resources/
+.gitignore
+DoctrinePostgresTypesBundle.php
+README.md
+composer.json

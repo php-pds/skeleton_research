@@ -1,0 +1,7 @@
+.idea/
+.gitignore
+README.md
+app.php
+composer.json
+index.php
+new.php

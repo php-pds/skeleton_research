@@ -1,0 +1,10 @@
+doc/
+nbproject/
+src/Sesser/Slogger/
+tests/
+.gitignore
+.travis.yml
+README.md
+apigen.neon
+composer.json
+phpunit.xml

@@ -1,0 +1,11 @@
+Controller/Adminhtml/Index/
+Model/
+Setup/
+Ui/
+etc/
+view/adminhtml/
+.gitignore
+LICENSE
+README.md
+composer.json
+registration.php

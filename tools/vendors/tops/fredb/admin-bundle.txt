@@ -1,0 +1,17 @@
+Annotations/
+Controller/
+DependencyInjection/
+Doc/
+Dummy/
+Entity/
+Repository/
+Resources/
+Services/
+Tests/
+vendor/
+.gitignore
+.travis.yml
+FredbAdminBundle.php
+README.md
+composer.json
+phpunit.xml.dist

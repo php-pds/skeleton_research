@@ -1,0 +1,13 @@
+content/
+css/
+.editorconfig
+.gitignore
+LICENSE.md
+Procfile
+README.md
+composer.json
+composer.lock
+config.php
+config.yml
+index.php
+phpcs.xml

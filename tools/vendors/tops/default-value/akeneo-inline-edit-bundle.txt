@@ -1,0 +1,9 @@
+Controller/
+DependencyInjection/
+Product/
+Resources/
+Updater/
+.gitignore
+DefaultValueAkeneoInlineEditBundle.php
+README.md
+composer.json

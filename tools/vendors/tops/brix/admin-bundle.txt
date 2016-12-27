@@ -1,0 +1,8 @@
+Controller/
+DependencyInjection/
+Listener/
+Resources/
+Tests/Controller/
+BrixAdminBundle.php
+README.md
+composer.json

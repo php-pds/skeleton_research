@@ -1,0 +1,10 @@
+bin/
+lib/Nife/
+logo/
+project-template/
+test/Nife/
+.gitignore
+.travis.yml
+Makefile
+README.md
+composer.json

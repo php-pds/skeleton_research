@@ -1,0 +1,3 @@
+lib/SimpleHtmlDom/
+README.md
+composer.json

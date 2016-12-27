@@ -1,0 +1,8 @@
+Command/
+DependencyInjection/
+Resources/config/
+Service/
+LICENSE
+ObjRefExampleBundle.php
+README.md
+composer.json

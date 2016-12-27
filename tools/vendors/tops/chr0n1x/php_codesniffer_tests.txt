@@ -1,0 +1,6 @@
+.gitattributes
+.gitignore
+.travis.yml
+AbstractSniffUnitTest.php
+README.md
+composer.json

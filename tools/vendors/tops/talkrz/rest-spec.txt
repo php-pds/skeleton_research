@@ -1,0 +1,8 @@
+bin/
+spec/RestSpec/
+src/RestSpec/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json

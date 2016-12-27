@@ -1,0 +1,6 @@
+classes/
+.gitignore
+README.md
+composer.json
+license.txt
+wp-background-processing.php

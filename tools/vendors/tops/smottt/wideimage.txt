@@ -1,0 +1,12 @@
+demo/
+lib/
+test/
+.gitignore
+LICENSE
+README
+build.xml
+composer.json
+gpl.txt
+lgpl.txt
+phpcs-ruleset.xml
+phpunit.xml

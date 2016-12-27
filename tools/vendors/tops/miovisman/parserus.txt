@@ -1,0 +1,8 @@
+examples/
+tests/
+.travis.yml
+LICENSE
+Parserus.php
+README.md
+composer.json
+phpunit.xml.dist

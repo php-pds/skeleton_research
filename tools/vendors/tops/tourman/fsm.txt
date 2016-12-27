@@ -1,0 +1,7 @@
+examples/Text/
+src/
+tests/
+.gitignore
+CHANGELOG.md
+LICENSE
+composer.json

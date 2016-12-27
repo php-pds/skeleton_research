@@ -1,0 +1,9 @@
+bin/
+config/
+src/DoctrineMongoODMDatafixture/
+.gitignore
+LICENSE.txt
+README.md
+_config.yml
+composer.json
+module.php

@@ -1,0 +1,6 @@
+src/Gandalf/
+tests/
+.gitignore
+.travis.yml
+README.md
+composer.json

@@ -1,0 +1,11 @@
+src/
+test/
+view/feed/
+webroot/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+autoloader.php
+composer.json

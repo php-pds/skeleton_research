@@ -1,0 +1,13 @@
+Examples/
+Resources/
+assets/
+development/
+src/ImageCrud/
+.gitignore
+README.md
+change_log.txt
+composer.json
+examples_database.sql
+license-gpl3.txt
+license-image-crud.txt
+license-mit.txt

@@ -1,0 +1,6 @@
+.buildpath
+.project
+README.md
+composer.json
+composer.lock
+newfile.php

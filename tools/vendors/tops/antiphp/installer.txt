@@ -1,0 +1,5 @@
+bin/
+src/Antiphp/Installer/
+.gitignore
+README.md
+composer.json

@@ -1,0 +1,8 @@
+config/
+docs/
+src/STSynchronize/
+tests/
+LICENSE
+Module.php
+README.md
+composer.json

@@ -1,0 +1,6 @@
+Manager/
+Utility/
+example/
+MY_Model.php
+README.md
+composer.json

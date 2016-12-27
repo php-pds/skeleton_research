@@ -1,0 +1,8 @@
+bin/
+src/Matsubo/GrowthForecast/Client/
+.gitignore
+.gitmodules
+README.md
+composer.json
+composer.lock
+composer.phar

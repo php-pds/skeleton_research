@@ -1,0 +1,9 @@
+githooks/
+phpcs/Iadvize/
+phpmd/
+.gitignore
+Dockerfile
+GitHook.php
+README.md
+composer.json
+composer.lock

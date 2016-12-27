@@ -1,0 +1,3 @@
+README
+Torrent.php
+composer.json

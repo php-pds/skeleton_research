@@ -1,0 +1,10 @@
+mvc/
+nbproject/
+public_/
+sistema/
+temporal/
+.htaccess
+LICENSE
+README.md
+composer.json
+index.php

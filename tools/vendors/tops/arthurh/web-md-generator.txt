@@ -1,0 +1,8 @@
+bin/
+jr/
+src/ArthurH/JrGenerator/
+LICENSE
+README.md
+composer.json
+footer.html
+options.yml

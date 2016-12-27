@@ -1,0 +1,6 @@
+DependencyInjection/
+Resources/
+Tests/angular/
+README.md
+UdfAngularJSBundle.php
+composer.json

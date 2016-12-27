@@ -1,0 +1,13 @@
+Rules/
+Team/
+Tests/
+Traits/
+.gitattributes
+.gitignore
+Character.php
+MapperAbstract.php
+PlayerSkill.php
+Stats.php
+Team.php
+composer.json
+phpunit.xml.dist

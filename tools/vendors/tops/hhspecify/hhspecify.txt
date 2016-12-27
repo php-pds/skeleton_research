@@ -1,0 +1,12 @@
+bin/
+example/
+spec/
+src/
+.editorconfig
+.hhconfig
+.travis.yml
+LICENSE
+README.md
+composer.json
+peridot.hh
+screen-shot.png

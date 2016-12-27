@@ -1,0 +1,3 @@
+Jquery/JqueryBundle/
+README.md
+composer.json

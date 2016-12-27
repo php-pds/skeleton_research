@@ -1,0 +1,4 @@
+src/SeatGeek/Sixpack/
+README
+README.md
+composer.json

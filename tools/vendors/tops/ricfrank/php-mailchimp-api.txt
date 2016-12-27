@@ -1,0 +1,4 @@
+src/Ricfrank/MailChimp/
+.gitignore
+README.md
+composer.json

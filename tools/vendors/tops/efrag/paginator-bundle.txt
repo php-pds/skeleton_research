@@ -1,0 +1,11 @@
+DependencyInjection/
+Resources/
+Service/
+Tests/
+.gitignore
+.travis.yml
+EfragPaginatorBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

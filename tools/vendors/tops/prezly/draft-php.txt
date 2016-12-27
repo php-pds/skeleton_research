@@ -1,0 +1,11 @@
+lib/
+tests/
+.editorconfig
+.gitignore
+LICENSE
+Makefile
+README.md
+composer.json
+composer.lock
+phpcs.xml
+phpunit.xml

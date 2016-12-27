@@ -1,0 +1,4 @@
+src/DesignerNews/
+LICENSE.txt
+README.md
+composer.json

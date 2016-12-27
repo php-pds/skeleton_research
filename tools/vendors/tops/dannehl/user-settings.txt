@@ -1,0 +1,4 @@
+src/UserSettings/
+LICENSE
+README.md
+composer.json

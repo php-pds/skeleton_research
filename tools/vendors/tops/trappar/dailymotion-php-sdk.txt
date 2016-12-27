@@ -1,0 +1,5 @@
+examples/
+src/Dailymotion/
+LICENSE
+README.md
+composer.json

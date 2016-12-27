@@ -1,0 +1,8 @@
+src/Basecamp/
+tests/
+.travis.yml
+LICENSE
+README.md
+composer.json
+generate-api-docs.php
+phpunit.xml.dist

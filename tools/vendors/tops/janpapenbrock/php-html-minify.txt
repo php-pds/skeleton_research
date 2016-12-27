@@ -1,0 +1,13 @@
+bin/
+docker/
+src/
+test/
+.dockerignore
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock
+dc-composer.yml
+dc-test.yml
+phpunit.xml.dist

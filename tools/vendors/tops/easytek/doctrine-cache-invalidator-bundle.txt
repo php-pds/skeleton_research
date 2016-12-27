@@ -1,0 +1,6 @@
+Cache/
+DependencyInjection/
+Resources/config/
+EasytekDoctrineCacheInvalidatorBundle.php
+README.md
+composer.json

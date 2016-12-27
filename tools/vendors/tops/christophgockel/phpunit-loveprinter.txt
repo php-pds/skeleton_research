@@ -1,0 +1,8 @@
+src/ChristophGockel/PHPUnit/
+tests/ChristophGockel/PHPUnit/
+.gitignore
+LICENSE
+README.md
+composer.json
+phpunit-loveprinter.gif
+phpunit.xml

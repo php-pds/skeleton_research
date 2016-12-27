@@ -1,0 +1,10 @@
+config/
+src/
+tests/
+.editorconfig
+.gitignore
+.scrutinizer.yml
+CHANGELOG.md
+LICENSE.txt
+README.md
+composer.json

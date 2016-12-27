@@ -1,0 +1,8 @@
+assets/
+.gitignore
+ImageUploadAction.php
+LICENSE
+README.md
+SmartImageField.php
+SmartImageFieldAsset.php
+composer.json

@@ -1,0 +1,6 @@
+wp-content/
+.gitignore
+composer.json
+composer.lock
+index.php
+wp-config.php

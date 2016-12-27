@@ -1,0 +1,7 @@
+Config/
+Console/Templates/Cakestrap/
+View/Themed/Cakestrap/
+.gitattributes
+.gitignore
+README.md
+composer.json

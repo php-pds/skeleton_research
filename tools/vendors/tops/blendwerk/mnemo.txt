@@ -1,0 +1,7 @@
+lib/Blendwerk/Mnemo/
+tests/
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

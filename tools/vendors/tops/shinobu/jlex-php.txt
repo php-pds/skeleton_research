@@ -1,0 +1,10 @@
+JLexPHP/
+.gitignore
+COPYING
+Makefile
+README
+c.lex
+composer.json
+jlex.php
+simple.lex
+test.php

@@ -1,0 +1,5 @@
+src/Att/Api/
+.gitignore
+README.md
+README.txt
+composer.json

@@ -1,0 +1,8 @@
+src/RattfieldNz/UrlValidation/
+tests/
+.gitignore
+.travis.yml
+LICENCE.md
+README.md
+composer.json
+phpunit.xml

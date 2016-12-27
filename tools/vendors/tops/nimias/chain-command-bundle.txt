@@ -1,0 +1,12 @@
+DependencyInjection/
+Exception/
+Helper/
+Resources/
+Service/
+Tests/
+.gitignore
+LICENSE
+NimiasChainCommandBundle.php
+README.md
+composer.json
+phpunit.xml.dist

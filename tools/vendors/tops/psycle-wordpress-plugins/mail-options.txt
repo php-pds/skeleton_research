@@ -1,0 +1,7 @@
+tests/
+.gitignore
+.travis.yml
+README.md
+composer.json
+psycle-mail.class.php
+psycle-mail.php

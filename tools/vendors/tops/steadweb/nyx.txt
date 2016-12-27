@@ -1,0 +1,15 @@
+build/
+src/
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+application.php
+box.json
+composer.json
+composer.lock
+nyx.json.dist
+nyx.phar
+phpunit.xml.dist

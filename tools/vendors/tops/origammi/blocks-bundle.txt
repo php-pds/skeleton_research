@@ -1,0 +1,15 @@
+Annotation/
+DependencyInjection/
+Entity/
+Exception/
+Form/
+Resources/
+Test/
+Util/
+.gitignore
+.travis.yml
+BlocksContainer.php
+OrigammiBlocksBundle.php
+README.md
+composer.json
+phpunit.xml.dist

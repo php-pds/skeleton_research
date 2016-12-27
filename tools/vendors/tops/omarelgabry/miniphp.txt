@@ -1,0 +1,9 @@
+_installation/
+app/
+public/
+.gitignore
+.htaccess
+.scrutinizer.yml
+LICENSE
+README.md
+composer.json

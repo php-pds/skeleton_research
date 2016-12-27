@@ -1,0 +1,5 @@
+src/Spolischook/GoogleCalendarBundle/
+.gitignore
+.travis.yml
+README.md
+composer.json

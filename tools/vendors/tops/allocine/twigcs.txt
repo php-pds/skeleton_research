@@ -1,0 +1,7 @@
+bin/
+src/Allocine/TwigLinter/
+.gitignore
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

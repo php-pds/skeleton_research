@@ -1,0 +1,11 @@
+Entity/
+Exception/
+Provider/
+Repository/
+Service/
+Tests/
+.gitignore
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

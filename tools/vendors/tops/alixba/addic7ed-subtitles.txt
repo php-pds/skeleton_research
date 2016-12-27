@@ -1,0 +1,10 @@
+app/
+bin/
+src/AlixBa/Addic7edSubtitles/
+test/AlixBa/Addic7edSubtitles/Helpers/
+.gitignore
+README.md
+composer.json
+composer.lock
+main.php
+phpunit.xml

@@ -1,0 +1,6 @@
+example/
+src/StephanGroen/Jotihunt/
+.gitignore
+LICENSE
+README.md
+composer.json

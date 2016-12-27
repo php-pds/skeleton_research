@@ -1,0 +1,7 @@
+Config/Schema/
+Controller/
+Model/
+.gitignore
+LICENSE
+README.md
+composer.json

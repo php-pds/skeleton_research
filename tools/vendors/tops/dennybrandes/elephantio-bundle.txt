@@ -1,0 +1,10 @@
+DependencyInjection/
+Service/
+Tests/Units/Service/
+.bootstrap.atoum.php
+.coke
+.gitignore
+.travis.yml
+NcElephantIOBundle.php
+README.md
+composer.json

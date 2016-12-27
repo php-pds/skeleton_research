@@ -1,0 +1,7 @@
+Assetic/
+DependencyInjection/
+Resources/config/
+LICENSE
+README.md
+SmurfyAsseticCssBundleImagesBundle.php
+composer.json

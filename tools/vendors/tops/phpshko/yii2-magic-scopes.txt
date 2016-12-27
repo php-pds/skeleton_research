@@ -1,0 +1,10 @@
+gii/model/
+tests/
+.gitignore
+Bootstrap.php
+CHANGELOG.md
+LICENSE
+MagicActiveQuery.php
+MagicScopesBehavior.php
+README.md
+composer.json

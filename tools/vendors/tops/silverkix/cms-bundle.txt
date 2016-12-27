@@ -1,0 +1,13 @@
+Controller/
+DataFixtures/ORM/
+DependencyInjection/
+Entity/
+Form/
+Resources/
+Tests/
+.gitignore
+.travis.yml
+README.md
+SilverkixCMSBundle.php
+composer.json
+phpunit.xml.dist

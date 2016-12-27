@@ -1,0 +1,5 @@
+assets/
+README.md
+Tree.php
+TreeAssets.php
+composer.json

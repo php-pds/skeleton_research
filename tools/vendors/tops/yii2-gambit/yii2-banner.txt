@@ -1,0 +1,8 @@
+example/
+views/
+.gitignore
+Helper.php
+README.md
+Rotator.php
+ShowBanner.php
+composer.json

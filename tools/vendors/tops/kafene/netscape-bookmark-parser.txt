@@ -1,0 +1,9 @@
+tests/
+.gitattributes
+.gitignore
+.travis.yml
+LICENSE
+Makefile
+NetscapeBookmarkParser.php
+README.md
+composer.json

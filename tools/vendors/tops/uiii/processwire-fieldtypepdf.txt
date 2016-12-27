@@ -1,0 +1,13 @@
+FieldtypePDF/
+test/
+.gitignore
+.travis.yml
+FieldtypePDF.module
+InputfieldPDF.css
+InputfieldPDF.module
+LICENSE
+README.md
+apigen.neon
+composer.json
+phpunit.xml
+pw-test.json.example

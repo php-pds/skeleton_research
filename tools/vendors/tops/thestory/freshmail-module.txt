@@ -1,0 +1,10 @@
+src/Freshmail/
+tests/FreshmailTest/
+.gitignore
+.travis.yml
+LICENSE
+Module.php
+README.md
+composer.json
+composer.lock
+phpunit.xml

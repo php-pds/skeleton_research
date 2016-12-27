@@ -1,0 +1,16 @@
+.idea/
+docs/
+lib/
+test/
+.gitignore
+.swagger-codegen-ignore
+.travis.yml
+LICENSE
+README.md
+autoload.php
+codegen-config.json
+composer.json
+generate.sh
+git_push.sh
+swagger-codegen-cli.jar
+swagger.json

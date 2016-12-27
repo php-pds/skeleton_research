@@ -1,0 +1,7 @@
+src/EventCentric/When/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json

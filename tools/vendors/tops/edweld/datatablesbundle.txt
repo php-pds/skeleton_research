@@ -1,0 +1,16 @@
+Command/
+Controller/
+DQL/
+Datatable/
+DependencyInjection/
+Generator/
+OptionsResolver/
+Resources/
+Tests/
+Twig/
+.gitattributes
+.travis.yml
+README.md
+SgDatatablesBundle.php
+composer.json
+phpunit.xml.dist

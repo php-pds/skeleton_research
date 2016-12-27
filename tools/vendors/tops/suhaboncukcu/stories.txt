@@ -1,0 +1,10 @@
+config/
+src/
+tests/
+vendor/
+webroot/
+.DS_Store
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

@@ -1,0 +1,7 @@
+examples/
+includes/
+js/reserve/
+.gitignore
+LICENSE
+README.md
+composer.json

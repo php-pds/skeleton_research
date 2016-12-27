@@ -1,0 +1,10 @@
+src/
+tests/
+.coveralls.yml
+.gitignore
+.travis.yml
+Makefile
+README.md
+Vagrantfile
+composer.json
+provision.sh

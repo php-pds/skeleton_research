@@ -1,0 +1,5 @@
+Plugin/CatalogUrlRewrite/Observer/
+etc/
+README.md
+composer.json
+registration.php

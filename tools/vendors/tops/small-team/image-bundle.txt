@@ -1,0 +1,14 @@
+DependencyInjection/
+Engines/
+EventListeners/
+Events/
+Model/
+Resources/config/
+Tests/
+.gitignore
+Events.php
+Image.php
+LICENSE
+README.md
+SmallTeamImageBundle.php
+composer.json

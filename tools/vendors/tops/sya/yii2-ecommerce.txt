@@ -1,0 +1,14 @@
+assets/css/
+components/
+controllers/
+helpers/
+messages/
+models/
+views/base/
+.gitignore
+Ecommerce.php
+EcommerceAssets.php
+LICENSE
+Module.php
+README.md
+composer.json

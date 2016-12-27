@@ -1,0 +1,8 @@
+design/
+modules/classlists/
+settings/
+translations/fre-FR/
+GPL
+README
+composer.json
+ezinfo.php

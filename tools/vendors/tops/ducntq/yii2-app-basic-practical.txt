@@ -1,0 +1,15 @@
+assets/
+css/
+protected/
+.bowerrc
+.gitignore
+LICENSE.md
+README.md
+composer.json
+favicon.ico
+index-test.php
+index.php
+requirements.php
+robots.txt
+yii
+yii.bat

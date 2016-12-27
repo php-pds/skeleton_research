@@ -1,0 +1,11 @@
+assets/
+messages/
+migrations/
+models/
+views/
+GalleryBehavior.php
+GalleryController.php
+GalleryManager.php
+build.sh
+composer.json
+readme.md

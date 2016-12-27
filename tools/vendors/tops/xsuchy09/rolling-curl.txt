@@ -1,0 +1,5 @@
+examples/
+src/RollingCurl/
+.gitignore
+README.md
+composer.json

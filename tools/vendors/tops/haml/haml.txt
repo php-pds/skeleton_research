@@ -1,0 +1,11 @@
+docs/
+examples/
+lib/MtHaml/
+test/
+.gitignore
+.travis.yml
+CHANGELOG
+LICENSE
+README.markdown
+composer.json
+phpunit.xml

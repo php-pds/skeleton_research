@@ -1,0 +1,14 @@
+Binary/Loader/
+Client/
+Command/
+DependencyInjection/
+Generator/
+Resources/config/
+SharedMemory/
+Utils/
+GarantFilePreviewGeneratorBundle.php
+Readme.md
+Readme.md~
+composer.json
+composer.json~
+composer.lock

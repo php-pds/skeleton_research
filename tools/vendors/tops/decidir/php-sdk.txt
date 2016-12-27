@@ -1,0 +1,6 @@
+Decidir/lib/
+resources/
+vendor/
+.gitignore
+README.md
+composer.json

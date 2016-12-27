@@ -1,0 +1,12 @@
+config/
+features/
+spec/Behat/GuzzleExtension/
+src/Behat/GuzzleExtension/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+behat.yml.dist
+composer.json
+phpspec.yml

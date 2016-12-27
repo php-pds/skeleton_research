@@ -1,0 +1,7 @@
+doc/
+src/SiteUpChecker/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock

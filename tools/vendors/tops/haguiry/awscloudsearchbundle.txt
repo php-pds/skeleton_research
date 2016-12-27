@@ -1,0 +1,6 @@
+DependencyInjection/
+Resources/
+Services/
+AWSCloudSearchBundle.php
+README.md
+composer.json

@@ -1,0 +1,7 @@
+src/Vagrus/Monolog/Handler/
+tests/Vagrus/Monolog/Handler/
+.gitignore
+LICENSE
+README.md
+composer.json
+phpunit.xml

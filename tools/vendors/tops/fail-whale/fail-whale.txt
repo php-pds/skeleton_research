@@ -1,0 +1,11 @@
+.idea/
+bin/
+src/
+web/
+.gitignore
+LICENSE
+README.md
+TODO.md
+composer.json
+composer.lock
+phpunit.xml

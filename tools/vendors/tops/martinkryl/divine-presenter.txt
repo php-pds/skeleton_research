@@ -1,0 +1,5 @@
+.gitignore
+Divine.php
+LICENSE
+README.md
+composer.json

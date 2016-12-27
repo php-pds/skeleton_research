@@ -1,0 +1,6 @@
+.gitignore
+README.md
+composer.json
+httpClient.php
+httpExample.php
+test.txt

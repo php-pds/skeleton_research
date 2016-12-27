@@ -1,0 +1,5 @@
+src/
+tests/
+CHANGELOG.md
+composer.json
+project.properties

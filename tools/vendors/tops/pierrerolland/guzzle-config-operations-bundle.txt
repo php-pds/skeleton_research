@@ -1,0 +1,13 @@
+DependencyInjection/
+Normalizer/
+Resources/config/
+spec/
+.gitignore
+.travis.yml
+GuzzleClient.php
+GuzzleClientFactory.php
+GuzzleConfigOperationsBundle.php
+LICENSE
+README.md
+composer.json
+phpspec.yml

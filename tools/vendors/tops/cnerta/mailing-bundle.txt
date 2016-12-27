@@ -1,0 +1,12 @@
+DependencyInjection/
+Mailing/
+Resources/config/
+Tests/
+.gitignore
+.travis.yml
+CnertaMailingBundle.php
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

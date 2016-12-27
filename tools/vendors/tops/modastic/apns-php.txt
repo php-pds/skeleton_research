@@ -1,0 +1,10 @@
+ApnsPHP/
+Objective-C Demo/
+.gitignore
+README.md
+composer.json
+sample_feedback.php
+sample_push.php
+sample_push_custom.php
+sample_push_many.php
+sample_server.php

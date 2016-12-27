@@ -1,0 +1,6 @@
+lib/ASK/XmlBuilder/
+tests/ASK/XmlBuilder/Tests/
+.gitignore
+README.md
+composer.json
+phpunit.xml

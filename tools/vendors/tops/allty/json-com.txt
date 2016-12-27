@@ -1,0 +1,8 @@
+lib/Allty/
+tests/lib/Allty/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

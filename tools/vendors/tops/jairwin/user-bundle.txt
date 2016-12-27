@@ -1,0 +1,13 @@
+Controller/
+DataFixtures/ORM/
+DependencyInjection/
+Entity/
+Form/Security/
+Repository/
+Resources/
+Tests/Controller/
+.gitignore
+JAIUserBundle.php
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,7 @@
+example/
+src/HunspellPHP/
+.gitignore
+LICENSE
+README.MD
+composer.json
+composer.lock

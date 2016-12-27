@@ -1,0 +1,9 @@
+examples/
+lib/
+.gitignore
+AUTHORS
+ChangeLog
+LICENSE
+README.md
+VERSION
+composer.json

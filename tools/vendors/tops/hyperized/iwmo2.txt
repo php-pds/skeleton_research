@@ -1,0 +1,12 @@
+docs/
+src/
+tests/Datatypes/Primitief/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+autoload.php
+composer.json
+demo.php
+jms.php
+phpunit.xml

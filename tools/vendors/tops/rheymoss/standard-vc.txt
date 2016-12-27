@@ -1,0 +1,7 @@
+app/
+assets/
+LICENSE
+README.md
+composer.json
+htaccess.txt
+index.php

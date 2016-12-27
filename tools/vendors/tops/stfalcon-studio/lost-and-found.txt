@@ -1,0 +1,15 @@
+app/
+features/
+src/
+web/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+Procfile
+README.md
+app.json
+behat.yml
+composer.json
+composer.lock
+console

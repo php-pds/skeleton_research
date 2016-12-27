@@ -1,0 +1,13 @@
+bin/
+build/
+doc/
+src/
+tests/
+.codeclimate.yml
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+composer.json
+phpdoc.xml

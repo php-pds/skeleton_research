@@ -1,0 +1,8 @@
+src/NeatCharts/
+.gitignore
+LICENSE.txt
+README.md
+composer.json
+composer.lock
+demo-as-image.php
+demo.php

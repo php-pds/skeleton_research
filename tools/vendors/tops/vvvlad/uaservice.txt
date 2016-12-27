@@ -1,0 +1,11 @@
+.settings/
+examples/
+nbproject/
+src/UAService/
+tests/UAService/
+.buildpath
+.gitignore
+.project
+.travis.yml
+README.md
+composer.json

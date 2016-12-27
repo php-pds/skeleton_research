@@ -1,0 +1,7 @@
+Assert/
+Command/
+FixtureLoader/
+Mocker/
+Symfony/
+Web/
+composer.json

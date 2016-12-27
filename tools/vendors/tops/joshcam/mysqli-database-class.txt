@@ -1,0 +1,9 @@
+tests/
+.gitattributes
+LICENSE
+MysqliDb.php
+composer.json
+dbObject.md
+dbObject.php
+index.php
+readme.md

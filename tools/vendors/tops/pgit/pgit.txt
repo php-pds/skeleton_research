@@ -1,0 +1,10 @@
+docs/
+pgit/
+tests/
+.travis.yml
+LICENSE
+README.md
+TODO.md
+autoload.php
+composer.json
+phpunit.xml

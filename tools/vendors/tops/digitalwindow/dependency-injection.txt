@@ -1,0 +1,9 @@
+src/Awin/DependencyInjection/
+tests/phpunit/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+autoload.php
+composer.json
+composer.lock

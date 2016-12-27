@@ -1,0 +1,15 @@
+Authentication/
+Examples/
+Exceptions/
+Proxies/
+Requests/
+Structures/
+Utilities/
+.gitignore
+Crackle.php
+Headers.php
+LICENSE
+README.md
+Requester.php
+Response.php
+composer.json

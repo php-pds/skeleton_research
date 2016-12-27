@@ -1,0 +1,14 @@
+Config/Schema/
+Console/Command/Task/
+Controller/
+Lib/
+Locale/
+Model/
+Test/
+Vendor/
+View/
+webroot/
+COPYING.GPL
+COPYING.LGPL
+README.markdown
+composer.json

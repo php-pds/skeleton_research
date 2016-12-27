@@ -1,0 +1,8 @@
+demo/
+src/
+tests/
+.gitignore
+LICENSE
+README.md
+autoloader.php
+composer.json

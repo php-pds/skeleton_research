@@ -1,0 +1,15 @@
+DependencyInjection/
+Exception/
+Intercession/
+Interfaces/
+Resources/
+Service/
+Tests/
+Traits/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+ThuataIntercessionBundle.php
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,15 @@
+config/
+data/cache/
+module/Application/
+public/
+test/
+.coveralls.yml
+.gitattributes
+.gitignore
+.php_cs
+.travis.yml
+LICENSE.txt
+README.md
+composer
+composer.json
+init_autoloader.php

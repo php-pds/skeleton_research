@@ -1,0 +1,8 @@
+Tests/
+.gitignore
+Config.php
+ConfigException.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

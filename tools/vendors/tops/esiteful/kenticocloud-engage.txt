@@ -1,0 +1,9 @@
+docs/
+examples/
+src/KenticoCloud/Engage/
+.gitignore
+LICENSE
+README.md
+composer.json
+favicon.ico
+index.php

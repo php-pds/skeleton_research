@@ -1,0 +1,4 @@
+src/PhalconRest/
+LICENSE
+README.md
+composer.json

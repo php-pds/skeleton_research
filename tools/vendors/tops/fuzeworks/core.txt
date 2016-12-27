@@ -1,0 +1,13 @@
+CI/
+src/
+tests/
+.gitattributes
+.gitignore
+.gitlab-ci.yml
+.htaccess
+.travis.yml
+CONTRIBUTING.md
+DCO
+LICENSE
+README.md
+composer.json

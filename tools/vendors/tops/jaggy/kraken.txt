@@ -1,0 +1,8 @@
+bin/
+spec/
+src/Jaggy/Kraken/
+.gitignore
+changelog.md
+composer.json
+phpspec.yml
+readme.md

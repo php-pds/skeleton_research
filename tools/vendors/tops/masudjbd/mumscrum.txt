@@ -1,0 +1,17 @@
+.settings/
+FitnessTracker/
+demo/
+diagrams/
+docs/
+src/
+.classpath
+.gitignore
+.project
+.springBeans
+.travis.yml
+README.md
+composer.json
+insur-leav-type.sql
+mumscrum-db-bak-latest.sql
+nb-configuration.xml
+pom.xml

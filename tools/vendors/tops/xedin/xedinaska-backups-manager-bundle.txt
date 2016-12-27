@@ -1,0 +1,4 @@
+Xedinaska/BackupsManagerBundle/
+.gitignore
+README.md
+composer.json

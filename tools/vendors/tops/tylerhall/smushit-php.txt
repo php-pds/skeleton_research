@@ -1,0 +1,3 @@
+README.markdown
+class.smushit.php
+composer.json

@@ -1,0 +1,11 @@
+Aggregation/
+Filter/
+Repository/
+Resources/config/
+Services/
+Twig/
+.gitignore
+LICENSE
+README.md
+SearchBundle.php
+composer.json

@@ -1,0 +1,6 @@
+examples/
+lib/TechShaker/
+LICENSE
+Makefile
+README.md
+composer.json

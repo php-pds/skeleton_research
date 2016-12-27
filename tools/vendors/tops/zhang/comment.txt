@@ -1,0 +1,7 @@
+changyan/
+duoshuo/
+xin/
+ActiveComment.php
+LICENSE
+README.md
+composer.json

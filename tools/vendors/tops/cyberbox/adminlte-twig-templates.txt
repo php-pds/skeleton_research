@@ -1,0 +1,6 @@
+layout/
+composer.json
+error.html.twig
+error_403.html.twig
+error_404.html.twig
+macro.html.twig

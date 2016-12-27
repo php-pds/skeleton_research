@@ -1,0 +1,9 @@
+spec/App/
+src/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock
+envvars.sh

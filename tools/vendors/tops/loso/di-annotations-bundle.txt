@@ -1,0 +1,10 @@
+DependencyInjection/
+Repository/
+Resources/
+Tests/
+.gitignore
+.travis.yml
+LosoDiAnnotationsBundle.php
+README.md
+composer.json
+vendors.php

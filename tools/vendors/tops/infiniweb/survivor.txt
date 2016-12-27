@@ -1,0 +1,7 @@
+Examples/
+src/
+vendor/
+README.md
+composer.json
+composer.lock
+composer.phar

@@ -1,0 +1,11 @@
+src/
+tests/
+.gitignore
+.travis.yml
+Dockerfile
+LICENSE.md
+README.md
+composer.json
+docker-compose.yml
+phpunit.xml.dist
+travis_config.ini

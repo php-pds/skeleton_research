@@ -1,0 +1,9 @@
+docs/
+images/
+samples/
+src/
+.gitignore
+README.md
+composer.json
+composer.phar
+licence.txt

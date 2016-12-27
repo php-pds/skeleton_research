@@ -1,0 +1,7 @@
+bin/
+src/Celso/Lopes/
+tests/Celso/Lopes/
+.gitignore
+README.md
+composer.json
+phpunit.xml

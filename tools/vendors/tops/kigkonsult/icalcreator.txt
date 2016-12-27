@@ -1,0 +1,6 @@
+docs/
+lib/
+README.txt
+composer.json
+iCalcreator.php
+releaseNotes-2.22

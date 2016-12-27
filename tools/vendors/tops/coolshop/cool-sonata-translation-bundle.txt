@@ -1,0 +1,16 @@
+Admin/
+Command/
+Config/Resource/
+Controller/
+DependencyInjection/
+Entity/
+Event/
+Manager/
+Repository/
+Resources/
+Translation/
+.gitignore
+CoolSonataTranslationBundle.php
+LICENSE
+README.md
+composer.json

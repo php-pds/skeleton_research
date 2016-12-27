@@ -1,0 +1,10 @@
+controllers/
+interfaces/
+widgets/
+.gitignore
+.htaccess
+AutoloadExample.php
+LICENSE
+Module.php
+README.md
+composer.json

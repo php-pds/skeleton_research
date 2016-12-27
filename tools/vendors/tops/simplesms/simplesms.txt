@@ -1,0 +1,6 @@
+cert/
+LICENSE
+README.md
+composer.json
+exceptions.php
+simplesms.php

@@ -1,0 +1,12 @@
+Command/
+Exception/
+Generator/
+Resources/bas-skeletons/
+Skeleton/
+Tests/
+.gitignore
+.travis.yml
+BasGeneratorBundle.php
+README.md
+composer.json
+phpunit.xml.dist

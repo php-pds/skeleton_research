@@ -1,0 +1,7 @@
+src/Omnipay/Ideal/
+.gitignore
+.travis.yml
+CONTRIBUTING.md
+LICENSE
+README.md
+composer.json

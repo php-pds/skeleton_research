@@ -1,0 +1,6 @@
+src/BrianReeve/MimeType/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json

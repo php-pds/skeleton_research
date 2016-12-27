@@ -1,0 +1,10 @@
+Tests/
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENSE
+Processor.php
+README.md
+ScriptHandler.php
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,8 @@
+assets/
+.gitignore
+CHANGE.md
+LICENSE.md
+README.md
+Tubular.php
+TubularAsset.php
+composer.json

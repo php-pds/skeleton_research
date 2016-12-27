@@ -1,0 +1,15 @@
+_config/
+forms/
+model/
+parsers/
+templates/
+tests/
+thirdparty/
+.editorconfig
+.gitattributes
+.gitignore
+.scrutinizer.yml
+.travis.yml
+README.md
+_config.php
+composer.json

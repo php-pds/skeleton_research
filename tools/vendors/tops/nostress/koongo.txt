@@ -1,0 +1,13 @@
+Api/Data/Channel/
+Block/
+Controller/Adminhtml/
+Helper/
+Model/
+Setup/
+Ui/Component/Listing/Column/
+etc/
+source/
+view/adminhtml/
+README.md
+composer.json
+registration.php

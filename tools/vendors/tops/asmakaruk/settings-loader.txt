@@ -1,0 +1,5 @@
+src/Configuration/
+tests/
+Readme.md
+composer.json
+composer.lock

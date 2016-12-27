@@ -1,0 +1,13 @@
+Command/
+Controller/
+DependencyInjection/
+Form/Type/
+Resources/
+Service/
+Tests/
+Xliff/
+.gitignore
+README.md
+RegelwerkTranslationBundle.php
+composer.json
+phpunit.xml.dist

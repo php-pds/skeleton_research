@@ -1,0 +1,5 @@
+src/Flotz/
+.gitignore
+LICENSE
+README.md
+composer.json

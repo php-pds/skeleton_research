@@ -1,0 +1,10 @@
+demo/
+src/
+tests/
+.buildpath
+.gitignore
+.project
+LICENSE
+README.md
+composer.json
+phpunit.xml

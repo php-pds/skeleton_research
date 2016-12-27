@@ -1,0 +1,12 @@
+bin/
+doc/
+lib/utf8/
+test/UTF8/Tests/
+.coveralls.yml
+.travis.yml
+LICENSE
+README.md
+README.ru.md
+composer.json
+package.xml.tpl
+phpunit.xml

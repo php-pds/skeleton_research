@@ -1,0 +1,9 @@
+vendor/
+wechat/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock
+readme.txt
+wechat-broadcast.php

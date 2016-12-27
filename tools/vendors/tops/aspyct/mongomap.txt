@@ -1,0 +1,5 @@
+src/Aspyct/MongoMap/
+tests/src/Aspyct/MongoMap/
+.gitignore
+composer.json
+phpunit.xml

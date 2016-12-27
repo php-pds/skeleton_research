@@ -1,0 +1,6 @@
+controllers/
+models/
+views/default/
+README.md
+TranslationManager.php
+composer.json

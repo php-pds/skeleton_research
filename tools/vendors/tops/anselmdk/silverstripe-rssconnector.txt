@@ -1,0 +1,9 @@
+code/
+css/
+images/
+.gitattributes
+.scrutinizer.yml
+LICENSE.md
+README.md
+_config.php
+composer.json

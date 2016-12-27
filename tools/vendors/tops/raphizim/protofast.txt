@@ -1,0 +1,12 @@
+example_project/
+lib/
+quickstart/
+tests/
+.gitignore
+.travis.yml
+README.md
+changelog.md
+composer.json
+composer.lock
+phpunit.xml
+quickstart.sh

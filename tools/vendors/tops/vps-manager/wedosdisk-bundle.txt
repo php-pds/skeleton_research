@@ -1,0 +1,11 @@
+Command/
+DependencyInjection/
+Dispatcher/
+Resources/config/
+Tests/
+.gitignore
+.travis.yml
+README.md
+WedosDiskBundle.php
+composer.json
+phpunit.xml.dist

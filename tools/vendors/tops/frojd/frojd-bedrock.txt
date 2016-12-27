@@ -1,0 +1,13 @@
+config/
+docker/
+git-hooks/
+scripts/Frojd/Bedrock/
+src/
+vendor/
+.gitignore
+Dockerfile
+README.md
+composer.json
+composer.lock
+docker-compose.yml
+wp-cli.yml

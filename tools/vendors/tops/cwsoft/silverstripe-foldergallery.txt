@@ -1,0 +1,6 @@
+cwsoft-foldergallery/
+docs/
+.gitignore
+LICENSE.txt
+README.md
+composer.json

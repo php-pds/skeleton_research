@@ -1,0 +1,11 @@
+examples/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+README[JP].md
+README[ZH].md
+Silkworm.php
+composer.json
+phpunit.xml

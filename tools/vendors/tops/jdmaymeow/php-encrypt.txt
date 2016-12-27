@@ -1,0 +1,17 @@
+config/
+src/
+tests/
+.gitattributes
+.gitignore
+.gitlab-ci.yml
+.koding.yml
+.travis.yml
+CHANGELOG
+LICENSE
+README.md
+_config.yml
+composer.json
+composer.lock
+create-phar.php
+index.php
+phpunit.xml

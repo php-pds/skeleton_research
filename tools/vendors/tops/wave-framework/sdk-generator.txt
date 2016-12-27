@@ -1,0 +1,5 @@
+bin/
+lib/
+src/
+README.md
+composer.json

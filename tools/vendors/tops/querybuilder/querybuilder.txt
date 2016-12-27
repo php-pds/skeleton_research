@@ -1,0 +1,5 @@
+src/QueryBuilder/
+vendor/
+.gitignore
+composer.json
+composer.phar

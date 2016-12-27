@@ -1,0 +1,9 @@
+doc/
+src/Himedia/PDOTools/
+.gitignore
+CHANGELOG.md
+LICENSE
+README.md
+apigen.neon
+composer.json
+composer.lock

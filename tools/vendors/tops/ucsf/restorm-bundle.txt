@@ -1,0 +1,11 @@
+Components/
+DependencyInjection/
+Doctrine/
+Exception/
+Resources/
+Tests/
+.gitignore
+README.md
+RestStdClass.php
+UcsfRestOrmBundle.php
+composer.json

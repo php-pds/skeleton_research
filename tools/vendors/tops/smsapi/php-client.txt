@@ -1,0 +1,10 @@
+build/
+smsapi/
+test/
+.gitignore
+CHANGELOG.md
+LICENSE
+README.md
+UPGRADE.md
+build.xml
+composer.json

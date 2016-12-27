@@ -1,0 +1,6 @@
+src/Shalkam/CrudGenerator/
+.gitignore
+LICENSE
+README.md
+composer.json
+phpunit.xml

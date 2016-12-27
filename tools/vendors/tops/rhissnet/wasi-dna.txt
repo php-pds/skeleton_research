@@ -1,0 +1,6 @@
+artist/
+modules/
+.gitignore
+artist.php
+composer.json
+startup.php

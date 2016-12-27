@@ -1,0 +1,5 @@
+LICENSE
+README.md
+ScriptCore.php
+ScriptHandler.php
+composer.json

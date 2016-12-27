@@ -1,0 +1,9 @@
+Controller/
+DependencyInjection/
+Resources/
+Tests/Controller/
+.gitignore
+BeanJobBundle.php
+LICENSE
+README.md
+composer.json

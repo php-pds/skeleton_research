@@ -1,0 +1,3 @@
+system/modules/es_pageslogan/
+README.md
+composer.json

@@ -1,0 +1,4 @@
+src/Somepony/YandexPddApi/
+LICENSE
+README.md
+composer.json

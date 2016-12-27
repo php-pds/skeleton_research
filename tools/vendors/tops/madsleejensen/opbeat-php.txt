@@ -1,0 +1,8 @@
+Opbeat/
+spec/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock
+phpspec.yml

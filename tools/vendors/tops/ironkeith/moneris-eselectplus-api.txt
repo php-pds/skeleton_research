@@ -1,0 +1,6 @@
+examples/
+lib/
+tests/
+.gitignore
+README.md
+composer.json

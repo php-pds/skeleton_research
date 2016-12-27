@@ -1,0 +1,7 @@
+app/
+.gitignore
+README.md
+composer.json
+composer.lock
+db-config-sample.php
+wp-config.php

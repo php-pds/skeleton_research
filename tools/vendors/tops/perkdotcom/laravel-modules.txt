@@ -1,0 +1,16 @@
+spec/
+src/
+tests/
+.editorconfig
+.gitattributes
+.gitignore
+.scrutinizer
+.travis.yml
+CHANGELOG.md
+CONTRIBUTING.md
+LICENSE.md
+README.md
+composer.json
+ocular.phar
+phpspec.yml
+phpunit.xml

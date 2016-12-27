@@ -1,0 +1,10 @@
+bin/
+data/
+src/
+.gitattributes
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock
+update.php

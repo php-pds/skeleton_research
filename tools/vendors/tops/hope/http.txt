@@ -1,0 +1,6 @@
+dist/
+.gitignore
+LICENSE
+composer.json
+composer.lock
+server.php

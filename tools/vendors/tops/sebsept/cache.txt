@@ -1,0 +1,8 @@
+tests/
+.gitignore
+Cache.php
+GarbageCollect.php
+LICENSE
+README.md
+autoload.php
+composer.json

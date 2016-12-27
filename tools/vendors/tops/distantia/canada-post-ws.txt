@@ -1,0 +1,7 @@
+examples/
+src/Distantia/CanadaPostWs/
+.gitignore
+LICENSE.md
+composer.json
+composer.lock
+readme.md

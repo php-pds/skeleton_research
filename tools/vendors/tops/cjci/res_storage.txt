@@ -1,0 +1,6 @@
+FileManagers/
+docs/
+LICENSE
+README.md
+ResStorage.php
+composer.json

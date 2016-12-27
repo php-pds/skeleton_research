@@ -1,0 +1,11 @@
+css/
+datamatrixbase256/
+img/
+.gitignore
+README.md
+composer.json
+datamatriximg.php
+err.php
+index.php
+postblank.php
+postform.php

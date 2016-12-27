@@ -1,0 +1,11 @@
+PHPYAM/
+application-demo/
+confs/
+public-demo/
+.htaccess
+LICENSE.txt
+README.txt
+TODO.txt
+composer.json
+index.php
+server-conf.php

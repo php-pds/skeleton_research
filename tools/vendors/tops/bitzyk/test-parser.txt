@@ -1,0 +1,10 @@
+FileAdaptor/
+data/
+log/
+output/
+tests/FileAdaptor/classes/
+vendor/
+xsd/
+README.md
+composer.json
+composer.lock

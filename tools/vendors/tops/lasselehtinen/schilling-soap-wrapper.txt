@@ -1,0 +1,6 @@
+features/
+src/
+.gitignore
+.scrutinizer.yml
+LICENSE
+composer.json

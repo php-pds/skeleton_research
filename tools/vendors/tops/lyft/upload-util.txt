@@ -1,0 +1,3 @@
+src/Upload/
+README.md
+composer.json

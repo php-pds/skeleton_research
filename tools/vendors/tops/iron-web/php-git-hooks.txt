@@ -1,0 +1,11 @@
+Resources/docs/images/
+app/
+src/PhpGitHooks/
+.gitignore
+.travis.yml
+PmdRules.xml
+README.md
+composer.json
+composer.lock
+php-git-hooks.yml.sample
+phpunit.xml.dist

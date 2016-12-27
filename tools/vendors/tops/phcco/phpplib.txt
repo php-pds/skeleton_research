@@ -1,0 +1,5 @@
+examples/
+src/Phcco/Phpplib/
+.gitignore
+README.md
+composer.json

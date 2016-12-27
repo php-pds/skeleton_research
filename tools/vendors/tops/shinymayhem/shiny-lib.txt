@@ -1,0 +1,5 @@
+config/
+src/ShinyLib/Xml/
+Module.php
+README.md
+composer.json

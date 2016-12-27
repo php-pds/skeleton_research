@@ -1,0 +1,8 @@
+assets/
+CollapseBehavior.php
+LICENSE
+README.md
+TabCollapse.php
+TabCollapseAsset.php
+TabCollapseX.php
+composer.json

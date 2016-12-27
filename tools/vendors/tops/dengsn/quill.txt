@@ -1,0 +1,6 @@
+classes/
+tests/
+.gitattributes
+.gitignore
+composer.json
+composer.lock

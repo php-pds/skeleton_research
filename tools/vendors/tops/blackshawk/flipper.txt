@@ -1,0 +1,6 @@
+src/Flipper/
+tests/Flipper/Tests/
+.gitignore
+README.md
+composer.json
+phpunit.xml.dist

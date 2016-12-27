@@ -1,0 +1,4 @@
+lib/NagParser/
+LICENSE
+README.md
+composer.json

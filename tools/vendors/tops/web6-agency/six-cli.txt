@@ -1,0 +1,7 @@
+bin/
+src/Six/Cli/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json

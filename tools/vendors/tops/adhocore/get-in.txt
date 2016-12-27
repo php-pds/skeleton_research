@@ -1,0 +1,7 @@
+lib/Ahc/
+tests/
+.gitattributes
+.gitignore
+README.md
+composer.json
+phpunit.xml

@@ -1,0 +1,8 @@
+src/Ravloony/Transduct/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml

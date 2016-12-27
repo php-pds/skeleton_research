@@ -1,0 +1,13 @@
+Cache/
+Command/
+Controller/
+DependencyInjection/
+Locator/
+Processor/
+Resources/
+Scanner/
+Version/
+.gitignore
+DokapiSwaggerBundle.php
+README.md
+composer.json

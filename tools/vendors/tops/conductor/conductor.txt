@@ -1,0 +1,8 @@
+Conductor/
+docs/
+examples/conversion/PHPUnit/
+ChangeLog.md
+README.md
+composer.json
+package.xml
+package2composer.php

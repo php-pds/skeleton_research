@@ -1,0 +1,6 @@
+src/
+views/
+composer.json
+config.php
+readme.md
+screenshot.png

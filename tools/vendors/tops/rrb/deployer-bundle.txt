@@ -1,0 +1,13 @@
+Command/
+DependencyInjection/
+Resources/config/
+Service/
+Tests/
+Util/
+bin/
+.gitignore
+CHANGELOG.md
+LICENSE
+README.md
+RrbDeployerBundle.php
+composer.json

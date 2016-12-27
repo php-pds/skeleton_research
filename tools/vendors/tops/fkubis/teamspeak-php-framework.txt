@@ -1,0 +1,5 @@
+TeamSpeak3/
+.gitignore
+LICENSE.md
+README.md
+composer.json

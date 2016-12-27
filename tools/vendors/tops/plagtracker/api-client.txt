@@ -1,0 +1,6 @@
+doc/
+library/Plagtracker/Api/
+.gitignore
+README.md
+apidoc.json
+composer.json

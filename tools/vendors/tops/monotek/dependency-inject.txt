@@ -1,0 +1,7 @@
+code/Monotek/Dependency/
+test/
+.gitignore
+LICENSE
+README.md
+composer.json
+phpunit.xml

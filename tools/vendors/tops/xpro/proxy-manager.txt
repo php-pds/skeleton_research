@@ -1,0 +1,4 @@
+src/Xpro/ProxyBundle/
+.gitignore
+composer.json
+readme.md

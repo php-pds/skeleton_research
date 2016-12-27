@@ -1,0 +1,4 @@
+upfiles/
+README.md
+composer.json
+index.php

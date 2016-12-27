@@ -1,0 +1,7 @@
+simpletest/
+.gitignore
+COPYING
+COPYING.LESSER
+README.md
+composer.json
+db.class.php

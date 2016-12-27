@@ -1,0 +1,6 @@
+.idea/
+src/Xorgconf/
+.gitignore
+LICENSE
+composer.json
+test.php

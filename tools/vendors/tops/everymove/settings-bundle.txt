@@ -1,0 +1,12 @@
+DependencyInjection/
+Document/
+Entity/
+Manager/
+Model/
+Resources/
+Tests/Controller/
+Twig/Extension/
+.gitignore
+EMSettingsBundle.php
+README.md
+composer.json

@@ -1,0 +1,4 @@
+src/JanBukva/SentryExtension/
+.gitignore
+composer.json
+readme.md

@@ -1,0 +1,10 @@
+config/
+img/
+lib/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+index.php
+littlesnapper.php

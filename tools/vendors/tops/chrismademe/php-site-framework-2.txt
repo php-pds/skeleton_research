@@ -1,0 +1,12 @@
+app/
+public_html/
+.env.example
+.gitignore
+README.md
+composer.json
+composer.lock
+env.php
+gulpfile.js
+init.php
+meta.json
+package.json

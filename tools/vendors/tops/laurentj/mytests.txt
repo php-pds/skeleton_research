@@ -1,0 +1,6 @@
+lib/
+tests/
+.gitattributes
+README.md
+composer.json
+doc.md

@@ -1,0 +1,7 @@
+src/Paddle/
+tests/
+LICENSE
+README.md
+autoload.php
+composer.json
+phpunit.xml

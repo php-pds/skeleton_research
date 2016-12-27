@@ -1,0 +1,6 @@
+src/ApacheLogIterator/
+.gitignore
+COPYING.txt
+README.md
+composer.json
+phpunit.xml

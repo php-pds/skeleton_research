@@ -1,0 +1,7 @@
+bin/
+src/MagicalGirl/
+tests/MagicalGirl/
+.gitignore
+LICENSE
+README.md
+composer.json

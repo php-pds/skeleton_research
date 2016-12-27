@@ -1,0 +1,8 @@
+src/
+tests/
+.gitignore
+README.md
+composer.json
+composer.lock
+laravel-config.php
+phpunit.xml

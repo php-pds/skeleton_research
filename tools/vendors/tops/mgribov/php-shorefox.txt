@@ -1,0 +1,6 @@
+examples/
+src/Shorefox/
+.gitignore
+LICENSE
+README.md
+composer.json

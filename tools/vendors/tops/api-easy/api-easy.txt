@@ -1,0 +1,4 @@
+src/ApiEasy/
+tests/
+README.md
+composer.json

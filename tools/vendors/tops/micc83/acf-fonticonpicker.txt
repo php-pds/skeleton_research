@@ -1,0 +1,8 @@
+css/
+icons/
+js/
+README.md
+acf-fonticonpicker.php
+composer.json
+fonticonpicker-v4.php
+fonticonpicker-v5.php

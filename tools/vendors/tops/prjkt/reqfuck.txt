@@ -1,0 +1,3 @@
+src/Prjkt/Component/Reqfuck/
+README.md
+composer.json

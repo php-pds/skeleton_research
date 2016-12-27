@@ -1,0 +1,12 @@
+Assets/
+Controller/
+Model/
+View/
+.gitignore
+app.php
+composer.json
+composer.lock
+config.ini
+db.sql.bz2
+index.php
+skeleton.png

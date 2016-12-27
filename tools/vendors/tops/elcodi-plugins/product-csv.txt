@@ -1,0 +1,14 @@
+Controller/
+DependencyInjection/
+Resources/
+Services/
+Templating/
+.editorconfig
+.formatter.yml
+CONTRIBUTING.md
+ElcodiProductCsvBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist
+plugin.yml

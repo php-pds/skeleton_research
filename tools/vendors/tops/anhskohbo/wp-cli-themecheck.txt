@@ -1,0 +1,11 @@
+bin/
+features/
+utils/
+.distignore
+.editorconfig
+.gitignore
+.travis.yml
+README.md
+command.php
+composer.json
+phpcs.xml.dist

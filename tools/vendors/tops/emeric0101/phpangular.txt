@@ -1,0 +1,14 @@
+bin/
+src/
+web/
+.gitignore
+LICENSE
+PHPAngularConfig.php
+README.md
+bootstrap.php
+cli-config.php
+composer.json
+composer.phar
+doctrine.bat
+phpunit.bat
+phpunit.xml.dist

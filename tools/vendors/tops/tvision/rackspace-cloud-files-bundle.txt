@@ -1,0 +1,10 @@
+Command/
+DependencyInjection/
+Resources/
+Tests/
+.gitignore
+.travis.yml
+README.md
+TvisionRackspaceCloudFilesBundle.php
+composer.json
+phpunit.xml.dist

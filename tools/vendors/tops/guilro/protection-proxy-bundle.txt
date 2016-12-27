@@ -1,0 +1,12 @@
+AccessManager/
+DependencyInjection/
+Resources/
+Tests/
+.gitignore
+.travis.yml
+GuilroProtectionProxyBundle.php
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

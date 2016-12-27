@@ -1,0 +1,16 @@
+socialshareprivacy/
+test/
+.gitignore
+.travis.yml
+2-klick-logo_min.jpg
+Gruntfile.js
+README.md
+bower.json
+composer.json
+demo.html
+dimensions.gif
+index.html
+jquery.socialshareprivacy.js
+jquery.socialshareprivacy.min.js
+jquery.socialshareprivacy.min.map
+package.json

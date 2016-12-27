@@ -1,0 +1,15 @@
+Annotation/
+Command/
+DataFixtures/ORM/
+DependencyInjection/
+Entity/
+Generator/
+Resources/
+Tests/
+Tool/
+.gitignore
+.travis.yml
+DoctrineFixturesGeneratorBundle.php
+README.md
+composer.json
+phpunit.xml.dist

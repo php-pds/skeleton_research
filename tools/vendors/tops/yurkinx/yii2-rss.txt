@@ -1,0 +1,3 @@
+yii/feed/
+README.md
+composer.json

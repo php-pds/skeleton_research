@@ -1,0 +1,7 @@
+app/
+resources/
+tests/app/Console/
+.gitignore
+LICENSE
+README.md
+composer.json

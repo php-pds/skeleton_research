@@ -1,0 +1,12 @@
+config/
+src/
+templates/view/
+tests/
+var/
+web/
+.gitignore
+CONTRIBUTING.md
+README.md
+composer.json
+composer.lock
+phpunit.xml

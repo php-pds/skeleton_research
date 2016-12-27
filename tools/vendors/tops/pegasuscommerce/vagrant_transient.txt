@@ -1,0 +1,14 @@
+bin/
+spec/src/spec/Pegasus/Application/VagrantTransient/
+src/
+.gitignore
+LICENSE
+README.md
+Vagrantfile
+bootstrap.sh
+box.json
+composer.json
+composer.lock
+phpci.yml
+phpspec.yml
+vagrant_transient.phar

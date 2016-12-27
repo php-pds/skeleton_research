@@ -1,0 +1,13 @@
+src/
+tests/
+.coveralls.yml
+.gitattributes
+.gitignore
+.travis.yml
+CHANGES.md
+CONTRIBUTING.md
+Doxyfile
+LICENSE.md
+README.md
+composer.json
+phpunit.xml.dist

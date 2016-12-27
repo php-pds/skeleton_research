@@ -1,0 +1,5 @@
+src/Propel/Generator/Behavior/
+.gitignore
+LICENSE
+README.md
+composer.json

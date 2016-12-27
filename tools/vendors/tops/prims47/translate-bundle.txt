@@ -1,0 +1,8 @@
+DependencyInjection/
+Doctrine/
+Listener/
+Resources/doc/
+.gitignore
+Prims47TranslateBundle.php
+README.md
+composer.json

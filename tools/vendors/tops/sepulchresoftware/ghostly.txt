@@ -1,0 +1,11 @@
+docs/api/
+src/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit
+phpunit.xml
+sami-config.php

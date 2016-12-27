@@ -1,0 +1,4 @@
+src/AdvancedLoggingBundle/
+.gitignore
+LICENSE
+composer.json

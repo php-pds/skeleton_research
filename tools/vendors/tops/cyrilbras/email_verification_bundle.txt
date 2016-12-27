@@ -1,0 +1,8 @@
+Controller/
+DependencyInjection/
+Resources/
+Tests/Controller/
+Verification/
+HeadooEmailVerificationBundle.php
+README.md
+composer.json

@@ -1,0 +1,9 @@
+behaviors/
+migrations/
+.gitignore
+ContentTypes.php
+LICENSE
+ModelTrait.php
+Module.php
+README.md
+composer.json

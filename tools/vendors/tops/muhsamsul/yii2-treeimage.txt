@@ -1,0 +1,8 @@
+assets/
+db/
+example/
+migrations/
+Asset.php
+README.md
+TreeImage.php
+composer.json

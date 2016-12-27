@@ -1,0 +1,14 @@
+Controller/
+DependencyInjection/
+Event/
+Model/
+Resources/
+Service/
+spec/
+.gitignore
+.travis.yml
+FullCalendarBundle.php
+README.md
+composer.json
+composer.lock
+phpspec.yml

@@ -1,0 +1,11 @@
+docs/
+examples/
+src/
+test/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpdoc.xml
+phpunit.xml.dist

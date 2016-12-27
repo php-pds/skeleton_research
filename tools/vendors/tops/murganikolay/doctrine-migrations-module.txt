@@ -1,0 +1,7 @@
+bin/
+config/
+src/DoctrineMigrationsModule/
+vendor/
+README.md
+composer.json
+composer.lock

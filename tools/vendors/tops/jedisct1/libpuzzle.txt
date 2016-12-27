@@ -1,0 +1,14 @@
+man/
+php/
+src/
+AUTHORS
+COPYING
+ChangeLog
+Makefile.am
+NEWS
+README
+README-PHP
+THANKS
+autogen.sh
+composer.json
+configure.ac

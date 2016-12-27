@@ -1,0 +1,5 @@
+examples/
+src/SkyVet/
+.gitignore
+composer.json
+composer.lock

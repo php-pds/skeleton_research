@@ -1,0 +1,14 @@
+ChuckFactService/
+Command/
+DependencyInjection/
+EventListener/
+Resources/config/
+Tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+KKLabsChuckConsoleBundle.php
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

@@ -1,0 +1,17 @@
+Customer/
+Log/
+Message/
+Producer/
+Queue/
+SmsService/
+logs/
+README.md
+c_p.php
+c_p2.php
+check.php
+clear.php
+composer.json
+config.php
+info.php
+p.php
+p2.php

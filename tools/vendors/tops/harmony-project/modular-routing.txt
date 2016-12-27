@@ -1,0 +1,14 @@
+Doctrine/
+EventListener/
+Manager/
+Metadata/
+Model/
+Provider/
+Tests/
+.gitignore
+.travis.yml
+LICENSE
+ModularRouter.php
+README.md
+composer.json
+phpunit.xml.dist

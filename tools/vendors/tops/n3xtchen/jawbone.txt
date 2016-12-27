@@ -1,0 +1,8 @@
+Tests/
+.gitignore
+LICENSE
+README.md
+Up.php
+UpCommand.php
+composer.json
+phpunit.xml.dist

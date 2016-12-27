@@ -1,0 +1,9 @@
+Block/System/Config/
+Model/Search/
+etc/
+view/adminhtml/
+.gitignore
+LICENSE
+README.md
+composer.json
+registration.php

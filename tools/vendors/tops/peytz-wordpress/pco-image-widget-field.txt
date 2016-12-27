@@ -1,0 +1,9 @@
+assets/
+css/
+js/
+languages/
+.gitignore
+codesniffer.xml
+composer.json
+pco-image-widget-field.php
+readme.txt

@@ -1,0 +1,7 @@
+src/Simpleue/
+tests/Simpleue/
+.gitignore
+.travis.yml
+README.md
+composer.json
+phpunit.xml

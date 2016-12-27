@@ -1,0 +1,17 @@
+bin/
+docs/
+test/
+.gitignore
+.travis.yml
+CHANGELOG.md
+Gemfile
+Gemfile.lock
+LICENCE
+Makefile
+README.md
+bower.json
+composer.json
+index.html
+jquery.peity.js
+jquery.peity.min.js
+package.json

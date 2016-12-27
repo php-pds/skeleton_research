@@ -1,0 +1,10 @@
+Tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+ScriptHandler.php
+UPGRADE-2.0.md
+build.xml
+composer.json
+phpunit.xml.dist

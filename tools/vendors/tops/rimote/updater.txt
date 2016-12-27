@@ -1,0 +1,7 @@
+app/
+src/Rimote/Updater/
+.gitignore
+README.md
+composer.json
+composer.lock
+phpunit.xml

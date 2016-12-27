@@ -1,0 +1,15 @@
+dist/
+src/
+.gitignore
+.jshintrc
+CHANGE.md
+Gruntfile.js
+LICENSE
+README.md
+bower.json
+composer.json
+diffAll.sh
+image.png
+jsbeautifier.json
+module.json
+package.json

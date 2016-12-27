@@ -1,0 +1,9 @@
+doc/
+src/Knp/Snappy/
+test/
+.gitignore
+.travis.yml
+LICENSE
+README.markdown
+composer.json
+phpunit.xml.dist

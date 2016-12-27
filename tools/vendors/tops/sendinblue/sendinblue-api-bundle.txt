@@ -1,0 +1,7 @@
+DependencyInjection/
+Resources/config/
+Wrapper/
+LECENSE.md
+README.md
+SendinBlueApiBundle.php
+composer.json

@@ -1,0 +1,11 @@
+Controller/
+DependencyInjection/
+Entity/
+Exception/
+Form/
+Handler/
+Model/
+Resources/
+Tests/
+VmcPatientBundle.php
+composer.json

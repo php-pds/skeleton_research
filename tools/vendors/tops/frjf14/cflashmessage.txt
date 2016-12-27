@@ -1,0 +1,9 @@
+report/
+src/
+test/
+.scrutinizer.yml
+.travis.yml
+LICENSE.txt
+README.md
+autoloader.php
+composer.json

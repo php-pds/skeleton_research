@@ -1,0 +1,6 @@
+DependencyInjection/
+Resources/config/
+.gitignore
+JazaDrupalIntegrationBundle.php
+README.md
+composer.json

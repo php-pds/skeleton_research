@@ -1,0 +1,6 @@
+src/HashDigest/
+tests/
+vendor/
+.gitignore
+README.md
+composer.json

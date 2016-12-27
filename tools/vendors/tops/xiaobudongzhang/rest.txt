@@ -1,0 +1,7 @@
+.htaccess
+README.md
+composer.json
+index.php
+license
+read.txt
+readme.txt

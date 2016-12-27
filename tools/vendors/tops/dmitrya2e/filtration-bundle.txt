@@ -1,0 +1,15 @@
+CallableFunction/Validator/
+DependencyInjection/
+Exception/
+Filter/
+Form/
+Manager/
+Resources/
+Tests/
+.gitignore
+.travis.yml
+Da2eFiltrationBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

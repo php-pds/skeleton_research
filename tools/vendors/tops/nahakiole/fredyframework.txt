@@ -1,0 +1,6 @@
+Test/
+example/
+src/Fredy/
+LICENSE
+README.md
+composer.json

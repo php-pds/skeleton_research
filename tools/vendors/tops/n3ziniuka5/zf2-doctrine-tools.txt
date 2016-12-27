@@ -1,0 +1,6 @@
+config/
+src/ZF2DoctrineTools/
+LICENSE
+Module.php
+README.md
+composer.json

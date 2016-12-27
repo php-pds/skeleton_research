@@ -1,0 +1,9 @@
+components/
+controllers/
+migrations/
+models/
+views/soap-setting/
+LICENSE
+PlentySoapApi.php
+README.md
+composer.json

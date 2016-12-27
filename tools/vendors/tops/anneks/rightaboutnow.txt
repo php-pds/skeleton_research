@@ -1,0 +1,7 @@
+.idea/
+src/
+tasks/
+tests/
+.gitignore
+composer.json
+composer.lock

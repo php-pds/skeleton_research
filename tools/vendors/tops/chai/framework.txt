@@ -1,0 +1,6 @@
+src/Chai/
+tests/Migrations/
+.gitignore
+README.md
+composer.json
+phpunit.xml

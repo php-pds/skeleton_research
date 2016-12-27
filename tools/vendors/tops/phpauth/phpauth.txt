@@ -1,0 +1,14 @@
+files/
+languages/
+tests/
+.gitignore
+.travis.yml
+Auth.php
+Config.php
+LICENSE
+README.md
+composer.json
+database_informix.sql
+database_mysql.sql
+database_pgsql.sql
+phpunit.xml

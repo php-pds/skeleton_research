@@ -1,0 +1,8 @@
+cert/
+doc/
+example/
+lib/
+logs/
+README.md
+composer.json
+index.php

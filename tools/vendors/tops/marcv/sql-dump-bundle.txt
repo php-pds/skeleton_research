@@ -1,0 +1,7 @@
+Command/
+Resources/doc/
+.gitignore
+LICENSE
+MarcvSQLDumpBundle.php
+README.md
+composer.json

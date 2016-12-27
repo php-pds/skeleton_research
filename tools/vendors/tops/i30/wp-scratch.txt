@@ -1,0 +1,10 @@
+config/envvars/
+console/
+public/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+install
+wp-cli.yml

@@ -1,0 +1,7 @@
+bin/
+config/
+extensions/
+models/
+.gitignore
+README.md
+composer.json

@@ -1,0 +1,8 @@
+src/Fastuc/
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+composer.json
+run-tests.sh
+travis-php-config.ini

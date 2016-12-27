@@ -1,0 +1,9 @@
+examples/
+src/
+tests/
+.gitattributes
+.gitignore
+README.md
+build.xml
+composer.json
+phpcs.xml

@@ -1,0 +1,8 @@
+DependencyInjection/
+Resources/
+Tests/Controller/
+Twig/
+HamaryuginhGoogleAnalyticsBundle.php
+LICENSE
+README.md
+composer.json

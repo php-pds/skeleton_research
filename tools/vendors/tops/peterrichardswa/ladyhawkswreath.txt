@@ -1,0 +1,10 @@
+images/
+php
+vendor/
+wreaths
+README.md
+composer.json
+composer.lock
+composer.phar
+hawkstyles.css
+index.php

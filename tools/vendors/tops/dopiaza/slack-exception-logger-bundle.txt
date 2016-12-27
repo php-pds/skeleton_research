@@ -1,0 +1,9 @@
+DependencyInjection/
+Resources/
+Service/
+.gitignore
+DopiazaSlackExceptionLoggerBundle.php
+History.md
+LICENSE
+README.md
+composer.json

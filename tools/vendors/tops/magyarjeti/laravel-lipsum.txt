@@ -1,0 +1,5 @@
+src/Magyarjeti/LaravelLipsum/
+.gitignore
+LICENSE
+README.md
+composer.json

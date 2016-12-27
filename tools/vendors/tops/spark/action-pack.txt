@@ -1,0 +1,7 @@
+lib/Spark/ActionPack/
+tests/
+.gitignore
+LICENSE.txt
+composer.json
+composer.lock
+phpunit.xml.dist

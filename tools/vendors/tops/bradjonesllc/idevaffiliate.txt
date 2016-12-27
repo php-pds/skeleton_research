@@ -1,0 +1,8 @@
+config/install/
+src/
+README.md
+composer.json
+idevaffiliate.info.yml
+idevaffiliate.links.menu.yml
+idevaffiliate.routing.yml
+idevaffiliate.services.yml

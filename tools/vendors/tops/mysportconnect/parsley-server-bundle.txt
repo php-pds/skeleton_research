@@ -1,0 +1,7 @@
+Parsley/ServerBundle/
+.gitignore
+CHANGELOG.md
+LICENSE.md
+README.md
+TODO.md
+composer.json

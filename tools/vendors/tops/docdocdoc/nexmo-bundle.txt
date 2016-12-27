@@ -1,0 +1,11 @@
+DependencyInjection/
+Exception/
+Message/
+Provider/
+Resources/config/
+Response/
+Tests/
+DocDocDocNexmoBundle.php
+LICENSE
+README.md
+composer.json

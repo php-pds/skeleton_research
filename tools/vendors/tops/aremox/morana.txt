@@ -1,0 +1,11 @@
+.settings/
+app/
+src/
+web/
+.buildpath
+.gitignore
+.project
+LICENSE
+README.md
+composer.json
+composer.lock

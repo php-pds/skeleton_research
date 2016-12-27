@@ -1,0 +1,11 @@
+classes/
+examples/
+tests/
+.gitignore
+LICENCE.txt
+Pakefile.php
+README.md
+bootstrap.php
+composer.json
+composer.lock
+phpunit.xml

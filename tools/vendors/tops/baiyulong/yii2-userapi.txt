@@ -1,0 +1,11 @@
+assets/css/
+config/
+controllers/
+models/
+views/
+.gitignore
+LICENSE
+Module.php
+README.md
+UapiAsset.php
+composer.json

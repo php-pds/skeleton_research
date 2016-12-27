@@ -1,0 +1,8 @@
+src/WebPower/gcm/server/
+test/WebPower/gcm/server/
+.gitignore
+.travis.yml
+README.md
+composer.json
+phpunit.xml.dist
+testPush.php

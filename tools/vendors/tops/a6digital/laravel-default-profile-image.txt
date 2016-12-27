@@ -1,0 +1,9 @@
+docs/images/
+font/
+src/A6digital/Image/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml

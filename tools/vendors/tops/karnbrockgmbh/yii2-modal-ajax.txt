@@ -1,0 +1,7 @@
+assets/js/
+.editorconfig
+LICENSE
+Modal.php
+ModalAsset.php
+README.md
+composer.json

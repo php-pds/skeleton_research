@@ -1,0 +1,12 @@
+examples/
+media/
+.datatables-commit-sync
+.gitignore
+Contributing.md
+ISSUE_TEMPLATE.md
+Readme.md
+bower.json
+composer.json
+dataTables.jquery.json
+license.txt
+package.json

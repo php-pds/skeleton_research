@@ -1,0 +1,3 @@
+lib/Ekomi/
+README.md
+composer.json

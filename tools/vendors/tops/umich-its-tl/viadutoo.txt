@@ -1,0 +1,7 @@
+lib/Viadutoo/
+public/
+.gitignore
+LICENSE.txt
+README.md
+composer.json
+composer.lock

@@ -1,0 +1,10 @@
+original/
+.gitignore
+composer.json
+encoded.php
+encoding1.php
+encoding2.php
+encrypt.php
+encrypt_cls.php
+file.php
+gen_keys.php

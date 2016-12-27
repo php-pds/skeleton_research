@@ -1,0 +1,8 @@
+examples/
+src/Unicode/
+test/
+MIT-LICENSE.txt
+README.md
+composer.json
+phpunit.xml
+u.php

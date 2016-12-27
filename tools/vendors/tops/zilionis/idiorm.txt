@@ -1,0 +1,8 @@
+src/
+test/
+vendor/
+.gitignore
+README.markdown
+composer.json
+composer.lock
+demo.php

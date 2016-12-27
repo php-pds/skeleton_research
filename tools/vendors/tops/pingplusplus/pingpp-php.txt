@@ -1,0 +1,11 @@
+data/
+example/
+lib/
+.gitignore
+CHANGELOG.md
+LICENSE
+PingppEnvInspect.php
+README.md
+VERSION
+composer.json
+init.php

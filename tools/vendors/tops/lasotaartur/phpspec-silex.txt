@@ -1,0 +1,3 @@
+src/PhpSpec/Silex/
+README.md
+composer.json

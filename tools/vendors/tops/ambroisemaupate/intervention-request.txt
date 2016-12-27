@@ -1,0 +1,9 @@
+.idea/
+bin/
+cache/
+src/
+test/images/
+.gitignore
+README.md
+composer.json
+index.php

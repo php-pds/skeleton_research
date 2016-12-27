@@ -1,0 +1,6 @@
+src/Nixox/
+tests/Nixox/
+.gitattributes
+.gitignore
+.travis.yml
+composer.json

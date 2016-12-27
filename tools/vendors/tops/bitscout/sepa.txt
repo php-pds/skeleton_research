@@ -1,0 +1,4 @@
+example/
+src/BitScout/Sepa/
+README.md
+composer.json

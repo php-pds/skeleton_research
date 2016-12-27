@@ -1,0 +1,6 @@
+.gitignore
+BasketAssetBundle.php
+LICENSE
+README.md
+composer.json
+composer.lock

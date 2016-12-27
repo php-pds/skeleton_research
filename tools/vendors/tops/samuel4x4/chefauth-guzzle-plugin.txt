@@ -1,0 +1,4 @@
+src/LeaseWeb/ChefGuzzle/Plugin/ChefAuth/
+.gitignore
+README.md
+composer.json

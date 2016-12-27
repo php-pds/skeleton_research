@@ -1,0 +1,7 @@
+vendor/
+BulkSMS.php
+License.txt
+README.md
+Request.php
+composer.json
+composer.lock

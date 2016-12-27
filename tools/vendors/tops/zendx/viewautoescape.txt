@@ -1,0 +1,8 @@
+ZendX/
+tests/phpunit/
+.gitignore
+.travis.yml
+LICENSE.txt
+README.markdown
+composer.json
+phpunit.xml.dist

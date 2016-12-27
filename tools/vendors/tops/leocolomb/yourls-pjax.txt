@@ -1,0 +1,10 @@
+assets/js/
+vendor/
+.gitignore
+LICENSE.md
+README.md
+bower.json
+composer.json
+gruntfile.js
+package.json
+plugin.php

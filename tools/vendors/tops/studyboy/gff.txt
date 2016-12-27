@@ -1,0 +1,8 @@
+Application/
+Library/GFF/
+Public/
+.travis.yml
+README.md
+composer.json
+my.sh
+phpunit_mysql.xml

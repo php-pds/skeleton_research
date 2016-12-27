@@ -1,0 +1,10 @@
+src/CouchDB/
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+Changelog.md
+LICENCE
+Readme.md
+composer.json
+phpunit.xml.dist

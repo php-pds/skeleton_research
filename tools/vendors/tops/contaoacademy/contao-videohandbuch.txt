@@ -1,0 +1,7 @@
+assets/
+callbacks/
+classes/
+config/
+languages/de/
+templates/
+composer.json

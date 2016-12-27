@@ -1,0 +1,3 @@
+src/Valeryq/DTO/
+README.md
+composer.json

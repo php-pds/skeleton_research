@@ -1,0 +1,15 @@
+config/
+framework/
+lang/
+public/
+resources/
+.bowerrc
+.env.example
+.gitignore
+README.md
+bower.json
+composer.json
+composer.lock
+gulpfile.js
+index.php
+package.json

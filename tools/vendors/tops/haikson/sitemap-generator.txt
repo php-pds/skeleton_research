@@ -1,0 +1,10 @@
+pysitemap/
+.gitignore
+LICENSE
+NOTICE
+README.md
+composer.json
+requirements.txt
+run.py
+setup.py
+sitemap.xml

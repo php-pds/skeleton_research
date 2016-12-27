@@ -1,0 +1,10 @@
+lib/JWT/Authentication/
+test/JWT/Test/Authentication/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+example.php
+package.xml
+phpunit.xml.dist

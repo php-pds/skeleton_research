@@ -1,0 +1,10 @@
+.idea/
+Api/
+Block/Index/
+Controller/
+Model/
+Setup/
+etc/
+view/frontend/
+composer.json
+registration.php

@@ -1,0 +1,16 @@
+.travis/
+Api/
+Block/
+Controller/
+Helper/
+Model/
+Setup/
+Test/Unit/Model/
+Ui/
+etc/
+view/
+.gitginore
+.travis.yml
+README.md
+composer.json
+registration.php

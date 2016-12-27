@@ -1,0 +1,12 @@
+docs/
+features/
+scenario/
+src/UpCloo/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+bump-version.sh
+composer.json
+composer.lock

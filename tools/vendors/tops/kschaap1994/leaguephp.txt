@@ -1,0 +1,6 @@
+src/LeaguePhp/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock

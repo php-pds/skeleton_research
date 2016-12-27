@@ -1,0 +1,10 @@
+spec/
+src/Glutnix/
+.editorconfig
+.gitignore
+.travis.yml
+LICENCE
+README.md
+composer.json
+composer.lock
+phpcs.ruleset.xml

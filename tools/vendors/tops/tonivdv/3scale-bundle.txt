@@ -1,0 +1,9 @@
+DependencyInjection/
+Resources/
+Tests/
+.gitignore
+.travis.yml
+README.md
+ThreeScaleBundle.php
+composer.json
+phpunit.xml.dist

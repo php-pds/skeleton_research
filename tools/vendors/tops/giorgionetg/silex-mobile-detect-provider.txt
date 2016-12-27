@@ -1,0 +1,5 @@
+src/SilexMobileDetect/
+web/
+.gitignore
+README.md
+composer.json

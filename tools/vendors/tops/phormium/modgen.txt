@@ -1,0 +1,13 @@
+bin/
+src/Phormium/ModGen/
+target/
+tests/
+.gitattributes
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENSE.md
+README.md
+TODO.md
+composer.json
+phpunit.dist.xml

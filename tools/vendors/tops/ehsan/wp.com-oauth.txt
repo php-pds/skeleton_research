@@ -1,0 +1,11 @@
+css/
+dist/
+img/
+.gitattributes
+.gitignore
+.travis.yml
+README.md
+callback.php
+composer.json
+config.php
+index.php

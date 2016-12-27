@@ -1,0 +1,6 @@
+src/Weight/
+test/
+.gitignore
+LICENSE
+README.md
+composer.json

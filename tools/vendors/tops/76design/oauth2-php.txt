@@ -1,0 +1,8 @@
+src/OAuth2/Client/
+tests/
+.gitignore
+.gitmodules
+.travis.yml
+README.md
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,7 @@
+src/C3poCz/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock

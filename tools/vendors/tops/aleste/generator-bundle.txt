@@ -1,0 +1,8 @@
+Command/
+Generator/
+Resources/
+.gitignore
+AlesteGeneratorBundle.php
+CONTRIBUTING.md
+README.md
+composer.json

@@ -1,0 +1,8 @@
+Annotation/
+Command/
+DependencyInjection/
+Resources/config/
+.gitignore
+MickadooYamlApiDocAnnotationBundle.php
+composer.json
+composer.lock

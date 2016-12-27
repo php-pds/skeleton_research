@@ -1,0 +1,12 @@
+licenses/
+src/
+test/
+.gitattributes
+.gitignore
+.php_cs
+.travis.yml
+LICENSE
+README.md
+autoloader.php
+composer.json
+phpunit.xml

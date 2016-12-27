@@ -1,0 +1,12 @@
+Annotations/
+DependencyInjection/
+EventListener/
+Resources/config/
+Service/
+Tests/
+.gitignore
+.travis.yml
+BRSignedRequestBundle.php
+README.md
+composer.json
+phpunit.xml.dist

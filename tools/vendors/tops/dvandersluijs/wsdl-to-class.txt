@@ -1,0 +1,14 @@
+nbproject/
+src/WsdlToClass/
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist
+travis-after.sh
+travis-tests.sh
+wsdltoclass

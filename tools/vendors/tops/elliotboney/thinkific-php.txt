@@ -1,0 +1,6 @@
+.autocode/
+src/Thinkific/
+.gitignore
+LICENSE
+README.md
+composer.json

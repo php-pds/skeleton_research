@@ -1,0 +1,10 @@
+Cache/
+DependencyInjection/
+Entity/
+Resources/config/
+Tests/Cache/
+AltaidCommonBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

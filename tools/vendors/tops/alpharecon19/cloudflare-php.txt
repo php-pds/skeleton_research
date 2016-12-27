@@ -1,0 +1,11 @@
+src/
+tests/
+var/
+.gitignore
+.scrutinizer.yml
+Cloudflare.yml.dist
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

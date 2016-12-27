@@ -1,0 +1,9 @@
+Annotations/
+Controller/
+DependencyInjection/
+EventListener/
+Resources/config/
+CHANGELOG.md
+PPVBaseBundle.php
+README.md
+composer.json

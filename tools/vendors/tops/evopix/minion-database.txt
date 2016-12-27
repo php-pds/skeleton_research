@@ -1,0 +1,6 @@
+classes/
+config/minion/
+views/minion/task/
+.gitignore
+README.md
+composer.json

@@ -1,0 +1,10 @@
+demo/
+doc/
+src/XSLTemplate/
+tests/
+.gitignore
+.gitmodules
+.travis.yml
+README.rst
+composer.json
+phpunit.xml

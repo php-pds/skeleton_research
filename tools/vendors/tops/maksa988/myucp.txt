@@ -1,0 +1,13 @@
+app/
+assets/
+configs/
+engine/
+theme/
+.gitignore
+.htaccess
+LICENSE.txt
+LICENSE_RU.txt
+README.md
+composer.json
+composer.lock
+index.php

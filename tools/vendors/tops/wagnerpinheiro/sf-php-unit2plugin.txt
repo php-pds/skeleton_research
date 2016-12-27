@@ -1,0 +1,6 @@
+data/
+lib/
+LICENSE
+README.md
+composer.json
+package.xml

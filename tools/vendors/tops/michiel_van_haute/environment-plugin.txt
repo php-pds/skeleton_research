@@ -1,0 +1,4 @@
+resources/lang/en/
+src/
+.gitignore
+composer.json

@@ -1,0 +1,10 @@
+DependencyInjection/
+Entity/
+Repository/
+Resources/config/
+Security/
+.gitignore
+LICENSE
+README.md
+ShoploBundle.php
+composer.json

@@ -1,0 +1,3 @@
+README.md
+ant-crc32.jar
+composer.json

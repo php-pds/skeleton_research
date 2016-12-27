@@ -1,0 +1,11 @@
+demo/
+src/
+tests/
+.gitignore
+.scrutinizer.yml
+Debugger.md
+LICENSE
+README.md
+Timer.md
+composer.json
+phpunit.xml

@@ -1,0 +1,4 @@
+config/
+lib/
+LICENCE
+composer.json

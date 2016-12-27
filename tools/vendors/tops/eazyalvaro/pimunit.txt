@@ -1,0 +1,17 @@
+bin/
+controllers/
+lib/
+static/img/
+tests/
+texts/
+var/
+views/scripts/index/
+.travis.yml
+README.md
+bootstrap.php
+composer.json
+dependencies.xml
+phpunit.xml
+plugin.xml
+test.bat
+test.sh

@@ -1,0 +1,9 @@
+.travis/
+App/
+Samurai/
+.coveralls.yml
+.gitignore
+.travis.yml
+README.md
+composer.json
+phpspec.yml

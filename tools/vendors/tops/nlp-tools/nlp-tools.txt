@@ -1,0 +1,8 @@
+src/NlpTools/
+tests/
+.gitignore
+CONTRIBUTING.md
+LICENSE
+README.markdown
+autoloader.php
+composer.json

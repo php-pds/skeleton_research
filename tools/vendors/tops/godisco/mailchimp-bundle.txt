@@ -1,0 +1,8 @@
+DependencyInjection/
+Mailchimp/
+Resources/config/
+.gitignore
+LICENSE
+MailchimpBundle.php
+README.md
+composer.json

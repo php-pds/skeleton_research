@@ -1,0 +1,9 @@
+DataFixtures/ORM/
+DependencyInjection/
+Kernel/
+Resources/config/
+.gitignore
+OdiseoProjectBundle.php
+README.md
+composer.json
+composer.phar

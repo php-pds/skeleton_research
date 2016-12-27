@@ -1,0 +1,14 @@
+.github/
+src/
+test/
+.editorconfig
+.gitattributes
+.gitignore
+.scrutinizer.yml
+.styleci.yml
+CHANGELOG.md
+CONDUCT.md
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

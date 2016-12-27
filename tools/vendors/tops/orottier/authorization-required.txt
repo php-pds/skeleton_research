@@ -1,0 +1,8 @@
+src/AuthorizationRequired/
+tests/
+.gitignore
+.php_cs
+composer.json
+composer.lock
+phpunit.xml
+readme.md

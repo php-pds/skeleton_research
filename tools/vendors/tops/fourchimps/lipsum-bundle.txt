@@ -1,0 +1,7 @@
+DependencyInjection/
+Resources/
+Service/
+.gitignore
+FourChimpsLipsumBundle.php
+README.md
+composer.json

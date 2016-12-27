@@ -1,0 +1,10 @@
+Command/
+Resources/
+Services/
+Tests/Controller/
+.gitignore
+GherkinatorBundle.php
+README.md
+WebContext.php
+behat.yml
+composer.json

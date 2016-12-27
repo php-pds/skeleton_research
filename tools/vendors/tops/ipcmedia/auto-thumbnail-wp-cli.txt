@@ -1,0 +1,10 @@
+bin/
+tests/
+.travis.yml
+README.md
+auto-thumbnail-wp-cli.php
+composer.json
+license.txt
+phpunit.xml
+readme.txt
+wp-cli.php

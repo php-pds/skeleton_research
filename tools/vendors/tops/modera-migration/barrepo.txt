@@ -1,0 +1,3 @@
+README.md
+composer.json
+file-created-after-1.0.0-tagged-already

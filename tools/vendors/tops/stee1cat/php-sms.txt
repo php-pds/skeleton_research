@@ -1,0 +1,4 @@
+PhpSms/
+.gitignore
+composer.json
+readme.md

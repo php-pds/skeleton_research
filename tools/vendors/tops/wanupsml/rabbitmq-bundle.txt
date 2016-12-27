@@ -1,0 +1,15 @@
+Command/
+DataCollector/
+DependencyInjection/
+Provider/
+RabbitMq/
+Resources/
+Tests/
+.gitignore
+.sensiolabs.yml
+.travis.yml
+CHANGELOG
+README.md
+WanupSmlRabbitMqBundle.php
+composer.json
+phpunit.xml.dist

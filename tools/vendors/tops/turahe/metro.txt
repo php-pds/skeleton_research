@@ -1,0 +1,12 @@
+app/
+bootstrap/
+public/
+.travis.yml
+Vagrantfile
+artisan
+composer.json
+composer.lock
+local-script.sh
+phpunit.xml
+readme.md
+server.php

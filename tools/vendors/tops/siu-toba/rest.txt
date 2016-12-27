@@ -1,0 +1,10 @@
+docs/
+src/SIUToba/rest/
+tests/
+.gitignore
+.travis.yml
+CHANGELOG.md
+README.md
+composer.json
+composer.lock
+phpunit.xml

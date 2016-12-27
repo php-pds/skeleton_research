@@ -1,0 +1,12 @@
+cache/
+examples/
+library/Rain/
+templates/
+test/
+.codeclimate.yml
+.gitignore
+.travis.yml
+README.md
+composer.json
+deploy.sh
+phpunit.xml.dist

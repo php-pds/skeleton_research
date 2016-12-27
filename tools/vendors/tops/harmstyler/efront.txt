@@ -1,0 +1,6 @@
+lib/eFront/
+.editorconfig
+.gitignore
+LICENCE.txt
+README.md
+composer.json

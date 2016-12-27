@@ -1,0 +1,13 @@
+Command/
+Consumer/
+Crawler/
+Doctrine/Functions/
+Entity/
+Generator/Maze/
+Literacy/
+Pattern/
+Request/
+XML/
+.gitignore
+README.md
+composer.json

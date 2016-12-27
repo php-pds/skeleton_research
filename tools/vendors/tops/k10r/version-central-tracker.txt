@@ -1,0 +1,11 @@
+Commands/
+Components/
+Service/
+Bootstrap.php
+LICENSE
+README.md
+composer.json
+package.sh
+plugin.json
+plugin.png
+plugin.txt

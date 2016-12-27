@@ -1,0 +1,10 @@
+app/
+assets/
+log/
+temp/
+vendor/
+www/
+.gitignore
+composer.json
+composer.lock
+readme.md

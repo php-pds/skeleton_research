@@ -1,0 +1,6 @@
+src/Utils/Serializers/
+tests/
+.travis.yml
+README.MD
+composer.json
+phpunit.xml.dist

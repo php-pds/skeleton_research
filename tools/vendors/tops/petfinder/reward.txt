@@ -1,0 +1,14 @@
+config/
+database/
+public/
+resources/
+src/Petfinder/Reward/
+tests/
+vendor/
+.gitignore
+.travis.yml
+composer.json
+composer.lock
+license.md
+phpunit.xml
+readme.md

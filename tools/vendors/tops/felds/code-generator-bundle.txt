@@ -1,0 +1,8 @@
+DependencyInjection/
+Generator/
+Resources/
+Tests/Generator/
+CHANGELOG.md
+FeldsCodeGeneratorBundle.php
+README.md
+composer.json

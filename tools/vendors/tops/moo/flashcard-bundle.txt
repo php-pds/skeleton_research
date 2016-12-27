@@ -1,0 +1,15 @@
+Command/
+Controller/
+DataFixtures/ORM/
+DependencyInjection/
+Entity/
+Repository/
+Resources/
+Response/
+Tests/
+.gitignore
+.travis.yml
+MooFlashCardBundle.php
+README.md
+composer.json
+phpunit.xml.dist

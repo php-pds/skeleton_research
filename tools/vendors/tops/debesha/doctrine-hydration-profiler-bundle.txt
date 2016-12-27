@@ -1,0 +1,10 @@
+DataCollector/
+DependencyInjection/
+ORM/
+Resources/
+.gitignore
+.php_cs
+DebeshaDoctrineProfileExtraBundle.php
+LICENSE
+README.md
+composer.json

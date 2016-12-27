@@ -1,0 +1,9 @@
+src/Neokami/
+tests/
+.gitignore
+autoload.php
+composer.json
+contributors.txt
+license
+phpunit.xml.dist
+readme.md

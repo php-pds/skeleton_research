@@ -1,0 +1,11 @@
+DependencyInjection/
+Event/
+Mailer/
+Resources/config/
+Tests/Mailer/
+.gitignore
+Events.php
+MailBundle.php
+README.md
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,5 @@
+IT/SwiftMailerLoggerBundle/
+.gitignore
+LICENCE
+README.md
+composer.json

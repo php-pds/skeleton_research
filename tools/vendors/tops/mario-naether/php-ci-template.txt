@@ -1,0 +1,9 @@
+examples/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+build.xml
+codeception.yml
+composer.json

@@ -1,0 +1,13 @@
+assets/
+cache/
+content/
+lib/
+modules/
+views/
+.gitignore
+.htaccess
+composer.json
+config.php
+index.php
+license.txt
+readme.md

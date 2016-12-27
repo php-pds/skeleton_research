@@ -1,0 +1,6 @@
+build/
+src/Siege/
+test/
+.gitignore
+README.md
+composer.json

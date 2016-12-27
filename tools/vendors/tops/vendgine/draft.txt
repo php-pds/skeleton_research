@@ -1,0 +1,5 @@
+resources/
+sources/
+tests/
+README.md
+composer.json

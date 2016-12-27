@@ -1,0 +1,14 @@
+src/Databox/
+tests/
+.editorconfig
+.gitignore
+.php_cs
+.travis.yml
+CHANGELOG.md
+CONTRIBUTING.md
+LICENSE
+README.md
+composer.json
+example.php
+phpdoc.dist.xml
+phpunit.xml.dist

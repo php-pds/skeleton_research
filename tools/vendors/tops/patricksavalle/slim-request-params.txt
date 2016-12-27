@@ -1,0 +1,11 @@
+tests/
+.gitignore
+BodyParameters.php
+LICENSE
+QueryParameters.php
+README.md
+RequestParameters.php
+RequestResponseArgsObject.php
+composer.json
+composer.lock
+phpunit.xml

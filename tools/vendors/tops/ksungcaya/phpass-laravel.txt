@@ -1,0 +1,9 @@
+config/
+spec/Sungcaya/Phpass/
+src/Sungcaya/Phpass/
+.gitignore
+.travis.yml
+README.md
+composer.json
+composer.lock
+phpspec.yml

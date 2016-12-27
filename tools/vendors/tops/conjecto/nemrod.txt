@@ -1,0 +1,11 @@
+doc/
+src/Conjecto/Nemrod/
+.editorconfig
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENSE.md
+README.md
+composer.json
+doap.rdf
+phpunit.xml.dist

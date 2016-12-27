@@ -1,0 +1,6 @@
+assets/
+MyImageAsset.php
+UploadCropImage.php
+composer.json
+readme
+yourviewfile

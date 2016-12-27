@@ -1,0 +1,9 @@
+DissalowedBadWordsList_el_GR.txt
+DissalowedBadWordsList_en_US.txt
+DissalowedManNamesList_el_GR.txt
+DissalowedPornSitesList.txt
+DissalowedUserNamesList.txt
+DissalowedWomensNamesList_el_GR.txt
+README.md
+composer.json
+dissalowed.php

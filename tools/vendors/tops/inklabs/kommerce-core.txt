@@ -1,0 +1,15 @@
+.idea/
+config/
+docs/DesignPatterns/
+src/
+tests/
+.gitignore
+.travis.yml
+CHANGELOG.md
+CONTRIBUTING.md
+LICENSE.txt
+README.md
+composer.json
+composer.lock
+phpunit.xml
+phpunit_bootstrap.php

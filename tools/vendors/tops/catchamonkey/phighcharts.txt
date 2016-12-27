@@ -1,0 +1,9 @@
+classes/Phighchart/
+poc/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml

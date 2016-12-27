@@ -1,0 +1,7 @@
+examples/
+LICENSE.txt
+README.md
+composer.json
+phpgraphlib.php
+phpgraphlib_pie.php
+phpgraphlib_stacked.php

@@ -1,0 +1,4 @@
+.idea/
+lib/
+composer.json
+registration.php

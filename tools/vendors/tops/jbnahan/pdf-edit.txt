@@ -1,0 +1,5 @@
+Service/
+Specification/
+LICENSE
+README.md
+composer.json

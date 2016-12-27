@@ -1,0 +1,15 @@
+base/
+helpers/
+languages/es/
+layouts/
+middlewares/
+modules/site/
+widgets/
+.gitignore
+LICENSE
+README.md
+autoload.php
+bootstrap.php
+classmap.php
+composer.json
+lazycoding.php

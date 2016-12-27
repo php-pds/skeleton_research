@@ -1,0 +1,12 @@
+Build/
+Classes/Domain/
+Configuration/
+Resources/
+Tests/Functional/
+.travis.yml
+README.md
+composer.json
+ext_emconf.php
+ext_icon.gif
+ext_tables.php
+ext_tables.sql

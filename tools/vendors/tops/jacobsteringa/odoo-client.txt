@@ -1,0 +1,5 @@
+.gitignore
+LICENSE
+Odoo.php
+README.md
+composer.json

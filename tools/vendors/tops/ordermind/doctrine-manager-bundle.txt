@@ -1,0 +1,15 @@
+DependencyInjection/
+Event/
+Resources/config/
+Services/
+Tests/
+docs/
+.gitignore
+.travis.yml
+LICENSE
+OrdermindDoctrineManagerBundle.php
+README.md
+composer.json
+phpunit_odm.xml.dist
+phpunit_orm.xml.dist
+travis-php.ini

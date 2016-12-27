@@ -1,0 +1,13 @@
+Controller/
+CoreBundle/Resizer/
+DependencyInjection/
+Manager/
+Provider/
+Resources/
+Twig/Extension/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+XmonSonataMediaProviderVideoBundle.php
+composer.json

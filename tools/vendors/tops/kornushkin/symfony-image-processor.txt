@@ -1,0 +1,7 @@
+DependencyInjection/
+ImageProcessor/
+Resources/config/
+.gitignore
+KornushkinImageProcessorBundle.php
+README.md
+composer.json

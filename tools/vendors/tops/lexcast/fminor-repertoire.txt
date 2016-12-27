@@ -1,0 +1,8 @@
+Chord/
+Generator/
+Request/
+Resources/views/
+FminorRepertoire.php
+LICENSE
+README.md
+composer.json

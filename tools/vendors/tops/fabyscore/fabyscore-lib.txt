@@ -1,0 +1,10 @@
+Component/
+Kernel/
+.gitignore
+.travis.php.ini
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml
+phpunit_bootstrap.php

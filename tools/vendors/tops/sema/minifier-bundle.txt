@@ -1,0 +1,9 @@
+Command/
+DependencyInjection/
+Listener/
+Resources/
+Twig/
+LICENSE
+README.md
+SemaMinifierBundle.php
+composer.json

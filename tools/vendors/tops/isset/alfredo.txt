@@ -1,0 +1,7 @@
+Docs/
+Example/
+sql/
+src/Alfredo/
+.gitignore
+README.md
+composer.json

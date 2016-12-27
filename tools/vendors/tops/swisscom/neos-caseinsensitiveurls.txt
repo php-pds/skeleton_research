@@ -1,0 +1,6 @@
+Classes/Swisscom/Neos/CaseInsensitiveUrls/
+Configuration/
+Migrations/TYPO3CR/
+Resources/Public/JavaScript/Validation/
+README.md
+composer.json

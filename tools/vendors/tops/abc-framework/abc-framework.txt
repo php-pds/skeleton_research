@@ -1,0 +1,7 @@
+App/
+vendor/Abc/
+www/
+.gitattributes
+.gitignore
+composer.json
+specification.md

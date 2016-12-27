@@ -1,0 +1,11 @@
+docs/demo-app/
+src/
+tests/
+.gitignore
+.php_cs
+README.md
+build.xml
+composer.json
+phpcs.xml
+phpmd.xml
+phpunit.xml.dist

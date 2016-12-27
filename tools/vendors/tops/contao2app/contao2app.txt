@@ -1,0 +1,10 @@
+.idea/
+assets/
+config/
+controller/
+dca/
+languages/de/
+model/
+templates/
+composer.json
+license.txt

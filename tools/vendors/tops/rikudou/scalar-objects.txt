@@ -1,0 +1,4 @@
+Scalar/
+.gitignore
+README.md
+composer.json

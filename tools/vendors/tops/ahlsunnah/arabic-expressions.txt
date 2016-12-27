@@ -1,0 +1,11 @@
+css/
+font/
+.gitignore
+ArabicExpressionsInfo.php
+ArabicExpressionsPlugin.php
+arabic-expressions.php
+composer.json
+license.txt
+readme.md
+readme.txt
+todo.md

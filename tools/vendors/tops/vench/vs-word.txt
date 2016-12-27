@@ -1,0 +1,7 @@
+documentation/
+examples/
+vsword/
+.gitignore
+README.md
+autoload.php
+composer.json

@@ -1,0 +1,8 @@
+DependencyInjection/
+Parse/
+Resources/config/
+.DS_Store
+.gitignore.json
+GkocakayaParseSdkBundle.php
+README.md
+composer.json

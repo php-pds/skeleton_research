@@ -1,0 +1,16 @@
+bin/
+fixtures/
+src/
+tests/
+.gitignore
+.travis.yml
+CONTRIBUTING.md
+LICENSE
+README.md
+build
+composer.json
+phpcs.xml
+phpmd.xml
+phpun.yml
+phpunit.xml
+samples.phpun.yml

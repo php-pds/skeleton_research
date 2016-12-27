@@ -1,0 +1,4 @@
+src/
+composer.json
+image_delta.info.yml
+readme.md

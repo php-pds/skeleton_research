@@ -1,0 +1,8 @@
+bin/
+library/
+public/
+src/
+.gitignore
+Makefile
+README.md
+composer.json

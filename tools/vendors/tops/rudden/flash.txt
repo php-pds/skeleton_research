@@ -1,0 +1,11 @@
+src/Flash/
+test/
+view/flash/
+webroot/
+.scrutinizer.yml
+.travis.yml
+LICENSE.txt
+README.md
+autoloader.php
+composer.json
+phpunit.xml.dist

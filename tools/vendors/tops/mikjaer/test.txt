@@ -1,0 +1,6 @@
+src/
+vendor/
+README.md
+VERSION
+composer.json
+testing.php

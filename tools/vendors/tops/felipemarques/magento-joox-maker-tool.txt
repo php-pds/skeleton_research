@@ -1,0 +1,12 @@
+.idea/
+Block/
+Model/Total/
+Observer/
+Setup/
+etc/
+i18n/
+view/frontend/
+.gitignore
+README.md
+composer.json
+registration.php

@@ -1,0 +1,6 @@
+config/
+src/Singly/
+view/singly/singly/
+LICENSE
+README.md
+composer.json

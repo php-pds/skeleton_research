@@ -1,0 +1,7 @@
+_config/
+code/
+lang/
+templates/
+.editorconfig
+Readme.md
+composer.json

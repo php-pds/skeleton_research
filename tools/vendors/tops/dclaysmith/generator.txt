@@ -1,0 +1,12 @@
+bin/
+example/
+src/dclaysmith/
+tests/
+.gitignore
+.travis.yml
+LICENSE.md
+README.md
+build.php
+composer.json
+notes.txt
+run.php

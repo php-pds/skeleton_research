@@ -1,0 +1,15 @@
+Config/
+Console/Command/Task/
+Controller/
+Lib/
+Model/
+Test/
+Vendor/
+View/Helper/
+vendor/
+.gitignore
+CONTRIBUTING.md
+LICENSE.txt
+README.md
+composer.json
+composer.lock

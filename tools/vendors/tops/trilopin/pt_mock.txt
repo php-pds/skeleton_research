@@ -1,0 +1,13 @@
+src/Pt/
+test/Pt/
+.gitignore
+.php_cs
+.scrutinizer.yml
+.travis.yml
+MIT-LICENSE
+NEWS
+README.md
+VERSION
+appveyor.yml
+composer.json
+phpunit.xml.dist

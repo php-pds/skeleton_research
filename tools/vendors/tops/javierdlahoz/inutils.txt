@@ -1,0 +1,9 @@
+.settings/
+src/INUtils/
+.buildpath
+.composer.json.swp
+.gitignore
+.project
+composer.json
+composer.lock
+composer.phar

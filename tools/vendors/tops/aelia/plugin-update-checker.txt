@@ -1,0 +1,7 @@
+css/
+js/
+README.md
+composer.json
+debug-bar-panel.php
+debug-bar-plugin.php
+plugin-update-checker.php

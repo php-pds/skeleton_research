@@ -1,0 +1,15 @@
+docs/
+lib/
+test/
+.editorconfig
+.gitignore
+.swagger-codegen-ignore
+.travis.yml
+LICENSE
+README.md
+autoload.php
+composer.json
+composer.lock
+git_push.sh
+phpunit.xml
+pom.xml

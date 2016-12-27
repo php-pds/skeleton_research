@@ -1,0 +1,11 @@
+ViewImage/
+img/
+src/Image/
+test/
+.gitattributes
+.gitignore
+.scrutinizer.yml
+.travis.yml
+README.md
+autoloader.php
+composer.json

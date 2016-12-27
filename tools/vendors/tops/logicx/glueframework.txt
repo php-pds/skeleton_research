@@ -1,0 +1,11 @@
+.settings/
+src/Infrastructure/
+tests/
+.buildpath
+.gitignore
+.project
+Glue.class.violet.html
+README.md
+build.xml
+composer.json
+phpunit.xml.dist

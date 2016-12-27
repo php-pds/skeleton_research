@@ -1,0 +1,7 @@
+bin/
+.gitignore
+.travis.yml
+README.md
+composer.json
+phpunit.xml
+test.php

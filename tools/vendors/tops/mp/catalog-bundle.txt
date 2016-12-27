@@ -1,0 +1,12 @@
+Controller/
+DependencyInjection/
+Entity/
+Form/
+Model/
+Repository/
+Resources/
+Service/
+.gitignore
+MPCatalogBundle.php
+README.md
+composer.json

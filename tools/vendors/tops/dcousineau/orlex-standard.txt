@@ -1,0 +1,8 @@
+config/
+src/App/
+web/
+.gitignore
+LICENSE
+README.md
+composer.json
+run_test_server.sh

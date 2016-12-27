@@ -1,0 +1,13 @@
+code/
+.editorconfig
+.gitattributes
+.gitignore
+.scrutinizer.yml
+.travis.yml
+NOTES
+README.md
+_config.php
+code-of-conduct.md
+composer.json
+contributing.md
+license.md

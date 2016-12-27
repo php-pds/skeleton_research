@@ -1,0 +1,9 @@
+EncodingConversionDataLossChecker/
+.gitattributes
+.gitignore
+.travis.yml
+MIT-LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

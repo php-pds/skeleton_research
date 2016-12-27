@@ -1,0 +1,12 @@
+src/
+tests/
+.gitignore
+.travis.yml
+CHANGELOG
+CONTRIBUTORS
+LICENSE
+Makefile
+README.md
+apigen.neon
+composer.json
+phpunit.xml

@@ -1,0 +1,9 @@
+PhpSpreadsheet/
+demo/
+src/
+test/XLSWoles/
+.gitignore
+.travis.yml
+README.md
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,12 @@
+resources/
+src/
+tests/
+.gitignore
+.styleci.yml
+LICENSE.md
+README.md
+circle.yml
+composer.json
+composer.lock
+phpunit.xml
+sereno.png

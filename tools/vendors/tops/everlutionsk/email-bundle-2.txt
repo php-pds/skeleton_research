@@ -1,0 +1,15 @@
+Attachment/
+Controller/
+DependencyInjection/
+Doctrine/Type/
+Entity/
+Inbound/
+Message/
+Mock/Outbound/MailSystem/
+Outbound/
+Relationship/
+Resources/config/
+Support/
+EverlutionEmailBundle.php
+README.md
+composer.json

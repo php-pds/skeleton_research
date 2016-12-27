@@ -1,0 +1,6 @@
+src/pbalan/FileUploader/
+tests/
+LICENSE
+README.md
+autoload.php
+composer.json

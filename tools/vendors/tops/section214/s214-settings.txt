@@ -1,0 +1,10 @@
+source/
+.editorconfig
+.gitattributes
+.gitignore
+.jshintrc
+CONTRIBUTING.md
+README.md
+apigen.neon
+composer.json
+license.txt

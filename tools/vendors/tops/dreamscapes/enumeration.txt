@@ -1,0 +1,12 @@
+Dreamscapes/
+tests/
+.coveralls.yml
+.gitignore
+.travis.yml
+LICENSE
+Makefile
+README.md
+composer.json
+composer.lock
+phpdoc.dist.xml
+phpunit.xml

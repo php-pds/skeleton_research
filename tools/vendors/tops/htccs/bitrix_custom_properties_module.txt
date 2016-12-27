@@ -1,0 +1,8 @@
+install/
+lang/ru/
+lib/
+.gitignore
+README.md
+composer.json
+include.php
+options.php

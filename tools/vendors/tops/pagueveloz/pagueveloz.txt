@@ -1,0 +1,14 @@
+build/
+src/
+tests/
+.gitattributes
+.gitignore
+.styleci.yml
+.travis.yml
+CHANGELOG.md
+Dockerfile
+LICENSE
+README.md
+codecov.yml
+composer.json
+phpunit.xml.dist

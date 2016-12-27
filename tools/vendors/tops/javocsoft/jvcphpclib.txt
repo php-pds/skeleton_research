@@ -1,0 +1,7 @@
+.settings/
+jvcphplib/
+.buildpath
+.project
+LICENSE
+README.md
+composer.json

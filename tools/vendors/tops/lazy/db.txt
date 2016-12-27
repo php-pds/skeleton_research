@@ -1,0 +1,6 @@
+src/Lazy/Db/
+tests/
+.gitignore
+.travis.yml
+README.md
+composer.json

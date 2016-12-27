@@ -1,0 +1,7 @@
+config/
+src/Parrot/Database/
+.gitignore
+Module.php
+README.md
+autoload_classmap.php
+composer.json

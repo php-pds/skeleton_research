@@ -1,0 +1,13 @@
+Admin/
+Controller/
+DependencyInjection/
+Entity/
+Repository/
+Resources/
+Tests/
+.gitignore
+.travis.yml
+MGIBlogBundle.php
+README.markdown
+composer.json
+phpunit.xml.dist

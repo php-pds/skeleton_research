@@ -1,0 +1,6 @@
+src/guzzleservice/
+.travis.yml
+LICENSE
+LICENSE.txt
+composer.json
+readme.md

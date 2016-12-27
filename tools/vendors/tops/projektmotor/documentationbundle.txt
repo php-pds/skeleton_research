@@ -1,0 +1,8 @@
+Controller/
+DependencyInjection/
+Markdown/
+Menu/
+Resources/
+PmDocumentationBundle.php
+Readme.md
+composer.json

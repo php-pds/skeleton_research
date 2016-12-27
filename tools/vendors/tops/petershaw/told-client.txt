@@ -1,0 +1,6 @@
+src/petershaw/told/
+tests/
+.gitignore
+.travis.yml
+README.md
+composer.json

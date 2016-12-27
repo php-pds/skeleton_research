@@ -1,0 +1,11 @@
+scripts/
+src/
+.gitattributes
+.gitignore
+Vagrantfile
+composer.json
+composer.lock
+entropy
+init.bat
+init.sh
+readme.md

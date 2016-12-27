@@ -1,0 +1,5 @@
+lib/Fza/MysqlDoctrineLevenshteinFunction/DQL/
+.gitignore
+LICENSE
+README.md
+composer.json

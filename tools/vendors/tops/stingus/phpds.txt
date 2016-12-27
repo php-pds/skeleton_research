@@ -1,0 +1,11 @@
+docs/
+src/PHPds/
+tests/UnitTest/
+.codeclimate.yml
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpdoc.dist.xml
+phpunit.xml.dist

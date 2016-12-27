@@ -1,0 +1,11 @@
+assets/
+bin/
+docs/en/
+examples/
+src/
+tests/
+.gitignore
+README.md
+codeception.yml
+composer.json
+license.md

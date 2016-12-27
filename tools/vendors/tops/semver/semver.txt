@@ -1,0 +1,16 @@
+Exception/
+Tests/
+.coveralls.yml
+.gitignore
+.php_cs
+.travis.yml
+CONTRIBUTING.md
+LICENSE
+README.md
+Vagrantfile
+Version.php
+VersionComparator.php
+VersionSorter.php
+composer.json
+composer.lock
+phpunit.xml.dist

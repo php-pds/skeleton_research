@@ -1,0 +1,11 @@
+src/Sloth/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+boot.php
+composer.json
+composer.lock
+init.php
+phpunit.xml

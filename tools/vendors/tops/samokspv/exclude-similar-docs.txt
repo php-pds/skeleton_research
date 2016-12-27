@@ -1,0 +1,11 @@
+Config/
+Lib/
+Test/
+Utility/
+.editorconfig
+.semver
+.travis.yml
+CONTRIBUTING.markdown
+LICENSE
+README.md
+composer.json

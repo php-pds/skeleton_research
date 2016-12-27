@@ -1,0 +1,11 @@
+Configuration/
+DependencyInjection/
+Driver/
+Resources/config/
+.gitignore
+FlintLabsFormMetadataBundle.php
+FormMapper.php
+FormMetadata.php
+LICENSE
+README.md
+composer.json

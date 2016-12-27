@@ -1,0 +1,12 @@
+spec/DocumentStorage/Adapter/Storage/
+src/DocumentStorage/
+.editorconfig
+.gitattributes
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE.md
+Makefile
+README.md
+composer.json
+phpspec.yml

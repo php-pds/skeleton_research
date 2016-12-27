@@ -1,0 +1,11 @@
+bin/
+config/
+controllers/
+models/
+public/
+views/
+.gitignore
+.htaccess
+README.md
+composer.json
+index.php

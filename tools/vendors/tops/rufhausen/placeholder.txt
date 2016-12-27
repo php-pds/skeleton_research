@@ -1,0 +1,5 @@
+src/placeholder/
+README.md
+_config.yml
+composer.json
+license

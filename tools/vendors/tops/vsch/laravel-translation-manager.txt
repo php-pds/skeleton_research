@@ -1,0 +1,16 @@
+config/
+database/migrations/
+images/
+laravel-translation-manager.wiki @ 1bdb999
+public/
+resources/
+src/
+tests/
+.gitattributes
+.gitignore
+.gitmodules
+LICENSE
+composer.json
+phpunit.xml
+readme.md
+versioninfo.md

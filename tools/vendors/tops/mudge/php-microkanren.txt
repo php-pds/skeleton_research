@@ -1,0 +1,8 @@
+src/MicroKanren/
+tests/MicroKanren/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock

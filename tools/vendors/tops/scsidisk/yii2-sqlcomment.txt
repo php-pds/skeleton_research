@@ -1,0 +1,10 @@
+tests/
+.travis.yml
+CHANGELOG.md
+CMConnection.php
+README.md
+appveyor.yml
+codeception.yml
+composer.json
+composer.lock
+package.json

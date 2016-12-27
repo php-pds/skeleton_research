@@ -1,0 +1,10 @@
+.travis.yml
+LICENSE
+README.md
+ajax-loading.jquery.json
+composer.json
+jquery.loading.css
+jquery.loading.js
+jquery.loading.min.css
+jquery.loading.min.js
+package.json

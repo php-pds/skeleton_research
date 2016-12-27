@@ -1,0 +1,8 @@
+bin/
+build/
+config/
+env/
+www/
+.gitignore
+README.md
+composer.json

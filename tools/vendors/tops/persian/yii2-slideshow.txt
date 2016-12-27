@@ -1,0 +1,6 @@
+images/
+GifCreator.php
+LICENSE
+README.md
+composer.json
+slideshow.php

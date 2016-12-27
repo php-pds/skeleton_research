@@ -1,0 +1,11 @@
+src/
+tests/
+.coveralls.yml
+.gitignore
+.travis.yml
+circle.yml
+composer.json
+composer.lock
+config.php
+phpunit.xml
+readme.md

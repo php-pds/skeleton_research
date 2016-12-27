@@ -1,0 +1,6 @@
+spec/Gitory/OAuth2/
+src/
+views/
+.gitignore
+.travis.yml
+composer.json

@@ -1,0 +1,5 @@
+src/SK/Digidoc/
+LICENSE.txt
+README.md
+composer.json
+gpl.txt

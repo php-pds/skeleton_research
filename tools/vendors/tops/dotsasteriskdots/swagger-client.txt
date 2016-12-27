@@ -1,0 +1,9 @@
+docs/
+lib/
+test/
+.gitignore
+LICENSE
+README.md
+autoload.php
+composer.json
+git_push.sh

@@ -1,0 +1,8 @@
+bin/
+library/TCrypto/
+tests/
+.travis.yml
+LICENSE
+README.markdown
+composer.json
+phpunit.xml.dist

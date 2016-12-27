@@ -1,0 +1,6 @@
+src/BrianReeve/AssetProxy/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,11 @@
+actions/
+editor/
+messages/
+views/
+.gitignore
+Assets.php
+AssetsJQueryAdapter.php
+BrowseAssets.php
+CKEditor.php
+README.md
+composer.json

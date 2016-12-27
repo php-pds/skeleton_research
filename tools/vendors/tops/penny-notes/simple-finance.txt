@@ -1,0 +1,5 @@
+src/PennyNotes/
+tests/
+LICENSE
+README.md
+composer.json

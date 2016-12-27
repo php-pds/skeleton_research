@@ -1,0 +1,10 @@
+base/
+install/
+js/
+plugin/
+template/
+.gitignore
+FW.php
+LICENSE
+README.md
+composer.json

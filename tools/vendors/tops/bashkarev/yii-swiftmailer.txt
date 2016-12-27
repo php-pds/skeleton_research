@@ -1,0 +1,12 @@
+debug/
+swift/
+tests/
+.gitignore
+BaseMailer.php
+BaseMessage.php
+MailerInterface.php
+MessageInterface.php
+README.md
+View.php
+composer.json
+phpunit.xml

@@ -1,0 +1,11 @@
+src/Theme/
+tests/
+.editorconfig
+.gitattributes
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENSE.md
+composer.json
+phpunit.xml
+readme.md

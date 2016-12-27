@@ -1,0 +1,4 @@
+src/Aliegon/
+README.md
+composer.json
+phpunit.xml.dist

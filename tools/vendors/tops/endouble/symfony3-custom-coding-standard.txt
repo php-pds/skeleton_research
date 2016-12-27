@@ -1,0 +1,9 @@
+Symfony3Custom/
+.gitignore
+.travis.yml
+CONTRIBUTING.md
+README.md
+TESTING.md
+build.properties
+build.xml
+composer.json

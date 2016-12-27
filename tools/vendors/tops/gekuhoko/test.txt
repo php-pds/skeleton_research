@@ -1,0 +1,6 @@
+.idea/
+Console/Command/
+vendor/
+app.php
+composer.json
+composer.lock

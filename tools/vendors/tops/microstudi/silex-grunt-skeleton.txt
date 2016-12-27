@@ -1,0 +1,17 @@
+bin/
+config/
+grunt/
+src/
+templates/
+var/
+web/
+.editorconfig
+.gitignore
+.jshintrc
+Gruntfile.js
+LICENSE
+README.md
+bower.json
+composer.json
+package.json
+phpunit.xml.dist

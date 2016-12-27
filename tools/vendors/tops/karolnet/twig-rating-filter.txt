@@ -1,0 +1,11 @@
+DependencyInjection/
+Exception/
+Resources/
+Tests/
+Twig/
+.travis.yml
+KarolNetTwigRatingFilterBundle.php
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

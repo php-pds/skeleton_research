@@ -1,0 +1,12 @@
+examples/
+src/Papper/
+tests/Papper/Tests/
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+composer.json
+composer.lock
+dynamicReturnTypeMeta.json
+phpunit.xml.dist

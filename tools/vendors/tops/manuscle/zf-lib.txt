@@ -1,0 +1,10 @@
+config/
+src/ZfLib/
+tests/
+.gitignore
+LICENSE
+Module.php
+README.md
+composer.json
+coverage-checker.php
+phpunit.xml.dist

@@ -1,0 +1,5 @@
+src/ZipCodeValidator/Constraints/
+.gitignore
+LICENSE
+README.md
+composer.json

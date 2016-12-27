@@ -1,0 +1,5 @@
+src/Mrterryh/Repositories/
+.gitignore
+README.md
+composer.json
+composer.lock

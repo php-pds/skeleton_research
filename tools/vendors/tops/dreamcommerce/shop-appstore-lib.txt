@@ -1,0 +1,7 @@
+docs/
+src/DreamCommerce/ShopAppstoreLib/
+tests/DreamCommerce/Resource/
+.gitignore
+LICENSE
+README.md
+composer.json

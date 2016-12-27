@@ -1,0 +1,11 @@
+Controller/
+DependencyInjection/
+Entity/
+Form/
+Model/
+Repository/
+Resources/
+Tests/Controller/
+MetalvarezVotingBundle.php
+README.md
+composer.json

@@ -1,0 +1,6 @@
+lib/task/
+test/
+.gitignore
+LICENSE
+README.md
+composer.json

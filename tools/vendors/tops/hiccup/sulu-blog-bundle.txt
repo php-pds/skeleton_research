@@ -1,0 +1,13 @@
+.github/
+src/
+test/
+.codeclimate.yml
+.eslintignore
+.eslintrc
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml
+ruleset.xml

@@ -1,0 +1,12 @@
+build/config/
+examples/
+src/ReceiptValidator/
+tests/
+travis/
+.coveralls.yml
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

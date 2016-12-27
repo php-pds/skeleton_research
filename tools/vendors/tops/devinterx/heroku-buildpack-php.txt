@@ -1,0 +1,8 @@
+bin/
+conf/
+support/build/
+.gitignore
+LICENSE
+README.md
+composer.json
+requirements.txt

@@ -1,0 +1,10 @@
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+RequestTracker.php
+composer.json
+example.php
+phpunit.xml
+scrutinizer.yml

@@ -1,0 +1,6 @@
+javascripts/
+stylesheets/
+ProxyBrowser.php
+README.md
+composer.json
+index.html

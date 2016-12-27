@@ -1,0 +1,11 @@
+examples/
+tests/
+AUTHORS
+COPYING
+ChangeLog
+Makefile
+README
+composer.json
+gettext.inc
+gettext.php
+streams.php

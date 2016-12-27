@@ -1,0 +1,16 @@
+app/
+bootstrap/
+config/
+db/migrations/
+public/
+resources/views/
+.env.example
+.gitignore
+LICENSE
+README.md
+bower.json
+composer.json
+composer.lock
+gulpfile.js
+package.json
+phinx.yml

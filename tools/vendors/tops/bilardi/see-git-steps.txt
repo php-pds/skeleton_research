@@ -1,0 +1,10 @@
+test/
+.gitignore
+LICENSE
+Makefile
+README.md
+composer.json
+see-git-steps.1
+see-git-steps.1.md
+see-git-steps.sh
+test.sh

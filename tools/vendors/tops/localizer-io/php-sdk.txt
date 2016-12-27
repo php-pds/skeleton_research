@@ -1,0 +1,9 @@
+source/Localizer/
+tests/
+.apishka.php
+.gitattributes
+.gitignore
+.php_cs
+README.md
+composer.json
+composer.lock

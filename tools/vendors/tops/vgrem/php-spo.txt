@@ -1,0 +1,12 @@
+examples/
+src/
+tests/
+vendor/
+.gitattributes
+.gitignore
+.travis.yml
+LICENSE.md
+README.md
+composer.json
+composer.lock
+phpunit_o365.xml

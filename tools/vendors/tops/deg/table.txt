@@ -1,0 +1,13 @@
+src/Table/
+test/
+view/table/
+webroot/
+.gitattributes
+.gitignore
+.scrutinizer.yml
+.travis.yml
+autoload.php
+composer.json
+composer.lock
+phpunit.xml.dist
+readme.md

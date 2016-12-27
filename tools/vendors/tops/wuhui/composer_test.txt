@@ -1,0 +1,6 @@
+.idea/
+WeixinAPI/
+.gitignore
+README.md
+composer.json
+vendor.zip

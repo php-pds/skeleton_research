@@ -1,0 +1,6 @@
+classes/
+config/
+guide/entity/
+LICENSE.md
+README.md
+composer.json

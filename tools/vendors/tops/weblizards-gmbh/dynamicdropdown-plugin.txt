@@ -1,0 +1,10 @@
+controllers/
+lib/
+static/
+texts/
+views/scripts/admin/
+CHANGELOG
+README.md
+composer.json
+config.xml
+plugin.xml

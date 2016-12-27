@@ -1,0 +1,4 @@
+src/Check/Mails/
+README.md
+composer.json
+exemplo.php

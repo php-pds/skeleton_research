@@ -1,0 +1,9 @@
+library/PhpSsrs/
+wsdl/
+.gitattributes
+.gitignore
+LICENSE
+README.md
+build.xml
+composer.json
+composer.lock

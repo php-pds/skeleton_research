@@ -1,0 +1,5 @@
+_inc/
+assets/
+composer.json
+readme.txt
+sharespring.php

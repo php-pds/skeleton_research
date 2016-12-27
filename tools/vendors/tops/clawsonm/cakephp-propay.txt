@@ -1,0 +1,15 @@
+.idea/
+Config/
+Lib/
+Test/
+generated/
+.editorconfig
+.gitignore
+.semver
+.travis.yml
+CONTRIBUTING.md
+LICENSE
+README.md
+composer.json
+setup.sh
+travis_setup.sh

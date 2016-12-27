@@ -1,0 +1,11 @@
+DependencyInjection/
+Resources/config/
+Subscriber/
+Tests/DependencyInjection/
+.gitignore
+.travis.yml
+GrifisDoctrineTablePrefixBundle.php
+LICENSE.txt
+README.md
+composer.json
+phpunit.xml

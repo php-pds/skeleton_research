@@ -1,0 +1,17 @@
+config/install/
+libraries/cropper/dist/
+modules/
+src/Tests/
+tests/behat/
+themes/socialbase/
+.gitignore
+.travis.yml
+README.md
+build-social.make
+composer.json
+drupal-org-core.make
+drupal-org.make
+phpunit.xml.dist
+social.info.yml
+social.install
+social.profile

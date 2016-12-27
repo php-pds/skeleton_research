@@ -1,0 +1,11 @@
+lib/
+tests/TransactPRO/Gate/
+.coveralls.yml
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+phpci.yml
+phpunit.xml

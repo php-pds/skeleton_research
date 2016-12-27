@@ -1,0 +1,5 @@
+IRHT/ThesaurusBundle/
+.gitattributes
+.project
+README.md
+composer.json

@@ -1,0 +1,12 @@
+src/
+tests/
+.codeclimate.yml
+.editorconfig
+.gitattributes
+.gitignore
+README.md
+composer.json
+license.txt
+phpcs.xml
+phpmd.xml
+phpunit.xml

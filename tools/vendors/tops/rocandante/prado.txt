@@ -1,0 +1,9 @@
+assets/
+config/
+database/
+resources/
+src/
+.gitignore
+LICENSE
+README.md
+composer.json

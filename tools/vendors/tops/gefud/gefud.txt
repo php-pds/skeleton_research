@@ -1,0 +1,13 @@
+bin/
+build/
+features/bootstrap/
+spec/Gefud/Generator/Entity/
+src/
+tests/
+.gitignore
+README.md
+build.xml
+composer.json
+gefud.yml
+phpci.yml
+phpspec.yml

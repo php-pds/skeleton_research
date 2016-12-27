@@ -1,0 +1,8 @@
+Controller/
+DependencyInjection/
+Resources/config/
+.gitignore
+LICENSE
+README.md
+StateMachineVisualizationBundle.php
+composer.json

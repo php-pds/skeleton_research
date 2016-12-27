@@ -1,0 +1,5 @@
+src/Kampernet/Aspect/
+tests/
+.gitignore
+README.md
+composer.json

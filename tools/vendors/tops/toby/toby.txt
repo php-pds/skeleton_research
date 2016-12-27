@@ -1,0 +1,8 @@
+docs/
+lib/Toby/
+vendor/
+.gitignore
+README.md
+composer.json
+composer.lock
+toby.php

@@ -1,0 +1,14 @@
+benchmarks/
+build/
+src/
+style/
+tests/
+.gitignore
+.travis.yml
+DEVELOP.md
+README.md
+autoloader.php
+bootstrap.php
+composer.json
+dumpContent.php
+phpunit.xml

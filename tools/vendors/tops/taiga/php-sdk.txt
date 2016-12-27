@@ -1,0 +1,5 @@
+Taiga/
+.gitignore
+LICENSE
+README.md
+composer.json

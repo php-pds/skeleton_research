@@ -1,0 +1,8 @@
+DependencyInjection/
+Event/
+Menu/
+Resources/config/
+KalamuMenuServiceBundle.php
+LICENSE
+README.md
+composer.json

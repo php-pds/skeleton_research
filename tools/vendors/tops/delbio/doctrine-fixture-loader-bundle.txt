@@ -1,0 +1,6 @@
+DataFixtures/ORM/
+.gitignore
+DoctrineFixtureLoaderBundle.php
+LICENSE
+README.md
+composer.json

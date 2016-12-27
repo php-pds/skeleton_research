@@ -1,0 +1,8 @@
+Generator/
+Model/
+Tests/
+.gitignore
+README.md
+composer.json
+composer.lock
+makefile

@@ -1,0 +1,13 @@
+components/
+config/
+controllers/
+model/
+views/
+web/
+.gitignore
+README.md
+Test_PHP.pdf
+autoloader_namespaces.php
+composer.json
+composer.lock
+loader.php

@@ -1,0 +1,10 @@
+lib/
+test/
+.drone.yml
+.gitignore
+CHANGELOG
+LICENSE
+README.md
+TODO
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,9 @@
+DependencyInjection/
+Factory/
+Resources/config/
+Service/
+.gitignore
+LICENSE
+README.md
+ScytaleIntercomBundle.php
+composer.json

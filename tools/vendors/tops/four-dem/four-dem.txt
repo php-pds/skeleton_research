@@ -1,0 +1,4 @@
+lib/FourDem/
+.gitignore
+README.md
+composer.json

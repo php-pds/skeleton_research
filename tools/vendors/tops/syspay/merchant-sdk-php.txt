@@ -1,0 +1,10 @@
+lib/Syspay/SDK/Merchant/
+tools/
+.editorconfig
+.gitattributes
+.gitignore
+LICENSE
+README.md
+composer.json
+loader.php
+phpcs_ruleset.xml

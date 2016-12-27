@@ -1,0 +1,10 @@
+DependencyInjection/
+Resources/config/
+Tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+ToxiproxyBundle.php
+composer.json
+phpunit.xml

@@ -1,0 +1,9 @@
+lib/SidekiqJobPusher/
+test/SidekiqJobPusher/
+.gitignore
+LICENCE
+README.md
+composer.json
+composer.lock
+example
+phpunit.xml.dist

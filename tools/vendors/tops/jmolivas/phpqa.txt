@@ -1,0 +1,10 @@
+bin/
+config/
+src/
+tests/
+.gitignore
+README.md
+composer.json
+composer.lock
+phpqa.yml
+phpunit.xml.dist

@@ -1,0 +1,8 @@
+views/
+.gitignore
+CHANGE.md
+LICENSE.md
+Likely.php
+LikelyAsset.php
+README.md
+composer.json

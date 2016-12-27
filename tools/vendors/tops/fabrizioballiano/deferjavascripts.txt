@@ -1,0 +1,7 @@
+Observer/Controller/
+etc/
+.gitignore
+LICENSE.md
+README.md
+composer.json
+registration.php

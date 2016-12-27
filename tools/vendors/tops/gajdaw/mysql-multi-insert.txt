@@ -1,0 +1,10 @@
+spec/
+src/
+.gitignore
+LICENSE
+README.md
+Vagrantfile
+composer.json
+phpspec.yml
+stamp.yml
+version.txt

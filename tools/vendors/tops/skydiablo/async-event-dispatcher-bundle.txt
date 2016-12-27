@@ -1,0 +1,11 @@
+Command/
+DependencyInjection/
+Event/
+EventDispatcher/
+Listener/
+Queue/
+Resources/config/
+Serializer/
+AsyncEventDispatcherBundle.php
+README.md
+composer.json

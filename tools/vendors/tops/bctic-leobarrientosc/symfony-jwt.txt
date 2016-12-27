@@ -1,0 +1,7 @@
+Controller/
+DependencyInjection/
+Resources/
+Security/
+Tests/Controller/
+BcTicJWTBundle.php
+composer.json

@@ -1,0 +1,5 @@
+src/AuditLog/
+.gitignore
+LICENSE
+README.md
+composer.json

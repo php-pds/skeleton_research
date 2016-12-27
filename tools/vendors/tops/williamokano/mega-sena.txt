@@ -1,0 +1,9 @@
+.idea/
+src/megasena/
+tests/
+.gitignore
+.styleci.yml
+.travis.yml
+LICENSE
+composer.json
+readme.MD

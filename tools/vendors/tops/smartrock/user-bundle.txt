@@ -1,0 +1,17 @@
+Controller/
+DependencyInjection/
+Doctrine/
+Entity/
+Form/
+Listener/
+Model/
+Resources/
+Security/
+Tests/
+Twig/
+.gitignore
+.travis.yml
+README.md
+SmartRockUserBundle.php
+composer.json
+phpunit.xml.dist

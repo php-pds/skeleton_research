@@ -1,0 +1,10 @@
+.groundwork/class/
+bin/
+src/Dancras/Groundwork/
+test/
+.editorconfig
+.gitignore
+README.md
+composer.json
+composer.lock
+phpunit.xml

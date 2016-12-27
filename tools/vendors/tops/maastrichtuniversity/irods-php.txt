@@ -1,0 +1,13 @@
+PHPUnitTest/prods/src/
+attic/
+src/
+test/
+tutorials/Prods/
+utilities/
+.gitignore
+LICENSE.txt
+README.md
+composer.json
+doc_config.ini
+test.php
+test_streamer.php

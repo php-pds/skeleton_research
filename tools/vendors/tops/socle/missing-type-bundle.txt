@@ -1,0 +1,8 @@
+DataTransformer/
+DependencyInjection/
+Resources/config/
+Type/
+LICENSE
+README.md
+SocleMissingTypeBundle.php
+composer.json

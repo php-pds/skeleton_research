@@ -1,0 +1,7 @@
+raw/img/
+src/
+.gitignore
+LICENSE
+README.md
+composer.json
+test.php

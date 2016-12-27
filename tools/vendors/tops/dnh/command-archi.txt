@@ -1,0 +1,6 @@
+src/Dnh/CommandArchi/
+tests/
+.gitignore
+.travis.yml
+composer.json
+phpunit.xml

@@ -1,0 +1,13 @@
+DependencyInjection/
+Entity/
+Form/
+Manager/
+Model/
+Repository/
+Resources/
+Security/
+Tests/Controller/
+IfgmACLInterfaceBundle.php
+LICENSE
+README.md
+composer.json

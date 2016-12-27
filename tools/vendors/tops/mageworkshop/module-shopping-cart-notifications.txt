@@ -1,0 +1,11 @@
+Block/
+etc/
+i18n/
+view/frontend/
+.gitattributes
+COPYING.txt
+LICENSE.txt
+LICENSE_AFL.txt
+README.md
+composer.json
+registration.php

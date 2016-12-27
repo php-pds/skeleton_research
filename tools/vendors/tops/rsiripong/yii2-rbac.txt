@@ -1,0 +1,17 @@
+commands/
+components/
+controllers/
+messages/
+migrations/
+models/
+validators/
+views/
+widgets/
+Bootstrap.php
+CHANGELOG.md
+LICENSE.md
+README.md
+RbacConsoleModule.php
+RbacWebModule.php
+UPGRADE.md
+composer.json

@@ -1,0 +1,9 @@
+src/
+tests/
+.gitignore
+README.md
+composer.json
+composer.lock
+permutation.sublime-project
+permutation.sublime-workspace
+phpunit.xml.dist

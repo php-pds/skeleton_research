@@ -1,0 +1,13 @@
+atsdPHP/
+data-monitor/
+examples/
+htpasswd_examples/
+meters/
+performance/
+.gitignore
+.htaccess
+ATSD-php-client_Windows.md
+LICENSE
+Meters.md
+README.md
+composer.json

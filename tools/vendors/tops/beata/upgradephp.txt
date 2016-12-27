@@ -1,0 +1,6 @@
+doc/
+ext/
+composer.json
+upgrade.php
+upgrade.php.prefixed
+upgrade.php.shortened

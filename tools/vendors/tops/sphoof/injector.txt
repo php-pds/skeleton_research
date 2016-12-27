@@ -1,0 +1,7 @@
+docs/
+src/Injector/
+tests/
+.gitignore
+README.md
+composer.json
+license.txt

@@ -1,0 +1,5 @@
+.gitignore
+SwithError.php
+composer.json
+errorLayout.php
+readme.md

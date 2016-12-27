@@ -1,0 +1,8 @@
+bin/
+config/
+public/
+README.md
+autoload.php
+composer.json
+composer.lock
+kernel.php

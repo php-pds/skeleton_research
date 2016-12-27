@@ -1,0 +1,15 @@
+Api/
+Block/Adminhtml/
+Controller/Adminhtml/
+Helper/
+Model/
+Setup/
+Ui/Component/Listing/Column/
+etc/
+nbproject/
+view/
+.gitattributes
+.gitignore
+README.md
+composer.json
+registration.php

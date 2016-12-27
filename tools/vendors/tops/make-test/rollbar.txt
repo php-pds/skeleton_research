@@ -1,0 +1,11 @@
+src/
+tests/
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+THANKS.md
+UPGRADE_FROM_RATCHET.md
+composer.json
+phpunit.xml

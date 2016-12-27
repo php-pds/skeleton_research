@@ -1,0 +1,6 @@
+src/Pokapi/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock

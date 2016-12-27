@@ -1,0 +1,8 @@
+config/
+src/NewReCaptcha/
+tests/
+view/js/
+.gitignore
+LICENSE.md
+Readme.md
+composer.json

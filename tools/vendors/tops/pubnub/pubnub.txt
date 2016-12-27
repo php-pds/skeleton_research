@@ -1,0 +1,15 @@
+composer/
+manual_tests/
+tests/
+.gitignore
+.pubnub.yml
+.travis.yml
+CHANGELOG
+LICENSE
+README.md
+TODO
+VERSION
+composer.json
+composer.lock
+phpunit.xml.dist
+pubnub.com.pem

@@ -1,0 +1,12 @@
+bin/
+examples/
+src/Youtubedl/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+TODO.md
+composer.json
+composer.lock
+phpunit.xml.dist

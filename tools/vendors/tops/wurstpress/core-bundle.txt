@@ -1,0 +1,10 @@
+Common/
+Controller/
+DependencyInjection/
+Entity/
+Form/
+Resources/
+Tests/
+README.md
+WurstpressCoreBundle.php
+composer.json

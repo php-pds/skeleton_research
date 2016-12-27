@@ -1,0 +1,6 @@
+src/MisiekSnk/CharMapper/
+tests/
+.gitignore
+README.md
+composer.json
+phpunit.xml

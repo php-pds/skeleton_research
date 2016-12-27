@@ -1,0 +1,11 @@
+.idea/
+examples/
+lib/
+test/
+.gitignore
+LICENSE
+Makefile
+NOTICE
+README.md
+VERSION
+composer.json

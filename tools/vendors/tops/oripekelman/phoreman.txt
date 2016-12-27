@@ -1,0 +1,9 @@
+app/config/
+src/
+.gitignore
+CHANGELOG.md
+LICENSE.md
+README.md
+build.php
+composer.json
+phoreman

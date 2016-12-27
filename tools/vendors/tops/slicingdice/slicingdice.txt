@@ -1,0 +1,9 @@
+src/
+tests_and_examples/
+.gitignore
+CHANGELOG.md
+LICENSE.txt
+README.md
+circle.yml
+composer.json
+phpunit.xml.dist

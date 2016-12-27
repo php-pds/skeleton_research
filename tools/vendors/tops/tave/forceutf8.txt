@@ -1,0 +1,3 @@
+src/ForceUTF8/
+README.md
+composer.json

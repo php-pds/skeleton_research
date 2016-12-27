@@ -1,0 +1,6 @@
+dist/
+src/DataGrid/
+.gitignore
+LICENCE.md
+README.md
+composer.json

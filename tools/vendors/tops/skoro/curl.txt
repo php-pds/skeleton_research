@@ -1,0 +1,7 @@
+examples/
+Curl.php
+HttpException.php
+LICENSE
+Multi.php
+README.md
+composer.json

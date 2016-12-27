@@ -1,0 +1,8 @@
+DependencyInjection/
+Exception/
+Resources/config/
+LICENSE
+QRBundle.php
+Qr.php
+README.md
+composer.json

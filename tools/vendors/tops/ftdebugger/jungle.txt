@@ -1,0 +1,10 @@
+bin/
+config/
+example/
+src/Jungle/
+tests/
+vendor/
+.gitignore
+README.md
+build.xml
+composer.json

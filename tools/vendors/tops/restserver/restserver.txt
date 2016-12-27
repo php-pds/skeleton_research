@@ -1,0 +1,8 @@
+example/
+src/Rest/
+tests/
+.gitignore
+README.md
+composer.json
+makephar.php
+restserver.phar

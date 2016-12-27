@@ -1,0 +1,4 @@
+lib/Logitrail/Lib/
+.gitignore
+README.md
+composer.json

@@ -1,0 +1,7 @@
+assets/
+migrations/
+NestableAsset.php
+README.md
+TreeMenu.php
+composer.json
+img.jpg

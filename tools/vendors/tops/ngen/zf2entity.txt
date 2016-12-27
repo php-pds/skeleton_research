@@ -1,0 +1,9 @@
+config/
+data/
+src/Entity/
+view/shared/
+LICENSE
+Module.php
+README.md
+autoload_classmap.php
+composer.json

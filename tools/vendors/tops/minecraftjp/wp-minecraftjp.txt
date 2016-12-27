@@ -1,0 +1,11 @@
+css/
+img/
+locale/
+src/WPMinecraftJP/
+.gitignore
+LICENSE
+autoload.php
+composer.json
+minecraftjp.php
+readme.txt
+uninstall.php

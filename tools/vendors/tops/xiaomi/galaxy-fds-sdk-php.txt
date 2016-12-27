@@ -1,0 +1,10 @@
+examples/
+src/
+tests/
+LICENSE.txt
+README.md
+autoload.php
+bootstrap.php
+composer.json
+composer.lock
+composer.phar

@@ -1,0 +1,9 @@
+src/
+tests/
+.gitignore
+COPYING
+Makefile
+README.md
+composer.json
+idoitapi.php
+project.json

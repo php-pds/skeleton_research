@@ -1,0 +1,9 @@
+doc/tutorial/
+example/
+lib/Tivoka/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+include.php

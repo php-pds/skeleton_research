@@ -1,0 +1,12 @@
+example/
+src/Provider/
+tests/src/Provider/
+.env.example
+.gitignore
+.travis.yml
+CONTRIBUTING.md
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml

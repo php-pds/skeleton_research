@@ -1,0 +1,10 @@
+Classes/Flow2Lab/EventSourcing/
+Configuration/
+Tests/Unit/
+.codeclimat.yaml
+.gitignore
+.travis.yml
+LICENSE
+README.md
+UnitTests.xml
+composer.json

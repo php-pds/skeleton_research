@@ -1,0 +1,7 @@
+config/
+libraries/
+views/
+.gitignore
+Readme.md
+composer.json
+spark.info

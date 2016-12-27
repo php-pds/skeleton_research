@@ -1,0 +1,6 @@
+assets/scripts/
+src/
+.gitignore
+LICENSE
+README.md
+composer.json

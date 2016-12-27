@@ -1,0 +1,5 @@
+migrations/
+Bootstrap.php
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,7 @@
+tests/
+NearTAL.Compiler.php
+NearTAL.Tests.php
+NearTAL.php
+README.md
+composer.json
+ganon.php

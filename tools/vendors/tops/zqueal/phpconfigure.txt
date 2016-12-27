@@ -1,0 +1,7 @@
+conf/
+vendor/
+LICENSE
+README.md
+composer.json
+index.php
+package.json

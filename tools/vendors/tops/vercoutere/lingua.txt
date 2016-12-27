@@ -1,0 +1,7 @@
+spec/Lingua/
+src/Lingua/
+.gitignore
+.travis.yml
+composer.json
+composer.lock
+readme.md

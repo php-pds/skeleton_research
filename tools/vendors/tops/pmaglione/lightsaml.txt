@@ -1,0 +1,14 @@
+bin/
+doc/
+resources/sample/
+src/AerialShip/LightSaml/
+.gitignore
+.travis.yml
+CHANGELOG-1.0.md
+CONTRIBUTORS.md
+LICENSE
+README.md
+autoload.php
+composer.json
+composer.lock
+phpunit.xml

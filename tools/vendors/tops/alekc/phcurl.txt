@@ -1,0 +1,7 @@
+samples/
+src/PhCURL/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json

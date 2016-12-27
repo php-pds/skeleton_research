@@ -1,0 +1,6 @@
+assets/
+.gitignore
+C3JsWidget.php
+LICENSE
+README.md
+composer.json

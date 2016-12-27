@@ -1,0 +1,5 @@
+views/
+README.md
+composer.json
+controller.php
+search.php

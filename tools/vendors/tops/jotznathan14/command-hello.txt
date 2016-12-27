@@ -1,0 +1,7 @@
+src/
+.gitignore
+LICENSE
+README.md
+cmsinstaller
+composer.json
+composer.lock

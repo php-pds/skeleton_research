@@ -1,0 +1,5 @@
+src/Gemabit/Tools/Array/
+.gitignore
+LICENSE
+README.md
+composer.json

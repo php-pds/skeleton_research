@@ -1,0 +1,12 @@
+src/Netcarver/Textile/
+test/
+.gitattributes
+.gitignore
+.travis.yml
+CHANGELOG.textile
+CONTRIBUTING.textile
+LICENSE
+README.textile
+composer.json
+phpunit.xml
+textile-wordmark.png

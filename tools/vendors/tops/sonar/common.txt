@@ -1,0 +1,12 @@
+src/
+tests/
+.scrutinizer.yml
+CHANGELOG.md
+CONDUCT.md
+CONTRIBUTING.md
+LICENSE.md
+README.md
+circle.yml
+composer.json
+composer.lock
+phpunit.xml

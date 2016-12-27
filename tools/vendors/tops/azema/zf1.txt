@@ -1,0 +1,7 @@
+bin/
+library/Zend/
+INSTALL.txt
+LICENSE.txt
+README.md
+README.txt
+composer.json

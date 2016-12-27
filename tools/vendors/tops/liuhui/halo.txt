@@ -1,0 +1,5 @@
+halo/
+.gitignore
+README.md
+VERSION
+composer.json

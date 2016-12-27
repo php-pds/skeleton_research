@@ -1,0 +1,7 @@
+DependencyInjection/
+Document/
+Importer/
+Model/
+Resources/config/
+XoptovImporterBundle.php
+composer.json

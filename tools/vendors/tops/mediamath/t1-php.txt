@@ -1,0 +1,9 @@
+Documentation/
+src/MediaMath/TerminalOneAPI/
+tests/
+.gitignore
+LICENSE
+NOTICE
+README.md
+composer.json
+phpunit.xml.dist

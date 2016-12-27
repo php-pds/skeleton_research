@@ -1,0 +1,6 @@
+lib/Namecheap/Api/
+tests/Namecheap/Api/Tests/
+LICENSE
+README.md
+composer.json
+phpunit.xml

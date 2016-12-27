@@ -1,0 +1,4 @@
+src/ImageColor/
+.gitignore
+README.md
+composer.json

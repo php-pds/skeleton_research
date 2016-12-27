@@ -1,0 +1,11 @@
+docker/
+.env.composer
+.env.example
+.gitignore
+.htaccess
+README.md
+TODO
+composer.json
+composer_install.php
+composer_pre_update.php
+docker-compose.yml

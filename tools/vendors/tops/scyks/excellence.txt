@@ -1,0 +1,8 @@
+Documentation/markdown/
+Test/
+src/Excellence/
+.gitignore
+LICENCE
+README.md
+composer.json
+phpunit.xml

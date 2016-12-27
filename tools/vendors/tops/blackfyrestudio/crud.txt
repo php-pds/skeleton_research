@@ -1,0 +1,17 @@
+config/
+public/
+resources/lang/
+src/
+views/
+.bowerrc
+.codeclimate.yml
+.csslintrc
+.gitignore
+.jshintrc
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpci.yml
+phpmd.xml
+phpspec.yml

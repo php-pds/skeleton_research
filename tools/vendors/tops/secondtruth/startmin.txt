@@ -1,0 +1,8 @@
+css/
+fonts/
+js/
+.gitignore
+LICENSE
+README.md
+TEMPLATE.html
+composer.json

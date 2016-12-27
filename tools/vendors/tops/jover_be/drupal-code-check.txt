@@ -1,0 +1,6 @@
+DrupalCodeCheck/
+git-hooks/
+scripts/git-hooks/
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,9 @@
+assets/
+gii/generators/
+modules/
+.gitignore
+ActiveRecord.php
+LICENSE
+README.md
+ScorchAsset.php
+composer.json

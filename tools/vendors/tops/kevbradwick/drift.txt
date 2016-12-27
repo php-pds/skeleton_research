@@ -1,0 +1,10 @@
+examples/annotations/
+src/
+test/
+.gitignore
+.travis.yml
+LICENSE.txt
+README.md
+build.sh
+composer.json
+composer.lock

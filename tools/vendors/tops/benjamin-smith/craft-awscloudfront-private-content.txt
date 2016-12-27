@@ -1,0 +1,16 @@
+controllers/
+models/
+records/
+services/
+templates/
+translations/
+utilities/
+variables/
+.gitignore
+AwsCloudfrontPlugin.php
+CHANGELOG.md
+LICENSE.txt
+README.md
+composer.json
+config.php
+releases.json

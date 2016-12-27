@@ -1,0 +1,8 @@
+.travis/phpcs/
+test/
+.gitattributes
+.gitignore
+.gitmodules
+LICENSE.md
+README.md
+composer.json

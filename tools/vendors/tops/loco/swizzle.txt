@@ -1,0 +1,9 @@
+example/
+src/
+tests/
+LICENSE
+README.md
+apigen.yml
+composer.json
+composer.lock
+phpunit.xml.dist

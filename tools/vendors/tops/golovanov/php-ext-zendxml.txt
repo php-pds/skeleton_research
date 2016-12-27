@@ -1,0 +1,8 @@
+ext/
+unit-tests/ci/
+zendxml/
+.gitignore
+.travis.yml
+README.md
+composer.json
+config.json

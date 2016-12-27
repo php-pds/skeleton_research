@@ -1,0 +1,15 @@
+app/
+docs/
+examples/
+src/Vatsimphp/
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CHANGELOG.md
+LICENSE
+NOTICE
+README.md
+composer.json
+phpdoc.dist.xml
+phpunit.xml.dist

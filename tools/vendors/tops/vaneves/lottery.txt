@@ -1,0 +1,6 @@
+src/Vaneves/Lottery/
+tmp/
+.gitignore
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,4 @@
+src/Artistas/
+LICENSE
+README.md
+composer.json

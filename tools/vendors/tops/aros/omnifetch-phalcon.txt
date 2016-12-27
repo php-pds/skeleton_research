@@ -1,0 +1,8 @@
+.gitignore
+BaseOmniFetch.php
+CHANGELOG.md
+CONTRIBUTING.md
+OmniFetchInterface.php
+PhalconOmniFetch.php
+README.md
+composer.json

@@ -1,0 +1,7 @@
+src/Clicksco/Pushover/
+tests/
+.gitignore
+.travis.yml
+composer.json
+phpunit.xml
+readme.md

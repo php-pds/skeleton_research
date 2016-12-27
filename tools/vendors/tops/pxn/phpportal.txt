@@ -1,0 +1,10 @@
+examples/
+src/
+.gitattributes
+.gitignore
+changelog.txt
+composer.json
+composer.lock
+phpunit.xml
+symlinks.sh
+xbuild.json

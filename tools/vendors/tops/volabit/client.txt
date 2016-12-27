@@ -1,0 +1,10 @@
+src/
+tests/
+.gitattributes
+.gitignore
+CHANGELOG.md
+CONTRIBUTORS.md
+LICENSE.txt
+README.md
+composer.json
+composer.lock

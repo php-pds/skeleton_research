@@ -1,0 +1,14 @@
+docs/
+examples/
+src/Payeezy/
+tests/
+.gitattributes
+.gitignore
+.travis.yml
+Doxyfile
+LICENSE
+README.md
+VERSION
+coder_ruleset.xml
+composer.json
+phpunit.xml.dist

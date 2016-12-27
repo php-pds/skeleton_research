@@ -1,0 +1,7 @@
+.gitignore
+FactoryInterface.php
+FactoryMuffin.php
+LICENSE
+ModelStoreYii.php
+README.md
+composer.json

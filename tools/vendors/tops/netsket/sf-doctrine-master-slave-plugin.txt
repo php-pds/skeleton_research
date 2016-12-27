@@ -1,0 +1,6 @@
+config/
+lib/
+.gitignore
+LICENSE
+README
+composer.json

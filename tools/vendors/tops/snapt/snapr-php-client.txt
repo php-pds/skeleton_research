@@ -1,0 +1,4 @@
+src/SnaprClient/
+LICENSE
+README.md
+composer.json

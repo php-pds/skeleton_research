@@ -1,0 +1,8 @@
+AliyunMNS/
+GuzzleHttp/
+Psr/Http/Message/
+Samples/
+Tests/
+README.md
+composer.json
+mns-autoloader.php

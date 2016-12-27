@@ -1,0 +1,4 @@
+res/
+src/MadeByDavid/
+README.md
+composer.json

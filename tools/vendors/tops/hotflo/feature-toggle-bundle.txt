@@ -1,0 +1,10 @@
+DependencyInjection/
+FeatureToggle/
+Resources/config/
+Tests/
+.gitignore
+HotfloFeatureToggleBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

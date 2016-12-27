@@ -1,0 +1,11 @@
+src/PacketHost/Client/
+tests/
+.gitignore
+Gruntfile.js
+README.md
+composer.json
+package.json
+phpunit-cc.xml
+phpunit.xml
+ruleset.xml
+shippable.yml

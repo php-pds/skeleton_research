@@ -1,0 +1,6 @@
+FullSilex/
+project-template/
+.gitignore
+README.md
+composer.json
+composer.lock

@@ -1,0 +1,5 @@
+.idea/
+src/MinkFieldRandomizer/
+LICENSE
+README.md
+composer.json

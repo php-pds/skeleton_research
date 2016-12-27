@@ -1,0 +1,5 @@
+src/Nerds/SphinxQL/
+tests/
+.gitignore
+README.md
+composer.json

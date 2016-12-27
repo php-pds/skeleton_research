@@ -1,0 +1,4 @@
+examples/
+src/Theme/
+composer.json
+readme.md

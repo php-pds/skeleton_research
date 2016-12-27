@@ -1,0 +1,11 @@
+assets/
+classes/
+include/
+languages/
+view/
+.gitignore
+CONTRIBUTING.md
+README.md
+composer.json
+readme.txt
+wordpress-s3.php

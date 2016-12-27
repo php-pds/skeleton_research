@@ -1,0 +1,3 @@
+src/ForFun/Uploadable/Traits/
+README.md
+composer.json

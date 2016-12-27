@@ -1,0 +1,7 @@
+src/Kim/Defender/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json
+phpunit.xml

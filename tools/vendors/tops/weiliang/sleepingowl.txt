@@ -1,0 +1,13 @@
+config/
+public/default/
+resources/
+src/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+bower.json
+composer.json
+gulpfile.js
+package.json
+phpunit.xml

@@ -1,0 +1,6 @@
+library/Apache/Solr/
+COPYING
+ChangeLog
+LICENSE
+README.md
+composer.json

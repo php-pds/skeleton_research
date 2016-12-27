@@ -1,0 +1,5 @@
+src/Webpatser/Sanitize/
+tests/
+.travis.yml
+composer.json
+readme.md

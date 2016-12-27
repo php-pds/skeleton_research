@@ -1,0 +1,5 @@
+src/
+.composer.json.swp
+LICENSE
+README.md
+composer.json

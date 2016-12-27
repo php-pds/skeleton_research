@@ -1,0 +1,7 @@
+docs/
+lib/
+samples/
+tools/
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,10 @@
+src/evangelion1204/
+tests/evangelion1204/
+.coveralls.yml
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

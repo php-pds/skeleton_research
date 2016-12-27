@@ -1,0 +1,4 @@
+src/PalantirNet/RottenTomatoes/
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,5 @@
+src/drewjoh/Sentry/
+.gitignore
+LICENSE
+README.md
+composer.json

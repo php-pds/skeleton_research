@@ -1,0 +1,8 @@
+application/
+config/
+public/css/
+.gitignore
+.htaccess
+README.md
+composer.json
+http.php

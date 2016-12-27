@@ -1,0 +1,6 @@
+Config/Schema/
+Model/
+Test/
+LICENSE
+README.textile
+composer.json

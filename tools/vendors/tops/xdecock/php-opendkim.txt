@@ -1,0 +1,8 @@
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json
+config.m4
+opendkim.c
+php_opendkim.h

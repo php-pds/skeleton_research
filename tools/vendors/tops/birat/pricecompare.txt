@@ -1,0 +1,5 @@
+Price-Compare/
+.gitattributes
+.gitignore
+README.md
+composer.json

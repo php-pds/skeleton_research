@@ -1,0 +1,13 @@
+.idea/
+Config/
+Core/
+Helper/
+Library/
+Model/Global/
+Third_Party/
+install/
+view/
+LICENSE
+README.md
+composer.json
+composer.phar

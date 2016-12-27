@@ -1,0 +1,17 @@
+bin/
+resources/rules/
+spec/DeviceDetectorIO/DeviceDetector/
+src/DeviceDetectorIO/DeviceDetector/
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+phpcs.xml.dist
+phpmd.xml.dist
+phpspec-hhvm.yml.dist
+phpspec.yml.dist
+phpunit.xml.dist

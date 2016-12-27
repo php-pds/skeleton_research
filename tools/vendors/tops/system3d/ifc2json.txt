@@ -1,0 +1,6 @@
+assets/
+example/
+src/System3D/IFC2JSON/
+.gitignore
+README.md
+composer.json

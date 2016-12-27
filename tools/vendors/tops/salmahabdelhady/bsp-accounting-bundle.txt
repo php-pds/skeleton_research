@@ -1,0 +1,15 @@
+Command/
+Cryptography/
+DependencyInjection/
+Document/
+Entity/
+Handler/
+Model/
+Provider/
+Resources/
+Type/MongoDB/
+Util/
+BSPAccountingBundle.php
+LICENSE.md
+README.md
+composer.json

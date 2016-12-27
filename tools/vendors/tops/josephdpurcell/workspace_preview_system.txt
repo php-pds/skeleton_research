@@ -1,0 +1,9 @@
+config/
+.gitignore
+README.md
+build.xml
+composer.json
+composer.lock
+workspace_preview_system.info.yml
+workspace_preview_system.install
+workspace_preview_system.profile

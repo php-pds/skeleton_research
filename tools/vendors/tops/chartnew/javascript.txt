@@ -1,0 +1,17 @@
+Add-ins/
+Samples/
+demo_program/
+other_modules/
+previous_versions/
+ChartNew.js
+LICENSE
+README.md
+all_samples.html
+bower.json
+component.json
+composer.json
+demo.html
+improvements_change_history
+mathFunctions.js
+package.json
+sample.html

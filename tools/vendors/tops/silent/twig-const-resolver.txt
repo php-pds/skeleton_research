@@ -1,0 +1,9 @@
+src/silent/Twig/ConstantResolverExtension/
+test/silent/Twig/ConstantResolverExtension/Tests/
+.coveralls.yml
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

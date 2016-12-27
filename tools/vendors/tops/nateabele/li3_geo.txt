@@ -1,0 +1,6 @@
+config/
+data/
+extensions/
+tests/
+.gitignore
+composer.json

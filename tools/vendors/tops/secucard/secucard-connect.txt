@@ -1,0 +1,9 @@
+doc/guide/
+src/SecucardConnect/
+tests/SecucardConnect/
+.editorconfig
+.gitignore
+LICENSE
+README.md
+composer.json
+phpunit.xml

@@ -1,0 +1,5 @@
+src/SilexDoctrineHydrationProfile/
+.gitignore
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,14 @@
+bin/
+src/
+tests/
+.coveralls.yml
+.gitattributes
+.gitignore
+.scrutinizer.yml
+.styleci.yml
+.travis.yml
+CODE_OF_CONDUCT.md
+MIT-LICENSE
+README.md
+composer.json
+phpunit.xml

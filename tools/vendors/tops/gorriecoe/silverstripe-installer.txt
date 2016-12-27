@@ -1,0 +1,14 @@
+myresources/
+mysite/
+.editorconfig
+.gitattributes
+.gitignore
+LICENSE
+README.md
+code-of-conduct.md
+composer.json
+contributing.md
+gulpfile.js
+package.json
+phpunit.xml
+webpack.config.js

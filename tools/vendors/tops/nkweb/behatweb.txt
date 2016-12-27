@@ -1,0 +1,5 @@
+assets/
+src/
+views/
+README.md
+composer.json

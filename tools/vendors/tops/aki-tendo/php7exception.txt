@@ -1,0 +1,6 @@
+tests/
+.travis.yml
+LICENSE
+README.md
+composer.json
+php7exceptions.php

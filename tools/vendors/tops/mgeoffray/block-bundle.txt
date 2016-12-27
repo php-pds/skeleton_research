@@ -1,0 +1,9 @@
+DependencyInjection/
+Entity/
+Resources/
+Tests/Utlis/
+Utils/
+.gitignore
+MGBlockBundle.php
+README.md
+composer.json

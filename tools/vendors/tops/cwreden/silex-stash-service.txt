@@ -1,0 +1,6 @@
+src/CWreden/Component/Silex/Stash/
+test/
+.gitignore
+LICENSE
+README.md
+composer.json

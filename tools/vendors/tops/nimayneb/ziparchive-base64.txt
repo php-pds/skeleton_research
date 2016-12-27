@@ -1,0 +1,8 @@
+Classes/
+Tests/
+bin/
+.gitignore
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

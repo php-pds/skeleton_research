@@ -1,0 +1,7 @@
+phpbb3.0/includes/auth/
+phpbb3.1/
+src/
+.gitignore
+LICENSE
+README.md
+composer.json

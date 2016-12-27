@@ -1,0 +1,7 @@
+src/
+.gitignore
+BrainFuck.php
+CHANGELOG.md
+LICENSE
+README.md
+composer.json

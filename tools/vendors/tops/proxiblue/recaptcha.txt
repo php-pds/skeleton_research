@@ -1,0 +1,7 @@
+app/
+skin/frontend/base/default/recaptcha/images/
+.gitignore
+LICENSE
+README.md
+composer.json
+modman

@@ -1,0 +1,7 @@
+src/chriskacerguis/Randomstring/
+test/chriskacerguis/Randomstring/
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml

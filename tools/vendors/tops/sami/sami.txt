@@ -1,0 +1,13 @@
+Sami/
+examples/
+.blackfire.travis.ini.enc
+.gitignore
+.travis.yml
+CHANGELOG
+LICENSE
+README.rst
+box.json
+composer.json
+composer.lock
+phpunit.xml.dist
+sami.php

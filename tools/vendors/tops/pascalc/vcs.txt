@@ -1,0 +1,4 @@
+src/VCS/
+LICENSE
+README.md
+composer.json

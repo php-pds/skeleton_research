@@ -1,0 +1,3 @@
+LolClass.php
+README.md
+composer.json

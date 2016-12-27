@@ -1,0 +1,13 @@
+bin/
+examples/
+src/
+tests/
+.gitignore
+.travis.yml
+build
+codeception.yml
+composer.json
+composer.lock
+configuru.yml
+phpspec.yml
+readme.md

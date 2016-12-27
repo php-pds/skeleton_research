@@ -1,0 +1,11 @@
+config/
+core/
+di/
+doc/
+lib/
+test/
+.gitignore
+README.md
+bootstrap.php
+composer.json
+phpoil.php

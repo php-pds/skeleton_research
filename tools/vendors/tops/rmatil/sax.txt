@@ -1,0 +1,8 @@
+docs/
+lib/Sax/
+test/Sax/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock

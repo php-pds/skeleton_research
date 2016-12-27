@@ -1,0 +1,4 @@
+src/Ripcord/
+.gitignore
+Readme.md
+composer.json

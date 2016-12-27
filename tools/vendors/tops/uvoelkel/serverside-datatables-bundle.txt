@@ -1,0 +1,12 @@
+Controller/
+DataTables/
+DependencyInjection/
+Resources/
+Table/
+Tests/
+Twig/
+.travis.yml
+README.md
+VoelkelDataTablesBundle.php
+composer.json
+phpunit.xml.dist

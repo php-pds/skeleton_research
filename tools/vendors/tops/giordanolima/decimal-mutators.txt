@@ -1,0 +1,5 @@
+src/GiordanoLima/DecimalMutators/
+.gitignore
+LICENSE
+README.md
+composer.json

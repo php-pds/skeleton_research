@@ -1,0 +1,5 @@
+DrupalStrict/
+LICENSE
+README.md
+composer.json
+security_ruleset.xml

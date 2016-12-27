@@ -1,0 +1,12 @@
+DependencyInjection/
+Tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+QtSms.php
+QtSmsBundle.php
+QtSmsTransport.php
+README.md
+composer.json
+phpunit.xml

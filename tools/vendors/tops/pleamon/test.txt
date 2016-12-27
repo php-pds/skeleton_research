@@ -1,0 +1,5 @@
+src/Pleamon/
+.gitignore
+composer.json
+composer.lock
+show.php

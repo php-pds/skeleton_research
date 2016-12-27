@@ -1,0 +1,9 @@
+inc/Module/
+t/
+ChangeLog
+MANIFEST
+META.yml
+Makefile.PL
+README
+Test.php
+composer.json

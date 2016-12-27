@@ -1,0 +1,8 @@
+examples/
+tests/
+xajax_core/
+xajax_js/
+xajax_plugins/response/
+README
+composer.json
+copyright.inc.php

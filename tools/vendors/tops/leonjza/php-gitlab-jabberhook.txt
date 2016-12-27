@@ -1,0 +1,6 @@
+examples/
+src/GitlabXMPPHook/
+.gitignore
+LICENSE
+README.md
+composer.json

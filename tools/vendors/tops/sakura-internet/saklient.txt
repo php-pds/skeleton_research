@@ -1,0 +1,11 @@
+examples/
+lib/Saklient/
+tests/
+.gitignore
+LICENSE.txt
+README.ja.md
+README.md
+composer.json
+config.sh.sample
+example.sh
+test-sshkey.txt

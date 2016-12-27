@@ -1,0 +1,16 @@
+apps/
+classes/
+languages/
+libs/
+templates/bootstrap/
+tests/
+.gitignore
+.htaccess
+.travis.yml
+README.md
+composer.json
+config.php
+index.php
+lightframework.sql
+phpunit.xml
+robots.txt

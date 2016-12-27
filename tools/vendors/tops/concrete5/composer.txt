@@ -1,0 +1,7 @@
+application/
+packages/
+updates/
+.gitignore
+README.md
+composer.json
+index.php

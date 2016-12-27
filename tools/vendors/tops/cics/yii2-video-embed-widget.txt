@@ -1,0 +1,5 @@
+.gitignore
+LICENSE
+README.md
+VideoEmbed.php
+composer.json

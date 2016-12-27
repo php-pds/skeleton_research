@@ -1,0 +1,10 @@
+bin/
+legacy/
+src/Bronto/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json
+legacy-phpunit.xml.dist
+phpunit.xml.dist

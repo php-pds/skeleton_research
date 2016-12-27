@@ -1,0 +1,14 @@
+Controller/
+DependencyInjection/
+Entity/
+Manager/
+Resources/
+Routing/
+spec/Aisel/ConfigBundle/
+.gitignore
+.travis.yml
+AiselConfigBundle.php
+README.md
+composer.json
+phpspec.yml
+phpspec.yml.dist

@@ -1,0 +1,4 @@
+lib/Splash/Chargify/
+.gitignore
+README.md
+composer.json

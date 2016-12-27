@@ -1,0 +1,14 @@
+docs/
+src/LeadCommerce/Shopware/SDK/
+tests/
+.coveralls.yml
+.gitattributes
+.gitignore
+.scrutinizer.yml
+.styleci.yml
+.travis.yml
+CODE_OF_CONDUCT.md
+LICENSE
+README.md
+composer.json
+phpunit.xml

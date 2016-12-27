@@ -1,0 +1,11 @@
+DependencyInjection/
+Doctrine/Event/
+Entity/
+EntityRepository/
+Model/
+Resources/
+Streamable/
+Twig/Extension/
+README.md
+SipsynergyActivityStreamBundle.php
+composer.json

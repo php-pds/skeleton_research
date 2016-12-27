@@ -1,0 +1,7 @@
+class/
+languages/
+.editorconfig
+README.md
+composer.json
+version.php
+wp-sync-db-cli.php

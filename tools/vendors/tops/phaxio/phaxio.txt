@@ -1,0 +1,6 @@
+examples/
+lib/Phaxio/
+.gitignore
+CHANGELOG
+LICENSE
+composer.json

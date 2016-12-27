@@ -1,0 +1,8 @@
+example/
+src/W4Y/MultiPager/
+tests/W4Y/MultiPager/Tests/
+.gitignore
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

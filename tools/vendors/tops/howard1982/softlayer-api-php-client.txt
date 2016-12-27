@@ -1,0 +1,6 @@
+src/SoftLayer/
+.gitignore
+LICENSE.textile
+README.textile
+composer.json
+example.php

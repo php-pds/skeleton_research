@@ -1,0 +1,8 @@
+Application/
+Public/
+Tests/Functionnal/
+.gitignore
+.travis.yml
+CONTRIBUTORS.md
+README.md
+composer.json

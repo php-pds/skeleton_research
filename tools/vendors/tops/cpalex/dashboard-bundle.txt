@@ -1,0 +1,9 @@
+Controller/
+DependencyInjection/
+Installation/
+Listener/
+Resources/
+.gitattributes
+.gitignore
+CPAlexDashboardBundle.php
+composer.json

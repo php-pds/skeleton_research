@@ -1,0 +1,7 @@
+config/
+database/
+src/
+.gitignore
+LICENSE
+README.md
+composer.json

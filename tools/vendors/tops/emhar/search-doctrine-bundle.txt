@@ -1,0 +1,16 @@
+DependencyInjection/
+Factory/
+Item/
+Mapping/
+Query/
+Request/
+Resources/config/
+Services/
+Tests/
+.gitignore
+.travis.yml
+EmharSearchDoctrineBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

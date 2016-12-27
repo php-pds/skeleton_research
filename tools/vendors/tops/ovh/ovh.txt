@@ -1,0 +1,14 @@
+examples/
+img/
+scripts/
+src/
+tests/
+.gitignore
+.travis.yml
+CONTRIBUTING.rst
+LICENSE
+MIGRATION.rst
+README.md
+build.xml
+composer.json
+phpunit.xml.dist

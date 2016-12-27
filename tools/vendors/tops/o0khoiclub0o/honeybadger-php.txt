@@ -1,0 +1,16 @@
+examples/
+lib/Honeybadger/
+resources/
+tests/
+.gitignore
+.travis.yml
+CHANGELOG.md
+Gemfile
+Gemfile.lock
+Guardfile
+LICENSE.txt
+README.md
+composer.json
+config.ru
+phpdoc.xml
+phpunit.xml.dist

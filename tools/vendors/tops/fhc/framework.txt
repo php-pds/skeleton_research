@@ -1,0 +1,6 @@
+lib/
+.htaccess.original
+README.md
+composer.json
+index.php
+install.sh

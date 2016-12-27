@@ -1,0 +1,6 @@
+src/
+LICENSE
+README.md
+Waqf_Arabic
+Waqf_English
+composer.json

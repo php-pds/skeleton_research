@@ -1,0 +1,6 @@
+lib/Muvuca/
+vendor/
+LICENSE
+README.md
+composer.json
+phpunit.xml

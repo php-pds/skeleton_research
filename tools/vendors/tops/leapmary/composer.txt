@@ -1,0 +1,9 @@
+lib/
+src/
+vendor/
+.gitignore
+README.md
+Something.php
+composer.json
+composer.lock
+index.php

@@ -1,0 +1,10 @@
+css/
+img/
+js/
+tests/
+.gitignore
+README.md
+composer.json
+endpoints.json.default
+index.php
+nav.php

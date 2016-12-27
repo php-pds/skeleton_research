@@ -1,0 +1,15 @@
+Api/
+Block/Adminhtml/Pdfgenerator/
+Controller/Adminhtml/
+Helper/
+Model/
+Setup/
+Ui/Component/Listing/Column/
+etc/
+i18l/
+view/adminhtml/
+.gitignore
+LICENSE
+README.md
+composer.json
+registration.php

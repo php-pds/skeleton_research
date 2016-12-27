@@ -1,0 +1,8 @@
+config/
+src/StrategyValidator/
+.gitignore
+LICENSE
+Module.php
+Readme.md
+autoload_classmap.php
+composer.json

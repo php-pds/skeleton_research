@@ -1,0 +1,15 @@
+Annotation/
+DependencyInjection/
+EventListener/
+Model/
+Resources/
+Service/
+Tests/
+Twig/
+.gitignore
+.travis.yml
+AndreaSpregaBreadcrumbBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

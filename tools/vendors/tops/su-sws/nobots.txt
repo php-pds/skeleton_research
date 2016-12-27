@@ -1,0 +1,8 @@
+.codeclimate.yml
+.gitignore
+CHANGELOG.txt
+LICENSE.txt
+README.md
+composer.json
+nobots.info
+nobots.module

@@ -1,0 +1,9 @@
+src/
+tests/
+.editorconfig
+.gitattributes
+.gitignore
+CONDUCT.md
+LICENSE
+README.md
+composer.json

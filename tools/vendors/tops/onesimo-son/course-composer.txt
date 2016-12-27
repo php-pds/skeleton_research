@@ -1,0 +1,8 @@
+.phpintel/
+bin/
+src/Onesimo/SON/
+tests/Onesimo/SON/
+.gitignore
+README.md
+composer.json
+phpunit.xml

@@ -1,0 +1,3 @@
+src/Templates/
+README.md
+composer.json

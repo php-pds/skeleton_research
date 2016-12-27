@@ -1,0 +1,16 @@
+Classes/
+Configuration/TypoScript/
+Resources/Private/Templates/Token/
+Tests/
+.codeclimate.yml
+.gitignore
+.phpmd.xml
+README.md
+composer.json
+dynamicReturnTypeMeta.json
+ext_conf_template.txt
+ext_emconf.php
+ext_icon.gif
+ext_localconf.php
+ext_tables.php
+ext_tables.sql

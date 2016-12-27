@@ -1,0 +1,9 @@
+config/
+src/EmakImage/Filter/File/
+tests/
+.gitignore
+.travis.yml
+LICENCE.md
+Module.php
+README.md
+composer.json

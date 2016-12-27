@@ -1,0 +1,6 @@
+src/
+view/
+webroot/
+LICENSE.txt
+README.md
+composer.json

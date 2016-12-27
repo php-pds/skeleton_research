@@ -1,0 +1,6 @@
+src/ThomasLarsson/PriorityQueue/
+tests/PriorityQueue/
+vendor/
+.travis.yml
+README.md
+composer.json

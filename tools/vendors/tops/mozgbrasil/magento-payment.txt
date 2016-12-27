@@ -1,0 +1,7 @@
+app/
+js/mozg_payment/
+skin/
+LICENSE
+README.md
+composer.json
+modman

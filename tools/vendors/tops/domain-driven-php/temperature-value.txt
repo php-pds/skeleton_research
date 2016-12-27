@@ -1,0 +1,7 @@
+Tests/
+src/DomainDrivenPhp/Temperature/
+.gitignore
+LICENSE
+composer.json
+composer.lock
+phpunit.xml.dist

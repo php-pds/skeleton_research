@@ -1,0 +1,3 @@
+src/Amino/
+README.md
+composer.json

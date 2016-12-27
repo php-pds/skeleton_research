@@ -1,0 +1,12 @@
+examples/
+src/
+tests/src/
+.gitignore
+README.md
+build.xml
+composer.json
+composer.lock
+composer.phar
+fix-style.sh
+phpdox.xml
+phpunit.xml

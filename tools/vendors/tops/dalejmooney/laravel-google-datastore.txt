@@ -1,0 +1,3 @@
+src/GoogleDatastore/
+README.md
+composer.json

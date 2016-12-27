@@ -1,0 +1,10 @@
+build/
+src/Sepia/
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+composer.json
+license.txt
+phpunit.xml
+readme.md

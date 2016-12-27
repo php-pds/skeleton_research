@@ -1,0 +1,12 @@
+css/
+nbproject/
+src/
+test/
+webroot/
+.scrutinizer.yml
+.travis.yml
+README.md
+autoloader.php
+composer.json
+composer.lock
+phpunit

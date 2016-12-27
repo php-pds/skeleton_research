@@ -1,0 +1,17 @@
+Command/
+Convert/
+Exception/
+Generator/
+Helper/
+Map/
+Package/Foote/
+Tests/
+Twig/
+.gitignore
+CONTRIBUTING.md
+LICENSE.txt
+README.md
+composer.json
+ginny.dist.yml
+phpunit.php
+phpunit.xml

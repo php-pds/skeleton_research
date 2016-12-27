@@ -1,0 +1,5 @@
+.idea/
+Tests/
+src/
+.gitignore
+composer.json

@@ -1,0 +1,8 @@
+lib/Proem/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+Phakefile
+README.md
+composer.json

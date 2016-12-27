@@ -1,0 +1,11 @@
+docker/
+samples/
+src/Nuxeo/
+tests/
+.gitignore
+Jenkinsfile
+README.md
+composer.json
+composer.lock
+docker-compose.yml
+phpunit.xml

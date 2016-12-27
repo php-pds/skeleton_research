@@ -1,0 +1,6 @@
+.gitignore
+AngularTimeagoAsset.php
+LICENSE
+README.md
+composer.json
+composer.lock

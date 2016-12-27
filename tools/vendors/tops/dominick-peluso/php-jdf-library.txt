@@ -1,0 +1,10 @@
+Class/
+Docs/
+Examples/
+Output/
+.gitattributes
+.gitignore
+LICENSE
+README.md
+composer.json
+parameters.php

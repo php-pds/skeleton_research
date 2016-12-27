@@ -1,0 +1,6 @@
+demo/
+src/
+.gitignore
+composer.json
+readme.md
+wkhtmltopdf-extended-help.txt

@@ -1,0 +1,10 @@
+src/Slic/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+compile
+composer.json
+composer.lock
+phpunit.xml.dist

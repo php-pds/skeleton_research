@@ -1,0 +1,9 @@
+docs/
+sample/
+src/Kaskus/
+tests/
+.gitignore
+autoload.php
+composer.json
+phpunit.xml
+readme.md

@@ -1,0 +1,8 @@
+code/
+images/
+lang/
+templates/Layout/
+LICENSE.md
+README.md
+_config.php
+composer.json

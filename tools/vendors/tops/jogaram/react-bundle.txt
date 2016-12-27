@@ -1,0 +1,9 @@
+Command/
+DependencyInjection/
+Reactor/
+.gitignore
+CHANGELOG.md
+JogaramReactPHPBundle.php
+README.md
+composer.json
+composer.lock

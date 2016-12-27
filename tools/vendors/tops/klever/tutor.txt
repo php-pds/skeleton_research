@@ -1,0 +1,10 @@
+src/Tutor/
+test/TutorTest/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+build.xml
+composer.json
+humbug.json.dist
+phpunit.xml.dist

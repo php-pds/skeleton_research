@@ -1,0 +1,6 @@
+assets/js/
+InputText.php
+README.md
+SlugAction.php
+WidgetAsset.php
+composer.json

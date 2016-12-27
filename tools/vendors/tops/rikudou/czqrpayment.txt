@@ -1,0 +1,6 @@
+.gitignore
+LICENSE
+QrException.class.php
+QrPayment.class.php
+README.md
+composer.json

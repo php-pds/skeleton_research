@@ -1,0 +1,12 @@
+conf/
+logs/
+plugin/
+src/
+tmp/caches/
+www/
+.gitignore
+LICENSE
+README.md
+VERSION.txt
+composer.json
+index.php

@@ -1,0 +1,6 @@
+.gitignore
+MIT-LICENSE.txt
+README.md
+Shorten.php
+composer.json
+example.html.php

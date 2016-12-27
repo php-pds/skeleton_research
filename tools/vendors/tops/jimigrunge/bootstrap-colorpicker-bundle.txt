@@ -1,0 +1,7 @@
+Resources/
+.gitattributes
+.gitignore
+BootstrapColorPickerBundle.php
+LICENSE
+README.md
+composer.json

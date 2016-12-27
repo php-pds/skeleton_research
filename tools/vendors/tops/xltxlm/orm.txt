@@ -1,0 +1,16 @@
+demo/setup/
+docs/
+duplicateTests/PdoConfig/
+images/
+src/
+tests/
+.gitignore
+.php_cs
+.styleci.yml
+.travis.yml
+LICENSE
+README.md
+book.json
+composer.json
+phpunit.xml
+scrutinizer.yml

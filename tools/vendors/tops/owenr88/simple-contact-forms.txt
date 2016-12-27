@@ -1,0 +1,11 @@
+admin/
+includes/
+languages/
+public/
+LICENSE.txt
+README.md
+README.txt
+composer.json
+index.php
+simple-contact-forms.php
+uninstall.php

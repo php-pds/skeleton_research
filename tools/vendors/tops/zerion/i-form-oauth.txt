@@ -1,0 +1,9 @@
+auth/
+http/
+tests/auth/
+.gitignore
+LICENSE.md
+README.md
+composer.json
+composer.lock
+zerion_autoload.php

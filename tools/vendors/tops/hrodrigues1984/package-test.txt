@@ -1,0 +1,6 @@
+src/Hrodrigues1984/PackageTest/
+tests/
+.gitignore
+.travis.yml
+composer.json
+phpunit.xml

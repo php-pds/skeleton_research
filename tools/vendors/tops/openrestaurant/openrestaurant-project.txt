@@ -1,0 +1,5 @@
+scripts/
+.gitignore
+CHANGELOG.txt
+README.md
+composer.json

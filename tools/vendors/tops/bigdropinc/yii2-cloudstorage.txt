@@ -1,0 +1,10 @@
+tests/
+.gitignore
+AmazonS3.php
+BaseCloudStorage.php
+CloudStorageInterface.php
+LICENSE
+README.md
+RackspaceCloudFiles.php
+composer.json
+phpunit-example.xml

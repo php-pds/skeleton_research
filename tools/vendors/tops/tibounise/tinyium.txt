@@ -1,0 +1,6 @@
+src/tibounise/tinyium/
+tests/
+.gitignore
+LICENSE.txt
+README.md
+composer.json

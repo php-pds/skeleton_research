@@ -1,0 +1,7 @@
+src/USGS/
+.gitignore
+LICENSE.txt
+README.md
+composer.json
+composer.lock
+contributors.txt

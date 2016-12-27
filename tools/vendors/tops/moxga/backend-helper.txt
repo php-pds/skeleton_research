@@ -1,0 +1,10 @@
+config/
+migrations/
+public/assets/
+resources/views/
+src/
+.gitignore
+BaseBackendController.php
+README.md
+composer.json
+phpunit.xml

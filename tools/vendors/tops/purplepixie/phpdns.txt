@@ -1,0 +1,10 @@
+src/PurplePixie/PhpDns/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+dns.inc.php
+dns.php
+index.php

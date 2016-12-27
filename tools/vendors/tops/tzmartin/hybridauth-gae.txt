@@ -1,0 +1,6 @@
+additional-providers/
+hybridauth/Hybrid/
+.gitignore
+CHANGELOG
+README.md
+composer.json

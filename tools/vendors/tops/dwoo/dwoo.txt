@@ -1,0 +1,11 @@
+lib/
+tests/
+.gitignore
+.gitlab-ci.yml
+.travis.yml
+CHANGELOG.md
+LICENSE.md
+README.md
+composer.json
+phpcs.xml.dist
+phpunit.xml.dist

@@ -1,0 +1,9 @@
+config/
+src/ValidatorExceptionHandler/
+test/ValidatorExceptionHandler/Constraint/
+.gitignore
+Module.php
+README.md
+composer.json
+composer.phar
+phpunit.xml.dist

@@ -1,0 +1,5 @@
+src/MarketplaceWebServiceProducts/
+LICENSE.txt
+NOTICE.txt
+README.md
+composer.json

@@ -1,0 +1,6 @@
+.settings/
+src/
+.buildpath
+.gitignore
+composer.json
+composer.lock

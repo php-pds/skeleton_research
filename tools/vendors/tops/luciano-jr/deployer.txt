@@ -1,0 +1,15 @@
+bin/
+recipe/
+src/
+test/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CONTRIBUTING.md
+LICENSE
+README.md
+UPGRADE.md
+build
+composer.json
+composer.lock
+phpunit.xml

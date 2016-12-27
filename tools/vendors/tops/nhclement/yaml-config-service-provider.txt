@@ -1,0 +1,6 @@
+spec/
+src/NHClement/Silex/
+.gitignore
+README.md
+composer.json
+composer.lock

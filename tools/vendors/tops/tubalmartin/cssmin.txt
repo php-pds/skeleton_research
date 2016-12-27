@@ -1,0 +1,6 @@
+gui/
+tests/
+.gitignore
+README.md
+composer.json
+cssmin.php

@@ -1,0 +1,3 @@
+JsMd5Asset.php
+README.md
+composer.json

@@ -1,0 +1,10 @@
+docs/
+js/
+nbproject/
+.gitignore
+Ajaxy.php
+AjaxyAsset.php
+BootboxAsset.php
+LICENSE
+README.md
+composer.json

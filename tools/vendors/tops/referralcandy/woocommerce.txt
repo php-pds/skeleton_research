@@ -1,0 +1,8 @@
+assets/
+includes/
+languages/
+.gitignore
+README.md
+composer.json
+readme.txt
+woocommerce-referralcandy.php

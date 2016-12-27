@@ -1,0 +1,5 @@
+src/Sanmark/PhpHelpers/
+tests/
+.gitignore
+VERSION
+composer.json

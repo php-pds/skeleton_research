@@ -1,0 +1,8 @@
+demo/
+src/
+tests/
+.gitignore
+bootstrap.php
+composer.json
+phpunit.php
+phpunit.xml

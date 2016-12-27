@@ -1,0 +1,10 @@
+app/
+public/
+unit-tests/
+.gitignore
+.htaccess
+.travis.yml
+README.md
+composer.json
+composer.lock
+index.html

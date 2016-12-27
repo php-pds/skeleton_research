@@ -1,0 +1,10 @@
+fuel/
+html/
+.gitignore
+.travis.yml
+LICENSE
+Manual.md
+README.md
+api_data.sql
+composer.json
+oil

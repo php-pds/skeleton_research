@@ -1,0 +1,11 @@
+bin/
+examples/
+nbproject/
+src/
+test/
+.gitignore
+LICENSE
+README.md
+composer-autoload.php
+composer.json
+phpunit.xml

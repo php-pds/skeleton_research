@@ -1,0 +1,6 @@
+src/Reeska/Semrush/
+tests/
+.gitignore
+LICENSE.md
+README.md
+composer.json

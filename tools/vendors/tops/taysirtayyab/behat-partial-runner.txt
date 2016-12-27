@@ -1,0 +1,11 @@
+bin/
+src/Behat/PartialRunner/
+tests/Behat/PartialRunner/Filter/
+travisci/
+.gitignore
+.travis.yml
+README.md
+behat.yml
+composer.json
+composer.lock
+phpunit.xml

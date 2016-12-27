@@ -1,0 +1,8 @@
+DependencyInjection/
+Model/
+Resources/config/
+Security/
+Service/
+CiviCoopDrupalLoginBundle.php
+README.md
+composer.json

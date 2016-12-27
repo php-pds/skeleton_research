@@ -1,0 +1,14 @@
+build/
+src/
+tests/
+.gitignore
+.rmt.yml
+CHANGELOG
+LICENSE.txt
+README.md
+build.xml
+composer.json
+composer.lock
+phpdox.xml
+phpunit.xml
+phpunit_bootstrap.php

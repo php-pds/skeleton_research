@@ -1,0 +1,13 @@
+Command/
+DependencyInjection/
+Resources/config/
+Tests/Twig/
+Twig/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+IulyanpElixirBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

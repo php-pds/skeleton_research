@@ -1,0 +1,9 @@
+Ajax/
+documentation/html/
+.codedocs
+.gitignore
+.scrutinizer.yml
+CONTRIBUTING.md
+LICENSE
+README.md
+composer.json

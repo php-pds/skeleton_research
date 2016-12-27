@@ -1,0 +1,10 @@
+demo/
+src/
+tests/
+.travis.yml
+LICENCE
+README.md
+Widgetfy.php
+autoload.php
+composer.json
+phpunit.xml

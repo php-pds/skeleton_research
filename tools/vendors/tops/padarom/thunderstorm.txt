@@ -1,0 +1,13 @@
+app/
+database/migrations/
+resources/views/
+storage/
+uploads/
+.env.example
+.gitignore
+.htaccess
+.travis.yml
+artisan
+composer.json
+index.php
+readme.md

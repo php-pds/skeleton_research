@@ -1,0 +1,11 @@
+DataUrl/
+Exception/
+Persister/
+Tests/
+.gitignore
+.travis.yml
+DataUrlHandler.php
+LICENSE
+README.md
+composer.json
+phpunit.xml

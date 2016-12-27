@@ -1,0 +1,7 @@
+src/Transmission/
+tests/
+.gitignore
+.travis.yml
+README.md
+composer.json
+phpunit.xml

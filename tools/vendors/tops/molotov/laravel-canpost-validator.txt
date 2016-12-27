@@ -1,0 +1,7 @@
+src/Molotov/CanpostValidator/
+tests/
+.gitignore
+.travis.yml
+README.md
+composer.json
+phpunit.xml

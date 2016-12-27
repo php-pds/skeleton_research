@@ -1,0 +1,9 @@
+docs/
+lib/
+tests/
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENCE.md
+README.rst
+composer.json

@@ -1,0 +1,10 @@
+bin/
+src/Lackey/
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+Lackeyfile.php
+README.md
+composer.json
+composer.lock

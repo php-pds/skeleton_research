@@ -1,0 +1,7 @@
+public/
+src/Devhook/Ckeditor/
+tests/
+.gitignore
+.travis.yml
+composer.json
+phpunit.xml

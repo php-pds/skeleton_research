@@ -1,0 +1,12 @@
+config/
+src/
+tests/
+webroot/
+.travis.yml
+LICENSE.md
+README.md
+composer.json
+phpunit.xml.dist
+related1.png
+related2.png
+related3.png

@@ -1,0 +1,8 @@
+lib/
+test/
+.gitignore
+LICENSE
+composer.json
+composer.lock
+phpunit.xml
+readme.md

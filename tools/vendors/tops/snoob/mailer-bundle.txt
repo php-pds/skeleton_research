@@ -1,0 +1,6 @@
+DependencyInjection/
+Resources/config/services/
+.gitignore
+README.md
+SnoobMailerBundle.php
+composer.json

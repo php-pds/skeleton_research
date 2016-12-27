@@ -1,0 +1,12 @@
+Classes/ViewHelpers/
+Configuration/TypoScript/
+Resources/Private/
+.gitignore
+LICENSE.md
+README.md
+composer.json
+ext_emconf.php
+ext_icon.gif
+ext_icon.png
+ext_icon.svg
+ext_tables.php

@@ -1,0 +1,6 @@
+src/DamonKreft/Mandrill/
+.gitignore
+LICENSE
+README.md
+cacert.pem
+composer.json

@@ -1,0 +1,14 @@
+cache/
+files/
+system/
+tests/
+.gitignore
+.htaccess
+.scrutinizer.yml
+README.md
+composer.json
+gplcart
+index.php
+license.txt
+phpunit.xml.dist
+robots.txt

@@ -1,0 +1,4 @@
+config/install/
+acquia_blog.features.yml
+acquia_blog.info.yml
+composer.json

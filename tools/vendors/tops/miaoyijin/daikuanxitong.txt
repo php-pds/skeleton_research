@@ -1,0 +1,13 @@
+.svn/
+Admin/
+Common/
+Runtime/
+ThinkPHP/
+static/
+11.txt
+README.md
+composer.json
+config.inc.php
+daikuanmanager.sql
+favicon.ico
+index.php

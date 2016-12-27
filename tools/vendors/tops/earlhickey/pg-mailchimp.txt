@@ -1,0 +1,7 @@
+config/
+src/PgMailchimp/
+.gitignore
+LICENCE
+Module.php
+README.md
+composer.json

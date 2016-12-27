@@ -1,0 +1,9 @@
+src/
+tests/
+.gitignore
+.travis.yml
+README.md
+composer.json
+git_prehook.sh
+index.php
+phpunit.xml

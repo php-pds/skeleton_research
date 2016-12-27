@@ -1,0 +1,5 @@
+Example/
+lib/Teguholica/BitcoinIDAPI/
+.gitignore
+composer.json
+loader.php

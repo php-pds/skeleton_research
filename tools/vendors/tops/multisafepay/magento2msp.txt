@@ -1,0 +1,10 @@
+Controller/Connect/
+Helper/
+Model/
+etc/
+i18n/
+view/frontend/
+.gitignore
+README.md
+composer.json
+registration.php

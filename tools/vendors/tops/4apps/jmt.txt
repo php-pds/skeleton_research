@@ -1,0 +1,7 @@
+LICENSE
+README.md
+bower.json
+component.json
+composer.json
+jmt.js
+jmt.min.js

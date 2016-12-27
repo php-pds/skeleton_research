@@ -1,0 +1,6 @@
+Model/Datasource/
+.gitignore
+LICENSE
+README.md
+VERSION.txt
+composer.json

@@ -1,0 +1,3 @@
+src/Maxyc/Laravel/Geography/
+README.md
+composer.json

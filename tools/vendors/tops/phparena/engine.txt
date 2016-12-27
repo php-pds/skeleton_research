@@ -1,0 +1,10 @@
+build/
+env/
+src/Warrior/
+.gitignore
+README.md
+build.xml
+composer.json
+composer.lock
+composer.phar
+test.php

@@ -1,0 +1,9 @@
+screenshots/
+src/Theme/
+theme/
+.gitignore
+composer.json
+gulpfile.js
+icon.png
+package.json
+plugin.php

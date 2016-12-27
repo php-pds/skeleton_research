@@ -1,0 +1,5 @@
+data/config/
+lib/PimDoctrine/
+README.md
+composer.json
+plugin.xml

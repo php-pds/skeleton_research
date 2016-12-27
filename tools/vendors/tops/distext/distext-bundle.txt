@@ -1,0 +1,6 @@
+src/Wavy/DistextBundle/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock

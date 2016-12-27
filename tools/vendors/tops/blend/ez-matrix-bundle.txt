@@ -1,0 +1,12 @@
+Controller/
+DependencyInjection/
+FieldType/Matrix/
+Persistence/Legacy/Content/FieldValue/Converter/
+Resources/
+Tests/
+.gitignore
+BlendEzMatrixBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

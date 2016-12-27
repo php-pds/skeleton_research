@@ -1,0 +1,4 @@
+bin/
+src/Composed/
+.gitignore
+composer.json

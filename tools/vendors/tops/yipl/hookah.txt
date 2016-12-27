@@ -1,0 +1,9 @@
+tests/Smoke/
+.codeclimate.yml
+.gitignore
+.travis.yml
+Readme.md
+circle.yml
+composer.json
+phpunit.xml
+wercker.yml

@@ -1,0 +1,8 @@
+_SRC/
+src/Omnipay/WorldPayRedirect/
+tests/
+.gitignore
+CONTRIBUTING.md
+LICENSE
+README.md
+composer.json

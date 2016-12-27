@@ -1,0 +1,10 @@
+App/
+EpClasses/
+bin/
+nbproject/
+test/
+web/
+.gitignore
+README.md
+composer.json
+composer.lock

@@ -1,0 +1,12 @@
+DependencyInjection/
+Exception/
+Interfaces/
+Resources/
+Services/
+Tests/
+.gitignore
+.travis.yml
+README.markdown
+UniqueLibsEmberDataSerializerBundle.php
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,10 @@
+test/
+.gitignore
+LICENCE
+README.md
+__init__.py
+composer.json
+event_amd.js
+event_amd.php
+event_amd.py
+package.json

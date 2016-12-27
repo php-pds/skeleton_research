@@ -1,0 +1,13 @@
+demo/
+release/
+src/
+tests/
+.bowerrc
+.gitignore
+.travis.yml
+Gruntfile.js
+LICENSE
+README.md
+bower.json
+karma.conf.js
+package.json

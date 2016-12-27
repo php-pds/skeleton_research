@@ -1,0 +1,9 @@
+build/
+inc/
+templates/
+.gitignore
+LICENSE
+README.md
+ZabbixComponent.php
+build.php
+composer.json

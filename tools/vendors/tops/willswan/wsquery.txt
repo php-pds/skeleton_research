@@ -1,0 +1,6 @@
+WSQuery/
+.gitignore
+LICENSE
+README.md
+composer.json
+examples.php

@@ -1,0 +1,7 @@
+Michelf/
+tests/Test/
+License.md
+Readme.md
+Readme.php
+composer.json
+phpunit.xml

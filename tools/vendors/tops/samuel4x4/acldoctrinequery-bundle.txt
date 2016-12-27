@@ -1,0 +1,7 @@
+DependencyInjection/
+Helper/
+Resources/config/
+LICENSE
+README.md
+composer.json
+kos4liveAclDoctrineQueryBundle.php

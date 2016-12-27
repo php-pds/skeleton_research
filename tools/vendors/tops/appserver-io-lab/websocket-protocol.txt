@@ -1,0 +1,10 @@
+src/AppserverIo/Lab/WebSocketProtocol/
+tests/AppserverIo/Lab/WebSocketProtocol/
+.gitignore
+CHANGELOG.md
+README.md
+bootstrap.php
+build.default.properties
+build.xml
+composer.json
+phpunit.xml

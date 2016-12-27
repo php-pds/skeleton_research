@@ -1,0 +1,7 @@
+stuffs/
+.hgtags
+README.md
+composer.json
+tbszip.php
+tbszip_code_examples.php
+tbszip_help.html

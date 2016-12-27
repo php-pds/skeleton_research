@@ -1,0 +1,10 @@
+bin/
+src/
+test/
+.gitignore
+.travis.yml
+CHANGELOG.md
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

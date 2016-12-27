@@ -1,0 +1,12 @@
+.gitignore
+DB-mongo.php
+DB-pdosql.php
+LICENSE
+README.md
+composer.json
+limiter-browser.php
+limiter-config.php
+limiter-console.php
+limiter-script.php
+limiter.sql
+loop-limiter.sh

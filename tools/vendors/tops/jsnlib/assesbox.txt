@@ -1,0 +1,6 @@
+Assesbox/
+.gitignore
+README.md
+changelog
+composer.json
+composer.lock

@@ -1,0 +1,10 @@
+cache/
+examples/
+posters/
+.editorconf
+.gitignore
+CHANGELOG.md
+LICENSE
+README.md
+composer.json
+imdb.class.php

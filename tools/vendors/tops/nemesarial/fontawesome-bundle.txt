@@ -1,0 +1,5 @@
+Resources/public/
+.gitignore
+NemFontAwesomeBundle.php
+README.md
+composer.json

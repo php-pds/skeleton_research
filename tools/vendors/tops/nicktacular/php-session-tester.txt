@@ -1,0 +1,7 @@
+src/n1/Session/
+test/
+.gitignore
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

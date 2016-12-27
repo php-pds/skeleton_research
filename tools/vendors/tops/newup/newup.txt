@@ -1,0 +1,6 @@
+config/
+.gitignore
+LICENSE
+composer.json
+newup
+readme.md

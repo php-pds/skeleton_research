@@ -1,0 +1,9 @@
+data/
+src/
+.env
+.gitignore
+LICENSE
+README.md
+composer.json
+docker-compose.yml
+shed

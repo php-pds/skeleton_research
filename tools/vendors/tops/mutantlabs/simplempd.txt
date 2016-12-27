@@ -1,0 +1,13 @@
+MPDWrapper/
+css/
+helpers/
+js/
+.gitignore
+.htaccess
+LICENSE
+README.md
+composer.json
+composer.lock
+composer.phar
+dashboard.html
+index.php

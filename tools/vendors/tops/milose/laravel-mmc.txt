@@ -1,0 +1,7 @@
+src/
+.editorconfig
+.gitignore
+.styleci.yml
+CHANGELOG.md
+README.md
+composer.json

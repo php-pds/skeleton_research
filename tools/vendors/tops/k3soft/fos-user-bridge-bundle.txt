@@ -1,0 +1,13 @@
+Controller/
+DependencyInjection/
+Event/
+EventListener/
+Form/Type/
+Mailer/
+Model/
+Resources/config/
+.gitignore
+FOSUserBridgeEvents.php
+K3SoftFOSUserBridgeBundle.php
+composer.json
+readme.md

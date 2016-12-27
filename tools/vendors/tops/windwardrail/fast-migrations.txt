@@ -1,0 +1,8 @@
+spec/WindwardRail/FastMigrations/
+src/
+tests/
+.gitignore
+.travis.yml
+composer.json
+phpspec.yml
+phpunit.xml

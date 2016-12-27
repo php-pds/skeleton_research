@@ -1,0 +1,8 @@
+Awg/PageSeo/
+test/
+.gitignore
+.travis.yml
+INSTALL
+README.md
+composer.json
+phpunit.xml

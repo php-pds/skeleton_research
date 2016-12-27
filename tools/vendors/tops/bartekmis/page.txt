@@ -1,0 +1,7 @@
+Console/
+Database/
+Http/
+Providers/
+Resources/
+composer.json
+module.json

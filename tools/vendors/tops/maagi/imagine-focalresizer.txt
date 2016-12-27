@@ -1,0 +1,6 @@
+demo/
+lib/Maagi/ImagineFocalResizer/
+tests/
+.gitignore
+README.md
+composer.json

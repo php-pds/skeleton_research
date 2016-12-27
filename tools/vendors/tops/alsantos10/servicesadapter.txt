@@ -1,0 +1,6 @@
+nbproject/
+src/ServiceApi/Auth/Adapter/
+.gitignore
+LICENSE
+README.md
+composer.json

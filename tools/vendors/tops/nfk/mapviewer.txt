@@ -1,0 +1,5 @@
+examples/
+lib/
+LICENSE-MIT
+README.md
+composer.json

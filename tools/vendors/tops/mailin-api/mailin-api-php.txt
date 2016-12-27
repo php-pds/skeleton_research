@@ -1,0 +1,7 @@
+V1.0/
+V2.0/
+src/Sendinblue/
+.gitignore
+LICENSE.md
+README.md
+composer.json

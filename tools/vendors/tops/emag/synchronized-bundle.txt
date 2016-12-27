@@ -1,0 +1,15 @@
+DependencyInjection/
+Driver/
+Event/
+Exception/
+Resources/
+Tests/
+.coveralls.yml
+.gitignore
+.travis.yml
+Decorator.php
+Lock.php
+README.md
+SynchronizedBundle.php
+composer.json
+phpunit.xml.dist

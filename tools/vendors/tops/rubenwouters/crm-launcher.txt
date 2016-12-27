@@ -1,0 +1,10 @@
+config/
+database/Migrations/
+lang/
+public/
+resources/views/
+src/
+.scrutinizer.yml
+LICENSE
+composer.json
+readme.md

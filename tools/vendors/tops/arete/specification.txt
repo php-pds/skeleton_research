@@ -1,0 +1,10 @@
+examples/
+src/
+tests/
+.gitattributes
+.gitignore
+.travis.yml
+README.md
+composer.json
+phpunit.hhvm.xml
+phpunit.xml.dist

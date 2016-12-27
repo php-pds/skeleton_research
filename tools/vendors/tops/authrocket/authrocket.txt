@@ -1,0 +1,10 @@
+data/
+lib/
+tests/
+.gitignore
+CHANGELOG.md
+LICENSE
+README.md
+VERSION
+composer.json
+phpunit.xml

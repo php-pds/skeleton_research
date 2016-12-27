@@ -1,0 +1,4 @@
+src/Noxlogic/Aws/
+LICENSE
+README.md
+composer.json

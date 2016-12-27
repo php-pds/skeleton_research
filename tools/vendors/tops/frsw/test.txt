@@ -1,0 +1,6 @@
+src/Ford/
+.gitignore
+README.md
+composer.json
+composer.lock
+test.txt

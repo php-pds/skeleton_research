@@ -1,0 +1,12 @@
+config/
+src/Seo/
+tests/
+.gitignore
+LICENSE.md
+Module.php
+README.md
+circle.yml
+composer.json
+composer.lock
+composer.phar
+phpunit.xml

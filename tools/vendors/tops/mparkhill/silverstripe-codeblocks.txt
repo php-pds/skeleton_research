@@ -1,0 +1,10 @@
+_config/
+code/
+images/
+javascript/tinymce-codeblock/
+.editorconfig
+.scrutinizer.yml
+README.md
+code-of-conduct.md
+composer.json
+license.md

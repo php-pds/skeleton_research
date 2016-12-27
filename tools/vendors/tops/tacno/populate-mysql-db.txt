@@ -1,0 +1,7 @@
+Populate/
+examples/
+LICENSE
+LICENSE~
+README.md
+README.md~
+composer.json

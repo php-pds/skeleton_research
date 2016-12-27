@@ -1,0 +1,11 @@
+hooks/
+src/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpci.yml
+phpunit-coverage-html.xml
+phpunit.xml

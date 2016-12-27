@@ -1,0 +1,10 @@
+Command/
+Generator/
+Resources/
+Tests/
+.travis.yml
+AlesteCrudGeneratorBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

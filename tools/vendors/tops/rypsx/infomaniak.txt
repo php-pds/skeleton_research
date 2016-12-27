@@ -1,0 +1,6 @@
+example/
+src/Infomaniak/
+.gitignore
+LICENSE
+composer.json
+readme.md

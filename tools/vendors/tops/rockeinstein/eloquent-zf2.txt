@@ -1,0 +1,8 @@
+config/
+eloquent-zf2/
+src/EloquentZF2/
+.gitignore
+LICENSE
+Module.php
+README.md
+composer.json

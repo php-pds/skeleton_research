@@ -1,0 +1,6 @@
+yii-dressing/
+.gitattributes
+.gitignore
+README.md
+composer.json
+license.txt

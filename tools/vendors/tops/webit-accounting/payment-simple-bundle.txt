@@ -1,0 +1,10 @@
+Account/
+Client/
+Controller/
+DependencyInjection/
+Plugin/
+Resources/
+.gitignore
+README.md
+WebitAccountingPaymentSimpleBundle.php
+composer.json

@@ -1,0 +1,11 @@
+Config/
+Controller/
+Model/
+Test/
+Vendor/shells/
+View/
+webroot/
+AUTHORS
+LICENSE
+README
+composer.json

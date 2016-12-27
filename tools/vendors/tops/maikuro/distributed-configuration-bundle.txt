@@ -1,0 +1,17 @@
+Controller/
+DependencyInjection/
+Form/
+Handler/
+Model/
+Resources/
+Tests/
+.coveralls.yml
+.formatter.yml
+.gitignore
+.php_cs
+.travis.yml
+LICENSE
+MaikuroDistributedConfigurationBundle.php
+README.md
+composer.json
+phpunit.xml.dist

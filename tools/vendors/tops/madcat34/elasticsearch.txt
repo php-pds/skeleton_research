@@ -1,0 +1,8 @@
+config/
+src/ElasticSearch/
+tests/
+view/zend-developer-tools/toolbar/
+LICENSE
+Module.php
+README.md
+composer.json

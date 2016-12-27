@@ -1,0 +1,3 @@
+src/com/wxpay/
+README.md
+composer.json

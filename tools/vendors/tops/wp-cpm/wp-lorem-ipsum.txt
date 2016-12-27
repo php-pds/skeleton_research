@@ -1,0 +1,3 @@
+.gitignore
+composer.json
+wp-lorem-ipsum.php

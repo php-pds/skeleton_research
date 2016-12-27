@@ -1,0 +1,5 @@
+.gitignore
+LICENSE
+MultiCombinator.php
+README.md
+composer.json

@@ -1,0 +1,8 @@
+config/
+sql/
+src/OperationLog/
+LICENSE
+Module.php
+autoload_classmap.php
+composer.json
+readme.md

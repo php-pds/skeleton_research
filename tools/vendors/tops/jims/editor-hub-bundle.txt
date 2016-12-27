@@ -1,0 +1,10 @@
+Controller/
+DependencyInjection/
+Form/
+Resources/
+Service/
+Tests/Controller/
+.gitattributes
+JimsEditorHubBundle.php
+README.md
+composer.json

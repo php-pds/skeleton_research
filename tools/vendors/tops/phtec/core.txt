@@ -1,0 +1,6 @@
+config/
+src/Core/
+Module.php
+README.md
+composer.json
+composer.phar

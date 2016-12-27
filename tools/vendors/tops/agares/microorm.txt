@@ -1,0 +1,11 @@
+examples/
+src/
+tests/
+.gitignore
+.scutinizer.yml
+.travis.yml
+LICENSE.md
+composer.json
+composer.lock
+phpunit.xml
+readme.md

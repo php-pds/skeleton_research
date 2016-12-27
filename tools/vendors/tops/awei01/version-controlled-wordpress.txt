@@ -1,0 +1,13 @@
+bootstrap/
+configure/
+modules/
+public/
+server/
+storage/
+theme/
+wp-themes/
+.env.sample
+.gitignore
+composer.json
+readme.md
+wp-config.php

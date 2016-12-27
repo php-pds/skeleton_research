@@ -1,0 +1,14 @@
+bin/
+dev/
+src/
+tests/
+.gitattributes
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+build.xml
+composer.json
+composer.lock
+permcheck.example.xml

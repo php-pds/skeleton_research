@@ -1,0 +1,6 @@
+MakeDB/
+.editorconfig
+.gitignore
+composer.json
+example.php
+readme.md

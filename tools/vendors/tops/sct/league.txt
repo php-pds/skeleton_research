@@ -1,0 +1,5 @@
+src/sct/League/
+.gitignore
+LICENSE
+README.md
+composer.json

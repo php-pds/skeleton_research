@@ -1,0 +1,17 @@
+Composite/
+Memory/
+Resource/
+Scalar/
+Tests/
+.gitignore
+.travis.yml
+AutoBoxType.php
+CHANGELOG.md
+CONTRIBUTING.md
+ConvertibleInterface.php
+LICENSE
+README.md
+Type.php
+autoload.php.dist
+composer.json
+phpunit.xml.dist

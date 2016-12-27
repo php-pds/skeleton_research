@@ -1,0 +1,9 @@
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+README.md
+bandaid.drush.inc
+bandaid.inc
+composer.json
+phpunit.xml.dist

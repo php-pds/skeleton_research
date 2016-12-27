@@ -1,0 +1,12 @@
+.idea/
+bin/
+src/
+tests/Elo/
+.gitignore
+.travis.yml
+LICENSE.txt
+README.md
+composer.json
+composer.lock
+phpunit.xml
+phpunit_bootstrap.php

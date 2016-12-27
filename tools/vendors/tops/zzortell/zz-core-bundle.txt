@@ -1,0 +1,4 @@
+DependencyInjection/
+Resources/
+ZzCoreBundle.php
+composer.json

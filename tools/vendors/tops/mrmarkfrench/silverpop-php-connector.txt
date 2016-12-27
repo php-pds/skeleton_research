@@ -1,0 +1,7 @@
+src/SilverpopConnector/
+.gitignore
+README.md
+apiTest.php
+authDataSample.ini
+composer.json
+recipexport.php

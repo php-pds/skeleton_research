@@ -1,0 +1,7 @@
+Tests/
+vendor/
+Connection.php
+LICENSE
+README.md
+composer.json
+composer.lock

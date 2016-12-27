@@ -1,0 +1,14 @@
+app/
+config/
+resources/
+.gitignore
+.htaccess
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+favicon.ico
+home.php
+index.php
+phpunit.xml

@@ -1,0 +1,12 @@
+.travis/
+doc/
+examples/
+src/
+.gitignore
+.travis.yml
+Changelog.md
+LICENSE
+README.md
+VERSION
+autoload.php
+composer.json

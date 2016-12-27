@@ -1,0 +1,14 @@
+docs/
+src/
+test/
+.codeclimate.yml
+.gitignore
+.travis.yml
+Makefile
+README.md
+composer.json
+config.mk
+make-loader.php
+make-phar.php
+phpunit.xml
+sources.mk

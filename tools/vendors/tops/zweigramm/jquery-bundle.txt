@@ -1,0 +1,6 @@
+Resources/public/js/
+.gitignore
+LICENSE.txt
+README.md
+ZweigrammJQueryBundle.php
+composer.json

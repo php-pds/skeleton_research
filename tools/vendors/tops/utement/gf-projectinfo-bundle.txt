@@ -1,0 +1,9 @@
+Controller/
+DependencyInjection/
+Resources/
+Tests/
+.gitignore
+.travis.yml
+GFProjectInfoBundle.php
+composer.json
+phpunit.xml.dist

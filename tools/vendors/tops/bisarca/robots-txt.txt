@@ -1,0 +1,15 @@
+docs/
+src/Bisarca/RobotsTxt/
+tests/Bisarca/RobotsTxt/
+.editorconfig
+.gitattributes
+.gitignore
+.php_cs
+.scrutinizer.yml
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+composer.json
+mkdocs.yml
+phpunit.xml.dist

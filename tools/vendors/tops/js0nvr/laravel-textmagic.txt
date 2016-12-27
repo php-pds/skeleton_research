@@ -1,0 +1,7 @@
+src/
+.gitignore
+changelog.md
+composer.json
+laravel-textmagic.sublime-project
+license.md
+readme.md

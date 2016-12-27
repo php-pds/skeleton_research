@@ -1,0 +1,9 @@
+contao/
+src/MetaModels/Filter/Setting/
+tests/
+.gitignore
+README.md
+build.default.properties
+build.xml
+composer.json
+phpunit.xml.dist

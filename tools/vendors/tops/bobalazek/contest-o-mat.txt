@@ -1,0 +1,16 @@
+app/
+bin/
+doc/images/
+src/
+test/
+web/
+.bowerrc
+.editorconfig
+.gitignore
+.travis.yml
+LICENSE
+README.md
+bower.json
+composer.json
+index.html
+phpunit.xml

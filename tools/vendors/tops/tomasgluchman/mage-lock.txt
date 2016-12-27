@@ -1,0 +1,5 @@
+.gitignore
+LICENSE
+Lock.php
+README.md
+composer.json

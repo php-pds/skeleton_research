@@ -1,0 +1,9 @@
+bin/
+plugins/
+src/
+tests/
+.gitignore
+README.md
+autoload.php
+composer.json
+phpunit.xml

@@ -1,0 +1,6 @@
+spec/malonmedia/Gravatari/
+src/malonmedia/Gravatari/
+.gitignore
+.travis.yml
+README.md
+composer.json

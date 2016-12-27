@@ -1,0 +1,5 @@
+images/
+static/
+VNE_Paralax.html
+composer.json
+index.html

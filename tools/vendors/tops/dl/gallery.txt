@@ -1,0 +1,7 @@
+Classes/DL/Gallery/
+Configuration/
+Resources/
+.gitignore
+LICENSE
+Readme.md
+composer.json

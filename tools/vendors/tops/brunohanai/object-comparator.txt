@@ -1,0 +1,8 @@
+src/brunohanai/ObjectComparator/
+tests/brunohanai/ObjectComparator/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

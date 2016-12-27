@@ -1,0 +1,5 @@
+gehaxelt/fileLogger/
+tests/
+.gitignore
+README.md
+composer.json

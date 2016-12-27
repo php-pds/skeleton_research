@@ -1,0 +1,8 @@
+src/
+.gitignore
+.gush.yml
+.scrutinizer.yml
+LICENSE
+README.md
+composer.json
+test.php

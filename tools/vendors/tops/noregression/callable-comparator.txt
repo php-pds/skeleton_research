@@ -1,0 +1,10 @@
+src/PHPUnit/
+tests/
+.editorconfig
+.gitignore
+.travis.yml
+README.md
+codeclimate.sh
+composer.json
+composer.lock
+phpunit.xml.dist

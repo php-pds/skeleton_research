@@ -1,0 +1,6 @@
+Allman/
+CakePHP/
+.gitignore
+LICENSE.txt
+README.md
+composer.json

@@ -1,0 +1,13 @@
+css/
+img/
+js/
+.gitattributes
+.gitignore
+LICENSE
+README.md
+bower.json
+bs3.html
+composer.json
+index.html
+modal_ajax_test.html
+params.json

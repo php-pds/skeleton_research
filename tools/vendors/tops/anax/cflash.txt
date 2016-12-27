@@ -1,0 +1,10 @@
+app/view/flash/
+src/Flash/
+test/
+vendor/
+webroot/
+.scrutinizer.yml
+.travis.yml
+README.md
+autoloader.php
+composer.json

@@ -1,0 +1,17 @@
+DataCollector/
+DependencyInjection/
+Event/
+Resources/
+Tests/DataCollector/
+.gitattributes
+.gitignore
+.travis.yml
+Factory.php
+ICONS_LICENSE
+LICENSE
+NfqSoapBundle.php
+NfqSoapEvents.php
+README.md
+TraceableSoapClient.php
+composer.json
+phpunit.xml.dist

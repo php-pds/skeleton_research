@@ -1,0 +1,11 @@
+DependencyInjection/
+Exception/
+Lib/
+Resources/
+Service/
+Tests/Service/
+.gitignore
+EovzMicrosoftTranslatorApiClientBundle.php
+LICENSE
+README.md
+composer.json

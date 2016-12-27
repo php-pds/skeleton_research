@@ -1,0 +1,10 @@
+Configuration/
+DependencyInjection/
+Manager/
+Resources/
+Twig/
+CHANGELOG.md
+LICENSE
+README.md
+composer.json
+whatwedoEsrBundle.php

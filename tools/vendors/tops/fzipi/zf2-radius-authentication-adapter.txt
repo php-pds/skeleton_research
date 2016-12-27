@@ -1,0 +1,7 @@
+src/Fing/Authentication/Adapter/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,6 @@
+.idea/
+lib/Dispose/
+vendor/
+composer.json
+composer.lock
+test.php

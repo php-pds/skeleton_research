@@ -1,0 +1,12 @@
+database/assets/
+lib/
+scripts/
+src/Bond/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml
+runtests

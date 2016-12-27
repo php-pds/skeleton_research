@@ -1,0 +1,11 @@
+app/
+src/
+web/
+.bowerrc
+.gitattributes
+.gitignore
+.travis.yml
+LICENSE.md
+README.md
+composer.json
+requirements.php

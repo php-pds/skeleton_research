@@ -1,0 +1,8 @@
+.openshift/
+web/
+yii-app/
+.gitignore
+LICENSE
+README.md
+composer.json
+gulpfile.js

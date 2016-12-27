@@ -1,0 +1,13 @@
+Core/
+DependencyInjection/
+Exception/
+Resources/config/
+Service/
+Tests/Service/
+.gitignore
+.travis.yml
+Example.php
+FacebookMessengerBundle.php
+README.md
+composer.json
+phpunit.xml.dist

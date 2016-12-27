@@ -1,0 +1,8 @@
+bin/
+src/FeatureBrowser/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock
+featurebrowser.yml.dist

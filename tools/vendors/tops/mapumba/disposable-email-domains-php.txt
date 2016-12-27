@@ -1,0 +1,6 @@
+src/DKaefer/
+tests/src/DKaefer/
+.gitignore
+Readme.md
+composer.json
+example.php

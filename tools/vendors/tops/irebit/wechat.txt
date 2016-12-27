@@ -1,0 +1,6 @@
+demo/
+src/Wechat/
+LICENSE
+README.md
+autoload.php
+composer.json

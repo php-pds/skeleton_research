@@ -1,0 +1,5 @@
+.idea/scopes/
+public_html/
+src/
+.gitignore
+composer.json

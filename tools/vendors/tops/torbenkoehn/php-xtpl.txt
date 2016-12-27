@@ -1,0 +1,10 @@
+cache/
+examples/
+library/Xtpl/
+templates/
+vendor/
+.gitattributes
+.gitignore
+README.md
+composer.json
+index.php

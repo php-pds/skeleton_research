@@ -1,0 +1,13 @@
+Client/
+DependencyInjection/
+Exception/
+Provider/
+Resources/config/
+Tests/Provider/
+CurrencyRateDate.php
+ExchangeRate.php
+LICENSE
+README.md
+SubmarineNbrbExchangeRatesBundle.php
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,7 @@
+config/
+lib/
+static/
+web/
+.gitignore
+README.rst
+composer.json

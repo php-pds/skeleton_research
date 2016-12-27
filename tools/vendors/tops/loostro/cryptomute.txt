@@ -1,0 +1,8 @@
+lib/Cryptomute/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

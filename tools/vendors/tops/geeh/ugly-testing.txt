@@ -1,0 +1,8 @@
+src/UglyTesting/
+test/
+.gitignore
+.travis.yml
+Makefile
+README.md
+composer.json
+composer.lock

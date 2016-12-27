@@ -1,0 +1,13 @@
+Block/Theme/Html/
+Console/Command/
+Controller/
+Cron/
+Model/
+Observer/
+Plugin/
+Setup/
+Test/Unit/
+etc/
+view/frontend/
+composer.json
+registration.php

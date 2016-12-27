@@ -1,0 +1,8 @@
+example/
+tests/
+.codeclimate.yml
+.gitignore
+.travis.yml
+Form.php
+README.md
+composer.json

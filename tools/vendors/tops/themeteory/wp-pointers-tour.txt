@@ -1,0 +1,9 @@
+.gitignore
+LICENSE
+PointersManager.php
+PointersManagerInterface.php
+README.md
+composer.json
+pointers-tour.php
+pointers.js
+pointers.php

@@ -1,0 +1,16 @@
+.github/
+bin/
+features/
+spec/
+src/
+.editorconfig
+.envrc
+.gitignore
+.travis.yml
+LICENSE
+README.md
+behat.yml.dist
+composer.json
+composer.lock
+package.json
+phpspec.yml

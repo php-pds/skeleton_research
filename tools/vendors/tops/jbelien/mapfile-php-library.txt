@@ -1,0 +1,14 @@
+docs/
+LICENSE
+README.md
+autoload.php
+composer.json
+exception.php
+label.php
+layer.php
+layerclass.php
+legend.php
+map.php
+phpdoc.dist.xml
+scalebar.php
+style.php

@@ -1,0 +1,6 @@
+config/
+core/
+src/
+webroot/
+.gitignore
+composer.json

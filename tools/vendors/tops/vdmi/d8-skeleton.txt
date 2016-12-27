@@ -1,0 +1,10 @@
+scripts/
+web/
+.gitignore
+.gitlab-ci.yml
+LICENSE
+PROJECT-README.md
+README.md
+composer.json
+packages.json
+phpunit.xml.dist

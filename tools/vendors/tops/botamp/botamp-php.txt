@@ -1,0 +1,9 @@
+lib/Botamp/
+tests/Botamp/
+.coveralls.yml
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml

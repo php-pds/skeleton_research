@@ -1,0 +1,5 @@
+generators/migration/
+.gitignore
+LICENSE
+README.md
+composer.json

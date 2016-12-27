@@ -1,0 +1,8 @@
+examples/
+library/OneTwo360/
+test/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,12 @@
+app/
+bin/
+features/
+src/
+var/
+web/
+.gitignore
+README.md
+behat.yml
+composer.json
+composer.lock
+phpunit.xml.dist

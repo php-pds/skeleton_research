@@ -1,0 +1,8 @@
+src/Danmichaelo/Coma/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml

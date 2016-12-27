@@ -1,0 +1,11 @@
+src/
+tests/SimpleCartTest/
+.gitignore
+.travis.yml
+README.md
+composer.json
+index.html
+phpcbf
+phpcs
+phpunit
+phpunit.xml

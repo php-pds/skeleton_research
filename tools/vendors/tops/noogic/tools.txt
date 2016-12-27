@@ -1,0 +1,8 @@
+src/tools/
+test/tools/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml

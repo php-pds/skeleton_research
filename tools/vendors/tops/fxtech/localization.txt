@@ -1,0 +1,7 @@
+src/FXTech/
+.buildpath
+.gitignore
+.project
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,3 @@
+DunamisClasses/
+README.md
+composer.json

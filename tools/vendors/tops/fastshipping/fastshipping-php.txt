@@ -1,0 +1,12 @@
+docs/
+library/
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+README.md
+composer.json
+composer.lock
+coverage.clover
+phpunit.xml.dist
+some-file

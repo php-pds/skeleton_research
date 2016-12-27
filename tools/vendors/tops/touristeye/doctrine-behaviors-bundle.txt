@@ -1,0 +1,12 @@
+Annotation/
+DependencyInjection/
+Listener/
+Model/
+Resources/
+Services/
+Twig/
+Utilities/
+README.md
+TEDoctrineBehaviorsBundle.php
+composer.json
+composer.lock

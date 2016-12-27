@@ -1,0 +1,12 @@
+controllers/
+src/
+views/
+web/
+.bowerrc
+.gitignore
+README.md
+bower.json
+composer.json
+composer.lock
+gulpfile.js
+package.json

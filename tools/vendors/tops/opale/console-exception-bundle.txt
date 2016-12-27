@@ -1,0 +1,6 @@
+DependencyInjection/
+Listener/
+Resources/config/
+OpaleConsoleExceptionBundle.php
+README.md
+composer.json

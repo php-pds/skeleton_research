@@ -1,0 +1,8 @@
+dbprovider/
+generator/
+.gitignore
+Exception.php
+FakerController.php
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,4 @@
+src/MarijnvdWerf/Monolog/
+.gitignore
+composer.json
+composer.lock

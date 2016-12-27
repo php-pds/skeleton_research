@@ -1,0 +1,4 @@
+.idea/
+README.md
+composer.json
+mysql.class.php

@@ -1,0 +1,16 @@
+Configs/
+Includes/
+Plugins/
+Tests/
+.gitattributes
+.gitignore
+.scrutinizer.yml
+.travis.yml
+GenFunctions.php
+HTTP.php
+Init.php
+LICENSE
+README.md
+config.inc.php
+phpdoc.dist.xml
+phpunit.xml.dist

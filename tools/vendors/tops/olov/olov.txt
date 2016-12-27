@@ -1,0 +1,9 @@
+examples/
+src/
+tests/
+.gitignore
+CHANGELOG.markdown
+LICENSE.txt
+README.md
+composer.json
+composer.lock

@@ -1,0 +1,11 @@
+DependencyInjection/
+Resources/config/
+Tests/
+.gitattributes
+.gitignore
+.travis.yml
+KuceraMonologExtensionsBundle.php
+composer.json
+license.md
+phpunit.xml.dist
+readme.md

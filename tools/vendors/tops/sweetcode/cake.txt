@@ -1,0 +1,5 @@
+Cake/
+.gitattributes
+.gitignore
+composer.json
+readme.md

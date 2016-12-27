@@ -1,0 +1,11 @@
+src/
+tests/src/Component/
+.codeclimate.yml
+.gitignore
+LICENSE
+circle.yml
+composer.json
+helpers.php
+phpunit.php
+phpunit.xml
+readme.md

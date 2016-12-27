@@ -1,0 +1,7 @@
+lib/
+CHANGES.md
+CONTRIBUTING.md
+LICENSE.txt
+README.md
+autoload.php
+composer.json

@@ -1,0 +1,7 @@
+conf/
+examples/
+src/HugsBrugs/HugWhois/
+.gitignore
+README.md
+composer.json
+composer.lock

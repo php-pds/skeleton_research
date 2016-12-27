@@ -1,0 +1,12 @@
+bin/
+doc/
+src/
+tests/
+.gitignore
+CHANGES.txt
+Detailed-README.md
+LICENSE
+NEWS.txt
+README.md
+composer.json
+phpunit.xml.dist

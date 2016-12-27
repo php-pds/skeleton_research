@@ -1,0 +1,5 @@
+src/Labtech/Ferry/
+vendor/
+.travis.yml
+composer.json
+phpunit.xml

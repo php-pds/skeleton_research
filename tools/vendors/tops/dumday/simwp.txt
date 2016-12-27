@@ -1,0 +1,11 @@
+extras/
+src/
+.gitignore
+CHANGELOG.md
+LICENSE
+README.md
+Simwp.php
+TODO
+composer.json
+install.php
+install_hooks.php

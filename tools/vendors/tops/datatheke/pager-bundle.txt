@@ -1,0 +1,15 @@
+DataGrid/
+DependencyInjection/
+Pager/
+Resources/
+Serializer/Handler/
+Tests/
+Twig/
+.gitignore
+.travis.yml
+DatathekePagerBundle.php
+LICENSE
+README.md
+UPGRADE.md
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,14 @@
+demo/
+src/Pinterest/
+tests/Pinterest/
+.codeclimate.yml
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CHANGELOG.md
+LICENSE.md
+README.md
+autoload.php
+composer.json
+composer.lock
+phpunit.xml

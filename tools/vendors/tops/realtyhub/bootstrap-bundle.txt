@@ -1,0 +1,7 @@
+DependencyInjection/
+Filters/
+Resources/config/
+.gitignore
+README.md
+RealtyhubBootstrapBundle.php
+composer.json

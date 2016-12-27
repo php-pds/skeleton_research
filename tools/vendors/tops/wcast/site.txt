@@ -1,0 +1,12 @@
+.idea/
+css/
+fonts/font/
+img/
+js/
+vendor/
+.htaccess
+composer.json
+composer.lock
+composer.phar
+favicon.ico
+index.php

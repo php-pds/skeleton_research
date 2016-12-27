@@ -1,0 +1,14 @@
+DependencyInjection/
+Factory/
+Feed/
+Renderer/
+Resources/
+Tests/
+.coveralls.yml
+.gitignore
+.travis.yml
+ArgentumFeedBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

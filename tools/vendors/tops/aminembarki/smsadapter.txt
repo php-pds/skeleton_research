@@ -1,0 +1,5 @@
+src/smsadapter/
+.gitignore
+LICENSE
+README.md
+composer.json

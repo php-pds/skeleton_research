@@ -1,0 +1,11 @@
+css/
+icons/
+js/
+keepassphpui/
+.gitignore
+LICENSE.md
+README.md
+ajaxopen.php
+bootstrap-config.json
+composer.json
+index.php

@@ -1,0 +1,5 @@
+.gitignore
+IdomooAPI.php
+README.md
+SimpleRequestExample.php
+composer.json

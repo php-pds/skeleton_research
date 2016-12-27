@@ -1,0 +1,6 @@
+src/com/floyd/petition/
+.travis.yml
+README.md
+composer.json
+plugin.yml
+pom.xml

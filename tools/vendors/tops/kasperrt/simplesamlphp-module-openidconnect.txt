@@ -1,0 +1,7 @@
+src/Auth/Source/
+template/
+www/
+LICENSE
+README.md
+composer.json
+default-enable

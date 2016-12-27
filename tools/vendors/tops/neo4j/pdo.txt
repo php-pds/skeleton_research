@@ -1,0 +1,9 @@
+tests/
+vanilla/Neo4j/
+zend/pdo_neo4j/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

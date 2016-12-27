@@ -1,0 +1,10 @@
+docs/
+src/
+tests/
+.gitignore
+.travis.yml
+LICENSE.txt
+Makefile
+README.md
+composer.json
+demo.php

@@ -1,0 +1,12 @@
+DependencyInjection/
+Resources/
+Tests/
+.gitignore
+.travis.yml
+Dispatcher.php
+HipMandrillBundle.php
+LICENSE.md
+Message.php
+README.md
+composer.json
+phpunit.xml.dist

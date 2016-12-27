@@ -1,0 +1,10 @@
+examples/
+spec/Niborb/FeatureToggle/
+src/Niborb/FeatureToggle/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpspec.yml
+phpspec_nocc.yml

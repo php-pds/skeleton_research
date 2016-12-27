@@ -1,0 +1,4 @@
+src/Validic/
+test/
+composer.json
+readme.md

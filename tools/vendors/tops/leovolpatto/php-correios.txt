@@ -1,0 +1,12 @@
+Proxy/
+Util/
+docs/
+nbproject/
+.gitignore
+LICENSE
+README.md
+composer.json
+index.php
+phpcorreios.inc.php
+reference.txt
+teste.txt

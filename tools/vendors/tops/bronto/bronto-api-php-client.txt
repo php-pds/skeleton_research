@@ -1,0 +1,14 @@
+bin/Console/
+nbproject/
+src/Bronto/
+tests/
+vendor/
+.gitignore
+.gitmodules
+LICENSE
+README.md
+composer.json
+console
+functions.php
+install_vendors.sh
+phpunit.xml.dist

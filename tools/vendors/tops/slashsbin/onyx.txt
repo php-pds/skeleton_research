@@ -1,0 +1,12 @@
+app/
+cache/
+etc/apache2/
+logz/
+tests/
+vendor/
+web/
+.gitignore
+.travis.yml
+README.md
+composer.json
+composer.lock

@@ -1,0 +1,12 @@
+actions/
+base/
+bootstrap/
+components/
+db/
+extensions/editors/
+helpers/tree/
+models/
+.gitignore
+LICENSE
+README.md
+composer.json

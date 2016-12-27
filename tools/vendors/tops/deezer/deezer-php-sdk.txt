@@ -1,0 +1,4 @@
+lib/DeezerAPI/
+.gitignore
+README.md
+composer.json

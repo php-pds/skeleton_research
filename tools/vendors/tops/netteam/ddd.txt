@@ -1,0 +1,8 @@
+src/NetTeam/DDD/
+tests/
+.gitignore
+.travis.yml
+CHANGELOG.md
+README.md
+composer.json
+phpunit.xml.dist

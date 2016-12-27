@@ -1,0 +1,9 @@
+config/
+module/Application/
+public/
+src/Application/Model/Database/
+LICENSE.md
+README.md
+composer.json
+composer.lock
+init_autoloader.php

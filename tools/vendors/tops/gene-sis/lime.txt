@@ -1,0 +1,13 @@
+examples/
+scanner/
+src/
+.gitattributes
+.gitignore
+FlexScanner.php
+README.md
+Set.php
+composer.json
+composer.lock
+lime.bootstrap
+lime.php
+metagrammar

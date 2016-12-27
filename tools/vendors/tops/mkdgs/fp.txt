@@ -1,0 +1,15 @@
+1_static/
+Example/
+Fp/
+Lib/
+Netcarver/Textile/
+Psr/Log/
+deprecated_Lessphp/
+tests/
+Licence_CeCILL-B_V1-en.txt
+Licence_CeCILL-B_V1-fr.txt
+README
+composer.json
+init.php
+init_config_javascript.php
+init_framework.php

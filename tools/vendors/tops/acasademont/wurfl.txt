@@ -1,0 +1,10 @@
+WURFL/
+docs/
+examples/
+tests/
+tools/
+.gitignore
+CHANGELOG.txt
+COPYING.txt
+README.md
+composer.json

@@ -1,0 +1,4 @@
+.gitignore
+README.md
+aws-eb-newrelic-deploynotify.sh
+composer.json

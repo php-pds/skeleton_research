@@ -1,0 +1,5 @@
+src/xBase2Array/
+vendor/
+README.md
+composer.json
+composer.lock

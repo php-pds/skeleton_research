@@ -1,0 +1,7 @@
+src/D3Catalyst/Compress/
+tests/Unit/D3Catalyst/Compress/
+.travis.yml
+LICENCE
+README.md
+composer.json
+phpunit.xml

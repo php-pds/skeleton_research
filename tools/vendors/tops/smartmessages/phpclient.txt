@@ -1,0 +1,10 @@
+src/
+.gitignore
+.scrutinizer.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+example-full.php
+example-simple.php
+testsettings-dist.php

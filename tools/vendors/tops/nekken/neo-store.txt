@@ -1,0 +1,8 @@
+public_html/
+src/
+tests/
+.gitignore
+LICENSE
+README.md
+bootstrap.php
+composer.json

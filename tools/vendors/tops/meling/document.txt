@@ -1,0 +1,8 @@
+assets/layouts/
+src/Meling/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json
+phpunit.xml

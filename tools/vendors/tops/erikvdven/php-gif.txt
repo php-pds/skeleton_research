@@ -1,0 +1,7 @@
+examples/countdown/
+src/Gif/
+.gitignore
+CHANGELOG-1.0.md
+README.md
+composer.json
+composer.lock

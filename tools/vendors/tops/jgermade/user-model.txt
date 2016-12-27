@@ -1,0 +1,7 @@
+.gitignore
+Browser.php
+LICENSE
+README.md
+UserModel.php
+composer.json
+headers-json.php

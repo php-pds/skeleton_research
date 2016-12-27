@@ -1,0 +1,7 @@
+diag/
+src/pg/
+tests/bench/
+.gitignore
+README.md
+composer.json
+examples.php

@@ -1,0 +1,3 @@
+README.md
+RaphaelAsset.php
+composer.json

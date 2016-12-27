@@ -1,0 +1,9 @@
+Public/
+Shop/
+TP/
+.htaccess
+.travis.yml
+README.md
+composer.json
+index.php
+kshop.sql

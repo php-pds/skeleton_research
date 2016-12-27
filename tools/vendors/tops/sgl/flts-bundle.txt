@@ -1,0 +1,15 @@
+Controller/
+DependencyInjection/
+Entity/
+Form/
+Listeners/
+Resources/
+Tests/
+Twig/
+Util/Tax/
+.gitignore
+.travis.yml
+README.md
+SGLFLTSBundle.php
+composer.json
+phpunit.xml.dist

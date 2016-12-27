@@ -1,0 +1,7 @@
+Cache/
+Log/
+Utils/
+Weixin/
+.gitignore
+README.md
+composer.json

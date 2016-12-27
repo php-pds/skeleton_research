@@ -1,0 +1,4 @@
+lib/
+composer.json
+license.txt
+readme.txt

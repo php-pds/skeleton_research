@@ -1,0 +1,8 @@
+config/
+database/migrations/
+resources/views/
+src/
+vendor/
+LICENSE.txt
+README.md
+composer.json

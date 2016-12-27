@@ -1,0 +1,7 @@
+.idea/
+spec/Easylaravel/
+src/Easylaravel/
+.gitignore
+README.md
+composer.json
+composer.lock

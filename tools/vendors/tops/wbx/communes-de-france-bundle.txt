@@ -1,0 +1,6 @@
+Entity/
+Resources/
+.gitignore
+README.md
+composer.json
+wbxCommunesDeFranceBundle.php

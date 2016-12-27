@@ -1,0 +1,8 @@
+src/mptre/
+tests/
+.gitignore
+README.mdown
+Rakefile
+composer.json
+composer.lock
+package.xml

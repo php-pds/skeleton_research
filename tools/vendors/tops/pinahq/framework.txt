@@ -1,0 +1,5 @@
+src/Pina/
+tests/
+README.md
+composer.json
+phpunit.xml

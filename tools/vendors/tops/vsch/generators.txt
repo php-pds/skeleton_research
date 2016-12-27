@@ -1,0 +1,16 @@
+config/
+database/migrations/
+generators.wiki @ 9de5562
+public/
+resources/
+src/
+tests/
+.gitattributes
+.gitignore
+.gitmodules
+.travis.yml
+LICENSE.md
+composer.json
+phpunit.xml
+readme.md
+versioninfo.md

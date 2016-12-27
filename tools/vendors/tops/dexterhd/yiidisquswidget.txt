@@ -1,0 +1,6 @@
+views/
+.gitignore
+LICENSE
+README.md
+YiiDisqusWidget.php
+composer.json

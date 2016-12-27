@@ -1,0 +1,7 @@
+config/
+src/Zf2HelloWorldModule/
+view/zf2-hello-world-module/index/
+LICENSE
+Module.php
+README.md
+composer.json

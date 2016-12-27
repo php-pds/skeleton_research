@@ -1,0 +1,6 @@
+DependencyInjection/
+Resources/
+KinulabSonataGentellelaThemeBundle.php
+LICENSE
+README.md
+composer.json

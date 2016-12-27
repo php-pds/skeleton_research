@@ -1,0 +1,12 @@
+Command/
+Controller/
+DependencyInjection/
+Entity/
+Form/
+Repository/
+Resources/
+Services/
+Tests/Controller/
+.gitignore
+LfarmDevCollabBundle.php
+composer.json

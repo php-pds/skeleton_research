@@ -1,0 +1,5 @@
+app/
+documentation/
+skin/
+composer.json
+modman

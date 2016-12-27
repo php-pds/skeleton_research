@@ -1,0 +1,14 @@
+.settings/
+demo/
+library/ZFBootstrap/View/Helper/Navigation/
+tests/
+vendor/
+.buildpath
+.coveralls.yml
+.gitignore
+.project
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock

@@ -1,0 +1,12 @@
+features/
+issues/
+spec/
+src/
+web/
+.gitignore
+.travis.yml
+LICENSE
+README.markdown
+composer.json
+phpdoctor.ini
+phpspec.yml

@@ -1,0 +1,8 @@
+application/
+docs/html/
+framework/
+public/
+.gitignore
+composer.json
+paths.php
+readme.md

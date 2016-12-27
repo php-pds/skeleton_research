@@ -1,0 +1,11 @@
+bin/
+src/MyProfi/
+tests/
+.gitignore
+.travis.yml
+CONTRIBUTING
+LICENSE
+README.md
+composer.json
+myprofi
+phpunit.xml

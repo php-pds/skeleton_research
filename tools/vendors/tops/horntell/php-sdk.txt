@@ -1,0 +1,7 @@
+lib/guzzle/
+src/Horntell/
+.gitignore
+LICENSE
+README.md
+autoloader.php
+composer.json

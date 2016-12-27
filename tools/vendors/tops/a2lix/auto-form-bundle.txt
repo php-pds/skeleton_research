@@ -1,0 +1,12 @@
+DependencyInjection/
+Form/
+ObjectInfo/
+Resources/config/
+Tests/
+.gitignore
+.php_cs
+.styleci.yml
+.travis.yml
+A2lixAutoFormBundle.php
+README.md
+composer.json

@@ -1,0 +1,4 @@
+LICENSE
+README.md
+SmartTest.php
+composer.json

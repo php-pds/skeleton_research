@@ -1,0 +1,12 @@
+Composer/
+DependencyInjection/
+Resources/
+Test/
+bin/
+spec/Infinity/Bundle/TestBundle/DependencyInjection/
+.gitignore
+.travis.yml
+InfinityTestBundle.php
+README.md
+composer.json
+phpspec.yml

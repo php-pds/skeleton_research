@@ -1,0 +1,17 @@
+.github/
+benchmark/
+bin/
+dev/
+docs/
+src/
+stubs/
+tests/
+.coveralls.yml
+.gitignore
+.gitmodules
+.travis.yml
+CMakeLists.txt
+composer.json
+composer.lock
+phpunit.xml.dist
+readme.md

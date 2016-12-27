@@ -1,0 +1,14 @@
+Angular/
+Bdd/
+Bootstrap/
+Core/
+I18n/www/app/
+Mailer/classes/
+Minifier/
+Skel/
+.travis.yml
+LICENSE
+README.md
+cf.php
+composer.json
+setup.php

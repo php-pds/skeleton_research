@@ -1,0 +1,14 @@
+doc/
+examples/
+smileys/
+src/
+tools/
+CHANGELOG
+LICENSE
+README.md
+composer.json
+nbbc.php
+powered_by_nbbc.png
+powered_by_nbbc_small.png
+readme.html
+test_nbbc.php

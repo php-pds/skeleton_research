@@ -1,0 +1,14 @@
+application/
+console/
+datebase/
+public/
+thinkphp/
+.gitignore
+.travis.yml
+CONTRIBUTING.md
+LICENSE.txt
+README.md
+build.php
+composer.json
+phinx.yml
+think

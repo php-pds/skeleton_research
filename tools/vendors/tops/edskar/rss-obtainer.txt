@@ -1,0 +1,10 @@
+src/RssObtainer/
+test/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+README.md
+autoloader.php
+composer.json
+index.php
+phpunit.xml.dist

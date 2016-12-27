@@ -1,0 +1,8 @@
+scripts/
+.bowerrc
+.gitignore
+README.md
+bower.json
+composer.json
+gulpfile.js
+package.json

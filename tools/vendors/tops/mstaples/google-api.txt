@@ -1,0 +1,12 @@
+.idea/
+examples/
+google-api
+src/
+test/
+.gitattributes
+.gitignore
+LICENSE
+NOTICE
+README
+README.md
+composer.json

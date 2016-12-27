@@ -1,0 +1,9 @@
+calls/
+types/
+.gitattributes
+.gitignore
+Finding.php
+README.md
+Shopping.php
+Trading.php
+composer.json

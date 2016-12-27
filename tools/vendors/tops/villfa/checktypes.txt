@@ -1,0 +1,8 @@
+build/
+checkTypes/
+.gitignore
+.travis.yml
+README.md
+checkTypes.php
+composer.json
+phpunit.xml.dist

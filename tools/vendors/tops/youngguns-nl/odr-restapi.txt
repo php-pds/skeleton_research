@@ -1,0 +1,6 @@
+examples/
+.gitattributes
+.gitignore
+Api.php
+Exception.php
+composer.json

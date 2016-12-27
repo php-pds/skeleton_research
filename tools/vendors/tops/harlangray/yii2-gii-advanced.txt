@@ -1,0 +1,14 @@
+assets/
+components/
+console/
+controllers/
+generators/
+views/
+CHANGELOG.md
+CodeFile.php
+Generator.php
+GiiAsset.php
+Module.php
+README.md
+TypeAheadAsset.php
+composer.json

@@ -1,0 +1,7 @@
+src/Brainfuck/
+tests/Brainfuck/
+.gitignore
+README.md
+composer.json
+example.php
+phpunit.xml.dist

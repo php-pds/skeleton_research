@@ -1,0 +1,10 @@
+Atomica/Bluestone/
+Example/
+.gitignore
+.gitlab-ci.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+phpspec-cov.yml
+phpspec.yml

@@ -1,0 +1,5 @@
+src/Crassaert/AzureSearch/
+test/
+.gitignore
+README.md
+composer.json

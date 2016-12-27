@@ -1,0 +1,8 @@
+src/PropertyAccess/
+tests/
+.gitignore
+composer.json
+composer.lock
+phpunit.xml
+readme.md
+travis.yml

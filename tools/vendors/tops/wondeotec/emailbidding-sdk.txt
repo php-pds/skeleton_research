@@ -1,0 +1,7 @@
+src/EB/SDK/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

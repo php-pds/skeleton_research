@@ -1,0 +1,7 @@
+config/
+migrations/
+src/
+tests/
+.DS_Store
+composer.json
+phpunit.xml

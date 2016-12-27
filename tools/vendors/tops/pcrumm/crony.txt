@@ -1,0 +1,6 @@
+bin/
+src/Crony/
+.gitignore
+README.md
+composer.json
+composer.lock

@@ -1,0 +1,16 @@
+examples/
+include/
+install/
+test/
+tutorials/octave-daemon/
+.gitignore
+AUTHORS.txt
+INSTALL.md
+LICENSE.txt
+README.md
+RELEASE_NOTES.txt
+composer.json
+gendoc.sh
+github.sh
+octave-daemon
+octave-daemon.conf.sample

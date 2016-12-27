@@ -1,0 +1,8 @@
+src/EventCentric/DomainEvents/
+tests/EventCentric/Tests/DomainEvents/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

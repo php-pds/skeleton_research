@@ -1,0 +1,5 @@
+src/Fievel/WebSpider/
+.gitignore
+LICENSE
+README.md
+composer.json

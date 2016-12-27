@@ -1,0 +1,16 @@
+Client/
+Command/
+DataCollector/
+DependencyInjection/
+Profiler/
+Resources/
+Tests/Client/
+.editorconfig
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+LinkValueMobileNotifBundle.php
+README.md
+composer.json
+phpunit.xml.dist

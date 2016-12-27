@@ -1,0 +1,12 @@
+src/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+install_mecab_php-mecab.sh
+limelight_console
+phpunit.xml
+travis-php-mecab.sh

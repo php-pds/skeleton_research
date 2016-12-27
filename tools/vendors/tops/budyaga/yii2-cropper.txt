@@ -1,0 +1,9 @@
+actions/
+assets/
+messages/
+views/
+web/
+CHANGELOG.md
+README.md
+Widget.php
+composer.json

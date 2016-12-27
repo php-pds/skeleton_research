@@ -1,0 +1,6 @@
+CHANGE.md
+LICENSE.md
+README.md
+Switchery.php
+SwitcheryAsset.php
+composer.json

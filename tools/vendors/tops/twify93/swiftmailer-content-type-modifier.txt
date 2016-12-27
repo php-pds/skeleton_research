@@ -1,0 +1,7 @@
+src/TW/Swiftmailer/Plugin/
+tests/src/TW/Swiftmailer/Plugin/
+.gitignore
+LICENSE
+README.md
+composer.json
+phpunit.xml

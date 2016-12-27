@@ -1,0 +1,10 @@
+config/
+data/sql/
+src/DhErrorLogging/
+view/error/
+.gitignore
+LICENSE
+Module.php
+README.md
+autoload_classmap.php
+composer.json

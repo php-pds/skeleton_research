@@ -1,0 +1,13 @@
+Annotation/
+Aspect/
+DependencyInjection/
+Exception/
+Resources/
+Tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+SibSetAopFeatureBundle.php
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,11 @@
+DependencyInjection/
+Exporter/
+Importer/
+Manager/
+Model/
+Resources/
+Tests/
+LICENSE
+PvesselTableConverterBundle.php
+README.md
+composer.json

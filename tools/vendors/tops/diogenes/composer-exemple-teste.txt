@@ -1,0 +1,8 @@
+src/Helper/
+.gitignore
+.htaccess
+.project
+composer.json
+composer.lock
+index.php
+slug_test.php

@@ -1,0 +1,14 @@
+bin/
+hooks/
+rulesets/
+src/
+tests/
+.coveralls.yml
+.gitignore
+.travis.yml
+LICENSE
+README.md
+TODO.md
+composer.json
+php-cqtools
+phpunit.xml

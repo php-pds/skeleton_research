@@ -1,0 +1,7 @@
+src/OpenURL/
+tests/
+.gitattributes
+.gitignore
+codeception.yml
+composer.json
+composer.lock

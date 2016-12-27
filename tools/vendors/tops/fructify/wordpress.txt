@@ -1,0 +1,9 @@
+.bowerrc
+.env.example.php
+.gitignore
+.htaccess
+LICENSE
+README.md
+composer.json
+robo
+wp-config.php

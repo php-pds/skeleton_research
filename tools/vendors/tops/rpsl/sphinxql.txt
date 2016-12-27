@@ -1,0 +1,4 @@
+src/Rpsl/SphinxQL/
+.gitignore
+README.md
+composer.json

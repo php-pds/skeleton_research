@@ -1,0 +1,15 @@
+build/
+features/
+spec/MatchersExtension/
+src/MatchersExtension/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+Vagrantfile
+behat.yml.dist
+composer.json
+phpspec-with-coverage.yml
+phpspec.yml
+stamp.yml
+version.txt

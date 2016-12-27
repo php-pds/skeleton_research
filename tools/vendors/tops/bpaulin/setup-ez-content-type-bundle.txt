@@ -1,0 +1,10 @@
+src/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+build.xml
+composer.json
+composer.lock
+phpmd_rules.xml
+phpunit.xml.dist

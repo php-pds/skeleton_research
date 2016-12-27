@@ -1,0 +1,12 @@
+lib/
+modules/
+patches/
+src/
+tests/
+.travis.yml
+HACK.md
+README.md
+composer.json
+service_container.info
+service_container.install
+service_container.module

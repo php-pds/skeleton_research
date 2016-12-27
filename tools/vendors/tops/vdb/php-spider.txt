@@ -1,0 +1,15 @@
+bin/
+docs/
+example/
+src/VDB/Spider/
+tests/VDB/Spider/Tests/
+.gitignore
+.php_cs
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpmd-tests.xml
+phpmd.xml
+phpunit.xml.dist

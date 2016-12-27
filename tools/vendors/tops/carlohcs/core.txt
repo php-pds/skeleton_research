@@ -1,0 +1,9 @@
+bootstrap/
+config/
+src/Core/
+tests/
+.gitignore
+README.md
+cli-config.php
+composer.json
+config.php

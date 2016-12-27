@@ -1,0 +1,8 @@
+src/DAMA/DoctrineTestBundle/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+makefile

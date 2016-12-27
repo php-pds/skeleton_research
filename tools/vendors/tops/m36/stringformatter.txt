@@ -1,0 +1,11 @@
+src/
+tests/
+.ackrc
+.gitignore
+.php_cs.dist
+.versionner.rc
+LICENSE
+README.md
+VERSION
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,6 @@
+src/Bahuma/XingSDK/
+.gitignore
+LICENCE
+composer.json
+readme.md
+sample.php

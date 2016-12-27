@@ -1,0 +1,7 @@
+docs/
+src/Mailinator/
+.gitignore
+LICENSE.txt
+README.md
+composer.json
+composer.lock

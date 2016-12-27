@@ -1,0 +1,3 @@
+GL/NotificationBundle/
+README.md
+composer.json

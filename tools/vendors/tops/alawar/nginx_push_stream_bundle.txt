@@ -1,0 +1,15 @@
+Controller/
+DependencyInjection/
+Filter/
+Http/
+IdGenerator/
+Resources/
+Tests/
+.coveralls.yml
+.gitignore
+.travis.yml
+Connection.php
+NginxPushStreamBundle.php
+README.md
+composer.json
+phpunit.xml.dist

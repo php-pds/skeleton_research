@@ -1,0 +1,9 @@
+lib/Lame/
+test/Lame/
+.coveralls.yml
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,6 @@
+bin/
+lib/
+LICENSE
+README.md
+composer.json
+stirling

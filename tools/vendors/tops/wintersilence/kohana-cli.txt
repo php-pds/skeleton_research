@@ -1,0 +1,10 @@
+classes/
+config/
+guide/cli/
+i18n/ru/
+views/cli/help/
+.gitignore
+README.md
+cli
+cli_daemon
+composer.json

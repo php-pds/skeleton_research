@@ -1,0 +1,4 @@
+src/Rgsone/Slim/
+LICENSE
+README.md
+composer.json

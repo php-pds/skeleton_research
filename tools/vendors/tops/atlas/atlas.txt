@@ -1,0 +1,15 @@
+images/
+notes/
+src/
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CHANGES.md
+CONTRIBUTING.md
+LICENSE.md
+README.md
+TODO.md
+composer.json
+phpunit.php
+phpunit.xml.dist

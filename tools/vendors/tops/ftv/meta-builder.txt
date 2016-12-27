@@ -1,0 +1,7 @@
+src/Ftv/DataBuilder/
+tests/Ftv/DataBuilder/
+.gitignore
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,6 @@
+config/
+src/
+vendor/
+Readme.md
+composer.json
+composer.lock

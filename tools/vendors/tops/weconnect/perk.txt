@@ -1,0 +1,9 @@
+app/
+core/
+vendor/
+.gitattributes
+.gitignore
+.htaccess
+composer.json
+composer.lock
+index.php

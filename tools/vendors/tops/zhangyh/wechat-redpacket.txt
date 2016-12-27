@@ -1,0 +1,6 @@
+.gitignore
+MpRedPacket.php
+README.md
+RedPacketSDK.php
+ResultEvent.php
+composer.json

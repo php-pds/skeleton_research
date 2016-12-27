@@ -1,0 +1,8 @@
+data/
+system/
+vendor/
+.htaccess
+README.md
+composer.json
+index.php
+settings.php

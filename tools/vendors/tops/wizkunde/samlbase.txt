@@ -1,0 +1,13 @@
+build/
+example/
+src/Wizkunde/SAMLBase/
+tests/Wizkunde/SAMLBase/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+build.xml
+composer.json
+composer.lock
+phpunit.xml.dist

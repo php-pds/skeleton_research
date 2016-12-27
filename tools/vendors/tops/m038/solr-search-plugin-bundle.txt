@@ -1,0 +1,11 @@
+Command/
+Controller/
+DependencyInjection/
+EventListener/
+Resources/
+Search/
+Services/
+LICENSE.txt
+NewscoopSolrSearchPluginBundle.php
+README.md
+composer.json

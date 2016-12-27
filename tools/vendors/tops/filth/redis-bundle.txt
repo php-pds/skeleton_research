@@ -1,0 +1,9 @@
+Annotation/
+DependencyInjection/
+Entity/
+Factory/
+Resources/config/
+Validator/
+FilthRedisBundle.php
+README.md
+composer.json

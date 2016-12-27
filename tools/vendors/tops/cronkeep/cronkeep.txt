@@ -1,0 +1,11 @@
+docs/screenshots/
+provision/
+src/
+tests/
+.gitignore
+INSTALL.md
+LICENSE
+README.md
+Vagrantfile
+composer.json
+composer.lock

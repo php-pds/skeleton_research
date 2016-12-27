@@ -1,0 +1,10 @@
+SwiftMailer/
+Tests/
+.gitignore
+.travis.yml
+CONTRIBUTING.md
+LICENSE
+README.md
+RELEASE_POLICY.md
+composer.json
+phpunit.xml

@@ -1,0 +1,7 @@
+src/PDW/
+vendor/
+.gitignore
+LICENSE
+README.markdown
+composer.json
+preview.png

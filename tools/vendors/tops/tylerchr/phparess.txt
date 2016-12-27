@@ -1,0 +1,10 @@
+Tests/
+.gitignore
+Channel.php
+Feed.php
+Item.php
+README.mkdn
+Tag.php
+Xml.php
+composer.json
+phpunit.xml.dist

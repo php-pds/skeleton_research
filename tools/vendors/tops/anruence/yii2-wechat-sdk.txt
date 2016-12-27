@@ -1,0 +1,3 @@
+README.md
+Wechat.php
+composer.json

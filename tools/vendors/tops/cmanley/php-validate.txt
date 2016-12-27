@@ -1,0 +1,8 @@
+eg/
+src/
+t/
+.cvsignore
+.gitignore
+LICENSE
+README.md
+composer.json

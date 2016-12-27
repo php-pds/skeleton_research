@@ -1,0 +1,9 @@
+lib/Zycon42/Security/
+tests/
+.gitattributes
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

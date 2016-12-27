@@ -1,0 +1,10 @@
+controllers/
+lib/LanguageSwitcher/
+readme/
+static/
+tests/
+texts/
+views/scripts/index/
+README.md
+composer.json
+plugin.xml

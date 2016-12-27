@@ -1,0 +1,8 @@
+.settings/
+data/
+lib/
+.buildpath
+.project
+LICENSE
+README.md
+composer.json

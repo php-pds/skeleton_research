@@ -1,0 +1,4 @@
+vagrant_stuff/
+README.md
+Vagrantfile
+composer.json

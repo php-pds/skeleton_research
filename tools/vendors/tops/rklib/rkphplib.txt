@@ -1,0 +1,11 @@
+bin/
+other/
+src/
+test/
+.gitignore
+LICENSE
+README.md
+build.sh
+composer.json
+info.txt
+run.sh

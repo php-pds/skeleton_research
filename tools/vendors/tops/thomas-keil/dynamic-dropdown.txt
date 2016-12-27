@@ -1,0 +1,12 @@
+controllers/
+docs/
+lib/DynamicDropdown/
+models/Pimcore/Model/Object/ClassDefinition/Data/
+static/
+static6/
+texts/
+CHANGELOG
+LICENSE.md
+README.md
+composer.json
+plugin.xml

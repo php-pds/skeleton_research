@@ -1,0 +1,9 @@
+src/TokenSms/
+test/
+.gitignore
+LICENSE
+README.md
+build.xml
+composer.json
+composer.phar
+token-email-sms-config-example.php

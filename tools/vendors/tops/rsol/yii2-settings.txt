@@ -1,0 +1,13 @@
+actions/
+components/
+controllers/
+data/
+messages/
+migrations/
+models/
+views/default/
+LICENSE.md
+Module.php
+README.md
+SettingsAction.php
+composer.json

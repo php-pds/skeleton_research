@@ -1,0 +1,6 @@
+src/FlashMessages/
+view/flashMessages/
+webroot/
+LICENSE.txt
+README.md
+composer.json

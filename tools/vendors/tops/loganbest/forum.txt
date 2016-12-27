@@ -1,0 +1,11 @@
+Config/
+Console/Command/
+Controller/
+Locale/
+Model/
+View/
+webroot/
+composer.json
+license.md
+readme.md
+version.md

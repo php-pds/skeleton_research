@@ -1,0 +1,4 @@
+ClipClop.php
+ClipClopTest.php
+README.md
+composer.json

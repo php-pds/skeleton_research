@@ -1,0 +1,8 @@
+Tests/
+.gitignore
+LICENSE
+README.md
+TextGenerator.php
+TextGeneratorInterface.php
+composer.json
+phpunit.xml.dist

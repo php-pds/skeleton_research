@@ -1,0 +1,4 @@
+src/Mint/
+LICENSE
+README.md
+composer.json

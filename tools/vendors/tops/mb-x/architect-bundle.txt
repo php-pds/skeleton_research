@@ -1,0 +1,13 @@
+Abstracts/
+Command/
+DependencyInjection/
+Exception/
+Generator/
+Interfaces/
+Resources/
+Tests/Controller/
+Twig/
+.gitignore
+MbxArchitectBundle.php
+README.md
+composer.json

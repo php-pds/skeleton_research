@@ -1,0 +1,9 @@
+api/Aivo/Highchart/
+src/Aivo/Highchart/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml

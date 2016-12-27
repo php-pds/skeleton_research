@@ -1,0 +1,8 @@
+config/
+lib/RapidRest/
+public/
+.gitignore
+README.md
+composer.json
+composer.lock
+license.txt

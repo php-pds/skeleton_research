@@ -1,0 +1,9 @@
+bin/
+spec/ArchFizz/PhpAirPlay/
+src/ArchFizz/PhpAirPlay/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock

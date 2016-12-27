@@ -1,0 +1,13 @@
+Annotation/
+DependencyInjection/
+Resources/config/
+Tests/
+.gitignore
+.travis.yml
+DependencyRegistry.php
+Exception.php
+HCOAutoWiringBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

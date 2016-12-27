@@ -1,0 +1,8 @@
+Core/
+EAV/
+Publishing/
+URL/
+.gitignore
+LICENSE
+README.md
+composer.json

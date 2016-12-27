@@ -1,0 +1,12 @@
+DependencyInjection/
+Exception/
+Http/
+Object/
+Resources/
+Tests/
+.gitignore
+.travis.yml
+DevtrwParseBundle.php
+README.md
+composer.json
+phpunit.xml.dist

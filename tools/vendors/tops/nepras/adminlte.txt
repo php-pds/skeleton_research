@@ -1,0 +1,7 @@
+config/
+public/vendor/
+resources/views/
+src/
+.gitignore
+README.md
+composer.json

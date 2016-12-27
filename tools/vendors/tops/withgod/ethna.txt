@@ -1,0 +1,16 @@
+class/
+misc/
+skel/locale/
+tests/
+.ethna
+.gitattributes
+.gitignore
+.travis.yml
+AUTHORS
+CHANGES.md
+Ethna.php
+LICENSE
+README.md
+composer.json
+phpdoc.dist.xml
+phpunit.xml.dist

@@ -1,0 +1,6 @@
+Iterator.php
+LICENSE
+README.md
+Set.php
+composer.json
+example.php

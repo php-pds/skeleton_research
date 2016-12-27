@@ -1,0 +1,5 @@
+src/Shopline/Bundle/PDFDesignerBundle/
+.scrutinizer.yml
+LICENSE
+README.md
+composer.json

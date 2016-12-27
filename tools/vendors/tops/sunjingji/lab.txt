@@ -1,0 +1,3 @@
+blog/
+README.md
+composer.json

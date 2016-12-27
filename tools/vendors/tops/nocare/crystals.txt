@@ -1,0 +1,6 @@
+Data/
+Models/PlaceableObjects/
+Scripts/
+.gitignore
+composer.json
+manifest.txt

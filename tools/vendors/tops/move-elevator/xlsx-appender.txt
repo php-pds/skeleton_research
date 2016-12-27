@@ -1,0 +1,11 @@
+benchmarks/Templates/
+example/
+src/XlsxAppender/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpbench.json
+phpunit.xml

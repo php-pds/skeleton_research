@@ -1,0 +1,13 @@
+examples/
+features/
+src/Bundle/
+tests/
+.gitattributes
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+behat.yml
+composer.json
+phpunit.xml.dist

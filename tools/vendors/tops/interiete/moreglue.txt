@@ -1,0 +1,4 @@
+bin/
+lib/MoreGlue/
+README.md
+composer.json

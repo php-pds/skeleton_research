@@ -1,0 +1,6 @@
+public/
+vendor/phppe/
+LICENSE
+README.md
+composer.json
+phpunit.xml

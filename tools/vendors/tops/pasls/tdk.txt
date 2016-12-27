@@ -1,0 +1,10 @@
+docs/
+lib/Pasls/TDK/
+theme/
+.gitignore
+.htaccess
+README.md
+composer.json
+composer.lock
+index.php
+mkdocs.yml

@@ -1,0 +1,7 @@
+DependencyInjection/
+Form/Type/
+ReCaptcha/
+Resources/
+Validator/Constraints/
+FrancisReCaptchaBundle.php
+composer.json

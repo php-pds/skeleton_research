@@ -1,0 +1,7 @@
+src/ASOJon/Database/
+.gitignore
+Example.php
+LICENSE
+README.md
+composer.json
+composer.phar

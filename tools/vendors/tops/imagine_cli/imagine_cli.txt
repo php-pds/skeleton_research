@@ -1,0 +1,5 @@
+bin/
+lib/ImagineCli/Command/
+.gitignore
+README.md
+composer.json

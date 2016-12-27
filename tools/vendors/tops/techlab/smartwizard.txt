@@ -1,0 +1,8 @@
+css/
+examples/
+js/
+LICENSE
+README.md
+bower.json
+composer.json
+package.json

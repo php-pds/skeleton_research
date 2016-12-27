@@ -1,0 +1,8 @@
+src/SymVirIns/
+.gitignore
+LICENSE
+box.json
+composer.json
+readme.md
+symvirins
+symvirins.phar

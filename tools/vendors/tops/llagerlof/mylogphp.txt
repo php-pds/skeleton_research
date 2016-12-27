@@ -1,0 +1,5 @@
+.gitattributes
+.gitignore
+MyLogPHP.class.php
+README.md
+composer.json

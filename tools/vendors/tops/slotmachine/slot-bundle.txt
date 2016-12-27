@@ -1,0 +1,12 @@
+Controller/
+DependencyInjection/
+Entity/
+Form/
+Resources/
+Tests/
+.gitignore
+.travis.yml
+README.md
+SlotMachineSlotBundle.php
+composer.json
+phpunit.xml.dist

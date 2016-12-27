@@ -1,0 +1,11 @@
+build/
+src/precore/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+build.xml
+composer.json
+phpdox.xml.dist
+phpunit.xml.dist

@@ -1,0 +1,9 @@
+Command/
+DependencyInjection/
+Generator/
+Resources/
+.gitignore
+EpamCiBundle.php
+LICENSE
+README.md
+composer.json

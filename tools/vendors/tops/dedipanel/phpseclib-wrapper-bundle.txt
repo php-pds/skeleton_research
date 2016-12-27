@@ -1,0 +1,17 @@
+Connection/
+Crontab/
+DependencyInjection/
+EventListener/
+Extension/
+Helper/
+KeyStore/
+Resources/config/
+SFTP/
+Server/
+Tests/
+.gitignore
+.travis.yml
+DedipanelPHPSeclibWrapperBundle.php
+README.md
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,14 @@
+.vscode/
+docs/
+src/danog/MadelineProto/
+.gitignore
+.travis.yml
+CONTRIBUTING.md
+Caddyfile
+LICENSE
+README.md
+build_docs.php
+composer.json
+composer.lock
+enc.tar.xz.enc
+testing.php

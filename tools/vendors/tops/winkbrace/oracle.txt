@@ -1,0 +1,15 @@
+Oracle/
+tests/
+.gitattributes
+.gitignore
+QueryAdapter.php
+README.MD
+bootstrap.php
+codeception.yml
+composer.json
+composer.lock
+config.php
+functions.php
+phpunit.xml
+t.bat
+unit.bat

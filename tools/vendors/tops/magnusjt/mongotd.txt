@@ -1,0 +1,11 @@
+src/
+test/
+.gitignore
+LICENSE
+README.md
+Vagrantfile
+composer.json
+composer.lock
+mongod.conf
+phpunit.xml.dist
+vagrant_bootstrap.sh

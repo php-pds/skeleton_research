@@ -1,0 +1,4 @@
+src/Vercache/
+LICENSE
+README.md
+composer.json

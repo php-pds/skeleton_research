@@ -1,0 +1,7 @@
+bin/
+src/RuSPanzer/Backuper/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock

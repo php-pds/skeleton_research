@@ -1,0 +1,9 @@
+src/Flexihash/
+tests/
+.gitignore
+.gitmodules
+.travis.yml
+LICENCE
+README.md
+composer.json
+phpunit.xml

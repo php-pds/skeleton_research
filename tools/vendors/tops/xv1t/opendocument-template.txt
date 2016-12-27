@@ -1,0 +1,6 @@
+docs/img/
+examples/
+.gitignore
+OpenDocumentTemplate.php
+README.md
+composer.json

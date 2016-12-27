@@ -1,0 +1,8 @@
+example/
+lib/
+tests/
+.gitignore
+.travis.yml
+README.md
+Rakefile
+composer.json

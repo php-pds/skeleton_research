@@ -1,0 +1,10 @@
+.github/
+src/
+.gitattributes
+.gitignore
+.travis.yml
+CONDUCT.md
+LICENSE.md
+README.md
+composer.json
+phpunit.xml

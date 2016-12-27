@@ -1,0 +1,8 @@
+raven/
+README.md
+class.wp-raven-client.php
+composer.json
+make_release.sh
+optionspage.html.php
+readme.txt
+wordpress-sentry.php

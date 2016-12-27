@@ -1,0 +1,8 @@
+assets/
+bower_components/dropzone/
+.bowerrc
+.gitignore
+DropZone.php
+README.md
+bower.json
+composer.json

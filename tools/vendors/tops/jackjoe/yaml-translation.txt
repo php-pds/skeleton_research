@@ -1,0 +1,4 @@
+src/JackJoe/Core/Translation/
+LICENSE
+README.md
+composer.json

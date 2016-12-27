@@ -1,0 +1,3 @@
+src/Shoplo/
+composer.json
+example.php

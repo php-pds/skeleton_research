@@ -1,0 +1,5 @@
+src/SitemapGenerator/
+tests/
+composer.json
+license.md
+readme.md

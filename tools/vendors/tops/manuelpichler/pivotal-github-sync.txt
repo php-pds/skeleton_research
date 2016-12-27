@@ -1,0 +1,6 @@
+src/
+.gitignore
+README.rst
+composer.json
+composer.lock
+sync.ini.example

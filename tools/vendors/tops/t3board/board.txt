@@ -1,0 +1,6 @@
+Classes/T3Board/Board/Controller/
+Resources/Private/
+Tests/
+.travis.yml
+composer.json
+composer.json.dist

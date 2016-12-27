@@ -1,0 +1,7 @@
+example/config/
+src/
+tests/Lib/
+.gitignore
+README.md
+composer.json
+phpunit.xml

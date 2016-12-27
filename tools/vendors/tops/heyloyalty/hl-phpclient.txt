@@ -1,0 +1,9 @@
+.idea/
+src/
+tests/HL-phpclient/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml

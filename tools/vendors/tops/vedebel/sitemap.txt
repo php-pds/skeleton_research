@@ -1,0 +1,11 @@
+crawlers/
+storages/
+.gitignore
+Config.php
+LICENSE.md
+README.md
+Sitemap.php
+Url.php
+background.php
+composer.json
+composer.lock

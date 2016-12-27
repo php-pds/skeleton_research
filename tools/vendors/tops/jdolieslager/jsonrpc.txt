@@ -1,0 +1,9 @@
+src/Jdolieslager/JsonRpc/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+codeCoverage.php
+composer.json
+phpunit.xml

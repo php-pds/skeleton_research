@@ -1,0 +1,8 @@
+Module/
+bin/
+misc/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock

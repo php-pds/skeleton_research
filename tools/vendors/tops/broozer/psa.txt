@@ -1,0 +1,17 @@
+action/
+classes/
+css/
+forms/
+inc/
+js/
+module/
+.gitignore
+README.md
+autoload.php
+autologin.php
+changelog.php
+composer.json
+controller.php
+index.php
+login.php
+setup.php

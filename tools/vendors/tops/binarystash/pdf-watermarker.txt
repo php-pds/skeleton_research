@@ -1,0 +1,11 @@
+assets/
+pdfwatermarker/
+tests/
+.gitignore
+.travis.yml
+README.md
+build.sh
+composer.json
+createphpdocs.bat
+createphpdocsmarkdown.bat
+phpunit.xml

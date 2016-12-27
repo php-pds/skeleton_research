@@ -1,0 +1,15 @@
+Command/
+DependencyInjection/
+Log/
+Resources/config/
+WebSocket/
+tests/units/
+.atoum.php
+.bootstrap.atoum.php
+.coke
+.gitignore
+.travis.yml
+AtipikHoaWebSocketBundle.php
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,10 @@
+admin/
+includes/
+languages/
+public/
+README.md
+alfrescodocument.php
+composer.json
+index.php
+sftp-config.json
+uninstall.php

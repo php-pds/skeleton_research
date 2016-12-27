@@ -1,0 +1,5 @@
+src/Bananatag/
+.gitignore
+LICENSE
+README.md
+composer.json

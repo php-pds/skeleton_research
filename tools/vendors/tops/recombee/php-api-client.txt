@@ -1,0 +1,6 @@
+src/RecommApi/
+tests/
+LICENSE.txt
+README.md
+composer.json
+phpdoc.dist.xml

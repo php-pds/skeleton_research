@@ -1,0 +1,8 @@
+docs/
+examples/
+src/Api/
+tests/
+.gitignore
+README.md
+composer.json
+composer.lock

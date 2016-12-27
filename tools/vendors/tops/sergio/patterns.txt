@@ -1,0 +1,6 @@
+Behavioral/
+Creational/
+Sructural/
+.gitignore
+README.md
+composer.json

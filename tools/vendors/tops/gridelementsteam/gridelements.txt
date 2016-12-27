@@ -1,0 +1,16 @@
+Classes/
+Configuration/
+Documentation/
+Resources/
+Tests/
+.gitignore
+ChangeLog
+README.md
+README.txt
+composer.json
+ext_conf_template.txt
+ext_emconf.php
+ext_icon.svg
+ext_localconf.php
+ext_tables.php
+ext_tables.sql

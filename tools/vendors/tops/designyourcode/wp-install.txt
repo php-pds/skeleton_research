@@ -1,0 +1,15 @@
+app/config/
+bin/
+wp-content/themes/
+.editorconfig
+.gitignore
+.htaccess
+.user.ini
+LICENSE
+Procfile
+README.md
+app.json
+composer.json
+composer.lock
+index.php
+wp-config.php

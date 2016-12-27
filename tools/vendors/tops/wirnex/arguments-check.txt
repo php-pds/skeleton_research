@@ -1,0 +1,5 @@
+.gitignore
+ArgumentsCheck.php
+README.md
+composer.json
+test.php

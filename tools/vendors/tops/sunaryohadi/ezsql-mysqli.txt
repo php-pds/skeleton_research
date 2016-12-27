@@ -1,0 +1,4 @@
+mysqli/
+shared/
+README.md
+composer.json

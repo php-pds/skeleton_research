@@ -1,0 +1,6 @@
+spec/MobileCashout/TrustedProxies/
+src/MobileCashout/TrustedProxies/
+.gitignore
+README.md
+composer.json
+phpspec.yml

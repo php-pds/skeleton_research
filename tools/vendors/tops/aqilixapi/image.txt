@@ -1,0 +1,10 @@
+build/bin/
+config/
+media/
+src/AqilixAPI/Image/
+.gitignore
+Module.php
+README.md
+composer.json
+composer.lock
+ruleset.xml

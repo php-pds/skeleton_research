@@ -1,0 +1,17 @@
+checkstyle_result/
+config/
+html/
+src/PHPCheckstyle/
+test/
+.anorak.yml
+.gitignore
+LICENSE.txt
+README.md
+RELEASE_NOTES.txt
+build.xml
+composer.json
+index.php
+phpcheckstyle.cmd
+phpcheckstyle.sh
+run.php
+runFromWeb.php

@@ -1,0 +1,13 @@
+.gitattributes
+.gitignore
+LICENSE
+README.md
+basicerrorhandling.php
+composer.json
+coreapp.php
+coreapperror.php
+eventsystem.php
+pagesystem.php
+plugin.php
+pluginsystem.php
+request.php

@@ -1,0 +1,6 @@
+src/Lotaris/RoxClientPHPUnit/
+.gitignore
+CHANGELOG.md
+LICENSE.txt
+README.md
+composer.json

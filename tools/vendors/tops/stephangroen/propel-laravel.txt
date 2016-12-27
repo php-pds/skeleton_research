@@ -1,0 +1,4 @@
+LICENSE
+LaravelModelBehavior.php
+README.md
+composer.json

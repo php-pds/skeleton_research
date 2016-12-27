@@ -1,0 +1,9 @@
+config/
+data/
+public/
+src/CanariumCore/
+view/
+LICENSE
+Module.php
+README.md
+composer.json

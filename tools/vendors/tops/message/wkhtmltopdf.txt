@@ -1,0 +1,4 @@
+bin/
+LICENSE
+composer.json
+readme.md

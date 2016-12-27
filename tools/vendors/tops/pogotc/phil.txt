@@ -1,0 +1,11 @@
+bin/
+spec/Pogotc/Phil/
+src/Pogotc/Phil/
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+README.md
+composer.json
+composer.lock
+phpunit.xml

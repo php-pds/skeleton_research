@@ -1,0 +1,7 @@
+assets/
+examples/
+src/
+.gitignore
+Readme.md
+composer.json
+screenshot.png

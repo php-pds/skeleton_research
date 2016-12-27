@@ -1,0 +1,5 @@
+Entity/
+Validator/Constraints/
+Brainx2FileFileEntityBundle.php
+README.md
+composer.json

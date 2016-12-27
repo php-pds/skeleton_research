@@ -1,0 +1,10 @@
+cms/
+updates/
+web/
+.gitignore
+.htaccess
+LICENSE
+README.md
+composer.json
+install.php
+run.php

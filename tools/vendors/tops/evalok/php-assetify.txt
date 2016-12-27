@@ -1,0 +1,10 @@
+demo/
+spec/Assetify/v1/
+src/v1/
+vendor/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock

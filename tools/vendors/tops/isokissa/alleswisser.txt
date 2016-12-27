@@ -1,0 +1,9 @@
+src/alleswisser/
+test/alleswisser/
+.gitignore
+LICENSE
+README.md
+composer.json
+index.php
+runtest.sh
+setup.sh

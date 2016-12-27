@@ -1,0 +1,7 @@
+src/marcushat/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock

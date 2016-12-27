@@ -1,0 +1,10 @@
+domains/
+tests/
+.gitignore
+.travis.yml
+CONTRIBUTING.md
+LICENSE
+README.md
+STRUCTURE.md
+USAGE.md
+composer.json

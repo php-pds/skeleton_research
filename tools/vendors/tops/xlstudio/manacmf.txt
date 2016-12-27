@@ -1,0 +1,12 @@
+Application/
+public/
+.gitignore
+.htaccess
+LICENSE
+README.md
+composer.json
+helpers.php
+mana.bat
+mana.php
+nginx.sample
+server.php

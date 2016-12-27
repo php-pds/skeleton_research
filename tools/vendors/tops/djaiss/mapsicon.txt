@@ -1,0 +1,12 @@
+_assets/
+africa/
+all/
+asia/
+europe/
+namerica/
+oceania/
+samerica/
+us/
+README.md
+composer.json
+png2svg.py

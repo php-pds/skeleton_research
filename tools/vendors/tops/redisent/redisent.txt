@@ -1,0 +1,8 @@
+src/redisent/
+tests/
+.travis.yml
+LICENSE
+README.markdown
+composer.json
+documentup.json
+setup.sh

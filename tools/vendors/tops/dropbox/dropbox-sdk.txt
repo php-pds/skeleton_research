@@ -1,0 +1,11 @@
+examples/
+lib/Dropbox/
+support/
+test/
+.gitattributes
+.gitignore
+ChangeLog.txt
+License.txt
+ReadMe.md
+composer.json
+composer.lock

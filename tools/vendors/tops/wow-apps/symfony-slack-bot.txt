@@ -1,0 +1,12 @@
+Command/
+Controller/
+DTO/
+DependencyInjection/
+Resources/
+Service/
+Tests/Controller/
+Traits/
+LICENSE
+README.md
+WowAppsSlackBotBundle.php
+composer.json

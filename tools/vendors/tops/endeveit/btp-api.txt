@@ -1,0 +1,4 @@
+src/Btp/Api/
+LICENSE
+README.md
+composer.json

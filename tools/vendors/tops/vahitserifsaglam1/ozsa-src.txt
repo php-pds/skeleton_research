@@ -1,0 +1,17 @@
+Benchmark/
+Cache/
+Cookie/
+Curl/
+File/
+Html/
+Lib/
+Mailer/
+Multidb/
+Plugins/Hook/
+Session/
+.gitattributes
+.gitignore
+.scrutinizer.yml
+README.md
+changelog.md
+composer.json

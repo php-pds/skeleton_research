@@ -1,0 +1,11 @@
+build/logs/
+src/
+tests/
+vendor/
+.gitignore
+.gitmodules
+API.md
+README.markdown
+build.xml
+composer.json
+phpunit.xml.dist

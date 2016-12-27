@@ -1,0 +1,10 @@
+src/JiraApi/
+tests/
+.gitignore
+.sensiolabs.yml
+.travis.yml
+LICENSE
+README.md
+behat.yml.dist
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,10 @@
+assets/
+classes/
+config/
+dca/
+languages/de/
+models/
+templates/
+widget/
+.gitignore
+composer.json

@@ -1,0 +1,14 @@
+examples/
+src/Asana/
+templates/
+tests/
+.gitignore
+.travis.yml
+CODE_OF_CONDUCT.md
+LICENSE
+Makefile
+README.md
+VERSION
+composer.json
+composer.lock
+deploy

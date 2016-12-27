@@ -1,0 +1,12 @@
+QuickPay/
+Tests/api/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CHANGELOG.md
+LICENSE.txt
+README.md
+composer.json
+composer.lock
+phpcs.xml
+phpunit.xml

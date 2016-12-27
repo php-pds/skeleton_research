@@ -1,0 +1,7 @@
+Bundler/
+Controller/
+Kernel/
+Router/
+.gitignore
+Id4vCoreBundle.php
+composer.json

@@ -1,0 +1,11 @@
+app/
+bootstrap/
+config/
+public/
+resources/
+storage/setting/
+.gitignore
+LICENSE
+README.md
+composer.json
+wudimei_mvc.sql

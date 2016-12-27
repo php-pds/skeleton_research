@@ -1,0 +1,16 @@
+demo/
+src/
+tests/
+.editorconfig
+.gitattributes
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CONDUCT.md
+CONTRIBUTING.md
+LICENSE
+composer.json
+gulpfile.js
+package.json
+phpunit.xml.dist
+readme.md

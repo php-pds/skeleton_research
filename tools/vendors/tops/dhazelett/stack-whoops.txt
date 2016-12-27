@@ -1,0 +1,6 @@
+src/Saphire/Middleware/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock

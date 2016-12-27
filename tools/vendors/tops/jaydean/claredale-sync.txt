@@ -1,0 +1,6 @@
+examples/
+src/Jaydean/Claredale/Sync/
+.gitignore
+LICENCE
+README.md
+composer.json

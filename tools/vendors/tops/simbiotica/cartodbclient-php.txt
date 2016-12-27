@@ -1,0 +1,7 @@
+lib/Simbiotica/CartoDBClient/
+tests/
+.gitignore
+README.md
+UPGRADE.md
+composer.json
+phpunit.xml.dist

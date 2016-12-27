@@ -1,0 +1,7 @@
+libraries/swearjar/
+tests/
+.gitignore
+.travis.yml
+README.mdown
+composer.json
+phpunit.xml.dist

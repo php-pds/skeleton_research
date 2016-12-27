@@ -1,0 +1,7 @@
+docs/
+src/FireTracker/
+.gitignore
+LICENSE
+apigen.yaml
+composer.json
+composer.lock

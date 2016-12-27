@@ -1,0 +1,8 @@
+src/Majid/Shamsi/
+tests/
+.gitignore
+.travis.yml
+LICENSE.md
+README.md
+composer.json
+phpunit.xml

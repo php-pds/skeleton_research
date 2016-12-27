@@ -1,0 +1,3 @@
+src/PHPCrawler/
+README.md
+composer.json

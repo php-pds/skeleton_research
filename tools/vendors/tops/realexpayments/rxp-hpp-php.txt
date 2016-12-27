@@ -1,0 +1,7 @@
+src/main/php/com-realexpayments-hpp-sdk/
+test/main/
+.gitignore
+LICENSE.txt
+README.md
+composer.json
+config.xml

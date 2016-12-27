@@ -1,0 +1,15 @@
+assets/
+js/
+.gitignore
+API.php
+Admin.php
+Email.php
+Events.php
+JS.php
+README.md
+Webhook.php
+composer.json
+composer.lock
+deploy.sh
+index.php
+readme.txt

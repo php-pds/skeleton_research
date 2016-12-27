@@ -1,0 +1,12 @@
+docs @ 294c329
+examples/
+src/Finite/
+tests/
+.gitignore
+.gitmodules
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

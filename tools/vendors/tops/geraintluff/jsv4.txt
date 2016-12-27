@@ -1,0 +1,9 @@
+src/Jsv4/
+tests/
+.gitignore
+LICENSE-MIT.txt
+LICENSE.txt
+README.md
+composer.json
+test-utils.php
+test.php

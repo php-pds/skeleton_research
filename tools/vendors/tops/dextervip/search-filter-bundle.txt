@@ -1,0 +1,3 @@
+CitraxSearchFilterBundle.php
+Filter.php
+composer.json

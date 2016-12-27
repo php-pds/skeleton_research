@@ -1,0 +1,10 @@
+Admin/
+Controller/Api/
+DataFixtures/ORM/
+DependencyInjection/
+Resources/config/
+Tests/Controller/
+.gitignore
+README.md
+ZenSideCoreBundle.php
+composer.json

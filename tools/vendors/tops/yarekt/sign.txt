@@ -1,0 +1,5 @@
+src/Sign/
+tests/Sign/
+.gitignore
+README.md
+composer.json

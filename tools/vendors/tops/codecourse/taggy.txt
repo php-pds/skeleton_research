@@ -1,0 +1,8 @@
+migrations/
+src/
+tests/
+.editorconfig
+.gitignore
+composer.json
+composer.lock
+phpunit.xml

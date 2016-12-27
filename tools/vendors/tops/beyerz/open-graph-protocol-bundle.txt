@@ -1,0 +1,13 @@
+Controller/
+DependencyInjection/
+Libraries/
+Resources/
+Tests/
+Twig/Extensions/
+.gitignore
+.travis.yml
+LICENSE
+OpenGraphProtocolBundle.php
+README.md
+composer.json
+phpunit.xml.dist

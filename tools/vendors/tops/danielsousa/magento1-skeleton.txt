@@ -1,0 +1,7 @@
+dev/storage/etc/
+puppet/
+.gitignore
+README.md
+Vagrantfile
+composer.json
+reset-symlinks.sh

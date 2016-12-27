@@ -1,0 +1,16 @@
+app/
+bootstrap/
+config/
+core/
+css/
+images/
+js/
+resources/
+.env.example
+.gitignore
+.htaccess
+LICENSE
+README.md
+composer.json
+composer.lock
+index.php

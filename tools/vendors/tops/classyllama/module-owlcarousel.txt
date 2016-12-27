@@ -1,0 +1,7 @@
+etc/
+view/frontend/
+.gitignore
+LICENSE.txt
+README.md
+composer.json
+registration.php

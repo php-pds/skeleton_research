@@ -1,0 +1,9 @@
+bin/
+examples/
+src/
+.gitignore
+LICENCE
+README.md
+RoboFile.php
+apigen.neon
+composer.json

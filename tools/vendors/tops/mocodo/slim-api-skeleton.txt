@@ -1,0 +1,13 @@
+app/
+cache/
+logs/
+tests/
+web/
+.editorconfig
+.gitattributes
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml

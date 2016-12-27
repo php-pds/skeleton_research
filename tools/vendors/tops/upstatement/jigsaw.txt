@@ -1,0 +1,6 @@
+README.md
+composer.json
+jigsaw-bootstrap.php
+jigsaw-permalinks.php
+jigsaw.php
+readme.txt

@@ -1,0 +1,3 @@
+src/Core/
+composer.json
+readme.md

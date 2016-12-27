@@ -1,0 +1,10 @@
+docs/
+example/
+src/Fucoso/ORM/
+tests/
+.gitattributes
+.gitignore
+README.md
+TODO.md
+apigen.neon
+composer.json

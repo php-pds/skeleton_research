@@ -1,0 +1,3 @@
+src/PaulGoodfield/BaseRepoInterface/Contracts/
+README.md
+composer.json

@@ -1,0 +1,4 @@
+Scribe/
+.gitignore
+README.md
+composer.json

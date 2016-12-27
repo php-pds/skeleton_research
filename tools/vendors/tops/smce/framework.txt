@@ -1,0 +1,7 @@
+build/
+smceframework/
+test/
+.travis.yml
+LICENSE
+README.md
+composer.json

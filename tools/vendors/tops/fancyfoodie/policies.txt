@@ -1,0 +1,7 @@
+.gitignore
+.travis.yml
+README.md
+composer.json
+composer.lock
+privacy-policy.md
+terms-of-service.md

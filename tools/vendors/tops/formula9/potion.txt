@@ -1,0 +1,7 @@
+src/Pimple/
+.gitignore
+CHANGELOG
+LICENSE
+PIMPLE.rst
+README.md
+composer.json

@@ -1,0 +1,7 @@
+src/dam1r89/ProtoGenerator/
+tests/
+.gitignore
+.travis.yml
+composer.json
+phpunit.xml
+readme.md

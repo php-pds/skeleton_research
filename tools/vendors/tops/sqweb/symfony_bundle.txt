@@ -1,0 +1,11 @@
+DependencyInjection/
+Resources/
+SQweb/
+Tests/Controller/
+.gitignore
+.travis.yml
+CHANGELOG.md
+README.md
+SQwebSQwebBundle.php
+composer.json
+composer.lock

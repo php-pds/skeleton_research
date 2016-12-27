@@ -1,0 +1,8 @@
+Controller/
+DependencyInjection/
+Resources/
+Service/
+LICENSE.md
+README.md
+RoheaOpenXIntegrationBundle.php
+composer.json

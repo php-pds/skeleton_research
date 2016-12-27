@@ -1,0 +1,13 @@
+config/
+data/
+module/EgcTweet/
+public/
+vendor/
+.gitignore
+.gitmodules
+LICENSE
+README.md
+composer.json
+composer.lock
+composer.phar
+init_autoloader.php

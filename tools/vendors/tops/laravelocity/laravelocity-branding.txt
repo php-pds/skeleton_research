@@ -1,0 +1,7 @@
+Random Assets/
+.gitignore
+_colors.scss
+composer.json
+laravelocity_branding.psd
+logo.psd
+logo_white_bg.png

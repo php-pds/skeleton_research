@@ -1,0 +1,9 @@
+example/
+src/
+.gitignore
+CAMBIAMENTILOG.md
+CHANGELOG.md
+LICENSE
+README.md
+autoload_prs4.php
+composer.json

@@ -1,0 +1,13 @@
+api/
+i18n/
+sql/
+tests/phpunit/
+.gitignore
+IDProvider.functions.php
+IDProvider.hooks.php
+IDProvider.i18n.magic.php
+IDProvider.php
+LICENSE
+README.md
+composer.json
+extension.json

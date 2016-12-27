@@ -1,0 +1,15 @@
+demo/
+dist/
+src/
+.editorconfig
+.gitignore
+.jshintrc
+.travis.yml
+CONTRIBUTING.md
+Gruntfile.js
+LICENSE.md
+README.md
+bootstrap-duallistbox.jquery.json
+bower.json
+composer.json
+package.json

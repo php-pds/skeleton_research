@@ -1,0 +1,8 @@
+config/
+data/
+src/ZfDeals/
+tests/
+view/
+Module.php
+README.md
+composer.json

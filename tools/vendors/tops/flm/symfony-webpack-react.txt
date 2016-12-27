@@ -1,0 +1,16 @@
+app/
+bin/
+src/
+var/
+web/
+.bootstraprc
+.eslintignore
+.eslintrc
+.gitignore
+.npmrc
+README.md
+composer.json
+package.json
+server.js
+webpack-prod.config.js
+webpack.config.js

@@ -1,0 +1,9 @@
+Common/
+lang/zh-CN/
+test/
+Document.md
+LICENSE
+README.md
+Validator.php
+composer.json
+config.php

@@ -1,0 +1,11 @@
+Controller/
+DependencyInjection/
+Extensions/Twig/
+Manager/
+Resources/
+Tests/Controller/
+.gitignore
+DualHandDumperBundle.php
+README.md
+composer.json
+composer.lock

@@ -1,0 +1,12 @@
+src/DependencyInjection/
+src_oxid/core/
+tests/src/unit/DependencyInjection/
+.gitattributes
+.gitignore
+.scrutinizer.yml
+.travis.yml
+AsSymfonyDiExtends.php
+README.md
+composer.json
+metadata.php
+phpunit.xml.dist

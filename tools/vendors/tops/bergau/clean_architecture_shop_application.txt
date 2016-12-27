@@ -1,0 +1,10 @@
+src/
+tests/
+translations/
+.coveralls.yml
+.gitignore
+.scrutinizer.yml
+.travis.yml
+README.md
+composer.json
+composer.lock

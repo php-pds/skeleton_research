@@ -1,0 +1,13 @@
+app/
+sql-table/
+src/
+test/
+webroot/
+.scrutinizer.yml
+.travis.yml
+README.md
+README.txt
+autoload.php
+autoloader.php
+composer.json
+composer.lock

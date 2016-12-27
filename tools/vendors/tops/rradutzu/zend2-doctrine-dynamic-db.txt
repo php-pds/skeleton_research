@@ -1,0 +1,6 @@
+config/
+src/DoctrineDynamicDb/
+.gitignore
+LICENSE
+README.md
+composer.json

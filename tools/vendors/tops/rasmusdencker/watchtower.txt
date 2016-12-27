@@ -1,0 +1,8 @@
+config/
+database/migrations/
+spec/
+src/
+tests/factories/
+.gitignore
+composer.json
+phpspec.yml

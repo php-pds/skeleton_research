@@ -1,0 +1,8 @@
+database/
+src/
+themes/
+.gitignore
+LICENSE.txt
+README.md
+composer.json
+extension.php

@@ -1,0 +1,13 @@
+Command/
+Configuration/
+Controller/
+DataCollector/
+DependencyInjection/
+Exporter/
+Resources/
+Webservices/
+Changelog.md
+EsWebservicesBundle.php
+README.md
+Todo.md
+composer.json

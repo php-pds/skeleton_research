@@ -1,0 +1,6 @@
+classes/
+config/
+guide/minion-migrations/
+tests/
+views/minion/task/migrations/
+composer.json

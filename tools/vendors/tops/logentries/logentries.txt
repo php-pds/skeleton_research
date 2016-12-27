@@ -1,0 +1,8 @@
+unit_tests/
+.gitignore
+.travis.yml
+LeLogger.php
+README.md
+composer.json
+logentries.php
+phpunit.xml

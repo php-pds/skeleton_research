@@ -1,0 +1,17 @@
+doc/
+features/
+spec/
+src/
+.gitattributes
+.gitignore
+.travis.yml
+CHANGELOG.md
+CONTRIBUTING.md
+Gruntfile.js
+LICENSE.md
+README.md
+behat.yml
+composer.json
+package.json
+phpcs.xml
+phpspec.yml

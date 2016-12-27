@@ -1,0 +1,7 @@
+.gitignore
+Bot.php
+BotApp.php
+Link.php
+Message.php
+README.MD
+composer.json

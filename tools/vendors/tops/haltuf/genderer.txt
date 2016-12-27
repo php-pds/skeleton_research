@@ -1,0 +1,7 @@
+src/Genderer/
+tests/
+.gitignore
+.travis.yml
+composer.json
+example.php
+readme.md

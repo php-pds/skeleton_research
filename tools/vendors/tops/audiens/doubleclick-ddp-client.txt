@@ -1,0 +1,15 @@
+contrib/
+src/
+tests/
+.codeclimate.yml
+.coveralls.yml
+.env.example
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+composer-update.sh
+composer.json
+phpunit.xml.dist
+phpunit_bs.php

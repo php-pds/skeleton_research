@@ -1,0 +1,11 @@
+Command/
+Controller/
+DependencyInjection/
+Entity/
+Form/Type/
+Resources/
+Tests/Controller/
+LICENSE
+README.md
+UsnNewsletterBundle.php
+composer.json

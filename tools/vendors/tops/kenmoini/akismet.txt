@@ -1,0 +1,10 @@
+src/Kenmoini/Akismet/
+tests/
+vendor/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml

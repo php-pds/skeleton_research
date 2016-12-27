@@ -1,0 +1,7 @@
+src/multidistance/
+tests/multidistance/
+.gitignore
+.travis.yml
+README.md
+composer.json
+phpunit.xml

@@ -1,0 +1,12 @@
+DependencyInjection/
+Model/
+Resources/config/
+Service/
+docs/
+lib/
+.gitignore
+LICENSE
+README.md
+Syren7OwncloudApiBundle.php
+composer.json
+composer.lock

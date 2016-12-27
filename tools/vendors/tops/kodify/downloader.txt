@@ -1,0 +1,10 @@
+DependencyInjection/
+Resources/
+Service/
+Tests/
+.gitignore
+KodifyDownloaderBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

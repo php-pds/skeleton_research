@@ -1,0 +1,5 @@
+vendor/
+.gitignore
+SayHello.php
+composer.json
+composer.phar

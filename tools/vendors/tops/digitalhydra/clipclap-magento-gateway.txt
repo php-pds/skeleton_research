@@ -1,0 +1,13 @@
+Block/
+Gateway/
+Model/
+Observer/
+Test/Unit/
+etc/
+i18n/
+view/frontend/
+LICENSE.txt
+LICENSE_AFL.txt
+README.md
+composer.json
+registration.php

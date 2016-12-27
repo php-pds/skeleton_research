@@ -1,0 +1,8 @@
+controllers/
+migrations/
+models/
+views/
+.gitignore
+Module.php
+composer.json
+composer.phar

@@ -1,0 +1,9 @@
+example/
+src/Netki/
+test/
+.gitignore
+LICENSE.txt
+README.md
+composer.json
+init.php
+phpunit.xml

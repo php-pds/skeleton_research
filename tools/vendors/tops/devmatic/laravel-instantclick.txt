@@ -1,0 +1,12 @@
+src/Middleware/
+tests/
+.editorconfig
+.scrutinizer.yml
+.travis.yml
+CHANGELOG.md
+CONTRIBUTING.md
+LICENSE.md
+README.md
+composer.json
+instantclick.js
+phpunit.xml.dist

@@ -1,0 +1,14 @@
+data/resources/test/
+src/php/
+.gitattributes
+.gitignore
+.travis.yml
+LICENSE.md
+README.md
+build.xml
+circle.yml
+composer.json
+composer.lock
+phing
+phpunit
+phpunit.xml

@@ -1,0 +1,8 @@
+src/String/
+tests/String/
+.gitignore
+.travis.yml
+LICENSE.md
+README.md
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,8 @@
+src/
+.gitignore
+LICENSE.txt
+README.md
+bootstrap.php
+composer.json
+composer.lock
+manifest.php

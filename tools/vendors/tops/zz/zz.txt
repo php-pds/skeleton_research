@@ -1,0 +1,8 @@
+src/zz/l10n/ja/
+tests/
+.gitignore
+.travis.yml
+README.mdown
+composer.json
+phpunit.xml.dist
+zz-number.iml

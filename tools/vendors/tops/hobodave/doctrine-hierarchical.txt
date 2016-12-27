@@ -1,0 +1,4 @@
+lib/DoctrineExtensions/Hierarchical/
+.gitignore
+README
+composer.json

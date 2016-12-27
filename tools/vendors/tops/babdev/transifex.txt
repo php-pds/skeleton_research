@@ -1,0 +1,16 @@
+build/
+docs/
+src/
+tests/
+.gitattributes
+.gitignore
+.php_cs
+.scrutinizer.yml
+.travis.yml
+CHANGELOG.markdown
+LICENSE
+README.markdown
+build.xml
+composer.json
+phpunit.travis.xml
+phpunit.xml.dist

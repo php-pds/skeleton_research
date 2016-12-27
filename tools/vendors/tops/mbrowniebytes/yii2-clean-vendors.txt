@@ -1,0 +1,4 @@
+CleanVendorsController.php
+LICENSE
+README.md
+composer.json

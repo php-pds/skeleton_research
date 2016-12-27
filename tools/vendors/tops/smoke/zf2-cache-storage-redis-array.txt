@@ -1,0 +1,5 @@
+src/Smoke/Cache/Storage/Adapter/
+.gitignore
+LICENSE
+README.md
+composer.json

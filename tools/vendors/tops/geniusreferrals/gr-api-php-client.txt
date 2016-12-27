@@ -1,0 +1,8 @@
+resources/doc/
+src/GeniusReferrals/
+tests/GeniusReferrals/Tests/
+.gitignore
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

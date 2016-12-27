@@ -1,0 +1,11 @@
+application/
+assets/
+doc/
+.gitignore
+composer.json
+composer.lock
+contributing.md
+couscous.yml
+index.php
+license.txt
+readme.md

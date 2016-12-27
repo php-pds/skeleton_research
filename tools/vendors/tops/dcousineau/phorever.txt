@@ -1,0 +1,8 @@
+bin/
+src/Phorever/
+tests/commands/
+.gitignore
+LICENSE
+README.md
+composer.json
+phorever.json.sample

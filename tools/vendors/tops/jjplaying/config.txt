@@ -1,0 +1,5 @@
+.idea/
+src/Config/
+tests/
+README.md
+composer.json

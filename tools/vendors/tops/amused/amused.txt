@@ -1,0 +1,7 @@
+bin/
+migrations/
+src/
+.gitignore
+README.md
+composer.json
+phinx.yml

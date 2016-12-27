@@ -1,0 +1,5 @@
+examples/
+lib/
+tests/
+README.md
+composer.json

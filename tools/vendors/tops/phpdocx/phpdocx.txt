@@ -1,0 +1,16 @@
+classes/
+config/
+examples/
+excel/
+lib/
+templates/
+tutorial/
+xsl/
+.gitignore
+Faq and Docs.txt
+How to install.txt
+LICENSE
+Readme.md
+Readme.txt
+check.php
+composer.json

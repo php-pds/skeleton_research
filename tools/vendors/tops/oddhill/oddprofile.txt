@@ -1,0 +1,8 @@
+config/install/
+.gitignore
+LICENSE.md
+README.md
+composer.json
+oddprofile.info.yml
+oddprofile.install
+oddprofile.profile

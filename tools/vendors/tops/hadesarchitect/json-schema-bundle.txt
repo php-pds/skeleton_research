@@ -1,0 +1,14 @@
+DependencyInjection/
+Error/
+Exception/
+Resources/config/
+Tests/
+Uri/
+Validator/
+.gitignore
+.travis.yml
+JsonSchemaBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

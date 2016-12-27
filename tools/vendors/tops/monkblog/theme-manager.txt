@@ -1,0 +1,13 @@
+src/ThemeManager/
+tests/
+.codeclimate.yml
+.gitignore
+CONTRIBUTING.md
+LICENSE
+README.md
+circle.yml
+composer.json
+examples.php
+helpers.php
+phpunit.php
+phpunit.xml

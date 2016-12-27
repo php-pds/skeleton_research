@@ -1,0 +1,14 @@
+App/
+config/
+public/
+storage/
+tests/
+.gitignore
+LICENSE
+README.md
+Vagrantfile
+composer.json
+composer.lock
+config.sh
+index.php
+sglim

@@ -1,0 +1,12 @@
+DependencyInjection/
+EventListener/
+Resources/config/
+Tests/
+.gitignore
+.travis.yml
+Joschi127DoctrineEntityOverrideBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist
+run-tests-phpunit.sh

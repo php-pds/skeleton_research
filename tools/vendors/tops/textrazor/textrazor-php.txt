@@ -1,0 +1,5 @@
+LICENSE
+README.md
+TextRazor.php
+composer.json
+example.php

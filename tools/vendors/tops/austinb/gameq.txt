@@ -1,0 +1,15 @@
+build/config/
+examples/
+src/GameQ/
+tests/
+.coveralls.yml
+.gitattributes
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CONTRIBUTING.md
+LICENSE.lgpl
+README.md
+composer.json
+phpunit.xml
+phpunit.xml.dist

@@ -1,0 +1,11 @@
+api/
+src/Xacml/
+tests/Xacml/
+.gitignore
+.travis.yml
+README.md
+composer.json
+phpunit.xml.dist
+schema.jpg
+schemaXacml.mdj
+xacml-core-v3-schema-wd-17.xsd

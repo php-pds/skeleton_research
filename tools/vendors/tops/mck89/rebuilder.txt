@@ -1,0 +1,7 @@
+lib/REBuilder/
+test/REBuilder/Pattern/
+.gitignore
+LICENSE
+README.md
+composer.json
+phpunit.xml

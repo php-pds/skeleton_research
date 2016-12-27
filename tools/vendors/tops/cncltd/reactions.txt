@@ -1,0 +1,8 @@
+tasks/
+.gitignore
+.php_cs
+ActionCompatible.php
+README.md
+Reaction.php
+ReactionCompatible.php
+composer.json

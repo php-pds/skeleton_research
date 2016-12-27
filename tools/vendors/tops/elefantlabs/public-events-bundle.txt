@@ -1,0 +1,11 @@
+.gitlab/issue_templates/
+DependencyInjection/
+PublicEvents/
+Tests/
+.gitignore
+.gitlab-ci.yml
+.travis.yml
+ElefantPublicEventsBundle.php
+README.md
+composer.json
+phpunit.xml.dist

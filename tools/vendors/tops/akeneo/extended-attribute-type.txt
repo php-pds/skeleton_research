@@ -1,0 +1,6 @@
+doc/example/Acme/Bundle/AppBundle/
+spec/Pim/Bundle/ExtendedAttributeTypeBundle/ArrayConverter/FlatToStandard/
+src/
+.gitignore
+README.md
+composer.json

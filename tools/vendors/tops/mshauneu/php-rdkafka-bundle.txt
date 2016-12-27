@@ -1,0 +1,7 @@
+src/Mshauneu/RdKafkaBundle/
+tests/Mshauneu/RdKafkaBundle/DependencyInjection/
+.gitignore
+LICENSE
+README.md
+composer.json
+phpunit.xml

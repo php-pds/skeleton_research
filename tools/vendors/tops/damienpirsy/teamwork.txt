@@ -1,0 +1,9 @@
+src/Damienpirsy/Teamwork/
+tests/
+.travis.yml
+LICENSE
+README.md
+changes.md
+composer.json
+composer.lock
+phpunit.xml

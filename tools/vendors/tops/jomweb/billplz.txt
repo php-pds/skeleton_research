@@ -1,0 +1,11 @@
+examples/v3/
+src/
+tests/Three/
+.gitattributes
+.gitignore
+.php_cs
+.travis.yml
+README.md
+composer.json
+phpunit.xml
+sami.php

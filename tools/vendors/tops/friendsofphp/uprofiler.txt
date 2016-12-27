@@ -1,0 +1,11 @@
+extension/
+uprofiler_html/
+uprofiler_lib/
+.gitignore
+.travis.yml
+CHANGELOG
+CREDITS
+LICENSE
+README.rst
+composer.json
+package.xml

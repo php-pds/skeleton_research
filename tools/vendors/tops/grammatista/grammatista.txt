@@ -1,0 +1,8 @@
+examples/
+lib/
+.gitignore
+CHANGELOG
+CREDITS
+INSTALL
+LICENSE
+composer.json

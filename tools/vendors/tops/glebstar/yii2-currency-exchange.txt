@@ -1,0 +1,7 @@
+migrations/
+models/
+tests/
+Module.php
+README.md
+codeception.yml
+composer.json

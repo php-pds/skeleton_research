@@ -1,0 +1,8 @@
+src/Api/
+tests/
+.gitignore
+LICENSE
+README.md
+apiary.apib
+composer.json
+loader.php

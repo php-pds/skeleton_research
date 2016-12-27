@@ -1,0 +1,12 @@
+Annotation/
+DependencyInjection/
+EventListener/
+HttpKernel/
+Resources/config/
+Tests/
+.gitignore
+PluessDoctrineTrxBundle.php
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

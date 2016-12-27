@@ -1,0 +1,16 @@
+Controller/
+DependencyInjection/
+Entity/
+Exception/
+Form/
+Installation/
+Listener/
+Manager/
+Migrations/pdo_mysql/
+Repository/
+Resources/
+.gitignore
+InwicastClarolinePluginBundle.php
+README.md
+assets.json
+composer.json

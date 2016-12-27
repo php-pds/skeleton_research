@@ -1,0 +1,8 @@
+.idea/
+DependencyInjection/
+Resources/
+Security/
+Service/
+README.md
+ZtecSecurityActiveDirectoryBundle.php
+composer.json

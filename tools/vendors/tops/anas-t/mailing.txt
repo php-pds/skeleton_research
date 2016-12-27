@@ -1,0 +1,6 @@
+src/AnasT/Mailing/
+tests/
+.gitignore
+README.md
+composer.json
+phpunit.xml

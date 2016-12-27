@@ -1,0 +1,7 @@
+lib/SqlBuilder/
+tests/SqlBuilder/Query/
+.gitignore
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,5 @@
+lib/Thrift/
+tests/
+.gitignore
+LICENSE
+composer.json

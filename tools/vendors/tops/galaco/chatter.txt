@@ -1,0 +1,9 @@
+config/
+data/
+public/chatter/
+src/Chatter/
+view/chatter/
+LICENSE
+Module.php
+README.md
+composer.json

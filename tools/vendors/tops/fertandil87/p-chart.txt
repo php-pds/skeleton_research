@@ -1,0 +1,3 @@
+src/pChart/
+.gitignore
+composer.json

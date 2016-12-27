@@ -1,0 +1,14 @@
+css/
+images/
+js/
+library/
+.gitattributes
+.gitignore
+CHANGELOG.md
+LICENSE.md
+README.md
+composer.json
+example.php
+favicon.ico
+github-btn.html
+index.php

@@ -1,0 +1,9 @@
+tests/
+.travis.yml
+NaithCliReport.class.php
+NaithCliRunner.class.php
+NaithJunitReport.class.php
+README.md
+composer.json
+naith
+naith.php

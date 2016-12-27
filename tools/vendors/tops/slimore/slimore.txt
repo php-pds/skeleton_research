@@ -1,0 +1,6 @@
+src/Slimore/
+.gitignore
+CHANGE.md
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,6 @@
+lib/
+LICENSE.md
+README.md
+VERSION
+composer.json
+init.php

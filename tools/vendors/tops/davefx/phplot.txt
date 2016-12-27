@@ -1,0 +1,8 @@
+phplot/
+phplotdocs/
+phplottest/
+.gitattributes
+.gitignore
+LICENSE
+README.txt
+composer.json

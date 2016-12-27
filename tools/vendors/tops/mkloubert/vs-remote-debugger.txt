@@ -1,0 +1,7 @@
+img/
+src/MJK/Diagnostics/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json

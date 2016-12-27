@@ -1,0 +1,17 @@
+contrib/
+src/
+tests/
+.codeclimate.yml
+.coveralls.yml
+.env.example
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CHANGELOG-0.x.md
+LICENSE
+README.md
+composer-update.sh
+composer.json
+composer.lock
+phpunit.xml.dist
+phpunit_bs.php

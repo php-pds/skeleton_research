@@ -1,0 +1,9 @@
+messages/fa_IR/
+sbadmin/
+views/yiisoft/
+web/
+widgets/
+.gitignore
+LICENSE
+README.md
+composer.json

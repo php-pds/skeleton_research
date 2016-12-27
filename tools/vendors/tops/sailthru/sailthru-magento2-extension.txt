@@ -1,0 +1,15 @@
+Block/System/Config/Button/
+Cookie/
+Helper/
+Mail/
+Model/Config/Source/
+Observer/Frontend/
+Plugin/
+Setup/
+etc/
+view/
+.gitignore
+MageClient.php
+README.md
+composer.json
+registration.php

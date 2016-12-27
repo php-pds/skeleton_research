@@ -1,0 +1,6 @@
+src/Routex/
+.gitignore
+LICENSE
+README.md
+composer.json
+config.sample.php

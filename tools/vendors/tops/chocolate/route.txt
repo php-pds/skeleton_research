@@ -1,0 +1,8 @@
+src/
+.gitignore
+LICENSE
+README.md
+composer.json
+phpcompatinfo.bat
+phpunit.bat
+phpunit.xml

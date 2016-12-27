@@ -1,0 +1,6 @@
+Resources/
+.gitignore
+LICENSE
+README.md
+ScreenBitePlatformUIBundle.php
+composer.json

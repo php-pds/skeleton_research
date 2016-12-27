@@ -1,0 +1,4 @@
+generators/ManyTables/
+.gitignore
+composer.json
+readme.md

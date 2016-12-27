@@ -1,0 +1,6 @@
+config/
+src/Agere/Current/
+LICENSE
+Module.php
+README.md
+composer.json

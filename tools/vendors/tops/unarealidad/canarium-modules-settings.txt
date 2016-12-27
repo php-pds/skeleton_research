@@ -1,0 +1,7 @@
+config/
+src/Settings/
+view/settings/
+LICENSE
+Module.php
+README.md
+composer.json

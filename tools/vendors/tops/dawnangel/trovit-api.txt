@@ -1,0 +1,8 @@
+Tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+TrovitApi.php
+composer.json
+phpunit.xml.dist

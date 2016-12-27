@@ -1,0 +1,8 @@
+src/marienfressinaud/
+tests/
+.gitignore
+.travis.yml
+README.md
+composer.json
+index.php
+my_opml_file.xml

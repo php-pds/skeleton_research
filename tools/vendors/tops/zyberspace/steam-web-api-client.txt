@@ -1,0 +1,6 @@
+lib/Zyberspace/SteamWebApi/
+.gitignore
+LICENSE
+README.md
+composer.json
+phpdoc.dist.xml

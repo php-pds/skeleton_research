@@ -1,0 +1,10 @@
+.idea/
+ParseFileInterface.php
+ParserCsv.php
+ParserExcel.php
+ParserJson.php
+ParserYml.php
+SavePrice.php
+UploadFile.php
+UploadLink.php
+composer.json

@@ -1,0 +1,10 @@
+examples/
+library/Modern/
+nbproject/
+tests/
+.gitattributes
+.gitignore
+LICENSE.txt
+README.md
+composer.json
+composer.lock

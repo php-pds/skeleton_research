@@ -1,0 +1,5 @@
+application/
+example/
+.gitignore
+README.md
+composer.json

@@ -1,0 +1,8 @@
+config/
+data/
+src/RbacUserDoctrineOrm/
+view/error/
+.gitignore
+Module.php
+README.md
+composer.json

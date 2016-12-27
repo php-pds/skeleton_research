@@ -1,0 +1,9 @@
+src/Math/Combinatorics/
+tests/Math/Combinatorics/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

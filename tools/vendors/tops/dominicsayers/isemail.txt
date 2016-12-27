@@ -1,0 +1,6 @@
+extras/
+test/
+composer.json
+is_email.php
+license.md
+readme.md

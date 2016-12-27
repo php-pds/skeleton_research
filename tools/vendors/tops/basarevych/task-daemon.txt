@@ -1,0 +1,7 @@
+Example/
+library/TaskDaemon/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.phar

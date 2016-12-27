@@ -1,0 +1,8 @@
+.gitignore
+LICENSE
+Pinger.php
+README.md
+composer.json
+file.templat
+reference.php
+test.php

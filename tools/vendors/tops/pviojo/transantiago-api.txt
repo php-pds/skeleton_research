@@ -1,0 +1,3 @@
+src/Transantiago/
+README.md
+composer.json

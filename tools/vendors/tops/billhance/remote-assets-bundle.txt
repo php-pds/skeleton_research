@@ -1,0 +1,8 @@
+Command/
+DependencyInjection/
+Resources/config/
+.gitignore
+BillhanceRemoteAssetsBundle.php
+LICENSE
+README.md
+composer.json

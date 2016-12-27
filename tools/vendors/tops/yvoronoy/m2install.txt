@@ -1,0 +1,7 @@
+.codeclimate.yml
+.gitignore
+LICENSE
+README.md
+composer.json
+m2install-bash-completion
+m2install.sh

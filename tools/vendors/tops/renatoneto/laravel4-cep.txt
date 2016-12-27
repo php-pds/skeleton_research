@@ -1,0 +1,6 @@
+src/Skape/Zipcode/
+tests/Skape/Zipcode/
+.gitignore
+composer.json
+phpunit.xml
+readme.md

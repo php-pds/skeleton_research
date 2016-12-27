@@ -1,0 +1,9 @@
+config/
+public/
+src/
+.gitattributes
+.gitignore
+LICENSE.md
+README.md
+apigen.neon
+composer.json

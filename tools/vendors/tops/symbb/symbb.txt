@@ -1,0 +1,9 @@
+.idea/
+doc/
+src/Symbb/
+.gitignore
+.travis.yml
+LICENSE
+README.markdown
+composer.json
+phpunit.xml.dist

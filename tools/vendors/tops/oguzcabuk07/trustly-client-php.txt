@@ -1,0 +1,8 @@
+Trustly/
+example/
+.gitignore
+LICENCE
+README.md
+Trustly.php
+composer.json
+composer.lock

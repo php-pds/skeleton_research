@@ -1,0 +1,14 @@
+bin/
+build/config/
+src/Etechnika/ExtLib/Domain/
+tests/
+.gitignore
+.travis.yml
+CHANGELOG
+LICENSE
+README.md
+build.xml
+composer.json
+jenkins.phpunit.xml
+phpunit.xml.dist
+travis.phpunit.xml

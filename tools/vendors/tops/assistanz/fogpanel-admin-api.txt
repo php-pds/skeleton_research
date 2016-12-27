@@ -1,0 +1,7 @@
+src/AssistanZ/FogPanel/API/Admin/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json
+phpunit.xml

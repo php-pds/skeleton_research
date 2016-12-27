@@ -1,0 +1,6 @@
+SimSite/
+media/
+.gitignore
+README.md
+composer.json
+phpunit.xml

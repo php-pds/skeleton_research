@@ -1,0 +1,16 @@
+Command/
+DependencyInjection/
+Fixtures/
+Loader/
+ORM/
+Resources/config/
+Tests/
+.gitignore
+.scrutinizer.yml
+.travis.php.ini
+.travis.yml
+LICENSE
+README.md
+composer.json
+h4ccAliceFixturesBundle.php
+phpunit.xml.dist

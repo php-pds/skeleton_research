@@ -1,0 +1,9 @@
+src/CodeCounter/
+tests/
+.gitattributes
+.gitignore
+CHANGELOG.md
+LICENSE
+README.md
+autoload.php
+composer.json

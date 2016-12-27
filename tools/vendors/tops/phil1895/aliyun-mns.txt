@@ -1,0 +1,4 @@
+mns/
+MnsQueue.php
+README.md
+composer.json

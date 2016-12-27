@@ -1,0 +1,9 @@
+lib/
+tests/
+.gitignore
+.travis.yml
+LICENCE.txt
+README.md
+composer.json
+develop.txt
+phpunit.xml

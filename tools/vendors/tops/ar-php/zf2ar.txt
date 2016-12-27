@@ -1,0 +1,7 @@
+config/
+src/ZF2ar/View/Helper/
+.gitignore
+Module.php
+README.md
+autoload_classmap.php
+composer.json

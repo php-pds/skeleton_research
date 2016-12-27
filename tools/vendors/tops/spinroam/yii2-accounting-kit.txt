@@ -1,0 +1,9 @@
+commands/
+components/helpers/
+controllers/
+migrations/
+models/
+views/
+AccountingKit.php
+README.md
+composer.json

@@ -1,0 +1,7 @@
+src/janoszen/ipv6utils/
+tests/
+.gitignore
+README.markdown
+apigen.neon
+composer.json
+phpunit.xml

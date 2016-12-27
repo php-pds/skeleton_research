@@ -1,0 +1,7 @@
+classes/Swift/
+example/
+.editorconfig
+.gitignore
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,8 @@
+.idea/
+src/PierreLemee/
+test/
+.gitignore
+README.md
+composer.json
+index.php
+site.dtd

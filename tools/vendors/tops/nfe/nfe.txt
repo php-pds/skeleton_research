@@ -1,0 +1,10 @@
+lib/
+test/
+.gitignore
+.travis.yml
+CHANGELOG.MD
+LICENSE
+README.md
+VERSION
+composer.json
+composer.phar

@@ -1,0 +1,12 @@
+app/
+build/
+src/Ateoem/
+tests/
+.gitignore
+.travis.yml
+README.md
+behat.yml
+composer.json
+composer.lock
+phpspec.yml
+phpunit.xml

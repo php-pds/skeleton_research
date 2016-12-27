@@ -1,0 +1,3 @@
+src/Huglester/Translated/
+README.md
+composer.json

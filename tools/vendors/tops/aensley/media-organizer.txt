@@ -1,0 +1,10 @@
+assets/
+src/Aensley/MediaOrganizer/
+tests/Aensley/MediaOrganizer/
+.codeclimate.yml
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml

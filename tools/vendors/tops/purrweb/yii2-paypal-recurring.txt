@@ -1,0 +1,6 @@
+methods/
+LICENSE
+PayPalRecurring.php
+README.md
+RecurringSubscription.php
+composer.json

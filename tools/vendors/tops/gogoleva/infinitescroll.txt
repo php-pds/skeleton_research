@@ -1,0 +1,8 @@
+app/
+js/jquery/
+skin/frontend/base/default/js/infinitescroll/
+.gitignore
+LICENSE
+README.md
+composer.json
+modman

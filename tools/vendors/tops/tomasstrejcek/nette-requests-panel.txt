@@ -1,0 +1,3 @@
+RequestsPanel/
+README.md
+composer.json

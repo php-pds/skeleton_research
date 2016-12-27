@@ -1,0 +1,8 @@
+Tests/
+Process.php
+ProcessEvent.php
+ProcessManager.php
+ProcessManagerEvent.php
+README.md
+TaskInterface.php
+composer.json

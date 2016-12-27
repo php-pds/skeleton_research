@@ -1,0 +1,10 @@
+Helper/
+Mail/
+Model/
+Observer/
+etc/
+.gitignore
+COPYING.txt
+README.md
+composer.json
+registration.php

@@ -1,0 +1,11 @@
+tests/
+.gitignore
+CREDITS
+EXPERIMENTAL
+README.md
+composer.json
+config.m4
+config.w32
+php_safenet.h
+safenet.c
+safenet.php

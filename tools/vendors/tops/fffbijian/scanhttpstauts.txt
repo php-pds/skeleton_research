@@ -1,0 +1,5 @@
+.idea/
+LICENSE
+README.md
+composer.json
+scanner.php

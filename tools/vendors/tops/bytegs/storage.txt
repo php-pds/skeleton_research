@@ -1,0 +1,4 @@
+Byte/Storage/
+.gitignore
+README.md
+composer.json

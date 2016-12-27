@@ -1,0 +1,12 @@
+.c9revisions/
+example/
+scripts/
+src/fullPhp/
+tests/
+.atoum.php
+.bootstrap.atoum.php
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json

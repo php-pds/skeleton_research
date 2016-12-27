@@ -1,0 +1,6 @@
+.gitattributes
+.gitignore
+README.md
+composer.json
+dismiss-notice.js
+persist-admin-notices-dismissal.php

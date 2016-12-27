@@ -1,0 +1,7 @@
+example/
+src/
+tests/
+.env.example
+.gitignore
+composer.json
+composer.lock

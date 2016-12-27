@@ -1,0 +1,10 @@
+lib/RestfulClient/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+Makefile
+README.md
+RestfulClient.php
+composer.json
+phpunit.xml.dist

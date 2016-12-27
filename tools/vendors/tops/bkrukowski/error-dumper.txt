@@ -1,0 +1,14 @@
+resources/img/
+src/
+templates/exceptions/
+tests/
+.coveralls.yml
+.gitignore
+.travis.yml
+LICENSE
+all-tests
+changelog.md
+composer.json
+many-php-versions.md
+phpunit.xml.dist
+readme.md

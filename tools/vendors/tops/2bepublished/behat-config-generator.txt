@@ -1,0 +1,12 @@
+bin/
+examples/
+spec/
+src/
+templates/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+phpspec.yml

@@ -1,0 +1,6 @@
+src/Aveley/CommandBus/
+.gitignore
+LICENSE.txt
+composer.json
+composer.lock
+phpunit.xml

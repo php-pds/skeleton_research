@@ -1,0 +1,6 @@
+sql/
+src/Monolog/Handler/
+.gitignore
+LICENSE
+README.md
+composer.json

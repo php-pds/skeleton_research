@@ -1,0 +1,8 @@
+src/
+tests/Acme/Tests/
+www/
+.gitignore
+LICENSE
+README.markdown
+composer.json
+phpunit.xml.dist

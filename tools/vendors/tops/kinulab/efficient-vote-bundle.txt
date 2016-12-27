@@ -1,0 +1,8 @@
+DependencyInjection/
+Security/
+Tests/
+KinulabEfficientVoteBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,13 @@
+Build/
+Classes/Hook/
+Resources/Private/Libraries/
+Tests/Unit/Hook/
+.editorconfig
+.gitattributes
+.gitignore
+.travis.yml
+composer.json
+ext_emconf.php
+ext_icon.png
+ext_icon.svg
+ext_localconf.php

@@ -1,0 +1,5 @@
+spec/Sisk/Tvdb/
+src/Sisk/Tvdb/
+.gitignore
+composer.json
+test.php

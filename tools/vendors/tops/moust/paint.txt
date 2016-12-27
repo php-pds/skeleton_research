@@ -1,0 +1,9 @@
+src/Paint/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+exemple.php
+phpunit.xml.dist

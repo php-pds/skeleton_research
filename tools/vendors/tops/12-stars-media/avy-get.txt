@@ -1,0 +1,5 @@
+src/AvyGet/
+.gitignore
+LICENSE
+README.md
+composer.json

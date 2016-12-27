@@ -1,0 +1,7 @@
+examples/
+lib/
+CHANGELOG
+LICENSE
+README.rdoc
+VERSION
+composer.json

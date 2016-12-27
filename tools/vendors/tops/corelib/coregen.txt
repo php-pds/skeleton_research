@@ -1,0 +1,7 @@
+includes/
+templates/
+.gitignore
+LICENSE
+README.md
+composer.json
+corelibgen.php

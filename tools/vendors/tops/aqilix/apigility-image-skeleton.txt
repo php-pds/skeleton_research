@@ -1,0 +1,9 @@
+build/bin/
+config/
+data/
+module/Application/
+public/
+.gitignore
+README.md
+composer.json
+composer.lock

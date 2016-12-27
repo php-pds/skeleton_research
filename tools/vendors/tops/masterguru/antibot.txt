@@ -1,0 +1,6 @@
+.gitignore
+LICENSE
+README.md
+antibot.php
+antibot.png
+composer.json

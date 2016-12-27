@@ -1,0 +1,11 @@
+.phpspec/
+src/Dumplie/
+.gitignore
+.travis.yml
+LICENSE
+PULL_REQUEST_TEMPLATE.md
+README.md
+composer.json
+phpspec.yml.dist
+phpunit.bootstrap.php
+phpunit.xml.dist

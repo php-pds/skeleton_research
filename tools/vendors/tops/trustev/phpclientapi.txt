@@ -1,0 +1,4 @@
+Tests/
+Trustev/
+Readme.Md
+composer.json

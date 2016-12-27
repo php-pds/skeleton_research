@@ -1,0 +1,17 @@
+Command/
+DependencyInjection/
+EventListener/
+Exceptions/
+Helper/
+Resources/
+Tests/
+.gitattributes
+.gitignore
+.travis.yml
+AfrihostBaseCommandBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.hardened.xml
+phpunit.xml
+test_hardened.sh

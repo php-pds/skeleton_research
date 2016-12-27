@@ -1,0 +1,13 @@
+assets/
+commands/
+conf_templates/
+server/
+static/
+.gitignore
+README.MD
+YiiNodeSocket.php
+YiiNodeSocketFrameBasic.php
+YiiNodeSocketFrameGrowl.php
+YiiNodeSocketFrameJQuery.php
+YiiNodeSocketSession.php
+composer.json

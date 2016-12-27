@@ -1,0 +1,8 @@
+src/PhoneNumber/
+test/
+vendor/
+.gitignore
+LICENSE
+README.md
+autoload_classmap.php
+composer.json

@@ -1,0 +1,7 @@
+src/
+.editorconfig
+.gitattributes
+.gitignore
+README.md
+composer.json
+phpunit.xml

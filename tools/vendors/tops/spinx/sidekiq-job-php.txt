@@ -1,0 +1,10 @@
+examples/
+spec/SidekiqJob/
+src/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock
+phpspec.yml
+scrutinizer.yml

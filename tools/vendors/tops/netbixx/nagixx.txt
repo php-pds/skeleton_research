@@ -1,0 +1,12 @@
+build/
+lib/
+nagios/
+tests/
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENCE.txt
+README.md
+composer.json
+composer.phar
+nagios_check_nagixx.txt

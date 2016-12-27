@@ -1,0 +1,12 @@
+Tests/
+bin/
+src/lapistano/wsunit/
+vendor/
+.gitignore
+.travis.yml
+LICENSE
+ReadMe.md
+bootstrap.php
+composer.json
+composer.lock
+phpunit.xml.dist

@@ -1,0 +1,11 @@
+app/
+bin/
+devops/
+src/HealthBundle/
+var/
+web/
+.gitignore
+README.md
+composer.json
+composer.lock
+docker-compose.yml

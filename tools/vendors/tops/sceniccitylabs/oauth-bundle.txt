@@ -1,0 +1,12 @@
+OAuthSignatureMethod/
+Resources/doc/
+OAuthConsumer.php
+OAuthDataStore.php
+OAuthException.php
+OAuthRequest.php
+OAuthServer.php
+OAuthSignatureMethod.php
+OAuthToken.php
+OAuthUtil.php
+ScenicCityLabsOAuthBundle.php
+composer.json

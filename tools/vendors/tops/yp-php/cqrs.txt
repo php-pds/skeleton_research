@@ -1,0 +1,4 @@
+src/YP/CQRS/
+.gitignore
+README.md
+composer.json

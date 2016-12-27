@@ -1,0 +1,7 @@
+src/Restful/
+test/
+.gitignore
+LICENSE
+README.md
+autoloader.php
+composer.json

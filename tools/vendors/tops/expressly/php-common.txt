@@ -1,0 +1,15 @@
+bootstrap/
+docs/
+src/
+tests/
+.codeclimate.yml
+.csslintrc
+.eslintrc
+.gitignore
+.htaccess
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml

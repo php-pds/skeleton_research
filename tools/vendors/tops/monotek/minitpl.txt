@@ -1,0 +1,9 @@
+code/Monotek/MiniTPL/
+documentation/
+git_hooks @ 2da6d53
+test/
+.gitignore
+.gitmodules
+README.markdown
+composer.json
+phpunit.xml

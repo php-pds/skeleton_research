@@ -1,0 +1,16 @@
+assets/
+controllers/
+helpers/
+images/avatar/profile/
+messages/es/
+models/
+tests/
+views/
+widgets/
+.gitignore
+.travis.yml
+Bootstrap.php
+LICENSE.md
+README.md
+composer.json
+composer.lock

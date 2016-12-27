@@ -1,0 +1,14 @@
+bin/
+features/
+inc/
+templates/
+utils/
+.distignore
+.editorconfig
+.gitignore
+README.md
+circle.yml
+command.php
+composer.json
+composer.lock
+wp-cli.yml

@@ -1,0 +1,7 @@
+php-mailer/
+README.md
+c2c-plugin.php
+composer.json
+configure-smtp.php
+index.php
+license.txt

@@ -1,0 +1,12 @@
+assets/
+components/
+controllers/
+migrations/
+models/
+views/
+.DS_Store
+AutocompleteAsset.php
+AutoloadExample.php
+Module.php
+README.md
+composer.json

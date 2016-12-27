@@ -1,0 +1,12 @@
+Command/
+Error/
+Object/
+Parser/
+nbproject/
+tests/
+.gitignore
+FileMaker.php
+FileMakerException.php
+FileMakerValidationException.php
+autoloader.php
+composer.json

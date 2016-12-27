@@ -1,0 +1,6 @@
+crud/
+.gitignore
+AutoloadExample.php
+Bootstrap.php
+README.md
+composer.json

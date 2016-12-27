@@ -1,0 +1,8 @@
+doc/
+misc/
+src/Swoole/
+.gitignore
+README.md
+composer.json
+composer.lock
+sword

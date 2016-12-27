@@ -1,0 +1,12 @@
+bootstrap/
+src/ElasticEmail/
+tests/
+.env.example
+.gitignore
+.styleci.yml
+LICENSE
+README.md
+circle.yml
+composer.json
+composer.lock
+phpunit.xml

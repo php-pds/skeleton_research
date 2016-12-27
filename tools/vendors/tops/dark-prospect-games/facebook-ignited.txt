@@ -1,0 +1,7 @@
+src/DarkProspectGames/FacebookIgnited/
+.gitignore
+.htaccess
+License.txt
+README.md
+changes.md
+composer.json

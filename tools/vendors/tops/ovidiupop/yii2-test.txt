@@ -1,0 +1,4 @@
+views/
+README.md
+Show.php
+composer.json

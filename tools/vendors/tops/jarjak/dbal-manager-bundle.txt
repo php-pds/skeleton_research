@@ -1,0 +1,5 @@
+src/JarJak/DBALManagerBundle/
+.gitignore
+LICENSE
+README.md
+composer.json

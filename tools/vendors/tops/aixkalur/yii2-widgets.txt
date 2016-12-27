@@ -1,0 +1,6 @@
+nbproject/
+src/aixkalur/
+.gitignore
+LICENSE
+README.md
+composer.json

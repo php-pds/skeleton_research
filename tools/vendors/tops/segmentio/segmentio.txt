@@ -1,0 +1,10 @@
+lib/
+test/
+.gitignore
+.travis.yml
+HISTORY.md
+Makefile
+README.md
+VERSION
+composer.json
+send.php

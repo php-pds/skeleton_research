@@ -1,0 +1,7 @@
+Bossa/PhpSpec/Expect/
+tests/
+.gitignore
+README.md
+composer.json
+expect.php
+phpunit.xml

@@ -1,0 +1,10 @@
+Lib/
+public/img/
+tests/
+vendor/
+.htaccess
+PHPicture.ini
+README.md
+composer.json
+composer.lock
+index.php

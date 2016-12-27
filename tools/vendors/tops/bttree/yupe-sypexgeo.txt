@@ -1,0 +1,5 @@
+components/
+install/
+models/
+SxGeoModule.php
+composer.json

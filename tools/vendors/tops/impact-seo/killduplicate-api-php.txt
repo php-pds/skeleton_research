@@ -1,0 +1,10 @@
+examples/
+results/
+texts/
+.gitignore
+README.md
+api_callback.php
+api_calls.php
+composer.json
+config.php
+index.php

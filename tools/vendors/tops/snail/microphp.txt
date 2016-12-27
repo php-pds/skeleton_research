@@ -1,0 +1,10 @@
+application/
+.gitignore
+CHANGELOG.txt
+MicroPHP.min.php
+MicroPHP.php
+README.md
+composer.json
+index.php
+license.txt
+plugin.php

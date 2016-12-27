@@ -1,0 +1,13 @@
+Controller/
+Entity/
+Model/
+Repository/
+Resources/public/js/
+Tests/
+.bowerrc
+.gitignore
+ContentEditableBundle.php
+LICENSE
+bower.json
+composer.json
+readme.md

@@ -1,0 +1,7 @@
+config/
+src/BKUser/
+test/
+view/bk-user/auth/
+.gitignore
+Module.php
+composer.json

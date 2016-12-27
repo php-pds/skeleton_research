@@ -1,0 +1,6 @@
+DependencyInjection/
+Resources/
+Twig/Extension/
+NSMTwigExtensionsBundle.php
+README.md
+composer.json

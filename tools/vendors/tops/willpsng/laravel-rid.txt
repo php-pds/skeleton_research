@@ -1,0 +1,6 @@
+RID/
+vendor/
+README.md
+RID.php
+composer.json
+composer.lock

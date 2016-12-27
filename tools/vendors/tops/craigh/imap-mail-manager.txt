@@ -1,0 +1,12 @@
+docs/
+examples/
+src/
+tests/
+.gitignore
+.travis.yml
+README.md
+composer.json
+composer.lock
+config.php
+createImapConfig.php
+sami.php

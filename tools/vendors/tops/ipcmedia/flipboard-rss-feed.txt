@@ -1,0 +1,14 @@
+assets/
+bin/
+languages/
+public/
+tests/
+.travis.yml
+LICENSE.txt
+README.md
+README.txt
+composer.json
+flipboard-rss-feed.php
+index.php
+phpunit.xml
+uninstall.php

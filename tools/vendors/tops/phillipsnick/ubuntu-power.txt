@@ -1,0 +1,7 @@
+Examples/
+Ubuntu/
+nbproject/
+.gitignore
+LICENCE
+README.md
+composer.json

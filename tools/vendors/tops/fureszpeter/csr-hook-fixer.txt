@@ -1,0 +1,4 @@
+src/Git/
+tests/
+.gitignore
+composer.json

@@ -1,0 +1,6 @@
+examples/
+src/
+tests/Client/
+.gitignore
+LICENSE
+composer.json

@@ -1,0 +1,14 @@
+docs/
+src/VCloud/Helpers/
+tests/
+.coveralls.yml
+.editorconfig
+.gitignore
+.travis.yml
+LICENSE
+Makefile
+README.md
+composer.json
+phpunit-integration.xml
+phpunit-stubs.xml
+phpunit.xml

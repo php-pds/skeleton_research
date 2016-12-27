@@ -1,0 +1,11 @@
+examples/
+src/Gerencianet/
+test/Gerencianet/
+.codeclimate.yml
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+composer.json
+config.xml

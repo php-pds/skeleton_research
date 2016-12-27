@@ -1,0 +1,4 @@
+src/Aducworth/Openweather/
+.DS_Store
+README.md
+composer.json

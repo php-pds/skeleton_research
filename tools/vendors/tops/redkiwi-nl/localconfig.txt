@@ -1,0 +1,7 @@
+src/JKetelaar/Redkiwi/WordPress/LocalConfig/
+.gitignore
+.travis.yml
+README.md
+command.php
+composer.json
+wp-cli.yml

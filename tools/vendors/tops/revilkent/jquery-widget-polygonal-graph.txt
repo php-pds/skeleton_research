@@ -1,0 +1,9 @@
+jquery/
+LICENSE
+README.md
+composer.json
+index.html
+issues
+polygonalGraph.jquery.json
+polygonalGraphWidget.js
+screenshot.png

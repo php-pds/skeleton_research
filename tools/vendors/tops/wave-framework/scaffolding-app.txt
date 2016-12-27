@@ -1,0 +1,8 @@
+application/
+config/
+logs/
+public/
+.gitignore
+README.md
+bootstrap.php
+composer.json

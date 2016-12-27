@@ -1,0 +1,5 @@
+lib/ShapeShiftIO/
+README.md
+composer.json
+phpdoc.dist.xml
+test.php

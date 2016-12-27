@@ -1,0 +1,3 @@
+src/Spil/
+README.markdown
+composer.json

@@ -1,0 +1,6 @@
+src/Instaphp/
+tests/
+.gitignore
+.travis.yml
+README.md
+composer.json

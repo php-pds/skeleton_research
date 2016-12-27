@@ -1,0 +1,7 @@
+src/Mokesh/
+tests/src/Mokesh/
+.gitignore
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

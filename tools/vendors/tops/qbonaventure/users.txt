@@ -1,0 +1,10 @@
+.settings/
+config/
+src/Users/
+view/users/login/
+.buildpath
+.project
+LICENSE
+Module.php
+autoload_classmap.php
+composer.json

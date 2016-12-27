@@ -1,0 +1,14 @@
+Command/
+DependencyInjection/
+Exception/
+Factory/
+Model/
+Repository/
+Resources/config/
+Service/
+Tests/
+.gitignore
+README.md
+WoppKeyValueBundle.php
+composer.json
+phpunit.xml.dist

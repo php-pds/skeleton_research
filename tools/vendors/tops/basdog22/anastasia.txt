@@ -1,0 +1,10 @@
+lp-content/
+lp-includes/
+.gitignore
+.htaccess
+LICENCE
+README.md
+composer.json
+composer.laravel.json
+index.php
+robots.txt

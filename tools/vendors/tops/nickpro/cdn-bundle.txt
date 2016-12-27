@@ -1,0 +1,8 @@
+DependencyInjection/
+Filemanager/
+Resources/config/
+Tests/Filemanager/
+Twig/
+NickproCdnBundle.php
+README.md
+composer.json

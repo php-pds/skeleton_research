@@ -1,0 +1,13 @@
+DependencyInjection/
+Form/Type/
+Pagerfanta/View/Template/
+Resources/
+Tests/
+Twig/
+.gitignore
+.travis.yml
+FlobFoundationBundle.php
+LICENSE.txt
+README.md
+composer.json
+phpunit.xml.dist

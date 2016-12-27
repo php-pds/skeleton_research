@@ -1,0 +1,13 @@
+bin/
+config/
+haml/
+search/
+spec/BX/
+src/BX/
+test/
+www/
+.gitignore
+LICENSE
+README.md
+composer.json
+master.zip

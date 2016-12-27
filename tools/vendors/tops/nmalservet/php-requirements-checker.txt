@@ -1,0 +1,6 @@
+.gitignore
+LICENSE
+README.md
+composer.json
+my-requirements.php
+php-requirements-checker.php

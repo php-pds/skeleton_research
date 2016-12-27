@@ -1,0 +1,9 @@
+src/HD2F/
+tests/
+.gitignore
+.hhconfig
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml

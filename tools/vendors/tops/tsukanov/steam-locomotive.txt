@@ -1,0 +1,9 @@
+src/Tsukanov/SteamLocomotive/
+tests/
+.gitignore
+.travis.yml
+CONTRIBUTING.md
+LICENSE.txt
+README.md
+composer.json
+phpunit.xml.dist

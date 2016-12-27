@@ -1,0 +1,6 @@
+src/
+test/
+.travis.yml
+README.md
+Usage.php
+composer.json

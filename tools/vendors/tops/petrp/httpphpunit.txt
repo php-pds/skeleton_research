@@ -1,0 +1,4 @@
+HttpPHPUnit/
+libs/
+tests/
+composer.json

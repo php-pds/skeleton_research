@@ -1,0 +1,5 @@
+config/
+src/SwaggerModule/
+.gitignore
+README.md
+composer.json

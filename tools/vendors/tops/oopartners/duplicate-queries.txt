@@ -1,0 +1,7 @@
+config/
+src/QueriesDuplicate/
+view/zend-developer-tools/toolbar/
+.DS_Store
+LICENSE
+README.md
+composer.json

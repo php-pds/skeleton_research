@@ -1,0 +1,10 @@
+nbproject/
+src/
+tests/
+.gitattributes
+.gitignore
+LICENSE.md
+NOTICE.md
+README.md
+composer.json
+phpunit.xml

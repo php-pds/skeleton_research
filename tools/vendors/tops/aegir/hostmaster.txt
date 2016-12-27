@@ -1,0 +1,10 @@
+.gitignore
+.travis.yml
+README.txt
+build-hostmaster.make
+composer.json
+drupal-org.make
+hostmaster.info.yml
+hostmaster.install
+hostmaster.make
+hostmaster.profile

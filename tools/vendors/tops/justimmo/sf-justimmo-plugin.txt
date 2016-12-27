@@ -1,0 +1,6 @@
+config/
+lib/
+modules/justimmo/
+web/images/
+README.md
+composer.json

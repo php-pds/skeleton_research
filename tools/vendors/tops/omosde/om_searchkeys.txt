@@ -1,0 +1,9 @@
+assets/
+config/
+languages/
+modules/
+templates/
+.gitignore
+CHANGELOG.txt
+README.md
+composer.json

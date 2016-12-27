@@ -1,0 +1,17 @@
+docs/
+examples/
+src/One/
+tests/unit/
+.coveralls.yml
+.editorconfig
+.gitattributes
+.gitignore
+.travis.yml
+CHANGELOG.md
+CODE_OF_CONDUCT.md
+CONTRIBUTING.md
+LICENSE.md
+README.md
+composer.json
+phpdoc.xml
+phpunit.xml

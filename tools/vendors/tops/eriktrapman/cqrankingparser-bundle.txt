@@ -1,0 +1,12 @@
+DataContainer/
+DependencyInjection/
+Form/
+Nationality/
+Parser/
+Resources/
+Tests/
+.gitignore
+ErikTrapmanCQRankingParserBundle.php
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,9 @@
+app/
+script/
+tests/
+.gitattributes
+.gitignore
+LICENSE.TXT
+README.md
+composer.json
+phpunit.xml

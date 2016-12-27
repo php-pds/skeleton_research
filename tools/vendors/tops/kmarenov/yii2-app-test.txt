@@ -1,0 +1,17 @@
+assets/
+bootstrap/
+config/
+controllers/
+migrations/
+models/
+runtime/
+views/
+web/
+.bowerrc
+.gitignore
+README.md
+Vagrantfile
+composer.json
+test.sql
+yii
+yii.bat

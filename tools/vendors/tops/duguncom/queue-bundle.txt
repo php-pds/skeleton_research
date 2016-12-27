@@ -1,0 +1,6 @@
+DependencyInjection/
+Queue/
+Resources/config/
+DugunQueueBundle.php
+README.md
+composer.json

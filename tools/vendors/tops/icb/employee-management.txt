@@ -1,0 +1,8 @@
+config/
+src/AppBundle/
+web/
+.env.example
+.gitignore
+AppKernel.php
+composer.json
+console

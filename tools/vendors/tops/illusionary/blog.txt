@@ -1,0 +1,15 @@
+Contract/
+Exception/
+TestStubs/Traits/
+Traits/
+spec/
+.gitignore
+Author.php
+Content.php
+Post.php
+Slug.php
+Status.php
+Title.php
+composer.json
+phpspec.yml
+schema.txt

@@ -1,0 +1,10 @@
+src/PhpGpg/
+tests/
+.gitignore
+README.md
+TODO
+composer.json
+composer.lock
+install_composer.sh
+phpunit.xml
+run_tests.sh

@@ -1,0 +1,12 @@
+doc/
+lib/SPF/SolrQueryBuilder/
+test/SPF/SolrQueryBuilder/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+README.md
+build.xml
+composer.json
+composer.lock
+phpdoc.dist.xml
+phpunit.xml.dist

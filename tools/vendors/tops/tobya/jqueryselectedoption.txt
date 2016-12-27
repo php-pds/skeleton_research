@@ -1,0 +1,7 @@
+demo/
+js/
+.gitignore
+README.md
+SelectedOption.jquery.json
+composer.json
+license.txt

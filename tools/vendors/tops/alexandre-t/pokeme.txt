@@ -1,0 +1,12 @@
+.idea/
+app/
+docs/
+src/
+web/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+appveyor.yml
+composer.json
+phpdoc.dist.xml

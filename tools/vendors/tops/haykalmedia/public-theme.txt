@@ -1,0 +1,16 @@
+assets/
+dev/
+partials/
+src/
+.bowerrc
+.gitignore
+bower.json
+composer.json
+footer.php
+functions.php
+gulpfile.js
+header.php
+index.php
+package.json
+single.php
+style.css

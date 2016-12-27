@@ -1,0 +1,3 @@
+AssetsCompressComponent.php
+README.md
+composer.json

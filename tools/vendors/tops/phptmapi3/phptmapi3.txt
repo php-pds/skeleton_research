@@ -1,0 +1,5 @@
+src/Phptmapi3/
+.gitignore
+LICENSE
+README.md
+composer.json

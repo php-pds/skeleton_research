@@ -1,0 +1,6 @@
+config/
+src/AssetsCompiler/
+LICENSE.txt
+Module.php
+README.md
+composer.json

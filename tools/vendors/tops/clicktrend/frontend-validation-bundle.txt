@@ -1,0 +1,9 @@
+Component/Validator/
+DependencyInjection/
+Form/Type/
+Resources/
+.gitignore
+ClicktrendFrontendValidationBundle.php
+README.md
+composer.json
+composer.lock

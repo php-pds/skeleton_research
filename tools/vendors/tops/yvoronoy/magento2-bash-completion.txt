@@ -1,0 +1,12 @@
+spec/Model/
+src/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+magento2-bash-completion
+magento2-bash-completion-enterprise
+modman
+phpspec.yml

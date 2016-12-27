@@ -1,0 +1,10 @@
+app/
+bin/
+src/Monotype/
+tests/Monotype/Domain/Model/
+var/
+.gitignore
+.travis.yml
+README.md
+composer.json
+phpunit.xml

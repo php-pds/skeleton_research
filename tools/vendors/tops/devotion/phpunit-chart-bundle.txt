@@ -1,0 +1,12 @@
+Controller/
+DependencyInjection/
+Entity/
+Resources/
+Service/
+.gitignore
+.travis.yml
+DevotionPHPUnitChartBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.dist.xml

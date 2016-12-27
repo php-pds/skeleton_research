@@ -1,0 +1,5 @@
+tarsys/AqlGen/
+tests/
+.gitignore
+README.md
+composer.json

@@ -1,0 +1,13 @@
+assets/jquery_validate/js/
+config/
+src/StrokerForm/
+tests/
+.editorconfig
+.gitignore
+.php_cs
+.scrutinizer.yml
+.travis.yml
+Module.php
+README.md
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,12 @@
+app/
+bin/
+images/
+javascripts/
+public/
+src/
+stylesheets/
+.gitignore
+README.md
+composer.json
+index.html
+params.json

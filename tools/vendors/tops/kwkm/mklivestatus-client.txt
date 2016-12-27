@@ -1,0 +1,12 @@
+src/Kwkm/MkLiveStatusClient/
+tests/
+.gitignore
+.scrutinizer.yml
+LICENSE
+README.md
+build.xml
+composer.json
+example.php
+phpcs.xml
+phpmd.xml
+phpunit.xml

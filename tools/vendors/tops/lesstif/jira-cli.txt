@@ -1,0 +1,8 @@
+src/
+tests/
+.env.example
+.gitignore
+README.md
+box.json
+composer.json
+jira-cli

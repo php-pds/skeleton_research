@@ -1,0 +1,5 @@
+examples/
+src/PHPReport/
+.gitignore
+README.md
+composer.json

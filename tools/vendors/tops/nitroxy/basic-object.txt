@@ -1,0 +1,11 @@
+examples/user_access/
+tests/
+.gitignore
+.travis.yml
+BasicObject.php
+IBasicObjectMemCache.php
+README.md
+ValidatingBasicObject.php
+composer.json
+composer.lock
+licence

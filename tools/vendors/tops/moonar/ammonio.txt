@@ -1,0 +1,14 @@
+lib/
+script/
+src/Ammonio/
+templates/
+tests/Ammonio/
+.gitignore
+.travis.yml
+CHANGELOG.md
+Dockerfile
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

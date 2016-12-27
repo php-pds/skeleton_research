@@ -1,0 +1,7 @@
+fonts/
+.gitignore
+CaptchaAction.php
+LICENSE
+README.md
+composer.json
+mathpublisher.php

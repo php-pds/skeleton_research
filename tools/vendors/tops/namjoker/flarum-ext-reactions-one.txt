@@ -1,0 +1,10 @@
+js/
+less/
+migrations/
+scripts/
+src/
+.editorconfig
+LICENSE
+README.md
+bootstrap.php
+composer.json

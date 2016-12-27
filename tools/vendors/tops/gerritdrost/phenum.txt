@@ -1,0 +1,11 @@
+docs/
+src/GerritDrost/Lib/Enum/
+tests/GerritDrost/Lib/Enum/
+.coveralls.yml
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml

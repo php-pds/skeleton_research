@@ -1,0 +1,9 @@
+examples/
+gameq/
+tests/
+.gitignore
+CHANGELOG.md
+GameQ.php
+LICENSE
+README.md
+composer.json

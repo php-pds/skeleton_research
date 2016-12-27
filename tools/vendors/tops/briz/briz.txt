@@ -1,0 +1,9 @@
+Briz/
+MyApp/
+config/
+tests/
+www/
+.gitignore
+LICENCE
+README.MD
+composer.json

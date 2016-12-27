@@ -1,0 +1,11 @@
+assets/
+collections/
+helpers/
+modules/
+widgets/
+Elements.php
+InputWidget.php
+LICENSE
+Widget.php
+composer.json
+readme.md

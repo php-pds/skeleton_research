@@ -1,0 +1,15 @@
+Menu/
+Message/
+OAuth/
+Pay/
+Payment/
+Platform/
+Util/
+AccessToken.php
+Jssdk.php
+LICENSE
+README.md
+ServerIp.php
+Ticket.php
+Wechat.php
+composer.json

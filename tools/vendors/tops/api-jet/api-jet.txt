@@ -1,0 +1,6 @@
+APIJet/
+resources/
+.gitignore
+LICENSE
+README.md
+composer.json

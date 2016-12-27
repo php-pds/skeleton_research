@@ -1,0 +1,9 @@
+Command/
+Controller/
+DependencyInjection/
+Resources/
+Tests/Controller/
+.gitignore
+FrchoBackupManagerBundle.php
+README.md
+composer.json

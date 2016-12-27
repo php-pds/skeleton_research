@@ -1,0 +1,6 @@
+doc/
+nbproject/
+src/HelloPrinter/
+vendor/
+LICENSE
+composer.json

@@ -1,0 +1,16 @@
+dist/
+doc/
+src/
+test/
+.gitignore
+.travis.yml
+CHANGELOG.md
+CONTRIBUTING.md
+Gruntfile.js
+LICENSE
+README.md
+UPGRADE-2.0.md
+bower.json
+composer.json
+index.html
+package.json

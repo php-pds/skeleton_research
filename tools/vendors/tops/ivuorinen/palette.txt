@@ -1,0 +1,5 @@
+example/
+src/ivuorinen/Palette/
+.gitignore
+README.md
+composer.json

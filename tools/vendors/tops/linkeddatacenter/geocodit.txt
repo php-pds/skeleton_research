@@ -1,0 +1,17 @@
+config/
+library/Geocodit/
+ontology/
+test/_support/
+web/
+.gitignore
+.project
+.scrutinizer.yml
+.travis.yml
+CHANGELOG.md
+CONTRIBUTING.md
+LICENSE
+README.md
+Vagrantfile
+composer.json
+composer.lock
+phpunit.xml.dist

@@ -1,0 +1,7 @@
+_config/
+code/
+lang/
+templates/email/
+README.md
+_config.php
+composer.json

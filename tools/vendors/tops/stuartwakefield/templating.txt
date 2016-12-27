@@ -1,0 +1,10 @@
+src/Templating/
+test/
+.gitignore
+.travis.yml
+CHANGES
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml

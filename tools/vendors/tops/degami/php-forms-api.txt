@@ -1,0 +1,10 @@
+.idea/
+examples/
+src/
+.gitignore
+.htaccess
+LICENSE.txt
+README.md
+bower.json
+composer.json
+docs.tgz

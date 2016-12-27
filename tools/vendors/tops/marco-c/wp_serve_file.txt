@@ -1,0 +1,4 @@
+LICENSE
+README.md
+WP_Serve_File.php
+composer.json

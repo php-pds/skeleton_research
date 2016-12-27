@@ -1,0 +1,9 @@
+assets/
+controllers/
+migrations/
+models/
+views/default/
+Module.php
+ModuleAsset.php
+README.md
+composer.json

@@ -1,0 +1,17 @@
+Command/
+DependencyInjection/
+Exception/
+Factory/
+Registry/
+Resources/config/
+Security/Authentication/
+Tests/
+User/
+.gitignore
+.scrutinizer.yml
+ApplicationFinder.php
+LICENSE
+README.md
+RedeyeStormpathBundle.php
+composer.json
+phpunit.xml.dist

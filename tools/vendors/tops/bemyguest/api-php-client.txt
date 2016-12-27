@@ -1,0 +1,6 @@
+spec/integration/
+src/
+.gitignore
+LICENSE
+README.md
+composer.json

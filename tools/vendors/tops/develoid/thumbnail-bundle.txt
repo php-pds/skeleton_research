@@ -1,0 +1,9 @@
+DependencyInjection/
+Manager/
+Resources/
+Twig/
+.gitignore
+DeveloidThumbnailBundle.php
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,9 @@
+doc/
+examples/
+frameworks/ci/
+lib/
+tests/
+.DS_Store
+LICENSE
+README.md
+composer.json

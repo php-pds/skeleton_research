@@ -1,0 +1,5 @@
+src/Hello/
+tests/
+vendor/
+README.md
+composer.json

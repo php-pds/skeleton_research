@@ -1,0 +1,11 @@
+attic/
+src/Guard/
+.coveralls.yml
+.gitignore
+.travis.yml
+LICENSE.AGPL-3.0
+Makefile
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

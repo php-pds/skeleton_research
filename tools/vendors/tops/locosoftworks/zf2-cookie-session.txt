@@ -1,0 +1,7 @@
+src/Loco/
+tests/LocoTest/Session/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock

@@ -1,0 +1,5 @@
+src/Sendgrid/
+.gitignore
+README
+README.md
+composer.json

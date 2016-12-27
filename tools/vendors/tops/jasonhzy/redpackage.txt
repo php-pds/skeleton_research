@@ -1,0 +1,5 @@
+.gitignore
+RedCashAPI.php
+composer.json
+index.php
+redcash.sql

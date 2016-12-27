@@ -1,0 +1,7 @@
+examples/
+lib/SproutVideo/
+.gitignore
+LICENSE.txt
+README.md
+composer.json
+test.php

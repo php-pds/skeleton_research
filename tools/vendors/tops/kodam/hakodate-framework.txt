@@ -1,0 +1,12 @@
+config/
+module/
+setup/
+.htaccess
+README.md
+composer.json
+inc_add_conf.php
+inc_add_form.php
+inc_index.php
+inc_sample.php
+inc_setup_form.php
+index.php

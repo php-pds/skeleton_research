@@ -1,0 +1,11 @@
+build/
+examples/
+tests/
+.gitignore
+LICENSE
+README.md
+XmlDecoratorInterface.php
+XmlRepeater.php
+XmlResponse.php
+build.xml
+composer.json

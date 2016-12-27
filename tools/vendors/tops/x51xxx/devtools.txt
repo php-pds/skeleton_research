@@ -1,0 +1,15 @@
+docs/
+ide/
+resources/
+scripts/Phalcon/
+templates/
+.gitignore
+README.md
+composer.json
+package.xml
+phalcon-completion.bash
+phalcon.bat
+phalcon.pear
+phalcon.php
+phalcon.sh
+webtools.php

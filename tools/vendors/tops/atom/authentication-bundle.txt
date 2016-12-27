@@ -1,0 +1,14 @@
+DependencyInjection/
+Entity/
+EventListener/
+Factory/
+Firewall/
+Provider/
+Resources/
+Security/
+Tests/
+Token/
+AtomAuthenticationBundle.php
+LICENSE
+README.md
+composer.json

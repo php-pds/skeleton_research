@@ -1,0 +1,6 @@
+Orukusaki/Bundle/SlackBundle/
+spec/Orukusaki/Bundle/SlackBundle/
+.gitignore
+.travis.yml
+README.md
+composer.json

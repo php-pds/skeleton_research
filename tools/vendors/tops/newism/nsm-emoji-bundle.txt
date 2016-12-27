@@ -1,0 +1,8 @@
+DependencyInjection/
+Helper/
+Parser/
+Resources/
+Twig/Extension/
+NSMEmojiBundle.php
+README.md
+composer.json

@@ -1,0 +1,12 @@
+actions/
+assets/
+helpers/
+models/
+CKEditor.php
+CKEditorAsset.php
+CKEditorInline.php
+CKEditorTrait.php
+CKEditorWidgetAsset.php
+LICENSE
+README.md
+composer.json

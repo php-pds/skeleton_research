@@ -1,0 +1,11 @@
+config/
+modules/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist
+upmembership.info.yml
+upmembership.install
+upmembership.profile

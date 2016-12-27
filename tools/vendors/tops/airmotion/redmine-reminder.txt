@@ -1,0 +1,7 @@
+src/Airmotion/RedmineReminder/
+.gitignore
+LICENSE
+README.md
+composer.json
+config.yml.dist
+redmine-reminder

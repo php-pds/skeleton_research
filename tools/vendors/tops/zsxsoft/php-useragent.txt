@@ -1,0 +1,9 @@
+img/
+lib/
+tests/
+.gitignore
+.travis.yml
+composer.json
+readme.md
+test-my-useragent.php
+useragent.class.php

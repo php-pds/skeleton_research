@@ -1,0 +1,10 @@
+sources/
+tests/
+.travis.yml
+bootstrap.php
+composer.json
+license
+notice
+phpunit.xml
+readme.md
+todo.md

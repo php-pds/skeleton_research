@@ -1,0 +1,7 @@
+src/Spl/
+tests/Spl/
+.gitignore
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

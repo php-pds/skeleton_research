@@ -1,0 +1,6 @@
+lib/Sata/PhpThumb/
+test/
+.gitignore
+README.md
+composer.json
+index.php

@@ -1,0 +1,13 @@
+Annotation/
+DependencyInjection/
+EventListener/
+Resources/config/
+Tests/
+Validator/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+SkowronlineQueryParamValidatorBundle.php
+composer.json
+phpunit.xml.dist

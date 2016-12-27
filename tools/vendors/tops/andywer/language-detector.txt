@@ -1,0 +1,10 @@
+example/
+lib/LanguageDetector/
+tests/
+.gitignore
+.travis.yml
+README.md
+composer.json
+create-language-detector
+detect-language
+phpunit.xml

@@ -1,0 +1,8 @@
+src/
+.gitignore
+Gruntfile.js
+LICENSE
+README.md
+composer.json
+config.yml
+package.json

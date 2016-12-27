@@ -1,0 +1,7 @@
+Assetic/Filter/
+DependencyInjection/
+Resources/
+JavaScriptPackerBundle.php
+LICENSE.txt
+README.md
+composer.json

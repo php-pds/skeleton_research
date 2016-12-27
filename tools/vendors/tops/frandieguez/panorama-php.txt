@@ -1,0 +1,14 @@
+build/
+doc/
+examples/
+features/
+lib/Panorama/
+.gitignore
+.travis.yml
+MIT-LICENSE
+README.markdown
+TODO.markdown
+build.xml
+composer.json
+composer.lock
+run-test.sh

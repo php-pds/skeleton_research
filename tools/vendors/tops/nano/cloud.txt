@@ -1,0 +1,15 @@
+.idea/
+src/Nano/
+tests/
+.gitattributes
+.gitignore
+CHANGELOG.md
+CONTRIBUTING.md
+LICENSE.md
+README.md
+RoboFile.php
+composer.json
+composer.lock
+nano.rocks
+phpunit.xml.dist
+test.php

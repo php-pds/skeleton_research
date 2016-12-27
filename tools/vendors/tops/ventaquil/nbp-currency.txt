@@ -1,0 +1,10 @@
+src/
+tests/
+.codeclimate.yml
+.gitignore
+.scrutinizer.yml
+LICENSE
+composer.json
+composer.lock
+demo.php
+phpunit.xml

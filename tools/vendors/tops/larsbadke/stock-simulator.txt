@@ -1,0 +1,7 @@
+src/Simulator/
+test/Simulator/
+.gitignore
+CHANGELOG.md
+LICENSE
+composer.json
+readme.md

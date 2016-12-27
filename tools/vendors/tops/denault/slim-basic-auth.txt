@@ -1,0 +1,11 @@
+src/Slim/Middleware/
+test/
+.editorconfig
+.gitignore
+.jshintrc
+.travis.yml
+Gruntfile.js
+LICENSE.txt
+README.md
+composer.json
+package.json

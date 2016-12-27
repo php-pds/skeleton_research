@@ -1,0 +1,3 @@
+src/MyLittle/Flurry/
+README.md
+composer.json

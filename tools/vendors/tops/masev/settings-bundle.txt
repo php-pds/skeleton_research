@@ -1,0 +1,12 @@
+Dal/
+DependencyInjection/
+Model/
+Parser/
+Resources/
+Twig/
+ezpublish_legacy/masev_settings/
+.gitignore
+MasevSettingsBundle.php
+README.md
+composer.json
+ui.png

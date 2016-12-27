@@ -1,0 +1,5 @@
+app/code/Rcore/Test/
+.gitignore
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,8 @@
+src/slim3-annotation/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml

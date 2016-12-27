@@ -1,0 +1,10 @@
+doc/
+src/
+test/
+vendor/
+.gitignore
+LICENSE
+Project.KWI
+README.textile
+composer.json
+config

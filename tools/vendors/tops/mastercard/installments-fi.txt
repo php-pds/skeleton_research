@@ -1,0 +1,6 @@
+MasterCard/Api/InstallmentsFi/
+.gitignore
+README.md
+composer.json
+mastercard-installments-fi-0.0.2.zip
+phpunit.xml

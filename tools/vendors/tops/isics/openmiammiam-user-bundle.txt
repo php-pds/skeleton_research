@@ -1,0 +1,13 @@
+Command/
+Controller/
+DataFixtures/ORM/
+DependencyInjection/
+Entity/
+EventListener/
+Form/Type/
+Manager/
+Resources/
+Twig/
+IsicsOpenMiamMiamUserBundle.php
+README.md
+composer.json

@@ -1,0 +1,10 @@
+Controller/
+DependencyInjection/
+EventListener/
+Resources/
+Tests/Controller/
+.gitignore
+LICENSE
+README.md
+XgcLocaleBundle.php
+composer.json

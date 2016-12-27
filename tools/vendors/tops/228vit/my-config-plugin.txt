@@ -1,0 +1,8 @@
+config/
+lib/
+modules/myConfigAdmin/
+LICENSE
+README
+VERSION
+composer.json
+package.xml.tmpl

@@ -1,0 +1,11 @@
+lib/
+tests/
+.gitignore
+ACKNOWLEDGEMENTS.md
+CHANGELOG.md
+LICENSE
+README.md
+Rakefile
+ci.sh
+composer.json
+phpunit.xml.dist

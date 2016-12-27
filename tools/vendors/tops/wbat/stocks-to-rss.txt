@@ -1,0 +1,6 @@
+src/StockstoRSS/
+tests/
+LICENSE
+README.md
+composer.json
+index.php

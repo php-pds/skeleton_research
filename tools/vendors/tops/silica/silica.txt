@@ -1,0 +1,5 @@
+src/Silica/
+.gitignore
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,17 @@
+src/
+tests/Middleware/
+.editorconfig
+.gitattributes
+.gitignore
+.scrutinizer.yml
+.travis.yml
+AllocationPromise.php
+CONTRIBUTING.md
+LICENSE
+Makefile
+README.md
+appveyor.yml
+composer.json
+composer.lock
+humbug.json.dist
+phpunit.xml.dist

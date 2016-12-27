@@ -1,0 +1,8 @@
+src/
+tests/
+.gitignore
+Vagrantfile
+composer.json
+composer.lock
+license.txt
+readme.md

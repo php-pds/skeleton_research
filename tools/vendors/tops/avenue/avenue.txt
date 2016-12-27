@@ -1,0 +1,17 @@
+app/
+assets/
+config/
+i18n/
+logs/
+src/
+tests/
+.gitignore
+.htaccess
+.travis.yml
+Gruntfile.js
+LICENSE
+README.md
+composer.json
+index.php
+package.json
+phpunit.xml.dist

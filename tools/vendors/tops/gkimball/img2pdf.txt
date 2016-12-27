@@ -1,0 +1,7 @@
+.idea/
+images/
+vendor/
+composer.json
+composer.lock
+display.php
+index.php

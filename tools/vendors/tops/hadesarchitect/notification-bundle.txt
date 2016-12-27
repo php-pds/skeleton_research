@@ -1,0 +1,14 @@
+Channel/
+DependencyInjection/
+Exception/
+Handler/
+Notification/
+Resources/
+Tests/
+.gitignore
+.travis.yml
+HadesArchitectNotificationBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

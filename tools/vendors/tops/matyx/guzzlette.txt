@@ -1,0 +1,6 @@
+docs/
+src/Matyx/Guzzlette/
+.gitignore
+LICENSE
+README.md
+composer.json

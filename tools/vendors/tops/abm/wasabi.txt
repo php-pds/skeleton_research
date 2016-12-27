@@ -1,0 +1,11 @@
+src/
+tests/
+.atoum.php
+.codeclimate.yml
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+index.php
+phpunit.xml

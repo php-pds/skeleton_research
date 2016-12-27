@@ -1,0 +1,10 @@
+config/
+servers/
+src/JSONDB/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,10 @@
+scripts/
+src/
+.gitattributes
+.gitignore
+LICENSE
+Vagrantfile
+composer.json
+composer.lock
+init.sh
+sweethome

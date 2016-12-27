@@ -1,0 +1,7 @@
+lib/
+spec/Esputnik/Api/
+.gitignore
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

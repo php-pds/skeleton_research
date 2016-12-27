@@ -1,0 +1,6 @@
+tests/unit/
+.gitignore
+DynamicModel.php
+README.md
+README.ru.md
+composer.json

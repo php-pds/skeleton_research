@@ -1,0 +1,10 @@
+.idea/
+src/
+.gitignore
+LICENSE
+README.md
+bootstrap-app
+bootstrap_app_zipper.sh
+composer.json
+composer.lock
+laravelzipper.sh

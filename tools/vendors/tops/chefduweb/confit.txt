@@ -1,0 +1,15 @@
+assets/css/
+sass/
+scripts/
+templates/
+.bowerrc
+.gitignore
+Gruntfile.js
+README.md
+bower.json
+composer.json
+functions.php
+index.php
+license.txt
+package.json
+style.css

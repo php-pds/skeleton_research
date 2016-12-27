@@ -1,0 +1,3 @@
+HezeInstaller.php
+HezePlugin.php
+composer.json

@@ -1,0 +1,6 @@
+assets/js/
+.gitignore
+AmChartAsset.php
+README.md
+Widget.php
+composer.json

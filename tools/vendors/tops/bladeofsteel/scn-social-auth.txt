@@ -1,0 +1,14 @@
+config/
+data/
+src/ScnSocialAuth/
+test/
+view/scn-social-auth/user/
+.gitignore
+.php_cs
+.travis.yml
+Module.php
+README.md
+autoload_classmap.php
+autoload_function.php
+autoload_register.php
+composer.json

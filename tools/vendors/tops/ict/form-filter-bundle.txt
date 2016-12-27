@@ -1,0 +1,12 @@
+Adapter/
+Comparission/
+Data/
+DependencyInjection/
+Event/
+Manager/
+Resources/config/
+Tests/Controller/
+Type/
+.gitignore
+EasyFormFilterBundle.php
+README.md

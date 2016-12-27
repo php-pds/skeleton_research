@@ -1,0 +1,9 @@
+docs/
+lib/Beanstalk/
+tests/UnitTests/BeanstalkTests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml

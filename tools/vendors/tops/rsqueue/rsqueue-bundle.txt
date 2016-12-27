@@ -1,0 +1,15 @@
+Collector/
+DependencyInjection/
+Resources/
+Tests/DependencyInjection/
+travis/
+.formatter.yml
+.gitignore
+.php_cs
+.travis.yml
+CONTRIBUTING.md
+LICENSE
+README.md
+RSQueueBundle.php
+composer.json
+phpunit.xml.dist

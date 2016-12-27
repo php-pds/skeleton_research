@@ -1,0 +1,16 @@
+config/
+fonts/
+images/
+2dbarcodes.php
+barcodes.php
+composer.json
+form_data.php
+htmlcolors.php
+pdf.php
+pdf417.php
+qrcode.php
+tcpdf.crt
+tcpdf.fdf
+tcpdf.p12
+tcpdf.php
+unicode_data.php

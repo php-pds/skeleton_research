@@ -1,0 +1,4 @@
+src/Xenzilla/
+LICENSE
+README
+composer.json

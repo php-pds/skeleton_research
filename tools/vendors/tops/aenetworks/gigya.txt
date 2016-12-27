@@ -1,0 +1,5 @@
+.gitignore
+GSSDK.php
+README.md
+cacert.pem
+composer.json

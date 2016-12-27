@@ -1,0 +1,8 @@
+artist/
+modules/
+.gitignore
+LICENSE
+artist.php
+composer.json
+composer.lock
+startup.php

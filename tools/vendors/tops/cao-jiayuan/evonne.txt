@@ -1,0 +1,5 @@
+src/Evonne/
+.gitignore
+LICENSE
+README.md
+composer.json

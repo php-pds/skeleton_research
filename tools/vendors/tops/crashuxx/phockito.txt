@@ -1,0 +1,8 @@
+src/
+tests/Phockito/
+.gitignore
+.travis.yml
+README.md
+composer.json
+dynamicReturnTypeMeta.json
+phpunit.xml

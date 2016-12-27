@@ -1,0 +1,6 @@
+assets/phpfreechat/
+CHANGE.md
+LICENSE.md
+PHPFreeChat.php
+README.md
+composer.json

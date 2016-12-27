@@ -1,0 +1,7 @@
+src/Reshi/
+tests/
+vendor/
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

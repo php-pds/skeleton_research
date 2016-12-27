@@ -1,0 +1,6 @@
+lib/Nagios/Livestatus/
+test/
+.gitignore
+README.md
+composer.json
+phpunit.xml

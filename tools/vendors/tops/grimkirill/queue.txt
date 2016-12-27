@@ -1,0 +1,3 @@
+src/Queue/QueueBundle/
+README.md
+composer.json

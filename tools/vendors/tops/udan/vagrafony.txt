@@ -1,0 +1,8 @@
+DependencyInjection/
+Resources/config/
+Tests/
+.travis.yml
+README.md
+VagrafonyBundle.php
+composer.json
+phpunit.xml.dist

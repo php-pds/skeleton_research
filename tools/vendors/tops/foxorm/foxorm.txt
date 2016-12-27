@@ -1,0 +1,8 @@
+dist/
+src/
+.gitattributes
+.gitignore
+build-dist
+composer.json
+license.txt
+readme.md

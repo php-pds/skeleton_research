@@ -1,0 +1,15 @@
+docs/nginx/
+engine/
+imperium/web/
+panel/web/
+quetzal/
+tests/
+.coveralls.yml
+.gitattributes
+.gitignore
+.travis.yml
+LICENCE
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

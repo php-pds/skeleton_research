@@ -1,0 +1,15 @@
+Controller/Showcase/
+DependencyInjection/
+DoYouBuzz/
+Model/
+Resources/config/
+Showcase/
+Tests/
+.gitignore
+.travis.yml
+DYBApiBundle.php
+DYBApiBundle.php.fix-case
+DybApiBundle.php
+README.md
+composer.json
+phpunit.xml.dist

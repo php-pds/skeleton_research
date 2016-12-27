@@ -1,0 +1,8 @@
+assets/
+vendor/
+README.md
+Ueditor.php
+UeditorAction.php
+Uploader.php
+composer.json
+config.php

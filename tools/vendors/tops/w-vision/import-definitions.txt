@@ -1,0 +1,12 @@
+controllers/Admin/
+docs/
+lib/
+static/
+.gitignore
+.jscsrc
+.php_cs
+LICENSE.md
+README.md
+composer.json
+gpl-3.0.txt
+plugin.xml

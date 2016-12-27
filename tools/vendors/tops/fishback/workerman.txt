@@ -1,0 +1,10 @@
+Connection/
+Events/
+Lib/
+Protocols/
+Autoloader.php
+MIT-LICENSE.txt
+README.md
+WebServer.php
+Worker.php
+composer.json

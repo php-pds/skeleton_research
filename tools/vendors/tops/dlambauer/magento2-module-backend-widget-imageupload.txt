@@ -1,0 +1,8 @@
+Block/Adminhtml/Widget/
+doc/images/
+etc/
+.gitignore
+LICENSE
+README.md
+composer.json
+registration.php

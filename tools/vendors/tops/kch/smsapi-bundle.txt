@@ -1,0 +1,7 @@
+DependencyInjection/
+Resources/config/
+.gitignore
+KCHSmsApiBundle.php
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,10 @@
+.gitignore
+.scrutinizer.yml
+.travis.yml
+Checker.php
+Dockerfile
+LICENSE
+README.md
+composer.json
+ipaddress.ini
+wrapper.php

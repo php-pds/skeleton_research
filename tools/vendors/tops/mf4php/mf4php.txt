@@ -1,0 +1,9 @@
+build/
+src/mf4php/
+tests/
+.gitignore
+README.md
+build.xml
+composer.json
+phpdox.xml.dist
+phpunit.xml.dist

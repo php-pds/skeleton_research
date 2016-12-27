@@ -1,0 +1,4 @@
+src/denisristic/WordServiceProvider/
+LICENSE
+README.md
+composer.json

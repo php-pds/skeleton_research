@@ -1,0 +1,6 @@
+CHANGELOG.md
+CONDUCT.md
+EnableJavascript.php
+LICENSE
+README.md
+composer.json

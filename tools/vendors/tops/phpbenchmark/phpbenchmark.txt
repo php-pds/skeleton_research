@@ -1,0 +1,7 @@
+lib/PHPBenchmark/
+test/
+DOCS.md
+README.md
+composer.json
+init.php
+phpunit.xml

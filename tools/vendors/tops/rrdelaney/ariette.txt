@@ -1,0 +1,13 @@
+ariette/
+core/
+docs/
+examples/
+it/
+scripts/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+mkdocs.yml

@@ -1,0 +1,5 @@
+DependencyInjection/
+EventListener/
+Resources/config/
+WassaCacheInvalidationBundle.php
+composer.json

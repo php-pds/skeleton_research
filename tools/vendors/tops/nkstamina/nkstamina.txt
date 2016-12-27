@@ -1,0 +1,9 @@
+app/
+bin/
+extensions/
+themes/
+web/
+.gitignore
+LICENSE
+README.md
+composer.json

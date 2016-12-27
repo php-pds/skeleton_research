@@ -1,0 +1,7 @@
+src/Aseo/Api/
+tests/
+.gitignore
+License.md
+Readme.md
+composer.json
+composer.lock

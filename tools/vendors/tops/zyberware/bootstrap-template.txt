@@ -1,0 +1,6 @@
+lib/ZyberWare/
+.gitignore
+LICENSE
+README.md
+composer.json
+phpdoc.dist.xml

@@ -1,0 +1,5 @@
+.gitignore
+README.md
+autoloader.php
+composer.json
+interceptor.php

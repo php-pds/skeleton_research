@@ -1,0 +1,6 @@
+icons/
+lib/
+.gitattributes
+LICENSE.md
+README.md
+composer.json

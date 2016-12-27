@@ -1,0 +1,14 @@
+assets/
+views/
+widgets/
+AppAsset.php
+FlotAsset.php
+FlotSplineAsset.php
+FlotTooltipAsset.php
+FontawesomeAsset.php
+MomentjsAsset.php
+README.md
+SparklineAsset.php
+TimeagoAsset.php
+composer.json
+ionRangeSliderAsset.php

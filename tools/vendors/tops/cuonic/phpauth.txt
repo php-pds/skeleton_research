@@ -1,0 +1,10 @@
+languages/
+src/
+templates/
+tests/
+.gitignore
+.travis.yml
+README.md
+composer.json
+phpauth_db.sql
+phpunit.xml

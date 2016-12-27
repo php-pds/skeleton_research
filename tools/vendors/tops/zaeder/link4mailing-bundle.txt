@@ -1,0 +1,10 @@
+Controller/
+DependencyInjection/
+Entity/
+Interfaces/
+Resources/config/
+Service/
+.gitignore
+README.md
+ZaederLink4mailingBundle.php
+composer.json

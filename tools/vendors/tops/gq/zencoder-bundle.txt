@@ -1,0 +1,6 @@
+DependencyInjection/
+Resources/config/
+.gitignore
+README.md
+ZencoderBundle.php
+composer.json

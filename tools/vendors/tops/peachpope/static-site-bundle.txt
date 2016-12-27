@@ -1,0 +1,3 @@
+src/PeacHPope/Web/StaticSiteBundle/
+README.md
+composer.json

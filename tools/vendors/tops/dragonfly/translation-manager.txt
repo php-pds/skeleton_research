@@ -1,0 +1,16 @@
+config/
+migrations/
+resources/
+routes/
+src/
+.gitignore
+.styleci.yml
+CHANGELOG.md
+CONDUCT.md
+CONTRIBUTING.md
+ISSUE_TEMPLATE.md
+LICENSE
+LICENSE.md
+PULL_REQUEST_TEMPLATE.md
+README.md
+composer.json

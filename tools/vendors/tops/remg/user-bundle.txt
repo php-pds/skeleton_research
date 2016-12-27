@@ -1,0 +1,13 @@
+Controller/Admin/
+DataFixtures/ORM/
+DependencyInjection/
+Entity/
+EventListener/
+Form/
+Menu/
+Resources/
+Tests/Controller/
+.gitattributes
+.gitignore
+RemgUserBundle.php
+composer.json

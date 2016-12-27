@@ -1,0 +1,12 @@
+src/wormling/phparia/
+.coveralls.yml
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+UPGRADE-2.0.md
+UPGRADE-3.0.md
+composer.json
+phpunit.xml
+phpunit_bootstrap.php

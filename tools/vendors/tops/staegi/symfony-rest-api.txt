@@ -1,0 +1,12 @@
+app/
+bin/
+src/
+tests/AppBundle/
+var/
+web/
+.gitignore
+.htaccess
+README.md
+composer.json
+contributors.txt
+phpunit.xml.dist

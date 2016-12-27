@@ -1,0 +1,10 @@
+data/
+src/
+tests/units/Sohapi/
+.atoum.php
+.bootstrap.php
+.gitignore
+.sohapi.php
+Makefile
+README.md
+composer.json

@@ -1,0 +1,10 @@
+DependencyInjection/
+EventListener/
+Lib/
+MDetect/
+Resources/
+Tests/Controller/
+Twig/
+README.md
+TeckHouseMDetectBundle.php
+composer.json

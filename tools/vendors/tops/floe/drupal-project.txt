@@ -1,0 +1,16 @@
+.mariadb/
+bin/
+console/
+drush/
+scripts/composer/
+web/
+.env.dist
+.envrc
+.gitignore
+.travis.yml
+Dockerfile-php-cli
+LICENSE
+README.md
+composer.json
+docker-compose.yml
+phpunit.xml.dist

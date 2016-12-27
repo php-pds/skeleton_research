@@ -1,0 +1,13 @@
+DependencyInjection/
+Entity/
+Exception/
+Resources/config/
+Service/
+Tests/
+.gitignore
+.travis.yml
+ICBaseMailBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,13 @@
+.cache/
+.settings/
+app/
+.buildpath
+.gitignore
+.gitmodules
+.project
+.scrutinizer.yml
+.travis.yml
+README.md
+composer.json
+licence.md
+phpunit.xml.dist

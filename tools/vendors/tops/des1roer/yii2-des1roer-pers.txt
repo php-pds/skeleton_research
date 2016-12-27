@@ -1,0 +1,5 @@
+myshop/
+nbproject/
+AutoloadExample.php
+README.md
+composer.json

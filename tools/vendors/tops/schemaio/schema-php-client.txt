@@ -1,0 +1,7 @@
+data/
+lib/
+tests/
+LICENSE
+README.md
+VERSION
+composer.json

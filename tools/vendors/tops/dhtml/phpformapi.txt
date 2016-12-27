@@ -1,0 +1,8 @@
+examples/
+lib/
+output/
+.gitattributes
+.gitignore
+LICENSE
+ReadMe.md
+composer.json

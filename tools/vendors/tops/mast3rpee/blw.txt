@@ -1,0 +1,16 @@
+app/
+build/
+config/
+doc/
+misc/
+src/
+temp/
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE.md
+README.md
+composer.json
+phpdoc.dist.xml
+phpunit.xml.dist

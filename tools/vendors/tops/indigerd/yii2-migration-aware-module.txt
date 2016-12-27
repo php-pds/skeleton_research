@@ -1,0 +1,7 @@
+controllers/
+LICENSE.md
+MigrationAwareInterface.php
+MigrationAwareModule.php
+MigrationAwareTrait.php
+README.md
+composer.json

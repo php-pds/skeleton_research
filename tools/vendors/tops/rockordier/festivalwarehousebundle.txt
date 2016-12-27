@@ -1,0 +1,12 @@
+Controller/
+DependencyInjection/
+Entity/
+Form/
+Migrations/Schema/v1_0/
+Resources/
+.gitignore
+.travis.yml
+FestivalWarehouseBundle.php
+README.md
+composer.json
+travis.php.ini

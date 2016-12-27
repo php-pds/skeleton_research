@@ -1,0 +1,8 @@
+dist/
+src/
+.gitignore
+CHANGELOG.md
+LICENSE
+README.md
+VERSION.txt
+composer.json

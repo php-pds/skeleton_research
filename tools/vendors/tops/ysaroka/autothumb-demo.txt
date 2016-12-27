@@ -1,0 +1,9 @@
+images/
+.gitignore
+.htaccess
+LICENSE
+README.md
+autothumb.config.php
+autothumb.process.php
+composer.json
+index.php

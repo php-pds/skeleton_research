@@ -1,0 +1,12 @@
+docs/
+src/XPDF/
+tests/
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+buildAPI.sh
+composer.json
+composer.lock
+phpunit.xml.dist

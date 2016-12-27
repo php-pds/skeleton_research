@@ -1,0 +1,4 @@
+src/loganyott/Composer/
+.gitignore
+Vagrantfile
+composer.json

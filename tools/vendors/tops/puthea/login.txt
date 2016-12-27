@@ -1,0 +1,10 @@
+Classes/WE/Quiz/
+Configuration/
+Resources/Private/
+Tests/Unit/Domain/Model/
+.gitignore
+Gruntfile.js
+bower.json
+composer.json
+config.rb
+package.json

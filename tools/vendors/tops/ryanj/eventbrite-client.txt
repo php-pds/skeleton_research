@@ -1,0 +1,7 @@
+examples/
+.gitignore
+Eventbrite.php
+LICENSE
+OAUTH2-README.md
+README.md
+composer.json

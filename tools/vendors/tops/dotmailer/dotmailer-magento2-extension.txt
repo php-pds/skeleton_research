@@ -1,0 +1,17 @@
+Block/
+Controller/
+Helper/
+Model/
+Observer/
+Plugin/
+Setup/
+Test/Integration/Rules/
+etc/
+view/
+.gitignore
+.travis.yml
+LICENSE.md
+README.md
+composer.json
+phpunit_config.xml
+registration.php

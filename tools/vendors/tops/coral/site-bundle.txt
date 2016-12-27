@@ -1,0 +1,16 @@
+Content/
+Controller/
+DependencyInjection/
+Exception/
+Resources/
+Service/
+Tests/
+Twig/
+Utility/
+.gitignore
+.travis.yml
+CoralSiteBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

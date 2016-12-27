@@ -1,0 +1,8 @@
+Command/
+DependencyInjection/
+Generator/
+Helper/
+Resources/
+LephareAdminGeneratorBundle.php
+README.md
+composer.json

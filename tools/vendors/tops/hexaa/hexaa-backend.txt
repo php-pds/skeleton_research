@@ -1,0 +1,13 @@
+app/
+doc/
+src/
+web/
+.directory
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+create_config.sh
+post-update.sh

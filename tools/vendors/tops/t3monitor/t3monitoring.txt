@@ -1,0 +1,15 @@
+Classes/
+Configuration/
+Resources/
+Tests/Unit/
+.php_cs
+.travis.yml
+LICENSE
+README.rst
+composer.json
+ext_conf_template.txt
+ext_emconf.php
+ext_icon.svg
+ext_localconf.php
+ext_tables.php
+ext_tables.sql

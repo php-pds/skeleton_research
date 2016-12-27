@@ -1,0 +1,14 @@
+_repo_assets/
+assets/
+includes/
+lang/
+.gitignore
+Gruntfile.js
+LICENSE
+README.md
+composer.json
+featured-image-sharpen-up.php
+index.php
+package.json
+readme.txt
+uninstall.php

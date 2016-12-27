@@ -1,0 +1,8 @@
+src/Diabloheroes/D3api/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml

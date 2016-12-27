@@ -1,0 +1,11 @@
+DataFixtures/ORM/
+DependencyInjection/
+Payum/Przelewy24/
+Resources/config/
+Tests/
+.gitignore
+LICENSE
+README.md
+SyliusPrzelewy24Bundle.php
+composer.json
+phpunit.xml

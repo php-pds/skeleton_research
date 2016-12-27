@@ -1,0 +1,6 @@
+src/Phongdatgl/Smarty/
+tests/
+.gitmodules
+README.md
+composer.json
+composer.lock

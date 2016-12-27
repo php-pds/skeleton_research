@@ -1,0 +1,14 @@
+config/
+resources/
+src/QueueManager/
+tests/
+.gitignore
+.travis.yml
+LICENSE.md
+README.md
+build.xml
+composer.json
+composer.lock
+composer.phar
+humbug.json.dist
+phpunit.xml

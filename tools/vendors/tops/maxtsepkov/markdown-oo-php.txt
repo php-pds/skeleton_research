@@ -1,0 +1,6 @@
+bin/
+src/
+tests/
+.gitmodules
+README.md
+composer.json

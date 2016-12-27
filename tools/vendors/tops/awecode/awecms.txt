@@ -1,0 +1,14 @@
+assets/
+protected/
+themes/
+uploads/
+.gitignore
+.htaccess
+Aweapp.php
+README.md
+composer.json
+configure
+index.php
+robots.txt
+yiic
+yiic.php

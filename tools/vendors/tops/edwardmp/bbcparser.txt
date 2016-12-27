@@ -1,0 +1,7 @@
+src/BBCParser/
+tests/BBCParser/
+vendor/
+composer.json
+composer.lock
+example.php
+phpunit.xml.dist

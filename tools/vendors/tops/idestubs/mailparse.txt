@@ -1,0 +1,2 @@
+composer.json
+mailparse-stubs.php

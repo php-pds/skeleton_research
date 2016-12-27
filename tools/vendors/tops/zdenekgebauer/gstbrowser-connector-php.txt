@@ -1,0 +1,10 @@
+test/
+.gitattributes
+.gitignore
+.htaccess
+README.md
+composer.json
+config_dist.php
+connector.php
+copying.txt
+index.php

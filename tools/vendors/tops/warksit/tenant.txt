@@ -1,0 +1,10 @@
+spec/Warksit/tenant/
+src/
+tests/
+.gitignore
+.travis.yml
+composer.json
+composer.lock
+phpspec.yml
+phpunit.xml
+readme.md

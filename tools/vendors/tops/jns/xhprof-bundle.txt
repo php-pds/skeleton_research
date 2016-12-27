@@ -1,0 +1,14 @@
+DataCollector/
+DependencyInjection/
+Document/
+Entity/
+EventListener/
+Resources/
+Tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+JnsXhprofBundle.php
+README.md
+composer.json
+phpunit.xml

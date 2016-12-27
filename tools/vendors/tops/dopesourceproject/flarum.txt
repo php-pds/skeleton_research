@@ -1,0 +1,17 @@
+assets/
+scripts/
+storage/
+.editorconfig
+.gitattributes
+.gitignore
+.htaccess
+CONTRIBUTING.md
+LICENSE
+Procfile
+Vagrantfile
+admin.php
+api.php
+composer.json
+flarum
+index.php
+readme.md

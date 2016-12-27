@@ -1,0 +1,11 @@
+Chart/
+DataSet/
+DependencyInjection/
+Resources/config/
+Twig/
+Utils/
+.gitignore
+AvegaoChartjsBundle.php
+LICENSE
+README.md
+composer.json

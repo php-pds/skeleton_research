@@ -1,0 +1,13 @@
+bower_components/
+controllers/
+migrations/
+models/
+views/default/
+.gitignore
+KindEditor.php
+KindEditorAsset.php
+Module.php
+MultiImage.php
+MultiImageAsset.php
+README.md
+composer.json

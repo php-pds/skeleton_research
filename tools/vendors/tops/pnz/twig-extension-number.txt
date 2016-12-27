@@ -1,0 +1,7 @@
+lib/Twig/Extensions/Extension/
+test/Twig/Tests/Extension/
+.gitignore
+.travis.yml
+README.md
+composer.json
+phpunit.xml.dist

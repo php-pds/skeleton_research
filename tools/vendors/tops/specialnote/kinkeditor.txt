@@ -1,0 +1,3 @@
+KindEditor/
+README.md
+composer.json

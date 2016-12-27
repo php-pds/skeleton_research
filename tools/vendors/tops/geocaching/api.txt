@@ -1,0 +1,10 @@
+docs/
+src/Geocaching/
+tools/
+.gitignore
+.php_cs
+README.md
+composer.json
+index.php
+monitoring.php
+phpdoc.xml

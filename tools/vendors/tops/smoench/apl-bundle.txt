@@ -1,0 +1,8 @@
+DependencyInjection/
+Resources/config/
+.gitignore
+.scrutinizer.yml
+APLBundle.php
+LICENSE
+README.md
+composer.json

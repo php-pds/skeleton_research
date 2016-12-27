@@ -1,0 +1,15 @@
+DependencyInjection/
+Helper/
+Library/
+Resources/
+Tests/
+Twig/
+.gitignore
+.travis.yml
+COPYING
+COPYRIGHT
+GaldiBoletoBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

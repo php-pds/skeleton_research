@@ -1,0 +1,9 @@
+src/
+stylesheets/
+.gitattributes
+.gitignore
+LICENSE.md
+README.md
+composer.json
+index.html
+params.json

@@ -1,0 +1,7 @@
+examples/
+src/Autocomplete/
+tests/Autocomplete/
+.travis.yml
+README.md
+composer.json
+phpunit.xml

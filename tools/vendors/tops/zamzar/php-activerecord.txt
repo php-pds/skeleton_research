@@ -1,0 +1,16 @@
+examples/
+lib/
+test/
+.gitignore
+.travis.yml
+ActiveRecord.php
+CONTRIBUTING.md
+Dockerfile
+LICENSE
+README.md
+RELEASES.md
+composer.json
+composer.lock
+docker-compose.yml
+docker-test.sh
+phpunit.xml

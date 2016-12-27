@@ -1,0 +1,13 @@
+bin/
+doc/
+example/
+src/SilexExtension/
+tests/
+.gitignore
+.travis.yml
+MIT-LICENSE
+README.rst
+composer.json
+composer.lock
+phpunit.xml.dist
+vendors.sh

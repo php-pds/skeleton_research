@@ -1,0 +1,15 @@
+api_dev/
+e2e-tests/
+gulp_tasks/
+src/
+.bowerrc
+.gitignore
+.jshintrc
+.travis.yml
+LICENSE
+README.md
+bower.json
+composer.json
+gulpfile.js
+karma.conf.js
+package.json

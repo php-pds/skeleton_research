@@ -1,0 +1,9 @@
+lib/
+tests/
+.gitignore
+AUTHORS
+CHANGELOG.md
+LICENSE
+README.md
+VERSION
+composer.json

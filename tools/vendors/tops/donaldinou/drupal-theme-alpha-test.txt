@@ -1,0 +1,13 @@
+css/
+sass/
+styles/scss/
+.bowerrc
+.gitignore
+Gruntfile.js
+LICENSE
+README.md
+bower.json
+composer.json
+drupal-test-alpha-theme.info
+drupal-theme-alpha-test.info
+package.json

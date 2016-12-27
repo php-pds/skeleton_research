@@ -1,0 +1,8 @@
+tests/
+.codeclimate.yml
+.gitignore
+.gitlab-ci.yml
+.travis.yml
+LICENSE
+README.md
+composer.json

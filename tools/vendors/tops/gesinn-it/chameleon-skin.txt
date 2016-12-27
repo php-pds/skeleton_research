@@ -1,0 +1,14 @@
+build/travis/
+docs/
+layouts/
+resources/
+src/
+tests/
+.gitreview
+.travis.yml
+COPYING
+Chameleon.i18n.php
+Chameleon.php
+README.md
+composer.json
+phpunit.xml.dist

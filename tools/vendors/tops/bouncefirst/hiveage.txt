@@ -1,0 +1,10 @@
+examples/
+src/
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+composer.json
+composer.lock
+phpunit.xml
+readme.md

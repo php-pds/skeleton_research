@@ -1,0 +1,11 @@
+src/Dialect/
+tests/
+.gitignore
+.travis.yml
+CONTRIBUTING.md
+LICENSE
+README.md
+composer.json
+composer.lock
+configureComposer.sh
+phpunit.xml.dist

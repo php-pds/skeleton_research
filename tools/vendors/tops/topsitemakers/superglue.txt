@@ -1,0 +1,9 @@
+.gitattributes
+.gitignore
+.htaccess
+CHANGELOG.md
+LICENSE.md
+README.md
+composer.json
+example.php
+superglue.php

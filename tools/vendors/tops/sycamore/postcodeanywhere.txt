@@ -1,0 +1,6 @@
+examples/
+lib/PostcodeAnywhere/
+.gitignore
+README.md
+SycamorePostcodeAnywhereBundle.php
+composer.json

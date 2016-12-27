@@ -1,0 +1,7 @@
+examples/
+library/Hideks/
+tests/
+LICENSE
+README.md
+composer.json
+composer.lock

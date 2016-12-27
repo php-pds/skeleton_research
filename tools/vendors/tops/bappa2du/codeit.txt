@@ -1,0 +1,5 @@
+application/
+system/
+.gitignore
+composer.json
+index.php

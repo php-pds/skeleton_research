@@ -1,0 +1,3 @@
+nbproject/
+src/Daemon/Process/
+composer.json

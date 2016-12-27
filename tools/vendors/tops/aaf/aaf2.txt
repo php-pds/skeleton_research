@@ -1,0 +1,7 @@
+src/AAF/
+.gitignore
+README.md
+bootstrap.php
+composer.json
+composer.lock
+composer.phar

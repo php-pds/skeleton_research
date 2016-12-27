@@ -1,0 +1,9 @@
+docs/
+src/eGen/MessageBus/
+tests/
+.gitattributes
+.gitignore
+.travis.yml
+composer.json
+license.md
+readme.md

@@ -1,0 +1,10 @@
+example/
+src/
+web/
+.gitignore
+LICENSE.md
+README.md
+composer.json
+composer.lock
+phpunit.xml
+wsdl.xml

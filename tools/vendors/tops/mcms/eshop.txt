@@ -1,0 +1,16 @@
+config/
+gulpTasks/
+resources/
+src/
+.editorconfig
+.gitignore
+.npmignore
+.styleci.yml
+CHANGELOG.md
+CONDUCT.md
+CONTRIBUTING.md
+LICENSE.md
+README.md
+composer.json
+gulpfile.js
+package.json

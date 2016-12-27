@@ -1,0 +1,5 @@
+demo/
+src/Psiii/Mailer/
+.gitignore
+README.md
+composer.json

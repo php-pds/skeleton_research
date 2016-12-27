@@ -1,0 +1,10 @@
+docs/
+examples/
+spec/YellowCube/
+src/YellowCube/
+.gitignore
+.travis.yml
+GPL-2.0-LICENSE.txt
+MIT-LICENSE.txt
+README.md
+composer.json

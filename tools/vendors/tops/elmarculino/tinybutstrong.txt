@@ -1,0 +1,10 @@
+demo_opentbs/
+examples_tbs/
+plugins/
+composer.json
+readme.md
+tbs_class.php
+tbs_plugin_opentbs.html
+tbs_plugin_opentbs.php
+tbs_us_manual.htm
+xml_synopsis.txt

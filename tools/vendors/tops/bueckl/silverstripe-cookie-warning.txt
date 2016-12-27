@@ -1,0 +1,8 @@
+_config/
+code/
+css/
+templates/Includes/
+.DS_Store
+.gitignore
+README.md
+composer.json

@@ -1,0 +1,17 @@
+lib/
+tests/
+tmp/
+.coveralls.yml
+.editorconfig
+.gitignore
+.travis.yml
+CHANGELOG.md
+CONTRIBUTING.md
+Gruntfile.js
+MIT-LICENCE
+README.md
+composer.json
+fresque
+fresque.ini
+package.json
+phpunit.xml.dist

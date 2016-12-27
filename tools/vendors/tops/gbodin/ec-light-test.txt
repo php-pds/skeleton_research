@@ -1,0 +1,9 @@
+libraries/
+modules/
+themes/
+.gitignore
+composer.json
+composer.lock
+ec-light-test.info
+ec-light-test.install
+ec-light-test.profile

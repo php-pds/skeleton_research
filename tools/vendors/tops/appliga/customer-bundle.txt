@@ -1,0 +1,4 @@
+.gitignore
+AppligaCustomerBundle.php
+composer.json
+composer.lock

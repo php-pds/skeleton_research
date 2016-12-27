@@ -1,0 +1,8 @@
+.gitignore
+LICENSE
+README.md
+cli-install.php
+composer.json
+composer.lock
+config-example.php
+index.php

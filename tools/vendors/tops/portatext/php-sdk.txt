@@ -1,0 +1,11 @@
+doc/
+src/PortaText/
+test/
+.codeclimate.yml
+.gitignore
+.travis.yml
+LICENSE
+README.md
+build.xml
+composer.json
+composer.phar

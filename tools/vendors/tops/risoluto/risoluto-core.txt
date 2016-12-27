@@ -1,0 +1,8 @@
+public_html/
+risoluto/
+.gitignore
+.travis.yml
+AUTHORS
+LICENSE
+README.md
+composer.json

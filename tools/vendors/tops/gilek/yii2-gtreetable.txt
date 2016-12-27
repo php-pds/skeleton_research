@@ -1,0 +1,10 @@
+actions/
+assets/
+messages/
+migrations/
+models/
+views/
+LICENSE
+README.md
+Widget.php
+composer.json

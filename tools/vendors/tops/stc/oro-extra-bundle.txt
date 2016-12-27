@@ -1,0 +1,3 @@
+src/StcOroExtraBundle/Command/
+.gitignore
+composer.json

@@ -1,0 +1,14 @@
+examples/
+src/
+.gitignore
+.travis.yml
+LICENCE.md
+Makefile
+README.md
+appveyor.yml
+box.json
+composer.json
+composer.lock
+deptrac.php
+phpunit.xml.dist
+services.xml

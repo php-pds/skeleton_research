@@ -1,0 +1,4 @@
+assets/
+README.md
+SimpleTreeView.php
+composer.json

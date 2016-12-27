@@ -1,0 +1,14 @@
+codegen/
+samples/
+src/LeanIX/Api/
+tests/unit/
+.gitignore
+.realsync
+LICENSE
+README.md
+build.xml
+composer.json
+composer.lock
+phpdox.xml
+phpmd.xml
+phpunit.xml

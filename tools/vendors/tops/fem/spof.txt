@@ -1,0 +1,11 @@
+bin/
+documentation/
+locale/de_DE/LC_MESSAGES/
+source/
+template/
+.gitignore
+codesniffer.ruleset.xml
+composer.json
+phpdoc.dist.xml
+phpmd.xml
+spof.pot

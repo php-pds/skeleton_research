@@ -1,0 +1,5 @@
+src/Vacatia/RedirectBundle/
+.gitignore
+LICENSE
+README.md
+composer.json

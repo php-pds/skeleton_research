@@ -1,0 +1,12 @@
+bin/
+emr/
+src/Gizur/
+tests/
+.gitignore
+LICENSE
+Makefile
+README.md
+composer.json
+config.inc.php.template
+install.sh
+sami-config.php

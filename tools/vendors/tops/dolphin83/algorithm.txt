@@ -1,0 +1,5 @@
+src/Algorithm/
+tests/unit/
+.gitignore
+README.md
+composer.json

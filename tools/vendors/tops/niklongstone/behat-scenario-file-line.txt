@@ -1,0 +1,6 @@
+spec/FileLineFormatter/
+src/FileLineFormatter/
+.gitignore
+LICENCE
+README.md
+composer.json

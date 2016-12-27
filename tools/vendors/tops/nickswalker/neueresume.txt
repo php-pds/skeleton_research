@@ -1,0 +1,9 @@
+images/
+src/
+themes/default/
+.gitignore
+README.md
+composer.json
+custom-style.css
+index.php
+resume.xml

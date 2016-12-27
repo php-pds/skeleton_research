@@ -1,0 +1,8 @@
+Examples/
+src/UFOFileSystem/
+.gitignore
+LICENSE.md
+LICENSE_RU.md
+README.md
+UFO_LICENSE_RU.md
+composer.json

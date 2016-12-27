@@ -1,0 +1,3 @@
+src/Andrewlamers/Chargify/
+.gitignore
+composer.json

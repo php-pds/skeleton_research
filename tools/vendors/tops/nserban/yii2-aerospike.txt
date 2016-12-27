@@ -1,0 +1,6 @@
+.gitignore
+Cache.php
+Connection.php
+README.md
+Session.php
+composer.json

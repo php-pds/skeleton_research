@@ -1,0 +1,8 @@
+docs/
+src/Alidayu/
+tests/
+.gitignore
+LICENSE
+README.md
+autoload.php
+composer.json

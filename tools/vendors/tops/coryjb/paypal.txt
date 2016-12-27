@@ -1,0 +1,5 @@
+src/Becker/PayPal/
+tests/
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,15 @@
+src/
+tests/
+.codeclimate.yml
+.editorconfig
+.gitattributes
+.gitignore
+.php_cs
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+RoboFile.php
+composer.json
+phpunit.xml.dist
+sami-config.inc.php

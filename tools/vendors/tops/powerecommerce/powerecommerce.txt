@@ -1,0 +1,16 @@
+boot/
+polygon/
+schema/
+src/
+tests/System/
+usr/reports/coverage/
+.editorconfig
+.gitattributes
+.gitignore
+.htaccess
+.travis.yml
+LICENSE.md
+README.md
+atom.png
+composer.json
+index.php

@@ -1,0 +1,6 @@
+src/PhpZip/
+tests/PhpZip/
+.gitignore
+README.md
+bootstrap.xml
+composer.json

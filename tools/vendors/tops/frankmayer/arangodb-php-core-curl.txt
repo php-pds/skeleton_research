@@ -1,0 +1,10 @@
+lib/frankmayer/ArangoDbPhpCoreCurl/
+tests/
+.coveralls.yml
+.gitignore
+.travis.yml
+LICENSE.md
+README.md
+autoload.php
+composer.json
+phpunit.xml

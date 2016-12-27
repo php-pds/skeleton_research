@@ -1,0 +1,10 @@
+assets/
+src/
+.gitignore
+.htaccess
+Dockerfile
+README.md
+composer.json
+composer.lock
+docker-compose.yml
+index.php

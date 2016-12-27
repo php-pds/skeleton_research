@@ -1,0 +1,4 @@
+Taste/
+.gitignore
+README.md
+composer.json

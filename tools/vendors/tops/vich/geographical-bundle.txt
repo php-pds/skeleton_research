@@ -1,0 +1,15 @@
+Adapter/
+Annotation/
+DependencyInjection/
+Driver/
+EventListener/
+Map/
+QueryService/
+Resources/
+Templating/Helper/
+Tests/
+Twig/Extension/
+README.md
+VichGeographicalBundle.php
+composer.json
+phpunit.xml.dist

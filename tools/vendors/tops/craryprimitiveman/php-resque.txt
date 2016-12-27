@@ -1,0 +1,11 @@
+demo/
+src/
+test/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+autoload.php
+composer.json
+composer.lock
+resque.php

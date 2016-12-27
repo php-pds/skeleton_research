@@ -1,0 +1,7 @@
+src/
+tests/spec/Mvalim/PackageUtils/
+.gitignore
+LICENSE
+README.md
+composer.json
+phpspec.yml

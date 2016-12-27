@@ -1,0 +1,5 @@
+jsTests/
+tests/
+.gitignore
+README.md
+composer.json

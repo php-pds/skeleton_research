@@ -1,0 +1,13 @@
+app/
+config/
+docker/
+public/
+test/
+.gitignore
+.travis.yml
+Gruntfile.js
+README.md
+composer.json
+composer.lock
+package.json
+phpunit.xml.dist

@@ -1,0 +1,5 @@
+src/Pderoubaix/Stack/
+.gitignore
+LICENSE
+README.md
+composer.json

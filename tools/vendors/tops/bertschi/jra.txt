@@ -1,0 +1,9 @@
+docs/
+src/JRA/
+tests/JRA/
+.gitattributes
+.gitignore
+LICENSE
+README.md
+apigen.yaml
+composer.json

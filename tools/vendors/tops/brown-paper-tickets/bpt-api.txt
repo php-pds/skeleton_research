@@ -1,0 +1,12 @@
+src/BrownPaperTickets/APIv2/
+tests/BrownPaperTickets/APIv2/
+.gitattributes
+.gitignore
+.travis.yml
+CHANGELOG.md
+CONTRIBUTING.md
+LICENSE
+README.md
+Usage.md
+composer.json
+phpunit.xml

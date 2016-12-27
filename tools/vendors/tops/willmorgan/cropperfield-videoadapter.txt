@@ -1,0 +1,4 @@
+VideoAdapter/
+LICENSE
+README.md
+composer.json

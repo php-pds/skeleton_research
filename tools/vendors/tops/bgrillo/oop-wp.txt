@@ -1,0 +1,6 @@
+src/
+tests/
+vendor/
+composer.json
+composer.lock
+functions.php

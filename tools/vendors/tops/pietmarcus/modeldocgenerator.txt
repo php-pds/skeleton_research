@@ -1,0 +1,4 @@
+bin/
+src/PietMarcus/ModelDocGenerator/
+README.md
+composer.json

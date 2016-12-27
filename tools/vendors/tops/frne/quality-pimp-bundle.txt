@@ -1,0 +1,12 @@
+Checks/
+Command/
+DependencyInjection/
+Executor/
+Resources/config/services/
+Tests/
+.gitignore
+LICENSE
+QualityPimpBundle.php
+README.md
+composer.json
+phpunit.xml.dist

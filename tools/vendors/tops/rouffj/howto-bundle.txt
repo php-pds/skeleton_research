@@ -1,0 +1,8 @@
+Controller/Security/Voter/
+DependencyInjection/
+Resources/
+Tests/
+README.rst
+RouffjHowToBundle.php
+composer.json
+phpunit.xml.dist

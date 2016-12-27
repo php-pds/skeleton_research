@@ -1,0 +1,11 @@
+Application/
+Scripts/
+System/
+Vendor/
+.editorconfig
+.gitignore
+LICENSE
+README.md
+apigen.neon
+composer.json
+composer.lock

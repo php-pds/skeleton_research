@@ -1,0 +1,13 @@
+bin/
+build/
+doc/
+features/bootstrap/
+src/bonndan/ReleaseFlow/
+test/
+.gitignore
+.travis.yml
+Readme.md
+build.xml
+composer.json
+phpunit.xml.dist
+release-flow.phar

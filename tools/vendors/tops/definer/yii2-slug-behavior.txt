@@ -1,0 +1,5 @@
+.gitignore
+LICENSE
+Slug.php
+composer.json
+composer.lock

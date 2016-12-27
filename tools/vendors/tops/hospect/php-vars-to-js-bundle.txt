@@ -1,0 +1,11 @@
+DependencyInjection/
+Resources/config/
+Twig/
+ViewBinder/
+spec/Hospect/PhpVarsToJsBundle/ViewBinder/
+.gitignore
+.travis.yml
+HospectPhpToJsBundle.php
+LICENSE
+README.md
+composer.json

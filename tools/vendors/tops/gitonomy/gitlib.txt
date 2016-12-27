@@ -1,0 +1,11 @@
+doc/
+src/Gitonomy/Git/
+tests/
+.gitattributes
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist
+test-git-versions.sh

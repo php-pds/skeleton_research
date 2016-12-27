@@ -1,0 +1,10 @@
+src/
+tests/
+.coveralls.yml
+.gitignore
+.travis.yml
+changelog.md
+composer.json
+phpunit.xml
+readme.md
+todo.md

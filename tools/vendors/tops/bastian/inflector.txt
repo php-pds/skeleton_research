@@ -1,0 +1,6 @@
+spec/Inflector/
+src/Inflector/
+.gitignore
+README.md
+composer.json
+composer.lock

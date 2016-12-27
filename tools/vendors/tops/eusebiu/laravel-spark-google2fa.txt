@@ -1,0 +1,7 @@
+migrations/
+resources/
+src/
+CHANGELOG.md
+LICENSE
+README.md
+composer.json

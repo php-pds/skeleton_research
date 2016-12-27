@@ -1,0 +1,8 @@
+DependencyInjection/
+EventListener/
+Resources/
+CONTRIBUTING.md
+LICENSE
+README.md
+StephaneManginAngularJwtAuthenticationBundle.php
+composer.json

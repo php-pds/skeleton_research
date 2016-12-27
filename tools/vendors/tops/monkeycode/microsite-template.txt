@@ -1,0 +1,17 @@
+config/
+features/
+resources/
+src/
+web/
+.bowerrc
+.gitignore
+.travis.yml
+LICENSE
+README.md
+behat.yml
+bower.json
+composer.json
+composer.lock
+gulpfile.js
+package.json
+testlocal.sh

@@ -1,0 +1,8 @@
+lib/
+tests/
+.gitignore
+.travis.yml
+README.md
+VERSION
+composer.json
+init.php

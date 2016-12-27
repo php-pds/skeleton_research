@@ -1,0 +1,5 @@
+tests/
+.gitignore
+EmailAddressValidator.php
+README.md
+composer.json

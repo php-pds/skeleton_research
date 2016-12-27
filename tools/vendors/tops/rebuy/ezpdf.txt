@@ -1,0 +1,7 @@
+src/ezpdf/
+README.md
+composer.json
+data.txt
+readme.pdf
+readme.php
+ros.jpg

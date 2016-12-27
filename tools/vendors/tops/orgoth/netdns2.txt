@@ -1,0 +1,6 @@
+src/NetDns2/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json

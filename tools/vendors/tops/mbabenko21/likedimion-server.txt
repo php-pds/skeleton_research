@@ -1,0 +1,12 @@
+bin/
+config/
+res/
+src/
+.gitattributes
+.gitignore
+.htaccess
+README.md
+composer.json
+index.php
+migrations.yml
+phpunit.xml.dist

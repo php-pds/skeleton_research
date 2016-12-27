@@ -1,0 +1,4 @@
+src/FeedRiot/
+.gitignore
+README.md
+composer.json

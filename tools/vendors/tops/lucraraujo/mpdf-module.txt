@@ -1,0 +1,6 @@
+config/
+src/MPDFModule/
+.gitignore
+Module.php
+README.md
+composer.json

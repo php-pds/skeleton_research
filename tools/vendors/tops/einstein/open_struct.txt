@@ -1,0 +1,6 @@
+test/
+.gitignore
+MIT-LICENSE
+README.md
+composer.json
+open_struct.php

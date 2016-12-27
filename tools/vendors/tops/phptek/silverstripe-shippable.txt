@@ -1,0 +1,4 @@
+README.md
+_ss_environment.php
+composer.json
+shippable.yml

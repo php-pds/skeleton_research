@@ -1,0 +1,8 @@
+config/
+src/Zf2Latte/
+test/
+.gitignore
+.travis.yml
+Module.php
+composer.json
+readme.md

@@ -1,0 +1,10 @@
+Controller/
+DependencyInjection/
+Resources/
+Tests/Controller/
+.gitattributes
+.gitignore
+LICENSE
+MefdContaoFoundationBundle.php
+README.md
+composer.json

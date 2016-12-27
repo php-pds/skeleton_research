@@ -1,0 +1,6 @@
+deschdanja/ClassBuilder/
+.gitattributes
+.gitignore
+LICENSE
+README
+composer.json

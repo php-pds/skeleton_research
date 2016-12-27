@@ -1,0 +1,8 @@
+.gitignore
+FaceDetector.php
+LICENSE.txt
+README.md
+composer.json
+detection.dat
+index.php
+lena512color.jpg

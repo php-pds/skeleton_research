@@ -1,0 +1,3 @@
+src/Jmflava/MongoMorph/
+README.mdown
+composer.json

@@ -1,0 +1,13 @@
+Command/
+Composer/
+DependencyInjection/
+Resources/
+Service/
+Tests/Service/
+.gitignore
+.travis.yml
+InsomniaMaxMindGeoIpBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

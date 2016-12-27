@@ -1,0 +1,11 @@
+Controller/
+DependencyInjection/
+Menu/
+Resources/
+.bowerrc
+.gitignore
+LICENSE
+README.md
+SeriusAdminBundle.php
+bower.json
+composer.json

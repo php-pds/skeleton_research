@@ -1,0 +1,8 @@
+src/Scottymeuk/Pushover/
+tests/Scottymeuk/Pushover/Test/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

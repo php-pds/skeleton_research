@@ -1,0 +1,7 @@
+classes/
+config/
+guide/rediscache/
+tests/rediscache/
+.gitignore
+README.md
+composer.json

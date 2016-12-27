@@ -1,0 +1,8 @@
+Exception/
+Tests/
+.gitattributes
+CHANGELOG.md
+ChangelogsPlugin.php
+README.md
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,4 @@
+Nkg/PollBundle/
+.gitignore
+README.md
+composer.json

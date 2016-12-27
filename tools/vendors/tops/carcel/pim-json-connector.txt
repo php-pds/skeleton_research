@@ -1,0 +1,13 @@
+spec/
+src/
+.gitignore
+.php_cs-fixers.php
+.php_cs.local.php
+.php_cs.php
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpspec.yml
+travis.php.ini

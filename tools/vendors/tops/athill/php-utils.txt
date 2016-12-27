@@ -1,0 +1,7 @@
+conf/
+src/
+.gitignore
+README.md
+composer.json
+index.php
+todo.txt

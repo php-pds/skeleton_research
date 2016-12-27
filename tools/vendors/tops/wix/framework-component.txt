@@ -1,0 +1,10 @@
+Exception/
+Instance/
+Tests/
+.gitignore
+.travis.yml
+InstanceDecoder.php
+InstanceDecoderInterface.php
+README.md
+composer.json
+phpunit.xml.dist

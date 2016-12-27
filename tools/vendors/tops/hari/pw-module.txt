@@ -1,0 +1,5 @@
+src/PW/Composer/
+.gitignore
+LICENSE
+README.md
+composer.json

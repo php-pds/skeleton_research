@@ -1,0 +1,6 @@
+src/ValueObject/
+tests/Unit/
+.gitignore
+README.md
+composer.json
+phpunit.xml

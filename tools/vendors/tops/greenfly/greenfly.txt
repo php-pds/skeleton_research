@@ -1,0 +1,10 @@
+config/
+public/
+src/App/Modules/
+themes/
+.gitignore
+composer.json
+database.php
+documents-sample.json
+documents.json
+index.php

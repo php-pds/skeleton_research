@@ -1,0 +1,9 @@
+src/Jejje/Gravatar/
+tests/
+.gitignore
+.travis.yml
+1.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml

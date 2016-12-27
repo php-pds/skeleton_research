@@ -1,0 +1,10 @@
+config/
+src/Uj/Mail/
+vendor/
+.gitignore
+.php_cs
+LICENSE.md
+Module.php
+README.md
+autoload_classmap.php
+composer.json

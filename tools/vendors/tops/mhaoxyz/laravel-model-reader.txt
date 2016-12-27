@@ -1,0 +1,4 @@
+src/Mhaoxyz/LaravelModelReader/
+.gitignore
+composer.json
+composers.json

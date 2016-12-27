@@ -1,0 +1,7 @@
+src/
+tests/
+.editorconfig
+.travis.yml
+README.md
+composer.json
+phpunit.xml.dist

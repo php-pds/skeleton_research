@@ -1,0 +1,6 @@
+config/
+src/FrNavigation/
+.gitignore
+Module.php
+README.md
+composer.json

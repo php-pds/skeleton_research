@@ -1,0 +1,7 @@
+src/Sepa/
+tests/Sepa/Tests/
+.gitignore
+README.md
+autoload.php.dist
+composer.json
+phpunit.xml

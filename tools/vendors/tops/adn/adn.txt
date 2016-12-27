@@ -1,0 +1,11 @@
+app/
+config/
+vendor/
+.DS_Store
+.htaccess
+LICENSE
+README.md
+composer.json
+composer.lock
+genetic
+index.php

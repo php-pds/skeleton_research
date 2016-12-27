@@ -1,0 +1,5 @@
+Resources/meta/
+Response/
+README.md
+ZipStreamedResponseBundle.php
+composer.json

@@ -1,0 +1,5 @@
+DependencyInjection/
+Resources/config/
+.gitignore
+JBillingPHPApiBundle.php
+composer.json

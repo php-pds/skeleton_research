@@ -1,0 +1,13 @@
+config/
+scripts/Easywpeasy/
+vendor/
+wp-content/
+.deployignore
+.gitattributes
+.gitignore
+.gitignore-sample
+README.md
+composer.json
+index.php
+wp-cli.local.yml
+wp-config.php

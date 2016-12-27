@@ -1,0 +1,6 @@
+example/
+src/Cgsmith/
+.gitignore
+LICENSE
+README.md
+composer.json

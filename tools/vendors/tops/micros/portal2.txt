@@ -1,0 +1,6 @@
+docs/
+lib/micros/
+.gitignore
+composer.json
+config.inc.php
+index.php

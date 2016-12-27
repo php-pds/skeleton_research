@@ -1,0 +1,9 @@
+classes/
+config/
+guide/generator/
+messages/testmsgs/
+tests/
+views/generator/
+CHANGELOG.md
+README.md
+composer.json

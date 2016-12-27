@@ -1,0 +1,8 @@
+src/
+templates/
+tests/
+.gitignore
+README.md
+composer.json
+config.json
+entity-generator

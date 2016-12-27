@@ -1,0 +1,6 @@
+changelogs/
+src/
+.gitignore
+.gitmodules
+composer.json
+readme.md

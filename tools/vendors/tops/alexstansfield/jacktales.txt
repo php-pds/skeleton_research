@@ -1,0 +1,4 @@
+src/Command/
+.gitignore
+LICENSE
+composer.json

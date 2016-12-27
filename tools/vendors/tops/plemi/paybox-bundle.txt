@@ -1,0 +1,16 @@
+DependencyInjection/
+PayboxSystem/
+Resources/config/
+Tests/
+Transport/
+.gitignore
+.php_cs
+.travis.yml
+LICENCE
+PlemiPayboxBundle.php
+build.xml
+composer.json
+phpunit.xml.ci
+phpunit.xml.dist
+pom.xml
+readme.md

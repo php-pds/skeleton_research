@@ -1,0 +1,6 @@
+example/
+.gitignore
+LICENSE
+README.md
+SimpleOMRPHP.php
+composer.json

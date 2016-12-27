@@ -1,0 +1,6 @@
+APCuMemo/
+.gitignore
+Changelog.md
+LICENSE
+README.md
+composer.json

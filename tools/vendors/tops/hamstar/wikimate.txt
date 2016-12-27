@@ -1,0 +1,10 @@
+.gitignore
+CHANGELOG.md
+LICENSE.md
+README.md
+USAGE.md
+Wikimate.php
+composer.json
+composer.lock
+examples.php
+globals.php

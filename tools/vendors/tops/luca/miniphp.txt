@@ -1,0 +1,3 @@
+src/Mini/
+README.md
+composer.json

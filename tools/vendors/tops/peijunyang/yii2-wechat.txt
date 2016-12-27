@@ -1,0 +1,6 @@
+base/
+sdk/
+wiki/
+.gitignore
+README.md
+composer.json

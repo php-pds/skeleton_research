@@ -1,0 +1,15 @@
+build/
+docs/
+src/
+tests/
+.gitattributes
+.gitignore
+.styleci.yml
+.travis.yml
+LICENSE
+METADATA-VERSION.txt
+README.md
+build.xml
+composer.json
+libphonenumber-for-php.spec
+phpunit.xml.dist

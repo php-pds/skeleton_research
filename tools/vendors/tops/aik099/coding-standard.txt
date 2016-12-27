@@ -1,0 +1,11 @@
+CodingStandard/
+TestSuite/
+.coveralls.yml
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+phpcs-validate.sh
+phpunit.xml.dist

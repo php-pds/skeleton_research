@@ -1,0 +1,7 @@
+src/ItxTechnologies/ArtisanResxToLang/
+tests/
+.gitignore
+README.md
+composer.json
+license.txt
+phpunit.xml

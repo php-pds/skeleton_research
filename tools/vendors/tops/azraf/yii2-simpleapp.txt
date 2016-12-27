@@ -1,0 +1,6 @@
+classes/
+migrations/
+Module.php
+README.md
+Simpleapp.php
+composer.json

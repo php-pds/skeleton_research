@@ -1,0 +1,7 @@
+lib/
+t/Dklab_SoapClient/
+test/Dklab_SoapClient/
+.gitignore
+.htaccess
+README.md
+composer.json

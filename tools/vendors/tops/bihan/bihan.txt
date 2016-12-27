@@ -1,0 +1,7 @@
+src/Bihan/
+tests/Bihan/Tests/
+.gitignore
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

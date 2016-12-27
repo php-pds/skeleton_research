@@ -1,0 +1,17 @@
+inc/
+public/
+setup/
+tests/
+xhprof/
+.gitignore
+.php_cs
+.travis.yml
+CHANGELOG.md
+INSTALL.md
+LICENSE
+README.md
+composer.json
+index.php
+phpunit.xml.dist
+version.json
+xhprof.inc.php

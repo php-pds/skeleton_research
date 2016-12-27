@@ -1,0 +1,10 @@
+format/
+test/
+.gitignore
+.travis.yml
+README.md
+assert.js
+composer.json
+make.js
+package.json
+report.js

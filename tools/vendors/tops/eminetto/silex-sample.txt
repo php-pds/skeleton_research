@@ -1,0 +1,12 @@
+bin/
+src/Coderockr/Model/
+tests/
+views/
+.gitignore
+README.md
+app.php
+bootstrap.php
+composer.json
+index.php
+packages.json
+phpunit.xml

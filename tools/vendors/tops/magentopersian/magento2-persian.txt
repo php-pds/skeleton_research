@@ -1,0 +1,8 @@
+.gitignore
+LICENSE
+LICENSE.txt
+README.md
+composer.json
+fa_IR.csv
+language.xml
+registration.php

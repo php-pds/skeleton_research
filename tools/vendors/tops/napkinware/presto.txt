@@ -1,0 +1,13 @@
+_tests/
+bin/
+docs/
+lib/
+setup-tests/
+.gitignore
+.gitmodules
+.htaccess
+CHANGELOG.md
+INSTALL.md
+LICENSE.md
+README.md
+composer.json

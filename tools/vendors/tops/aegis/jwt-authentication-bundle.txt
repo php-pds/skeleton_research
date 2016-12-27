@@ -1,0 +1,15 @@
+DependencyInjection/
+Encoder/
+Event/
+Resources/
+Security/
+Services/
+Tests/
+TokenExtractor/
+.gitignore
+.travis.yml
+AegisJWTAuthenticationBundle.php
+Events.php
+README.md
+composer.json
+phpunit.xml.dist

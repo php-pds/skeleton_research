@@ -1,0 +1,9 @@
+app/
+bin/
+src/Almo/
+var/
+web/
+.gitignore
+LICENSE
+composer.json
+composer.lock

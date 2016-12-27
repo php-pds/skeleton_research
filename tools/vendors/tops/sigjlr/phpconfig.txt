@@ -1,0 +1,4 @@
+src/PhpConfig/
+LICENSE
+README.md
+composer.json

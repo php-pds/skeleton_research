@@ -1,0 +1,6 @@
+assets/
+extensions/
+tests/cases/extensions/adapter/data/
+.travis.yml
+composer.json
+readme.md

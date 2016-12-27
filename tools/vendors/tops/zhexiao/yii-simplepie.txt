@@ -1,0 +1,3 @@
+simplepie-library/
+README.md
+composer.json

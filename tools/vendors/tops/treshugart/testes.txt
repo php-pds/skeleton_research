@@ -1,0 +1,7 @@
+bin/
+src/Testes/
+tests/
+.gitignore
+.travis.yml
+composer.json
+readme.md

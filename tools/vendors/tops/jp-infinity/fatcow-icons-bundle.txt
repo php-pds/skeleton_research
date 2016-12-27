@@ -1,0 +1,9 @@
+Command/
+Resources/
+.gitignore
+FatcowIconsBundle.php
+History.md
+LICENSE
+README.md
+autoload.php
+composer.json

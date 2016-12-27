@@ -1,0 +1,8 @@
+Controller/
+DependencyInjection/
+Resizer/
+Resources/
+Tests/Controller/
+AivusResizerBundle.php
+README.md
+composer.json

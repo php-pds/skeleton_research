@@ -1,0 +1,8 @@
+_tests/
+.gitignore
+LICENSE
+README.md
+cacert.pem
+composer.json
+examples.yml
+requestcore.class.php

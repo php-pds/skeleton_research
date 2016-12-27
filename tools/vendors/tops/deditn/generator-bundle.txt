@@ -1,0 +1,14 @@
+Command/
+DependencyInjection/
+Generator/
+Manipulator/
+Resources/
+Tests/
+Twig/
+.gitignore
+.travis.yml
+DeditnGeneratorBundle.php
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

@@ -1,0 +1,8 @@
+src/ArrayObject/
+tests/unit-tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock

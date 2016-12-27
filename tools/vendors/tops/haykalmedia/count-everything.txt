@@ -1,0 +1,6 @@
+assets/
+.gitignore
+LICENSE
+README.md
+composer.json
+count-everything.php

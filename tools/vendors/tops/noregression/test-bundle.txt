@@ -1,0 +1,11 @@
+DataFixtures/ORM/
+Test/
+Tests/DataFixtures/
+.gitignore
+.travis.yml
+NoRegressionTestBundle.php
+README.md
+codeclimate.sh
+composer.json
+composer.lock
+phpunit.xml.dist

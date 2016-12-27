@@ -1,0 +1,5 @@
+.gitignore
+BitCoin.php
+LICENSE
+README.md
+composer.json

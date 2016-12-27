@@ -1,0 +1,9 @@
+fieldtypes/
+models/
+services/
+templates/
+.gitignore
+LICENSE
+PapercraftPlugin.php
+README.md
+composer.json

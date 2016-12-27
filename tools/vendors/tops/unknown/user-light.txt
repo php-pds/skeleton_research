@@ -1,0 +1,8 @@
+spec/Unknown/Bundle/UserLightBundle/
+src/Unknown/Bundle/UserLightBundle/
+LICENSE
+build.xml
+composer.json
+phpmd.xml
+phpspec.yml
+readme.md

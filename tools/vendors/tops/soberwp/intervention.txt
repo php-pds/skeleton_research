@@ -1,0 +1,14 @@
+.github/
+dist/
+src/
+.editorconfig
+.gitattributes
+.gitignore
+CHANGELOG.md
+LICENSE.md
+README.md
+build.xml
+composer.json
+composer.lock
+intervention.php
+phpcs.xml

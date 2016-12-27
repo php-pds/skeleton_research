@@ -1,0 +1,16 @@
+Twilio/
+docs/read_the_docs/
+.gitignore
+.travis.yml
+AUTHORS.md
+CHANGES.md
+ISSUE_TEMPLATE.md
+LICENSE
+Makefile
+README.md
+UPGRADE.md
+VERSIONS.md
+composer.json
+composer.lock
+deploy.php
+docs-update.sh

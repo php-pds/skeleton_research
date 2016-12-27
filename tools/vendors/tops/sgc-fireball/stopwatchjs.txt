@@ -1,0 +1,10 @@
+examples/
+src/
+tests/
+.gitattributes
+.gitignore
+CHANGELOG.md
+LICENSE.md
+README.md
+bower.json
+composer.json

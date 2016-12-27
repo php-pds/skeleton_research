@@ -1,0 +1,5 @@
+Command/
+DependencyInjection/
+LICENSE
+MidnightLukeDoctrineUmlBundle.php
+composer.json

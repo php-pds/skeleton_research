@@ -1,0 +1,13 @@
+class_array/
+controller/
+curl/
+data_converter/
+date_time/
+enum/
+interceptor/
+interfaces/
+pool/
+query_builder/
+render/
+url/
+composer.json

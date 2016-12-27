@@ -1,0 +1,9 @@
+docs/
+src/Jaspersoft/
+tests/
+.gitignore
+LICENSE
+README.md
+autoload.dist.php
+composer.json
+phpunit.xml

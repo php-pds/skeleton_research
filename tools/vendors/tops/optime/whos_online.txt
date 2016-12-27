@@ -1,0 +1,12 @@
+Controller/
+DependencyInjection/
+Entity/
+Files/
+Listener/
+Resources/
+Services/
+Tests/Controller/
+.gitignore
+README.rst
+WhosOnlineBundle.php
+composer.json

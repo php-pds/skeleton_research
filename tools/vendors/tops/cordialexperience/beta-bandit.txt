@@ -1,0 +1,6 @@
+examples/
+src/Cordial/
+LICENSE.md
+README.md
+composer.json
+randlib.c.patch

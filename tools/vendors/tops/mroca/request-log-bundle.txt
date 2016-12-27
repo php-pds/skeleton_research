@@ -1,0 +1,13 @@
+Command/
+DependencyInjection/
+EventListener/
+Resources/
+Service/
+Tests/Service/
+.gitignore
+.php_cs
+.travis.yml
+MrocaRequestLogBundle.php
+README.md
+composer.json
+phpunit.xml.dist

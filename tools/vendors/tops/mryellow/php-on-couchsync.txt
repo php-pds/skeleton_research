@@ -1,0 +1,10 @@
+doc/
+examples/
+frameworks/ci/
+lib/
+tests/
+.gitattributes
+.gitignore
+LICENSE
+README.md
+composer.json

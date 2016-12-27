@@ -1,0 +1,6 @@
+DependencyInjection/
+Resources/config/
+VcardGenerator/
+README.md
+SpraedVcardBundle.php
+composer.json

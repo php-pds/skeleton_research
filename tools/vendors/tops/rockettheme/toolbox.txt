@@ -1,0 +1,16 @@
+ArrayTraits/src/
+Blueprints/
+DI/src/
+Event/src/
+File/src/
+ResourceLocator/
+Session/
+StreamWrapper/src/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+composer.json
+phpunit.xml

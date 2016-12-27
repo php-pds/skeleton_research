@@ -1,0 +1,12 @@
+docker/
+src/
+tests/
+.coveralls.yml
+.editorconfig
+.gitignore
+.travis.yml
+CONTRIBUTING.md
+README.md
+composer.json
+release
+runtests.sh

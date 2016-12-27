@@ -1,0 +1,7 @@
+src/Vidya/
+tests/
+.gitattributes
+README.md
+composer.json
+phpunit.xml
+vidya-plugin-commons-test.php

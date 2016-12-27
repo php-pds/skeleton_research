@@ -1,0 +1,6 @@
+App/
+vendor/
+README.md
+composer.json
+composer.lock
+example.php

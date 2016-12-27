@@ -1,0 +1,7 @@
+Config/
+Hook/
+I18n/
+templates/frontOffice/default/
+BrandCarousel.php
+Readme.md
+composer.json

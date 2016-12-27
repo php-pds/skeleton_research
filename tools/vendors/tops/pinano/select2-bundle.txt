@@ -1,0 +1,6 @@
+Resources/
+.gitattributes
+.gitignore
+PinanoSelect2Bundle.php
+README.md
+composer.json

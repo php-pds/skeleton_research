@@ -1,0 +1,11 @@
+bin/
+src/LeoHt/Erlenmeyer/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock
+config.xml
+config.yml
+phpunit.xml

@@ -1,0 +1,4 @@
+extensions/
+Gearman.php
+README.md
+composer.json

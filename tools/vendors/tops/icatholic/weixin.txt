@@ -1,0 +1,13 @@
+.settings/
+bin/
+docs/
+lib/Weixin/
+tests/
+.buildpath
+.project
+CHANGELOG.md
+LICENSE
+README.md
+autoload.php
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,5 @@
+examples/
+src/Octopush/Api/
+.gitignore
+README.md
+composer.json

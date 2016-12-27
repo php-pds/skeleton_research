@@ -1,0 +1,7 @@
+src/Yoozon/Git/
+tests/
+.gitignore
+composer.json
+license.txt
+phpunit.xml
+readme.md

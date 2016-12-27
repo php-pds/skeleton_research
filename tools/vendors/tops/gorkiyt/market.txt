@@ -1,0 +1,8 @@
+common/rbac/
+console/controllers/
+controllers/
+migrations/
+models/
+views/
+Yonetim.php
+composer.json

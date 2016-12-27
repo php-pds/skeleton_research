@@ -1,0 +1,6 @@
+img/
+.htaccess.example
+README.md
+composer.json
+configuration.json.example
+cron.php

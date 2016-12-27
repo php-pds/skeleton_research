@@ -1,0 +1,7 @@
+src/ArikCrypto/
+tests/ArikCrypto/
+.editorconfig
+.gitignore
+.travis.yml
+README.md
+composer.json

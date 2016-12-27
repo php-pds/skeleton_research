@@ -1,0 +1,8 @@
+doc/
+examples/
+lib/US/OpenSSO/
+metadata/
+.gitignore
+CHANGELOG
+composer.json
+phpdoc.dist.xml

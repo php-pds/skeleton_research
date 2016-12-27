@@ -1,0 +1,4 @@
+request/
+JdClient.php
+JdException.php
+composer.json

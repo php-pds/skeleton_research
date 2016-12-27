@@ -1,0 +1,7 @@
+config/
+src/GeonamesServer/
+view/geonames-server/demo/
+Module.php
+README.md
+autoload_classmap.php
+composer.json

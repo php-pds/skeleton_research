@@ -1,0 +1,7 @@
+build/
+examples/
+lib/TransportBox/
+tests/
+.gitignore
+README.md
+composer.json

@@ -1,0 +1,6 @@
+GTIN.php
+ISBN.php
+LICENSE
+README.md
+TradeNumbers.php
+composer.json

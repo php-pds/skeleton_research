@@ -1,0 +1,3 @@
+SNTeam/FeatureManagerBundle/
+README.md
+composer.json

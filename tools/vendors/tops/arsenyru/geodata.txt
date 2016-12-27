@@ -1,0 +1,4 @@
+doctrinePlugin/GeoData/
+geodata-bundle/Geo/DataBundle/
+README.md
+composer.json

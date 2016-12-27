@@ -1,0 +1,5 @@
+demo/
+src/Wechat/
+LICENSE
+README.md
+composer.json

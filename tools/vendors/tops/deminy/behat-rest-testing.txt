@@ -1,0 +1,13 @@
+bin/
+features/
+src/
+www/
+.gitignore
+.travis.yml
+CHANGELOG.md
+README.md
+behat.yml.dist
+composer.json
+license.txt
+ruleset.xml
+screenshot.png

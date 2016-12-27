@@ -1,0 +1,10 @@
+demo/
+screenshots/
+src/
+test/
+.gitignore
+LICENSE
+README.md
+bower.json
+composer.json
+index.php

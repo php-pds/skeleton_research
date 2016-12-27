@@ -1,0 +1,9 @@
+Bundle/
+Command/
+DependencyInjection/
+Resources/
+.gitignore
+.travis.yml
+README.md
+RuudyMetronicCrudGeneratorBundle.php
+composer.json

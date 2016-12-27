@@ -1,0 +1,7 @@
+LICENSE
+README.md
+bootstrap-media-lightbox.css
+bootstrap-media-lightbox.js
+bootstrap-media-lightbox.less
+bootstrap-media-lightbox.min.js
+composer.json

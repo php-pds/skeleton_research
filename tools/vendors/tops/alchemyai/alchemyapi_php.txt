@@ -1,0 +1,8 @@
+.gitignore
+LICENSE
+README.md
+alchemyapi.php
+composer.json
+example.php
+grumpy-cat-meme-hmmm.jpg
+tests.php

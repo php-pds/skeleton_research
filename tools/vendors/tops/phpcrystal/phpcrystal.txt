@@ -1,0 +1,12 @@
+assets/image/
+src/
+tests/
+.gitignore
+.travis.yml
+LICENSE.txt
+README.md
+bootstrap.php
+composer.json
+config.php
+manifest.php
+phpunit.xml

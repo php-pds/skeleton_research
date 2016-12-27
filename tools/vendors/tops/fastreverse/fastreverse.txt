@@ -1,0 +1,4 @@
+src/Fastreverse/
+.DS_Store
+README.md
+composer.json

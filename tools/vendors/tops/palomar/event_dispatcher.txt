@@ -1,0 +1,5 @@
+Tests/
+lib/Palomar/
+.gitignore
+composer.json
+phpunit.xml

@@ -1,0 +1,5 @@
+nbproject/
+.gitattributes
+.gitignore
+composer.json
+index.php

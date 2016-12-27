@@ -1,0 +1,6 @@
+.idea/
+colorpicker/
+.gitignore
+LICENSE
+README.md
+composer.json

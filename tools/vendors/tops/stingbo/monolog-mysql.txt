@@ -1,0 +1,6 @@
+src/MySQLHandler/
+.gitignore
+LICENSE
+README.md
+composer.json
+example.php

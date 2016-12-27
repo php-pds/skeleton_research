@@ -1,0 +1,7 @@
+Command/
+DependencyInjection/
+Generator/
+Resources/
+Services/
+StarkerxpCQRSESBundle.php
+composer.json

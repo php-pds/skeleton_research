@@ -1,0 +1,12 @@
+seeds/
+src/
+stubs/
+tests/
+LICENSE
+README.md
+behat.yml
+composer.json
+phpspec.yml
+phpspec.yml.dist
+phpunit.xml
+phpunit.xml.dist

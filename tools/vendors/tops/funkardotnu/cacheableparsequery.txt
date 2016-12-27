@@ -1,0 +1,6 @@
+src/Funkardotnu/Parse/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json

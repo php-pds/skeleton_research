@@ -1,0 +1,4 @@
+src/jas/debug/
+.gitignore
+README.md
+composer.json

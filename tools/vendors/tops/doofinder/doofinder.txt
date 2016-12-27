@@ -1,0 +1,8 @@
+src/
+.gitignore
+.travis.yml
+CHANGELOG.txt
+README.md
+autoload.php
+composer.json
+phpunit.xml

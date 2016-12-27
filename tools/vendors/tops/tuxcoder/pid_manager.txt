@@ -1,0 +1,6 @@
+src/TuxCoder/PIDManagerBundle/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json

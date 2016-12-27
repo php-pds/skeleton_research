@@ -1,0 +1,10 @@
+Context/
+Event/
+Extractor/
+Loader/
+Transformer/
+Workflow/
+.gitignore
+README.md
+composer.json
+composer.lock

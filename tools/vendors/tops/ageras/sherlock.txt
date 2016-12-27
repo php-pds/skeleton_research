@@ -1,0 +1,11 @@
+src/
+tests/
+.env.example
+.gitignore
+LICENSE
+README.md
+circle.yml
+codecov.yml
+composer.json
+composer.lock
+phpunit.xml

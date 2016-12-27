@@ -1,0 +1,14 @@
+src/
+.editorconfig
+.gitattributes
+.gitignore
+.styleci.yml
+.travis.yml
+CHANGELOG.md
+LICENSE.md
+README.md
+appspec.yml
+composer.json
+composer.sh
+init.sh
+phpunit.xml.dist

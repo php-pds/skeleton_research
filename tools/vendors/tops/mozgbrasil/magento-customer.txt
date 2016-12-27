@@ -1,0 +1,8 @@
+app/
+js/mozg_customer/
+skin/
+CHANGELOG.md
+LICENSE.txt
+README.md
+composer.json
+modman

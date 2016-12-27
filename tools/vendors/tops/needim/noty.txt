@@ -1,0 +1,10 @@
+demo/
+js/noty/
+.gitignore
+Gruntfile.js
+LICENSE.txt
+README.markdown
+bower.json
+composer.json
+noty.jquery.json
+package.json

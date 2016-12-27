@@ -1,0 +1,7 @@
+notification-examples/
+spec/markdunphy/SesSnsTypes/
+src/
+.gitignore
+.travis.yml
+README.md
+composer.json

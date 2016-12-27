@@ -1,0 +1,11 @@
+Docs/
+Sniffs/
+Tests/
+.gitignore
+.travis.yml
+CHANGELOG.md
+README.md
+build.xml
+composer.json
+documentation.html
+ruleset.xml

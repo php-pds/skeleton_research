@@ -1,0 +1,5 @@
+assets/
+README.md
+UniteGallery.php
+UniteGalleryAsset.php
+composer.json

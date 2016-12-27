@@ -1,0 +1,13 @@
+Controller/
+DependencyInjection/
+Event/
+Resources/config/
+Tests/
+.gitignore
+.travis.yml
+HochstrasserWirecardBundle.php
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

@@ -1,0 +1,7 @@
+assets/
+AutoloadExample.php
+Cropper.php
+CropperAsset.php
+CropperBehaviour.php
+README.md
+composer.json

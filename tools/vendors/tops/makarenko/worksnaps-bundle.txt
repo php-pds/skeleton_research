@@ -1,0 +1,8 @@
+Api/
+DependencyInjection/
+Exception/
+Resources/config/
+Service/
+README.md
+WorksnapsBundle.php
+composer.json

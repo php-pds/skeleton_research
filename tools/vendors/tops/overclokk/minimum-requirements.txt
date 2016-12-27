@@ -1,0 +1,9 @@
+tests/
+.gitignore
+LICENSE.md
+README.md
+codeception.dist.yml
+composer.json
+composer.lock
+index.php
+minimum-requirements.php

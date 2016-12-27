@@ -1,0 +1,6 @@
+sqlfiles/
+LICENSE
+README.md
+composer.json
+example.php
+php-mysqlimporter.php

@@ -1,0 +1,11 @@
+src/Koara/
+tests/Koara/
+testsuite @ c32339e
+.gitignore
+.gitmodules
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml

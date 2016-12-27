@@ -1,0 +1,7 @@
+examples/
+resources/
+.gitignore
+LICENSE.txt
+README.md
+RealCaptcha.php
+composer.json

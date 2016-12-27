@@ -1,0 +1,9 @@
+bin/
+tests/
+.gitignore
+.travis.yml
+CHANGELOG.txt
+LICENSE.txt
+README.txt
+composer.json
+easytest.php

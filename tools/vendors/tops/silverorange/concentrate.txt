@@ -1,0 +1,11 @@
+Concentrate/
+data/
+resources/
+scripts/
+tests/
+.gitignore
+README.md
+composer.json
+composer.lock
+package.php
+package.xml

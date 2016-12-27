@@ -1,0 +1,5 @@
+lib/Lingua/Unihan/
+tests/
+.travis.yml
+README.md
+composer.json

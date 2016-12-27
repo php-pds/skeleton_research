@@ -1,0 +1,3 @@
+lib/ResumeParser/
+composer.json
+phpunit.xml.dist

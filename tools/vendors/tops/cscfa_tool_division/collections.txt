@@ -1,0 +1,6 @@
+doc/
+src/CSDT/CollectionsBundle/
+.gitignore
+LICENSE.md
+README.md
+composer.json

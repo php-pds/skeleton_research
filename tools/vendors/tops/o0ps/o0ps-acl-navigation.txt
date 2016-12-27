@@ -1,0 +1,7 @@
+config/
+src/o0psAclNavigation/
+LICENSE
+Module.php
+README.md
+composer.json
+composer.lock

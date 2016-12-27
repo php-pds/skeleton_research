@@ -1,0 +1,6 @@
+.github/
+Nette/
+.gitignore
+composer.json
+license.md
+readme.md

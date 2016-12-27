@@ -1,0 +1,13 @@
+cache/
+config/
+logs/
+src/
+static/
+view/
+.gitignore
+.htaccess
+composer.json
+composer.phar
+console
+index.php
+readme.md

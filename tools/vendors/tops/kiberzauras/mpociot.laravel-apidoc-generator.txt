@@ -1,0 +1,6 @@
+src/
+.gitignore
+.styleci.yml
+CONTRIBUTING.md
+LICENSE.md
+composer.json

@@ -1,0 +1,11 @@
+.idea/
+Clases/
+.gitignore
+DiagramCurriculum.png
+DiagramPersons.png
+README.md
+\Com\Iesebre\Dam2\max\Curriculum\Study.uml
+\Com\Iesebre\Dam2\max\Persons\Person.uml
+composer.json
+main.php
+test

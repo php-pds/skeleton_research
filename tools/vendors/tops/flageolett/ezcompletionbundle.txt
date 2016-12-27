@@ -1,0 +1,13 @@
+Abstracts/
+Command/
+DependencyInjection/
+Entity/
+Examples/
+Factory/
+Resources/
+Service/
+Traits/
+.gitignore
+composer.json
+eZCompletionBundle.php
+readme.md

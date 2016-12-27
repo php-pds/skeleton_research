@@ -1,0 +1,7 @@
+src/
+wp/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock

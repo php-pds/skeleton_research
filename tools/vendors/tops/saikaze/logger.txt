@@ -1,0 +1,8 @@
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock
+file.php
+index.php
+logger.class.php

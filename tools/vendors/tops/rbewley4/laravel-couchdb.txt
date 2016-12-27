@@ -1,0 +1,6 @@
+src/Rbewley4/Laravel/Couchdb/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock

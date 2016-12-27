@@ -1,0 +1,13 @@
+app/
+bin/
+src/
+tests/
+var/
+web/
+.bowerrc
+.gitignore
+README.md
+bower.json
+composer.json
+composer.lock
+phpunit.xml.dist

@@ -1,0 +1,7 @@
+lib/
+tests/
+.editorconfig
+.gitignore
+.travis.yml
+Readme.md
+composer.json

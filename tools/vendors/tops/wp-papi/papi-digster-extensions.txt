@@ -1,0 +1,8 @@
+src/
+.editorconfig
+.gitignore
+LICENSE
+README.md
+autoload.php
+composer.json
+phpcs.xml

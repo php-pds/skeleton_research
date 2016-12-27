@@ -1,0 +1,7 @@
+example/
+lib/ThriftExt/thrift_protocol/
+src/Elasticsearch/
+.gitignore
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,12 @@
+bin/
+examples/
+src/
+.gitattributes
+.gitignore
+.php_cs
+.phpspec_cs
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpspec.yml.dist

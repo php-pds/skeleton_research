@@ -1,0 +1,14 @@
+Container/
+Exceptions/
+Interfaces/
+MultiChildTree/
+Queue/
+Tests/
+Traits/
+Tree/
+.gitignore
+CircleUtilityBundle.php
+Makefile
+README.md
+composer.json
+phpunit.xml

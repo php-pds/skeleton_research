@@ -1,0 +1,6 @@
+config/
+src/AppBundle/
+web/
+AppKernel.php
+composer.json
+console

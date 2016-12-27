@@ -1,0 +1,11 @@
+admin/
+includes/
+public/
+LICENSE.txt
+README.md
+README.txt
+animation.gif
+composer.json
+index.php
+uninstall.php
+wpto.php

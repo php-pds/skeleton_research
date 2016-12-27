@@ -1,0 +1,12 @@
+.idea/
+src/Votifier/Client/
+tests/Votifier/Client/
+.coveralls.yml
+.gitattributes
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

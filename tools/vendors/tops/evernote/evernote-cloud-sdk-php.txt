@@ -1,0 +1,12 @@
+documentation/
+sample/
+src/
+tests/
+.gitignore
+.travis.yml
+APACHE-LICENSE-2.0.txt
+LICENSE
+NOTICE
+README.md
+composer.json
+phpunit.xml.dist

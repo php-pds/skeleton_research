@@ -1,0 +1,5 @@
+Symcode/Mediawiki/SymfonyBridge/
+.gitignore
+LICENSE
+README.md
+composer.json

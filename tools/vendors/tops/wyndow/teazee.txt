@@ -1,0 +1,12 @@
+bin/
+spec/
+src/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CONTRIBUTING.md
+LICENSE
+README.md
+composer.json
+composer.lock
+kahlan-config.php

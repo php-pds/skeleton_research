@@ -1,0 +1,7 @@
+assets/
+KCFinder.php
+KCFinderAsset.php
+KCFinderInputWidget.php
+KCFinderWidgetAsset.php
+README.md
+composer.json

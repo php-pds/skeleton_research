@@ -1,0 +1,6 @@
+.gitignore
+composer.json
+language.xml
+nl_NL.csv
+readme.md
+registration.php

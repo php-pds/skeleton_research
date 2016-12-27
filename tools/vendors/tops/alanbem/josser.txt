@@ -1,0 +1,8 @@
+src/Josser/
+tests/Josser/Tests/
+.gitignore
+.travis.yml
+LICENSE
+README.mdown
+composer.json
+phpunit.xml

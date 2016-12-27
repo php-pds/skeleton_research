@@ -1,0 +1,10 @@
+seed/
+tests/
+.editorconfig
+.gitignore
+.htaccess
+LICENSE
+composer.json
+composer.lock
+index.php
+readme.md

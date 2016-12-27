@@ -1,0 +1,6 @@
+.gitignore
+LICENSE
+NestedArray.php
+README.md
+Text.php
+composer.json

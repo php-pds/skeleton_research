@@ -1,0 +1,13 @@
+examples/
+src/Cart/
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CHANGELOG.md
+LICENSE.md
+README.md
+composer.json
+composer.lock
+phpunit.xml
+upload_cc.sh

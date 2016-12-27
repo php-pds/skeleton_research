@@ -1,0 +1,24 @@
+Plugin-Default/
+angkorcms/
+app/
+bootstrap/
+config/
+database/
+public/
+resources/
+storage/
+tests/
+.env.example
+.gitignore
+AngkorCMS - Documentation.pdf
+artisan
+composer.json
+composer.lock
+gulpfile.js
+package.json
+phpspec.yml
+phpunit.xml
+readme.md
+routes.txt
+server.php
+studio.json

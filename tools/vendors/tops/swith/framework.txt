@@ -1,0 +1,11 @@
+App/
+Core/
+.DS_Store
+.gitignore
+.htaccess
+LICENCE
+README.md
+Swith
+changelog.md
+composer.json
+composer.lock

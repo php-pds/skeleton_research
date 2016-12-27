@@ -1,0 +1,3 @@
+src/Encoding/
+README.md
+composer.json

@@ -1,0 +1,6 @@
+bin/
+src/Behat/Sauce/
+vendor/Sauce-Connect/
+LICENSE
+README.md
+composer.json

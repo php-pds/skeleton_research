@@ -1,0 +1,6 @@
+src/
+LICENSE.md
+composer.json
+license_gpl2
+license_gpl3
+license_newbsd

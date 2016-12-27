@@ -1,0 +1,10 @@
+public/
+src/
+.gitignore
+CONTRIBUTING.md
+LICENSE
+README.md
+composer.json
+composer.lock
+config.example.php
+phpdoc.xml

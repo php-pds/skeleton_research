@@ -1,0 +1,9 @@
+examples/
+.gitignore
+LICENSE.txt
+README.txt
+cgistream.php
+composer.json
+httprequest.php
+httpresponse.php
+httpserver.php

@@ -1,0 +1,7 @@
+DawPhpConfig/
+.gitignore
+README-fr.md
+README.md
+composer.json
+composer.lock
+composer.phar

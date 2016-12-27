@@ -1,0 +1,13 @@
+Client/
+Command/
+DataCollector/
+DependencyInjection/
+Logger/
+Resources/
+Tests/
+.gitignore
+.travis.yml
+ADRCassandraBundle.php
+README.md
+composer.json
+phpunit.xml.dist

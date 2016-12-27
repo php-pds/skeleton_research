@@ -1,0 +1,5 @@
+Console/Command/
+TestSuite/
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,8 @@
+Sources/Sohoa/
+Tests/Unit/
+.gitignore
+.php_cs
+.travis.yml
+CONTRIBUTORS.md
+README.md
+composer.json

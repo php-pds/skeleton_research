@@ -1,0 +1,6 @@
+src/
+.gitignore
+README.md
+StashQueries.php
+composer.json
+index.php

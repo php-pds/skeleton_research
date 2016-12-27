@@ -1,0 +1,9 @@
+app/
+bin/
+src/daliaIT/rough/
+.gitignore
+README.md
+autoload.php
+composer.json
+composer.lock
+license.txt

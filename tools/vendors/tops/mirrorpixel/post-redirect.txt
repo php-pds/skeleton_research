@@ -1,0 +1,12 @@
+examples/
+src/Mirrorpixel/PostRedirect/
+tests/
+vagrant/
+.gitignore
+.travis.yml
+README.md
+Vagrantfile
+composer.json
+phpdoc.dist.xml
+phpunit.vagrant.sh
+phpunit.xml.dist

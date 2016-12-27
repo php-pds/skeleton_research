@@ -1,0 +1,7 @@
+Plugin/
+etc/
+.gitignore
+README.md
+composer.json
+contributors.txt
+registration.php

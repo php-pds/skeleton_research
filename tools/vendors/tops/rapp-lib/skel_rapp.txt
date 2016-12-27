@@ -1,0 +1,12 @@
+app/
+bin/
+config/
+html/
+mail/
+tmp/
+.gitignore
+.htaccess
+.htpasswd
+bootstrap.php
+composer.json
+composer.lock

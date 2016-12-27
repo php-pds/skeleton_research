@@ -1,0 +1,7 @@
+lib/
+.arcconfig
+.arclint
+.gitignore
+LICENSE.txt
+README.md
+composer.json

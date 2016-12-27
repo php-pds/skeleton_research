@@ -1,0 +1,7 @@
+src/Webapi/
+test/
+.gitignore
+.travis.yml
+Makefile
+README.md
+composer.json

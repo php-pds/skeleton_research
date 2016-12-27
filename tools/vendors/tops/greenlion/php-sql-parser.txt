@@ -1,0 +1,16 @@
+.settings/
+examples/
+libs/codesniffer/
+src/PHPSQLParser/
+tests/
+vendor/
+wiki/
+.buildpath
+.eclipse-PHP-formatter.xml
+.gitignore
+.gitmodules
+.project
+LICENSE
+README.md
+composer.json
+phpunit.xml

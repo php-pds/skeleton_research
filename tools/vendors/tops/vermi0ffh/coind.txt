@@ -1,0 +1,10 @@
+PhpCoinD/
+doc/
+.gitignore
+LICENCE
+README.md
+coind.php
+composer.json
+composer.lock
+composer.phar
+phpunit.xml

@@ -1,0 +1,7 @@
+config/
+src/ZfBootstrapORM/
+.gitignore
+Module.php
+README.md
+autoload_classmap.php
+composer.json

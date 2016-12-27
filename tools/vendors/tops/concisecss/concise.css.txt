@@ -1,0 +1,15 @@
+dist/
+globals/
+src/
+.editorconfig
+.gitignore
+CONTRIBUTING.md
+Jakefile
+LICENSE
+README.md
+_globals.scss
+bower.json
+composer.json
+concise.scss
+package.json
+test.html

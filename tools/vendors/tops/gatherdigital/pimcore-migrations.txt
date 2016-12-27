@@ -1,0 +1,6 @@
+lib/PimcoreMigrations/
+.gitignore
+LICENSE
+README.md
+composer.json
+plugin.xml

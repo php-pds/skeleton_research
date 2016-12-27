@@ -1,0 +1,10 @@
+gw-admin/themes/gwpress/
+gw-content/
+gw-includes/
+.gitignore
+.htaccess.dist
+README.md
+composer.json
+composer.lock
+gw-config.php.dist
+index.php

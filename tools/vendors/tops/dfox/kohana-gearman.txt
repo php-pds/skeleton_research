@@ -1,0 +1,11 @@
+classes/
+config/
+guide/gearman/
+tests/
+.gitignore
+.gitmodules
+CHANGELOG.md
+CONTRIBUTING.md
+README.md
+composer.json
+phpunit.xml

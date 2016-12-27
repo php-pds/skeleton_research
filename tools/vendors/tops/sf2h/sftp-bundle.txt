@@ -1,0 +1,8 @@
+Command/
+DependencyInjection/
+Resources/config/
+SFTP/
+.gitignore
+README.md
+SF2HelpersSFTPBundle.php
+composer.json

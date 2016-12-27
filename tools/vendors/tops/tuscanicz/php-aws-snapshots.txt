@@ -1,0 +1,6 @@
+src/AwsSnapshots/
+tests/AwsSnapshots/Cli/
+.gitignore
+composer.json
+composer.lock
+readme.md

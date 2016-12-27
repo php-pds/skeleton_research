@@ -1,0 +1,9 @@
+cache/
+data/local/
+.gitignore
+README.md
+composer.json
+config.php
+index.php
+router.php
+services.php

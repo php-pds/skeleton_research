@@ -1,0 +1,13 @@
+app/
+config/
+database/
+public/
+storage/
+tests/
+.bowerrc
+.travis.yml
+README.md
+bower.json
+composer.json
+license.txt
+phpdoc.dist.xml

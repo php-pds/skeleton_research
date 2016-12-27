@@ -1,0 +1,5 @@
+src/Mygate/
+tests/
+.travis.yml
+composer.json
+readme.md

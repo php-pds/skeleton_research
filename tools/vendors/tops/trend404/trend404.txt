@@ -1,0 +1,9 @@
+apache/
+example/
+src/Trend404/
+LICENSE
+Module.php
+README.md
+autoload_classmap.php
+autoload_register.php
+composer.json

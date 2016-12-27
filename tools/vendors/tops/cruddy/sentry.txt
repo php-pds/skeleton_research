@@ -1,0 +1,4 @@
+src/Kalnoy/Cruddy/Sentry/
+.gitignore
+README.md
+composer.json

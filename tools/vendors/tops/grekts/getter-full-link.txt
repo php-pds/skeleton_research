@@ -1,0 +1,4 @@
+models/
+GetterFullLink.php
+README.md
+composer.json

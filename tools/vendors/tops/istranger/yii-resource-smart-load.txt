@@ -1,0 +1,6 @@
+assets/
+LICENSE
+README.md
+RSmartLoadClientScript.php
+RSmartLoadHelper.php
+composer.json

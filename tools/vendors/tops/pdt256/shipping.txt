@@ -1,0 +1,10 @@
+.idea/
+src/
+tests/
+.gitignore
+.travis.yml
+LICENSE.txt
+README.md
+composer.json
+live_phpunit.sh.example
+phpunit.xml

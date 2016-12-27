@@ -1,0 +1,6 @@
+src/Passioncoder/SimpleCurl/
+.gitignore
+LICENSE
+composer.json
+provides.json
+readme.md

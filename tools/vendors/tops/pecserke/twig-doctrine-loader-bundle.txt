@@ -1,0 +1,12 @@
+DependencyInjection/
+Model/
+Resources/
+Tests/
+Twig/Loader/
+.gitignore
+.travis.yml
+LICENSE
+PecserkeTwigDoctrineLoaderBundle.php
+README.md
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,5 @@
+src/Zarathustra/JsonApiSerializer/
+.gitignore
+LICENSE
+README.md
+composer.json

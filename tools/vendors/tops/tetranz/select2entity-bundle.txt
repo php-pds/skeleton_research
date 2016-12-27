@@ -1,0 +1,8 @@
+DependencyInjection/
+Form/
+Resources/
+.gitignore
+LICENSE
+README.md
+TetranzSelect2EntityBundle.php
+composer.json

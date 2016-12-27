@@ -1,0 +1,4 @@
+src/ksk88/WeightedLotteryPhp/
+tests/
+README.md
+composer.json

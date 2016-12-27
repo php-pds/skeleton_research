@@ -1,0 +1,14 @@
+cache/
+cron/
+include/
+locales/
+src/Geocaching/Georoadbook/
+templates/
+web/
+.gitignore
+.htaccess
+LICENSE
+README.md
+composer.json
+composer.lock
+html2pdf.js

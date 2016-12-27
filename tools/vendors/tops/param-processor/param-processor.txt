@@ -1,0 +1,12 @@
+src/
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+COPYING
+DefaultConfig.php
+README.md
+composer.json
+phpcs.xml
+phpmd.xml
+phpunit.xml.dist

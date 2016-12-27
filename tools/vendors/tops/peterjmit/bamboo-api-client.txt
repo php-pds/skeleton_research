@@ -1,0 +1,5 @@
+spec/Peterjmit/Bamboo/
+src/Peterjmit/Bamboo/
+.gitignore
+README.md
+composer.json

@@ -1,0 +1,11 @@
+.idea/
+example-views/
+helpers/
+tests/
+web/
+widgets/
+.gitignore
+CHANGELOG.md
+LICENSE
+README.md
+composer.json

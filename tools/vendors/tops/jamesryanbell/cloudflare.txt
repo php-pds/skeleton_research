@@ -1,0 +1,12 @@
+src/CloudFlare/
+tests/
+.gitignore
+.scrutinizer.yml
+.styleci.yml
+.travis.yml
+composer.json
+composer.lock
+docs.sh
+phpdoc.dist.xml
+phpunit.xml
+readme.md

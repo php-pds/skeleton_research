@@ -1,0 +1,12 @@
+DependencyInjection/
+Resources/
+Service/
+Tests/Service/
+Twig/Extension/
+.gitignore
+.travis.yml
+JokubasRLithuanianNamesDeclensionBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

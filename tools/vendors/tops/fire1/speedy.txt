@@ -1,0 +1,7 @@
+lib/speedy-eps-lib/
+src/Fire1/Speedy/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json

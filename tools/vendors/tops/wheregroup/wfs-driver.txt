@@ -1,0 +1,7 @@
+Component/
+Entity/
+Tests/
+.gitignore
+LICENSE
+README.md
+composer.json

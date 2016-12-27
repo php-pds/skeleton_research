@@ -1,0 +1,16 @@
+demo/
+src/
+.coveralls.yml
+.editorconfig
+.gitignore
+.travis.yml
+CONTRIBUTING.md
+Dockerfile
+LICENSE.md
+Makefile
+README.md
+composer.json
+composer.lock
+create-phar.php
+index.php
+phpunit.xml

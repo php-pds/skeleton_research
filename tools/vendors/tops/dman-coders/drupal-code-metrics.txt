@@ -1,0 +1,16 @@
+reporting/top100/
+src/
+.gitignore
+NOTES-learning.md
+NOTES-running_tests.md
+NOTES.md
+README.md
+bootstrap.php
+cli-config.php
+composer.json
+composer.lock
+demo-checkIndex.php
+dump-LOCReport.php
+dump-ModuleReport.php
+env.sh
+reset-doctrine.sh

@@ -1,0 +1,17 @@
+app/
+cms/
+configurations/
+core/
+public/
+resources/
+temp/
+tests/core/
+.gitignore
+.htaccess
+CHANGELOG.md
+LICENSE.txt
+README.md
+VERSION
+composer.json
+index.php
+silla

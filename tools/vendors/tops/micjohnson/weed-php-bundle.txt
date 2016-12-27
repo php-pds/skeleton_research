@@ -1,0 +1,8 @@
+DependencyInjection/
+Entity/
+Resources/config/
+MicjohnsonWeedPhpBundle.php
+README.md
+WeedManager.php
+WeedStorage.php
+composer.json

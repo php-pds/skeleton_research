@@ -1,0 +1,10 @@
+Tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+SocialSecurityNumber.php
+SocialSecurityNumberValidator.php
+composer.json
+composer.lock
+phpunit.xml.dist

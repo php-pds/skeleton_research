@@ -1,0 +1,9 @@
+Classes/Refactory/Login/
+Configuration/
+Documentation/Images/
+Migrations/Mysql/
+Resources/
+.gitignore
+.travis.yml
+README.md
+composer.json

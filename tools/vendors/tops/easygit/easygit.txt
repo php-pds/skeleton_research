@@ -1,0 +1,9 @@
+lib/EasyGit/
+sh/
+tests/
+.gitignore
+.travis.yml
+EasyGit.php
+LICENSE
+README.md
+composer.json

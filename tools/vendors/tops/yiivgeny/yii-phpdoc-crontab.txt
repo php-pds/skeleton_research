@@ -1,0 +1,4 @@
+examples/
+PHPDocCrontab.php
+README.md
+composer.json

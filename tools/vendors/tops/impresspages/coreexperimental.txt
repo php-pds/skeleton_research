@@ -1,0 +1,7 @@
+Ip/
+bin/
+start-pack/
+.gitignore
+composer.json
+license.html
+readme.md

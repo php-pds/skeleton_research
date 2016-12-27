@@ -1,0 +1,7 @@
+.idea/
+src/Mojio/
+tests/
+.gitignore
+README.md
+composer.json
+phar-stub.php

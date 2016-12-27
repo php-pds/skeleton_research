@@ -1,0 +1,11 @@
+_config/
+code/
+.editorconfig
+.gitattributes
+.htaccess
+changelog.md
+code-of-conduct.md
+composer.json
+contributing.md
+license.md
+readme.md

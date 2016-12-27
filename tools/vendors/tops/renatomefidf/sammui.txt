@@ -1,0 +1,13 @@
+app/
+bin/
+docs/
+src/
+web/
+.gitignore
+.jshintrc
+.travis.yml
+LICENSE
+README.md
+build.xml
+composer.json
+composer.lock

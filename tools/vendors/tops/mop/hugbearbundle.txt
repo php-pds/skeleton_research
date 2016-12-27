@@ -1,0 +1,12 @@
+DataCollector/
+DependencyInjection/
+EventListener/
+Resources/
+Tests/
+.gitignore
+.travis.yml
+LICENSE
+MopHugbearBundle.php
+README.md
+composer.json
+phpunit.xml.dist

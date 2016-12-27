@@ -1,0 +1,10 @@
+public/
+src/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock
+config.example.php
+initDatabase.php

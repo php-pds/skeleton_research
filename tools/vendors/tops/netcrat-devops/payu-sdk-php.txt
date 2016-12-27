@@ -1,0 +1,14 @@
+lib/
+tests/
+.coveralls.yml
+.gitignore
+.travis.yml
+LICENSE
+README.md
+VERSION
+build.php
+composer.json
+composer.lock
+init.php
+phpunit.no_autoload.xml
+phpunit.xml

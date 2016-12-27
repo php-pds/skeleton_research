@@ -1,0 +1,15 @@
+classes/
+tests/
+vendor/
+.gitignore
+.travis.yml
+Gruntfile.js
+LICENSE
+README.md
+composer.json
+composer.lock
+events-manager-osm.js
+events-manager-osm.php
+package.json
+phpunit.xml
+readme.txt

@@ -1,0 +1,12 @@
+examples/
+lib/Useris/
+tests/
+.gitattributes
+.gitignore
+.travis.yml
+LICENSE
+README.md
+autoload.php
+composer.json
+phpunit.xml.dist
+phpunit.xml.travisci

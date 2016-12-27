@@ -1,0 +1,5 @@
+src/SwiftMailer/Transport/
+.gitignore
+LICENSE
+README.md
+composer.json

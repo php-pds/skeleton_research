@@ -1,0 +1,3 @@
+src/AlexWells/Emitter/
+LICENSE
+composer.json

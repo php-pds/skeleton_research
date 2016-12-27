@@ -1,0 +1,13 @@
+classes/Scherzo/
+examples/demo/
+test/unit/
+vendor/tracy/tracy/
+.gitignore
+.travis.yml
+Gruntfile.js
+LICENSE
+README.md
+composer.json
+index.php
+package.json
+phpdoc.xml

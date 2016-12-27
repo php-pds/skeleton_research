@@ -1,0 +1,6 @@
+src/IndieAuth/
+.gitignore
+LICENSE.txt
+README.md
+composer.json
+composer.lock

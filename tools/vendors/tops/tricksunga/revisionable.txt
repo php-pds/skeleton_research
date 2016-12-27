@@ -1,0 +1,9 @@
+spec/Sofa/Revisionable/
+src/
+tests/Laravel/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpspec.yml

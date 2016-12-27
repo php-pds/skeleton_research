@@ -1,0 +1,11 @@
+controllers/
+models/
+views/
+README.md
+composer.json
+fotograf.php
+m130524_201442_init.php
+m160518_092252_album.php
+m160518_092811_photos.php
+m160518_095334_friends.php
+m160518_100153_yetki.php

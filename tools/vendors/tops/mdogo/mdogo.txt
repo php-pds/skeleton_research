@@ -1,0 +1,8 @@
+bin/
+src/
+test/
+DEFAULTS.ini
+LICENSE.md
+README.md
+composer.json
+mdogo.php

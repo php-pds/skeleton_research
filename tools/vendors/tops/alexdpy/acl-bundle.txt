@@ -1,0 +1,15 @@
+DataCollector/
+DependencyInjection/
+Exception/
+Manager/
+Permission/
+Resources/
+Tests/
+Token/
+Twig/
+.gitignore
+.travis.yml
+AlexDpyAclBundle.php
+README.md
+composer.json
+phpunit.xml

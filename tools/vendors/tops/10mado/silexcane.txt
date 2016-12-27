@@ -1,0 +1,3 @@
+src/Silexcane/
+README.md
+composer.json

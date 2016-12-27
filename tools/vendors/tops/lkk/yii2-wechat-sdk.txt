@@ -1,0 +1,6 @@
+components/
+mp/
+.gitignore
+LICENSE
+MpWechat.php
+composer.json

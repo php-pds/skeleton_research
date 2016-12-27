@@ -1,0 +1,7 @@
+Command/
+Controller/
+DependencyInjection/
+Resources/
+Tests/Controller/
+TuskRedisMqBundle.php
+composer.json

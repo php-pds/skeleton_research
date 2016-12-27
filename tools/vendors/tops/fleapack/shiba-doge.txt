@@ -1,0 +1,8 @@
+Classes/Fleapack/Shiba/Doge/
+Configuration/
+Documentation/
+Resources/
+Tests/Unit/
+LICENSE
+README.md
+composer.json

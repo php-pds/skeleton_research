@@ -1,0 +1,11 @@
+bin/
+doc/
+src/Pum/
+.bowerrc
+.gitignore
+LICENSE
+README.rst
+bower.json
+composer.json
+phpunit.xml.dist
+test.sh

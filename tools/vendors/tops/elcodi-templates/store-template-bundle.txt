@@ -1,0 +1,15 @@
+.grunt/grunt-contrib-jasmine/
+Resources/
+Scss/
+fixtures/
+grunt/
+.gitignore
+Gruntfile.js
+README.md
+StoreTemplateBundle.php
+bower.json
+composer.json
+config.rb
+database.json
+package.json
+template.yml

@@ -1,0 +1,11 @@
+DependencyInjection/
+Entity/
+Repository/
+Resources/config/doctrine/
+Tests/Entity/
+.gitignore
+CuteNinjaPersonaBundle.php
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

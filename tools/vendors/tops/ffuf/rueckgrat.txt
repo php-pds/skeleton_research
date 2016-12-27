@@ -1,0 +1,7 @@
+build/
+src/Rueckgrat/
+test/
+.gitignore
+build.xml
+composer.json
+phpunit.xml.dist

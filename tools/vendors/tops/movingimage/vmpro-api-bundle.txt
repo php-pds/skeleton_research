@@ -1,0 +1,13 @@
+Command/
+DependencyInjection/
+Resources/
+Tests/
+.gitignore
+.php_cs
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+VMProApiBundle.php
+composer.json
+phpunit.xml.dist

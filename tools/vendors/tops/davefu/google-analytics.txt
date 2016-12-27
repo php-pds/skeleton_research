@@ -1,0 +1,5 @@
+src/davefu/GoogleAnalytics/
+.gitignore
+README.md
+composer.json
+license.txt

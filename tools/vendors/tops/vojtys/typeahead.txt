@@ -1,0 +1,6 @@
+client-side/
+src/
+.gitattributes
+.gitignore
+README.md
+composer.json

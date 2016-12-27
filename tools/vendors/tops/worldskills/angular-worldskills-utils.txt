@@ -1,0 +1,6 @@
+images/
+src/
+.gitignore
+README.md
+bower.json
+composer.json

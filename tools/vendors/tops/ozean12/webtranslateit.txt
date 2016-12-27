@@ -1,0 +1,12 @@
+Command/
+DTO/
+DependencyInjection/
+Resources/config/
+Service/
+Tests/
+.scrutinizer.yml
+.travis.yml
+Ozean12WebTranslateItBundle.php
+README.md
+composer.json
+phpunit.xml.dist

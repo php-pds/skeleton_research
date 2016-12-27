@@ -1,0 +1,7 @@
+examples/
+src/Nrk/Fluent/Monolog/
+.gitignore
+LICENSE
+README.md
+autoload.php
+composer.json

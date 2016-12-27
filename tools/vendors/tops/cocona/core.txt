@@ -1,0 +1,9 @@
+config/
+resources/views/
+src/Cocona/Core/
+tests/
+.gitattributes
+.gitignore
+.travis.yml
+composer.json
+phpunit.xml

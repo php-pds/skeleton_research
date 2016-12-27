@@ -1,0 +1,5 @@
+example/
+src/Hyperreal/AcidClient/
+.gitignore
+README.md
+composer.json

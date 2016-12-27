@@ -1,0 +1,6 @@
+DependencyInjection/
+Form/
+Resources/
+EntityHiddenTypeBundle.php
+README.md
+composer.json

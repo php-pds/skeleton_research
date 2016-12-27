@@ -1,0 +1,13 @@
+build/
+src/
+tests/
+.gitignore
+.scrutinizer.yml
+.simplecov
+.travis.yml
+CHANGELOG.md
+LICENSE.txt
+README.md
+build.xml
+composer.json
+composer.lock

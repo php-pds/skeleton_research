@@ -1,0 +1,12 @@
+admin/
+bin/
+lib/
+tests/
+.travis.yml
+README.md
+boot.php
+composer.json
+phpunit.xml
+readme.txt
+underscore.php
+wp-on-routes.php

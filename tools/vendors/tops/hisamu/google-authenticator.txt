@@ -1,0 +1,8 @@
+lib/Google/Authenticator/
+sample/
+tests/
+.travis.yml
+LICENSE
+README
+composer.json
+phpunit.xml.dist

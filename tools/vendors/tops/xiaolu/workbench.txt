@@ -1,0 +1,11 @@
+.idea/
+Console/
+stubs/
+.gitignore
+Package.php
+PackageCreator.php
+README.md
+Starter.php
+WorkbenchServiceProvider.php
+composer.json
+config.php

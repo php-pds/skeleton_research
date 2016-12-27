@@ -1,0 +1,12 @@
+DependencyInjection/
+Exception/
+Resources/config/
+Tests/
+.gitignore
+.travis.yml
+Ftp.php
+IjankiFtpBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,16 @@
+spec/
+src/
+tests/
+.editorconfig
+.gitattributes
+.gitignore
+.travis.yml
+composer.json
+eloquent.js
+gulpfile.js
+license.md
+package.json
+phpspec.yml
+phpunit.xml
+readme.md
+steak.yml

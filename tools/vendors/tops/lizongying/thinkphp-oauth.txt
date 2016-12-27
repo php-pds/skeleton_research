@@ -1,0 +1,6 @@
+Test/
+examples/
+src/Thinkphp/Test/
+.gitignore
+README.md
+composer.json

@@ -1,0 +1,8 @@
+apps/foo/
+config/
+lib/
+modules/
+web/
+.gitignore
+README
+composer.json

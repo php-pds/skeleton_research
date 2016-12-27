@@ -1,0 +1,8 @@
+example/
+src/fdisotto/
+tests/
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

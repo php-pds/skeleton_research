@@ -1,0 +1,7 @@
+lib/
+test/
+.gitignore
+MIT-LICENSE
+README.markdown
+composer.json
+curl.php

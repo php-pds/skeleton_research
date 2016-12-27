@@ -1,0 +1,7 @@
+classes/
+config/
+docs/
+LICENSE
+README.md
+composer.json
+init.php

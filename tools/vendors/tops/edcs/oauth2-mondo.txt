@@ -1,0 +1,10 @@
+demo/
+src/Provider/
+test/src/Client/
+.gitattributes
+.gitignore
+CONTRIBUTING.md
+LICENSE
+README.md
+composer.json
+phpunit.xml

@@ -1,0 +1,6 @@
+docs/
+phingistrano/
+test/
+LICENSE
+README.md
+composer.json

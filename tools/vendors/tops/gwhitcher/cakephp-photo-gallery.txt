@@ -1,0 +1,4 @@
+PhotoGallery/
+.gitignore
+README.md
+composer.json

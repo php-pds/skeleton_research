@@ -1,0 +1,11 @@
+.settings/
+config/
+src/WwtgPhotoAlbum/
+test/
+view/wwtg-photo-album/
+.buildpath
+.project
+Module.php
+README.md
+autoload_classmap.php
+composer.json

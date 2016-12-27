@@ -1,0 +1,5 @@
+src/Litmus/Sdk/
+.gitignore
+LICENSE
+README.md
+composer.json

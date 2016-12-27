@@ -1,0 +1,8 @@
+src/
+tests/
+.gitignore
+Readme.md
+Todos.txt
+composer.json
+composer.lock
+data.json

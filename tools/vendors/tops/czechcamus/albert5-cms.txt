@@ -1,0 +1,13 @@
+private/
+web/
+.gitignore
+LICENSE.md
+README.md
+composer.json
+composer.lock
+init
+init.bat
+install.bat
+requirements.php
+yii
+yii.bat

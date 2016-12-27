@@ -1,0 +1,6 @@
+files/jedo-testimonials/
+system/modules/jedo-testimonials/
+.gitattributes
+.gitignore
+README.md
+composer.json

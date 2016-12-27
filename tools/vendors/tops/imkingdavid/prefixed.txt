@@ -1,0 +1,12 @@
+acp/
+adm/style/
+config/
+core/
+event/
+language/en/
+migrations/v10x/
+styles/
+.gitignore
+README.md
+composer.json
+ext.php

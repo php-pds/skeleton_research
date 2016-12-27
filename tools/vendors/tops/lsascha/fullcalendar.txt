@@ -1,0 +1,10 @@
+Classes/Lsascha/FullCalendar/
+Configuration/
+Documentation/
+Migrations/
+Resources/
+Tests/Unit/Domain/Model/
+.gitignore
+LICENSE
+README.md
+composer.json

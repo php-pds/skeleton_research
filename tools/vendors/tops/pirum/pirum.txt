@@ -1,0 +1,7 @@
+CHANGELOG
+LICENSE
+README.markdown
+composer.json
+package.xml
+pirum
+pirum.bat

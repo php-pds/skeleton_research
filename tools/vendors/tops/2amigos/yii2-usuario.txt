@@ -1,0 +1,16 @@
+.github/
+docs/
+lib/User/
+tests/
+.editorconfig
+.gitattributes
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CHANGELOG.md
+LICENSE.md
+README.md
+UPGRADE.md
+codeception.dist.yml
+composer.json
+composer.lock

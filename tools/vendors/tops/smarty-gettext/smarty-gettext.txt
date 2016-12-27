@@ -1,0 +1,16 @@
+tests/
+.editorconfig
+.gitattributes
+.gitignore
+.php_cs
+.travis.yml
+COPYING
+ChangeLog.md
+README.md
+appveyor.yml
+block.t.php
+composer.json
+function.locale.php
+phpunit.xml
+tsmarty2c.1
+tsmarty2c.php

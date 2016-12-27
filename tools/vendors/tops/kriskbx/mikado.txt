@@ -1,0 +1,13 @@
+config/mikado/
+spec/
+src/
+.gitignore
+.travis.yml
+Gulpfile.js
+LICENSE
+README.md
+composer.json
+composer.lock
+fail.png
+package.json
+phpspec.yml

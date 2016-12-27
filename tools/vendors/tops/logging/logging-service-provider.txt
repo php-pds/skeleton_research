@@ -1,0 +1,4 @@
+src/Logging/LoggingServiceProvider/
+.gitignore
+README.md
+composer.json

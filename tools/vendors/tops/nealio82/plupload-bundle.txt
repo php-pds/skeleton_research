@@ -1,0 +1,3 @@
+PlUploadBundle/
+README.md
+composer.json

@@ -1,0 +1,8 @@
+DependencyInjection/
+Monolog/Handler/
+Resources/config/
+.gitignore
+LICENSE
+MonologFluentdBundle.php
+README.md
+composer.json

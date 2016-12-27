@@ -1,0 +1,8 @@
+public/
+templates/
+.gitignore
+LICENSE.md
+README.md
+composer.json
+config_example.php
+init.php

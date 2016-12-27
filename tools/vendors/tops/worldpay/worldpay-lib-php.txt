@@ -1,0 +1,8 @@
+examples/
+lib/
+.gitignore
+LICENSE
+changelog.md
+composer.json
+init.php
+readme.md

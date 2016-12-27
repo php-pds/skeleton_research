@@ -1,0 +1,12 @@
+bin/
+library/Emphloyer/
+tests/
+.gitattributes
+.gitignore
+CHANGELOG.md
+LICENSE.txt
+README.md
+Vagrantfile
+composer.json
+phpunit.xml
+vagrant-provision.sh

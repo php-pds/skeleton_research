@@ -1,0 +1,7 @@
+Command/
+Generator/
+Resources/skeleton/bundle/
+GtaCoolHtml5InuitCssBoilerplateBundle.php
+LICENSE
+README.md
+composer.json

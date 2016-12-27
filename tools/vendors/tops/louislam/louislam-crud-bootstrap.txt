@@ -1,0 +1,8 @@
+src/App/
+.gitattributes
+.gitignore
+.htaccess
+LICENSE.md
+README.md
+composer.json
+index.php

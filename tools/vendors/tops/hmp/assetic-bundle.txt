@@ -1,0 +1,6 @@
+DependencyInjection/
+Filter/
+Resources/config/
+HmpAsseticBundle.php
+README.md
+composer.json

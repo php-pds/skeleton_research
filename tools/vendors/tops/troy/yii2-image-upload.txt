@@ -1,0 +1,8 @@
+assets/
+store/
+ImageUpload.php
+ImageUploadAsset.php
+README.md
+StoreInterface.php
+UploadAction.php
+composer.json

@@ -1,0 +1,13 @@
+examples/
+py @ 463d780
+src/
+test/lib/
+.gitignore
+.gitmodules
+.travis.yml
+LICENSE-MIT
+README.rst
+composer.json
+composer.lock
+dev-setup
+test.php

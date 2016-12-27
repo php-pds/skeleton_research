@@ -1,0 +1,12 @@
+.gitignore
+ErrorException.php
+ExcelFileHandler.php
+FetchDataFile.php
+FileHandlerInterface.php
+FtpUpload.php
+LICENSE
+PlainFileHandler.php
+README.md
+ReceivData.php
+composer.json
+composer.lock

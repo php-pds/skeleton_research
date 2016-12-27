@@ -1,0 +1,8 @@
+example/
+src/MultiRequest/
+.gitattributes
+.gitignore
+LICENSE
+README.md
+changelog.txt
+composer.json

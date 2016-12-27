@@ -1,0 +1,14 @@
+gulp/
+src/
+tests/
+.gitignore
+.travis.yml
+Dockerfile
+LICENSE
+README.md
+apigen.phar
+composer.json
+composer.lock
+gulpfile.js
+package.json
+phpunit.xml

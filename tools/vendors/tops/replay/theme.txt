@@ -1,0 +1,13 @@
+resources/
+src/
+vendor/
+.gitignore
+code-of-conduct.md
+composer.json
+composer.lock
+gulpfile.js
+license.md
+package.json
+readme.md
+screenshot.png
+yarn.lock

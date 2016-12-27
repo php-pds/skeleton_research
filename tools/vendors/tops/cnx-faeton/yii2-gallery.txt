@@ -1,0 +1,6 @@
+admin/
+controllers/
+models/
+views/
+composer.json
+gallery.php

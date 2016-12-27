@@ -1,0 +1,4 @@
+app/
+bin/
+.gitignore
+composer.json

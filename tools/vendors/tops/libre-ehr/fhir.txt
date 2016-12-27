@@ -1,0 +1,17 @@
+config/
+database/migrations/
+docs/
+files/
+schemas/fhir-codegen-xsd-2.6/
+scripts/
+sql/
+src/
+tests/
+.editorconfig
+CHANGELOG.md
+CONDUCT.md
+CONTRIBUTING.md
+LICENSE.md
+README.md
+composer.json
+phpunit.xml

@@ -1,0 +1,10 @@
+Block/
+Controller/Adminhtml/YotpoController/
+Helper/
+Model/
+etc/
+view/
+.gitignore
+README.md
+composer.json
+registration.php

@@ -1,0 +1,12 @@
+libsm/
+src/morphine/
+tests/
+.gitignore
+.gitmodules
+INSTALL
+LICENSE.txt
+README.md
+build.base.properties
+build.xml
+composer.json
+example.build.properties

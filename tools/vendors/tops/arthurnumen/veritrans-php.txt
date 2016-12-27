@@ -1,0 +1,12 @@
+Veritrans/
+data/
+examples/
+tests/
+.drone.yml
+.gitignore
+.travis.yml
+README.md
+Veritrans.php
+composer.json
+phpunit.xml
+test_bootstrap.php

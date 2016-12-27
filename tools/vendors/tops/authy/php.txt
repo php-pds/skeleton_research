@@ -1,0 +1,8 @@
+lib/Authy/
+tests/
+.gitignore
+Authy.php
+Makefile
+README.md
+composer.json
+phpunit.xml.dist

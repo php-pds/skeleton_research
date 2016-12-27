@@ -1,0 +1,3 @@
+Trello/
+README.md
+composer.json

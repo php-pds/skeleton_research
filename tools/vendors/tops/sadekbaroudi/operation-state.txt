@@ -1,0 +1,11 @@
+tests/
+.coveralls.yml
+.gitignore
+.travis.yml
+LICENSE
+OperationState.php
+OperationStateException.php
+OperationStateManager.php
+README.md
+composer.json
+phpunit.xml.dist

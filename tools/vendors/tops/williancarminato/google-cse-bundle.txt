@@ -1,0 +1,12 @@
+DependencyInjection/
+Model/
+Resources/config/
+Service/
+Tests/
+.gitignore
+.travis.yml
+CarminatoGoogleCseBundle.php
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

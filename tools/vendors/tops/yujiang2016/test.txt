@@ -1,0 +1,3 @@
+app/
+composer.json
+hd.php

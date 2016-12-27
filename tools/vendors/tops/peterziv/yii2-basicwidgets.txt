@@ -1,0 +1,5 @@
+LICENSE
+README.md
+ZSelect2InputWidget.php
+ZSelect2Widget.php
+composer.json

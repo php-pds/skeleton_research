@@ -1,0 +1,4 @@
+DependencyInjection/
+Resources/config/
+AgentSIBDiadocBundle.php
+composer.json

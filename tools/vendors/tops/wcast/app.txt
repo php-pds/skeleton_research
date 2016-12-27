@@ -1,0 +1,7 @@
+.idea/
+src/
+.gitignore
+README.md
+bootstrap.php
+composer.json
+composer.phar

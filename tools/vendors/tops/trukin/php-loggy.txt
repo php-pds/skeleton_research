@@ -1,0 +1,7 @@
+examples/
+src/loggy/
+.gitignore
+.gitmodules
+LICENSE
+README.md
+composer.json

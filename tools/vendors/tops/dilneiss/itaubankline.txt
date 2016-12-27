@@ -1,0 +1,5 @@
+documentacao/
+src/ItauBankline/
+tests/
+README.md
+composer.json

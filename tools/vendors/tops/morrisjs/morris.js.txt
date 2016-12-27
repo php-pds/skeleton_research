@@ -1,0 +1,15 @@
+examples/
+less/
+lib/
+spec/
+.gitignore
+.travis.yml
+Gruntfile.js
+README.md
+bower.json
+bower.travis.json
+composer.json
+morris.css
+morris.js
+morris.min.js
+package.json

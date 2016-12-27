@@ -1,0 +1,15 @@
+Application/
+Console/Command/
+Exception/
+Provider/
+Resources/
+Tests/
+bin/
+web/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

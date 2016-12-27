@@ -1,0 +1,13 @@
+app/view/flash/
+src/FlashMessages/
+test/
+webroot/
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+autoloader.php
+composer.json
+composer.lock
+coverage.clover
+phpunit.xml.dist

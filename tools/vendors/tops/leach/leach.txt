@@ -1,0 +1,15 @@
+bin/
+docs/
+examples/
+src/Leach/
+tests/
+.gitignore
+.travis.sh
+.travis.yml
+LICENSE
+README.md
+VERSION
+composer.json
+composer.lock
+phpmd.xml
+phpunit.xml.dist

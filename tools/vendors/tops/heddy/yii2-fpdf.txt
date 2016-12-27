@@ -1,0 +1,10 @@
+font/
+makefont/
+AutoloadExample.php
+FPDF.php
+LICENSE
+README.md
+composer.json
+fpdf.css
+install.txt
+license.txt

@@ -1,0 +1,7 @@
+lib/Weavora/Doctrine/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json

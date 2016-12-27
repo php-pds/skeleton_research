@@ -1,0 +1,10 @@
+DependencyInjection/
+Entity/
+Mapper/
+Resources/config/
+Services/
+.gitignore
+ClashOfClansBundle.php
+LICENSE
+README.md
+composer.json

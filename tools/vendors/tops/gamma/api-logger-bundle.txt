@@ -1,0 +1,11 @@
+DependencyInjection/
+Listener/
+Resources/config/
+Service/
+spec/Gamma/ApiLoggerBundle/
+.gitignore
+.travis.yml
+GammaApiLoggerBundle.php
+README.md
+composer.json
+phpspec.yml

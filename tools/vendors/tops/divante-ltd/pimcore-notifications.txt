@@ -1,0 +1,11 @@
+controllers/
+lib/PimcoreNotifications/
+static/
+texts/
+.gitignore
+README.md
+composer.json
+composer.lock
+plugin.xml
+schema_down.sql
+schema_up.sql

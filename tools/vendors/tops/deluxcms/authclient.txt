@@ -1,0 +1,7 @@
+assets/
+clients/
+components/
+source/
+widgets/
+README.md
+composer.json

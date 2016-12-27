@@ -1,0 +1,6 @@
+assets/
+demo/
+AdminLteAsset.php
+AdminLteIEAsset.php
+README.md
+composer.json

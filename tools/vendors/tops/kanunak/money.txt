@@ -1,0 +1,9 @@
+src/Money/
+test/Money/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml

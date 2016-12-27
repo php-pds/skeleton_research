@@ -1,0 +1,10 @@
+src/Tabbi/Silex/
+tests/
+.gitattributes
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.phar
+phpunit.xml

@@ -1,0 +1,5 @@
+bin/
+data/
+src/
+.gitignore
+composer.json

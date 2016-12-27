@@ -1,0 +1,10 @@
+Tests/
+Validator/Constraints/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+RuncomEanValidationBundle.php
+composer.json
+composer.lock
+phpunit.xml.dist

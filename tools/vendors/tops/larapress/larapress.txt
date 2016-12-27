@@ -1,0 +1,8 @@
+src/
+tests/
+.gitignore
+bower.json
+composer.json
+composer.lock
+gulpfile.js
+package.json

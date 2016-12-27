@@ -1,0 +1,11 @@
+Controller/
+DependencyInjection/
+Entity/
+Resources/
+Tests/
+.gitignore
+MattDunbarUserMicroServiceBundle.php
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

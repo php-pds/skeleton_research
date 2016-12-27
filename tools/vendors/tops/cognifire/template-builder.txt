@@ -1,0 +1,9 @@
+Classes/Cognifire/TemplateBuilder/
+Configuration/
+Documentation/
+Meta/
+Resources/Private/
+Tests/
+.travis.yml
+README.rst
+composer.json

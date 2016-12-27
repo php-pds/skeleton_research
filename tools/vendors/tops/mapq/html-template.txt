@@ -1,0 +1,7 @@
+examples/
+.gitignore
+README.md
+composer.json
+documentation.md
+documentation.pdf
+template.php

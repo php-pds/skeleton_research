@@ -1,0 +1,5 @@
+examples/
+src/mockingjay/
+.gitignore
+README.md
+composer.json

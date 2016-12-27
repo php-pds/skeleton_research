@@ -1,0 +1,15 @@
+assets/
+components/
+packages/orchestra/
+.bowerrc
+.gitattributes
+.gitignore
+README.md
+bower.json
+composer.json
+elixir.json
+gulpfile.js
+package.json
+screenshot.png
+start.php
+theme.json

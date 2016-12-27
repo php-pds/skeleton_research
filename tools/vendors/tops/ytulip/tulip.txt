@@ -1,0 +1,10 @@
+Application/
+Public/
+ThinkPHP/
+.gitattributes
+.gitignore
+.htaccess
+composer.json
+index.php
+key.min.js
+pctchange.js

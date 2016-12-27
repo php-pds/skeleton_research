@@ -1,0 +1,8 @@
+actions/
+controllers/
+models/
+widgets/
+LICENSE
+README.md
+RedactorModule.php
+composer.json

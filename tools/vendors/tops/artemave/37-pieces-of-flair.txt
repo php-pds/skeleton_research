@@ -1,0 +1,12 @@
+images/
+lib/
+.gitignore
+37-pieces-of-flair.gemspec
+Gemfile
+LICENSE.txt
+README.md
+Rakefile
+app.json
+composer.json
+package.json
+wercker.yml

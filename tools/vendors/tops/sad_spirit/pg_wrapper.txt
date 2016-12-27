@@ -1,0 +1,7 @@
+src/sad_spirit/pg_wrapper/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json

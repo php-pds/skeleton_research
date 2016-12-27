@@ -1,0 +1,11 @@
+languages/
+public/js/
+src/Hyyan/WPI/
+vendor/
+.gitignore
+CHANGELOG.md
+LICENSE
+README.md
+composer.json
+readme.txt
+woopoly.php

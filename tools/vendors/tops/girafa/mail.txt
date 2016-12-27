@@ -1,0 +1,5 @@
+config/
+src/Girafa/Mail/
+Module.php
+README.md
+composer.json

@@ -1,0 +1,12 @@
+examples/
+script/
+src/
+templates/
+.gitignore
+.scrutinizer.yml
+CHANGELOG.md
+CONTRIBUTING.md
+ISSUE_TEMPLATE.md
+LICENSE.txt
+README.md
+composer.json

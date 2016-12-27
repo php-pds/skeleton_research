@@ -1,0 +1,15 @@
+Controller/
+DependencyInjection/
+Model/
+Resources/
+Tests/Model/
+build/logs/
+.coveralls.yml
+.gitignore
+.scrutinizer.yml
+.travis.yml
+DwrAvatarBundle.php
+README.md
+composer.json
+composer.lock
+phpunit.xml

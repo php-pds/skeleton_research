@@ -1,0 +1,11 @@
+bin/
+src/Addiks/PHPSQL/
+tests/Addiks/PHPSQL/
+.gitignore
+.travis.yml
+HACKING.md
+LICENCE
+README.md
+TODO
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,11 @@
+.gitignore
+ErrorCode.php
+LICENSE
+PKCS7Encoder.php
+Prpcrypt.php
+README.md
+SHA1.php
+WXBizMsgCrypt.php
+XMLParse.php
+composer.json
+demo.php

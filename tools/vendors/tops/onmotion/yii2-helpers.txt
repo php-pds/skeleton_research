@@ -1,0 +1,8 @@
+.gitignore
+File.php
+Image.php
+ImagickExt.php
+LICENSE
+README.md
+Translator.php
+composer.json

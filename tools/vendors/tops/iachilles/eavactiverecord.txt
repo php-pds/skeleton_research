@@ -1,0 +1,14 @@
+datatypes/
+helpers/
+modules/eav/
+schema/
+tests/
+.gitattributes
+.gitignore
+CHANGELOG
+EavActiveRecord.php
+EavAttribute.php
+EavSet.php
+EavValue.php
+composer.json
+readme.md

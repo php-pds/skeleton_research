@@ -1,0 +1,6 @@
+Setup/
+etc/
+fixtures/
+README.md
+composer.json
+registration.php

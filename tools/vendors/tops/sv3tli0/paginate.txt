@@ -1,0 +1,7 @@
+layouts/
+lib/sv3tli0/
+tests/
+.gitignore
+Paginate.standalone.php
+README.md
+composer.json

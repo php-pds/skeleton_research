@@ -1,0 +1,9 @@
+js/
+lib/
+src/js/
+.gitignore
+Gruntfile.js
+bower.json
+composer.json
+index.php
+package.json

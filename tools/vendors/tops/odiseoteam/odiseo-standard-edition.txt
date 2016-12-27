@@ -1,0 +1,13 @@
+.idea/
+app/
+bin/
+src/
+var/
+web/
+.gitignore
+Gulpfile.js
+README.md
+composer.json
+composer.phar
+package.json
+phpunit.xml.dist

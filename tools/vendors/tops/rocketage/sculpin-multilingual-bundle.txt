@@ -1,0 +1,6 @@
+DependencyInjection/
+Resources/config/
+MultilingualGenerator.php
+README.md
+SculpinMultilingualBundle.php
+composer.json

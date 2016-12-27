@@ -1,0 +1,5 @@
+docs/
+recipes/
+LICENSE
+README.md
+composer.json

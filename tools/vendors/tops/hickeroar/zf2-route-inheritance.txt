@@ -1,0 +1,6 @@
+config/
+src/RouteInheritance/
+.gitignore
+LICENSE
+README.md
+composer.json

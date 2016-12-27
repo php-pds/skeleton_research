@@ -1,0 +1,8 @@
+src/hergot/dicontainer/
+.gitignore
+.travis.yml
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist
+travis.setup.php

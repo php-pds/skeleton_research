@@ -1,0 +1,13 @@
+spec/
+src/
+.gitattributes
+.gitignore
+.php_cs
+.scrutinizer.yml
+.travis.yml
+LICENCE
+changelog.md
+composer.json
+phpspec.no-coverage.yml
+phpspec.yml
+readme.md

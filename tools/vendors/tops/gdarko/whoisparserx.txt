@@ -1,0 +1,10 @@
+Adapter/
+Config/
+Exception/
+Result/
+Templates/
+.gitignore
+CHANGELOG.md
+Parser.php
+README.md
+composer.json

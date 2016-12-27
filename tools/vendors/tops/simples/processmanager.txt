@@ -1,0 +1,12 @@
+bin/
+examples/
+src/
+tests/
+.gitignore
+box.json
+box.phar
+composer.json
+composer.lock
+phpunit.xml
+processmanager.phar
+readme.md

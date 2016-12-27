@@ -1,0 +1,10 @@
+Command/
+DependencyInjection/
+Entity/
+Resources/
+Service/
+.gitignore
+LICENSE
+README.md
+Symfony2EconomicBundle.php
+composer.json

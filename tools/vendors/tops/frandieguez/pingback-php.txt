@@ -1,0 +1,12 @@
+build/
+examples/
+src/Pingback/
+.gitignore
+.travis.yml
+MIT-LICENSE
+README.markdown
+autoload.php.dist
+build.xml
+composer.json
+phpunit.xml.dist
+run-test.sh

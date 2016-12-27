@@ -1,0 +1,7 @@
+app/
+public/
+src/AppBundle/Controller/
+templates/
+.gitignore
+README.md
+composer.json

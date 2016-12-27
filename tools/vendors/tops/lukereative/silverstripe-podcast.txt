@@ -1,0 +1,15 @@
+code/
+css/
+images/
+javascript/
+templates/
+thirdparty/mediaelement/
+.editorconfig
+.gitattributes
+.gitignore
+.scrutinizer.yml
+LICENSE.md
+README.md
+_config.php
+code-of-conduct.md
+composer.json

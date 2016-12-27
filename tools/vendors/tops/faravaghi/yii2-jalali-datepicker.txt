@@ -1,0 +1,7 @@
+assets/
+.gitignore
+LICENSE
+README.md
+composer.json
+jalaliDatePicker.php
+jalaliDatePickerAsset.php

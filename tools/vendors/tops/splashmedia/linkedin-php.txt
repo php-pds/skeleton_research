@@ -1,0 +1,6 @@
+lib/Splash/LinkedIn/
+sample/
+.gitignore
+LICENSE
+README.md
+composer.json

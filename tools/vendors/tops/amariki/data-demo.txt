@@ -1,0 +1,5 @@
+Resources/data/campaignchain/
+.gitignore
+LICENSE
+README.md
+composer.json

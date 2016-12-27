@@ -1,0 +1,6 @@
+docs/en/
+src/
+.gitignore
+README.md
+composer.json
+ruleset.xml

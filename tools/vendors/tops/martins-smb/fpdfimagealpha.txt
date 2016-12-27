@@ -1,0 +1,3 @@
+fpdfimagealpha/
+.gitignore
+composer.json

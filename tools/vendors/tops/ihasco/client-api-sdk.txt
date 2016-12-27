@@ -1,0 +1,9 @@
+dist/
+src/Ihasco/
+tests/
+.gitignore
+box.json
+composer.json
+example.php
+phpunit.xml
+readme.md

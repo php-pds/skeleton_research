@@ -1,0 +1,6 @@
+Controller/
+DependencyInjection/
+Resources/
+Tests/Controller/
+BeanCourseBundle.php
+composer.json

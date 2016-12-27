@@ -1,0 +1,6 @@
+tests/
+.travis.yml
+Json.php
+LICENSE
+README.md
+composer.json

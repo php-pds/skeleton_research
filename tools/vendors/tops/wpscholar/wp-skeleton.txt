@@ -1,0 +1,7 @@
+content/
+.env.example
+.gitignore
+README.md
+composer.json
+index.php
+wp-config.php

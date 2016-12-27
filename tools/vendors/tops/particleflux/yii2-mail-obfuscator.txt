@@ -1,0 +1,5 @@
+.gitignore
+LICENSE
+MailObfuscator.php
+README.md
+composer.json

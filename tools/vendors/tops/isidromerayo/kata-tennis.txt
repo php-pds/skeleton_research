@@ -1,0 +1,8 @@
+src/
+tests/
+.gitignore
+.travis.yml
+README.md
+autotest_watchr.rb
+composer.json
+phpunit.xml.dist

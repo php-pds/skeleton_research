@@ -1,0 +1,10 @@
+bin/
+features/
+src/
+.gitignore
+.travis.yml
+History.md
+Makefile
+Readme.md
+Taskpool.md
+composer.json

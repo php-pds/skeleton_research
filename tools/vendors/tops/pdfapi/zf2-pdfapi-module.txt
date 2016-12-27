@@ -1,0 +1,6 @@
+config/
+src/PdfApi/
+.gitignore
+README.md
+composer.json
+composer.lock

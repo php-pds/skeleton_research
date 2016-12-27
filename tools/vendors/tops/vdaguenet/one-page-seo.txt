@@ -1,0 +1,10 @@
+dev/
+example/
+phantom/
+.gitignore
+BotDetector.php
+Client.php
+LICENSE
+README.md
+bots.json
+composer.json

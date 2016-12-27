@@ -1,0 +1,11 @@
+Annotation/SAWSCS/
+Builder/
+Controller/
+DependencyInjection/
+EventListener/
+Handler/
+Resources/
+Service/
+LICENSE
+SoulboundAWSCloudSearchBundle.php
+composer.json

@@ -1,0 +1,8 @@
+src/
+tests/Imgix/Tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock

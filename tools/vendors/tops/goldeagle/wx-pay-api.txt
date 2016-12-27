@@ -1,0 +1,7 @@
+doc/
+example/thinkphp5/
+src/
+.gitignore
+LICENSE
+README.md
+composer.json

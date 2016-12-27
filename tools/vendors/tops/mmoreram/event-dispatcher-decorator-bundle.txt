@@ -1,0 +1,17 @@
+Command/
+CompilerPass/
+DependencyInjection/
+EventDispatcher/
+Resources/config/
+Tests/
+.editorconfig
+.formatter.yml
+.gitignore
+.php_cs
+.travis.yml
+EventDispatcherDecoratorBundle.php
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

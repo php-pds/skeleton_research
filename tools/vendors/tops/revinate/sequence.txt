@@ -1,0 +1,12 @@
+Lib/
+Tests/
+Tutorial/
+src/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+RevinateSequenceBundle.php
+composer.json
+composer.lock
+phpunit.xml.dist

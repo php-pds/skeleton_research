@@ -1,0 +1,4 @@
+classes/beaba/install/
+.gitignore
+README.md
+composer.json

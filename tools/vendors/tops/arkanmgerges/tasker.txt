@@ -1,0 +1,9 @@
+src/Tasker/
+tests/Tasker/
+.gitignore
+LICENSE
+composer.json
+composer.lock
+composer.phar
+phpunit.phar
+phpunit.xml.dist

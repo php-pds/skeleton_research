@@ -1,0 +1,9 @@
+src/fieldwork/
+tests/
+.gitignore
+.travis.yml
+HISTORY.md
+LICENSE.md
+README.md
+composer.json
+phpunit.xml

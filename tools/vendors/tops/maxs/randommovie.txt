@@ -1,0 +1,8 @@
+Classes/MaxS/RandomMovie/
+Configuration/
+Documentation/
+Migrations/Mysql/
+Resources/Private/
+Tests/Unit/
+Gulpfile.babel.js
+composer.json

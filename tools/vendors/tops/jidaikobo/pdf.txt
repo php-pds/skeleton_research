@@ -1,0 +1,5 @@
+classes/
+lib/
+.gitignore
+bootstrap.php
+composer.json

@@ -1,0 +1,5 @@
+docs/
+lib/Trello/
+LICENSE
+README.md
+composer.json

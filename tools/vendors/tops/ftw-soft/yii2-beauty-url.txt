@@ -1,0 +1,11 @@
+migrations/
+.gitignore
+LICENSE
+README.md
+UrlBehavior.php
+UrlCategory.php
+UrlEvent.php
+UrlHelper.php
+UrlModel.php
+UrlRule.php
+composer.json

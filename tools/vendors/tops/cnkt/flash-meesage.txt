@@ -1,0 +1,7 @@
+src/FlashMeesage/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock
+try.php

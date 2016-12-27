@@ -1,0 +1,12 @@
+Model/
+Resources/doc/
+Tests/
+Type/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+ApiClient.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,15 @@
+.settings/
+Controller/
+DependencyInjection/
+Entity/
+Form/
+Repository/
+Resources/
+Tests/Controller/
+.buildpath
+.project
+QUIZBackBundle.php
+QUIZBackBundle.php~
+README.md
+composer.json
+composer.json~

@@ -1,0 +1,5 @@
+Classes/
+Configuration/Console/
+README.rst
+composer.json
+ext_emconf.php

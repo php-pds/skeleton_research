@@ -1,0 +1,14 @@
+bin/
+resources/
+src/
+tests/
+uap-core @ 49b141f
+.gitignore
+.gitmodules
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist
+update-resources.sh

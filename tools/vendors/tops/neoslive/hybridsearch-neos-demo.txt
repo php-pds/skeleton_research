@@ -1,0 +1,6 @@
+Classes/Neoslive/Hybridsearch/Neos/Demo/Controller/
+Configuration/
+Documentation/
+Resources/
+README.md
+composer.json

@@ -1,0 +1,12 @@
+app_root/
+vendor/
+.gitignore
+.htaccess
+LICENSE
+README.CMPGITFLOW.md
+README.md
+TIPS.md
+composer.json
+composer.lock
+cordova.tips.md
+server_start.sh

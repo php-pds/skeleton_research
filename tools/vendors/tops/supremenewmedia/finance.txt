@@ -1,0 +1,6 @@
+Core/
+Tests/Core/
+.gitignore
+LICENSE.md
+README.md
+composer.json

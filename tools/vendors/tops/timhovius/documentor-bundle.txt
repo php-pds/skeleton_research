@@ -1,0 +1,7 @@
+Command/
+DependencyInjection/
+Resources/
+DocumentorBundle.php
+LICENSE
+README.md
+composer.json

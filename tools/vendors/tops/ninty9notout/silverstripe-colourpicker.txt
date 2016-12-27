@@ -1,0 +1,11 @@
+code/forms/
+css/
+javascript/
+thirdparty/jquery-minicolors/
+.editorconfig
+.scrutinizer.yml
+LICENSE
+README.textile
+_config.php
+colourpicker.png
+composer.json

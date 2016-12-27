@@ -1,0 +1,9 @@
+docs/
+examples/
+src/Badgeville/Api/Cairo/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json
+phpunit.xml

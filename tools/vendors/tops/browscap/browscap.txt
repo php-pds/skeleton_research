@@ -1,0 +1,16 @@
+bin/
+build/
+resources/
+src/Browscap/
+tests/
+.gitattributes
+.gitignore
+.php_cs
+.scrutinizer.yml
+.travis.yml
+BUILD_NUMBER
+CONTRIBUTING.md
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

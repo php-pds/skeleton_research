@@ -1,0 +1,6 @@
+src/Inzicht/Curl/
+tests/
+.gitignore
+.travis.yml
+composer.json
+phpunit.xml

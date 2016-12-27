@@ -1,0 +1,12 @@
+Controller/
+DependencyInjection/
+Renderer/
+Resources/
+Service/
+Spot/
+Changelog.md
+Color.php
+Heatmap.php
+MorgenstilleVisualHeatmapBundle.php
+README.md
+composer.json

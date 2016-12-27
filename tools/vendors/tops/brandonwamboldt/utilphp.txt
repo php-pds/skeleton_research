@@ -1,0 +1,11 @@
+src/utilphp/
+tests/
+.gitignore
+.travis.yml
+CHANGELOG.md
+CONTRIBUTORS.md
+LICENSE.md
+README.md
+composer.json
+phpunit.xml.dist
+util.php

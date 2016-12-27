@@ -1,0 +1,4 @@
+lang/fr_FR/LC_MESSAGES/
+src/
+README.md
+composer.json

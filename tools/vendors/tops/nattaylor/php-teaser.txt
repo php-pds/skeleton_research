@@ -1,0 +1,5 @@
+src/PhpTeaser/
+.gitignore
+LICENSE
+README.md
+composer.json

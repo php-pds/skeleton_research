@@ -1,0 +1,17 @@
+tests/
+.gitattributes
+.gitignore
+.scrutinizer.yml
+.travis.yml
+Cartesian.php
+ITMRef.php
+IrishGridRef.php
+LatLng.php
+OSRef.php
+README.md
+RefEll.php
+TransverseMercator.php
+UTMRef.php
+composer.json
+phpdoc.xml
+phpunit.xml

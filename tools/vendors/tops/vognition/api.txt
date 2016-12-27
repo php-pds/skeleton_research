@@ -1,0 +1,10 @@
+config/
+src/vognition/api/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml

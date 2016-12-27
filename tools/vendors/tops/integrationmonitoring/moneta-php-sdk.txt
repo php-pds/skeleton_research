@@ -1,0 +1,11 @@
+config/
+data/
+events/
+logs/
+src/Moneta/
+view/
+.gitignore
+.htaccess
+LICENSE
+README.md
+composer.json

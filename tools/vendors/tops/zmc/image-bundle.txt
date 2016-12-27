@@ -1,0 +1,8 @@
+Controller/
+DependencyInjection/
+Form/
+Resources/
+Twig/
+README.md
+ZmcImageBundle.php
+composer.json

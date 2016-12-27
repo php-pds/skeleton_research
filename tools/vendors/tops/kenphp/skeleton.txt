@@ -1,0 +1,10 @@
+app/
+config/
+public/
+views/
+.gitignore
+LICENSE.md
+README.md
+composer.json
+kenphp.log
+slash.php

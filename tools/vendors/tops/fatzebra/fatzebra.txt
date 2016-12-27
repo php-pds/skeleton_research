@@ -1,0 +1,9 @@
+docs/
+example/
+src/
+test/
+.travis.yml
+LICENSE.txt
+README.markdown
+Rakefile
+composer.json

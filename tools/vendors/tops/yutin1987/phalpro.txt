@@ -1,0 +1,6 @@
+src/Phalpro/
+tests/
+.gitignore
+codeception.yml
+composer.json
+composer.lock

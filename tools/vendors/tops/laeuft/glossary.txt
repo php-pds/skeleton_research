@@ -1,0 +1,5 @@
+Classes/Laeuft/Glossary/
+Resources/
+Tests/Unit/Domain/Model/
+.gitmodules
+composer.json

@@ -1,0 +1,8 @@
+.idea/
+nbproject/
+src/Xrandr/
+tests/
+.gitignore
+LICENSE
+composer.json
+phpdoc.xml

@@ -1,0 +1,6 @@
+data/templates/markdown-public/
+src/Extension/
+.gitignore
+LICENSE
+README.md
+composer.json

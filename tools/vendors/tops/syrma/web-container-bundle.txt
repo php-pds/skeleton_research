@@ -1,0 +1,16 @@
+Command/
+DependencyInjection/
+Executor/
+RequestHandler/
+Resources/
+Server/
+Tests/
+Util/
+.gitignore
+.php_cs
+.travis.yml
+LICENSE
+README.md
+SyrmaWebContainerBundle.php
+composer.json
+phpunit.xml.dist

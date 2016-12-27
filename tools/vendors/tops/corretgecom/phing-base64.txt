@@ -1,0 +1,8 @@
+bin/phing/qgpl/
+etc/
+lib/Corretgecom/Phing/Qgpl/Base64/
+usr/lib/vendor/
+var/cache/composer/repo/https---packagist.org/
+README.md
+build.xml
+composer.json

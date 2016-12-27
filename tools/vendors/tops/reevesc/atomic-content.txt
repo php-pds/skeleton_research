@@ -1,0 +1,9 @@
+examples/paragraphToWord/
+src/AtomicContent/
+tests/
+vendor/
+.gitattributes
+.gitignore
+README.md
+composer.json
+composer.lock

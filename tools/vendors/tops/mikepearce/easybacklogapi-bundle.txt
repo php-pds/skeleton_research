@@ -1,0 +1,7 @@
+Client/
+DependencyInjection/
+Resources/
+Tests/
+.gitignore
+MikePearceEasybacklogApiBundle.php
+composer.json

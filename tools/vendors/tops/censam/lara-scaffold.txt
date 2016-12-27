@@ -1,0 +1,9 @@
+database/migrations/
+public/
+resources/views/
+src/
+LICENSE
+README.md
+composer.json
+helpers.php
+phpspec.yml

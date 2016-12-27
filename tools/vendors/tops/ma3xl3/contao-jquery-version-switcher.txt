@@ -1,0 +1,4 @@
+system/modules/jQueryVersionSwitcher/
+.gitignore
+README.md
+composer.json

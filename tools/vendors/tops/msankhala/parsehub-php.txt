@@ -1,0 +1,6 @@
+log/
+src/Parsehub/
+.gitignore
+README.md
+composer.json
+composer.lock

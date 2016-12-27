@@ -1,0 +1,10 @@
+src/Tvision/RackspaceCloudFilesStreamWrapper/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+VERSION
+autoload.php.dist
+composer.json
+phpunit.xml.dist

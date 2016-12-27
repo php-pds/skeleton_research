@@ -1,0 +1,12 @@
+ligero/
+nbproject/
+test/
+.gitignore
+.htaccess
+.travis.yml
+License.txt
+README.md
+composer.json
+config.php
+index.php
+tareas

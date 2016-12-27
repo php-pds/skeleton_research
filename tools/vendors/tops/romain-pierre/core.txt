@@ -1,0 +1,13 @@
+bin/
+src/
+tests/
+views/
+.gitignore
+.sensiolabs.yml
+.travis.yml
+LICENSE
+README.md
+autoload.php
+composer.json
+phpdoc.xml.dist
+phpunit.xml.dist

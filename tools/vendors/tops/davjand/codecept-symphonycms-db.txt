@@ -1,0 +1,9 @@
+scripts/
+src/
+symphony/2.3.6/
+tests/
+.gitignore
+codeception.yml
+composer.json
+composer.lock
+readme.md

@@ -1,0 +1,17 @@
+App/
+DependencyInjection/
+Domain/
+Infra/
+Test/
+UI/
+doc/
+.gitignore
+.phpunit.bootstrap.php
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+SpecGenStateWorkflowSpecGenBundle.php
+composer.json
+phpunit.xml
+phpunit.xsd

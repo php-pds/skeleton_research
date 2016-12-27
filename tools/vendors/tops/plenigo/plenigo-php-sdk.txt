@@ -1,0 +1,11 @@
+build/
+src/plenigo/
+tests/plenigo/
+.gitattributes
+.gitignore
+.travis.yml
+build-win.xml
+build.xml
+composer.json
+phpunit.xml
+readme.md

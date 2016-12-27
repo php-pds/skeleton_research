@@ -1,0 +1,8 @@
+config/
+example/
+library/Rain/
+test/
+.gitignore
+README.md
+composer.json
+phpunit.xml.dist

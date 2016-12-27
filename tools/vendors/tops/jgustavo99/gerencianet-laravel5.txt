@@ -1,0 +1,10 @@
+resources/config/
+src/Jgustavo99/Gerencianet/
+tests/Jgustavo99/Gerencianet/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml

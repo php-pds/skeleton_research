@@ -1,0 +1,12 @@
+Controller/
+DependencyInjection/
+Entity/
+Form/Type/
+Resources/
+Tests/
+.gitattributes
+.gitignore
+LICENSE
+MihailSearchBundle.php
+README.md
+composer.json

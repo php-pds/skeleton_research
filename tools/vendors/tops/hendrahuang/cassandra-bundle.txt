@@ -1,0 +1,16 @@
+Cassandra/
+Command/
+DataCollector/
+DependencyInjection/
+EventDispatcher/
+Resources/
+Tests/
+.atoum.php
+.bootstrap.atoum.php
+.coke
+.gitignore
+.travis.yml
+CassandraBundle.php
+LICENSE
+README.md
+composer.json

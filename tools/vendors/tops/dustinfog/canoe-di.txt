@@ -1,0 +1,5 @@
+ext/
+src/Canoe/
+.gitignore
+README.md
+composer.json

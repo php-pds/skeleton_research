@@ -1,0 +1,8 @@
+Controller/
+DependencyInjection/
+Resources/
+Service/
+Tests/Controller/
+README.md
+SwarogeSimpleTextFilterBundle.php
+composer.json

@@ -1,0 +1,6 @@
+PhpLinqProvider/
+.gitignore
+LICENSE
+PhpLinqProvider.sln
+PhpLinqProvider.v12.suo
+composer.json

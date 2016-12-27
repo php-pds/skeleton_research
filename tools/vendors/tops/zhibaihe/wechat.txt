@@ -1,0 +1,9 @@
+example/
+spec/Message/
+src/
+.gitignore
+.php_cs
+LICENSE
+README.md
+composer.json
+phpspec.yml

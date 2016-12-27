@@ -1,0 +1,10 @@
+PageEditor/
+Resources/views/
+css/
+gfx/
+js/
+.gitignore
+BroutousPageEditorBundle.php
+README.md
+composer.json
+configuration.yml

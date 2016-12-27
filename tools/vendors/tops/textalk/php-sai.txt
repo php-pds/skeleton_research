@@ -1,0 +1,10 @@
+lib/
+tests/
+.gitignore
+LICENSE.txt
+Makefile
+README.md
+autoload.php
+composer.json
+composer.lock
+phpunit.xml.dist

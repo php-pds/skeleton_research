@@ -1,0 +1,11 @@
+DependencyInjection/
+Entity/
+EventListener/
+Resources/
+.gitignore
+AbstractResourceBundle.php
+LICENSE
+ResourceBundleInterface.php
+ResourceBundleTrait.php
+WebilityEntityResourceBundle.php
+composer.json

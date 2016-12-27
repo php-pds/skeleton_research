@@ -1,0 +1,6 @@
+client/
+src/
+.gitignore
+COPYING
+README.md
+TODO

@@ -1,0 +1,14 @@
+api/persistance/
+assets/
+config/
+controllers/
+messages/de/
+migrations/
+models/db/
+tools/
+views/
+widgets/autonumeric/
+LICENSE.md
+Module.php
+README.md
+composer.json

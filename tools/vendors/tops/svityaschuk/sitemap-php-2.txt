@@ -1,0 +1,5 @@
+src/SitemapPHP/
+ChangeLog
+LICENSE
+README.md
+composer.json

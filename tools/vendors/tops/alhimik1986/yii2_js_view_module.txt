@@ -1,0 +1,8 @@
+assets/
+components/
+messages/
+views/
+LICENSE
+Module.php
+README.md
+composer.json

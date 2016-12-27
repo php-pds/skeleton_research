@@ -1,0 +1,4 @@
+Tests/
+Yii/
+README.md
+composer.json

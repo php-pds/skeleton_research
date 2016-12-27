@@ -1,0 +1,16 @@
+PhpAmqpLib/
+benchmark/
+bin/ci/
+demo/
+doc/
+spec/
+.gitignore
+.travis.yml
+CREDITS
+LICENSE
+Makefile
+NOTE.DEVELOPMENT.NOV.2011.md
+NOTE.THENETCIRCLE.md
+README.md
+composer.json
+phpunit.xml

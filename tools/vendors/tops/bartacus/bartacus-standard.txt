@@ -1,0 +1,14 @@
+.github/
+.misc/
+app/
+bin/
+src/AppBundle/
+tests/AppBundle/Controller/
+var/
+web/typo3conf/
+.gitignore
+.php_cs
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

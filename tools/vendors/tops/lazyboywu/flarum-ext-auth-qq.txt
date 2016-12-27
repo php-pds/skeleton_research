@@ -1,0 +1,16 @@
+js/
+less/forum/
+locale/
+migrations/
+scripts/
+src/
+.editorconfig
+.eslintignore
+.eslintrc
+.gitattributes
+.gitignore
+.php_cs
+LICENSE
+README.md
+bootstrap.php
+composer.json

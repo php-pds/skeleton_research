@@ -1,0 +1,9 @@
+bin/
+coveragit/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+run.py
+screenshot.png

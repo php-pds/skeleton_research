@@ -1,0 +1,6 @@
+resources/
+src/Cmf/SmartyView/Engine/
+.gitignore
+LICENSE
+README.md
+composer.json

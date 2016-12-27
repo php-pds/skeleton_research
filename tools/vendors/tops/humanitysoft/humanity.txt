@@ -1,0 +1,3 @@
+Apps.php
+Singleton.php
+composer.json

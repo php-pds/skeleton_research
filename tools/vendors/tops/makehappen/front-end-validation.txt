@@ -1,0 +1,7 @@
+src/
+.gitignore
+LICENSE
+README.md
+composer.json
+front-end-validation.min.js
+gulpfile.js

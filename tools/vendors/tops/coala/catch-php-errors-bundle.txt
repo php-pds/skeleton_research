@@ -1,0 +1,12 @@
+DependencyInjection/
+ErrorHandler/
+Event/
+EventListener/
+Resources/config/
+Tests/
+.gitignore
+.travis.yml
+CoalaCatchPhpErrorsBundle.php
+README.md
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,6 @@
+PHPUnit/Extensions/
+Tests/Extensions/
+.travis.yml
+README.md
+composer.json
+phpunit.xml

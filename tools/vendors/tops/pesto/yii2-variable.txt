@@ -1,0 +1,6 @@
+migrations/
+models/
+.gitignore
+README.md
+Variable.php
+composer.json

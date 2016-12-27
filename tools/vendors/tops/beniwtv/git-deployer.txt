@@ -1,0 +1,11 @@
+bin/
+src/GitDeployer/
+stuff/
+.gitignore
+LICENSE
+README.md
+box.json.dist
+build.sh
+composer.json
+composer.lock
+git-deployer.sublime-project

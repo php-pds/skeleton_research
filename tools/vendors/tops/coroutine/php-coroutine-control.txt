@@ -1,0 +1,8 @@
+bin/
+conf/
+lib/
+.gitignore
+AutoLoader.php
+LICENSE
+composer.json
+readme.md

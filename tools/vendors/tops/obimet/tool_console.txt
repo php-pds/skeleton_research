@@ -1,0 +1,15 @@
+.settings/
+config/
+module/Application/
+public/
+vendor/
+.buildpath
+.project
+LICENSE.txt
+README.md
+composer.json
+composer.json_
+composer.json__
+composer.lock
+composer.phar
+init_autoloader.php

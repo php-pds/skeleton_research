@@ -1,0 +1,6 @@
+DependencyInjection/
+Generator/
+Resources/config/
+.gitignore
+composer.json
+maschitBarcodeBundle.php

@@ -1,0 +1,10 @@
+Exception/
+Serializer/
+Tests/
+doc/Serializer/DataSerializer/
+.travis.yml
+README.md
+SerializerAwareInterface.php
+SerializerInterface.php
+composer.json
+phpunit.xml.dist

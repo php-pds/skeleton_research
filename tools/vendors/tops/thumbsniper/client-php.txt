@@ -1,0 +1,6 @@
+examples/
+lib/thumbsniper/client/
+.gitignore
+LICENSE
+README.md
+composer.json

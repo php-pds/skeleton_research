@@ -1,0 +1,11 @@
+Command/
+Content/
+Controller/
+DependencyInjection/
+Resources/
+Routing/
+Twig/
+.gitignore
+README.md
+SInlineBundle.php
+composer.json

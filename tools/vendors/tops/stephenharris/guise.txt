@@ -1,0 +1,10 @@
+docs/
+src/
+tests/
+.gitignore
+composer.json
+composer.lock
+couscous.yml
+phpmd.xml
+phpunit.xml
+readme.md

@@ -1,0 +1,11 @@
+config/
+module/Application/
+public/
+.gitignore
+.gitmodules
+LICENSE
+LICENSE.txt
+README.md
+composer.json
+composer.phar
+init_autoloader.php

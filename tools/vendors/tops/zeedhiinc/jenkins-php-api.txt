@@ -1,0 +1,7 @@
+Jenkins/
+tests/
+.atoum.php
+Autoload.php
+Jenkins.php
+README.md
+composer.json

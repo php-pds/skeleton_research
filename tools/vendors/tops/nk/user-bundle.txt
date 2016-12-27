@@ -1,0 +1,8 @@
+Controller/
+DependencyInjection/
+Entity/
+Resources/
+.gitignore
+NkUserBundle.php
+README.md
+composer.json

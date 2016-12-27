@@ -1,0 +1,3 @@
+JWT/
+README.md
+composer.json

@@ -1,0 +1,11 @@
+build/
+examples/
+src/
+tests/
+.gitignore
+.scrutinizer.yml
+.styleci.yml
+.travis.yml
+README.md
+composer.json
+phpunit.xml.dist

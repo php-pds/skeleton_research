@@ -1,0 +1,7 @@
+vendor/
+.gitignore
+README.md
+composer.json
+migration
+migrations-db.php.conf
+migrations.yml.conf

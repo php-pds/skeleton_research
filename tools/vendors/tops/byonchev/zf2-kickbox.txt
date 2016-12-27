@@ -1,0 +1,8 @@
+config/
+src/ZF2Kickbox/
+.gitignore
+LICENSE
+Module.php
+README.md
+composer.json
+composer.lock

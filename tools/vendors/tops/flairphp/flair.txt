@@ -1,0 +1,7 @@
+src/Flair/
+tests/
+LICENSE.txt
+README.md
+apigen.neon
+composer.json
+phpunit.xml

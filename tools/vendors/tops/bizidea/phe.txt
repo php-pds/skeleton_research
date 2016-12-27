@@ -1,0 +1,7 @@
+bootstrap/
+css/
+fontawesome/
+js/
+composer.json
+equotix.php
+equotix.tpl

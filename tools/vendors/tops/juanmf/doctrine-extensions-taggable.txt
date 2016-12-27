@@ -1,0 +1,12 @@
+lib/DoctrineExtensions/Taggable/
+metadata/
+tests/
+vendor/Symfony/Component/ClassLoader/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+autoload.dist.php
+composer.json
+phpunit.dist.xml
+vendors.php

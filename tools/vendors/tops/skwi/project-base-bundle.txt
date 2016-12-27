@@ -1,0 +1,9 @@
+src/Skwi/Bundle/ProjectBaseBundle/
+.atoum.coverage.php
+.atoum.php
+.bootstrap.atoum.php
+.gitignore
+.travis.yml
+LICENCE
+README.md
+composer.json

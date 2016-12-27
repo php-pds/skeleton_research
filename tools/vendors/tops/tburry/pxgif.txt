@@ -1,0 +1,6 @@
+examples/
+.gitignore
+LICENSE
+Pxgif.php
+README.md
+composer.json

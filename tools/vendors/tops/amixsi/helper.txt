@@ -1,0 +1,8 @@
+src/Amixsi/Helper/
+tests/Amixsi/Helper/
+.editorconfig
+.gitignore
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

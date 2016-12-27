@@ -1,0 +1,8 @@
+assets/
+font/
+Captcha.php
+CaptchaAction.php
+LICENSE
+README.md
+composer.json
+yii2CaptchaAsset.php

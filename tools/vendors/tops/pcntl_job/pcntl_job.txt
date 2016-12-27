@@ -1,0 +1,4 @@
+src/PcntlJob/
+.gitignore
+README.md
+composer.json

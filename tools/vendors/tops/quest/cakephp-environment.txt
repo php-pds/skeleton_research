@@ -1,0 +1,10 @@
+Config/
+Lib/
+Test/Case/
+.editorconfig
+.gitignore
+.travis.yml
+README.md
+VERSION.txt
+composer.json
+license.txt

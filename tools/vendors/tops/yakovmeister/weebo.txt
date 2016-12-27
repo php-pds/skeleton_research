@@ -1,0 +1,9 @@
+lib/cloudflare-bypass/
+speech/
+src/
+tests/
+.gitignore
+composer.json
+index.php
+phpunit.xml
+readme.md

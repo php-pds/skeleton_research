@@ -1,0 +1,8 @@
+DependencyInjection/
+Field/
+FilterList/
+Resources/
+Service/
+README.md
+VVGFilterListBundle.php
+composer.json

@@ -1,0 +1,6 @@
+config/
+src/Neo4jOGMModule/
+.gitignore
+Module.php
+README.md
+composer.json

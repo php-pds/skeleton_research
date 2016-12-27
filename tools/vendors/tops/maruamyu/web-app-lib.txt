@@ -1,0 +1,8 @@
+src/Maruamyu/Core/
+tests/Maruamyu/Core/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml

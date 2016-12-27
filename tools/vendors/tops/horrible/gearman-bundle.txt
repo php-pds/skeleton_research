@@ -1,0 +1,16 @@
+Client/
+Command/
+Configurator/
+DependencyInjection/
+Event/
+Job/
+Resources/config/
+Tests/
+Worker/
+Workload/
+.travis.yml
+HorribleGearmanBundle.php
+README.md
+bootstrap.php
+composer.json
+phpunit.xml.dist

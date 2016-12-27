@@ -1,0 +1,11 @@
+config/
+public/img/
+src/
+.editorconfig
+.styleci.yml
+CHANGELOG.md
+CONDUCT.md
+CONTRIBUTING.md
+LICENSE.md
+README.md
+composer.json

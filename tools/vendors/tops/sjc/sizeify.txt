@@ -1,0 +1,14 @@
+PHP/
+csharp/
+doc/
+js/
+python/
+scripts/
+test/
+.gitignore
+.npmignore
+README.md
+__init__.py
+bower.json
+composer.json
+package.json

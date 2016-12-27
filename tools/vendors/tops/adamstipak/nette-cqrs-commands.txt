@@ -1,0 +1,8 @@
+src/AdamStipak/Commands/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock

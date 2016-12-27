@@ -1,0 +1,5 @@
+PHPCompatibility/
+.gitignore
+README.md
+composer.json
+update.php

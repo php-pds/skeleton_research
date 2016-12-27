@@ -1,0 +1,11 @@
+Command/
+DependencyInjection/
+Event/
+Listener/
+Model/
+Resources/
+Service/
+.gitignore
+README.md
+TESearchifyBundle.php
+composer.json

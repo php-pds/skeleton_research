@@ -1,0 +1,6 @@
+README.md
+Slider.php
+SliderAsset.php
+bootstrap-slider.js
+composer.json
+slider.css

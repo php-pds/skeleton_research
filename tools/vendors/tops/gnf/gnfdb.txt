@@ -1,0 +1,8 @@
+lib/Gnf/db/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json
+phpcs_ruleset.xml
+phpunit.xml

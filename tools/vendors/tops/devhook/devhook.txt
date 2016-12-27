@@ -1,0 +1,10 @@
+docs/
+public/
+src/
+tests/
+.gitignore
+.travis.yml
+Devhook.TODO
+composer.json
+phpunit.xml
+readme.md

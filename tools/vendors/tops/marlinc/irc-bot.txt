@@ -1,0 +1,11 @@
+docs/
+example/
+src/
+tests/travis/
+.gitignore
+.gitmodules
+.travis.yml
+LICENSE
+Makefile
+README
+composer.json

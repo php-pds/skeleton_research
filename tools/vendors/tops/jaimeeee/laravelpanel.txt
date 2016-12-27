@@ -1,0 +1,6 @@
+src/LaravelPanel/
+.editorconfig
+.gitignore
+LICENSE
+README.md
+composer.json

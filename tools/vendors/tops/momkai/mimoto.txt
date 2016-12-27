@@ -1,0 +1,15 @@
+config/gulp/
+database/
+src/
+tests/Mimoto/Data/
+web/
+#todo
+.csscomb.json
+.gitignore
+.scss-lint.yml
+LICENSE
+README.md
+composer.json
+gulpfile.js
+package.json
+phpunit.xml.dist

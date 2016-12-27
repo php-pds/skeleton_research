@@ -1,0 +1,6 @@
+DataFixtures/ORM/
+DependencyInjection/
+Entity/
+Model/
+UnrLabDomainBundle.php
+composer.json

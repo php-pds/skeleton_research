@@ -1,0 +1,6 @@
+src/Amassaro/Silex/Twilio/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json

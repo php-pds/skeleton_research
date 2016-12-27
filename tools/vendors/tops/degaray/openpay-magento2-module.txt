@@ -1,0 +1,9 @@
+Api/
+Helper/
+Model/
+Setup/
+etc/
+.gitignore
+README.md
+composer.json
+registration.php

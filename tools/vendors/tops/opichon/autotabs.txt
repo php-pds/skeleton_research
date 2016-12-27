@@ -1,0 +1,13 @@
+css/
+dist/
+doc/
+src/
+.gitignore
+.jshintrc
+LICENSE
+README.md
+autotabs.jquery.json
+bower.json
+composer.json
+gulpfile.js
+package.json

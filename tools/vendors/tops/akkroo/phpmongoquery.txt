@@ -1,0 +1,9 @@
+src/Akkroo/
+tests/
+.gitignore
+.gitmodules
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

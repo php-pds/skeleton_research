@@ -1,0 +1,10 @@
+doc/
+src/Brainly/JValidator/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+coverage.xml.dist
+phpunit.xml.dist

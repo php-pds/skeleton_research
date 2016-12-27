@@ -1,0 +1,6 @@
+src/DynamicSync/
+vendor/
+.gitignore
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,5 @@
+config/
+publish/
+src/
+README.md
+composer.json

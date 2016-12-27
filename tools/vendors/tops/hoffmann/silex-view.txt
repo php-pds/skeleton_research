@@ -1,0 +1,4 @@
+src/SilexView/
+LICENSE
+README.md
+composer.json

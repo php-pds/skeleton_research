@@ -1,0 +1,12 @@
+DependencyInjection/
+Notification/
+Resources/
+Tests/
+Twig/
+.gitignore
+.travis.yml
+BBEasyNotificationsBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml

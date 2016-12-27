@@ -1,0 +1,7 @@
+less/
+nbproject/
+src/
+testing/
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,12 @@
+Example/
+doc/
+src/
+tests/
+.gitignore
+.gitlab-ci.yml
+CHANGELOG.md
+LICENCE
+README.md
+codeception.yml
+composer.json
+composer.lock

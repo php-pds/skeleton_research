@@ -1,0 +1,6 @@
+src/Collections/
+tests/Collections/
+.gitignore
+README.md
+composer.json
+phpunit.xml

@@ -1,0 +1,8 @@
+Command/
+DependencyInjection/
+Jobs/
+Resources/config/
+.gitignore
+README.md
+StrnoarBQueueBundle.php
+composer.json

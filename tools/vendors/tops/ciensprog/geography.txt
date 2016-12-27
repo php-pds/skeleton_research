@@ -1,0 +1,6 @@
+geo/
+json/es/
+vendor/
+README.md
+composer.json
+example.php

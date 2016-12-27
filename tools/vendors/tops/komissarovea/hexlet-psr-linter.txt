@@ -1,0 +1,12 @@
+bin/
+src/
+tests/
+.codeclimate
+.gitignore
+.travis.yml
+Makefile
+README.md
+composer.json
+composer.lock
+phpunit.xml
+rulesSample.json

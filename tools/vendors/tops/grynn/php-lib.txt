@@ -1,0 +1,7 @@
+inc/
+.gitignore
+Notes.md
+VERSION
+composer.json
+publish.sh
+version.sh

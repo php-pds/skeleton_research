@@ -1,0 +1,7 @@
+DependencyInjection/
+Resources/config/
+.gitignore
+GiantBombBundle.php
+LICENSE
+README.md
+composer.json

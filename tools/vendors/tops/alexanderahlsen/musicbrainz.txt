@@ -1,0 +1,9 @@
+examples/
+src/MusicBrainz/
+tests/MusicBrainz/Tests/
+.gitignore
+.travis.yml
+LICENSE.md
+README.md
+composer.json
+phpunit.xml

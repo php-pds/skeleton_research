@@ -1,0 +1,8 @@
+src/Provider/
+test/Provider/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml

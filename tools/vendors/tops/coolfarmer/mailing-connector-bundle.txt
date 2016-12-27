@@ -1,0 +1,16 @@
+Converter/
+DependencyInjection/
+Factory/
+Manager/
+Member/
+Parameter/
+Resources/config/
+Service/
+Transactional/
+test/
+.gitignore
+MailingConnectorBundle.php
+MailingConnectorManager.php
+README.md
+composer.json
+composer.lock

@@ -1,0 +1,8 @@
+font/
+html/
+src/Barcode/
+.gitignore
+composer.json
+index.php
+test_1D.html
+test_1D.php

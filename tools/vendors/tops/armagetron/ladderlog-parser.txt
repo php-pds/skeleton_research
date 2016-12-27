@@ -1,0 +1,6 @@
+src/
+.gitignore
+README.md
+composer.json
+example.php
+license.txt

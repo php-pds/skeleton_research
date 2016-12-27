@@ -1,0 +1,8 @@
+DBAL/
+DQL/
+DependencyInjection/
+EventListener/
+Resources/config/
+AlsatianPostgresSearchBundle.php
+README.md
+composer.json

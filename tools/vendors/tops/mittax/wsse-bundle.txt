@@ -1,0 +1,15 @@
+Client/Service/
+Command/
+Controller/
+DependencyInjection/
+Entity/
+Exception/
+Logger/
+Resources/config/
+Security/
+Tests/
+.gitignore
+MittaxWsseBundle.php
+README.md
+composer.json
+phpunit.xml

@@ -1,0 +1,8 @@
+Controller/
+DependencyInjection/
+Resources/
+Tests/Controller/
+CMPanelBundle.php
+LICENSE
+README.md
+composer.json

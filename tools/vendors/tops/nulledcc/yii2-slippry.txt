@@ -1,0 +1,5 @@
+views/
+README.md
+Slippry.php
+SlippryJqueryAsset.php
+composer.json

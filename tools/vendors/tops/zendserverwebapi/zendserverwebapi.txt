@@ -1,0 +1,9 @@
+config/
+src/ZendServerWebApi/
+.gitignore
+LICENSE.txt
+Module.php
+README.md
+composer.json
+deployment.properties
+deployment.xml

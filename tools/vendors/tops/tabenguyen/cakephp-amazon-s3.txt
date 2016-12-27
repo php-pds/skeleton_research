@@ -1,0 +1,4 @@
+Lib/
+Test/
+README.md
+composer.json

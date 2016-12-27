@@ -1,0 +1,17 @@
+DBSR_GUI_Resources/
+compiled/
+tests/
+.gitignore
+Bootstrapper.php
+DBSR.php
+DBSR_CLI.php
+DBSR_CLI_Bootstrapper.php
+DBSR_GUI.php
+DBSR_GUI_Bootstrapper.php
+README.md
+TODO.txt
+compile.php
+composer.json
+example-config.json
+index.php
+license.txt

@@ -1,0 +1,7 @@
+Block/
+Controller/Index/
+etc/
+view/frontend/
+LICENSE.txt
+README.md
+composer.json

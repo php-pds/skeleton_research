@@ -1,0 +1,7 @@
+config/
+puphpet/
+src/
+.gitignore
+README.md
+Vagrantfile
+composer.json

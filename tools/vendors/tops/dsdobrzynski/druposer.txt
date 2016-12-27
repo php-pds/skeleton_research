@@ -1,0 +1,12 @@
+bin/
+build/
+cnf/
+drush/registry_rebuild/
+htdocs/sites/
+.gitignore
+README.md
+composer.json
+composer.lock
+default.info
+default.module
+env.dist

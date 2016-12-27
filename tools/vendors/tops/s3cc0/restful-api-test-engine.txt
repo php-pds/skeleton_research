@@ -1,0 +1,7 @@
+example/
+.gitignore
+LICENSE
+README.md
+composer.json
+run.php
+test.class.php

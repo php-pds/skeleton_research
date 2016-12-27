@@ -1,0 +1,8 @@
+_build/
+assets/
+core/components/bootstrap/
+.gitignore
+LICENSE
+README.md
+bower.json
+composer.json

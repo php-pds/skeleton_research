@@ -1,0 +1,15 @@
+Classes/
+Configuration/TypoScript/
+Resources/Private/Templates/
+Tests/Unit/
+.gitignore
+.travis.yml
+LICENSE
+Readme.md
+composer.json
+ext_emconf.php
+ext_icon.gif
+ext_localconf.php
+ext_tables.php
+ext_typoscript_setup.txt
+readme.txt

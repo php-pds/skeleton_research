@@ -1,0 +1,9 @@
+_config/
+code/controllers/
+css/
+images/
+javascript/
+templates/EmbedContent/
+README.md
+_config.php
+composer.json

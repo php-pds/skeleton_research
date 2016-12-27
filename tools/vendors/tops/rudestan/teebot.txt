@@ -1,0 +1,12 @@
+Bot/Example/
+src/
+test/
+.gitignore
+.travis.yml
+README.md
+botmother.php
+composer.json
+composer.lock
+hook.php
+phpunit.xml
+run.php

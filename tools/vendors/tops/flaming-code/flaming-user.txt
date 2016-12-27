@@ -1,0 +1,8 @@
+config/
+sql/
+src/FlamingUser/
+view/flaming-user/
+LICENSE
+Module.php
+README.md
+composer.json

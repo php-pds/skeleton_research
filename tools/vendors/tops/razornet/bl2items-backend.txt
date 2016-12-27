@@ -1,0 +1,12 @@
+sql/
+src/
+tests/Util/
+vendor/
+.htaccess
+LICENSE
+README.md
+composer.json
+config.php
+download.php
+index.php
+upload.php

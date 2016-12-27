@@ -1,0 +1,8 @@
+config/
+controllers/
+runtime/
+template/
+.gitignore
+README.md
+composer.json
+yii.php

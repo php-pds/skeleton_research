@@ -1,0 +1,13 @@
+config/
+src/ZfSimpleMigrations/
+tests/
+.gitignore
+.travis.yml
+Module.php
+README.md
+composer.json
+phpunit.mysql.xml
+phpunit.mysqli.xml
+phpunit.postgresql.xml
+phpunit.sqlite.xml
+phpunit.xml

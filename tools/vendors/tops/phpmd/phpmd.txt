@@ -1,0 +1,19 @@
+setup @ b2c4194
+src/
+.editorconfig
+.gitattributes
+.gitignore
+.gitmodules
+.travis.yml
+AUTHORS.rst
+CHANGELOG
+CONTRIBUTING.md
+LICENSE
+README.rst
+appveyor.yml
+build.properties
+build.xml
+composer.json
+composer.lock
+pdepend.xml.dist
+phpunit.xml.dist

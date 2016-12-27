@@ -1,0 +1,9 @@
+src/
+.gitignore
+LICENSE
+README.md
+benchmark.php
+composer.json
+coverage.sh
+sonar-project.properties
+tests.sh

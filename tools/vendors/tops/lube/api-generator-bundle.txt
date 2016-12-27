@@ -1,0 +1,3 @@
+Lube/GeneratorBundle/
+README.md
+composer.json

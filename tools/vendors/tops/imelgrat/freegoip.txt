@@ -1,0 +1,10 @@
+docs/
+examples/
+src/
+.gitattributes
+.gitignore
+LICENSE
+README.md
+VERSION
+composer.json
+phpdoc.dist.xml

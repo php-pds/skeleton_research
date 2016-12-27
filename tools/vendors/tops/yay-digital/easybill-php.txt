@@ -1,0 +1,7 @@
+.idea/
+src/
+vendor/
+README.MD
+composer.json
+composer.lock
+example.php

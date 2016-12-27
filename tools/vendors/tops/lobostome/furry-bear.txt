@@ -1,0 +1,10 @@
+build/settings/
+examples/
+src/FurryBear/
+tests/
+.gitignore
+LICENSE.md
+README.md
+SplClassLoader.php
+build.xml
+composer.json

@@ -1,0 +1,12 @@
+assets/
+src/
+vendor/
+views/
+.gitattributes
+.gitignore
+Gruntfile.js
+LICENSE
+README.md
+composer.json
+package.json
+wp-knowledge-base.php

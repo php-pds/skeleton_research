@@ -1,0 +1,12 @@
+Admin/
+DependencyInjection/
+Entity/
+Event/
+Repository/
+Resources/
+Util/
+.gitignore
+LICENSE
+README.md
+XimaICalBundle.php
+composer.json

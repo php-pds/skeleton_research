@@ -1,0 +1,8 @@
+src/Yeriomin/Getopt/
+tests/src/Yeriomin/Getopt/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml

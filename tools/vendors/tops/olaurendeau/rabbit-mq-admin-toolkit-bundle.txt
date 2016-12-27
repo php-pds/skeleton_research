@@ -1,0 +1,16 @@
+Command/
+Composer/
+DependencyInjection/
+Manager/
+Resources/config/
+Tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+OlaRabbitMqAdminToolkitBundle.php
+README.md
+VhostConfiguration.php
+VhostHandler.php
+composer.json
+composer.lock

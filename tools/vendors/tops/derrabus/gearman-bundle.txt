@@ -1,0 +1,7 @@
+DependencyInjection/
+Tests/DependencyInjection/
+.gitignore
+GearmanBundle.php
+composer.json
+composer.lock
+phpunit.xml.dist

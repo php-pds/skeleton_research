@@ -1,0 +1,10 @@
+.github/
+src/
+tests/
+.gitattributes
+.gitignore
+.travis.yml
+composer.json
+contributing.md
+license.md
+readme.md

@@ -1,0 +1,11 @@
+bin/
+fixture/
+spec/Rootcanal/
+src/Rootcanal/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+Vagrantfile
+composer.json
+composer.lock

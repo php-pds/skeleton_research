@@ -1,0 +1,16 @@
+spec/
+src/
+.codeclimate.yml
+.csslintrc
+.eslintignore
+.eslintrc
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+composer.json
+composer.lock
+live_updating.gif
+phpspec.yml
+preview.png

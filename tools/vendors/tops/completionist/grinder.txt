@@ -1,0 +1,4 @@
+LICENSE
+composer.json
+icon.png
+readme.md

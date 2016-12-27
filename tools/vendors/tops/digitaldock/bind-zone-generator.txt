@@ -1,0 +1,5 @@
+src/bindzone/
+.gitignore
+LICENSE
+README.md
+composer.json

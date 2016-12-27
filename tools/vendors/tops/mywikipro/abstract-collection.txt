@@ -1,0 +1,3 @@
+src/MyWikiPRO/Component/Collection/
+.gitignore
+composer.json

@@ -1,0 +1,8 @@
+src/PhpVarnish/
+wordpress-plugin/
+.gitignore
+LICENSE
+README.md
+composer.json
+example-admin.php
+wordpress-plugin.php

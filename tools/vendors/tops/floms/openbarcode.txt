@@ -1,0 +1,5 @@
+src/OpenBarcode/Linear/
+.gitignore
+LICENSE
+README
+composer.json

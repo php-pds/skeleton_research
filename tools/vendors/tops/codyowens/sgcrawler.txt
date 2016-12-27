@@ -1,0 +1,7 @@
+app/
+.gitignore
+DefaultCrawl.php
+README.md
+composer.json
+phpunit.xml
+slickguns.sql

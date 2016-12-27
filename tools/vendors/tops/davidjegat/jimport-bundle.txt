@@ -1,0 +1,14 @@
+Container/
+DependencyInjection/
+Filters/
+Functions/
+Parser/
+Resources/config/
+Tests/
+.gitignore
+.travis.yml
+DavidJegatJImportBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,8 @@
+src/Playbook/
+tests/Playbook/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml

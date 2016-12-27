@@ -1,0 +1,15 @@
+examples/
+src/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+blast.c
+blast.php
+composer.json
+composer.lock
+config.m4
+config.w32
+php_blast.h
+phpunit.xml

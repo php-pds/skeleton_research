@@ -1,0 +1,14 @@
+Collector/
+Command/
+DependencyInjection/
+Provider/
+Resources/config/
+Tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+FlagbitMetricsBundle.php
+LICENSE.txt
+README.md
+composer.json
+phpunit.xml.dist

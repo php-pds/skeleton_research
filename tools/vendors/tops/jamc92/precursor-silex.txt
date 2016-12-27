@@ -1,0 +1,12 @@
+gen/
+src/
+tests/
+vendor/
+web/
+.gitignore
+LICENSE
+README.md
+composer.json
+console
+precursorbd.sql
+precursorbdInnodb.sql

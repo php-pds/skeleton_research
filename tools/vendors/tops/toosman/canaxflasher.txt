@@ -1,0 +1,13 @@
+css/
+src/CAnaxFlasher/
+test/
+view/CAnaxFlasher/
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+autoloader.php
+composer.json
+composer.lock
+flash.php
+phpunit.xml

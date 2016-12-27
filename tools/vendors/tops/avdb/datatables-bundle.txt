@@ -1,0 +1,10 @@
+assets-src/
+src/
+.gitignore
+.travis.yml
+composer.json
+composer.lock
+gulpfile.js
+package.json
+phpunit.xml.dist
+readme.md

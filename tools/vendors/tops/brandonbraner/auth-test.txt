@@ -1,0 +1,9 @@
+examples/wordpress/
+src/Auth/
+tests/
+.gitignore
+.travis.yml
+composer.json
+composer.lock
+phpunit.xml
+readme.md

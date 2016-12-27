@@ -1,0 +1,13 @@
+config/
+fonts/
+src/
+tests/
+web/
+.gitignore
+LICENSE
+Procfile
+README.md
+composer.json
+parrots-logo-250.png
+phpunit.xml.dist
+wercker.yml

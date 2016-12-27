@@ -1,0 +1,16 @@
+Annotation/
+Controller/
+Entity/
+Form/
+Listener/
+Resources/
+Tests/
+.gitattributes
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENSE
+Padam87AttributeBundle.php
+README.md
+composer.json
+phpunit.xml.dist

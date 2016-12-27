@@ -1,0 +1,6 @@
+config/
+src/HeadBuild/View/Helper/
+.gitignore
+Module.php
+README.md
+composer.json

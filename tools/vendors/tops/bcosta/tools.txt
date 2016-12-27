@@ -1,0 +1,8 @@
+resources/
+src/BCosta/Tools/
+tests/BCosta/Tools/
+.gitignore
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

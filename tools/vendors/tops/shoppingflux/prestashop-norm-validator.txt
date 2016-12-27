@@ -1,0 +1,4 @@
+Prestashop/
+README.md
+composer.json
+ruleset.xml

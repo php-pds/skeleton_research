@@ -1,0 +1,16 @@
+src/Esperance/
+tests/
+.gitignore
+.travis.yml
+ChangeLog.md
+Gemfile
+Gemfile.lock
+Guardfile
+LICENSE.md
+LICENSE.txt
+README.md
+TODO.md
+composer.json
+composer.lock
+install-composer.sh
+phpunit.xml

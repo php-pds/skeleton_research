@@ -1,0 +1,6 @@
+sample/
+src/Qiita/
+tests/
+.gitignore
+composer.json
+phpunit.xml.dist

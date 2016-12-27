@@ -1,0 +1,8 @@
+app/
+components/
+src/
+web/
+.gitignore
+README.md
+composer.json
+composer.phar

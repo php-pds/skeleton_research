@@ -1,0 +1,9 @@
+js/
+less/
+migrations/
+resources/docs/
+src/
+.gitignore
+README.md
+bootstrap.php
+composer.json

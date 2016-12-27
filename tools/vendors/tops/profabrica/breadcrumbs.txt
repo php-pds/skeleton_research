@@ -1,0 +1,5 @@
+src/Profabrica/Breadcrumbs/
+.editorconfig
+.gitignore
+LICENSE
+composer.json

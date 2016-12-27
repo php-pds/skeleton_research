@@ -1,0 +1,15 @@
+.idea/
+bin/
+docker/
+features/
+src/Behat/
+tests/Behat/
+web/
+.gitignore
+LICENSE
+README.md
+behat.yml
+circle.yml
+composer.json
+composer.lock
+phpunit.xml

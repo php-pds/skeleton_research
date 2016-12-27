@@ -1,0 +1,12 @@
+img/
+src/
+tests/
+.gitattributes
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+dataset.sql
+phpunit.xml.dist

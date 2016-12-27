@@ -1,0 +1,11 @@
+DependencyInjection/
+EventListener/
+Resources/config/
+Tests/DependencyInjection/
+.gitignore
+.travis.yml
+GuzzleStereoBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

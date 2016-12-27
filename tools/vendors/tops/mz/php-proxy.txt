@@ -1,0 +1,10 @@
+doc/
+src/
+tests/
+.gitignore
+LICENCE
+README.md
+api.sh
+composer.json
+composer.lock
+test.sh

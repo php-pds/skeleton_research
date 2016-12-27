@@ -1,0 +1,11 @@
+config/
+data/cache/
+module/Client/
+public/
+.gitignore
+Bootstrap.php
+LICENSE.txt
+README.md
+Vagrantfile
+composer.json
+phpunit.xml

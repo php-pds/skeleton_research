@@ -1,0 +1,4 @@
+doc/images/
+src/
+README.md
+composer.json

@@ -1,0 +1,8 @@
+build/
+src/Illuminate/
+tests/
+.gitattributes
+.gitignore
+README.md
+artisan
+composer.json

@@ -1,0 +1,6 @@
+src/Correios/
+tests/Correios/
+.gitignore
+autoload.php
+composer.json
+phpunit.xml

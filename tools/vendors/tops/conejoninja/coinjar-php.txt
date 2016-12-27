@@ -1,0 +1,7 @@
+CoinJar.php
+LICENSE.txt
+README.md
+composer.json
+config.php
+ipn.php
+test.php

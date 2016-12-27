@@ -1,0 +1,5 @@
+src/PhlexMock/
+tests/
+README.md
+composer.json
+phpunit.xml.dist

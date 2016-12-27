@@ -1,0 +1,4 @@
+Solaris/
+LICENSE
+README.md
+composer.json

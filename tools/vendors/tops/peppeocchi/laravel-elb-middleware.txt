@@ -1,0 +1,5 @@
+src/GO/
+.gitignore
+LICENSE
+README.md
+composer.json

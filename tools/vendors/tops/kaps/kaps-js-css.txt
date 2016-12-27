@@ -1,0 +1,8 @@
+css/
+js/
+LICENSE
+LICENSE~
+README.md
+README.md~
+composer.json
+phpunit.xml

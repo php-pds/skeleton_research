@@ -1,0 +1,9 @@
+bin/
+docs/
+library/HTML5/
+maintenance/
+tests/
+README
+SPEC
+VERSION
+composer.json

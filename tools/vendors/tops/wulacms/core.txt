@@ -1,0 +1,6 @@
+controllers/
+views/index/
+.gitignore
+LICENSE
+bootstrap.php
+composer.json

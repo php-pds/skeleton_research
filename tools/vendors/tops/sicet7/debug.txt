@@ -1,0 +1,5 @@
+.gitattributes
+.gitignore
+Functions.php
+README.md
+composer.json

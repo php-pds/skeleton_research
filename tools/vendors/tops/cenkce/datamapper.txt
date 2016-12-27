@@ -1,0 +1,3 @@
+src/Semio/DataMapper/
+README.md
+composer.json

@@ -1,0 +1,10 @@
+bin/
+config/
+doc/
+example/
+lib/
+.gitignore
+LICENSE
+README-upstream.md
+README.md
+composer.json

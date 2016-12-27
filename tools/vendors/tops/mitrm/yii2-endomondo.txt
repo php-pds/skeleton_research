@@ -1,0 +1,7 @@
+.gitignore
+Endomondo.php
+LICENSE
+README.md
+Workout.php
+Workouts.php
+composer.json

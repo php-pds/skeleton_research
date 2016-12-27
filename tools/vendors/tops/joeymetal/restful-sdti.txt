@@ -1,0 +1,19 @@
+classes/
+config/
+controllers/
+db/
+helpers/
+log/
+models/
+mylogphp @ 8e01796
+php-activerecord @ abc99ed
+routes/
+vendor/
+.gitignore
+.gitmodules
+README.md
+composer.json
+composer.lock
+composer.phar
+index.php
+phinx.yml

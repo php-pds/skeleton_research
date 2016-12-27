@@ -1,0 +1,5 @@
+.gitignore
+HybridXMLParser.php
+LICENSE
+README.md
+composer.json

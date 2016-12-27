@@ -1,0 +1,8 @@
+src/FFreitasBr/MandrillBundle/
+tests/
+.gitignore
+.travis.yml
+LICENSE.md
+README.md
+composer.json
+phpunit.xml.dist

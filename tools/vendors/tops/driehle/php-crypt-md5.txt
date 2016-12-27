@@ -1,0 +1,6 @@
+library/Md5Crypt/
+tests/Md5Crypt/
+.travis.yml
+README.md
+composer.json
+phpunit.xml.dist

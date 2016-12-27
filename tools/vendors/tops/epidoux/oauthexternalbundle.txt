@@ -1,0 +1,14 @@
+.idea/
+Controller/
+DependencyInjection/
+Entities/
+Factories/
+Resources/
+Services/
+Tests/
+.gitignore
+EpidouxOAuthExternalBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

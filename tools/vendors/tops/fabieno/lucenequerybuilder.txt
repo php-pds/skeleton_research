@@ -1,0 +1,6 @@
+src/LuceneQueryBuilder/
+test/unit/
+.gitignore
+LICENSE
+README.md
+composer.json

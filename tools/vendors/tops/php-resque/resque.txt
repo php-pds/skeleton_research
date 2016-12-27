@@ -1,0 +1,12 @@
+bin/
+src/Resque/
+test/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+build.xml
+composer.json
+composer.lock
+phpspec.yml.dist
+phpunit.xml.dist

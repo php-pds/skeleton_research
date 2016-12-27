@@ -1,0 +1,15 @@
+docs/
+src/
+tests/
+.gitattributes
+.gitignore
+.travis.yml
+CHANGELOG.md
+Doxyfile
+LICENSE
+PhpBotFramework_Logo_big.png
+PhpBotFramework_Logo_small.png
+README.md
+composer.json
+header.html
+phpunit.xml

@@ -1,0 +1,8 @@
+Classes/
+LICENSE
+README.md
+SEF.php
+Settings.php
+autoload.php
+composer.json
+composer.lock

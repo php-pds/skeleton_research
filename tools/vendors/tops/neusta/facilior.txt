@@ -1,0 +1,8 @@
+Neusta/Facilior/
+bin/
+tests/Neusta/Facilior/
+.gitignore
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

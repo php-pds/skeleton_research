@@ -1,0 +1,16 @@
+example/
+jbt/
+lib/
+tests/
+website/
+.gitignore
+CHANGELOG
+CREDITS
+DOCUMENTATION
+LICENCE
+README.md
+VERSION
+build.php
+composer.json
+wr-dist.ini
+wr-test.ini

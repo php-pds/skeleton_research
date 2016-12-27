@@ -1,0 +1,7 @@
+src/Crhayes/Validation/
+tests/
+.gitignore
+.travis.yml
+README.md
+composer.json
+phpunit.xml

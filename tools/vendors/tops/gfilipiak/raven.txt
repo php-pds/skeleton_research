@@ -1,0 +1,15 @@
+bin/
+docs/
+lib/Raven/
+test/
+.gitignore
+.gitmodules
+.php_cs
+.travis.yml
+AUTHORS
+CHANGES
+LICENSE
+Makefile
+README.rst
+composer.json
+phpunit.xml

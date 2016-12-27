@@ -1,0 +1,12 @@
+example/
+src/Phpreboot/Stopwatch/
+tests/Phpreboot/Stopwatch/
+.codeclimate.yml
+.gitignore
+.travis.yml
+LICENSE
+README.md
+changelog.md
+composer.json
+composer.lock
+phpunit.xml.dist

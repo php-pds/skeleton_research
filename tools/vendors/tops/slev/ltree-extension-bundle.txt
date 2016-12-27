@@ -1,0 +1,12 @@
+Annotation/
+DependencyInjection/
+DqlFunction/
+Listener/
+Repository/
+Resources/config/
+Traits/
+TreeBuilder/
+Types/
+.gitignore
+SlevLtreeExtensionBundle.php
+composer.json

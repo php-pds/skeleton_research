@@ -1,0 +1,7 @@
+src/Doctrinextra/
+tests/Doctrinextra/Specification/
+LICENSE
+README.md
+composer.json
+composer.phar
+phpunit.xml.dist

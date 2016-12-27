@@ -1,0 +1,3 @@
+src/Clownfish/
+.gitignore
+composer.json

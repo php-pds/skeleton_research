@@ -1,0 +1,10 @@
+Code128/
+Code39/
+EAN13/
+EAN8/
+ISBN10/
+UPCA/
+LICENSE
+README.md
+ReadMe.txt
+composer.json

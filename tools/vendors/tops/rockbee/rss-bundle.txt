@@ -1,0 +1,8 @@
+Controller/
+DependencyInjection/
+Resources/config/
+Tests/Controller/
+rssphp/
+README.md
+RbRssBundle.php
+composer.json

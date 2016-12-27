@@ -1,0 +1,7 @@
+assets/
+.gitignore
+LICENSE
+README.md
+ShowLoading.php
+ShowLoadingAsset.php
+composer.json

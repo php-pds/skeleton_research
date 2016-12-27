@@ -1,0 +1,4 @@
+htmlcache/
+LICENSE
+README.md
+composer.json

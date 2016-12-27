@@ -1,0 +1,9 @@
+code/
+lang/
+templates/
+thirdparty/Font-Awesome/
+.DS_Store
+LICENSE
+README.md
+_config.php
+composer.json

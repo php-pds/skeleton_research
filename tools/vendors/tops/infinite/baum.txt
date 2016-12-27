@@ -1,0 +1,14 @@
+.idea/
+src/Baum/
+tests/
+.gitattributes
+.gitignore
+.travis.yml
+CHANGELOG.md
+CONTRIBUTING.md
+LICENSE
+README.md
+bootstrap.php
+boris
+composer.json
+phpunit.xml

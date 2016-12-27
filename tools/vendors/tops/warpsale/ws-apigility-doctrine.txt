@@ -1,0 +1,5 @@
+_utils/module/Base/
+src/WSApigilityDoctrine/
+README.md
+composer.json
+composer.lock

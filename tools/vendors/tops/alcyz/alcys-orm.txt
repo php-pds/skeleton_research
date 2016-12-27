@@ -1,0 +1,8 @@
+docs/
+src/Core/
+.gitignore
+AutoLoader.php
+LICENSE
+README-DE.md
+README.md
+composer.json

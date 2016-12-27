@@ -1,0 +1,8 @@
+assets/
+components/
+docs/
+widgets/
+LICENSE
+README-EN.md
+README.md
+composer.json

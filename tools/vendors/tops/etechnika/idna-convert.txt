@@ -1,0 +1,12 @@
+lib/phlylabs/
+src/Etechnika/IdnaConvert/
+tests/
+.gitignore
+.travis.yml
+CHANGLELOG
+LICENSE
+README.md
+build.xml
+composer.json
+phpunit.xml.dist
+travis.phpunit.xml

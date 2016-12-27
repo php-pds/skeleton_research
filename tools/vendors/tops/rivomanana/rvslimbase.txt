@@ -1,0 +1,9 @@
+config/
+http/
+src/
+vendor/
+.gitignore
+.htaccess
+composer.json
+composer.lock
+index.php

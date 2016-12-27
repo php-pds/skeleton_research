@@ -1,0 +1,7 @@
+includes/
+src/
+.gitignore
+LICENCE.txt
+README.md
+composer.json
+prestashop

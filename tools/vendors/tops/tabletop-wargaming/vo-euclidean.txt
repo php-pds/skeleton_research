@@ -1,0 +1,11 @@
+spec/TabletopWargaming/Euclidean/
+src/
+.gitattributes
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+phpspec.yml

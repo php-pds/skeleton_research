@@ -1,0 +1,7 @@
+Cache/
+Command/
+DependencyInjection/
+Resources/config/
+ParizzCacheBundle.php
+README.md
+composer.json

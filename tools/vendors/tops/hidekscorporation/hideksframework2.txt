@@ -1,0 +1,5 @@
+src/Hideks/
+.gitignore
+LICENSE
+README.md
+composer.json

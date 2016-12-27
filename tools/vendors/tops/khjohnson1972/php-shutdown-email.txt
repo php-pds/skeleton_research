@@ -1,0 +1,6 @@
+src/ErrEmail/
+.gitignore
+LICENSE
+README.md
+composer.json
+config.dist.php

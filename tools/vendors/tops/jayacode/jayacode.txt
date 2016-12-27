@@ -1,0 +1,14 @@
+app/
+config/
+public/
+resource/views/
+tests/
+.gitattributes
+.gitignore
+.styleci.yml
+.travis.yml
+LICENSE.md
+README.md
+composer.json
+phpunit.xml.dist
+scrutinizer.yml

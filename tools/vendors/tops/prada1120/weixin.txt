@@ -1,0 +1,8 @@
+cache/
+README.md
+WeiXin.php
+WeiXinConfig.php
+WeiXinHelper.php
+WeiXinPay.php
+WeiXinPayOrder.php
+composer.json

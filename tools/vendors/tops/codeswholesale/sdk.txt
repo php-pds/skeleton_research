@@ -1,0 +1,10 @@
+examples/
+src/CodesWholesale/
+tests/
+.gitignore
+.travis.yml
+CHANGES.md
+LICENSE
+README.md
+composer.json
+phpunit.xml

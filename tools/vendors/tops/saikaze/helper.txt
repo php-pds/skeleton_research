@@ -1,0 +1,7 @@
+.idea/
+config/
+.gitignore
+README.md
+composer.json
+composer.lock
+helper.class.php

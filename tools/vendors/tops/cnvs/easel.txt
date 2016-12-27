@@ -1,0 +1,17 @@
+config/
+database/
+public/
+resources/
+routes/
+src/
+.gitattributes
+.gitignore
+.jshintrc
+.styleci.yml
+.travis.yml
+composer.json
+gulpfile.js
+license
+package.json
+phpunit.xml.dist
+readme.md

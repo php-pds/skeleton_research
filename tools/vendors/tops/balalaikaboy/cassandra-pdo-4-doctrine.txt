@@ -1,0 +1,7 @@
+lib/Doctrine/DBAL/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json
+phpunit.xml

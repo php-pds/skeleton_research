@@ -1,0 +1,3 @@
+src/JayFrancis/Cubex/JWPlayer/
+README.md
+composer.json

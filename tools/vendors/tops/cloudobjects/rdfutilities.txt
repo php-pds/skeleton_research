@@ -1,0 +1,6 @@
+.gitignore
+Arc2JsonLdConverter.php
+LICENSE
+README.md
+composer.json
+composer.lock

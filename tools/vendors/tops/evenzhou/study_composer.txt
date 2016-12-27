@@ -1,0 +1,5 @@
+.idea/
+helper/
+lib/
+MyClass.php
+composer.json

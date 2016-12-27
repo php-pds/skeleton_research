@@ -1,0 +1,7 @@
+assets/
+CHANGELOG.md
+DaSliderAsset.php
+LICENSE.md
+README.md
+Widget.php
+composer.json

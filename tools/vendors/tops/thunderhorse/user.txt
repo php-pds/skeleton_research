@@ -1,0 +1,5 @@
+resources/views/users/
+src/Thunderhorse/User/
+.gitignore
+README.md
+composer.json

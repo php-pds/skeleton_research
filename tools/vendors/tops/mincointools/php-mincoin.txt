@@ -1,0 +1,6 @@
+src/MinCoinTools/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json

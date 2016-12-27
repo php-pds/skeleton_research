@@ -1,0 +1,8 @@
+classes/Alquemedia_Envato_PHP_Wrapper/
+config/
+include/
+.gitignore
+LICENSE
+README.md
+composer.json
+demo.php

@@ -1,0 +1,11 @@
+src/
+tests/
+.gitignore
+LICENSE
+README.md
+circle.yml
+circleci.modx.config.xml
+composer.json
+composer.lock
+config.core.sample.php
+phpunit.xml

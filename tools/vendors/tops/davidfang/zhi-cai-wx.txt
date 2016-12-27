@@ -1,0 +1,11 @@
+core/
+models/
+LICENSE
+README.md
+WeHello.php
+ZhiCaiWX.php
+composer.json
+config.php
+demo.php
+lic.txt
+wechat.php

@@ -1,0 +1,4 @@
+DetailView4Col.php
+LICENSE
+README.md
+composer.json

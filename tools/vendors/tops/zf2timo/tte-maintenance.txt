@@ -1,0 +1,12 @@
+config/
+src/tteMaintenance/
+tests/
+.coveralls.yml
+.gitignore
+.travis.yml
+Module.php
+README.md
+autoload_function.php
+autoload_register.php
+composer.json
+phpunit.xml

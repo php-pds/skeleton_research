@@ -1,0 +1,8 @@
+database/migrations/
+resources/views/
+src/
+.gitignore
+composer.json
+composer.lock
+socialite-extension.sublime-project
+socialite-extension.sublime-workspace

@@ -1,0 +1,8 @@
+docs/
+src/Apache2BasicAuth/
+.gitignore
+LICENSE.txt
+README.md
+composer.json
+composer.lock
+phpdoc.xml

@@ -1,0 +1,12 @@
+conf/
+data/
+lib/framework/
+model/
+module/
+plugin/
+site/
+LICENSE
+LICENSE.txt
+README.md
+composer.json
+index.php

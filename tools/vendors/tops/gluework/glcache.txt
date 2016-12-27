@@ -1,0 +1,6 @@
+src/GlueWork/glCache/
+.gitattributes
+.gitignore
+composer.json
+contributing.md
+license.md

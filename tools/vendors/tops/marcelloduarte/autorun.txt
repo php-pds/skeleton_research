@@ -1,0 +1,6 @@
+bin/
+image/
+src/MarcelloDuarte/AutoRun/
+.gitignore
+README
+composer.json

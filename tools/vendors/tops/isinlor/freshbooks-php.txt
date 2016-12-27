@@ -1,0 +1,7 @@
+docs/
+library/FreshBooks/
+samples/
+README.md
+README.txt
+composer.json
+example.php

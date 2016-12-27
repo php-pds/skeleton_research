@@ -1,0 +1,7 @@
+config/
+event/
+travis/
+.travis.yml
+README.md
+composer.json
+license.txt

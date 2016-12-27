@@ -1,0 +1,9 @@
+src/
+test/
+webroot/
+.scrutinizer.yml
+.travis.yml
+README.md
+autouploader.php
+composer.json
+composer.lock

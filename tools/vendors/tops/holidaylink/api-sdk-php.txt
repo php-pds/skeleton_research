@@ -1,0 +1,6 @@
+docs/
+lib/HolidayLink/
+sample/
+.gitignore
+README.md
+composer.json

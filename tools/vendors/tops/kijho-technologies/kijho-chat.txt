@@ -1,0 +1,7 @@
+app/
+src/Kijho/ChatBundle/
+web/
+.gitignore
+README.md
+composer.json
+composer.lock

@@ -1,0 +1,6 @@
+src/lvincesl/query/
+.gitattributes
+.gitignore
+README.md
+composer.json
+composer.lock

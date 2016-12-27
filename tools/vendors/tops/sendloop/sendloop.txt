@@ -1,0 +1,3 @@
+src/Sendloop/
+README.md
+composer.json

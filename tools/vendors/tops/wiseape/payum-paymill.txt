@@ -1,0 +1,3 @@
+src/Wiseape/
+.gitignore
+composer.json

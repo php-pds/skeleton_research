@@ -1,0 +1,8 @@
+helpers/
+tests/
+.coveralls.yml
+.scrutinizer.yml
+.travis.yml
+README.md
+composer.json
+phpunit.xml

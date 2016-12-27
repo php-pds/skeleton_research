@@ -1,0 +1,7 @@
+config/
+src/DbQueriesToolbar/Collector/
+view/zend-developer-tools/toolbar/
+LICENSE.md
+Module.php
+README.md
+composer.json

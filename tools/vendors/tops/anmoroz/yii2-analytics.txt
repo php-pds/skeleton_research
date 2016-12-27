@@ -1,0 +1,17 @@
+assets/
+commands/
+components/
+controllers/
+docs/
+messages/ru-RU/
+models/
+tests/
+traits/
+views/default/
+.gitignore
+AnalystsConfigurator.example.php
+LICENSE.md
+Module.php
+README.md
+codeception.yml
+composer.json

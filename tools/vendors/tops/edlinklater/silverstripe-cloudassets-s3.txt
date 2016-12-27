@@ -1,0 +1,7 @@
+code/
+tests/
+LICENSE
+README.md
+_config.php
+code-of-conduct.md
+composer.json

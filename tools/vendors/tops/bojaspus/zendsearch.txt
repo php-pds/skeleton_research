@@ -1,0 +1,6 @@
+library/ZendSearch/
+tests/
+.gitignore
+LICENSE.txt
+README.md
+composer.json

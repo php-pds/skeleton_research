@@ -1,0 +1,11 @@
+app/
+config/
+database/
+media/avatar/
+public/themes/
+resources/
+routes/
+src/
+.htaccess
+README.md
+composer.json

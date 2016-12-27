@@ -1,0 +1,8 @@
+Command/
+Composer/
+DependencyInjection/
+Resources/
+Service/
+.gitignore
+MagLoftEzmagicBundle.php
+composer.json

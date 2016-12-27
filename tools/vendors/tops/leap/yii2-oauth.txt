@@ -1,0 +1,6 @@
+.gitignore
+Qq.php
+README.md
+Weibo.php
+Weixin.php
+composer.json

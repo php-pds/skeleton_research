@@ -1,0 +1,5 @@
+spec/Hoard/
+src/Hoard/
+LICENSE
+README.md
+composer.json

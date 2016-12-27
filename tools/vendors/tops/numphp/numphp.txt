@@ -1,0 +1,10 @@
+examples/
+src/NumPHP/
+tests/NumPHPTest/
+.coveralls.yml
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml

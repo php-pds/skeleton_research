@@ -1,0 +1,10 @@
+doc/
+example-features/
+features/bootstrap/
+output/
+src/chartinger/Behat/TwigReportExtension/
+.gitignore
+LICENSE
+README.md
+behat.yml
+composer.json

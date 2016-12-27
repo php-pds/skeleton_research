@@ -1,0 +1,10 @@
+config/
+doc/
+public/
+src/GraphicObjectTemplating/
+view/
+.gitignore
+LICENSE
+Module.php
+README.rst
+composer.json

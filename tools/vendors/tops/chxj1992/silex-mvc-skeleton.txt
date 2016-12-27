@@ -1,0 +1,16 @@
+bin/
+config/
+db/
+src/
+templates/
+var/logs/
+web/
+.gitignore
+.travis.yml
+Dockerfile
+README.md
+composer.json
+migrations.yml
+phpci.yml
+phpunit.xml
+phpunit.xml.dist

@@ -1,0 +1,5 @@
+composer.json
+readme.md
+screenshot1.png
+wp-cli-ssh.php
+wp-cli.sample.yml

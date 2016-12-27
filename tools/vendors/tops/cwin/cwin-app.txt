@@ -1,0 +1,6 @@
+src/Cwin/
+tests/
+.gitignore
+composer.json
+composer.lock
+readme.md

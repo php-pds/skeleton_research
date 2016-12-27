@@ -1,0 +1,4 @@
+src/Minutemailer/
+.gitignore
+README.md
+composer.json

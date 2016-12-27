@@ -1,0 +1,9 @@
+bin/
+src/
+.gitignore
+composer.json
+composer.lock
+parser.php
+phpimports.php
+phpimports2.php
+test.php

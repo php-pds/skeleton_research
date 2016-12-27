@@ -1,0 +1,4 @@
+.gitignore
+README
+canvas.php
+composer.json

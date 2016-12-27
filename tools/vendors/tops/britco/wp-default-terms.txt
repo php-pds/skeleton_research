@@ -1,0 +1,10 @@
+bin/
+lib/
+tests/
+.gitignore
+README.md
+circle.yml
+composer.json
+phpcs.xml
+phpunit.xml
+wp-default-terms.php

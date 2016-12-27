@@ -1,0 +1,7 @@
+DataTableBundle/
+.gitignore
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist
+punit_bootstrap.php.dist.php

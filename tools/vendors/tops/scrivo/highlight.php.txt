@@ -1,0 +1,10 @@
+Highlight/
+demo/
+styles/
+test/
+tools/
+AUTHORS.txt
+LICENSE
+README.md
+composer.json
+example.php

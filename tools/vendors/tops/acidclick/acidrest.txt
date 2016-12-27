@@ -1,0 +1,5 @@
+src/Acidclick/Rest/
+tests/
+.gitignore
+README.md
+composer.json

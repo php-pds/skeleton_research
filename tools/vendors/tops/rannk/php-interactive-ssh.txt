@@ -1,0 +1,4 @@
+src/ssh/
+tests/
+README.md
+composer.json

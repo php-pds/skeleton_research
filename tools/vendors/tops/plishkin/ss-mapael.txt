@@ -1,0 +1,17 @@
+_config/
+code/
+dist/
+js/
+json/
+lang/
+scss/
+templates/
+.gitignore
+.htaccess
+Gruntfile.js
+README.md
+_config.php
+bower.json
+composer.json
+config.rb
+package.json

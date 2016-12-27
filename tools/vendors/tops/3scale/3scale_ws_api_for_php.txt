@@ -1,0 +1,8 @@
+examples/
+lib/
+test/
+.gitignore
+.travis.yml
+LICENCE
+README.markdown
+composer.json

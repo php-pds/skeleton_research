@@ -1,0 +1,13 @@
+bin/
+build/
+src/Audit/
+tests/
+.editorconfig
+.gitignore
+.projections.json
+.travis.yml
+LICENSE
+Makefile
+README.md
+composer.json
+phpunit.xml.dist

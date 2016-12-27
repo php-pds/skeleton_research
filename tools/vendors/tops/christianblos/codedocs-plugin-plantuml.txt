@@ -1,0 +1,5 @@
+classes/CodeDocs/
+example/
+.gitignore
+README.md
+composer.json

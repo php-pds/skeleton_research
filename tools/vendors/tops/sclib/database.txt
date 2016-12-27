@@ -1,0 +1,8 @@
+docs/
+src/Sclib/
+tests/Sclib/
+.gitignore
+README.md
+apigen.conf
+composer.json
+composer.lock

@@ -1,0 +1,5 @@
+src/mithra62/BpApiClient/
+.gitignore
+LICENSE
+README.md
+composer.json

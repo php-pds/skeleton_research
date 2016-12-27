@@ -1,0 +1,7 @@
+assets/
+vendor/
+AutoloadExample.php
+Barcodyii.php
+BarcodyiiAsset.php
+README.md
+composer.json

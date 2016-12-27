@@ -1,0 +1,7 @@
+lib/Recurly/
+test/Recurly/Test/
+.gitignore
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

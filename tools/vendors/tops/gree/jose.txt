@@ -1,0 +1,12 @@
+example/
+src/JOSE/
+test/
+.gitignore
+.travis.yml
+Gemfile
+Gemfile.lock
+LICENSE
+README.md
+Rakefile
+composer.json
+composer.lock

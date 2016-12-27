@@ -1,0 +1,6 @@
+DependencyInjection/
+EventListener/
+Resources/config/
+NetpositiveDiscriminatorMapBundle.php
+README.markdown
+composer.json

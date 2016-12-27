@@ -1,0 +1,8 @@
+Mf2/
+tests/Mf2/
+.gitignore
+LICENSE.txt
+README.md
+composer.json
+composer.lock
+phpunit.xml

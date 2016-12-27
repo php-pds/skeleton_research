@@ -1,0 +1,12 @@
+css/
+js/
+CHANGELOG.md
+LICENSE.md
+README.md
+composer.json
+morris-area-charts.php
+morris-bar-charts.php
+morris-charts.php
+morris-donut-charts.php
+morris-line-charts.php
+morris.php

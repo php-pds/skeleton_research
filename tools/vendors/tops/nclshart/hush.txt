@@ -1,0 +1,17 @@
+app/
+bin/
+config/
+src/
+templates/
+tests/
+var/
+web/
+.eslintrc.yml
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock
+package.json
+phpunit.xml.dist
+screenshot.png

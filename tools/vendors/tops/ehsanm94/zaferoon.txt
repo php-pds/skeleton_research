@@ -1,0 +1,14 @@
+app/
+bootstrap/
+databases/
+public/
+.bowerrc
+.env.example
+.gitignore
+.htaccess.example
+README.md
+bower.json
+composer.json
+composer.lock
+config.js.example
+index.php

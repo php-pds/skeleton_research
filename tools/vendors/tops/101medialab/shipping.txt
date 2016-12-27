@@ -1,0 +1,11 @@
+bin/
+data/
+examples/
+spec/MediaLab/Shipping/
+src/MediaLab/Shipping/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock

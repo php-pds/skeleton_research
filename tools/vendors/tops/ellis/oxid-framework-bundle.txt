@@ -1,0 +1,16 @@
+Bootstrapper/
+Command/
+Composer/
+Console/
+DependencyInjection/
+Resources/config/
+.gitignore
+DatabaseInstaller.php
+FrameworkBundle.php
+LICENSE
+OxidAware.php
+OxidAwareInterface.php
+OxidAwareTrait.php
+OxidFactory.php
+README.md
+composer.json

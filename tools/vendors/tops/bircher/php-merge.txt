@@ -1,0 +1,7 @@
+php-stub/
+src/PhpMerge/
+test/
+.gitignore
+LICENSE.txt
+composer.json
+phpunit.xml

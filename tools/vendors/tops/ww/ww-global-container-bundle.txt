@@ -1,0 +1,9 @@
+DependencyInjection/
+Listener/
+Model/
+Resources/config/
+.gitignore
+README.md
+WWGlobalContainerBundle.php
+composer.json
+composer.lock

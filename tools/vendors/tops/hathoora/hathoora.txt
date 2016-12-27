@@ -1,0 +1,9 @@
+app/
+boot/config/
+docroot/
+.gitignore
+CHANGELOG.txt
+LICENSE
+README.md
+composer.json
+composer.phar

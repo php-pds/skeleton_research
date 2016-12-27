@@ -1,0 +1,10 @@
+public/
+src/
+tests/
+.gitignore
+Dockerfile
+Vagrantfile
+composer.json
+composer.lock
+phpunit.xml
+provision.sh

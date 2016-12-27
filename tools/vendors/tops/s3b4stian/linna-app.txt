@@ -1,0 +1,12 @@
+App/
+public/
+tests/
+.gitignore
+.htaccess
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+composer.json
+index.php
+phpunit.xml

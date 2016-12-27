@@ -1,0 +1,9 @@
+Annotation/
+DependencyInjection/
+Event/
+Resources/config/
+.gitignore
+LICENSE
+LevelabDoctrineDiscriminatorBundle.php
+README.md
+composer.json

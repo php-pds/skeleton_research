@@ -1,0 +1,14 @@
+documentation/
+test/
+README.md
+composer.json
+delete.gif
+documentation.html
+jquery.MetaData.js
+jquery.form.js
+jquery.js
+jquery.rating.css
+jquery.rating.js
+jquery.rating.pack.js
+star-rating.zip
+star.gif

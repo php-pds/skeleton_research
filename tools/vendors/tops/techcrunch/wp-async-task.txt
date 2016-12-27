@@ -1,0 +1,8 @@
+tests/phpunit/
+.gitignore
+LICENSE.md
+README.md
+bootstrap.php.dist
+composer.json
+phpunit.xml.dist
+wp-async-task.php

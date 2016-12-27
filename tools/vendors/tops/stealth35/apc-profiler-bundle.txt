@@ -1,0 +1,6 @@
+DataCollector/
+DependencyInjection/
+Resources/
+ApcProfilerBundle.php
+README.md
+composer.json

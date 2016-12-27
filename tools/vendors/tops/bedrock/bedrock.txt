@@ -1,0 +1,8 @@
+hooks/
+src/
+test/
+CHANGELOG.md
+INSTALL.md
+LICENSE.md
+README.md
+composer.json

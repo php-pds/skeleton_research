@@ -1,0 +1,7 @@
+src/Database/
+LICENSE
+README.md
+composer.json
+phpci.yml
+phpcs.xml
+phpmd.xml

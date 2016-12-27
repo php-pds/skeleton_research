@@ -1,0 +1,6 @@
+src/Philker/Chat/
+tests/
+.gitignore
+.travis.yml
+composer.json
+phpunit.xml

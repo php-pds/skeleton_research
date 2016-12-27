@@ -1,0 +1,3 @@
+IB/MediaProxyBundle/
+README.markdown
+composer.json

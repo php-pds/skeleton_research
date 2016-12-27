@@ -1,0 +1,15 @@
+src/
+tests/
+.gitattributes
+.gitignore
+.travis.yml
+CHANGELOG.md
+CONTRIBUTING.md
+Gruntfile.js
+LICENSE.md
+README.md
+UPGRADE.md
+bower.json
+composer.json
+package.json
+phpunit.xml

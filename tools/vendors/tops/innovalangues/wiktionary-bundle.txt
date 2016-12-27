@@ -1,0 +1,6 @@
+DependencyInjection/
+Manager/
+Resources/config/
+.gitignore
+InnovaWiktionaryBundle.php
+composer.json

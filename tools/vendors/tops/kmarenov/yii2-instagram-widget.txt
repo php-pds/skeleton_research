@@ -1,0 +1,6 @@
+messages/
+views/
+.gitignore
+InstagramWidget.php
+README.md
+composer.json

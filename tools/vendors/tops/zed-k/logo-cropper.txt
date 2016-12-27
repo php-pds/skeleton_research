@@ -1,0 +1,5 @@
+src/ZedK/LogoCropper/
+.gitignore
+README.md
+composer.json
+composer.lock

@@ -1,0 +1,6 @@
+config/
+src/EwgoSolarium/
+view/zend-developer-tools/toolbar/
+Module.php
+README.md
+composer.json

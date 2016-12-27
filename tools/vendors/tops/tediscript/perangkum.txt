@@ -1,0 +1,7 @@
+data/
+nbproject/
+src/Summarizer/
+.gitignore
+README.md
+composer.json
+index.php

@@ -1,0 +1,15 @@
+Controller/
+DependencyInjection/
+Exceptions/
+Model/
+Resources/config/
+Services/
+Tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+UsoftPostcodeBundle.php
+composer.json
+phpunit.xml.dist

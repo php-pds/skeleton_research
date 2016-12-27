@@ -1,0 +1,5 @@
+skeletonPackage/
+src/
+.gitignore
+README.md
+composer.json

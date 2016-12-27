@@ -1,0 +1,4 @@
+src/YiiAMQP/
+.gitignore
+README.md
+composer.json

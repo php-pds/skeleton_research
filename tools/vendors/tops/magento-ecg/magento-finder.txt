@@ -1,0 +1,8 @@
+bin/
+src/
+.gitignore
+LICENSE
+README.md
+composer.json
+magento-finder.bat
+magento-finder.php

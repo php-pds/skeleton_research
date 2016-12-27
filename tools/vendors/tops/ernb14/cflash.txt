@@ -1,0 +1,4 @@
+src/CFlash/
+LICENSE.txt
+README.md
+composer.json

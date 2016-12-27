@@ -1,0 +1,12 @@
+Data/Fixtures/
+Scripts/
+src/TransformCore/PHE/LocalHealthAuthorityBundle/
+.gitignore
+.scrutinzer.yml
+.travis.yml
+LICENSE
+README.md
+bootstrap.php
+composer.json
+composer.lock
+phpunit.xml

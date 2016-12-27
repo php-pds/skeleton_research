@@ -1,0 +1,5 @@
+application/api/
+.gitignore
+LICENSE
+README.md
+composer.json

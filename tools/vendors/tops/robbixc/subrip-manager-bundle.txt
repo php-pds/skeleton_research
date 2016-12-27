@@ -1,0 +1,9 @@
+DependencyInjection/
+Manager/
+Resources/config/
+Validator/Constraints/
+.gitignore
+LICENSE
+README.md
+RobbixcSubRipManagerBundle.php
+composer.json

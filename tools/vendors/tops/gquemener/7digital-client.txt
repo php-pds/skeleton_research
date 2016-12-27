@@ -1,0 +1,10 @@
+bin/
+spec/SevenDigital/
+src/SevenDigital/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENCE
+README.md
+composer.json
+phpspec.yml

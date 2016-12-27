@@ -1,0 +1,6 @@
+Controller/
+DependencyInjection/
+Resources/
+Tests/Controller/
+DevgiantsComponentsBundle.php
+composer.json

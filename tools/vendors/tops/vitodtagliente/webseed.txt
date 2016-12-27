@@ -1,0 +1,15 @@
+app/
+boot/
+config/
+libraries/
+plugins/
+public/
+vendor/
+.gitattributes
+.gitignore
+.htaccess
+README.md
+api
+composer.json
+index.php
+init.php

@@ -1,0 +1,5 @@
+src/A2Way/LaravelHash/
+.gitignore
+README.md
+VERSION
+composer.json

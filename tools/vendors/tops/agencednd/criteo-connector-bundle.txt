@@ -1,0 +1,7 @@
+DependencyInjection/
+Processor/
+Resources/
+Writer/File/
+DndCriteoConnectorBundle.php
+README.MD
+composer.json

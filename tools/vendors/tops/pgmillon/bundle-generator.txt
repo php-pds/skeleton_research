@@ -1,0 +1,8 @@
+Resources/templates/
+Tests/
+.gitignore
+Parameter.php
+README.md
+ScriptHandler.php
+composer.json
+phpunit.xml.dist

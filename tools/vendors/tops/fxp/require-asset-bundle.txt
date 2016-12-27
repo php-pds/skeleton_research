@@ -1,0 +1,16 @@
+Assetic/
+DependencyInjection/
+Listener/
+Resources/
+Tag/Renderer/
+Tests/
+Twig/Extension/
+.gitignore
+.php_cs.dist
+.scrutinizer.yml
+.travis.yml
+FxpRequireAssetBundle.php
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

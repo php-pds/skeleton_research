@@ -1,0 +1,9 @@
+src/Allyourbase/
+tests/
+.gitignore
+.travis.yml
+composer.json
+licence.md
+phpcs_ruleset.xml
+phpmd_ruleset.xml
+readme.md

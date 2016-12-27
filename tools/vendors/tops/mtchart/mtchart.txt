@@ -1,0 +1,3 @@
+lib/mtChart/
+README.md
+composer.json

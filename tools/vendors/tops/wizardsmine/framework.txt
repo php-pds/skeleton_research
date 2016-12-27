@@ -1,0 +1,11 @@
+App/
+Config/
+Logs/
+Resources/
+Storage/
+.gitattributes
+.gitignore
+.htaccess
+README.md
+composer.json
+index.php

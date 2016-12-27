@@ -1,0 +1,10 @@
+example/
+lib/
+nbproject/
+phpdoc/
+shimmed_primaries/
+storage/BrowserID/
+.gitignore
+README
+composer.json
+verify.php

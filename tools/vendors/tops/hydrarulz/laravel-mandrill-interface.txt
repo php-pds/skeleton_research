@@ -1,0 +1,9 @@
+config/
+src/Hydrarulz/LaravelMandrillInterface/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml

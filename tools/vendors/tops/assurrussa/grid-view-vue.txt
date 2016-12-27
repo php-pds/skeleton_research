@@ -1,0 +1,11 @@
+config/
+public/js/
+resources/
+src/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json
+example.png
+gulpfile.js

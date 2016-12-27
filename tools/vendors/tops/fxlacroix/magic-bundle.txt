@@ -1,0 +1,11 @@
+Controller/
+DependencyInjection/
+Entity/
+Resources/
+Tests/
+Twig/Extension/
+.gitignore
+FXLMagicBundle.php
+README.md
+composer.json
+phpunit.xml.dist

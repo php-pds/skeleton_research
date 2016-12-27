@@ -1,0 +1,6 @@
+docs/
+lib/
+services/lessoid/
+.gitignore
+README.md
+composer.json

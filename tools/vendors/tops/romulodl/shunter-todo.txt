@@ -1,0 +1,9 @@
+db/migrations/
+src/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json
+index.php
+phinx.yml

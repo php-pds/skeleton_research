@@ -1,0 +1,8 @@
+bin/
+docs/
+spec/Easilydo/
+src/Easilydo/
+.gitignore
+LICENSE
+README.md
+composer.json

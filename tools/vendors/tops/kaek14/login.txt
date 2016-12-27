@@ -1,0 +1,11 @@
+config/
+src/Login/
+test/
+view/
+webroot/
+.scrutinizer.yml
+.travis.yml
+LICENSE.txt
+README.md
+autoloader.php
+composer.json

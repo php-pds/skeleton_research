@@ -1,0 +1,4 @@
+src/Thevelement/LaravelAuditableEloquent/
+.travis.yml
+composer.json
+phpunit.xml

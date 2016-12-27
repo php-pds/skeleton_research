@@ -1,0 +1,10 @@
+src/WireMock/
+test/
+wiremock/
+.gitignore
+.travis.yml
+LICENSE-MIT.txt
+Readme.md
+composer.json
+composer.lock
+get-composer.sh

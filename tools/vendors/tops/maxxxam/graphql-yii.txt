@@ -1,0 +1,11 @@
+.idea/
+lib/
+tests/
+.gitignore
+CHANGES
+LICENSE
+README
+Readme.md
+VERSION
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,7 @@
+src/Complex/CollectionStream/
+tests/Complex/CollectionStream/
+.gitignore
+LICENSE
+README.md
+composer.json
+phpunit.xml

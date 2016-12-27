@@ -1,0 +1,6 @@
+src/thinktest/
+tests/thinktest/
+.gitignore
+README.md
+composer.json
+phpunit.xml

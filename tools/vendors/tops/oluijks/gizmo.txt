@@ -1,0 +1,12 @@
+src/Console/Commands/
+.editorconfig
+.gitignore
+.jsbeautifyrc
+.php_cs
+.travis.yml
+LICENSE
+README.md
+box.json
+composer.json
+gizmo
+gizmo.phar

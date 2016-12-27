@@ -1,0 +1,12 @@
+config/
+src/
+tests/Integrational/
+.gitattributes
+.gitignore
+.travis.yml
+CONDUCT.md
+CONTRIBUTING.md
+LICENSE.md
+README.md
+composer.json
+phpunit.xml.dist

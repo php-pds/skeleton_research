@@ -1,0 +1,6 @@
+config/
+src/AllegroApi/
+tests/
+.gitignore
+README.md
+composer.json

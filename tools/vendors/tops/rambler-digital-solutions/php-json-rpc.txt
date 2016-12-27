@@ -1,0 +1,9 @@
+src/JsonRPC/
+tests/
+.gitattributes
+.gitignore
+.travis.yml
+LICENSE
+README.markdown
+composer.json
+phpunit.xml

@@ -1,0 +1,7 @@
+.gitignore
+Bootstrap.php
+LICENSE
+README.md
+changelog.md
+composer.json
+upgrade.md

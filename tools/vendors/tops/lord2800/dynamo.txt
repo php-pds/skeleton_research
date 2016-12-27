@@ -1,0 +1,15 @@
+src/
+tasks/
+tests/
+.coveralls.yml
+.gitignore
+.travis.yml
+Gruntfile.js
+LICENSE
+README.md
+composer.json
+composer.lock
+index.php
+package.json
+phpdoc.xml
+phpunit.xml

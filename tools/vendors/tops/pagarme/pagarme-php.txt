@@ -1,0 +1,12 @@
+certs/
+lib/Pagarme/
+tests/
+.gitignore
+.travis.yml
+Dockerfile
+LICENSE
+Pagarme.php
+README.md
+composer.json
+composer.lock
+composer.phar

@@ -1,0 +1,14 @@
+data/
+examples/
+lib/
+tests/One/
+.coveralls.yml
+.gitattributes
+.gitignore
+.travis.yml
+AutoLoader.php
+README.md
+composer.json
+composer.lock
+init.php
+phpunit.xml

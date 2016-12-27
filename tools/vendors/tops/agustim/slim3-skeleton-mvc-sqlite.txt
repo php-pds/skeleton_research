@@ -1,0 +1,8 @@
+app/
+public/
+sql/
+.gitignore
+LICENSE
+README.md
+composer.json
+entities_generator.php

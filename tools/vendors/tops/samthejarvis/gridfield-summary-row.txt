@@ -1,0 +1,6 @@
+code/
+css/
+templates/
+README.md
+_config.php
+composer.json

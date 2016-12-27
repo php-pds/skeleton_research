@@ -1,0 +1,13 @@
+DependencyInjection/
+Feed/
+Formatter/
+Item/
+Resources/config/
+Tests/
+.gitignore
+.travis.yml
+EkoFeedBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,7 @@
+src/Dota2Stats/
+tests/
+vendor/
+.gitignore
+LICENSE
+README.md
+composer.json

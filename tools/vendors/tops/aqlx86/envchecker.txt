@@ -1,0 +1,9 @@
+spec/EnvChecker/
+src/EnvChecker/
+tests/
+.gitignore
+.travis.yml
+README.md
+composer.json
+composer.lock
+phpspec.yml

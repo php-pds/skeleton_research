@@ -1,0 +1,7 @@
+example/
+src/Sockam/piwik-reporting/
+.gitignore
+README.md
+composer.json
+composer.lock
+phpunit.xml

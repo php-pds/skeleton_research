@@ -1,0 +1,8 @@
+DependencyInjection/
+Generator/
+Resources/
+Rules/
+Twig/
+DaminoushkaSimpleJQueryValidationBundle.php
+README.md
+composer.json

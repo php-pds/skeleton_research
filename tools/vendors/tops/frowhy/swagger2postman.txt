@@ -1,0 +1,7 @@
+.gitignore
+LICENSE
+README.md
+Swagger2Postman.php
+composer.json
+example.php
+swagger.json

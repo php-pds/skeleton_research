@@ -1,0 +1,8 @@
+src/
+tests/
+.gitignore
+README.md
+cli.php
+compare.php
+composer.json
+precision-data-samples.txt

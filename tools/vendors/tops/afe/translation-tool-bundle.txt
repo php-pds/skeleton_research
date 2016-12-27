@@ -1,0 +1,9 @@
+Command/
+Controller/
+DTO/
+DependencyInjection/
+Resources/
+Service/
+AfeTranslationToolBundle.php
+README.md
+composer.json

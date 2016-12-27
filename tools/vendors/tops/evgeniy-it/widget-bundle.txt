@@ -1,0 +1,10 @@
+DependencyInjection/
+Resources/config/
+Service/
+Tests/
+Twig/Extension/
+Widget/
+EvgitWidgetBundle.php
+LICENSE
+README.md
+composer.json

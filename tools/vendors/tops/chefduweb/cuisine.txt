@@ -1,0 +1,16 @@
+admin/
+assets/
+classes/
+frontend/
+shortcodes/
+widgets/
+.gitignore
+composer.json
+cuisine-core-functions.php
+cuisine-core-helpers.php
+cuisine-font-functions.php
+cuisine-stylesheet-helpers.php
+cuisine.php
+index.php
+license.txt
+readme.txt

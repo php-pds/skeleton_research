@@ -1,0 +1,13 @@
+config/
+data/
+src/SuchTable/
+tests/
+view/such-table/
+.gitignore
+.travis.yml
+LICENSE
+Module.php
+README.md
+composer.json
+coverage-checker.php
+travis.phpunit.xml

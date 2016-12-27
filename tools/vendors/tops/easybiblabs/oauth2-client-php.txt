@@ -1,0 +1,13 @@
+docs/
+src/EasyBib/
+tests/EasyBib/Tests/
+.gitignore
+.travis.yml
+CONTRIBUTING.md
+LICENSE.txt
+Makefile
+README.md
+composer.json
+composer.lock
+composer.phar
+phpunit.xml.dist

@@ -1,0 +1,13 @@
+Console/Command/
+Helper/
+Model/
+Samples/
+Test/Unit/
+etc/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit_config.xml
+registration.php

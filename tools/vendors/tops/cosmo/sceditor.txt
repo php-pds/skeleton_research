@@ -1,0 +1,5 @@
+cosmo/sceditor/
+.gitattributes
+.gitignore
+.travis.yml
+README.md

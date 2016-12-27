@@ -1,0 +1,6 @@
+VoltIntellisense/
+.gitignore
+README.md
+composer.json
+composer.lock
+generate.php

@@ -1,0 +1,6 @@
+Resources/public/
+.gitignore
+LICENSE.txt
+README.md
+ZweigrammJQueryUIBundle.php
+composer.json

@@ -1,0 +1,15 @@
+Api/Data/Entity/
+Block/
+Controller/
+Helper/
+Model/
+Observer/
+Plugin/
+Shortcode/
+etc/
+view/
+wptheme/
+.gitignore
+README.md
+composer.json
+registration.php

@@ -1,0 +1,7 @@
+src/RocketGears/
+test/RocketGears/
+.gitignore
+README.md
+composer.json
+index.php
+phpunit.xml

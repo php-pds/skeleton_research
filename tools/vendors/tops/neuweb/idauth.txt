@@ -1,0 +1,13 @@
+config/
+src/IdAuth/
+tests/
+view/
+.gitignore
+.travis.yml
+LICENSE
+Module.php
+README.md
+autoload_classmap.php
+composer.json
+composer.phar
+template_map.php

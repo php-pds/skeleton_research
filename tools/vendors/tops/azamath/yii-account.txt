@@ -1,0 +1,12 @@
+screenshots/
+scripts/
+src/
+tests/
+.gitignore
+.travis.yml
+Gruntfile.js
+README.md
+codeception.yml.erb
+composer.json
+composer.lock
+package.json

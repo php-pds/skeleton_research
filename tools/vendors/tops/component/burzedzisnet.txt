@@ -1,0 +1,12 @@
+src/Component/Remote/BurzeDzisNet/
+tests/
+.gitignore
+.php_cs
+.scrutinizer.yml
+.travis.yml
+LICENCE.md
+README.md
+bootstrap.php.dist
+composer.json
+php.ini.dist
+phpunit.xml.dist

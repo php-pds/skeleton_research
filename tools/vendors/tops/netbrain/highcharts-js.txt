@@ -1,0 +1,10 @@
+adapters/
+modules/
+themes/
+.gitignore
+composer.json
+highcharts-all.js
+highcharts-more.js
+highcharts-more.src.js
+highcharts.js
+highcharts.src.js

@@ -1,0 +1,11 @@
+demo/
+doc/
+geometry/
+AcColor.php
+AcImage.php
+AcImageGIF.php
+AcImageJPG.php
+AcImagePNG.php
+LICENSE
+README.md
+composer.json

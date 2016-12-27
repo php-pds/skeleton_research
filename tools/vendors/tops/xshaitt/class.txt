@@ -1,0 +1,3 @@
+LICENSE
+class.php
+composer.json

@@ -1,0 +1,4 @@
+lib/Akamai/
+.gitignore
+README.md
+composer.json

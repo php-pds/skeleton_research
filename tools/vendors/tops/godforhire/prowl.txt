@@ -1,0 +1,5 @@
+src/
+CHANGES.MD
+LICENSE
+README.MD
+composer.json

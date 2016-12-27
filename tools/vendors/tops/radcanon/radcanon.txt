@@ -1,0 +1,13 @@
+cache/
+classes/
+css/
+js/
+views/
+.gitignore
+.htaccess
+README
+autoload.php
+composer.json
+constants.php
+functions.php
+load.php

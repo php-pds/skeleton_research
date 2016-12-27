@@ -1,0 +1,5 @@
+DependencyInjection/
+Resources/
+EuterpeGoodreadsBundle.php
+README.md
+composer.json

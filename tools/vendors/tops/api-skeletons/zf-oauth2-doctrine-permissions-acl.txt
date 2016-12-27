@@ -1,0 +1,9 @@
+config/
+media/
+src/
+.gitignore
+.travis-ci.yml
+Module.php
+README.md
+composer.json
+phpunit.xml.dist

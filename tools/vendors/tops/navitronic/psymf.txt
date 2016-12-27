@@ -1,0 +1,4 @@
+src/Navitronic/PsymfBundle/
+.gitignore
+README.md
+composer.json

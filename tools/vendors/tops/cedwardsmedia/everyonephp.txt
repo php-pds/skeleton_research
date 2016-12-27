@@ -1,0 +1,8 @@
+CHANGELOG.md
+EveryonePHP.php
+LICENSE
+README.md
+TODO.md
+composer.json
+composer.lock
+composer.phar

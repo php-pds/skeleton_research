@@ -1,0 +1,5 @@
+src/M00t/PhpSpec/PHPUnitMatchers/
+.gitignore
+LICENSE
+README.rst
+composer.json

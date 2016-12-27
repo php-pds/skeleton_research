@@ -1,0 +1,7 @@
+documentation/
+library/rjakes/RjakesSimpleFM/
+.gitignore
+LICENSE.txt
+README.md
+composer.json
+composer.phar

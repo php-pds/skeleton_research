@@ -1,0 +1,11 @@
+src/DbYuml/
+test/
+webroot/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+ANAX.md
+LICENSE
+README.md
+autoloader.php
+composer.json

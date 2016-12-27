@@ -1,0 +1,8 @@
+src/Selector/
+test/Selector/
+.gitignore
+CHANGELOG.md
+LICENSE
+composer.json
+example.png
+readme.md

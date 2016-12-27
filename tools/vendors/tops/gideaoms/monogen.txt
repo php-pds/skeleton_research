@@ -1,0 +1,3 @@
+src/Monogen/
+README.md
+composer.json

@@ -1,0 +1,12 @@
+components/
+controllers/
+messages/ru/
+migrations/
+models/
+views/
+CHANGELOG.md
+Module.php
+README.md
+UPGRADE.md
+composer.json
+config.php

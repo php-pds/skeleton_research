@@ -1,0 +1,12 @@
+config/
+spec/Documer/
+src/
+test/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.jsonbak
+demo.php
+phpspec.yml

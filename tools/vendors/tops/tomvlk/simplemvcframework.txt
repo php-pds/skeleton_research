@@ -1,0 +1,15 @@
+app/
+assets/
+public/
+scripts/
+storage/
+system/
+tests/
+.coveralls.yml
+.gitignore
+.htaccess
+.travis.yml
+LICENSE
+README.md
+composer.json
+server.php

@@ -1,0 +1,12 @@
+DependencyInjection/
+HandEvaluator/
+Resources/config/
+Tests/HandEvaluator/
+features/
+.gitignore
+.travis.yml
+BourdeauBundleHandEvaluatorBundle.php
+README.md
+behat.yml
+composer.json
+phpunit.xml

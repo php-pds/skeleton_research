@@ -1,0 +1,9 @@
+DependencyInjection/
+Exception/
+Handler/
+Resources/config/
+Utils/
+Client.php
+README.md
+WubookAPIBundle.php
+composer.json

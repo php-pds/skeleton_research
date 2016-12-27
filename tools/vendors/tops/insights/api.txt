@@ -1,0 +1,7 @@
+core/
+crawler/
+crawlerCore/
+tracker/
+.gitignore
+RequestApi.php
+composer.json

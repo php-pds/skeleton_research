@@ -1,0 +1,5 @@
+Configuration/
+Resources/Private/
+LICENSE.md
+README.md
+composer.json

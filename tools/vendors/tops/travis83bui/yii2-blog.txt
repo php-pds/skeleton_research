@@ -1,0 +1,13 @@
+config/
+controllers/
+data/
+migrations/
+models/
+views/
+views2/
+widgets/
+.gitattributes
+.gitignore
+.htaccess
+Module.php
+composer.json

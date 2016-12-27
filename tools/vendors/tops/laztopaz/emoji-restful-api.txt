@@ -1,0 +1,14 @@
+screenshots/
+src/
+test/
+.env
+.gitignore
+.htaccess
+.travis.yml
+README.md
+composer.json
+composer.lock
+contribution.md
+index.php
+phpunit.xml.dist
+readme.rst

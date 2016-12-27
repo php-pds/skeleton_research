@@ -1,0 +1,5 @@
+Client/
+.gitignore
+AbstractFactory.php
+README.md
+composer.json

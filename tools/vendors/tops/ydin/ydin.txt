@@ -1,0 +1,11 @@
+src/
+test/
+vendor/
+.gitignore
+composer.json
+composer.lock
+index.php
+phpunit.report.xml
+phpunit.xml
+readme.md
+tech.md

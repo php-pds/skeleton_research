@@ -1,0 +1,8 @@
+protos @ 04c9034
+src/POGOProtos/
+.gitignore
+.gitmodules
+LICENSE.md
+README.md
+compile.php
+composer.json

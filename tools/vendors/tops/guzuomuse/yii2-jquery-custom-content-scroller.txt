@@ -1,0 +1,5 @@
+assets/
+JqueryCustomContentScroller.php
+JqueryCustomContentScrollerAsset.php
+README.md
+composer.json

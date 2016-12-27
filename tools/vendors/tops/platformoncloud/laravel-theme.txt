@@ -1,0 +1,12 @@
+config/
+laravel-theme.wiki @ 6abcb84
+src/
+tests/
+.gitmodules
+.travis.yml
+CHANGELOG.md
+CONDUCT.md
+LICENSE
+README.md
+composer.json
+phpunit.xml

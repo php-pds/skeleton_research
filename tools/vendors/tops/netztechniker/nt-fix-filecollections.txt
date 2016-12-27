@@ -1,0 +1,8 @@
+Classes/Domain/Model/
+patches/
+COPYING
+README.rst
+composer.json
+ext_emconf.php
+ext_icon.png
+ext_typoscript_setup.txt

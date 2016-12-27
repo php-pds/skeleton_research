@@ -1,0 +1,7 @@
+lib/Mastercoding/Conquest/
+tests/Mastercoding/Conquest/
+.gitignore
+README.md
+TODO
+composer.json
+phpunit.xml

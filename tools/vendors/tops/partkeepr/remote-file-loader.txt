@@ -1,0 +1,11 @@
+DependencyInjection/
+Resources/config/
+.gitignore
+CurlLoader.php
+FileGetContentsLoader.php
+NoUsableRemoteFileLoaderException.php
+PartKeeprRemoteFileLoaderBundle.php
+README.md
+RemoteFileLoaderFactory.php
+RemoteFileLoaderInterface.php
+composer.json

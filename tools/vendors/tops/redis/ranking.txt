@@ -1,0 +1,12 @@
+sample/
+src/Matsubo/Redis/
+tests/
+.coveralls.yml
+.gitignore
+.travis.yml
+.travis_redis.sh
+README.md
+composer.json
+composer.lock
+coverage-checker.php
+phpunit.xml.dist

@@ -1,0 +1,8 @@
+kickstart-lang/
+tests/
+.gitignore
+LICENSE
+README.md
+VERSION
+composer.json
+phpunit.xml.dist

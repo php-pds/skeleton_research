@@ -1,0 +1,17 @@
+default/
+dev/
+examples/
+locale/
+nbproject/
+src/
+tests/
+.gitignore
+.travis.yml
+CHANGELOG
+LICENSE
+Makefile
+README.md
+apigen.neon
+composer.json
+composer.lock
+phpunit.xml

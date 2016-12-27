@@ -1,0 +1,6 @@
+Datatables/
+DependencyInjection/
+Resources/
+HypeDynamicDatatablesBundle.php
+README.md
+composer.json

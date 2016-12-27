@@ -1,0 +1,9 @@
+DependencyInjection/
+Resources/
+Service/
+.editorconfig
+.gitignore
+README.md
+SymfonyExceptions2GitLabIssuesBundle.php
+composer.json
+screenshot.png

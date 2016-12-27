@@ -1,0 +1,10 @@
+lib/Sprockets/
+node_modules/
+test/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock
+composer.phar
+package.json

@@ -1,0 +1,6 @@
+src/
+tests/Validator/
+.gitignore
+README.md
+composer.json
+phpunit.xml

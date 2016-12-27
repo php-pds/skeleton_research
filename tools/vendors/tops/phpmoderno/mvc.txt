@@ -1,0 +1,6 @@
+src/PhpModerno/Mvc/
+vendor/
+views/
+bootstrap.php
+composer.json
+composer.lock

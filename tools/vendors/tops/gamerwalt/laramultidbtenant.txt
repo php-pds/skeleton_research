@@ -1,0 +1,10 @@
+config/
+migrations/
+src/
+.gitignore
+.travis.yml
+composer.json
+composer.lock
+license.txt
+phpunit.xml
+readme.md

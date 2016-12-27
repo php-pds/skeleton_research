@@ -1,0 +1,6 @@
+src/Voertuigdata/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json

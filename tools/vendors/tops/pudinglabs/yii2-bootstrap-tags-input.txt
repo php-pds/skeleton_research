@@ -1,0 +1,6 @@
+.gitignore
+LICENSE
+README.md
+TagsInputAsset.php
+TagsinputWidget.php
+composer.json

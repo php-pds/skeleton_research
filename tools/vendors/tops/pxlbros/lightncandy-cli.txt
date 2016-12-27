@@ -1,0 +1,7 @@
+bin/
+libs/min/
+.gitignore
+README.md
+composer.json
+composer.lock
+lightncandy

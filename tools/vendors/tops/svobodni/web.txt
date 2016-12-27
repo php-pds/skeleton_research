@@ -1,0 +1,13 @@
+app/
+export/
+tests/
+vendor/
+www/
+.gitignore
+.travis.yml
+clanky.txt
+composer.json
+composer.lock
+license.txt
+migrace.php
+readme.md

@@ -1,0 +1,7 @@
+Test/Phpunit/
+src/Potaka/Helper/Casing/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json

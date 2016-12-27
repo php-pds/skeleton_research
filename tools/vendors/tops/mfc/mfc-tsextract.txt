@@ -1,0 +1,8 @@
+Classes/
+Resources/Private/Language/
+Readme.txt
+composer.json
+ext_autoload.php
+ext_emconf.php
+ext_icon.gif
+ext_localconf.php

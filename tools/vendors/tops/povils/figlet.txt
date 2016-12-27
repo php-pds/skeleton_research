@@ -1,0 +1,7 @@
+src/Figlet/
+tests/
+.gitignore
+README.md
+composer.json
+figlet
+phpunit.xml.dist

@@ -1,0 +1,11 @@
+code/
+docs/
+templates/
+tests/
+thirdparty/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+_config.php
+composer.json

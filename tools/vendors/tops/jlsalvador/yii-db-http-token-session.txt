@@ -1,0 +1,4 @@
+LICENSE.txt
+README.md
+YiiDbHttpTokenSession.php
+composer.json

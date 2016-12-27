@@ -1,0 +1,15 @@
+Classes/
+Tests/
+.editorconfig
+.gitattributes
+.gitignore
+.travis.yml
+LICENSE.txt
+README.md
+composer.json
+composer.lock
+ext_emconf.php
+ext_icon.png
+ext_localconf.php
+package.json
+phpunit.xml

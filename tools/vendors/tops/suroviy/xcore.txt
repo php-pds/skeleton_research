@@ -1,0 +1,7 @@
+app/
+migrations/
+nbproject/
+src/
+.gitignore
+LICENSE
+composer.json

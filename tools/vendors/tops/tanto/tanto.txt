@@ -1,0 +1,10 @@
+config/
+content/
+.env.example
+.gitignore
+composer.json
+gulpfile.js
+license.txt
+package.json
+readme.md
+tanto

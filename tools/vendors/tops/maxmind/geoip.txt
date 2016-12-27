@@ -1,0 +1,6 @@
+data/
+src/Maxmind/
+test/
+.gitignore
+README.md
+composer.json

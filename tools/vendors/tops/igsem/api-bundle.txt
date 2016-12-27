@@ -1,0 +1,8 @@
+Controller/
+Services/
+Tests/
+.gitignore
+IgsemAPIBundle.php
+LICENSE
+README.md
+composer.json

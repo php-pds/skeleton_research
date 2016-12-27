@@ -1,0 +1,4 @@
+src/Frenck/Philip/Plugin/
+.gitignore
+README.md
+composer.json

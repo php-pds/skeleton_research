@@ -1,0 +1,8 @@
+examples/events/
+lib/
+tests/php/
+.gitignore
+.gitmodules
+README.md
+README_RUS.md
+composer.json

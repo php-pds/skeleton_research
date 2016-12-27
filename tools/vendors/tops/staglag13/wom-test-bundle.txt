@@ -1,0 +1,11 @@
+Command/
+Controller/
+DependencyInjection/
+Model/
+Resources/
+Tests/
+tmp/
+.gitignore
+README.md
+Staglag13WomTestBundle.php
+composer.json

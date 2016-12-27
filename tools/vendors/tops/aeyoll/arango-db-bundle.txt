@@ -1,0 +1,6 @@
+Database/
+DependencyInjection/
+Resources/config/
+AeyollArangoDbBundle.php
+README.md
+composer.json

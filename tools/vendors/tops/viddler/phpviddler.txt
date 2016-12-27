@@ -1,0 +1,6 @@
+examples/
+.gitignore
+MITlicense.txt
+README.markdown
+composer.json
+phpviddler.php

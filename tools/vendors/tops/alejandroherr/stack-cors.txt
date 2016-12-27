@@ -1,0 +1,5 @@
+src/AlejandroHerr/Stack/Cors/
+.gitignore
+LICENSE
+README.md
+composer.json

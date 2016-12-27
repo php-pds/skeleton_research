@@ -1,0 +1,8 @@
+src/
+tests/GACookie/
+.DS_Store
+.gitignore
+.travis.yml
+README.md
+composer.json
+phpunit.xml.dist

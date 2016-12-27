@@ -1,0 +1,10 @@
+FlashMsg/
+css/
+src/CFlashMSG/
+test/
+webroot/
+LICENSE.txt
+README.md
+autoloader.php
+composer.json
+config.php

@@ -1,0 +1,6 @@
+library/Job/
+scripts/jobs/
+.gitignore
+Changelog.markdown
+README.markdown
+composer.json

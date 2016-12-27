@@ -1,0 +1,7 @@
+tmarsteel/dprng/
+.gitignore
+LICENSE
+README.md
+algorithm.md
+composer.json
+entTestfile.php

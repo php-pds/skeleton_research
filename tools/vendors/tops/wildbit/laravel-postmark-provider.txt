@@ -1,0 +1,5 @@
+src/Postmark/Adapters/
+.gitignore
+README.md
+composer.json
+composer.lock

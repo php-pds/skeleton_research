@@ -1,0 +1,10 @@
+Config/
+Console/Command/Task/
+Controller/Component/
+Test/Case/
+.coveralls.yml
+.gitignore
+.scrutinizer.yml
+.travis.yml
+README.md
+composer.json

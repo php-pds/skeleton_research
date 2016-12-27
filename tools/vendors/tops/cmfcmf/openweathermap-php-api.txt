@@ -1,0 +1,14 @@
+Cmfcmf/
+Examples/
+integTests/
+tests/
+.gitignore
+.scrutinizer.yml
+.styleci.yml
+.travis.yml
+LICENSE
+README.md
+Vagrantfile
+composer.json
+composer.lock
+phpunit.xml.dist

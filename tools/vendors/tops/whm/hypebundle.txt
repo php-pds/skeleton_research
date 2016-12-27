@@ -1,0 +1,10 @@
+Controller/
+DependencyInjection/
+Entity/
+Events/
+Resources/
+Tests/Controller/
+.gitignore
+README.md
+composer.json
+whmHypeBundle.php

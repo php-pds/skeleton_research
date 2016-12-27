@@ -1,0 +1,11 @@
+src/CLog/
+test/
+webroot/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENCE.txt
+README.md
+autoloader.php
+composer.json
+phpunit.xml.dist

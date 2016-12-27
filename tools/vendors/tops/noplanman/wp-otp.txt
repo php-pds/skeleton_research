@@ -1,0 +1,12 @@
+admin/
+includes/
+languages/
+public/
+.gitignore
+.scrutinizer.yml
+composer.json
+index.php
+license.txt
+readme.txt
+uninstall.php
+wp-otp.php

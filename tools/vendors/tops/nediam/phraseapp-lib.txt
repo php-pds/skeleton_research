@@ -1,0 +1,4 @@
+src/
+.gitignore
+PhraseAppDescription.json
+composer.json

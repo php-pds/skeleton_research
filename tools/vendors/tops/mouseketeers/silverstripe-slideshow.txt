@@ -1,0 +1,10 @@
+code/
+css/
+javascript/
+lang/
+templates/Includes/
+.gitignore
+INSTALL.md
+README.md
+_config.php
+composer.json

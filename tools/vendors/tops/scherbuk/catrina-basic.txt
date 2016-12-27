@@ -1,0 +1,6 @@
+backend/
+common/
+frontend/
+public/
+README.md
+composer.json

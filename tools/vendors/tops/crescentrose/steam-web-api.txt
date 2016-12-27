@@ -1,0 +1,4 @@
+src/crescentrose/Steam/
+.gitignore
+composer.json
+readme.md

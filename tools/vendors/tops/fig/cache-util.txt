@@ -1,0 +1,11 @@
+src/
+test/
+.editorconfig
+.gitignore
+CHANGELOG.md
+LICENSE
+README.md
+composer.json
+phpcs.xml
+phpunit.xml.dist
+test.php

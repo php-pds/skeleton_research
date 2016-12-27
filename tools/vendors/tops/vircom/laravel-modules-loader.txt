@@ -1,0 +1,13 @@
+config/
+src/
+tests/
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+composer.json
+composer.lock
+humbug.json.dist
+phpcs.xml
+phpunit.xml.dist

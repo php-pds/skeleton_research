@@ -1,0 +1,16 @@
+apidocs/
+css/
+images/
+misc/
+samples/
+soapclient/
+test/
+unit_test/
+.gitignore
+README.md
+apache.html
+composer.json
+instructions.html
+license
+php.html
+tests.html

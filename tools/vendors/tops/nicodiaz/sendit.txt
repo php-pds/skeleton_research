@@ -1,0 +1,11 @@
+bin/
+config/
+docs/
+src/Sendit/
+tests/
+.buildpath
+.gitignore
+.project
+README.md
+composer.json
+composer.phar

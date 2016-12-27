@@ -1,0 +1,6 @@
+minimee/
+.editorconfig
+.gitattributes
+.gitignore
+README.md
+composer.json

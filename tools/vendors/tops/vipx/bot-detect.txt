@@ -1,0 +1,12 @@
+Metadata/
+Resources/metadata/
+Tests/
+.gitignore
+.travis.yml
+BotDetector.php
+BotDetectorInterface.php
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

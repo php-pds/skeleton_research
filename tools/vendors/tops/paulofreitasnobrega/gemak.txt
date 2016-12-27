@@ -1,0 +1,6 @@
+lib/Gemak/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.phar

@@ -1,0 +1,9 @@
+model/
+views/
+.gitignore
+LICENSE
+README.md
+VERSION
+Weather.php
+Widgets.php
+composer.json

@@ -1,0 +1,11 @@
+config/
+public/
+src/Synful/
+templates/
+.gitignore
+LICENSE
+README.md
+Vagrantfile
+composer.json
+synful
+synful.bat

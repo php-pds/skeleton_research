@@ -1,0 +1,13 @@
+examples/
+lib/
+tests/
+.gitignore
+.travis.yml
+AUTHORS
+Doxyfile
+README
+README.md
+UNLICENSE
+VERSION
+composer.json
+phpunit.xml

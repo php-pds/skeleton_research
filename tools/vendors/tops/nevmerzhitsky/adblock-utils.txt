@@ -1,0 +1,4 @@
+EasyListParser.php
+LICENSE
+WebKitContentBlocker.php
+composer.json

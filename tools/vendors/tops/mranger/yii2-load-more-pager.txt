@@ -1,0 +1,6 @@
+assets/
+LICENSE
+LoadMorePager.php
+LoadMorePagerWidgetAsset.php
+README.md
+composer.json

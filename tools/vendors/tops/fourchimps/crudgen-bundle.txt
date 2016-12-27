@@ -1,0 +1,6 @@
+Command/
+Generator/
+Resources/
+FourChimpsCrudGeneratorBundle.php
+README.md
+composer.json

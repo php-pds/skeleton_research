@@ -1,0 +1,15 @@
+application/
+system/
+tests/
+user_guide_src/
+.gitattributes
+.gitignore
+.travis.yml
+DCO.txt
+build-release.sh
+composer.json
+contributing.md
+index.php
+license.txt
+phpdoc.dist.xml
+readme.rst

@@ -1,0 +1,8 @@
+src/
+tests/
+.hgignore
+LICENSE
+MANUAL.md
+README.md
+composer.json
+loader.php

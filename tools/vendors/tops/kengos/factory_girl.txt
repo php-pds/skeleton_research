@@ -1,0 +1,11 @@
+releases/
+src/FactoryGirl/
+tests/
+.gitignore
+Gemfile
+Gemfile.lock
+Guardfile
+LICENCE
+README.md
+compile
+composer.json

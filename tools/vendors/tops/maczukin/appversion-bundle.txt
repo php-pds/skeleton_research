@@ -1,0 +1,11 @@
+Command/
+Composer/
+DependencyInjection/
+Resources/config/
+Tool/
+Twig/Extension/
+CHANGELOG.md
+LICENSE
+MaczukinAppVersionBundle.php
+README.md
+composer.json

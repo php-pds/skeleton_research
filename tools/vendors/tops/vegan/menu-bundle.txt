@@ -1,0 +1,9 @@
+Component/
+DependencyInjection/
+Entity/
+Menu/
+Resources/
+.gitignore
+README.md
+VeganMenuBundle.php
+composer.json

@@ -1,0 +1,6 @@
+vendor/
+README.md
+composer.json
+composer.lock
+ff.txt
+good.php

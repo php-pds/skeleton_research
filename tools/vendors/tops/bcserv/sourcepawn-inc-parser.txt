@@ -1,0 +1,4 @@
+src/Bcserv/SourcepawnIncParser/
+README.md
+autoloader.php
+composer.json

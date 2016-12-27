@@ -1,0 +1,11 @@
+Comja/
+bin/
+nbproject/
+tests/
+.gitignore
+README.md
+composer.json
+helper.php
+phpunit.xml
+trans_comments.json
+trans_lang_lines.json

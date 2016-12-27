@@ -1,0 +1,9 @@
+config/
+src/ZF2Base/
+tests/
+.gitignore
+LICENSE.txt
+Module.php
+README.md
+composer.json
+composer.phar

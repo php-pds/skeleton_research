@@ -1,0 +1,10 @@
+DependencyInjection/
+Entity/
+Exception/
+Repository/
+Resources/config/
+Service/
+Tests/
+README.md
+TweeterCoreBundle.php
+composer.json

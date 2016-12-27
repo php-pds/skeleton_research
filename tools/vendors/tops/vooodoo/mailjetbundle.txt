@@ -1,0 +1,13 @@
+Api/
+DependencyInjection/
+Factory/
+Request/
+Resources/
+Tests/
+.gitignore
+.travis.yml
+LICENSE
+MailJetBundle.php
+README.MD
+composer.json
+phpunit.xml.dist

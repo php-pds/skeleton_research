@@ -1,0 +1,6 @@
+lib/FDT/doctrineExtensions/
+test/
+.gitignore
+composer.json
+composer.lock
+composer.phar

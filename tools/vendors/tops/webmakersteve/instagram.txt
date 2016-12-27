@@ -1,0 +1,11 @@
+lib/
+tests/
+.editorconfig
+.gitignore
+.travis.yml
+LICENSE.TXT
+README.md
+bootstrap.php
+composer.json
+composer.lock
+index.php

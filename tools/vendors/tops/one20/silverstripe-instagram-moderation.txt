@@ -1,0 +1,8 @@
+_config/
+code/
+css/
+images/
+templates/Includes/
+LICENSE
+README.md
+composer.json

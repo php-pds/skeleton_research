@@ -1,0 +1,9 @@
+docs/
+examples/
+src/
+tests/
+.gitignore
+LICENSE
+README.md
+apigen.neon
+composer.json

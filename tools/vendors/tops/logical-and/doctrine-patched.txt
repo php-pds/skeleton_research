@@ -1,0 +1,3 @@
+lib/Doctrine/ORM/
+.gitignore
+composer.json

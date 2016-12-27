@@ -1,0 +1,6 @@
+examples/
+lib/
+COPYING.LESSER
+README
+README.markdown
+composer.json

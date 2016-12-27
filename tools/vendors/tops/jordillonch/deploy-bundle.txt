@@ -1,0 +1,16 @@
+Command/
+DependencyInjection/
+Helpers/
+Resources/config/
+SSH/
+Service/
+Tests/
+VCS/
+.gitignore
+.travis.yml
+JordiLlonchDeployBundle.php
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

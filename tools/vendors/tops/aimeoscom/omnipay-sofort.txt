@@ -1,0 +1,9 @@
+src/Omnipay/Sofort/
+tests/
+.coveralls.yml
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,8 @@
+batch/
+resources/
+src/Djokka/
+.gitignore
+README.md
+autoload.php
+composer.json
+reference.txt

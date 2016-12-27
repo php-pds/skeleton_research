@@ -1,0 +1,7 @@
+scripts/
+src/ScssWatcher/
+vendor/
+.gitignore
+LICENSE
+README.md
+composer.json

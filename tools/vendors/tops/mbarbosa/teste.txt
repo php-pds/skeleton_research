@@ -1,0 +1,4 @@
+app/config/
+public/
+.gitignore
+composer.json

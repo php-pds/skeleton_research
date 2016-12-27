@@ -1,0 +1,10 @@
+Command/
+Composer/
+DependencyInjection/
+Handler/
+Resources/config/
+Service/
+LICENSE
+README.md
+ShivasVersioningBundle.php
+composer.json

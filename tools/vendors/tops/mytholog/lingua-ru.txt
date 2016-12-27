@@ -1,0 +1,9 @@
+lib/Lingua/
+tests/
+.travis.yml
+LICENSE
+README.md
+VERSION
+autoload.php
+composer.json
+phpunit.xml.dist

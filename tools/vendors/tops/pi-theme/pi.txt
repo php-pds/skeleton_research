@@ -1,0 +1,6 @@
+asset/
+locale/
+template/
+README.md
+composer.json
+config.php

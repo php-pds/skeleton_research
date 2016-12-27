@@ -1,0 +1,8 @@
+examples/
+lib/addendum/
+src/Mikangali/Pson/
+tests/
+.gitattributes
+.gitignore
+README.md
+composer.json

@@ -1,0 +1,10 @@
+Annotation/
+BreadcrumbTrail/
+DependencyInjection/
+EventListener/
+Resources/
+Twig/
+APYBreadcrumbTrailBundle.php
+CHANGELOG.md
+README.md
+composer.json

@@ -1,0 +1,9 @@
+Docs/
+Tests/
+libs/
+src/
+.gitignore
+.gitmodules
+README.md
+composer.json
+test.php

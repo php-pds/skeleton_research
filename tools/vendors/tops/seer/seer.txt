@@ -1,0 +1,8 @@
+lib/
+tests/
+vendor/
+.gitignore
+LICENSE.md
+README.md
+composer.json
+test.php

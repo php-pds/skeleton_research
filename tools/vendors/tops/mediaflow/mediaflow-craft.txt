@@ -1,0 +1,12 @@
+controllers/
+fieldtypes/
+models/
+resources/
+templates/
+.gitignore
+MediaflowPlugin.php
+README.md
+composer.json
+composer.lock
+gulpfile.js
+package.json

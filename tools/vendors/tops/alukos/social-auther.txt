@@ -1,0 +1,4 @@
+lib/SocialAuther/
+.gitignore
+README.md
+composer.json

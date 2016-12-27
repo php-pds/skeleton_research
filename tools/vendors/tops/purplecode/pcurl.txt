@@ -1,0 +1,8 @@
+nbproject/
+src/PurpleCode/PCurl/
+test/
+.gitattributes
+.gitignore
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,11 @@
+Symfony/CS/
+vendor/
+.gitignore
+.php_cs
+.travis.yml
+LICENSE
+README.rst
+box.json
+composer.json
+php-cs-fixer
+phpunit.xml.dist

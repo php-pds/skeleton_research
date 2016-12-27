@@ -1,0 +1,12 @@
+classes/
+components/
+updates/
+.codeclimate.yml
+.gitignore
+.styleci.yml
+.travis.yml
+LICENSE
+Plugin.php
+README.md
+composer.json
+composer.lock

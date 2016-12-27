@@ -1,0 +1,5 @@
+.gitignore
+README.md
+class-pii-scrub.php
+composer.json
+psycle-pii-scrub.php

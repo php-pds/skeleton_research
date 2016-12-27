@@ -1,0 +1,14 @@
+.github/
+src/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+autoload.php.dist
+composer.json
+composer.lock
+php_config.ini
+phpunit.xml.dist
+setup.sh

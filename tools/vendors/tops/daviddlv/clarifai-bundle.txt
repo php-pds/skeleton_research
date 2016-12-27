@@ -1,0 +1,7 @@
+Clarifai/
+Client/
+DependencyInjection/
+.gitignore
+ClarifaiBundle.php
+README.md
+composer.json

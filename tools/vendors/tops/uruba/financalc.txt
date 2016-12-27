@@ -1,0 +1,13 @@
+src/
+tests/
+.codeclimate.yml
+.gitignore
+.scrutinizer.yml
+.travis.yml
+UNLICENSE
+composer.json
+init.php
+phpmd_ruleset.xml
+phpunit_builtin_autoloader.xml
+phpunit_composer.xml
+readme.md

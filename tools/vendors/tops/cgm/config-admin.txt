@@ -1,0 +1,13 @@
+config/
+data/
+src/CgmConfigAdmin/
+tests/
+view/cgm-config-admin/config-options/
+.gitignore
+CHANGELOG.md
+LICENSE.txt
+Module.php
+README.md
+autoload_classmap.php
+composer.json
+screenshot.png

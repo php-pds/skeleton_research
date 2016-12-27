@@ -1,0 +1,11 @@
+config/
+src/
+tests/
+vendor/
+webroot/
+.bowerrc
+.gitignore
+README.md
+bower.json
+composer.json
+phpunit.xml.dist

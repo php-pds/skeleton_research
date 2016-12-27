@@ -1,0 +1,8 @@
+DependencyInjection/
+Entity/
+Exception/
+Model/
+Resources/config/
+LICENSE
+XoptovDynamicFormBundle.php
+composer.json

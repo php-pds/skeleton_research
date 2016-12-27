@@ -1,0 +1,17 @@
+docs/
+spec/
+src/
+.editorconfig
+.gitattributes
+.gitignore
+.php_cs
+.scrutinizer.yml
+.travis.yml
+CHANGELOG.md
+CONDUCT.md
+CONTRIBUTING.md
+LICENSE.md
+README.md
+ROADMAP.md
+composer.json
+phpspec.yml

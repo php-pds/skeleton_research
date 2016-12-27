@@ -1,0 +1,6 @@
+config/
+src/Model/
+webroot/
+README.md
+composer.json
+phpunit.xml.dist

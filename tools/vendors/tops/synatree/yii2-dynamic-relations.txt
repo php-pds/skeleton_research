@@ -1,0 +1,8 @@
+assets/js/
+controllers/
+views/
+DynamicRelations.php
+Module.php
+README.md
+SynatreeAsset.php
+composer.json

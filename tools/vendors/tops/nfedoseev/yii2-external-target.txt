@@ -1,0 +1,10 @@
+.gitignore
+Client.php
+ErrorHandler.php
+LICENSE.md
+LogClient.php
+LogTarget.php
+Message.php
+README.md
+Tag.php
+composer.json

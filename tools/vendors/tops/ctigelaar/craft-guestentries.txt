@@ -1,0 +1,9 @@
+controllers/
+events/
+services/
+templates/
+.gitignore
+GuestEntriesPlugin.php
+README.md
+composer.json
+config.php

@@ -1,0 +1,6 @@
+src/
+.DS_Store
+.gitignore
+LICENSE
+composer.json
+composer.lock

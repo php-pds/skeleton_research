@@ -1,0 +1,8 @@
+src/Listener/
+.gitattributes
+LICENSE
+README.md
+bootstrap.php
+composer.json
+icon.jpg
+icon.png

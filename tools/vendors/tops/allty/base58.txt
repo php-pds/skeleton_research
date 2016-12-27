@@ -1,0 +1,6 @@
+src/Allty/Utils/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json

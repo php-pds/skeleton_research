@@ -1,0 +1,9 @@
+cruft/
+dependencies/
+src/nsqphp/
+.gitignore
+.gitmodules
+LICENSE
+bootstrap.php
+composer.json
+readme.md

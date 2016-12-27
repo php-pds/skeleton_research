@@ -1,0 +1,4 @@
+AdminBundle/
+ConfiguratorBundle/
+SystemBundle/
+composer.json

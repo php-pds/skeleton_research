@@ -1,0 +1,7 @@
+Controller/
+DependencyInjection/
+Resources/
+README.md
+README.rst
+SharethisBundle.php
+composer.json

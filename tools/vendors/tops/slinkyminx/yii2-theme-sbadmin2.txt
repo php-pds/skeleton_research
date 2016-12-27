@@ -1,0 +1,6 @@
+assets/
+views/
+LICENSE.md
+README.md
+composer.json
+package.json

@@ -1,0 +1,5 @@
+FileUploader/
+.gitignore
+AjaxFileUploadComponent.php
+README.md
+composer.json

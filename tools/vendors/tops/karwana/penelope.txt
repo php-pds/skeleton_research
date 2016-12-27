@@ -1,0 +1,12 @@
+Penelope/
+scripts/
+tests/
+themes/default/
+.gitattributes
+.gitignore
+AUTHORS
+LICENSE
+Makefile
+README.md
+build.xml
+composer.json

@@ -1,0 +1,6 @@
+examples/wordcount/
+src/
+.gitignore
+LICENSE
+README.md
+composer.json

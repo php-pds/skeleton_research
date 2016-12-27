@@ -1,0 +1,15 @@
+Annotation/
+Command/
+DependencyInjection/
+Model/
+Resources/
+Service/
+Tests/
+bin/
+.gitignore
+Patgod85Phpdoc2rstBundle.php
+README.md
+composer.json
+composer.lock
+phpdoc2rst.php
+phpunit.xml

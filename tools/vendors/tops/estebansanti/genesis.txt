@@ -1,0 +1,12 @@
+app/
+public/
+tests/
+.env.example
+.gitignore
+README.md
+build.sh
+composer.json
+gulpfile.js
+package.json
+phpunit.xml
+wp-cli.yml

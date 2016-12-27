@@ -1,0 +1,5 @@
+src/
+.gitattributes
+.gitignore
+composer.json
+composer.lock

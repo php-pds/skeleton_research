@@ -1,0 +1,12 @@
+files/
+logs/
+src/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+composer.json
+helpers.php
+php-deploy
+phpunit.xml
+readme.md

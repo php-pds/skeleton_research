@@ -1,0 +1,12 @@
+DependencyInjection/
+Resources/config/
+Tests/Units/
+.atoum.php
+.bootstrap.atoum.php
+.gitignore
+.travis.yml
+Gl3nSerializationGroupBundle.php
+LICENSE.md
+README.md
+Resolver.php
+composer.json

@@ -1,0 +1,6 @@
+libs/NiftyGrid/
+resources/
+templates/
+.gitignore
+README.md
+composer.json

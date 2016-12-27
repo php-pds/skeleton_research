@@ -1,0 +1,5 @@
+assets/
+README.md
+TurntableAsset.php
+TurntableWidget.php
+composer.json

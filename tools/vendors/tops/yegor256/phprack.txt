@@ -1,0 +1,16 @@
+announces/
+phprack.com/
+src/
+.0pdd.yml
+.gitattributes
+.gitignore
+.pdd
+.rultor.yml
+.travis.yml
+LICENSE.txt
+README.md
+TEAM.md
+Vagrantfile
+build.xml
+composer.json
+provision.sh

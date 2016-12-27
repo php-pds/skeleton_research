@@ -1,0 +1,9 @@
+app/
+config/
+controllers/develop/
+public/
+resources/
+scripts/
+.editorconfig
+.gitignore
+composer.json

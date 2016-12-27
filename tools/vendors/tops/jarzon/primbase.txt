@@ -1,0 +1,7 @@
+app/
+public/
+src/
+.htaccess
+README.md
+composer.json
+phinx.yml

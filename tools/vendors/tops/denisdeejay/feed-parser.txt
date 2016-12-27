@@ -1,0 +1,6 @@
+src/Feed/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json

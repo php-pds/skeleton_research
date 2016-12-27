@@ -1,0 +1,12 @@
+EventDispatcher/
+EventListener/
+EventStrategy/
+Handler/
+Model/
+Resources/meta/
+Tests/
+.gitignore
+.travis.yml
+README.md
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,6 @@
+src/IptcJpeg/
+tests/
+MIT-LICENSE.txt
+README.md
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,14 @@
+Modules/
+Plugin/
+Repositories/
+Validation/
+libs/
+.meta.json
+Carbon.php
+Collection.php
+LICENSE.md
+MessageBag.php
+README.md
+ValidationException.php
+composer.json
+functions_stub.php

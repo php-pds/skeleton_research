@@ -1,0 +1,5 @@
+classes/Log/
+.gitignore
+README.md
+composer.json
+logs-schema-mysql.sql

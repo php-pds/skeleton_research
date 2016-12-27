@@ -1,0 +1,6 @@
+src/
+tests/
+.gitignore
+ReadMe.md
+composer.json
+phpunit.xml

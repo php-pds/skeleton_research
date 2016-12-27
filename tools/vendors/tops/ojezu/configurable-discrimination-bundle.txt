@@ -1,0 +1,8 @@
+src/
+tool/
+.editorconfig
+.gitignore
+LICENSE.md
+README.md
+composer.json
+phpcs.ruleset.xml

@@ -1,0 +1,6 @@
+app/
+src/
+.gitignore
+README.md
+gulpfile.js
+package.json

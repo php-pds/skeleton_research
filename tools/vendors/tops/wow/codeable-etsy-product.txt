@@ -1,0 +1,9 @@
+app/
+docs/
+languages/
+vendor/
+.gitignore
+README.md
+UNLICENSE
+codeable-etsy-product.php
+composer.json

@@ -1,0 +1,15 @@
+Console/Command/
+Controller/
+DependencyInjection/
+Entity/
+Exception/
+Form/
+Mtgox/
+Plugin/
+Resources/
+Tests/
+Util/
+.gitignore
+README.md
+WikpPaymentMtgoxBundle.php
+composer.json

@@ -1,0 +1,8 @@
+Classes/
+DependencyInjection/
+Resources/config/
+.gitignore
+.travis.yml
+BingemerInwxBundle.php
+README.md
+composer.json

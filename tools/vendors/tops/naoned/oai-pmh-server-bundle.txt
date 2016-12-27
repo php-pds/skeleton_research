@@ -1,0 +1,13 @@
+Controller/
+DataProvider/
+DependencyInjection/
+Exception/
+OaiPmh/
+Resources/
+Tests/
+Twig/
+.gitignore
+LICENSE.md
+NaonedOaiPmhServerBundle.php
+README.md
+composer.json

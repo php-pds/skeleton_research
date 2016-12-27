@@ -1,0 +1,4 @@
+src/Message/
+.gitattributes
+README.md
+composer.json

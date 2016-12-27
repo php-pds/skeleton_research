@@ -1,0 +1,13 @@
+Block/Adminhtml/
+Controller/Adminhtml/Email/
+Helper/
+Model/
+etc/
+view/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+registration.php

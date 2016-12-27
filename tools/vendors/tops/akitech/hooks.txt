@@ -1,0 +1,9 @@
+Controllers/
+ViewComponents/
+assets/images/
+config/
+views/
+.gitignore
+.htaccess
+composer.json
+index.php

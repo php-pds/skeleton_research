@@ -1,0 +1,6 @@
+controllers/
+models/
+views/default/
+Module.php
+README.md
+composer.json

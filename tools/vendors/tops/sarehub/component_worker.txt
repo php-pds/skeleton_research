@@ -1,0 +1,14 @@
+cli/
+examples/
+src/SAREhub/Component/Worker/
+tests/
+.codeclimate.yml
+.gitattributes
+.gitignore
+.travis.yml
+LICENSE.md
+README.md
+composer.json
+phpdoc.xml
+phpmd-ruleset.xml
+phpunit.xml

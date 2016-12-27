@@ -1,0 +1,6 @@
+src/Auth/
+.gitignore
+LICENSE.txt
+README.md
+composer.json
+phpunit.xml.dist

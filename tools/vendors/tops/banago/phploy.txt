@@ -1,0 +1,12 @@
+bin/
+src/
+tests/
+.gitignore
+.travis.yml
+build
+composer.json
+contributing.md
+phploy.bat
+phploy.ini
+phploy.php
+readme.md

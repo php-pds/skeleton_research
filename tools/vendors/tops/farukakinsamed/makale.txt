@@ -1,0 +1,9 @@
+controllers/
+models/
+views/
+.gitattributes
+.gitignore
+Module.php
+README.md
+composer.json
+composer.phar

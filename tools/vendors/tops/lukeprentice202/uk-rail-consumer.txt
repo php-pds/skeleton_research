@@ -1,0 +1,6 @@
+src/
+stubs/stomp/
+.gitignore
+LICENSE.txt
+README.md
+composer.json

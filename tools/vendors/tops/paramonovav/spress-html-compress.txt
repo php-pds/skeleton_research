@@ -1,0 +1,4 @@
+LICENSE
+ParamonovavSpressHtmlCompress.php
+README.md
+composer.json

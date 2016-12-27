@@ -1,0 +1,12 @@
+src/Bonnier/
+test/
+.gitignore
+README.md
+bonnier-admin.md
+circle.yml
+composer.json
+composer.lock
+indexsearch.md
+phpunit.xml
+shell.md
+trapp.md

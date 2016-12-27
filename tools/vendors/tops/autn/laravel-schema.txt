@@ -1,0 +1,8 @@
+data/
+src/Schema/Console/
+tests/
+.env
+.gitignore
+.travis.yml
+composer.json
+readme.md

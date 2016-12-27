@@ -1,0 +1,15 @@
+docs/
+src/
+tests/
+.gitattributes
+.gitignore
+.travis.yml
+CHANGELOG-1.0.md
+CHANGELOG-1.1.md
+CHANGELOG-1.2.md
+Gemfile
+LICENSE
+README.md
+composer.json
+package.json
+phpunit.xml.dist

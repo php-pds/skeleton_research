@@ -1,0 +1,15 @@
+cache/
+classes/
+config/
+images/
+input/
+.gitignore
+COPYING
+COPYING.LESSER
+LICENSE
+README.md
+bugs.php
+composer.json
+demotext.php
+flatplane.inc.php
+index.php

@@ -1,0 +1,8 @@
+Data/
+DependencyInjection/
+Interfaces/
+Resources/config/
+Tests/
+IGRedisBundle.php
+README.md
+composer.json

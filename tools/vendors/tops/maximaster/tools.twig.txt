@@ -1,0 +1,5 @@
+docs/
+src/Maximaster/
+.gitignore
+composer.json
+readme.md

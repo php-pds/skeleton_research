@@ -1,0 +1,17 @@
+docs/
+fonts/
+images/
+source/
+templates/
+.editorconfig
+.gitignore
+.sass-lint.yml
+.travis.yml
+README.md
+composer.json
+composer.lock
+fourk.breakpoints.yml
+fourk.info.yml
+fourk.libraries.yml
+fourk.theme
+screenshot.png

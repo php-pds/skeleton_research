@@ -1,0 +1,5 @@
+src/Quafzi/Composer/MagentoCore/
+.gitignore
+README.md
+composer.json
+mage_modman_generator.sh

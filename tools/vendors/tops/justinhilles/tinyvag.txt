@@ -1,0 +1,5 @@
+.gitignore
+README.md
+Vagrantfile
+bootstrap.sh
+composer.json

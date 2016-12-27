@@ -1,0 +1,7 @@
+assets/
+views/
+.gitignore
+README.md
+Slideshow.php
+composer.json
+composer.lock

@@ -1,0 +1,11 @@
+controllers/
+migrations/
+models/
+views/default/
+.gitignore
+AdminModule.php
+LICENSE
+README.md
+SeoCore.php
+SeoUrlRule.php
+composer.json

@@ -1,0 +1,9 @@
+src/AerialShip/SamlSPBundle/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+autoload.php
+composer.json
+phpunit.xml.dist

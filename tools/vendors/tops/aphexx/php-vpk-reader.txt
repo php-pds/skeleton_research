@@ -1,0 +1,4 @@
+src/VPKReader/
+.gitignore
+README.md
+composer.json

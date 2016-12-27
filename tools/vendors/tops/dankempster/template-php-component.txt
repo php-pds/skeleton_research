@@ -1,0 +1,8 @@
+tests/
+.coveralls.yml
+.gitignore
+.travis.yml
+Readme.md
+composer.json
+composer.json.dist
+phpunit.xml.dist

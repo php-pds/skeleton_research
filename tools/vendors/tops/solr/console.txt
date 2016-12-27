@@ -1,0 +1,10 @@
+src/Console/
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+README.md
+bootstrap.php
+composer.json
+phpunit.xml.dist
+solr

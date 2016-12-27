@@ -1,0 +1,17 @@
+bin/
+fixtures/
+images/
+src/
+tests/
+.dockerignore
+.editorconfig
+.gitignore
+.travis.yml
+Dockerfile
+LICENSE.txt
+README.md
+codecov.yml
+composer.json
+php.ini
+phpcs.xml.dist
+phpunit.xml.dist

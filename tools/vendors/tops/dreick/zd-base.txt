@@ -1,0 +1,6 @@
+src/ZdBase/
+LICENSE
+Module.php
+README.md
+autoload_classmap.php
+composer.json

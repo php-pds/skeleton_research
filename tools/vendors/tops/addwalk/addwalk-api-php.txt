@@ -1,0 +1,7 @@
+lib/
+.gitignore
+LICENSE
+Module.php
+README.md
+composer.json
+example.lock.php

@@ -1,0 +1,10 @@
+config/
+spec/Kumar/Nexmo/
+src/Kumar/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml

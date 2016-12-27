@@ -1,0 +1,6 @@
+src/InoxNavigation/Navigation/Service/
+.gitignore
+Module.php
+README.md
+autoload_classmap.php
+composer.json

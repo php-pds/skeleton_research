@@ -1,0 +1,12 @@
+.idea/
+Documentação/
+Slim/
+controller/
+libs/
+models/
+modules/
+.htaccess
+README.md
+base-db.sql
+composer.json
+index.php

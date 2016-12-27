@@ -1,0 +1,10 @@
+db/migrations/
+src/LightUrl/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phinx.yml
+phpunit.xml

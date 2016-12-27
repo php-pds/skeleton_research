@@ -1,0 +1,9 @@
+library/MockMaker/
+tests/
+.gitignore
+LICENSE
+README.md
+TODO
+composer.json
+composer.lock
+phpunit.xml.dist

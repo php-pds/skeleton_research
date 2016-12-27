@@ -1,0 +1,6 @@
+skype_web_php/
+.gitignore
+README.md
+composer.json
+composer.phar
+example.php

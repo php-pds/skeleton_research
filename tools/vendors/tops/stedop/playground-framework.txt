@@ -1,0 +1,11 @@
+reports/
+src/Playground/Framework/
+tests/
+.gitignore
+.scrutiizer.yml
+.travis.yml
+LICENSE
+README.md
+composer.json
+coverage.clover
+phpunit.xml

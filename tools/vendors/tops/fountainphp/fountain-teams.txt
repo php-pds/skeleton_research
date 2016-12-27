@@ -1,0 +1,8 @@
+database/migrations/
+resources/views/
+routes/
+src/
+.gitignore
+LICENSE
+README.md
+composer.json

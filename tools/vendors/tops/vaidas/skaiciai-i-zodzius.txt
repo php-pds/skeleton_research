@@ -1,0 +1,3 @@
+src/SkaiciaiZodziai/
+README.md
+composer.json

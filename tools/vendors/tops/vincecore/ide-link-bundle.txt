@@ -1,0 +1,7 @@
+DependencyInjection/
+Resources/
+Twig/Extension/
+.gitignore
+README.md
+VincecoreIdeLinkBundle.php
+composer.json

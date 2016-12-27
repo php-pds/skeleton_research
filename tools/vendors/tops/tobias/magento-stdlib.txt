@@ -1,0 +1,10 @@
+library/Magento/Framework/Stdlib/
+tests/
+.gitignore
+.php_cs
+.travis.yml
+COPYING.txt
+LICENSE.txt
+README.md
+composer.json
+composer.lock

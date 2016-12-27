@@ -1,0 +1,6 @@
+app/
+skin/
+LICENSE
+README.md
+composer.json
+modman

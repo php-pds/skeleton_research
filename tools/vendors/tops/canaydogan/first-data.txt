@@ -1,0 +1,7 @@
+config/
+src/FirstData/
+tests/
+.gitignore
+LICENSE
+README
+composer.json

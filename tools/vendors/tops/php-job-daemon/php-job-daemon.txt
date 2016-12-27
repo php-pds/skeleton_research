@@ -1,0 +1,6 @@
+examples/
+src/JobDaemon/
+.gitignore
+LICENSE
+README.md
+composer.json

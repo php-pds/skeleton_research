@@ -1,0 +1,6 @@
+src/
+.gitignore
+README.md
+WechatConfig.php
+composer.json
+index.php

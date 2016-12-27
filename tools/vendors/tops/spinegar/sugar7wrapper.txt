@@ -1,0 +1,8 @@
+public/
+src/Spinegar/Sugar7Wrapper/
+tests/
+.gitignore
+.travis.yml
+README.md
+composer.json
+phpunit.xml

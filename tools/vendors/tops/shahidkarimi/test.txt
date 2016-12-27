@@ -1,0 +1,11 @@
+config/
+resources/views/
+src/
+.env-example
+LICENSE.txt
+authorize.log
+changes.md
+composer.json
+contributing.md
+phplog
+readme.md

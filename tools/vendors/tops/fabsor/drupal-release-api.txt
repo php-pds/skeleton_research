@@ -1,0 +1,12 @@
+Tests/
+.gitignore
+DrupalOrgProjectCrawler.php
+DrupalProject.php
+HTTPReleaseFetcher.php
+LICENSE.txt
+ProjectParserInterface.php
+README.md
+ReleaseFetcherInterface.php
+XMLProjectParser.php
+composer.json
+phpunit.xml

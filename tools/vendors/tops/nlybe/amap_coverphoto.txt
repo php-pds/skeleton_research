@@ -1,0 +1,13 @@
+actions/amap_coverphoto/
+classes/
+graphics/cover/
+languages/
+lib/
+views/default/
+CHANGELOG.md
+README.md
+activate.php
+composer.json
+manifest.xml
+start.php
+views.php

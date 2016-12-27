@@ -1,0 +1,15 @@
+addons/
+assets/
+install/
+lib/
+modules/
+storage/
+vendor/
+.gitignore
+.htaccess
+CHANGELOG.md
+README.md
+bootstrap.php
+favicon.ico
+index.php
+package.json

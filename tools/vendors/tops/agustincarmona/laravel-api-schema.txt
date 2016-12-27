@@ -1,0 +1,5 @@
+src/APISchema/
+.gitignore
+LICENSE
+README.md
+composer.json

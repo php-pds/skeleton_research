@@ -1,0 +1,11 @@
+examples/
+lib/FirePHPCore/
+tests/
+workspace/
+.gitignore
+CHANGELOG.md
+LICENSE.txt
+README.md
+composer.json
+package.json
+program.json

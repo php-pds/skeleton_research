@@ -1,0 +1,7 @@
+bin/
+src/Globtec/
+tests/Globtec/
+.gitignore
+README.md
+composer.json
+phpunit.xml

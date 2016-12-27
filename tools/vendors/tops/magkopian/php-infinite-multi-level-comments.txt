@@ -1,0 +1,8 @@
+public_html/
+sql/
+src/classes/
+.gitignore
+Config.template.php
+LICENSE
+README.md
+composer.json

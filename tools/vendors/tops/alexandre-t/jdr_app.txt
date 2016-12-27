@@ -1,0 +1,14 @@
+app/
+docs/
+src/
+web/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+appveyor.yml
+composer.json
+composer.lock
+composer.phar
+phpdoc.dist.xml
+phpunit.phar

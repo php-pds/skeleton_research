@@ -1,0 +1,5 @@
+data/
+php/
+test/
+composer.json
+phpunit.xml.dist

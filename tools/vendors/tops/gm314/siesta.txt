@@ -1,0 +1,7 @@
+src/Siesta/
+tests/
+.gitignore
+LICENSE
+README.md
+codeception.yml
+composer.json

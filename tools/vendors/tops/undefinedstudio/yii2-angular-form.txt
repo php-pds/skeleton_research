@@ -1,0 +1,16 @@
+assets/
+test/
+validators/
+widgets/
+.bowerrc
+.gitattributes
+.gitignore
+AngularField.php
+AngularForm.php
+AngularFormAsset.php
+Html.php
+LICENSE.md
+README.md
+bower.json
+composer.json
+composer.lock

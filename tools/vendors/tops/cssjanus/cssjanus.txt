@@ -1,0 +1,9 @@
+src/
+test/suites/
+.gitignore
+.travis.yml
+APACHE-LICENSE-2.0.txt
+README.md
+composer.json
+phpcs.xml
+phpunit.xml.dist

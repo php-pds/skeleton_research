@@ -1,0 +1,6 @@
+examples/
+src/Venditan/
+.gitignore
+LICENSE
+README.md
+composer.json

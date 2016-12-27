@@ -1,0 +1,6 @@
+DependencyInjection/
+Getter/
+Resources/
+DamdamdBootstrapBundle.php
+README.md
+composer.json

@@ -1,0 +1,10 @@
+decorators/
+parsers/
+scripts/
+view/
+.gitignore
+Kint.class.php
+LICENCE
+README.md
+composer.json
+config.default.php

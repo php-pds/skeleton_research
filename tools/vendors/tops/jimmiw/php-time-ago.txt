@@ -1,0 +1,9 @@
+tests/
+translations/
+.gitignore
+.travis.yml
+README.textile
+composer.json
+composer.lock
+timeago.inc.php
+westsworld.datetime.class.php

@@ -1,0 +1,17 @@
+bin/
+doc/
+lib/DBSteward/
+tests/
+xml/
+.config.properties
+.coveralls.yml
+.gitattributes
+.gitignore
+.travis.yml
+CHANGES.md
+LICENSE.md
+README.md
+composer.json
+composer.lock
+dbsteward.php
+phpunit.xml.dist

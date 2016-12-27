@@ -1,0 +1,10 @@
+bin/
+src/
+tests/Ellire/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock
+ellire.json
+phpunit.xml.dist

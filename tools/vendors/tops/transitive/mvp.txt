@@ -1,0 +1,7 @@
+htdocs/
+includes/
+presenters/
+views/
+LICENSE
+README.md
+composer.json

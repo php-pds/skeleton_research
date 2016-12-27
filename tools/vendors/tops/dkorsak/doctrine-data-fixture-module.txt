@@ -1,0 +1,6 @@
+config/
+src/DoctrineDataFixtureModule/
+.gitignore
+LICENSE
+README.md
+composer.json

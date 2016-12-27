@@ -1,0 +1,11 @@
+.gitignore
+CREDITS
+README.md
+VERSION
+composer.json
+config.m4
+dbus.c
+introspect.c
+introspect.h
+package.xml
+php_dbus.h

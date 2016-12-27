@@ -1,0 +1,9 @@
+hhi/
+src/BPAY/
+tests/BPAY/
+.gitignore
+.hhconfig
+.travis.yml
+README.md
+composer.json
+phpunit.xml.dist

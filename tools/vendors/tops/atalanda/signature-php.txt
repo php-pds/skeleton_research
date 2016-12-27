@@ -1,0 +1,5 @@
+signature/
+tests/
+LICENSE
+README.md
+composer.json

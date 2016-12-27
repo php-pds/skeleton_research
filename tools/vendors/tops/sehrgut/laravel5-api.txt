@@ -1,0 +1,6 @@
+docs/
+src/Laravel5_Api/
+.gitignore
+LICENSE.txt
+README.md
+composer.json

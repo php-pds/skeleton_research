@@ -1,0 +1,13 @@
+.idea/
+entityviews/
+formkiller/
+.gitignore
+Crudkiller3.php
+Crudkillerdatatables.php
+Fields.php
+Getter.php
+README.md
+Spiderweb.php
+SpiderwebO.php
+composer.json
+index.php

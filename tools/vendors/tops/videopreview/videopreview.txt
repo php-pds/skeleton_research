@@ -1,0 +1,9 @@
+.npmrc
+.travis.yml
+README.md
+bower.json
+composer.json
+main.js
+package.json
+videopreview-cli.js
+videopreview.js

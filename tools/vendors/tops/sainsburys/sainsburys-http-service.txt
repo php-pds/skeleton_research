@@ -1,0 +1,10 @@
+bin/
+config/
+src-dev/sample-application/
+src/Sainsburys/HttpService/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json

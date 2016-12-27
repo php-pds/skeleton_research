@@ -1,0 +1,6 @@
+src/Digithis/Activehelper/
+tests/
+LICENSE
+README.md
+composer.json
+phpunit.xml

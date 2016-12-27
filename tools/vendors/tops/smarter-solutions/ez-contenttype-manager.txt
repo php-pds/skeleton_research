@@ -1,0 +1,8 @@
+Command/
+ContentType/
+DependencyInjection/
+Resources/
+EzContentTypeManagerBundle.php
+LICENSE
+README.md
+composer.json

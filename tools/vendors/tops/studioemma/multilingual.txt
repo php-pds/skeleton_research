@@ -1,0 +1,9 @@
+controllers/
+lib/Multilingual/
+models/Multilingual/
+static/
+views/helpers/
+.gitignore
+README.md
+composer.json
+plugin.xml

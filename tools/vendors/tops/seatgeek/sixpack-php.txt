@@ -1,0 +1,9 @@
+src/SeatGeek/Sixpack/
+tests/
+.editorconfig
+.gitignore
+.travis.yml
+LICENSE.TXT
+README.markdown
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,5 @@
+lib/Iteo/DoctrineExtensions/
+schemas/orm/
+LICENSE
+README.md
+composer.json

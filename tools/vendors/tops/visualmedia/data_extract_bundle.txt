@@ -1,0 +1,5 @@
+src/VisualM/DataExtractBundle/
+.gitignore
+LICENCE.md
+README.md
+composer.json

@@ -1,0 +1,8 @@
+gloves/
+.gitignore
+composer.json
+conf.php
+glovesCLI
+index.php
+phpunit.xml
+readme.md

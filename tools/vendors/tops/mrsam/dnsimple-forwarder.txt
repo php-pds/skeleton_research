@@ -1,0 +1,5 @@
+src/MrSam/DNSimple/
+.gitignore
+LICENSE
+README.md
+composer.json

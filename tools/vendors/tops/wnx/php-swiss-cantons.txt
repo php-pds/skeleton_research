@@ -1,0 +1,13 @@
+.github/
+docs/
+src/
+tests/
+.codeclimate.yml
+.gitignore
+.sami_config.php
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+composer.json
+phpunit.xml

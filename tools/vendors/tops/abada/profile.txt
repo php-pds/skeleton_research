@@ -1,0 +1,16 @@
+Assets/
+Config/
+Console/
+Database/
+Entities/
+Http/
+Providers/
+Repositories/
+Resources/
+Sidebar/
+Tests/
+.gitignore
+LICENSE.md
+README.md
+composer.json
+module.json

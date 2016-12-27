@@ -1,0 +1,5 @@
+src/Gemuni/Json/
+.gitignore
+LICENSE
+README.md
+composer.json

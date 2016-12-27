@@ -1,0 +1,11 @@
+library/Emphloyer/Pdo/
+tests/
+.gitattributes
+.gitignore
+CHANGELOG.md
+LICENSE.txt
+README.md
+Vagrantfile
+composer.json
+phpunit.xml.dist
+vagrant-provision.sh

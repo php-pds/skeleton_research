@@ -1,0 +1,5 @@
+assets/
+README.md
+ZTreeAsset.php
+Ztree.php
+composer.json

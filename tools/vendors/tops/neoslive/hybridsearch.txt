@@ -1,0 +1,10 @@
+Classes/
+Configuration/
+Documentation/
+Resources/
+.DS_Store
+.bowerrc
+.gitignore
+README.md
+bower.json
+composer.json

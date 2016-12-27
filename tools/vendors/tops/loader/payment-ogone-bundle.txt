@@ -1,0 +1,15 @@
+Client/
+DependencyInjection/
+Form/
+Hash/
+Plugin/
+Resources/
+Response/
+Service/
+Tests/
+.gitignore
+.travis.yml
+ETSPaymentOgoneBundle.php
+README.md
+composer.json
+phpunit.xml.dist

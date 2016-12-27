@@ -1,0 +1,5 @@
+src/ptaceda1/TranslationValidator/
+tests/
+.gitignore
+README.md
+composer.json

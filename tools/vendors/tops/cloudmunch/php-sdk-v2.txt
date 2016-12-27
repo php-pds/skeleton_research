@@ -1,0 +1,10 @@
+PHPSDK_HelloWorld_plugin/
+docs/api/
+src/CloudMunch/
+.DS_Store
+.buildpath
+.gitignore
+.project
+README.md
+composer.json
+sonar-project.properties

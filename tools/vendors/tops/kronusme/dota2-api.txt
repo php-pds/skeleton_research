@@ -1,0 +1,15 @@
+data/
+images/
+includes/
+tests/includes/
+.coveralls.yml
+.gitignore
+.travis.yml
+LICENSE
+README.md
+api-key.php
+api-key.php.enc
+composer.json
+db_latest.sql
+phpunit.xml.dist
+tests_config.php

@@ -1,0 +1,3 @@
+src/EasyCurl/
+README.md
+composer.json

@@ -1,0 +1,7 @@
+src/Lasso3000/Enumerable/
+tests/
+.gitignore
+.travis.yml
+COPYING.AGPL
+README.md
+composer.json

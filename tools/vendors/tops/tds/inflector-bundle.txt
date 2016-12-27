@@ -1,0 +1,9 @@
+Definition/
+DependencyInjection/
+Inflector/
+Resources/
+Strategy/
+Twig/
+README.md
+TDSInflectorBundle.php
+composer.json

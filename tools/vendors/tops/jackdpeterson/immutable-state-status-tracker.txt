@@ -1,0 +1,17 @@
+.settings/
+config/
+src/ImmutableStateStatusTracker/
+tests/
+view/immutable-state-status-tracker/skeleton/
+.buildpath
+.gitignore
+.project
+.travis.yml
+LICENSE.txt
+Module.php
+README.md
+autoload_classmap.php
+autoload_function.php
+autoload_register.php
+composer.json
+phpunit.xml

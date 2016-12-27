@@ -1,0 +1,5 @@
+asset/
+QrReader.php
+QrReaderAsset.php
+README.md
+composer.json

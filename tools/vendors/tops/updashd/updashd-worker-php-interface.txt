@@ -1,0 +1,4 @@
+src/Updashd/Worker/
+tests/
+.gitignore
+composer.json

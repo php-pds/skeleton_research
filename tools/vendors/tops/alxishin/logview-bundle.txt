@@ -1,0 +1,5 @@
+Controller/
+Resources/views/index/
+.gitignore
+LogViewBundle.php
+composer.json

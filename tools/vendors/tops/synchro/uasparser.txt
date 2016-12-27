@@ -1,0 +1,14 @@
+Tests/
+UAS/
+.coveralls.yml
+.gitignore
+.scrutinizer.yml
+.travis.yml
+README.md
+UASparser_example.phps
+changelog.md
+composer.json
+composer.lock
+license.txt
+phpunit.xml.dist
+travis.phpunit.xml.dist

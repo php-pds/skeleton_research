@@ -1,0 +1,10 @@
+controller/
+src/
+test/
+.scrutinizer.yml
+.travis.yml
+README.md
+autoloader.php
+composer.json
+testFilter.php
+translator.tpl.php

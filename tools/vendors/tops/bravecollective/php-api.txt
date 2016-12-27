@@ -1,0 +1,6 @@
+classes/Brave/
+examples/
+.gitignore
+LICENSE
+composer.json
+readme.textile

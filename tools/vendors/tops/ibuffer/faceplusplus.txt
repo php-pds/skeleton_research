@@ -1,0 +1,4 @@
+src/Faceplusplus/
+LICENSE
+README.md
+composer.json

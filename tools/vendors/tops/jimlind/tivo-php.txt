@@ -1,0 +1,13 @@
+files/
+src/JimLind/TiVo/
+tests/JimLind/TiVo/
+.gitignore
+.travis.yml
+INSTALLATION.md
+LICENSE
+README.md
+composer.json
+example.php
+phpunit.xml.dist
+sniff.sh
+verify.php

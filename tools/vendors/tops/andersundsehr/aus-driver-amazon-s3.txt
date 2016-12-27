@@ -1,0 +1,10 @@
+Classes/
+Configuration/FlexForm/
+Documentation/
+Resources/Private/
+composer.json
+ext_conf_template.txt
+ext_emconf.php
+ext_icon.png
+ext_localconf.php
+readme.rst

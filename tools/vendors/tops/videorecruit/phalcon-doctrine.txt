@@ -1,0 +1,5 @@
+src/Phalcon/Doctrine/
+.gitignore
+LICENSE
+README.md
+composer.json

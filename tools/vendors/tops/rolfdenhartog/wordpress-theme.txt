@@ -1,0 +1,6 @@
+public/
+.gitignore
+LICENSE
+composer.json
+readme.md
+wp-config-sample.php

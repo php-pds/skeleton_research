@@ -1,0 +1,9 @@
+_config/
+code/
+images/treeicons/
+lang/
+templates/Includes/
+themes/
+README.md
+_config.php
+composer.json

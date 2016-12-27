@@ -1,0 +1,11 @@
+Controller/
+DependencyInjection/
+Model/
+Repository/
+Resources/
+Services/
+Tests/Controller/
+LICENSE
+MoventProfilerBundle.php
+README.md
+composer.json

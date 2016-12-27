@@ -1,0 +1,11 @@
+example/
+scripts/
+src/Kodova/Poser/
+test/
+.gitattributes
+.gitignore
+.travis.yml
+LICENSE
+README.markdown
+composer.json
+composer.lock

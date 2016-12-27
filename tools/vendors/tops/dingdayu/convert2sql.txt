@@ -1,0 +1,12 @@
+docs/
+export/
+src/
+vendor/
+.gitignore
+.styleci.yml
+LICENSE
+README.md
+autoload.php
+composer.json
+config.php
+tosql.php

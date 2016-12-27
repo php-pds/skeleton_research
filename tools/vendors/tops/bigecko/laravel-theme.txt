@@ -1,0 +1,8 @@
+src/Bigecko/LaravelTheme/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml

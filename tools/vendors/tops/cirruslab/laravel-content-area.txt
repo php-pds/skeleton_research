@@ -1,0 +1,7 @@
+config/
+database/migrations/
+resources/assets/js/ckeditor/
+src/
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,11 @@
+DependencyInjection/
+Model/
+Resources/
+Tests/Model/
+Twig/Extension/
+.gitignore
+.travis.yml
+ICEBreadcrumbsBundle.php
+README.markdown
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,13 @@
+config/
+examples/
+src/
+tests/
+.codeclimate.yml
+.gitignore
+.travis.yml
+LICENSE
+Makefile
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

@@ -1,0 +1,6 @@
+assets/
+fields/
+BoxView.php
+BoxViewAsset.php
+README.md
+composer.json

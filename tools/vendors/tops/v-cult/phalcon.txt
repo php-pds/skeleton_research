@@ -1,0 +1,7 @@
+config/
+src/
+tasks/
+templates/
+README.md
+application.php
+composer.json

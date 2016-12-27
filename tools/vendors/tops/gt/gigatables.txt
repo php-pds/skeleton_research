@@ -1,0 +1,16 @@
+src/
+.gitignore
+GigaTables_basic_view.png
+GigaTables_create_item.png
+GigaTables_delete_items.png
+GigaTables_edit_item.png
+LICENSE
+README.md
+bower.json
+composer.json
+editor.php
+gigatables.php
+index.html
+jquery.js
+package.json
+uploadFiles.php

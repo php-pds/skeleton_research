@@ -1,0 +1,12 @@
+sample/
+src/
+tests/
+vendor/
+.gitignore
+LICENSE
+README.md
+after.png
+before.png
+beforeAndAfter.png
+composer.json
+phpunit.xml

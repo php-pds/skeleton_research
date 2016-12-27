@@ -1,0 +1,11 @@
+.idea/
+controllers/
+models/
+modules/
+views/default/
+.gitignore
+Bootstrap.php
+Module.php
+README.md
+composer.json
+composer.lock

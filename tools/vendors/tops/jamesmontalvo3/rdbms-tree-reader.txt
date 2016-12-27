@@ -1,0 +1,5 @@
+examples/
+LICENSE
+README.md
+TreeReader.php
+composer.json

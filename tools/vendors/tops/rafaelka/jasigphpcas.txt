@@ -1,0 +1,6 @@
+Classes/RafaelKa/JasigPhpCas/
+Configuration/
+.gitignore
+LICENSE
+README.md
+composer.json

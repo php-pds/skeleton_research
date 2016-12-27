@@ -1,0 +1,6 @@
+src/Naderman/Composer/AWS/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock

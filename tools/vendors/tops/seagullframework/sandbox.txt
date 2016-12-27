@@ -1,0 +1,12 @@
+data/
+etc/
+modules/
+var/
+www/
+.gitignore
+CHANGELOG.txt
+CODING_STANDARDS.txt
+LICENSE
+README.md
+VERSION.txt
+composer.json

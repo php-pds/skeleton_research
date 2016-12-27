@@ -1,0 +1,11 @@
+classmap/
+css/
+img/
+js/
+uploads/
+.gitignore
+LICENSE.md
+README.md
+composer.json
+index.php
+upload.php

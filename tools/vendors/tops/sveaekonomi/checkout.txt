@@ -1,0 +1,12 @@
+examples/
+src/
+tests/
+.gitignore
+README.md
+VERSION
+composer.json
+composer.lock
+cs-ruleset.xml
+include.php
+phpmd.xml
+phpunit.xml.dist

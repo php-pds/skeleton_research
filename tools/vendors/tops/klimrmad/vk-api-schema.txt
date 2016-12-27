@@ -1,0 +1,7 @@
+LICENSE
+README.md
+composer.json
+methods.json
+objects.json
+responses.json
+schema.json

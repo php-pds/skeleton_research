@@ -1,0 +1,7 @@
+DependencyInjection/
+Resources/config/
+.gitignore
+ListsGenerator.php
+README.md
+SculpinListsBundle.php
+composer.json

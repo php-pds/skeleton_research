@@ -1,0 +1,9 @@
+controllers/
+messages/en/
+models/
+views/signup/
+.gitignore
+LICENSE
+README.md
+Yii2UserManagement.php
+composer.json

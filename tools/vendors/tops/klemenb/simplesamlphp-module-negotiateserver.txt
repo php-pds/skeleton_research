@@ -1,0 +1,8 @@
+img/
+lib/Auth/Source/
+www/
+.gitignore
+LICENSE
+README.md
+composer.json
+default-enable

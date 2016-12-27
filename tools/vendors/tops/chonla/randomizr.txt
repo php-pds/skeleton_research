@@ -1,0 +1,5 @@
+src/Randomizr/
+tests/
+Readme.md
+composer.json
+phpunit.xml

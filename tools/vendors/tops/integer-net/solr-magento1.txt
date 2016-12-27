@@ -1,0 +1,11 @@
+doc/
+solr_conf/
+src/
+test/
+.gitignore
+LICENSE
+README.md
+composer.json
+modman
+phpunit.xml.dist
+wercker.yml

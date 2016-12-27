@@ -1,0 +1,10 @@
+demo/
+sdk/src/
+tests/
+.gitignore
+.travis.yml
+README.md
+changelog.txt
+composer.json
+loader.php
+phpunit.xml

@@ -1,0 +1,7 @@
+examples/
+src/Sauron/
+.gitignore
+LICENSE
+README.md
+composer.json
+sauron

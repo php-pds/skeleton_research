@@ -1,0 +1,9 @@
+Command/
+Generator/
+Mapping/
+ORM/
+.gitignore
+LICENSE
+MadesstDoctrineGenerationBundle.php
+README.md
+composer.json

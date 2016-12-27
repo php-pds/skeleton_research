@@ -1,0 +1,5 @@
+.gitignore
+GoogleAnalyticsAPI.php
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,15 @@
+docs/
+public/
+src/
+tests/
+.bowerrc
+.gitignore
+.travis.yml
+Gruntfile.js
+README.md
+bower.json
+codeception.yml
+composer.json
+package.json
+phpunit.xml
+version.txt

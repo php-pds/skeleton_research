@@ -1,0 +1,8 @@
+chunks/
+files/
+LICENSE
+README.md
+composer.json
+endpoint-cors.php
+endpoint.php
+handler.php

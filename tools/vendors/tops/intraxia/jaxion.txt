@@ -1,0 +1,17 @@
+docs/
+src/
+tests/
+.editorconfig
+.gitattributes
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CHANGELOG.md
+CONDUCT.md
+CONTRIBUTING.md
+LICENSE.md
+README.md
+composer.json
+couscous.yml
+phpdoc.xml
+phpunit.xml.dist

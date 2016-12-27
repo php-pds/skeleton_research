@@ -1,0 +1,5 @@
+docs/
+src/CharlotteDunois/HTTP/
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,14 @@
+etc/adapters/agavi/
+examples/
+lib/phpcouch/
+tests/
+.gitignore
+.travis.yml
+CHANGELOG
+COPYRIGHT
+INSTALL
+LICENSE
+README.md
+RELEASE_NOTES
+TODO
+composer.json

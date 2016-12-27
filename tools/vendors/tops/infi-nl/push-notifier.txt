@@ -1,0 +1,8 @@
+Message/
+Pusher/
+Response/
+.gitignore
+PushNotifier.php
+PusherStrategyCollection.php
+README.md
+composer.json

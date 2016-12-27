@@ -1,0 +1,9 @@
+docs/
+src/
+tests/
+.travis.yml
+LICENSE.txt
+README.md
+composer.json
+dasherizephp.sublime-project
+test.php

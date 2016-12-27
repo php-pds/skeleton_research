@@ -1,0 +1,6 @@
+assets/js/
+.gitattributes
+Asset.php
+README.md
+Widget.php
+composer.json

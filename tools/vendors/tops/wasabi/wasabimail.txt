@@ -1,0 +1,9 @@
+localMails/
+src/
+templates/
+.gitignore
+LICENSE
+Module.php
+composer.json
+config.php
+readMe.md

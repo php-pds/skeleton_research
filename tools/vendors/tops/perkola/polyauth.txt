@@ -1,0 +1,4 @@
+src/Perkola/Polyauth/
+tests/
+README.md
+composer.json

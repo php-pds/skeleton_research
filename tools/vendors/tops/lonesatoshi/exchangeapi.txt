@@ -1,0 +1,4 @@
+src/ExchangeApi/
+.gitignore
+composer.json
+composer.phar

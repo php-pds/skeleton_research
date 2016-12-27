@@ -1,0 +1,5 @@
+examples/
+src/UtmCookie/
+LICENSE
+README.md
+composer.json

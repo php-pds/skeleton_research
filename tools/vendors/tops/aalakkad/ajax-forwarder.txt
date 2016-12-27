@@ -1,0 +1,6 @@
+config/
+src/AjaxForwarder/
+.gitignore
+LICENSE
+README.md
+composer.json

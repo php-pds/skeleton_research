@@ -1,0 +1,9 @@
+assets/
+messages/
+views/
+.gitignore
+ImageAttachmentAction.php
+ImageAttachmentBehavior.php
+ImageAttachmentWidget.php
+composer.json
+readme.md

@@ -1,0 +1,8 @@
+sample-applications/vanilla/
+src/cityphp/
+tests/
+.gitignore
+CHANGELOG.md
+README.md
+UNLICENSE
+composer.json

@@ -1,0 +1,13 @@
+app/
+biz/
+docs/guide-id/
+environments/
+.gitignore
+CHANGELOG.md
+README.md
+composer.json
+init
+init.bat
+requirements.php
+test_bridge.php
+yii.bat

@@ -1,0 +1,17 @@
+Api/
+Block/
+Controller/
+Helper/
+Model/
+Observer/
+Plugin/Plumrocket/Amp/
+Setup/
+Ui/DataProvider/
+etc/
+i18n/
+view/
+LICENSE.txt
+LICENSE_AFL.txt
+README.md
+composer.json
+registration.php

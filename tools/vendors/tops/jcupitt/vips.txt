@@ -1,0 +1,17 @@
+examples/
+src/
+tests/
+.gitignore
+.travis.yml
+API-1.0.0
+CHANGELOG.md
+CONTRIBUTING.md
+CREDITS
+LICENSE.txt
+README.md
+RELEASE-1.0.0
+composer.json
+composer.lock
+phpdoc.xml
+phpunit.xml
+scrutinizer.yml

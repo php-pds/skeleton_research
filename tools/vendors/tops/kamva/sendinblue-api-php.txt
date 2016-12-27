@@ -1,0 +1,6 @@
+src/
+tests/Api/Campaign/
+.gitignore
+LICENSE
+composer.json
+phpunit.xml

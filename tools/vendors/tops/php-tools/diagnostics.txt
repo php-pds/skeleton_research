@@ -1,0 +1,12 @@
+provision/
+src/Diagnostics/Check/
+tests/
+.gitignore
+Gemfile
+LICENSE
+Puppetfile
+README.md
+Vagrantfile
+composer.json
+main.sh
+phpunit.xml

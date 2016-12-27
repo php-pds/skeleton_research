@@ -1,0 +1,12 @@
+Api/
+Command/
+DependencyInjection/
+Entity/
+Exception/Validation/
+Resources/config/
+Validator/
+.gitignore
+JeancsilSkyscannerVigilantBundle.php
+LICENSE
+README.md
+composer.json

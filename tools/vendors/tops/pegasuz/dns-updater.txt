@@ -1,0 +1,6 @@
+.gitignore
+README.md
+UpdateCommand.php
+app.php
+composer.json
+config.yml.dist

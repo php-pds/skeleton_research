@@ -1,0 +1,13 @@
+Controller/
+DependencyInjection/
+Image/
+Resources/
+Tests/
+Thumbnail/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+KahorImageThumbnailBundle.php
+README.md
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,7 @@
+schema/
+src/
+tests/
+.gitattributes
+LICENSE
+README.md
+composer.json

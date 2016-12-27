@@ -1,0 +1,5 @@
+examples/
+src/IdacMedia/IntelliSms/
+.gitignore
+README.md
+composer.json

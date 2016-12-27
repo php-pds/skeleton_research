@@ -1,0 +1,7 @@
+src/EmailMD/
+tests/EmailMD/Case/
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml

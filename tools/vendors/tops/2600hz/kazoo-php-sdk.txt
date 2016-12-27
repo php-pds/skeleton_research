@@ -1,0 +1,9 @@
+docs/
+lib/hz2600/
+vendor/
+.gitignore
+LICENSE
+README.md
+composer
+composer.json
+phplint

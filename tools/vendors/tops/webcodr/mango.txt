@@ -1,0 +1,10 @@
+src/Mango/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+circle.yml
+composer.json
+composer.lock
+phpunit.xml

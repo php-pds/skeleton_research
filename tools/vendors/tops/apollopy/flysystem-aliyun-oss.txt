@@ -1,0 +1,11 @@
+src/
+tests/
+.gitignore
+.php_cs
+.styleci.yml
+CHANGELOG.md
+LICENSE.md
+README.md
+_ide_helper.php
+composer.json
+phpunit.xml.dist

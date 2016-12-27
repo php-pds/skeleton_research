@@ -1,0 +1,13 @@
+config/
+src/
+stubs/
+tests/
+.gitignore
+.semver
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+TODO.md
+composer.json
+phpunit.xml

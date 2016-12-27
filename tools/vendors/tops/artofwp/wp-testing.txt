@@ -1,0 +1,9 @@
+src/
+.gitignore
+CHANGELOG.md
+composer.json
+composer.lock
+license.txt
+phpunit.example.conf
+readme.md
+wp-tests-config-sample.php

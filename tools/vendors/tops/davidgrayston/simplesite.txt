@@ -1,0 +1,10 @@
+config/install/
+.gitignore
+README.md
+build-simplesite.make
+composer.json
+drupal-org-core.make
+drupal-org.make
+simplesite.info.yml
+simplesite.install
+simplesite.profile

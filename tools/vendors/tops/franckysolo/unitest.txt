@@ -1,0 +1,7 @@
+images/
+languages/
+src/Unitest/
+tests/
+LICENSE
+README.md
+composer.json

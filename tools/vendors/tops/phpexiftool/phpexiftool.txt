@@ -1,0 +1,12 @@
+bin/
+lib/PHPExiftool/
+tests/
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+composer.json
+phpunit-no-cc.xml.dist
+phpunit.xml.dist
+vendors.win.php

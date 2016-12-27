@@ -1,0 +1,7 @@
+src/
+.gitignore
+README.md
+angular
+angular.zip
+composer.json
+composer.lock

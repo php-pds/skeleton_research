@@ -1,0 +1,17 @@
+.github/
+dist/
+docs/
+src/
+.gitignore
+.travis.yml
+CHANGELOG.md
+CONTRIBUTING.md
+DONATORS.md
+Gruntfile.js
+LICENSE
+README.md
+_config.yml
+bootstrap-table.jquery.json
+bower.json
+composer.json
+package.json

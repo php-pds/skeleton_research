@@ -1,0 +1,7 @@
+assets/
+.gitignore
+LICENSE
+README.md
+WebcamShoot.php
+WebcamShootAsset.php
+composer.json

@@ -1,0 +1,12 @@
+Annotations/
+Resources/config/
+tests/Annotations/Driver/
+.gitignore
+.scrutinizer.yml
+.tgitconfig
+.travis.yml
+JudicaelPaquetAuthorizationBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

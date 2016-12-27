@@ -1,0 +1,10 @@
+build/
+config/
+docs/
+src/DoctrineORMModule/
+view/zend-developer-tools/toolbar/
+.gitignore
+LICENSE
+README.md
+UPGRADE.md
+composer.json

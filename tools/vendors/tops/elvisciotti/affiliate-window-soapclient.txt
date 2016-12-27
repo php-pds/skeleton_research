@@ -1,0 +1,4 @@
+examples/
+library/AffiliateWindow/
+README.md
+composer.json

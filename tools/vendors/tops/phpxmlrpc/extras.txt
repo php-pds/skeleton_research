@@ -1,0 +1,16 @@
+adodb/
+ajax/
+doc/
+jsonrpc/
+proxy/
+wsdl/
+xmlrpc_extension_api/
+.gitignore
+ChangeLog
+Makefile
+NEWS
+README
+composer.json
+docxmlrpcs.css
+docxmlrpcs.inc
+server.php

@@ -1,0 +1,12 @@
+examples/
+src/Bab/RabbitMq/
+tests/Bab/RabbitMQ/Configuration/
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENSE
+Makefile
+README.md
+composer.json
+phpunit.xml.dist
+rabbit

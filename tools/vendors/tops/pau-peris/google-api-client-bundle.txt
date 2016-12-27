@@ -1,0 +1,6 @@
+Core/
+DependencyInjection/
+Resources/config/
+PauPerisGoogleAPIClientBundle.php
+README.md
+composer.json

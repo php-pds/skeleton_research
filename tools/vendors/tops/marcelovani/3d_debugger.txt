@@ -1,0 +1,6 @@
+scripts/
+.gitignore
+README.md
+composer.json
+composer.lock
+package.json

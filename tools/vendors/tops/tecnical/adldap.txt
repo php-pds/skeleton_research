@@ -1,0 +1,7 @@
+examples/
+lib/adLDAP/
+.gitignore
+CHANGELOG.txt
+LICENCE.txt
+README.md
+composer.json

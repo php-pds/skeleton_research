@@ -1,0 +1,9 @@
+.phpspec/
+src/Horse/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock
+phpspec.yml

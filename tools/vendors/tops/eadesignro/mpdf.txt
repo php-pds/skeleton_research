@@ -1,0 +1,17 @@
+.github/
+data/
+src/
+tests/
+tmp/
+ttfonts/
+utils/
+.gitattributes
+.gitignore
+.travis.yml
+CHANGELOG.md
+CREDITS.txt
+LICENSE.txt
+README.md
+composer.json
+phpunit.xml
+ruleset.xml

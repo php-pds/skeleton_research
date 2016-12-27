@@ -1,0 +1,3 @@
+src/FR3D/XmlDSig/
+.gitignore
+composer.json

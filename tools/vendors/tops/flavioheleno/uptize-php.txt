@@ -1,0 +1,4 @@
+bin/
+src/uptize/
+LICENSE
+composer.json

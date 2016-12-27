@@ -1,0 +1,12 @@
+DependencyInjection/
+EventListener/
+Resources/config/
+Tests/
+Traits/
+.gitignore
+.travis.yml
+DoctrineCrossBundleMappingBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml

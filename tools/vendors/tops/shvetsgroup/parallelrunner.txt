@@ -1,0 +1,5 @@
+src/shvetsgroup/ParallelRunner/
+.gitignore
+README.md
+autoload.php
+composer.json

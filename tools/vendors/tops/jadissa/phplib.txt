@@ -1,0 +1,7 @@
+docs/
+src/JadissaPHPLib/
+tests/
+.gitignore
+README.MD
+composer.json
+settings.xml

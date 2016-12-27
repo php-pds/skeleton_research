@@ -1,0 +1,8 @@
+views/
+LICENSE
+README.md
+ajaxSubmitButton.php
+composer.json
+poll.php
+pollDb.php
+voicesOfPoll.php

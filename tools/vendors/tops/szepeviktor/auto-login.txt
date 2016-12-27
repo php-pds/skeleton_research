@@ -1,0 +1,3 @@
+README.md
+auto-login.php
+composer.json

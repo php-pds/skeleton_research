@@ -1,0 +1,4 @@
+Command/
+README.md
+Symfony2LocBundle.php
+composer.json

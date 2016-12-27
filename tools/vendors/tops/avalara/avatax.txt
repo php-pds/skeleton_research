@@ -1,0 +1,7 @@
+AvaTax/
+Samples/
+.gitattributes
+.gitignore
+LICENSE.md
+README.md
+composer.json

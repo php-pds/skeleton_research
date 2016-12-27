@@ -1,0 +1,10 @@
+migrations/
+src/
+tests/
+.gitattributes
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml

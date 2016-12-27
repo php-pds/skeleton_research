@@ -1,0 +1,9 @@
+Classes/Pixelbrackets/NonWord/
+Configuration/
+Documentation/
+Migrations/Mysql/
+Resources/Private/
+Tests/Unit/Domain/Model/
+.gitignore
+README.md
+composer.json

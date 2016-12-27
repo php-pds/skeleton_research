@@ -1,0 +1,8 @@
+Commands/
+.gitignore
+Bootstrap.php
+LICENSE
+README.md
+composer.json
+plugin.json
+plugin.png

@@ -1,0 +1,6 @@
+config/
+src/ZF2DoctrineSQLLogger/
+LICENSE
+Module.php
+README.md
+composer.json

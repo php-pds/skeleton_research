@@ -1,0 +1,7 @@
+includes/
+sites/
+src/
+.gitignore
+composer.json
+puzzle
+readme.md

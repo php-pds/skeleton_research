@@ -1,0 +1,10 @@
+DataCollector/
+DependencyInjection/
+EventListener/
+Plugin/
+Resources/
+.gitignore
+LICENCE
+PlrApiBundle.php
+README.md
+composer.json

@@ -1,0 +1,12 @@
+Documentation/
+data/web/
+examples/
+tools/
+vagrant/
+.gitignore
+.local.base.yml
+.travis.yml
+README.md
+Vagrantfile
+composer.json
+runtests.sh

@@ -1,0 +1,6 @@
+docs/
+example/
+src/
+LICENCE
+README.markdown
+composer.json

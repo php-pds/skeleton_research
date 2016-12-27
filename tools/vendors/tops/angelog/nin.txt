@@ -1,0 +1,14 @@
+classes/
+example/
+i18n/
+skeleton/
+.gitignore
+.htaccess
+License
+Readme.md
+composer.json
+nf.php
+nf_define.php
+nf_functions.php
+nfc.php
+nginx.conf

@@ -1,0 +1,8 @@
+doc/
+sandbox/
+src/Ivansabik/DomHunter/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json

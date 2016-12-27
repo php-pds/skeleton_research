@@ -1,0 +1,11 @@
+assets/
+src/
+.babelrc
+.gitattributes
+.gitignore
+CHANGELOG.md
+LICENCE
+README.md
+composer.json
+gulpfile.babel.js
+package.json

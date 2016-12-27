@@ -1,0 +1,12 @@
+config/
+examples/
+src/Report/
+tests/Report/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+README_PT.md
+composer.json
+composer.lock
+phpunit.xml

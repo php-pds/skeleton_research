@@ -1,0 +1,8 @@
+src/
+tests/
+.editorconfig
+.styleci.yml
+.travis.yml
+README.md
+composer.json
+phpunit.xml

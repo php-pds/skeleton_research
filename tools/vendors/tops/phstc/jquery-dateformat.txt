@@ -1,0 +1,12 @@
+dist/
+src/
+test/
+.gitignore
+.jshintrc
+.travis.yml
+Gruntfile.js
+MIT-LICENSE.txt
+README.md
+bower.json
+composer.json
+package.json

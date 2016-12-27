@@ -1,0 +1,9 @@
+.idea/
+src/
+tests/
+.DS_Store
+.gitignore
+LICENSE
+composer.json
+composer.lock
+test.sh

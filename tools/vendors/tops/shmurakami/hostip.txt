@@ -1,0 +1,7 @@
+src/TakaakiMizuno/Hostip/
+tests/TakaakiMizuno/Hostip/
+.gitignore
+LICENSE
+README.md
+composer.json
+phpunit.xml

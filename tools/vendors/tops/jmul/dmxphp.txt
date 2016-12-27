@@ -1,0 +1,9 @@
+Client/
+Entity/
+Exception/
+IClient.php
+IEntity.php
+PhpSerial.php
+README.md
+Universe.php
+composer.json

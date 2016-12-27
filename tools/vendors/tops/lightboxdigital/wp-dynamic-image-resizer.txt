@@ -1,0 +1,16 @@
+bin/
+includes/
+public/
+tests/
+.editorconfig
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+index.php
+phpcs.ruleset.xml
+phpunit.xml.dist
+uninstall.php
+wp-dynamic-image-resizer.php

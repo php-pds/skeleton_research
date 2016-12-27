@@ -1,0 +1,12 @@
+classes/PhpADNSite/
+templates/
+.gitignore
+.htaccess
+.htaccess.alt
+LICENSE
+README.md
+composer.json
+composer.lock
+config.php.template
+download-configuration.php
+index.php

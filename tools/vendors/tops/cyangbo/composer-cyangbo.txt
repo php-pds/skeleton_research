@@ -1,0 +1,6 @@
+.settings/
+hello/
+.buildpath
+.project
+composer.json
+test.md

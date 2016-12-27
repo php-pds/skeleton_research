@@ -1,0 +1,4 @@
+test/
+README.md
+Scope.php
+composer.json

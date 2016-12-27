@@ -1,0 +1,8 @@
+Controller/
+Logger/
+Model/Plugin/
+Observer/
+etc/
+README.md
+composer.json
+registration.php

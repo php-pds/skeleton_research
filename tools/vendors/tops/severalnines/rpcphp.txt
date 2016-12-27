@@ -1,0 +1,10 @@
+docs/
+src/Severalnines/
+tests/Severalnines/Tests/
+.gitignore
+.travis.yml
+README.md
+autoload.php
+composer.json
+docs.sh
+phpunit.xml

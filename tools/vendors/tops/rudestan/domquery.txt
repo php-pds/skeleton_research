@@ -1,0 +1,7 @@
+src/domQuery/
+test/
+.travis.yml
+README.md
+composer.json
+demo.php
+phpunit.xml

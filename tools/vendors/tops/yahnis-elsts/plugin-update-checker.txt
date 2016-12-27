@@ -1,0 +1,11 @@
+css/
+js/
+languages/
+vendor/
+README.md
+composer.json
+debug-bar-panel.php
+debug-bar-plugin.php
+github-checker.php
+license.txt
+plugin-update-checker.php

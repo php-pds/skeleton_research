@@ -1,0 +1,5 @@
+api/
+wsdl/
+AutoloadExample.php
+README.md
+composer.json

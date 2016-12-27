@@ -1,0 +1,5 @@
+examples/
+library/
+README.md
+SendmachineApiClient.php
+composer.json

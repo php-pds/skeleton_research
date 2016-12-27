@@ -1,0 +1,7 @@
+doc/html/
+src/
+tests/
+.gitignore
+Doxyfile
+README.md
+composer.json

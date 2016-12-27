@@ -1,0 +1,16 @@
+Authenticator/
+Constants/
+DependencyInjection/
+Event/
+Resources/
+User/
+UserProvider/
+tests/
+.gitignore
+.travis.yml
+DamijancSecurityBundle.php
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml

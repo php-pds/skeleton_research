@@ -1,0 +1,10 @@
+src/DiceCalc/
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+Jenkinsfile
+README.rst
+composer.json
+phpunit.xml.dist
+test.php

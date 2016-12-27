@@ -1,0 +1,12 @@
+tests/
+.gitignore
+.jscsrc
+.jshintrc
+CHANGELOG.md
+LICENSE
+README.md
+bower.json
+composer.json
+jquery.scrollTo.js
+jquery.scrollTo.min.js
+package.json

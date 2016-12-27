@@ -1,0 +1,17 @@
+app/
+bootstrap/
+config/
+database/
+public/
+resources/
+storage/
+tests/
+.gitignore
+README.md
+artisan
+composer.json
+gulpfile.js
+package.json
+phpspec.yml
+phpunit.xml
+server.php

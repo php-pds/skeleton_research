@@ -1,0 +1,4 @@
+docs/
+src/Shell/
+README.md
+composer.json

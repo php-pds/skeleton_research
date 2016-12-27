@@ -1,0 +1,13 @@
+src/Taleo/
+tests/
+.coveralls.yml
+.gitignore
+.travis.yml
+README.md
+build.xml
+composer.json
+config.inc.php.sample
+demo.php
+phpmd.xml
+phpunit.xml
+ruleset.phpcs.xml

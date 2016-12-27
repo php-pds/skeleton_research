@@ -1,0 +1,8 @@
+src/HAB/Pica/
+tests/
+.eproject
+.gitignore
+COPYING
+README.org
+composer.json
+phpunit.xml

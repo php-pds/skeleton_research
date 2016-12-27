@@ -1,0 +1,12 @@
+Config/
+Database/migration/
+app/
+public/
+resources/
+src/
+.htaccess
+LICENSE
+README.md
+composer.json
+doker
+index.php

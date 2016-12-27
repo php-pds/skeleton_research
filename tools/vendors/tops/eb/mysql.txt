@@ -1,0 +1,7 @@
+src/Mysql/
+tests/
+.gitattributes
+.gitignore
+README.md
+UNLICENSE
+composer.json

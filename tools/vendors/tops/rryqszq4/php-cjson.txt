@@ -1,0 +1,13 @@
+cJSON/
+tests/
+.gitignore
+.travis.yml
+CREDITS
+EXPERIMENTAL
+README.md
+cjson.c
+cjson.php
+composer.json
+config.m4
+config.w32
+php_cjson.h

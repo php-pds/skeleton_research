@@ -1,0 +1,8 @@
+DependencyInjection/
+Resources/
+Twig/
+.gitignore
+InfinitytrackingInfinityJavascriptBundle.php
+LICENSE
+README.md
+composer.json

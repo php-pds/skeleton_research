@@ -1,0 +1,9 @@
+bootstrap/
+config/
+database/migrations/
+src/
+tests/
+.gitignore
+composer.json
+composer.lock
+phpunit.xml

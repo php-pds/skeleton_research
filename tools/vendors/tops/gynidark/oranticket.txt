@@ -1,0 +1,13 @@
+bin/
+config/
+plugins/
+src/
+tests/
+webroot/
+.gitignore
+.htaccess
+README.md
+composer.json
+index.php
+package.json
+phpunit.xml.dist

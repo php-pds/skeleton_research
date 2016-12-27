@@ -1,0 +1,10 @@
+data/
+migrations/
+sample/
+.gitignore
+README.md
+cli-config.php
+composer.json
+composer.lock
+doctrine-config.php.dist
+migrations.yml

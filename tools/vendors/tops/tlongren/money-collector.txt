@@ -1,0 +1,9 @@
+assets/
+.gitignore
+LICENSE
+README.md
+composer.json
+distelli-manifest.yml
+index.php
+pay.php
+screenshot.png

@@ -1,0 +1,16 @@
+.tx/
+admin/
+languages/
+public/
+.gitattributes
+.gitignore
+CONTRIBUTING.md
+Gruntfile.js
+LICENSE.txt
+README.md
+README.txt
+aesop-core.php
+composer.json
+index.php
+package.json
+uninstall.php

@@ -1,0 +1,11 @@
+locale/
+.editorconfig
+.gitignore
+.mailmap
+AUTHORS
+CHANGELOG.md
+LICENSE
+README.md
+bootstrap.php
+composer.json
+icon.svg

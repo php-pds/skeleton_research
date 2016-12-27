@@ -1,0 +1,7 @@
+Command/
+DependencyInjection/
+Resources/
+DotCommerceFastEntityBundle.php
+LICENSE
+README.md
+composer.json

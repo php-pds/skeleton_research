@@ -1,0 +1,14 @@
+admin/
+api/
+bundles/
+images/
+include/
+lang/
+lib/
+scripts/
+styles/
+views/
+README.md
+Version
+composer.json
+urlrewrite.php

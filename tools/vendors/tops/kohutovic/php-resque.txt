@@ -1,0 +1,10 @@
+bin/
+docs/
+examples/
+src/
+test/speed/
+.gitignore
+LICENSE
+README.md
+composer.json
+config.yml

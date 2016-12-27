@@ -1,0 +1,9 @@
+assets/
+src/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+Makefile
+README.md
+composer.json

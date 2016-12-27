@@ -1,0 +1,6 @@
+src/ServerInfo/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock

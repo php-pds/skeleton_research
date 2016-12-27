@@ -1,0 +1,8 @@
+images/
+src/
+web/
+.gitignore
+README.md
+composer.json
+composer.lock
+db_trjcn_2016-02-16.sql

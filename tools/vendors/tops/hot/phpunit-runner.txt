@@ -1,0 +1,9 @@
+bin/
+doc/images/
+plugin/
+src/Hot/
+.gitignore
+LICENSE
+README.md
+composer.json
+phpunit.xml

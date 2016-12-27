@@ -1,0 +1,9 @@
+src/kravock/
+tests/
+.gitignore
+.travis.yml
+LICENSE.md
+README.md
+composer.json
+example.php
+phpunit.xml

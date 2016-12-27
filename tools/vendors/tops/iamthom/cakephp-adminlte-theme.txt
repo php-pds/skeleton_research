@@ -1,0 +1,6 @@
+config/
+docs/
+src/
+webroot/
+README.md
+composer.json

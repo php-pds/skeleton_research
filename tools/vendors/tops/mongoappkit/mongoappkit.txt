@@ -1,0 +1,11 @@
+conf/
+src/MongoAppKit/
+tests/
+.gitattributes
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml

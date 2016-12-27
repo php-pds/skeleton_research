@@ -1,0 +1,14 @@
+assets/
+classes/uix/
+includes/
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+Gruntfile.js
+README.md
+composer.json
+coverage.clover
+package.json
+phpunit.xml
+uix-bootstrap.php

@@ -1,0 +1,11 @@
+examples/
+src/Divergence/
+test/
+.gitignore
+.htaccess
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit-configuration.xml
+web.config

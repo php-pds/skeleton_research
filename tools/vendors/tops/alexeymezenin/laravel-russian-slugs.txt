@@ -1,0 +1,9 @@
+config/
+src/
+stubs/
+tests/
+.gitignore
+README.md
+READMERUSSIAN.md
+composer.json
+phpunit.xml

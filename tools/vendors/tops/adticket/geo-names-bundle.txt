@@ -1,0 +1,10 @@
+DependencyInjection/
+Entity/
+Exception/
+Resources/config/
+Service/
+Tests/
+AdticketGeoNamesBundle.php
+LICENSE
+composer.json
+phpunit.xml.dist

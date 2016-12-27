@@ -1,0 +1,6 @@
+example/
+lib/
+.gitignore
+composer.json
+ogn-client-db.sql
+readme.md

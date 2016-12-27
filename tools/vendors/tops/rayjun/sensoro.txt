@@ -1,0 +1,6 @@
+src/Sensoro/
+tests/
+.gitignore
+README.md
+composer.json
+composer.lock

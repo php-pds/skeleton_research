@@ -1,0 +1,4 @@
+lib/Cometdocs/
+README.md
+composer.json
+composer.lock

@@ -1,0 +1,11 @@
+config/
+docs/
+src/
+tests/
+webroot/
+.gitignore
+.travis.yml
+README.md
+composer.json
+couscous.yml
+phpunit.xml.dist

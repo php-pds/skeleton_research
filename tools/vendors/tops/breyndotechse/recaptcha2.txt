@@ -1,0 +1,14 @@
+config/
+src/
+ssl/
+test/
+.coveralls.yml
+.gitattributes
+.gitignore
+.travis.yml
+LICENSE.md
+README.md
+composer.json
+composer.lock
+phpcs.xml
+phpunit.xml.dist

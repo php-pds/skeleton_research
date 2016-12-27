@@ -1,0 +1,8 @@
+spec/Behat/SpawnerExtension/
+src/Behat/SpawnerExtension/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+composer.json

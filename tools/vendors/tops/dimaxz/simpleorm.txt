@@ -1,0 +1,9 @@
+example/
+src/
+tests/
+.gitignore
+.scrutinizer.yml
+README.md
+build.xml
+composer.json
+composer.lock

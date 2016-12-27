@@ -1,0 +1,10 @@
+src/Sikofitt/Mocks/Drupal/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+bootstrap.php
+composer.json
+composer.lock
+phpunit.xml.dist

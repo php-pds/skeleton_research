@@ -1,0 +1,8 @@
+src/
+tests/
+.drone.yml
+.gitignore
+README.md
+circle.yml
+composer.json
+phpunit.xml

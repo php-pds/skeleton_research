@@ -1,0 +1,5 @@
+publishiza/
+README.md
+composer.json
+publishiza.php
+readme.txt

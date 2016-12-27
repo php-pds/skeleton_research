@@ -1,0 +1,7 @@
+lib/Kaltura/
+src/
+tests/
+vagrant/
+.gitignore
+.travis.yml
+composer.json

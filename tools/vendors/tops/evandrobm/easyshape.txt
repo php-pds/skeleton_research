@@ -1,0 +1,5 @@
+src/evandrobm/easyshape/
+.gitignore
+LICENSE
+README.md
+composer.json

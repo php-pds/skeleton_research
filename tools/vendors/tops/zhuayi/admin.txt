@@ -1,0 +1,8 @@
+install-src/
+src/
+.gitignore
+.travis.yml
+build.sh
+compose-laravel.sh
+composer.json
+readme.md

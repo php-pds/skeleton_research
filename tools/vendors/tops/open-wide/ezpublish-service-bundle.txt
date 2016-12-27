@@ -1,0 +1,12 @@
+Cache/Http/
+Controller/
+DependencyInjection/
+Helper/
+Package/
+Resources/
+doc/images/
+ezpublish_legacy/open_wide_publish_service/
+LICENSE
+OpenWidePublishServiceBundle.php
+README.rst
+composer.json

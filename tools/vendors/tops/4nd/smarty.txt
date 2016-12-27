@@ -1,0 +1,3 @@
+distribution/
+.gitignore
+composer.json

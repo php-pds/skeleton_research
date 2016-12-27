@@ -1,0 +1,4 @@
+lib/Altruja/
+LICENSE.txt
+README.md
+composer.json

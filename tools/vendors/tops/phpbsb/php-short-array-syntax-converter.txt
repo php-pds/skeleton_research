@@ -1,0 +1,6 @@
+bin/
+.gitignore
+README.md
+composer.json
+convert.php
+revert.php

@@ -1,0 +1,17 @@
+dist/
+docs/
+src/
+test/
+.gitignore
+.jshintrc
+.npmignore
+.spmignore
+.travis.yml
+CONTRIBUTING.md
+Gruntfile.js
+LICENSE
+README.md
+bower.json
+component.json
+composer.json
+package.json

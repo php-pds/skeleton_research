@@ -1,0 +1,15 @@
+Assetic/
+CacheWarmer/
+Command/
+Controller/Annotations/
+DependencyInjection/
+Resources/config/
+Tests/
+Translation/Extractor/File/
+.gitignore
+.travis.yml
+MtHamlBundle.php
+MtHamlEngine.php
+README.markdown
+composer.json
+phpunit.xml.dist

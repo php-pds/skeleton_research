@@ -1,0 +1,8 @@
+dist/
+example/
+man/
+README.md
+bower.json
+composer.json
+package.js
+package.json

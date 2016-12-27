@@ -1,0 +1,16 @@
+.idea/
+Controller/
+DependencyInjection/
+Event/
+Guzzle/
+Resources/
+Tests/
+.gitignore
+.travis.yml
+LICENSE.txt
+ModuleDescriptorInterface.php
+ModuleDescriptorService.php
+README.rst
+SlackApiBundle.php
+composer.json
+phpunit.xml.dist

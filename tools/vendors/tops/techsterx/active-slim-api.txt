@@ -1,0 +1,7 @@
+app/
+web/
+.gitignore
+.htaccess
+LICENSE
+README.md
+composer.json

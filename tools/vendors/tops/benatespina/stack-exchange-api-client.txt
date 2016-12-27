@@ -1,0 +1,12 @@
+docs/
+spec/
+src/
+.editorconfig
+.formatter.yml
+.gitignore
+.php_cs
+.phpspec_cs
+.travis.yml
+LICENSE
+README.md
+composer.json

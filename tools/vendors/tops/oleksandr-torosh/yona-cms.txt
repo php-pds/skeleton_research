@@ -1,0 +1,13 @@
+app/
+data/
+public/
+tests/
+vendor/
+.gitignore
+CHANGELOG.md
+LICENSE.md
+README.md
+composer.json
+phinx.yml
+yona-cms.sql
+yona_cms_postgres.sql

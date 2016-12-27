@@ -1,0 +1,5 @@
+Tests/
+.gitignore
+Feed.php
+composer.json
+phpunit.xml

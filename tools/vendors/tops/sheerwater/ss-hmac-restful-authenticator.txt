@@ -1,0 +1,6 @@
+_config/
+code/
+tests/
+.travis.yml
+README.md
+composer.json

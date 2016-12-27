@@ -1,0 +1,7 @@
+assets/
+.gitignore
+ActiveAssets.php
+AutocompleteAjax.php
+LICENSE.md
+README.md
+composer.json

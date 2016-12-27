@@ -1,0 +1,9 @@
+Resources/meta/
+Tests/
+Util/
+.gitignore
+.travis.yml
+BarcodeBundle.php
+Changelog.md
+README.md
+composer.json

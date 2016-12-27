@@ -1,0 +1,12 @@
+Command/
+Controller/
+DataFixtures/ORM/
+DependencyInjection/
+Entity/
+Repository/
+Resources/
+Tests/Controller/
+.gitignore
+DreimwebUserBundle.php
+SessionRequestProcessor.php
+composer.json

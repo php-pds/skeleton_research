@@ -1,0 +1,11 @@
+assets/
+doc/
+src/
+templates/
+.editorconfig
+.gitattributes
+LICENSE
+README.md
+composer.json
+package.json
+staticbuilder.php

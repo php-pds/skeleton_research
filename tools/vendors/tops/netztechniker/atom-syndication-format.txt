@@ -1,0 +1,4 @@
+Classes/
+COPYING
+README.rst
+composer.json

@@ -1,0 +1,13 @@
+app/
+doc/
+schema/
+.gitignore
+CHANGELOG.md
+LICENSE
+README.md
+composer.json
+config.ini
+install.sh
+prepend.php
+sendmail-throttle.php
+sendmail-wrapper.php

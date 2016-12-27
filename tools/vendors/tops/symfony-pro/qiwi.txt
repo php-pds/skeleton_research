@@ -1,0 +1,5 @@
+lib/Werkint/Qiwi/
+res/
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,5 @@
+src/Sifoni/
+.gitignore
+LICENSE
+README.md
+composer.json

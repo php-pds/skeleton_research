@@ -1,0 +1,8 @@
+.gitignore
+LICENSE
+Readme.md
+composer.json
+install.php
+listupdater.php
+lookup.php
+phpgsb.class.php

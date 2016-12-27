@@ -1,0 +1,12 @@
+docs/
+src/Sodium/
+tests/Sodium/Component/Model/
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+composer.json
+composer.lock
+phpdox.xml
+phpunit.xml

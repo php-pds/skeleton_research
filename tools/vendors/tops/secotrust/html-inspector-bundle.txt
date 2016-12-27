@@ -1,0 +1,7 @@
+Controller/
+DataCollector/
+DependencyInjection/
+Resources/
+README.md
+SecotrustHtmlInspectorBundle.php
+composer.json

@@ -1,0 +1,9 @@
+Controller/
+Core/FieldType/IpEzMetaTags/
+DependencyInjection/
+Resources/
+ezpublish_legacy/ipezmetatags/
+IntenseProgrammingEzMetaTagsBundle.php
+LICENSE
+README.md
+composer.json

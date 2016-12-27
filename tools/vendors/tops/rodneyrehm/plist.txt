@@ -1,0 +1,8 @@
+classes/CFPropertyList/
+examples/
+tests/
+.gitignore
+LICENSE
+README.md
+build.sh
+composer.json

@@ -1,0 +1,10 @@
+Config/
+Finder/
+Fixer/
+Iterator/
+Resources/git-hooks/
+.gitignore
+.license_header
+.php_cs
+README.md
+composer.json

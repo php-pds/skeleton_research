@@ -1,0 +1,10 @@
+public/
+src/
+tests/
+.bowerrc
+.gitignore
+.travis.yml
+README.md
+bower.json
+composer.json
+phpunit.xml

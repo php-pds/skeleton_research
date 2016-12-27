@@ -1,0 +1,13 @@
+DependencyInjection/
+Resources/config/
+Tests/
+.gitignore
+.travis.yml
+Blueprint.php
+CHANGELOG.md
+DakatsukaBlueprintBundle.php
+LICENSE
+Makefile
+README.md
+composer.json
+phpunit.xml

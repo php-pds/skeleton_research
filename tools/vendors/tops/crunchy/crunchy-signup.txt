@@ -1,0 +1,8 @@
+config/
+data/
+src/CrunchySignup/
+view/crunchy-signup/register/
+Module.php
+README.md
+autoload_classmap.php
+composer.json

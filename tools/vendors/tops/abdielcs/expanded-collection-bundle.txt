@@ -1,0 +1,7 @@
+DependencyInjection/
+Form/
+Resources/
+ExpandedCollectionBundle.php
+LICENSE.md
+README.md
+composer.json

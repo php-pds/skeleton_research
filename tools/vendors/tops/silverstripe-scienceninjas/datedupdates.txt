@@ -1,0 +1,13 @@
+_config/
+code/
+images/icons/sitetree_images/
+templates/
+.editorconfig
+.gitattributes
+.gitignore
+.scrutinizer.yml
+LICENSE
+README.md
+_config.php
+code-of-conduct.md
+composer.json

@@ -1,0 +1,8 @@
+runtime/
+src/Readdle/
+.gitignore
+LICENSE
+README.md
+composer.json
+docker-compose.yml
+test.php

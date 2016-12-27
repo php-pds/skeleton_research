@@ -1,0 +1,9 @@
+DependencyInjection/
+Resources/config/
+View/
+.gitignore
+BayerJsonApiBundle.php
+LICENSE
+README.md
+composer.json
+composer.lock

@@ -1,0 +1,8 @@
+spec/Scoringline/SendinblueApi/
+src/Scoringline/SendinblueApi/
+.gitignore
+.travis.yml
+Changelog.md
+LICENSE
+README.md
+composer.json

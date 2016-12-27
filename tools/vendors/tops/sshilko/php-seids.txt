@@ -1,0 +1,14 @@
+benchmarks/
+doc/
+src-doc/SEIDS/
+src/
+tests/
+tools/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+apidoc.xml.dist
+composer.json
+phpcs.xml
+phpunit.xml.dist

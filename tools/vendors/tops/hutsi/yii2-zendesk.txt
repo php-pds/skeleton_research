@@ -1,0 +1,9 @@
+.gitignore
+Attachment.php
+Client.php
+LICENSE
+README.md
+Search.php
+Ticket.php
+User.php
+composer.json

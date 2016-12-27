@@ -1,0 +1,6 @@
+Common/
+Matching/
+Naming/
+README.md
+autoload.php
+composer.json

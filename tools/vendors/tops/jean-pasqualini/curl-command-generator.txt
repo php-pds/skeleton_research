@@ -1,0 +1,7 @@
+Generator/
+Tests/Generator/
+.gitignore
+.travis.yml
+composer.json
+composer.lock
+phpunit.xml

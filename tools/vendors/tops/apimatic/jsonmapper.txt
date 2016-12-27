@@ -1,0 +1,9 @@
+example/
+src/
+tests/
+.gitignore
+.travis.yml
+ChangeLog
+README.rst
+composer.json
+package.xml

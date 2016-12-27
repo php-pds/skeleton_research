@@ -1,0 +1,7 @@
+.settings/
+src/main/php/Cose/Crud/
+.buildpath
+.project
+LICENSE
+README.md
+composer.json

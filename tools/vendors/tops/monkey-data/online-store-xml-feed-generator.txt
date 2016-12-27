@@ -1,0 +1,7 @@
+example/
+src/XmlGenerator/
+.gitignore
+LICENSE
+README.md
+composer.json
+generateHash.php

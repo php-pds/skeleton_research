@@ -1,0 +1,5 @@
+src/Melody/Framework/
+.gitignore
+autoloader.php
+composer.json
+composer.phar

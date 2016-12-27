@@ -1,0 +1,11 @@
+bin/
+src/
+.gitignore
+.travis.yml
+README.md
+boot.php
+build.xml
+composer.json
+composer.lock
+docker-php-7
+phpcs.xml

@@ -1,0 +1,12 @@
+Command/
+DependencyInjection/
+Helper/
+Resources/config/
+Test/Helper/
+Twig/
+.gitignore
+LICENSE
+README.md
+TheRatBranchingBundle.php
+composer.json
+composer.lock

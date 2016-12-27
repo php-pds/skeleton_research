@@ -1,0 +1,11 @@
+lib/
+vendor/symfony/yaml/
+.editorconfig
+.gitignore
+.travis.yml
+README.md
+class-autoload.php
+composer.json
+composer.lock
+raccoon.php
+ruleset.xml

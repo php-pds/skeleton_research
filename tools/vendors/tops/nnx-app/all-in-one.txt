@@ -1,0 +1,11 @@
+config/
+module/Application/
+public/
+test/phpunit/
+.gitignore
+.php_cs
+.travis.yml
+composer.json
+init_autoloader.php
+phpunit.xml.dist
+phpunit.xml.travis

@@ -1,0 +1,6 @@
+src/Pop/
+tests/Pop/
+.gitignore
+README.md
+composer.json
+composer.lock

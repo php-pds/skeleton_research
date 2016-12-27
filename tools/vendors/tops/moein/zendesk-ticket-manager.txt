@@ -1,0 +1,3 @@
+lib/ZendeskTicketManager/
+README.md
+composer.json

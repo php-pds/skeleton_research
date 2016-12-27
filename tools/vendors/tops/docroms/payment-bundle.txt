@@ -1,0 +1,10 @@
+Classe/
+DependencyInjection/
+Entity/
+Repository/
+Resources/
+Service/
+Tests/Controller/
+PaymentBundle.php
+README.md
+composer.json

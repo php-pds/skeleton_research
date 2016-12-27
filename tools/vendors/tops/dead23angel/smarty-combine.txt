@@ -1,0 +1,5 @@
+minify/
+LICENSE
+README.md
+composer.json
+function.combine.php

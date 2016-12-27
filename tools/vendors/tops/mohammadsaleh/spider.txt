@@ -1,0 +1,6 @@
+AclManager/
+PluginManager/
+Settings/
+Spider/
+Users/
+composer.json

@@ -1,0 +1,7 @@
+src/ValidateMe/
+tests/ValidateMe/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock

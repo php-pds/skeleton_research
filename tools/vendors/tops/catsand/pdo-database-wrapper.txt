@@ -1,0 +1,5 @@
+src/Database/
+.codeclimate.yml
+LICENSE
+README.md
+composer.json

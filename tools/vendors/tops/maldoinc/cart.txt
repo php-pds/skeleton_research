@@ -1,0 +1,10 @@
+src/Maldoinc/
+tests/Maldoinc/Cart/
+.codeclimate.yml
+.gitignore
+.travis.yml
+LICENSE
+README.MD
+composer.json
+composer.lock
+phpunit.xml.dist

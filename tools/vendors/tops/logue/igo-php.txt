@@ -1,0 +1,9 @@
+.settings/
+lib/
+test/
+.buildpath
+.gitignore
+.project
+COPYING
+README
+composer.json

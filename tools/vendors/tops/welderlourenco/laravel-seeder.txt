@@ -1,0 +1,9 @@
+public/
+src/WelderLourenco/LaravelSeeder/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml

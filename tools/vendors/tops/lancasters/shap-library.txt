@@ -1,0 +1,6 @@
+src/
+.gitignore
+.scrutinizer.yml
+README.MD
+composer.json
+composer.lock

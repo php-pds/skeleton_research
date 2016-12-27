@@ -1,0 +1,8 @@
+src/Ulrichsg/Collections/
+test/
+.gitignore
+Makefile
+README.md
+composer.json
+composer.lock
+phpunit.xml

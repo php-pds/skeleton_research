@@ -1,0 +1,11 @@
+app/
+config/
+core/
+library/
+public/
+tmp/
+.gitignore
+.htaccess
+LICENSE
+README.rst
+composer.json

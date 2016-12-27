@@ -1,0 +1,8 @@
+Applications/SimpleChat/
+GatewayWorker/
+Workerman/
+.gitignore
+MIT-LICENSE.txt
+README.md
+composer.json
+start.php

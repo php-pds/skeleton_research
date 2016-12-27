@@ -1,0 +1,6 @@
+Resources/
+lib/JJG/Imap/
+.gitignore
+LICENSE.md
+README.md
+composer.json

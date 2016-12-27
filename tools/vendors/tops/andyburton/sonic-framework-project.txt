@@ -1,0 +1,12 @@
+classes/Sonic/
+config/
+includes/
+log/
+public_html/
+smarty/
+vendor/
+.gitattributes
+.gitignore
+LICENSE.mit
+README.md
+composer.json

@@ -1,0 +1,7 @@
+features/
+spec/OpenStack/DocGenerator/
+src/OpenStack/DocGenerator/
+.alias
+.gitignore
+behat.yml
+composer.json

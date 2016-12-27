@@ -1,0 +1,13 @@
+Controller/
+DependencyInjection/
+Resources/
+Tests/
+vendor/
+.gitignore
+.travis.yml
+LICENSE
+PDFJS LICENSE
+README.md
+SalvaPdfJsBundle.php
+composer.json
+phpunit.xml.dist

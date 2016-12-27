@@ -1,0 +1,11 @@
+javascripts/
+src/Phalcon/Auth/
+stylesheets/
+tests/
+.gitignore
+README.md
+composer.json
+composer.lock
+index.html
+params.json
+phpunit.xml.dist

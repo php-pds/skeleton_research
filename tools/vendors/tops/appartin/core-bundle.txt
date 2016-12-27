@@ -1,0 +1,12 @@
+DependencyInjection/
+Entity/
+EventListener/
+Manager/
+Model/
+Repository/
+Resources/config/
+Tests/
+.gitignore
+AppartinCoreBundle.php
+composer.json
+phpunit.xml.dist

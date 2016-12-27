@@ -1,0 +1,16 @@
+codeigniter/
+cubrid/
+mssql/
+mysql/
+mysqli/
+oracle8_9/
+pdo/
+postgresql/
+shared/
+sqlite/
+sqlsrv/
+sybase/
+composer.json
+ez_sql_help.htm
+ez_sql_with_smarty.html
+readme.txt

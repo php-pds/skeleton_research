@@ -1,0 +1,4 @@
+MikSoftware/DaemonBundle/
+LICENSE
+README.md
+composer.json

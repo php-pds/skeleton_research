@@ -1,0 +1,8 @@
+bin/
+example/
+src/Tools/Command/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock

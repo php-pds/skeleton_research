@@ -1,0 +1,8 @@
+Command/
+DependencyInjection/
+Resources/config/
+.gitignore
+LICENSE
+MatthewkpEzCleanUpVersionsBundle.php
+README.md
+composer.json

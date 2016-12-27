@@ -1,0 +1,6 @@
+src/Console/
+.gitignore
+LICENSE
+auth
+composer.json
+composer.lock

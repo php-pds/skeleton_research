@@ -1,0 +1,6 @@
+config/
+src/Template/
+webroot/
+README.md
+composer.json
+phpunit.xml.dist

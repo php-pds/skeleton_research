@@ -1,0 +1,13 @@
+.github/
+.idea/
+docs/source/API/API/
+src/
+tests/
+.gitignore
+.sami.php
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

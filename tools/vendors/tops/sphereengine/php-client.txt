@@ -1,0 +1,12 @@
+Examples/
+src/Api/
+tests/
+.buildpath
+.gitignore
+.project
+.travis.yml
+LICENSE
+README.md
+autoload.php
+composer.json
+phpunit.xml.dist

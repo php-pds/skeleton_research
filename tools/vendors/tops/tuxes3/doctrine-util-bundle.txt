@@ -1,0 +1,13 @@
+.idea/
+Annotations/
+DependencyInjection/
+Entity/
+EventListener/
+Form/Type/
+Resources/
+.gitignore
+LICENSE
+README.md
+Tuxes3DoctrineUtilBundle.php
+composer.json
+composer.lock

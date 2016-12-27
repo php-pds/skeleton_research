@@ -1,0 +1,6 @@
+src/Deemeetar/LaravelDebugbarTranslations/
+tests/
+.gitignore
+.travis.yml
+composer.json
+phpunit.xml

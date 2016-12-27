@@ -1,0 +1,10 @@
+config/
+public/assets/js/wizzy/
+src/
+.DS_Store
+.gitignore
+CHANGELOG.md
+CONTRIBUTING.md
+LICENSE
+README.md
+composer.json

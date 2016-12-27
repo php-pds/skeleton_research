@@ -1,0 +1,8 @@
+src/MdeService/
+tests/
+www/
+.gitattributes
+.gitignore
+LICENSE
+README.md
+composer.json

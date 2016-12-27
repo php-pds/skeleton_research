@@ -1,0 +1,7 @@
+tests/
+.gitignore
+DetectEnv.php
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

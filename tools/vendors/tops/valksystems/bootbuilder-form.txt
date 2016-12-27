@@ -1,0 +1,6 @@
+.gitignore
+.travis.yml
+LICENSE
+README.md
+bootstrap.php
+composer.json

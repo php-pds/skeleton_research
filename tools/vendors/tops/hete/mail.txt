@@ -1,0 +1,9 @@
+classes/
+config/
+tests/
+vendor/
+.gitignore
+.gitmodules
+README.md
+composer.json
+phpunit.xml

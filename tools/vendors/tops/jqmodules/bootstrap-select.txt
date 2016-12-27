@@ -1,0 +1,14 @@
+dist/
+js/
+less/
+.gitignore
+CONTRIBUTING.md
+Gruntfile.js
+LICENSE
+README.md
+bootstrap-select-1.7.3.zip
+bower.json
+composer.json
+module.json
+package.json
+test.html

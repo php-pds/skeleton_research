@@ -1,0 +1,15 @@
+docs/
+src/Fixer/
+tests/
+.editorconfig
+.gitattributes
+.gitignore
+.php_cs
+.php_cs_psr2r
+.travis.yml
+README.md
+TODOs.txt
+composer.json
+composer.lock
+phpunit.xml.dist
+setup.sh

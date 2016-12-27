@@ -1,0 +1,11 @@
+Command/
+Generator/
+Resources/
+.travis.yml
+AdminLTECrudGenerator.sublime-project
+AdminLTECrudGenerator.sublime-workspace
+AdminLTEGeneratorBundle.php
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

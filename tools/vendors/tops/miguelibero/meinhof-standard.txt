@@ -1,0 +1,7 @@
+posts/
+public/
+views/
+.gitignore
+README.md
+composer.json
+composer.lock

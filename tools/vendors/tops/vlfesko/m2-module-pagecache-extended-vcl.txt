@@ -1,0 +1,6 @@
+Plugin/PageCache/Model/
+etc/
+LICENSE
+README.md
+composer.json
+registration.php

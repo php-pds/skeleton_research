@@ -1,0 +1,11 @@
+src/RestGalleries/
+tests/
+.gitconfig
+.gitignore
+.travis.yml
+Gruntfile.js
+LICENSE
+README.md
+composer.json
+package.json
+phpunit.xml.dist

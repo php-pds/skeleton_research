@@ -1,0 +1,6 @@
+sql/
+src/Krucas/CurrencyExchangeBundle/
+tests/
+README.md
+composer.json
+phpunit.xml

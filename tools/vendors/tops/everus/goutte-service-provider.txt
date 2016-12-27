@@ -1,0 +1,6 @@
+src/Everus/Silex/
+tests/
+.gitignore
+README.md
+composer.json
+phpunit.xml

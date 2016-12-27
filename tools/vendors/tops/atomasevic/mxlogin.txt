@@ -1,0 +1,8 @@
+src/atomasevic/MXLogin/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+codeception.yml
+composer.json

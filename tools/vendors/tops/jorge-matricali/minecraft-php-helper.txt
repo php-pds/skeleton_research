@@ -1,0 +1,4 @@
+src/PHPMC/
+LICENSE
+README.md
+composer.json

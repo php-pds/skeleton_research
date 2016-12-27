@@ -1,0 +1,11 @@
+bootstrap/
+src/
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+README.md
+composer.json
+index.php
+phpunit
+phpunit.xml

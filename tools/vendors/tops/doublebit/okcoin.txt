@@ -1,0 +1,5 @@
+src/DoubleBit/OKCoin/
+.gitignore
+LICENSE
+README.md
+composer.json

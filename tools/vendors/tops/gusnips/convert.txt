@@ -1,0 +1,8 @@
+assets/
+effects/
+scripts/
+.gitignore
+Convert.php
+Effect.php
+README.md
+composer.json

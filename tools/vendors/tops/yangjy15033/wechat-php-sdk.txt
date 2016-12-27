@@ -1,0 +1,13 @@
+Codeigniter/
+Thinkphp/
+old_version/
+test/
+wiki/
+.gitignore
+README.md
+composer.json
+demo.php
+errCode.php
+qyerrCode.php
+qywechat.class.php
+wechat.class.php

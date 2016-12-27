@@ -1,0 +1,11 @@
+Classes/
+Command/
+Controller/
+DependencyInjection/
+Resources/
+Tests/Controller/
+.gitignore
+LICENSE
+README.md
+composer.json
+iLubenetsDIArchitectBundle.php

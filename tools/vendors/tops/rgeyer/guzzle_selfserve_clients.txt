@@ -1,0 +1,5 @@
+src/Guzzle/
+.gitignore
+.gitmodules
+README.md
+composer.json

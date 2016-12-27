@@ -1,0 +1,9 @@
+application/
+clib/
+lib/
+root/
+templates/
+.htaccess
+README.md
+gpl.txt
+index.php

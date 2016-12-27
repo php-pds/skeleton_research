@@ -1,0 +1,10 @@
+src/Evansims/
+tests/
+.gitignore
+.travis.yml
+LICENSE.txt
+README.md
+composer.json
+demo.html
+demo.php
+phpunit.xml

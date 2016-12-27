@@ -1,0 +1,4 @@
+examples/
+NeoshipSdk.php
+README.md
+composer.json

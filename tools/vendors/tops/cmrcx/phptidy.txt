@@ -1,0 +1,8 @@
+test/
+CHANGELOG
+INTEGRATION
+LICENSE
+README
+composer.json
+phptidy
+phptidy.php

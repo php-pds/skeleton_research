@@ -1,0 +1,7 @@
+app/
+js/custombox/
+skin/
+RapidCampaign_Promotions.xml
+composer.json
+modman
+readme.md

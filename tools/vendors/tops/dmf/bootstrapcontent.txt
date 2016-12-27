@@ -1,0 +1,8 @@
+Classes/DMF/BootstrapContent/Validation/Validator/
+Configuration/
+Resources/
+.bowerrc
+LICENSE
+README.md
+bower.json
+composer.json

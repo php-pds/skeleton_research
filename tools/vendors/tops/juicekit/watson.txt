@@ -1,0 +1,10 @@
+.idea/
+src/Watson/
+tests/src/Watson/
+.gitignore
+.travis.yml
+LICENSE.md
+README.md
+composer.json
+composer.phar
+phpunit.xml.dist

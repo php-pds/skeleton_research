@@ -1,0 +1,5 @@
+src/Jasekz/Laradrop/
+.gitignore
+LICENSE
+README.md
+composer.json

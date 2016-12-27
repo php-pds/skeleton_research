@@ -1,0 +1,8 @@
+DependencyInjection/
+Helper/
+Resources/
+.gitignore
+LICENSE
+OpenJournalSoftwareBibtexBundle.php
+README.md
+composer.json

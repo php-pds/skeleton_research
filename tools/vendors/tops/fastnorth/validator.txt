@@ -1,0 +1,7 @@
+src/FastNorth/Validator/
+tests/Unit/
+.gitignore
+.travis.yml
+README.md
+composer.json
+phpunit.xml

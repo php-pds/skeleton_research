@@ -1,0 +1,7 @@
+bin/
+src/Iverberk/Semver/Commands/
+.gitignore
+composer.json
+composer.lock
+tag.sh
+version.json

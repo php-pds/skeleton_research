@@ -1,0 +1,3 @@
+CodeigniterInstallerPlugin.php
+CustomInstaller.php
+composer.json

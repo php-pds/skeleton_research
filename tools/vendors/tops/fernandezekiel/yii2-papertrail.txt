@@ -1,0 +1,6 @@
+.gitignore
+LICENSE.md
+PaperTrailTarget.php
+README.md
+composer.json
+composer.lock

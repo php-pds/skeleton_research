@@ -1,0 +1,6 @@
+example/
+src/Gsdev/Wordpress/
+tests/
+.gitignore
+README.md
+composer.json

@@ -1,0 +1,11 @@
+Consistence/
+build/
+tests/
+.gitattributes
+.gitignore
+.travis.yml
+build.xml
+composer.json
+consistence-coding-standard.md
+license.md
+readme.md

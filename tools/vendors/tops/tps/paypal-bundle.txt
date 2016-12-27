@@ -1,0 +1,14 @@
+DependencyInjection/
+Entity/
+Exception/
+Resources/
+Services/
+Tests/
+lib/
+.coveralls.yml
+.gitignore
+.travis.yml
+README.md
+composer.json
+phpunit.xml.dist
+tpsPaypalBundle.php

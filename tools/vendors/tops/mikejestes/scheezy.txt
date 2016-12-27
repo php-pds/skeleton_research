@@ -1,0 +1,10 @@
+Scheezy/
+tests/
+.gitattributes
+.gitignore
+.travis.yml
+LICENSE
+README.md
+TODO.md
+composer.json
+phpunit.xml

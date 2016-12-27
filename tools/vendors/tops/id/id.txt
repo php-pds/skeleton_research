@@ -1,0 +1,12 @@
+App/
+admin/
+install/
+static/
+.bowerrc
+.gitignore
+.htaccess
+README.md
+bower.json
+composer.json
+control.php
+index.php

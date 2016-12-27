@@ -1,0 +1,13 @@
+Command/
+Composer/
+Controller/
+DependencyInjection/
+Form/
+Graph/
+Resources/
+Tests/Controller/
+.gitignore
+DafuerJpgraphBundle.php
+Jpgrapher.php
+README.md
+composer.json

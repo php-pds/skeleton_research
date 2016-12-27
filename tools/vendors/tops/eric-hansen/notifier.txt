@@ -1,0 +1,6 @@
+src/EricHansen/Notifier/
+.gitignore
+LICENSE
+README.md
+composer.json
+simpletest.php

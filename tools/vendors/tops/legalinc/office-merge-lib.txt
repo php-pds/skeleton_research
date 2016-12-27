@@ -1,0 +1,10 @@
+cde-root/
+README.md
+cde-exec
+cde.full-environment
+cde.log
+cde.options
+cde.uname
+composer.json
+convert.cde
+libreoffice.cde

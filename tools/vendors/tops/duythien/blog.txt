@@ -1,0 +1,14 @@
+app/
+public/
+schemas/
+tests/
+vendor/
+.gitignore
+.htaccess
+.travis.yml
+LICENSE.md
+README.md
+composer.json
+nginx.conf
+sftp-config.json
+wercker.yml

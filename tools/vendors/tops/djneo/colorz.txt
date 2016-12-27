@@ -1,0 +1,5 @@
+example/
+.gitignore
+colorz.php
+composer.json
+composer.lock

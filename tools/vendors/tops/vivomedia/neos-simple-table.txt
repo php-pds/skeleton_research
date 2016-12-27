@@ -1,0 +1,7 @@
+Classes/VIVOMEDIA/SimpleTable/TypoScript/
+Configuration/
+Docs/
+Resources/Private/
+LICENSE
+README.md
+composer.json

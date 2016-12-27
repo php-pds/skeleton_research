@@ -1,0 +1,5 @@
+src/Castanet/
+tests/
+README.markdown
+Rakefile
+composer.json

@@ -1,0 +1,4 @@
+src/Eventio/BBQBundle/
+.gitignore
+Readme.md
+composer.json

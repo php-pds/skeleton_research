@@ -1,0 +1,12 @@
+examples/proxyCookie/
+src/
+tests/
+.gitignore
+CHANGELOG
+CONTRIBUTE
+LICENSE
+Makefile
+NOTICE
+README.md
+VERSION
+composer.json

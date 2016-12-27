@@ -1,0 +1,8 @@
+src/Zaolik/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml

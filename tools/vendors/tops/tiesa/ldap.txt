@@ -1,0 +1,11 @@
+API/
+Core/
+Exception/
+Platform/
+Tests/
+.gitignore
+LICENSE
+README.md
+autoload.php-dist
+composer.json
+phpunit.xml-dist

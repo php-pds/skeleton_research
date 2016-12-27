@@ -1,0 +1,10 @@
+lib/
+tests/
+.gitignore
+.travis.yml
+API.md
+AutoLoader.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

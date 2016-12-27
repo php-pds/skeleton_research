@@ -1,0 +1,10 @@
+config/
+data/
+module/
+public/
+LICENSE.txt
+README.md
+Vagrantfile
+composer.json
+composer.lock
+init_autoloader.php

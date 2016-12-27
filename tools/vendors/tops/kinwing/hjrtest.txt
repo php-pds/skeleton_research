@@ -1,0 +1,6 @@
+.idea/
+lightbox/
+.gitignore
+LICENSE
+README.md
+composer.json

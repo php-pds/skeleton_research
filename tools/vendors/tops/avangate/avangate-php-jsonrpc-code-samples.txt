@@ -1,0 +1,8 @@
+Customers/
+Orders/
+Products/Create/
+Subscriptions/
+AvangateJsonrpcClient.php
+LICENSE
+README.md
+composer.json

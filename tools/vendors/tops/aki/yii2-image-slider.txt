@@ -1,0 +1,7 @@
+views/
+.gitattributes
+.gitignore
+ImageSilderAsset.php
+ImageSlider.php
+README.md
+composer.json

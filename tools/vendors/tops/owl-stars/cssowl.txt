@@ -1,0 +1,14 @@
+docs/
+lib/
+resources/
+src/cssowl/
+test/
+.gitignore
+.npmignore
+.travis.yml
+Gruntfile.coffee
+LICENSE-MIT
+README.md
+bower.json
+composer.json
+package.json

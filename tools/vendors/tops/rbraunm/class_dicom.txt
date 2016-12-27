@@ -1,0 +1,4 @@
+examples/
+README
+class_dicom.php
+composer.json

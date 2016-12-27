@@ -1,0 +1,7 @@
+spec/Ormin/DDDProjectExtension/
+src/Ormin/DDDProjectExtension/
+.gitignore
+README.MD
+build.sh
+composer.json
+composer.lock

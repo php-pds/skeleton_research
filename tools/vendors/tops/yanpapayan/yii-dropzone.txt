@@ -1,0 +1,4 @@
+assets/
+EDropzone.php
+README.md
+composer.json

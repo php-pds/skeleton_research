@@ -1,0 +1,9 @@
+App/
+Config/
+Public/
+Storage/
+docs/
+.gitignore
+README.md
+composer.json
+mkdocs.yml

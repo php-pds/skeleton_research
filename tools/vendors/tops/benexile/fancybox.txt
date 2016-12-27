@@ -1,0 +1,11 @@
+demo/
+lib/
+source/
+.gitattributes
+.gitignore
+CHANGELOG.md
+README.md
+bower.json
+composer.json
+fancybox.jquery.json
+sprite.psd

@@ -1,0 +1,10 @@
+assets/
+client/
+components/
+controllers/
+models/
+views/
+widgets/
+Module.php
+README.md
+composer.json

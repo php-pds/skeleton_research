@@ -1,0 +1,8 @@
+assets/
+fields/
+lang/
+.gitignore
+README.md
+acf-photo_grid.php
+composer.json
+composer.lock

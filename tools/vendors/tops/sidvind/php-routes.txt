@@ -1,0 +1,14 @@
+bin/
+example/
+src/
+tests/
+.coveralls.yml
+.editorconfig
+.gitignore
+.travis.yml
+CHANGELOG.md
+COPYING
+README.md
+composer.json
+composer.lock
+phpcs.xml

@@ -1,0 +1,8 @@
+src/Oss2/Doctrine2/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml

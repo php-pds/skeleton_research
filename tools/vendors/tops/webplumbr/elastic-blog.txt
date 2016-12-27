@@ -1,0 +1,4 @@
+src/Webplumbr/BlogBundle/
+.gitignore
+README.md
+composer.json

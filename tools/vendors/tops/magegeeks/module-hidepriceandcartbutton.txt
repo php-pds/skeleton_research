@@ -1,0 +1,8 @@
+Controller/Index/
+Helper/
+Model/Config/Source/
+Pricing/
+etc/
+view/frontend/
+composer.json
+registration.php

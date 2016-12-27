@@ -1,0 +1,14 @@
+assets/
+css/
+fonts/
+includes/
+js/
+languages/
+.gitignore
+.gitmodules
+LICENSE
+README.md
+composer.json
+readme.txt
+uninstall.php
+wp-goracash.php

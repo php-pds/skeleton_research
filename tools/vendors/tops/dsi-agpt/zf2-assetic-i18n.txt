@@ -1,0 +1,4 @@
+AsseticI18n/
+.gitignore
+README.md
+composer.json

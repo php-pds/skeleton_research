@@ -1,0 +1,5 @@
+src/Gazsp/EloquentCockpit/
+.gitignore
+LICENSE
+README.md
+composer.json

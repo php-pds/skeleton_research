@@ -1,0 +1,8 @@
+Client/
+DependencyInjection/
+EventListener/
+Resources/config/
+.gitignore
+MetricBundle.php
+README.md
+composer.json

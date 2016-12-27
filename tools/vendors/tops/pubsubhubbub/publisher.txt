@@ -1,0 +1,6 @@
+examples/
+library/
+.styleci.yml
+LICENSE
+README.md
+composer.json

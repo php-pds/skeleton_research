@@ -1,0 +1,11 @@
+contrib/init.d/
+examples/
+src/
+.gitignore
+CHANGELOG
+CHANGELOG.MD
+LICENSE
+README.md
+composer.json
+phpari.ini
+phpari.php

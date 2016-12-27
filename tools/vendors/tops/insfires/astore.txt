@@ -1,0 +1,4 @@
+src/Insfires/AstoreAmazon/
+.gitattributes
+.gitignore
+composer.json

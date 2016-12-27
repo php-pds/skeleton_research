@@ -1,0 +1,14 @@
+build/test/
+src/michaelszymczak/CheckCheckIn/
+.gitignore
+.travis.yml
+CONTRIBUTING.md
+LICENSE
+README.md
+Vagrantfile
+build.xml
+composer.json
+composer.lock
+composer.phar
+phpunit.xml.dist
+pre-commit.sample

@@ -1,0 +1,16 @@
+Sniffs/PHP/
+Tests/
+.coveralls.yml
+.gitignore
+.scrutinizer.yml
+.travis.yml
+AbstractComplexVersionSniff.php
+AbstractNewFeatureSniff.php
+AbstractRemovedFeatureSniff.php
+ComplexVersionInterface.php
+README.md
+Sniff.php
+composer.json
+phpunit-travis.xml
+phpunit.xml
+ruleset.xml

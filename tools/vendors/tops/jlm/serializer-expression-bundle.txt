@@ -1,0 +1,13 @@
+DependencyInjection/
+ExpressionLanguage/
+Resources/
+Tests/
+View/
+.coveralls.yml
+.gitignore
+.travis.yml
+JLMSerializerExpressionBundle.php
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

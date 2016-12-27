@@ -1,0 +1,12 @@
+AMysql/
+tests/
+tpl/
+.gitattributes
+.travis.yml
+AMysql.php
+CHANGELOG.md
+INSTALL.md
+MIT-LICENCE.txt
+README.md
+composer.json
+phpunit.xml

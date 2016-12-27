@@ -1,0 +1,9 @@
+src/Aensley/YahooStockQuotes/
+tests/Aensley/YahooStockQuotes/
+.codeclimate.yml
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml
+testphpconfig.ini

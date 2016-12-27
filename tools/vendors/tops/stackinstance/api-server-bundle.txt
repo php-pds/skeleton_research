@@ -1,0 +1,11 @@
+Controller/
+DataFixtures/ORM/
+DependencyInjection/
+Entity/
+Repository/
+Resources/config/
+Tests/Controller/
+LICENSE
+README.md
+StackInstanceApiServerBundle.php
+composer.json

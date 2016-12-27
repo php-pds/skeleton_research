@@ -1,0 +1,13 @@
+api/
+app/
+sql/
+.gitignore
+CHANGELOG-5.10.md
+CHANGELOG-5.11.md
+INSTALL.md
+LICENSE
+NOTICE.md
+README.md
+composer.json
+composer.lock
+phpunit.xml

@@ -1,0 +1,5 @@
+mock/
+src/
+.gitignore
+README.md
+composer.json

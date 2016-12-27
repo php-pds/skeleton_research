@@ -1,0 +1,9 @@
+tests/
+thunderclient/
+.gitignore
+.travis.yml
+AUTHORS
+LICENSE
+README.rst
+composer.json
+phpunit.xml.dist

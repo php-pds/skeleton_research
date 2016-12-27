@@ -1,0 +1,6 @@
+examples/
+src/bogart/
+.htaccess
+README.markdown
+composer.json
+launch.sh

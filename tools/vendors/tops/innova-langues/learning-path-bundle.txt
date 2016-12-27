@@ -1,0 +1,8 @@
+Controller/
+DataFixtures/ORM/
+DependencyInjection/
+Entity/
+Resources/
+Tests/Controller/
+InnovaLearningPathBundle.php
+composer.json

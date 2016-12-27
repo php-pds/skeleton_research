@@ -1,0 +1,12 @@
+classes/Neolao/
+documentation/
+lib/
+scripts/
+tests/units/
+.atoum.php
+.gitignore
+.travis.yml
+CODING_STANDARD.md
+LICENSE
+README.md
+composer.json

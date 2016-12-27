@@ -1,0 +1,9 @@
+src/Bigcommerce/Api/
+test/Unit/Api/
+.env-example
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

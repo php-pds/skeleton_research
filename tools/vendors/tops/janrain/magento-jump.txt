@@ -1,0 +1,6 @@
+app/
+.gitignore
+README.md
+composer.json
+magelink.py
+update.sh

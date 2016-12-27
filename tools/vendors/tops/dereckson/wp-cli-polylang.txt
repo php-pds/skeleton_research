@@ -1,0 +1,7 @@
+.arcconfig
+.arclint
+.gitignore
+PolylangHelperFunctions.php
+Polylang_Command.php
+README.md
+composer.json

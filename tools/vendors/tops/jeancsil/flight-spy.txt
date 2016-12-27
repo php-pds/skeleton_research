@@ -1,0 +1,17 @@
+bin/
+docker/
+src/
+test/Api/DataTransfer/
+.dockerignore
+.gitignore
+.scrutinizer.yml
+.travis.yml
+Dockerfile
+LICENSE
+README.md
+boot.php
+composer.json
+composer.lock
+index.php
+phpcs.xml.dist
+phpunit.xml.dist

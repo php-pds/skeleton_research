@@ -1,0 +1,11 @@
+resources/
+src/Gbowo/
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CHANGELOG.MD
+LICENSE
+README.md
+composer.json
+phpunit.xml

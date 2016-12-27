@@ -1,0 +1,14 @@
+build/include/
+examples/
+src/
+tests/
+.gitignore
+.travis.yml
+COPYING
+README.md
+autoload.php
+build.php
+build.sh
+composer.json
+composer.lock
+phpunit.xml.dist

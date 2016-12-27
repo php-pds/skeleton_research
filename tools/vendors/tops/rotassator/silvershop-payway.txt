@@ -1,0 +1,9 @@
+_config/
+code/
+templates/Layout/
+.editorconfig
+.gitignore
+LICENSE
+README.md
+composer.json
+phpunit.xml

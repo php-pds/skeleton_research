@@ -1,0 +1,3 @@
+yii/image/
+README.md
+composer.json

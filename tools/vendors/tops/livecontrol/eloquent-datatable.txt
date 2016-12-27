@@ -1,0 +1,8 @@
+spec/LiveControl/EloquentDataTable/
+src/LiveControl/EloquentDataTable/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpspec.yml

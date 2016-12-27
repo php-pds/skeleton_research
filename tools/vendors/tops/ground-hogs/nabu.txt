@@ -1,0 +1,8 @@
+src/Nabu/
+tests/
+vendor/
+LICENSE
+README.md
+composer.json
+phpunit.phar
+phpunit.xml

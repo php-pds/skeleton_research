@@ -1,0 +1,9 @@
+src/
+test/phpt/
+.gitignore
+.travis.yml
+LICENSE
+META.md
+README.md
+composer.json
+phpunit.xml.dist

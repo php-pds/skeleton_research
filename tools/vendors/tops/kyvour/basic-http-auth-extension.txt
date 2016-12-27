@@ -1,0 +1,5 @@
+src/Behat/BasicHttpAuthExtension/
+.gitignore
+.scrutinizer.yml
+README.md
+composer.json

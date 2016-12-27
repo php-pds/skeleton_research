@@ -1,0 +1,7 @@
+DependencyInjection/
+Monolog/Handler/
+Resources/config/
+LICENSE
+LandingiLogglyBundle.php
+README.md
+composer.json

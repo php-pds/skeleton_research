@@ -1,0 +1,5 @@
+src/SnifferReport/
+web/
+.gitignore
+composer.json
+composer.lock

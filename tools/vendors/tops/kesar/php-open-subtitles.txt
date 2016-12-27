@@ -1,0 +1,12 @@
+config/
+src/kesar/PhpOpenSubtitles/
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+UPGRADING.md
+composer.json
+console.php
+phpunit.xml.dist

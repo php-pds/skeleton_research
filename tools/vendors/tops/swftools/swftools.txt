@@ -1,0 +1,13 @@
+docs/
+src/SwfTools/
+tests/
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+buildAPI.sh
+composer.json
+composer.lock
+phpunit.xml.dist
+sami_configuration.php

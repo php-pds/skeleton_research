@@ -1,0 +1,10 @@
+config/
+example/
+src/
+test/
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml

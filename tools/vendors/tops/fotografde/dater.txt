@@ -1,0 +1,7 @@
+examples/
+src/Dater/
+.gitattributes
+.gitignore
+LICENSE
+README.md
+composer.json

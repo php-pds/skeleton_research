@@ -1,0 +1,10 @@
+src/Phuedx/TNetstring/
+test/
+.gitignore
+.travis.yml
+LICENSE
+README.markdown
+composer.json
+composer.lock
+phpunit.xml
+tnetstring.php

@@ -1,0 +1,7 @@
+config/
+orm-metadata/
+src/
+.gitattributes
+.gitignore
+Module.php
+composer.json

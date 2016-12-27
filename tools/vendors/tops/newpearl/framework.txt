@@ -1,0 +1,4 @@
+src/newpearl/
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,8 @@
+database/
+src/
+tests/
+.gitignore
+composer.json
+phpunit.xml
+playground.md
+readme.md

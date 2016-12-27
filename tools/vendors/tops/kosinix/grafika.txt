@@ -1,0 +1,15 @@
+api/
+doc-src/
+docs/
+fonts/
+src/
+tests/
+.gitattributes
+.gitignore
+.travis.yml
+README.md
+composer.json
+license.txt
+phpunit.xml
+sami.phar
+samiconf.php

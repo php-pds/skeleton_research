@@ -1,0 +1,14 @@
+API/
+Auth/
+Exception/
+Model/
+spec/GorkaLaucirica/HipchatAPIv2Client/
+.gitignore
+.travis.yml
+Client.php
+LICENSE
+README.md
+composer.json
+phpmd.xml
+phpspec.yml
+ruleset.xml

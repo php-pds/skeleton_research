@@ -1,0 +1,8 @@
+screenshots/
+src/
+.gitignore
+Colorizer.png
+Example.php
+LICENSE
+README.md
+composer.json

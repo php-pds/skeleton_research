@@ -1,0 +1,6 @@
+layout/
+public/
+LICENSE
+README.md
+SolidServiceProvider.php
+composer.json

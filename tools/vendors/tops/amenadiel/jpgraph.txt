@@ -1,0 +1,9 @@
+Examples/
+src/
+.codeclimate.yml
+.gitignore
+LICENSE.md
+Makefile
+README.md
+composer.json
+jpgraph_logo.jpg

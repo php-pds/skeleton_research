@@ -1,0 +1,6 @@
+assets/
+LICENSE.md
+README.md
+Ueditor.php
+UeditorAsset.php
+composer.json

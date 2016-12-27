@@ -1,0 +1,15 @@
+benchmarks/
+docs/
+examples/
+src/
+tests/
+.gitattributes
+.gitignore
+.travis.yml
+LICENSE
+README.md
+UPGRADE.md
+composer.json
+mkdocs.yml
+phpbench.json
+phpunit.xml.dist

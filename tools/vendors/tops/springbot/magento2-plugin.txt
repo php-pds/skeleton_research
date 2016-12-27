@@ -1,0 +1,17 @@
+Api/
+Block/
+Console/Command/
+Controller/Adminhtml/Dashboard/
+Helper/
+Model/
+Observer/
+Setup/
+Test/
+etc/
+view/
+.gitignore
+LICENSE.md
+README.md
+composer.json
+phpunit.xml.dist
+registration.php

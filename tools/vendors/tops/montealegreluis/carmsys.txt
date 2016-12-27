@@ -1,0 +1,14 @@
+apps/frontend/
+cache/
+config/
+data/
+lib/
+log/
+test/
+web/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock
+symfony

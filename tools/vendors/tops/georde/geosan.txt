@@ -1,0 +1,11 @@
+application/
+system/
+vendor/
+.DS_Store
+.gitignore
+.htaccess
+LICENSE
+README.md
+composer.json
+composer.lock
+index.php

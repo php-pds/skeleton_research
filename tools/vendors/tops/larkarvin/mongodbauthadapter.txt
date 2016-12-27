@@ -1,0 +1,4 @@
+.gitignore
+MongoDbAuthAdapter.php
+README.md
+composer.json

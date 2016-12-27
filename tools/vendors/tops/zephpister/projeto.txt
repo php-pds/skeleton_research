@@ -1,0 +1,4 @@
+config/
+Module.php
+autoload_classmap.php
+composer.json

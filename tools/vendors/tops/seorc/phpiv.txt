@@ -1,0 +1,10 @@
+phpiv/
+tests/
+.editorconfig
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.php
+phpunit.xml

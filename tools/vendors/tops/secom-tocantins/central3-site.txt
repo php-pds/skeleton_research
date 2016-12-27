@@ -1,0 +1,12 @@
+public/
+views/
+.gitignore
+Dockerfile
+README.md
+Vagrantfile
+app.php
+bootstrap.php
+composer.json
+console
+index.php
+packages.json

@@ -1,0 +1,6 @@
+spec/Adrianyg7/Filterer/
+src/
+.gitignore
+LICENSE
+README.md
+composer.json

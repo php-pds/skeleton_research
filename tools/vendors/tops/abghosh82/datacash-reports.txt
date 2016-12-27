@@ -1,0 +1,7 @@
+config/
+example/
+src/DatacashReports/
+stub_data/
+.gitignore
+README.md
+composer.json

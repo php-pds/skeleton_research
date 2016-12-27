@@ -1,0 +1,8 @@
+.idea/
+Controller/
+DependencyInjection/
+Resources/
+Tests/Controller/
+NTIPdfJsBundle.php
+Viewer.php
+composer.json

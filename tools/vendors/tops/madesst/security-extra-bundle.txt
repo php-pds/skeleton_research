@@ -1,0 +1,7 @@
+Common/
+DependencyInjection/
+Resources/doc/
+LICENSE
+MadesstSecurityExtraBundle.php
+README.md
+composer.json

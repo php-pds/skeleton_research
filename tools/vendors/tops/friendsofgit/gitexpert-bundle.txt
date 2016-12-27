@@ -1,0 +1,4 @@
+Command/
+FOGGitExpertBundle.php
+README.md
+composer.json

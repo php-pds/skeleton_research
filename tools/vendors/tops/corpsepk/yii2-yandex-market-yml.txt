@@ -1,0 +1,8 @@
+behaviors/
+controllers/
+models/
+views/default/
+LICENSE
+README.md
+YandexMarketYml.php
+composer.json

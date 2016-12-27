@@ -1,0 +1,16 @@
+Command/
+Controller/
+DependencyInjection/
+Entity/
+Exception/User/
+Form/
+Repository/
+Resources/
+Security/Provider/
+Service/
+Tests/Controller/
+.gitignore
+README.md
+TNQSoftAdminBundle.php
+composer.json
+db-example.sql

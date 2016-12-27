@@ -1,0 +1,6 @@
+config/
+src/AuthByToken/
+.gitignore
+Module.php
+README.md
+composer.json

@@ -1,0 +1,9 @@
+bin/
+examples/
+files/
+src/Gerar/
+.gitignore
+.vagrant
+README.md
+Vagrantfile
+composer.json

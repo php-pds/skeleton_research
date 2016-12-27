@@ -1,0 +1,7 @@
+assets/
+classes/
+config/
+languages/en/
+templates/
+README.md
+composer.json

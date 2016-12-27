@@ -1,0 +1,8 @@
+src/
+tests/
+.gitignore
+Makefile
+composer.json
+license.txt
+readme.mkd
+version.txt

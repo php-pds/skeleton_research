@@ -1,0 +1,11 @@
+src/Phillip/
+tests/Phillip/Assertion/
+.gitignore
+.phillip.yml
+.version
+CHANGELOG.md
+LICENSE.md
+Phakefile
+README.md
+composer.json
+phillip

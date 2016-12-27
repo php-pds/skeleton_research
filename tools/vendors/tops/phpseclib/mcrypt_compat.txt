@@ -1,0 +1,11 @@
+lib/
+tests/
+.gitattributes
+.gitignore
+.travis.yml
+AUTHORS
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

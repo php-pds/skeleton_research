@@ -1,0 +1,7 @@
+Sonsuzdongu/
+docs/tests/
+tests/Sonsuzdongu/
+.travis.yml
+README.md
+composer.json
+phpunit.xml

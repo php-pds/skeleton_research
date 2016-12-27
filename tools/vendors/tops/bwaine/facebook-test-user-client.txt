@@ -1,0 +1,7 @@
+src/Bwaine/FacebookTestUserClient/
+tests/Bwaine/FacebookTestUserClient/
+.gitignore
+README.md
+composer.json
+composer.lock
+phpunit.dist.xml

@@ -1,0 +1,15 @@
+PhpConsole/
+examples/
+ui-plugins/
+CHANGELOG
+PtcDb.php
+PtcDebug.php
+PtcEvent.php
+PtcForm.php
+PtcHm.php
+PtcMapper.php
+PtcQueryBuilder.php
+README
+TODO
+composer.json
+ptc-helpers.php

@@ -1,0 +1,10 @@
+AccessControl/
+Command/
+Controller/
+DependencyInjection/
+Model/
+Resources/
+Tests/Controller/
+EffectiveSolutionsSecurityBundle.php
+README.md
+composer.json

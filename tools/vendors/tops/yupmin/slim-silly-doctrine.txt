@@ -1,0 +1,11 @@
+cache/
+logs/
+public/
+src/
+templates/
+.config.yml
+.gitignore
+CONTRIBUTING.md
+README.md
+cli-config.php
+composer.json

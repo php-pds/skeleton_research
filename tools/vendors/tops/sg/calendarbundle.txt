@@ -1,0 +1,15 @@
+Calendar/
+Controller/
+DataFixtures/ORM/
+DependencyInjection/
+Entity/
+Event/
+Form/
+Model/
+Resources/
+Subscriber/
+Twig/
+.gitattributes
+README.md
+SgCalendarBundle.php
+composer.json

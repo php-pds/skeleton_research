@@ -1,0 +1,4 @@
+LICENSE
+Mp3File.php
+README.md
+composer.json

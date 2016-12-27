@@ -1,0 +1,12 @@
+dev/phpcs/
+lib/KVD/Services/
+test/
+vendor/
+.gitignore
+.gitmodules
+.travis.yml
+HISTORY.md
+LICENSE.md
+README.md
+build.xml
+composer.json

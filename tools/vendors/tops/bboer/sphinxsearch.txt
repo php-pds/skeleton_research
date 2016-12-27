@@ -1,0 +1,6 @@
+config/
+data/
+library/SphinxSearch/
+Module.php
+README.md
+composer.json

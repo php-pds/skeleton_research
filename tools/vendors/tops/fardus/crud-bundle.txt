@@ -1,0 +1,5 @@
+Fardus/Bundle/CrudBundle/
+.gitignore
+LICENSE
+README.md
+composer.json

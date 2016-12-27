@@ -1,0 +1,8 @@
+assets/
+bin/
+dist/
+src/
+.gitignore
+README.md
+readme.txt
+translationexchange.php

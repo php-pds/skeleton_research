@@ -1,0 +1,6 @@
+.idea/
+src/
+vendor/
+composer.json
+composer.lock
+test.php

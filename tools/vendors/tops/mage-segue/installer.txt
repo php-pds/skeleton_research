@@ -1,0 +1,7 @@
+src/
+.gitignore
+LICENSE
+LICENSE.txt
+Readme.md
+composer.json
+mage-segue

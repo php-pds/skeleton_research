@@ -1,0 +1,16 @@
+.idea/
+app/
+config/
+lib/
+objects/
+scripts/
+src/
+templates/
+.gitignore
+.htaccess
+README.md
+bootstrap.php
+cobra
+composer.json
+composer.phar
+index.php

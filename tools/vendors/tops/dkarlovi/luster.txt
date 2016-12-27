@@ -1,0 +1,17 @@
+bin/
+build/
+src/
+tests/
+.editorconfig
+.gitattributes
+.gitignore
+.gitmodules
+.php_cs
+.scrutinizer.yml
+.travis.yml
+README.md
+appveyor.yml
+build.xml
+composer.json
+composer.lock
+phpunit.xml.dist

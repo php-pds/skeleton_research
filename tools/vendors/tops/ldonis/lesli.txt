@@ -1,0 +1,16 @@
+Core/
+Websites/
+.gitattributes
+.gitignore
+.htaccess
+Gruntfile.js
+LICENSE
+composer.json
+index.php
+lesli
+lesli.config.php
+lesli.config.sample.php
+package.json
+readme.md
+structure.md
+version

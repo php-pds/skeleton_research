@@ -1,0 +1,11 @@
+Tests/
+ejemplos/
+src/Ivansabik/Estafeta/
+vendor/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml

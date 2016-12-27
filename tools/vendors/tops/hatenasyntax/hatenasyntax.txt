@@ -1,0 +1,6 @@
+examples/
+src/
+test/
+README.markdown
+composer.json
+setup.sh

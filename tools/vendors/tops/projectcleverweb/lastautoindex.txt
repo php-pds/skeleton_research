@@ -1,0 +1,8 @@
+src/
+.editorconfig
+.gitignore
+composer.json
+composer.lock
+index.php
+package.json
+readme.md

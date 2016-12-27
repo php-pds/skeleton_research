@@ -1,0 +1,12 @@
+bin/
+config_phpunit/
+lib/PHP-SQL-Parser/
+src/Fuel/Core/
+test/
+tmp/
+.gitignore
+LICENSE
+README.md
+bootstrap_phpunit.php
+composer.json
+phpunit.xml

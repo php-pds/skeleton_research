@@ -1,0 +1,6 @@
+src/Defenestrator/Laravel5/CouchDb/
+.gitignore
+.travis.yml
+composer.json
+license.md
+readme.md

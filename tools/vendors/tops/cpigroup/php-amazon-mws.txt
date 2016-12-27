@@ -1,0 +1,17 @@
+examples/
+includes/
+mock/
+nbproject/
+test-cases/
+.gitignore
+.travis.yml
+CHANGELOG.md
+CONTRIBUTING.md
+CREDITS
+INSTALL.md
+LICENSE
+NOTICE
+README.md
+amazon-config.default.php
+composer.json
+environment.php

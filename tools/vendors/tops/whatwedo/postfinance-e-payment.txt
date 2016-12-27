@@ -1,0 +1,13 @@
+docs/
+src/whatwedo/PostFinanceEPayment/
+tests/
+.editorconfig
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENSE
+Makefile
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

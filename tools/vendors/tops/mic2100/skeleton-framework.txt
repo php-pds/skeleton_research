@@ -1,0 +1,10 @@
+app/
+config/
+public/
+vagrant-setup-files/
+.gitignore
+LICENSE
+README.md
+Vagrantfile
+composer.json
+vagrant-setup.sh

@@ -1,0 +1,11 @@
+bin/
+src/Bones/Component/Fixture/
+tests/Bones/Component/Fixture/
+.gitignore
+.travis.yml
+README.rst
+composer.json
+composer.lock
+config.travis.ini
+phpunit.travis.xml
+phpunit.xml.dist

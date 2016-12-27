@@ -1,0 +1,9 @@
+W/
+app/
+docs/tuto/
+public/
+.gitattributes
+.gitignore
+README.md
+composer.json
+composer.lock

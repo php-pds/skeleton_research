@@ -1,0 +1,7 @@
+Classes/Dachcom/OpenID/
+Configuration/
+Resources/
+.gitignore
+LICENSE
+README.md
+composer.json

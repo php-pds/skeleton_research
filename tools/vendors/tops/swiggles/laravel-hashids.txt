@@ -1,0 +1,9 @@
+config/
+src/
+.gitattributes
+.gitignore
+.styleci.yml
+CHANGELOG.md
+LICENSE
+README.md
+composer.json

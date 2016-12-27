@@ -1,0 +1,7 @@
+app/code/community/Varien/
+test/
+vendor/
+README.md
+composer.json
+modman
+phpunit.xml.dist

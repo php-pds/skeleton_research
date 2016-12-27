@@ -1,0 +1,8 @@
+data/
+example/
+images/
+.gitignore
+ClearQR.php
+README.md
+composer.json
+qr.png

@@ -1,0 +1,10 @@
+bin/
+src/
+vendor/
+.gitignore
+.travis.yml
+README.md
+composer.json
+composer.lock
+index.php
+phpunit.xml

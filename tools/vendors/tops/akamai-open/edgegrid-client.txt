@@ -1,0 +1,16 @@
+bin/
+docs/
+src/
+tests/
+tools/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+apigen.neon
+box.json.dist
+composer.json
+composer.lock
+phpunit.xml.dist

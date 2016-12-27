@@ -1,0 +1,13 @@
+Core/
+Data/
+DataService/
+Diagnostics/
+Exception/
+PlatformService/
+QueryFilter/
+ReportService/
+Security/
+Utility/
+.gitignore
+README.md
+composer.json

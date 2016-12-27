@@ -1,0 +1,4 @@
+InstaContent.class.php
+LICENSE
+README.md
+composer.json

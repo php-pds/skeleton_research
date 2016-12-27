@@ -1,0 +1,13 @@
+Controller/
+DataFixtures/ORM/
+DependencyInjection/
+Resources/config/
+Service/
+TestCase/
+Tests/TestCase/
+Traits/
+.gitignore
+LICENSE
+README.md
+WizinBaseBundle.php
+composer.json

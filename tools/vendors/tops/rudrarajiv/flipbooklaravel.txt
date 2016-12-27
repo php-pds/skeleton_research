@@ -1,0 +1,7 @@
+assets/
+examples/images/
+migrations/
+src/
+LICENSE.txt
+README.md
+composer.json

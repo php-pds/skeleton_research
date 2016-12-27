@@ -1,0 +1,9 @@
+Command/
+DependencyInjection/
+Generator/
+Resources/
+Services/
+Tests/Utility/
+ChewbaccoSitemapBundle.php
+README.md
+composer.json

@@ -1,0 +1,9 @@
+private/
+public/
+shell/
+LICENSE
+README.md
+app.xml
+composer.json
+database.sql
+index.php

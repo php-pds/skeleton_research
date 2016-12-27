@@ -1,0 +1,5 @@
+views/
+ExtARController.php
+ExtActiveRecord.php
+Module.php
+composer.json

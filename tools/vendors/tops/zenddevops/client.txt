@@ -1,0 +1,12 @@
+bin/
+build/
+docs/
+module/Client/
+.coveralls.yml
+.gitignore
+.travis.yml
+CONTRIBUTING.md
+LICENSE.txt
+README.md
+appveyor.yml
+composer.json

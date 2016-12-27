@@ -1,0 +1,12 @@
+bin/
+examples/
+modules/
+tests/
+theme/
+.gitignore
+BACKLOG.md
+README.md
+composer.json
+composer.lock
+phpunit.xml
+test.php

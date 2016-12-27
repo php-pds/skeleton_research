@@ -1,0 +1,9 @@
+js/
+less/forum/
+locale/
+scripts/
+src/
+.gitignore
+README.md
+bootstrap.php
+composer.json

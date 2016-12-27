@@ -1,0 +1,13 @@
+demo_app/
+docs/
+src/troussos/basis/
+tests/troussos/basis/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE.md
+README.md
+composer.json
+doxyfile.in
+phpunit.xml.dist
+sonar-project.properties

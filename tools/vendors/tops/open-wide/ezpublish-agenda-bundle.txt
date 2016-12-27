@@ -1,0 +1,12 @@
+Controller/
+DependencyInjection/
+Helper/
+Package/
+Resources/
+Tests/Controller/
+doc/images/
+ezpublish_legacy/owagendabundle/
+LICENSE
+OpenWideAgendaBundle.php
+README.rst
+composer.json

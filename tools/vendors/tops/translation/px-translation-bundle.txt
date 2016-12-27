@@ -1,0 +1,10 @@
+Command/
+DependencyInjection/
+Form/
+Generator/
+Resources/
+Tests/Controller/
+.project
+README.md
+composer.json
+translationpxTranslationBundle.php

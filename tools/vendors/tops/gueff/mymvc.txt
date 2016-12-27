@@ -1,0 +1,6 @@
+application/
+modules/
+public/
+README.md
+composer.json
+manager.php

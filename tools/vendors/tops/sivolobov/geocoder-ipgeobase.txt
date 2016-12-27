@@ -1,0 +1,7 @@
+spec/Geocoder/Provider/
+src/Geocoder/Provider/
+.gitignore
+LICENSE
+README.md
+composer.json
+phpspec.yml

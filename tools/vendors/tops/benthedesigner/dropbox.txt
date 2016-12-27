@@ -1,0 +1,7 @@
+Dropbox/
+examples/
+tests/
+.gitignore
+composer.json
+mit-license.md
+readme.md

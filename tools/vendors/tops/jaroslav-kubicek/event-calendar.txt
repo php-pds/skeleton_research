@@ -1,0 +1,5 @@
+EventCalendar/
+tests/
+.gitignore
+composer.json
+readme.md

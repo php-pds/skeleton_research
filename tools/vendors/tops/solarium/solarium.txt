@@ -1,0 +1,16 @@
+docs/
+examples/
+library/Solarium/
+phar/
+tests/
+.coveralls.yml
+.gitignore
+.travis.yml
+CHANGELOG.md
+CONTRIBUTING.md
+COPYING
+README.md
+build.xml
+composer.json
+phpunit.xml.dist
+phpunit.xml.travis

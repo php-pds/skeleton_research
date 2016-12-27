@@ -1,0 +1,12 @@
+Migrate/
+bin/
+docs/
+templates/
+tests/Command/
+.gitignore
+.travis.yml
+.twgit
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

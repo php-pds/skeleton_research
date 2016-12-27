@@ -1,0 +1,5 @@
+assets/
+README.md
+ScrollUp.php
+ScrollUpAsset.php
+composer.json

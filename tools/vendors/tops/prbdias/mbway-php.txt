@@ -1,0 +1,11 @@
+examples/
+src/prbdias/mbway/
+tests/
+wsdl/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

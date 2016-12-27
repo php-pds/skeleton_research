@@ -1,0 +1,8 @@
+docs/
+library/VMware/VCloud/
+samples/
+.editorconfig
+.gitignore
+README.md
+composer.json
+vCloudSDKforPHP-License.docx

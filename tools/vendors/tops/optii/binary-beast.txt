@@ -1,0 +1,11 @@
+examples/
+lib/
+tests/
+.gitignore
+BinaryBeast.php
+CHANGELOG.md
+LICENCE
+README.md
+apigen.neon
+composer.json
+terms.txt

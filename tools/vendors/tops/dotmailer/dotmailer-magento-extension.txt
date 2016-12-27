@@ -1,0 +1,13 @@
+code/Dotdigitalgroup/
+design/
+js/
+lib/connector/feefo/
+locale/en_US/
+modules/
+skin/
+.gitattributes
+.gitignore
+LICENSE.md
+README.md
+composer.json
+modman

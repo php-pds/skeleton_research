@@ -1,0 +1,14 @@
+admin/
+classes/Sprint/Options/
+install/
+locale/
+.gitignore
+LICENSE.txt
+README.md
+composer.json
+contributors.txt
+description.ru
+include.php
+loader.php
+options.php
+updater.php

@@ -1,0 +1,10 @@
+Component/
+DependencyInjection/
+Resources/config/
+Tests/
+.gitignore
+FeeltrFixtureLoaderBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

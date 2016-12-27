@@ -1,0 +1,6 @@
+Entity/
+.gitignore
+JimBlizzExtranetBundle.php
+LICENSE
+README.md
+composer.json

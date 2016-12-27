@@ -1,0 +1,14 @@
+build/
+resources/
+src/
+test/
+vendor/
+.env.example
+.gitignore
+CHANGELOG.md
+CONTRIBUTING.md
+LICENSE.md
+README.md
+composer.json
+composer.lock
+wp-cli.yml

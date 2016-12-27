@@ -1,0 +1,11 @@
+DependencyInjection/
+Reader/
+Resources/config/
+Tests/
+.gitignore
+EvlzPhpEXIFBundle.php
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

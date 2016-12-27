@@ -1,0 +1,11 @@
+goDB/
+tests/
+.gitattributes
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+composer.json
+cs.sh
+phpunit.xml.dist

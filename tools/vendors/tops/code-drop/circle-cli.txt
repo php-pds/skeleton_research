@@ -1,0 +1,22 @@
+assets/
+docs @ c98d64c
+sami/
+src/
+tests/
+.gitattributes
+.gitignore
+.gitmodules
+CHANGELOG.md
+LICENSE.txt
+README.md
+box.json
+build.xml
+circle
+circle-cli.private.yml.sample
+circle-cli.yml.sample
+circle.yml
+composer.json
+composer.lock
+events.php
+phpunit.xml.dist
+services.php

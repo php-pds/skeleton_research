@@ -1,0 +1,10 @@
+Classes/
+Documentation/
+Examples/
+.gitattributes
+.gitignore
+.travis.yml
+changelog.txt
+composer.json
+install.txt
+license.md

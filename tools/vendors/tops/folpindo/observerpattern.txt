@@ -1,0 +1,3 @@
+src/Subscribe/
+.gitignore
+composer.json

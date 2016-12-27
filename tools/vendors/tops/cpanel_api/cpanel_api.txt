@@ -1,0 +1,10 @@
+nbproject/
+.gitattributes
+.gitignore
+.travis.yml
+README.md
+blank.html
+composer.json
+config.example.php
+cpanel_api_cpanelAPI.php
+phpunit.xml

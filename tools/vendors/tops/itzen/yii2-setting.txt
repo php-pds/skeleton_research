@@ -1,0 +1,14 @@
+assets/js/
+controllers/
+messages/
+migrations/
+models/
+views/default/
+.gitignore
+Bootstrap.php
+Module.php
+README.md
+RedactorPlugins.php
+Setting.php
+composer.json
+yii2-setting-preview.png

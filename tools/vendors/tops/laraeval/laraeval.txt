@@ -1,0 +1,11 @@
+public/
+src/
+tests/
+.gitattributes
+.gitignore
+.travis.yml
+README.md
+composer.json
+laraeval-travis-build.sh
+phpunit.xml
+phpunit_loader.php

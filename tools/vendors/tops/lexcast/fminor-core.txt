@@ -1,0 +1,10 @@
+Chord/
+Command/
+Config/
+Generator/
+Request/
+Templating/
+LICENSE
+README.md
+RepertoireInterface.php
+composer.json

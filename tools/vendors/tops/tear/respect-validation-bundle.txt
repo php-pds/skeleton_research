@@ -1,0 +1,6 @@
+DependencyInjection/
+Resources/config/
+Services/
+README.md
+TearRespectValidationBundle.php
+composer.json

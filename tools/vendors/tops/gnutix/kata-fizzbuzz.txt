@@ -1,0 +1,12 @@
+src/
+tests/
+virtualization/
+.gitignore
+.gitmodules
+.travis.yml
+README.md
+Vagrantfile
+ansible.cfg
+composer.json
+composer.lock
+phpunit.xml.dist

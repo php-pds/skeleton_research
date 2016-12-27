@@ -1,0 +1,14 @@
+DependencyInjection/
+Exception/
+MailChimp/
+Resources/config/
+Tests/
+.gitignore
+.travis.yml
+CONTRIBUTORS.md
+CoderbyheartMailChimpBundle.php
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

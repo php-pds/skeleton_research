@@ -1,0 +1,12 @@
+documentation/
+lib/
+test/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+autoload.php
+composer.json
+composer.lock
+phpunit.xml
+requirements.txt

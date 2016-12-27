@@ -1,0 +1,7 @@
+Admin/
+Controller/
+DependencyInjection/
+Resources/views/Admin/
+NetLabsAdminExtensionsBundle.php
+README.md
+composer.json

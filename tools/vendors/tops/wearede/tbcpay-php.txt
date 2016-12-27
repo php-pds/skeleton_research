@@ -1,0 +1,7 @@
+docs/
+example/
+src/WeAreDe/TbcPay/
+.gitignore
+LICENSE
+README.md
+composer.json

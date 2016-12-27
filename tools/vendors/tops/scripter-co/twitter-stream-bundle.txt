@@ -1,0 +1,10 @@
+DependencyInjection/
+Event/
+Model/
+Request/
+Resources/config/
+.gitignore
+README.md
+RequestEvents.php
+TwitterStreamBundle.php
+composer.json

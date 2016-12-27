@@ -1,0 +1,7 @@
+src/Ymmtmsys/Properties/
+tests/unit/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json

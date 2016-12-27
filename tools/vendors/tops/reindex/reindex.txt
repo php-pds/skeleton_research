@@ -1,0 +1,16 @@
+bin/
+cache/
+etc/
+locale/
+log/
+plugins/
+services/
+src/ReIndex/
+themes/
+.gitignore
+Doxyfile
+LICENSE
+README.md
+bootstrap.php
+composer.json
+languages.txt

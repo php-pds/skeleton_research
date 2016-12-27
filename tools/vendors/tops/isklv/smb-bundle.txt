@@ -1,0 +1,7 @@
+DependencyInjection/
+Resources/config/
+SMB/
+Streams/
+README.md
+SMBBundle.php
+composer.json

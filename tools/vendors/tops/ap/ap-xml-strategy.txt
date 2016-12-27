@@ -1,0 +1,5 @@
+config/
+src/AP_XmlStrategy/
+Module.php
+README.md
+composer.json

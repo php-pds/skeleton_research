@@ -1,0 +1,3 @@
+trunk/
+.gitignore
+README.md

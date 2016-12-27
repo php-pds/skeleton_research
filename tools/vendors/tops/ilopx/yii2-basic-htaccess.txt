@@ -1,0 +1,8 @@
+test/
+{root}/
+.gitattributes
+.gitignore
+README.md
+composer.json
+example.png
+index.php

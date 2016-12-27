@@ -1,0 +1,11 @@
+DependencyInjection/
+Resources/
+Services/
+Tests/
+vendor/
+.gitignore
+.travis.yml
+README.md
+SOGEnomBundle.php
+composer.json
+phpunit.xml.dist

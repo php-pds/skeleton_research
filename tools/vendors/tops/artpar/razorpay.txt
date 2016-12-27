@@ -1,0 +1,12 @@
+non_composer_tests/
+src/
+tests/
+.gitignore
+.travis.yml
+CHANGELOG
+README.md
+Razorpay.php
+composer.json
+doc.md
+phpunit.xml.dist
+release.txt

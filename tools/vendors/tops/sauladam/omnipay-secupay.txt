@@ -1,0 +1,8 @@
+src/Omnipay/Secupay/
+tests/
+.gitignore
+.travis.yml
+CONTRIBUTING.md
+README.md
+composer.json
+phpunit.xml.dist

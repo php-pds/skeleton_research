@@ -1,0 +1,4 @@
+src/SymfonyDocumentor/DocumentorBundle/
+.gitignore
+README.md
+composer.json

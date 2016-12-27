@@ -1,0 +1,10 @@
+app/
+dev/tests/
+lib/
+public/
+.codeclimate.yml
+.gitignore
+.htaccess
+README.md
+composer.json
+index.php

@@ -1,0 +1,11 @@
+documentation/
+production/
+vendors/
+.bowerrc
+.gitignore
+LICENSE.txt
+README.md
+bower.json
+changelog.md
+composer.json
+package.json

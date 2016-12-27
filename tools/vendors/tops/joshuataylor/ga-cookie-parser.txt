@@ -1,0 +1,7 @@
+lib/
+src/GoogleAnalytics/CampaignTracking/
+tests/GoogleAnalytics/CampaignTracking/
+README.md
+autoload.php
+composer.json
+phpunit.xml

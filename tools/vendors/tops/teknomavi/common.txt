@@ -1,0 +1,11 @@
+src/
+tests/Teknomavi/Tests/Common/
+.gitattributes
+.gitignore
+.styleci.yml
+.travis.yml
+LICENSE
+README.md
+codecov.yml
+composer.json
+phpunit.xml

@@ -1,0 +1,10 @@
+LICENSE.txt
+README.md
+composer.json
+jqdesktop.jquery.json
+jquery.jqDesktop.js
+jquery.jqIcon.js
+jquery.jqLayout.js
+jquery.jqTaskBar.js
+jquery.jqWindow.js
+min.jquery.jqDesktop.js

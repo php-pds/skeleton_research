@@ -1,0 +1,4 @@
+lib/JpGraph/
+README-fabic.md
+README.md
+composer.json

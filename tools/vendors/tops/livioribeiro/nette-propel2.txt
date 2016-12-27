@@ -1,0 +1,6 @@
+bin/
+src/NettePropel2/
+.gitignore
+LICENSE
+README.md
+composer.json

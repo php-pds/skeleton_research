@@ -1,0 +1,5 @@
+src/Parallel/PhpUnit/
+.gitignore
+LICENSE
+README.md
+composer.json

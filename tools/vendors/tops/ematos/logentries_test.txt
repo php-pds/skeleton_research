@@ -1,0 +1,4 @@
+unit_tests/
+LeLogger.php
+README.md
+logentries.php

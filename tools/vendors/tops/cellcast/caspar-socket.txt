@@ -1,0 +1,4 @@
+src/Cellcast/CasparSocket/
+.gitignore
+composer.json
+phpunit.xml

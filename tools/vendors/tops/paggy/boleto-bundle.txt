@@ -1,0 +1,16 @@
+DependencyInjection/
+Helper/
+Library/
+Resources/
+Tests/
+Twig/
+.gitignore
+.travis.yml
+COPYING
+COPYRIGHT
+CREDITOS.txt
+LICENSE
+PaggyBoletoBundle.php
+README.md
+composer.json
+phpunit.xml.dist

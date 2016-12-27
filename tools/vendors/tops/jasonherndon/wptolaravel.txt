@@ -1,0 +1,5 @@
+config/
+src/
+vendor/
+README.md
+composer.json

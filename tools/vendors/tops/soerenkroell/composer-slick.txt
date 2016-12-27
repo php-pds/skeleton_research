@@ -1,0 +1,11 @@
+slick/
+.gitignore
+CONTRIBUTING.markdown
+LICENSE
+Makefile
+README.markdown
+bower.json
+component.json
+composer.json
+package.json
+slick.jquery.json

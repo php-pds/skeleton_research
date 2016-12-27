@@ -1,0 +1,4 @@
+etc/
+README.md
+composer.json
+registration.php

@@ -1,0 +1,10 @@
+lib/Paymill/
+samples/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+autoload.php
+build.xml
+composer.json

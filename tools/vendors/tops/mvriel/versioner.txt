@@ -1,0 +1,11 @@
+bin/
+src/MvRiel/Versioner/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+VERSION
+box.json
+composer.json
+composer.lock
+phpunit.dist.xml

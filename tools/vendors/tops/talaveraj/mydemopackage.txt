@@ -1,0 +1,7 @@
+src/DemoPackage/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json

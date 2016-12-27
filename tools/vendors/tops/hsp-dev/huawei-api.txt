@@ -1,0 +1,6 @@
+src/HSPDev/HuaweiApi/
+.gitignore
+LICENSE.md
+README.md
+composer.json
+demo.php

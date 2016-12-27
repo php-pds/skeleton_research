@@ -1,0 +1,12 @@
+config/
+public/
+src/
+view/
+.bowerrc
+.gitignore
+LICENSE
+README.md
+bower.json
+cli-config.php
+composer.json
+composer.phar

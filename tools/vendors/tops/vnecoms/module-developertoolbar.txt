@@ -1,0 +1,6 @@
+.settings/
+doc/static_files/
+src/app/code/Mgt/DeveloperToolbar/
+.gitignore
+README.md
+composer.json

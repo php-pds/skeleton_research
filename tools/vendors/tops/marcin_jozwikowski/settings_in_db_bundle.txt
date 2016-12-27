@@ -1,0 +1,10 @@
+Controller/
+DependencyInjection/
+Entity/
+Repository/
+Resources/
+Services/
+Tests/Controller/
+README.md
+SettingsInDBBundle.php
+composer.json

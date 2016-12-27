@@ -1,0 +1,9 @@
+Controller/
+DependencyInjection/
+Entity/Repository/
+Http/
+Resources/
+Service/
+CoreSiteCoreBundle.php
+README.md
+composer.json

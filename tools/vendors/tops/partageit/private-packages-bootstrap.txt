@@ -1,0 +1,7 @@
+skel/
+CHANGELOG.md
+LICENSE
+README.md
+bootstrap.php
+composer.json
+how-to-test.md

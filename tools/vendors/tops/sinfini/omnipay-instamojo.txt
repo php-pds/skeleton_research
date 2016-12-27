@@ -1,0 +1,6 @@
+src/Omnipay/Instamojo/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json

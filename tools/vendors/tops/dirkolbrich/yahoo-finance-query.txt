@@ -1,0 +1,10 @@
+example/
+src/
+tests/
+.gitignore
+CHANGELOG.md
+README.md
+TODO.md
+composer.json
+index.php
+phpunit.xml

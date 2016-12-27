@@ -1,0 +1,12 @@
+src/
+tests/phpt/
+.gitignore
+.php_cs
+.travis.yml
+CHANGELOG.md
+LICENCE.md
+README.md
+circle.yml
+composer.json
+dump-current.php
+phpunit.xml

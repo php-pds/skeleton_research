@@ -1,0 +1,12 @@
+Command/
+Console/
+DependencyInjection/
+Resources/config/
+Tests/Console/
+.gitignore
+LICENSE
+PerformerVagrantBundle.php
+README.md
+composer.json
+phpunit.xml.dist
+vagrant

@@ -1,0 +1,4 @@
+lib/SemanticWP/
+LICENSE
+README.md
+composer.json

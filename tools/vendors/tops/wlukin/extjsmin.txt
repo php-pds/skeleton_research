@@ -1,0 +1,7 @@
+locale/
+resources/
+src/ux/
+LICENSE.md
+README.md
+composer.json
+ext-all.js

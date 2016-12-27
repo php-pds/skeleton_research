@@ -1,0 +1,8 @@
+app/
+public/
+.gitignore
+LICENSE
+README.md
+cli-config.php
+composer.json
+config.php

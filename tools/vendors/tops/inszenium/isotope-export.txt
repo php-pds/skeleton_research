@@ -1,0 +1,7 @@
+assets/
+config/
+dca/
+languages/de/
+library/Isotope/Collection/
+README.md
+composer.json

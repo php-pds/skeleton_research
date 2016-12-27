@@ -1,0 +1,10 @@
+benchmark/
+example/
+src/KM/Saffron/
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE.txt
+README.md
+composer.json

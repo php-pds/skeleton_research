@@ -1,0 +1,5 @@
+examples/
+src/Mnohosten/
+.gitignore
+README.md
+composer.json

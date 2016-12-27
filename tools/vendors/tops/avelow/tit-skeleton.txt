@@ -1,0 +1,6 @@
+config/
+src/Acme/
+www/
+.gitignore
+README.md
+composer.json

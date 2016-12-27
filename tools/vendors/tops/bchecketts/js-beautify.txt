@@ -1,0 +1,14 @@
+js/
+python/
+web/
+.gitignore
+.npmignore
+.travis.yml
+CONTRIBUTING.md
+LICENSE
+Makefile
+README.md
+bower.json
+composer.json
+index.html
+package.json

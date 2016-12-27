@@ -1,0 +1,2 @@
+src/kapitanluffy/ResqueCronBundle/
+composer.json

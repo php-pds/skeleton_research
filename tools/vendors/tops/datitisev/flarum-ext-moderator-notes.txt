@@ -1,0 +1,9 @@
+.idea/
+js/forum/
+locale/
+src/
+.editorconfig
+.gitignore
+bootstrap.php
+composer.json
+composer.lock

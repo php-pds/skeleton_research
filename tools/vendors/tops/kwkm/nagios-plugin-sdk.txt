@@ -1,0 +1,7 @@
+src/Kwkm/NagiosPluginSDK/
+tests/
+.coveralls.yml
+.gitignore
+.travis.yml
+LICENSE
+composer.json

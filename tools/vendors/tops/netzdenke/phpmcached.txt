@@ -1,0 +1,6 @@
+src/PHPMCached/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,11 @@
+chunks/
+config/
+log/
+resources/
+src/
+CHANGELOG.txt
+INSTALLATION.txt
+Krexx.php
+LICENCE.txt
+README.rst
+composer.json

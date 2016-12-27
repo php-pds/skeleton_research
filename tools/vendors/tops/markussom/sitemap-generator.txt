@@ -1,0 +1,16 @@
+Build/
+Classes/
+Configuration/
+Documentation/
+Resources/Private/
+Tests/
+.codeclimate.yml
+.editorconfig
+.gitignore
+.travis.yml
+README.rst
+composer.json
+ext_emconf.php
+ext_icon.png
+ext_localconf.php
+ext_tables.sql

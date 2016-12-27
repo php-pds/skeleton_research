@@ -1,0 +1,15 @@
+backend/
+common/
+console/
+frontend/
+tests/
+.gitignore
+.htaccess
+INSTALL.md
+README.md
+composer.json
+runbehat
+runpostdeploy
+runpostdeploy.bat
+yiic
+yiic.bat

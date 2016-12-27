@@ -1,0 +1,15 @@
+Sniffs/
+config/
+src/
+tests/
+.gitattributes
+.gitignore
+.travis.yml
+FEATURES.md
+LICENCE
+README.md
+autoload.php
+bootstrap.php
+composer.json
+phpunit.xml.dist
+ruleset.xml

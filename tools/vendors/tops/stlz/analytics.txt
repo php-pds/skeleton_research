@@ -1,0 +1,5 @@
+src/Analytics/
+tests/
+.gitignore
+composer.json
+composer.lock

@@ -1,0 +1,10 @@
+css/
+js/
+modules/
+views/
+.codeclimate.yml
+README.md
+stanford_search_api.info
+stanford_search_api.install
+stanford_search_api.module
+stanford_search_api.views.inc

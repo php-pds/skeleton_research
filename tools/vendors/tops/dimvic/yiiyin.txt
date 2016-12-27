@@ -1,0 +1,7 @@
+src/
+.gitignore
+LICENSE.md
+README.md
+YiiyinModule.php
+composer.json
+phpcs.xml

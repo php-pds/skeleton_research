@@ -1,0 +1,5 @@
+src/Frostbit/Twitch/
+LICENSE
+README.md
+composer.json
+scrutinizer.yml

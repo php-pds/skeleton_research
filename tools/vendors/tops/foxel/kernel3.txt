@@ -1,0 +1,10 @@
+examples/
+kernel3/
+templater/
+tests/K3/
+.gitignore
+.travis.yml
+README.md
+bootstrap.php
+composer.json
+makePhar.php

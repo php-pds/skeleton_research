@@ -1,0 +1,8 @@
+database/
+resources/views/
+src/
+.gitignore
+LICENSE
+README.md
+composer.json
+erd_diagram.svg

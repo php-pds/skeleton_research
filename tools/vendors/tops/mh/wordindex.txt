@@ -1,0 +1,5 @@
+Classes/MH/WordIndex/
+Migrations/Mysql/
+Resources/
+Tests/Unit/Domain/Model/
+composer.json

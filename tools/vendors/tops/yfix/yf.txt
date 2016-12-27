@@ -1,0 +1,17 @@
+.dev/
+admin_modules/
+classes/
+libs/
+modules/
+plugins/
+share/
+templates/
+.coveralls.yml
+.gitignore
+.gitmodules
+.htaccess
+.travis.yml
+.yf_version
+README.md
+composer.json
+shippable.yml

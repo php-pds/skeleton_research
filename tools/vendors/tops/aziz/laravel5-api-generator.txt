@@ -1,0 +1,7 @@
+config/
+src/
+views/common/
+.gitignore
+LICENSE
+README.md
+composer.json

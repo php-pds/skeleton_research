@@ -1,0 +1,12 @@
+application/
+captcha/
+css/
+images/
+system/
+.gitignore
+.htaccess
+README.md
+composer.json
+index.php
+license.txt
+schema.sql

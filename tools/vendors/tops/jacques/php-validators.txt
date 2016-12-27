@@ -1,0 +1,13 @@
+.phan/
+bin/
+src/
+tests/
+.codeclimate.yml
+.gitattributes
+.gitignore
+.scrutinizer.yml
+.styleci.yml
+.travis.yml
+LICENSE
+README.md
+composer.json

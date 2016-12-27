@@ -1,0 +1,7 @@
+Application/
+Data/
+Public/
+ThinkPHP/
+.gitignore
+README.md
+composer.json

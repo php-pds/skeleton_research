@@ -1,0 +1,8 @@
+DependencyInjection/
+EntityManager/
+Lib/
+Resources/config/
+.gitignore
+NnmerUtilsBundle.php
+composer.json
+readme.md

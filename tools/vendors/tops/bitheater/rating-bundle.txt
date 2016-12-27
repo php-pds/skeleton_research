@@ -1,0 +1,12 @@
+DependencyInjection/
+Event/
+Manager/
+Model/
+Repository/
+Resources/config/
+.gitignore
+BitheaterRatingBundle.php
+LICENSE
+README.md
+VoteEvents.php
+composer.json

@@ -1,0 +1,12 @@
+lib/PHPTracker/
+test/
+.travis.yml
+CHANGELOG
+LICENSE
+README.md
+composer.json
+example_announce.php
+example_seeder.php
+example_torrent_creator.php
+mysql.sql
+phpunit.xml

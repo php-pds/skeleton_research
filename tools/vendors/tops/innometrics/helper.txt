@@ -1,0 +1,8 @@
+bin/
+docs/
+lib/Innometrics/
+schema/
+tests/
+.gitignore
+README.md
+composer.json

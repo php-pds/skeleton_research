@@ -1,0 +1,4 @@
+src/stanleygomesdasilva/composer-package-test/
+.gitignore
+README.md
+composer.json

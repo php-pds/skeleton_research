@@ -1,0 +1,8 @@
+example-views/
+helpers/
+tests/
+web/
+widgets/
+CHANGELOG.md
+README.md
+composer.json

@@ -1,0 +1,7 @@
+classes/
+.gitignore
+LICENSE.GPL.txt
+LICENSE.LGPL.txt
+README.md
+SBBCodeParser.php
+composer.json

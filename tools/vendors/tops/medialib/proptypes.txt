@@ -1,0 +1,5 @@
+Classes/Medialib/PropTypes/
+Configuration/
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,10 @@
+examples/
+src/Uploader/
+tests/Uploader/
+vendor/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml

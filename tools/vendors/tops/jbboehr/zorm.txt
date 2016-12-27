@@ -1,0 +1,9 @@
+src/
+tests/
+.editorconfig
+.gitignore
+.phpstorm.meta.php
+Makefile
+composer.json
+composer.lock
+phpunit.xml.dist

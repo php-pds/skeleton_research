@@ -1,0 +1,3 @@
+src/Bmysql/
+composer.json
+composer.json~

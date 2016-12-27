@@ -1,0 +1,3 @@
+Repository.php
+Wechat.php
+composer.json

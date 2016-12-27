@@ -1,0 +1,14 @@
+app/
+doc/easybook-doc-en/
+src/Easybook/
+.coveralls.yml
+.gitignore
+.travis.yml
+CONTRIBUTORS.md
+LICENSE.md
+README.md
+UPGRADE.md
+book
+composer.json
+composer.lock
+phpunit.xml

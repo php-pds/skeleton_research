@@ -1,0 +1,3 @@
+Ponteiro/Guzzle/Plugin/
+README.md
+composer.json

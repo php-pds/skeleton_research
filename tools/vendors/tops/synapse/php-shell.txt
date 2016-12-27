@@ -1,0 +1,8 @@
+spec/Neuron/Shell/
+src/Neuron/Shell/
+.gitignore
+.travis.yml
+README.md
+composer.json
+composer.lock
+phpspec.yml

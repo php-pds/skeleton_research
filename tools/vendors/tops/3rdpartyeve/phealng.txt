@@ -1,0 +1,9 @@
+lib/Pheal/
+tests/
+.gitignore
+.rmt.yml
+CHANGELOG
+LICENSE.txt
+README.md
+composer.json
+phpunit.xml

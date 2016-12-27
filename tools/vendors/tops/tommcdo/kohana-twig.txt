@@ -1,0 +1,11 @@
+classes/
+config/
+tests/
+vendor/
+.gitmodules
+.travis.yml
+README.md
+composer.json
+init.php
+phpunit.php
+phpunit.xml

@@ -1,0 +1,7 @@
+features/
+lib/
+.gitignore
+.travis.yml
+LICENSE
+behat.yml.dist
+composer.json

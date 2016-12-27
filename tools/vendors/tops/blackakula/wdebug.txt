@@ -1,0 +1,7 @@
+src/Wdebug/
+.gitignore
+CHANGELOG.md
+LICENSE
+README.md
+composer.json
+example.php

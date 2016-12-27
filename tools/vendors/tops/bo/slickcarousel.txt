@@ -1,0 +1,16 @@
+Classes/DataProcessing/
+Configuration/
+Resources/
+.gitignore
+Gruntfile.js
+_scrutinizer.yml
+composer.json
+ext_conf_template.txt
+ext_emconf.php
+ext_icon.gif
+ext_localconf.php
+ext_tables.php
+ext_tables.sql
+package.json
+readme.md
+slick.svg

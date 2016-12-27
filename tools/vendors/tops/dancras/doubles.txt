@@ -1,0 +1,11 @@
+src/Doubles/
+tests/
+.gitattributes
+.gitignore
+.travis.yml
+LICENSE-GPL
+LICENSE-MIT
+README.markdown
+composer.json
+composer.lock
+phpunit.xml

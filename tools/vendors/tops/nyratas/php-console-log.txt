@@ -1,0 +1,5 @@
+examples/
+src/PHPConsoleLog/
+LICENSE.md
+README.md
+composer.json

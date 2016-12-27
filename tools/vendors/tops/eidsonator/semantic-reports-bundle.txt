@@ -1,0 +1,11 @@
+Classes/
+Controller/
+DependencyInjection/
+Resources/
+Tests/Controller/
+lib/
+sample_dashboards/
+LICENSE
+README.md
+SemanticReportsBundle.php
+composer.json

@@ -1,0 +1,7 @@
+spec/
+src/
+.editorconfig
+.gitignore
+.travis.yml
+composer.json
+phpspec.yml.dist

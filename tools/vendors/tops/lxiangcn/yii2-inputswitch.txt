@@ -1,0 +1,6 @@
+assets/
+views/
+README.md
+Switcher.php
+SwitcherAsset.php
+composer.json

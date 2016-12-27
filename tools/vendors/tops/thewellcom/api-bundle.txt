@@ -1,0 +1,4 @@
+Api/
+Controller/
+TheWellComApiBundle.php
+composer.json

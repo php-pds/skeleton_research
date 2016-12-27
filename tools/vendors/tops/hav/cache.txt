@@ -1,0 +1,16 @@
+src/Cache/
+test/
+webroot/
+.csslintrc
+.gitignore
+.html-minifier.conf
+.htmlhintrc
+.phpcs.xml
+.phpmd.xml
+.phpunit.xml
+.scrutinizer.yml
+.travis.yml
+README.md
+autoloader.php
+composer.json
+travis.yml

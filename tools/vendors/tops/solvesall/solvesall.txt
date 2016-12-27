@@ -1,0 +1,6 @@
+www/
+.gitignore
+LICENSE
+README.md
+icon.png
+splash.png

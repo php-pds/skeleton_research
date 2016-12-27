@@ -1,0 +1,6 @@
+src/Trello/
+tests/
+.gitignore
+README
+composer.json
+phpunit.xml.dist

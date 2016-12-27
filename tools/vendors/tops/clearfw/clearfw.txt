@@ -1,0 +1,4 @@
+clearbricks/
+core/
+README.md
+composer.json

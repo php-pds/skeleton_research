@@ -1,0 +1,5 @@
+src/ThinPdo/
+CONTRIBUTING
+README.md
+composer.json
+license

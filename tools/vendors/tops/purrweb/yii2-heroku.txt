@@ -1,0 +1,4 @@
+templates/
+HerokuGeneratorController.php
+README.md
+composer.json

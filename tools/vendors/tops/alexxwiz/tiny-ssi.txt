@@ -1,0 +1,6 @@
+test/
+.gitignore
+License.md
+Readme.md
+composer.json
+tiny_ssi.php

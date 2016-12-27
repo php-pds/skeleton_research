@@ -1,0 +1,9 @@
+example/
+test/
+LICENSE
+VERSION
+composer.json
+history.md
+htmlgen.php
+phpunit.xml
+readme.md

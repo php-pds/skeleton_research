@@ -1,0 +1,8 @@
+bin/
+public/
+script/
+src/
+tests/
+README.md
+apache.conf
+phpunit.xml

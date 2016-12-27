@@ -1,0 +1,13 @@
+Configuration/
+DependencyInjection/
+EventListener/
+Lock/
+Manager/
+Resources/config/
+Tests/
+.gitignore
+IXarlieMutexBundle.php
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

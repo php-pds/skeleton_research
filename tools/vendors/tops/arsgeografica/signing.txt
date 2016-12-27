@@ -1,0 +1,8 @@
+Tests/
+.gitignore
+.travis.yml
+BadSignatureException.php
+README.md
+Signer.php
+composer.json
+phpunit.xml

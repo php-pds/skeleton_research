@@ -1,0 +1,6 @@
+.vscode/
+src/
+test/
+.gitignore
+README.md
+global.json

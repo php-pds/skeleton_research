@@ -1,0 +1,9 @@
+base/
+data/
+includes/
+settings/
+templates/
+.gitignore
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,5 @@
+extras/
+lib/SimpleORM/
+README.mediawiki
+composer.json
+debug.inc.php

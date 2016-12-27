@@ -1,0 +1,4 @@
+src/PhpPlus/
+LICENSE
+README.md
+composer.json

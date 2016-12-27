@@ -1,0 +1,8 @@
+Tests/
+src/CliGenerator/
+.travis.yml
+LICENSE.md
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

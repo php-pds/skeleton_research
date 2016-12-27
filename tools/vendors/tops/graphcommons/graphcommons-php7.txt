@@ -1,0 +1,6 @@
+GraphCommons/
+test/
+README.md
+composer.json
+txt.license
+txt.version

@@ -1,0 +1,7 @@
+src/SEOCheckup/Magento/Command/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock
+n98-magerun.yaml

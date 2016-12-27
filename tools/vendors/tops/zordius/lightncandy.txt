@@ -1,0 +1,16 @@
+.github/
+build/
+specs/
+src/
+tests/
+.gitignore
+.gitmodules
+.scrutinizer.yml
+.travis.yml
+HISTORY.md
+LICENSE.txt
+README.md
+UPGRADE.md
+composer.json
+example_debug.png
+phpunit.xml

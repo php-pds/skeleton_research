@@ -1,0 +1,6 @@
+src/
+.styleci.yml
+CHANGELOG.md
+LICENSE.md
+README.md
+composer.json

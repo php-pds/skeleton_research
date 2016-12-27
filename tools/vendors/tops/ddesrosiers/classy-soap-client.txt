@@ -1,0 +1,5 @@
+src/DDesrosiers/ClassySoapClient/
+.gitignore
+LICENSE
+README.md
+composer.json

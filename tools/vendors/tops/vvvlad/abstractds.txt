@@ -1,0 +1,8 @@
+examples/
+nbproject/
+src/AbstractDS/
+tests/
+.gitignore
+.travis.yml
+README.md
+composer.json

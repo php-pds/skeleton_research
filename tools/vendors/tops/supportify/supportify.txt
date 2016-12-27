@@ -1,0 +1,10 @@
+lib/Supportify/
+test/
+.gitignore
+.travis.yml
+CONTRIBUTING.md
+LICENSE
+README.md
+SHARED_HOST_INSTALL.md
+autoload.php
+composer.json

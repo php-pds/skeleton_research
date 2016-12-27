@@ -1,0 +1,9 @@
+ThePost/
+res/
+.gitignore
+.htaccess
+LICENCE.md
+README.md
+composer.json
+favicon.ico
+index.php

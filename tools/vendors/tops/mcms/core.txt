@@ -1,0 +1,17 @@
+config/
+database/
+resources/views/maillog/
+src/
+.editorconfig
+.gitignore
+.styleci.yml
+CHANGELOG.md
+CONDUCT.md
+CONTRIBUTING.md
+ConfigFiles.md
+LICENSE.md
+README.md
+SettingsManager.md
+composer.json
+images.md
+satis.md

@@ -1,0 +1,17 @@
+assets/
+components/
+config/
+migrations/
+modules/
+runtime/
+screens/
+web/
+.bowerrc
+.gitignore
+README.md
+composer.json
+nginx-host-example
+requirements.php
+specification.txt
+yii
+yii.bat

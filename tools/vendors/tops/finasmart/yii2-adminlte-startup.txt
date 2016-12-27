@@ -1,0 +1,8 @@
+views/
+web/
+.gitignore
+ExampleWidget.php
+Module.php
+README.md
+SideMenu.php
+composer.json

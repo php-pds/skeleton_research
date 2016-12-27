@@ -1,0 +1,11 @@
+lib/
+test/
+thrift/CroutonThrift/
+vendor/
+.gitignore
+LICENSE
+README.md
+VERSION
+circle.yml
+composer.json
+composer.lock

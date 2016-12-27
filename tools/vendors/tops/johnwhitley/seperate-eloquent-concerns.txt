@@ -1,0 +1,12 @@
+Illuminate/Database/Eloquent/
+database/migrations/
+test-src/Valid/
+tests/
+.gitignore
+CodeSnifferRuleset.xml
+LICENSE
+Makefile
+README.md
+composer.json
+composer.lock
+phpunit.xml

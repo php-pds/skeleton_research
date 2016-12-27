@@ -1,0 +1,4 @@
+.gitignore
+AddressableTrait.php
+README.md
+composer.json

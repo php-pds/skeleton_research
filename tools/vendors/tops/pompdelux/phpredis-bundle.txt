@@ -1,0 +1,9 @@
+Client/
+DataCollector/
+DependencyInjection/
+Logger/
+Resources/
+LICENSE
+PHPRedisBundle.php
+README.md
+composer.json

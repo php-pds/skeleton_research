@@ -1,0 +1,11 @@
+Controller/
+DependencyInjection/
+Exception/
+Form/Type/
+Resources/
+Service/
+Tests/Service/
+.gitignore
+MetaclassAuthenticationGuardBundle.php
+README.md
+composer.json

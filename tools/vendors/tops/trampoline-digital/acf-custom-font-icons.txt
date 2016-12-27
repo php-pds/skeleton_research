@@ -1,0 +1,9 @@
+.idea/
+assets/
+lang/
+.gitignore
+README.md
+acf-custom-font-icons.php
+acf-custom_font_icons-v5.php
+composer.json
+readme.txt

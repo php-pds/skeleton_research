@@ -1,0 +1,11 @@
+config/
+src/Workspace/
+test/
+view/workspace/
+.gitignore
+.travis.yml
+LICENSE.txt
+Module.php
+README.md
+composer.json
+phpunit.xml

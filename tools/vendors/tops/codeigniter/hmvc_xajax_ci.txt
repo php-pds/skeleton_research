@@ -1,0 +1,11 @@
+application/
+src/codeigniter/
+system/
+xajax_js/
+.gitignore
+.htaccess
+LICENSE
+README.md
+composer.json
+composer.phar
+index.php

@@ -1,0 +1,7 @@
+app/
+src/Unoegohh/UserBundle/
+web/
+.gitignore
+README.md
+composer.json
+composer.lock

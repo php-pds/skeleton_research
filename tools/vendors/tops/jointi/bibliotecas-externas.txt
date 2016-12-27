@@ -1,0 +1,6 @@
+Canvas/
+Timthumb/
+ckeditor/
+.gitignore
+README.md
+composer.json

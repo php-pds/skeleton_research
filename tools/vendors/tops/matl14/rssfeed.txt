@@ -1,0 +1,11 @@
+src/
+test/
+webroot/
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+autoloader.php
+composer.json
+phpunit
+phpunit.phar

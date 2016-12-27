@@ -1,0 +1,7 @@
+examples/
+nbproject/
+src/
+vendor/
+LICENSE
+composer.json
+composer.lock

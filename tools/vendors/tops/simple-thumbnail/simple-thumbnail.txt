@@ -1,0 +1,8 @@
+public/
+src/SThumb/
+tests/SThumb/
+.gitignore
+MIT-LICENSE
+README.md
+composer.json
+phpunit.xml.dist

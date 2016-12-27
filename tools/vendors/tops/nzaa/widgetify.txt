@@ -1,0 +1,11 @@
+code/
+css/
+images/
+scripts/
+templates/Layout/
+thirdparty/codemirror-3.18/
+.gitignore
+LICENSE
+README.md
+_config.php
+composer.json

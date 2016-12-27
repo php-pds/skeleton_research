@@ -1,0 +1,7 @@
+test_files/
+README.md
+composer.json
+nomad_mimemail.en.doc.html
+nomad_mimemail.es.doc.html
+nomad_mimemail.inc.php
+nomad_mimemail.test.php

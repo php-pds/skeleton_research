@@ -1,0 +1,15 @@
+doc/
+lib/
+usr/
+var/
+www/
+.gitattributes
+.gitmodules
+.php_cs
+Gruntfile-config.js
+Gruntfile.js
+README-GIT.md
+README-front-end.md
+README.md
+composer.json
+package.json

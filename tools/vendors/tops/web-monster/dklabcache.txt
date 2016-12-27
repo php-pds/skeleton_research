@@ -1,0 +1,5 @@
+Cache/Backend/
+Zend/
+.htaccess
+README.md
+composer.json

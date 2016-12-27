@@ -1,0 +1,13 @@
+integration-tests/
+src/LaunchDarkly/
+tests/
+.gitignore
+CHANGELOG.md
+CONTRIBUTING.md
+LICENSE.txt
+README.md
+VERSION
+circle.yml
+composer.json
+composer.lock
+phpunit.xml

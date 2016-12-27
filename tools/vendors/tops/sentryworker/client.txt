@@ -1,0 +1,4 @@
+src/SentryWorker/
+.gitignore
+README.md
+composer.json

@@ -1,0 +1,11 @@
+collection/input/
+controller/
+database/
+directory/
+http/
+interfaces/
+model/
+postinstall/
+theme/css/
+views/
+composer.json

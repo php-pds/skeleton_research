@@ -1,0 +1,7 @@
+src/
+test/
+LICENSE
+README.md
+autoload.php
+composer.json
+omitted_endpoints.md

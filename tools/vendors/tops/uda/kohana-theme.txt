@@ -1,0 +1,9 @@
+classes/
+config/
+static/
+twigs/html/
+views/html/
+.gitignore
+README.md
+composer.json
+init.php

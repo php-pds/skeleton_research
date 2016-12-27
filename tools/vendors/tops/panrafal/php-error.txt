@@ -1,0 +1,6 @@
+example/
+src/
+.gitattributes
+.gitignore
+Readme.md
+composer.json

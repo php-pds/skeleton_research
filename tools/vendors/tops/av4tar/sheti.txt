@@ -1,0 +1,15 @@
+.mage/
+config/
+data/
+docs/img/
+module/
+public/
+.gitignore
+.php_cs
+.travis.yml
+LICENSE
+README.md
+RoboFile.php
+composer.json
+init_autoloader.php
+runtests.sh

@@ -1,0 +1,8 @@
+src/
+tests/
+.travis.yml
+Careerjet_API.php
+README.md
+composer.json
+composer.lock
+phpunit.xml

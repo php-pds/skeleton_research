@@ -1,0 +1,11 @@
+ci/
+docs/
+src/PhpOrient/
+tests/
+.gitignore
+.travis.yml
+LICENSE.md
+Makefile
+README.md
+composer.json
+phpunit.xml

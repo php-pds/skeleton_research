@@ -1,0 +1,5 @@
+src/Aysheka/Socket/
+test/
+.gitignore
+composer.json
+readme.md

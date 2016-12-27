@@ -1,0 +1,7 @@
+Tests/
+lib/
+src/Hautelook/Phpass/
+.gitignore
+.travis.yml
+README.md
+composer.json

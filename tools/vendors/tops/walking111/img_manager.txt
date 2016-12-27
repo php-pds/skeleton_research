@@ -1,0 +1,3 @@
+ImgManager.php
+README.md
+composer.json

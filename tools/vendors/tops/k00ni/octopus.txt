@@ -1,0 +1,8 @@
+bin/
+examples/
+repository/
+src/Octopus/
+tests/src/Octopus/
+.gitignore
+composer.json
+phpunit.xml

@@ -1,0 +1,10 @@
+bin/
+src/LooplineSystems/CloseIoApiWrapper/
+tests/
+.coveralls.yml
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.phar

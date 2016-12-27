@@ -1,0 +1,9 @@
+config/
+database/
+resources/views/
+src/
+.gitignore
+LICENSE.md
+README.md
+composer.json
+phpcs.xml

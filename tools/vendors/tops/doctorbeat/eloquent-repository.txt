@@ -1,0 +1,6 @@
+src/DoctorBeat/EloquentRepository/
+tests/
+.gitignore
+README.md
+composer.json
+composer.lock

@@ -1,0 +1,5 @@
+src/MatthiasNoback/MicrosoftTranslatorBundle/
+.gitignore
+LICENSE
+README.md
+composer.json

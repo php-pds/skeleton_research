@@ -1,0 +1,12 @@
+src/shina/controlmybudget/
+test/
+.gitignore
+Dockerfile
+LICENSE
+README.md
+composer.json
+composer.lock
+docker-build.sh
+docker-run.sh
+docker-test.sh
+dotdeb.list

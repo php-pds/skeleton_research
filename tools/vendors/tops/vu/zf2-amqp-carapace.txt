@@ -1,0 +1,14 @@
+config/
+src/Vu/Zf2AMQPCarapace/
+test/Vu/ZF2AMQPCarapace/
+.gitignore
+.gitmodules
+.travis.yml
+LICENSE.txt
+Module.php
+README.md
+bootstrap.php
+composer.json
+composer.phar
+init_autoloader.php
+phpunit.xml.dist

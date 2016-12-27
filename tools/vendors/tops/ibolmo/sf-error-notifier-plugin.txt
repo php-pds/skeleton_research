@@ -1,0 +1,7 @@
+config/
+lib/
+modules/sfErrorNotifier/templates/
+LICENSE
+README.md
+composer.json
+package.xml

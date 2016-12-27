@@ -1,0 +1,9 @@
+src/Mcpruitt/FileQueue/
+tests/
+.editorconfig
+.gitignore
+.travis.yml
+LICENSE.txt
+README.md
+composer.json
+phpunit.xml

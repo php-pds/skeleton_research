@@ -1,0 +1,7 @@
+lib/
+test/
+.travis.yml
+LICENSE
+README.md
+autoload.php
+composer.json

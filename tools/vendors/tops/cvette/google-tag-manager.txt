@@ -1,0 +1,6 @@
+Configuration/
+Resources/Private/
+.gitignore
+LICENSE
+README.md
+composer.json

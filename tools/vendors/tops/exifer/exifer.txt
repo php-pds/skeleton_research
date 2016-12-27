@@ -1,0 +1,7 @@
+docs/specifications/
+lib/Exifer/
+tests/
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

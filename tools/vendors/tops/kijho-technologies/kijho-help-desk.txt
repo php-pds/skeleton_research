@@ -1,0 +1,6 @@
+app/
+src/Kijho/HelpDeskBundle/
+.gitignore
+README.md
+composer.json
+composer.lock

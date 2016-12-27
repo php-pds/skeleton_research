@@ -1,0 +1,8 @@
+demos/Zend/Gdata/
+documentation/
+library/Zend/
+tests/
+INSTALL.txt
+LICENSE.txt
+README.txt
+composer.json

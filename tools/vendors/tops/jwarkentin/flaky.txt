@@ -1,0 +1,10 @@
+doc/
+dupe-test/
+src/
+.gitignore
+.npmignore
+LICENSE
+README.md
+composer.json
+flaky.js
+package.json

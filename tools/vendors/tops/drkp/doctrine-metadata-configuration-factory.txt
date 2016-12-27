@@ -1,0 +1,9 @@
+spec/DRKP/ZF3Doctrine/
+src/DRKP/ZF3Doctrine/
+.gitignore
+.scrutinizer.yml
+LICENSE.md
+README.md
+composer.json
+coverage.xml
+phpspec.yml.dist

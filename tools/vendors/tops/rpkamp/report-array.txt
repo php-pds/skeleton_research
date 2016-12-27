@@ -1,0 +1,9 @@
+src/ReportArray/
+tests/ReportArray/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.dist.xml

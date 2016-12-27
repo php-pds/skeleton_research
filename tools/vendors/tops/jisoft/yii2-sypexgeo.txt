@@ -1,0 +1,6 @@
+LICENSE.md
+README.md
+SxGeo.php
+SxGeoCityMax.dat
+Sypexgeo.php
+composer.json

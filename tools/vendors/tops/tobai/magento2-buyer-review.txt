@@ -1,0 +1,10 @@
+Block/Review/
+Model/
+Setup/
+Test/Unit/
+etc/
+view/frontend/
+LICENSE.txt
+README.md
+composer.json
+registration.php

@@ -1,0 +1,15 @@
+brain/
+library/fluxsauce/
+propel/
+.gitignore
+.travis.yml
+LICENSE.md
+README.md
+build.properties
+composer.json
+switchboard.drush.inc
+switchboard.drush.sw_auth.inc
+switchboard.drush.sw_project.inc
+switchboard.drush.sw_site.inc
+switchboard.utilities.inc
+switchboard.validators.inc

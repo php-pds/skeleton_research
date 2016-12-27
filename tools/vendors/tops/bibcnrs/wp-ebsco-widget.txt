@@ -1,0 +1,17 @@
+actions/
+css/
+javascripts/
+test/
+views/
+wordpress/
+.gitignore
+.travis.yml
+LICENCE.txt
+README.md
+composer.json
+config.php
+docker-compose.yml
+ebsco-widget.php
+index.php
+makefile
+phpunit.xml

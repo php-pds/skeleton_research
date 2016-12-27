@@ -1,0 +1,3 @@
+src/Paginator/
+LICENSE
+composer.json

@@ -1,0 +1,7 @@
+assets/css/
+LICENSE.txt
+Persona.php
+PersonaUserIdentity.php
+PersonaWidget.php
+README.md
+composer.json

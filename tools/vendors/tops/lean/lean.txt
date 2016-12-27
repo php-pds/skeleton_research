@@ -1,0 +1,3 @@
+Lean/
+README.md
+composer.json

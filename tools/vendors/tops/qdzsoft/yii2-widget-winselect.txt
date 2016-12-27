@@ -1,0 +1,8 @@
+assets/js/
+LICENSE
+README.md
+WinSelectAsset.php
+WinSelectGridView.php
+WinSelectPopupAsset.php
+WinSelectWidget.php
+composer.json

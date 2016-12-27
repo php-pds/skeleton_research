@@ -1,0 +1,15 @@
+Annotation/
+Aop/
+DependencyInjection/
+Exception/
+Resources/config/
+Services/
+Tests/
+.coveralls.yml
+.gitignore
+.travis.yml
+EasysSimpleCacheBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

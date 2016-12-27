@@ -1,0 +1,10 @@
+Command/
+CompilerPass/
+DependencyInjection/
+ImportHelper/
+Reader/
+Resources/config/
+.gitignore
+ClickAndMortarImportBundle.php
+README.md
+composer.json

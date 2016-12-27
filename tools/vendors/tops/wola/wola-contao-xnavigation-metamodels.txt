@@ -1,0 +1,6 @@
+module/
+src/Netzmacht/Contao/XNavigation/MetaModels/
+.gitattributes
+.gitignore
+README.md
+composer.json

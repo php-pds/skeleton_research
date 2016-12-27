@@ -1,0 +1,8 @@
+data/
+src/Lukaswhite/UkPostcodes/
+tests/
+.gitignore
+README.md
+composer.json
+composer.lock
+phpunit.xml

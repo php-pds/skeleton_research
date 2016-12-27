@@ -1,0 +1,7 @@
+.gitignore
+Dailymotion.php
+DailymotionTest.php
+LICENSE
+README.md
+composer.json
+dm_ca_chain_bundle.crt

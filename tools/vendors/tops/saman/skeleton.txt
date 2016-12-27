@@ -1,0 +1,12 @@
+app/
+log/
+temp/
+tests/
+vendor/
+www/
+.gitignore
+.htaccess
+composer.json
+composer.lock
+license.md
+readme.md

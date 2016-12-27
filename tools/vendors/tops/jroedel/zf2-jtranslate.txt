@@ -1,0 +1,10 @@
+config/
+language/
+src/JTranslate/
+view/j-translate/j-translate/
+.gitignore
+LICENSE
+Module.php
+README.md
+autoload_classmap.php
+composer.json

@@ -1,0 +1,9 @@
+js/
+less/forum/
+locale/
+src/Listeners/
+.gitignore
+LICENSE
+README.md
+bootstrap.php
+composer.json

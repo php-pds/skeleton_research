@@ -1,0 +1,9 @@
+DependencyInjection/
+Libraries/
+Resources/config/
+Services/
+.gitignore
+IQ2iPrestaShopWebServiceBundle.php
+LICENCE
+README.md
+composer.json

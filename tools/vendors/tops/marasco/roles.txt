@@ -1,0 +1,7 @@
+src/
+.editorconfig
+.php_cs
+.styleci.yml
+LICENSE
+README.md
+composer.json

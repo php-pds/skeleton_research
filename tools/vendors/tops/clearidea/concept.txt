@@ -1,0 +1,11 @@
+example/
+src/
+tests/
+.editorconfig
+.gitignore
+.travis.yml
+Gruntfile.js
+README.md
+VERSIONLOG.md
+composer.json
+package.json

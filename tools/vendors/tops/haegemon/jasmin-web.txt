@@ -1,0 +1,10 @@
+examples/
+src/
+tests/
+vendor/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock

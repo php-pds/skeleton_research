@@ -1,0 +1,10 @@
+3rdparty/
+code/
+css/
+javascript/
+templates/
+.gitignore
+LICENSE
+README.md
+_config.php
+composer.json

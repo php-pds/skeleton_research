@@ -1,0 +1,4 @@
+src/Aldee/ApiAuthBundle/
+.gitignore
+README.md
+composer.json

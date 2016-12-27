@@ -1,0 +1,12 @@
+Controller/
+DependencyInjection/
+Resources/
+Tests/
+Wrapper/
+.gitignore
+.travis.yml
+ChristianVermeulenPostalcodeBundle.php
+README.md
+composer.json
+composer.phar
+phpunit.xml.dist

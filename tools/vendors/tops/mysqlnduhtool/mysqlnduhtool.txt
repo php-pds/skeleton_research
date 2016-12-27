@@ -1,0 +1,13 @@
+src/MySQLndUhTool/
+tests/
+vendor/Symfony/Component/
+.gitmodules
+.travis.yml
+LICENSE
+README.md
+autoload.php
+compile
+composer.json
+mysqlnduhtool.phar
+phpunit.xml
+test.php

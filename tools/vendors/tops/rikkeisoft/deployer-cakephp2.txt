@@ -1,0 +1,8 @@
+bin/
+key/
+shared/
+stage/
+.gitignore
+README.md
+composer.json
+deploy.php

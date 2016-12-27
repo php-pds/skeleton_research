@@ -1,0 +1,5 @@
+Entity/
+Resources/
+ElorfinUserBundle.php
+README.md
+composer.json

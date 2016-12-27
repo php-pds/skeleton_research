@@ -1,0 +1,9 @@
+bin/
+examples/
+spec/Betfair/
+src/Betfair/
+tests/
+.gitignore
+README.md
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,6 @@
+bin/
+kata/
+vendor/
+.gitignore
+README.md
+composer.json

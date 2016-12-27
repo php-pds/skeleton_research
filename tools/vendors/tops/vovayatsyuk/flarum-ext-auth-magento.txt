@@ -1,0 +1,11 @@
+js/
+less/
+locale/
+resources/docs/images/
+src/
+.gitattributes
+.gitignore
+README.md
+bootstrap.php
+composer.json
+icon.svg

@@ -1,0 +1,4 @@
+src/AgileSocial/
+LICENSE
+README.md
+composer.json

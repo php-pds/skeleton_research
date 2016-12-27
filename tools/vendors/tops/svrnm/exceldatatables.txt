@@ -1,0 +1,7 @@
+examples/
+spec/Svrnm/ExcelDataTables/
+src/Svrnm/ExcelDataTables/
+.gitignore
+LICENSE
+README.md
+composer.json

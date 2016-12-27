@@ -1,0 +1,3 @@
+src/JayFrancis/WebVTT/
+README.md
+composer.json

@@ -1,0 +1,9 @@
+DependencyInjection/
+Entity/
+Repository/
+Resources/config/
+Service/
+.gitignore
+Electro2MysqlPostfixAdminBundle.php
+README.md
+composer.json

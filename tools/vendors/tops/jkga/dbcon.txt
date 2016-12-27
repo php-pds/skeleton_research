@@ -1,0 +1,10 @@
+dbcon/
+dbconUnitTesting/dbcon/
+example/
+vendor/
+.gitignore
+LICENSE
+README.md
+composer.json
+dbcon.php
+phpunit.xml

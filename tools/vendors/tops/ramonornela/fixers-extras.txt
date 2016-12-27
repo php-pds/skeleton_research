@@ -1,0 +1,5 @@
+src/ROExtraFixer/CS/Fixer/
+.gitignore
+README.md
+composer.json
+composer.lock

@@ -1,0 +1,14 @@
+examples/
+nbproject/
+src/
+tests/
+tools/
+.gitattributes
+.gitignore
+.travis.yml
+appveyor.yml
+composer.json
+contributing.md
+license.md
+readme.md
+readme_2.x.md

@@ -1,0 +1,10 @@
+doc/
+src/Likibu/
+.gitignore
+LICENSE
+LikibuClient.phar
+README.md
+box.json
+composer.json
+composer.lock
+index.php

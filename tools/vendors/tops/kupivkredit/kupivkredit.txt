@@ -1,0 +1,9 @@
+doc/
+examples/
+src/Kupivkredit/
+tests/
+.gitignore
+CHANGELOG.md
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,14 @@
+Application/Framework/Poseiden/Core/
+Configuration/
+Tests/
+Web/
+.gitattributes
+.gitignore
+.travis.yml
+Changelog.txt
+README.md
+arduinoClient.php
+composer.json
+composer.lock
+phpunit.xml
+values.php

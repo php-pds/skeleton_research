@@ -1,0 +1,7 @@
+plugins/
+tests/
+LICENSE
+PackApp.php
+README.md
+composer.json
+example.php

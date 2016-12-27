@@ -1,0 +1,8 @@
+assets/
+.gitignore
+Kindeditor.php
+KindeditorAsset.php
+README.md
+ServicesJSON.php
+ServicesJSONError.php
+composer.json

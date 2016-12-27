@@ -1,0 +1,7 @@
+Site/
+public/
+spool/
+.gitignore
+LICENSE.md
+README.md
+composer.json

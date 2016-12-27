@@ -1,0 +1,7 @@
+example/
+src/janeklb/json/
+test/
+.gitignore
+LICENSE
+README.md
+composer.json

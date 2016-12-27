@@ -1,0 +1,10 @@
+build/
+src/
+test/
+.gitignore
+.php_cs
+Jenkinsfile
+composer.json
+phpunit.xml.dist
+project_tests.sh
+puli.json

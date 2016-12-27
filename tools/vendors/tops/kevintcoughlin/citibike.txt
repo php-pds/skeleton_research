@@ -1,0 +1,13 @@
+examples/
+lib/Citibike/
+test/
+vendor/
+.gitignore
+.travis.yml
+History.md
+LICENSE
+Makefile
+README.md
+composer.json
+composer.lock
+phpunit.xml

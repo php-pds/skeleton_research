@@ -1,0 +1,8 @@
+.idea/
+SQL/
+src/
+test/
+vendor/
+README.md
+composer.json
+composer.lock

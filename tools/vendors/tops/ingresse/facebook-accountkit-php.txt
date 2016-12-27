@@ -1,0 +1,7 @@
+src/Ingresse/Accountkit/
+.gitignore
+README.md
+composer.json
+composer.lock
+composer.phar
+phpunit.xml

@@ -1,0 +1,6 @@
+examples/
+src/RedashApiClient/
+.gitignore
+LICENSE
+README.md
+composer.json

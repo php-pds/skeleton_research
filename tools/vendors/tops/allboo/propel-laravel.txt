@@ -1,0 +1,7 @@
+example/config/
+src/
+.gitignore
+LICENSE
+README.md
+composer.json
+provides.json

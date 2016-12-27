@@ -1,0 +1,4 @@
+src/TimeSelectGenerator/
+.gitignore
+README.md
+composer.json

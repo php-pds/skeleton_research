@@ -1,0 +1,11 @@
+cache/
+includes/
+logs/
+packages/
+.gitignore
+.gitmodules
+README.md
+composer.json
+index.php
+license.txt
+loader.php

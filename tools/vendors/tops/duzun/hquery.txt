@@ -1,0 +1,14 @@
+docs/
+psr-4/
+tests/
+tools/
+.gitattributes
+.gitignore
+.travis.yml
+CONTRIBUTING.md
+LICENSE
+README.md
+composer.json
+hquery.php
+index.html
+package.json

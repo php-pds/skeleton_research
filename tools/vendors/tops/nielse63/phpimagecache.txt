@@ -1,0 +1,13 @@
+demo/
+docs/
+src/ImageCache/
+unittests/
+.editorconfig
+.gitignore
+.travis.yml
+LICENSE
+README.md
+build
+composer.json
+phpdoc.xml
+phpunit.xml

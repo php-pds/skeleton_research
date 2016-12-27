@@ -1,0 +1,6 @@
+src/AloTech/
+.gitignore
+LICENCE.md
+README.md
+composer.json
+example.php

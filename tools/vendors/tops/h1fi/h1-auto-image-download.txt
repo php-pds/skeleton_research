@@ -1,0 +1,7 @@
+.gitignore
+class-h1-auto-image-download-admin.php
+class-h1-auto-image-download.php
+composer.json
+h1-auto-image-download.js
+h1-auto-image-download.php
+readme.txt

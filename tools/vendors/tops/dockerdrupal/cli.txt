@@ -1,0 +1,11 @@
+bin/
+bundles/
+docs/
+src/
+.gitignore
+LICENSE.txt
+README.md
+composer.json
+composer.lock
+roadmap.md
+useful-commands.txt

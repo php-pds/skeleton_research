@@ -1,0 +1,4 @@
+src/Common/Model/
+.gitignore
+README.md
+composer.json

@@ -1,0 +1,9 @@
+benchmarks/
+spec/FeatureScience/
+src/FeatureScience/
+.gitignore
+.travis.yml
+composer.json
+feature-science
+phpspec.yml
+readme.md

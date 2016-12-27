@@ -1,0 +1,6 @@
+src/Elucidate/
+tests/
+vendor/
+README.md
+composer.json
+composer.lock

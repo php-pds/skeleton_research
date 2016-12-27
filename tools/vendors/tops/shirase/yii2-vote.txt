@@ -1,0 +1,12 @@
+actions/
+assets/
+controllers/
+helpers/
+migrations/
+models/
+traits/
+widgets/
+AutoloadExample.php
+README.md
+VoteModule.php
+composer.json

@@ -1,0 +1,9 @@
+docs/
+lib/
+samples/
+tests/
+.gitignore
+COPYING
+COPYING.LESSER
+README.md
+composer.json

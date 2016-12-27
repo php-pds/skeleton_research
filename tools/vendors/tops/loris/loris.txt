@@ -1,0 +1,11 @@
+configs/
+public/
+src/Loris/
+views/home/
+.gitignore
+LICENSE
+README.md
+bootstrap.php
+cli-config.php
+composer.json
+composer.lock

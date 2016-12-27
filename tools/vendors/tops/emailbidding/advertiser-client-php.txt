@@ -1,0 +1,10 @@
+docs/
+src/EBC/AdvertiserClient/
+tests/
+.coveralls.yml
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

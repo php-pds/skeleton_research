@@ -1,0 +1,10 @@
+.gitattributes
+.gitignore
+.htaccess
+README.md
+composer.json
+config.php
+decoder.php
+index.php
+shorten.php
+style.css

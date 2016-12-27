@@ -1,0 +1,7 @@
+src/Clegginabox/xbox/
+.gitignore
+LICENSE.md
+README.md
+composer.json
+composer.lock
+license.md

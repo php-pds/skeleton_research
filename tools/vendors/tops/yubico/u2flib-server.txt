@@ -1,0 +1,14 @@
+examples/
+src/u2flib_server/
+tests/
+.gitignore
+.travis.yml
+BLURB
+COPYING
+NEWS
+README
+README.adoc
+apigen.neon
+composer.json
+do-source-release.sh
+phpunit.xml

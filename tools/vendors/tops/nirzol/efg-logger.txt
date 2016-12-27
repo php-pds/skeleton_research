@@ -1,0 +1,7 @@
+config/
+src/EfgLogger/
+view/efg-logger/efg-logger/
+.gitignore
+Module.php
+README.md
+composer.json

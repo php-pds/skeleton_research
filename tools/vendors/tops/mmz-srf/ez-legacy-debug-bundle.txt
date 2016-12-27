@@ -1,0 +1,6 @@
+DataCollector/
+DependencyInjection/
+Resources/
+Readme.md
+SRFEzLegacyDebugBundle.php
+composer.json

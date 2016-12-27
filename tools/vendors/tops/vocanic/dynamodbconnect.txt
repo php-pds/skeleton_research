@@ -1,0 +1,5 @@
+src/Vocanic/Common/
+test/Vocanic/
+.gitignore
+composer.json
+packages.json

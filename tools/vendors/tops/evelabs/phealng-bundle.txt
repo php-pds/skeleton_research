@@ -1,0 +1,8 @@
+DependencyInjection/
+Pheal/
+Resources/config/
+.gitignore
+EvelabsPhealNGBundle.php
+LICENSE
+README.md
+composer.json

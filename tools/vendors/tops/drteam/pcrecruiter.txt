@@ -1,0 +1,7 @@
+soap/
+src/DrTeam/PCRecruiter/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json

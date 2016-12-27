@@ -1,0 +1,11 @@
+Annotation/
+DependencyInjection/
+Doctrine/Listener/
+Entity/
+Exception/
+Resources/config/
+Service/
+Tests/Controller/
+GizlabDoctrineBundle.php
+composer.json
+readme.md

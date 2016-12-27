@@ -1,0 +1,12 @@
+Configuration/zh/
+Exception/
+Tests/
+.gitignore
+.travis.yml
+LICENCE
+Pangulizer.php
+README.md
+Test.php
+composer.json
+pangulize
+phpunit.xml

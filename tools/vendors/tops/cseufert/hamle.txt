@@ -1,0 +1,11 @@
+doc/
+js/
+nbproject/
+php/
+test/php/
+.gitignore
+.gitmodules
+.travis.yml
+README.md
+composer.json
+phpunit.xml.dist

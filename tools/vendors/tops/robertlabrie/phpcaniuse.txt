@@ -1,0 +1,5 @@
+examples/
+src/phpcaniuse/
+.gitignore
+TODO
+composer.json

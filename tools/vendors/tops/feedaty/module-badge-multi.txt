@@ -1,0 +1,12 @@
+Block/
+Controller/Adminhtml/Index/
+Helper/
+Model/Config/Source/
+Observer/
+etc/
+i18n/
+view/frontend/
+README.md
+_config.yml
+composer.json
+registration.php

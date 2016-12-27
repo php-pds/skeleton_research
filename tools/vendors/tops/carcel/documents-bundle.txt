@@ -1,0 +1,15 @@
+doc/
+src/
+.bowerrc
+.gitignore
+.php_cs-fixers.php
+.php_cs.local.php
+.php_cs.php
+.scrutinizer.yml
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+UPGRADE.md
+bower.json
+composer.json

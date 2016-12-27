@@ -1,0 +1,8 @@
+src/Handlebars/
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+README.markdown
+composer.json
+phpunit.xml.dist

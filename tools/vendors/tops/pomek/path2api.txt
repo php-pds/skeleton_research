@@ -1,0 +1,9 @@
+spec/Path2API/
+src/
+stubs/
+.editorconfig
+.gitignore
+.travis.yml
+composer.json
+phpspec.yml
+readme.md

@@ -1,0 +1,11 @@
+src/Client/
+tests/Client/
+.gitignore
+.travis.yml
+CHANGELOG.md
+Contributing.md
+License.txt
+README.md
+composer.json
+composer.lock
+phpunit.xml

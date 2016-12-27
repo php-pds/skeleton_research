@@ -1,0 +1,8 @@
+examples/
+src/OpenSearchServer/
+tests/
+.gitignore
+LICENSE.txt
+NOTICE.txt
+README.md
+composer.json

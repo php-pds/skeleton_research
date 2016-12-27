@@ -1,0 +1,6 @@
+Examples/
+OandaWrap.php
+OandaWrapLicense.txt
+OandaWrapReference.html
+README.md
+composer.json

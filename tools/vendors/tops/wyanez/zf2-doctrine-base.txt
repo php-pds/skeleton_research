@@ -1,0 +1,8 @@
+config/
+public/
+src/ZF2DoctrineBase/
+view/
+LICENSE
+Module.php
+README.md
+composer.json

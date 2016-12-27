@@ -1,0 +1,9 @@
+config/
+src/
+webroot/
+.editorconfig
+.gitattributes
+.gitignore
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,12 @@
+Controller/
+DependencyInjection/
+Resources/
+Tests/
+.gitignore
+.travis.yml
+CacheManager.php
+LICENSE
+README.md
+YamikoCacheAdministrationBundle.php
+composer.json
+phpunit.xml.dist

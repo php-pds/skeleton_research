@@ -1,0 +1,9 @@
+images/
+lib/
+vagrant/
+.gitignore
+README.md
+Vagrantfile
+composer.json
+config.php
+index.php

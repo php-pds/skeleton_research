@@ -1,0 +1,6 @@
+assets/
+.gitignore
+ETimeoutDialog.php
+LICENSE
+README.mkd
+composer.json

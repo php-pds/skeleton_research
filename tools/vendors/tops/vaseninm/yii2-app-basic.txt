@@ -1,0 +1,16 @@
+.github/
+assets/
+commands/
+config/
+controllers/
+mail/layouts/
+models/
+runtime/
+views/
+web/
+.bowerrc
+.gitignore
+LICENSE.md
+README.md
+composer.json
+yii

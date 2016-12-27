@@ -1,0 +1,5 @@
+src/Plansky/MongolidBundle/
+.gitignore
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,17 @@
+config/examples/
+database/
+doc/
+scripts/
+src/
+tests/
+.editorconfig
+.gitattributes
+.gitignore
+.travis.yml
+Build.md
+Gruntfile.js
+README.md
+composer.json
+package.json
+phpunit.xml
+travis-ci.xml

@@ -1,0 +1,9 @@
+public/
+resources/
+var/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock
+docker-compose.yml

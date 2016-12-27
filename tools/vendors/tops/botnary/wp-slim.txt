@@ -1,0 +1,6 @@
+Slim/
+.gitattributes
+.gitignore
+README.md
+SlimWpOptions.php
+wp-slim-framework.php

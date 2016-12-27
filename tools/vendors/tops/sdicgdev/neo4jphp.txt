@@ -1,0 +1,13 @@
+examples/
+lib/Everyman/Neo4j/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+Neo4jPhpVersionTask.php
+README.md
+build.xml
+composer.json
+docblox.dist.xml
+phpconfig.ini
+stub.php

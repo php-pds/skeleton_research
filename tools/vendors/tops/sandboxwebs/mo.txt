@@ -1,0 +1,11 @@
+app/
+puppet/
+src/
+web/
+.bowerrc
+.gitignore
+LICENSE
+README.md
+Vagrantfile
+composer.json
+composer.lock

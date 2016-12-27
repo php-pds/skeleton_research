@@ -1,0 +1,11 @@
+src/
+tests/
+.editorconfig
+.gitignore
+CHANGELOG.md
+CONDUCT.md
+LICENSE
+README-ES.md
+README.md
+composer.json
+contributors.txt

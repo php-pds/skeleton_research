@@ -1,0 +1,10 @@
+config/sync/
+drush/
+scripts/composer/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+build.xml
+composer.json
+phpunit.xml.dist

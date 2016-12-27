@@ -1,0 +1,5 @@
+src/Giovannefc/PagSeguro/
+.gitignore
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,12 @@
+lib/
+tmp/
+tpl/
+.gitignore
+.htaccess
+LICENSE.md
+README.md
+bootstrap.php
+composer.json
+config.sample.php
+image.php
+index.php

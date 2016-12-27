@@ -1,0 +1,6 @@
+deschdanja/DoctrineBase/
+.gitattributes
+.gitignore
+LICENSE
+README
+composer.json

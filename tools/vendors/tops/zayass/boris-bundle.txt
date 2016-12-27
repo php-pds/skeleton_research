@@ -1,0 +1,7 @@
+Command/
+DependencyInjection/
+Resources/config/
+.gitignore
+README.md
+ZayassBorisBundle.php
+composer.json

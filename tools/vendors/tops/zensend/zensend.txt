@@ -1,0 +1,12 @@
+data/
+lib/
+tests/
+verify_example/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+init.php
+phpunit.xml

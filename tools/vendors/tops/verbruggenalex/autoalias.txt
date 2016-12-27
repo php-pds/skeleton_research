@@ -1,0 +1,9 @@
+Command/
+Helper/
+Installer/
+.autoalias_aliases
+.autoalias_bashrc
+.gitignore
+README.md
+autoalias
+composer.json

@@ -1,0 +1,8 @@
+exceptions/
+models/
+.gitignore
+FishContentApiClient.php
+LICENSE
+README.md
+composer.json
+example.php

@@ -1,0 +1,5 @@
+src/UseAllFive/DoctrineWebConsole/
+.editorconfig
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,9 @@
+src/
+.codeclimate.yml
+.gitignore
+.styleci.yml
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock

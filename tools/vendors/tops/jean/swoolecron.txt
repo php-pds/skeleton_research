@@ -1,0 +1,5 @@
+src/jean/
+test/
+.gitignore
+README.md
+composer.json

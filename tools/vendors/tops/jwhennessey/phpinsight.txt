@@ -1,0 +1,8 @@
+examples/
+lib/
+.gitignore
+CHANGES
+LICENSE
+README.md
+autoload.php
+composer.json

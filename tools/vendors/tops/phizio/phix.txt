@@ -1,0 +1,5 @@
+core/
+local/files/
+.gitignore
+README.md
+composer.json

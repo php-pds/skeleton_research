@@ -1,0 +1,6 @@
+src/Artdevue/Fcache/
+tests/
+README.md
+composer.json
+composer.phar
+phpunit.xml

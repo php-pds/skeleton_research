@@ -1,0 +1,12 @@
+app/
+bin/
+lib/
+src/
+web/
+.bowerrc
+.gitignore
+GPLv3
+LICENSE
+README.md
+bower.json
+composer.json

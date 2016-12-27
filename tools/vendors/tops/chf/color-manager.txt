@@ -1,0 +1,12 @@
+Classes/
+Configuration/TCA/
+Documentation.tmpl/
+Resources/
+Tests/Unit/
+composer.json
+ext_conf_template.txt
+ext_emconf.php
+ext_icon.gif
+ext_tables.php
+ext_tables.sql
+ext_typoscript_setup.txt

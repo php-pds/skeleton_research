@@ -1,0 +1,5 @@
+Tests/
+src/alc/
+.travis.yml
+README.md
+composer.json

@@ -1,0 +1,10 @@
+data/
+lib/
+licenses/
+.gitignore
+CHANGELOG
+COPYRIGHT
+LICENSE
+README
+autoload.php
+composer.json

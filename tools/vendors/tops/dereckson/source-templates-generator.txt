@@ -1,0 +1,15 @@
+helpers/
+pages/
+templates/
+tests/
+.arcconfig
+.gitignore
+COPYING
+LICENSE
+_documents.xml
+_header.php
+autoload.php
+book.php
+composer.json
+index.php
+page.php

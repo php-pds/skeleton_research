@@ -1,0 +1,11 @@
+Admin/
+DependencyInjection/
+Entity/
+Resources/
+Tests/Entity/
+.gitignore
+.travis.yml
+DifaneContentPartBundle.php
+README.md
+composer.json
+phpunit.xml.dist

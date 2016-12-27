@@ -1,0 +1,11 @@
+app/
+bin/
+dist/
+.gitignore
+LICENSE
+README.md
+bootstrap.php
+box.json
+composer.json
+config.sample.yml
+install.php

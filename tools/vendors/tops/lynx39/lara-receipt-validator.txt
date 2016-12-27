@@ -1,0 +1,5 @@
+src/LynX39/LaraReceiptValidator/
+.gitignore
+LICENSE
+README.md
+composer.json

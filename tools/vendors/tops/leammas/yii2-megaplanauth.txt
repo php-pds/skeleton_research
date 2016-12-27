@@ -1,0 +1,6 @@
+test/
+LICENSE
+MPAuthException.php
+MegaplanAuth.php
+README.md
+composer.json

@@ -1,0 +1,9 @@
+Controller/
+DependencyInjection/
+Form/Type/
+Resources/
+Tests/Controller/
+.gitignore
+README.md
+UploadCropImageBundle.php
+composer.json

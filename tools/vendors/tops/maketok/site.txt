@@ -1,0 +1,16 @@
+config/
+lib/
+modules/
+public/
+src/
+tests/
+translations/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+phpmd.xml.dist
+setup.php

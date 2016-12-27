@@ -1,0 +1,10 @@
+src/
+tests/
+vendor/
+Descripcion_prueba.docx
+README.md
+composer.json
+composer.lock
+composer.phar
+initial
+phpunit.xml

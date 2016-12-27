@@ -1,0 +1,15 @@
+docker/
+src/
+test/
+.coveralls.yml
+.editorconfig
+.gitattributes
+.gitignore
+.travis.yml
+README.md
+codeception.yml
+composer.json
+composer.lock
+docker-compose.yml
+ruleset.xml
+travis-php-config.ini

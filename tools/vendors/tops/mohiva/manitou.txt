@@ -1,0 +1,10 @@
+src/com/mohiva/manitou/
+tests/com/mohiva/test/
+.gitignore
+.travis.yml
+LICENSE.textile
+README.textile
+composer.json
+composer.lock
+phpunit.idea.xml
+phpunit.travis.xml

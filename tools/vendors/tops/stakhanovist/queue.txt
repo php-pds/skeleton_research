@@ -1,0 +1,10 @@
+library/
+tests/
+.coveralls.yml
+.gitignore
+.travis.yml
+LICENSE
+LICENSE.ZF
+README.md
+composer.json
+phpunit.xml.dist

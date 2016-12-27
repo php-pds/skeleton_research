@@ -1,0 +1,5 @@
+config/
+src/Mailer/Transport/
+README.md
+composer.json
+phpunit.xml.dist

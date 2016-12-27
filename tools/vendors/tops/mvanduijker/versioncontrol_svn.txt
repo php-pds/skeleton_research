@@ -1,0 +1,7 @@
+VersionControl/
+docs/
+tests/
+.gitignore
+README.md
+composer.json
+package.xml

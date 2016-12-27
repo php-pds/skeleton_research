@@ -1,0 +1,5 @@
+example/
+src/WC/API/
+LICENSE
+README.md
+composer.json

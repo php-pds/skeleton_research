@@ -1,0 +1,9 @@
+.idea/
+PHPDoc/
+PHPUnit_test/
+app/
+vendor/
+README.md
+composer.json
+index.php
+maxim3.jpg

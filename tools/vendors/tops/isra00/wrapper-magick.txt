@@ -1,0 +1,8 @@
+src/WrapperMagick/
+tests/WrapperMagick/
+.gitignore
+.travis.yaml
+.travis.yml
+README.md
+composer.json
+phpunit.xml.dist

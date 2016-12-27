@@ -1,0 +1,13 @@
+GiiTemplates/generators/
+actions/
+behaviors/
+components/
+controllers/
+filters/
+models/
+traits/
+views/
+.gitignore
+README.md
+composer.json
+composer.lock

@@ -1,0 +1,7 @@
+src/Myprod/Silex/Provider/
+tests/
+.gitignore
+LICENSE
+README.rst
+composer.json
+phpunit.xml

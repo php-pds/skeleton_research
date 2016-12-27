@@ -1,0 +1,10 @@
+app/
+src/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+UPGRADE-2.2.md
+UPGRADE.md
+composer.json
+composer.lock

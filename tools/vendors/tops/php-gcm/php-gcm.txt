@@ -1,0 +1,10 @@
+src/PHP_GCM/
+tests/PHP_GCM/
+.gitignore
+.travis.yml
+CONTRIBUTING.md
+LICENSE
+README.md
+composer.json
+phpunit.xml
+test.sh

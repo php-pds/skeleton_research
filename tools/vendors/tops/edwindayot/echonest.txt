@@ -1,0 +1,6 @@
+Echonest/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock

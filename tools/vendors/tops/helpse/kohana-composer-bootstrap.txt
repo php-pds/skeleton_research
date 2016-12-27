@@ -1,0 +1,8 @@
+application/
+modules/
+LICENSE
+README.md
+composer.json
+example.htaccess
+index.php
+install.php

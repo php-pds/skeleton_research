@@ -1,0 +1,7 @@
+examples/
+src/Screenshots/
+tests/Screenshots/
+.gitignore
+LICENSE
+README.md
+composer.json

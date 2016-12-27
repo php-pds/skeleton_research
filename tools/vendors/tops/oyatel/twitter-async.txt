@@ -1,0 +1,13 @@
+tests/
+.gitattributes
+.gitignore
+EpiCurl.php
+EpiOAuth.php
+EpiSequence.php
+EpiTwitter.php
+LICENSE
+README.markdown
+ca-bundle.crt
+composer.json
+composer.lock
+simpleTest.php

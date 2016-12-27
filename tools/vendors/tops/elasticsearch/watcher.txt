@@ -1,0 +1,8 @@
+src/Watcher/
+tests/
+util/
+.gitignore
+LICENSE
+NOTICE
+README.md
+composer.json

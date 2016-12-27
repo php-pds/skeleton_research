@@ -1,0 +1,12 @@
+Features/
+app/
+src/
+web/
+.gitignore
+.travis.yml
+CONFIGURATION.md
+LICENSE
+README.md
+behat.yml
+composer.json
+travis.php.ini

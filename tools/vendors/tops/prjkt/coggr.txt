@@ -1,0 +1,7 @@
+src/Coggr/
+tests/
+.gitignore
+README.md
+circle.yml
+composer.json
+phpunit.xml

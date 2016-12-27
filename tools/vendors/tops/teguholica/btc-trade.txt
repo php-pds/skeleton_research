@@ -1,0 +1,4 @@
+src/BitcoinExchange/
+test/
+.gitignore
+composer.json

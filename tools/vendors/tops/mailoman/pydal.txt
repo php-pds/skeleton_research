@@ -1,0 +1,16 @@
+docs/
+pydal/
+tests/
+.coveragerc
+.gitignore
+.travis.yml
+AUTHORS
+CHANGES
+LICENSE
+MANIFEST.in
+README.md
+appveyor.yml
+composer.json
+setup.cfg
+setup.py
+tox.ini

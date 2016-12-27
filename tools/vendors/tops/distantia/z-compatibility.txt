@@ -1,0 +1,7 @@
+examples/
+src/Distantia/ZCompatibility/
+.gitignore
+LICENSE.md
+composer.json
+composer.lock
+readme.md

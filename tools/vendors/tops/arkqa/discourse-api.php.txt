@@ -1,0 +1,7 @@
+samples/
+src/DiscourseApi/
+.gitignore
+EXAMPLE.md
+LICENSE.md
+README.md
+composer.json

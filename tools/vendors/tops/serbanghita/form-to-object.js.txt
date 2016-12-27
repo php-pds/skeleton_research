@@ -1,0 +1,17 @@
+dist/
+src/
+test/
+.codeclimate.yml
+.gitignore
+.jscs.json
+.jshintrc
+.travis.yml
+LICENSE.txt
+README.md
+browserstack.json
+composer.json
+gulpfile.js
+karma.acceptance.conf.js
+karma.unit.conf.js
+package.json
+wallaby.js

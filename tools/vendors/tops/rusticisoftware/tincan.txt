@@ -1,0 +1,12 @@
+sample/
+src/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+NOTICE
+README.md
+autoload.php
+composer.json
+phpdoc.dist.xml
+phpunit.xml.dist

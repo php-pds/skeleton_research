@@ -1,0 +1,15 @@
+build/
+config/
+doc/
+src/
+test/
+.babelrc
+.editorconfig
+.eslintignore
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+index.html
+package.json

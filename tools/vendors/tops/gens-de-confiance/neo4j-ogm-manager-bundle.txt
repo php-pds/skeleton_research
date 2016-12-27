@@ -1,0 +1,11 @@
+DependencyInjection/
+Factory/
+Resources/config/
+.editorconfig
+.gitattributes
+.gitignore
+.php_cs
+LICENSE
+Neo4jOGMManagerBundle.php
+README.md
+composer.json

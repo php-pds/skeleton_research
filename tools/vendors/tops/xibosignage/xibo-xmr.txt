@@ -1,0 +1,11 @@
+bin/
+tests/
+.gitignore
+LICENSE
+README.md
+Vagrantfile
+box.json
+composer.json
+composer.lock
+config.json
+index.php

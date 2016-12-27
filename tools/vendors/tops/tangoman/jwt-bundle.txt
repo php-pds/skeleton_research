@@ -1,0 +1,10 @@
+DependencyInjection/
+Model/
+Resources/config/
+Services/
+.gitattributes
+.gitignore
+LICENSE
+README.md
+TangoManJWTBundle.php
+composer.json

@@ -1,0 +1,8 @@
+docs/
+src/Communify/
+tests/
+.DS_Store
+.gitignore
+README.md
+composer.json
+mkdocs.yml

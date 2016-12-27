@@ -1,0 +1,6 @@
+Commands/
+Generators/
+.gitignore
+LICENSE
+ModuleGenerateProvider.php
+composer.json

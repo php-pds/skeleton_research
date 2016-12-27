@@ -1,0 +1,9 @@
+examples/example1/
+src/NewsRiver/
+tests/
+vendor/
+.gitattributes
+.gitignore
+README.md
+composer.json
+composer.lock

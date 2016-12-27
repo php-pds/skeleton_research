@@ -1,0 +1,14 @@
+Controller/
+DataCollector/
+DependencyInjection/
+Resources/
+Table/
+Tests/
+Twig/
+CHANGELOG.md
+JGMTableBundle.php
+LICENSE
+README.md
+Version.php
+composer.json
+phpunit.xml.dist

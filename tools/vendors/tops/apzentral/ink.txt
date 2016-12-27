@@ -1,0 +1,6 @@
+src/ink/
+tests/
+LICENSE
+README.md
+composer.json
+phpunit.xml

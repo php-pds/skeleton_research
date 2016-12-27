@@ -1,0 +1,14 @@
+bin/
+docs/
+src/
+.editorconfig
+.gitignore
+.travis.yml
+CONTRIBUTING.md
+LICENSE.txt
+behat.yml.dist
+composer.json
+composer.lock
+couscous.yml
+phpcs-ruleset.xml
+readme.md

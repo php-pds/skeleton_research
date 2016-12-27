@@ -1,0 +1,6 @@
+docs/
+src/Inventorus/
+.gitignore
+LICENSE
+README.md
+composer.json

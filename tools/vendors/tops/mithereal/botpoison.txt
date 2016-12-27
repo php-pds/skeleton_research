@@ -1,0 +1,16 @@
+src/
+tests/
+.editorconfig
+.gitattributes
+.gitignore
+.php_cs
+.travis.ini
+.travis.yml
+CHANGELOG.md
+Install.md
+LICENSE
+Makefile
+README.md
+composer.json
+credits.txt
+phpunit.xml.dist

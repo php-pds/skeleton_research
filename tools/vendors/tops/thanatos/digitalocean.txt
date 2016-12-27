@@ -1,0 +1,7 @@
+DependencyInjection/
+Resources/config/
+Service/
+LICENSE
+README.md
+ThanatosDigitalOceanBundle.php
+composer.json

@@ -1,0 +1,14 @@
+docgen/
+testscenario/
+unittest/
+LICENSE
+README.md
+amqp.php
+amqplibconnector.php
+amqplibconnectorssl.php
+amqppeclconnector.php
+celery.php
+composer.json
+install_amqp.sh
+redisconnector.php
+test.php

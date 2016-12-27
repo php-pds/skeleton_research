@@ -1,0 +1,10 @@
+data/
+logs/
+public/
+src/
+templates/
+.gitignore
+README.md
+composer.json
+composer.lock
+composer.phar

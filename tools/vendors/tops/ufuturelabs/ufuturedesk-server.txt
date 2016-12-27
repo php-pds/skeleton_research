@@ -1,0 +1,10 @@
+app/
+src/
+web/
+.gitignore
+.htaccess
+.travis.yml
+LICENSE.md
+README.md
+composer.json
+composer.phar

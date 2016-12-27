@@ -1,0 +1,8 @@
+Apigee/
+docs/
+.gitignore
+LICENSE.txt
+README.md
+build.xml
+composer.json
+phpunit.xml

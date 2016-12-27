@@ -1,0 +1,7 @@
+examples/
+lib/
+.gitignore
+.pairs
+LICENSE.txt
+README.rdoc
+composer.json

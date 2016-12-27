@@ -1,0 +1,5 @@
+lib/TemTudoAqui/
+README.md
+build.properties
+composer.json
+composer.phar

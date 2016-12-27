@@ -1,0 +1,12 @@
+tests/
+.gitignore
+.travis.yml
+Guardfile
+LICENSE
+README.md
+composer.json
+example.php
+phpdoc.xml
+phpunit.xml
+serpri.md
+serpri.php

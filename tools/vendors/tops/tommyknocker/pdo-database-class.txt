@@ -1,0 +1,7 @@
+test/
+.gitignore
+LICENSE
+PDODb.php
+README.md
+composer.json
+phpunit.xml

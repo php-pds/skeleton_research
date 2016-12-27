@@ -1,0 +1,9 @@
+src/Levacic/Mailto/
+tests/
+.editorconfig
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml

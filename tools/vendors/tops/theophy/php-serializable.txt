@@ -1,0 +1,9 @@
+.idea/
+.gitignore
+LICENSE
+README.md
+Serialize.php
+composer.json
+example.php
+serializable.png
+serializable.tiff

@@ -1,0 +1,7 @@
+src/XML/Builder/
+tests/
+.gitignore
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

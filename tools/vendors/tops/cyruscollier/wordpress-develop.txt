@@ -1,0 +1,14 @@
+src/
+tests/
+tools/i18n/
+.editorconfig
+.gitignore
+.jshintrc
+.travis.yml
+Gruntfile.js
+composer.json
+package.json
+phpunit.xml.dist
+wp-cli.yml
+wp-config-sample.php
+wp-tests-config-sample.php

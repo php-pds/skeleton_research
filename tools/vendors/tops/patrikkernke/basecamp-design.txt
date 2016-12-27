@@ -1,0 +1,7 @@
+docs/
+src/
+.gitignore
+composer.json
+elixir.json
+gulpfile.js
+package.json

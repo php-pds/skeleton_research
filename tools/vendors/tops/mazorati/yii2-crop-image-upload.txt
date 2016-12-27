@@ -1,0 +1,8 @@
+assets/
+.gitignore
+CropImageUpload.php
+CropImageUploadAsset.php
+CropImageUploadBehavior.php
+LICENSE
+README.md
+composer.json

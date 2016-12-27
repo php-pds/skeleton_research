@@ -1,0 +1,13 @@
+taxonomy-metabox/
+utils/
+.gitignore
+README.md
+actions.php
+cache.php
+composer.json
+filter.php
+init.php
+media.php
+query.php
+search.php
+taxonomy-metabox.php

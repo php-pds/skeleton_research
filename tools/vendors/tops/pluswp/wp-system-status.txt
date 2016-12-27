@@ -1,0 +1,7 @@
+vendor/
+.gitignore
+Browser.php
+LICENSE
+README.md
+class-pwp-system-status.php
+composer.json

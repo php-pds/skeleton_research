@@ -1,0 +1,8 @@
+classes/
+demo/
+vendor/
+LICENSE
+README.md
+composer.json
+composer.lock
+efuzyon.init.php

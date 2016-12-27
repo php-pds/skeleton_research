@@ -1,0 +1,6 @@
+bin/
+build/
+src/
+test/
+README.md
+composer.json

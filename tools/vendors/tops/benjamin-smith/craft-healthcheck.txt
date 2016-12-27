@@ -1,0 +1,10 @@
+controllers/
+services/
+templates/
+.gitignore
+HealthCheckPlugin.php
+LICENSE.txt
+README.md
+composer.json
+config.php
+releases.json

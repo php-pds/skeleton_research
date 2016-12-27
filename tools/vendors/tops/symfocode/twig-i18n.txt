@@ -1,0 +1,6 @@
+doc/
+src/SymfoCode/Twig/I18n/Extension/
+.gitignore
+LICENSE
+README.md
+composer.json

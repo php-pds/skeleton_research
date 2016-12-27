@@ -1,0 +1,11 @@
+etc/common/
+src/
+.bowerrc
+.gitignore
+Gruntfile.js
+LICENSE
+README.md
+bower.json
+build.xml
+composer.json
+package.json

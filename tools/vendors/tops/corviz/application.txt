@@ -1,0 +1,7 @@
+application/
+configs/
+public/
+views/home/
+LICENSE
+composer.json
+composer.lock

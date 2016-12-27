@@ -1,0 +1,7 @@
+lib/batik-1.8/
+src/
+.gitignore
+LICENSE
+NOTICE
+README.md
+composer.json

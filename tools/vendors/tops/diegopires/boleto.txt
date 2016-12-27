@@ -1,0 +1,11 @@
+src/Pires/Boleto/
+tests/Pires/Boleto/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+bootstrap.php
+composer.json
+composer.phar
+phpunit.xml.dist

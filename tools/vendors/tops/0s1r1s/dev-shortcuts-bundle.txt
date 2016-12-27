@@ -1,0 +1,11 @@
+Command/
+DependencyInjection/
+Resources/config/
+Tests/
+.gitignore
+.travis.yml
+LICENSE
+OsirisDevShortcutsBundle.php
+README.md
+composer.json
+phpunit.xml.dist

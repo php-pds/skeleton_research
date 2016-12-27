@@ -1,0 +1,15 @@
+docs/
+src/minime/
+supersimples/
+tests/minime/
+.gitignore
+.htaccess
+LICENSE
+README.md
+TODO.ttx
+composer.json
+exemplo_aplicacao.php
+exemplo_instrucao.php
+exemplo_query_instrucao.php
+exemplo_servico.php
+roadmap.txt

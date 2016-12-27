@@ -1,0 +1,15 @@
+Command/
+Controller/
+DataCollector/
+DependencyInjection/
+Resources/
+Tests/
+.gitattributes
+.gitignore
+.travis.yml
+CHANGELOG.md
+ContentfulBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

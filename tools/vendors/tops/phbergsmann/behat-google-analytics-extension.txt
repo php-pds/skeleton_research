@@ -1,0 +1,4 @@
+src/PhBergsmann/BehatGoogleAnalyticsExtension/
+.gitignore
+README.md
+composer.json

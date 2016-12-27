@@ -1,0 +1,15 @@
+Database/
+DependencyInjection/
+Model/
+Resources/
+Tests/
+Web/
+README.md
+TzanderTestBundle.php
+build.properties
+build.xml
+composer.json
+composer.phar
+phpunit.xml.dist
+ruleset.xml
+travis.yml

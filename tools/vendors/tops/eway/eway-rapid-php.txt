@@ -1,0 +1,13 @@
+resource/lang/
+src/
+tests/
+.editorconfig
+.gitattributes
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENSE.md
+README.md
+composer.json
+include_eway.php
+phpunit.xml.dist

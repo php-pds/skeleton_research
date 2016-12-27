@@ -1,0 +1,13 @@
+src/ClassGeneration/
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+build.xml
+composer.json
+composer.lock
+phpdox.xml
+phpunit.xml.dist

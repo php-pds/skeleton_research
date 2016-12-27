@@ -1,0 +1,3 @@
+src/PaulGoodfield/EloquentBaseRepo/
+README.md
+composer.json

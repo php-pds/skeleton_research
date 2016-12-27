@@ -1,0 +1,7 @@
+.idea/
+demo/
+guide/
+.gitignore
+composer.json
+index.html
+readme.md

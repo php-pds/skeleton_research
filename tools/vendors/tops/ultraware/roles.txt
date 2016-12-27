@@ -1,0 +1,13 @@
+config/
+migrations/
+src/
+tests/
+.editorconfig
+.gitignore
+.php_cs
+.styleci.yml
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml

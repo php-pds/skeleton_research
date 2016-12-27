@@ -1,0 +1,16 @@
+app/
+src/
+tests/phpunit/
+.codeclimate.yml
+.coveralls.yml
+.editorconfig
+.gitignore
+.styleci.yml
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+composer.json
+install.sh
+jira.dist.yml
+phpunit.xml

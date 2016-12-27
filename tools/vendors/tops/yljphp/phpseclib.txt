@@ -1,0 +1,15 @@
+build/
+phpseclib/
+tests/
+travis/
+.gitattributes
+.gitignore
+.scrutinizer.yml
+.travis.yml
+AUTHORS
+CHANGELOG.md
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

@@ -1,0 +1,8 @@
+src/Dim/
+tests/DimTest/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml

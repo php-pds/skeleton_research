@@ -1,0 +1,12 @@
+demo/
+spec/Myna/
+src/
+.gitignore
+LICENSE
+README.md
+Vagrantfile
+boris
+composer.json
+phpdoc
+playbook.yml
+run-demo

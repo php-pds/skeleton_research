@@ -1,0 +1,14 @@
+Command/
+Configuration/
+DependencyInjection/
+Resources/config/
+Utils/
+doc/
+.gitignore
+CHANGELOG.md
+LICENSE
+QueueClientAdapterFactory.php
+QueueClientBundle.php
+QueueClientFactory.php
+README.md
+composer.json

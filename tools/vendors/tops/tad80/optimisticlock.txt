@@ -1,0 +1,6 @@
+Model/Behavior/
+Test/
+.gitignore
+LICENSE
+README.md
+composer.json

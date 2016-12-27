@@ -1,0 +1,13 @@
+samples/
+scripts/
+src/
+tests/
+.gitignore
+.htaccess
+.travis.yml
+CHANGELOG.md
+LICENSE.txt
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

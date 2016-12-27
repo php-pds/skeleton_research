@@ -1,0 +1,7 @@
+examples/
+src/PHPRtorrentClient/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock

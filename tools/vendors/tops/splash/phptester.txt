@@ -1,0 +1,6 @@
+Admin/
+Core/
+.gitignore
+LICENSE
+composer.json
+phpunit.xml.dist

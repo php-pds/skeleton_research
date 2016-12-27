@@ -1,0 +1,14 @@
+Connection/
+DataCollector/
+DependencyInjection/
+Logger/
+Monolog/Handler/
+Resources/
+Session/Storage/Handler/
+SwiftMailer/
+Tests/
+.gitignore
+LtRedisBundle.php
+README.md
+composer.json
+phpunit.xml.dist

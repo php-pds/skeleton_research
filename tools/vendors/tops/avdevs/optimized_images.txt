@@ -1,0 +1,9 @@
+controllers/single_page/dashboard/system/optimized_images_settings/
+elements/
+jobs/
+single_pages/dashboard/system/
+src/
+vendor/tinypng/lib/
+composer.json
+controller.php
+install.xml

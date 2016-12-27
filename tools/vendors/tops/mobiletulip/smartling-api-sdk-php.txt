@@ -1,0 +1,8 @@
+lib/
+test/
+LICENSE
+README.md
+composer.json
+example.php
+test.json
+test.xml

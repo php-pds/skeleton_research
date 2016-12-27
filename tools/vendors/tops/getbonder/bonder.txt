@@ -1,0 +1,11 @@
+Bonder/
+BonderTest/
+bin/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+Vagrantfile
+composer.json
+phpunit_conf.xml

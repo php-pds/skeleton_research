@@ -1,0 +1,11 @@
+.idea/
+workshop/
+.gitattributes
+.gitignore
+PhpStorm_Reference_Card.pdf
+PhpStorm_Workshop.pdf
+PhpStorm_Workshop.pptx
+README.md
+Vagrantfile
+composer.json
+license.txt

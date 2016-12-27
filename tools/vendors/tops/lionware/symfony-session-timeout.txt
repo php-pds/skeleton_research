@@ -1,0 +1,5 @@
+src/Lionware/SymfonySessionTimeoutBundle/
+.gitignore
+LICENSE
+README.md
+composer.json

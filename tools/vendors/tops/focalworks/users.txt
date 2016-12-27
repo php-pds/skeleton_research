@@ -1,0 +1,6 @@
+database/
+src/
+views/
+.gitignore
+composer.json
+composer.lock

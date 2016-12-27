@@ -1,0 +1,7 @@
+build/
+src/Mods/
+.editorconfig
+.gitattributes
+.gitignore
+LICENSE.md
+composer.json

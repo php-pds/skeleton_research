@@ -1,0 +1,11 @@
+gui/
+log/
+temp/
+tests/
+.gitignore
+composer.json
+index.php
+jquery.min.js
+readme.md
+screenshot-simpletest-gui.png
+start-selenium-server.bat

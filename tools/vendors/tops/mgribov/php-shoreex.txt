@@ -1,0 +1,6 @@
+examples/
+src/ShoreEx/
+.gitignore
+LICENSE
+README.md
+composer.json

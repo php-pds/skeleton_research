@@ -1,0 +1,8 @@
+.idea/
+src/
+.gitignore
+autoload.php
+composer.json
+composer.lock
+console.php
+index.php

@@ -1,0 +1,9 @@
+src/Symm/Gisconverter/
+tests/
+.gitignore
+.travis.yml
+LICENSE.txt
+README.md
+composer.json
+example.php
+phpunit.xml.dist

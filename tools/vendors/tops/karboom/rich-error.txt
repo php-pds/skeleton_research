@@ -1,0 +1,6 @@
+.gitignore
+LICENSE
+RichError.php
+RichErrorTest.php
+composer.json
+default.yaml

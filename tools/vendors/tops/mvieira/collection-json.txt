@@ -1,0 +1,13 @@
+bin/
+examples/
+spec/CollectionJson/
+src/CollectionJson/
+.gitattributes
+.gitignore
+.travis.yml
+CHANGELOG.md
+CONTRIBUTING.md
+LICENSE.md
+README.md
+composer.json
+phpspec.yml

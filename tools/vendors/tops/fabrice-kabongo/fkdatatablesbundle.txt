@@ -1,0 +1,5 @@
+FabriceKabongo/Symfony/FKDataTablesBundle/
+nbproject/
+.gitattributes
+.gitignore
+composer.json

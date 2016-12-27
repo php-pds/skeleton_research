@@ -1,0 +1,10 @@
+.idea/
+src/
+tests/
+.gitignore
+LICENSE
+composer.json
+composer.lock
+description.md
+index.php
+readme.md

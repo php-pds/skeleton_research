@@ -1,0 +1,6 @@
+BinaryFilter/
+DependencyInjection/
+Resources/config/
+BinaryFilterBundle.php
+README.md
+composer.json

@@ -1,0 +1,14 @@
+config/
+scripts/
+sites/phpinfo/
+src/
+.gitattributes
+.gitignore
+CHANGELOG.md
+LICENSE.txt
+Vagrantfile
+composer.json
+composer.lock
+homestead
+homestead.yml
+readme.md

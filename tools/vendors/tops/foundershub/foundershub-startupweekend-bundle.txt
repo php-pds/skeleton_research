@@ -1,0 +1,16 @@
+Controller/
+DependencyInjection/
+Exception/
+Resources/
+Tests/
+Twig/Extension/
+flags/
+.codeclimate.yml
+.gitignore
+.travis.yml
+FoundershubStartupWeekendBundle.php
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

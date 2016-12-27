@@ -1,0 +1,17 @@
+Annotations/
+Controller/
+Decoder/
+DependencyInjection/
+EventListener/
+Request/
+Resources/
+Tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+ApiValidatorBundle.php
+LICENSE.md
+README.md
+composer.json
+docker-compose.yml
+phpunit.xml.dist

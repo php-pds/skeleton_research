@@ -1,0 +1,16 @@
+Composer/
+Controller/
+Core/
+Datasource/
+Library/
+Model/
+Property/
+View/
+api/
+assets/
+vendor/
+.gitignore
+README.md
+composer.json
+composer.lock
+init.php

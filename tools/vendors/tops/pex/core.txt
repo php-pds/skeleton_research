@@ -1,0 +1,4 @@
+src/Pex/Core/
+test/
+.gitignore
+composer.json

@@ -1,0 +1,10 @@
+Text/
+build/
+.gitattributes
+.gitignore
+ChangeLog.markdown
+LICENSE
+README.markdown
+build.xml
+composer.json
+package.xml

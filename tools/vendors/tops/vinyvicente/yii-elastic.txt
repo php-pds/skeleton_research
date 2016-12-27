@@ -1,0 +1,5 @@
+components/
+extensions/
+lib/Elastica/
+README.md
+composer.json

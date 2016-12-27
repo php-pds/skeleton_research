@@ -1,0 +1,7 @@
+src/
+CHANGELOG.md
+.DS_Store
+CONTRIBUTING.md
+LICENSE
+README.md
+composer.json

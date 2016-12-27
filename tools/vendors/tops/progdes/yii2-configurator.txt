@@ -1,0 +1,10 @@
+caching/
+config/
+helpers/
+.gitignore
+.module.php
+CHANGELOG.md
+Configurator.php
+Module.php
+README.md
+composer.json

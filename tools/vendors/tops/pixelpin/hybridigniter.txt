@@ -1,0 +1,4 @@
+application/
+README.md
+composer.json
+composer.phar

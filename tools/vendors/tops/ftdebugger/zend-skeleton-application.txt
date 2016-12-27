@@ -1,0 +1,15 @@
+config/
+data/
+module/
+public/
+vagrant/
+.bowerrc
+.gitignore
+.php_cs
+.travis.yml
+Capfile
+README.md
+bower.json
+build.xml
+composer.json
+package.json

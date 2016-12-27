@@ -1,0 +1,13 @@
+doc/
+src/N4B/
+tests/N4B/
+.gitattributes
+.gitignore
+.styleci.yml
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+composer.json
+phpunit.xml
+phpunit.xml.dist

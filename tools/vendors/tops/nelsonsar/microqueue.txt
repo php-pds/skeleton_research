@@ -1,0 +1,11 @@
+examples/
+manifests/
+src/MicroQueue/
+tests/MicroQueue/
+.gitignore
+LICENSE
+README.md
+Vagrantfile
+composer.json
+composer.lock
+phpunit.xml.dist

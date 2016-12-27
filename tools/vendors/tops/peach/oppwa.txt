@@ -1,0 +1,9 @@
+Cards/
+Payments/
+.gitignore
+Client.php
+ClientInterface.php
+Configuration.php
+README.md
+ResponseJson.php
+composer.json

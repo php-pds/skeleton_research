@@ -1,0 +1,8 @@
+bin/
+src/
+.gitignore
+MIT-LICENSE.txt
+README.md
+composer.json
+config-sample-advanced.php
+config-sample.php

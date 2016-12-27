@@ -1,0 +1,12 @@
+config/
+controllers/
+errors/
+libs/
+models/
+views/
+.gitattributes
+.gitignore
+.htaccess
+README.md
+composer.json
+index.php

@@ -1,0 +1,12 @@
+bin/
+doc/
+features/
+src/
+tests/GoogleChartGenerator/
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+bower.json
+composer.json

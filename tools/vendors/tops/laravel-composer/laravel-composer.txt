@@ -1,0 +1,8 @@
+build/
+src/
+stubs/
+.gitignore
+README.md
+composer.json
+composer.lock
+laravel-composer

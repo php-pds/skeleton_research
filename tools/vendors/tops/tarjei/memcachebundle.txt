@@ -1,0 +1,7 @@
+DependencyInjection/
+Resources/
+MemcacheFactory.php
+MockMemcache.php
+README.rst
+SMMemcacheBundle.php
+composer.json

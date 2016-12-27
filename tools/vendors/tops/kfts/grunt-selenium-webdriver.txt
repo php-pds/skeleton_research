@@ -1,0 +1,10 @@
+jar/
+tasks/
+test/
+.gitignore
+.jshintrc
+Gruntfile.js
+LICENSE-MIT
+README.md
+composer.json
+package.json

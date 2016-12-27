@@ -1,0 +1,7 @@
+tests/
+.gitignore
+CHANGELOG.txt
+LICENSE.txt
+PlancakeEmailParser.php
+README.txt
+composer.json

@@ -1,0 +1,9 @@
+config/
+log/
+public/
+src/MyApp/
+templates/
+.gitignore
+LICENSE
+README.md
+composer.json

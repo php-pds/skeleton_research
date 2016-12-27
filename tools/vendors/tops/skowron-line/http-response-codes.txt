@@ -1,0 +1,4 @@
+src/Http/Response/
+LICENSE
+README.md
+composer.json

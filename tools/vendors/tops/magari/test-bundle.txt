@@ -1,0 +1,14 @@
+DependencyInjection/
+Entity/
+Fixtures/
+Loader/
+Resources/
+Test/
+Tests/
+.gitignore
+LICENSE
+MagariTestBundle.php
+README.md
+circle.yml
+composer.json
+phpunit.xml.dist

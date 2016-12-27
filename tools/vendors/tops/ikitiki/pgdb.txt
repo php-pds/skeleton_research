@@ -1,0 +1,8 @@
+src/Ikitiki/
+tests/
+.travis.yml
+LICENSE
+README.md
+composer.json
+example.php
+phpunit.xml

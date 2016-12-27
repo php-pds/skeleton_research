@@ -1,0 +1,6 @@
+DataCollector/
+DependencyInjection/
+Resources/
+CodepoetOpcacheProfilerBundle.php
+README.md
+composer.json

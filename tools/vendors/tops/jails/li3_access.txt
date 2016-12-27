@@ -1,0 +1,7 @@
+extensions/adapter/security/access/
+security/
+tests/
+.travis.yml
+LICENSE.txt
+README.md
+composer.json

@@ -1,0 +1,6 @@
+PHPToolkit/
+samples/
+src/NetSuite/Toolkit/
+NetSuite Toolkit License Agreement.docx
+README.md
+composer.json

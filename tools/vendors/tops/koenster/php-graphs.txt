@@ -1,0 +1,9 @@
+examples/
+js/
+src/
+.DS_Store
+.gitignore
+composer.json
+composer.lock
+phpunit.xml
+readme.md

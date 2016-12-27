@@ -1,0 +1,15 @@
+app/
+src/Location/
+tests/Location/
+web/
+.gitignore
+.travis.yml
+bootstrap.php
+cli-config.php
+composer.json
+composer.lock
+config.yml.dist
+migrations.yml
+phpcs.xml
+phpunit.xml
+readme.md

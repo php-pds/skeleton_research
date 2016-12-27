@@ -1,0 +1,7 @@
+components/
+controllers/
+.gitignore
+ConfigureException.php
+Doxygen
+Module.php
+composer.json

@@ -1,0 +1,8 @@
+bin/
+lib/
+src/
+.gitignore
+LICENSE
+README.md
+composer.json
+phpcov.xml.dist

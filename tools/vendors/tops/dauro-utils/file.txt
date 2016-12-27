@@ -1,0 +1,7 @@
+src/Dauro/Utils/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json

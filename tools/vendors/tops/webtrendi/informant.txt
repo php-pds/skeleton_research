@@ -1,0 +1,5 @@
+src/Informant/
+.gitignore
+LICENSE
+README.md
+composer.json

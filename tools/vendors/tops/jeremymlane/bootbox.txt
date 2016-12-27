@@ -1,0 +1,17 @@
+build/
+tests/
+.gitignore
+.jshintrc
+.travis.yml
+CHANGELOG.md
+CONTRIBUTING.md
+Gruntfile.js
+README.md
+bootbox.js
+bower.json
+composer.json
+header.txt
+karma-base.conf.js
+karma-jquery-latest.conf.js
+karma.conf.js
+package.json

@@ -1,0 +1,7 @@
+src/Fredyy90/
+.gitattributes
+.gitignore
+LICENSE
+README.md
+composer.json
+example.php

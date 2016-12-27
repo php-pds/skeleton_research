@@ -1,0 +1,7 @@
+docs/
+library/HTML5/
+maintenance/
+tests/
+README
+VERSION
+composer.json

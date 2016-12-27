@@ -1,0 +1,7 @@
+src/Omnipay/Voguepay/
+tests/
+CONTRIBUTING.md
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

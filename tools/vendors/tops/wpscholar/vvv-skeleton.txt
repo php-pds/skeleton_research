@@ -1,0 +1,7 @@
+public_html/
+.gitignore
+README.md
+composer.json
+vvv-hosts
+vvv-init.sh
+vvv-nginx.conf

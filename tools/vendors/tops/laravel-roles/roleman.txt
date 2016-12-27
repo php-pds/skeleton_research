@@ -1,0 +1,9 @@
+Accessors/
+config/
+database/migrations/
+src/
+vendor/
+views/
+README.md
+composer.json
+composer.lock

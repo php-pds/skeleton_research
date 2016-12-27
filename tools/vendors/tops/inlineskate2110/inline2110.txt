@@ -1,0 +1,3 @@
+.idea/
+ffmpeg/
+composer.json

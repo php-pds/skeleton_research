@@ -1,0 +1,6 @@
+components/
+migrations/
+models/
+.gitignore
+README.md
+composer.json

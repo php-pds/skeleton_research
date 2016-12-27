@@ -1,0 +1,6 @@
+Classes/
+Documentation/Jekyll/
+Resources/
+.gitignore
+README.md
+composer.json

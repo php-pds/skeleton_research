@@ -1,0 +1,13 @@
+docs/
+src/Syntax/
+tests/Syntax/
+.codeclimate.yml
+.editorconfig
+.gitattributes
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist
+update-gh-pages.sh

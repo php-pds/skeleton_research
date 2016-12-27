@@ -1,0 +1,4 @@
+store/
+HttpSession.php
+README.md
+composer.json

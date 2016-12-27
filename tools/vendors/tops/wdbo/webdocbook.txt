@@ -1,0 +1,12 @@
+build/
+docs/
+src/
+user/config/
+var/
+www/
+.editorconfig
+.gitignore
+CONTRIBUTING.md
+LICENSE
+README.md
+composer.json

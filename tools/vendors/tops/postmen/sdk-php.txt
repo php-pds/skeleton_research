@@ -1,0 +1,7 @@
+examples/
+src/Postmen/
+tests/
+.travis.yml
+README.md
+composer.json
+travis.php.ini

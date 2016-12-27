@@ -1,0 +1,7 @@
+Controller/Component/
+View/Elements/Flash/
+.gitignore
+LICENSE
+SetFlash.iml
+composer.json
+readme.md

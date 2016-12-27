@@ -1,0 +1,8 @@
+DependencyInjection/
+Generator/
+Resources/config/
+.gitignore
+LICENSE
+README.md
+VentureOakLabsFaviconGeneratorBundle.php
+composer.json

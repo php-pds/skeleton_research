@@ -1,0 +1,10 @@
+Decorator/
+DependencyInjection/
+EventListener/
+Pagination/Pagerfanta/
+Resources/config/
+.gitignore
+LICENSE
+README.md
+composer.json
+eZContentDecoratorBundle.php

@@ -1,0 +1,8 @@
+src/
+tests/
+vendor/
+.gitignore
+_intellij_phpunit_launcher.php
+composer.json
+composer.lock
+readme.md

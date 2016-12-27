@@ -1,0 +1,10 @@
+src/
+tests/
+utils/
+.craftsman.example
+.gitignore
+LICENSE
+README.md
+composer.json
+craftsman
+phpunit.xml

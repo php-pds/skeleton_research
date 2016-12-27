@@ -1,0 +1,7 @@
+log/
+src/GuillermoMartinez/Filemanager/
+userfiles/
+.gitignore
+LICENSE
+README.md
+composer.json

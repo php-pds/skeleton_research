@@ -1,0 +1,6 @@
+config/
+src/
+.editorconfig
+.gitignore
+composer.json
+composer.lock

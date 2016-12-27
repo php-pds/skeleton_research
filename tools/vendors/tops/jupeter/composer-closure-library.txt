@@ -1,0 +1,11 @@
+closure/
+third_party/closure/goog/
+.gitignore
+AUTHORS
+CONTRIBUTING
+LICENSE
+README
+README.md
+all_tests.html
+alltests.js
+composer.json

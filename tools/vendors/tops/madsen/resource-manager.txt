@@ -1,0 +1,4 @@
+.idea/
+src/resourceManager/
+composer.json
+readme.md

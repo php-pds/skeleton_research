@@ -1,0 +1,6 @@
+src/Securepass/
+.gitignore
+LICENSE
+README.md
+composer.json
+example.php

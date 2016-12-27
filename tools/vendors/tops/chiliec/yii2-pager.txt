@@ -1,0 +1,4 @@
+LICENSE.md
+Pager.php
+README.md
+composer.json

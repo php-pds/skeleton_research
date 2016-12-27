@@ -1,0 +1,7 @@
+src/FR3D/XmlDSig/
+test/
+.gitignore
+.travis.yml
+LICENSE.txt
+README.md
+composer.json

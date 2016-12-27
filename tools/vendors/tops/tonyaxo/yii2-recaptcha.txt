@@ -1,0 +1,7 @@
+.gitignore
+LICENSE
+README.md
+ReCaptcha.php
+ReCaptchaComponent.php
+ReCaptchaValidator.php
+composer.json

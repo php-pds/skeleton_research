@@ -1,0 +1,11 @@
+views/
+.htaccess
+.rsync_include
+.rsync_project
+LICENSE
+README.mkd
+composer.json
+deano.php
+index.php
+sync
+target.php

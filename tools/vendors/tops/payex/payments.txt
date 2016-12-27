@@ -1,0 +1,9 @@
+PayEx_Payments/
+docs/
+.gitmodules
+.travis.yml
+LICENSE.txt
+README.md
+composer.json
+modman
+phpunit.xml

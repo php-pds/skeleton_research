@@ -1,0 +1,10 @@
+app/
+bin/
+htdocs/
+installer/
+src/FrontendBundle/
+var/
+.gitignore
+LICENSE
+README.md
+composer.json

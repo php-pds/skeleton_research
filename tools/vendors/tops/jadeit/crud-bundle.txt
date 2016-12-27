@@ -1,0 +1,4 @@
+JadeIT/CrudBundle/
+LICENSE
+README.md
+composer.json

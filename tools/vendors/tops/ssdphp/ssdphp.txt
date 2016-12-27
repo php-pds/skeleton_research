@@ -1,0 +1,12 @@
+App/Home/
+SsdPHP/
+resources/lang/zh/
+vendor/
+www/
+.gitignore
+LICENSE
+README.md
+VERSION
+composer.json
+composer.lock
+phpunit.xml1

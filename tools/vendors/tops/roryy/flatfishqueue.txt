@@ -1,0 +1,7 @@
+demo/
+src/Flatfish/Queue/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock

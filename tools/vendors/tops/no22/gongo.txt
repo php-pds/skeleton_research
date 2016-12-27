@@ -1,0 +1,5 @@
+example/
+lib/
+README.md
+composer.json
+license.txt

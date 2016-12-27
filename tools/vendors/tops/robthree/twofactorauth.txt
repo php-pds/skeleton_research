@@ -1,0 +1,12 @@
+demo/
+lib/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+TwoFactorAuth.phpproj
+TwoFactorAuth.sln
+composer.json
+logo.png
+multifactorauthforeveryone.png

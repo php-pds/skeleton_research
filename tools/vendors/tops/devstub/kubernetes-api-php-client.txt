@@ -1,0 +1,7 @@
+src/KubernetesAPIClient/
+tests/KubernetesAPIClient/
+.gitignore
+LICENSE
+README.md
+composer.json
+phpunit.xml

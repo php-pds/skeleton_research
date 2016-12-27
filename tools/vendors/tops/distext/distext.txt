@@ -1,0 +1,7 @@
+src/Wavy/Distext/
+tests/Wavy/Distext/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock

@@ -1,0 +1,7 @@
+src/
+tests/
+.gitignore
+LICENSE
+composer.json
+composer.json.psr0
+readme.md

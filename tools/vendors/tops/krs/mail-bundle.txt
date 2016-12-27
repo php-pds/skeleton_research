@@ -1,0 +1,16 @@
+Admin/
+Controller/
+DependencyInjection/
+Entity/
+Mailer/
+Manager/
+Resources/
+.buildpath
+.gitignore
+.gitignore~
+.project
+KRSMailBundle.php
+LICENSE
+README.md
+README.md~
+composer.json

@@ -1,0 +1,8 @@
+generators/crud/
+views/pager/
+web/
+LICENSE
+Module.php
+README.md
+composer.json
+screenshot.png

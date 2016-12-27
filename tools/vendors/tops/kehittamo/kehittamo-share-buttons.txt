@@ -1,0 +1,9 @@
+includes/
+languages/
+vendor/facebook-php-sdk-v4-5.0.0/
+.gitignore
+LICENSE.txt
+README.md
+composer.json
+kehittamo-share-buttons.php
+readme.txt

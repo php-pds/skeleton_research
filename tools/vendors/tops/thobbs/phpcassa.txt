@@ -1,0 +1,17 @@
+debian/
+doc/
+examples/
+ext/thrift_protocol/
+lib/
+test/
+.gitignore
+.travis.yml
+AUTHORS
+CHANGES
+INSTALLING
+LICENSE
+README.mkd
+VERSION
+apigen.neon
+composer.json
+phpunit.xml

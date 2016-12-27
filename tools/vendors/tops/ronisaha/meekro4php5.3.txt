@@ -1,0 +1,7 @@
+src/
+.gitignore
+COPYING
+COPYING.LESSER
+README.md
+autoload.php
+composer.json

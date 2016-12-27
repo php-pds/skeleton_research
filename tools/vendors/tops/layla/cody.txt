@@ -1,0 +1,11 @@
+example/MyApp/
+src/
+.gitignore
+README.md
+code.yml
+cody
+composer.json
+composer.lock
+module-guestbook.yml
+phpdoc.xml.dist
+test-module-guestbook.yml

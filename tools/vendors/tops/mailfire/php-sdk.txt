@@ -1,0 +1,8 @@
+mailfire/
+tests/
+.gitignore
+README.md
+autoloader.php
+composer.json
+example.php
+test.sh

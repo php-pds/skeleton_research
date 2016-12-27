@@ -1,0 +1,6 @@
+src/Converter/
+.gitignore
+Doxyfile
+LICENSE
+README.md
+composer.json

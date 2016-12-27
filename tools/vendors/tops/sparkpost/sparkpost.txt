@@ -1,0 +1,17 @@
+examples/
+lib/SparkPost/
+test/unit/
+.coveralls.yml
+.editorconfig
+.gitignore
+.travis.yml
+AUTHORS.md
+CHANGELOG.md
+CONTRIBUTING.md
+LICENSE.txt
+MIGRATION.md
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist
+post-install.sh

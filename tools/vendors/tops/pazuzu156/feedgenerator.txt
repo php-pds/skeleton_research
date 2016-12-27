@@ -1,0 +1,8 @@
+src/Pazuzu156/FeedGenerator/
+tests/
+.gitattributes
+.gitignore
+.travis.yml
+composer.json
+phpunit.xml
+readme.md

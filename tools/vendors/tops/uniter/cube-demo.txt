@@ -1,0 +1,14 @@
+php/src/
+textures/
+.gitignore
+.jshintignore
+.jshintrc
+.travis.yml
+MIT-LICENSE.txt
+README.md
+composer.json
+composer.lock
+index.html
+index.js
+package.json
+webpack.config.js

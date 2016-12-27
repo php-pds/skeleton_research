@@ -1,0 +1,8 @@
+DependencyInjection/
+Handler/
+Listener/
+Resources/
+Tests/Listener/
+CethyworksZopimChatBundle.php
+README.md
+composer.json

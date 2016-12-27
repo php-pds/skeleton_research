@@ -1,0 +1,7 @@
+vendor/
+LICENSE
+README.md
+composer.json
+composer.phar
+occurl.php
+owncloudPHPInterface.php

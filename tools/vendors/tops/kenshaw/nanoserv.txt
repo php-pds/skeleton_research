@@ -1,0 +1,7 @@
+src/Nanoserv/
+.gitignore
+CHANGELOG
+LICENSE
+README.md
+composer.json
+php_cs

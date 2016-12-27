@@ -1,0 +1,9 @@
+src/Tricorder/
+tests/
+.gitignore
+README.md
+composer.json
+composer.lock
+composer.phar
+phpunit.xml.dist
+tricorder.php

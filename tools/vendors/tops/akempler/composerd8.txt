@@ -1,0 +1,6 @@
+config/drupal/
+drush/
+scripts/composer/
+.gitignore
+README.md
+composer.json

@@ -1,0 +1,14 @@
+DependencyInjection/
+Exception/
+Resources/config/
+Service/
+Test/
+Tests/
+Utility/
+.gitignore
+.travis.yml
+CoralCoreBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

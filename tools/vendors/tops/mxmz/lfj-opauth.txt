@@ -1,0 +1,8 @@
+config/
+src/LfjOpauth/
+view/lfj-opauth/
+.gitignore
+LICENSE.txt
+Module.php
+README.md
+composer.json

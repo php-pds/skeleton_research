@@ -1,0 +1,15 @@
+Controller/
+DTO/
+DependencyInjection/
+Document/
+EventListener/
+Events/
+Model/
+Repository/
+Resources/
+Service/
+Tests/DTO/
+ValueObject/
+CronQueueBundle.php
+README.md
+composer.json

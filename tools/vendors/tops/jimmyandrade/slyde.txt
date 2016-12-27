@@ -1,0 +1,10 @@
+src/jimmyandrade/
+.gitignore
+.project
+Gruntfile.js
+README.md
+Slyde.php
+bower.json
+component.json
+composer.json
+index.html

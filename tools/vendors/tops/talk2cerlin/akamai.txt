@@ -1,0 +1,8 @@
+src/Akamai/
+tests/
+.env.akamai.example
+.gitignore
+Readme.MD
+composer.json
+composer.lock
+phpunit.xml

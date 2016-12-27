@@ -1,0 +1,4 @@
+JadeIT/ApplicationBundle/
+LICENSE
+README.md
+composer.json

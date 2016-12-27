@@ -1,0 +1,6 @@
+.gitignore
+GeoIP2.php
+LICENSE
+README.md
+Result.php
+composer.json

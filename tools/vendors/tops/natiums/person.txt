@@ -1,0 +1,7 @@
+src/
+CHANGELOG.md
+LICENSE
+README.md
+UPGRADING.md
+composer.json
+composer.json~

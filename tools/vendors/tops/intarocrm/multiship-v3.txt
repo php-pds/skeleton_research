@@ -1,0 +1,12 @@
+initApi/
+openApi/
+.gitignore
+README
+composer.json
+dimension_algorithm.php
+footer.php
+header.php
+iframe.php
+lib.inc.php
+robots.txt
+test.txt

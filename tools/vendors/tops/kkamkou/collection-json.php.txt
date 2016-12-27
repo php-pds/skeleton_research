@@ -1,0 +1,8 @@
+CollectionJson/
+tests/
+.coveralls.yml
+.gitignore
+.travis.yml
+Dockerfile
+README.md
+composer.json

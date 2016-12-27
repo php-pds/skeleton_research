@@ -1,0 +1,4 @@
+Insolis/
+.gitignore
+README.md
+composer.json

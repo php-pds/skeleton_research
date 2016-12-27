@@ -1,0 +1,6 @@
+src/
+tests/
+CHANGELOG.md
+LICENSE
+README.md
+composer.json

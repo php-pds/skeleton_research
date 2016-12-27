@@ -1,0 +1,4 @@
+src/Hydra/HydraBundle/
+LICENSE
+README.md
+composer.json

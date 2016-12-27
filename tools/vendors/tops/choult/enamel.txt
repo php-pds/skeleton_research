@@ -1,0 +1,11 @@
+resources/
+src/
+test/unit/Feature/
+.gitignore
+CONTRIBUTING.md
+LICENSE
+README.md
+composer.json
+composer.lock
+phpmd.xml.dist
+phpunit.xml.dist

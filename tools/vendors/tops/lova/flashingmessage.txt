@@ -1,0 +1,12 @@
+css/
+src/CFlashingMessage/
+test/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+LICENSE.txt
+README.md
+autoloader.php
+composer.json
+config.php

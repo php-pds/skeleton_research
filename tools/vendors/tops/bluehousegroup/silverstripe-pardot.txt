@@ -1,0 +1,13 @@
+_config/
+code/
+images/
+javascript/plugin/
+templates/Layout/
+thirdparty/Pardot/code/
+LICENSE.md
+README.md
+SilverStripePardotScreenShot1.png
+SilverStripePardotScreenShot2.png
+SilverStripePardotScreenShot3.png
+_config.php
+composer.json

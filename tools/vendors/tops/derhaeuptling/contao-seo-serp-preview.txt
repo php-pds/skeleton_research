@@ -1,0 +1,11 @@
+assets/
+config/
+dca/
+languages/
+src/Derhaeuptling/SeoSerpPreview/
+templates/backend/
+.gitignore
+README.md
+composer.json
+gulpfile.js
+package.json

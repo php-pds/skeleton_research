@@ -1,0 +1,6 @@
+data/
+src/mkalkbrenner/odf/
+.gitignore
+LICENSE
+README.md
+composer.json

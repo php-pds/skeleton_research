@@ -1,0 +1,7 @@
+doc/
+src/trensy/
+.gitignore
+README.md
+composer.json
+phpunit.xml
+trensy

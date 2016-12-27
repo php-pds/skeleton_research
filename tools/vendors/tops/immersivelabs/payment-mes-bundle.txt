@@ -1,0 +1,13 @@
+Client/
+DependencyInjection/
+Form/
+PaymentGateway/Trident/
+Plugin/
+Resources/
+Test/
+Tests/
+.gitignore
+PaymentMeSBundle.php
+README.md
+composer.json
+phpunit.xml

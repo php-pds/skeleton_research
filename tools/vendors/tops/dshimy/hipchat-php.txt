@@ -1,0 +1,6 @@
+src/HipChat/
+tests/
+LICENSE
+README.md
+composer.json
+example.php

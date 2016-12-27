@@ -1,0 +1,9 @@
+examples/
+src/
+tests/
+.gitignore
+.travis.yml
+LICENSE.md
+README.md
+codeclimate.yml
+composer.json

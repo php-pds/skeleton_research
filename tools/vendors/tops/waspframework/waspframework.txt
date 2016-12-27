@@ -1,0 +1,10 @@
+src/Wasp/
+tests/
+.gitattributes
+.gitignore
+.travis.yml
+LICENSE.md
+README.md
+composer.json
+phpunit.php
+phpunit.xml

@@ -1,0 +1,12 @@
+Controller/
+DependencyInjection/
+Entity/
+Resources/
+Tests/Controller/
+UI/
+.gitignore
+BruyereFreelanceSeoExtensionBundle.php
+LICENSE
+README.md
+composer.json
+screenshot.png

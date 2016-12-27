@@ -1,0 +1,5 @@
+src/FlashNormalizer/
+.gitignore
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,5 @@
+etc/
+view/frontend/
+LICENSE
+README.md
+composer.json

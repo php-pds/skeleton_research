@@ -1,0 +1,8 @@
+bin/
+src/Funk/
+tests/
+README.md
+app.phpsgi
+composer.json
+phpunit.xml
+phpunit.xml.dist

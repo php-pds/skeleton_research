@@ -1,0 +1,9 @@
+source/Csv/
+tests/
+.gitignore
+.travis.yml
+CHANGELOG.MD
+README.md
+composer.json
+docs.pdf
+phpunit.xml.dist

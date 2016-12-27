@@ -1,0 +1,12 @@
+DependencyInjection/
+Exception/
+Resources/config/
+Tests/
+Validator/
+.gitignore
+.travis.yml
+README.md
+VATINValidatorBundle.php
+composer.json
+composer.lock
+phpunit.xml.dist

@@ -1,0 +1,10 @@
+source/aw/
+tests/aw/
+.gitattributes
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+example.php
+phpunit.xml

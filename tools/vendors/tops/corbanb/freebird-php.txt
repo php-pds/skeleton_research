@@ -1,0 +1,7 @@
+examples/public/
+lib/Freebird/Services/freebird/
+.DS_Store
+.gitignore
+LICENSE
+README.md
+composer.json

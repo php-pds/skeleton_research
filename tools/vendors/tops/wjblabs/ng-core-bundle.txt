@@ -1,0 +1,10 @@
+CompilerPass/
+Component/
+Controller/
+DependencyInjection/
+Resources/
+Tests/Controller/
+LICENSE
+README.md
+composer.json
+wjbNGCoreBundle.php

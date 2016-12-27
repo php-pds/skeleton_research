@@ -1,0 +1,14 @@
+Application/
+Caching/
+Config/
+DI/
+Database/
+Diagnostics/
+Security/
+Services/
+Templating/
+UI/
+README.md
+composer.json
+license.md
+shortcuts.php

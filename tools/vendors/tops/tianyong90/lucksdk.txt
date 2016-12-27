@@ -1,0 +1,9 @@
+example/
+src/LuckSDK/
+.gitignore
+.scrutinizer.yml
+.styleci.yml
+LICENSE
+README.md
+autoload.php
+composer.json

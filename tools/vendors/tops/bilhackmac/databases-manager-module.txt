@@ -1,0 +1,16 @@
+Command/
+Config/
+Controller/
+EventListener/
+Form/
+Handler/
+Hook/
+I18n/
+Loop/
+Validator/Constraints/
+templates/backOffice/default/
+CHANGELOG.md
+DatabasesManager.php
+LICENSE.txt
+Readme.md
+composer.json

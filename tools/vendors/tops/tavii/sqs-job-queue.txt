@@ -1,0 +1,16 @@
+Exception/
+Job/
+Message/
+Queue/
+Storage/
+Tests/
+Worker/
+.coveralls.yml
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+example.php
+phpunit.xml.dist

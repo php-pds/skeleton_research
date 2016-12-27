@@ -1,0 +1,10 @@
+Controller/
+DependencyInjection/
+Logger/
+Resources/
+Tests/Controller/
+Twig/
+.gitignore
+README.md
+ZaederJsLoggerBundle.php
+composer.json

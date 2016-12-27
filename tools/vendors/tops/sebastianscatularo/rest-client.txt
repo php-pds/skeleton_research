@@ -1,0 +1,7 @@
+bin/
+src/main/php/SebastianScatularo/Rest/Client/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock

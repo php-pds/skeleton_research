@@ -1,0 +1,4 @@
+example/
+src/Temp/
+README.md
+composer.json

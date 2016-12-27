@@ -1,0 +1,16 @@
+Command/
+Controller/
+DependencyInjection/
+Entity/
+EventListener/
+Form/
+RPC/
+Resources/
+Tests/Controller/
+Topic/
+Util/
+.gitignore
+ChatBundle.php
+README.md
+composer.json
+composer.lock

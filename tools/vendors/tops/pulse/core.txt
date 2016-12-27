@@ -1,0 +1,11 @@
+docs/
+public/
+src/
+tests/Pulse/
+.coverals.yml
+.gitignore
+.travis.yml
+README.md
+composer.json
+phpunit.xml
+phpunit.xml.dist

@@ -1,0 +1,5 @@
+assets/
+ImageCropper.php
+ImageCropperAsset.php
+README.md
+composer.json

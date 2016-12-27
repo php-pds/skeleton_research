@@ -1,0 +1,8 @@
+examples/
+library/
+tests/
+.gitignore
+LICENSE
+README.md
+circle.yml
+composer.json

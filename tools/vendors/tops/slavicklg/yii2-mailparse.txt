@@ -1,0 +1,5 @@
+.gitignore
+LICENSE
+MailParse.php
+README.md
+composer.json

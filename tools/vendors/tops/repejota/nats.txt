@@ -1,0 +1,14 @@
+examples/
+spec/Nats/
+src/Nats/
+test/
+.gitignore
+.travis.yml
+AUTHORS
+CONTRIBUTORS
+LICENSE
+Makefile
+README.md
+VERSION
+composer.json
+phpunit.xml.dist

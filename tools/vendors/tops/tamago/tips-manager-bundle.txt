@@ -1,0 +1,15 @@
+Controller/
+DependencyInjection/
+Entity/
+Repository/
+Resources/
+Tests/
+bin/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+TamagoTipsManagerBundle.php
+composer.json
+composer.phar
+phpunit.xml.dist

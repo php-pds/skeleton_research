@@ -1,0 +1,9 @@
+lib/
+src/Readdle/Crypt/
+tests/
+.gitignore
+composer.json
+composer.lock
+crypter.sh
+package.json
+phpunit.xml

@@ -1,0 +1,5 @@
+src/YouTubeInfo/
+.gitignore
+README.md
+composer.json
+test.php

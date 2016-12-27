@@ -1,0 +1,9 @@
+Classes/
+.editorconfig
+.php_cs
+README.rst
+composer.json
+ext_emconf.php
+ext_icon.png
+ext_icon.svg
+ext_localconf.php

@@ -1,0 +1,11 @@
+Command/
+DependencyInjection/
+GeneratorRestFromDoctrine/
+Resources/
+Tests/Controller/
+nbproject/
+.gitignore
+LICENSE
+README.md
+SoftflyGeneratorBundle.php
+composer.json

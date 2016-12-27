@@ -1,0 +1,6 @@
+packages/plugins/router/
+CHANGELOG.md
+LICENSE.txt
+README.md
+composer.json
+pkg_router.xml

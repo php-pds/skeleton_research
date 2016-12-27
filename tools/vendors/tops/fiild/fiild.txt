@@ -1,0 +1,10 @@
+assets/
+src/
+vendor/
+.gitignore
+README.md
+composer.json
+composer.lock
+gulpfile.coffee
+gulpfile.js
+package.json

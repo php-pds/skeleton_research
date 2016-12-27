@@ -1,0 +1,11 @@
+ext/
+phal/
+src/PhpHal/
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+README.md
+composer.json
+config.json
+phpunit.xml.dist

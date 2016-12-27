@@ -1,0 +1,12 @@
+actions/discussion/
+languages/
+lib/
+upgrades/
+vendors/jquery-plugins/
+views/
+.gitignore
+README.md
+composer.json
+composer.lock
+manifest.xml
+start.php

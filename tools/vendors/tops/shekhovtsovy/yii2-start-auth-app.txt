@@ -1,0 +1,15 @@
+assets/
+config/
+controllers/
+mail/
+migrations/
+models/
+runtime/
+tests/
+views/
+web/
+.bowerrc
+.gitignore
+README.md
+composer.json
+yii

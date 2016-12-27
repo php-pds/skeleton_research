@@ -1,0 +1,6 @@
+application/
+assets/
+system/
+template/front/
+.htaccess
+index.php

@@ -1,0 +1,4 @@
+src/Adamkearsley/ConvertMigrations/
+.gitignore
+README.md
+composer.json

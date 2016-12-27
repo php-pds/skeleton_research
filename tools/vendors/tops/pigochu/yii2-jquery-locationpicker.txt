@@ -1,0 +1,10 @@
+assets/
+doc/
+.gitignore
+CHANGELOG.md
+CoordinatesPicker.php
+CoordinatesPickerAsset.php
+LocationPickerAsset.php
+LocationPickerWidget.php
+README.md
+composer.json

@@ -1,0 +1,8 @@
+Controllers/
+Views.connexo/frontend/plugins/boilerplate/
+Views/frontend/plugins/boilerplate/
+Bootstrap.php
+README.md
+composer.json
+info.txt
+setup.sh

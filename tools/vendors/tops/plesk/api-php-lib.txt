@@ -1,0 +1,10 @@
+src/PleskX/Api/
+tests/
+.gitignore
+Gruntfile.js
+LICENSE
+README.md
+composer.json
+composer.lock
+package.json
+phpunit.xml.dist

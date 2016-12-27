@@ -1,0 +1,10 @@
+languages/
+src/
+tests/
+views/
+.gitignore
+.travis.yml
+composer.json
+manifest.xml
+phpunit.xml
+start.php

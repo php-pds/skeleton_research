@@ -1,0 +1,15 @@
+app/
+bootstrap/
+config/
+database/migrations/
+public/
+resources/views/
+routes/
+storage/
+.env.example
+.gitattributes
+.gitignore
+Vagrantfile
+composer.json
+phinx.php
+readme.md

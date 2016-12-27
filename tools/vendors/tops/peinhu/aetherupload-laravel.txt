@@ -1,0 +1,10 @@
+assets/
+config/
+routes/
+src/
+uploads/
+views/
+.gitignore
+LICENSE
+README.md
+composer.json

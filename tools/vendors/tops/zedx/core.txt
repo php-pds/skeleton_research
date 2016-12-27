@@ -1,0 +1,12 @@
+config/
+database/
+resources/
+src/
+tests/
+.gitattributes
+.gitignore
+.php_cs
+LICENSE
+README.md
+composer.json
+phpunit.xml

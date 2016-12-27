@@ -1,0 +1,8 @@
+GettextExtractor/
+tests/
+.gitattributes
+.gitignore
+Readme.md
+composer.json
+gettext-extractor.php
+phpunit.xml.dist

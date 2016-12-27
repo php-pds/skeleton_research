@@ -1,0 +1,12 @@
+demo/
+docs/
+lib/
+test/
+.DS_Store
+.gitignore
+PushSDK.php
+README.md
+README副本.md
+composer.json
+configure.php
+sdk.php

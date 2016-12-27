@@ -1,0 +1,11 @@
+DependencyInjection/
+Http/
+Model/
+Resources/config/
+Service/
+Tests/
+.gitignore
+README.md
+YandexTranslatorBundle.php
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,12 @@
+src/
+tests/
+.gitignore
+AUTHORS
+CHANGELOG.md
+CONTRIBUTING.md
+LICENSE
+README.md
+athena.json
+composer.json
+composer.lock
+phpunit.xml

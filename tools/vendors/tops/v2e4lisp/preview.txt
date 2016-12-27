@@ -1,0 +1,9 @@
+docs/
+sample/
+spec/
+src/Preview/
+.gitignore
+.travis.yml
+README.md
+composer.json
+preview

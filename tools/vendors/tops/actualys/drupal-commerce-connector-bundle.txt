@@ -1,0 +1,17 @@
+Controller/Rest/
+DependencyInjection/
+Entity/Repository/
+Guesser/
+Item/
+Manager/
+Normalizer/
+Processor/
+Reader/ORM/
+Resources/
+Webservice/
+Writer/
+.gitignore
+ActualysDrupalCommerceConnectorBundle.php
+LICENSE
+README.md
+composer.json

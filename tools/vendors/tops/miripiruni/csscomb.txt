@@ -1,0 +1,10 @@
+src/
+www/
+.gitignore
+CHANGELOG.md
+CONTRIBUTING.md
+LICENSE
+Makefile
+README.mkd
+composer.json
+yuicompressor-2.4.7.jar

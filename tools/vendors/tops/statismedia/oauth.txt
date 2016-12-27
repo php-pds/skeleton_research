@@ -1,0 +1,6 @@
+lib/StasisMedia/OAuth/
+test/
+.gitignore
+README.markdown
+composer.json
+install_vendors.sh

@@ -1,0 +1,4 @@
+lib/QuickEmailVerification/
+.gitignore
+README.md
+composer.json

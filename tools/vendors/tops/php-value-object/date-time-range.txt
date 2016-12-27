@@ -1,0 +1,10 @@
+Tests/
+.gitignore
+.travis.yml
+DateTimeRange.php
+DateTimeRangeSplitter.php
+LICENSE
+LICENSE.md
+README.md
+composer.json
+phpunit.xml.dist

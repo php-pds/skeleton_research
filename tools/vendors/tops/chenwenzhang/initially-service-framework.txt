@@ -1,0 +1,4 @@
+src/Initially/Service/
+.gitignore
+composer.json
+readme.md

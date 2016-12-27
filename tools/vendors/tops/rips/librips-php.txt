@@ -1,0 +1,6 @@
+example/
+src/API/
+Doxyfile
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,13 @@
+doc/
+examples/shop/
+tests/
+.gitignore
+CHANGELOG.md
+DynamicActiveQuery.php
+DynamicActiveRecord.php
+LICENSE.txt
+README.md
+ValueExpression.php
+composer.json
+composer.lock
+phpunit.xml

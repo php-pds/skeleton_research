@@ -1,0 +1,9 @@
+DependencyInjection/
+Resources/
+SugarREST/
+.gitignore
+LICENSE
+README.md
+SugarCRMRESTBundle-DevDoc-0.2.pdf
+composer.json
+sugarRESTBundle.php

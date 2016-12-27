@@ -1,0 +1,5 @@
+src/Youtrack/API/
+.gitignore
+LICENSE
+README.md
+composer.json

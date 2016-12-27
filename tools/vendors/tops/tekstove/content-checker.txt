@@ -1,0 +1,6 @@
+Dictionaries/
+src/Tekstove/ContentChecker/
+tests/
+.gitignore
+README.md
+composer.json

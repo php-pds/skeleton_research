@@ -1,0 +1,9 @@
+public/
+src/SON/
+tests/
+.gitignore
+.travis.yml
+Makefile
+README.md
+composer.json
+composer.phar

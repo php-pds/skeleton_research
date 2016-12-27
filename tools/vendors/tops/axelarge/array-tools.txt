@@ -1,0 +1,7 @@
+src/Axelarge/ArrayTools/
+test/
+.gitignore
+.travis.yml
+README.md
+composer.json
+composer.lock

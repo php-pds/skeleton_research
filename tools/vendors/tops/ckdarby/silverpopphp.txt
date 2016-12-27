@@ -1,0 +1,5 @@
+src/Silverpop/
+.gitignore
+LICENCE
+README.md
+composer.json

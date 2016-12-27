@@ -1,0 +1,8 @@
+script/
+src/
+.gitignore
+LICENSE
+composer.json
+composer.lock
+kodosunifa.php
+phpunit.xml

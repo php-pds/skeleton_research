@@ -1,0 +1,11 @@
+assets/
+examples/
+resources/Kafoso/Tools/Debug/Dumper/HtmlFormatter/
+src/
+tests/
+.gitignore
+LICENSE
+README.md
+TODO.md
+composer.json
+index.php

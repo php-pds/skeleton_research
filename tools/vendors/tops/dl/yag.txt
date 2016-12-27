@@ -1,0 +1,17 @@
+Classes/
+Configuration/
+Documentation/
+Resources/
+Tests/
+doc/
+.gitignore
+composer.json
+ext_autoload.php
+ext_conf_template.txt
+ext_emconf.php
+ext_icon.gif
+ext_icon.png
+ext_localconf.php
+ext_tables.php
+ext_tables.sql
+readme.md

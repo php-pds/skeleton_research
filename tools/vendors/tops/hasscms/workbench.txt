@@ -1,0 +1,8 @@
+controllers/
+helps/
+stubs/
+vendor/
+README.md
+README.md~
+Starter.php
+composer.json

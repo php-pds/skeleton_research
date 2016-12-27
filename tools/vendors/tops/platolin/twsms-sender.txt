@@ -1,0 +1,7 @@
+src/TwsmsSender/
+tests/
+.gitignore
+README.md
+TwSMS_API.pdf
+composer.json
+twsms.ini.bak

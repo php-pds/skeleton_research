@@ -1,0 +1,7 @@
+src/RatkoR/Crate/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json
+phpunit.xml

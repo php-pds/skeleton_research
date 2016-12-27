@@ -1,0 +1,16 @@
+assets/
+contexts/
+events/
+formatters/
+helpers/
+storages/
+validators/
+web/
+widgets/
+ContextManager.php
+File.php
+FileComponent.php
+LICENSE
+ModelBehavior.php
+README.md
+composer.json

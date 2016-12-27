@@ -1,0 +1,6 @@
+data/
+LICENSE
+README.md
+TaiwanBankCode.php
+composer.json
+updateXML.php

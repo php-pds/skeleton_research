@@ -1,0 +1,6 @@
+app/
+.gitignore
+LICENSE
+README.md
+UPDATE-1.1.md
+composer.json

@@ -1,0 +1,15 @@
+DependencyInjection/
+Entity/
+Listener/
+Repository/
+Resources/config/
+Service/ActivityLog/
+Tests/
+.gitignore
+.sensiolabs.yml
+.travis.yml
+ActivityLogBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,17 @@
+Classes/
+Documentation/
+Resources/
+Tests/
+.editorconfig
+.gitignore
+.php_cs
+.scrutinizer.yml
+.styleci.yml
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+composer.json
+ext_emconf.php
+ext_icon.png
+phpunit.xml.dist

@@ -1,0 +1,7 @@
+src/
+.editorconfig
+.gitignore
+composer.json
+composer.lock
+podcastr
+podcastr.dist.json

@@ -1,0 +1,8 @@
+DependencyInjection/
+Document/
+Resources/config/
+Service/
+LICENSE
+README.md
+RiconectMailerBundle.php
+composer.json

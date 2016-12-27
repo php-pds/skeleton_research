@@ -1,0 +1,7 @@
+demo/
+src/Phacterl/
+.gitignore
+README.md
+actors.gif
+composer.json
+shooting.gif

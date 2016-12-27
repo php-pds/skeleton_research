@@ -1,0 +1,17 @@
+Controller/
+DependencyInjection/
+Entity/
+Form/Type/
+Interfaces/
+Model/
+Resources/
+Service/
+Tests/
+TicketIssue/
+Validator/Constraints/
+.gitignore
+.travis.yml
+README.md
+ThanpaPaycenterBundle.php
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,7 @@
+src/
+tests/
+.gitignore
+CHANGELOG
+README.md
+composer.json
+index.php

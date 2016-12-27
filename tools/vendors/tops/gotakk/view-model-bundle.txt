@@ -1,0 +1,15 @@
+DependencyInjection/
+Resources/config/
+Services/
+Tests/
+ViewModel/
+.coveralls.yml
+.gitignore
+.sensiolabs.yml
+.travis.yml
+CHANGELOG.md
+LICENSE.md
+README.md
+composer.json
+gotakkViewModelBundle.php
+phpunit.xml.dist

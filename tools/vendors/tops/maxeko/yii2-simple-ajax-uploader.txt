@@ -1,0 +1,6 @@
+.gitignore
+SimpleAjaxUploader.php
+SimpleAjaxUploaderAsset.php
+composer.json
+composer.lock
+readme.md

@@ -1,0 +1,10 @@
+forms/
+migrations/
+models/
+widgets/
+.gitignore
+Module.php
+Permission.php
+README.md
+ThumbRateAction.php
+composer.json

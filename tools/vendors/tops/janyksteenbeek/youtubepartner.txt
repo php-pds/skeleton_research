@@ -1,0 +1,6 @@
+.gitignore
+LICENSE.txt
+README.txt
+YouTubePartner.php
+composer.json
+descriptor.json

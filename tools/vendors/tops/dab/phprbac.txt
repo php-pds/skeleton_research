@@ -1,0 +1,6 @@
+PhpRbac/
+.gitignore
+LICENSE
+LICENSE.md
+README.md
+composer.json

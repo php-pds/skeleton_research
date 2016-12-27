@@ -1,0 +1,7 @@
+factories/
+tests/
+FactoryGirl.php
+FactorySequence.php
+LICENCE
+README.md
+composer.json

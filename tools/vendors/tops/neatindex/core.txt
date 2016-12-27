@@ -1,0 +1,3 @@
+src/neatindex/core/
+.gitignore
+composer.json

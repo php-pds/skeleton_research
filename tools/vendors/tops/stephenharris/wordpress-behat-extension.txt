@@ -1,0 +1,16 @@
+ci/
+docs/
+features/
+src/
+unit-tests/
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+behat.yml
+composer.json
+composer.lock
+couscous.yml
+phpcs.xml
+phpunit.xml

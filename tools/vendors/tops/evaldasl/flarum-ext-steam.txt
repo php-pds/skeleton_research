@@ -1,0 +1,7 @@
+src/
+LICENSE
+README.md
+bootstrap.php
+composer.json
+icon.jpg
+package.json

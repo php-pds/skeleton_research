@@ -1,0 +1,7 @@
+demo/
+sql/
+src/Migrate/
+.gitignore
+LICENSE
+README.md
+composer.json

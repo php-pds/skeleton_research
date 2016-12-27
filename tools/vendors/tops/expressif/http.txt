@@ -1,0 +1,6 @@
+src/Expressif/Http/
+test/
+.gitignore
+LICENSE
+README.md
+composer.json

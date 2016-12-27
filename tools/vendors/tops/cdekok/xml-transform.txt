@@ -1,0 +1,9 @@
+src/
+test/
+.coveralls.yml
+.gitignore
+.travis.yml
+README.md
+composer.json
+grumphp.yml
+phpunit.xml.dist

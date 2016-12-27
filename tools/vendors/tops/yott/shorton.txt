@@ -1,0 +1,6 @@
+assets/js/
+src/
+.editorconfig
+.gitignore
+composer.json
+shorton.php

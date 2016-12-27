@@ -1,0 +1,6 @@
+Classes/MT3/PackageManager/
+Configuration/
+Resources/Private/
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,6 @@
+src/PhpQueryString/
+tests/
+.gitignore
+README.md
+composer.json
+phpunit.xml

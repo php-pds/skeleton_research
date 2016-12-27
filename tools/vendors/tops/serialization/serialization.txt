@@ -1,0 +1,10 @@
+src/
+test/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+COPYING
+README.md
+Serialization.php
+composer.json
+phpunit.xml.dist

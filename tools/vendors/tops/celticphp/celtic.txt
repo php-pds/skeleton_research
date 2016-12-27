@@ -1,0 +1,5 @@
+doc/
+src/Celtic/
+LICENSE
+README.md
+composer.json

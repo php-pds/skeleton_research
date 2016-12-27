@@ -1,0 +1,8 @@
+Controller/
+DependencyInjection/
+Form/
+Resources/
+NaviappsUserBundle.php
+NaviappsUserEvents.php
+README.md
+composer.json

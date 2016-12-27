@@ -1,0 +1,13 @@
+git-hooks/
+src/
+tests/src/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+AUTHORS
+LICENSE
+README.md
+composer.json
+composer.lock
+phpcs.xml
+phpunit.xml

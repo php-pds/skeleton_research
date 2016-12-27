@@ -1,0 +1,10 @@
+Sniffs/
+tests/
+.gitignore
+.travis.yml
+README.mdown
+README.org.mdown
+build.xml
+composer.json
+phpunit.xml
+ruleset.xml

@@ -1,0 +1,6 @@
+src/VerifyPaypal/
+tests/
+.gitignore
+LICENSE.txt
+README.md
+composer.json

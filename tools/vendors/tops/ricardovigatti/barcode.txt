@@ -1,0 +1,4 @@
+src/Barcode/
+LICENSE
+README.md
+composer.json

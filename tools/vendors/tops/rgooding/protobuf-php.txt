@@ -1,0 +1,10 @@
+library/DrSlump/
+man/
+tests/
+LICENSE
+README.md
+Rakefile
+composer.json
+package.pear
+protoc-gen-php.bat
+protoc-gen-php.php

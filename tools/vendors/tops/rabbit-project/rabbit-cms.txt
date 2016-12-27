@@ -1,0 +1,14 @@
+application/
+data/
+docs/
+public/
+vendor/rabbit-project/
+.gitignore
+.gitmodules
+.htaccess
+.travis.yml
+LICENCE.md
+README.md
+composer.json
+init.php
+phpunit.xml.dist

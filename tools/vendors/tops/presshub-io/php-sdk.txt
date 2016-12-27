@@ -1,0 +1,7 @@
+examples/
+src/Presshub/
+.gitignore
+LICENSE
+README.md
+autoload.php
+composer.json

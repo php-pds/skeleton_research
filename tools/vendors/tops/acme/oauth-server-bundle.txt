@@ -1,0 +1,8 @@
+Controller/
+DependencyInjection/
+Document/
+Form/
+Resources/
+Tests/Controller/
+AcmeOAuthServerBundle.php
+composer.json

@@ -1,0 +1,4 @@
+public/
+templates/
+README.md
+composer.json

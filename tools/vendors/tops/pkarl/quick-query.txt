@@ -1,0 +1,12 @@
+tests/
+.gitignore
+.travis.yml
+AUTHORS
+LICENSE
+QQ.Utils.php
+QuickQuery.php
+README.md
+composer.json
+composer.lock
+phpunit.xml
+readme.txt

@@ -1,0 +1,6 @@
+examples/websocket/
+src/
+.gitignore
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,12 @@
+bin/
+src/dotser/library/
+test/
+util/
+.coveralls.yml
+.gitignore
+.travis.yml
+build.xml
+composer.json
+phpdoc.dist.xml
+phpunit.xml.dist
+readme.md

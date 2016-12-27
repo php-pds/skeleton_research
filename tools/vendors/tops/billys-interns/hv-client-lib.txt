@@ -1,0 +1,11 @@
+src/elevate/
+tests/elevate/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE.md
+README.md
+autoload.php
+composer.json
+phpunit.xml.dist
+sonar-project.properties

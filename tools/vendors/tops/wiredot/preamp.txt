@@ -1,0 +1,11 @@
+assets/
+classes/
+src/
+templates/
+.bowerrc
+.gitignore
+bower.json
+composer.json
+gulpfile.js
+package.json
+readme.md

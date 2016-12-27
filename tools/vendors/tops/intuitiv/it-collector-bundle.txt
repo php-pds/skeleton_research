@@ -1,0 +1,8 @@
+DataCollector/
+DependencyInjection/
+Resources/
+.gitignore
+ITCollectorBundle.php
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,13 @@
+bin/
+docs/assets/
+spec/
+src/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CHANGELOG.md
+LICENSE.txt
+README.md
+composer.json
+kahlan-config.travis.php
+phpcs.xml

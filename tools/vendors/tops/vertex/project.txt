@@ -1,0 +1,8 @@
+app/
+bootstrap/
+config/
+public/
+.htaccess
+composer.json
+do
+index.php.bak

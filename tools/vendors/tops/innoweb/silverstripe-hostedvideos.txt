@@ -1,0 +1,15 @@
+_config/
+code/
+css/
+javascript/
+templates/Includes/
+vendor/afterglow/
+.editorconfig
+.gitattributes
+.htaccess
+changelog.md
+code-of-conduct.md
+composer.json
+contributing.md
+license.md
+readme.md

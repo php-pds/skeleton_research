@@ -1,0 +1,4 @@
+doc/
+src/BlueShamrock/Symfony/BsdRADBundle/
+README.md
+composer.json

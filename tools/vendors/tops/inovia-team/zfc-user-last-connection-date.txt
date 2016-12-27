@@ -1,0 +1,10 @@
+config/
+data/
+src/ZfcUserLastConnectionDate/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+Module.php
+README.md
+composer.json

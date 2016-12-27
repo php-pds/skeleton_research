@@ -1,0 +1,7 @@
+classes/
+config/
+dca/
+languages/de/
+modules/
+templates/newsletter/
+composer.json

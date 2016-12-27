@@ -1,0 +1,9 @@
+src/
+tests/
+.travis.yml
+README.md
+autoload.php
+benchmark.php
+composer.json
+example.php
+test.sh

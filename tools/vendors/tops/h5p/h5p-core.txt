@@ -1,0 +1,15 @@
+doc/
+fonts/
+images/
+js/
+styles/
+.gitignore
+LICENSE.txt
+README.txt
+composer.json
+embed.php
+h5p-default-storage.class.php
+h5p-development.class.php
+h5p-event-base.class.php
+h5p-file-storage.interface.php
+h5p.classes.php

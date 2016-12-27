@@ -1,0 +1,8 @@
+sample/src/
+src/TextGenerator/
+tests/
+.gitignore
+CHANGELOG.md
+README.md
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,12 @@
+docs/
+resources/
+src/
+tests/
+.gitignore
+LICENSE
+README.md
+blacksmith
+circle.yml
+composer.json
+composer.lock
+phpunit.xml

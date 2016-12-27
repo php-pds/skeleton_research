@@ -1,0 +1,8 @@
+src/Alterway/Bundle/RestHalBundle/
+test/behavior/Fixtures/Demo/
+.gitignore
+LICENCE
+README.md
+behat.yml
+composer.json
+travis.yml

@@ -1,0 +1,4 @@
+.gitignore
+StatfulClient.php
+composer.json
+readme.md

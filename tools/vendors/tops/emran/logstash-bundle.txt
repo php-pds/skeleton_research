@@ -1,0 +1,5 @@
+src/Emran/Bundle/LogstashBundle/
+.gitignore
+LICENSE
+README.md
+composer.json

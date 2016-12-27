@@ -1,0 +1,14 @@
+bin/
+example/
+src/
+tests/
+.gitattributes
+.gitignore
+.travis.yml
+CHANGES.md
+LICENSE.md
+Makefile
+Procfile
+README.md
+composer.json
+composer.lock

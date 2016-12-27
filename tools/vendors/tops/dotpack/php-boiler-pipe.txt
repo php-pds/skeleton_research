@@ -1,0 +1,9 @@
+src/
+.gitignore
+LICENSE
+NOTICE
+README.md
+composer.json
+composer.lock
+example.php
+phpunit.xml

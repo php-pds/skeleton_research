@@ -1,0 +1,6 @@
+config/
+src/PGSDoctrine/
+test/
+README.md
+composer.json
+phpunit.xml

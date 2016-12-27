@@ -1,0 +1,14 @@
+DependencyInjection/
+Doctrine/OXM/Types/
+Exception/
+Model/
+Resources/config/
+Tests/
+Type/
+.gitignore
+.travis.yml
+LICENSE
+RDFJobDefinitionFormatBundle.php
+README.md
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,9 @@
+AdminIncludes/
+Config/
+Controller/
+Form/
+I18n/
+Model/
+images/
+BitpayPayments.php
+composer.json

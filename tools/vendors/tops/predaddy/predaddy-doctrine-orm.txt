@@ -1,0 +1,10 @@
+build/
+src/predaddy/domain/impl/doctrine/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+build.xml
+composer.json
+phpdox.xml.dist
+phpunit.xml.dist

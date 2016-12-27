@@ -1,0 +1,11 @@
+docs/
+lib/
+test/
+.gitignore
+.php_cs
+.travis.yml
+README.md
+autoload.php
+composer.json
+git_push.sh
+phpunit.xml.dist

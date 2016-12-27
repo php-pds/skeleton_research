@@ -1,0 +1,13 @@
+backend/
+common/
+console/
+environments/
+frontend/
+.bowerrc
+.gitignore
+README.md
+composer.json
+init
+init.bat
+requirements.php
+yii.bat

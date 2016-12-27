@@ -1,0 +1,5 @@
+DependencyInjection/
+Resources/config/
+KakuBundle.php
+composer.json
+readme.md

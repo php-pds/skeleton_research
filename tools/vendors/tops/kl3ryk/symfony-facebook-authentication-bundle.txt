@@ -1,0 +1,15 @@
+DependencyInjection/
+EventListener/
+Exception/
+Resources/config/
+Security/
+Tests/
+.gitignore
+.php_cs
+.travis.yml
+FacebookAuthenticationBundle.php
+FacebookLoginUrlRedirectResponse.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

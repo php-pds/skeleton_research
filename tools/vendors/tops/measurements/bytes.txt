@@ -1,0 +1,13 @@
+Tests/
+src/Bytes/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+build.xml
+composer.json
+composer.lock
+humbug.json.dist
+phpcs.xml
+phpmd.xml
+phpunit.xml

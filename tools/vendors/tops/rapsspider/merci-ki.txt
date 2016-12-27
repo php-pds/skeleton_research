@@ -1,0 +1,8 @@
+src/
+.gitignore
+.htaccess
+LICENSE.txt
+README.md
+autoload.php
+basic_functions.php
+composer.json

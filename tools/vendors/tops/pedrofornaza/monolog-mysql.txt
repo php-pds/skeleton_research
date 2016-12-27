@@ -1,0 +1,6 @@
+src/Fornaza/
+.env.example
+.gitattributes
+.gitignore
+composer.json
+readme.md

@@ -1,0 +1,5 @@
+Core/
+Test/
+.gitignore
+composer.json
+readme.txt

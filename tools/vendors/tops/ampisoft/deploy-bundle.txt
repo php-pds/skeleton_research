@@ -1,0 +1,10 @@
+Controller/
+DependencyInjection/
+Script/
+images/
+.gitignore
+AmpisoftDeployBundle.php
+LICENSE
+README.md
+composer.json
+composer.lock

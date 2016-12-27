@@ -1,0 +1,16 @@
+assets/
+components/
+controllers/
+messages/
+models/
+settings/
+views/
+App2Asset.php
+AppAsset.php
+DataTablesAsset.php
+IEAsset.php
+LICENSE
+Module.php
+README.md
+SettingsAsset.php
+composer.json

@@ -1,0 +1,14 @@
+doc/
+src/
+test/
+.editorconfig
+.gitignore
+AUTHORS.txt
+CHANGELOG
+CONTRIBUTING.md
+CONTRIBUTORS.txt
+COPYRIGHT.txt
+LICENSE.txt
+README.md
+composer.json
+composer.lock

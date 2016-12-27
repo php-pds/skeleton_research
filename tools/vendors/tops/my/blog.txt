@@ -1,0 +1,8 @@
+APP/
+Public/
+Resources/
+ThinkPHP/
+Uploads/
+.htaccess
+README.md
+index.php

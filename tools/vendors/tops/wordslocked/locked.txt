@@ -1,0 +1,5 @@
+src/WordsLocked/
+.gitignore
+README.md
+composer.json
+test.php

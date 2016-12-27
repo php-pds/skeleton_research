@@ -1,0 +1,7 @@
+src/Zeclib/
+tests/
+utils/phing/
+.gitignore
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,8 @@
+Command/
+Generator/
+Tools/
+.gitignore
+LICENSE
+PandoraDoctrineGeneratorBundle.php
+README.md
+composer.json

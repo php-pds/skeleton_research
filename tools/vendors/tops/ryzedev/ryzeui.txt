@@ -1,0 +1,10 @@
+dist/
+js/
+scss/
+.gitignore
+CNAME
+README.md
+bower.json
+composer.json
+config.codekit
+favicon.ico

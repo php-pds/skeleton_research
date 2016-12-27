@@ -1,0 +1,7 @@
+assets/
+src/Resizer/
+tests/
+.gitignore
+LICENSE
+composer.json
+index.php

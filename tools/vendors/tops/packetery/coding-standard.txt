@@ -1,0 +1,4 @@
+PacketeryCodingStandard/
+.gitignore
+composer.json
+ruleset.xml

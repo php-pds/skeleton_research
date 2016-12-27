@@ -1,0 +1,13 @@
+bin/
+spec/
+src/
+.coveralls.yml
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+e2e-test.bats
+phpspec.yml
+phpspec.yml.coverage

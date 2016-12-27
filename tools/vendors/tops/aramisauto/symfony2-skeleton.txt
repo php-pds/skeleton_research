@@ -1,0 +1,10 @@
+bin/
+etc/
+src/
+.gitignore
+README.md
+build.bootstrap.xml
+build.xml
+composer.json
+composer.lock
+composer.phar

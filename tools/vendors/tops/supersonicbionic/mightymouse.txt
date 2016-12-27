@@ -1,0 +1,6 @@
+app/
+public/
+vendor/example/
+LICENSE
+README.md
+composer.json

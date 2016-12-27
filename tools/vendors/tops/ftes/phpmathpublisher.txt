@@ -1,0 +1,6 @@
+src/
+.gitignore
+COPYING
+README.md
+composer.json
+examples.php

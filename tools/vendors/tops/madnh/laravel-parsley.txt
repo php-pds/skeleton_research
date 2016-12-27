@@ -1,0 +1,5 @@
+resources/assets/
+src/HappyDemon/LaravelParsley/
+.gitignore
+README.md
+composer.json

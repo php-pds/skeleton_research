@@ -1,0 +1,11 @@
+bin/
+build/
+examples/
+src/
+tests/
+CHANGELOG.md
+INSTALL.md
+LICENSE
+README.md
+build.xml
+composer.json

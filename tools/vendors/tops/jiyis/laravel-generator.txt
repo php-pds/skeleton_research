@@ -1,0 +1,9 @@
+config/
+samples/
+src/
+templates/
+vendor/
+CHANGELOG.md
+LICENSE
+README.md
+composer.json

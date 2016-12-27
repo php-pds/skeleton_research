@@ -1,0 +1,14 @@
+Config/Schema/
+Console/Command/
+Controller/
+Locale/
+Model/
+Test/
+Vendor/
+View/
+webroot/
+.gitignore
+.gitmodules
+.travis.yml
+Readme.md
+composer.json

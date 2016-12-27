@@ -1,0 +1,11 @@
+.gitignore
+Base.php
+LICENSE
+README.md
+Spreadsheet.php
+Text.php
+composer.json
+default-template-with-replaces.odt
+default-template.ods
+default-template.odt
+demo2.php

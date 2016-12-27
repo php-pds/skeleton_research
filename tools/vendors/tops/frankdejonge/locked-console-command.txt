@@ -1,0 +1,12 @@
+spec/
+src/
+stubs/
+.gitattributes
+.gitignore
+.php_cs
+.scrutinizer.yml
+.travis.yml
+composer.json
+license.md
+phpspec.yml
+readme.md

@@ -1,0 +1,5 @@
+docs/
+src/data-abstract/
+LICENSE
+README.md
+composer.json

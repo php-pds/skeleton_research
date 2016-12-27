@@ -1,0 +1,12 @@
+Annotation/
+Command/
+DataCollector/
+DependencyInjection/
+Resources/
+Tool/
+LICENSE
+LaelapsGearmanBundle.php
+LogClient.php
+README.md
+Worker.php
+composer.json

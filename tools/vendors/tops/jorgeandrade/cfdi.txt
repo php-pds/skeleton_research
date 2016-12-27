@@ -1,0 +1,6 @@
+spec/JorgeAndrade/
+src/JorgeAndrade/
+.gitignore
+LICENCE.txt
+composer.json
+readme.md

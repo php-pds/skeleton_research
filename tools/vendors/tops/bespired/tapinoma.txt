@@ -1,0 +1,5 @@
+config/
+public/assets/
+src/Bespired/Tapinoma/
+README.md
+composer.json

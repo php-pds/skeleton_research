@@ -1,0 +1,5 @@
+lib/Jacquesbh/Eater/
+.gitignore
+README.md
+composer.json
+example.php

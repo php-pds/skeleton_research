@@ -1,0 +1,8 @@
+W/
+app/
+docs/
+public/
+.gitignore
+README.md
+composer.json
+composer.lock

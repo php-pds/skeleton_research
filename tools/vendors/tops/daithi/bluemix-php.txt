@@ -1,0 +1,12 @@
+bin/
+docs/
+lib/
+tests/
+.gitignore
+LICENSE
+README.md
+bootstrap.php
+composer.json
+config.yml.dist
+phpdoc.xml
+phpunit.xml

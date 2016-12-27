@@ -1,0 +1,11 @@
+examples/
+src/Box/View/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+VERSION
+autoload.php
+composer.json
+phpunit.xml.dist

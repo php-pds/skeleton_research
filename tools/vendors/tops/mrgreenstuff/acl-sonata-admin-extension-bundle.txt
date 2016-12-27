@@ -1,0 +1,8 @@
+Admin/
+DependencyInjection/
+Helper/
+Resources/
+.gitignore
+MrGreenStuffAclSonataAdminExtensionBundle.php
+README.md
+composer.json

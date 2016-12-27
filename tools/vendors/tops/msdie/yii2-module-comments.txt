@@ -1,0 +1,8 @@
+config/
+controllers/
+migrations/
+models/
+views/
+widgets/CommentsWidget/
+Module.php
+composer.json

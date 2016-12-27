@@ -1,0 +1,9 @@
+src/SanalPos/
+tests/
+vendor/posnet/
+.gitignore
+Guardfile
+README.md
+composer.json
+phpunit.xml
+posnetGercekTest.php

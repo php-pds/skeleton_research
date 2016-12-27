@@ -1,0 +1,9 @@
+app/
+src/
+web/
+.bowerrc
+.gitignore
+README.md
+bower.json
+composer.json
+config.rb

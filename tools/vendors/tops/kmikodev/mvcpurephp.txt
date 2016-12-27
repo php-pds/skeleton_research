@@ -1,0 +1,9 @@
+.idea/
+public/
+src/
+.gitignore
+.htaccess
+Readme.md
+composer.json
+composer.lock
+contributors.txt

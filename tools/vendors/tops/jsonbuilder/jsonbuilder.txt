@@ -1,0 +1,7 @@
+libraries/jsonbuilder/
+tests/
+.travis.yml
+LICENSE
+README.mdown
+composer.json
+phpunit.xml.dist

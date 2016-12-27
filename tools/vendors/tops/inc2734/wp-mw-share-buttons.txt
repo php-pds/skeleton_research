@@ -1,0 +1,10 @@
+Setup/
+src/
+templates/
+.gitignore
+LICENSE
+README.md
+composer.json
+gulpfile.js
+mw-share-buttons.php
+package.json

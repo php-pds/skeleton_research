@@ -1,0 +1,7 @@
+Controller/
+DependencyInjection/
+Resources/config/
+IkadocKCFinderBundle.php
+LICENSE
+README.md
+composer.json

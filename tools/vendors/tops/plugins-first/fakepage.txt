@@ -1,0 +1,6 @@
+src/PluginsFirst/Fakepage/
+.gitignore
+LICENSE
+README.md
+composer.json
+phpunit.xml

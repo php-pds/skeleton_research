@@ -1,0 +1,15 @@
+examples/
+extension/
+external/
+xhprof_html/
+xhprof_lib/
+.arcconfig
+.gitignore
+CHANGELOG
+CREDITS
+INSTALL
+LICENSE
+README.HIGHCHARTS
+README.markdown
+composer.json
+package.xml

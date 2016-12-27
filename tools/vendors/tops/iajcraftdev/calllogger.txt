@@ -1,0 +1,7 @@
+lib/IAJcraftDev/
+tests/
+.gitattributes
+.gitignore
+README.md
+autoloader.php
+composer.json

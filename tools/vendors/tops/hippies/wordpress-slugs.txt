@@ -1,0 +1,7 @@
+src/WordpressSlugs/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock

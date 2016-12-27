@@ -1,0 +1,16 @@
+app/
+app_view/
+bootstrap/
+config/
+lang/php-validator/
+public/
+.gitignore
+.htaccess
+.php
+CHANGELOG.md
+CONTRIBUTING.md
+LICENSE.md
+README.md
+composer.json
+task.php
+task_refresh.php

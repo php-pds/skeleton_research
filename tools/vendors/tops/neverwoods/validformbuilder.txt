@@ -1,0 +1,12 @@
+classes/ValidFormBuilder/
+css/
+examples/
+js/
+.gitignore
+.travis-generate-docs.sh
+.travis.yml
+CONTRIBUTING.md
+LICENSE
+README.md
+composer.json
+phpdoc.xml

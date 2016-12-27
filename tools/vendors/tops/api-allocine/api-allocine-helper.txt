@@ -1,0 +1,7 @@
+tests/
+AlloData.class.php
+AlloHelper.class.php
+AlloImage.class.php
+README.md
+api-allocine-helper.php
+composer.json

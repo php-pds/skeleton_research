@@ -1,0 +1,8 @@
+example/
+src/
+.gitignore
+composer.json
+plugin.php
+readme.md
+readme.txt
+screenshot-1.png

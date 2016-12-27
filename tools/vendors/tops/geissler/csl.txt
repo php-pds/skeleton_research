@@ -1,0 +1,12 @@
+locale/
+nbproject/
+src/Geissler/CSL/
+styles/
+tests/
+.gitignore
+.gitmodules
+.travis.yml
+ERROS.md
+README.md
+composer.json
+configuration.ini

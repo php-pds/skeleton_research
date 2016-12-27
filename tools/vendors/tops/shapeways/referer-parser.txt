@@ -1,0 +1,9 @@
+php/
+resources/
+vagrant/
+.gitignore
+.travis.yml
+README.md
+Vagrantfile
+composer.json
+sync_data.py

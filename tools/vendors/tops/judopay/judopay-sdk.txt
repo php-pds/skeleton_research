@@ -1,0 +1,15 @@
+cert/
+spec/
+src/
+tests/
+vbox/
+.gitignore
+.phpcs.xml
+.travis.yml
+LICENSE.txt
+README.md
+code_check.sh
+composer.json
+composer.lock
+generate_doc.sh
+phpunit.xml

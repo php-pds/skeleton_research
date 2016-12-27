@@ -1,0 +1,5 @@
+docs/
+src/Spyl/CoolContexts/
+.gitignore
+README.md
+composer.json

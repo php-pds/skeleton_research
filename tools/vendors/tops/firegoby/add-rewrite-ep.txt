@@ -1,0 +1,3 @@
+lib/Firegoby/
+composer.json
+readme.md

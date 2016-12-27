@@ -1,0 +1,9 @@
+src/DataURI/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist
+rfc2397.txt

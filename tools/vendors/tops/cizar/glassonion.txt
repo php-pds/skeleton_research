@@ -1,0 +1,6 @@
+library/GlassOnion/
+scripts/
+.gitignore
+LICENSE.txt
+README.md
+composer.json

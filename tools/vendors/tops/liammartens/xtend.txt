@@ -1,0 +1,9 @@
+conf/
+dist/
+docs/
+examples/
+.gitignore
+LICENSE
+README.md
+composer.json
+install.sh

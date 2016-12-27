@@ -1,0 +1,7 @@
+Wechat2.0/
+Wechat2.1/
+dudu/
+src/
+LICENSE.txt
+README.md
+composer.json

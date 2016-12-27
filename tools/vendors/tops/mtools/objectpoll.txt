@@ -1,0 +1,7 @@
+build/
+examples/
+lib/ObjectPool/
+tests/
+.gitignore
+README.md
+composer.json

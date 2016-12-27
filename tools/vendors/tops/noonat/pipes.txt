@@ -1,0 +1,10 @@
+docs/
+examples/
+src/
+tests/
+vendor/
+.gitmodules
+README
+Rakefile
+composer.json
+pipes.php

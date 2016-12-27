@@ -1,0 +1,12 @@
+src/Controller/Component/
+tests/
+.editorconfig
+.gitattributes
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+package.json
+phpunit.xml.dist
+version.md

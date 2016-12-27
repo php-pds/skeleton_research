@@ -1,0 +1,7 @@
+.gitignore
+CHANGELOG.md
+README.md
+THANKS.md
+composer.json
+ratchetio.php
+test.php

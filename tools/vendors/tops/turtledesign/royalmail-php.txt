@@ -1,0 +1,14 @@
+data/
+examples/
+reference/
+src/
+tests/
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+TODO
+VERSION
+composer.json
+run_tests.sh

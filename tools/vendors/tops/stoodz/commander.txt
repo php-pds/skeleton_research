@@ -1,0 +1,6 @@
+src/Stoodz/Commander/
+tests/
+.gitignore
+.travis.yml
+composer.json
+phpunit.xml

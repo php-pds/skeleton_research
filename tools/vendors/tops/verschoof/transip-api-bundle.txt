@@ -1,0 +1,5 @@
+lib/Verschoof/TransipApiBundle/
+.gitignore
+LICENSE
+README.md
+composer.json

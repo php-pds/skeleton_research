@@ -1,0 +1,9 @@
+data/
+db/
+src/CMSDiff/
+tests/
+.gitignore
+README.md
+cmsdiff.php
+composer.json
+phpunit.xml

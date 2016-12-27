@@ -1,0 +1,15 @@
+Controller/
+DependencyInjection/
+Form/Type/
+Manager/
+Model/
+Resources/
+Tests/
+Twig/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+SolilokiamSummernoteBundle.php
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,10 @@
+src/Ten24/Silex/ConsoleCommandServiceProvider/
+templates/
+tests/
+.gitignore
+.project
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

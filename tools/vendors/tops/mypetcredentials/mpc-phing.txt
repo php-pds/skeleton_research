@@ -1,0 +1,10 @@
+src/
+tests/
+.gitignore
+README.md
+build.properties
+composer.json
+composer.lock
+phpcs.xml
+phpunit.xml
+tasks.xml

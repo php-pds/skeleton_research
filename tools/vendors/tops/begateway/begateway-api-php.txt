@@ -1,0 +1,10 @@
+examples/
+lib/
+test/
+.gitattributes
+.travis.yml
+Changelog.md
+LICENSE
+Readme.md
+VERSION
+composer.json

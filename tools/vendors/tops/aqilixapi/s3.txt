@@ -1,0 +1,9 @@
+build/bin/
+config/
+src/AqilixAPI/S3/
+.gitignore
+Module.php
+README.md
+composer.json
+composer.lock
+ruleset.xml

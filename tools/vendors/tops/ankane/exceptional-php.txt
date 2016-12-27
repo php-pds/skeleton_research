@@ -1,0 +1,7 @@
+examples/
+exceptional/
+test/
+LICENSE.txt
+README.md
+composer.json
+exceptional.php

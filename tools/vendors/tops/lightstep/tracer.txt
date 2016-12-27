@@ -1,0 +1,17 @@
+assets/doc_templates/clean2/
+dist/
+lib/
+scripts/
+test/
+thrift/CroutonThrift/
+.gitignore
+LICENSE
+Makefile
+README.md
+VERSION
+circle.yml
+composer.json
+composer.lock
+example.php
+phpdoc.dist.xml
+phpunit.xml.dist

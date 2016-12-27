@@ -1,0 +1,10 @@
+config/
+drush/
+public/sites/default/
+scripts/
+.editorconfig
+.env.default
+.gitignore
+README.md
+circle.yml
+composer.json

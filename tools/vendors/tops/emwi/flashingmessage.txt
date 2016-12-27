@@ -1,0 +1,6 @@
+src/Flashingmessage/
+webroot/
+.gitignore
+LICENSE.txt
+README.md
+composer.json

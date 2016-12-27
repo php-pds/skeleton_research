@@ -1,0 +1,5 @@
+src/Xiaojiays/Curl/
+.gitignore
+README.md
+composer.json
+composer.lock

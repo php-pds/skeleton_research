@@ -1,0 +1,5 @@
+migrations/
+src/
+taobao-sdk-PHP-auto/
+README.md
+composer.json

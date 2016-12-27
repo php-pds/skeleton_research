@@ -1,0 +1,6 @@
+spec/Textify/en_US/
+src/Textify/
+LICENSE
+README.md
+composer.json
+phpspec.yml

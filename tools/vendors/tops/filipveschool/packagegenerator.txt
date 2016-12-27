@@ -1,0 +1,11 @@
+backup/
+imagesToExplainCommandFunctions/
+src/
+.gitattributes
+CHANGELOG.MD
+CONDUCT.md
+CONTRIBUTING.md
+Future ideas for the project.MD
+LICENSE.md
+README.MD
+composer.json

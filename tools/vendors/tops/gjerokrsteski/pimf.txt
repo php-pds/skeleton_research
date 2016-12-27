@@ -1,0 +1,13 @@
+core/Pimf/
+manuscript/
+tests/Pimf/
+.editorconfig
+.gitattributes
+.gitignore
+.travis.yml
+README.md
+autoload.core.php
+bootstrap.core.php
+composer.json
+phpunit.xml
+utils.php

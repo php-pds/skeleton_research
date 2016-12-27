@@ -1,0 +1,5 @@
+examples/
+src/Moinax/TvDb/
+.gitignore
+README.md
+composer.json

@@ -1,0 +1,8 @@
+Assets/
+Command/
+DependencyInjection/
+Resources/config/
+Service/
+InmareliberoFirestarterBundle.php
+README.md
+composer.json

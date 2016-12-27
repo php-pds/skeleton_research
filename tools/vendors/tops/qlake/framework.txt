@@ -1,0 +1,11 @@
+src/Qlake/
+tests/
+.gitattributes
+.gitignore
+.travis.yml
+LICENSE.txt
+README.md
+api.txt
+composer.json
+phpunit.php
+phpunit.xml

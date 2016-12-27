@@ -1,0 +1,6 @@
+config/
+LICENSE
+LICENSE.md
+README.md
+Tenden.php
+composer.json

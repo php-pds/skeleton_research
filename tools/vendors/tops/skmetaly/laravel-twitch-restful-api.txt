@@ -1,0 +1,8 @@
+config/
+docs/
+src/
+.DS_Store
+.gitignore
+LICENSE
+README.md
+composer.json

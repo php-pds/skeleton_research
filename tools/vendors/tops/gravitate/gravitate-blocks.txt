@@ -1,0 +1,8 @@
+grav-blocks/
+library/
+.gitignore
+README.txt
+composer.json
+gravitate-blocks-css.php
+gravitate-blocks.php
+gravitate-plugin-settings.php

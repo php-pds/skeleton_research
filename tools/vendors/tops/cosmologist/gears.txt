@@ -1,0 +1,3 @@
+src/Gears/
+README.md
+composer.json

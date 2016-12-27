@@ -1,0 +1,11 @@
+db/
+src/
+test/
+.gitignore
+LICENSE.md
+README.md
+composer.json
+phpunit.xml
+seed.sql
+settings-dist.php
+testcase.php

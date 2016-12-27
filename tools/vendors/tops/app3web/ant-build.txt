@@ -1,0 +1,6 @@
+test/
+README.md
+build.xml
+build.xml.dist
+composer.json
+tagging.xml

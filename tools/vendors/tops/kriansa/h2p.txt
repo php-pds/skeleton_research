@@ -1,0 +1,11 @@
+bin/
+samples/
+src/H2P/
+tests/H2P/
+.gitignore
+.travis.yml
+README.md
+autoloader.php
+bootstrap_phpunit.php
+composer.json
+phpunit.xml

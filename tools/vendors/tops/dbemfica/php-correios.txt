@@ -1,0 +1,6 @@
+exemplos/
+src/PHPCorreios/
+.gitignore
+README.md
+composer.json
+composer.lock

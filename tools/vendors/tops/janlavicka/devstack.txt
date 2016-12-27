@@ -1,0 +1,16 @@
+app/
+bin/
+log/
+scripts/
+styles/
+temp/
+tests/
+www/
+.gitignore
+Gulpfile.js
+bower.json
+codeception.template.yml
+composer.json
+deployment.template.ini
+package.json
+readme.md

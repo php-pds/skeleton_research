@@ -1,0 +1,11 @@
+.settings/
+src/
+tests/src/
+.buildpath
+.gitignore
+.project
+.travis.yml.txt
+LICENSE
+README.md
+composer.json
+phpunit.xml

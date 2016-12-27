@@ -1,0 +1,6 @@
+example/
+src/SilexPhpRedis/
+.gitignore
+MIT-LICENSE
+README.md
+composer.json

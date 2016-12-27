@@ -1,0 +1,9 @@
+misc/
+src/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json
+npm-debug.log
+phpunit.xml

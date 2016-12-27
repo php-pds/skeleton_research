@@ -1,0 +1,8 @@
+assets/
+controllers/
+views/
+Assets.php
+Log.php
+Module.php
+README.md
+composer.json

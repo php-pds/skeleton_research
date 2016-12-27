@@ -1,0 +1,12 @@
+Command/
+Component/
+Controller/
+DependencyInjection/
+Entity/
+Resources/
+Service/
+.gitattributes
+.gitignore
+MailBundle.php
+README.md
+composer.json

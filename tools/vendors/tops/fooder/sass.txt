@@ -1,0 +1,4 @@
+media/
+sass/
+README.md
+composer.json

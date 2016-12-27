@@ -1,0 +1,8 @@
+example/Domain/Entity/
+library/
+nbproject/
+source/
+test/
+.gitignore
+composer.json
+logo.svg

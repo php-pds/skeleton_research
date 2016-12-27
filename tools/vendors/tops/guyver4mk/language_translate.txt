@@ -1,0 +1,7 @@
+classes/
+includes/
+.gitignore
+README.md
+composer.json
+create_translations.sh
+index.php

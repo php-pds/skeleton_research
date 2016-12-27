@@ -1,0 +1,6 @@
+app/
+assets/
+README.md
+composer.json
+htaccess.example
+index.php

@@ -1,0 +1,7 @@
+src/Ducks/Component/RemoteProtocol/
+.editorconfig
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json

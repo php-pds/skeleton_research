@@ -1,0 +1,8 @@
+src/SistemApi/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json
+phpunit.php
+phpunit.xml

@@ -1,0 +1,13 @@
+connectors/
+images/
+scripts/
+styles/
+themes/
+userfiles/
+utils/
+.gitignore
+ReadMe.md
+bower.json
+changelog
+composer.json
+index.html

@@ -1,0 +1,9 @@
+config/
+src/HttpVerbExtraction/
+tests/
+LICENSE
+Module.php
+Readme.md
+autoload_classmap.php
+composer.json
+phpunit.xml.dist

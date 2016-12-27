@@ -1,0 +1,9 @@
+build/bin/
+src/flags/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock
+tools.sh

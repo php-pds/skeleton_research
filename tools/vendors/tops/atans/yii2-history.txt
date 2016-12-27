@@ -1,0 +1,7 @@
+behaviors/
+messages/
+migrations/
+models/
+Bootstrap.php
+README.md
+composer.json

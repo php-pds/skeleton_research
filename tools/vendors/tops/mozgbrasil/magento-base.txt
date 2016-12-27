@@ -1,0 +1,11 @@
+app/
+js/mozg_base/
+skin/
+CHANGELOG.md
+LICENSE.txt
+README.md
+composer.json
+index.js
+modman
+mozg_standalone_magento_scripts.php
+package.json

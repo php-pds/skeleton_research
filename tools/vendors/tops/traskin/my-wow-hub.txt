@@ -1,0 +1,8 @@
+app/
+src/Controller/
+web/
+.gitignore
+.sensiolabs.yml
+LICENSE
+README.md
+composer.json

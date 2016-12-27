@@ -1,0 +1,3 @@
+src/Quintype/
+README.md
+composer.json

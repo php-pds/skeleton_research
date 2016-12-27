@@ -1,0 +1,13 @@
+config/
+public/
+src/MemcachedManager/
+templates/
+tests/
+.coveralls.yml
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

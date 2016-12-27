@@ -1,0 +1,13 @@
+Controller/
+Features/
+Install/
+Resources/views/Default/
+Tests/
+.gitignore
+.travis.yml
+README.md
+SkeletonNamespaceSkeletonBundle.php
+behat.yml
+composer.json
+install
+phpunit.xml.dist

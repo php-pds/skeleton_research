@@ -1,0 +1,4 @@
+src/Shamotj/
+LICENSE
+README.md
+composer.json

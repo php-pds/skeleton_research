@@ -1,0 +1,14 @@
+src/Stomp/
+tests/
+travisci/
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+composer.json
+phpunit.xml
+pre_commit.sh
+run_phpcs.sh
+run_phpmd.sh
+run_phpunit.sh

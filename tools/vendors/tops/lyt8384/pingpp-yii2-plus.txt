@@ -1,0 +1,5 @@
+.gitignore
+LICENSE
+Pingpp.php
+README.md
+composer.json

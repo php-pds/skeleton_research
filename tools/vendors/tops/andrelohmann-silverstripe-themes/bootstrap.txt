@@ -1,0 +1,9 @@
+css/
+images/logos/
+javascript/
+templates/
+webfonts/
+LICENSE
+README.md
+VERSION
+composer.json

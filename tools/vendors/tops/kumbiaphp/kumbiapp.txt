@@ -1,0 +1,6 @@
+public/
+src/
+.gitignore
+autoload.php
+composer.json
+readme.md

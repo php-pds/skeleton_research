@@ -1,0 +1,7 @@
+src/MainPackage/
+tests/
+vendor/
+README
+composer.json
+composer.lock
+index.php

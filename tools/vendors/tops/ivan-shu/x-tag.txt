@@ -1,0 +1,4 @@
+PhotoTag.php
+PhotoTagAsset.php
+README.md
+composer.json

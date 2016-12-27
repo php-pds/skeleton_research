@@ -1,0 +1,14 @@
+Action/
+Command/
+Entity/
+Generator/
+Resources/skeleton/workflow/
+Service/
+Tests/
+.gitignore
+AbstractWorkflowDefinition.php
+AbstractWorkflowExecution.php
+AbstractWorkflowExecutionFactory.php
+README.md
+WorkflowBundle.php
+composer.json

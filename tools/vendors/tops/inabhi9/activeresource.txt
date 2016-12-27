@@ -1,0 +1,5 @@
+EActiveResource/
+.gitignore
+CHANGES.md
+README.md
+composer.json

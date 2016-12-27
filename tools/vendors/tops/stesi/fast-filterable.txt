@@ -1,0 +1,4 @@
+PropelBehavior/
+.project
+README.md
+composer.json

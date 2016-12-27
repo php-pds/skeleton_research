@@ -1,0 +1,8 @@
+app/
+downloader/
+js/
+package/
+MagentoConnect.html
+README.md
+composer.json
+modman

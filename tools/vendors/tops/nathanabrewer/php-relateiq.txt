@@ -1,0 +1,5 @@
+examples/
+src/RelateIQ/
+.gitignore
+README.md
+composer.json

@@ -1,0 +1,14 @@
+demo/
+docs-website/
+docs/ru/
+.gitignore
+LICENSE.md
+bower.json
+composer.json
+couscous.yml
+demo.gif
+prettyforms.css
+prettyforms.js
+prettyforms_en.js
+readme-en.md
+readme.md

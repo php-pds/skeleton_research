@@ -1,0 +1,3 @@
+Installer.php
+Plugin.php
+composer.json

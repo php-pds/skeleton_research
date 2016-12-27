@@ -1,0 +1,15 @@
+Buzz/
+Controller/
+DependencyInjection/
+Exception/
+Resources/
+Security/
+Sso/
+Tests/
+.gitignore
+.travis.yml
+BeSimpleSsoAuthBundle.php
+README.md
+WebnetSsoAuthBundle.php
+composer.json
+phpunit.xml.dist

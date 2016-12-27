@@ -1,0 +1,12 @@
+nbproject/
+tests/
+.gitignore
+.htaccess
+.travis.yml
+Pokus.php
+README.md
+apiary.apib
+composer.json
+composer.lock
+front.php
+phpunit.xml

@@ -1,0 +1,8 @@
+Zf2Datagrid/
+docs/
+.gitattributes
+.gitignore
+CHANGELOG.md
+README.md
+composer.json
+composer.lock

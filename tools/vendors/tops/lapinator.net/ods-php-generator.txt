@@ -1,0 +1,6 @@
+class/
+examples/
+LICENSE
+README.md
+composer.json
+ods.php

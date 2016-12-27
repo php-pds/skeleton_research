@@ -1,0 +1,14 @@
+Cache/
+DependencyInjection/
+Entity/
+Manager/
+Model/
+Repository/
+Resources/config/
+Tests/
+.gitignore
+ATResourceAccessBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

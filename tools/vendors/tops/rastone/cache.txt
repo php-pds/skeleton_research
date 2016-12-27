@@ -1,0 +1,6 @@
+pkg/Webcode/Cache/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock

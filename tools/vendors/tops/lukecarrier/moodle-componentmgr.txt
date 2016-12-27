@@ -1,0 +1,17 @@
+bin/
+etc/
+lib/ComponentManager/
+libexec/
+test/
+.codeclimate.yml
+.editorconfig
+.gitignore
+.kitchen.yml
+.scrutinizer.yml
+.travis.yml
+CHANGELOG.md
+Gemfile
+LICENSE.md
+README.md
+composer.json
+phpunit.xml

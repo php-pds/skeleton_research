@@ -1,0 +1,5 @@
+SerialsSolutions/Summon/
+.gitignore
+LICENSE
+README.md
+composer.json

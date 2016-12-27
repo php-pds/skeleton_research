@@ -1,0 +1,3 @@
+.gitignore
+Core.php
+composer.json

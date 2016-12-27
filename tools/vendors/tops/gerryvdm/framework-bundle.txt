@@ -1,0 +1,4 @@
+DependencyInjection/
+Resources/config/
+NetsharkFrameworkBundle.php
+composer.json

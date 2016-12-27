@@ -1,0 +1,16 @@
+Command/
+DependencyInjection/
+Exception/
+Implementation/
+Resources/config/
+Tests/
+.coveralls.yml
+.gitignore
+.travis.yml
+QueueImplementationInterface.php
+QueueManager.php
+README.markdown
+WowoQueueBundle.php
+composer.json
+composer.lock
+phpunit.xml.dist

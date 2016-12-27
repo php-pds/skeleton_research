@@ -1,0 +1,17 @@
+migrations/
+src/
+tests/
+.codeclimate.yml
+.editorconfig
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CHANGELOG.md
+CONDUCT.md
+CONTRIBUTING.md
+LICENSE.md
+README.md
+composer.json
+composer.lock
+phpunit.xml
+travis-codeclimate-report.sh

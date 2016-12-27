@@ -1,0 +1,14 @@
+application/
+extend/
+public/
+runtime/
+thinkphp/
+vendor/
+.gitignore
+CONTRIBUTING.md
+LICENSE.txt
+README.md
+build.php
+composer.json
+console
+qiniupan.sql

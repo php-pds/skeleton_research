@@ -1,0 +1,13 @@
+config/
+data/cache/
+module/Application/
+public/
+styleguide/
+tests/
+.gitignore
+LICENSE.txt
+README.md
+Vagrantfile
+composer.json
+init_autoloader.php
+readme.txt

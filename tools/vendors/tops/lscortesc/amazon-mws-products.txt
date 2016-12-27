@@ -1,0 +1,3 @@
+src/MarketplaceWebServiceProducts/
+composer.json
+readme.md

@@ -1,0 +1,6 @@
+Trait/
+rules/
+LICENCE.md
+Petrovich.php
+README.md
+composer.json

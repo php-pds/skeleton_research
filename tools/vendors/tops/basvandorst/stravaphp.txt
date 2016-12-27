@@ -1,0 +1,9 @@
+src/Strava/API/
+tests/Strava/API/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml

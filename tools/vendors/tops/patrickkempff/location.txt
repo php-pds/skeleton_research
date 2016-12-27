@@ -1,0 +1,11 @@
+src/Location/
+tests/
+.coveralls.yml
+.editorconfig
+.gitignore
+.php_cs
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

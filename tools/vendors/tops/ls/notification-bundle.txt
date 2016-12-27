@@ -1,0 +1,8 @@
+Controller/
+DependencyInjection/
+Resources/config/
+.gitignore
+LsNotificationBundle.php
+README.md
+composer.json
+composer.lock

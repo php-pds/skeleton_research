@@ -1,0 +1,8 @@
+dashboard/
+screen/
+src/
+Thumbs.db
+functions.php
+index.php
+screenshot.png
+style.css

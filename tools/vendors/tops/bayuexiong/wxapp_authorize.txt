@@ -1,0 +1,4 @@
+src/Wechat/
+.gitignore
+README.md
+composer.json

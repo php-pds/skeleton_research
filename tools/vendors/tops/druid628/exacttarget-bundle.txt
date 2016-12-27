@@ -1,0 +1,5 @@
+src/Druid628/ExactTarget/ExactTargetBundle/
+.travis.yml
+LICENSE
+README.md
+composer.json

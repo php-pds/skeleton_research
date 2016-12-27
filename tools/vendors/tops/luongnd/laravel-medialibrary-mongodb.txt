@@ -1,0 +1,16 @@
+config/
+database/migrations/
+src/
+tests/
+.gitattributes
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CHANGELOG.md
+CONTRIBUTING.md
+LICENSE.md
+README.md
+UPGRADING.md
+composer.json
+nitpick.json
+phpunit.xml.dist

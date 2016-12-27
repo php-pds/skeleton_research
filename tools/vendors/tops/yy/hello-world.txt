@@ -1,0 +1,10 @@
+config/
+model/
+php/
+stylesheets/
+vendor/
+README.md
+composer.json
+composer.lock
+index.html
+params.json

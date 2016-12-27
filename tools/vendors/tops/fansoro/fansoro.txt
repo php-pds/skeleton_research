@@ -1,0 +1,15 @@
+cache/
+config/
+fansoro/
+plugins/
+storage/
+themes/default/
+.gitignore
+.htaccess
+CHANGELOG.md
+LICENSE.md
+README.md
+composer.json
+favicon.ico
+index.php
+robots.txt

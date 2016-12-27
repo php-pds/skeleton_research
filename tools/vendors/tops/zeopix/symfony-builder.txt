@@ -1,0 +1,12 @@
+Controller/
+DependencyInjection/
+Form/Type/
+Manager/
+Model/
+Resources/
+Tests/Controller/
+.DS_Store
+.gitignore
+IgaBuilderBundle.php
+README.md
+composer.json

@@ -1,0 +1,8 @@
+doc/
+src/
+.gitignore
+README.md
+composer.json
+favicon.ico
+index.php
+server.sh

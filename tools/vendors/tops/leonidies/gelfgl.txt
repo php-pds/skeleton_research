@@ -1,0 +1,6 @@
+examples/
+LICENSE
+README.md
+composer.json
+gelfconfig.php
+gelfgl.php

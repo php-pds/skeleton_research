@@ -1,0 +1,15 @@
+bin/
+php/
+scripts/
+src/
+tests/
+.gitignore
+CHANGES.md
+IMAGES_AND_ICONS
+LEGAL_NOTICE
+LICENSE
+README.md
+THIRD_PARTY_COMPONENTS_AND_LIBRARIES
+TOP
+composer.json
+package.json

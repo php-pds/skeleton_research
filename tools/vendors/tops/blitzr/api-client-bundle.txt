@@ -1,0 +1,9 @@
+DependencyInjection/
+Resources/config/
+Tests/DependencyInjection/
+.gitignore
+.travis.yml
+BlitzrApiClientBundle.php
+LICENSE
+README.md
+composer.json

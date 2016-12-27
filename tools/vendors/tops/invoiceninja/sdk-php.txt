@@ -1,0 +1,5 @@
+src/InvoiceNinja/
+.gitignore
+LICENSE.txt
+README.md
+composer.json

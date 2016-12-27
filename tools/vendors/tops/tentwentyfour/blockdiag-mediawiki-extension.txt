@@ -1,0 +1,11 @@
+contrib/
+i18n/
+spec/
+.arclint
+.gitignore
+Blockdiag.php
+BlockdiagGenerator.php
+NwdiagResultPrinter.php
+README.md
+composer.json
+extension.json

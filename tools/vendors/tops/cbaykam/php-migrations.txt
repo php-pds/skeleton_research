@@ -1,0 +1,6 @@
+.gitignore
+Migrations.php
+README.md
+composer.json
+config.php.sample
+migrate.php

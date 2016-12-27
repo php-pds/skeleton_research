@@ -1,0 +1,5 @@
+Classes/Dotpulse/RSSReader/Controller/
+Configuration/
+Resources/Private/
+README.md
+composer.json

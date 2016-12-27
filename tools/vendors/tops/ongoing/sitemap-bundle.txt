@@ -1,0 +1,9 @@
+Command/
+Controller/
+DependencyInjection/
+Entity/
+Resources/
+.gitignore
+OngoingSitemapBundle.php
+README.md
+composer.json

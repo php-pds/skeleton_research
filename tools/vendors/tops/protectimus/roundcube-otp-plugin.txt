@@ -1,0 +1,8 @@
+lib/
+localization/
+skins/default/
+LICENSE
+README.md
+composer.json
+config.inc.php
+protectimus_otp_authentication.php

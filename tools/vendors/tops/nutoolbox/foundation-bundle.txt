@@ -1,0 +1,8 @@
+Composer/
+DependencyInjection/
+Resources/
+.gitignore
+NuToolBoxFoundationBundle.php
+README.md
+composer.json
+composer.lock

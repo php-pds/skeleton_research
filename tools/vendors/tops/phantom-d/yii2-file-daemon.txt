@@ -1,0 +1,17 @@
+common/controllers/
+components/
+config/
+console/controllers/
+db/
+docs/
+frontend/controllers/
+tests/
+traits/
+.editorconfig
+.gitattributes
+.gitignore
+Component.php
+FileProcessing.php
+ImageProcessing.php
+README.md
+composer.json

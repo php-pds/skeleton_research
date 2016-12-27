@@ -1,0 +1,13 @@
+src/DAG/Xml/Cropper/
+web/
+.gitignore
+.php_cs
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+circle.yml
+composer.json
+composer.lock
+phpunit.xml.dist
+xml-cropper

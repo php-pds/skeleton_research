@@ -1,0 +1,9 @@
+.gitignore
+Dumper.php
+DumperArray.php
+DumperBootstrap.php
+DumperImage.php
+DumperObject.php
+DumperPlugin.php
+README.md
+composer.json

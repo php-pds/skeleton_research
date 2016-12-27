@@ -1,0 +1,7 @@
+views/
+.gitignore
+LICENSE.md
+README.md
+SocialAsset.php
+SocialWidget.php
+composer.json

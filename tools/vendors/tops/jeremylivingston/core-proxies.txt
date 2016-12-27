@@ -1,0 +1,5 @@
+src/CoreProxies/Proxy/
+.gitignore
+LICENSE
+README.md
+composer.json

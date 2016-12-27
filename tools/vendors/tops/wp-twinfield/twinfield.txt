@@ -1,0 +1,13 @@
+src/
+tests/
+.gitignore
+.travis.yml
+Gruntfile.js
+README.md
+apigen.neon
+composer.json
+composer.lock
+package.json
+phpcs.ruleset.xml
+phpmd.ruleset.xml
+phpunit.xml.dist

@@ -1,0 +1,7 @@
+.idea/
+demo/
+doc/
+src/Audero/SharedGettext/
+README.md
+composer.json
+phpdoc.dist.xml

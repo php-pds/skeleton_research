@@ -1,0 +1,14 @@
+DependencyInjection/
+Exception/
+Helper/
+Resources/config/
+Service/
+Template/
+Tests/
+Wrapper/
+.gitignore
+LICENSE
+MechantSimpleMailerBundle.php
+README.md
+composer.json
+travis.yml

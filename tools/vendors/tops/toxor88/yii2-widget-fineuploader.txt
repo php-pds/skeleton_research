@@ -1,0 +1,8 @@
+assets/
+views/
+Fineuploader.php
+FineuploaderAsset.php
+FineuploaderJqueryAsset.php
+LICENSE
+README.md
+composer.json

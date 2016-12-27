@@ -1,0 +1,6 @@
+Model/
+Observer/
+etc/
+.gitignore
+composer.json
+registration.php

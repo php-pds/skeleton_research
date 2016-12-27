@@ -1,0 +1,9 @@
+src/
+test/
+.gitignore
+Makefile
+README.md
+composer.json
+composer.lock
+license.txt
+phpunit.xml

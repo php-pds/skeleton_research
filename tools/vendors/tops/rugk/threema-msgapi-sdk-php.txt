@@ -1,0 +1,13 @@
+samples/
+scripts/
+source/
+.codeclimate.yml
+.editorconfig
+.gitignore
+.gitmodules
+.travis.yml
+CONTRIBUTING.md
+LICENSE
+README.md
+composer.json
+threema-msgapi-tool.php

@@ -1,0 +1,8 @@
+DependencyInjection/
+Entity/
+Repository/
+Resources/config/
+Tests/Controller/
+Twig/
+SiemowitStatisticBundle.php
+composer.json

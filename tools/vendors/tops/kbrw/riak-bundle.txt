@@ -1,0 +1,16 @@
+Command/
+DependencyInjection/
+Exception/
+Model/
+Resources/
+Service/
+Tests/
+.gitignore
+.jms.yml
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+RiakBundle.php
+composer.json
+phpunit.xml.dist

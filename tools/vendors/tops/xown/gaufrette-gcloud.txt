@@ -1,0 +1,4 @@
+src/Gaufrette/Adapter/
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,4 @@
+lib/Doctrine/DBAL/Cariboo/
+.gitignore
+README.md
+composer.json

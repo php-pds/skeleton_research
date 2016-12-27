@@ -1,0 +1,12 @@
+node_modules/
+public/
+public_src/
+src/
+tests/
+.gitignore
+.travis.yml
+Gruntfile.js
+README.md
+composer.json
+package.json
+phpunit.xml

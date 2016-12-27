@@ -1,0 +1,11 @@
+src/
+tests/
+.gitattributes
+.gitignore
+.travis.yml
+CHANGELOG
+LICENSE
+README.md
+apigen.neon
+composer.json
+ruleset.xml

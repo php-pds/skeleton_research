@@ -1,0 +1,12 @@
+src/Fridge/DBAL/
+tests/
+.editorconfig
+.gitattributes
+.gitignore
+.travis.yml
+LICENSE
+README.md
+autoload.php.dist
+composer.json
+phpunit.travis.xml
+phpunit.xml.dist

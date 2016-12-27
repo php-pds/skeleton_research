@@ -1,0 +1,7 @@
+assets/
+includes/
+languages/
+composer.json
+license.txt
+ot-loader.php
+readme.txt

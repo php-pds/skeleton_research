@@ -1,0 +1,4 @@
+public/
+resources/views/
+src/
+Readme.md

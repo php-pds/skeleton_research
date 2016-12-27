@@ -1,0 +1,6 @@
+.env-sample
+LICENSE
+README.md
+composer.json
+generate-config.sh
+wp-config-sample.php

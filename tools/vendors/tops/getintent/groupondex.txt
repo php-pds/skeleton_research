@@ -1,0 +1,5 @@
+demo/
+src/GetIntent/Groupondex/
+.gitignore
+README.md
+composer.json

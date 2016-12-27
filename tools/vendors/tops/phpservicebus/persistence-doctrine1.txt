@@ -1,0 +1,17 @@
+src/
+tests/
+.editorconfig
+.gitattributes
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CONDUCT.md
+CONTRIBUTING.md
+LICENSE.md
+README.md
+composer.json
+phpspec.mysql.yml.ci
+phpspec.mysql.yml.dist
+phpspec.sqlite.yml.dist
+phpunit.mysql.xml.dist
+phpunit.sqlite.xml.dist

@@ -1,0 +1,7 @@
+example/
+src/NMC/ImageWithText/
+.gitignore
+CONTRIBUTING.md
+LICENSE
+README.md
+composer.json

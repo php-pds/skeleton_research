@@ -1,0 +1,8 @@
+samples/
+src/COS/
+tests/COS/Tests/
+LICENSE.md
+README.md
+autoload.php
+composer.json
+index.php

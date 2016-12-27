@@ -1,0 +1,6 @@
+spec/SeoMoz/
+src/SeoMoz/
+.travis.yml
+README.md
+composer.json
+phpspec.yml

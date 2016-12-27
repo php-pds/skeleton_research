@@ -1,0 +1,9 @@
+spec/cg/Helper/Elements/
+src/cg/Helper/
+.gitignore
+.travis.yml
+Gulpfile.js
+composer.json
+package.json
+phpspec.yml
+readme.md

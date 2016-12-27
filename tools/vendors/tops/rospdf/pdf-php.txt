@@ -1,0 +1,16 @@
+.vscode/
+examples/
+extensions/
+src/
+.gitignore
+.travis.yml
+DEVELOPER.md
+README.md
+composer.json
+composer.lock
+data.txt
+github.jpg
+phpcs.xml
+readme.pdf
+readme.php
+ros.jpg

@@ -1,0 +1,7 @@
+Classes/
+Controller/
+DependencyInjection/
+Resources/
+Tests/Controller/
+WebspinUploadBundle.php
+composer.json

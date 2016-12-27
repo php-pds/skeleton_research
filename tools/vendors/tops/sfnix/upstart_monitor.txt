@@ -1,0 +1,8 @@
+Command/
+Controller/
+DependencyInjection/
+Resources/
+LICENSE
+README.md
+UpstartMonitorBundle.php
+composer.json

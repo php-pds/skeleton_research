@@ -1,0 +1,12 @@
+includes/
+tests/
+.codeclimate.yml
+.gitignore
+.travis.yml
+LICENSE.txt
+README.md
+composer.json
+composer.lock
+growella-table-of-contents.php
+phpcs.xml
+phpunit.xml

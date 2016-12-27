@@ -1,0 +1,17 @@
+docs/
+languages/
+snippets/
+src/
+tests/
+vendor/
+.editorconfig
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+index.php
+mkdocs.yml
+package.json
+phpunit.xml
+uniform.php

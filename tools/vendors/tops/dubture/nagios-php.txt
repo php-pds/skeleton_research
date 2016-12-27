@@ -1,0 +1,12 @@
+src/Dubture/Nagios/
+tests/
+vendor/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+check_load
+compile
+composer.json
+nagios.phar
+phpunit.xml.dist

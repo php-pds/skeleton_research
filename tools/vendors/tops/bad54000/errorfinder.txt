@@ -1,0 +1,4 @@
+js/
+ErrorFinder.php
+README.md
+composer.json

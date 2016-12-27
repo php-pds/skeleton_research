@@ -1,0 +1,9 @@
+config/sync/
+drush/
+scripts/composer/
+web/
+.env.example
+.gitignore
+Procfile
+circle.yml
+composer.json

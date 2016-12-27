@@ -1,0 +1,14 @@
+Controller/
+DependencyInjection/
+Entity/
+Event/
+Manager/
+Resources/
+Tests/Controller/
+Twig/
+.gitignore
+FriendshipBundle.php
+FriendshipEvents.php
+LICENSE
+README.md
+composer.json

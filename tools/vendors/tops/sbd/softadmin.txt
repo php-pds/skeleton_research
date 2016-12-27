@@ -1,0 +1,17 @@
+backend/routes/
+frontend/routes/
+publishable/
+resources/views/
+src/
+stubs/
+tests/
+.gitattributes
+.gitignore
+.php_cs
+.travis.yml
+ISSUE_TEMPLATE
+LICENSE
+README.md
+composer.json
+phpunit.xml
+versioning.md

@@ -1,0 +1,7 @@
+Classes/
+Data/
+Examples/
+.gitignore
+ReadMe.md
+autoload.php
+composer.json

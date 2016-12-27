@@ -1,0 +1,6 @@
+example/
+src/SendGrid/
+CHANGELOG.rst
+LICENSE
+README.rst
+composer.json

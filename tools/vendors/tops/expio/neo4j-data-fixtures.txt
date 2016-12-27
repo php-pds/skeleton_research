@@ -1,0 +1,9 @@
+lib/Expio/Common/Neo4jDataFixtures/
+tests/Expio/Tests/Common/Neo4jDataFixtures/
+.gitignore
+.gitmodules
+LICENSE
+README.md
+UPGRADE
+composer.json
+phpunit.xml.dist

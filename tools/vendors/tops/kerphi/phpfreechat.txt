@@ -1,0 +1,15 @@
+client/
+doc/
+examples/
+server/
+tools/
+.gitignore
+.jshintignore
+.jshintrc
+.travis.yml
+LICENSE
+Makefile
+README.md
+check.php
+composer.json
+package.json

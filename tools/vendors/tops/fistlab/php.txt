@@ -1,0 +1,10 @@
+build/
+src/Fist/
+tests/
+.gitignore
+.travis.yml
+composer.json
+contributing.md
+license.txt
+phpunit.xml
+readme.md

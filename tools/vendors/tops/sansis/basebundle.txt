@@ -1,0 +1,15 @@
+Component/HttpKernel/
+Controller/
+DependencyInjection/
+Doctrine/
+Entity/
+EntityRepository/
+Menu/
+Resources/
+Service/
+Tests/Controller/
+.gitignore
+README.md
+SanSISCoreBaseBundle.php
+composer.json
+db_model.erm

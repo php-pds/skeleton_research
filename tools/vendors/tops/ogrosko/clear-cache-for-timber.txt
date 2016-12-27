@@ -1,0 +1,6 @@
+assets/
+clear-cache-for-timber.php
+composer.json
+readme.md
+readme.txt
+style.css

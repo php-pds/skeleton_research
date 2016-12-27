@@ -1,0 +1,6 @@
+src/Alipay/
+.gitignore
+LICENSE.txt
+README.md
+cacert.pem
+composer.json

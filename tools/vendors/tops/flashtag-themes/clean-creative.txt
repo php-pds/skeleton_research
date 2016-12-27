@@ -1,0 +1,6 @@
+assets/
+views/
+.gitignore
+composer.json
+readme.md
+theme.php

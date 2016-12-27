@@ -1,0 +1,5 @@
+doc/
+src/Smf/Menu/
+LICENSE
+README.markdown
+composer.json

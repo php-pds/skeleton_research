@@ -1,0 +1,12 @@
+example/
+lib/transloadit/
+test/
+tool/
+.coveralls.yml
+.empty
+.gitignore
+.travis.yml
+Makefile
+README.md
+composer.json
+phpunit.xml.dist

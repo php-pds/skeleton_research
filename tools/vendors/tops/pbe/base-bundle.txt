@@ -1,0 +1,12 @@
+Controller/
+DependencyInjection/
+Helper/
+Resources/
+Tests/
+Twig/
+LICENSE
+PBEBaseBundle.php
+README.md
+composer.json
+screenshot-top-menu-with-directly-loaded-locations.png
+screenshot-top-menu.png

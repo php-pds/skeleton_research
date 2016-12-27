@@ -1,0 +1,7 @@
+library/Kaltura/Client/
+tests/
+.travis.yml
+README.md
+README.txt
+agpl.txt
+composer.json

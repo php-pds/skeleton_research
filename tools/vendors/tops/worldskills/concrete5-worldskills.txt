@@ -1,0 +1,15 @@
+authentication/worldskills/
+blocks/
+content_files/
+controllers/single_page/dashboard/system/basics/
+elements/dashboard/
+single_pages/dashboard/system/basics/
+src/Concrete/
+themes/worldskills/
+.gitignore
+LICENSE.md
+README.md
+composer.json
+content.xml
+controller.php
+icon.png

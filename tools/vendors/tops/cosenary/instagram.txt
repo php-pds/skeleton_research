@@ -1,0 +1,10 @@
+example/
+src/
+CHANGELOG.md
+.gitattributes
+.gitignore
+.styleci.yml
+CONTRIBUTING.md
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,15 @@
+app/
+bootstrap/
+doc/developer/
+public/
+src/Shanhaijing/
+.gitattributes
+.gitignore
+.travis.yml
+LICENSE
+Makefile
+README.md
+artisan
+composer.json
+phpunit.xml
+server.php

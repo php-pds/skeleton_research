@@ -1,0 +1,12 @@
+components/
+controllers/
+helpers/
+models/
+traits/
+views/auth/
+widgets/rbac/
+.gitignore
+Bootstrap.php
+LICENSE.txt
+Module.php
+composer.json

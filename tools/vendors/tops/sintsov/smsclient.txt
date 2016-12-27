@@ -1,0 +1,6 @@
+Client/
+DevinoSMS/
+.gitignore
+LICENSE
+README.md
+composer.json

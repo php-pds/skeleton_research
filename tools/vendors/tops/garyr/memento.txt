@@ -1,0 +1,10 @@
+bin/
+lib/Memento/
+test/
+.gitignore
+.travis.ini
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml

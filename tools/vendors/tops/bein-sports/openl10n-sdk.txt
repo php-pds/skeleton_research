@@ -1,0 +1,6 @@
+src/Openl10n/Sdk/
+.gitignore
+CHANGELOG.md
+LICENSE
+README.md
+composer.json

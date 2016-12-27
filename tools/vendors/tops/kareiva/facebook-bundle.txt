@@ -1,0 +1,14 @@
+Controller/
+DependencyInjection/
+Facebook/
+Resources/
+Security/
+Templating/Helper/
+Tests/
+Twig/Extension/
+.gitignore
+.travis.yml
+FOSFacebookBundle.php
+README.md
+composer.json
+phpunit.xml.dist

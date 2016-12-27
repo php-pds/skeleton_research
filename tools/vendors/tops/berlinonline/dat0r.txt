@@ -1,0 +1,15 @@
+bin/
+config/
+src/Dat0r/
+tests/
+.gitignore
+.travis.yml
+AUTHORS.md
+CHANGELOG.md
+MIT-LICENSE.txt
+Makefile
+README.md
+TODO.md
+composer.json
+composer.lock
+phpunit.xml.dist

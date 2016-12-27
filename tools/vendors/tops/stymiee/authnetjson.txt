@@ -1,0 +1,10 @@
+examples/
+src/
+tests/
+CHANGELOG
+README.md
+composer.json
+config.inc.php.dist
+license.txt
+phpdoc.xml
+phpunit.xml

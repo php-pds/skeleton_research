@@ -1,0 +1,9 @@
+classes/
+config/
+nbproject/private/
+.gitattributes
+.gitignore
+LICENSE
+README.md
+bootstrap.php
+composer.json

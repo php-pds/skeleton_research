@@ -1,0 +1,7 @@
+build/
+src/WerkBox/
+tests/
+.gitignore
+build.xml
+composer.json
+license.txt

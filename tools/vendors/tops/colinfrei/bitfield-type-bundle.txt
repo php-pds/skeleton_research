@@ -1,0 +1,6 @@
+DependencyInjection/
+Form/
+Resources/config/
+ColinFreiBitFieldTypeBundle.php
+README.md
+composer.json

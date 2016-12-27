@@ -1,0 +1,8 @@
+controllers/
+models/
+views/
+BilgiSistem.php
+README.md
+composer.json
+composer.phar
+m160524_122315_advanced.php

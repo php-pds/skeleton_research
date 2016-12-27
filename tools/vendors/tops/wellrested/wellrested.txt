@@ -1,0 +1,12 @@
+docs/
+src/
+test/
+vagrant/
+.gitattributes
+.gitignore
+.travis.yml
+README.md
+Vagrantfile
+composer.json
+composer.lock
+phpunit.xml.dist

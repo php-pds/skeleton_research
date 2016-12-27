@@ -1,0 +1,5 @@
+src/Notifier/
+.gitignore
+LICENSE
+README.md
+composer.json

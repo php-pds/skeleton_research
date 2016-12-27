@@ -1,0 +1,5 @@
+src/Phing/
+.gitignore
+README.md
+composer.json
+definition.xml

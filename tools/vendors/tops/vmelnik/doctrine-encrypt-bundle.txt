@@ -1,0 +1,10 @@
+Configuration/
+DependencyInjection/
+Encryptors/
+Resources/
+Subscribers/
+.gitignore
+LICENSE.md
+README.md
+VMelnikDoctrineEncryptBundle.php
+composer.json

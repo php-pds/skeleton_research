@@ -1,0 +1,12 @@
+examples/
+lib/
+scripts/
+test/
+.editorconfig
+.gitignore
+.travis.yml
+CHANGELOG.md
+CONTRIBUTING.md
+LICENSE.txt
+README.md
+composer.json

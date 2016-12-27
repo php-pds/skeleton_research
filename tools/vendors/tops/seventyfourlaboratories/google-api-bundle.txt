@@ -1,0 +1,10 @@
+DependencyInjection/
+Resources/
+Tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+SFLGoogleApiBundle.php
+composer.json
+phpunit.xml.dist

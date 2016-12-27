@@ -1,0 +1,8 @@
+logs/
+private/
+src/Vnpay/SoapClient/
+tests/
+.gitignore
+LICENSE.md
+README.md
+composer.json

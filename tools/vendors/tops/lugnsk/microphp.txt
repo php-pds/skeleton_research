@@ -1,0 +1,16 @@
+app/
+tests/
+webapp/
+.bowerrc
+.csslintrc
+.gitignore
+.travis.yml
+LICENSE
+README.md
+bootstrap.php
+codeception.yml
+codeclimate.yml
+composer.json
+console.php
+micro.sql
+nginx.conf

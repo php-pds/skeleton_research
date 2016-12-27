@@ -1,0 +1,8 @@
+Adapter/
+Model/
+Test/Unit/
+etc/
+LICENSE.txt
+README.md
+composer.json
+registration.php

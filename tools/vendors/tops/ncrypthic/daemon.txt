@@ -1,0 +1,6 @@
+example/
+src/Ncrypthic/Daemon/
+.gitignore
+LICENSE.txt
+README.md
+composer.json

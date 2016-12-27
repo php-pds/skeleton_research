@@ -1,0 +1,8 @@
+.gitattributes
+.gitignore
+CHANGES.md
+LICENSE
+Language_Pack_Maker.php
+README.md
+composer.json
+index.php

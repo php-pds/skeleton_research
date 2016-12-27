@@ -1,0 +1,8 @@
+classes/
+config/
+vendor/
+views/
+HISTORY.md
+README.md
+composer.json
+init.php

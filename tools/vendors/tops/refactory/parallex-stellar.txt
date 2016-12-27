@@ -1,0 +1,6 @@
+Classes/Refactory/Parallex/Stellar/ViewHelpers/
+Configuration/
+Resources/
+LICENSE
+README.md
+composer.json

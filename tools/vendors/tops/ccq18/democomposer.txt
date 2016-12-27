@@ -1,0 +1,5 @@
+.idea/
+src/Democomposer/
+.gitignore
+composer.json
+readme.md

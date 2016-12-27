@@ -1,0 +1,4 @@
+DependencyInjection/
+Resources/config/
+JBZImapBundle.php
+composer.json

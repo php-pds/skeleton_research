@@ -1,0 +1,4 @@
+classes/
+.gitignore
+composer.json
+version

@@ -1,0 +1,17 @@
+Checker/
+Controller/
+DependencyInjection/
+Entity/
+Factory/
+Formatter/
+Repository/
+Resources/
+Services/
+Tests/
+.gitattributes
+.gitignore
+.travis.yml
+DotSmartSmsBundle.php
+README.md
+composer.json
+phpunit.xml.dist

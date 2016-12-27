@@ -1,0 +1,9 @@
+DependencyInjection/
+Resources/
+Tests/
+Twig/
+.travis.yml
+FWSLayoutBundle.php
+README.md
+composer.json
+phpunit.xml.dist

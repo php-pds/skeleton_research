@@ -1,0 +1,6 @@
+Tests/
+.gitignore
+.travis.yml
+Divider.php
+README.md
+composer.json

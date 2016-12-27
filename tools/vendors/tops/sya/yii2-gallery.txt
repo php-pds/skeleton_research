@@ -1,0 +1,12 @@
+assets/
+controllers/
+helpers/
+messages/vi/
+.gitignore
+DropzoneAssets.php
+Gallery.php
+GalleryAssets.php
+LICENSE
+Module.php
+README.md
+composer.json

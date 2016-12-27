@@ -1,0 +1,7 @@
+resources/content/default/
+themes/default/
+.gitignore
+README.md
+composer.json
+composer.lock
+odin

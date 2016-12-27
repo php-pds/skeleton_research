@@ -1,0 +1,12 @@
+build/
+examples/Jm/Console/
+lib/php/Jm/
+res/
+tests/Jm/
+.gitignore
+.travis.yml
+README.md
+build.xml
+composer.json
+phpdox.xml.dist
+phpunit.xml.dist

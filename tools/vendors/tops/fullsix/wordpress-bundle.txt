@@ -1,0 +1,8 @@
+DependencyInjection/
+Resources/config/
+Twig/Extension/
+FullSIXWordPressBundle.php
+README.md
+WordPress404Listener.php
+WordPressResponse.php
+composer.json

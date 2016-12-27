@@ -1,0 +1,8 @@
+Resources/doc/
+Service/
+Tests/Service/
+.gitignore
+LICENSE
+LeaderBoardBundle.php
+README.md
+composer.json

@@ -1,0 +1,6 @@
+demo/
+lib/
+.DS_Store
+SUBMAILAutoload.php
+app_config.php
+composer.json

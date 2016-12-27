@@ -1,0 +1,8 @@
+exceptions/
+modules/
+tests/unit/
+traits/
+.gitignore
+PCClient.php
+composer.json
+phpunit.xml.dist

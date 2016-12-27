@@ -1,0 +1,9 @@
+core/
+vendor/
+view/
+web/controller/
+.gitignore
+README.md
+composer.json
+composer.lock
+index.php

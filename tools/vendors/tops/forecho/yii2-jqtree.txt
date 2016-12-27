@@ -1,0 +1,5 @@
+assets/
+JQTree.php
+JQTreeAssets.php
+README.md
+composer.json

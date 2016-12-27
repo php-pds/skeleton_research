@@ -1,0 +1,4 @@
+src/DoctorBlue/
+tests/
+LICENSE
+composer.json

@@ -1,0 +1,6 @@
+src/Pidic/
+tests/
+.gitignore
+.travis.yml
+README.md
+composer.json

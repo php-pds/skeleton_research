@@ -1,0 +1,11 @@
+views/
+.gitignore
+.htaccess
+LICENSE
+bibleapi.jpg
+biblia.sql
+bigdump.php
+composer.json
+config.php.dist
+index.php
+readme.md

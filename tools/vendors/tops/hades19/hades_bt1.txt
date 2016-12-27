@@ -1,0 +1,8 @@
+.idea/
+Api/
+Controller/Index/
+Model/
+Setup/
+etc/
+composer.json
+registration.php

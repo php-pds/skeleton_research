@@ -1,0 +1,8 @@
+Block/
+Helper/
+Model/Config/Source/
+etc/
+view/frontend/
+.gitignore
+composer.json
+registration.php

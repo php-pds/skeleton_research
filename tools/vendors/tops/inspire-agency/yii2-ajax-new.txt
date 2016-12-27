@@ -1,0 +1,6 @@
+action/
+assets/
+widget/
+CONTRIBUTORS.txt
+README.md
+composer.json

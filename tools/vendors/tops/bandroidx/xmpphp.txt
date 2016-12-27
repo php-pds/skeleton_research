@@ -1,0 +1,7 @@
+Bandroidx/XMPPHP/
+XMPPHP/
+examples/
+tests/
+LICENSE
+README
+composer.json

@@ -1,0 +1,10 @@
+config/
+data/
+modules/Zepi/Starter/
+web/
+.gitignore
+LICENSE
+README.md
+app.php
+composer.json
+turbo

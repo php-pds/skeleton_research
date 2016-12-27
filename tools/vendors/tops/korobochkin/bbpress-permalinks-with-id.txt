@@ -1,0 +1,9 @@
+source/
+.gitignore
+Gruntfile.js
+README.md
+composer.json
+license.txt
+package.json
+plugin.php
+readme.txt

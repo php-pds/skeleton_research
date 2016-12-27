@@ -1,0 +1,3 @@
+src/TAO/Bundle/
+Version
+composer.json

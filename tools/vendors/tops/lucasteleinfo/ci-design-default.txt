@@ -1,0 +1,11 @@
+application/
+system/
+user_guide/
+.bowerrc
+.gitignore
+.htaccess
+composer.json
+contributing.md
+index.php
+license.txt
+readme.rst

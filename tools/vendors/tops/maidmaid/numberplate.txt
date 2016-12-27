@@ -1,0 +1,7 @@
+cache/
+src/NumberPlate/
+tests/NumberPlate/
+.gitignore
+README.md
+composer.json
+composer.lock

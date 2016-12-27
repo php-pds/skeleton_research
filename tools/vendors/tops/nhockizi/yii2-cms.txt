@@ -1,0 +1,17 @@
+assets/
+behaviors/
+components/
+config/
+controllers/
+helpers/
+media/
+messages/
+migrations/
+models/
+modules/
+validators/
+views/
+.DS_Store
+AdminModule.php
+README.md
+composer.json

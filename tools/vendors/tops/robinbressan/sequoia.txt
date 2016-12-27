@@ -1,0 +1,6 @@
+src/Sequoia/
+tests/Sequoia/
+.gitignore
+README.md
+composer.json
+phpunit.xml

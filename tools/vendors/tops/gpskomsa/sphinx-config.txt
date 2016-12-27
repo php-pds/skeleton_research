@@ -1,0 +1,8 @@
+config/
+example/config/sphinx-config/
+src/SphinxConfig/
+view/sphinx-config/config/
+.gitignore
+Module.php
+README.md
+composer.json

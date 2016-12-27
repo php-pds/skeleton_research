@@ -1,0 +1,11 @@
+config/
+dca/
+html/
+languages/
+templates/
+.gitignore
+README.md
+c2g_functions.php
+c2g_listBackups.php
+c2g_listVHosts.php
+composer.json

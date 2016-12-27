@@ -1,0 +1,9 @@
+i18n/
+skeleton/
+src/Meister/
+web/
+.gitignore
+README.md
+composer.json
+output.po
+traducoes

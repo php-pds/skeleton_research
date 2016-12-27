@@ -1,0 +1,9 @@
+example/
+spec/
+src/
+.codeclimate.yml
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpspec.yml.dist

@@ -1,0 +1,13 @@
+Tests/
+YaLinqo/
+.coveralls.yml
+.gitignore
+.scrutinizer.yml
+.sensiolabs.yml
+.travis.yml
+composer.json
+license.md
+phpdoc.cmd
+phpdoc.xml
+phpunit.xml
+readme.md

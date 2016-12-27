@@ -1,0 +1,16 @@
+DependencyInjection/
+Form/
+Locale/
+Resources/
+Tests/
+.gitignore
+.php_cs
+.styleci.yml
+.travis.yml
+A2lixTranslationFormBundle.php
+CHANGELOG-2.0.md
+README.md
+UPGRADE-1.2.md
+UPGRADE-2.0.md
+UPGRADE-3.0.md
+composer.json

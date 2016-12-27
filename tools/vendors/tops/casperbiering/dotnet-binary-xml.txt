@@ -1,0 +1,9 @@
+src/
+tests/BinaryXml/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+decode.php
+phpunit.xml.dist

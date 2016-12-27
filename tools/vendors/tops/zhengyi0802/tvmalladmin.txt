@@ -1,0 +1,13 @@
+public/
+resources/
+src/
+tests/
+.gitignore
+LICENSE.txt
+README.md
+composer.json
+gulpfile.js
+phpunit.xml
+sandbox_destroy.sh
+sandbox_setup.sh
+test.sh

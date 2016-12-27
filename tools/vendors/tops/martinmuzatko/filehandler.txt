@@ -1,0 +1,6 @@
+src/MartinMuzatko/FileHandler/
+.gitignore
+LICENSE
+README.md
+composer.json
+index.php

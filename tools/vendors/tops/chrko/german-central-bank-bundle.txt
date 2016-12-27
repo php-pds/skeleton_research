@@ -1,0 +1,5 @@
+Command/
+Entity/
+.gitignore
+ChrKoGermanCentralBankBundle.php
+composer.json

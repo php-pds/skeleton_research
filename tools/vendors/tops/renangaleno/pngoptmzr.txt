@@ -1,0 +1,4 @@
+src/pngoptmzr/
+LICENSE
+README.md
+composer.json

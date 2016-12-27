@@ -1,0 +1,16 @@
+CacheWarmer/
+Command/
+DataCollector/
+DependencyInjection/
+EventListener/
+Form/
+Model/
+Resources/
+Twig/
+.gitattributes
+.gitignore
+FlexModelBundle.php
+LICENSE
+README.md
+composer.json
+composer.lock

@@ -1,0 +1,7 @@
+doc/
+src/AuthorizeNet/
+tests/
+License.pdf
+README.md
+composer.json
+phpunit.xml.dist

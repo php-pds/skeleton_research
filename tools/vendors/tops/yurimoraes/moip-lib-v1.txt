@@ -1,0 +1,7 @@
+lib/
+README.md
+autoload.inc.php
+composer.json
+documentacao_moip-php.pdf
+examples.php
+index.php

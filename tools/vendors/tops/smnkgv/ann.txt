@@ -1,0 +1,9 @@
+lib/
+tests/
+weights/
+.gitignore
+README.md
+bootstrap.php
+codeception.yml
+composer.json
+composer.lock

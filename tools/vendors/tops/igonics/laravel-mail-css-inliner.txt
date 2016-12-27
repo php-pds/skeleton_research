@@ -1,0 +1,9 @@
+config/
+src/IGonics/LaravelMailCssInliner/
+.gitignore
+.php_cs
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml

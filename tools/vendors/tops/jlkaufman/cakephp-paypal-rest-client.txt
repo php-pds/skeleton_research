@@ -1,0 +1,5 @@
+Model/
+Test/Case/Model/
+LICENSE
+README.md
+composer.json

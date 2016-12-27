@@ -1,0 +1,6 @@
+ContainerBridge.php
+LICENSE.txt
+Module.php
+README.md
+SymfonyContainerWithZFFallback.php
+composer.json

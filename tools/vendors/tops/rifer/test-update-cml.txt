@@ -1,0 +1,9 @@
+Docs/
+bin/Command/Task/
+config/Schema/
+src/
+tests/Fixture/
+webroot/
+LICENSE
+README.md
+composer.json

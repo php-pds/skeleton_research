@@ -1,0 +1,12 @@
+spec/Protobile/Framework/
+src/Protobile/Framework/
+.codeclimate.yml
+.gitattributes
+.gitignore
+.php_cs
+.sensiolabs.yml
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpspec.yml

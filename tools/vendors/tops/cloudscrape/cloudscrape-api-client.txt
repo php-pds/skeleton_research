@@ -1,0 +1,6 @@
+src/
+.gitignore
+CloudScrape.php
+README.md
+composer.json
+example.php

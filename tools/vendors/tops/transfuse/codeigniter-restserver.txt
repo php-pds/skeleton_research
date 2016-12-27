@@ -1,0 +1,6 @@
+config/
+language/english/
+libraries/
+LICENSE
+README.md
+composer.json

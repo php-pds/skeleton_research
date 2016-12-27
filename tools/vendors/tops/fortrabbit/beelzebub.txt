@@ -1,0 +1,8 @@
+examples/
+src/Beelzebub/
+tests/
+.gitignore
+README.md
+composer.json
+phpunit-integration.xml.dist
+phpunit.xml.dist

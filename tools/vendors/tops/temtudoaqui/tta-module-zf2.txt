@@ -1,0 +1,6 @@
+config/
+src/TemTudoAqui/
+Module.php
+README.md
+composer.json
+composer.phar

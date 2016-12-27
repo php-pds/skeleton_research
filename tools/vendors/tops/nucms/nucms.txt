@@ -1,0 +1,10 @@
+application/
+nucms/
+themes/bootstrap/
+uploads/
+.gitignore
+.htaccess.dist
+composer.json
+index.php
+license.txt
+readme.md

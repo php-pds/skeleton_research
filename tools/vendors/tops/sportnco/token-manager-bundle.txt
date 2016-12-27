@@ -1,0 +1,13 @@
+DependencyInjection/
+EventListener/
+JWT/
+Model/
+Resources/config/
+Tests/
+Token/
+.gitignore
+README.md
+TokenManagerBundle.php
+composer.json
+composer.lock
+phpunit.xml.dist

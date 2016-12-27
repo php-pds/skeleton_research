@@ -1,0 +1,8 @@
+src/Deemeetar/TranslationsReformat/
+tests/
+.gitignore
+.travis.yml
+VERSION
+composer.json
+phpunit.xml
+readme.md

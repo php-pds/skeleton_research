@@ -1,0 +1,6 @@
+lib/OfxParser/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json

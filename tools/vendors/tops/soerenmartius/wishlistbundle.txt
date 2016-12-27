@@ -1,0 +1,10 @@
+Controller/
+DependencyInjection/
+Doctrine/ORM/
+Form/Type/
+Manager/
+Model/
+Resources/
+README.MD
+SoerenMartiusWishlistBundle.php
+composer.json

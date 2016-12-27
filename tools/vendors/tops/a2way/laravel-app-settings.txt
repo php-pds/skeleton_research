@@ -1,0 +1,7 @@
+database/migrations/
+src/A2Way/LaravelAppSettings/
+.gitignore
+VERSION
+composer.json
+composer.lock
+readme.md

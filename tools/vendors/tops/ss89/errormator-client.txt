@@ -1,0 +1,8 @@
+ErrormatorClient/
+cakePHP/
+noFramework/
+vendor/
+LICENSE.txt
+README.md
+composer.json
+composer.phar

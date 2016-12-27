@@ -1,0 +1,7 @@
+src/
+.gitignore
+README.md
+SwooleAsyncComponent.php
+SwooleAsyncController.php
+composer.json
+params_swoole.php.default.php

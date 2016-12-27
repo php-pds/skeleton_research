@@ -1,0 +1,9 @@
+assets/js/
+stylesheets/
+BootstrapMultiSelect.php
+BootstrapMultiSelectAsset.php
+README.md
+Yii2BootstrapMultiSelectAsset.php
+composer.json
+index.html
+params.json

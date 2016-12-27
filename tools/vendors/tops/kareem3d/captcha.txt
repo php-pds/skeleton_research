@@ -1,0 +1,3 @@
+src/Captcha/
+README.md
+composer.json

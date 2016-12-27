@@ -1,0 +1,11 @@
+DependencyInjection/
+Resources/config/
+Tests/
+.gitignore
+.travis.yml
+HttpCapture.php
+HttpCaptureBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

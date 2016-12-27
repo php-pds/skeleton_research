@@ -1,0 +1,16 @@
+Block/
+Controller/
+Helper/
+Logger/
+Model/
+Observer/
+Setup/
+etc/
+i18n/
+view/frontend/
+.gitignore
+COPYING.txt
+LICENSE.txt
+LICENSE_AFL.txt
+composer.json
+registration.php

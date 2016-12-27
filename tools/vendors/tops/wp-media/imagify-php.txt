@@ -1,0 +1,5 @@
+example/
+.gitignore
+README.md
+class-imagify.php
+composer.json

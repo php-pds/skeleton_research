@@ -1,0 +1,15 @@
+build/
+example/
+src/
+.editorconfig
+.gitignore
+CHANGELOG.md
+CONTRIBUTING.md
+Dockerfile
+LICENSE.md
+Makefile
+Readme.md
+composer.json
+composer.lock
+index.php
+raml2html

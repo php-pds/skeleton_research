@@ -1,0 +1,5 @@
+.gitignore
+CurlWrapper.php
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,6 @@
+DependencyInjection/
+Resources/
+Twig/
+AssetsReferencerBundle.php
+README.md
+composer.json

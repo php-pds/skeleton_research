@@ -1,0 +1,9 @@
+Command/
+CssGenerator/
+DependencyInjection/
+Resources/
+Tests/Controller/
+.gitignore
+README.md
+VelaIconsBundle.php
+composer.json

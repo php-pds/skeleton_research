@@ -1,0 +1,6 @@
+Command/
+DependencyInjection/
+Resources/config/
+DreamCommerceGearmanBundle.php
+README.md
+composer.json

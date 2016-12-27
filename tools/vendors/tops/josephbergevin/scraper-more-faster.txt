@@ -1,0 +1,6 @@
+.gitattributes
+.gitignore
+README.md
+ScraperMoreFaster.php
+composer.json
+smf_tester.php

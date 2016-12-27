@@ -1,0 +1,5 @@
+src/php/econtext-lib-file/
+.gitignore
+LICENSE
+README
+composer.json

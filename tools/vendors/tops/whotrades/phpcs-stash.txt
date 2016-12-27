@@ -1,0 +1,12 @@
+bin/
+doc/images/
+lib/
+log/
+tmp/
+.gitignore
+README.md
+app.php
+composer.json
+composer.lock
+configuration.ini-dist
+index.php

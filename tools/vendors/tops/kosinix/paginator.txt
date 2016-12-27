@@ -1,0 +1,8 @@
+docs/
+src/Kosinix/
+tests/
+.gitignore
+LICENSE.txt
+README.md
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,5 @@
+Classes/
+Configuration/
+Resources/Private/Translations/
+README.md
+composer.json

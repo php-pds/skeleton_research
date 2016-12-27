@@ -1,0 +1,7 @@
+EOT/
+OTF/
+TTF/
+WOFF/
+README.md
+composer.json
+source-sans-pro.css

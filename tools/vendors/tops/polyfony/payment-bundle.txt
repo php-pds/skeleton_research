@@ -1,0 +1,16 @@
+Command/
+Controller/
+DependencyInjection/
+Entity/
+Event/
+Exception/
+Model/
+Resources/
+Result/
+Service/
+Tests/
+.gitignore
+PolyfonyPaymentBundle.php
+README.md
+composer.json
+phpunit.xml.dist

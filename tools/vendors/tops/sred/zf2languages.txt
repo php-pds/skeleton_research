@@ -1,0 +1,6 @@
+config/
+src/zf2Languages/
+.gitignore
+Module.php
+README.md
+composer.json

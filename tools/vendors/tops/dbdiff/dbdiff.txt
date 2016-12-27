@@ -1,0 +1,9 @@
+src/
+templates/
+tests/end2end/
+.gitignore
+LICENSE
+README.md
+composer.json
+dbdiff
+phpunit.xml

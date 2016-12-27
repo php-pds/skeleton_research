@@ -1,0 +1,12 @@
+documentation/
+modules/thijzer/
+src/Romano/
+web/
+.travis.yml
+.editorconfig
+.gitattributes
+.gitignore
+README.md
+bootstrap.php
+composer.json
+composer.lock

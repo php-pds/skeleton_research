@@ -1,0 +1,7 @@
+nbproject/
+src/Specification/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json

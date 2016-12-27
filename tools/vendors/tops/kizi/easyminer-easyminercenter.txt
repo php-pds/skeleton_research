@@ -1,0 +1,15 @@
+app/
+docker/
+log/
+submodules/
+temp/
+vendor/
+www/
+.gitattributes
+.gitignore
+.gitmodules
+.htaccess
+LICENSE
+README.md
+composer.json
+composer.lock

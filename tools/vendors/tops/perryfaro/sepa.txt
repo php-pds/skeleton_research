@@ -1,0 +1,12 @@
+Builder/
+CreditTransfer/
+docs/
+tests/
+xsd/
+.gitignore
+.travis.yml
+CreditTransfer.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,4 @@
+EnrichBundle/
+WCSBundle/
+README.md
+composer.json

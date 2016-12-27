@@ -1,0 +1,11 @@
+build/
+ci/
+example/server/
+lib/JsonRpcLib/
+tests/
+.gitignore
+.travis.yml
+README.md
+VERSION.txt
+composer.json
+phpunit.xml.dist

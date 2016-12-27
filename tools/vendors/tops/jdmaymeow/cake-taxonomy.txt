@@ -1,0 +1,10 @@
+config/
+src/
+tests/
+webroot/
+.gitattributes
+.gitignore
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

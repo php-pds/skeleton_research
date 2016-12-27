@@ -1,0 +1,12 @@
+BCrypt/
+Command/
+DependencyInjection/
+Resources/
+Security/Encoder/
+Tests/
+.gitignore
+.travis.yml
+PerbilityBCryptBundle.php
+README.md
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,14 @@
+config/
+demo/
+doc/
+docs/
+fonts/
+images/
+src/
+test/
+.gitignore
+.hgignore
+CHANGELOG.md
+README.md
+build.xml
+composer.json

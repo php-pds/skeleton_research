@@ -1,0 +1,15 @@
+app/
+public_html/
+.editorconfig
+.gitattributes
+.gitignore
+.php_cs
+.phpstorm.meta.php
+.sensiolabs.yml
+LICENSE.md
+README.md
+_config.yml
+bower.json
+composer.json
+gulpfile.js
+package.json

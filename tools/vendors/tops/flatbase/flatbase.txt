@@ -1,0 +1,12 @@
+benchmarks/
+src/
+tests/
+.gitignore
+.travis.yml
+LICENSE.txt
+README.md
+cli-demo.gif
+composer.json
+flatbase
+flatbase.json
+phpunit.xml

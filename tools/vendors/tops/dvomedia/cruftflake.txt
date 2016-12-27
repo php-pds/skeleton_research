@@ -1,0 +1,7 @@
+scripts/
+src/Davegardnerisme/CruftFlake/
+test/
+.gitignore
+.gitmodules
+composer.json
+readme.md

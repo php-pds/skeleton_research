@@ -1,0 +1,10 @@
+src/DarkGigaByte/Rollout/
+tests/DarkGigaByte/Rollout/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml

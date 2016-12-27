@@ -1,0 +1,11 @@
+_config/
+code/
+docs/
+templates/
+tests/
+thirdparty/
+CHANGELOG
+LICENSE
+README.md
+_config.php
+composer.json

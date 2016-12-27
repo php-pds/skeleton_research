@@ -1,0 +1,14 @@
+build/
+res/
+src/
+tests/
+.codeclimate.yml
+.gitignore
+.scrutinizer.yml
+.styleci.yml
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpbench.json.dist
+phpunit.xml.dist

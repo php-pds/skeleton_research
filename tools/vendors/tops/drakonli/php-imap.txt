@@ -1,0 +1,5 @@
+src/PhpImap/
+.gitignore
+LICENSE
+README.md
+composer.json

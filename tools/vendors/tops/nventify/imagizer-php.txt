@@ -1,0 +1,8 @@
+src/
+tests/
+vendor/
+.gitignore
+ImagizerPhp.iml
+README.md
+composer.json
+composer.lock

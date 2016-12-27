@@ -1,0 +1,12 @@
+app/
+web/
+.gitignore
+.htaccess
+CHANGELOG.md
+LICENSE
+README.md
+composer.json
+composer.lock
+init_update_app
+update_app
+version.txt

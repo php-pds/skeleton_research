@@ -1,0 +1,7 @@
+Configuration/
+DependencyInjection/
+Resources/
+.gitignore
+README.md
+XisEasyFormsBundle.php
+composer.json

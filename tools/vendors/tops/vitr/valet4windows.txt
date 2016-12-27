@@ -1,0 +1,14 @@
+bin/
+cli/
+tests/
+.gitignore
+.travis.yml
+CHANGELOG.md
+Caddyfile
+LICENSE
+README.md
+composer.json
+phpunit.xml
+server.php
+start.bat
+valet

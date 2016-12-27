@@ -1,0 +1,9 @@
+spec/Elfiggo/Brobdingnagian/
+src/Elfiggo/Brobdingnagian/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+phpspec.yml

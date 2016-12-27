@@ -1,0 +1,6 @@
+project/
+world/
+.gitignore
+LICENSE
+README.md
+composer.json

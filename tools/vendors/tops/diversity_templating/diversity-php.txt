@@ -1,0 +1,12 @@
+lib/
+test/
+.coveralls.yml
+.gitignore
+.travis.yml
+COPYING
+Makefile
+README.md
+composer.json
+composer.lock
+composer.phar
+phpunit.xml.dist

@@ -1,0 +1,9 @@
+DependencyInjection/
+Resources/
+Tests/
+LICENSE
+README.rst
+SMStatsDBundle.php
+StatsD.php
+composer.json
+phpunit.xml

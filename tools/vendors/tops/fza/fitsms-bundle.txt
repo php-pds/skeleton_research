@@ -1,0 +1,11 @@
+DependencyInjection/
+FitSMS/
+Helper/
+Resources/config/
+.gitignore
+FzaFitSmsBundle.php
+LICENSE
+README.md
+SmsMessage.php
+composer.json
+composer.lock

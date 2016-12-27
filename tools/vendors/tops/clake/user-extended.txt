@@ -1,0 +1,13 @@
+classes/
+components/
+config/
+controllers/
+layouts/
+models/
+tests/
+traits/
+updates/
+LICENSE
+Plugin.php
+composer.json
+readme.md

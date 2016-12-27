@@ -1,0 +1,10 @@
+src/FipeApi/
+tests/FipeApi/Api/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+bootstrap.php
+composer.json
+phpunit.xml

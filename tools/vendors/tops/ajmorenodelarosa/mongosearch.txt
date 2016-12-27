@@ -1,0 +1,6 @@
+DependencyInjection/
+Resources/config/
+Services/Finder/
+MongoSearchBundle.php
+README.markdown
+composer.json

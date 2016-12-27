@@ -1,0 +1,6 @@
+Resources/translations/
+Validator/
+.gitignore
+README.md
+XinjiaSpainValidatorBundle.php
+composer.json

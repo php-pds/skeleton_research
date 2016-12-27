@@ -1,0 +1,10 @@
+doxygen/
+src/
+tests/MathParser/
+.gitignore
+LICENSE
+README.md
+composer.json
+doxygen.config
+phpunit-quick.xml
+phpunit.xml

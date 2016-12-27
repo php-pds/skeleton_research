@@ -1,0 +1,3 @@
+src/Apfoo/
+README.md
+composer.json

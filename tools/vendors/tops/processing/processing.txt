@@ -1,0 +1,8 @@
+lib/Processing/
+tests/
+.gitignore
+.travis.yml
+README.md
+composer.json
+install_ext.sh
+phpunit.xml.dist

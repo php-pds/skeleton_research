@@ -1,0 +1,12 @@
+Build/
+Documents/
+Examples/
+Source/
+Tests/PHPUnit/
+.gitattributes
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock
+include.php

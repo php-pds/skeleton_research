@@ -1,0 +1,12 @@
+LICENSE/
+demo/
+doc/upgrade_guide/
+src/QcloudApi/
+tests/QcloudApi/
+testsmock/
+.gitignore
+LICENSE.md
+README.md
+composer.json
+phpunit.php
+phpunit.xml

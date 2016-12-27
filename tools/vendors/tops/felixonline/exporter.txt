@@ -1,0 +1,4 @@
+src/FelixOnline/Exporter/
+.gitignore
+README.md
+composer.json

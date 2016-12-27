@@ -1,0 +1,6 @@
+src/Org/Snake/
+tests/unit/Snake/
+.gitignore
+README.md
+composer.json
+phpunit.xml.dist

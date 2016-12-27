@@ -1,0 +1,12 @@
+public/
+src/Nogo/Feedbox/
+templates/
+.gitignore
+LICENSE
+README.md
+bootstrap.php
+bootstrap.phpunit.php
+composer.json
+composer.lock
+phpunit.xml.dist
+update.php

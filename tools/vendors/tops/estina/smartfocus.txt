@@ -1,0 +1,8 @@
+doc/
+src/Estina/SmartFocus/Api/
+tests/
+.gitignore
+LICENSE.md
+README.md
+composer.json
+sf_logo.png

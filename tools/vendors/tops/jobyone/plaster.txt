@@ -1,0 +1,7 @@
+demo/
+src/
+test-content/
+.gitignore
+LICENSE
+README.md
+composer.json

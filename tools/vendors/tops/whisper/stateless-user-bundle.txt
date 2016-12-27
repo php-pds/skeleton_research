@@ -1,0 +1,15 @@
+Controller/
+DependencyInjection/
+Entity/
+Resources/config/
+Rest/
+Security/Encoder/
+Tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+WhisperStatelessUserBundle.php
+composer.json
+composer.lock
+phpunit.xml.dist

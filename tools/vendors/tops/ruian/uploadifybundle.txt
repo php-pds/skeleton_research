@@ -1,0 +1,14 @@
+Controller/
+DependencyInjection/
+Form/Type/
+Interfaces/
+Listener/
+Model/
+Resources/
+Tests/
+.gitignore
+.travis.yml
+README.md
+RuianUploadifyBundle.php
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,6 @@
+src/composerDemo/
+tests/
+.gitattributes
+.gitignore
+README.md
+composer.json

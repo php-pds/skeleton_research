@@ -1,0 +1,7 @@
+src/Baumgartner/Xpp/
+tests/
+.gitignore
+composer.json
+composer.lock
+phpunit.xml
+xppaut

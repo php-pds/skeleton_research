@@ -1,0 +1,12 @@
+app/
+config/
+data/
+documents/
+logs/
+public/
+scripts/
+tmp/
+.gitignore
+LICENSE.txt
+README.md
+composer.json

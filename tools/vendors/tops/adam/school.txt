@@ -1,0 +1,6 @@
+src/
+.gitignore
+Diagram.uml
+Diagrama.png
+README.md
+composer.json

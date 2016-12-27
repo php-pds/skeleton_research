@@ -1,0 +1,5 @@
+src/RCache/
+tests/
+.travis.yml
+README.md
+composer.json

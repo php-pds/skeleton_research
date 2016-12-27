@@ -1,0 +1,7 @@
+Assetic/Filter/
+DependencyInjection/
+Resources/config/
+.gitignore
+README.md
+cjsDeliveryBundle.php
+composer.json

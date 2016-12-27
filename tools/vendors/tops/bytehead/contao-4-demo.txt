@@ -1,0 +1,11 @@
+app/
+files/contaodemo/
+templates/contaodemo/
+web/
+.gitignore
+CHANGELOG.md
+README.md
+build.xml
+composer.json
+composer.lock
+dump.sql

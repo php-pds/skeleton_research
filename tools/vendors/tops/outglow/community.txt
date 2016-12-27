@@ -1,0 +1,8 @@
+build/logs/
+src/Outglow/Component/Community/
+tests/
+.gitignore
+.travis.yml
+README.md
+build.xml
+composer.json

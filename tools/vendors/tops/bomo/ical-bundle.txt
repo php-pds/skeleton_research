@@ -1,0 +1,12 @@
+DependencyInjection/
+Model/
+Provider/
+Resources/
+Tests/
+lib/kigkonsult/icalcreator/
+.gitignore
+BOMOIcalBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

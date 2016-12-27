@@ -1,0 +1,7 @@
+DependencyInjection/
+Resources/config/
+Tests/
+Akismet.php
+Benji07AkismetBundle.php
+README.md
+composer.json

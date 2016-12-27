@@ -1,0 +1,6 @@
+.gitignore
+COPYING
+README.md
+composer.json
+example.php
+ipgeobase.php

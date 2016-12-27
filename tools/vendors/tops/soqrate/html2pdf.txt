@@ -1,0 +1,13 @@
+DependencyInjection/
+Resources/config/
+Service/
+_class/
+locale/
+Changelog.txt
+HTML2PDF.php
+LGPL.txt
+LICENCE.md
+README.md
+Readme.txt
+SoqrateHtml2PdfBundle.php
+composer.json

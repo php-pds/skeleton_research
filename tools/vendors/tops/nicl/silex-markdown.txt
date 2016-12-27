@@ -1,0 +1,7 @@
+src/Nicl/
+tests/Nicl/Silex/Tests/
+.gitignore
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

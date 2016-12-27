@@ -1,0 +1,9 @@
+src/Articus/DataTransfer/
+tests/
+.coveralls.yml
+.gitignore
+.travis.yml
+LICENSE
+README.md
+codeception.yml
+composer.json

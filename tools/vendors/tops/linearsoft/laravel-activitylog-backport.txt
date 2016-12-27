@@ -1,0 +1,10 @@
+.idea/
+config/
+migrations/
+src/
+.editorconfig
+.gitattributes
+.gitignore
+CONTRIBUTING.md
+README.md
+composer.json

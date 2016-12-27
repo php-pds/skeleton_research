@@ -1,0 +1,12 @@
+classes/
+docs/
+languages/
+resources/
+support/
+themes/
+build.php
+composer.json
+index.php
+phpliteadmin-build-template.php
+phpliteadmin.config.sample.php
+readme.md

@@ -1,0 +1,3 @@
+src/SpiderManager/
+README.md
+composer.json

@@ -1,0 +1,10 @@
+assets/
+classes/
+config/
+docs/img/
+languages/de/
+templates/
+widgets/
+CHANGELOG.md
+README.md
+composer.json

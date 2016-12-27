@@ -1,0 +1,6 @@
+src/PayEx/
+tests/
+.travis.yml
+LICENSE
+README.md
+composer.json

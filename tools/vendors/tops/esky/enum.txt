@@ -1,0 +1,8 @@
+src/Esky/Enum/
+tests/Esky/Enum/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml

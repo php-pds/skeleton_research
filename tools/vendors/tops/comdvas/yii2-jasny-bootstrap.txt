@@ -1,0 +1,7 @@
+.gitignore
+FileInput.php
+FileInputImage.php
+JasnyBootstrapAsset.php
+LICENSE
+README.md
+composer.json

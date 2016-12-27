@@ -1,0 +1,15 @@
+assets/
+config/
+core/
+data/
+install/
+.gitignore
+.htaccess
+LICENSE
+README.md
+composer.json
+composer.lock
+favicon.ico
+gulpfile.js
+index.php
+package.json

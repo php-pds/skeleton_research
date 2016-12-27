@@ -1,0 +1,15 @@
+build/
+examples/
+src/GoogleApi/
+static/
+tests/
+.gitignore
+LICENSE
+NOTICE
+README.md
+build.xml
+composer.json
+composer.lock
+composer.phar
+makeRelease.sh
+phpunit.xml.dist

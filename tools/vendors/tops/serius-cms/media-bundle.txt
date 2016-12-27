@@ -1,0 +1,5 @@
+Entity/
+Resources/
+README.md
+SeriusMediaBundle.php
+composer.json

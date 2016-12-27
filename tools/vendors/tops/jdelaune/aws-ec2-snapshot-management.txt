@@ -1,0 +1,4 @@
+src/EC2SnapshotManagement/
+.gitignore
+README.md
+composer.json

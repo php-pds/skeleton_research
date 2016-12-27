@@ -1,0 +1,13 @@
+lib/GetStream/Stream/
+test/
+.coveralls.yml
+.gitignore
+.travis.yml
+AUTHORS
+CHANGELOG
+LICENSE
+Makefile
+README.md
+composer.json
+phpunit.xml.dist
+upgrading.txt

@@ -1,0 +1,11 @@
+.gitignore
+LICENCE
+README.md
+WorldText.php
+WorldTextAdmin.class.php
+WorldTextGroup.class.php
+WorldTextSms.class.php
+composer.json
+groupDemo.php
+simpleDemo.php
+wtException.php

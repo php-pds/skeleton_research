@@ -1,0 +1,13 @@
+DependencyInjection/
+Layout/
+Model/OpenLdap/
+Resources/config/
+Security/
+Tests/Model/OpenLdap/
+.gitignore
+.php_cs
+KateGrayLdapUserBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,4 @@
+src/SRedis/
+.gitignore
+README.md
+composer.json

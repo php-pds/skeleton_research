@@ -1,0 +1,10 @@
+Bundle/
+Generator/
+Repository/
+Util/
+.gitignore
+LICENSE
+README.md
+UsernameFactory.php
+composer.json
+composer.lock

@@ -1,0 +1,4 @@
+src/Sword/
+test/
+vendor/
+composer.json

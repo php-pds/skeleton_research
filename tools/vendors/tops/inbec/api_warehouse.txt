@@ -1,0 +1,8 @@
+src/Exceptions/
+tests/Exceptions/
+.gitignore
+README.md
+circle.yml
+composer.json
+composer.lock
+phpunit.xml

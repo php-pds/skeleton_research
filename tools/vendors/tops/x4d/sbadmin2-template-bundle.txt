@@ -1,0 +1,6 @@
+DependencyInjection/
+Resources/
+LICENSE
+README.md
+X4DSBAdmin2Bundle.php
+composer.json

@@ -1,0 +1,17 @@
+Controller/
+DependencyInjection/
+Entity/
+Exception/
+Listener/
+Migrations/
+Model/
+ParamConverter/
+Repository/
+Resources/
+Serializer/Handler/
+Service/
+.gitignore
+README.md
+SimpleITClaireExerciseBundle.php
+composer.json
+phpunit.xml.dist

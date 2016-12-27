@@ -1,0 +1,7 @@
+doc/
+src/
+CHANGELOG
+LICENSE
+NOTICE
+README.rst
+composer.json

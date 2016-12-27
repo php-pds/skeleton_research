@@ -1,0 +1,8 @@
+Docs/
+legacy/
+src/Zip/
+tests/
+.gitignore
+README.md
+REVISION.TXT
+composer.json

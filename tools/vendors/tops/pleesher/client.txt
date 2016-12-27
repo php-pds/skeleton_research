@@ -1,0 +1,3 @@
+src/Pleesher/Client/
+.gitignore
+composer.json

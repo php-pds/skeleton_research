@@ -1,0 +1,14 @@
+lib/
+tests/
+vendor/
+.gitignore
+PHP env Setup.docx
+README.md
+Run Activities.bat
+Run Events.bat
+Run Giving.bat
+Run Groups.bat
+Run People.bat
+composer.json
+composer.lock
+license.txt

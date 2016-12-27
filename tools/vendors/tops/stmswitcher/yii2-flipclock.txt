@@ -1,0 +1,7 @@
+assets/
+views/
+.gitignore
+EXAMPLE.md
+FlipClock.php
+README.md
+composer.json

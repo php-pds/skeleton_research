@@ -1,0 +1,6 @@
+classes/
+template/
+.gitignore
+composer.json
+run.php
+version

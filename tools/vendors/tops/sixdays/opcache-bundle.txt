@@ -1,0 +1,7 @@
+Command/
+DependencyInjection/
+Resources/
+LICENSE
+README.markdown
+SixdaysOpcacheBundle.php
+composer.json

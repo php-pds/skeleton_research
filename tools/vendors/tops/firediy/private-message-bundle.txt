@@ -1,0 +1,15 @@
+Controller/
+DependencyInjection/
+Entity/
+Event/
+Form/
+Repository/
+Resources/
+Validator/
+.gitignore
+FDPrivateMessageBundle.php
+FDPrivateMessageEvents.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

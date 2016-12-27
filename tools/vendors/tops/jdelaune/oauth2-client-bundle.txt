@@ -1,0 +1,8 @@
+Controller/
+DependencyInjection/
+Resources/config/
+Security/
+LICENSE
+OAuth2ClientBundle.php
+README.md
+composer.json

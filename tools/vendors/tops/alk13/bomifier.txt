@@ -1,0 +1,4 @@
+Bomifier.php
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,9 @@
+config/
+example code/
+src/
+.gitattributes
+.gitignore
+COPYING
+README
+TODO
+composer.json

@@ -1,0 +1,17 @@
+_config/
+config/
+docs/en/
+src/
+tests/
+.arcconfig
+.gitignore
+.php_cs
+.sami
+LICENCE
+README.md
+UPGRADING.md
+_config.php
+_heystack_subsystem
+composer.json
+composer.lock
+phpunit.xml.dist

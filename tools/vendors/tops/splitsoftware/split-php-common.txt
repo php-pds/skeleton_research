@@ -1,0 +1,6 @@
+codedeploy/sonar-scanner/
+src/
+.gitignore
+LICENSE
+README.md
+composer.json

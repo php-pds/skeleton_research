@@ -1,0 +1,10 @@
+DependencyInjection/
+Entity/
+Resources/config/
+ezpublish_legacy/bettinggamebundle/
+.gitignore
+.travis.yml
+BettingGameBundle.php
+LICENSE
+README.md
+composer.json

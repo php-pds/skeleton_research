@@ -1,0 +1,7 @@
+example/
+src/
+.codeclimate
+.gitignore
+Makefile
+README.md
+composer.json

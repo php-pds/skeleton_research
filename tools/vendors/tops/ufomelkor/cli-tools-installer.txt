@@ -1,0 +1,10 @@
+bin/
+doc/
+src/
+templates/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+couscous.yml

@@ -1,0 +1,14 @@
+Tests/AddressBook/
+config/
+database/
+resources/lang/en/
+src/
+tests/
+.gitattributes
+.gitignore
+.travis.yml
+LICENSE.md
+README.md
+composer.json
+composer.lock
+phpunit.xml

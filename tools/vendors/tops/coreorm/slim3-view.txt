@@ -1,0 +1,15 @@
+src/
+tests/
+.DS_Store
+.coveralls.yml
+.gitignore
+.travis.yml
+CodeSniffer.conf
+LICENSE
+README.md
+composer.json
+composer.lock
+cs.sh
+phpcbf
+phpcs
+phpunit.xml

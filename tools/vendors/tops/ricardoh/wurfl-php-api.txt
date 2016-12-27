@@ -1,0 +1,9 @@
+WURFL/
+docs/
+examples/
+tests/
+tools/
+CHANGELOG.txt
+COPYING.txt
+README.md
+composer.json

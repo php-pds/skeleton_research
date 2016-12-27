@@ -1,0 +1,3 @@
+generators/
+README.md
+composer.json

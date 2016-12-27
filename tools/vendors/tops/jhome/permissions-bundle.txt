@@ -1,0 +1,9 @@
+DependencyInjection/
+Loader/
+Resources/config/
+Tests/Voter/
+Voter/
+.gitignore
+JhomePermissionsBundle.php
+composer.json
+phpunit.xml.dist

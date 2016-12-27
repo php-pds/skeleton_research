@@ -1,0 +1,5 @@
+wxsdk/
+LICENSE
+Lbqywx.php
+README.md
+composer.json

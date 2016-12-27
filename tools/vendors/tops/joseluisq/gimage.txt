@@ -1,0 +1,12 @@
+examples/
+src/
+tests/
+.editorconfig
+.gitattributes
+.gitignore
+.travis.yml
+Makefile
+composer.json
+license.md
+phpunit.xml
+readme.md

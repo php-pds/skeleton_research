@@ -1,0 +1,6 @@
+examples/
+spec/Ekiwok/TinyFixtures/
+src/Ekiwok/TinyFixtures/
+.gitignore
+README.md
+composer.json

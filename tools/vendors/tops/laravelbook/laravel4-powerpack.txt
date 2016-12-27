@@ -1,0 +1,6 @@
+src/LaravelBook/Laravel4Powerpack/
+tests/
+.travis.yml
+README.md
+composer.json
+phpunit.xml

@@ -1,0 +1,14 @@
+assets/js/
+config/
+data/cache/
+database/
+etc/
+logs/nginx/
+migrations/
+public/
+.gitignore
+LICENSE.txt
+README.md
+composer.json
+composer.lock
+init_autoloader.php

@@ -1,0 +1,6 @@
+Classes/Brainswarm/Cleanup/
+Documentation/
+.gitignore
+LICENSE
+composer.json
+readme.md

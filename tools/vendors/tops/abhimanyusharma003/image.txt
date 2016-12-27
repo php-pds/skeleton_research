@@ -1,0 +1,4 @@
+ImageMagic.php
+LICENSE
+README.md
+composer.json

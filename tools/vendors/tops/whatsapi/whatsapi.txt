@@ -1,0 +1,8 @@
+src/WhatsApi/
+.gitattributes
+.gitignore
+CHANGELOG.md
+CONTRIBUTING.md
+EVENTS.md
+README.md
+composer.json

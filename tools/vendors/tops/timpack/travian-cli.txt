@@ -1,0 +1,9 @@
+app/
+bin/
+src/Travian/
+.gitignore
+.semver
+LICENSE.txt
+README.md
+composer.json
+composer.lock

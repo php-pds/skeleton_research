@@ -1,0 +1,4 @@
+.gitignore
+EasyPDF.php
+composer.json
+composer.lock

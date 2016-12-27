@@ -1,0 +1,16 @@
+bin/
+docs/
+lib/Macaroons/
+tests/
+.codeclimate.yml
+.coveralls.yml
+.gitignore
+.travis.yml
+CHANGELOG.md
+MIT-LICENSE
+README.md
+TODO.md
+autotest-watchr.rb
+composer.json
+mkdocs.yml
+phpunit.xml

@@ -1,0 +1,6 @@
+src/Commands/
+.gitignore
+AppSkeleton.json
+LICENSE
+README.md
+composer.json

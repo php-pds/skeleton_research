@@ -1,0 +1,8 @@
+Tests/
+application/
+public_html/
+.gitignore
+LICENSE
+README.md
+composer.json
+phpunit.xml

@@ -1,0 +1,6 @@
+Docs/
+ODataConnectorForMySQL/
+Tests/
+MySQLConnector.php
+README.md
+composer.json

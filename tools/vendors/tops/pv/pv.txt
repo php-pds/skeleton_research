@@ -1,0 +1,17 @@
+Validate/
+tests/
+.travis.yml
+ConversionException.php
+PArray.php
+PBinaryElement.php
+PBinaryTree.php
+PBoolean.php
+PDate.php
+PEnum.php
+PNumber.php
+PObject.php
+PString.php
+README.md
+ValidationException.php
+Variable.php
+composer.json

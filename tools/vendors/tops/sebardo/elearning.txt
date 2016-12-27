@@ -1,0 +1,4 @@
+ElearningBundle/
+LICENSE
+README.md
+composer.json

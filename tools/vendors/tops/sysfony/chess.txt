@@ -1,0 +1,6 @@
+src/
+tests/
+README.md
+bootstrap.php
+composer.json
+phpunit.xml

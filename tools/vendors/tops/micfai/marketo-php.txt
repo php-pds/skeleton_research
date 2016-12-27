@@ -1,0 +1,4 @@
+src/Marketo/
+.gitignore
+Readme.md
+composer.json

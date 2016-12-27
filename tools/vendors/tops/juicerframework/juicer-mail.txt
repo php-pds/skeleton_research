@@ -1,0 +1,12 @@
+bin/
+doc/
+nbproject/
+src/
+test/
+.codeclimate.yml
+.gitignore
+.travis.yml
+LICENSE.md
+README.md
+composer.json
+phpunit.xml.dist

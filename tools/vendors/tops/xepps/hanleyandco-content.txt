@@ -1,0 +1,6 @@
+images/
+pages/
+.gitignore
+LICENSE
+README.md
+composer.json

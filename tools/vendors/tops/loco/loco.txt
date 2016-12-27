@@ -1,0 +1,11 @@
+bin/
+dev/
+example/
+src/
+tests/
+README.md
+apigen.yml
+composer.json
+composer.lock
+config.json.dist
+phpunit.xml.dist

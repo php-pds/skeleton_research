@@ -1,0 +1,14 @@
+assets/
+controllers/
+migrations/
+models/
+views/
+.gitignore
+CollapsableField.php
+Config.php
+FlexibleForm.php
+FlexibleGrid.php
+Module.php
+TemplateTrait.php
+composer.json
+flex_config.php

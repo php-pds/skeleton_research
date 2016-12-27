@@ -1,0 +1,12 @@
+data/
+doc/
+examples/ecommerce/
+src/Phaybox/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

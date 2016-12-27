@@ -1,0 +1,3 @@
+src/Stitch/
+README.md
+composer.json

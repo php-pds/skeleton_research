@@ -1,0 +1,6 @@
+detect_visitor_location/
+phpfastcache_v1.3_stable/
+phpfastcache_v2.1_release/
+README.md
+composer.json
+copyright & license.txt

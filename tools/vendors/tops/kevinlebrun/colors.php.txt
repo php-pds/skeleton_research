@@ -1,0 +1,15 @@
+images/
+src/Colors/
+tests/
+.gitattributes
+.gitignore
+.scrutinizer.yml
+.travis.yml
+256colors.php
+CHANGELOG.mkd
+LICENSE
+README.mkd
+composer.json
+example.php
+phpcs.xml
+phpunit.xml

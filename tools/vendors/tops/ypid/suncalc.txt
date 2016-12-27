@@ -1,0 +1,5 @@
+lib/
+CONTRIBUTING.md
+LICENSE.md
+README.md
+composer.json

@@ -1,0 +1,10 @@
+.idea/
+src/
+tests/
+.gitignore
+LICENSE
+README.md
+affirm.json
+composer.json
+composer.lock
+test

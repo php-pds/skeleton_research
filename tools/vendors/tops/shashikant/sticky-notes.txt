@@ -1,0 +1,9 @@
+assets/
+config/
+data/
+src/StickyNotes/
+tests/
+view/sticky-notes/sticky-notes/
+Module.php
+autoload_classmap.php
+composer.json

@@ -1,0 +1,7 @@
+src/Rck6982/Numbers2Words/
+tests/Rck6982/Tests/Numbers2Words/
+.gitignore
+README.MD
+composer.json
+example.php
+phpunit.xml.dist

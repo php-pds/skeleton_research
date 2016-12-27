@@ -1,0 +1,14 @@
+config/
+src/
+tests/
+.codeclimate.ruleset.xml
+.codeclimate.yml
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+composer.json
+default_bootstrap.php
+default_bootstrap_dic.php
+phpunit.xml

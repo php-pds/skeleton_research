@@ -1,0 +1,4 @@
+src/OnePica/
+.gitignore
+README.md
+composer.json

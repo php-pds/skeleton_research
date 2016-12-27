@@ -1,0 +1,14 @@
+core/
+public/
+.gitattributes
+.gitignore
+.styleci.yml
+.travis.yml
+Dockerfile
+LICENSE
+README.md
+artisan
+circle.yml
+composer.json
+flymyshop_phpcs.xml
+thumbnail.png

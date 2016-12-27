@@ -1,0 +1,4 @@
+src/Sofast/
+LICENSE
+README.md
+composer.json

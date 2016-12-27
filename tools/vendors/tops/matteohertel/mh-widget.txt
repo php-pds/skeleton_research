@@ -1,0 +1,7 @@
+Example/
+MHDev/
+.gitignore
+Doxyfile
+LICENSE
+README.MD
+composer.json

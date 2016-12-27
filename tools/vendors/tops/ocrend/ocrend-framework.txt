@@ -1,0 +1,15 @@
+api/
+core/
+generator/
+templates/
+vendor/
+views/
+.htaccess
+LICENSE.md
+README.md
+composer.json
+composer.lock
+gen.py
+index.php
+ocrend.sql
+ocrend.xml

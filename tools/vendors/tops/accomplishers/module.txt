@@ -1,0 +1,7 @@
+Domain/Model/
+spec/Domain/Model/
+.gitignore
+LICENSE
+README.md
+composer.json
+phpspec.yml

@@ -1,0 +1,12 @@
+custom_plugins/
+doc/
+lib/
+plugins/
+.gitignore
+CHANGELOG.txt
+LICENSE
+README.markdown
+composer.json
+config.inc.php.dist
+config.inc.php.dist2
+vcdeploy

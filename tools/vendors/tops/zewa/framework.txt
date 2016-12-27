@@ -1,0 +1,11 @@
+Zewa/
+build/
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.MD
+build.xml
+composer.json
+phpunit.xml.dist

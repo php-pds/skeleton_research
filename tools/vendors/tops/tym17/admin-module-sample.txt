@@ -1,0 +1,14 @@
+Api/Data/
+Block/Adminhtml/
+Controller/Adminhtml/
+Gallery/
+Helper/
+Model/
+etc/
+view/adminhtml/
+.gitattributes
+.gitignore
+LICENSE_AFL.txt
+README.md
+composer.json
+registration.php

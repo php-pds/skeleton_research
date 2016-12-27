@@ -1,0 +1,8 @@
+private/
+web/
+.gitignore
+.travis.yml
+LICENSE.md
+README.md
+composer-update.sh
+composer.json

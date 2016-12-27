@@ -1,0 +1,6 @@
+fonts/
+CaptchaAction.php
+LICENSE
+README.md
+composer.json
+mathpublisher.php

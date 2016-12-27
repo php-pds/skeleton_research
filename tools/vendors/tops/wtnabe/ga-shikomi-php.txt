@@ -1,0 +1,6 @@
+bin/
+src/wtnabe/
+tests/
+.gitignore
+Phakefile
+composer.json

@@ -1,0 +1,13 @@
+samples/
+src/Iyzipay/
+tests/
+.coveralls.yml
+.gitattributes
+.gitignore
+.travis.yml
+IyzipayBootstrap.php
+LICENSE
+README.md
+VERSION
+composer.json
+phpunit.xml.dist

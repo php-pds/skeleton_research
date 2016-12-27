@@ -1,0 +1,6 @@
+features/
+.gitignore
+LICENSE
+README.md
+composer.json
+security-tests.sh

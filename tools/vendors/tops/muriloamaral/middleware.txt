@@ -1,0 +1,12 @@
+config/
+src/Middleware/
+tests/MiddlewareTest/
+.gitignore
+.php_cs
+.travis.yml
+LICENCE
+Module.php
+README.md
+autoload_classmap.php
+composer.json
+phpunit.xml

@@ -1,0 +1,14 @@
+Controller/
+DependencyInjection/
+Resources/
+Tests/
+.bowerrc
+.gitignore
+.travis.yml
+DPPlatformUITypeListBundle.php
+Gruntfile.js
+LICENSE
+bower.json
+composer.json
+jshint.json
+package.json

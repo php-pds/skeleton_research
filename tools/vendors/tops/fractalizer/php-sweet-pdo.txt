@@ -1,0 +1,9 @@
+Bindings/Silex/Extension/
+phar/
+phing/
+src/
+tests/
+.gitignore
+LICENSE.txt
+README.markdown
+composer.json

@@ -1,0 +1,8 @@
+Controller/
+DependencyInjection/
+Resources/config/
+Security/
+ezpublish_legacy/switchuserbundle/
+BambooSwitchUserBundle.php
+README.md
+composer.json

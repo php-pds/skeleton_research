@@ -1,0 +1,9 @@
+Classes/
+Controller/
+DependencyInjection/
+Resources/
+Tests/Controller/
+LICENSE
+README.md
+TextMagicApiBundle.php
+composer.json

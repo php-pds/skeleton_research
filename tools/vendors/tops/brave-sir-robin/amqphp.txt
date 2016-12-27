@@ -1,0 +1,12 @@
+build/
+demos/
+diag/
+phing/
+src/amqphp/
+tests.old/
+tools/
+README
+TODO.dev
+build.properties
+build.xml
+composer.json

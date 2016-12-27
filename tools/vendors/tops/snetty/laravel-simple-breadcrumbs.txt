@@ -1,0 +1,5 @@
+src/
+views/
+LICENSE
+README.rst
+composer.json

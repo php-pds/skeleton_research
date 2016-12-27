@@ -1,0 +1,6 @@
+zmc/
+CHANGELOG
+LICENCE
+README.md
+composer.json
+zmc.php

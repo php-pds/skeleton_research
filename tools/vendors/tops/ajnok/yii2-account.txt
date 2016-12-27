@@ -1,0 +1,9 @@
+controllers/
+helpers/
+models/
+views/
+AutoloadExample.php
+Module.php
+README.md
+composer.json
+composer.lock

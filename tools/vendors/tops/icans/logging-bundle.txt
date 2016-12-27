@@ -1,0 +1,8 @@
+DependencyInjection/
+Handler/RabbitMq/
+Resources/config/
+.gitignore
+IcansLoggingBundle.php
+LICENSE
+README.md
+composer.json

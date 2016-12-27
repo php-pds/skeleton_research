@@ -1,0 +1,6 @@
+classes/
+docs/
+sql/
+.gitignore
+composer.json
+onpubapi.php

@@ -1,0 +1,6 @@
+src/ZeroPub/
+.DS_Store
+CHANGELOG.md
+LICENSE
+README.md
+composer.json

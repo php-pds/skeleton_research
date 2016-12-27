@@ -1,0 +1,7 @@
+src/
+test/
+.bumpversion.cfg
+.gitignore
+README.md
+composer.json
+composer.phar

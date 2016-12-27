@@ -1,0 +1,11 @@
+Controller/
+DependencyInjection/
+Models/
+Resources/
+Services/
+Tests/Controller/
+spec/PartFire/SlackBundle/Models/
+LICENSE
+PartFireSlackBundle.php
+README.md
+composer.json

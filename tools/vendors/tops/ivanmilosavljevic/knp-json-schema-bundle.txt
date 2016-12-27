@@ -1,0 +1,8 @@
+spec/Knp/JsonSchemaBundle/
+src/Knp/JsonSchemaBundle/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpspec.yml

@@ -1,0 +1,6 @@
+Configuration/
+Resources/Private/
+.codeclimate.yml
+.styleci.yml
+.travis.yml
+composer.json

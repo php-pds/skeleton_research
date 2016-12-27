@@ -1,0 +1,6 @@
+examples/
+lib/Gapi/
+.gitignore
+LICENSE
+README.md
+composer.json

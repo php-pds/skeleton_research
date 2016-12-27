@@ -1,0 +1,7 @@
+src/PHPToJavascript/
+tests/
+.gitignore
+README.md
+composer.json
+license.txt
+php.js

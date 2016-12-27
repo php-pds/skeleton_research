@@ -1,0 +1,6 @@
+.gitignore
+LICENSE
+README.md
+bootstrap.php
+composer.json
+icon.svg

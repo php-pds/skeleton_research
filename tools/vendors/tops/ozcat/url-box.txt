@@ -1,0 +1,6 @@
+class/
+demo/
+src/Urlbox/
+.gitignore
+README.md
+composer.json

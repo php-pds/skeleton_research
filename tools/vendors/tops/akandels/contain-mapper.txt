@@ -1,0 +1,6 @@
+src/ContainMapper/
+tests/ContainMapperTest/
+.gitignore
+README.md
+composer.json
+phpunit.xml.dist

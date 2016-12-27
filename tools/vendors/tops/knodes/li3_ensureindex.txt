@@ -1,0 +1,5 @@
+config/
+extensions/command/
+tests/
+README.md
+composer.json

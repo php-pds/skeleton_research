@@ -1,0 +1,4 @@
+src/RMail/
+.gitignore
+README.md
+composer.json

@@ -1,0 +1,7 @@
+config/
+src/
+webroot/adminLTE/assets/
+.gitignore
+README.md
+composer.json
+phpunit.xml.dist

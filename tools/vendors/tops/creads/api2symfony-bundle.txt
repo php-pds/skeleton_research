@@ -1,0 +1,6 @@
+src/
+tests/app/
+.gitignore
+LICENSE
+README.md
+composer.json

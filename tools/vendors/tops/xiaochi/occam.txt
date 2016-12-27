@@ -1,0 +1,10 @@
+src/
+.gitattributes
+.gitignore
+README.md
+Service.php
+action.example.php
+composer.json
+index.example.php
+layout.example.html
+tool.php

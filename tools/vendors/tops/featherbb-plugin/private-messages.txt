@@ -1,0 +1,7 @@
+src/
+vendor/
+.gitignore
+README.md
+bootstrap.php
+composer.json
+featherbb.json

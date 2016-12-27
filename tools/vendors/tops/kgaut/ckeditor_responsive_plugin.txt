@@ -1,0 +1,9 @@
+docs/
+responsivness/
+CHANGELOG.txt
+LICENCE.txt
+README.txt
+ckeditor_responsive_plugin.info
+ckeditor_responsive_plugin.install
+ckeditor_responsive_plugin.module
+composer.json

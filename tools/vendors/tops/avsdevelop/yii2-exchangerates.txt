@@ -1,0 +1,8 @@
+controllers/
+views/exchange/
+widgets/
+.gitignore
+Autoload.php
+Module.php
+README.md
+composer.json

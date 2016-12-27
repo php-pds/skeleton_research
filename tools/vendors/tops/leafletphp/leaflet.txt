@@ -1,0 +1,7 @@
+doc/
+src/Leaflet/
+tests/
+Autoloader.php
+composer.json
+phpunit.xml
+readme.md

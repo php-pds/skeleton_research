@@ -1,0 +1,10 @@
+config/
+data/
+src/o0psUser/
+test/
+view/o0ps-user/
+LICENSE
+Module.php
+README.md
+composer.json
+composer.lock

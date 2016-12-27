@@ -1,0 +1,8 @@
+config/
+event/
+language/en/
+migrations/v10x/
+styles/prosilver/template/event/
+README.md
+composer.json
+ext.php

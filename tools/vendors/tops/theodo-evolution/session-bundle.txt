@@ -1,0 +1,13 @@
+Attribute/
+DependencyInjection/
+Listener/
+Manager/
+Resources/
+Storage/
+Tests/
+.gitignore
+.travis.yml
+README.md
+TheodoEvolutionSessionBundle.php
+composer.json
+phpunit.xml.dist

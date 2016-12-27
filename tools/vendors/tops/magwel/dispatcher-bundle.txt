@@ -1,0 +1,8 @@
+Builder/
+DependencyInjection/
+Resources/
+Twig/Extension/
+LICENSE
+MagwelDispatcherBundle.php
+README.md
+composer.json

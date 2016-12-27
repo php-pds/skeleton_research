@@ -1,0 +1,6 @@
+config/
+data/generator/sfExtraDoctrinePager/default/template/
+lib/
+LICENSE
+README.md
+composer.json

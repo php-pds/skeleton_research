@@ -1,0 +1,7 @@
+bin/
+src/EtherpadLite/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock

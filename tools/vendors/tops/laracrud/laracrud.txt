@@ -1,0 +1,13 @@
+config/
+lang/en/
+public/vendor/laracrud/
+resources/assets/sass/
+src/
+views/
+.gitignore
+LICENSE
+README.md
+bower.json
+composer.json
+gulpfile.js
+package.json

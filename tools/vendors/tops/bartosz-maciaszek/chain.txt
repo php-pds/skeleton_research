@@ -1,0 +1,14 @@
+examples/
+src/
+tests/
+.gitignore
+.travis.yml
+Makefile
+README.md
+composer.json
+composer.lock
+phpmd.xml
+phpspec.report.yml
+phpspec.yml
+phpunit.xml
+ruleset.xml

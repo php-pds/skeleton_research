@@ -1,0 +1,9 @@
+dist/
+example/
+src/
+.gitignore
+LICENSE
+README.md
+bower.json
+composer.json
+gulpfile.js

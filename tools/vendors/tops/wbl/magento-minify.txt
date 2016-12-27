@@ -1,0 +1,7 @@
+app/
+js/less/
+lib/
+.gitmodules
+README.md
+composer.json
+modman

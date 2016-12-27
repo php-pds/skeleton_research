@@ -1,0 +1,4 @@
+FixtureHelperCommand.php
+FixtureHelperDbFixtureManager.php
+README.markdown
+composer.json

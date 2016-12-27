@@ -1,0 +1,5 @@
+lib/Peek/
+tests/
+.gitignore
+README.md
+composer.json

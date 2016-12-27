@@ -1,0 +1,12 @@
+src/
+tests/
+.gitattributes
+.gitignore
+.travis.yml
+CHANGELOG
+LICENSE.md
+README.md
+TODO.md
+composer.json
+phactor_logo.png
+phpunit.xml.dist

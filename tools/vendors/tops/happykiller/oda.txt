@@ -1,0 +1,8 @@
+db/
+deploy/
+dist/
+resources/
+tests/
+.gitignore
+README.md
+composer.json

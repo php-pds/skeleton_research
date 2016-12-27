@@ -1,0 +1,6 @@
+tests/
+.gitignore
+README.md
+Validate.php
+ValidateRule.php
+composer.json

@@ -1,0 +1,9 @@
+.idea/
+BezierCurve.php
+CalaisTagExtractor.php
+DetectUnicodeRanges.php
+HtmlParser.php
+README.md
+SmoothCurve.php
+UniqueTestTxt.php
+composer.json

@@ -1,0 +1,5 @@
+.idea/
+src/PhpImap/
+LICENSE
+README.md
+composer.json

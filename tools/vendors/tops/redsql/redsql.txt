@@ -1,0 +1,12 @@
+dist/
+src/
+test/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+bootstrap-phar.php
+bootstrap.php
+box.json
+composer.json
+phpunit.xml.dist

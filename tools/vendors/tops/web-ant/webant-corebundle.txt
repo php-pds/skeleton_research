@@ -1,0 +1,14 @@
+Command/
+Controller/
+Entity/
+EventListener/
+Generator/
+Resources/
+Tests/
+Util/
+.DS_Store
+.gitignore
+CoreBundle.php
+README.md
+build.xml
+composer.json

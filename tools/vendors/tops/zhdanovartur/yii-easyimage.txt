@@ -1,0 +1,6 @@
+assets/
+drivers/
+.gitignore
+EasyImage.php
+README.md
+composer.json

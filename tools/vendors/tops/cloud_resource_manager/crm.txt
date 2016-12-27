@@ -1,0 +1,10 @@
+assets/
+config/
+controllers/
+views/
+Module.php
+README.md
+UpfileAsset.php
+composer.json
+composer.json~
+showUpfile.php

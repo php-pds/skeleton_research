@@ -1,0 +1,7 @@
+laravel/
+CHANGELOG.md
+CONTRIBUTING.md
+LICENSE.md
+README.md
+composer.json
+post-install-instructions.txt

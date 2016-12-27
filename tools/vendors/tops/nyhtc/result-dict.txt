@@ -1,0 +1,5 @@
+spec/FMResult/
+src/FMResult/
+.gitignore
+composer.json
+composer.lock

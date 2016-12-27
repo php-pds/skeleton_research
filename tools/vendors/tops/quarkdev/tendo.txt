@@ -1,0 +1,8 @@
+lib/
+.editorconfig
+.gitignore
+Readme.md
+composer.json
+exemple.php
+exempleCLI.php
+tendo

@@ -1,0 +1,16 @@
+docs/
+LICENSE
+README.md
+bugsnag.php
+cachetool.php
+cloudflare.php
+composer.json
+hipchat.php
+local.php
+newrelic.php
+npm.php
+phinx.php
+rabbit.php
+rollbar.php
+rsync.php
+slack.php

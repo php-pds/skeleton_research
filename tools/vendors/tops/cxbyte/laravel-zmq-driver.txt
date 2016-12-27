@@ -1,0 +1,7 @@
+config/
+spec/
+src/
+.gitignore
+README.md
+composer.json
+phpspec.yml

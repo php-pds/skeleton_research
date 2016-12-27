@@ -1,0 +1,11 @@
+DependencyInjection/
+Doctrine/Metadata/
+HttpKernel/
+Resources/config/
+Router/Loader/
+Silex/
+Twig/Form/Engine/Resources/
+.gitignore
+KaguxSilexIntegrationBundle.php
+README.md
+composer.json

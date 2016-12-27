@@ -1,0 +1,9 @@
+config/
+doc/
+src/
+tests/
+.gitattributes
+.gitignore
+README.md
+composer.json
+index.html

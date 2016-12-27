@@ -1,0 +1,7 @@
+.gitignore
+LICENSE
+MonologComponent.php
+MonologErrorHandler.php
+MonologLogRoute.php
+README.md
+composer.json

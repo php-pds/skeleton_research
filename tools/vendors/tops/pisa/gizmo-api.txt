@@ -1,0 +1,11 @@
+spec/
+src/
+.gitignore
+CONTRIBUTING.md
+Gulpfile.js
+LICENSE.md
+README.md
+composer.json
+composer.lock
+package.json
+phpspec.yml

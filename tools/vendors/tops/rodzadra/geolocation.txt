@@ -1,0 +1,4 @@
+plugins/
+Geolocation.php
+README.md
+composer.json

@@ -1,0 +1,4 @@
+.gitignore
+LICENSE
+bootstrap.php
+composer.json

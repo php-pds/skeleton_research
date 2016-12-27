@@ -1,0 +1,9 @@
+Docs/
+Library/
+Tests/
+Tutorial/
+AUTHORS
+GPL-LICENSE
+MIT-LICENSE
+README.md
+composer.json

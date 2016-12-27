@@ -1,0 +1,13 @@
+asset/
+class/
+compatibility/
+languages/
+template/
+.editorconfig
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+test.sh
+wp-sync-db.php

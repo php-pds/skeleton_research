@@ -1,0 +1,16 @@
+src/
+tests/
+.editorconfig
+.env
+.gitattributes
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CHANGELOG.md
+CONDUCT.md
+CONTRIBUTING.md
+LICENSE.md
+README.md
+composer.json
+host=localhost:33060;dbname=potato
+phpunit.xml.dist

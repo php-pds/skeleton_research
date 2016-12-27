@@ -1,0 +1,10 @@
+src/Recorder/
+test/
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+Usage_with_Anax-MVC.md
+autoloader.php
+composer.json
+phpunit.xml

@@ -1,0 +1,4 @@
+src/Aws/
+LICENSE.md
+NOTICE.md
+composer.json

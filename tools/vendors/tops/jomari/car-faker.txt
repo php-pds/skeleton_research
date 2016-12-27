@@ -1,0 +1,7 @@
+src/CarFaker/
+test/AutodealFaker/Provider/
+.gitignore
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

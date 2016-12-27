@@ -1,0 +1,12 @@
+Asset/
+DependencyInjection/
+Form/Type/
+Resources/
+Tests/
+Twig/
+.gitignore
+.travis.yml
+README.md
+SolutionCodeMirrorBundle.php
+composer.json
+phpunit.xml.dist

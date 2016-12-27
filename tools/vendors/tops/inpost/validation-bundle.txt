@@ -1,0 +1,9 @@
+DependencyInjection/
+Resources/doc/
+Tests/
+Validator/Constraints/
+.gitignore
+InPostValidationBundle.php
+README.markdown
+composer.json
+phpunit.xml.dist

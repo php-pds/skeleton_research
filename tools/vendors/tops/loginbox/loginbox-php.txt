@@ -1,0 +1,9 @@
+assets/
+lang/en_US/
+src/Loginbox/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock

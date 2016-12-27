@@ -1,0 +1,10 @@
+src/Buttercup/Protects/
+tests/Buttercup/Protects/Tests/
+.gitignore
+.travis.yml
+LICENSE
+README.markdown
+buildDocs.sh
+composer.json
+composer.lock
+test.php

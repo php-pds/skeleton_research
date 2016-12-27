@@ -1,0 +1,5 @@
+plugins/datatables/
+widgets/
+LICENSE
+composer.json
+composer.lock

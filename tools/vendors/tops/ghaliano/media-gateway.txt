@@ -1,0 +1,6 @@
+Demo/
+MediaGateway/src/MediaGateway/
+.gitignore
+README.md
+composer.json
+composer.lock

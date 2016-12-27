@@ -1,0 +1,5 @@
+.gitignore
+.travis.yml
+Config.php
+README.md
+composer.json

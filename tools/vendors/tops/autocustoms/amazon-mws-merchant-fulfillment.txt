@@ -1,0 +1,6 @@
+src/MWSMerchantFulfillmentService/
+.gitignore
+LICENSE.txt
+NOTICE.txt
+README.md
+composer.json

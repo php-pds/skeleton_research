@@ -1,0 +1,4 @@
+src/Jig/
+LICENSE
+README.md
+composer.json

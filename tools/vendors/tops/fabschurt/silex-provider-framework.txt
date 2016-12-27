@@ -1,0 +1,11 @@
+src/
+tests/
+.editorconfig
+.gitattributes
+.gitignore
+.php_cs
+LICENSE
+README.md
+RoboFile.php
+composer.json
+phpunit.xml

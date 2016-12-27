@@ -1,0 +1,13 @@
+Authenticator/
+DependencyInjection/
+Factory/
+Log/
+Resources/config/
+Tests/
+.gitignore
+ApiAuthenticator.php
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

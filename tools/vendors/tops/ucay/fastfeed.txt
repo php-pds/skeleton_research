@@ -1,0 +1,12 @@
+doc/
+src/
+tests/
+.formatter.yml
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+build.xml.dist
+composer.json
+phpunit.xml.dist

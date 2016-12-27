@@ -1,0 +1,11 @@
+DependencyInjection/
+Entity/
+Manager/
+Repository/
+Resources/config/
+Tests/Controller/
+.gitignore
+LICENSE
+OidnusWalletBundle.php
+README.md
+composer.json

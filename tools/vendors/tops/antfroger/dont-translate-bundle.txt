@@ -1,0 +1,15 @@
+ActivationMode/
+DependencyInjection/
+EventListener/
+Resources/
+Tests/Translation/
+Translation/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+AfDontTranslateBundle.php
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

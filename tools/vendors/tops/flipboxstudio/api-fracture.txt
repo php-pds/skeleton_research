@@ -1,0 +1,8 @@
+src/Flipbox/Fracture/
+tests/
+.gitignore
+LICENSE.txt
+README.md
+composer.json
+composer.lock
+phpunit.xml

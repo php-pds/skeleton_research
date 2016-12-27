@@ -1,0 +1,5 @@
+PhantomJS/
+test/
+LICENSE
+README.md
+composer.json

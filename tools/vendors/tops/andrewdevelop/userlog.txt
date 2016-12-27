@@ -1,0 +1,7 @@
+src/
+.editorconfig
+.styleci.yml
+.travis.yml
+LICENSE.md
+README.md
+composer.json

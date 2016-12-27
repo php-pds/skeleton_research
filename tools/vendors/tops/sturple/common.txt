@@ -1,0 +1,11 @@
+Doctrine/
+FormUrlEncoded/
+Json/
+Shopify/
+Swift/
+Tests/
+ValueWrapper/
+Yaml/
+.gitignore
+composer.json
+phpunit.xml

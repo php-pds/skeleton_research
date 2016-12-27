@@ -1,0 +1,4 @@
+src/Unknown/Bundle/SpellingBundle/
+.gitignore
+composer.json
+readme.md

@@ -1,0 +1,17 @@
+commands/
+config/
+home-dist/
+lib/
+phar/
+projects_tmp/
+runtime/
+tests/
+vendor/
+.gitignore
+LICENSE
+README.md
+codeception.yml
+composer.json
+deployii
+deployii.bat
+requirements.php

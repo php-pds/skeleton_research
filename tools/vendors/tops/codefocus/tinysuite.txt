@@ -1,0 +1,8 @@
+src/Codefocus/TinySuite/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json
+packages.json
+phpunit.xml

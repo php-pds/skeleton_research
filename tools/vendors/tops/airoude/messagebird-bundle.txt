@@ -1,0 +1,15 @@
+Command/
+Controller/
+DependencyInjection/
+Event/
+Resources/config/
+Tests/
+.gitignore
+.php_cs
+.scrutinizer.yml
+.travis.yml
+AiroudeMessagebirdBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

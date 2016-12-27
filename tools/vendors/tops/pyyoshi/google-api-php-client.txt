@@ -1,0 +1,17 @@
+.idea/
+examples.old/
+src.old/Google/
+src/Google/
+style.old/
+tests.old/
+tests/
+.gitignore
+.travis.yml
+CONTRIBUTING.md
+Dockerfile
+LICENSE
+README.md
+check_psr.sh
+composer.json
+phpunit.xml.dist
+run_test.sh

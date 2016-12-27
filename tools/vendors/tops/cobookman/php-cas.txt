@@ -1,0 +1,5 @@
+src/cobookman/
+.gitignore
+README.md
+composer.json
+example.php

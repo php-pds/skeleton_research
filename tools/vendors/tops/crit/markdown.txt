@@ -1,0 +1,6 @@
+src/Markdown/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json

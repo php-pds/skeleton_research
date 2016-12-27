@@ -1,0 +1,7 @@
+css/
+js/
+CropImage.php
+CropImageAsset.php
+LICENSE
+README.md
+composer.json

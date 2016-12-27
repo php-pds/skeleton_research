@@ -1,0 +1,13 @@
+Classes/Zazzam/Sapa/
+Configuration/
+Documentation/
+Resources/
+Services/ImapSynchService/systemd/
+Tests/Unit/Domain/Model/
+.bowerrc
+.gitignore
+Gruntfile.coffee
+LICENSE
+bower.json
+composer.json
+package.json

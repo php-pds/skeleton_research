@@ -1,0 +1,6 @@
+Command/
+DependencyInjection/
+.gitignore
+README.md
+composer.json
+riki34SymfonyAngularEntitiesBundle.php

@@ -1,0 +1,9 @@
+examples/
+src/
+.DS_Store
+.gitattributes
+.gitignore
+CONTRIBUTING.md
+composer.json
+composer.lock
+readme.md

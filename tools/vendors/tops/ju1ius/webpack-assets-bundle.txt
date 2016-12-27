@@ -1,0 +1,12 @@
+DependencyInjection/
+Helper/
+Resources/
+Templating/Helper/
+Tests/DependencyInjection/
+Twig/
+.gitignore
+Ju1iusWebpackAssetsBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,8 @@
+Tests/Pamiris/JavascriptConstants/
+src/Pamiris/JavascriptConstants/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml

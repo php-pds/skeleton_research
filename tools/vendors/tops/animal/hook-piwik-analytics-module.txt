@@ -1,0 +1,10 @@
+AdminIncludes/
+Config/
+Controller/
+EventListeners/
+Form/
+Hook/
+HookPiwikAnalytics.php
+LICENSE
+README.md
+composer.json

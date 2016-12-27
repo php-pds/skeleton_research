@@ -1,0 +1,6 @@
+BOS/UserBundle/
+vendor/
+LICENSE
+README.md
+composer.json
+composer.lock

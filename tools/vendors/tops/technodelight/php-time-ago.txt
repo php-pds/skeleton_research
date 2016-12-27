@@ -1,0 +1,9 @@
+spec/Technodelight/
+src/
+.editorconfig
+.gitignore
+LICENSE
+LICENSE.orig
+README.md
+composer.json
+composer.lock

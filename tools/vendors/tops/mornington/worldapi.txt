@@ -1,0 +1,12 @@
+Src/Mornington/WorldAPI/
+Test/
+.gitignore
+.travis.yml
+LICENSE.txt
+README.md
+TESTING.md
+bootstrap.php
+composer.json
+composer.lock
+demo.php
+phpunit.xml

@@ -1,0 +1,6 @@
+DependencyInjection/
+Resources/config/
+Util/
+README.md
+WokLfsrBundle.php
+composer.json

@@ -1,0 +1,11 @@
+demo/
+yamm/
+.bowerrc
+.gitignore
+LICENSE.txt
+README.md
+bower.json
+composer.json
+gulpfile.js
+index.html
+package.json

@@ -1,0 +1,12 @@
+Controller/
+DependencyInjection/
+Document/
+Form/Type/
+Manager/
+Menu/
+Repository/
+Resources/
+Tests/Controller/
+README.md
+TeckHouseAnalyticsBundle.php
+composer.json

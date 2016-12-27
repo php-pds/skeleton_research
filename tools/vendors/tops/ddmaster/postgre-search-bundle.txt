@@ -1,0 +1,5 @@
+DQL/
+Dbal/
+PostgreSearchBundle.php
+README.md
+composer.json

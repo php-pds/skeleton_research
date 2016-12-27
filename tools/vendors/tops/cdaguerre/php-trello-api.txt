@@ -1,0 +1,10 @@
+docs/
+lib/Trello/
+test/Trello/Tests/Unit/
+.gitattributes
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

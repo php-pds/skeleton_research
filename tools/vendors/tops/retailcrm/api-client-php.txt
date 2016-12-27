@@ -1,0 +1,11 @@
+lib/RetailCrm/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+README.ru.md
+apigen.neon
+composer.json
+phpunit.xml.dist
+phpunit.xsd

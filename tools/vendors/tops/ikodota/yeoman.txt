@@ -1,0 +1,8 @@
+config/
+databases/migrations/
+src/
+translations/zh/
+.gitignore
+LICENSE
+composer.json
+readme.md

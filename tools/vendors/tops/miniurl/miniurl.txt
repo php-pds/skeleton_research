@@ -1,0 +1,13 @@
+nbproject/
+src/Redirect/Tools/
+tests/src/Redirect/Tools/
+.gitignore
+.htaccess
+README.md
+autoloader.php
+chart.php
+composer.json
+composer.lock
+favicon.ico
+index.html
+index.php

@@ -1,0 +1,7 @@
+_config/
+code/
+.gitignore
+LICENSE
+README.md
+composer.json
+config.php

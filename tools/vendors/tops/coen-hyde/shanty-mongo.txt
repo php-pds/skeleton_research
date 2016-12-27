@@ -1,0 +1,10 @@
+library/Shanty/
+tests/
+.gitignore
+.travis.yml
+Changelog
+LICENSE
+README.markdown
+TODO
+composer.json
+phpunit.xml.dist

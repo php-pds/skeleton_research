@@ -1,0 +1,14 @@
+benchmarks/
+examples/
+src/SortedCollection/
+tests/
+utility/
+.gitignore
+.travis.yml
+README.md
+TODO
+build.xml
+cite.bib
+composer.json
+phpdoc.dist.xml
+phpunit.xml.dist

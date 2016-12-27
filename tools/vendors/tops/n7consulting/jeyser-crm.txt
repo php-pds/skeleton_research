@@ -1,0 +1,13 @@
+ansible/
+app/
+src/
+uploads/
+web/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+Vagrantfile
+composer.json
+composer.lock
+copyright.sh

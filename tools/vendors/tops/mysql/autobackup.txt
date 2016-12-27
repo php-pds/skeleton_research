@@ -1,0 +1,5 @@
+README.md
+VERSION
+automysqlbackup
+automysqlbackup.conf
+composer.json

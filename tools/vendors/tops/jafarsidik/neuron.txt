@@ -1,0 +1,8 @@
+Db/
+Generic/
+Mvc/
+Utility/
+Module.config.php
+Module.layout.phtml
+Module.php
+composer.json

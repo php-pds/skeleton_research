@@ -1,0 +1,8 @@
+bin/
+src/PHPDocMD/
+templates/
+.gitignore
+ChangeLog
+LICENSE
+README.md
+composer.json

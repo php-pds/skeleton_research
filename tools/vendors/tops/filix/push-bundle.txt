@@ -1,0 +1,16 @@
+Adapter/
+Client/
+Common/
+Controller/
+DependencyInjection/
+Exception/
+Model/
+Platform/
+Resources/
+Tag/
+Tests/Controller/
+User/
+Util/
+.gitignore
+README.md
+composer.json

@@ -1,0 +1,11 @@
+example/webroot/
+src/
+tests/
+.gitignore
+.hhconfig
+.travis.yml
+LICENSE
+Makefile
+README.md
+composer.json
+phpunit.xml

@@ -1,0 +1,11 @@
+Block/
+Configurator/
+Controller/
+DependencyInjection/
+Event/
+Resources/
+.gitignore
+LICENSE
+README.md
+SensiYamlGuiBundle.php
+composer.json

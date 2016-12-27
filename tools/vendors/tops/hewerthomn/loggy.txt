@@ -1,0 +1,8 @@
+config/
+migrations/
+src/
+.gitignore
+LICENSE
+README.md
+composer.json
+routes.php

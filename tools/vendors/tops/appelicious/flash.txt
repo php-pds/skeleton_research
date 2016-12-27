@@ -1,0 +1,11 @@
+app/
+src/Flash/
+test/
+theme/anax-base/
+webroot/
+.scrutinizer.yml
+.travis.yml
+LICENSE.txt
+README.md
+composer.json
+phpunit.xml.dist

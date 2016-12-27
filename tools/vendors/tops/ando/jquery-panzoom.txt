@@ -1,0 +1,16 @@
+demo/
+dist/
+src/
+test/
+.bowerrc
+.gitignore
+.jshintrc
+.travis.yml
+CONTRIBUTING.md
+Gruntfile.js
+MIT-License.txt
+README.md
+bower.json
+composer.json
+package.json
+panzoom.jquery.json

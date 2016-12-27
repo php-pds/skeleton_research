@@ -1,0 +1,7 @@
+src/Com/Ahungry/Powerset/
+.gitignore
+LICENSE.md
+README.md
+blub.php
+composer.json
+phpunit.xml

@@ -1,0 +1,8 @@
+assets/
+core/
+errors/
+generator/
+security/authentication/
+.gitignore
+README.md
+composer.json

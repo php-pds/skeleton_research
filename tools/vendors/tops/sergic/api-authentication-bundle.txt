@@ -1,0 +1,9 @@
+DependencyInjection/
+Exception/
+Model/
+Resources/config/
+Security/
+INBApiAuthenticationBundle.php
+LICENSE
+README.md
+composer.json

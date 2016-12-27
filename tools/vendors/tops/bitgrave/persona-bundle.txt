@@ -1,0 +1,12 @@
+DependencyInjection/
+Persona/
+Resources/
+Security/
+Services/
+Templating/Helper/
+Twig/Extension/
+.travis.yml
+BGPersonaBundle.php
+CHANGELOG
+README.md
+composer.json

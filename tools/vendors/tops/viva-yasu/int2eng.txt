@@ -1,0 +1,5 @@
+src/VivaYasu/Int2Eng/
+tests/
+.gitignore
+README.md
+composer.json

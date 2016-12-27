@@ -1,0 +1,5 @@
+examples/
+src/VanPattenMedia/QuickAssets/
+.editorconfig
+README.md
+composer.json

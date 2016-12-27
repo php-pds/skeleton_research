@@ -1,0 +1,5 @@
+examples/
+facturama/
+LICENSE
+README.md
+composer.json

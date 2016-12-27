@@ -1,0 +1,11 @@
+res/
+src/Fixer/
+tests/
+.gitignore
+.php_cs
+LICENSE.md
+Makefile
+README.md
+composer.json
+phpunit.xml
+ruleset.xml

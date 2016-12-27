@@ -1,0 +1,5 @@
+tests/
+README.md
+composer.json
+examples.php
+parser.php

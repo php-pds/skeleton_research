@@ -1,0 +1,5 @@
+src/Flynsarmy/CsvSeeder/
+tests/
+.gitignore
+composer.json
+readme.md

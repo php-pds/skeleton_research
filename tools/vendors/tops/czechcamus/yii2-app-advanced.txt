@@ -1,0 +1,17 @@
+private/
+web/
+.bowerrc
+.gitattributes
+.gitignore
+.travis.yml
+LICENSE.md
+README.md
+Vagrantfile
+codeception.yml
+composer.json
+init
+init.bat
+requirements.php
+yii.bat
+yii_test
+yii_test.bat

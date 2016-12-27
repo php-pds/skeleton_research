@@ -1,0 +1,10 @@
+src/Zipkin/
+tests/Zipkin/
+thrift/
+.editorconfig
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

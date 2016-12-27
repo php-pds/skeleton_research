@@ -1,0 +1,17 @@
+src/ReservedNamesBundle/
+tests/
+.gitattributes
+.gitignore
+.travis.php.ini
+.travis.yml
+LICENSE
+Makefile
+README.md
+build-pre-commit.xml
+build.xml
+composer.json
+phpcs.xml
+phpmd-pre-commit.xml
+phpmd.xml
+phpunit.xml.dist
+qa-tools.json

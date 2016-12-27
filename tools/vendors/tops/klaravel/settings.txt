@@ -1,0 +1,12 @@
+src/
+tests/
+.gitignore
+.php_cs
+.travis.yml
+CHANGELOG.md
+LICENSE.txt
+composer.json
+composer.lock
+grumphp.yml
+phpunit.xml
+readme.md

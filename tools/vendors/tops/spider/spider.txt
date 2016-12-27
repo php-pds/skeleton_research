@@ -1,0 +1,15 @@
+CI/
+docs/
+src/
+tests/
+.gitattributes
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CHANGELOG.md
+CONTRIBUTING.md
+LICENSE.md
+README.md
+composer.json
+mkdocs.yml
+phpunit.xml.dist

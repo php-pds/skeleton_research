@@ -1,0 +1,13 @@
+Command/
+Core/
+DependencyInjection/
+Extensions/
+Model/
+Resources/config/
+Tests/
+.gitignore
+.travis.yml
+README.md
+SoyukaSeedBundle.php
+composer.json
+phpunit.xml.dist

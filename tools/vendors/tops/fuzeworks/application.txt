@@ -1,0 +1,15 @@
+application/
+log/
+temp/
+tests/
+www/
+.codeclimate.yml
+.gitattributes
+.gitignore
+.gitlab-ci.yml
+.travis.yml
+CONTRIBUTING.md
+DCO
+LICENSE
+README.md
+composer.json

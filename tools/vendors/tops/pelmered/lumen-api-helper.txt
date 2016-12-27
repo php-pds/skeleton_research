@@ -1,0 +1,8 @@
+config/
+migrations/
+src/
+LICENSE
+README.md
+composer.json
+phpcs.xml
+phpmd.xml

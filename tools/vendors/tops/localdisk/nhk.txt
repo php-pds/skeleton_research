@@ -1,0 +1,6 @@
+src/NHK/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json

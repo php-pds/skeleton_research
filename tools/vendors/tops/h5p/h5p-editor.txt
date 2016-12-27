@@ -1,0 +1,12 @@
+ckeditor/
+images/
+language/
+libs/
+scripts/
+styles/
+.gitignore
+README.md
+composer.json
+h5peditor-file.class.php
+h5peditor-storage.interface.php
+h5peditor.class.php

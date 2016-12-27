@@ -1,0 +1,14 @@
+mmsoap/
+.gitattributes
+.gitignore
+LICENSE
+README.md
+composer.json
+credentials.php
+examples_account_details.php
+examples_blocked_numbers.php
+examples_messages.php
+examples_replies.php
+examples_reports.php
+examples_test_mode.php
+getStdin.php

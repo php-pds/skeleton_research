@@ -1,0 +1,12 @@
+library/Drakojn/Io/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+VERSION
+bootstrap.php
+build.phing.xml
+build.xml
+composer.json
+phpunit.xml.dist

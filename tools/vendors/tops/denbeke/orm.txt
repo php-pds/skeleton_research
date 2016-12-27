@@ -1,0 +1,8 @@
+core/
+.gitignore
+.travis.yml
+Doxyfile
+LICENSE
+README.md
+composer.json
+phpunit.xml

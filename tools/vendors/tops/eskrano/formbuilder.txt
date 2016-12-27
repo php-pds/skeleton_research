@@ -1,0 +1,6 @@
+src/
+.gitattributes
+.gitignore
+Readme.md
+composer.json
+index.php

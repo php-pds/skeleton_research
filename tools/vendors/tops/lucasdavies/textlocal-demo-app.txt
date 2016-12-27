@@ -1,0 +1,10 @@
+db/migrations/
+public/
+views/
+.env.example
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock
+phinx.yml

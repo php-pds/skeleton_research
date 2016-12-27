@@ -1,0 +1,5 @@
+DependencyInjection/
+Resources/public/nivo-slider/
+README.md
+SfkNivoSliderBundle.php
+composer.json

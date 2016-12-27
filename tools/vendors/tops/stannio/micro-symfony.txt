@@ -1,0 +1,10 @@
+app/
+bin/
+src/AppBundle/
+web/
+.bowerrc
+.env.dist
+.gitignore
+LICENSE
+README.md
+composer.json

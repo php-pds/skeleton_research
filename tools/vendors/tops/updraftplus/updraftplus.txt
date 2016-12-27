@@ -1,0 +1,16 @@
+images/
+includes/
+languages/
+methods/
+oc/
+admin.php
+backup.php
+class-updraftplus.php
+class-zip.php
+composer.json
+example-decrypt.php
+index.html
+options.php
+readme.txt
+restorer.php
+updraftplus.php

@@ -1,0 +1,10 @@
+TestIt/
+doc/
+examples/
+tests/
+.gitignore
+.travis.yml
+build.xml
+composer.json
+phpmd.xml
+readme.md

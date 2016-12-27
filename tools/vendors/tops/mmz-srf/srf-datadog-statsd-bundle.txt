@@ -1,0 +1,6 @@
+Consumer/
+DependencyInjection/
+Resources/
+Readme.md
+SRFDatadogStatsDBundle.php
+composer.json

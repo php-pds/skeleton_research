@@ -1,0 +1,15 @@
+Controller/Component/
+View/
+webroot/
+.bowerrc
+.editorconfig
+.gitattributes
+.gitignore
+CHANGELOG.md
+CONDUCT.md
+CONTRIBUTING.md
+LICENSE.md
+README.md
+bower.json
+composer.json
+phpunit.xml.dist

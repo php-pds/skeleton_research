@@ -1,0 +1,7 @@
+DependencyInjection/
+Resources/config/
+.gitignore
+README.md
+T1l3SlackNotifierBundle.php
+composer.json
+composer.lock

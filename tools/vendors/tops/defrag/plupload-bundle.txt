@@ -1,0 +1,8 @@
+Controller/
+DependencyInjection/
+Form/Type/
+Model/
+Resources/
+DefragPluploadBundle.php
+README.md
+composer.json

@@ -1,0 +1,11 @@
+Tests/
+src/RGeyer/Guzzle/Rs/
+.gitignore
+.travis.yml
+GuzzleServiceDesc2to3.php
+LICENSE
+NOTICE
+README.markdown
+composer.json
+composer.lock
+phpunit.xml

@@ -1,0 +1,8 @@
+Controller/
+DependencyInjection/
+Resources/
+Validator/Constraints/
+Configuration.php
+ElaoMceMediaBundle.php
+README.md
+composer.json

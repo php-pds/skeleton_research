@@ -1,0 +1,2 @@
+src/Akhristenko/Bundle/DoctrineStacktraceBundle/
+composer.json

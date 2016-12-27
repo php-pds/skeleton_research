@@ -1,0 +1,7 @@
+src/Emailicious/
+tests/
+.gitignore
+.travis.yml
+README.rst
+composer.json
+phpunit.xml.dist

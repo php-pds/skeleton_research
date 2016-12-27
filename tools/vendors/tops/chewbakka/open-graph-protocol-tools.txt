@@ -1,0 +1,5 @@
+Media/
+Objects/
+OpenGraphProtocol.php
+README.md
+composer.json

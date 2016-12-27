@@ -1,0 +1,12 @@
+public/
+resource/
+src/
+tests/spec/
+.babelrc
+.gitignore
+LICENCE
+README.md
+composer.json
+composer.lock
+package.json
+phpspec.yml

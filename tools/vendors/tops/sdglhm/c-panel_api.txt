@@ -1,0 +1,6 @@
+.phpintel/
+src/eezpal/cPanel/
+.travis.yml
+README.md
+cPanel.php
+composer.json

@@ -1,0 +1,12 @@
+modules/
+src/
+test/
+.bowerrc
+.gitignore
+.htaccess
+LICENSE
+README.md
+bower.json
+composer.json
+index.php
+setup.php

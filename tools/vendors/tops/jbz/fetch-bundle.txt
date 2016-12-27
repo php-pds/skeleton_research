@@ -1,0 +1,9 @@
+Command/
+DependencyInjection/
+Fetch/
+Resources/config/
+Tests/
+.gitignore
+JBZFetchBundle.php
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,9 @@
+ci/
+src/MicrodataDOM/
+tests/src/MicrodataDOM/Tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

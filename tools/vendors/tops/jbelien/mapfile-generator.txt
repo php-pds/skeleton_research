@@ -1,0 +1,14 @@
+css/
+js/
+.gitignore
+LICENSE
+README.md
+composer.json
+fn.php
+index.php
+layer-class.php
+layer-style-label.php
+layer.php
+map.php
+mapfile.php
+sld.php

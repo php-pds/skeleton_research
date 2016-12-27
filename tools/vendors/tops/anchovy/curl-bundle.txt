@@ -1,0 +1,14 @@
+CURL/
+Controller/
+DependencyInjection/
+Exception/
+Resources/
+Tests/
+.gitignore
+.travis.yml
+AnchovyCURLBundle.php
+CHANGELOG.md
+README.md
+UPGRADE.md
+composer.json
+phpunit.xml.dist

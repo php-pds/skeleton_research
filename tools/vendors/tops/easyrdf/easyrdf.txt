@@ -1,0 +1,16 @@
+config/
+docs/
+examples/
+lib/
+scripts/
+test/
+.gitattributes
+.gitignore
+.travis.yml
+CHANGELOG.md
+DEVELOPER.md
+LICENSE.md
+Makefile
+README.md
+composer.json
+doap.php

@@ -1,0 +1,11 @@
+include/Curry/
+propel/
+shared/
+test/
+.gitignore
+.htaccess
+LICENSE.txt
+README.markdown
+composer.json
+phpdoc.xml
+phpunit.xml.dist

@@ -1,0 +1,7 @@
+alfmel/OCI8/
+tests/
+.gitignore
+LICENSE
+composer.json
+phpunit.xml
+readme.md

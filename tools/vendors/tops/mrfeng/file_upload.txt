@@ -1,0 +1,11 @@
+.idea/
+assets/
+statics/
+views/
+.gitignore
+FileUpload.php
+README.md
+UploadAction.php
+Uploader.php
+composer.json
+config.php

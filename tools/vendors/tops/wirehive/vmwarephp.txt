@@ -1,0 +1,8 @@
+library/Vmwarephp/
+tests/
+.gitignore
+Bootstrap.php
+License
+README.markdown
+composer.json
+phpunit.xml

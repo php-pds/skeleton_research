@@ -1,0 +1,4 @@
+libraries/browserid/
+LICENSE
+README.mdown
+composer.json

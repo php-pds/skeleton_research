@@ -1,0 +1,10 @@
+api-reference/
+cli/
+jQueryServer/
+phpQuery/
+test-cases/
+unit-tests/
+.gitignore
+README.md
+composer.json
+demo.php

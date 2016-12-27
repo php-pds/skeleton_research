@@ -1,0 +1,6 @@
+examples/
+src/Mailxpert/
+.gitignore
+LICENSE
+README.md
+composer.json

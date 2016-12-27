@@ -1,0 +1,16 @@
+docs/
+src/
+test/
+.coveralls.yml
+.gitattributes
+.gitignore
+.gitlab-ci.yml
+.travis.yml
+AUTHORS
+CHANGELOG.md
+CONTRIBUTING.md
+COPYING
+README.md
+composer.json
+composer.lock
+phpdoc.xml

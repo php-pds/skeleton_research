@@ -1,0 +1,6 @@
+Jungle/
+public/
+.gitignore
+LICENSE
+README.md
+composer.json

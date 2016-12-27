@@ -1,0 +1,7 @@
+docs/api/
+src/CloudMunch/
+.DS_Store
+.buildpath
+.project
+README.md
+composer.json

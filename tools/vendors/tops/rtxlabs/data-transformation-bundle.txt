@@ -1,0 +1,12 @@
+Binder/
+Dencoder/
+DependencyInjection/
+Resources/
+Tests/
+vendor/
+.gitignore
+.travis.yml
+README.md
+RtxLabsDataTransformationBundle.php
+composer.json
+phpunit.xml.dist

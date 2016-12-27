@@ -1,0 +1,10 @@
+doc/
+lib/Glip/
+.gitattributes
+.gitignore
+Doxyfile
+HACKING
+LICENSE
+README.md
+composer.json
+dist.sh

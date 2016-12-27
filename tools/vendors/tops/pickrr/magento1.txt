@@ -1,0 +1,6 @@
+Helper/
+Model/
+etc/
+Pickrr_Magento1.xml
+README.md
+composer.json

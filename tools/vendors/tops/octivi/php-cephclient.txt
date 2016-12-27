@@ -1,0 +1,6 @@
+docs/
+src/Octivi/CephClient/
+.gitignore
+LICENSE
+README.md
+composer.json

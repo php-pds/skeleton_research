@@ -1,0 +1,10 @@
+src/Shipping/ZoneChart/
+tests/Shipping/ZoneChart/
+tools/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

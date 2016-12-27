@@ -1,0 +1,10 @@
+build/
+src/Checker/
+test/
+.gitignore
+README.md
+check-tool
+checker.yml
+checker.yml.dist
+composer.json
+composer.lock

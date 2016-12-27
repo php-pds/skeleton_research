@@ -1,0 +1,12 @@
+Psrlint/
+bin/
+tests/
+.codeclimate
+.editorconfig
+.gitignore
+.travis.yml
+README.md
+composer.json
+composer.lock
+phpcs.xml
+phpunit.xml

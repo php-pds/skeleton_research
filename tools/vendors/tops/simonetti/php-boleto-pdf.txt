@@ -1,0 +1,8 @@
+examples/
+src/Simonetti/Boleto/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock
+composer.phar

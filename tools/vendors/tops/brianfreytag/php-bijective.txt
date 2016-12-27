@@ -1,0 +1,8 @@
+src/Bijective/
+tests/Bijective/Tests/
+.gitignore
+.travis.yml
+LICENCE
+README.md
+composer.json
+phpunit.xml.dist

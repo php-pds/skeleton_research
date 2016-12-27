@@ -1,0 +1,7 @@
+--sources/
+compiler/
+.bowerrc
+.gitignore
+README.md
+bower.json
+composer.json

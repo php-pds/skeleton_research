@@ -1,0 +1,6 @@
+src/Cmf/PhpPm/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock

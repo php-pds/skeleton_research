@@ -1,0 +1,12 @@
+DependencyInjection/
+Error/
+Purification/
+Resources/config/
+Tests/
+Validation/
+.travis.yml
+LICENSE
+README.md
+SharkztHelpersBundle.php
+composer.json
+phpunit.xml.dist

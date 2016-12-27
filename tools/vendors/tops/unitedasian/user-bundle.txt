@@ -1,0 +1,14 @@
+Command/
+Controller/
+DependencyInjection/
+EventListener/
+Exception/
+Form/Type/
+Model/
+Resources/
+Twig/Extension/
+.gitignore
+.gitlab-ci.yml
+README.md
+UAMUserBundle.php
+composer.json

@@ -1,0 +1,8 @@
+DependencyInjection/
+Resources/
+Type/
+.gitignore
+LICENSE
+README.md
+VxIpFieldTypeBundle.php
+composer.json

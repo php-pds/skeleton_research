@@ -1,0 +1,6 @@
+README.md
+class.usaepay.php
+composer.json
+example-quicksale.php
+example.php
+verify_install.php

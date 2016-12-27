@@ -1,0 +1,8 @@
+Api/
+DependencyInjection/
+Exception/
+Resources/
+CkrupaHubicApiBundle.php
+LICENSE
+README.md
+composer.json

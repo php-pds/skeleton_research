@@ -1,0 +1,12 @@
+DataFixtures/ORM/
+DependencyInjection/
+Entity/
+Resources/config/
+Tests/
+.gitignore
+.travis.yml
+LICENCE
+MlbDagBundle.php
+README.md
+composer.json
+phpunit.xml.dist

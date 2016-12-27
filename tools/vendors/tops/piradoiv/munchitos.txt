@@ -1,0 +1,8 @@
+src/PiradoIV/Munchitos/
+tests/PiradoIV/Munchitos/Test/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml

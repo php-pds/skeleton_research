@@ -1,0 +1,12 @@
+config/
+plugins/
+public/
+resources/
+storage/
+.env.example
+.gitignore
+composer.json
+gulpfile.js
+install.sh
+package.json
+readme.md

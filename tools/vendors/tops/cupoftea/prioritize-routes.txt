@@ -1,0 +1,8 @@
+config/
+docs/
+src/
+.gitignore
+.styleci.yml
+LICENSE
+README.md
+composer.json

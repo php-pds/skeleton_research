@@ -1,0 +1,11 @@
+example/
+src/Provider/
+test/src/Provider/
+.travis.yml
+CONTRIBUTING.md
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml
+scrutinizer.yml

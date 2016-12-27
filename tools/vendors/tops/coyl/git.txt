@@ -1,0 +1,6 @@
+src/Coyl/Git/
+test/
+.gitignore
+composer.json
+license.txt
+readme.md

@@ -1,0 +1,8 @@
+Config/
+Model/
+Test/Case/
+.semver
+.travis.yml
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,3 @@
+src/InlineEmail/
+README.md
+composer.json

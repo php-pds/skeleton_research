@@ -1,0 +1,15 @@
+features/
+spec/Foo/
+src/Foo/
+tests/
+web/
+.gitignore
+LICENSE
+README.md
+application.php
+behat.yml
+composer.json
+composer.lock
+console.php
+phpunit.xml.dist
+tdd.sh

@@ -1,0 +1,12 @@
+bits/
+stubs/
+tests/
+travis/
+.travis.yml
+README.md
+composer.json
+config.m4
+config.w32
+jitfu.c
+php_jitfu.h
+stubs.php

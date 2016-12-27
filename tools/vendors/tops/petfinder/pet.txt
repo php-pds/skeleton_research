@@ -1,0 +1,12 @@
+config/
+database/
+public/
+resources/
+src/Petfinder/Pet/
+tests/
+.gitignore
+.travis.yml
+composer.json
+license.md
+phpunit.xml
+readme.md

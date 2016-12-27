@@ -1,0 +1,9 @@
+app.jrxml/
+config/
+src/
+LICENSE
+README.md
+TJasper.class.php
+autoloader.php
+composer.json
+docker-compose.yml

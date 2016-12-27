@@ -1,0 +1,11 @@
+_config/
+bower_components/bootstrap-rating-input/
+code/
+css/
+img/
+templates/
+.editorconfig
+.scrutinizer.yml
+README.md
+bower.json
+composer.json

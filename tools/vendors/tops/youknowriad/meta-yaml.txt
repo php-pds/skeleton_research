@@ -1,0 +1,10 @@
+bin/
+data/
+src/RomaricDrigon/MetaYaml/
+test/
+.atoum.php
+.gitignore
+.travis.yml
+LICENSE.md
+README.md
+composer.json

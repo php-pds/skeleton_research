@@ -1,0 +1,9 @@
+public/
+src/
+vendor/
+.styleci.yml
+CHANGELOG.md
+LICENSE
+README.md
+composer.json
+composer.lock

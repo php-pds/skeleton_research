@@ -1,0 +1,13 @@
+classes/
+config/
+dca/
+elements/
+html/
+languages/
+models/
+modules/
+templates/
+.gitignore
+.htaccess
+composer.json
+cron.php

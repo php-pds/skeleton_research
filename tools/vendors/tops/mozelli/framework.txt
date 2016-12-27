@@ -1,0 +1,8 @@
+applets/
+application/
+system/
+.gitignore
+.htaccess
+README.txt
+composer.json
+index.php

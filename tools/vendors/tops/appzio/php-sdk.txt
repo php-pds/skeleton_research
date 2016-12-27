@@ -1,0 +1,8 @@
+js/
+src/
+tests/
+README.md
+composer.json
+phpunit.phar
+test_add_data.zip
+testupload.png

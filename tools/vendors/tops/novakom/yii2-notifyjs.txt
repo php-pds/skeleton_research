@@ -1,0 +1,6 @@
+assets/
+.gitattributes
+.gitignore
+NotifyjsAsset.php
+README.md
+composer.json

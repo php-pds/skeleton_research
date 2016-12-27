@@ -1,0 +1,17 @@
+.settings/
+bin/
+cgi-bin/
+etc/
+fcgi-bin/
+logs/
+src/
+tests/
+www/
+.buildpath
+.gitignore
+.project
+Makefile
+README.md
+composer.json
+phpunit.xml
+pom.xml

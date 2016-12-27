@@ -1,0 +1,9 @@
+CodeSniffer/Standards/Sherlock/
+src/Sherlock/
+tests/
+.gitignore
+Changelog.md
+LICENSE
+README.md
+Roadmap.md
+composer.json

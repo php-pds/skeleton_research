@@ -1,0 +1,8 @@
+.travis.yml
+LICENSE
+README.md
+cast-to-type.php
+class.cast-to-type-php4.php
+class.cast-to-type.php
+codesniffer.xml
+composer.json

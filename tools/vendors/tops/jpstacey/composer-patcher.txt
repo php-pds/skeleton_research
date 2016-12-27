@@ -1,0 +1,4 @@
+src/Composer/Patcher/
+.gitignore
+README.md
+composer.json

@@ -1,0 +1,12 @@
+docs/
+src/Yetti/API/
+tests/
+tools/
+.gitignore
+.travis.yml
+AUTHORS
+COPYING
+README.md
+composer.json
+phpdoc.xml
+phpunit.xml

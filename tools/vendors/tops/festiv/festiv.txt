@@ -1,0 +1,8 @@
+src/
+tests/
+.gitignore
+.phpstorm.meta.php
+README.md
+composer.json
+phpunit.php
+phpunit.xml

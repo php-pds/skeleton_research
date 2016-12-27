@@ -1,0 +1,11 @@
+consolecommands/
+controllers/
+models/
+services/
+tasks/
+templates/
+.gitignore
+InstaCraftPlugin.php
+LICENSE
+README.md
+composer.json

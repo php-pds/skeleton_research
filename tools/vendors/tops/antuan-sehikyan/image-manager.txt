@@ -1,0 +1,7 @@
+config/
+public/
+src/ImageManager/
+view/image-manager/index/
+Module.php
+README.md
+composer.json

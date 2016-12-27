@@ -1,0 +1,9 @@
+RealtimeLogger/
+tests/
+.gitignore
+composer.json
+composer.lock
+include.php
+phpunit.xml
+realtime-logger.sublime-project
+server.php

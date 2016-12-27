@@ -1,0 +1,7 @@
+src/Freshdesk/
+tests/
+.gitignore
+.travis.yml
+composer.json
+example.php
+phpunit.xml

@@ -1,0 +1,7 @@
+src/TreasureChest/
+tests/TreasureChest/
+.gitignore
+LICENSE
+composer.json
+phpunit.xml
+readme.md

@@ -1,0 +1,8 @@
+src/Contrebis/BlueJeans/
+.gitignore
+README.md
+composer.json
+composer.lock
+main.php
+phpunit.xml.dist
+time.php

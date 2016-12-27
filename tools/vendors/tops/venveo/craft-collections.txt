@@ -1,0 +1,10 @@
+resources/
+services/
+vendor/
+.gitignore
+CollectionsPlugin.php
+LICENSE
+README.md
+composer.json
+composer.lock
+releases.json

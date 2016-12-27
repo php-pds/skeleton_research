@@ -1,0 +1,5 @@
+docs/
+material/
+MANIFEST.in
+README.md
+mkdocs.yml

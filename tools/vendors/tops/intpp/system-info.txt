@@ -1,0 +1,8 @@
+os/
+.gitignore
+.travis.yml
+InformationInterface.php
+LICENSE
+README.md
+Server.php
+composer.json

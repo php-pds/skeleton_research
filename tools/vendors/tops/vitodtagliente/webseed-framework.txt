@@ -1,0 +1,5 @@
+src/WebSeed/
+.gitattributes
+.gitignore
+README.md
+composer.json

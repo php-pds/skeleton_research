@@ -1,0 +1,6 @@
+DependencyInjection/
+Paypal/
+Resources/config/
+PaypalPaymentBundle.php
+README.md
+composer.json

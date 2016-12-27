@@ -1,0 +1,10 @@
+src/Kylewm/Brevity/
+testcases @ acde5f8
+tests/
+.gitignore
+.gitmodules
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml

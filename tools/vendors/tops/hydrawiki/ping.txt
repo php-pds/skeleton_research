@@ -1,0 +1,6 @@
+JJG/
+.gitignore
+.travis.yml
+LICENSE.md
+README.md
+composer.json

@@ -1,0 +1,16 @@
+_config/
+assets/
+code/
+css/
+lang/
+scss/
+templates/
+tests/
+.codeclimate.yml
+.editorconfig
+.gitignore
+.travis.yml
+LICENSE
+README.md
+_config.php
+composer.json

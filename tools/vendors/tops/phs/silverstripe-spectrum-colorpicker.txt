@@ -1,0 +1,12 @@
+bower_components/spectrum/
+code/fields/
+javascript/
+.bowerrc
+.editorconfig
+.gitattributes
+.gitignore
+.scrutinizer.yml
+README.md
+_config.php
+bower.json
+composer.json

@@ -1,0 +1,17 @@
+DependencyInjection/
+Resources/
+Tests/
+Twig/
+.coveralls.yml
+.gitignore
+.php_cs
+.travis.yml
+Breadcrumbs.php
+BreadcrumbsBuilder.php
+BreadcrumbsBundle.php
+BreadcrumbsNode.php
+CHANGELOG.md
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

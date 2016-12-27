@@ -1,0 +1,7 @@
+DependencyInjection/
+Resources/config/
+Tests/
+.gitignore
+ChangesFetcherBundle.php
+composer.json
+phpunit.xml.dist

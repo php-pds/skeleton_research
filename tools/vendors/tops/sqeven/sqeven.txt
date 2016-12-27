@@ -1,0 +1,10 @@
+Application/
+Public/
+ThinkPHP/
+appapi/
+.gitignore
+.htaccess
+README.md
+admin.php
+composer.json
+index.php

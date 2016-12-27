@@ -1,0 +1,6 @@
+src/EdeMeijer/SerializeDebugger/
+test/EdeMeijer/SerializeDebugger/Test/
+.gitignore
+LICENSE
+README.md
+composer.json

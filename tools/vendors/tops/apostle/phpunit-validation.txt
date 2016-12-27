@@ -1,0 +1,8 @@
+examples/
+src/Apostle/PHPUnit/
+tests/Apostle/PHPUnit/Tests/Constraint/
+.gitignore
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

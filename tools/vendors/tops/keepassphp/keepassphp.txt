@@ -1,0 +1,6 @@
+keepassphp/
+.gitignore
+LICENSE.md
+README.md
+composer.json
+keepassphp-cli.php

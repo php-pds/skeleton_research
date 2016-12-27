@@ -1,0 +1,11 @@
+Entity/
+Test/
+Tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+SymfonyToolkitBundle.php
+composer.json
+composer.lock
+phpunit.xml.dist

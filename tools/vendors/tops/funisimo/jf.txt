@@ -1,0 +1,8 @@
+nbproject/
+.gitignore
+JF.js
+JF.min.js
+LICENSE
+README.md
+composer.json
+package.json

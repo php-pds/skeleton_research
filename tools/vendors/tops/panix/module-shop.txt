@@ -1,0 +1,12 @@
+components/
+config/
+controllers/
+messages/ru/
+models/
+views/
+widgets/filter/
+.gitattributes
+.gitignore
+Module.php
+README.md
+composer.json

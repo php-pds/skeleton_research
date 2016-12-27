@@ -1,0 +1,8 @@
+src/Di/
+test/Di/
+.gitattributes
+.gitignore
+README.md
+build.xml
+composer.json
+phpunit.xml.dist

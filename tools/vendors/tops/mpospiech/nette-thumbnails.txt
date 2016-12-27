@@ -1,0 +1,5 @@
+Thumbnails/
+.gitignore
+LICENSE
+README.md
+composer.json

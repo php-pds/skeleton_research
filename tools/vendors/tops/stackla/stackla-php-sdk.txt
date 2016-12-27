@@ -1,0 +1,10 @@
+doc/
+src/Stackla/
+tests/
+.gitignore
+.travis.yml
+README.md
+composer.json
+gulpfile.js
+package.json
+phpunit.xml.dist

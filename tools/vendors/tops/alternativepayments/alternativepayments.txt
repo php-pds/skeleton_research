@@ -1,0 +1,7 @@
+Lib/AlternativePayments/
+samples/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,16 @@
+.github/
+build/
+src/
+tests/
+.gitattributes
+.gitignore
+.php_cs
+.phplint.yml
+.scrutinizer.yml
+.styleci.yml
+.travis.yml
+BACKERS.md
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

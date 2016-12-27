@@ -1,0 +1,8 @@
+config/
+nbproject/
+src/MvaCrud/
+view/mva-crud/index/
+.gitignore
+Module.php
+README.md
+composer.json

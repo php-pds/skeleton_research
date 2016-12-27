@@ -1,0 +1,6 @@
+Apps/
+Core/
+web/
+LICENSE.md
+README.md
+composer.json

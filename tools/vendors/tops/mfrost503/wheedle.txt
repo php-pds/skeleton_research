@@ -1,0 +1,9 @@
+src/Wheedle/
+tests/Wheedle/
+.gitignore
+.travis.yml
+License.txt
+README.md
+composer.json
+composer.lock
+phpunit.xml

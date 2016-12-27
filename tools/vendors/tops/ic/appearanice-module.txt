@@ -1,0 +1,6 @@
+Resources/
+.gitattributes
+.gitignore
+Module.php
+composer.json
+readme.md

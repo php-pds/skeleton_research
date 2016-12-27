@@ -1,0 +1,7 @@
+src/EventCentric/Identity/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.markdown
+composer.json

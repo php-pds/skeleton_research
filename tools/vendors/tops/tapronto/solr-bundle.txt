@@ -1,0 +1,14 @@
+Command/
+DependencyInjection/
+Doctrine/
+Event/
+Query/
+Repository/
+Resources/
+Tests/
+FSSolrBundle.php
+README.md
+SolrConnection.php
+SolrConnectionFactory.php
+SolrFacade.php
+composer.json

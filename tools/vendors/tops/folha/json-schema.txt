@@ -1,0 +1,12 @@
+bin/
+docs/
+src/JsonSchema/
+tests/JsonSchema/Tests/
+.gitattributes
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+contributing.json
+phpunit.xml.dist

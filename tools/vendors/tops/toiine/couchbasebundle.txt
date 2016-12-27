@@ -1,0 +1,17 @@
+Connection/
+DependencyInjection/
+Entity/
+Manager/
+Repository/
+Resources/
+Serializer/
+Tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+ToiineCouchbaseBundle.php
+build.xml
+composer.json
+phpunit.xml.dist

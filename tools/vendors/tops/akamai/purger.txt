@@ -1,0 +1,6 @@
+src/Akamai/
+tests/
+.gitignore
+.travis.yml
+README.md
+composer.json

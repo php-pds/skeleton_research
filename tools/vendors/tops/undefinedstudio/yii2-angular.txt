@@ -1,0 +1,16 @@
+.bowerrc
+.gitignore
+AngularAnimateAsset.php
+AngularAriaAsset.php
+AngularAsset.php
+AngularMaterialAsset.php
+AngularMessagesAsset.php
+AngularMocksAsset.php
+AngularResourceAsset.php
+AngularRouteAsset.php
+AngularSanitizeAsset.php
+LICENSE.md
+README.md
+bower.json
+composer.json
+composer.lock

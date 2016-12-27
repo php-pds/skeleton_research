@@ -1,0 +1,3 @@
+Patbzh/BetaseriesBundle/
+.gitignore
+composer.json

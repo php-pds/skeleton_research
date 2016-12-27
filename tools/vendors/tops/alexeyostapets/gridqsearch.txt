@@ -1,0 +1,4 @@
+lib/
+templates/view/
+README.md
+composer.json

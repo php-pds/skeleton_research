@@ -1,0 +1,14 @@
+doc/
+src/JL/GlovoApi/
+tests/units/JL/GlovoApi/
+.atoum.bootstrap.php
+.atoum.php
+.gitignore
+.travis.yml
+LICENSE
+README.md
+VERSION
+composer.json
+composer.phar
+env.bat
+env.sh

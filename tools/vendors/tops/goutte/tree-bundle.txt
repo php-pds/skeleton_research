@@ -1,0 +1,17 @@
+DependencyInjection/
+Driver/
+Exception/
+Factory/
+Is/
+Model/
+Resources/config/
+Serializer/
+Tests/
+Util/
+.gitignore
+BLACKBOARD.markdown
+GoutteTreeBundle.php
+LICENCE
+README.markdown
+composer.json
+phpunit.xml.dist

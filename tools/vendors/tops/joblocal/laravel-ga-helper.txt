@@ -1,0 +1,11 @@
+src/
+tests/
+.editorconfig
+.env.example
+.gitignore
+.pre-commit-config.yaml
+composer.json
+composer.lock
+phpcs.xml
+phpunit.xml
+readme.md

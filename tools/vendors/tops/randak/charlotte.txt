@@ -1,0 +1,5 @@
+examples/
+src/Charlotte/
+.gitignore
+composer.json
+readme.md

@@ -1,0 +1,9 @@
+app/
+src/
+web/
+.gitignore
+.htaccess
+README.md
+_config.yml
+composer.json
+composer.lock

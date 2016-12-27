@@ -1,0 +1,8 @@
+DependencyInjection/
+Factory/
+Library/
+Resources/
+Strategy/
+Tests/Controller/
+RubiusDataTablesBundle.php
+composer.json

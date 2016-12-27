@@ -1,0 +1,8 @@
+assets/
+LICENSE
+composer.json
+composer.phar
+readme.md
+screenshot-1.png
+screenshot-2.png
+wp-bird.php

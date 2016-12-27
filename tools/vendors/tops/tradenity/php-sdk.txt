@@ -1,0 +1,9 @@
+src/tradenity/sdk/
+.gitignore
+CONTRIBUTING.md
+HISTORY.md
+LICENSE
+README.md
+composer.json
+phpunit.xml
+tradenity-php-sdk.iml

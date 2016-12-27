@@ -1,0 +1,9 @@
+src/Widespread/
+test/
+.gitignore
+.sublime-build
+LICENSE
+README.md
+component.json
+composer.json
+package.json

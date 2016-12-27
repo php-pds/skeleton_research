@@ -1,0 +1,8 @@
+components/
+data/
+.gitignore
+LICENSE
+MainSend.php
+README.md
+composer.json
+config.ini

@@ -1,0 +1,14 @@
+src/
+tests/
+.codeclimate.yml
+.gitignore
+.styleci.yml
+.travis.yml
+LICENSE
+README.md
+composer.json
+example.di.php
+example.php
+example.silex.php
+phpunit.xml.dist
+sniff.sh

@@ -1,0 +1,11 @@
+public/
+src/
+tests/
+vagrant-scripts/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+Vagrantfile
+composer.json
+phpunit.xml.dist

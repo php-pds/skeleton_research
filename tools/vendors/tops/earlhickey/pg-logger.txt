@@ -1,0 +1,7 @@
+config/
+data/
+src/PgLogger/
+LICENCE
+Module.php
+README.md
+composer.json

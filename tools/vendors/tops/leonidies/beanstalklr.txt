@@ -1,0 +1,5 @@
+examples/
+LICENSE
+README.md
+beanstalklr.php
+composer.json

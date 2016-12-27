@@ -1,0 +1,10 @@
+scripts/
+test/
+.gitignore
+COPYING
+DropboxUploader.php
+README.md
+composer.json
+composer.lock
+example.php
+phpunit.xml.dist

@@ -1,0 +1,15 @@
+config/
+docs/
+example/
+src/
+tests/src/
+.gitignore
+.travis.yml
+LICENSE.md
+README.md
+composer.json
+composer.lock
+composer.phar
+index.php
+master
+phpunit.xml

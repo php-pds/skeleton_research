@@ -1,0 +1,9 @@
+docs/api/
+include/tsugi/
+src/
+vendor/
+.DS_Store
+README.md
+composer.json
+composer.lock
+phpDocumentor.phar

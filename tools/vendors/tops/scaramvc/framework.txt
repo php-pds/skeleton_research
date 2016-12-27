@@ -1,0 +1,9 @@
+src/Scara/
+.editorconfig
+.gitattributes
+.gitignore
+LICENSE
+apigen.bat
+apigen.sh
+composer.json
+readme.md

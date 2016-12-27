@@ -1,0 +1,11 @@
+Annotation/
+Controller/
+DependencyInjection/
+Resources/config/
+Serializer/
+Tests/
+.gitignore
+LICENSE
+README.md
+RonteLtdJsonApiBundle.php
+composer.json

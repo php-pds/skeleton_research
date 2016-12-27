@@ -1,0 +1,4 @@
+examples/
+lib/eWAY/
+README.md
+composer.json

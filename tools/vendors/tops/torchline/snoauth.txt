@@ -1,0 +1,5 @@
+src/SNOAuth/
+.gitignore
+README.md
+composer.json
+future.json

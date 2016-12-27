@@ -1,0 +1,3 @@
+FirstFriday.php
+README.md
+composer.json

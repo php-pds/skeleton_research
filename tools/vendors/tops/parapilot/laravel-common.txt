@@ -1,0 +1,10 @@
+assets/
+data/
+src/
+tex/
+views/
+.gitattributes
+.gitignore
+LICENSE
+README.md
+composer.json

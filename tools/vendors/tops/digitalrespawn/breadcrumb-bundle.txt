@@ -1,0 +1,11 @@
+Breadcrumb/
+Controller/
+DependencyInjection/
+Resources/
+Tests/
+.gitignore
+DigitalRespawnBreadcrumbBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

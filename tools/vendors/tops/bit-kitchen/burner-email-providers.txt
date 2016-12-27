@@ -1,0 +1,7 @@
+.gitignore
+Makefile
+composer.json
+emails.json
+emails.php
+emails.txt
+readme.md

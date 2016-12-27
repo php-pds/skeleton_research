@@ -1,0 +1,7 @@
+Tests/Zedwoo/BotTracker/
+src/Zedwoo/BotTracker/
+.gitignore
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

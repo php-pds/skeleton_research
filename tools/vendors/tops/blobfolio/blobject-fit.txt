@@ -1,0 +1,10 @@
+src/
+.gitignore
+Gruntfile.js
+LICENSE
+README.md
+blobject-fit.min.js
+bower.json
+component.json
+composer.json
+package.json

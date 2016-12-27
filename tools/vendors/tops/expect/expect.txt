@@ -1,0 +1,17 @@
+example/
+spec/
+src/
+.cloak.toml
+.coveralls.toml
+.editorconfig
+.gitignore
+.php_cs
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+RoboFile.php
+apigen.neon
+composer.json
+generate-api.sh
+peridot.php

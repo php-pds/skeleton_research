@@ -1,0 +1,10 @@
+src/Sutra/Component/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE.txt
+README.md
+composer.json
+flourish-alternatives
+phpunit.xml.dist
+sutra.kdev4

@@ -1,0 +1,8 @@
+src/TestUploadedFileFactory/
+tests/
+tmp/
+.gitignore
+README.md
+composer.json
+composer.lock
+phpunit.xml

@@ -1,0 +1,10 @@
+Yr/
+examples/
+scripts/
+tests/Yr/
+.travis.yml
+README.md
+autoload.php
+composer.json
+phpunit.xml
+test.php

@@ -1,0 +1,4 @@
+spec/Few/Fields/
+src/
+.gitignore
+composer.json

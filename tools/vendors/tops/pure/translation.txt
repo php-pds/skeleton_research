@@ -1,0 +1,8 @@
+Classes/Pure/Translation/
+Configuration/
+Resources/
+.gitignore
+LICENSE
+README.md
+composer.json
+package.json

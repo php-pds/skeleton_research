@@ -1,0 +1,16 @@
+bin/
+src/
+tests/
+.gitignore
+.travis.yml
+Gemfile
+Gemfile.lock
+Guardfile
+LICENSE
+README.md
+composer.json
+composer.lock
+composer.phar
+package.json
+phpunit.xml
+todo.md

@@ -1,0 +1,14 @@
+resources/fixtures/manifest/
+src/Cpapdotcom/Asendia/
+tests/
+.codeclimate.yml
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+autoload.php
+composer.json
+composer.lock
+example.php
+test.sh

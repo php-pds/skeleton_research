@@ -1,0 +1,6 @@
+src/QueueZilla/
+.gitignore
+README.md
+composer.json
+phpcs.xml
+queue.sql

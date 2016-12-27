@@ -1,0 +1,6 @@
+Classes/
+.gitattributes
+.gitignore
+README.md
+composer.json
+sample.php

@@ -1,0 +1,8 @@
+assets/88888888/
+src/
+tests/
+.gitignore
+README.md
+TODO.md
+componizer.json
+composer.json

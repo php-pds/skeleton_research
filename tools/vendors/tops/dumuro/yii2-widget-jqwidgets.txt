@@ -1,0 +1,6 @@
+assets/styles/
+.gitignore
+JqWidgets.php
+JqWidgetsAsset.php
+README.md
+composer.json

@@ -1,0 +1,7 @@
+vendor/
+API.php
+README.md
+composer.json
+config.php
+crowdtilt.php
+example.php

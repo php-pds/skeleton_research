@@ -1,0 +1,14 @@
+bin/
+features/
+src/
+tests/
+.atoum.php
+.bootstrap.atoum.php
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+behat.yml
+box.json.dist
+composer.json

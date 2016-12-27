@@ -1,0 +1,13 @@
+public/
+src/
+tests/
+.bowerrc
+.gitignore
+.travis.yml
+bower.json
+composer.json
+gulpfile.js
+licence.md
+package.json
+phpunit.xml
+readme.md

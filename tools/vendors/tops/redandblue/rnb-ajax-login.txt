@@ -1,0 +1,8 @@
+.distignore
+.editorconfig
+.gitignore
+LICENCE
+README.md
+composer.json
+readme.txt
+rnb-ajax-login.php

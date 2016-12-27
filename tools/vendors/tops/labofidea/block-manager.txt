@@ -1,0 +1,5 @@
+config/
+src/BlockManager/
+Module.php
+README.md
+composer.json

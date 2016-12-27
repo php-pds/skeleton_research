@@ -1,0 +1,15 @@
+.idea/
+docs/
+src/CpanelDDNS/
+tests/CpanelDDNS/
+.gitignore
+.travis.yml
+CpanelDDNS.php
+README.md
+composer.json
+config.example.php
+fetchDNS.php
+functions.php
+index.php.example
+phpunit.xml
+updateDNS.php

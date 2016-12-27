@@ -1,0 +1,13 @@
+DependencyInjection/
+Exception/
+Factory/
+Resources/config/
+Service/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+DwrLottoClientBundle.php
+README.md
+composer.json
+composer.lock
+phpunit.xml

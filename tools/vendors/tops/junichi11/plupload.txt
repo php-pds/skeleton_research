@@ -1,0 +1,6 @@
+Controller/
+Model/
+View/
+.gitignore
+README.md
+composer.json

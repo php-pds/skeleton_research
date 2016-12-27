@@ -1,0 +1,11 @@
+Controller/
+DependencyInjection/
+Entity/
+Form/
+Model/
+Repository/
+Resources/
+Tests/Controller/
+MetalvarezCommentsBundle.php
+README.md
+composer.json

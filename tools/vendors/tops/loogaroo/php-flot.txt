@@ -1,0 +1,9 @@
+assets/
+flot @ 958e5fd
+src/PhpFlot/
+tests/
+.gitmodules
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

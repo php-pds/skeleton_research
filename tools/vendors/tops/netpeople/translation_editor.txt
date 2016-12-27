@@ -1,0 +1,16 @@
+Controller/
+DependencyInjection/
+Dumper/
+Exception/
+Features/
+Listener/
+Resources/
+Templating/
+Tests/
+Translation/
+.gitignore
+KnpTranslatorBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

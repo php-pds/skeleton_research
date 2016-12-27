@@ -1,0 +1,4 @@
+Visionline/Crm/WebApi/
+.gitignore
+README.md
+composer.json

@@ -1,0 +1,8 @@
+module/
+test/integration/
+.gitignore
+.travis.yml
+LICENCE
+composer.json
+composer.lock
+readme.md

@@ -1,0 +1,5 @@
+Classes/Wegmeister/Recaptcha/Validation/Validator/
+Configuration/
+Resources/Private/
+README.md
+composer.json

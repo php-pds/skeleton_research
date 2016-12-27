@@ -1,0 +1,11 @@
+DataCollector/
+DependencyInjection/
+Resources/
+Routing/
+Tests/Twig/
+Twig/
+.gitignore
+GitonomyGitBundle.php
+README.rst
+composer.json
+phpunit.xml.dist

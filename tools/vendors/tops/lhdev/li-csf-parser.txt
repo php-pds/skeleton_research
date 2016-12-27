@@ -1,0 +1,6 @@
+src/LithiumDev/CSFParser/
+.gitattributes
+.gitignore
+LICENSE
+composer.json
+readme.md

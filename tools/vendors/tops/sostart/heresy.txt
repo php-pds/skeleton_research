@@ -1,0 +1,14 @@
+MyKits/
+app-public/
+app/
+bootstrap/
+config/
+modules/Admin/
+resources/
+storage/
+tests/
+.gitignore
+1.txt
+composer.json
+composer.lock
+phar.php

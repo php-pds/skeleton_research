@@ -1,0 +1,5 @@
+config/
+src/Debug/
+view/debug/
+Module.php
+composer.json

@@ -1,0 +1,14 @@
+css/
+images/
+inc/
+js/
+languages/
+.gitignore
+README.md
+composer.json
+mkzip.sh
+readme.txt
+screenshot-1.png
+screenshot-2.png
+screenshot-3.png
+wp-recaptcha-integration.php

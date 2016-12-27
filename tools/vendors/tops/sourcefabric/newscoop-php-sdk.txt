@@ -1,0 +1,4 @@
+src/Newscoop/API/
+LICENSE.txt
+composer.json
+readme.md

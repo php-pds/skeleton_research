@@ -1,0 +1,3 @@
+NameDotComApi/
+README.markdown
+composer.json

@@ -1,0 +1,8 @@
+src/Command/
+tests/Command/
+tpl/
+.gitignore
+README.md
+bj
+composer.json
+composer.lock

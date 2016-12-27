@@ -1,0 +1,17 @@
+admin/
+api/
+controllers/
+lang/en/
+libs/
+models/
+public/admin/
+templates/
+tests/
+.gitignore
+.htaccess
+composer.json
+composer.lock
+config.php
+index.php
+phinx.yml
+phpunit.xml

@@ -1,0 +1,8 @@
+classes/
+vendor/htmlawed/
+.editorconfig
+.gitignore
+LICENSE
+bootstrap.php
+composer.json
+readme.md

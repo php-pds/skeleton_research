@@ -1,0 +1,11 @@
+examples/
+okw/CF/
+tests/
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+autoload.php
+composer.json
+phpunit.php
+phpunit.xml.dist

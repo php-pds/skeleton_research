@@ -1,0 +1,12 @@
+callback samples/
+docs/
+.gitignore
+BounceMailHandler.php
+bounce_types.txt
+class.phpmailer-bmh.php
+composer.json
+index.php
+install.txt
+phpdoc.dist.xml
+phpmailer-bmh_rules.php
+readme.txt

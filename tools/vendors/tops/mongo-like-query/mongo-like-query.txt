@@ -1,0 +1,5 @@
+examples/
+src/MongoLikeQuery/
+LICENSE
+README.md
+composer.json

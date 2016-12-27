@@ -1,0 +1,8 @@
+demo/
+.gitignore
+.htaccess
+LICENSE
+README.md
+composer.json
+markdown.php
+markdown_extended_stylish.php

@@ -1,0 +1,11 @@
+Command/
+DependencyInjection/
+Driver/PDODblib/
+Platforms/
+Query/
+Schema/
+Types/
+.gitignore
+Readme.md
+SCMMssqlBundle.php
+composer.json

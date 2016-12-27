@@ -1,0 +1,5 @@
+demo/
+doc/
+src/Audero/
+README.md
+composer.json

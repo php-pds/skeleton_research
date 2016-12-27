@@ -1,0 +1,4 @@
+poo/
+procedural/
+composer.json
+readme.md

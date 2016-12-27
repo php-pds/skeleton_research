@@ -1,0 +1,5 @@
+src/Langdetect/
+.gitignore
+LICENSE
+README.md
+composer.json

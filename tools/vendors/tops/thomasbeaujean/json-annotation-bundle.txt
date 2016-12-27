@@ -1,0 +1,10 @@
+.settings/
+Configuration/
+DependencyInjection/
+Event/
+EventListener/
+Resources/
+.gitignore
+JsonAnnotationBundle.php
+README.md
+composer.json

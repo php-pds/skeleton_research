@@ -1,0 +1,9 @@
+sdk @ 9e1b599
+.gitignore
+.gitmodules
+COPYING
+LICENSE
+README.md
+class.OoyalaApiConfig.php
+class.OoyalaDownloader.php
+composer.json

@@ -1,0 +1,14 @@
+Block/
+Controller/Adminhtml/MagerunGrid/
+Cron/
+Helper/
+Model/
+Setup/
+docs/
+etc/
+view/adminhtml/
+.gitignore
+LICENSE.txt
+README.md
+composer.json
+registration.php

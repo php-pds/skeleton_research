@@ -1,0 +1,7 @@
+Aop/
+.gitignore
+Aop.php
+Ioc.php
+LICENSE
+README.md
+composer.json

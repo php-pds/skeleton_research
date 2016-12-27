@@ -1,0 +1,7 @@
+app/
+core/
+.gitignore
+README.md
+composer.json
+config.sample.ini
+index.php

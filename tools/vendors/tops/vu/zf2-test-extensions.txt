@@ -1,0 +1,11 @@
+config/
+src/Zf2TestExtensions/
+tests/Test/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+bootstrap.php
+composer.json
+composer.phar
+phpunit.xml

@@ -1,0 +1,13 @@
+config/
+data/cache/
+module/Application/
+public/
+teste.git/
+.gitignore
+.gitmodules
+LICENSE.txt
+README.md
+composer.json
+composer.phar
+index.php
+init_autoloader.php

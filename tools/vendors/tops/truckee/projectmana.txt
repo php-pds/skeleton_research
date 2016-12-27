@@ -1,0 +1,11 @@
+app/
+bin/
+htdocs/
+nbproject/
+src/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+UPGRADE.md
+composer.json

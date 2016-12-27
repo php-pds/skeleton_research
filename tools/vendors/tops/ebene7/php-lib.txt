@@ -1,0 +1,6 @@
+src/E7/
+tests/E7/
+.gitignore
+README.md
+composer.json
+phpunit.xml.dist

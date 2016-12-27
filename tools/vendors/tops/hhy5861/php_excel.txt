@@ -1,0 +1,7 @@
+lib/
+vendor/
+.gitignore
+composer.json
+index_browser.php
+index_file.php
+index_tsv.php

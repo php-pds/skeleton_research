@@ -1,0 +1,13 @@
+bin/
+circleci/
+src/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+circle.yml
+composer.json
+composer.lock
+phpunit-parallel
+phpunit.xml

@@ -1,0 +1,9 @@
+config/
+public/admin-assets/
+src/
+views/
+.gitignore
+LICENSE
+README.md
+composer.json
+screenshot.png

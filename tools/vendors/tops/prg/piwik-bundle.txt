@@ -1,0 +1,8 @@
+DependencyInjection/
+Error/
+Model/
+Resources/config/
+.gitignore
+CiscoSystemsPiwikBundle.php
+README.md
+composer.json

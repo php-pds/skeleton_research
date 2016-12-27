@@ -1,0 +1,7 @@
+DependencyInjection/
+Manager/
+Resources/
+Tests/Manager/
+AvatarBundle.php
+README.markdown
+composer.json

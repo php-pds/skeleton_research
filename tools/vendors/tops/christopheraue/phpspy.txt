@@ -1,0 +1,7 @@
+Spy/
+features/
+.gitignore
+README.md
+Spy.php
+composer.json
+composer.lock

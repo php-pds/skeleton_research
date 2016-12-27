@@ -1,0 +1,11 @@
+src/
+tests/
+.editorconfig
+.gitignore
+Gruntfile.js
+LICENSE
+README.md
+composer.json
+composer.lock
+package.json
+phpunit.xml

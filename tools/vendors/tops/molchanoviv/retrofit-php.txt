@@ -1,0 +1,15 @@
+bin/
+docs/
+src/
+tests/
+.gitignore
+.travis.yml
+CHANGELOG.md
+CONTRIBUTING.md
+CONTRIBUTORS.md
+LICENSE.md
+README.md
+behat.yml
+composer.json
+composer.lock
+phpunit.xml

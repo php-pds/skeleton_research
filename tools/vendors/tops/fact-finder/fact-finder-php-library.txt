@@ -1,0 +1,13 @@
+.github/
+docs/
+src/
+tests/
+.gitignore
+CHANGELOG.txt
+FACT-Finder-PHP-Library.sublime-project
+LICENSE.md
+README.md
+build-release.ps1
+build-release.sh
+code-mockup-dataprovider.php
+composer.json

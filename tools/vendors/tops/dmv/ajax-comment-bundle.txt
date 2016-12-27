@@ -1,0 +1,12 @@
+Acl/
+Controller/
+DependencyInjection/
+Entity/
+Resources/
+Tests/
+CHANGELOG.md
+DMVCommentBundle.php
+LICENSE.md
+README.md
+composer.json
+phpunit.xml.dist

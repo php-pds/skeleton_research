@@ -1,0 +1,6 @@
+nbproject/
+src/Mediasender/
+.gitattributes
+.gitignore
+README.md
+composer.json

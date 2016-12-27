@@ -1,0 +1,5 @@
+examples/
+src/TwitterStreaming/
+.gitignore
+README.md
+composer.json

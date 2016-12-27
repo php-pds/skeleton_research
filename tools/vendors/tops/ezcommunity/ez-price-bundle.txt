@@ -1,0 +1,17 @@
+API/Price/
+ApiLoader/
+Core/
+DependencyInjection/
+Resources/
+SPI/Persistence/Price/
+Tests/
+Twig/Extension/
+eZ/Publish/Core/
+.gitignore
+.travis.yml
+EzSystemsEzPriceBundle.php
+LICENSE
+README.md
+bootstrap.php
+composer.json
+phpunit.xml

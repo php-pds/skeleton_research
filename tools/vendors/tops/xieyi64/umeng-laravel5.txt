@@ -1,0 +1,7 @@
+src/xieyi64/UmengLaravel/
+tests/
+.gitignore
+README.md
+composer.json
+composer.lock
+phpunit.xml

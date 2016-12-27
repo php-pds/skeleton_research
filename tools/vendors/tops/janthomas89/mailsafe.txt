@@ -1,0 +1,8 @@
+DependencyInjection/
+Resources/
+Services/
+Twig/Extension/
+JanThomas89MailSafeBundle.php
+LICENSE.txt
+README.md
+composer.json

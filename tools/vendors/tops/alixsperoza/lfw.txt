@@ -1,0 +1,7 @@
+Configuration/
+vendor/LFW/
+.htaccess
+README.md
+composer.json
+console.php
+index.php

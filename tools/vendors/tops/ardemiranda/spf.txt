@@ -1,0 +1,6 @@
+Tester/PHP_SPF/
+src/PHP_SPF/
+tests/
+.gitignore
+README
+composer.json

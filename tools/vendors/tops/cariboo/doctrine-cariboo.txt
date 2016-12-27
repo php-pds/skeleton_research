@@ -1,0 +1,6 @@
+lib/
+tests/Doctrine/Cariboo/Tests/
+.gitignore
+README.md
+composer.json
+phpunit.xml.dist

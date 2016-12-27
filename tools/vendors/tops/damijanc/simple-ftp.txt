@@ -1,0 +1,10 @@
+src/FTP/
+tests/
+.gitignore
+.travis.yml
+CHANGELOG
+LICENCE
+NOTICE
+README.md
+composer.json
+phpunit.xml.dist

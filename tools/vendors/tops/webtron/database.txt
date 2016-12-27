@@ -1,0 +1,7 @@
+Connector/
+Model/
+Query/
+test/
+.gitignore
+README.md
+composer.json

@@ -1,0 +1,7 @@
+src/MTL/UniqueGenerator/
+test/MTL/UniqueGenerator/
+.gitignore
+.travis.yml
+LICENSE
+composer.json
+phpunit.xml.dist

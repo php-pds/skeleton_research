@@ -1,0 +1,8 @@
+src/Mail/Address/
+tests/Mail/Address/
+.gitattributes
+.gitignore
+.travis.yml
+README.md
+composer.json
+phpunit.xml.dist

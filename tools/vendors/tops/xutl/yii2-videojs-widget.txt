@@ -1,0 +1,6 @@
+assets/
+.bowerrc
+README.md
+VideoJsAsset.php
+VideoJsWidget.php
+composer.json

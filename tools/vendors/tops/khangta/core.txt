@@ -1,0 +1,10 @@
+Crypto/
+folder/
+tests/
+.gitignore
+New Text Document.txt
+composer.json
+data.txt
+readme.txt
+test_openssl.php
+test_rijndael.php

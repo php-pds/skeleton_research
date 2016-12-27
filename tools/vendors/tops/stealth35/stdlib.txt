@@ -1,0 +1,8 @@
+src/Stdlib/
+tests/
+.atoum.php
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json

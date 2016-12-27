@@ -1,0 +1,7 @@
+spec/Yami/SheetFight/
+src/Yami/SheetFight/Model/
+.gitignore
+.travis.yml
+LICENCE
+README.md
+composer.json

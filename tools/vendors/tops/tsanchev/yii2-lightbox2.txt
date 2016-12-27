@@ -1,0 +1,3 @@
+LightboxAsset.php
+README.md
+composer.json

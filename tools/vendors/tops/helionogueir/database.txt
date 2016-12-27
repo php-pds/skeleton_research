@@ -1,0 +1,6 @@
+core/
+tests/
+LICENSE
+README.md
+composer.json
+database.php

@@ -1,0 +1,8 @@
+reference/
+src/openrtb/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock

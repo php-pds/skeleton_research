@@ -1,0 +1,8 @@
+src/
+test/
+.DS_Store
+.gitignore
+README.md
+Screenshot.png
+composer.json
+composer.lock

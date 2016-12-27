@@ -1,0 +1,16 @@
+bin/
+certs/
+examples/
+lib/
+locale/en_US.utf8/LC_MESSAGES/
+schemas/
+tests/
+wsdl/
+.gitignore
+.travis.yml
+COPYING
+Doxyfile
+Makefile
+README.md
+composer.json
+composer.lock

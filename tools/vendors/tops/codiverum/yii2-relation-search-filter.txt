@@ -1,0 +1,4 @@
+LICENSE.md
+README.md
+RelationSFTrait.php
+composer.json

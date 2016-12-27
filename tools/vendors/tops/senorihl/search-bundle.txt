@@ -1,0 +1,11 @@
+Annotation/
+DependencyInjection/
+Driver/
+Metadata/
+Resources/config/
+Service/
+.travis.yml
+LICENSE
+README.md
+SearchBundle.php
+composer.json

@@ -1,0 +1,4 @@
+src/Ssteynfaardt/ZiteApi/
+tests/
+.gitignore
+composer.json

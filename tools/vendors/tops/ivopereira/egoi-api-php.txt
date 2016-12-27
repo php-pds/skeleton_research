@@ -1,0 +1,4 @@
+src/Egoi/
+LICENSE
+README.md
+composer.json

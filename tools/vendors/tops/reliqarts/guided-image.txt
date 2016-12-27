@@ -1,0 +1,15 @@
+config/
+database/migrations/
+docs/
+routes/
+src/
+tests/
+.gitignore
+.php_cs
+.scrutinizer.yml
+.styleci.yml
+FUTURE.md
+LICENSE
+README.md
+composer.json
+phpunit.xml

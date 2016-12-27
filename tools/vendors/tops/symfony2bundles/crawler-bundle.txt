@@ -1,0 +1,10 @@
+Command/
+DependencyInjection/
+Entity/
+Resources/
+.editorconfig
+.gitignore
+README.md
+S2bCrawlerBundle.php
+composer.json
+composer.lock

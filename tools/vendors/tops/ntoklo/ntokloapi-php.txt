@@ -1,0 +1,12 @@
+app/
+docs/
+test/
+vendor/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock
+example.php
+phpunit.xml
+requirements.txt

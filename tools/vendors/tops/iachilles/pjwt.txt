@@ -1,0 +1,13 @@
+crypt/
+tests/
+.gitignore
+.travis.yml
+CHANGELOG
+JoseHeader.php
+Jwa.php
+Jws.php
+Jwt.php
+LICENSE.txt
+README.md
+composer.json
+phpunit.xml.dist

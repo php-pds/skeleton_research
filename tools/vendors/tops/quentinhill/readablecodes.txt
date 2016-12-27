@@ -1,0 +1,7 @@
+src/Quentinhill/Readablecodes/
+test/
+.gitignore
+HISTORY.md
+LICENSE
+README.md
+composer.json

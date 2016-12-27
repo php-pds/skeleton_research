@@ -1,0 +1,8 @@
+config/
+migrations/
+seeds/
+src/
+.gitignore
+LICENSE
+README.md
+composer.json

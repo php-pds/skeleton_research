@@ -1,0 +1,6 @@
+classes/
+doc/
+settings/
+composer.json
+extension.xml
+readme.md

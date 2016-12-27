@@ -1,0 +1,15 @@
+app/
+bin/
+src/Neducatio/TestBundle/
+testapp/Acme/AnimalBundle/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+behat.yml
+build.xml
+c
+composer.json
+composer.lock
+composer.phar
+t

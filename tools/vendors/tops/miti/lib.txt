@@ -1,0 +1,7 @@
+js/
+msc/
+src/
+tests/
+.gitignore
+Config.php
+composer.json

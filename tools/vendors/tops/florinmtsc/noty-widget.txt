@@ -1,0 +1,6 @@
+AlertAsset/
+views/
+.gitignore
+AlertWidget.php
+README.md
+composer.json

@@ -1,0 +1,12 @@
+bin/
+src/Mustache/
+test/
+vendor/
+.gitignore
+.gitmodules
+.travis.yml
+CONTRIBUTING.md
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

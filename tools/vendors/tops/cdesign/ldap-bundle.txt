@@ -1,0 +1,6 @@
+DependencyInjection/
+Ldap/
+Resources/config/
+.gitignore
+CDesignLdapBundle.php
+composer.json

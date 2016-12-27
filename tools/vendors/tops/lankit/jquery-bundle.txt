@@ -1,0 +1,6 @@
+DependencyInjection/
+Resources/
+LICENSE
+LanKitJqueryBundle.php
+README.md
+composer.json

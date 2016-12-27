@@ -1,0 +1,7 @@
+Classes/JoRo/GitHub/Controller/
+Configuration/
+Resources/
+.gitignore
+LICENSE
+README.md
+composer.json

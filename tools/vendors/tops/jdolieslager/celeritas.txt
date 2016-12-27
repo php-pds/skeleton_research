@@ -1,0 +1,4 @@
+src/Celeritas/
+Module.php
+README.md
+composer.json

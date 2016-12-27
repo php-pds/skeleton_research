@@ -1,0 +1,10 @@
+php/
+test/
+.editorconfig
+.gitignore
+README.md
+behat.yml
+circle.yml
+composer.json
+phpunit.xml
+regex.json

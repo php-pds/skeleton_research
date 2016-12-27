@@ -1,0 +1,6 @@
+src/Soubai/ObjectToAny/
+.gitignore
+LICENSE
+README.md
+TestIndex.php
+composer.json

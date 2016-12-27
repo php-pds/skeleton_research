@@ -1,0 +1,10 @@
+examples/
+lib/Transmission/
+tests/
+.gitignore
+.travis.yml
+CHANGELOG
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

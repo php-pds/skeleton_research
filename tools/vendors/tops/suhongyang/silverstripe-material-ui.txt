@@ -1,0 +1,11 @@
+dist/
+gulp/
+src/
+templates/
+.babelrc
+.editorconfig
+.gitignore
+README.md
+composer.json
+gulpfile.js
+package.json

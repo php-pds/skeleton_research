@@ -1,0 +1,5 @@
+src/AgileSocial/
+.gitignore
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,7 @@
+boilerplate/templates/sitename/
+install/
+lang/
+lib/
+README.md
+composer.json
+include.php

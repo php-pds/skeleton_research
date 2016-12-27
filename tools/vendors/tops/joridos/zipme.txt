@@ -1,0 +1,7 @@
+Vendor/Joridos/
+.editorconfig
+.gitignore
+README.md
+composer.json
+index.php
+loader.php

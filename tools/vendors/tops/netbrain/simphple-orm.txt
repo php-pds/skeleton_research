@@ -1,0 +1,8 @@
+src/Dao/
+tests/
+.gitignore
+Makefile
+README.md
+composer.json
+config.ini.sample
+phpunit.xml

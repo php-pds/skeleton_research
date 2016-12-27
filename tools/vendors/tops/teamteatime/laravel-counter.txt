@@ -1,0 +1,6 @@
+config/
+migrations/
+src/
+LICENSE
+composer.json
+readme.md

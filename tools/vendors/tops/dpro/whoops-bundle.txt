@@ -1,0 +1,9 @@
+Configurator/
+DependencyInjection/
+ExceptionListener/
+Resources/config/
+Tests/Controller/
+LICENSE
+README.md
+composer.json
+dproWhoopsBundle.php

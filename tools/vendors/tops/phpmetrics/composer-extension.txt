@@ -1,0 +1,11 @@
+.gitignore
+.semver
+ComposerExtension.php
+HtmlRenderer.php
+LICENSE
+Makefile
+Packagist.php
+README.md
+build.php
+composer-extension.phar
+composer.json

@@ -1,0 +1,14 @@
+database/
+docker/
+logs/
+proxy/
+wp-content/themes/
+.gitignore
+Dockerfile
+LICENSE
+README.md
+Vagrantfile
+composer.json
+composer.lock
+local-config.php.dist
+wp-config.php

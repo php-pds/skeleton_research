@@ -1,0 +1,5 @@
+README.md
+VisualPaginator.php
+composer.json
+example.css
+template.latte

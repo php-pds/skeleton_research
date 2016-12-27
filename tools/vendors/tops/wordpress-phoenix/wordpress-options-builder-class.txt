@@ -1,0 +1,6 @@
+.gitignore
+CHANGELOG.md
+LICENSE
+README.md
+class-wordpress-options-builder.php
+composer.json

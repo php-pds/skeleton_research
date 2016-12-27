@@ -1,0 +1,4 @@
+src/GTranslate/Service/
+Module.php
+README.md
+composer.json

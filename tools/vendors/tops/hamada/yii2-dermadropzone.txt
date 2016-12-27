@@ -1,0 +1,7 @@
+vendor/bower/dropzone/
+AutoloadExample.php
+DermaAsset.php
+README.md
+bower.json
+composer.json
+composer.phar

@@ -1,0 +1,6 @@
+src/
+LICENSE.md
+README.md
+composer.json
+phpcs.xml.dist
+phpdoc.dist.xml

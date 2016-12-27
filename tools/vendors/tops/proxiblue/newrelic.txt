@@ -1,0 +1,8 @@
+app/
+js/
+.gitignore
+LICENCE
+NewRelicDoc.pdf
+README.md
+composer.json
+modman

@@ -1,0 +1,5 @@
+Access/
+tests/
+.gitattributes
+README.md
+composer.json

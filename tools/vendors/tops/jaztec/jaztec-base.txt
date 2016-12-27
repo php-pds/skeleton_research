@@ -1,0 +1,12 @@
+src/JaztecBase/
+tests/
+.gitignore
+LICENSE
+Module.php
+build.xml
+composer.json
+coverage-checker.php
+phpdox.xml.dist
+phpmd.xml.dist
+phpunit.xml.dist
+readme.md

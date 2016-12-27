@@ -1,0 +1,5 @@
+.gitignore
+Handlebars.php
+LICENSE
+README.md
+composer.json

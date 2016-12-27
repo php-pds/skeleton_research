@@ -1,0 +1,9 @@
+Entities/
+Exceptions/
+RestController/
+Services/
+.gitignore
+LICENSE
+README.md
+composer.json
+netlicensing.php

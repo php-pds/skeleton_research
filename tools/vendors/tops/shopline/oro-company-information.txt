@@ -1,0 +1,5 @@
+src/Shopline/Bundle/CompanyInfoBundle/
+.scrutinizer.yml
+LICENSE
+README.md
+composer.json

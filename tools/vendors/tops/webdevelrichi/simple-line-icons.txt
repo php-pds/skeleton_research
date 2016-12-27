@@ -1,0 +1,10 @@
+fonts/
+License.txt
+Readme.txt
+bower.json
+composer.json
+gulpfile.js
+icons-lte-ie7.js
+package.json
+simple-line-icons.css
+simple-line-icons.min.css

@@ -1,0 +1,10 @@
+features/bootstrap/
+src/
+tests/
+.DS_Store
+.gitignore
+README.md
+composer.json
+composer.lock
+phpunit.xml
+postcodes.csv

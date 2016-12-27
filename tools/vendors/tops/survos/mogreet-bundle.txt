@@ -1,0 +1,11 @@
+DependencyInjection/
+Resources/config/
+Service/
+Tests/
+.gitignore
+LICENSE
+README.md
+SurvosMogreetBundle.php
+composer.json
+composer.lock
+phpunit.xml.dist

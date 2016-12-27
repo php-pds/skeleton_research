@@ -1,0 +1,8 @@
+.travis/
+config/
+src/DOMPDFModule/
+tests/
+.travis.yml
+Module.php
+README.md
+composer.json

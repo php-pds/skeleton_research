@@ -1,0 +1,6 @@
+DependencyInjection/
+Resources/
+Service/
+AntkowiakValidationBundle.php
+README.md
+composer.json

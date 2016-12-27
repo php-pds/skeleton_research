@@ -1,0 +1,9 @@
+.idea/
+Controller/
+DependencyInjection/
+Resources/
+Services/
+Tests/Controller/
+README.md
+composer.json
+imagesbase64ConverterBundle.php

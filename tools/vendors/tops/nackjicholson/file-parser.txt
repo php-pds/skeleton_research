@@ -1,0 +1,7 @@
+example/
+src/
+tests-src/FileSystem/
+tests/
+.gitignore
+README.md
+composer.json

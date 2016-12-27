@@ -1,0 +1,9 @@
+src/RESTful/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+bootstrap.php
+build-phar
+composer.json

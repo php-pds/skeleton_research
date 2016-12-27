@@ -1,0 +1,13 @@
+docker/
+fixtures/
+src/
+tests/
+.gitignore
+LICENSE
+Makefile
+README.md
+composer.json
+composer.lock
+docker-compose.env.dist
+docker-compose.yml
+phpunit.xml.dist

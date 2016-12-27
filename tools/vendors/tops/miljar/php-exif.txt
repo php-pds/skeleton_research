@@ -1,0 +1,12 @@
+Resources/doc/
+lib/PHPExif/
+tests/
+.coveralls.yml
+.gitignore
+.travis.yml
+CHANGELOG.rst
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

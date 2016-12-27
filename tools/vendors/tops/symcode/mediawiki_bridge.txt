@@ -1,0 +1,5 @@
+Symbb/MediawikiBridge/
+.gitignore
+LICENSE
+README.md
+composer.json

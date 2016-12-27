@@ -1,0 +1,12 @@
+Controller/
+DependencyInjection/
+Entity/
+Form/Type/
+Mailer/
+Resources/
+Tests/Controller/
+.DS_Store
+JTAdsBundle.php
+LICENSE
+README.md
+composer.json

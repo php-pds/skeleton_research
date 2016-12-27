@@ -1,0 +1,17 @@
+config/
+src/
+tests/
+.editorconfig
+.gitignore
+.styleci.yml
+.travis.yml
+CHANGELOG.md
+CONDUCT.md
+CONTRIBUTING.md
+LICENSE.md
+README.md
+composer.json
+composer.lock
+generate.sh
+phpunit.xml
+uptime-robot-swagger.json

@@ -1,0 +1,10 @@
+src/CTable/
+test/
+webroot/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE.txt
+autoloader.php
+composer.json
+readme.md

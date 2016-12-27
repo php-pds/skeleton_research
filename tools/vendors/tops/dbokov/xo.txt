@@ -1,0 +1,10 @@
+.idea/
+assets/
+components/
+controllers/
+views/game/
+Bootstrap.php
+Game.php
+LICENSE
+README.md
+composer.json

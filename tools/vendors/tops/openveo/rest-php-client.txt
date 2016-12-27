@@ -1,0 +1,7 @@
+src/
+.gitignore
+CHANGELOG.md
+LICENSE
+README.md
+autoload_dist.php
+composer.json

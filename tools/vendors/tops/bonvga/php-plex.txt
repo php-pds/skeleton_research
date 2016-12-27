@@ -1,0 +1,9 @@
+Client/
+Exception/
+Machine/
+Server/
+Client.php
+Plex.php
+README.md
+Server.php
+composer.json

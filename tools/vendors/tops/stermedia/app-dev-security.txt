@@ -1,0 +1,5 @@
+src/Stermedia/AppDevSecurity/
+.gitignore
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,5 @@
+.gitignore
+LICENSE
+NestedNativeArray.php
+README.md
+composer.json

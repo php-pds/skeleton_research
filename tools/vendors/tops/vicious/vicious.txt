@@ -1,0 +1,5 @@
+Vicious/
+test/
+LICENCE
+README.md
+composer.json

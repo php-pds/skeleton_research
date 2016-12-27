@@ -1,0 +1,4 @@
+src/Avada/Test/
+.gitignore
+README.md
+composer.json

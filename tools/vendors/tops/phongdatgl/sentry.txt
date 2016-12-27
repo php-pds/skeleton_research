@@ -1,0 +1,4 @@
+src/Phongdatgl/Sentry/
+tests/
+.gitignore
+composer.json

@@ -1,0 +1,12 @@
+.idea/
+css/
+protected/
+.buildpath
+.gitignore
+.htaccess
+LICENSE
+README.md
+composer.json
+index-test.php
+index.php
+test.php

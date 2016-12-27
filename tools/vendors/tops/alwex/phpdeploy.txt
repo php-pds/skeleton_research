@@ -1,0 +1,9 @@
+Deploy/
+bin/
+installer/
+templates/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock

@@ -1,0 +1,13 @@
+bin/
+examples/
+scripts/
+src/Be2bill/Api/
+tests/
+.gitignore
+.travis.yml
+LICENSE.md
+README.md
+composer.json
+composer.phar
+phpdoc.dist.xml
+phpunit.xml

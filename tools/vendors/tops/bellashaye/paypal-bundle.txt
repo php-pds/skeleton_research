@@ -1,0 +1,11 @@
+Controller/
+DependencyInjection/
+Resources/
+Tests/
+.DS_Store
+.gitignore
+.travis.yml
+BellaShayePaypalBundle.php
+README.md
+composer.json
+phpunit.xml.dist

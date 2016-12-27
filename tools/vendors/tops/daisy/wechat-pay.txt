@@ -1,0 +1,7 @@
+src/wechat/
+test/wechat/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock

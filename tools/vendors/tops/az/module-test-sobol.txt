@@ -1,0 +1,5 @@
+Block/
+etc/
+view/frontend/
+composer.json
+registration.php

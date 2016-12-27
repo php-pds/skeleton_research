@@ -1,0 +1,4 @@
+.gitignore
+NoTOC.i18n.php
+NoTOC.php
+composer.json

@@ -1,0 +1,6 @@
+app/brain/
+public/
+vendor/
+web/
+LICENSE
+composer.json

@@ -1,0 +1,7 @@
+Controller/
+DependencyInjection/
+Resources/
+.gitignore
+MarijnKoesenCodeGeneratorBundle.php
+README.md
+composer.json

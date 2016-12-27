@@ -1,0 +1,7 @@
+docs/classes/
+.gitignore
+LICENSE
+README.md
+Wizard.php
+WizardAsset.php
+composer.json

@@ -1,0 +1,16 @@
+Block/Adminhtml/
+Controller/
+Helper/
+Model/
+Observer/
+Plugin/
+PublicServices/Product/
+Setup/
+etc/
+i18n/
+view/adminhtml/
+CHANGELOG
+README.md
+composer.json
+registration.php
+versions_history.json

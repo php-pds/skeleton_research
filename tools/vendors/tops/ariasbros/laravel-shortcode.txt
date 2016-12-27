@@ -1,0 +1,5 @@
+src/AriasBros/Shortcode/
+.gitignore
+LICENSE
+README.md
+composer.json

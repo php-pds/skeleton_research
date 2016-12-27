@@ -1,0 +1,9 @@
+src/lastfmapi/
+tests/
+.gitignore
+changelog
+composer.json
+composer.lock
+license
+phpunit.xml.dist
+readme.md

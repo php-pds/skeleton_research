@@ -1,0 +1,7 @@
+examples/
+src/
+.gitignore
+CONTRIBUTORS
+COPYING
+Readme.md
+composer.json

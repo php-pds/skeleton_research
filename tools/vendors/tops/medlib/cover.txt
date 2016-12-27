@@ -1,0 +1,8 @@
+Facades/
+Services/
+default/
+fonts/books/
+.gitignore
+BookCover.php
+FontMetrics.php
+composer.json

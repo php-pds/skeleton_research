@@ -1,0 +1,8 @@
+spec/icio/Scope/
+src/icio/Scope/
+.gitignore
+.travis.yml
+README.md
+composer.json
+composer.lock
+index.php

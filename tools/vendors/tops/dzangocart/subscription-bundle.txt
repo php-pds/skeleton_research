@@ -1,0 +1,9 @@
+Controller/
+DependencyInjection/
+Model/
+Resources/
+Tests/Controller/
+DzangocartSubscriptionBundle.php
+LICENSE
+README.md
+composer.json

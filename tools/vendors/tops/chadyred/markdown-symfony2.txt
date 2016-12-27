@@ -1,0 +1,6 @@
+Resources/
+vendor/
+.directory
+README.md
+composer.json
+composer.lock

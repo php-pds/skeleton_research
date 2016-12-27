@@ -1,0 +1,7 @@
+spec/Troward/
+src/Troward/SlimController/
+.gitignore
+README.md
+composer.json
+composer.lock
+phpspec.yml

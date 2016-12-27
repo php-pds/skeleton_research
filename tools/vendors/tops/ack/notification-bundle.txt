@@ -1,0 +1,8 @@
+DependencyInjection/
+Notifier/
+Resources/
+AckNotificationBundle.php
+LICENSE
+README.md
+composer.json
+diagram.png

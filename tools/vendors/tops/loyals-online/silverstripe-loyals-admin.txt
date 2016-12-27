@@ -1,0 +1,15 @@
+.idea/
+_config/
+code/extensions/
+css/
+fonts/
+images/
+javascript/
+templates/
+.editorconfig
+.gitattributes
+.gitignore
+LICENSE
+README.md
+_config.php
+composer.json

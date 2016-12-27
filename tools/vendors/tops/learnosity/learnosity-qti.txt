@@ -1,0 +1,11 @@
+src/
+tests/
+.gitignore
+README.md
+bootstrap.php
+build.php
+composer.json
+composer.lock
+documentation.html
+phpunit.xml
+sonar-project.properties

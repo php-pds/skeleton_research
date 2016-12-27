@@ -1,0 +1,12 @@
+docs/
+resources/
+src/
+.editorconfig
+.gitignore
+.gitmodules
+.travis.yml
+Makefile
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

@@ -1,0 +1,4 @@
+app/code/community/Varien/
+README.md
+composer.json
+modman

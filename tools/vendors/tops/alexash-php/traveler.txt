@@ -1,0 +1,15 @@
+bootstrap/
+src/Traveler/
+tests/
+.codeclimate.yml
+.gitattributes
+.gitignore
+.sensiolabs.yml
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+build.xml.dist
+composer.json
+phpcs.xml.dist
+phpunit.xml.dist

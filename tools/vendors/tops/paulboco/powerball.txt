@@ -1,0 +1,10 @@
+src/Drawings/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+changelog.md
+composer.json
+composer.lock
+phpunit.xml

@@ -1,0 +1,6 @@
+bin/
+repository/
+src/
+README.md
+builder.png
+composer.json

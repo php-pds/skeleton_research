@@ -1,0 +1,8 @@
+development/
+emoticons/
+languages/
+minified/
+README.md
+bower.json
+composer.json
+example.html

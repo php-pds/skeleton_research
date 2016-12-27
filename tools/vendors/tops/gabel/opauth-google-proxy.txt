@@ -1,0 +1,4 @@
+.gitignore
+GoogleStrategy.php
+README.md
+composer.json

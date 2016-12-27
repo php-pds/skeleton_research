@@ -1,0 +1,11 @@
+AnaxDbtable/
+coverage/
+src/Dbtables/
+test/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE.txt
+README.md
+autoloader.php
+composer.json

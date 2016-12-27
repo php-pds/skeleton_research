@@ -1,0 +1,12 @@
+Cache/
+Tests/
+.coveralls.yml
+.gitignore
+.travis.yml
+README.md
+SDK50R.php
+composer.json
+memcached.ini
+phpunit.xml
+sdk.php
+test.php.txt

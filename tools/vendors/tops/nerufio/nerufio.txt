@@ -1,0 +1,9 @@
+data/
+example/protected/
+src/Nerufio/
+tests/
+.travis.yml
+Doc.txt
+LICENSE.txt
+README.md
+composer.json

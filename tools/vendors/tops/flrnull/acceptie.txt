@@ -1,0 +1,5 @@
+src/Acceptie/
+.gitignore
+LICENSE
+README.md
+composer.json

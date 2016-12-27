@@ -1,0 +1,14 @@
+api/
+client/
+config/
+docs/
+tests/
+.gitignore
+.htaccess
+README.md
+Vagrantfile
+composer.json
+index.php
+package.json
+robots.txt
+vagrant.sh

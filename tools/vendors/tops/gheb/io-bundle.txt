@@ -1,0 +1,13 @@
+Aggregator/
+Command/
+DependencyInjection/
+Inputs/
+Outputs/
+Resources/Config/
+.gitignore
+IOBundle.php
+IOInterface.php
+LICENSE
+README.md
+composer.json
+composer.lock

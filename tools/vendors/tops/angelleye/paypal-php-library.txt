@@ -1,0 +1,8 @@
+documentation/
+samples/
+src/angelleye/PayPal/
+templates/
+.gitignore
+README.md
+autoload.php
+composer.json

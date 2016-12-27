@@ -1,0 +1,13 @@
+DependencyInjection/
+Entity/Manager/
+Manager/
+Resources/
+Test/
+Tests/
+.gitignore
+.travis.yml
+LICENSE
+O2ModelBundle.php
+README.md
+composer.json
+phpunit.xml.dist

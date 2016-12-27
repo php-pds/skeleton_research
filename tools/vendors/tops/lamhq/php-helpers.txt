@@ -1,0 +1,4 @@
+CHANGELOG.md
+ImageHelper.php
+README.md
+composer.json

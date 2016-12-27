@@ -1,0 +1,9 @@
+DependencyInjection/
+Model/
+Resources/
+Templating/Helper/
+Twig/Extension/
+LICENSE
+README.md
+WhiteOctoberBreadcrumbsBundle.php
+composer.json

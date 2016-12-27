@@ -1,0 +1,10 @@
+assets/
+controllers/
+docs/
+views/
+CHANGELOG.md
+Module.php
+PdfJs.php
+PdfJsAsset.php
+README.md
+composer.json

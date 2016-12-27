@@ -1,0 +1,5 @@
+src/Rapid/
+tests/
+.gitignore
+composer.json
+phpunit.xml
