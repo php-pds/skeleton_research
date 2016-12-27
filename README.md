@@ -312,9 +312,9 @@ directories and files named above.
 
 ## Addendum
 
-After completing the primary research, collection of the entirety of Packagist
-(110212 packages after attrition) revealed that the above analysis and holds
-true across the ecosystem, not just for vendors of more than three packages.
+After completing the primary research, collection against all of Packagist
+(110212 packages after attrition) revealed that the above analysis holds true
+across the ecosystem, not just for vendors of more than three packages.
 
 Results:
 
