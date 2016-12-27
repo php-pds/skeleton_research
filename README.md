@@ -325,3 +325,5 @@ Of all the packages collected, 78078 (71%) of them appear compliant with the
 above recommendation.
 
 Results:
+
+- [results/addendum-compliance.txt](./results/addendum-compliance.txt)
