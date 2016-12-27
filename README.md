@@ -309,3 +309,19 @@ files is provided with the name `bin/`, and not `cli/` (or something else). If
 no such directory is provided under any recognizable name, the package is still
 apparently compliant, since not all packages may provide all the kinds of
 directories and files named above.
+
+## Addendum
+
+After completing the primary research, collection of the entirety of Packagist
+(110212 packages after attrition) revealed that the above analysis and holds
+true across the ecosystem, not just for vendors of more than three packages.
+
+Results:
+
+- [results/addendum-dirs.txt](./results/addendum-dirs.txt)
+- [results/addendum-files.txt](./results/addendum-files.txt)
+
+Of all the packages collected, 78078 (71%) of them appear compliant with the
+above recommendation.
+
+Results:
