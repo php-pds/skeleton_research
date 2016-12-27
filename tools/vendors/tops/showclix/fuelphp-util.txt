@@ -1,0 +1,6 @@
+classes/Fuel/Util/
+resources/
+.gitignore
+.travis.yml
+README.md
+composer.json

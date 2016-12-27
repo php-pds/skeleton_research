@@ -1,0 +1,12 @@
+php-excel-reader/
+.gitignore
+CHANGELOG.md
+LICENSE.md
+README.md
+SpreadsheetReader.php
+SpreadsheetReader_CSV.php
+SpreadsheetReader_ODS.php
+SpreadsheetReader_XLS.php
+SpreadsheetReader_XLSX.php
+composer.json
+test.php

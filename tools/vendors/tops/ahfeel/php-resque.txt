@@ -1,0 +1,13 @@
+bin/
+demo/
+extras/
+lib/
+test/
+.travis.yml
+CHANGELOG.md
+HOWITWORKS.md
+LICENSE
+README.md
+build.xml
+composer.json
+phpunit.xml

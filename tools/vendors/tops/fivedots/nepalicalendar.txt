@@ -1,0 +1,9 @@
+code_coverage/
+src/Fivedots/NepaliCalendar/
+tests/
+.gitignore
+.travis.yml
+README.md
+composer.json
+example.php
+phpunit.xml

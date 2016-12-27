@@ -1,0 +1,15 @@
+Classes/Resource/Rendering/
+Configuration/TypoScript/
+Documentation/
+Resources/Private/Language/
+Tests/
+.gitignore
+.travis.yml
+Changelog.md
+README.md
+composer.json
+ext_conf_template.txt
+ext_emconf.php
+ext_icon.png
+ext_localconf.php
+ext_tables.php

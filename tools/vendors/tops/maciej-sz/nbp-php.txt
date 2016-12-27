@@ -1,0 +1,10 @@
+src/MaciejSz/NbpPhp/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+behat.yml.dist
+composer.json
+composer.lock
+phpunit.xml.dist

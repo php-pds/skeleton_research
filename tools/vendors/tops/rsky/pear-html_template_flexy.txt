@@ -1,0 +1,8 @@
+HTML/Template/
+examples/
+tests/
+.gitignore
+ChangeLog
+TODO
+composer.json
+package.xml

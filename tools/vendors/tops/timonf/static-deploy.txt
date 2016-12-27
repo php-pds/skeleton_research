@@ -1,0 +1,6 @@
+bin/
+src/StaticDeploy/
+.gitignore
+LICENSE
+README.md
+composer.json

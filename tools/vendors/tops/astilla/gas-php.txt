@@ -1,0 +1,12 @@
+cron/
+examples/
+scripts/
+src/
+test/
+.gitignore
+CHANGELOG.md
+LICENSE
+README.md
+build.xml
+composer.json
+composer.lock

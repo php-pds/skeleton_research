@@ -1,0 +1,4 @@
+.DS_Store
+README.md
+composer.json
+ez-jwt.php

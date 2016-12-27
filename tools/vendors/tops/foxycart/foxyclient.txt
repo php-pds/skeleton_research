@@ -1,0 +1,5 @@
+src/Foxy/FoxyClient/
+.gitignore
+LICENSE
+README.md
+composer.json

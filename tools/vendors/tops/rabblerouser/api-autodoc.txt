@@ -1,0 +1,7 @@
+public/assets/
+resources/views/
+src/
+.gitignore
+LICENSE
+README.md
+composer.json

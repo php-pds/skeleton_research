@@ -1,0 +1,6 @@
+src/FastMigrate/
+tests/
+.gitignore
+codeception.yml
+composer.json
+readme.md

@@ -1,0 +1,7 @@
+app/models/
+logs/
+public/
+templates/
+.gitignore
+README.md
+composer.json

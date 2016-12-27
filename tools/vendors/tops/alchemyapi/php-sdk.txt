@@ -1,0 +1,7 @@
+.gitignore
+LICENSE
+README.md
+alchemyapi.php
+composer.json
+example.php
+tests.php

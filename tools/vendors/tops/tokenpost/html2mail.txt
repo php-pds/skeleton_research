@@ -1,0 +1,4 @@
+src/Html2Mail/
+LICENSE
+README.md
+composer.json

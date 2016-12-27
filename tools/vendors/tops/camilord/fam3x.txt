@@ -1,0 +1,7 @@
+.idea/
+lib/assets/img/
+.gitattributes
+.gitignore
+FamFamFam.php
+README.md
+composer.json

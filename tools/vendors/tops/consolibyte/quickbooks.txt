@@ -1,0 +1,12 @@
+QuickBooks/
+data/
+dev/
+docs/
+src/main/assembly/
+.gitattributes
+.gitignore
+LICENSE.TXT
+QuickBooks.php
+README.md
+composer.json
+pom.xml

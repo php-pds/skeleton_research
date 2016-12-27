@@ -1,0 +1,13 @@
+assets/
+controllers/
+migrations/
+models/
+views/
+widgets/
+.gitignore
+CallbackAssets.php
+LICENSE.md
+Module.php
+README.md
+composer.json
+desktop.ini

@@ -1,0 +1,7 @@
+GorHill/FineDiff/
+README
+composer.json
+sample_from.txt
+sample_to.txt
+viewdiff-ex.php
+viewdiff.php

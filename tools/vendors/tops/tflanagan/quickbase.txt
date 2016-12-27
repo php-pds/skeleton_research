@@ -1,0 +1,7 @@
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+quickbase.php

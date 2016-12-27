@@ -1,0 +1,9 @@
+Backtrace/
+Formatter/
+Output/
+Parser/
+Dumper.php
+LICENSE
+README.md
+composer.json
+dumperGlobalFunctions.php

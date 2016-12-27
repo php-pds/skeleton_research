@@ -1,0 +1,6 @@
+core/
+.gitignore
+LICENSE
+README.md
+composer.json
+kt_init.inc.php

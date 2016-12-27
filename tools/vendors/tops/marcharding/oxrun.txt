@@ -1,0 +1,12 @@
+bin/
+src/Oxrun/
+tests/
+.gitignore
+.travis.yml
+MIT-LICENSE.txt
+README.md
+build
+composer.json
+composer.lock
+oxrun.phar
+phpunit.xml

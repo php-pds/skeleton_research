@@ -1,0 +1,13 @@
+bin/
+docs/
+library/
+tests/
+.gitignore
+CHANGELOG.md
+LICENSE
+README.md
+build.xml
+composer.json
+composer.lock
+config-example.json
+phpunit.xml

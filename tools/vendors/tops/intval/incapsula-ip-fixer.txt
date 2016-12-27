@@ -1,0 +1,7 @@
+src/Intval/
+tests/
+.gitignore
+.travis.yml
+Readme.md
+composer.json
+phpunit.xml.dist

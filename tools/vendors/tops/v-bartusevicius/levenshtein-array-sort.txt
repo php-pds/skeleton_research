@@ -1,0 +1,7 @@
+src/VBartusevicius/Levenshtein/
+tests/VBartusevicius/Levenshtein/Tests/
+.gitignore
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

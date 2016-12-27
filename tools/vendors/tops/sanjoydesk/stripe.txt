@@ -1,0 +1,3 @@
+MyApp/Stripe/
+README.md
+composer.json

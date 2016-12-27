@@ -1,0 +1,11 @@
+src/
+tests/
+.gitignore
+.travis.yml
+Gemfile
+Gemfile.lock
+Guardfile
+LICENSE.txt
+README.md
+composer.json
+phpunit.xml

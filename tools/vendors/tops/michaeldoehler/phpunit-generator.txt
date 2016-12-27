@@ -1,0 +1,9 @@
+Resources/Template/
+example/
+src/
+.gitignore
+LICENSE
+Readme.md
+composer.json
+config.example.php
+phpunit-generator.php

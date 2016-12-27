@@ -1,0 +1,8 @@
+DependencyInjection/
+Resources/config/
+Services/
+.gitignore
+LICENSE.txt
+README.md
+UdpNotifierBundle.php
+composer.json

@@ -1,0 +1,11 @@
+samples/
+src/RedPacket/
+tests/RedPacket/
+vendor/
+.gitignore
+CHANGELOG.md
+LICENSE.md
+README.md
+autoload.php
+composer.json
+phpunit.xml

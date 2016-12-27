@@ -1,0 +1,4 @@
+lib/GravityRD/
+.gitignore
+README.md
+composer.json

@@ -1,0 +1,7 @@
+.gitignore
+LICENSE.md
+README.md
+WebFontKit.php
+WebFontOpenSansAsset.php
+WebFontRobotoAsset.php
+composer.json

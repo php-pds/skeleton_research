@@ -1,0 +1,8 @@
+core/
+migrations/
+Bootstrap.php
+LICENSE
+README.md
+composer.json
+definitions.php
+hooks.php

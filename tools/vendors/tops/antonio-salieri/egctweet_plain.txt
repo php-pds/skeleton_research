@@ -1,0 +1,12 @@
+Application/
+config/
+data/
+public/
+vendor/
+view/
+.gitignore
+LICENSE
+Procfile
+README.md
+composer.json
+init_autoloader.php

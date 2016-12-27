@@ -1,0 +1,15 @@
+extension/
+php/
+src/
+.gitattributes
+.gitignore
+.travis.yml
+CHANGELOG.txt
+LICENCE.txt
+README.md
+README.txt
+composer.json
+gulpfile.js
+logo.png
+package.json
+w.min.js

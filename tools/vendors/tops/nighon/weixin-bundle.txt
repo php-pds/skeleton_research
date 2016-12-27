@@ -1,0 +1,17 @@
+Command/
+Controller/
+DependencyInjection/
+Entity/
+Event/
+Model/
+Request/
+Resources/
+Response/
+Tests/Controller/
+Util/
+.gitignore
+LICENSE
+NighonWeixinBundle.php
+NighonWeixinEvents.php
+README.md
+composer.json

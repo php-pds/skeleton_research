@@ -1,0 +1,14 @@
+app/
+bootstrap/
+config/
+database/
+public/
+resources/
+storage/
+.gitattributes
+.gitignore
+README.markdown
+artisan
+composer.json
+phpspec.yml
+server.php

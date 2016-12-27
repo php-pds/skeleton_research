@@ -1,0 +1,15 @@
+Config/
+Console/
+Controller/
+Model/
+Test/Case/
+View/
+tmp/
+webroot/
+.gitignore
+.htaccess
+README.md
+Vagrantfile
+bootstrap.sh
+composer.json
+index.php

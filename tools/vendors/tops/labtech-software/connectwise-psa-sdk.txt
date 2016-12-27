@@ -1,0 +1,10 @@
+docs/soap/
+src/LabtechSoftware/ConnectwisePsaSdk/
+tests/ConnectWise/
+.gitignore
+.travis.yml
+README.md
+bootstrap.php
+composer.json
+integrationTest.sh
+phpunit.xml

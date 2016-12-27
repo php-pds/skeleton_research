@@ -1,0 +1,13 @@
+Api/Data/
+Block/Adminhtml/
+Controller/Adminhtml/
+Model/
+Setup/
+Ui/Component/Listing/Column/
+etc/
+view/adminhtml/
+.gitignore
+README.md
+composer.json
+desktop.ini
+registration.php

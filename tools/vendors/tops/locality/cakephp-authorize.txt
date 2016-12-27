@@ -1,0 +1,6 @@
+Controller/Component/Auth/
+.gitignore
+LICENSE.txt
+README.md
+VERSION.txt
+composer.json

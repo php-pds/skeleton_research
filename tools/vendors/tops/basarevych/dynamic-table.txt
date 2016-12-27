@@ -1,0 +1,11 @@
+dist/
+docs/
+node/
+php/DynamicTable/
+src/
+work/
+.gitignore
+LICENSE
+README.md
+composer.json
+package.json

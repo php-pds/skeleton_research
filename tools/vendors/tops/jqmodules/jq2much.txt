@@ -1,0 +1,5 @@
+bower.json
+composer.json
+jq2much.js
+module.json
+module.properties

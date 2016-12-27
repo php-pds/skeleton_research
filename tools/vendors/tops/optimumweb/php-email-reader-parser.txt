@@ -1,0 +1,7 @@
+Mail/
+.gitignore
+LICENCE
+README.md
+composer.json
+email_parser.php
+email_reader.php

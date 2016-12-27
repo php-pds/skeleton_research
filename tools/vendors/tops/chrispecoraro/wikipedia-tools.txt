@@ -1,0 +1,9 @@
+src/Chrispecoraro/WikipediaTools/
+tests/
+wikipedia-tools
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml

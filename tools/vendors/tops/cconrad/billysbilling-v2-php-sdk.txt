@@ -1,0 +1,9 @@
+.dev/
+src/ClausConrad/BillysBilling/
+tests/
+.gitignore
+BillysBilling.iml
+LICENSE
+README
+composer.json
+composer.lock

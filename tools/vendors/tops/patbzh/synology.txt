@@ -1,0 +1,5 @@
+Patbzh/SynologyBundle/
+.gitignore
+LICENSE
+README.md
+composer.json

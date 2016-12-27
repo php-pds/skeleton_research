@@ -1,0 +1,6 @@
+src/Spider/
+.gitignore
+LICENSE
+README.mdown
+composer.json
+composer.lock

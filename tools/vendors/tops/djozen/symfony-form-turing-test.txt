@@ -1,0 +1,4 @@
+src/TuringTest/
+.gitignore
+README.md
+composer.json

@@ -1,0 +1,5 @@
+development/
+distribution/
+documentation/
+README.md
+composer.json

@@ -1,0 +1,6 @@
+library/ZendA/
+tests/
+.gitignore
+ChangeLog.markdown
+README.markdown
+composer.json

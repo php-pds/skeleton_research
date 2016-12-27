@@ -1,0 +1,7 @@
+src/
+test/js/
+.gitignore
+README.md
+composer.json
+modman
+screenshot.png

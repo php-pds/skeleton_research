@@ -1,0 +1,13 @@
+src/
+tests/
+.coveralls.yml
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+phpdoc.xml
+phpunit.xml.dist
+sonar-project.properties

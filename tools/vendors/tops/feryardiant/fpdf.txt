@@ -1,0 +1,12 @@
+bin/
+docs/
+samples/
+src/
+tests/
+.editorconfig
+.gitattributes
+.gitignore
+.travis.yml
+composer.json
+license.txt
+readme.md

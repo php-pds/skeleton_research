@@ -1,0 +1,5 @@
+examples/
+lib/ScaleDrone/
+.gitignore
+README.md
+composer.json

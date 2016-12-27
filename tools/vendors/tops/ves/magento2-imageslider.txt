@@ -1,0 +1,10 @@
+Block/
+Controller/Adminhtml/Widget/
+Helper/
+Model/Config/Source/
+etc/
+i18n/
+view/
+README.md
+composer.json
+registration.php

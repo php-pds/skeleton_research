@@ -1,0 +1,5 @@
+CodeItNow/BarcodeBundle/
+.gitignore
+LICENSE
+README.md
+composer.json

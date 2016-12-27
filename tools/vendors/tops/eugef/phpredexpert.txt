@@ -1,0 +1,12 @@
+app/
+src/Eugef/PhpRedExpert/
+tools/
+web/
+.gitattributes
+.gitignore
+CONTRIBUTING.md
+LICENSE
+README.md
+Vagrantfile
+composer.json
+composer.lock

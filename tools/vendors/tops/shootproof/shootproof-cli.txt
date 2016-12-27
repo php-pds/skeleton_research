@@ -1,0 +1,13 @@
+bin/
+src/
+tests/
+.gitattributes
+.gitignore
+.shootproof-sample
+.travis.yml
+CONTRIBUTING.md
+LICENSE
+README.md
+build.php
+composer.json
+phpunit.xml.dist

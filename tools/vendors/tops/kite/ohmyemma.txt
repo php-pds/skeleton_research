@@ -1,0 +1,7 @@
+Source/Kite/OhMyEmma/
+Tests/
+.gitignore
+README.md
+composer.json
+emma_config.php
+phpunit.xml.dist

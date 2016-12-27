@@ -1,0 +1,11 @@
+Console/Command/
+Helper/Product/
+Model/
+Plugin/Model/Catalog/Product/
+Setup/
+etc/
+.gitignore
+LICENSE
+README.md
+composer.json
+registration.php

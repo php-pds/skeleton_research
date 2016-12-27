@@ -1,0 +1,10 @@
+src/Pex/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+phpcs.xml
+phpunit.xml.dist

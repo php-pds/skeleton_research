@@ -1,0 +1,7 @@
+assets/
+.gitignore
+LICENSE
+ModalForm.php
+ModalFormAsset.php
+README.md
+composer.json

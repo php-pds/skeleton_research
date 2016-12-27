@@ -1,0 +1,17 @@
+extlib/
+htdocs/
+scripts/
+.gitignore
+AUTHORS
+CHANGES
+ChangeLog
+INSTALL
+NEWS
+README.markdown
+TROUBLESHOOTING
+composer.json
+cookbook
+rss_cache.inc
+rss_fetch.inc
+rss_parse.inc
+rss_utils.inc

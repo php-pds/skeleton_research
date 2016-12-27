@@ -1,0 +1,9 @@
+src/Yaim/Mitter/
+tests/
+.gitignore
+.travis.yml
+CONTRIBUTING.md
+LICENSE.txt
+composer.json
+phpunit.xml
+readme.md

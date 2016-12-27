@@ -1,0 +1,4 @@
+AwsSdk.php
+LICENSE
+README.md
+composer.json

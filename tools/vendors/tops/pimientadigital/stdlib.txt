@@ -1,0 +1,15 @@
+bin/
+provision/
+src/Stdlib/
+tests/
+.gitignore
+.mailmap
+.travis.yml
+CHANGELOG.md
+Gemfile
+LICENSE.md
+Puppetfile
+README.md
+Vagrantfile
+composer.json
+composer.phar

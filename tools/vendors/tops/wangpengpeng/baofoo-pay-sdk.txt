@@ -1,0 +1,5 @@
+baofoo/
+config/
+demo/
+README.md
+composer.json

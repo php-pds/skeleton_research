@@ -1,0 +1,10 @@
+components/
+config/
+console/
+controllers/
+installer/
+views/
+LICENSE.md
+Module.php
+README.md
+composer.json

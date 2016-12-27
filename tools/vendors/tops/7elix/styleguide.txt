@@ -1,0 +1,17 @@
+Classes/
+Configuration/TCA/
+Documentation/
+Resources/
+Tests/
+.editorconfig
+.gitignore
+.travis.yml
+Gruntfile.js
+README.md
+composer.json
+ext_conf_template.txt
+ext_emconf.php
+ext_localconf.php
+ext_tables.php
+ext_tables.sql
+package.json

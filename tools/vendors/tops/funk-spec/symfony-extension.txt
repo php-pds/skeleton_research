@@ -1,0 +1,4 @@
+src/FunkSpec/Extension/Symfony/
+.gitignore
+README.md
+composer.json

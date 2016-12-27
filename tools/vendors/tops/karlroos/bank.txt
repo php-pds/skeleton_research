@@ -1,0 +1,4 @@
+src/KarlRoos/Bank/
+.gitignore
+README.md
+composer.json

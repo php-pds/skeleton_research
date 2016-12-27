@@ -1,0 +1,9 @@
+Controller/
+Model/
+Vendor/
+View/Cakedesktop/
+tmp/
+.gitignore
+LICENSE
+README.md
+composer.json

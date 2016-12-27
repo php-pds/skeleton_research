@@ -1,0 +1,6 @@
+docs/
+src/
+LICENSE
+apigen.yml
+composer.json
+readme.md

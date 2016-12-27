@@ -1,0 +1,11 @@
+layouts/
+lib/ShrimPHP/
+modules/main/
+tests/
+.htaccess
+.travis.yml
+README.md
+composer.json
+config.php
+index.php
+phpunit.xml

@@ -1,0 +1,7 @@
+codeigniter/
+src/Web/
+tests/
+.travis.yml
+README.md
+composer.json
+phpunit_mysql.xml

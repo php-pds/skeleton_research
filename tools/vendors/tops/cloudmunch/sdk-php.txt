@@ -1,0 +1,7 @@
+PHPSDK_HelloWorld_plugin/
+docs/
+src/CloudMunch/
+test/
+README.md
+composer.json
+sonar-project.properties

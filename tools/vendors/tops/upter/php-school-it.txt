@@ -1,0 +1,5 @@
+02.Lezione/
+05.Lezione/
+.gitignore
+README.md
+composer.json

@@ -1,0 +1,10 @@
+app/
+config/
+modules/
+plugins/
+public/
+tmp/template/
+view/
+.env
+.gitignore
+composer.json

@@ -1,0 +1,9 @@
+hamcrest-php/
+tests/
+HamcrestTypeBridge.php
+HamcrestTypeBridge_Globals.php
+Phockito.php
+PhockitoSilverStripe.php
+Phockito_Globals.php
+README.md
+composer.json

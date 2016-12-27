@@ -1,0 +1,7 @@
+assets/
+src/WpDebugBar/
+.gitignore
+CHANGELOG.md
+README.md
+bootstrap.php
+composer.json

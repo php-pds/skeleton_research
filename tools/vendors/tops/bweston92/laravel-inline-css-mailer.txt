@@ -1,0 +1,8 @@
+CssCapture/
+.editorconfig
+.gitignore
+CssInlineMailer.php
+LICENSE
+README.md
+composer.json
+examples.php

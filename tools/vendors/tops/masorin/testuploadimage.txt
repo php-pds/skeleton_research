@@ -1,0 +1,5 @@
+public/img/
+src/Lib/
+test/src/Lib/Model/
+README.md
+composer.json

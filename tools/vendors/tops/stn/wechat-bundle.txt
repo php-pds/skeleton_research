@@ -1,0 +1,7 @@
+DependencyInjection/
+Resources/config/
+.gitignore
+LICENSE
+StnWechatBundle.php
+composer.json
+phpunit.xml.dist

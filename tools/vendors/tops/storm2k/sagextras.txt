@@ -1,0 +1,8 @@
+modules/
+.editorconfig
+CONTRIBUTING.md
+LICENSE.md
+README.md
+composer.json
+ruleset.xml
+sagextras.php

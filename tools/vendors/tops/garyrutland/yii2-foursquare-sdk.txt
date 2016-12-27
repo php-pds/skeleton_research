@@ -1,0 +1,5 @@
+.gitignore
+Foursquare.php
+LICENSE
+README.md
+composer.json

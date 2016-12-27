@@ -1,0 +1,5 @@
+Tests/
+src/D3J/
+LICENSE
+README.md
+composer.json

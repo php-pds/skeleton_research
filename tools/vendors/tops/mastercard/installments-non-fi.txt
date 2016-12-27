@@ -1,0 +1,6 @@
+MasterCard/Api/InstallmentsNonFi/
+.gitignore
+README.md
+composer.json
+mastercard-installments-non-fi-0.0.2.zip
+phpunit.xml

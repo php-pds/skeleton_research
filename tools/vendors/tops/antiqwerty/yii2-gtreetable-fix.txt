@@ -1,0 +1,10 @@
+actions/
+assets/
+messages/pl/
+models/
+views/
+LICENSE
+README.md
+README_pl.md
+Widget.php
+composer.json

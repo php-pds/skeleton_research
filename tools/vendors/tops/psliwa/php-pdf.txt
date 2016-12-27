@@ -1,0 +1,11 @@
+examples/
+lib/
+tests/
+.gitattributes
+.gitignore
+.travis.yml
+CHANGELOG.markdown
+LICENSE
+README.markdown
+composer.json
+vendors.php

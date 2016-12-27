@@ -1,0 +1,14 @@
+.gitignore
+Event.php
+EventCollector.php
+EventDispatcher.php
+EventException.php
+EventListener.php
+EventListenerException.php
+EventNameException.php
+EventNotFoundException.php
+LICENSE
+README.md
+SubscriberInterface.php
+composer.json
+index.php

@@ -1,0 +1,12 @@
+core/
+languages/
+plugins/
+themes/
+LICENSE
+README.md
+composer.json
+fruit.php
+fruit_ajax.php
+fruit_config.php
+fruit_db.php
+functions.php

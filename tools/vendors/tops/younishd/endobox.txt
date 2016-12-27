@@ -1,0 +1,9 @@
+doc/
+src/endobox/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock

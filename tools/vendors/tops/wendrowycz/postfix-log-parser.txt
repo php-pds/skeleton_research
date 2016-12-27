@@ -1,0 +1,5 @@
+src/Postfix/Log/
+tests/
+.gitignore
+README.md
+composer.json

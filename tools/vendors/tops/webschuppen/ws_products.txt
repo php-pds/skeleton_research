@@ -1,0 +1,14 @@
+.idea/
+Classes/
+Configuration/
+Documentation.tmpl/
+Resources/
+Tests/Unit/
+.gitignore
+ExtensionBuilder.json
+composer.json
+ext_emconf.php
+ext_icon.gif
+ext_localconf.php
+ext_tables.php
+ext_tables.sql

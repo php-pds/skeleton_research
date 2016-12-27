@@ -1,0 +1,7 @@
+docs/
+example/
+src/Morpheus/
+.gitignore
+LICENSE
+README.md
+composer.json

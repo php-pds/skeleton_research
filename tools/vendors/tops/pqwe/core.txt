@@ -1,0 +1,6 @@
+bin/
+src/pqwe/
+.gitignore
+LICENSE
+README.md
+composer.json

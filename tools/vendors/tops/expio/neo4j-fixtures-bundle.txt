@@ -1,0 +1,7 @@
+Command/
+Resources/doc/
+ExpioNeo4jFixturesBundle.php
+LICENSE
+README.markdown
+composer.json
+phpunit.xml.dist

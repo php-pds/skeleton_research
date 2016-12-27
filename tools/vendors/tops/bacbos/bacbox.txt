@@ -1,0 +1,7 @@
+src/bacbox/
+.gitignore
+.htaccess
+BACBOX_AUTHOR
+BACBOX_LICENSE
+README.md
+composer.json

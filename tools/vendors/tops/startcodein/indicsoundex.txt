@@ -1,0 +1,9 @@
+src/Startcode/IndicSoundex/
+tests/
+.gitignore
+LICENSE
+README.md
+bootstrap.php
+composer.json
+phpunit.xml
+soundex.php

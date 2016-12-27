@@ -1,0 +1,10 @@
+Guide/
+src/
+tests/src/
+.gitignore
+CHANGELOG.md
+LICENSE
+README.md
+composer.json
+index.php
+phpunit.xml

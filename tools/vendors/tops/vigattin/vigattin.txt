@@ -1,0 +1,8 @@
+config/
+entity/Vigattin/Entity/
+library/Vigattin/
+tests/
+LICENSE
+README.md
+cli-config.php
+composer.json

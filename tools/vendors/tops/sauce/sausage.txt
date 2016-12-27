@@ -1,0 +1,16 @@
+bin/
+src/Sauce/Sausage/
+tests/
+.gitignore
+.travis.yml
+LICENSE.APACHE2
+MobileDemo.php
+README.md
+SeleniumRCDemo.php
+WebDriverDemo.php
+WebDriverDemoShootout.php
+WebDriverFileUploadDemo.php
+WebDriverNologinLinkDemo.php
+composer.json
+kirk.jpg
+sauce_api_test.php

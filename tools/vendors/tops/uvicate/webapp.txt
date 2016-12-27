@@ -1,0 +1,8 @@
+demo/
+App.class.js
+LICENSE
+README.md
+bower.json
+composer.json
+setup.json
+setup.py

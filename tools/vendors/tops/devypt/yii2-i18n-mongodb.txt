@@ -1,0 +1,8 @@
+models/
+.gitignore
+LICENSE
+Message.php
+MessageManager.php
+MongoDbMessageSource.php
+README.md
+composer.json

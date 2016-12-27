@@ -1,0 +1,8 @@
+cli/tasks/
+docs/
+src/PhalconExt/
+tests/
+.gitignore
+README.md
+codeception.yml
+composer.json

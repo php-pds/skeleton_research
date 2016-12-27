@@ -1,0 +1,13 @@
+DependencyInjection/
+DineshBarcode/
+Generator/
+Resources/
+Tests/
+Twig/Extensions/
+Type/
+barcode-bundle
+CibincassoBarcodeBundle.php
+README.md
+composer.json
+composer.json~
+phpunit.xml.dist

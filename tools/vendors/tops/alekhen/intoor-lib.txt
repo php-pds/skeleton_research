@@ -1,0 +1,14 @@
+api/
+classes/
+images/
+inc/email/
+js/
+views/
+.gitignore
+LICENSE
+README.md
+composer.json
+config-sample.php
+load.php
+paths.php
+theme-sample.php

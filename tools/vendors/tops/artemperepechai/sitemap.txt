@@ -1,0 +1,9 @@
+tests/
+.gitignore
+.travis.yml
+Index.php
+LICENSE
+README.md
+Sitemap.php
+composer.json
+phpunit.xml.dist

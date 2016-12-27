@@ -1,0 +1,7 @@
+src/Jackpopp/GeoDistance/
+tests/
+.gitignore
+LICENSE
+codeception.yml
+composer.json
+readme.md

@@ -1,0 +1,15 @@
+DependencyInjection/
+Exception/
+Extension/
+Helper/
+Model/
+Resources/
+Tests/
+.gitignore
+.travis.yml
+Analytics.php
+README.md
+StregoGoogleBundle.php
+TrackerFactory.php
+composer.json
+phpunit.xml.dist

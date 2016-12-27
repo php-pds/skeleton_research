@@ -1,0 +1,13 @@
+bin/
+scripts/
+src/
+.gitattributes
+.gitignore
+.travis.yml
+DEVELOPMENT.md
+LICENSE.txt
+README.md
+box.json
+composer.json
+phpunit.xml.dist
+rulset.xml

@@ -1,0 +1,5 @@
+bin/
+lib/
+views/errors/
+README.md
+composer.json

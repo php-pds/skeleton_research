@@ -1,0 +1,8 @@
+src/Imos/DomainRedirector/
+tests/Imos/DomainRedirector/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,12 @@
+plugin-template/
+scripts/
+src/OceanInternet/WpPluginFramework/
+templates/
+vendor/
+.gitignore
+LICENSE.md
+README.md
+bootstrap.php
+composer.json
+index.php
+oisFunctions.php

@@ -1,0 +1,12 @@
+assets/
+src/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+gulpfile.js
+package.json
+phpunit.xml

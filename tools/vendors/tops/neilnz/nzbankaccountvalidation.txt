@@ -1,0 +1,8 @@
+scripts/
+src/NeilNZ/NZBankAccountValidation/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json

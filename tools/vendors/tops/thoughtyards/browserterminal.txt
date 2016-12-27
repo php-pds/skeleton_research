@@ -1,0 +1,17 @@
+app/
+docs/
+src/TerminalKit/Payroll/
+var/
+vendor/
+web-boot/
+.htaccess
+READ.ME
+README.txt
+booting.yml
+composer.json
+composer.lock
+composer.phar
+console.php
+execute
+execute.bat
+index.php

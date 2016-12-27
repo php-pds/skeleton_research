@@ -1,0 +1,8 @@
+src/o80/
+tests/o80/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock

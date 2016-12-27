@@ -1,0 +1,5 @@
+Model/
+etc/
+view/frontend/
+composer.json
+registration.php

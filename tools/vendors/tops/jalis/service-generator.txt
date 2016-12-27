@@ -1,0 +1,9 @@
+Command/
+DependencyInjection/
+Resources/
+Tests/
+.travis.yml
+JalisServiceGeneratorBundle.php
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,11 @@
+bin/
+src/
+var/
+.env.example
+.gitignore
+composer.json
+composer.lock
+config.php
+helpers.php
+readme.md
+teste.php

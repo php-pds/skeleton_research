@@ -1,0 +1,7 @@
+src/USPC/Feeds/
+tests/
+.gitignore
+README.md
+composer.json
+composer.lock
+contributors.txt

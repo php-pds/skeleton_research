@@ -1,0 +1,5 @@
+src/Amqp/Silex/
+.gitignore
+LICENSE
+README.md
+composer.json

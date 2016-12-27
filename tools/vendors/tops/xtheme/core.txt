@@ -1,0 +1,10 @@
+sites/demo/
+src/
+test/
+themes/demo/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml

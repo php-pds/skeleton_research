@@ -1,0 +1,8 @@
+core/
+extensions/
+migration/
+modules/
+tests/
+tools/
+README.md
+composer.json

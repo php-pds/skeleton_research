@@ -1,0 +1,10 @@
+examples/
+tests/
+.gitignore
+.travis.yml
+ChangeLog.txt
+License.txt
+Makefile
+README.md
+composer.json
+parsecsv.lib.php

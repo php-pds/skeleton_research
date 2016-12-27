@@ -1,0 +1,15 @@
+build/
+client/
+config/
+lib/
+php/
+test/
+.coveralls.yml
+.editorconfig
+.gitignore
+.travis.yml
+README.md
+behat.yml
+build.xml
+composer.json
+composer.lock

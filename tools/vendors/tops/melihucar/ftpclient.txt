@@ -1,0 +1,5 @@
+api/
+src/Melihucar/FtpClient/
+LICENSE.md
+README.md
+composer.json

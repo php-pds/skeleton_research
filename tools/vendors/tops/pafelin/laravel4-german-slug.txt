@@ -1,0 +1,7 @@
+src/Pafelin/Laravel4GermanSlug/
+tests/
+.gitignore
+.travis.yml
+README.md
+composer.json
+phpunit.xml

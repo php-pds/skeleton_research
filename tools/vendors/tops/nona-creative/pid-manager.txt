@@ -1,0 +1,5 @@
+src/Nona/PidManager/
+.gitignore
+README.md
+composer.json
+composer.lock

@@ -1,0 +1,6 @@
+config/
+src/MyProject/Controller/
+tests/
+webroot/
+README.md
+composer.json

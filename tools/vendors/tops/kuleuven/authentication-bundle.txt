@@ -1,0 +1,14 @@
+Collector/
+Compiler/
+Controller/
+DependencyInjection/
+Model/
+Resources/
+Security/
+Service/
+Traits/
+Twig/
+.gitignore
+KuleuvenAuthenticationBundle.php
+README.md
+composer.json

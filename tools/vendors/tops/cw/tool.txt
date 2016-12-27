@@ -1,0 +1,17 @@
+assets/
+docs/
+includes/
+javascript/
+src/CW/
+tests/
+.gitignore
+.travis.yml
+Doxygen
+README.md
+composer.json
+composer.lock
+cw_tool.api.php
+cw_tool.drush.inc
+cw_tool.info
+cw_tool.module
+phpunit.xml

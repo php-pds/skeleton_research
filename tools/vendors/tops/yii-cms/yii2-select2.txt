@@ -1,0 +1,5 @@
+.gitignore
+README.md
+Select2.php
+Select2Asset.php
+composer.json

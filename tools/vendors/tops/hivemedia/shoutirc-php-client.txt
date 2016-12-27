@@ -1,0 +1,5 @@
+src/ShoutIrc/
+.gitignore
+LICENSE
+README.md
+composer.json

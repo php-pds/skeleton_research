@@ -1,0 +1,5 @@
+bash/
+php/Convert/String/
+.gitignore
+README.md
+composer.json

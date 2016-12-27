@@ -1,0 +1,11 @@
+bin/
+source/
+test/Bulk/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.en.md
+README.md
+composer.json
+phpunit.xml.dist

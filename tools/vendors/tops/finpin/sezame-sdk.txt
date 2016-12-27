@@ -1,0 +1,7 @@
+examples/
+src/SezameLib/
+support/
+.gitignore
+LICENSE
+README.md
+composer.json

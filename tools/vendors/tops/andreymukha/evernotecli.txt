@@ -1,0 +1,6 @@
+Documentation/
+classes/
+.gitignore
+Autoloader.php
+README.md
+composer.json

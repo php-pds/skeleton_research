@@ -1,0 +1,3 @@
+src/Equi/Opengeodb/
+composer.json
+readme.md

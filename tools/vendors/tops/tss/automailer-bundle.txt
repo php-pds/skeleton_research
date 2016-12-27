@@ -1,0 +1,13 @@
+Command/
+Controller/
+DefaultDocument/
+DefaultEntity/
+DependencyInjection/
+Form/
+Library/
+Model/
+Resources/
+Tests/Controller/
+README.md
+TSSAutomailerBundle.php
+composer.json

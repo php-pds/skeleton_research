@@ -1,0 +1,5 @@
+src/Ford/
+.gitignore
+LICENSE
+README.md
+composer.json

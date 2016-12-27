@@ -1,0 +1,7 @@
+examples/
+src/Verotel/FlexPay/
+tests/
+.travis.yml
+FlexPay.php
+README.md
+composer.json

@@ -1,0 +1,5 @@
+src/ChipChap/
+.gitignore
+README.md
+composer.json
+composer.lock

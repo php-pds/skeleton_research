@@ -1,0 +1,7 @@
+images/
+libraries/TeamSpeak3/
+.gitignore
+CHANGELOG
+LICENSE
+README.md
+composer.json

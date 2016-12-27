@@ -1,0 +1,15 @@
+build/logs/
+example/
+src/
+tests/
+.codeclimate.yml
+.editorconfig
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+codeclimate.sh
+composer.json
+composer.lock
+phpunit.xml

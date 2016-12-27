@@ -1,0 +1,4 @@
+OpenWeatherMap/
+.gitattributes
+README.md
+composer.json

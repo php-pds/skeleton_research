@@ -1,0 +1,9 @@
+Block/Adminhtml/Connect/
+Controller/Adminhtml/Connect/
+Setup/
+etc/
+view/adminhtml/
+LICENSE.txt
+README.md
+composer.json
+registration.php

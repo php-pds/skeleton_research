@@ -1,0 +1,12 @@
+doc/
+install/
+lib/
+phpunit/
+.editorconfig
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+make_phpdoc.sh
+phpdoc.xml

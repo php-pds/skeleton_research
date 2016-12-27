@@ -1,0 +1,8 @@
+assets/
+controllers/
+views/
+.gitignore
+Module.php
+OnixAsset.php
+README.md
+composer.json

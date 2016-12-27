@@ -1,0 +1,14 @@
+assets/
+classes/
+config/
+dca/
+languages/de/
+models/
+modules/
+templates/
+HOOKS.md
+LICENSE
+MANUAL.md
+README.md
+ROADMAP.md
+composer.json

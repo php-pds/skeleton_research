@@ -1,0 +1,3 @@
+src/GifFrameExtractor/
+README.md
+composer.json

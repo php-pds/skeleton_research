@@ -1,0 +1,5 @@
+src/PHPExcelReader/
+README.md
+composer.json
+example.php
+example.xls

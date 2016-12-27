@@ -1,0 +1,13 @@
+app/
+config/
+module/
+public/
+static/
+theme/default/
+.htaccess
+README.md
+bootstrap.php
+composer.json
+config.php
+index.php
+setup.php

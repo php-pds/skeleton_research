@@ -1,0 +1,8 @@
+src/Ifsnop/
+.gitignore
+AUTHORS
+CHANGELOG
+COPYING
+LICENCE
+README.md
+composer.json

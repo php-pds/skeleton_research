@@ -1,0 +1,7 @@
+src/Intrepidity/LicensePlate/
+tests/
+.gitignore
+.travis.yml
+composer.json
+phpunit.xml.dist
+readme.md

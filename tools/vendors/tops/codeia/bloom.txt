@@ -1,0 +1,7 @@
+demo/
+dist/
+src/
+tests/
+.gitignore
+LICENSE
+composer.json

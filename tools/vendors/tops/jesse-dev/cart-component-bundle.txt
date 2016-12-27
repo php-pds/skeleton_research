@@ -1,0 +1,6 @@
+CartComponent/
+DependencyInjection/
+Resources/config/
+JesseDevCartComponentBundle.php
+README.md
+composer.json

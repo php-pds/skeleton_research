@@ -1,0 +1,7 @@
+src/ITC/
+tests/
+.gitignore
+.gitlab-ci.yml
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,5 @@
+Command/
+DependencyInjection/
+README.md
+W3docsLogViewerBundle.php
+composer.json

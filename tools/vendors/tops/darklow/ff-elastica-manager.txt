@@ -1,0 +1,8 @@
+example/
+src/FF/ElasticaManager/
+tests/
+.gitignore
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

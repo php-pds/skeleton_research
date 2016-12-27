@@ -1,0 +1,6 @@
+Core/
+Tests/
+README.md
+Sifter.php
+composer.json
+phpunit.xml.dist

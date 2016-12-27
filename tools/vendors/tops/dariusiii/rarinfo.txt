@@ -1,0 +1,15 @@
+tests/
+.gitignore
+ArchiveInfo.php
+ArchiveReader.php
+Par2Info.php
+PipeReader.php
+README.md
+RarInfo.php
+SfvInfo.php
+SrrInfo.php
+SzipInfo.php
+ZipInfo.php
+composer.json
+composer.lock
+phpunit.xml.dist

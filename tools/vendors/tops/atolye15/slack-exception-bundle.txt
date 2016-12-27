@@ -1,0 +1,9 @@
+DependencyInjection/
+EventListener/
+Exception/
+Resources/
+Service/
+Util/
+Atolye15SlackExceptionBundle.php
+README.md
+composer.json

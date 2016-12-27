@@ -1,0 +1,9 @@
+bin/
+tests/
+.gitignore
+README.md
+circle.yml
+composer.json
+custom-caps.php
+phpcs.xml
+phpunit.xml

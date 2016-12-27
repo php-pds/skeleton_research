@@ -1,0 +1,4 @@
+Configuration/
+Resources/Private/TypoScript/
+README.md
+composer.json

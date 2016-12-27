@@ -1,0 +1,10 @@
+bin/
+lib/Doctrine/ORM/ODMAdapter/
+tests/
+.gitignore
+.travis.yml
+CHANLOG.md
+README.md
+cli-config.doctrine_dbal.php.dist
+composer.json
+doctrine-orm-odm-adapter-mapping.xsd

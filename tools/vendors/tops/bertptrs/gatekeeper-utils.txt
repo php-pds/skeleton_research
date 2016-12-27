@@ -1,0 +1,9 @@
+src/
+tests/commands/
+.gitignore
+.php_cs
+LICENSE
+README.md
+composer.json
+grumphp.yml
+phpunit.xml

@@ -1,0 +1,5 @@
+src/PureMachine/Bundle/WebServiceBundle/
+.gitignore
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,7 @@
+sql/
+src/Prefs/
+tests/
+.gitignore
+README.md
+composer.json
+phpunit.xml

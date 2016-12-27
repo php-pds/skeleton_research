@@ -1,0 +1,6 @@
+demo/
+src/SLT/GoogleAuthenticator/
+.gitignore
+LICENSE.md
+README.md
+composer.json

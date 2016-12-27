@@ -1,0 +1,8 @@
+docu/
+example/
+src/PHPpayments/
+.gitignore
+CHANGELOG
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,9 @@
+bin/
+tests/
+.gitignore
+README.md
+circle.yml
+composer.json
+phpcs.xml
+phpunit.xml
+wp-cli-schema.php

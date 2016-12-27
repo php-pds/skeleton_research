@@ -1,0 +1,13 @@
+docs/
+example/
+src/Jentin/
+test/
+.gitattributes
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+installDefaultApp.php
+phpunit.xml.dist

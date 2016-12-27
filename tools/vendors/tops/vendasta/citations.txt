@@ -1,0 +1,8 @@
+example/
+src/
+.gitignore
+Dockerfile
+README.md
+citations.proto
+composer.json
+php.ini

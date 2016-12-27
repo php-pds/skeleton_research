@@ -1,0 +1,6 @@
+src/
+LICENSE.md
+README.md
+UPGRADE.md
+composer.json
+yuicompressor-2.4.8.jar

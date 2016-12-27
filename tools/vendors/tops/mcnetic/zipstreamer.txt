@@ -1,0 +1,7 @@
+src/
+test/
+.travis.yml
+COPYING
+MANUAL.md
+README.md
+composer.json

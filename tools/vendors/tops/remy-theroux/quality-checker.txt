@@ -1,0 +1,16 @@
+bin/
+config/
+logs/
+spec/QualityChecker/Task/Configuration/
+src/
+unit/
+.gitignore
+.phpspec.yml
+.qualitychecker.yml
+.qualitychecker.yml.dist
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml

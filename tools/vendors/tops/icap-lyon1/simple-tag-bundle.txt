@@ -1,0 +1,13 @@
+DependencyInjection/
+Entity/
+Exception/
+Form/
+Repository/
+Resources/
+Service/
+Tests/
+Twig/
+ICAPLyon1SimpleTagBundle.php
+README.md
+composer.json
+phpunit.xml.dist

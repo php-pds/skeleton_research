@@ -1,0 +1,16 @@
+assets/
+install/
+min/
+protected/
+themes/design/
+yii/framework/
+.htaccess
+README.md
+cigarrita
+cigarrita-logo-pet.png
+cigarrita-logo.png
+cigarrita-pet.min.jpg
+cigarrita_cronjob.php
+composer.json
+favicon.ico
+index.php

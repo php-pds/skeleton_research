@@ -1,0 +1,4 @@
+src/Filecached/
+LICENSE
+README.md
+composer.json

@@ -1,0 +1,7 @@
+src/Jacksay/PhpFileExtension/
+test/Jacksay/PhpFileExtension/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock

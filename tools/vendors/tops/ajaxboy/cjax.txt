@@ -1,0 +1,6 @@
+cjax/
+examples/
+response/
+README.md
+ajax.php
+htaccess.txt

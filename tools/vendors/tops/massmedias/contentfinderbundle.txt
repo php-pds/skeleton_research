@@ -1,0 +1,8 @@
+Command/
+DependencyInjection/
+Resources/
+Services/
+Tests/
+README.md
+composer.json
+linux0uidContentFinderBundle.php

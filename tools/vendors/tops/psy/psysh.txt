@@ -1,0 +1,13 @@
+bin/
+src/Psy/
+test/
+.editorconfig
+.gitignore
+.php_cs
+.styleci.yml
+.travis.yml
+CONTRIBUTING.md
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

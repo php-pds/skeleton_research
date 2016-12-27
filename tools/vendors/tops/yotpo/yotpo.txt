@@ -1,0 +1,11 @@
+src/Yotpo/
+tests/
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENSE.txt
+README.md
+bootstrap.php
+build
+composer.json
+yotpo.phar

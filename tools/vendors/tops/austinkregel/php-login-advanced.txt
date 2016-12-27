@@ -1,0 +1,17 @@
+_installation/
+classes/
+config/
+libraries/
+tests/Module/
+tools/
+translations/
+views/
+.gitignore
+.travis.yml
+CHANGELOG.md
+README.md
+TODO.md
+composer.json
+index.php
+phpunit.php
+phpunit.xml

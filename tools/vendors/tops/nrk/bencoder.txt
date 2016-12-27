@@ -1,0 +1,9 @@
+examples/
+lib/Bencoder/
+tests/
+LICENSE
+README.md
+VERSION
+autoload.php
+composer.json
+phpunit.xml.dist

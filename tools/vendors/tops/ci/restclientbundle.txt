@@ -1,0 +1,15 @@
+DependencyInjection/
+Exceptions/
+Parsers/
+Resources/config/
+Services/
+Tests/
+Traits/
+Types/
+.gitignore
+CircleRestClientBundle.php
+LICENSE
+Makefile
+README.md
+composer.json
+phpunit.xml

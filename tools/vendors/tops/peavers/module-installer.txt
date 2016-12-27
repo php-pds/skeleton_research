@@ -1,0 +1,6 @@
+.editorconfig
+.gitattributes
+.gitignore
+assets-database.sspak
+composer.json
+readme.md

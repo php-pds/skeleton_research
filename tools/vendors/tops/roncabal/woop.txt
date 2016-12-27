@@ -1,0 +1,14 @@
+app/
+bootstrap/
+config/
+public/
+resources/views/
+storage/
+.env.example
+.gitignore
+.htaccess
+.wp-config.php
+Vagrantfile
+composer.json
+composer.lock
+readme.md

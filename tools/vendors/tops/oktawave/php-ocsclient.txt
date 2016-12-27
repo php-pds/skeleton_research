@@ -1,0 +1,7 @@
+examples/
+src/Oktawave/OCS/
+.gitignore
+LICENSE
+README.md
+composer.json
+ocs_init.php

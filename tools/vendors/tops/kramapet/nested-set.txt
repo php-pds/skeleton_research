@@ -1,0 +1,8 @@
+libs/NestedSet/
+sql/
+tests/NestedSet/
+.gitignore
+LICENSE
+README.md
+composer.json
+phpunit.xml

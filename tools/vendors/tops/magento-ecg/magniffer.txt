@@ -1,0 +1,9 @@
+bin/
+patterns/
+src/
+.gitignore
+LICENSE
+README.md
+composer.json
+mgf.bat
+mgf.php

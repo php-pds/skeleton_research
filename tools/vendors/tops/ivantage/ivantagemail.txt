@@ -1,0 +1,16 @@
+config/
+src/IvantageMail/
+tests/
+view/IvantageMail/
+.editorconfig
+.gitignore
+Gruntfile.js
+LICENSE
+Module.php
+README.md
+autoload_classmap.php
+autoload_function.php
+autoload_register.php
+composer.json
+package.json
+phpunit.xml

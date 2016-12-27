@@ -1,0 +1,14 @@
+dict/
+helpers/
+kie/
+lib/iban/
+outlook/
+sys/
+tests/
+util/
+widgets/
+.gitignore
+LICENSE
+README.md
+composer.json
+update-lib.sh

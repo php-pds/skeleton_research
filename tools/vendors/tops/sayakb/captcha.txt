@@ -1,0 +1,9 @@
+public/
+src/
+vendor/
+.gitattributes
+.gitignore
+LICENCE.md
+README.md
+composer.json
+phpunit.xml

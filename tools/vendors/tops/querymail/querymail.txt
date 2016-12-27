@@ -1,0 +1,11 @@
+docker/
+fuel/
+public/
+sqlite/
+.gitignore
+.travis.yml
+CONTRIBUTING.md
+LICENSE.md
+README.md
+composer.json
+docker-compose.yml

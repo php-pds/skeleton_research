@@ -1,0 +1,8 @@
+src/
+templates/scaffold/
+views/common/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock

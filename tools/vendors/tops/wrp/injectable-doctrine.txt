@@ -1,0 +1,10 @@
+DependencyInjection/
+Event/
+Exceptions/
+Interfaces/
+Listener/
+Model/
+.gitignore
+README.md
+WRPInjectableDoctrineBundle.php
+composer.json

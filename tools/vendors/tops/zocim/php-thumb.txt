@@ -1,0 +1,8 @@
+apidocs/
+examples/
+src/PhpThumb/
+.gitignore
+README.md
+Rakefile
+composer.json
+config.yml

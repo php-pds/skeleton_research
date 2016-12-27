@@ -1,0 +1,9 @@
+my/
+php-ixr/
+phpauth/
+phpmailer/
+plates/
+shortcodes/
+simpleacl/
+zxcvbn-php/
+composer.json

@@ -1,0 +1,8 @@
+example/
+media/
+.gitignore
+.npmignore
+README.md
+bower.json
+composer.json
+package.json

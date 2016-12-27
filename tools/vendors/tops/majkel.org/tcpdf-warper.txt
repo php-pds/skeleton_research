@@ -1,0 +1,13 @@
+build/
+examples/
+src/org/majkel/tcpdfwarper/
+style/
+tests/
+.codeclimate.yml
+.gitignore
+.travis.yml
+LICENSE.md
+README.md
+composer.json
+composer.lock
+phpunit.xml

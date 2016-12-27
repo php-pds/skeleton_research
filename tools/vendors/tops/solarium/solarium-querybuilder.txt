@@ -1,0 +1,10 @@
+examples/
+library/Solarium/QueryBuilder/
+tests/
+.gitignore
+CONTRIBUTING.md
+COPYING
+README.md
+composer.json
+phpunit.xml.dist
+phpunit.xml.travis

@@ -1,0 +1,5 @@
+bin/
+src/Tray/Panel/
+.gitignore
+README.md
+composer.json

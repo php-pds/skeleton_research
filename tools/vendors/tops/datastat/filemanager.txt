@@ -1,0 +1,5 @@
+assets/filemanager/
+src/datastat/FileManager/
+.gitignore
+composer.json
+readme.md

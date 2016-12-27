@@ -1,0 +1,17 @@
+docker/
+src/biomcs/
+test/
+.codeclimate.yml
+.coveralls.yml
+.gitignore
+.travis.yml
+LICENSE
+README.md
+bower.json
+composer.json
+composer.lock
+convert.php
+explicit-conda-spec.txt
+index.html
+phpcs.xml.dist
+phpunit.xml

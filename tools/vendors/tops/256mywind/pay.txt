@@ -1,0 +1,8 @@
+AliPay/
+Config/
+UionPay/
+WxPay/
+Autoloader.php
+Pay.php
+composer.json
+demo.php

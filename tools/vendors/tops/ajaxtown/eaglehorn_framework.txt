@@ -1,0 +1,6 @@
+src/Eaglehorn/
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock

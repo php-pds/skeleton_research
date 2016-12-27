@@ -1,0 +1,7 @@
+.gitignore
+LICENCE
+README.md
+composer.json
+composer.lock
+composer.phar
+simplegmail.php

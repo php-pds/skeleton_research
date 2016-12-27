@@ -1,0 +1,4 @@
+src/JS/Mysqlnd/Analytics/
+LICENSE
+README.markdown
+composer.json

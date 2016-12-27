@@ -1,0 +1,10 @@
+behaviors/
+migrations/
+models/
+validators/
+views/
+LICENSE
+Meta.php
+README.md
+Redirect.php
+composer.json

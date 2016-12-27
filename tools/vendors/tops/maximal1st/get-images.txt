@@ -1,0 +1,7 @@
+Test/
+Harvester.php
+Image.php
+Page.php
+Usage.php
+composer.json
+phpunit.xml

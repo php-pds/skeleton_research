@@ -1,0 +1,14 @@
+docs/
+src/Gerrie/
+tests/Gerrie/Tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+Bootstrap.php
+Config.yml.dist
+LICENSE
+README.md
+composer.json
+composer.lock
+gerrie
+phpunit.xml.dist

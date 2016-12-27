@@ -1,0 +1,6 @@
+demo_files/
+dummy/
+CREDITS.md
+README.md
+composer.json
+demo.php

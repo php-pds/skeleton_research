@@ -1,0 +1,8 @@
+src/
+tests/
+.gitignore
+composer.json
+generatePhar.php
+generatePhar.sh
+license.md
+skeleton.php

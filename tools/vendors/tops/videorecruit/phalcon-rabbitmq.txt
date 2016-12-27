@@ -1,0 +1,5 @@
+src/Phalcon/RabbitMq/
+.gitignore
+LICENSE
+README.md
+composer.json

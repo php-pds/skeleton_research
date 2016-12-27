@@ -1,0 +1,11 @@
+examples/
+src/JsPhpize/
+tests/
+.codeclimate.yml
+.gitattributes
+.gitignore
+.styleci.yml
+.travis.yml
+README.md
+composer.json
+phpunit.xml

@@ -1,0 +1,11 @@
+locale/
+.editorconfig
+.gitignore
+CONTRIBUTING.id.md
+CONTRIBUTING.md
+LICENSE
+README.id.md
+README.md
+bootstrap.php
+composer.json
+icon.svg

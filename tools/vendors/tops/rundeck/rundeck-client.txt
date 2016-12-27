@@ -1,0 +1,5 @@
+src/Rundeck/
+test/
+.gitignore
+README.md
+composer.json

@@ -1,0 +1,4 @@
+LICENSE
+ManyHasManyBehavior.php
+README.md
+composer.json

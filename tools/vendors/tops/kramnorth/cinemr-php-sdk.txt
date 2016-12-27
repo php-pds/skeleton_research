@@ -1,0 +1,6 @@
+cinemr/sdk/
+examples/
+.gitignore
+cinemr.php
+composer.json
+play.html

@@ -1,0 +1,10 @@
+Controller/
+DependencyInjection/
+Exception/
+Locator/
+Resources/
+Service/
+Tests/Controller/
+.gitignore
+EmailTemplateBundle.php
+composer.json

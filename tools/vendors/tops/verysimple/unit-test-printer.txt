@@ -1,0 +1,9 @@
+assets/images/
+src/Verysimple/UnitTest/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json
+phpunit.xml
+phpunit_bootstrap.php

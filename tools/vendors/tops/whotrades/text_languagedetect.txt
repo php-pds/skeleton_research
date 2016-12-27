@@ -1,0 +1,7 @@
+Text/
+data/
+docs/
+tests/
+.gitignore
+composer.json
+package.xml

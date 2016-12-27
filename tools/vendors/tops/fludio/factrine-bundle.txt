@@ -1,0 +1,13 @@
+Command/
+DependencyInjection/
+Factory/
+Resources/config/
+Seeder/
+Tests/
+.coveralls.yml
+.gitignore
+.travis.yml
+BiteCodesFactrineBundle.php
+README.md
+composer.json
+phpunit.xml.dist

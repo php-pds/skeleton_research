@@ -1,0 +1,9 @@
+src/Rogervila/CosmicJS/
+tests/
+.gitignore
+.styleci.yml
+.travis.yml
+README.md
+appveyor.yml
+composer.json
+phpunit.xml

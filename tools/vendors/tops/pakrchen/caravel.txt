@@ -1,0 +1,4 @@
+src/Caravel/
+LICENSE
+README.md
+composer.json

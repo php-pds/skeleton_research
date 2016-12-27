@@ -1,0 +1,9 @@
+config/
+src/BaseModule/
+test/
+.gitignore
+CHANGELOG.rnd
+LICENSE
+Module.php
+README.md
+composer.json

@@ -1,0 +1,12 @@
+dist/js/
+docs/
+src/
+.gitattributes
+.gitignore
+Gruntfile.js
+LICENSE
+README.md
+autoloader.php
+composer.json
+mkdocs.yml
+package.json

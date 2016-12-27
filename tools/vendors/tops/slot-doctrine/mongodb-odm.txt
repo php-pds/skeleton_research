@@ -1,0 +1,12 @@
+lib/Doctrine/ODM/MongoDB/
+tests/
+tools/sandbox/
+.gitignore
+.travis.yml
+LICENSE
+README.markdown
+build.properties.dev
+build.xml
+composer.json
+doctrine-mongo-mapping.xsd
+phpunit.xml.dist

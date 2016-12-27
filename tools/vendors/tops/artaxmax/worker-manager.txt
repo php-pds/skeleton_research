@@ -1,0 +1,3 @@
+src/WorkerManager/
+README.md
+composer.json

@@ -1,0 +1,16 @@
+admin/
+app/
+public/
+.gitignore
+.htaccess
+Dockerfile
+README.md
+aliases.php
+apache-config.conf
+api.php
+builder
+composer.json
+composer.lock
+config.php.example
+index.php
+translations_cache.json

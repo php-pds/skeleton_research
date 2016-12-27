@@ -1,0 +1,6 @@
+app/
+.gitattributes
+README.md
+composer.json
+contributors.txt
+modman

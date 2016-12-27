@@ -1,0 +1,10 @@
+JS/
+application/
+system/
+vendor/
+composer.json
+composer.phar
+index.php
+index.php~
+phpdoc.dist.xml
+sql_for_db_creation.sql

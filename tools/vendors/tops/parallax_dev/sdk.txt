@@ -1,0 +1,6 @@
+src/ParallaxDev/ParallaxSDKBundle/
+tests/
+.gitignore
+README.md
+composer.json
+composer.lock

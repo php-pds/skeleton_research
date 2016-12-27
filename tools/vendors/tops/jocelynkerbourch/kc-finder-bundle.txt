@@ -1,0 +1,3 @@
+lib/KCFinderBundle/
+README.md
+composer.json

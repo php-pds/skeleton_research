@@ -1,0 +1,6 @@
+components/
+models/
+MediaFile.php
+README.md
+composer.json
+mysql.scheme.sql

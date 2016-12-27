@@ -1,0 +1,5 @@
+src/Phing/Notify/
+.gitignore
+README.md
+composer.json
+composer.lock

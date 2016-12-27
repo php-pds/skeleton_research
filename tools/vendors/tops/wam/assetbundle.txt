@@ -1,0 +1,9 @@
+src/Wam/AssetBundle/
+tests/
+tmp/
+.DS_Store
+.gitignore
+README.md
+bootstrap.php
+composer.json
+phpunit.xml

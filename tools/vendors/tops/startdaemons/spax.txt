@@ -1,0 +1,5 @@
+docs/
+src/Spax/
+test/
+README.md
+composer.json

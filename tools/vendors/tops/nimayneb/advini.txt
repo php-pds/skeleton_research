@@ -1,0 +1,9 @@
+Classes/
+Resources/Tests/
+Tests/
+.editorconfig
+.gitignore
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

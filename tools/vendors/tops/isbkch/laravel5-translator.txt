@@ -1,0 +1,14 @@
+config/
+database/migrations/
+public/
+resources/
+src/
+tests/
+.gitattributes
+.gitignore
+.gitmodules
+LICENSE
+composer.json
+phpunit.xml
+readme.md
+versioninfo.md

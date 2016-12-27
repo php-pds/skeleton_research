@@ -1,0 +1,5 @@
+lib/
+vendor/
+composer.json
+fun.php
+q.php

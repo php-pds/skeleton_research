@@ -1,0 +1,14 @@
+DependencyInjection/
+DineshBarcode/
+Generator/
+Resources/
+Tests/
+Twig/Extensions/
+Type/
+.buildpath
+.project
+.travis.yml
+README.md
+SkiesQRcodeBundle.php
+composer.json
+phpunit.xml.dist

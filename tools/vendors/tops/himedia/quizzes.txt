@@ -1,0 +1,12 @@
+conf/
+doc/images/
+lib/syntaxhighlighter_3.0.83/
+resources/quizzes/
+src/
+web/
+.gitignore
+CHANGELOG.md
+LICENSE
+README.md
+composer.json
+composer.lock

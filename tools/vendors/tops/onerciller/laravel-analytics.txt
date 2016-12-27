@@ -1,0 +1,9 @@
+src/
+.editorconfig
+CHANGELOG.md
+CONTRIBUTING.md
+LICENSE.md
+README.md
+composer.json
+phpunit.xml
+scrutinizer.yml

@@ -1,0 +1,4 @@
+lib/DigitalPianism/TestFramework/
+README.md
+composer.json
+modman

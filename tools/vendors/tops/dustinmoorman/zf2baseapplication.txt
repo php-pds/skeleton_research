@@ -1,0 +1,7 @@
+config/
+module/Application/
+public/
+.gitignore
+README.md
+composer.json
+init_autoloader.php

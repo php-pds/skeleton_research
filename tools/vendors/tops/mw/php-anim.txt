@@ -1,0 +1,5 @@
+examples/
+src/PHPAnim/
+LICENSE
+README.md
+composer.json

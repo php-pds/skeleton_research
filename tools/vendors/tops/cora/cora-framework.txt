@@ -1,0 +1,6 @@
+system/
+.gitignore
+LICENSE
+README.md
+composer.json
+core.php

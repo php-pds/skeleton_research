@@ -1,0 +1,5 @@
+.gitignore
+Curl.php
+CurlResponse.php
+README.md
+composer.json

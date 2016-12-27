@@ -1,0 +1,6 @@
+public/
+src/
+views/
+.gitignore
+.htaccess
+composer.json

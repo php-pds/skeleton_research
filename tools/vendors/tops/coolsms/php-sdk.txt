@@ -1,0 +1,7 @@
+app/Nurigo/
+examples/
+.gitignore
+README.md
+bootstrap.php
+composer.json
+composer.lock

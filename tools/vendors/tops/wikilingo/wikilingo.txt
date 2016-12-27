@@ -1,0 +1,16 @@
+Types/
+WYSIWYGWikiLingo/
+WikiLingo/
+WikiLingoWYSIWYG/
+editor/
+img/
+README.md
+bower.json
+compare.php
+composer.json
+composer.lock
+editor.php
+future.php
+mirror.php
+reflect.php
+test.php

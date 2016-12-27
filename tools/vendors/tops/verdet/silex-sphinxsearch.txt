@@ -1,0 +1,4 @@
+src/SilexSphinxSearch/
+.gitignore
+README.md
+composer.json

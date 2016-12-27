@@ -1,0 +1,9 @@
+VericredClient/
+docs/
+lib/
+test/
+LICENSE
+README.md
+autoload.php
+composer.json
+git_push.sh

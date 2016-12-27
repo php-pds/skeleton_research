@@ -1,0 +1,6 @@
+.gitignore
+README.md
+composer.json
+install
+mhosts.php
+uninstall

@@ -1,0 +1,9 @@
+test/
+.gitignore
+JSON.sh
+LICENSE.APACHE2
+LICENSE.MIT
+README.md
+all-tests.sh
+composer.json
+package.json

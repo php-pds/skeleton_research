@@ -1,0 +1,14 @@
+Command/
+Composer/
+DependencyInjection/
+Resources/
+Tests/Twig/
+Twig/
+Utility/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+IoniconsBundle.php
+README.md
+composer.json
+phpunit.xml.dist

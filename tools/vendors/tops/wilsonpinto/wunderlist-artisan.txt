@@ -1,0 +1,9 @@
+config/
+src/
+.gitattributes
+.gitignore
+CHANGELOG.md
+LICENSE.md
+README.md
+composer.json
+wunderlist-artisan.png

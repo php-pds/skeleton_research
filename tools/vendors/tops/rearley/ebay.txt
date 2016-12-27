@@ -1,0 +1,7 @@
+src/Earley/Ebay/
+tests/
+.gitignore
+.travis.yml
+README.md
+composer.json
+phpunit.xml

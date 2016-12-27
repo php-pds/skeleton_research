@@ -1,0 +1,7 @@
+editor/
+.gitignore
+Assets.php
+AssetsJQueryAdapter.php
+CKEditor.php
+README.md
+composer.json

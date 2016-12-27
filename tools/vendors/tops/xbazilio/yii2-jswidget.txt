@@ -1,0 +1,4 @@
+JSWidget.php
+LICENSE
+README.md
+composer.json

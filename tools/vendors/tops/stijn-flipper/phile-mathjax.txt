@@ -1,0 +1,8 @@
+Classes/
+examples/
+.editorconfig
+.gitignore
+LICENSE.txt
+README.md
+composer.json
+config.php

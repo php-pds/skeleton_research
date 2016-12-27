@@ -1,0 +1,10 @@
+example/
+src/
+tests/
+.gitignore
+LICENSE
+README.md
+cat.jpg
+composer.json
+img2text
+phpunit.xml

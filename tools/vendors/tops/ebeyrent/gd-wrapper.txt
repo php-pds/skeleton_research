@@ -1,0 +1,7 @@
+src/GdWrapper/
+test/
+.gitignore
+README.md
+autoload.php
+composer.json
+index.php

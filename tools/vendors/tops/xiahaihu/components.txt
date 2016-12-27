@@ -1,0 +1,5 @@
+src/Tree/
+test/Tree/
+.gitignore
+composer.json
+composer.lock

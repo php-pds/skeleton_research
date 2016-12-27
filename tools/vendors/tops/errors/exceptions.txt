@@ -1,0 +1,10 @@
+examples/conflict/
+src/
+.gitattributes
+.gitignore
+.travis.yml
+CHANGELOG.md
+Makefile
+README.md
+composer.json
+composer.lock

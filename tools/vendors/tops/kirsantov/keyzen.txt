@@ -1,0 +1,7 @@
+docs/
+src/
+.DS_Store
+CONTRIBUTING.md
+LICENSE
+README.md
+composer.json

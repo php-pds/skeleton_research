@@ -1,0 +1,8 @@
+config/
+database/migrations/
+public/assets/bootstrap/
+resources/
+src/
+.gitignore
+README.md
+composer.json

@@ -1,0 +1,7 @@
+Controller/
+DependencyInjection/
+Entity/
+Event/
+Resources/
+Olix21CalendarBundle.php
+composer.json

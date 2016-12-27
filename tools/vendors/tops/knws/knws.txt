@@ -1,0 +1,6 @@
+lib/Knws/
+nbproject/
+tests/
+.gitignore
+codeception.yml
+composer.json

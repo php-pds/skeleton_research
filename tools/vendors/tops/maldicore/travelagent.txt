@@ -1,0 +1,10 @@
+_config/
+code/
+lang/
+templates/Layout/
+.README.md.swp
+ChangeLog
+LICENSE
+README.md
+_config.php
+composer.json

@@ -1,0 +1,8 @@
+src/ServerDensity/MendedString/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml

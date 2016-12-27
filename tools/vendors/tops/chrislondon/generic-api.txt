@@ -1,0 +1,8 @@
+src/ChrisLondon/GenericApi/
+tests/ChrisLondon/GenericApi/
+.gitignore
+LICENSE
+README.md
+composer.json
+contributers.txt
+phpunit.xml

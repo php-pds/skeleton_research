@@ -1,0 +1,8 @@
+src/
+tests/
+.gitignore
+.scrutinizer.yml
+LICENSE
+composer.json
+phive.xml
+phpunit.xml

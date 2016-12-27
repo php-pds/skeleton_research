@@ -1,0 +1,4 @@
+src/Barry127/Zippr/
+LICENSE
+README.md
+composer.json

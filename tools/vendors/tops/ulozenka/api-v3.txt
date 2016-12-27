@@ -1,0 +1,8 @@
+src/UlozenkaLib/APIv3/
+tests/
+.gitattributes
+.gitignore
+.travis.yml
+LICENSE.md
+README.md
+composer.json

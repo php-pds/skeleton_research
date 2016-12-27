@@ -1,0 +1,12 @@
+DependencyInjection/
+Tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+SmsOnline.php
+SmsOnlineBundle.php
+SmsOnlineTransport.php
+composer.json
+phpunit.xml

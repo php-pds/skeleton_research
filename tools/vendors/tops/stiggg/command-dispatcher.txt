@@ -1,0 +1,9 @@
+doc/
+examples/
+src/CommandDispatcher/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,4 @@
+lib/
+License.md
+README.md
+composer.json

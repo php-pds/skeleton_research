@@ -1,0 +1,13 @@
+languages/
+plugins/
+.editorconfig
+.scrutinizer.yml
+.travis.yml
+CHANGELOG.md
+CONTRIBUTING.md
+LICENSE.md
+README.md
+class-tgm-plugin-activation.php
+composer.json
+example.php
+phpcs.xml

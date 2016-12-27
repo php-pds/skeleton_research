@@ -1,0 +1,7 @@
+Exception/
+test/
+.gitignore
+DeviceDetectorFacade.php
+README.md
+composer.json
+composer.lock

@@ -1,0 +1,7 @@
+demo/
+doc/
+src/
+tests/
+README.md
+composer.json
+phpunit.xml

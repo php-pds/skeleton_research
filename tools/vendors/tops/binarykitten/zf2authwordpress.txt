@@ -1,0 +1,5 @@
+src/ZF2AuthWordpress/Library/
+.gitignore
+Module.php
+README.md
+composer.json

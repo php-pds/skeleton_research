@@ -1,0 +1,10 @@
+DependencyInjection/
+Resources/config/
+Services/
+Tests/Services/
+.gitignore
+.travis.yml
+README.md
+composer.json
+cspooSwiftmailerMailgunBundle.php
+phpunit.xml.dist

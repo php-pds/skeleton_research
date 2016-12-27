@@ -1,0 +1,6 @@
+.gitignore
+GoogleNews.php
+LICENSE
+README.md
+composer.json
+index.php

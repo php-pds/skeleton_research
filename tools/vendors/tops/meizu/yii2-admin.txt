@@ -1,0 +1,6 @@
+controllers/
+views/default/
+AutoloadExample.php
+Module.php
+README.md
+composer.json

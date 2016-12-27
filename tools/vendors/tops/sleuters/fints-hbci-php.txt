@@ -1,0 +1,11 @@
+Samples/
+lib/
+.gitignore
+.travis.yml
+COMPATIBILITY.md
+LICENSE
+README.md
+composer.json
+composer.lock
+phplint.sh
+phpunit.xml.dist

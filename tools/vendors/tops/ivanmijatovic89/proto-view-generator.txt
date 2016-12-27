@@ -1,0 +1,5 @@
+src/ivanmijatovic89/ProtoViewGenerator/
+.DS_Store
+README.md
+README_old.md
+composer.json

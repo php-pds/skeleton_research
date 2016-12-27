@@ -1,0 +1,12 @@
+src/TreeHouse/FeatureToggle/
+tests/TreeHouse/FeatureToggle/Tests/
+.editorconfig
+.gitignore
+.php_cs
+.scrutinizer.yml
+.travis.yml
+CHANGELOG.md
+LICENSE.md
+README.md
+composer.json
+phpunit.xml.dist

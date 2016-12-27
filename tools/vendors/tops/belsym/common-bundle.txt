@@ -1,0 +1,10 @@
+DBAL/Types/
+DataFixtures/Test/
+Entity/
+Resources/
+Tests/
+.gitignore
+.project
+BeldougieCommonBundle.php
+README.md
+composer.json

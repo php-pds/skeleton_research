@@ -1,0 +1,8 @@
+doc/
+key/
+lib/
+src/
+LICENSE
+cacert.pem
+composer.json
+log.txt

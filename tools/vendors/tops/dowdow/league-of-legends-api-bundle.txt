@@ -1,0 +1,10 @@
+Caller/
+Constant/
+DependencyInjection/
+Entity/
+Resources/config/
+Service/
+.travis.yml
+DowdowLeagueOfLegendsAPIBundle.php
+README.md
+composer.json

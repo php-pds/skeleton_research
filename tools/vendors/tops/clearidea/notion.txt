@@ -1,0 +1,11 @@
+build/
+example/
+src/Notion/
+tests/
+.editorconfig
+.gitignore
+.travis.yml
+README.md
+VERSIONLOG.md
+build.xml
+composer.json

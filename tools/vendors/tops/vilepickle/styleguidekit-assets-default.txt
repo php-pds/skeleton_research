@@ -1,0 +1,12 @@
+dist/
+src/
+.bowerrc
+.editorconfig
+.gitignore
+.jshintrc
+LICENSE
+README.md
+bower.json
+composer.json
+gulpfile.js
+package.json

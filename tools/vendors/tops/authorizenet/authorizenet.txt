@@ -1,0 +1,18 @@
+doc/
+lib/
+resources/
+sample-code-php @ 547daab
+scripts/
+tests/
+.gitignore
+.gitmodules
+.scrutinizer.yml
+.travis.yml
+README.md
+autoload.php
+classmap.php
+composer.json
+genclass.sh
+license.md
+phpunit.xml.dist
+test-sample-codes.sh

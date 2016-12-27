@@ -1,0 +1,13 @@
+assets/
+demo/
+doc/
+js/
+tests/
+LICENSE
+README.md
+SVG-Captcha.zip
+SVGCaptcha.php
+glyphs.php
+mkplugin.sh
+plugin.php
+readme.txt

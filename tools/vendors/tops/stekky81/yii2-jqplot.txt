@@ -1,0 +1,6 @@
+assets/
+.gitignore
+JqPlot.php
+JqPlotAsset.php
+README.md
+composer.json

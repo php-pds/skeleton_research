@@ -1,0 +1,7 @@
+mi11er-wp/
+mi11er/
+.gitignore
+LICENSE
+README.md
+composer.json
+phpmd.xml

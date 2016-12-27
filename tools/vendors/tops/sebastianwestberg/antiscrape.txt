@@ -1,0 +1,10 @@
+spec/Antiscrape/
+src/Antiscrape/
+.editorconfig
+.gitignore
+.travis.yml
+CHANGELOG.md
+LICENSE
+README.md
+composer.json
+phpspec.yml

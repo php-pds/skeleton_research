@@ -1,0 +1,4 @@
+system/modules/easyFavicon/
+.gitignore
+README.md
+composer.json

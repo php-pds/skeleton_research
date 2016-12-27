@@ -1,0 +1,7 @@
+bin/
+public/
+src/Controller/
+view/
+.gitignore
+README.md
+composer.json

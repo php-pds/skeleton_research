@@ -1,0 +1,11 @@
+css/
+includes/
+modules/
+.gitignore
+README.txt
+composer.json
+drupal_sync.admin.inc
+drupal_sync.api.php
+drupal_sync.info
+drupal_sync.install
+drupal_sync.module

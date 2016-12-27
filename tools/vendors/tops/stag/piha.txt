@@ -1,0 +1,16 @@
+demo/
+docs/
+piha/
+tests/
+.gitignore
+.travis.yml
+README.md
+composer.json
+composer.lock
+composer.phar
+demo.php
+demo.sh
+doc.sh
+piha.php
+piha.sh
+test.sh

@@ -1,0 +1,12 @@
+assets/
+less/
+views/
+.gitignore
+ModelSelector.php
+ModelSelectorAsset.php
+README.md
+Select2AdminLTEAsset.php
+Select2Asset.php
+Select2BootstrapAsset.php
+composer.json
+selector.png

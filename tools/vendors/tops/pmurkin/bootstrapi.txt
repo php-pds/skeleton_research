@@ -1,0 +1,13 @@
+app/
+config/
+docstemplate/
+lang/
+log/
+mail/
+public/
+.gitignore
+README.md
+composer.json
+composer.lock
+partisan
+version.sh

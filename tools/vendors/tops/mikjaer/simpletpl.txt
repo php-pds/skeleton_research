@@ -1,0 +1,7 @@
+src/
+vendor/
+README.md
+composer.json
+example.php
+example.tpl
+getting-started.txt

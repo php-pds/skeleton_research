@@ -1,0 +1,8 @@
+bin/
+src/CommandPlanner/
+.scrutinizer.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml.dist

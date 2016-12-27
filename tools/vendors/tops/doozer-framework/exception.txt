@@ -1,0 +1,13 @@
+docs/
+src/Exception/
+tests/Exception/
+.codeclimate.yml
+.editorconfig
+.gitattributes
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist
+update-gh-pages.sh

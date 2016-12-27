@@ -1,0 +1,10 @@
+DependencyInjection/
+Resources/config/
+Tests/
+Twig/
+.travis.yml
+JasonRomanTwigExtensionBundle.php
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

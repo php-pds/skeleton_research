@@ -1,0 +1,8 @@
+http/lib/Clickpdx/Http/
+oauth/lib/Clickpdx/OAuth/
+resource/lib/Clickpdx/
+salesforce/lib/Clickpdx/
+service/lib/Clickpdx/Service/
+README.md
+autoload.php
+composer.json

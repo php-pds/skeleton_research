@@ -1,0 +1,8 @@
+Annotations/
+DependencyInjection/
+Mapper/
+Resources/
+.gitignore
+GthmRdfBundle.php
+README.md
+composer.json

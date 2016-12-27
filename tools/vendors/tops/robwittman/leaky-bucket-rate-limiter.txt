@@ -1,0 +1,13 @@
+example/
+src/
+tests/
+.dockerignore
+.gitignore
+Dockerfile
+LICENSE
+README.md
+bootstrap.php
+composer.json
+composer.lock
+docker-compose.yml
+phpunit.xml

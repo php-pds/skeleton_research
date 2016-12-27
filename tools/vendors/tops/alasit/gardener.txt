@@ -1,0 +1,7 @@
+spec/Jlapp/SmartSeeder/
+src/
+.gitignore
+.travis.yml
+README.md
+composer.json
+phpspec.yml

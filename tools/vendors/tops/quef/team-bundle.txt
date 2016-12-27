@@ -1,0 +1,16 @@
+DependencyInjection/
+Event/
+EventListener/
+Exception/
+Factory/
+Metadata/
+Model/
+Resources/
+Security/
+Tests/DependencyInjection/
+spec/Security/Permission/
+QuefTeamBundle.php
+README.md
+composer.json
+composer.lock
+phpspec.yml

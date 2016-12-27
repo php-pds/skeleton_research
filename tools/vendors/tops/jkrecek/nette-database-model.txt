@@ -1,0 +1,4 @@
+src/Krecek/Database/
+.gitignore
+README.md
+composer.json

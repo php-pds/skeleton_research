@@ -1,0 +1,9 @@
+Application/
+Controller/
+DependencyInjection/
+Model/
+Resources/
+Tests/Controller/
+FitInstagramBundle.php
+README.md
+composer.json

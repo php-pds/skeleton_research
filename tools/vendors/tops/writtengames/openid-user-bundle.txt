@@ -1,0 +1,9 @@
+Controller/
+DependencyInjection/
+Entity/
+Listener/
+Model/
+Resources/
+README.md
+WGOpenIdUserBundle.php
+composer.json

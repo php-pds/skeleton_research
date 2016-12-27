@@ -1,0 +1,8 @@
+lib/Zczapran/Doctrine/ORM/
+tests/Zczapran/Tests/Doctrine/ORM/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

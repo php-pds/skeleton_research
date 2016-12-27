@@ -1,0 +1,13 @@
+.github/
+docs/
+examples/
+scripts/
+src/Curl/
+tests/
+www/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+SECURITY.md
+composer.json

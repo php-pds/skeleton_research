@@ -1,0 +1,10 @@
+.codeclimate.yml
+.gitignore
+IPv4Validator.php
+IPv6Validator.php
+LICENSE
+MACValidator.php
+NetAddressValidator.php
+README.md
+composer.json
+composer.lock

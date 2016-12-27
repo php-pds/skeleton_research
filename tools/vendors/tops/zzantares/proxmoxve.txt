@@ -1,0 +1,12 @@
+src/
+tests/
+.gitignore
+.travis.yml
+CHANGELOG.md
+CONTRIBUTING.md
+Dockerfile
+LICENSE
+README.md
+composer.json
+phpunit.xml
+runTests.sh

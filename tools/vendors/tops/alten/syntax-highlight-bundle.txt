@@ -1,0 +1,6 @@
+Resources/public/
+sample_twig/
+.gitignore
+AltenSyntaxHighlightBundle.php
+README.md
+composer.json

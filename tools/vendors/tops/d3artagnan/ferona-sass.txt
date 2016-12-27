@@ -1,0 +1,8 @@
+base/
+components/
+helpers/
+layout/
+themes/
+.gitignore
+Readme.txt
+composer.json

@@ -1,0 +1,6 @@
+src/OpenProvider/
+tests/
+.gitignore
+README.md
+composer.json
+phpunit.xml

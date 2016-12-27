@@ -1,0 +1,7 @@
+Classes/Gerdemann/VersionMonitor/Client/
+Configuration/
+.codeclimate.yml
+.styleci.yml
+LICENSE
+README.md
+composer.json

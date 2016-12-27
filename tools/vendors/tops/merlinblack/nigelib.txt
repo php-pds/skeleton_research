@@ -1,0 +1,15 @@
+assets/
+config/
+localconfig/
+src/
+.gitignore
+LICENSE.md
+README.md
+autoloader.php
+composer.json
+envmap.php
+facade.php
+phartest.php
+test.php
+testHeadlinks.php
+testSimpleTemplate.php

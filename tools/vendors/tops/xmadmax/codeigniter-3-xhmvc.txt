@@ -1,0 +1,9 @@
+apps/base/
+core/
+user_guide/
+.gitignore
+README.md
+composer.json
+contributing.md
+license.txt
+readme.rst

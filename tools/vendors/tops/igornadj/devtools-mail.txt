@@ -1,0 +1,6 @@
+_config/
+code/
+templates/Layout/
+.gitignore
+_config.php
+composer.json

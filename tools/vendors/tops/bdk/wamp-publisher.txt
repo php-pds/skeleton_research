@@ -1,0 +1,4 @@
+.gitattributes
+WampPublisher.php
+composer.json
+readme.md

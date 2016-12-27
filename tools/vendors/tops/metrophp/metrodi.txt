@@ -1,0 +1,9 @@
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json
+container.php
+phpunit.xml
+promise.php
+proto.php

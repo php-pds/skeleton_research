@@ -1,0 +1,9 @@
+config/
+src/EasyXML/
+test/
+.gitignore
+LICENCE
+Module.php
+README.md
+autoload_classmap.php
+composer.json

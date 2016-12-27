@@ -1,0 +1,9 @@
+Admin/
+AdminExtension/
+DependencyInjection/
+Resources/
+Tests/
+.gitignore
+HasheadoAdminBundle.php
+README.markdown
+composer.json

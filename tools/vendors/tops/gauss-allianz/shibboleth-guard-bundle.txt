@@ -1,0 +1,7 @@
+DependencyInjection/
+Resources/config/
+Security/
+LICENSE
+README.md
+ShibbolethGuardBundle.php
+composer.json

@@ -1,0 +1,9 @@
+DependencyInjection/
+Handler/
+Processor/
+Resources/config/
+.gitignore
+README.md
+RegelwerkIgnoreBotSwiftMailerHandlerBundle.php
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,17 @@
+Connect/
+Controller/
+DependencyInjection/
+Form/
+OAuth/
+Resources/
+Security/
+Templating/Helper/
+Tests/
+Twig/Extension/
+.gitignore
+.travis.yml
+CHANGELOG.md
+HWIOAuthBundle.php
+README.md
+composer.json
+phpunit.xml.dist

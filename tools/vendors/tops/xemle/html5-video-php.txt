@@ -1,0 +1,9 @@
+Tests/
+bin/
+src/Html5Video/
+vendor/
+.gitignore
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

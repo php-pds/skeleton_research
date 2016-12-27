@@ -1,0 +1,3 @@
+preksh/dragdropfileupload/
+composer.json
+composer.json~

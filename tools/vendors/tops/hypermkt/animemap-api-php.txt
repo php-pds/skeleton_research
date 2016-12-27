@@ -1,0 +1,10 @@
+lib/AnimeMap/
+sample/
+tests/lib/AnimeMap/
+.gitignore
+.travis.yml
+LICENSE.txt
+README.md
+composer.json
+composer.lock
+phpunit.xml

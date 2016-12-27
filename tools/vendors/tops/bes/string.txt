@@ -1,0 +1,7 @@
+.gitignore
+LICENSE
+String.php
+StringTest.php
+composer.json
+phpunit.xml
+readme.rst

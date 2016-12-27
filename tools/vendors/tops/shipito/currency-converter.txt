@@ -1,0 +1,6 @@
+src/Shipito/CurrencyConverter/
+tests/
+.gitignore
+README.md
+composer.json
+phpunit.xml

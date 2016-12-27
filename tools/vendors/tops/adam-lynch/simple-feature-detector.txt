@@ -1,0 +1,15 @@
+examples/
+test/
+.gitattributes
+.gitignore
+.npmignore
+.travis.yml
+README.md
+appveyor.yml
+bower.json
+composer.json
+dev.js
+gulpfile.js
+package.json
+simple-feature-detector.js
+simple-feature-detector.min.js

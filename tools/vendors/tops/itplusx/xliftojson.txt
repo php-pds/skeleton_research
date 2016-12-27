@@ -1,0 +1,6 @@
+Classes/ITplusX/XlifToJson/
+Documentation/
+Resources/Private/
+LICENSE
+README.md
+composer.json

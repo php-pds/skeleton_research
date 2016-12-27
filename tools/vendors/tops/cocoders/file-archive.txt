@@ -1,0 +1,13 @@
+assets/
+docs/
+features/
+puphpet/
+spec/Cocoders/
+src/Cocoders/
+.gitignore
+LICENSE
+README.md
+Vagrantfile
+composer.json
+composer.lock
+shippable.yml

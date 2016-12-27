@@ -1,0 +1,15 @@
+src/Webtrees/
+tests/Webtrees/
+.codeclimate.yml
+.gitattributes
+.gitignore
+.scrutinizer.yml
+.sensiolabs.yml
+LICENSE
+README.md
+commands.txt
+composer.json
+composer.lock
+phpdoc.dist.xml
+phpunit.php
+phpunit.xml.dist

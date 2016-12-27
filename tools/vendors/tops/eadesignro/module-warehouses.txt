@@ -1,0 +1,14 @@
+Api/
+Block/Adminhtml/Warehouses/Edit/
+Controller/Adminhtml/
+Helper/
+Model/
+Setup/
+Ui/Component/Listing/Column/
+etc/
+view/adminhtml/
+.gitignore
+Copyright
+README.md
+composer.json
+registration.php

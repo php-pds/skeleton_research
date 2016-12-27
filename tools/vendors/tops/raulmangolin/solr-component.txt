@@ -1,0 +1,4 @@
+src/SolrComponent/
+.gitignore
+README.md
+composer.json

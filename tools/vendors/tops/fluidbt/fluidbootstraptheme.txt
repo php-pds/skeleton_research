@@ -1,0 +1,14 @@
+Configuration/TypoScript/
+Resources/
+doc/
+.editorconfig
+.gitignore
+.travis.yml
+README.md
+class.ext_update.php
+composer.json
+ext_conf_template.txt
+ext_emconf.php
+ext_icon.gif
+ext_tables.php
+phpunit.xml.dist

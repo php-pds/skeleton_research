@@ -1,0 +1,7 @@
+assets/
+Area.php
+AreaAction.php
+AreaAsset.php
+AreaModel.php
+README.md
+composer.json

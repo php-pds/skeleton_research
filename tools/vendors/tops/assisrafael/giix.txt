@@ -1,0 +1,12 @@
+components/
+generators/
+helpers/
+messages/
+vendors/
+CHANGELOG
+FAQ
+INSTALL
+LICENSE
+README
+UPGRADE
+composer.json

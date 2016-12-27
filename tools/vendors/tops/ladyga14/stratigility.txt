@@ -1,0 +1,14 @@
+doc/
+src/
+test/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+CHANGELOG.md
+CONDUCT.md
+CONTRIBUTING.md
+LICENSE.md
+README.md
+composer.json
+phpcs.xml
+phpunit.xml.dist

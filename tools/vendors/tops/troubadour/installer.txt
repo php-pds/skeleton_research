@@ -1,0 +1,8 @@
+.idea/
+src/
+.gitignore
+LICENSE.txt
+composer.json
+composer.lock
+troubadour
+zipper.sh

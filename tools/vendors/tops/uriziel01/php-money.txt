@@ -1,0 +1,13 @@
+features/
+reports/
+.gitattributes
+.gitignore
+README.md
+UnknownCurrencyException.php
+behat.yml
+composer.json
+composer.lock
+currency.php
+money.php
+moneyTest.php
+test.php

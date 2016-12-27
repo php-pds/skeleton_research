@@ -1,0 +1,7 @@
+config/
+example/app/
+src/ThingORM/
+test/
+README.md
+composer.json
+composer.phar

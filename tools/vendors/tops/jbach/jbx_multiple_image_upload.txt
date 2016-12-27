@@ -1,0 +1,10 @@
+assets/
+dist/
+.gitignore
+LICENSE
+README.md
+README.textile
+build
+composer.json
+jbx_multiple_image_upload.php
+manifest.json

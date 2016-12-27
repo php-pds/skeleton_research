@@ -1,0 +1,8 @@
+config/
+src/NoodlePhotogallery/
+view/mfcc-zendesk-contact/contact/
+.travis.yml
+Module.php
+README.md
+composer.json
+composer.phar

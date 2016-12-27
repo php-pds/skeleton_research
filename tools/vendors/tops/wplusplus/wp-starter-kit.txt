@@ -1,0 +1,12 @@
+client/
+docs/
+public/
+server/
+tests/
+.env.example
+.gitignore
+.htaccess
+composer.json
+composer.lock
+readme.md
+wp-cli.yml

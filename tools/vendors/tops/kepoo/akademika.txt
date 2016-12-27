@@ -1,0 +1,5 @@
+data/
+src/Kepoo/Akademika/
+composer.json
+example.php
+readme.md

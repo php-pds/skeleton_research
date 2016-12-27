@@ -1,0 +1,8 @@
+src/
+.gitignore
+.styleci.yml
+.travis.yml
+README.md
+bootstrap.php
+composer.json
+phpunit.xml.dist

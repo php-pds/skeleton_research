@@ -1,0 +1,10 @@
+lib/FlorianKoerner/ChimpDrill/
+.coveralls.yml
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+composer.json
+composer.lock
+phpunit.xml

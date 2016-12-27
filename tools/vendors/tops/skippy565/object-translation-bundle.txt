@@ -1,0 +1,11 @@
+Controller/
+Interfaces/
+Model/
+Resources/doc/
+Tests/Controller/
+.gitignore
+LICENSE
+ObjectTranslationBundle.php
+README.md
+composer.json
+phpunit.xml.dist

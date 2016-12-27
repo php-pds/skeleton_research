@@ -1,0 +1,11 @@
+Command/
+DependencyInjection/
+Engine/
+Exception/
+Resources/config/
+Tests/
+.gitignore
+JuSimpleSearchBundle.php
+README.md
+composer.json
+composer.lock

@@ -1,0 +1,9 @@
+build/
+data/locale/
+src/
+.gitignore
+COPYING
+LICENSE
+Makefile.twig
+README.md
+composer.json

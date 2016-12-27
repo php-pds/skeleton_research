@@ -1,0 +1,12 @@
+assets/html/
+js/
+locale/
+src/Listeners/
+.codeclimate.yml
+.eslintignore
+.eslintrc
+.gitignore
+LICENSE
+README.md
+bootstrap.php
+composer.json

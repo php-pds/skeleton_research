@@ -1,0 +1,8 @@
+.gitignore
+.htaccess
+LICENSE
+README.md
+composer.json
+config.example.php
+hookdeploy.php
+payload.json

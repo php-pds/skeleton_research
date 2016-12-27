@@ -1,0 +1,4 @@
+src/M00t/Behat/PartialRunner/
+.gitignore
+composer.json
+phpunit.xml

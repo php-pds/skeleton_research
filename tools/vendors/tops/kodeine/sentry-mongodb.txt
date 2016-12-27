@@ -1,0 +1,6 @@
+src/Kodeine/Mongodb/Sentry/
+.gitignore
+LICENSE
+README.md
+composer.json
+phpunit.xml

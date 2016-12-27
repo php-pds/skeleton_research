@@ -1,0 +1,7 @@
+lib/PSRedis/
+tests/
+vagrant/provisioning/
+Vagrantfile
+composer.json
+phpunit.int.xml
+phpunit.xml

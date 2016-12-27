@@ -1,0 +1,6 @@
+base/
+.gitignore
+LICENSE
+README.md
+Yii.php
+composer.json

@@ -1,0 +1,8 @@
+src/
+.gitignore
+README.md
+composer.json
+composer.lock
+diagram.puml
+testgen.conf.php
+testgen.php

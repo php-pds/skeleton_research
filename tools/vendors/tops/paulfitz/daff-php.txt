@@ -1,0 +1,6 @@
+gen/
+scripts/
+test/
+.gitignore
+README.md
+composer.json

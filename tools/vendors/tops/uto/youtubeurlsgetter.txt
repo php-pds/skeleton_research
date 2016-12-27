@@ -1,0 +1,17 @@
+.composer/vendor/bin/
+.vscode/
+sandbox/
+tests/
+.gitignore
+Extractor.php
+Format.php
+LICENSE.md
+README.md
+StreamMapParser.php
+VideoData.php
+VideoUrl.php
+YoutubeStream.php
+YoutubeStreamSet.php
+autoload.php
+composer.json
+phpunit.xml

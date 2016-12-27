@@ -1,0 +1,7 @@
+docs/api/
+tests/
+.gitignore
+LICENSE
+README.md
+composer.json
+jalaali.php

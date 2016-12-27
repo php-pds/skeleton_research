@@ -1,0 +1,10 @@
+examples/
+lib/
+test/EasyPost/Test/
+.gitignore
+CHANGELOG
+LICENSE
+README.md
+VERSION
+composer.json
+phpunit.xml.dist

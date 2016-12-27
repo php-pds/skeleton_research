@@ -1,0 +1,6 @@
+Classes/Etg24/EventSourcing/
+Configuration/
+Tests/Unit/
+LICENSE
+README.md
+composer.json

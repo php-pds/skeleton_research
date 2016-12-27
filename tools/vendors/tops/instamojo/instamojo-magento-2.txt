@@ -1,0 +1,11 @@
+Controller/
+Logger/
+block/
+etc/
+lib/
+model/
+view/frontend/
+LICENSE
+README.md
+composer.json
+registration.php

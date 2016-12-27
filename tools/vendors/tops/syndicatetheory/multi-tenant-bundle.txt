@@ -1,0 +1,11 @@
+DependencyInjection/
+Entity/
+Event/
+EventListener/
+ORM/
+Resources/config/
+TenantStrategy/
+README.mkd
+SyndMultiTenantBundle.php
+TenantEvents.php
+composer.json

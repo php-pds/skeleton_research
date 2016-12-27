@@ -1,0 +1,10 @@
+config/
+docs/
+src/PhlyRestfully/
+test/
+.gitignore
+.travis.yml
+Module.php
+README.md
+TODO.md
+composer.json

@@ -1,0 +1,8 @@
+Classes/AtomicKitten/Framework/
+Configuration/
+Documentation/
+Resources/Private/
+LICENSE
+composer.json
+phpcs.xml
+readme.md

@@ -1,0 +1,8 @@
+AUTHORS.txt
+LICENSE.txt
+README.md
+bootstrap.css
+composer.json
+easyPaginate.jquery.json
+index.html
+jquery.easyPaginate.js

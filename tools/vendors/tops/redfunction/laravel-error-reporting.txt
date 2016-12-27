@@ -1,0 +1,12 @@
+config/
+examples/
+resources/views/emails/
+src/RedFunction/ErrorReporting/
+tests/
+.env.example
+.env.testing
+LICENSE
+composer.json
+composer.lock
+phpunit.xml
+readme.md

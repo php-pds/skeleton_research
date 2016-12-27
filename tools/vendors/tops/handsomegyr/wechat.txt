@@ -1,0 +1,9 @@
+bin/
+lib/Weixin/
+tests/
+.buildpath
+.project
+LICENSE
+README.md
+autoload.php
+composer.json

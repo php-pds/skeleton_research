@@ -1,0 +1,6 @@
+Controller/
+.gitignore
+LICENSE
+LazyThumbnailGenerator.php
+README.md
+composer.json

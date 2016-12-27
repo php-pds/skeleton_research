@@ -1,0 +1,10 @@
+src/
+tests/
+.gitignore
+.scrutinizer.yml
+LICENSE
+README.md
+circle.yml
+composer.json
+parameters.dist.yml
+phpunit.xml.dist

@@ -1,0 +1,14 @@
+example/
+src/
+tests/
+.gitignore
+.scrutinizer.yml
+.travis.yml
+LICENSE
+README.md
+checker
+composer.json
+on-success.txt
+phar-builder.php
+phpunit.xml.dist
+ruleset.xml

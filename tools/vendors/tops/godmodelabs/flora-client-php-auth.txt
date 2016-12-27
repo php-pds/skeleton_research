@@ -1,0 +1,6 @@
+src/Flora/Auth/
+test/
+.gitignore
+README.md
+composer.json
+phpunit.xml

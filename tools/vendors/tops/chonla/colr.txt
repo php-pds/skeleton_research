@@ -1,0 +1,6 @@
+src/Colr/
+tests/
+.gitignore
+Readme.md
+composer.json
+phpunit.xml

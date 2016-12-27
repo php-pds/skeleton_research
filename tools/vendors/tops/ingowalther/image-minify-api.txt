@@ -1,0 +1,9 @@
+bin/
+config/
+log/
+src/IngoWalther/ImageMinifyApi/
+web/
+.travis.yml
+composer.json
+phpunit.xml
+readme.md

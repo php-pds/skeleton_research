@@ -1,0 +1,5 @@
+makemymails-sms/
+README.rst
+composer.json
+contributors.txt
+example.php

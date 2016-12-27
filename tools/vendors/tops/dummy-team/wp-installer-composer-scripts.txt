@@ -1,0 +1,8 @@
+.gitignore
+Git.php
+LICENSE
+Parameters.php
+Readme.md
+Script.php
+Structure.php
+composer.json

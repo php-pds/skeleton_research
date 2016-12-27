@@ -1,0 +1,10 @@
+output/
+src/http-headers/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit-no-logging.xml
+phpunit.xml

@@ -1,0 +1,17 @@
+AFS/
+AIF/
+COMMON/
+doc/
+scripts/
+.gitignore
+.travis.yml
+COPYING
+COPYING.LESSER
+FAQ.md
+Makefile
+README.md
+afs_lib.doxygen
+afs_lib.php
+afs_version.php
+composer.json
+rules.mk

@@ -1,0 +1,9 @@
+build/
+src/Gencoding/Guzzle/Encoding/
+tests/
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.dist.xml

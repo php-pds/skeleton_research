@@ -1,0 +1,8 @@
+src/Zebra/MergeTable/
+tests/
+vendor/
+.gitignore
+README.md
+ROADMAP.md
+composer.json
+composer.lock

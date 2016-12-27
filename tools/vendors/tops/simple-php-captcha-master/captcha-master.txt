@@ -1,0 +1,8 @@
+backgrounds/
+fonts/
+composer.json
+generic.css
+index.php
+readme.md
+simple-php-captcha.php
+style.css

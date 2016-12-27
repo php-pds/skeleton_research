@@ -1,0 +1,10 @@
+build/
+src/emcconville/Polyline/
+test/
+.coveralls.yml
+.gitignore
+.travis.yml
+LICENSE
+README.md
+composer.json
+phpunit.xml.dist

@@ -1,0 +1,15 @@
+include/
+lib/
+www/
+.gitattributes
+.gitignore
+.gitmodules
+CONTRIBUTING.md
+LICENSE.LGPL
+README.md
+composer.json
+dompdf.php
+dompdf_config.custom.inc.php
+dompdf_config.inc.php
+index.php
+load_font.php

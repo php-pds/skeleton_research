@@ -1,0 +1,8 @@
+php/blinkmobile/
+tests/php/blinkmobile/
+.editorconfig
+.gitignore
+LICENSE
+README.md
+composer.json
+composer.lock
