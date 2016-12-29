@@ -84,7 +84,7 @@ naming standards.
    directories in the repository.
 
 Whereas the Packagist `list.json` file indicates 71746 packages total from 7682
-vendors (each with at least 4 packages), there were some cases where downloading
+vendors (each with more than 3 packages), there were some cases where downloading
 didn't work:
 
 - In step 2, sometimes the indicated package JSON file was not available.
