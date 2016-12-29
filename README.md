@@ -65,8 +65,8 @@ naming standards.
 
 1. Get the list of all packages on Packagist (cf. [`results/list.json`](./results/list.json)).
 
-2. Parse the list to find all vendors with at least 4 packages; having at least
-   4 implies a minimum level of experience and practice with building and
+2. Parse the list to find all vendors with more than 3 packages; having more
+   than 3 implies a minimum level of experience and practice with building and
    publishing packages.
 
 3. For each of those, fetch the package JSON files from Packagist ...
