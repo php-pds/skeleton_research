@@ -65,8 +65,8 @@ naming standards.
 
 1. Get the list of all packages on Packagist (cf. [`results/list.json`](./results/list.json)).
 
-2. Parse the list to find all vendors with at least 4 packages; having at least
-   4 implies a minimum level of experience and practice with building and
+2. Parse the list to find all vendors with more than 3 packages; having more
+   than 3 implies a minimum level of experience and practice with building and
    publishing packages.
 
 3. For each of those, fetch the package JSON files from Packagist ...
@@ -84,7 +84,7 @@ naming standards.
    directories in the repository.
 
 Whereas the Packagist `list.json` file indicates 71746 packages total from 7682
-vendors (each with at least 4 packages), there were some cases where downloading
+vendors (each with more than 3 packages), there were some cases where downloading
 didn't work:
 
 - In step 2, sometimes the indicated package JSON file was not available.
