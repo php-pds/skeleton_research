@@ -43,15 +43,13 @@ function checkDir($lines, $pass, array $fail)
     foreach ($lines as $line) {
         $line = trim($line);
         if ($line == $pass) {
-            return true;
+            continue;
         }
         if (in_array($line, $fail)) {
-            // echo "FAIL: ($line) ";
             return false;
         }
     }
 
-    // no related directory appears to be present
     return true;
 }
 
@@ -60,17 +58,15 @@ function checkFile($lines, $pass, array $fail)
     foreach ($lines as $line) {
         $line = trim($line);
         if (preg_match("/^{$pass}(\.[a-z]+)?$/", $line)) {
-            return true;
+            continue;
         }
         foreach ($fail as $regex) {
             if (preg_match($regex, $line)) {
-                // echo "FAIL: ($line) ";
                 return false;
             }
         }
     }
 
-    // no related file appears to be present
     return true;
 }
 
