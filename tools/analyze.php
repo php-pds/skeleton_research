@@ -409,6 +409,28 @@ class Analyze
         'Resource/' => self::RES_DIR,
         'ressources/' => self::RES_DIR,
         'Ressources/' => self::RES_DIR,
+
+        // extra items noted by Christophe Coevoet from the
+        // "all of packagist" list
+        'javascripts/' => self::PUBLIC_DIR,
+        'icons/' => self::PUBLIC_DIR,
+        'imgs/' => self::PUBLIC_DIR,
+        'wwwroot/' => self::PUBLIC_DIR,
+        'font/' => self::PUBLIC_DIR,
+
+        'src-dev/' => self::SRC_DIR,
+
+        'apidocs/' => self::DOCS_DIR,
+        'apidoc/' => self::DOCS_DIR,
+        'api-reference/' => self::DOCS_DIR,
+        'user_guide/' => self::DOCS_DIR,
+        'manuals/' => self::DOCS_DIR,
+        'phpdocs/' => self::DOCS_DIR,
+
+        'unittest/' => self::TESTS_DIR,
+        'unit_tests/' => self::TESTS_DIR,
+        'unit_test/' => self::TESTS_DIR,
+        'phpunit-tests/' => self::TESTS_DIR,
     ];
 
     protected $fileGroups = [

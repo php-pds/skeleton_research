@@ -26,7 +26,6 @@ foreach ($vendors as $vendor) {
             && checkSrc($lines)
             && checkResources($lines)
             && checkTests($lines)
-            && checkVendor($lines)
             && checkChangelog($lines)
             && checkContributing($lines)
             && checkLicense($lines)
@@ -67,17 +66,6 @@ function checkFile($lines, $pass, array $fail)
         }
     }
 
-    return true;
-}
-
-function checkVendor($lines)
-{
-    foreach ($lines as $line) {
-        $line = trim($line);
-        if ($line == 'vendor/') {
-            return false;
-        }
-    }
     return true;
 }
 
@@ -161,6 +149,13 @@ function checkDocs($lines)
         'doc/',
         'guide/',
         'phpdoc/',
+        // extra items from @stof
+        'apidocs/',
+        'apidoc/',
+        'api-reference/',
+        'user_guide/',
+        'manuals/',
+        'phpdocs/',
     ]);
 }
 
@@ -192,6 +187,12 @@ function checkPublic($lines)
         'public_html/',
         'publish/',
         'pages/',
+        // extra items from @stof
+        'javascripts/',
+        'icons/',
+        'imgs/',
+        'wwwroot/',
+        'font/',
     ]);
 }
 
@@ -219,6 +220,8 @@ function checkSrc($lines)
         'code/',
         'classes/',
         'func/',
+        // extra items from @stof
+        'src-dev/',
     ]);
 }
 
@@ -229,6 +232,11 @@ function checkTests($lines)
         'unit-tests/',
         'phpunit/',
         'testing/',
+        // extra items from @stof
+        'unittest/',
+        'unit_tests/',
+        'unit_test/',
+        'phpunit-tests/',
     ]);
 }
 

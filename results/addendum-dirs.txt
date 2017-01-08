@@ -1,5 +1,5 @@
 38798 vendors, 110212 packages
-source code directory		75722	68.7%
+source code directory		75734	68.7%
 	src/	65517	59.446%
 	lib/	4631	4.202%
 	code/	1660	1.506%
@@ -20,15 +20,20 @@ source code directory		75722	68.7%
 	autoloads/	58	0.053%
 	exception/	30	0.027%
 	func/	16	0.015%
+	src-dev/	12	0.011%
 	autoload/	11	0.01%
 	src-files/	2	0.002%
-tests directory		41527	37.7%
+tests directory		41545	37.7%
 	tests/	35839	32.518%
 	test/	5603	5.084%
 	testing/	34	0.031%
 	phpunit/	30	0.027%
 	unit-tests/	21	0.019%
-web directory		14197	12.9%
+	unittest/	5	0.005%
+	unit_tests/	5	0.005%
+	unit_test/	4	0.004%
+	phpunit-tests/	4	0.004%
+web directory		14344	13%
 	public/	3636	3.299%
 	assets/	2957	2.683%
 	web/	1479	1.342%
@@ -44,16 +49,21 @@ web directory		14197	12.9%
 	pages/	115	0.104%
 	media/	106	0.096%
 	styles/	81	0.073%
+	icons/	64	0.058%
 	html/	59	0.054%
 	public_html/	58	0.053%
 	style/	58	0.053%
 	asset/	52	0.047%
+	font/	51	0.046%
 	htdocs/	48	0.044%
 	pub/	40	0.036%
 	site/	34	0.031%
 	publish/	29	0.026%
 	mysite/	22	0.02%
+	javascripts/	18	0.016%
+	imgs/	9	0.008%
 	docroot/	7	0.006%
+	wwwroot/	5	0.005%
 	httpdocs/	4	0.004%
 resources directory		11765	10.7%
 	Resources/	9207	8.354%
@@ -71,7 +81,7 @@ configuration directory		11011	10%
 	conf/	158	0.143%
 	configs/	84	0.076%
 	configuration/	39	0.035%
-documentation directory		6355	5.8%
+documentation directory		6397	5.8%
 	docs/	4240	3.847%
 	doc/	1838	1.668%
 	documentation/	119	0.108%
@@ -79,6 +89,12 @@ documentation directory		6355	5.8%
 	manual/	51	0.046%
 	phpdoc/	21	0.019%
 	usage/	12	0.011%
+	apidocs/	10	0.009%
+	api-reference/	10	0.009%
+	user_guide/	7	0.006%
+	apidoc/	6	0.005%
+	manuals/	5	0.005%
+	phpdocs/	4	0.004%
 executables directory		5555	5%
 	bin/	4392	3.985%
 	scripts/	702	0.637%
@@ -86,7 +102,7 @@ executables directory		5555	5%
 	cli/	106	0.096%
 	script/	67	0.061%
 	shell/	32	0.029%
-other directories		56452
+other directories		56233
 	examples/	3705	3.362%
 	views/	2887	2.619%
 	app/	2789	2.531%
@@ -190,7 +206,6 @@ other directories		56452
 	plugin/	67	0.061%
 	class/	65	0.059%
 	ext/	64	0.058%
-	icons/	64	0.058%
 	l10n/	62	0.056%
 	framework/	61	0.055%
 	extras/	61	0.055%
@@ -205,7 +220,6 @@ other directories		56452
 	client/	52	0.047%
 	updates/	52	0.047%
 	gii/	51	0.046%
-	font/	51	0.046%
 	elements/	51	0.046%
 	event/	49	0.044%
 	upgrade/	49	0.044%
@@ -330,7 +344,6 @@ other directories		56452
 	skel/	18	0.016%
 	mails/	18	0.016%
 	wp-admin/	18	0.016%
-	javascripts/	18	0.016%
 	example-views/	17	0.015%
 	coverage/	17	0.015%
 	nuget/	17	0.015%
@@ -388,7 +401,6 @@ other directories		56452
 	cms/	12	0.011%
 	pi1/	12	0.011%
 	website/	12	0.011%
-	src-dev/	12	0.011%
 	cmd/	12	0.011%
 	filter/	12	0.011%
 	top/	12	0.011%
@@ -427,7 +439,6 @@ other directories		56452
 	nginx/	10	0.009%
 	hybridauth/	10	0.009%
 	controls/	10	0.009%
-	apidocs/	10	0.009%
 	notification/	10	0.009%
 	interface/	10	0.009%
 	databases/	10	0.009%
@@ -447,7 +458,6 @@ other directories		56452
 	extend/	10	0.009%
 	elementtypes/	10	0.009%
 	xhprof_html/	10	0.009%
-	api-reference/	10	0.009%
 	router/	10	0.009%
 	flags/	10	0.009%
 	notes/	9	0.008%
@@ -469,7 +479,6 @@ other directories		56452
 	yaml/	9	0.008%
 	posts/	9	0.008%
 	activity/	9	0.008%
-	imgs/	9	0.008%
 	storages/	9	0.008%
 	gulpTasks/	9	0.008%
 	profiles/	9	0.008%
@@ -537,7 +546,6 @@ other directories		56452
 	backups/	7	0.006%
 	ssl/	7	0.006%
 	import/	7	0.006%
-	user_guide/	7	0.006%
 	watchers/	7	0.006%
 	signature/	7	0.006%
 	out/	7	0.006%
@@ -583,7 +591,6 @@ other directories		56452
 	test-data/	6	0.005%
 	validator/	6	0.005%
 	autoloader/	6	0.005%
-	apidoc/	6	0.005%
 	block/	6	0.005%
 	entitites/	6	0.005%
 	publishable/	6	0.005%
@@ -618,14 +625,12 @@ other directories		56452
 	serializers/	5	0.005%
 	migrate/	5	0.005%
 	shortcuts/	5	0.005%
-	manuals/	5	0.005%
 	phpmailer/	5	0.005%
 	testcase/	5	0.005%
 	metadata-templates/	5	0.005%
 	phpseclib/	5	0.005%
 	parser/	5	0.005%
 	behat/	5	0.005%
-	unittest/	5	0.005%
 	mongodb/	5	0.005%
 	fuel/	5	0.005%
 	soap/	5	0.005%
@@ -665,10 +670,8 @@ other directories		56452
 	grammar/	5	0.005%
 	smarty/	5	0.005%
 	acf-json/	5	0.005%
-	unit_tests/	5	0.005%
 	mode/	5	0.005%
 	welcome/	5	0.005%
-	wwwroot/	5	0.005%
 	tag/	5	0.005%
 	direct/	5	0.005%
 	assets_b/	5	0.005%
@@ -691,11 +694,9 @@ other directories		56452
 	de/	5	0.005%
 	comment/	4	0.004%
 	cosmo/	4	0.004%
-	unit_test/	4	0.004%
 	externals/	4	0.004%
 	soapclient/	4	0.004%
 	adapter/	4	0.004%
-	phpdocs/	4	0.004%
 	completion/	4	0.004%
 	foundation/	4	0.004%
 	prototypes/	4	0.004%
@@ -789,7 +790,6 @@ other directories		56452
 	elgg-config/	4	0.004%
 	assets-dist/	4	0.004%
 	matura-tests/	4	0.004%
-	phpunit-tests/	4	0.004%
 	keys/	4	0.004%
 	travis-ci/	4	0.004%
 	xslt/	4	0.004%

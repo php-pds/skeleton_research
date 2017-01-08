@@ -321,7 +321,7 @@ Results:
 - [results/addendum-dirs.txt](./results/addendum-dirs.txt)
 - [results/addendum-files.txt](./results/addendum-files.txt)
 
-Of all the packages collected, 78078 (71%) of them appear compliant with the
+Of all the packages collected, 78725 (71%) of them appear compliant with the
 above recommendation.
 
 Results:
